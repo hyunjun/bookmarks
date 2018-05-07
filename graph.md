@@ -93,6 +93,7 @@ Graph
     * [MATCHES ARE THE NEW HOTNESS](http://maxdemarzi.com/2012/10/18/matches-are-the-new-hotness/)
   * [An Introduction to NOSQL, Graph Databases and Neo4j](http://www.slideshare.net/debanjanmahata/an-introduction-to-nosql-graph-databases-and-neo4j) java code example
   * [Intro to Neo4j presentation](http://www.slideshare.net/jexp/intro-to-neo4j-presentation) java, spring, ruby, cypher code example
+  * [Neo4j — get off the ground in 30min or less!](https://medium.com/neo4j/neo4j-get-off-the-ground-in-30min-or-less-3a226a0d48b1)
   * [Neo4S is an Neo ORM for Scala it uses the AnormCypher ibrary](https://github.com/mrkaspa/Neo4S)
   * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j)
   * [Introduction to Graph Databases](http://www.slideshare.net/maxdemarzi/introduction-to-graph-databases-12735789) you should use neo4j if you've ever joined 7 more tables
@@ -143,6 +144,7 @@ Graph
   * [Proudly Releasing: Efficient Graph Algorithms in Neo4j](https://medium.com/neo4j/proudly-releasing-efficient-graph-algorithms-in-neo4j-b61ab0ce55b2)
   * [Quick Import: Relato Business Graph Database from Data.World into Neo4j](https://medium.com/neo4j/quick-import-relato-business-graph-database-from-data-world-into-neo4j-1b9f16404951)
   * [Migrating from MySQL to Neo4j](https://engineering.logicgate.com/migrating-from-mysql-to-neo4j-2f6cb63a73c8)
+  * [Review prediction with Neo4j and TensorFlow](https://medium.com/octavian-ai/review-prediction-with-neo4j-and-tensorflow-1cd33996632a)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

@@ -197,6 +197,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+	* [JavaScript Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-may-2018-89d919267d96)
   * [JavaScript Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/javascript-top-10-open-source-of-the-month-v-apr-2018-22a06b763fd0)
   * [JavaScript Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-apr-2018-277b3ffcbd31)
   * [Learn Plain JavaScript from Top Articles for the Past Year (v.2018)](https://medium.mybridge.co/learn-plain-javascript-from-top-tutorials-for-the-past-year-v-2018-d964bc597a45)
@@ -404,6 +405,7 @@ Javascript
 * [D3.js 기초 - select API와 enter() 이해하기](http://blog.nacyot.com/articles/2015-02-02-d3-selection/)
 * [A Better Way to Code](https://medium.com/@mbostock/a-better-way-to-code-2b1d2876a3a0)
 * [Learn to visualize data with this free D3.js course](https://medium.freecodecamp.org/learn-to-visualize-data-with-this-free-d3-js-course-2433b060f9dc)
+* [Color Advice for Data Visualization with D3.js](https://medium.com/@Elijah_Meeks/color-advice-for-data-visualization-with-d3-js-33b5adc41c90)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)

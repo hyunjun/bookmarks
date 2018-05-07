@@ -600,6 +600,11 @@ Machine Learning
 * [Machine Learning Zero-to-Hero: Everything you need in order to compete on Kaggle for the first time, step-by-step!](https://towardsdatascience.com/machine-learning-zero-to-hero-everything-you-need-in-order-to-compete-on-kaggle-for-the-first-time-18644e701cf1)
 * [Feature Launch: Kaggle API](https://www.kaggle.com/product-feedback/48726)
 * [캐글 공식 API를 통해 다양한 머신러닝/딥러닝 데이터셋을 내려받고 서브미션 파일을 제출하는 과정을 알아봅니다](https://www.youtube.com/watch?v=fWYRrFCKJro)
+* 자전거 수요 예측
+  * [1 캐글 머신러닝 탐색적 데이터 분석](https://www.youtube.com/watch?v=Q_MbN-vu_2w)
+  * [2 캐글 머신러닝 사이킷런 랜덤포레스트 RMSLE 소개](https://www.youtube.com/watch?v=95fCw-n5uWM)
+  * [3 캐글 머신러닝 랜덤포레스트만으로 경진대회에 참여하기](https://www.youtube.com/watch?v=g7EwIFXJntc)
+  * [4 캐글 머신러닝 선형회귀, 릿지, 라쏘, 랜덤포레스트, 그라디언트 부스팅 모델을 사용하여 상위 5% 점수얻기](https://www.youtube.com/watch?v=woSEc5d_skE)
 * [오늘의 캐글](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1)
 * [Home Depot Product Search Relevance, 승자의 논평: 1등 | Alex, Andreas, & Nurlan](http://kweonwooj.tistory.com/tag/%EC%9C%A0%EC%82%AC%EB%8F%84%20%EC%98%88%EC%B8%A1)
 * [Creating your AI projects on Kaggle](https://medium.com/@benhamner/creating-your-ai-projects-on-kaggle-ff49f679f611)

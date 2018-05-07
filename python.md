@@ -33,7 +33,7 @@ Python
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
 * [python.zeef.com/luis.solis](https://python.zeef.com/luis.solis)
 * [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
-* [Intermediate Python](http://book.pythontips.com/en/latest/)
+* [Intermediate Python](http://book.pythontips.com)
   * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/)
 * [H3 2011 파이썬으로 클라우드 하고 싶어요_분산기술Lab_하용호](http://www.slideshare.net/kthcorp/h32011c6pythonandcloud-111205023210phpapp02)
 * **[구글로 공부하는 파이썬](http://freesugar.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)**
@@ -180,6 +180,7 @@ Python
 * [Dive Into Object-oriented Python](https://speakerdeck.com/lgiordani/dive-into-object-oriented-python)
 * [Python integer objects implementation](http://www.laurentluce.com/posts/python-integer-objects-implementation/)
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
+* [Python GUI Frameworks (Guide)](https://www.youtube.com/watch?v=RHCg3p9aP_I)
 * [Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)
 * [1. tkinter 모듈 시작하기](https://alegruz.imweb.me/blog/?bmode=view&idx=221667)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
@@ -331,13 +332,14 @@ Python
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc) David Beazley
 * [10 Neat Python Tricks Beginners Should Know](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
-* [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/index.html)
+* [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io)
   * **[Wrapping C/C++ for Python](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html)** wrapper
 * [Python Practices for Efficient Code: Performance, Memory, and Usability](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
 * [Python의 내부: 소개](https://blog.sn0wle0pard.io/2017/pythons-innards-introduction/)
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
+* [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
@@ -345,7 +347,6 @@ Python
 * How to Build a Simple Crypto Trading Simulator
   * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
-* [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763) email
 * [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
 
 # 한글, hangul
@@ -1168,6 +1169,21 @@ Python
 * [labs-face-hol - Azure Face API를 활용](https://github.com/allieus/labs-face-hol)
 * [Building and deploying an Enterprise Django Web App in 16 hours](https://medium.com/python-pandemonium/building-and-deploying-an-enterprise-django-web-app-in-16-hours-79e018f7b94c)
 * [What I Wish I Knew When I Started Django Development 2018](https://medium.com/@peeomid/what-i-wish-i-knew-when-i-started-django-development-2018-8ee88af21d4c)
+* [Django로 순식간에 블로그 만들기 - @chiyodad - 이모콘 EMOCON 2016 F/W](https://www.youtube.com/watch?v=m5pB4IJoNWI)
+
+# Email
+* [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
+* [Sending an Email in Python via Gmail](https://www.youtube.com/watch?v=mP_Ln-Z9-XY)
+* [Gmail API How To Send Email with Attachments Using GMAIL API For Beginners 2018](https://www.youtube.com/watch?v=YVgj9ngUlaY)
+* [Python - Sending Email With Gmail SMTP Server](https://www.youtube.com/watch?v=tMGsbWNIjt8)
+* [Send Email in Python using SMTP Server using Outlook and Gmail](https://www.youtube.com/watch?v=UBX2OmhmU4U)
+* [How to send email/gmail using python script step by step](https://www.youtube.com/watch?v=R-RKemmXhKs)
+* [How To Send an Email in Python With Attachments Easy for Beginners](https://www.youtube.com/watch?v=bXRYJEKjqIM)
+* [Python Basics: Sending E-mails](https://www.youtube.com/watch?v=qrJcblhVFzs)
+* [How to send an email with Python](https://www.youtube.com/watch?v=gzv183G9Vew)
+* [How to Read Emails using IMAP Download Attachments Python 3 for Beginners 2018](https://www.youtube.com/watch?v=e-OZeAHFpkw)
+* [elven.io - Email us to get any Python programming task completed](https://elven.io/)
+* [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -1465,6 +1481,9 @@ Python
   * [EN-FR Machine Translation with Various RNN Models in Google CoLab (1)](https://medium.com/@parkchansung/en-fr-machine-translation-with-various-rnn-models-in-google-colab-1-ffcc6caa65a6)
   * [Colab에서 PyTorch 사용하기](https://booilslab.blogspot.com/2018/03/colab-pytorch.html)
   * [Google Colab의 GPU 정보를 확인해 봤습니다](https://booilslab.blogspot.com/2018/04/google-colab-gpu.html)
+  * [무료 GPU로 파이썬 노트북을 사용할 수 있는 google Drive Colaboratory 소개](https://www.youtube.com/watch?v=XRBXMohjQos)
+  * [텐서플로우 백엔드를 사용해서 케라스 상에서 무료 GPU를 사용하는 방법을 알아봅니다](https://www.youtube.com/watch?v=UKujX90xLHo)
+  * [구글 드라이브의 Colabortory를 통해 파이썬 데이터 시각화툴(Matplotlib, Seaborn, Altair, Plotly, bokeh) 사용하기](https://www.youtube.com/watch?v=GCJQ9zbAhPo)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
@@ -1651,9 +1670,7 @@ Python
 * [Elizabeth - a Python library, which helps generate mock data for various purposes. This data can be particularly useful during software development and testing. http://lk-geimfari.github.io/elizabeth/](https://github.com/lk-geimfari/elizabeth)
   * [Generating mock data using Elizabeth: Part I](https://medium.com/wemake-services/generating-mock-data-using-elizabeth-part-i-ca5a55b8027c)
   * [Generating mock data with Elizabeth: Part II](https://medium.com/wemake-services/generating-mock-data-with-elizabeth-part-ii-bb16a3f3106f)
-* [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
-* [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 * [extruct is a library for extracting embedded metadata from HTML markup](https://github.com/scrapinghub/extruct)
 * [fabric](https://github.com/mathiasertl/fabric)
   * [fabric을 활용한 배포](http://thswave.github.io/python/fabric/2015/05/31/introduce-fabric.html)
@@ -1685,7 +1702,7 @@ Python
   * [파이썬 동시성 프로그래밍 - (5) 비동기 (gevent)](http://hamait.tistory.com/756)
   * [Watching filesystem updates with gevent](https://www.ibisc.univ-evry.fr/~fpommereau/blog/2015-05-28-watching-filesystem-updates-with-gevent.html)
   * **[gevent For the Working Python Developer](http://sdiehl.github.io/gevent-tutorial/)**
-* [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org/en/latest/](https://github.com/jeanphix/Ghost.py)
+* [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org](https://github.com/jeanphix/Ghost.py)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [Gooey (Beta) - Turn (almost) any Python Console Program into a GUI application with one line](https://github.com/chriskiehl/Gooey/)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
@@ -1858,7 +1875,11 @@ Python
 * [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
 * [pycallgraph - call graph visualizations for Python applications](http://pycallgraph.readthedocs.io/)
   * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
-* [PyAutoGUI - Cross-platform GUI automation for human beings](http://pyautogui.readthedocs.io/en/latest/)
+* [PyAutoGUI - Cross-platform GUI automation for human beings](http://pyautogui.readthedocs.io)
+  * [Python Programming - GUI Automation with PyAutoGUI](https://www.youtube.com/watch?v=1RE5tSPO2RI)
+  * [PyAutoGui: Automate GUI applications with Python and PyAutoGUI (Part 1)](https://www.youtube.com/watch?v=dUeCoUw9OoQ)
+  * [PyAutoGui: Automate the Calculator! (Part 2)](https://www.youtube.com/watch?v=CXtC8Jzxsvw)
+  * [PyAutoGui: Control the Mouse (Part 3)](https://www.youtube.com/watch?v=4rgt7Od7-KM)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
@@ -2022,7 +2043,7 @@ Python
     * not so much about the requests library per se than about tradeoffs in programming, handling of exotic edge cases and an exercise in pragmatism
   * [requests-mock provides a building block to stub out the HTTP requests portions of your testing code](https://github.com/jamielennox/requests-mock)
     * [requests-mock.readthedocs.io](http://requests-mock.readthedocs.io/)
-* [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org/en/latest/](https://github.com/csvoss/retroactive)
+* [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
 * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)

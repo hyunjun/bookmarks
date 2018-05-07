@@ -41,6 +41,7 @@ Data Science
   * [Part I Data Engineering: The Close Cousin of Data Science](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
+* [Data Engineers are in Greater Demand than Data Scientists](https://www.infoworks.io/2018/04/23/data-engineers-greater-demand-data-scientists/)
 * [Data Infrastructure at In Loco](https://medium.com/inlocotech/data-infrastructure-at-in-loco-5d954cb69b98)
   * Loco 라는 회사에서 일 약 15TB 데이터를 분석 및 BI 플랫폼에 활용하는 데이터 인프라 설명
   * Kafka, Presto, Airflow, Spark 사용

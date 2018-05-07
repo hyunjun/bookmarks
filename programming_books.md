@@ -314,8 +314,9 @@ Programming Books
   * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
 * (한라 NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
   * 2018.02
-* (탐라 NOT YET) 강화학습 첫 걸음
+* 강화학습 첫 걸음
 	* 2018.03
+  * 문004.73 줄239ㄱ
 * [처음 배우는 딥러닝 수학](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
 * (NOT YET) [딥러닝 워크북](http://m.post.naver.com/viewer/postView.nhn?volumeNo=15007933&memberNo=40845152)
 
@@ -699,10 +700,14 @@ Programming Books
   * 1부 - 코틀린 언어, 2부 - 앱 개발로 진행
 * Kotlin in action : 코틀린 컴파일러 개발자가 직접 알려주는 코틀린 언어 핵심
 	* 한라 005.133-제34ㅋ
-* (한라 NOT YET) [깡샘의 코틀린 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=13378953)
+* [깡샘의 코틀린 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=13378953)
 	* 2018.04
-* (한라 NOT YET) [자바 개발자를 위한 KOTLIN : 차세대 안드로이드 개발자를 위한](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=273985614&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)
+  * 한라 005.13 강54ㄲ
+  * 자세한 코틀린 문법, 안드로이드 to do앱, 웹 어플리케이션 개발(자바스크립트를 코틀린으로 대체)
+* [자바 개발자를 위한 KOTLIN : 차세대 안드로이드 개발자를 위한](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=273985614&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)
 	* 2018.04
+  * 한라 005.133 박76ㅋ
+  * 코틀린 기본, 안드로이드 스튜디오, 전화번호부 앱 개발
 
 # Linux
 
@@ -893,8 +898,10 @@ Programming Books
   * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
 * (탐라 NOT YET) [손에 잡히는 파이썬 - 부제 주피터 노트북을 이용한 파이썬 프로그래밍](http://bjpublic.tistory.com/298)
 	* 2018.04
-* (한라 NOT YET) [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
+* [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
 	* 2018.04
+  * 한라 005.133 김52ㅍ
+  * Tk, turtle, wxPython, pycharm 기초 사용법 등이 나온 점만 제외하면 완전히 입문서
 * (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
 * (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
   * 한라 005.133-미83ㅍ
@@ -941,8 +948,10 @@ Programming Books
 	* 한라 413.7임14ㅇ
   * [이토록 쉬운 통계&R](https://rpubs.com/fermat39/statisticsandr2)
   * 통계 기본(Ch.1~3) + R(Ch.4)
-* (한라 NOT YET) [R로 배우는 실무 데이터과학](http://jpub.tistory.com/742)
+* [R로 배우는 실무 데이터 과학](http://jpub.tistory.com/742)
 	* 2018.04
+  * 005.7 줌34ㅇ
+  * R을 이용한 데이터 과학 입문서 + RStudio, library 사용법 등
 * (한라 NOT YET) R로 배우는 코딩
 	* 005.1-장65ㅇ
 * (한라 NOT YET) (빅데이터 분석의 첫걸음) R로 배우는 코딩
@@ -998,9 +1007,9 @@ Programming Books
 * Mastering Apache Spark 마스터링 아파치 스파크
   * 한라 005.76 프293ㅁ
   * GraphX 있음
-* (탐라 NOT YET) 9가지 사례로 익히는 고급 스파크 분석 : 현실 세계 빅데이터로 배우는 가장 실용적인 스파크 활용서
-  * 탐라 문005.74 라68
-  * 번역이 최근에 되어 그렇지, 예전 책. 1.2를 사용
+* 9가지 사례로 익히는 고급 스파크 분석 : 현실 세계 빅데이터로 배우는 가장 실용적인 스파크 활용서
+  * 탐라 문005.74 라68; 번역이 최근에 되어 그렇지, 예전 책. 1.2를 사용
+  * 탐라 문005.76 라69ㅇ 2판; 2.x기준
 * [스파크: 빅데이터 관리자를 위한 클러스터 테크닉](http://www.yes24.com/24/goods/32435764)
   * 탐라 문005.76굴29ㅅ
   * 제목처럼 관리자를 위한 책이라 프로그래밍 설명이 많지는 않음

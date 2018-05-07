@@ -175,6 +175,10 @@
   * [Spark 2.0 Technical Preview: Easier, Faster, and Smarter](https://databricks.com/blog/2016/05/11/spark-2-0-technical-preview-easier-faster-and-smarter.html)
   * [Apache Spark 2.0 presented by Databricks co-founder Reynold Xin](https://www.brighttalk.com/webcast/12891/202021)
   * [APACHE SPARK 2.0 API IMPROVEMENTS: RDD, DATAFRAME, DATASET AND SQL](http://www.agildata.com/apache-spark-2-0-api-improvements-rdd-dataframe-dataset-sql/)
+    * RDD 보다 DataFrame, DataSet 이 속도는 두배 이상, 메모리 사용량은 1/4 미만
+    * 도저히 DataFrame, DataSet 을 쓸수 없는 데이타(예를들어 기본 API 가 제공하지 않는 변환작업을 해야 하거나, 데이타가 뉴스 본문같은 구조화 할수없는 데이타이거나)가 아니면 RDD 말고 DataFrame, DataSet 사용
+    * RDD; 자유도가 높음(Programming)
+    * DataFrame; 자유도가 낮음(SQL-like) 대신 데이터 저장공간, 병렬화, 메모리 사용, 복합 쿼리 실행 플랜 등 아주 여러 부분에서 최적화 작업이 가능하고, 많이 최적화 작업이 되어있음
   * [Spark 2.0 – Datasets and case classes](https://blog.codecentric.de/en/2016/07/spark-2-0-datasets-case-classes/)
   * [Apache Spark 2.0 Performance Improvements Investigated With Flame Graphs](http://db-blog.web.cern.ch/blog/luca-canali/2016-09-spark-20-performance-improvements-investigated-flame-graphs)
   * [Generating Flame Graphs for Apache Spark](https://gist.github.com/kayousterhout/7008a8ebf2babeedc7ce6f8723fd1bf4)
@@ -485,6 +489,7 @@
 * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
 * [Spark Deep Learning Pipelines](https://www.facebook.com/nextobe1/posts/342192122883456)
 * [Machine Learning with Apache Spark](https://josepraveen.com/2018/02/04/machine-learning-with-apache-spark/)
+* [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
@@ -564,6 +569,10 @@
 * **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
   * [PySpark-Boilerplate](https://github.com/ekampf/PySpark-Boilerplate)
 * [How to use PySpark on your computer](https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617)
+* [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by Wes McKinney](https://www.youtube.com/watch?v=qIKImANLFtE)
+	* [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by: Wes McKinney](https://www.slideshare.net/SparkSummit/improving-python-and-spark-performance-and-interoperability-spark-summit-east-talk-by-wes-mckinney)
+* [High Performance Python On Spark](https://www.youtube.com/watch?v=abZ0f5ug18U)
+	* [High Performance Python on Apache Spark](https://www.slideshare.net/wesm/high-performance-python-on-apache-spark)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
@@ -591,6 +600,7 @@
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 * [분석가의 Spark SQL](https://wikidocs.net/book/1686)
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
+	* DataFrame이 RDD와 다르게 최적화를 적용할 수 있는 이유
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
 * [Spark Data Source API. Extending Our Spark SQL Query Engine](https://hackernoon.com/extending-our-spark-sql-query-engine-5f4a088de986)
@@ -602,6 +612,7 @@
   * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
 * [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
   * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
+* [Spark SQL: Another 16x Faster After Tungsten](https://databricks.com/session/spark-sql-another-16x-faster-after-tungsten)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)

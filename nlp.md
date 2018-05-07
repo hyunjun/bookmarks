@@ -217,6 +217,7 @@ NLP
     * (ex. Non-autoregressive transformer, Masked self-attention, Directional self-attention)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [파이썬자연어처리](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrmRyBUMsDDFk_FyLF9fARR)
+* **[Text Analysis Developers’ Workshop 2018 참석 후기](http://freesearch.pe.kr/archives/4791)**
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -799,6 +800,7 @@ NLP
 * [Sentiment analysis in Korean](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras/tree/master/6.%20Examples/Sentiment%20analysis%20in%20Korean)
 * [IMDB 영화리뷰 감정 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmocBySMhvBttyAD8eZelFIP)
 * [소셜 미디어 감성분석을 통한 주가 예측](http://blog.naver.com/anthouse28/221082691132)
+* [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)

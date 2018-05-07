@@ -141,6 +141,8 @@ Keras
 * [Using Keras via Docker](https://github.com/keras-team/keras/tree/master/docker)
 * [Simple guide on how to generate ROC plot for Keras classifier](https://hackernoon.com/simple-guide-on-how-to-generate-roc-plot-for-keras-classifier-2ecc6c73115a)
 * [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
+* [Deep Learning과 Keras 기초 - 아샬(@ahastudio)](https://www.youtube.com/watch?v=GSYVgQwc2P0)
+* [세종국책연구단지에 딥러닝 모델 심기](https://tykimos.github.io/2018/05/16/ISS_Plant_DeepLearning_Model_in_SNRC/)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

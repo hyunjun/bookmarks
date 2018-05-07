@@ -102,6 +102,12 @@ Finance
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
 * **[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)**
 * [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
+* [Zipline - a Pythonic algorithmic trading library](http://www.zipline.io/)
+  * Zipline Tutorial local backtesting and finance with Python
+    * [Installation p.1](https://www.youtube.com/watch?v=J4LTIixReMA)
+    * [Visualizing Strategy Metrics p.2](https://www.youtube.com/watch?v=GJJzsfJUiB8)
+    * [Custom Data Panel p.3](https://www.youtube.com/watch?v=ZEULPvS_eeI)
+    * [Trading Custom Markets (bitcoin example) p.4](https://www.youtube.com/watch?v=rYV102VfG7o)
 
 # R
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
