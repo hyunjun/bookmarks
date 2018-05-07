@@ -61,6 +61,8 @@ Python
   * [python GIL](https://medium.com/@mjhans83/python-gil-f940eac0bef9)
   * [파이썬 GIL 깊숙히! (上)](http://highthroughput.org/wp/cb-1136/)
   * [파이썬 GIL 깊숙히! (상) 에 대한 몇 가지 변명](http://highthroughput.org/wp/cb-1146/)
+  * [Andrew Montalenti: Beating Python's GIL to Max Out Your CPUs](https://www.youtube.com/watch?v=gVBLF0ohcrE)
+  * [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
@@ -676,6 +678,9 @@ Python
     * [practice](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_pool.py)
   * [Functional Programming in Python: Parallel Processing with "multiprocessing"](https://www.youtube.com/watch?v=aysceqdGFw8)
   * [Functional Programming in Python: Parallel Processing with "concurrent.futures"](https://www.youtube.com/watch?v=0NNV8FDuck8)
+  * [Amber Brown Implementing Concurrency and Parallelism From The Ground Up PyCon 2017](https://www.youtube.com/watch?v=31fXwpb0P9c)
+  * [Multiprocessing with Python](https://www.youtube.com/watch?v=s1SkCYMnfbY)
+  * [Using Multiple Cores In Python](https://www.youtube.com/watch?v=ZWRuOkH0qkY)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -1468,6 +1473,7 @@ Python
 * [Inserting image into IPython notebook markdown](https://stackoverflow.com/questions/10628262/inserting-image-into-ipython-notebook-markdown)
 * [Make a notebook from a script](https://gist.github.com/takluyver/c7eacd6d52aad4d75cbd48e447f6ad20)
 * [파이썬 X 스타벅스 매장 데이터와 지도](http://nbviewer.jupyter.org/gist/FinanceData/b68b2840b43a2ff18b0295ed3732fb1d)
+* [IPython & Jupyter in depth: high productivity interactive and parallel python PyCon 2015](https://www.youtube.com/watch?v=05fA_DXgW-Y)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -1649,6 +1655,7 @@ Python
   * [cython](https://github.com/cython)
   * [Speeding up non-vectorizable code with Cython](http://isaacslavitt.com/2015/08/08/speeding-up-with-cython/)
   * [Fast Python loops with Cython](http://nealhughes.net/cython1/)
+  * [Easy wins with Cython: fast and multi-core by Caleb Hattingh](https://www.youtube.com/watch?v=NfnMJMkhDoQ)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
