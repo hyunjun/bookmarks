@@ -395,6 +395,9 @@ Programming
   * [Compute Engine에 Bitbucket 설치하기](https://jungwoon.github.io/bitbucket/google%20cloud/2018/04/18/Data-Bitbucket-Installation-On-GCE/)
   * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/google%20cloud/2018/04/13/Data-JIRA-Installation-On-GCE/)
   * [GCP의 새로운 대화형 CLI](https://developers-kr.googleblog.com/2018/04/gcp-cli.html)
+  * [Container Engine (GKE #1. 개념)](http://jybaek.tistory.com/658)
+  * [Container Engine (GKE #2. cluster 생성)](http://jybaek.tistory.com/659)
+  * [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -772,6 +775,7 @@ Programming
   * [4월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/04/b-4-2.html)
   * [4월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/04/b-4-3.html)
   * [4월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/04/b-4-4.html)
+  * [5월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/05/b-4-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

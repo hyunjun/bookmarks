@@ -274,6 +274,7 @@ ElasticSearch - Lucene
 * [What's Evolving in Elasticsearch](https://www.elastic.co/elasticon/conf/2018/sf/whats-evolving-in-elasticsearch)
 * [Synonym filter 테스트](http://jjeong.tistory.com/1323)
 * [Synonym filter position 문제 개선](http://jjeong.tistory.com/1325)
+* [Previewing Elasticsearch 6.3 SQL Feature](https://medium.com/@mustafaakin/previewing-elasticsearch-6-3-sql-feature-2d3a1d60cab4) 6.3부터 SQL 지원. 프리뷰
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)

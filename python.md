@@ -1175,6 +1175,7 @@ Python
 * [Building and deploying an Enterprise Django Web App in 16 hours](https://medium.com/python-pandemonium/building-and-deploying-an-enterprise-django-web-app-in-16-hours-79e018f7b94c)
 * [What I Wish I Knew When I Started Django Development 2018](https://medium.com/@peeomid/what-i-wish-i-knew-when-i-started-django-development-2018-8ee88af21d4c)
 * [Django로 순식간에 블로그 만들기 - @chiyodad - 이모콘 EMOCON 2016 F/W](https://www.youtube.com/watch?v=m5pB4IJoNWI)
+* [Building an API with Django REST Framework and Class-Based Views](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)

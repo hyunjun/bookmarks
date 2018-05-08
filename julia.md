@@ -72,6 +72,7 @@ Julia
 * [High-Performance GPU Computing in the Julia Programming Language](https://devblogs.nvidia.com/parallelforall/gpu-computing-julia-programming-language/)
 * [On Machine Learning and Programming Languages](https://julialang.org/blog/2017/12/ml&pl)
 * [Julia v0.7.0 릴리즈 노트](https://github.com/juliakorea/translate-doc/wiki/NEWS)
+* [Solve the ‘unsolvable’ with Monte Carlo methods](https://medium.freecodecamp.org/solve-the-unsolvable-with-monte-carlo-methods-294de03c80cd)
 
 # API
 * Pkg.add

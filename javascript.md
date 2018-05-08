@@ -1143,6 +1143,7 @@ Javascript
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 * [React.js Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-apr-2018-b73b9b4e95d5)
+* [React.js Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-may-2018-e30edac96392)
 * [React.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-apr-2018-e3cccab07012)
 * [React.js Top 10 Open Source Projects (v.Mar 2018)](https://medium.mybridge.co/react-js-top-10-open-source-projects-v-mar-2018-7eff0c0d3a2a)
 * [React.js Top 10 Articles for the Past Month (v.Feb 2018)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-feb-2018-78e4d700b900)
@@ -1233,6 +1234,8 @@ Javascript
 * [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 * [Infinite scroll techniques in React](https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd)
 * [React / Material-UI](https://www.youtube.com/playlist?list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk)
+* [리액트(React) 버전 16+ 총정리](https://www.vobour.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%EB%B2%84%EC%A0%84-16-%EC%B4%9D%EC%A0%95%EB%A6%AC)
+* [카카오페이지 웹 React 포팅 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

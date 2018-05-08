@@ -21,6 +21,7 @@ Web
 * [Web 학습하기](https://developer.mozilla.org/ko/docs/Learn)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
+* [Knowre web development curriculum 2018](https://github.com/Knowre-Dev/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 * [How to receive a million packets per second](https://blog.cloudflare.com/how-to-receive-a-million-packets/)
@@ -316,6 +317,7 @@ Web
 * [노마드 가이드 PWA 웹사이트](https://brunch.co.kr/@lynnata/148)
 * [A progressive Web application with Vue JS, Webpack & Material Design Part 1](https://blog.sicara.com/a-progressive-web-application-with-vue-js-webpack-material-design-part-1-c243e2e6e402)
 * [Progressive Web Apps on iOS are here 🚀](https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7)
+* [MDN 웹 문서의 프로그레시브 웹 앱 핵심 가이드](http://hacks.mozilla.or.kr/2018/05/mdn-%ec%9b%b9-%eb%ac%b8%ec%84%9c%ec%9d%98-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%a0%88%ec%8b%9c%eb%b8%8c-%ec%9b%b9-%ec%95%b1-%ed%95%b5%ec%8b%ac-%ea%b0%80%ec%9d%b4%eb%93%9c/)
 
 # Python
 * Let’s Build A Web Server

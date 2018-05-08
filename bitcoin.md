@@ -39,8 +39,10 @@ Bitcoin
 * [Table of Contents of Naivecoin Korean Translate Version](https://newpouy.github.io/jekyll/update/2018/03/25/table-of-naivecoin-kr.html)
 * [SMT(SmartMesh) 토큰 무한생성 해킹 설명과 대비책](https://medium.com/@kevin.j/smt-%ED%86%A0%ED%81%B0-%EC%9D%B4%EC%A4%91%EC%A7%80%EB%B6%88-%ED%95%B4%ED%82%B9-%EC%84%A4%EB%AA%85%EA%B3%BC-%EB%8C%80%EB%B9%84%EC%B1%85-8bef3f41bcd2)
 * [비트코인 논문 한국어 번역판 (ver0.92)](https://encodent.com/bitcoin)
+* [Let’s Destroy Bitcoin](https://medium.com/mit-technology-review/lets-destroy-bitcoin-3211861ce7a3)
 
 # Blockchain
+* [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
 * [A developer-oriented series about Bitcoin](http://davidederosa.com/basic-blockchain-programming/)
 * [블록체인 속 핀테크를 보다 ① 블록체인이란?](http://www.bloter.net/archives/230157)
 * [중개자들을 없애는 블록체인](http://www.thestartupbible.com/2015/07/how-blockchain-can-get-rid-of-middlemen.html)
@@ -104,6 +106,7 @@ Bitcoin
   * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
   * [MS, 블록체인 클라우드 서비스 ‘ETH BaaS’ 선보여](http://www.bloter.net/archives/243623)
   * [Ethereum의 state trie pruning](https://blog.seulgi.kim/2018/04/state-trie-pruning.html)
+  * [Modified Merkle Patricia Trie - ethereum이 상태를 저장하는 방법](https://blog.seulgi.kim/2018/05/modified-merkle-patricia-trie.html)
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)

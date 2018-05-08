@@ -30,6 +30,7 @@ Programming Books
 	* 한라 005.11-니58ㅋ
 * (NOT YET) [카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196203726&orderClick=LEA&Kc=)
 	* 2018.05 탐라
+  * [카프카, 데이터 플랫폼의 최강자](http://jhrogue.blogspot.kr/2018/05/blog-post.html)
 * (NOT YET) [반갑다 Ionic](http://bjpublic.tistory.com/296)
 	* 2018.05 한라
 

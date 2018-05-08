@@ -393,6 +393,8 @@ Apache
   * 간단한 작업에도 적합할까?
 * [Apache NiFi 소개 및 Tensorflow 연동](https://www.facebook.com/nextobe1/posts/337425993360069)
 * [HORTONWORKS DATAFLOW (HDF) 3.1 BLOG SERIES PART 5: INTRODUCING APACHE NIFI-ATLAS INTEGRATION](https://ko.hortonworks.com/blog/hdf-3-1-blog-series-part-6-introducing-nifi-atlas-integration/) Apache NiFi와 Apache Atlas를 Hortonwork DataFlow에 통합하여 Kafka, Hive 등의 데이터를 추적하는 방법을 간략하게 설명
+* [Best practices for using Apache NiFi in real world projects - 3 takeaways](https://medium.com/@abdelkrim.hadjidj/best-practices-for-using-apache-nifi-in-real-world-projects-3-takeaways-1fe6912101db)
+  * PoC에서 프로덕션 환경 적용까지 필요한 사례 소개
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
