@@ -292,8 +292,6 @@ TensorFlow
   * reduce_sum대신 matmul을 이용해 재현성 해결
 * [dl-3cushion-hint - 딥러닝을 이용한 3쿠션 힌트 안드로이드앱](https://github.com/choonguri/dl-3cushion-hint)
 * [TPOT: Automatic ML](https://tensorflow.blog/2016/05/10/tpop-automatic-ml/)
-* [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
-* [Onsets and Frames: Dual-Objective Piano Transcription](https://magenta.tensorflow.org/onsets-frames) polyphonic 피아노 음악 녹음을 위한 새로운 모델
 * [Tensorflow for Deep Learning](https://www.slideshare.net/taeyounglee1447/tensorflow-for-deep-learning)
 * [텐서플로우에서 array index를 문자열로 변환하는 방법](http://bcho.tistory.com/1181)
 * [텐서플로우에서 checkpoint와 saved model의 차이와 모델을 export할때 그래프를 다시 그리는 이유](http://bcho.tistory.com/1183)
@@ -515,6 +513,10 @@ TensorFlow
   * [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
   * Uber 내부 ML- 서비스 플랫폼인 Michelangelo의 딥러닝 툴킷의 오픈소스 구성 요소
   * 바이두의 논문에서 소개된 TensorFlow ring-allreduce algorithm을 기반으로 시작하여, 최근에는 nVidia의 NCCL로 변경
+* Magenta
+  * [Connecting with Music Through Magenta.js](https://magenta.tensorflow.org/blog/2018/05/03/connecting-with-magenta-js/)
+  * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
+  * [Onsets and Frames: Dual-Objective Piano Transcription](https://magenta.tensorflow.org/onsets-frames) polyphonic 피아노 음악 녹음을 위한 새로운 모델
 * [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 * [Nvidia-docker 기반 Tensorflow 사용하기](https://www.facebook.com/notes/hyeon-gab-shin/1nvidia-docker-%EA%B8%B0%EB%B0%98-tensorflow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/1187222141322502)
 * [paddlepaddle.org](http://www.paddlepaddle.org/)
@@ -550,6 +552,7 @@ TensorFlow
   * [TensorFlow backend for TensorFlow.js via Node.js](https://github.com/tensorflow/tfjs-node)
   * [소개 및 데모](http://smartaedi.tistory.com/263)
   * [Deep learning in your browser: A brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
+  * [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

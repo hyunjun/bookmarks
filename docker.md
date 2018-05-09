@@ -392,7 +392,6 @@ Docker
 * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
 * [Kubernetes RBAC 위에서 DataDog agent 돌리기](https://andromedarabbit.net/kubernetes-rbac-%EC%9C%84%EC%97%90%EC%84%9C-datadog-agent-%EB%8F%8C%EB%A6%AC%EA%B8%B0/)
 * [Kubernetes 운영 17개월의 성과와 교훈](https://dailyhotel.io/kubernetes-%EC%9A%B4%EC%98%81-17%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%84%B1%EA%B3%BC%EC%99%80-%EA%B5%90%ED%9B%88-adf716bd72b1)
-* [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html?m=1)
 * [The anatomy of Spark applications on Kubernetes](https://banzaicloud.com/blog/spark-k8s-internals/)
   * Kubernetes에 대한 Spark의 실험적 지원과 인-클러스터 클라이언트 모드에 대한 향후 지원에 대해 설명
   * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
@@ -406,6 +405,7 @@ Docker
 * [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 * [A Kubernetes quick start for people who know just enough about Docker to get by](https://blog.sourcerer.io/a-kubernetes-quick-start-for-people-who-know-just-enough-about-docker-to-get-by-71c5933b4633)
 * Kubeflow
+  * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html?m=1)
   * Kubeflow는 Kubernetes에서 ML 스택의 사용을 쉽고 빠르며 확장 할 수 있도록 능률화하기 위해 Github에서 호스팅되는 새로운 오픈소스 프로젝트
   * 비전
     * 생산 준비가 된 ML 시스템의 생성을 단순화하고, 클러스터간에 ML 스택의 이동성을 보장하며, 모든 클러스터 크기로 쉽게 확장
@@ -416,6 +416,7 @@ Docker
 * **[A Kubernetes guide for Docker Swarm lovers](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)**
 * [Machine Learning Platform for Kubernetes](https://riseml.com/)
   * [Accelerating I/O bound deep learning on shared storage](https://blog.riseml.com/accelerating-io-bound-deep-learning-e0e3f095fd0)
+* [Can Kubernetes Revolutionize The Enterprise World?](https://hackernoon.com/can-kubernetes-revolutionize-the-enterprise-world-86f4ec147d1f)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

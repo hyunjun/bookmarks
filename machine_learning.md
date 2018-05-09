@@ -227,6 +227,7 @@ Machine Learning
 * [topdata.news](http://topdata.news/)
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
+* [Clustering Based Unsupervised Learning](https://towardsdatascience.com/clustering-based-unsupervised-learning-8d705298ae51)
 * [NDC 2016 김정주 - 기계학습을 활용한 게임 어뷰징 검출](http://www.slideshare.net/ssuser163469/ndc-2016-61452271)
 * [Feature Selection Technical Report](http://featureselection.asu.edu/)
   * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
@@ -608,6 +609,7 @@ Machine Learning
 * [오늘의 캐글](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo4hpZKEGi05UFN0tpwHVG1)
 * [Home Depot Product Search Relevance, 승자의 논평: 1등 | Alex, Andreas, & Nurlan](http://kweonwooj.tistory.com/tag/%EC%9C%A0%EC%82%AC%EB%8F%84%20%EC%98%88%EC%B8%A1)
 * [Creating your AI projects on Kaggle](https://medium.com/@benhamner/creating-your-ai-projects-on-kaggle-ff49f679f611)
+* [How I got in the top 1 % on Kaggle](https://towardsdatascience.com/how-i-got-in-the-top-1-on-kaggle-79ddd7c07f1c)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

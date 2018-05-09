@@ -273,6 +273,7 @@ Data Science
   * [Principles of Guided Analytics](https://www.kdnuggets.com/2018/03/principles-guided-analytics.html)
 
 # Library
+* ["가자, 데이터의 세계로" 무료 애널리틱스 툴 7선](http://www.ciokorea.com/news/38154)
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)

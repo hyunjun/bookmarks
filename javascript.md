@@ -359,6 +359,7 @@ Javascript
 * [Angular에 다국어 적용](http://tech.gitple.io/2017/12/06/angular-translate/)
 * [Angular 5 Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ)
 * [Angular 6 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQlqCmHqDyW3yo5V79C7eaTe)
+* [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4)
 * [Angular: writing configurable modules](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
 * [Display a Table using Components with Angular 4](https://codeburst.io/display-a-table-using-components-with-angular-4-f13f0971666d)
 
@@ -415,6 +416,7 @@ Javascript
 * [ES6 In Depth: Classes](https://hacks.mozilla.org/2015/07/es6-in-depth-classes/)
 * [ES6](http://justicen.com/#/posts/74046fea9a4c61477db9)
 * [ES6 Tail Call Optimization Explained](http://benignbemine.github.io/2015/07/19/es6-tail-calls/)
+* [Want to learn ES6+? Here’s a free 23-part course that will give you a strong foundation](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74)
 * [Chiffon - A very small ECMAScript parser, tokenizer and minify written in JavaScript](https://github.com/polygonplanet/Chiffon)
 * [자바스크립트 function\* (generator function)](https://gs.saro.me/#!m=elec&jn=726)
 * [Javascript class](https://gs.saro.me/#!m=elec&jn=732)
@@ -953,6 +955,7 @@ Javascript
 * [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-may-2018-303a821c493c)
 * [Node.js Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/node-js-top-10-open-source-of-the-month-v-apr-2018-6f209d974ee6)
 * [Node.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-apr-2018-5b1b71deee86)
 * [Node.js Top 10 Open Source Projects for the Past Month (v.Mar 2018)](https://medium.mybridge.co/node-js-top-10-open-source-projects-for-the-past-month-v-mar-2018-6047fc05b1bb)
@@ -1319,6 +1322,7 @@ Javascript
 * [React Desktop - React UI Components for OS X El Capitan and Windows 10](https://github.com/gabrielbull/react-desktop)
 * [react-form-generator - Generate, validate, and parse React forms using Mongoose-inspired JSON schemas](https://github.com/SteveVitali/react-form-generator)
 * [Reactiflux is moving to Discord](https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html)
+* [React Lifecycle Visualizer](https://github.com/Oblosys/react-lifecycle-visualizer)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
   * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
@@ -1407,6 +1411,9 @@ Javascript
 * [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 * [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 * [TypeScript vs.  JavaScript](https://hackernoon.com/typescript-vs-javascript-b568bc4a4e58)
+* [TypeScript와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기](https://www.youtube.com/watch?v=H16gTwa2J7g)
+* [Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/)
+* [우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

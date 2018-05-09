@@ -6,6 +6,7 @@ Go
 * [Hello, Go! - GoLang과의 첫 만남](http://www.sauru.so/blog/hello-go/)
 * [Go language 첫인상](https://libsora.so/posts/golang-first-impression/)
 * [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
+* [Hello Go](https://medium.com/@caspervonb/hello-go-3e207da92da0)
 * [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 * [The Doors Go Has Opened](https://medium.com/@arschles/the-doors-go-has-opened-a4b5d0f10ea7)
 * [Here are some amazing advantages of Go that you don’t hear much about](https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a)
@@ -175,6 +176,7 @@ Go
 * [Interactive Go programming with Jupyter](https://towardsdatascience.com/interactive-go-programming-with-jupyter-93fbf089aff1)
 * [golang: Explicit is better than implicit?](https://medium.com/@leejongsoo/golang-explicit-is-better-than-implicit-f6184e684922)
 * [The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d)
+* [Build Your Own Distributed Database With Go](https://www.youtube.com/watch?v=rxzcx4HaCQo)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

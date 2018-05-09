@@ -216,6 +216,7 @@ Python
   * [화면 모드](https://ash84.net/2017/04/18/pycharm-display-mode/)
   * [Pylinting with PyCharm](https://kirankoduru.github.io/python/pylint-with-pycharm.html)
   * [2017.1 iPython 설치 후 디버깅 콘솔에서 KeyError 발생 시](http://mcchae.egloos.com/11266429)
+  * [PyCharm에서 임의의 코드를 디버깅하는 방법](http://mcchae.egloos.com/11295372)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap/](https://github.com/sethoscope/heatmap)
@@ -1723,6 +1724,7 @@ Python
     * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
 		* [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
+* [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
 * [gping - Ping, but with a graph](https://github.com/orf/gping)
@@ -1863,6 +1865,7 @@ Python
   * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
   * [pipenv 소개](http://gyus.me/?p=653)
   * [pipenv 란 무엇인가](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)
+  * [파이선 가상환경을 품은 패키지 관리자, pipenv](https://graspthegist.com/post/python-pipenv/)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`

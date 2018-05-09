@@ -360,6 +360,7 @@ R
 * [Rvision](https://github.com/swarm-lab/Rvision)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
 * Shiny
+  * [Awesome R Shiny](https://github.com/grabear/awesome-rshiny)
   * [Shiny Module](https://www.slideshare.net/ssuser7e30b2/shiny-module-91242226)
   * [R과 shiny를 이용한 web application 제작](https://github.com/cardiomoon/shinyLecture2)
   * [Hierarchical Clustering with R (feat. D3.js and Shiny)](http://www.joyofdata.de/blog/hierarchical-clustering-with-r/)
