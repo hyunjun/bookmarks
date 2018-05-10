@@ -119,8 +119,14 @@ Deep Learning
 * [A Beginner’s Guide to Restricted Boltzmann Machines](http://deeplearning4j.org/restrictedboltzmannmachine.html)
 * [Energy based models and boltzmann machines - v2.0](http://www.slideshare.net/blaswan/energy-based-models-and-boltzmann-machines-v20)
 * [내맘대로 이해하는 Deep Belief Network와Restricted Boltzmann Machine](http://whydsp.org/283)
-* [Deep learning for assisting the process of music composition (part 1)](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1/)
+* Deep learning for assisting the process of music composition
+  * [part 1](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1)
+  * [part 2](https://highnoongmt.wordpress.com/2015/08/12/deep-learning-for-assisting-the-process-of-music-composition-part-2)
+  * [part 3](https://highnoongmt.wordpress.com/2015/08/13/deep-learning-for-assisting-the-process-of-music-composition-part-3)
+  * [part 4](https://highnoongmt.wordpress.com/2015/08/15/deep-learning-for-assisting-the-process-of-music-composition-part-4)
 * [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html)
+* [End-to-end Music Classification](https://www.slideshare.net/JunKim22/endtoend-music-classification-96586946)
+* [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
   * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)
@@ -593,7 +599,6 @@ Deep Learning
   * [practice](https://gist.github.com/hyunjun/fe2293dc299e0d0c4a1a761f13a173cd)
   * [Exploring DeepFakes](https://www.kdnuggets.com/2018/03/exploring-deepfakes.html)
   * [FaceIt](https://github.com/goberoi/faceit)
-* [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
 * [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
 * [The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
 * [Continuous Unsupervised Training of Deep Architectures](https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures)
@@ -645,6 +650,23 @@ Deep Learning
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
+
+# Auto Encoder VAE
+* [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
+* [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
+* [On manifolds and autoencoders](http://videolectures.net/deeplearning2015_vincent_autoencoders/?q=vincent%20autoencoder)
+* [KL divergence와 VAE](http://blog.naver.com/atelierjpro/220981354861)
+* [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
+* [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
+* [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (2)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-2.html)
+* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (3)](http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html)
+* [NDC2017 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
+* [Variational Coin Toss](http://www.openias.org/variational-coin-toss)
+* [Variational Autoencoder를 여러 가지 각도에서 이해하기 (Understanding Variational Autoencoder from Various Perspectives)](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
+* [What a Disentangled Net We Weave: Representation Learning in VAEs (Pt. 1)](https://towardsdatascience.com/what-a-disentangled-net-we-weave-representation-learning-in-vaes-pt-1-9e5dbc205bd1)
+* [Naver Tech Talk: 오토인코더의 모든 것 (2017년 11월)](https://d2.naver.com/news/0956269)
 
 # Backpropagation
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)
@@ -1115,7 +1137,6 @@ Deep Learning
   * [github.com/cthorey/CS231](https://github.com/cthorey/CS231) numpy만으로 작성
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
-* [Denoising auto encoders(d a)](http://www.slideshare.net/taeyounglee1447/denoising-auto-encodersd-a)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
 * [Kashif Rasul - Intro to ConvNets](https://www.youtube.com/watch?v=W9_SNGymRwo)
 * [CNN(Convolution Neural Network)으로 인물을 인식 시켜보자...](https://github.com/jaeho-kang/deep-learning/blob/master/blog/post1/contents.md)
@@ -1139,7 +1160,9 @@ Deep Learning
   * [1980년 논문: Neocognitron: A Self-organizing Neural Network Model for a Mechanism of Pattern Recognition Unaffected by Shift in Position](http://www.cs.princeton.edu/…/co…/Readings/Fukushima1980.pdf)
   * [홈페이지](http://personalpage.flsi.or.jp/fukushima/)
   * [Scholarpedia](http://www.scholarpedia.org/article/Neocognitron)
-* [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
+* GCN
+  * [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
+  * [How do we capture structure in relational data?](https://thegradient.pub/structure-learning/)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [딥러닝 - 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149)
@@ -1197,6 +1220,7 @@ Deep Learning
     * [Part I: Intuition.](https://medium.com/@pechyonkin/understanding-hintons-capsule-networks-part-i-intuition-b4b559d1159b)
     * [Part II: How Capsules Work](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-ii-how-capsules-work-153b6ade9f66)
     * [Part III: Dynamic Routing Between Capsules](https://medium.com/ai%C2%B3-theory-practice-business/understanding-hintons-capsule-networks-part-iii-dynamic-routing-between-capsules-349f6d30418)
+    * [Part IV: CapsNet Architecture](https://medium.com/@pechyonkin/part-iv-capsnet-architecture-6a64422f7dce)
   * [A Visual Representation of Capsule Network Computations](https://medium.com/@mike_ross/a-visual-representation-of-capsule-network-computations-83767d79e737)
   * [Dynamic Routing Between Capsules - 캡슐 간 동적 라우팅](http://www.python3statement.org/)
   * [Matrix capsules with EM Routing](http://blog.naver.com/sogangori/221136950703)
@@ -1325,11 +1349,12 @@ Deep Learning
 * [A Recurrent Neural Network Music Generation Tutorial](https://magenta.tensorflow.org/2016/06/10/recurrent-neural-network-generation-tutorial/)
 * [How Generative Music Works](https://teropa.info/loop/#/title)
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
+* [Recurrent neural network (depth=3) generates next 1,000 bytes of "Let It Go":](http://elnn.snucse.org/sandbox/music-rnn/)
+* [Recurrent Neural Network Writes Music and Shakespeare Novels | Two Minute Papers](https://www.youtube.com/watch?v=Jkkjy7dVdaY)
 * [Recurrent Neural Network, Fractal for Deep Learning](http://www.slideshare.net/uspace/recurrent-neural-network-fractal-for-deep-learning)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
 * [mrchrisjohnson Recurrent Neural Shady](https://soundcloud.com/mrchrisjohnson/recurrent-neural-shady)
-* [Recurrent neural network (depth=3) generates next 1,000 bytes of "Let It Go":](http://elnn.snucse.org/sandbox/music-rnn/)
 * [recurrent neural network handwriting generation demo](http://www.cs.toronto.edu/~graves/handwriting.cgi?text=Recurrent+neural+nets+are+fucking+magical.&style=&bias=0.5&samples=3)
 * [Teaching recurrent Neural Networks about Monet](http://blog.manugarri.com/teaching-recurrent-neural-networks-about-monet/)
 * [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
@@ -1354,7 +1379,6 @@ Deep Learning
 * [Fast Weights RNN](https://tensorflowkorea.wordpress.com/2016/10/25/fast-weights-rnn/)
 * [Recurrent Neural Networks for Beginners (Tutorial)](https://medium.com/@awjuliani/recurrent-neural-networks-for-beginners-24288e37ac91)
 * [RNN(Recurrent Neural Network)과 Torch로 발라드곡 작사하기](http://www.popit.kr/rnnrecurrent-neural-network%EA%B3%BC-torch%EB%A1%9C-%EB%B0%9C%EB%9D%BC%EB%93%9C%EA%B3%A1-%EC%9E%91%EC%82%AC%ED%95%98%EA%B8%B0/)
-* [Recurrent Neural Network Writes Music and Shakespeare Novels | Two Minute Papers](https://www.youtube.com/watch?v=Jkkjy7dVdaY)
 * [Rohan & Lenny #3: Recurrent Neural Networks](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b)
 * [A Neural Representation of Sketch Drawings](https://arxiv.org/pdf/1704.03477.pdf)
   * [Sketch RNN](https://github.com/tensorflow/magenta/blob/master/magenta/models/sketch_rnn/sketch_rnn.ipynb)
@@ -1834,18 +1858,3 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
   * Scalable Deep Learning in Baidu
     * [slide](http://www.slideshare.net/JenAman/scalable-deep-learning-platform-on-spark-in-baidu)
     * [video](https://youtu.be/n9yZNmC20pc)
-
-# VAE
-* [What is variational autoencoder?](http://nolsigan.com/blog/what-is-variational-autoencoder/) VAE
-* [On manifolds and autoencoders](http://videolectures.net/deeplearning2015_vincent_autoencoders/?q=vincent%20autoencoder)
-* [KL divergence와 VAE](http://blog.naver.com/atelierjpro/220981354861)
-* [1. 오토인코더(Sparse Autoencoder) 1 – AutoEncoders & Sparsity](http://solarisailab.com/archives/113?ckattempt=1)
-* [A Gentle Autoencoder Tutorial (with keras)](http://www.birving.com/presentations/autoencoders/index.html#/)
-* [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
-* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (1)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-1.html)
-* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (2)](http://jaejunyoo.blogspot.com/2017/04/auto-encoding-variational-bayes-vae-2.html)
-* [초짜 대학원생의 입장에서 이해하는 Auto-Encoding Variational Bayes (VAE) (3)](http://jaejunyoo.blogspot.com/2017/05/auto-encoding-variational-bayes-vae-3.html)
-* [NDC2017 딥러닝으로 게임 콘텐츠 제작하기 - VAE를 이용한 콘텐츠 생성 기법 연구 사례](https://www.slideshare.net/HwanheeKim2/ndc2017-vae-75419284)
-* [Variational Coin Toss](http://www.openias.org/variational-coin-toss)
-* [Variational Autoencoder를 여러 가지 각도에서 이해하기 (Understanding Variational Autoencoder from Various Perspectives)](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
-* [What a Disentangled Net We Weave: Representation Learning in VAEs (Pt. 1)](https://towardsdatascience.com/what-a-disentangled-net-we-weave-representation-learning-in-vaes-pt-1-9e5dbc205bd1)

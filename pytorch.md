@@ -87,6 +87,8 @@ PyTorch
 * [Spherical CNNs - Equivariant CNNs for the sphere and SO(3) implemented in PyTorch](https://github.com/jonas-koehler/s2cnn)
 * [Learn You a PyTorch! (aka Introduction Into PyTorch)](https://www.youtube.com/watch?v=X8gWWKfym3Y)
 * [Draw Like Bob Ross (With Pytorch!)](https://kndrck.co/posts/draw_like_bob_ross_with_pytorch/)
+* [pytorch-exercise](https://github.com/nmhkahn/pytorch-exercise)
+* [「PyTorchで学ぶニューラルネットワークと深層学習」サンプルコード集](https://qiita.com/KentFujii/items/50c7a111eb661cb41f47)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

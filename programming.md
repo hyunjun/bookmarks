@@ -544,6 +544,7 @@ Programming
 * [buildbot.net](https://buildbot.net/)
 	* [David Liu - Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://www.youtube.com/watch?v=Rs7qccf-Ll0)
 * [What’s the Value of CI/CD?](https://builttoadapt.io/whats-the-value-of-ci-cd-c2e6c39450bd)
+* [Deployment Pipeline: set it up in minutes not months](https://codeburst.io/deployment-pipeline-set-it-up-in-minutes-not-months-f5e226af8f85)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)

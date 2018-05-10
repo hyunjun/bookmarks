@@ -416,6 +416,7 @@ Programming Books
   * 버전 정보는 정확히 모르겠는데 2017년 1월에 나온 책이라 2016년의 버전일 걸로 추정
 * (NOT YET) [핸즈온 머신러닝 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무](http://www.hanbit.co.kr/store/books/look.php?p_code=B9267655530)
   * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://tensorflow.blog/2017/12/30/review-hands-on-machine-learning-with-scikit-learn-tensorflow/)
+* (NOT YET) [러닝 텐서플로 딥러닝 영상처리와 NLP부터 텐서보드 시각화, 멀티스레딩, 분산처리까지](http://www.yes24.com/24/goods/60506589)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법

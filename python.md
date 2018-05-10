@@ -1493,6 +1493,7 @@ Python
   * [텐서플로우 백엔드를 사용해서 케라스 상에서 무료 GPU를 사용하는 방법을 알아봅니다](https://www.youtube.com/watch?v=UKujX90xLHo)
   * [구글 드라이브의 Colabortory를 통해 파이썬 데이터 시각화툴(Matplotlib, Seaborn, Altair, Plotly, bokeh) 사용하기](https://www.youtube.com/watch?v=GCJQ9zbAhPo)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
+  * [Google Colab - 구글 드라이브 연동하기](https://brunch.co.kr/@jayden-factory/6)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) login이 자꾸 풀림
 
