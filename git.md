@@ -390,6 +390,7 @@ Git
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com/](https://github.com/github/hub)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
+* [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)

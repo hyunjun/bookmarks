@@ -1163,6 +1163,7 @@ Deep Learning
 * GCN
   * [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
   * [How do we capture structure in relational data?](https://thegradient.pub/structure-learning/)
+  * [Graph Convolutional Networks for relational graphs](https://github.com/tkipf/relational-gcn) keras
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [딥러닝 - 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149)
@@ -1554,6 +1555,7 @@ Deep Learning
 * **[Practical Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)**
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
 * [github.com/shahariarrabby/deeplearning.ai](https://github.com/shahariarrabby/deeplearning.ai)
+* [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 
 # Paper
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)

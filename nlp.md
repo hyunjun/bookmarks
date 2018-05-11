@@ -643,6 +643,8 @@ NLP
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)
 * [spaCy - a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
+  * [dependency parse tree visualization](http://spacy.io/displacy/)
+  * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
   * [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
   * [Neural coref - State-of-the-art coreference resolution based on neural nets and spaCy](https://github.com/huggingface/neuralcoref)

@@ -511,6 +511,7 @@ Programming
 * [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
 * Google I/O
   * [Codelabs - Google I/O 2017](https://codelabs.developers.google.com/io2017)
+  * [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * NDC

@@ -89,7 +89,6 @@ Python
   * [ThinkBayes (IPython notebook included)](https://github.com/rlabbe/ThinkBayes)
   * [Jake Vanderplas - Statistics for Hackers - PyCon 2016.mp4](https://www.youtube.com/watch?v=Iq9DzN6mvYA)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
-* [Cheat Sheet: Data Visualisation in Python](http://www.datasciencecentral.com/group/tutorials/forum/topics/cheat-sheet-data-visualisation-in-python)
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [PyCruise](http://www.pycruise.com/)
 * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
@@ -98,7 +97,6 @@ Python
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
 * [Python for R Users](http://www.slideshare.net/ajayohri/python-for-r-users)
-* [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [Is it true that Python is a dying language?](http://www.quora.com/Is-it-true-that-Python-is-a-dying-language)
 * [Python Is Not C](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Is_Not_C?lang=en)
 * [A Pythonist getting Rusty these days... (Part 1)](http://wafflespeanut.github.io/blog/2015/07/05/a-pythonist-getting-rusty-these-days-dot/)
@@ -113,7 +111,6 @@ Python
 * [Best Practices for Managing Your Code Library](http://pbpython.com/best-practices.html)
 * [CFD Python: 12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
-* [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
@@ -471,6 +468,8 @@ Python
   * [Python Tutorial: Decorators With Arguments](https://www.youtube.com/watch?v=KlBPCzcQNU8)
   * [Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters](https://www.youtube.com/watch?v=jCzT9XFZ5bw)
   * [Decorators 101: A Gentle Introduction to Functional Programming - Jillian Munson](https://www.youtube.com/watch?v=yW0cK3IxlHc)
+  * [클래스에 메서드를 추가하는 decorator](http://blog.woosum.net/archives/1584) monkeypatch와 같이 기존 클래스에 새로운 메소드 추가하는 decorator
+  * [decorator를 이용한 함수의 doc string 구하기](http://mcchae.egloos.com/11295614)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -529,7 +528,6 @@ Python
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
   * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
-  * [클래스에 메서드를 추가하는 decorator](http://blog.woosum.net/archives/1584) monkeypatch와 같이 기존 클래스에 새로운 메소드 추가하는 decorator
 * gc
   * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
   * **[Dismissing Python Garbage Collection at Instagram](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)**
@@ -556,6 +554,7 @@ Python
   * [Generators: The Final Frontier - Screencast](https://www.youtube.com/watch?v=5-qadlG7tWo)
   * [David Beazley: Generators: The Final Frontier - PyCon 2014](https://www.youtube.com/watch?v=D1twn9kLmYg)
   * [Python의 Generator 알아보기](https://winterj.me/Python-Generator/)
+  * [Python Generators Explained! (Sort of)](https://hackernoon.com/python-generators-35ac68334882)
 * hash
   * [입 개발 Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!.](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
   * [입 개발 SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
@@ -1400,7 +1399,6 @@ Python
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * [Jupyter notebook 이해하기 20160815](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160815)
-* [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
 * [Jupyter Notebook Python, Scala, R, Spark, Mesos Stack](https://github.com/jupyter/docker-stacks/tree/master/all-spark-notebook)
 * [예제로 따라해보는 Jupyter, pandas 데이터 분석](http://www.insilicogen.com/blog/197)
 * [Why I Don't Like Jupyter (FKA IPython Notebook)](http://opiateforthemass.es/articles/why-i-dont-like-jupyter-fka-ipython-notebook/)
@@ -1585,14 +1583,6 @@ Python
 * [BeeWare - The IDEs of Python](http://pybee.org/)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
-* Bokeh
-  * [DRAWING A BRAIN WITH BOKEH](https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh)
-  * **[Plotly 말고 Bokeh 도 있다](http://hamait.tistory.com/842)** Rendering Bokeh plots in Flask
-  * [Bokeh 0.12.6 Released](https://bokeh.github.io/blog/2017/6/13/release-0-12-6/)
-  * Data Visualization with Bokeh in Python
-    * [Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
-    * [Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
-    * [Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
 * [Bolt - an open source library providing a Python interface to ndarrays backed by local or ditributed implementations](http://bolt-project.org/)
 * [BoopSuite - A Suite of Tools written in Python for wireless auditing and security testing](https://github.com/M1ND-B3ND3R/BoopSuite)
@@ -1693,7 +1683,6 @@ Python
 * [fbchat: Facebook Chat (Messenger) for Python](http://fbchat.readthedocs.io)
   * [파이썬으로 페이스북 메신저 메시지 보내기](http://mcchae.egloos.com/11263580)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
-* [Ferret is an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
@@ -1940,7 +1929,6 @@ Python
   * [Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
-* [Pylsy is a simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables](https://github.com/Leviathan1995/Pylsy)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
@@ -2006,7 +1994,6 @@ Python
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
-* [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)
 * [Python Wheels](http://pythonwheels.com/)
 * [Pythran](https://pythonhosted.org/pythran/index.html)
   * [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
@@ -2015,13 +2002,10 @@ Python
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [Pyxley: Python Powered Dashboards](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
 * [PyV8 is a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
-* [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
-  * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
 * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
-* [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
@@ -2105,7 +2089,6 @@ Python
   * [Controlling the Web with Python](https://towardsdatascience.com/controlling-the-web-with-python-6fceb22c5f08)
   * [Using Python to power Selenium at scale (Brandon Rhodes)](https://www.youtube.com/watch?v=z1aUuqKg_gA)
   * [Selenium을 활용한 크롤러 제작 후기](https://medium.com/@peteryun/python-selenium%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-b055cefd1195)
-* [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
@@ -2119,9 +2102,6 @@ Python
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
 * [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
   * [github.com/somata](https://github.com/somata)
-* [spaCy is a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
-  * [dependency parse tree visualization](http://spacy.io/displacy/)
-  * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
 * sphinx
   * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
 * SQLAlchemy
@@ -2200,7 +2180,6 @@ Python
   * [pyenv와 virtualenv를 사용한 파이썬 개발환경 구성](https://lhy.kr/configuring-the-python-development-environment-with-pyenv-and-virtualenv)
   * [Python Virtual(Isolated) Environments](http://www.sauru.so/blog/python-virtualenv-and-venv/)
   * [파이썬 가상환경(virtualenv)만들기](http://pentode.tistory.com/127)
-* [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
@@ -2239,52 +2218,6 @@ Python
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
-
-# Matplotlib
-* examples
-  * [python_matplotlib](https://github.com/zerosum99/python_matplotlib)
-  * [Draw a minimalist Christmas tree with Python and their awesome libraries](https://gist.github.com/franktoffel/aea4329b760eb3e72f4d)
-  * [Move legend outside of figure in matplotlib](http://jb-blog.readthedocs.io/en/latest/posts/0012-matplotlib-legend-outdide-plot.html)
-* [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
-* `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
-* [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
-* [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
-  * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
-  * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
-  * [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
-* [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
-* [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
-* **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
-* [Working with maps in Python](http://maxberggren.github.io/2015/08/04/basemap/)
-* [Python을 이용한 위치에서 속도를 구하는 여러가지 방법에 대한 예제](http://pinkwink.kr/782)
-* [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
-* [matplotlib으로 하트 그리기](https://wikidocs.net/65)
-* [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
-* [pyexecjs_performance-ipynb](https://gist.github.com/jskDr/e90ad5825eafdac33b93#file-pyexecjs_performance-ipynb)
-* [Reduce left and right margins in matplotlib plot](http://stackoverflow.com/questions/4042192/reduce-left-and-right-margins-in-matplotlib-plot)
-* [Violin Plot 그려보기](https://brunch.co.kr/@goodvc78/9)
-  * [Violin Plot 그려보기](http://nbviewer.jupyter.org/gist/goodvc78/3be79fda89b24349e0abe872dbe8242c)
-* [Matplotlib tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/)
-* [Matplotlib 기초 이해하기_20160730](http://www.slideshare.net/dahlmoon/matplotlib-20160730)
-* [Rendering your STL files with matplotlib using numpy-stl](https://w.wol.ph/2015/07/10/rendering-stl-files-matplotlib-numpy-stl/)
-* [5. Plotting Charts with Matplotlib - IPython Notebook Tutorial](https://www.youtube.com/watch?v=kHPEz1wZZWc)
-* [matplotlib 특정 구간을 강조하려면](https://financedata.github.io/posts/faq_matplotlib_highlight.html)
-* [Matplotlib 예제들](http://hamait.tistory.com/798)
-* [편향된 여론조사? 간단히 살펴보자](http://jsideas.net/python/2017/04/05/op_poll.html)
-* [Numpy, Pandas, SciPy, Scikit-learn, Matplotlib 정리](http://hamait.tistory.com/819)
-* [Jupyter에서 Matplotlib 한글 적용하기](http://yujuwon.tistory.com/m/entry/Jupyter%EC%97%90%EC%84%9C-Matplotlib-%ED%95%9C%EA%B8%80-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
-* **[Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)**
-* [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
-* [폼 나게 이쁜 그래프 그려보기 - Matplotlib 예제](http://pinkwink.kr/840)
-* [matplotlib + 한글 (OSX)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-osx.ipynb)
-* [matplotlib + 한글 (Ubuntu Linux)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-ubuntu-linux.ipynb)
-* [Matplotlib(Python 2D plotting library) 시행착오](https://www.slideshare.net/MinhoKim44/matplotlibpython-2d-plotting-library)
-* [Interactive Plotting with Python and Matplotlib](http://blog.thepythontutor.com/2017/08/interactive-plotting-with-python-and.html)
-* [3D 플로팅 4](http://sams.epaiai.com/220787739031)
-* [파이썬을 이용한 데이타 시각화 #1 - Matplotlib 기본 그래프 그리기](http://bcho.tistory.com/1201)
-* [gist.github.com/minhokim0201](https://gist.github.com/minhokim0201)
-* [How-To: Python Compare Two Images](https://www.pyimagesearch.com/2014/09/15/python-compare-two-images)
-* [python + OpenStreetMapで地図にデータをプロットする](https://qiita.com/duonys/items/c941bc2818abe5cc1da7)
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)

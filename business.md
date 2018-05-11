@@ -53,6 +53,11 @@ Business
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
+* [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
+* [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
+* [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
+* [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
+* [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [협업의 미신 5가지](http://agile.egloos.com/5904102)
@@ -62,7 +67,6 @@ Business
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
-* [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
 * [팀원들이 너무 미워보여요, 어떡하죠?](http://outstanding.kr/weneedpeace20170517/)
@@ -76,7 +80,6 @@ Business
   * 훈육과정에서 수치심을 주지 마세요
   * 팀원을 서포팅한다는 마음을 가지세요
   * 믿고 의지할 수 있도록 인격을 갖추세요
-* [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [중간관리자가 되는 법](https://brunch.co.kr/@younghakjang/20)
 * 참고
   * 1. 이야기할 때; 부정적인 언어(X) 긍정적인 언어(O)
@@ -95,7 +98,6 @@ Business
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
 * [동기 저하의 10가지 사유](http://ppss.kr/archives/48444)
 * [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
-* [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
 * [성공한 사람들과 크게 성공한 사람들의 5가지 차이점](http://ppss.kr/archives/48436)
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
@@ -131,7 +133,6 @@ Business
 * [삼성 반바지? 뭣이 중한디?](https://brunch.co.kr/@yeobag/4)
 * [쉬운 ‘주식회사’ 기반 창업의 역설 – ‘신용불량자’로 가는 지름길](https://nyetedu.wordpress.com/2016/09/25/%EC%89%AC%EC%9A%B4-%EC%A3%BC%EC%8B%9D%ED%9A%8C%EC%82%AC-%EA%B8%B0%EB%B0%98-%EC%B0%BD%EC%97%85%EC%9D%98-%EC%97%AD%EC%84%A4-%EC%8B%A0%EC%9A%A9%EB%B6%88%EB%9F%89%EC%9E%90%EB%A1%9C-%EA%B0%80/)
 * [대한민국 청년, 제발 창업 하지 마시라!](https://nyetedu.wordpress.com/2016/10/15/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%B2%AD%EB%85%84-%EC%A0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85-%ED%95%98%EC%A7%80-%EB%A7%88%EC%8B%9C%EB%9D%BC/)
-* [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 * [SWOT 분석-가장 위험한 전략, 평균](https://brunch.co.kr/@rmfkdwy/8)
 * [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
 * [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
