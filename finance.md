@@ -73,7 +73,6 @@ Finance
 # Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * **[Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript](https://github.com/softage0/algorithm-trading-webapp)**
-* [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [quantopian.com/lectures](https://www.quantopian.com/lectures)
   * [7 Best Community-Built Value Investing Algorithms Using Fundamentals](https://blog.quantopian.com/fundamentals-contest-winners/)
 * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
@@ -82,9 +81,6 @@ Finance
 * [Stock Market Prediction in Deep learning using Tensor Flow | Machine Learning](https://www.youtube.com/watch?v=SMi793DqFLc)
 * [Python Web Scraping tutorial 23: Algorithmic Trading Tutorial](https://www.youtube.com/watch?v=2cee0e9HSbs)
 * [Building Quant Equity Strategies in Python](https://www.youtube.com/watch?v=nCKzRY_JV4c)
-* [Programming for Finance with Python and Quantopian and Zipline Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
-* [Programming for Finance Part 2 - Creating an automated trading strategy](https://www.youtube.com/watch?v=_nMoCsPI-IA)
-* [Programming for Finance Part 3 - Back Testing Strategy](https://www.youtube.com/watch?v=kEJiGT-ZS1w)
 * [Accessing Fundamental company Data - Programming for Finance with Python - Part4](https://www.youtube.com/watch?v=-BnOmULm2gQ)
 * [Quantitative Finance & Python Programming w/ Dr. Yves Hilpisch](https://www.youtube.com/watch?v=7COR3eRB8lE)
 * [Quantiacs Toolbox - Getting Started in Python](https://www.youtube.com/watch?v=BNFA6NE7X1Q)
@@ -102,7 +98,14 @@ Finance
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
 * **[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)**
 * [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
+* [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
+* [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
+  * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [Zipline - a Pythonic algorithmic trading library](http://www.zipline.io/)
+  * Programming for Finance with Python and Quantopian and Zipline
+    * [Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
+    * [Part 2 - Creating an automated trading strategy](https://www.youtube.com/watch?v=_nMoCsPI-IA)
+    * [Part 3 - Back Testing Strategy](https://www.youtube.com/watch?v=kEJiGT-ZS1w)
   * Zipline Tutorial local backtesting and finance with Python
     * [Installation p.1](https://www.youtube.com/watch?v=J4LTIixReMA)
     * [Visualizing Strategy Metrics p.2](https://www.youtube.com/watch?v=GJJzsfJUiB8)

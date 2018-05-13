@@ -165,6 +165,7 @@ Interview
 * [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 * [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
+* [Crack the System Design interview: tips from a Twitter software engineer](https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)

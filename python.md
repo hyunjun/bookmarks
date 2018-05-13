@@ -348,6 +348,7 @@ Python
   * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
 * [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
+* [Performance Python: 7 Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=c5DV9Nur1W8) numpy, pandas, scipy, cython, numba, and more
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -428,7 +429,6 @@ Python
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
-  * [CYTHON JOURNEY PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
   * [Extending Python via Shared Libraries](http://opensourceforu.efytimes.com/2010/05/extending-python-via-shared-libraries/)
   * [Extending Python With C Libraries and the “ctypes” Module](https://dbader.org/blog/python-ctypes-tutorial)
   * [Interfacing Python and C: Advanced “ctypes” Features](https://dbader.org/blog/python-ctypes-tutorial-part-2)
@@ -1649,6 +1649,18 @@ Python
   * [Speeding up non-vectorizable code with Cython](http://isaacslavitt.com/2015/08/08/speeding-up-with-cython/)
   * [Fast Python loops with Cython](http://nealhughes.net/cython1/)
   * [Easy wins with Cython: fast and multi-core by Caleb Hattingh](https://www.youtube.com/watch?v=NfnMJMkhDoQ)
+  * CYTHON JOURNEY
+    * [PART 1: THE BASICS](https://studywolf.wordpress.com/2012/09/14/cython-journey-part-1/)
+    * [PART 2: INCLUDING EIGEN](https://studywolf.wordpress.com/2012/09/18/cython-journey-part-2-including-eigen/)
+    * [PART 3: WRAPPING C CODE AND PASSING ARRAYS](https://studywolf.wordpress.com/2013/05/21/cython-journey-part-3-wrapping-c-code-and-passing-arrays/)
+  * [WRAPPING MAPLESIM C CODE FOR PYTHON](https://studywolf.wordpress.com/2013/05/21/wrapping-maplesim-c-code-for-python/)
+  * [Cython Tutorial - Bridging between Python and C/C++ for performance gains](https://www.youtube.com/watch?v=mXuEoqK4bEc)
+  * [Cython: Speed up Python and NumPy, Pythonize C, C++, and Fortran, SciPy2013 Tutorial, Part 1 of 4](https://www.youtube.com/watch?v=JKCjsRDffXo)
+  * [Cython: Blend the Best of Python and C++ | SciPy 2015 Tutorial | Kurt Smith](https://www.youtube.com/watch?v=gMvkiQ-gOW8)
+  * [Pycon 2016: Fast Python! Don't Bother?](https://www.youtube.com/watch?v=KuoiYDnrYqU)
+  * [Parallel Python – Making Code Run 2000x Faster](https://www.youtube.com/watch?v=pVipRXUGdO8)
+  * [Alex Orlov Cython as a Game Changer for Efficiency PyCon 2017](https://www.youtube.com/watch?v=_1MSX7V28Po)
+  * [Achieving C-like performance in Python without Cython or other libraries?](https://www.youtube.com/watch?v=Ri8sU5DphEE)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
@@ -1881,8 +1893,6 @@ Python
   * [PyAutoGui: Automate GUI applications with Python and PyAutoGUI (Part 1)](https://www.youtube.com/watch?v=dUeCoUw9OoQ)
   * [PyAutoGui: Automate the Calculator! (Part 2)](https://www.youtube.com/watch?v=CXtC8Jzxsvw)
   * [PyAutoGui: Control the Mouse (Part 3)](https://www.youtube.com/watch?v=4rgt7Od7-KM)
-* [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
-  * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
@@ -2259,6 +2269,7 @@ Python
 * [numpy 맛보기](http://jybaek.tistory.com/680)
 * [Why you should start using .npy file more often…](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161)
 * [파이썬으로 데이터 분석하기 #4-1](https://jungwoon.github.io/python/2018/04/05/Data-Analysis-With-Python-5/)
+* [NumPy와 C++ Extensions의 성능 비교](http://docs.likejazz.com/python-numpy-extensions/)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)

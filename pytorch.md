@@ -89,6 +89,7 @@ PyTorch
 * [Draw Like Bob Ross (With Pytorch!)](https://kndrck.co/posts/draw_like_bob_ross_with_pytorch/)
 * [pytorch-exercise](https://github.com/nmhkahn/pytorch-exercise)
 * [「PyTorchで学ぶニューラルネットワークと深層学習」サンプルコード集](https://qiita.com/KentFujii/items/50c7a111eb661cb41f47)
+* [Implementing word2vec in PyTorch (skip-gram model)](https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

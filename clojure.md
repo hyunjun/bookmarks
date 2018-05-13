@@ -272,6 +272,17 @@ Clojure
 * core.typed
   * [Why we’re no longer using Core.typed](http://blog.circleci.com/why-were-no-longer-using-core-typed/)
   * [core.typed 클로저 정적 타입 맛보기](http://clojure.kr/core.typed)
+  * [Why we're no longer using Core.typed](https://circleci.com/blog/why-were-no-longer-using-core-typed/)
+  * 단점(facebook clojure korea)
+    * 1. 부실한 에디터 지원
+      * cursive나 cider 모두 core.typed를 지원하지만
+      * cider는 nrepl 의존성 문제로 cider가 기본으로 잘 안뜨고 또 파일이 커지면 check가 너무 오래 걸림
+      * cursive는 nrepl을 띄우고 따로 type 체크를 실행해줘야 체크를 함
+    * 2. 느린 속도; 타입 체크가 느림
+    * 3. 외부 라이브러리의 타입 지원
+      * core.typed를 지원하는 라이브러리가 거의 없다 보니 사용하는 라이브러리 함수의 type annotation을 직접 붙여줘야함
+      * ^:no-check 옵션을 키고 내 코드에서 통과할 정도로만 붙여주면 되긴 하지만 상당히 번거로움
+      * 외부 라이브러리가 매크로인 경우 매크로가 풀린 코드에 대해서 type annotation을 붙여 줘야하는 것도 어려운 점
 * [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
 * [fn](https://clojuredocs.org/clojure.core/fn)
 * [for](https://clojuredocs.org/clojure.core/for)

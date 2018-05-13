@@ -621,6 +621,7 @@ Deep Learning
 * [Writing a deep learning repo #2](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-2-c4589fb169b1)
 * [Writing a deep learning repo #3](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-3-c4c950b20b92)
 * [Deep Learning #4 : Energy Based Adversarial Training](https://medium.com/@prannaykhosla/deep-learning-4-energy-based-adversarial-training-93c8499f0253)
+* [만능 근사 원리 UAT Universal Approximation Theorem](https://blog.naver.com/atelierjpro/221274573892)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1810,6 +1811,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Introduction to Learning to Trade with Reinforcement Learning](http://www.wildml.com/2018/02/introduction-to-learning-to-trade-with-reinforcement-learning/)
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Inverse Reinforcement Learning pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
+* [Inverse Reinforcement Learning](https://www.youtube.com/watch?v=0q30_gDlrwk)
 * [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 * [강화학습과 가상화폐](https://wonseokjung.github.io//crypto_rl/update/cryptoandRL_1/)
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
