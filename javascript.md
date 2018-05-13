@@ -860,6 +860,7 @@ Javascript
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
+* [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Node JS Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
 * [JavaScript & Node.js](https://www.youtube.com/playlist?list=PLieE0qnqO2kSgBngBK34Yw8jNVovgNJoh)
@@ -1468,6 +1469,7 @@ Javascript
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-may-2018-58772fc40f3d)
   * [Vue.js Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-of-the-month-v-apr-2018-bdaf78698818)
   * [Vue.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-apr-2018-2b500ef1679a)
   * [Vue.js Top 10 Open Source for the Past Month (v.Mar 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-for-the-past-month-v-mar-2018-1e4f923e4578)

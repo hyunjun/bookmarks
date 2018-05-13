@@ -778,6 +778,7 @@ Machine Learning
   * [Scikit Learn Multiclass Learning](https://www.youtube.com/watch?v=y0wQK3mnrNY)
   * [Hacking Scikit-Learn’s Vectorizers](https://towardsdatascience.com/hacking-scikit-learns-vectorizers-9ef26a7170af)
   * [8 ways to perform simple linear regression and measure their speed using Python](https://medium.freecodecamp.org/data-science-with-python-8-ways-to-do-linear-regression-and-measure-their-speed-b5577d75f8b)
+  * [Linear Regression Machine Learning Method Using Scikit-learn & Pandas in Python - Tutorial 30](https://www.youtube.com/watch?v=erfZsVZbGJI)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * sklearn
   * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)

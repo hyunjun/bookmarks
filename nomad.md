@@ -259,3 +259,4 @@ Nomad & Remote
 * [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
 * [어느 원격근무 직장인의 고민](https://realm.io/kr/news/remote-working/)
 * [로켓펀치의 자율 근무 문화](https://blog.rocketpunch.com/2017/06/20/autonomy-culture-of-rocketpunch/)
+* [The 3 Proven Rules to Become a Hyper-Productive Remote Worker](https://hackernoon.com/the-3-proven-rules-to-become-a-hyper-productive-remote-worker-8399093975d9)

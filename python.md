@@ -2543,6 +2543,7 @@ Python
   * [Type-Checking Python Programs With Type Hints and mypy](https://www.youtube.com/watch?v=2xWhaALHTvU)
   * [Python tricks: Type hints and static type checking](https://www.youtube.com/watch?v=rytP_vIjzeE)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
+* [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
 
