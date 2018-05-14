@@ -19,7 +19,6 @@ TensorFlow
   * Tensorflow implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution
 * [머신러닝을 더 쉽게…구글 ‘텐서플로 서빙’ 오픈소스로 공개](http://www.bloter.net/archives/249998)
 * [Using Transfer Learning to Classify Images with TensorFlow](https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366)
-* [이미지 Classification 문제와 딥러닝: AlexNet으로 개vs고양이 분류하기](http://research.sualab.com/machine-learning/computer-vision/2018/01/17/image-classification-deep-learning.html)
 * [Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)
   * ["Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge"](http://arxiv.org/pdf/1609.06647v1.pdf)
     * 5.2 Improvements Over Our CVPR15 Model; Image Model Improvement, Image Model Fine Tuning, Scheduled Sampling, Ensembling, Beam Size Reduction 다섯개의 요인으로 개선되었다고 설명
@@ -369,7 +368,6 @@ TensorFlow
 * [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template)
 * [Importing Multiple TensorFlow Models (Graphs)](http://bretahajek.com/2017/04/importing-multiple-tensorflow-models-graphs/)
 * [Michelle Fullwood A gentle introduction to deep learning with TensorFlow PyCon 2017](https://www.youtube.com/watch?v=5e0TbyCkbCY)
-* [How to use sound classification with TensorFlow on an IoT platform](https://medium.freecodecamp.org/how-to-use-sound-classification-with-tensorflow-on-an-iot-platform-8997eb7bbdef)
 * [Outperforming Tensorflow’s Default Auto Differentiation Optimizers, with Interactive Code Manual Back Prop with
   TF](https://towardsdatascience.com/outperforming-tensorflows-default-auto-differentiation-optimizers-with-interactive-code-manual-e587a82d340e)
 * [TensorFlow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow)
@@ -377,7 +375,6 @@ TensorFlow
 * [일반 IP카메라를 인공지능 CCTV로 변신시킨 개발자](http://smartaedi.tistory.com/234)
 * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
 * [HOYA AI Jupyter 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다](https://github.com/TensorMSA/tensormsa_jupyter)
-* [Urban Sound Classification](https://tensorflow.blog/2016/11/06/urban-sound-classification/)
 * Eager Execution
   * [대화형 명령 스타일 프로그래밍을 위한 즉시 실행 (Eager Execution) 한글 가이드를 소개합니다](https://developers-kr.googleblog.com/2018/05/eager-execution.html)
 * [A Gentle Introduction To Deep Learning with TensorFlow](https://www.youtube.com/watch?v=6g0lPlHc-E8)
@@ -396,6 +393,12 @@ TensorFlow
 * [Machine Learning with TensorFlow](http://www.tensorflowbook.com/)
   * [Review ML with TensorFlow](https://tensorflow.blog/2017/05/16/review-ml-with-tensorflow/)
 * [A Curated List Of Dedicated Resources- TensorFlow Books](https://www.techleer.com/articles/401-a-curated-list-of-dedicated-resources-tensorflow-books/)
+
+# Classification
+* [이미지 Classification 문제와 딥러닝: AlexNet으로 개vs고양이 분류하기](http://research.sualab.com/machine-learning/computer-vision/2018/01/17/image-classification-deep-learning.html)
+* [How to use sound classification with TensorFlow on an IoT platform](https://medium.freecodecamp.org/how-to-use-sound-classification-with-tensorflow-on-an-iot-platform-8997eb7bbdef)
+* [Urban Sound Classification](https://tensorflow.blog/2016/11/06/urban-sound-classification/)
+* [맑은날, 흐린날 분류 모델 version 1.0](http://momentum96.tistory.com/16)
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)

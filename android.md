@@ -61,6 +61,7 @@ Android
 * [ViewModels : A Simple Example](https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e)
 * [Android언어 리소스 자동화 (2018.4 수정)](http://tiii.tistory.com/22)
 * [How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
+* [Google I/O 2018: Android의 새로운 기능](https://developers-kr.googleblog.com/2018/05/google-io-2018-whats-new-in-android.html)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
@@ -75,6 +76,7 @@ Android
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
 * [Paging Library, 그것이 쓰고싶다](https://medium.com/@jungil.han/paging-library-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%93%B0%EA%B3%A0%EC%8B%B6%EB%8B%A4-bc2ab4d27b87)
+* [요약 What's new in Android development tools (Google I/O '18)](http://pluu.github.io/blog/android/io18/2018/05/12/io-whats-new-in-android-development-tools/)
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
 * [A free software gesture library for Android™ and the Web.](https://github.com/mirasmithy/airy)
 * [25 new Android libraries and projects to check at the beginning of 2018](https://proandroiddev.com/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4)
@@ -92,10 +94,11 @@ Android
   * [Why and how you should switch to Dagger 2.12+?](https://android.jlelse.eu/why-and-how-you-should-switch-to-dagger-2-12-ba32aac44300)
 * [Flutter is a new way to build high-performance, cross-platform mobile apps](http://flutter.io/)
   * [쉽고 빠르고 간단하게! 멋진 네이티브 앱을 빌드할 수 있는 Flutter 베타를 소개합니다](https://developers-kr.googleblog.com/2018/03/announcing-flutter-beta-1.html)
-  * [What the F**tter!? Understanding Flutter as an Android (Java) Developer](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)
+  * [What the F\*\*tter!? Understanding Flutter as an Android (Java) Developer](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)
   * [Announcing Flutter beta 1: Build beautiful native apps](https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0)
   * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
   * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
+  * [Flutter Tutorials](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
   * [퓨즈FUSETOOLS 소개 :: 2016년 최신 자료](https://blog.wonhada.com/?p=2386)
@@ -110,6 +113,7 @@ Android
   * [Beginner’s Guide to Gradle for Android Developers](https://journals.apptivitylab.com/beginners-guide-to-gradle-for-android-developers-7972bfdf0668)
   * [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
   * [안드로이드 스튜디오3에서 Gradle Sync 이슈 해결하기](http://developer88.tistory.com/149)
+* [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)

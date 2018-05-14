@@ -22,6 +22,7 @@ Scala
   * [Scala 만든 마틴 오더스키 교수님 만난 이야기 / Scala 약간 (2017-02-10)](https://www.youtube.com/watch?v=NNsWqdrLWT8)
   * [OOP로 Scala 약팔기 (2017-03-31)](https://www.youtube.com/watch?v=T1bP-yJrBzM)
   * [아직도 호주이민은 스칼라인가? (2018-04-13)](https://www.youtube.com/watch?v=Fb2Famt0rOM)
+  * [간단한 웹앱 만들기 (2018-05-11)](https://www.youtube.com/watch?v=-HL_qwDVeeI)
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)

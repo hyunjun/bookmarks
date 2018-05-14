@@ -40,6 +40,7 @@ Business
 * [일이 왜 자꾸 재미가 없어지지?](https://brunch.co.kr/@hyungsukkim/54)
 * [업무를 점검하는 3단계 프로세스](https://brunch.co.kr/@hyungsukkim/56)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
+* [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
 * [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
 * [온디맨드 서비스, 복잡하고 미묘한 ‘오프라인적 문맥(Context)’을 읽어야 성공한다](http://besuccess.com/2015/05/ondemand_offline-context/)
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)

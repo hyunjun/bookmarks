@@ -145,6 +145,7 @@ Graph
   * [Quick Import: Relato Business Graph Database from Data.World into Neo4j](https://medium.com/neo4j/quick-import-relato-business-graph-database-from-data-world-into-neo4j-1b9f16404951)
   * [Migrating from MySQL to Neo4j](https://engineering.logicgate.com/migrating-from-mysql-to-neo4j-2f6cb63a73c8)
   * [Review prediction with Neo4j and TensorFlow](https://medium.com/octavian-ai/review-prediction-with-neo4j-and-tensorflow-1cd33996632a)
+  * [Using and Accessing neo4j-graphql with NodeJS](https://blog.grandstack.io/using-and-accessing-neo4j-graphql-with-nodejs-a687ecc7db0e)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)

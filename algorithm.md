@@ -402,6 +402,7 @@ Algorithm
 * [Autocomplete using Tries](http://dibaiee.ir/autocomplete-predict-trie/)
 * [A walk through the SA-IS Suffix Array Construction Algorithm](http://zork.net/~st/jottings/sais.html)
 * [qp tries: smaller and faster than crit-bit tries - Tony Finch](http://fanf.livejournal.com/137283.html)
+* [트라이 (trie)](https://www.youtube.com/watch?v=7e1b70dTAd4)
 
 # Viterbi
 * greedy의 문제점을 해결하기 위해 only one best path를 찾는 방법

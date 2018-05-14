@@ -244,6 +244,7 @@ Clojure
 * [What little clojure tricks did you not realize for years?](https://www.reddit.com/r/Clojure/comments/89eeiv/what_little_clojure_tricks_did_you_not_realize/)
 * [Java arrays and unchecked math](http://clojure-goes-fast.com/blog/java-arrays-and-unchecked-math)
 * [example - 게임 상태 관리 예](https://groups.google.com/forum/#!topic/clojure-kr/u3RKn-PkQBg)
+* [함수형 프로그래밍 언어에 대한 고찰](https://engineering.linecorp.com/ko/blog/detail/244)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -365,6 +366,7 @@ Clojure
 * [Writing Node.js scripts with ClojureScript](https://lambdaisland.com/blog/02-05-2017-nodejs-scripts-clojurescript)
 * [PARALLELIZING A CLOJURESCRIPT TEST SUITE, PART 1: THE GUTS OF CLJS.TEST](https://cambium.consulting/articles/2018/3/22/parallelizing-a-clojurescript-test-suite-part-1-the-guts-of-cljstest)
 * [How to get \*ns\* string in ClojureScript](https://gist.github.com/philoskim/19bafdac0d9d5610408157e528c053d6)
+* [NAVER Tech Talk: 개발언어, 설계(2018년 2월)](https://d2.naver.com/news/8149676)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)

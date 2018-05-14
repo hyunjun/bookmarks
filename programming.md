@@ -389,17 +389,19 @@ Programming
 	* [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
   * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
   * [GCP Dataprep 사용 해보기](https://jungwoon.github.io/google%20cloud/2018/02/28/Dataprep/)
-  * [Gmail id 없이 Google cloud 사용하고 G Suite 없이 사용자, 그룹 관리 하기](https://medium.com/@jwlee98/gcp-gmail-id-%EC%97%86%EC%9D%B4-google-cloud-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-g-suite-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-d2899730b781)
   * [GCP PubSub 살펴보기](https://jungwoon.github.io/google%20cloud%20platform/2018/03/05/PubSub/)
+  * [Compute Engine에 Bitbucket 설치하기](https://jungwoon.github.io/bitbucket/google%20cloud/2018/04/18/Data-Bitbucket-Installation-On-GCE/)
+  * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/google%20cloud/2018/04/13/Data-JIRA-Installation-On-GCE/)
+  * [Google Cloud Platform 제품들 살펴보기](https://jungwoon.github.io/google%20cloud/2018/05/11/GCP-Products/)
+  * [Gmail id 없이 Google cloud 사용하고 G Suite 없이 사용자, 그룹 관리 하기](https://medium.com/@jwlee98/gcp-gmail-id-%EC%97%86%EC%9D%B4-google-cloud-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B3%A0-g-suite-%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%EC%9E%90-%EA%B7%B8%EB%A3%B9-%EA%B4%80%EB%A6%AC-%ED%95%98%EA%B8%B0-d2899730b781)
   * [프로젝트 종료하기](http://jybaek.tistory.com/718)
   * [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
   * [Stack driver profiler](http://bcho.tistory.com/1248)
-  * [Compute Engine에 Bitbucket 설치하기](https://jungwoon.github.io/bitbucket/google%20cloud/2018/04/18/Data-Bitbucket-Installation-On-GCE/)
-  * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/google%20cloud/2018/04/13/Data-JIRA-Installation-On-GCE/)
   * [GCP의 새로운 대화형 CLI](https://developers-kr.googleblog.com/2018/04/gcp-cli.html)
   * [Container Engine (GKE #1. 개념)](http://jybaek.tistory.com/658)
   * [Container Engine (GKE #2. cluster 생성)](http://jybaek.tistory.com/659)
   * [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
+  * [Spring Boot 로 테스트해 본 Stackdriver trace](https://medium.com/@jwlee98/gcp-spring-boot-%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%B4-%EB%B3%B8-stackdriver-trace-fefa46394af8)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -996,6 +998,7 @@ Programming
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
 * [Test Driven Development (TDD) basic](https://www.slideshare.net/CurtPark1/test-driven-development-tdd-basic/)
 * [Why TDD](https://builttoadapt.io/why-tdd-489fdcdda05e)
+* **[결제 시스템 성능, 부하, 스트레스 테스트](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)**
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

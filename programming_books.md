@@ -33,6 +33,7 @@ Programming Books
   * [카프카, 데이터 플랫폼의 최강자](http://jhrogue.blogspot.kr/2018/05/blog-post.html)
 * (NOT YET) [반갑다 Ionic](http://bjpublic.tistory.com/296)
 	* 2018.05 한라
+* (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 
 # Agile Scrum
 
