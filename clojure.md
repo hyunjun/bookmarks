@@ -614,3 +614,8 @@ Clojure
 * [Transducers from the ground-up: the essence](https://labs.uswitch.com/transducers-from-the-ground-up-the-essence/)
 * [Processing documents with transducers](http://blog.juxt.pro/posts/xpath-in-transducers.html)
 * [Transducing a Text File](https://blog.michielborkent.nl/blog/2018/01/17/transducing-text/)
+* Build Your Own Transducer and Impress Your Cat
+  * [Part 1](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-1-mhp)
+  * [Part 2](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-2-2ja0)
+  * [Part 3](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-3-2f9k)
+  * [Part 4](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-4-2bp8)
