@@ -348,6 +348,7 @@ iOS
 * [The basics](http://wlaxhrl.tistory.com/71)
 * [연산형 지역 변수 (Local Computed Variables)](http://seorenn.blogspot.kr/2018/04/local-computed-variables-swift.html)
 * [Result of call to ... is unused](http://seorenn.blogspot.kr/2018/05/swift-result-of-call-is-unused.html) discardableResult
+* [문자열을 문자 단위로 다루기 | Swift](http://seorenn.blogspot.kr/2018/05/swift-string-index.html)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

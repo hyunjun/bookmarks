@@ -454,6 +454,7 @@ Machine Learning
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
 * [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
+* [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -744,6 +745,9 @@ Machine Learning
 * [DBSCAN (밀도 기반 클러스터링)](http://bcho.tistory.com/1205)
 * [밀도기반 클러스터링 - DBSCAN](http://sams.epaiai.com/221023672149)
 * [Some Essential Hacks and Tricks for Machine Learning with Python](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)
+* [Introduction To Machine Learning](https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4)
+* [Supervised Learning with Python](https://towardsdatascience.com/supervised-learning-with-python-cf2c1ae543c1)
+* [Unsupervised Learning with Python](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

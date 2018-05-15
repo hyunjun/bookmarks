@@ -729,12 +729,14 @@ Deep Learning
   * [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
   * [Notation](http://www.deeplearningbook.org/contents/notation.html)
   * [DeepLearningBook.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fraw.githubusercontent.com%2FHFTrader%2FDeepLearningBook%2Fmaster%2FDeepLearningBook.pdf&h=ATOmM--Cv2DlWcHaWEzjNxiu9As5K0h4cO7R0NQ0wQGMXweMaq0Nh5f4O8GoGGDKoQfkXafqXAYWmeQyxoDNUnH3Qsl7DvB4PlQc9p6w4heLx2JjgZWC6mLyKIG2A2wf4Azz_sYLtX_wJ_FfLw38ptv_s-_0wkWu2xgeBkiuIEgaBYHnbkEke3_gi80SG4VH6f0k5Z-5GZKaPXmQYeT0laVv0gQdDV-dfAOUI3gwZxybqwTO6PeAjBc2Hhs522oPYh-eoy3lz-wnK170vE2GFEeCo_dFBQVY4GpFtRBt7Djznuo)
+  * [Deep Learning Book Notes, Chapter 3 (part 1): Introduction to Probability](https://towardsdatascience.com/deep-learning-book-notes-chapter-3-part-1-introduction-to-probability-49d13c997f2a)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
   * [교과서 읽고 느낀점](http://blog.naver.com/atelierjpro/220896756412)
   * [reinforcement_learning_an_introduction](https://github.com/Curt-Park/reinforcement_learning_an_introduction)
+    * [Introduction](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch01_introduction/introduction.ipynb)
     * [Multi-armed bandits](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch02_multi-armed_bandits/multi-armed_bandits.ipynb)
 	* [Rich Sutton's Talks](http://incompleteideas.net/Talks/Talks.html)
 * [도서 마인드맵](https://www.mindmeister.com/812276967/_)
@@ -1324,6 +1326,7 @@ Deep Learning
 * [DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/338217953280873/)
 * [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
 * [How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
+* [Deep Learning with Python](https://towardsdatascience.com/deep-learning-with-python-703e26853820)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
@@ -1410,6 +1413,7 @@ Deep Learning
 * [15 Deep Learning Tutorials](http://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
 * [50 Deep Learning Software Tools and Platforms, Updated](http://www.kdnuggets.com/2015/12/deep-learning-tools.html)
 * [A.I. Duet - A piano that responds to you](https://github.com/googlecreativelab/aiexperiments-ai-duet)
+* C3DL [딥러닝 분산 플랫폼, C3DL](https://d2.naver.com/helloworld/1914772)
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
   * [윈도우에서 Caffe 이용하기](https://github.com/jaeho-kang/deep-learning/blob/master/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C%20caffe%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)

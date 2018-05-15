@@ -280,6 +280,7 @@ srcRedisdstnn(dst_hash_name)
 * [OPENCV 명령어 관련 정리](http://gorakgarak.tistory.com/555?category=144864)
 * [OPENCV 빠르게 이용해서 얼굴 판별](http://gorakgarak.tistory.com/553?category=144864)
 * [OpenCV 3 + 비주얼 스튜디오 + 윈도우즈10 설치](http://gorakgarak.tistory.com/582?category=144864)
+* [OpenCV 라이브러리로, 윤곽에 기반한 자동차 번호판 영역 추출 (License plates recognition)](http://mind3002.blogspot.com/2016/01/cc-opencv-license-plates-recognition.html)
 
 # OpenGL
 * [open.gl](https://open.gl/)

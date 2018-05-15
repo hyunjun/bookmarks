@@ -156,6 +156,7 @@ TensorFlow
   * [TensorFlow on Spark](https://github.com/adatao/tensorspark)
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark/blob/master/README.md)
     * **[BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.com/2017/09/bigdata-distributed-deep-learning.html)**
+    * [MNIST using Keras](https://github.com/yahoo/TensorFlowOnSpark/tree/master/examples/mnist/keras)
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
 * [DISTRIBUTED TENSORFLOW EXAMPLE](http://ischlag.github.io/2016/06/12/async-distributed-tensorflow/)
