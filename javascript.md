@@ -1245,6 +1245,8 @@ Javascript
 * [React / Material-UI](https://www.youtube.com/playlist?list=PLcCp4mjO-z98WAu4sd0eVha1g-NMfzHZk)
 * [리액트(React) 버전 16+ 총정리](https://www.vobour.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%EB%B2%84%EC%A0%84-16-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 * [카카오페이지 웹 React 포팅 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)
+* [React Testing Tutorial: Test Frameworks & Component Tests](https://www.robinwieruch.de/react-testing-tutorial/)
+	* [번역 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr/)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

@@ -277,6 +277,7 @@ Programming
 * [아키텍처란](https://brunch.co.kr/@cleancode/33)
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
+* **[Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)**
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)

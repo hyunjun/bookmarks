@@ -1614,6 +1614,7 @@ Python
   * [Flexible runtime interface to shared libraries with libffi](http://eli.thegreenplace.net/2013/03/04/flexible-runtime-interface-to-shared-libraries-with-libffi/)
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
   * [cffi-example: an example project showing how to use Python's CFFI](https://github.com/wolever/python-cffi-example)
+  * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
 * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [Clutterm - A clutter based terminal written in pure python (no vte lib)](https://github.com/paradoxxxzero/clutterm)
