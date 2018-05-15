@@ -70,6 +70,7 @@ SQL
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
 * **[MySQL에서 'a' = 'a '가 true로 평가된다?](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)**
   * [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/blog/2018/02/26/sql-char-comparison/)
+* [번역 데이터 구조와 설계 — 튜토리얼](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
