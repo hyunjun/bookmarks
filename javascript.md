@@ -145,6 +145,7 @@ Javascript
 * [Async Generator 코루틴](https://medium.com/@jooyunghan/js-async-generator-%EC%BD%94%EB%A3%A8%ED%8B%B4-cabb4f5ffaff)
 * [Refactoring an old and broken library to using async/await with TDD](https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2)
 * [How to avoid (or escape) async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
+* [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
 * [JS 제너레이터와 함수형 프로그래밍](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-8bba6c2ce459)
@@ -273,6 +274,7 @@ Javascript
 * [자바스크립트의 메모리관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
+* [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
 * **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
 * [Bitimulate :: 가상화폐 모의 투자 / 거래소 개발기](https://velopert.com/3465)
 * [How Do We Even JS? (The Components of Nylas's Javascript Stack)](https://www.nylas.com/blog/how-do-we-even-javascript)

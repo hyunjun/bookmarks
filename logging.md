@@ -29,7 +29,7 @@ Logging
   * [Part 5: Sketching a New System](https://bravenewgeek.com/building-a-distributed-log-from-scratch-part-5-sketching-a-new-system/)
 * [Part 1: Building a Centralized Logging Application](https://medium.com/eulercoder/part-1-building-a-centralized-logging-application-5a537033da0a)
 * [Logging in Android](https://android.jlelse.eu/logging-in-android-cfcd50cdc1ae)
-* NDC18 〈야생의 땅: 듀랑고〉의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유
+* **NDC18 〈야생의 땅: 듀랑고〉의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유**
   * [1부](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
   * [2부](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
 

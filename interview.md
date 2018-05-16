@@ -123,6 +123,7 @@ Interview
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/)
 * [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
   * [실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
+* [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

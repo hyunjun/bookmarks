@@ -250,6 +250,7 @@ Python
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
 * [py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
+* [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
 * **[배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)**
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
@@ -1917,7 +1918,7 @@ Python
   * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * Pygame
   * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
-  * [Pygame - Making Games with* Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
+  * [Pygame - Making Games with\* Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
   * [A animation using geometric plan! How we do beautiful and psychedelic things?](https://github.com/ryukinix/fractal-plan)
   * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
