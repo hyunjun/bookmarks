@@ -152,6 +152,7 @@ Apache
 * [Benchmarking Impala on Kudu vs Parquet](http://boristyukin.com/benchmarking-apache-kudu-vs-apache-impala/)
 * [Hotspotting In Hadoop — Impala Case Study](https://medium.com/@adirmashiach/hotspotting-in-hadoop-impala-case-study-6a8a613f14a1)
 * [Apache Impala: My Insights and Best Practices](https://medium.com/@adirmashiach/apache-impala-my-insights-and-best-practices-8e0507089935)
+* [How to read Impala query plan and profile Part 1 by Juan Yu](https://www.cloudera.com/developers/featured-video.html)
 
 # [Jena](http://jena.apache.org)
 

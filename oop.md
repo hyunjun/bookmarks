@@ -80,6 +80,9 @@
 * [Abstract Factory Design Pattern in Java](http://www.codenuclear.com/abstract-factory-design-pattern-java/)
 * [Mediator pattern](http://designpattern.co.il/Mediator.html)
 
+# JavaScript
+* [자바스크립트 객체지향 프로그래밍](https://m.blog.naver.com/PostView.nhn?blogId=edy5016&logNo=221163118651)
+
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
 * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)

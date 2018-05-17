@@ -419,6 +419,7 @@ Docker
   * [Accelerating I/O bound deep learning on shared storage](https://blog.riseml.com/accelerating-io-bound-deep-learning-e0e3f095fd0)
 * [Can Kubernetes Revolutionize The Enterprise World?](https://hackernoon.com/can-kubernetes-revolutionize-the-enterprise-world-86f4ec147d1f)
 * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
+* [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

@@ -492,6 +492,7 @@
 * [Spark Deep Learning Pipelines](https://www.facebook.com/nextobe1/posts/342192122883456)
 * [Machine Learning with Apache Spark](https://josepraveen.com/2018/02/04/machine-learning-with-apache-spark/)
 * [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
+* [Building Custom ML PipelineStages for Feature Selection - Marc Kaminski](https://www.youtube.com/watch?v=iUNk-i5aFPY)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)

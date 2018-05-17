@@ -387,6 +387,10 @@ App
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 * **[본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)**
+  * oh-my-zsh
+    * Insecure completion-dependent directories detected
+      * [zsh compinit: insecure directories](https://stackoverflow.com/questions/13762280/zsh-compinit-insecure-directories)
+      * `compaudit | xargs chmod g-w` 실행 후 아무 directory name이 안 나오면 정상
 * [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
@@ -422,6 +426,7 @@ App
   * [WRITING MODULES FOR ANSIBLE](https://www.ansible.com/webinar-on-demand-writing-modules-for-ansible)
   * [Ansible Plugin 살펴 보기 1편 (Action, Cache)](https://sysnet4admin.blogspot.com/2017/12/ansible-plugin-1.html)
   * [My First Ansible Project Episode II](http://naleejang.tistory.com/206)
+  * [OpenStack Instance auto provisioning with Ansible](http://naleejang.tistory.com/207)
 * Screen Recorder
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다.](http://macnews.tistory.com/2215)

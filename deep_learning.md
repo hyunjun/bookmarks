@@ -505,6 +505,7 @@ Deep Learning
 * [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
 * [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
 * [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+* **[Linear Algebra for Deep Learning](https://towardsdatascience.com/linear-algebra-for-deep-learning-506c19c0d6fa)**
 * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.com/2017/02/the-black-magic-of-deep-learning-tips.html)
 * [Game Theory reveals the Future of Deep Learning](https://medium.com/intuitionmachine/game-theory-maps-the-future-of-deep-learning-21e193b0e33a)
 * [todaysdeeplearning.com](http://www.todaysdeeplearning.com/)

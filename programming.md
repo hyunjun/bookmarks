@@ -167,6 +167,7 @@ Programming
 * [How to make your Software Development experience… painless….](https://towardsdatascience.com/how-to-make-your-software-development-experience-painless-2591ebcc69b6)
 * [나쁜 개발자의 11가지 습관](https://blog.naver.com/codestates/221255140091)
 * [Want to be a top developer? You should build things. Here’s another list to get you started](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
+* [How to be a successful software engineer](https://medium.freecodecamp.org/how-to-be-a-successful-software-engineer-6f82a5b1a82e)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)

@@ -245,6 +245,7 @@ Clojure
 * [Java arrays and unchecked math](http://clojure-goes-fast.com/blog/java-arrays-and-unchecked-math)
 * [example - 게임 상태 관리 예](https://groups.google.com/forum/#!topic/clojure-kr/u3RKn-PkQBg)
 * [함수형 프로그래밍 언어에 대한 고찰](https://engineering.linecorp.com/ko/blog/detail/244)
+* [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

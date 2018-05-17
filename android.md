@@ -53,6 +53,7 @@ Android
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
   * [38 Amazing Open Source Android Apps written in Java](https://medium.mybridge.co/38-amazing-android-open-source-apps-java-1a62b7034c40)
 * [번역 DroidKaigi 2017 ~ DataBinding 로 구현하는 MVVM Architecture](http://pluu.github.io/blog/android/droidkaigi/2017/12/25/droidkaigi-databindingteshi-xian-surumvvm-architecture/)
+* [Android Architecture Components — now with 100% more MVVM](https://android.jlelse.eu/android-architecture-components-now-with-100-more-mvvm-11629a630125)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 * Mastering the World of Android Testing
   * [Part 1](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)

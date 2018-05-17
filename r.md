@@ -241,6 +241,8 @@ R
 * [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
   * [Understanding Blockchains by Coding One in R](https://www.datacamp.com/community/tutorials/blockchain-r)
 * [R에서 Newton Raphson Method 에 대한 시뮬레이션 과제 (+ ggplot2, gganimate package)](https://lovetoken.github.io/r/data_visualization/2018/04/24/netwon_raphson_method.html)
+* [European R Users Meeting](http://2018.erum.io/)
+  * [eRum 2018 Tuesday - nagyHall](https://www.youtube.com/watch?v=9nuxlqXAmmc)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -293,6 +295,7 @@ R
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
 * caret
   * [R에서 caret package 를 이용한 데이터 학습 간편화 전략](https://lovetoken.github.io/r/2017/04/23/caret_package.html)
+* [clipr - R functions for reading and writing from the system clipboard](https://github.com/mdlincoln/clipr)
 * [crantastic.org - a community site for R packages where you can search for, review and tag CRAN packages](http://crantastic.org/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
@@ -322,8 +325,10 @@ R
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
-* [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
+* [fst - Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst)
+  * [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
   * [R에서 테이블 형 객체를 파일단위로 저장할 때 특화된 fst package](https://lovetoken.github.io/r/2018/03/01/fstPackage.html)
+* [funique - ⌚️ A faster unique() function](https://github.com/mkearney/funique)
 * [h5 - An Object Oriented Interface to HDF5](https://cran.r-project.org/web/packages/h5/vignettes/h5-Intro.html)
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
