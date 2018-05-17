@@ -2115,6 +2115,7 @@ Python
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [Snakebite is a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
+* [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
   * [github.com/somata](https://github.com/somata)
 * sphinx

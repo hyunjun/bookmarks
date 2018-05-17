@@ -200,10 +200,11 @@ Docker
   * [Docker with shell script or Makefile](https://ypereirareis.github.io/blog/2015/05/04/docker-with-shell-script-or-makefile/)
   * [docker run a shell script in the background without exiting the container](http://stackoverflow.com/questions/31570208/docker-run-a-shell-script-in-the-background-without-exiting-the-container#answer-31570980)
 * troubleshooting
+  * `device or resource busy` [practice - docker version 변경을 통해 해결](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7#file-device_or_resource_busy-md)
   * `kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1`
     * kernel bug, not yet resolved
     * [github.com/moby/moby/issues/5618](https://github.com/moby/moby/issues/5618)
-  * `Target WSGI script ... cannot be loaded as Python module` [practice; -v로 연결한 directory의 permission 문제](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7)
+  * `Target WSGI script ... cannot be loaded as Python module` [practice; -v로 연결한 directory의 permission 문제](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7#file-permission-md)
     * [Docker & File Permissions](https://serversforhackers.com/c/dckr-file-permissions)
   * [Docker for Mac에서 No space left on device 오류](https://blog.outsider.ne.kr/1295)
   * [Docker cache and apt-get update](http://lenguyenthedat.com/docker-cache/)
