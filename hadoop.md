@@ -79,6 +79,7 @@ Hadoop
   * [Hadoop GZIP command line](https://gist.github.com/terrancesnyder/7220179)
   * [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/)
   * [How to get compressed (text) output from a streaming Hadoop job](https://stackoverflow.com/questions/13670572/how-to-get-compressed-text-output-from-a-streaming-hadoop-job)
+* [Migrating Hulu’s Hadoop Clusters to a New Data Center — Part One: Extending our Hadoop Instance](https://medium.com/hulu-tech-blog/migrating-hulus-hadoop-clusters-to-a-new-data-center-part-one-extending-our-hadoop-instance-b88c4bda61bc)
 
 ## Hadoop 3.x
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)

@@ -604,7 +604,9 @@ Deep Learning
 * [The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
 * [Continuous Unsupervised Training of Deep Architectures](https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures)
   * [core50 - A new Dataset and Benchmark for Continuous Object Recognition](https://vlomonaco.github.io/core50/)
-* [Only Numpy: Implementing Highway Network, OOP approach with Mini Batch with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-highway-network-oop-approach-with-mini-batch-with-interactive-code-b5c2de2df842)
+* Only Numpy
+  * [Implementing Highway Network, OOP approach with Mini Batch with Interactive Code](https://towardsdatascience.com/only-numpy-implementing-highway-network-oop-approach-with-mini-batch-with-interactive-code-b5c2de2df842)
+  * [Implementing Different combination of L1 /L2 norm/regularization to Deep Neural Network (regression) with interactive code](https://towardsdatascience.com/only-numpy-implementing-different-combination-of-l1-norm-l2-norm-l1-regularization-and-14b01a9773b)
 * [New Deep Learning Techniques](http://www.ipam.ucla.edu/programs/workshops/new-deep-learning-techniques/?tab=schedule)
 * [Automated front-end development using deep learning](https://blog.insightdatascience.com/automated-front-end-development-using-deep-learning-3169dd086e82)
 * [ANN Visualizer: A python library for visualizing Artificial Neural Networks (ANN)](https://www.techleer.com/articles/510-ann-visualizer-a-python-library-for-visualizing-artificial-neural-networks-ann/)
@@ -1452,6 +1454,7 @@ Deep Learning
   * [WWDC 애플 코어 머신러닝 (Core ML) 발표 요약 1 ("Introduction to CoreML)](https://www.facebook.com/groups/TensorFlowKR/permalink/482610418746688/)
   * [CoreML and Vision-Create a basic example](https://www.youtube.com/watch?v=mVQB4YEkOKM)
   * [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml/)
+  * [번역 앱에 Core ML 모델 합치기](http://blog.canapio.com/136)
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 * [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist

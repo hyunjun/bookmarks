@@ -67,6 +67,7 @@ iOS
 * [Finding memory leaks react-native app (iOS)](https://medium.freecodecamp.org/finding-memory-leaks-react-native-app-ios-46e6eeb50c8c)
 * [Continuous integration for iOS with Nix and Buildkite](https://medium.com/@Pinterest_Engineering/continuous-integration-for-ios-with-nix-and-buildkite-ef5b36c5292d)
 * [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
+* [iOS Dev Weekly - 351 (서문)](http://blog.canapio.com/137)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
@@ -260,6 +261,7 @@ iOS
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
 * [github.com/Mybridge/learn-swift](https://github.com/Mybridge/learn-swift)
+  * [Swift Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-may-2018-daf0aa192a39)
   * [Swift Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/swift-top-10-open-source-of-the-month-v-apr-2018-2c4dd8e213da)
   * [Swift Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-apr-2018-9bc104aea69d)
   * [Swift Top 10 Open Source for the Past Month (v.Mar 2018)](https://medium.mybridge.co/swift-top-10-open-source-for-the-past-month-v-mar-2018-51e754c2156d)
