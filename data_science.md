@@ -206,6 +206,7 @@ Data Science
 * [이야기 12. 당신은 데이터 문맹(Data Illiterate) 인가?](https://smartdigitalearning.com/2017/03/12/%EC%9D%B4%EC%95%BC%EA%B8%B0-12-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EB%A7%B9data-illiteracy-%EC%9D%B8%EA%B0%80/)
 * **[Data science with R - 1.  오해](http://blog.ab180.co/data-science-with-r-1-misperception/)**
 * [Q&A with leading Data Scientists](https://www.linkedin.com/pulse/qa-leading-data-scientists-roberto-v-zicari)
+* [수많은 데이터 사이언티스트들이 직장을 떠나는 이유는 무엇인가?](https://github.com/youngwoos/etc/blob/master/Here%E2%80%99s%20why%20so%20many%20data%20scientists%20are%20leaving%20their%20jobs.md)
 * [Forrester vs Gartner on Data Science Platforms and Machine Learning Solutions](http://www.kdnuggets.com/2017/04/forrester-gartner-data-science-platforms-machine-learning.html)
 * [sooyongshin.wordpress.com](https://sooyongshin.wordpress.com/)
   * [Healthcare Data? Data! Data!! (0) – 왜 데이터 이야기를 하나..](https://sooyongshin.wordpress.com/2017/05/07/healthcare-data-data-data-0-%EC%99%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0%EB%A5%BC-%ED%95%98%EB%82%98/)

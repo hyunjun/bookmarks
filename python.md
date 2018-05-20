@@ -316,7 +316,6 @@ Python
 * [파이썬 뉴스 텍스트 워드 클라우드](http://nbviewer.jupyter.org/gist/FinanceData/6bda99ce6ec5b9de2fd93e204f831561) feedparser, newspaper, konlpy 등 활용
 * [Controlling Hardware with Python](https://speakerdeck.com/dbrgn/controlling-hardware-with-python)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
-* **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 * [Kelsey Hightower - Keynote - Pycon 2017 Kubernetes for Pythonistas](https://www.youtube.com/watch?v=u_iAXzy3xBA)
 * [Generic Python App Structure](https://blog.sparkl.com/generic-python-app-structure-2c19e22f0678)
 * **[Buggy Python Code: The 10 Most Common Mistakes That Python Developers Make](https://www.toptal.com/python/top-10-mistakes-that-python-programmers-make)**
@@ -1280,12 +1279,10 @@ Python
   * [Structuring a Flask-RESTPlus Web Service for Production Builds](https://medium.freecodecamp.org/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563)
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
 * [Flask 블루프린트(blueprint) 사용하기](https://blog.naver.com/dbswjd1977/221152224572)
-* [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
 * [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
 * [Asynchronous Task in Flask Using Celery](https://www.youtube.com/watch?v=iwxzilyxTbQ)
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
-* [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
 * [3x faster Flask apps - Quart as a upgrade to Flask](https://hackernoon.com/3x-faster-than-flask-8e89bfbe8e4f) 결국 async로 변경했다는 이야기
 * [Build MVP With Python Flask and ReactJS](https://www.youtube.com/watch?v=7JnWfDczo-8)
 * [How I Reverse Engineered A Chrome Extension To Write My Own Flask App](https://medium.freecodecamp.org/how-i-reverse-engineered-a-chrome-extension-to-write-my-own-flask-app-d77f36421106)
@@ -1576,7 +1573,6 @@ Python
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
   * [초간단 머신러닝 개발 환경 세팅하기 (with 아나콘다)](https://www.youtube.com/watch?v=8oaOE9LXY4w)
 * [angr is a framework for analyzing binaries](http://angr.io/)
-* [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
@@ -1818,8 +1814,6 @@ Python
   * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
-* [Nirum: IDL compiler and RPC/distributed object framework for microservices http://nirum.org/](https://github.com/spoqa/nirum)
-  * [니름: 쉬운 SOA 단위 테스트](https://www.slideshare.net/kanghyojun/soa-78799290)
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
@@ -2116,8 +2110,6 @@ Python
 * [Snakebite is a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
-* [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
-  * [github.com/somata](https://github.com/somata)
 * sphinx
   * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
 * SQLAlchemy
@@ -2234,6 +2226,25 @@ Python
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
+
+# Microservice
+* **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
+* [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
+* [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
+* [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
+* [Chalice](https://github.com/aws/chalice) Python Serverless Microframework for AWS
+  * [Python Serverless Microframework, Chalice 사용하기, 01](https://lee-seul.github.io/python/backend/2018/05/11/python-serverless-microframework-01.html)
+  * [Python Serverless Microframework, Chalice 사용하기, 02](https://lee-seul.github.io/python/backend/2018/05/13/python-serverless-microframework-02.html)
+  * [Python Serverless Microframework, Chalice 사용하기, 03](https://lee-seul.github.io/python/backend/2018/05/13/python-serverless-microframework-03.html)
+  * [Python Serverless Microframework, Chalice 사용하기, 04](https://lee-seul.github.io/python/backend/2018/05/14/python-serverless-microframework-04..html)
+  * [Python Serverless Microframework, Chalice 사용하기, 05](https://lee-seul.github.io/python/backend/2018/05/15/python-serverless-microframework-05.html)
+  * [Python Serverless Microframework, Chalice 사용하기, 06](https://lee-seul.github.io/python/backend/2018/05/16/python-serverless-microframework-06.html)
+  * [Python Serverless Microframework, Chalice 사용하기, 07](https://lee-seul.github.io/python/backend/2018/05/17/python-serverless-microframework-07.html)
+  * [Python Serverless Microframework, Chalice 사용하기, 08](https://lee-seul.github.io/python/backend/2018/05/18/python-serverless-microframework-08.html)
+* [Nirum: IDL compiler and RPC/distributed object framework for microservices http://nirum.org/](https://github.com/spoqa/nirum)
+  * [니름: 쉬운 SOA 단위 테스트](https://www.slideshare.net/kanghyojun/soa-78799290)
+* [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
+  * [github.com/somata](https://github.com/somata)
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)

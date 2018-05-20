@@ -199,6 +199,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [Top 10 JavaScript Open Source of the Month (v.May 2018)](https://medium.mybridge.co/top-10-javascript-open-source-of-the-month-v-may-2018-d6ccb4940fda)
 	* [JavaScript Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-may-2018-89d919267d96)
   * [JavaScript Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/javascript-top-10-open-source-of-the-month-v-apr-2018-22a06b763fd0)
   * [JavaScript Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-apr-2018-277b3ffcbd31)
@@ -456,6 +457,7 @@ Javascript
 * [A Simple Guide to ES6 Iterators in JavaScript with Examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
 * [ES5 vs ES6 ( With example code)](https://codeburst.io/es5-vs-es6-with-example-code-9901fa0136fc)
 * [ECMAScript 2016, 2017, 2018 변경점 정리 글 링크](http://greentec.egloos.com/4437541)
+* [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1155,6 +1157,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Open Source of the Month (v.May 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-may-2018-d39835f73842)
 * [React.js Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-apr-2018-b73b9b4e95d5)
 * [React.js Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-may-2018-e30edac96392)
 * [React.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-apr-2018-e3cccab07012)

@@ -456,6 +456,7 @@ TensorFlow
 * [TensorFlow GPU 버전 우분투 16.04에 설치 하기](http://goodtogreate.tistory.com/entry/TensorFlow-GPU-%EB%B2%84%EC%A0%84-%EC%9A%B0%EB%B6%84%ED%88%AC-1604%EC%97%90-%EC%84%A4%EC%B9%98-%ED%95%98%EA%B8%B0)
 * [Installing Tensorflow GPU on Ubuntu 18.04 LTS](https://medium.com/@taylordenouden/installing-tensorflow-gpu-on-ubuntu-18-04-89a142325138)
 * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
+* [How To Install Tensorflow On The Raspberry Pi](https://www.techleer.com/articles/523-how-to-install-tensorflow-on-the-raspberry-pi/)
 * [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)
 * [윈도우에 텐서플로우 with CPU를 위한 도커 설치](http://otter275.postach.io/post/windoue-tenseopeulrou-with-cpureul-wihan-dokeo-seolci)
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)

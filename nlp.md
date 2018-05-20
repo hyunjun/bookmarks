@@ -219,6 +219,7 @@ NLP
 * [파이썬자연어처리](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrmRyBUMsDDFk_FyLF9fARR)
 * **[Text Analysis Developers’ Workshop 2018 참석 후기](http://freesearch.pe.kr/archives/4791)**
 * [Text Analysis in Excel: Real world use-cases](https://blog.paralleldots.com/product/use-cases-excel-add-text-analysis)
+* [Auto Tagging Stack Overflow Questions](https://towardsdatascience.com/auto-tagging-stack-overflow-questions-5426af692904)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -574,6 +575,7 @@ NLP
   * [지능형 한국어 형태소 분석기 0.4버전 업데이트](http://bab2min.tistory.com/580)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
+* [Koshort - Koshort은 한국어 NLP를 위한 high-level API 프로젝트입니다](https://koshort.github.io/)
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)

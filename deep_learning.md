@@ -1298,6 +1298,7 @@ Deep Learning
 * [Visualizing LSTM Networks. Part I.](https://medium.com/asap-report/visualizing-lstm-networks-part-i-f1d3fa6aace7)
 * [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
 * [RNN and its applications](https://www.slideshare.net/samchoi7/rnnerica)
+* [How to Use the TimeDistributed Layer for Long Short-Term Memory Networks in Python](https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

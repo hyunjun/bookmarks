@@ -455,6 +455,7 @@ Machine Learning
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
 * [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
 * [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
+* [머신러닝 하루 만에 배우려고 하지 마라](https://github.com/youngwoos/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -748,6 +749,11 @@ Machine Learning
 * [Introduction To Machine Learning](https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4)
 * [Supervised Learning with Python](https://towardsdatascience.com/supervised-learning-with-python-cf2c1ae543c1)
 * [Unsupervised Learning with Python](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
+* [Machine Learning with Python: Easy and robust method to fit nonlinear data](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49)
+* A Complete Machine Learning Project Walk-Through in Python
+  * [Part One Putting the machine learning pieces together](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
+  * [Part Two Model Selection, Hyperparameter Tuning, and Evaluation](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
+  * [Part Three Interpreting a machine learning model and presenting results](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

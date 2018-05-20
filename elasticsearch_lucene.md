@@ -229,6 +229,7 @@ ElasticSearch - Lucene
 * [Language Models in Elasticsearch](https://www.elastic.co/blog/language-models-in-elasticsearch)
 * [Elasticsearch development case](https://www.slideshare.net/ssuser176324/elasticsearch-development-case)
 * [NSHC: Security in the Age of the Dark Web](https://www.elastic.co/kr/elasticon/tour/2017/seoul/security-in-the-age-of-the-dark-web)
+* [How to setup TLS for Elasticsearch, Kibana, Logstash and Filebeat with offline install in Linux](https://www.elastic.co/blog/how-to-setup-tls-for-elasticsearch-kibana-logstash-filebeat-with-offline-install-in-linux)
 
 # Docker
 * Dockerfile

@@ -280,6 +280,7 @@ SQL
 * [Introducing HypoPG, hypothetical indexes for PostgreSQL](http://www.postgresql.org/about/news/1593/)
 * [How to scale PostgreSQL on Amazon RDS using pg_shard](https://www.citusdata.com/blog/14-marco/178-scaling-out-postgresql-on-amazon-rds-using-masterless-pg-shard)
 * [High Availability for PostgreSQL, Batteries Not Included](https://www.compose.io/articles/high-availability-for-postgresql-batteries-not-included/)
+* [High availability and scalable reads in PostgreSQL](https://blog.timescale.com/scalable-postgresql-high-availability-read-scalability-streaming-replication-fb95023e2af)
 * [Making Postgres and Elasticsearch work together like it's 2015](https://github.com/zombodb/zombodb)
 * [Documenting Your PostgreSQL Database](http://www.craigkerstiens.com/2013/07/29/documenting-your-postgres-database/)
 * [Transaction ID Wraparound in Postgres](http://blog.getsentry.com/2015/07/23/transaction-id-wraparound-in-postgres.html)
