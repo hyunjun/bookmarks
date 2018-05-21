@@ -70,6 +70,7 @@ Linux
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * **[Understanding disk usage in Linux](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)**
   * [번역 - Understanding disk usage in Linux](https://github.com/hatsari/article/blob/master/understanding_disk_usage_in_linux/understanding_disk_usage_in_linux_ko.md)
+* [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -323,6 +324,7 @@ Linux
     * `xxd -b (Filename) > BINARY.bin` 현재 디렉토리에 BINARY.bin 파일 생성
     * `xxd -r BINARY.bin > (Filename)` 변환된 바이너리 덤프 -> 원본 파일 형식
       * hex 값을 수정한 이후 이를 다시 원본 형태로 돌려놓아야 할 때 유용
+* `zcat` uncompresses either a list of files on the command line or its standard input and writes the uncompressed data on standard output
   
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)

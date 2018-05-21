@@ -93,6 +93,7 @@ Hadoop
 * [Apache Hadoop 3.1.0](https://hadoop.apache.org/docs/r3.1.0/)
 * [Apache Hadoop 3](https://www.slideshare.net/cloudera/apache-hadoop-3)
 * [개요 아파치 하둡 3.1.0](https://www.popit.kr/%EA%B0%9C%EC%9A%94-%EC%95%84%ED%8C%8C%EC%B9%98-%ED%95%98%EB%91%A1-3-1-0)
+* [Trying out Containerized Applications on Apache Hadoop YARN 3.1](https://ko.hortonworks.com/blog/trying-containerized-applications-apache-hadoop-yarn-3-1/) Apache Haoop YARN3.1에서 dockerized application을 실행하는 방법
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

@@ -69,6 +69,7 @@ iOS
 * [iOS remote push notifications in a nutshell](https://medium.com/flawless-app-stories/ios-remote-push-notifications-in-a-nutshell-d05f5ccac252)
 * [iOS Dev Weekly - 351 (서문)](http://blog.canapio.com/137)
 * [라이더스앱(iOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
+* [약간의 iOS 개발 팁](http://blog.canapio.com/138)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
@@ -94,6 +95,7 @@ iOS
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
   * [퓨즈스터디](https://docs.google.com/presentation/d/1SRDExtqssxB4kpLLml9MaVKcdAD8aG7B0D3ZE4__rfg)
   * [TourDeFuse The sample for introducing functions of the Fuse](https://github.com/englekk/TourDeFuse)
+  * [Announcing Fuse Open — making Fuse free and Open Source](https://blog.fusetools.com/announcing-fuse-open-free-ea289bbf32d0)
 * [ghc-ios-scripts - Scripts for building GHC and Haskell programs for iOS](https://github.com/ghc-ios/ghc-ios-scripts)
 * [hackerweb-ios - A simply readable Hacker News app for iOS](https://github.com/cheeaun/hackerweb-ios)
 * [Hero](https://github.com/lkzhao/Hero)

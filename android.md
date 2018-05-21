@@ -108,6 +108,7 @@ Android
   * [Fuse소개](http://www.slideshare.net/EungShikKim/fuse-48974587)
   * [퓨즈스터디](https://docs.google.com/presentation/d/1SRDExtqssxB4kpLLml9MaVKcdAD8aG7B0D3ZE4__rfg)
   * [TourDeFuse The sample for introducing functions of the Fuse](https://github.com/englekk/TourDeFuse)
+  * [Announcing Fuse Open — making Fuse free and Open Source](https://blog.fusetools.com/announcing-fuse-open-free-ea289bbf32d0)
 * [Google I/O Android App](https://github.com/google/iosched)
 * Gradle
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)

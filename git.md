@@ -237,6 +237,7 @@ Git
   * `git config credential.helper store` [How to save username and password in git](https://stackoverflow.com/questions/35942754/how-to-save-username-and-password-in-git)
   * [깃의 config](http://sunphiz.me/wp/archives/2300)
   * [깃헙 서로 다른 저장소를 같은 서버에 배포시 배포 키 중복 오류](https://hyeonseok.com/soojung/dev/2017/06/21/820.html)
+  * [윈도우 git 체크아웃 Filename too long 오류 처리](http://javacan.tistory.com/entry/window-git-filename-too-long-error)
 * deps
   * [Git Deps for Clojure](https://clojure.org/news/2018/01/05/git-deps)
 * `diff`

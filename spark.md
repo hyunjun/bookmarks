@@ -193,6 +193,7 @@
 * [What's New in the Upcoming Apache Spark 2.3 Release?](http://go.databricks.com/databricks-runtime-4-with-apache-spark2-3)
 * [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
 * [Introducing Stream-Stream Joins in Apache Spark 2.3](https://databricks.com/blog/2018/03/13/introducing-stream-stream-joins-in-apache-spark-2-3.html)
+* [ORC improvement in Apache Spark 2.3](https://dataworkssummit.com/berlin-2018/session/orc-improvement-in-apache-spark-2-3/)
 * [The easiest way to run Spark in production](https://dcos.io/)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [Structuring Spark: DataFrames, Datasets, and Streaming by Michael Armbrust](http://www.slideshare.net/SparkSummit/structuring-spark-dataframes-datasets-and-streaming-by-michael-armbrust)

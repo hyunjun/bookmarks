@@ -267,6 +267,7 @@ Apache
 * [URP? Excuse You! The Three Kafka Metrics You Need to Know](https://www.slideshare.net/ToddPalino/urp-excuse-you-the-three-kafka-metrics-you-need-to-know) under replicated partition, request handler, requst time에 대해 모니터링할 수 있는 Kafka 메트릭 설명
 * [일상 협업 이야기: 참조 아키텍처 써먹기 편](https://www.popit.kr/v2/%EC%9D%BC%EC%83%81-%ED%98%91%EC%97%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B0%B8%EC%A1%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8D%A8%EB%A8%B9%EA%B8%B0-%ED%8E%B8)
 * [Scalability of Kafka Messaging using Consumer Groups](http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/)
+* [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

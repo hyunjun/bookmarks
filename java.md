@@ -491,6 +491,7 @@ Java
   * [Spring Rest Docs를 Markdown으로 작성하기](http://jojoldu.tistory.com/289)
   * [Gradle Multi Module에서 Spring Rest Docs 사용하기](http://jojoldu.tistory.com/294)
   * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
+  * [Spring Boot 2와 JUnit 5 사용](http://javacan.tistory.com/entry/spring-boot-2-junit-5)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

@@ -167,6 +167,7 @@ Algorithm
 * [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 * [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유 ](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
+* **[Byzantine Failure - 블록체인 개발이 어려운 이유](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)**
 * [Instructors' Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 * [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
 * [Raft - leader election](http://blog.seulgi.kim/2017/12/raft-leader-election.html)
@@ -381,6 +382,7 @@ Algorithm
 * [Interval hash tree: An eÆcient index structure for searching ob ject queries in large image databases](http://www.almaden.ibm.com/cs/people/stf/papers/caivd99.pdf)
 * [The BK-Tree – A Data Structure for Spell Checking](https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/)
 * [Everything you need to know about tree data structures](https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c)
+* [Algorithms Behind Modern Storage Systems - Different uses for read-optimized B-trees and write-optimized LSM-trees](https://queue.acm.org/detail.cfm?id=3220266)
 
 ## B Tree
 * [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)

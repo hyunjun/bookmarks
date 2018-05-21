@@ -458,6 +458,7 @@ Programming Books
   * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
 * (한라 NOT YET) [Docker로 PaaS 구성하기](http://book.daum.net/detail/book.do?bookid=BOK00030207228YE)
   * 2017.06
+* (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
@@ -644,6 +645,7 @@ Programming Books
 * (한라 NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
   * 005.133-웨57ㅈ
 * (NOT YET) [가장 빨리 만나는 코어 자바 9](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=138397162)
+* (NOT YET) [자바 프로젝트 필수 유틸리티](https://brunch.co.kr/@insuk/41)
 
 # JavaScript
 
@@ -1022,6 +1024,7 @@ Programming Books
 * 아파치 스파크 입문 - 따라 하며 쉽게 익히는 스파크 SQL, 스트림처리, 머신러닝
   * 탐라 004.584 사237ㅇ
   * 6장까지는 2.0, 7, 8장과 부록은 1.6.1 코드라고 함. 부록은 그래프X, 스파크R, 스트림 처리
+* (NOT YET) [하이 퍼포먼스 스파크](http://jpub.tistory.com/800)
 
 # Statistics
 
