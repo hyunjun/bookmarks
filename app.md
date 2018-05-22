@@ -299,6 +299,7 @@ App
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 
 # Mac
+* [최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
 * [Become The Shortcut Master — The Mac and Terminal (Part 1)](https://hackernoon.com/become-the-shortcut-master-the-mac-and-terminal-part-1-80793d8df033)
 * [맥북프로 재부팅 문제 해결 삽질기](http://www.popit.kr/%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EC%9E%AC%EB%B6%80%ED%8C%85-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%BD%EC%A7%88%EA%B8%B0/)
@@ -319,6 +320,7 @@ App
   * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
 * [mac 기본 앱 잘 쓰기 - 미리보기앱](https://steemit.com/kr/@ggopro/mac)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
+* [appcleaner](https://freemacsoft.net/appcleaner/)
 * Alfred
   * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
@@ -362,6 +364,7 @@ App
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * **[Spectacle](https://github.com/eczarny/spectacle)**
+  * [www.spectacleapp.com](https://www.spectacleapp.com/)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * **[Where Is My Mouse?](http://macnews.tistory.com/4007)**
@@ -383,6 +386,7 @@ App
 * [키노트로 고화질 타이틀 이미지 만들기](https://beomi.github.io/2017/11/10/Export-HighQuality-Image-with-KeyNote/)
 * [맥에서 MS 윈도우 가상머신을 합법적으로 무료로 쓰는 방법 :: 수다피플](https://sudapeople.wordpress.com/2016/03/02/%EB%A7%A5%EC%97%90%EC%84%9C-ms-%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EC%9D%84-%ED%95%A9%EB%B2%95%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%93%B0%EB%8A%94/comment-page-1/)
 * [Mac@Work 맥을 기반으로 한 업무 10년 경험의 추천 앱 모음](https://projectresearch.co.kr/2018/01/23/macwork-%EB%A7%A5%EC%9D%84-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%ED%95%9C-%EC%97%85%EB%AC%B4-10%EB%85%84-%EA%B2%BD%ED%97%98%EC%9D%98-%EC%B6%94%EC%B2%9C-%EC%95%B1-%EB%AA%A8%EC%9D%8C/)
+* [How I hacked my terminal so a happy whale would spout software quotes at me](https://codeburst.io/how-i-hacked-my-terminal-so-a-happy-whale-would-spout-software-quotes-at-me-6791e6c74fc6)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)

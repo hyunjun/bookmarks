@@ -411,6 +411,8 @@ Scala
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js.](https://github.com/scala-hamsters/hamsters)
+* [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
+  * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
 * JNI
   * [Allocating memory (and strings) from C, with standard finalizers](https://pijul.org/Learning%20Scala#allocating-memory-and-strings-from-c-with-standard-finalizers)

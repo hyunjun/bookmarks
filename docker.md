@@ -418,11 +418,14 @@ Docker
 * **[A Kubernetes guide for Docker Swarm lovers](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)**
 * [Machine Learning Platform for Kubernetes](https://riseml.com/)
   * [Accelerating I/O bound deep learning on shared storage](https://blog.riseml.com/accelerating-io-bound-deep-learning-e0e3f095fd0)
+  * [RiseML supports distributed deep learning with Horovod and TensorFlow](https://blog.riseml.com/riseml-supports-distributed-deep-learning-with-horovod-and-tensorflow-40ac770d0009)
 * [Can Kubernetes Revolutionize The Enterprise World?](https://hackernoon.com/can-kubernetes-revolutionize-the-enterprise-world-86f4ec147d1f)
 * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
 * [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * [Kubernetes #1 - 소개](http://bcho.tistory.com/1255)
+* [쿠버네티스 #2 - 개념 이해 (1/2)](http://bcho.tistory.com/1256)
+* [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

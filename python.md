@@ -373,6 +373,7 @@ Python
   * `dict`, `tuple`, custom class, `collections.namedtuple`, `typing.NamedTuple`, `struct.Struct`, `types.SimpleNamespace`
 * [Experienced python programmers: are there any standard features of the language that you still don't regularly use?](https://www.reddit.com/r/Python/comments/6i829l/experienced_python_programmers_are_there_any/) 파이썬의 다양한 언어적 기능
 * **[What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems)](https://www.youtube.com/watch?v=SlI9eOfxJJc)** dunder, custom iterator, functool.partial, contextmanager, closure, wraps/wrapt
+* [Solve Your Problem With Sloppy Python](https://www.youtube.com/watch?v=QsTVDx20y1M) os, subprocess, ...
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -1866,6 +1867,7 @@ Python
   * [pipenv 소개](http://gyus.me/?p=653)
   * [pipenv 란 무엇인가](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)
   * [파이선 가상환경을 품은 패키지 관리자, pipenv](https://graspthegist.com/post/python-pipenv/)
+  * [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`
@@ -2045,6 +2047,7 @@ Python
   * [Requests hang multiprocessing](https://github.com/requests/requests/issues/4337)
   * [Cory Benfield Requests Under The Hood PyCon 2017](https://www.youtube.com/watch?v=ptbCIvve6-k)
     * not so much about the requests library per se than about tradeoffs in programming, handling of exotic edge cases and an exercise in pragmatism
+  * [requests-file requests에서 file://... 로컬 URL 내용 가져오기](http://mcchae.egloos.com/11296668)
   * [requests-mock provides a building block to stub out the HTTP requests portions of your testing code](https://github.com/jamielennox/requests-mock)
     * [requests-mock.readthedocs.io](http://requests-mock.readthedocs.io/)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)

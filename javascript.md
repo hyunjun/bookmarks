@@ -317,6 +317,8 @@ Javascript
   * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
   * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
+* [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
+* [JS로 배우는 자료구조와 알고리즘 1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -368,6 +370,7 @@ Javascript
 * [Version 6 of Angular Now Available](https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4)
 * [Angular: writing configurable modules](https://medium.com/@michelestieven/angular-writing-configurable-modules-69e6ea23ea42)
 * [Display a Table using Components with Angular 4](https://codeburst.io/display-a-table-using-components-with-angular-4-f13f0971666d)
+* [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -965,6 +968,7 @@ Javascript
 * [Node Mysql Multiple Insert](https://cheese10yun.github.io/mysql-multiple-insert)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Open Source of the Month (v.May 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-may-2018-e346cd5b9dc3)
 * [Node.js Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-may-2018-303a821c493c)
 * [Node.js Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/node-js-top-10-open-source-of-the-month-v-apr-2018-6f209d974ee6)
 * [Node.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-apr-2018-5b1b71deee86)
@@ -1098,6 +1102,9 @@ Javascript
 * [리액트 도움닫기](https://github.com/sujinleeme/the-road-to-learn-react-korean)
 * [리액트 도움닫기](https://realhanbit.co.kr/books/87/pages/0/read)
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3613)
+* [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+  * [deminoth.github.io/redux](https://deminoth.github.io/redux/)
+  * [강좌 5-7편 Redux: Store](https://gist.github.com/velopert/8ce3162e2142eaadaa16891a5cbfce59)
 * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
   * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/languages/korean/book/Intro.html)
 * **[Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)**
@@ -1298,6 +1305,7 @@ Javascript
 * [Using a React 16 Portal to do something cool](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
 * [React Native Animation Experiments](https://blog.geekyants.com/react-native-animation-experiments-8ec057e85158)
 * [Goalplan 앱개발 히스토리](https://blog.naver.com/hidejj79/221256652881)
+* [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)

@@ -1024,6 +1024,8 @@ Programming Books
 * 아파치 스파크 입문 - 따라 하며 쉽게 익히는 스파크 SQL, 스트림처리, 머신러닝
   * 탐라 004.584 사237ㅇ
   * 6장까지는 2.0, 7, 8장과 부록은 1.6.1 코드라고 함. 부록은 그래프X, 스파크R, 스트림 처리
+* (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798)
+* (NOT YET) [스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)
 * (NOT YET) [하이 퍼포먼스 스파크](http://jpub.tistory.com/800)
 
 # Statistics

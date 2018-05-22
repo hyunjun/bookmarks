@@ -220,6 +220,8 @@ NLP
 * **[Text Analysis Developers’ Workshop 2018 참석 후기](http://freesearch.pe.kr/archives/4791)**
 * [Text Analysis in Excel: Real world use-cases](https://blog.paralleldots.com/product/use-cases-excel-add-text-analysis)
 * [Auto Tagging Stack Overflow Questions](https://towardsdatascience.com/auto-tagging-stack-overflow-questions-5426af692904)
+* [A Neural Network Model That Can Reason - Prof. Christopher Manning](https://www.youtube.com/watch?v=24AX4qJ7Tts)
+  * [Compositional Attention Networks for Machine Reasoning](https://openreview.net/forum?id=S1Euwz-Rb)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

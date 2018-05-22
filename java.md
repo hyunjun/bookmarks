@@ -519,6 +519,7 @@ Java
 * [5 Ways to debug Java thread-safety issues](https://www.java-success.com/debugging-java-thread-safety-multi-threading-concurrency-issues/)
 * [11: 10+ ♥♦ Advanced Java interview questions & answers on multithreading scenarios](https://www.java-success.com/advanced-java-interview-questions-answers-to-judge-experience/)
 * [ThreadLocal과 ThreadPool](https://tmondev.blog.me/221212500642)
+* [Java Thread States and Life Cycle](https://www.uml-diagrams.org/java-thread-uml-state-machine-diagram-example.html)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)

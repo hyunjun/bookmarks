@@ -23,6 +23,7 @@ Clojure
 * [Clojure koans](http://clojurekoans.com/)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 * **[Awesome list of clojure resources](https://clojure.zeef.com/vlad.bokov)**
+* [AwesomeClojure](https://github.com/mbuczko/awesome-clojure)
 * [Clojure releases vs. Clojure book publication dates](https://www.reddit.com/r/Clojure/comments/3q9jaw/clojure_releases_vs_clojure_book_publication_dates/)
 * [클로저 선문답](http://clojurekoans.hatemogi.com/)
 * [Clojure By Example](http://kimh.github.io/clojure-by-example)
@@ -114,6 +115,7 @@ Clojure
 * [clojure-study/guestbook](https://github.com/clojure-study/guestbook)
 * [Dataflow (Reactive) Programming](http://docs.paralleluniverse.co/pulsar/#dataflow-reactive-programming)
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [Rich Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f#how-can-i-achieve-programming-mastery)
 * [Introduction to Logic Programming with Clojure - Ambrose Bonnaire-Sergeant](https://www.youtube.com/watch?v=irjP8BO1B8Y)
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 * [Four Reasons to Use Maps Instead of Classes](http://spin.atomicobject.com/2015/09/14/clojure-maps-objects-classes/)
