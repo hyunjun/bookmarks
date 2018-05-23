@@ -1261,6 +1261,7 @@ Javascript
 * [React Testing Tutorial: Test Frameworks & Component Tests](https://www.robinwieruch.de/react-testing-tutorial/)
 	* [번역 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr/)
 * [React Application Performance Optimization](https://seokjun.kim/react-application-performance-optimization/)
+* [How to deploy a React application to Netlify that reads from a Google Sheet](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-that-reads-from-a-google-sheet-97a015806c47)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

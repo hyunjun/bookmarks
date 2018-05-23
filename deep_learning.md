@@ -503,6 +503,7 @@ Deep Learning
 * [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
 * [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
 * [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
+* [Rethinking Generalization in Deep Learning](https://medium.com/intuitionmachine/rethinking-generalization-in-deep-learning-ec66ed684ace)
 * [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
 * [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
 * **[Linear Algebra for Deep Learning](https://towardsdatascience.com/linear-algebra-for-deep-learning-506c19c0d6fa)**
@@ -1686,6 +1687,7 @@ CVPR2016)
 * [인공지능(AI) 관련 최신 공개된 주요 논문 발표 요약](http://www.aitimes.kr/news/articleView.html?idxno=10966)
 * [MY FAVORITE DEEP LEARNING PAPERS OF 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
 * [A List Of Top 10 Deep Learning Papers, The 2018 Edition](https://www.techleer.com/articles/517-a-list-of-top-10-deep-learning-papers-the-2018-edition/)
+* [Deep Variational Bayes Filters (2017)](http://t-robotics.blogspot.kr/2018/05/35-deep-variational-bayes-filters-2017.html) VAE를 time series에 확장, 칼만필터에 딥러닝을 더함
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)

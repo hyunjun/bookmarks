@@ -164,6 +164,7 @@ Keras
 # LSTM
 * [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+* [An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
 * **[Learning Math with LSTMs and Keras](http://cpury.github.io/learning-math/)**

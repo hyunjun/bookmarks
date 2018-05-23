@@ -1475,6 +1475,7 @@ Python
 * [파이썬 X 스타벅스 매장 데이터와 지도](http://nbviewer.jupyter.org/gist/FinanceData/b68b2840b43a2ff18b0295ed3732fb1d)
 * [IPython & Jupyter in depth: high productivity interactive and parallel python PyCon 2015](https://www.youtube.com/watch?v=05fA_DXgW-Y)
 * **[Boost Your Jupyter Notebook Productivity](https://towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad)**
+* [jupyter server 보안 설정하기](http://blog.greennuri.info/?p=182)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능

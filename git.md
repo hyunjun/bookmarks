@@ -109,6 +109,7 @@ Git
 * [github : 유용한 기능들](https://ash84.net/2018/02/27/about-github/)
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [2 phase commit](https://blog.seulgi.kim/2018/05/two-phase-commit.html)
+* [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

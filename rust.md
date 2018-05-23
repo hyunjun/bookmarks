@@ -95,6 +95,7 @@
 * [Rust Tutorial: Learn How To Be Productive In Rust (2018)](https://www.youtube.com/watch?v=waC2wgknY0s)
 * [Hello Rust! #0 - Humble Beginnings](https://www.youtube.com/watch?v=jMJRTjnh_jo)
 * [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q)
+* [Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)

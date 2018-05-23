@@ -15,6 +15,7 @@ Apache
 * [ETL best practices with Airflow documentation site](https://gtoonstra.github.io/etl-with-airflow/)
 * [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173)
 * [Modern Data Pipelines with Apache Airflow (Momentum 2018 talk)](http://blog.tedmiston.com/momentum-2018-airflow-talk/) Apache Airflow의 개념, 몇 가지 예제
+* [When Airflow isn’t fast enough: Distributed orchestration of multiple small workloads with Celery](https://medium.com/@manuelmourato25/when-airflow-isnt-fast-enough-distributed-orchestration-of-multiple-small-workloads-with-celery-afb3daebe611)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)

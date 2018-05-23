@@ -155,6 +155,7 @@ Data Visualization
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
   * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
   * [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
+  * [Data Visualization in Python: Advanced Functionality in Seaborn](https://blog.insightdatascience.com/data-visualization-in-python-advanced-functionality-in-seaborn-20d217f1a9a6)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
