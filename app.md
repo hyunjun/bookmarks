@@ -84,6 +84,9 @@ App
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [Tools I wish I had known about when I started coding: Revisited](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
 * [How to energize your scary terminal with helpful little scripts](https://medium.freecodecamp.org/how-to-energize-your-scary-terminal-with-helpful-little-scripts-c5ae92c12bfe)
+* [5 Free Software That Are Actually Great!  2018](https://www.youtube.com/watch?v=qSa2UPDH2yc)
+* [5 Free Software That Are Actually Great! 2 (2018)](https://www.youtube.com/watch?v=CG3uge3OomA)
+* [5 Free Software That Are Actually Great! 3 (2018)](https://www.youtube.com/watch?v=9-Sj_4495nQ)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
@@ -181,6 +184,7 @@ App
 * [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
+* [10 Chrome Extensions That Are Amazingly Useful!  2018](https://www.youtube.com/watch?v=1dFOSr2KeP8)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative
