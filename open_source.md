@@ -143,6 +143,7 @@ Open Source
   * [Comparison of the Open Source OLAP Systems for Big Data: ClickHouse, Druid and Pinot](https://medium.com/@leventov/comparison-of-the-open-source-olap-systems-for-big-data-clickhouse-druid-and-pinot-8e042a5ed1c7)
     * Open Source 분산 스토리지 엔진인 ClickHouse, Druid, Pinot을 비교
     * 시스템 간의 유사성(예: 저장 및 인덱스), 성능 특성, 데이터 처리, 데이터 복제 및 쿼리 실행의 유사성과 차이점 설명
+  * [Web analytics at scale with Druid at naver.com](https://www.slideshare.net/JasonJungsuHEO/web-analytics-at-scale-with-druid-at-navercom)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
 * [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)

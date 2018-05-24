@@ -598,6 +598,7 @@ Programming Books
 ## Swift
 
 * [스위프트 프로그래밍](http://blog.yagom.net/533)
+* (NOT YET) [The 친절한 Swift 프로그래밍 Zero](http://cafe.naver.com/ilovebookcase/28)
 
 # Java
 
