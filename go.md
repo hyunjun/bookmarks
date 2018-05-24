@@ -177,6 +177,7 @@ Go
 * [golang: Explicit is better than implicit?](https://medium.com/@leejongsoo/golang-explicit-is-better-than-implicit-f6184e684922)
 * [The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d)
 * [Build Your Own Distributed Database With Go](https://www.youtube.com/watch?v=rxzcx4HaCQo)
+* [React, Go로 만든 WordPress 읽기 서비스 구축 사례: 1편 개요](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1%ED%8E%B8-%EA%B0%9C%EC%9A%94/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

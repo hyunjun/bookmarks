@@ -38,6 +38,7 @@ Monitoring
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
 * [Monitoring Apache Spark with Prometheus on Kubernetes](https://banzaicloud.com/blog/spark-monitoring/)
 * **[Linux 게임 서버 성능 평가 (eBPF + BCC)](https://rein.kr/blog/archives/4389)**
+* [Monitoring large scale e-commerce websites at MakeMyTrip — Part 1](https://medium.com/makemytrip-engineering/monitoring-large-scale-e-commerce-websites-at-makemytrip-part-1-ce50499b90ee)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)

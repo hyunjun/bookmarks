@@ -229,6 +229,8 @@
   * Spark의 CSV 파일 작업에 대한 스니펫 소개
   * non-distributed version에 비해 Spark는 뛰어난 속도 향상 기능을 제공하며 Parquet과 같은 최적화된 형식으로 변환 할 수 있는 기능을 제공
 * [Diving into Spark and Parquet Workloads, by Example](https://db-blog.web.cern.ch/blog/luca-canali/2017-06-diving-spark-and-parquet-workloads-example)
+* [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+* [Apache Spark에서 컬럼 기반 저장 포맷 Parquet(파케이) 제대로 활용하기](http://engineering.vcnc.co.kr/2018/05/parquet-and-spark/)
 * [How to install and run Spark 2.0 on HDP 2.5 Sandbox](https://community.hortonworks.com/articles/53029/how-to-install-and-run-spark-20-on-hdp-25-sandbox.html)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
@@ -253,7 +255,6 @@
 * [데이터분석 인프라 구축기 (2/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-2-4-616df0d52ac3)
 * [데이터분석 인프라 구축기 (3/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-3-4-bb2326089ba5)
 * [데이터분석 인프라 구축기 (4/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-4-4-b74ba73c426c)
-* [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [zipWithIndex, for-yield 예제](http://knight76.tistory.com/entry/spark-zipWithIndex-foryield-%EC%98%88%EC%A0%9C)
 * [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
 * [Cloudera session seoul - Spark bootcamp](https://www.slideshare.net/SangbaeLim/cloudera-sessions-seoul-spark-bootcamp)
@@ -551,6 +552,7 @@
 * [How-to: Use IPython Notebook with Apache Spark](http://blog.cloudera.com/blog/2014/08/how-to-use-ipython-notebook-with-apache-spark/)
 * [Configuring IPython Notebook Support for PySpark](http://ramhiser.com/2015/02/01/configuring-ipython-notebook-support-for-pyspark/)
 * [pyADAM - This is a wrapper to load Parquet data in PySpark](https://github.com/arahuja/pyadam)
+* [PySpark: 손상된 parquet파일 무시하기](https://beomi.github.io/2018/02/26/PySpark-Read-Parquet-ignoreCorruptedFiles/)
 * [Accessing PySpark in PyCharm](http://renien.github.io/blog/accessing-pyspark-pycharm/)
 * [pyspark-project-example - A simple example for PySpark based project](https://github.com/HyukjinKwon/pyspark-project-example)
 * [Recommendation Systems for Implicit Feedback](https://github.com/csung7/Recommendation-Systems-for-Implicit-Feedback)
@@ -570,7 +572,6 @@
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
 * [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
 * [Getting The Best Performance With PySpark](https://www.slideshare.net/SparkSummit/getting-the-best-performance-with-pyspark)
-* [PySpark: 손상된 parquet파일 무시하기](https://beomi.github.io/2018/02/26/PySpark-Read-Parquet-ignoreCorruptedFiles/)
 * **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
   * [PySpark-Boilerplate](https://github.com/ekampf/PySpark-Boilerplate)
 * [How to use PySpark on your computer](https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617)
