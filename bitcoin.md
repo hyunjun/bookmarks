@@ -90,6 +90,7 @@ Bitcoin
 * [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
 * [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
 * [Hyperledger Sawtooth - Introduction to the XO Transaction Family (Sawtooth v1.0.2](http://js94.tistory.com/233)
+* [Safety & Liveness - FLP impossibility으로 보는 블록체인](https://blog.seulgi.kim/2018/05/safety-liveness-in-blockchain.html)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

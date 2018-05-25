@@ -16,6 +16,7 @@ Dependency Injection
 * [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion)
 * [On Inversion of Control](https://web.archive.org/web/20040202120126/http://www.betaversion.org/~stefano/linotype/news/38/)
 * [Demystifying the Dependency Inversion Principle in Angular](https://netbasal.com/demystifying-the-dependency-inversion-principle-in-angular-a2daca9b05ee)
+* [헐리우드 원칙](http://doublem.org/Hollywood-Principle/)
 
 # Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)

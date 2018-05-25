@@ -179,6 +179,7 @@ Programming Books
 * (NOT YET) **Real MySQL 개발자와 DBA를 위한**
 * (NOT YET) [데이터 분석을 위한 SQL 레시피](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565)
 	* 2018.05 한라
+  * [데이터 분석을 위한 SQL 레시피](http://jybaek.tistory.com/742)
 
 # Data Science
 

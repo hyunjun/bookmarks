@@ -1845,7 +1845,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
-* Temporal-Difference Learning
+* [Temporal-Difference Learning](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD_new/)
 	* [1](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD1/)
   * [2](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD2/)
 

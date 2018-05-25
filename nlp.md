@@ -451,6 +451,7 @@ NLP
 * [Multi Label Text Classification with Scikit-Learn](https://towardsdatascience.com/multi-label-text-classification-with-scikit-learn-30714b7819c5)
 * [Recurrent Neural Network for Text Calssification](https://github.com/roomylee/rnn-text-classification-tf)
 * [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
+* [Evaluating Classifiers: Confusion Matrix for Multiple Classes](https://www.youtube.com/watch?v=FAr2GmWNbT0)
 
 # Clustering
 * dbscan
