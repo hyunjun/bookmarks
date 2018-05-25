@@ -513,6 +513,7 @@ Javascript
 * [Daily Slack reports of your GraphQL query performance and errors](https://dev-blog.apollodata.com/daily-slack-reports-of-your-graphql-query-performance-and-errors-1749311f33e1)
 * [Caching GraphQL results in your CDN](https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2)
 * [한 단계씩 배워보는 GraphQL](https://engineering.huiseoul.com/%ED%95%9C-%EB%8B%A8%EA%B3%84%EC%94%A9-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-graphql-421ed6215008)
+* [How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1489,6 +1490,7 @@ Javascript
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Open Source of the Month (v.May 2018)](https://medium.mybridge.co/vue-js-open-source-of-the-month-v-may-2018-f94f774b96c2)
   * [Vue.js Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-may-2018-58772fc40f3d)
   * [Vue.js Top 10 Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/vue-js-top-10-open-source-of-the-month-v-apr-2018-bdaf78698818)
   * [Vue.js Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-apr-2018-2b500ef1679a)
