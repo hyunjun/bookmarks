@@ -50,6 +50,7 @@ Graph
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
 * [오픈 그래프 프로토콜(Open Graph protocol) 페이스북, 트위터 등에서 쓰이는 링크 미리보기? 링크 삽입시 미리보기에 대해 알아 보자](http://zzong.net/post/6)
+* [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases)](https://www.youtube.com/watch?v=GekQqFZm7mA)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)

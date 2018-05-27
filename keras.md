@@ -143,6 +143,7 @@ Keras
 * [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
 * [Deep Learning과 Keras 기초 - 아샬(@ahastudio)](https://www.youtube.com/watch?v=GSYVgQwc2P0)
 * [세종국책연구단지에 딥러닝 모델 심기](https://tykimos.github.io/2018/05/16/ISS_Plant_DeepLearning_Model_in_SNRC/)
+* [Keras와 HDF5으로  대용량 데이터 학습하기](http://nuxlear.tistory.com/m/4)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

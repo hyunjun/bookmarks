@@ -164,6 +164,7 @@ Data Visualization
 * [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
 * [matplotlib으로 하트 그리기](https://wikidocs.net/65)
 * [Pyplot tutorial](http://matplotlib.org/users/pyplot_tutorial.html)
+* [Why is academic writing so dense?](https://towardsdatascience.com/why-is-academic-writing-so-dense-88ca11cb368c) pyplot
 * [pyexecjs_performance-ipynb](https://gist.github.com/jskDr/e90ad5825eafdac33b93#file-pyexecjs_performance-ipynb)
 * [Reduce left and right margins in matplotlib plot](http://stackoverflow.com/questions/4042192/reduce-left-and-right-margins-in-matplotlib-plot)
 * [Violin Plot 그려보기](https://brunch.co.kr/@goodvc78/9)

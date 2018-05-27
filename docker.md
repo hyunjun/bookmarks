@@ -246,6 +246,7 @@ Docker
 * [docker를 활용한 서버 실습 환경 구축](https://www.youtube.com/watch?v=_uclvwOzgDY)
 * [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
 * [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
+* [파이썬 개발환경 구성하기의 끝판왕 - Docker Compose](https://www.slideshare.net/raccoonyy/docker-compose-98851170/raccoonyy/docker-compose-98851170)
 * [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f)
 * [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf)
 * [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
@@ -425,6 +426,9 @@ Docker
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * [Kubernetes #1 - 소개](http://bcho.tistory.com/1255)
 * [쿠버네티스 #2 - 개념 이해 (1/2)](http://bcho.tistory.com/1256)
+* [Kubernetes #1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
+* [Kubernetes #2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
+* [Kubernetes #3 security](https://www.slideshare.net/Byungwook/kubernetes-3-security)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 
 # Library

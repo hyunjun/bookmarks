@@ -285,6 +285,11 @@
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
 * [Locality Sensitive Hashing By Spark](https://www.slideshare.net/SparkSummit/locality-sensitive-hashing-by-spark)
 * [Partition Index - Selective Queries On Really Big Tables](https://medium.com/@adirmashiach/partition-index-selective-queries-on-really-big-tables-795fea737570) Hive, Impala, Spark 등으로 데이터를 조회할 때 전체 테이블을 검색하지 않도록 클라이언트와 데몬 사이에서 인덱스 맵을 만들고 유지 관리를 하며 쿼리를 파싱해주는 balancer를 구현
+* Practical Apache Spark in 10 minutes
+	* [Part 1 - Ubuntu installation](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-1-ubuntu-installation/)
+	* [Part 2 - RDD](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-2-rdd/)
+	* [Part 3 - Data Frames](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-3-data-frames/)
+	* [Part 4 - SQL](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-4-sql/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

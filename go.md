@@ -153,6 +153,7 @@ Go
   * [Others](https://github.com/josephmisiti/awesome-machine-learning#go)
   * [Tensorflow](github.com/danieldk/tensorflow)
   * [Caffe](github.com/wmyaoyao/gocaffe)
+* [dotGo 2017 - Francesc Campoy Flores - Machine Learning and Go](https://www.youtube.com/watch?v=lcyNjgEG9H8)
 * [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [blog.altoros.com/author/siarhei-matsiukevich](http://blog.altoros.com/author/siarhei-matsiukevich)
   * [golangkorea.github.io/series/golang--internals](https://golangkorea.github.io/series/golang--internals/)
@@ -178,6 +179,11 @@ Go
 * [The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d)
 * [Build Your Own Distributed Database With Go](https://www.youtube.com/watch?v=rxzcx4HaCQo)
 * [React, Go로 만든 WordPress 읽기 서비스 구축 사례: 1편 개요](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1%ED%8E%B8-%EA%B0%9C%EC%9A%94/)
+* [Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
+* [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
+* [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
+* [Why Go Is Perfect For DevOps](https://www.youtube.com/watch?v=COCUqAwAbD0)
+* [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
@@ -222,6 +228,8 @@ Go
   * between writing concurrent programs and the real world
 * [GopherCon 2017: Kavya Joshi - Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
   * A deep dive into the channel implementation in Go
+* **[Simulating A Real-World System (Coffee Shop) In Go](https://www.youtube.com/watch?v=jJS6G7irZSc)**
+* [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
