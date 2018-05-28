@@ -197,6 +197,8 @@ Linux
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
 * iconv
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
+* `ip` replacement of ifconfig
+  * [There's real reasons for Linux to replace ifconfig, netstat, et al](https://utcc.utoronto.ca/~cks/space/blog/linux/ReplacingNetstatNotBad)
 * join
   * [15 Linux Split and Join Command Examples to Manage Large Files](http://www.thegeekstuff.com/2012/10/15-linux-split-and-join-command-examples-to-manage-large-files/)
 * kill
@@ -266,6 +268,8 @@ Linux
   * `sort -V` [Sorting numbers inside text strings](http://www.thelinuxrain.com/articles/sorting-numbers-inside-text-strings)
 * `split`
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
+* `ss` replacement of netstat
+  * [There's real reasons for Linux to replace ifconfig, netstat, et al](https://utcc.utoronto.ca/~cks/space/blog/linux/ReplacingNetstatNotBad)
 * `ssh`
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
   * [ssh key 효율적인 관리 방법](http://www.popit.kr/ssh-key-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95/)

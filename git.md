@@ -110,6 +110,7 @@ Git
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [2 phase commit](https://blog.seulgi.kim/2018/05/two-phase-commit.html)
 * [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
+* [utterances 적용](https://astrod.github.io/etc/2018/05/28/utterances-%EC%A0%81%EC%9A%A9/)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

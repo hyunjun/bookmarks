@@ -176,6 +176,7 @@ Algorithm
 * [Raft - Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 * [Raft - consistency](http://blog.seulgi.kim/2017/12/raft-consistency.html)
 * [Raft - electionTimeout](http://blog.seulgi.kim/2017/12/raft-timing.html)
+* [2018년 21번째 주 - Consensus algorithm](https://blog.seulgi.kim/2018/05/w21.html)
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 

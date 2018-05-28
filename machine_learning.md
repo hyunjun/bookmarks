@@ -458,6 +458,8 @@ Machine Learning
 * [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [머신러닝 하루 만에 배우려고 하지 마라](https://github.com/youngwoos/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md)
 * [DeepTide - The world's first massive collaboration machine learning platform Collaborate with top AI researchers on the biggest problems](http://deeptide.ai/)
+* [Beyond Apps: A Developer’s Guide to Getting Started in Machine Learning](https://hackernoon.com/beyond-apps-a-developers-guide-to-getting-started-in-machine-learning-39eec82a965d)
+* [Convex Optimization 컨벡스 최적화](https://wikidocs.net/17052)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -696,6 +698,7 @@ Machine Learning
 * [애저 펑션과 도커 컨테이너가 만났을 때](https://blog.aliencube.org/ko/2018/04/16/when-azure-functions-meets-container/)
 * [Azure에서 PowerShell을 사용한 가상 네트워크와 서브넷을 만들 때 범할 수 있는 실수](http://www.dokyun.pe.kr/226)
 * [Try Azure PowerShell for fun (for 2018 Global Azure Boot Camp)](http://www.dokyun.pe.kr/227)
+* [How to delete orphaned AD Sync account in Azure AD](http://www.dokyun.pe.kr/229)
 * Microsoft AI와 파이썬 장고를 통해 아이돌 안면장식장애 해결하기
   * [EP01. 슬라이드 설명 편](https://www.youtube.com/watch?v=09fxZbB-aoQ)
   * [EP02. 코드 실전편](https://www.youtube.com/watch?v=fUkBNSlhYj8)

@@ -453,6 +453,7 @@ NLP
 * [Recurrent Neural Network for Text Calssification](https://github.com/roomylee/rnn-text-classification-tf)
 * [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
 * [Evaluating Classifiers: Confusion Matrix for Multiple Classes](https://www.youtube.com/watch?v=FAr2GmWNbT0)
+* [The last 3 years in Text Classification](https://medium.com/explorations-in-language-and-learning/the-last-3-years-in-text-classification-8f408c043a79
 
 # Clustering
 * dbscan
@@ -958,6 +959,7 @@ NLP
 * **[Fact Extraction from Wikipedia Text](https://github.com/dbpedia/fact-extractor)**
 * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
 * [wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia](https://github.com/walle/wiki)
+* [What are the ten most cited sources on Wikipedia? Let’s ask the data](https://medium.com/freely-sharing-the-sum-of-all-knowledge/what-are-the-ten-most-cited-sources-on-wikipedia-lets-ask-the-data-34071478785a)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)

@@ -282,6 +282,7 @@ Programming
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
 * **[Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)**
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
+* [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
 
 ## Microservice
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -411,6 +412,7 @@ Programming
   * [Container Engine (GKE #2. cluster 생성)](http://jybaek.tistory.com/659)
   * [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
   * [Spring Boot 로 테스트해 본 Stackdriver trace](https://medium.com/@jwlee98/gcp-spring-boot-%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%B4-%EB%B3%B8-stackdriver-trace-fefa46394af8)
+  * [Google Cloud Platform의 빅데이터 제품 살펴보기#1 - GCS, GCE](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Bigdata-Products/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -610,6 +612,7 @@ Programming
 * [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
 * [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
 * [쾌적한 코딩을 위한, 코딩용 폰트](http://ppss.kr/archives/66633)
+* [11 Best Programming Fonts](https://itnext.io/11-best-programming-fonts-724283a9ed57)
 * Ligatures 지원 폰트
   * [Shellscript to install fonts for macOS and Linux](https://gist.github.com/Kevin-Lee/328e9993d6b3ad250636023fb2c7827f)
   * [FiraCode - Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
@@ -792,6 +795,7 @@ Programming
   * [4월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/04/b-4-4.html)
   * [5월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/05/b-4-3.html)
   * [5월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/05/b-5-3.html)
+  * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/05/b-5-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1010,6 +1014,7 @@ Programming
 * [Test Driven Development (TDD) basic](https://www.slideshare.net/CurtPark1/test-driven-development-tdd-basic/)
 * [Why TDD](https://builttoadapt.io/why-tdd-489fdcdda05e)
 * **[결제 시스템 성능, 부하, 스트레스 테스트](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)**
+* [Why I now appreciate testing, and why you should, too](https://medium.freecodecamp.org/why-i-now-appreciate-testing-and-why-you-should-too-74d48c67ab72)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

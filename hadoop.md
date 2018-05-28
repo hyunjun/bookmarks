@@ -94,6 +94,9 @@ Hadoop
 * [Apache Hadoop 3](https://www.slideshare.net/cloudera/apache-hadoop-3)
 * [개요 아파치 하둡 3.1.0](https://www.popit.kr/%EA%B0%9C%EC%9A%94-%EC%95%84%ED%8C%8C%EC%B9%98-%ED%95%98%EB%91%A1-3-1-0)
 * [Trying out Containerized Applications on Apache Hadoop YARN 3.1](https://ko.hortonworks.com/blog/trying-containerized-applications-apache-hadoop-yarn-3-1/) Apache Haoop YARN3.1에서 dockerized application을 실행하는 방법
+* [Containerized Apache Spark on YARN in Apache Hadoop 3.1](https://ko.hortonworks.com/blog/containerized-apache-spark-yarn-apache-hadoop-3-1/)
+  * Hadoop 3의 YARN에서 Spark를 실행하는 방법 설명
+  * Docker를 사용하여 SparkR과 PySpark용 이미지를 빌드하고 Apache Zeppelin을 통해 엑세스하는 방법
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

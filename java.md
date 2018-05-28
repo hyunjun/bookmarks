@@ -201,6 +201,7 @@ Java
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 * [A Very Simple IntelliJ Idea Tip – Enable Function Keys on Mac Book Pro TouchBar](http://www.javastudy.net/a-very-simple-intellij-idea-tip-enable-function-keys-on-mac-book-pro-touchbar/)
 * [mac os에서 intellij 완전 제거 / 백업 하기](http://blog.woniper.net/354)
+* [intellij SQL keyword 자동 uppercase](http://blog.woniper.net/360)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -474,6 +475,7 @@ Java
     * [누구나 아는 Spring Batch 기본 개념](http://blog.woniper.net/356)
     * [Spring Batch의 동작 코드 #Job 생성과 실행](http://blog.woniper.net/357)
     * [Spring Batch의 동작 코드 #Step 생성과 실행](http://blog.woniper.net/358)
+    * [주소검색서버(woowahan-juso) 개발기(上)](http://woowabros.github.io/experience/2018/05/26/woowahan-juso.html)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
@@ -492,6 +494,7 @@ Java
   * [Gradle Multi Module에서 Spring Rest Docs 사용하기](http://jojoldu.tistory.com/294)
   * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
   * [Spring Boot 2와 JUnit 5 사용](http://javacan.tistory.com/entry/spring-boot-2-junit-5)
+  * [SpringBoot Data Redis 로컬/통합 테스트 환경 구축하기](http://jojoldu.tistory.com/297)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

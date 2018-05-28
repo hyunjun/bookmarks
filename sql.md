@@ -218,6 +218,7 @@ SQL
   * [How to catch MySQL SQL with tcpdump in Linux](https://web.liferay.com/web/david.zhang/blog/-/blogs/how-to-catch-mysql-sql-with-tcpdump-in-linux)
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/) e.g. 게시판
 * [MySQL 실행 계획](http://12bme.tistory.com/160)
+* **[장애와 관련된 XtraBackup 적용기](http://woowabros.github.io/experience/2018/05/28/billingjul.html)** mysqldump, mysqlbinlog, XtraBackup
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
@@ -315,6 +316,7 @@ SQL
 * [Five Things You Didn’t Know About PostgreSQL](https://vimeo.com/43536445)
 * [How to scale PostgreSQL 10 using table inheritance and declarative partitioning](https://blog.timescale.com/scaling-partitioning-data-postgresql-10-explained-cd48a712a9a1)
 * [Postgres as the Substructure for IoT and the Next Wave of Computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af)
+* [PostgreSQL 11 Partitioning Improvements](https://pgdash.io/blog/partition-postgres-11.html) PostgreSQL 11에서 파티셔닝에 관련하여 향상된 기능 소개
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)

@@ -248,6 +248,8 @@ Data Science
 * [Weekly Selection — Mar 2, 2018](https://towardsdatascience.com/weekly-selection-mar-2-2018-f827465a384d)
 * [Big Data Engineering VS Data Warehousing](https://medium.com/@FedakV/big-data-engineering-vs-data-warehousing-987a75d418ed)
 * [How ‘Big’ should be your Data?](https://towardsdatascience.com/how-big-should-be-your-data-fdace6e627e4)
+* [Self Driven Data Science — Issue #40](https://medium.com/@conordewey3/self-driven-data-science-issue-40-58b7d7b089d3)
+* [How I automated my job search by building a web crawler from scratch](https://medium.freecodecamp.org/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

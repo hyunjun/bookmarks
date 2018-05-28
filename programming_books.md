@@ -695,6 +695,7 @@ Programming Books
 * Node.js를 활용한 마이크로서비스 개발
   * 한라 005.118 곤72ㄴ
   * Node.js + 세네카 seneca, PM2 프레임워크, 모카 mocha, 차이 chai, 시논 sinon , 스웨거 swagger
+* (NOT YET) [초보자를 위한 Node.js 200제](http://jybaek.tistory.com/741)
 
 # Kotlin
 

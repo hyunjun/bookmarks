@@ -54,8 +54,6 @@ Vision
   * [Visesh Chari Simon Lacoste-Julieny Ivan Laptev Josef Sivic On Pairwise Costs for Network Flow Multi-Object Tracking](https://github.com/viseshchari/TrackingNetFlow)
   * [Shengcai Liao, Yang Hu, Xiangyu Zhu, and Stan Z. Li, "Person Re-identification by Local Maximal Occurrence Representation and Metric Learning."](http://www.cbsr.ia.ac.cn/users/scliao/projects/lomo_xqda/)
   * [Ijaz Akhter aHAnd Michael J. Black Pose-Conditioned Joint Angle Limits for 3D Human Pose Reconstruction](http://poseprior.is.tue.mpg.de/)
-srcRedis.conn(src_hash_name)
-srcRedisdstnn(dst_hash_name)
   * [G. Tzimiropoulos, "Project-Out Cascaded Regression with an application to Face Alignment",](https://www.dropbox.com/s/wtiuv36lji6ds60/po_cr_code_v1.zip?dl=0)
   * [YiChang Shih, Dilip Krishnan, Fredo Durand, William T. Freeman Reflection Removal Using Ghosting Cues](https://www.dropbox.com/s/gah3awj14m9dhee/dereflection_06102015.zip?dl=0)
   * [B. Ham, M. Cho, J. Ponce Robust Image Filtering Using Joint Static and Dynamic Guidance](http://www.di.ens.fr/willow/research/sdfilter/code/sdfilter-release-v1.1.zip)
@@ -198,6 +196,7 @@ srcRedisdstnn(dst_hash_name)
 * [2D 변환 (Transformations)](http://darkpgmr.tistory.com/m/79)
 * [Convolution & Correlation 이해하기](http://www.popit.kr/%EB%94%AE%EB%9F%AC%EB%8B%9D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC-convolution-correlation-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 * [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
+* [Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3) image classification
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
