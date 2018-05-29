@@ -304,11 +304,13 @@ Vision
 * [Face Recognition - Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library](https://github.com/ageitgey/face_recognition)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
 * [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
-* **[① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)**
-* [① 파이썬 - 컴퓨터 비전 프로그래밍 (Basic Image Handling and Processing) (2)](http://gorakgarak.tistory.com/471?category=144864)
-* [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (1)](http://gorakgarak.tistory.com/476?category=144864)
-* [② 파이썬 - 컴퓨터 비전 프로그래밍 (Local Image Descriptor) (2)](http://gorakgarak.tistory.com/477?category=144864)
+* 파이썬 - 컴퓨터 비전 프로그래밍
+  * **[① (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)**
+  * [① (Basic Image Handling and Processing) (2)](http://gorakgarak.tistory.com/471)
+  * [② (Local Image Descriptor) (1)](http://gorakgarak.tistory.com/476)
+  * [② (Local Image Descriptor) (2)](http://gorakgarak.tistory.com/477)
 * [About The world's simplest facial recognition API for the command line and Python: Here's Face_recognition!](https://www.techleer.com/articles/463-about-the-worlds-simplest-facial-recognition-api-for-the-command-line-and-python-heres-face_recognition/)
+* [How to do Semantic Segmentation using Deep learning](https://medium.com/nanonets/how-to-do-image-segmentation-using-deep-learning-c673cc5862ef)
 * Only Numpy Medical: Denosing Lung CT Scans using Neural Networks with Interactive Code
   * [Part 1, Vanilla Auto Encoder Model](https://towardsdatascience.com/only-numpy-medical-denosing-lung-ct-scans-using-auto-encoders-with-interactive-code-part-1-a6c3f9400246)
   * [Part 2, Convolutional Neural Network (Low-dose CT denoising with convolutional neural network)](https://towardsdatascience.com/only-numpy-medical-denosing-lung-ct-scans-using-neural-networks-with-interactive-code-part-2-6def73cabba5)

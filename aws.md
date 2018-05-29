@@ -184,6 +184,7 @@ AWS
 * [How to train custom Word Embeddings using GPU on AWS](https://towardsdatascience.com/how-to-train-custom-word-embeddings-using-gpu-on-aws-f62727a1e3f6)
 * [해외 오피스를 위한 Amazon Workspaces와 Amazon Workdocs 구축 경험기](https://docs.google.com/presentation/d/13LNYqyPzYSDpf3AXRTSOAtXHqjTzuC8Cn8l74GtnuqY/edit#slide=id.p1)
 * [Rancher 기본 입문](https://www.slideshare.net/HyunminKim5/awskrug-rancher)
+* [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

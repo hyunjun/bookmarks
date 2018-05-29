@@ -250,6 +250,7 @@ Algorithm
   * Multi-Source, Breadth-First Search
 * [Python: 2 Ways to Represent Graphs](https://www.youtube.com/watch?v=HDUzBEG1GlA)
 * [Graphs using Adjacency Lists | Code in Python](https://www.youtube.com/watch?v=bs2er-CleeI)
+* [Topological Sorting](https://www.geeksforgeeks.org/topological-sorting/)
 * [위상 정렬 (topological sort)](https://www.youtube.com/watch?v=m-Z19d2uS0w)
   * [위상정렬.ipynb](https://github.com/minsuk-heo/coding_interview_kr/blob/master/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC.ipynb)
 

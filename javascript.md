@@ -318,7 +318,9 @@ Javascript
   * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
-* [JS로 배우는 자료구조와 알고리즘 1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
+* JS로 배우는 자료구조와 알고리즘
+  * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
+  * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1005,6 +1007,7 @@ Javascript
 * [Video stream with Node.js and HTML5](https://medium.com/@daspinola/video-stream-with-node-js-and-html5-320b3191a6b6)
 * [process.env: What it is and why/when/how to use it effectively](https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7)
 * [A crash course on testing with Node.js](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
+* [dotenv – 환경 변수 사용하기](https://hudi.kr/node-js-dotenv-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

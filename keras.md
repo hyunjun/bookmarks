@@ -144,6 +144,7 @@ Keras
 * [Deep Learning과 Keras 기초 - 아샬(@ahastudio)](https://www.youtube.com/watch?v=GSYVgQwc2P0)
 * [세종국책연구단지에 딥러닝 모델 심기](https://tykimos.github.io/2018/05/16/ISS_Plant_DeepLearning_Model_in_SNRC/)
 * [Keras와 HDF5으로  대용량 데이터 학습하기](http://nuxlear.tistory.com/m/4)
+* [Keras gets a lightning fast backend!](https://medium.com/apache-mxnet/keras-gets-a-speedy-new-backend-with-keras-mxnet-3a853efc1d75)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

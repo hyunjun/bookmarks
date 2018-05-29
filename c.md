@@ -209,6 +209,7 @@ C
 * [Hammer - a parsing library](https://github.com/UpstandingHackers/hammer)
 * [Heman is a C library of image utilities for dealing with height maps and other floating-point images](http://heman.readthedocs.org/en/latest/)
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
+* [Hunter - CMake driven cross-platform package manager for C/C++](https://github.com/ruslo/hunter)
 * **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
 * [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html) beautifier

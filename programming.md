@@ -67,12 +67,21 @@ Programming
 * [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 * [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4)
 * [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
-* [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
-* [Let’s Build A Simple Interpreter. Part 2.](http://ruslanspivak.com/lsbasi-part2/)
-* [Let’s Build A Simple Interpreter. Part 3.](http://ruslanspivak.com/lsbasi-part3/)
-* [Let’s Build A Simple Interpreter. Part 4.](http://ruslanspivak.com/lsbasi-part4/)
-* [Let’s Build A Simple Interpreter. Part 5.](http://ruslanspivak.com/lsbasi-part5/)
-* [Let’s Build A Simple Interpreter. Part 6.](http://ruslanspivak.com/lsbasi-part6/)
+* **Let’s Build A Simple Interpreter** python
+  * [Part 1](http://ruslanspivak.com/lsbasi-part1/)
+  * [Part 2](http://ruslanspivak.com/lsbasi-part2/)
+  * [Part 3](http://ruslanspivak.com/lsbasi-part3/)
+  * [Part 4](http://ruslanspivak.com/lsbasi-part4/)
+  * [Part 5](http://ruslanspivak.com/lsbasi-part5/)
+  * [Part 6](http://ruslanspivak.com/lsbasi-part6/)
+  * [Part 7](https://ruslanspivak.com/lsbasi-part7/)
+  * [Part 8](https://ruslanspivak.com/lsbasi-part8/)
+  * [Part 9](https://ruslanspivak.com/lsbasi-part9/)
+  * [Part 10](https://ruslanspivak.com/lsbasi-part10/)
+  * [Part 11](https://ruslanspivak.com/lsbasi-part11/)
+  * [Part 12](https://ruslanspivak.com/lsbasi-part12/)
+  * [Part 13: Semantic Analysis](https://ruslanspivak.com/lsbasi-part13/)
+  * [Part 14: Nested Scopes and a Source-to-Source Compiler](https://ruslanspivak.com/lsbasi-part14/)
 * [Molecular Programming Project](http://molecular-programming.org/)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
@@ -169,6 +178,7 @@ Programming
 * [나쁜 개발자의 11가지 습관](https://blog.naver.com/codestates/221255140091)
 * [Want to be a top developer? You should build things. Here’s another list to get you started](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
 * [How to be a successful software engineer](https://medium.freecodecamp.org/how-to-be-a-successful-software-engineer-6f82a5b1a82e)
+* [The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot](https://hackernoon.com/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9)
 * [Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=eEBOvqMfPoI)
 
 # Agile, Scrum
@@ -284,7 +294,7 @@ Programming
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
 
-## Microservice
+## Microservice MSA
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
@@ -344,6 +354,7 @@ Programming
 * [대용량 환경에서 그럭저럭 돌아가는 서비스 만들기](https://www.popit.kr/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B7%B8%EB%9F%AD%EC%A0%80%EB%9F%AD-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
 * [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
+* [Spring Camp 2018 : 11번가 Spring Cloud 기반 MSA로의 전환 – 지난 1년간의 이야기](http://readme.skplanet.com/?p=13933) spring boot, hystrix, ribbon, eureka, zuul
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -417,6 +428,7 @@ Programming
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
 * [codeyourcloud.com/about](https://codeyourcloud.com/about/)
+* [goorm.io](https://www.goorm.io/)
 * [koding](https://koding.com/)
   * [클라우드 IDE 업체 코딩, 1천만 달러 투자 유치](http://www.bloter.net/archives/234992)
 * [CodeOnWeb - 클라우드 기반의 개인화된 코딩 교육 시스템](https://codeonweb.com/)
@@ -469,10 +481,10 @@ Programming
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
-* [Blink of Code](http://blinkofcode.com/)
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
+* [codeshare.io](https://codeshare.io/)
+* [collabedit.com](http://collabedit.com/)
 * [colorscripter.com](http://colorscripter.com/)
-* [CSnipp - Share knowledge with your team and the community](http://csnipp.com/)
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
 * [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
@@ -559,6 +571,7 @@ Programming
 	* [David Liu - Infrastructure design patterns with Python, Buildbot, and Linux Containers](https://www.youtube.com/watch?v=Rs7qccf-Ll0)
 * [What’s the Value of CI/CD?](https://builttoadapt.io/whats-the-value-of-ci-cd-c2e6c39450bd)
 * [Deployment Pipeline: set it up in minutes not months](https://codeburst.io/deployment-pipeline-set-it-up-in-minutes-not-months-f5e226af8f85)
+* [How to choose the right container orchestration and how to deploy it](https://medium.freecodecamp.org/how-to-choose-the-right-container-orchestration-and-how-to-deploy-it-41844021c241)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
@@ -883,6 +896,7 @@ Programming
 * **[Spark, Flink, Kafka Streaming ...](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
 * [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 * [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
+* **[Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)**
 
 ## Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)

@@ -601,6 +601,8 @@ Deep Learning
   * [practice](https://gist.github.com/hyunjun/fe2293dc299e0d0c4a1a761f13a173cd)
   * [Exploring DeepFakes](https://www.kdnuggets.com/2018/03/exploring-deepfakes.html)
   * [FaceIt](https://github.com/goberoi/faceit)
+  * [deepfakes.club](https://www.deepfakes.club/)
+  * [It Means Hope | Deepfakes Replacement](https://www.youtube.com/watch?v=ChVgT980Jck)
 * [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
 * [The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
 * [Continuous Unsupervised Training of Deep Architectures](https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures)
@@ -626,6 +628,9 @@ Deep Learning
 * [Writing a deep learning repo #3](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-3-c4c950b20b92)
 * [Deep Learning #4 : Energy Based Adversarial Training](https://medium.com/@prannaykhosla/deep-learning-4-energy-based-adversarial-training-93c8499f0253)
 * [만능 근사 원리 UAT Universal Approximation Theorem](https://blog.naver.com/atelierjpro/221274573892)
+* [An Introduction to Deep Learning for Tabular Data](https://www.kdnuggets.com/2018/05/introduction-deep-learning-tabular-data.html)
+  * 테이블 형식 데이터는 업계에서 가장 일반적으로 사용되는 데이터 형식이지만 테이블 형식 데이터에 대한 딥러닝은 컴퓨터 비전과 자연어 처리에 대한 딥러닝보다 훨씬 덜 관심을 받음
+  * 신경망을 테이블 형식의 데이터에 적용하는 몇가지 주요 개념, 특히 범주형 변수를 포함한 아이디어를 기술
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

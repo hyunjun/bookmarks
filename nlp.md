@@ -143,6 +143,7 @@ NLP
   * **[Classification & Clustering 모델 평가](http://bcho.tistory.com/1206)**
   * [Fighting Financial Fraud with Targeted Friction](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
   * [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+  * [Precision vs Recall](https://towardsdatascience.com/precision-vs-recall-386cf9f89488)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Natural language processing in 10 lines of code: Part 1](http://www.cytora.com/insights/2016/11/30/natural-language-processing-in-10-lines-of-code-part-1)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)

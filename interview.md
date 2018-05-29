@@ -85,6 +85,7 @@ Interview
 * [1. 인터뷰 하기 까지...한국에서 영어로 말해본적도 없고... 어떻게 미국 취업????](http://www.neochae.com/2016/12/1.html)
 * [2. 직장생활 시작...수습기간 통과 및 언어 핸디캡 극복하기](http://www.neochae.com/2016/12/2.html)
 * [코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
+* [어떻게 질문하는가?](https://brunch.co.kr/@imagineer/292)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
 * [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
 * **[Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)**
