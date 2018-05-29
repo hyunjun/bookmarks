@@ -92,9 +92,7 @@ Vision
 * [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
 * [Software Quality Evaluation of Face Recognition APIs & Libraries](https://attachment.fbsbx.com/file_download.php?id=144014609283876&eid=ASuLtcAHSaxC4uBfwTZfMfiV-jvfry-BgHbRpc4M7oiMXmCU9K6SPWCYQPun8biQKlU&inline=1&ext=1443546585&hash=AStC4ePfGZtRqfLg)
 * [지각CAV - 지각 심리학 + Computer (Vision + Audio + Video)](http://psygrammer.github.io/cav/)
-* [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
 * [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
-* [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
 * [Weep for Graphics Programming](http://adriansampson.net/blog/opengl.html)
 * [CAP6412: Advanced Computer Vision (Spring 2016)](http://www.cs.ucf.edu/~bgong/CAP6412.html)
 * [Intel H.264 Encoding and Decoding](http://ryulib.tistory.com/426)
@@ -104,16 +102,6 @@ Vision
   * [실전 프로젝트 - 동영상 플레이어 만들기 #6-1](https://www.youtube.com/watch?v=3V2iaLuIBPs)
 * [10 Papers from ICML and CVPR](http://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
 * [동국대학교 2016년 봄학기 컴퓨터 그래픽스 입문(응용 프로그래밍) 강의 모음](http://blog.naver.com/atelierjpro/220775601324)
-* [Deep Learning for Computer Vision (1/4): Image Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016)
-* [Deep Learning for Computer Vision (2/4): Object Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016)
-* [Deep Learning for Computer Vision (3/4): Video Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016)
-* [Deep Learning for Computer Vision (4/4): Beyond vision @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016)
-* Faster RCNN
-  * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
-    * [Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
-    * [Tensorflow Faster RCNN for Object Detection https://arxiv.org/pdf/1702.02138.pdf](https://github.com/endernewton/tf-faster-rcnn)
-  * [Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code](https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff)
-* [deep-object-detection-models - Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive](https://github.com/ildoonet/deep-object-detection-models/)
 * [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html?m=1)
   * [github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
 * **[Object Detection](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)**
@@ -154,12 +142,6 @@ Vision
 * [Lepton image compression: saving 22% losslessly from images at 15MB/s](https://blogs.dropbox.com/tech/2016/07/lepton-image-compression-saving-22-losslessly-from-images-at-15mbs/)
 * [Real-Time Adaptive Image Compression](http://www.wave.one/icml2017)
 * [Facial Performance Capture with Deep Neural Networks](http://www.creativeai.net/posts/hnvNt8tomeEnLtFv6/facial-performance-capture-with-deep-neural-networks)
-* ["Is the deconvolution layer the same as a convolutional layer?](http://arxiv.org/abs/1609.07009v1)
-  * 저자들의 CVPR 논문인, [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)을 발표하면서 들었던 대표적인 질문들에 대해 답을 주기 위해 쓴 노트
-  * transposed convolution layer(Transposed convolution, inverse, super-pixel, backward convolution layer)와 deconvolution layer에 대해서 설명
-    * 현재 deep learning을 기반으로 한 Super-Resolution, segmentation, visualization에 흔히 쓰이는 개념
-* [① 파이썬 - 컴퓨터 비전 프로그래밍 (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)
-* [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
 * [Video Digests: A Browsable, Skimmable Format for Informational Lecture Videos](http://vis.berkeley.edu/papers/videodigests/)
 * [20+ hottest research papers on Computer Vision, Machine Learning](http://www.kdnuggets.com/2016/01/iccv-2015-21-hottest-papers.html)
 * [Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields](https://www.youtube.com/watch?v=pW6nZXeWlGM)
@@ -197,6 +179,26 @@ Vision
 * [Convolution & Correlation 이해하기](http://www.popit.kr/%EB%94%AE%EB%9F%AC%EB%8B%9D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC-convolution-correlation-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 * [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
 * [Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3) image classification
+
+# Deep Learning
+* [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
+* [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
+* [Deep Learning for Computer Vision (1/4): Image Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-14-image-analytics-lasalle-2016)
+* [Deep Learning for Computer Vision (2/4): Object Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-24-object-analytics-lasalle-2016)
+* [Deep Learning for Computer Vision (3/4): Video Analytics @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-34-video-analytics-lasalle-2016)
+* [Deep Learning for Computer Vision (4/4): Beyond vision @ laSalle 2016](http://www.slideshare.net/xavigiro/deep-learning-for-computer-vision-44-beyond-vision-lasalle-2016)
+* Faster RCNN
+  * [Faster R-CNN: Towards real-time object detection with region proposal networks](http://www.slideshare.net/xavigiro/faster-rcnn-towards-realtime-object-detection-with-region-proposal-networks)
+    * [Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
+    * [Tensorflow Faster RCNN for Object Detection https://arxiv.org/pdf/1702.02138.pdf](https://github.com/endernewton/tf-faster-rcnn)
+  * [Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code](https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff)
+* [deep-object-detection-models - Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive](https://github.com/ildoonet/deep-object-detection-models/)
+* ["Is the deconvolution layer the same as a convolutional layer?](http://arxiv.org/abs/1609.07009v1)
+  * 저자들의 CVPR 논문인, [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)을 발표하면서 들었던 대표적인 질문들에 대해 답을 주기 위해 쓴 노트
+  * transposed convolution layer(Transposed convolution, inverse, super-pixel, backward convolution layer)와 deconvolution layer에 대해서 설명
+    * 현재 deep learning을 기반으로 한 Super-Resolution, segmentation, visualization에 흔히 쓰이는 개념
+* [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
+* [UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

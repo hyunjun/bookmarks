@@ -1147,6 +1147,7 @@ Deep Learning
   * [Course Project Reports: Spring 2017](http://cs231n.stanford.edu/reports.html)
   * [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
   * [github.com/cthorey/CS231](https://github.com/cthorey/CS231) numpy만으로 작성
+  * [Korean Subtitles for CS231N Spring 2017](https://github.com/insurgent92/CS231N_17_KOR_SUB)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)

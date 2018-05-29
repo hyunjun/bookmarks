@@ -17,7 +17,18 @@ App
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [해외 메일서비스 안내](http://www.jonathanks.com/blog/2009-07-23/offshore-email-services)
 * [윈도우·리눅스·맥OS 모두 지원, 게다가 무료!··· 추천 오픈소스 SW 6종](http://www.ciokorea.com/news/28691)
+* [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk) 로그인 없이 구글 드라이브에 파일 저장
+* 데스크탑 자동화
+  * autoit
+  * autopy
+  * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
+* [Tools I wish I had known about when I started coding: Revisited](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
+* [How to energize your scary terminal with helpful little scripts](https://medium.freecodecamp.org/how-to-energize-your-scary-terminal-with-helpful-little-scripts-c5ae92c12bfe)
+* [5 Free Software That Are Actually Great!  2018](https://www.youtube.com/watch?v=qSa2UPDH2yc)
+* [5 Free Software That Are Actually Great! 2 (2018)](https://www.youtube.com/watch?v=CG3uge3OomA)
+* [5 Free Software That Are Actually Great! 3 (2018)](https://www.youtube.com/watch?v=9-Sj_4495nQ)
 * [AirConsole](http://www.airconsole.com/)
+* [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
@@ -35,6 +46,7 @@ App
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)
+* [meistertask.com](https://www.meistertask.com) Kanban, task 관리
 * [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
@@ -55,6 +67,7 @@ App
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
+* [Screely instantly turns your screenshot or design into a beautiful image you can share anywhere](https://www.screely.com/) 간단한 스크린샷 or 스케치를 서비스에 넣으면 아름답고 변경
 * [send-anywhere.com](https://send-anywhere.com/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
 * [startupstash.com](http://startupstash.com/)
@@ -75,18 +88,6 @@ App
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
-* [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk) 로그인 없이 구글 드라이브에 파일 저장
-* [www.meistertask.com](https://www.meistertask.com) Kanban, task 관리
-* 데스크탑 자동화
-  * autoit
-  * autopy
-  * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
-* [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
-* [Tools I wish I had known about when I started coding: Revisited](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
-* [How to energize your scary terminal with helpful little scripts](https://medium.freecodecamp.org/how-to-energize-your-scary-terminal-with-helpful-little-scripts-c5ae92c12bfe)
-* [5 Free Software That Are Actually Great!  2018](https://www.youtube.com/watch?v=qSa2UPDH2yc)
-* [5 Free Software That Are Actually Great! 2 (2018)](https://www.youtube.com/watch?v=CG3uge3OomA)
-* [5 Free Software That Are Actually Great! 3 (2018)](https://www.youtube.com/watch?v=9-Sj_4495nQ)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
