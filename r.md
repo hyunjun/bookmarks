@@ -243,6 +243,7 @@ R
 * [R에서 Newton Raphson Method 에 대한 시뮬레이션 과제 (+ ggplot2, gganimate package)](https://lovetoken.github.io/r/data_visualization/2018/04/24/netwon_raphson_method.html)
 * [European R Users Meeting](http://2018.erum.io/)
   * [eRum 2018 Tuesday - nagyHall](https://www.youtube.com/watch?v=9nuxlqXAmmc)
+* [데이터로 본 아이돌 트렌드](https://brunch.co.kr/@itschloe1/32)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

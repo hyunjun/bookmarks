@@ -99,6 +99,7 @@
 * [Design Patterns in Python by Peter Ullrich](https://www.youtube.com/watch?v=bsyjSW46TDg)
 * [How to write actually object-oriented python - Per Fagrell](https://www.youtube.com/watch?v=VUvEDg30FyY)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
+* [Design Patterns in Python Part 1: The Strategy Pattern](https://medium.com/@sheikhsajid/design-patterns-in-python-part-1-the-strategy-pattern-54b24897233e)
 
 # Ruby
 * **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**

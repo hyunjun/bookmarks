@@ -119,6 +119,7 @@ Deep Learning
 * [A Beginner’s Guide to Restricted Boltzmann Machines](http://deeplearning4j.org/restrictedboltzmannmachine.html)
 * [Energy based models and boltzmann machines - v2.0](http://www.slideshare.net/blaswan/energy-based-models-and-boltzmann-machines-v20)
 * [내맘대로 이해하는 Deep Belief Network와Restricted Boltzmann Machine](http://whydsp.org/283)
+* [Deep Learning meets Physics: Restricted Boltzmann Machines Part I](https://towardsdatascience.com/deep-learning-meets-physics-restricted-boltzmann-machines-part-i-6df5c4918c15)
 * Deep learning for assisting the process of music composition
   * [part 1](https://highnoongmt.wordpress.com/2015/08/11/deep-learning-for-assisting-the-process-of-music-composition-part-1)
   * [part 2](https://highnoongmt.wordpress.com/2015/08/12/deep-learning-for-assisting-the-process-of-music-composition-part-2)

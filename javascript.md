@@ -107,6 +107,7 @@ Javascript
 * [자바스크립트 클로저(Closure)에 대해서...](http://blog.outsider.ne.kr/506)
 * [자바스크립트 스코프와 클로저(JavaScript Scope and Closures)](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19)
 * [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
+* [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 * [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
@@ -1009,6 +1010,7 @@ Javascript
 * [process.env: What it is and why/when/how to use it effectively](https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7)
 * [A crash course on testing with Node.js](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
 * [dotenv – 환경 변수 사용하기](https://hudi.kr/node-js-dotenv-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
+* [pkg로 Node.js 애플리케이션의 하나의 바이너리로 만들기](https://blog.outsider.ne.kr/1379)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1114,6 +1116,7 @@ Javascript
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
   * [deminoth.github.io/redux](https://deminoth.github.io/redux/)
   * [강좌 5-7편 Redux: Store](https://gist.github.com/velopert/8ce3162e2142eaadaa16891a5cbfce59)
+* [React JS 정리](https://m.blog.naver.com/hji7000/220645115819)
 * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
   * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/languages/korean/book/Intro.html)
 * **[Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)**
@@ -1271,6 +1274,7 @@ Javascript
 	* [번역 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr/)
 * [React Application Performance Optimization](https://seokjun.kim/react-application-performance-optimization/)
 * [How to deploy a React application to Netlify that reads from a Google Sheet](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-that-reads-from-a-google-sheet-97a015806c47)
+* [Let’s fall in love with React Fiber](https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

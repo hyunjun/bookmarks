@@ -100,6 +100,7 @@ Finance
 * **[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)**
 * [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
 * [FinanceDataReader - Financial price data reader (an alternative to google finance and yahoo finance in pandas-datareader)](https://github.com/FinanceData/FinanceDataReader)
+  * [FinanceDataReader 사용자 안내서](http://nbviewer.jupyter.org/gist/FinanceData/8fb5806466f9bd8e923d447387fc8dc9)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
