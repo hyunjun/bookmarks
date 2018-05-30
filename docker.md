@@ -426,9 +426,11 @@ Docker
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * [Kubernetes #1 - 소개](http://bcho.tistory.com/1255)
 * [쿠버네티스 #2 - 개념 이해 (1/2)](http://bcho.tistory.com/1256)
+* [쿠버네티스 #2 - 개념 이해 (2/2) 컨트롤러](http://bcho.tistory.com/1257)
 * [Kubernetes #1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
 * [Kubernetes #2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
 * [Kubernetes #3 security](https://www.slideshare.net/Byungwook/kubernetes-3-security)
+* [Kubernetes #4 volume & stateful set](https://www.slideshare.net/Byungwook/kubernetes-4-volume-amp-stateful-set)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 
 # Library
