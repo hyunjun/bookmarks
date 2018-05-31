@@ -466,6 +466,7 @@ Programming
 * [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
+* [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [코드 리뷰에 대해서](https://brunch.co.kr/@cleancode/35)
 
 # Code Search
@@ -843,6 +844,7 @@ Programming
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
   * [1803호](https://blog.gaerae.com/2018/03/monthly.html)
   * [1804호](https://blog.gaerae.com/2018/04/monthly.html)
+  * [1805호](https://blog.gaerae.com/2018/05/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

@@ -186,7 +186,7 @@ App
 * [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
-* [10 Chrome Extensions That Are Amazingly Useful!  2018](https://www.youtube.com/watch?v=1dFOSr2KeP8)
+* [10 Chrome Extensions That Are Amazingly Useful! 2018](https://www.youtube.com/watch?v=1dFOSr2KeP8)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative

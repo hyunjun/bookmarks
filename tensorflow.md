@@ -457,6 +457,7 @@ TensorFlow
 * [Installing Tensorflow GPU on Ubuntu 18.04 LTS](https://medium.com/@taylordenouden/installing-tensorflow-gpu-on-ubuntu-18-04-89a142325138)
 * [Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
 * [How To Install Tensorflow On The Raspberry Pi](https://www.techleer.com/articles/523-how-to-install-tensorflow-on-the-raspberry-pi/)
+* [라즈베리파이 텐서플로우 설치하는 법](http://smartaedi.tistory.com/290)
 * [Windows 10에서 Docker for Windows 설치](http://bryan7.tistory.com/774)
 * [윈도우에 텐서플로우 with CPU를 위한 도커 설치](http://otter275.postach.io/post/windoue-tenseopeulrou-with-cpureul-wihan-dokeo-seolci)
 * [Windows 10 build 14332 에 TensorFlow 설치하기](http://blog.ghatdev.xyz/8)
@@ -678,6 +679,7 @@ TensorFlow
 * [TensorFlow-Tutorials - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 * [Lecture 7: Introduction to TensorFlow](https://www.youtube.com/watch?v=PicxU81owCs)
 * [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si)
+* [CS 20 : Tensorflow for Deep Learning Research](https://github.com/aisolab/CS20) ipynb notebooks
 * [CS224d: TensorFlow Tutorial Bharath Ramsundar](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
   * [CS224D Lecture 7 - 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
 * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)

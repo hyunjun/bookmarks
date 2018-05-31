@@ -200,6 +200,7 @@ Vision
     * 현재 deep learning을 기반으로 한 Super-Resolution, segmentation, visualization에 흔히 쓰이는 개념
 * [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
 * [UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
+* [180525 mobile visionnet_hanlim_extended](https://www.slideshare.net/JaewookKang1/180525-mobile-visionnethanlimextended)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

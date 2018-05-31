@@ -432,6 +432,7 @@ Docker
 * [Kubernetes #3 security](https://www.slideshare.net/Byungwook/kubernetes-3-security)
 * [Kubernetes #4 volume & stateful set](https://www.slideshare.net/Byungwook/kubernetes-4-volume-amp-stateful-set)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
+* [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
