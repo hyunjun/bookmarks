@@ -82,7 +82,7 @@ Redis
 * [HSCAN](https://redis.io/commands/hscan) `hash name 0 \[match pattern>\]` patern = \*pattern or pattern\* or \*pattern\*
   * `hscan_iter` in python
   * [How to search a key pattern in redis hash?](https://stackoverflow.com/questions/35850608/how-to-search-a-key-pattern-in-redis-hash)
-* [SCAN](https://redis.io/commands/scan) `scan 0 \[match pattern\]` patern = \*pattern or pattern\* or \*pattern\*
+* [SCAN](https://redis.io/commands/scan) `scan 0 \[match pattern\]` patern = \*pattern or pattern\* or \*pattern\* e.g. `scan 0 match *test*`
   * `scan_iter` in python
   * [Get all keys in Redis database with python](https://stackoverflow.com/questions/22255589/get-all-keys-in-redis-database-with-python)
 
