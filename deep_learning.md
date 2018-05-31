@@ -532,6 +532,7 @@ Deep Learning
   * [더욱 똑똑해진 AI 광고 알고리듬](https://brunch.co.kr/@kakao-it/84)
 * [Deep Learning Project Workflow](https://github.com/thomasj02/DeepLearningProjectWorkflow)
 * [Affine Transformation](http://blog.naver.com/atelierjpro/221014255070)
+* [애파인 변환 Affine Transformation](https://www.youtube.com/watch?v=DSmXIYkp024)
 * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 * **[Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)**
 * [Practical UseCases of Deep Learning Techniques](http://www.cognitivetoday.com/2016/11/practical-deeplearning-usecases-2.html)
@@ -629,6 +630,7 @@ Deep Learning
 * [Writing a deep learning repo #3](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-3-c4c950b20b92)
 * [Deep Learning #4 : Energy Based Adversarial Training](https://medium.com/@prannaykhosla/deep-learning-4-energy-based-adversarial-training-93c8499f0253)
 * [만능 근사 원리 UAT Universal Approximation Theorem](https://blog.naver.com/atelierjpro/221274573892)
+* [인공지능의 두뇌, 뉴럴 네트워크의 만능 근사 정리란 무엇일까?](https://www.youtube.com/watch?v=7AloljyhrBc)
 * [An Introduction to Deep Learning for Tabular Data](https://www.kdnuggets.com/2018/05/introduction-deep-learning-tabular-data.html)
   * 테이블 형식 데이터는 업계에서 가장 일반적으로 사용되는 데이터 형식이지만 테이블 형식 데이터에 대한 딥러닝은 컴퓨터 비전과 자연어 처리에 대한 딥러닝보다 훨씬 덜 관심을 받음
   * 신경망을 테이블 형식의 데이터에 적용하는 몇가지 주요 개념, 특히 범주형 변수를 포함한 아이디어를 기술

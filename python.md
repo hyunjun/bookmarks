@@ -502,6 +502,7 @@ Python
     * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
     * [print unicode character in window](https://hyunjun.github.io/python-window-unicode/)
 		* `locale.setlocale(locale.LC_CTYPE, 'kor')` `UnicodeEncodeError: locale codec can't encode character '\ub...'`가 windows에서 발생하는 경우
+    * [string & bytes](https://gist.github.com/hyunjun/fe981c11d07f41eed61c65b30ab56a0f)
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
   * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
   * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
@@ -518,6 +519,14 @@ Python
   * [cChardet - universal character encoding detector](https://github.com/PyYoshi/cChardet)
   * [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
 	* [Everything you did not want to know about Unicode in Python 3](http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/)
+  * [Common migration problems](http://python3porting.com/problems.html)
+  * [Strings, Bytes, and Unicode in Python 2 and 3](https://timothybramlett.com/Strings_Bytes_and_Unicode_in_Python_2_and_3.html)
+  * [python 3 의 string 정리](http://i5on9i.blogspot.com/2016/11/python-3-string.html)
+  * [Strings in 3.0: Unicode and Binary Data](http://learning-python.com/strings30.html)
+  * [How to declare a byte array contains non-ascii characters without escape in python 3](https://stackoverflow.com/questions/20485845/how-to-declare-a-byte-array-contains-non-ascii-characters-without-escape-in-pyth)
+  * [Encoding and Decoding Strings (in Python 3.x)](https://www.pythoncentral.io/encoding-and-decoding-strings-in-python-3-x/)
+  * [dotnetperls.com/bytes-python](https://www.dotnetperls.com/bytes-python)
+  * [The only problem with Python 3's str is that you don't grok it](https://drewdevault.com/2017/01/13/The-problem-with-Python-3.html)
 * exception
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
