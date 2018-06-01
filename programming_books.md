@@ -34,6 +34,7 @@ Programming Books
 * (NOT YET) [반갑다 Ionic](http://bjpublic.tistory.com/296)
 	* 2018.05 한라
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
+* (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
 
 # Agile Scrum
 
@@ -749,6 +750,8 @@ Programming Books
   * 2017.06
 * [착한 수학 (Good Math)](https://youngjaekim.wordpress.com/2017/05/24/%EC%B0%A9%ED%95%9C-%EC%88%98%ED%95%99/)
   * 한라 410.4-추873ㅊ
+* (NOT YET) [프로그래머를 위한 단단한 수학 책, 『CONCRETE MATHEMATICS 구체 수학』](http://www.insightbook.co.kr/12759)
+  * 2018.06 한라
 
 # Network
 
@@ -917,6 +920,10 @@ Programming Books
 	* 2018.05 한라
 * (NOT YET) [파이썬답게 코딩하기](http://bjpublic.tistory.com/302)
 	* 2018.05 한라
+* (NOT YET) 파이썬 Jupyter Notebook 실전 입문
+  * 2018.06 탐라
+* (NOT YET) [우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)
+  * 2018.06 한라
 
 # R
 
@@ -1030,6 +1037,13 @@ Programming Books
 * (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798)
 * (NOT YET) [스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)
 * (NOT YET) [하이 퍼포먼스 스파크](http://jpub.tistory.com/800)
+* (NOT YET) [스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997&page=1&sernewbook=Y&orderby=pdate&TF=T)
+  * 2018.06 탐라
+* (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798&page=1&TF=T)
+  * 2018.06 한라
+* (NOT YET) 하이 퍼포먼스 스파크
+  * 2018.06 한라
+  * [빅데이터 분석의 대세 프레임워크, 아파치 스파크](http://jpub.tistory.com/800)
 
 # Statistics
 

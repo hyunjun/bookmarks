@@ -37,6 +37,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * [수학포기자를 위한 딥러닝과 텐서플로우의 이해](http://bcho.tistory.com/1208)
 * [수학자는 어떻게 인공지능을 발전시키는가?](https://brunch.co.kr/@kakao-it/244)
+* [MathsDL-spring18 - Topics course Mathematics of Deep Learning, NYU, Spring 18](https://joanbruna.github.io/MathsDL-spring18/)
 * [딥러닝 마일스톤](https://www.facebook.com/nextobe1/posts/344853295950672)
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)

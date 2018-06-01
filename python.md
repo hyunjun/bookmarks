@@ -518,6 +518,9 @@ Python
   * [cChardet - universal character encoding detector](https://github.com/PyYoshi/cChardet)
   * [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
 	* [Everything you did not want to know about Unicode in Python 3](http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/)
+  * [파이썬의 문자열 인코딩](https://datascienceschool.net/view-notebook/250c1869eab54157827adf54c5e9f064/)
+  * [크롤링 데이터의 한글이 깨져요](https://financedata.github.io/posts/faq_crawling_data_encoding.html)
+  * [Processing Text Files in Python 3](https://python-notes.curiousefficiency.org/en/latest/python3/text_file_processing.html)
 * exception
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)

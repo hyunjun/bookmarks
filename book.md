@@ -64,6 +64,8 @@ Book
 * [그리스인 이야기](http://book.daum.net/detail/book.do?bookid=KOR9788952236142)
   * 한라 921 시65ㄱ
   * ★★★☆☆ 2017.07.20
+* (NOT YET) [그리스인 이야기 2](https://ridibooks.com/v2/Detail?id=364000835)
+  * 2018.06 한라
 * [로마의 일인자](http://m.book.daum.net/mobile/detail/book.do?bookid=KOR9788954636872) 콜린 매컬로
 
 # Religion

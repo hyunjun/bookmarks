@@ -242,6 +242,8 @@ Programming Language
 * [Ritchie language has the power of C language and the convenience of a high level language](https://github.com/riolet/ritchie#)
 * [RTcmix - An Open-Source, Digital Signal Processing and Sound Synthesis Language](http://music.columbia.edu/cmc/RTcmix/)
 * [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
+* scratch
+  * [스크래치 프로그램](https://www.youtube.com/playlist?list=PL2rijbugmnWSq6DoO6_0PusswLS0fGZPt)
 * self
   * [Morphic: The Self User Interface Framework¶](http://handbook.selflanguage.org/current/morphic.html)
 * Shen

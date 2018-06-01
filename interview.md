@@ -203,6 +203,7 @@ Interview
   * [coding.sh](http://coding.sh/) online programming
 * [code-fight.club](http://code-fight.club/)
 * [codechef](https://www.codechef.com/)
+* [codefights.com](https://codefights.com/)
 * [codeforces](http://codeforces.com/)
 * [codereet.com](https://codereet.com/)
 * [coderpad.io](https://coderpad.io/)
