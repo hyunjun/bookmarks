@@ -1841,6 +1841,7 @@ Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (U
 * [Reinforcement Learning](https://www.youtube.com/channel/UCZvMhJ3EaNvpacdlMmm3VKA/feed)
 * [Anticipatory Asynchronous Advantage Actor-Critic(A4C)](http://dongminlee.tistory.com/)
 * [TDM: From Model-Free to Model-Based Deep Reinforcement Learning](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
+* [RL Basics: 1. Markov Process](https://brunch.co.kr/@chris-song/77)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

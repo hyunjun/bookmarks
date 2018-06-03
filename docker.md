@@ -251,6 +251,7 @@ Docker
 * [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf)
 * [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
 * [When and Why to Use Docker](https://www.linode.com/docs/applications/containers/when-and-why-to-use-docker/)
+* [AWSKRUG Container Hands-On #1 - 모두의 Docker](https://docs.google.com/document/d/1x9EHhj_cwuZGY0W6aPXlETUZ5PIJ4czXXtXA-rSu9ts/edit)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

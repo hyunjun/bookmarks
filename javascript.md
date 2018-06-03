@@ -794,6 +794,7 @@ Javascript
   * [React + Redux 앱 테스트](https://velopert.com/3591)
   * [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
   * [Managing State in a React Navigation App with Redux](https://medium.freecodecamp.org/managing-state-in-a-react-navigation-app-with-redux-6d0b680fb595)
+  * [React + Redux — Tips and Best Practices for Clean, Reliable & Maintainable Code](https://medium.com/@scbarrus/react-redux-tips-and-best-practices-for-clean-reliable-maintainable-code-4daa068e1a4d)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)

@@ -584,6 +584,7 @@
 	* [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by: Wes McKinney](https://www.slideshare.net/SparkSummit/improving-python-and-spark-performance-and-interoperability-spark-summit-east-talk-by-wes-mckinney)
 * [High Performance Python On Spark](https://www.youtube.com/watch?v=abZ0f5ug18U)
 	* [High Performance Python on Apache Spark](https://www.slideshare.net/wesm/high-performance-python-on-apache-spark)
+* **[Keynote: Making the Big Data ecosystem work together with Python - Holden Karau](https://www.youtube.com/watch?v=LOHVKYtUO-o)**
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
