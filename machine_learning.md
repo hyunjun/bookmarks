@@ -462,6 +462,7 @@ Machine Learning
 * [Convex Optimization 컨벡스 최적화](https://wikidocs.net/17052)
 * [머신러닝 단기집중과정 - 텐서플로우 API 사용 Google의 실용적인 머신러닝 속성 입문 과정](https://developers.google.com/machine-learning/crash-course/)
 * [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
+* [Machine Learning for source code analysis - Alexander Bezzubov - FOSSASIA Summit 2017](https://www.youtube.com/watch?v=M_hOn-Ren1M)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

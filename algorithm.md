@@ -75,6 +75,7 @@ Algorithm
 * [Coder's high 2016](http://coders-high.com/)
 * [AlgorithmVisualizer](http://algo-visualizer.jasonpark.me)
   * [ipytracer - Algorithm Visualizer for Jupyter/IPython Notebook](https://github.com/sn0wle0pard/ipytracer)
+* [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 * [자료구조와 알고리즘 with C++](http://ehpub.co.kr/1-%EC%86%8C%EA%B0%9C-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-with-c/)
 * [Building a Modern Computer from First Principles](http://www.nand2tetris.org/)
 * [Welcome to 99 Bottles of Beer](http://99-bottles-of-beer.net/)
@@ -245,7 +246,7 @@ Algorithm
   * Strongly Connected Components
   * Union-Find
 * Path-Finding
-  * Minimum Weight Spanning Tree<
+  * Minimum Weight Spanning Tree
   * All Pairs — and Single Source — Shortest Path
   * Multi-Source, Breadth-First Search
 * [Python: 2 Ways to Represent Graphs](https://www.youtube.com/watch?v=HDUzBEG1GlA)
@@ -395,6 +396,8 @@ Algorithm
 
 ## Red-Black Tree
 * [how red-black tree developed](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_rbtree.aspx)
+* [Red-Black Trees](https://www.youtube.com/watch?v=gDYn5TfcUVs)
+* [Red/Black Tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
 
 ## Suffix Automaton
 * [SUFFIX AUTOMATON by- saisumit](https://saisumit.wordpress.com/2016/01/26/suffix-automaton/)
