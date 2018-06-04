@@ -184,6 +184,7 @@ Go
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
 * [Why Go Is Perfect For DevOps](https://www.youtube.com/watch?v=COCUqAwAbD0)
 * [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
+* [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

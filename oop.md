@@ -83,6 +83,7 @@
 
 # JavaScript
 * [자바스크립트 객체지향 프로그래밍](https://m.blog.naver.com/PostView.nhn?blogId=edy5016&logNo=221163118651)
+* [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
@@ -100,6 +101,7 @@
 * [How to write actually object-oriented python - Per Fagrell](https://www.youtube.com/watch?v=VUvEDg30FyY)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [Design Patterns in Python Part 1: The Strategy Pattern](https://medium.com/@sheikhsajid/design-patterns-in-python-part-1-the-strategy-pattern-54b24897233e)
+* [Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)](https://www.youtube.com/watch?v=x3v9zMX1s4s)
 
 # Ruby
 * **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**

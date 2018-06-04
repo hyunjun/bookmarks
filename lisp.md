@@ -86,6 +86,7 @@ Lisp
 * [cs.gmu.edu/~sean/lisp/LispTutorial.html](https://cs.gmu.edu/~sean/lisp/LispTutorial.html)
 * [A SMALL LISP INTERPRETER](http://nisar.jagabar.free.fr/doc/lisp/pg/)
 * [catana - A series of AI experiments regarding categories and analogies](https://github.com/KedalionDaimon/catana)
+* [William Byrd on "The Most Beautiful Program Ever Written" PWL NYC](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
 
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)

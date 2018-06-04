@@ -17,8 +17,8 @@ Interview
 * [Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc.](https://www.youtube.com/watch?v=lD-LuK_VGZI)
 * [How to Succeed in any Programming Interview](https://www.youtube.com/watch?v=5KB5KAak6tM)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-* [Google Interview University](https://github.com/jwasham/google-interview-university/)
-* [구글 인터뷰 대학(Google Interview University)](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)
+* **[Google Interview University](https://github.com/jwasham/google-interview-university/)**
+  * [구글 인터뷰 대학(Google Interview University)](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
 * [How To Prepare For Technical Interviews](https://www.youtube.com/watch?v=iqEOhM3OvYo)
@@ -126,6 +126,10 @@ Interview
 * [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
   * [실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
 * [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
+* Top Interview Questions and Tricks
+  * [#1 - 3sum and the 2 pointer technique](https://fizzbuzzed.com/top-interview-questions-1/)
+  * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
+  * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -139,6 +143,7 @@ Interview
 * [Amazon 본사 면접후기: 리더쉽에 관한 질문들은 어떻게 대답을 해야하나?](https://medium.com/@kpak/amazon-%EB%B3%B8%EC%82%AC-%EB%A9%B4%EC%A0%91%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%8D%94%EC%89%BD%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8C%80%EB%8B%B5%EC%9D%84-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98-747133a5336a)
 * [나의 실리콘밸리 사내정치 스토리](https://medium.com/@kpak/%EB%82%98%EC%9D%98-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%82%AC%EB%82%B4%EC%A0%95%EC%B9%98-%EC%8A%A4%ED%86%A0%EB%A6%AC-db64e7e043e7)
 * [6년차 개발자 해외취업 도전기 – 3. 아마존, 첫번째 시도](http://test-driven.me/wp/2018/03/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-3-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EC%8B%9C%EB%8F%84/)
+* [Amazon의 연봉 및 보상 체계](https://steemit.com/kr/@asbear/2fzkfy-amazon)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)

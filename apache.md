@@ -480,6 +480,8 @@ Apache
   * Streamsets의 Dataflow Performance Blog에 올라온 내용
   * Apache Sqoop을 대체하기 위한 마이그레이션 방법 및 고려 사항에 대해 간단하게 설명
 
+# [Superset](https://github.com/apache/incubator-superset) a data exploration and visualization web application
+
 # [SystemML](http://systemml.apache.org/) Apache Spark와 Apache Hadoop을 확장하기 위해 빌드된 machine learning 라이브러리
 * [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
 * [The Apache Software Foundation Announces Apache® SystemML™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces13)

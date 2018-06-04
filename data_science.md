@@ -251,6 +251,7 @@ Data Science
 * [Self Driven Data Science — Issue #40](https://medium.com/@conordewey3/self-driven-data-science-issue-40-58b7d7b089d3)
 * [How I automated my job search by building a web crawler from scratch](https://medium.freecodecamp.org/how-i-built-a-web-crawler-to-automate-my-job-search-f825fb5af718)
 * [다양한 사람들의 데이터 사이언스 이야기 후기](https://zzsza.github.io/etc/2018/04/21/little-big-data/)
+* [10 Modern Data Trends](https://www.youtube.com/watch?v=PPrvwiSKUmc)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
