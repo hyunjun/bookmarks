@@ -113,7 +113,6 @@ Redis
 
 # Python
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
-* [A short script exploring Redis pubsub functions in Python](https://gist.github.com/jobliz/2596594)
 * [Write Fast Apps Using Async Python 3.6 and Redis](https://eng.paxos.com/write-fast-apps-using-async-python-3.6-and-redis)
   * [subconscious - redis-backed (in memory) db for python3 that is asyncio compatible](https://github.com/paxos-bankchain/subconscious)
 * [Tornado-Redis - Asynchronous Redis client that works within Tornado IO loop](https://github.com/leporo/tornado-redis)
@@ -126,3 +125,4 @@ Redis
 * [Non blocking Redis PubSub in Python](https://www.youtube.com/watch?v=CG4ieKmnyWY)
 * [basic redis python pubsub](http://chasemp.github.io/2013/03/26/basic-redis-python-pubsub/)
 * [Python & Redis PUB/SUB](https://medium.com/@johngrant/python-redis-pub-sub-6e26b483b3f7)
+* [A short script exploring Redis pubsub functions in Python](https://gist.github.com/jobliz/2596594)

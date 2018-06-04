@@ -1209,6 +1209,7 @@ Python
 * [What I Wish I Knew When I Started Django Development 2018](https://medium.com/@peeomid/what-i-wish-i-knew-when-i-started-django-development-2018-8ee88af21d4c)
 * [Django로 순식간에 블로그 만들기 - @chiyodad - 이모콘 EMOCON 2016 F/W](https://www.youtube.com/watch?v=m5pB4IJoNWI)
 * [Building an API with Django REST Framework and Class-Based Views](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)
+* [Python으로 카카오톡 플러스친구 만들기](http://codeac.tistory.com/entry/Python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)

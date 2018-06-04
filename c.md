@@ -166,7 +166,10 @@ C
   Hello World
   ```
 * [CMake](https://cmake.org/)
+  * [cmake.org/cmake-tutorial](https://cmake.org/cmake-tutorial/)
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
+  * [CMake 튜토리얼](https://tuwlab.com/ece/27234)
+  * [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 * [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc..](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
@@ -210,6 +213,22 @@ C
 * [Heman is a C library of image utilities for dealing with height maps and other floating-point images](http://heman.readthedocs.org/en/latest/)
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
 * [Hunter - CMake driven cross-platform package manager for C/C++](https://github.com/ruslo/hunter)
+
+  ```
+  # cmake 디렉토리 아래에 HunterGate.cmake 파일을 복사해 둡니다.
+  include("cmake/HunterGate.cmake")
+  HunterGate(
+      URL "https://github.com/ruslo/hunter/archive/v0.7.0.tar.gz"
+      SHA1 "e730118c7ec65126398f8d4f09daf9366791ede0"
+  )
+
+  # Boost 라이브러리를 사용하기 위해 패키지를 찾는 과정입니다.
+  hunter_add_package(Boost COMPONENTS system filesystem iostreams)
+  find_package(Boost CONFIG REQUIRED system filesystem iostreams)
+
+  # 내 프로젝트 타겟에 링크하는 방법입니다.
+  target_link_libraries(<타겟> Boost::system Boost::filesystem Boost::iostreams)
+  ```
 * **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
 * [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html) beautifier

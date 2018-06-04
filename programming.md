@@ -424,6 +424,7 @@ Programming
   * [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
   * [Spring Boot 로 테스트해 본 Stackdriver trace](https://medium.com/@jwlee98/gcp-spring-boot-%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%B4-%EB%B3%B8-stackdriver-trace-fefa46394af8)
   * [Google Cloud Platform의 빅데이터 제품 살펴보기#1 - GCS, GCE](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Bigdata-Products/)
+  * [Google Cloud Platform의 BigQuery 살펴보기](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-BigQuery/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -810,6 +811,7 @@ Programming
   * [5월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/05/b-4-3.html)
   * [5월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.kr/2018/05/b-5-3.html)
   * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/05/b-5-4.html)
+  * [5월 5주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/06/b-5-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -850,6 +852,7 @@ Programming
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
 * **[How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://codeburst.io/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)**
+* [프로세스 동기화 - 임계구역 문제 (Critical-Section)](http://hongku.tistory.com/17)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)

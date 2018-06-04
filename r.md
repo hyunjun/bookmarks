@@ -90,6 +90,7 @@ R
 * [Tutorial: Deep Learning with R on Azure with Keras and CNTK](https://www.r-bloggers.com/tutorial-deep-learning-with-r-on-azure-with-keras-and-cntk)
 * [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html)
   * tidyverse, keras, tfruns, shiny 라이브러리를 이용해서 텍스트 유사도 접근하는 방식에 대한 예제
+* [R에서 Keras 튜토리얼 돌려보기](https://lovetoken.github.io/r/machinelearning/keras/2018/06/02/keras_tutorial.html)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)

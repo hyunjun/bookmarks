@@ -287,6 +287,9 @@ Vision
 * [OPENCV 빠르게 이용해서 얼굴 판별](http://gorakgarak.tistory.com/553?category=144864)
 * [OpenCV 3 + 비주얼 스튜디오 + 윈도우즈10 설치](http://gorakgarak.tistory.com/582?category=144864)
 * [OpenCV 라이브러리로, 윤곽에 기반한 자동차 번호판 영역 추출 (License plates recognition)](http://mind3002.blogspot.com/2016/01/cc-opencv-license-plates-recognition.html)
+* [COMPUTER VISION LECTURE - Image Processing, Computer Vision, Machine Learning](https://www.cvlecture.marearts.com/forum/opencv-webapp)
+  * [OpenCV + WebApp (CV Lecture)](https://www.youtube.com/playlist?list=PLvX6vpRszMkwECdbxNX8s9R-vcUFGqqtC)
+  * [marearts.com/webapp/dface](http://www.marearts.com/webapp/dface/)
 
 # OpenGL
 * [open.gl](https://open.gl/)

@@ -39,6 +39,7 @@ NLP
 * [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
   * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Lecture 8 - Generating Language with Attention Chris Dyer](https://www.youtube.com/watch?v=ah7_mfl7LD0)
+* [CS4650 and CS7650 ("Natural Language") at Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [A Simple Artificial Intelligence Capable of Basic Reading Comprehension](http://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html)
@@ -783,6 +784,7 @@ NLP
 * [강화학습 기반 QA 시스템 - 김영삼](https://www.youtube.com/watch?v=jw-Am-sPTsY)
 * [MRQA 2018: Machine Reading for Question Answering](https://mrqa2018.github.io/)
 * [Transparency-by-Design networks (TbD-nets)](https://github.com/davidmascharka/tbd-nets)
+* [Relational Network Review](https://seujung.github.io/2018/05/29/rl_network/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

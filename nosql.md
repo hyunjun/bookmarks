@@ -45,6 +45,11 @@ NoSQL
   * [Getting Started](https://github.com/Netflix/dynomite/wiki/Getting-Started)
   * [Introducing Dynomite - Making Non-Distributed Databases, Distributed](http://techblog.netflix.com/2014/11/introducing-dynomite.html?m=1)
 * [Dynamon is GUI client for DynamoDB](https://github.com/deptno/dynamon)
+* Z-Order Indexing for Multifaceted Queries in Amazon DynamoDB
+  * [Part 1](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-1/)
+  * [Part 2](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-2/)
+  * Z-Order Index 구현 대한 좋은 글
+  * Z-Order Indexing은 하나의 인덱스로 여러 속성에 대해 효율적으로 질의하기 위한 인덱스 전략
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)

@@ -40,6 +40,7 @@ Bitcoin
 * [SMT(SmartMesh) 토큰 무한생성 해킹 설명과 대비책](https://medium.com/@kevin.j/smt-%ED%86%A0%ED%81%B0-%EC%9D%B4%EC%A4%91%EC%A7%80%EB%B6%88-%ED%95%B4%ED%82%B9-%EC%84%A4%EB%AA%85%EA%B3%BC-%EB%8C%80%EB%B9%84%EC%B1%85-8bef3f41bcd2)
 * [비트코인 논문 한국어 번역판 (ver0.92)](https://encodent.com/bitcoin)
 * [Let’s Destroy Bitcoin](https://medium.com/mit-technology-review/lets-destroy-bitcoin-3211861ce7a3)
+* [2018년 22번재 주 - P2P Network](https://blog.seulgi.kim/2018/06/w22.html)
 
 # Blockchain
 * [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)

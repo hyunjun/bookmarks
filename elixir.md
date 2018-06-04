@@ -46,6 +46,7 @@ Elixir
   * [(1) P2P node application – Server](http://guruble.com/elixir%eb%a1%9c-blockchain-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0-1p2p-node-application-server/)
   * [(2) P2P node application – Client](http://guruble.com/elixir%eb%a1%9c-blockchain-%ea%b5%ac%ed%98%84%ed%95%98%ea%b8%b0-2-p2p-node-application-client/)
 * [Why Elixir Matters: A Genealogy of Functional Programming](https://www.youtube.com/watch?v=cWAHpvkh8Vs)
+* [#elixir 언어로 만든 #slack 봇을 #heroku 서비스에 배포하기](http://ohyecloudy.com/pnotes/archives/deploying-slack-bots-in-the-elixir-to-the-heroku-service/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)

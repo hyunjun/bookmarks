@@ -100,6 +100,7 @@ Java
 * [웹 서버 프로그래밍 시에 주의하면 좋은 점들](http://astrod.github.io/2018/02/12/12.html)
 * [Java Modifiers every interviewer seems to like](https://www.java-success.com/java-modifiers-interview-questions-and-answers/)
   * final const, volatile synchronized, transient
+* [패스트캠퍼스 자바 웹 프로그래밍 CAMP 정리](http://jojoldu.tistory.com/301)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -493,9 +494,11 @@ Java
   * [동영상 플랫폼 개발 프레임워크의 Spring Boot 전환기](http://d2.naver.com/helloworld/5626759)
   * [Spring Rest Docs를 Markdown으로 작성하기](http://jojoldu.tistory.com/289)
   * [Gradle Multi Module에서 Spring Rest Docs 사용하기](http://jojoldu.tistory.com/294)
+  * [Spring Rest Docs IntelliJ에서 미리보기](http://jojoldu.tistory.com/299)
   * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
   * [Spring Boot 2와 JUnit 5 사용](http://javacan.tistory.com/entry/spring-boot-2-junit-5)
   * [SpringBoot Data Redis 로컬/통합 테스트 환경 구축하기](http://jojoldu.tistory.com/297)
+  * [SpringBoot & AWS S3 연동하기](http://jojoldu.tistory.com/300)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

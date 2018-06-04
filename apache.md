@@ -403,6 +403,7 @@ Apache
 * [HORTONWORKS DATAFLOW (HDF) 3.1 BLOG SERIES PART 5: INTRODUCING APACHE NIFI-ATLAS INTEGRATION](https://ko.hortonworks.com/blog/hdf-3-1-blog-series-part-6-introducing-nifi-atlas-integration/) Apache NiFi와 Apache Atlas를 Hortonwork DataFlow에 통합하여 Kafka, Hive 등의 데이터를 추적하는 방법을 간략하게 설명
 * [Best practices for using Apache NiFi in real world projects - 3 takeaways](https://medium.com/@abdelkrim.hadjidj/best-practices-for-using-apache-nifi-in-real-world-projects-3-takeaways-1fe6912101db)
   * PoC에서 프로덕션 환경 적용까지 필요한 사례 소개
+* [Building an IIoT system using Apache NiFi, MiNiFi, C2 Server, MQTT and Raspberry Pi](https://medium.com/@abdelkrim.hadjidj/building-an-iiot-system-using-apache-nifi-mqtt-and-raspberry-pi-ce1d6ed565bc) IoT에서 Apache NiFi를 활용하는 예
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
@@ -433,6 +434,7 @@ Apache
   * 새로운 기능인 컬럼 매핑과 변경 불가 데이터 인코딩 기능을 소개
   * TPC-H benchmark상으로 속도 향상 및 공간 절약 효과가 상당
 * [Apache Spark Plugin](https://phoenix.apache.org/phoenix_spark.html)
+* [3 Steps for Bulk Loading 1M Records in 20 Seconds Into Apache Phoenix](https://medium.com/hashmapinc/3-steps-for-bulk-loading-1m-records-in-20-seconds-into-apache-phoenix-99b77ad87387) Apache Spark를 사용하여 Apache HBase 및 Apache Phoenix와 호환하는 HFile을 생성하는 방법 설명
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)
@@ -456,6 +458,10 @@ Apache
 # Samza
 * [REAL-TIME FULL-TEXT SEARCH WITH LUWAK AND SAMZA](http://blog.confluent.io/2015/04/13/real-time-full-text-search-with-luwak-and-samza/)
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
+* [Concourse: Generating Personalized Content Notifications in Near-Real-Time](https://engineering.linkedin.com/blog/2018/05/concourse--generating-personalized-content-notifications-in-near)
+  * LinkedIn의 개인화된 알림 시스템인 Concourse의 디자인에 대해 소개
+  * Apache Kafka와 Apache Samza에 기반한 배치 시스템을 사용
+  * 처리량을 향상시키기 위해 데이터 처리는 각 데이터센터에서 하도록 설계
 
 # [SINGA](http://singa.apache.org/docs/overview.html) a general distributed deep learning platform for training big deep learning models over large datasets
 

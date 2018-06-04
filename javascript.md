@@ -324,6 +324,7 @@ Javascript
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
   * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
+* [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -796,6 +797,7 @@ Javascript
   * [Top React and Redux Packages for Faster Development](https://codeburst.io/top-react-and-redux-packages-for-faster-development-5fa0ace42fe7)
   * [Managing State in a React Navigation App with Redux](https://medium.freecodecamp.org/managing-state-in-a-react-navigation-app-with-redux-6d0b680fb595)
   * [React + Redux — Tips and Best Practices for Clean, Reliable & Maintainable Code](https://medium.com/@scbarrus/react-redux-tips-and-best-practices-for-clean-reliable-maintainable-code-4daa068e1a4d)
+  * [Blogged Answers: Redux - Not Dead Yet!](http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -1014,6 +1016,7 @@ Javascript
 * [A crash course on testing with Node.js](https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02)
 * [dotenv – 환경 변수 사용하기](https://hudi.kr/node-js-dotenv-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [pkg로 Node.js 애플리케이션의 하나의 바이너리로 만들기](https://blog.outsider.ne.kr/1379)
+* [pkg로 바이너리를 컴파일할 때 Native 애드온을 같이 사용할 때의 오류](https://blog.outsider.ne.kr/1381)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1281,6 +1284,7 @@ Javascript
 * [React Application Performance Optimization](https://seokjun.kim/react-application-performance-optimization/)
 * [How to deploy a React application to Netlify that reads from a Google Sheet](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-that-reads-from-a-google-sheet-97a015806c47)
 * [Let’s fall in love with React Fiber](https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded)
+* [create-react-app --scripts-version=react-scripts-ts를 이용하여 프로젝트 구성](https://github.com/kjk7034/create-react-app-typescript)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1326,6 +1330,7 @@ Javascript
 * [React Native Animation Experiments](https://blog.geekyants.com/react-native-animation-experiments-8ec057e85158)
 * [Goalplan 앱개발 히스토리](https://blog.naver.com/hidejj79/221256652881)
 * [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
+* [React Native 아키텍쳐에 대한 이해](https://github.com/nhnent/fe.javascript/wiki/April-9---April-13,-2018)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
