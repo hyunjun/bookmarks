@@ -23,6 +23,7 @@ Redis
 * [Redis in a Multi Tenant Environment–High Availability, Monitoring & Much More!](http://www.slideshare.net/RedisLabs/redis-in-a-multi-tenant-environmenthigh-availability-monitoring-much-more)
 * [Redis 의 Sentinel](http://crystalcube.co.kr/m/post/177)
 * [Redis Conf 2016: Redis in a Multi-Tenant Environmnet](https://www.youtube.com/watch?v=aZ64pM7OVaw)
+* [RedisConf18: Building Light weight Microservices Using Redis - Redis Labs](https://www.youtube.com/watch?v=z25CPqJMFUk)
 * [Redis Networking Nerd Down: For Lovers of Packets and Jumbo Frames- John Bullard, Distil Networks](http://www.slideshare.net/RedisLabs)
 * [입 개발 Redis 접속이 안되요!!! – Protected Mode](https://charsyam.wordpress.com/2016/07/11/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A0%91%EC%86%8D%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94-protected-mode/)
 * [Developing a Redis Module](https://www.youtube.com/watch?v=LPxx4QPyUPw)
@@ -118,11 +119,17 @@ Redis
 * [Tornado-Redis - Asynchronous Redis client that works within Tornado IO loop](https://github.com/leporo/tornado-redis)
 
 # PubSub
+* [Redis Tutorial for Beginners 11 - Redis Publish Subscribe](https://www.youtube.com/watch?v=33N1mgiRYK0)
+* [RedisConf17 - How Roblox Keeps Millions of Users up to Date with Redis Pub/Sub - Peter Philips](https://www.youtube.com/watch?v=nXTxXSWBayg)
+  * [RedisConf17 - Roblox - How Roblox Keeps Millions of Users Up to Date with Redis Pub/Sub](https://www.slideshare.net/RedisLabs/redisconf17-roblox-how-roblox-keeps-millions-of-users-up-to-date-with-redis-pubsub)
+
+## PubSub Python
 * **[Redis Pubsub and Message Queueing](https://stackoverflow.com/questions/27745842/redis-pubsub-and-message-queueing)**
 * [Is non-blocking Redis pubsub possible?](https://stackoverflow.com/questions/7871526/is-non-blocking-redis-pubsub-possible)
 * [Non-Blocking PubSub in Python using Redis](https://ravi.pckl.me/short/non-blocking-pubsub-in-python-and-redis/)
 * [CREATE A SIMPLE CHAT ROOM WITH REDIS PUBSUB](http://programeveryday.com/post/create-a-simple-chat-room-with-redis-pubsub/)
-* [Non blocking Redis PubSub in Python](https://www.youtube.com/watch?v=CG4ieKmnyWY)
+* [github.com/r4vi/redis-pubsub](https://github.com/r4vi/redis-pubsub)
+  * [Non blocking Redis PubSub in Python](https://www.youtube.com/watch?v=CG4ieKmnyWY)
 * [basic redis python pubsub](http://chasemp.github.io/2013/03/26/basic-redis-python-pubsub/)
 * [Python & Redis PUB/SUB](https://medium.com/@johngrant/python-redis-pub-sub-6e26b483b3f7)
 * [A short script exploring Redis pubsub functions in Python](https://gist.github.com/jobliz/2596594)

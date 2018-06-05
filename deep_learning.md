@@ -635,6 +635,7 @@ Deep Learning
 * [An Introduction to Deep Learning for Tabular Data](https://www.kdnuggets.com/2018/05/introduction-deep-learning-tabular-data.html)
   * 테이블 형식 데이터는 업계에서 가장 일반적으로 사용되는 데이터 형식이지만 테이블 형식 데이터에 대한 딥러닝은 컴퓨터 비전과 자연어 처리에 대한 딥러닝보다 훨씬 덜 관심을 받음
   * 신경망을 테이블 형식의 데이터에 적용하는 몇가지 주요 개념, 특히 범주형 변수를 포함한 아이디어를 기술
+* [1st 함께하는 딥러닝 컨퍼런스](https://tykimos.github.io/2018/06/28/ISS_1st_Deep_Learning_Conference_All_Together/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1741,7 +1742,7 @@ CVPR2016)
 * [Nathan Epstein - Reinforcement Learning in Python](https://www.youtube.com/watch?v=rTMa04TZ_MY)
 * [Lecture 10 Reinforcement Learning I](https://www.youtube.com/watch?v=IXuHxkpO5E8)
 * [Reinforcement learning with unsupervised auxiliary tasks](https://deepmind.com/bSandbox/reinforcement-learning-unsupervised-auxiliary-tasks/)
-Sandbox [Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017)](https://arxiv.org/abs/1611.02167)
+* [Designing Neural Network Architectures using Reinforcement Learning" (Under review as a conference paper at ICLR 2017)](https://arxiv.org/abs/1611.02167)
 * [Simple Reinforcement Learning with Tensorflow Part 0: Q-Learning with Tables and Neural Networks](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
 * [Simple Reinforcement Learning in Tensorflow: Part 1 - Two-armed Bandit](https://medium.com/@awjuliani/super-simple-reinforcement-learning-tutorial-part-1-fd544fab149)
 * [Simple Reinforcement Learning with Tensorflow Part 1.5: Contextual Bandits](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-1-5-contextual-bandits-bff01d1aad9c)

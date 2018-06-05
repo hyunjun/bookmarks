@@ -293,6 +293,7 @@ Programming
 * **[Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)**
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
+* [1인 개발자가 글로벌 서비스를 운영하는 방법 - GGtics](https://www.popit.kr/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-ggtics/)
 
 ## Microservice MSA
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -425,6 +426,7 @@ Programming
   * [Spring Boot 로 테스트해 본 Stackdriver trace](https://medium.com/@jwlee98/gcp-spring-boot-%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%B4-%EB%B3%B8-stackdriver-trace-fefa46394af8)
   * [Google Cloud Platform의 빅데이터 제품 살펴보기#1 - GCS, GCE](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Bigdata-Products/)
   * [Google Cloud Platform의 BigQuery 살펴보기](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-BigQuery/)
+  * [Google Cloud Platform에서 Hadoop 및 Spark 사용해보기 - Dataproc](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Dataproc/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)

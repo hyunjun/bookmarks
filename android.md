@@ -122,6 +122,7 @@ Android
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
+* [NumPyCNNAndroid - This project builds Convolutional Neural Network (CNN) for Android using Kivy and NumPy](https://github.com/ahmedfgad/NumPyCNNAndroid)
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)

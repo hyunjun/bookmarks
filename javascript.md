@@ -148,6 +148,7 @@ Javascript
 * [Refactoring an old and broken library to using async/await with TDD](https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2)
 * [How to avoid (or escape) async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
 * [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
+* [비동기 교통정리 - async.waterfall](http://jybaek.tistory.com/745)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
 * [JS 제너레이터와 함수형 프로그래밍](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-8bba6c2ce459)
@@ -1019,6 +1020,7 @@ Javascript
 * [dotenv – 환경 변수 사용하기](https://hudi.kr/node-js-dotenv-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [pkg로 Node.js 애플리케이션의 하나의 바이너리로 만들기](https://blog.outsider.ne.kr/1379)
 * [pkg로 바이너리를 컴파일할 때 Native 애드온을 같이 사용할 때의 오류](https://blog.outsider.ne.kr/1381)
+* [Carlos Justiniano](http://cjus.me/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
