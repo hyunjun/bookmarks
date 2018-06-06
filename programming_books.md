@@ -973,6 +973,7 @@ Programming Books
 	* 2018.04
 * (NOT YET) [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
 	* 2018.05 한라
+* (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
 
 # Scala
 

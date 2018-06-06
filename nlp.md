@@ -224,6 +224,7 @@ NLP
 * [Auto Tagging Stack Overflow Questions](https://towardsdatascience.com/auto-tagging-stack-overflow-questions-5426af692904)
 * [A Neural Network Model That Can Reason - Prof. Christopher Manning](https://www.youtube.com/watch?v=24AX4qJ7Tts)
   * [Compositional Attention Networks for Machine Reasoning](https://openreview.net/forum?id=S1Euwz-Rb)
+* [NLP with attention](https://github.com/dsindex/blog/wiki/%5Battention%5D-NLP-with-attention)
 * [CodeSandbox - an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io/)
 
 # 띄어쓰기
@@ -785,6 +786,7 @@ NLP
 * [MRQA 2018: Machine Reading for Question Answering](https://mrqa2018.github.io/)
 * [Transparency-by-Design networks (TbD-nets)](https://github.com/davidmascharka/tbd-nets)
 * [Relational Network Review](https://seujung.github.io/2018/05/29/rl_network/)
+* [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

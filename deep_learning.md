@@ -1493,6 +1493,7 @@ Deep Learning
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser http://fabrik.cloudcv.org](https://github.com/Cloud-CV/Fabrik)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
+* [Horovod - a distributed training framework for TensorFlow, Keras, and PyTorch](https://github.com/uber/horovod)
 * [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
 * [Labellio: Scalable Cloud Architecture for Efficient Multi-GPU Deep Learning](http://devblogs.nvidia.com/parallelforall/labellio-scalable-cloud-architecture-efficient-multi-gpu-deep-learning/)
 * [LabNotebook - A simple experiment manager for deep learning experiments](https://github.com/henripal/labnotebook)

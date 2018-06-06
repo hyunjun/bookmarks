@@ -16,6 +16,7 @@ Programming
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
 * [개발자를 위한 넓고 얕은 지식](https://www.slideshare.net/godrm/ss-84035645)
   * [개발자를 위한 넓고 얕은 지식](https://www.youtube.com/watch?v=567gB2kfwAs)
+* [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
 * [CS unplugged](http://csunplugged.org/activities/)

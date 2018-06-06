@@ -800,6 +800,7 @@ Javascript
   * [Managing State in a React Navigation App with Redux](https://medium.freecodecamp.org/managing-state-in-a-react-navigation-app-with-redux-6d0b680fb595)
   * [React + Redux — Tips and Best Practices for Clean, Reliable & Maintainable Code](https://medium.com/@scbarrus/react-redux-tips-and-best-practices-for-clean-reliable-maintainable-code-4daa068e1a4d)
   * [Blogged Answers: Redux - Not Dead Yet!](http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/)
+  * [5분 일기 개발기](https://twiw49.github.io/)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)

@@ -91,6 +91,8 @@ PyTorch
 * [「PyTorchで学ぶニューラルネットワークと深層学習」サンプルコード集](https://qiita.com/KentFujii/items/50c7a111eb661cb41f47)
 * [Implementing word2vec in PyTorch (skip-gram model)](https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb)
 * [PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
+* [Keras-Tensorflow-PyTorch: sample codes and simple speed comparison](https://gsarantitis.wordpress.com/2018/06/03/keras-tensorflow-pytorch-sample-codes-and-simple-speed-comparison/) pytorch가 가장 빠르다고 한 실험 정리인데 여러가지로 실험 자체를 신뢰할만하지는 않음. 그냥 참고
+* [Deep Learning Frameworks Speed Comparison](https://wrosinski.github.io/deep-learning-frameworks/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
