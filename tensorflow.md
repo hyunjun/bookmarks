@@ -19,6 +19,7 @@ TensorFlow
   * Tensorflow implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution
 * [머신러닝을 더 쉽게…구글 ‘텐서플로 서빙’ 오픈소스로 공개](http://www.bloter.net/archives/249998)
 * [Using Transfer Learning to Classify Images with TensorFlow](https://medium.com/@st553/using-transfer-learning-to-classify-images-with-tensorflow-b0f3142b9366)
+* [Transfer Learning in Tensorflow (VGG19 on CIFAR-10): Part 1](https://medium.com/@parkchansung/transfer-learning-in-tensorflow-9e4f7eae3bb4)
 * [Show and Tell: image captioning open sourced in TensorFlow](https://research.googleblog.com/2016/09/show-and-tell-image-captioning-open.html)
   * ["Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge"](http://arxiv.org/pdf/1609.06647v1.pdf)
     * 5.2 Improvements Over Our CVPR15 Model; Image Model Improvement, Image Model Fine Tuning, Scheduled Sampling, Ensembling, Beam Size Reduction 다섯개의 요인으로 개선되었다고 설명
@@ -565,6 +566,7 @@ TensorFlow
   * [소개 및 데모](http://smartaedi.tistory.com/263)
   * [Deep learning in your browser: A brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
   * [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
+  * [Visualizing Pose with Pts and tensorflow.js](https://github.com/williamngan/pts/tree/master/demo/more/tfjs_posenet)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

@@ -483,7 +483,8 @@ Python
   * [두 파이썬 딕셔너리를 병합하는 법](https://code.tutsplus.com/ko/tutorials/how-to-merge-two-python-dictionaries--cms-26230)
   * [Raymond Hettinger Modern Python Dictionaries A confluence of a dozen great ideas PyCon 2017](https://www.youtube.com/watch?v=npw4s1QTmPg)
   * [dict()의 in의 의미](http://knight76.tistory.com/entry/python3-dict%EC%9D%98-in%EC%9D%98-%EC%9D%98%EB%AF%B8)
-  * [Comparing nested Python dictionaries with no hassle](https://medium.com/@stschindler/comparing-nested-python-dictionaries-with-no-hassle-9ffe35ae076e)
+  * [Dictionaries compare equal if and only if they have the same (key, value) pairs](https://docs.python.org/3/library/stdtypes.html#dict.values)
+    * ~[Comparing nested Python dictionaries with no hassle](https://medium.com/@stschindler/comparing-nested-python-dictionaries-with-no-hassle-9ffe35ae076e)~
   * [Raymond Hettinger Modern Python Dictionaries A confluence of a dozen great ideas PyCon 2017](https://www.youtube.com/watch?v=npw4s1QTmPg)
     * [Modern Dictionaries by Raymond Hettinger](https://www.youtube.com/watch?v=p33CVV29OG8)
     * Raymond takes us back in time to the 70s and how technologies pioneered then in the field of database research are finding their way back into the modern era
@@ -1210,6 +1211,7 @@ Python
 * [Django로 순식간에 블로그 만들기 - @chiyodad - 이모콘 EMOCON 2016 F/W](https://www.youtube.com/watch?v=m5pB4IJoNWI)
 * [Building an API with Django REST Framework and Class-Based Views](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)
 * [Python으로 카카오톡 플러스친구 만들기](http://codeac.tistory.com/entry/Python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
+* [Summernote - a simple WYSIWYG editor](https://github.com/summernote/django-summernote)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)

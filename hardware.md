@@ -192,6 +192,7 @@
 * 라즈베리 파이와 아이폰 시리로 홈 오토메이션
   * [1 - Raspberry Pi Zero W 설정](https://taegon.kim/archives/6834)
   * [2 - Homebridge 설정하기](https://taegon.kim/archives/6849)
+* [counting bees on a rasp pi with a conv net](http://matpalm.com/blog/counting_bees/)
 
 # [Spark](http://www.spark.io)
 

@@ -89,6 +89,9 @@ Book
 * [볼포](http://blog.naver.com/jaehangpark/221050215537)
   * 탐라 문695.704바66ㅂ
 
+# Stock
+* (NOT YET) [할 수 있다! 퀀트 투자](https://pgr21.com/pb/pb.php?id=freedom&no=77211)
+
 # Travel
 * [고양이가 사랑한 파리](https://medium.com/@strncpy/%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%ED%8C%8C%EB%A6%AC-96808480a203)
   * ★★★☆☆ 2017.06.01

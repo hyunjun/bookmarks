@@ -291,6 +291,7 @@ Vision
 * [COMPUTER VISION LECTURE - Image Processing, Computer Vision, Machine Learning](https://www.cvlecture.marearts.com/forum/opencv-webapp)
   * [OpenCV + WebApp (CV Lecture)](https://www.youtube.com/playlist?list=PLvX6vpRszMkwECdbxNX8s9R-vcUFGqqtC)
   * [marearts.com/webapp/dface](http://www.marearts.com/webapp/dface/)
+  * [Ch2. Preparation](https://www.cvlecture.marearts.com/forum/opencv-webapp/ch2-preparation)
 
 # OpenGL
 * [open.gl](https://open.gl/)
