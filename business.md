@@ -265,6 +265,8 @@ Business
 * [같이 의논하고 한 명이 결정한다](https://brunch.co.kr/@hyungsukkim/69)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
+* [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
+* [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

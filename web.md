@@ -387,6 +387,7 @@ Web
 * [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
 * [O API — an alternative to REST APIs](https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c)
 * [백엔드 개발자와 협업하는 두 가지 방법](https://blog.coderifleman.com/2018/03/03/two-ways-to-collaborate-with-backend-developer/)
+* [나만 몰랐던 Http Delete Method payload body 문제](http://blog.leekyoungil.com/?p=390)
 
 # Scala
 * Finatra

@@ -1502,6 +1502,7 @@ Deep Learning
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [mxnet - Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
+  * [Awesome MXNet(Beta)](https://github.com/chinakook/Awesome-MXNet) A curated list of MXNet examples, tutorials and blogs
   * **[An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io](https://github.com/zackchase/mxnet-the-straight-dope)**
   * [mxnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more http://mxnet.rtfd.org](https://github.com/dmlc/mxnet)
   * [MXNet - Deep Learning Framework of Choice at AWS](http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html)
@@ -1528,6 +1529,7 @@ Deep Learning
   * [Deep learning with Apache MXNet on Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/10/deep-learning-with-apache-mxnet-on-cloudera-data-science-workbench/)
   * [Gluon으로구현해보는 한영기계번역 모형 – 마이크로소프트웨어 기고문](http://freesearch.pe.kr/archives/4754)
   * [MXNet for PyTorch users in 10 minutes](https://medium.com/apache-mxnet/mxnet-for-pytorch-users-in-10-minutes-a7353863406a)
+  * [Apache MXNet Cheat Sheet](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)

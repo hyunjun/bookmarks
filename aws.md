@@ -157,6 +157,7 @@ AWS
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
 * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬 (AWS 테크에반젤리스트)](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
+* [Amazon SageMaker 노트북 인스턴스에서 로컬 모드 사용하기](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance/?utm_source=dlvr.it&utm_medium=facebook)
 * [Amazon SageMaker를 통한 美 대학 농구 결과 예측하기](https://aws.amazon.com/ko/blogs/korea/march-machine-learning-madness)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
@@ -254,6 +255,7 @@ AWS
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 * [I wanted freeCodeCamp Toronto’s Twitter to tweet quotes, so I made a free bot to do it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4)
 * **[하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기](https://todait.github.io/image-resizing-service)** zappa, flask, wand
+* [람다, 서버리스의 첫걸음](http://jybaek.tistory.com/747)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
