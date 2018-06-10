@@ -1875,6 +1875,7 @@ Python
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
+  * [이미지 GPS 정보 추출하기](https://cpuu.postype.com/post/23100)
 * [Pillow, the friendly PIL fork](https://python-pillow.org/)
   * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief/](https://github.com/fengsp/color-thief-py)
   * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)
