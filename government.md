@@ -47,3 +47,4 @@ Government
 * [Big Data: 50 Fascinating and Free Data Sources for Data Visualization](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/big-data-50-fascinating-and-free-data-sources-for-data)
 * [지진해일 대피소 - crosstalk](https://statkclee.github.io/viz/viz-earthquake-shelter.html)
 * [공공데이터, 현재 우리는?](https://www.slideshare.net/onlyjiny/ss-86835970)
+* [Data Set (국내)](http://www.kucomputationalthink.org/index.php/6-4-data-set-domestic/)

@@ -499,6 +499,7 @@ Java
   * [Spring Boot 2와 JUnit 5 사용](http://javacan.tistory.com/entry/spring-boot-2-junit-5)
   * [SpringBoot Data Redis 로컬/통합 테스트 환경 구축하기](http://jojoldu.tistory.com/297)
   * [SpringBoot & AWS S3 연동하기](http://jojoldu.tistory.com/300)
+  * [스프링 부트와 카오스 몽키](http://blog.younjinjeong.io/post/chaosmonkey-for-spring-boot/)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

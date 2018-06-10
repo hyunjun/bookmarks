@@ -1071,6 +1071,7 @@ Python
 
 # Django
 * [Django 문서](https://docs.djangoproject.com/ko)
+* [(번역) Django 공식문서 - Introduction to models](https://lhy.kr/django-introduction-to-models)
 * [Django resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
 * [Digging Into Django](https://www.codeschool.com/courses/digging-into-django)

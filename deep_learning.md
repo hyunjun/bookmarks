@@ -1847,6 +1847,7 @@ CVPR2016)
 * [Anticipatory Asynchronous Advantage Actor-Critic(A4C)](http://dongminlee.tistory.com/)
 * [TDM: From Model-Free to Model-Based Deep Reinforcement Learning](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
 * [RL Basics: 1. Markov Process](https://brunch.co.kr/@chris-song/77)
+* [Ruslan Salakhutdinov - Neural Map: Structured Memory for Deep Reinforcement Learning](https://www.youtube.com/watch?v=Uj9cPQXaWrw)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
