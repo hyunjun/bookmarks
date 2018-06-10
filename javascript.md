@@ -328,6 +328,7 @@ Javascript
   * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
+* [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
