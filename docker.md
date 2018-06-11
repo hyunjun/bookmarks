@@ -430,6 +430,7 @@ Docker
   * [#2 - 개념 이해 (1/2)](http://bcho.tistory.com/1256)
   * [#3 - 개념 이해 (2/2) 컨트롤러](http://bcho.tistory.com/1257)
   * [#4 - 아키텍쳐](http://bcho.tistory.com/1258)
+  * [#5 - 디스크 (볼륨/Volume)](http://bcho.tistory.com/1259)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)

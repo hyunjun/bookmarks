@@ -55,6 +55,7 @@ Presentation
   * [프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
 * [Mousepose](http://bedreams.tistory.com/46)
 * [prezi](https://prezi.com/)
+* [python-pptx](http://python-pptx.readthedocs.io) a Python library for creating and updating PowerPoint (.pptx) files
 * [slides.com](http://slides.com/)
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)

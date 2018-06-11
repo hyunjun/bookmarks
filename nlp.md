@@ -787,6 +787,7 @@ NLP
 * [Transparency-by-Design networks (TbD-nets)](https://github.com/davidmascharka/tbd-nets)
 * [Relational Network Review](https://seujung.github.io/2018/05/29/rl_network/)
 * [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
+* [2018 06-11-active-question-answering](https://www.slideshare.net/WoongwonLee/2018-0611activequestionanswering)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
@@ -1055,6 +1056,7 @@ NLP
   * 두개의 주어진 단어 사이의 연관성은 단어에 대한 임베딩 벡터 사이의 코사인 유사성으로 정의
 * [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
+* [Word2Vec](https://www.youtube.com/watch?v=sY4YyacSsLc)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

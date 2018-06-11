@@ -464,6 +464,7 @@ Machine Learning
 * [머신러닝 단기집중과정 - 텐서플로우 API 사용 Google의 실용적인 머신러닝 속성 입문 과정](https://developers.google.com/machine-learning/crash-course/)
 * [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 * [Machine Learning for source code analysis - Alexander Bezzubov - FOSSASIA Summit 2017](https://www.youtube.com/watch?v=M_hOn-Ren1M)
+* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -621,6 +622,7 @@ Machine Learning
 * [Home Depot Product Search Relevance, 승자의 논평: 1등 | Alex, Andreas, & Nurlan](http://kweonwooj.tistory.com/tag/%EC%9C%A0%EC%82%AC%EB%8F%84%20%EC%98%88%EC%B8%A1)
 * [Creating your AI projects on Kaggle](https://medium.com/@benhamner/creating-your-ai-projects-on-kaggle-ff49f679f611)
 * [How I got in the top 1 % on Kaggle](https://towardsdatascience.com/how-i-got-in-the-top-1-on-kaggle-79ddd7c07f1c)
+* [Deep Learning Practitioner의 캐글 2회 참가기](https://www.youtube.com/watch?v=zNzAAStE66o)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

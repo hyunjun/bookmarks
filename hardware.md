@@ -90,6 +90,7 @@
 * [아두이노 우노 R3 보드 3가지](https://hyeonseok.com/soojung/hardware/2017/04/13/815.html)
 * [아두이노에서 위성통신 모듈 사용하기](http://ryulib.tistory.com/461)
 * [How to make a digital voltmeter using Arduino](https://medium.freecodecamp.org/how-to-make-a-digital-voltmeter-using-arduino-b4dbf5b94d6f)
+* [손글씨 대신 써주는 숙제 로봇 만들기](http://smartaedi.tistory.com/296)
 
 # [Artik](https://www.artik.io/)
 

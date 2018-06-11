@@ -86,6 +86,7 @@ C++
 * [copy elision - 복사 생성자는 생략될 수 있다](http://blog.seulgi.kim/2018/02/copy-elision.html)
 * [Stack, Heap, Pool](http://bulldozer00.com/2015/09/14/stack-heap-pool/)
 * [C++: Deleting destructors and virtual operator delete](http://eli.thegreenplace.net/2015/c-deleting-destructors-and-virtual-operator-delete/)
+* [Busting C++ myths: virtual function calls are slow](http://coldattic.info/post/3/)
 * [The C++ FQA is on GitHub](http://yosefk.com/blog/the-c-fqa-is-on-github.html)
 * [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)

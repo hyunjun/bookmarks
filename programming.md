@@ -181,6 +181,7 @@ Programming
 * [How to be a successful software engineer](https://medium.freecodecamp.org/how-to-be-a-successful-software-engineer-6f82a5b1a82e)
 * [The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot](https://hackernoon.com/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9)
 * [Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=eEBOvqMfPoI)
+* [번역 나는 어떻게 더 나은 프로그래머가 되었는가](https://adhrinae.github.io/posts/how-i-became-a-better-programmer-kr/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)

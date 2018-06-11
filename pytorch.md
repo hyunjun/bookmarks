@@ -94,6 +94,7 @@ PyTorch
 * [Keras-Tensorflow-PyTorch: sample codes and simple speed comparison](https://gsarantitis.wordpress.com/2018/06/03/keras-tensorflow-pytorch-sample-codes-and-simple-speed-comparison/) pytorch가 가장 빠르다고 한 실험 정리인데 여러가지로 실험 자체를 신뢰할만하지는 않음. 그냥 참고
 * [Deep Learning Frameworks Speed Comparison](https://wrosinski.github.io/deep-learning-frameworks/)
 * [Code examples in pyTorch and Tensorflow for CS230](https://github.com/cs230-stanford/cs230-code-examples)
+* [PyTorch for Natural Language Processing: A Sentiment Analysis Example](https://gsarantitis.wordpress.com/2018/06/10/pytorch-for-natural-language-processing-a-sentiment-analysis-example/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
