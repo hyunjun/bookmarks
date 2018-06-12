@@ -789,6 +789,7 @@ Deep Learning
 
 # GAN Generative Adversarial Networks
 * [All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN)
+* [All-About-the-GAN](https://hollobit.github.io/All-About-the-GAN/)
 * [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
 * NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
@@ -1265,6 +1266,7 @@ Deep Learning
 * [ResNet, AlexNet, VGG, Inception: Understanding various architectures of Convolutional Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 * [Convolutional Neural Network — I](https://towardsdatascience.com/cnn-part-i-9ec412a14cb1)
+* [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)

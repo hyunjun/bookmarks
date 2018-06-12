@@ -193,6 +193,7 @@ Open Source
     * [#1 소개](http://bcho.tistory.com/1234)
     * [#2 설치](http://bcho.tistory.com/1235)
     * [#3 Hello Spinnaker](http://bcho.tistory.com/1236)
+  * [Spinnaker를 로컬에서 Kubernetes로 실행하기](https://blog.outsider.ne.kr/1382)
 * Zuul 2
   * [Open Sourcing Zuul 2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
 

@@ -53,6 +53,7 @@ AWS
   * [태양광발전소 원격 감시 시스템의 대량데이터 해석【株式会社fusic】](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic)
 * [AWSKRUG meetup](https://github.com/awskrug/meetups/blob/master/README.md)
 * [AWSKRUG 신년 콘퍼런스 참관 후기 #2](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0-2/)
+* [AWSKRUG #enterprise 소모임 2018.06.11 참석후기](http://jojoldu.tistory.com/303)
 * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
 * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
 * AWS이해하기
@@ -188,6 +189,7 @@ AWS
 * [Rancher 기본 입문](https://www.slideshare.net/HyunminKim5/awskrug-rancher)
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
 * [AWS #architecture 소모임 10회 결산](https://www.slideshare.net/addnull/20180531-hb-smith-10th-aws-architecture)
+* [1. 텔레그램 & AWS 서비스 연동하기 - 1) 텔레그램 봇과 AWS Lambda & AWS Gateway 연동](http://jojoldu.tistory.com/304)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -256,6 +258,8 @@ AWS
 * [I wanted freeCodeCamp Toronto’s Twitter to tweet quotes, so I made a free bot to do it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4)
 * **[하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기](https://todait.github.io/image-resizing-service)** zappa, flask, wand
 * [람다, 서버리스의 첫걸음](http://jybaek.tistory.com/747)
+* [Using GraalVM to run Native Java in AWS Lambda with Golang](https://engineering.opsgenie.com/run-native-java-using-graalvm-in-aws-lambda-with-golang-ba86e27930bf)
+* [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/@herryhan2435/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

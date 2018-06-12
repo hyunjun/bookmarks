@@ -111,6 +111,7 @@ Git
 * [2 phase commit](https://blog.seulgi.kim/2018/05/two-phase-commit.html)
 * [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
 * [utterances 적용](https://astrod.github.io/etc/2018/05/28/utterances-%EC%A0%81%EC%9A%A9/)
+* [깃허브 및 관련 서비스 (2018-06-08) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=F2uUDeP2Xqs)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
@@ -177,6 +178,7 @@ Git
   * [Git commit 이력 깔끔하게 관리하기](http://inspiredjw.com/entry/Git-commit-%EC%9D%B4%EB%A0%A5-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
   * [git commit 메시지에 #이슈번호 형태로 쓰기](http://www.popit.kr/tip-git-commit-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%ED%98%95%ED%83%9C%EB%A1%9C-%EC%93%B0%EA%B8%B0/)
   * [prepare-commit-msg 깃훅으로 커밋 메시지에 이슈 번호 넣기](http://ohgyun.com/746)
+  * [Git 커밋 상태를 확인하기 위한 쉘 스크립트](https://rhostem.github.io/posts/2018-06-12-shellscript-to-check-commit/)
 * `config`
   * basics
 
@@ -271,6 +273,8 @@ Git
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
   * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict-md) 변경 내역 유실 및 삭제 복구
 * show
+* status
+  * `git status --porcelain` git에 추가되지 않은 file 출력
 * undo
   * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 * pandoc; git으로 word file을 diff할 때 그냥 비교하면 안 되는데 이걸 markdown으로 바꿔 비교할 수 있도록 하는 명령어

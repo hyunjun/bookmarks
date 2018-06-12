@@ -53,7 +53,6 @@ Redis
 * [Replication](https://redis.io/topics/replication)
   * [redis-replicator](https://github.com/leonchen83/redis-replicator)
 * [Redis Node와 연동하기](https://www.zerocho.com/category/NodeJS/post/5a3238b714c5f9001b16c430)
-* [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [운영에 필요한 최소한의 지식](http://jybaek.tistory.com/711) List, Hash
 * [Microservice Communication: A Spring Integration Tutorial with Redis](https://www.toptal.com/spring/spring-integration-tutorial-redis-microservices)
 * [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
@@ -94,19 +93,9 @@ Redis
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
-* [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
-* [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
-  * [practice - `hgetall` vs. `hscan_iter`, `hmset` vs. `hset` encoding 문제 발생](https://gist.github.com/hyunjun/1a607507f420efb5bcbc3dd3ef37b7ee)
-  * [practice - `hset hget hmset hgetall` + json dumps/loads](https://github.com/hyunjun/practice/tree/master/python/test-redis)
-* [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
 * [Redis Geo](https://matt.sh/redis-geo)
-* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
-* [redis-py](http://redis-py.readthedocs.io/)
-  * [fakeredis: A fake version of a redis-py](https://pypi.org/project/fakeredis/)
-    * [practice - patch redis.StrictRedis -> fakeRedis.StrictRedis](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
-  * [mockredis](https://github.com/locationlabs/mockredis) 뭘 잘못 입력했는지 잘 안됨
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
-* [SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)
+* ~[SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)~
 * [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/RedisLabs/spark-redis)
   * [Give Spark a 45x speed boost with Redis](https://www.infoworld.com/article/3045083/analytics/give-spark-a-45x-speed-boost-with-redis.html)
   * [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/oeegee/spark-redis) 2.2.0
@@ -119,12 +108,29 @@ Redis
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
 * [Write Fast Apps Using Async Python 3.6 and Redis](https://eng.paxos.com/write-fast-apps-using-async-python-3.6-and-redis)
   * [subconscious - redis-backed (in memory) db for python3 that is asyncio compatible](https://github.com/paxos-bankchain/subconscious)
+
+## Library
+* [aioredis - asyncio (PEP 3156) Redis client library](http://aioredis.readthedocs.io/)
+  * [github.com/aio-libs/aioredis](https://github.com/aio-libs/aioredis)
+  * [Python aioredis.Redis() Examples](https://www.programcreek.com/python/example/98948/aioredis.Redis)
+  * [Python aioredis.create_redis_pool() Examples](https://www.programcreek.com/python/example/98950/aioredis.create_redis_pool)
+* [asyncio-redis - Redis client for Python asyncio](https://github.com/jonathanslenders/asyncio-redis)
+* [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
+* [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
+  * [redis-py](http://redis-py.readthedocs.io/)
+  * [practice - `hgetall` vs. `hscan_iter`, `hmset` vs. `hset` encoding 문제 발생](https://gist.github.com/hyunjun/1a607507f420efb5bcbc3dd3ef37b7ee)
+  * [practice - `hset hget hmset hgetall` + json dumps/loads](https://github.com/hyunjun/practice/tree/master/python/test-redis)
+  * [fakeredis: A fake version of a redis-py](https://pypi.org/project/fakeredis/)
+    * [practice - patch redis.StrictRedis -> fakeRedis.StrictRedis](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
+  * [mockredis](https://github.com/locationlabs/mockredis) 뭘 잘못 입력했는지 잘 안됨
+* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Tornado-Redis - Asynchronous Redis client that works within Tornado IO loop](https://github.com/leporo/tornado-redis)
 
 # PubSub
 * [Redis Tutorial for Beginners 11 - Redis Publish Subscribe](https://www.youtube.com/watch?v=33N1mgiRYK0)
 * [RedisConf17 - How Roblox Keeps Millions of Users up to Date with Redis Pub/Sub - Peter Philips](https://www.youtube.com/watch?v=nXTxXSWBayg)
   * [RedisConf17 - Roblox - How Roblox Keeps Millions of Users Up to Date with Redis Pub/Sub](https://www.slideshare.net/RedisLabs/redisconf17-roblox-how-roblox-keeps-millions-of-users-up-to-date-with-redis-pubsub)
+* [Advanced Redis: Subscribe Script to Pub/Sub Channel](https://matt.sh/advanced-redis-pubsub-scripts)
 
 ## PubSub Python
 * **[Redis Pubsub and Message Queueing](https://stackoverflow.com/questions/27745842/redis-pubsub-and-message-queueing)**
@@ -136,3 +142,9 @@ Redis
 * [basic redis python pubsub](http://chasemp.github.io/2013/03/26/basic-redis-python-pubsub/)
 * [Python & Redis PUB/SUB](https://medium.com/@johngrant/python-redis-pub-sub-6e26b483b3f7)
 * [A short script exploring Redis pubsub functions in Python](https://gist.github.com/jobliz/2596594)
+
+# Queue
+* [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
+
+## Library
+* [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)

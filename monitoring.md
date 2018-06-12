@@ -23,7 +23,6 @@ Monitoring
   * [오픈소스 성능 모니터링 도구 Scouter 소개](http://www.popit.kr/scouter-open-source-apm/)
   * [오픈소스 성능 모니터링 도구 Scouter 설정하기](http://www.popit.kr/scouter-open-source-apm-config/)
   * [배치 모니터링, Scouter로 편하고 효율적으로!](http://m.blog.naver.com/tmondev/220870505665)
-* [Sentry 를 이용한 Node.js 에러 모니터링](https://dobest.io/nodejs-error-monitoring-with-sentry/)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [Sushi - a tiny, simple hypervisor based monitoring tool detecting and stopping some of PatchGuard activities from Ring-1](https://github.com/tandasat/Sushi)
 * [sysdig](http://www.sysdig.org/)
@@ -55,3 +54,8 @@ Monitoring
 * [Grafana 사용자 관리 정책 정리](http://hamait.tistory.com/908)
 * [Grafana 삭제하기](http://hamait.tistory.com/909)
 * [MySQL Monitoring with Telegraf, InfluxDB & Grafana](https://hackernoon.com/mysql-monitoring-with-telegraf-influxdb-grafana-4489e6df0220)
+
+# Library
+* [Sentry](https://sentry.io/) Stop hoping your users will report errors
+  * [docs.sentry.io/clients/python](https://docs.sentry.io/clients/python/)
+  * ~[Sentry 를 이용한 Node.js 에러 모니터링](https://dobest.io/nodejs-error-monitoring-with-sentry/)~

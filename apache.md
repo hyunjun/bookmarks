@@ -479,6 +479,7 @@ Apache
   * 속성 기반의 엑세스 제어, 정책 엔진, 하드웨어 관리 모들과 결합할 수 있는 키 관리 서비스 등을 포함
 * [INTRODUCING ROW/ COLUMN LEVEL ACCESS CONTROL FOR APACHE SPARK](https://hortonworks.com/blog/row-column-level-control-apache-spark/)
   * Hortonworks에서 Apache Ranger를 통해 Hive 또는 Apark SQL에서 행렬 수준의 데이터 엑세스 및 데이터 마스킹을 지원하는 방법을 간단한 데모와 함께 설명
+* [Apache Ranger Vs Sentry](https://www.linkedin.com/pulse/apache-ranger-vs-sentry-mythily-rajavelu/) Hadoop 에코시스템들에 대한 인증과 여러 보안 기능을 제공하는 Apache Ranger와 Apache Sentry에 대해 비교 설명
 
 # [River](https://river.apache.org/)
 

@@ -95,11 +95,13 @@ Java
 * [오버로딩(Overloading) / 오버라이딩(Overriding)](http://bbigbros.tistory.com/entry/%EC%9E%90%EB%B0%94JAVA-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
 * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 * [Enum값의 사용](http://developer88.tistory.com/148)
+* [Java enum..](https://medium.com/@jooyunghan/java-enum-9a5c53e4cd15)
 * [악취나는 코드 개선하기 시리즈 - 값의 가변성 (Mutation)](http://jojoldu.tistory.com/225)
 * [DAO vs DTO(=VO) 개념 알아보기](https://jungwoon.github.io/common%20sense/2017/11/16/DAO-VO-DTO/)
 * [웹 서버 프로그래밍 시에 주의하면 좋은 점들](http://astrod.github.io/2018/02/12/12.html)
 * [Java Modifiers every interviewer seems to like](https://www.java-success.com/java-modifiers-interview-questions-and-answers/)
   * final const, volatile synchronized, transient
+* [Java Closure의 non-local variable이 final이어야 하는것에 대한 토론이 이뤄진 현장](https://www.facebook.com/notes/kevin-lee/%EA%B3%BC%EA%B1%B0-java-closure%EC%9D%98-non-local-variable%EC%9D%B4-final%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%9C-%ED%86%A0%EB%A1%A0%EC%9D%B4-%EC%9D%B4%EB%A4%84%EC%A7%84-%ED%98%84%EC%9E%A5/517870281888767/)
 * [패스트캠퍼스 자바 웹 프로그래밍 CAMP 정리](http://jojoldu.tistory.com/301)
 
 # API

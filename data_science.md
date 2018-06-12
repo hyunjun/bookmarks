@@ -253,6 +253,7 @@ Data Science
 * [다양한 사람들의 데이터 사이언스 이야기 후기](https://zzsza.github.io/etc/2018/04/21/little-big-data/)
 * [10 Modern Data Trends](https://www.youtube.com/watch?v=PPrvwiSKUmc)
 * [Test-Driven Data Analysis - Nick Radcliffe](https://www.youtube.com/watch?v=fw6P6VFPo24)
+* [Data Science for Startups: R -> Python](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -357,6 +358,7 @@ Data Science
   * [10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
 * [The Python ecosystem for Data Science: A guided tour - Christian Staudt](https://www.youtube.com/watch?v=EBgUiuFXE3E)
 * [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
+* [Python for Data Science: 8 Concepts You May Have Forgotten](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
 
 ## Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)

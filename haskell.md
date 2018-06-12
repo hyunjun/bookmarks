@@ -144,6 +144,8 @@ Haskell
 * [개미 수열 Haskell 풀이](https://medium.com/@jooyunghan/%EA%B0%9C%EB%AF%B8-%EC%88%98%EC%97%B4-haskell-%ED%92%80%EC%9D%B4-9799a023012)
 * [Learning me a Haskell for my own good](https://medium.com/@mickduprez/learning-me-a-haskell-for-my-own-good-c59eddb7f45a)
 * [5 Years of Haskell in Production](https://www.youtube.com/watch?v=hZgW4mT1PkE)
+* [Haskell 초급 예제 — todo](https://medium.com/@jooyunghan/haskell-%EC%B4%88%EA%B8%89-%EC%98%88%EC%A0%9C-todo-7faf85d45dea)
+* [Haskell #1 (Introduction)](https://medium.com/@goinhacker/haskell-study-1-db0a9d9ac318)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
