@@ -161,6 +161,17 @@ Web
 * [arachne-framework.org](http://arachne-framework.org/)
 
 # Crawler
+* [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
+* Crawling Billions of Pages: Building Large Scale Crawling Cluster
+  * [part 1](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
+  * [part 2](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-2/)
+* [Hosted web crawler for developers](https://www.apifier.com/)
+* [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
+* [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
+* [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
+* [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
+
+## Python
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
   * [10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
@@ -180,33 +191,27 @@ Web
   * [네이버(naver) 실시간 검색어 순위 가져오기 - 과거데이터 까지 가져오자!](https://blog.naver.com/pjt3591oo/221183968910)
   * [Beautiful Soup로 크롤링 하기 #1](https://jungwoon.github.io/python/crawling/2018/04/12/Crawling-1/)
   * [Beautiful Soup로 크롤링 하기 #2](https://jungwoon.github.io/python/crawling/2018/04/12/Crawling-2/)
-* [웹크롤러 아키텍쳐](http://lyb1495.tistory.com/104)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
-* [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
 * [PYTHON 3 Tutorials 24. 웹 크롤러(like Google) 만들기 1 - How to build a web crawler](http://creativeworks.tistory.com/entry/PYTHON-3-Tutorials-24-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AClike-Google-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-How-to-build-a-web-crawler)
-* [Hosted web crawler for developers](https://www.apifier.com/)
 * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
   * [OneQ Web Application](https://docs.google.com/presentation/d/1zYRXs6k_yDUqgbmBook17Wxz2zmCnpNdifUKDittDOc/edit#slide=id.p)
   * [OneQ Web Application 웹크롤러](https://docs.google.com/presentation/d/1dKQcrR8bQxh5Ji3FLLFA5sMPAVB1FO4uH9jMXCbzd2E/edit#slide=id.p)
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
-* [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 * [AskDjango 국회 사이트, 국회의원 목록 크롤링](https://www.youtube.com/watch?v=dhxqn6RZkm0)
-* [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
-* [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
 * [Python — 원숭이도 따라할 수 있는 크롤러 만들기](https://medium.com/@erish/python-원숭이도-따라할-수-있는-크롤러-만들기-6671bf445a4a)
+* [Python Web Scraping Tools: A Survey](https://www.youtube.com/watch?v=ind-mugxMxk)
 * [facebook을 python으로 자유롭게 크롤링하기](http://dizwe.tistory.com/8)
 * [Web Scraping(웹 크롤링) - 페이지 분석하기](http://m.blog.naver.com/potter777777/220606035529)
 * [크롤링 차근차근 시작하기](https://nomade.kr/vod/crawling/)
 * [크롤링 실습 - 대표적인 크롤링 예시 3가지](https://nomade.kr/vod/crawling/127/)
 * [7-1. 웹 크롤링(스크래핑) 이해하기](https://www.youtube.com/watch?v=gsfmhpsQH08)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
-* [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)

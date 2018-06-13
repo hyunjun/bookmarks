@@ -210,6 +210,7 @@ NoSQL
   * [Firebase 시작하기](http://jybaek.tistory.com/731)
   * [firestore 저장소 사용하기](http://jybaek.tistory.com/733)
   * [I/O 2018에서 선보인 Firebase의 새로운 기능](https://developers-kr.googleblog.com/2018/05/whats-new-in-firebase-at-io-2018.html)
+  * [Firebase Android Tutorial](https://steemit.com/android/@jhis21c/android-firebase)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)

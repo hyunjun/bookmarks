@@ -53,6 +53,7 @@ Thread
 * [GPU기반 병렬 프로그램](https://webedu.ksc.re.kr/movieSubjectList.es?mid=a10401000000&subj_no=42)
 * [병렬프로그래밍과 Cuda](http://www.slideshare.net/seokjoonyun9/cuda-33834381)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
+* [grandstayner.tistory.com/category/Parallel Programming/CUDA](http://grandstayner.tistory.com/category/Parallel%20Programming/CUDA)
 
 # Fiber
 * [코루틴과 파이버](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EA%B3%BC-%ED%8C%8C%EC%9D%B4%EB%B2%84-9e93c12bce30)

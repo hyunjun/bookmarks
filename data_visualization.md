@@ -130,6 +130,7 @@ Data Visualization
 * [datashader](http://datashader.readthedocs.io/)
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
+* [k3d](https://github.com/adioshun/gitBook_PCL/blob/master/pcl/k3d.ipynb)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
   * [How and why I used Plotly (instead of D3) to visualize my Lollapalooza data](https://medium.freecodecamp.org/how-and-why-i-used-plotly-instead-of-d3-to-visualize-my-lollapalooza-data-d48345e2ca68)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
