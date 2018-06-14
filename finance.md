@@ -9,7 +9,6 @@ Finance
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
 * [그래햄의 NCAV(순유동자산) 전략 – 거저 먹기 투자, 한국에서 아직도 가능하다](https://m.snek.ai/alpha/article/108066)
 * [초등학생도 복리 20% 벌 수 있는 방법 (PBR + PER 콤보전략)](https://www.snek.ai/alpha/article/108070)
-* [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie)
 * [투자, 기본으로 돌아가자](http://ppss.kr/archives/47315)
@@ -30,7 +29,6 @@ Finance
 * [ML + 주식 phase 2](https://www.slideshare.net/cybrshin/ml-phase-2)
 * [status.im](https://status.im/)
   * [a free (libre) open source, mobile OS for Ethereum https://status.im](https://github.com/status-im/status-react)
-* [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes
 * [코스피 주가 데이터 (17년치, 2000-01-04 부터)](http://devse.tistory.com/entry/%EC%BD%94%EC%8A%A4%ED%94%BC-%EC%A3%BC%EA%B0%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-17%EB%85%84%EC%B9%98-20000104-%EB%B6%80%ED%84%B0)
 * [10년치 코스피 기업별 외국인/기관 보유 현황(2007-02-23~2017-11-08)](http://devse.tistory.com/entry/10%EB%85%84%EC%B9%98-%EC%BD%94%EC%8A%A4%ED%94%BC-%EA%B8%B0%EC%97%85%EB%B3%84-%EC%99%B8%EA%B5%AD%EC%9D%B8%EA%B8%B0%EA%B4%80-%EB%B3%B4%EC%9C%A0-%ED%98%84%ED%99%A9)
 * [초단타매매 전략 소개 및 트렌드](https://tv.naver.com/v/3255292)
@@ -118,3 +116,9 @@ Finance
 # R
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
 * ubci [암호화폐 시세와 인덱스를 제공하는 ubci 패키지를 소개합니다](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90-%EC%8B%9C%EC%84%B8%EC%99%80-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-ubci-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/)
+
+# Quant
+* [Building a Quant Finance Monte Carlo Engine in Haskell - Part 1](http://boundedvariation.github.io/)
+  * [quantfin - Quant Finance in Pure Haskell](https://github.com/boundedvariation/quantfin)
+* [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes
+* [인공지능 알고리즘 알파퀀트 Date170822 am105919 1](https://www.youtube.com/watch?v=RftNGwsrxcc)

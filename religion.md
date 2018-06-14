@@ -48,7 +48,6 @@ Religion
 * [“세월호 가족한테 ‘슬픔 벗어나라’ 쉽게 말하지 마라”](http://www.hani.co.kr/arti/society/religious/639113.html)
 * [기독교를 떠나는 미국인들](http://newspeppermint.com/2015/05/17/faith-no-more/)
 * [노아 방주 짓는 美 목사, “그럴 돈으로 구제하라”는 비판에…](http://christiantoday.co.kr/view.htm?id=283481)
-* [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
 * [크리스천이라는 사실이 당신에게 남을 차별할 권리를 주는 것은 아니다](http://www.huffingtonpost.kr/dale-hansen/story_b_7892776.html)
 * [교회 역사 속의 이단 논쟁](https://www.facebook.com/notes/918534794893956/)
 * [정통 기독교 강좌: 몰살의 하나님으로부터 살아남는 3가지 방법](http://ppss.kr/archives/22276)
@@ -117,6 +116,7 @@ Religion
 * ["교회 세습 중지하고 세금 내는 게 예수의 길"](http://v.media.daum.net/v/20171229133230914)
 
 ## 성소수자
+* [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
 * [기독교는 성소수자의 자긍심을 사랑할 수 없나?](http://ppss.kr/archives/33095)
 * [성경이 동성애 금지? "성경대로라면 이혼도 자위행위도 정죄해야"](http://www.huffingtonpost.kr/2014/12/10/story_n_6299704.html)
 * [성서가 말하는 동성애](http://ppss.kr/archives/37430)
@@ -132,6 +132,7 @@ Religion
 * [보수 개신교계의 생존 전략: 미 군정에서 2010년 이후 행동 그룹까지](http://slownews.kr/39134)
 * [보수 개신교계의 생존 전략: 동성애와 진보를 사회악으로 만들기](http://slownews.kr/43588)
 * [동성결혼 증명서 발급 거부한 '킴 데이비스'의 면전에 성경의 말씀을 던진 옥외 광고판](http://www.huffingtonpost.kr/2015/09/13/story_n_8131366.html)
+* [기독교인들은 왜 동성애 문제에만 분노하는가](http://www.newsnjoy.or.kr/news/articleView.html?idxno=218121)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)

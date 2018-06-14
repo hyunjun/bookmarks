@@ -566,6 +566,9 @@ TensorFlow
   * [Deep learning in your browser: A brisk guide](https://towardsdatascience.com/deep-learning-in-your-browser-a-brisk-guide-ca06c2198846)
   * [Real-time Human Pose Estimation in the Browser with TensorFlow.js](https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5)
   * [Visualizing Pose with Pts and tensorflow.js](https://github.com/williamngan/pts/tree/master/demo/more/tfjs_posenet)
+  * tensorflow-js로 만들어본 RL 예제
+    * [1. environment](https://hulk89.github.io/reinforcement%20learning/2018/06/14/tfjs_RL/)
+    * [2.  Deep-sarsa](https://hulk89.github.io/reinforcement%20learning/2018/06/14/tfjs_RL2/)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

@@ -1533,6 +1533,7 @@ Deep Learning
   * [Gluon으로구현해보는 한영기계번역 모형 – 마이크로소프트웨어 기고문](http://freesearch.pe.kr/archives/4754)
   * [MXNet for PyTorch users in 10 minutes](https://medium.com/apache-mxnet/mxnet-for-pytorch-users-in-10-minutes-a7353863406a)
   * [Apache MXNet Cheat Sheet](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance)
+  * [Apache MXNet (incubating) adds support for Keras 2](https://aws.amazon.com/ko/blogs/machine-learning/apache-mxnet-incubating-adds-support-for-keras-2/)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)

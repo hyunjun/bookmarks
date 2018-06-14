@@ -35,6 +35,8 @@ Programming Books
 	* 2018.05 한라
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
+* Chef Solo 입문 : 인프라스트럭처 자동화 프레임워크
+  * 한라 004.79-이885ㅅ
 
 # Agile Scrum
 
@@ -80,8 +82,9 @@ Programming Books
 
 # Amazon AWS
 
-* 아마존 웹 서비스를 이용한 글로벌 서비스 인프라 설계
-  * 탐라 문004.58윤52ㅇ
+* (아마존 웹 서비스를 이용한)글로벌 서비스 인프라 설계 : 효율적인 AWS 운용을 위한 DevOps 환경 만들기
+  * 탐라 문004.58-윤51ㄱ
+  * 한라 004.58-윤52ㄱ
   * AWS 사용하려면 꼭 봐야 할 듯
 * 처음 시작하는 AWS 람다
   * 한라 004.58 풀294ㅊ
@@ -722,7 +725,10 @@ Programming Books
 
 * 데브옵스 개발자 QA 관리자가 함께 보는 리눅스 서버 트러블슈팅 기법
   * 한라 005.44랜878ㄷ
+* 서버/인프라 엔지니어를 위한 DevOps
+  * 한라 005.12-요58ㅅ
 * (NOT YET) 만화로 배우는 리눅스 시스템 관리 1 명령어 & 셸 스크립트 입문
+* (NOT YET) **[DevOps와 SE를 위한 리눅스 커널 이야기](http://jybaek.tistory.com/748)**
 
 ## Shell script
 * 유닉스 리눅스 셸 스크립트 예제 사전
