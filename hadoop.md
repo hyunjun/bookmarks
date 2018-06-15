@@ -391,3 +391,4 @@ Hadoop
 * [PART 6 OF DATA LAKE 3.0: A SELF-DIAGNOSING DATA LAKE](https://ko.hortonworks.com/blog/part-6-of-data-lake-3-0-a-self-diagnosing-data-lake/)
   * 느린 데이터 노드와 느린 디스크를 감지하기 위해 HDFS에 추가되는 몇 가지 새로운 기능에 대해 소개
 * [YARN – THE CAPACITY SCHEDULER](https://ko.hortonworks.com/blog/yarn-capacity-scheduler/)
+* [YARN FairScheduler Preemption Deep Dive](https://blog.cloudera.com/blog/2018/06/yarn-fairscheduler-preemption-deep-dive/) FairScheduler Preemption의 작동 방식에 대한 기술적인 내용과 이를 구성할 때 고려해야 할 모범 사례

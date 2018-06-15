@@ -50,6 +50,7 @@ NoSQL
   * [Part 2](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-2/)
   * Z-Order Index 구현 대한 좋은 글
   * Z-Order Indexing은 하나의 인덱스로 여러 속성에 대해 효율적으로 질의하기 위한 인덱스 전략
+* [Real-Time Aggregation with DynamoDB Streams](https://medium.com/signiant-engineering/real-time-aggregation-with-dynamodb-streams-f93547cfb244) DynamoDB Streams과 AWA Lambda를 이용하여 실시간 집계를 구현하는 방법
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)

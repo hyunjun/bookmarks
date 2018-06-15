@@ -212,7 +212,6 @@ App
 * [monday.com](https://monday.com/) project management
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
-* [websequencediagrams.com](https://www.websequencediagrams.com/)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 # Editor
@@ -486,6 +485,8 @@ App
 * [PlantText UML Editor](http://www.planttext.com/)
 * [plant UML](http://plantuml.com/)
 * [precursor](https://precursorapp.com/)
+* [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
+* [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)

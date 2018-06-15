@@ -69,6 +69,7 @@ AWS
 * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
+* [회사 화분에 주기적으로 물주기 (AWS IoT 버튼 활용 사례)](https://medium.com/n42-corp/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
 * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
 * [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
@@ -190,6 +191,7 @@ AWS
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
 * [AWS #architecture 소모임 10회 결산](https://www.slideshare.net/addnull/20180531-hb-smith-10th-aws-architecture)
 * [1. 텔레그램 & AWS 서비스 연동하기 - 1) 텔레그램 봇과 AWS Lambda & AWS Gateway 연동](http://jojoldu.tistory.com/304)
+* [2. 텔레그램 & AWS 서비스 연동하기 - 2) TravisCI와 S3를 이용하여 정적 데이터 관리하기](http://jojoldu.tistory.com/305)
 * [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
 
 # Athena

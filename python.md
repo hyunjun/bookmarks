@@ -351,6 +351,7 @@ Python
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
 * [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
 * [Performance Python: 7 Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=c5DV9Nur1W8) numpy, pandas, scipy, cython, numba, and more
+* [Basic method chaining](https://stackoverflow.com/questions/41817578/basic-method-chaining)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1312,7 +1313,6 @@ Python
   * [Structuring a Flask-RESTPlus Web Service for Production Builds](https://medium.freecodecamp.org/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563)
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
 * [Flask 블루프린트(blueprint) 사용하기](https://blog.naver.com/dbswjd1977/221152224572)
-* [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
 * [Asynchronous Task in Flask Using Celery](https://www.youtube.com/watch?v=iwxzilyxTbQ)
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
@@ -2055,7 +2055,6 @@ Python
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
-* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
   * [Advanced Usage](http://docs.python-requests.org/en/master/user/advanced/)
@@ -2095,8 +2094,6 @@ Python
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
-* [RQ](http://python-rq.org/)
-  * [Redis rq를 이용한 간단한 비동기 작업 큐](http://mcchae.egloos.com/11261352)
 * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [Ryu component-based software defined networking framework http://osrg.github.io/ryu/](https://github.com/osrg/ryu)
 * [RxPy](https://rxpy.codeplex.com/)

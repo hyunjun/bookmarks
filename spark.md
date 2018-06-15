@@ -616,6 +616,7 @@
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
+* [Manage your Machine Learning Lifecycle with MLflow — Part 1.](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
 
 # Spark SQL
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
@@ -668,6 +669,7 @@
 * [Dynamic Resource Allocation Spark on YARN](http://www.slideshare.net/ozax86/spark-on-yarn-with-dynamic-resource-allocation)
 * [Investigation of Dynamic Allocation in Spark](http://jerryshao.me/architecture/2015/08/22/spark-dynamic-allocation-investigation/)
 * [Spark Cluster Settings On Yarn : Spark 1.4.1 + Hadoop 2.7.1](http://hoondongkim.blogspot.com/2015/08/spark-cluster-settings-on-yarn-spark.html)
+* [Spark logging configuration in YARN](https://medium.com/@iacomini.riccardo/spark-logging-configuration-in-yarn-faf5ba5fdb01)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)

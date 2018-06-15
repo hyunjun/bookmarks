@@ -94,6 +94,7 @@ Redis
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
 * [Redis Geo](https://matt.sh/redis-geo)
+* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
 * ~[SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)~
 * [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/RedisLabs/spark-redis)
@@ -109,7 +110,7 @@ Redis
 * [Write Fast Apps Using Async Python 3.6 and Redis](https://eng.paxos.com/write-fast-apps-using-async-python-3.6-and-redis)
   * [subconscious - redis-backed (in memory) db for python3 that is asyncio compatible](https://github.com/paxos-bankchain/subconscious)
 
-## Library
+## Python Library
 * [aioredis - asyncio (PEP 3156) Redis client library](http://aioredis.readthedocs.io/)
   * [github.com/aio-libs/aioredis](https://github.com/aio-libs/aioredis)
   * [Python aioredis.Redis() Examples](https://www.programcreek.com/python/example/98948/aioredis.Redis)
@@ -145,6 +146,26 @@ Redis
 
 # Queue
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
+* [Building a Message Queue Using Redis in Go](http://big-elephants.com/2013-09/building-a-message-queue-using-redis-in-go/)
+* [Queuing tasks with Redis](https://blog.rapid7.com/2016/05/04/queuing-tasks-with-redis/) jedis
 
-## Library
-* [REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
+## Queue Library
+* [EasyRedisMQ - A Simple .Net Message Queue that Uses Redis for the back end](https://github.com/jkruer01/EasyRedisMQ)
+* [Resque (pronounced like "rescue") - a Redis-backed library for creating background jobs, placing those jobs on multiple queues, and processing them later](https://github.com/resque/resque)
+* [RSMQ - REDIS SIMPLE MESSAGE QUEUE](http://smrchy.github.io/rsmq/)
+
+## Queue Library Python
+* [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
+* [Simple Python Queue with Redis](http://peter-hoffmann.com/2012/python-simple-queue-redis-queue.html)
+* [Basic Message Queue with Redis](http://flask.pocoo.org/snippets/73/)
+* [kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/rediswq.py](https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/rediswq.py)
+* [Task queues](https://www.fullstackpython.com/task-queues.html)
+* [HotQueue - a Python library that allows you to use Redis as a message queue within your Python programs](https://github.com/richardhenry/hotqueue)
+* [Pyres - a Resque clone](https://github.com/binarydud/pyres)
+* [RESTMQ - Redis based message queue](https://github.com/gleicon/restmq)
+* [RQ (Redis Queue) - a simple Python library for queueing jobs and processing them in the background with workers](http://python-rq.org/)
+  * [github.com/rq](https://github.com/rq)
+  * [Redis rq를 이용한 간단한 비동기 작업 큐](http://mcchae.egloos.com/11261352)
+  * [Flask by Example – Implementing a Redis Task Queue](https://realpython.com/flask-by-example-implementing-a-redis-task-queue/)
+  * [Walkthrough: Deploying a Flask app with Redis Queue (RQ) Workers and Dashboard using Kubernetes](http://tiao.io/posts/walkthrough-deploying-a-flask-app-with-redis-queue-rq-workers-and-dashboard-using-kubernetes/)
+  * [Simple Job Queues with django_rq](https://www.imagescape.com/blog/2013/06/13/simple-job-queues-django_rq/)

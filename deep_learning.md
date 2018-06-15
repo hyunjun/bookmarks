@@ -511,6 +511,7 @@ Deep Learning
 * **[Linear Algebra for Deep Learning](https://towardsdatascience.com/linear-algebra-for-deep-learning-506c19c0d6fa)**
 * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.com/2017/02/the-black-magic-of-deep-learning-tips.html)
 * [Game Theory reveals the Future of Deep Learning](https://medium.com/intuitionmachine/game-theory-maps-the-future-of-deep-learning-21e193b0e33a)
+* [Game Theory Study (1) Introduction and Overview](http://sanghyukchun.github.io/101/)
 * [todaysdeeplearning.com](http://www.todaysdeeplearning.com/)
 * [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b) VMWare
 * [Why Momentum Really Works](http://distill.pub/2017/momentum/)

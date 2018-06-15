@@ -263,6 +263,7 @@ Statistics
 * [Underestimating Estimation](https://hackernoon.com/underestimating-estimation-d2e52372f303)
 * [Chapter2: Likelihood-based approach](https://www.slideshare.net/JaekwangKim5/chapter2-likelihoodbased-approach)
 * [Maximum Likelihood, Maximum a Posteriori, and Bayesian Parameter Estimation](https://medium.com/@amatsukawa/maximum-likelihood-maximum-a-priori-and-bayesian-parameter-estimation-d99a23a0519f)
+* [StatQuest: Probability vs Likelihood](https://www.youtube.com/watch?v=pYxNSUDSFH4)
 * [Bayes’ Rule Applied - Using Bayesian Inference on a real-world problem](https://towardsdatascience.com/bayes-rule-applied-75965e4482ff)
 
 # Book
