@@ -766,6 +766,7 @@ Deep Learning
   * [Companion Jupyter notebooks for the book "Deep Learning with Python"](https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
   * **[numpy-neuralnet-exercise](https://github.com/hwalsuklee/numpy-neuralnet-exercise)**
+* **[Hands-On Reinforcement Learning With Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)**
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)

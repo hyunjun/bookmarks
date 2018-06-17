@@ -271,8 +271,9 @@ Programming Books
   * 한라 005.133 권73ㄸ
 * (한라 NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기](http://acornpub.co.kr/book/ai-python)
   * 2018.02
-* (탐라 NOT YET) [애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)
-  * 2018.04
+* **[애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)**
+  * 탐라 문 005.74저219ㅇ
+  * 굉장히 많은 내용을 담고 있으며, 특히 airflow를 책에서 다루는 건 처음 본 듯
 * (한라 NOT YET) [파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)
   * 한라 005.133-민94ㅍ
 * (한라 NOT YET) [링크드 데이터](http://book.daum.net/detail/book.do?bookid=KOR9791195072644)
@@ -727,6 +728,9 @@ Programming Books
   * 한라 005.44랜878ㄷ
 * 서버/인프라 엔지니어를 위한 DevOps
   * 한라 005.12-요58ㅅ
+* **CentOS 리눅스 구축관리 실무**
+  * 탐라 문005.43정67c
+  * 자세하게 나와서 좋음
 * (NOT YET) 만화로 배우는 리눅스 시스템 관리 1 명령어 & 셸 스크립트 입문
 * (NOT YET) **[DevOps와 SE를 위한 리눅스 커널 이야기](http://jybaek.tistory.com/748)**
 
