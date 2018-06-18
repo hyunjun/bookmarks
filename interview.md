@@ -151,6 +151,7 @@ Interview
   * [What are system design questions?](https://www.hiredintech.com/classrooms/system-design/lesson/52)
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
+* **[System Design Introduction For Interview](https://www.youtube.com/watch?v=UzLMhqg3_Wc)**
 * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 * [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
 * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)

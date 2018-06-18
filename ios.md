@@ -70,6 +70,7 @@ iOS
 * [iOS Dev Weekly - 351 (서문)](http://blog.canapio.com/137)
 * [라이더스앱(iOS) 개발기](http://woowabros.github.io/experience/2018/05/19/build-app-by-react-native.html)
 * [약간의 iOS 개발 팁](http://blog.canapio.com/138)
+* [Photo SlideShow](https://steemit.com/ios/@jhis21c/ios-photo-slideshow-app)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
