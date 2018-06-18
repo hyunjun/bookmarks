@@ -11,6 +11,7 @@ Book
 * (NOT YET) [인공지능 투자가 퀀트](https://blog.outsider.ne.kr/1353)
 	* 탐라 문327.8-권66ㅋ
 	* 한라 327.8-권65ㅋ
+* [히트 리프레시](https://www.haruair.com/blog/4521)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)

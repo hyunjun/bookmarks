@@ -179,6 +179,10 @@ Open Source
 * Keystone
   * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
   * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
+* Metacat
+  * [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
+    * Metacat; 통합 메타 데이터 검색 API 서비스 제공. Hive, MySQL, Redshift, RDS, Teradata, Redshift, S3, ElasticSearch, Cassandra 등을 검색 가능
+    * 기능; 데이터 추상화 및 상호 운용성, 비즈니스 및 사용자 정의 메타데이터 스토리지, 데이터 검색, 데이터 변경 감사 및 알림, 하이브 메타스토어 최적화
 * NdBench
   * [Netflix Data Benchmark: Benchmarking Cloud Data Stores](http://techblog.netflix.com/2016/09/netflix-data-benchmark-benchmarking.html)
     * Cassandra, HBase, ElasticSearch, MongoDB 등 이미 많이 알려진 Data Store 이외에도 최근에 많은 새로운 Data Store가 출시

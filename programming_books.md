@@ -680,6 +680,7 @@ Programming Books
 * (한라 NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
   * 2018.02
 * (NOT YET) [러닝 리액트](http://greentec.egloos.com/4437451)
+* [Vue.js 개발자를 위한 ES6 입문서(무료)](https://joshua1988.github.io/es6-online-book/) ebook
 
 ## Angular
 

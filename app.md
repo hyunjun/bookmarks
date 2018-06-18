@@ -590,6 +590,7 @@ App
   * 모든 작업을 마친 후 업데이트까지 적용했더니 윈도우 스토어도 정상 동작하고, Ubuntu도 검색가능하고, windows 기능 켜기/끄기를 통해 linux 관련 기능도 설정할 수 있는 검색창이 나옴
 
 ## Development
+* [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)

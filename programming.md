@@ -428,8 +428,10 @@ Programming
   * [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
   * [Spring Boot 로 테스트해 본 Stackdriver trace](https://medium.com/@jwlee98/gcp-spring-boot-%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%B4-%EB%B3%B8-stackdriver-trace-fefa46394af8)
   * [Google Cloud Platform의 빅데이터 제품 살펴보기#1 - GCS, GCE](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Bigdata-Products/)
-  * [Google Cloud Platform의 BigQuery 살펴보기](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-BigQuery/)
+  * [Google Cloud Platform의 빅데이터 제품 살펴보기 - DataFlow](https://jungwoon.github.io/google%20cloud/2018/06/17/GCP-DataFlow-Java/)
+  * [Google Cloud Platform의 BigQuery 살펴보기](https://jungwoon.github.io/google%20cloud/2018/06/16/GCP-BigQuery/)
   * [Google Cloud Platform에서 Hadoop 및 Spark 사용해보기 - Dataproc](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Dataproc/)
+  * [Stackdriver Error Reporting/Debugger 살펴보기](https://medium.com/@jwlee98/gcp-stackdriver-error-reporting-debugger-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-c0ecdcbccf4d)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -819,6 +821,7 @@ Programming
   * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.kr/2018/05/b-5-4.html)
   * [5월 5주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/06/b-5-5.html)
   * [6월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/06/b-6-1.html)
+  * [6월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/06/b-6-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -849,6 +852,7 @@ Programming
   * [기술 뉴스 #101 : 18-05-01](https://blog.outsider.ne.kr/1372)
   * [기술 뉴스 #102 : 18-05-15](https://blog.outsider.ne.kr/1376)
   * [기술 뉴스 #103 : 18-06-01](https://blog.outsider.ne.kr/1380)
+  * [기술 뉴스 #104 : 18-06-16](https://blog.outsider.ne.kr/1383)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
