@@ -38,6 +38,7 @@ Monitoring
 * [Monitoring Apache Spark with Prometheus on Kubernetes](https://banzaicloud.com/blog/spark-monitoring/)
 * **[Linux 게임 서버 성능 평가 (eBPF + BCC)](https://rein.kr/blog/archives/4389)**
 * [Monitoring large scale e-commerce websites at MakeMyTrip — Part 1](https://medium.com/makemytrip-engineering/monitoring-large-scale-e-commerce-websites-at-makemytrip-part-1-ce50499b90ee)
+* [Python Script that monitors a service running on systemd. If service is not running the script will try to start the service](https://gist.github.com/piraz/de85b67e95132b5cf84e)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)

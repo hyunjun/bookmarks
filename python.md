@@ -1873,6 +1873,7 @@ Python
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
   * [이미지 GPS 정보 추출하기](https://cpuu.postype.com/post/23100)
+  * [How to Resize, Pad Image to Square Shape and Keep Its Aspect Ratio With Python](https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/)
 * [Pillow, the friendly PIL fork](https://python-pillow.org/)
   * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief/](https://github.com/fengsp/color-thief-py)
   * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)

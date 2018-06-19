@@ -294,6 +294,7 @@ Vision
   * [OpenCV + WebApp (CV Lecture)](https://www.youtube.com/playlist?list=PLvX6vpRszMkwECdbxNX8s9R-vcUFGqqtC)
   * [marearts.com/webapp/dface](http://www.marearts.com/webapp/dface/)
   * [Ch2. Preparation](https://www.cvlecture.marearts.com/forum/opencv-webapp/ch2-preparation)
+* [How to Resize, Pad Image to Square Shape and Keep Its Aspect Ratio With Python](https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/)
 
 # OpenGL
 * [open.gl](https://open.gl/)

@@ -23,6 +23,7 @@ Javascript
   * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
+* **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
 * [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
@@ -1101,6 +1102,7 @@ Javascript
   * [노드를 더 우아하게. pm2 이야기](http://jybaek.tistory.com/716)
   * [pm2 모듈을 부트 스크립트로 등록하기](http://jybaek.tistory.com/721)
   * [PM2로 Node.js 앱 프로세스 배포하기](https://rhostem.github.io/posts/2018-05-27-pm2-deploy/)
+  * [PHP 사이트에 노드 앱 추가](https://hyeonseok.com/soojung/dev/2018/06/16/837.html)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 * [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)

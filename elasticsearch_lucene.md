@@ -317,6 +317,7 @@ ElasticSearch - Lucene
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
   * [Using Kibana and Timelion to analyze earthquake data](https://www.youtube.com/watch?v=cfTehOJScL4)
 * [region map에서 한국 활성화하기](http://higee.io/221265732278)
+* [Sankey Visualization with Vega in Kibana 6.2](https://www.elastic.co/blog/sankey-visualization-with-vega-in-kibana)
 
 # Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)

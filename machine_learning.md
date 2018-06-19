@@ -532,6 +532,9 @@ Machine Learning
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
 
+# C#
+* [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)
+
 # Go
 * [Real-time Machine Learning in Go (for smart energy)](https://github.com/michaelbironneau/golanguk2016)
   * [Goml](https://github.com/cdipaolo/goml)

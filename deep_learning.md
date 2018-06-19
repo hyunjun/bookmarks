@@ -683,6 +683,7 @@ Deep Learning
 * [Variational Autoencoder를 여러 가지 각도에서 이해하기 (Understanding Variational Autoencoder from Various Perspectives)](https://www.slideshare.net/haezoom/variational-autoencoder-understanding-variational-autoencoder-from-various-perspectives)
 * [What a Disentangled Net We Weave: Representation Learning in VAEs (Pt. 1)](https://towardsdatascience.com/what-a-disentangled-net-we-weave-representation-learning-in-vaes-pt-1-9e5dbc205bd1)
 * [Naver Tech Talk: 오토인코더의 모든 것 (2017년 11월)](https://d2.naver.com/news/0956269)
+* [Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder, Oct 12 2017 Lect 6.2](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 
 # Backpropagation
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)

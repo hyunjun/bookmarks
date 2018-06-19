@@ -384,6 +384,7 @@ TensorFlow
 * [Solving internal co-variate shift in deep learning with linked Neurons with Interactive Code Manual Back Prop in TF](https://towardsdatascience.com/solving-internal-co-variate-shift-in-deep-learning-with-linked-neurons-with-interactive-code-61859388af76)
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [ENAS-Tensorflow Efficient Neural Architecture Search(ENAS)](https://github.com/MINGUKKANG/ENAS-Tensorflow)
+* [practice - 이미지 탐지기 쉽게 구현하기](https://medium.com/n42-corp/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%90%EC%A7%80%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-abd967638c8e)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
