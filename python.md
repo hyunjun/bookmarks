@@ -249,9 +249,6 @@ Python
   * [Python Top 10 Articles for the Past Month](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-b6e72bb8af2a)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
-* [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
-* [py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
-* [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
 * **[배포시스템 삽질기](https://encyphered.github.io/blog/dev/2016/12/17/deployment-in-aws.html)**
 * [바로 실행해보면서 배우는 파이썬](https://edu.goorm.io/lecture/bGVjX2JHZFVNXzE0NzIyMTE3ODI4MDU=)
@@ -352,6 +349,9 @@ Python
 * [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
 * [Performance Python: 7 Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=c5DV9Nur1W8) numpy, pandas, scipy, cython, numba, and more
 * [Basic method chaining](https://stackoverflow.com/questions/41817578/basic-method-chaining)
+* bit manipulation
+  * [practice - sum of two integers using bit manipulation](https://github.com/hyunjun/practice/blob/master/python/problem-math/sum_of_two_integers.py)
+    * [What is good way to negate an integer in binary operation in python?](https://stackoverflow.com/questions/37135106/what-is-good-way-to-negate-an-integer-in-binary-operation-in-python)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2640,3 +2640,9 @@ Python
 * [웹 크롤링에 대해서](http://lumiamitie.github.io/web/introduction-to-web-crawling/)
 * [Crawler](https://github.com/rudvlf0413/crawler)
 * [가상화폐 가격정보 가져오기](https://blog.naver.com/pjt3591oo/221177547962)
+
+# Windows
+* [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
+* [py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
+* [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
+* [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
