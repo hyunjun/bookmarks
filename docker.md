@@ -252,6 +252,7 @@ Docker
 * [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
 * [When and Why to Use Docker](https://www.linode.com/docs/applications/containers/when-and-why-to-use-docker/)
 * [AWSKRUG Container Hands-On #1 - 모두의 Docker](https://docs.google.com/document/d/1x9EHhj_cwuZGY0W6aPXlETUZ5PIJ4czXXtXA-rSu9ts/edit)
+* [Deploying deep learning models: Part 1 an overview](https://towardsdatascience.com/deploying-deep-learning-models-part-1-an-overview-77b4d01dd6f7)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -445,6 +446,7 @@ Docker
 * [Windows Subsystem for Linux (WSL)에서 쿠버네이티즈 사용하기](https://blog.aliencube.org/ko/2018/06/04/running-kubernetes-on-wsl/)
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
+* [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

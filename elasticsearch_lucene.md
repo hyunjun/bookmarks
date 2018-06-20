@@ -277,6 +277,7 @@ ElasticSearch - Lucene
 * [Synonym filter 테스트](http://jjeong.tistory.com/1323)
 * [Synonym filter position 문제 개선](http://jjeong.tistory.com/1325)
 * [Previewing Elasticsearch 6.3 SQL Feature](https://medium.com/@mustafaakin/previewing-elasticsearch-6-3-sql-feature-2d3a1d60cab4) 6.3부터 SQL 지원. 프리뷰
+* [Elasticsearch 에서 Mapping 의 중요성을 느끼다](http://blog.leekyoungil.com/?p=434)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)

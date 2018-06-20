@@ -148,6 +148,7 @@ SQL
 * [Full Outer Join in MySQL](http://stackoverflow.com/questions/4796872/full-outer-join-in-mysql)
 * [인덱스 정리 및 팁](http://jojoldu.tistory.com/243)
 * [MySQL InnoDB의 Adaptive Hash Index 활용](http://tech.kakao.com/2016/04/07/innodb-adaptive-hash-index/)
+* [MySQL Ascending index vs Descending index](http://tech.kakao.com/2018/06/19/AscendingAndDescendingIndex/)
 * [mysql 테이블과 인덱스 설계 시 주의사항 13가지](http://egloos.zum.com/tiger5net/v/5660848)
 * [인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)
 * [패스트캠퍼스 SQL튜닝캠프 2일차 - 인덱스 향상](http://jojoldu.tistory.com/167)
