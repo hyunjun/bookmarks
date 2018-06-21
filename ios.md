@@ -222,6 +222,7 @@ iOS
 * [프로토콜](http://blog.yagom.net/562)
 * [Swift Protocol 적재적소에 사용하기](http://news.realm.io/kr/news/understanding-swift-protocol/)
 * [Generics](http://wlaxhrl.tistory.com/60)
+* [Swift Generics](https://dailyhotel.io/swift-generics-5d88e834b2cc)
 * [Access Control](http://wlaxhrl.tistory.com/61)
 * [Basic Operators](http://wlaxhrl.tistory.com/72)
 * [Advanced Operators](http://wlaxhrl.tistory.com/62)
@@ -359,6 +360,7 @@ iOS
 * [Result of call to ... is unused](http://seorenn.blogspot.kr/2018/05/swift-result-of-call-is-unused.html) discardableResult
 * [문자열을 문자 단위로 다루기 | Swift](http://seorenn.blogspot.kr/2018/05/swift-string-index.html)
 * [WWDC 2017 & Fall](https://dailyhotel.io/wwdc-2017-fall-7025da3c7a49)
+* [Strings and Characters](http://wlaxhrl.tistory.com/73)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

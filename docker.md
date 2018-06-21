@@ -253,6 +253,7 @@ Docker
 * [When and Why to Use Docker](https://www.linode.com/docs/applications/containers/when-and-why-to-use-docker/)
 * [AWSKRUG Container Hands-On #1 - 모두의 Docker](https://docs.google.com/document/d/1x9EHhj_cwuZGY0W6aPXlETUZ5PIJ4czXXtXA-rSu9ts/edit)
 * [Deploying deep learning models: Part 1 an overview](https://towardsdatascience.com/deploying-deep-learning-models-part-1-an-overview-77b4d01dd6f7)
+* [Docker로 NFD 사용](http://uni2u.tistory.com/91) docker basic build & execute
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

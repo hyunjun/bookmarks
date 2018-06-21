@@ -78,7 +78,6 @@ ElasticSearch - Lucene
 * [쉽게 Elasticsearch Estimation 하기](http://jjeong.tistory.com/1317)
 * [Elasticsearch Case Study 1) Data 노드에 Index/Shard 구성 시작 해보기](http://jjeong.tistory.com/1318)
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
-* [Recap: Elasticsearch Machine Learning Forecasting on Time Series Data](https://www.elastic.co/blog/recap-elasticsearch-machine-learning-forecasting-on-time-series-data)
 * [Building a Streaming Analytics Data Stack](https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661)
 * [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
   * [Honza Král - Beyond the basics with Elasticsearch](https://www.youtube.com/watch?v=yIixWzjTNog)
@@ -223,7 +222,6 @@ ElasticSearch - Lucene
 * [클러스터 rolling restarts](http://lng1982.tistory.com/m/315)
 * [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
 * [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
-* [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
 * [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
 * [엘라스틱서치가 쉬웠던 이유](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EA%B0%80-%EC%89%AC%EC%9B%A0%EB%8D%98-%EC%9D%B4%EC%9C%A0/)
 * [Language Models in Elasticsearch](https://www.elastic.co/blog/language-models-in-elasticsearch)
@@ -441,6 +439,9 @@ ElasticSearch - Lucene
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg)
 * [Elasticsearch Machine Learning을 이용한 다국어 로그 분류](https://www.elastic.co/kr/blog/categorizing-non-english-log-messages-in-machine-learning-for-elasticsearch)
+* [Recap: Elasticsearch Machine Learning Forecasting on Time Series Data](https://www.elastic.co/blog/recap-elasticsearch-machine-learning-forecasting-on-time-series-data)
+* [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
+* [IT Operations with Machine Learning Demo](https://www.youtube.com/watch?v=mqEqBN0_Lnc)
 
 # Plugin
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)

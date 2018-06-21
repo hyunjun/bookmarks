@@ -123,6 +123,7 @@ TensorFlow
 * [Introducing tf-seq2seq: An Open Source Sequence-to-Sequence Framework in TensorFlow](https://research.googleblog.com/2017/04/introducing-tf-seq2seq-open-source.html)
 * [API guide for tf.contrib.legacy_seq2seq](https://github.com/j-min/tf_tutorial_plus/tree/master/RNN_seq2seq/legacy_seq2seq)
 * [RNNCell_linear.ipynb](https://github.com/j-min/tf_tutorial_plus/blob/master/RNN_seq2seq/RNNCells/RNNCell_linear.ipynb)
+* [Seq2Seq model in TensorFlow](https://towardsdatascience.com/seq2seq-model-in-tensorflow-ec0c557e560f)
 * [TensorFlow — Sequence to Sequence](https://medium.com/@ilblackdragon/tensorflow-sequence-to-sequence-3d9d2e238084)
 * [T2T: Tensor2Tensor Transformers - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
   * [Tensor2Tensor 라이브러리로 딥 러닝 연구를 가속화할 수 있습니다](https://developers-kr.googleblog.com/2017/07/accelerating-deep-learning-research.html)

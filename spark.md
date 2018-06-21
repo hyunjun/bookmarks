@@ -299,6 +299,7 @@
     val dataset: Dataset[XXX] = ...
     dataset.repartition(dataset.rdd.getNumPartitions * 2).map(YYY)...
     ```
+* [Apache Spark Scheduler](https://databricks.com/session/apache-spark-scheduler)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -660,6 +661,7 @@
   * 'exactly once' 주제에서 Apache Spark의 Structured Streaming으로 중복 제거를 구현하는 방법에 대해 설명
   * 워터마크 기반으로 한 중복 제거 외에도 mapGroupsWithState를 사용하여 상태 저장 집계에 사용자 정의 로직을 추가 할 수 있는 방법에 대해 간략하게 설명
 * [Internals of Spark Streaming](http://bytecontinnum.com/ioss/)
+* [Why is My Stream Processing Job Slow?](https://databricks.com/session/why-is-my-stream-processing-job-slow)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

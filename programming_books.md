@@ -79,6 +79,7 @@ Programming Books
   * 005.135-스884ㅍ
 * (한라 NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
   * 005.133-피64ㅍ
+* (NOT YET) [알고리즘, 인생을 계산하다](https://m.blog.naver.com/hl4gnn/221228428136)
 
 # Amazon AWS
 

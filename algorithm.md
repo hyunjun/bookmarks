@@ -123,6 +123,7 @@ Algorithm
   * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는? ](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
 * [Shortest Range in K sorted lists](https://www.youtube.com/watch?v=Fqal25ZgEDo&t=3s)
 * **[qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)** 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
+* [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

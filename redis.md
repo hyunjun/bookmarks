@@ -25,6 +25,7 @@ Redis
 * [Redis Conf 2016: Redis in a Multi-Tenant Environmnet](https://www.youtube.com/watch?v=aZ64pM7OVaw)
 * [RedisConf18: Building Light weight Microservices Using Redis - Redis Labs](https://www.youtube.com/watch?v=z25CPqJMFUk)
 * [RedisConf18: Implementing a New Data Structure for Redis - Redis Labs](https://www.youtube.com/watch?v=pmxaztRsoF4)
+* [RedisConf18 발표 후기](https://engineering.linecorp.com/ko/blog/detail/306)
 * [Redis Networking Nerd Down: For Lovers of Packets and Jumbo Frames- John Bullard, Distil Networks](http://www.slideshare.net/RedisLabs)
 * [입 개발 Redis 접속이 안되요!!! – Protected Mode](https://charsyam.wordpress.com/2016/07/11/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A0%91%EC%86%8D%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94-protected-mode/)
 * [Developing a Redis Module](https://www.youtube.com/watch?v=LPxx4QPyUPw)
@@ -169,3 +170,10 @@ Redis
   * [Flask by Example – Implementing a Redis Task Queue](https://realpython.com/flask-by-example-implementing-a-redis-task-queue/)
   * [Walkthrough: Deploying a Flask app with Redis Queue (RQ) Workers and Dashboard using Kubernetes](http://tiao.io/posts/walkthrough-deploying-a-flask-app-with-redis-queue-rq-workers-and-dashboard-using-kubernetes/)
   * [Simple Job Queues with django_rq](https://www.imagescape.com/blog/2013/06/13/simple-job-queues-django_rq/)
+
+# Streams
+* [Introduction to Redis Streams](https://redis.io/topics/streams-intro)
+* [Kafka & Redis Streams](https://hackernoon.com/introduction-to-redis-streams-133f1c375cd3)
+* [Streams: a new general purpose data structure in Redis](http://antirez.com/news/114)
+* [Redis Streams and the Unified Log ](https://brandur.org/redis-streams)
+* [The Design of Redis StreamsSalvatore Sanfilippo, Creator of Redis](https://www.youtube.com/watch?v=Ty1rQuRJijk)
