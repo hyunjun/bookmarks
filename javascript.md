@@ -183,6 +183,7 @@ Javascript
 * [Javascript #1 - 맛보기](https://nhnent.dooray.com/share/posts/nuu9HFvCRV2oVlrOWNkQeQ)
 * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
+* [입문자가 겪기 쉬운 console.log 실수](https://www.zerocho.com/category/JavaScript/post/5b2b45cf1350f9001b662ba6)
 * [codepen.io/2016/popular/pens](http://codepen.io/2016/popular/pens/)
 * [awesome-js](https://github.com/ggomaeng/awesome-js)
 * [Awesome-Javascript](https://github.com/DaeGwang/awesome-javascript)
@@ -1305,6 +1306,7 @@ Javascript
 * [create-react-app --scripts-version=react-scripts-ts를 이용하여 프로젝트 구성](https://github.com/kjk7034/create-react-app-typescript)
 * [Presentational and Container Components](https://medium.com/@seungha_kim_IT/presentational-and-container-components-%EB%B2%88%EC%97%AD-1b1fb2e36afb)
 * [ReactEurope 2018](https://devwaf.blogspot.com/2018/06/reacteurope-2018.html)
+* [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

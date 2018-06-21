@@ -135,6 +135,7 @@ ElasticSearch - Lucene
   * [S. W. Jung - Kibana Update](https://www.youtube.com/watch?v=UAEgj2P9eKw)
     * [Kibana Update: Recap Elastic{ON} 2018](https://github.com/sw-jung/recap_2018_elasticon_kibana_update)
   * [swiftype 사이트 검색 기능 소개](https://www.youtube.com/watch?v=_fJ-OCdXGR8)
+* [2018-06-21 Elastic Seoul Meetup - JM.Kim - 6.3 release & Nori Analyzer](https://www.youtube.com/watch?v=80WiaOdnjXU)
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
@@ -228,6 +229,7 @@ ElasticSearch - Lucene
 * [Elasticsearch development case](https://www.slideshare.net/ssuser176324/elasticsearch-development-case)
 * [NSHC: Security in the Age of the Dark Web](https://www.elastic.co/kr/elasticon/tour/2017/seoul/security-in-the-age-of-the-dark-web)
 * [How to setup TLS for Elasticsearch, Kibana, Logstash and Filebeat with offline install in Linux](https://www.elastic.co/blog/how-to-setup-tls-for-elasticsearch-kibana-logstash-filebeat-with-offline-install-in-linux)
+* [Latest and Greatest at Elastic](https://www.elastic.co/kr/content-pack)
 
 # Docker
 * Dockerfile

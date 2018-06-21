@@ -212,6 +212,7 @@ Vision
   * [Explore the Galaxy of images with Cloud Vision API](https://cloud.google.com/blog/big-data/2016/05/explore-the-galaxy-of-images-with-cloud-vision-api)
     * [Cloud Vision API Demo](http://vision-explorer.reactive.ai/)
 * [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
+* [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/)
 * [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)
 * [fb-vision-bot](https://github.com/jshin49/fb-vision-bot)
 * [Hand Keypoint Detection in Single Images using Multiview Bootstrapping](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html)

@@ -637,6 +637,7 @@ Python
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
+  * [practice - recursive call does NOT work](https://github.com/hyunjun/practice/blob/master/python/test-basic/map_cannot_do_recursive_call.py)
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
   * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
@@ -1353,6 +1354,7 @@ Python
 * [Playing With GraphQL + Python Flask](https://hackernoon.com/playing-with-graphql-python-flask-84ead622461c)
 * [GraphQL in the Python World](http://nafiulis.me/graphql-in-the-python-world.html)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
+* [GraphQL in Python and Django](https://www.youtube.com/watch?v=RXrDdriOcxw)
 
 # IPython & [Jupyter](http://jupyter.org/try)
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)

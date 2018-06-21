@@ -120,7 +120,9 @@ Machine Learning
 * [Machine Learning Tutorials](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
   * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/)
 * [7 Free Machine Learning Courses](http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses)
-* [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* A Visual Introduction to Machine Learning
+  * [Part 1](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+  * [Part 2 Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [머피의 머신러닝 : Gaussian Processes](http://www.slideshare.net/JungkyuLee1/gaussian-processes)
 * [머피의 머신러닝 13 Sparse Linear Model](http://www.slideshare.net/JungkyuLee1/13-sparse-linear-model)

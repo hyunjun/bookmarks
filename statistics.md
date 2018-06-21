@@ -159,6 +159,7 @@ Statistics
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 * [Bias-Variance Tradeoff](https://jkeun.github.io/2018-05-03/bias-variance-tradeoff/)
 * [Predicting NYC Real Estate Prices with Probabilistic Programming](http://blog.fastforwardlabs.com/2017/03/15/predicting-nyc-real-estate-prices-with-probabilistic-programming.html)
+* [Degrees of Freedom](https://jkeun.github.io/2017-07-24/degrees-of-freedom)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
