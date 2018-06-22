@@ -1478,6 +1478,7 @@ Deep Learning
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 * [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
+* [DeepChem - a Python library democratizing deep learning for science](https://deepchem.io/index.html)
 * [DeepOSM - Classify roads and features in satellite imagery, by training neural networks with OpenStreetMap (OSM) data](https://github.com/trailbehind/DeepOSM)
 * [DL4J Deep Learning for Java](http://deeplearning4j.org/)
   * [DL4J Java자바를 위한 딥 러닝](http://deeplearning4j.org/kr-index.html)
