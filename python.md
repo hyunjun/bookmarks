@@ -923,6 +923,7 @@ Python
 * [asyncio : 단일 스레드 기반의 Nonblocking 비동기 코루틴 완전 정복](https://soooprmx.com/archives/6882)
 * [async with : 비동기 컨텍스트 매니저](https://soooprmx.com/archives/8629)
 * [How the heck does async/await work in Python 3.5?](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
+* [파이썬의 await vs return vs return await](https://winterj.me/python-await-vs-return/)
 * [How to Scrape and Parse 600 ETF Options in 10 mins with Python and Asyncio](http://www.blackarbs.com/blog/how-to-scrape-and-parse-600-etf-options-in-10-mins-with-python-and-asyncio/5/18/2017)
 * [Understanding Asynchronous Programming in Python](https://dbader.org/blog/understanding-asynchronous-programming-in-python)
 * [Exploring Python 3’s Asyncio by Example](http://www.giantflyingsaucer.com/blog/?p=5557)

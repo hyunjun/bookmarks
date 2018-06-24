@@ -226,6 +226,7 @@ NLP
   * [Compositional Attention Networks for Machine Reasoning](https://openreview.net/forum?id=S1Euwz-Rb)
 * [NLP with attention](https://github.com/dsindex/blog/wiki/%5Battention%5D-NLP-with-attention)
 * [CodeSandbox - an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io/)
+* [Team AURA - 1st Meeting Summary](https://www.ai-lab.kr/labs/aura-raebjang-gimhyeonu/team-aura-1st-meeting-summary)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -550,6 +551,8 @@ NLP
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [Daon 형태소 분석기](https://github.com/rasoio/daon)
+* [decaNLP - The Natural Language Decathlon: A Multitask Challenge for NLP](https://github.com/salesforce/decaNLP)
+  * [The Natural Language Decathlon](https://einstein.ai/research/the-natural-language-decathlon)
 * [fastText is a library for efficient learning of word representations and sentence classification](https://github.com/facebookresearch/fastText)
   * C++, 추가적인 의존 라이브러리 없음
   * Deep Learning 기반의 분류기와 정확도는 비슷하면서도 속도가 빠름

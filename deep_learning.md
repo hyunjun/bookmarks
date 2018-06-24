@@ -684,6 +684,7 @@ Deep Learning
 * [What a Disentangled Net We Weave: Representation Learning in VAEs (Pt. 1)](https://towardsdatascience.com/what-a-disentangled-net-we-weave-representation-learning-in-vaes-pt-1-9e5dbc205bd1)
 * [Naver Tech Talk: 오토인코더의 모든 것 (2017년 11월)](https://d2.naver.com/news/0956269)
 * [Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder, Oct 12 2017 Lect 6.2](https://www.youtube.com/watch?v=uaaqyVS9-rM)
+* [Variational Auto Encoding](https://github.com/MingyuKim87/VAE)
 
 # Backpropagation
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)
@@ -1738,6 +1739,10 @@ CVPR2016)
 * [StarCraft II RL Tutorial 1 - Deepmind's StarCraft II RL Environment](http://chris-chris.ai/2017/08/30/pysc2-tutorial1/)
 * [StarCraft II RL Tutorial 2 - Deepmind's pysc2: Observations](http://chris-chris.ai/2017/11/06/pysc2-tutorial2/)
 * [SSCAIT Student StarCraft AI Tournament & Ladder](https://sscaitournament.com/)
+* [Introduction and Collecting Minerals - Python AI in StarCraft II p.1](https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/)
+  * [Introduction and Collecting Minerals - Python AI in StarCraft II tutorial p.1](https://www.youtube.com/watch?v=v3LJ6VvpfgI)
+* [Workers and Pylons - Python AI in StarCraft II p.2](https://pythonprogramming.net/workers-pylons-starcraft-ii-ai-python-sc2-tutorial/?completed=/starcraft-ii-ai-python-sc2-tutorial/)
+  * [Workers and Pylons - Python AI in StarCraft II tutorial p.2](https://www.youtube.com/watch?v=5U2WdZxJhEE)
 * [Building a Deep Neural Network to play FIFA 18](https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675)
 * [Using Deep Learning to improve FIFA 18 graphics](https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)

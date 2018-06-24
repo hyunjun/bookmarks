@@ -571,6 +571,7 @@ TensorFlow
   * tensorflow-js로 만들어본 RL 예제
     * [1. environment](https://hulk89.github.io/reinforcement%20learning/2018/06/14/tfjs_RL/)
     * [2.  Deep-sarsa](https://hulk89.github.io/reinforcement%20learning/2018/06/14/tfjs_RL2/)
+  * [How to build a Teachable Machine with TensorFlow.js](https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

@@ -298,6 +298,7 @@ Apache
 * [Scalability of Kafka Messaging using Consumer Groups](http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/)
 * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
 * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
+* [Announcing AMQ Streams: Apache Kafka on OpenShift](https://developers.redhat.com/blog/2018/05/07/announcing-amq-streams-apache-kafka-on-openshift/)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
