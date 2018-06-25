@@ -791,6 +791,7 @@ NLP
 * [Relational Network Review](https://seujung.github.io/2018/05/29/rl_network/)
 * [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 * [2018 06-11-active-question-answering](https://www.slideshare.net/WoongwonLee/2018-0611activequestionanswering)
+* [Bilinear attention networks for visual question answering](https://github.com/jnhwkim/ban-vqa)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

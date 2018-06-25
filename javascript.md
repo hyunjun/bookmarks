@@ -323,6 +323,7 @@ Javascript
 * 2018년과 이후 JavaScript의 동향
   * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
   * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
+  * [브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 * JS로 배우는 자료구조와 알고리즘
@@ -1307,6 +1308,7 @@ Javascript
 * [Presentational and Container Components](https://medium.com/@seungha_kim_IT/presentational-and-container-components-%EB%B2%88%EC%97%AD-1b1fb2e36afb)
 * [ReactEurope 2018](https://devwaf.blogspot.com/2018/06/reacteurope-2018.html)
 * [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
+* [Debounce SyntheticEvent](https://hyunseob.github.io/2018/06/24/debounce-react-synthetic-event/)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1484,6 +1486,9 @@ Javascript
 * [TypeScript와 Flow: 자바스크립트 개발에 정적 타이핑 도입하기](https://www.youtube.com/watch?v=H16gTwa2J7g)
 * [Why We Chose Typescript](https://redditblog.com/2017/06/30/why-we-chose-typescript/)
 * [우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
+* [Reason ML](https://reasonml.github.io)
+  * [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
+  * [JavaScript vs. TypeScript vs.  ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

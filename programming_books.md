@@ -984,8 +984,8 @@ Programming Books
 	* 005.1-장65ㅇ
 * (한라 NOT YET) (빅데이터 분석의 첫걸음) R로 배우는 코딩
 	* 2018.04
-* (NOT YET) [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
-	* 2018.05 한라
+* [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
+	* 한라 005.11-위874ㅇ
 * (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
 
 # Scala

@@ -436,6 +436,7 @@ Docker
   * [#6 - 실제 서비스 배포해보기](http://bcho.tistory.com/1261)
   * [#7 - 서비스 (Service)](http://bcho.tistory.com/1262)
   * [#8 - Ingress](http://bcho.tistory.com/1263)
+  * [#9 - HealthCheck](http://bcho.tistory.com/1264)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
@@ -449,6 +450,7 @@ Docker
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
+* [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

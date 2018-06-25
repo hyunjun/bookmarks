@@ -1,6 +1,5 @@
 R
 =
-* [R을 이용한 데이터 분석 실무](http://r4pda.co.kr/)
 * [R – 체계적 위험 척도 베타 계수 자동 계산](http://www.creativeworksofknowledge.com/2015/04/10/calculating-beta-coefficient-using-r/)
 * [The easiest way to learn R programming and data science](https://www.datacamp.com/)
 * [김형준](http://soeque1.github.io/r_slide/)
@@ -91,6 +90,7 @@ R
 * [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html)
   * tidyverse, keras, tfruns, shiny 라이브러리를 이용해서 텍스트 유사도 접근하는 방식에 대한 예제
 * [R에서 Keras 튜토리얼 돌려보기](https://lovetoken.github.io/r/machinelearning/keras/2018/06/02/keras_tutorial.html)
+* [speech-keras](https://github.com/dfalbel/speech-keras)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
@@ -268,6 +268,8 @@ R
 * [프로야구_타자스탯_수집하기.R](https://mrkevinna.github.io/MLwR/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC_%ED%83%80%EC%9E%90%EC%8A%A4%ED%83%AF_%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
 
 # Book
+* [R을 이용한 데이터 분석 실무](http://r4pda.co.kr/)
+  * [R을 이용한 데이터 처리 & 분석 실무](https://thebook.io/006723/)
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
 * **[Exploratory Data Analysis with R](https://leanpub.com/exdata)**

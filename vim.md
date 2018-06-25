@@ -4,6 +4,8 @@ Vim
 * [A vim Tutorial and Primer](https://danielmiessler.com/study/vim/)
 * [openvim.com](http://www.openvim.com/)
 * [hea-www.harvard.edu/~fine/Tech/vi.html](http://hea-www.harvard.edu/~fine/Tech/vi.html)
+* [Vim Is The Perfect IDE](https://dev.to/allanmacgregor/vim-is-the-perfect-ide-e80)
+  * [.vimrc example](https://gist.github.com/hyunjun/f4103247e247bc802b90#file-vimrc-example)
 * buffers
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
