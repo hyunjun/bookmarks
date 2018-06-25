@@ -185,6 +185,7 @@ Nomad & Remote
 * [0. 프롤로그](https://brunch.co.kr/@project1/5)
 * [내 학위가 독일에서 인정받는 지 확인하기, Anabin](http://hsoochun.tistory.com/24)
 * [독일 프로그래머](http://programmeringermany.blogspot.com/2017/05/blog-post.html)
+  * [출국 전에 한 일](https://programmeringermany.blogspot.com/2017/07/blog-post_18.html)
 * [독일 이주시, 준비해야 할 일](https://pgr21.com/?b=8&n=76403)
 * [Working in Germany](https://www.thelocal.de/tag/working+in+germany)
 

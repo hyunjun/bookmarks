@@ -399,6 +399,7 @@ Clojure
 * [de-jong - ClojureScript de Jong Attractor http://cjlarose.com/de-jong](https://github.com/cjlarose/de-jong)
 * [Dirac is a Chrome DevTools fork with extra features for ClojureScript developers](https://github.com/binaryage/dirac)
   * [Dirac REPL](https://github.com/binaryage/dirac/blob/master/docs/about-repls.md)
+* [dogfort - An experimental web server framework for ClojureScript on Node.js](https://github.com/whamtet/dogfort)
 * Keechma
   * [Developing (with) Keechma – Mihael Konjevic](https://www.youtube.com/watch?v=2BF6yKIpXmM&list=PLetHPRQvX4a9iZk-buMQfdxZm72UnP3C9)
 * [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
@@ -504,6 +505,7 @@ Clojure
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
 * [Duct - Experimental web app template](https://github.com/weavejester/duct)
+* [Enlive - a selector-based (à la CSS) templating library for Clojure](https://github.com/cgrand/enlive)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
 * [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
 * [event - event signalling and conditional restart](http://docs.caudate.me/hara/hara-event.html) Clojure(Script) restart system (in Common Lisp) better than exception system
