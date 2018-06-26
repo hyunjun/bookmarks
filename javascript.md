@@ -229,6 +229,7 @@ Javascript
   * [브라우저 밖의 JavaScript](http://d2.naver.com/helloworld/0473039)
 * [THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [자바스크립트 this 바인딩 우선순위](http://blog.jeonghwan.net/2017/10/22/js-context-binding.html)
+* [자바스크립트 this? 간단히 핵심만 파악하기](https://www.youtube.com/watch?v=PAr92molMHU)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * 함수형JS

@@ -408,6 +408,7 @@ Python
   * [Raymond Hettinger - Super considered super! - PyCon 2015](https://www.youtube.com/watch?v=EiOglTERPEo)
   * [`__exit__` must accept 3 arguments: type, value, traceback ](https://docs.quantifiedcode.com/python-anti-patterns/correctness/exit_must_accept_three_arguments.html)
   * [A brief tour of Python 3.7 data classes](https://hackernoon.com/a-brief-tour-of-python-3-7-data-classes-22ee5e046517)
+  * [Dynamically create a type with Python](http://henry.precheur.org/python/Dynamically%20create%20a%20type%20with%20Python.html)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -616,6 +617,7 @@ Python
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
   * [Printing Lists as Tabular Data](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
   * [\[{...}\] * 10 주의점](http://mcchae.egloos.com/11290417)
+  * [Python: copying a list the right way](http://henry.precheur.org/python/copy_list)
 * [logging](https://docs.python.org/3/howto/logging.html)
   * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
