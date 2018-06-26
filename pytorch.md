@@ -117,6 +117,7 @@ PyTorch
 * [Braindecode - A deep learning toolbox to decode raw time-domain EEG](https://robintibor.github.io/braindecode/)
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
+* [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
 * [fairseq-py - Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/facebookresearch/fairseq-py)

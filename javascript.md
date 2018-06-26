@@ -1569,3 +1569,4 @@ Javascript
 * [옛날 웹 개발자가 잠깐 맛 본 Vue.js 소개](http://javacan.tistory.com/entry/OKKY-PT-Vuejs-intro-for-old-web-developer)
 * [VueJS 폼 검증](http://blog.jeonghwan.net/2018/05/31/vue-form-validation.html)
 * [배민찬은 Vue를 어떻게 사용하나요?](http://woowabros.github.io/experience/2018/06/07/vue-story-of-baminchan.html)
+* [NAVER Tech Talk: FE devtalk 11회 (2018년 4월)](https://d2.naver.com/news/6104477)

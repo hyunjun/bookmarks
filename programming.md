@@ -475,6 +475,7 @@ Programming
 * [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
+* [소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [코드 리뷰에 대해서](https://brunch.co.kr/@cleancode/35)
 * [오픈소스 개발자 이야기 20170701 오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)

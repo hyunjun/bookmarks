@@ -280,6 +280,7 @@ Web
   * [Rails에서 Swagger를 이용하여 API Docs 사용 시 인증 처리](http://www.popit.kr/rails%EC%97%90%EC%84%9C-swagger%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-api-docs-%EC%82%AC%EC%9A%A9-%EC%8B%9C-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC/)
   * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
+  * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/detail/292)
 * [Trafik - A modern reverse proxy](http://traefik.github.io/)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
