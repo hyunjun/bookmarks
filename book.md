@@ -43,6 +43,9 @@ Book
 * [반 고흐의 귀](https://juilkim.com/2017/11/05/%EB%B2%84%EB%82%98%EB%8E%83-%EB%A8%B8%ED%94%BC%EC%9D%98-%E3%80%8C%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%9D%98-%EA%B7%80%E3%80%8D/)
   * 탐라 문653.269머849ㅂ
   * ★★★★☆ 2018.04.09~11 [반 고흐의 귀](https://medium.com/@strncpy/%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%9D%98-%EA%B7%80-7506dbbc502f)
+* [남무성의 만화로 보는 재즈의 역사 JAZZ IT UP](https://m.blog.naver.com/shmj21/221196111286)
+  * 탐라 문673.53남37ㅈ
+  * ★★★★★ ~2018.06.27 올해 들어 읽은 책 중에서는 단연코 최고이고, 최근 몇 년간 이렇게 만족하며 읽은 책이 몇 권이나 있는지 모르겠다. jazz의 역사를 거의 전부(아쉽게도 1990년대까지) 다룰 뿐만 아니라, 음악가들의 계보, 명반 등등을 정말 재미있게 잘 그려냈다. 시간만 맞으면 하나 하나 차례로 들으며 다시 계속 읽고 싶다
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
 * (진중권의) 서양미술사 : 고전예술 편
@@ -53,6 +56,8 @@ Book
   * 한라 609.2-진76ㅈ
 * (NOT YET) (진중권의)서양미술사 : 인상주의 편미학의 눈으로 보는 현대미술의 태동
 	* 2018.05 탐라
+* (NOT YET) [남무성 ‘Paint It Rock’ 시리즈](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=120951)
+  * 한라 673.5309-남36ㅍ 1권
 
 # Baby
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)

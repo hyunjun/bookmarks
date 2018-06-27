@@ -1033,6 +1033,7 @@ Javascript
 * [pkg로 Node.js 애플리케이션의 하나의 바이너리로 만들기](https://blog.outsider.ne.kr/1379)
 * [pkg로 바이너리를 컴파일할 때 Native 애드온을 같이 사용할 때의 오류](https://blog.outsider.ne.kr/1381)
 * [Carlos Justiniano](http://cjus.me/)
+* [Node.js v10.5.0 Worker PR FAQ](https://tech.ssut.me/2018/06/26/node-js-v10-5-0-worker-pr-faq/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

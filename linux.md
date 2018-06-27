@@ -288,6 +288,8 @@ Linux
   * [Systemd is the best example of Suck](http://suckless.org/sucks/systemd)
   * [hastur is a tool for launching systemd-nspawn containers without need of manual configuration](https://github.com/seletskiy/hastur)
   * [systemd 살펴보기](http://lunatine.net/about-systemd/)
+* systemtap
+  * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tail`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`

@@ -584,6 +584,7 @@ Programming
 * [What’s the Value of CI/CD?](https://builttoadapt.io/whats-the-value-of-ci-cd-c2e6c39450bd)
 * [Deployment Pipeline: set it up in minutes not months](https://codeburst.io/deployment-pipeline-set-it-up-in-minutes-not-months-f5e226af8f85)
 * [How to choose the right container orchestration and how to deploy it](https://medium.freecodecamp.org/how-to-choose-the-right-container-orchestration-and-how-to-deploy-it-41844021c241)
+* [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)

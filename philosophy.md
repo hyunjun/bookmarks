@@ -34,6 +34,7 @@ Philosophy
   * [Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/) 영미권 학계에서 가장 인정받는 학자들이 각 주제에 대해 깊이 있게 글을 쓴 철학 사전
   * [Internet Encyclopedia of Philosophy](http://www.iep.utm.edu/)
 * [한눈에 보는 현대철학](http://www.artnstudy.com/Event/?EventKey=561)
+* [왜 철학을 공부하는가?](http://www.mimul.com/pebble/default/2018/06/26/1530012035058.html)
 
 # 유교
 * [너희가 유학을 아느냐: 공자에서 양자까지](http://slownews.kr/42395)

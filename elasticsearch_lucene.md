@@ -243,6 +243,7 @@ ElasticSearch - Lucene
 * [Docker & Kubernetes Log Collection and Monitoring with Beats and Elasticsearch](https://www.elastic.co/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers?blade=facebook&hulk=social)
 * [elasticsearch on docker - wsl(windows subsystem linux)에서](http://godsman.tistory.com/76)
 * [elasticsearch-docker 만들어 보기](http://jjeong.tistory.com/1321)
+* [Elastic Stack으로 Docker 컨테이너와 Kubernetes에서 실행되는 애플리케이션 모니터링하기(https://www.elastic.co/kr/blog/monitoring-an-application-running-in-docker-containers-and-kubernetes-with-the-elastic-stack)
 
 # Elasticsearch 2.x
 * [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
@@ -278,6 +279,7 @@ ElasticSearch - Lucene
 * [Synonym filter position 문제 개선](http://jjeong.tistory.com/1325)
 * [Previewing Elasticsearch 6.3 SQL Feature](https://medium.com/@mustafaakin/previewing-elasticsearch-6-3-sql-feature-2d3a1d60cab4) 6.3부터 SQL 지원. 프리뷰
 * [Elasticsearch 에서 Mapping 의 중요성을 느끼다](http://blog.leekyoungil.com/?p=434)
+* [6.3 설치 변경 내용](http://jjeong.tistory.com/1333)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
