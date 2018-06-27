@@ -280,6 +280,7 @@ ElasticSearch - Lucene
 * [Previewing Elasticsearch 6.3 SQL Feature](https://medium.com/@mustafaakin/previewing-elasticsearch-6-3-sql-feature-2d3a1d60cab4) 6.3부터 SQL 지원. 프리뷰
 * [Elasticsearch 에서 Mapping 의 중요성을 느끼다](http://blog.leekyoungil.com/?p=434)
 * [6.3 설치 변경 내용](http://jjeong.tistory.com/1333)
+* [6.1.1 elasticsearch 설치 및 환경 설정](https://blog.naver.com/naran290/221307943343)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
