@@ -533,6 +533,7 @@ Javascript
 * [Caching GraphQL results in your CDN](https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2)
 * [한 단계씩 배워보는 GraphQL](https://engineering.huiseoul.com/%ED%95%9C-%EB%8B%A8%EA%B3%84%EC%94%A9-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-graphql-421ed6215008)
 * [How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
+* [GraphQL 그리고 NodeJS로 영화API 만들기](https://academy.nomadcoders.co/courses/enrolled/357405)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)

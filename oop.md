@@ -66,6 +66,7 @@
 * [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 * [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 * [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
+* [Design Patterns](https://refactoring.guru/design-patterns)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)

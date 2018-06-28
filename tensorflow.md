@@ -88,11 +88,8 @@ TensorFlow
   * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU)
 * [TF-KR 첫 모임: Machine Intelligence made easy: Vision/Speech API, TensorFlow and Cloud ML](https://www.youtube.com/watch?v=foJwi2t3EU8)
   * [Machine Intelligence made easybyKazunori Sato](http://sssslide.com/speakerdeck.com/kazunori279/machine-intelligence-made-easy)
-* [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
-  * [Tensorflow in Docker](http://www.slideshare.net/EricAhn/tensorflow-in-docker)
 * [TF-KR 첫모임: 텐스플로우를 이용한 얼굴 인식 구현](https://www.youtube.com/watch?v=EB2A2ej70Pw)
 * [Tfk 6618 tensor_flow로 얼굴인식 구현 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
-* [Dockerfile for Pydata Eco Systems with Tensorflow](https://github.com/TeamLab/data_school_at_gachon/tree/master/setup/docker-images/python_34)
 * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
 * [Jupyter notebok tensorboard 실행하기_20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
 * [TensorBoard support Embedding Visualization](https://tensorflow.blog/2016/11/30/tensorboard-support-embedding-visualization/)
@@ -172,7 +169,6 @@ TensorFlow
   * [The CUCUMBER-9 dataset](https://github.com/workpiles/CUCUMBER-9)
 * [DRAW(Deep Recurrent Attentive Writer)](https://github.com/ericjang/draw/blob/master/draw.py)
 * [TensorFlow in Practice with Rajat Monga](http://softwareengineeringdaily.com/2016/08/18/tensorflow-in-practice-with-rajat-monga/)
-* [TensorFlow on GTX 10-series with Docker](https://github.com/est-ai/tensorflow-on-pascal)
 * [Deep Deterministic Policy Gradients in TensorFlow](http://pemami4911.github.io/blog_posts/2016/08/21/ddpg-rl.html#References)
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
 * [Text To Image Synthesis Using Thought Vectors Join the chat at https://gitter.im/text-to-image/Lobby This is an experimental tensorflow implementation of synthesizing images from captions using Skip Thought Vectors](https://github.com/paarthneekhara/text-to-image)
@@ -426,6 +422,15 @@ TensorFlow
 * [TensorFlow를 이용하여 나만의 사진으로 CNN 학습시켜보기(1)](http://emaru.tistory.com/25)
 * [실제 이미지로 CNN 모델을 구현하여 나만의 이미지 분류기를 만들 수 있을까?](http://www.birc.co.kr/2018/02/26/%EC%8B%A4%EC%A0%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-cnn-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
 
+# Docker
+* [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
+  * [Tensorflow in Docker](http://www.slideshare.net/EricAhn/tensorflow-in-docker)
+* [TensorFlow on GTX 10-series with Docker](https://github.com/est-ai/tensorflow-on-pascal)
+* [Deepo - a series of Docker images0](https://github.com/ufoym/deepo)
+* [Dockerfile](https://github.com/kanziw/TensorFlow-Tutorials/blob/kanziw/Dockerfile)
+* [Dockerfile for Pydata Eco Systems with Tensorflow](https://github.com/TeamLab/data_school_at_gachon/tree/master/setup/docker-images/python_34)
+* [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
+
 # GAN
 * [Awesome-GANs with Tensorflow](https://github.com/kozistr/Awesome-GANs)
 * [Energy-based generative adversarial network (EBGAN)](https://arxiv.org/abs/1609.03126)
@@ -531,7 +536,6 @@ TensorFlow
   * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
   * [Onsets and Frames: Dual-Objective Piano Transcription](https://magenta.tensorflow.org/onsets-frames) polyphonic 피아노 음악 녹음을 위한 새로운 모델
 * [mltest: Automatically test neural network models in one function call](https://medium.com/@keeper6928/mltest-automatically-test-neural-network-models-in-one-function-call-eb6f1fa5019d)
-* [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
 * [Nvidia-docker 기반 Tensorflow 사용하기](https://www.facebook.com/notes/hyeon-gab-shin/1nvidia-docker-%EA%B8%B0%EB%B0%98-tensorflow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/1187222141322502)
 * [paddlepaddle.org](http://www.paddlepaddle.org/)
   * [PaddlePaddle: Baidu’s DL Framework](https://tensorflowkorea.wordpress.com/2016/08/31/paddlepaddle-baidus-dl-framework/)

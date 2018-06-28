@@ -165,8 +165,8 @@ Interview
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
-* [머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)
-* [Building Google Photos using Microservices Part I](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
+* **[Building Google Photos using Microservices Part I](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)**
+  * reverse proxy, dynamic service discovery - service registry, heartbeat
 * **[ipify: 300억 요청 처리, 그 너머로](http://www.haruair.com/blog/4108)**
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)

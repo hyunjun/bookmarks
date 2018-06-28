@@ -1210,6 +1210,7 @@ Python
 * [Building an API with Django REST Framework and Class-Based Views](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)
 * [Python으로 카카오톡 플러스친구 만들기](http://codeac.tistory.com/entry/Python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
 * [Summernote - a simple WYSIWYG editor](https://github.com/summernote/django-summernote)
+* [Django REST framework - a powerful and flexible toolkit for building Web APIs](http://www.django-rest-framework.org/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
