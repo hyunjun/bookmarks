@@ -1866,6 +1866,7 @@ CVPR2016)
 * [TDM: From Model-Free to Model-Based Deep Reinforcement Learning](http://bair.berkeley.edu/blog/2018/04/26/tdm/)
 * [RL Basics: 1. Markov Process](https://brunch.co.kr/@chris-song/77)
 * [Ruslan Salakhutdinov - Neural Map: Structured Memory for Deep Reinforcement Learning](https://www.youtube.com/watch?v=Uj9cPQXaWrw)
+* [안.전.제.일. 강화학습!](https://www.slideshare.net/DongMinLee32/ss-103395612)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

@@ -1051,6 +1051,7 @@ Programming
 * **[결제 시스템 성능, 부하, 스트레스 테스트](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)**
 * [Why I now appreciate testing, and why you should, too](https://medium.freecodecamp.org/why-i-now-appreciate-testing-and-why-you-should-too-74d48c67ab72)
 * [TDD 잘알못을 위한 돌직구 세미나 참석 후기](http://jojoldu.tistory.com/306)
+* [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

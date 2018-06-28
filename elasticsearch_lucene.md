@@ -230,6 +230,7 @@ ElasticSearch - Lucene
 * [NSHC: Security in the Age of the Dark Web](https://www.elastic.co/kr/elasticon/tour/2017/seoul/security-in-the-age-of-the-dark-web)
 * [How to setup TLS for Elasticsearch, Kibana, Logstash and Filebeat with offline install in Linux](https://www.elastic.co/blog/how-to-setup-tls-for-elasticsearch-kibana-logstash-filebeat-with-offline-install-in-linux)
 * [Latest and Greatest at Elastic](https://www.elastic.co/kr/content-pack)
+* [HighLevelRestClient 를 이용한 Bulk Indexing 로컬 테스트 결과](http://jjeong.tistory.com/1336)
 
 # Docker
 * Dockerfile
