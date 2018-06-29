@@ -265,6 +265,7 @@ Clojure
   * [Orchestra : complete instrumentation for clojure.spec](https://github.com/jeaye/orchestra)
   * [spectator](https://github.com/ioRekz/spectator)
   * [spell-spec - clojure.spec.alpha helpers that check for misspelled map keys, with expound integration](https://github.com/bhauman/spell-spec)
+  * [Robustness and Observability Without the Pain](https://github.com/gnl/ghostwheel)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow)
 * core.async

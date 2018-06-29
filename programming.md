@@ -672,6 +672,7 @@ Programming
   * [MQTT 적용을 통한 중계시스템 개선](http://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html)
   * [Mqtt Stress Test](http://woowabros.github.io/experience/2017/08/28/mqtt_stress_test.html)
   * [MQTT 를 이용한 주문 시스템 개선](https://ash84.net/2018/03/23/emocon-ss-2018-mqtt/)
+  * [Raspberry Pi: Install and Test Mosquitto MQTT Broker on Raspberry Pi 3 (Raspbian Stretch OS)](http://www.apdaga.com/2018/01/raspberry-pi-install-and-test-mosquitto.html)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [What is RabbitMQ?](https://www.youtube.com/watch?v=QQXSEXkZalU)
@@ -1052,6 +1053,7 @@ Programming
 * [Why I now appreciate testing, and why you should, too](https://medium.freecodecamp.org/why-i-now-appreciate-testing-and-why-you-should-too-74d48c67ab72)
 * [TDD 잘알못을 위한 돌직구 세미나 참석 후기](http://jojoldu.tistory.com/306)
 * [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491)
+* **[회고 : 두번째 개인 프로젝트를 TDD로 진행하며… #1](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-1-5345775d85bb)**
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

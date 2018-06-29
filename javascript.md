@@ -1034,6 +1034,7 @@ Javascript
 * [pkg로 바이너리를 컴파일할 때 Native 애드온을 같이 사용할 때의 오류](https://blog.outsider.ne.kr/1381)
 * [Carlos Justiniano](http://cjus.me/)
 * [Node.js v10.5.0 Worker PR FAQ](https://tech.ssut.me/2018/06/26/node-js-v10-5-0-worker-pr-faq/)
+* [라즈베리파이 NodeJs 설치](http://blog.xcoda.net/99)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1311,6 +1312,7 @@ Javascript
 * [ReactEurope 2018](https://devwaf.blogspot.com/2018/06/reacteurope-2018.html)
 * [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 * [Debounce SyntheticEvent](https://hyunseob.github.io/2018/06/24/debounce-react-synthetic-event/)
+* [번역 깊이 있는 리액트 개발 환경 구축하기](https://sujinlee.me/webpack-react-tutorial/)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
