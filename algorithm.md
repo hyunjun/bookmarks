@@ -209,6 +209,7 @@ Algorithm
 * [What Is Dynamic Programming and How To Use It](https://www.youtube.com/watch?v=vYquumk4nWw) basic with fibonacci
 * [Dynamic Programming Interview Question #1 - Find Sets Of Numbers That Add Up To 16](https://www.youtube.com/watch?v=nqlNzOcnCfs)
 * [19. Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+* [Programming Interview:Algorithm:Dynamic Programming: Coin Changing Problem](https://www.youtube.com/watch?v=tduLvFbqRXE)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)

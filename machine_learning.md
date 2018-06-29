@@ -468,6 +468,7 @@ Machine Learning
 * [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 * [Machine Learning for source code analysis - Alexander Bezzubov - FOSSASIA Summit 2017](https://www.youtube.com/watch?v=M_hOn-Ren1M)
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
+* **[머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)**
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

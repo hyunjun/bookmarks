@@ -273,5 +273,6 @@ AWS
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
+* [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)

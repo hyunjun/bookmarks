@@ -300,6 +300,7 @@ Programming
 * [Service Mesh](http://bcho.tistory.com/1260)
 
 ## Microservice MSA
+* **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
