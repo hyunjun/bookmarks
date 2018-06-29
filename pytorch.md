@@ -96,6 +96,7 @@ PyTorch
 * [Code examples in pyTorch and Tensorflow for CS230](https://github.com/cs230-stanford/cs230-code-examples)
 * [PyTorch for Natural Language Processing: A Sentiment Analysis Example](https://gsarantitis.wordpress.com/2018/06/10/pytorch-for-natural-language-processing-a-sentiment-analysis-example/)
 * [PyTorch Sentiment Analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
+* [Keras or PyTorch as your first deep learning framework](https://deepsense.ai/keras-or-pytorch/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
