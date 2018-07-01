@@ -386,7 +386,7 @@ R
     * [발표내용 중 rshinydashboard 구현 템플릿](https://github.com/Poohj/Rshinydashboard_Template_2017_userkorea)
     * [crosstalk-demo](https://github.com/jcheng5/crosstalk-demo)
   * [Shiny의 또 다른 활용](https://www.slideshare.net/ssuser7e30b2/shiny-81355160/1)
-	* [Rmarkdown + Shiny + flexdashboard package 의 조합을 통한 대쉬보드 만들기 (네이버 연관검색어를 예제로)](https://lovetoken.github.io/r/2018/03/19/flexdashboard.html)
+  * [Rmarkdown + Shiny + flexdashboard package 의 조합을 통한 대쉬보드 만들기 (네이버 연관검색어를 예제로)](https://lovetoken.github.io/r/2018/03/19/flexdashboard.html)
   * [shinyHeatmaply – a shiny app for creating interactive cluster heatmaps](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/)
   * [shinymaterial](https://ericrayanderson.github.io/shinymaterial/)
 * sp

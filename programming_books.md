@@ -2,11 +2,6 @@ Programming Books
 =================
 
 * [www.bigbook.or.kr](http://www.bigbook.or.kr/)
-* [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
-  * 한라 004.78-모298ㅋ
-  * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
-* (NOT YET) 서버/인프라를 지탱하는 기술
-* (NOT YET) 대규모 서비스를 지탱하는 기술 웹 개발자를 위한, 데이터 구조 메모리 OS DB 서버 인프라
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
@@ -16,8 +11,8 @@ Programming Books
   * 약간의 수학이 나오지만, 현실에서 수학을 어떻게 사용하는지에 대한 재미있는 이야기
 * 아파치 플링크 - Learning Apache Flink
   * 한라 005.76 데56ㅇ
-* (탐라 NOT YET) [앤서블 철저 입문](http://book.daum.net/detail/book.do?bookid=BOK00033610325IN)
-  * 2017.12
+* (NOT YET) [앤서블 철저 입문](http://book.daum.net/detail/book.do?bookid=BOK00033610325IN)
+  * 2017.12 탐라
 * [블록체인 애플리케이션 개발 실전 입문](http://wikibook.co.kr/blockchain-solidity)
   * 2017.12
   * 한라 005.11 와882ㅂ
@@ -26,17 +21,17 @@ Programming Books
 * (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
   * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
-	* 탐라 개005.1-니58ㅋ
-	* 한라 005.11-니58ㅋ
+  * 탐라 개005.1-니58ㅋ
+  * 한라 005.11-니58ㅋ
 * (NOT YET) [카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196203726&orderClick=LEA&Kc=)
-	* 2018.05 탐라
+  * 2018.05 탐라
   * [카프카, 데이터 플랫폼의 최강자](http://jhrogue.blogspot.kr/2018/05/blog-post.html)
 * (NOT YET) [반갑다 Ionic](http://bjpublic.tistory.com/296)
-	* 2018.05 한라
+  * 한라 005.11이14ㅂ
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
-* Chef Solo 입문 : 인프라스트럭처 자동화 프레임워크
-  * 한라 004.79-이885ㅅ
+* (NOT YET) [일래스틱 스택 6 입문](http://book.daum.net/detail/book.do?bookid=BOK00035087432IN)
+  * 2018.07 한라
 
 # Agile Scrum
 
@@ -67,18 +62,18 @@ Programming Books
   * 한라 005.1 코34알
 * Programming challenges : 알고리즘 트레이닝 북
   * 한라 005.1-스878ㅍ
-* (한라 NOT YET) [알고리즘 트레이닝: 자료 구조, 알고리즘 문제 해결 핵심 노하우](http://www.insightbook.co.kr/11923)
-  * 2017.07
-* (한라 NOT YET) [처음 만나는 알고리즘](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890821&orderClick=LAH&Kc=)
-  * 2017.07
-* (한라 NOT YET) 모두의 알고리즘 with 파이썬
-  * 2017.07
-* (한라 NOT YET) [알고리즘 트레이닝 - 자료구조, 알고리즘 문제해결 핵심 노하우](http://suakii.tistory.com/273)
-  * 2017.08
-* (한라 NOT YET) [파이썬으로 배우는 수학적 프로그래밍](http://sigmadream.github.io/Programming_and_Mathematical_Thinking_Python/)
-  * 005.135-스884ㅍ
-* (한라 NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
-  * 005.133-피64ㅍ
+* (NOT YET) [알고리즘 트레이닝: 자료 구조, 알고리즘 문제 해결 핵심 노하우](http://www.insightbook.co.kr/11923)
+  * 2017.07 한라
+* (NOT YET) [처음 만나는 알고리즘](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890821&orderClick=LAH&Kc=)
+  * 2017.07 한라
+* (NOT YET) 모두의 알고리즘 with 파이썬
+  * 2017.07 한라
+* (NOT YET) [알고리즘 트레이닝 - 자료구조, 알고리즘 문제해결 핵심 노하우](http://suakii.tistory.com/273)
+  * 2017.08 한라
+* (NOT YET) [파이썬으로 배우는 수학적 프로그래밍](http://sigmadream.github.io/Programming_and_Mathematical_Thinking_Python/)
+  * 한라 005.135-스884ㅍ
+* (NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
+  * 한라 005.133-피64ㅍ
 * (NOT YET) [알고리즘, 인생을 계산하다](https://m.blog.naver.com/hl4gnn/221228428136)
 
 # Amazon AWS
@@ -98,8 +93,8 @@ Programming Books
 
 # Android
 
-* (한라 NOT YET) [안드로이드 개발 레벨업 교과서](http://wikibook.co.kr/advanced-android-book)
-  * 2017.06
+* (NOT YET) [안드로이드 개발 레벨업 교과서](http://wikibook.co.kr/advanced-android-book)
+  * 2017.06 한라
 * [핵심만 골라 배우는 안드로이드 스튜디오3 & 프로그래밍](https://github.com/Jpub/Androidstudio3)
 
 # Architecture
@@ -180,10 +175,10 @@ Programming Books
   * 2018.01
   * 한라 005.11 비62ㅇ
 * (친절한 설명과 풍부한 그림으로 배우는) SQL 더 쉽게, 더 깊게
-	* 탐라 개005.755-미877ㅇ
+  * 탐라 개005.755-미877ㅇ
 * (NOT YET) **Real MySQL 개발자와 DBA를 위한**
 * (NOT YET) [데이터 분석을 위한 SQL 레시피](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565)
-	* 2018.05 한라
+  * 한라 005.755가52ㄷ
   * [데이터 분석을 위한 SQL 레시피](http://jybaek.tistory.com/742)
 
 # Data Science
@@ -255,12 +250,12 @@ Programming Books
 * [실무 프로젝트로 배우는 빅데이터 기술](http://wikibook.co.kr/bigdata/)
   * 2017.01
   * 탐라 문005.76 김12ㅅ
-* (탐라 한라 NOT YET) [단어의 사생활](https://brunch.co.kr/@cloud09/125)
-  * 2016.12
-* (한라 NOT YET) 빅데이터 마이닝
+* (NOT YET) [단어의 사생활](https://brunch.co.kr/@cloud09/125)
+  * 2016.12 탐라 한라
+* (NOT YET) 빅데이터 마이닝
   * 한라 005.76 레57ㅂ
-* (한라 NOT YET) [처음 배우는 인공지능](http://www.hanbit.co.kr/store/books/look.php?p_code=B1908490055)
-  * 2017.06
+* (NOT YET) [처음 배우는 인공지능](http://www.hanbit.co.kr/store/books/look.php?p_code=B1908490055)
+  * 2017.06 한라
 * [모두의 데이터 과학 with 파이썬](http://book.daum.net/detail/book.do?bookid=KOR9791160502152)
   * 2017.08
   * 한라 005.133 지195ㅁ
@@ -270,17 +265,17 @@ Programming Books
 * [실리콘밸리 데이터 과학자가 전하는 "데이터 과학 입문"](http://jpub.tistory.com/700)
   * 2017.08
   * 한라 005.133 권73ㄸ
-* (한라 NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기](http://acornpub.co.kr/book/ai-python)
-  * 2018.02
+* (NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기](http://acornpub.co.kr/book/ai-python)
+  * 2018.02 한라
 * **[애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)**
   * 탐라 문 005.74저219ㅇ
   * 굉장히 많은 내용을 담고 있으며, 특히 airflow를 책에서 다루는 건 처음 본 듯
-* (한라 NOT YET) [파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)
+* (NOT YET) [파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)
   * 한라 005.133-민94ㅍ
-* (한라 NOT YET) [링크드 데이터](http://book.daum.net/detail/book.do?bookid=KOR9791195072644)
-	* 한라 005.118-우27ㄹ
-* (한라 NOT YET) 소셜 웹 마이닝 : 페이스북, 트위터, 링크드인 등의 소셜 미디어 데이터 분석하기
-	* 한라 004.76-러54ㅅ
+* (NOT YET) [링크드 데이터](http://book.daum.net/detail/book.do?bookid=KOR9791195072644)
+  * 한라 005.118-우27ㄹ
+* (NOT YET) 소셜 웹 마이닝 : 페이스북, 트위터, 링크드인 등의 소셜 미디어 데이터 분석하기
+  * 한라 004.76-러54ㅅ
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -300,13 +295,13 @@ Programming Books
     * [Row major vs. column major, row vectors vs. column vectors](https://fgiesen.wordpress.com/2012/02/12/row-major-vs-column-major-row-vectors-vs-column-vectors/)
     * [Row- and column-major order](https://en.wikipedia.org/wiki/Row-_and_column-major_order)
   * [밑바닥부터 시작하는 딥러닝](http://jybaek.tistory.com/678)
-* (탐라 NOT YET) [딥러닝 첫걸음](http://book.daum.net/detail/book.do?bookid=DGT00032067456YE)
-  * 2017.01
+* (NOT YET) [딥러닝 첫걸음](http://book.daum.net/detail/book.do?bookid=DGT00032067456YE)
+  * 2017.01 탐라
   * 이론 설명 + matlab 예제 코드
-* (탐라 NOT YET) [그림과 수식으로 배우는 통통 딥러닝](http://jpub.tistory.com/687)
-  * 2017.07
-* (한라 NOT YET) [(처음 만나는) 머신러닝과 딥러닝C언어로 구현하며 익히는 기본 개념](http://book.daum.net/detail/book.do?bookid=BOK00032364208YE)
-  * 2017.07
+* (NOT YET) [그림과 수식으로 배우는 통통 딥러닝](http://jpub.tistory.com/687)
+  * 2017.07 탐라
+* (NOT YET) [(처음 만나는) 머신러닝과 딥러닝C언어로 구현하며 익히는 기본 개념](http://book.daum.net/detail/book.do?bookid=BOK00032364208YE)
+  * 2017.07 한라
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
   * 2017.08
   * 탐라 문 004.73 이67ㅍ
@@ -318,16 +313,18 @@ Programming Books
 * [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
   * 탐라 004.73 김832ㅍ
   * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
-* (탐라 NOT YET) 코딩 셰프의 3분 딥러닝 케라스맛
-  * 2018.01
+* (NOT YET) 코딩 셰프의 3분 딥러닝 케라스맛
+  * 2018.01 탐라
   * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
-* (한라 NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
-  * 2018.02
+* (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
+  * 2018.02 한라
 * 강화학습 첫 걸음
-	* 2018.03
+  * 2018.03
   * 문004.73 줄239ㄱ
 * [처음 배우는 딥러닝 수학](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
 * (NOT YET) [딥러닝 워크북](http://m.post.naver.com/viewer/postView.nhn?volumeNo=15007933&memberNo=40845152)
+* (NOT YET) [이것이 우리에게 딱 맞는 딥러닝 with 텐서플로](http://bjpublic.tistory.com/306)
+  * 2018.07 탐라
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -402,8 +399,8 @@ Programming Books
   * 2016.11
   * 탐라 문005.12-자87ㅌ
   * 한라 004.73-자875ㅌ
-* (탐라 NOT YET) 텐서플로로 시작하는 딥러닝
-  * 2017.07
+* (NOT YET) 텐서플로로 시작하는 딥러닝
+  * 2017.07 탐라
   * [텐서플로로 시작하는 딥러닝](https://github.com/jpub/tensorflowdeeplearning)
 * Tensorflow Maching Learning Cookbook - 다양한 텐서플로 예제를 실행해 보면서 빠르게 익히는 머신러닝
   * 한라 004.73 맥897ㄷ
@@ -437,8 +434,8 @@ Programming Books
 
 # Debugging
 
-* (한라 NOT YET) [이펙티브 디버깅 디버깅 지옥에서 탈출하는 66가지 전략과 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B5607403301)
-  * 2017.06
+* (NOT YET) [이펙티브 디버깅 디버깅 지옥에서 탈출하는 66가지 전략과 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B5607403301)
+  * 2017.06 한라
 
 # Docker
 
@@ -463,8 +460,8 @@ Programming Books
   * 한라 005.1 용82ㅅ
   * 2017.04
   * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
-* (한라 NOT YET) [Docker로 PaaS 구성하기](http://book.daum.net/detail/book.do?bookid=BOK00030207228YE)
-  * 2017.06
+* (NOT YET) [Docker로 PaaS 구성하기](http://book.daum.net/detail/book.do?bookid=BOK00030207228YE)
+  * 2017.06 한라
 * (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
 
 # Domain Driven Development DDD
@@ -489,8 +486,8 @@ Programming Books
 
 # Finance
 
-* (탐라 NOT YET) [블록체인 거번먼트](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110487241)
-  * 2017.06
+* (NOT YET) [블록체인 거번먼트](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110487241)
+  * 2017.06 탐라
 
 # Git
 
@@ -583,6 +580,17 @@ Programming Books
 * 마하웃 완벽 가이드
   * 탐라 개004.지67ㅁ
 
+# Infrastructure
+* [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
+  * 한라 004.78-모298ㅋ
+  * [코드로 인프라 관리하기](https://blog.outsider.ne.kr/1317)
+* (NOT YET) 서버/인프라를 지탱하는 기술
+* (NOT YET) 대규모 서비스를 지탱하는 기술 웹 개발자를 위한, 데이터 구조 메모리 OS DB 서버 인프라
+* Chef Solo 입문 : 인프라스트럭처 자동화 프레임워크
+  * 한라 004.79-이885ㅅ
+* (NOT YET) [개발자도 궁금한 IT 인프라](http://jpub.tistory.com/806)
+  * 2018.07 한라
+
 # Interview
 
 * 코딩 인터뷰 완전 분석 : 150가지 프로그래밍 문제와 해법
@@ -598,9 +606,9 @@ Programming Books
 
 # iOS
 
-* (한라 NOT YET) [아론 할리가스의 iOS 프로그래밍](http://www.yes24.com/24/goods/26035538)
+* (NOT YET) [아론 할리가스의 iOS 프로그래밍](http://www.yes24.com/24/goods/26035538)
   * 2016.04
-  * 005.11-힐298아
+  * 한라 005.11-힐298아
 
 ## Swift
 
@@ -650,10 +658,12 @@ Programming Books
 * RxJava 프로그래밍 리액티브 프로그래밍 기초부터 RxAndroid까지 한 번에
 * 함수형 반응형 프로그래밍 - FRP 입문자를 위한 종합 안내서
   * 한라 005.138블239ㅎ
-* (한라 NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
-  * 005.133-웨57ㅈ
+* (NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
+  * 한라 005.133-웨57ㅈ
 * (NOT YET) [가장 빨리 만나는 코어 자바 9](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=138397162)
 * (NOT YET) [자바 프로젝트 필수 유틸리티](https://brunch.co.kr/@insuk/41)
+  * 2018.07 한라
+  * [자바 프로젝트 필수 유틸리티](http://www.hanbit.co.kr/store/books/look.php?p_code=B8716214772)
 * (NOT YET) 클라우드 네이티브 자바 스프링 마이크로서비스 아키텍처와 데브옵스를 실천하는 클라우드 기반 서비스의 모든 것
 
 # JavaScript
@@ -673,23 +683,25 @@ Programming Books
   * 한라 005.138 김78ㅂ
   * 한국인 저자, vue.js 2.3 기준
 * Do it! Vue.js 입문
-	* 한라 005.118장18ㅂ
+  * 한라 005.118장18ㅂ
   * [Do it! Vue.js 입문 책을 집필하면서..](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book/)
   * ['Do it! Vue.js 입문' 책 개정판 안내](https://joshua1988.github.io/web-development/vuejs/doit-vuejs-book-edit/)
   * [웹 개발 입문자를 위한 Vue.js 프레임워크 소개](https://joshuajangblog.wordpress.com/2018/02/14/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-vue-js-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EC%86%8C%EA%B0%9C/)
   * 일단 얇아서 좋음. pwa까지 여러가지 소개
 * (NOT YET) [Vue.js 2 Cookbook](http://jybaek.tistory.com/737)
-* (한라 NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
-  * 2018.02
+* (NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
+  * 2018.02 한라
 * (NOT YET) [러닝 리액트](http://greentec.egloos.com/4437451)
 * [Vue.js 개발자를 위한 ES6 입문서(무료)](https://joshua1988.github.io/es6-online-book/) ebook
+* (NOT YET) [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
+  * 2018.07 한라
 
 ## Angular
 
 * (한라 취소됨) [쉽고 빠르게 배우는 Angular 2 프로그래밍](http://wikibook.co.kr/angular-2/)
   * 2016.12
-* (한라 NOT YET) [제대로 배우는 Angular 4](http://bjpublic.tistory.com/274)
-  * 2017.07
+* (NOT YET) [제대로 배우는 Angular 4](http://bjpublic.tistory.com/274)
+  * 2017.07 한라
 
 ## Node.js
 
@@ -715,13 +727,13 @@ Programming Books
   * 한라 005.58 김883ㅋ
   * 1부 - 코틀린 언어, 2부 - 앱 개발로 진행
 * Kotlin in action : 코틀린 컴파일러 개발자가 직접 알려주는 코틀린 언어 핵심
-	* 한라 005.133-제34ㅋ
+  * 한라 005.133-제34ㅋ
 * [깡샘의 코틀린 프로그래밍](http://book.naver.com/bookdb/book_detail.nhn?bid=13378953)
-	* 2018.04
+  * 2018.04
   * 한라 005.13 강54ㄲ
   * 자세한 코틀린 문법, 안드로이드 to do앱, 웹 어플리케이션 개발(자바스크립트를 코틀린으로 대체)
 * [자바 개발자를 위한 KOTLIN : 차세대 안드로이드 개발자를 위한](http://book.interpark.com/product/BookDisplay.do?_method=detail&sc.shopNo=0000400000&sc.prdNo=273985614&sc.saNo=003002001&bid1=search&bid2=product&bid3=title&bid4=001)
-	* 2018.04
+  * 2018.04
   * 한라 005.133 박76ㅋ
   * 코틀린 기본, 안드로이드 스튜디오, 전화번호부 앱 개발
 
@@ -757,10 +769,10 @@ Programming Books
 
 # Math
 
-* (탐라 NOT YET) [프로그래머를 위한 선형대수](http://book.daum.net/detail/book.do?bookid=KOR9791160501308)
-  * 2017.06
-* (탐라 한라 NOT YET) [수학의 언어로 세상을 본다면](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110877788&start=slayer)
-  * 2017.06
+* (NOT YET) [프로그래머를 위한 선형대수](http://book.daum.net/detail/book.do?bookid=KOR9791160501308)
+  * 2017.06 탐라
+* (NOT YET) [수학의 언어로 세상을 본다면](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110877788&start=slayer)
+  * 2017.06 탐라 한라
 * [착한 수학 (Good Math)](https://youngjaekim.wordpress.com/2017/05/24/%EC%B0%A9%ED%95%9C-%EC%88%98%ED%95%99/)
   * 한라 410.4-추873ㅊ
 * (NOT YET) [프로그래머를 위한 단단한 수학 책, 『CONCRETE MATHEMATICS 구체 수학』](http://www.insightbook.co.kr/12759)
@@ -888,8 +900,8 @@ Programming Books
   * 탐라 문 005.133 조222ㅇ
   * 몇몇 증권사 API를 이용해 알고리즘 트레이딩 프로그램 작성이 주요 내용
   * 이외에도 pycharm, pandas, Zipline, matplotlib, PyQT, sqlite에 대한 약간의 내용, windows 기반
-* (탐라 NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
-  * 2017.04
+* (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
+  * 2017.04 탐라
 * [파이썬 병렬 프로그래밍](http://wikibook.co.kr/python-for-sysadmin/)
   * 한라 005.133 팔292ㅍ
 * [파이썬 실무 프로그래밍](http://wikibook.co.kr/python-for-sysadmin/)
@@ -898,8 +910,8 @@ Programming Books
 * [파이썬 코딩의 기술(Effective Python) 리뷰](https://emaren84.github.io/blog/archivers/effective-python-review)
 * [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6540908288)
   * 한라 005.74-맥878ㅍ
-* (한라 NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://www.insightbook.co.kr/12162)
-  * 005.133-젤75ㅍ
+* (NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://www.insightbook.co.kr/12162)
+  * 한라 005.133-젤75ㅍ
 * 파이썬을 활용한 데이터 길들이기
   * 한라 005.133 카78ㅍ
 * [파이썬 데이터 분석 입문:엑셀 및 CSV 파일 처리부터 데이터베이스, 시각화, 통계분석,자동화까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B9202482281)
@@ -911,32 +923,33 @@ Programming Books
   * 2017.12
   * 탐라 문005.133 나821ㅇ
   * 파이썬 기초, IPython, Spyder, numpy, scipy, matplotlib, pandas, cython, numba 기초
-* (탐라 NOT YET) [프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001887&page=1&sercate1=001019000&sercate2=&orderby=pdate&TF=T)
-  * 2018.01
-* (한라 NOT YET) [개발자를 위한 파이썬](http://www.hanbit.co.kr/store/books/look.php?p_code=B7329046703)
-  * 2018.02
-* (한라 NOT YET) [파이썬으로 데이터 주무르기](http://bjpublic.tistory.com/287)
-  * 2018.02
+* (NOT YET) [프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001887&page=1&sercate1=001019000&sercate2=&orderby=pdate&TF=T)
+  * 2018.01 탐라
+* (NOT YET) [개발자를 위한 파이썬](http://www.hanbit.co.kr/store/books/look.php?p_code=B7329046703)
+  * 2018.02 한라
+* (NOT YET) [파이썬으로 데이터 주무르기](http://bjpublic.tistory.com/287)
+  * 2018.02 한라
 * 파이썬으로 배우는 웹 크롤러
-	* 한라 005.133박74ㅍ
+  * 한라 005.133박74ㅍ
   * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
-* (탐라 NOT YET) [손에 잡히는 파이썬 - 부제 주피터 노트북을 이용한 파이썬 프로그래밍](http://bjpublic.tistory.com/298)
-	* 2018.04
+* (NOT YET) [손에 잡히는 파이썬 - 부제 주피터 노트북을 이용한 파이썬 프로그래밍](http://bjpublic.tistory.com/298)
+  * 2018.04 탐라
 * [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
-	* 2018.04
+  * 2018.04
   * 한라 005.133 김52ㅍ
   * Tk, turtle, wxPython, pycharm 기초 사용법 등이 나온 점만 제외하면 완전히 입문서
-* (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
 * (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
   * 한라 005.133-미83ㅍ
 * (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
-	* 2018.05 한라
-* (NOT YET) [파이썬답게 코딩하기](http://bjpublic.tistory.com/302)
-	* 2018.05 한라
+  * 한라 005.133김65ㄱ
+* **[파이썬답게 코딩하기](http://bjpublic.tistory.com/302)**
+  * 한라 005.133심14ㅍ
 * (NOT YET) 파이썬 Jupyter Notebook 실전 입문
   * 2018.06 탐라
 * (NOT YET) [우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)
   * 2018.06 한라
+* (NOT YET) [파이썬을 활용한 금융공학 레시피](http://book.daum.net/detail/book.do?bookid=BOK00035116706YE)
+  * 2018.07 탐라
 
 # R
 
@@ -969,23 +982,23 @@ Programming Books
   * 제목 그대로 통계학 + 언어 + R
 * (NOT YET) 신입 탐정의 데이터 분석 입문
   * 2016.11
-* (한라 NOT YET) 통계 분석 너머 R의 무궁무진한 활용
+* (NOT YET) 통계 분석 너머 R의 무궁무진한 활용
   * 한라 005.54 고54ㅌ
-* (한라 NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
+* (NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
 * **[이토록 쉬운 통계&R](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)**
-	* 한라 413.7임14ㅇ
+  * 한라 413.7임14ㅇ
   * [이토록 쉬운 통계&R](https://rpubs.com/fermat39/statisticsandr2)
   * 통계 기본(Ch.1~3) + R(Ch.4)
 * [R로 배우는 실무 데이터 과학](http://jpub.tistory.com/742)
-	* 2018.04
+  * 2018.04
   * 005.7 줌34ㅇ
   * R을 이용한 데이터 과학 입문서 + RStudio, library 사용법 등
-* (한라 NOT YET) R로 배우는 코딩
-	* 005.1-장65ㅇ
-* (한라 NOT YET) (빅데이터 분석의 첫걸음) R로 배우는 코딩
-	* 2018.04
+* (NOT YET) R로 배우는 코딩
+  * 한라 005.1-장65ㅇ
+* (NOT YET) (빅데이터 분석의 첫걸음) R로 배우는 코딩
+  * 2018.04 한라
 * [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
-	* 한라 005.11-위874ㅇ
+  * 한라 005.11-위874ㅇ
 * (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
 
 # Scala
@@ -1015,7 +1028,8 @@ Programming Books
   * 한라 005.133-프295ㅅ
 * (한라 취소됨) [누구나 쉽게 스칼라+플레이스칼라 입문부터 게시판, 채팅 프로그램 제작까지](http://book.daum.net/detail/book.do?bookid=KOR9788968484728)
   * 2016.11
-* (한라 NOT YET) [러닝 스칼라](http://jpub.tistory.com/673)
+* (NOT YET) [러닝 스칼라](http://jpub.tistory.com/673)
+  * 한라
   * [Hello Scala! (스칼라 시작하기)](https://lovetoken.github.io/scala/2017/06/06/HelloScala.html)
 * [러닝 아카: 더 비기닝 - 리액티브 프로그래밍의 시작! 리액티브 선언문에 충실한 분산 시스템 개발을 위한 지침서](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114537458)
   * 2017.08
@@ -1050,9 +1064,8 @@ Programming Books
   * 6장까지는 2.0, 7, 8장과 부록은 1.6.1 코드라고 함. 부록은 그래프X, 스파크R, 스트림 처리
 * (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798)
 * (NOT YET) [스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)
+  * 2018.07 한라
 * (NOT YET) [하이 퍼포먼스 스파크](http://jpub.tistory.com/800)
-* (NOT YET) [스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997&page=1&sernewbook=Y&orderby=pdate&TF=T)
-  * 2018.06 탐라
 * (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798&page=1&TF=T)
   * 2018.06 한라
 * (NOT YET) 하이 퍼포먼스 스파크

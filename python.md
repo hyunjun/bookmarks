@@ -1,7 +1,7 @@
 Python
 ======
 * **[Python cheatsheet](https://www.pythonsheets.com)**
-	* [Python Cheat Sheet](https://github.com/crazyguitar/pysheeet)
+  * [Python Cheat Sheet](https://github.com/crazyguitar/pysheeet)
 * **[Awesome Python](http://awesome-python.com/)**
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
@@ -499,7 +499,7 @@ Python
     * [distinguish letter type by unicodedata, regex](https://gist.github.com/hyunjun/1c0acdcf1ca213e8cf72)
     * [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
     * [print unicode character in window](https://hyunjun.github.io/python-window-unicode/)
-		* `locale.setlocale(locale.LC_CTYPE, 'kor')` `UnicodeEncodeError: locale codec can't encode character '\ub...'`가 windows에서 발생하는 경우
+    * `locale.setlocale(locale.LC_CTYPE, 'kor')` `UnicodeEncodeError: locale codec can't encode character '\ub...'`가 windows에서 발생하는 경우
     * [string & bytes](https://gist.github.com/hyunjun/fe981c11d07f41eed61c65b30ab56a0f)
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
   * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
@@ -517,7 +517,7 @@ Python
   * [크롤링 데이터의 한글이 깨져요](https://financedata.github.io/posts/faq_crawling_data_encoding.html)
   * [cChardet - universal character encoding detector](https://github.com/PyYoshi/cChardet)
   * [The Updated Guide to Unicode on Python](http://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/)
-	* [Everything you did not want to know about Unicode in Python 3](http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/)
+  * [Everything you did not want to know about Unicode in Python 3](http://lucumr.pocoo.org/2014/5/12/everything-about-unicode/)
   * [파이썬의 문자열 인코딩](https://datascienceschool.net/view-notebook/250c1869eab54157827adf54c5e9f064/)
   * [Processing Text Files in Python 3](https://python-notes.curiousefficiency.org/en/latest/python3/text_file_processing.html)
   * [Common migration problems](http://python3porting.com/problems.html)
@@ -850,25 +850,25 @@ Python
 * unicodedata
   * [`category` values](http://www.unicode.org/reports/tr44/tr44-4.html#Property_Values)
 * unittest
-	* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+  * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
   * [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
-		* [Python-Unit-Testing](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Unit-Testing)
-	* [Mock Everything](https://www.hacksoft.io/blog/mock-everything/)
-	* [Python Mock Cookbook](https://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html)
-	* [Python Mock Gotchas](http://alexmarandon.com/articles/python_mock_gotchas/)
-	* [Python Mocking 101: Fake It Before You Make It](https://blog.fugue.co/2016-02-11-python-mocking-101.html)
-	* [Using the Python mock library to fake regular functions during tests](https://fgimian.github.io/blog/2014/04/10/using-the-python-mock-library-to-fake-regular-functions-during-tests/)
-	* [Mocking Python With Kung Fu Panda](http://manishamde.github.io/blog/2013/10/06/mocking-python-with-kung-fu-panda/)
-	* [Python Mocking, You Are A Tricksy Beast](https://medium.com/python-pandemonium/python-mocking-you-are-a-tricksy-beast-6c4a1f8d19b2)
-	* [Mocking Objects in Python](https://www.relaxdiego.com/2014/04/mocking-objects-in-python.html)
-	* [Mocking private methods in python](https://gist.github.com/santiagobasulto/3056999)
-	* [Mocking complicated `__init__` in Python](https://medium.com/@george.shuklin/mocking-complicated-init-in-python-6ef9850dd202)
-	* [Assigning instance variables in function called by `__init__` vs. function called from `__init__`](https://softwareengineering.stackexchange.com/questions/340383/assigning-instance-variables-in-function-called-by-init-vs-function-called)
-	* [Another approach to mocking properties in Python](https://dzone.com/articles/another-approach-mocking)
+    * [Python-Unit-Testing](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Unit-Testing)
+  * [Mock Everything](https://www.hacksoft.io/blog/mock-everything/)
+  * [Python Mock Cookbook](https://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html)
+  * [Python Mock Gotchas](http://alexmarandon.com/articles/python_mock_gotchas/)
+  * [Python Mocking 101: Fake It Before You Make It](https://blog.fugue.co/2016-02-11-python-mocking-101.html)
+  * [Using the Python mock library to fake regular functions during tests](https://fgimian.github.io/blog/2014/04/10/using-the-python-mock-library-to-fake-regular-functions-during-tests/)
+  * [Mocking Python With Kung Fu Panda](http://manishamde.github.io/blog/2013/10/06/mocking-python-with-kung-fu-panda/)
+  * [Python Mocking, You Are A Tricksy Beast](https://medium.com/python-pandemonium/python-mocking-you-are-a-tricksy-beast-6c4a1f8d19b2)
+  * [Mocking Objects in Python](https://www.relaxdiego.com/2014/04/mocking-objects-in-python.html)
+  * [Mocking private methods in python](https://gist.github.com/santiagobasulto/3056999)
+  * [Mocking complicated `__init__` in Python](https://medium.com/@george.shuklin/mocking-complicated-init-in-python-6ef9850dd202)
+  * [Assigning instance variables in function called by `__init__` vs. function called from `__init__`](https://softwareengineering.stackexchange.com/questions/340383/assigning-instance-variables-in-function-called-by-init-vs-function-called)
+  * [Another approach to mocking properties in Python](https://dzone.com/articles/another-approach-mocking)
   * [Another approach to mocking properties](http://www.voidspace.org.uk/python/weblog/arch_d7_2011_06_04.shtml)
-	* [How in the world do you Mock a name attribute?](https://bradmontgomery.net/blog/how-world-do-you-mock-name-attribute/)
-	* [How to Mock a name attribute?](http://blog.tunarob.com/2017/04/27/mock-name-attribute)
+  * [How in the world do you Mock a name attribute?](https://bradmontgomery.net/blog/how-world-do-you-mock-name-attribute/)
+  * [How to Mock a name attribute?](http://blog.tunarob.com/2017/04/27/mock-name-attribute)
   * [Allow doubling a particular instance method on all instances of a class](https://github.com/uber/doubles/issues/90)
 * urllib
   * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
@@ -1211,6 +1211,7 @@ Python
 * [Python으로 카카오톡 플러스친구 만들기](http://codeac.tistory.com/entry/Python%EC%9C%BC%EB%A1%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%ED%94%8C%EB%9F%AC%EC%8A%A4%EC%B9%9C%EA%B5%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
 * [Summernote - a simple WYSIWYG editor](https://github.com/summernote/django-summernote)
 * [Django REST framework - a powerful and flexible toolkit for building Web APIs](http://www.django-rest-framework.org/)
+* [Taking Django Async](https://www.youtube.com/watch?v=786Lq_L0Nbw)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -1321,6 +1322,7 @@ Python
 * [How I Reverse Engineered A Chrome Extension To Write My Own Flask App](https://medium.freecodecamp.org/how-i-reverse-engineered-a-chrome-extension-to-write-my-own-flask-app-d77f36421106)
 * [Flask 1.0 Changelog 우리말 번역](http://blog.sinwoobang.me/post/173349285532/flask-10-changelog-%EC%9A%B0%EB%A6%AC%EB%A7%90-%EB%B2%88%EC%97%AD)
 * [Flask 1.0에서 달라진 점](https://winterj.me/flask-release/)
+* [FLASK vs DJANGO](https://www.youtube.com/watch?v=KnbAUplWXC0)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -1391,6 +1393,7 @@ Python
   * [Learn Tkinter in 20 Minutes](https://www.youtube.com/watch?v=_lSNIrR1nZU)
   * [Learn to Program 20 : TkInter Tutorial](https://www.youtube.com/watch?v=-tbWoZSi3LU)
   * [Learn to Program 21 : TkInter Tutorial 2](https://www.youtube.com/watch?v=Mim5tTSf05E)
+  * [Craft your own GUIs with Python and Tkinter](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)
 
 # IPython & [Jupyter](http://jupyter.org/try)
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)
@@ -1462,7 +1465,7 @@ Python
   * 주피터 노트북의 진화! 
     * [(1/2)주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
     * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
-	* [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
+  * [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
   * [How to change JupyterLab Theme(Easy Method)](https://www.youtube.com/watch?v=yI0K0k-Ari0)
   * [JupyterLab first impressions](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
@@ -1796,7 +1799,7 @@ Python
   * sheet 
     * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
-		* [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
+    * [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
@@ -1994,7 +1997,7 @@ Python
 * [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
-	* [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
+  * [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [Pykka - a Python implementation of the actor model](https://www.pykka.org/)
 * pyldap
@@ -2615,7 +2618,7 @@ Python
 * [Dynamic Typing in Python](https://www.youtube.com/watch?v=OE2j6hlU88o)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [MonkeyType - A system for Python that generates static type annotations by collecting runtime types](https://github.com/Instagram/MonkeyType)
-	* [Let your code type-hint itself: introducing open source MonkeyType](https://engineering.instagram.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
+  * [Let your code type-hint itself: introducing open source MonkeyType](https://engineering.instagram.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
 * [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
   * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
   * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)

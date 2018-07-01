@@ -177,9 +177,9 @@ Interview
 * [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
 * [Crack the System Design interview: tips from a Twitter software engineer](https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26)
 * **[System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)**
-	* example of class design
-	* handling ambiguity; clarifying the problem
-	* systematic approach; clarify details
+  * example of class design
+  * handling ambiguity; clarifying the problem
+  * systematic approach; clarify details
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)

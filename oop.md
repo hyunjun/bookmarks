@@ -15,7 +15,7 @@
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
-	* [Anti-OOP: if를 피하는 법](http://redutan.github.io/2016/03/31/anti-oop-if)
+  * [Anti-OOP: if를 피하는 법](http://redutan.github.io/2016/03/31/anti-oop-if)
 * **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
   * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
@@ -99,7 +99,7 @@
 * [파이썬 - OOP Part 6. 매직 메소드(Magic Method)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-6-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%86%8C%EB%93%9C-magic-method/)
 * [python-patterns](https://github.com/faif/python-patterns)
 * [Sebastian Buczyński - Why you don't need design patterns in Python?](https://www.youtube.com/watch?v=G5OeYHCJuv0)
-	* 굳이 design pattern을 쓰지 말고 대체할 수 있는 더 간단한 방법이 있으면 쓰라는 이야기
+  * 굳이 design pattern을 쓰지 말고 대체할 수 있는 더 간단한 방법이 있으면 쓰라는 이야기
 * [Design Patterns in Python by Peter Ullrich](https://www.youtube.com/watch?v=bsyjSW46TDg)
 * [How to write actually object-oriented python - Per Fagrell](https://www.youtube.com/watch?v=VUvEDg30FyY)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)

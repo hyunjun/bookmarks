@@ -35,6 +35,7 @@ Open Source
   * [우아한 오픈소스 이야기(이준호)](https://www.youtube.com/watch?v=q0i1jBwkdxc)
   * [나의 오픈소스 이야기(김준기)](https://www.youtube.com/watch?v=02dxa9NppSY)
   * [오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
+* [2018 오픈소스개발자이야기 후기](https://taetaetae.github.io/2018/07/01/open-source-software-develpoer-story-review/)
 * [실패한 오픈소스 공헌으로 배워가기](https://www.slideshare.net/sungheeekang/ss-78744477)
 * [오픈소스 번역 기여하기](https://www.slideshare.net/changwoo/ss-79394446)
 * [오픈 소스 프로젝트를 더 잘 릴리스하는 요령들](https://spoqa.github.io/2017/09/28/foss-release-tips.html)
@@ -120,6 +121,7 @@ Open Source
 
 # Library
 * [A simple video conferencing project "Ah! FreeCa"](http://ryulib.tistory.com/357)
+* [AirenSoft](https://github.com/AirenSoft/) media player
 * [Disque - a distributed message broker](https://github.com/antirez/disque)
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)

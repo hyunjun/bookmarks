@@ -37,7 +37,6 @@ Java
 * [Java Micro Frameworks: The New Trend You Can’t Ignore](http://blog.takipi.com/java-micro-frameworks-the-new-trend-you-cant-ignore/) Spark, Ninja, Jodd
 * [Better Java - Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [A persistent KeyValue Server in 40 lines and a sad fact](http://java-is-the-new-c.blogspot.kr/2014/12/a-persistent-keyvalue-server-in-40.html)
-* [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
 * [Java in Flames](http://techblog.netflix.com/2015/07/java-in-flames.html)
 * [Top 10 Mistakes Java Developers Make](http://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/)
 * [Boosting Java Performance using GPGPUs](http://arxiv.org/abs/1508.06791)
@@ -69,7 +68,6 @@ Java
 * [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 * [Introduction to BCI](https://docs.com/sunnykwak/1053/introduction-to-bci?c=1MS75Z)
 * [Java-Callback Implementation an event callback like C# using Java](https://github.com/xeyez/Java-Callback)
-* [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
 * [Java Tools and Technologies Landscape Report 2016](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
 * [자바 웹 애플리케이션­­­ 성능에 영향을 미치는 대표적인 문제 유형](http://tech.whatap.io/2016/07/15/java-web-app-performance-problems/)
 * [초보 개발자를 위한 스택트레이스 읽는 법](http://okky.kr/article/338405)
@@ -219,7 +217,6 @@ Java
   # alternatives --set javac /usr/java/jdk1.8.0_nm-cloudera/bin/javac
   ```
   * `/lib/ld-linux.so.2: bad ELF interpreter: No such file or directory` `yum install ld-linux.so.2`
-* [How to install OpenJDK 8 on 14.04 LTS?](https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts)
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
 * [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
@@ -253,7 +250,6 @@ Java
 * [Countdown to Java 9 Release Date](http://www.java9countdown.xyz/)
 * [Removal of sun.misc.Unsafe in Java 9 - A disaster in the making](http://blog.dripstat.com/removal-of-sun-misc-unsafe-a-disaster-in-the-making/)
 * [jdk-9-end-road-features.html](https://www.javacodegeeks.com/2017/01/jdk-9-end-road-features.html) sun.misc.Unsafe는 계속 유지
-* [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 * [Jigsaw Finally Arrives in JDK 9](http://www.infoq.com/news/2016/03/jigsaw-jdk-9)
 * [Java Jigsaw가 도대체 뭐지? - Java9의 핵심](http://greatkim91.tistory.com/m/197)
 * [The Final Pieces of Java 9 and Project Jigsaw Are Coming Together](http://blog.takipi.com/the-final-pieces-of-java-9-and-project-jigsaw-are-coming-together/)
@@ -286,7 +282,6 @@ Java
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
-* [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 * [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
 * [JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14)
@@ -428,7 +423,6 @@ Java
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Pathfinder 설치 및 실행법](http://lauryn94.tistory.com/20)
 * [Precipice - A Java Library for Isolating and Monitoring Task Execution](http://www.uncontended.net/2016/03/13/introducing-precipice.html)
-* [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Real world mutation testing](http://pitest.org/)
 * [Reactive Streams](http://www.reactive-streams.org/)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
@@ -522,6 +516,15 @@ Java
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
+
+# OpenJDK
+* [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
+* [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
+* [How to install OpenJDK 8 on 14.04 LTS?](https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts)
+* [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
+* [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
+* [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
+* [Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
 # Thread
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)

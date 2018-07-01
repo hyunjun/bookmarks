@@ -29,6 +29,7 @@ NLP
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
+  * [CS224d 2017 video subtitles translation project for everyone](https://github.com/songys/CS224N_17_KOR_SUB)
 * [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
   * [cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
   * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
@@ -652,7 +653,7 @@ NLP
   * [22 Python NLTK Corpus](https://www.youtube.com/watch?v=pMv-rxqBhsY)
   * [NLTK Text Processing Tutorial Series](https://www.youtube.com/playlist?list=PLcTXcpndN-Sl9eYrKM6jtcOTgC52EJnqH)
   * [Computing Document Similarity with NLTK (March 2014)](https://www.youtube.com/watch?v=FfLo5OHBwTo)
-	* [Tokenizing Words Sentences with Python NLTK](https://www.youtube.com/watch?v=A5n7tsZctwM)
+  * [Tokenizing Words Sentences with Python NLTK](https://www.youtube.com/watch?v=A5n7tsZctwM)
 * [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI/blob/master/README.md)
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
@@ -792,6 +793,7 @@ NLP
 * [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
 * [2018 06-11-active-question-answering](https://www.slideshare.net/WoongwonLee/2018-0611activequestionanswering)
 * [Bilinear attention networks for visual question answering](https://github.com/jnhwkim/ban-vqa)
+* [Presenting Multitask Learning as Question Answering: The Natural Language Decathlon](https://www.techleer.com/articles/527-presenting-multitask-learning-as-question-answering-the-natural-language-decathlon/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)

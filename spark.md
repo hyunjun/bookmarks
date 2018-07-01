@@ -287,10 +287,10 @@
 * [Locality Sensitive Hashing By Spark](https://www.slideshare.net/SparkSummit/locality-sensitive-hashing-by-spark)
 * [Partition Index - Selective Queries On Really Big Tables](https://medium.com/@adirmashiach/partition-index-selective-queries-on-really-big-tables-795fea737570) Hive, Impala, Spark 등으로 데이터를 조회할 때 전체 테이블을 검색하지 않도록 클라이언트와 데몬 사이에서 인덱스 맵을 만들고 유지 관리를 하며 쿼리를 파싱해주는 balancer를 구현
 * Practical Apache Spark in 10 minutes
-	* [Part 1 - Ubuntu installation](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-1-ubuntu-installation/)
-	* [Part 2 - RDD](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-2-rdd/)
-	* [Part 3 - Data Frames](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-3-data-frames/)
-	* [Part 4 - SQL](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-4-sql/)
+  * [Part 1 - Ubuntu installation](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-1-ubuntu-installation/)
+  * [Part 2 - RDD](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-2-rdd/)
+  * [Part 3 - Data Frames](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-3-data-frames/)
+  * [Part 4 - SQL](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-4-sql/)
 * partition의 개수가 지나치게 적게 잡혀서 worker 역시 부족하게 할당되면서 성능 하락 [problem e.g.](https://www.facebook.com/groups/sparkkoreauser/permalink/1753810921347470/)
   * 다양한 경우에서 자주 발생
   * spark sql optimizer가 업그레이드 되는 게 가장 확실한 해법이지만 그걸 기다릴 수 없기 때문에 repartition을 사용해 강제로 partition 수를 증가
@@ -594,9 +594,9 @@
   * [PySpark-Boilerplate](https://github.com/ekampf/PySpark-Boilerplate)
 * [How to use PySpark on your computer](https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617)
 * [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by Wes McKinney](https://www.youtube.com/watch?v=qIKImANLFtE)
-	* [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by: Wes McKinney](https://www.slideshare.net/SparkSummit/improving-python-and-spark-performance-and-interoperability-spark-summit-east-talk-by-wes-mckinney)
+  * [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by: Wes McKinney](https://www.slideshare.net/SparkSummit/improving-python-and-spark-performance-and-interoperability-spark-summit-east-talk-by-wes-mckinney)
 * [High Performance Python On Spark](https://www.youtube.com/watch?v=abZ0f5ug18U)
-	* [High Performance Python on Apache Spark](https://www.slideshare.net/wesm/high-performance-python-on-apache-spark)
+  * [High Performance Python on Apache Spark](https://www.slideshare.net/wesm/high-performance-python-on-apache-spark)
 * **[Keynote: Making the Big Data ecosystem work together with Python - Holden Karau](https://www.youtube.com/watch?v=LOHVKYtUO-o)**
 
 # R
@@ -626,7 +626,7 @@
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
 * [분석가의 Spark SQL](https://wikidocs.net/book/1686)
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
-	* DataFrame이 RDD와 다르게 최적화를 적용할 수 있는 이유
+  * DataFrame이 RDD와 다르게 최적화를 적용할 수 있는 이유
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
 * [SparkSQL Internals](http://www.trongkhoanguyen.com/2015/08/sparksql-internals.html)
 * [Spark Data Source API. Extending Our Spark SQL Query Engine](https://hackernoon.com/extending-our-spark-sql-query-engine-5f4a088de986)

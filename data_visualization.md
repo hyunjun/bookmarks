@@ -117,7 +117,9 @@ Data Visualization
 * [DATA-VISUALISATION WITH PYTHON AND JAVASCRIPT](http://kyrandale.com/static/talks/reveal.js/index_pydata2015.html)
 * [So, a scientific data visualization tool, and a Minecraft world walk into a bar](http://tylerfisher.org/painting-you-a-picture/)
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
-* [파이썬으로 도로 네트워크 구성 및 시각화 하기 - 1. 데이터 다운로드 및 프로세싱](https://junpyopark.github.io/road-network-construction-1/)
+* 파이썬으로 도로 네트워크 구성 및 시각화 하기
+  * [1. 데이터 다운로드 및 프로세싱](https://junpyopark.github.io/road-network-construction-1/)
+  * [2. 도로 네트워크 구성 및 시각화 하기](https://junpyopark.github.io/road-network-construction-2/)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
@@ -144,6 +146,7 @@ Data Visualization
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [Superset - a data exploration platform designed to be visual, intuitive and interactive](http://superset.incubator.apache.org/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
+* [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
 
 ## Matplotlib
 * examples
