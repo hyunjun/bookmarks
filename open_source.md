@@ -160,6 +160,8 @@ Open Source
 
 # Netflix
 * [OSS](http://netflix.github.io/)
+* [Conductor](https://github.com/Netflix/conductor) a microservices orchestration engine
+  * [Netflix Conductor: A microservices orchestrator](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
 * [FlameScope - a visualization tool for exploring different time ranges as Flame Graphs](https://github.com/Netflix/flamescope)
   * [Netflix FlameScope](https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb)
   * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg)
