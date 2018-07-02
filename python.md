@@ -356,8 +356,13 @@ Python
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 
 # Android
-* [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
 * [Python for Android Tutorial #1 - Using the Accelerometer](http://blog.rhesoft.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/)
+* Kivy
+  * [kivy.org/planet](https://kivy.org/planet/)
+  * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
+  * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+  * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
+  * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
 
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
@@ -1647,6 +1652,7 @@ Python
   * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
   * [초간단 머신러닝 개발 환경 세팅하기 (with 아나콘다)](https://www.youtube.com/watch?v=8oaOE9LXY4w)
+  * [Accelerate Python Performance Powered by Anaconda](https://software.intel.com/en-us/distribution-for-python)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
@@ -1834,11 +1840,6 @@ Python
 * [KicomAV](http://www.kicomav.com/)
   * [Python : Anti-Virus 키콤](http://kali-km.tistory.com/entry/Python-AntiVirus-%ED%82%A4%EC%BD%A4)
 * [Kite - Your programming copilot Kite augments your coding environment with all the internet’s programming knowledge](https://kite.com/)
-* Kivy
-  * [kivy.org/planet](https://kivy.org/planet/)
-  * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
-  * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
-  * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [LemonGraph - a log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file](https://github.com/NationalSecurityAgency/lemongraph)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
@@ -1943,6 +1944,7 @@ Python
   * [pipenv 란 무엇인가](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)
   * [파이선 가상환경을 품은 패키지 관리자, pipenv](https://graspthegist.com/post/python-pipenv/)
   * [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
+  * [파이썬 패키지 설치할 때 SSL 인증 오류 해제 방법](https://surpreem.com/%ED%8C%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%A0-%EB%95%8C-ssl-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-%ED%95%B4%EC%A0%9C-%EB%B0%A9%EB%B2%95/)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`

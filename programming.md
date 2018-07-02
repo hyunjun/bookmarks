@@ -435,6 +435,7 @@ Programming
   * [Google Cloud Platform의 BigQuery 살펴보기](https://jungwoon.github.io/google%20cloud/2018/06/16/GCP-BigQuery/)
   * [Google Cloud Platform에서 Hadoop 및 Spark 사용해보기 - Dataproc](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Dataproc/)
   * [Stackdriver Error Reporting/Debugger 살펴보기](https://medium.com/@jwlee98/gcp-stackdriver-error-reporting-debugger-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-c0ecdcbccf4d)
+  * [Stackdriver Profiler 살펴보기](https://medium.com/@jwlee98/gcp-stackdriver-profiler-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-dfdab3d70c4b)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -829,6 +830,7 @@ Programming
   * [6월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/06/b-6-1.html)
   * [6월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/06/b-6-2.html)
   * [6월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/06/b-6-3.html)
+  * [6월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/06/b-6-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -866,6 +868,7 @@ Programming
   * [1803호](https://blog.gaerae.com/2018/03/monthly.html)
   * [1804호](https://blog.gaerae.com/2018/04/monthly.html)
   * [1805호](https://blog.gaerae.com/2018/05/monthly.html)
+  * [1806호](https://blog.gaerae.com/2018/06/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -1055,7 +1058,9 @@ Programming
 * [Why I now appreciate testing, and why you should, too](https://medium.freecodecamp.org/why-i-now-appreciate-testing-and-why-you-should-too-74d48c67ab72)
 * [TDD 잘알못을 위한 돌직구 세미나 참석 후기](http://jojoldu.tistory.com/306)
 * [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491)
-* **[회고 : 두번째 개인 프로젝트를 TDD로 진행하며… #1](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-1-5345775d85bb)**
+* **회고 : 두번째 개인 프로젝트를 TDD로 진행하며…**
+  * [#1 첫번째 프로젝트 리뷰, 목표설정, TDD공부, UI 테스트](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-1-5345775d85bb)
+  * [#2 TDD로 진행한 내용정리,통계, 두번째 TDD에 대한 소감,에피소드](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-2-f38276d39a9d)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

@@ -51,7 +51,7 @@ Business
 * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
-* [인재를 어떻게 뽑아야 하는가?](https://brunch.co.kr/@younghakjang/590
+* [인재를 어떻게 뽑아야 하는가?](https://brunch.co.kr/@younghakjang/590)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
@@ -165,6 +165,7 @@ Business
 * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
 * [나를 지키기 위한 10가지 원칙](https://brunch.co.kr/@hyungsukkim/61)
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
+* [희생 vs 헌신](http://www.andrewahn.co/silicon-valley/sacrifice-vs-dedication/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

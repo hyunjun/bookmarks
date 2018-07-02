@@ -210,6 +210,7 @@ Interview
 * [Ace of Coders Multiplayer Programming Tournament](http://blog.codecombat.com/ace-of-coders-multiplayer-programming-tournament)
 * [Measuring programmer competency](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
+* [How to Succeed in any Programming Interview 2018](https://www.youtube.com/watch?v=5KB5KAak6tM)
 * [algospot](https://www.algospot.com)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
   * [coding.sh](http://coding.sh/) online programming

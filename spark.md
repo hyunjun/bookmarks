@@ -300,6 +300,9 @@
     dataset.repartition(dataset.rdd.getNumPartitions * 2).map(YYY)...
     ```
 * [Apache Spark Scheduler](https://databricks.com/session/apache-spark-scheduler)
+* [Apache Spark: Scala vs. Java v. Python vs. R vs. SQL](https://mindfulmachines.io/blog/2018/6/apache-spark-scala-vs-java-v-python-vs-r-vs-sql26)
+  * Scala, Java, Python, R 및 SQL에서 Apache Spark API의 차이점 설명
+  * 예상대로, JVM 언어를 사용하면 성능 향상
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -425,6 +428,7 @@
   * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
   * [Spark on EMR](https://github.com/awslabs/emr-bootstrap-actions/tree/master/spark)
   * **[(BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR](http://www.slideshare.net/AmazonWebServices/bdt309-data-science-best-practices-for-apache-spark-on-amazon-emr)**
+  * [Starburst’s Presto on AWS up to 18x faster than EMR](https://www.starburstdata.com/technical-blog/starburst-presto-on-aws-18x-faster-than-emr/) Presto의 엔터프라이즈 빌드를 제공하는 Starbust에서 AWS와 EMR 환경에서 벤치마크한 결과 소개
 * [Envelope - a configuration-driven framework for Apache Spark that makes it easy to develop Spark-based data processing pipelines on a Cloudera EDH](https://github.com/cloudera-labs/envelope/)
   * Envelope과 함께 Apache Spark, Apache Kudu 및 Apache Impala를 사용하여 Cloudera enterprise data hub (EDH)에 구현하는 방법
   * [Configuration specification](https://github.com/cloudera-labs/envelope/blob/master/docs/configurations.adoc#planners)
@@ -665,6 +669,7 @@
   * 워터마크 기반으로 한 중복 제거 외에도 mapGroupsWithState를 사용하여 상태 저장 집계에 사용자 정의 로직을 추가 할 수 있는 방법에 대해 간략하게 설명
 * [Internals of Spark Streaming](http://bytecontinnum.com/ioss/)
 * [Why is My Stream Processing Job Slow?](https://databricks.com/session/why-is-my-stream-processing-job-slow)
+* [How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming](https://medium.com/walmartlabs/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3) 월마트 랩에서 Apache Kafka, Spark Streaming/Batch로 Lambda 아키텍처를 구현하기 위해 구축된 A/B 테스트 플랫폼 소개
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

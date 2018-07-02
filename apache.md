@@ -143,6 +143,11 @@ Apache
 * [An Overview of End-to-End Exactly-Once Processing in Apache Flink® (with Apache Kafka, too!)](https://data-artisans.com/blog/end-to-end-exactly-once-processing-apache-flink-apache-kafka)
 * [Apache Flink Basic Transformation Example](https://dzone.com/articles/apache-flink-basic-transformation-example) 파일 데이터를 읽어 대문자로 변환한 후 다른 파일에 쓰는 예제
 * [Flink Forward San Francisco 2018 Videos and Slides](https://data-artisans.com/flink-forward-san-francisco-2018)
+* STREAM ANALYTICS PLATFORM FOR A TELCO
+  * Apache Flink와 Flink 기반으로 스트림 처리 시스템 구축을 한 사례 설명
+  * 합성 데이터로 시스템을 테스트하는 방법과 ELK를 사용하여 모니터링 하는 방법도 설명
+  * [PART 1](http://getindata.com/stream-analytics-platform-telco-part-1/)
+  * [PART 2](http://getindata.com/stream-analytics-platform-telco-part-2/)
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
@@ -285,7 +290,12 @@ Apache
     * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
   * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
   * [Secure Stream Processing with Apache Kafka, Confluent Platform and KSQL](https://www.confluent.io/blog/secure-stream-processing-apache-kafka-ksql/)
-  * [We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL—Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) Syslog Apache Kafka Connect plugin을 사용하여 Avro log 형식으로 Kafka로 가져온 후 KSQL을 사용하여 분석하는 방법을 설명
+  * We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL
+    * [Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) Syslog Apache Kafka Connect plugin을 사용하여 Avro log 형식으로 Kafka로 가져온 후 KSQL을 사용하여 분석하는 방법을 설명
+    * [Part 2: Event-Driven Alerting with Slack](https://www.confluent.io/blog/real-time-syslog-processing-with-apache-kafka-and-ksql-part-2-event-driven-alerting-with-slack/)
+    * [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
+      * MongoDB 데이터를 결합하여 Apache Kafka의 syslog 데이터에 KSQL을 사용하여 스트리밍 응용프로그램을 구축하는 과정 설명
+      * 알림은 Slack, 시각화 도구는 ES
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)

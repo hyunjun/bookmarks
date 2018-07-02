@@ -144,6 +144,7 @@ Redis
 * [basic redis python pubsub](http://chasemp.github.io/2013/03/26/basic-redis-python-pubsub/)
 * [Python & Redis PUB/SUB](https://medium.com/@johngrant/python-redis-pub-sub-6e26b483b3f7)
 * [A short script exploring Redis pubsub functions in Python](https://gist.github.com/jobliz/2596594)
+* [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/detail/85)
 
 # Queue
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)

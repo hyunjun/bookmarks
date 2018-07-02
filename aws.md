@@ -198,9 +198,14 @@ AWS
   * [2) TravisCI와 S3를 이용하여 정적 데이터 관리하기](http://jojoldu.tistory.com/305)
   * [3) DynamoDB를 이용한 전체 공지](http://jojoldu.tistory.com/308)
 * [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
+* [AWS에서 서버(EC2) 패킷 미러링 하기](http://woowabros.github.io/security/2018/06/29/aws-network-mirror.html)
+* [ec2-gauza 설치 및 사용하기](http://jojoldu.tistory.com/311)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
+* [BigData SQL Query Engine benchmark](http://bytes.schibsted.com/bigdata-sql-query-engine-benchmark/)
+  * Schibsted가 S3에서 Athena를 SQL 엔진을 선택한 경험 소개
+  * Amazon Athena, Amazon Redshift Spectrum, Presto, Hive 등을 평가
 
 # Lambda
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
@@ -266,6 +271,7 @@ AWS
 * [I wanted freeCodeCamp Toronto’s Twitter to tweet quotes, so I made a free bot to do it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4)
 * **[하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기](https://todait.github.io/image-resizing-service)** zappa, flask, wand
 * [람다, 서버리스의 첫걸음](http://jybaek.tistory.com/747)
+* [람다, 모르고 쓰면 병이다](http://jybaek.tistory.com/749)
 * [Using GraalVM to run Native Java in AWS Lambda with Golang](https://engineering.opsgenie.com/run-native-java-using-graalvm-in-aws-lambda-with-golang-ba86e27930bf)
 * [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/@herryhan2435/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 * [Lambda@Edge를 활용한 이미지 리사이즈 자동화](https://blog.wisen.co.kr/?p=7258)

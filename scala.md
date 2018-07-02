@@ -307,6 +307,7 @@ Scala
 * [Taming Distribution: Formal Protocols for Akka Typed by Roland Kuhn](https://www.youtube.com/watch?v=eE_Iaxjy05Y)
 * [AkkaPaint – simplicity and power of Akka](https://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/)
 * [Diving into Akka Streams](https://blog.redelastic.com/diving-into-akka-streams-2770b3aeabb0)
+* [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/detail/85)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
