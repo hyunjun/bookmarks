@@ -625,6 +625,7 @@ Javascript
   * [00. Electron 글 목차](http://cionman.tistory.com/6)
   * [How to Build an Electron GUI for a Python Module](https://github.com/patrickmoffitt/python-example)
   * [Electron의 진화](https://blog.sn0wle0pard.io/2017/evolution-of-electron/)
+  * [Native Desktop Apps with Angular and Electron](https://www.youtube.com/watch?v=u_vMChpZMCk)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
