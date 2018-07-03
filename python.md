@@ -482,6 +482,7 @@ Python
 * dict
   * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
   * [Replacements for switch statement in Python?](http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python)
+  * [Pythonic switch statement](https://aroberge.blogspot.com/2018/06/pythonic-switch-statement.html)
   * [두 파이썬 딕셔너리를 병합하는 법](https://code.tutsplus.com/ko/tutorials/how-to-merge-two-python-dictionaries--cms-26230)
   * [Raymond Hettinger Modern Python Dictionaries A confluence of a dozen great ideas PyCon 2017](https://www.youtube.com/watch?v=npw4s1QTmPg)
   * [dict()의 in의 의미](http://knight76.tistory.com/entry/python3-dict%EC%9D%98-in%EC%9D%98-%EC%9D%98%EB%AF%B8)
@@ -662,6 +663,10 @@ Python
 * [multiprocessing](https://pymotw.com/3/multiprocessing/) multithreading [threading](https://pymotw.com/3/threading) parallel
   * [practice - experiences](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666)
   * [practice - basic examples](https://github.com/hyunjun/practice/tree/master/python/test-multiprocessing)
+  * logging
+    * [practice - logging process by process](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/multiprocessing_logging.py)
+    * [Example of logging and multiprocessing](https://gist.github.com/vsajip/2331314)
+    * [Python Multiprocess Logging](https://mattgathu.github.io/multiprocessing-logging-in-python/)
   * `starmap` map은 multiprocessing으로 호출할 function argument로 하나만 줄 수 있어서 여러 개를 줘야 할 때는 starmap 사용
     * [Python multiprocessing pool.map for multiple arguments](https://stackoverflow.com/questions/5442910/python-multiprocessing-pool-map-for-multiple-arguments)
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
@@ -1780,6 +1785,7 @@ Python
 * [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
   * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
   * [flake8 git pre-commit hook 문제와 해결](http://curzy95.tumblr.com/post/156810698531/flake8-git-pre-commit-hook-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EA%B2%B0)
+* [Flanker - an open source parsing library written in Python by the Mailgun Team](https://pypi.python.org/pypi/flanker)
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [flickrd - 파이썬3으로 작성한 플리커 사진 다운로드 프로그램](https://github.com/grollcake/flickrd)
 * [FilterPy - a Python library that implements a number of Bayesian filters, most notably Kalman filters](http://filterpy.readthedocs.io/)
@@ -1867,7 +1873,7 @@ Python
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
-* [Flanker - an open source parsing library written in Python by the Mailgun Team](https://pypi.python.org/pypi/flanker)
+* [Mani - a distribued cron like scheduler](https://github.com/sherinkurian/mani)
 * [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)

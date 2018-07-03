@@ -24,6 +24,7 @@ Programming
 * [Composing Programs, a free online introduction to programming and computer science](http://www.composingprograms.com/)
 * [What it really takes to learn how to code?](http://blog.sailsoftware.co/2015/09/09/what-it-really-takes-to-learn-how-to-code.html)
 * [Best websites for programmers and students who want to learn to code](https://www.techworm.net/2016/11/best-websites-for-programmers.html)
+* **[생활코딩 수업 관계도](https://web-n.github.io/SerieseN/)**
 * [www.livecoding.tv/livestreams](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
@@ -862,6 +863,7 @@ Programming
   * [기술 뉴스 #102 : 18-05-15](https://blog.outsider.ne.kr/1376)
   * [기술 뉴스 #103 : 18-06-01](https://blog.outsider.ne.kr/1380)
   * [기술 뉴스 #104 : 18-06-16](https://blog.outsider.ne.kr/1383)
+  * [기술 뉴스 #105 : 18-07-02](https://blog.outsider.ne.kr/1386)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)

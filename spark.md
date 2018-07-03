@@ -402,7 +402,9 @@
 * [The Unreasonable Effectiveness of Deep Learning on Spark](https://databricks.com/blog/2016/04/01/unreasonable-effectiveness-of-deep-learning-on-spark.html)
 * [GPU Acceleration in Databricks Speeding Up Deep Learning on Apache Spark](https://databricks.com/blog/2016/10/27/gpu-acceleration-in-databricks.html)
 * [Deep Learning on Databricks - Integrating with TensorFlow, Caffe, MXNet, and Theano](https://databricks.com/blog/2016/12/21/deep-learning-on-databricks.html)
-* [Deep Learning With Apache Spark — Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+* Deep Learning With Apache Spark
+  * [Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+  * [Part 2](https://towardsdatascience.com/deep-learning-with-apache-spark-part-2-2a2938a36d35)
 * [Deep Learning Pipelines for Apache Spark](https://github.com/databricks/spark-deep-learning)
 
 # Hbase

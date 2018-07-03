@@ -221,6 +221,7 @@ SQL
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/) e.g. 게시판
 * [MySQL 실행 계획](http://12bme.tistory.com/160)
 * **[장애와 관련된 XtraBackup 적용기](http://woowabros.github.io/experience/2018/05/28/billingjul.html)** mysqldump, mysqlbinlog, XtraBackup
+* [MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

@@ -1038,6 +1038,7 @@ Javascript
 * [Carlos Justiniano](http://cjus.me/)
 * [Node.js v10.5.0 Worker PR FAQ](https://tech.ssut.me/2018/06/26/node-js-v10-5-0-worker-pr-faq/)
 * [라즈베리파이 NodeJs 설치](http://blog.xcoda.net/99)
+* [node.js의 module.exports와 exports](https://www.haruair.com/blog/4542)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1059,6 +1060,7 @@ Javascript
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Express.js](http://expressjs.com/ko/)
+  * [Express](https://opentutorials.org/course/3370)
   * [ExpressJs Error](https://mayajuni.github.io/2016/07/04/expressJs-error/)
   * [express-status-monitor - Realtime Monitoring solution for Express.js apps, inspired by status.github.com http://rwilinski.me](https://github.com/RafalWilinski/express-status-monitor)
   * [Express + Mongodb 프로젝트의 개발을 위한 스타터](https://github.com/mayajuni/express-typescript-mongo-seed)
