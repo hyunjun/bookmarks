@@ -1595,6 +1595,7 @@ Deep Learning
 * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 
 # Paper
+* **[paperswithcode.com](https://paperswithcode.com/)**
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [Awesome Deep Learning: Most Cited Deep Learning Papers](http://www.kdnuggets.com/2017/04/awesome-deep-learning-most-cited-papers.html)
