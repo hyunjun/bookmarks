@@ -188,10 +188,11 @@ Nomad & Remote
   * [출국 전에 한 일](https://programmeringermany.blogspot.com/2017/07/blog-post_18.html)
 * [독일 이주시, 준비해야 할 일](https://pgr21.com/?b=8&n=76403)
 * [Working in Germany](https://www.thelocal.de/tag/working+in+germany)
+* [The Berlin Startup Salary Report](https://journal.jobspotting.com/en/berlin-startup-salary-report/)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
-* [발리에서 한 달 동안 원격근무하기_(2)실제 생활](http://slowalk.tistory.com/2510)
+* [발리에서 한 달 동안 원격근무하기 (2)실제 생활](http://slowalk.tistory.com/2510)
 
 # Japan
 * [HOW I STARTED MY COMPANY IN JAPAN](http://www.dannychoo.com/en/post/27241/How+I+started+my+company+in+Japan.html)

@@ -382,6 +382,12 @@ TensorFlow
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [ENAS-Tensorflow Efficient Neural Architecture Search(ENAS)](https://github.com/MINGUKKANG/ENAS-Tensorflow)
 * [practice - 이미지 탐지기 쉽게 구현하기](https://medium.com/n42-corp/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%90%EC%A7%80%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-abd967638c8e)
+* Linear Regression
+  * [개념](http://mobicon.tistory.com/513)
+  * [Tensorflow 실습](http://mobicon.tistory.com/514)
+  * [Minimize Cost](http://mobicon.tistory.com/515)
+  * [Tensorflow를 이용한 Minimized Cost 실습](http://mobicon.tistory.com/516)
+  * [Multi Variable 개념 및 실습](http://mobicon.tistory.com/517)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -515,6 +521,7 @@ TensorFlow
 * [GPU EC2 스팟 인스턴스에 Cuda/cuDNN와 Tensorflow/PyTorch/Jupyter Notebook 세팅하기](https://beomi.github.io/2018/03/18/Create_GPU_spot_EC2_for_ML/)
 * [CUDA & CUDNN 설치 및 환경 변수 설정](https://post.naver.com/viewer/postView.nhn?volumeNo=15102526&memberNo=8098532)
 * [How to install Tensorflow GPU with CUDA Toolkit 9.1 and cuDNN 7.1.2 for Python 3 on Ubuntu 16.04-64bit](http://www.python36.com/install-tensorflow141-gpu/)
+* [Tensorflow 설치하기](http://mobicon.tistory.com/512)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)

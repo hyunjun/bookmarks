@@ -157,6 +157,8 @@ Business
     * 정말 필요한 최적의 인원
       * 피자 두 판의 법칙; 팀원이나 회의 참석자의 수가 피자 두 판을 먹을 수 있는 규모 이상으로 늘어나서는 안된다
     * 의사 결정권자, 결론을 직접 실행할 사람을 정해야 한다
+* [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
+* [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
 * [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
 * [전략과 실행의 팩트체크](https://brunch.co.kr/@lunarshore/256)
 * [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
@@ -166,6 +168,7 @@ Business
 * [나를 지키기 위한 10가지 원칙](https://brunch.co.kr/@hyungsukkim/61)
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [희생 vs 헌신](http://www.andrewahn.co/silicon-valley/sacrifice-vs-dedication/)
+* [전략 기획자의 책 1](https://brunch.co.kr/@lunarshore/292)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
