@@ -304,6 +304,7 @@
 * [Apache Spark: Scala vs. Java v. Python vs. R vs. SQL](https://mindfulmachines.io/blog/2018/6/apache-spark-scala-vs-java-v-python-vs-r-vs-sql26)
   * Scala, Java, Python, R 및 SQL에서 Apache Spark API의 차이점 설명
   * 예상대로, JVM 언어를 사용하면 성능 향상
+* [Exploratory Data Analysis in Spark with Jupyter](http://blog.madhukaraphatak.com/exploratory-data-analysis-in-spark-with-jupyter/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
@@ -375,6 +376,13 @@
   * [Spark SQL under the hood – part I](http://virtuslab.com/blog/spark-sql-hood-part-i/)
   * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types - Tutorial on how to do ETL on data from Nest and IoT Devices](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
   * [Querying our Data Lake in S3 using Zeppelin and Spark SQL](https://medium.com/@deniseschlesinger/querying-our-data-lake-in-s3-using-zeppelin-and-spark-sql-be50c3b7a613)
+* Exploring Spark DataSource V2
+  * [Part 1 : Limitations of Data Source V1 API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-1/)
+  * [Part 2 : Anatomy of V2 Read API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-2/)
+  * [Part 3 : In-Memory DataSource](http://blog.madhukaraphatak.com/spark-datasource-v2-part-3/)
+  * [Part 4 : In-Memory DataSource with Partitioning](http://blog.madhukaraphatak.com/spark-datasource-v2-part-4/)
+  * [Part 5 : Filter Push](http://blog.madhukaraphatak.com/spark-datasource-v2-part-5/)
+  * [Part 6 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-6/)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
@@ -521,6 +529,7 @@
 * Deep Learning With Apache Spark
   * [Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
   * [Part 2](https://towardsdatascience.com/deep-learning-with-apache-spark-part-2-2a2938a36d35)
+* [Converting Spark ML Vector to Numpy Array](http://blog.madhukaraphatak.com/spark-vector-to-numpy/)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
@@ -673,6 +682,7 @@
 * [Internals of Spark Streaming](http://bytecontinnum.com/ioss/)
 * [Why is My Stream Processing Job Slow?](https://databricks.com/session/why-is-my-stream-processing-job-slow)
 * [How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming](https://medium.com/walmartlabs/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3) 월마트 랩에서 Apache Kafka, Spark Streaming/Batch로 Lambda 아키텍처를 구현하기 위해 구축된 A/B 테스트 플랫폼 소개
+* [Introduction to Spark Structured Streaming - Part 15: Meetup Talk on Time and Window API](http://blog.madhukaraphatak.com/introduction-to-spark-structured-streaming-part-15/)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

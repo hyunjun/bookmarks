@@ -390,6 +390,9 @@ TensorFlow
   * [Multi Variable 개념 및 실습](http://mobicon.tistory.com/517)
   * [Logistic classification 개념](http://mobicon.tistory.com/518)
   * [Mutinomial Classification 개념](http://mobicon.tistory.com/519)
+  * [Softmax 실습](http://mobicon.tistory.com/520)
+  * [Learning rate, data preprocessing, overfiting](http://mobicon.tistory.com/521)
+  * [Data set 구분](http://mobicon.tistory.com/522)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
