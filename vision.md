@@ -161,6 +161,7 @@ Vision
   * [PyTorch-YOLOv3](https://github.com/eriklindernoren/PyTorch-YOLOv3)
   * [PyTorch 로 YOLOv3 구현한 것을 Colaboratory 에서 돌려보자](http://jusths.tistory.com/15)
   * [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+  * [Soccer Ball Detection using YOLOv2 (Darkflow)](https://github.com/deep-diver/Soccer-Ball-Detection-YOLOv2)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)

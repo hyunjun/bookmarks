@@ -383,6 +383,7 @@ Clojure
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
 * [cljs-devtools - Better presentation of ClojureScript values in Chrome Devtools](https://github.com/binaryage/cljs-devtools)
+* [cljs-test-display](https://github.com/bhauman/cljs-test-display)
 * [clojurecuda.uncomplicate.org](http://clojurecuda.uncomplicate.org/)
 * [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
 * [clojerl - Clojure implemented on the Erlang VM](https://github.com/jfacorro/clojerl)

@@ -125,6 +125,7 @@ Algorithm
 * [Shortest Range in K sorted lists](https://www.youtube.com/watch?v=Fqal25ZgEDo&t=3s)
 * **[qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)** 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
+* **[알고리즘 학습에 대한 조언](https://www.haruair.com/blog/4546)**
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

@@ -71,6 +71,7 @@ Linux
 * **[Understanding disk usage in Linux](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)**
   * [번역 - Understanding disk usage in Linux](https://github.com/hatsari/article/blob/master/understanding_disk_usage_in_linux/understanding_disk_usage_in_linux_ko.md)
 * [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
+* **[The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)**
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -274,6 +275,7 @@ Linux
   * [Getting Started with SSH](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
   * [ssh key 효율적인 관리 방법](http://www.popit.kr/ssh-key-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
   * [SSH known_host 메모](http://bcho.tistory.com/1227) ssh-keyscan
+  * `ssh-keygen -R <ip>` [Host key verification failed 대처](http://uni2u.tistory.com/93)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0

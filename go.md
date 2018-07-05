@@ -131,6 +131,7 @@ Go
 * [Roadomatic: Node vs. Go](http://assil.me/2015/11/07/roadomatic-node-vs-go.html)
 * [The Legacy of Go](http://dave.cheney.net/2015/11/15/the-legacy-of-go)
 * [Are Go maps sensitive to data races ?](http://dave.cheney.net/2015/12/07/are-go-maps-sensitive-to-data-races)
+* [How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
 * [Go로 새 프로젝트 시작하기](http://www.slideshare.net/100001105751070/go-51748987)
 * [Beyond the Hype: 4 Years of Go in Production](http://www.infoq.com/presentations/go-iron-production)
 * [Go 언어로 우버에서 초당 요청수가 가장 많은 서비스를 어떻게 개발했나?](https://only2sea.wordpress.com/2016/03/08/go-%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%9A%B0%EB%B2%84%EC%97%90%EC%84%9C-%EC%B4%88%EB%8B%B9-%EC%9A%94%EC%B2%AD%EC%88%98%EA%B0%80-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-2/)

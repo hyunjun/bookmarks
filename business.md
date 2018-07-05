@@ -169,6 +169,8 @@ Business
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [희생 vs 헌신](http://www.andrewahn.co/silicon-valley/sacrifice-vs-dedication/)
 * [전략 기획자의 책 1](https://brunch.co.kr/@lunarshore/292)
+* [전략 기획자의 책 2](https://brunch.co.kr/@lunarshore/293)
+* [전략 기획자의 책 3](https://brunch.co.kr/@lunarshore/294)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

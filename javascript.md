@@ -480,6 +480,7 @@ Javascript
 * [ES5 vs ES6 ( With example code)](https://codeburst.io/es5-vs-es6-with-example-code-9901fa0136fc)
 * [ECMAScript 2016, 2017, 2018 변경점 정리 글 링크](http://greentec.egloos.com/4437541)
 * [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
+* [ES6 문법으로 다시 시작하는 자바스크립트](https://hudi.kr/es6-%EB%AC%B8%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%8B%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)

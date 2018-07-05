@@ -388,6 +388,8 @@ TensorFlow
   * [Minimize Cost](http://mobicon.tistory.com/515)
   * [Tensorflow를 이용한 Minimized Cost 실습](http://mobicon.tistory.com/516)
   * [Multi Variable 개념 및 실습](http://mobicon.tistory.com/517)
+  * [Logistic classification 개념](http://mobicon.tistory.com/518)
+  * [Mutinomial Classification 개념](http://mobicon.tistory.com/519)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
