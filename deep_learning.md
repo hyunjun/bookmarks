@@ -637,6 +637,7 @@ Deep Learning
   * 테이블 형식 데이터는 업계에서 가장 일반적으로 사용되는 데이터 형식이지만 테이블 형식 데이터에 대한 딥러닝은 컴퓨터 비전과 자연어 처리에 대한 딥러닝보다 훨씬 덜 관심을 받음
   * 신경망을 테이블 형식의 데이터에 적용하는 몇가지 주요 개념, 특히 범주형 변수를 포함한 아이디어를 기술
 * [1st 함께하는 딥러닝 컨퍼런스](https://tykimos.github.io/2018/06/28/ISS_1st_Deep_Learning_Conference_All_Together/)
+* [Deep Learning 역사](http://mobicon.tistory.com/523)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

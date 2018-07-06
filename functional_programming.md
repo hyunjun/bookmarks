@@ -41,6 +41,7 @@ Functional Programming
   * [어떤 프로그래밍 언어들이 함수형인가?](https://medium.com/@jooyunghan/어떤-프로그래밍-언어들이-함수형인가-fec1e941c47f)
   * [함수형 프로그래밍이란 - 2편](http://okky.kr/article/309023)
 * [함수형 프로그래밍(Functional Programming) 기초](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
+* [함수형 프로그래밍 두번째 이야기: 왜 함수형이라고 부를까?](http://kwangshin.pe.kr/blog/2015/06/18/fp-e2-why-is-it-called-functional/)
 * [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
 * [2015-09 Category Theory in Functional Programming](https://www.youtube.com/watch?v=T5uhoCPV69Y)
 * [순수 함수와 정직한 설계](http://hhko.tistory.com/entry/%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98%EC%99%80-%EC%A0%95%EC%A7%81%ED%95%9C-%EC%84%A4%EA%B3%84)

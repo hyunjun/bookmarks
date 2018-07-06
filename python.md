@@ -2354,6 +2354,7 @@ Python
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
 * [Pandas 팬더스 강의 기초 실습](https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle)
   * [판다스 명령어 팁](https://github.com/minsuk-heo/pandas/blob/master/%ED%8C%AC%EB%8D%94%EC%8A%A4_%EB%AA%85%EB%A0%B9%EC%96%B4_%EA%BF%80%ED%8C%81.ipynb)
+* [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
 * [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
