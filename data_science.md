@@ -408,5 +408,6 @@ Data Science
   * [SK ICT Tech Summit 2017 추천 플랫폼 콜로세오](https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet)
 
 ## Python
-* [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
+* [Collaborative-filtering-Tutorial](https://github.com/kwoncheol/Collaborative-filtering-Tutorial)
+* [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)

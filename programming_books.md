@@ -23,10 +23,10 @@ Programming Books
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
   * 탐라 개005.1-니58ㅋ
   * 한라 005.11-니58ㅋ
-* (NOT YET) [카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196203726&orderClick=LEA&Kc=)
-  * 2018.05 탐라
+* [카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196203726&orderClick=LEA&Kc=)
+  * 탐라 문005.76고58ㅋ
   * [카프카, 데이터 플랫폼의 최강자](http://jhrogue.blogspot.kr/2018/05/blog-post.html)
-* (NOT YET) [반갑다 Ionic](http://bjpublic.tistory.com/296)
+* [반갑다 Ionic](http://bjpublic.tistory.com/296)
   * 한라 005.11이14ㅂ
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
@@ -177,9 +177,10 @@ Programming Books
 * (친절한 설명과 풍부한 그림으로 배우는) SQL 더 쉽게, 더 깊게
   * 탐라 개005.755-미877ㅇ
 * (NOT YET) **Real MySQL 개발자와 DBA를 위한**
-* (NOT YET) [데이터 분석을 위한 SQL 레시피](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565)
+* **[데이터 분석을 위한 SQL 레시피](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565)**
   * 한라 005.755가52ㄷ
   * [데이터 분석을 위한 SQL 레시피](http://jybaek.tistory.com/742)
+  * PostgreSQL, Apache Hive, Amazon Redshift, Google BigQuery, SparkSQL에 적용가능한 중급 이상의 SQL
 
 # Data Science
 
@@ -940,10 +941,12 @@ Programming Books
   * Tk, turtle, wxPython, pycharm 기초 사용법 등이 나온 점만 제외하면 완전히 입문서
 * (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
   * 한라 005.133-미83ㅍ
-* (NOT YET) [구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)
+* **[구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)**
   * 한라 005.133김65ㄱ
+  * 여러가지 라이브러리 기본 사용법
 * **[파이썬답게 코딩하기](http://bjpublic.tistory.com/302)**
   * 한라 005.133심14ㅍ
+  * multithreading, multiprocessing, async
 * (NOT YET) 파이썬 Jupyter Notebook 실전 입문
   * 2018.06 탐라
 * (NOT YET) [우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)

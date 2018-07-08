@@ -479,6 +479,7 @@ Python
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
   * [Descriptors in Python](https://www.youtube.com/watch?v=HUtLnn5MBGk)
+  * [PYTHON Special methods - Customizing attribute access](https://gist.github.com/dbckdghk/084ee166f16763ca110e711db29cd7e4)
 * dict
   * [dict <=> str 변환 시 eval 또는 cPickle](http://mcchae.egloos.com/11183324)
   * [Replacements for switch statement in Python?](http://stackoverflow.com/questions/60208/replacements-for-switch-statement-in-python)
@@ -1577,6 +1578,7 @@ Python
   * [구글 드라이브의 Colabortory를 통해 파이썬 데이터 시각화툴(Matplotlib, Seaborn, Altair, Plotly, bokeh) 사용하기](https://www.youtube.com/watch?v=GCJQ9zbAhPo)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
   * [Google Colab - 구글 드라이브 연동하기](https://brunch.co.kr/@jayden-factory/6)
+  * [구글 콜래보래토리 소개 (revised)](https://colab.research.google.com/drive/1UvCUf0V0BYiMArtOJOUjt_Pgy4aHd8o9)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 
@@ -2159,6 +2161,7 @@ Python
   * [Using Python to power Selenium at scale (Brandon Rhodes)](https://www.youtube.com/watch?v=z1aUuqKg_gA)
   * [Selenium을 활용한 크롤러 제작 후기](https://medium.com/@peteryun/python-selenium%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-b055cefd1195)
   * [Better web scraping in Python with Selenium, Beautiful Soup, and pandas](https://medium.freecodecamp.org/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251)
+  * [셀레니움 브라우저 자동화 - 네이버 쪽지 쓰기](http://nbviewer.jupyter.org/gist/FinanceData/e1f010fba64a939269654389ba27db39)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
