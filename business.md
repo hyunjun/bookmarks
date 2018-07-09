@@ -171,6 +171,7 @@ Business
 * [전략 기획자의 책 1](https://brunch.co.kr/@lunarshore/292)
 * [전략 기획자의 책 2](https://brunch.co.kr/@lunarshore/293)
 * [전략 기획자의 책 3](https://brunch.co.kr/@lunarshore/294)
+* [전략 기획자의 책 4](https://brunch.co.kr/@lunarshore/295)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)

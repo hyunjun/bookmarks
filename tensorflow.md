@@ -393,6 +393,15 @@ TensorFlow
   * [Softmax 실습](http://mobicon.tistory.com/520)
   * [Learning rate, data preprocessing, overfiting](http://mobicon.tistory.com/521)
   * [Data set 구분](http://mobicon.tistory.com/522)
+  * [Deep Learning 역사](http://mobicon.tistory.com/523)
+  * [Manipulation - matmul, reshape, zip, etc](http://mobicon.tistory.com/524)
+  * [XOR 문제 풀기 과정 및 수식](http://mobicon.tistory.com/525)
+  * [Deirvative 미분 정리](http://mobicon.tistory.com/526)
+  * [TensorBoard 사용 및 ReLU 개념](http://mobicon.tistory.com/527)
+  * [Weight 초기화 잘하기](http://mobicon.tistory.com/528)
+  * [Dropout 과 앙상블](http://mobicon.tistory.com/529)
+  * [Neural Network 종류](http://mobicon.tistory.com/530)
+  * [Softmax에 NN 적용하는 순서 팁](http://mobicon.tistory.com/531)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

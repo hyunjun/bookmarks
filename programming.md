@@ -184,6 +184,7 @@ Programming
 * [The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot](https://hackernoon.com/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9)
 * [Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=eEBOvqMfPoI)
 * [번역 나는 어떻게 더 나은 프로그래머가 되었는가](https://adhrinae.github.io/posts/how-i-became-a-better-programmer-kr/)
+* [스타트업에서 전화응대 고객센터 간단히 구축하기](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%A0%84%ED%99%94%EC%9D%91%EB%8C%80-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0-%EA%B0%84%EB%8B%A8%ED%9E%88-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-5f7a6919130d)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -832,6 +833,7 @@ Programming
   * [6월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/06/b-6-2.html)
   * [6월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/06/b-6-3.html)
   * [6월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/06/b-6-4.html)
+  * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/07/b-7-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

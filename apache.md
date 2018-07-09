@@ -148,6 +148,10 @@ Apache
   * 합성 데이터로 시스템을 테스트하는 방법과 ELK를 사용하여 모니터링 하는 방법도 설명
   * [PART 1](http://getindata.com/stream-analytics-platform-telco-part-1/)
   * [PART 2](http://getindata.com/stream-analytics-platform-telco-part-2/)
+* [Flink at netflix paypal speaker series](https://www.slideshare.net/mdaxini/flink-at-netflix-paypal-speaker-series-104453588)
+  * Netflix의 (수천 대 규모의) 스트림 처리 시스템은 하루 약 4조개 이상(36GB/sec)의 이벤트를 처리
+  * 이 시스템은 Apache Flink와 Apache Kafka 기반으로 하는 셀프 서비스 인프라로 구축
+  * Flink를 사용하는 이유와 구현과 운영에 대해 설명
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)

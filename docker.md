@@ -442,6 +442,7 @@ Docker
   * [#9 - HealthCheck](http://bcho.tistory.com/1264)
   * [#10 - 배포](http://bcho.tistory.com/1266)
   * [#11 - ConfigMap](http://bcho.tistory.com/1267)
+  * [#12 - Secret](http://bcho.tistory.com/1268)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)

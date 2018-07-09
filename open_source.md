@@ -221,6 +221,7 @@ Open Source
 * [AthenaX](https://eng.uber.com/athenax/)
   * [github.com/uber/AthenaX](https://github.com/uber/AthenaX)
   * SQL 기반의 스트리밍 분석 플랫폼(KSQL에 비견)
+* [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
 
 # Walmart
 * [walmartlabs.com](http://www.walmartlabs.com/)

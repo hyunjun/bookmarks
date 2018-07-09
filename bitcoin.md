@@ -43,6 +43,7 @@ Bitcoin
 * [2018년 22번재 주 - P2P Network](https://blog.seulgi.kim/2018/06/w22.html)
 * [내 토큰을 맘대로 빼갈 수 있는 컨트렉트를 만들 수 있을까..?](https://medium.com/onther-tech/%EB%82%B4-%ED%86%A0%ED%81%B0%EC%9D%84-%EB%A7%98%EB%8C%80%EB%A1%9C-%EB%B9%BC%EA%B0%88-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%BB%A8%ED%8A%B8%EB%A0%89%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-3f607d3c5ceb)
 * [비트코인과 수학공식 (1/2)](https://brunch.co.kr/@amangkim/50)
+* [#51. Zeppelin Solidity의 SmartContract에 대해서 알아보자!(1)](https://steemit.com/kr/@kblock/52-zeppelin-solidity-smartcontract-1)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)

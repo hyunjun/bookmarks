@@ -316,6 +316,7 @@ Git
 * [`revert`](https://git-scm.com/docs/git-revert)
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
   * [revert-a-faulty-merge](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt)
+  * **[git merge 커밋 리버트(revert)](http://ohyecloudy.com/pnotes/archives/git-revert-merge-commit/)**
 * submodule
   * [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
   * [Git: 서브모듈 이해하기 (git submodule)](http://ohgyun.com/711)

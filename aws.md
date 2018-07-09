@@ -103,6 +103,10 @@ AWS
   * [1. Code Deploy 사용하기](http://jojoldu.tistory.com/281)
   * [2. AWS Code Build로 빌드하기](http://jojoldu.tistory.com/282)
   * [3. AWS Code Pipeline으로 배포하기](http://jojoldu.tistory.com/283)
+* AWS Code Deploy로 배포 Jenkins에서 배치 Jenkins로 Spring Batch 배포하기
+  * [1. 기본 환경 구성](http://jojoldu.tistory.com/313)
+  * [2. Code Deploy 연동](http://jojoldu.tistory.com/314)
+  * [3. 젠킨스 연동](http://jojoldu.tistory.com/315)
 * [AWS Lambda로 Code Deploy 배포 상세 결과 알람 받기](http://jojoldu.tistory.com/298)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [Aws summit 2017_이상오_fn](https://www.slideshare.net/LEEKevin3/aws-summit-2017fn-75222961)
@@ -283,5 +287,6 @@ AWS
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
+* [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
