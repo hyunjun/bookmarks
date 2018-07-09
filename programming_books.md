@@ -23,9 +23,9 @@ Programming Books
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
   * 탐라 개005.1-니58ㅋ
   * 한라 005.11-니58ㅋ
-* [카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791196203726&orderClick=LEA&Kc=)
+* **[카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://jhrogue.blogspot.kr/2018/05/blog-post.html)**
   * 탐라 문005.76고58ㅋ
-  * [카프카, 데이터 플랫폼의 최강자](http://jhrogue.blogspot.kr/2018/05/blog-post.html)
+  * 주키퍼, 카프카 스트림즈, KSQL, 구글 펍/섭, 아마존 키네시스 등
 * [반갑다 Ionic](http://bjpublic.tistory.com/296)
   * 한라 005.11이14ㅂ
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
@@ -776,8 +776,9 @@ Programming Books
   * 2017.06 탐라 한라
 * [착한 수학 (Good Math)](https://youngjaekim.wordpress.com/2017/05/24/%EC%B0%A9%ED%95%9C-%EC%88%98%ED%95%99/)
   * 한라 410.4-추873ㅊ
-* (NOT YET) [프로그래머를 위한 단단한 수학 책, 『CONCRETE MATHEMATICS 구체 수학』](http://www.insightbook.co.kr/12759)
-  * 2018.06 한라
+* [프로그래머를 위한 단단한 수학 책, 『CONCRETE MATHEMATICS 구체 수학』](http://www.insightbook.co.kr/12759)
+  * 한라 413.5그294ㄱ
+  * continuous + discrete = concrete. 이 책을 읽고 이해할 수 있다면 왠만한 problem solving 영역의 문제들은 해결할 수 있을 듯
 
 # Network
 
@@ -949,8 +950,10 @@ Programming Books
   * multithreading, multiprocessing, async
 * (NOT YET) 파이썬 Jupyter Notebook 실전 입문
   * 2018.06 탐라
-* (NOT YET) [우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)
-  * 2018.06 한라
+* **[우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)**
+  * 한라 005.133누194ㅇ
+  * [github.com/elegant-scipy](https://github.com/elegant-scipy)
+  * scipy + 선형대수
 * (NOT YET) [파이썬을 활용한 금융공학 레시피](http://book.daum.net/detail/book.do?bookid=BOK00035116706YE)
   * 2018.07 탐라
 
@@ -1065,15 +1068,16 @@ Programming Books
 * 아파치 스파크 입문 - 따라 하며 쉽게 익히는 스파크 SQL, 스트림처리, 머신러닝
   * 탐라 004.584 사237ㅇ
   * 6장까지는 2.0, 7, 8장과 부록은 1.6.1 코드라고 함. 부록은 그래프X, 스파크R, 스트림 처리
-* (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798)
+* [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798)
+  * 한라 005.74멘24ㅎ
+  * 기본적인 소개에 그치는 듯. 다른 책을 보고 나서 필요하면 봐도 될 듯
 * (NOT YET) [스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)
   * 2018.07 한라
-* (NOT YET) [하이 퍼포먼스 스파크](http://jpub.tistory.com/800)
+* **[하이 퍼포먼스 스파크](http://jpub.tistory.com/800)**
+  * 한라 005.74카295ㅎ
+  * 최신 내용에 대해 자세히 설명. spark 코드를 위해 필수. 2.2.1, 2.3.0에서 테스트했다고 함
 * (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798&page=1&TF=T)
   * 2018.06 한라
-* (NOT YET) 하이 퍼포먼스 스파크
-  * 2018.06 한라
-  * [빅데이터 분석의 대세 프레임워크, 아파치 스파크](http://jpub.tistory.com/800)
 
 # Statistics
 

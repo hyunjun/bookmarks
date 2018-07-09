@@ -2162,6 +2162,7 @@ Python
   * [Selenium을 활용한 크롤러 제작 후기](https://medium.com/@peteryun/python-selenium%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%A7%8C%EB%93%A4%EA%B8%B0-b055cefd1195)
   * [Better web scraping in Python with Selenium, Beautiful Soup, and pandas](https://medium.freecodecamp.org/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251)
   * [셀레니움 브라우저 자동화 - 네이버 쪽지 쓰기](http://nbviewer.jupyter.org/gist/FinanceData/e1f010fba64a939269654389ba27db39)
+  * [Send Naver note without Selenium](https://gist.github.com/june9713/6bc47cf38cba01793ea9d61cb5ba09e8)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
@@ -2604,6 +2605,7 @@ Python
 * [5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
 
 # SciPy
+* [github.com/elegant-scipy](https://github.com/elegant-scipy)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [SciPy Cheat Sheet: Linear Algebra in Python](https://www.datacamp.com/community/blog/python-scipy-cheat-sheet)
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
