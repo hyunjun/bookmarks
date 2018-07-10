@@ -2603,6 +2603,7 @@ Python
 * [www.python3statement.org](http://www.python3statement.org/) 2020까지 python2.7 지원 중단하기로 하는 project 모음
 * [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure/blob/master/README.md)
 * [5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
+* [Python 3.7의 새로운 기능들](http://geekhub.co.kr/blog/translation-python37-new-features)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)

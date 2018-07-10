@@ -185,6 +185,7 @@ Vision
 * [Convolution & Correlation 이해하기](http://www.popit.kr/%EB%94%AE%EB%9F%AC%EB%8B%9D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC-convolution-correlation-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 * [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
 * [Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3) image classification
+* **[Modern C++ for Computer Vision and Image Processing](http://www.ipb.uni-bonn.de/teaching/modern-cpp/)**
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
