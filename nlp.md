@@ -228,6 +228,7 @@ NLP
 * [NLP with attention](https://github.com/dsindex/blog/wiki/%5Battention%5D-NLP-with-attention)
 * [CodeSandbox - an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io/)
 * [Team AURA - 1st Meeting Summary](https://www.ai-lab.kr/labs/aura-raebjang-gimhyeonu/team-aura-1st-meeting-summary)
+* [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

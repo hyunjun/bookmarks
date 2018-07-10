@@ -273,6 +273,7 @@ Business
 * [어떤 분위기의 팀을 만들 것인가?](https://brunch.co.kr/@younghakjang/55)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
+* [FB101 피드백 개론](https://brunch.co.kr/@younghakjang/61)
 * [같이 의논하고 한 명이 결정한다](https://brunch.co.kr/@hyungsukkim/69)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
