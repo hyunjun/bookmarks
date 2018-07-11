@@ -409,6 +409,7 @@ Python
   * [`__exit__` must accept 3 arguments: type, value, traceback ](https://docs.quantifiedcode.com/python-anti-patterns/correctness/exit_must_accept_three_arguments.html)
   * [A brief tour of Python 3.7 data classes](https://hackernoon.com/a-brief-tour-of-python-3-7-data-classes-22ee5e046517)
   * [Dynamically create a type with Python](http://henry.precheur.org/python/Dynamically%20create%20a%20type%20with%20Python.html)
+  * [PYTHON Special methods - Customizing class creation](https://gist.github.com/dbckdghk/f6d2e877bc1cfeb20ca91e0afe18089f)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -1669,6 +1670,7 @@ Python
 * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
+	* [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)

@@ -385,6 +385,7 @@ Linux
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
+* **[cheat.sh - the only cheat sheet you need https://cheat.sh](https://github.com/chubin/cheat.sh)**
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
 * [cronitor.io - Monitor cron jobs, microservices and almost anything else](https://cronitor.io/)
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
