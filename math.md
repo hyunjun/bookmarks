@@ -103,6 +103,7 @@ Math
 * [Fourier visualized](https://84c67cd8f568acc648fb74bc321df20db70c2600.googledrive.com/host/0B3p9nx7jwyf9MjFtY3d1aXVBMjA/fourier.gif)
 * [PERFORMING A FAST FOURIER TRANSFORM (FFT) ON A SOUND FILE](http://www.dummies.com/programming/python/performing-a-fast-fourier-transform-fft-on-a-sound-file/) python
 * [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
+* [github.com/bemoregt/BemoWiki/wiki/FourierImaging](https://github.com/bemoregt/BemoWiki/wiki/FourierImaging)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)

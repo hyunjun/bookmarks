@@ -382,7 +382,7 @@ TensorFlow
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [ENAS-Tensorflow Efficient Neural Architecture Search(ENAS)](https://github.com/MINGUKKANG/ENAS-Tensorflow)
 * [practice - 이미지 탐지기 쉽게 구현하기](https://medium.com/n42-corp/%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%90%EC%A7%80%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-abd967638c8e)
-* Linear Regression
+* Tensorflow, Linear Regression, Deep Learning, ...
   * [개념](http://mobicon.tistory.com/513)
   * [Tensorflow 실습](http://mobicon.tistory.com/514)
   * [Minimize Cost](http://mobicon.tistory.com/515)
@@ -402,6 +402,7 @@ TensorFlow
   * [Dropout 과 앙상블](http://mobicon.tistory.com/529)
   * [Neural Network 종류](http://mobicon.tistory.com/530)
   * [Softmax에 NN 적용하는 순서 팁](http://mobicon.tistory.com/531)
+  * [Convolution Neural Network](http://mobicon.tistory.com/532)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

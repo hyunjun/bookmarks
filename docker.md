@@ -288,6 +288,7 @@ Docker
   ```
   sudo docker exec -it [container id] /bin/bash # to get bash into a running container
   sudo docker exec [container id] ls /some/path/
+  sudo docker exec <container id or name> sh -c 'chown www-data <absolute directory path>/*'  # apache flask 실행 후 log directory 권한이 충돌해 정상 호출이 불가능한 경우
   ```
 * images `sudo docker images`
 * inspect `sudo docker inspect [container id] | grep IPAddress...`

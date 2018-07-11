@@ -399,6 +399,7 @@ ElasticSearch - Lucene
 * [Raigad - Co-Process for backup/recovery, Auto Deployments and Centralized Configuration management for ElasticSearch](https://github.com/Netflix/Raigad)
 * Rally
   * [Announcing Rally: Our benchmarking tool for Elasticsearch](https://www.elastic.co/blog/announcing-rally-benchmarking-for-elasticsearch)
+  * [Rally 1.0.0 Released: Benchmark Elasticsearch Like We Do](https://www.elastic.co/blog/rally-1-0-0-released-benchmark-elasticsearch-like-we-do)
 * [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
   * [Elasticsearch/Python test](https://gist.github.com/bonzanini/fe2ff32116f16e3009be)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)

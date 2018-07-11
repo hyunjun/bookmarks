@@ -364,6 +364,7 @@ NLP
 * [카카오톡 자동응답 API를 이용하여 카카오톡 봇 만들기](http://secumaster2.tistory.com/3)
 * [The Conversational Intelligence Challenge](https://deeppavlov.github.io/convai/)
 * [Visual Dialog - a novel task that requires an AI agent to hold a meaningful dialog with humans in natural, conversational language about visual content](https://visualdialog.org/)
+  * [Visual Dialog Challenge 2018](https://visualdialog.org/challenge/2018)
 * [Natural Language Pipeline for Chatbots](https://hackernoon.com/natural-language-pipeline-for-chatbots-897bda41482)
 * [Contextual Chat-bots with Tensorflow](https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077)
 * [How To Build an Interactive Chatbot for Twitter Direct Messages](https://chatbotsmagazine.com/how-to-create-a-twitter-direct-message-bot-with-quick-replies-3ee6a2af4a12)
