@@ -403,6 +403,11 @@ TensorFlow
   * [Neural Network 종류](http://mobicon.tistory.com/530)
   * [Softmax에 NN 적용하는 순서 팁](http://mobicon.tistory.com/531)
   * [Convolution Neural Network](http://mobicon.tistory.com/532)
+  * [Tensorflow CNN 기본](http://mobicon.tistory.com/533)
+  * [MNIST 99% 도전](http://mobicon.tistory.com/534)
+  * [Class, tf.layers, Ensemble](http://mobicon.tistory.com/535)
+  * [Recurrent Neural Network 개념](http://mobicon.tistory.com/536)
+  * [Basic & Training 하기](http://mobicon.tistory.com/537)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
