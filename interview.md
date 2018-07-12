@@ -14,6 +14,7 @@ Interview
   * [코딩 인터뷰 완전 분석 풀이집 (파이썬)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24RlncfRjfoZHnD0YWVsvhq)
   * [minsuk-heo/cracking the coding interview](https://www.youtube.com/watch?v=GhnNfDeaiOk&list=PLVNY1HnUlO24158Ac_ZRlPGvReK4tW0CC)
   * [github.com/minsuk-heo/problemsolving/Craking the Coding Interview](https://github.com/minsuk-heo/problemsolving/tree/master/Craking%20the%20Coding%20Interview)
+  * [How to use Cracking the Coding Interview Effectively](https://www.youtube.com/watch?v=xAxgzrj8zgU)
 * [Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc.](https://www.youtube.com/watch?v=lD-LuK_VGZI)
 * [How to Succeed in any Programming Interview](https://www.youtube.com/watch?v=5KB5KAak6tM)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
@@ -145,6 +146,7 @@ Interview
 * [나의 실리콘밸리 사내정치 스토리](https://medium.com/@kpak/%EB%82%98%EC%9D%98-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-%EC%82%AC%EB%82%B4%EC%A0%95%EC%B9%98-%EC%8A%A4%ED%86%A0%EB%A6%AC-db64e7e043e7)
 * [6년차 개발자 해외취업 도전기 – 3. 아마존, 첫번째 시도](http://test-driven.me/wp/2018/03/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-3-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EC%8B%9C%EB%8F%84/)
 * [Amazon의 연봉 및 보상 체계](https://steemit.com/kr/@asbear/2fzkfy-amazon)
+* [Amazon 취업 후기 - 컨택부터 오퍼까지](https://steemit.com/kr/@asbear/amazon)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -188,9 +190,10 @@ Interview
 * [How To Ace Data Science Interviews: R & Python](https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de)
 
 # Facebook
-* [페이스북 면접은 이렇게 다르다](http://catlog.kr/entry/how-facebook-interview-different)
 * [I just got a developer job at Facebook. Here’s how I prepped for my interviews](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)
 * [To what resources should I prepare with and refer to for a software engineering interview at Facebook?](https://www.quora.com/To-what-resources-should-I-prepare-with-and-refer-to-for-a-software-engineering-interview-at-Facebook)
+* [페이스북 면접, 두번의 실패 #1](https://steemit.com/kr/@asbear/1)
+* [페이스북 면접, 두번의 실패 #2](https://steemit.com/kr/@asbear/2)
 * [페이스북의 평가와 보상](https://brunch.co.kr/@hyungsukkim/19)
 * [워라밸과 번아웃](https://brunch.co.kr/@hyungsukkim/13)
 * [No라고 말할 수 있는 권리](https://brunch.co.kr/@hyungsukkim/10)
@@ -235,7 +238,7 @@ Interview
 * [google codejam](https://code.google.com/codejam)
 * [hacker rank](https://www.hackerrank.com/)
   * [CRACKING THE CODING INTERVIEW](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
-* [{*}helloworld](http://tryhelloworld.co.kr/challenges)
+* [{\*}helloworld](http://tryhelloworld.co.kr/challenges)
 * [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
 * [icpc.baylor.edu](https://icpc.baylor.edu/)
 * [interviewbit.com](https://www.interviewbit.com/)
