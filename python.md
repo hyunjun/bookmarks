@@ -347,6 +347,8 @@ Python
 * bit manipulation
   * [practice - sum of two integers using bit manipulation](https://github.com/hyunjun/practice/blob/master/python/problem-math/sum_of_two_integers.py)
     * [What is good way to negate an integer in binary operation in python?](https://stackoverflow.com/questions/37135106/what-is-good-way-to-negate-an-integer-in-binary-operation-in-python)
+* [#3.1. Tensorflow vs. PyTorch](https://www.youtube.com/watch?v=tNWatDufzDk)
+  * [Tensorflow vs. PyTorch](https://github.com/ghlee0304/pytorch-basic-with-tensorflow/tree/master/comparison_tensorflow_pytorch)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)

@@ -120,6 +120,7 @@ Nomad & Remote
 * [How to benefit from the Global Skills Strategy](http://www.cic.gc.ca/english/work/employers/gss.asp)
 * [안녕, 밴쿠버](https://brunch.co.kr/@jaewooahn/2)
 * [LMIA](https://brunch.co.kr/@behere/16)
+* [캐나다 이민을 공부하기 전에 무조건 알아야 하는 개념. 그 첫 번째: 직업 분류 코드](https://brunch.co.kr/@behere/13)
 
 # Chile
 * [Startup Chile's Successful Companies](http://blog.entrywire.com/chiles-public-portfolio/)

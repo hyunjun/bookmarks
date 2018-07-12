@@ -97,6 +97,7 @@ PyTorch
 * [PyTorch for Natural Language Processing: A Sentiment Analysis Example](https://gsarantitis.wordpress.com/2018/06/10/pytorch-for-natural-language-processing-a-sentiment-analysis-example/)
 * [PyTorch Sentiment Analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
 * [Keras or PyTorch as your first deep learning framework](https://deepsense.ai/keras-or-pytorch/)
+* [PyTorch 튜토리얼, 프로젝트, 라이브러리, 비디오, 논문, 책 등의 리소스 목록](https://blog.naver.com/nextobe/221096550395)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

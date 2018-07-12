@@ -267,8 +267,6 @@ App
 # Etc
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
   * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
-* [asciiflow.com](http://asciiflow.com/)
-  * [Shaky: ASCII Diagram to PNG](http://shaky.github.bushong.net/)
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
 * latex
   * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
@@ -310,6 +308,9 @@ App
 # Mac
 * [최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
+  * [한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
+    * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
+    * [OS X에서 shift + space 키로 입력 소스를 전환하는 방법 (패러렐즈 한영전환 보충 내용)](http://macnews.tistory.com/3748)
 * [Become The Shortcut Master — The Mac and Terminal (Part 1)](https://hackernoon.com/become-the-shortcut-master-the-mac-and-terminal-part-1-80793d8df033)
 * [맥북프로 재부팅 문제 해결 삽질기](http://www.popit.kr/%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EC%9E%AC%EB%B6%80%ED%8C%85-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%BD%EC%A7%88%EA%B8%B0/)
 * [Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
@@ -469,6 +470,7 @@ App
 
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
+* [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [cacoo](https://cacoo.com/)
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
@@ -486,6 +488,8 @@ App
 * [PlantText UML Editor](http://www.planttext.com/)
 * [plant UML](http://plantuml.com/)
 * [precursor](https://precursorapp.com/)
+* [sequence diagram.org](https://sequencediagram.org/)
+* [Shaky: ASCII Diagram to PNG](http://shaky.github.bushong.net/)
 * [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 
