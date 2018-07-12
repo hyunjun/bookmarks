@@ -98,6 +98,7 @@ PyTorch
 * [PyTorch Sentiment Analysis](https://github.com/bentrevett/pytorch-sentiment-analysis)
 * [Keras or PyTorch as your first deep learning framework](https://deepsense.ai/keras-or-pytorch/)
 * [PyTorch 튜토리얼, 프로젝트, 라이브러리, 비디오, 논문, 책 등의 리소스 목록](https://blog.naver.com/nextobe/221096550395)
+* [Deep Learning with Pytorch](https://www.youtube.com/playlist?list=PLE0T24NQYyxu1_O4zu8o_w9d6Z7wuV0gW)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

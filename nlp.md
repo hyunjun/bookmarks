@@ -48,6 +48,7 @@ NLP
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
+* [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * [politeness - Write in a more polite, friendly tone](https://labs.foxtype.com/politeness)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)

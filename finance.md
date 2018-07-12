@@ -96,6 +96,7 @@ Finance
 * [Stock Prediction in Python Make (and lose) fake fortunes while learning real Python](https://towardsdatascience.com/stock-prediction-in-python-b66555171a2)
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
 * **[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)**
+* [eBest Xing api 실시간조회, 테스트 및 실행 화면 (8)](http://malchooni.name/%ED%8C%8C%EC%9D%B4%EC%8D%AC-ebest-xing-api-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A1%B0%ED%9A%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4-8/)
 * [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
 * [FinanceDataReader - Financial price data reader (an alternative to google finance and yahoo finance in pandas-datareader)](https://github.com/FinanceData/FinanceDataReader)
   * [FinanceDataReader 사용자 안내서](http://nbviewer.jupyter.org/gist/FinanceData/8fb5806466f9bd8e923d447387fc8dc9)

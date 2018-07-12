@@ -290,8 +290,9 @@
 * Practical Apache Spark in 10 minutes
   * [Part 1 - Ubuntu installation](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-1-ubuntu-installation/)
   * [Part 2 - RDD](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-2-rdd/)
-  * [Part 3 - Data Frames](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-3-data-frames/)
-  * [Part 4 - SQL](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-4-sql/)
+  * [Part 3 - Data Frames and SQL](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-3-dataframes-and-sql/)
+  * [Part 4 — MLlib](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-4-mllib/)
+	* [Part 5 - Streaming](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-5-streaming/)
 * partition의 개수가 지나치게 적게 잡혀서 worker 역시 부족하게 할당되면서 성능 하락 [problem e.g.](https://www.facebook.com/groups/sparkkoreauser/permalink/1753810921347470/)
   * 다양한 경우에서 자주 발생
   * spark sql optimizer가 업그레이드 되는 게 가장 확실한 해법이지만 그걸 기다릴 수 없기 때문에 repartition을 사용해 강제로 partition 수를 증가

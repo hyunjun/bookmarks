@@ -121,6 +121,7 @@ App
   * [Github Page와 Hexo를 통해 30분만에 기술 블로그 만들기](http://holaxprogramming.com/2017/04/16/github-page-and-hexo/)
   * [정적 블로그, Hexo 설치](https://engineering.huiseoul.com/%EC%A0%95%EC%A0%81-%EB%B8%94%EB%A1%9C%EA%B7%B8-hexo-%EC%84%A4%EC%B9%98-f8df865a693a)
   * [hexo 환경 구축하기](https://taetaetae.github.io/2016/09/23/20160923/)
+	* [hexo + github + blog 연동하기](https://taetaetae.github.io/2016/09/18/hexo_github_blog/)
   * [JEKYLL3 TRAILING SLASH 문제](http://lumiamitie.github.io/web/jkl3-trailing-slash/)
   * [GITHUB를 이용해서 블로그 하기 #1](https://jungwoon.github.io/jungwoon.github.io/GitHub-Pages/)
   * [GITHUB를 이용해서 블로그 하기 #2](https://jungwoon.github.io/jekyll/2017/07/04/Install-Jekyll-For-Mac/)
@@ -165,6 +166,8 @@ App
 * [How to Embed Solidity Code Snippets in Your Website / Blog (Using EthFiddle)](https://medium.com/loom-network/how-to-embed-solidity-code-snippets-in-your-website-blog-using-ethfiddle-980f79649c15)
 * [Deploy React to GitHub-Pages to create an amazing website!](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
 * [Base64 이미지 사용하기](http://pilot376.tistory.com/3)
+	* ![test 0](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+3TPUvDQBgH8OdDOGa+oUMgk2MpdHIIgpSUiqC0OKirgxYX8QVFRQRpBRF8KShqLbgIYkUEteCgFVuqUEVxEIkvJFhae3m8S2KbSkcFBw9yHP88+eXucgH8kQZ/jSm4VDaIy9RKCpKac9NKgU4uEJNwhHhK3qvPBVO8rxRWmFXPF+NSM1KVMbwriAMwhDgVcrxeMZm85GR0PhvGJAAmyozJsbsxgNEir4iEjIK0SYqGd8sOR3rJAGN2BCEkOxhxMhpd8Mk0CXtZacxi1hr20mI/rzgnxayoidevcGuHXTC/q6QuYSMt1jC+gBIiMg12v2vb5NlklChiWnhmFZpwvxDGzuUzV8kOg+N8UUvNBp64vy9q3UN7gDXhwWLY2nMC3zRDibfsY7wjEkY79CdMZhrxSqqzxf4ZRPXwzWJirMicDa5KwiPeARygHXKNMQHEy3rMopDR20XNZGbJzUtrwDC/KshlLDWyqdmhxZzCsdYmf2fWZPoxCEDyfIvdtNQH0PRkH6Q51g8rFO3Qzxh2LbItcDCOpmuOsV7ntNaERe3v/lP/zO8yn4N+yNPrekmPAAAAAElFTkSuQmCC)
+  * ![test 1](data:image/gif;base64,R0lGODlhDwAOAOYAAAAAAP///+Pj5MzS6qy33bfA4sDI5dne8I6e0JGg0Zim1Jqo1aGu2H6SyZOj0HWMxYWYytbY3V98vLG801p9ulN6u2SHw0JvtYiix8vU4TBmsDBmrx9fqyJgrEB1uGCOxRpeqoGjygdXpwlYpw5aqBVhrGOUx6C+3N/p8+/0+dzd3gBVpQNWpgtdphBgqxpmqxpnqyBqsDB1tmqbx3CfzJe62Z+/3a/K46/J4r/V6c/f7t/q9AJaoQhcpAlcpVuSwh9sqC10rF+Xv5G20cXY5cba5wxnnZu7zXKfthhxmS6EloezvVqcqFeeqJq+w1SjqYC0sajNysrh3drp4trn4fD49O/18vb6+Pf5+OXs6Pz9/Pv8+////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFwALAAAAAAPAA4AAAeYgAEBThYVFxocJCwrL4KCW0gIDxIUGyAiKys6jlMhCg0TKhgdI5kzjksGDA4RKgInLpkwglhHAwQJEBmCOrErOAFUNQcFCx4uN4IpMis/AUwrJh8lKy45gjvMLQFPmZkymwG9mT4oVU2ZMSmCNt5ARYJaUDwrNgE03kHrjgFRRisxvAnhx09KEm9DCBLMoqQHEYUKrVyBGAgAOw==)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)

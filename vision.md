@@ -116,6 +116,7 @@ Vision
 * [🎁 Releasing “Supervisely Person” dataset for teaching machines to segment humans](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io/en/latest/index.html)
 * [Object Detection with Tensorflow Helper Tool](https://github.com/5taku/tensorflow_object_detection_helper_tool)
+* [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
   * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
