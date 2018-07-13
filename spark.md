@@ -385,6 +385,7 @@
   * [Part 4 : In-Memory DataSource with Partitioning](http://blog.madhukaraphatak.com/spark-datasource-v2-part-4/)
   * [Part 5 : Filter Push](http://blog.madhukaraphatak.com/spark-datasource-v2-part-5/)
   * [Part 6 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-6/)
+  * [Part 7 : Meetup Talk](http://blog.madhukaraphatak.com/spark-datasource-v2-part-7/)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**

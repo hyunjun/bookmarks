@@ -282,6 +282,7 @@ AWS
 * [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/@herryhan2435/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 * [Lambda@Edge를 활용한 이미지 리사이즈 자동화](https://blog.wisen.co.kr/?p=7258)
 * [Serverless Hands-on Labs](https://github.com/awskrug/handson-labs-2018/tree/master/Serverless)
+* [서버리스에 대해서 알아보자 1차 (이론편)](https://www.slideshare.net/ssuser67b08e/1-105126600)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

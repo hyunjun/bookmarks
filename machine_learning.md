@@ -469,6 +469,7 @@ Machine Learning
 * [Machine Learning for source code analysis - Alexander Bezzubov - FOSSASIA Summit 2017](https://www.youtube.com/watch?v=M_hOn-Ren1M)
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 * **[머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)**
+* [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -489,6 +490,7 @@ Machine Learning
   * [캐빈머피 머신러닝 Kevin Murphy Machine Learning Statistic](http://www.slideshare.net/ssuser67b08e/kevin-murphy-machine-learning-statistic)
 * [Machine Learning with TensorFlow](http://tensorflowbook.com/)
   * [Machine Learning with TensorFlow](https://github.com/BinRoot/TensorFlow-Book)
+* ['Machine Learning Yearning' 책의 한국어 번역](https://github.com/deep-diver/Machine-Learning-Yearning-Korean-Translation)
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
 * [CS229T/STAT231: Statistical Learning Theory (Winter 2015)](https://web.stanford.edu/class/cs229t/notes.pdf)
 * [5 EBooks to Read Before Getting into A Machine Learning Career](http://www.kdnuggets.com/2016/10/5-free-ebooks-machine-learning-career.html)
