@@ -408,6 +408,7 @@ TensorFlow
   * [Class, tf.layers, Ensemble](http://mobicon.tistory.com/535)
   * [Recurrent Neural Network 개념](http://mobicon.tistory.com/536)
   * [Basic & Training 하기](http://mobicon.tistory.com/537)
+* [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

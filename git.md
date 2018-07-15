@@ -112,6 +112,7 @@ Git
 * [15 Tips to Enhance your Github Flow](https://hackernoon.com/15-tips-to-enhance-your-github-flow-6af7ceb0d8a3)
 * [utterances 적용](https://astrod.github.io/etc/2018/05/28/utterances-%EC%A0%81%EC%9A%A9/)
 * [깃허브 및 관련 서비스 (2018-06-08) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=F2uUDeP2Xqs)
+* [Github를 이용해서 Project Management 하는 방법 및 전체적인 프로세스에 대해서 정리](https://github.com/cheese10yun/github-project-management#ci--test-coverage)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

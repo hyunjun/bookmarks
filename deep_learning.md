@@ -638,6 +638,7 @@ Deep Learning
   * 신경망을 테이블 형식의 데이터에 적용하는 몇가지 주요 개념, 특히 범주형 변수를 포함한 아이디어를 기술
 * [1st 함께하는 딥러닝 컨퍼런스](https://tykimos.github.io/2018/06/28/ISS_1st_Deep_Learning_Conference_All_Together/)
 * [Deep Learning 역사](http://mobicon.tistory.com/523)
+* [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://www.youtube.com/watch?v=8yFQc6elePA)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

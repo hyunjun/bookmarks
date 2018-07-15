@@ -426,6 +426,7 @@ Clojure
 * [Shadow CLJS User’s Guide](https://shadow-cljs.github.io/docs/UsersGuide.html)
   * lein-cljsbuild를 대체할 수 있는 compiler
   * lein 연동 가능, 독립 실행도 가능
+* [tau.alpha - a ClojureScript library for managing webworkers, ideally similar to Clojure's concurrency primitives](https://github.com/johnmn3/tau.alpha)
 * [untangled - A ClojureScript-based webapp framework](http://untangled-web.github.io/untangled/index.html)
 
 # Library

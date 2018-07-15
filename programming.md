@@ -617,6 +617,7 @@ Programming
   * [22회 - 금주의 Tool / Service 소개 (4회) 2부](https://www.youtube.com/watch?v=dFbU2QrNy-c)
 * [NDC 17 없어서 못 뽑는다는 데브옵스(DevOps) 개발자, 어떤 일을 할까?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71605)
 * [(11) DevOps 란 무엇일까?](http://www.mobiinside.com/kr/2017/11/27/subokim-devops/)
+* [IDC 1도 모르는 개발자가 DevOps를 만났을때](https://www.slideshare.net/ssuserd5b689/idc-1-devops-105987290)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -682,6 +683,8 @@ Programming
   * [Mqtt Stress Test](http://woowabros.github.io/experience/2017/08/28/mqtt_stress_test.html)
   * [MQTT 를 이용한 주문 시스템 개선](https://ash84.net/2018/03/23/emocon-ss-2018-mqtt/)
   * [Raspberry Pi: Install and Test Mosquitto MQTT Broker on Raspberry Pi 3 (Raspbian Stretch OS)](http://www.apdaga.com/2018/01/raspberry-pi-install-and-test-mosquitto.html)
+  * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (1)](http://jusths.tistory.com/23)
+  * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (2)](http://jusths.tistory.com/24)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [What is RabbitMQ?](https://www.youtube.com/watch?v=QQXSEXkZalU)

@@ -614,6 +614,7 @@ NLP
   * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
+* [TextWorld: A learning environment for training reinforcement learning agents, inspired by text-based games](https://www.microsoft.com/en-us/research/blog/textworld-a-learning-environment-for-training-reinforcement-learning-agents-inspired-by-text-based-games/)
 
 ## Java
 * [lucene-Korean-Analyzer Lucene Analyzer For Korean](https://github.com/need4spd/lucene-Korean-Analyzer)

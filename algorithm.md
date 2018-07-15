@@ -368,9 +368,13 @@ Algorithm
   * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
   * **[KMP 알고리즘(Knuth–Morris–Pratt Algorithm)](https://kks227.blog.me/220917078260)**
   * **[KMP : 문자열 검색 알고리즘](http://bowbowbow.tistory.com/6)**
+  * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search)](https://www.youtube.com/watch?v=GTJr8OvyEVQ)
+  * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search) Part2](https://youtu.be/KG44VoDtsAA)
 * Rabin-Karp
+  * [Rabin Karp Substring Search Pattern Matching](https://www.youtube.com/watch?v=H4VrKHVG5qI)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
+  * [Z Algorithm Z values](https://www.youtube.com/watch?v=CpZh4eF8QBw)
 
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)

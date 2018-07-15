@@ -395,6 +395,7 @@ Web
 * [백엔드 개발자와 협업하는 두 가지 방법](https://blog.coderifleman.com/2018/03/03/two-ways-to-collaborate-with-backend-developer/)
 * [나만 몰랐던 Http Delete Method payload body 문제](http://blog.leekyoungil.com/?p=390)
 * [HTTP 메서드](https://www.zerocho.com/category/HTTP/post/5b3723477b58fc001b8f6385)
+* [알아둬야 할 HTTP 요청 헤더](https://www.zerocho.com/category/HTTP/post/5b3ba2d0b3dabd001b53b9db)
 
 # Scala
 * Finatra

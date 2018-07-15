@@ -13,6 +13,7 @@ Hadoop
 * [Introduction to Big Data and Hadoop for Beginners | Big Data Tutorial Training Video](https://www.youtube.com/watch?v=pg3f1ftPlZU)
 * [learn hadoop spark by examples](https://www.java-success.com/category/tutorial/hadoop-tutorials/learn-hadoop-spark-by-examples/)
 * [Hadoop Tutorial](https://intellipaat.com/tutorial/hadoop-tutorial/)
+* [Hadoop Tutorials for Beginners](https://www.youtube.com/playlist?list=PLlz0muypSBNYYSJU3_pfYFbN_zveOU1km)
 * [7 Tips for Improving MapReduce Performance](http://blog.cloudera.com/blog/2009/12/7-tips-for-improving-mapreduce-performance/)
 * [Hadoop Performance Tuning Best Practices](http://www.idryman.org/blog/2014/03/05/hadoop-performance-tuning-best-practices/)
 * [Sparse matrix computations in MapReduce](http://www.slideshare.net/dgleich/sparse-matrix-computations-in-mapreduce)

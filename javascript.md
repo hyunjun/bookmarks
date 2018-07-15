@@ -22,6 +22,7 @@ Javascript
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
   * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+* [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
 * [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
@@ -281,6 +282,7 @@ Javascript
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
 * [자바스크립트의 메모리관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
+* [Javascript 메모리 에 대하여!](https://steemit.com/kr/@cicada0014/2wvmzm-javascript)
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
@@ -1503,6 +1505,7 @@ Javascript
 * [Reason ML](https://reasonml.github.io)
   * [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
   * [JavaScript vs. TypeScript vs.  ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
+* [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

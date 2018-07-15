@@ -347,6 +347,7 @@ Python
 * bit manipulation
   * [practice - sum of two integers using bit manipulation](https://github.com/hyunjun/practice/blob/master/python/problem-math/sum_of_two_integers.py)
     * [What is good way to negate an integer in binary operation in python?](https://stackoverflow.com/questions/37135106/what-is-good-way-to-negate-an-integer-in-binary-operation-in-python)
+  * `'{0:b}'.format(num)` == `bin(num)[2:]` to make binary number string
 * [#3.1. Tensorflow vs. PyTorch](https://www.youtube.com/watch?v=tNWatDufzDk)
   * [Tensorflow vs. PyTorch](https://github.com/ghlee0304/pytorch-basic-with-tensorflow/tree/master/comparison_tensorflow_pytorch)
 
@@ -1369,7 +1370,7 @@ Python
 * [Playing With GraphQL + Python Flask](https://hackernoon.com/playing-with-graphql-python-flask-84ead622461c)
 * [GraphQL in the Python World](http://nafiulis.me/graphql-in-the-python-world.html)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
-* [GraphQL in Python and Django](https://www.youtube.com/watch?v=RXrDdriOcxw)
+* [GraphQL in Python and Django](https://www.youtube.com/watch?v=vnlPU0HgSbQ)
 
 # GUI
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)

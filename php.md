@@ -38,6 +38,7 @@ PHP
   * [Laravel 06.Request LifeCyle](https://www.slideshare.net/hojinlee18/laravel-06request-lifecyle)
   * [Advanced Server-Side Rendering With Laravel & Vue: Multi-Page App](https://medium.com/js-dojo/advanced-server-side-rendering-with-laravel-vue-multi-page-app-486b706e654)
   * [API Authentication in Laravel-Vue SPA using Jwt-auth](https://codeburst.io/api-authentication-in-laravel-vue-spa-using-jwt-auth-d8251b3632e0)
+  * [라라벨 프레임워크 - 엘라스틱서치 사용 경험기 : 초기 작업 수행](https://cherrypick.co.kr/using-elasticsearch-in-laravel-framework/)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * VarDumper
