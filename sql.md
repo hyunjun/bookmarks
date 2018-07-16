@@ -324,6 +324,7 @@ SQL
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
+* [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
@@ -339,6 +340,7 @@ SQL
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
+* [Psycopg2 Tutorial](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)
 * [Slinky - The easiest way to query your PostgreSQL data](https://www.slinkydb.com/)
 * [sql_firewall - SQL Firewall Extension for PostgreSQL](https://github.com/uptimejp/sql_firewall)
 * [stolon - PostgreSQL cloud native HA replication manager](https://github.com/sorintlab/stolon)

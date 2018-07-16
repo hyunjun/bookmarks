@@ -996,7 +996,6 @@ Python
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
   * **[PyCon KR 2017 Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
-* [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * [Quart - a Python asyncio web microframework with the same API as Flask](https://gitlab.com/pgjones/quart)
 * **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
