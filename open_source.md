@@ -164,6 +164,9 @@ Open Source
 * [OSS](http://netflix.github.io/)
 * [Conductor](https://github.com/Netflix/conductor) a microservices orchestration engine
   * [Netflix Conductor: A microservices orchestrator](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
+* EVCache
+  * [Announcing EVCache: Distributed in-memory datastore for Cloud](https://medium.com/netflix-techblog/announcing-evcache-distributed-in-memory-datastore-for-cloud-c26a698c27f7)
+  * [Evolution of Application Data Caching : From RAM to SSD](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
 * [FlameScope - a visualization tool for exploring different time ranges as Flame Graphs](https://github.com/Netflix/flamescope)
   * [Netflix FlameScope](https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb)
   * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg)

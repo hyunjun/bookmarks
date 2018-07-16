@@ -1702,7 +1702,7 @@ CVPR2016)
   * 흥미롭게도 블록이 작업에 중요하지 않더라도 이 계산 블록 각각은 우리가 훈련하는 작업의 하위 집합에 결정적인 역할
   * 그것이 성능에 해를 입히지 않으며, 대부분의 경우 모든 작업에서 성능을 향상 시킨다는 것을 관찰
   * 또한 데이터가 적은 작업은 다른 작업과의 공동 교육을 통해 큰 효과를 얻는 반면 큰 작업의 성능은 전혀 저하되지 않음
-* [초짜 대학원생 입장에서 이해하는 [CVPR 2017] Learning by Association - A versatile semi-supervised training method for neural networks](http://jaejunyoo.blogspot.com/2017/07/learning-by-association-versatile-semi-supervised-training.html)
+* [초짜 대학원생 입장에서 이해하는 CVPR 2017 Learning by Association - A versatile semi-supervised training method for neural networks](http://jaejunyoo.blogspot.com/2017/07/learning-by-association-versatile-semi-supervised-training.html)
 * [Tutorial on Theory and Application of Generative Adversarial Networks](https://github.com/mingyuliutw/cvpr2017_gan_tutorial)
 * [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
   * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰

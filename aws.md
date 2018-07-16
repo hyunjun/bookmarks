@@ -66,6 +66,7 @@ AWS
 * [Elastic Beanstalk Developer Guide](https://github.com/awsdocs/aws-elastic-beanstalk-developer-guide/)
 * [How to deploy a Node.js app to the AWS Elastic Beanstalk](https://medium.freecodecamp.org/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977)
 * [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
+* [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
 * [Deploying a production Node/Express Mongo App to AWS — A Reflection](https://medium.freecodecamp.org/deploying-a-production-node-express-mongo-app-to-aws-a-reflection-8982894289c6)
 * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)

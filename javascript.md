@@ -1324,6 +1324,7 @@ Javascript
 * [Debounce SyntheticEvent](https://hyunseob.github.io/2018/06/24/debounce-react-synthetic-event/)
 * [번역 깊이 있는 리액트 개발 환경 구축하기](https://sujinlee.me/webpack-react-tutorial/)
 * [react-lifecycle-methods-diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+* **[React로 만든 프로젝트 톺아보기](http://blog.jeonghwan.net/2018/07/16/react-app-overview.html)**
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

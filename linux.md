@@ -496,6 +496,7 @@ Linux
 * **[인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)**
 * [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))
 * [CentOS7 리눅스 한글 입력기 설정](http://sunyzero.tistory.com/253)
+* [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
 * yum
   * proxy
     * [(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)

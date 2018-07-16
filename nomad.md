@@ -92,6 +92,7 @@ Nomad & Remote
 * [외국인 노동자의 삶](https://speakerdeck.com/jongman/oegugin-falsedongjayi-salm)
 * [계절학교 여러분 안녕하세요?](http://andromeda-express.com/ioi2014/#slide1)
 * [이 시대의 카멜레온 – 박기상님 발표 후기](https://estimastory.com/2018/04/07/kisang/)
+* [나의 이직 성공기 - 회사 지원 및 HR 인터뷰](http://employee.tistory.com/entry/%EB%82%98%EC%9D%98-%EC%9D%B4%EC%A7%81-%EC%84%B1%EA%B3%B5%EA%B8%B0-%ED%9A%8C%EC%82%AC-%EC%A7%80%EC%9B%90-%EB%B0%8F-HR-%EC%9D%B8%ED%84%B0%EB%B7%B0)
 
 # Austrailia
 * [KOSSIE - IT Community in Austrailia](http://cafe.naver.com/kossie/)

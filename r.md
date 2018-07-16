@@ -23,6 +23,11 @@ R
 * [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
 * [R User Conference in Korea 2015](http://rconference.fossa.kr/)
   * [Speakers](http://rconference.fossa.kr/Speaker) 발표자료 링크 있음
+* [useR!2017 Roundup](https://www.r-bloggers.com/user2017-roundup/)
+* [European R Users Meeting](http://2018.erum.io/)
+  * [eRum 2018 Tuesday - nagyHall](https://www.youtube.com/watch?v=9nuxlqXAmmc)
+* [useR! 2018](https://user2018.r-project.org/scientific/)
+  * [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)
 * [RUCK 2017](https://www.slideshare.net/r-kor/presentations)
 * [R at Microsoft](http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html)
   * [Galaxy classification: a data science workflow with Microsoft R Server 9](https://github.com/Microsoft/microsoft-r/tree/master/R%20Server%20Operationalization/GalaxyClassificationWorkflow)
@@ -211,7 +216,6 @@ R
   * [Competing Risk Model In R](http://blog.naver.com/kjhnav/221061540312)
 * **[www.di.fc.ul.pt/~jpn/r](http://www.di.fc.ul.pt/~jpn/r/)**
 * [R Statistical Programming Using MariaDB as the Background Database](https://mariadb.com/kb/en/mariadb/r-statistical-programming-using-mariadb-as-the-background-database/)
-* [useR!2017 Roundup](https://www.r-bloggers.com/user2017-roundup/)
 * [틀리지 않는 법](https://www.slideshare.net/ssuser7e30b2/ss-79308094)
 * [논리 연산자 정리](https://mrchypark.github.io/r/operator/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A0%95%EB%A6%AC.html)
 * [RSelenium 사용법](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/38387a64fccaa643348e02f4d9bb7c4e#/)
@@ -242,8 +246,6 @@ R
 * [Building your own blockchain in R](https://www.r-bloggers.com/building-your-own-blockchain-in-r/)
   * [Understanding Blockchains by Coding One in R](https://www.datacamp.com/community/tutorials/blockchain-r)
 * [R에서 Newton Raphson Method 에 대한 시뮬레이션 과제 (+ ggplot2, gganimate package)](https://lovetoken.github.io/r/data_visualization/2018/04/24/netwon_raphson_method.html)
-* [European R Users Meeting](http://2018.erum.io/)
-  * [eRum 2018 Tuesday - nagyHall](https://www.youtube.com/watch?v=9nuxlqXAmmc)
 * [데이터로 본 아이돌 트렌드](https://brunch.co.kr/@itschloe1/32)
 * [R을 활용한 그래프 작성하기](http://allaboutmoon.tistory.com/entry/R%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 
@@ -398,6 +400,7 @@ R
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
+* [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
 * [Tufte in R](http://motioninsocial.com/tufte/#introduction)
 * [Visual Studio용 R 도구 - Visual Studio를 강력한 R 개발 환경으로 전환하세요](https://www.visualstudio.com/ko/vs/rtvs/)
 * [WVPlots: Common Plots for Analysis](https://cran.r-project.org/web/packages/WVPlots/index.html)

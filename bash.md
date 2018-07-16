@@ -8,6 +8,7 @@ Shell
 * [Three Ways to Script Processes in Parallel](https://www.codeword.xyz/2015/09/02/three-ways-to-script-processes-in-parallel/)
 * [Sh! Silence your bash scripts by coding your own --silent flag](https://medium.freecodecamp.org/sh-silence-your-bash-scripts-by-coding-your-own-silent-flag-c7e9f8b668a4)
 * **[Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)**
+* [#testing #bash 간단한 assert](http://ohyecloudy.com/pnotes/archives/bash-simple-assert/)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)

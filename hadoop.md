@@ -28,6 +28,9 @@ Hadoop
 * [Memory Storage Support in HDFS](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-hdfs/MemoryStorage.html)
 * [SK텔레콤, Hadoop DW 와 데이터 분석환경 구축사례](http://www.popit.kr/sk%ED%85%94%EB%A0%88%EC%BD%A4-hadoop-dw-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%EC%82%AC%EB%A1%80/)
 * [Hadoop NameNode 이중화 시 fencing의 역할](http://www.popit.kr/hadoop-namenode-%EC%9D%B4%EC%A4%91%ED%99%94-%EC%8B%9C-fencing-%EC%97%AD%ED%95%A0/)
+* [NameNode Analytics: PayPal’s Big Data Guardian](https://www.paypal-engineering.com/2018/07/11/namenode-analytics/)
+  * Paypal은 Hadoop Namenode 한계를 뛰어 넘으려고 노력하며, 특히 FSImage를 분석하여 사용 보고서를 작성하는데 관심
+  * NameNode Analytics라는 시스템으로 open source
 * 하둡 인사이드
   * [1. Hadoop RPC](http://hamait.tistory.com/175)
   * [2. Hadoop Streamming](http://hamait.tistory.com/187)

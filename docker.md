@@ -103,6 +103,7 @@ Docker
       ENV LANGUAGE=ko_KR.UTF-8
       ENV LC_ALL=ko_KR.UTF-8
       ```
+    * [도커(Docker) 컨테이너 로케일 설정 - 데비안(Debian), 우분투(Ubuntu) 이미지에서 한글 입력 문제](https://www.44bits.io/ko/post/setup_linux_locale_on_ubuntu_and_debian_container)
     * `docker run -it ubuntu`
     * [ubuntu + python3.6](https://gist.github.com/monkut/c4c07059444fd06f3f8661e13ccac619)
       * ENTRYPOINT로 python3.6 사용

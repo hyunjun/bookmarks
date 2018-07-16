@@ -458,6 +458,7 @@ App
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
   * **[Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'](http://macnews.tistory.com/2558)**
+  * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg)
   * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio)
 * Slate
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)

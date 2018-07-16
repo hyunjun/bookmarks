@@ -16,6 +16,7 @@ NoSQL
 * [Database expert on why NoSQL mattered — and SQL still matters](https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd)
 * [The CAP FAQ](The CAP FAQ)
 * [CAP theorem](http://blog.seulgi.kim/2018/03/cap-theorem.html)
+* [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/) CAP 이론을 설명 증명
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
   * [시계열 DB (OpenTSDB , 인플럭스 DB , Graphite ) 정리](http://hamait.tistory.com/440)
 * [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
@@ -51,6 +52,7 @@ NoSQL
   * Z-Order Index 구현 대한 좋은 글
   * Z-Order Indexing은 하나의 인덱스로 여러 속성에 대해 효율적으로 질의하기 위한 인덱스 전략
 * [Real-Time Aggregation with DynamoDB Streams](https://medium.com/signiant-engineering/real-time-aggregation-with-dynamodb-streams-f93547cfb244) DynamoDB Streams과 AWA Lambda를 이용하여 실시간 집계를 구현하는 방법
+* [Do you know DynamoDB Stream](https://medium.com/vingle-tech-blog/do-you-know-dynamodb-stream-14b284bf38d5)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
