@@ -120,6 +120,7 @@ Data Visualization
 * 파이썬으로 도로 네트워크 구성 및 시각화 하기
   * [1. 데이터 다운로드 및 프로세싱](https://junpyopark.github.io/road-network-construction-1/)
   * [2. 도로 네트워크 구성 및 시각화 하기](https://junpyopark.github.io/road-network-construction-2/)
+* [Best Python Visualization Libraries for Data Science in 2018](https://www.techleer.com/articles/535-best-python-visualization-libraries-for-data-science-in-2018/)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh

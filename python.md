@@ -850,6 +850,7 @@ Python
   * [Python trick: asynchronously reading subprocess pipes](http://stefaanlippens.net/python-asynchronous-subprocess-pipe-reading/)
   * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)
   * [Subprocess 모듈 사용법 – 파이썬에서 서브 프로세스를 생성하기](https://soooprmx.com/archives/5932)
+  * [Subprocess timeout failure](https://stackoverflow.com/questions/36952245/subprocess-timeout-failure)
 * sys
   * getsizeof
     * [Measure the Real Size of Any Python Object](https://goshippo.com/blog/measure-real-size-any-python-object/)
@@ -2088,9 +2089,10 @@ Python
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
-* [Requests is an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)
+* **[Requests - an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)**
   * [Advanced Usage](http://docs.python-requests.org/en/master/user/advanced/)
   * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
+  * [practice - download file](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-file_download-md)
   * [api](http://docs.python-requests.org/en/master/api/)
     * `timeout=(connect timeout, read timeout)`
   * 매우 큰 파일을 --data-binary로 보낼 때는 적절한 크기로 file을 나눠서 여러 번 호출하는 방법밖에 없는 거 같음
