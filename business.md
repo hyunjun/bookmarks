@@ -92,6 +92,7 @@ Business
     * 문제를 푸는 것은 다르다. Step이 있고, 차근차근 해 나가야 한다. 아무리 복잡한 현상도 '풀어나가는 것'이라는 생각을 하게 한다
   * 3. Team의 가치; 전지전능한 개인은 없다(X) 팀이 해결할 수 있다(O)
     * 모두가 약점이 있기 때문에 맡은 일을 최선을 다 해 해낼 때, 그 성과가 비로소 빛날 수 있다
+* [피드백에 관한 상상 인터뷰](https://brunch.co.kr/@younghakjang/63)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)

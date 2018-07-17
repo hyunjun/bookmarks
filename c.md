@@ -78,7 +78,7 @@ C
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 * [Underhanded C 2015](http://blog.mattbierner.com/underhanded-c-2015/)
 * [emulating exceptions in C](http://sevko.io/articles/exceptions-in-c/)
-* [JPL Institutional Coding Standard for the C Programming Language ](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
+* [JPL Institutional Coding Standard for the C Programming Language](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
 * [C Programming Substance Guidelines](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
 * [K&R C](https://spin0r.wordpress.com/2014/11/21/kr-c/)
 * [Language Design: Building a Modern C, Round 1](http://owensd.io/2015/09/04/language-design-thinking-round-1.html)

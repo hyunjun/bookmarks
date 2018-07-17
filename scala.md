@@ -495,7 +495,7 @@ Scala
 
 # [SBT](http://www.scala-sbt.org/)
 * [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)
-* [Customizing paths ](http://www.scala-sbt.org/0.13/docs/Howto-Customizing-Paths.html)
+* [Customizing paths](http://www.scala-sbt.org/0.13/docs/Howto-Customizing-Paths.html)
 * [Library dependencies](http://www.scala-sbt.org/0.13/tutorial/Library-Dependencies.html)
 * [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)
 * [sbt the easy way](http://blog.codacy.com/2015/05/20/sbt-the-easy-way/)
@@ -537,6 +537,6 @@ Scala
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
-* [(47)  ADT (Algebraic Data Types) 이란? ](http://hamait.tistory.com/899)
+* [(47)  ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)

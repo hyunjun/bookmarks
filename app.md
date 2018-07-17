@@ -94,7 +94,7 @@ App
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 
 # Android
-* [안드로이드에만 있는 유용한 생산성 앱 10개 ](http://techneedle.com/archives/20513)
+* [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
@@ -176,7 +176,7 @@ App
 * [Getting Started with ARC](https://developer.chrome.com/apps/getstarted_arc)
   * [OS X∙윈도우에서 안드로이드 앱을 돌려보자! 구글 크롬 브라우저 확장 프로그램 'ARC Welder'](http://macnews.tistory.com/3248)
   * [ARC: Publishing Android apps to Chrome Web store](http://intohand.com/blog/post/arc-publishing-android-apps-to-chrome-web-store)
-* [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지 ](http://www.itworld.co.kr/slideshow/91136)
+* [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지](http://www.itworld.co.kr/slideshow/91136)
 * [10년된 구형 노트북의 '회춘(回春)'..크롬북 만들어보니](http://media.daum.net/digital/others/newsview?newsid=20160418140703775)
 * [크롬을 활용한 프론트엔드 디버깅](http://tryhelloworld.co.kr/courses/%ED%8A%B9%EA%B0%95-%ED%81%AC%EB%A1%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%94%94%EB%B2%84%EA%B9%85)
 * [웹페이지에서 공부한 단어의 수를 세기 (크롬 확장 기능 만들기)](https://opentutorials.org/module/2503/14051)

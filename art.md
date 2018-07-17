@@ -223,7 +223,7 @@ Art
 * [하늘이 열린 날, 스마트폰으로 하늘 사진 촬영팁](http://www.earlyadopter.co.kr/64361)
 * [Anamorphic format](https://en.wikipedia.org/wiki/Anamorphic_format)
 * [역사적 순간 담은 사진의 힘](http://techholic.co.kr/archives/52806)
-* [ 속 빛나는 피사체…형광 사진술](http://techholic.co.kr/archives/57753)
+* [속 빛나는 피사체…형광 사진술](http://techholic.co.kr/archives/57753)
 
 ## Photos
 * [prime.500px.com](https://prime.500px.com)

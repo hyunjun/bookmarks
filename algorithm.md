@@ -121,7 +121,7 @@ Algorithm
 * [Number Theory: Nice Generalization of the Waring Conjecture](https://www.datasciencecentral.com/profiles/blogs/number-theory-nice-generalization-of-the-waring-conjecture)
 * [Algorithms I : Searching and Sorting algorithms](https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20)
 * [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi)
-  * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는? ](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
+  * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는?](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
 * [Shortest Range in K sorted lists](https://www.youtube.com/watch?v=Fqal25ZgEDo&t=3s)
 * **[qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)** 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
@@ -172,7 +172,7 @@ Algorithm
 * [Distributed Consensus 알고리즘 정리](http://www.notforme.kr/archives/1898)
 * [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
-* [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유 ](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
+* [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
 * **[Byzantine Failure - 블록체인 개발이 어려운 이유](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)**
 * [Instructors' Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 * [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
@@ -315,19 +315,20 @@ Algorithm
 * [How Recursion Works — explained with flowcharts and a video](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9)
 
 # Search
-* [A* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
-* [길찾기 알고리즘 :: A*(STAR)](https://blog.wonhada.com/?p=815)
+* [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
+* [길찾기 알고리즘 :: A\*(STAR)](https://blog.wonhada.com/?p=815)
 * [따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
 * [Cache-friendly binary search](http://bannalia.blogspot.kr/2015/06/cache-friendly-binary-search.html)
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)
   * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
-* [JPS+: Over 100x Faster than A*](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than)
+* [JPS+: Over 100x Faster than A\*](http://www.gdcvault.com/play/1022094/JPS-Over-100x-Faster-than)
 * [Adversarial Search](https://kartikkukreja.wordpress.com/2015/07/04/adversarial-search/)
 * [Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](http://googleresearch.blogspot.kr/2006/06/extra-extra-read-all-about-it-nearly.html?m=1)
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
+* [Reverse Morris In-order Traversal](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/)
 
 ## Aho Corasick
 * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
@@ -398,7 +399,7 @@ Algorithm
 * [Algorithms Behind Modern Storage Systems - Different uses for read-optimized B-trees and write-optimized LSM-trees](https://queue.acm.org/detail.cfm?id=3220266)
 
 ## B Tree
-* [The Ubiquitous B-Tree ](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
+* [The Ubiquitous B-Tree](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
 
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)

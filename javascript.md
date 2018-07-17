@@ -1262,7 +1262,7 @@ Javascript
 * [CODEBUSKING WORKSHOP - React with TypeScript](http://codebusking.com/workshop-react-typescript/)
 * [You learned the basics of React, now what?](https://engineering.opsgenie.com/you-learned-the-basics-of-react-now-what-389e69be3c5a)
 * [Reactive Architecture](https://android.jlelse.eu/reactive-architecture-7baa4ec651c4)
-* [React를 본격적으로 하기 전 알면 좋은 6가지 ](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
+* [React를 본격적으로 하기 전 알면 좋은 6가지](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 * [리액트 컴포넌트 스타일링, API 연동 실습 – NASA 에서 오늘의 우주 사진 가져오기](https://velopert.com/3503)
 * [리액트에서 .bind(this) 빼 버리기](https://medium.com/@wongni/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-bind-this-%EB%B9%BC-%EB%B2%84%EB%A6%AC%EA%B8%B0-dfb0bbf7bef0)
 * [Refactor your code or code your refactor?](https://hackernoon.com/refactor-your-code-or-code-your-refactor-4765fd2456ee)

@@ -410,6 +410,7 @@ TensorFlow
   * [Basic & Training 하기](http://mobicon.tistory.com/537)
   * [강화학습](http://mobicon.tistory.com/538)
   * [Q Network](http://mobicon.tistory.com/539)
+  * [Supervised Learning](http://mobicon.tistory.com/540)
 * [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
 
 # Book

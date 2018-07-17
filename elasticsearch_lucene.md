@@ -430,7 +430,7 @@ ElasticSearch - Lucene
 * [내 서버에는 누가 들어오는걸까? (실시간 user-agent 분석기)](https://taetaetae.github.io/2018/04/10/apache-access-log-user-agent/)
 
 # Lucene
-* [Search Engine (내용기반 검색 기술 : FTR) ](https://docs.com/sunnykwak/3330)
+* [Search Engine (내용기반 검색 기술 : FTR)](https://docs.com/sunnykwak/3330)
 * [lucene.apache.org](http://lucene.apache.org/)
   * [lucene.apache.org/core/4_10_3](http://lucene.apache.org/core/4_10_3/)
 * [lucenekorean.svn.sourceforge.net](http://lucenekorean.svn.sourceforge.net/)

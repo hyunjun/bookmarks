@@ -1,6 +1,6 @@
 Deep Learning
 =============
-* [입문자를 위한 딥러닝 튜토리얼 ](http://courseshare.co.kr/course/39?pageType=Intro)
+* [입문자를 위한 딥러닝 튜토리얼](http://courseshare.co.kr/course/39?pageType=Intro)
 * [테리의 딥러닝 토크](https://www.youtube.com/playlist?list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * [Deep learning (Machine learning) tutorial for beginners](https://www.slideshare.net/TerryTaewoongUm/deep-learning-machine-learning-tutorial-for-beginners)
 * [쉽게 풀어쓴 딥러닝(Deep Learning)의 거의 모든 것](http://t-robotics.blogspot.kr/2015/05/deep-learning.html)
@@ -625,7 +625,7 @@ Deep Learning
 * [DeepLearn - This repository contains implementation of following research papers on NLP, CV, ML, and deep learning](https://github.com/GauravBh1010tt/DeepLearn/blob/master/README.md)
   * [DeepLearn - to provide reproducible code for some of the interesting AI, ML research papers](http://deeplearn-ai.com/deeplearn/?i=2)
 * [Is Deep Learning Innovation Just Due to Brute Force?](https://medium.com/intuitionmachine/the-brute-force-method-of-deep-learning-innovation-58b497323ae5)
-* [In defense of skepticism about deep learning ](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)
+* [In defense of skepticism about deep learning](https://medium.com/@GaryMarcus/in-defense-of-skepticism-about-deep-learning-6e8bfd5ae0f1)
 * [Deep Learning vs Classical Machine Learning](https://towardsdatascience.com/deep-learning-vs-classical-machine-learning-9a42c6d48aa)
 * [BeatGAN - Generating Drum Loops via GANs](https://github.com/NarainKrishnamurthy/BeatGAN2.0)
 * [Writing a deep learning repo #1](https://medium.com/@prannaykhosla/writing-a-deep-learning-repo-1-744c268c7189)
@@ -943,6 +943,7 @@ Deep Learning
 * [Towards data set augmentation with GANs](https://medium.com/jungle-book/towards-data-set-augmentation-with-gans-9dd64e9628e6)
 * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://jaejunyoo.blogspot.com/2018/05/paper-skim-progressive-growing-of-gans.html?m=1)
+* [Math Insights from 10 GAN papers. InfoGANs, VAEGANs, CycleGAN and more](https://www.youtube.com/watch?v=r3L3JT_TLTM)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -1275,6 +1276,7 @@ Deep Learning
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 * [Convolutional Neural Network — I](https://towardsdatascience.com/cnn-part-i-9ec412a14cb1)
 * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+* [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1458,7 +1460,7 @@ Deep Learning
   * [C++ Example 1. Hello Caffe](http://deeplearningstudy.github.io/doc_caffe_example_1hellocaffe.html)
     * [Caffe C++ API on Windows](http://blog.naver.com/atelierjpro/220835313030)
   * [SSD: Single Shot MultiBox Detector](https://github.com/weiliu89/caffe/tree/ssd)
-  * [Netscope CNN Analyzer - A web-based tool for visualizing and analyzing convolutional neural network ](https://dgschwend.github.io/netscope/quickstart.html)
+  * [Netscope CNN Analyzer - A web-based tool for visualizing and analyzing convolutional neural network](https://dgschwend.github.io/netscope/quickstart.html)
     * CNN Model 분석을 도와줌
     * Model을 prototxt 형태로 넣어주면, 네트워크 구조와, 하단에 CNN Dimension, parameter 수 등의 세부 정보를 정리
   * [caffe-boo - My own caffe-windows with additional layers and features](https://github.com/seokhoonboo/caffe-boo)

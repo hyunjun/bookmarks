@@ -47,7 +47,7 @@ Monitoring
 * [InfluxDB, Telegraf, Grafana 를 활용한 Monitoring System 만들기(1)](http://www.popit.kr/influxdb_telegraf_grafana_1/)
 * [InfluxDB, Telegraf, Grafana 를 활용한 Monitoring System 만들기(2)](http://www.popit.kr/influxdb_telegraf_grafana_2/)
 * [Monitoring, metrics collection and visualization using InfluxDB and Grafana](https://medium.com/@aiven_io/monitoring-metrics-collection-and-visualization-using-influxdb-and-grafana-901cffd4495a)
-* [Grafana 플러그인 ](http://hamait.tistory.com/846)
+* [Grafana 플러그인](http://hamait.tistory.com/846)
 * [Going open-source in monitoring, part 0: Intro](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-0-intro-dffa2b40665f)
 * [Going open-source in monitoring, part I: Deploying Prometheus and Grafana to Kubernetes](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-i-deploying-prometheus-and-grafana-to-kubernetes-e3d44460cec6)
 * [Going open-source in monitoring, part II: Creating the first dashboard in Grafana](https://medium.com/@SergeyNuzhdin/going-open-source-in-monitoring-part-ii-creating-the-first-dashboard-in-grafana-ada59a4ced2e)

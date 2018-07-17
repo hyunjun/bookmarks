@@ -157,7 +157,7 @@ Lisp
 * [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)
 * [Scheme: Procedures that return another inner procedure](http://stackoverflow.com/questions/12496482/scheme-procedures-that-return-another-inner-procedure/12496867)
 * [Debugging Turing: An excursion with Scheme](http://porg.es/blog/debugging-turing-an-excursion-with-scheme)
-* [A (mostly) comprehensive guide to calling C from Scheme and vice versa ](http://www.more-magic.net/posts/scheme-c-integration.html)
+* [A (mostly) comprehensive guide to calling C from Scheme and vice versa](http://www.more-magic.net/posts/scheme-c-integration.html)
 * [Scheme 9 from Empty Space](http://t3x.org/s9fes/)
 * [Scheme vs. Python](https://www.cs.berkeley.edu/~bh/proglang.html)
 * [yascm - Yet Another Scheme Interpreter using flex and bison](https://github.com/hmgle/yascm)

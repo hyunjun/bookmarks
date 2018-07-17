@@ -176,5 +176,5 @@ Redis
 * [Introduction to Redis Streams](https://redis.io/topics/streams-intro)
 * [Kafka & Redis Streams](https://hackernoon.com/introduction-to-redis-streams-133f1c375cd3)
 * [Streams: a new general purpose data structure in Redis](http://antirez.com/news/114)
-* [Redis Streams and the Unified Log ](https://brandur.org/redis-streams)
+* [Redis Streams and the Unified Log](https://brandur.org/redis-streams)
 * [The Design of Redis StreamsSalvatore Sanfilippo, Creator of Redis](https://www.youtube.com/watch?v=Ty1rQuRJijk)

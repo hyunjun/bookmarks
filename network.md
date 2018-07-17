@@ -9,7 +9,7 @@ Network
 * [넷텐션, 중국의 치명적 '서버 혼잡붕괴'를 밝혀내다](http://m.khgames.co.kr/news/articleView.html?idxno=81843)
 * [how DNS works](https://howdns.works/)
 * [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리 上](http://library.gabia.com/contents/domain/3979)
-* [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리 ](http://library.gabia.com/contents/domain/3985)
+* [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리](http://library.gabia.com/contents/domain/3985)
 * [‘네임서버 설정’으로 알아보는 DNS: ② IP 주소와 호스트명 알아보기](http://library.gabia.com/contents/domain/4005)
 * [‘네임서버 설정’으로 알아보는 DNS: ③ 네임서버 정보는 어디에서 얻을 수 있나](http://library.gabia.com/contents/domain/4009)
 * [I don’t know DNS Caching](https://charsyam.wordpress.com/2017/12/22/%EC%9E%85-%EA%B0%9C%EB%B0%9C-i-dont-know-dns-caching/)
