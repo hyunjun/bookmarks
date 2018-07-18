@@ -415,6 +415,8 @@ Machine Learning
 * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1 - with tensorflow, cntk, keras, horovod, Azure Batch AI](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu.html)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
+  * [Machine Learning Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-july-2018-832c47937597)
+  * [Machine Learning Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/machine-learning-open-source-projects-of-the-month-v-june-2018-d87e2ca3e13f)
   * [Machine Learning Open Source of the Month (v.May 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-may-2018-efd396d9306e)
   * [Machine Learning Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2018-681489a05135)
   * [Machine Learning Open Source of the Month (v.Apr 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-apr-2018-f98d0b34884f)
@@ -470,6 +472,7 @@ Machine Learning
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 * **[머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)**
 * [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
+* [Machine Learning: how to go from Zero to Hero](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -843,6 +846,7 @@ Machine Learning
 * [The Random Forest Algorithm](https://towardsdatascience.com/the-random-forest-algorithm-d457d499ffcd)
 * [Improving the Random Forest in Python Part 1](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
 * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
+* [Random Forest in Python - A Practical End-to-End Machine Learning Example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)

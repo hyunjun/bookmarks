@@ -1883,6 +1883,7 @@ CVPR2016)
 * [Rl from scratch part6](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part6)
 * [Rl from scratch part7](https://www.slideshare.net/ShinwooPark3/rl-from-scratch-part7)
 * [Reinforcement learning’s foundational flaw](https://thegradient.pub/why-rl-is-flawed/)
+* [Reinforcement Learning for Stock Prediction](https://www.youtube.com/watch?v=05NqKJ0v7EE)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

@@ -224,6 +224,8 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
+  * [Python Open Source of the Month (v.June 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-june-2018-5396a661b110)
   * [Python Open Source of the Month (v.May 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-may-2018-ad82a3cad120)
   * [Python Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-may-2018-988773fe2cef)
   * [Python Top 10 Articles for the Past Month (v.Apr 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-apr-2018-ba0fec7529cc)
@@ -545,6 +547,8 @@ Python
   * [Professional Error Handling With Python](https://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
   * [Amandine Lee Passing Exceptions 101 Paradigms in Error Handling PyCon 2017](https://www.youtube.com/watch?v=BMtJbrvwlmo)
     * [Amandine Lee - Passing Exceptions 101: Paradigms in Error Handling](https://speakerdeck.com/pycon2017/amandine-lee-passing-exceptions-101-paradigms-in-error-handling)
+* ftplib
+  * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
   * [Function Argument](http://ulismoon.tistory.com/7)
 * functools
@@ -1913,7 +1917,8 @@ Python
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
-* paramiko
+* [paramiko](https://github.com/paramiko/paramiko/)
+  * [practice - file download from sftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-sftp-md)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
 * [Passpie: manage login credentials from the terminal](http://marcwebbie.io/passpie/)
 * [pattern.graph](http://www.clips.ua.ac.be/pages/pattern-graph)
@@ -2004,6 +2009,7 @@ Python
   * [Pygame - Making Games with\* Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
   * [A animation using geometric plan! How we do beautiful and psychedelic things?](https://github.com/ryukinix/fractal-plan)
   * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
+  * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html](https://github.com/ssut/py-googletrans)
 * pyinotify

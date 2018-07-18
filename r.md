@@ -267,7 +267,7 @@ R
 * [Using R to Analyze Baseball Games in “Real Time”](http://www.r-bloggers.com/using-r-to-analyze-baseball-games-in-%E2%80%9Creal-time%E2%80%9D/)
 * [Introduction to Empirical Bayes - Example from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
 * [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)
-* [프로야구_타자스탯_수집하기.R](https://mrkevinna.github.io/MLwR/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC_%ED%83%80%EC%9E%90%EC%8A%A4%ED%83%AF_%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
+* [프로야구 타자스탯 수집하기.R](https://mrkevinna.github.io/MLwR/%ED%94%84%EB%A1%9C%EC%95%BC%EA%B5%AC_%ED%83%80%EC%9E%90%EC%8A%A4%ED%83%AF_%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0)
 
 # Book
 * [R을 이용한 데이터 분석 실무](http://r4pda.co.kr/)
@@ -281,7 +281,7 @@ R
 * [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 * [Text Mining with R](http://tidytextmining.com/)
 * [Data Visualization for Social Science - A practical introduction with R and ggplot2](http://socviz.co/)
-* [EasyR_김영우.pdf](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_2/Easy_R_write/EasyR_%EA%B9%80%EC%98%81%EC%9A%B0.pdf)
+* [EasyR 김영우.pdf](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_2/Easy_R_write/EasyR_%EA%B9%80%EC%98%81%EC%9A%B0.pdf)
 
 # Conference
 * [R/Finance](http://www.rinfinance.com/)
@@ -332,6 +332,7 @@ R
   * [ggplot2 패키지 정리 - 1. stat_density, stat_function, geom_rug, geom_point, anotate, labs](http://www.issactoast.com/106)
   * [R ggplot2 히스토그램 (goem_histogram()), 커널 밀도 곡선 (Kernel Density Curve)](http://rfriend.tistory.com/67)
   * [R에서 조건화 그래프(Conditioning plot) 를 출력하기 위한 ggplot2::faect_wrap(), coplot() 함수에 대하여](https://lovetoken.github.io/r/2018/04/02/coplot.html)
+  * [Pie Gauge Chart in ggplot2](https://lumiamitie.github.io/r/pie-gauge-in-ggplot2/)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
@@ -395,6 +396,7 @@ R
   * [shinymaterial](https://ericrayanderson.github.io/shinymaterial/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
+* [subsetr](https://github.com/jimhester/subsetr)
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)
 * [tidyverse](http://tidyverse.org/)
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)

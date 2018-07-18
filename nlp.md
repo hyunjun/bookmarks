@@ -543,6 +543,7 @@ NLP
 * [Language Modelling and Text Generation using LSTMs — Deep Learning for NLP](https://medium.com/@shivambansal36/language-modelling-text-generation-using-lstms-deep-learning-for-nlp-ed36b224b275)
   * 최첨단의 RNN을 구현하고 학습하여 자연어 텍스트를 생성하는 언어 모델을 만드는 방법을 설명
   * 이 모델의 목적은 일부 입력 텍스트가 있는 경우 새 텍스트를 생성
+* [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 
 # Library
 * 날개셋
@@ -830,6 +831,7 @@ NLP
 * [IMDB 영화리뷰 감정 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmocBySMhvBttyAD8eZelFIP)
 * [소셜 미디어 감성분석을 통한 주가 예측](http://blog.naver.com/anthouse28/221082691132)
 * [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
+* [Basic Data Cleaning/Engineering Session Twitter Sentiment Data](https://towardsdatascience.com/basic-data-cleaning-engineering-session-twitter-sentiment-data-95e5bd2869ec)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
