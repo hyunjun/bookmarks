@@ -536,6 +536,7 @@ Machine Learning
 * [bench-ml - Simple/limited/incomplete benchmark for scalability/speed and accuracy of machine learning libraries for classification](https://github.com/szilard/benchm-ml)
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 * [Solving A Simple Classification Problem with Python — Fruits Lovers’ Edition](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
+* [Types of classification algorithms in Machine Learning](https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14)
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)

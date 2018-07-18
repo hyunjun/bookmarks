@@ -96,6 +96,7 @@
 # [Artik](https://www.artik.io/)
 
 # [Banana Pi - A Highend Single-Board Computer](http://www.bananapi.org/p/product.html)
+* [banana pi quick start - os 설치](http://jusths.tistory.com/26)
 
 # BananaPro
 * [바나나 프로에 데비안 위지와 최신 MPD 컴파일하여 설치하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=284390)

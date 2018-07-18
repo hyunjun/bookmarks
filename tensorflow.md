@@ -412,6 +412,7 @@ TensorFlow
   * [Q Network](http://mobicon.tistory.com/539)
   * [Supervised Learning](http://mobicon.tistory.com/540)
 * [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
+* [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

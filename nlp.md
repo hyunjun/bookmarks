@@ -41,6 +41,7 @@ NLP
   * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   * [Lecture 8 - Generating Language with Attention Chris Dyer](https://www.youtube.com/watch?v=ah7_mfl7LD0)
 * [CS4650 and CS7650 ("Natural Language") at Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+* [CS 447: Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2017/)
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [A Simple Artificial Intelligence Capable of Basic Reading Comprehension](http://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html)
