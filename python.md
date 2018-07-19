@@ -505,6 +505,7 @@ Python
     * the internals of how dictionaries are implemented in Python
   * [2014 PyCon KR: 위대한 dict 이해하고 사용하기](https://speakerdeck.com/jongman/2014-pycon-kr-widaehan-dict-ihaehago-sayonghagi)
   * [구종만 위대한 dict 이해하고 사용하기 PYCON KOREA 2014](https://www.youtube.com/watch?v=E4bF3tPxeDE)
+  * [Python Dictionary 순서 보장 원리](https://blog.sinwoobang.me/post/176050610602/pythondictorder)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
@@ -2177,6 +2178,7 @@ Python
   * [Better web scraping in Python with Selenium, Beautiful Soup, and pandas](https://medium.freecodecamp.org/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251)
   * [셀레니움 브라우저 자동화 - 네이버 쪽지 쓰기](http://nbviewer.jupyter.org/gist/FinanceData/e1f010fba64a939269654389ba27db39)
   * [Send Naver note without Selenium](https://gist.github.com/june9713/6bc47cf38cba01793ea9d61cb5ba09e8)
+  * [Selenium Webdriver가 백그라운드에서 자동으로 브라우저 윈도우를 열 수 있습니까?](https://code.i-harness.com/ko/q/f6e4cc)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)

@@ -516,6 +516,9 @@ Clojure
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
+* fxml
+	* [github.com/netpyoung/pt.using-fxml-on-clojure](https://github.com/netpyoung/pt.using-fxml-on-clojure)
+	* [Using FXML on Clojure](https://www.slideshare.net/netpyoung/using-fxml-on-clojure)
 * [geminio - Http client with client side load balancer (http-kit + consul + ribbon)](https://github.com/eunmin/geminio)
 * [Glow: Syntax Highlighting for Clojure Source Code](http://blog.venanti.us/glow/)
 * [google.github.io/closure-library](https://google.github.io/closure-library/api/index.html)
@@ -599,6 +602,7 @@ Clojure
 * [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)
 * [replikativ An open, scalable and distributive infrastructure for a data-driven community of applications](http://replikativ.io/)
   * [Replikativ](https://www.slideshare.net/SangKyuPark1/replikativ/1)
+* [restpect](https://github.com/eunmin/the-clojurians-guide/tree/master/examples/restpect/basic) Restful API 통합테스트
 * [Ring](https://github.com/ring-clojure/ring) web
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)

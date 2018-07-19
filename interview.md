@@ -56,6 +56,7 @@ Interview
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
 * [Ten Things Never, Ever To Say In A Salary Negotiation](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizryan/2018/02/11/ten-things-never-ever-to-say-in-a-salary-negotiation/)
 * [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
+* **[How not to bomb your offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)** salary negotiation
 * [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
 * [스타벅스 광화문점의 매출은 얼마나 될까: 면접관은 왜 정답이 없는 질문을 던지는가?](http://ppss.kr/archives/31509)
 * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
@@ -132,6 +133,8 @@ Interview
   * [#1 - 3sum and the 2 pointer technique](https://fizzbuzzed.com/top-interview-questions-1/)
   * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
   * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
+* [머신러닝 해외 취업 준비: 닳고 닳은 이력서와 고통스러웠던 면접을 돌아보며 SNU 2018](https://www.slideshare.net/carpedm20/snu-2018-106452738)
+* [whenisgood.net](http://whenisgood.net/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

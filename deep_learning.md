@@ -641,6 +641,7 @@ Deep Learning
 * [Deep Learning 역사](http://mobicon.tistory.com/523)
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://www.youtube.com/watch?v=8yFQc6elePA)
 * [Deep Learning made easy with Deep Learning Studio — Complete Guide](https://towardsdatascience.com/deep-learning-made-easy-with-deep-learning-studio-complete-guide-a5c5ae58a771)
+* [Day1, 2-1. 책 읽어주는 딥러닝](https://www.youtube.com/watch?v=klnfWhPGPRs)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1626,6 +1627,7 @@ Deep Learning
   * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
 * [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+* [The Transformer – Attention is all you need](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W1CV2tgzaZ2)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현

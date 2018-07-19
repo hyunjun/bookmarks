@@ -301,6 +301,7 @@ Vision
   * [marearts.com/webapp/dface](http://www.marearts.com/webapp/dface/)
   * [Ch2. Preparation](https://www.cvlecture.marearts.com/forum/opencv-webapp/ch2-preparation)
 * [How to Resize, Pad Image to Square Shape and Keep Its Aspect Ratio With Python](https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/)
+* [OpenCV: The open source computer vision library for everyone:](http://cv-tricks.com/how-to/running-deep-learning-models-in-opencv/)
 
 # OpenGL
 * [open.gl](https://open.gl/)

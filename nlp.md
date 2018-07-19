@@ -581,6 +581,7 @@ NLP
   * [FastText Tutorial - How to Classify Text with FastText](https://www.youtube.com/watch?v=4l_At3oalzk)
   * [SwiftFastText - Swift wrapper for the Facebook FastText Library for efficient text classification and representation learning](https://github.com/JacopoMangiavacchi/SwiftFastText)
   * [한국어를 위한 어휘 임베딩의 개발 -1-](https://brunch.co.kr/@learning/7)
+  * [FastText, 실전 사용하기](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/07/06/fasttext/)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
@@ -1075,6 +1076,7 @@ NLP
 * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 * [Word2Vec](https://www.youtube.com/watch?v=sY4YyacSsLc)
 * [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
+* [Word2vec로 사용할 수 있는 벡터 모델들](http://www.neuromancer.kr/t/word2vec/481)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
