@@ -212,6 +212,7 @@ Algorithm
 * [Dynamic Programming Interview Question #1 - Find Sets Of Numbers That Add Up To 16](https://www.youtube.com/watch?v=nqlNzOcnCfs)
 * [19. Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
 * [Programming Interview:Algorithm:Dynamic Programming: Coin Changing Problem](https://www.youtube.com/watch?v=tduLvFbqRXE)
+* [Dynamic Programming vs Divide-and-Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
@@ -230,6 +231,7 @@ Algorithm
 * [11.3 다익스트라 알고리즘](http://ehclub.co.kr/1581)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
+* [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
 * [Computing the optimal road trip across the U.S.](http://www.randalolson.com/2015/03/08/computing-the-optimal-road-trip-across-the-u-s/)
 * [greuler is graph theory visualization tool powered by d3 and on top of WebCola which allows the creation and manipulation of graphs with a simple api](http://maurizzzio.github.io/greuler/)
 * [A Quasipolynomial Time Algorithm for Graph Isomorphism: The Details](http://jeremykun.com/2015/11/12/a-quasipolynomial-time-algorithm-for-graph-isomorphism-the-details/)
@@ -238,9 +240,6 @@ Algorithm
 * [The 280-Year-Old Algorithm Inside Google Trips](https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html)
 * [BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
 * [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
-* 알고리즘 한방에 뽀개기
-  * [1강_알고리즘을 보는 눈과 BFS](https://www.youtube.com/watch?v=Cq4pZHi6Pk8)
-  * [2강_순열을 이용한 경우의 수 구하기](https://www.youtube.com/watch?v=61o0bOhA7Gc)
 * Centrality
   * PageRank
   * Betweenness Centrality

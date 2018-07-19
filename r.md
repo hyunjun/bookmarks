@@ -103,6 +103,7 @@ R
 * [Machine Learning in R with TensorFlow](http://blog.revolutionanalytics.com/2018/02/r-with-tensorflow.html)
 * [R and TensorFlow Presentations](https://rviews.rstudio.com/2018/04/03/r-and-tensorflow-presentations/)
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
+* [R for AI developers](https://www.infoq.com/presentations/r-framework-ai-apps)
 * [RUCK 2017 MxNet과 R을 연동한 딥러닝 소개](https://www.slideshare.net/r-kor/ruck-2017-mxnet-r)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)

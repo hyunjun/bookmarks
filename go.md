@@ -189,6 +189,7 @@ Go
 * [Why Go Is Perfect For DevOps](https://www.youtube.com/watch?v=COCUqAwAbD0)
 * [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 * [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
+* [The benefits of using Lodash in the Go language without reflection](https://medium.freecodecamp.org/the-benefits-of-using-lodash-in-the-go-language-without-reflection-1d64b5115486)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

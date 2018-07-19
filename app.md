@@ -415,6 +415,7 @@ App
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
+* [Mac에서 library not found for lgfortran 에러 해결하기](https://lumiamitie.github.io/r/mac-lgfortran/)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew

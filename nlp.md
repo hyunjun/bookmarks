@@ -232,6 +232,7 @@ NLP
 * [Team AURA - 1st Meeting Summary](https://www.ai-lab.kr/labs/aura-raebjang-gimhyeonu/team-aura-1st-meeting-summary)
 * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
 * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
+* [Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -579,6 +580,7 @@ NLP
   * [scikit-learn wrappers for Python fastText](https://github.com/shaypal5/skift)
   * [FastText Tutorial - How to Classify Text with FastText](https://www.youtube.com/watch?v=4l_At3oalzk)
   * [SwiftFastText - Swift wrapper for the Facebook FastText Library for efficient text classification and representation learning](https://github.com/JacopoMangiavacchi/SwiftFastText)
+  * [한국어를 위한 어휘 임베딩의 개발 -1-](https://brunch.co.kr/@learning/7)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)

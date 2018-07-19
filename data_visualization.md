@@ -72,6 +72,7 @@ Data Visualization
 * [Data visualization favorites from 2017](https://medium.com/@tafsiri/data-visualization-favorites-from-2017-8f68f558f4f5)
 * [OpenVis Conference: Data Visualization on the Open Web](https://medium.com/data-emlyon/openvis-conference-data-visualization-on-the-open-web-91f46271e22e)
 * [Data Visualization, Fast and Slow](https://medium.com/@Elijah_Meeks/data-visualization-fast-and-slow-d2653d4850b0)
+* [Basic Medical Data Exploration with Interactive Code](https://towardsdatascience.com/basic-medical-data-exploration-with-interactive-code-aa26ed432265)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)

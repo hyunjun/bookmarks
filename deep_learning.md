@@ -640,6 +640,7 @@ Deep Learning
 * [1st 함께하는 딥러닝 컨퍼런스](https://tykimos.github.io/2018/06/28/ISS_1st_Deep_Learning_Conference_All_Together/)
 * [Deep Learning 역사](http://mobicon.tistory.com/523)
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://www.youtube.com/watch?v=8yFQc6elePA)
+* [Deep Learning made easy with Deep Learning Studio — Complete Guide](https://towardsdatascience.com/deep-learning-made-easy-with-deep-learning-studio-complete-guide-a5c5ae58a771)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

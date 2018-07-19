@@ -197,6 +197,7 @@ Apache
 # [Kafka](http://kafka.apache.org/)
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
+  * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
 * [Kafka - kafka-console-consumer](https://gerardnico.com/wiki/dit/kafka/kafka-console-consumer)
 * [KAFKA TUTORIAL: USING KAFKA FROM THE COMMAND LINE](http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html)

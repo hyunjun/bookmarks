@@ -301,6 +301,8 @@ Programming
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
 * [1인 개발자가 글로벌 서비스를 운영하는 방법 - GGtics](https://www.popit.kr/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-ggtics/)
 * [Service Mesh](http://bcho.tistory.com/1260)
+* [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
+* [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -443,6 +445,7 @@ Programming
   * [GCE 위에서 Google 계정 복구](http://jybaek.tistory.com/750)
   * [Run Spark and Hadoop Faster with Cloud Dataproc | Google Cloud Labs](https://www.youtube.com/watch?v=h1LvACJWjKc)
   * [서버리스 Cloud Functions 사용하기](http://jybaek.tistory.com/752)
+  * [Cloud Functions, 이래서 베타다](http://jybaek.tistory.com/753)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -1075,6 +1078,7 @@ Programming
 * **회고 : 두번째 개인 프로젝트를 TDD로 진행하며…**
   * [#1 첫번째 프로젝트 리뷰, 목표설정, TDD공부, UI 테스트](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-1-5345775d85bb)
   * [#2 TDD로 진행한 내용정리,통계, 두번째 TDD에 대한 소감,에피소드](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-2-f38276d39a9d)
+* ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

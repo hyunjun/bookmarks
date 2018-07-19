@@ -182,6 +182,9 @@ Interview
   * example of class design
   * handling ambiguity; clarifying the problem
   * systematic approach; clarify details
+* Load Balancer
+  * [Introducing the GitHub Load Balancer](https://githubengineering.com/introducing-glb/)
+  * [GLB part 2: HAProxy zero-downtime, zero-delay reloads with multibinder](https://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
