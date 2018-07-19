@@ -70,7 +70,6 @@
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
 * [DIY Cellphone](http://web.media.mit.edu/~mellis/cellphone/)
 * [‘아두이노’로 음주측정기 만들어볼까요?](http://www.bloter.net/archives/235937)
-* [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
 * [레이저건 다트, 직접 만들어봐?](http://techholic.co.kr/archives/38997)
 * [Arduino Explained](http://stackabuse.com/arduino-explained/)
 * [코딩 교육까지…아두이노 만난 페이퍼토이](http://techholic.co.kr/archives/40454)
@@ -198,6 +197,13 @@
   * [1 - Raspberry Pi Zero W 설정](https://taegon.kim/archives/6834)
   * [2 - Homebridge 설정하기](https://taegon.kim/archives/6849)
 * [counting bees on a rasp pi with a conv net](http://matpalm.com/blog/counting_bees/)
+
+# Reverse Engineering
+* [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
+* [RE for Beginners](https://www.begin.re/)
+* [Reverse Engineering for Beginners](https://beginners.re/)
+* [Reverse Engineering challenges](https://challenges.re/)
+* [/dev/ttyS0 - EMBEDDED DEVICE HACKING](http://www.devttys0.com/)
 
 # [Spark](http://www.spark.io)
 
