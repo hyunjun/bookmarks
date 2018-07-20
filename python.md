@@ -647,6 +647,7 @@ Python
   * [Python logging causing latencies?](https://stackoverflow.com/questions/24791395/python-logging-causing-latencies)
   * [logging 관련 몇몇 정리](http://jusths.tistory.com/16)
   * [logging - propagation](http://jusths.tistory.com/17)
+  * [Python's Built-In 'logging' Module](https://www.youtube.com/watch?v=4t67SNWoPxk)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)

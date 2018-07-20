@@ -1359,6 +1359,7 @@ Deep Learning
 * [How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
 * [Deep Learning with Python](https://towardsdatascience.com/deep-learning-with-python-703e26853820)
 * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
+* [Let’s build a simple Neural Net!](https://becominghuman.ai/lets-build-a-simple-neural-net-f4474256647f)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
@@ -1545,6 +1546,7 @@ Deep Learning
   * [MXNet 혹은 Gluon으로 모형을 개발할때 반드시 맞닥뜨릴 한가지 이슈](http://freesearch.pe.kr/archives/4737)
   * [Deep learning with Apache MXNet on Cloudera Data Science Workbench](https://blog.cloudera.com/blog/2017/10/deep-learning-with-apache-mxnet-on-cloudera-data-science-workbench/)
   * [Gluon으로구현해보는 한영기계번역 모형 – 마이크로소프트웨어 기고문](http://freesearch.pe.kr/archives/4754)
+  * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
   * [MXNet for PyTorch users in 10 minutes](https://medium.com/apache-mxnet/mxnet-for-pytorch-users-in-10-minutes-a7353863406a)
   * [Apache MXNet Cheat Sheet](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance)
   * [Apache MXNet (incubating) adds support for Keras 2](https://aws.amazon.com/ko/blogs/machine-learning/apache-mxnet-incubating-adds-support-for-keras-2/)

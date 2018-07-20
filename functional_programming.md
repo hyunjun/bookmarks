@@ -59,6 +59,7 @@ Functional Programming
 * [midojeong.github.io/tags/#함수형](https://midojeong.github.io/tags/#%ED%95%A8%EC%88%98%ED%98%95)
 * [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 * [Functional Programming For People Who Hate Math](https://www.youtube.com/watch?v=SlfipOW_ilU)
+* [Pros and cons of functional programming](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)

@@ -28,7 +28,6 @@ Java
   * ip address
     * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
     * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
-* [Java Concurrency Utilities](java.util.concurrent - Java Concurrency Utilities)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Java! Real or Not?](http://java.metagno.me/)
 * [Intersection of two Sets optimized way in Java](http://docs.likejazz.com/intersection-of-two-sets/)
@@ -160,6 +159,31 @@ Java
 # Book
 * [BIOJAVA:COOKBOOK4.0](http://biojava.org/wikis/BioJava:CookBook4.0/)
 
+# Concurrency Parallel Thread
+* [Java Concurrency Utilities](java.util.concurrent - Java Concurrency Utilities)
+* [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
+* [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
+* [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm#Code_Examples)
+* [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
+* [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
+* [Thousands of Threads and Blocking I/O - The old way to write Java Servers is New again](https://www.mailinator.com/tymaPaulMultithreaded.pdf)
+* [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
+* [Java 동기화의 이해(synchronized, wait, notify, notifyAll)](http://gladtosee.tistory.com/191)
+* [5 Ways to debug Java thread-safety issues](https://www.java-success.com/debugging-java-thread-safety-multi-threading-concurrency-issues/)
+* [11: 10+ ♥♦ Advanced Java interview questions & answers on multithreading scenarios](https://www.java-success.com/advanced-java-interview-questions-answers-to-judge-experience/)
+* [ThreadLocal과 ThreadPool](https://tmondev.blog.me/221212500642)
+* [Java Thread States and Life Cycle](https://www.uml-diagrams.org/java-thread-uml-state-machine-diagram-example.html)
+* [Snippets About Concurrency](https://hackernoon.com/a-sad-story-about-concurrency-346990a9a3fe)
+
+## Executor
+* [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
+* [Example of ConcurrentSkipListMap in Java](http://www.concretepage.com/java/example_concurrentskiplistmap_java)
+* [ConcurrentHashMap: usage and functionality](http://www.javamex.com/tutorials/synchronization_concurrency_8_hashmap2.shtml)
+* [java.util.concurrent.ConcurrentHashMap Example](http://examples.javacodegeeks.com/core-java/util/concurrent/concurrenthashmap/java-util-concurrent-concurrenthashmap-example/)
+* [java.util.concurrent.Future basics](http://www.nurkiewicz.com/2013/02/javautilconcurrentfuture-basics.html)
+* [Producer-Consumer with ExecutorService.newFixedThreadPool - How many threads are created?](http://stackoverflow.com/questions/7124833/producer-consumer-with-executorservice-newfixedthreadpool-how-many-threads-are)
+* [Effective Java - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others](https://github.com/ftomassetti/effectivejava)
+
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
 * [IntelliJ IDEA and Eclipse Shortcuts](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
@@ -228,7 +252,6 @@ Java
 * [Oracle Massive Open Online Course: Java SE 8 Lambdas and Streams](https://apexapps.oracle.com/pls/apex/f?p=44785:141:6741890639894::NO:::)
 * [New Features in Java SE 8: A Developer's Guide](https://www.youtube.com/watch?v=DCBIegEqKuo)
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
-* [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
 * [Using Lambdas to Write Mixins in Java 8](http://www.javaspecialists.eu/talks/pdfs/2014%20JavaDay%20in%20Athens,%20Greece%20-%20%22Using%20Lambdas%20to%20Write%20Mixins%20in%20Java%208%22%20by%20Heinz%20Kabutz.pdf)
 * [String concatenation with Java 8](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
 * [JDK8 오라클 튜토리얼 번역](http://wiki.jbugkorea.org/plugins/servlet/mobile#content/view/1050527)
@@ -296,6 +319,9 @@ Java
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 * [Pirates of the JVM — The infographic: Are you ready for an adventure?](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
 * **[Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)**
+* **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
+* **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
+  * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 
 # Lambda
 * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
@@ -530,28 +556,6 @@ Java
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
-
-# Thread
-* [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
-* [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm#Code_Examples)
-* [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
-* [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
-* [Thousands of Threads and Blocking I/O - The old way to write Java Servers is New again](https://www.mailinator.com/tymaPaulMultithreaded.pdf)
-* [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
-* [Java 동기화의 이해(synchronized, wait, notify, notifyAll)](http://gladtosee.tistory.com/191)
-* [5 Ways to debug Java thread-safety issues](https://www.java-success.com/debugging-java-thread-safety-multi-threading-concurrency-issues/)
-* [11: 10+ ♥♦ Advanced Java interview questions & answers on multithreading scenarios](https://www.java-success.com/advanced-java-interview-questions-answers-to-judge-experience/)
-* [ThreadLocal과 ThreadPool](https://tmondev.blog.me/221212500642)
-* [Java Thread States and Life Cycle](https://www.uml-diagrams.org/java-thread-uml-state-machine-diagram-example.html)
-
-## Executor
-* [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
-* [Example of ConcurrentSkipListMap in Java](http://www.concretepage.com/java/example_concurrentskiplistmap_java)
-* [ConcurrentHashMap: usage and functionality](http://www.javamex.com/tutorials/synchronization_concurrency_8_hashmap2.shtml)
-* [java.util.concurrent.ConcurrentHashMap Example](http://examples.javacodegeeks.com/core-java/util/concurrent/concurrenthashmap/java-util-concurrent-concurrenthashmap-example/)
-* [java.util.concurrent.Future basics](http://www.nurkiewicz.com/2013/02/javautilconcurrentfuture-basics.html)
-* [Producer-Consumer with ExecutorService.newFixedThreadPool - How many threads are created?](http://stackoverflow.com/questions/7124833/producer-consumer-with-executorservice-newfixedthreadpool-how-many-threads-are)
-* [Effective Java - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others](https://github.com/ftomassetti/effectivejava)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)

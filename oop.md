@@ -5,7 +5,7 @@
 * [Why OO Sucks](https://www.sics.se/~joe/bluetail/vol1/v1_oo.html)
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)]
-* *[안드로이드를 하면서 다시 생각해본 OOP](http://youngrok.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%A5%BC%20%ED%95%98%EB%A9%B4%EC%84%9C%20%EB%8B%A4%EC%8B%9C%20%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B8%20OOP)*
+* **[안드로이드를 하면서 다시 생각해본 OOP](http://youngrok.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%A5%BC%20%ED%95%98%EB%A9%B4%EC%84%9C%20%EB%8B%A4%EC%8B%9C%20%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B8%20OOP)**
 * [A Controlled Experiment to Evaluate Maintainability of Object-Oriented Software](http://eprints.cs.vt.edu/archive/00000221/01/TR-90-39.pdf)
 * [An Empirical Evaluation of Object Oriented Metrics in Industrial Setting†](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.416&rep=rep1&type=pdf)
 * [Refactoring with Loops and Collection Pipelines](http://www.martinfowler.com/articles/refactoring-pipelines.html)
@@ -30,6 +30,7 @@
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [SOLID 원칙](https://medium.com/@dev_momo/solid-%EC%9B%90%EC%B9%99-10fba70afc58)
+* [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
 * [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
 * **[Composition over inheritance](http://seokjun.kr/composition-over-inheritance/)**
 * [02: ♥♦ Q11 – Q15 Why favor composition over inheritance?](https://www.java-success.com/why-favor-composition-over-inheritance-in-java-oop/)

@@ -233,6 +233,7 @@ Javascript
 * [THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [자바스크립트 this 바인딩 우선순위](http://blog.jeonghwan.net/2017/10/22/js-context-binding.html)
 * [자바스크립트 this? 간단히 핵심만 파악하기](https://www.youtube.com/watch?v=PAr92molMHU)
+* [자바스크립트의 this가 가리키는 것](https://rhostem.github.io/posts/2018-07-20-this-in-javascript/)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * 함수형JS
@@ -340,6 +341,7 @@ Javascript
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
 * [JavaScript: Two face of identifier](https://blog.naver.com/sbshw1/221296823332)
 * [The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
+* [ReactJS vs Angular5 vs Vue.js — What to choose in 2018?](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -487,6 +489,9 @@ Javascript
 * [ECMAScript 2016, 2017, 2018 변경점 정리 글 링크](http://greentec.egloos.com/4437541)
 * [A Simple Guide to ES6 Promises](https://codeburst.io/a-simple-guide-to-es6-promises-d71bacd2e13a)
 * [ES6 문법으로 다시 시작하는 자바스크립트](https://hudi.kr/es6-%EB%AC%B8%EB%B2%95%EC%9C%BC%EB%A1%9C-%EB%8B%A4%EC%8B%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
+* [Here are three upcoming changes to JavaScript that you’ll love](https://medium.freecodecamp.org/here-are-three-upcoming-changes-to-javascript-that-youll-love-387bce1bfb0b)
+* [JavaScript’s journey with ECMA: ES 2017](https://hackernoon.com/javascripts-journey-with-ecma-es-2017-2ad36a7f9538)
+* [Javascript ES6 — You don’t really need to learn Generators](https://hackernoon.com/javascript-es6-you-dont-really-need-to-learn-generators-96aa2e9114fa)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -543,6 +548,7 @@ Javascript
 * [한 단계씩 배워보는 GraphQL](https://engineering.huiseoul.com/%ED%95%9C-%EB%8B%A8%EA%B3%84%EC%94%A9-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-graphql-421ed6215008)
 * [How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
 * [GraphQL 그리고 NodeJS로 영화API 만들기](https://academy.nomadcoders.co/courses/enrolled/357405)
+* [GraphQL Remote Schema Stitching in a Multi-Service Architecture](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -602,6 +608,7 @@ Javascript
   * [Bootstrap-table; An extended Bootstrap table with radio, checkbox, sort, pagination, and other added features](http://bootstrap-table.wenzhixin.net.cn/)
   * [Bootstrap Toggle](http://www.bootstraptoggle.com/)
   * [25+ Best Bootstrap Editors & Builders](http://www.cssauthor.com/bootstrap-editors/)
+  * [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
 * [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
@@ -1604,3 +1611,4 @@ Javascript
 * [VueJS 폼 검증](http://blog.jeonghwan.net/2018/05/31/vue-form-validation.html)
 * [배민찬은 Vue를 어떻게 사용하나요?](http://woowabros.github.io/experience/2018/06/07/vue-story-of-baminchan.html)
 * [NAVER Tech Talk: FE devtalk 11회 (2018년 4월)](https://d2.naver.com/news/6104477)
+* [Vue.js: the good, the meh, and the ugly](https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684) Prometheus, PostgreSQL + TimescaleDB, and Grafana for storing

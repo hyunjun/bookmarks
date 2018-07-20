@@ -213,6 +213,7 @@ Algorithm
 * [19. Dynamic Programming I: Fibonacci, Shortest Paths](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
 * [Programming Interview:Algorithm:Dynamic Programming: Coin Changing Problem](https://www.youtube.com/watch?v=tduLvFbqRXE)
 * [Dynamic Programming vs Divide-and-Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
+* [Change the signs: how to use dynamic programming to solve a competitive programming question](https://medium.freecodecamp.org/just-change-the-signs-how-to-solve-a-competitive-programming-question-f9730e8f04a9)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)

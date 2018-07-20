@@ -135,6 +135,8 @@ Interview
   * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
 * [머신러닝 해외 취업 준비: 닳고 닳은 이력서와 고통스러웠던 면접을 돌아보며 SNU 2018](https://www.slideshare.net/carpedm20/snu-2018-106452738)
 * [whenisgood.net](http://whenisgood.net/)
+* [나의 이직 성공기 - 온라인 코딩 테스트](http://employee.tistory.com/entry/%EB%82%98%EC%9D%98-%EC%9D%B4%EC%A7%81-%EC%84%B1%EA%B3%B5%EA%B8%B0-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8)
+* [What I learned from analyzing more than 80 job rejections with Python](https://medium.freecodecamp.org/what-i-learned-from-analyzing-more-than-80-job-rejections-with-python-11044ee6927b)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -194,6 +196,7 @@ Interview
 * [My take on Uber AI Interview Question with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-uber-ai-interview-question-with-interactive-code-part-1-40d6d795a566)
 * [Data Science Interview Guide](https://towardsdatascience.com/data-science-interview-guide-4ee9f5dc778)
 * [How To Ace Data Science Interviews: R & Python](https://towardsdatascience.com/how-to-ace-data-science-interviews-r-python-3a49982000de)
+* [Data Science Career Resources](https://github.com/conordewey3/DS-Career-Resources)
 
 # Facebook
 * [I just got a developer job at Facebook. Here’s how I prepped for my interviews](https://medium.freecodecamp.org/software-engineering-interviews-744380f4f2af)

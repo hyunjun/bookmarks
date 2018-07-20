@@ -388,6 +388,8 @@ TensorFlow
   * [Minimize Cost](http://mobicon.tistory.com/515)
   * [Tensorflow를 이용한 Minimized Cost 실습](http://mobicon.tistory.com/516)
   * [Multi Variable 개념 및 실습](http://mobicon.tistory.com/517)
+  * [Gradient Descent](http://mobicon.tistory.com/541)
+  * [Linear Algebra - 선형 대수학](http://mobicon.tistory.com/542)
   * [Logistic classification 개념](http://mobicon.tistory.com/518)
   * [Mutinomial Classification 개념](http://mobicon.tistory.com/519)
   * [Softmax 실습](http://mobicon.tistory.com/520)
@@ -413,6 +415,7 @@ TensorFlow
   * [Supervised Learning](http://mobicon.tistory.com/540)
 * [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
 * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
+* [Get started with TensorFlow on law and statistics](https://medium.freecodecamp.org/tensorflow-starter-on-law-and-statistics-646072b93b5a)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -609,6 +612,7 @@ TensorFlow
     * [2.  Deep-sarsa](https://hulk89.github.io/reinforcement%20learning/2018/06/14/tfjs_RL2/)
   * [How to build a Teachable Machine with TensorFlow.js](https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
   * [A Project Based Introduction to TensorFlow.js](http://kexp.io/intro_tensorflowjs/)
+  * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
