@@ -183,6 +183,7 @@ Interview
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
 * [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
 * [Crack the System Design interview: tips from a Twitter software engineer](https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26)
+* [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design)
 * **[System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)**
   * example of class design
   * handling ambiguity; clarifying the problem
