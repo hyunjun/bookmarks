@@ -342,6 +342,7 @@ Javascript
 * [JavaScript: Two face of identifier](https://blog.naver.com/sbshw1/221296823332)
 * [The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
 * [ReactJS vs Angular5 vs Vue.js — What to choose in 2018?](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
+* [The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -549,6 +550,7 @@ Javascript
 * [How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
 * [GraphQL 그리고 NodeJS로 영화API 만들기](https://academy.nomadcoders.co/courses/enrolled/357405)
 * [GraphQL Remote Schema Stitching in a Multi-Service Architecture](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
+* [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -830,6 +832,7 @@ Javascript
   * [5분 일기 개발기](https://twiw49.github.io/)
   * [Getting Started with React-Redux](https://hackernoon.com/getting-started-with-react-redux-1baae4dcb99b)
   * [The best way to architect your Redux app](https://medium.freecodecamp.org/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d)
+  * [React + Redux example: counter](https://github.com/edoko/react-redux-counter-example)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -1347,6 +1350,9 @@ Javascript
 * [번역 깊이 있는 리액트 개발 환경 구축하기](https://sujinlee.me/webpack-react-tutorial/)
 * [react-lifecycle-methods-diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 * **[React로 만든 프로젝트 톺아보기](http://blog.jeonghwan.net/2018/07/16/react-app-overview.html)**
+* [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+* [super-simple-react-starter -  A simple react project starter kit with best practices](https://github.com/myungjaeyu/super-simple-react-starter)
+* [React에 Component만들기](http://blog.myeongsku.com/17)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

@@ -315,6 +315,23 @@ Apache
 * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
 * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
 * [Announcing AMQ Streams: Apache Kafka on OpenShift](https://developers.redhat.com/blog/2018/05/07/announcing-amq-streams-apache-kafka-on-openshift/)
+* [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 1](http://blog.cloudera.com/blog/2018/07/robust-message-serialization-in-apache-kafka-using-apache-avro-part-1/)
+	* 아파치 카프카(Apache Kafka)에서는 producer라고 하는 Java 애플리케이션으로 구조화된 메시지를 써서 카프카 클러스터(브로커로 구성됨)로 전송. 이들 메시지를 읽는 작업도 마찬가지로 같은 클러스터에서 consumer라는 Java 애플리케이션이 담당. 조직에 따라서 각기 다른 그룹이나 부서에서 producer와 consumer를 쓰고 관리하는 책임을 전담
+		* 이런 경우 한 가지 중대한 이슈가 발생. 즉 producer와 consumer 사이에서 서로 합의된 메시지 형식을 조율 필요
+		* 예시는 아파치 아브로(Apache Avro)를 사용하여 아파치 카프카를 대상으로 생성된 레코드를 직렬화하면서 스키마를 개발, producer와 consumer 애플리케이션을 비동기식으로 업데이트하는 방법
+	* 직렬화와 역직렬화
+		* 한 개의 카프카 레코드(기존에는 ‘메시지’라고 불림)는 한개의 키, 한개의 값, 헤더로 구성. 카프카는 레코드의 키와 값 면에서 데이터의 구조 인식 불가능. 대신 바이트 어레이 형태로 취급
+		* 하지만 카프카로부터 레코드를 읽는 시스템의 입장에서는 이러한 레코드에 포함된 데이터가 중요. 따라서 데이터를 읽을 수
+있는 형식으로 도출할 필요
+		* 사용해야 하는 데이터 형식의 특성
+			* 컴팩트
+			* 빠른 인코딩과 디코딩 가능
+			* 변화(evolution) 허용
+			* 업스트림 시스템(카프카 클러스터에 데이터를 쓰는 시스템)과 다운스트림 시스템(같은 카프카 클러스터에서 데이터를 읽어오는 시스템)이 각기 다른 시점에 새 스키마로 업그레이드 허용
+		* 예를 들어 JSON의 경우 설명이 따로 필요 없지만 컴팩트 데이터 형식이 아니고 구문 분석 저속
+		* 아브로는 비교적 컴팩트한 출력 데이터를 생성하는 고속 직렬화 프레임워크. 하지만 아브로 레코드를 읽으려면 데이터를 직렬화하는 데 사용한 스키마 필요
+		* 한 가지 옵션은 스키마를 레코드 자체와 함께 저장하고 전송. 이 방법은 스키마를 한 번만 저장했다가 다수의 레코드에 사용하는 경우 가능. 카프카 레코드마다 모두 스키마를 하나씩 저장하려면 스토리지 공간과 네트워크 활용도 면에서 중대한 오버헤드 추가
+		* 또 한 가지 옵션은 미리 합의한 식별자 스키마 매핑 세트를 정하여 스키마를 레코드 내에 존재하는 각각의 식별자로 참조
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

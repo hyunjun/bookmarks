@@ -642,6 +642,9 @@ Deep Learning
 * [An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution](https://www.youtube.com/watch?v=8yFQc6elePA)
 * [Deep Learning made easy with Deep Learning Studio — Complete Guide](https://towardsdatascience.com/deep-learning-made-easy-with-deep-learning-studio-complete-guide-a5c5ae58a771)
 * [Day1, 2-1. 책 읽어주는 딥러닝](https://www.youtube.com/watch?v=klnfWhPGPRs)
+* [Deep Learning for AI (1)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-1)
+* [Deep Learning for AI (2)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-2)
+* [Deep Learning for AI (3)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-3)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

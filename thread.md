@@ -46,6 +46,7 @@ Thread
 * [Teaching Concurrency](http://research.microsoft.com/en-us/um/people/lamport/pubs/teaching-concurrency.pdf)
 * [‘헤일로’로 부터 배우는 가상 액터 모형과 MSR의 Orleans Project](http://ndcreplay.nexon.com/NDC2016/sessions/NDC2016_0048.html)
 * [Dining philosophers problem](https://en.wikipedia.org/wiki/Dining_philosophers_problem)
+* [concurrent programming #1](https://01010011.blog/tag/concurrent/)
 
 # CUDA
 * [CUDA 툴킷 다운로드하고, GPU를 자유자재로 활용해보자!](http://blogs.nvidia.co.kr/2018/01/16/cuda-toolkit/)

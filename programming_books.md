@@ -957,6 +957,8 @@ Programming Books
   * scipy + 선형대수
 * (NOT YET) [파이썬을 활용한 금융공학 레시피](http://book.daum.net/detail/book.do?bookid=BOK00035116706YE)
   * 2018.07 탐라
+* (NOT YET) Fluent Python 전문가를 위한 파이썬: 간단하고, 명료하고, 효율적인 파이썬 프로그래밍
+  * 한라 005.133-하32ㅈ
 
 # R
 

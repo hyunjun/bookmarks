@@ -187,6 +187,8 @@ SQL
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [Delayed Replication을 이용해 유실된 데이터 빠르게 복구하기](http://tmondev.blog.me/220970798327)
 * **[MySQL을 NoSQL로 사용하기](http://advent.perl.kr/2012/2012-12-12.html)**
+	* 2010년 글 memcached 400,000/sec get vs. 100,000/sec select MySQL/InnoDB
+  * plugin을 통해 750,000/sec으로 성능 향상
 * utf8mb4
   * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
 * [Calculating disk space usage per MySQL DB](https://dba.stackexchange.com/questions/14337/calculating-disk-space-usage-per-mysql-db)
@@ -222,6 +224,7 @@ SQL
 * [MySQL 실행 계획](http://12bme.tistory.com/160)
 * **[장애와 관련된 XtraBackup 적용기](http://woowabros.github.io/experience/2018/05/28/billingjul.html)** mysqldump, mysqlbinlog, XtraBackup
 * [MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/)
+* [Speed Up Your Database 300 Times](https://speakerdeck.com/afilina/speed-up-your-database-300-times)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)

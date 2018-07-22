@@ -135,6 +135,7 @@ Science
 * [영국 과학자들이 사상 최초로 LSD가 뇌에서 어떻게 작용하는지를 연구하고, 뇌 이미지를 공개했다](http://www.mixmag.kr/518)
 * [뇌는 칭찬보다 비난에 맞춰져 있다](http://newspeppermint.com/2016/12/15/m-blame/)
 * [보톡스 맞으면 뇌도 마비된다](http://www.dongascience.com/news.php?idx=12138)
+* [바이오토픽 신경생물학의 큰 성과: 고해상도의 초파리 뇌 전체 지도 작성](http://m.ibric.org/trend/news/subread.php?Board=news&id=296143)
 
 ### DNA
 * [DNA 이중나선 구조를 푼 사람은 누구인가?](http://ppss.kr/archives/48498)

@@ -198,3 +198,4 @@ Data Visualization
 * [How-To: Python Compare Two Images](https://www.pyimagesearch.com/2014/09/15/python-compare-two-images)
 * [python + OpenStreetMapで地図にデータをプロットする](https://qiita.com/duonys/items/c941bc2818abe5cc1da7)
 * **[itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal](https://github.com/daleroberts/itermplot)**
+* [Python: matplotlib hangs and shows nothing (Mac OS X)](https://markhneedham.com/blog/2015/03/26/python-matplotlib-hangs-and-shows-nothing-mac-os-x/)

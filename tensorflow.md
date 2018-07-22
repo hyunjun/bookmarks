@@ -562,6 +562,7 @@ TensorFlow
   * [enuSpace Tensorflow github](https://github.com/EXPNUNI/enuSpace-Tensorflow)
   * [enuSpace Manual](https://expnuni.gitbooks.io/enuspace/content/)
 * [fttables : HDF5 interface for Tensorflow](https://www.facebook.com/nextobe1/posts/336945876741414)
+* [Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"](https://github.com/openai/glow)
 * [Horovod](https://github.com/uber/horovod): TensorFlow를 위한 Uber의 오픈소스 분산 학습 프레임워크
   * [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
   * Uber 내부 ML- 서비스 플랫폼인 Michelangelo의 딥러닝 툴킷의 오픈소스 구성 요소

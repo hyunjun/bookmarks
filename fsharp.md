@@ -13,6 +13,7 @@ F#
 * [C# and F# approaches to illegal states](http://enterprisecraftsmanship.com/2015/09/28/c-and-f-approaches-to-illegal-states/)
 * [What I Learned Reading the FSharp Source Part One](http://andredublin.github.io/fsharp/.net/2015/09/30/what-I-learned-reading-the-fsharp-source.html)
 * [An introduction to property-based testing](http://fsharpforfunandprofit.com/posts/property-based-testing/)
+* [F# Code I Love](https://www.youtube.com/watch?v=EPfpO_6uFAA)
 
 # Library
 * [Ionide - An Atom Editor package suite for cross platform F# development](http://ionide.io/)

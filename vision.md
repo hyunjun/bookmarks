@@ -216,6 +216,7 @@ Vision
   * [구글 클라우드 비젼 API 사용하기 (Google Cloud Vision API)](http://bcho.tistory.com/1075)
   * [Explore the Galaxy of images with Cloud Vision API](https://cloud.google.com/blog/big-data/2016/05/explore-the-galaxy-of-images-with-cloud-vision-api)
     * [Cloud Vision API Demo](http://vision-explorer.reactive.ai/)
+* [Dataset Annotator - Tool for annotating image datasets](https://github.com/omenyayl/dataset-annotator)
 * [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
 * [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/)
 * [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)

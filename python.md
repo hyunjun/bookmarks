@@ -2056,6 +2056,7 @@ Python
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
 * pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
+* [pysftp](http://pysftp.readthedocs.io/) a kind of wrapper of paramiko
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)
   * [Pyston 0.6.1 released, and future plans](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/)
@@ -2223,6 +2224,7 @@ Python
 * Tornado
   * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
     * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
+  * [Tornado WS Json API Server Boilerplate](https://github.com/shinjayne/Tornado-WS-Json-Boilerplate)
 * tox
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
