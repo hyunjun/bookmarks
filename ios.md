@@ -347,6 +347,7 @@ iOS
 * [try! Swift Tokyo 2017 후기](http://news.realm.io/kr/news/try-swift-tokyo-2017-review/)
 * [UIActionSheet 사용법](http://destiny738.tistory.com/577)
 * [RxSwift로 반응형 프로그래밍하기](https://news.realm.io/kr/news/reactive-programming-with-rxswift)
+  * [Disposable의 종류](https://brunch.co.kr/@tilltue/49)
 * [Swift로 꼬리 재귀 사용하기](https://news.realm.io/kr/news/swift-tail-recursion)
 * [Swift의 강력한 mock 객체 만들기](https://news.realm.io/kr/news/making-mock-objects-more-useful-try-swift-2017)
 * [Swift 4 에서 KVO 사용해보기](http://seorenn.blogspot.com/2017/07/swift-4-kvo.html)

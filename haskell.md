@@ -119,6 +119,7 @@ Haskell
 * [Modern Software Development with Haskell by Runar Bjarnason](https://www.youtube.com/watch?v=IKm-YYPaohQ)
 * [하스켈 나라 탐험기 (1)](https://harfangk.github.io/2017/04/28/my-brief-foray-into-the-land-of-haskell-1-ko.html)
 * [하스켈 나라 탐험기 (2)](https://harfangk.github.io/2017/05/14/my-brief-foray-into-the-land-of-haskell-2-ko.html)
+* [Spacemacs에서 한국어 사용하기](https://harfangk.github.io/2018/07/21/using-korean-in-spacemacs-ko.html)
 * [Running a startup on Haskell](https://www.youtube.com/watch?v=ZR3Jirqk6W8)
 * [Haskell Tutorial](https://www.youtube.com/watch?v=02_H3LjqMr8)
 * [LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen](https://www.youtube.com/watch?v=Bg9ccYzMbxc)

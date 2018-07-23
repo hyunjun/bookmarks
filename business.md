@@ -57,6 +57,7 @@ Business
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
+* [중간 관리자의 역할 - 취합만 하고 마구 간섭하는 자리가 아니다](https://brunch.co.kr/@lunarshore/297)
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
 * [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)

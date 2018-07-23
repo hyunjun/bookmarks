@@ -228,6 +228,7 @@ Java
 * [A Very Simple IntelliJ Idea Tip – Enable Function Keys on Mac Book Pro TouchBar](http://www.javastudy.net/a-very-simple-intellij-idea-tip-enable-function-keys-on-mac-book-pro-touchbar/)
 * [mac os에서 intellij 완전 제거 / 백업 하기](http://blog.woniper.net/354)
 * [intellij SQL keyword 자동 uppercase](http://blog.woniper.net/360)
+* [IntelliJ & 안드로이드 스튜디오 기본 가이드 소개](http://jojoldu.tistory.com/321)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -532,6 +533,7 @@ Java
   * [SpringBoot Data Redis 로컬/통합 테스트 환경 구축하기](http://jojoldu.tistory.com/297)
   * [SpringBoot & AWS S3 연동하기](http://jojoldu.tistory.com/300)
   * [스프링 부트와 카오스 몽키](http://blog.younjinjeong.io/post/chaosmonkey-for-spring-boot/)
+  * [@SpyBean @MockBean 의도적으로 사용하지 않기](http://jojoldu.tistory.com/320)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

@@ -153,6 +153,11 @@ Apache
   * 이 시스템은 Apache Flink와 Apache Kafka 기반으로 하는 셀프 서비스 인프라로 구축
   * Flink를 사용하는 이유와 구현과 운영에 대해 설명
 
+# Flume
+* [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
+  * Apache Flume용 새로운 channel selector인 "Round-Robin Channel Selector" 설명
+  * 이 선택기를 사용하면 기본 배치 처리량의 약 10배까지 확장
+
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
 
@@ -477,6 +482,9 @@ Apache
 * [Dremel made simple with Parquet](https://blog.twitter.com/2013/dremel-made-simple-with-parquet)
 * [Benchmarking Apache Parquet: The Allstate Experience](http://blog.cloudera.com/blog/2016/04/benchmarking-apache-parquet-the-allstate-experience/)
 * [fastparquet - A Python interface to the Parquet file format](https://fastparquet.readthedocs.io)
+* [Sorting and Parquet](https://medium.com/@pankajroark/sorting-and-parquet-3a382893cde5)
+  * Apache Parquet로 직렬화하기 전에 데이터를 정렬하면 쿼리 성능이 크게 달라질 수 있음
+  * 이 글에서는 그 이유를 설명하고 정렬할 column을 파악하는 방법에 대한 아이디어 제공
 
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
