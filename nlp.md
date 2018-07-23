@@ -649,6 +649,7 @@ NLP
   * [word2vec을 하기 앞서 형태소 분석을 해보자](http://blog.naver.com/pjt3591oo/220967117096)
   * [Pycon2017 koreannlp](https://www.slideshare.net/kimhyunjoonglovit/pycon2017-koreannlp)
   * [customized KoNLPy](https://github.com/lovit/customized_konlpy)
+  * [MAC OSX에서 konlpy 설치 시 ImportError: No module named 'jpype' 오류 해결](http://corazzon.github.io/Konlpy_JPype_install_struggle)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
 * [NLP Architect - an open-source Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](http://nlp_architect.nervanasys.com/)
 * [NLTK](http://www.nltk.org)

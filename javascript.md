@@ -833,6 +833,7 @@ Javascript
   * [Getting Started with React-Redux](https://hackernoon.com/getting-started-with-react-redux-1baae4dcb99b)
   * [The best way to architect your Redux app](https://medium.freecodecamp.org/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d)
   * [React + Redux example: counter](https://github.com/edoko/react-redux-counter-example)
+  * [React.js + Redux CRUD EXAMPLE](https://github.com/edoko/react-redux-crud-example)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
