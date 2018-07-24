@@ -325,7 +325,7 @@ Deep Learning
   * 실험 결과
     * t(x)=x^2 함수: x=[1.0~12.0]까지 학습 시켰는데 잘 되었음
     * t(x)=sin(x) 함수: x=[1.0~10.0]까지 학습 시켰는데 잘 되었음
-    * t(x)=x^3+3*sin(x)^2-10 함수: x=[-5.5~5.5]까지 학습 시켰는데 잘 되었음
+    * t(x)=x^3+3 * sin(x)^2-10 함수: x=[-5.5~5.5]까지 학습 시켰는데 잘 되었음
     * 히든 노드수를 늘릴 수록 더 넓은 범위의 x 값을 커버할 수 있음을 일정 범위 내에서 확인
   * [코드](https://github.com/dgtgra…/HumanLearning/blob/master/1001.py)
     * numpy 외에 아무런 라이브러리도 사용하지 않았음
@@ -1902,8 +1902,9 @@ CVPR2016)
 * [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Stanford Andrew Ng CS229 Lecture 16, 2008](https://www.youtube.com/watch?v=RtxI449ZjSc)
 * [Deep Reinforcement Learning](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
-* [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
-* [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)
+* [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+  * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
+  * [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) Python code for Sutton & Barto's book
 * [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
 * [Temporal-Difference Learning](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD_new/)
   * [1](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD1/)

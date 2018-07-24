@@ -1081,6 +1081,9 @@ Programming Books
   * 최신 내용에 대해 자세히 설명. spark 코드를 위해 필수. 2.2.1, 2.3.0에서 테스트했다고 함
 * (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798&page=1&TF=T)
   * 2018.06 한라
+* [PySpark 배우기](http://www.acornpub.co.kr/book/learning-pyspark)
+  * 한라 005.76드292ㅍ
+  * 2.0 version
 
 # Statistics
 

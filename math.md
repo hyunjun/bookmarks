@@ -187,6 +187,7 @@ Math
 * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains/)
 * [Lecture 8: Markov Decision Processes (MDPs)](https://www.youtube.com/watch?v=i0o-ui1N35U)
 * [Lecture 9: Markov Decision Process II](https://www.youtube.com/watch?v=Csiiv6WGzKM)
+* [Markov Decision Process](https://brunch.co.kr/@chris-song/80)
 * [Markov models](https://phvu.net/2011/03/30/markov-models/)
 * [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
 * [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc)

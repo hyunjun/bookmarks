@@ -192,6 +192,8 @@ Nomad & Remote
 * [독일 이주시, 준비해야 할 일](https://pgr21.com/?b=8&n=76403)
 * [Working in Germany](https://www.thelocal.de/tag/working+in+germany)
 * [The Berlin Startup Salary Report](https://journal.jobspotting.com/en/berlin-startup-salary-report/)
+* [SALARY IN BERLIN – THIS IS HOW MUCH YOU SHOULD GET PAID](https://www.settle-in-berlin.com/salary-in-berlin/)
+* [www.averagesalarysurvey.com/berlin-germany](http://www.averagesalarysurvey.com/berlin-germany)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)

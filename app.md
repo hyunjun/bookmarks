@@ -310,14 +310,14 @@ App
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 
 # Mac
-* [최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
+* [practice - 최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
+  * [practice - (old) Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
-  * [한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
+  * [practice - 한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
     * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
     * [OS X에서 shift + space 키로 입력 소스를 전환하는 방법 (패러렐즈 한영전환 보충 내용)](http://macnews.tistory.com/3748)
 * [Become The Shortcut Master — The Mac and Terminal (Part 1)](https://hackernoon.com/become-the-shortcut-master-the-mac-and-terminal-part-1-80793d8df033)
 * [맥북프로 재부팅 문제 해결 삽질기](http://www.popit.kr/%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EC%9E%AC%EB%B6%80%ED%8C%85-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%BD%EC%A7%88%EA%B8%B0/)
-* [Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * [맥 유저라면 한 번 꼭 써봐야하는 10가지 무료 앱](http://www.itworld.co.kr/slideshow/96010)
@@ -330,7 +330,7 @@ App
 * 동영상 인코딩
   * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i [MOV] -acodec copy -vcodec copy [mp4]`
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
-  * [OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
+  * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
   * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
 * [mac 기본 앱 잘 쓰기 - 미리보기앱](https://steemit.com/kr/@ggopro/mac)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool

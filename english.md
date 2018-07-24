@@ -13,6 +13,7 @@ English
 * [learn.livemocha.com](https://learn.livemocha.com)
 * [memrise](https://www.memrise.com/)
 * [mylanguageexchange.com](http://mylanguageexchange.com/)
+* [youglish.com](https://youglish.com/) 실제 쓰이는 영어의 발음을 바로 검색해서 확인
 * youtube
   * [라이브 아카데미](https://www.youtube.com/channel/UCGDA1e6qQSAH0R9hoip9VrA)
   * [영어 알려주는 남자](https://www.youtube.com/channel/UCHpIHu4LzmNuD8bsE6mZLSA)
