@@ -63,7 +63,10 @@ Git
 * [자바 기반의 GIT 관리 서버 ( Windows GIT 서버 구축)](https://gs.saro.me/#!m=elec&jn=714)
 * [Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)
 * [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
-* [Git 내부 구조를 알아보자 (0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
+* Git 내부 구조를 알아보자
+  * [(0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
+  * [(1) — 기본 오브젝트](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-1-%EA%B8%B0%EB%B3%B8-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-81b34f85fe53)
+* [GitHub로 프로젝트 관리하기 Part1 - 이슈 발급 부터 코드리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
 * [GitHub Repo 에 Travis CI 추가하기](http://inspiredjw.com/entry/GitHub-Repo-%EC%97%90-Travis-CI-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 * [About Travis CI](https://medium.com/@yoonjs2/about-travis-ci-65b04d3dead6)
 * [알아두면 좋은 GIT 꿀팁 3개](https://brunch.co.kr/@sydneyitguy/5)

@@ -117,6 +117,7 @@ Vim
 * [Why I love Vim: It’s the lesser-known features that make it so amazing](https://medium.freecodecamp.org/learn-linux-vim-basic-features-19134461ab85)
 * [모든 앱에서 Vim을 사용하는 법 - QuickCursorKM과 vim-anywhere](https://nolboo.kim/blog/2018/02/17/vim-anywhere/)
 * [Indenting Python with VIM](http://henry.precheur.org/vim/python.html)
+* [You don’t need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
 
 # Library
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)

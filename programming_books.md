@@ -166,8 +166,8 @@ Programming Books
 # Compiler
 
 * [제대로 배우는 LLVM 코어 라이브러리](http://bjpublic.tistory.com/271)
-  * 한라 005.453 로894ㅇ
   * 2017.04
+  * 한라 005.453 로894ㅇ
 
 # Database, SQL
 
@@ -288,9 +288,9 @@ Programming Books
 * C++와 CUDA C로 구현하는 딥러닝 알고리즘
   * 한라 004.73 마57ㅆ
 * 밑바닥부터 시작하는 딥러닝
+  * 2017.01
   * 탐라 문004.73 사68ㅁ
   * [『밑바닥부터 시작하는 딥러닝』 (원서 : ゼロから作る Deep Learning)](https://github.com/WegraLee/deep-learning-from-scratch/blob/master/README.md)
-  * 2017.01
   * 이론 설명 + 파이썬으로 딥러닝 구현
   * vector의 표현 형식이 row major와 column major가 혼재되어 있다고 비판하는 의견도 있음
     * [Row major vs. column major, row vectors vs. column vectors](https://fgiesen.wordpress.com/2012/02/12/row-major-vs-column-major-row-vectors-vs-column-vectors/)
@@ -314,15 +314,16 @@ Programming Books
 * [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
   * 탐라 004.73 김832ㅍ
   * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
-* (NOT YET) 코딩 셰프의 3분 딥러닝 케라스맛
-  * 2018.01 탐라
+* 코딩 셰프의 3분 딥러닝 케라스맛
   * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
+  * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%85%B0%ED%94%84%EC%9D%98-3%EB%B6%84-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%BC%80%EB%9D%BC%EC%8A%A4%EB%A7%9B)
 * (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
   * 2018.02 한라
 * 강화학습 첫 걸음
   * 2018.03
   * 문004.73 줄239ㄱ
 * [처음 배우는 딥러닝 수학](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
+  * [서평, 한빛미디어](https://medium.com/@strncpy/%EA%B8%B0%EC%B4%88%EB%A5%BC-%EC%9D%B5%ED%9E%88%EB%8A%94%EB%8D%B0-%ED%81%B0-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A3%BC%EB%8A%94-%EC%B1%85-489f192d04a7)
 * (NOT YET) [딥러닝 워크북](http://m.post.naver.com/viewer/postView.nhn?volumeNo=15007933&memberNo=40845152)
 * (NOT YET) [이것이 우리에게 딱 맞는 딥러닝 with 텐서플로](http://bjpublic.tistory.com/306)
   * 2018.07 탐라
@@ -369,8 +370,8 @@ Programming Books
   * 한라 004.73 양78ㅇ
   * 이론 + R programming & library
 * [웹을 위한 머신 러닝](http://book.daum.net/detail/book.do?bookid=KOR9788960779877)
-  * 한라 005.73 아68ㅇ
   * 2017.03
+  * 한라 005.73 아68ㅇ
 * (NOT YET) [통계적 기계 학습](http://book.daum.net/detail/book.do?bookid=KOR9788952117625) 생성 모델에 근거한 패턴 인식
   * 2016.04
   * 한라 004.74 스18ㅌ
@@ -391,6 +392,8 @@ Programming Books
   * 2017.12
   * 한라 004.73 브298ㄹ
   * 전반부는 설명, 후반부는 에제(scikit-learn 사용)
+* 머신러닝 실무 프로젝트
+  * [서평, 한빛미디어](https://medium.com/@strncpy/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-42d1b2bac9cd)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -422,6 +425,7 @@ Programming Books
   * 버전 정보는 정확히 모르겠는데 2017년 1월에 나온 책이라 2016년의 버전일 걸로 추정
 * [핸즈온 머신러닝 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무](http://www.hanbit.co.kr/store/books/look.php?p_code=B9267655530)
   * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://tensorflow.blog/2017/12/30/review-hands-on-machine-learning-with-scikit-learn-tensorflow/)
+  * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EA%B3%BC-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4)
 * (NOT YET) [러닝 텐서플로 딥러닝 영상처리와 NLP부터 텐서보드 시각화, 멀티스레딩, 분산처리까지](http://www.yes24.com/24/goods/60506589)
 
 ## Visualization
@@ -458,8 +462,8 @@ Programming Books
 * (NOT YET) 제대로 배우는 도커
   * 2017.01
 * **[시작하세요! 도커](http://wikibook.co.kr/docker/)**
-  * 한라 005.1 용82ㅅ
   * 2017.04
+  * 한라 005.1 용82ㅅ
   * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
 * (NOT YET) [Docker로 PaaS 구성하기](http://book.daum.net/detail/book.do?bookid=BOK00030207228YE)
   * 2017.06 한라
@@ -529,19 +533,19 @@ Programming Books
   * 한라 005.13-장73ㄱ
   * 1~7장은 기초(다른 책과 큰 차이 없을 듯). 8, 9, 10(Revel)장이 좋은 듯
 * [Go 웹 프로그래밍](http://bjpublic.tistory.com/269)
-  * 한라 005.118 참52ㄱ
   * 2017.03
+  * 한라 005.118 참52ㄱ
 
 # Hadoop
 
 * 거침없이 배우는 하둡
-  * 2012-07
+  * 2012.07
   * 탐라 개005.7534척29ㅎ
   * 한라 005.74램83ㅎ
   * Hadoop in Action 번역서
   * 하둡, Pig, Hive
 * Do it 직접 해보는 하둡 프로그래밍
-  * 2013-02
+  * 2013.02
   * 한라 005.11한18ㅈ
   * 하둡, Pig, 스트리밍, 아마존 EMR
   * 더그 커팅과 같이 일한 한국인 프로그래머가 쓴 책이라는 점이 세일즈 포인트
@@ -696,6 +700,7 @@ Programming Books
 * [Vue.js 개발자를 위한 ES6 입문서(무료)](https://joshua1988.github.io/es6-online-book/) ebook
 * (NOT YET) [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
   * 2018.07 한라
+* (NOT YET) [리액트를 다루는 기술](https://velopert.com/3697)
 
 ## Angular
 
@@ -798,23 +803,23 @@ Programming Books
 # NoSQL
 
 * 클라우드 컴퓨팅 구현 기술
-  * 2010-12 1st / 2012-05 4th
+  * 2010.12 1st / 2012.05 4th
   * 탐라 개004.79김94ㅋ
   * 쓰리프트, 에이브로, 제티, 주키퍼, 하둡
   * NoSQL(클라우데이터, HBase, 카산드라, 몽고디비, MySQL 분산 구성 MMM) 척와, 스크라이브, memcached, membase
 * NoSQL 프로그래밍 한 권으로 끝내는 NoSQL 솔루션 활용법
-  * 2013-01
+  * 2013.01
   * 탐라 개005.75지67N
   * 한라 005.75지67N
   * 몽고디비, 쓰리프트, 레디스, HBase, 카산드라, Memcached, 구글앱엔진, 아마존 심플디비, 하이브
   * 장점; 하둡이 아니라 NoSQL에 중점을 둔 몇 안되는 책
   * 단점; 각 장마다 계속 몽고디비, 레디스, HBase등이 반복되어 한 가지를 보기에는 조금 불편
 * 대용량 데이터 분석 및 처리를 위한 Hadoop NoSQL
-  * 2013-01
+  * 2013.01
   * 탐라 개005.74서52H
   * 하둡, 아마존 EMR, 기계학습(Mahout), RHive, Giraph, HBase
 * 빅데이터 시대를 위한 NoSQL 핵심가이드
-  * 2011-12
+  * 2011.12
   * 한라 005.75다57ㅂ
   * memcached, Tokyo Tyrant, Redis, MongoDB, Cassandra, HBase
   * 일본인 저자, Ruby 예제
@@ -832,7 +837,7 @@ Programming Books
 ## Casandra
 
 * 카산드라 완벽 가이드
-  * 2011-10
+  * 2011.10
   * 탐라 개005.7534에44ㅋ
 
 ## HBase
@@ -847,7 +852,7 @@ Programming Books
 ## Hive
 
 * 하이브 완벽 가이드 : 하둡을 이용한 SQL 기반 빅데이터 분석 도구
-  * 2013-04
+  * 2013.04
   * 한라 004.78카897ㅎ
 
 ## MongoDB
@@ -858,7 +863,7 @@ Programming Books
 * 몽고디비 인 액션: 빅데이터 시대 최고의 NoSQL 데이터베이스
   * 한라 005.756-뱅874ㅁ
 * 클라우드와 빅데이터의 강력한 파트너 MongoDB 핵심가이드
-  * 2014-01
+  * 2014.01
   * 한라 005.74김94ㅇ
 
 ## Redis
@@ -959,6 +964,8 @@ Programming Books
   * 2018.07 탐라
 * (NOT YET) Fluent Python 전문가를 위한 파이썬: 간단하고, 명료하고, 효율적인 파이썬 프로그래밍
   * 한라 005.133-하32ㅈ
+* 한 권으로 배우는 파이썬 기초 & 알고리즘 사고법
+  * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
 
 # R
 
@@ -1007,6 +1014,7 @@ Programming Books
 * (NOT YET) (빅데이터 분석의 첫걸음) R로 배우는 코딩
   * 2018.04 한라
 * [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
+  * [서평, jpub](https://medium.com/@strncpy/%ED%95%B4%EB%93%A4%EB%A6%AC-%EC%9C%84%EC%BB%B4%EC%9D%98-advanced-r-1bece8a507e0)
   * 한라 005.11-위874ㅇ
 * (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
 
@@ -1038,7 +1046,6 @@ Programming Books
 * (한라 취소됨) [누구나 쉽게 스칼라+플레이스칼라 입문부터 게시판, 채팅 프로그램 제작까지](http://book.daum.net/detail/book.do?bookid=KOR9788968484728)
   * 2016.11
 * (NOT YET) [러닝 스칼라](http://jpub.tistory.com/673)
-  * 한라
   * [Hello Scala! (스칼라 시작하기)](https://lovetoken.github.io/scala/2017/06/06/HelloScala.html)
 * [러닝 아카: 더 비기닝 - 리액티브 프로그래밍의 시작! 리액티브 선언문에 충실한 분산 시스템 개발을 위한 지침서](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114537458)
   * 2017.08

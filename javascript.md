@@ -1067,6 +1067,7 @@ Javascript
     * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](http://blog.naver.com/agilesoft/220985682264)
   * [mysql-live-select](https://github.com/numtel/mysql-live-select)
 * [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9)
+* [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
