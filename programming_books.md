@@ -181,6 +181,7 @@ Programming Books
   * 한라 005.755가52ㄷ
   * [데이터 분석을 위한 SQL 레시피](http://jybaek.tistory.com/742)
   * PostgreSQL, Apache Hive, Amazon Redshift, Google BigQuery, SparkSQL에 적용가능한 중급 이상의 SQL
+* (NOT YET) [DBA를 위한 MySQL 운영 기술 모니터링, 백업/복구, 이중화, 도구와 기법](http://wikibook.co.kr/mysql-for-dba/)
 
 # Data Science
 

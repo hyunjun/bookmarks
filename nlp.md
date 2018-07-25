@@ -149,7 +149,7 @@ NLP
   * [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
   * [Precision vs Recall](https://towardsdatascience.com/precision-vs-recall-386cf9f89488)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
-* [Natural language processing in 10 lines of code: Part 1](http://www.cytora.com/insights/2016/11/30/natural-language-processing-in-10-lines-of-code-part-1)
+* [Repository for PyCon 2016 workshop Natural Language Processing in 10 Lines of Code](https://github.com/cytora/pycon-nlp-in-10-lines)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
 * [NLP: Everyday, Analytical & Unusual Uses](http://www.allanalytics.com/document.asp?doc_id=260387)
 * [Welcome to Railroad Diagram Generator!](http://bottlecaps.de/rr/ui) BNF rule to diagram
