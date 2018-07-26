@@ -230,6 +230,7 @@
 * **[Achieving a 300% speedup in ETL with Apache Spark](http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/)**
   * Spark의 CSV 파일 작업에 대한 스니펫 소개
   * non-distributed version에 비해 Spark는 뛰어난 속도 향상 기능을 제공하며 Parquet과 같은 최적화된 형식으로 변환 할 수 있는 기능을 제공
+* [Parsing CSV Files in Spark](https://www.youtube.com/watch?v=I3WzvSjYf3Q)
 * [Diving into Spark and Parquet Workloads, by Example](https://db-blog.web.cern.ch/blog/luca-canali/2017-06-diving-spark-and-parquet-workloads-example)
 * [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [Apache Spark에서 컬럼 기반 저장 포맷 Parquet(파케이) 제대로 활용하기](http://engineering.vcnc.co.kr/2018/05/parquet-and-spark/)
@@ -245,6 +246,7 @@
 * [Using Apache Spark for large-scale language model training](https://code.facebook.com/posts/678403995666478/using-apache-spark-for-large-scale-language-model-training/)
   * Facebook에서 ngram 모델의 traing pipeline을 Apach Hive에서 Apache Spark으로 전환 시도 중
   * 두 가지 솔루션에 대한 설명과 Spark DSL 과 Hive QL의 유연성 비교 및 성능 수치
+* [Hive and Spark Integration Tutorial](https://www.youtube.com/watch?v=Tq_NL2HEdfM)
 * [WRITING TO A DATABASE FROM SPARK](http://bigdatums.net/2016/10/16/writing-to-a-database-from-spark/)
 * [Processing Solr data with Apache Spark SQL in IBM IOP 4.3](https://developer.ibm.com/hadoop/2017/03/21/processing-solr-data-apache-spark-sql-ibm-iop-4-3/)
   * Apache Spark을 Apach Solr로 연결하는 방법 소개
