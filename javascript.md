@@ -1352,6 +1352,7 @@ Javascript
 * [Debounce SyntheticEvent](https://hyunseob.github.io/2018/06/24/debounce-react-synthetic-event/)
 * [번역 깊이 있는 리액트 개발 환경 구축하기](https://sujinlee.me/webpack-react-tutorial/)
 * [react-lifecycle-methods-diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+* [React LifeCycle이란](http://blog.myeongsku.com/19)
 * **[React로 만든 프로젝트 톺아보기](http://blog.jeonghwan.net/2018/07/16/react-app-overview.html)**
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 * [super-simple-react-starter -  A simple react project starter kit with best practices](https://github.com/myungjaeyu/super-simple-react-starter)

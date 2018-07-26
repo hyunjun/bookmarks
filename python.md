@@ -1870,7 +1870,7 @@ Python
 * [Legofy - a python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO](https://github.com/JuanPotato/Legofy)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
 * [LightNet: Bringing pjreddie's DarkNet out of the shadows](https://github.com/explosion/lightnet)
-* [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in <95 lines](https://github.com/vpostman/logcoin)
+* [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in \<95 lines](https://github.com/vpostman/logcoin)
 * [logpy - Logic Programming in Python](https://github.com/logpy/logpy)
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
 * Lomond
@@ -1916,6 +1916,7 @@ Python
 * [Numba](http://numba.pydata.org/)
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
   * [numba - 성능 업!](http://pythonkim.tistory.com/95)
+  * [Numba - Numpy Aware Dynamic Python Compiler Using LLVM](https://www.techleer.com/articles/539-numba-numpy-aware-dynamic-python-compiler-using-llvm/)
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)

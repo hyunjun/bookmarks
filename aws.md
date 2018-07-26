@@ -73,6 +73,7 @@ AWS
   * [1. DB Connection Pool](http://jojoldu.tistory.com/318)
   * [2. 커널 파라미터 튜닝](http://jojoldu.tistory.com/319)
   * [3. Nginx 튜닝](http://jojoldu.tistory.com/322)
+  * [4. 기타](http://jojoldu.tistory.com/323)
 * [Deploying a production Node/Express Mongo App to AWS — A Reflection](https://medium.freecodecamp.org/deploying-a-production-node-express-mongo-app-to-aws-a-reflection-8982894289c6)
 * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
