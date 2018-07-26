@@ -467,6 +467,7 @@ Docker
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
 * [Kubernetes에서 Windows Application 호스팅하기](https://www.slideshare.net/rkttu/kubernetes-windows-application)
 * [Convergence to Kubernetes](https://medium.com/@pingles/convergence-to-kubernetes-137ffa7ea2bc)
+* [KUBERNETES IS NOW AVAILABLE IN DOCKER DESKTOP STABLE CHANNEL](https://blog.docker.com/2018/07/kubernetes-is-now-available-in-docker-desktop-stable-channel/)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
