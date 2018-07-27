@@ -389,6 +389,7 @@ Python
   * [Get selected subcommand with argparse](https://stackoverflow.com/questions/4575747/get-selected-subcommand-with-argparse) `set_defaults`를 사용해 어떤 sub command를 사용한지 구분
 * argument
   * [Keyword argument confusion in Python](https://medium.com/@boxed/keyword-argument-confusion-in-python-59105c5a1159)
+  * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
 * ast
@@ -517,6 +518,7 @@ Python
     * [print unicode character in window](https://hyunjun.github.io/python-window-unicode/)
     * `locale.setlocale(locale.LC_CTYPE, 'kor')` `UnicodeEncodeError: locale codec can't encode character '\ub...'`가 windows에서 발생하는 경우
     * [string & bytes](https://gist.github.com/hyunjun/fe981c11d07f41eed61c65b30ab56a0f)
+  * [Python unicode cheatsheet](https://www.pythonsheets.com/notes/python-unicode.html) encode decode ord normalize
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
   * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
   * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
@@ -1101,6 +1103,14 @@ Python
 * [시나브로 Django 발표](https://www.slideshare.net/ssuseraaed82/django-73419113)
 * [Category: start-with-django-webframework](http://blog.hannal.com/category/start-with-django-webframework/)
 * [Using Gabbi and Hypothesis to Test Django APIs](http://wildfish.com/blog/2015/10/01/using-gabbi-and-hypothesis-test-django-apis/)
+* [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
+* [테스트 초보의 테스트 삽질기 with django](http://blog.leop0ld.org/posts/newbie-tests-view-in-django/)
+* [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
+* [테스트 초보의 테스트 삽질기 with Django](https://leop0ld.github.io/django/2017/04/12/newbie-tests-view-in-django.html)
+* [한종원: Django API Server Unit Test and Remote Debugging](https://www.youtube.com/watch?v=Tduj9BxNqBA)
+  * [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
+* [Model Mommy: Smart fixtures for better tests](http://model-mommy.readthedocs.io)
+* [Using Mocks to Test External Dependencies or Reduce Duplication](https://www.obeythetestinggoat.com/book/chapter_mocking.html)
 * [Deploying a Django App with No Downtime](https://medium.com/@healthchecks/deploying-a-django-app-with-no-downtime-f4e02738ab06)
 * [Django, 저는 이렇게 씁니다](http://www.slideshare.net/perhapsspy/django-42665652)
 * [Python Web Development: Understanding Django for Beginners](https://www.youtube.com/watch?v=zTNA0MtZwso)
@@ -1122,8 +1132,6 @@ Python
   * [유치원알리미 사이트 크롤링](https://www.youtube.com/watch?v=Nd8i7hzjPGs)
   * [1장, 2장 - 리뷰 및 Q&A](https://www.youtube.com/watch?v=93nx2d1yogY)
   * [파이썬 웹 프로그래밍, 실전편 - 리뷰 및 Q&A](https://www.youtube.com/playlist?list=PLlZah3kmaYg1jlDmCThBibB1E2VubLOn-)
-* [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
-* [테스트 초보의 테스트 삽질기 with django](http://blog.leop0ld.org/posts/newbie-tests-view-in-django/)
 * [Django Web Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeA05ZouE4OzDYLHY-XH-Nd)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
 * [Create a Django API in Under 20 Minutes](https://codeburst.io/create-a-django-api-in-under-20-minutes-2a082a60f6f3)
@@ -1166,12 +1174,10 @@ Python
 * [Django initial data | fixture 또는 RunPython 이용하기](https://cjh5414.github.io/django-fixture-runpython/)
 * [Django에서 fixture사용하기](https://twpower.github.io/django/2017/02/22/20(Django%EC%97%90%EC%84%9C-fixture%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0).html)
 * [Djangoでfixtureを使う](https://qiita.com/zakuro9715/items/f650c087e82c01ed8366)
-* [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
 * [modern-django - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017](https://github.com/djstein/modern-django)
 * [테스트 코드의 여러가지 유형](https://steemit.com/programming/@agile/6tx4g7)
 * [Django 나만의 Command 만들어보기](https://leop0ld.github.io/django/2017/03/23/make-django-custom-command.html)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
-* [테스트 초보의 테스트 삽질기 with Django](https://leop0ld.github.io/django/2017/04/12/newbie-tests-view-in-django.html)
 * [Learn Django](https://nomade.kr/vod/)
 * [Mistakes I Made Writing a Django App (and How I Fixed Them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 * [Handling webhooks using Django and ngrok](https://hackernoon.com/handling-webhooks-using-django-and-ngrok-b7ff27a6fd47)
@@ -1191,8 +1197,6 @@ Python
   * [#02: UnitTest 이용해 기능 테스트 하기](https://beomi.github.io/2016/12/27/Django-TDD-Study-02-Using-UnitTest/)
 * **[Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai)**
 * [Django form 폼나게 쓰기](https://www.slideshare.net/SeanKang19/django-form-78716437)
-* [한종원: Django API Server Unit Test and Remote Debugging](https://www.youtube.com/watch?v=Tduj9BxNqBA)
-  * [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
 * [coding-night-live - a Web-Based Communication Application for codelabs](https://github.com/dduk-ddak/coding-night-live)
 * [장고 외부에서 Form, Serializer 활용하기](https://gist.github.com/allieus/fbd054fcc86d0509712c244d6206e57d) - request validation 용도로 사용 가능
 * [Django - 서드 파티 패키지](https://wayhome25.github.io/django/2017/10/06/tsd-21-django-package/)
@@ -1211,7 +1215,6 @@ Python
 * [장고 쿼리셋 합치기](https://wayhome25.github.io/django/2017/11/26/merge-queryset/)
 * [Django 2.0 릴리스와 주요 변경 사항](http://raccoonyy.github.io/django-2-0-release-note-summary/)
 * [update_fields - 어떤 필드를 저장할지 지정하기](https://wayhome25.github.io/django/2017/12/31/specifying-which-fields-to-dave/)
-* [Model Mommy: Smart fixtures for better tests](http://model-mommy.readthedocs.io)
 * [Django에서 비밀 값(secrets) 관리하기](https://lhy.kr/django-secrets)
 * [정적 파일을 기본값으로 갖는 ImageField구현](https://lhy.kr/django-default-static-image-field)
 * [Dynamically import django settings for multiple environment such as local, dev, beta, production](http://blog.coffeeselo.com/django-settings-for-multiple-environments)
@@ -2197,6 +2200,7 @@ Python
 * **[Sorted Containers](http://www.grantjenks.com/docs/sortedcontainers/)** sorted collections type
 * sphinx
   * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
+* [spidermonkey - Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation](https://github.com/davisp/python-spidermonkey)
 * SQLAlchemy
   * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
   * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)

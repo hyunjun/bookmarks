@@ -699,6 +699,7 @@
 * [Investigation of Dynamic Allocation in Spark](http://jerryshao.me/architecture/2015/08/22/spark-dynamic-allocation-investigation/)
 * [Spark Cluster Settings On Yarn : Spark 1.4.1 + Hadoop 2.7.1](http://hoondongkim.blogspot.com/2015/08/spark-cluster-settings-on-yarn-spark.html)
 * [Spark logging configuration in YARN](https://medium.com/@iacomini.riccardo/spark-logging-configuration-in-yarn-faf5ba5fdb01)
+* [Understanding Apache Spark on YARN](http://sujithjay.com/2018/07/24/Understanding-Apache-Spark-on-YARN/)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)

@@ -729,6 +729,7 @@ Machine Learning
 * OpenInfra Days Korea 2018
   * [Day 1 - T4-1: CloudEvents 소개 - 상호 운용 가능성을 극대화한 이벤트 데이터를 정의하는 새로운 포맷](https://www.youtube.com/watch?v=h2_ZNTXwlVc)
   * [Day 2 E4-1: "핸즈온 워크샵: 서버리스가 컨테이너를 만났을 때"](https://www.youtube.com/watch?v=OfMF46icSWE)
+* [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

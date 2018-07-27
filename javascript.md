@@ -589,6 +589,7 @@ Javascript
 * [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
   * [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018/)
 * [11 Javascript Utility Libraries You Should Know In 2018](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
+* [10 JavaScript Animation Libraries to Follow in 2018](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)

@@ -498,6 +498,10 @@ Linux
 * [CentOS7 리눅스 한글 입력기 설정](http://sunyzero.tistory.com/253)
 * [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
 * yum
+  * `yum info <package>`
+    * [`yumdb info <package>`](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information)
+  * `yum list available <package>`
+  * `yum update <package>`
   * proxy
     * [(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)
     * `proxy=http://x.y.z.w:port`

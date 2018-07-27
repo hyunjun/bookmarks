@@ -79,6 +79,7 @@ SQL
 * [최소한의 다운타임으로 아마존 RDS Aurora DB로 이전하기](http://blog.sendbird.com/ko/%EC%B5%9C%EC%86%8C%ED%95%9C%EC%9D%98-%EB%8B%A4%EC%9A%B4%ED%83%80%EC%9E%84%EC%9C%BC%EB%A1%9C-%EC%95%84%EB%A7%88%EC%A1%B4-rds-aurora-db%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0/)
 * [MySQL에서 RDS(Aurora) 로 이관하기](https://blog.stibee.com/mysql%EC%97%90%EC%84%9C-rds-aurora-%EB%A1%9C-%EC%9D%B4%EA%B4%80%ED%95%98%EA%B8%B0-227db1da8fd8)
 * [Amazon Aurora 내부 들여다보기 (1) – 쿼럼 및 상관 오류 해결 방법](https://aws.amazon.com/ko/blogs/korea/amazon-aurora-under-the-hood-quorum-and-correlated-failure)
+* [20180726 AWS KRUG - RDS Aurora에 40억건 데이터 입력하기](https://www.slideshare.net/addnull/20180726-aws-krug-rds-aurora-40-107532095)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)

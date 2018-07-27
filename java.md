@@ -536,6 +536,7 @@ Java
   * [SpringBoot & AWS S3 연동하기](http://jojoldu.tistory.com/300)
   * [스프링 부트와 카오스 몽키](http://blog.younjinjeong.io/post/chaosmonkey-for-spring-boot/)
   * [@SpyBean @MockBean 의도적으로 사용하지 않기](http://jojoldu.tistory.com/320)
+  * [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

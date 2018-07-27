@@ -865,6 +865,7 @@ NLP
 * [한글 데이터 머신러닝 및 word2vec을 이용한 유사도 분석](https://www.nextobe.com/single-post/2017/06/28/%ED%95%9C%EA%B8%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%B0%8F-word2vec%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9C%A0%EC%82%AC%EB%8F%84-%EB%B6%84%EC%84%9D)
 * [EUCLIDEAN DISTANCE FOR FINDING SIMILARITY](https://mlforanalytics.com/2018/04/01/euclidean-distance-for-finding-similarity/)
 * [PEARSON CORRELATION SCORE](https://mlforanalytics.com/2018/04/03/pearson-correlation-score/)
+* [AWS 람다(Lambda)로 실시간 추천하기 – 로켓펀치의 전문기술 정보](https://blog.rocketpunch.com/2018/07/26/specialty-recommendation/)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)

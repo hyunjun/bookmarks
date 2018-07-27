@@ -156,7 +156,7 @@ Algorithm
 * [Let’s simplify algorithm complexities!](https://medium.freecodecamp.org/lets-simplify-algorithm-complexities-25e75f37d03f)
 
 ## Time Complexity
-* 1/2 + 1/3 + ... + 1/n <= ln(n) + 1이므로 O(log N)
+* `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
 * [The Ultimate Beginners Guide To Analysis of Algorithm](https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5)
 
 ## Space Complexity
@@ -174,7 +174,7 @@ Algorithm
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 * [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
 * **[Byzantine Failure - 블록체인 개발이 어려운 이유](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)**
-* [Instructors' Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
+* [Instructors Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 * [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
 * [Raft - leader election](http://blog.seulgi.kim/2017/12/raft-leader-election.html)
 * [Raft - log replication](http://blog.seulgi.kim/2017/12/raft-log-replication.html)
@@ -223,6 +223,7 @@ Algorithm
 * [15 Real-World Uses of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/)
 * [고2 때 하스스톤으로 진화론 연구했던 썰](http://ppss.kr/archives/53276)
 * [얇고 넓은 지식을 위한 글 - 유전알고리즘](http://redtea.kr/?b=3&n=966)
+* [Genetic Algorithm Implementation in Python](https://www.kdnuggets.com/2018/07/genetic-algorithm-implementation-python.html)
 
 # Graph
 * [2016 그래프이론](https://www.youtube.com/playlist?list=PL52K_8WQO5oXTfEr3nVK3HllrB71hZ-AF)
@@ -276,8 +277,8 @@ Algorithm
 * [Hashing@HackerEarth](https://www.hackerearth.com/notes/hashing/)
 * [Trie vs Hash Table Deathmatch!](http://loup-vaillant.fr/projects/string-interning/benchmark)
 * [Counting hash collisions with the birthday paradox](http://matt.might.net/articles/counting-hash-collisions/)
-* [해싱 - [1] 해시의 정의와 목적](http://codingmonster.net/archives/13412)
-* [해싱 - [2] 해시와 탐색](http://codingmonster.net/archives/13426)
+* [해싱 - 1 해시의 정의와 목적](http://codingmonster.net/archives/13412)
+* [해싱 - 2 해시와 탐색](http://codingmonster.net/archives/13426)
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 * [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 
@@ -286,7 +287,7 @@ Algorithm
 * [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [ketama - C library for consistent hashing, and langauge bindings](https://github.com/RJ/ketama)
-  * [How We Scaled Our Cache and Got a Good Night's Sleep](http://engineering.grab.com/how-we-scaled-our-cache-and-got-a-good-nights-sleep)
+  * [How We Scaled Our Cache and Got a Good Nights Sleep](http://engineering.grab.com/how-we-scaled-our-cache-and-got-a-good-nights-sleep)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Consistent Hashing: Algorithmic Tradeoffs](https://medium.com/@dgryski/consistent-hashing-algorithmic-tradeoffs-ef6b8e2fcae8)
 
@@ -311,7 +312,7 @@ Algorithm
 * [StrongLikeBull - a Lesson in Recursion](https://techblog.livingsocial.com/blog/2015/06/11/stronglikebull-a-lesson-in-recursion/)
 * [Recursion, Tail Calls and Trampolines](http://www.datchley.name/recursion-tail-calls-and-trampolines/)
 * [자바 프로그래머에게 재귀는 왜 어려운가?](http://blog.fupfin.com/?p=150)
-* [Isn't tail recursion very similar to the concept of looping? What is the need for tail recursion when you can achieve the same using loops?](https://www.quora.com/Isnt-tail-recursion-very-similar-to-the-concept-of-looping-What-is-the-need-for-tail-recursion-when-you-can-achieve-the-same-using-loops)
+* [Isnt tail recursion very similar to the concept of looping? What is the need for tail recursion when you can achieve the same using loops?](https://www.quora.com/Isnt-tail-recursion-very-similar-to-the-concept-of-looping-What-is-the-need-for-tail-recursion-when-you-can-achieve-the-same-using-loops)
 * [How Recursion Works — explained with flowcharts and a video](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9)
 
 # Search
