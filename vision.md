@@ -166,6 +166,12 @@ Vision
   * [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
   * [Soccer Ball Detection using YOLOv2 (Darkflow)](https://github.com/deep-diver/Soccer-Ball-Detection-YOLOv2)
   * [YOLOv2 to detect your own objects using Darkflow](https://towardsdatascience.com/yolov2-to-detect-your-own-objects-soccer-ball-using-darkflow-a4f98d5ce5bf)
+  * How to implement a YOLO (v3) object detector from scratch in PyTorch
+    * [Part 1: Understanding How YOLO works](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
+    * [Part 2: Creating the layers of the network architecture](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/)
+    * [Part 3: Implementing the the forward pass of the network](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-3/)
+    * [Part 4: Objectness Confidence Thresholding and Non-maximum Suppression](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-4/)
+    * [Part 5 : Designing the input and the output pipelines](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-5/)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)

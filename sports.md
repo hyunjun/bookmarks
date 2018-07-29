@@ -78,6 +78,7 @@ Sports
 * [Introduction to Empirical Bayes - Example from Baseball Statistics](https://gumroad.com/l/empirical-bayes)
 * [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)
 * [These days in baseball, every batter is trying to find an angle](https://www.washingtonpost.com/graphics/sports/mlb-launch-angles-story/)
+* [NC 다이노스 데이터 애널리스트 인터뷰 바로가기](https://avengerschool.com/courses/sports1)
 
 # Basketball
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)
@@ -92,6 +93,7 @@ Sports
   * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 * [한국인 최초 NBA 데이터분석가 김재엽 “지금은 레이커스와 연애 중”](http://m.sports.naver.com/basketball/news/read.nhn?oid=430&aid=0000000564)
 * [한국 최초의 NBA 데이터 애널리스트 김재엽 인터뷰](https://ppss.kr/archives/170156)
+* [NBA 한국인 최초 데이터 전력분석관 인터뷰 바로가기](https://avengerschool.com/courses/sports2)
 * [샌안토니오는 어떻게 20년간 강팀일 수 있을까](https://brunch.co.kr/@lunarshore/277)
 * [닉 칼리슨의 “NBA에서 살아남는 방법](https://44fullcourtpress.wordpress.com/2012/12/11/%EB%B2%88%EC%97%AD-%EB%8B%89-%EC%B9%BC%EB%A6%AC%EC%8A%A8%EC%9D%98-nba%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
@@ -106,3 +108,4 @@ Sports
 * [축구 뒤에 숨겨진 정치](http://ppss.kr/archives/55381)
 * [빌드업의 원리 (3)](http://blog.naver.com/manutd92/220648589455)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
+* [영국 프리미어 리그 웨스트햄 유나이티드 유스  전력분석관 인터뷰 바로가기](https://avengerschool.com/courses/sports3)

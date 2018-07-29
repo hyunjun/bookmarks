@@ -1361,6 +1361,7 @@ Javascript
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
 * [super-simple-react-starter -  A simple react project starter kit with best practices](https://github.com/myungjaeyu/super-simple-react-starter)
 * [React에 Component만들기](http://blog.myeongsku.com/17)
+* [React.js MERN CRUD Example](https://github.com/edoko/react-mern-crud-example)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

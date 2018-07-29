@@ -1238,6 +1238,7 @@ Python
 * [Summernote - a simple WYSIWYG editor](https://github.com/summernote/django-summernote)
 * [Django REST framework - a powerful and flexible toolkit for building Web APIs](http://www.django-rest-framework.org/)
 * [Taking Django Async](https://www.youtube.com/watch?v=786Lq_L0Nbw)
+* [Intro to Django's Annotate](https://www.youtube.com/watch?v=KbwmdKl-QbI)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -2095,7 +2096,9 @@ Python
 * [PyTree - a python package, which you can use to generate trees, realistic or fractal one. However the whole pricipale is based on fractals](https://github.com/PixelwarStudio/PyTree)
 * [pyvim - Pure Python Vim clone](https://github.com/jonathanslenders/pyvim)
 * [Pyxley: Python Powered Dashboards](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
-* [PyV8 is a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
+* [PyV8 - a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
+  * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
+  * [Python, PyV8로 javascript 실행하기](https://m.blog.naver.com/PostView.nhn?blogId=dudwo567890&logNo=220895234080&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)

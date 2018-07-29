@@ -786,6 +786,10 @@ Machine Learning
   * [Part One Putting the machine learning pieces together](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
   * [Part Two Model Selection, Hyperparameter Tuning, and Evaluation](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
   * [Part Three Interpreting a machine learning model and presenting results](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-three-388834e8804b)
+* [파이썬으로 머신러닝 배우기 (1/3)](https://www.youtube.com/watch?v=4iNwn_dMies)
+* [파이썬으로 머신러닝 배우기 (2/3)](https://www.youtube.com/watch?v=6ktX-PoMj5U)
+* [파이썬으로 머신러닝 배우기 (3/3)](https://www.youtube.com/watch?v=BUmAlJUOmKo)
+* [TEAMLAB X Inflearn | 파이썬 머신러닝 입문 강좌](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

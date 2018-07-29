@@ -27,7 +27,7 @@ C#
 * [ehpub.co.kr/C#](http://ehpub.co.kr/c-1-c-%EC%86%8C%EA%B0%9C/)
 * [C# 한방에 배우기 (한국어Korean CC) C# 강좌](https://www.youtube.com/watch?v=XJdPcjs8cAw)
 * [어피치, ‘C# 변환’ 어린이 블록코딩 도구 공개](https://www.bloter.net/archives/260532)
-* [(닷넷C#기초교육강좌)C#선택적인수, 명명된 인수(메소드, 생성자, 델리게이트, 인덱서)_닷넷추천교육,추천C#,자마린,Xamarin학원](http://www.slideshare.net/topcredu/cc-cxamarin)
+* [(닷넷C#기초교육강좌)C#선택적인수, 명명된 인수(메소드, 생성자, 델리게이트, 인덱서) 닷넷추천교육,추천C#,자마린,Xamarin학원](http://www.slideshare.net/topcredu/cc-cxamarin)
 * [Using Conditional Breakpoints to Filter Exceptions During Debugging](https://dzone.com/articles/using-conditional-breakpoints-to-filter-exceptions)
 * [예제로 배우는 C# 프로그래밍](http://www.csharpstudy.com/)
 * [웹브라우저를 만들기! 어렵지 않아요~](http://totaes2.blog.me/220731569249)
@@ -43,6 +43,8 @@ C#
 * [C# 6.0: An Introduction](https://booker.codes/csharp-6-an-introduction/)
 
 # Library
+* Blazor
+  * [Blazor와 C#으로 풀스택 웹 개발하기](https://medium.com/@rkttu/blazor%EC%99%80-c-%EC%9C%BC%EB%A1%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3cda61c2217)
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
 * [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)

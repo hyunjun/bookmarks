@@ -954,8 +954,9 @@ Programming Books
 * **[파이썬답게 코딩하기](http://bjpublic.tistory.com/302)**
   * 한라 005.133심14ㅍ
   * multithreading, multiprocessing, async
-* (NOT YET) 파이썬 Jupyter Notebook 실전 입문
-  * 2018.06 탐라
+* 파이썬 Jupyter Notebook 실전 입문
+  * 2018.06
+  * 탐라 문005.133이823ㅍ
   * [서평 "파이썬 Jupyter Notebook 실전입문"을 읽고](http://gregor77.tistory.com/entry/%EC%84%9C%ED%8F%89-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Jupyter-Notebook-%EC%8B%A4%EC%A0%84%EC%9E%85%EB%AC%B8%EC%9D%84-%EC%9D%BD%EA%B3%A0)
 * **[우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)**
   * 한라 005.133누194ㅇ

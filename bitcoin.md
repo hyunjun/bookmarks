@@ -99,6 +99,7 @@ Bitcoin
 * [Safety & Liveness - FLP impossibility으로 보는 블록체인](https://blog.seulgi.kim/2018/05/safety-liveness-in-blockchain.html)
 * [Skewed Merkle Tree](https://blog.seulgi.kim/2018/06/skewed-merkle-tree.html)
 * [Java 코드로 이해하는 블록체인(Blockchain)](https://www.popit.kr/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain)
+* [토큰 이코노미에 대하여](https://brunch.co.kr/@jeffpaik/53)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

@@ -309,6 +309,7 @@
   * 예상대로, JVM 언어를 사용하면 성능 향상
 * [Exploratory Data Analysis in Spark with Jupyter](http://blog.madhukaraphatak.com/exploratory-data-analysis-in-spark-with-jupyter/)
 * [아파치 스팍 관련 문제점 이야기 + 자바로 게으른 초기화 (2018-07-06) 케빈TV Live](https://www.youtube.com/watch?v=YTF3CUzWDo8)
+* [Working with Nested JSON Using Spark | Parsing Nested JSON File in Spark](https://www.youtube.com/watch?v=n3owBqa9ATQ)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
