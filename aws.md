@@ -78,6 +78,7 @@ AWS
 * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
+* [AWS VPC 피어링 - 서로 다른 VPC 간에 통신하기](https://www.44bits.io/ko/post/communication_between_vpcs__aws_vpc)
 * [MFA 코드와 AWS CLI를 이용해 로그인하기](https://andromedarabbit.net/mfa-%EC%BD%94%EB%93%9C%EC%99%80-aws-cli%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0/)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 * [회사 화분에 주기적으로 물주기 (AWS IoT 버튼 활용 사례)](https://medium.com/n42-corp/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)

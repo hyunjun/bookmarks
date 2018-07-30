@@ -234,6 +234,7 @@ NLP
 * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
 * [Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)
 * [Feature-wise transformations - A simple and surprisingly effective family of conditioning mechanisms](https://distill.pub/2018/feature-wise-transformations/)
+* [RNN과 Beam search](https://ratsgo.github.io/deep%20learning/2017/06/26/beamsearch/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -849,6 +850,7 @@ NLP
 * [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)
 * [Most frequent k characters](https://en.wikipedia.org/wiki/Most_frequent_k_characters)
 * [Mutual information](https://en.wikipedia.org/wiki/Mutual_information)
+  * [Pointwise mutual information](https://en.wikipedia.org/wiki/Pointwise_mutual_information)
 * [Similarity measure](https://en.wikipedia.org/wiki/Similarity_measure)
 * [Simple matching coefficient](https://en.wikipedia.org/wiki/Simple_matching_coefficient)
 * [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)
@@ -1082,6 +1084,7 @@ NLP
 * [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
 * [Word2vec로 사용할 수 있는 벡터 모델들](http://www.neuromancer.kr/t/word2vec/481)
 * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
+* [word embedding 관련 정리](http://nohhj.blogspot.com/2015/08/word-embedding.html)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

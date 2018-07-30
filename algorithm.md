@@ -302,6 +302,7 @@ Algorithm
 * [‘쉽게 설명한’ 구글의 페이지 랭크 알고리즘](https://sungmooncho.com/2012/08/26/pagerank/)
 * [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
 * [검색은 어떻게 동작하나요](http://docs.likejazz.com/how-search-works/)
+* [Worked PageRank Example](http://mathscinotes.com/2012/01/worked-pagerank-example/)
 
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)

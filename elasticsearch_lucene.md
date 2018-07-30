@@ -323,6 +323,7 @@ ElasticSearch - Lucene
   * [Using Kibana and Timelion to analyze earthquake data](https://www.youtube.com/watch?v=cfTehOJScL4)
 * [region map에서 한국 활성화하기](http://higee.io/221265732278)
 * [Sankey Visualization with Vega in Kibana 6.2](https://www.elastic.co/blog/sankey-visualization-with-vega-in-kibana)
+* [데이터 후처리(?)를 위한 scripted field](https://www.popit.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9B%84%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-scripted-field/)
 
 # Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)

@@ -169,7 +169,6 @@ Programming
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
 * [DNA seen through the eyes of a coder](https://ds9a.nl/amazing-dna/)
-* [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
 * [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore/answer/Ken-Gregg?share=79e441a7)
   * [더 이상 초보 개발자가 아니라는 사실을 언제 알게 되나요?](http://jhrogue.blogspot.kr/2018/03/b.html)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
@@ -185,6 +184,11 @@ Programming
 * [Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=eEBOvqMfPoI)
 * [번역 나는 어떻게 더 나은 프로그래머가 되었는가](https://adhrinae.github.io/posts/how-i-became-a-better-programmer-kr/)
 * [스타트업에서 전화응대 고객센터 간단히 구축하기](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%A0%84%ED%99%94%EC%9D%91%EB%8C%80-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0-%EA%B0%84%EB%8B%A8%ED%9E%88-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-5f7a6919130d)
+* 훌륭한 개발 문화의 이면
+  * [(1) – 코딩 테스트 인터뷰 제대로 하기](http://channy.creation.net/blog/1104)
+  * [(3) – 다른 팀 소스 코드를 볼 수 있는가?](http://channy.creation.net/blog/1110)
+  * [(4) – 사내 라이브러리를 잘 관리하려면?](http://channy.creation.net/blog/1183)
+  * [(5) – 소통 비용의 절약: 서로 API로 말하자](http://channy.creation.net/blog/1199)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -304,6 +308,18 @@ Programming
 * [Service Mesh](http://bcho.tistory.com/1260)
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+* [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
+* Cache & CDN
+  * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
+  * [Improve API Performance with Caching](https://developer.akamai.com/blog/2018/05/31/improve-api-performance-caching/)
+  * [스트리밍 데이터 서비스 바람 타고 ‘뜨는 CDN’](http://www.zdnet.co.kr/news/news_view.asp?artice_id=00000010033168)
+  * [How is CDN different from caching?](https://www.quora.com/How-is-CDN-different-from-caching#)
+  * [What is the difference between CDN and Cache server?](https://www.linkedin.com/pulse/what-difference-between-cdn-cache-server-larry-king/)
+  * [Is it better to use Cache or CDN?](https://stackoverflow.com/questions/12916430/is-it-better-to-use-cache-or-cdn)
+  * What You Need to Know About Caching
+    * [Part 1](https://developer.akamai.com/blog/2017/03/28/need-know-caching-part-1/)
+    * [Part 2](https://developer.akamai.com/blog/2017/04/06/need-know-caching-part-2/)
+    * [Part 3](https://developer.akamai.com/blog/2017/04/14/need-know-caching-part-3/)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -656,6 +672,7 @@ Programming
 * [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
 * [쾌적한 코딩을 위한, 코딩용 폰트](http://ppss.kr/archives/66633)
 * [11 Best Programming Fonts](https://itnext.io/11-best-programming-fonts-724283a9ed57)
+* [What are the best programming fonts?](https://www.slant.co/topics/67/~best-programming-fonts)
 * Ligatures 지원 폰트
   * [Shellscript to install fonts for macOS and Linux](https://gist.github.com/Kevin-Lee/328e9993d6b3ad250636023fb2c7827f)
   * [FiraCode - Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
@@ -850,6 +867,7 @@ Programming
   * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/07/b-7-1.html)
   * [7월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/07/b-7-2.html)
   * [7월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/07/b-7-3.html)
+  * [7월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/07/b-7-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1047,6 +1065,7 @@ Programming
 * [2. Chai - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-2-chai/)
 * [3. Chai-http 사용하여 REST API Test하기](https://jaeyeophan.github.io/2017/04/23/BDD-3-chai-http/)
 * [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
+* [버그는 막을 수 있을까](https://medium.com/@erish/%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0-%EB%B2%84%EA%B7%B8%EB%8A%94-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-1392e6bba933)
 * Spock
   * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
   * [Spock으로 테스트코드를 짜보자](http://woowabros.github.io/study/2018/03/01/spock-test.html)

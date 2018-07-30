@@ -2300,7 +2300,8 @@ Python
   * [검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
   * [Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
 * [wrapt - A Python module for decorators, wrappers and monkey patching](https://wrapt.readthedocs.io)
-* [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in)
+* [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in) terminal에서 curl로 날씨 확인
+  * [wttr.in/제주](https://wttr.in/%EC%A0%9C%EC%A3%BC)
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
 * [XlsxWriter - Creating Excel files with Python and XlsxWriter](http://xlsxwriter.readthedocs.io/)

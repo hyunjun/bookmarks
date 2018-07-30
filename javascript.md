@@ -32,6 +32,7 @@ Javascript
 * [js_core_curri](https://github.com/newpouy/js_core_curri)
 * [js-must-watch - Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [tryhelloworld.co.kr/courses/자바스크립트-입문](https://tryhelloworld.co.kr/courses/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8)
+* [try! helloworld 자바스크립트](https://thebook.io/006894/)
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [OK, Now I'll learn How To Program In JavaScript!](https://medium.com/@fagnerbrack/ok-now-ill-learn-how-to-program-in-javascript-2c7847414830)
 * [Want to learn JavaScript? Here’s a free 24-part course to get you started](https://medium.freecodecamp.org/want-to-learn-javascript-heres-a-free-24-part-course-to-get-you-started-e7777baf86fb)
@@ -1094,6 +1095,7 @@ Javascript
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
 * [Express.js](http://expressjs.com/ko/)
   * [Express](https://opentutorials.org/course/3370)
+  * [세션과 인증](https://opentutorials.org/course/3400)
   * [ExpressJs Error](https://mayajuni.github.io/2016/07/04/expressJs-error/)
   * [express-status-monitor - Realtime Monitoring solution for Express.js apps, inspired by status.github.com http://rwilinski.me](https://github.com/RafalWilinski/express-status-monitor)
   * [Express + Mongodb 프로젝트의 개발을 위한 스타터](https://github.com/mayajuni/express-typescript-mongo-seed)
@@ -1130,7 +1132,7 @@ Javascript
 * [node-cron을 사용하여 node.js에서 특정 작업에 스케줄 설정하기](https://blog.l0gic.me/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-node-js%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9E%91%EC%97%85%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/)
 * [node-rdpjs - Remote Desktop Protocol for Node.js](https://github.com/citronneur/node-rdpjs)
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
-* [npm.click/](http://npm.click/)
+* [npm.click](http://npm.click/)
 * [N|Solid. Enterprise Node. Finally](https://nodesource.com/blog/nsolid-enterprise-node-finally)
 * [NSP](http://nsp.js.org)
   * [RESTful](https://github.com/Hanul/nsp-sample-restful)
@@ -1408,6 +1410,7 @@ Javascript
 * [Goalplan 앱개발 히스토리](https://blog.naver.com/hidejj79/221256652881)
 * [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
 * [React Native 아키텍쳐에 대한 이해](https://github.com/nhnent/fe.javascript/wiki/April-9---April-13,-2018)
+* [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
