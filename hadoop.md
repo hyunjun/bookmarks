@@ -102,6 +102,7 @@ Hadoop
 * [Containerized Apache Spark on YARN in Apache Hadoop 3.1](https://ko.hortonworks.com/blog/containerized-apache-spark-yarn-apache-hadoop-3-1/)
   * Hadoop 3의 YARN에서 Spark를 실행하는 방법 설명
   * Docker를 사용하여 SparkR과 PySpark용 이미지를 빌드하고 Apache Zeppelin을 통해 엑세스하는 방법
+* [Clusters and workloads migration from Hadoop 2 to Hadoop 3](http://www.adaltas.com/en/2018/07/25/clusters-workloads-migration-hadoop-2-to-3/) Dataworks Summit’s 2018에서 Hortonworks 엔지니어들이 발표한 Hadoop2에서 Hadoop3으로 업그레이드하는 방법 요약
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

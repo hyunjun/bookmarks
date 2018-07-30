@@ -658,6 +658,7 @@ Programming
 * [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
 * [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
 * [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
+* [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
@@ -963,6 +964,7 @@ Programming
 * [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 * [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
 * **[Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)**
+* [How to Manage Streaming and Real time Big Data Performance](https://www.youtube.com/watch?v=R5lnMrAhPQA)
 
 ## Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
