@@ -1122,6 +1122,7 @@ Python
   * [장고걸스 2016 튜토리얼, Azure WebApp 배포](https://www.youtube.com/watch?v=EJgaZEXnMhk)
   * [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A)
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
+* [Add2paper printing system using Django-channels](https://www.slideshare.net/sinwoobang/add2paper-printing-system-using-djangochannels/sinwoobang/add2paper-printing-system-using-djangochannels)
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
 * [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 * [8퍼센트 성능 개선](http://sebatyler.github.io/2016/05/31/django-performance.html)

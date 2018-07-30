@@ -126,6 +126,7 @@ Algorithm
 * **[qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)** 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
 * **[알고리즘 학습에 대한 조언](https://www.haruair.com/blog/4546)**
+* [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -230,6 +231,7 @@ Algorithm
 * [How to think in graphs: an illustrative introduction to Graph Theory and its applications](https://medium.freecodecamp.org/i-dont-understand-graph-theory-1c96572a1401)
 * [Exact Maximum Clique for Large or Massive Real Graphs](http://kukuruku.co/hub/algorithms/exact-maximum-clique-for-large-or-massive-real-graphs)
 * [Dijkstra - The Simple, Elegant Algorithm That Makes Google Maps Possible](http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible)
+* [다익스트라 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/26/dtra/)
 * [11.3 다익스트라 알고리즘](http://ehclub.co.kr/1581)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
@@ -241,6 +243,7 @@ Algorithm
 * [How I Visualized Sorting Algorithms and Brought Them to Life with Sound](https://medium.freecodecamp.org/how-i-visualized-the-sorting-algorithms-and-brought-them-to-life-with-sound-ce7c5c6cb6ef)
 * [The 280-Year-Old Algorithm Inside Google Trips](https://research.googleblog.com/2016/09/the-280-year-old-algorithm-inside.html)
 * [BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
+* [그래프 깊이 우선 탐색](https://ratsgo.github.io/data%20structure&algorithm/2017/11/20/DFS/)
 * [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
 * Centrality
   * PageRank
@@ -399,17 +402,26 @@ Algorithm
 * [The BK-Tree – A Data Structure for Spell Checking](https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/)
 * [Everything you need to know about tree data structures](https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c)
 * [Algorithms Behind Modern Storage Systems - Different uses for read-optimized B-trees and write-optimized LSM-trees](https://queue.acm.org/detail.cfm?id=3220266)
+* [트리(tree)와 이진트리(binary tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/21/tree/)
+
+## AVL Tree
+* [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
 
 ## B Tree
 * [The Ubiquitous B-Tree](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
 
+## Binary Search Tree BST
+* [이진탐색트리(Binary Search Tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)
+
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
+* [힙 정렬(Heap Sort)](https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/)
 
 ## Red-Black Tree
 * [how red-black tree developed](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_rbtree.aspx)
 * [Red-Black Trees](https://www.youtube.com/watch?v=gDYn5TfcUVs)
 * [Red/Black Tree](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+* [RB tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/28/rbtree/)
 
 ## Suffix Automaton
 * [SUFFIX AUTOMATON by- saisumit](https://saisumit.wordpress.com/2016/01/26/suffix-automaton/)
