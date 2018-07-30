@@ -67,6 +67,7 @@ App
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Quip Desktop](https://quip.com/blog/desktop)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
+* [recpic.co.kr](http://recpic.co.kr/) 가계부 앱
 * RescueTime
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
@@ -343,6 +344,7 @@ App
 * [cactusformac.com](http://cactusformac.com/)
 * [Coffeefy: 스타벅스 와이파이 자동 접속 애플리케이션](https://taegon.kim/archives/5720)
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
+* [debit and credit](https://debitandcredit.app/) 가계부
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [The missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)

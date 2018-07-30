@@ -337,6 +337,7 @@ Apache
 		* 아브로는 비교적 컴팩트한 출력 데이터를 생성하는 고속 직렬화 프레임워크. 하지만 아브로 레코드를 읽으려면 데이터를 직렬화하는 데 사용한 스키마 필요
 		* 한 가지 옵션은 스키마를 레코드 자체와 함께 저장하고 전송. 이 방법은 스키마를 한 번만 저장했다가 다수의 레코드에 사용하는 경우 가능. 카프카 레코드마다 모두 스키마를 하나씩 저장하려면 스토리지 공간과 네트워크 활용도 면에서 중대한 오버헤드 추가
 		* 또 한 가지 옵션은 미리 합의한 식별자 스키마 매핑 세트를 정하여 스키마를 레코드 내에 존재하는 각각의 식별자로 참조
+* [Interview with Jay Kreps about Apache Kafka](https://notamonadtutorial.com/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

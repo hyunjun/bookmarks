@@ -558,6 +558,7 @@ NLP
 * [academictorrents.com](http://academictorrents.com/)
 * [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
+* [Autosub - Command-line utility for auto-generating subtitles for any video file](https://github.com/agermanidis/autosub)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [Daon 형태소 분석기](https://github.com/rasoio/daon)
@@ -1085,6 +1086,9 @@ NLP
 * [Word2vec로 사용할 수 있는 벡터 모델들](http://www.neuromancer.kr/t/word2vec/481)
 * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
 * [word embedding 관련 정리](http://nohhj.blogspot.com/2015/08/word-embedding.html)
+* [word2vec_cluster.py](https://github.com/gaetangate/word2vec-cluster/blob/master/word2vec_cluster.py)
+* [cluster_vectors.py](https://github.com/duhaime/cluster-semantic-vectors/blob/master/cluster_vectors.py)
+* [K Means Clustering Example with Word2Vec in Data Mining or Machine Learning](http://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
