@@ -410,6 +410,8 @@ Git
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
 * [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
+  * [Probot: Commands를 사용해서 GitHub 댓글로 봇 실행하기](https://blog.outsider.ne.kr/1391)
+  * [Probot에서 YAML 설정파일 사용하기](https://blog.outsider.ne.kr/1392)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)

@@ -96,6 +96,7 @@
 * [Visual Studio에서 CMake 사용하기](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-cmake-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Visual Studio 15.4 업데이트 후 CMake 사용 불가](https://surpreem.com/visual-studio-15-4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%9B%84-cmake-%EC%82%AC%EC%9A%A9-%EB%B6%88%EA%B0%80/)
 * [Favorite Visual Studio Code Extensions of 2017](https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f)
+* [Visual Studio 2017 + Entity Framework + MariaDB](http://bomdol.tistory.com/308)
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

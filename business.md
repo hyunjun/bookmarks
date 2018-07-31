@@ -174,6 +174,7 @@ Business
 * [전략 기획자의 책 2](https://brunch.co.kr/@lunarshore/293)
 * [전략 기획자의 책 3](https://brunch.co.kr/@lunarshore/294)
 * [전략 기획자의 책 4](https://brunch.co.kr/@lunarshore/295)
+* [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -277,6 +278,7 @@ Business
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
 * [FB101 피드백 개론](https://brunch.co.kr/@younghakjang/61)
 * [직무 설계: 성과를 내는 구조 만들기](https://brunch.co.kr/@younghakjang/64)
+* [잡 크래프팅: 일에서 의미 찾기](https://brunch.co.kr/@younghakjang/66)
 * [같이 의논하고 한 명이 결정한다](https://brunch.co.kr/@hyungsukkim/69)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
