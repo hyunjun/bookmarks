@@ -54,6 +54,7 @@ Deep Learning
 * [Deep Learning Book](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
 * [A “weird” introduction to Deep Learning](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
+* [Newbie’s guide to Deep Learning](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e)
 * [From Perceptron to Deep Neural Nets](https://becominghuman.ai/from-perceptron-to-deep-neural-nets-504b8ff616e)
 * [인공신경망, 퍼셉트론](https://www.youtube.com/playlist?list=PLaTc2c6yEwmpYKMDfj737S7a_KYC5J5Tq)
 * [Building a Deep Neural Net In Google Sheets](https://towardsdatascience.com/building-a-deep-neural-net-in-google-sheets-49cdaf466da0)
@@ -427,6 +428,7 @@ Deep Learning
 * [A Look at Popular Machine Learning Frameworks](http://redmonk.com/fryan/2016/06/06/a-look-at-popular-machine-learning-frameworks/) 프레임워크들의 깃허브와 스택오버플로에서의 관심도 차이
 * [Battle of the Deep Learning frameworks — Part I: 2017, even more frameworks and interfaces](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)
 * [데이터지능 E9 딥러닝 프레임워크 및 활용편](https://www.youtube.com/watch?v=eIkM-m1Go1k)
+* [Choosing a Deep Learning Framework in 2018: Tensorflow or Pytorch?](http://cv-tricks.com/deep-learning-2/tensorflow-or-pytorch/)
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
 * [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)
