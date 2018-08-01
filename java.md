@@ -175,6 +175,7 @@ Java
 * [ThreadLocal과 ThreadPool](https://tmondev.blog.me/221212500642)
 * [Java Thread States and Life Cycle](https://www.uml-diagrams.org/java-thread-uml-state-machine-diagram-example.html)
 * [Snippets About Concurrency](https://hackernoon.com/a-sad-story-about-concurrency-346990a9a3fe)
+* [스레드 안정성](https://astrod.github.io/book/2018/08/01/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%95%88%EC%A0%95%EC%84%B1/)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
@@ -230,6 +231,8 @@ Java
 * [mac os에서 intellij 완전 제거 / 백업 하기](http://blog.woniper.net/354)
 * [intellij SQL keyword 자동 uppercase](http://blog.woniper.net/360)
 * [IntelliJ & 안드로이드 스튜디오 기본 가이드 소개](http://jojoldu.tistory.com/321)
+* [IntelliJ 사용법](https://github.com/cheese10yun/IntelliJ)
+* [IntelliJ 사용팁](https://www.popit.kr/intellij-%EC%82%AC%EC%9A%A9%ED%8C%81/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -514,6 +517,7 @@ Java
     * [Spring Batch의 동작 코드 #Job 생성과 실행](http://blog.woniper.net/357)
     * [Spring Batch의 동작 코드 #Step 생성과 실행](http://blog.woniper.net/358)
     * [주소검색서버(woowahan-juso) 개발기(上)](http://woowabros.github.io/experience/2018/05/26/woowahan-juso.html)
+    * [1. Spring Batch 가이드 - 배치 어플리케이션이란?](http://jojoldu.tistory.com/324)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)

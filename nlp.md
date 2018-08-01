@@ -235,6 +235,9 @@ NLP
 * [Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)
 * [Feature-wise transformations - A simple and surprisingly effective family of conditioning mechanisms](https://distill.pub/2018/feature-wise-transformations/)
 * [RNN과 Beam search](https://ratsgo.github.io/deep%20learning/2017/06/26/beamsearch/)
+* [딥러닝을 이용한 자연어 처리](https://www.edwith.org/deepnlp)
+* [Unicode 2.0 에서 한글의 이해](https://spectrumdig.blogspot.com/2012/11/unicode-20.html)
+* [한글 유니코드 자소 분리](http://dream.ahboom.net/entry/%ED%95%9C%EA%B8%80-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%9E%90%EC%86%8C-%EB%B6%84%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -653,6 +656,8 @@ NLP
   * [Pycon2017 koreannlp](https://www.slideshare.net/kimhyunjoonglovit/pycon2017-koreannlp)
   * [customized KoNLPy](https://github.com/lovit/customized_konlpy)
   * [MAC OSX에서 konlpy 설치 시 ImportError: No module named 'jpype' 오류 해결](http://corazzon.github.io/Konlpy_JPype_install_struggle)
+* [korean - A library for Korean morphology](https://pythonhosted.org/korean/ko/)
+  * [gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2](https://gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
 * [NLP Architect - an open-source Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](http://nlp_architect.nervanasys.com/)
 * [NLTK](http://www.nltk.org)

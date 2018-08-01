@@ -32,6 +32,8 @@ Programming Books
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
 * (NOT YET) [일래스틱 스택 6 입문](http://book.daum.net/detail/book.do?bookid=BOK00035087432IN)
   * 2018.07 한라
+* (NOT YET) [프로그래밍 언어 도감](http://www.datanet.co.kr/news/articleView.html?idxno=124905)
+  * 2018.08 한라
 
 # Agile Scrum
 
@@ -75,6 +77,10 @@ Programming Books
 * (NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
   * 한라 005.133-피64ㅍ
 * (NOT YET) [알고리즘, 인생을 계산하다](https://m.blog.naver.com/hl4gnn/221228428136)
+* (NOT YET) [알고리즘 산책](http://book.daum.net/detail/book.do?bookid=KOR9791160504880)
+  * 한라 005.1-스884ㅇ
+* (NOT YET) [알고리즘 도감](http://jpub.tistory.com/760)
+  * 2018.08 한라
 
 # Amazon AWS
 
@@ -278,6 +284,8 @@ Programming Books
   * 한라 005.118-우27ㄹ
 * (NOT YET) 소셜 웹 마이닝 : 페이스북, 트위터, 링크드인 등의 소셜 미디어 데이터 분석하기
   * 한라 004.76-러54ㅅ
+* (NOT YET) [데이터 분석을 떠받치는 수학 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](http://wikibook.co.kr/math-for-data-science/)
+  * 2018.08 한라
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -671,6 +679,8 @@ Programming Books
   * 2018.07 한라
   * [자바 프로젝트 필수 유틸리티](http://www.hanbit.co.kr/store/books/look.php?p_code=B8716214772)
 * (NOT YET) 클라우드 네이티브 자바 스프링 마이크로서비스 아키텍처와 데브옵스를 실천하는 클라우드 기반 서비스의 모든 것
+* (NOT YET) 자바로 배우는 핵심 자료구조와 알고리즘
+  * 한라 005.73-다66ㅈ
 
 # JavaScript
 
@@ -702,6 +712,8 @@ Programming Books
 * (NOT YET) [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
   * 2018.07 한라
 * (NOT YET) [리액트를 다루는 기술](https://velopert.com/3697)
+* (NOT YET) 리액트 교과]
+  * 한라 005.118-마297ㄹ
 
 ## Angular
 
@@ -723,6 +735,8 @@ Programming Books
   * 한라 005.118 곤72ㄴ
   * Node.js + 세네카 seneca, PM2 프레임워크, 모카 mocha, 차이 chai, 시논 sinon , 스웨거 swagger
 * (NOT YET) [초보자를 위한 Node.js 200제](http://jybaek.tistory.com/741)
+* (NOT YET) [웹 서비스를 만들며 배우는 node.js 프로그래밍](http://jpub.tistory.com/822?category=203154)
+  * 2018.08 한라
 
 # Kotlin
 
@@ -1018,7 +1032,10 @@ Programming Books
 * [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%B4%EB%93%A4%EB%A6%AC-%EC%9C%84%EC%BB%B4%EC%9D%98-advanced-r-1bece8a507e0)
   * 한라 005.11-위874ㅇ
+* (NOT YET) [메이저리그 야구 통계학 빅데이터 분석의 시작 R](http://acornpub.co.kr/book/mlb-statistics)
+  * 2018.08 탐라
 * (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
+  * 2018.08 한라
 
 # Scala
 

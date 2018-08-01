@@ -78,7 +78,7 @@ TensorFlow
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [From numpy ndarray to tfrecords](https://gist.github.com/swyoon/8185b3dcf08ec728fb22b99016dd533f)
-* [텐서플로우 트레이닝 데이타 포맷인 *.tfrecord 파일 읽고 쓰기](http://bcho.tistory.com/1190)
+* [텐서플로우 트레이닝 데이타 포맷인 \*.tfrecord 파일 읽고 쓰기](http://bcho.tistory.com/1190)
 * [feeding the data to Neural Network (TF) using tfrecords](https://github.com/wjcheon/Tfrecord_example_Tensorflow)
 * **[Getting Text into Tensorflow with the Dataset API](https://medium.com/@TalPerry/getting-text-into-tensorflow-with-the-dataset-api-ffb832c8bec6)**
   * Tensorflow 의 Dataset API를 이용해서 텍스트 데이터를 가져와 처리하는 방법
@@ -91,7 +91,7 @@ TensorFlow
 * [TF-KR 첫모임: 텐스플로우를 이용한 얼굴 인식 구현](https://www.youtube.com/watch?v=EB2A2ej70Pw)
 * [Tfk 6618 tensor_flow로 얼굴인식 구현 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
 * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
-* [Jupyter notebok tensorboard 실행하기_20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
+* [Jupyter notebok tensorboard 실행하기 20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
 * [TensorBoard support Embedding Visualization](https://tensorflow.blog/2016/11/30/tensorboard-support-embedding-visualization/)
 * [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [tensorboard-embedding-visualization - Visualize embedding on tensorboard with thumbnail images](https://github.com/jireh-father/tensorboard-embedding-visualization)
@@ -413,6 +413,7 @@ TensorFlow
   * [강화학습](http://mobicon.tistory.com/538)
   * [Q Network](http://mobicon.tistory.com/539)
   * [Supervised Learning](http://mobicon.tistory.com/540)
+  * [공부 여정](http://mobicon.tistory.com/543)
 * [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
 * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
 * [Get started with TensorFlow on law and statistics](https://medium.freecodecamp.org/tensorflow-starter-on-law-and-statistics-646072b93b5a)

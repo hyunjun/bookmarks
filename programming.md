@@ -911,6 +911,7 @@ Programming
   * [1804호](https://blog.gaerae.com/2018/04/monthly.html)
   * [1805호](https://blog.gaerae.com/2018/05/monthly.html)
   * [1806호](https://blog.gaerae.com/2018/06/monthly.html)
+  * [1807호](https://blog.gaerae.com/2018/07/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

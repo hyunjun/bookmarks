@@ -58,7 +58,9 @@ PyTorch
 * [Memory efficient implementation of dense nets](https://www.slideshare.net/HyungjooCho2/memory-efficient-implementation-of-dense-nets)
 * [pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)
 * [Implementing REINFORCE from scratch](https://github.com/schmit/notebooks/blob/master/notebooks/reinforce/reinforce-discrete.ipynb)
-* [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
+* Graph CNN
+  * [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
+  * [Pytorch Implementation for Graph Convolutional Neural Networks](https://github.com/meliketoy/graph-cnn.pytorch)
 * [pytorch-deep-generative-replay - PyTorch implementation of Continual Learning with Deep Generative Replay, NIPS 2017](https://github.com/kuc2477/pytorch-deep-generative-replay)
 * [Poincaré Embeddings for Learning Hierarchical Representations](https://github.com/facebookresearch/poincare-embeddings)
 * [Decoupled Neural Interfaces for PyTorch](https://github.com/koz4k/dni-pytorch)
