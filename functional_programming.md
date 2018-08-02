@@ -60,6 +60,7 @@ Functional Programming
 * [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 * [Functional Programming For People Who Hate Math](https://www.youtube.com/watch?v=SlfipOW_ilU)
 * [Pros and cons of functional programming](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
+* [Are idempotent functions the same as pure functions?](https://stackoverflow.com/questions/4801282/are-idempotent-functions-the-same-as-pure-functions)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)

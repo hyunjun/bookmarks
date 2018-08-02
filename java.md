@@ -413,6 +413,7 @@ Java
     * [2. Jenkins와 Github 연동하기](http://jojoldu.tistory.com/291)
     * [3. Beanstalk 연동하기](http://jojoldu.tistory.com/292)
   * [Jenkins에 Github 로그인 연동하기](http://jojoldu.tistory.com/310)
+  * [KubeCon 2018 Demo - Jenkins X overview at KubeCon Copenhagen](https://jenkins-x.io/demos/kubecon-2018/)
 * [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
@@ -500,6 +501,7 @@ Java
     * [3 - 시퀀스 생성 create, stream](http://javacan.tistory.com/entry/Reactor-Start-3-RS-create-stream)
     * [4 - 시퀀스 변환 기초](http://javacan.tistory.com/entry/Reactor-Start-4-tbasic-ransformation)
     * [5 - 에러 처리](http://javacan.tistory.com/entry/Reactor-Start-5-error-handling)
+    * [6 - 쓰레드 스케줄링](http://javacan.tistory.com/entry/Reactor-Start-6-Thread-Scheduling)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)

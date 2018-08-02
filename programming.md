@@ -415,6 +415,7 @@ Programming
 * [인공지능: 현대적 접근 방식](http://likejazz.com/post/162061958444/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%84%EB%8C%80%EC%A0%81-%EC%A0%91%EA%B7%BC-%EB%B0%A9%EC%8B%9D)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
   * [구글 CT코스](https://manchoi.gitbooks.io/computational-thinking-of-google/content/index.html)
+* [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
 
 # Build Compile
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
@@ -904,6 +905,7 @@ Programming
   * [기술 뉴스 #104 : 18-06-16](https://blog.outsider.ne.kr/1383)
   * [기술 뉴스 #105 : 18-07-02](https://blog.outsider.ne.kr/1386)
   * [기술 뉴스 #106 : 18-07-15](https://blog.outsider.ne.kr/1389)
+  * [기술 뉴스 #107 : 18-08-01](https://blog.outsider.ne.kr/1393)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1095,6 +1097,7 @@ Programming
 * [코드 커버리지 80% 넘긴 썰](https://brunch.co.kr/@leehosung/43)
 * [For Test: 외부 시스템을 특정 상태로 만들기 위해 상태 전이 빌더와 실행기](http://javacan.tistory.com/entry/For-Test-Builder-and-runner-of-state-transition-for-extternal-system-integration)
 * [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
+  * **[Mocking은 코드 냄새(Code Smell)입니다](https://midojeong.github.io/2018/04/19/mocking-is-a-code-smell/)**
 * [테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
 * [Test Driven Development (TDD) basic](https://www.slideshare.net/CurtPark1/test-driven-development-tdd-basic/)

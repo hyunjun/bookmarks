@@ -46,6 +46,7 @@ Ruby
 * [Ruby: A Jewel In Your List of Programming Languages](https://medium.com/sololearn/ruby-a-jewel-in-your-list-of-programming-languages-b4ba1e380eae)
 * [Get the most out of Ruby by using the .select .map and .reduce methods together](https://medium.freecodecamp.org/ruby-using-the-select-map-and-reduce-methods-together-a9b2af30804b)
 * [How to scrape with Ruby and Nokogiri and map the data](https://medium.freecodecamp.org/how-to-scrape-with-ruby-and-nokogiri-and-map-the-data-bd9febb5e18a)
+* [구글 앱스 스크립트(Google Apps Script) 외부에서 실행하기 실행 가능한 API로 배포하고 루비(Ruby)에서 호출하기](https://www.44bits.io/ko/post/google-app-script-external-execution-by-ruby)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
