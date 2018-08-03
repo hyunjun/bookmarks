@@ -172,6 +172,8 @@ Vision
     * [Part 3: Implementing the the forward pass of the network](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-3/)
     * [Part 4: Objectness Confidence Thresholding and Non-maximum Suppression](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-4/)
     * [Part 5 : Designing the input and the output pipelines](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-5/)
+  * [윈도우즈에서 yolo v3 돌려보기 1/2](http://jusths.tistory.com/32)
+  * [윈도우즈에서 yolo v3 돌려보기 2/2](http://jusths.tistory.com/33)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)

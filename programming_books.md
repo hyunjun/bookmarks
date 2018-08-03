@@ -909,7 +909,7 @@ Programming Books
 * (NOT YET) [바쁜 팀장님 대신 알려주는 신입 PHP 개발자 안내서](https://www.haruair.com/blog/4365)
 
 # Python
-
+* [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
   * 2016.03
   * 한라 005.133 서78ㅇ

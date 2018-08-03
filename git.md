@@ -69,6 +69,7 @@ Git
 * GitHub로 프로젝트 관리하기
   * [Part1 - 이슈 발급 부터 코드리뷰까지](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part1-%EC%9D%B4%EC%8A%88-%EB%B0%9C%EA%B8%89-%EB%B6%80%ED%84%B0-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EA%B9%8C/)
   * [Part2 - CI & Test Coverage & Wiki](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part2-ci-test-coverage-wiki/)
+  * [Part3 - ZenHub 사용법](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part3-zenhub-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [GitHub Repo 에 Travis CI 추가하기](http://inspiredjw.com/entry/GitHub-Repo-%EC%97%90-Travis-CI-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 * [About Travis CI](https://medium.com/@yoonjs2/about-travis-ci-65b04d3dead6)
 * [알아두면 좋은 GIT 꿀팁 3개](https://brunch.co.kr/@sydneyitguy/5)
