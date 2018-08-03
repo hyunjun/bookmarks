@@ -146,6 +146,7 @@ Math
 * [Clifford Algebra: A visual introduction](https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/)
 * [Things I Can't Solve: Multiplication](http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html)
 * [Guide to Linear Regression](http://alexhwoods.com/2015/07/19/guide-to-linear-regression/)
+* [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
 * [THE $25,000,000,000∗ EIGENVECTOR THE LINEAR ALGEBRA BEHIND GOOGLE](http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 * [Change of basis in Linear Algebra](http://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/)
 * [graphicallinearalgebra.net](http://graphicallinearalgebra.net/)

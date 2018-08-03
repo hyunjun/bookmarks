@@ -307,6 +307,10 @@ Algorithm
 * [검색은 어떻게 동작하나요](http://docs.likejazz.com/how-search-works/)
 * [Worked PageRank Example](http://mathscinotes.com/2012/01/worked-pagerank-example/)
 
+# Problems
+* [Balanced Brackets](http://astrod.github.io/2018/01/07/7.html)
+* [Project Euler # 43 in JavaScript — Sub-String Divisiblity in Pandigital Numbers](https://hackernoon.com/project-euler-43-in-javascript-1cc41be56aa2)
+
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
 * [The Ziggurat Algorithm for Random Gaussian Sampling](http://heliosphan.org/zigguratalgorithm/zigguratalgorithm.html)
@@ -412,6 +416,7 @@ Algorithm
 
 ## Binary Search Tree BST
 * [이진탐색트리(Binary Search Tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)
+* [is Binary Search Tree](http://astrod.github.io/2018/01/08/8.html)
 
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)

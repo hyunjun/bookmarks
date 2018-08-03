@@ -10,7 +10,7 @@ Religion
 * [2050년, 세계 종교 지형이 바뀐다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7030586.html)
 * [세계에서 가장 종교적인 나라는 어디일까?](http://newspeppermint.com/2015/04/15/global-religion-survey-2015/)
 * [The World Religions Tree](http://000024.org/religions_tree/) 일본 문화의 위력(?)을 실감할 수 있다. 후대에 시기를 조작했을 가능성이 매우 큰데, 일본 아마테라스 신화가 가장 큰 뿌리 4개 중 하나를 차지하고 있음
-* *[Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)*
+* **[Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)**
   * [세계 주요 종교가 퍼져 나가는 과정](https://www.youtube.com/watch?v=3D8lV9QSS1k)
 * 마이클 셔머 종교의 소멸과 그 정치적 의미
   * [(1/2)](http://newspeppermint.com/2015/07/20/m-religion1/)
@@ -96,9 +96,9 @@ Religion
 * [개신교/개신교발 루머](https://librewiki.net/wiki/%EA%B0%9C%EC%8B%A0%EA%B5%90/%EA%B0%9C%EC%8B%A0%EA%B5%90%EB%B0%9C_%EB%A3%A8%EB%A8%B8#.EA.B6.8C.EB.A0.A5.EC.9D.84_.EB.82.B4.EB.A0.A4.EB.86.93.EA.B3.A0_.EC.A1.B0.EC.9A.A9.ED.9E.88_.EC.9D.80.ED.87.B4.ED.95.98.EA.B3.A0_.EC.A3.BC.EB.8B.98.EC.9D.98_.EB.9C.BB.EC.9D.84_.EB.94.B0.EB.A5.B8_.ED.81.AC.EB.A1.AC.EC.9B.B0.3F)
 * [기독교 역사교과서 공동대책위 “국정교과서 채택 지지”](http://www.christiantoday.co.kr/view.htm?id=286432)
 * [역사 교과서 국정화에 대한 인명진 목사의 기독교적인 해석](http://www.huffingtonpost.kr/2015/10/20/story_n_8335226.html)
-* [개신교판 <나꼼수> "한국 교회 망할 것"](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002150711)
+* [개신교판 나꼼수 "한국 교회 망할 것"](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002150711)
 * [용산참사와 ‘전병욱 사건’은 나를 어떻게 바꾸었나](http://www.ziksir.com/ziksir/view/2615)
-* [전병욱 목사 "청년들 가난해지면 아이 쏟아져 나올 것"]http://m.newsnjoy.or.kr/news/articleView.html?idxno=205634)
+* [전병욱 목사 "청년들 가난해지면 아이 쏟아져 나올 것"](http://m.newsnjoy.or.kr/news/articleView.html?idxno=205634)
 * [“돈을 신으로 보는 한국교회 안타깝다”](http://media.daum.net/culture/religion/newsview?newsid=20151129200809525&RIGHT_REPLY=R1)
 * [돈 때문에 돈 삯꾼 목사들](http://m.newsm.com/news/articleView.html?idxno=5643)
 * [교회는 정치적이면 안 되는 걸까?](http://www.ziksir.com/ziksir/view/2908)

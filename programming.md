@@ -467,6 +467,7 @@ Programming
   * [Run Spark and Hadoop Faster with Cloud Dataproc | Google Cloud Labs](https://www.youtube.com/watch?v=h1LvACJWjKc)
   * [서버리스 Cloud Functions 사용하기](http://jybaek.tistory.com/752)
   * [Cloud Functions, 이래서 베타다](http://jybaek.tistory.com/753)
+  * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -1122,7 +1123,7 @@ Programming
 * [유니코드에 대해서 배우기-시리즈 2](http://www.globalsoftware.kr/2015/10/%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0-%EC%8B%9C%EB%A6%AC%EC%A6%88-2/)
 * [한글 인코딩의 이해 1편: 한글 인코딩의 역사와 유니코드](http://d2.naver.com/helloworld/19187)
 * [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](http://d2.naver.com/helloworld/76650)
-* [전영규 유니코드 세미나_공개용](http://www.slideshare.net/jun562/ss-71045411)
+* [전영규 유니코드 세미나 공개용](http://www.slideshare.net/jun562/ss-71045411)
 * [유니코드 한중일 잔혹사](http://j.mearie.org/post/155446739768/cjk-strangeness-in-unicode)
 * 유니코드 
   * [#1](http://www.bsidesoft.com/?p=3435)

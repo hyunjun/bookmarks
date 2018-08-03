@@ -412,6 +412,7 @@ R
 * [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
 * [한국판 케빈 베이컨 놀이](https://drkevin22.github.io/SixDegreeKorVer/Visualization_of_Korean_Six_Degrees) 네트워크 그리기 참고
 * [R에서 Newton Raphson Method 에 대한 시뮬레이션 과제 (+ ggplot2, gganimate package)](https://lovetoken.github.io/r/data_visualization/2018/04/24/netwon_raphson_method.html)
+* [R에서 plot3d()함수를 이용한 3차원 산점도 만들기](https://lovetoken.github.io/r/data_visualization/2018/08/02/plot3d.html)
 * R 지도 시각화
   * [1 선거 결과 데이터 전처리하기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-1/)
   * [2 행정경계구역 데이터 전처리 및 단계구분도 그리기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-2/)

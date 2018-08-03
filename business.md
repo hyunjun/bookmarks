@@ -125,6 +125,7 @@ Business
 * [(4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
 * [핵심 지표(KPI)의 기준](http://www.andrewahn.co/product/defining-kpis/)
+* [모두의 성과가 같은 KPI일 수 없다](https://brunch.co.kr/@lunarshore/298)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)

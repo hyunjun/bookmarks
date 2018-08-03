@@ -365,7 +365,7 @@ NLP
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (4/5)](https://www.youtube.com/watch?v=Tq2otY_SQQQ)
 * [20170121 한국인공지능협회 - 제7차 오픈세미나 - 챗봇 (5/5)](https://www.youtube.com/watch?v=n-IXuLpqkGo)
 * [세계 챗봇 생태계 분석](https://brunch.co.kr/@pilsogood/2)
-* [20170227 파이썬으로 챗봇_만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
+* [20170227 파이썬으로 챗봇 만들기](https://www.slideshare.net/KimSungdong1/20170227-72644192)
 * [KahWee Teng: Coding Chat Bots - JSConf.Asia 2016](https://www.youtube.com/watch?v=c_hmwFwvO0U)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
 * [카카오톡 자동응답 API로 학식봇 구현](http://throughkim.kr/2016/07/11/kakao-haksik/)
@@ -469,7 +469,8 @@ NLP
 * [Recurrent Neural Network for Text Calssification](https://github.com/roomylee/rnn-text-classification-tf)
 * [Introducing state of the art text classification with universal language models](http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html)
 * [Evaluating Classifiers: Confusion Matrix for Multiple Classes](https://www.youtube.com/watch?v=FAr2GmWNbT0)
-* [The last 3 years in Text Classification](https://medium.com/explorations-in-language-and-learning/the-last-3-years-in-text-classification-8f408c043a79
+* [The last 3 years in Text Classification](https://medium.com/explorations-in-language-and-learning/the-last-3-years-in-text-classification-8f408c043a79)
+* [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning)
 
 # Clustering
 * dbscan

@@ -80,7 +80,7 @@ Python
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
-* [Can assign \[\] = (), but not () = \[\]](https://bugs.python.org/issue23275)
+* [Can assign `[] = ()`, but not `() = []`](https://bugs.python.org/issue23275)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
 * [언어의 변천사를 통해 바라본 Python](http://www.slideshare.net/taeyounglee1447/python-48557728)
@@ -115,7 +115,7 @@ Python
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
-* *[Building a dataflow graph in Python](http://www.mattkeeter.com/projects/graph/)*
+* **[Building a dataflow graph in Python](http://www.mattkeeter.com/projects/graph/)**
 * [Ask HN: Good Python codebases to read?](https://news.ycombinator.com/item?id=9896369)
 * [매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
@@ -667,7 +667,7 @@ Python
   * [Saving 9 GB of RAM with Python’s `__slots__`](http://tech.oyster.com/save-ram-with-python-slots/)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
-  * [파이썬 언더스코어(_)에 대하여](https://mingrammer.com/underscore-in-python)
+  * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
 * mmap
   * [mmap — Memory-mapped file support¶](https://docs.python.org/2/library/mmap.html)
   * [mmap – Memory-map files](https://pymotw.com/2/mmap/)

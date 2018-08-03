@@ -55,7 +55,7 @@ ElasticSearch - Lucene
     * [Multiple group-by in Elasticsearch](http://stackoverflow.com/questions/14181674/multiple-group-by-in-elasticsearch)
   * [Combining Filters](https://www.elastic.co/guide/en/elasticsearch/guide/current/combining-filters.html)
   * [Term Filters](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-terms-filter.html)
-  * [How to get max _id from elastic search](http://stackoverflow.com/questions/28811744/how-to-get-max-id-from-elastic-search)
+  * [How to get max `_id` from elastic search](http://stackoverflow.com/questions/28811744/how-to-get-max-id-from-elastic-search)
 * [get started with elasticsearch](https://www.elastic.co/webinars/get-started-with-elasticsearch)
 * [Elasticsearch: The Definitive Guide The Definitive Guide](https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html)
 * [The Definitive Guide to Elasticsearch https://www.elastic.co/guide/en/elasticsearch/guide/current/index.html](https://github.com/elastic/elasticsearch-definitive-guide)
@@ -263,8 +263,8 @@ ElasticSearch - Lucene
 * [“Hot-Warm” Architecture in Elasticsearch 5.x](https://www.elastic.co/blog/hot-warm-architecture-in-elasticsearch-5-x)
   * tribe node 대체는 cross cluster
 * [라우팅(routing)를 이용한 데이터 저장](http://knight76.tistory.com/entry/elasticsearch-5-라우팅를-이용한-데이터-저장)
-* [_cat/nodes](http://knight76.tistory.com/entry/elasticsearch-5-catnodes)
-* [_cat/shards](http://knight76.tistory.com/entry/elasticsearch-5-catshards)
+* [`_cat/nodes`](http://knight76.tistory.com/entry/elasticsearch-5-catnodes)
+* [`_cat/shards`](http://knight76.tistory.com/entry/elasticsearch-5-catshards)
 * [bootstrap 검사](http://knight76.tistory.com/entry/elasticsearch-5-bootstrap-%EA%B2%80%EC%82%AC)
 
 # Elasticsearch 6.x

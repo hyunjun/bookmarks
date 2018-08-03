@@ -244,7 +244,7 @@ Coursera
       * course 3개의 session을 모두 똑같이 1/2에 시작하는 걸로 했다가 두 개를 첫 번째 course가 끝난 후로 바꾸려고 채팅으로 상담을 했는데, 좀 시간이 걸렸지만, 해결이 됨
       * 아무튼 Parallel Programming은 가장 늦은 게 3/13에 시작하는 건데, Functional Programming Design in Scala가 4/3에 끝나기 때문에 나중에 다시 switch session을 해야 할 듯
     * 강의
-      * 첫 번째 강의 introduction을 들었는데, 자막이 음성과 싱크가 맞지 않는 등, 오히려 예전에 비해 불편하고 시스템이 더 안 좋아진 느낌 -_-a
+      * 첫 번째 강의 introduction을 들었는데, 자막이 음성과 싱크가 맞지 않는 등, 오히려 예전에 비해 불편하고 시스템이 더 안 좋아진 느낌
       * 첫 번째 intelliJ로 Example만드는 걸 듣는데, scala worksheet을 만드는 부분이 없어서 어떡하나 하다가 Project 이름(최상단 Example에서 마우스 오른쪽 버튼 누르고 나오는 메뉴에서 Make module 'example'을 선택하니 필요한 구조가 만들어지고, 거기서 scala worksheet을 만들 수 있게 됨)
     * [example assignment](https://www.coursera.org/learn/progfun1/programming/xIz9O/example-assignment)
       * 첫 번째 숙제 통과. scalatest에서 exception catch하는 방법을 잘 모르겠음

@@ -488,7 +488,7 @@ Docker
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
-* [hyper - Hypervisor-agnostic Docker Engine_](https://hyper.sh/)
+* [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
@@ -552,7 +552,7 @@ Docker
 * [Red Hat! and After 1 year](http://naleejang.tistory.com/204)
 
 # RunC
-* [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/
+* [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
 
 # Swarm
 * [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)

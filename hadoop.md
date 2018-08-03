@@ -302,7 +302,7 @@ Hadoop
   * troubleshooting
     * python에서 mapper들의 공통 모듈이 있어서 별도의 file로 만들고(e.g. commons.py) `-files commons.py,mapper[n].py ... -mapper mapper[n].py`로 실행했더니 오류가 발생
       * 아마 path 문제로 mapper.py가 commons.py를 참조하지 못했을 가능성이 매우 크다
-      * 해결책이 있겠지만, 일단 공통 모듈이 별로 크지 않으면 각 mapper[n].py에 넣어줘서 해결 -_-;;
+      * 해결책이 있겠지만, 일단 공통 모듈이 별로 크지 않으면 각 mapper[n].py에 넣어줘서 해결
     * `Container ... is running beyond physical memory limits`
       * `yarn.app.mapreduce.am.resource.mb` 1 > 2
       * `mapreduce.reduce.memory.mb` 1 > 2
@@ -326,10 +326,10 @@ Hadoop
       * 예를 들어 다음과 같이 some.jar를 사용하는 경우 jar file name에 -(dash)와 같은 character가 있으면 발생
         * ERROR
 
-          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some-0.1.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
+          `hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some-0.1.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0`
         * OK
 
-          ```hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0```
+          `hadoop jar /path/to/hadoop-streaming-*.jar -archives "hdfs://namenode/path/to/some.jar#library" -files [mapper] -input [input] -output [output] -mapper [mapper] -numReduceTasks 0`
       * mapper_a.py에서 other.py의 function foo를 호출하려고 import other; foo(...)을 한 경우. 아마 path 문제일 것으로 짐작
     * `ERROR streaming.StreamJob: Error Launching job : Input path does not exist`
       * hdfs directory와 local directory의 이름이 같은 경우 발생할 때가 있음

@@ -265,7 +265,7 @@ iOS
 * [Thinking in Swift, Part 2: map those arrays](http://alisoftware.github.io/swift/2015/09/20/thinking-in-swift-2/)
 * [Thinking in Swift, Part 3: Struct vs. Class](http://alisoftware.github.io/swift/2015/10/03/thinking-in-swift-3/)
 * [Thinking in Swift, Part 4: map all the things!](http://alisoftware.github.io/swift/2015/10/11/thinking-in-swift-4/)
-* [Swift 컨퍼런스 < Let'Swift > 발표자료](http://d2.naver.com/news/8290319)
+* [Swift 컨퍼런스 Let'Swift 발표자료](http://d2.naver.com/news/8290319)
 * [이제는 OOP보다 POP가 대세다](http://tmondev.blog.me/220863182982)
 * [애플은 왜 스위프트를 내놓았는가?](https://brunch.co.kr/@synabreu/10)
 * [임의의 분포의 난수 뽑기](https://helloworldpark.github.io/jekyll/update/2017/01/01/Random-Generator.html)

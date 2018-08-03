@@ -42,11 +42,11 @@ Politics
 * [한국, 2018년 '인구 절벽' 맞이하나](http://www.huffingtonpost.kr/2015/06/15/story_n_7582906.html)
 * [그런 애국은 싫다](http://ppss.kr/archives/48474)
 * [‘치안 한류’, 역풍 맞지 않으려면](http://newspeppermint.com/2015/06/21/uberemployee/)
-* *[한국의 정치경제가 구제불능인 이유](http://ppss.kr/archives/48556)*
+* **[한국의 정치경제가 구제불능인 이유](http://ppss.kr/archives/48556)**
 * [백악관과 청와대의 대통령과 비서실장과의 거리 비교](http://estimastory.com/2015/07/03/pre-chief/)
 * [한국의 일본화 공포…무엇이 문제인가?](http://ppss.kr/archives/47076)
 * [화끈한 혐오표현 처벌? 차별금지법부터 만들라!](http://www.huffingtonpost.kr/sungsoo-hong/story_b_7783096.html)
-* ["김기춘 손발 묶을 테니 젊은 세대는 누려라" [인터뷰] 반헌법행위자 열전 편찬 제안한 역사학자 한홍구 교수](http://media.daum.net/society/others/newsview?newsid=20150723120414835)
+* ["김기춘 손발 묶을 테니 젊은 세대는 누려라" 인터뷰 반헌법행위자 열전 편찬 제안한 역사학자 한홍구 교수](http://media.daum.net/society/others/newsview?newsid=20150723120414835)
 * ['좌-우' '보수-진보' 위험한 이분법](http://media.daum.net/politics/all/newsview?newsid=20150728220008386&RIGHT_COMM=R7)
 * [틀린 그림 찾기: 미국 CIA 개혁 vs. 한국 국정원 개혁](http://slownews.kr/44767)
 * ['이명박근혜 7.5년'.. 한국의 좌표를 찍어보자](http://media.daum.net/politics/all/newsview?newsid=20150824040408251)

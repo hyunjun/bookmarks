@@ -250,7 +250,9 @@ App
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
-* [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
+* [Frame-Based Editing](http://www.greenfoot.org/frames/)
+* [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
+  * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
 * [Notion - Documents reimagined. Beautiful. Lightweight. Always organized. Notion is an expressive and collaborative document editor that gives your ideas a place to grow](http://early-access.notion.so/)

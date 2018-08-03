@@ -49,6 +49,37 @@ Programming Language
 * [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
 * [GraalVM - a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Kotlin, and LLVM-based languages such as C and C++.](https://www.graalvm.org/)
 
+# Closure
+* [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
+* [A Definition of Closures](http://gafter.blogspot.kr/2007/01/definition-of-closures.html)
+* [자바스크립트 클로저(Closure)에 대해서...](http://blog.outsider.ne.kr/506)
+
+# Continuation
+* [Continuations](https://curiosity-driven.org/continuations)
+
+# Dependency Injection
+* [Dependency Injection, Inversion of Control & The Dependency Inversion Principle](http://kc.my-junk.info/di-ioc-dip/)
+* [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)
+* [Your DI framework is killing your code](http://blog.activelylazy.co.uk/2015/09/25/your-di-framework-is-killing-your-code/)
+* [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
+* [테스트 용이성(TESTBILITY) 향상을 위한 DI(DEPENDENCY INJECTION)](http://prostars.net/228)
+* **[DI는 IoC를 사용하지 않아도 된다](https://jwchung.github.io/DI%EB%8A%94-IoC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%90%9C%EB%8B%A4)**
+  * 인수를 취하는 것이 DI의 개념의 대부분
+  * 추상화를 해치지 않고 의존성을 인수로 넘겨주는 방법이 DI
+* **[의존성 역전 원리(Dependency Inversion Principle) 관련 용어](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)**
+  * DI와 DIP의 차이
+* [Inversion of Control(제어 역전)](https://justhackem.wordpress.com/2016/05/14/inversion-of-control/)
+* [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
+* [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
+* [Dependency Injection Inversion](https://sites.google.com/site/unclebobconsultingllc/blogs-by-robert-martin/dependency-injection-inversion)
+* [On Inversion of Control](https://web.archive.org/web/20040202120126/http://www.betaversion.org/~stefano/linotype/news/38/)
+* [Demystifying the Dependency Inversion Principle in Angular](https://netbasal.com/demystifying-the-dependency-inversion-principle-in-angular-a2daca9b05ee)
+* [헐리우드 원칙](http://doublem.org/Hollywood-Principle/)
+* [You Don’t Need a Dependency Injection Container](https://hackernoon.com/you-dont-need-a-dependency-injection-container-10a5d4a5f878)
+
+## Python
+* [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
+
 # DSL
 * [DSL Engineering](http://voelter.de/data/books/markusvoelter-dslengineering-1.0.pdf)
 * [Domain-Specific Language Engineering](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.95.8432&rep=rep1&type=pdf)
@@ -148,6 +179,22 @@ Programming Language
   * [starting forth](http://www.forth.com/starting-forth/sf0/sf0.html)
   * [Thinking Forth Project](http://thinking-forth.sourceforge.net/)
 * [Fortress](https://en.wikipedia.org/wiki/Fortress_(programming_language))
+* F#
+  * [Functional Koans - F#](https://github.com/ChrisMarinos/FSharpKoans)
+  * [Introducing F# 4.0](http://www.infoq.com/news/2015/04/FSharp-4)
+  * [Null-checking considerations in F# - it's harder than you think](http://latkin.org/blog/2015/05/18/null-checking-considerations-in-f-its-harder-than-you-think/)
+  * [More freedom from side-effects (F#)](http://www.davesquared.net/2013/11/freedom-from-side-effects-fsharp.html)
+  * [Using F# for testing](http://fsharpforfunandprofit.com/posts/low-risk-ways-to-use-fsharp-at-work-3/)
+  * [Announcing the RTM of Visual F# 4.0](http://blogs.msdn.com/b/dotnet/archive/2015/07/20/announcing-the-rtm-of-visual-f-4-0.aspx)
+  * [On how Jet chose F#](http://techgroup.jet.com/blog/2015/03-22-on-how-jet-chose)
+  * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
+  * [Understanding map and apply](http://fsharpforfunandprofit.com/posts/elevated-world/)
+  * [Visual F# Power Tools: community-led tooling for F# in Visual Studio](http://blogs.msdn.com/b/dotnet/archive/2015/08/05/guest-post-visual-f-power-tools-community-led-tooling-for-f-in-visual-studio.aspx)
+  * [C# and F# approaches to illegal states](http://enterprisecraftsmanship.com/2015/09/28/c-and-f-approaches-to-illegal-states/)
+  * [What I Learned Reading the FSharp Source Part One](http://andredublin.github.io/fsharp/.net/2015/09/30/what-I-learned-reading-the-fsharp-source.html)
+  * [An introduction to property-based testing](http://fsharpforfunandprofit.com/posts/property-based-testing/)
+  * [F# Code I Love](https://www.youtube.com/watch?v=EPfpO_6uFAA)
+  * [Ionide - An Atom Editor package suite for cross platform F# development](http://ionide.io/)
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
@@ -200,6 +247,17 @@ Programming Language
   * [카일루아, 둘: 파서 (1)](http://j.mearie.org/post/160266597373/kailua-part-2)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
+* Nim
+  * [nim-lang.org](http://nim-lang.org/)
+  * [Araq/Nim](https://github.com/Araq/Nim)
+  * [side by side nim and go](http://rosetta.alhur.es/compare/nimrod/go/#)
+  * [A cursory look at meta-programming in Nim](http://blog.ldlework.com/2015/05/01/a-cursory-look-at-meta-programming-in-nim/)
+  * [A small kernel written in Nim](https://github.com/dom96/nimkernel)
+  * [Nim binary size from 160 KB to 150 Bytes](http://hookrace.net/blog/nim-binary-size/)
+  * [Porting a NES emulator from Go to Nim](http://hookrace.net/blog/porting-nes-go-nim/)
+  * [Go channels, goroutines and GC available in Nim](http://forum.nim-lang.org/t/1278)
+  * [What is Nim and why it matters for scientific computing](http://rnduja.github.io/2015/10/21/scientific-nim/)
+  * [Extract a plain text corpus from MediaWiki XML dumps, such as Wikipedia](https://github.com/rspeer/wiki2text)
 * mathematica
   * [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org/)
 * MATLAB
@@ -226,11 +284,29 @@ Programming Language
 * [None - The Best Programming Language is None](https://bitbucket.org/duangle/none/overview)
 * [Orange](http://orange-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
+* Perl
+  * [Perl::Koans](https://github.com/forcedotcom/PerlKoans)
+  * [Statusuebersicht Perl VMs](https://dresden-pm.github.io/gpw2015/html/talks/VmStatus.html)
+  * [Send more money (in Perl 6)](http://strangelyconsistent.org/blog/send-more-money-in-perl6)
+  * [Parallelism, Concurrency, and Asynchrony in Perl 6 / Jonathan Worthington](https://www.youtube.com/watch?v=JpqnNCx7wVY)
+  * [perl6](http://perl6.org/)
+  * [Perl 6 hands-on tutorial](http://jnthn.net/papers/2015-spw-perl6-course.pdf)
+  * [Larry Wall Presents: Perl 6!](http://perl6releasetalk.ticketleap.com/perl-tech-talk/details)
+  * [Perl 6 Release Talk](https://www.youtube.com/watch?v=kwxHXgiLsFE)
+  * [pire - Perl Incompatible Regular Expressions library http://github.com/dprokoptsev/pire/wiki](https://github.com/yandex/pire)
+  * [perlsecret - Perl secret operators and constants](http://search.cpan.org/dist/perlsecret/lib/perlsecret.pod)
+  * [Differences between Perl 5 and Perl 6](http://design.perl6.org/Differences.html)
+  * [PFT It is yet another static website generator written in Perl](http://dacav.roundhousecode.com/pages/pft.html)
+  * [Perl 6 Advent Calendar](https://perl6advent.wordpress.com/2015/12/07/day-7-unicode-perl-6-and-you/)
+  * [Perl과 웹 API 서비스](http://highest.youre.space/)
+  * [2시간 반만에 펄 익히기](https://qntm.org/files/perl/perl_kr.html)
+  * [perl의 기본적인 변수(reference, dereference) 다루기](http://codingdosa.com/post/2016-10-04-perl%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%B3%80%EC%88%98-%EB%8B%A4%EB%A3%A8%EA%B8%B0.html)
+  * [소수를 판별하는 정규식](https://johngrib.github.io/archivers/regex-prime)
 * [Pony](http://ponylang.org/)
 * [Pop11 - Introduction to Pop11 basics (pop-basics - revised)](https://www.youtube.com/watch?v=WeYsG8TkNIY)
 * [processing](https://processing.org/)
   * [A guide to making simple games with Processing](https://github.com/JohnEarnest/StoneSoup)
-  * [Processing 기초 이해하기_20160713](http://www.slideshare.net/dahlmoon/processing-20160713)
+  * [Processing 기초 이해하기 20160713](http://www.slideshare.net/dahlmoon/processing-20160713)
   * [Nature of code - Chapter 1. Vector](http://www.slideshare.net/btakeya/nature-of-code-chapter-1-vector)
 * Prolog
   * [Hello World server](http://www.swi-prolog.org/howto/http/HelloText.html)
@@ -289,6 +365,14 @@ Programming Language
   * [Live with Stephen Wolfram](https://www.livecoding.tv/stephen_wolfram/)
   * [Find Waldo Faster](http://blog.wolfram.com/2015/02/27/find-waldo-faster/)
 * [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
+
+# State Machine
+* [Verifying State Machine Behavior Using test.check](http://blog.guillermowinkler.com/blog/2015/04/12/verifying-state-machine-behavior-using-test-dot-check/)
+* [Designing a State Machine without conditionals](http://jjcorrea.github.io/2015/05/05/designing-a-state-machine-without-conditionals/)
+* [From Live Sequence Charts to State Machines and Back: A Guided Tour](http://fots.ua.ac.be/teaching/modelingpapers/LSC2SM-Schobbens.pdf)
+* [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
+* [FLVIz - Finite Automata Simulator written in QT/Graphviz](https://github.com/wkoszek/flviz)
+* [State machine 코드를 작성하기 위한 방법 다시 생각해보기](https://gist.github.com/luncliff/4874c74a32331db357d4ede80db1610d)
 
 # Type
 * [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)
