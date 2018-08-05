@@ -240,6 +240,8 @@ R
 * [R을 활용한 그래프 작성하기](http://allaboutmoon.tistory.com/entry/R%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 * [Seeking signal in the midst of noise with R](https://medium.com/biosyntax/seeking-signal-in-the-midst-of-noise-with-r-d373f57b2e07)
 * [www.r-graph-gallery.com/network](https://www.r-graph-gallery.com/network/)
+* [R 데이터 재구조화 reshape 패키지 melt(), cast() 함수](http://rfriend.tistory.com/m/80)
+* [How to reshape data in R: tidyr vs reshape2](http://www.milanor.net/blog/reshape-data-r-tidyr-vs-reshape2/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

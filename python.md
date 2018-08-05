@@ -354,6 +354,7 @@ Python
   * `'{0:b}'.format(num)` == `bin(num)[2:]` to make binary number string
 * [#3.1. Tensorflow vs. PyTorch](https://www.youtube.com/watch?v=tNWatDufzDk)
   * [Tensorflow vs. PyTorch](https://github.com/ghlee0304/pytorch-basic-with-tensorflow/tree/master/comparison_tensorflow_pytorch)
+* [오픈소스 라이브러리 개발기](https://www.slideshare.net/wintermy201/ss-108323226)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2674,8 +2675,12 @@ Python
   * [Type-Checking Python Programs With Type Hints and mypy](https://www.youtube.com/watch?v=2xWhaALHTvU)
   * [Python tricks: Type hints and static type checking](https://www.youtube.com/watch?v=rytP_vIjzeE)
   * **[Type-checked Python In The Real World](https://www.youtube.com/watch?v=QCGwDOk-pIs)**
+  * [Clearer Code at Scale (Static Types in Python)](https://www.youtube.com/watch?v=uUlYahzwZKw)
+  * [Python static type checker (mypy)](https://zulip.readthedocs.io/en/1.7.1/mypy.html)
+* [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
+* [pytype - A static analyzer for Python code](https://github.com/google/pytype)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
 

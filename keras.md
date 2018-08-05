@@ -156,6 +156,7 @@ Keras
 * [텐서플로우, 티아노, 케라스 오프라인 설치 (주피터 포함)](https://tykimos.github.io/Keras/2017/03/15/Keras_Offline_Install/)
 
 # Library
+* [Auto-Keras - an open source software library for automated machine learning (AutoML)](https://github.com/jhfjhfj1/autokeras)
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
