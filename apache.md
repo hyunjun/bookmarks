@@ -44,6 +44,9 @@ Apache
 * [Apache Arrow (Python)](https://arrow.apache.org/docs/python/)
   * [Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html#reading-and-writing-the-apache-parquet-format)
 
+# [Atlas](https://atlas.apache.org/) 데이터 거버넌스, 표준, 계보 관리 플랫폼
+* [Apache Atlas — Using the v2 Rest API](https://medium.com/hashmapinc/apache-atlas-using-the-v2-rest-api-6f9be1c256ae) Atlas의 Rest API를 사용하여 데이터를 기록하는 방법 소개
+
 # Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
 * [The Beam Model : Streams & Tables](https://docs.google.com/document/d/1u-4o_0uj8uKa2SVNPBNxIKfvcJ4t66ecCoU1M2yVoDA/mobilebasic)
   * 스트림 및 테이블을 기반으로 작성된 Apache Beam 모델에 대한 내용
@@ -400,6 +403,7 @@ Apache
   * 비디오 재생 / 검색 이벤트의 데이터를 분석
   * Netflix가 직면한 도전 과제와 그것에 따라 구현된 전략에 대해서도 설명
 * [Of Streams and Tables in Kafka and Stream Processing, Part 1](http://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/) 스트림과 테이블에 대한 개념을 설명
+* [Kafka streams Java application to aggregate messages using a session window](http://ericlondon.com/2018/07/26/kafka-streams-java-application-to-aggregate-messages-using-a-session-window.html) Java Kafka stream 기초 예제
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

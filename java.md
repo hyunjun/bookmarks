@@ -491,9 +491,11 @@ Java
     * [1.1.5. 웹 프레임워크 선택하기](http://whiteship.me/?p=14015)
     * [1.1.7. 성능 VS 확장성](http://whiteship.me/?p=14005)
   * [스프링 MVC 커스텀 HandlerMethodArgumentResolver 사용하기](http://javacan.tistory.com/entry/how-use-spring-mvc-custom-HandlerMethodArgumentResolver)
-  * [신입 개발자 & 학생을 위한 Spring MVC Setting (1편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1%ED%8E%B8/)
-  * [신입 개발자 & 학생을 위한 Spring MVC Setting (1.5편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1-5%ED%8E%B8/)
-  * [신입 개발자 & 학생을 위한 Spring MVC Setting (2편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-2%ED%8E%B8/)
+  * 신입 개발자 & 학생을 위한 Spring MVC Setting
+    * [(1편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1%ED%8E%B8/)
+    * [(1.5편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1-5%ED%8E%B8/)
+    * [(2편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-2%ED%8E%B8/)
+    * [(3편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-3%ED%8E%B8/)
   * [Spring Cloud Series - Microservices Sidecar pattern implementation using Postgres, Spring Cloud Netflix and Docker](http://tech.asimio.net/2018/02/20/Microservices-Sidecar-pattern-implementation-using-Postgres-Spring-Cloud-Netflix-and-Docker.html)
   * 스프링 리액터 시작하기
     * [1 - 리액티브 스트림 Flux Mono Subscriber](http://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber)
@@ -503,6 +505,7 @@ Java
     * [5 - 에러 처리](http://javacan.tistory.com/entry/Reactor-Start-5-error-handling)
     * [6 - 쓰레드 스케줄링](http://javacan.tistory.com/entry/Reactor-Start-6-Thread-Scheduling)
     * [7 - 병렬 실행](http://javacan.tistory.com/entry/Reactor-Start-7-Parallel)
+    * [8 - 모으기(aggregation)](http://javacan.tistory.com/entry/Reactor-Start-8-Aggregation)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)
@@ -520,7 +523,10 @@ Java
     * [Spring Batch의 동작 코드 #Job 생성과 실행](http://blog.woniper.net/357)
     * [Spring Batch의 동작 코드 #Step 생성과 실행](http://blog.woniper.net/358)
     * [주소검색서버(woowahan-juso) 개발기(上)](http://woowabros.github.io/experience/2018/05/26/woowahan-juso.html)
-    * [1. Spring Batch 가이드 - 배치 어플리케이션이란?](http://jojoldu.tistory.com/324)
+    * Spring Batch 가이드
+      * [1. 배치 어플리케이션이란?](http://jojoldu.tistory.com/324)
+      * [2. Batch Job 실행해보기](http://jojoldu.tistory.com/325)
+      * [3. 메타테이블엿보기](http://jojoldu.tistory.com/326)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)

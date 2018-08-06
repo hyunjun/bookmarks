@@ -127,6 +127,8 @@ Algorithm
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
 * **[알고리즘 학습에 대한 조언](https://www.haruair.com/blog/4546)**
 * [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
+* [나도 해보는 Fizz Buzz Test](https://libsora.so/posts/fizz-buzz-01/)
+* [나눗셈 연산을 곱셈으로 프로그래밍 할 수 있음?](https://libsora.so/posts/float-divide-without-divide/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -263,6 +265,9 @@ Algorithm
 * [Topological Sorting](https://www.geeksforgeeks.org/topological-sorting/)
 * [위상 정렬 (topological sort)](https://www.youtube.com/watch?v=m-Z19d2uS0w)
   * [위상정렬.ipynb](https://github.com/minsuk-heo/coding_interview_kr/blob/master/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC.ipynb)
+* [길찾기 알고리즘 :: A\*(STAR)](https://blog.wonhada.com/?p=815)
+* [따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
+* [A\* 보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
@@ -325,8 +330,6 @@ Algorithm
 
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
-* [길찾기 알고리즘 :: A\*(STAR)](https://blog.wonhada.com/?p=815)
-* [따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
 * [Cache-friendly binary search](http://bannalia.blogspot.kr/2015/06/cache-friendly-binary-search.html)
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)

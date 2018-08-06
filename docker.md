@@ -71,6 +71,8 @@ Docker
       mysql -h 127.0.0.1 -P 53306 -u test_user -ptestpwd test_db < table_schema.sql
       mysql -h 127.0.0.1 -P 53306 -u test_user -ptestpwd test_db
       ```
+  * Nginx
+    * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
   * redis

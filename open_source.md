@@ -44,6 +44,7 @@ Open Source
 * [오픈소스를 쇼핑하는 엔지니어](http://www.mobiinside.com/kr/2017/11/24/buzzvil-opensource/)
 * [A Bitter Guide To Open Source](https://medium.com/@ken_wheeler/a-bitter-guide-to-open-source-a8e3b6a3c1c4)
 * [오픈소스 지속가능성 체계적으로 생각해보기](https://www.haruair.com/blog/4551)
+* [Permissive 라이선스는 동작을 할까?](http://hl1itj.tistory.com/181)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

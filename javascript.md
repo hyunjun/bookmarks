@@ -26,6 +26,7 @@ Javascript
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
 * [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+* [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
@@ -1367,6 +1368,7 @@ Javascript
 * [super-simple-react-starter -  A simple react project starter kit with best practices](https://github.com/myungjaeyu/super-simple-react-starter)
 * [React에 Component만들기](http://blog.myeongsku.com/17)
 * [React.js MERN CRUD Example](https://github.com/edoko/react-mern-crud-example)
+* [React_Typescript와 Material-ui Framework로 ToDoList 만들기 (Material-ui 사용법)](http://blog.myeongsku.com/27)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

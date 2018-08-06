@@ -1,6 +1,5 @@
 App
 ===
-* [Get or set the desktop wallpaper](https://github.com/sindresorhus/wallpaper)
 * [Easy Personal Budgeting](https://www.budgetapp.io/)
 * [홈플러스와 스타벅스를 해킹하는 ‘라이프해커’들](http://www.bloter.net/archives/227537)
 * [Program your Finances: Command-line Accounting](https://www.petekeen.net/keeping-finances-with-ledger) ledger
@@ -89,6 +88,11 @@ App
   * [샤크라맥스와 Virtualbox 게스트OS 네트워크 문제: ping은 되는데 tcp 연결이 안 될때](http://javacan.tistory.com/entry/Chakramax-Virtualbox-GuestOS-network-problem)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
+* Wallpaper
+  * [Get or set the desktop wallpaper](https://github.com/sindresorhus/wallpaper)
+  * [FreshBackMac](http://macnews.tistory.com/4265)
+  * [Irvue](http://macnews.tistory.com/3456)
+  * [Wallpaper by Behance](http://macnews.tistory.com/2542)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
