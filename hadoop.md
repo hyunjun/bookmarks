@@ -103,6 +103,9 @@ Hadoop
   * Hadoop 3의 YARN에서 Spark를 실행하는 방법 설명
   * Docker를 사용하여 SparkR과 PySpark용 이미지를 빌드하고 Apache Zeppelin을 통해 엑세스하는 방법
 * [Clusters and workloads migration from Hadoop 2 to Hadoop 3](http://www.adaltas.com/en/2018/07/25/clusters-workloads-migration-hadoop-2-to-3/) Dataworks Summit’s 2018에서 Hortonworks 엔지니어들이 발표한 Hadoop2에서 Hadoop3으로 업그레이드하는 방법 요약
+* [First Class GPUs support in Apache Hadoop 3.1, YARN & HDP 3.0](https://ko.hortonworks.com/blog/gpus-support-in-apache-hadoop-3-1-yarn-hdp-3/)
+  * Apache Hadoop 3.1에 GPU 지원 기능 추가
+  * 하둡이 GPU를 감지하고 isolation을 구현하는 방법 등의 내용 소개
 
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)

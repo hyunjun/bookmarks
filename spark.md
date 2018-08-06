@@ -247,6 +247,9 @@
   * Facebook에서 ngram 모델의 traing pipeline을 Apach Hive에서 Apache Spark으로 전환 시도 중
   * 두 가지 솔루션에 대한 설명과 Spark DSL 과 Hive QL의 유연성 비교 및 성능 수치
 * [Hive and Spark Integration Tutorial](https://www.youtube.com/watch?v=Tq_NL2HEdfM)
+* [Working with multiple partition formats within a Hive table with Spark](https://blog.godatadriven.com/multiformat-spark-partition)
+  * Hive는 파티션별로 다른 데이터 형식을 지원, 데이터를 쓰기 최적화된 형식에서 읽기 최적화된 형식으로 변환할 때 사용 가능
+  * Spark에서 멀티 포맷 테이블을 쿼리할 때 실행 계획이 어떻게 동작하는지 내부 동작 방식에 대해 설명
 * [WRITING TO A DATABASE FROM SPARK](http://bigdatums.net/2016/10/16/writing-to-a-database-from-spark/)
 * [Processing Solr data with Apache Spark SQL in IBM IOP 4.3](https://developer.ibm.com/hadoop/2017/03/21/processing-solr-data-apache-spark-sql-ibm-iop-4-3/)
   * Apache Spark을 Apach Solr로 연결하는 방법 소개
