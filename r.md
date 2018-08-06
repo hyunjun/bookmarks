@@ -305,6 +305,7 @@ R
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
   * [R to Python: Data wrangling with dplyr and pandas](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
   * [R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot](https://www.youtube.com/watch?v=ANMuuq502rE)
+  * [chunked - Chunkwise Text-file Processing for 'dplyr'](https://github.com/edwindj/chunked)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
 * [FastRText - R wrapper for Fasttext](https://github.com/pommedeterresautee/FastRText)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)

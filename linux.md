@@ -197,6 +197,8 @@ Linux
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
   * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
+* nohup
+  * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
 * iconv
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
 * `ip` replacement of ifconfig
