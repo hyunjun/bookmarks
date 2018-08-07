@@ -1369,6 +1369,7 @@ Javascript
 * [React에 Component만들기](http://blog.myeongsku.com/17)
 * [React.js MERN CRUD Example](https://github.com/edoko/react-mern-crud-example)
 * [React_Typescript와 Material-ui Framework로 ToDoList 만들기 (Material-ui 사용법)](http://blog.myeongsku.com/27)
+* [가장 현대적인 웹을 만들자 1편 (Node.js, React)](https://medium.com/@kiyeopyang/%EA%B0%80%EC%9E%A5-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%9B%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%9E%90-1%ED%8E%B8-node-js-react-73d8ad4ed9b8)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

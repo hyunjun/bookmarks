@@ -2,6 +2,7 @@ R
 =
 * [R – 체계적 위험 척도 베타 계수 자동 계산](http://www.creativeworksofknowledge.com/2015/04/10/calculating-beta-coefficient-using-r/)
 * [The easiest way to learn R programming and data science](https://www.datacamp.com/)
+* **[mrkevinna.github.io](https://mrkevinna.github.io/)** crawler, 시각화, 기계학습, 분류모형, ...
 * [김형준](http://soeque1.github.io/r_slide/)
 * [pubdata.tistory.com/category/Lecture_R](http://pubdata.tistory.com/category/Lecture_R)
 * [SAS vs. R (vs. Python) – which tool should I learn?](http://www.analyticsvidhya.com/blog/2014/03/sas-vs-vs-python-tool-learn/)
@@ -226,9 +227,6 @@ R
 * [변동계수의 개념과 R에서의 실습](https://lovetoken.github.io/r/2018/01/14/CV.html) 변동계수(coefficient of variation, C.V)
 * [Coefficient of Determination (R-squared) Explained](https://towardsdatascience.com/coefficient-of-determination-r-squared-explained-db32700d924e)
 * [xwMOOC 데이터 과학](https://statkclee.github.io/viz/viz-calendar.html)
-* R Crawler
-  * [1 Get 함수로 수집하기](https://mrkevinna.github.io/R-Crawler1-GET-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0/)
-  * [2 Post 함수로 수집하기](https://mrkevinna.github.io/R-Crawler2-POST-%ED%95%A8%EC%88%98%EB%A1%9C-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0/)
 * [R에서 Benchmarking 패키지를 이용한 자료포락분석(Data Envelopment Analysis) 이용하기](https://lovetoken.github.io/r/2018/01/22/EDA.html)
 * [Response Modeling using Machine Learning Techniques in R](https://www.datasciencecentral.com/profiles/blogs/response-modeling-using-machine-learning-techniques-in-r)
 * [Advanced R (1): Fast R & Table 만들기](https://jinseob2kim.github.io/radv1.html)

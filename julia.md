@@ -1,6 +1,7 @@
 Julia
 =====
 * [juliakorea.github.io](https://juliakorea.github.io/)
+* [youtube.com/user/JuliaLanguage](https://www.youtube.com/user/JuliaLanguage/)
 * [juliakorea](https://github.com/juliakorea)
   * [시작하기](https://juliakorea.github.io/latest/manual/getting-started.html)
   * [julia documents for Korean](https://github.com/juliakorea/doc)
