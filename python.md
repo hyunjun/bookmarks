@@ -634,6 +634,7 @@ Python
   * [Printing Lists as Tabular Data](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
   * [\[{...}\] * 10 주의점](http://mcchae.egloos.com/11290417)
   * [Python: copying a list the right way](http://henry.precheur.org/python/copy_list)
+  * [Python 의 Filter / Map / Reduce 그리고 Comprehension](http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html)
 * [logging](https://docs.python.org/3/howto/logging.html)
   * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
@@ -1327,6 +1328,7 @@ Python
 * [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
 * [HTTP Methods in Flask](https://urangurang.github.io/translation/Flask-methods/)
 * [Flask-Login 예제](https://github.com/mcchae/Flask-Login)
+* [Login authentication with Flask](https://pythonspot.com/login-authentication-with-flask/)
 * [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
 * [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
 * [flask - json_encoder 지정하기](https://ash84.net/2017/06/16/flask-json-encoder/)
@@ -1364,6 +1366,7 @@ Python
 * [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)
 * [flask-babel 로 다국어 대응하기](http://ash84.net/2017/10/27/flask-babel-example/)
 * [Flask-Cache](https://pythonhosted.org/Flask-Cache/)
+* [Flask-Login](https://flask-login.readthedocs.io)
 * [Flask-MongoEngine - a Flask extension that provides integration with MongoEngine](https://github.com/MongoEngine/flask-mongoengine)
 * [Flask-Potion is a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org/](https://github.com/biosustain/potion)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
@@ -1580,6 +1583,7 @@ Python
 * [IPython & Jupyter in depth: high productivity interactive and parallel python PyCon 2015](https://www.youtube.com/watch?v=05fA_DXgW-Y)
 * **[Boost Your Jupyter Notebook Productivity](https://towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad)**
 * [jupyter server 보안 설정하기](http://blog.greennuri.info/?p=182)
+* [A very simple demo of interactive controls on Jupyter notebook](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능

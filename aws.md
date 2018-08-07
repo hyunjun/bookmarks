@@ -242,6 +242,8 @@ AWS
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
 * [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
+* **[하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기](https://todait.github.io/image-resizing-service)** zappa, flask, wand
+* [Lambda 한개로 만드는 On-demand Image Resizing](https://engineering.huiseoul.com/lambda-%ED%95%9C%EA%B0%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-on-demand-image-resizing-d48167cc1c31)
 * [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/ko/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
   * [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [AWS Summit Seoul 2016 - AWS 실시간 분석 서비스 삼총사를 활용한 초간단 분석 플랫폼 구성하기 (정민영 CTO, 비트패킹컴퍼니)](https://www.youtube.com/watch?v=ATrUK00jUBk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld&index=7)
@@ -292,7 +294,6 @@ AWS
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 * [I wanted freeCodeCamp Toronto’s Twitter to tweet quotes, so I made a free bot to do it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4)
-* **[하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기](https://todait.github.io/image-resizing-service)** zappa, flask, wand
 * [람다, 서버리스의 첫걸음](http://jybaek.tistory.com/747)
 * [람다, 모르고 쓰면 병이다](http://jybaek.tistory.com/749)
 * [Using GraalVM to run Native Java in AWS Lambda with Golang](https://engineering.opsgenie.com/run-native-java-using-graalvm-in-aws-lambda-with-golang-ba86e27930bf)

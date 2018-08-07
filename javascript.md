@@ -1636,3 +1636,5 @@ Javascript
 * [NAVER Tech Talk: FE devtalk 11회 (2018년 4월)](https://d2.naver.com/news/6104477)
 * [Vue.js: the good, the meh, and the ugly](https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684) Prometheus, PostgreSQL + TimescaleDB, and Grafana for storing
 * [Securing MEVN Stack (Vue.js 2) Web Application using Passport](https://www.djamware.com/post/5ac8338780aca714d19d5b9e/securing-mevn-stack-vuejs-2-web-application-using-passport)
+* [Vue.js로 간단한 페이징 구현](http://pewww.tistory.com/5)
+* [Vue Tables 2](https://github.com/matfish2/vue-tables-2)

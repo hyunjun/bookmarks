@@ -176,6 +176,7 @@ Java
 * [Java Thread States and Life Cycle](https://www.uml-diagrams.org/java-thread-uml-state-machine-diagram-example.html)
 * [Snippets About Concurrency](https://hackernoon.com/a-sad-story-about-concurrency-346990a9a3fe)
 * [스레드 안정성](https://astrod.github.io/book/2018/08/01/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%95%88%EC%A0%95%EC%84%B1/)
+* [객체 공유](https://astrod.github.io/book/2018/08/07/%EC%9E%90%EB%B0%94-%EB%B3%91%EB%A0%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B0%9D%EC%B2%B4-%EA%B3%B5%EC%9C%A0/)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
@@ -506,6 +507,7 @@ Java
     * [6 - 쓰레드 스케줄링](http://javacan.tistory.com/entry/Reactor-Start-6-Thread-Scheduling)
     * [7 - 병렬 실행](http://javacan.tistory.com/entry/Reactor-Start-7-Parallel)
     * [8 - 모으기(aggregation)](http://javacan.tistory.com/entry/Reactor-Start-8-Aggregation)
+    * [9 - 묶어서 처리하기(window buffer)](http://javacan.tistory.com/entry/Reactor-Start-9-window-buffer)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)

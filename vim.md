@@ -90,7 +90,7 @@ Vim
 * [A Simpler Vim Statusline](http://www.blaenkdenum.com/posts/a-simpler-vim-statusline/)
 * [Vim and Composability](http://ferd.ca/vim-and-composability.html)
 * [Vim: convenient code navigation for your projects](http://dmitryfrank.com/articles/vim_project_code_navigation)
-* [How do I edit current shell command in VI](http://apple.stackexchange.com/questions/88515/how-do-i-edit-current-shell-command-in-vi
+* [How do I edit current shell command in VI](http://apple.stackexchange.com/questions/88515/how-do-i-edit-current-shell-command-in-vi)
   * `set -o vi` - `esc` - `v`
 * [What's your best Vim related shell script?](https://www.reddit.com/r/vim/comments/3oo156/whats_your_best_vim_related_shell_script/)
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
@@ -118,6 +118,7 @@ Vim
 * [모든 앱에서 Vim을 사용하는 법 - QuickCursorKM과 vim-anywhere](https://nolboo.kim/blog/2018/02/17/vim-anywhere/)
 * [Indenting Python with VIM](http://henry.precheur.org/vim/python.html)
 * [You don’t need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
+* **[All I do is VIM VIM VIM](http://engineering.pivotal.io/post/all-i-do-is-vim/)**
 
 # Library
 * [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)

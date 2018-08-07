@@ -96,6 +96,7 @@ Programming Books
 * [AWS Lambda 인 액션](http://jpub.tistory.com/749)
   * 2018.01
   * 한라 004.588 포86ㅇ
+* (NOT YET) [아마존 웹 서비스 인 액션](https://medium.com/@need4spd/%EC%B1%85-%EB%A6%AC%EB%B7%B0-amazon-web-service-in-action-9e5d81b184ad)
 
 # Android
 
