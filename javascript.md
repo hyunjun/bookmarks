@@ -845,6 +845,7 @@ Javascript
   * [The best way to architect your Redux app](https://medium.freecodecamp.org/the-best-way-to-architect-your-redux-app-ad9bd16c8e2d)
   * [React + Redux example: counter](https://github.com/edoko/react-redux-counter-example)
   * [React.js + Redux CRUD EXAMPLE](https://github.com/edoko/react-redux-crud-example)
+  * [Redux - ImmutableJS 없이 사용하기](https://coinbine.com/post/156)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy/](https://github.com/ritzyed/ritzy)
@@ -1076,6 +1077,7 @@ Javascript
   * [mysql-live-select](https://github.com/numtel/mysql-live-select)
 * [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9)
 * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
+* [Node에서의 this](https://www.zerocho.com/category/NodeJS/post/5b67e8607bbbd3001b43fd7b)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1553,6 +1555,7 @@ Javascript
   * [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
   * [JavaScript vs. TypeScript vs.  ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
+* [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

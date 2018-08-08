@@ -1758,6 +1758,7 @@ Python
 * curses
   * [Python 3.x curses 라이브러리에서 한글 출력 - Windows 10](http://greentec.egloos.com/4433188)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
+  * [파이썬에서 오라클 사용하기(맥OS)](https://jungwoon.github.io/google%20cloud/2018/08/08/Python-Oracle-Mac/)
 * [cython](http://cython.org)
   * [cython](https://github.com/cython)
   * [Speeding up non-vectorizable code with Cython](http://isaacslavitt.com/2015/08/08/speeding-up-with-cython/)

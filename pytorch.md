@@ -12,6 +12,7 @@ PyTorch
   * [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)
 * [Awesome-pytorch-list - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc.](https://github.com/bharathgs/Awesome-pytorch-list)
 * [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
+* [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse)
 * [Understand PyTorch code in 10 minutes](https://hsaghir.github.io/data_science/pytorch_starter/)
   * PyTorch는 4 가지 주요 패키지로 구성
   * torch : Numpy와 비슷한 범용 배열 라이브러리로서, 텐서 유형이 (torch.cuda.TensorFloat)로 변환될 때 GPU에서 계산을 수행 가능

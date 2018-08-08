@@ -162,6 +162,7 @@ Programming
 * [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
 * **[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)**
 * [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
+* [번역 OpenSSH의 기본 키 암호화는 평문보다 못합니다](https://tech.ssut.me/2018/08/07/the-default-openssh-key-encryption-is-worse-than-plaintext/)
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**

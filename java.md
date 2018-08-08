@@ -508,6 +508,7 @@ Java
     * [7 - 병렬 실행](http://javacan.tistory.com/entry/Reactor-Start-7-Parallel)
     * [8 - 모으기(aggregation)](http://javacan.tistory.com/entry/Reactor-Start-8-Aggregation)
     * [9 - 묶어서 처리하기(window buffer)](http://javacan.tistory.com/entry/Reactor-Start-9-window-buffer)
+    * [10 - 로깅, 체크포인트](http://javacan.tistory.com/entry/Reactor-Start-10-logging-checkpoint)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)

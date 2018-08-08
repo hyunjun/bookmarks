@@ -4,7 +4,9 @@ Sports
 * [카누와 카약, 어떻게 다르고 어디서 탈 수 있을까?](http://www.huffingtonpost.kr/2015/05/08/story_n_7238964.html)
 * [The Science of NFL Football: Vectors](http://www.nsf.gov/news/special_reports/football/vectors.jsp)
 * [“도핑을 위한 변명: 도핑은 윤리적으로 비난 받을 문제가 아니다”](http://newspeppermint.com/2015/09/23/doping/)
-* [냉전이 부풀린 '근육 만들기'..결과는 '테스토스테론 남용'](https://news.v.daum.net/v/20180702151631077)
+* [약물의 유혹, 도핑의 과학](https://media.daum.net/series/1817)
+  * [냉전이 부풀린 '근육 만들기'..결과는 '테스토스테론 남용'](https://news.v.daum.net/v/20180702151631077)
+  * [여자를 남자로 만든 '남성화 호르몬'..옛동독의 도핑범죄](https://news.v.daum.net/v/20180808103607417)
 * [발표 1: 스포츠에 관한 인지과학적 이해 - 동물적 감각은 어디에서 오는가](https://www.youtube.com/watch?v=evyW_ugzD7A)
 * [김인범의 Sports Paradox 15화 - Sports, IoT와 BigData를 더하다](http://blog.skcc.com/m/2498)
 
