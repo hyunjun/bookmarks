@@ -209,6 +209,8 @@ Apache
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
 * [Kafka - kafka-console-consumer](https://gerardnico.com/wiki/dit/kafka/kafka-console-consumer)
 * [KAFKA TUTORIAL: USING KAFKA FROM THE COMMAND LINE](http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html)
+* [Kafka Tutorial - Quick Start Demo](https://www.youtube.com/watch?v=6AYNxdKQ_0o)
+* [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [Kafka frequent commands](https://gist.github.com/vkroz/05136cefdbb4fa61296993db17e1ae3f)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 * [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)

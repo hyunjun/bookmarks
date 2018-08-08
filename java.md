@@ -461,6 +461,7 @@ Java
 * [Reactive Streams](http://www.reactive-streams.org/)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
+* [Siddhi - a java library that listens to events from data streams, detects complex conditions described via a Streaming SQL language, and triggers actions. It performs both Stream Processing and Complex Event Processing](https://github.com/wso2/siddhi)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * Spring
   * [스프링이 도대체 뭐란 말인가?](http://springmvc.egloos.com/487497)
