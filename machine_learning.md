@@ -791,6 +791,7 @@ Machine Learning
 * [파이썬으로 머신러닝 배우기 (2/3)](https://www.youtube.com/watch?v=6ktX-PoMj5U)
 * [파이썬으로 머신러닝 배우기 (3/3)](https://www.youtube.com/watch?v=BUmAlJUOmKo)
 * [TEAMLAB X Inflearn | 파이썬 머신러닝 입문 강좌](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
+* [100 Days Of ML Code](https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/README.md)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

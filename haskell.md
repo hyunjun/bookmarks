@@ -147,6 +147,7 @@ Haskell
 * [5 Years of Haskell in Production](https://www.youtube.com/watch?v=hZgW4mT1PkE)
 * [Haskell 초급 예제 — todo](https://medium.com/@jooyunghan/haskell-%EC%B4%88%EA%B8%89-%EC%98%88%EC%A0%9C-todo-7faf85d45dea)
 * [Haskell #1 (Introduction)](https://medium.com/@goinhacker/haskell-study-1-db0a9d9ac318)
+* ["Building Secure Systems in Haskell" by Deian Stefan](https://www.youtube.com/watch?v=jX-zsoPWah0)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)

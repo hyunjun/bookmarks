@@ -343,6 +343,7 @@ Apache
 		* 한 가지 옵션은 스키마를 레코드 자체와 함께 저장하고 전송. 이 방법은 스키마를 한 번만 저장했다가 다수의 레코드에 사용하는 경우 가능. 카프카 레코드마다 모두 스키마를 하나씩 저장하려면 스토리지 공간과 네트워크 활용도 면에서 중대한 오버헤드 추가
 		* 또 한 가지 옵션은 미리 합의한 식별자 스키마 매핑 세트를 정하여 스키마를 레코드 내에 존재하는 각각의 식별자로 참조
 * [Interview with Jay Kreps about Apache Kafka](https://notamonadtutorial.com/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca)
+* [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
@@ -406,6 +407,8 @@ Apache
   * Netflix가 직면한 도전 과제와 그것에 따라 구현된 전략에 대해서도 설명
 * [Of Streams and Tables in Kafka and Stream Processing, Part 1](http://www.michael-noll.com/blog/2018/04/05/of-stream-and-tables-in-kafka-and-stream-processing-part1/) 스트림과 테이블에 대한 개념을 설명
 * [Kafka streams Java application to aggregate messages using a session window](http://ericlondon.com/2018/07/26/kafka-streams-java-application-to-aggregate-messages-using-a-session-window.html) Java Kafka stream 기초 예제
+* [Neha Narkhede | Kafka Summit 2017 Keynote (Go Against the Flow: Databases and Stream Processing)](https://www.youtube.com/watch?v=F3pJOg1uErQ) KSQL demo
+* [Neha Narkhede | Kafka Summit 2018 Keynote (The Present and Future of the Streaming Platform) London](https://www.youtube.com/watch?v=eublKlalobg)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

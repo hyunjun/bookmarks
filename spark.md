@@ -691,6 +691,7 @@
 * [Internals of Spark Streaming](http://bytecontinnum.com/ioss/)
 * [Why is My Stream Processing Job Slow?](https://databricks.com/session/why-is-my-stream-processing-job-slow)
 * [How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming](https://medium.com/walmartlabs/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3) 월마트 랩에서 Apache Kafka, Spark Streaming/Batch로 Lambda 아키텍처를 구현하기 위해 구축된 A/B 테스트 플랫폼 소개
+* [Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
 * [Introduction to Spark Structured Streaming - Part 15: Meetup Talk on Time and Window API](http://blog.madhukaraphatak.com/introduction-to-spark-structured-streaming-part-15/)
 * **[Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html)** Apache Spark, Storm, Flink, Samze를 비교 분석
 
