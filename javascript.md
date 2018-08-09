@@ -1419,6 +1419,7 @@ Javascript
 * [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
 * [React Native 아키텍쳐에 대한 이해](https://github.com/nhnent/fe.javascript/wiki/April-9---April-13,-2018)
 * [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
+* [Building a Mobile App in 10 Days with React Native](https://medium.com/@austinhale/building-a-mobile-app-in-10-days-with-react-native-c2a7a524c6b4)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)

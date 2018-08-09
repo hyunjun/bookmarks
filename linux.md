@@ -194,6 +194,7 @@ Linux
   * `find . -type d -exec zip -r {}.zip {} \;` 현재 directory의 sub directory들을 찾아 각각의 이름으로 압축
   * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
 * `grep`
+  * `grep: Binary file <some file> matches` > `grep [-a|--text] <some file>`
   * `grep '^[A-Z_]\+[   ]\+[0-9]\+' [file name]` 파일에서 영어 대문자와 \_(underscore)로 시작하고 중간에 스페이스, 탭으로 이뤄진 공백이 있고 숫자로만 끝나는 line 찾기
   * [Capturing Groups From a Grep RegEx](http://stackoverflow.com/questions/1891797/capturing-groups-from-a-grep-regex)
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상

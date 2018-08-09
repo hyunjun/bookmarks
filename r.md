@@ -305,6 +305,7 @@ R
   * [R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot](https://www.youtube.com/watch?v=ANMuuq502rE)
   * [chunked - Chunkwise Text-file Processing for 'dplyr'](https://github.com/edwindj/chunked)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
+* [Gifski on CRAN: the fastest GIF encoder in the universe](https://ropensci.org/technotes/2018/07/23/gifski-release/)
 * [FastRText - R wrapper for Fasttext](https://github.com/pommedeterresautee/FastRText)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [fst - Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst)
