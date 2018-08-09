@@ -189,6 +189,9 @@ Programming Books
   * [데이터 분석을 위한 SQL 레시피](http://jybaek.tistory.com/742)
   * PostgreSQL, Apache Hive, Amazon Redshift, Google BigQuery, SparkSQL에 적용가능한 중급 이상의 SQL
 * (NOT YET) [DBA를 위한 MySQL 운영 기술 모니터링, 백업/복구, 이중화, 도구와 기법](http://wikibook.co.kr/mysql-for-dba/)
+* 관계형 데이터베이스 실전 입문
+  * 한라 005.7533오876ㄱ
+  * 이론서이나 그래프 저장, 캐시, 스케일 아웃 등에 대한 이야기가 있어 참고할만 함
 
 # Data Science
 
@@ -279,8 +282,9 @@ Programming Books
 * **[애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)**
   * 탐라 문 005.74저219ㅇ
   * 굉장히 많은 내용을 담고 있으며, 특히 airflow를 책에서 다루는 건 처음 본 듯
-* (NOT YET) [파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)
+* **[파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)**
   * 한라 005.133-민94ㅍ
+  * 완전히 실무서적. 참고할 만한 예가 많아서 좋음. 예제도 jupyter로 진행
 * (NOT YET) [링크드 데이터](http://book.daum.net/detail/book.do?bookid=KOR9791195072644)
   * 한라 005.118-우27ㄹ
 * (NOT YET) 소셜 웹 마이닝 : 페이스북, 트위터, 링크드인 등의 소셜 미디어 데이터 분석하기
@@ -969,7 +973,7 @@ Programming Books
 * **[파이썬답게 코딩하기](http://bjpublic.tistory.com/302)**
   * 한라 005.133심14ㅍ
   * multithreading, multiprocessing, async
-* 파이썬 Jupyter Notebook 실전 입문
+* **파이썬 Jupyter Notebook 실전 입문**
   * 2018.06
   * 탐라 문005.133이823ㅍ
   * [서평 "파이썬 Jupyter Notebook 실전입문"을 읽고](http://gregor77.tistory.com/entry/%EC%84%9C%ED%8F%89-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Jupyter-Notebook-%EC%8B%A4%EC%A0%84%EC%9E%85%EB%AC%B8%EC%9D%84-%EC%9D%BD%EA%B3%A0)
