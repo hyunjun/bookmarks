@@ -66,6 +66,7 @@ Deep Learning
 * [A Primer on Deep Learning](https://opendatascience.com/blog/change-a-primer-on-deep-learning/)
 * [Building Safe A.I.  A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai)
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
+* [Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning)
 * **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 * [DeepLearning-Summary](https://github.com/taki0112/Awesome-DeepLearning-Study)
@@ -1914,6 +1915,7 @@ CVPR2016)
 * [Reinforcement Learning for Stock Prediction](https://www.youtube.com/watch?v=05NqKJ0v7EE)
 * [분산 강화학습(Distributed Prioritized Experience Replay) 구현](https://www.slideshare.net/ssuser163469/distributed-prioritized-experience-replay)
 * [Deep Reinforcement Learning Tutorial](https://github.com/awjuliani/oreilly-rl-tutorial)
+* [Safe Reinforcement Learning](https://www.slideshare.net/DongMinLee32/safe-reinforcement-learning)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

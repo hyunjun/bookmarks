@@ -187,6 +187,7 @@ Git
   * [git commit 메시지에 #이슈번호 형태로 쓰기](http://www.popit.kr/tip-git-commit-%EB%A9%94%EC%8B%9C%EC%A7%80%EC%97%90-%EC%9D%B4%EC%8A%88%EB%B2%88%ED%98%B8-%ED%98%95%ED%83%9C%EB%A1%9C-%EC%93%B0%EA%B8%B0/)
   * [prepare-commit-msg 깃훅으로 커밋 메시지에 이슈 번호 넣기](http://ohgyun.com/746)
   * [Git 커밋 상태를 확인하기 위한 쉘 스크립트](https://rhostem.github.io/posts/2018-06-12-shellscript-to-check-commit/)
+  * [Changing a commit message](https://help.github.com/articles/changing-a-commit-message/)
 * `config`
   * basics
 

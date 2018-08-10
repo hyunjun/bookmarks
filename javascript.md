@@ -1420,6 +1420,7 @@ Javascript
 * [React Native 아키텍쳐에 대한 이해](https://github.com/nhnent/fe.javascript/wiki/April-9---April-13,-2018)
 * [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
 * [Building a Mobile App in 10 Days with React Native](https://medium.com/@austinhale/building-a-mobile-app-in-10-days-with-react-native-c2a7a524c6b4)
+* [리액트네이티브에서 타입스크립트 사용하기(2018)](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%EC%97%90%EC%84%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2018-2ea78fe8f553)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)

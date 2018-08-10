@@ -1355,7 +1355,9 @@ Python
 * [Flask 1.0 Changelog 우리말 번역](http://blog.sinwoobang.me/post/173349285532/flask-10-changelog-%EC%9A%B0%EB%A6%AC%EB%A7%90-%EB%B2%88%EC%97%AD)
 * [Flask 1.0에서 달라진 점](https://winterj.me/flask-release/)
 * [FLASK vs DJANGO](https://www.youtube.com/watch?v=KnbAUplWXC0)
-* [기술블로그 구독서비스 개발 후기 - 1부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-1%EB%B6%80/)
+* 기술블로그 구독서비스 개발 후기
+  * [1부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-1%EB%B6%80/)
+  * [2부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-2%EB%B6%80/)
 
 ## Library
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)

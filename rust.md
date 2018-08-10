@@ -97,6 +97,7 @@
 * [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q)
 * [Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)
 * [Rust + Node.js are awesome!](https://itnext.io/rust-node-js-are-awesome-a50d63411773)
+* [\_는 bind하지 않는다](https://blog.seulgi.kim/2018/08/rust--ownership.html)
 
 # Library
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
