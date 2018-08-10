@@ -503,6 +503,8 @@ Programming Books
 * 일래스틱서치 모니터링 - 정제된 커뮤니티의 경험
   * 한라 004.584 노47ㅇ
   * 2.3.2 기준
+* **일래스틱 스택6 입문**
+  * 한라005.74슈877ㅇ
 
 # Finance
 
@@ -608,8 +610,10 @@ Programming Books
 * (NOT YET) 대규모 서비스를 지탱하는 기술 웹 개발자를 위한, 데이터 구조 메모리 OS DB 서버 인프라
 * Chef Solo 입문 : 인프라스트럭처 자동화 프레임워크
   * 한라 004.79-이885ㅅ
-* (NOT YET) [개발자도 궁금한 IT 인프라](http://jpub.tistory.com/806)
-  * 2018.07 한라
+* [개발자도 궁금한 IT 인프라](http://jpub.tistory.com/806)
+  * 2018.07
+  * 한라 004.2정55ㄱ
+  * 내용은 좋아 보이는데, 팟캐스트를 그대로 옮겨놓은 듯한 느낌이라 읽기가 편하지는 않다
 
 # Interview
 
@@ -681,8 +685,9 @@ Programming Books
 * (NOT YET) [자바 람다 배우기](http://www.acornpub.co.kr/book/java-lambdas)
   * 한라 005.133-웨57ㅈ
 * (NOT YET) [가장 빨리 만나는 코어 자바 9](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=138397162)
-* (NOT YET) [자바 프로젝트 필수 유틸리티](https://brunch.co.kr/@insuk/41)
-  * 2018.07 한라
+* [자바 프로젝트 필수 유틸리티](https://brunch.co.kr/@insuk/41)
+  * 2018.07
+  * 한라 005.135쇼22ㅈ
   * [자바 프로젝트 필수 유틸리티](http://www.hanbit.co.kr/store/books/look.php?p_code=B8716214772)
 * (NOT YET) 클라우드 네이티브 자바 스프링 마이크로서비스 아키텍처와 데브옵스를 실천하는 클라우드 기반 서비스의 모든 것
 * (NOT YET) 자바로 배우는 핵심 자료구조와 알고리즘
@@ -715,8 +720,9 @@ Programming Books
   * 2018.02 한라
 * (NOT YET) [러닝 리액트](http://greentec.egloos.com/4437451)
 * [Vue.js 개발자를 위한 ES6 입문서(무료)](https://joshua1988.github.io/es6-online-book/) ebook
-* (NOT YET) [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
-  * 2018.07 한라
+* [누구나 쉽게 배우는 챗봇 서비스](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=151346241)
+  * 2018.07
+  * 한라 004.73박14ㅊ
 * (NOT YET) [리액트를 다루는 기술](https://velopert.com/3697)
 * (NOT YET) 리액트 교과]
   * 한라 005.118-마297ㄹ
@@ -1106,8 +1112,9 @@ Programming Books
 * [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798)
   * 한라 005.74멘24ㅎ
   * 기본적인 소개에 그치는 듯. 다른 책을 보고 나서 필요하면 봐도 될 듯
-* (NOT YET) [스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)
-  * 2018.07 한라
+* **[스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)**
+  * 2018.07
+  * 한라 005.76제83ㅅ
 * **[하이 퍼포먼스 스파크](http://jpub.tistory.com/800)**
   * 한라 005.74카295ㅎ
   * 최신 내용에 대해 자세히 설명. spark 코드를 위해 필수. 2.2.1, 2.3.0에서 테스트했다고 함
