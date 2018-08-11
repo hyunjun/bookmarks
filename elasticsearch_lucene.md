@@ -282,6 +282,7 @@ ElasticSearch - Lucene
 * [Elasticsearch 에서 Mapping 의 중요성을 느끼다](http://blog.leekyoungil.com/?p=434)
 * [6.3 설치 변경 내용](http://jjeong.tistory.com/1333)
 * [6.1.1 elasticsearch 설치 및 환경 설정](https://blog.naver.com/naran290/221307943343)
+* [Elastic 6.3 에서 상용 라이센스 활성](http://kimjmin.net/2018/08/2018-08-install-security-over-es63/)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)

@@ -157,6 +157,7 @@ Keras
 
 # Library
 * [Auto-Keras - an open source software library for automated machine learning (AutoML)](https://github.com/jhfjhfj1/autokeras)
+  * [Auto-Keras, or How You can Create a Deep Learning Model in 4 Lines of Code](https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e)
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)

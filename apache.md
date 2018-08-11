@@ -342,6 +342,23 @@ Apache
 		* 아브로는 비교적 컴팩트한 출력 데이터를 생성하는 고속 직렬화 프레임워크. 하지만 아브로 레코드를 읽으려면 데이터를 직렬화하는 데 사용한 스키마 필요
 		* 한 가지 옵션은 스키마를 레코드 자체와 함께 저장하고 전송. 이 방법은 스키마를 한 번만 저장했다가 다수의 레코드에 사용하는 경우 가능. 카프카 레코드마다 모두 스키마를 하나씩 저장하려면 스토리지 공간과 네트워크 활용도 면에서 중대한 오버헤드 추가
 		* 또 한 가지 옵션은 미리 합의한 식별자 스키마 매핑 세트를 정하여 스키마를 레코드 내에 존재하는 각각의 식별자로 참조
+* [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 2](http://blog.cloudera.com/blog/2018/07/robust-message-serialization-in-apache-kafka-using-apache-avro-part-2/)
+  * 스키마 저장소 구현; 저장소로서 Apache Kafka와 함께 작동하는 스키마 공급자 구현
+  * 인 메모리 SchemaStore
+    * 먼저 스키마를 위한 인 메모리 저장소 구현 가능. 이는 이러한 저장소 및 Kafa지원 저장소 캐시 요건을 이해하는 데 유용. SchemaStore는 VersionedSchema 항목 검색이 신속해야 하기 때문에, 각 검색 방법을 지원하기 위해 별도의 맵을 작성. ConcurrentHashMap을 사용하면 잠김 없이 복수의 스레드로부터 이들 맵에 접근 가능
+  * Kafka Topic에서/으로 쓰기 및 읽기 
+    * Kafka 기반 SchemaProvider의 나머지 반은 Kafka와 모든 커뮤니케이션을 수행할 수 있는 클래스. 이것은 스키마 컨셉에 묶일 필요가 없어 제네릭 코드로도 가능. 시작 시 모든 스키마를 읽고 새로운 스키마를 위해 계속 폴링하도록 하기 위해 다음과 같이 소비자를 설정
+    * enable.auto.commit =false, 시작시 모든 스키마를 다시 읽기 때문
+    * 우연히 group.id가 같은 다른 소비자와 메시지를 공유하지 않도록 모든 파티션을 해당 소비자에 수동으로 할당
+    * 읽기 전 가장 오래된 메시지 검색
+    * 최신 기록을 읽어 들일 때까지 폴링한 후 스키마 공급자 사용을 허용
+    * 새로운 스키마를 받기 위해 백그라운드 스레드에서 폴링 지속
+  * 한 가지 중요한 문제는 스키마 식별자 생성
+    * Kafka에는 RDBMS와 같은 시퀀스 개체가 없기 때문에, 추가하는 스키마마다 고유한 정수 필요. 이에 대한 한 가지 간단한 해결 방법은 다음으로 사용 가능한 양(+)의 정수를 검색. 이 경우, 두 명의 관리자가 동일한 식별자로 거의 동시에 스키마를 추가하지 못하도록 막기는 불가능. 이를 막기 위해서 다음과 같이 진행
+    * 단일 파티션이 있는 Kafka Topic을 시퀀스로 사용. 단일 메시지를 생성하고 그 오프셋을 사용
+    * ZooKeeper 임시 노드를 사용하여 “잠급니다.”
+    * 스키마를 추가하는 서비스 도입. 이 애플리케이션은 메모리를 잠그는 게 가능
+    * 소수만 접근할 수 있는 주체에 스키마를 저장한 토픽으로 쓰기를 허용하며 책임을 위임
 * [Interview with Jay Kreps about Apache Kafka](https://notamonadtutorial.com/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca)
 * [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)
 

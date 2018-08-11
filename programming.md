@@ -190,6 +190,10 @@ Programming
   * [(3) – 다른 팀 소스 코드를 볼 수 있는가?](http://channy.creation.net/blog/1110)
   * [(4) – 사내 라이브러리를 잘 관리하려면?](http://channy.creation.net/blog/1183)
   * [(5) – 소통 비용의 절약: 서로 API로 말하자](http://channy.creation.net/blog/1199)
+* 쉽게 알아보는 서버 인증
+  * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
+  * [2편(Access Token + Refresh Token)](http://tansfil.tistory.com/59)
+  * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)

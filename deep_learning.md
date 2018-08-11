@@ -1916,6 +1916,7 @@ CVPR2016)
 * [분산 강화학습(Distributed Prioritized Experience Replay) 구현](https://www.slideshare.net/ssuser163469/distributed-prioritized-experience-replay)
 * [Deep Reinforcement Learning Tutorial](https://github.com/awjuliani/oreilly-rl-tutorial)
 * [Safe Reinforcement Learning](https://www.slideshare.net/DongMinLee32/safe-reinforcement-learning)
+* [Reinforcement Learning - A Simple Python Example and a Step Closer to AI with Assisted Q-Learning](https://amunategui.github.io/reinforcement-learning/index.html)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
