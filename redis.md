@@ -69,6 +69,7 @@ Redis
 * [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
 * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
 * [Redis Use Patterns: An Introduction to the SQL Practitioner](https://www.youtube.com/watch?v=8Unaug_vmFI)
+* [Amazon ElastiCache(Redis)를 이용한 채팅 애플리케이션 구성 방법](https://aws.amazon.com/ko/blogs/korea/how-to-build-a-chat-application-with-amazon-elasticache-for-redis)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)

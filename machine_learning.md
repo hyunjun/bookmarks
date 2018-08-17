@@ -935,9 +935,17 @@ Machine Learning
 * [Facebook AI Research Sequence-to-Sequence Toolkit](https://github.com/facebookresearch/fairseq)
 
 # Transfer Learning
-* [Transfer Learning - Machine Learning's Next Frontie](http://sebastianruder.com/transfer-learning/)
+* [Transfer Learning - Machine Learning's Next Frontier](http://ruder.io/transfer-learning/index.html)
+* [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/)
 * [Paper is out; Transfer learning for music classification and regression tasks, and behind the scene, negative results, etc.](https://keunwoochoi.wordpress.com/2017/03/28/paper-is-out-transfer-learning-for-music-classification-and-regression-tasks-and-behind-the-scene-negative-results-etc/)
 * [youtube.com/user/dvbuntu/featured Self-drinving car Transfer Learning Model](https://www.youtube.com/user/dvbuntu/featured)
 * ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
   * [code & data](https://github.com/nealjean/predicting-poverty)
 * [Transfer Learning is the new frontier. TensorFlow might help implement transfer learning](https://theinformationageblog.wordpress.com/2017/04/24/transfer-learning-is-the-new-frontier-tensorflow-might-help-implement-transfer-learning/)
+* [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
+  * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰
+* [TRANSFER LEARNING FOR SOUND CLASSIFICATION](http://tatalab.ca/2017/07/17/transfer-learning-for-sound-classification/)
+* [Inception v3를 활용한 Transfer Learning](http://jsideas.net/python/2017/09/12/Inception_v3_transfer_learning.html)
+* [Transfer Learning using differential learning rates](https://medium.com/@manikantayadunanda/transfer-learning-using-differential-learning-rates-638455797f00)
+* [Taskonomy: Disentangling Task Transfer Learning 리뷰](http://research.sualab.com/machine-learning/computer-vision/2018/08/14/taskonomy-task-transfer-learning.html)
+* [cs231n.github.io/transfer-learning](http://cs231n.github.io/transfer-learning/)

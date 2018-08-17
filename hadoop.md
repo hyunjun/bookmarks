@@ -400,3 +400,4 @@ Hadoop
   * 느린 데이터 노드와 느린 디스크를 감지하기 위해 HDFS에 추가되는 몇 가지 새로운 기능에 대해 소개
 * [YARN – THE CAPACITY SCHEDULER](https://ko.hortonworks.com/blog/yarn-capacity-scheduler/)
 * [YARN FairScheduler Preemption Deep Dive](https://blog.cloudera.com/blog/2018/06/yarn-fairscheduler-preemption-deep-dive/) FairScheduler Preemption의 작동 방식에 대한 기술적인 내용과 이를 구성할 때 고려해야 할 모범 사례
+* [Enforcing application lifetime SLAs on YARN](https://ko.hortonworks.com/blog/enforcing-application-lifetime-slas-yarn/) Hadoop 2.9부터 탑재된 기능, YARN의 capacity scheduler로 응용 프로그램의 수명(lifetime)을 제어하는 방법 설명

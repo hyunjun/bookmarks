@@ -226,6 +226,7 @@ SQL
 * **[장애와 관련된 XtraBackup 적용기](http://woowabros.github.io/experience/2018/05/28/billingjul.html)** mysqldump, mysqlbinlog, XtraBackup
 * [MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/)
 * [Speed Up Your Database 300 Times](https://speakerdeck.com/afilina/speed-up-your-database-300-times)
+* [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
@@ -237,6 +238,12 @@ SQL
 * [Galera Cluster](http://galeracluster.com/)
 * **[Maxwell's daemon, an application that reads MySQL binlogs and writes row updates to Kafka, Kinesis, RabbitMQ, Google Cloud Pub/Sub, or Redis as JSON](http://maxwells-daemon.io/)**
   * [MySQL CDC, Streaming Binary Logs and Asynchronous Triggers](https://www.percona.com/blog/2016/09/13/mysql-cdc-streaming-binary-logs-and-asynchronous-triggers/)
+* [Herb: Multi-DC Replication Engine for Uber’s Schemaless Datastore](https://eng.uber.com/herb-datacenter-replication/)
+  * Uber가 2014년부터 진행했던 프로젝
+  * MySQL로 Schemaless를 구현한 사례, Herb라는 센터간 복제 기술로 고도화 실현
+  * [Designing Schemaless, Uber Engineering’s Scalable Datastore Using MySQL](https://eng.uber.com/schemaless-part-one/)
+  * [The Architecture of Schemaless, Uber Engineering’s Trip Datastore Using MySQL](https://eng.uber.com/schemaless-part-two/)
+  * [Using Triggers On Schemaless, Uber Engineering’s Datastore Using MySQL](https://eng.uber.com/schemaless-part-three/)
 * [mycli - Mycli is a command line interface for MySQL, MariaDB, and Percona with auto-completion and syntax highlighting](http://mycli.net/)
 * [mysos - MySQL on Mesos (moving to the Apache Incubator)](https://github.com/twitter/mysos)
 * [mysql-5.6 - Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks](https://github.com/facebook/mysql-5.6)

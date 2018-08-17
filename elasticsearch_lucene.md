@@ -480,6 +480,7 @@ ElasticSearch - Lucene
   curl -XGET 'http://localhost:9200/_nodes/stats?all=true
   curl -XGET 'http://localhost:9200/_nodes
   ```
+  * [ElasticSearch status 바로 알기](https://brunch.co.kr/@alden/43)
 * [Benchmarking REST client and transport client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client)
 
 # Solr

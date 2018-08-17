@@ -469,6 +469,7 @@ Javascript
   * [번역 Everything you need to know about BabelJS](https://jaeyeophan.github.io/2017/05/16/Everything-about-babel/)
   * [Webpack과 Babel로 최신 JavaScript 웹프론트 개발환경 만들기](https://beomi.github.io/2017/10/18/Setup-Babel-with-webpack/)
   * [BabelJS(바벨)](https://www.zerocho.com/category/EcmaScript/post/57a830cfa1d6971500059d5a)
+	* [VSCode와 Babel Flow 플러그인으로 타입을 헐렁하게 써보자](https://rhostem.github.io/posts/2018-08-11-use-flow-type-loosely/)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
 * [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
@@ -1078,6 +1079,7 @@ Javascript
 * [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9)
 * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
 * [Node에서의 this](https://www.zerocho.com/category/NodeJS/post/5b67e8607bbbd3001b43fd7b)
+* [노드에서 셋 인터벌을 쓸 수 있구나](https://hyeonseok.com/soojung/dev/2018/08/11/839.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1372,6 +1374,7 @@ Javascript
 * [React.js MERN CRUD Example](https://github.com/edoko/react-mern-crud-example)
 * [React_Typescript와 Material-ui Framework로 ToDoList 만들기 (Material-ui 사용법)](http://blog.myeongsku.com/27)
 * [가장 현대적인 웹을 만들자 1편 (Node.js, React)](https://medium.com/@kiyeopyang/%EA%B0%80%EC%9E%A5-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%9B%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%9E%90-1%ED%8E%B8-node-js-react-73d8ad4ed9b8)
+* [React Server Side Rendered Page](https://seokjun.kim/react-server-side-rendered-page/)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1421,6 +1424,7 @@ Javascript
 * [CS50's Mobile App Development with React Native](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
 * [Building a Mobile App in 10 Days with React Native](https://medium.com/@austinhale/building-a-mobile-app-in-10-days-with-react-native-c2a7a524c6b4)
 * [리액트네이티브에서 타입스크립트 사용하기(2018)](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%EC%97%90%EC%84%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2018-2ea78fe8f553)
+* [11 React Native Component Libraries You Should Know in 2018](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
@@ -1558,6 +1562,9 @@ Javascript
   * [JavaScript vs. TypeScript vs.  ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
 * [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
+* [타입스크립트 모노레포](https://blog.bglee.me/posts/2018/typescript-monorepo/)
+* [타입스크립트, 써야할까?](https://hyunseob.github.io/2018/08/12/do-you-need-to-use-ts/)
+* [타입스크립트 — 기본 타입](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-a83401d414d8)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
@@ -1644,3 +1651,5 @@ Javascript
 * [Securing MEVN Stack (Vue.js 2) Web Application using Passport](https://www.djamware.com/post/5ac8338780aca714d19d5b9e/securing-mevn-stack-vuejs-2-web-application-using-passport)
 * [Vue.js로 간단한 페이징 구현](http://pewww.tistory.com/5)
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2)
+* [실무에서 사용하는 Vue.js 프로젝트 구조](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
+* [Evan you on proxies](http://devtimothy.tistory.com/88)

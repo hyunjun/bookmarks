@@ -74,6 +74,7 @@ Time Series
       * 인서트 전용 : 데이터는 거의 단독으로 Insert 전용
       * 최신 : 새 데이터는 일반적으로 최근 시간 간격에 관한 것이므로 이전 간격에 대한 데이터를 업데이트하거나 누락된 데이터를 거의 다시 채우지 않음
   * [It’s About Time For Time Series Databases](https://www.nextplatform.com/2018/01/25/time-time-series-databases/)
+* TSBS [You are what you benchmark: Introducing the Time Series Benchmark Suite (TSBS)](https://blog.timescale.com/time-series-database-benchmarks-timescaledb-influxdb-cassandra-mongodb-bc702b72927e)
 
 # Python
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)

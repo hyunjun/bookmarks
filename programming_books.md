@@ -34,6 +34,9 @@ Programming Books
   * 2018.07 한라
 * (NOT YET) [프로그래밍 언어 도감](http://www.datanet.co.kr/news/articleView.html?idxno=124905)
   * 2018.08 한라
+  * [서평: 프로그래밍 언어도감 ](https://blog.gaerae.com/2018/08/programming-gengo-zukan.html)
+* (NOT YET) [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
+* (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 
 # Agile Scrum
 

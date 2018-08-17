@@ -1722,11 +1722,6 @@ CVPR2016)
   * 또한 데이터가 적은 작업은 다른 작업과의 공동 교육을 통해 큰 효과를 얻는 반면 큰 작업의 성능은 전혀 저하되지 않음
 * [초짜 대학원생 입장에서 이해하는 CVPR 2017 Learning by Association - A versatile semi-supervised training method for neural networks](http://jaejunyoo.blogspot.com/2017/07/learning-by-association-versatile-semi-supervised-training.html)
 * [Tutorial on Theory and Application of Generative Adversarial Networks](https://github.com/mingyuliutw/cvpr2017_gan_tutorial)
-* [Domain Adaptation for Visual Applications: A Comprehensive Survey](https://arxiv.org/abs/1702.05374)
-  * Transfer Learning 의 일종인 Domain Adaptation 에 대한 방대한 리뷰
-* [TRANSFER LEARNING FOR SOUND CLASSIFICATION](http://tatalab.ca/2017/07/17/transfer-learning-for-sound-classification/)
-* [Inception v3를 활용한 Transfer Learning](http://jsideas.net/python/2017/09/12/Inception_v3_transfer_learning.html)
-* [Transfer Learning using differential learning rates](https://medium.com/@manikantayadunanda/transfer-learning-using-differential-learning-rates-638455797f00)
 * [ACL 2017에서 Google 발표 논문](https://www.facebook.com/nextobe1/posts/355787631523905)
 * [Layer Normalization](https://tensorflow.blog/2016/07/)
 * [blog.lunit.io](https://blog.lunit.io/)

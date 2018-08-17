@@ -399,6 +399,7 @@ Linux
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
 * **[direnv -- Unclutter your .profile](https://direnv.net/)**
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
+  * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
 * **[entr - A utility for running arbitrary commands when files change](https://github.com/clibs/entr)**
 * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)

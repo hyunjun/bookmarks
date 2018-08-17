@@ -83,6 +83,7 @@ NLP
 * [Espresso - AIR LAB, Changwon National University](http://air.changwon.ac.kr/~airdemo/Espresso/)
 * [악평생성기 (Bad Comment Generator using RNN) _ 송치성](http://www.slideshare.net/shuraba1/bad-comment-generator-using-rnn)
   * [Bad Comment Generator using RNN](http://nbviewer.jupyter.org/github/daydrill/BadCmtGenerator/blob/master/bad_cmt_generator_code.ipynb)
+* [Introduction to NLP](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
 * [딥엘라스틱 - 검색 + 로봇 저널리즘 + 인지신경언어학 + 딥러닝NLP](http://babelpish.github.io/deep-elastic/)
 * [PHP + MySQL 언어 식별기(Language Detection) 개발기](http://bab2min.tistory.com/503)

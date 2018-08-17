@@ -54,9 +54,6 @@ Java
 * [How does Java Both Optimize Hot Loops and Allow Debugging](http://www.cliffc.org/blog/2015/02/22/how-does-java-both-optimize-hot-loops-and-allow-debugging/)
 * [Java로 트레이 아이콘 등록하기](http://silentsoft.tistory.com/6)
 * [좌충우돌 ORM 개발기 | Devon 2012](http://www.slideshare.net/daumdna/devon-2012-b4-orm)
-* [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
-* [자바 직렬화, 그것이 알고싶다.  훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
-* [자바 직렬화, 그것이 알고싶다.  실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 * [Java로 OTP 구현하기](http://silentsoft.tistory.com/9)
 * [Java로 클래스 간 이벤트 통신하기](http://silentsoft.tistory.com/10)
 * [AES256 암호화 Java 샘플](https://dukeom.wordpress.com/2013/01/08/aes256-%EC%95%94%ED%98%B8%ED%99%94-java-%EC%83%98%ED%94%8C/)
@@ -134,6 +131,7 @@ Java
   * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
 * JDBC
   * [자바가 디비와 사귀기까지 벌어지는 일들](https://www.slideshare.net/hangum/ss-80803201)
+	* [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://woowabros.github.io/tools/2018/08/16/jdbc-log-sql-projectinfo.html)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
 * Object
@@ -415,7 +413,9 @@ Java
     * [3. Beanstalk 연동하기](http://jojoldu.tistory.com/292)
   * [Jenkins에 Github 로그인 연동하기](http://jojoldu.tistory.com/310)
   * [KubeCon 2018 Demo - Jenkins X overview at KubeCon Copenhagen](https://jenkins-x.io/demos/kubecon-2018/)
-* [jEnv is a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
+	* [Kubernetes 클러스터에서 Jenkins X 사용하기](https://blog.outsider.ne.kr/1395)
+* [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
+	* [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
@@ -531,6 +531,8 @@ Java
       * [1. 배치 어플리케이션이란?](http://jojoldu.tistory.com/324)
       * [2. Batch Job 실행해보기](http://jojoldu.tistory.com/325)
       * [3. 메타테이블엿보기](http://jojoldu.tistory.com/326)
+			* [4. Spring Batch Job Flow](http://jojoldu.tistory.com/328)
+      * [5. Spring Batch Scope & Job Parameter](http://jojoldu.tistory.com/330)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
@@ -579,6 +581,12 @@ Java
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
+
+# Serialization
+* [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
+* [자바 직렬화, 그것이 알고싶다.  훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
+* [자바 직렬화, 그것이 알고싶다.  실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
+* [자바에서 직렬화를 이용한 소켓 통신 정리](https://jungwoon.github.io/java/2018/08/16/Java-Serialize/)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)

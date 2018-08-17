@@ -359,6 +359,7 @@ Apache
     * ZooKeeper 임시 노드를 사용하여 “잠급니다.”
     * 스키마를 추가하는 서비스 도입. 이 애플리케이션은 메모리를 잠그는 게 가능
     * 소수만 접근할 수 있는 주체에 스키마를 저장한 토픽으로 쓰기를 허용하며 책임을 위임
+* [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 3](https://blog.cloudera.com/blog/2018/08/robust-message-serialization-in-apache-kafka-using-apache-avro-part-3/)
 * [Interview with Jay Kreps about Apache Kafka](https://notamonadtutorial.com/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca)
 * [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)
 
@@ -497,6 +498,7 @@ Apache
 * [Best practices for using Apache NiFi in real world projects - 3 takeaways](https://medium.com/@abdelkrim.hadjidj/best-practices-for-using-apache-nifi-in-real-world-projects-3-takeaways-1fe6912101db)
   * PoC에서 프로덕션 환경 적용까지 필요한 사례 소개
 * [Building an IIoT system using Apache NiFi, MiNiFi, C2 Server, MQTT and Raspberry Pi](https://medium.com/@abdelkrim.hadjidj/building-an-iiot-system-using-apache-nifi-mqtt-and-raspberry-pi-ce1d6ed565bc) IoT에서 Apache NiFi를 활용하는 예
+* [HDF/HDP Twitter Sentiment Analysis End-to-End Solution](https://community.hortonworks.com/articles/208667/hdphdp-twitter-nlp-processing-framework.html)
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)

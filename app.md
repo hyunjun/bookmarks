@@ -60,6 +60,7 @@ App
   * pdf to text
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
     * [gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba](https://gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba)
+	* [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
@@ -129,6 +130,7 @@ App
   * [정적 블로그, Hexo 설치](https://engineering.huiseoul.com/%EC%A0%95%EC%A0%81-%EB%B8%94%EB%A1%9C%EA%B7%B8-hexo-%EC%84%A4%EC%B9%98-f8df865a693a)
   * [hexo 환경 구축하기](https://taetaetae.github.io/2016/09/23/20160923/)
 	* [hexo + github + blog 연동하기](https://taetaetae.github.io/2016/09/18/hexo_github_blog/)
+  * [Hexo로 블로그 만들기](https://canine89.github.io/2018/08/16/hello-world/)
   * [JEKYLL3 TRAILING SLASH 문제](http://lumiamitie.github.io/web/jkl3-trailing-slash/)
   * [GITHUB를 이용해서 블로그 하기 #1](https://jungwoon.github.io/jungwoon.github.io/GitHub-Pages/)
   * [GITHUB를 이용해서 블로그 하기 #2](https://jungwoon.github.io/jekyll/2017/07/04/Install-Jekyll-For-Mac/)
@@ -617,6 +619,7 @@ App
 
 ## Development
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
+* [윈도우에서 심볼릭 링크 만들기](https://libsora.so/posts/ntfs-symbolic-link/)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)

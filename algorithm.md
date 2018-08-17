@@ -355,6 +355,7 @@ Algorithm
 * [Fastest way to sort 10 numbers? (numbers are 32 bit)](http://stackoverflow.com/questions/32172144/fastest-way-to-sort-10-numbers-numbers-are-32-bit)
 * [Efficiently Sorting Linked Lists](http://www.drdobbs.com/database/efficiently-sorting-linked-lists/184410973)
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
+* [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)

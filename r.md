@@ -264,16 +264,17 @@ R
 # Book
 * [R을 이용한 데이터 분석 실무](http://r4pda.co.kr/)
   * [R을 이용한 데이터 처리 & 분석 실무](https://thebook.io/006723/)
+* [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)
+* [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+* [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+* [Data Visualization for Social Science - A practical introduction with R and ggplot2](http://socviz.co/)
+* [EasyR 김영우.pdf](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_2/Easy_R_write/EasyR_%EA%B9%80%EC%98%81%EC%9A%B0.pdf)
 * **[Exploratory Data Analysis with R](https://leanpub.com/exdata)**
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)
 * [R for Data Science](http://r4ds.had.co.nz/)
-* [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
-* [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 * [Text Mining with R](http://tidytextmining.com/)
-* [Data Visualization for Social Science - A practical introduction with R and ggplot2](http://socviz.co/)
-* [EasyR 김영우.pdf](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_2/Easy_R_write/EasyR_%EA%B9%80%EC%98%81%EC%9A%B0.pdf)
 
 # Conference
 * [R/Finance](http://www.rinfinance.com/)

@@ -163,6 +163,7 @@ AWS
 * [5월 AWS 월간 세미나 | Deep Learning을 위한 AWS 기반 AI 서비스 (윤석찬 테크에반젤리스트)](https://www.youtube.com/watch?v=D3oa87-D1R8)
   * [Deep Learning을 위한 AWS 기반 인공 지능(AI) 서비스 (윤석찬)](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
 * [AWS S3를 이용해서 웹브라우저에서 사용할 수 있는 포토 앨범 만들기](https://walkinpcm.blogspot.com/2017/06/aws-s3-aws-s3.html)
+* [pushState를 사용하는 SPA를 S3와 CloudFront로 서비스하기](https://blog.outsider.ne.kr/1394)
 * [Request Spot Instances 이용하기](https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
 * [AWS 비용 얼마까지 줄여봤니?](http://tosslab.github.io/backend/2017/07/18/aws_instance_scheduler.html)
