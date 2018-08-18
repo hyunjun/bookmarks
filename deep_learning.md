@@ -1862,6 +1862,7 @@ CVPR2016)
 * [rllab - a framework for developing and evaluating reinforcement learning algorithms](https://github.com/rll/rllab)
 * [강화학습 퍼마리오 part 1selfhttps://brunch.co.kr/@kakao-it/144)
 * [강화학습으로 풀어보는 슈퍼마리오 part 2.](https://brunch.co.kr/@kakao-it/161)
+* [인공지능 슈퍼마리오의 거의 모든 것( Pycon 2018 정원석)](https://www.slideshare.net/wonseokjung2/pycon-2018-110420140)
 * [장진만쌤의 Sung Kim 교수님의 모두의 RL 수업을 보고 나서 따라 하기](http://chlehrb.tistory.com/78) 07.03 현재 설치까지 진행
 * [Reinforce-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어

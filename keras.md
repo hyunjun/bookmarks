@@ -54,6 +54,8 @@ Keras
 * [Keras Tutorial: Content Based Image Retrieval Using a Convolutional Denoising Autoencoder](https://blog.sicara.com/keras-tutorial-content-based-image-retrieval-convolutional-denoising-autoencoder-dc91450cc511)
 * [Keras resources - This is a directory of tutorials and open-source code repositories for working with Keras, the Python deep learning library](https://github.com/fchollet/keras-resources)
 * [Introducing Keras 2](https://blog.keras.io/introducing-keras-2.html)
+* [Introduction to Deep Learning - Deep Learning basics with Python, TensorFlow and Keras p.1](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/)
+  * [Deep Learning with Python, TensorFlow, and Keras tutorial](https://www.youtube.com/watch?v=wQ8BIBpya2k)
 * [github.com/jskDr/jamespy_py3](https://github.com/jskDr/jamespy_py3)
 * [One Shot Learning with Siamese Networks in Keras!](https://sorenbouma.github.io/blog/oneshot/)
 * [Deep Learning with Emojis (not Math)](https://tech.instacart.com/deep-learning-with-emojis-not-math-660ba1ad6cdc)

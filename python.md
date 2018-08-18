@@ -294,6 +294,7 @@ Python
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12)
 * [Python Report Card](https://github.com/mingrammer/pyreportcard)
 * [Complementing Python With Rust](https://medium.com/@caulagi/complementing-python-with-rust-657a8cb3d066)
+* [Rust를 사용해서 당신의 Python에 날개를 달아주세요](https://www.slideshare.net/JIHUNKIM26/rust-python-110278438)
 * [mindmap - Python for big data](http://www.xmind.net/m/WvfC#515)
 * [masnun.com/category/python](http://masnun.com/category/python)
 * [안녕 프로그래밍](https://opentutorials.org/course/2700)
@@ -441,6 +442,7 @@ Python
   * [A brief introduction to concurrency and coroutines (Tutorial)](https://www.youtube.com/watch?v=WBiw9V4-Llk)
   * [Coroutines in Python with examples](http://en.proft.me/2016/07/21/coroutines-python-examples/)
   * [How Do Python Coroutines Work?](https://www.youtube.com/watch?v=idLtMISlgy8)
+  * [PyconKR 2018 Deep dive into Coroutine](https://www.slideshare.net/daykim7/pyconkr-2018-deep-dive-into-coroutine-110194978/1)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -1087,6 +1089,7 @@ Python
 * [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
 * [Elizaveta Shashkova - Debugging in Python 3.6: Better, Faster, Stronger](https://www.youtube.com/watch?v=sAvOZlbh9mQ)
   * [PEP 523 Experiments](https://github.com/elizaveta239/frame-eval)
+* PyConKr 2018 **[GDB와 strace로 Hang 걸린 Python Process 원격 디버깅](https://www.slideshare.net/kym970918/gdb-strace-hang-python-process-110423511)**
 
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
@@ -1095,6 +1098,8 @@ Python
 
 # Django
 * [Django 문서](https://docs.djangoproject.com/ko)
+  * [docs.djangoproject.com/ko/2.1/intro/tutorial01](https://docs.djangoproject.com/ko/2.1/intro/tutorial01/)
+    * [django(v2.1) tutorial](https://github.com/aiacademy131/django-tutorial)
 * [(번역) Django 공식문서 - Introduction to models](https://lhy.kr/django-introduction-to-models)
 * [Django resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
@@ -1274,6 +1279,7 @@ Python
 * pytest
   * [practice - Refactoring the structure of project, and add test using pytest](https://github.com/hyunjun/practice/commit/fa446d20efac7732e71d0efc50c5bf92d65bbe0a)
   * [Flask에서 Pytest Fixture로 테스트환경 구축하기](https://qodot.github.io/post/flask%EC%97%90%EC%84%9C-pytest-fixture%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
+  * [T.D.D로 Flask API 맛보기](https://www.slideshare.net/JIHUNKIM26/tdd-flask-api-90039358))
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
@@ -1360,6 +1366,7 @@ Python
   * [2부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-2%EB%B6%80/)
 
 ## Library
+* [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
 * [Flask-APScheduler is a Flask extension which adds support for the APScheduler](https://github.com/viniciuschiele/flask-apscheduler)
   * [How can I add a background thread to flask?](https://stackoverflow.com/questions/14384739/how-can-i-add-a-background-thread-to-flask)
@@ -1373,7 +1380,7 @@ Python
 * [Flask-Potion is a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org/](https://github.com/biosustain/potion)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
-* [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
+* [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 
@@ -2449,6 +2456,7 @@ Python
     * [01 Selecting Subsets with \[ \], .loc and .iloc.ipynb](https://github.com/tdpetrou/Learn-Pandas/blob/master/Learn-Pandas/Selecting%20Subsets/01%20Selecting%20Subsets%20with%20%5B%20%5D%2C%20.loc%20and%20.iloc.ipynb)
   * [Part 2](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-39e811c81a0c)
     * [02 Boolean Indexing.ipynb](https://github.com/tdpetrou/Learn-Pandas/blob/master/Learn-Pandas/Selecting%20Subsets/02%20Boolean%20Indexing.ipynb)
+* [pandas column 의 위아래 값의 차이를 비교해보자](http://jusths.tistory.com/38)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -2594,6 +2602,19 @@ Python
   * [Talks by PyCon 2017](https://speakerdeck.com/pycon2017)
   * [PYCON 2017: MUST-SEE TALKS](https://www.cuttlesoft.com/pycon-2017-must-see-talks/)
   * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
+* PyConKr 2018
+  * [인생을 짧아요, 엑셀대신 파이썬](https://www.slideshare.net/plusjune/ss-110416117)
+    * [파이썬 엑셀 01 - 파이썬에서 엑셀 다루기](http://nbviewer.jupyter.org/8a668109436927809ca5f063b8be3878)
+    * [파이썬 엑셀 02 - 엑셀 보고서 생성](http://nbviewer.jupyter.org/9ee944788aaf5cedf22aacbc856970e5)
+    * [파이썬 엑셀 03 - 주요기능 필터링, 소트, VLOOKUP, 피벗](http://nbviewer.jupyter.org/5f56db44a582bcea6cd6920a27e20171)
+    * [파이썬 엑셀 다루기 01 - 엑셀 저](http://nbviewer.jupyter.org/5f9a732873bd0a139d96c111bf1c2c60)
+    * [파이썬 엑셀 다루기 02 - 특정 주기 추출](http://nbviewer.jupyter.org/f456627d0650a9909cc0a4b166275cae)
+  * [A Development of Log-based Game AI using Deep Learning](https://www.slideshare.net/SuntaeKim7/a-development-of-logbased-game-ai-using-deep-learning-110222600)
+  * [2018 PyCon KR - Ring](https://www.slideshare.net/YunWonJeong/2018-pycon-kr-ring-110398431)
+    * [ring - Function-oriented cache interface with built-in memcache & redis + asyncio support](https://github.com/youknowone/ring)
+  * [pyconkr-2018-booklet](https://github.com/lqez/pyconkr-2018-booklet)
+    * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html)
+  * [PyCon Korea 2018 Day1 Lightning Talk - Python으로 LibreOffice의 한자 목록 공헌하기](https://www.slideshare.net/studioego/pycon-korea-2018-day1-lightning-talk-python-libreoffice)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

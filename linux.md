@@ -381,6 +381,7 @@ Linux
 * [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/index.html)
 * [Kernel bypass](https://blog.cloudflare.com/kernel-bypass/)
 * [Linux kernel development](https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md)
+* [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
 
 ## Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)

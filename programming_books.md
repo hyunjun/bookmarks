@@ -23,9 +23,6 @@ Programming Books
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
   * 탐라 개005.1-니58ㅋ
   * 한라 005.11-니58ㅋ
-* **[카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://jhrogue.blogspot.kr/2018/05/blog-post.html)**
-  * 탐라 문005.76고58ㅋ
-  * 주키퍼, 카프카 스트림즈, KSQL, 구글 펍/섭, 아마존 키네시스 등
 * [반갑다 Ionic](http://bjpublic.tistory.com/296)
   * 한라 005.11이14ㅂ
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
@@ -752,6 +749,14 @@ Programming Books
 * (NOT YET) [초보자를 위한 Node.js 200제](http://jybaek.tistory.com/741)
 * (NOT YET) [웹 서비스를 만들며 배우는 node.js 프로그래밍](http://jpub.tistory.com/822?category=203154)
   * 2018.08 한라
+
+# Kafka
+
+* **[카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://jhrogue.blogspot.kr/2018/05/blog-post.html)**
+  * 탐라 문005.76고58ㅋ
+  * 주키퍼, 카프카 스트림즈, KSQL, 구글 펍/섭, 아마존 키네시스 등
+* [아파치 카프카로 데이터 스트리밍 애플리케이션 제작](http://acornpub.co.kr/book/data-apache-kafka)
+  * 탐라 문005.74쿠31ㅇ
 
 # Kotlin
 
