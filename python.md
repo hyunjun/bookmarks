@@ -1154,6 +1154,7 @@ Python
 * [Gnuboard to Django Series #01](http://www.slideshare.net/JunbumLee/gnuboard-to-django-series-01)
 * [클린 코드를 위한 테스트 주도 개발 - QUnit 버전 문제](https://cjh5414.github.io/cleancode-QUnit/)
 * [Django ORM 왜 어렵게 느껴질까?](http://www.slideshare.net/perhapsspy/django-orm-67523180)
+* [PyCon KR 2018 Effective Tips for Django ORM in Practice](https://www.slideshare.net/iandmyhand/pycon-kr-2018-effective-tips-for-django-orm-in-practice-110522221)
 * [DjangoORM에서 SQL Driver 지정해 Query & Pandas DataFrame 얻어내기](https://beomi.github.io/2018/02/19/django_orm_for_multiple_db_with_sqldriver/)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
@@ -1427,6 +1428,7 @@ Python
     * [예제 코드](https://github.com/RavenKyu/OpenTutorials_PyQt)
   * [mac에서 pyqt5 시작해 보기](http://mcchae.egloos.com/11285592)
   * [pyqt5 GUI unittest 수행 간단한 툴](https://blog.naver.com/4uwingnet/221265938344)
+  * [PyCon2018 PyQt로 만드는 웹 기반 어플리케이션 만들기](https://www.slideshare.net/ravenkyu/py-con2018-pyqt)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter
@@ -2615,6 +2617,11 @@ Python
   * [pyconkr-2018-booklet](https://github.com/lqez/pyconkr-2018-booklet)
     * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html)
   * [PyCon Korea 2018 Day1 Lightning Talk - Python으로 LibreOffice의 한자 목록 공헌하기](https://www.slideshare.net/studioego/pycon-korea-2018-day1-lightning-talk-python-libreoffice)
+  * [PyconKR 2018 Python으로 나만의 IOT 구축하기](https://speakerdeck.com/sangwoopark/pyconkr-2018-pythoneuro-namanyi-iot-gucughagi)
+  * [학습하는 조직과 Python: 뱅크샐러드 사례를 중심으로](https://speakerdeck.com/sunghyunzz/hagseubhaneun-jojiggwa-python-baengkeusaelreodeu-saryereul-jungsimeuro)
+  * [PYCON Korea 2018 Python Application Server for Recommender System](https://www.slideshare.net/kimkwangseop/pycon-korea-2018-python-application-server-for-recommender-system)
+  * [Animal iris recognition](https://www.slideshare.net/ssuser0188f31/animal-iris-recognition)
+  * [pycon korea 2018 드론 및 인공위성 영상을 이용한 태양광발전소 입지분석](https://www.slideshare.net/ssuser6cfa17/pycon-korea-2018-110450391)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

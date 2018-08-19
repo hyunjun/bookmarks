@@ -267,7 +267,8 @@ Algorithm
   * [위상정렬.ipynb](https://github.com/minsuk-heo/coding_interview_kr/blob/master/%EC%9C%84%EC%83%81%EC%A0%95%EB%A0%AC.ipynb)
 * [길찾기 알고리즘 :: A\*(STAR)](https://blog.wonhada.com/?p=815)
 * [따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
-* [A\* 보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
+* [A\*보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
+* [A\*보다 빠른 JPS보다 빠른 JPS+](https://blog.naver.com/robo813/221341534052)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)

@@ -1639,6 +1639,7 @@ Deep Learning
   * Spatial Transformer Networks (2015) 중 / 어려움 / 옵션 (아직 불명) / 공간변환
 * [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+* [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [The Transformer – Attention is all you need](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W1CV2tgzaZ2)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
