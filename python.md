@@ -1021,6 +1021,7 @@ Python
   * [More Sanic/Python Fun. Submitting a Form via Ajax Post Request with Vuejs](https://www.youtube.com/watch?v=6FXG3ssw5Wo)
   * [postit-sanic - An REST API and Single Page App with Sanic; A Python Webserver/Microframework](https://github.com/tysweezy/postit-sanic)
   * [programcreek.com/python/index/9697/sanic](https://www.programcreek.com/python/index/9697/sanic)
+	* [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기-이재면](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
 * [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [Trio – Pythonic async I/O for humans and snake people 🐍](https://github.com/python-trio/trio)
 
@@ -1365,6 +1366,7 @@ Python
 * 기술블로그 구독서비스 개발 후기
   * [1부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-1%EB%B6%80/)
   * [2부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-2%EB%B6%80/)
+* [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
@@ -1595,6 +1597,7 @@ Python
 * **[Boost Your Jupyter Notebook Productivity](https://towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad)**
 * [jupyter server 보안 설정하기](http://blog.greennuri.info/?p=182)
 * [A very simple demo of interactive controls on Jupyter notebook](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd)
+* [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -2622,6 +2625,8 @@ Python
   * [PYCON Korea 2018 Python Application Server for Recommender System](https://www.slideshare.net/kimkwangseop/pycon-korea-2018-python-application-server-for-recommender-system)
   * [Animal iris recognition](https://www.slideshare.net/ssuser0188f31/animal-iris-recognition)
   * [pycon korea 2018 드론 및 인공위성 영상을 이용한 태양광발전소 입지분석](https://www.slideshare.net/ssuser6cfa17/pycon-korea-2018-110450391)
+	* [생활탐사 - 파이썬으로 일상에 도움 되는 뉴스 만들기](https://drive.google.com/file/d/1bhsX4kW_gE6t9S6SkGaBnUWM0Y4OFAGV/view)
+	* [PyCon KR 2018 땀내를 줄이는 Data와 Feature 다루기](https://www.slideshare.net/zzonee/2018-pycon-kr-data-feature/zzonee/2018-pycon-kr-data-feature)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

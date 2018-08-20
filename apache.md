@@ -199,6 +199,7 @@ Apache
 * [Hotspotting In Hadoop — Impala Case Study](https://medium.com/@adirmashiach/hotspotting-in-hadoop-impala-case-study-6a8a613f14a1)
 * [Apache Impala: My Insights and Best Practices](https://medium.com/@adirmashiach/apache-impala-my-insights-and-best-practices-8e0507089935)
 * [How to read Impala query plan and profile Part 1 by Juan Yu](https://www.cloudera.com/developers/featured-video.html)
+* [5 Main Missing Features in Impala (Opinion)](https://medium.com/@adirmashiach/5-main-missing-features-in-impala-imo-1343c767081f)
 
 # [Jena](http://jena.apache.org)
 
@@ -312,6 +313,7 @@ Apache
     * [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
       * MongoDB 데이터를 결합하여 Apache Kafka의 syslog 데이터에 KSQL을 사용하여 스트리밍 응용프로그램을 구축하는 과정 설명
       * 알림은 Slack, 시각화 도구는 ES
+  * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)

@@ -62,11 +62,9 @@ Bitcoin
 * [시작 | block1 | 블록체인ers | The Blockchainers](https://www.youtube.com/watch?v=WKrbLt-SG8k)
 * [BlockChain 기초 개념 - 블록, 채굴, 작업증명, 난이도, 보상](https://steemit.com/kr/@hanmomhanda/blockchain)
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
-* [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
 * [Blockchain Programming with Lisp](https://www.slideshare.net/cheolhee/blockchain-programming-with-lisp)
 * [초딩도 이해하는 블록체인](https://steemkr.com/kr/@tintom/2fgvq8)
 * **[JAVA 코드로 이해하는 블록체인(BLOCKCHAIN)](http://guruble.com/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain/)**
-* **[파이썬으로 스마트 컨트랙트 개발하기](https://winterj.me/smart-contract-with-python/)**
 * [File on blockchain 개발기](https://winterj.me/file-on-blockchain/)
   * [File on blockchain](https://github.com/JungWinter/file-on-blockchain)
 * [블록체인 개요 및 오픈소스 동향](http://daddycat.blogspot.kr/2017/12/blog-post.html)
@@ -82,7 +80,6 @@ Bitcoin
 * [dApp 개발하기 위한 준비 Remix + metamask](https://blog.naver.com/pjt3591oo/221182053161)
 * [블록체인이 꿈꾸는 세상 (What Blockchains Dream)](https://organicmedialab.com/2018/01/12/what-blockchains-dream/)
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
-* [min-blockchain - A simple PoW Blockchain in Python](https://github.com/JoMingyu/Blockchain-py)
 * 블록체인플랫폼
   * [①이더리움, 블록체인 2.0 시대를 열다](http://www.bloter.net/archives/299780)
 * [G Coin - A simple implementation of Blockchain for understanding easily](https://github.com/golbin/g-coin)
@@ -101,6 +98,12 @@ Bitcoin
 * [Skewed Merkle Tree](https://blog.seulgi.kim/2018/06/skewed-merkle-tree.html)
 * [Java 코드로 이해하는 블록체인(Blockchain)](https://www.popit.kr/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain)
 * [토큰 이코노미에 대하여](https://brunch.co.kr/@jeffpaik/53)
+
+## Python
+* [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
+* **[파이썬으로 스마트 컨트랙트 개발하기](https://winterj.me/smart-contract-with-python/)**
+* [min-blockchain - A simple PoW Blockchain in Python](https://github.com/JoMingyu/Blockchain-py)
+* [PyCon Korea 2018 Python in Chains: Running Python Code for IoT Projects on a custom-built Blockchain Network](https://www.slideshare.net/DanielHong64/pycon-korea-2018-python-in-chains-running-python-code-for-iot-projects-on-a-custombuilt-blockchain-network-110606011)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

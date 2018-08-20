@@ -197,6 +197,7 @@ SQL
   * `yum install mysql` tried to install `mariadb` & `mariadb-libs` on Redhat 7.2(`CentOS Linux release 7.2.1511 (Core)`)
 * [MySQL Performance - Number of Tables Vs. Number of Rows](https://stackoverflow.com/questions/9965203/mysql-performance-number-of-tables-vs-number-of-rows)
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
+* [WorkBench 쿼리 타임아웃](http://jybaek.tistory.com/760)
 * [Node.js와 MySQL 연동시키기](https://jungwoon.github.io/node.js/2017/07/17/Node_with_MySQL/)
 * [MySQL: Fulltext search에서 하이픈 캐릭터 사용하기](http://ohgyun.com/757)
 * [surrogate key 와 natural key](http://ohgyun.com/756)

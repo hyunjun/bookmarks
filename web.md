@@ -117,6 +117,7 @@ Web
 * [Building a really fast website from scratch](https://hackernoon.com/building-a-really-fast-website-from-scratch-6c822b1ae1b0)
 * [Dweb 소개](http://hacks.mozilla.or.kr/2018/08/dweb-%ec%86%8c%ea%b0%9c/)
 * [Dweb: Secure Scuttlebutt 으로 소셜 피드 작성하기](http://hacks.mozilla.or.kr/2018/08/dweb-social-feeds-with-secure-scuttlebutt/)
+* [Dweb: WebTorrent 로 강인한 웹 만들기](http://hacks.mozilla.or.kr/2018/08/dweb-building-a-resilient-web-with-webtorrent/)
 * [WEB2 - OAuth 2.0](https://opentutorials.org/course/3405)
 
 # Apache

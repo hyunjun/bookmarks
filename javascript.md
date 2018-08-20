@@ -348,6 +348,7 @@ Javascript
 * [NEMBV](https://www.clien.net/service/board/lecture/11939401) Node Express Mongo Bootstrap Vue
   * [github.com/fkkmemi/nembv](https://github.com/fkkmemi/nembv)
   * [fkkmemi.github.io/categories/#nembv](https://fkkmemi.github.io/categories/#nembv)
+* [리액트, 노드 백엔드 통합 후 CI 연동하기](http://blog.jeonghwan.net/2018/08/19/express-travis-beanstalk.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1080,6 +1081,7 @@ Javascript
 * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
 * [Node에서의 this](https://www.zerocho.com/category/NodeJS/post/5b67e8607bbbd3001b43fd7b)
 * [노드에서 셋 인터벌을 쓸 수 있구나](https://hyeonseok.com/soojung/dev/2018/08/11/839.html)
+* [노드몬 Nodemon 에서 특정 파일 제외하기](https://hyeonseok.com/soojung/dev/2018/08/19/840.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1654,3 +1656,4 @@ Javascript
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2)
 * [실무에서 사용하는 Vue.js 프로젝트 구조](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
 * [Evan you on proxies](http://devtimothy.tistory.com/88)
+* [난 React와 Vue에서 완전히 똑같은 앱(todo)을 만들었다. 여기 그 차이점이 있다.(번역글)](https://medium.com/@erwinousy/%EB%82%9C-react%EC%99%80-vue%EC%97%90%EC%84%9C-%EC%99%84%EC%A0%84%ED%9E%88-%EA%B0%99%EC%9D%80-%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EC%9D%B4%EA%B2%83%EC%9D%80-%EA%B7%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%EB%8B%A4-5cffcbfe287f)

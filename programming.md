@@ -423,6 +423,7 @@ Programming
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
   * [구글 CT코스](https://manchoi.gitbooks.io/computational-thinking-of-google/content/index.html)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
+  * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
 
 # Build Compile
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
@@ -882,6 +883,7 @@ Programming
   * [7월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/07/b-7-4.html)
   * [8월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/08/b-8-1.html)
 	* [8월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/08/b-8-2.html)
+  * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/08/b-8-3.html))
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -941,6 +943,7 @@ Programming
 * [5 Things to Know About Reactive Programming](https://developers.redhat.com/blog/2017/06/30/5-things-to-know-about-reactive-programming/)
   * [리액티브 프로그래밍에 대해 알아야 할 5가지 요약](http://javacan.tistory.com/entry/5-Things-to-Know-About-Reactive-Programming-summary)
 * [왜 리액티브인가 요약](http://javacan.tistory.com/entry/why-reactive-summary)
+* [Reactive Architecture: Introduction to Reactive Systems 코스 소개](http://kwangshin.pe.kr/blog/2018/08/18/reactive-architecture-introduction-to-reactive-systems-free-course/)
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming

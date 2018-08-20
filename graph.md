@@ -268,6 +268,7 @@ Graph
 # Memory-based graph
 * [iGraph](http://igraph.org)
   * [Visualising Correlations using Graph](https://medium.com/@JavierBurroni/visualising-correlations-using-graph-2169c6415427) python igraph visualization
+  * [Mac에서 gfortran4.8 에러 해결하기](https://lumiamitie.github.io/r/mac-fortran2/)
 * [jGraph](http://www.jgraph.com)
 * [jung](https://code.google.com/p/jung/)
 * [NetworkX](http://networkx.github.io/)
