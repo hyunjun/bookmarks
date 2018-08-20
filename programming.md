@@ -87,6 +87,7 @@ Programming
   * [Part 14: Nested Scopes and a Source-to-Source Compiler](https://ruslanspivak.com/lsbasi-part14/)
 * [Molecular Programming Project](http://molecular-programming.org/)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [2018 개발자 추천 블로그 10선](https://www.huskyhoochu.com/suggested-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
 * [Inductive Logic Programming - Techniques and Applications](http://www-ai.ijs.si/SasoDzeroski/ILPBook/ILPbook.pdf)
 * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)

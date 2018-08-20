@@ -632,8 +632,10 @@ TensorFlow
   * 텐서 분해, 텐서 학습 및 텐서 대수를 쉽게 수행
   * 백엔드 시스템은 NumPy, MXNet 또는 PyTorch를 통해 완벽하게 계산을 수행하고 CPU 또는 GPU에서 규모에 따라 메소드를 실행
 * [TensorNets](https://github.com/taehoonlee/tensornets#performances)
-* [tensorpack](http://tensorpack.readthedocs.io/en/latest/)
+* [tensorpack](http://tensorpack.readthedocs.io)
   * [Tensorpack과 Multigpu를 활용한 빠른 트레이닝 코드 작성하기](http://openresearch.ai/t/tensorpack-multigpu/45)
+  * [Tensorpack 구조 이해하기 - ModelDesc와 Trainer를 중심으로](https://modulabs-biomedical.github.io/TensorPack)
+  * [Tensorpack tutorial](https://github.com/PeterCha90/Tensorflow-Deep-Learning/blob/master/Tensorpack_tutorial.ipynb)
 * [tensorport.com](https://tensorport.com/)
 * [tensortalk.com](https://tensortalk.com/)
 * [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)

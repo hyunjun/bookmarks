@@ -953,6 +953,7 @@ Deep Learning
 * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://jaejunyoo.blogspot.com/2018/05/paper-skim-progressive-growing-of-gans.html?m=1)
 * [Math Insights from 10 GAN papers. InfoGANs, VAEGANs, CycleGAN and more](https://www.youtube.com/watch?v=r3L3JT_TLTM)
+* [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
