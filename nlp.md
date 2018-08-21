@@ -424,6 +424,7 @@ NLP
   * [1 기본 설정편](https://blog.psangwoo.com/coding/2016/12/08/python-telegram-bot-1.html)
   * [2 채널편](https://blog.psangwoo.com/coding/2016/12/11/python-telegram-bot-2.html)
   * [3 챗봇편](https://blog.psangwoo.com/coding/2018/01/09/python-telegram-bot-3.html)
+  * [4 Inline Keyboard편](https://blog.psangwoo.com/coding/2018/08/20/python-telegram-bot-4.html)
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [Building a botnet on PyPi](https://hackernoon.com/building-a-botnet-on-pypi-be1ad280b8d6)
 * [ChatOps with PowerShell - Matthew Hodgkins](https://www.youtube.com/watch?v=XIMOFnfdOx0)
