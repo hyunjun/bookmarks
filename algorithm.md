@@ -130,6 +130,7 @@ Algorithm
 * [나도 해보는 Fizz Buzz Test](https://libsora.so/posts/fizz-buzz-01/)
 * [나눗셈 연산을 곱셈으로 프로그래밍 할 수 있음?](https://libsora.so/posts/float-divide-without-divide/)
 * [나머지 연산자 없이 x % 256 계산하기](https://libsora.so/posts/use-casting-as-mod-operator/)
+* [나머지 연산자 없이 x % (2의 거듭제곱) 계산하기](https://libsora.so/posts/use-bit-op-as-mod-operator/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

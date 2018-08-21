@@ -34,6 +34,8 @@ Programming Books
   * [서평: 프로그래밍 언어도감 ](https://blog.gaerae.com/2018/08/programming-gengo-zukan.html)
 * (NOT YET) [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
+* (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
+  * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
 
 # Agile Scrum
 
@@ -690,8 +692,10 @@ Programming Books
   * 한라 005.135쇼22ㅈ
   * [자바 프로젝트 필수 유틸리티](http://www.hanbit.co.kr/store/books/look.php?p_code=B8716214772)
 * (NOT YET) 클라우드 네이티브 자바 스프링 마이크로서비스 아키텍처와 데브옵스를 실천하는 클라우드 기반 서비스의 모든 것
-* (NOT YET) 자바로 배우는 핵심 자료구조와 알고리즘
+* 자바로 배우는 핵심 자료구조와 알고리즘
   * 한라 005.73-다66ㅈ
+  * [github.com/yudong80/ThinkDataStructures](https://github.com/yudong80/ThinkDataStructures)
+  * 얇아서 보기 편함. 특이하게 레디스를 이용하는 챕터가 있음. 그 외에는 기본적인 자료구조에 대한 설명 및 구현
 
 # JavaScript
 
@@ -1002,6 +1006,8 @@ Programming Books
   * 한라 005.133-하32ㅈ
 * 한 권으로 배우는 파이썬 기초 & 알고리즘 사고법
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
+* 고성능 파이썬
+  * 한라 005.133고294ㄱ
 
 # R
 
@@ -1056,6 +1062,8 @@ Programming Books
   * 2018.08 탐라
 * (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
   * 2018.08 한라
+* 그것이 R고 싶다
+  * 서평, 한빛미디어
 
 # Scala
 
