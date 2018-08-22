@@ -198,6 +198,7 @@ Vision
 * [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
 * [Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3) image classification
 * **[Modern C++ for Computer Vision and Image Processing](http://www.ipb.uni-bonn.de/teaching/modern-cpp/)**
+* [zsc.github.io/megvii-pku-dl-course](https://zsc.github.io/megvii-pku-dl-course/)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
