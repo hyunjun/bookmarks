@@ -441,6 +441,7 @@ App
   * `permission denied /tmp/...` -> [`sudo chmod 1777 /tmp /private/tmp`](http://johnsonsu.com/mac-yosemite-mysql-unable-start-reason-255/)
   * [Set your Github API Token If you hit a ”GitHub API rate limit exceeded” when searching with Homebrew](https://gist.github.com/christopheranderton/8644743)
   * [Homebrew 설치하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Install-Homebrew/)
+  * [홈브류(Homebrew)를 사용해 맥OS(macOS) 특정 버전의 패키지 설치하기](https://www.44bits.io/ko/post/install-specific-version-package-homebrew)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)

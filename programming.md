@@ -449,6 +449,8 @@ Programming
     * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
   * [Cloud TPU 사용하기](http://jybaek.tistory.com/707)
   * [How to use Google Cloud TPUs?](https://medium.com/@cylee_80935/how-to-use-google-cloud-tpus-177c3a025067)
+  * [Cloud tpu jae_180814](https://www.slideshare.net/JaewookKang1/cloud-tpu-jae180814)
+  * [tpu-tutorial-experiments](https://github.com/jwkanggist/tpu-tutorial-experiment)
   * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
   * [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
   * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)

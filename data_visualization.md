@@ -74,6 +74,7 @@ Data Visualization
 * [Data Visualization, Fast and Slow](https://medium.com/@Elijah_Meeks/data-visualization-fast-and-slow-d2653d4850b0)
 * [Basic Medical Data Exploration with Interactive Code](https://towardsdatascience.com/basic-medical-data-exploration-with-interactive-code-aa26ed432265)
 * [Data2Vis 자동으로 차트 만들기](http://mobicon.tistory.com/545)
+* [tf-seq2seq를 사용하여 자동으로 차트 만들기 - 2](http://mobicon.tistory.com/547)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
