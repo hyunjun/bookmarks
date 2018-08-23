@@ -47,6 +47,7 @@ Clojure
 * [SICP Distilled](http://www.sicpdistilled.com/)
 * [ddp-and-mp - SICP Data-directed Programing and Message Passing Example](https://github.com/eunmin/ddp-and-mp)
 * [SICP-ch4](https://github.com/eunmin/sicp-ch4/blob/master/src/sicp_ch4/core.clj)
+* [클로저 요리 학원](https://github.com/eunmin/clojure-cooking-class)
 * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
 * [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Programming](https://en.wikibooks.org/wiki/Clojure_Programming)

@@ -2462,6 +2462,7 @@ Python
   * [Part 2](https://medium.com/dunder-data/selecting-subsets-of-data-in-pandas-39e811c81a0c)
     * [02 Boolean Indexing.ipynb](https://github.com/tdpetrou/Learn-Pandas/blob/master/Learn-Pandas/Selecting%20Subsets/02%20Boolean%20Indexing.ipynb)
 * [pandas column 의 위아래 값의 차이를 비교해보자](http://jusths.tistory.com/38)
+* [pandas 시간정보로 .srt 자막을 만들어보자](http://jusths.tistory.com/40)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

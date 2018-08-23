@@ -640,6 +640,8 @@ Javascript
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [easy-map - Render a map on browser easily](https://github.com/wonism/easy-map)
+* [Elasticlunr.js - Lightweight full-text search engine in Javascript for browser search and offline search](http://elasticlunr.com/)
+  * [블로그 검색 기능 개발 과정](https://rhostem.github.io/posts/2018-08-23-blog-search/)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
   * [The fastest way to build beautiful Electron apps using simple HTML and CSS](http://photonkit.com/)
   * [Build cross platform desktop apps with web technologies](http://electron.atom.io/)
