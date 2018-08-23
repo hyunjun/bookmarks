@@ -312,6 +312,7 @@ R
 * [fst - Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst)
   * [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
   * [R에서 테이블 형 객체를 파일단위로 저장할 때 특화된 fst package](https://lovetoken.github.io/r/2018/03/01/fstPackage.html)
+* [fstplyr - A dplyr interface to fst https://krlmlr.github.io/fstplyr](https://github.com/krlmlr/fstplyr)
 * [funique - ⌚️ A faster unique() function](https://github.com/mkearney/funique)
 * [genomic-R, R genomic examples](https://github.com/jongchul/genomic-R)
 * [getKinQuery](https://github.com/mrchypark/getKinQuery)
