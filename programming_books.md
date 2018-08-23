@@ -1063,7 +1063,7 @@ Programming Books
 * (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
   * 2018.08 한라
 * 그것이 R고 싶다
-  * 서평, 한빛미디어
+  * [서평, 한빛미디어](https://medium.com/@strncpy/%EA%B7%B8%EA%B2%83%EC%9D%B4-r%EA%B3%A0-%EC%8B%B6%EB%8B%A4-f8671046746)
 
 # Scala
 
