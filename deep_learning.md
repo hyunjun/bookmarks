@@ -430,6 +430,7 @@ Deep Learning
 * [Battle of the Deep Learning frameworks — Part I: 2017, even more frameworks and interfaces](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)
 * [데이터지능 E9 딥러닝 프레임워크 및 활용편](https://www.youtube.com/watch?v=eIkM-m1Go1k)
 * [Choosing a Deep Learning Framework in 2018: Tensorflow or Pytorch?](http://cv-tricks.com/deep-learning-2/tensorflow-or-pytorch/)
+* [Top 10 Deep Learning Github Repositories 2018](https://www.techleer.com/articles/547-top-10-deep-learning-github-repositories-2018/)
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
 * [The Next Wave of Deep Learning Architectures](http://www.nextplatform.com/2016/09/07/next-wave-deep-learning-architectures/) 이후 딥러닝 HW에 대한 전망 (2016년 3Q 기준)
@@ -1561,6 +1562,7 @@ Deep Learning
   * [medium.com/apache-mxnet](https://medium.com/apache-mxnet)
     * [Let Sentiment Classification Model speak for itself using Grad CAM](https://medium.com/apache-mxnet/let-sentiment-classification-model-speak-for-itself-using-grad-cam-88292b8e4186)
     * [A Way to Benchmark Your Deep Learning Framework On-premise](https://medium.com/apache-mxnet/a-way-to-benchmark-your-deep-learning-framework-on-premise-4f7a0f475726)
+  * [Relation Networks for Visual Question Answering using MXNet Gluon](https://medium.com/apache-mxnet/relation-networks-for-visual-question-answering-using-mxnet-gluon-f029fde8f863)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
