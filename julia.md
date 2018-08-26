@@ -75,6 +75,7 @@ Julia
 * [Julia v0.7.0 릴리즈 노트](https://github.com/juliakorea/translate-doc/wiki/NEWS)
 * [Solve the ‘unsolvable’ with Monte Carlo methods](https://medium.freecodecamp.org/solve-the-unsolvable-with-monte-carlo-methods-294de03c80cd)
 * [18.S096, IAP 2018: Performance Computing in a High Level Language](https://github.com/stevengj/18S096)
+* [Using LaTeX to enter greek letters](https://asciinema.org/a/198175)
 
 # API
 * Pkg.add
