@@ -1570,6 +1570,7 @@ Javascript
 * [타입스크립트, 써야할까?](https://hyunseob.github.io/2018/08/12/do-you-need-to-use-ts/)
 * [타입스크립트 — 기본 타입](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B8%B0%EB%B3%B8-%ED%83%80%EC%9E%85-a83401d414d8)
 * [ES6 화살표 함수에 없는 3가지?](https://www.youtube.com/watch?v=4zjKltnIBug)
+* [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

@@ -1600,6 +1600,7 @@ Python
 * [jupyter server 보안 설정하기](http://blog.greennuri.info/?p=182)
 * [A very simple demo of interactive controls on Jupyter notebook](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd)
 * [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
+* [Scheduling Notebooks at Netflix](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -1619,6 +1620,7 @@ Python
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
   * [Google Colab - 구글 드라이브 연동하기](https://brunch.co.kr/@jayden-factory/6)
   * [구글 콜래보래토리 소개 (revised)](https://colab.research.google.com/drive/1UvCUf0V0BYiMArtOJOUjt_Pgy4aHd8o9)
+  * [Colaboratory 에서 pandas.read_csv 시에 한글내용 깨짐](http://jusths.tistory.com/42)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 

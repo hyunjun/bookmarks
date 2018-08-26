@@ -136,6 +136,7 @@ ElasticSearch - Lucene
     * [Kibana Update: Recap Elastic{ON} 2018](https://github.com/sw-jung/recap_2018_elasticon_kibana_update)
   * [swiftype 사이트 검색 기능 소개](https://www.youtube.com/watch?v=_fJ-OCdXGR8)
 * [2018-06-21 Elastic Seoul Meetup - JM.Kim - 6.3 release & Nori Analyzer](https://www.youtube.com/watch?v=80WiaOdnjXU)
+* [공식 한국어 분석 플러그인 “노리”](https://www.elastic.co/kr/blog/nori-the-official-elasticsearch-plugin-for-korean-language-analysis)
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)

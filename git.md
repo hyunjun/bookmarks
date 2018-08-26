@@ -61,7 +61,6 @@ Git
 * [Git 더하기 GitHub](http://www.slideshare.net/ssusercef361/git-github-62006866)
 * [GitHub에서 커밋에 서명하기](https://blog.outsider.ne.kr/1209?category=18)
 * [자바 기반의 GIT 관리 서버 ( Windows GIT 서버 구축)](https://gs.saro.me/#!m=elec&jn=714)
-* [Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)
 * [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * Git 내부 구조를 알아보자
   * [(0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
@@ -119,6 +118,9 @@ Git
 * [utterances 적용](https://astrod.github.io/etc/2018/05/28/utterances-%EC%A0%81%EC%9A%A9/)
 * [깃허브 및 관련 서비스 (2018-06-08) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=F2uUDeP2Xqs)
 * [Github를 이용해서 Project Management 하는 방법 및 전체적인 프로세스에 대해서 정리](https://github.com/cheese10yun/github-project-management#ci--test-coverage)
+* github 하나로 1인 개발 워크플로우 완성하기
+  * [이론 편 git으로 백업만 하셨던 분들 여기여기 붙어라~](https://www.huskyhoochu.com/issue-based-version-control-101)
+  * [실전 편 딱 일곱 단계로 끝장내는 이슈 기반 버전 관리](https://www.huskyhoochu.com/issue-based-version-control-201)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
