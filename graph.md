@@ -235,6 +235,7 @@ Graph
 * [Gremlin - Traversing Graph Databases with Gremlin](http://www.slideshare.net/slidarko/traversing-graph-databases-with-gremlin)
   * [The Gremlin Graph Traversal Language](http://www.slideshare.net/slidarko/the-gremlin-traversal-language)
   * [Tales from the TinkerPop](http://www.datastax.com/dev/blog/tales-from-the-tinkerpop)
+  * [Gremlin의 by()](https://medium.com/@json.oh/gremlin%EC%9D%98-by-d6f9e6c91a69)
 * [greuler is graph theory visualization tool powered by d3 and on top of WebCola which allows the creation and manipulation of graphs with a simple api](http://maurizzzio.github.io/greuler/)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
