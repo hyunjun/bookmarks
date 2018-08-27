@@ -132,6 +132,7 @@ Algorithm
 * [나눗셈 연산을 곱셈으로 프로그래밍 할 수 있음?](https://libsora.so/posts/float-divide-without-divide/)
 * [나머지 연산자 없이 x % 256 계산하기](https://libsora.so/posts/use-casting-as-mod-operator/)
 * [나머지 연산자 없이 x % (2의 거듭제곱) 계산하기](https://libsora.so/posts/use-bit-op-as-mod-operator/)
+* [최상위 비트의 위치 찾는 방법 low-level을 이용해서 O(logN)으로 구현하기](https://libsora.so/posts/find-the-highest-order-bit/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -293,6 +294,7 @@ Algorithm
 * [해싱 - 2 해시와 탐색](http://codingmonster.net/archives/13426)
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 * [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
+* [SHA-256 Hash Algorithm](http://jusths.tistory.com/43)
 
 ## Consistent Hashing
 * **[입 개발 Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**

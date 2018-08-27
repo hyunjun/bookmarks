@@ -166,6 +166,9 @@ Apache
 
 # [Goblin](https://github.com/apache/incubator-gobblin)
 
+# HAWQ - advanced enterprise SQL-on-Hadoop query engine and analytic database
+* [The Apache Software Foundation Announces Apache® HAWQ® as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces38)
+
 # [Hivemall](https://hivemall.incubator.apache.org/)
 * [hivemall.incubator.apache.org/userguide/index.html](http://hivemall.incubator.apache.org/userguide/index.html)
 * [Scalable machine learning library for Hive/Hadoop](https://github.com/myui/hivemall)
@@ -429,6 +432,10 @@ Apache
 * [Kafka streams Java application to aggregate messages using a session window](http://ericlondon.com/2018/07/26/kafka-streams-java-application-to-aggregate-messages-using-a-session-window.html) Java Kafka stream 기초 예제
 * [Neha Narkhede | Kafka Summit 2017 Keynote (Go Against the Flow: Databases and Stream Processing)](https://www.youtube.com/watch?v=F3pJOg1uErQ) KSQL demo
 * [Neha Narkhede | Kafka Summit 2018 Keynote (The Present and Future of the Streaming Platform) London](https://www.youtube.com/watch?v=eublKlalobg)
+* [Introducing Hortonworks Streams Messaging Manager (SMM)](https://ko.hortonworks.com/blog/introducing-hortonworks-streams-messaging-manager-smm/)
+  * Apache Kafka 운영 관리 도구 & API
+  * kafka의 4가지 엔티티(producer, topic, broker, consumers)에 대한 메트릭을 보여주고, 하나 이상의 (Secure) Kafka cluster에 대한 통합 플랫폼뿐만 아니라 각 클래스에 대해 REST API를 제공
+  * 자사 개발 제품군인 Apache Atlas, Ranger, Ambari와 높은 호환성
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -497,6 +504,7 @@ Apache
   * 간단한 작업에도 적합할까?
 * [Apache NiFi 소개 및 Tensorflow 연동](https://www.facebook.com/nextobe1/posts/337425993360069)
 * [HORTONWORKS DATAFLOW (HDF) 3.1 BLOG SERIES PART 5: INTRODUCING APACHE NIFI-ATLAS INTEGRATION](https://ko.hortonworks.com/blog/hdf-3-1-blog-series-part-6-introducing-nifi-atlas-integration/) Apache NiFi와 Apache Atlas를 Hortonwork DataFlow에 통합하여 Kafka, Hive 등의 데이터를 추적하는 방법을 간략하게 설명
+* [What’s new in Hortonworks DataFlow (HDF) 3.2?](https://ko.hortonworks.com/blog/whats-new-hortonworks-dataflow-hdf-3-2/)
 * [Best practices for using Apache NiFi in real world projects - 3 takeaways](https://medium.com/@abdelkrim.hadjidj/best-practices-for-using-apache-nifi-in-real-world-projects-3-takeaways-1fe6912101db)
   * PoC에서 프로덕션 환경 적용까지 필요한 사례 소개
 * [Building an IIoT system using Apache NiFi, MiNiFi, C2 Server, MQTT and Raspberry Pi](https://medium.com/@abdelkrim.hadjidj/building-an-iiot-system-using-apache-nifi-mqtt-and-raspberry-pi-ce1d6ed565bc) IoT에서 Apache NiFi를 활용하는 예

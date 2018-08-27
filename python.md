@@ -2632,6 +2632,7 @@ Python
   * [pycon korea 2018 드론 및 인공위성 영상을 이용한 태양광발전소 입지분석](https://www.slideshare.net/ssuser6cfa17/pycon-korea-2018-110450391)
 	* [생활탐사 - 파이썬으로 일상에 도움 되는 뉴스 만들기](https://drive.google.com/file/d/1bhsX4kW_gE6t9S6SkGaBnUWM0Y4OFAGV/view)
 	* [PyCon KR 2018 땀내를 줄이는 Data와 Feature 다루기](https://www.slideshare.net/zzonee/2018-pycon-kr-data-feature/zzonee/2018-pycon-kr-data-feature)
+  * [파이콘 2018 후기](https://www.sangkon.com/2018/08/27/pycon-2018/)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)

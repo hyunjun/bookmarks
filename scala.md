@@ -193,6 +193,7 @@ Scala
 * [Why We Do Scala in Zalando](https://jobs.zalando.com/tech/blog/why-we-do-scala)
 * [Tongfei Chen - Towards Typesafe Deep Learning in Scala](https://www.youtube.com/watch?v=PZLvi0qeP90)
   * [Nexus](https://github.com/ctongfei/nexus/blob/master/README.md)
+* **[practice - scala streams](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)**
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

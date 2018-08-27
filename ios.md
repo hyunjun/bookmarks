@@ -367,6 +367,7 @@ iOS
 * [문자열을 문자 단위로 다루기 | Swift](http://seorenn.blogspot.kr/2018/05/swift-string-index.html)
 * [WWDC 2017 & Fall](https://dailyhotel.io/wwdc-2017-fall-7025da3c7a49)
 * [Strings and Characters](http://wlaxhrl.tistory.com/73)
+* [개발자를 위한 영어 for Swift](https://soojin.ro/blog/english-for-developers-swift)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
