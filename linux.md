@@ -45,6 +45,7 @@ Linux
     * [Plugin 살펴 보기 3편 (Connection)](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-3-connection.html)
     * [Plugin 살펴 보기 4편 (inventory)](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-4-inventory.html)
     * [plugin 중에서 python을 이용한 filter에 대한 짧은 이야기](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-python-filter.html)
+		* [Ansible 교육 자료 - 01. Introduction](http://mcpaint.tistory.com/277)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
@@ -594,3 +595,4 @@ Linux
 * [10 Useful Utilities For Linux Users](https://www.unixmen.com/10-useful-utilities-linux-users/)
 * [PinguyBuilder를 이용해서 사용 중인 OS 설정 그대로 iso 파일 만들기](http://bagjunggyu.blogspot.com/2015/10/pinguybuilder-os-iso.html)
 * [24 Things I’ve Learned As A Software Developer Living On Ubuntu For A Weekish](https://hackernoon.com/24-things-learned-as-software-developer-on-ubuntu-for-a-weekish-5b7b0da5d4b5)
+* [우분투(Ubuntu)에서 신규 커널 설치 후 USB, WIFI가 동작하지 않을 때 해결 방법](http://kkamagui.tistory.com/901)

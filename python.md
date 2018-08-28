@@ -2762,3 +2762,4 @@ Python
 * [py2exe와 py2app을 통한 Windows/OS X용 실행파일 만들기](https://spoqa.github.io/2013/05/21/py2exe-and-py2app.html)
 * [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
+* [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)

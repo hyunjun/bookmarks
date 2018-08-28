@@ -802,6 +802,7 @@ Javascript
   * [Promise visualization playground for the adventurous http://bevacqua.github.io/promisees](https://github.com/bevacqua/promisees)
   * [promisees - promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
   * [쉽게 이해하는 자바스크립트 Promise](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
+  * [자바스크립트 promise? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=CA5EDD4Hjz4)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [Pt - An experiment on visual forms in code](http://williamngan.github.io/pt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)

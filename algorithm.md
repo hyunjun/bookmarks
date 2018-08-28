@@ -295,6 +295,7 @@ Algorithm
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 * [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 * [SHA-256 Hash Algorithm](http://jusths.tistory.com/43)
+* [SHA-256 프로세스 정리](http://jusths.tistory.com/44)
 
 ## Consistent Hashing
 * **[입 개발 Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**

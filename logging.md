@@ -32,6 +32,7 @@ Logging
 * **NDC18 〈야생의 땅: 듀랑고〉의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유**
   * [1부](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
   * [2부](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
+* [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
