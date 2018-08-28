@@ -240,6 +240,7 @@ NLP
 * [Unicode 2.0 에서 한글의 이해](https://spectrumdig.blogspot.com/2012/11/unicode-20.html)
 * [한글 유니코드 자소 분리](http://dream.ahboom.net/entry/%ED%95%9C%EA%B8%80-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%9E%90%EC%86%8C-%EB%B6%84%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 * [PyConKr 2018 Why I learn, How I learn](https://github.com/songys/pycon2018_keynote/blob/master/PyCon_2018_youngsooksong.pdf)
+* **[Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)**
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

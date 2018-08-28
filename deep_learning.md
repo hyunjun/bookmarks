@@ -649,6 +649,7 @@ Deep Learning
 * [Deep Learning for AI (1)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-1)
 * [Deep Learning for AI (2)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-2)
 * [Deep Learning for AI (3)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-3)
+* [Montréal.AI Academy : AI 101](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

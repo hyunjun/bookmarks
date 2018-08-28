@@ -1252,6 +1252,7 @@ Python
 * [Taking Django Async](https://www.youtube.com/watch?v=786Lq_L0Nbw)
 * [Intro to Django's Annotate](https://www.youtube.com/watch?v=KbwmdKl-QbI)
 * [2018년 8월 5일, 서울창조허브 10F에서 열리는 개발기술연합세미나, 파이썬 세션, 장고 샘플 프로젝트](https://github.com/allieus/demo-20180805-startup-dev)
+* [Django 2.1 Tutorial-Build a Travel Blog with Goorm IDE and Bootstrap 4(Unspoken version)](https://www.youtube.com/watch?v=ozSepodKOyg)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
