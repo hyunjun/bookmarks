@@ -1921,6 +1921,7 @@ CVPR2016)
 * [Deep Reinforcement Learning Tutorial](https://github.com/awjuliani/oreilly-rl-tutorial)
 * [Safe Reinforcement Learning](https://www.slideshare.net/DongMinLee32/safe-reinforcement-learning)
 * [Reinforcement Learning - A Simple Python Example and a Step Closer to AI with Assisted Q-Learning](https://amunategui.github.io/reinforcement-learning/index.html)
+* [RL](Rlhttps://www.slideshare.net/wonseokjung2/rl-112055345)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

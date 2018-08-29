@@ -1604,6 +1604,7 @@ Python
 * [A very simple demo of interactive controls on Jupyter notebook](https://towardsdatascience.com/a-very-simple-demo-of-interactive-controls-on-jupyter-notebook-4429cf46aabd)
 * [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 * [Scheduling Notebooks at Netflix](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
+* [I don't like Notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_639)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능

@@ -273,6 +273,7 @@ ElasticSearch - Lucene
 * [Elasticsearch 6.0.0 GA released](https://www.elastic.co/blog/elasticsearch-6-0-0-released)
 * [Removal of Mapping Types in Elasticsearch 6.0](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
 * [Install and run Elastic APM](https://www.elastic.co/guide/en/apm/get-started/current/install-and-run.html)
+* [Elastic APM RUM JS Agent is Generally Available](https://www.elastic.co/kr/blog/elastic-apm-rum-js-agent-is-generally-available)
 * [Enriching logs with Docker metadata using Filebeat](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat)
 * [Filebeat modules, access logs and Elasticsearch storage requirements](https://www.elastic.co/blog/filebeat-modiles-access-logs-and-elasticsearch-storage-requirements)
 * [Elasticsearch 6.x 에서 join 관계 설정 및 Logstash 색인 설정](http://kimjmin.net/2018/01/2018-01-parent-child-to-join/)
