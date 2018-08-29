@@ -1370,6 +1370,8 @@ Python
   * [1부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-1%EB%B6%80/)
   * [2부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-2%EB%B6%80/)
 * [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04)
+* [Python Flask에서 페이지 Redirect 이동하는 방법](https://webisfree.com/2017-08-06/python-flask%EC%97%90%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-redirect-%EC%9D%B4%EB%8F%99%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+* [Flask: redirect vs redirect(url_for)](https://teamtreehouse.com/community/flask-redirect-vs-redirecturlfor)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
@@ -2639,6 +2641,7 @@ Python
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 * [PyPy warmup improvements](http://morepypy.blogspot.kr/2015/09/pypy-warmup-improvements.html)
 * [Automatic SIMD vectorization support in PyPy](http://morepypy.blogspot.kr/2015/10/automatic-simd-vectorization-support-in.html)
+* [cppyy: C++ bindings for PyPy](http://doc.pypy.org/en/release-2.4.x/cppyy.html)
 
 # Python3
 * 2 & 3 호환

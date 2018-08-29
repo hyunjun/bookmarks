@@ -195,6 +195,7 @@ Nomad & Remote
 * [The Berlin Startup Salary Report](https://journal.jobspotting.com/en/berlin-startup-salary-report/)
 * [SALARY IN BERLIN – THIS IS HOW MUCH YOU SHOULD GET PAID](https://www.settle-in-berlin.com/salary-in-berlin/)
 * [www.averagesalarysurvey.com/berlin-germany](http://www.averagesalarysurvey.com/berlin-germany)
+* [실리콘밸리보다 베를린인 이유](https://iamsang.com/blog/2017/10/30/berlin-over-silicon-valley/)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)

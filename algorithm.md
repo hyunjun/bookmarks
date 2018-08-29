@@ -50,6 +50,7 @@ Algorithm
 * [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
 * [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37)
 * [Minimax with Alpha Beta Pruning](https://www.youtube.com/watch?v=zp3VMe0Jpf8)
+* [minimax algorithm](https://www.youtube.com/watch?v=6ELUvkSkCts)
 * [A step-by-step guide to building a simple chess AI](https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
 * [Fisher-Yates shuffle](http://www.programming-algorithms.net/article/43676/Fisher-Yates-shuffle)
