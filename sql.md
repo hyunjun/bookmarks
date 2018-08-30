@@ -80,6 +80,7 @@ SQL
 * [MySQL에서 RDS(Aurora) 로 이관하기](https://blog.stibee.com/mysql%EC%97%90%EC%84%9C-rds-aurora-%EB%A1%9C-%EC%9D%B4%EA%B4%80%ED%95%98%EA%B8%B0-227db1da8fd8)
 * [Amazon Aurora 내부 들여다보기 (1) – 쿼럼 및 상관 오류 해결 방법](https://aws.amazon.com/ko/blogs/korea/amazon-aurora-under-the-hood-quorum-and-correlated-failure)
 * [20180726 AWS KRUG - RDS Aurora에 40억건 데이터 입력하기](https://www.slideshare.net/addnull/20180726-aws-krug-rds-aurora-40-107532095)
+* [Amazon Aurora – MySQL에서 DB 부하에 대한 최적화 방법](https://aws.amazon.com/ko/blogs/korea/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)

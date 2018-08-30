@@ -285,7 +285,7 @@ Business
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
-* [“컨센서스를 이루지 말고 의사 결정을 내려라”(1)](http://bridge.500startups.co.kr/%EC%BB%A8%EC%84%BC%EC%84%9C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%A0%95%EC%9D%84-%EB%82%B4%EB%A0%A4%EB%9D%BC1/?utm_source=The+Bridge+Email+Subscribers&utm_campaign=9db3b38982-New_Post_RSS_Mailchimp&utm_medium=email&utm_term=0_b639d16fa9-9db3b38982-217183169)
+* [“컨센서스를 이루지 말고 의사 결정을 내려라”(1)](http://bridge.500startups.co.kr/%EC%BB%A8%EC%84%BC%EC%84%9C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%A0%95%EC%9D%84-%EB%82%B4%EB%A0%A4%EB%9D%BC1)
 * [조직의 동의를 얻는 법](http://www.andrewahn.co/product/getting-to-an-yes)
 
 # Manager Management

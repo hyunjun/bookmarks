@@ -641,6 +641,7 @@ App
   * [putty를 이용한 ssh 접속 환경 설정](http://moomini.tistory.com/70)
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
   * e.g. `choco install openssh` install ssh
+  * [rkttu dotfiles](https://github.com/rkttu/dotfiles)
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * Cygwin
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)

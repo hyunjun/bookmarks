@@ -225,6 +225,7 @@ AWS
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 * [Terraform으로 ACM 인증서 생성하기](https://blog.outsider.ne.kr/1398)
+* [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
