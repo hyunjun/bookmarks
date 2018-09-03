@@ -1625,6 +1625,7 @@ Python
   * [Google Colab - 구글 드라이브 연동하기](https://brunch.co.kr/@jayden-factory/6)
   * [구글 콜래보래토리 소개 (revised)](https://colab.research.google.com/drive/1UvCUf0V0BYiMArtOJOUjt_Pgy4aHd8o9)
   * [Colaboratory 에서 pandas.read_csv 시에 한글내용 깨짐](http://jusths.tistory.com/42)
+  * [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 
@@ -1808,6 +1809,7 @@ Python
   * **[Xray + Dask](https://anaconda.org/ijstokes/xray-dask/notebook)**
   * [matthewrocklin.com/blog](http://matthewrocklin.com/blog/)
     * [Asynchronous Optimization Algorithms with Dask - Computations that evolve on partial results](http://matthewrocklin.com/blog/work/2017/04/19/dask-glm-2)
+  * [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)
 * **[Dedupe](https://dedupe.readthedocs.io)** de-duplication and entity resolution quickly on structured data
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)

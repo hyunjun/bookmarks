@@ -31,6 +31,7 @@ Presentation
 * [Spring Camp 2017 연사 후기](http://blog.woniper.net/344)
 * [직장인의 장표 만들기](https://brunch.co.kr/@hyungsukkim/70)
 * [투자자가 줄을 서는 이 회사 PPT의 비결](http://naver.me/xzk4DqIC)
+* [무적의 투자유치용 덱 작성법](http://bridge.500startups.co.kr/%EB%AC%B4%EC%A0%81%EC%9D%98-%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98%EC%9A%A9-%EB%8D%B1-%EC%9E%91%EC%84%B1%EB%B2%95/)
 
 # Icons, Images
 * [thenounproject.com](http://thenounproject.com/) icons for everything

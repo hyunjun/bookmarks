@@ -105,6 +105,7 @@ Finance
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
+* [Simple Bank Korea](https://github.com/Beomi/simple_bank_korea)
 * [Zipline - a Pythonic algorithmic trading library](http://www.zipline.io/)
   * Programming for Finance with Python and Quantopian and Zipline
     * [Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)

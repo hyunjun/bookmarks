@@ -38,6 +38,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * [수학포기자를 위한 딥러닝과 텐서플로우의 이해](http://bcho.tistory.com/1208)
 * [수학자는 어떻게 인공지능을 발전시키는가?](https://brunch.co.kr/@kakao-it/244)
+* [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
 * [MathsDL-spring18 - Topics course Mathematics of Deep Learning, NYU, Spring 18](https://joanbruna.github.io/MathsDL-spring18/)
 * [딥러닝 마일스톤](https://www.facebook.com/nextobe1/posts/344853295950672)
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
@@ -1580,6 +1581,7 @@ Deep Learning
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
 * [YOLO DARKNET - 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)
   * [github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet/)
+* [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
 
 # Medical
 * [MOLIERE: Automatic Biomedical Hypothesis Generation System](https://www.youtube.com/watch?v=wA6OCix-4FU&t=7s)

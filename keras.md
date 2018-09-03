@@ -148,6 +148,7 @@ Keras
 * [Keras와 HDF5으로  대용량 데이터 학습하기](http://nuxlear.tistory.com/m/4)
 * [Keras gets a lightning fast backend!](https://medium.com/apache-mxnet/keras-gets-a-speedy-new-backend-with-keras-mxnet-3a853efc1d75)
 * [Keras implementation of Image OutPainting](https://github.com/bendangnuksung/Image-OutPainting)
+* [Google Colaboratory에서 Keras의 백엔드로서 MXNet을 설정하는 방법](https://gist.github.com/serithemage/ee86d2d9db762e522287cebfb540e35d)
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

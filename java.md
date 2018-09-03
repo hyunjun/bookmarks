@@ -232,6 +232,7 @@ Java
 * [IntelliJ & 안드로이드 스튜디오 기본 가이드 소개](http://jojoldu.tistory.com/321)
 * [IntelliJ 사용법](https://github.com/cheese10yun/IntelliJ)
 * [IntelliJ 사용팁](https://www.popit.kr/intellij-%EC%82%AC%EC%9A%A9%ED%8C%81/)
+* [Eclipse의 Workspace와 IntelliJ의 Project](https://jojoldu.tistory.com/334)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)

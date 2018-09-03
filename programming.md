@@ -396,6 +396,7 @@ Programming
 * [Spring Camp 2018 : 11번가 Spring Cloud 기반 MSA로의 전환 – 지난 1년간의 이야기](http://readme.skplanet.com/?p=13933) spring boot, hystrix, ribbon, eureka, zuul
 * [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
   * [번역 잘가요 마이크로서비스: 100개의 문제점 투성이를 1개의 슈퍼스타로](https://tech.ssut.me/2018/07/31/goodbye-microservice/)
+* [마이크로서비스 아키텍처 구축하기](https://blog.powerumc.kr/501)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -449,6 +450,7 @@ Programming
   * [Google Cloud ML Examples](https://github.com/hunkim/GoogleCloudMLExamples)
     * [Google Cloud ML with Examples 1 (KOREAN)](https://www.youtube.com/watch?v=8Jkz2HexDAM)
   * [Cloud TPU 사용하기](http://jybaek.tistory.com/707)
+  * [What makes TPUs fine-tuned for deep learning?](https://cloud.google.com/blog/products/ai-machine-learning/what-makes-tpus-fine-tuned-for-deep-learning)
   * [How to use Google Cloud TPUs?](https://medium.com/@cylee_80935/how-to-use-google-cloud-tpus-177c3a025067)
   * [Cloud tpu jae_180814](https://www.slideshare.net/JaewookKang1/cloud-tpu-jae180814)
   * [tpu-tutorial-experiments](https://github.com/jwkanggist/tpu-tutorial-experiment)
@@ -710,6 +712,9 @@ Programming
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Anatomy of a Program in Memory](http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/)
 * [FaRM: Fast Remote Memory](https://www.usenix.org/system/files/conference/nsdi14/nsdi14-paper-dragojevic.pdf)
+* [메모리 특강](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
+* [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
+* [Avoiding race conditions in SharedArrayBuffers with Atomics](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
@@ -890,6 +895,7 @@ Programming
 	* [8월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/08/b-8-2.html)
   * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/08/b-8-3.html))
   * [8월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/08/b-8-4.html)
+	* [8월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/09/b-8-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -925,6 +931,7 @@ Programming
   * [기술 뉴스 #106 : 18-07-15](https://blog.outsider.ne.kr/1389)
   * [기술 뉴스 #107 : 18-08-01](https://blog.outsider.ne.kr/1393)
   * [기술 뉴스 #108 : 18-08-15](https://blog.outsider.ne.kr/1396)
+	* [기술 뉴스 #109 : 18-09-01](https://blog.outsider.ne.kr/1400)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -933,6 +940,7 @@ Programming
   * [1805호](https://blog.gaerae.com/2018/05/monthly.html)
   * [1806호](https://blog.gaerae.com/2018/06/monthly.html)
   * [1807호](https://blog.gaerae.com/2018/07/monthly.html)
+	* [1808호](https://blog.gaerae.com/2018/08/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

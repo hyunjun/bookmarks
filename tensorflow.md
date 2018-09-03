@@ -94,6 +94,8 @@ TensorFlow
 * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
 * [Jupyter notebok tensorboard 실행하기 20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
 * [TensorBoard support Embedding Visualization](https://tensorflow.blog/2016/11/30/tensorboard-support-embedding-visualization/)
+* [Tensorboard Embedding Visualization](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials/tree/master/tensorflow_Application/tensorflow_MnistEmbeddingVisualizationWithTensorboard)
+* [AutoEncoder 에서 뽑은 Z vector Tensorboard 에서 보기](http://nuxlear.tistory.com/3?category=280392)
 * [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [tensorboard-embedding-visualization - Visualize embedding on tensorboard with thumbnail images](https://github.com/jireh-father/tensorboard-embedding-visualization)
   * 함수한번 호출 하면 특정 데이터셋에 대한 sprite 이미지와 라벨파일 전부 자동으로 만들어주고 embedding 정보까지 저장

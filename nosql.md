@@ -315,6 +315,7 @@ NoSQL
 * [MongoEngine 문서](http://mongoengine-kor.readthedocs.io)
 * [pymongo](https://api.mongodb.com/python/current)
 * [blog.kjslab.com/tag/MongoDB](http://blog.kjslab.com/tag/MongoDB)
+* [MongoDB 원격 접속 설정](https://rhostem.github.io/posts/2018-08-31-mongodb-connection/)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)

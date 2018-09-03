@@ -375,6 +375,7 @@ App
 * [mackup](https://github.com/lra/mackup)
 * macvim
   * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
+* [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) 워크스페이스 정리
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
@@ -434,6 +435,7 @@ App
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
 * [Mac에서 library not found for lgfortran 에러 해결하기](https://lumiamitie.github.io/r/mac-lgfortran/)
+* **[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)** default보다 나은 command line tool 설명
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew

@@ -36,6 +36,11 @@ Programming Books
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
+* (NOT YET) 데브옵스 2.0 툴킷
+	* 2018.09 한라
+* (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
+* (NOT YET) [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821?category=203154)
+	* 2018.09 한라
 
 # Agile Scrum
 
@@ -147,6 +152,10 @@ Programming Books
   * OS X 사용자를 위해 Xcode 설치가 나와있는 점도 특이
 * Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저
   * [북리뷰 Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저](http://blog.naver.com/yo2dh/220822566110)
+* (NOT YET) [모던 C++로 배우는 동시성 프로그래밍](http://jpub.tistory.com/824)
+  * 2018.09 한라
+* (NOT YET) [모던 C++로 배우는 함수형 프로그래밍 - 커링, 메타프로그래밍 등 C++와 함수형 프로그래밍의 핵심](http://acornpub.co.kr/book/cplus-functional-programming)
+  * 2018.09 한라
 
 # C#
 
@@ -335,6 +344,8 @@ Programming Books
   * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%85%B0%ED%94%84%EC%9D%98-3%EB%B6%84-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%BC%80%EB%9D%BC%EC%8A%A4%EB%A7%9B)
 * (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
   * 2018.02 한라
+* (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
+	* 2018.09 한라
 * 강화학습 첫 걸음
   * 2018.03
   * 문004.73 줄239ㄱ
@@ -410,6 +421,8 @@ Programming Books
   * 전반부는 설명, 후반부는 에제(scikit-learn 사용)
 * 머신러닝 실무 프로젝트
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-42d1b2bac9cd)
+* (NOT YET) [(Kaggle 우승작으로 배우는) 머신러닝 탐구생활](http://bjpublic.tistory.com/310)
+  * 2018.09 탐라
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -489,7 +502,8 @@ Programming Books
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
 * [도메인 주도 설계(에릭에반스) -2](https://ash84.net/2017/06/08/domain-driven-development_2/)
 * [도메인 주도 설계(에릭에반스) -3](https://ash84.net/2017/06/11/domain-driven-development_3/)
-* [서평: 도메인 주도 설계 핵심](https://blog.gaerae.com/2018/08/domain-driven-design-distilled.html)
+* [도메인 주도 설계 핵심](https://blog.gaerae.com/2018/08/domain-driven-design-distilled.html)
+	* [추상화를 조심스럽게 선택하라](http://huns.me/development/2252)
 * [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
 
 # Elasticsearch
@@ -1009,6 +1023,10 @@ Programming Books
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
 * 고성능 파이썬
   * 한라 005.133고294ㄱ
+* (NOT YET) [실전 스케일링 파이썬 프로그래밍](http://www.insightbook.co.kr/12906)
+  * 2018.09 탐라
+* (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
+	* 2018.08 탐라
 
 # R
 

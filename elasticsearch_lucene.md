@@ -286,6 +286,7 @@ ElasticSearch - Lucene
 * [6.1.1 elasticsearch 설치 및 환경 설정](https://blog.naver.com/naran290/221307943343)
 * [Elastic 6.3 에서 상용 라이센스 활성](http://kimjmin.net/2018/08/2018-08-install-security-over-es63/)
 * [2018-08-29 Elastic Stack 6.4 Upgrade Webinar](https://www.youtube.com/watch?v=P6ezu7FJthg)
+* [Elastic Stack 업그레이드 시 주의할점](http://kimjmin.net/2018/09/2018-09-migration-caution))
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)

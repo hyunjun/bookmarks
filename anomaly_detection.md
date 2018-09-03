@@ -1,6 +1,7 @@
 Anomaly Detection
 =================
 
+* [awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection)
 * [Introduction to Anomaly Detection: Concepts and Techniques](https://iwringer.wordpress.com/2015/11/17/anomaly-detection-concepts-and-techniques/)
 * [NOT Yet Another Anomaly Detection Package](https://www.getlytics.com/blog/post/check_out_anomalyzer)
 * [Probabilistic Programming for Anomaly Detection](http://blog.fastforwardlabs.com/post/143792498983/probabilistic-programming-for-anomaly-detection)
