@@ -902,6 +902,7 @@ Python
   * [How in the world do you Mock a name attribute?](https://bradmontgomery.net/blog/how-world-do-you-mock-name-attribute/)
   * [How to Mock a name attribute?](http://blog.tunarob.com/2017/04/27/mock-name-attribute)
   * [Allow doubling a particular instance method on all instances of a class](https://github.com/uber/doubles/issues/90)
+  * [Today I Learned: 파이썬 단위 테스트 모듈, unittest](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AA%A8%EB%93%88-unittest/)
 * urllib
   * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
   * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
