@@ -91,6 +91,7 @@
 * [How to make a digital voltmeter using Arduino](https://medium.freecodecamp.org/how-to-make-a-digital-voltmeter-using-arduino-b4dbf5b94d6f)
 * [손글씨 대신 써주는 숙제 로봇 만들기](http://smartaedi.tistory.com/296)
 * [아두이노를 이용한 기상정보 수집과 빅데이터 분석 3. 프로그램 코딩](https://www.youtube.com/watch?v=wmR25QATNrU)
+* [Arduino Serial 로 hex 전송하기](http://jusths.tistory.com/49)
 
 # [Artik](https://www.artik.io/)
 

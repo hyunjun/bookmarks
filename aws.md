@@ -227,6 +227,7 @@ AWS
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 * [Terraform으로 ACM 인증서 생성하기](https://blog.outsider.ne.kr/1398)
 * [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
+* [신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰](https://www.slideshare.net/ssuser67b08e/aws-112573762)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

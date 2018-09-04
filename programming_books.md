@@ -110,6 +110,7 @@ Programming Books
 * (NOT YET) [안드로이드 개발 레벨업 교과서](http://wikibook.co.kr/advanced-android-book)
   * 2017.06 한라
 * [핵심만 골라 배우는 안드로이드 스튜디오3 & 프로그래밍](https://github.com/Jpub/Androidstudio3)
+* [나의 첫 안드로이드: 안드로이드 기초부터 실습까지](https://www.youtube.com/playlist?list=PLVsNizTWUw7F7esGouHumJdP8NW7Embci)
 
 # Architecture
 

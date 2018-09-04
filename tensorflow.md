@@ -622,6 +622,7 @@ TensorFlow
   * [How to build a Teachable Machine with TensorFlow.js](https://beta.observablehq.com/@nsthorat/how-to-build-a-teachable-machine-with-tensorflow-js)
   * [A Project Based Introduction to TensorFlow.js](http://kexp.io/intro_tensorflowjs/)
   * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
+  * [An Introduction to TensorFlow.js with Nick Kreeger](https://www.techleer.com/articles/553-an-introduction-to-tensorflowjs-with-nick-kreeger/)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
