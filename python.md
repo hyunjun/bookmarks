@@ -421,6 +421,7 @@ Python
   * [A brief tour of Python 3.7 data classes](https://hackernoon.com/a-brief-tour-of-python-3-7-data-classes-22ee5e046517)
   * [Dynamically create a type with Python](http://henry.precheur.org/python/Dynamically%20create%20a%20type%20with%20Python.html)
   * [PYTHON Special methods - Customizing class creation](https://gist.github.com/dbckdghk/f6d2e877bc1cfeb20ca91e0afe18089f)
+  * [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/#class-methods)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -1437,6 +1438,8 @@ Python
   * [mac에서 pyqt5 시작해 보기](http://mcchae.egloos.com/11285592)
   * [pyqt5 GUI unittest 수행 간단한 툴](https://blog.naver.com/4uwingnet/221265938344)
   * [PyCon2018 PyQt로 만드는 웹 기반 어플리케이션 만들기](https://www.slideshare.net/ravenkyu/py-con2018-pyqt)
+  * [Qt 입문자 및 Qt for Python을 위한 작은 소개](https://www.popit.kr/qt-%EC%9E%85%EB%AC%B8%EC%9E%90-%EB%B0%8F-qt-for-python%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9E%91%EC%9D%80-%EC%86%8C%EA%B0%9C/)
+  * [헬로우 큐트 포 파이썬 (Hello Qt for Python)](https://www.popit.kr/%ED%97%AC%EB%A1%9C%EC%9A%B0-%ED%81%90%ED%8A%B8-%ED%8F%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-hello-qt-for-python/)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter

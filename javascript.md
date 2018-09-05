@@ -33,7 +33,6 @@ Javascript
 * [js_core_curri](https://github.com/newpouy/js_core_curri)
 * [js-must-watch - Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [tryhelloworld.co.kr/courses/자바스크립트-입문](https://tryhelloworld.co.kr/courses/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8)
-* [try! helloworld 자바스크립트](https://thebook.io/006894/)
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [OK, Now I'll learn How To Program In JavaScript!](https://medium.com/@fagnerbrack/ok-now-ill-learn-how-to-program-in-javascript-2c7847414830)
 * [Want to learn JavaScript? Here’s a free 24-part course to get you started](https://medium.freecodecamp.org/want-to-learn-javascript-heres-a-free-24-part-course-to-get-you-started-e7777baf86fb)
@@ -116,7 +115,6 @@ Javascript
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
-* [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
 * [The viability of JS frameworks on mobile](https://joreteg.com/blog/viability-of-js-frameworks-on-mobile)
 * [HTTP Live Streaming In Javascript](https://blog.peer5.com/http-live-streaming-in-javascript/)
@@ -404,6 +402,11 @@ Javascript
 * [Display a Table using Components with Angular 4](https://codeburst.io/display-a-table-using-components-with-angular-4-f13f0971666d)
 * [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 * [How to build a serverless CMS-powered Angular app](https://medium.freecodecamp.org/how-to-build-a-serverless-cms-powered-angular-app-3eb76605799f)
+
+# Book
+* [try! helloworld 자바스크립트](https://thebook.io/006894/)
+* [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+* [Eloquent JavaScript 3RD EDITION](http://eloquentjavascript.net/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -1664,3 +1667,4 @@ Javascript
 * [실무에서 사용하는 Vue.js 프로젝트 구조](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
 * [Evan you on proxies](http://devtimothy.tistory.com/88)
 * [난 React와 Vue에서 완전히 똑같은 앱(todo)을 만들었다. 여기 그 차이점이 있다.(번역글)](https://medium.com/@erwinousy/%EB%82%9C-react%EC%99%80-vue%EC%97%90%EC%84%9C-%EC%99%84%EC%A0%84%ED%9E%88-%EA%B0%99%EC%9D%80-%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EC%9D%B4%EA%B2%83%EC%9D%80-%EA%B7%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%EB%8B%A4-5cffcbfe287f)
+* [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](http://devtimothy.tistory.com/91)
