@@ -128,6 +128,7 @@ Functional Programming
 
 # Python
 * [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)
+* [Functional Programming Demystified](https://www.youtube.com/watch?v=WkAHju2-W7Q)
 
 # Scala
 * [Scala code examples for Functional Programming Jargon](https://github.com/ikhoon/functional-programming-jargon.scala)

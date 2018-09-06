@@ -2421,6 +2421,9 @@ Python
 * [Why you should start using .npy file more often…](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161)
 * [파이썬으로 데이터 분석하기 #4-1](https://jungwoon.github.io/python/2018/04/05/Data-Analysis-With-Python-5/)
 * [NumPy와 C++ Extensions의 성능 비교](http://docs.likejazz.com/python-numpy-extensions/)
+* NumPy Python Tutorial 2018
+  * [Part 1](https://www.youtube.com/watch?v=rvY0MskPps0)
+  * [Part 2](https://www.youtube.com/watch?v=P_3MyPMXN0Y)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
@@ -2718,6 +2721,7 @@ Python
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
 * [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
+* [Automated Tests in Python](https://powerfulpython.com/blog/automated-tests-types-for-python/)
 
 # Type
 * [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)

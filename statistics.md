@@ -339,6 +339,8 @@ Statistics
 * [Statistical Modeling In Python](https://www.youtube.com/watch?v=sZISc-VqVWg)
 * [Christopher Fonnesbeck - Introduction to Statistical Modeling with Python - PyCon 2017](https://www.youtube.com/watch?v=TMmSESkhRtI)
 * [Statistics Using Python Tutorial](https://www.youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
+  * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
+  * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)
