@@ -637,6 +637,7 @@ Machine Learning
 * [Creating your AI projects on Kaggle](https://medium.com/@benhamner/creating-your-ai-projects-on-kaggle-ff49f679f611)
 * [How I got in the top 1 % on Kaggle](https://towardsdatascience.com/how-i-got-in-the-top-1-on-kaggle-79ddd7c07f1c)
 * [Deep Learning Practitioner의 캐글 2회 참가기](https://www.youtube.com/watch?v=zNzAAStE66o)
+* [Pycon korea 2018 kaggle tutorial(kaggle break)](https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
