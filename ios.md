@@ -187,6 +187,7 @@ iOS
 * [MVVM — MVC done right](https://codeburst.io/why-mvvm-mvc-as-we-know-is-a-lie-and-why-im-fine-with-it-d8bc14be1f17)
 * [MVVM 학습 정리](https://medium.com/@junhyi.park/mvvm-%ED%95%99%EC%8A%B5-%EC%A0%95%EB%A6%AC-bb7576e23c65)
 * [MVVM-C 학습자료 정리 MVVM-C란? Runtastic 의 MVVM-C 소개](https://medium.com/@junhyi.park/mvvm-c-%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC-7f169f3e376a)
+* [Swift Tutorial: An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Writing Cleaner Asynchronous Code with PromiseKit](http://littlebitesofcocoa.com/post/120620198336/13-writing-cleaner-asynchronous-code-with)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
@@ -367,6 +368,7 @@ iOS
 * [문자열을 문자 단위로 다루기 | Swift](http://seorenn.blogspot.kr/2018/05/swift-string-index.html)
 * [WWDC 2017 & Fall](https://dailyhotel.io/wwdc-2017-fall-7025da3c7a49)
 * [Strings and Characters](http://wlaxhrl.tistory.com/73)
+* [Collection Types](http://wlaxhrl.tistory.com/74)
 * [개발자를 위한 영어 for Swift](https://soojin.ro/blog/english-for-developers-swift)
 
 ## Library

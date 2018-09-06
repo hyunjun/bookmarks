@@ -1094,6 +1094,7 @@ NLP
 * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 * [Word2Vec](https://www.youtube.com/watch?v=sY4YyacSsLc)
 * [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
+* [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning/)
 * [Word2vec로 사용할 수 있는 벡터 모델들](http://www.neuromancer.kr/t/word2vec/481)
 * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
 * [word embedding 관련 정리](http://nohhj.blogspot.com/2015/08/word-embedding.html)

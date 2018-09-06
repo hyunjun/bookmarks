@@ -386,6 +386,7 @@ Python
 * [Experienced python programmers: are there any standard features of the language that you still don't regularly use?](https://www.reddit.com/r/Python/comments/6i829l/experienced_python_programmers_are_there_any/) 파이썬의 다양한 언어적 기능
 * **[What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems)](https://www.youtube.com/watch?v=SlI9eOfxJJc)** dunder, custom iterator, functool.partial, contextmanager, closure, wraps/wrapt
 * [Solve Your Problem With Sloppy Python](https://www.youtube.com/watch?v=QsTVDx20y1M) os, subprocess, ...
+* [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -513,6 +514,7 @@ Python
   * [2014 PyCon KR: 위대한 dict 이해하고 사용하기](https://speakerdeck.com/jongman/2014-pycon-kr-widaehan-dict-ihaehago-sayonghagi)
   * [구종만 위대한 dict 이해하고 사용하기 PYCON KOREA 2014](https://www.youtube.com/watch?v=E4bF3tPxeDE)
   * [Python Dictionary 순서 보장 원리](https://blog.sinwoobang.me/post/176050610602/pythondictorder)
+	* `z = {**x, **y}` [How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/a/26853961)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
@@ -2759,9 +2761,6 @@ Python
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
-* [4개의 Web Frameworks 비교 (Pyramid, Bottle, Django, Flask)](http://egloos.zum.com/mcchae/v/11064660)
-* [An Introduction to Python WSGI Servers: Part 1](https://blog.appdynamics.com/python/an-introduction-to-python-wsgi-servers-part-1/)
-* [A Performance Analysis of Python WSGI Servers: Part 2](https://blog.appdynamics.com/python/a-performance-analysis-of-python-wsgi-servers-part-2/)
 * [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)
 * [웹 크롤링에 대해서](http://lumiamitie.github.io/web/introduction-to-web-crawling/)
@@ -2774,3 +2773,4 @@ Python
 * [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
 * [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)
+* [Performing Python repetitive tasks in Windows](https://medium.com/@maxtortime_88708/performing-python-repetitive-tasks-in-windows-4cf6246f36a9)
