@@ -1752,6 +1752,7 @@ Python
   * [셀러리 입문하기](https://beomi.github.io/2017/03/19/Introduction-to-Celery/)
   * [Asynchronous Tasks in Python - Celery Backend Tutorial](https://www.youtube.com/watch?v=UHveawwmi-o)
   * [Asynchronous Tasks in Python - Getting Started With Celery](https://www.youtube.com/watch?v=fg-JfZBetpM)
+  * [Flower - Celery monitoring tool](https://flower.readthedocs.io/)
 * [cffi](http://cffi.readthedocs.io/)
   * [Flexible runtime interface to shared libraries with libffi](http://eli.thegreenplace.net/2013/03/04/flexible-runtime-interface-to-shared-libraries-with-libffi/)
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
@@ -2759,12 +2760,6 @@ Python
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
     * `apt-get install libpcre3-dev -y`
-  * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
-  * [uwsgitop is a top-like command that uses the uWSGI Stats Server to monitor your uwsgi application](https://github.com/xrmx/uwsgitop)
-* [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
-* [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
-* [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
-* [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)
 * [웹 크롤링에 대해서](http://lumiamitie.github.io/web/introduction-to-web-crawling/)
@@ -2777,4 +2772,3 @@ Python
 * [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
 * [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)
-* [Performing Python repetitive tasks in Windows](https://medium.com/@maxtortime_88708/performing-python-repetitive-tasks-in-windows-4cf6246f36a9)

@@ -242,6 +242,7 @@ R
 * [How to reshape data in R: tidyr vs reshape2](http://www.milanor.net/blog/reshape-data-r-tidyr-vs-reshape2/)
 * [10 not so intuitive things about programming with R](https://towardsdatascience.com/10-not-so-intuitive-things-about-programming-with-r-a4d9d120c42c)
 * [R for Data Science online learning community](http://www.rfordatasci.com/)
+* [큰 자릿수의 정수를 csv 포맷으로 제대로 출력하기](https://lumiamitie.github.io/r/integer64-in-r/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

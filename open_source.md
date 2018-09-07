@@ -225,6 +225,9 @@ Open Source
 * [Pelikan is a cache framework written in C. It provides an expanding collection of cache services, and a common library used to build them](http://twitter.github.io/pelikan/)
 
 # Uber
+* Apollo
+	* [Real Time Analytics at UBER Scale](https://www.youtube.com/watch?v=XSXvPNEykb4)
+	* [Video: Real-Time Analytics at UBER Scale](https://www.memsql.com/blog/real-time-analytics-at-uber-scale/)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [AthenaX](https://eng.uber.com/athenax/)
   * [github.com/uber/AthenaX](https://github.com/uber/AthenaX)

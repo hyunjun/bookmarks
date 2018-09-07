@@ -83,6 +83,7 @@
 * [Kotlin Coroutines – Retrofit2 + Coroutines 동시에 다루기](http://www.kmshack.kr/2018/05/kotlin-coroutines-retrofit2-coroutines-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
 * [Kotlin 작성한 코드 Decompile](https://thdev.tech/kotlin/2018/05/22/Android-Studio-Kotlin-Decompile.html)
 * [Kotlin 더 잘 활용하기](https://thdev.tech/kotlin/2018/08/13/Kotlin-Improving/)
+* [카카오톡의 서버사이드 코틀린](https://www.slideshare.net/ifkakao/ss-113145569)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)

@@ -55,6 +55,7 @@ Monitoring
 * [Grafana 사용자 관리 정책 정리](http://hamait.tistory.com/908)
 * [Grafana 삭제하기](http://hamait.tistory.com/909)
 * [MySQL Monitoring with Telegraf, InfluxDB & Grafana](https://hackernoon.com/mysql-monitoring-with-telegraf-influxdb-grafana-4489e6df0220)
+* [Install Glances, InfluxDB and Grafana to Monitor CentOS 7](https://www.tecmint.com/install-glances-influxdb-grafana-to-monitor-centos-7/)
 
 # Library
 * [Sentry](https://sentry.io/) Stop hoping your users will report errors

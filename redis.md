@@ -80,6 +80,7 @@ Redis
 * [redis-get-set](https://github.daumkakao.com/todd-ddd/redis-get-set)
 
 # Command
+* [Redis 에서 zadd 와 zincrby 의 차이](https://charsyam.wordpress.com/2018/09/06/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%97%90%ec%84%9c-zadd-%ec%99%80-zincrby-%ec%9d%98-%ec%b0%a8%ec%9d%b4/)
 * BGSAVE
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보

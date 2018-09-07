@@ -288,6 +288,7 @@ Business
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
 * [“컨센서스를 이루지 말고 의사 결정을 내려라”(1)](http://bridge.500startups.co.kr/%EC%BB%A8%EC%84%BC%EC%84%9C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%A0%95%EC%9D%84-%EB%82%B4%EB%A0%A4%EB%9D%BC1)
 * [조직의 동의를 얻는 법](http://www.andrewahn.co/product/getting-to-an-yes)
+* [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

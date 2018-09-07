@@ -77,6 +77,7 @@ Apache
 * [A Gentle introduction to Apache Drill](https://medium.com/a-tale-of-2-from-data-to-information/apache-drill-101-391c5eb801c8)
 
 # [Druid](http://incubator.apache.org/projects/druid.html)
+* [druid.io](http://druid.io/)
 * [임플라이, 드루이드 기반 오픈소스 분석 플랫폼 공개](http://www.bloter.net/archives/241499)
 * [Imply - Exploratory Analytics Powered By Druid](http://imply.io/)
 * [Druid is a high-performance, column-oriented, distributed data store](http://druid.io/)
@@ -102,6 +103,7 @@ Apache
   * Open Source 분산 스토리지 엔진인 ClickHouse, Druid, Pinot을 비교
   * 시스템 간의 유사성(예: 저장 및 인덱스), 성능 특성, 데이터 처리, 데이터 복제 및 쿼리 실행의 유사성과 차이점 설명
 * [Web analytics at scale with Druid at naver.com](https://www.slideshare.net/JasonJungsuHEO/web-analytics-at-scale-with-druid-at-navercom)
+* [An introduction to Druid, your Interactive Analytics at (big) Scale](https://blog.zysset.me/introduction-to-druid/)
 
 # Eagle
 * [Apache Eagle](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces1)
@@ -367,6 +369,7 @@ Apache
 * [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 3](https://blog.cloudera.com/blog/2018/08/robust-message-serialization-in-apache-kafka-using-apache-avro-part-3/)
 * [Interview with Jay Kreps about Apache Kafka](https://notamonadtutorial.com/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca)
 * [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)
+* [카프카, 산전수전 노하우](https://www.slideshare.net/ifkakao/ss-113145591)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
