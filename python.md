@@ -1396,6 +1396,7 @@ Python
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Quart - a Python ASGI web microframework](https://gitlab.com/pgjones/quart)
   * [3x faster Flask apps - Quart as a upgrade to Flask](https://hackernoon.com/3x-faster-than-flask-8e89bfbe8e4f) 결국 async로 변경했다는 이야기
+  * [Philip Jones - Quart a asyncio alternative to Flask](https://www.youtube.com/watch?v=t8-Y7Kivuu0)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 
 # Functional
