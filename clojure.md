@@ -123,6 +123,7 @@ Clojure
 * [Functional-navigational programming in Clojure(Script) with Specter](http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html)
 * [Understanding Specter: Clojure's missing piece](https://www.youtube.com/watch?v=rh5J4vacG98)
 * [Using Emacs with Clojure](https://www.facebook.com/notes/jong-hoon-lee/using-emacs-with-clojure/1435323820126903)
+* [macOS에서 Emacs로 클로저 개발하기](https://github.com/eunmin/emacs-for-clojure)
 * [Writing Friendlier Clojure](http://adambard.com/blog/write-friendlier-clojure/)
 * [Structural typing for Clojure, somewhat inspired by Elm](https://github.com/marick/structural-typing)
 * [클로저(Clojure)를 시작하는 계기](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-clojure-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%84%EA%B8%B0-1dc2d3f08176)
@@ -250,6 +251,7 @@ Clojure
 * [함수형 프로그래밍 언어에 대한 고찰](https://engineering.linecorp.com/ko/blog/detail/244)
 * [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
 * [Reasoned Schemer for Clojure](https://github.com/philoskim/reasoned-schemer-for-clojure)
+* [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -454,7 +456,8 @@ Clojure
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
-* [Calva: Clojure 4 VS Code](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode#overview)
+* [Calva: Clojure & ClojureScript support for VS Code](https://github.com/BetterThanTomorrow/calva/blob/master/README.md)
+  * [Calva: Clojure 4 VS Code](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode#overview)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [Chime - a really lightweight Clojure scheduler](https://github.com/jarohen/chime)

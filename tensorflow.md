@@ -7,6 +7,7 @@ TensorFlow
   * [TensorFlow Time Series](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/timeseries)
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow)
 * [Awesome Tensorflow Implementations](https://github.com/TensorFlowKR/awesome_tensorflow_implementations)
+* [简单粗暴TensorFlow](https://tf.wiki/en/preface.html)
 * [TensorFlow-World-Resources](https://github.com/astorfi/TensorFlow-World-Resources)
 * [TensorFlow - Google’s latest machine learning system, open sourced for everyone](http://googleresearch.blogspot.kr/2015/11/tensorflow-googles-latest-machine_9.html)
 * [Machine Learning with TensorFlow (GDD Europe '17)](https://www.youtube.com/watch?v=2zWSr-3gkWY)

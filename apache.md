@@ -212,6 +212,7 @@ Apache
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
+* [Apache Kafka Best Practices](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
 * [Kafka - kafka-console-consumer](https://gerardnico.com/wiki/dit/kafka/kafka-console-consumer)
 * [KAFKA TUTORIAL: USING KAFKA FROM THE COMMAND LINE](http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html)
@@ -370,6 +371,7 @@ Apache
 * [Interview with Jay Kreps about Apache Kafka](https://notamonadtutorial.com/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca)
 * [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)
 * [카프카, 산전수전 노하우](https://www.slideshare.net/ifkakao/ss-113145591)
+* [Kafka timestamp offset](https://www.slideshare.net/charsyam2/kafka-timestamp-offset)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
@@ -439,6 +441,8 @@ Apache
   * Apache Kafka 운영 관리 도구 & API
   * kafka의 4가지 엔티티(producer, topic, broker, consumers)에 대한 메트릭을 보여주고, 하나 이상의 (Secure) Kafka cluster에 대한 통합 플랫폼뿐만 아니라 각 클래스에 대해 REST API를 제공
   * 자사 개발 제품군인 Apache Atlas, Ranger, Ambari와 높은 호환성
+* [Testing Kafka Streams Applications](https://speakerdeck.com/dongjin/testing-kafka-streams-applications)
+* [Kafka Streams for Stream processing A few words about how Kafka works](https://balamaci.ro/kafka-streams-for-stream-processing/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)

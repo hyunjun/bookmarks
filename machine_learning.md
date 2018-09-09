@@ -795,6 +795,7 @@ Machine Learning
 * [TEAMLAB X Inflearn | 파이썬 머신러닝 입문 강좌](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKnfbWvRCrwSuSeYh_QUlRl)
 * [100 Days Of ML Code](https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/README.md)
 * [A “Data Science for Good“ Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc)
+* [Deploying a Machine Learning Model as a REST API](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

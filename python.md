@@ -1758,7 +1758,6 @@ Python
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
   * [cffi-example: an example project showing how to use Python's CFFI](https://github.com/wolever/python-cffi-example)
   * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
-* [chalice - Python Serverless Microframework for AWS](https://github.com/awslabs/chalice)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [Clutterm - A clutter based terminal written in pure python (no vte lib)](https://github.com/paradoxxxzero/clutterm)
   * [python xterm linux terminal](http://gildang.co.kr/?p=2442)
@@ -2366,6 +2365,8 @@ Python
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 * [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
 * [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
+* [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
+* [Python in Serverless Architectures](https://www.youtube.com/watch?v=OU7cDwOJjOI)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [Chalice](https://github.com/aws/chalice) Python Serverless Microframework for AWS
   * [Python Serverless Microframework, Chalice 사용하기, 01](https://lee-seul.github.io/python/backend/2018/05/11/python-serverless-microframework-01.html)
@@ -2627,7 +2628,6 @@ Python
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
   * [Talks by PyCon 2017](https://speakerdeck.com/pycon2017)
   * [PYCON 2017: MUST-SEE TALKS](https://www.cuttlesoft.com/pycon-2017-must-see-talks/)
-  * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
 * PyConKr 2018
   * [인생을 짧아요, 엑셀대신 파이썬](https://www.slideshare.net/plusjune/ss-110416117)
     * [파이썬 엑셀 01 - 파이썬에서 엑셀 다루기](http://nbviewer.jupyter.org/8a668109436927809ca5f063b8be3878)

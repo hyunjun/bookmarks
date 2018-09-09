@@ -229,6 +229,7 @@ NLP
 * [A Neural Network Model That Can Reason - Prof. Christopher Manning](https://www.youtube.com/watch?v=24AX4qJ7Tts)
   * [Compositional Attention Networks for Machine Reasoning](https://openreview.net/forum?id=S1Euwz-Rb)
 * [NLP with attention](https://github.com/dsindex/blog/wiki/%5Battention%5D-NLP-with-attention)
+* [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876) gluonNLP
 * [CodeSandbox - an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io/)
 * [Team AURA - 1st Meeting Summary](https://www.ai-lab.kr/labs/aura-raebjang-gimhyeonu/team-aura-1st-meeting-summary)
 * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
@@ -241,6 +242,7 @@ NLP
 * [한글 유니코드 자소 분리](http://dream.ahboom.net/entry/%ED%95%9C%EA%B8%80-%EC%9C%A0%EB%8B%88%EC%BD%94%EB%93%9C-%EC%9E%90%EC%86%8C-%EB%B6%84%EB%A6%AC-%EB%B0%A9%EB%B2%95)
 * [PyConKr 2018 Why I learn, How I learn](https://github.com/songys/pycon2018_keynote/blob/master/PyCon_2018_youngsooksong.pdf)
 * **[Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)**
+* [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -475,6 +477,7 @@ NLP
 * [Evaluating Classifiers: Confusion Matrix for Multiple Classes](https://www.youtube.com/watch?v=FAr2GmWNbT0)
 * [The last 3 years in Text Classification](https://medium.com/explorations-in-language-and-learning/the-last-3-years-in-text-classification-8f408c043a79)
 * [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning)
+* [CNN으로 문장 분류하기](https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
 
 # Clustering
 * dbscan

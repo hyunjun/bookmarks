@@ -23,6 +23,9 @@
 * [MappyDot - Micro Smart LiDAR Sensor](https://hackaday.io/project/25571-mappydot)
 * [Meltdown and Spectre, explained](https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2)
 * [My Bathroom Mirror Is Smarter Than Yours](https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba)
+* [Building A Custom Home Automation System](https://www.youtube.com/watch?v=M0izp2GJSe0)
+* [Building a REST API in Python | Home Automation #02](https://www.youtube.com/watch?v=4T5Gnrmzjak)
+* [Building a Config Service in Go | Home Automation #03](https://www.youtube.com/watch?v=iYrMAVSOkkA)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
