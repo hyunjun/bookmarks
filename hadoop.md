@@ -233,6 +233,7 @@ Hadoop
   * HDFS 파일 시스템에서 작은 파일을 사용하면 큰 데이터를 처리하는데 성능 문제가 발생. 가장 현대적인 파일 포맷인 ORC, Parquet도 마찬가지
   * 이 문제를 해결하기 위해 Hive에서는 'concatenate' 명령어, parquet 에서는 병합툴을 제공
 * [Troubleshooting HiveServer2 Service Crashes](https://www.youtube.com/watch?v=grLtWOpMpq8)
+* [Hive Tutorial | Hadoop Hive Tutorial | Hive Tutorial for Beginners | Hive Architecture](https://www.youtube.com/watch?v=4OC-RYrBQUw)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)

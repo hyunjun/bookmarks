@@ -47,6 +47,7 @@ HBase
   * [#1 아키텍쳐](http://bcho.tistory.com/1217)
   * [#2 - 설치 및 기본 사용 방법](http://bcho.tistory.com/1219)
 * [Improving HBase backup efficiency at Pinterest](https://medium.com/@Pinterest_Engineering/improving-hbase-backup-efficiency-at-pinterest-86159da4b954)
+* [HBase Tutorial for Beginners | HBase Tutorial | HBase in Hadoop | HBase Commands](https://www.youtube.com/watch?v=QBVQgDaAy7w)
 
 # Library
 * kakao의 오픈소스
