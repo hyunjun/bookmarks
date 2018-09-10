@@ -325,6 +325,7 @@ Algorithm
 * **[A collection of algorithms](https://github.com/williamfiset/algorithms)**
 * [Balanced Brackets](http://astrod.github.io/2018/01/07/7.html)
 * [Project Euler # 43 in JavaScript — Sub-String Divisiblity in Pandigital Numbers](https://hackernoon.com/project-euler-43-in-javascript-1cc41be56aa2)
+* [Croatian Open Competition in Informatics(COCI) 문제 정리](https://gooddaytocode.blogspot.com/2016/09/coci.html)
 
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)

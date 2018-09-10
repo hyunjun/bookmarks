@@ -1104,6 +1104,8 @@ NLP
 * [word2vec_cluster.py](https://github.com/gaetangate/word2vec-cluster/blob/master/word2vec_cluster.py)
 * [cluster_vectors.py](https://github.com/duhaime/cluster-semantic-vectors/blob/master/cluster_vectors.py)
 * [K Means Clustering Example with Word2Vec in Data Mining or Machine Learning](http://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/)
+* [ELMO DEEP CONTEXTUALIZED WORD REPRESENTATIONS](http://hugrypiggykim.com/2018/06/08/elmo-deep-contextualized-word-representations/)
+* [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
@@ -1121,7 +1123,6 @@ NLP
 * [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
 * [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
-* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
 * [Topic Modeling With Python](https://www.youtube.com/watch?v=XVrZSXuYliI)
 * [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
 * [Extracting Hidden Topics in a Corpus](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d)

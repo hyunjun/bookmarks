@@ -268,6 +268,7 @@ Java
 * [Java 8 – Convert List to Map with Collectors.toMap() ..!](https://www.linkedin.com/pulse/java-8-convert-list-map-saral-saxena/)
 * [자바 SE 8에 대한 질의응답(파트 1)](https://blog.naver.com/lube12/221170814388)
 * [How to make parallel calls in Java with CompletableFuture example](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
+* [CompletableFuture 비동기 처리로 성능 개선하기](http://blog.woniper.net/361)
 
 ## Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)

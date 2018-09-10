@@ -467,6 +467,7 @@ Docker
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
 * [권한을 찾아서: GitHub Team을 이용하여 Kubernetes 계정 인증하기 (1)](https://medium.com/rainist-engineering/k8s-auth-with-github-team-part1-af745bcc0e03)
+* [권한을 찾아서: Github Team을 이용하여 Kubernetes 계정 인증하기 (2)](https://medium.com/rainist-engineering/k8s-auth-with-github-team-part2-a8affa559570)
 * [Windows Subsystem for Linux (WSL)에서 쿠버네이티즈 사용하기](https://blog.aliencube.org/ko/2018/06/04/running-kubernetes-on-wsl/)
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)

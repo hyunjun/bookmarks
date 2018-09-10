@@ -1614,6 +1614,8 @@ Python
 * [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 * [Scheduling Notebooks at Netflix](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
 * [I don't like Notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_639)
+* [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
+  * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능

@@ -1389,6 +1389,7 @@ Javascript
 * [React Server Side Rendered Page](https://seokjun.kim/react-server-side-rendered-page/)
 * [React: How To Access Props In A Functional Component](https://medium.com/@PhilipAndrews/react-how-to-access-props-in-a-functional-component-6bd4200b9e0b)
 * [A Complete Beginner’s Guide to React](https://medium.freecodecamp.org/a-complete-beginners-guide-to-react-4d490abc349c)
+* [Angular5 -> React + next.js 로 프로젝트 갈아 엎은 썰 (Angular vs React 개인적 비교)](http://kokohapps.tistory.com/entry/Angular5-React-nextjs-%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%88%EC%95%84-%EC%97%8E%EC%9D%80-%ED%9B%84%EA%B8%B0)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

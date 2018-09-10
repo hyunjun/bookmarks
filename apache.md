@@ -17,6 +17,7 @@ Apache
 * [Modern Data Pipelines with Apache Airflow (Momentum 2018 talk)](http://blog.tedmiston.com/momentum-2018-airflow-talk/) Apache Airflow의 개념, 몇 가지 예제
 * [When Airflow isn’t fast enough: Distributed orchestration of multiple small workloads with Celery](https://medium.com/@manuelmourato25/when-airflow-isnt-fast-enough-distributed-orchestration-of-multiple-small-workloads-with-celery-afb3daebe611)
 * [Apache Airflow in the Cloud: Programmatically orchestrating workloads w/ Py - Satyasheel, Kaxil Naik](https://www.youtube.com/watch?v=ZZ5okeRGRB8)
+* [Advanced Data Engineering Patterns with Apache Airflow](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/) AirBnB 데이터 엔지니어링팀의 A/B test, AutoDAG, Engagement & Growth metrics, Scaling 등을 구현하는 Apache Airflow 구축 방법 소개
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -372,6 +373,7 @@ Apache
 * [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)
 * [카프카, 산전수전 노하우](https://www.slideshare.net/ifkakao/ss-113145591)
 * [Kafka timestamp offset](https://www.slideshare.net/charsyam2/kafka-timestamp-offset)
+* [Kafka 0.10 Compression Benchmark](http://blog.yaorenjie.com/2017/01/03/Kafka-0-10-Compression-Benchmark/)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
