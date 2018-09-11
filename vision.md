@@ -177,7 +177,6 @@ Vision
   * [윈도우즈에서 yolo v3 돌려보기 2/2](http://jusths.tistory.com/33)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
-* [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
 * [Sorting 2 Tons of Lego, The software Side](https://jacquesmattheij.com/sorting-lego-the-software-side)
 * [Computer Vision News - June 2017](http://www.rsipvision.com/ComputerVisionNews-2017June/)
@@ -221,6 +220,8 @@ Vision
 * [Deep Learning in Computer Vision](http://www.slideshare.net/samchoi7/deep-learning-in-computer-vision-68541160)
 * [UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
 * [180525 mobile visionnet_hanlim_extended](https://www.slideshare.net/JaewookKang1/180525-mobile-visionnethanlimextended)
+* [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+* [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/MURGIO/Food-Recipe-CNN)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)

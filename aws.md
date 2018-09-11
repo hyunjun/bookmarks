@@ -234,6 +234,7 @@ AWS
 * [BigData SQL Query Engine benchmark](http://bytes.schibsted.com/bigdata-sql-query-engine-benchmark/)
   * Schibsted가 S3에서 Athena를 SQL 엔진을 선택한 경험 소개
   * Amazon Athena, Amazon Redshift Spectrum, Presto, Hive 등을 평가
+* [Analyze Data in MongoDB with AWS](https://medium.com/rainist-engineering/analyze-data-in-mongodb-with-aws-43c25ef0592f)
 
 # Lambda
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)

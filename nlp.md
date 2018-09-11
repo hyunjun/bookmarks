@@ -545,6 +545,7 @@ NLP
 * **[How to Develop a Word Embedding Model for Predicting Movie Review Sentiment](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/)** keras, word2vec
 * [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
 * [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
+* [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)

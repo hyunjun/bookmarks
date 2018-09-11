@@ -924,6 +924,7 @@ Python
 
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
+* [github.com/python/asyncio/wiki/ThirdParty](https://github.com/python/asyncio/wiki/ThirdParty)
 * [The new Python asyncio module aka “tulip”](http://vstinner.readthedocs.io/asyncio.html)
 * [github.com/python/asyncio/wiki/Benchmarks](https://github.com/python/asyncio/wiki/Benchmarks)
 * **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
@@ -1000,6 +1001,7 @@ Python
     * [webscraping_asyncio_2016](https://github.com/jmortega/webscraping_asyncio_2016)
   * [James Kirk Cropcho - Asynchronous Python A Gentle Introduction](https://www.youtube.com/watch?v=e4mP4Prf0gc)
     * [Asynchronous Python A Gentle Introduction](https://www.slideshare.net/PyData/asynchronous-python-a-gentle-introduction)
+  * [Hrafn Eiriksson - Asyncio in production](https://www.youtube.com/watch?v=zM3cMTcmmk0) asyncio migration에 대한 실용적인 안내
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -1274,6 +1276,8 @@ Python
 
 # EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
+* [EuroPython 2018](https://ep2018.europython.eu/p3/schedule/ep2018/)
+  * [EuroPython 2018](https://www.youtube.com/playlist?list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
 
 # Flask
 * practice

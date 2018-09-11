@@ -29,9 +29,10 @@ Programming Books
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
 * (NOT YET) [일래스틱 스택 6 입문](http://book.daum.net/detail/book.do?bookid=BOK00035087432IN)
   * 2018.07 한라
-* (NOT YET) [프로그래밍 언어 도감](http://www.datanet.co.kr/news/articleView.html?idxno=124905)
-  * 2018.08 한라
+* [프로그래밍 언어 도감](http://www.datanet.co.kr/news/articleView.html?idxno=124905)
+  * 한라 005.1마57ㅍ
   * [서평: 프로그래밍 언어도감 ](https://blog.gaerae.com/2018/08/programming-gengo-zukan.html)
+  * ★★☆☆☆ 뭔가 애매한 느낌. 초보자를 위한 책이라고 하지만, 언어 소개는 확실히 초보자 용으로 읽고 넘어갈 정도인데, 프로그래밍 개념 부분은 의외로 중급자용 키워드를 소개한다. 재미로 읽어볼만 함
 * (NOT YET) [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
@@ -86,8 +87,12 @@ Programming Books
 * (NOT YET) [알고리즘, 인생을 계산하다](https://m.blog.naver.com/hl4gnn/221228428136)
 * (NOT YET) [알고리즘 산책](http://book.daum.net/detail/book.do?bookid=KOR9791160504880)
   * 한라 005.1-스884ㅇ
-* (NOT YET) [알고리즘 도감](http://jpub.tistory.com/760)
-  * 2018.08 한라
+* [알고리즘 도감](http://jpub.tistory.com/760)
+  * 한라 005.1이58ㅇ
+  * ★★★☆☆
+    * + 그림을 자세히 그려놓아서 이해하기 쉽다
+    * - 코드는 없다
+    * - 저자가 암호를 좋아하는 건지 기본 알고리즘 - 암호화 알고리즘 - k means - 기타(유클리드, 페이지 랭크, 하노이의 탑)등 내용이 좀 산만하고 어떤 기준으로 선정했는지를 모르겠다
 
 # Amazon AWS
 
@@ -116,7 +121,7 @@ Programming Books
 
 * **_마이크로서비스 아키텍처 구축_**
   * 한라 005.12 뉴34ㅁ
-  * 예제 코드는 없지만, 마이크로서비스의 기초적인 부분에 대해서 사례와 함께 자세히 설명
+  * ★★★★☆ 예제 코드는 없지만, 마이크로서비스의 기초적인 부분에 대해서 사례와 함께 자세히 설명
   * [마이크로서비스 아키텍처 구축](https://brunch.co.kr/@insuk/30)
   * p29, 얼마나 작아야 하는 것인가? 충분히 작아서 더 이상 작아질 수 없는 크기
     * 마치 linux command와 같이 하나의 일을 잘 하는 방식으로 나누면 되는 게 아닐까?
@@ -301,8 +306,9 @@ Programming Books
   * 한라 005.118-우27ㄹ
 * (NOT YET) 소셜 웹 마이닝 : 페이스북, 트위터, 링크드인 등의 소셜 미디어 데이터 분석하기
   * 한라 004.76-러54ㅅ
-* (NOT YET) [데이터 분석을 떠받치는 수학 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](http://wikibook.co.kr/math-for-data-science/)
-  * 2018.08 한라
+* [데이터 분석을 떠받치는 수학 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](http://wikibook.co.kr/math-for-data-science/)
+  * 한라
+  * ★★★★☆ 엑셀을 이용해 데이터 분석 관련 수학을 실습하며 배울 수 있음. 자세해서 좋음
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -766,8 +772,9 @@ Programming Books
   * 한라 005.118 곤72ㄴ
   * Node.js + 세네카 seneca, PM2 프레임워크, 모카 mocha, 차이 chai, 시논 sinon , 스웨거 swagger
 * (NOT YET) [초보자를 위한 Node.js 200제](http://jybaek.tistory.com/741)
-* (NOT YET) [웹 서비스를 만들며 배우는 node.js 프로그래밍](http://jpub.tistory.com/822?category=203154)
-  * 2018.08 한라
+* [웹 서비스를 만들며 배우는 node.js 프로그래밍](http://jpub.tistory.com/822?category=203154)
+  * 한라 00.5118정38ㄴ
+  * ★★★☆☆ 실용적. 기초부터 시작해 Rest API 구현까지
 
 # Kafka
 
@@ -1080,8 +1087,9 @@ Programming Books
   * 한라 005.11-위874ㅇ
 * (NOT YET) [메이저리그 야구 통계학 빅데이터 분석의 시작 R](http://acornpub.co.kr/book/mlb-statistics)
   * 2018.08 탐라
-* (NOT YET) [호율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
-  * 2018.08 한라
+* [효율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
+  * 한라 005.54러47ㅎ
+  * ★★★★☆ 목차만 봐도 흔히 찾기 어려운 책이라는 걸 알 수 있다. 환경설정 파일에 대한 설명부터, 하드웨어, 협업, 학습을 효율적으로 하기 위한 방법 등 정말 실용적인 책
 * 그것이 R고 싶다
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EA%B7%B8%EA%B2%83%EC%9D%B4-r%EA%B3%A0-%EC%8B%B6%EB%8B%A4-f8671046746)
 
