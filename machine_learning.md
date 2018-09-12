@@ -116,6 +116,7 @@ Machine Learning
 * [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
 * [A Tour of The Top 10 Algorithms for Machine Learning Newbies](https://towardsdatascience.com/a-tour-of-the-top-10-algorithms-for-machine-learning-newbies-dde4edffae11)
 * [10 Machine Learning Algorithms You Should Know in 2018](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/10-machine-learning-algorithms-you-should-know-in-2018)
+* [Ten Machine Learning Algorithms You Should Know to Become a Data Scientist](https://blog.paralleldots.com/data-science/machine-learning/ten-machine-learning-algorithms-know-become-data-scientist/)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Machine Learning Tutorials](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
   * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/)

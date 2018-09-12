@@ -553,6 +553,7 @@ Python
   * [How to declare a byte array contains non-ascii characters without escape in python 3](https://stackoverflow.com/questions/20485845/how-to-declare-a-byte-array-contains-non-ascii-characters-without-escape-in-pyth)
   * [dotnetperls.com/bytes-python](https://www.dotnetperls.com/bytes-python)
   * [The only problem with Python 3's str is that you don't grok it](https://drewdevault.com/2017/01/13/The-problem-with-Python-3.html)
+  * [Character Encoding in python](https://www.slideshare.net/daesung7kang/character-encoding-in-python)
 * exception
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
@@ -1732,10 +1733,11 @@ Python
 * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
-* [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
 	* [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
+	* [A Web Without JavaScript](https://www.youtube.com/watch?v=VdyCTife_Yo)
+	* [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
@@ -1948,6 +1950,7 @@ Python
 * [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
+  * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
 * MySQL-python

@@ -84,3 +84,4 @@ Time Series
 * [Using LSTMs to forecast time-series](https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f)
 * [Time Series for scikit-learn People (Part I): Where's the X Matrix?](http://blog.ethanrosenthal.com/2018/01/28/time-series-for-scikit-learn-people-part1/)
 * [Time Series for scikit-learn People (Part II): Autoregressive Forecasting Pipelines](http://blog.ethanrosenthal.com/2018/03/22/time-series-for-scikit-learn-people-part2/)
+* [Time Series Forecasting Using Statistical and Machine Learning Models || Jeffrey Yau](https://www.youtube.com/watch?v=2LSs1kYWy9M)
