@@ -1930,6 +1930,10 @@ CVPR2016)
   * [Part 0](https://www.lpalmieri.com/posts/rl-introduction-00/)
   * [Part 1](https://www.lpalmieri.com/posts/rl-introduction-01/)
   * [Part 2](https://www.lpalmieri.com/posts/rl-introduction-02/)
+* Faster Reinforcement Learning via Transfer
+  * [blog](https://wonseokjung.github.io/reinforcementlearning/update/FasterRLviatransfer/)
+  * [slide](https://speakerdeck.com/wonseokjung/faster-reinforcement-learning-via-transfer)
+  * [youtube](https://www.youtube.com/watch?v=zt06BkGbCb8)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

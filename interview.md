@@ -154,6 +154,7 @@ Interview
 * [6년차 개발자 해외취업 도전기 – 3. 아마존, 첫번째 시도](http://test-driven.me/wp/2018/03/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-3-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B2%AB%EB%B2%88%EC%A7%B8-%EC%8B%9C%EB%8F%84/)
 * [Amazon의 연봉 및 보상 체계](https://steemit.com/kr/@asbear/2fzkfy-amazon)
 * [Amazon 취업 후기 - 컨택부터 오퍼까지](https://steemit.com/kr/@asbear/amazon)
+* [아마존 인터뷰에 떨어지다](https://brunch.co.kr/@worker-in-yvr/12)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -346,3 +347,6 @@ Interview
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
 * [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."
 * [What My Software Engineer Resume Looks Like](https://www.youtube.com/watch?v=RIPdc88dZRI)
+
+# Spotify
+* [스톡홀름에서의 인터뷰](https://brunch.co.kr/@worker-in-yvr/13)

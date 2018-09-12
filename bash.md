@@ -62,6 +62,7 @@ Shell
     * `${foo^^}` uppercase all the letters
     * `${foo,}` lowercase only the first letter
     * `${foo,,}` lowercase all the letters
+  * `[ -z "$var" ] && ... || ... ` [Test for non-zero length string in Bash](https://stackoverflow.com/a/3870055)
 * miscellaneous
   * `CUR_DIR=$(readlink -f $(dirname $(readlink -f ${BASH_SOURCE[0]}))) current directory`
 * while
