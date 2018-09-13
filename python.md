@@ -340,6 +340,7 @@ Python
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
+* [Intro to the Python Data Model and Pythonic Programming](https://www.youtube.com/watch?v=GrwV2hi4XHg)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)

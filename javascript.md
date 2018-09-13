@@ -1092,6 +1092,7 @@ Javascript
 * [Node에서의 this](https://www.zerocho.com/category/NodeJS/post/5b67e8607bbbd3001b43fd7b)
 * [노드에서 셋 인터벌을 쓸 수 있구나](https://hyeonseok.com/soojung/dev/2018/08/11/839.html)
 * [노드몬 Nodemon 에서 특정 파일 제외하기](https://hyeonseok.com/soojung/dev/2018/08/19/840.html)
+* [노드 프로젝트의 설정 파일들](https://www.zerocho.com/category/NodeJS/post/5b934c8e6c974e001b710767)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

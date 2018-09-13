@@ -637,6 +637,7 @@ Programming Books
   * 2018.07
   * 한라 004.2정55ㄱ
   * 내용은 좋아 보이는데, 팟캐스트를 그대로 옮겨놓은 듯한 느낌이라 읽기가 편하지는 않다
+* (NOT YET) [클라우드 네이티브 인프라스트럭처](http://jhrogue.blogspot.com/2018/09/blog-post.html)
 
 # Interview
 

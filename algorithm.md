@@ -114,6 +114,7 @@ Algorithm
 * [tech.kakao.com/files/kakao-blind-recruitment.pdf](http://tech.kakao.com/files/kakao-blind-recruitment.pdf)
 * [카카오 블라인드 공채 해킹하기](http://blog.sungwonandseohyun.us/kakao-beulraindeu-gongcae-haekinghagi/)
 * [TDD로 풀어본 카카오 블라인드 1차 시험](https://surpreem.com/tdd%EB%A1%9C-%ED%92%80%EC%96%B4%EB%B3%B8-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EB%B8%94%EB%9D%BC%EC%9D%B8%EB%93%9C-1%EC%B0%A8-%EC%8B%9C%ED%97%98/)
+* [코드 페스티벌 2018 본선 이야기](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
 * [프로그래밍을 잘하는 5가지 방법 — 1. 자료구조와 알고리즘 공부하기](https://medium.com/@ghilbut/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-ebf3a3f79ee2)
 * [Awesome Algorithms](http://gaerae.com/awesome-algorithms/)
@@ -135,6 +136,7 @@ Algorithm
 * [나머지 연산자 없이 x % (2의 거듭제곱) 계산하기](https://libsora.so/posts/use-bit-op-as-mod-operator/)
 * [최상위 비트의 위치 찾는 방법 low-level을 이용해서 O(logN)으로 구현하기](https://libsora.so/posts/find-the-highest-order-bit/)
 * [거니와 함께 배우는 알고리즘 체널, ALGOTOGETHER 체널에 오신것을 환영합니다!](https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA)
+* [A Short Summary of Smoothing Algorithms](https://opendatascience.com/a-short-summary-of-smoothing-algorithms/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
