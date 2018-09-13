@@ -370,6 +370,7 @@ Apache
     * ZooKeeper 임시 노드를 사용하여 “잠급니다.”
     * 스키마를 추가하는 서비스 도입. 이 애플리케이션은 메모리를 잠그는 게 가능
     * 소수만 접근할 수 있는 주체에 스키마를 저장한 토픽으로 쓰기를 허용하며 책임을 위임
+* [Understanding the ‘enable.auto.commit’ Kafka Consumer property](https://medium.com/@danieljameskay/understanding-the-enable-auto-commit-kafka-consumer-property-12fa0ade7b65)
 * [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 3](https://blog.cloudera.com/blog/2018/08/robust-message-serialization-in-apache-kafka-using-apache-avro-part-3/)
 * [Interview with Jay Kreps about Apache Kafka](https://notamonadtutorial.com/interview-with-jay-kreps-about-apache-kafka-46fbfdb870ca)
 * [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)

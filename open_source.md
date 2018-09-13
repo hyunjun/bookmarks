@@ -190,6 +190,7 @@ Open Source
 * Keystone
   * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
   * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
+  * [Keystone Real-time Stream Processing Platform](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)
 * Metacat
   * [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)
     * Metacat; 통합 메타 데이터 검색 API 서비스 제공. Hive, MySQL, Redshift, RDS, Teradata, Redshift, S3, ElasticSearch, Cassandra 등을 검색 가능

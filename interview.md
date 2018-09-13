@@ -140,6 +140,7 @@ Interview
   * [온사이트 인터뷰](http://employee.tistory.com/entry/%EB%82%98%EC%9D%98-%EC%9D%B4%EC%A7%81-%EC%84%B1%EA%B3%B5%EA%B8%B0-%EC%98%A8%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A9%B4%EC%A0%91)
 * [What I learned from analyzing more than 80 job rejections with Python](https://medium.freecodecamp.org/what-i-learned-from-analyzing-more-than-80-job-rejections-with-python-11044ee6927b)
 * [기술면접 전에 알아두면 좋은 다섯 가지 꿀팁!](https://www.youtube.com/watch?v=-kKQZlAJo0Y)
+* [에어비앤비 엔지니어가 일하는 게 행복한 이유](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -156,6 +157,7 @@ Interview
 * [Amazon의 연봉 및 보상 체계](https://steemit.com/kr/@asbear/2fzkfy-amazon)
 * [Amazon 취업 후기 - 컨택부터 오퍼까지](https://steemit.com/kr/@asbear/amazon)
 * [아마존 인터뷰에 떨어지다](https://brunch.co.kr/@worker-in-yvr/12)
+* [아마존의 기업 문화](https://www.youtube.com/watch?v=BJdpoh695D4)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
