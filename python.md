@@ -978,6 +978,7 @@ Python
   * [Python 3.5+ Async: An Easier Way to do Concurrency](https://www.youtube.com/watch?v=qfY2cqjJMdw)
   * [Yury Selivanov - async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8)
   * [Yury Selivanov asyncawait and asyncio in Python 3.6 and beyond PyCon 2017](https://www.youtube.com/watch?v=2ZFFv-wZ8_g)
+  * [Yury Selivanov - Asyncio in Python 3 7 and 3 8](https://www.youtube.com/watch?v=ReXxO_azV-w) Trio
   * [Barry Warsaw aiosmtpd A better asyncio based SMTP server PyCon 2017](https://www.youtube.com/watch?v=1Uyo2c2GYKQ)
   * [Practical Python Async for Dummies](https://www.youtube.com/watch?v=5_K8GwZ_268)
   * [Get to grips with asyncio in Python 3 - Robert Smallshire](https://www.youtube.com/watch?v=M-UcUs7IMIM)
@@ -1017,6 +1018,7 @@ Python
     * **[PyCon KR 2017 aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
   * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
   * [Building The Real Time Web With Python](https://www.youtube.com/watch?v=wMnN5kIG8D8)
+	* [Day 2: Pau Freixes Alió - Running Aiohttp at scale](https://www.youtube.com/watch?v=p5d74IkGfwo)
 * **[aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)**
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
@@ -1261,6 +1263,7 @@ Python
 * [Intro to Django's Annotate](https://www.youtube.com/watch?v=KbwmdKl-QbI)
 * [2018년 8월 5일, 서울창조허브 10F에서 열리는 개발기술연합세미나, 파이썬 세션, 장고 샘플 프로젝트](https://github.com/allieus/demo-20180805-startup-dev)
 * [Django 2.1 Tutorial-Build a Travel Blog with Goorm IDE and Bootstrap 4(Unspoken version)](https://www.youtube.com/watch?v=ozSepodKOyg)
+* [django 쿼리셋 수정을 통한 웹서비스 성능 개선 - select_related, prefetch_related](https://wayhome25.github.io/django/2017/06/20/selected_related_prefetch_related/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -2443,6 +2446,7 @@ Python
 * NumPy Python Tutorial 2018
   * [Part 1](https://www.youtube.com/watch?v=rvY0MskPps0)
   * [Part 2](https://www.youtube.com/watch?v=P_3MyPMXN0Y)
+* [python1010](https://notebooks.azure.com/greatsong/libraries/python1010) azure notebooks
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)

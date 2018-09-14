@@ -514,6 +514,7 @@ Java
     * [8 - 모으기(aggregation)](http://javacan.tistory.com/entry/Reactor-Start-8-Aggregation)
     * [9 - 묶어서 처리하기(window buffer)](http://javacan.tistory.com/entry/Reactor-Start-9-window-buffer)
     * [10 - 로깅, 체크포인트](http://javacan.tistory.com/entry/Reactor-Start-10-logging-checkpoint)
+  * [분산 데이터베이스 환경에서 RoutingDataSource 사용 시 JTA를 이용한 트랜잭션 처리](https://d2.naver.com/helloworld/5812258)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)
@@ -538,6 +539,7 @@ Java
 			* [4. Spring Batch Job Flow](http://jojoldu.tistory.com/328)
       * [5. Spring Batch Scope & Job Parameter](http://jojoldu.tistory.com/330)
       * [6. Chunk 지향 처리](http://jojoldu.tistory.com/331)
+			* [7. ItemReader](https://jojoldu.tistory.com/336)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
