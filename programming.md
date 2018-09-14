@@ -195,6 +195,7 @@ Programming
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
   * [2편(Access Token + Refresh Token)](http://tansfil.tistory.com/59)
   * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
+* [#8. IPFS(InterPlanetary File System)이해하기 1부 : HTTP Web을 넘어서, IPFS Web으로](https://medium.com/@kblockresearch/8-ipfs-interplanetary-file-system-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1%EB%B6%80-http-web%EC%9D%84-%EB%84%98%EC%96%B4%EC%84%9C-ipfs-web%EC%9C%BC%EB%A1%9C-46382a2a6539)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -399,6 +400,7 @@ Programming
   * [번역 잘가요 마이크로서비스: 100개의 문제점 투성이를 1개의 슈퍼스타로](https://tech.ssut.me/2018/07/31/goodbye-microservice/)
 * [마이크로서비스 아키텍처 구축하기](https://blog.powerumc.kr/501)
 * [스타트업 관점에서 본 마이크로서비스](https://engineering.huiseoul.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-862405dd88d2)
+* [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB](https://www.youtube.com/watch?v=F_BuRIAnvqE)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)

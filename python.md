@@ -1036,6 +1036,7 @@ Python
 	* [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기-이재면](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
 * [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [Trio – Pythonic async I/O for humans and snake people 🐍](https://github.com/python-trio/trio)
+  * [Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)

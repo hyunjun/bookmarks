@@ -107,6 +107,7 @@
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [Design Patterns in Python Part 1: The Strategy Pattern](https://medium.com/@sheikhsajid/design-patterns-in-python-part-1-the-strategy-pattern-54b24897233e)
 * [Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)](https://www.youtube.com/watch?v=x3v9zMX1s4s)
+* [Sebastian Buczyński - Why you don't need design patterns in Python?](https://www.youtube.com/watch?v=G5OeYHCJuv0)
 
 # Ruby
 * **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
