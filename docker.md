@@ -59,6 +59,7 @@ Docker
   * [httpd](https://hub.docker.com/_/httpd/)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
+  * [kernel builder](https://github.com/memnoth-projects/docker-kernel-builder)
   * [mysql-server](https://hub.docker.com/r/mysql/mysql-server/)
     * [A tutorial on how to use MySQL with Docker](http://www.luiselizondo.net/a-tutorial-on-how-to-use-mysql-with-docker/)
     * [MySQL Docker Containers: Understanding the basics](http://severalnines.com/blog/mysql-docker-containers-understanding-basics)

@@ -169,6 +169,7 @@ Math
 * **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
 * [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
+* **[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)**
 
 ## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)

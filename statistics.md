@@ -270,6 +270,7 @@ Statistics
 * [Bayes’ Rule Applied - Using Bayesian Inference on a real-world problem](https://towardsdatascience.com/bayes-rule-applied-75965e4482ff)
 * [How Bayesian statistics convinced me to hit the gym](https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac)
 * [Naive Bayes Algorithm In Python](https://stepupanalytics.com/naive-bayes-algorithm-in-python/)
+* [베이즈 정리 Bayes' Theorem - rel. 신호와 소음](https://m.blog.naver.com/PostView.nhn?blogId=vinci22c&logNo=220346570972&scrapedType=1&scrapedLog=221359769710&scrapedOpenType=2)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
@@ -301,6 +302,7 @@ Statistics
 * [Foundations of probability theory](https://terrytao.wordpress.com/2015/09/29/275a-notes-0-foundations-of-probability-theory/)
 * [Heuristic models for marginal probability assessment updates](http://xheimlichkeit.com/methods/2015/10/12/how-to-update-probabilities.html)
 * [Probability concepts explained: Marginalisation](https://towardsdatascience.com/probability-concepts-explained-marginalisation-2296846344fc)
+* **[Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)**
 
 ## Probablistic Programming
 * [What is probabilistic programming?](http://radar.oreilly.com/2013/04/probabilistic-programming.html)

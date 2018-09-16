@@ -401,6 +401,7 @@ Programming
 * [마이크로서비스 아키텍처 구축하기](https://blog.powerumc.kr/501)
 * [스타트업 관점에서 본 마이크로서비스](https://engineering.huiseoul.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-862405dd88d2)
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB](https://www.youtube.com/watch?v=F_BuRIAnvqE)
+* [마이크로서비스 아키텍처(MSA). 서비스 개발팀 이야기](https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -621,6 +622,8 @@ Programming
   * [QCon San Francisco](https://qconsf.com)
 * [Soscon](http://www.soscon.net/)
   * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
+* Strata Data Conference 
+  * [Make Data Work](https://conferences.oreilly.com/strata/strata-ny/public/schedule/proceedings)
 * Tech planet
   * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
 * [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)

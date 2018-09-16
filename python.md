@@ -1732,6 +1732,7 @@ Python
   * [초간단 머신러닝 개발 환경 세팅하기 (with 아나콘다)](https://www.youtube.com/watch?v=8oaOE9LXY4w)
   * [Accelerate Python Performance Powered by Anaconda](https://software.intel.com/en-us/distribution-for-python)
   * [Anaconda-Python 환경에서 VSCode를 사용하는 방법(프로젝트 생성, 환경 구축, 디버깅)](https://chojjong.blog.me/221228053941)
+  * [데이터 분석을 위한 파이썬 개발환경 구축 (Windows)](https://sjquant.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95/)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)

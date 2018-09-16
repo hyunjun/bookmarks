@@ -123,6 +123,7 @@ Interview
   * [2. 지원하기](http://test-driven.me/wp/2018/02/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-2-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0/)
   * [4. 코딩 인터뷰 준비](http://test-driven.me/wp/2018/04/6%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%B4%EC%99%B8%EC%B7%A8%EC%97%85-%EB%8F%84%EC%A0%84%EA%B8%B0-4-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84/)
 * [독일 스타트업 백엔드 개발자 면접 후기](http://hero0926.tistory.com/9)
+* [독일 개발자 취업 성공기](http://hero0926.tistory.com/)
 * [나의 2017년 외국기업 코딩 인터뷰 정리](http://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
 * [How to write a great developer résumé and showcase your software engineer skills](https://medium.freecodecamp.org/how-to-write-a-great-resume-for-software-engineers-75d514dd8322)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview/)

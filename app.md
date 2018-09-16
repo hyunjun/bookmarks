@@ -132,6 +132,7 @@ App
 	* [hexo + github + blog 연동하기](https://taetaetae.github.io/2016/09/18/hexo_github_blog/)
   * [Hexo로 블로그 만들기](https://canine89.github.io/2018/08/16/hello-world/)
   * [Hexo 블로그 테마 세부 설정하기](https://canine89.github.io/2018/08/17/2018-08-16-Hexo%EB%A1%9C%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0-2/)
+  * [Jekyll에서 Hexo로](https://kenixer.github.io/2018/09/15/Jekyll%EC%97%90%EC%84%9C-Hexo%EB%A1%9C/)
   * [JEKYLL3 TRAILING SLASH 문제](http://lumiamitie.github.io/web/jkl3-trailing-slash/)
   * [GITHUB를 이용해서 블로그 하기 #1](https://jungwoon.github.io/jungwoon.github.io/GitHub-Pages/)
   * [GITHUB를 이용해서 블로그 하기 #2](https://jungwoon.github.io/jekyll/2017/07/04/Install-Jekyll-For-Mac/)
@@ -346,6 +347,7 @@ App
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
   * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
 * [mac 기본 앱 잘 쓰기 - 미리보기앱](https://steemit.com/kr/@ggopro/mac)
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#applications)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * [appcleaner](https://freemacsoft.net/appcleaner/)
 * Alfred
