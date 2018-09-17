@@ -47,6 +47,9 @@ Logging
   * Hortonworks의 HDP 테스트에서 나온 로그를 분석하는 도구
   * 시스템에서 빈도(frequency), 동시 발생(co-occurence), 기타 상관 모델을 사용하여 에러를 하이라이트하고, trace와 기타 내용
   * Web UI 제공
+* [LogDevice - a scalable and fault tolerant distributed log system](https://github.com/facebookincubator/LogDevice)
+  * [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
+  * [Open-sourcing LogDevice, a distributed data store for sequential data](https://logdevice.io/blog/2018/09/12/open-sourcing-announcement.html)
 * [Logswan is a fast Web log analyzer using probabilistic data structures](https://github.com/fcambus/logswan)
 * [Palallax - Open Source Log Analyzer for Palo Alto Networks Next-Generation Firewall](http://www.ap-com.co.jp/ja/paloalto/palallax/index_en.html)
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)

@@ -378,6 +378,7 @@ Apache
 * [Kafka timestamp offset](https://www.slideshare.net/charsyam2/kafka-timestamp-offset)
 * [Kafka 0.10 Compression Benchmark](http://blog.yaorenjie.com/2017/01/03/Kafka-0-10-Compression-Benchmark/)
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
+* [Kafka Korea meetup 2018-09-08](https://github.com/Kafka-Korea-User/meetup/tree/master/meetup1)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
