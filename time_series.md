@@ -23,6 +23,7 @@ Time Series
 
 # Library
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
+* [Goku: Building a scalable and high performant time series database system](https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181) Pinterest 엔지니어링팀에서 OpenTSDB -> Goku로 전환한 이야기 소개
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [hunting_criminals_demo](https://github.com/Atigeo/hunting_criminals_demo)
 * [influxdata platform - THE PLATFORM FOR TIME-SERIES DATA](https://influxdata.com/time-series-platform/)

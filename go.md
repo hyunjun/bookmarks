@@ -317,6 +317,7 @@ Go
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [hangulize.org](https://hangulize.org)
 	* [한글라이즈 재제작기](https://www.slideshare.net/sublee/ss-113085659)
+  * [한글라이즈 재제작기](https://speakerdeck.com/sublee/remake-of-hangulize)
 * [happyfinder - Fuzzy file finder for the command line](https://github.com/hugows/hf)
 * [hc - HomeControl is an implementation of the HomeKit Accessory Protocol (HAP) in Go. http://selfcoded.com/homecontrol](https://github.com/brutella/hc)
 * [hraftd is a reference use of the Hashicorp Raft implementation, inspired by raftd](https://github.com/otoolep/hraftd)

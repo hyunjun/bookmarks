@@ -50,6 +50,7 @@ Python
 * [파이썬 문서고 백업 저장소](https://github.com/cryptosan/pythondocuments/)
 * [Microsoft Virtual Academy](http://www.microsoftvirtualacademy.com/)
   * [Python을 사용한 프로그래밍 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-programming-with-python_kor)
+* [SB Coding Workshop](https://github.com/suminb/sbcw)
 * [pythonprogramming.net](https://pythonprogramming.net/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Automated, data-driven code review](https://www.quantifiedcode.com/)
@@ -782,6 +783,7 @@ Python
   * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
   * [Profiling and optimizing Python code](https://osf.io/upav8/)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
+  * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
 * re
@@ -2379,6 +2381,7 @@ Python
     writer.save()
     ```
   * [Working with Python Pandas and XlsxWriter](http://xlsxwriter.readthedocs.io/working_with_pandas.html)
+* [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)

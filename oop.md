@@ -74,6 +74,7 @@
 * [싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)
 * [Double-checked locking and the Singleton pattern](https://www.ibm.com/developerworks/library/j-dcl/)
 * [멀티스레드 환경에서의 싱글톤 패턴](https://jungwoon.github.io/jungwoon.github.io/Singleton-Pattern-with-Multi-Thread/)
+* [싱글톤 디자인 패턴](https://astrod.github.io/design_pattern/2018/09/15/Head-First-%EC%8B%B1%EA%B8%80%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)
 * [이터레이터 디자인 패턴](http://astrod.github.io/2017/04/10/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4.html)
 * [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [전략(strategy) 디자인 패턴](http://astrod.github.io/2016/03/06/%EC%A0%84%EB%9E%B5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)

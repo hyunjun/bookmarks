@@ -1391,6 +1391,8 @@ Javascript
 * [React: How To Access Props In A Functional Component](https://medium.com/@PhilipAndrews/react-how-to-access-props-in-a-functional-component-6bd4200b9e0b)
 * [A Complete Beginner’s Guide to React](https://medium.freecodecamp.org/a-complete-beginners-guide-to-react-4d490abc349c)
 * [Angular5 -> React + next.js 로 프로젝트 갈아 엎은 썰 (Angular vs React 개인적 비교)](http://kokohapps.tistory.com/entry/Angular5-React-nextjs-%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%88%EC%95%84-%EC%97%8E%EC%9D%80-%ED%9B%84%EA%B8%B0)
+* [다시 시작하기](http://mobicon.tistory.com/548)
+* **[스프링 부트 + 리액트 개발 셋업 2018](https://start.goodtime.co.kr/2018/09/%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8-%eb%a6%ac%ec%95%a1%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%85%8b%ec%97%85-2018/)**
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1674,3 +1676,4 @@ Javascript
 * [난 React와 Vue에서 완전히 똑같은 앱(todo)을 만들었다. 여기 그 차이점이 있다.(번역글)](https://medium.com/@erwinousy/%EB%82%9C-react%EC%99%80-vue%EC%97%90%EC%84%9C-%EC%99%84%EC%A0%84%ED%9E%88-%EA%B0%99%EC%9D%80-%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EC%9D%B4%EA%B2%83%EC%9D%80-%EA%B7%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%EB%8B%A4-5cffcbfe287f)
 * [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](http://devtimothy.tistory.com/91)
 * [리액트와 뷰로 같은 앱을 만들어 보았다](http://devtimothy.tistory.com/92)
+* [리액트와 뷰로 같은 앱을 만들어 보았다.(Part 2: Angular)](http://devtimothy.tistory.com/93)

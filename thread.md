@@ -13,6 +13,7 @@ Thread
 * [Making Sequential Execution Fast(er)](https://medium.com/@claytonlong_34858/making-sequential-execution-fast-er-56d65f70eb2b)
 * [멀티스레드 프로그래밍 관련 이야기](http://moogi.new21.org/tc/1429) UI, thread 종료, 동시작업 구현, fiber
 * [process와 thread에 대한 정리](https://magi82.github.io/process-thread/)
+* **[바람직한 멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)** job system, job stealing, dependency graph
 
 # c++
 * [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)

@@ -176,6 +176,7 @@ C
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
   * [CMake 튜토리얼](https://tuwlab.com/ece/27234)
   * [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
+  * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc..](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)

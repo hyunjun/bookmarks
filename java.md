@@ -540,6 +540,7 @@ Java
       * [5. Spring Batch Scope & Job Parameter](http://jojoldu.tistory.com/330)
       * [6. Chunk 지향 처리](http://jojoldu.tistory.com/331)
 			* [7. ItemReader](https://jojoldu.tistory.com/336)
+    * [Spring Batch Paging Reader 사용시 같은 조건의 데이터를 읽고 수정할때 문제](https://jojoldu.tistory.com/337)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
   * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
