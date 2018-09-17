@@ -61,6 +61,8 @@ Functional Programming
 * [Functional Programming For People Who Hate Math](https://www.youtube.com/watch?v=SlfipOW_ilU)
 * [Pros and cons of functional programming](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
 * [Are idempotent functions the same as pure functions?](https://stackoverflow.com/questions/4801282/are-idempotent-functions-the-same-as-pure-functions)
+* [Elements of Functional Programming](https://www.youtube.com/watch?v=vVW5bkXQ138) map, flatMap, filter in Swift
+* [All I needed for FP I learned in High School Algebra - Eric Normand](https://www.youtube.com/watch?v=epT1xgxSpFU) clojure
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
