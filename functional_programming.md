@@ -63,6 +63,8 @@ Functional Programming
 * [Are idempotent functions the same as pure functions?](https://stackoverflow.com/questions/4801282/are-idempotent-functions-the-same-as-pure-functions)
 * [Elements of Functional Programming](https://www.youtube.com/watch?v=vVW5bkXQ138) map, flatMap, filter in Swift
 * [All I needed for FP I learned in High School Algebra - Eric Normand](https://www.youtube.com/watch?v=epT1xgxSpFU) clojure
+* [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
+* [What Is Functional Programming?](https://www.youtube.com/watch?v=kJuJU-7_utA)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -140,3 +142,4 @@ Functional Programming
 * **[DDD(domain driven design) 관점에서 객체지향 vs 함수형 코드 비교](http://hamait.tistory.com/902)**
 * [Functional programming and Spark: do they mix?](https://www.iravid.com/posts/fp-and-spark.html)
 * [Let’s Code Real World App Using Purely Functional Techniques (in Scala)](https://www.youtube.com/watch?v=m40YOZr1nxQ)
+* [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
