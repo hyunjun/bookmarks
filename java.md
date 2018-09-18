@@ -112,6 +112,7 @@ Java
   * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
   * [Fully Immutable Class in java](https://www.linkedin.com/pulse/fully-immutable-class-java-saral-saxena/)
   * [Anonymous Inner Classes in Java](https://www.youtube.com/watch?v=FPWkRaqwT84)
+  * [java inner class](http://blog.woniper.net/362)
 * Collections
   * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
   * HashMap

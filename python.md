@@ -146,7 +146,6 @@ Python
 * [Let’s Build A Simple Interpreter. Part 4.](http://ruslanspivak.com/lsbasi-part4/)
 * [Let’s Build A Simple Interpreter. Part 5.](http://ruslanspivak.com/lsbasi-part5/)
 * [Let’s Build A Simple Interpreter. Part 6.](http://ruslanspivak.com/lsbasi-part6/)
-* [Writing a Console Twitter Client in Python](http://blog.brakmic.com/writing-a-console-twitter-client-in-python/)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
 * [Recreational Maths in Python](http://www.alanzucconi.com/2015/11/03/recreational-maths-python/)
 * [DoingMathWithPython](https://github.com/DevStarSJ/Study/tree/master/Blog/Python/DoingMathWithPython)
@@ -2166,7 +2165,6 @@ Python
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
-* [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
@@ -2201,7 +2199,6 @@ Python
   * [requests-mock provides a building block to stub out the HTTP requests portions of your testing code](https://github.com/jamielennox/requests-mock)
     * [requests-mock.readthedocs.io](http://requests-mock.readthedocs.io/)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
-* [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
@@ -2304,7 +2301,12 @@ Python
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
-* [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
+* Twitter
+  * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
+  * [rainbowstream - A Twitter client on terminal](http://www.rainbowstream.org/)
+  * [Retweet automatically retweets tweets from a Twitter user](https://github.com/chaica/retweet)
+  * [Writing a Console Twitter Client in Python](http://blog.brakmic.com/writing-a-console-twitter-client-in-python/)
+  * [Create A Twitter Bot With Python](https://www.youtube.com/watch?v=8u-zJVVVhT4)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * **[Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp](https://github.com/Yelp/undebt)**
