@@ -96,6 +96,7 @@
 * [아두이노를 이용한 기상정보 수집과 빅데이터 분석 3. 프로그램 코딩](https://www.youtube.com/watch?v=wmR25QATNrU)
 * [Arduino Serial 로 hex 전송하기](http://jusths.tistory.com/49)
 * [bcho.tistory.com/category/프로그래밍/아두이노](http://bcho.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
+* [Arduino - TCP Client로 명령받기](http://jusths.tistory.com/54)
 
 # [Artik](https://www.artik.io/)
 
