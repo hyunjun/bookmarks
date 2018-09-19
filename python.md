@@ -579,6 +579,8 @@ Python
   * [Copy-on-write friendly Python garbage collection](https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
     * [COW(Copy-on-write)가 발생하는 Python garbage collection](https://b.luavis.kr/python/cow-friendly-python-gc) python3.7에 추가된 gc.freeze
   * **[Python GC가 작동하는 원리](https://winterj.me/python-gc/)**
+  * [자동 Garbage Collection 주기](https://weicomes.tistory.com/277)
+  * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
