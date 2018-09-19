@@ -237,6 +237,7 @@ C
   # 내 프로젝트 타겟에 링크하는 방법입니다.
   target_link_libraries(<타겟> Boost::system Boost::filesystem Boost::iostreams)
   ```
+  * [cmake / hunter / devpi / setup.py](https://knouackr-my.sharepoint.com/:b:/g/personal/halatha_knou_ac_kr/EV2PrN0CF4hBn7IWzOd5C7UBJ4wyGNEgyft61d4KkaIt7A?e=ZCQW7F)
 * **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
 * [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html) beautifier

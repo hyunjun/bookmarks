@@ -69,10 +69,6 @@ Python
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
-* [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
-* [pypi 패키지 만들어보기](http://blog.everypython.com/post/15/)
-* [로컬 PYPI 서버 설정하기](http://daewonyoon.tistory.com/199)
-* [파이썬 패키지를 공유하는 법](https://code.tutsplus.com/ko/tutorials/how-to-share-your-python-packages--cms-26114)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
@@ -106,7 +102,6 @@ Python
 * [Write a Python Calculator Imperatively](http://hz2.org/blog/python_calc.html)
 * [asciinema.org/a/5bwbed0is2306d02xacmga6nx](https://asciinema.org/a/5bwbed0is2306d02xacmga6nx) pycalculator
 * [Random Forest in Python](http://www.analyticbridge.com/profiles/blogs/random-forest-in-python)
-* [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
 * [Creating a bot for Checkers](https://kartikkukreja.wordpress.com/2015/07/12/creating-a-bot-for-checkers/)
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
@@ -138,7 +133,6 @@ Python
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Wrapping Go in Python](https://www.youtube.com/watch?v=6v6OZXk2E_w)
 * [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
-* [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
 * [파이썬으로 만드는 첫 쓸모있는 프로그램 EBS 방송 녹화하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=292381)
 * [Let’s Build A Simple Interpreter. Part 1.](http://ruslanspivak.com/lsbasi-part1/)
 * [Let’s Build A Simple Interpreter. Part 2.](http://ruslanspivak.com/lsbasi-part2/)
@@ -810,11 +804,18 @@ Python
   * [파이썬 객체의 직렬화와 역직렬화: 2부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-2--cms-26184)
 * sets
   * [Python Data Structures: Sets, Frozensets, and Multisets (Bags)](https://www.youtube.com/watch?v=b-K1ujf8u_k)
-* setup.py, distutils
+* setup.py, distutils, packaging
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
   * [파이썬 프로젝트 시작하기 - Distutils](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-distutils/)
   * [파이썬 프로젝트 시작하기 - Setuptools](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-setuptools/)
   * [파이썬 package 배포 하기](https://rampart81.github.io/post/python_package_publish/)
+  * [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
+  * [pypi 패키지 만들어보기](http://blog.everypython.com/post/15/)
+  * [로컬 PYPI 서버 설정하기](http://daewonyoon.tistory.com/199)
+  * [파이썬 패키지를 공유하는 법](https://code.tutsplus.com/ko/tutorials/how-to-share-your-python-packages--cms-26114)
+  * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
+  * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
+  * [devpi - Python PyPi staging server and packaging, testing, release tool http://doc.devpi.net](https://github.com/devpi/devpi)
 * smtplib
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
   * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
