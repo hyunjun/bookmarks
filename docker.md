@@ -133,6 +133,7 @@ Docker
 * [docker the cloud](https://spoqa.github.io/2013/11/22/docker-the-cloud.html)
 * [A quick introduction to Docker http://odewahn.github.io/docker-jumpstart](https://github.com/odewahn/docker-jumpstart/)
 * [What is Docker?](https://www.conetix.com.au/blog/what-is-docker)
+* [What Is Docker? | What Is Docker And How It Works? | Docker Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=rOTqprHv1YE)
 * [Show HN: CLI for executing code in many different languages with Docker](https://docker-exec.github.io/)
 * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
 * [Docker building dockers - keeping them small](https://github.com/jamiemccrindle/dockerception)
@@ -483,6 +484,7 @@ Docker
 * [KUBERNETES IS NOW AVAILABLE IN DOCKER DESKTOP STABLE CHANNEL](https://blog.docker.com/2018/07/kubernetes-is-now-available-in-docker-desktop-stable-channel/)
 * [도커(Docker), 쿠버네티스(Kubernetes) 통합 도커 데스크톱을 스테이블 채널에 릴리즈](https://www.44bits.io/ko/post/news--release-docker-desktop-with-kubernetes-to-stable-channel)
 * [쿠버네티스 차근차근 다지기](https://www.facebook.com/ChoEunOk/videos/2131989013479471/)
+* [2018 Cloud Hackathon Tech Session - Kubernetes](https://www.youtube.com/watch?v=rdyUAduXi48)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

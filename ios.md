@@ -333,6 +333,7 @@ iOS
 * [스위프트에서 세이프티](http://blog.canapio.com/96)
 * [스위프트에서 시스템 수준의 브레이크 포인트](http://blog.canapio.com/97)
 * [Improving Optionals](http://blog.canapio.com/98)
+* [옵셔널 타입 클로저 매개변수 파고들기](https://brunch.co.kr/@tilltue/52)
 * [스위프트의 싱글톤 사용에서 리펙토링하기](http://blog.canapio.com/99)
 * [No-contiguous raw value enumeration](http://blog.canapio.com/100)
 * [옵셔널을 대입하는 여러가지 방법들](http://blog.canapio.com/101)

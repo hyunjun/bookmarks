@@ -81,6 +81,7 @@ Artificial Intelligence
 * [What is the Role of an AI Software Engineer in a Data Science Team?](https://towardsdatascience.com/what-is-the-role-of-an-ai-software-engineer-in-a-data-science-team-eec987203ceb)
 * [My take on Google AI Interview Question with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-google-ai-interview-question-with-interactive-code-part-1-db2e33a26f10)
 * [삼성 AI 포럼 - 2일차 리뷰](http://hyunjong-lee.github.io/review/2018/09/13/samsung_ai_forum_2nd_day.html)
+* [POSCO AI Chanllenge 과제 참여 연구노트](https://lovetoken.github.io/machinelearning/2018/09/19/posco_ai.html)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
