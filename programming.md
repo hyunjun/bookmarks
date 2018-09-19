@@ -332,6 +332,7 @@ Programming
     * [Part 2](https://developer.akamai.com/blog/2017/04/06/need-know-caching-part-2/)
     * [Part 3](https://developer.akamai.com/blog/2017/04/14/need-know-caching-part-3/)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
+* [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
