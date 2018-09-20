@@ -681,7 +681,7 @@ TensorFlow
 # RNN
 * [char-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow](https://github.com/sherjilozair/char-rnn-tensorflow)
 * [word-rnn-tensorflow - Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow](https://github.com/hunkim/word-rnn-tensorflow)
-* [Practical Examples for RNNs in Tensorflow http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/](https://github.com/dennybritz/tf-rnn)
+* [Practical Examples for RNNs in Tensorflow http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features ](https://github.com/dennybritz/tf-rnn)
   * [RNNS IN TENSORFLOW, A PRACTICAL GUIDE AND UNDOCUMENTED FEATURES](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
     * [RNNs in Tensorflow, A Practical Guide and Undocumented Features](https://tgjeon.github.io/post/rnns-in-tensorflow/)
 * [Introduction to Recurrent Networks in TensorFlow](http://danijar.github.io/introduction-to-recurrent-networks-in-tensorflow)

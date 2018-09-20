@@ -4,7 +4,7 @@ Regular Expression
 * [Benchmark of Regex Libraries](http://lh3lh3.users.sourceforge.net/reb.shtml)
 * [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 * [RegExr: A website for interactive regex prototyping with syntax highlighting](http://regexr.com/)
-* [regular-expressions.info/](http://www.regular-expressions.info/)
+* [regular-expressions.info](http://www.regular-expressions.info/)
 * [Regular Expressions](https://www.youtube.com/playlist?list=PLfdtiltiRHWGRPyPMGuLPWuiWgEI9Kp1w)
 * [Implementing Regular Expressions](https://swtch.com/~rsc/regexp/)
 * [Alternatives To Regular Expressions](http://c2.com/cgi/wiki?AlternativesToRegularExpressions)
@@ -15,7 +15,7 @@ Regular Expression
 * [Regex Generator++ Automatic Generation of Text Extraction Patterns from Examples](http://regex.inginf.units.it/)
 * [Breaking the ICE with Regular Expression@Code School](http://campus.codeschool.com/courses/breaking-the-ice-with-regular-expressions/contents)
 * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
-* [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js/](https://github.com/fent/randexp.js)
+* [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [Regex Cheat Sheet](https://duckduckgo.com/?q=regex+cheat+sheet&ia=cheatsheet&iax=1)
 * [Regular Expressions Cheat Sheet by DaveChild](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
 * **[RegexOne - Learn Regular Expressions with simple, interactive exercises](http://regexone.com/)**

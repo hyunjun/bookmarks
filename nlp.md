@@ -343,7 +343,7 @@ NLP
   * [code](https://github.com/shawnwun/RNNLG/tree/master)
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 * [코딩없이 만드는 채팅봇](http://www.closer.co.kr/)
-* [Dialog System - http://nlp.postech.ac.kr/research/dialog_system/](http://nlp.postech.ac.kr/research/dialog_system/)
+* [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)
 * [Making Friends With Artificial Intelligence: Eric Horvitz at TEDxAustin](https://www.youtube.com/watch?v=dpoVh9xwdD4)
 * [4차 산업혁명 특별기획 ‘기계와의 대결’ 2부](http://news.kbs.co.kr/news/view.do?ncd=3336967)
@@ -704,7 +704,7 @@ NLP
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [textgenrnn - Python module to easily generate text using a pretrained character-based recurrent neural network](https://github.com/minimaxir/textgenrnn)
-* [Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw/](https://github.com/JohnLangford/vowpal_wabbit)
+* [Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw ](https://github.com/JohnLangford/vowpal_wabbit)
   * [vwnlp - Solving NLP problems with Vowpal Wabbit: Tutorial and more](https://github.com/hal3/vwnlp)
 
 ## R
@@ -952,8 +952,8 @@ NLP
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [GNMT로 알아보는 신경망 기반 기계번역](https://drive.google.com/file/d/0B_Ekt7icI0htZGlpWVpwODJSOVU/view)
 * [OpenNMT - a industrial-strength, open-source (MIT) neural machine translation system utilizing the Torch mathematical toolkit](http://opennmt.net/)
-  * [Open-Source Neural Machine Translation in PyTorch http://opennmt.net/](https://github.com/OpenNMT/OpenNMT-py)
-* [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano.](https://github.com/lium-lst/nmtpy)
+  * [Open-Source Neural Machine Translation in PyTorch http://opennmt.net ](https://github.com/OpenNMT/OpenNMT-py)
+* [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano](https://github.com/lium-lst/nmtpy)
 * [py-googletrans - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge](https://github.com/ssut/py-googletrans)
 * [onlinedoctranslator.com](https://www.onlinedoctranslator.com/) 구글 api를 사용해 만든 번역 서비스
 * [Deep Learning Takes on Translation](https://cacm.acm.org/magazines/2017/6/217734-deep-learning-takes-on-translation/fulltext)

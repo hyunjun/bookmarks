@@ -50,7 +50,7 @@ Travel
 * [세상의 끝을 여행한다면 이런 모습일 것이다(화보)](http://www.huffingtonpost.kr/2015/09/27/story_n_8202138.html)
 * [합리적인 가격으로 여행할 수 있는 전 세계 도시 25](http://www.huffingtonpost.kr/trivago/story_b_8202074.html)
 * [198개 나라를 여행한 남자가 꼽은 최고의 도시 20곳, 그중 1위는?](http://www.huffingtonpost.kr/2015/09/29/story_n_8211680.html)
-* [15 astonishing railways of the world/](http://thelist15.com/15-astonishing-railways-of-the-world/)
+* [15 astonishing railways of the world](http://thelist15.com/15-astonishing-railways-of-the-world/)
 * [Beautiful earth - Discover the most amazing places for photography](http://www.locationscout.net/)
 * [ShotHotspot - We'll help you find great places to take photos, anywhere in the world](http://www.shothotspot.com/)
 * [혼자 여행하고 싶어지는 23장의 사진(화보)](http://www.huffingtonpost.kr/2015/10/20/story_n_8335596.html)

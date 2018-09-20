@@ -403,7 +403,7 @@ Machine Learning
 * [Machine Learning Demo Session](https://www.youtube.com/watch?v=Xl0O2ATb-kQ)
 * [머신러닝과 전통적 통계학의 차이](https://medium.com/@hyunseok/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%A0%81-%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98-%EC%B0%A8%EC%9D%B4-a560f0708db0)
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
-* [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+* [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io)
 * [누구나 쉽게 할 수 있는 빅데이타와 머신러닝](https://www.slideshare.net/Byungwook/ss-79709096)
 * [Introducing: Unity Machine Learning Agents](https://blogs.unity3d.com/kr/2017/09/19/introducing-unity-machine-learning-agents/)
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
@@ -684,7 +684,7 @@ Machine Learning
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
-* [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org/](https://github.com/SparkTC/systemml)
+* [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org ](https://github.com/SparkTC/systemml)
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 
 # LinkedIn
@@ -842,9 +842,9 @@ Machine Learning
   * [Implementing a Neural Network from Scratch in Python – An Introduction](https://www.datasciencecentral.com/profiles/blogs/implementing-a-neural-network-from-scratch-in-python-an)
   * [Building Prediction APIs in Python (Part 1): Series Introduction & Basic Example](https://towardsdatascience.com/building-prediction-apis-in-python-part-1-series-introduction-basic-example-fe89e12ffbd3)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
-* [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile/](https://github.com/haifengl/smile)
+* [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
-* [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot/](https://github.com/rhiever/tpot)
+* [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
@@ -942,7 +942,7 @@ Machine Learning
 # Transfer Learning
 * [Transfer Learning - Machine Learning's Next Frontier](http://ruder.io/transfer-learning/index.html)
 * [Transfer Learning - Machine Learning's Next Frontier](http://sebastianruder.com/transfer-learning/)
-* [Paper is out; Transfer learning for music classification and regression tasks, and behind the scene, negative results, etc.](https://keunwoochoi.wordpress.com/2017/03/28/paper-is-out-transfer-learning-for-music-classification-and-regression-tasks-and-behind-the-scene-negative-results-etc/)
+* [Paper is out; Transfer learning for music classification and regression tasks, and behind the scene, negative results, etc](https://keunwoochoi.wordpress.com/2017/03/28/paper-is-out-transfer-learning-for-music-classification-and-regression-tasks-and-behind-the-scene-negative-results-etc/)
 * [youtube.com/user/dvbuntu/featured Self-drinving car Transfer Learning Model](https://www.youtube.com/user/dvbuntu/featured)
 * ["Transfer Learning from Deep Features for Remote Sensing and Poverty Mapping"](http://arxiv.org/abs/1510.00098)
   * [code & data](https://github.com/nealjean/predicting-poverty)

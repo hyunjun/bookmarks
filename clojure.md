@@ -159,7 +159,7 @@ Clojure
 * [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](http://hyperpolyglot.org/lisp)
 * [deftype vs defrecord](http://www.lispcast.com/deftype-vs-defrecord)
 * [choosing type forms 2](https://chasemerick.files.wordpress.com/2011/07/choosingtypeforms2.png)
-* [Ubuntu to deploy from Dockerfile. clojure. \*.jar. or something like that.](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
+* [Ubuntu to deploy from Dockerfile. clojure. \*.jar. or something like that](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
 * [Clojure Fundamentals For Beginners](https://www.eduonix.com/courses/Software-Development/clojure-fundamentals-for-beginners)
 * [CSP 예제](https://github.com/eunmin/csp-example)
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
@@ -189,7 +189,7 @@ Clojure
 * [순수함수란 무엇인가에 대한 저의 생각](https://groups.google.com/forum/#!topic/clojure-kr/MAqh4_R4eLI)
 * [clojureremote.com](https://clojureremote.com/)
 * [케빈 TV 22회 - 부록영상: 클로저(Clojure) 소개하다가 당황하기](https://www.youtube.com/watch?v=XaCBUCEoSUU)
-* [스칼라를 이용한 개발 이후..](http://hamait.tistory.com/719)
+* [스칼라를 이용한 개발 이후](http://hamait.tistory.com/719)
 * [How Zalando's Using Clojure+Spark (Slides)](https://tech.zalando.com/blog/how-zalandos-using-clojurespark-slides/)
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
 * [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
@@ -380,7 +380,7 @@ Clojure
 * [NAVER Tech Talk: 개발언어, 설계(2018년 2월)](https://d2.naver.com/news/8149676)
 
 ## Library
-* [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest/](https://github.com/funcool/cats)
+* [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
 * [Catalysis - Full stack (+ clj cljs reagent datomic datascript datsync) web development](https://github.com/metasoarous/catalysis)
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
@@ -451,8 +451,8 @@ Clojure
     * [3. 컴포넌트와 의존성 주입](http://clojure.kr/arachne-tutorials-dependency-injection)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
-* [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote.](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
-* [boot - Build tooling for Clojure http://boot-clj.com/](https://github.com/boot-clj/boot)
+* [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
+* [boot - Build tooling for Clojure http://boot-clj.com ](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
@@ -542,14 +542,14 @@ Clojure
   * [Enter Integrant: a micro-framework for data-driven architecture with James Reeves](https://skillsmatter.com/skillscasts/9820-enter-integrant-a-micro-framework-for-data-driven-architecture-with-james-reeves)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
-* [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io/en/latest/](https://github.com/walmartlabs/lacinia)
+* [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
 * leiningen
   * [dependency priority (1)](http://clojure.kr/leiningen-1/)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
   * lein-count
     * [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
-* [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom/](https://github.com/aysylu/loom)
+* [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/) web template
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
@@ -570,7 +570,7 @@ Clojure
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
 * [Parens of the Dead - A screencast series of zombie-themed games written with Clojure and ClojureScript](http://www.parens-of-the-dead.com/)
-* [Parinfer - Let's simplify the way we write Lisp...](http://shaunlebron.github.io/parinfer/index.html)
+* [Parinfer - Let's simplify the way we write Lisp](http://shaunlebron.github.io/parinfer/index.html)
 * [Parinfer for CodeMirror](https://github.com/shaunlebron/parinfer-codemirror)
 * [Pedestal - web application framework](https://github.com/pedestal/pedestal)
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)

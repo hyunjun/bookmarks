@@ -164,7 +164,7 @@ Data Visualization
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
-  * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn/](https://github.com/mwaskom/seaborn)
+  * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn ](https://github.com/mwaskom/seaborn)
   * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
   * [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
   * [Data Visualization in Python: Advanced Functionality in Seaborn](https://blog.insightdatascience.com/data-visualization-in-python-advanced-functionality-in-seaborn-20d217f1a9a6)

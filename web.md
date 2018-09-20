@@ -4,7 +4,7 @@ Web
 * [codelion.net](http://codelion.net/)
 * [udacity.com/courses/cs253](https://www.udacity.com/courses/cs253)
 * [웹학교](https://www.youtube.com/user/homepageschool)
-* [BehindTheSite - A log of web technology stacks.](http://behindthesite.com)
+* [BehindTheSite - A log of web technology stacks](http://behindthesite.com)
 * [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
 * [깃플 기술스택 구경하세요~ (프론트엔드 편)](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/)
 * [대학생을 위한 웹 개발 공부용 체크리스트](http://xguru.net/1897)

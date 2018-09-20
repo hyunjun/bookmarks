@@ -52,7 +52,7 @@ Docker
 * [A crash course on Docker — Learn to swim with the big fish](https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0)
 * [docs.docker.com](https://docs.docker.com/)
 * [github.com/docker-library/docs](https://github.com/docker-library/docs)
-* [hub.docker.com/](https://hub.docker.com/)
+* [hub.docker.com](https://hub.docker.com/)
   * [bi_deeplearning](https://hub.docker.com/r/imcomking/bi_deeplearning/) TensorFlow + Theano + Torch + Scikit-learn + Keras + Caffe + ...
   * [centos](https://hub.docker.com/_/centos/)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
@@ -503,7 +503,7 @@ Docker
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
-* [dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications http://dokku.viewdocs.io/dokku/](https://github.com/dokku/dokku)
+* [dokku - A docker-powered PaaS that helps you build and manage the lifecycle of applications http://dokku.viewdocs.io/dokku ](https://github.com/dokku/dokku)
   * [도쿠(Dokku)로 만드는 미니 히로쿠(Heroku)](http://blog.nacyot.com/articles/2014-01-30-deploying-application-with-dokku/)
 * [domeide - Docker meets the IDE!](http://domeide.github.io/)
 * [Droot - a super-easy application container engine with chroot without docker](https://github.com/yuuki1/droot)
@@ -603,7 +603,7 @@ Docker
 * `kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1`
   * kernel bug로 cent os 7.x에서 docker를 사용하는 경우 계속 발생(ubuntu 쓰면 안 나타난다고 함)
   * service 영향은 상황마다 달라서 일률적으로 알 수 없다고 함
-  * [www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to/](https://www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to/)
+  * [www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to](https://www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to/)
   * [Docker on CentOS 7.2: kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1](https://stackoverflow.com/questions/43153503/docker-on-centos-7-2-kernelunregister-netdevice-waiting-for-lo-to-become-free)
 * [Docker for mac eating disk space](https://www.chrissearle.org/2016/09/11/docker-for-mac-eating-disk-space/) 그냥 해당 directory 삭제 후 재시작
   * [Docker.qcow2 never shrinks - disk space usage leak in docker for mac](https://github.com/docker/for-mac/issues/371) 2017.03.17 현재, 곧 1년이 되며 여전히 해결 못함

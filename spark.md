@@ -5,7 +5,7 @@
 * [Spark Programming Guide](https://spark.apache.org/docs/latest/programming-guide.html)
 * [Tuning Spark](http://spark.apache.org/docs/latest/tuning.html)
 * [advanced dependency management](http://spark.apache.org/docs/latest/submitting-applications.html#advanced-dependency-management)
-* [Custom API Examples For Apache Spark - The examples are basic and only for newbies in Scala and Spark.](https://github.com/HyukjinKwon/spark-custom-api)
+* [Custom API Examples For Apache Spark - The examples are basic and only for newbies in Scala and Spark](https://github.com/HyukjinKwon/spark-custom-api)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [github.com/apache/spark](https://github.com/apache/spark)
 * **[SparkTutorian.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
@@ -304,7 +304,7 @@
   * [Part 4 — MLlib](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-4-mllib/)
 	* [Part 5 - Streaming](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-5-streaming/)
   * [Part 6 - GraphX](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-6-graphx)
-* partition의 개수가 지나치게 적게 잡혀서 worker 역시 부족하게 할당되면서 성능 하락 [problem e.g.](https://www.facebook.com/groups/sparkkoreauser/permalink/1753810921347470/)
+* partition의 개수가 지나치게 적게 잡혀서 worker 역시 부족하게 할당되면서 성능 하락 [problem e.g](https://www.facebook.com/groups/sparkkoreauser/permalink/1753810921347470/)
   * 다양한 경우에서 자주 발생
   * spark sql optimizer가 업그레이드 되는 게 가장 확실한 해법이지만 그걸 기다릴 수 없기 때문에 repartition을 사용해 강제로 partition 수를 증가
 
@@ -652,7 +652,7 @@
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
-* [Manage your Machine Learning Lifecycle with MLflow — Part 1.](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+* [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
 
 # Spark SQL
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)

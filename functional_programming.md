@@ -132,7 +132,7 @@ Functional Programming
 * [JavaScript 모나딕 파서](https://medium.com/@jooyunghan/javascript-%EB%AA%A8%EB%82%98%EB%94%95-%ED%8C%8C%EC%84%9C-c17fe5033f26)
 
 # Python
-* [A functional standard library for Python http://toolz.readthedocs.org/](https://github.com/pytoolz/toolz)
+* [A functional standard library for Python http://toolz.readthedocs.org ](https://github.com/pytoolz/toolz)
 * [Functional Programming Demystified](https://www.youtube.com/watch?v=WkAHju2-W7Q)
 
 # Scala

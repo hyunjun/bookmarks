@@ -54,7 +54,7 @@ Json
 * Jackson
   * [Jackson annotation, JSON 직렬화,역직렬화와 관련된 어노테이션](http://www.slideshare.net/topcredu/jackson-annotation-json)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
-* [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/](https://github.com/jpmens/jo)
+* [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * **[jq - a lightweight and flexible command-line JSON processor](http://stedolan.github.io/jq/)**
   * [커맨드라인 JSON 프로세서 jq](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)

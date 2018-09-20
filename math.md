@@ -15,7 +15,7 @@ Math
 * [mathclouds.org](http://www.mathclouds.org/)
 * [mathfreeon.com - Mathematical Data Analysis Engine Over Cloud](http://www.mathfreeon.com/)
 * [mathjax.org](https://www.mathjax.org/)
-* [ilectureonline.com/](http://www.ilectureonline.com/)
+* [ilectureonline.com](http://www.ilectureonline.com/)
 * [Online Mathematics Textbooks](http://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
 * [IMAGINARY is your place for open and interactive mathematics. Join a worldwide community of math enthusiasts!](http://imaginary.org/)
 * [Chicago undergraduate mathematics bibliography](https://www.ocf.berkeley.edu/~abhishek/chicmath.htm?resubmit=hn)

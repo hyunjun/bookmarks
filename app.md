@@ -32,7 +32,7 @@ App
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
-* [Fort - a Free Software password manager http://www.ideabyte.net/fort/](https://github.com/nrosvall/fort)
+* [Fort - a Free Software password manager http://www.ideabyte.net/fort ](https://github.com/nrosvall/fort)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [goodsync.com](http://www.goodsync.com/)
@@ -159,8 +159,8 @@ App
   * [MediaWiki 활용](http://blog.prettymay.com/)
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)
 * [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)
-* [squall.io/](http://squall.io/)
-* [pages.github.com/](https://pages.github.com/)
+* [squall.io](http://squall.io/)
+* [pages.github.com](https://pages.github.com/)
 * [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
 * [Pelican Static Site Generator, Powered by Python](https://blog.getpelican.com/)
   * [Creating a Static Blog with Search and Comments using the Pelican Static Site Generator](https://medium.freecodecamp.org/pelican-tutorial-static-blog-with-search-comments-demo-5137c02cbb0a)
@@ -473,7 +473,7 @@ App
   * [OpenStack Instance auto provisioning with Ansible](http://naleejang.tistory.com/207)
 * Screen Recorder
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
-  * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다.](http://macnews.tistory.com/2215)
+  * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다](http://macnews.tistory.com/2215)
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
   * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114?mt=12)
@@ -539,11 +539,13 @@ App
 
 # Note
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
-* [dddraft.com/](http://dddraft.com/)
-* [icloud-notepad/](http://www.slashie.org/articles/icloud-notepad/)
-* [notebooksapp.com/](http://www.notebooksapp.com/)
-* [paperkit.net/](http://paperkit.net/)
-* [paperwork.rocks/](http://paperwork.rocks/)
+* [dddraft.com](http://dddraft.com/)
+* [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
+* [notebooksapp.com](http://www.notebooksapp.com/)
+* [notion - All-in-one workspace](https://www.notion.so)
+  * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
+* [paperkit.net](http://paperkit.net/)
+* [paperwork.rocks](http://paperwork.rocks/)
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
@@ -575,7 +577,7 @@ App
   * `if([condition], [true output], [false output])`
     * e.g. if(E11=F11, "T", if(F11="N/A", "T", "F")) E11과 F11이 같으면 T, 다르면 F11이 N/A면 T, 아니면 F(즉, E11과 F11이 다르고 AND F11이 N/A가 아니면 F)
 # Programming
-* [pocket-programming.ffab0.com/](http://pocket-programming.ffab0.com/)
+* [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
 
 # TODOs To-Dos
 * [dynalist.io](https://dynalist.io/) todo
@@ -650,7 +652,7 @@ App
 * Cygwin
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
 * [fciv - 윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)
-* [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow/](https://github.com/bmatzelle/gow)
+* [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow ](https://github.com/bmatzelle/gow)
 * [midipix - posix for windows](http://midipix.org/)
 * [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)

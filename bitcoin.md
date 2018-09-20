@@ -107,7 +107,7 @@ Bitcoin
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
-* [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com/](https://github.com/velopert/bitimulate)
+* [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com ](https://github.com/velopert/bitimulate)
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
 * Etherium

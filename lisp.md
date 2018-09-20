@@ -37,7 +37,7 @@ Lisp
 * [call-with-current-continuation](http://community.schemewiki.org/?call-with-current-continuation)
 * [call-with-current-continuation-for-C-programmers](http://community.schemewiki.org/?call-with-current-continuation-for-C-programmers)
 * [The Most Important Idea in Computer Science](http://www.lispcast.com/the-most-important-idea-in-computer-science)
-* [Ad hoc data analysis/discovery of event data...](http://danoyoung.blogspot.kr/2015/10/and-bobs-your-uncle.html)
+* [Ad hoc data analysis/discovery of event data](http://danoyoung.blogspot.kr/2015/10/and-bobs-your-uncle.html)
 * [Improving Accuracy: A Look at Sums](http://alex.uwplse.org/2015/10/16/improving-accuracy-summation.html)
 * 제 4회 리습 세미나 발표 자료
   * [Clojurescript로 하는 함수형 UI 프로그래밍과 그 응용](http://www.slideshare.net/SangKyuPark1/clojurescript-ui)

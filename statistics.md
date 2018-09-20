@@ -319,7 +319,7 @@ Statistics
 ### Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
 * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
-* [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc/](https://github.com/pymc-devs/pymc)
+* [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc ](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
   * [Bayesian Methods for Hackers - Using Python and PyMC](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)

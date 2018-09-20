@@ -15,7 +15,7 @@ Interview
   * [minsuk-heo/cracking the coding interview](https://www.youtube.com/watch?v=GhnNfDeaiOk&list=PLVNY1HnUlO24158Ac_ZRlPGvReK4tW0CC)
   * [github.com/minsuk-heo/problemsolving/Craking the Coding Interview](https://github.com/minsuk-heo/problemsolving/tree/master/Craking%20the%20Coding%20Interview)
   * [How to use Cracking the Coding Interview Effectively](https://www.youtube.com/watch?v=xAxgzrj8zgU)
-* [Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc.](https://www.youtube.com/watch?v=lD-LuK_VGZI)
+* [Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc](https://www.youtube.com/watch?v=lD-LuK_VGZI)
 * [How to Succeed in any Programming Interview](https://www.youtube.com/watch?v=5KB5KAak6tM)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * **[Google Interview University](https://github.com/jwasham/google-interview-university/)**
@@ -303,7 +303,7 @@ Interview
 * [lever](https://www.lever.co/)
 * [nagaja.net 해외취업 커뮤니티](http://www.nagaja.net/)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
-* [staticjobs.com/](https://www.staticjobs.com/)
+* [staticjobs.com](https://www.staticjobs.com/)
 * [whoishiring.io - Who is hiring? Map Edition](http://whoishiring.io/)
 * [vaadin.com](https://vaadin.com/jobs?gclid=COPMhIPR8ckCFQuCvQod-YALmQ)
 

@@ -387,7 +387,7 @@ ElasticSearch - Lucene
 * [es-fixtures - Simple Fixture Loading for Elasticsearch from Node.js](https://github.com/toniov/es-fixtures)
 * [esquery-proxy - Elasticsearch 용 RESTful API Gateway/Proxy](http://jjeong.tistory.com/1268)
 * [es-swapi-test](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb?__hstc=62641971.0135eefa3bdff6b723c411e4c9086d2d.1448241371111.1448241371111.1448241371111.1&__hssc=62641971.1.1448241371112&__hsfp=2294634674)
-* [Fess is very powerful and easily deployable Enterprise Search Server. http://fess.codelibs.org/](https://github.com/nocode2k/fess)
+* [Fess is very powerful and easily deployable Enterprise Search Server. http://fess.codelibs.org ](https://github.com/nocode2k/fess)
 * [fluent-plugin-beats at Elasticsearch meetup](http://www.slideshare.net/repeatedly/fluentpluginbeats-at-elasticsearch-meetup-14)
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
 * [Hierarchical filtering](http://demo.searchkit.co/taxonomy)
@@ -460,7 +460,7 @@ ElasticSearch - Lucene
 # Plugin
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)
 * [elasticsearch-analysis-arirang - korean analyzer (lucene analyzer kr arirang)](https://github.com/HowookJeong/elasticsearch-analysis-arirang/)
-  * [Arirang analyzer 버전 올렸습니다.](http://jjeong.tistory.com/1142)
+  * [Arirang analyzer 버전 올렸습니다](http://jjeong.tistory.com/1142)
   * [Elasticsearch에 Arirang 외부 사전 등록하기](http://jjeong.tistory.com/1143)
   * [elasticsearch-analysis-arirang-5.2.1](http://jjeong.tistory.com/1242)
   * [5.x 용 Arirang 형태소 분석기 사용 시 주의 사항](http://jjeong.tistory.com/1251)

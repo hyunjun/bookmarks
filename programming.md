@@ -178,7 +178,7 @@ Programming
 * [Top 10 New Developer Tools of February](https://hackernoon.com/top-10-new-developer-tools-of-february-ff7999977e84)
 * [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 * [Start Your Tech Career Today: 40 Tools to Learn Coding Online](https://entrepreneurs.maqtoob.com/start-your-tech-career-today-40-tools-to-learn-coding-online-67dcdf7e7472)
-* [How to make your Software Development experience… painless….](https://towardsdatascience.com/how-to-make-your-software-development-experience-painless-2591ebcc69b6)
+* [How to make your Software Development experience painless](https://towardsdatascience.com/how-to-make-your-software-development-experience-painless-2591ebcc69b6)
 * [나쁜 개발자의 11가지 습관](https://blog.naver.com/codestates/221255140091)
 * [Want to be a top developer? You should build things. Here’s another list to get you started](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-d3d058e4e472)
 * [How to be a successful software engineer](https://medium.freecodecamp.org/how-to-be-a-successful-software-engineer-6f82a5b1a82e)
@@ -1009,7 +1009,7 @@ Programming
   * "Data Loss by Design"이라는 개념을 소개
   * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
   * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
-* **[Spark, Flink, Kafka Streaming ...](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
+* **[Spark, Flink, Kafka Streaming](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
 * [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 * [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
 * **[Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)**

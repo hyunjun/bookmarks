@@ -1,7 +1,7 @@
 Programming Language
 ====================
 
-* [vnev.me/implementing-a-programming-language-in-c-part-1/](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
+* [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [hyperpolyglot.org](http://hyperpolyglot.org/)
 * [www.dotnetperls.com](http://www.dotnetperls.com/)
 * [programming lanugage (1962)](http://brudgers.com/arefaq/arefaq-public-docs/apl.pdf)
@@ -47,13 +47,13 @@ Programming Language
 * [자바랑 자바스크립트랑 싸우면 누가 이길까? 정적 타입 언어와 동적 타입 언어의 생산성에 관하여](https://taegon.kim/archives/6753)
 * [If-statements design: guard clauses may be all you need](https://medium.com/@scadge/if-statements-design-guard-clauses-might-be-all-you-need-67219a1a981a)
 * [Here are the best programming languages to learn in 2018](https://medium.freecodecamp.org/best-programming-languages-to-learn-in-2018-ultimate-guide-bfc93e615b35)
-* [GraalVM - a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Kotlin, and LLVM-based languages such as C and C++.](https://www.graalvm.org/)
+* [GraalVM - a universal virtual machine for running applications written in JavaScript, Python, Ruby, R, JVM-based languages like Java, Scala, Kotlin, and LLVM-based languages such as C and C++](https://www.graalvm.org/)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
 * [A Definition of Closures](http://gafter.blogspot.kr/2007/01/definition-of-closures.html)
-* [자바스크립트 클로저(Closure)에 대해서...](http://blog.outsider.ne.kr/506)
+* [자바스크립트 클로저(Closure)에 대해서](http://blog.outsider.ne.kr/506)
 
 # Continuation
 * [Continuations](https://curiosity-driven.org/continuations)

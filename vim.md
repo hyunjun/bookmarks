@@ -122,7 +122,6 @@ Vim
 * [Vim은 어디서 왔나](https://blog.koriel.kr/where-vim-came-from/)
 
 # Library
-* [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
 * [Vim Bootstrap - A generator which provides a simple method of generating a .vimrc configuration for vim](http://www.vim-bootstrap.com/)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
@@ -142,7 +141,7 @@ Vim
   * [EditorConfig](http://editorconfig.org/) 서로 다른 IDE에서 코딩 스타일을 통일
 * [Minimalist Vim Plugin Manager](https://github.com/junegunn/vim-plug)
 * [Plugin completion using VimAwesome API](https://gist.github.com/junegunn/5dff641d68d20ba309ce)
-* [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
+* [Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
 * [vim-dadbod - Modern database interface for Vim](https://github.com/tpope/vim-dadbod)
 * [vim-flake8](https://github.com/nvie/vim-flake8)
@@ -186,7 +185,7 @@ Vim
     :w
     :PluginInstall
     ```
-* [youcompleteme - A code-completion engine for Vim http://valloric.github.io/YouCompleteMe/](https://github.com/Valloric/YouCompleteMe)
+* [youcompleteme - A code-completion engine for Vim http://valloric.github.io/YouCompleteMe ](https://github.com/Valloric/YouCompleteMe)
   * [youcompleteme를 python3로 구동하기](https://johngrib.github.io/wiki/vim-ycm-python3/)
 
 # Vim8

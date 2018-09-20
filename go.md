@@ -247,7 +247,7 @@ Go
 * [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
-* [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com/](https://github.com/caarlos0/antibody)
+* [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com ](https://github.com/caarlos0/antibody)
 * [arc - An Adaptive Replacement Cache (ARC) written in Go](https://github.com/alexanderGugel/arc)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
   * [Now Available: Version 1.0 of the AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/now-available-version-1-0-of-the-aws-sdk-for-go/)
@@ -264,7 +264,7 @@ Go
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
-* [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird/](https://github.com/purpleworks/delibird)
+* [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird ](https://github.com/purpleworks/delibird)
 * dep
   * [Go에서 dep으로 의존성 관리하기](https://blog.outsider.ne.kr/1354)
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)

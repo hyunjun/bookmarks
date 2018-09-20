@@ -440,7 +440,7 @@ Linux
   * [Linux memory: buffer vs cache](http://stackoverflow.com/questions/6345020/linux-memory-buffer-vs-cache)
   * [Linux Kernel: What is the major difference between the buffer cache and the page cache?](http://www.quora.com/Linux-Kernel/What-is-the-major-difference-between-the-buffer-cache-and-the-page-cache)
   * [What is the difference between Buffers and Cached columns in /proc/meminfo output?](http://www.quora.com/What-is-the-difference-between-Buffers-and-Cached-columns-in-proc-meminfo-output)
-* [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems.](https://github.com/mrsmn/hazelnut)
+* [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems](https://github.com/mrsmn/hazelnut)
 * Stack and Heap
   * [THE STACK AND THE HEAP](https://www.cs.berkeley.edu/~jrs/61b/lec/09) java stack, stack frame, and heap
 * [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/)
@@ -547,7 +547,7 @@ Linux
   * 상황; 이미 실행하고 있는 tmux server가 있고, .tmux.conf에 있는 설정을 사용하고 싶지 않을 때
   * 해결; tmux command에 -f option이 있지만, 이 option은 새로 server를 시작할 때만 동작하므로, 위와 같이 새로 server를 시작하고 attach 해야 함
 * [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
-* [Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org/en/latest/](https://github.com/powerline/powerline)
+* [Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)

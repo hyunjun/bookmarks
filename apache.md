@@ -295,7 +295,7 @@ Apache
 * [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
   * Kafka consumer offset을 간단하게 모니터링하는 방법
   * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
-* [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io/](https://github.com/aio-libs/aiokafka)
+* [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
   * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
 * KSQL
@@ -389,7 +389,7 @@ Apache
   2. KafkaSpout에서 생성된 stream이 storm의 Bolt로 들어올 때 어떻게 디버깅이 가능한 지 => 원격 디버깅은 없고 -Dstorm.log.dir를 통한 로그파일로 디버깅한다.
   3. bolt로 넘어온 중복된 stream을 어떻게 unique한 데이터로 처리 가능한 지 => unique한 데이터 처리를 위해서 trident를 사용하며, trident는 storm의 구현을 지원하는 (aggregation 등) 역할을 한다. -> esper로 group by 등의 쿼리문을 만들 수 있는데 trident와 역할 충돌이 있지 않을까 싶지만, trident를 통해 unique한 데이터를 받아 esper로 쿼리문을 돌릴 수 있지 않을까 싶다.
   4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
-* [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner/](https://github.com/datamountaineer/stream-reactor)
+* [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner ](https://github.com/datamountaineer/stream-reactor)
 * [Distributed, Real-time Joins and Aggregations on User Activity Events using Kafka Streams](http://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams)
 * [Tweeter: Processing Tweets with Kafka Streams](https://www.madewithtea.com/processing-tweets-with-kafka-streams.html)
 * [내부 데이터 파이프라인에 Kafka Streams 적용하기](https://engineering.linecorp.com/ko/blog/detail/80)
@@ -433,7 +433,7 @@ Apache
 * [Using Kafka Streams API for predictive budgeting](https://medium.com/@Pinterest_Engineering/using-kafka-streams-api-for-predictive-budgeting-9f58d206c996)
 * [lenses - a Streaming Data Management Platform for Apache Kafka](http://www.landoop.com/kafka-lenses/)
   * [How to explore data in Kafka topics with Lenses - part 1](http://www.landoop.com/blog/2017/11/lenses-how-to-view-kafka-topics-data/)
-  * [stream-reactor - Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more http://www.landoop.com/kafka/connectors/](https://github.com/Landoop/stream-reactor)
+  * [stream-reactor - Streaming reference architecture for ETL with Kafka and Kafka-Connect. You can find more on http://landoop.com on how we provide a unified solution to manage your connectors, most advanced SQL engine for Kafka and Kafka Streams, cluster monitoring and alerting, and more http://www.landoop.com/kafka/connectors ](https://github.com/Landoop/stream-reactor)
 * [Kafka & Redis Streams](https://medium.com/@timothy_downs/introduction-to-redis-streams-133f1c375cd3)
 * [Enabling Exactly-Once in Kafka Streams](https://www.confluent.io/blog/enabling-exactly-kafka-streams/)
 * [Migrating Batch ETL to Stream Processing: A Netflix Case Study with Kafka and Flink](https://www.infoq.com/articles/netflix-migrating-stream-processing)
@@ -560,7 +560,7 @@ Apache
 * [3 Steps for Bulk Loading 1M Records in 20 Seconds Into Apache Phoenix](https://medium.com/hashmapinc/3-steps-for-bulk-loading-1m-records-in-20-seconds-into-apache-phoenix-99b77ad87387) Apache Spark를 사용하여 Apache HBase 및 Apache Phoenix와 호환하는 HFile을 생성하는 방법 설명
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
-* [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io/](https://github.com/apache/incubator-predictionio)
+* [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io ](https://github.com/apache/incubator-predictionio)
 
 # Pulsar
 * Geo-replication in Apache Pulsar

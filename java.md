@@ -89,7 +89,7 @@ Java
 * [오버로딩(Overloading) / 오버라이딩(Overriding)](http://bbigbros.tistory.com/entry/%EC%9E%90%EB%B0%94JAVA-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
 * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 * [Enum값의 사용](http://developer88.tistory.com/148)
-* [Java enum..](https://medium.com/@jooyunghan/java-enum-9a5c53e4cd15)
+* [Java enum](https://medium.com/@jooyunghan/java-enum-9a5c53e4cd15)
 * [악취나는 코드 개선하기 시리즈 - 값의 가변성 (Mutation)](http://jojoldu.tistory.com/225)
 * [DAO vs DTO(=VO) 개념 알아보기](https://jungwoon.github.io/common%20sense/2017/11/16/DAO-VO-DTO/)
 * [웹 서버 프로그래밍 시에 주의하면 좋은 점들](http://astrod.github.io/2018/02/12/12.html)
@@ -97,7 +97,7 @@ Java
   * final const, volatile synchronized, transient
 * [Java Closure의 non-local variable이 final이어야 하는것에 대한 토론이 이뤄진 현장](https://www.facebook.com/notes/kevin-lee/%EA%B3%BC%EA%B1%B0-java-closure%EC%9D%98-non-local-variable%EC%9D%B4-final%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%9C-%ED%86%A0%EB%A1%A0%EC%9D%B4-%EC%9D%B4%EB%A4%84%EC%A7%84-%ED%98%84%EC%9E%A5/517870281888767/)
 * [패스트캠퍼스 자바 웹 프로그래밍 CAMP 정리](http://jojoldu.tistory.com/301)
-* [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리...](http://ukja.tistory.com/61)
+* [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
 
 # API
@@ -480,7 +480,7 @@ Java
   * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
-  * [Config Server에 관하여 알아봅시다.](http://blog.leekyoungil.com/?p=352)
+  * [Config Server에 관하여 알아봅시다](http://blog.leekyoungil.com/?p=352)
   * [blog.woniper.net/category/Spring](http://blog.woniper.net/category/Spring)
     * [Booting Spring Data REST](https://www.slideshare.net/ssusere4d67c/booting-spring-data-rest)
     * [Spring Data Rest 예제](https://github.com/woniper/todolist-spring-data-rest)
