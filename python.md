@@ -1009,6 +1009,7 @@ Python
   * [James Kirk Cropcho - Asynchronous Python A Gentle Introduction](https://www.youtube.com/watch?v=e4mP4Prf0gc)
     * [Asynchronous Python A Gentle Introduction](https://www.slideshare.net/PyData/asynchronous-python-a-gentle-introduction)
   * [Hrafn Eiriksson - Asyncio in production](https://www.youtube.com/watch?v=zM3cMTcmmk0) asyncio migration에 대한 실용적인 안내
+  * [Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)

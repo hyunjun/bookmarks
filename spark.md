@@ -17,7 +17,9 @@
 * [Apache Spark Tutorial 2018 | Spark Tutorial | Spark Tutorial for Beginners | Apache Spark Training](https://www.youtube.com/watch?v=X4R8GweypwQ)
 * [Spark Internals](https://github.com/JerryLead/SparkInternals)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
-* [Spark Internal Part 1. RDD의 내부 동작](https://medium.com/@leeyh0216/spark-internal-part-1-rdd%EC%9D%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-d50eb7a235e6)
+* Spark Internal
+  * [Part 1. RDD의 내부 동작](https://medium.com/@leeyh0216/spark-internal-part-1-rdd%EC%9D%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-d50eb7a235e6)
+  * **[Part 2. Spark의 메모리 관리(1)](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1-c18e39af942e)**
 * [pubdata.tistory.com/category/Lecture_SPARK](http://pubdata.tistory.com/category/Lecture_SPARK)
 * [Apache Spark - Executive Summary](https://www.linkedin.com/pulse/apache-spark-executive-summary-alan-brown)
 * [Teach yourself Apache Spark – Guide for nerds!](https://www.linkedin.com/pulse/teach-yourself-apache-spark-guide-nerds-shrinath-parikh)

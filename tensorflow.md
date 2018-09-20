@@ -425,6 +425,7 @@ TensorFlow
 * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
 * [Get started with TensorFlow on law and statistics](https://medium.freecodecamp.org/tensorflow-starter-on-law-and-statistics-646072b93b5a)
 * [9 Things You Should Know About TensorFlow](https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995)
+* [Implementing T-SNE in Tensorflow Manual Back Prop in TF](https://towardsdatascience.com/implementing-t-sne-in-tensorflow-manual-back-prop-in-tf-b08c21ee8e06)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
