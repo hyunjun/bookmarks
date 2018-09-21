@@ -261,6 +261,7 @@ Math
   * 수학 코드의 주요 개념을 python julia등의 코드로 설명
 * [Tangent: Source-to-Source Debuggable Derivatives](https://research.googleblog.com/2017/11/tangent-source-to-source-debuggable.html)
 * [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)
+* [Pi-thon: Teaching Maths with Python!](https://www.youtube.com/watch?v=w18LxSnQ4A4)
 
 # Set
 * [Set Theory and Foundations of Mathematics](http://www.settheory.net/)

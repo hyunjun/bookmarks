@@ -1010,6 +1010,7 @@ Python
     * [Asynchronous Python A Gentle Introduction](https://www.slideshare.net/PyData/asynchronous-python-a-gentle-introduction)
   * [Hrafn Eiriksson - Asyncio in production](https://www.youtube.com/watch?v=zM3cMTcmmk0) asyncio migration에 대한 실용적인 안내
   * [Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
+  * [Asyncio, websockets, and BTC sitting in a tree - Giovanni Lanzani](https://www.youtube.com/watch?v=AcZJUQ3y2ek)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -2253,6 +2254,7 @@ Python
   * [셀레니움 브라우저 자동화 - 네이버 쪽지 쓰기](http://nbviewer.jupyter.org/gist/FinanceData/e1f010fba64a939269654389ba27db39)
   * [Send Naver note without Selenium](https://gist.github.com/june9713/6bc47cf38cba01793ea9d61cb5ba09e8)
   * [Selenium Webdriver가 백그라운드에서 자동으로 브라우저 윈도우를 열 수 있습니까?](https://code.i-harness.com/ko/q/f6e4cc)
+  * [linux(centOS)에서 selenium 설정하기 (feat. python)](https://taetaetae.github.io/2018/02/01/linux-selenium/)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)

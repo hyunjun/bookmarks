@@ -350,6 +350,7 @@ Vision
   * [Part 1, Vanilla Auto Encoder Model](https://towardsdatascience.com/only-numpy-medical-denosing-lung-ct-scans-using-auto-encoders-with-interactive-code-part-1-a6c3f9400246)
   * [Part 2, Convolutional Neural Network (Low-dose CT denoising with convolutional neural network)](https://towardsdatascience.com/only-numpy-medical-denosing-lung-ct-scans-using-neural-networks-with-interactive-code-part-2-6def73cabba5)
 * [Intro to Analyzing Brain Imaging Data— Part I: fMRI Data Structure](https://medium.com/coinmonks/visualizing-brain-imaging-data-fmri-with-python-e1d0358d9dba)
+* [Python for Computer Vision - Revision 2nd Edition](https://www.slideshare.net/AhmedGadFCIT/python-for-computer-vision-revision-2nd-edition)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)

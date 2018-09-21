@@ -17,6 +17,7 @@ Statistics
 * [Kernel Density Estimation(커널밀도추정)에 대한 이해](http://darkpgmr.tistory.com/147)
 * [The Price is Right Again](http://www.amstat.org/publications/jse/v20n2/burks.pdf)
 * [Naive Bayesian, HMM, Maximum Entropy Model, CRF](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Naive-Bayesian,-HMM,-Maximum-Entropy-Model,-CRF)
+* [Maximum Likelihood and Maximum Entropy](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Maximum-Likelihood-and-Maximum-Entropy)
 * [손실함수 Binary Cross Entropy](https://curt-park.github.io/2018-09-19/loss-cross-entropy/)
 * [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
 * [bcho.tistory.com/category/빅데이타/통계학이론](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%ED%86%B5%EA%B3%84%ED%95%99%20%EC%9D%B4%EB%A1%A0)

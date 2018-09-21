@@ -130,6 +130,8 @@ SQL
     * `set global max_allowed_packet=64*1024*1024;` to set (with privileged account such as root)
     * `~/.my.cnf`나 `/etc/my.cnf`등 여러 개의 cnf file이 있을 수 있으니 적절한 file에서 수정 후 mysql을 재시작(e.g. `service mysql restart`)하는 방식으로 해야 할 수도 있음
     * python code with MySQLdb or mysqlclient; `cursor.execute('SET GLOBAL max_allowed_packet=67108864', ())` root 권한이 필요해서 안될 듯
+  * [FULLTEXT 인덱스와 일반 인덱스 성능 차이](http://ohgyun.com/766)
+  * [max_execution_time 설정하기](http://ohgyun.com/767)
 * [DATABASE2 - MySQL](https://opentutorials.org/course/3161)
 * [Node.js - MySQL](https://opentutorials.org/course/3347)
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)

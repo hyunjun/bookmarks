@@ -25,7 +25,7 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
-* [30 Day Vanilla JS Coding Challenge](https://javascript30.com/)
+* **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
@@ -660,6 +660,7 @@ Javascript
   * [Electron의 진화](https://blog.sn0wle0pard.io/2017/evolution-of-electron/)
   * [Native Desktop Apps with Angular and Electron](https://www.youtube.com/watch?v=u_vMChpZMCk)
   * [Building Real World Desktop Apps with Electron](https://www.youtube.com/watch?v=iVdXOrtdHvA)
+  * [Windows 95 in Electron. Runs on macOS, Linux, and Windows](https://github.com/felixrieseberg/windows95)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -1359,9 +1360,7 @@ Javascript
 * [Conditional Rendering in React using Ternaries and Logical AND](https://medium.freecodecamp.org/conditional-rendering-in-react-using-ternaries-and-logical-and-7807f53b6935)
 * [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 * [How I Cut My React Javascript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
-* [After building my first React Native app, I’m now convinced it’s the future](https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8)
 * [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
-* [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
 * [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a)
 * [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 * [Infinite scroll techniques in React](https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd)
@@ -1376,7 +1375,6 @@ Javascript
 * [create-react-app --scripts-version=react-scripts-ts를 이용하여 프로젝트 구성](https://github.com/kjk7034/create-react-app-typescript)
 * [Presentational and Container Components](https://medium.com/@seungha_kim_IT/presentational-and-container-components-%EB%B2%88%EC%97%AD-1b1fb2e36afb)
 * [ReactEurope 2018](https://devwaf.blogspot.com/2018/06/reacteurope-2018.html)
-* [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 * [Debounce SyntheticEvent](https://hyunseob.github.io/2018/06/24/debounce-react-synthetic-event/)
 * [번역 깊이 있는 리액트 개발 환경 구축하기](https://sujinlee.me/webpack-react-tutorial/)
 * [react-lifecycle-methods-diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
@@ -1404,6 +1402,7 @@ Javascript
 * [리액트 네이티브 튜토리얼](https://realhanbit.co.kr/books/30/pages/338/preview)
 * [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac)
 * [Lession 1: Introduction React Native | React Native Tutorial](https://www.youtube.com/watch?v=NgTrff9bHIc)
+* [Awesome React Native UI Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 * [Why React Native is Different](http://jlongster.com/Why-React-Native-is-Different)
 * [How Facebook’s React Native Will Change Mobile Apps](http://techcrunch.com/2015/04/20/how-facebooks-react-native-will-change-mobile-apps/)
 * [안녕 React Native](http://dalinaum.github.io/react/ios/2015/03/27/hello-react-native.html)
@@ -1444,6 +1443,9 @@ Javascript
 * [Building a Mobile App in 10 Days with React Native](https://medium.com/@austinhale/building-a-mobile-app-in-10-days-with-react-native-c2a7a524c6b4)
 * [리액트네이티브에서 타입스크립트 사용하기(2018)](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%EC%97%90%EC%84%9C-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-2018-2ea78fe8f553)
 * [11 React Native Component Libraries You Should Know in 2018](https://blog.bitsrc.io/11-react-native-component-libraries-you-should-know-in-2018-71d2a8e33312)
+* [After building my first React Native app, I’m now convinced it’s the future](https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8)
+* [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
+* [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)

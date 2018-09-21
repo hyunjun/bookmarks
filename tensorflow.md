@@ -426,6 +426,8 @@ TensorFlow
 * [Get started with TensorFlow on law and statistics](https://medium.freecodecamp.org/tensorflow-starter-on-law-and-statistics-646072b93b5a)
 * [9 Things You Should Know About TensorFlow](https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995)
 * [Implementing T-SNE in Tensorflow Manual Back Prop in TF](https://towardsdatascience.com/implementing-t-sne-in-tensorflow-manual-back-prop-in-tf-b08c21ee8e06)
+* [Mixture Density Network](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-MDN.ipynb) ipynb
+* [Density modeling with TensorFlow](https://github.com/sjchoi86/density_network/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

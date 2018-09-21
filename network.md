@@ -51,6 +51,7 @@ Network
   * [HTTP codes as Valentine’s Day comics](https://medium.com/@hanilim/http-codes-as-valentines-day-comics-8c03c805faa0)
   * [HTTP란 무엇인가](https://www.zerocho.com/category/HTTP/post/5b344f3af94472001b17f2da)
   * [WEB2 - HTTP](https://opentutorials.org/course/3385)
+  * **[HOW HTTPS WORKS](https://howhttps.works/)**
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
   * [HTTPS는 HTTP보다 빠르다](https://b.ssut.me/https-is-faster-than-http/)
