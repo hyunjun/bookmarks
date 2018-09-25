@@ -100,6 +100,7 @@ Deep Learning
 * [Andrew Ng: Why ‘Deep Learning’ Is a Mandate for Humans, Not Just Machines](http://www.wired.com/2015/05/andrew-ng-deep-learning-mandate-humans-not-just-machines/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [The tensor renaissance in data science](http://radar.oreilly.com/2015/05/the-tensor-renaissance-in-data-science.html)
+* [Tensor Explained](https://www.slideshare.net/seonghunchoe7/tensor-explained)
 * [The Paradox of Deeper Learning: The Unlearning Curve](http://blogs.edweek.org/edweek/learning_deeply/2015/04/the_paradox_of_deeper_learning_the_unlearning_curve.html)
 * [Are there Deep Reasons Underlying the Pathologies of Today’s Deep Learning Algorithms?](http://goertzel.org/DeepLearning_v1.pdf)
 * [집단지성프로그래밍 05. 최적화(optimization) 김지은_20150522](http://www.slideshare.net/yeswldms/05-optimization-20150522)
@@ -654,6 +655,8 @@ Deep Learning
 * [Deep Learning for AI (2)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-2)
 * [Deep Learning for AI (3)](https://www.slideshare.net/ssuser421e61/deep-learning-for-ai-3)
 * [Montréal.AI Academy : AI 101](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
+* [지도/비지도학습과 강화학습 풀이법](https://tykimos.github.io/2018/09/22/LearningMethod/)
+* [Graph Attention Networks](http://petar-v.com/GAT/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1343,6 +1346,9 @@ Deep Learning
 * [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
 * [RNN and its applications](https://www.slideshare.net/samchoi7/rnnerica)
 * [How to Use the TimeDistributed Layer for Long Short-Term Memory Networks in Python](https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/)
+* Exploring LSTMs: Understanding Basics
+	* [Part One](https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning)
+	* [Part Two](https://www.topbots.com/exploring-lstm-tutorial-part-2-recurrent-neural-network-deep-learning)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1940,6 +1946,8 @@ CVPR2016)
   * [blog](https://wonseokjung.github.io/reinforcementlearning/update/FasterRLviatransfer/)
   * [slide](https://speakerdeck.com/wonseokjung/faster-reinforcement-learning-via-transfer)
   * [youtube](https://www.youtube.com/watch?v=zt06BkGbCb8)
+* **[Deep Reinforcement Learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course/)**
+* [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

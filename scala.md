@@ -66,7 +66,6 @@ Scala
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [Transform your State \/ Err - A concrete example of parser combinators, state monad and monad transformers in Scala, using scala-parser-combinators and scalaz](http://www.slideshare.net/gerferra/transform-your-state-or-err)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
-* [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 * [scala.bythebay.io](http://scala.bythebay.io/)
   * [Scala meetup dick wall](https://www.youtube.com/watch?v=-psE66Ds7Lk)
@@ -372,6 +371,11 @@ Scala
 * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
 * test
   * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
+	* [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
+  * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
+  * [ScalaTest](http://www.scalatest.org/)
+    * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
+    * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
 * underscore
@@ -444,8 +448,6 @@ Scala
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
-* [ScalaTest](http://www.scalatest.org/)
-  * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
 * [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
 * [scalding](https://github.com/twitter/scalding)
   * [Scalding: Scala로 하는 Big Data Processing](http://readme.skplanet.com/?p=10170)

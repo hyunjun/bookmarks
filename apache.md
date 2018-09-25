@@ -540,6 +540,7 @@ Apache
 * [Sorting and Parquet](https://medium.com/@pankajroark/sorting-and-parquet-3a382893cde5)
   * Apache Parquet로 직렬화하기 전에 데이터를 정렬하면 쿼리 성능이 크게 달라질 수 있음
   * 이 글에서는 그 이유를 설명하고 정렬할 column을 파악하는 방법에 대한 아이디어 제공
+* **[Parquet Internal Part 1. Google Dremel(1)](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)**
 
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)

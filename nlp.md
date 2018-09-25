@@ -1035,6 +1035,7 @@ NLP
   * [Word2Vec Resources](http://mccormickml.com/2016/04/27/word2vec-resources/)
 * [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+  * [Bag of Words Meets Bags of Popcorn](https://github.com/corazzon/KaggleStruggle/blob/master/word2vec-nlp-tutorial/tutorial-part-1.ipynb)
 * [Vector Representations of Words](https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html)
   * [단어의 벡터 표현 (Vector Representations of Words)](https://codeonweb.com/entry/dcc9ef10-5d8f-47c4-bd6e-27878a9a8b62)
 * [브런치 작가 추천과 Word2Vec](https://brunch.co.kr/@goodvc78/7)

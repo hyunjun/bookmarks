@@ -105,6 +105,7 @@ PyTorch
 * [Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
 * [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
 * [pytorch-EverybodyDanceNow](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
+* [PyTorch NEAT](https://github.com/uber-research/PyTorch-NEAT/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

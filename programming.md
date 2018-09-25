@@ -437,6 +437,7 @@ Programming
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
 
 # Build Compile
+* [Memory Map과 Symbol 이야기](http://recipes.egloos.com/5009181)
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)

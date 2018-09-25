@@ -118,7 +118,6 @@ Python
 * [Zen of python poster](https://github.com/ewjoachim/zen-of-python)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
-* [python testing](http://pythontesting.net/)
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
 * [Follow the Money with Python](http://automatingosint.com/blog/2015/09/follow-the-money-with-python/)
@@ -890,28 +889,6 @@ Python
   * [Common Mistakes as Python Web Developer](http://lucumr.pocoo.org/2010/12/24/common-mistakes-as-web-developer/)
 * unicodedata
   * [`category` values](http://www.unicode.org/reports/tr44/tr44-4.html#Property_Values)
-* unittest
-  * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
-  * [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
-    * [Python-Unit-Testing](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Unit-Testing)
-  * [Mock Everything](https://www.hacksoft.io/blog/mock-everything/)
-  * [Python Mock Cookbook](https://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html)
-  * [Python Mock Gotchas](http://alexmarandon.com/articles/python_mock_gotchas/)
-  * [Python Mocking 101: Fake It Before You Make It](https://blog.fugue.co/2016-02-11-python-mocking-101.html)
-  * [Using the Python mock library to fake regular functions during tests](https://fgimian.github.io/blog/2014/04/10/using-the-python-mock-library-to-fake-regular-functions-during-tests/)
-  * [Mocking Python With Kung Fu Panda](http://manishamde.github.io/blog/2013/10/06/mocking-python-with-kung-fu-panda/)
-  * [Python Mocking, You Are A Tricksy Beast](https://medium.com/python-pandemonium/python-mocking-you-are-a-tricksy-beast-6c4a1f8d19b2)
-  * [Mocking Objects in Python](https://www.relaxdiego.com/2014/04/mocking-objects-in-python.html)
-  * [Mocking private methods in python](https://gist.github.com/santiagobasulto/3056999)
-  * [Mocking complicated `__init__` in Python](https://medium.com/@george.shuklin/mocking-complicated-init-in-python-6ef9850dd202)
-  * [Assigning instance variables in function called by `__init__` vs. function called from `__init__`](https://softwareengineering.stackexchange.com/questions/340383/assigning-instance-variables-in-function-called-by-init-vs-function-called)
-  * [Another approach to mocking properties in Python](https://dzone.com/articles/another-approach-mocking)
-  * [Another approach to mocking properties](http://www.voidspace.org.uk/python/weblog/arch_d7_2011_06_04.shtml)
-  * [How in the world do you Mock a name attribute?](https://bradmontgomery.net/blog/how-world-do-you-mock-name-attribute/)
-  * [How to Mock a name attribute?](http://blog.tunarob.com/2017/04/27/mock-name-attribute)
-  * [Allow doubling a particular instance method on all instances of a class](https://github.com/uber/doubles/issues/90)
-  * [Today I Learned: 파이썬 단위 테스트 모듈, unittest](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AA%A8%EB%93%88-unittest/)
 * urllib
   * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
   * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
@@ -1433,6 +1410,7 @@ Python
 * [GraphQL in the Python World](http://nafiulis.me/graphql-in-the-python-world.html)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 * [GraphQL in Python and Django](https://www.youtube.com/watch?v=vnlPU0HgSbQ)
+* [Awesome-GraphQL](https://github.com/devArtoria/Awesome-GraphQL) GraphQL server with Flask + Graphene
 
 # GUI
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
@@ -1981,9 +1959,6 @@ Python
   * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
-* nosetests
-  * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
-  * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
 * [Numba](http://numba.pydata.org/)
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
   * [numba - 성능 업!](http://pythonkim.tistory.com/95)
@@ -2134,28 +2109,6 @@ Python
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)
   * [Pyston 0.6.1 released, and future plans](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
-* [pytest: helps you write better programs](http://docs.pytest.org/)
-  * installaion; anaconda에서 `pip install -U pytest`로 오류가 발생하면 `conda update pytest` 이용
-
-    ```
-    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] pip install -U pytest
-    ...
-    Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth
-    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] conda update pytest
-    ```
-  * [practice of pytest](https://github.com/hyunjun/practice/tree/master/python/test-pytest)
-  * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
-  * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
-  * [How I test my code: motivation and strategy (part 1)](http://www.robinandeer.com/blog/2016/06/18/how-i-test-my-code-part-1/)
-  * [How I test my code: pytest and fixtures (part 2)](http://www.robinandeer.com/blog/2016/06/21/how-i-test-my-code-part-2/)
-  * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)
-  * [pytest-dbfixtures](http://pythonhosted.org/pytest-dbfixtures/)
-  * [pytest-env](https://github.com/MobileDynasty/pytest-env)
-  * [파이썬에서 편하게 테스트 케이스 작성하기: pytest, Travis CI, Docker](https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker)
-  * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
-  * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
-* [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
-* [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [Python Wheels](http://pythonwheels.com/)
 * [Pythran](https://pythonhosted.org/pythran/index.html)
@@ -2286,7 +2239,6 @@ Python
   * [10분만에 익히는 supervisor 설치와 사용법](https://jwkcp.github.io/2016/11/07/how-to-use-supervisor-in-one-minute/)
   * [Supervisor 를 이용한 서비스 동작 및 모니터링](http://mcchae.egloos.com/11187173) ubuntu
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
-* [Tabletests](http://horia141.com/tabletests.html)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
   * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Template Engine](http://aosabook.org/en/500L/a-template-engine.html)
@@ -2317,7 +2269,6 @@ Python
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * **[Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp](https://github.com/Yelp/undebt)**
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
-* [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [Urwid - Console user interface library for Python](http://urwid.org/)
 * [uvicorn - The lightning-fast asyncio server, for Python 3. :unicorn: http://www.uvicorn.org ](https://github.com/encode/uvicorn)
 * **[uvloop is a fast, drop-in replacement of the built-in asyncio event loop](https://github.com/MagicStack/uvloop)**
@@ -2325,7 +2276,6 @@ Python
   * [High performance networking in Python (Yury Selivanov)](https://www.youtube.com/watch?v=WSq0S7UvI8E)
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
-* [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
@@ -2757,6 +2707,58 @@ Python
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
 * [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
 * [Automated Tests in Python](https://powerfulpython.com/blog/automated-tests-types-for-python/)
+* [python testing](http://pythontesting.net/)
+* [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
+* nosetests
+  * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
+  * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
+* [pytest: helps you write better programs](http://docs.pytest.org/)
+  * installaion; anaconda에서 `pip install -U pytest`로 오류가 발생하면 `conda update pytest` 이용
+
+    ```
+    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] pip install -U pytest
+    ...
+    Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth
+    $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] conda update pytest
+    ```
+  * [practice of pytest](https://github.com/hyunjun/practice/tree/master/python/test-pytest)
+  * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
+  * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
+  * [How I test my code: motivation and strategy (part 1)](http://www.robinandeer.com/blog/2016/06/18/how-i-test-my-code-part-1/)
+  * [How I test my code: pytest and fixtures (part 2)](http://www.robinandeer.com/blog/2016/06/21/how-i-test-my-code-part-2/)
+  * [PY.TEST ADVANCED USAGE](http://asvetlov.github.io/pytest-lviv/)
+  * [pytest-dbfixtures](http://pythonhosted.org/pytest-dbfixtures/)
+  * [pytest-env](https://github.com/MobileDynasty/pytest-env)
+  * [파이썬에서 편하게 테스트 케이스 작성하기: pytest, Travis CI, Docker](https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker)
+  * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
+  * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
+* [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
+* [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
+* [Tabletests](http://horia141.com/tabletests.html)
+* unittest
+  * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
+  * [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
+    * [Python-Unit-Testing](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Unit-Testing)
+  * [Mock Everything](https://www.hacksoft.io/blog/mock-everything/)
+  * [Python Mock Cookbook](https://chase-seibert.github.io/blog/2015/06/25/python-mocking-cookbook.html)
+  * [Python Mock Gotchas](http://alexmarandon.com/articles/python_mock_gotchas/)
+  * [Python Mocking 101: Fake It Before You Make It](https://blog.fugue.co/2016-02-11-python-mocking-101.html)
+  * [Using the Python mock library to fake regular functions during tests](https://fgimian.github.io/blog/2014/04/10/using-the-python-mock-library-to-fake-regular-functions-during-tests/)
+  * [Mocking Python With Kung Fu Panda](http://manishamde.github.io/blog/2013/10/06/mocking-python-with-kung-fu-panda/)
+  * [Python Mocking, You Are A Tricksy Beast](https://medium.com/python-pandemonium/python-mocking-you-are-a-tricksy-beast-6c4a1f8d19b2)
+  * [Mocking Objects in Python](https://www.relaxdiego.com/2014/04/mocking-objects-in-python.html)
+  * [Mocking private methods in python](https://gist.github.com/santiagobasulto/3056999)
+  * [Mocking complicated `__init__` in Python](https://medium.com/@george.shuklin/mocking-complicated-init-in-python-6ef9850dd202)
+  * [Assigning instance variables in function called by `__init__` vs. function called from `__init__`](https://softwareengineering.stackexchange.com/questions/340383/assigning-instance-variables-in-function-called-by-init-vs-function-called)
+  * [Another approach to mocking properties in Python](https://dzone.com/articles/another-approach-mocking)
+  * [Another approach to mocking properties](http://www.voidspace.org.uk/python/weblog/arch_d7_2011_06_04.shtml)
+  * [How in the world do you Mock a name attribute?](https://bradmontgomery.net/blog/how-world-do-you-mock-name-attribute/)
+  * [How to Mock a name attribute?](http://blog.tunarob.com/2017/04/27/mock-name-attribute)
+  * [Allow doubling a particular instance method on all instances of a class](https://github.com/uber/doubles/issues/90)
+  * [Today I Learned: 파이썬 단위 테스트 모듈, unittest](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AA%A8%EB%93%88-unittest/)
+* [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
+* [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 
 # Type
 * [Learn How to Use Static Type Checking in Python 3.6 in 10 minutes](https://medium.com/@ageitgey/learn-how-to-use-static-type-checking-in-python-3-6-in-10-minutes-12c86d72677b)

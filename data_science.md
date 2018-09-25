@@ -59,6 +59,7 @@ Data Science
 * [데이터과학 자료모음](http://www.lifidea.org/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B3%BC%ED%95%99-%EC%9E%90%EB%A3%8C%EB%AA%A8%EC%9D%8C/)
 * [A curated list of data science blogs](https://github.com/rushter/data-science-blogs)
 * [Data Science Courses](https://www.youtube.com/channel/UCKJNzy_GuvX3SAg3ipaGa8A)
+* [Faster Data Science Education](https://www.kaggle.com/learn/overview) Kaggle
 * [Pascal Poupart's Homepage](https://cs.uwaterloo.ca/~ppoupart/teaching/cs486-spring15/)
 * [dataquest.io](https://dataquest.io/)
 * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists)
@@ -257,6 +258,8 @@ Data Science
 * [10 Modern Data Trends](https://www.youtube.com/watch?v=PPrvwiSKUmc)
 * [Test-Driven Data Analysis - Nick Radcliffe](https://www.youtube.com/watch?v=fw6P6VFPo24)
 * [Data Science for Startups: R -> Python](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c)
+* [데이터 사이언스(Data Science) 프로세스 정리](http://hero4earth.com/blog/learning/2018/01/27/data_science_process/)
+* [데이터 저널리즘, 오픈 데이터를 넘어 코드 공개로](http://commonslab.cc/53/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EB%84%90%EB%A6%AC%EC%A6%98-%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%84%98%EC%96%B4-%EC%BD%94%EB%93%9C-%EA%B3%B5%EA%B0%9C%EB%A1%9C)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

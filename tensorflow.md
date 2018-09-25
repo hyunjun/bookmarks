@@ -428,6 +428,7 @@ TensorFlow
 * [Implementing T-SNE in Tensorflow Manual Back Prop in TF](https://towardsdatascience.com/implementing-t-sne-in-tensorflow-manual-back-prop-in-tf-b08c21ee8e06)
 * [Mixture Density Network](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-MDN.ipynb) ipynb
 * [Density modeling with TensorFlow](https://github.com/sjchoi86/density_network/)
+* [Introducing TensorFlow Data Validation: Data Understanding, Validation, and Monitoring At Scale](https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0?linkId=56682628)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
