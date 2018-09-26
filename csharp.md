@@ -45,6 +45,7 @@ C#
 # Library
 * Blazor
   * [Blazor와 C#으로 풀스택 웹 개발하기](https://medium.com/@rkttu/blazor%EC%99%80-c-%EC%9C%BC%EB%A1%9C-%ED%92%80%EC%8A%A4%ED%83%9D-%EC%9B%B9-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3cda61c2217)
+  * [Blazor와 React의 조합 — JavaScript Interop](https://medium.com/rkttu/blazor%EC%99%80-react%EC%9D%98-%EC%A1%B0%ED%95%A9-javascript-interop-a2599bcd6563)
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
 * [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)

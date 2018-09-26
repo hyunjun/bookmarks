@@ -2651,6 +2651,7 @@ Python
 * [파이썬 3에 뛰어들기](https://blog.outsider.ne.kr/1296)
 * [Zero to Hero with Python Tutorial FULL- Easy Learning python 3.4 from begin to advance (Compact)](https://www.youtube.com/watch?v=emY34tSKXc4)
 * [Python 3 in Science: the great migration has begun!](http://astrofrog.github.io/blog/2015/05/09/2015-survey-results/)
+* [How we rolled out one of the largest Python 3 migrations ever](https://blogs.dropbox.com/tech/2018/09/how-we-rolled-out-one-of-the-largest-python-3-migrations-ever/)
 * [Python의 미래, Python 3로 넘어가기](http://b.ssut.me/64)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)

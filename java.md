@@ -313,6 +313,7 @@ Java
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 * [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
+* [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
 * [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)

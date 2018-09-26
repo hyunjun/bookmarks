@@ -1469,6 +1469,9 @@ Javascript
   * [MobX with React](https://hyunseob.github.io/2017/10/18/mobx-with-react/)
   * [왜 내가 Redux 대신 MobX를 쓰게 되었나](https://rokt33r.github.io/devnotes/2018/03/05/why-i-replace-redux-with-mobx/)
   * [@TypingInsta](https://github.com/edoko/typinginsta)
+  * [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velog.io/@velopert/redux-or-mobx)
+    * [리덕스 예시코드](https://codesandbox.io/s/96m70mj6p)
+    * [MobX 예시코드](https://codesandbox.io/s/yv4w13q2q9)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * Next.js
