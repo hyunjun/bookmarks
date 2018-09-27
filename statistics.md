@@ -328,6 +328,7 @@ Statistics
   * [Torsten Scholak, Diego Maniloff Intro to Bayesian Machine Learning with PyMC3 and Edward](https://www.youtube.com/watch?v=fR5Wvb86-IU)
   * [Christopher Fonnesbeck Probabilistic Programming with PyMC3 PyCon 2017](https://www.youtube.com/watch?v=5TyvJ6jXHYE)
   * [Markov Chain Monte Carlo in Python - A Complete Real-World Implementation](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
+  * [Probabilistic Programming: A Modern Bayesian Workflow || Peadar Coyle](https://www.youtube.com/watch?v=7QlKZKbQa6M)
 * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [pomegranate is a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)

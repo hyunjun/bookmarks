@@ -12,10 +12,13 @@ Sports
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)
+* [baseball reference](https://www.baseball-reference.com/)
 * [baseball savant](https://baseballsavant.mlb.com/)
 * [bizballproject.com](http://bizballproject.com/)
+* [fangraphs.com](https://www.fangraphs.com/)
 * [kbreport.com](http://www.kbreport.com/)
 * [mlbnation.co.kr](http://mlbnation.co.kr/)
+* [retrosheet.org](https://www.retrosheet.org/) play by play data
 * [statiz](http://www.statiz.co.kr/)
 * [야구공작소](http://www.yagongso.com/)
 * [한국야구학회](https://koreabaseballstudies.wordpress.com/)

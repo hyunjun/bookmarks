@@ -1442,6 +1442,7 @@ Python
   * [PyCon2018 PyQt로 만드는 웹 기반 어플리케이션 만들기](https://www.slideshare.net/ravenkyu/py-con2018-pyqt)
   * [Qt 입문자 및 Qt for Python을 위한 작은 소개](https://www.popit.kr/qt-%EC%9E%85%EB%AC%B8%EC%9E%90-%EB%B0%8F-qt-for-python%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9E%91%EC%9D%80-%EC%86%8C%EA%B0%9C/)
   * [헬로우 큐트 포 파이썬 (Hello Qt for Python)](https://www.popit.kr/%ED%97%AC%EB%A1%9C%EC%9A%B0-%ED%81%90%ED%8A%B8-%ED%8F%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-hello-qt-for-python/)
+  * [make-a-story](https://github.com/dailyInsight6/make-a-story)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter

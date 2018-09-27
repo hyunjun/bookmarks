@@ -82,6 +82,11 @@ Artificial Intelligence
 * [My take on Google AI Interview Question with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-google-ai-interview-question-with-interactive-code-part-1-db2e33a26f10)
 * [삼성 AI 포럼 - 2일차 리뷰](http://hyunjong-lee.github.io/review/2018/09/13/samsung_ai_forum_2nd_day.html)
 * [POSCO AI Chanllenge 과제 참여 연구노트](https://lovetoken.github.io/machinelearning/2018/09/19/posco_ai.html)
+* [Guide to Your Own AI App in 3 Easy Steps](https://www.youtube.com/watch?v=8hQBHZacVdw)
+  * [pyconau-2018-shades](https://github.com/norahsakal/pyconau-2018-shades)
+  * idea; 매일 화장을 하기 때문에(발표자가 여자)
+  * data; 눈썹 모양 데이터를 유명인 사진에서 수작업으로 만들어
+  * train; transfer learning으로 훈련, 매우 작은 데이터넷(800 images)과 50줄의 코드로 99%
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

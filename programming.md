@@ -333,6 +333,7 @@ Programming
     * [Part 3](https://developer.akamai.com/blog/2017/04/14/need-know-caching-part-3/)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
+* [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -1020,7 +1021,7 @@ Programming
 
 ## Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
-* CEP
+* CEP Complex Event Processing
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
 * [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
 * Heron
