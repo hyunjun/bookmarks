@@ -734,6 +734,8 @@ Machine Learning
   * [Day 2 E4-1: "핸즈온 워크샵: 서버리스가 컨테이너를 만났을 때"](https://www.youtube.com/watch?v=OfMF46icSWE)
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
 * [마이크로소프트 Azure IoT 워크숍](http://www.seoulworkshop.org/tag/Microsoft_Azure_IoT)
+* [Azure로 만드는 간단한 Blog Site - ( 1편 )](https://www.popit.kr/azure%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B0%84%EB%8B%A8%ED%95%9C-blog-site-1%ED%8E%B8)
+* [Azure로 만드는 간단한 Blog Site - ( 2편 )](https://www.popit.kr/azure%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EA%B0%84%EB%8B%A8%ED%95%9C-blog-site-2%ED%8E%B8)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)

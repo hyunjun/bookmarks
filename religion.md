@@ -114,6 +114,7 @@ Religion
 * [‘종교적 열심’은 왜 신앙을 배반하는가?](http://ppss.kr/archives/87948)
 * [일제치하 한국교회는 자진하여 배교했다](http://m.good-faith.net/news/articleView.html?idxno=623)
 * ["교회 세습 중지하고 세금 내는 게 예수의 길"](http://v.media.daum.net/v/20171229133230914)
+* [이스라엘기 든 에스더, 박근혜 탄핵 반대 때 전면에 등장](https://news.v.daum.net/v/20180927050608540)
 
 ## 성소수자
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)

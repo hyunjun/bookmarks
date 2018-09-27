@@ -2469,6 +2469,7 @@ Python
     * [02 Boolean Indexing.ipynb](https://github.com/tdpetrou/Learn-Pandas/blob/master/Learn-Pandas/Selecting%20Subsets/02%20Boolean%20Indexing.ipynb)
 * [pandas column 의 위아래 값의 차이를 비교해보자](http://jusths.tistory.com/38)
 * [pandas 시간정보로 .srt 자막을 만들어보자](http://jusths.tistory.com/40)
+* [Pandas: 한 셀의 데이터를 여러 행으로 나누기](http://ohgyun.com/768)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

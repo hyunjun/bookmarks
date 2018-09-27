@@ -84,6 +84,7 @@ Linux
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 
 # Command
+* [practice - get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
 * [10가지 재밌는 리눅스 명령어들](http://www.clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=338629) cmatrix, asciiviewer, rev, yes, rig, figlet, toilet, banner, text to speech with espeak, :(){:|:&};:
 * [백그라운드로 작업하는 몇 가지 방법](http://jybaek.tistory.com/683)
 * [리눅스 명령어 삼대장: find, grep, awk](http://jybaek.tistory.com/704)
@@ -107,7 +108,7 @@ Linux
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [리눅스 명령어를 이용한 시스템 모니터링 하기](http://tech.whatap.io/2015/09/03/linux-monitoring/)
-* [practice - get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
+* [POSIX CLI1](https://opentutorials.org/module/3747)
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)

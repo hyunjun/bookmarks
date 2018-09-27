@@ -431,6 +431,7 @@ App
     * Insecure completion-dependent directories detected
       * [zsh compinit: insecure directories](https://stackoverflow.com/questions/13762280/zsh-compinit-insecure-directories)
       * `compaudit | xargs chmod g-w` 실행 후 아무 directory name이 안 나오면 정상
+    * [Oh My Zsh로 예쁘고 직관적인 터미널 만들기!](http://kkamagui.tistory.com/903) ubuntu 설치
 * [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)

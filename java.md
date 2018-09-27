@@ -99,6 +99,7 @@ Java
 * [패스트캠퍼스 자바 웹 프로그래밍 CAMP 정리](http://jojoldu.tistory.com/301)
 * [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
+* [Java 에러 : could not find java.dll](http://sunyzero.tistory.com/256)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -344,6 +345,7 @@ Java
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
+* [시간 당 실행 횟수 제한 라이브러리 3종 소개: RateLimiter, RateLimitJ, Bucket4j](http://javacan.tistory.com/505)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [Armeria is an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
@@ -543,6 +545,7 @@ Java
       * [5. Spring Batch Scope & Job Parameter](http://jojoldu.tistory.com/330)
       * [6. Chunk 지향 처리](http://jojoldu.tistory.com/331)
 			* [7. ItemReader](https://jojoldu.tistory.com/336)
+      * [8. ItemWriter](https://jojoldu.tistory.com/339)
     * [Spring Batch Paging Reader 사용시 같은 조건의 데이터를 읽고 수정할때 문제](https://jojoldu.tistory.com/337)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
@@ -568,6 +571,8 @@ Java
   * [스프링 부트와 카오스 몽키](http://blog.younjinjeong.io/post/chaosmonkey-for-spring-boot/)
   * [@SpyBean @MockBean 의도적으로 사용하지 않기](http://jojoldu.tistory.com/320)
   * [온라인 서점 API 만들기로 살펴보는 Spring Boot OOP](https://github.com/minwan1/online-book-store)
+  * [실행 중인 Spring Boot pid 파일 생성](http://blog.woniper.net/363)
+  * [Spring Boot Book 콘서트 참석 후기](http://blog.leekyoungil.com/?p=468)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
@@ -592,6 +597,7 @@ Java
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
+* [Do not fall into Oracle's Java 11 trap](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html)
 
 # Serialization
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)

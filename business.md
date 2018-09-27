@@ -282,6 +282,7 @@ Business
 * [직무 설계: 성과를 내는 구조 만들기](https://brunch.co.kr/@younghakjang/64)
 * [잡 크래프팅: 일에서 의미 찾기](https://brunch.co.kr/@younghakjang/66)
 * [같이 의논하고 한 명이 결정한다](https://brunch.co.kr/@hyungsukkim/69)
+* [리더는 어떠해야 한다](https://brunch.co.kr/@hyungsukkim/85)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)

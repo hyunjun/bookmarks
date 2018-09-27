@@ -977,6 +977,7 @@ Javascript
   * [Mastering the Art of NPM](https://hackernoon.com/mastering-the-art-of-npm-ca06357150cb)
   * [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
   * [npm에 새로 추가된 audit 기능](https://blog.outsider.ne.kr/1375)
+	* [Node.js: npm asyncWrite 오류 발생할 때](http://ohgyun.com/771)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)

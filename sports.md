@@ -84,6 +84,7 @@ Sports
 * [NC 다이노스 데이터 애널리스트 인터뷰 바로가기](https://avengerschool.com/courses/sports1)
 
 # Basketball
+* **[Basketball Terms- Terminology](https://www.coachesclipboard.net/BasketballTerminology.html)** diagram으로 court위 명칭 설명
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)
 * [CHARACTERIZING THE SPATIAL STRUCTURE OF DEFENSIVE SKILL IN PROFESSIONAL BASKETBALL](http://arxiv.org/pdf/1405.0231v2.pdf)
 * [Free-Throw Distraction: The Best Fans in the N.C.A.A.](http://www.nytimes.com/2015/03/13/upshot/free-throw-distraction-the-best-fans-in-the-ncaa.html?abt=0002&abg=0&_r=2)

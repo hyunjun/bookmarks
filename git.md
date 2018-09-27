@@ -123,6 +123,9 @@ Git
 * github 하나로 1인 개발 워크플로우 완성하기
   * [이론 편 git으로 백업만 하셨던 분들 여기여기 붙어라~](https://www.huskyhoochu.com/issue-based-version-control-101)
   * [실전 편 딱 일곱 단계로 끝장내는 이슈 기반 버전 관리](https://www.huskyhoochu.com/issue-based-version-control-201)
+* [Towards Natural Language Semantic Code Search](https://githubengineering.com/towards-natural-language-semantic-code-search/)
+	* [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+	* [demo for Semantic Code Search](https://experiments.github.com/semantic-code-search)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
@@ -418,6 +421,7 @@ Git
 * [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
   * [Probot: Commands를 사용해서 GitHub 댓글로 봇 실행하기](https://blog.outsider.ne.kr/1391)
   * [Probot에서 YAML 설정파일 사용하기](https://blog.outsider.ne.kr/1392)
+  * [Probot: Scheduler 사용하기](https://blog.outsider.ne.kr/1402)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)

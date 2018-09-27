@@ -351,6 +351,7 @@ Interview
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
 * [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."
 * [What My Software Engineer Resume Looks Like](https://www.youtube.com/watch?v=RIPdc88dZRI)
+* [국내외 영문 이력서 작성툴 TOP 3 비교 분석](https://www.youtube.com/watch?v=MrkpnPxiOCw)
 
 # Spotify
 * [스톡홀름에서의 인터뷰](https://brunch.co.kr/@worker-in-yvr/13)
