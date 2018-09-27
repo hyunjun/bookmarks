@@ -353,7 +353,7 @@ Programming Books
 * (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
   * 2018.02 한라
 * (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
-	* 2018.09 한라
+	* 한라 004.73-김36ㄷ
 * 강화학습 첫 걸음
   * 2018.03
   * 문004.73 줄239ㄱ
