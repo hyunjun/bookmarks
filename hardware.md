@@ -204,6 +204,7 @@
   * [2 - Homebridge 설정하기](https://taegon.kim/archives/6849)
 * [counting bees on a rasp pi with a conv net](http://matpalm.com/blog/counting_bees/)
 * [라즈베리파이로 안드로이드 오토 인포테인먼트 시스템 만들기](http://smartaedi.tistory.com/322)
+* [Building an Image Classifier Running on Raspberry Pi](https://www.linkedin.com/pulse/building-image-classifier-running-raspberry-pi-ahmed-gad/)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)

@@ -106,6 +106,7 @@ PyTorch
 * [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
 * [pytorch-EverybodyDanceNow](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
 * [PyTorch NEAT](https://github.com/uber-research/PyTorch-NEAT/)
+* [PyTorch JIT Source Code Read Note](https://zasdfgbnm.github.io/2018/09/20/PyTorch-JIT-Source-Code-Read-Note/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

@@ -429,6 +429,7 @@ TensorFlow
 * [Mixture Density Network](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-MDN.ipynb) ipynb
 * [Density modeling with TensorFlow](https://github.com/sjchoi86/density_network/)
 * [Introducing TensorFlow Data Validation: Data Understanding, Validation, and Monitoring At Scale](https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0?linkId=56682628)
+* [Tensorflow Scan Tutorial](https://www.youtube.com/watch?v=A6qJMB3stE4)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

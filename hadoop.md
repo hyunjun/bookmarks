@@ -110,7 +110,7 @@ Hadoop
 # Cloudera
 * [cloudera.daumkakao.io](http://cloudera.daumkakao.io/)
 * installation
-  * [practice - cloudera manager 5.13.0](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-5-13-0-md)
+  * [practice - cloudera manager 5.13.0](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-5-13-0-md) 설치 & 제거
   * [practice - cloudera manager 5.4.x](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-installation-md)
 * [Cloudera Korea](https://www.facebook.com/groups/1446013985717499)
 * [CDH 4.5.0](http://www.cloudera.com/content/cloudera/en/downloads/cdh/cdh-4-5-0.html)

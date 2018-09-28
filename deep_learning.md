@@ -433,6 +433,7 @@ Deep Learning
 * [Battle of the Deep Learning frameworks — Part I: 2017, even more frameworks and interfaces](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)
 * [데이터지능 E9 딥러닝 프레임워크 및 활용편](https://www.youtube.com/watch?v=eIkM-m1Go1k)
 * [Choosing a Deep Learning Framework in 2018: Tensorflow or Pytorch?](http://cv-tricks.com/deep-learning-2/tensorflow-or-pytorch/)
+* [Deep Learning Framework Power Scores 2018](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a)
 * [Top 10 Deep Learning Github Repositories 2018](https://www.techleer.com/articles/547-top-10-deep-learning-github-repositories-2018/)
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
@@ -1601,6 +1602,7 @@ Deep Learning
 * [Cardiac MRI Segmentation](https://chuckyee.github.io/cardiac-segmentation/)
 * [Medical Image Segmentation Part 1 — UNet: Convolutional Networks with Interactive Code](https://towardsdatascience.com/medical-image-segmentation-part-1-unet-convolutional-networks-with-interactive-code-70f0f17f46c6)
 * [Encrypting Different Medical Images using Deep Neural Network with Interactive Code](https://towardsdatascience.com/encrypting-different-medical-images-using-deep-neural-network-with-interactive-code-b47656dcd1e)
+* [A machine learning survival kit for doctors](https://medium.com/owkin/a-machine-learning-survival-kit-for-doctors-97982d69a375)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
@@ -1660,6 +1662,7 @@ Deep Learning
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [The Transformer – Attention is all you need](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W1CV2tgzaZ2)
+* [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현

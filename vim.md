@@ -122,6 +122,7 @@ Vim
 * [Vim은 어디서 왔나](https://blog.koriel.kr/where-vim-came-from/)
 
 # Library
+* [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
 * [Vim Bootstrap - A generator which provides a simple method of generating a .vimrc configuration for vim](http://www.vim-bootstrap.com/)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
