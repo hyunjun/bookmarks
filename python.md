@@ -988,6 +988,7 @@ Python
   * [Hrafn Eiriksson - Asyncio in production](https://www.youtube.com/watch?v=zM3cMTcmmk0) asyncio migration에 대한 실용적인 안내
   * [Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
   * [Asyncio, websockets, and BTC sitting in a tree - Giovanni Lanzani](https://www.youtube.com/watch?v=AcZJUQ3y2ek)
+  * [John Reese - Thinking Outside the GIL with AsyncIO and Multiprocessing - PyCon 2018](https://www.youtube.com/watch?v=0kXaLh8Fz3k)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)

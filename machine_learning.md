@@ -475,6 +475,7 @@ Machine Learning
 * **[머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)**
 * [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
 * [Machine Learning: how to go from Zero to Hero](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da)
+* [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -553,6 +554,7 @@ Machine Learning
   * [Others](https://github.com/josephmisiti/awesome-machine-learning#go)
   * [Tensorflow](github.com/danieldk/tensorflow)
   * [Caffe](github.com/wmyaoyao/gocaffe)
+* [Machine Learning and Go](https://www.youtube.com/watch?v=gQ6hQq4EClE)
 
 # Google
 * [ICML 2015 and Machine Learning Research at Google](http://googleresearch.blogspot.kr/2015/07/icml-2015-and-machine-learning-research.html)
