@@ -175,6 +175,8 @@ Vision
     * [Part 5 : Designing the input and the output pipelines](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-5/)
   * [윈도우즈에서 yolo v3 돌려보기 1/2](http://jusths.tistory.com/32)
   * [윈도우즈에서 yolo v3 돌려보기 2/2](http://jusths.tistory.com/33)
+  * [커스텀 데이터 셋으로 Yolo 써 보기 1](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset)
+  * [커스텀 데이터 셋으로 Yolo 써 보기 2](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset-2)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
@@ -185,6 +187,7 @@ Vision
 * [DIY A Multiview Camera System: Panoptic Studio Teardow](http://domedb.perception.cs.cmu.edu/tutorials/cvpr17/index.html)
   * 카메라를 여러대 사용하는 시스템을 이용하여 3차원 복원을 하려는 경우 유용한 Tutorial
 * [자율주행과 기계학습](https://www.slideshare.net/deview/124-80844653)
+* [ubuntu 18.04에 gym_torcs(자율주행 강화학습 환경) 설치하고 테스트해보기](https://jueun-park.github.io/2018-09-09/torcs-environment-test)
 * [C-7. 그림 그리는 AI(이활석)](https://www.youtube.com/watch?v=TlNkTdCt2Vo)
 * [The Modern History of Object Recognition — Infographic](https://medium.com/@nikasa1889/the-modern-history-of-object-recognition-infographic-aea18517c318)
 * [Build an Image Recognition API with Go and TensorFlow](https://outcrawl.com/image-recognition-api-go-tensorflow/)
