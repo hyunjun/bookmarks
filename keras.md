@@ -172,6 +172,7 @@ Keras
   * [Auto-Keras, or How You can Create a Deep Learning Model in 4 Lines of Code](https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e)
   * [AutoKeras: The Killer of Google’s AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
   * [오토케라스 (Auto Keras) 소개 - 오픈소스 automl 실습](https://www.youtube.com/watch?v=EDGLf8eCK04)
+  * [Auto-keras 이용하기](https://github.com/yjucho1/articles/tree/master/auto-keras)
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
@@ -195,6 +196,7 @@ Keras
 * [How to Generate Music using a LSTM Neural Network in Keras](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 * [understanding lstm and its quick implementation in keras for sentiment analysis](https://towardsdatascience.com/understanding-lstm-and-its-quick-implementation-in-keras-for-sentiment-analysis-af410fd85b47)
 * [How to predict Bitcoin and Ethereum price with RNN-LSTM in Keras](https://medium.com/@siavash_37715/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109<Paste>)
+* [케라스 LSTM 모델로 작곡하기](https://tykimos.github.io/2018/09/14/How_to_Generate_Music_using_a_LSTM_Neural_Network_in_Keras/)
 
 # RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)

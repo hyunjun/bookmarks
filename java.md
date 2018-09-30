@@ -333,6 +333,7 @@ Java
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
 * **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
+* **[Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)**
 
 # Lambda
 * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
@@ -596,9 +597,10 @@ Java
 * [How to install OpenJDK 8 on 14.04 LTS?](https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts)
 * [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
-* [Project Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
-* [Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 * [Do not fall into Oracle's Java 11 trap](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html)
+* [AdoptOpenJDK](https://adoptopenjdk.net/)
+* [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
+* [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
 # Serialization
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)

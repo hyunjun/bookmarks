@@ -421,7 +421,6 @@ TensorFlow
   * [공부 여정](http://mobicon.tistory.com/543)
 	* [로지스틱 회귀의 비용함수 이해](http://mobicon.tistory.com/544)
   * [Tensorflow 강좌 정리](http://mobicon.tistory.com/546)
-* [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
 * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
 * [Get started with TensorFlow on law and statistics](https://medium.freecodecamp.org/tensorflow-starter-on-law-and-statistics-646072b93b5a)
 * [9 Things You Should Know About TensorFlow](https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995)
@@ -429,7 +428,6 @@ TensorFlow
 * [Mixture Density Network](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-MDN.ipynb) ipynb
 * [Density modeling with TensorFlow](https://github.com/sjchoi86/density_network/)
 * [Introducing TensorFlow Data Validation: Data Understanding, Validation, and Monitoring At Scale](https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0?linkId=56682628)
-* [Tensorflow Scan Tutorial](https://www.youtube.com/watch?v=A6qJMB3stE4)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -918,3 +916,6 @@ TensorFlow
 * [file load - contrib안의 data class 이용](https://github.com/leechanwoo/Tensorflow-projects/blob/master/tests/test.py)
 * [github.com/zerosum99/tensorflow_ipynb](https://github.com/zerosum99/tensorflow_ipynb)
 * [Tensorflow tutorial for "Methods for Interpreting and Understanding Deep Neural Networks"](https://github.com/1202kbs/Understanding-NN)
+* [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
+* [Tensorflow Scan Tutorial](https://www.youtube.com/watch?v=A6qJMB3stE4)
+* [Ultimate Guide to Getting Started with TensorFlow](https://www.kdnuggets.com/2018/09/ultimate-guide-tensorflow.html)

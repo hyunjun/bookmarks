@@ -568,6 +568,7 @@ Machine Learning
 * [cloud.google.com/prediction](https://cloud.google.com/prediction)
 
 # Java
+* [Java Machine Learning Library](https://github.com/Daniel-Liu-c0deb0t/Java-Machine-Learning/blob/master/README.md)
 * [SystemML](https://developer.ibm.com/open/systemml/)
 
 # JavaScript

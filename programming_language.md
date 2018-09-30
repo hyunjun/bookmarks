@@ -327,6 +327,7 @@ Programming Language
   * [Morphic: The Self User Interface Framework¶](http://handbook.selflanguage.org/current/morphic.html)
 * Shen
   * [Welcome to Shen-js browser REPL](http://gravicappa.github.io/shen-js/shen.html#/.doc/welcome.html)
+* [Skip - A programming language to skip the things you have already computed](http://www.skiplang.com/)
 * [Skoar is a high-level language for coding music](https://github.com/sofakid/Skoarcery)
 * [Snap](http://byob.berkeley.edu/)
   * [Snap: Programming for everyone](https://blog.miosoft.com/2015/02/snap-programming-for-everyone/)
