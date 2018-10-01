@@ -575,6 +575,7 @@ Java
   * [실행 중인 Spring Boot pid 파일 생성](http://blog.woniper.net/363)
   * [Spring Boot Book 콘서트 참석 후기](http://blog.leekyoungil.com/?p=468)
   * [SpringBoot에서 Spock Mock 사용법과 문제점](https://jojoldu.tistory.com/340)
+  * [Spring Boot에서 외부 API 테스트하기](https://jojoldu.tistory.com/341)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

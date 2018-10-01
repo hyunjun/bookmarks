@@ -320,6 +320,8 @@
 * [아파치 스팍 관련 문제점 이야기 + 자바로 게으른 초기화 (2018-07-06) 케빈TV Live](https://www.youtube.com/watch?v=YTF3CUzWDo8)
 * [Working with Nested JSON Using Spark | Parsing Nested JSON File in Spark](https://www.youtube.com/watch?v=n3owBqa9ATQ)
 * [practice - sc.textFile로 gzipped hdfs file을 읽을 경우 성능 저하 or job 실패](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff#file-unzip_gzipped_hdfs_file-md)
+* [What’s New for Apache Spark on Kubernetes in the Upcoming Apache Spark 2.4 Release](https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html)
+	* 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)

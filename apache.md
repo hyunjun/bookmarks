@@ -158,6 +158,7 @@ Apache
   * Netflix의 (수천 대 규모의) 스트림 처리 시스템은 하루 약 4조개 이상(36GB/sec)의 이벤트를 처리
   * 이 시스템은 Apache Flink와 Apache Kafka 기반으로 하는 셀프 서비스 인프라로 구축
   * Flink를 사용하는 이유와 구현과 운영에 대해 설명
+* [State TTL for Apache Flink: How to Limit the Lifetime of State](https://data-artisans.com/blog/state-ttl-for-apache-flink-how-to-limit-the-lifetime-of-state) Flink 1.6.0 TTL 지원
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
@@ -171,6 +172,7 @@ Apache
 
 # HAWQ - advanced enterprise SQL-on-Hadoop query engine and analytic database
 * [The Apache Software Foundation Announces Apache® HAWQ® as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces38)
+* [Apache HAWQ 2.4.0.0 Release](https://cwiki.apache.org/confluence/display/HAWQ/Apache+HAWQ+2.4.0.0+Release)
 
 # [Hivemall](https://hivemall.incubator.apache.org/)
 * [hivemall.incubator.apache.org/userguide/index.html](http://hivemall.incubator.apache.org/userguide/index.html)

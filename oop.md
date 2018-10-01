@@ -21,17 +21,11 @@
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
   * 도메인 로직을 서술하기 위한 if는 사용
 * [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
-* 케빈 TV
-  * [30회 (1부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=Ba7iYO7_BPc)
-  * [30회 (2부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=ZrF8r5LUadc)
-  * [30회 (3부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=VO6AAUMXk6Y)
-  * [30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
 * [OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [SOLID 원칙](https://medium.com/@dev_momo/solid-%EC%9B%90%EC%B9%99-10fba70afc58)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
-* [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
 * **[Composition over inheritance](http://seokjun.kr/composition-over-inheritance/)**
 * [02: ♥♦ Q11 – Q15 Why favor composition over inheritance?](https://www.java-success.com/why-favor-composition-over-inheritance-in-java-oop/)
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
@@ -44,7 +38,6 @@
 * [새로운 프로그래밍 모델의 필요성](http://qwefgh90.github.io/actor/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1/)
 * [여러 메서드가 동일 처리 흐름을 갖는 코드 정리 예시: 클래스 추출](http://javacan.tistory.com/entry/remove-duplicate-process-by-extracting-class)
 * [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-* [Case Study Design Pattern - Object Adapter](https://www.slideshare.net/ssuser8fee5f/case-study-design-pattern-object-adapter)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
@@ -61,6 +54,11 @@
 * [왜 클래스죠?](http://www.haruair.com/blog/3895)
 
 # Design Pattern
+* 케빈 TV
+  * [30회 (1부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=Ba7iYO7_BPc)
+  * [30회 (2부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=ZrF8r5LUadc)
+  * [30회 (3부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=VO6AAUMXk6Y)
+  * [30회 (4부) - 패턴 이야기 - 싱글톤 패턴](https://www.youtube.com/watch?v=KbqXCN-m6y0)
 * [디자인 패턴 중독자](https://justhackem.wordpress.com/2015/10/19/design-pattern-junkies/)
 * [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [서비스 로케이터는 안티패턴이다](http://www.haruair.com/blog/3880)
@@ -69,6 +67,9 @@
 * [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 * [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
 * [Design Patterns](https://refactoring.guru/design-patterns)
+* [데이터베이스에서 객체를 지연 로딩(lazy loading) 하기](http://www.haruair.com/blog/3955) proxy 프록시 패턴
+* [Case Study Design Pattern - Object Adapter](https://www.slideshare.net/ssuser8fee5f/case-study-design-pattern-object-adapter)
+* [어댑터와 퍼사드 패턴](https://astrod.github.io/design_pattern/2018/09/29/Head-First-%EC%96%B4%EB%8C%91%ED%84%B0%EC%99%80-%ED%8D%BC%EC%82%AC%EB%93%9C-%ED%8C%A8%ED%84%B4/)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)

@@ -813,6 +813,7 @@ Programming
 * [Provides an open source framework for online education taxonomies. https://www.class-central.com/subjects](https://github.com/classcentral/online-course-taxonomy)
 * [Top 20 Coding Bootcamps](http://www.collegestartup.org/2015/07/21/top-20-coding-bootcamps/)
 * [MOOC](http://www.bloter.net/archives/236871)
+* [프랑스 파리 에꼴42 방문기](https://blog.naver.com/rmazinga/221359914866)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
@@ -915,6 +916,7 @@ Programming
   * [9월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/09/b-9-1.html)
   * [9월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/09/b-9-2.html)
   * [9월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/09/b-9-3.html)
+	* [9월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/09/b-9-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -952,6 +954,7 @@ Programming
   * [기술 뉴스 #108 : 18-08-15](https://blog.outsider.ne.kr/1396)
 	* [기술 뉴스 #109 : 18-09-01](https://blog.outsider.ne.kr/1400)
   * [기술 뉴스 #110 : 18-09-16](https://blog.outsider.ne.kr/1401)
+	* [기술 뉴스 #111 : 18-10-01](https://blog.outsider.ne.kr/1403)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -961,6 +964,7 @@ Programming
   * [1806호](https://blog.gaerae.com/2018/06/monthly.html)
   * [1807호](https://blog.gaerae.com/2018/07/monthly.html)
 	* [1808호](https://blog.gaerae.com/2018/08/monthly.html)
+	* [1809호](https://blog.gaerae.com/2018/09/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

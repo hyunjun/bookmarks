@@ -45,6 +45,7 @@ App
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)
+* [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
 * [meistertask.com](https://www.meistertask.com) Kanban, task 관리
 * [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)

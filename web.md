@@ -119,6 +119,7 @@ Web
 * [Dweb: Secure Scuttlebutt 으로 소셜 피드 작성하기](http://hacks.mozilla.or.kr/2018/08/dweb-social-feeds-with-secure-scuttlebutt/)
 * [Dweb: WebTorrent 로 강인한 웹 만들기](http://hacks.mozilla.or.kr/2018/08/dweb-building-a-resilient-web-with-webtorrent/)
 * [Dweb: Beaker 로 브라우저에서 웹을 서비스하기](http://hacks.mozilla.or.kr/2018/09/dweb-serving-the-web-from-the-browser-with-beaker/)
+* [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
 * [WEB2 - OAuth 2.0](https://opentutorials.org/course/3405)
 
 # Apache
@@ -340,6 +341,8 @@ Web
 * [How you can make a progressive web app in an hour](https://medium.freecodecamp.org/how-you-can-make-a-progressive-web-app-in-an-hour-7e36d560610e)
 * [How to make sure your Progressive Web App keeps its Lighthouse audit score](https://medium.freecodecamp.org/how-to-make-sure-your-progressive-web-app-keeps-its-lighthouse-audit-score-4c11cf514e1a)
 * [PWA UNIVERSAL BUILDER](https://pwa.cafe/)
+* [Progressive Web Apps — The Future of Mobile Web App Development](https://hackernoon.com/progressive-web-apps-the-future-of-mobile-web-app-development-f29257b0dea2)
+* [11 Examples of Progressive Web Apps](https://themanifest.com/app-development/11-examples-progressive-web-apps)
 
 # Python
 * Let’s Build A Web Server

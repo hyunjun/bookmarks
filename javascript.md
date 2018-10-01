@@ -945,6 +945,7 @@ Javascript
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [WEB2 - Node.js](https://opentutorials.org/course/3332)
+* **[The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)**
 * [Node.js - 쿠키와 인증](https://opentutorials.org/course/3387)
 * [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
@@ -1096,6 +1097,7 @@ Javascript
 * [노드몬 Nodemon 에서 특정 파일 제외하기](https://hyeonseok.com/soojung/dev/2018/08/19/840.html)
 * [노드 프로젝트의 설정 파일들](https://www.zerocho.com/category/NodeJS/post/5b934c8e6c974e001b710767)
 * [객체에 프로퍼티 설정 시 성능 이슈](http://ohgyun.com/764)
+* [node.js: euc-kr 페이지에 보낼 요청 파라미터 인코딩](http://ohgyun.com/773)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

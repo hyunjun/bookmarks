@@ -1249,6 +1249,7 @@ Python
 * [2018년 8월 5일, 서울창조허브 10F에서 열리는 개발기술연합세미나, 파이썬 세션, 장고 샘플 프로젝트](https://github.com/allieus/demo-20180805-startup-dev)
 * [Django 2.1 Tutorial-Build a Travel Blog with Goorm IDE and Bootstrap 4(Unspoken version)](https://www.youtube.com/watch?v=ozSepodKOyg)
 * [django 쿼리셋 수정을 통한 웹서비스 성능 개선 - select_related, prefetch_related](https://wayhome25.github.io/django/2017/06/20/selected_related_prefetch_related/)
+* [(번역) Best practices working with Django models in Python](https://wayhome25.github.io/django/2018/09/29/Best-practices-working-with-Django-models-in-Python/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -1615,6 +1616,7 @@ Python
 * [I don't like Notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_639)
 * [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
   * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
+* [Jupyter notebook HTML output에 템플릿 적용하기](http://ohgyun.com/772)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
