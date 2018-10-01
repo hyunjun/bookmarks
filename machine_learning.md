@@ -505,6 +505,7 @@ Machine Learning
 * [10 Free Machine Learning books](http://www.datasciencecentral.com/profiles/blogs/10-free-machine-learning-books)
 * [10 Free Must-Read Books for Machine Learning and Data Science](http://www.kdnuggets.com/2017/04/10-free-must-read-books-machine-learning-data-science.html)
 * [List of Free Must-Read Books for Machine Learning](http://blog.paralleldots.com/technology/machine-learning/list-of-free-must-read-books-for-machine-learning)
+* [List of Free Must-Read Machine Learning Books](https://blog.paralleldots.com/data-science/list-of-free-must-read-books-for-machine-learning/)
 * [List of Free Must-Read Machine Learning Books](https://towardsdatascience.com/list-of-free-must-read-machine-learning-books-89576749d2ff)
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)

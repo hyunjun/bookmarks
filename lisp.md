@@ -108,6 +108,7 @@ Lisp
 * [Tamei is a very simple project, it splits common lisp into 6 packages](https://github.com/cbaggers/tamei)
 * [Reader Macros in Common Lisp](https://gist.github.com/chaitanyagupta/9324402)
 * [LAIAN - Learning Artificial Intelligence Applying Notions (LAIAN)](https://github.com/KedalionDaimon/laian)
+* [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 
 ## Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
