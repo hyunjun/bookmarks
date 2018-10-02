@@ -247,8 +247,15 @@ Apache
 * [Using Golang and JSON for Kafka Consumption With High Throughput](https://medium.com/the-hoard/using-golang-and-json-for-kafka-consumption-with-high-throughput-4cae28e08f90)
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [Monitoring Kafka performance metrics](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
-* [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [How to Monitor Kafka](https://blog.serverdensity.com/how-to-monitor-kafka/)
+* [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
+* [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
+  * Kafka consumer offset을 간단하게 모니터링하는 방법
+  * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
+* [MONITORING KAFKA CONSUMER LAG IN SECONDS](https://hopsandthings.com/monitoring-kafka-consumer-lag-in-seconds/)
+* [Apache Kafka Monitoring – Methods & Tools](https://data-flair.training/blogs/kafka-monitoring/)
+* [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
+* [Elastic Stack에는 Kafka면 충분합니다 - 2부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part2)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [Kafka New Producer API를 활용한 유실 없는 비동기 데이터 전송](http://readme.skplanet.com/?p=13042)
 * [Kafka 0.9 Consumer 클라이언트 소개](http://www.popit.kr/kafka-0-9-consumer-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%86%8C%EA%B0%9C/)
@@ -256,7 +263,6 @@ Apache
 * [Presto Kafka connector 개선 실패기](http://www.popit.kr/presto-kafka-connector-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%8C%A8%EA%B8%B0/)
 * [New in Cloudera Enterprise 5.8: Flafka Improvements for Real-Time Data Ingest](http://blog.cloudera.com/blog/2016/08/new-in-cloudera-enterprise-5-8-flafka-improvements-for-real-time-data-ingest/)
 * [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
-* [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
 * [Understanding of Apache Kafka – Part.1](http://bitnine.net/blog-computing/understanding-of-apache-kafka-part-1/)
 * [From Big Data to Fast Data in Four Weeks or How Reactive Programming is Changing the World – Part 1](https://www.paypal-engineering.com/2016/11/08/from-big-data-to-fast-data-in-four-weeks-or-how-reactive-programming-is-changing-the-world-part-1/)
 * [Apache Kafka, Data Pipelines, and Functional Reactive Programming with Node.js](https://blog.heroku.com/kafka-data-pipelines-frp-node)
@@ -294,9 +300,6 @@ Apache
   * [Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
   * [Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
-* [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
-  * Kafka consumer offset을 간단하게 모니터링하는 방법
-  * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
   * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
@@ -331,7 +334,6 @@ Apache
 * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
 * [Introduction to Apache Kafka Security](https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf)
 * [How to know if Apache Kafka is right for you](https://medium.freecodecamp.org/how-to-know-if-apache-kafka-is-right-for-you-1b2e468d52b9)
-* [MONITORING KAFKA CONSUMER LAG IN SECONDS](https://hopsandthings.com/monitoring-kafka-consumer-lag-in-seconds/)
 * [URP? Excuse You! The Three Kafka Metrics You Need to Know](https://www.slideshare.net/ToddPalino/urp-excuse-you-the-three-kafka-metrics-you-need-to-know) under replicated partition, request handler, requst time에 대해 모니터링할 수 있는 Kafka 메트릭 설명
 * [일상 협업 이야기: 참조 아키텍처 써먹기 편](https://www.popit.kr/v2/%EC%9D%BC%EC%83%81-%ED%98%91%EC%97%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B0%B8%EC%A1%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8D%A8%EB%A8%B9%EA%B8%B0-%ED%8E%B8)
 * [Scalability of Kafka Messaging using Consumer Groups](http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/)

@@ -267,7 +267,7 @@ Business
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
 * [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
 * [“경영자라면 코드가 다른 사람을 쓸 줄 알아야 합니다”](http://outstanding.kr/%EA%B2%BD%EC%98%81%EC%9E%90%EB%9D%BC%EB%A9%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%93%B8-%EC%A4%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4-2/)
-* [마블 VS DC, 격차가 점점 커진다..무엇이 명암 갈랐나](http://magazine2.movie.daum.net/movie/47027)
+* [마블 VS DC, 격차가 점점 커진다..무엇이 명암 갈랐나](http://magazine2.movie.daum.net/movie/47027) 케빈 파이기 vs. 케빈 츠지하라
 * [휴스턴은 어떻게 WS 우승팀이 됐을까](http://v.sports.media.daum.net/v/20171103144258203) 제프 러나우, 짐 크레인
 * [첼시가 스탬포드브릿지 전투에서 얻은 것](http://v.sports.media.daum.net/v/20171107031234116) 안토니오 콘테
 * [어떻게 부하를 육성할 것인가](http://1boon.kakao.com/ppss/59c0f264ed94d20001845306) 조 지라디, 알렉스 퍼거슨, ...

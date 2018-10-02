@@ -1060,6 +1060,9 @@ Python
 * [Think Python: How to Think Like a Computer Scientist 2판](https://surpreem.com/think-python-how-to-think-like-a-computer-scientist-2%ED%8C%90/)
   * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
+* **[Books by Agiliq](https://books.agiliq.com)**
+	* Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
+	* Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
@@ -1154,6 +1157,8 @@ Python
 * [Django ORM 왜 어렵게 느껴질까?](http://www.slideshare.net/perhapsspy/django-orm-67523180)
 * [PyCon KR 2018 Effective Tips for Django ORM in Practice](https://www.slideshare.net/iandmyhand/pycon-kr-2018-effective-tips-for-django-orm-in-practice-110522221)
 * [DjangoORM에서 SQL Driver 지정해 Query & Pandas DataFrame 얻어내기](https://beomi.github.io/2018/02/19/django_orm_for_multiple_db_with_sqldriver/)
+* **[장고 ORM 요리책](https://django-orm-cookbook-ko.readthedocs.io)**
+	* [장고 ORM 요리책](https://github.com/8percent/django-orm-cookbook-ko)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)

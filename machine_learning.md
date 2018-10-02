@@ -527,6 +527,7 @@ Machine Learning
   * [Meetup-Fall-2013 - Slides, code, and other information relating to the Fall 2013 Meetups](https://github.com/ResearchComputing/Meetup-Fall-2013)
 * [Understanding machine learning from theory to algorithms](http://www.techleer.com/articles/230-understanding-machine-learning-from-theory-to-algorithms/)
 * [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
+  * [iml: Interpretable Machine Learning](https://cran.r-project.org/web/packages/iml/) r package
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)

@@ -182,6 +182,7 @@ iOS
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
 * [SWIFT GEMS FOR CREATING RELIABLE, CONCURRENT DESKTOP APPS](https://pixelspark.nl/2015/swift-gems-for-creating-reliable-concurrent-desktop-apps)
 * [iOS 애플리케이션 아키텍처 : MVVM, MVC, VIPER 전격 비교](http://news.realm.io/kr/news/krzysztof-zablocki-mDevCamp-ios-architecture-mvvm-mvc-viper/)
+* [Modern MVC](https://medium.com/ios-os-x-development/modern-mvc-39042a9097ca)
 * [Mastering MVVM on iOS](https://medium.com/@mecid/mastering-mvvm-on-ios-f875d2b99816)
 * [프로토콜 지향 MVVM을 소개합니다](https://realm.io/kr/news/doios-natasha-murashev-protocol-oriented-mvvm/)
 * [스위프트에서 중복을 피하기위한 프로토콜과 MVVM](http://blog.canapio.com/121)

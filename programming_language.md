@@ -196,6 +196,7 @@ Programming Language
   * [An introduction to property-based testing](http://fsharpforfunandprofit.com/posts/property-based-testing/)
   * [F# Code I Love](https://www.youtube.com/watch?v=EPfpO_6uFAA)
   * [Ionide - An Atom Editor package suite for cross platform F# development](http://ionide.io/)
+  * [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) modern property based testing system in the spirit of QuickCheck
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)

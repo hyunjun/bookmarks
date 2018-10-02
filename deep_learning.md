@@ -818,6 +818,7 @@ Deep Learning
 * [All-About-the-GAN](https://github.com/hollobit/All-About-the-GAN)
 * [All-About-the-GAN](https://hollobit.github.io/All-About-the-GAN/)
 * [really-awesome-gan](https://github.com/nightrome/really-awesome-gan)
+* [gans-awesome-applications](https://github.com/nashory/gans-awesome-applications)
 * NIPS 2016 Tutorial: Generative Adversarial Networks [paper](https://arxiv.org/pdf/1701.00160v1.pdf) [slide](http://www.iangoodfellow.com/slides/2016-12-04-NIPS.pdf)
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](https://arxiv.org/pdf/1609.05473v2.pdf)
   * GAN이 처음으로 sequence generation task에 사용
