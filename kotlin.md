@@ -84,6 +84,7 @@
 * [Kotlin 작성한 코드 Decompile](https://thdev.tech/kotlin/2018/05/22/Android-Studio-Kotlin-Decompile.html)
 * [Kotlin 더 잘 활용하기](https://thdev.tech/kotlin/2018/08/13/Kotlin-Improving/)
 * [카카오톡의 서버사이드 코틀린](https://www.slideshare.net/ifkakao/ss-113145569)
+* [100% KOTLIN FRONTEND](https://www.youtube.com/watch?v=dcx64qQvuw0)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
