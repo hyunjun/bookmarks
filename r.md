@@ -103,7 +103,6 @@ R
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
 * [R for AI developers](https://www.infoq.com/presentations/r-framework-ai-apps)
 * [RUCK 2017 MxNet과 R을 연동한 딥러닝 소개](https://www.slideshare.net/r-kor/ruck-2017-mxnet-r)
-* [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [R 노트북을 써보았다: 간단한 PCA](http://www.4four.us/article/2016/11/r-notebook-pca)
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
@@ -338,6 +337,8 @@ R
   * [Using Magick with RMarkdown and Shiny](https://www.r-bloggers.com/using-magick-with-rmarkdown-and-shiny/)
 * miniCRAN
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
+* MLflow
+  * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
 * [NLP4kec - 한글, 영어, 중국어 텍스트 데이터 파일을 입력받아 형태소 분석 후 R tm package에서 사용할 수 있도록 해주는 패키지](https://github.com/NamyounKim/NLP4kec)
@@ -388,6 +389,8 @@ R
   * [shinymaterial](https://ericrayanderson.github.io/shinymaterial/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
+* [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
+  * [sparklyr 0.9](https://blog.rstudio.com/2018/10/01/sparklyr-0-9)
 * [subsetr](https://github.com/jimhester/subsetr)
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)
 * [tidyverse](http://tidyverse.org/)
