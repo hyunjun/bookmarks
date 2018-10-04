@@ -1,5 +1,6 @@
 Machine Learning
 ================
+* [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 * [reddit.com/r/LearnMachineLearning/wiki/reference](https://www.reddit.com/r/LearnMachineLearning/wiki/reference)

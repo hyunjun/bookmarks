@@ -833,6 +833,7 @@ Programming Books
 * (NOT YET) 만화로 배우는 리눅스 시스템 관리 1 명령어 & 셸 스크립트 입문
 * (NOT YET) **[DevOps와 SE를 위한 리눅스 커널 이야기](http://jybaek.tistory.com/748)**
 * (NOT YET) [64비트 멀티코어 OS 원리와 구조](http://kkamagui.tistory.com/746)
+  * ["64비트 멀티코어 OS 원리와 구조" 의 예제 소스 코드](https://github.com/kkamagui/mint64os-examples)
 
 ## Shell script
 * 유닉스 리눅스 셸 스크립트 예제 사전
