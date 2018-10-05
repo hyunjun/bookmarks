@@ -243,6 +243,7 @@ NLP
 * [PyConKr 2018 Why I learn, How I learn](https://github.com/songys/pycon2018_keynote/blob/master/PyCon_2018_youngsooksong.pdf)
 * **[Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)**
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)
+* [딥러닝이 탐구하지 못한 언어와 5가지 태스크](https://brunch.co.kr/@kakao-it/295)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -570,6 +571,8 @@ NLP
 * [academictorrents.com](http://academictorrents.com/)
 * [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
+	* [An open-source NLP research library, built on PyTorch](https://github.com/allenai/allennlp)
+		* [crf](https://github.com/allenai/allennlp/blob/master/allennlp/modules/conditional_random_field.py)
 * [Autosub - Command-line utility for auto-generating subtitles for any video file](https://github.com/agermanidis/autosub)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
@@ -759,6 +762,8 @@ NLP
 * [Extract News In Three Words Using Triples](http://www.cytora.com/insights/2016/11/21/extracting-information-from-natural-language-using-triples)
 * [factcheck.snu.ac.kr](http://factcheck.snu.ac.kr/)
 * [컴퓨테이셔널 저널리즘](http://www.bloter.net/archives/276095)
+* [딥러닝을 활용한 뉴스 메타 태깅](https://brunch.co.kr/@kakao-it/284)
+* [스포츠 저널리즘의 변화와 AI의 활용](https://brunch.co.kr/@kakao-it/292)
 
 # Ontology
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)

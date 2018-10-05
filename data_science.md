@@ -412,6 +412,7 @@ Data Science
 * [Listing Embeddings for Similar Listing Recommendations and Real-time Personalization in Search](https://medium.com/airbnb-engineering/listing-embeddings-for-similar-listing-recommendations-and-real-time-personalization-in-search-601172f7603e)
 * [SK ICT Tech Summit 2017 추천 플랫폼 콜로세오](https://readme.skplanet.com/?p=13903)
   * [SK ICT Tech Summit 2017 추천 플랫폼 콜로세오](https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet)
+* [눈으로 듣는 음악 추천 시스템](https://brunch.co.kr/@kakao-it/282) CF, CBF
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**

@@ -98,6 +98,7 @@ Vision
 * [Weep for Graphics Programming](http://adriansampson.net/blog/opengl.html)
 * [CAP6412: Advanced Computer Vision (Spring 2016)](http://www.cs.ucf.edu/~bgong/CAP6412.html)
 * [Intel H.264 Encoding and Decoding](http://ryulib.tistory.com/426)
+* [딥러닝을 이용한 실시간 인코딩 호율 최적화](https://brunch.co.kr/@kakao-it/285)
 * [H.264 is Magic](https://sidbala.com/h-264-is-magic/)
 * [실전 프로젝트 동영상 플레이어 만들기 첫 번 째 녹화](http://ryulib.tistory.com/428)
   * [실전 프로젝트 - 동영상 플레이어 만들기 #1](https://www.youtube.com/watch?v=XL-EZuAJQwA)
@@ -202,6 +203,7 @@ Vision
 * [Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3) image classification
 * **[Modern C++ for Computer Vision and Image Processing](http://www.ipb.uni-bonn.de/teaching/modern-cpp/)**
 * [zsc.github.io/megvii-pku-dl-course](https://zsc.github.io/megvii-pku-dl-course/)
+* [이미지로 이미지 검색하기](https://brunch.co.kr/@kakao-it/283)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)

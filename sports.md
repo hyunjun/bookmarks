@@ -9,6 +9,10 @@ Sports
   * [여자를 남자로 만든 '남성화 호르몬'..옛동독의 도핑범죄](https://news.v.daum.net/v/20180808103607417)
 * [발표 1: 스포츠에 관한 인지과학적 이해 - 동물적 감각은 어디에서 오는가](https://www.youtube.com/watch?v=evyW_ugzD7A)
 * [김인범의 Sports Paradox 15화 - Sports, IoT와 BigData를 더하다](http://blog.skcc.com/m/2498)
+* [디지털 사회로의 변화와 스포츠](https://brunch.co.kr/@kakao-it/287)
+* [스포츠 경기력 향상을 위한 AI 활용 방안](https://brunch.co.kr/@kakao-it/288)
+* [스포츠 경기 분석 전문가와 AI의 만남](https://brunch.co.kr/@kakao-it/289)
+* [로봇 심판과 판정 알고리즘의 의미있는 도전](https://brunch.co.kr/@kakao-it/290)
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)

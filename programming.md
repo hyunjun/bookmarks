@@ -28,6 +28,12 @@ Programming
 * [www.livecoding.tv/livestreams](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
+* Building a Content-Based Search Engine
+	* [Part I: Quantifying Similarity](http://www.deepideas.net/building-content-based-search-engine-quantifying-similarity/)
+  * [Part II: Extracting Feature Vectors](http://www.deepideas.net/building-content-based-search-engine-feature-extraction/)
+  * [Part III: Feature Signatures](http://www.deepideas.net/building-content-based-search-engine-feature-signatures/)
+  * [Part IV: Earth Mover’s Distance](http://www.deepideas.net/building-content-based-search-engine-earth-movers-distance/)
+	* [Part V: Signature Quadratic Form Distance](http://www.deepideas.net/building-content-based-search-engine-signature-quadratic-form-distance/)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
