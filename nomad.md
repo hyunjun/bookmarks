@@ -59,6 +59,7 @@ Nomad & Remote
 * [The top 12 international cities for software engineers](https://techbeacon.com/top-12-international-cities-software-engineers)
 * [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 * [Remote only](https://www.remoteonly.org/)
+* [Before Seeking Success As A Digital Nomad Build Your Business At Home](https://www.forbes.com/sites/kellyhoey/2018/10/04/before-seeking-success-as-a-digital-nomad-build-your-business-at-home/#5acb15c87604)
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

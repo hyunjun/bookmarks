@@ -4,6 +4,9 @@ Programmer
 * [흔하지 않은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 * [awesome-devblog.now.sh](https://awesome-devblog.now.sh/)
   * [awesome-devblog 개발 블로그 모음. 개발자 위키로 편집중](https://github.com/sarojaba/awesome-devblog)
+* [SHIPSTREAMS - A list of makers shipping live](https://shipstreams.com/)
+  * 인디 개발자들이 서비스 릴리즈를 위해 프로그래밍하는걸 스트리밍
+  * 해당 스트리머들을 모아놓고, 그들이 제작, 빌드하는 사이드 프로젝트를 간략하게 소개
 * [Programmers: Before you turn 40, get a plan B](http://improvingsoftware.com/2009/05/19/programmers-before-you-turn-40-get-a-plan-b/)
 * [How to increase your value as a developer](http://enterprisecraftsmanship.com/2015/01/17/how-to-increase-your-value-as-developerv/)
 * [TNF 10년, 블로그를 사랑한 물리학자 – 신정규 인터뷰](http://slownews.kr/39698)

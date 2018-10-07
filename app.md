@@ -26,6 +26,7 @@ App
 * [5 Free Software That Are Actually Great!  2018](https://www.youtube.com/watch?v=qSa2UPDH2yc)
 * [5 Free Software That Are Actually Great! 2 (2018)](https://www.youtube.com/watch?v=CG3uge3OomA)
 * [5 Free Software That Are Actually Great! 3 (2018)](https://www.youtube.com/watch?v=9-Sj_4495nQ)
+* [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)

@@ -477,6 +477,7 @@ Machine Learning
 * [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
 * [Machine Learning: how to go from Zero to Hero](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da)
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
+* [How to deliver on Machine Learning projects A guide to the ML Engineering Loop](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

@@ -348,6 +348,7 @@ R
 * [pqR - a pretty quick version of R](http://www.pqr-project.org/)
 * purrr
   * [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
+* [r2d3 - R Interface to D3 Visualizations](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)

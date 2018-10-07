@@ -14,6 +14,7 @@ Government
 * [공공데이터포털](https://www.data.go.kr)
 * **[공공데이터 수집 방법 모음](http://nbviewer.jupyter.org/gist/KevinSHNa/241047f159ed955d5efbb7a861cb891c)**
 * [공공데이터 수집 방법 모음](http://nbviewer.jupyter.org/format/slides/gist/DrKevin22/241047f159ed955d5efbb7a861cb891c#/)
+* [Swift에서 공공데이터 포털 오픈 API를 사용하는 방법](https://www.seongmin.org/blog/swift/public-data-usage)
 * [소상공인 상가업소정보 오픈 API 수집 방법](http://nbviewer.jupyter.org/format/slides/gist/DrKevin22/82faa8276352f7a2a8ed7ade997966d1#/)
 * [세종문화회관 공연정보 수집하기](http://nbviewer.jupyter.org/format/slides/gist/DrKevin22/e0bef6f047fd64d15d11e07a22385d03#/)
 * [국가통계포털](http://kosis.kr/)

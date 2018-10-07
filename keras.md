@@ -159,6 +159,7 @@ Keras
 * [Google Colaboratory에서 Keras의 백엔드로서 MXNet을 설정하는 방법](https://gist.github.com/serithemage/ee86d2d9db762e522287cebfb540e35d)
 * [Predict Shakespeare with Cloud TPUs and Keras](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/shakespeare_with_tpu_and_keras.ipynb#scrollTo=E3V4V-Jxmuv3) colab에서 TPU 사용
 * **[tf.data examples for keras and estimator models](https://github.com/terryum/tf.data-for-keras-and-tensorflow-estimator/blob/master/README.md)**
+* **[딥러닝의 Hello World, Fashion-MNIST](https://tykimos.github.io/2018/09/30/Hello_Fashion_MNIST/)**
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

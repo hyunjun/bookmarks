@@ -1110,6 +1110,7 @@ Python
 * [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/)
 * [시나브로 Django 발표](https://www.slideshare.net/ssuseraaed82/django-73419113)
 * [Category: start-with-django-webframework](http://blog.hannal.com/category/start-with-django-webframework/)
+* [Django를 배우다, Django로 배우다](https://www.slideshare.net/perhapsspy/django-django-118564508)
 * [Using Gabbi and Hypothesis to Test Django APIs](http://wildfish.com/blog/2015/10/01/using-gabbi-and-hypothesis-test-django-apis/)
 * [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 * [테스트 초보의 테스트 삽질기 with django](http://blog.leop0ld.org/posts/newbie-tests-view-in-django/)
