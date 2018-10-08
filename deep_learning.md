@@ -658,6 +658,7 @@ Deep Learning
 * [Montréal.AI Academy : AI 101](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
 * [지도/비지도학습과 강화학습 풀이법](https://tykimos.github.io/2018/09/22/LearningMethod/)
 * [Graph Attention Networks](http://petar-v.com/GAT/)
+* [Deep Learning To Mobile](https://github.com/younatics/DeepLearningToMobile)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1188,6 +1189,7 @@ Deep Learning
   * [github.com/cthorey/CS231](https://github.com/cthorey/CS231) numpy만으로 작성
   * [Korean Subtitles for CS231N Spring 2017](https://github.com/insurgent92/CS231N_17_KOR_SUB)
   * [Assignments CS231N: Convolutional Neural Networks for Visual Recognition (2016 & 2017)](https://github.com/Curt-Park/cs231n_assignments)
+  * [딥러닝기반영상분석 (cs231n)](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)

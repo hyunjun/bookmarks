@@ -68,6 +68,7 @@ Android
 * [Google I/O 2018 for Android 소스를 공개합니다](https://developers-kr.googleblog.com/2018/09/google-releases-source-for-google-io.html)
 * [Firebase Dynamic Link로 사용자 유입시키기](http://gun0912.tistory.com/78)
 * [TaskKiller에 죽지 않는 서비스(Service) 만들기 2](http://ccdev.tistory.com/22)
+* [가상화폐 관련 앱을 개발하다](https://medium.com/@joongwon/%EA%B0%80%EC%83%81%ED%99%94%ED%8F%90-%EA%B1%B0%EB%9E%98%EC%86%8C-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8B%A4-e0f80dadc2c9)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)

@@ -372,6 +372,8 @@ Scala
 * test
   * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
 	* [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
+    * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=l0wIQRslnh0)
+    * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=jVaTsED60qo)
   * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
   * [ScalaTest](http://www.scalatest.org/)
     * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)

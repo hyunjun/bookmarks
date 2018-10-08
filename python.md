@@ -1256,6 +1256,8 @@ Python
 * [Django 2.1 Tutorial-Build a Travel Blog with Goorm IDE and Bootstrap 4(Unspoken version)](https://www.youtube.com/watch?v=ozSepodKOyg)
 * [django 쿼리셋 수정을 통한 웹서비스 성능 개선 - select_related, prefetch_related](https://wayhome25.github.io/django/2017/06/20/selected_related_prefetch_related/)
 * [(번역) Best practices working with Django models in Python](https://wayhome25.github.io/django/2018/09/29/Best-practices-working-with-Django-models-in-Python/)
+* [snaker - django url shortener](https://www.slideshare.net/HosukShin1/snaker-django-url-shortener)
+* [장고의 배신(주니어 개발자의 삽질기)](https://www.slideshare.net/EunhyangKim2/ss-118560530)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)

@@ -106,6 +106,12 @@ NoSQL
 * [CockroachDB beta-20160829](https://jepsen.io/analyses/cockroachdb-beta-20160829) Google Spanner와 유사한 디자인이 목표
 * [Handling Contention with CockroachDB](https://medium.com/learning-with-diagrams/handling-contention-with-cockroachdb-aee872771412)
   * Multiversion concurrency, 트랜잭션 큐(동시 트랜잭션에 대한 추가 기능)을 다이어그램을 통해 설명
+* **CockroachDB 맛보기**
+  * [CockroachDB 안녕?](https://www.sauru.so/blog/say-hello-to-cockroachdb/)
+  * [CockroachDB 클러스터 구성하기](https://www.sauru.so/blog/setup-cockroach-cluster/)
+  * [CockroachDB Architecture](https://www.sauru.so/blog/architecture-of-cockroachdb/)
+  * [CockroachDB 클러스터 설치 스크립트](https://www.sauru.so/blog/cockroach-cluster-setup-script/)
+  * [CockroachDB 클러스터 가용성 시험](https://www.sauru.so/blog/availablility-of-cockroach/)
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)

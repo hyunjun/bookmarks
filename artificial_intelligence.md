@@ -111,3 +111,4 @@ Artificial Intelligence
   * [문자인식 (1/5)](https://tariat.tistory.com/353)
   * [AI이미지 추출 (2/5)](https://tariat.tistory.com/360)
   * [사진 변환 (3/5)](https://tariat.tistory.com/365)
+  * [번역과 텍스트음성변환하기(4/4)](https://tariat.tistory.com/406)

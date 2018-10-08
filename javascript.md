@@ -643,6 +643,7 @@ Javascript
 * [Crypton is a framework for creating zero-knowledge applications with JavaScript](https://github.com/SpiderOak/crypton)
 * [CubbyFlow - voxel-based fluid simulation engine for computer games based on Jet framework](https://github.com/utilForever/CubbyFlow)
 * [dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula)
+* [dygraphs - a fast, flexible open source JavaScript charting library](http://dygraphs.com/)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [easy-map - Render a map on browser easily](https://github.com/wonism/easy-map)

@@ -235,6 +235,7 @@ Java
 * [IntelliJ 사용법](https://github.com/cheese10yun/IntelliJ)
 * [IntelliJ 사용팁](https://www.popit.kr/intellij-%EC%82%AC%EC%9A%A9%ED%8C%81/)
 * [Eclipse의 Workspace와 IntelliJ의 Project](https://jojoldu.tistory.com/334)
+* [IntelliJ 의존성 목록 확인 및 자동 완성](https://jojoldu.tistory.com/344)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -424,6 +425,7 @@ Java
   * [KubeCon 2018 Demo - Jenkins X overview at KubeCon Copenhagen](https://jenkins-x.io/demos/kubecon-2018/)
 	* [Kubernetes 클러스터에서 Jenkins X 사용하기](https://blog.outsider.ne.kr/1395)
   * [What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=LFDrDnKPOTg)
+	* [Jenkins에 머티리얼 테마 적용하기](https://jojoldu.tistory.com/343)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
 	* [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
@@ -601,6 +603,7 @@ Java
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [Do not fall into Oracle's Java 11 trap](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
+	* [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 

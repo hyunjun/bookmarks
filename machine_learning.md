@@ -512,8 +512,9 @@ Machine Learning
 * [Subsets of Machine Learning Cookbook](https://www.gitbook.com/book/bigaidream/subsets_ml_cookbook/)
 * [50 external machine learning / data science resources and articles](http://www.datasciencecentral.com/profiles/blogs/50-external-machine-learning-data-science-resources-and-articles)
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
-* [Model-Based Machine Learning](http://mbmlbook.com)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
+* [Model-Based Machine Learning](http://mbmlbook.com)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
   * [Pattern Recognition and Machine Learning](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/PRML/prml-chap2.ipynb)
 * Python
@@ -751,6 +752,7 @@ Machine Learning
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 * [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
 * [머신러닝 괜찮은 강의들 리스트 1](https://blog.pabii.co/machine-learning-course-lists-1/)
+* [Machine Learning Summer School 2017 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 
 # Python
 * **[Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning](https://github.com/eriklindernoren/ML-From-Scratch)**

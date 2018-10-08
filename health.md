@@ -25,3 +25,4 @@ Health
 * [하루 종일 책상에 앉아있는 사람을 위한 요가 6(GIF)](http://www.huffingtonpost.kr/2015/07/09/story_n_7758924.html)
 * [폼롤러 120% 활용 운동법](http://media.daum.net/life/outdoor/photo/newsview?newsId=20161007174603251)
 * [맨몸운동](http://magazine.channel.daum.net/p/tag/%EB%A7%A8%EB%AA%B8%EC%9A%B4%EB%8F%99?category=jamiet)
+* [러닝머신보다 효과 좋은 마운틴 클라이머 운동](https://brunch.co.kr/@tenbody/1419)

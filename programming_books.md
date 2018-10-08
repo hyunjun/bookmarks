@@ -40,6 +40,7 @@ Programming Books
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
+	* [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
 * (NOT YET) 데브옵스 2.0 툴킷
 	* 2018.09 한라
 * (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
@@ -51,6 +52,7 @@ Programming Books
 	* 2018.10 한라
 * (NOT YET) [JVM 언어 입문자바, 스칼라, 클로저, 코틀린, 그루비 체험하기](http://book.daum.net/detail/book.do?bookid=BOK00035755217YE)
 	* 2018.10 한라
+* (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
 
 # Agile Scrum
 
@@ -733,6 +735,7 @@ Programming Books
   * 한라 005.73-다66ㅈ
   * [github.com/yudong80/ThinkDataStructures](https://github.com/yudong80/ThinkDataStructures)
   * 얇아서 보기 편함. 특이하게 레디스를 이용하는 챕터가 있음. 그 외에는 기본적인 자료구조에 대한 설명 및 구현
+* (NOT YET) [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](http://jpub.tistory.com/845)
 
 # JavaScript
 
@@ -1112,6 +1115,7 @@ Programming Books
   * ★★★★☆ 목차만 봐도 흔히 찾기 어려운 책이라는 걸 알 수 있다. 환경설정 파일에 대한 설명부터, 하드웨어, 협업, 학습을 효율적으로 하기 위한 방법 등 정말 실용적인 책
 * 그것이 R고 싶다
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EA%B7%B8%EA%B2%83%EC%9D%B4-r%EA%B3%A0-%EC%8B%B6%EB%8B%A4-f8671046746)
+* 처음 시작하는 R 데이터 분석
 
 # Scala
 

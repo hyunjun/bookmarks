@@ -368,6 +368,7 @@ R
 * [RmecabKo](https://github.com/junhewk/RmecabKo)
 * RMySQL
   * [AWS RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+* [rMouse - 업무자동화 R로 마우스를 조작하려면 rMouse](https://mrchypark.github.io/post/%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-r%EB%A1%9C-%EB%A7%88%EC%9A%B0%EC%8A%A4%EB%A5%BC-%EC%A1%B0%EC%9E%91%ED%95%98%EB%A0%A4%EB%A9%B4-rmouse/)
 * [rnaturalearth - an R package to hold and facilitate interaction with natural earth map data](https://github.com/ropenscilabs/rnaturalearth)
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
   * [R과 Python을 같이 써 보자 – RPy2(1)](https://pabii.co/r-python-rpy2-1/)
@@ -388,6 +389,7 @@ R
   * [Rmarkdown + Shiny + flexdashboard package 의 조합을 통한 대쉬보드 만들기 (네이버 연관검색어를 예제로)](https://lovetoken.github.io/r/2018/03/19/flexdashboard.html)
   * [shinyHeatmaply – a shiny app for creating interactive cluster heatmaps](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/)
   * [shinymaterial](https://ericrayanderson.github.io/shinymaterial/)
+  * [shiny_lecture](https://github.com/jypstory/shiny_lecture)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)

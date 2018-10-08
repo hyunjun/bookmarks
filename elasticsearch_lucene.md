@@ -396,6 +396,7 @@ ElasticSearch - Lucene
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
+* [movie-finder 오픈소스 검색엔진인 Elasticsearch 를 활용하여 '영화'를 검색을 하는 Vue.js 프로젝트](https://github.com/heejunghwang/movie-finder)
 * NEST
   * [NEST and Elasticsearch.Net 6.0: Now GA!](https://www.elastic.co/blog/nest-elasticsearch-net-6-0-ga)
     * NEST는 하이 레벨, Elasticsearch.Net은 로우 레벨 라이브러리
