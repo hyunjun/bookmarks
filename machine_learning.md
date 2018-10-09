@@ -648,6 +648,9 @@ Machine Learning
 * [Deep Learning Practitioner의 캐글 2회 참가기](https://www.youtube.com/watch?v=zNzAAStE66o)
 * [Pycon korea 2018 kaggle tutorial(kaggle break)](https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break)
 * [1.Titanic_EDA_And_Baseline_Model](https://www.kaggle.com/tmheo74/1-titanic-eda-and-baseline-model)
+* [3.Titanic_Model_Tuning_Final](https://www.kaggle.com/tmheo74/3-titanic-model-tuning-final)
+* [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
+* [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
