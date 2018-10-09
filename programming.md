@@ -343,6 +343,7 @@ Programming
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
+* [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -700,6 +701,7 @@ Programming
 * [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
 * [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
 * [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
+* [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)

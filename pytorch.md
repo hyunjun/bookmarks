@@ -174,3 +174,4 @@ PyTorch
 * [welcome_tutorials - Various tutorials given for welcoming new students at MILA](https://github.com/mila-udem/welcome_tutorials)
 * [Deep Learning with PyTorch: A 60 Minute Blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * [PYTORCH 머신러닝 튜토리얼 강의](http://wingnim.tistory.com/category/Programming%20Project/Pytorch%20Tutorials)
+* [PyTorch KR Tutorial Competition 2018](https://github.com/PyTorchKR/Tutorial-Competition-2018)
