@@ -647,6 +647,7 @@ Machine Learning
 * [How I got in the top 1 % on Kaggle](https://towardsdatascience.com/how-i-got-in-the-top-1-on-kaggle-79ddd7c07f1c)
 * [Deep Learning Practitioner의 캐글 2회 참가기](https://www.youtube.com/watch?v=zNzAAStE66o)
 * [Pycon korea 2018 kaggle tutorial(kaggle break)](https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break)
+* [1.Titanic_EDA_And_Baseline_Model](https://www.kaggle.com/tmheo74/1-titanic-eda-and-baseline-model)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -901,6 +902,7 @@ Machine Learning
 * [Detection of Leaf and Weed using SVM | Machine Learning | Ruchi Mehra](https://www.youtube.com/watch?v=X0WtzZun-4s)
 * [ThunderSVM: A Fast SVM Library on GPUs and CPUs](https://github.com/zeyiwen/thundersvm)
 * [초짜 대학원생의 입장에서 이해하는 Support Vector Machine (1)](https://jaejunyoo.blogspot.com/2018/01/support-vector-machine-1.html)
+* [서포트벡터머신Support Vector Machine을 위한 비선형 계획 문제의 쌍대정리](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/svm/duality.ipynb)
 
 # Theano
 * [Tutorial](http://deeplearning.net/software/theano/tutorial/)

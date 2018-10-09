@@ -1,5 +1,8 @@
 Shell
 =====
+* [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
+* [Bash 입문자를 위한 핵심 요약 정리 (Shell Script)](https://blog.gaerae.com/2015/01/bash-hello-world.html)
+* [Bash shell script 가이드](https://mug896.github.io/bash-shell)
 * [Bash Koans](https://github.com/marcinbunsch/bash_koans)
 * [Full vim for readline (bash, gdb, python, etc)](https://github.com/ardagnir/athame)
 * [Code Inflation](https://www.computer.org/cms/Computer.org/ComputingNow/issues/2015/04/mso2015020010.pdf)

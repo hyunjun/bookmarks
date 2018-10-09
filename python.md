@@ -1160,6 +1160,7 @@ Python
 * [DjangoORM에서 SQL Driver 지정해 Query & Pandas DataFrame 얻어내기](https://beomi.github.io/2018/02/19/django_orm_for_multiple_db_with_sqldriver/)
 * **[장고 ORM 요리책](https://django-orm-cookbook-ko.readthedocs.io)**
 	* [장고 ORM 요리책](https://github.com/8percent/django-orm-cookbook-ko)
+  * [Django ORM cookbook 번역 후기](https://8percent.github.io/2018-10-07/Django-ORM-cookbook-translate/) read the docs, sphinx
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)

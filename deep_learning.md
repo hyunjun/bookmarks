@@ -659,6 +659,7 @@ Deep Learning
 * [지도/비지도학습과 강화학습 풀이법](https://tykimos.github.io/2018/09/22/LearningMethod/)
 * [Graph Attention Networks](http://petar-v.com/GAT/)
 * [Deep Learning To Mobile](https://github.com/younatics/DeepLearningToMobile)
+* [Deep learning made easier with transfer learning](https://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

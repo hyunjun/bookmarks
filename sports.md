@@ -97,6 +97,8 @@ Sports
 * [Pitch Analysis 1. Exploring Velocity - Oh, SeungHwan (2017)](http://rpubs.com/Evan_Jung/283923)
 * [These days in baseball, every batter is trying to find an angle](https://www.washingtonpost.com/graphics/sports/mlb-launch-angles-story/)
 * [NC 다이노스 데이터 애널리스트 인터뷰 바로가기](https://avengerschool.com/courses/sports1)
+* [류현진 선발경기와 스탯캐스트 그리고 인공지능](http://techneedle.com/archives/36383)
+* [인천SK 야구 수학 토크콘서트, 두 마리 토끼를 잡다 고동현의 1인치](https://sports.v.daum.net/v/20180913172649154)
 
 # Basketball
 * **[Basketball Terms- Terminology](https://www.coachesclipboard.net/BasketballTerminology.html)** diagram으로 court위 명칭 설명

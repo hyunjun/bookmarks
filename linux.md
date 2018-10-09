@@ -115,6 +115,7 @@ Linux
   * [One Time Task Scheduling using `at` Command in Linux](http://tecadmin.net/one-time-task-scheduling-using-at-commad-in-linux/)
   * [Understand at, atq, atrm, batch Commands using 9 Examples](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/)
 * `awk`
+  * [AWK script 가이드](https://mug896.github.io/awk-script)
   * `$0` means whole line
   * sum of numbers in file `awk '{ sum += $1 } END { print sum }' [file name]`
   * [Merging Frequencies in a File](http://www.unix.com/shell-programming-and-scripting/156614-merging-frequencies-file.html)
@@ -258,6 +259,7 @@ Linux
 * `rm`
   * [How to Recover a Deleted File in Linux](https://www-tecmint-com.cdn.ampproject.org/c/s/www.tecmint.com/recover-deleted-file-in-linux/amp/)
 * `sed`
+  * [Sed stream editor 가이드](https://mug896.github.io/sed-stream-editor)
   * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
     * `sed -e 's/^[ \t]*//'` remove tab & space at the start of the line
     * `sed -e 's/[ \t]*$//'` remove tab & space at the end of the line

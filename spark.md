@@ -324,6 +324,8 @@
 * [What’s New for Apache Spark on Kubernetes in the Upcoming Apache Spark 2.4 Release](https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html)
 	* 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
 
+# [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
+
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
 * [Apache Spark: Examples Of Transformations](https://www.supergloo.com/fieldnotes/apache-spark-examples-of-transformations/)
