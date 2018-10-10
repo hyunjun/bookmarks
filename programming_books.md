@@ -1058,6 +1058,7 @@ Programming Books
 	* 2018.08 탐라
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
 	* 한라
+* (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
 
 # R
 
@@ -1117,6 +1118,7 @@ Programming Books
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EA%B7%B8%EA%B2%83%EC%9D%B4-r%EA%B3%A0-%EC%8B%B6%EB%8B%A4-f8671046746)
 * 처음 시작하는 R 데이터 분석
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-r-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-ea6a8525fde2)
+* (NOT YET) [Do it! 쉽게 배우는 R 데이터 분석](http://www.easyspub.co.kr/20_Menu/BookView/A001/138/PUB)
 
 # Scala
 
