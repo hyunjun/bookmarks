@@ -478,6 +478,8 @@ Machine Learning
 * [Machine Learning: how to go from Zero to Hero](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da)
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
 * [How to deliver on Machine Learning projects A guide to the ML Engineering Loop](https://blog.insightdatascience.com/how-to-deliver-on-machine-learning-projects-c8d82ce642b0)
+* [Analyzing verbatim comments in spreadsheets using machine learning](https://blog.paralleldots.com/smartreader/analyzing-verbatim-comments-on-spreadsheets-using-machine-learning/)
+* [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -865,6 +867,7 @@ Machine Learning
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * [Essentials of Machine Learning Algorithms (with Python and R Codes)](http://www.analyticsvidhya.com/blog/2015/08/common-machine-learning-algorithms/)
+* [Image Manipulation for Machine Learning in R](https://heartbeat.fritz.ai/image-manipulation-for-machine-learning-in-r-ff2b92069fef)
 
 # Random Forests
 * [glouppe/phd-thesis - Repository of my thesis "Understanding Random Forests"](https://github.com/glouppe/phd-thesis)

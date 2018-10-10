@@ -178,6 +178,7 @@ Vision
   * [윈도우즈에서 yolo v3 돌려보기 2/2](http://jusths.tistory.com/33)
   * [커스텀 데이터 셋으로 Yolo 써 보기 1](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset)
   * [커스텀 데이터 셋으로 Yolo 써 보기 2](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset-2)
+  * [Object detection in just 3 lines of R code using Tiny YOLO](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)

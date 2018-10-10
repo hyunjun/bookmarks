@@ -159,6 +159,8 @@ Apache
   * 이 시스템은 Apache Flink와 Apache Kafka 기반으로 하는 셀프 서비스 인프라로 구축
   * Flink를 사용하는 이유와 구현과 운영에 대해 설명
 * [State TTL for Apache Flink: How to Limit the Lifetime of State](https://data-artisans.com/blog/state-ttl-for-apache-flink-how-to-limit-the-lifetime-of-state) Flink 1.6.0 TTL 지원
+* [Flink Forward Berlin 2018: Dongwon Kim - "Real-time driving score service using Flink"](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2018-dongwon-kim-realtime-driving-score-service-using-flink?ref=https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
+	* [Real-time driving score service using Flink](https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
@@ -664,4 +666,6 @@ Apache
   * Apache ZooKeeper의 네 글자 단어 지원(4lw)에 대한 간략한 내용
   * 이러한 관리 명령의 경우 정상적인 ZK 포트를 통한 연결과 같이 좋은 보안 솔루션이 없음
   * 다른 방법으로, ZooKeeper는 JMX를 지원하고 3.5.x 릴리스에서는 별도의 포트에 AdminServer를 제공
-* [HashiCorp사의 Consul, Consul Template 소개](http://www.giljae.com/2017/07/hashicorp-consul-consul-template_4.html)
+* [consul.io](https://www.consul.io/)
+	* [HashiCorp사의 Consul, Consul Template 소개](https://medium.com/giljae/hashicorp%EC%82%AC%EC%9D%98-consul-consul-template-%EC%86%8C%EA%B0%9C-cc0837533fbc)
+	* [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례](http://woowabros.github.io/tools/2018/10/08/location-service-with-rcs.html)

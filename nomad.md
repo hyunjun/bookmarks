@@ -163,6 +163,7 @@ Nomad & Remote
 * [brunch.co.kr/@hurrytor](https://brunch.co.kr/@hurrytor)
 
 # Germany
+* [awesome-berlin](https://marlonbernardes.github.io/awesome-berlin/en/)
 * [berlinreport.com](http://berlinreport.com/)
 * [sanoi.iamg.kr](http://sanoi.iamg.kr/)
   * [독일구직](http://sanoi.iamg.kr/?tag=%EB%8F%85%EC%9D%BC%EA%B5%AC%EC%A7%81)

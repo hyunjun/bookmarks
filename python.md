@@ -1626,6 +1626,7 @@ Python
 * [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
   * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
 * [Jupyter notebook HTML output에 템플릿 적용하기](http://ohgyun.com/772)
+* [JupyterCon in New York 2018](https://www.youtube.com/playlist?list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
