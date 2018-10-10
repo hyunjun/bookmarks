@@ -117,6 +117,7 @@ Sports
 * [NBA 한국인 최초 데이터 전력분석관 인터뷰 바로가기](https://avengerschool.com/courses/sports2)
 * [샌안토니오는 어떻게 20년간 강팀일 수 있을까](https://brunch.co.kr/@lunarshore/277)
 * [닉 칼리슨의 “NBA에서 살아남는 방법](https://44fullcourtpress.wordpress.com/2012/12/11/%EB%B2%88%EC%97%AD-%EB%8B%89-%EC%B9%BC%EB%A6%AC%EC%8A%A8%EC%9D%98-nba%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+* [KBL 레퍼런스](http://bookyoon.dothome.co.kr/g5/)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
