@@ -324,6 +324,7 @@ Interview
 
 # Resume
 * [해외 리쿠르터의 이목을 사로잡는 링크드인 작성법](http://www.upfly.me/index.php/2016/10/16/howtolinkedin/)
+* [한국인들이 저지르는 링크드인 실수 TOP 5](https://www.youtube.com/watch?v=G7jPNzx4oDU)
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.VytJ4RWLSZ0)
 * [이력서 페이지 개발기, Resume](http://hsol.tistory.com/927)
   * [hsol.github.io](https://github.com/hsol/hsol.github.io)

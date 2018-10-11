@@ -349,6 +349,7 @@ Docker
     * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
   * [docker run 과 docker 네트워크 설정, 컨테이너 라이프사이클](http://www.leafcats.com/191)
 * stop `sudo docker stop [container id]`
+* [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/)
 
 # CI Continuous Integration
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)

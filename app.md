@@ -354,9 +354,9 @@ App
 * [mac 기본 앱 잘 쓰기 - 미리보기앱](https://steemit.com/kr/@ggopro/mac)
 * [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#applications)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
+* Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [appcleaner](https://freemacsoft.net/appcleaner/)
-* Alfred
-  * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
+* AppPolice [docker kubernetes 활성화시 CPU 점유율 문제](http://mcchae.egloos.com/11310690)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
 * [edgehigh.wordpress.com](https://edgehigh.wordpress.com/)
 * [cactusformac.com](http://cactusformac.com/)

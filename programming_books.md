@@ -104,6 +104,7 @@ Programming Books
     * + 그림을 자세히 그려놓아서 이해하기 쉽다
     * - 코드는 없다
     * - 저자가 암호를 좋아하는 건지 기본 알고리즘 - 암호화 알고리즘 - k means - 기타(유클리드, 페이지 랭크, 하노이의 탑)등 내용이 좀 산만하고 어떤 기준으로 선정했는지를 모르겠다
+* (NOT YET) [서평: 그들은 알고리즘을 알았을까? ](https://blog.gaerae.com/2018/10/once-upon-an-algorithm.html)
 
 # Amazon AWS
 
