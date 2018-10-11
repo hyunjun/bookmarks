@@ -1960,6 +1960,7 @@ CVPR2016)
   * [youtube](https://www.youtube.com/watch?v=zt06BkGbCb8)
 * **[Deep Reinforcement Learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course/)**
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153)
+* **[강화학습(Reinforcement Learning)으로 접근하는 E-commerce Dynamic Pricing 논문리뷰](https://hoondongkim.blogspot.com/2018/10/reinforcement-learning-e-commerce.html)**
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

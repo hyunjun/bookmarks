@@ -245,6 +245,7 @@ NLP
 * **[Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)**
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)
 * [딥러닝이 탐구하지 못한 언어와 5가지 태스크](https://brunch.co.kr/@kakao-it/295)
+* [A Review of the Neural History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
