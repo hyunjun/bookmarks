@@ -827,6 +827,7 @@ Programming
 * [Top 20 Coding Bootcamps](http://www.collegestartup.org/2015/07/21/top-20-coding-bootcamps/)
 * [MOOC](http://www.bloter.net/archives/236871)
 * [프랑스 파리 에꼴42 방문기](https://blog.naver.com/rmazinga/221359914866)
+* [école 42 탐방기](https://medium.com/@codesquad_yoda/%C3%A9cole-42-%ED%83%90%EB%B0%A9%EA%B8%B0-75e819cbcc85)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
