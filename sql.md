@@ -135,6 +135,7 @@ SQL
     * python code with MySQLdb or mysqlclient; `cursor.execute('SET GLOBAL max_allowed_packet=67108864', ())` root 권한이 필요해서 안될 듯
   * [FULLTEXT 인덱스와 일반 인덱스 성능 차이](http://ohgyun.com/766)
   * [max_execution_time 설정하기](http://ohgyun.com/767)
+  * [Online Alter에도 헛점은 있더구나 – gdb, mysqld-debug 활용 사례](http://gywn.net/2018/10/online-alter-for-varchar/)
 * [DATABASE2 - MySQL](https://opentutorials.org/course/3161)
 * [Node.js - MySQL](https://opentutorials.org/course/3347)
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)

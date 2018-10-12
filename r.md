@@ -332,7 +332,12 @@ R
   * [Windows에서 rJava 스트레스 없이 설치하기](https://mrchypark.github.io/post/rtips-windows%EC%97%90%EC%84%9C-rjava-%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-%EC%97%86%EC%9D%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
-* [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
+* [KoNLP](https://github.com/haven-jeon/KoNLP)
+  * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
+  * [KoNLP를 이용한 한국어 형태소 분석](https://brunch.co.kr/@mapthecity/9)
+  * [KoNLP 패키지에서 에러가 날 때](http://lightblog.tistory.com/127)
+  * [한글 언어 자원과 R: KoNLP 개선과 활용](https://www.slideshare.net/r-kor/r-konlp)
+  * [텍스트마이닝 - R을 활용한 웹 크롤링 및 단어 연관 분석 (KoNLP) :: Data 쿡북](http://datacookbook.kr/17)
 * magick
   * [Using Magick with RMarkdown and Shiny](https://www.r-bloggers.com/using-magick-with-rmarkdown-and-shiny/)
 * miniCRAN

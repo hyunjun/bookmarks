@@ -1586,6 +1586,7 @@ Deep Learning
     * [A Way to Benchmark Your Deep Learning Framework On-premise](https://medium.com/apache-mxnet/a-way-to-benchmark-your-deep-learning-framework-on-premise-4f7a0f475726)
   * [Relation Networks for Visual Question Answering using MXNet Gluon](https://medium.com/apache-mxnet/relation-networks-for-visual-question-answering-using-mxnet-gluon-f029fde8f863)
   * [Sentiment Analysis via Self-Attention with MXNet Gluon](https://medium.com/apache-mxnet/sentiment-analysis-via-self-attention-with-mxnet-gluon-dc774d38ba69)
+  * [MXNet 초보자를 위한 Gluon 한 시간에 뽀개기](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
