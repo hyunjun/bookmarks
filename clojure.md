@@ -399,6 +399,7 @@ Clojure
   * [Clojure 강좌 01 - Cursive 설정](https://www.youtube.com/watch?v=ePzC0J1ch-g)
   * [Clojure 강좌 02 - Cursive에서 REPL 사용하기](https://www.youtube.com/watch?v=KKMwmTp0m6c)
   * [Clojure 강좌 05 - Cursive에서 Paredit 사용하기](https://www.youtube.com/watch?v=znCEr9V9s4E)
+  * [Cursive local REPL 에서 UnsupportedClassVersionError 에러가 날 경우](https://gist.github.com/cheolhee/7bd80e9305833e5e7d3d53faca517790)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
 * [datawalk](https://github.com/eggsyntax/datawalk) REPL에서 데이터 확인

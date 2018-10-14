@@ -58,6 +58,7 @@ Interview
 * [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
 * **[How not to bomb your offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)** salary negotiation
 * [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
+* [SOFTWARE ENGINEER SALARY DATA](https://triplebyte.com/software-engineer-salary?ref=fb_rem_jun18_cont_salary1)
 * [스타벅스 광화문점의 매출은 얼마나 될까: 면접관은 왜 정답이 없는 질문을 던지는가?](http://ppss.kr/archives/31509)
 * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 * [How I Got & Lost a VC Job Offer in 72 Hours](https://www.linkedin.com/pulse/how-i-got-lost-vc-job-offer-72-hours-omar-hmaissy)

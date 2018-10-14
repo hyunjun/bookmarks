@@ -1259,6 +1259,7 @@ Python
 * [(번역) Best practices working with Django models in Python](https://wayhome25.github.io/django/2018/09/29/Best-practices-working-with-Django-models-in-Python/)
 * [snaker - django url shortener](https://www.slideshare.net/HosukShin1/snaker-django-url-shortener)
 * [장고의 배신(주니어 개발자의 삽질기)](https://www.slideshare.net/EunhyangKim2/ss-118560530)
+* [Django, Clean Architecture 연구하기](https://medium.com/@erish/python-django-clean-architecture-%EC%97%B0%EA%B5%AC%ED%95%98%EA%B8%B0-591d7a555059)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -2720,13 +2721,22 @@ Python
 # Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
-* [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
 * [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
 * [Automated Tests in Python](https://powerfulpython.com/blog/automated-tests-types-for-python/)
 * [python testing](http://pythontesting.net/)
-* [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
+* [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
+  * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
+  * [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
+  * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
+* property based testing
+  * [Introduction to property-based testing](https://alexwlchan.net/talks/hypothesis-intro/)
+  * [Property-based Testing from Scratch (in Python)](https://medium.com/russell-duhon/property-based-testing-from-scratch-in-python-bb1a8b56daf6)
+  * [5-minute intro to property-based testing in Python with hypothesis](https://www.slideshare.net/FranklinChen/handout-23548866)
+  * [Episode #67: Property-based Testing with Hypothesis](https://talkpython.fm/episodes/show/67/property-based-testing-with-hypothesis)
+  * [Hypothesis with David MacIver - Episode 52](https://pythonpodcast.com/episode-52-hypothesis-with-david-maciver/)
+  * [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)

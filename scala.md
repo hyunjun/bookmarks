@@ -193,6 +193,7 @@ Scala
 * [Tongfei Chen - Towards Typesafe Deep Learning in Scala](https://www.youtube.com/watch?v=PZLvi0qeP90)
   * [Nexus](https://github.com/ctongfei/nexus/blob/master/README.md)
 * **[practice - scala streams](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)**
+* [Python vs. Scala: a comparison of the basic commands](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -324,6 +325,7 @@ Scala
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
+  * [Scala로 DSL 흉내내보기](https://medium.com/@leeyh0216/scala%EB%A1%9C-dsl-%ED%9D%89%EB%82%B4%EB%82%B4%EB%B3%B4%EA%B8%B0-561c22869a62)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
 * future
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)

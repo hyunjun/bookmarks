@@ -85,6 +85,8 @@ Docker
     $ nc -v 127.0.0.1 56379
     info
     ```
+  * scala
+    * [How to Dockerise a Scala and Akka HTTP Application — the easy way](https://medium.freecodecamp.org/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa)
   * [sonarqube](https://hub.docker.com/_/sonarqube/)
     * [docker-sonarqube](https://github.com/SonarSource/docker-sonarqube/)
     * [Super quick Sonar/Postgres setup with docker](http://blog.anorakgirl.co.uk/2015/11/super-quick-sonarpostgres-setup-with-docker/)
@@ -203,7 +205,6 @@ Docker
 * [Introducing Docker 1.13](https://blog.docker.com/2017/01/whats-new-in-docker-1-13/)
 * [DevOps with Docker](https://readme.skplanet.com/?p=11449)
 * [도커 컨테이너 활용 사례 Codigm - 남 유석 개발팀장 :: AWS Container Day](http://www.slideshare.net/awskorea/codigm-aws-container-day)
-* [Docker and OOM(Out Of Memory) Killer](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)
 * [codeschool.com/courses/try-docker](https://www.codeschool.com/courses/try-docker)
 * [PART 5 OF DATA LAKE 3.0: YARN AND CONTAINERIZATION: SUPPORTING DOCKER AND BEYOND](https://hortonworks.com/blog/part-5-of-data-lake-3-0-yarn-and-containerization-supporting-docker-and-beyond/)
   * LinuxContainerExecutor를 통해 Docker 컨테이터를 실행하는 YARN에 대한 이야기
@@ -339,6 +340,8 @@ Docker
     * Use the same port for host & container
       * ... -p 12345:80 ...(X)    (e.g. On Dockerfile `EXPOST 80` for apache server)
       * ... -p 12345:12345 ...(O) (e.g. On Dockerfile `EXPOST 12345` even for apache server)
+  * `--oom-kill-disable=true`
+    * **[Docker and OOM(Out Of Memory) Killer](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)**
   * `-v /etc/localtime:/etc/localtime:ro` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
   * [practice](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-run-md)
   * [practice of `--env-file=... --rm -v <local dir>:<container dir> -p <host port>:<container port>`](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)

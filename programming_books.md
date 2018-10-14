@@ -192,7 +192,7 @@ Programming Books
 
 * 클로저 프로그래밍의 즐거움
   * 한라 005-포14ㅋ
-* 클로저 시작하기
+* [클로저 시작하기: 기본 개념과 7주 훈련 프로그램](http://www.insightbook.co.kr/10678)
   * 한라 005.135-마68ㅋ
   * clojure 1.8
   * 후반부의 7주 연습은 4clojure + clojure kata + heroku 웹 애플리케이션 배포 실습으로 구성

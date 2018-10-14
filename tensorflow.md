@@ -634,6 +634,7 @@ TensorFlow
 * [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)
 * [TensorFlow Probability](https://github.com/tensorflow/probability)
   * [Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
+  * [Industrial AI: BHGE’s Physics-based, Probabilistic Deep Learning Using TensorFlow Probability— Part 1 #소개](https://thepsygrammer.wordpress.com/2018/10/13/industrial-ai-bhges-physics-based-probabilistic-deep-learning-using-tensorflow-probability-part-1-%EC%86%8C%EA%B0%9C/)
 * TENSORFLOWSHARP
   * [01. 기본 함수 사용하기(콘솔 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp01.html)
   * [02. TENSORFLOW 모델 사용하기(WINFORM 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp02.html)

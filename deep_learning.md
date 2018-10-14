@@ -663,6 +663,8 @@ Deep Learning
 * [Deep Learning 위해서는 어떤 GPU를 사야 할까요?](http://tmmse.xyz/2016/05/02/gpureccom/)
 * [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
 	* [Xue Bin (Jason) Peng](https://xbpeng.github.io/)
+* [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
+  * [An implementation of the GLOW paper and simple normalizing flows lib](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-10-Normalizing-Flows-NICE-RealNVP-GLOW)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -855,6 +857,7 @@ Deep Learning
 * [tf-dann-py35 - Tensorflow-gpu (1.0.0.rc2, Window, py35) implementation of Domain Adversarial Neural Network](https://github.com/jaejun-yoo/tf-dann-py35)
 * [Domain Adaptation Methods](https://www.slideshare.net/samchoi7/domain-adaptation-methods)
   * [DOMAIN ADVERSARIAL NEURAL NETWORK](https://github.com/sjchoi86/advanced-tensorflow/blob/master/dann/dann_mnist.ipynb)
+* [초짜 대학원생의 입장에서 이해하는 Domain-Adversarial Training of Neural Networks (DANN) (1)](https://jaejunyoo.blogspot.com/2017/01/domain-adversarial-training-of-neural.html)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (1)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 Deep Convolutional Generative Adversarial Network (DCGAN) (2)](http://jaejunyoo.blogspot.com/2017/02/deep-convolutional-gan-dcgan-2.html)
 * [Dcgan](https://www.slideshare.net/BrianKim244/dcgan-77452250)
@@ -973,6 +976,8 @@ Deep Learning
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * [Generative Models Part 1: VAE,GAN,DCGAN](https://taeoh-kim.github.io/blog/generative-models-part-1-vaegandcgan/)
 * [Generative Models Part 2: ImprovedGAN,InfoGAN,EBGAN](https://taeoh-kim.github.io/blog/generative-models-part-2-improvedganinfoganebgan/)
+* [GAN(Generative Adversarial Network) Tour](https://github.com/jason9693/GAN)
+* [번역 From GAN to WGAN](https://github.com/yjucho1/articles/blob/master/fromGANtoWGAN/readme.md)
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
@@ -1760,6 +1765,7 @@ CVPR2016)
 * [MY FAVORITE DEEP LEARNING PAPERS OF 2017](http://cachestocaches.com/2017/12/favorite-deep-learning-2017/)
 * [A List Of Top 10 Deep Learning Papers, The 2018 Edition](https://www.techleer.com/articles/517-a-list-of-top-10-deep-learning-papers-the-2018-edition/)
 * [Deep Variational Bayes Filters (2017)](http://t-robotics.blogspot.kr/2018/05/35-deep-variational-bayes-filters-2017.html) VAE를 time series에 확장, 칼만필터에 딥러닝을 더함
+* [구글 Active QA 코드 공개 #논문소개](https://thepsygrammer.wordpress.com/2018/10/11/%EA%B5%AC%EA%B8%80-active-qa-%EC%BD%94%EB%93%9C-%EA%B3%B5%EA%B0%9C-%EB%85%BC%EB%AC%B8%EC%86%8C%EA%B0%9C/#more-70)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
