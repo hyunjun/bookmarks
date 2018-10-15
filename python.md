@@ -251,7 +251,7 @@ Python
 * [slack api 연동](http://blog.naver.com/pjt3591oo/221090833195)
 * [10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 * [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)
 * [예제로 배우는 Python 프로그래밍](http://pythonstudy.xyz/)
 * [K-MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)

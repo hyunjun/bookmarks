@@ -201,6 +201,7 @@ AWS
 * [7 ways to do containers on AWS](https://hackernoon.com/7-ways-to-do-containers-on-aws-532f812196f1)
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
   * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0)
+* [packer 활용 사례](https://andromedarabbit.net/packer-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80/)
 * [AWS에서 네트워크 공격 자동차단 하기](http://woowabros.github.io/security/2018/02/23/aws-auto-security1.html)
 * [AWS X-Ray 적용기](https://medium.com/@zeroweb.tech/aws-x-ray-%EC%A0%81%EC%9A%A9%EA%B8%B0-4e1c270c62fa)
 * [Creating a Python Development Environment on Amazon EC2](https://blog.jetbrains.com/pycharm/2017/12/creating-a-development-environment-on-amazon-ec2/)

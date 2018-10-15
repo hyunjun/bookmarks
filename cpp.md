@@ -193,6 +193,7 @@ C++
 * [C++17 Key Features Summary - Ver 2](https://www.slideshare.net/utilforever/c17-key-features-summary-ver-2)
 * [C++17 표준 라이브러리의 std::string_view 소개](http://occamsrazr.net/tt/316)
 * [C++17 표준 라이브러리의 std::optional 소개](http://occamsrazr.net/tt/317)
+* [std::optional: 언제, 어떻게, 그리고 왜](https://surpreem.com/stdoptional-%EC%96%B8%EC%A0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%99%9C/)
 * [C++17 표준 라이브러리의 std::any 소개](http://occamsrazr.net/tt/322)
 * [C++17 표준 라이브러리의 std::variant 소개](http://occamsrazr.net/tt/323)
 * [C++17 표준 라이브러리의 파일 시스템 라이브러리 소개](http://occamsrazr.net/tt/324)

@@ -397,6 +397,7 @@
   * [Spark SQL under the hood – part I](http://virtuslab.com/blog/spark-sql-hood-part-i/)
   * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types - Tutorial on how to do ETL on data from Nest and IoT Devices](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
   * [Querying our Data Lake in S3 using Zeppelin and Spark SQL](https://medium.com/@deniseschlesinger/querying-our-data-lake-in-s3-using-zeppelin-and-spark-sql-be50c3b7a613)
+  * [Learning Spark SQL with Zeppelin](https://hortonworks.com/tutorial/learning-spark-sql-with-zeppelin/)
 * Exploring Spark DataSource V2
   * [Part 1 : Limitations of Data Source V1 API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-1/)
   * [Part 2 : Anatomy of V2 Read API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-2/)

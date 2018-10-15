@@ -540,6 +540,16 @@ Apache
 # [Oozie](http://oozie.apache.org/)
 * [How-to: Use the New Apache Oozie Database Migration Tool](http://blog.cloudera.com/blog/2016/11/how-to-use-the-new-apache-oozie-database-migration-tool/)
 
+# Ozone
+* [Introducing Apache Hadoop Ozone: An Object Store for Apache Hadoop](https://ko.hortonworks.com/blog/introducing-apache-hadoop-ozone-object-store-apache-hadoop/)
+  * Apache Hadoop Ozone 소개. 하둡 저장소 레이어 최상단. 얼마 전 알파 버전 릴리즈
+  * 기본 컨셉
+    * SCALABLE
+      * Ozone is designed to scale to tens of billions of files and blocks and, in the future, even more
+      * Small files or huge number of datanodes are no longer a limitation
+    * CONSISTENT; Storage Layer uses RAFT protocol for consistentency
+    * CLOUD-NATIVE; Hadoop Ozone is designed to work well in containerized environments like YARN and Kubernetes
+
 # [Parquet](https://parquet.apache.org/)
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 * [Dremel made simple with Parquet](https://blog.twitter.com/2013/dremel-made-simple-with-parquet)
