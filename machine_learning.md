@@ -654,6 +654,7 @@ Machine Learning
 * [3.Titanic_Model_Tuning_Final](https://www.kaggle.com/tmheo74/3-titanic-model-tuning-final)
 * [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 * [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
+* [Work like a Pro with Pipelines and Feature Unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

@@ -239,6 +239,8 @@ Python
   * [Python Top 10 Articles for the Past Month (v.May 2017)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-may-2017-3b4d089920e4)
   * [Python Top 10 Articles for the Past Month (v.August 2017)](https://medium.mybridge.co/python-top-10-articles-v-august-2017-da9b8b888c14)
   * [Python Top 10 Articles for the Past Month](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-b6e72bb8af2a)
+* [10 Best Python Projects of 2018](https://www.youtube.com/watch?v=G0rQ7AEl5LA)
+  * Travelling Salesman Problem, System Design Primer, Facial Recognition, WhatWaf, SimpleCoin, Detectron, Vid2Vid, The Algorithms, Pip Env
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)

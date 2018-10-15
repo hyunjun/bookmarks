@@ -443,6 +443,7 @@
   * [HBaseTest.scala, hbase_inputformat.py](https://gist.github.com/hyunjun/d9d73c5fe8a7f7b17b28)
 * [I simple API to interact with HBase with Spark](https://github.com/tmalaska/SparkOnHBase)
 * [Apache Spark Comes to Apache HBase with HBase-Spark Module](http://blog.cloudera.com/blog/2015/08/apache-spark-comes-to-apache-hbase-with-hbase-spark-module/?elq=b8eb31d395f14250a2c264604a98ed0e&elqCampaignId=987&elqaid=2217&elqat=1&elqTrackId=8472a26fbfcb4511b1a86953234a7bed)
+* [HBase Integration with Spark | How to Integrate HBase with Spark | Spark Integration with HBase](https://www.youtube.com/watch?v=gGwB0kCcdu0)
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 
@@ -678,6 +679,10 @@
 * [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
   * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
 * [Spark SQL: Another 16x Faster After Tungsten](https://databricks.com/session/spark-sql-another-16x-faster-after-tungsten)
+* [Windowing Functions in Spark SQL Part 1 | Lead and Lag Functions | Windowing Functions Tutorial](https://www.youtube.com/watch?v=MViPRjaqfaA)
+* [Windowing Functions in Spark SQL Part 2 | First Value & Last Value Functions | Window Functions](https://www.youtube.com/watch?v=tsQ2oQieBGY)
+* [Windowing Functions in Spark SQL Part 3 | Aggregation Functions | Windowing Functions Tutorial](https://www.youtube.com/watch?v=pNEU3SkfyAw)
+* [Windowing Functions in Spark SQL Part 4 | Row_Number, Rank and Dense_Rank in SQL](https://www.youtube.com/watch?v=hoOwDUrodhM)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)

@@ -141,6 +141,7 @@ Algorithm
 * [거니와 함께 배우는 알고리즘 체널, ALGOTOGETHER 체널에 오신것을 환영합니다!](https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA)
 * [A Short Summary of Smoothing Algorithms](https://opendatascience.com/a-short-summary-of-smoothing-algorithms/)
 * [Parse Tree](http://interactivepython.org/runestone/static/pythonds/Trees/ParseTree.html)
+* **[The Algorithms Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)**
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

@@ -49,3 +49,5 @@ Government
 * [지진해일 대피소 - crosstalk](https://statkclee.github.io/viz/viz-earthquake-shelter.html)
 * [공공데이터, 현재 우리는?](https://www.slideshare.net/onlyjiny/ss-86835970)
 * [Data Set (국내)](http://www.kucomputationalthink.org/index.php/6-4-data-set-domestic/)
+* [기억해두면 유용한 통계지표 사이트 목록](https://kwarehouse.blogspot.com/2018/09/blog-post_7.html)
+  * [기억해두면 유용한 통계지표 사이트 목록](https://1boon.daum.net/ppss/5bc438b56a8e51000127dcab)
