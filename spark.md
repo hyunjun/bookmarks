@@ -75,7 +75,7 @@
 * [Spark은 왜 이렇게 유명해지고 있을까?](http://www.slideshare.net/KSLUG/ss-47355270)
 * [Analytics With Apache Spark Is Coming](http://www.vidyasource.com/blog/Data/Hadoop/Analytics/Programming/Scala/Java/Python/Architecture/2015/04/22/analytics-with-apache-spark-is-coming)
 * [Interactive Analytics using Apache Spark](http://www.slideshare.net/differentsachin/interactive-analytics-using-apache-spark)
-* [bicdata]()
+* bicdata
   * 고급 분석을 '현실'로 만드는 스파크 -> 머신런닝 알고리즘이 포함 있지만, 고급분석가의 관점으로는 기초적인 알고리즘만 포함
   * 모든 것을 더 편하게 만들어주는 스파크 -> M/R 형식의 프로그램은 많이 편해짐. MPI 방식은 지원하지 않음
   * 하나 이상의 언어를 말하는 스파크 -> scala, java, python을 지원하지만, scala에 최적화되어 있고 나머지 언어는 좀 불편
@@ -255,6 +255,7 @@
 * [Working with multiple partition formats within a Hive table with Spark](https://blog.godatadriven.com/multiformat-spark-partition)
   * Hive는 파티션별로 다른 데이터 형식을 지원, 데이터를 쓰기 최적화된 형식에서 읽기 최적화된 형식으로 변환할 때 사용 가능
   * Spark에서 멀티 포맷 테이블을 쿼리할 때 실행 계획이 어떻게 동작하는지 내부 동작 방식에 대해 설명
+* [Integrating Apache Hive with Apache Spark - Hive Warehouse Connector](https://community.hortonworks.com/articles/223626/integrating-apache-hive-with-apache-spark-hive-war.html)
 * [WRITING TO A DATABASE FROM SPARK](http://bigdatums.net/2016/10/16/writing-to-a-database-from-spark/)
 * [Processing Solr data with Apache Spark SQL in IBM IOP 4.3](https://developer.ibm.com/hadoop/2017/03/21/processing-solr-data-apache-spark-sql-ibm-iop-4-3/)
   * Apache Spark을 Apach Solr로 연결하는 방법 소개

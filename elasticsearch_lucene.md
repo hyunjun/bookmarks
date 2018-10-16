@@ -50,6 +50,13 @@ ElasticSearch - Lucene
     * **[Optimizing Elasticsearch: How Many Shards per Index?](https://qbox.io/blog/optimizing-elasticsearch-how-many-shards-per-index)**
     * [Every Shard Deserves a Home - Deep Dive into Shard Allocation in Elasticsearch](https://speakerdeck.com/elastic/every-shard-deserves-a-home-deep-dive-into-shard-allocation-in-elasticsearch)
     * [Stack Overflow: The Architecture - 2016 Edition](http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) index마다 별도의 cluster를 설정했다는 뜻일까?
+    * [elasticsearch-shard-suggester](https://github.com/kakao/elasticsearch-shard-suggester)
+      * 동작 과정
+      * 1. 오늘자 인덱스에 쿼리를 날려 성능 측정
+      * 2. 설정한 threshold 이내에 쿼리 응답이 나오는지를 확인하면서 설정한 시간이 되면 검색 성능 결과를 바탕으로 최적의 샤드 크기와 갯수를 계산
+      * 예를 들어 오늘자 인덱스의 전체 크기가 500GB이고 샤드의 갯수가 10개라면 한 개의 샤드의 크기는 50GB
+      * 이 때의 검색 성능이 150ms가 나오고 원하는 검색 성능의 threshold가 300ms가 된다면 검색 성능을 충족하는 최적의 샤드 크기는 100GB
+      * 그럼 내일도 오늘처럼 500GB 정도가 쌓일 것이라고 예상하고 내일자 인덱스는 샤드의 갯수를 5개로 줄여서 생성
 * [github.com/elastic/elasticsearch](https://github.com/elastic/elasticsearch)
   * [Aggregations](https://www.elastic.co/guide/en/elasticsearch/reference/current/search-aggregations.html#search-aggregations)
     * [Multiple group-by in Elasticsearch](http://stackoverflow.com/questions/14181674/multiple-group-by-in-elasticsearch)

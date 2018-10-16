@@ -343,6 +343,7 @@ Machine Learning
 * [기계 학습의 현재와 미래](http://www.slideshare.net/4101963/ss-71414865)
 * [Foundations of Machine Learning Boot Camp](https://simons.berkeley.edu/workshops/schedule/3748)
   * [Foundations of ML Workshop](https://tensorflow.blog/2017/01/31/foundations-of-ml-workshop/)
+* [FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml)
 * [What is Machine Learning?](https://www.youtube.com/watch?v=f_uwKZIAeM0)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
 * [Machine Learning Summarized in One Picture](http://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture)

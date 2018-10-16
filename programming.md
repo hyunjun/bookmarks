@@ -996,6 +996,7 @@ Programming
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
 * **[How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://codeburst.io/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)**
 * [프로세스 동기화 - 임계구역 문제 (Critical-Section)](http://hongku.tistory.com/17)
+* [Operating Systems Course Notes Main Page](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
