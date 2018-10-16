@@ -200,7 +200,6 @@
   * [Spark 2.x Troubleshooting Guide](https://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
 * [Introducing Apache Spark 2.1 Now available on Databricks](https://databricks.com/blog/2016/12/29/introducing-apache-spark-2-1.html)
 * [What's New in the Upcoming Apache Spark 2.3 Release?](http://go.databricks.com/databricks-runtime-4-with-apache-spark2-3)
-* [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
 * [Introducing Stream-Stream Joins in Apache Spark 2.3](https://databricks.com/blog/2018/03/13/introducing-stream-stream-joins-in-apache-spark-2-3.html)
 * [ORC improvement in Apache Spark 2.3](https://dataworkssummit.com/berlin-2018/session/orc-improvement-in-apache-spark-2-3/)
 * [The easiest way to run Spark in production](https://dcos.io/)
@@ -241,7 +240,6 @@
 * [Diving into Spark and Parquet Workloads, by Example](https://db-blog.web.cern.ch/blog/luca-canali/2017-06-diving-spark-and-parquet-workloads-example)
 * [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [Apache Spark에서 컬럼 기반 저장 포맷 Parquet(파케이) 제대로 활용하기](http://engineering.vcnc.co.kr/2018/05/parquet-and-spark/)
-* [How to install and run Spark 2.0 on HDP 2.5 Sandbox](https://community.hortonworks.com/articles/53029/how-to-install-and-run-spark-20-on-hdp-25-sandbox.html)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
 * **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
@@ -264,13 +262,11 @@
 * [Tracking the Money — Scaling Financial Reporting at Airbnb](https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040)
 * [The Benefits of Migrating HPC Workloads To Apache Spark](https://hortonworks.com/blog/recent-improvements-apache-zeppelin-livy-integration/)
   * Spark 작업을 실행하기위한 Apache Zeppelin과 Livy 작업 서버 간의 통합에 대한 최근 개선 사항 설명
-* [Spark StandAlone 설치부터 예제 테스트까지](http://hellowuniverse.com/2017/03/08/spark-standalone-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-%EC%98%88%EC%A0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B9%8C%EC%A7%80/)
 * [데이터분석 인프라 구축기 (1/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-1-4-fc1ff841dae9)
 * [데이터분석 인프라 구축기 (2/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-2-4-616df0d52ac3)
 * [데이터분석 인프라 구축기 (3/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-3-4-bb2326089ba5)
 * [데이터분석 인프라 구축기 (4/4)](https://medium.com/@gamzabaw/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D-%EC%9D%B8%ED%94%84%EB%9D%BC-%EA%B5%AC%EC%B6%95%EA%B8%B0-4-4-b74ba73c426c)
 * [zipWithIndex, for-yield 예제](http://knight76.tistory.com/entry/spark-zipWithIndex-foryield-%EC%98%88%EC%A0%9C)
-* [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
 * [Cloudera session seoul - Spark bootcamp](https://www.slideshare.net/SangbaeLim/cloudera-sessions-seoul-spark-bootcamp)
 * [Benchmarking Big Data SQL Platforms in the Cloud](https://databricks.com/blog/2017/07/12/benchmarking-big-data-sql-platforms-in-the-cloud.html)
   * Vanilla Spark, Presto, Impala 보다 DataBricks 플랫폼이 더 빠르다는 주장
@@ -447,6 +443,14 @@
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 
+# Installation
+* [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
+* [How to install and run Spark 2.0 on HDP 2.5 Sandbox](https://community.hortonworks.com/articles/53029/how-to-install-and-run-spark-20-on-hdp-25-sandbox.html)
+* [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
+* [Spark StandAlone 설치부터 예제 테스트까지](http://hellowuniverse.com/2017/03/08/spark-standalone-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-%EC%98%88%EC%A0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B9%8C%EC%A7%80/)
+* [Hadoop, Spark 설치](https://github.com/likejazz/likejazz.github.io/wiki/Hadoop,-Spark)
+* [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
+
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 * [AWS Athena Data Source for Apache Spark](https://github.com/tmheo/spark-athena)
@@ -487,7 +491,6 @@
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
   * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/) 기계 학습 기능을 위한 인프라 및 데이터 파이프라인을 구축하기 위해 Cloudera Oryx 프로젝트를 사용하는 예제
   * Kafka + Spark + Cloudera Hadoop 를 이용한 추천시스템
-* [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
@@ -627,7 +630,6 @@
   * 딥러닝 라이브러리인 BigDL을 사용하여 모델을 학습하고 평가하는 방법을 보여주는 간단한 자습서
 * [Use your favorite Python library on PySpark cluster with Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/use-your-favorite-python-library-on-pyspark-cluster-with-cloudera-data-science-workbench/) Python 라이브러리를 사용하는 PySpark 작업을 작성하는 방법
 * [Install Spark on Windows (PySpark)](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
-* [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
 * [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
 * [Getting The Best Performance With PySpark](https://www.slideshare.net/SparkSummit/getting-the-best-performance-with-pyspark)
 * **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
@@ -643,13 +645,13 @@
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
 * [SparkR 설치 사용기 1 - Installation Guide On Yarn Cluster & Mesos Cluster & Stand Alone Cluster](http://hoondongkim.blogspot.com/2016/01/sparkr-1-installation-guide-on-yarn.html)
+* [MS R(구 Revolution R) on Spark - 설치 및 가능성 엿보기(feat. SparkR)](http://hoondongkim.blogspot.com/2016/12/ms-r-revolution-r-on-spark-feat-sparkr.html)
 * [sparklyr — R interface for Apache Spark](http://spark.rstudio.com/index.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
 * [sparklyr](https://drive.google.com/file/d/0Bw594TdiBdAUUWt6eGd0Vm5fWDg/view)
 * [xwMOOC 기계학습 - dplyr을 Spark 위에 올린 sparklyr](http://statkclee.github.io/ml/ml-sparklyr.html)
 * [sparklyr – An  R interface for Apache Spark](https://cdn.oreillystatic.com/en/assets/1/event/193/Sparklyr_%20An%20R%20interface%20for%20Apache%20Spark%20Presentation.pdf)
 * [spark + R](https://drive.google.com/file/d/0Bw594TdiBdAUTGtUOERoOG1ac1E/view)
-* [MS R(구 Revolution R) on Spark - 설치 및 가능성 엿보기(feat. SparkR)](http://hoondongkim.blogspot.com/2016/12/ms-r-revolution-r-on-spark-feat-sparkr.html)
 * [빅데이터 분석을 위한 스파크 2 프로그래밍 : 대용량 데이터 처리부터 머신러닝까지](http://www.slideshare.net/ssuser88c366/2-71401153)
 * [On-Demand Webinar and FAQ: Parallelize R Code Using Apache Spark](https://databricks.com/blog/2017/08/21/on-demand-webinar-and-faq-parallelize-r-code-using-apache-spark.html)
 
@@ -734,12 +736,13 @@
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E)
 * [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)
+* [도커로 간단 설치하는 Zeppelin](https://docs.google.com/presentation/d/1iUlprfqeQaXuW63qQpb7eHkV3oiegtl3OOylHpX6dGg/edit)
 * [5. 웹 기반 명령어 해석기 Zeppelin Install](http://pubdata.tistory.com/28)
+* [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [Angular display system dashboard on Zeppelin](https://www.youtube.com/watch?v=QdjZyOkcG_w)
 * [Apache Zeppelin으로 데이터 분석하기 by VCNC](https://speakerdeck.com/vcnc/apache-zeppelineuro-deiteo-bunseoghagi)
 * [Zeppelin Context](http://zeppelin-project.org/docs/zeppelincontext.html)
 * [Apache Tajo 데스크탑 + Zeppelin 연동 하기](http://jjeong.tistory.com/1031)
-* [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [제플린 탑재한 이엠알 16년 4월](http://www.slideshare.net/diginorimin/16-4-60944385)
 * [Zeppelin at Twitter](http://www.slideshare.net/prasadwagle/zeppelin-at-twitter-62171116)
 * [아파치 제플린, 한국에서 세계로 가기까지](http://m.zdnet.co.kr/news_view.asp?article_id=20160601155438)
@@ -758,7 +761,6 @@
   * [Zeppelin 화재 뉴스 기사 분류 예제](https://github.com/uosdmlab/playdata-zeppelin-notebook)
 * [스파크-제플린으로 통계 그래프 출력하기(윈도우환경)](http://blog.daum.net/web_design/396) 실패 이야기
 * [Apache Zeppelin Data Science Environment 1/21/16](https://www.youtube.com/watch?v=chPw8Ts7ZW8)
-* [도커로 간단 설치하는 Zeppelin](https://docs.google.com/presentation/d/1iUlprfqeQaXuW63qQpb7eHkV3oiegtl3OOylHpX6dGg/edit)
 * [Zeppelin Build and Tutorial Notebook](https://www.youtube.com/watch?v=CfhYFqNyjGc)
 * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [zdairi is zeppelin CLI tool](https://github.com/del680202/zdairi)

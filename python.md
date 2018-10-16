@@ -205,6 +205,7 @@ Python
   * [2017.1 iPython 설치 후 디버깅 콘솔에서 KeyError 발생 시](http://mcchae.egloos.com/11266429)
   * [PyCharm에서 임의의 코드를 디버깅하는 방법](http://mcchae.egloos.com/11295372)
   * [How to use PyCharm to debug your Python code](https://medium.freecodecamp.org/debugging-with-pycharm-be282bcd6172)
+	* [Korean translation of PyCharm IDE](https://github.com/traff/pycharm-kr)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap ](https://github.com/sethoscope/heatmap)
@@ -954,6 +955,8 @@ Python
 * [Threaded Asynchronous Magic and How to Wield It](https://hackernoon.com/threaded-asynchronous-magic-and-how-to-wield-it-bba9ed602c32)
 * [Some Python 3 asyncio snippets](http://blog.mathieu-leplatre.info/some-python-3-asyncio-snippets.html)
 * **[Controlling Python Async Creep](https://hackernoon.com/controlling-python-async-creep-ec0a0f4b79ba)**
+* [async_await_help.py](https://gist.github.com/Kcrong/ecb919bfbd45fe186899554b628e6db4#file-async_await_help-py)
+* [Using asynchronous for loops in Python](https://quentin.pradet.me/blog/using-asynchronous-for-loops-in-python.html)
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -1604,6 +1607,7 @@ Python
 * [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
+* [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
 * [아나콘다와 파이참을 이용하여 Jupyter notebook 실행하기](http://blog.anthouse.co.kr/221102899331)
 * [주피터 노트북 사용법 기초편](https://www.youtube.com/watch?v=SLPo0o_HArs)
 * [파이썬과 Jupyter Notebook 설치하기](https://www.youtube.com/watch?v=gYzod9NOGMk)

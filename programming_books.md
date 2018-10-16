@@ -442,7 +442,8 @@ Programming Books
 * 머신러닝 실무 프로젝트
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-42d1b2bac9cd)
 * (NOT YET) [(Kaggle 우승작으로 배우는) 머신러닝 탐구생활](http://bjpublic.tistory.com/310)
-  * 2018.09 탐라
+  * 2018.09
+  * 탐라 문004.73 정17ㅁ
 * (NOT YET) [패턴 인식과 머신 러닝](http://jpub.tistory.com/831)
 
 ## Tensorflow
@@ -1054,7 +1055,8 @@ Programming Books
 * 고성능 파이썬
   * 한라 005.133고294ㄱ
 * (NOT YET) [실전 스케일링 파이썬 프로그래밍](http://www.insightbook.co.kr/12906)
-  * 2018.09 탐라
+  * 2018.09
+  * 탐라 문005.133 단77ㅅ
 * (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
 	* 2018.08 탐라
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)

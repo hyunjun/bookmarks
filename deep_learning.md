@@ -1592,6 +1592,7 @@ Deep Learning
   * [Relation Networks for Visual Question Answering using MXNet Gluon](https://medium.com/apache-mxnet/relation-networks-for-visual-question-answering-using-mxnet-gluon-f029fde8f863)
   * [Sentiment Analysis via Self-Attention with MXNet Gluon](https://medium.com/apache-mxnet/sentiment-analysis-via-self-attention-with-mxnet-gluon-dc774d38ba69)
   * [MXNet 초보자를 위한 Gluon 한 시간에 뽀개기](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb)
+    * [MXNet 초보자를 위한 Gluon 한 시간에 뽀개기](https://colab.research.google.com/github/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
@@ -1968,6 +1969,7 @@ CVPR2016)
 * **[Deep Reinforcement Learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course/)**
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153)
 * **[강화학습(Reinforcement Learning)으로 접근하는 E-commerce Dynamic Pricing 논문리뷰](https://hoondongkim.blogspot.com/2018/10/reinforcement-learning-e-commerce.html)**
+* [DeepMimic - Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

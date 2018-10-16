@@ -123,6 +123,11 @@ SQL
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
     * [csv 파일을 직접 MySQL 테이블로 Import 하는 방법 (대용량 파일 import 팁)](http://moonlighting.tistory.com/140)
+  * [`SELECT p.FirstName, p.LastName, a.City, a.State FROM Person p LEFT JOIN Address a ON p.PersonId = a.PersonId`](https://leetcode.com/problems/combine-two-tables/solution/)
+  * [`SELECT a.Name AS Employee FROM Employee AS a JOIN Employee AS b ON a.ManagerId = b.Id AND a.Salary > b.Salary`](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/)
+  * [`SELECT Email From Person GROUP BY Email HAVING COUNT(Id) > 1`](https://leetcode.com/problems/duplicate-emails/solution/)
+  * [`SELECT Name AS 'Customers' FROM Customers WHERE Id NOT IN (SELECT CustomerId FROM Orders)`](https://leetcode.com/problems/customers-who-never-order/solution/)
+  * [`SELECT IFNULL((SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1 OFFSET 1), NULL) AS SecondHighestSalary`](https://leetcode.com/problems/second-highest-salary/solution/)
 * troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)

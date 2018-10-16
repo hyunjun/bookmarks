@@ -123,6 +123,7 @@ Nomad & Remote
 * [Vancouver’s high-tech hurdle: Attracting top-level talent](http://www.theglobeandmail.com/technology/vancouver-tech-scene/article25885653/)
 * [Where Vancouver’s Tech Ecosystem Goes From Here](http://techcrunch.com/2015/08/16/vancouvers-tech-ecosystem-where-do-we-go-from-here/)
 * [How to benefit from the Global Skills Strategy](http://www.cic.gc.ca/english/work/employers/gss.asp)
+* [Hire temporary workers faster with the Global Skills Strategy](https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-foreign-worker/temporary/global-skills-strategy.html)
 * [안녕, 밴쿠버](https://brunch.co.kr/@jaewooahn/2)
 * [LMIA](https://brunch.co.kr/@behere/16)
 * [캐나다 이민을 공부하기 전에 무조건 알아야 하는 개념. 그 첫 번째: 직업 분류 코드](https://brunch.co.kr/@behere/13)

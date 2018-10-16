@@ -47,10 +47,6 @@ Algorithm
 * [TEN LITTLE ALGORITHMS, PART 1: RUSSIAN PEASANT MULTIPLICATION](http://www.embeddedrelated.com/showarticle/760.php)
 * [Using Ring Buffer Logging to Help Find Bugs](http://www.exampler.com/writing/ring-buffer.pdf)
 * [Bin Packing Problem: Two Approximation Algorithms](http://arxiv.org/abs/1508.01376)
-* [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
-* [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37)
-* [Minimax with Alpha Beta Pruning](https://www.youtube.com/watch?v=zp3VMe0Jpf8)
-* [minimax algorithm](https://www.youtube.com/watch?v=6ELUvkSkCts)
 * [A step-by-step guide to building a simple chess AI](https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
 * [Fisher-Yates shuffle](http://www.programming-algorithms.net/article/43676/Fisher-Yates-shuffle)
@@ -322,6 +318,13 @@ Algorithm
 * [An introduction to linked lists: the why, the what, and the how](https://medium.freecodecamp.org/linked-lists-why-what-and-how-f96b04790ac4)
 * [An introduction to doubly linked lists: using code to control data](https://medium.freecodecamp.org/doubly-linked-list-why-what-and-how-59aba937abcf)
 
+# [Minimax](https://en.wikipedia.org/wiki/Minimax)
+* [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
+* [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37)
+* [Minimax with Alpha Beta Pruning](https://www.youtube.com/watch?v=zp3VMe0Jpf8)
+* [minimax algorithm](https://www.youtube.com/watch?v=6ELUvkSkCts)
+* [Predict the Winner](https://leetcode.com/problems/predict-the-winner/solution/)
+
 # Page Rank
 * [‘쉽게 설명한’ 구글의 페이지 랭크 알고리즘](https://sungmooncho.com/2012/08/26/pagerank/)
 * [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
@@ -360,9 +363,6 @@ Algorithm
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 * [Reverse Morris In-order Traversal](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/)
 
-## Aho Corasick
-* [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
-
 # Sort
 * [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
 * [Inefficient sort algorithms](http://richardhartersworld.com/cri_d/cri/2001/badsort.html)
@@ -390,8 +390,10 @@ Algorithm
 
 # String
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+	* [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
   * [ppt](http://banyan.cm.nctu.edu.tw/computernetwork2/Aho-Corasick(15).ppt)
+	* **[cascading multi word multi pattern matching](https://github.daumkakao.com/index-shin/blog/wiki/cascading-multi-word-multi-pattern-matching)**
 * BM
   * [Boyer–Moore string search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)
 * [Fast Algorithms for Exact String Matching](http://arxiv.org/abs/1509.09228)

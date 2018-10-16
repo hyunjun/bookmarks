@@ -210,6 +210,8 @@ Programming
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
   * [#2 - 오픈 준비 단계](http://woowabros.github.io/experience/2018/10/15/new_point_story_2.html)
+* [The devil is in the detail](https://en.wikipedia.org/wiki/The_devil_is_in_the_detail)
+	* [EA 피파 개발자가 말하는 “피파는 어떻게 위닝을 꺾었나” - ㅍㅍㅅㅅ 이승환님의 글입니다](http://jh4hj.tistory.com/entry/EA-%ED%94%BC%ED%8C%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%E2%80%9C%ED%94%BC%ED%8C%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EB%8B%9D%EC%9D%84-%EA%BA%BE%EC%97%88%EB%82%98%E2%80%9D-%E3%85%8D%E3%85%8D%E3%85%85%E3%85%85-%EC%9D%B4%EC%8A%B9%ED%99%98%EB%8B%98%EC%9D%98-%EA%B8%80%EC%9E%85%EB%8B%88%EB%8B%A4)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -347,6 +349,7 @@ Programming
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
+* [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -628,6 +631,7 @@ Programming
   * [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
+* [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
 * [O’Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/schedule/grid/public/2017-06-29)
@@ -808,18 +812,14 @@ Programming
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
 
 # MOOC, open courseware
+* [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
-* [codingwithchrome.foo](http://codingwithchrome.foo/)
-  * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
 * [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
 * [Deloitte University Press – Cognitive technologies: The real opportunities for business](http://dupress.com/articles/cognitive-technology-course/)
 * [Five of the Best Computer Science Classes in the U.S.](http://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country)
-* [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
 * [Computer Science Curriculum](https://www.youtube.com/watch?v=-OvRVlqKebI)
-* **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
 * [HumanitiesSciences: StatLearning-SP Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
-* [K MOOC](http://www.kmooc.kr/)
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
@@ -832,27 +832,33 @@ Programming
 * [MOOC](http://www.bloter.net/archives/236871)
 * [프랑스 파리 에꼴42 방문기](https://blog.naver.com/rmazinga/221359914866)
 * [école 42 탐방기](https://medium.com/@codesquad_yoda/%C3%A9cole-42-%ED%83%90%EB%B0%A9%EA%B8%B0-75e819cbcc85)
-* [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
-* [class-central.com](https://www.class-central.com/) find the best online courses from top universities
-* [codeschool.com](https://www.codeschool.com/)
-* [coursebuffet.com](https://www.coursebuffet.com/)
-* [edwith.org](https://www.edwith.org)
-* [everdevel.com](http://www.everdevel.com/)
-* [infractal.org](http://infractal.org/)
-* [sololearn.com](https://www.sololearn.com/)
 * [골라 배우자, 전세계 온라인 공개 강좌 48곳](http://www.bloter.net/archives/225814)
 * [끝없는 배움의 기회를 원하세요? – Micro-credentials](http://www.venturesquare.net/584327)
 * [에덱스·맥길대, 사회 변화 꿈꾸는 이들을 위한 온라인 강좌 개설](http://www.bloter.net/archives/237710)
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
-* [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [Analytics, Big Data, and Data Science Courses](https://bigdatauniversity.com/)
-* [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869)
-* [370 Free Online Programming & Computer Science Courses You Can Start This Month](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
 * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
-* [438 Free Online Programming & Computer Science Courses You Can Start in May](https://medium.freecodecamp.org/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
 * [Big Data Day LA 2017](https://www.bigdatadayla.com)
+* [class-central.com](https://www.class-central.com/) find the best online courses from top universities
+* [codeschool.com](https://www.codeschool.com/)
+* [codingwithchrome.foo](http://codingwithchrome.foo/)
+  * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
+* [coursebuffet.com](https://www.coursebuffet.com/)
+* [edwith.org](https://www.edwith.org)
+* [everdevel.com](http://www.everdevel.com/)
+* freecodecamp.org
+	* [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
+	* [learn.freecodecamp.org](https://learn.freecodecamp.org/)
+	* [Here are 250 Ivy League courses you can take online right now for free](https://medium.freecodecamp.com/ivy-league-free-online-courses-a0d7ae675869)
+	* [370 Free Online Programming & Computer Science Courses You Can Start This Month](https://medium.freecodecamp.com/370-free-online-programming-computer-science-courses-you-can-start-this-month-fc5b9867769e)
+	* [438 Free Online Programming & Computer Science Courses You Can Start in May](https://medium.freecodecamp.org/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
+* [gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)
+* [infractal.org](http://infractal.org/)
+* [K MOOC](http://www.kmooc.kr/)
+* [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
+* [sololearn.com](https://www.sololearn.com/)
 * [woz-u.com](https://woz-u.com/)
 
 # News
