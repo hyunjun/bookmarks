@@ -62,6 +62,9 @@ Apache
   * Apache Beam 기반의 전처리 코드
 * [Comparing the Dataflow/Beam and Spark Programming Models](https://cloud.google.com/blog/big-data/2016/02/comparing-the-dataflowbeam-and-spark-programming-models#closeImage)
 
+# BookKeeper
+* [Apache BookKeeper: A High Performance and Low Latency Storage Service](https://www.slideshare.net/hustlmsp/apache-bookkeeper-a-high-performance-and-low-latency-storage-service?fbclid=IwAR1fMxb--ew84NEGu6uY2ygZyeu-VuLRw3qMaIB-19l5H2OpUo0ID_lbOUE)
+
 # [Brooklyn](https://brooklyn.apache.org/)
 
 # [Commons](https://commons.apache.org/)
@@ -160,7 +163,7 @@ Apache
   * Flink를 사용하는 이유와 구현과 운영에 대해 설명
 * [State TTL for Apache Flink: How to Limit the Lifetime of State](https://data-artisans.com/blog/state-ttl-for-apache-flink-how-to-limit-the-lifetime-of-state) Flink 1.6.0 TTL 지원
 * [Flink Forward Berlin 2018: Dongwon Kim - "Real-time driving score service using Flink"](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2018-dongwon-kim-realtime-driving-score-service-using-flink?ref=https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
-	* [Real-time driving score service using Flink](https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
+  * [Real-time driving score service using Flink](https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
 * [Automatic Apache Flink deployments in Golang](https://medium.com/wbaa/flink-deployer-8c0db4c94fe4)
 * [Automating Flink Deployments to Kubernetes](https://data-artisans.com/flink-forward-berlin/resources/automating-flink-deployments-to-kubernetes)
 
@@ -229,7 +232,7 @@ Apache
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 * [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
-	* [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
+  * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [Using Apache Kafka Docker](https://howtoprogram.xyz/2016/07/21/using-apache-kafka-docker/)
 * [Kafka Docker - Run multiple Kafka brokers in Docker](https://wurstmeister.github.io/kafka-docker/)
@@ -345,22 +348,22 @@ Apache
 * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
 * [Announcing AMQ Streams: Apache Kafka on OpenShift](https://developers.redhat.com/blog/2018/05/07/announcing-amq-streams-apache-kafka-on-openshift/)
 * [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 1](http://blog.cloudera.com/blog/2018/07/robust-message-serialization-in-apache-kafka-using-apache-avro-part-1/)
-	* 아파치 카프카(Apache Kafka)에서는 producer라고 하는 Java 애플리케이션으로 구조화된 메시지를 써서 카프카 클러스터(브로커로 구성됨)로 전송. 이들 메시지를 읽는 작업도 마찬가지로 같은 클러스터에서 consumer라는 Java 애플리케이션이 담당. 조직에 따라서 각기 다른 그룹이나 부서에서 producer와 consumer를 쓰고 관리하는 책임을 전담
-		* 이런 경우 한 가지 중대한 이슈가 발생. 즉 producer와 consumer 사이에서 서로 합의된 메시지 형식을 조율 필요
-		* 예시는 아파치 아브로(Apache Avro)를 사용하여 아파치 카프카를 대상으로 생성된 레코드를 직렬화하면서 스키마를 개발, producer와 consumer 애플리케이션을 비동기식으로 업데이트하는 방법
-	* 직렬화와 역직렬화
-		* 한 개의 카프카 레코드(기존에는 ‘메시지’라고 불림)는 한개의 키, 한개의 값, 헤더로 구성. 카프카는 레코드의 키와 값 면에서 데이터의 구조 인식 불가능. 대신 바이트 어레이 형태로 취급
-		* 하지만 카프카로부터 레코드를 읽는 시스템의 입장에서는 이러한 레코드에 포함된 데이터가 중요. 따라서 데이터를 읽을 수
+  * 아파치 카프카(Apache Kafka)에서는 producer라고 하는 Java 애플리케이션으로 구조화된 메시지를 써서 카프카 클러스터(브로커로 구성됨)로 전송. 이들 메시지를 읽는 작업도 마찬가지로 같은 클러스터에서 consumer라는 Java 애플리케이션이 담당. 조직에 따라서 각기 다른 그룹이나 부서에서 producer와 consumer를 쓰고 관리하는 책임을 전담
+    * 이런 경우 한 가지 중대한 이슈가 발생. 즉 producer와 consumer 사이에서 서로 합의된 메시지 형식을 조율 필요
+    * 예시는 아파치 아브로(Apache Avro)를 사용하여 아파치 카프카를 대상으로 생성된 레코드를 직렬화하면서 스키마를 개발, producer와 consumer 애플리케이션을 비동기식으로 업데이트하는 방법
+  * 직렬화와 역직렬화
+    * 한 개의 카프카 레코드(기존에는 ‘메시지’라고 불림)는 한개의 키, 한개의 값, 헤더로 구성. 카프카는 레코드의 키와 값 면에서 데이터의 구조 인식 불가능. 대신 바이트 어레이 형태로 취급
+    * 하지만 카프카로부터 레코드를 읽는 시스템의 입장에서는 이러한 레코드에 포함된 데이터가 중요. 따라서 데이터를 읽을 수
 있는 형식으로 도출할 필요
-		* 사용해야 하는 데이터 형식의 특성
-			* 컴팩트
-			* 빠른 인코딩과 디코딩 가능
-			* 변화(evolution) 허용
-			* 업스트림 시스템(카프카 클러스터에 데이터를 쓰는 시스템)과 다운스트림 시스템(같은 카프카 클러스터에서 데이터를 읽어오는 시스템)이 각기 다른 시점에 새 스키마로 업그레이드 허용
-		* 예를 들어 JSON의 경우 설명이 따로 필요 없지만 컴팩트 데이터 형식이 아니고 구문 분석 저속
-		* 아브로는 비교적 컴팩트한 출력 데이터를 생성하는 고속 직렬화 프레임워크. 하지만 아브로 레코드를 읽으려면 데이터를 직렬화하는 데 사용한 스키마 필요
-		* 한 가지 옵션은 스키마를 레코드 자체와 함께 저장하고 전송. 이 방법은 스키마를 한 번만 저장했다가 다수의 레코드에 사용하는 경우 가능. 카프카 레코드마다 모두 스키마를 하나씩 저장하려면 스토리지 공간과 네트워크 활용도 면에서 중대한 오버헤드 추가
-		* 또 한 가지 옵션은 미리 합의한 식별자 스키마 매핑 세트를 정하여 스키마를 레코드 내에 존재하는 각각의 식별자로 참조
+    * 사용해야 하는 데이터 형식의 특성
+      * 컴팩트
+      * 빠른 인코딩과 디코딩 가능
+      * 변화(evolution) 허용
+      * 업스트림 시스템(카프카 클러스터에 데이터를 쓰는 시스템)과 다운스트림 시스템(같은 카프카 클러스터에서 데이터를 읽어오는 시스템)이 각기 다른 시점에 새 스키마로 업그레이드 허용
+    * 예를 들어 JSON의 경우 설명이 따로 필요 없지만 컴팩트 데이터 형식이 아니고 구문 분석 저속
+    * 아브로는 비교적 컴팩트한 출력 데이터를 생성하는 고속 직렬화 프레임워크. 하지만 아브로 레코드를 읽으려면 데이터를 직렬화하는 데 사용한 스키마 필요
+    * 한 가지 옵션은 스키마를 레코드 자체와 함께 저장하고 전송. 이 방법은 스키마를 한 번만 저장했다가 다수의 레코드에 사용하는 경우 가능. 카프카 레코드마다 모두 스키마를 하나씩 저장하려면 스토리지 공간과 네트워크 활용도 면에서 중대한 오버헤드 추가
+    * 또 한 가지 옵션은 미리 합의한 식별자 스키마 매핑 세트를 정하여 스키마를 레코드 내에 존재하는 각각의 식별자로 참조
 * [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 2](http://blog.cloudera.com/blog/2018/07/robust-message-serialization-in-apache-kafka-using-apache-avro-part-2/)
   * 스키마 저장소 구현; 저장소로서 Apache Kafka와 함께 작동하는 스키마 공급자 구현
   * 인 메모리 SchemaStore
@@ -588,6 +591,7 @@ Apache
   * [part 2: patterns and practices](https://streaml.io/blog/geo-replication-patterns-practices)
   * Apache Pulsar를 사용하여 cross-data center replication를 수행하는 방법에 대해 설명
   * 복제를 설정하는 데 필요한 명령, 응용 프로그램별로 재정의하는 방법, 모니터링 방법, 복제 대역폭을 제한하는 방법 등에 대해 설명
+* [Comparing Pulsar and Kafka: how a segment-based architecture delivers better performance, scalability, and resilience](https://streaml.io/blog/pulsar-segment-based-architecture?fbclid=IwAR28F5ByzGgek9DHmEUmgZ9ZUW8xzsEYGVHZREbKP9TUM8600kvBxVyJlvc)
 
 # [Ranger](http://ranger.apache.org)
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
@@ -679,5 +683,5 @@ Apache
   * 이러한 관리 명령의 경우 정상적인 ZK 포트를 통한 연결과 같이 좋은 보안 솔루션이 없음
   * 다른 방법으로, ZooKeeper는 JMX를 지원하고 3.5.x 릴리스에서는 별도의 포트에 AdminServer를 제공
 * [consul.io](https://www.consul.io/)
-	* [HashiCorp사의 Consul, Consul Template 소개](https://medium.com/giljae/hashicorp%EC%82%AC%EC%9D%98-consul-consul-template-%EC%86%8C%EA%B0%9C-cc0837533fbc)
-	* [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례](http://woowabros.github.io/tools/2018/10/08/location-service-with-rcs.html)
+  * [HashiCorp사의 Consul, Consul Template 소개](https://medium.com/giljae/hashicorp%EC%82%AC%EC%9D%98-consul-consul-template-%EC%86%8C%EA%B0%9C-cc0837533fbc)
+  * [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례](http://woowabros.github.io/tools/2018/10/08/location-service-with-rcs.html)

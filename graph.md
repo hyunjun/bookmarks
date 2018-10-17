@@ -178,7 +178,7 @@ Graph
   * [HBaseCon 2015: S2Graph - A Large-scale Graph Database with HBase](http://www.slideshare.net/HBaseCon/use-cases-session-5)
   * [Apache S2Graph(incubating) At Kakao A Large Scale Distributed Graph Database](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%992-5.Apache-S2GRAPHincubating%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%99%80-%EC%A0%81%EC%9A%A9%EC%82%AC%EB%A1%80.pdf)
   * [Apache S2Graph 기반 머신러닝 모델 환경 구축](https://brunch.co.kr/@kakao-it/294)
-		* [MovieLens 데이터 사용 예제](https://github.com/apache/incubator-s2graph/tree/master/example/movielens)
+    * [MovieLens 데이터 사용 예제](https://github.com/apache/incubator-s2graph/tree/master/example/movielens)
 * [Sesame](http://rdf4j.org)
 * [Sparsity Technologies](http://sparsity-technologies.com/)
 * [Titan](http://thinkaurelius.github.io/titan/)

@@ -205,7 +205,7 @@ Python
   * [2017.1 iPython 설치 후 디버깅 콘솔에서 KeyError 발생 시](http://mcchae.egloos.com/11266429)
   * [PyCharm에서 임의의 코드를 디버깅하는 방법](http://mcchae.egloos.com/11295372)
   * [How to use PyCharm to debug your Python code](https://medium.freecodecamp.org/debugging-with-pycharm-be282bcd6172)
-	* [Korean translation of PyCharm IDE](https://github.com/traff/pycharm-kr)
+  * [Korean translation of PyCharm IDE](https://github.com/traff/pycharm-kr)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap ](https://github.com/sethoscope/heatmap)
@@ -510,7 +510,7 @@ Python
   * [2014 PyCon KR: 위대한 dict 이해하고 사용하기](https://speakerdeck.com/jongman/2014-pycon-kr-widaehan-dict-ihaehago-sayonghagi)
   * [구종만 위대한 dict 이해하고 사용하기 PYCON KOREA 2014](https://www.youtube.com/watch?v=E4bF3tPxeDE)
   * [Python Dictionary 순서 보장 원리](https://blog.sinwoobang.me/post/176050610602/pythondictorder)
-	* `z = {**x, **y}` [How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/a/26853961)
+  * `z = {**x, **y}` [How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/a/26853961)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
@@ -668,7 +668,7 @@ Python
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
   * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
   * [Python data model](https://selo77.github.io/2016/12/21/Python-data-model/)
-	* [Intro to the Python Data Model and Pythonic Programming](https://www.youtube.com/watch?v=GrwV2hi4XHg)
+  * [Intro to the Python Data Model and Pythonic Programming](https://www.youtube.com/watch?v=GrwV2hi4XHg)
   * [It's metaclasses all the way down](http://nbviewer.jupyter.org/github/akittas/presentations/blob/master/pythess/meta_alltheway/meta_alltheway.ipynb)
   * [Metaclasses in Python](https://millionintegrals.com/post/metaclasses-in-python/)
   * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc)
@@ -1007,7 +1007,7 @@ Python
     * **[PyCon KR 2017 aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
   * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
   * [Building The Real Time Web With Python](https://www.youtube.com/watch?v=wMnN5kIG8D8)
-	* [Day 2: Pau Freixes Alió - Running Aiohttp at scale](https://www.youtube.com/watch?v=p5d74IkGfwo)
+  * [Day 2: Pau Freixes Alió - Running Aiohttp at scale](https://www.youtube.com/watch?v=p5d74IkGfwo)
 * **[aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)**
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
@@ -1022,7 +1022,7 @@ Python
   * [More Sanic/Python Fun. Submitting a Form via Ajax Post Request with Vuejs](https://www.youtube.com/watch?v=6FXG3ssw5Wo)
   * [postit-sanic - An REST API and Single Page App with Sanic; A Python Webserver/Microframework](https://github.com/tysweezy/postit-sanic)
   * [programcreek.com/python/index/9697/sanic](https://www.programcreek.com/python/index/9697/sanic)
-	* [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기-이재면](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
+  * [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기-이재면](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
 * [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [Trio – Pythonic async I/O for humans and snake people 🐍](https://github.com/python-trio/trio)
   * [Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
@@ -1066,8 +1066,8 @@ Python
   * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
 * **[Books by Agiliq](https://books.agiliq.com)**
-	* Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
-	* Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
+  * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
+  * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
@@ -1164,7 +1164,7 @@ Python
 * [PyCon KR 2018 Effective Tips for Django ORM in Practice](https://www.slideshare.net/iandmyhand/pycon-kr-2018-effective-tips-for-django-orm-in-practice-110522221)
 * [DjangoORM에서 SQL Driver 지정해 Query & Pandas DataFrame 얻어내기](https://beomi.github.io/2018/02/19/django_orm_for_multiple_db_with_sqldriver/)
 * **[장고 ORM 요리책](https://django-orm-cookbook-ko.readthedocs.io)**
-	* [장고 ORM 요리책](https://github.com/8percent/django-orm-cookbook-ko)
+  * [장고 ORM 요리책](https://github.com/8percent/django-orm-cookbook-ko)
   * [Django ORM cookbook 번역 후기](https://8percent.github.io/2018-10-07/Django-ORM-cookbook-translate/) read the docs, sphinx
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
@@ -1746,9 +1746,9 @@ Python
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
-	* [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
-	* [A Web Without JavaScript](https://www.youtube.com/watch?v=VdyCTife_Yo)
-	* [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
+  * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
+  * [A Web Without JavaScript](https://www.youtube.com/watch?v=VdyCTife_Yo)
+  * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
@@ -2654,8 +2654,8 @@ Python
   * [PYCON Korea 2018 Python Application Server for Recommender System](https://www.slideshare.net/kimkwangseop/pycon-korea-2018-python-application-server-for-recommender-system)
   * [Animal iris recognition](https://www.slideshare.net/ssuser0188f31/animal-iris-recognition)
   * [pycon korea 2018 드론 및 인공위성 영상을 이용한 태양광발전소 입지분석](https://www.slideshare.net/ssuser6cfa17/pycon-korea-2018-110450391)
-	* [생활탐사 - 파이썬으로 일상에 도움 되는 뉴스 만들기](https://drive.google.com/file/d/1bhsX4kW_gE6t9S6SkGaBnUWM0Y4OFAGV/view)
-	* [PyCon KR 2018 땀내를 줄이는 Data와 Feature 다루기](https://www.slideshare.net/zzonee/2018-pycon-kr-data-feature/zzonee/2018-pycon-kr-data-feature)
+  * [생활탐사 - 파이썬으로 일상에 도움 되는 뉴스 만들기](https://drive.google.com/file/d/1bhsX4kW_gE6t9S6SkGaBnUWM0Y4OFAGV/view)
+  * [PyCon KR 2018 땀내를 줄이는 Data와 Feature 다루기](https://www.slideshare.net/zzonee/2018-pycon-kr-data-feature/zzonee/2018-pycon-kr-data-feature)
   * [파이콘 2018 후기](https://www.sangkon.com/2018/08/27/pycon-2018/)
 
 # PyPy

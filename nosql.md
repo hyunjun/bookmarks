@@ -33,7 +33,7 @@ NoSQL
 * [BoulderDB: MakeMyTrip’s Personalization User Data Store](https://medium.com/makemytrip-engineering/boulderdb-makemytrips-personalization-user-data-store-acc8e00f1433)
 * [Large Scale NoSQL Database Migration Under Fire](https://medium.com/appsflyer/large-scale-nosql-database-migration-under-fire-bf298c3c2e47)
 * [The design and implementation of modern column-oriented database systems](https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/)
-	* 2012년 “The design and implementation of modern column-oriented database systems” 라는 98페이지 분량의 페이퍼 요약
+  * 2012년 “The design and implementation of modern column-oriented database systems” 라는 98페이지 분량의 페이퍼 요약
 
 # Amazon
 

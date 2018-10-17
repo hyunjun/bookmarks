@@ -62,7 +62,7 @@ App
   * pdf to text
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
     * [gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba](https://gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba)
-	* [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
+  * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
@@ -133,7 +133,7 @@ App
   * [Github Page와 Hexo를 통해 30분만에 기술 블로그 만들기](http://holaxprogramming.com/2017/04/16/github-page-and-hexo/)
   * [정적 블로그, Hexo 설치](https://engineering.huiseoul.com/%EC%A0%95%EC%A0%81-%EB%B8%94%EB%A1%9C%EA%B7%B8-hexo-%EC%84%A4%EC%B9%98-f8df865a693a)
   * [hexo 환경 구축하기](https://taetaetae.github.io/2016/09/23/20160923/)
-	* [hexo + github + blog 연동하기](https://taetaetae.github.io/2016/09/18/hexo_github_blog/)
+  * [hexo + github + blog 연동하기](https://taetaetae.github.io/2016/09/18/hexo_github_blog/)
   * [Hexo로 블로그 만들기](https://canine89.github.io/2018/08/16/hello-world/)
   * [Hexo 블로그 테마 세부 설정하기](https://canine89.github.io/2018/08/17/2018-08-16-Hexo%EB%A1%9C%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0-2/)
   * [Jekyll에서 Hexo로](https://kenixer.github.io/2018/09/15/Jekyll%EC%97%90%EC%84%9C-Hexo%EB%A1%9C/)
@@ -181,7 +181,7 @@ App
 * [How to Embed Solidity Code Snippets in Your Website / Blog (Using EthFiddle)](https://medium.com/loom-network/how-to-embed-solidity-code-snippets-in-your-website-blog-using-ethfiddle-980f79649c15)
 * [Deploy React to GitHub-Pages to create an amazing website!](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
 * [Base64 이미지 사용하기](http://pilot376.tistory.com/3)
-	* ![test 0](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+3TPUvDQBgH8OdDOGa+oUMgk2MpdHIIgpSUiqC0OKirgxYX8QVFRQRpBRF8KShqLbgIYkUEteCgFVuqUEVxEIkvJFhae3m8S2KbSkcFBw9yHP88+eXucgH8kQZ/jSm4VDaIy9RKCpKac9NKgU4uEJNwhHhK3qvPBVO8rxRWmFXPF+NSM1KVMbwriAMwhDgVcrxeMZm85GR0PhvGJAAmyozJsbsxgNEir4iEjIK0SYqGd8sOR3rJAGN2BCEkOxhxMhpd8Mk0CXtZacxi1hr20mI/rzgnxayoidevcGuHXTC/q6QuYSMt1jC+gBIiMg12v2vb5NlklChiWnhmFZpwvxDGzuUzV8kOg+N8UUvNBp64vy9q3UN7gDXhwWLY2nMC3zRDibfsY7wjEkY79CdMZhrxSqqzxf4ZRPXwzWJirMicDa5KwiPeARygHXKNMQHEy3rMopDR20XNZGbJzUtrwDC/KshlLDWyqdmhxZzCsdYmf2fWZPoxCEDyfIvdtNQH0PRkH6Q51g8rFO3Qzxh2LbItcDCOpmuOsV7ntNaERe3v/lP/zO8yn4N+yNPrekmPAAAAAElFTkSuQmCC)
+  * ![test 0](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+3TPUvDQBgH8OdDOGa+oUMgk2MpdHIIgpSUiqC0OKirgxYX8QVFRQRpBRF8KShqLbgIYkUEteCgFVuqUEVxEIkvJFhae3m8S2KbSkcFBw9yHP88+eXucgH8kQZ/jSm4VDaIy9RKCpKac9NKgU4uEJNwhHhK3qvPBVO8rxRWmFXPF+NSM1KVMbwriAMwhDgVcrxeMZm85GR0PhvGJAAmyozJsbsxgNEir4iEjIK0SYqGd8sOR3rJAGN2BCEkOxhxMhpd8Mk0CXtZacxi1hr20mI/rzgnxayoidevcGuHXTC/q6QuYSMt1jC+gBIiMg12v2vb5NlklChiWnhmFZpwvxDGzuUzV8kOg+N8UUvNBp64vy9q3UN7gDXhwWLY2nMC3zRDibfsY7wjEkY79CdMZhrxSqqzxf4ZRPXwzWJirMicDa5KwiPeARygHXKNMQHEy3rMopDR20XNZGbJzUtrwDC/KshlLDWyqdmhxZzCsdYmf2fWZPoxCEDyfIvdtNQH0PRkH6Q51g8rFO3Qzxh2LbItcDCOpmuOsV7ntNaERe3v/lP/zO8yn4N+yNPrekmPAAAAAElFTkSuQmCC)
   * ![test 1](data:image/gif;base64,R0lGODlhDwAOAOYAAAAAAP///+Pj5MzS6qy33bfA4sDI5dne8I6e0JGg0Zim1Jqo1aGu2H6SyZOj0HWMxYWYytbY3V98vLG801p9ulN6u2SHw0JvtYiix8vU4TBmsDBmrx9fqyJgrEB1uGCOxRpeqoGjygdXpwlYpw5aqBVhrGOUx6C+3N/p8+/0+dzd3gBVpQNWpgtdphBgqxpmqxpnqyBqsDB1tmqbx3CfzJe62Z+/3a/K46/J4r/V6c/f7t/q9AJaoQhcpAlcpVuSwh9sqC10rF+Xv5G20cXY5cba5wxnnZu7zXKfthhxmS6EloezvVqcqFeeqJq+w1SjqYC0sajNysrh3drp4trn4fD49O/18vb6+Pf5+OXs6Pz9/Pv8+////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFwALAAAAAAPAA4AAAeYgAEBThYVFxocJCwrL4KCW0gIDxIUGyAiKys6jlMhCg0TKhgdI5kzjksGDA4RKgInLpkwglhHAwQJEBmCOrErOAFUNQcFCx4uN4IpMis/AUwrJh8lKy45gjvMLQFPmZkymwG9mT4oVU2ZMSmCNt5ARYJaUDwrNgE03kHrjgFRRisxvAnhx09KEm9DCBLMoqQHEYUKrVyBGAgAOw==)
 
 # Chrome
@@ -334,7 +334,7 @@ App
   * [practice - 한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
     * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
     * [OS X에서 shift + space 키로 입력 소스를 전환하는 방법 (패러렐즈 한영전환 보충 내용)](http://macnews.tistory.com/3748)
-	* [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
+  * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
   * [맥 OS 하이 시에라 한영키를 우측 커맨드로 변경하기](https://jojoldu.tistory.com/345)
 * [Become The Shortcut Master — The Mac and Terminal (Part 1)](https://hackernoon.com/become-the-shortcut-master-the-mac-and-terminal-part-1-80793d8df033)
 * [맥북프로 재부팅 문제 해결 삽질기](http://www.popit.kr/%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EC%9E%AC%EB%B6%80%ED%8C%85-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%BD%EC%A7%88%EA%B8%B0/)
@@ -398,7 +398,7 @@ App
   * [Screencasting with free software](http://edouard.peller.in/2016/03/12/screencasting-with-free-software.html)
   * [Making Your Code Beautiful](https://hackernoon.com/presenting-your-code-beautifully-fdbab9e6fb68) gist, carbon, asciinema, svg-term, screenflow
   * [carbon - Create and share beautiful images of your source code](https://carbon.now.sh)
-		* [github.com/dawnlabs/carbon](https://github.com/dawnlabs/carbon)
+    * [github.com/dawnlabs/carbon](https://github.com/dawnlabs/carbon)
 * Screenshot
   * [Paparazzi! is a small utility for macOS that makes screenshots of webpages](https://derailer.org/paparazzi/)
   * [Screely instantly turns your screenshot or design into a beautiful image you can share anywhere](https://www.screely.com/) 간단한 스크린샷 or 스케치를 서비스에 넣으면 아름답고 변경

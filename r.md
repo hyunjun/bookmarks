@@ -246,6 +246,7 @@ R
 * [Exploratory Data Analysis in R](https://opendatascience.com/exploratory-data-analysis-in-r)
 * [RStudio Cloud](https://rstudio.cloud/)
   * [RStudio Cloud - 설치가 필요없는 R 스튜디오](http://blog.naver.com/newstars77/221370481425)
+* [The Economist’s Big Mac Index is calculated with R](https://www.r-bloggers.com/the-economists-big-mac-index-is-calculated-with-r/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -346,6 +347,7 @@ R
   * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
+* [neuralnet: Train and Test Neural Networks Using R](https://www.r-bloggers.com/neuralnet-train-and-test-neural-networks-using-r/)
 * [NLP4kec - 한글, 영어, 중국어 텍스트 데이터 파일을 입력받아 형태소 분석 후 R tm package에서 사용할 수 있도록 해주는 패키지](https://github.com/NamyounKim/NLP4kec)
 * [nodbi: the NoSQL Database Connector](https://www.r-bloggers.com/nodbi-the-nosql-database-connector/)
   * [NoSQL 데이터베이스를 다루는 nodbi](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-nosql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-nodbi/)

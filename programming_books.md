@@ -34,24 +34,24 @@ Programming Books
   * [서평: 프로그래밍 언어도감 ](https://blog.gaerae.com/2018/08/programming-gengo-zukan.html)
   * ★★☆☆☆ 뭔가 애매한 느낌. 초보자를 위한 책이라고 하지만, 언어 소개는 확실히 초보자 용으로 읽고 넘어갈 정도인데, 프로그래밍 개념 부분은 의외로 중급자용 키워드를 소개한다. 재미로 읽어볼만 함
 * (NOT YET) [실리콘밸리를 그리다](https://brunch.co.kr/@svillustrated/42)
-	* 2018.10 탐라
+  * 2018.10 탐라
 * (NOT YET) 우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기
-	* 2018.10 탐라
+  * 2018.10 탐라
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
-	* [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
+  * [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
 * (NOT YET) 데브옵스 2.0 툴킷
-	* 2018.09 한라
+  * 2018.09 한라
 * (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
 * (NOT YET) [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821?category=203154)
-	* 2018.09 한라
+  * 2018.09 한라
 * (NOT YET) [스타트업 인 액션](http://book.daum.net/detail/book.do?bookid=BOK00032597745AL)
-	* 한라 005.1-전95ㅅ
+  * 한라 005.1-전95ㅅ
 * (NOT YET) [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
-	* 2018.10 한라
+  * 2018.10 한라
 * (NOT YET) [JVM 언어 입문자바, 스칼라, 클로저, 코틀린, 그루비 체험하기](http://book.daum.net/detail/book.do?bookid=BOK00035755217YE)
-	* 2018.10 한라
+  * 2018.10 한라
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
 
 # Agile Scrum
@@ -365,7 +365,7 @@ Programming Books
 * (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
   * 2018.02 한라
 * (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
-	* 한라 004.73-김36ㄷ
+  * 한라 004.73-김36ㄷ
 * 강화학습 첫 걸음
   * 2018.03
   * 문004.73 줄239ㄱ
@@ -478,7 +478,7 @@ Programming Books
   * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://tensorflow.blog/2017/12/30/review-hands-on-machine-learning-with-scikit-learn-tensorflow/)
   * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EA%B3%BC-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4)
 * (NOT YET) [러닝 텐서플로 딥러닝 영상처리와 NLP부터 텐서보드 시각화, 멀티스레딩, 분산처리까지](http://www.yes24.com/24/goods/60506589)
-	* 한라 004.73-호897ㄹ
+  * 한라 004.73-호897ㄹ
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -527,7 +527,7 @@ Programming Books
 * [도메인 주도 설계(에릭에반스) -2](https://ash84.net/2017/06/08/domain-driven-development_2/)
 * [도메인 주도 설계(에릭에반스) -3](https://ash84.net/2017/06/11/domain-driven-development_3/)
 * [도메인 주도 설계 핵심](https://blog.gaerae.com/2018/08/domain-driven-design-distilled.html)
-	* [추상화를 조심스럽게 선택하라](http://huns.me/development/2252)
+  * [추상화를 조심스럽게 선택하라](http://huns.me/development/2252)
 * [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
 
 # Elasticsearch
@@ -546,7 +546,7 @@ Programming Books
 * **일래스틱 스택6 입문**
   * 한라005.74슈877ㅇ
 * (NOT YET) [데이터 분석 플랫폼 구축과 활용](http://www.yes24.com/24/goods/64464997?scode=032&OzSrank=2)
-	* 2018.10 한라
+  * 2018.10 한라
 
 # Finance
 
@@ -1059,9 +1059,9 @@ Programming Books
   * 2018.09
   * 탐라 문005.133 단77ㅅ
 * (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
-	* 2018.08 탐라
+  * 2018.08 탐라
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
-	* 한라
+  * 한라
 * (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
 
 # R
@@ -1180,7 +1180,7 @@ Programming Books
   * 제목처럼 관리자를 위한 책이라 프로그래밍 설명이 많지는 않음
 * **[빅데이터 분석을 위한 스파크 2 프로그래밍](http://wikibook.co.kr/spark/)**
   * 2017.02
-	* 한라 005.76-백54ㅂ
+  * 한라 005.76-백54ㅂ
   * Spark2.1 사용, MLib, sparkR, GraphX까지 다양
 * 아파치 스파크 입문 - 따라 하며 쉽게 익히는 스파크 SQL, 스트림처리, 머신러닝
   * 탐라 004.584 사237ㅇ
@@ -1200,7 +1200,7 @@ Programming Books
   * 한라 005.76드292ㅍ
   * 2.0 version
 * (NOT YET) [대용량 머신 러닝과 스파크빅데이터 기반의 머신 러닝 애플리케이션 구축](http://book.daum.net/detail/book.do?bookid=KOR9791161751771)
-	* 2018.10 한라
+  * 2018.10 한라
 
 # Statistics
 

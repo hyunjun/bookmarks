@@ -228,8 +228,8 @@ Open Source
 
 # Uber
 * Apollo
-	* [Real Time Analytics at UBER Scale](https://www.youtube.com/watch?v=XSXvPNEykb4)
-	* [Video: Real-Time Analytics at UBER Scale](https://www.memsql.com/blog/real-time-analytics-at-uber-scale/)
+  * [Real Time Analytics at UBER Scale](https://www.youtube.com/watch?v=XSXvPNEykb4)
+  * [Video: Real-Time Analytics at UBER Scale](https://www.memsql.com/blog/real-time-analytics-at-uber-scale/)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [AthenaX](https://eng.uber.com/athenax/)
   * [github.com/uber/AthenaX](https://github.com/uber/AthenaX)

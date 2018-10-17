@@ -390,10 +390,10 @@ Algorithm
 
 # String
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
-	* [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
+  * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
   * [ppt](http://banyan.cm.nctu.edu.tw/computernetwork2/Aho-Corasick(15).ppt)
-	* **[cascading multi word multi pattern matching](https://github.daumkakao.com/index-shin/blog/wiki/cascading-multi-word-multi-pattern-matching)**
+  * **[cascading multi word multi pattern matching](https://github.daumkakao.com/index-shin/blog/wiki/cascading-multi-word-multi-pattern-matching)**
 * BM
   * [Boyer–Moore string search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)
 * [Fast Algorithms for Exact String Matching](http://arxiv.org/abs/1509.09228)

@@ -45,7 +45,9 @@ Linux
     * [Plugin 살펴 보기 3편 (Connection)](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-3-connection.html)
     * [Plugin 살펴 보기 4편 (inventory)](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-4-inventory.html)
     * [plugin 중에서 python을 이용한 filter에 대한 짧은 이야기](https://sysnet4admin.blogspot.com/2018/01/ansible-plugin-python-filter.html)
-		* [Ansible 교육 자료 - 01. Introduction](http://mcpaint.tistory.com/277)
+    * Ansible 교육 자료
+      * [01. Introduction](http://mcpaint.tistory.com/277)
+      * [02. Playbooks](http://mcpaint.tistory.com/278)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)

@@ -419,7 +419,7 @@ TensorFlow
   * [Q Network](http://mobicon.tistory.com/539)
   * [Supervised Learning](http://mobicon.tistory.com/540)
   * [공부 여정](http://mobicon.tistory.com/543)
-	* [로지스틱 회귀의 비용함수 이해](http://mobicon.tistory.com/544)
+  * [로지스틱 회귀의 비용함수 이해](http://mobicon.tistory.com/544)
   * [Tensorflow 강좌 정리](http://mobicon.tistory.com/546)
 * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
 * [Get started with TensorFlow on law and statistics](https://medium.freecodecamp.org/tensorflow-starter-on-law-and-statistics-646072b93b5a)

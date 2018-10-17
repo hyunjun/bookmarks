@@ -102,6 +102,7 @@ Data Visualization
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * Semiotic [Introducing Semiotic for Data Visualization](https://medium.com/@Elijah_Meeks/introducing-semiotic-for-data-visualization-88dc3c6b6926)
 * [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
+  * [Vega, Vega-lite 넌 뭐니](http://mobicon.tistory.com/549)
 * [WebPlotDigitiger - HTML5 based online tool to extract numerical data from plot images. http://arohatgi.info/WebPlotDigitizer](https://github.com/ankitrohatgi/WebPlotDigitizer)
 
 # Python

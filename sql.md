@@ -74,7 +74,7 @@ SQL
 * **[RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/)** MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
 * [DataGrip 팁 모음](http://ohgyun.com/770) jetbrains database IDE
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
-	* [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
+  * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)
@@ -128,6 +128,9 @@ SQL
   * [`SELECT Email From Person GROUP BY Email HAVING COUNT(Id) > 1`](https://leetcode.com/problems/duplicate-emails/solution/)
   * [`SELECT Name AS 'Customers' FROM Customers WHERE Id NOT IN (SELECT CustomerId FROM Orders)`](https://leetcode.com/problems/customers-who-never-order/solution/)
   * [`SELECT IFNULL((SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1 OFFSET 1), NULL) AS SecondHighestSalary`](https://leetcode.com/problems/second-highest-salary/solution/)
+  * [`SELECT class FROM courses GROUP BY class HAVING COUNT(DISTINCT student) >= 5`](https://leetcode.com/problems/classes-more-than-5-students/solution/)
+  * [`SELECT * FROM cinema WHERE id % 2 = 1 AND description != 'boring' ORDER BY rating DESC`](https://leetcode.com/problems/not-boring-movies/solution/)
+  * [`UPDATE salary SET sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;`](https://leetcode.com/problems/swap-salary/solution/)
 * troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
@@ -201,7 +204,7 @@ SQL
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [Delayed Replication을 이용해 유실된 데이터 빠르게 복구하기](http://tmondev.blog.me/220970798327)
 * **[MySQL을 NoSQL로 사용하기](http://advent.perl.kr/2012/2012-12-12.html)**
-	* 2010년 글 memcached 400,000/sec get vs. 100,000/sec select MySQL/InnoDB
+  * 2010년 글 memcached 400,000/sec get vs. 100,000/sec select MySQL/InnoDB
   * plugin을 통해 750,000/sec으로 성능 향상
 * utf8mb4
   * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)

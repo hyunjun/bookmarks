@@ -125,8 +125,8 @@ Git
   * [이론 편 git으로 백업만 하셨던 분들 여기여기 붙어라~](https://www.huskyhoochu.com/issue-based-version-control-101)
   * [실전 편 딱 일곱 단계로 끝장내는 이슈 기반 버전 관리](https://www.huskyhoochu.com/issue-based-version-control-201)
 * [Towards Natural Language Semantic Code Search](https://githubengineering.com/towards-natural-language-semantic-code-search/)
-	* [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
-	* [demo for Semantic Code Search](https://experiments.github.com/semantic-code-search)
+  * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+  * [demo for Semantic Code Search](https://experiments.github.com/semantic-code-search)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

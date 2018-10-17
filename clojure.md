@@ -253,6 +253,7 @@ Clojure
 * [Reasoned Schemer for Clojure](https://github.com/philoskim/reasoned-schemer-for-clojure)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 * [Clojure/ClojureScript Boot literate programming template](https://maximgb.github.io/clojure-boot-literate)
+* [개발 환경 설정](https://github.com/clojure-kr/clojure-complete/blob/master/Development-Environments/development-environments.adoc)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -523,8 +524,8 @@ Clojure
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
 * fxml
-	* [github.com/netpyoung/pt.using-fxml-on-clojure](https://github.com/netpyoung/pt.using-fxml-on-clojure)
-	* [Using FXML on Clojure](https://www.slideshare.net/netpyoung/using-fxml-on-clojure)
+  * [github.com/netpyoung/pt.using-fxml-on-clojure](https://github.com/netpyoung/pt.using-fxml-on-clojure)
+  * [Using FXML on Clojure](https://www.slideshare.net/netpyoung/using-fxml-on-clojure)
 * [geminio - Http client with client side load balancer (http-kit + consul + ribbon)](https://github.com/eunmin/geminio)
 * [Glow: Syntax Highlighting for Clojure Source Code](http://blog.venanti.us/glow/)
 * [google.github.io/closure-library](https://google.github.io/closure-library/api/index.html)

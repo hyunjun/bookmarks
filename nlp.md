@@ -157,9 +157,6 @@ NLP
 * [Awesome-Korean-NLP](https://github.com/datanada/Awesome-Korean-NLP)
 * [Awesome-korean-nlp](https://insikk.github.io/awesome-korean-nlp/)
 * [Is Google Hyping it? Why Deep Learning cannot be Applied to Natural Languages Easily](https://www.linkedin.com/pulse/google-hyping-why-deep-learning-cannot-applied-easily-berkan-ph-d)
-* [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
-* [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
-* [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
 * [ratsgo.github.io/blog/categories](https://ratsgo.github.io/blog/categories/)
   * [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
@@ -575,8 +572,8 @@ NLP
 * [academictorrents.com](http://academictorrents.com/)
 * [Adapt Intent Parser - an open source software library for converting natural language into machine readable data structures](https://adapt.mycroft.ai)
 * [AllenNLP - An open-source NLP research library, built on PyTorch](http://allennlp.org/)
-	* [An open-source NLP research library, built on PyTorch](https://github.com/allenai/allennlp)
-		* [crf](https://github.com/allenai/allennlp/blob/master/allennlp/modules/conditional_random_field.py)
+  * [An open-source NLP research library, built on PyTorch](https://github.com/allenai/allennlp)
+    * [crf](https://github.com/allenai/allennlp/blob/master/allennlp/modules/conditional_random_field.py)
 * [Autosub - Command-line utility for auto-generating subtitles for any video file](https://github.com/agermanidis/autosub)
 * [Babelpish.github.io](http://babelpish.github.io)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
@@ -776,7 +773,13 @@ NLP
 * [jena Ontology API와 sparQL을 사용하여 검색시스템 만들기](http://cholol.tistory.com/225)
 
 # Paper
+* [Awesome Korean NLP Papers](https://github.com/papower1/Awesome-Korean-NLP-Papers)
 * [57 SUMMARIES OF MACHINE LEARNING AND NLP RESEARCH](http://www.marekrei.com/blog/paper-summaries/)
+* [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
+* [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
+* [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.facebook.com/groups/TensorFlowKR/permalink/767590103582050/)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
@@ -1008,6 +1011,7 @@ NLP
 * [How to build a simple speech recognition app](https://medium.freecodecamp.org/how-to-build-a-simple-speech-recognition-app-a65860da6108)
 * [Common Voice Project](https://voice.mozilla.org/)
 * [Toolkits for robust speech processing](https://www.slideshare.net/ChangGiMoon/toolkits-for-robust-speech-processing)
+* [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice) 설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

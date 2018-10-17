@@ -482,6 +482,7 @@ Machine Learning
 * [Analyzing verbatim comments in spreadsheets using machine learning](https://blog.paralleldots.com/smartreader/analyzing-verbatim-comments-on-spreadsheets-using-machine-learning/)
 * [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 * [Training machine learning models online for free(GPU, TPU enabled)!!!](https://towardsdatascience.com/training-machine-learning-models-online-for-free-gpu-tpu-enabled-5def6a5c1ce3)
+* [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/#nll) NLL
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -656,6 +657,7 @@ Machine Learning
 * [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 * [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 * [Work like a Pro with Pipelines and Feature Unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)
+* [Kaggle_NLP_Song](https://github.com/songys/Kaggle_NLP_Song/blob/master/README.md)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)

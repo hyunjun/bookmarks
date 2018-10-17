@@ -301,7 +301,7 @@
   * [Part 2 - RDD](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes-part-2-rdd/)
   * [Part 3 - Data Frames and SQL](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-3-dataframes-and-sql/)
   * [Part 4 — MLlib](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-4-mllib/)
-	* [Part 5 - Streaming](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-5-streaming/)
+  * [Part 5 - Streaming](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-5-streaming/)
   * [Part 6 - GraphX](https://datascience-school.com/blog/practical-apache-spark-in-10-minutes.-part-6-graphx)
 * partition의 개수가 지나치게 적게 잡혀서 worker 역시 부족하게 할당되면서 성능 하락 [problem e.g](https://www.facebook.com/groups/sparkkoreauser/permalink/1753810921347470/)
   * 다양한 경우에서 자주 발생
@@ -320,7 +320,7 @@
 * [Working with Nested JSON Using Spark | Parsing Nested JSON File in Spark](https://www.youtube.com/watch?v=n3owBqa9ATQ)
 * [practice - sc.textFile로 gzipped hdfs file을 읽을 경우 성능 저하 or job 실패](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff#file-unzip_gzipped_hdfs_file-md)
 * [What’s New for Apache Spark on Kubernetes in the Upcoming Apache Spark 2.4 Release](https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html)
-	* 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
+  * 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 

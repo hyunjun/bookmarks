@@ -662,7 +662,7 @@ Deep Learning
 * [Deep learning made easier with transfer learning](https://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html)
 * [Deep Learning 위해서는 어떤 GPU를 사야 할까요?](http://tmmse.xyz/2016/05/02/gpureccom/)
 * [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
-	* [Xue Bin (Jason) Peng](https://xbpeng.github.io/)
+  * [Xue Bin (Jason) Peng](https://xbpeng.github.io/)
 * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
   * [An implementation of the GLOW paper and simple normalizing flows lib](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-10-Normalizing-Flows-NICE-RealNVP-GLOW)
 
@@ -1360,8 +1360,8 @@ Deep Learning
 * [RNN and its applications](https://www.slideshare.net/samchoi7/rnnerica)
 * [How to Use the TimeDistributed Layer for Long Short-Term Memory Networks in Python](https://machinelearningmastery.com/timedistributed-layer-for-long-short-term-memory-networks-in-python/)
 * Exploring LSTMs: Understanding Basics
-	* [Part One](https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning)
-	* [Part Two](https://www.topbots.com/exploring-lstm-tutorial-part-2-recurrent-neural-network-deep-learning)
+  * [Part One](https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning)
+  * [Part Two](https://www.topbots.com/exploring-lstm-tutorial-part-2-recurrent-neural-network-deep-learning)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -1912,6 +1912,7 @@ CVPR2016)
 * [Evolving Stable Strategies](http://blog.otoro.net/2017/11/12/evolving-stable-strategies/)
   * [ESTool](https://github.com/hardmaru/estool/blob/master/README.md)
 * [Doing Deep Reinforcement learning with PPO](https://www.slideshare.net/ssuser517c25/doing-deep-reinforcement-learning-with-ppo-82483715)
+* [Keras_CNN_PPO_StarCraft](https://github.com/jangikim2/Reinforcement-Learning/tree/master/Keras_CNN_PPO_StarCraft)
 * [The pycolab game engine](https://github.com/deepmind/pycolab)
 * [Neural Map - Structured Memory for Deep RL](http://www.cs.cmu.edu/~rsalakhu/NIPS2017_StructureMemoryForDeepRL.pdf)
 * [확률적 바람이 부는 격자 세계로 익히는 강화학습](https://blog.naver.com/kwonpub/221167111861)
