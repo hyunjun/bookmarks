@@ -247,6 +247,14 @@ R
 * [RStudio Cloud](https://rstudio.cloud/)
   * [RStudio Cloud - 설치가 필요없는 R 스튜디오](http://blog.naver.com/newstars77/221370481425)
 * [The Economist’s Big Mac Index is calculated with R](https://www.r-bloggers.com/the-economists-big-mac-index-is-calculated-with-r/)
+* [Time Series Analysis - 1 | Time Series in R | Time Series Forecasting | Data Science | Simplilearn](https://www.youtube.com/watch?v=gj4L2isnOf8)
+* [Time Series Analysis - 2 | Time Series in R | ARIMA Model Forecasting | Data Science | Simplilearn](https://www.youtube.com/watch?v=Y5T3ZEMZZKs)
+* [Data Science With R | Introduction to Data Science with R | Data Science For Beginners | Simplilearn](https://www.youtube.com/watch?v=0vCK17cQt14)
+* [Logistic Regression in R | Logistic Regression in R Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=XycruVLySDg)
+* [Linear Regression in R | Linear Regression in R With Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=2Sb1Gvo5si8)
+* [Support Vector Machine in R | SVM Algorithm Example | Data Science With R Tutorial | Simplilearn](https://www.youtube.com/watch?v=QkAmOb1AMrY)
+* [Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial | Machine Learning |Simplilearn](https://www.youtube.com/watch?v=HmEPCEXn-ZM)
+* [Random Forest In R | Random Forest Algorithm | Random Forest Tutorial | Machine Learning |Simpilearn](https://www.youtube.com/watch?v=HeTT73WxKIc)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -444,6 +452,7 @@ R
   * [2 행정경계구역 데이터 전처리 및 단계구분도 그리기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-2/)
   * [3 움직이는 지도로 표현하기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-3/)
   * [4 중앙선관위 투표 결과 데이터 크롤링하기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-4/)
+* [Data Visualization In R | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=_WyUme_H2ZQ)
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)

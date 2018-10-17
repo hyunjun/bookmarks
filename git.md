@@ -127,6 +127,7 @@ Git
 * [Towards Natural Language Semantic Code Search](https://githubengineering.com/towards-natural-language-semantic-code-search/)
   * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
   * [demo for Semantic Code Search](https://experiments.github.com/semantic-code-search)
+* [Git 뽀개기(자료 모음집) (비)개발자들을 위한 Git과 Github 기초 자료 모음집입니다](https://seanlion.github.io/blog/23)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

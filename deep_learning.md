@@ -552,6 +552,8 @@ Deep Learning
 * [Policy Gradient](https://nbviewer.jupyter.org/format/slides/gist/kkweon/e8522c4b04e1e7c6665c53ac12ac7f1d#)
 * [0. Policy Gradient의 세계로](https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/)
   * [Policy Gradient (PG) Algorithms](https://github.com/reinforcement-learning-kr/pg_travel)
+* [PG Travel Guide](https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/)
+  * [Policy Gradient (PG) Algorithms](https://github.com/reinforcement-learning-kr/pg_travel)
 * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
 * **[번역 2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
@@ -691,6 +693,8 @@ Deep Learning
 * [minigo - An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
 * [Explained Simply: How an AI program mastered the ancient game of Go](https://medium.freecodecamp.org/explained-simply-how-an-ai-program-mastered-the-ancient-game-of-go-62b8940a9080)
 * [알파고 분석 Part.1 - 엑셈 CTO 박재호](https://www.youtube.com/watch?v=b8MUVASzb8M)
+* [Alpha-Omok Minimal version of DeepMind AlphaZero](https://github.com/reinforcement-learning-kr/alpha_omok)
+  * [알파오목](https://www.youtube.com/watch?v=rJHEM31Dxw8)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -1821,6 +1825,7 @@ CVPR2016)
   * [Visualization Changes - p.16](https://pythonprogramming.net/visual-changes-starcraft-ii-ai-python-sc2-tutorial/)
   * [More Training and Findings - p.17](https://pythonprogramming.net/stage2-training-starcraft-ii-ai-python-sc2-tutorial/)
 * [sc2-korean-level](https://chris-chris.gitbook.io/sc2-korean-level/untitled)
+* [TStarBots Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game](https://chagmgang.github.io/starcraft_ii_rl/2018/10/15/TStarBots-Defeating-the-Cheating-Level-Builtin-AI-in-StarCraft-II-in-the-Full-Game.html)
 * [Building a Deep Neural Network to play FIFA 18](https://towardsdatascience.com/building-a-deep-neural-network-to-play-fifa-18-dce54d45e675)
 * [Using Deep Learning to improve FIFA 18 graphics](https://towardsdatascience.com/using-deep-learning-to-improve-fifa-18-graphics-529ec44ea37e)
 * [Deep Learning in a Nutshell: Reinforcement Learning](https://devblogs.nvidia.com/parallelforall/deep-learning-nutshell-reinforcement-learning/)
