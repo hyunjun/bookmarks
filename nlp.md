@@ -245,6 +245,11 @@ NLP
 * [A Review of the Neural History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
 * [Natural Language Processing Tutorial Part 1 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Na4ad0rqwQg)
 * [Natural Language Processing Tutorial Part 2 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=9LLs2I8_gQQ)
+* [Natural Language Processing Tutorial Part 3 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=af4C8OhoWlQ)
+* [Natural Language Processing Tutorial Part 4 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=JcscKnF-T24)
+* [Natural Language Processing Tutorial Part 5 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Dv6MAWtWBmU)
+* [Natural Language Processing Tutorial Part 6 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=VZFmwKMh9Ck)
+* [How NLP is Automating the complete Text Analysis Process for Enterprises?](https://blog.paralleldots.com/data-science/nlp/nlp-is-automating-the-complete-text-analysis)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

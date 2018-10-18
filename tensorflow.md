@@ -563,6 +563,7 @@ TensorFlow
 * [How to install Tensorflow GPU with CUDA Toolkit 9.1 and cuDNN 7.1.2 for Python 3 on Ubuntu 16.04-64bit](http://www.python36.com/install-tensorflow141-gpu/)
 * [Tensorflow 설치하기](http://mobicon.tistory.com/512)
 * [Stop Installing Tensorflow using pip for performance sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
+  * [TensorFlow in Anaconda](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
