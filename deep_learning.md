@@ -667,6 +667,7 @@ Deep Learning
   * [Xue Bin (Jason) Peng](https://xbpeng.github.io/)
 * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
   * [An implementation of the GLOW paper and simple normalizing flows lib](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-10-Normalizing-Flows-NICE-RealNVP-GLOW)
+* [Optimal real-time landing using DNN](https://www.slideshare.net/ssuser06e0c5/optimal-realtime-landing-using-dnn)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

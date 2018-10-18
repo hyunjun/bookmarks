@@ -562,6 +562,7 @@ TensorFlow
 * [CUDA & CUDNN 설치 및 환경 변수 설정](https://post.naver.com/viewer/postView.nhn?volumeNo=15102526&memberNo=8098532)
 * [How to install Tensorflow GPU with CUDA Toolkit 9.1 and cuDNN 7.1.2 for Python 3 on Ubuntu 16.04-64bit](http://www.python36.com/install-tensorflow141-gpu/)
 * [Tensorflow 설치하기](http://mobicon.tistory.com/512)
+* [Stop Installing Tensorflow using pip for performance sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)

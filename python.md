@@ -337,6 +337,7 @@ Python
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
+* [win32print](http://timgolden.me.uk/python/win32_how_do_i/print.html)
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
 * [The one-stop guide to (easy) cross-platform Python freezing: Part 1](https://hackernoon.com/the-one-stop-guide-to-easy-cross-platform-python-freezing-part-1-c53e66556a0a)
@@ -723,6 +724,7 @@ Python
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
   * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
   * [Running a method as a background thread in Python](http://sebastiandahlgren.se/2014/06/27/running-a-method-as-a-background-thread-in-python/)
+	* [rogrepos.py](https://github.com/lqez/rogrepos/blob/master/rogrepos/rogrepos.py)
   * [Python ProcessPoolExecutor Tutorial](https://tutorialedge.net/python/concurrency/python-processpoolexecutor-tutorial/)
     * [Python ProcessPoolExecutors Tutorial](https://www.youtube.com/watch?v=J7w_G6ZKzz4)
     * [practice](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_pool.py)
@@ -2278,6 +2280,7 @@ Python
 * tox
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
+  * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고

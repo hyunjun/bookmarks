@@ -138,6 +138,8 @@ Algorithm
 * [A Short Summary of Smoothing Algorithms](https://opendatascience.com/a-short-summary-of-smoothing-algorithms/)
 * [Parse Tree](http://interactivepython.org/runestone/static/pythonds/Trees/ParseTree.html)
 * **[The Algorithms Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)**
+* [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms)
+* [n개의 제비뽑기에 n번 도전](https://johngrib.github.io/wiki/frac1e/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -340,6 +342,7 @@ Algorithm
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
 * [The Ziggurat Algorithm for Random Gaussian Sampling](http://heliosphan.org/zigguratalgorithm/zigguratalgorithm.html)
+* [폰 노이만식 난수 생성법(Basic von Neumann extractor)](https://johngrib.github.io/wiki/von-neumann-extractor/)
 
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
@@ -405,6 +408,7 @@ Algorithm
   * **[KMP : 문자열 검색 알고리즘](http://bowbowbow.tistory.com/6)**
   * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search)](https://www.youtube.com/watch?v=GTJr8OvyEVQ)
   * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search) Part2](https://youtu.be/KG44VoDtsAA)
+* [Manacher's algorithm - 팰린드롬 O(n)](https://blog.naver.com/yubhh21/220867303992)
 * Rabin-Karp
   * [Rabin Karp Substring Search Pattern Matching](https://www.youtube.com/watch?v=H4VrKHVG5qI)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
