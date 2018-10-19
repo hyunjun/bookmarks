@@ -483,6 +483,7 @@ Machine Learning
 * [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 * [Training machine learning models online for free(GPU, TPU enabled)!!!](https://towardsdatascience.com/training-machine-learning-models-online-for-free-gpu-tpu-enabled-5def6a5c1ce3)
 * [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/#nll) NLL
+* [아파트 시세, 어쩌다 머신러닝까지](https://www.slideshare.net/seokjoonyun9/ss-119941642)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

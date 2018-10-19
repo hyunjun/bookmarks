@@ -79,9 +79,10 @@ Book
   * 2018.08 탐라
 * (NOT YET) [역사의 역사](http://book.daum.net/detail/book.do?bookid=KOR9788971998557)
   * 한라 901-유58ㅇ=2
-* (NOT YET) [등대의 세계사](https://steemit.com/kr/@kang.hyun/2c6bc6)
+* [등대의 세계사](https://steemit.com/kr/@kang.hyun/2c6bc6)
   * 탐라 문538.72 주11ㄷ
   * [책과 삶 등대의 불빛에 담긴 문명의 진보와 아픔의 역사](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=201806152057035)
+  * ★★★★☆ 2018.10.19 저자의 다양한 지식이 잘 드러나는 재미있는 역사책. 등대의 역사이니 당연히 해양사는 기본이고, 그 바탕에 얽힌 간단하지만 각지의 다양한 세계사 이야기나 프레넬렌즈로 인한 기술 이야기까지 여러모로 재미있게 읽을 수 있다
 
 # Math
 * [한번읽고 평생 써먹는 수학상식 이야기](http://jybaek.tistory.com/754)

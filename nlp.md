@@ -245,6 +245,7 @@ NLP
 * [A Review of the Neural History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
 * [Natural Language Processing Tutorial Part 1 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Na4ad0rqwQg)
 * [Natural Language Processing Tutorial Part 2 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=9LLs2I8_gQQ)
+* [handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

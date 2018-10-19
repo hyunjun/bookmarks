@@ -566,6 +566,7 @@ Javascript
 * [GraphQL 그리고 NodeJS로 영화API 만들기](https://academy.nomadcoders.co/courses/enrolled/357405)
 * [GraphQL Remote Schema Stitching in a Multi-Service Architecture](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
 * [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
+* [이제 대세는 리덕스 갈아치우기? Bye Bye Redux? Feat. MobX, GraphQL and Apollo!](https://www.youtube.com/watch?v=dRbW-__i_4U)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -883,6 +884,7 @@ Javascript
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
 * [strml.net - interactive coding](http://strml.net/)
 * [Substance - A JavaScript library for web-based content editing](http://substance.io/)
+* [Surge.sh 로 무료로 정적 웹 어플리케이션 배포하기](https://hudi.kr/surge-sh-%EB%A1%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
@@ -1604,6 +1606,7 @@ Javascript
 * [ES6 화살표 함수에 없는 3가지?](https://www.youtube.com/watch?v=4zjKltnIBug)
 * [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 * [타입스크립트에서 if문 안에 promise가 들어가는 문제 피하기](https://libsora.so/posts/prevent-bug-by-if-statement-with-promise/)
+* [React-TypeScript 프로덕트에서 인물사진 유효성 검사하기](https://meshkorea.github.io/react-ts-canvas-photo-upload/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

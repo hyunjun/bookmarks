@@ -414,6 +414,7 @@ Data Science
 * [SK ICT Tech Summit 2017 추천 플랫폼 콜로세오](https://readme.skplanet.com/?p=13903)
   * [SK ICT Tech Summit 2017 추천 플랫폼 콜로세오](https://www.slideshare.net/JaehoonJung/sk-ict-tech-summit-2017-sk-planet)
 * [눈으로 듣는 음악 추천 시스템](https://brunch.co.kr/@kakao-it/282) CF, CBF
+* [ML: Matchbox Recommender 추천 모델 적용 실패 사례](http://ohgyun.com/775)
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**

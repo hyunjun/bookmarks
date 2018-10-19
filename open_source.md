@@ -47,6 +47,7 @@ Open Source
 * [Permissive 라이선스는 동작을 할까?](http://hl1itj.tistory.com/181)
 * [오픈소스, 줘도 못 먹나 - 오픈소스로 팀의 개발 생산성 높이기 by kenu 참석후기!](http://jojoldu.tistory.com/327)
 * [2018 최고의 오픈소스 소프트웨어 : 데이터 스토리지 및 애널리틱스](http://www.itworld.co.kr/slideshow/110963)
+* [개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법 (Why and How to Contribute to Open Source)](https://www.youtube.com/watch?v=GejCvgcBLwA)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)

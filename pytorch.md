@@ -10,6 +10,7 @@ PyTorch
 * [github.com/pytorch](https://github.com/pytorch)
 * [PyTorchZeroToAll](https://drive.google.com/drive/folders/0B41Zbb4c8HVyUndGdGdJSXd5d3M)
   * [PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)
+* [Awesome-pytorch-list](https://bharathgs.github.io/Awesome-pytorch-list/)
 * [Awesome-pytorch-list - A comprehensive list of pytorch related content on github,such as different models,implementations,helper libraries,tutorials etc](https://github.com/bharathgs/Awesome-pytorch-list)
 * [the-incredible-pytorch](https://github.com/ritchieng/the-incredible-pytorch)
 * [PyTorch-Deep-Learning-Minicourse](https://github.com/Atcold/PyTorch-Deep-Learning-Minicourse)
@@ -110,6 +111,7 @@ PyTorch
 * [PyTorch JIT Source Code Read Note](https://zasdfgbnm.github.io/2018/09/20/PyTorch-JIT-Source-Code-Read-Note/)
 * [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
 * [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
+* [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

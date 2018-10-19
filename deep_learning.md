@@ -1598,6 +1598,7 @@ Deep Learning
   * [Sentiment Analysis via Self-Attention with MXNet Gluon](https://medium.com/apache-mxnet/sentiment-analysis-via-self-attention-with-mxnet-gluon-dc774d38ba69)
   * [MXNet 초보자를 위한 Gluon 한 시간에 뽀개기](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb)
     * [MXNet 초보자를 위한 Gluon 한 시간에 뽀개기](https://colab.research.google.com/github/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb)
+  * [딥러닝계의 블루오션, Apache MXNet 공헌하기 - 윤석찬 (AWS 테크에반젤리스트) 오규삼 (삼성 SDS)](https://www.slideshare.net/awskorea/apache-mxnet-soscon-2018)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
