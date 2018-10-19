@@ -1233,6 +1233,7 @@ Deep Learning
   * [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
   * [How do we capture structure in relational data?](https://thegradient.pub/structure-learning/)
   * [Graph Convolutional Networks for relational graphs](https://github.com/tkipf/relational-gcn) keras
+* [Graph Nets - DeepMind's library for building graph networks in Tensorflow and Sonnet](https://github.com/deepmind/graph_nets)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [딥러닝 - 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149)
