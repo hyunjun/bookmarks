@@ -260,7 +260,7 @@ Nomad & Remote
 * [Bootstrapping in Saigon](https://medium.com/digital-nomad-stories/bootstrapping-in-saigon-fc9744367386)
 * [베트남의 스타트업 탐방기](https://medium.com/@yumenohosi/%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%ED%83%90%EB%B0%A9%EA%B8%B0-72ccfa0db4e2)
 * [베트남 지사 설립 후기](https://medium.com/@yumenohosi/%EB%B2%A0%ED%8A%B8%EB%82%A8-%EC%A7%80%EC%82%AC-%EC%84%A4%EB%A6%BD-%ED%9B%84%EA%B8%B0-7e65fa41c7e3)
-* [베트남으로 SW R&D 센터를 옮긴 이유](https://medium.com/@yumenohosi/%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%9C%BC%EB%A1%9C-sw-r-d-%EC%84%BC%ED%84%B0%EB%A5%BC-%EC%98%AE%EA%B8%B4-%EC%9D%B4%EC%9C%A0-bea08de7681b?fbclid=IwAR0cfAj_Nx2mdU8XYvwE_3UUvuij7u5oWS8HqJ7Ldlkfh5cUEkSuxwAG4Fg)
+* [베트남으로 SW R&D 센터를 옮긴 이유](https://medium.com/@yumenohosi/%EB%B2%A0%ED%8A%B8%EB%82%A8%EC%9C%BC%EB%A1%9C-sw-r-d-%EC%84%BC%ED%84%B0%EB%A5%BC-%EC%98%AE%EA%B8%B4-%EC%9D%B4%EC%9C%A0-bea08de7681b)
 
 # Working from home
 * [재택근무 효율적으로 하는 방법](http://ppss.kr/archives/38963)

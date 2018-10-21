@@ -484,6 +484,8 @@ Machine Learning
 * [Training machine learning models online for free(GPU, TPU enabled)!!!](https://towardsdatascience.com/training-machine-learning-models-online-for-free-gpu-tpu-enabled-5def6a5c1ce3)
 * [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/#nll) NLL
 * [아파트 시세, 어쩌다 머신러닝까지](https://www.slideshare.net/seokjoonyun9/ss-119941642)
+* [쏘카에서 머신러닝 인재를 채용하는 이유 (feat. 타다)](https://speakerdeck.com/swkimme/ssokaeseo-meosinreoning-injaereul-caeyonghaneun-iyu-feat-tada)
+* [사회인의 휴학, Gap Year 이야기](https://www.slideshare.net/zzsza/gap-year-119998766)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -520,6 +522,7 @@ Machine Learning
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
+* [A Beginner Mathematics Book For Machine Learning](https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/)
 * [Model-Based Machine Learning](http://mbmlbook.com)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
   * [Pattern Recognition and Machine Learning](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/PRML/prml-chap2.ipynb)

@@ -1414,13 +1414,6 @@ Python
   * [Philip Jones - Quart a asyncio alternative to Flask](https://www.youtube.com/watch?v=t8-Y7Kivuu0)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 
-# Functional
-* [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
-* [A functional standard library for Python http://toolz.readthedocs.org ](https://github.com/pytoolz/toolz)
-* [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
-* [Episode #117: Functional Python with Coconut](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)
-* [Functional Programming in Python](https://www.youtube.com/playlist?list=PLP8GkvaIxJP1z5bu4NX_bFrEInBkAgTMr)
-
 # GraphQL
 * [GraphQL Python](https://github.com/graphql-python)
 * [graphene-python.org](http://graphene-python.org/)
@@ -1857,6 +1850,7 @@ Python
   * [Generating mock data using Elizabeth: Part I](https://medium.com/wemake-services/generating-mock-data-using-elizabeth-part-i-ca5a55b8027c)
   * [Generating mock data with Elizabeth: Part II](https://medium.com/wemake-services/generating-mock-data-with-elizabeth-part-ii-bb16a3f3106f)
 * [enaml - Declarative User Interfaces for Python](https://github.com/nucleic/enaml)
+* [Eric - a full featured Python editor and IDE, written in Python](https://eric-ide.python-projects.org)
 * [extruct is a library for extracting embedded metadata from HTML markup](https://github.com/scrapinghub/extruct)
 * [fabric](https://github.com/mathiasertl/fabric)
   * [fabric을 활용한 배포](http://thswave.github.io/python/fabric/2015/05/31/introduce-fabric.html)
@@ -2509,6 +2503,7 @@ Python
 * [pyconkr 2014](http://www.pycon.kr/2014/)
   * [정민영 제약을 넘어; gevent pycon korea 2014](http://www.pycon.kr/2014/program/3)
 * [pycon 2015](https://www.youtube.com/channel/ucgxzjk6guohvkr_08tt4hjq/feed)
+  * [PyCon 2015](https://speakerdeck.com/pycon2015)
   * [python names and values](http://nedbatchelder.com/text/names1.html)
   * [pycon 2015: are we still changing the world?](http://blog.lisnr.com/2015/05/11/pycon-2015-are-we-still-changing-the-world/)
   * [pycon 2015 montreal](http://vid.plus/yt.php?fu=5v6o-vslaew)

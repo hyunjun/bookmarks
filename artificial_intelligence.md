@@ -1,5 +1,6 @@
 Artificial Intelligence
 =======================
+* [AI School](https://aischool.microsoft.com)
 * [hub-ai.com](http://hub-ai.com/)
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
 * [github.com/kjw0612](https://github.com/kjw0612/)

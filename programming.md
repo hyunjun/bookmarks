@@ -421,6 +421,7 @@ Programming
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB](https://www.youtube.com/watch?v=F_BuRIAnvqE)
 * [마이크로서비스 아키텍처(MSA). 서비스 개발팀 이야기](https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/)
 * [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들](https://www.slideshare.net/deview/115-119061611)
+* [마이크로 서비스 아키텍쳐와 컨테이너](http://bcho.tistory.com/1289)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -1204,6 +1205,7 @@ Programming
   * [#1 첫번째 프로젝트 리뷰, 목표설정, TDD공부, UI 테스트](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-1-5345775d85bb)
   * [#2 TDD로 진행한 내용정리,통계, 두번째 TDD에 대한 소감,에피소드](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-2-f38276d39a9d)
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
+* [2018 OKKYCON - The Real TDD](https://github.com/david-learner/java-study/blob/master/2018OKKYCON/readme.md)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
