@@ -46,8 +46,9 @@ Programming Books
 	* 한라 005.12파297ㄷ
 	* vagrant, docker, kubernetes, puppet, chef, ansible, docker swarm, docker compose, consul, etcd, registrator, confd, nginx/ha proxy
 * (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
-* (NOT YET) [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821?category=203154)
-  * 2018.09 한라
+* [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821)
+  * 2018.09
+  * 한라 569몽877ㅎ
 * (NOT YET) [스타트업 인 액션](http://book.daum.net/detail/book.do?bookid=BOK00032597745AL)
   * 한라 005.1-전95ㅅ
 * (NOT YET) [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
@@ -172,10 +173,16 @@ Programming Books
   * OS X 사용자를 위해 Xcode 설치가 나와있는 점도 특이
 * Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저
   * [북리뷰 Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저](http://blog.naver.com/yo2dh/220822566110)
-* (NOT YET) [모던 C++로 배우는 동시성 프로그래밍](http://jpub.tistory.com/824)
-  * 2018.09 한라
-* (NOT YET) [모던 C++로 배우는 함수형 프로그래밍 - 커링, 메타프로그래밍 등 C++와 함수형 프로그래밍의 핵심](http://acornpub.co.kr/book/cplus-functional-programming)
-  * 2018.09 한라
+* [모던 C++로 배우는 동시성 프로그래밍](http://jpub.tistory.com/824)
+  * 2018.09
+  * 한라 005.135그298ㅁ
+  * [Concurrency with Modern C++](https://leanpub.com/concurrencywithmodernc)
+  * [모던 C++로 배우는 동시성 프로그래밍](https://github.com/jpub/rainergrimm)
+* [모던 C++로 배우는 함수형 프로그래밍 - 커링, 메타프로그래밍 등 C++와 함수형 프로그래밍의 핵심](http://acornpub.co.kr/book/cplus-functional-programming)
+  * 2018.09
+  * 한라 005.133앤14ㅁ
+  * [Learning C++ Functional Programming](https://github.com/PacktPublishing/LearningCPPFunctionalProgramming)
+  * [(번역서) 모던 C++로 배우는 함수형 프로그래밍 예제 코드](https://github.com/surinkim/learning_cpp_functional_programming_kor)
 
 # C#
 
