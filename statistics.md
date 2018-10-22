@@ -164,6 +164,9 @@ Statistics
 * [Predicting NYC Real Estate Prices with Probabilistic Programming](http://blog.fastforwardlabs.com/2017/03/15/predicting-nyc-real-estate-prices-with-probabilistic-programming.html)
 * [Degrees of Freedom](https://jkeun.github.io/2017-07-24/degrees-of-freedom)
 * [Statistics 110 : Probability](https://www.edwith.org/harvardprobability/joinLectures/17924)
+* [ChoiFran's Analogy (최프란의 비유) 한국어 버전](https://www.youtube.com/playlist?list=PLgSth2TawHJ9-GG9DiEPNhHJ3rWngNJro)
+* [Skewness Formula](https://www.macroption.com/skewness-formula/)
+* [Kurtosis Formula](https://www.macroption.com/kurtosis-formula/)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)

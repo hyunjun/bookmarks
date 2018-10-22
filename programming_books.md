@@ -41,8 +41,10 @@ Programming Books
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
   * [엣시와 콘웨이 법칙 - 데브옵스 핸드북 읽기](https://brunch.co.kr/@moonjoonyoung/6)
-* (NOT YET) 데브옵스 2.0 툴킷
-  * 2018.09 한라
+* [데브옵스 2.0 툴킷](http://acornpub.co.kr/book/devops-2.0-toolkit)
+  * 2018.09
+	* 한라 005.12파297ㄷ
+	* vagrant, docker, kubernetes, puppet, chef, ansible, docker swarm, docker compose, consul, etcd, registrator, confd, nginx/ha proxy
 * (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
 * (NOT YET) [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821?category=203154)
   * 2018.09 한라
@@ -441,7 +443,7 @@ Programming Books
   * 전반부는 설명, 후반부는 에제(scikit-learn 사용)
 * 머신러닝 실무 프로젝트
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-42d1b2bac9cd)
-* (NOT YET) [(Kaggle 우승작으로 배우는) 머신러닝 탐구생활](http://bjpublic.tistory.com/310)
+* [(Kaggle 우승작으로 배우는) 머신러닝 탐구생활](http://bjpublic.tistory.com/310)
   * 2018.09
   * 탐라 문004.73 정17ㅁ
 * (NOT YET) [패턴 인식과 머신 러닝](http://jpub.tistory.com/831)
@@ -1055,9 +1057,10 @@ Programming Books
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
 * 고성능 파이썬
   * 한라 005.133고294ㄱ
-* (NOT YET) [실전 스케일링 파이썬 프로그래밍](http://www.insightbook.co.kr/12906)
+* [실전 스케일링 파이썬 프로그래밍](http://www.insightbook.co.kr/12906)
   * 2018.09
   * 탐라 문005.133 단77ㅅ
+	* [Build apps that scale to billions](https://scaling-python.com/)
 * (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
   * 2018.08 탐라
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)

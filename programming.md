@@ -169,6 +169,7 @@ Programming
 * [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore/answer/Ken-Gregg?share=79e441a7)
   * [더 이상 초보 개발자가 아니라는 사실을 언제 알게 되나요?](http://jhrogue.blogspot.kr/2018/03/b.html)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+* [초급 개발자가 알아야 하는 12가지 기술](http://jhrogue.blogspot.com/2018/10/b-12.html)
 * [Tips From The Book Every Programmer Should Read](https://hackernoon.com/tips-from-the-book-every-programmer-should-read-425fb77873f8)
 * [Top 10 New Developer Tools of February](https://hackernoon.com/top-10-new-developer-tools-of-february-ff7999977e84)
 * [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
@@ -957,6 +958,7 @@ Programming
   * [9월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/09/b-9-4.html)
   * [10월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/10/b-10-1.html)
   * [10월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/10/b-10-2.html)
+  * [10월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/10/b-10-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

@@ -123,6 +123,7 @@ SQL
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
     * [csv 파일을 직접 MySQL 테이블로 Import 하는 방법 (대용량 파일 import 팁)](http://moonlighting.tistory.com/140)
+    * [MySql: LOAD DATA INFILE 로 대용량 데이터 인서트하기](http://ohgyun.com/777)
   * [`SELECT p.FirstName, p.LastName, a.City, a.State FROM Person p LEFT JOIN Address a ON p.PersonId = a.PersonId`](https://leetcode.com/problems/combine-two-tables/solution/)
   * [`SELECT a.Name AS Employee FROM Employee AS a JOIN Employee AS b ON a.ManagerId = b.Id AND a.Salary > b.Salary`](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/)
   * [`SELECT Email From Person GROUP BY Email HAVING COUNT(Id) > 1`](https://leetcode.com/problems/duplicate-emails/solution/)

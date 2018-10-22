@@ -25,6 +25,7 @@ Scala
   * [간단한 웹앱 만들기 (2018-05-11)](https://www.youtube.com/watch?v=-HL_qwDVeeI)
   * [간단한 static HTML제공 server app 만들어 보기 (2018-06-15)](https://www.youtube.com/watch?v=h3uh-79slOw)
   * [cp -R을 스칼라로 구현](https://www.youtube.com/watch?v=QpAVdrGBpHY)
+  * [왜도, 첨도, 에러처리, 날짜 시간 라이브 코딩 (2018-10-19)](https://www.youtube.com/watch?v=ap_PG9d2B1g) Float vs. Double, 에러 처리(exception이 아니라 Either, Try)
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)

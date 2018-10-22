@@ -462,6 +462,7 @@ Python
   * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
+	* [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
 * decorator
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
   * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)

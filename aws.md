@@ -271,6 +271,7 @@ AWS
 * [AWS Lambda 를 이용한 테스트 구현](https://blog.awskr.org/running-tests-in-aws-lambda.html)
 * [IT 이노베이션 센터 이야기 - AWS Lambda를 활용한 개발 스폰서십 확보편](http://www.slideshare.net/hnki0104/it-aws-lambda)
 * [AWS Lambda를 이용해서 GitHub과 Slack 연동하기](http://blog.aliencube.org/ko/2016/05/15/slack-github-integration-with-aws-lambda/)
+* [AWS를 슬랙으로 모니터링](http://blog.jeonghwan.net/2018/10/21/aws-sns-to-slack.html)
 * [AWS Lambdas with a Static Outgoing IP](https://www.slideshare.net/addnull/aws-lambdas-with-a-static-outgoing-ip)
 * [AWS Lambda 사용에 관련된 Tip](http://seokjoonyun.blogspot.com/2017/03/aws-lambda-tip.html)
 * [AWS Lambda를 이용한 CI/CD 기법](https://www.slideshare.net/jesangyoon/aws-lambda-cicd)
