@@ -1705,3 +1705,4 @@ Javascript
 	* [0. 들어가면서](https://jaeyeophan.github.io/2018/10/21/Vuetorials-0-intro/)
 	* [1. @vue-cli 3.0](https://jaeyeophan.github.io/2018/10/21/Vuetorials-1-vue-cli-3-0/)
 	* [2. Vue 의 전반적인 concept](https://jaeyeophan.github.io/2018/10/21/Vuetorials-2-Vue-concept)
+  * [3. Component API](https://jaeyeophan.github.io/2018/10/23/Vuetorials-3-Component-API/)
