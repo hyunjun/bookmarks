@@ -1064,10 +1064,11 @@ Programming Books
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
 * 고성능 파이썬
   * 한라 005.133고294ㄱ
-* [실전 스케일링 파이썬 프로그래밍](http://www.insightbook.co.kr/12906)
+* **[실전 스케일링 파이썬 프로그래밍](http://www.insightbook.co.kr/12906)**
   * 2018.09
   * 탐라 문005.133 단77ㅅ
 	* [Build apps that scale to billions](https://scaling-python.com/)
+  * [practice - The Hacker's Guide to Scaling Python Programming](https://github.com/hyunjun/practice/tree/master/python/book-scaling-python)
 * (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
   * 2018.08 탐라
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)

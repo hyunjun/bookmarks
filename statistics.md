@@ -352,6 +352,7 @@ Statistics
 * [Statistics Using Python Tutorial](https://www.youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
   * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
   * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)
+* [powerlaw - Toolbox for testing if a probability distribution fits a power law](https://pypi.org/project/powerlaw/)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

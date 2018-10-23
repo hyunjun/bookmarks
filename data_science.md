@@ -27,6 +27,7 @@ Data Science
 * [Lessons in Becoming an Effective Data Scientist](https://www.datasciencecentral.com/profiles/blogs/lessons-in-becoming-an-effective-data-scientist)
 * [PyData Paris 2016 - Round table: "How to become a data scientist"](https://www.youtube.com/watch?v=_h3o-FQ0HP0)
 * [Renee Teate | Becoming a Data Scientist Advice From My Podcast Guests](https://www.youtube.com/watch?v=I7IW9Z3h20Y)
+* [어서와~ 데이터사이언티스트는 처음이지?](https://speakerdeck.com/wonseokjung/how-to-become-a-datascientist)
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
 * A Beginner’s Guide to Data Engineering
   * [Part I](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
@@ -290,6 +291,7 @@ Data Science
 
 # Library
 * ["가자, 데이터의 세계로" 무료 애널리틱스 툴 7선](http://www.ciokorea.com/news/38154)
+* [Comparison of top data science libraries for Python, R and Scala Infographic](https://www.datasciencecentral.com/profiles/blogs/comparison-of-top-data-science-libraries-for-python-r-and-scala)
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)

@@ -553,6 +553,7 @@ Apache
       * Small files or huge number of datanodes are no longer a limitation
     * CONSISTENT; Storage Layer uses RAFT protocol for consistentency
     * CLOUD-NATIVE; Hadoop Ozone is designed to work well in containerized environments like YARN and Kubernetes
+* [Apache Hadoop Ozone – Object Store Architecture](https://ko.hortonworks.com/blog/apache-hadoop-ozone-object-store-architecture/)
 
 # [Parquet](https://parquet.apache.org/)
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)

@@ -1600,6 +1600,8 @@ Deep Learning
   * [MXNet 초보자를 위한 Gluon 한 시간에 뽀개기](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb)
     * [MXNet 초보자를 위한 Gluon 한 시간에 뽀개기](https://colab.research.google.com/github/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb)
   * [딥러닝계의 블루오션, Apache MXNet 공헌하기 - 윤석찬 (AWS 테크에반젤리스트) 오규삼 (삼성 SDS)](https://www.slideshare.net/awskorea/apache-mxnet-soscon-2018)
+  * [Logging MXNet Data for Visualization in TensorBoard](https://github.com/awslabs/mxboard)
+  * [Colab에서 TensorBoard 및 MXBoard를 사용하여 데이터 시각화 하는 방법](https://gist.github.com/serithemage/7cf3937d1532ed94e982353c9349eebc)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
@@ -1980,6 +1982,7 @@ CVPR2016)
 * **[강화학습(Reinforcement Learning)으로 접근하는 E-commerce Dynamic Pricing 논문리뷰](https://hoondongkim.blogspot.com/2018/10/reinforcement-learning-e-commerce.html)**
 * [DeepMimic - Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
 * [Open sourcing TRFL: a library of reinforcement learning building blocks](https://deepmind.com/blog/trfl/)
+* [Deep Learning and Reinforcement Learning Summer School, Toronto 2018](http://videolectures.net/DLRLsummerschool2018_toronto)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)

@@ -1977,6 +1977,7 @@ Python
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
   * [Some Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
   * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
+  * **[법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤](https://www.youtube.com/watch?v=JRiCsrNJujc)**
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [Numba](http://numba.pydata.org/)

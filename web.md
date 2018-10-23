@@ -178,6 +178,7 @@ Web
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
 * [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
+* [2018 데이터야놀자 웹크롤링 좀 더 잘하기](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
 
 ## Python
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
