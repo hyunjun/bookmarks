@@ -251,6 +251,7 @@ NLP
 * [Natural Language Processing Tutorial Part 6 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=VZFmwKMh9Ck)
 * [handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
 * [How NLP is Automating the complete Text Analysis Process for Enterprises?](https://blog.paralleldots.com/data-science/nlp/nlp-is-automating-the-complete-text-analysis)
+* [강화학습을 자연어 처리에 이용할 수 있을까? (보상의 희소성 문제와 그 방안)](https://tv.naver.com/v/4336217)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

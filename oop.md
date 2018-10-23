@@ -38,7 +38,10 @@
 * [새로운 프로그래밍 모델의 필요성](http://qwefgh90.github.io/actor/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1/)
 * [여러 메서드가 동일 처리 흐름을 갖는 코드 정리 예시: 클래스 추출](http://javacan.tistory.com/entry/remove-duplicate-process-by-extracting-class)
 * [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-* [모든 개발자가 알아야만 하는 SOLID 원칙 - 1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP/)
+* **모든 개발자가 알아야만 하는 SOLID 원칙**
+	* [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+  * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
+  * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
