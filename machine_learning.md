@@ -149,6 +149,7 @@ Machine Learning
 * [Deep Learning vs Probabilistic Graphical Models vs Logic](http://quantombone.blogspot.kr/2015/04/deep-learning-vs-probabilistic.html)
 * [Probabilistic machine learning and artificial intelligence](http://www.nature.com/nature/journal/v521/n7553/full/nature14541.html)
 * [Introduction To Probabilistic Modeling and Machine Learning](https://www.youtube.com/playlist?list=PLAbhVprf4VPlqc8IoCi7Qk0YQ5cPQz9fn)
+* [머신러닝(Machine Learning)과 확률(Probability)](https://devkihyun.github.io/study/Machine-learining-and-Probability)
 * [github.com/nyu-dl/Intro_to_ML_Lecture_Note](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
 * [UFLDL Tutorial](http://ufldl.stanford.edu/wiki/index.php/UFLDL_Tutorial)
@@ -486,6 +487,7 @@ Machine Learning
 * [아파트 시세, 어쩌다 머신러닝까지](https://www.slideshare.net/seokjoonyun9/ss-119941642)
 * [쏘카에서 머신러닝 인재를 채용하는 이유 (feat. 타다)](https://speakerdeck.com/swkimme/ssokaeseo-meosinreoning-injaereul-caeyonghaneun-iyu-feat-tada)
 * [사회인의 휴학, Gap Year 이야기](https://www.slideshare.net/zzsza/gap-year-119998766)
+* [An Introduction to Causal Inference with Gaussian Processes, Part I](https://mindcodec.com/an-introduction-to-causal-inference-with-gaussian-processes-part-i)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -540,6 +542,7 @@ Machine Learning
 * [Understanding machine learning from theory to algorithms](http://www.techleer.com/articles/230-understanding-machine-learning-from-theory-to-algorithms/)
 * [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
   * [iml: Interpretable Machine Learning](https://cran.r-project.org/web/packages/iml/) r package
+* [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)

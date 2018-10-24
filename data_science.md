@@ -278,6 +278,7 @@ Data Science
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [The Data Analytics Handbook](https://www.teamleada.com/handbook)
 * [Reading for Growing Data Engineers — 2017](https://daasnerds.com/reading-for-growing-data-engineers-2017-365d1ad3a9ed)
+* **[Data Science at the Command Line](https://www.datascienceatthecommandline.com)**
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)

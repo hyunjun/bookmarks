@@ -111,6 +111,9 @@ Linux
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [리눅스 명령어를 이용한 시스템 모니터링 하기](http://tech.whatap.io/2015/09/03/linux-monitoring/)
 * [POSIX CLI1](https://opentutorials.org/module/3747)
+* [The Unix Shell: Summary of Basic Commands](http://swcarpentry.github.io/shell-novice/reference/)
+* [유닉스 쉘](https://statkclee.github.io/shell-novice-kr/)
+* [유닉스 쉘(Unix Shell)](http://statkclee.github.io/shell-novice/index-kr.html)
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
@@ -205,6 +208,8 @@ Linux
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
   * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
+* gzip
+  * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
 * nohup
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
 * iconv

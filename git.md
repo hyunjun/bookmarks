@@ -128,6 +128,9 @@ Git
   * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
   * [demo for Semantic Code Search](https://experiments.github.com/semantic-code-search)
 * [Git 뽀개기(자료 모음집) (비)개발자들을 위한 Git과 Github 기초 자료 모음집입니다](https://seanlion.github.io/blog/23)
+* [Version Control with Git: Git Cheatsheets for Quick Reference](https://swcarpentry.github.io/git-novice/reference)
+* [Git으로 버전제어](https://statkclee.github.io/git-novice-kr/)
+* [Git을 사용한 버젼 관리](http://statkclee.github.io/git-novice/index-kr.html)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

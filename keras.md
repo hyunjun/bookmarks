@@ -177,6 +177,7 @@ Keras
   * [AutoKeras: The Killer of Google’s AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
   * [오토케라스 (Auto Keras) 소개 - 오픈소스 automl 실습](https://www.youtube.com/watch?v=EDGLf8eCK04)
   * [Auto-keras 이용하기](https://github.com/yjucho1/articles/tree/master/auto-keras)
+  * [Why Is Auto-Keras Gaining Such Popularity?](https://www.analyticsindiamag.com/why-is-auto-keras-gaining-such-popularity/)
 * [CNNGestureRecognizer ver 2.0 - Gesture recognition via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/CNNGestureRecognizer)
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)

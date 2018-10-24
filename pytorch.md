@@ -113,6 +113,8 @@ PyTorch
 * [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
 * [BraTs (Brain Tumor Segmentation)](https://github.com/JooHyun-Lee/BraTs) DeepLab v3+, PSPNet
+* [pytorch-mnist-VAE - Variational AutoEncoder on the MNIST data set using the PyTorch](https://github.com/lyeoni/pytorch-mnist-VAE)
+* [pytorch-mnist-CVAE - Conditional Variational AutoEncoder on the MNIST data set using the PyTroch](https://github.com/lyeoni/pytorch-mnist-CVAE)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
