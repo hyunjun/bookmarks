@@ -986,6 +986,7 @@ Deep Learning
 
 # MOOC, Lecture
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
+* [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
   * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
 * [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
