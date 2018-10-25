@@ -115,6 +115,8 @@ PyTorch
 * [BraTs (Brain Tumor Segmentation)](https://github.com/JooHyun-Lee/BraTs) DeepLab v3+, PSPNet
 * [pytorch-mnist-VAE - Variational AutoEncoder on the MNIST data set using the PyTorch](https://github.com/lyeoni/pytorch-mnist-VAE)
 * [pytorch-mnist-CVAE - Conditional Variational AutoEncoder on the MNIST data set using the PyTroch](https://github.com/lyeoni/pytorch-mnist-CVAE)
+* [Pseudo CQT on Pytorch](https://keunwoochoi.wordpress.com/2018/10/24/pseudo-cqt-on-pytorch/)
+* [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

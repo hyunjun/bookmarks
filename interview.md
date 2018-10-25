@@ -356,6 +356,7 @@ Interview
 * [Ten Things Never, Ever To Say In A Salary Negotiation](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizryan/2018/02/11/ten-things-never-ever-to-say-in-a-salary-negotiation/)
 * **[How not to bomb your offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)** salary negotiation
 * [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
+* [실리콘 밸리 기업의 엔지니어 연봉](http://tinytechreview.com/실리콘-밸리-기업의-엔지니어-연봉)
 * [SOFTWARE ENGINEER SALARY DATA](https://triplebyte.com/software-engineer-salary)
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 

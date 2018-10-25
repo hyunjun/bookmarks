@@ -495,6 +495,7 @@ Docker
 * [2018 Cloud Hackathon Tech Session - Kubernetes](https://www.youtube.com/watch?v=rdyUAduXi48)
 * [쿠버네티스 개념 설명과 에코 시스템 (Spinnaker, Istio, KNative 설명)](http://bcho.tistory.com/1281)
 * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
+* [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

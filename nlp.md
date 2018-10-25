@@ -1130,6 +1130,12 @@ NLP
 * [K Means Clustering Example with Word2Vec in Data Mining or Machine Learning](http://ai.intelligentonlinetools.com/ml/k-means-clustering-example-word2vec/)
 * [ELMO DEEP CONTEXTUALIZED WORD REPRESENTATIONS](http://hugrypiggykim.com/2018/06/08/elmo-deep-contextualized-word-representations/)
 * [The Current Best of Universal Word Embeddings and Sentence Embeddings](https://medium.com/huggingface/universal-word-sentence-embeddings-ce48ddc8fc3a)
+* [Word Embeddings and Document Vectors](https://github.com/ashokc/Word-Embeddings-and-Document-Vectors)
+  * [Part 1. Similarity](http://xplordat.com/2018/09/27/word-embeddings-and-document-vectors-part-1-similarity/)
+  * [Part 1. Similarity](https://towardsdatascience.com/word-embeddings-and-document-vectors-part-1-similarity-1cd82737cf58)
+  * [Part 2. Classification](http://xplordat.com/2018/10/09/word-embeddings-and-document-vectors-part-2-classification/)
+  * [Part 2. Order Reduction](https://towardsdatascience.com/word-embeddings-and-document-vectors-part-2-order-reduction-2d11c3b5139c)
+  * [When in Doubt, Simplify](https://towardsdatascience.com/word-embeddings-and-document-vectors-when-in-doubt-simplify-8c9aaeec244e)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

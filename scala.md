@@ -284,7 +284,7 @@ Scala
 * Akka Message Delivery - At-Most-Once, At-Least-Once, and Exactly-Once
   * [Part 1 At-Most-Once](https://developer.lightbend.com/blog/2017-08-10-atotm-akka-messaging-part-1/index.html)
   * [Part 2 At-Least-Once](https://developer.lightbend.com/blog/2017-11-01-atotm-akka-messaging-part-2/index.html)
-* 케빈 TV
+* [케빈](http://kevinlee.io/) TV
   * [Akka 살짝 맛보기 (2018-02-09)](https://www.youtube.com/watch?v=XFGd59XF6GI)
   * [Akka 쬐끔만 더 맛보기 - (대충) 설계편 (2018-02-16)](https://www.youtube.com/watch?v=tBcaxoM-cUU)
   * [FP책소개 / 영어공부 / Akka 코딩 쬐끔 (2018-02-23)](https://www.youtube.com/watch?v=gR31dbuecTI)

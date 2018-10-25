@@ -734,6 +734,7 @@ Python
   * [Amber Brown Implementing Concurrency and Parallelism From The Ground Up PyCon 2017](https://www.youtube.com/watch?v=31fXwpb0P9c)
   * [Multiprocessing with Python](https://www.youtube.com/watch?v=s1SkCYMnfbY)
   * [Using Multiple Cores In Python](https://www.youtube.com/watch?v=ZWRuOkH0qkY)
+  * [multi threading or multi processing for fetching url](https://github.com/dsindex/blog/wiki/%5Bpython%5D-multi-threading-or-multi-processing-for-fetching-url)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -821,6 +822,7 @@ Python
   * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
   * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
   * [devpi - Python PyPi staging server and packaging, testing, release tool http://doc.devpi.net](https://github.com/devpi/devpi)
+    * [private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
 * smtplib
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
   * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
