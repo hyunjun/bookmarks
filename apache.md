@@ -166,6 +166,7 @@ Apache
   * [Real-time driving score service using Flink](https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
 * [Automatic Apache Flink deployments in Golang](https://medium.com/wbaa/flink-deployer-8c0db4c94fe4)
 * [Automating Flink Deployments to Kubernetes](https://data-artisans.com/flink-forward-berlin/resources/automating-flink-deployments-to-kubernetes)
+* [Introduction to Apache Flink](https://speakerdeck.com/chiwanpark/introduction-to-apache-flink)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
