@@ -1407,6 +1407,7 @@ Javascript
 * **[스프링 부트 + 리액트 개발 셋업 2018](https://start.goodtime.co.kr/2018/09/%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8-%eb%a6%ac%ec%95%a1%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%85%8b%ec%97%85-2018/)**
 * [리액트 프로젝트 코드 스플리팅 정복하기](https://velog.io/@velopert/react-code-splitting)
 * [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
+* [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
