@@ -117,6 +117,7 @@ PyTorch
 * [pytorch-mnist-CVAE - Conditional Variational AutoEncoder on the MNIST data set using the PyTroch](https://github.com/lyeoni/pytorch-mnist-CVAE)
 * [Pseudo CQT on Pytorch](https://keunwoochoi.wordpress.com/2018/10/24/pseudo-cqt-on-pytorch/)
 * [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
+* [vid2vid - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation](https://github.com/NVIDIA/vid2vid)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
