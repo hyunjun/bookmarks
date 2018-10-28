@@ -564,6 +564,7 @@ TensorFlow
 * [Tensorflow 설치하기](http://mobicon.tistory.com/512)
 * [Stop Installing Tensorflow using pip for performance sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
   * [TensorFlow in Anaconda](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda)
+* [TensorFlow: Building Feed-Forward Neural Networks Step-by-Step](https://www.linkedin.com/pulse/tensorflow-building-feed-forward-neural-networks-step-by-step-gad)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
@@ -630,6 +631,7 @@ TensorFlow
   * [A Project Based Introduction to TensorFlow.js](http://kexp.io/intro_tensorflowjs/)
   * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [An Introduction to TensorFlow.js with Nick Kreeger](https://www.techleer.com/articles/553-an-introduction-to-tensorflowjs-with-nick-kreeger/)
+  * [Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation](https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)

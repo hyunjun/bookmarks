@@ -128,6 +128,9 @@ Travel
 * [밀라노에 열린 몰스킨 카페](http://www.earlyadopter.co.kr/79122)
 * [피렌체 대성당..거대한 르네상스와 마주하다](http://media.daum.net/life/outdoor/leisure/newsview?newsId=20161009162802356)
 
+## Malta
+* [유럽·아프리카·아랍문화 고스란히 녹아든 몰타섬](https://news.v.daum.net/v/20181028154502339)
+
 ## Netherland
 * ['네덜란드의 베니스' 히트호른 마을의 그림 같은 풍경(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278092.html)
 

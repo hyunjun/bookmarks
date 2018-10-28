@@ -180,6 +180,10 @@ Vision
   * [커스텀 데이터 셋으로 Yolo 써 보기 1](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset)
   * [커스텀 데이터 셋으로 Yolo 써 보기 2](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset-2)
   * [Object detection in just 3 lines of R code using Tiny YOLO](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0)
+* “Tutorials of Object Detection using Deep Learning
+  * [1 What is object detection?](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
+  * [2 First Object Detection using Deep Learning](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-first-object-detection-using-deep-learning/)
+  * [3 The application of Object Detection](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-the-application-of-object-detection/)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)

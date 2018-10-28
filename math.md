@@ -167,6 +167,7 @@ Math
 * [선형대수학](https://www.youtube.com/playlist?list=PLGqSWalYhuTWdPeiQVfz3b3_2KwhyZSH7)
 * [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
+* [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html)
 * **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
 * [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)

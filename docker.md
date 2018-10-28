@@ -77,6 +77,7 @@ Docker
     * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
+    * [Docker swarm development environment for customized medical study app](https://github.com/jinseob2kim/swarm-setting)
   * redis
 
     ```
@@ -271,6 +272,8 @@ Docker
 * [Docker로 NFD 사용](http://uni2u.tistory.com/91) docker basic build & execute
 * [개발자가 처음 Docker 접할때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80)
 * [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA)
+* [docker container 활용 #1](http://www.ahnseungkyu.com/241) dockerd restart 없이 docker 데몬 옵션을 reload 하는 방법
+* **[docker container 활용 #2](http://www.ahnseungkyu.com/242)** docker process의 구성을 linux command로 살펴봄
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)

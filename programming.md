@@ -708,6 +708,10 @@ Programming
 * [(11) DevOps 란 무엇일까?](http://www.mobiinside.com/kr/2017/11/27/subokim-devops/)
 * [IDC 1도 모르는 개발자가 DevOps를 만났을때](https://www.slideshare.net/ssuserd5b689/idc-1-devops-105987290)
 * [What Is DevOps?](https://www.youtube.com/watch?v=NCj11DHWcG8)
+* 개발과 운영의 조화
+	* [1 기존 개발 체계의 문제점](http://bcho.tistory.com/815)
+	* [2 Devops의 정의](http://bcho.tistory.com/817)
+* [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)

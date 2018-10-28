@@ -487,6 +487,8 @@ NLP
 * [The last 3 years in Text Classification](https://medium.com/explorations-in-language-and-learning/the-last-3-years-in-text-classification-8f408c043a79)
 * [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning)
 * [CNN으로 문장 분류하기](https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
+* [Introducing Custom Classifier – Build Your Own Text Classification Model Without Any Training Data](https://blog.paralleldots.com/product/custom-text-classification-model-without-any-training-data/)
+* [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification)
 
 # Clustering
 * dbscan
@@ -517,6 +519,7 @@ NLP
 * [국어사전 데이터](http://www.korean.go.kr/front/onlineQna/onlineQnaView.do;front=C010D1C318C9E310B1EAB32905185327?mn_id=60&qna_seq=123958&pageIndex=1)
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
 * [표준국어대사전.csv](https://github.com/mrchypark/stdkor)
+* [Facebook, NYU expand available languages for natural language understanding systems](https://code.fb.com/ai-research/xlni/)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)

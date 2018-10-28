@@ -717,6 +717,7 @@
 * [Introduction to Spark Structured Streaming - Part 15: Meetup Talk on Time and Window API](http://blog.madhukaraphatak.com/introduction-to-spark-structured-streaming-part-15/)
 * [번역글 Spark Streaming의 내부](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-spark-streaming%EC%9D%98-%EB%82%B4%EB%B6%80/)
 * **[Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html)** Apache Spark, Storm, Flink, Samze를 비교 분석
+* [Kafka Streams vs. Spark Structured Streaming (extended)](https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming-extended)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

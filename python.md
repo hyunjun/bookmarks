@@ -1028,6 +1028,8 @@ Python
   * [postit-sanic - An REST API and Single Page App with Sanic; A Python Webserver/Microframework](https://github.com/tysweezy/postit-sanic)
   * [programcreek.com/python/index/9697/sanic](https://www.programcreek.com/python/index/9697/sanic)
   * [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기-이재면](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
+* [Starlette - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services](https://www.starlette.io/)
+  * [starlette - The little ASGI framework that shines](https://github.com/encode/starlette)
 * [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [Trio – Pythonic async I/O for humans and snake people 🐍](https://github.com/python-trio/trio)
   * [Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
@@ -2818,6 +2820,7 @@ Python
   * **[Type-checked Python In The Real World](https://www.youtube.com/watch?v=QCGwDOk-pIs)**
   * [Clearer Code at Scale (Static Types in Python)](https://www.youtube.com/watch?v=uUlYahzwZKw)
   * [Python static type checker (mypy)](https://zulip.readthedocs.io/en/1.7.1/mypy.html)
+  * [Type checking in Python using mypy](https://www.youtube.com/watch?v=f4Q-L4vGdh8)
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)

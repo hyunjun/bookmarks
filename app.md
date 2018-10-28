@@ -157,6 +157,7 @@ App
   * [jekyll-theme-collider](https://github.com/ryancolorcafe/jekyll-theme-collider)
   * [Create your own Jekyll theme gem](https://ryandevelops.com/collection/2018-10-07-create-your-own-jekyll-theme-gem)
     * [번역 - 나만의 지킬 테마 만들기](https://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko)
+  * [번역 - 해커처럼 블로깅하기](http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
@@ -191,6 +192,7 @@ App
 * [Base64 이미지 사용하기](http://pilot376.tistory.com/3)
   * ![test 0](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEYAAAAUCAAAAAAVAxSkAAABrUlEQVQ4y+3TPUvDQBgH8OdDOGa+oUMgk2MpdHIIgpSUiqC0OKirgxYX8QVFRQRpBRF8KShqLbgIYkUEteCgFVuqUEVxEIkvJFhae3m8S2KbSkcFBw9yHP88+eXucgH8kQZ/jSm4VDaIy9RKCpKac9NKgU4uEJNwhHhK3qvPBVO8rxRWmFXPF+NSM1KVMbwriAMwhDgVcrxeMZm85GR0PhvGJAAmyozJsbsxgNEir4iEjIK0SYqGd8sOR3rJAGN2BCEkOxhxMhpd8Mk0CXtZacxi1hr20mI/rzgnxayoidevcGuHXTC/q6QuYSMt1jC+gBIiMg12v2vb5NlklChiWnhmFZpwvxDGzuUzV8kOg+N8UUvNBp64vy9q3UN7gDXhwWLY2nMC3zRDibfsY7wjEkY79CdMZhrxSqqzxf4ZRPXwzWJirMicDa5KwiPeARygHXKNMQHEy3rMopDR20XNZGbJzUtrwDC/KshlLDWyqdmhxZzCsdYmf2fWZPoxCEDyfIvdtNQH0PRkH6Q51g8rFO3Qzxh2LbItcDCOpmuOsV7ntNaERe3v/lP/zO8yn4N+yNPrekmPAAAAAElFTkSuQmCC)
   * ![test 1](data:image/gif;base64,R0lGODlhDwAOAOYAAAAAAP///+Pj5MzS6qy33bfA4sDI5dne8I6e0JGg0Zim1Jqo1aGu2H6SyZOj0HWMxYWYytbY3V98vLG801p9ulN6u2SHw0JvtYiix8vU4TBmsDBmrx9fqyJgrEB1uGCOxRpeqoGjygdXpwlYpw5aqBVhrGOUx6C+3N/p8+/0+dzd3gBVpQNWpgtdphBgqxpmqxpnqyBqsDB1tmqbx3CfzJe62Z+/3a/K46/J4r/V6c/f7t/q9AJaoQhcpAlcpVuSwh9sqC10rF+Xv5G20cXY5cba5wxnnZu7zXKfthhxmS6EloezvVqcqFeeqJq+w1SjqYC0sajNysrh3drp4trn4fD49O/18vb6+Pf5+OXs6Pz9/Pv8+////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAFwALAAAAAAPAA4AAAeYgAEBThYVFxocJCwrL4KCW0gIDxIUGyAiKys6jlMhCg0TKhgdI5kzjksGDA4RKgInLpkwglhHAwQJEBmCOrErOAFUNQcFCx4uN4IpMis/AUwrJh8lKy45gjvMLQFPmZkymwG9mT4oVU2ZMSmCNt5ARYJaUDwrNgE03kHrjgFRRisxvAnhx09KEm9DCBLMoqQHEYUKrVyBGAgAOw==)
+* [Bootstrap과 Showdown을 이용한 초간단 CMS](https://code.shoplic.kr/simple-markdown-cms)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
@@ -487,6 +489,7 @@ App
   * [Ansible Plugin 살펴 보기 1편 (Action, Cache)](https://sysnet4admin.blogspot.com/2017/12/ansible-plugin-1.html)
   * [My First Ansible Project Episode II](http://naleejang.tistory.com/206)
   * [OpenStack Instance auto provisioning with Ansible](http://naleejang.tistory.com/207)
+  * [Puppet Vs Ansible](https://www.devopsgroup.com/2018/01/10/puppet-vs-ansible)
 * Screen Recorder
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다](http://macnews.tistory.com/2215)

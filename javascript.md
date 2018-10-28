@@ -1408,6 +1408,7 @@ Javascript
 * [리액트 프로젝트 코드 스플리팅 정복하기](https://velog.io/@velopert/react-code-splitting)
 * [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
 * [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
+* [리액트의 새로운 기능, Hooks 알아보기](https://velog.io/@velopert/react-hooks)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1571,6 +1572,7 @@ Javascript
 * [TypeScript의 소개와 개발 환경](http://poiemaweb.com/typescript-introduction)
 * [Visual Studio Code에서의 TypeScript 개발 환경 구축](http://poiemaweb.com/typescript-vscode)
 * [TypeScript-STL](https://github.com/samchon/tstl)
+* [TypeScript Grid Computing Framework](https://github.com/samchon/tgrid)
 * [NodeJS에서 Typescript 사용하기](http://mobicon.tistory.com/499)
 * [jaeyeophan.github.io/categories/TypeScript](https://jaeyeophan.github.io/categories/TypeScript/)
 * [TypeScript Playground 만들기](https://jaeyeophan.github.io/2017/12/06/TS-TypeScript-Playground/)

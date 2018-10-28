@@ -193,6 +193,10 @@ Art
 * [로트렉과 발라동](http://ppss.kr/archives/58100)
 * [명화에서 찾은 가을의 순간 17(화보)](http://www.huffingtonpost.kr/2015/10/12/story_n_8278618.html)
 * [냉전시대 CIA는 왜 현대미술을 지원했나](http://techholic.co.kr/archives/43254)
+* [美 시카고미술관 "세계적 명화, 무료 다운로드 받으세요"](https://news.v.daum.net/v/20181027131234816)
+  1. [시카고 미술관 공식 사이트 The Collection Menu](https://www.artic.edu/collection)
+  2. 작품을 장르별 카테고리에서 선택 or 'Show Filter'로 필터링해서 원하는 작품 선택
+  3. 작품 선택 후 이미지를 클릭해 확대. 작품 이미지 밑에 다운로드 버튼이 있다면 다운 가능 e.g. [A Sunday on La Grande Jatte — 1884](https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
