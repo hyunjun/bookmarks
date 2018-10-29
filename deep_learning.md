@@ -1988,6 +1988,7 @@ CVPR2016)
   * [Deep Reinforcement Learning - Introduction](https://speakerdeck.com/wonseokjung/deep-reinforcement-learning-introduction)
 
 ## RL MOOC, Lectures
+* [강화학습의 기초 이론](https://www.youtube.com/playlist?list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
   * [CS294-112 Deep Reinforcement Learning Sp17](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
