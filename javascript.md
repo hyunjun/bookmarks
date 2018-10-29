@@ -349,6 +349,7 @@ Javascript
   * [fkkmemi.github.io/categories/#nembv](https://fkkmemi.github.io/categories/#nembv)
 * [리액트, 노드 백엔드 통합 후 CI 연동하기](http://blog.jeonghwan.net/2018/08/19/express-travis-beanstalk.html)
 * [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859)
+* **[33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)**
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -568,6 +569,7 @@ Javascript
 * [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
 * [이제 대세는 리덕스 갈아치우기? Bye Bye Redux? Feat. MobX, GraphQL and Apollo!](https://www.youtube.com/watch?v=dRbW-__i_4U)
 * [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
+* [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1465,6 +1467,7 @@ Javascript
 * [After building my first React Native app, I’m now convinced it’s the future](https://medium.freecodecamp.org/after-building-my-first-react-native-app-im-now-convinced-it-s-the-future-d3c5e74f8fa8)
 * [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
 * [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
+* [Awesome React Native UI Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)

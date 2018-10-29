@@ -5,6 +5,7 @@ Nomad & Remote
 * [numbeo.com/cost-of-living](https://www.numbeo.com/cost-of-living/) 국가, 도시간 물가 비교
 * [payscale.com](https://www.payscale.com/)
 * [personal income tax rate](https://tradingeconomics.com/country-list/personal-income-tax-rate)
+* [Remote List - A curated list of companies and job boards advertising Remote Jobs](https://github.com/raynesio/remotelist)
 * [remotus.com](http://remotus.com/)
 * [The Remote Freelancer](https://theremotefreelancer.com/)
   * [List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!](https://github.com/engineerapart/TheRemoteFreelancer)
