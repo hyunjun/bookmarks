@@ -89,6 +89,7 @@ Artificial Intelligence
   * data; 눈썹 모양 데이터를 유명인 사진에서 수작업으로 만들어
   * train; transfer learning으로 훈련, 매우 작은 데이터넷(800 images)과 50줄의 코드로 99%
 * [뉴로모픽 인공지능과 하드웨어의 결합 워크샵](http://mobicon.tistory.com/550)
+* [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)

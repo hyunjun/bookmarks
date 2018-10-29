@@ -1272,6 +1272,7 @@ Python
 * [snaker - django url shortener](https://www.slideshare.net/HosukShin1/snaker-django-url-shortener)
 * [장고의 배신(주니어 개발자의 삽질기)](https://www.slideshare.net/EunhyangKim2/ss-118560530)
 * [Django, Clean Architecture 연구하기](https://medium.com/@erish/python-django-clean-architecture-%EC%97%B0%EA%B5%AC%ED%95%98%EA%B8%B0-591d7a555059)
+* [Ubuntu 환경에서 Django 배포하기](http://jangwon.me/dev/2018/10/08/(개발환경)-Ubuntu-환경에서-Django-배포하기-Django-설정)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)

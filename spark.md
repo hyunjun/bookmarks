@@ -321,6 +321,10 @@
 * [practice - sc.textFile로 gzipped hdfs file을 읽을 경우 성능 저하 or job 실패](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff#file-unzip_gzipped_hdfs_file-md)
 * [What’s New for Apache Spark on Kubernetes in the Upcoming Apache Spark 2.4 Release](https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html)
   * 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
+* [Uber’s Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/)
+  * Uber가 Hadoop과 Spark을 이용하여 빅데이터를 수집, 관리, 분석하는 방법 정리
+* [Spark study notes: core concepts visualized](https://medium.com/@pang.xin/spark-study-notes-core-concepts-visualized-5256c44e4090)
+  * Spark과 YARN이 상호 작용하는 방식과 작업이 각 단계에서 어떻게 작동하는지 설명하는 기초 문서
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 

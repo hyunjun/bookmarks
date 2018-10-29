@@ -682,6 +682,8 @@ NLP
   * [MAC OSX에서 konlpy 설치 시 ImportError: No module named 'jpype' 오류 해결](http://corazzon.github.io/Konlpy_JPype_install_struggle)
 * [korean - A library for Korean morphology](https://pythonhosted.org/korean/ko/)
   * [gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2](https://gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2)
+* [Koshort - a Python project for Korean natural language processing... or maybe Korean domestic cat](https://github.com/koshort)
+  * [Goorm - A little word cloud generator in Python - Korean wrapper](https://github.com/koshort/goorm)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
 * [NLP Architect - an open-source Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](http://nlp_architect.nervanasys.com/)
 * [NLTK](http://www.nltk.org)
@@ -700,6 +702,7 @@ NLP
   * [Tokenizing Words Sentences with Python NLTK](https://www.youtube.com/watch?v=A5n7tsZctwM)
 * [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI/blob/master/README.md)
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
+* [pyeunjeon (python + eunjeon)](https://github.com/koshort/pyeunjeon) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)

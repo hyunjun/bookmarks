@@ -747,6 +747,7 @@ Programming Books
   * [github.com/yudong80/ThinkDataStructures](https://github.com/yudong80/ThinkDataStructures)
   * 얇아서 보기 편함. 특이하게 레디스를 이용하는 챕터가 있음. 그 외에는 기본적인 자료구조에 대한 설명 및 구현
 * (NOT YET) [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](http://jpub.tistory.com/845)
+* [이것이 자바다](http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937)
 
 # JavaScript
 

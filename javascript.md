@@ -567,6 +567,7 @@ Javascript
 * [GraphQL Remote Schema Stitching in a Multi-Service Architecture](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
 * [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
 * [이제 대세는 리덕스 갈아치우기? Bye Bye Redux? Feat. MobX, GraphQL and Apollo!](https://www.youtube.com/watch?v=dRbW-__i_4U)
+* [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1409,6 +1410,7 @@ Javascript
 * [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
 * [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [리액트의 새로운 기능, Hooks 알아보기](https://velog.io/@velopert/react-hooks)
+* [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1709,3 +1711,4 @@ Javascript
 	* [1. @vue-cli 3.0](https://jaeyeophan.github.io/2018/10/21/Vuetorials-1-vue-cli-3-0/)
 	* [2. Vue 의 전반적인 concept](https://jaeyeophan.github.io/2018/10/21/Vuetorials-2-Vue-concept)
   * [3. Component API](https://jaeyeophan.github.io/2018/10/23/Vuetorials-3-Component-API/)
+* [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)

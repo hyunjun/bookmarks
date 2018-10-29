@@ -582,6 +582,7 @@ Java
   * [Spring Boot Book 콘서트 참석 후기](http://blog.leekyoungil.com/?p=468)
   * [SpringBoot에서 Spock Mock 사용법과 문제점](https://jojoldu.tistory.com/340)
   * [Spring Boot에서 외부 API 테스트하기](https://jojoldu.tistory.com/341)
+  * [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

@@ -94,6 +94,7 @@ Redis
 * [SCAN](https://redis.io/commands/scan) `scan 0 \[match pattern\]` patern = \*pattern or pattern\* or \*pattern\* e.g. `scan 0 match *test*`
   * `scan_iter` in python
   * [Get all keys in Redis database with python](https://stackoverflow.com/questions/22255589/get-all-keys-in-redis-database-with-python)
+  * **[패턴으로 TTL 적용하기](https://jojoldu.tistory.com/349)** scan으로 pattern match되는 key를 찾아 expire 적용하는 script
 
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)

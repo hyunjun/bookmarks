@@ -1984,6 +1984,8 @@ CVPR2016)
 * [DeepMimic - Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
 * [Open sourcing TRFL: a library of reinforcement learning building blocks](https://deepmind.com/blog/trfl/)
 * [Deep Learning and Reinforcement Learning Summer School, Toronto 2018](http://videolectures.net/DLRLsummerschool2018_toronto)
+* [Deep Reinforcement Learning - Introduction](https://github.com/wonseokjung/RLXDL/blob/master/1/2018-10-28-RLXDL-1.md)
+  * [Deep Reinforcement Learning - Introduction](https://speakerdeck.com/wonseokjung/deep-reinforcement-learning-introduction)
 
 ## RL MOOC, Lectures
 * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
