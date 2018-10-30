@@ -669,6 +669,8 @@ NLP
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
+* [Emoji for Python](https://github.com/carpedm20/emoji)
+  * [A Python script to check if a character is or a text contains emoji](https://gist.github.com/jezdez/0185e35704dbdf3c880f)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
 * [Keyword finder: automatic keyword extraction from text](http://blog.urx.com/urx-blog/2015/10/13/keyword-finder-automatic-keyword-extraction-from-text)
