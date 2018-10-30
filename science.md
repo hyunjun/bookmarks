@@ -24,6 +24,7 @@ Science
   * [(2/2)](http://newspeppermint.com/2015/06/08/m-scientist2/)
 * [BOINC: 과학을 위한 컴퓨팅](http://boinc.berkeley.edu/download.php)
 * [A live view of the solar system and planetary positions today](https://www.theplanetstoday.com/)
+* [일본이 노벨상을 많이 받는 진짜 이유](http://www.ohmynews.com/NWS_Web/View/ss_pg.aspx?CNTN_CD=A0002483421&PAGE_CD&CMPT_CD)
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)

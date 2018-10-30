@@ -24,7 +24,7 @@ Programming
 * [Composing Programs, a free online introduction to programming and computer science](http://www.composingprograms.com/)
 * [What it really takes to learn how to code?](http://blog.sailsoftware.co/2015/09/09/what-it-really-takes-to-learn-how-to-code.html)
 * [Best websites for programmers and students who want to learn to code](https://www.techworm.net/2016/11/best-websites-for-programmers.html)
-* **[생활코딩 수업 관계도](https://web-n.github.io/SerieseN/)**
+* **[생활코딩 수업 관계도](https://seomal.org)**
 * [Practice-it is a web application to help you practice solving Java programming problems online](https://practiceit.cs.washington.edu/)
 * [codestepbystep.com](https://codestepbystep.com/)
 * [codingbat.com](https://codingbat.com/)

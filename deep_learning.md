@@ -1378,10 +1378,6 @@ Deep Learning
   * [13Lines.ipynb](https://github.com/DDanggle/blogNetwork/blob/master/13Lines.ipynb)
 * [파이썬 코딩으로 말하는 데이터 분석 - 6. 경사하강법](http://hamait.tistory.com/747)
 * [Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
-* [NeuPy - Neural Networks in Python](http://neupy.com/)
-* [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
-  * [Feed-forward neural doodle](http://dmitryulyanov.github.io/feed-forward-neural-doodle/)
-  * [Online neural doodle](https://likemo.net/)
 * [Training (deep) Neural Networks Part: 1](http://upul.github.io/2015/10/12/Training-(deep)-Neural-Networks-Part:-1/)
 * [Deep learning – Convolutional neural networks and feature extraction with Python](http://blog.christianperone.com/2015/08/convolutional-neural-networks-and-feature-extraction-with-python/)
 * [Irene Chen A Beginner's Guide to Deep Learning PyCon 2016](https://www.youtube.com/watch?v=nCPf8zDJ0d0)
@@ -1389,7 +1385,6 @@ Deep Learning
 * [A Complete Guide on Getting Started with Deep Learning in Python](https://www.analyticsvidhya.com/blog/2016/08/deep-learning-path/)
 * [Python Code Suggestions Using a Long Short-Term Memory RNN](http://blog.algorithmia.com/python-code-suggestions-lstm-rnn)
 * [Python for Image Understanding: Deep Learning with Convolutional Neural Nets](http://www.slideshare.net/roelofp/python-for-image-understanding-deep-learning-with-convolutional-neural-nets)
-* [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com ](https://github.com/NervanaSystems/neon)
 * [Fitting Gaussian Process Models in Python](https://blog.dominodatalab.com/fitting-gaussian-process-models-python/)
   * [Triple Pendulum CHAOS!](http://jakevdp.github.io/blog/2017/03/08/triple-pendulum-chaos/)
 * [Gaussian process regression using functional programming](https://github.com/LucaAmbrogioni/Functional-GP-analysis-in-Python/blob/master/Example_Notebook.ipynb)
@@ -1398,11 +1393,17 @@ Deep Learning
 * [Understanding and coding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
 * [Safe Crime Prediction - Homomorphic Encryption and Deep Learning for More Effective, Less Intrusive Digital Surveillance](https://iamtrask.github.io/2017/06/05/homomorphic-surveillance)
 * [DEEP LEARNING AND REINFORCEMENT LEARNING SUMMER SCHOOL 2017](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/338217953280873/)
-* [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
 * [How I implemented iPhone X’s FaceID using Deep Learning in Python](https://towardsdatascience.com/how-i-implemented-iphone-xs-faceid-using-deep-learning-in-python-d5dbaa128e1d)
 * [Deep Learning with Python](https://towardsdatascience.com/deep-learning-with-python-703e26853820)
 * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * [Let’s build a simple Neural Net!](https://becominghuman.ai/lets-build-a-simple-neural-net-f4474256647f)
+* [DeepCreamPy - Decensoring Hentai with Deep Neural Networks](https://github.com/deeppomf/DeepCreamPy)
+* [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
+* [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com ](https://github.com/NervanaSystems/neon)
+* [NeuPy - Neural Networks in Python](http://neupy.com/)
+* [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
+  * [Feed-forward neural doodle](http://dmitryulyanov.github.io/feed-forward-neural-doodle/)
+  * [Online neural doodle](https://likemo.net/)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)

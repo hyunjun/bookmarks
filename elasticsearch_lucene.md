@@ -10,6 +10,7 @@ ElasticSearch - Lucene
 * [Elasticsearch Reference 번역](https://legacy.gitbook.com/book/iju707/elasticsearch/details)
 * [Elasticsearch Reference](https://elasticsearch.oofbird.net/)
 * [Introduction to Elasticsearch](http://www.slideshare.net/hosangjeon10/introduction-to-elasticsearch-42781557)
+* **[demo.elastic.co](https://demo.elastic.co)**
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)
 * [ElasticSearch와 Heap 메모리](https://brunch.co.kr/@alden/35)

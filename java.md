@@ -428,6 +428,7 @@ Java
   * [Kubernetes 클러스터에서 Jenkins X 사용하기](https://blog.outsider.ne.kr/1395)
   * [What Is Jenkins? | What Is Jenkins And How It Works? | Jenkins Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=LFDrDnKPOTg)
   * [Jenkins에 머티리얼 테마 적용하기](https://jojoldu.tistory.com/343)
+  * [CLI로 젠킨스 설정 업데이트하기](http://ohgyun.com/780)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)

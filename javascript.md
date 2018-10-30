@@ -1110,6 +1110,7 @@ Javascript
 * [노드 프로젝트의 설정 파일들](https://www.zerocho.com/category/NodeJS/post/5b934c8e6c974e001b710767)
 * [객체에 프로퍼티 설정 시 성능 이슈](http://ohgyun.com/764)
 * [node.js: euc-kr 페이지에 보낼 요청 파라미터 인코딩](http://ohgyun.com/773)
+* [Node: String 크기 제한에 의한 RangeError](http://ohgyun.com/782)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
