@@ -401,6 +401,8 @@ Linux
 
 # Library
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
+* [Facebook open-sources new suite of Linux kernel components and tools](https://code.fb.com/open-source/linux/) bpf, btrfs, netconsd, cgroup2, psi, oomd
+  * [opensource.fb.com/#linux](https://opensource.fb.com/#linux)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
