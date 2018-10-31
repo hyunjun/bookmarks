@@ -1413,6 +1413,7 @@ Javascript
 * [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
 * [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [리액트의 새로운 기능, Hooks 알아보기](https://velog.io/@velopert/react-hooks)
+* [react-hooks-todo](https://github.com/myungjaeyu/react-hooks-todo)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 
 ## Flux
@@ -1711,8 +1712,8 @@ Javascript
 * [리액트와 뷰로 같은 앱을 만들어 보았다.(Part 2: Angular)](http://devtimothy.tistory.com/93)
 * [번역 자바스크립트 반응성(Reactivity)에 대한 가장 좋은 설명](https://rhostem.github.io/posts/2018-09-12-javascript-reactivity/)
 * Vuetorials
-	* [0. 들어가면서](https://jaeyeophan.github.io/2018/10/21/Vuetorials-0-intro/)
-	* [1. @vue-cli 3.0](https://jaeyeophan.github.io/2018/10/21/Vuetorials-1-vue-cli-3-0/)
-	* [2. Vue 의 전반적인 concept](https://jaeyeophan.github.io/2018/10/21/Vuetorials-2-Vue-concept)
+  * [0. 들어가면서](https://jaeyeophan.github.io/2018/10/21/Vuetorials-0-intro/)
+  * [1. @vue-cli 3.0](https://jaeyeophan.github.io/2018/10/21/Vuetorials-1-vue-cli-3-0/)
+  * [2. Vue 의 전반적인 concept](https://jaeyeophan.github.io/2018/10/21/Vuetorials-2-Vue-concept)
   * [3. Component API](https://jaeyeophan.github.io/2018/10/23/Vuetorials-3-Component-API/)
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)

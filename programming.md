@@ -266,11 +266,11 @@ Programming
 * CQRS
   * [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
   * [CQRS and Event Sourcing for dummies](https://www.javacodegeeks.com/2015/07/cqrs-and-event-sourcing-for-dummies.html)
-	* 이벤트 소싱 및 CQRS 패턴의 원리와 구현 사례
-		* 이벤트 소싱 원리 - 개요, 데이터 영속, 메시징, CQRS(Command and Query Responsibility Segregation)
-		* 이벤트 소싱 구현 - 메시지 중심 작업 절차, 프레임워크, 응용프로그램 데모, 아키텍팅 및 구현 사례 소개
-		* [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
-		* [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
+  * 이벤트 소싱 및 CQRS 패턴의 원리와 구현 사례
+    * 이벤트 소싱 원리 - 개요, 데이터 영속, 메시징, CQRS(Command and Query Responsibility Segregation)
+    * 이벤트 소싱 구현 - 메시지 중심 작업 절차, 프레임워크, 응용프로그램 데모, 아키텍팅 및 구현 사례 소개
+    * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
+    * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -345,8 +345,8 @@ Programming
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
 * [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
-	* [번역; Web Architecture 101](https://medium.com/@strncpy/%EB%B2%88%EC%97%AD-web-architecture-101-5fda6095688c)
-	* [번역 웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
+  * [번역; Web Architecture 101](https://medium.com/@strncpy/%EB%B2%88%EC%97%AD-web-architecture-101-5fda6095688c)
+  * [번역 웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -709,8 +709,8 @@ Programming
 * [IDC 1도 모르는 개발자가 DevOps를 만났을때](https://www.slideshare.net/ssuserd5b689/idc-1-devops-105987290)
 * [What Is DevOps?](https://www.youtube.com/watch?v=NCj11DHWcG8)
 * 개발과 운영의 조화
-	* [1 기존 개발 체계의 문제점](http://bcho.tistory.com/815)
-	* [2 Devops의 정의](http://bcho.tistory.com/817)
+  * [1 기존 개발 체계의 문제점](http://bcho.tistory.com/815)
+  * [2 Devops의 정의](http://bcho.tistory.com/817)
 * [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
 
 # Distributed

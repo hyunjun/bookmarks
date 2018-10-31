@@ -254,6 +254,7 @@ Clojure
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 * [Clojure/ClojureScript Boot literate programming template](https://maximgb.github.io/clojure-boot-literate)
 * [개발 환경 설정](https://github.com/clojure-kr/clojure-complete/blob/master/Development-Environments/development-environments.adoc)
+* [nil punning](https://gist.github.com/philoskim/f4ab7ae21b5bf76def85ad61855fb9bf#nil-punning)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

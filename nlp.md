@@ -2,12 +2,9 @@ NLP
 ===
 * [A curated list of speech and natural language processing resources](https://github.com/edobashira/speech-language-processing)
 * [NLPK: 강승식 교수의 nlp 카페](http://cafe.daum.net/nlpk)
-* [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
-* [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
-* [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
 * [‘시리’가 아직까지 말귀를 못 알아듣는 까닭](http://www.bloter.net/archives/227915)
 * [Heteronym (linguistics)](https://en.wikipedia.org/wiki/Heteronym_(linguistics))
 * [Pronounceable Anagrams](http://smithamilli.com/blog/anagrams/)
@@ -27,30 +24,13 @@ NLP
 * [Bag of Words Meet Bags of Popcorn - (1) Part 1: Bag of Words](http://khanrc.tistory.com/entry/kaggle-Bag-of-Words-Meet-Bags-of-Popcorn-1-Part-1)
 * [WHERE TECHNOLOGY MEETS BUSINESS. TYING TEXT ANALYTICS TO YOUR BUSINESS GOALS](http://www.incite-group.com/events/textwest/conference-agenda.php)
 * [For 40 years, computer scientists looked for a solution that doesn’t exist](http://www.bostonglobe.com/ideas/2015/08/10/computer-scientists-have-looked-for-solution-that-doesn-exist/tXO0qNRnbKrClfUPmavifK/story.html) edit distance
-* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-  * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
-  * [CS224d 2017 video subtitles translation project for everyone](https://github.com/songys/CS224N_17_KOR_SUB)
-* [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
-  * [cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
-  * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
-  * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-* [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) 
-  * [Distributional word representations](http://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/vsm.ipynb)
-* [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
-* [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
-  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
-  * [Lecture 8 - Generating Language with Attention Chris Dyer](https://www.youtube.com/watch?v=ah7_mfl7LD0)
-* [CS4650 and CS7650 ("Natural Language") at Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
-* [CS 447: Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2017/)
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [A Simple Artificial Intelligence Capable of Basic Reading Comprehension](http://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html)
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
-* [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
 * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
-* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * [politeness - Write in a more polite, friendly tone](https://labs.foxtype.com/politeness)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
@@ -77,7 +57,6 @@ NLP
   * [Lecture 4: Evaluating language models](https://courses.engr.illinois.edu/cs498jh/Slides/Lecture04.pdf)
   * [speech recognition & LM](http://phonolog.tistory.com/entry/speech-recognition-LM)
   * [하이퍼망 분자컴퓨팅 기반 단어 재인 시뮬레이션](https://bi.snu.ac.kr/Publications/Theses/MS06f_KangYJ.pdf)
-* [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 * [An Experimental Study on Open Source Korean Morphological Analyzers for Evaluating Noun Extraction](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE06559147)
 * [Episode 22: 자연언어처리 특집 1부 – 마이크로소프트 NLP연구실의 김용범님과 함께](https://iamprogrammer.io/post/9401)
 * [Espresso - AIR LAB, Changwon National University](http://air.changwon.ac.kr/~airdemo/Espresso/)
@@ -98,7 +77,6 @@ NLP
 * [NLP 자연어처리](http://hub-ai.com/nlp)
 * [니코니코동화의 공개코멘트 데이터를 Deep Learning로 해석하기](https://blog.umay.be/2016/06/02/niconico-nlp.html)
   * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
-* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
 * [Generative Models](https://openai.com/blog/generative-models)
 * [온라인 한국어 POS 태거 만들기](https://www.youtube.com/watch?v=oSPVB9o6D50)
 * [파이썬을 이용한 자연어처리 기초](https://www.facebook.com/notes/%EB%B0%94%EB%B2%A8%ED%94%BC%EC%89%AC/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%B4%88/784679931573503)
@@ -161,7 +139,6 @@ NLP
   * [딥러닝 기반 자연어처리 기법의 최근 연구 동향](https://ratsgo.github.io/natural%20language%20processing/2017/08/16/deepNLP/)
 * [NLP를 위한 딥러닝 가이드](http://docs.likejazz.com/deep-learning-for-nlp/)
 * [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
-* [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
 * [Last Words: Computational Linguistics and Deep Learning](http://mitp.nautil.us/article/170/last-words-computational-linguistics-and-deep-learning)
   * PDP(연결주의)쪽 룸멜허트나 맥클랜드의 연구들 - 신경망 기반 의미론 모형
   * 인간 언어와 관련한 인지과학적 연구 - 어떻게 언어를 학습하고 개념들이 조직화되는가라는 관점
@@ -178,7 +155,6 @@ NLP
 * **[Mining English and Korean text with Python](https://www.lucypark.kr/courses/2015-ba/text-mining.html)**
 * [How to get started in NLP](https://medium.com/towards-data-science/how-to-get-started-in-nlp-6a62aa4eaeff)
 * [NATURAL LANGUAGE GENERATION](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
-* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [NLP for Korean](https://github.com/bage79/nlp4kor)
   * [nlp4kor](https://www.youtube.com/playlist?list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu)
   * [CNN for MNIST](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/CNN_for_MNIST.ipynb)
@@ -192,7 +168,6 @@ NLP
 * [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
 * [Deep Learning for Speech and Language](https://www.facebook.com/nextobe1/posts/339301146505887)
 * [deep learning nlp best practices](http://ruder.io/deep-learning-nlp-best-practices/index.html)
-* [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709)
 * [Natural Language Processing in Artificial Intelligence is almost human-level accurate. Worse yet, it gets smart!](https://sigmoidal.io/boosting-your-solutions-with-nlp/)
 * [Language Emergence](https://github.com/batra-mlp-lab/lang-emerge)
 * [Speech and Language Processing (3rd ed. draft)](http://web.stanford.edu/~jurafsky/slp3/)
@@ -574,6 +549,8 @@ NLP
 * [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
 
 # Library
+* [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
+* [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
 * 날개셋
   * [다음 버전 개발 근황](http://moogi.new21.org/tc/1360)
 * [오픈 한글](http://openhangul.com/)
@@ -627,6 +604,8 @@ NLP
   * [지능형 한국어 형태소 분석기 0.4버전 업데이트](http://bab2min.tistory.com/580)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
+* KorpuSQL
+  * [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 * [Koshort - Koshort은 한국어 NLP를 위한 high-level API 프로젝트입니다](https://koshort.github.io/)
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
@@ -637,6 +616,7 @@ NLP
   * word embeddings와 같은 고차원 데이터에서 k nearest item을 근사적으로 빠르게 찾는 라이브러리
   * annoy와 비슷하지만 graph tree 기반 indexing
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
+* [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
 * [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
@@ -749,6 +729,26 @@ NLP
 # LSH
 * [LSH( Locality sensitive hashing )](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=02ONK&articleno=13627840)
 
+# MOOC, Lecture
+* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
+  * [CS224d 2017 video subtitles translation project for everyone](https://github.com/songys/CS224N_17_KOR_SUB)
+* [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+  * [cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
+  * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
+  * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+* [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) 
+  * [Distributional word representations](http://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/vsm.ipynb)
+* [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
+* [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+  * [Lecture 8 - Generating Language with Attention Chris Dyer](https://www.youtube.com/watch?v=ah7_mfl7LD0)
+* [CS4650 and CS7650 ("Natural Language") at Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+* [CS 447: Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2017/)
+* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+* [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
+
 # Named Entity
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)
 * [한국어 개체명 인식 기술(Named Entity Recognition)](http://swguru.kr/48)
@@ -791,6 +791,10 @@ NLP
 * [jena Ontology API와 sparQL을 사용하여 검색시스템 만들기](http://cholol.tistory.com/225)
 
 # Paper
+* [Semantics, Representations and Grammars for Deep Learning](http://arxiv.org/abs/1509.08627)
+* [Language Understanding for Text-based Games Using Deep Reinforcement Learning](http://arxiv.org/pdf/1506.08941v1.pdf)
+* [Linguistic Knowledge as Memory for Recurrent Neural Networks](https://arxiv.org/abs/1703.02620)
+* [Recent Trends in Deep Learning Based Natural Language Processing](https://arxiv.org/abs/1708.02709)
 * [Awesome Korean NLP Papers](https://github.com/papower1/Awesome-Korean-NLP-Papers)
 * [57 SUMMARIES OF MACHINE LEARNING AND NLP RESEARCH](http://www.marekrei.com/blog/paper-summaries/)
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)

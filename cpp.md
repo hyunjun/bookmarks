@@ -81,7 +81,6 @@ C++
 * [You Can Stop Writing Comments About Pointer Ownership](http://gpfault.net/posts/pointer-ownership-comments.txt.html)
 * [Job System 2.0: Lock-Free Work Stealing – Part 1: Basics](http://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
 * [Job System 2.0: Lock-Free Work Stealing – Part 2: A specialized allocator](http://blog.molecular-matters.com/2015/09/08/job-system-2-0-lock-free-work-stealing-part-2-a-specialized-allocator/)
-* [C++ encapsulation for Data-Oriented Design](http://bannalia.blogspot.kr/2015/08/c-encapsulation-for-data-oriented-design.html)
 * [Meeting C++ - A independent C++ Conference, and the attempt to establish a european network for C++](http://meetingcpp.com/)
 * [Joint Allocations in C++](https://turingtester.wordpress.com/2015/09/13/joint-allocations-in-c/)
 * [New C++ Features – Move Constructor and Move Assignment](http://arne-mertz.de/2015/09/new-c-features-move-constructor-and-move-assignment/)

@@ -349,6 +349,7 @@ Java
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
 * [시간 당 실행 횟수 제한 라이브러리 3종 소개: RateLimiter, RateLimitJ, Bucket4j](http://javacan.tistory.com/505)
+* [Java 대용량 엑셀 다운로드 기능 구현](https://tmondev.blog.me/221388780914) JXLS, POI
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [Armeria is an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)

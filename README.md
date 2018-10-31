@@ -81,6 +81,7 @@ bookmarks
     * [government](government.md)
   * [programmer](programmer.md)
   * [programming](programming.md)
+    * [data oriented design](dod.md)
     * [functional programming](functional_programming.md)
     * [logging](logging.md)
     * [network](network.md)

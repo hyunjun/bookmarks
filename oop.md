@@ -39,7 +39,7 @@
 * [여러 메서드가 동일 처리 흐름을 갖는 코드 정리 예시: 클래스 추출](http://javacan.tistory.com/entry/remove-duplicate-process-by-extracting-class)
 * [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 * **모든 개발자가 알아야만 하는 SOLID 원칙**
-	* [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+  * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
   * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
   * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
 

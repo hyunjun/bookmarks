@@ -719,7 +719,7 @@ Deep Learning
 * [Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder, Oct 12 2017 Lect 6.2](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 * [Variational Auto Encoding](https://github.com/MingyuKim87/VAE)
 
-# Backpropagation
+# [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Neural Networks: The Backpropagation algorithm in a picture](http://www.datasciencecentral.com/profiles/blogs/neural-networks-the-backpropagation-algorithm-in-a-picture)
@@ -731,6 +731,7 @@ Deep Learning
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [계산 그래프로 역전파 이해하기](https://brunch.co.kr/@chris-song/22)
 * [Back-Propagation is very simple. Who made it Complicated ?](https://becominghuman.ai/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
+* [Back-Propagation is very simple. Who made it Complicated ?](https://medium.com/@14prakash/back-propagation-is-very-simple-who-made-it-complicated-97b794c97e5c)
 * [Backpropagation Through Time: recurrent neural network training technique](http://www.techleer.com/articles/185-backpropagation-through-time-recurrent-neural-network-training-technique/)
 * [Backpropagation: A supervised learning neural network method](http://www.techleer.com/articles/242-backpropagation-a-supervised-learning-neural-network-method/)
 * [Backprop is not just the chain rule](http://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/)
@@ -759,6 +760,8 @@ Deep Learning
 * [The Two Phases of Gradient Descent in Deep Learning](https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17)
 * [Machine Learning 101: An Intuitive Introduction to Gradient Descent](https://towardsdatascience.com/machine-learning-101-an-intuitive-introduction-to-gradient-descent-366b77b52645)
 * [Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
+* [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+* [Lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -1918,6 +1921,7 @@ CVPR2016)
 * [인공지능 슈퍼마리오의 거의 모든 것( Pycon 2018 정원석)](https://www.slideshare.net/wonseokjung2/pycon-2018-110420140)
 * [A.I Supermario with Reinforcement Learning - 1, 강화학습으로 인공지능 슈퍼마리오 만들기 튜토리얼 1](https://www.youtube.com/watch?v=ydCrd9cDLsU)
   * [강화학습으로 인공지능 슈퍼마리오 만들기 강의 1편](https://wonseokjung.github.io//reinforcementlearning/update/Supermario1/)
+  * [A.I_Supermario 강화학습을 이용한 슈퍼마리오 만들기 튜토리얼](https://github.com/wonseokjung/ai_supermario)
 * [장진만쌤의 Sung Kim 교수님의 모두의 RL 수업을 보고 나서 따라 하기](http://chlehrb.tistory.com/78) 07.03 현재 설치까지 진행
 * [Reinforce-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어

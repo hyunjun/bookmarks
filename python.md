@@ -462,7 +462,7 @@ Python
   * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
-	* [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
+  * [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
 * decorator
   * [Understanding Python Decorators in 12 Easy Steps!](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
   * [Decorator to expose local variables of a function after execution (Python recipe)](http://code.activestate.com/recipes/577283-decorator-to-expose-local-variables-of-a-function-/)
@@ -725,7 +725,7 @@ Python
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
   * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
   * [Running a method as a background thread in Python](http://sebastiandahlgren.se/2014/06/27/running-a-method-as-a-background-thread-in-python/)
-	* [rogrepos.py](https://github.com/lqez/rogrepos/blob/master/rogrepos/rogrepos.py)
+  * [rogrepos.py](https://github.com/lqez/rogrepos/blob/master/rogrepos/rogrepos.py)
   * [Python ProcessPoolExecutor Tutorial](https://tutorialedge.net/python/concurrency/python-processpoolexecutor-tutorial/)
     * [Python ProcessPoolExecutors Tutorial](https://www.youtube.com/watch?v=J7w_G6ZKzz4)
     * [practice](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_pool.py)
