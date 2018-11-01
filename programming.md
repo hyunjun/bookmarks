@@ -509,6 +509,7 @@ Programming
   * [서버리스 Cloud Functions 사용하기](http://jybaek.tistory.com/752)
   * [Cloud Functions, 이래서 베타다](http://jybaek.tistory.com/753)
   * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
+  * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -1013,6 +1014,7 @@ Programming
   * [1807호](https://blog.gaerae.com/2018/07/monthly.html)
   * [1808호](https://blog.gaerae.com/2018/08/monthly.html)
   * [1809호](https://blog.gaerae.com/2018/09/monthly.html)
+  * [1810호](https://blog.gaerae.com/2018/10/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)

@@ -1415,6 +1415,7 @@ Javascript
 * [리액트의 새로운 기능, Hooks 알아보기](https://velog.io/@velopert/react-hooks)
 * [react-hooks-todo](https://github.com/myungjaeyu/react-hooks-todo)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
+* [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
