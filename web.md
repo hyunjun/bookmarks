@@ -222,6 +222,8 @@ Web
 * [크롤링 실습 - 대표적인 크롤링 예시 3가지](https://nomade.kr/vod/crawling/127/)
 * [7-1. 웹 크롤링(스크래핑) 이해하기](https://www.youtube.com/watch?v=gsfmhpsQH08)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
+* [크롤러를 이용해 우체국 등기우편을 자동으로 정리해보자](https://brunch.co.kr/@needleworm/1)
+  * [github.com/needleworm/post_crawler](https://github.com/needleworm/post_crawler)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)

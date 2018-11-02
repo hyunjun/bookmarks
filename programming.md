@@ -774,6 +774,7 @@ Programming
 
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
+* [번역 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [emqtt](http://emqtt.io/)
@@ -1004,6 +1005,7 @@ Programming
   * [기술 뉴스 #110 : 18-09-16](https://blog.outsider.ne.kr/1401)
   * [기술 뉴스 #111 : 18-10-01](https://blog.outsider.ne.kr/1403)
   * [기술 뉴스 #112 : 18-10-15](https://blog.outsider.ne.kr/1404)
+  * [기술 뉴스 #113 : 18-11-01](https://blog.outsider.ne.kr/1406)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)

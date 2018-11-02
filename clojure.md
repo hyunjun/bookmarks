@@ -201,7 +201,8 @@ Clojure
 * [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
 * [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
 * [lazy-seq 여부 판별하기](https://groups.google.com/forum/#!topic/clojure-kr/CPRZ8zkwN0I)
-* [Delta Stochastic Gradient Descent](https://github.com/eunmin/delta-sgd) 딥러닛 첫걸음 2장
+* [Laziness in Clojure](https://medium.com/@pwentz/laziness-in-clojure-3d83645bf7f3)
+* [Delta Stochastic Gradient Descent](https://github.com/eunmin/delta-sgd) 딥러닝 첫걸음 2장
 * [backprop-xor](https://github.com/eunmin/backprop-xor)
 * [multi-class](https://github.com/eunmin/multi-class)
 * [Tricks for Java interop - How to reference inner classes, enums, generics, and varargs](https://purelyfunctional.tv/article/tricks-for-java-interop/)

@@ -15,6 +15,7 @@ House
 * [3D프린터로 만든 자연냉각 벽돌](http://techholic.co.kr/archives/34567)
 * [도구 하나 없이…정글에서 집 만드는 법](http://techholic.co.kr/archives/40372)
 * [주택임대차 확정일자 온라인으로 손쉽게 받는다](http://www.huffingtonpost.kr/2015/09/13/story_n_8128570.html)
+* [알기 어려운 부동산법.. 전입신고·확정일자의 차이는](https://news.v.daum.net/v/20181102130216733)
 * [안전하게 내 전세금 지키는 법](http://realestate.daum.net/news/detail/main/20180224080055530)
 * 주택 임차보증금 제때 돌려주지 않을 때
   * [내용증명 보내기](http://slownews.kr/46462)
@@ -23,6 +24,7 @@ House
   * [강제집행 신청과 보증금 돌려받기](http://slownews.kr/54557)
   * [이번엔 집주인이 부당이득금반환 소송을 걸었다](http://slownews.kr/57229)
 * [깡통전세 공포, 전세보증금 안돌려주는 집주인 대처법](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=2048)
+* [전셋값 하락하는데.."집주인이 보증금을 안줘요"](http://realestate.daum.net/news/detail/main/20181102040003773)
 * [전세의 종말 (상)](https://brunch.co.kr/@zip/28)
 * [전세의 종말 (하)](https://brunch.co.kr/@zip/30)
 * [공간의 가치 - 한국 상업용 주거용 부동산의 구조적 이해](http://www.valueofspace.com/wordpress/)
