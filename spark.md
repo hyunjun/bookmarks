@@ -455,6 +455,7 @@
 * [Apache Spark installation on Windows 10](https://hernandezpaul.wordpress.com/2016/01/24/apache-spark-installation-on-windows-10/)
 * [Spark StandAlone 설치부터 예제 테스트까지](http://hellowuniverse.com/2017/03/08/spark-standalone-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-%EC%98%88%EC%A0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B9%8C%EC%A7%80/)
 * [Hadoop, Spark 설치](https://github.com/likejazz/likejazz.github.io/wiki/Hadoop,-Spark)
+* [Spark (scala) 개발환경 설정 (window)](https://blog.naver.com/haiteam/221208062178)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 
 # Library
