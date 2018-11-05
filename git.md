@@ -347,6 +347,7 @@ Git
   * [Git submodule add: “a git directory is found locally” issue](http://stackoverflow.com/questions/20929336/git-submodule-add-a-git-directory-is-found-locally-issue) `rm -rf .git/modules/[submodule name]`
   * [Easy way pull latest of all submodules](http://stackoverflow.com/questions/1030169/easy-way-pull-latest-of-all-submodules)
   * [여러개의 Git 저장소 (repository)로 이루어진 프로젝트 관리하기](http://pseg.or.kr/pseg/index.php?document_srl=7337&l=ko&mid=infouse)
+  * [git submodule로 오픈소스 upstream 관리하기](https://earlybird.kr/2255)
 * subtree
   * [git subtree를 사용하여 재사용할 코드 독립 시키기](http://readme.skplanet.com/?p=8542)
 * [tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging)

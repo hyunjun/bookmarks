@@ -592,13 +592,15 @@ Apache
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io ](https://github.com/apache/incubator-predictionio)
 
-# Pulsar
+# Pulsar 기존의 메시징/스트리밍 시스템의 단점을 보완하기 위해 Yahoo에서 시작된 분산형 pub-sub 시스템
 * Geo-replication in Apache Pulsar
   * [part 1: concepts and features](https://streaml.io/blog/apache-pulsar-geo-replication)
   * [part 2: patterns and practices](https://streaml.io/blog/geo-replication-patterns-practices)
   * Apache Pulsar를 사용하여 cross-data center replication를 수행하는 방법에 대해 설명
   * 복제를 설정하는 데 필요한 명령, 응용 프로그램별로 재정의하는 방법, 모니터링 방법, 복제 대역폭을 제한하는 방법 등에 대해 설명
 * [Comparing Pulsar and Kafka: how a segment-based architecture delivers better performance, scalability, and resilience](https://streaml.io/blog/pulsar-segment-based-architecture)
+* [Querying Data Streams with Apache Pulsar SQL](https://streaml.io/blog/querying-data-streams-with-apache-pulsar-sql)
+  * Apache Pulsar를 통해 스트리밍 데이터를 SQL로 조회하는 아키텍처, 성능, 리뷰 포함
 
 # [Ranger](http://ranger.apache.org)
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)

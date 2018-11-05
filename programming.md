@@ -439,6 +439,7 @@ Programming
 * [List of freely available Programming Books](http://conceptf1.blogspot.kr/2013/11/list-of-freely-available-programming.html)
 * ["Reverse Engineering for Beginners" free book](http://beginners.re/)
 * [내가 추천하는 프로그래머 필독서 50선](http://blog.weirdx.io/post/23787)
+* [내 마음대론 선정한 프로그래머 필독서 50선(20160211)](https://www.sangkon.com/2016/02/10/good_books_for_dev/)
 * [프로그래밍 책 추천](http://pr0gr4m.tistory.com/2)
 * [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
@@ -966,6 +967,7 @@ Programming
   * [10월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/10/b-10-2.html)
   * [10월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/10/b-10-3.html)
   * [10월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/10/b-10-4.html)
+	* [10월 5주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-10-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1076,6 +1078,8 @@ Programming
 * [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
 * **[Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)**
 * [How to Manage Streaming and Real time Big Data Performance](https://www.youtube.com/watch?v=R5lnMrAhPQA)
+* [Noria: dynamic, partially-stateful data-flow for high-performance web applications](https://blog.acolyer.org/2018/10/29/noria-dynamic-partially-stateful-data-flow-for-high-performance-web-applications/)
+  * MIT에서 내놓은 새로운 데이터 스트리밍 시스템. 읽기가 무거운 웹 애플리케이션에 최적화, SQL 쿼리 사용 가능
 
 ## Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)

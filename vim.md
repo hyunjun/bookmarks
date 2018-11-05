@@ -120,6 +120,7 @@ Vim
 * [You don’t need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
 * **[All I do is VIM VIM VIM](http://engineering.pivotal.io/post/all-i-do-is-vim/)**
 * [Vim은 어디서 왔나](https://blog.koriel.kr/where-vim-came-from/)
+* [VIM을 이용하여 각 줄의 마지막 공백(Whitespace) 제거하기](http://kkamagui.tistory.com/904)
 
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)

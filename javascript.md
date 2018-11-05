@@ -1414,6 +1414,7 @@ Javascript
 * [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
 * [리액트의 새로운 기능, Hooks 알아보기](https://velog.io/@velopert/react-hooks)
 * [react-hooks-todo](https://github.com/myungjaeyu/react-hooks-todo)
+* [새로 도입될 React Hooks 알아보기](https://godsenal.github.io/2018/11/05/새로-도입될-React-Hooks-알아보기)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 

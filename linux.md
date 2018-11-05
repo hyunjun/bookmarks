@@ -77,6 +77,7 @@ Linux
 * [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
 * **[The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)**
 * **[리눅스 서버 60초안에 상황파악하기](https://b.luavis.kr/server/linux-performance-analysis)**
+* [리눅스 응용프로그램 실행 시 ASLR(Address Space Layout Randomization) 기능 끄고 실행하기](http://kkamagui.tistory.com/905)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)

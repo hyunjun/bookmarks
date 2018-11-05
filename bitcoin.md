@@ -99,6 +99,7 @@ Bitcoin
 * [Skewed Merkle Tree](https://blog.seulgi.kim/2018/06/skewed-merkle-tree.html)
 * [토큰 이코노미에 대하여](https://brunch.co.kr/@jeffpaik/53)
 * [27 Online Courses to Learn Blockchain and Cryptocurrency Programming](https://www.inc.com/jeff-haden/27-online-courses-to-learn-blockchain-cryptocurrency-programming.html)
+* [hycon private network 구축하기](https://blog.naver.com/pjt3591oo/221391545473)
 
 ## Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)

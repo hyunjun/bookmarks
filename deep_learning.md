@@ -1322,6 +1322,7 @@ Deep Learning
 * [Convolutional Neural Network — I](https://towardsdatascience.com/cnn-part-i-9ec412a14cb1)
 * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
+* [cnn-watermark-removal - Fully convolutional deep neural network to remove transparent overlays from images](https://github.com/marcbelmont/cnn-watermark-removal)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1885,6 +1886,7 @@ CVPR2016)
 * [irelia - Korean Janggi AI using q learning](https://github.com/jireh-father/irelia)
 * [Deep Reinforcement Learning: An Overview](https://arxiv.org/abs/1701.07274)
 * [강화학습 튜토리알 - 인공 신경망으로 '퐁' 게임을 학습시키자 (Andrej Karpathy 포스트 번역)](http://keunwoochoi.blogspot.com/2016/06/andrej-karpathy.html)
+* [pong dqn on colab](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/4_pong_dqn%20(1).ipynb)
 * [Playing Atari with Deep Reinforcement Learning](https://speakerdeck.com/jacksongl/playing-atari-with-deep-reinforcement-learning)
 * [Solved atari games](https://entropicai.blogspot.com/)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
@@ -1922,6 +1924,7 @@ CVPR2016)
 * [A.I Supermario with Reinforcement Learning - 1, 강화학습으로 인공지능 슈퍼마리오 만들기 튜토리얼 1](https://www.youtube.com/watch?v=ydCrd9cDLsU)
   * [강화학습으로 인공지능 슈퍼마리오 만들기 강의 1편](https://wonseokjung.github.io//reinforcementlearning/update/Supermario1/)
   * [A.I_Supermario 강화학습을 이용한 슈퍼마리오 만들기 튜토리얼](https://github.com/wonseokjung/ai_supermario)
+* [supermario dqn on colab](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/2_supermario_dqn.ipynb)
 * [장진만쌤의 Sung Kim 교수님의 모두의 RL 수업을 보고 나서 따라 하기](http://chlehrb.tistory.com/78) 07.03 현재 설치까지 진행
 * [Reinforce-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
@@ -1991,6 +1994,8 @@ CVPR2016)
 * [Deep Learning and Reinforcement Learning Summer School, Toronto 2018](http://videolectures.net/DLRLsummerschool2018_toronto)
 * [Deep Reinforcement Learning - Introduction](https://github.com/wonseokjung/RLXDL/blob/master/1/2018-10-28-RLXDL-1.md)
   * [Deep Reinforcement Learning - Introduction](https://speakerdeck.com/wonseokjung/deep-reinforcement-learning-introduction)
+* [Horizon: The first open source reinforcement learning platform for large-scale products and services](https://code.fb.com/ml-applications/horizon/)
+* [MAME RL Algorithm Trainig Toolkit - A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 
 ## RL MOOC, Lectures
 * [강화학습의 기초 이론](https://www.youtube.com/playlist?list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
