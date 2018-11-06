@@ -511,6 +511,7 @@ Programming
   * [Cloud Functions, 이래서 베타다](http://jybaek.tistory.com/753)
   * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
+	* [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 
 # Cloud IDE
 * [codenvy.com](https://codenvy.com)
@@ -1221,6 +1222,7 @@ Programming
   * [#2 TDD로 진행한 내용정리,통계, 두번째 TDD에 대한 소감,에피소드](https://medium.com/@junhyi.park/%ED%9A%8C%EA%B3%A0-%EB%91%90%EB%B2%88%EC%A7%B8-%EA%B0%9C%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-tdd%EB%A1%9C-%EC%A7%84%ED%96%89%ED%95%98%EB%A9%B0-2-f38276d39a9d)
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 * [2018 OKKYCON - The Real TDD](https://github.com/david-learner/java-study/blob/master/2018OKKYCON/readme.md)
+* [Agile and Test Driven Development (TDD) with Swagger, Docker, Github, Postman, Newman and Jenkins for a Loopback, Node.js and CouchDB App](https://medium.com/nycdev/agile-and-test-driven-development-tdd-with-swagger-docker-github-postman-newman-and-jenkins-347bd11d5069)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

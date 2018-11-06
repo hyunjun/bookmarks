@@ -112,6 +112,7 @@ PyTorch
 * [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
 * [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
+* [PyTorch implementation of Google AI's BERT model with a script to load Google's pre-trained models](https://github.com/huggingface/pytorch-pretrained-BERT)
 * [BraTs (Brain Tumor Segmentation)](https://github.com/JooHyun-Lee/BraTs) DeepLab v3+, PSPNet
 * [pytorch-mnist-VAE - Variational AutoEncoder on the MNIST data set using the PyTorch](https://github.com/lyeoni/pytorch-mnist-VAE)
 * [pytorch-mnist-CVAE - Conditional Variational AutoEncoder on the MNIST data set using the PyTroch](https://github.com/lyeoni/pytorch-mnist-CVAE)
@@ -119,6 +120,7 @@ PyTorch
 * [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
 * [vid2vid - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation](https://github.com/NVIDIA/vid2vid)
 * [github.com/chagmgang/torch_rl](https://github.com/chagmgang/torch_rl)
+* [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

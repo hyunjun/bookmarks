@@ -372,6 +372,8 @@ Data Science
 * [Analysing IPL Data to begin Data Analytics with Python](https://towardsdatascience.com/analysing-ipl-data-to-begin-data-analytics-with-python-5d2f610126a)
 * [Python for Data Science: 8 Concepts You May Have Forgotten](https://towardsdatascience.com/python-for-data-science-8-concepts-you-may-have-forgotten-i-did-825966908393)
 * [땀내를 줄이는 Data와 Feature 다루기](https://www.pycon.kr/2018/program/47)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+  * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
 
 ## Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)

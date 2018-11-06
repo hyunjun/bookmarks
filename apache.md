@@ -18,6 +18,7 @@ Apache
 * [When Airflow isn’t fast enough: Distributed orchestration of multiple small workloads with Celery](https://medium.com/@manuelmourato25/when-airflow-isnt-fast-enough-distributed-orchestration-of-multiple-small-workloads-with-celery-afb3daebe611)
 * [Apache Airflow in the Cloud: Programmatically orchestrating workloads w/ Py - Satyasheel, Kaxil Naik](https://www.youtube.com/watch?v=ZZ5okeRGRB8)
 * [Advanced Data Engineering Patterns with Apache Airflow](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/) AirBnB 데이터 엔지니어링팀의 A/B test, AutoDAG, Engagement & Growth metrics, Scaling 등을 구현하는 Apache Airflow 구축 방법 소개
+* [How to start automating your data pipelines with Airflow](https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -398,6 +399,14 @@ Apache
 * **[cloudurable.com/categories/kafka](http://cloudurable.com/categories/kafka/index.html)**
   * **[Kafka Tutorial 13: Creating Advanced Kafka Producers in Java](http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html)**
     * 압축방식은 lz4가 좋으며, decompress할때 사이즈 넣어야 snappy보다 느린 현상이 발생하지 않음
+* [Introduction to Schemas in Apache Kafka with the Confluent Schema Registry](https://medium.com/@stephane.maarek/introduction-to-schemas-in-apache-kafka-with-the-confluent-schema-registry-3bf55e401321)
+  * kafka는 json에 대한 serde를 제공하지 않음(구현은 가능)
+  * json보다 avro를 쓸 이유
+    * confluent schema registy (schema 정보를 가지고 있는 저장소) 기준
+      * 1. 데이터 축소 : 필드명을 보내지 않아도 됨 >> 데이터 : 매직바이트 + schemaID + value
+      * 2. producing 되는 데이터의 스키마가 변경되면 schema registry에 등록이나 수정만 하면되니 consumer는 수정하지 않아도 될 가능성이 높음
+    * json 처럼 schema가 free 한 경우 잦은 schema의 변경으로 producing 되는경우 consumer는 수정이 불가피 하며 스키마의 대한 정보를 놓치기 쉽고 이력도 알수 없음
+    * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

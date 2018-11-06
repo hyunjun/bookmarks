@@ -63,6 +63,7 @@ NLP
 * [악평생성기 (Bad Comment Generator using RNN) _ 송치성](http://www.slideshare.net/shuraba1/bad-comment-generator-using-rnn)
   * [Bad Comment Generator using RNN](http://nbviewer.jupyter.org/github/daydrill/BadCmtGenerator/blob/master/bad_cmt_generator_code.ipynb)
 * [Introduction to NLP](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
+* [An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
 * [딥엘라스틱 - 검색 + 로봇 저널리즘 + 인지신경언어학 + 딥러닝NLP](http://babelpish.github.io/deep-elastic/)
 * [PHP + MySQL 언어 식별기(Language Detection) 개발기](http://bab2min.tistory.com/503)
@@ -933,6 +934,7 @@ NLP
 * [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
 * [tldr - Text summarization service](https://github.com/suminb/tldr)
 * [24 A Serious NLP Application Text Auto Summarization using Python](https://www.youtube.com/watch?v=NDPyjZkblJc)
+* [Summarizing Tweets in a Disaster](https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732)
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)

@@ -273,6 +273,9 @@ Travel
 * [뉴욕에서 절대 하지 말아야 할 15가지](http://www.huffingtonpost.kr/fodors/story_b_6544604.html)
 * [Where a 90's tourist guide will take you in NYC](http://www.hopesandfears.com/hopes/city/city/168771-90s-tourist-guide-nyc)
 
+### Seattle
+* [마이크로소프트를 만든 괴짜, 폴 앨런을 추억한다](https://brunch.co.kr/@synabreu/26) 팝 컬처 뮤지엄(EMP)
+
 ### Hawaii
 * [19개월 아기랑 하와이 여행](http://yourisol.blog.me/220352487693)
 * [마할로와 하와이 속으로](http://blog.naver.com/sseoble)

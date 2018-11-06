@@ -126,6 +126,7 @@
   * [비트윈 데이터팀의 Spark Summit EU 2017 참가기](http://engineering.vcnc.co.kr/2017/12/spark-summit-eu-2017/)
   * [2018-spark-summit-ai-keynotes-2](https://databricks.com/sparkaisummit/north-america/2018-spark-summit-ai-keynotes-2)
   * [Netflix at Spark+AI Summit 2018](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)
+  * [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
 * [Tuning Java Garbage Collection for Spark Applications](https://databricks.com/blog/2015/05/28/tuning-java-garbage-collection-for-spark-applications.html)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
@@ -400,6 +401,7 @@
   * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types - Tutorial on how to do ETL on data from Nest and IoT Devices](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
   * [Querying our Data Lake in S3 using Zeppelin and Spark SQL](https://medium.com/@deniseschlesinger/querying-our-data-lake-in-s3-using-zeppelin-and-spark-sql-be50c3b7a613)
   * [Learning Spark SQL with Zeppelin](https://hortonworks.com/tutorial/learning-spark-sql-with-zeppelin/)
+  * [SQL Pivot: Converting Rows to Columns](https://databricks.com/blog/2018/11/01/sql-pivot-converting-rows-to-columns.html) 2.4
 * Exploring Spark DataSource V2
   * [Part 1 : Limitations of Data Source V1 API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-1/)
   * [Part 2 : Anatomy of V2 Read API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-2/)

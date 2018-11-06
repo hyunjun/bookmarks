@@ -534,6 +534,7 @@ TensorFlow
 * [Docker-based TensorFlow experimental environment](https://intl.aliyun.com/forum/read-683)
 * [Establish a TensorFlow Serving cluster easily using Docker and Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-685)
 * [TensorFlow Serving의 혁신적인 기능들을 확인해 보세요](https://developers-kr.googleblog.com/2017/12/latest-innovations-in-tensorflow-serving.html)
+* [How to deploy TensorFlow models to production using TF Serving](https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700)
 * [Straighten out a TensorFlow continuous training link using Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-686)
 * [GPU TensorFlow on Window 10](http://goodtogreate.tistory.com/)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)

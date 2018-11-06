@@ -1985,6 +1985,7 @@ Python
   * [Some Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
   * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
   * **[법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤](https://www.youtube.com/watch?v=JRiCsrNJujc)**
+	* [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [Numba](http://numba.pydata.org/)
@@ -2500,6 +2501,7 @@ Python
 * [pandas 시간정보로 .srt 자막을 만들어보자](http://jusths.tistory.com/40)
 * [Pandas: 한 셀의 데이터를 여러 행으로 나누기](http://ohgyun.com/768)
 * [Pandas: 그룹 내에서 상위 n개 가져오기](http://ohgyun.com/776)
+* [The Art of Cleaning Your Data](https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

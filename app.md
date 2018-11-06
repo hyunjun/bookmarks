@@ -219,6 +219,7 @@ App
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
 * [10 Chrome Extensions That Are Amazingly Useful! 2018](https://www.youtube.com/watch?v=1dFOSr2KeP8)
+* [How to take full page screenshots in Chrome without extensions](https://hackernoon.com/how-to-take-full-page-screenshots-in-chrome-without-extensions-be2f0cf36df1)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative

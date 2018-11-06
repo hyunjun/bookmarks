@@ -28,6 +28,11 @@ Javascript
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
 * **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
+* 초보자를 위한 바닐라 자바스크립트
+  * [#0-1 Requirements : JS for Beginners](https://www.youtube.com/watch?v=wUHncG3VwPw)
+  * [#0-2 What are we building : JS for Beginners](https://www.youtube.com/watch?v=ygVeQEgxm4o)
+  * [#1-1 Why JS? : JS for Beginners](https://www.youtube.com/watch?v=FP9QEHzqwRM)
+  * [#1-2 Super Powers of JS](https://www.youtube.com/watch?v=dBH_aMCuztk)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
@@ -279,6 +284,7 @@ Javascript
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
+* [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
@@ -410,6 +416,7 @@ Javascript
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
 * [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 * [Eloquent JavaScript 3RD EDITION](http://eloquentjavascript.net/)
+* [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -570,6 +577,7 @@ Javascript
 * [이제 대세는 리덕스 갈아치우기? Bye Bye Redux? Feat. MobX, GraphQL and Apollo!](https://www.youtube.com/watch?v=dRbW-__i_4U)
 * [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
+* [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1111,6 +1119,8 @@ Javascript
 * [객체에 프로퍼티 설정 시 성능 이슈](http://ohgyun.com/764)
 * [node.js: euc-kr 페이지에 보낼 요청 파라미터 인코딩](http://ohgyun.com/773)
 * [Node: String 크기 제한에 의한 RangeError](http://ohgyun.com/782)
+* [Node.js development on Kubernetes with Skaffold file sync](https://hackernoon.com/node-js-development-with-skaffold-file-sync-99c687b906d5)
+* [How to customize Node.js .env files for different environment stages](https://medium.freecodecamp.org/nodejs-custom-env-files-in-your-apps-fa7b3e67abe1)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1285,6 +1295,7 @@ Javascript
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 * [React.js Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/react-js-open-source-projects-of-the-month-v-june-2018-707339ace0d6)
+* [React.js Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-nov-2018-bb199eea39b1)
 * [React.js Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-june-2018-1ff4302fc72c)
 * [React.js Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-june-2018-1ff4302fc72c)
 * [React.js Open Source of the Month (v.May 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-may-2018-d39835f73842)
@@ -1417,6 +1428,9 @@ Javascript
 * [새로 도입될 React Hooks 알아보기](https://godsenal.github.io/2018/11/05/새로-도입될-React-Hooks-알아보기)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
+* [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
+* [React + Redux 게시판(CRUD) 만들기](http://forest71.tistory.com/184)
+* [React(Redux) + Firebase 게시판(CRUD) 만들기](http://forest71.tistory.com/189)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1718,4 +1732,5 @@ Javascript
   * [1. @vue-cli 3.0](https://jaeyeophan.github.io/2018/10/21/Vuetorials-1-vue-cli-3-0/)
   * [2. Vue 의 전반적인 concept](https://jaeyeophan.github.io/2018/10/21/Vuetorials-2-Vue-concept)
   * [3. Component API](https://jaeyeophan.github.io/2018/10/23/Vuetorials-3-Component-API/)
+  * [4. 내장 컴포넌트](https://jaeyeophan.github.io/2018/11/05/Vuetorials-4-Internal-Component/)
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)

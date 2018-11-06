@@ -1140,6 +1140,7 @@ Deep Learning
 * [Information Theory of Neural Networks](https://towardsdatascience.com/information-theory-of-neural-networks-ad4053f8e177)
 * [Under The Hood of Neural Networks. Part 1: Fully Connected](https://towardsdatascience.com/under-the-hood-of-neural-networks-part-1-fully-connected-5223b7f78528)
 * [How Attractive Are You in the Eyes of Deep Neural Network?(https://towardsdatascience.com/how-attractive-are-you-in-the-eyes-of-deep-neural-network-3d71c0755ccc)
+* [What Does A Face Detection Neural Network Look Like?](https://towardsdatascience.com/face-detection-neural-network-structure-257b8f6f85d1)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
