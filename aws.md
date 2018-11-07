@@ -232,6 +232,8 @@ AWS
 * [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식 - 윤석찬 (AWS 테크 에반젤리스트)](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)
 * [GitHub 연동을 위한 방화벽](https://andromedarabbit.net/github-%EC%97%B0%EB%8F%99%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%A9%ED%99%94%EB%B2%BD/)
 * [AWS Security Group 중첩 이슈 및 정리 팁](http://ohgyun.com/779)
+* [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
+* [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
