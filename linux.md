@@ -311,6 +311,7 @@ Linux
   * [systemd 살펴보기](http://lunatine.net/about-systemd/)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
+* `tac`
 * `tail`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`

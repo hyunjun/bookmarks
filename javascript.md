@@ -1165,6 +1165,7 @@ Javascript
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
+* [GLORIOUS DEMO](https://glorious.codes/demo) The easiest way of creating animations to show your code in action
 * [greenkeeper - Always up-to-date npm dependencies, zero hassle](http://greenkeeper.io/)
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
@@ -1426,6 +1427,7 @@ Javascript
 * [리액트의 새로운 기능, Hooks 알아보기](https://velog.io/@velopert/react-hooks)
 * [react-hooks-todo](https://github.com/myungjaeyu/react-hooks-todo)
 * [새로 도입될 React Hooks 알아보기](https://godsenal.github.io/2018/11/05/새로-도입될-React-Hooks-알아보기)
+* [useHooks - One new React Hook recipe every day](https://usehooks.com)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
