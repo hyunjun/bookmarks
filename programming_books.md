@@ -385,6 +385,7 @@ Programming Books
 * (NOT YET) [딥러닝 워크북](http://m.post.naver.com/viewer/postView.nhn?volumeNo=15007933&memberNo=40845152)
 * (NOT YET) [이것이 우리에게 딱 맞는 딥러닝 with 텐서플로](http://bjpublic.tistory.com/306)
   * 2018.07 탐라
+* (NOT YET) [PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 - 파이토치를 활용한 머신러닝, 딥러닝 알고리즘의 원리와 구현](http://wikibook.co.kr/pytorch/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
