@@ -1640,6 +1640,7 @@ Python
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
+  * [Hello, Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko)
   * [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
@@ -1985,7 +1986,7 @@ Python
   * [Some Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
   * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
   * **[법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤](https://www.youtube.com/watch?v=JRiCsrNJujc)**
-	* [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
+  * [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [Numba](http://numba.pydata.org/)

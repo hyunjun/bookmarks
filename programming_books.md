@@ -377,6 +377,8 @@ Programming Books
   * 한라 004.73-김36ㄷ
 * (NOT YET) [케라스 창시자에게 배우는 딥러닝](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D/)
   * [“케라스 창시자에게 배우는 딥러닝”이 출간되었습니다](https://tensorflow.blog/2018/10/08/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88/)
+  * [github.com/gilbutITbook/006975](https://github.com/gilbutITbook/006975)
+  * [github.com/rickiepark/deep-learning-with-python-notebooks](https://github.com/rickiepark/deep-learning-with-python-notebooks)
 * 강화학습 첫 걸음
   * 2018.03
   * 문004.73 줄239ㄱ

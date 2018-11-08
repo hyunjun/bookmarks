@@ -330,6 +330,7 @@ NoSQL
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
+* [High-Performance Time-Series Aggregation for PostgreSQL 11](https://www.pipelinedb.com/blog/high-performance-time-series-aggregation-for-postgresql-11)
 
 # [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 

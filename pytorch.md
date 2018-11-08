@@ -121,6 +121,7 @@ PyTorch
 * [vid2vid - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation](https://github.com/NVIDIA/vid2vid)
 * [github.com/chagmgang/torch_rl](https://github.com/chagmgang/torch_rl)
 * [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
+* [FloWaveNet : A Generative Flow for Raw Audio](https://github.com/ksw0306/FloWaveNet)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -153,6 +154,7 @@ PyTorch
 * [FastPhotoStyle](https://github.com/nvidia/fastphotostyle)
 * [Glow - a machine learning compiler and execution engine for various hardware targets](https://github.com/pytorch/glow/)
 * [gpytorch - A highly efficient and modular implementation of Gaussian Processes in PyTorch](https://github.com/cornellius-gp/gpytorch)
+* [HiddenLayer - A lightweight library for neural network graphs and training metrics for PyTorch and Tensorflow](https://github.com/waleedka/hiddenlayer)
 * [hyperband - Hyperparameter Optimization for PyTorch](https://github.com/kevinzakka/hyperband)
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
 * PyCUDA
