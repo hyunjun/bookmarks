@@ -516,6 +516,7 @@ Python
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
+    * [Making floating point math highly efficient for AI hardware](https://code.fb.com/ai-research/floating-point-math/) python 관련 내용은 아니지만 참고
   * [파이썬 내부 동작 원리: 임의 정밀도의 정수 구현](https://mingrammer.com/translation-cpython-internals-arbitrary-precision-integer-implementation)
 * encoding
   * practice

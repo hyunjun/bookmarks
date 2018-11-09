@@ -33,6 +33,7 @@ Javascript
   * [#0-2 What are we building : JS for Beginners](https://www.youtube.com/watch?v=ygVeQEgxm4o)
   * [#1-1 Why JS? : JS for Beginners](https://www.youtube.com/watch?v=FP9QEHzqwRM)
   * [#1-2 Super Powers of JS](https://www.youtube.com/watch?v=dBH_aMCuztk)
+* [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
@@ -212,6 +213,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f)
   * [JavaScript Open Source of the Month (v.July 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-july-2018-626eee418a74)
   * [JavaScript Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/javascript-open-source-projects-of-the-month-v-june-2018-48b38f3fcbf0)
   * [JavaScript Top 10 Open Source Projects (v.Feb 2018)](https://medium.mybridge.co/javascript-top-10-open-source-projects-v-feb-2018-b0229cfe6e46)
@@ -356,6 +358,7 @@ Javascript
 * [리액트, 노드 백엔드 통합 후 CI 연동하기](http://blog.jeonghwan.net/2018/08/19/express-travis-beanstalk.html)
 * [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859)
 * **[33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)**
+* [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -578,6 +581,8 @@ Javascript
 * [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 * [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
+* [Future-Proofing Backend Services with GraphQL, PostgreSQL and Docker (Part 1)](https://medium.com/@jrryjcksn/future-proofing-backend-services-with-graphql-postgresql-and-docker-part-1-527bd6b1a59a)
+  * [gist](https://gist.github.com/jrryjcksn/6551beeceaba8a066eebc7b893e661da)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -942,6 +947,7 @@ Javascript
   * [Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode](https://hackernoon.com/webpack-4-tutorial-all-you-need-to-know-from-0-conf-to-production-mode-d32759d0dc2d)
   * [웹팩4(Webpack) 설정하기](https://www.zerocho.com/category/Webpack/post/58aa916d745ca90018e5301d)
   * [webpack config tool](https://webpack.jakoblind.no/)
+  * [Webpack 4의 Tree Shaking에 대한 이해](http://huns.me/development/2265)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -1712,6 +1718,7 @@ Javascript
 * [How to build a serverless CMS-powered Vue.js application](https://medium.freecodecamp.org/how-to-build-a-serverless-cms-powered-vue-js-application-ee17f5957538)
 * [Vue.js nextTick 활용하기](http://jybaek.tistory.com/729)
 * [질의응답 QnA 웹 서비스 제작기](http://jybaek.tistory.com/730)
+* [Vue.js 설치 및 프로젝트 생성](http://jybaek.tistory.com/765)
 * [How Vue.js Helped Me Start My Angular Career](https://10clouds.com/blog/vue-js-angular-comparison/)
 * [Starting with Webpack 4 and VueJs — A quick-start tutorial](https://medium.com/@nupoor_neha/starting-with-webpack-4-and-vuejs-a-quick-start-tutorial-4a244410d55e)
 * [Why we choose Vue.js over React for Vue Storefront](https://medium.com/@piotrkarwatka/why-we-choose-vue-js-over-react-for-vue-storefront-7f499c950239)
@@ -1736,4 +1743,5 @@ Javascript
   * [2. Vue 의 전반적인 concept](https://jaeyeophan.github.io/2018/10/21/Vuetorials-2-Vue-concept)
   * [3. Component API](https://jaeyeophan.github.io/2018/10/23/Vuetorials-3-Component-API/)
   * [4. 내장 컴포넌트](https://jaeyeophan.github.io/2018/11/05/Vuetorials-4-Internal-Component/)
+  * [5. Vuex](https://jaeyeophan.github.io/2018/11/07/Vuetorials-5-Vuex/)
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)

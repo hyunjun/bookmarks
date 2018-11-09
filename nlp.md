@@ -65,6 +65,7 @@ NLP
 * [Introduction to NLP](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
 * [An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
+* [Generating text using a Recurrent Neural Network](https://towardsdatascience.com/generating-text-using-a-recurrent-neural-network-1c3bfee27a5e)
 * [딥엘라스틱 - 검색 + 로봇 저널리즘 + 인지신경언어학 + 딥러닝NLP](http://babelpish.github.io/deep-elastic/)
 * [PHP + MySQL 언어 식별기(Language Detection) 개발기](http://bab2min.tistory.com/503)
   * [언어 식별기 (Language Detection)](http://lab.bab2min.pe.kr/detectLang)
@@ -469,6 +470,7 @@ NLP
 * [CNN으로 문장 분류하기](https://ratsgo.github.io/natural%20language%20processing/2017/03/19/CNN/)
 * [Introducing Custom Classifier – Build Your Own Text Classification Model Without Any Training Data](https://blog.paralleldots.com/product/custom-text-classification-model-without-any-training-data/)
 * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification)
+* [Multi-Class Text Classification with SKlearn and NLTK in python| A Software Engineering Use Case](https://towardsdatascience.com/multi-class-text-classification-with-sklearn-and-nltk-in-python-a-software-engineering-use-case-779d4a28ba5)
 
 # Clustering
 * dbscan

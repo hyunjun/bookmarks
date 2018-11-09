@@ -19,6 +19,7 @@ Apache
 * [Apache Airflow in the Cloud: Programmatically orchestrating workloads w/ Py - Satyasheel, Kaxil Naik](https://www.youtube.com/watch?v=ZZ5okeRGRB8)
 * [Advanced Data Engineering Patterns with Apache Airflow](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/) AirBnB 데이터 엔지니어링팀의 A/B test, AutoDAG, Engagement & Growth metrics, Scaling 등을 구현하는 Apache Airflow 구축 방법 소개
 * [How to start automating your data pipelines with Airflow](https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94)
+* [Building a Big Data Pipeline With Airflow, Spark and Zeppelin](https://medium.com/swlh/building-a-big-data-pipeline-with-airflow-spark-and-zeppelin-843f31ef220c)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)

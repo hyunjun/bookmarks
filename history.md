@@ -306,6 +306,8 @@ History
 * [The Atlantic Slave Trade in Two Minutes](http://www.slate.com/articles/life/the_history_of_american_slavery/2015/06/animated_interactive_of_the_history_of_the_atlantic_slave_trade.html?hnrepost=9783442)
 * [미국 세계지리 교과서 논란: “일꾼”인가 “노예”인가](http://newspeppermint.com/2015/10/19/us-history-textbook-slaves/)
 * [노예제 이야기를 불편하게 여기는 학생들에게 미국사 가르치기](http://ppss.kr/archives/58627)
+* [How the Publican Party went from Lincoln to Trump](https://youtu.be/s8VOM8ET1WU)
+  * [1](https://imgur.com/a/7J1HZYU) [2](https://imgur.com/a/1JGIbe9) [3](https://imgur.com/a/xZmBVyB) [4](https://imgur.com/a/znXataI)
 
 # Asia
 * [동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)

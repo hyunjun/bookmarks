@@ -62,6 +62,7 @@ Interview
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
   * [Programming Interview Questions](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=5&view=50&sort=dd)
+* [10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)

@@ -455,6 +455,7 @@ Programming
   * [구글 CT코스](https://manchoi.gitbooks.io/computational-thinking-of-google/content/index.html)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
+* [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
 
 # Build Compile
 * [Memory Map과 Symbol 이야기](http://recipes.egloos.com/5009181)
@@ -575,11 +576,18 @@ Programming
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
-* [codeshare.io](https://codeshare.io/)
+* [codeanywhere.com](https://codeanywhere.com/)
+* [codebunk.com](https://codebunk.com/) run 가능
+* [coderpad.io](https://coderpad.io/) run 가능. (유료?) 회원의 경우 run도 끌 수 있는 등 추가 기능 있는 듯
+* [codeshare.io](https://codeshare.io/) run 불가능
 * [collabedit.com](http://collabedit.com/)
+* [codassium.com](http://codassium.com/) 회원가입 필요
 * [colorscripter.com](http://colorscripter.com/)
+* [floobits.com](https://floobits.com/)
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
+* [koding.com](https://www.koding.com/)
 * [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
+* [plunker](https://plnkr.co) run 가능 약간 복잡한 느낌
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com](http://ideone.com/)
 * **[Rosetta Code - Side-by-side code snippets from Rosetta Code](www.rosettacode.org/)**

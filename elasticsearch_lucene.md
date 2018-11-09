@@ -241,6 +241,7 @@ ElasticSearch - Lucene
 * [Latest and Greatest at Elastic](https://www.elastic.co/kr/content-pack)
 * [HighLevelRestClient 를 이용한 Bulk Indexing 로컬 테스트 결과](http://jjeong.tistory.com/1336)
 * [시스템 엔지니어의 ES 삽질기 #1](https://brunch.co.kr/@alden/34)
+* [Life after Google Search Appliance: A Better Way to Crawl and Search with Elastic Site Search](https://www.elastic.co/webinars/life-after-google-search-appliance-a-better-way-to-crawl-and-search-with-elastic-site-search)
 
 # Docker
 * Dockerfile
@@ -285,6 +286,7 @@ ElasticSearch - Lucene
 * [Elastic APM RUM JS Agent is Generally Available](https://www.elastic.co/kr/blog/elastic-apm-rum-js-agent-is-generally-available)
 * [Enriching logs with Docker metadata using Filebeat](https://www.elastic.co/blog/enrich-docker-logs-with-filebeat)
 * [Filebeat modules, access logs and Elasticsearch storage requirements](https://www.elastic.co/blog/filebeat-modiles-access-logs-and-elasticsearch-storage-requirements)
+* [Optimizing Storage Efficiency in Elasticsearch](https://www.elastic.co/kr/webinars/optimizing-storage-efficiency-in-elasticsearch)
 * [Elasticsearch 6.x 에서 join 관계 설정 및 Logstash 색인 설정](http://kimjmin.net/2018/01/2018-01-parent-child-to-join/)
 * [What's Evolving in Elasticsearch](https://www.elastic.co/elasticon/conf/2018/sf/whats-evolving-in-elasticsearch)
 * [Synonym filter 테스트](http://jjeong.tistory.com/1323)

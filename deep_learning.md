@@ -2011,21 +2011,22 @@ CVPR2016)
 
 ## RL MOOC, Lectures
 * [강화학습의 기초 이론](https://www.youtube.com/playlist?list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
-* [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
-  * [CS294-112 Deep Reinforcement Learning Sp17](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
   * [CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
-* [MIT 6.S094: Deep Learning for Self-Driving Cars (Lecture 2), 2017](http://selfdrivingcars.mit.edu/)
-* [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
-* [Stanford Andrew Ng CS229 Lecture 16, 2008](https://www.youtube.com/watch?v=RtxI449ZjSc)
+  * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
+    * [CS294-112 Deep Reinforcement Learning Sp17](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 * [Deep Reinforcement Learning](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
+* [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
+* [MIT 6.S094: Deep Learning for Self-Driving Cars (Lecture 2), 2017](http://selfdrivingcars.mit.edu/)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
   * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
   * [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) Python code for Sutton & Barto's book
-* [Deep Reinforcement Learning and Control](https://katefvision.github.io/)
+* [Spinning Up in Deep RL](https://blog.openai.com/spinning-up-in-deep-rl)
+* [Stanford Andrew Ng CS229 Lecture 16, 2008](https://www.youtube.com/watch?v=RtxI449ZjSc)
 * [Temporal-Difference Learning](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD_new/)
   * [1](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD1/)
   * [2](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD2/)
+* [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
