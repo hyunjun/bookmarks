@@ -153,6 +153,7 @@ ElasticSearch - Lucene
 * [ElasticSearch Basic concepts](https://www.youtube.com/watch?v=5KSGljapW1I)
 * [Elastic search tutorial for beginners](https://www.youtube.com/playlist?list=PLb0pWz-jnz99436u_5ERKCaFnILC2DreG)
 * [Elasticsearch Tutorial : hands-on guide to learn elasticsearch](http://www.devinline.com/2018/01/elasticsearch-tutorial-a-hands-on-guide.html)
+* [Elastic 101 tutorial - Percona Europe 2018](https://www.slideshare.net/antgiann/elastic-101-tutorial-percona-europe-2018)
 * [Getting started with ElasticSearch](https://www.youtube.com/watch?v=60UsHHsKyN4)
 * [Elasticsearch from the bottom up](https://www.youtube.com/watch?v=PpX7J-G2PEo)
 * [Elasticsearch (Part 1): Indexing and Querying](https://www.youtube.com/watch?v=lWKEphKIG8U)

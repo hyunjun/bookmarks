@@ -39,3 +39,4 @@ House
 * ["집에 비가 새요"..집주인 vs 세입자, 누구 책임일까](http://v.media.daum.net/v/20180712051510817)
 * **[부동산 시장의 신호와 소음](https://brunch.co.kr/@charlieoppa86/33)**
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
+* [집 구할 때 주의할 점](https://imgur.com/a/3eCbRa2)

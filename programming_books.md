@@ -56,6 +56,7 @@ Programming Books
 * (NOT YET) [JVM 언어 입문자바, 스칼라, 클로저, 코틀린, 그루비 체험하기](http://book.daum.net/detail/book.do?bookid=BOK00035755217YE)
   * 2018.10 한라
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
+* (NOT YET) **[빅데이터를 지탱하는 기술](http://jpub.tistory.com/8610)**
 
 # Agile Scrum
 

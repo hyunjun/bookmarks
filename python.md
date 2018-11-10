@@ -1660,6 +1660,7 @@ Python
   * [구글 콜래보래토리 소개 (revised)](https://colab.research.google.com/drive/1UvCUf0V0BYiMArtOJOUjt_Pgy4aHd8o9)
   * [Colaboratory 에서 pandas.read_csv 시에 한글내용 깨짐](http://jusths.tistory.com/42)
   * [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/)
+  * [Colaboratory 사용하기](https://docs.google.com/presentation/d/145XR44Ag6GW2xV1r2bOrnOgqtJYh59ZnsnYtmFZioTo/edit)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 
@@ -2650,6 +2651,7 @@ Python
   * [Talks by PyCon 2017](https://speakerdeck.com/pycon2017)
   * [PYCON 2017: MUST-SEE TALKS](https://www.cuttlesoft.com/pycon-2017-must-see-talks/)
 * PyConKr 2018
+  * [PyCon KR 2018 영상 다운 받기](https://gist.github.com/daejinseok/f72279a6787f16dda961d59aa126bda4)
   * [인생을 짧아요, 엑셀대신 파이썬](https://www.slideshare.net/plusjune/ss-110416117)
     * [파이썬 엑셀 01 - 파이썬에서 엑셀 다루기](http://nbviewer.jupyter.org/8a668109436927809ca5f063b8be3878)
     * [파이썬 엑셀 02 - 엑셀 보고서 생성](http://nbviewer.jupyter.org/9ee944788aaf5cedf22aacbc856970e5)

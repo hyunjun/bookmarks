@@ -428,6 +428,11 @@ TensorFlow
 * [Mixture Density Network](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-MDN.ipynb) ipynb
 * [Density modeling with TensorFlow](https://github.com/sjchoi86/density_network/)
 * [Introducing TensorFlow Data Validation: Data Understanding, Validation, and Monitoring At Scale](https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0?linkId=56682628)
+* [Deep_Learning_1: Google Colaboratory and cloning GitHub repository](https://www.youtube.com/watch?v=Bn_jRbQcmV4)
+* [Deep_Learning_2: How to Upload Data in Google Colaboratory](https://www.youtube.com/watch?v=0rygVrmHidg)
+* [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
+* [Deep_Learning_4: Basic File operations in Google Colaboratory](https://www.youtube.com/watch?v=It27JIabAzc)
+* [Deep_Learning_5: Easy Understanding of Tensor Flow Programming](https://www.youtube.com/watch?v=Bn2gITckiD0)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

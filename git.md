@@ -134,6 +134,7 @@ Git
 * [Version Control with Git: Git Cheatsheets for Quick Reference](https://swcarpentry.github.io/git-novice/reference)
 * [Git으로 버전제어](https://statkclee.github.io/git-novice-kr/)
 * [Git을 사용한 버젼 관리](http://statkclee.github.io/git-novice/index-kr.html)
+* [Git을 이용한 더 나은 버전관리](https://speakerdeck.com/ibluemind/giteul-iyonghan-deo-naeun-beojeongwanri)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

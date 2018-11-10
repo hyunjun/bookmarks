@@ -128,6 +128,7 @@ Data Visualization
 * [How to Create Animated Graphs in Python](https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1)
 * **[Python에서 데이터 시각화하는 다양한 방법](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)**
 * [Data Visualization and Exploration with Python || Stephen Elston](https://www.youtube.com/watch?v=qP3cQZ-lmv0)
+* [파이썬 공공데이터 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmpoDDdE9C1p0xfQXz6eEzmH)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh

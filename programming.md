@@ -561,6 +561,7 @@ Programming
 * [코드 리뷰에 대해서](https://brunch.co.kr/@cleancode/35)
 * [오픈소스 개발자 이야기 20170701 오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 * [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+* [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -839,6 +840,9 @@ Programming
   * [ZeroMQ에 대한 소개글 번역](http://chiyo85.tistory.com/80)
   * [Demo of how to extend multiprocessing.Process to communicate with pyzmq](https://gist.github.com/lebedov/2360424)
   * [멀티프로세스와 프로세스간 통신](https://soooprmx.com/archives/6440)
+* Zuul 2
+  * [Open Sourcing Zuul 2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
+  * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
@@ -978,6 +982,7 @@ Programming
   * [10월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/10/b-10-3.html)
   * [10월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/10/b-10-4.html)
   * [10월 5주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-10-5.html)
+  * [11월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1232,6 +1237,7 @@ Programming
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 * [2018 OKKYCON - The Real TDD](https://github.com/david-learner/java-study/blob/master/2018OKKYCON/readme.md)
 * [Agile and Test Driven Development (TDD) with Swagger, Docker, Github, Postman, Newman and Jenkins for a Loopback, Node.js and CouchDB App](https://medium.com/nycdev/agile-and-test-driven-development-tdd-with-swagger-docker-github-postman-newman-and-jenkins-347bd11d5069)
+* [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

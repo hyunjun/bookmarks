@@ -234,6 +234,7 @@ AWS
 * [AWS Security Group 중첩 이슈 및 정리 팁](http://ohgyun.com/779)
 * [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
+* [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

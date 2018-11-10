@@ -157,6 +157,7 @@ PyTorch
 * [gpytorch - A highly efficient and modular implementation of Gaussian Processes in PyTorch](https://github.com/cornellius-gp/gpytorch)
 * [HiddenLayer - A lightweight library for neural network graphs and training metrics for PyTorch and Tensorflow](https://github.com/waleedka/hiddenlayer)
 * [hyperband - Hyperparameter Optimization for PyTorch](https://github.com/kevinzakka/hyperband)
+* [hyperlearn - Faster, Leaner GPU Sklearn, Statsmodels written in PyTorch](https://www.techleer.com/articles/568-presenting-a-modern-big-data-algorithm-hyperlearn-50-faster-machine-learning)
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)

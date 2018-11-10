@@ -395,7 +395,17 @@ R
 * [rtweet R client for interacting with Twitter's stream and REST APIs http://rtweet.info](https://github.com/mkearney/rtweet)
 * [Rvision](https://github.com/swarm-lab/Rvision)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
-* Shiny
+* [Shiny](https://shiny.rstudio.com)
+  * [Shiny Quick Start](https://shiny.rstudio.com/tutorial)
+  * [Shiny References](https://shiny.rstudio.com/reference/shiny/1.2.0)
+  * [Shiny Server download](https://www.rstudio.com/products/rstudio/download-server/)
+  * [Moon's Lec](https://github.com/cardiomoon/shinyLecture2)
+  * [EditData](https://github.com/cardiomoon/editData)
+  * [shiny theme](https://rstudio.github.io/shinythemes/)
+  * Dynamic UI
+    * [doc](https://shiny.rstudio.com/articles/dynamic-ui.html)
+    * [mov](https://www.rstudio.com/resourc…/…/dynamic-shiny-interfaces/)
+    * [Application layout guide](https://shiny.rstudio.com/articles/layout-guide.html)
   * [Awesome R Shiny](https://github.com/grabear/awesome-rshiny)
   * [Shiny Module](https://www.slideshare.net/ssuser7e30b2/shiny-module-91242226)
   * [R과 shiny를 이용한 web application 제작](https://github.com/cardiomoon/shinyLecture2)
