@@ -906,8 +906,9 @@ Python
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * uuid
-* with
+* with, context manager
   * [with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
+  * **[Today I Learned: 파이썬 context manager, with구문으로 안전한 리소스 관리를 하자](https://sjquant.github.io/파이썬-Context-Manager)**
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
   * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)

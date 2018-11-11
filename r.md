@@ -419,6 +419,7 @@ R
   * [shinyHeatmaply – a shiny app for creating interactive cluster heatmaps](https://www.r-statistics.com/2017/03/shinyheatmaply-a-shiny-app-for-creating-interactive-cluster-heatmaps/)
   * [shinymaterial](https://ericrayanderson.github.io/shinymaterial/)
   * [shiny_lecture](https://github.com/jypstory/shiny_lecture)
+  * [Shiny 반응형(reactive) 웹앱 개발](https://statkclee.github.io/data-product/shiny-reactive.html)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
