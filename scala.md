@@ -1,12 +1,12 @@
 Scala
 =====
-* [typesafe.com](http://www.typesafe.com/)
+* [lightbend.com](https://www.lightbend.com/)
 * [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
 * [5월의 나프다 웨비너 - 자바 개발자를 위한 스칼라 입문](https://www.youtube.com/watch?v=T-8NXAabgwY)
 * [tryhelloworld.co.kr/courses/30분-scala](http://tryhelloworld.co.kr/courses/30%EB%B6%84-scala)
-* [Scala For Beginners](http://workday.github.io/scala/2014/01/09/scala-for-beginners/)
+* [Scala For Beginners](https://workday.github.io/scala/2014/01/09/scala-for-beginners)
 * [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
 * [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
 * [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
