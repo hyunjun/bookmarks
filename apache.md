@@ -410,6 +410,10 @@ Apache
       * 2. producing 되는 데이터의 스키마가 변경되면 schema registry에 등록이나 수정만 하면되니 consumer는 수정하지 않아도 될 가능성이 높음
     * json 처럼 schema가 free 한 경우 잦은 schema의 변경으로 producing 되는경우 consumer는 수정이 불가피 하며 스키마의 대한 정보를 놓치기 쉽고 이력도 알수 없음
     * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
+* [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster)
+  * 카프카 클러스터에서 파티션 수. 클러스터 내 브로커 한대 기준
+  * 1.1.0 이전 2,000 ~ 4,000개 정도가 적절, 1.1.0 릴리즈 이후부터는 약 200,000개 까지 가능
+  * 이렇게 큰 변화가 있게 된 원인은, 주키퍼에 변경되는 업데이트를 async 처리하고, 브로커에 새로운 리더 정보 업데이트를 배치로 일괄 처리함으로써, 1.1.0 릴리즈 이전 버전보다 속도가 향상 
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
