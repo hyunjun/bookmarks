@@ -50,6 +50,11 @@ Regular Expression
 * [정규 표현식과 응용 사례를 정리해보자](http://developer88.tistory.com/89)
 * [Matcher 클래스와 Pattern class로 정규 표현식을 활용해보자](http://developer88.tistory.com/90)
 
+# JavaScript
+* [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)
+* [자바스크립트 정규표현식 코딩팁](https://taegon.kim/archives/6594)
+* [자바스크립트 정규표현식의 capturing group](https://rhostem.github.io/posts/2018-11-11-regex-capture-group/)
+
 # PHP
 * [php 한글 추출하기 정규식](http://dyong4614.dothome.co.kr/?folder=page&sub=bbs_view&current_gnb=gnb01&bbs=web&type=4&num=42&page=1)
 

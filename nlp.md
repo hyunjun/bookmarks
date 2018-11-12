@@ -1052,6 +1052,7 @@ NLP
 * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
 * [wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia](https://github.com/walle/wiki)
 * [What are the ten most cited sources on Wikipedia? Let’s ask the data](https://medium.com/freely-sharing-the-sum-of-all-knowledge/what-are-the-ten-most-cited-sources-on-wikipedia-lets-ask-the-data-34071478785a)
+* [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
@@ -1159,6 +1160,7 @@ NLP
   * [Part 2. Classification](http://xplordat.com/2018/10/09/word-embeddings-and-document-vectors-part-2-classification/)
   * [Part 2. Order Reduction](https://towardsdatascience.com/word-embeddings-and-document-vectors-part-2-order-reduction-2d11c3b5139c)
   * [When in Doubt, Simplify](https://towardsdatascience.com/word-embeddings-and-document-vectors-when-in-doubt-simplify-8c9aaeec244e)
+* [Various Optimisation Techniques and their Impact on Generation of Word Embeddings](https://hackernoon.com/various-optimisation-techniques-and-their-impact-on-generation-of-word-embeddings-3480bd7ed54f)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

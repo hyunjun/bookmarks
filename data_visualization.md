@@ -100,6 +100,8 @@ Data Visualization
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
+* [plotly.js](https://plot.ly/javascript/)
+  * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
 * Semiotic [Introducing Semiotic for Data Visualization](https://medium.com/@Elijah_Meeks/introducing-semiotic-for-data-visualization-88dc3c6b6926)
 * [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
   * [Vega, Vega-lite 넌 뭐니](http://mobicon.tistory.com/549)
@@ -209,3 +211,4 @@ Data Visualization
 * **[itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal](https://github.com/daleroberts/itermplot)**
 * [Python: matplotlib hangs and shows nothing (Mac OS X)](https://markhneedham.com/blog/2015/03/26/python-matplotlib-hangs-and-shows-nothing-mac-os-x/)
 * [Matplotlib: 폰트 기본 경로를 찾을 수 없을 때](http://ohgyun.com/769) mac font directory 설정 변경
+* [Simple Method of Creating Animated Graphs](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)

@@ -342,7 +342,7 @@ App
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 
 # Mac
-* [practice - 최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
+* **[practice - 최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)**
   * [practice - (old) Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
   * [practice - 한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
@@ -453,6 +453,7 @@ App
       * `compaudit | xargs chmod g-w` 실행 후 아무 directory name이 안 나오면 정상
     * [Oh My Zsh로 예쁘고 직관적인 터미널 만들기!](http://kkamagui.tistory.com/903) ubuntu 설치
   * [zsh installation](https://github.com/Kevin-Lee/for-linux/blob/master/scripts/zsh/zsh-installation.md)
+* [MacBook: Dev Setup](https://hackernoon.com/macbook-dev-setup-5890e61a8f0a) homebrew, iterm2, zsh, sdkman등 설치 방법 소개
 * [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)

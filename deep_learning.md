@@ -781,8 +781,8 @@ Deep Learning
 * [Deep Learning - An MIT Press book in preparation](http://www.deeplearningbook.org/)
   * [DeepLearningBook](https://github.com/HFTrader/DeepLearningBook)
   * [Notation](http://www.deeplearningbook.org/contents/notation.html)
-  * [DeepLearningBook.pdf](https://l.facebook.com/l.php?u=https%3A%2F%2Fraw.githubusercontent.com%2FHFTrader%2FDeepLearningBook%2Fmaster%2FDeepLearningBook.pdf&h=ATOmM--Cv2DlWcHaWEzjNxiu9As5K0h4cO7R0NQ0wQGMXweMaq0Nh5f4O8GoGGDKoQfkXafqXAYWmeQyxoDNUnH3Qsl7DvB4PlQc9p6w4heLx2JjgZWC6mLyKIG2A2wf4Azz_sYLtX_wJ_FfLw38ptv_s-_0wkWu2xgeBkiuIEgaBYHnbkEke3_gi80SG4VH6f0k5Z-5GZKaPXmQYeT0laVv0gQdDV-dfAOUI3gwZxybqwTO6PeAjBc2Hhs522oPYh-eoy3lz-wnK170vE2GFEeCo_dFBQVY4GpFtRBt7Djznuo)
   * [Deep Learning Book Notes, Chapter 3 (part 1): Introduction to Probability](https://towardsdatascience.com/deep-learning-book-notes-chapter-3-part-1-introduction-to-probability-49d13c997f2a)
+  * [MIT Deep Learning Book (beautiful and flawless PDF version)](https://github.com/janishar/mit-deep-learning-book-pdf)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
@@ -987,6 +987,7 @@ Deep Learning
 * [Generative Models Part 2: ImprovedGAN,InfoGAN,EBGAN](https://taeoh-kim.github.io/blog/generative-models-part-2-improvedganinfoganebgan/)
 * [GAN(Generative Adversarial Network) Tour](https://github.com/jason9693/GAN)
 * [번역 From GAN to WGAN](https://github.com/yjucho1/articles/blob/master/fromGANtoWGAN/readme.md)
+* [TL-GAN: transparent latent-space GAN This is the repository of my three-week project: "Draw as you can tell: controlled image synthesis and edit using TL-GAN"](https://github.com/SummitKwan/transparent_latent_gan)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1701,7 +1702,7 @@ Deep Learning
 * [Deep Learning Paper Implementations: Spatial Transformer Networks - Part I](https://kevinzakka.github.io/2017/01/10/stn-part1/)
 * [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
-* [The Transformer – Attention is all you need](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need/#.W1CV2tgzaZ2)
+* [The Transformer – Attention is all you need](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need)
 * [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
@@ -2008,6 +2009,7 @@ CVPR2016)
 * [Horizon: The first open source reinforcement learning platform for large-scale products and services](https://code.fb.com/ml-applications/horizon/)
 * [MAME RL Algorithm Trainig Toolkit - A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [Reinforcement Learning in NIPS 2018](https://medium.com/@yuxili/reinforcement-learning-in-nips-2018-967ab53ab211)
+* [Improvements in Deep Q Learning: Dueling Double DQN, Prioritized Experience Replay, and fixed Q-targets](https://medium.freecodecamp.org/improvements-in-deep-q-learning-dueling-double-dqn-prioritized-experience-replay-and-fixed-58b130cc5682)
 
 ## RL MOOC, Lectures
 * [강화학습의 기초 이론](https://www.youtube.com/playlist?list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)

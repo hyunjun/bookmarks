@@ -75,6 +75,7 @@ Web
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
   * [Web Development Open Source of the Month (v.July 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-july-2018-cad5412602ff)
+  * [Web Development Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-nov-2018-9cff229bcdb5)
   * [Web Development Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-june-2018-22d05116fde0)
   * [Web Development Open Source Tools of the Month (v.May 2018)](https://medium.mybridge.co/web-development-open-source-tools-of-the-month-v-may-2018-f6eb21b4967d)
   * [Web Development Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-may-2018-37d9f322fad)

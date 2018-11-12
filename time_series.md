@@ -17,7 +17,9 @@ Time Series
 * [파이썬 코딩으로 말하는 데이터 분석 - 10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
 * [Time Series Analysis with Generalized Additive Models](https://opendatascience.com/blog/time-series-analysis-with-generalized-additive-models/)
 * [Time Series Analysis With Generalized Additive Models](https://www.datasciencecentral.com/profiles/blogs/time-series-analysis-with-generalized-additive-models)
-* [Scaling Time Series Data Storage — Part I](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
+* Scaling Time Series Data Storage
+  * [Part I](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-i-ec2b6d44ba39)
+  * [Part II](https://medium.com/netflix-techblog/scaling-time-series-data-storage-part-ii-d67939655586)
 * [Challenge of the week: identifying patterns in complex time series](https://www.datasciencecentral.com/forum/topics/challenge-of-the-week-identifying-patterns-in-complex-time-series)
 * [Data-Augmentation-For-Wearable-Sensor-Data](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data) A sample code of data augmentation methods for wearable sensor data (time-series data) ipynb
 

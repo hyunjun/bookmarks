@@ -379,6 +379,7 @@ Data Science
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
 * [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
 * [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
+* [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
 * **[Accelerator](https://github.com/eBay/accelerator)** 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)

@@ -225,6 +225,7 @@ Apache
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
+* [Kafka For Beginners](https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d)
 * [Apache Kafka and Confluent Platform examples and demos](https://github.com/confluentinc/examples)
 * [Apache Kafka Best Practices](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
@@ -339,6 +340,7 @@ Apache
       * MongoDB 데이터를 결합하여 Apache Kafka의 syslog 데이터에 KSQL을 사용하여 스트리밍 응용프로그램을 구축하는 과정 설명
       * 알림은 Slack, 시각화 도구는 ES
   * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
+  * [ATM Fraud Detection with Apache Kafka and KSQL](https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)

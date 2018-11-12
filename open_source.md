@@ -103,6 +103,7 @@ Open Source
     * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods의 사본](https://docs.google.com/document/d/1otSCvsvXyuUfcwTQVnOwZhY3bNGwD_Bs1J0QeBnTspY/edit#heading=h.c27w0vdmwdhd)
     * [구글 스프레드 시트를 데이터베이스로 사용하기 - 스크립트편](http://itmir.tistory.com/598)
   * [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
+  * [Google Sheets Query function: Learn the most powerful function in Google Sheets](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
 * [gSubFolder](http://d.gfolder.net/gsubfolder)
 * [Guetzli - 구글의 오픈소스 JPEG 인코더 Guetzli](http://tmondev.blog.me/220960502049)
 * Google Guice

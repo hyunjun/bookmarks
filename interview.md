@@ -197,6 +197,7 @@ Interview
   * [GLB part 2: HAProxy zero-downtime, zero-delay reloads with multibinder](https://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/)
   * [애플리케이션 로드 밸런서(ALB)에 고정 IP 주소 설정 및 사용하기](https://aws.amazon.com/ko/blogs/korea/using-static-ip-addresses-for-application-load-balancers)
   * [깃허브(GitHub), L4 로드 밸런서 GLB 디렉터 오픈소스로 공개](https://www.44bits.io/ko/post/news--github-release-glb-github-load-balancer-as-open-source)
+  * [Rethinking Netflix’s Edge Load Balancing](https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
