@@ -220,6 +220,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-nov-2018-34b6f7f8c22c)
   * [Python Open Source of the Month (v.Sep 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
   * [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
   * [Python Open Source of the Month (v.June 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-june-2018-5396a661b110)
@@ -355,6 +356,7 @@ Python
 * [#3.1. Tensorflow vs. PyTorch](https://www.youtube.com/watch?v=tNWatDufzDk)
   * [Tensorflow vs. PyTorch](https://github.com/ghlee0304/pytorch-basic-with-tensorflow/tree/master/comparison_tensorflow_pytorch)
 * [오픈소스 라이브러리 개발기](https://www.slideshare.net/wintermy201/ss-108323226)
+* [Python으로 알송 가사 추출하기](https://item4.github.io/2018-10-20/Fetch-Alsong-Lyrics-with-Python/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -916,6 +918,8 @@ Python
   * [파이썬 Xml 이해하기](http://www.slideshare.net/dahlmoon/xml-70416770)
 * yield
   * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
+  * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
+  * [Python의 yield from 키워드는 무엇일까](https://item4.github.io/2018-03-04/What-is-The-Yield-From-Keyword-in-Python/)
 
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
@@ -1017,6 +1021,7 @@ Python
   * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
   * [Building The Real Time Web With Python](https://www.youtube.com/watch?v=wMnN5kIG8D8)
   * [Day 2: Pau Freixes Alió - Running Aiohttp at scale](https://www.youtube.com/watch?v=p5d74IkGfwo)
+  * [aiohttp로 하는 비동기 HTTP 요청](https://item4.github.io/2017-11-26/Asynchronous-HTTP-Request-with-aiohttp/)
 * **[aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)**
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
@@ -1466,6 +1471,7 @@ Python
   * [Qt 입문자 및 Qt for Python을 위한 작은 소개](https://www.popit.kr/qt-%EC%9E%85%EB%AC%B8%EC%9E%90-%EB%B0%8F-qt-for-python%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%9E%91%EC%9D%80-%EC%86%8C%EA%B0%9C/)
   * [헬로우 큐트 포 파이썬 (Hello Qt for Python)](https://www.popit.kr/%ED%97%AC%EB%A1%9C%EC%9A%B0-%ED%81%90%ED%8A%B8-%ED%8F%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-hello-qt-for-python/)
   * [make-a-story](https://github.com/dailyInsight6/make-a-story)
+  * [fbs - build-system.fman.io](https://build-system.fman.io)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter
@@ -2048,6 +2054,7 @@ Python
   * [파이선 가상환경을 품은 패키지 관리자, pipenv](https://graspthegist.com/post/python-pipenv/)
   * [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
   * [파이썬 패키지 설치할 때 SSL 인증 오류 해제 방법](https://surpreem.com/%ED%8C%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%A0-%EB%95%8C-ssl-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-%ED%95%B4%EC%A0%9C-%EB%B0%A9%EB%B2%95/)
+  * [Python App을 위한 Pipenv](https://item4.github.io/2018-04-20/Pipenv-for-Python-App/)
 * [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`
@@ -2833,6 +2840,8 @@ Python
   * [Clearer Code at Scale (Static Types in Python)](https://www.youtube.com/watch?v=uUlYahzwZKw)
   * [Python static type checker (mypy)](https://zulip.readthedocs.io/en/1.7.1/mypy.html)
   * [Type checking in Python using mypy](https://www.youtube.com/watch?v=f4Q-L4vGdh8)
+  * [mypy와 함께하는 Python Typing](https://item4.github.io/2017-09-14/Python-Typing-with-mypy)
+  * [Python typing으로 인한 순환 참조 대응책](https://item4.github.io/2017-12-03/Resolve-Circular-Dependency-on-Python-Typing/)
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)

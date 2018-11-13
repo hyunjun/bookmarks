@@ -169,6 +169,9 @@ Apache
 * [Automatic Apache Flink deployments in Golang](https://medium.com/wbaa/flink-deployer-8c0db4c94fe4)
 * [Automating Flink Deployments to Kubernetes](https://data-artisans.com/flink-forward-berlin/resources/automating-flink-deployments-to-kubernetes)
 * [Introduction to Apache Flink](https://speakerdeck.com/chiwanpark/introduction-to-apache-flink)
+* [Flink or Flunk? Why Ele.me Is Developing a Taste for Apache Flink](https://hackernoon.com/flink-or-flunk-why-ele-me-is-developing-a-taste-for-apache-flink-7d2a74e4d6c0)
+  * Alibaba의 Ele.me 팀에서 데이터 스트림 처리 시스템으로 Apache Flink를 도입한 사례
+  * Apache Storm, Apache Spark와 비교하여 Flink를 선택한 배경 설명
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)

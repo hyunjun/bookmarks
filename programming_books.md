@@ -758,6 +758,8 @@ Programming Books
 * (NOT YET) [자바 기반의 마이크로서비스 이해와 아키텍처 구축하기](http://jpub.tistory.com/845)
 * [이것이 자바다](http://www.hanbit.co.kr/store/books/look.php?p_code=B1460673937)
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4-a18d98b4b5b8)
+* (NOT YET) 처음 배우는 스프링 부트 2
+  * [서평 처음 배우는 스프링 부트 2](https://www.popit.kr/서평-처음-배우는-스프링-부트-2)
 
 # JavaScript
 

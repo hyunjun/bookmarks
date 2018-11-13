@@ -75,10 +75,20 @@ Open Source
   * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
   * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [드롭박스가 공개한 무료 JPEG 압축SW](http://techholic.co.kr/archives/57319)
+* Edgestore; 메타데이터를 저장하는 MySQL 샤드 클러스터
+  * [(Re)Introducing Edgestore](https://blogs.dropbox.com/tech/2016/08/reintroducing-edgestore/)
+    * 최근 2phase commit 프로토콜을 사용하여 멀티 샤드 트랜잭션 구현
+  * [Cross shard transactions at 10 million requests per second](https://blogs.dropbox.com/tech/2018/11/cross-shard-transactions-at-10-million-requests-per-second/)
+    * copy-on-write를 통해 쓰기 부하를 어떻게 줄였는지 등 시스템 설계에 대한 이야기
+    * 라이브 시스템에 배포하는 방법
+    * "Shadow" 모드에서 제품을 출시하기 전 기능 및 성능 테스트를 하는 방법
 
 # Facebook
 * [페이스북, 파스 SDK 오픈소스로 전환](http://www.bloter.net/archives/235992)
 * [Writing code that writes code — with Hack Codegen](https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/)
+* Akkio; 데이터센터간의 데이터 전송 비용을 줄이기 위한 데이터 마이그레이션 시스템
+  * [Sharding the shards: managing datastore locality at scale with Akkio](https://blog.acolyer.org/2018/11/05/sharding-the-shards-managing-datastore-locality-at-scale-with-akkio/)
+    * "harding the shards: managing datastore locality at scale with Akkio"라는 Facebook 기사 요약
 * [Buck - A high-performance build tool](https://buckbuild.com/)
   * [HOW FACEBOOK USES PYTHON TO BUILD DATACENTERS AT SCALE](https://www.youtube.com/watch?v=dD27FtU-0w4)
 * Relay

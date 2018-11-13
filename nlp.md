@@ -233,6 +233,7 @@ NLP
   * 시간 문제에 불과하다는 결론, BERT의 등장으로 현실에 가까워짐(ELMO - LSTM / OpenAI의 GPT, BERT - Transformer)
   * Pre-trained Models의 fine-tuning은 필수, 인간이 언어를 이해한다는 것이 그저 엄청난 계산에 불과할 뿐이라는 사실(정말인가?)
   * 이제 계산량을 줄이는 방법이 아니라 계산량을 늘리고 계산 속도를 높이는 방향이 옳을 지도 모름
+* [BERT – STATE OF THE ART LANGUAGE MODEL FOR NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)

@@ -261,6 +261,9 @@ Hadoop
 * [HDFS Shell - a HDFS manipulation tool](https://github.com/avast/hdfs-shell) hbase-shell처럼 HDFS 작업을 할 수 있는 CLI interface
 * [MR3 - A new execution engine for Hadoop](https://mr3.postech.ac.kr/)
   * [Performance Comparison of HDP LLAP, Presto, SparkSQL, Hive on Tez, and Hive on MR3 using the TPC-DS Benchmark](https://mr3.postech.ac.kr/blog/2018/08/15/comparison-llap-presto-spark-mr3/)
+* [PULSE - Hadoop log aggregation, alerting, and lifecycle management](https://github.com/phdata/pulse)
+  * [Proactive Data Pipeline Alerting with Pulse](http://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/)
+    * Apache Slor를 이용한 오픈 소스 로그 집계 및 경고 시스템인 Pulse 소개
 * [Snakebite is a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 * [Spring XD is a unified, distributed, and extensible system for data ingestion, real time analytics, batch processing, and data export](http://projects.spring.io/spring-xd/)
   * [SpringXD Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SpringXD.md)

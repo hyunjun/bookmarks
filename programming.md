@@ -581,13 +581,14 @@ Programming
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
 * [codeanywhere.com](https://codeanywhere.com/)
 * [codebunk.com](https://codebunk.com/) run 가능
+* [codereet.com](https://codereet.com/) run 가능
 * [coderpad.io](https://coderpad.io/) run 가능. (유료?) 회원의 경우 run도 끌 수 있는 등 추가 기능 있는 듯
 * [codeshare.io](https://codeshare.io/) run 불가능
-* [collabedit.com](http://collabedit.com/)
+* [collabedit.com](http://collabedit.com/) 2018.11부터 접속이 안 됨
 * [codassium.com](http://codassium.com/) 회원가입 필요
-* [colorscripter.com](http://colorscripter.com/)
+* [colorscripter.com](http://colorscripter.com/) 소스 작성 후 업로드를 해야 공유 url이 생기는 구조
 * [floobits.com](https://floobits.com/)
-* [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io)
+* [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io) run 가능
 * [koding.com](https://www.koding.com/)
 * [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [plunker](https://plnkr.co) run 가능 약간 복잡한 느낌

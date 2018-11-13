@@ -145,6 +145,7 @@ App
   * [Webserver 구축 (github에 웹서버 구축하기)](http://daviduino.co.kr/56)
   * [깃헙 Pages에 깃북 배포하기](https://beomi.github.io/2017/11/20/Deploy-Gitbook-to-Github-Pages/)
   * [Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+    * [jekyllrb-ko.github.io](https://jekyllrb-ko.github.io)
   * [20. 깃허브 블로그 만들기(1)](http://recoveryman.tistory.com/321)
   * [Github blog 운영 (1) - jekyll 블로그 테마 Fork한 jekyll blog 테마를 로컬로 옮기는 법](https://seanlion.github.io/blog/1)
   * [GitHub 블로그 만들기 & Jekyll로 꾸미기](https://taebbong.github.io/jekyll-git-post/)

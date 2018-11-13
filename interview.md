@@ -223,7 +223,7 @@ Interview
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)
 
-# Interview tool, practice, code challenge
+# Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
 * [“‘코드골프’ 한번 쳐보실래요?”](http://www.bloter.net/archives/234308)
 * [Maidas Challenge 2017 온라인 예선 풀이](http://wookje.dance/2017/05/14/maidas-%ED%92%80%EC%9D%B4/)
@@ -238,8 +238,6 @@ Interview
 * [codechef](https://www.codechef.com/)
 * [codefights.com](https://codefights.com/)
 * [codeforces](http://codeforces.com/)
-* [codereet.com](https://codereet.com/)
-* [coderpad.io](https://coderpad.io/)
 * [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
 * [codility.com](https://codility.com/)
   * [codility.com/programmers/lessons](https://codility.com/programmers/lessons)

@@ -33,6 +33,7 @@ Sports
 * [retrosheet.org](https://www.retrosheet.org/) play by play data
 * [statiz](http://www.statiz.co.kr/)
 * [야구공작소](http://www.yagongso.com/)
+* [주경야덕](https://m.post.naver.com/my.nhn?memberNo=25448623)
 * [한국야구학회](https://koreabaseballstudies.wordpress.com/)
 * [Baseball’s Fight With Fatigue](http://www.wsj.com/articles/baseballs-fight-with-fatigue-1424710560?mod=WSJ_hp_EditorsPicks)
 * [kini's Sportugese - sabermetrics](http://kini.tistory.com/category/Sabermetrics)
@@ -101,6 +102,7 @@ Sports
 * [류현진 선발경기와 스탯캐스트 그리고 인공지능](http://techneedle.com/archives/36383)
 * [인천SK 야구 수학 토크콘서트, 두 마리 토끼를 잡다 고동현의 1인치](https://sports.v.daum.net/v/20180913172649154)
 * [Improving a Starting Pitcher Injury Model With Multiple Classifier Algorithms](https://www.fangraphs.com/tht/improving-a-starting-pitcher-injury-model-with-multiple-classifier-algorithms)
+* **[감독 뒷담화의 뒷담화](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16969108&memberNo=25448623)**
 
 # Basketball
 * **[Basketball Terms- Terminology](https://www.coachesclipboard.net/BasketballTerminology.html)** diagram으로 court위 명칭 설명

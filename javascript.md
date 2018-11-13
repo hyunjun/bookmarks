@@ -39,6 +39,9 @@ Javascript
   * [#1-5-1 What are we learning](https://www.youtube.com/watch?v=MV79yA7ApEs)
   * [#1-6 Your first JS Variable(변수!)](https://www.youtube.com/watch?v=YTlHSaLdWgs)
   * [#1-7 let, const, var](https://www.youtube.com/watch?v=cbXHOQzrDm8)
+  * [#1-8 Data Types on JS](https://www.youtube.com/watch?v=FlWWCNzJBfo)
+  * [#1-9 Organizing Data with Arrays](https://www.youtube.com/watch?v=VvNF3rFWIkQ)
+  * [#1-10 Organizing Data with Objects](https://www.youtube.com/watch?v=PRA_bhUxuh4)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
@@ -93,6 +96,7 @@ Javascript
 * [Mostly adequate guide to FP (in javascript)](https://github.com/DrBoolean/mostly-adequate-guide)
 * [One Pixel Cinema](http://blog.mattbierner.com/one-pixel-cinema/)
 * [Currying in JavaScript](https://medium.com/@kevincennis/currying-in-javascript-c66080543528)
+* [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
 * [ESNext proposal : Partial application syntax](https://blog.naver.com/sbshw1/221259747230)
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
@@ -1134,6 +1138,7 @@ Javascript
 * [Node: String 크기 제한에 의한 RangeError](http://ohgyun.com/782)
 * [Node.js development on Kubernetes with Skaffold file sync](https://hackernoon.com/node-js-development-with-skaffold-file-sync-99c687b906d5)
 * [How to customize Node.js .env files for different environment stages](https://medium.freecodecamp.org/nodejs-custom-env-files-in-your-apps-fa7b3e67abe1)
+* [Demystify The Multi-threading in Node.JS](https://hackernoon.com/demystify-the-multi-threading-in-node-js-4ff07eae9abe)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1441,12 +1446,14 @@ Javascript
 * [react-hooks-todo](https://github.com/myungjaeyu/react-hooks-todo)
 * [새로 도입될 React Hooks 알아보기](https://godsenal.github.io/2018/11/05/새로-도입될-React-Hooks-알아보기)
 * [useHooks - One new React Hook recipe every day](https://usehooks.com)
+* [Why React Hooks, and how did we even get here?](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
 * [React + Redux 게시판(CRUD) 만들기](http://forest71.tistory.com/184)
 * [React(Redux) + Firebase 게시판(CRUD) 만들기](http://forest71.tistory.com/189)
 * [react-navigation](https://dev-yakuza.github.io/ko/react-native/react-navigation)
+* [How to develop your React superpowers with the Container Pattern](https://medium.freecodecamp.org/react-superpowers-container-pattern-20d664bdae65)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

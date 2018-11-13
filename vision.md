@@ -120,7 +120,6 @@ Vision
 * [Tensorflow Unet](http://tf-unet.readthedocs.io)
 * [Object Detection with Tensorflow Helper Tool](https://github.com/5taku/tensorflow_object_detection_helper_tool)
 * [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
-* [How to use DeepLab in TensorFlow for object segmentation using Deep Learning](https://medium.freecodecamp.org/how-to-use-deeplab-in-tensorflow-for-object-segmentation-using-deep-learning-a5777290ab6b)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
   * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
@@ -332,8 +331,8 @@ Vision
 * [OpenCV: The open source computer vision library for everyone:](http://cv-tricks.com/how-to/running-deep-learning-models-in-opencv/)
 * [Semantic segmentation with OpenCV and deep learning](https://www.pyimagesearch.com/2018/09/03/semantic-segmentation-with-opencv-and-deep-learning/)
 * [OpenCodeModule](https://github.com/gellston/OpenCodeModule) Simple function module with Tensorflow C API
-	* [model_custom_densenet_segmentation_v1.py](https://github.com/gellston/DeepLearningExamples/blob/master/models/model_custom_densenet_segmentation_v1.py)
-	* [dataset](https://github.com/gellston/DeepLearningExamples/tree/master/dataset/portrait_segmentation_input256x256)
+  * [model_custom_densenet_segmentation_v1.py](https://github.com/gellston/DeepLearningExamples/blob/master/models/model_custom_densenet_segmentation_v1.py)
+  * [dataset](https://github.com/gellston/DeepLearningExamples/tree/master/dataset/portrait_segmentation_input256x256)
 
 # OpenGL
 * [open.gl](https://open.gl/)
