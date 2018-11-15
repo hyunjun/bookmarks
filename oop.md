@@ -41,6 +41,7 @@
   * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
   * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
   * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
+* [Memento Pattern](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180907_BB_memento_pattern.md)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)

@@ -53,10 +53,11 @@ Programming Books
   * 한라 005.1-전95ㅅ
 * (NOT YET) [성공하는 프로그래밍 공부법: 사람과 프로그래머 #7](http://roadbook.co.kr/205)
   * 2018.10 한라
-* (NOT YET) [JVM 언어 입문자바, 스칼라, 클로저, 코틀린, 그루비 체험하기](http://book.daum.net/detail/book.do?bookid=BOK00035755217YE)
+* (NOT YET) [JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기](http://book.daum.net/detail/book.do?bookid=BOK00035755217YE)
   * 2018.10 한라
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
 * (NOT YET) **[빅데이터를 지탱하는 기술](http://jpub.tistory.com/8610)**
+* (NOT YET) [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
 
 # Agile Scrum
 
@@ -97,7 +98,7 @@ Programming Books
   * 2017.08 한라
 * (NOT YET) [파이썬으로 배우는 수학적 프로그래밍](http://sigmadream.github.io/Programming_and_Mathematical_Thinking_Python/)
   * 한라 005.135-스884ㅍ
-* (NOT YET) [파이썬으로 배우는 실전 알고리즘](http://book.daum.net/detail/book.do?bookid=KOR9788965401056)
+* (NOT YET) [파이썬으로 배우는 실전 알고리즘 - 물리, 생물, 재무 등 다양한 분야의 응용 예제 구현](https://freelec.co.kr/book/1782/)
   * 한라 005.133-피64ㅍ
 * (NOT YET) [알고리즘, 인생을 계산하다](https://m.blog.naver.com/hl4gnn/221228428136)
 * (NOT YET) [알고리즘 산책](http://book.daum.net/detail/book.do?bookid=KOR9791160504880)
@@ -109,6 +110,7 @@ Programming Books
     * - 코드는 없다
     * - 저자가 암호를 좋아하는 건지 기본 알고리즘 - 암호화 알고리즘 - k means - 기타(유클리드, 페이지 랭크, 하노이의 탑)등 내용이 좀 산만하고 어떤 기준으로 선정했는지를 모르겠다
 * (NOT YET) [서평: 그들은 알고리즘을 알았을까? ](https://blog.gaerae.com/2018/10/once-upon-an-algorithm.html)
+* (NOT YET) [자료구조 입문 - 알고리즘과 그림으로 이해하고 C로 구현하는](https://freelec.co.kr/book/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%9D%84-%ED%83%84%ED%83%84%ED%9E%88-%ED%95%98%EC%9E%90/)
 
 # Amazon AWS
 
@@ -332,6 +334,7 @@ Programming Books
 * [데이터 분석을 떠받치는 수학 엑셀과 수학, 통계로 배우는 데이터 과학의 기술](http://wikibook.co.kr/math-for-data-science/)
   * 한라
   * ★★★★☆ 엑셀을 이용해 데이터 분석 관련 수학을 실습하며 배울 수 있음. 자세해서 좋음
+* (NOT YET) [인공지능을 위한 수학](https://freelec.co.kr/book/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99/)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -463,6 +466,7 @@ Programming Books
 * (NOT YET) [파이썬으로 배우는 머신러닝의 교과서 - 그림으로 이해하고 코드로 확인하는 머신러닝, 딥러닝 기초](http://www.hanbit.co.kr/store/books/look.php?p_code=B8718279503)
 * (NOT YET) [데이터 분석을 위한 머신 러닝 입문](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002144)
 * (NOT YET) [사이킷런(scikit-learn)을 활용한 분류, 회귀 문제부터 간단한 알고리즘, 선형대수까지 - 머신 러닝 부트캠프 with 파이썬](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002001)
+* (NOT YET) [머신러닝 딥러닝 바로가기 - 구글 클라우드 플랫폼을 활용한 실전 개발](https://freelec.co.kr/book/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0/)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -675,6 +679,8 @@ Programming Books
   * 한라 004.2정55ㄱ
   * 내용은 좋아 보이는데, 팟캐스트를 그대로 옮겨놓은 듯한 느낌이라 읽기가 편하지는 않다
 * (NOT YET) [클라우드 네이티브 인프라스트럭처](http://jhrogue.blogspot.com/2018/09/blog-post.html)
+* (NOT YET) [구글 클라우드 플랫폼 입문 - 웹부터 머신러닝을 이용한 클라우드 애플리케이션까지](https://freelec.co.kr/book/%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EC%9E%90/)
+* (NOT YET) [대용량 아키텍처와 성능 튜닝조대협의 서버 사이드](https://freelec.co.kr/book/1749/)
 
 # Interview
 
@@ -760,6 +766,7 @@ Programming Books
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4-a18d98b4b5b8)
 * (NOT YET) 처음 배우는 스프링 부트 2
   * [서평 처음 배우는 스프링 부트 2](https://www.popit.kr/서평-처음-배우는-스프링-부트-2)
+* (NOT YET) [그레이들 - 문법과 구조에서 활용까지 빌드의 모든 것](https://freelec.co.kr/book/%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 
 # JavaScript
 
@@ -819,6 +826,7 @@ Programming Books
 * [웹 서비스를 만들며 배우는 node.js 프로그래밍](http://jpub.tistory.com/822?category=203154)
   * 한라 00.5118정38ㄴ
   * ★★★☆☆ 실용적. 기초부터 시작해 Rest API 구현까지
+* (NOT YET) [Electron 애플리케이션 개발 - 웹 기술로 구현하는 크로스 플랫폼 데스크톱 애플리케이션](https://freelec.co.kr/book/1500/)
 
 # Kafka
 
@@ -1087,6 +1095,10 @@ Programming Books
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
   * 한라
 * (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
+* (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
+* (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
+* (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
+* (NOT YET) [마인크래프트와 함께 즐겁게 파이썬](http://bjpublic.tistory.com/314)
 
 # R
 
@@ -1147,6 +1159,7 @@ Programming Books
 * 처음 시작하는 R 데이터 분석
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-r-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-ea6a8525fde2)
 * (NOT YET) [Do it! 쉽게 배우는 R 데이터 분석](http://www.easyspub.co.kr/20_Menu/BookView/A001/138/PUB)
+* (NOT YET) [ggplot2 - R로 분석한 데이터를 멋진 그래픽으로](https://freelec.co.kr/book/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%ED%8C%A8%ED%82%A4%EC%A7%80-ggplot2/)
 
 # Scala
 

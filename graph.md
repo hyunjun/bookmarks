@@ -217,6 +217,7 @@ Graph
 * [FlashGraph - A SSD-based graph processing engine for billion-node graphs](https://github.com/icoming/FlashGraph)
 * [Gephi](https://gephi.github.io/)
   * [GRAPHING THE HISTORY OF PHILOSOPHY](http://www.coppelia.io/2012/06/graphing-the-history-of-philosophy/)
+  * [GEPHI](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181010_JG_Gephi.md)
 * [GP (for Graph Programs) - a rule-based, nondeterministic programming language](http://www.cs.york.ac.uk/plasma/wiki/index.php?title=GP_%28Graph_Programs%29)
 * [GPS: A Graph Processing System](http://infolab.stanford.edu/gps/)
 * [Gramps - Genealogical Research Software](https://gramps-project.org/)

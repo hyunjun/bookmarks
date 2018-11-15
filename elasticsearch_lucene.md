@@ -243,6 +243,7 @@ ElasticSearch - Lucene
 * [HighLevelRestClient 를 이용한 Bulk Indexing 로컬 테스트 결과](http://jjeong.tistory.com/1336)
 * [시스템 엔지니어의 ES 삽질기 #1](https://brunch.co.kr/@alden/34)
 * [Life after Google Search Appliance: A Better Way to Crawl and Search with Elastic Site Search](https://www.elastic.co/webinars/life-after-google-search-appliance-a-better-way-to-crawl-and-search-with-elastic-site-search)
+* [Elastic Search](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181011_JM_elasticsearch_1.md)
 
 # Docker
 * Dockerfile

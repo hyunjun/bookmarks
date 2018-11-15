@@ -12,6 +12,10 @@ Book
   * 탐라 문327.8-권66ㅋ
   * 한라 327.8-권65ㅋ
 * [히트 리프레시](https://www.haruair.com/blog/4521)
+* [직업으로서의 소설가](https://imgur.com/a/bSXTkJE)
+  * [카프카와 하루키, ‘직업으로서의 소설가’](https://ppss.kr/archives/91338)
+  * ★★★★☆ 2018.11.14
+  * 회사 플레이샵으로 코엑스에 갔는데, 중간에 비는 시간에 별마당 도서관에 갔다가 읽음. 무라카미 하루키의 소설가에 대한 에세이. 자신이 소설가가 된 과정이나 글이나 소설을 쓰는 자신만의 방법을 재미있게 읽을 수 있다. 소설을 쓰진 않더라도 글을 어떻게 쓰는지에 대해서는 관심이 많아서인데, 마치 내가 직접 야구를 하지 않아도 타격이나 투구 매커니즘에는 관심이 많은 것과 비슷하다. 난 역시 하루키 ‘수필’의 팬이다.
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -83,12 +87,17 @@ Book
   * 탐라 문538.72 주11ㄷ
   * [책과 삶 등대의 불빛에 담긴 문명의 진보와 아픔의 역사](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=201806152057035)
   * ★★★★☆ 2018.10.19 저자의 다양한 지식이 잘 드러나는 재미있는 역사책. 등대의 역사이니 당연히 해양사는 기본이고, 그 바탕에 얽힌 간단하지만 각지의 다양한 세계사 이야기나 프레넬렌즈로 인한 기술 이야기까지 여러모로 재미있게 읽을 수 있다
+* (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
+* (NOT YET) 유럽사 산책 [유럽사 ‘생생 개인사’ 통해 온전한 육신 얻다](http://www.hani.co.kr/arti/culture/book/484462.html)
+* (NOT YET) 르몽드 세계사 1,2 [<르몽드 세계사>1,2와 <좌파가 알야할 것들>](http://www.ilemonde.com/news/articleView.html?idxno=2846)
+* (NOT YET) [성경의 탄생](https://m.blog.naver.com/ppogu/220637820290)
 
 # Math
 * [한번읽고 평생 써먹는 수학상식 이야기](http://jybaek.tistory.com/754)
 
 # Religion
 * (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
+* [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)

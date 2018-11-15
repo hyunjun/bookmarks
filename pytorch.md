@@ -123,6 +123,7 @@ PyTorch
 * [github.com/chagmgang/torch_rl](https://github.com/chagmgang/torch_rl)
 * [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 * [FloWaveNet : A Generative Flow for Raw Audio](https://github.com/ksw0306/FloWaveNet)
+* [UIS-RNN - the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm. UIS-RNN solves the problem of segmenting and clustering sequential data by learning from examples](https://github.com/google/uis-rnn)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -176,6 +177,7 @@ PyTorch
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
+* [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
 
 # Seq2seq
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)

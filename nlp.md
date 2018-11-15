@@ -1162,6 +1162,7 @@ NLP
   * [Part 2. Order Reduction](https://towardsdatascience.com/word-embeddings-and-document-vectors-part-2-order-reduction-2d11c3b5139c)
   * [When in Doubt, Simplify](https://towardsdatascience.com/word-embeddings-and-document-vectors-when-in-doubt-simplify-8c9aaeec244e)
 * [Various Optimisation Techniques and their Impact on Generation of Word Embeddings](https://hackernoon.com/various-optimisation-techniques-and-their-impact-on-generation-of-word-embeddings-3480bd7ed54f)
+* [Word Vector Representation for Korean: Evaluation Set](https://github.com/SungjoonPark/KoreanWordVectors)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

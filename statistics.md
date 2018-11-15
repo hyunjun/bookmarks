@@ -2,9 +2,6 @@ Statistics
 ==========
 * **[21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)**
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
-* [경제통계학](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=1494)
-* [learnandrun.co.kr/category/learn-run/mathematics](http://learnandrun.co.kr/category/learn-run/mathematics)
-* [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Lecture_Statistics)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
 * [Understanding Variance, Co-Variance, and Correlation](http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
 * [13 Great Articles and Tutorials about Correlation](http://www.datasciencecentral.com/profiles/blogs/13-great-articles-and-tutorials-about-correlation)
@@ -19,7 +16,6 @@ Statistics
 * [Naive Bayesian, HMM, Maximum Entropy Model, CRF](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Naive-Bayesian,-HMM,-Maximum-Entropy-Model,-CRF)
 * [Maximum Likelihood and Maximum Entropy](https://github.com/dsindex/blog/wiki/%5Bstatistics%5D-Maximum-Likelihood-and-Maximum-Entropy)
 * [손실함수 Binary Cross Entropy](https://curt-park.github.io/2018-09-19/loss-cross-entropy/)
-* [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
 * [bcho.tistory.com/category/빅데이타/통계학이론](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/%ED%86%B5%EA%B3%84%ED%95%99%20%EC%9D%B4%EB%A1%A0)
 * P값; '영가설이 참이라고 가정할 때, 관찰된(또는 그보다 더 극단적인) 결과가 일어날 확률'로 정의
 * [Statistics: P values are just the tip of the iceberg](http://www.nature.com/news/statistics-p-values-are-just-the-tip-of-the-iceberg-1.17412?WT.ec_id=NATURE-20150430)
@@ -299,6 +295,12 @@ Statistics
   * [StanCon Contributed Talks](https://github.com/stan-dev/stancon_talks)
   * [StanCon 2018 - Intro Stan Class Materials](http://mc-stan.org/workshops/stancon2018_intro/)
   * [Stan Conference 2017](https://www.youtube.com/watch?v=DJ0c7Bm5Djk)
+
+# MOOC, Lecture
+* [경제통계학](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=1494)
+* [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Data/Statistics)
+* [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
+* [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109) 강의노트, 슬라이드, 데모 제공
 
 # Poisson Distribution
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)

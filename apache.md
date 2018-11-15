@@ -417,6 +417,7 @@ Apache
   * 카프카 클러스터에서 파티션 수. 클러스터 내 브로커 한대 기준
   * 1.1.0 이전 2,000 ~ 4,000개 정도가 적절, 1.1.0 릴리즈 이후부터는 약 200,000개 까지 가능
   * 이렇게 큰 변화가 있게 된 원인은, 주키퍼에 변경되는 업데이트를 async 처리하고, 브로커에 새로운 리더 정보 업데이트를 배치로 일괄 처리함으로써, 1.1.0 릴리즈 이전 버전보다 속도가 향상 
+* [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

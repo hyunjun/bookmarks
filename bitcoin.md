@@ -122,6 +122,7 @@ Bitcoin
 * [Onther DevCon 1 - Etherum 2.0 개요](http://mobicon.tistory.com/551)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
+* [Ethereum](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180904_JM_Blockchain_03.md)
 
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)

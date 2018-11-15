@@ -661,10 +661,11 @@ TensorFlow
   * [Tensorpack 구조 이해하기 - ModelDesc와 Trainer를 중심으로](https://modulabs-biomedical.github.io/TensorPack)
   * [Tensorpack tutorial](https://github.com/PeterCha90/Tensorflow-Deep-Learning/blob/master/Tensorpack_tutorial.ipynb)
 * [tensorport.com](https://tensorport.com/)
+* [TensorSpace - a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js](https://github.com/tensorspace-team/tensorspace)
 * [tensortalk.com](https://tensortalk.com/)
-* [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
+* [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)
 * [ZhuSuan - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow http://zhusuan.readthedocs.io](https://github.com/thu-ml/zhusuan)
 
 # LSTM

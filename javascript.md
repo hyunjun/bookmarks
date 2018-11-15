@@ -42,6 +42,7 @@ Javascript
   * [#1-8 Data Types on JS](https://www.youtube.com/watch?v=FlWWCNzJBfo)
   * [#1-9 Organizing Data with Arrays](https://www.youtube.com/watch?v=VvNF3rFWIkQ)
   * [#1-10 Organizing Data with Objects](https://www.youtube.com/watch?v=PRA_bhUxuh4)
+  * [#2-1 너의 첫번째 함수! (Your first JS Function)](https://www.youtube.com/watch?v=Q0S6l_gkpeU)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
@@ -594,6 +595,7 @@ Javascript
 * [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
 * [Future-Proofing Backend Services with GraphQL, PostgreSQL and Docker (Part 1)](https://medium.com/@jrryjcksn/future-proofing-backend-services-with-graphql-postgresql-and-docker-part-1-527bd6b1a59a)
   * [gist](https://gist.github.com/jrryjcksn/6551beeceaba8a066eebc7b893e661da)
+* [GraphQL project structure](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180830_SM_refactoring_graphql_type.md)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -792,6 +794,7 @@ Javascript
   * Meteor 1.6
     * [Ionic + Meteor 기반 프로젝트 만들기](http://mobicon.tistory.com/507)
     * [Angular CLI + Meteor 기반 프로젝트 만들기](http://mobicon.tistory.com/508)
+  * [React + Meteor 개발환경 설정 - 1](http://mobicon.tistory.com/555)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)
@@ -1268,6 +1271,7 @@ Javascript
 * [Learn the Reactive Extensions for JavaScript (RxJS) with RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
 * [RxJS로 캐러셀(Carousel) UI 만들기](http://tech.lezhin.com/2017/10/08/create-carousel-with-rxjs)
 * [How to think reactively and animate moving objects using RxJs](https://medium.freecodecamp.org/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac)
+* [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
 * [NgRx 5 and Schematics](https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
 * [React.js를 이해하다(1)](http://blog.coderifleman.com/post/122232296024/reactjs%EB%A5%BC-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8B%A41)
@@ -1448,6 +1452,7 @@ Javascript
 * [새로 도입될 React Hooks 알아보기](https://godsenal.github.io/2018/11/05/새로-도입될-React-Hooks-알아보기)
 * [useHooks - One new React Hook recipe every day](https://usehooks.com)
 * [Why React Hooks, and how did we even get here?](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
+* [syntax.fm/show/092/react-hooks](https://syntax.fm/show/092/react-hooks) podcast
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)

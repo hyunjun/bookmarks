@@ -204,6 +204,7 @@ AWS
 * [packer 활용 사례](https://andromedarabbit.net/packer-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80/)
 * [AWS에서 네트워크 공격 자동차단 하기](http://woowabros.github.io/security/2018/02/23/aws-auto-security1.html)
 * [AWS X-Ray 적용기](https://medium.com/@zeroweb.tech/aws-x-ray-%EC%A0%81%EC%9A%A9%EA%B8%B0-4e1c270c62fa)
+* [AWS X-Ray](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180910_JH_aws_x-ray.md)
 * [Creating a Python Development Environment on Amazon EC2](https://blog.jetbrains.com/pycharm/2017/12/creating-a-development-environment-on-amazon-ec2/)
 * 10 Lessons from 10 Years of AWS
   * [part 1](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-1-258b56703fcf)
@@ -235,6 +236,7 @@ AWS
 * [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
 * [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
+* [S3 And More](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181002_JH_S3.md)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -316,6 +318,7 @@ AWS
 * [Serverless Hands-on Labs](https://github.com/awskrug/handson-labs-2018/tree/master/Serverless)
 * [서버리스에 대해서 알아보자 1차 (이론편)](https://www.slideshare.net/ssuser67b08e/1-105126600)
 * [Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)
+* [Lambda & API GateWay Deploy](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181015_JH_Serverless_Deploy.md)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

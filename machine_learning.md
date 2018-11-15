@@ -29,6 +29,7 @@ Machine Learning
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
 * [기계학습에서 사용되는 수학 공식](http://wooriworld2006.tistory.com/333)
 * [머신러닝 속 수학](https://mingrammer.com/translation-the-mathematics-of-machine-learning)
+* [Probability Distribution 기계학습을 위한 수학](https://forums.alina.ai/t/probability-distribution/103)
 * [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
 * **[An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)**
 * [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)

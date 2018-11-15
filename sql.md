@@ -258,6 +258,7 @@ SQL
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
 * [Galera Cluster](http://galeracluster.com/)
 * **[Maxwell's daemon, an application that reads MySQL binlogs and writes row updates to Kafka, Kinesis, RabbitMQ, Google Cloud Pub/Sub, or Redis as JSON](http://maxwells-daemon.io/)**
+  * 실시간에 가깝게 mysql 데이터를 가져옴. 텅스텐CDC에 비해 안정적이며, 필요한 테이블/컬럼 단위로 필터링 처리 가능
   * [MySQL CDC, Streaming Binary Logs and Asynchronous Triggers](https://www.percona.com/blog/2016/09/13/mysql-cdc-streaming-binary-logs-and-asynchronous-triggers/)
 * [Herb: Multi-DC Replication Engine for Uber’s Schemaless Datastore](https://eng.uber.com/herb-datacenter-replication/)
   * Uber가 2014년부터 진행했던 프로젝
