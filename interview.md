@@ -350,6 +350,7 @@ Interview
 * [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."
 * [What My Software Engineer Resume Looks Like](https://www.youtube.com/watch?v=RIPdc88dZRI)
 * [국내외 영문 이력서 작성툴 TOP 3 비교 분석](https://www.youtube.com/watch?v=MrkpnPxiOCw)
+* **[How to write a killer Software Engineering résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)**
 
 # Salary 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)

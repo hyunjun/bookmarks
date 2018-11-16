@@ -123,6 +123,7 @@ Web
 * [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
 * [WEB2 - OAuth 2.0](https://opentutorials.org/course/3405)
 * [one page101 - 부트스트랩을 이용해서 원페이지 만드는 과정 학습](https://github.com/pangol/page101)
+* **[웹앱의 미래 (The Future of Web Apps 다시 읽기)](https://www.popit.kr/웹앱의-미래)**
 
 # Apache
 * installation
@@ -348,6 +349,7 @@ Web
 * [PWA UNIVERSAL BUILDER](https://pwa.cafe/)
 * [Progressive Web Apps — The Future of Mobile Web App Development](https://hackernoon.com/progressive-web-apps-the-future-of-mobile-web-app-development-f29257b0dea2)
 * [11 Examples of Progressive Web Apps](https://themanifest.com/app-development/11-examples-progressive-web-apps)
+* [PINTEREST 프로그래시브 웹 앱 성능 케이스 스터디](https://kyu.io/ko/pinterest-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EC%8B%9C%EB%B8%8C-%EC%9B%B9-%EC%95%B1-%EC%84%B1%EB%8A%A5-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%8A%A4%ED%84%B0%EB%94%94/)
 
 # Python
 * Let’s Build A Web Server

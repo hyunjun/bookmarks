@@ -230,7 +230,7 @@ Apache
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
 * [Kafka For Beginners](https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d)
 * [Apache Kafka and Confluent Platform examples and demos](https://github.com/confluentinc/examples)
-* [Apache Kafka Best Practices](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)
+* **[Apache Kafka Best Practices](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)**
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
 * [Kafka - kafka-console-consumer](https://gerardnico.com/wiki/dit/kafka/kafka-console-consumer)
 * [KAFKA TUTORIAL: USING KAFKA FROM THE COMMAND LINE](http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html)
@@ -239,9 +239,6 @@ Apache
 * [Kafka frequent commands](https://gist.github.com/vkroz/05136cefdbb4fa61296993db17e1ae3f)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 * [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
-* [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
-  * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
-* [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [Using Apache Kafka Docker](https://howtoprogram.xyz/2016/07/21/using-apache-kafka-docker/)
 * [Kafka Docker - Run multiple Kafka brokers in Docker](https://wurstmeister.github.io/kafka-docker/)
 * [HANDS-FREE KAFKA REPLICATION: A LESSON IN OPERATIONAL SIMPLICITY](http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/)
@@ -254,7 +251,6 @@ Apache
 * [Kafka at HubSpot: Critical Consumer Metrics](http://product.hubspot.com/blog/kafka-at-hubspot-part-1-critical-consumer-metrics)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [빅데이터 윤활유 '아파치 카프카', 왜 주목받나](http://www.ciokorea.com/news/27214)
-* [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
 * [Why I am not a fan of Apache Kafka](https://gist.github.com/markrendle/26e423b6597685757732)
 * [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)
 * [What’s New in Cloudera’s Distribution of Apache Kafka?](http://blog.cloudera.com/blog/2016/02/whats-new-in-clouderas-distribution-of-apache-kafka/)
@@ -271,7 +267,6 @@ Apache
 * [Apache Kafka Monitoring – Methods & Tools](https://data-flair.training/blogs/kafka-monitoring/)
 * [Just Enough Kafka for the Elastic Stack, Part 1](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part1)
 * [Elastic Stack에는 Kafka면 충분합니다 - 2부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part2)
-* [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [Kafka New Producer API를 활용한 유실 없는 비동기 데이터 전송](http://readme.skplanet.com/?p=13042)
 * [Kafka 0.9 Consumer 클라이언트 소개](http://www.popit.kr/kafka-0-9-consumer-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%86%8C%EA%B0%9C/)
 * [Presto SQL을 이용하여 Kafka topic 데이터 조회하기](http://www.popit.kr/presto-sql%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-kafka-topic-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0/)
@@ -298,8 +293,6 @@ Apache
 * [Splunking Kafka with Kafka Connect](https://lilgreenwein.com/2017/02/16/splunking-kafka-with-kafka-connect/)
   * Kafka에서 Splunk로 데이터를 전송하기 위한 새로운 Kafka Connect 플러그인을 설명(아키텍처 및 디자인 선택 포함)
   * Kafka Connect를 설정하여 Kafka topic을 Splunk Heavy Forwarder로 데이터를 스트리밍하는 튜토리얼 포함
-* [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
-  * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
 * [Benchmarking Kafka Performance Part 1: Write Throughpu](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 * [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
   * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
@@ -314,36 +307,8 @@ Apache
     * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
   * [Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
   * [Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
-* [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
-* [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
   * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
-* KSQL
-  * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
-    * spark streaming의 대체?
-    * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
-  * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
-    * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
-  * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
-  * [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
-    * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
-    * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
-  * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
-    * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
-    * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
-  * [KSQL January release: Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-january-release-streaming-sql-apache-kafka/)
-  * [How to Write a User Defined Function (UDF) for KSQL](https://www.confluent.io/blog/write-user-defined-function-udf-ksql/)
-    * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
-  * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
-  * [Secure Stream Processing with Apache Kafka, Confluent Platform and KSQL](https://www.confluent.io/blog/secure-stream-processing-apache-kafka-ksql/)
-  * We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL
-    * [Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) Syslog Apache Kafka Connect plugin을 사용하여 Avro log 형식으로 Kafka로 가져온 후 KSQL을 사용하여 분석하는 방법을 설명
-    * [Part 2: Event-Driven Alerting with Slack](https://www.confluent.io/blog/real-time-syslog-processing-with-apache-kafka-and-ksql-part-2-event-driven-alerting-with-slack/)
-    * [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
-      * MongoDB 데이터를 결합하여 Apache Kafka의 syslog 데이터에 KSQL을 사용하여 스트리밍 응용프로그램을 구축하는 과정 설명
-      * 알림은 Slack, 시각화 도구는 ES
-  * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
-  * [ATM Fraud Detection with Apache Kafka and KSQL](https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
@@ -353,7 +318,6 @@ Apache
 * [URP? Excuse You! The Three Kafka Metrics You Need to Know](https://www.slideshare.net/ToddPalino/urp-excuse-you-the-three-kafka-metrics-you-need-to-know) under replicated partition, request handler, requst time에 대해 모니터링할 수 있는 Kafka 메트릭 설명
 * [일상 협업 이야기: 참조 아키텍처 써먹기 편](https://www.popit.kr/v2/%EC%9D%BC%EC%83%81-%ED%98%91%EC%97%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B0%B8%EC%A1%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8D%A8%EB%A8%B9%EA%B8%B0-%ED%8E%B8)
 * [Scalability of Kafka Messaging using Consumer Groups](http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/)
-* [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
 * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
 * [Announcing AMQ Streams: Apache Kafka on OpenShift](https://developers.redhat.com/blog/2018/05/07/announcing-amq-streams-apache-kafka-on-openshift/)
 * [Robust Message Serialization in Apache Kafka Using Apache Avro, Part 1](http://blog.cloudera.com/blog/2018/07/robust-message-serialization-in-apache-kafka-using-apache-avro-part-1/)
@@ -418,6 +382,46 @@ Apache
   * 1.1.0 이전 2,000 ~ 4,000개 정도가 적절, 1.1.0 릴리즈 이후부터는 약 200,000개 까지 가능
   * 이렇게 큰 변화가 있게 된 원인은, 주키퍼에 변경되는 업데이트를 async 처리하고, 브로커에 새로운 리더 정보 업데이트를 배치로 일괄 처리함으로써, 1.1.0 릴리즈 이전 버전보다 속도가 향상 
 * [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
+
+## Library
+* [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
+* [burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
+  * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
+* [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
+* [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
+* [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
+  * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
+* [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
+* [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
+* KSQL
+  * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
+    * spark streaming의 대체?
+    * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
+  * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
+    * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
+  * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
+  * [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
+    * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
+    * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
+  * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+    * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
+    * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
+  * [KSQL January release: Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-january-release-streaming-sql-apache-kafka/)
+  * [How to Write a User Defined Function (UDF) for KSQL](https://www.confluent.io/blog/write-user-defined-function-udf-ksql/)
+    * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
+  * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
+  * [Secure Stream Processing with Apache Kafka, Confluent Platform and KSQL](https://www.confluent.io/blog/secure-stream-processing-apache-kafka-ksql/)
+  * We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL
+    * [Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) Syslog Apache Kafka Connect plugin을 사용하여 Avro log 형식으로 Kafka로 가져온 후 KSQL을 사용하여 분석하는 방법을 설명
+    * [Part 2: Event-Driven Alerting with Slack](https://www.confluent.io/blog/real-time-syslog-processing-with-apache-kafka-and-ksql-part-2-event-driven-alerting-with-slack/)
+    * [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
+      * MongoDB 데이터를 결합하여 Apache Kafka의 syslog 데이터에 KSQL을 사용하여 스트리밍 응용프로그램을 구축하는 과정 설명
+      * 알림은 Slack, 시각화 도구는 ES
+  * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
+  * [ATM Fraud Detection with Apache Kafka and KSQL](https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql)
+* [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
+* [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
+  * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
 
 ## Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)

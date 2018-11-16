@@ -1669,6 +1669,7 @@ Python
   * [Colaboratory 에서 pandas.read_csv 시에 한글내용 깨짐](http://jusths.tistory.com/42)
   * [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/)
   * [Colaboratory 사용하기](https://docs.google.com/presentation/d/145XR44Ag6GW2xV1r2bOrnOgqtJYh59ZnsnYtmFZioTo/edit)
+  * [google Colaboratory 에서 구글 드라이브에 있는 파일 쉽게 이용하기](http://leebaro.tistory.com/entry/google-Colaboratory-에서-구글-드라이브에-있는-파일-쉽이용하기)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 
@@ -2455,6 +2456,10 @@ Python
   * [Part 1](https://www.youtube.com/watch?v=rvY0MskPps0)
   * [Part 2](https://www.youtube.com/watch?v=P_3MyPMXN0Y)
 * [python1010](https://notebooks.azure.com/greatsong/libraries/python1010) azure notebooks
+* einsum
+  * [Einstein Summation in Numpy](https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/)
+  * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
+  * [Einsum에 대해 간략한 정리](https://ita9naiwa.github.io/numeric%20calculation/2018/11/10/Einsum.html)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)

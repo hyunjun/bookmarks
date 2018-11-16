@@ -78,6 +78,7 @@ Linux
 * **[The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)**
 * **[리눅스 서버 60초안에 상황파악하기](https://b.luavis.kr/server/linux-performance-analysis)**
 * [리눅스 응용프로그램 실행 시 ASLR(Address Space Layout Randomization) 기능 끄고 실행하기](http://kkamagui.tistory.com/905)
+* [How to install a device driver on Linux](https://opensource.com/article/18/11/how-install-device-driver-linux)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -115,6 +116,7 @@ Linux
 * [The Unix Shell: Summary of Basic Commands](http://swcarpentry.github.io/shell-novice/reference/)
 * [유닉스 쉘](https://statkclee.github.io/shell-novice-kr/)
 * [유닉스 쉘(Unix Shell)](http://statkclee.github.io/shell-novice/index-kr.html)
+* [SCP vs SFTP - 5 Key Comparisons](https://www.jscape.com/blog/scp-vs-sftp)
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)

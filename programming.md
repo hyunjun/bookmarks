@@ -295,6 +295,7 @@ Programming
 * **[세분화(Granular) 애플리케이션 아키텍처 패턴](https://medium.com/@jwyeom63/%EC%84%B8%EB%B6%84%ED%99%94-granular-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-1f6a2d720545)**
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
+* [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
 * [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 * **[백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)**
@@ -486,6 +487,7 @@ Programming
   * [How to use Google Cloud TPUs?](https://medium.com/@cylee_80935/how-to-use-google-cloud-tpus-177c3a025067)
   * [Cloud tpu jae_180814](https://www.slideshare.net/JaewookKang1/cloud-tpu-jae180814)
   * [tpu-tutorial-experiments](https://github.com/jwkanggist/tpu-tutorial-experiment)
+  * [Cloud TPUs (TensorFlow @ O’Reilly AI Conference, San Francisco '18)](https://www.youtube.com/watch?v=ot4RWfGTtOg)
   * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
   * [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
   * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
@@ -1026,6 +1028,7 @@ Programming
   * [기술 뉴스 #111 : 18-10-01](https://blog.outsider.ne.kr/1403)
   * [기술 뉴스 #112 : 18-10-15](https://blog.outsider.ne.kr/1404)
   * [기술 뉴스 #113 : 18-11-01](https://blog.outsider.ne.kr/1406)
+  * [기술 뉴스 #114 : 18-11-16](https://blog.outsider.ne.kr/1411)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)

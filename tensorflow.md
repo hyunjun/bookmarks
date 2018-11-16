@@ -433,6 +433,7 @@ TensorFlow
 * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
 * [Deep_Learning_4: Basic File operations in Google Colaboratory](https://www.youtube.com/watch?v=It27JIabAzc)
 * [Deep_Learning_5: Easy Understanding of Tensor Flow Programming](https://www.youtube.com/watch?v=Bn2gITckiD0)
+* [Demystify the TensorFlow APIs](https://medium.com/google-developer-experts/demystify-the-tensorflow-apis-57d2b0b8b6c0)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)

@@ -1166,6 +1166,7 @@ Deep Learning
 * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
+  * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)
 * [Deep Learning Courses](http://machinelearningmastery.com/deep-learning-courses/)
 * [Deep Learning in Python](https://www.datacamp.com/courses/deep-learning-in-python)
 * [deeplearning.ai/courses](https://www.deeplearning.ai/courses/)

@@ -93,6 +93,32 @@ Functional Programming
 * [함수형 프로그래밍의 예외처리](http://qwefgh90.github.io/fp/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC/)
 * [vavr - A new powerful collection library saves us from source.stream().really("?").collect(sink()) pipelines](http://www.vavr.io/)
 
+# JavaScript
+* [JS 제너레이터와 함수형 프로그래밍](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-8bba6c2ce459)
+* 함수형JS
+  * [고차 함수](http://blog.jeonghwan.net/js/2017/04/03/high-order-function-in-javascript.html)
+  * [함수로 함수 만들기1 다형성](http://blog.jeonghwan.net/js/2017/04/10/function-by-function.html)
+  * [함수로 함수 만들기2 커링](http://blog.jeonghwan.net/js/2017/04/17/curry.html)
+  * [함수로 함수 만들기3 부분적용](http://blog.jeonghwan.net/js/2017/04/21/partial-application.html)
+  * [순수성, 불변성, 변경정책](http://blog.jeonghwan.net/js/2017/04/23/Purity-Immutability-and-Policies-for-Change.html)
+  * [흐름 기반 프로그래밍](http://blog.jeonghwan.net/js/2017/05/11/pipeline.html)
+* [함수형 프로그래밍이 뭔가요?](https://hyunseob.github.io/2017/05/08/what-is-functional-programming/)
+* [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
+* [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
+* [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
+* [Functional Programming in Javascript](http://dev-momo.tistory.com/m/entry/Functional-Programming-in-Javascript)
+* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
+* [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
+* [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+* [함수형 프로그래밍](http://blog.naver.com/edy5016/221163934477)
+* [Handle JavaScript data structures with map/reduce](https://codeburst.io/writing-javascript-with-map-reduce-980602ff2f2f)
+* [Function decorators: Transforming callbacks into promises and back again](https://hackernoon.com/transforming-callbacks-into-promises-and-back-again-e274c7cf7293)
+* [Functional JavaScript: Function Decorators Part 2 #JavaScript](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)
+* [Two Years of Functional Programming in JavaScript: Lessons Learned](https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726)
+* [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
+* [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
+* [람다(Ramda)와 로다시(Lodash) 그리고 함수형 프로그래밍](https://engineering.huiseoul.com/%EB%9E%8C%EB%8B%A4-ramda-%EC%99%80-%EB%A1%9C%EB%8B%A4%EC%8B%9C-lodash-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-709ef969c9a5)
+
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
 * [람다 표현식의 장점](http://qwefgh90.github.io/java/Lambda-Expression/)

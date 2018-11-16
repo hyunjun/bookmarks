@@ -431,6 +431,7 @@ Java
   * [Jenkins에 머티리얼 테마 적용하기](https://jojoldu.tistory.com/343)
   * [CLI로 젠킨스 설정 업데이트하기](http://ohgyun.com/780)
   * [jenkins docker 버전 설치](http://jybaek.tistory.com/764)
+  * [Jenkins X - automated CI/CD solution for cloud native applications on Kubernetes](https://www.slideshare.net/tedwon/jenkins-x-automated-cicd-solution-for-cloud-native-applications-on-kubernetes)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
@@ -609,8 +610,10 @@ Java
 * [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [Do not fall into Oracle's Java 11 trap](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html)
+* [Migrating from Oracle JDK to OpenJDK on Red Hat Enterprise Linux: What you need to know](https://developers.redhat.com/blog/2018/11/05/migrating-from-oracle-jdk-to-openjdk-on-red-hat-enterprise-linux-what-you-need-to-know)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
+* [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/fr/corretto/)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
