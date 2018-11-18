@@ -1852,6 +1852,8 @@ Python
   * [Parallel Python – Making Code Run 2000x Faster](https://www.youtube.com/watch?v=pVipRXUGdO8)
   * [Alex Orlov Cython as a Game Changer for Efficiency PyCon 2017](https://www.youtube.com/watch?v=_1MSX7V28Po)
   * [Achieving C-like performance in Python without Cython or other libraries?](https://www.youtube.com/watch?v=Ri8sU5DphEE)
+* [dash - a Python framework for building analytical web applications. No JavaScript required](https://github.com/plotly/dash)
+  * [Dash: A Beginner’s Guide](https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
