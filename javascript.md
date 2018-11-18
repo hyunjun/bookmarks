@@ -26,6 +26,7 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
+* [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
 * 초보자를 위한 바닐라 자바스크립트
@@ -43,6 +44,11 @@ Javascript
   * [#1-9 Organizing Data with Arrays](https://www.youtube.com/watch?v=VvNF3rFWIkQ)
   * [#1-10 Organizing Data with Objects](https://www.youtube.com/watch?v=PRA_bhUxuh4)
   * [#2-1 너의 첫번째 함수! (Your first JS Function)](https://www.youtube.com/watch?v=Q0S6l_gkpeU)
+  * [#2.1.1 More Function Fun](https://www.youtube.com/watch?v=mLTUtMARkqc)
+  * [#2-2 JS DOM Functions](https://www.youtube.com/watch?v=VBmQUMUGznU)
+  * [#2-3 Modifying the DOM with JS](https://www.youtube.com/watch?v=JscDdICRvgo)
+  * [#2-4 Events and event handlers](https://www.youtube.com/watch?v=LnuLDGO5848)
+  * [#2-5 첫번째 조건문!! If, else, and, or](https://www.youtube.com/watch?v=NUh9afZ5xUs)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
 * [A Netflix Web Performance Case Study Improving Time-To-Interactive for Netflix.com on Desktop](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)

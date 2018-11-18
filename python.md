@@ -792,6 +792,8 @@ Python
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
+* pydoc
+  * [PyDoc - A Celebration of Documentation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=URBSvqib0xw)
 * re
   * practice
     * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
@@ -906,6 +908,7 @@ Python
   * [urllib3.readthedocs.io](https://urllib3.readthedocs.io)
   * [Advisory: HTTP Header Injection in Python urllib](http://blog.blindspotsecurity.com/2016/06/advisory-http-header-injection-in.html)
     * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
+  * [Urllib - GET Requests || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=LosIGgon_KM)
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * uuid
@@ -1722,6 +1725,7 @@ Python
   * [install](http://docs.continuum.io/anaconda/install)
     * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
     * [Anaconda3.5 설치 & 오류 해결 방법](https://github.com/KWJACK/TIL/blob/master/SuperResolution/tensorflow/anaconda3.5_install.md)
+    * [How to Install Anaconda Python on Windows | How to Install Anaconda on Windows](https://www.youtube.com/watch?v=YQWAiUhZJX8)
   * Conda Package Repository
     * [conda.pydata.org](http://conda.pydata.org/)
     * [`conda install -c anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
@@ -2763,6 +2767,7 @@ Python
 * [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
 * [Automated Tests in Python](https://powerfulpython.com/blog/automated-tests-types-for-python/)
 * [python testing](http://pythontesting.net/)
+* [Unit Tests in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
   * [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
