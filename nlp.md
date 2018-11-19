@@ -64,6 +64,7 @@ NLP
   * [Bad Comment Generator using RNN](http://nbviewer.jupyter.org/github/daydrill/BadCmtGenerator/blob/master/bad_cmt_generator_code.ipynb)
 * [Introduction to NLP](https://towardsdatascience.com/introduction-to-nlp-5bff2b2a7170)
 * [An easy introduction to Natural Language Processing](https://towardsdatascience.com/an-easy-introduction-to-natural-language-processing-b1e2801291c1)
+* [Introduction to Natural Language Processing for Text](https://towardsdatascience.com/introduction-to-natural-language-processing-for-text-df845750fb63)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
 * [Generating text using a Recurrent Neural Network](https://towardsdatascience.com/generating-text-using-a-recurrent-neural-network-1c3bfee27a5e)
 * [딥엘라스틱 - 검색 + 로봇 저널리즘 + 인지신경언어학 + 딥러닝NLP](http://babelpish.github.io/deep-elastic/)
@@ -234,6 +235,12 @@ NLP
   * Pre-trained Models의 fine-tuning은 필수, 인간이 언어를 이해한다는 것이 그저 엄청난 계산에 불과할 뿐이라는 사실(정말인가?)
   * 이제 계산량을 줄이는 방법이 아니라 계산량을 늘리고 계산 속도를 높이는 방향이 옳을 지도 모름
 * [BERT – STATE OF THE ART LANGUAGE MODEL FOR NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp)
+* [github.com/warnikchow](https://github.com/warnikchow)
+  * [DLK2NLP: Day-by-day Line-by-line Keras-based Korean NLP](https://github.com/warnikchow/dlk2nlp)
+    * [3i4K - Intonation-aided intention identification for Korean](https://github.com/warnikchow/3i4k)
+  * [KorInto - 5-class sentence-final intonation classifier for a syllable-timed and head-final language (Korean)](https://github.com/warnikchow/korinto) 억양분류
+  * [KorEmo - 5-class Korean emotion classifier](https://github.com/warnikchow/koremo) 감정분류
+  * [raws - Real-time Automatic Word Segmentation (for user-generated texts)](https://github.com/warnikchow/raws) 한영 noisy text segmentation
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -405,6 +412,7 @@ NLP
   * [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
   * [Seq2Seq를 활용한 간단한 Q/A 봇을 만들어보자](https://github.com/TensorMSA/tensormsa_jupyter/blob/master/chap13_chatbot_lecture/6.Chatbot(QA-seq2seq)-Word_onehot.ipynb)
 * [Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)](https://github.com/dennybritz/chatbot-retrieval/)
+* [Text Classification using Neural Networks](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -811,6 +819,7 @@ NLP
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
 * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.facebook.com/groups/TensorFlowKR/permalink/767590103582050/)
 * [BERT TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
+* [bert-as-service - Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model](https://github.com/hanxiao/bert-as-service)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
@@ -942,6 +951,7 @@ NLP
 * [tldr - Text summarization service](https://github.com/suminb/tldr)
 * [24 A Serious NLP Application Text Auto Summarization using Python](https://www.youtube.com/watch?v=NDPyjZkblJc)
 * [Summarizing Tweets in a Disaster](https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732)
+* [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)

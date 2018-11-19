@@ -177,6 +177,7 @@ Vision
     * [Part 5 : Designing the input and the output pipelines](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-5/)
   * [윈도우즈에서 yolo v3 돌려보기 1/2](http://jusths.tistory.com/32)
   * [윈도우즈에서 yolo v3 돌려보기 2/2](http://jusths.tistory.com/33)
+  * [Yolo v3 커스텀 모델 학습](http://www.go-programming.com/160)
   * [커스텀 데이터 셋으로 Yolo 써 보기 1](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset)
   * [커스텀 데이터 셋으로 Yolo 써 보기 2](https://jueun-park.github.io/2018-07-12/yolo-custom-dataset-2)
   * [Object detection in just 3 lines of R code using Tiny YOLO](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0)
@@ -198,7 +199,7 @@ Vision
 * [Neural Enhance](https://github.com/alexjc/neural-enhance)
 * [각 영상인식 방법들의 간략 비교](http://gorakgarak.tistory.com/554?category=144864)
 * [분산 트랜스코더의 구조와 구현 원리](http://d2.naver.com/helloworld/0216497)
-* **[CAM: 대선주자 얼굴 위치 추적기](http://jsideas.net/python/2018/01/04/class_activation_map.html)**
+* **[CAM: 대선주자 얼굴 위치 추적기](https://jsideas.net/class_activation_map)**
 * [2D 변환 (Transformations)](http://darkpgmr.tistory.com/m/79)
 * [Convolution & Correlation 이해하기](http://www.popit.kr/%EB%94%AE%EB%9F%AC%EB%8B%9D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC-convolution-correlation-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 * [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
@@ -206,6 +207,7 @@ Vision
 * **[Modern C++ for Computer Vision and Image Processing](http://www.ipb.uni-bonn.de/teaching/modern-cpp/)**
 * [zsc.github.io/megvii-pku-dl-course](https://zsc.github.io/megvii-pku-dl-course/)
 * [이미지로 이미지 검색하기](https://brunch.co.kr/@kakao-it/283)
+* [Face detection - An overview and comparison of different solutions](https://www.liip.ch/en/blog/face-detection-an-overview-and-comparison-of-different-solutions-part1)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
@@ -252,6 +254,12 @@ Vision
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Inpainting - Implementation of "Context Encoders: Feature Learning by Inpainting"](https://github.com/jazzsaxmafia/Inpainting)
   * **[Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)** 기초부터 아주 자세하게 나와서 reddit에서 화제가 된 post
+* [JPEG-AUTOROTATE - A node module to rotate JPEG images based on EXIF orientation](https://github.com/johansatge/jpeg-autorotate) exif 파일에 맞게 픽셀값들을 맞춰주는 라이브러리
+  * python의 imread로 자신이 찍은 사진을 업로드 하면, 어떤 사진은 사진이 분명 뒤집어진 사진이 아님에도, 뒤집어져서 read되는 경우 발생
+  * 이유; [Why Your Photos Don’t Always Appear Correctly Rotated](https://www.howtogeek.com/254830/why-your-photos-dont-always-appear-correctly-rotated)
+    * exif meta정보를 이용해서 이미지 정보를 가지고 있는데, 문제는 이 exif가 구형 이미지 뷰어나, python의 imread를 활용할 때
+    * exif를 인식하지 못하여, exif에 있는 orientaion 항목이 아니라, exif를 무시한체 raw한 픽셀정보로 띄우다 보니
+    * 만약 orientaion과 실제 픽셀이 구성된 방향이 다르면 자연스럽게 뒤집어져서 로드
 * [Kinetics is a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)

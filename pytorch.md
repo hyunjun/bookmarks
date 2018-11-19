@@ -124,6 +124,7 @@ PyTorch
 * [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 * [FloWaveNet : A Generative Flow for Raw Audio](https://github.com/ksw0306/FloWaveNet)
 * [UIS-RNN - the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm. UIS-RNN solves the problem of segmenting and clustering sequential data by learning from examples](https://github.com/google/uis-rnn)
+* [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

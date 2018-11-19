@@ -287,6 +287,7 @@ Javascript
 * [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
+* [javascript ajax 크로스도메인 요청 - CORS](https://brunch.co.kr/@adrenalinee31/1)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [프론트엔드 개발과 TDD](https://www.slideshare.net/jeonghwankim11/ss-78600304)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
@@ -1167,6 +1168,7 @@ Javascript
   * [Node.js - Oracle 연동](https://scw0531.blog.me/221169287236)
   * [Getting off the ground with Express.js Writing web apps with the Node.js framework](https://medium.freecodecamp.org/getting-off-the-ground-with-expressjs-89ada7ef4e59)
   * [Express.js Tutorial: Building RESTful APIs with Node and Express](https://www.youtube.com/watch?v=pKd0Rpw7O48)
+  * [Understanding Expressjs](https://blog.laputa.io/understanding-expressjs-d5ef4f4646c8)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
@@ -1446,6 +1448,7 @@ Javascript
 * [How to develop your React superpowers with the Container Pattern](https://medium.freecodecamp.org/react-superpowers-container-pattern-20d664bdae65)
 * [reactjs-interview-questions-ko](https://github.com/appear/reactjs-interview-questions-ko)
 * [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
+* [Reconciliation: React의 렌더링 알고리즘](https://www.huskyhoochu.com/virtual-dom)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1751,4 +1754,6 @@ Javascript
   * [4. 내장 컴포넌트](https://jaeyeophan.github.io/2018/11/05/Vuetorials-4-Internal-Component/)
   * [5. Vuex](https://jaeyeophan.github.io/2018/11/07/Vuetorials-5-Vuex/)
   * [6. Vuex Module pattern](https://jaeyeophan.github.io/2018/11/16/Vuetorials-6-Vuex-Module-pattern/)
+  * [7. Vuex Best Practice로 가는 여정](https://jaeyeophan.github.io/2018/11/17/Vuetorials-7-Vuex-Best-Practice/)
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)
+* [GUI로 Vue 프로젝트 쉽게 만들기](https://wormwlrm.github.io/2018/11/17/How-to-create-Vue-project-using-CLI-3.html)

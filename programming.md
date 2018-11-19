@@ -202,6 +202,7 @@ Programming
 * [The devil is in the detail](https://en.wikipedia.org/wiki/The_devil_is_in_the_detail)
   * [EA 피파 개발자가 말하는 “피파는 어떻게 위닝을 꺾었나” - ㅍㅍㅅㅅ 이승환님의 글입니다](http://jh4hj.tistory.com/entry/EA-%ED%94%BC%ED%8C%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%E2%80%9C%ED%94%BC%ED%8C%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EB%8B%9D%EC%9D%84-%EA%BA%BE%EC%97%88%EB%82%98%E2%80%9D-%E3%85%8D%E3%85%8D%E3%85%85%E3%85%85-%EC%9D%B4%EC%8A%B9%ED%99%98%EB%8B%98%EC%9D%98-%EA%B8%80%EC%9E%85%EB%8B%88%EB%8B%A4)
 * [프로젝트가 장난이야?!](http://woowabros.github.io/experience/2018/11/12/toy-project.html) 토이 프로젝트를 하자는 이야기
+* [소프트웨어 엔지니어가 되는 것이 뭔지 아무도 알려주지 않은 내용](http://jhrogue.blogspot.com/2018/11/b.html)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -556,6 +557,7 @@ Programming
   * [1. AWS에 구축하기](http://jojoldu.tistory.com/256)
   * [2. Github, IntelliJ와 연동하기](http://jojoldu.tistory.com/257)
   * [3. 코드리뷰 & Pull Request](http://jojoldu.tistory.com/258)
+  * [4. Code intelligence](https://jojoldu.tistory.com/352)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
 * [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
@@ -988,6 +990,7 @@ Programming
   * [10월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/10/b-10-4.html)
   * [10월 5주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-10-5.html)
   * [11월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-1.html)
+  * [11월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-11-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)

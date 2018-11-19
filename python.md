@@ -1475,6 +1475,7 @@ Python
   * [헬로우 큐트 포 파이썬 (Hello Qt for Python)](https://www.popit.kr/%ED%97%AC%EB%A1%9C%EC%9A%B0-%ED%81%90%ED%8A%B8-%ED%8F%AC-%ED%8C%8C%EC%9D%B4%EC%8D%AC-hello-qt-for-python/)
   * [make-a-story](https://github.com/dailyInsight6/make-a-story)
   * [fbs - build-system.fman.io](https://build-system.fman.io)
+  * [Python and Qt: 3,000 hours of developer insight](https://blog.qt.io/blog/2018/11/15/python-qt-3000-hours-developer-insight)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter

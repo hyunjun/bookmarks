@@ -323,6 +323,7 @@ R
   * [R to Python: Data wrangling with dplyr and pandas](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
   * [R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot](https://www.youtube.com/watch?v=ANMuuq502rE)
   * [chunked - Chunkwise Text-file Processing for 'dplyr'](https://github.com/edwindj/chunked)
+  * [dplyr로 DB 데이터를 다룰 때 여러 테이블을 union 해보자](https://mrchypark.github.io/post/rtips-dplyr%EB%A1%9C-db-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%8B%A4%EB%A3%B0-%EB%95%8C-%EC%97%AC%EB%9F%AC-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-union-%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
 * [Gifski on CRAN: the fastest GIF encoder in the universe](https://ropensci.org/technotes/2018/07/23/gifski-release/)
 * [FastRText - R wrapper for Fasttext](https://github.com/pommedeterresautee/FastRText)

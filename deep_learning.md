@@ -662,12 +662,15 @@ Deep Learning
 * [Graph Attention Networks](http://petar-v.com/GAT/)
 * [Deep Learning To Mobile](https://github.com/younatics/DeepLearningToMobile)
 * [Deep learning made easier with transfer learning](https://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html)
+* [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 * [Deep Learning 위해서는 어떤 GPU를 사야 할까요?](http://tmmse.xyz/2016/05/02/gpureccom/)
+* [알기 쉬운 GPU 그리고 머신러닝](https://steemit.com/gpu/@sigmoid/gpu)
 * [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
   * [Xue Bin (Jason) Peng](https://xbpeng.github.io/)
 * [Glow: Better Reversible Generative Models](https://blog.openai.com/glow/)
   * [An implementation of the GLOW paper and simple normalizing flows lib](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-10-Normalizing-Flows-NICE-RealNVP-GLOW)
 * [Optimal real-time landing using DNN](https://www.slideshare.net/ssuser06e0c5/optimal-realtime-landing-using-dnn)
+* [Speed up your deep learning language model up to 1000% with the adaptive softmax, Part 1](https://towardsdatascience.com/speed-up-your-deep-learning-language-model-up-to-1000-with-the-adaptive-softmax-part-1-e7cc1f89fcc9)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1671,6 +1674,7 @@ Deep Learning
 * [CTRNN - Python package that implements Continuous Time Recurrent Neural Networks (CTRNNs)](https://github.com/madvn/CTRNN)
 * [Using Genetic Algorithm for Optimizing Recurrent Neural Networks](https://www.kdnuggets.com/2018/01/genetic-algorithm-optimizing-recurrent-neural-network.html)
 * [Only Numpy: NIPS 2017 - Implementing Dilated Recurrent Neural Networks with Interactive Code](https://towardsdatascience.com/only-numpy-nips-2017-implementing-dilated-recurrent-neural-networks-with-interactive-code-e83abe8c9b27)
+* [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
@@ -2013,7 +2017,9 @@ CVPR2016)
 * [Improvements in Deep Q Learning: Dueling Double DQN, Prioritized Experience Replay, and fixed Q-targets](https://medium.freecodecamp.org/improvements-in-deep-q-learning-dueling-double-dqn-prioritized-experience-replay-and-fixed-58b130cc5682)
 
 ## RL MOOC, Lectures
+* [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
 * [강화학습의 기초 이론](https://www.youtube.com/playlist?list=PLpRS2w0xWHTcTZyyX8LMmtbcMXpd3s4TU)
+* [Angdrew Ng youtube playlists](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists)
 * [Berkeley CS 294: Deep Reinforcement Learning, Spring 2017](http://rll.berkeley.edu/deeprlcourse/)
   * [CS 294: Deep Reinforcement Learning —(1) Introduction and course overview](https://medium.com/@peteryun/rl-cs-294-deep-reinforcement-learning-introduction-and-course-overview-c7d9cb550ced)
   * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
@@ -2031,6 +2037,7 @@ CVPR2016)
 * [Temporal-Difference Learning](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD_new/)
   * [1](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD1/)
   * [2](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD2/)
+* [theschool.ai](https://www.theschool.ai)
 * [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
 # Semantic Sementation
