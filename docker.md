@@ -248,6 +248,8 @@ Docker
 * [Docker를 이용한 크로스 컴파일 툴체인 이용하기](http://mcchae.egloos.com/11274635)
 * [CircleCI: 커스텀 도커 이미지로 어플리케이션 빌드 시간 단축하기](https://engineering.huiseoul.com/circleci-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B9%8C%EB%93%9C-%EC%8B%9C%EA%B0%84-%EB%8B%A8%EC%B6%95%ED%95%98%EA%B8%B0-5c3a889bd2f7)
 * [Docker for Data Science](https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9)
+* **[Building Your Own Data Science Platform With Python & Docker](https://www.youtube.com/watch?v=NC2wXYHBrL0)**
+  * [Beyond Jupyter Notebooks](https://github.com/jgoerner/beyond-jupyter)
 * [시스템 부팅시 도커 컨테이너 자동 실행](http://daddycat.blogspot.kr/2017/12/blog-post_21.html)
 * [Docker Korea 스터디 그룹 모임](http://blog.nacyot.com/articles/2014-07-26-docker-korea/)
 * [Docker Korea 스터디 그룹 두번째 모임](http://blog.nacyot.com/articles/2014-08-04-docker-korea-secord/)

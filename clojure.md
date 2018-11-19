@@ -256,6 +256,7 @@ Clojure
 * [Clojure/ClojureScript Boot literate programming template](https://maximgb.github.io/clojure-boot-literate)
 * [개발 환경 설정](https://github.com/clojure-kr/clojure-complete/blob/master/Development-Environments/development-environments.adoc)
 * [nil punning](https://gist.github.com/philoskim/f4ab7ae21b5bf76def85ad61855fb9bf#nil-punning)
+* [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

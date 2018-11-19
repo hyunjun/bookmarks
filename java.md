@@ -610,6 +610,7 @@ Java
 * [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [Do not fall into Oracle's Java 11 trap](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html)
+* [Oracle Java SE Subscription에 대하여...](http://taewan.kim/post/oracle_java_subscription)
 * [Migrating from Oracle JDK to OpenJDK on Red Hat Enterprise Linux: What you need to know](https://developers.redhat.com/blog/2018/11/05/migrating-from-oracle-jdk-to-openjdk-on-red-hat-enterprise-linux-what-you-need-to-know)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)

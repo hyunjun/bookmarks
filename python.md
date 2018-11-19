@@ -446,6 +446,7 @@ Python
   * [Coroutines in Python with examples](http://en.proft.me/2016/07/21/coroutines-python-examples/)
   * [How Do Python Coroutines Work?](https://www.youtube.com/watch?v=idLtMISlgy8)
   * [PyconKR 2018 Deep dive into Coroutine](https://www.slideshare.net/daykim7/pyconkr-2018-deep-dive-into-coroutine-110194978/1)
+    * [Deep Dive into Coroutine - 김대희](https://www.youtube.com/watch?v=NmSeLspQoAA)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen

@@ -352,6 +352,7 @@ Programming
   * [번역; Web Architecture 101](https://medium.com/@strncpy/%EB%B2%88%EC%97%AD-web-architecture-101-5fda6095688c)
   * [번역 웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 * [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
+* [EAI, ESB, API 게이트 웨이,서비스 매쉬](http://bcho.tistory.com/1292)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
