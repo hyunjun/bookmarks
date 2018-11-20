@@ -226,6 +226,7 @@ AWS
 * [AWS에서 서버(EC2) 패킷 미러링 하기](http://woowabros.github.io/security/2018/06/29/aws-network-mirror.html)
 * [ec2-gauza 설치 및 사용하기](http://jojoldu.tistory.com/311)
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
+* [원격근무의 필수조건, AWS에 OpenVPN 구축기](https://elegantcoder.com/aws-openvpn-begins)
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 * [Terraform으로 ACM 인증서 생성하기](https://blog.outsider.ne.kr/1398)
 * [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
@@ -237,6 +238,8 @@ AWS
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
 * [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
 * [S3 And More](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181002_JH_S3.md)
+* [AWS2 - S3](https://opentutorials.org/module/3815)
+	* [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

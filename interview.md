@@ -139,6 +139,7 @@ Interview
 * [에어비앤비 엔지니어가 일하는 게 행복한 이유](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 * [ICT CAREER ADY 서울-실리콘밸리 IT 커리어 포럼](https://www.youtube.com/watch?v=2AT4lUmDzXU)
 * [세일즈 해보시겠어요?](https://brunch.co.kr/@hyungsukkim/92) 분야는 관계없지만 인터뷰 전반을 생각해볼 때 좋은 글
+* [<<족집게 질문 리스트>>로 글로벌IT회사의 입사 인터뷰를 제대로 통과하기](https://okky.kr/article/523155)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)

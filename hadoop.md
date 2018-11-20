@@ -85,6 +85,10 @@ Hadoop
   * [How to get compressed (text) output from a streaming Hadoop job](https://stackoverflow.com/questions/13670572/how-to-get-compressed-text-output-from-a-streaming-hadoop-job)
 * [Migrating Hulu’s Hadoop Clusters to a New Data Center — Part One: Extending our Hadoop Instance](https://medium.com/hulu-tech-blog/migrating-hulus-hadoop-clusters-to-a-new-data-center-part-one-extending-our-hadoop-instance-b88c4bda61bc)
 * [Evaluating Partner Platforms](http://blog.cloudera.com/blog/2018/05/evaluating-partner-platforms/)
+* [+40PB per year — The challenge of data growth at Criteo](https://medium.com/criteo-labs/40pb-per-year-the-challenge-of-data-growth-at-criteo-5d5b73ec5294)
+  * Criteo는 매년 40PB 가량의 데이터 증가, NameNode에는 100만개 블록 저장
+  * Criteo가 Hadoop 클러스터를 확장하면 겪은 어려움과 튜닝 사례 소개
+* [Help hadoop survive the 300 million block barrier and then back it up](https://fr.slideshare.net/Hadoop_Summit/help-hadoop-survive-the-300-million-block-barrier-and-then-back-it-up-110010771)
 
 # Hadoop 3.x
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)

@@ -1355,6 +1355,10 @@ Python
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-CoYS177-UvMAQYRfL3fBtX)
 * [Secure Flask REST API Server Template](https://github.com/yantisj/apisrv)
 * [Docker image with uWSGI and Nginx for Flask applications in Python running in a single container](https://github.com/tiangolo/uwsgi-nginx-flask-docker)
+* [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
+* [How To Serve Flask Applications with Gunicorn and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04)
+* [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04)
+* [구글 애널리틱스 API를 사용한 Flask 앱을 uWSGI와 nginx로 배포한 과정](https://rhostem.github.io/posts/2018-11-20-deploy-flask-with-uwsgi/)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
 * [How to make a Flask blog in one hour or less](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
 * [Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It’s BSD licensed!](https://flask.zeef.com/stefane.fermigier)
@@ -1383,7 +1387,6 @@ Python
 * [render_template 어떻게 사용할까?](https://ash84.net/2017/07/20/flask-render_template/)
 * [flask - request.script_root 이용하기](https://ash84.net/2017/08/04/flask-request-script_root-iyonghagi/)
 * [flask-mqtt : subscribe 시 qos 설정 이슈 수정하기](http://ash84.net/2018/01/29/flask-mqtt-subscribe-qos-pull-request/)
-* [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
 * [FLASK TDD with TESTING GOAT](https://github.com/UrangUrang/flask-tdd-with-testing-goat)
 * **[On-demand image server with Python](https://speakerdeck.com/mingrammer/on-demand-image-server-with-python)**
 * **[Flask,VueJS,RethinkDB 로 파일 저장 서비스 만들기 - (1)](http://hamait.tistory.com/877)**
@@ -1405,8 +1408,6 @@ Python
 * 기술블로그 구독서비스 개발 후기
   * [1부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-1%EB%B6%80/)
   * [2부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-2%EB%B6%80/)
-* [How To Serve Flask Applications with Gunicorn and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04)
-* [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04)
 * [Python Flask에서 페이지 Redirect 이동하는 방법](https://webisfree.com/2017-08-06/python-flask%EC%97%90%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-redirect-%EC%9D%B4%EB%8F%99%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [Flask: redirect vs redirect(url_for)](https://teamtreehouse.com/community/flask-redirect-vs-redirecturlfor)
 * [Creating a Weather App in Flask Using Python Requests](https://www.youtube.com/watch?v=lWA0GgUN8kg)

@@ -110,6 +110,9 @@ Apache
   * 시스템 간의 유사성(예: 저장 및 인덱스), 성능 특성, 데이터 처리, 데이터 복제 및 쿼리 실행의 유사성과 차이점 설명
 * [Web analytics at scale with Druid at naver.com](https://www.slideshare.net/JasonJungsuHEO/web-analytics-at-scale-with-druid-at-navercom)
 * [An introduction to Druid, your Interactive Analytics at (big) Scale](https://blog.zysset.me/introduction-to-druid/)
+* [How Druid enables analytics at Airbnb](https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c)
+  * Airbnb에서 분석을 위해 Druid를 사용한 경험담 소개
+  * Druid를 통해 다른 빅데이터 시스템 보완 방법, Spark Streaming으로 데이터 수집 방법, Presto 통합 방법, 모니터링 그리고 문제점 및 향후 개선 사항 설명
 
 # Eagle
 * [Apache Eagle](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces1)

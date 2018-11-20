@@ -75,6 +75,7 @@ History
   * [2편 부의 빅뱅](https://www.youtube.com/watch?v=bCDX2c-kwMM)
   * [3편 뒤바뀐 운명](https://www.youtube.com/watch?v=PMp6cx93jgA)
   * [4편 거대한 역전](https://www.youtube.com/watch?v=knJWtmAoT4w)
+* [인간이 생존하기 가장 어려웠던 해는 536년이었다](https://news.v.daum.net/v/20181119172015381)
 
 # 한국
 * [3.1 운동이 아시아에 미친 영향.JPG](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201703010000250791)
