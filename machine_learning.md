@@ -516,6 +516,7 @@ Machine Learning
   * [Open Content for self-directed learning in data science](https://github.com/nborwankar/LearnDataScience)
   * [machine_learning - a collection of IPython notebooks detailing various machine learning algorithims](https://github.com/masinoa/machine_learning)
   * [Meetup-Fall-2013 - Slides, code, and other information relating to the Fall 2013 Meetups](https://github.com/ResearchComputing/Meetup-Fall-2013)
+  * [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python)
 * [Understanding machine learning from theory to algorithms](http://www.techleer.com/articles/230-understanding-machine-learning-from-theory-to-algorithms/)
 * [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
   * [iml: Interpretable Machine Learning](https://cran.r-project.org/web/packages/iml/) r package

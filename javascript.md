@@ -784,6 +784,7 @@ Javascript
     * [Ionic + Meteor 기반 프로젝트 만들기](http://mobicon.tistory.com/507)
     * [Angular CLI + Meteor 기반 프로젝트 만들기](http://mobicon.tistory.com/508)
   * [React + Meteor 개발환경 설정 - 1](http://mobicon.tistory.com/555)
+  * [React + Meteor 개발환경 설정 - 2](http://mobicon.tistory.com/556)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)

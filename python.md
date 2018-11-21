@@ -358,6 +358,7 @@ Python
 * [오픈소스 라이브러리 개발기](https://www.slideshare.net/wintermy201/ss-108323226)
 * [Python으로 알송 가사 추출하기](https://item4.github.io/2018-10-20/Fetch-Alsong-Lyrics-with-Python/)
 * [Master Python through building real-world applications (Part 1)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-1-b040b2b7faad)
+* [Symbolic Computing Using Python: Part 1-Basics](https://medium.com/@alexmaisiura/symbolic-computing-using-python-part-1-basics-cd4007e5f9b0)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2751,6 +2752,7 @@ Python
 * [Migrating to Python 3 with pleasure](https://github.com/arogozhnikov/python3_with_pleasure/blob/master/README.md)
 * [5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
 * [Python 3.7의 새로운 기능들](http://geekhub.co.kr/blog/translation-python37-new-features)
+* [Modern Functions in Python 3](https://tech.gadventures.com/modern-functions-in-python-3-80208c44ce47)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)

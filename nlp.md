@@ -242,6 +242,7 @@ NLP
   * [KorEmo - 5-class Korean emotion classifier](https://github.com/warnikchow/koremo) 감정분류
   * [raws - Real-time Automatic Word Segmentation (for user-generated texts)](https://github.com/warnikchow/raws) 한영 noisy text segmentation
 * [NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
+* [Industrial strength Natural Language Processing](https://medium.freecodecamp.org/industrial-strength-natural-language-processing-de2588b6b1ed)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
