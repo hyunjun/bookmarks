@@ -522,14 +522,6 @@ Programming
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
   * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 
-# Cloud IDE
-* [codenvy.com](https://codenvy.com)
-* [codeyourcloud.com/about](https://codeyourcloud.com/about/)
-* [goorm.io](https://www.goorm.io/)
-* [koding](https://koding.com/)
-  * [클라우드 IDE 업체 코딩, 1천만 달러 투자 유치](http://www.bloter.net/archives/234992)
-* [CodeOnWeb - 클라우드 기반의 개인화된 코딩 교육 시스템](https://codeonweb.com/)
-
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
 * [CodeCity - an integrated environment for software analysis](http://www.inf.usi.ch/phd/wettel/codecity.html)
@@ -580,22 +572,27 @@ Programming
 * [symbolhound.com](http://symbolhound.com/) search for symbols
 * [trokam.com](http://trokam.com)
 
-# Code Share & online executiong
+# Code Share, online executiong, Cloud IDE
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
 * [codeanywhere.com](https://codeanywhere.com/)
 * [codebunk.com](https://codebunk.com/) run 가능
+* [codenvy.com](https://codenvy.com)
+* [CodeOnWeb - 클라우드 기반의 개인화된 코딩 교육 시스템](https://codeonweb.com/)
 * [codereet.com](https://codereet.com/) run 가능
 * [coderpad.io](https://coderpad.io/) run 가능. (유료?) 회원의 경우 run도 끌 수 있는 등 추가 기능 있는 듯
 * [codeshare.io](https://codeshare.io/) run 불가능
+* [codeyourcloud.com/about](https://codeyourcloud.com/about/)
 * [collabedit.com](http://collabedit.com/) 2018.11부터 접속이 안 됨
 * [codassium.com](http://codassium.com/) 회원가입 필요
 * [colorscripter.com](http://colorscripter.com/) 소스 작성 후 업로드를 해야 공유 url이 생기는 구조
 * [floobits.com](https://floobits.com/)
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io) run 가능
+* [goorm.io](https://www.goorm.io/)
 * [koding.com](https://www.koding.com/)
+  * [클라우드 IDE 업체 코딩, 1천만 달러 투자 유치](http://www.bloter.net/archives/234992)
 * [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [plunker](https://plnkr.co) run 가능 약간 복잡한 느낌
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)

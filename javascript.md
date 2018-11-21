@@ -364,6 +364,7 @@ Javascript
 * [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859)
 * **[33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)**
 * [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
+* [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

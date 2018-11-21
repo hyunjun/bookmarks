@@ -820,10 +820,12 @@ NLP
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
 * [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
 * [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
-* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.facebook.com/groups/TensorFlowKR/permalink/767590103582050/)
-* [BERT TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
-* [bert-as-service - Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model](https://github.com/hanxiao/bert-as-service)
+* BERT
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
+  * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.facebook.com/groups/TensorFlowKR/permalink/767590103582050/)
+  * [BERT TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
+  * [bert-as-service - Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model](https://github.com/hanxiao/bert-as-service)
+  * [Language Learning with BERT - TensorFlow and Deep Learning Singapore](https://www.youtube.com/watch?v=0EtD5ybnh_s)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
