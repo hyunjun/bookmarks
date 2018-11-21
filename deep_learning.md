@@ -672,6 +672,7 @@ Deep Learning
   * [An implementation of the GLOW paper and simple normalizing flows lib](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-10-Normalizing-Flows-NICE-RealNVP-GLOW)
 * [Optimal real-time landing using DNN](https://www.slideshare.net/ssuser06e0c5/optimal-realtime-landing-using-dnn)
 * [Speed up your deep learning language model up to 1000% with the adaptive softmax, Part 1](https://towardsdatascience.com/speed-up-your-deep-learning-language-model-up-to-1000-with-the-adaptive-softmax-part-1-e7cc1f89fcc9)
+* [PyParis 2018 - Using Deep Learning to rank and tag millions of hotel images](https://www.youtube.com/watch?v=WEWl4cD-y00)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)

@@ -524,6 +524,7 @@ Clojure
 * [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
 * [event - event signalling and conditional restart](http://docs.caudate.me/hara/hara-event.html) Clojure(Script) restart system (in Common Lisp) better than exception system
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
+* [failjure - Monadic error utilities for general use in Clojure projects](https://github.com/adambard/failjure) return값으로 error를 다루는 library
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
