@@ -37,6 +37,7 @@ Scala
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Learn Scala with the Koans](http://www.scalakoans.org/)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
+* [A 10-Minute Introduction to Scala](https://hackernoon.com/a-10-minute-introduction-to-scala-d1fed19eb74c)
 * [scalawags.tv](http://www.scalawags.tv/)
 * [scala center -  For open source. For education.  A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [Nine Reasons to Try Scala](http://www.vidyasource.com/tutorial/Scala/Java/Python/Groovy/Mobile/Android/Web/REST/Architecture/Programming/2015/04/03/nine-reasons-to-try-scala)
@@ -310,6 +311,7 @@ Scala
 * [AkkaPaint – simplicity and power of Akka](https://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/)
 * [Diving into Akka Streams](https://blog.redelastic.com/diving-into-akka-streams-2770b3aeabb0)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/detail/85)
+* [How you can build a Hello World API with Scala and Akka HTTP](https://medium.freecodecamp.org/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)

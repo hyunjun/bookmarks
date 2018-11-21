@@ -206,6 +206,7 @@ AWS
 * [AWS X-Ray 적용기](https://medium.com/@zeroweb.tech/aws-x-ray-%EC%A0%81%EC%9A%A9%EA%B8%B0-4e1c270c62fa)
 * [AWS X-Ray](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180910_JH_aws_x-ray.md)
 * [Creating a Python Development Environment on Amazon EC2](https://blog.jetbrains.com/pycharm/2017/12/creating-a-development-environment-on-amazon-ec2/)
+* [Deploying a Python Web App on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
 * 10 Lessons from 10 Years of AWS
   * [part 1](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-1-258b56703fcf)
   * [part 2](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-2-5dd92b533870)
@@ -239,7 +240,7 @@ AWS
 * [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
 * [S3 And More](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181002_JH_S3.md)
 * [AWS2 - S3](https://opentutorials.org/module/3815)
-	* [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
+  * [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

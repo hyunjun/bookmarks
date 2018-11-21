@@ -84,6 +84,7 @@ Sports
 * [선발 에이스 시대의 종말이 온다 1이닝 선발부터 벌떼 불펜까지 다양해지는 투수 운용 방식](http://weekly.donga.com/3/all/11/1412439/1)
 
 ## Sabremetrics
+* [baseballthinkfactory.org/btf/index.html](http://www.baseballthinkfactory.org/btf/index.html)
 * [데이터로 승부하는 ‘세이버메트리션’, 야구기자](http://www.bloter.net/archives/233533)
 * [빌 제임스와 빌리 빈이 전망하는 세이버매트릭스의 미래](http://mlbpark.donga.com/mbs/articleV.php?mbsC=mlbtown&mbsIdx=389191&cpage=1&mbsW=&select=&opt=&keyword=)
 * [투수의 제구력 - 컨트롤과 커맨드 또는 로케이션](http://baseball-in-play.com/52)
@@ -138,3 +139,4 @@ Sports
 * [빌드업의 원리 (3)](http://blog.naver.com/manutd92/220648589455)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 * [영국 프리미어 리그 웨스트햄 유나이티드 유스  전력분석관 인터뷰 바로가기](https://avengerschool.com/courses/sports3)
+* [214. Arte de lo Clasico 바르셀로나에 참패를 당한 레알 마드리드](https://1boon.daum.net/kalka/kalka181031) 미술과 축구를 연결해 그린 편

@@ -357,6 +357,7 @@ Python
   * [Tensorflow vs. PyTorch](https://github.com/ghlee0304/pytorch-basic-with-tensorflow/tree/master/comparison_tensorflow_pytorch)
 * [오픈소스 라이브러리 개발기](https://www.slideshare.net/wintermy201/ss-108323226)
 * [Python으로 알송 가사 추출하기](https://item4.github.io/2018-10-20/Fetch-Alsong-Lyrics-with-Python/)
+* [Master Python through building real-world applications (Part 1)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-1-b040b2b7faad)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2530,6 +2531,7 @@ Python
 * [Pandas: 한 셀의 데이터를 여러 행으로 나누기](http://ohgyun.com/768)
 * [Pandas: 그룹 내에서 상위 n개 가져오기](http://ohgyun.com/776)
 * [The Art of Cleaning Your Data](https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726)
+* [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)

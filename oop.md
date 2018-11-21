@@ -42,6 +42,9 @@
   * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
   * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
 * [Memento Pattern](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180907_BB_memento_pattern.md)
+* [이펙티브 자바3판 2장 객체 생성과 파괴](http://sjh836.tistory.com/168)
+* [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
+* [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
@@ -124,6 +127,7 @@
 * [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 * [Elegant patterns in modern JavaScript: Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee)
 * [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)
+* [An introduction to Object-Oriented Programming in JavaScript](https://medium.freecodecamp.org/an-introduction-to-object-oriented-programming-in-javascript-8900124e316a)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)

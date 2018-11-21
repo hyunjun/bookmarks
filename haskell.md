@@ -145,6 +145,7 @@ Haskell
 * [Haskell 초급 예제 — todo](https://medium.com/@jooyunghan/haskell-%EC%B4%88%EA%B8%89-%EC%98%88%EC%A0%9C-todo-7faf85d45dea)
 * [Haskell #1 (Introduction)](https://medium.com/@goinhacker/haskell-study-1-db0a9d9ac318)
 * ["Building Secure Systems in Haskell" by Deian Stefan](https://www.youtube.com/watch?v=jX-zsoPWah0)
+* [Fixpoints in Haskell](https://medium.com/@cdsmithus/fixpoints-in-haskell-294096a9fc10)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)

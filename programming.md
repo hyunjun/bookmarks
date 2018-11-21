@@ -429,6 +429,7 @@ Programming
 * [마이크로서비스 아키텍처(MSA). 서비스 개발팀 이야기](https://kihoonkim.github.io/2018/03/25/Microservices%20Architecture/first-msa-retro/)
 * [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들](https://www.slideshare.net/deview/115-119061611)
 * [마이크로 서비스 아키텍쳐와 컨테이너](http://bcho.tistory.com/1289)
+* [Istio #1 - 마이크로 서비스와 서비스 매쉬](http://bcho.tistory.com/1293)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)

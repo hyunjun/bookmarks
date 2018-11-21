@@ -193,8 +193,6 @@ Machine Learning
 * [Machines learn to play Tabla](http://www.trivedigaurav.com/blog/machines-learn-to-play-tabla/)
 * [Machine Learning: The High-Interest Credit Card of Technical Debt](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf)
 * [Curse of Dimensionality](http://www.edupristine.com/blog/curse-dimensionality)
-* [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
-* [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Machine Learning](https://www.youtube.com/playlist?list=PLpMEPQKnI3smcgHPMyqEd6J71TMBU0QOG)
 * [An Introduction to Distributed Machine Learning](http://blog.dato.com/an-introduction-to-distributed-machine-learning-1)
 * [Common Design for Distributed Machine Learning](https://www.slideshare.net/JunyoungPark22/common-design-for-distributed-machine-learning)
@@ -259,7 +257,6 @@ Machine Learning
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
-* [An Incomplete list of Market-Prediction Projects in Andrew Ng's CS229 Course](https://sites.google.com/site/gappy3000/an-incomplete-list-of-market-prediction-projects-in-andrew-ng-s-cs229-course-1)
 * [Approaching (Almost) Any Machine Learning Problem | Abhishek Thakur](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/)
 * [Generate Rap Lyrics - Fresh Machine Learning #4](https://www.youtube.com/watch?v=yE0dcDNRZjw)
 * [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
@@ -562,6 +559,9 @@ Machine Learning
 * [구글의 머신러닝 비전: TPU부터 모바일까지 (Google I/O Extended Seoul 2017)](https://www.slideshare.net/inureyes/tpu-google-io-extended-seoul-2017)
 
 ## Prediction
+* [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
+* [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
+* [An Incomplete list of Market-Prediction Projects in Andrew Ng's CS229 Course](https://sites.google.com/site/gappy3000/an-incomplete-list-of-market-prediction-projects-in-andrew-ng-s-cs229-course-1)
 * [cloud.google.com/prediction](https://cloud.google.com/prediction)
 
 # Java
@@ -868,6 +868,7 @@ Machine Learning
   * [8 ways to perform simple linear regression and measure their speed using Python](https://medium.freecodecamp.org/data-science-with-python-8-ways-to-do-linear-regression-and-measure-their-speed-b5577d75f8b)
   * [Linear Regression Machine Learning Method Using Scikit-learn & Pandas in Python - Tutorial 30](https://www.youtube.com/watch?v=erfZsVZbGJI)
   * [“파이썬 라이브러리를 활용한 머신러닝” 사이킷런 0.20 업데이트](https://tensorflow.blog/2018/09/30/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-0-20/)
+  * [Scikit-Learn: A silver bullet for basic machine learning](https://medium.com/analytics-vidhya/scikit-learn-a-silver-bullet-for-basic-machine-learning-13c7d8b248ee)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * sklearn
   * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
@@ -897,6 +898,8 @@ Machine Learning
 * [Improving the Random Forest in Python Part 1](https://towardsdatascience.com/improving-random-forest-in-python-part-1-893916666cd)
 * [Hyperparameter Tuning the Random Forest in Python](https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74)
 * [Random Forest in Python - A Practical End-to-End Machine Learning Example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
+* [An Introduction to Random Forest using the fastai Library (Machine Learning for Programmers — Part 1)](https://www.analyticsvidhya.com/blog/2018/10/comprehensive-overview-machine-learning-part-1/)
+* [An Intuitive Guide to Interpret a Random Forest Model using fastai library (Machine Learning for Programmers – Part 2)](https://www.analyticsvidhya.com/blog/2018/10/interpret-random-forest-model-machine-learning-programmers/)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)

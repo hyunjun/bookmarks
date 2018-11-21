@@ -241,6 +241,7 @@ NLP
   * [KorInto - 5-class sentence-final intonation classifier for a syllable-timed and head-final language (Korean)](https://github.com/warnikchow/korinto) 억양분류
   * [KorEmo - 5-class Korean emotion classifier](https://github.com/warnikchow/koremo) 감정분류
   * [raws - Real-time Automatic Word Segmentation (for user-generated texts)](https://github.com/warnikchow/raws) 한영 noisy text segmentation
+* [NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -399,7 +400,6 @@ NLP
 * [30분 안에 챗봇 만들기 2편](https://brunch.co.kr/@chris-song/29)
 * [Own ChatBot Based on Recurrent Neural Network](https://blog.kovalevskyi.com/rnn-based-chatbot-for-6-hours-b847d2d92c43)
 * [Chatbots: Theory and Practice](https://www.linkedin.com/pulse/chatbots-theory-practice-jonathan-mugan)
-* [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
 * [Show me red! – feat. 서울 시립 미술관 데이터를 사용한 챗봇 만들기](http://khg423.dothome.co.kr/index.php/2017/08/21/show-me-red-feat-%EC%84%9C%EC%9A%B8-%EC%8B%9C%EB%A6%BD-%EB%AF%B8%EC%88%A0%EA%B4%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%B1%97%EB%B4%87-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
 * [“인공지능” 리테일 챗봇 만들기](https://developer.ibm.com/kr/journey/create-cognitive-retail-chatbot/)
@@ -430,6 +430,8 @@ NLP
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [Building a botnet on PyPi](https://hackernoon.com/building-a-botnet-on-pypi-be1ad280b8d6)
 * [ChatOps with PowerShell - Matthew Hodgkins](https://www.youtube.com/watch?v=XIMOFnfdOx0)
+* [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
+* [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -493,6 +495,7 @@ NLP
 * [Text Clustering : Get quick insights from Unstructured Data 2](https://machinelearningblogs.com/2017/06/23/text-clustering-get-quick-insights-unstructured-data-2/)
 * [14 Great Articles and Tutorials on Clustering](https://www.datasciencecentral.com/profiles/blogs/14-great-articles-and-tutorials-on-clustering)
 * [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+* [Understanding Hate Speech on Reddit through Text Clustering](https://medium.com/@_eigenfoo/understanding-hate-speech-on-reddit-through-text-clustering-7dc7675bccae)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)
@@ -952,6 +955,7 @@ NLP
 * [24 A Serious NLP Application Text Auto Summarization using Python](https://www.youtube.com/watch?v=NDPyjZkblJc)
 * [Summarizing Tweets in a Disaster](https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732)
 * [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
+* [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
@@ -1178,6 +1182,7 @@ NLP
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [Python을 활용한 텍스트 마이닝](http://www.lifebloom.biz/category/py/tm/)
+* [Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9)
 
 # TF-IDF
 * [Tf-idf 가중치](http://jeongsw.tistory.com/449)
@@ -1195,3 +1200,4 @@ NLP
 * [Extracting Hidden Topics in a Corpus](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d)
 * [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
 * [간편한 토픽 모델링 툴 Tomoto Gui](http://bab2min.tistory.com/602)
+* [An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)](https://medium.com/analytics-vidhya/an-nlp-approach-to-mining-online-reviews-using-topic-modeling-with-python-codes-9d766e783003)

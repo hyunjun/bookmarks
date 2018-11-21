@@ -29,3 +29,10 @@ Psychology
   * [01 그래, 나 실패했다](https://brunch.co.kr/@rooneykim/40)
   * [02 아, 이제 어떡하지?](https://brunch.co.kr/@rooneykim/42)
 * [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
+* [일상생활에서 자존감을 높이는 방법들](https://imgur.com/a/xTHuEbJ)
+  * [정신과 의사가 알려준 자존감 확실히 높이는 법](https://youtu.be/KWm9asILbnE)
+  * 스스로 정성스럽게 요리하기
+  * 행동계획표 쓰기
+  * 스스로에게 안좋은 말들 하지 않기
+  * 남에게 의존해서 자존감을 높이지 말고 스스로 만족할줄 알기
+  * 본인이 좋아하는 시간, 공간 만들기

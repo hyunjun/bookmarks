@@ -135,6 +135,7 @@ Git
 * [Git으로 버전제어](https://statkclee.github.io/git-novice-kr/)
 * [Git을 사용한 버젼 관리](http://statkclee.github.io/git-novice/index-kr.html)
 * [Git을 이용한 더 나은 버전관리](https://speakerdeck.com/ibluemind/giteul-iyonghan-deo-naeun-beojeongwanri)
+* [How not to be afraid of Git anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
@@ -321,6 +322,7 @@ Git
   * [git에서 특정 commit에 들어간 수정 파일을 다른 commit으로 옮기는 방법](http://blog.doortts.com/285)
   * [Git rebase를 이용한 커밋 수정 (Interactive Rebase)](https://wckhg89.github.io/archivers/rebase)
   * [Don’t Fear The Rebase](https://hackernoon.com/dont-fear-the-rebase-bca683888dae)
+  * [An introduction to Git merge and rebase: what they are, and how to use them](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
 * remote

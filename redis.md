@@ -73,6 +73,8 @@ Redis
 * [Redis Use Patterns: An Introduction to the SQL Practitioner](https://www.youtube.com/watch?v=8Unaug_vmFI)
 * [Amazon ElastiCache(Redis)를 이용한 채팅 애플리케이션 구성 방법](https://aws.amazon.com/ko/blogs/korea/how-to-build-a-chat-application-with-amazon-elasticache-for-redis)
 * [EC2에 Redis CLI 설치하기](https://jojoldu.tistory.com/348)
+* [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
+  * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
@@ -84,8 +86,11 @@ Redis
 * [Redis 에서 zadd 와 zincrby 의 차이](https://charsyam.wordpress.com/2018/09/06/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%97%90%ec%84%9c-zadd-%ec%99%80-zincrby-%ec%9d%98-%ec%b0%a8%ec%9d%b4/)
 * BGSAVE
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
+* CONFIG
+  * `config get maxclients` or `echo "config get maxclients" | nc -v <redis server> <redis port>` 현재 설정된 최대 접속 허용 client 개수
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
   * `info, info('cpu'), info('memory'), ...` in python
+  * `info clients` or `echo "info clients" | nc -v <redis server> <redis port>` connected clients 개수
 * [HSCAN](https://redis.io/commands/hscan) `hash name 0 \[match pattern>\]` patern = \*pattern or pattern\* or \*pattern\*
   * `hscan_iter` in python
   * [How to search a key pattern in redis hash?](https://stackoverflow.com/questions/35850608/how-to-search-a-key-pattern-in-redis-hash)
@@ -134,6 +139,7 @@ Redis
   * [fakeredis: A fake version of a redis-py](https://pypi.org/project/fakeredis/)
     * [practice - patch redis.StrictRedis -> fakeRedis.StrictRedis](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
   * [mockredis](https://github.com/locationlabs/mockredis) 뭘 잘못 입력했는지 잘 안됨
+  * troubleshooting [`hset`이 <json string value>에 대해 동작하지 않음](https://gist.github.com/hyunjun/4ab30f4ebd401bcb0e60aabbab0b97bc#file-troubleshooting-md)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [Tornado-Redis - Asynchronous Redis client that works within Tornado IO loop](https://github.com/leporo/tornado-redis)
 

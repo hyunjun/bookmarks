@@ -383,6 +383,7 @@ Clojure
 * [PARALLELIZING A CLOJURESCRIPT TEST SUITE, PART 1: THE GUTS OF CLJS.TEST](https://cambium.consulting/articles/2018/3/22/parallelizing-a-clojurescript-test-suite-part-1-the-guts-of-cljstest)
 * [How to get \*ns\* string in ClojureScript](https://gist.github.com/philoskim/19bafdac0d9d5610408157e528c053d6)
 * [NAVER Tech Talk: 개발언어, 설계(2018년 2월)](https://d2.naver.com/news/8149676)
+* [Up and running with ClojureScript in 2018](https://hackernoon.com/up-and-running-with-clojurescript-in-2018-7c7a1facfe46)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)

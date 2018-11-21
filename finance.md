@@ -96,6 +96,7 @@ Finance
 * [머신러닝을 활용한 주가 수익률 결정 모형](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/25b846bd769858e92cf8f19b8254e4a2#/)
 * [발틱운임지수(BDI)와 해양운송업(팬오션, 대한해운)](https://nbviewer.jupyter.org/gist/FinanceData/251a316216e5ded4dfbe2669e7d5f888)
 * [Stock Prediction in Python Make (and lose) fake fortunes while learning real Python](https://towardsdatascience.com/stock-prediction-in-python-b66555171a2)
+* [Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/)
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
 * **[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)**
 * [데이터셋 - 시가총액 데이터](https://github.com/FinanceData/marcap)

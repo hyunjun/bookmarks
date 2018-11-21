@@ -233,6 +233,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-nov-2018-781044d43aed)
   * [JavaScript Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f)
   * [JavaScript Open Source of the Month (v.July 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-july-2018-626eee418a74)
   * [JavaScript Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/javascript-open-source-projects-of-the-month-v-june-2018-48b38f3fcbf0)
@@ -390,6 +391,7 @@ Javascript
 * [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
+* [Angular Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-nov-2018-2eb5ec9e3b35)
 * [Angular Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-june-2018-969a00e0c451)
 * [Angular Open Source of the Month (v.May 2018)](https://medium.mybridge.co/angular-open-source-of-the-month-v-may-2018-a54111b8ea4a)
 * [Angular Top 10 for the Past Month (v.May 2018)](https://medium.mybridge.co/angular-top-10-for-the-past-month-v-may-2018-d6ec700870d)
@@ -1130,6 +1132,7 @@ Javascript
 * [Node.js development on Kubernetes with Skaffold file sync](https://hackernoon.com/node-js-development-with-skaffold-file-sync-99c687b906d5)
 * [How to customize Node.js .env files for different environment stages](https://medium.freecodecamp.org/nodejs-custom-env-files-in-your-apps-fa7b3e67abe1)
 * [Demystify The Multi-threading in Node.JS](https://hackernoon.com/demystify-the-multi-threading-in-node-js-4ff07eae9abe)
+* [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1306,6 +1309,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-oct-2018-1d2540bfbd7a)
 * [React.js Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/react-js-open-source-projects-of-the-month-v-june-2018-707339ace0d6)
 * [React.js Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-nov-2018-bb199eea39b1)
 * [React.js Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-june-2018-1ff4302fc72c)

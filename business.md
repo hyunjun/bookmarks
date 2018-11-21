@@ -177,6 +177,7 @@ Business
 * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
 * [나를 지키기 위한 10가지 원칙](https://brunch.co.kr/@hyungsukkim/61)
 * [질문할 때, 생각할 때, 실행할 때](https://brunch.co.kr/@hyungsukkim/89) 당연한 이야기지만 그냥 지나치기 쉬운 부분
+* [김게, 그리고 넓게](https://brunch.co.kr/@hyungsukkim/95) 일하는 방법에 대한 이야기
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [희생 vs 헌신](http://www.andrewahn.co/silicon-valley/sacrifice-vs-dedication/)
 * [전략 기획자의 책 1](https://brunch.co.kr/@lunarshore/292)

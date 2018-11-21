@@ -162,6 +162,7 @@ Keras
 * **[딥러닝의 Hello World, Fashion-MNIST](https://tykimos.github.io/2018/09/30/Hello_Fashion_MNIST/)**
 * [Elmo Embeddings in Keras with TensorFlow hub](https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440)
 * [Keras implementation of Deeplabv3+](https://github.com/bonlime/keras-deeplab-v3-plus)
+* [Deploying a Keras Deep Learning Model as a Web Application in Python](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff) flask 사용
 
 # GAN
 * [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)

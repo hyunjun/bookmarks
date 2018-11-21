@@ -65,9 +65,17 @@ Functional Programming
 * [All I needed for FP I learned in High School Algebra - Eric Normand](https://www.youtube.com/watch?v=epT1xgxSpFU) clojure
 * [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 * [What Is Functional Programming?](https://www.youtube.com/watch?v=kJuJU-7_utA)
+* So You Want to be a Functional Programmer
+  * [Part 1](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+  * [Part 2](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-2-7005682cec4a)
+  * [Part 3](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-3-1b0fd14eb1a7)
+  * [Part 4](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-4-18fbe3ea9e49)
+  * [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
+  * [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
+* [Algebraic Data Types in four languages](https://blog.softwaremill.com/algebraic-data-types-in-four-languages-858788043d4e)
 
 # Book
 * [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
@@ -78,6 +86,9 @@ Functional Programming
 * [Functional Programming in C++](https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/)
 * [Ndc17 ppt fp_in_modern_c++(https://www.slideshare.net/isaacjeon/ndc17-ppt-fpinmodernc)
 * [Monads in C++ 번역](http://postgame.tistory.com/635)
+
+# Curry
+* [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
 
 # Functor
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)
@@ -157,6 +168,8 @@ Functional Programming
 * [The Curse of Understanding](https://lqez.github.io/blog/the-curse-of-understanding.html)
 * [모나드 합성의 대안](https://medium.com/@jooyunghan/%EB%AA%A8%EB%82%98%EB%93%9C-%ED%95%A9%EC%84%B1%EC%9D%98-%EB%8C%80%EC%95%88-158a0b8cdbf1)
 * [JavaScript 모나딕 파서](https://medium.com/@jooyunghan/javascript-%EB%AA%A8%EB%82%98%EB%94%95-%ED%8C%8C%EC%84%9C-c17fe5033f26)
+* [A Monad Menagerie](https://medium.com/@JLHLonline/a-monad-menagerie-15e5b96d9ca7)
+* [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)

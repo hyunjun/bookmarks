@@ -405,6 +405,7 @@
   * [Querying our Data Lake in S3 using Zeppelin and Spark SQL](https://medium.com/@deniseschlesinger/querying-our-data-lake-in-s3-using-zeppelin-and-spark-sql-be50c3b7a613)
   * [Learning Spark SQL with Zeppelin](https://hortonworks.com/tutorial/learning-spark-sql-with-zeppelin/)
   * [SQL Pivot: Converting Rows to Columns](https://databricks.com/blog/2018/11/01/sql-pivot-converting-rows-to-columns.html) 2.4
+  * [SQL at Scale with Apache Spark SQL and DataFrames — Concepts, Architecture and Examples](https://towardsdatascience.com/sql-at-scale-with-apache-spark-sql-and-dataframes-concepts-architecture-and-examples-c567853a702f)
 * Exploring Spark DataSource V2
   * [Part 1 : Limitations of Data Source V1 API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-1/)
   * [Part 2 : Anatomy of V2 Read API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-2/)
