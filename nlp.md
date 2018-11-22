@@ -917,6 +917,9 @@ NLP
 * [Perform sentiment analysis with LSTMs, using TensorFlow](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
 * [Sentence classification by MorphConv](https://nbviewer.jupyter.org/github/aisolab/TF_code_examples_for_Deep_learning/blob/master/Sentence%20classification%20by%20MorphConv.ipynb)
 * [Sentiment Analysis](https://github.com/tensorflow/models/tree/master/research/sentiment_analysis)
+* [How to build a simple text classifier with TF-Hub](https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub)
+  * [예제의 텍스트 임베딩 함수](https://tfhub.dev/google/nnlm-en-dim128/1)가 estimator로 바로 피딩되는 바람에 feature vector 자체에 접근 불가능
+  * 이를 해결한 방법 [demo_sentence_feature.ipynb](https://github.com/sjchoi86/deep-robust-nlp/blob/master/code/demo_sentence_feature.ipynb)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)

@@ -126,6 +126,7 @@ Machine Learning
   * [Part 1](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
   * [Part 2 Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
+* [Machine Learning Tutorial Videos | Simplilearn](https://www.youtube.com/playlist?list=PLEiEAq2VkUULYYgj13YHUWmRePqiu8Ddy)
 * [머피의 머신러닝 : Gaussian Processes](http://www.slideshare.net/JungkyuLee1/gaussian-processes)
 * [머피의 머신러닝 13 Sparse Linear Model](http://www.slideshare.net/JungkyuLee1/13-sparse-linear-model)
 * [Data-Analysis-and-Machine-Learning-Projects/example-data-science-notebook/Example Machine Learning Notebook.ipynb](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)

@@ -273,11 +273,12 @@ App
   * [개발 생산성을 올려주는 VSCode의 소소(?)한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
   * [웹 개발 시 유용한 VSCode Extension](http://jetalog.net/70)
   * [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
-  * Prettier
-    * [나중에 알면 후회한다. 코딩 인생템 'Prettier' (Useful VSC Extension: Prettier)](https://www.youtube.com/watch?v=ya78lQi5vVI)
   * [VS CODE Git 5k 없애는 방법(how to delete vs code git 5k)](https://seanlion.github.io/blog/25)
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
   * [Pro tips for Visual Studio Code to be productive in 2018](https://medium.com/@i_AnkurBiswas/pro-tips-for-visual-studio-code-to-be-productive-in-2018-d5252e914561)
+  * [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
+  * Prettier
+    * [나중에 알면 후회한다. 코딩 인생템 'Prettier' (Useful VSC Extension: Prettier)](https://www.youtube.com/watch?v=ya78lQi5vVI)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you

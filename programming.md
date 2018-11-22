@@ -343,6 +343,7 @@ Programming
     * [Part 1](https://developer.akamai.com/blog/2017/03/28/need-know-caching-part-1/)
     * [Part 2](https://developer.akamai.com/blog/2017/04/06/need-know-caching-part-2/)
     * [Part 3](https://developer.akamai.com/blog/2017/04/14/need-know-caching-part-3/)
+  * [HTTP 캐싱](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven

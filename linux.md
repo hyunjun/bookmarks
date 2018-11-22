@@ -117,6 +117,7 @@ Linux
 * [유닉스 쉘](https://statkclee.github.io/shell-novice-kr/)
 * [유닉스 쉘(Unix Shell)](http://statkclee.github.io/shell-novice/index-kr.html)
 * [SCP vs SFTP - 5 Key Comparisons](https://www.jscape.com/blog/scp-vs-sftp)
+* [Linux 공부 14 - 개념 정리](http://throughkim.kr/2017/01/09/linux-14/)
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)

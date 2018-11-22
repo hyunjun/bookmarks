@@ -2534,6 +2534,7 @@ Python
 * [Pandas: 그룹 내에서 상위 n개 가져오기](http://ohgyun.com/776)
 * [The Art of Cleaning Your Data](https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726)
 * [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
+* [Python Pandas Tutorial | Pandas For Data Analysis | Python Pandas | Python Tutorial | Simplilearn](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
