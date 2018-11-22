@@ -1768,3 +1768,4 @@ Javascript
   * [7. Vuex Best Practice로 가는 여정](https://jaeyeophan.github.io/2018/11/17/Vuetorials-7-Vuex-Best-Practice/)
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)
 * [GUI로 Vue 프로젝트 쉽게 만들기](https://wormwlrm.github.io/2018/11/17/How-to-create-Vue-project-using-CLI-3.html)
+* [Vue.js 컴포넌트 재사용하기 - slot 편](https://joshua1988.github.io/web-development/vuejs/slots/)

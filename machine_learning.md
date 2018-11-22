@@ -662,6 +662,7 @@ Machine Learning
 * [Join Us: An Introduction to Using k-NN in Production](https://blog.dominodatalab.com/join-us-introduction-using-k-nn-production/)
 * [A Summary of Using k-NN in Production](https://blog.dominodatalab.com/summary-using-k-nn-production/)
 * [Introduction to k-Nearest-Neighbors](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
+* [TOROS N2](https://brunch.co.kr/@kakao-it/300)
 
 # K-means
 * [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)

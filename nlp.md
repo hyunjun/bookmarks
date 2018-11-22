@@ -914,6 +914,9 @@ NLP
 * [소셜 미디어 감성분석을 통한 주가 예측](http://blog.naver.com/anthouse28/221082691132)
 * [Detecting Sarcasm with Deep Convolutional Neural Networks](https://medium.com/dair-ai/detecting-sarcasm-with-deep-convolutional-neural-networks-4a0657f79e80)
 * [Basic Data Cleaning/Engineering Session Twitter Sentiment Data](https://towardsdatascience.com/basic-data-cleaning-engineering-session-twitter-sentiment-data-95e5bd2869ec)
+* [Perform sentiment analysis with LSTMs, using TensorFlow](https://www.oreilly.com/learning/perform-sentiment-analysis-with-lstms-using-tensorflow)
+* [Sentence classification by MorphConv](https://nbviewer.jupyter.org/github/aisolab/TF_code_examples_for_Deep_learning/blob/master/Sentence%20classification%20by%20MorphConv.ipynb)
+* [Sentiment Analysis](https://github.com/tensorflow/models/tree/master/research/sentiment_analysis)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)

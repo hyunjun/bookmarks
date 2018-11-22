@@ -245,6 +245,8 @@ ElasticSearch - Lucene
 * [Life after Google Search Appliance: A Better Way to Crawl and Search with Elastic Site Search](https://www.elastic.co/webinars/life-after-google-search-appliance-a-better-way-to-crawl-and-search-with-elastic-site-search)
 * [Elastic Search](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181011_JM_elasticsearch_1.md)
 * [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
+* [Beats 및Elasticsearch를 이용한 Docker & Kubernetes 로그 수집 및 모니터링](https://www.elastic.co/kr/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers)
+* [Elasticsearch의 색인 별명 활용 팁](https://www.ridicorp.com/blog/2018/11/20/index-aliases)
 
 # Docker
 * Dockerfile

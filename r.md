@@ -1,5 +1,6 @@
 R
 =
+* [awesome-r.com](https://awesome-r.com/)
 * [R – 체계적 위험 척도 베타 계수 자동 계산](http://www.creativeworksofknowledge.com/2015/04/10/calculating-beta-coefficient-using-r/)
 * [The easiest way to learn R programming and data science](https://www.datacamp.com/)
 * **[mrkevinna.github.io](https://mrkevinna.github.io/)** crawler, 시각화, 기계학습, 분류모형, ...

@@ -47,6 +47,7 @@ Writing
 * [존 그리샴의 글쓰기 팁](https://estimastory.com/2017/06/07/grishamtips/)
 * [조성일의 글쓰기 충전소](http://media.daum.net/series/519676)
 * [문장을 깔끔하게 쓰는 9가지 팁](https://imgur.com/a/2KArC6I)
+* [뜻이 모호하지 않은 문장을 써야 한다](https://brunch.co.kr/@jigunamja/1300)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)

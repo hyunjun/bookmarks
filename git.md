@@ -136,6 +136,7 @@ Git
 * [Git을 사용한 버젼 관리](http://statkclee.github.io/git-novice/index-kr.html)
 * [Git을 이용한 더 나은 버전관리](https://speakerdeck.com/ibluemind/giteul-iyonghan-deo-naeun-beojeongwanri)
 * [How not to be afraid of Git anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)
+* [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

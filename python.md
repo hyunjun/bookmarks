@@ -1756,6 +1756,7 @@ Python
     * [Conda에 대한 간단 고찰 및 mac에서 Jupyter notebook 시 오류 해결](http://mcchae.egloos.com/11267105)
     * [Why you need Python environments and how to manage them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
     * [conda 환경에서 pip 패키지도 동시에 업데이트 하기](http://ohgyun.com/774)
+    * `conda install accelerate` [How to put that GPU to good use with Python](https://weeraman.com/put-that-gpu-to-good-use-with-python-e5a437168c01)
   * **[Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)**
   * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)

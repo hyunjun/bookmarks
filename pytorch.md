@@ -125,6 +125,7 @@ PyTorch
 * [FloWaveNet : A Generative Flow for Raw Audio](https://github.com/ksw0306/FloWaveNet)
 * [UIS-RNN - the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm. UIS-RNN solves the problem of segmenting and clustering sequential data by learning from examples](https://github.com/google/uis-rnn)
 * [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
+* [pytorch-acer - An Implementation of Sample Efficient Actor-Critic with Experience Replay](https://github.com/belepi93/pytorch-acer)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -153,6 +154,7 @@ PyTorch
 * [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
+* [EuclidesDB - a multi-model machine learning feature database that is tight coupled with PyTorch](https://euclidesdb.readthedocs.io)
 * [fairseq-py - Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/facebookresearch/fairseq-py)
 * [FastPhotoStyle](https://github.com/nvidia/fastphotostyle)
 * [Glow - a machine learning compiler and execution engine for various hardware targets](https://github.com/pytorch/glow/)
