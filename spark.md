@@ -733,6 +733,7 @@
 * **[Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html)** Apache Spark, Storm, Flink, Samze를 비교 분석
 * [Kafka Streams vs. Spark Structured Streaming](https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming)
 * [Kafka Streams vs. Spark Structured Streaming (extended)](https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming-extended)
+* [Scaling Spark Streaming for Logging Event Ingestion](https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)

@@ -126,6 +126,8 @@ PyTorch
 * [UIS-RNN - the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm. UIS-RNN solves the problem of segmenting and clustering sequential data by learning from examples](https://github.com/google/uis-rnn)
 * [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
 * [pytorch-acer - An Implementation of Sample Efficient Actor-Critic with Experience Replay](https://github.com/belepi93/pytorch-acer)
+* [A Simple Neural Network from Scratch with PyTorch and Google Colab](https://medium.com/dair-ai/a-simple-neural-network-from-scratch-with-pytorch-and-google-colab-c7f3830618e0)
+* [Variational AutoEncoders for new fruits with Keras and Pytorch](https://becominghuman.ai/variational-autoencoders-for-new-fruits-with-keras-and-pytorch-6d0cfc4eeabd)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -176,6 +178,7 @@ PyTorch
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
 * [tensorboardX - Write TensorBoard events with simple function call](https://github.com/lanpa/tensorboard-pytorch)
+* [TorchCraftAI - a platform that lets you build agents to play (and learn to play) StarCraft®: Brood War](https://github.com/TorchCraft/TorchCraftAI)
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)

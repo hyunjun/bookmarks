@@ -89,6 +89,9 @@ Redis
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * CONFIG
   * `config get maxclients` or `echo "config get maxclients" | nc -v <redis server> <redis port>` 현재 설정된 최대 접속 허용 client 개수
+  * [Redis RENAME-COMMAND Parameter](http://redisgate.kr/redis/configuration/param_rename-command.php)
+    * 성능저하 혹은 운영상 위험이 발생할 수 있는 명령의 이름을 바꾸는 방법
+    * redis.conf에서 해당 명령을 변경 e.g. flushall -> xflushall, flushdb -> xflushdb
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
   * `info, info('cpu'), info('memory'), ...` in python
   * `info clients` or `echo "info clients" | nc -v <redis server> <redis port>` connected clients 개수
@@ -108,6 +111,7 @@ Redis
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
+* [redis-rdb-tools Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON https://rdbtools.com ](https://github.com/sripathikrishnan/redis-rdb-tools)
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
 * ~[SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)~
 * [Spark-Redis - A library for reading and writing data from and to Redis with Apache Spark](https://github.com/RedisLabs/spark-redis)

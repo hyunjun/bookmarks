@@ -553,6 +553,7 @@ Programming
   * [2. Github, IntelliJ와 연동하기](http://jojoldu.tistory.com/257)
   * [3. 코드리뷰 & Pull Request](http://jojoldu.tistory.com/258)
   * [4. Code intelligence](https://jojoldu.tistory.com/352)
+  * [5. Project Page](https://jojoldu.tistory.com/353)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
 * [Unlearning Toxic Behaviors in a Code Review Culture](https://medium.com/@sandya.sankarram/unlearning-toxic-behaviors-in-a-code-review-culture-b7c295452a3c)
 * [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
@@ -641,7 +642,8 @@ Programming
 * [calltospeakers.com](https://calltospeakers.com)
 * Deview
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
-  * [DEVIEW 2018 1일차 후기](https://www.popit.kr/deview-2018-1%EC%9D%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0/)
+  * [2018](https://deview.kr/2018)
+    * [DEVIEW 2018 1일차 후기](https://www.popit.kr/deview-2018-1%EC%9D%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0/)
   * [2017](https://deview.kr/2017/)
     * [DAY 1 세션 발표자료](http://d2.naver.com/news/2219482)
     * [DAY 2 세션 발표자료](http://d2.naver.com/news/9178380)
@@ -1143,6 +1145,7 @@ Programming
   * [Google RPC 설치하기](http://bcho.tistory.com/1013)
   * [grpc (google rpc)에 대한 분석 #1](http://bcho.tistory.com/1012)
   * [구글의 HTTP 기반의 RPC 프로토콜 GRPC](http://bcho.tistory.com/1011)
+  * [gRPC Channel, Stream 개념](http://bcho.tistory.com/1294)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 

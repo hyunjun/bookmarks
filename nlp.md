@@ -1210,3 +1210,4 @@ NLP
 * [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
 * [간편한 토픽 모델링 툴 Tomoto Gui](http://bab2min.tistory.com/602)
 * [An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)](https://medium.com/analytics-vidhya/an-nlp-approach-to-mining-online-reviews-using-topic-modeling-with-python-codes-9d766e783003)
+* [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)

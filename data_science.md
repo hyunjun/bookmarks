@@ -9,6 +9,7 @@ Data Science
   * [온라인 서비스 개선을 데이터 활용법 (How We Use Data 발표)](http://www.hellodatascience.com/?p=690)
   * [데이터 지능(Data Intelligence) 팟캐스트](http://www.hellodatascience.com/?p=751)
 * [인정받는 데이터 분석가 되기 – 외부 세미나 요약 –](http://freesearch.pe.kr/archives/4384)
+* [데이터 분석가는 어떤 SKILLSET을 가져야 하는가?](https://www.slideshare.net/HeeSeo/skillset-123722714)
 * [Overfitting을 피해보자!](http://freesearch.pe.kr/archives/4487)
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)

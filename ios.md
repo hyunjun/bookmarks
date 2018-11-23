@@ -279,6 +279,8 @@ iOS
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
 * [github.com/Mybridge/learn-swift](https://github.com/Mybridge/learn-swift)
+  * [Swift Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-nov-2018-b3c7a20bf066)
+  * [Swift Top 10 Articles for the Past Month (v.Oct 2018)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-oct-2018-38222e5a775d)
   * [Swift Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/swift-open-source-of-the-month-v-oct-2018-93c12684d98f)
   * [Top 10 Swift Open Source of the Month (v.May 2018)](https://medium.mybridge.co/top-10-swift-open-source-of-the-month-v-may-2018-c581e2accc66)
   * [Swift Top 10 Articles for the Past Month (v.May 2018)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-may-2018-daf0aa192a39)
