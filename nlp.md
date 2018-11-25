@@ -243,6 +243,7 @@ NLP
   * [raws - Real-time Automatic Word Segmentation (for user-generated texts)](https://github.com/warnikchow/raws) 한영 noisy text segmentation
 * [NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
 * [Industrial strength Natural Language Processing](https://medium.freecodecamp.org/industrial-strength-natural-language-processing-de2588b6b1ed)
+* [HMTL로 NLP의 최첨단 기술을 뛰어 넘다](https://parksurk.github.io/Beyond_current_NLP_with_HMTL-post)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -768,6 +769,7 @@ NLP
 * [CS 447: Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2017/)
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
+  * [NLP_COURSE: A Deep Learning YSDA Natural Language Processing Course By GitHub](https://www.techleer.com/articles/570-nlp_course-a-deep-learning-ysda-natural-language-processing-course-by-github)
 
 # Named Entity
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)
@@ -1167,6 +1169,7 @@ NLP
   * 두개의 주어진 단어 사이의 연관성은 단어에 대한 임베딩 벡터 사이의 코사인 유사성으로 정의
 * [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
+* [PyData Tel Aviv Meetup: Node2vec - Elior Cohen](https://www.youtube.com/watch?v=828rZgV9t1g)
 * [Word2Vec](https://www.youtube.com/watch?v=sY4YyacSsLc)
 * [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
 * [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning/)

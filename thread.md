@@ -15,6 +15,7 @@ Thread
 * [process와 thread에 대한 정리](https://magi82.github.io/process-thread/)
 * **[바람직한 멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)** job system, job stealing, dependency graph
 * **[non blocking/async IO vs. multithreads](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how/8546444#8546444)**
+* [Difference between mutual exclusion and synchronization](https://www.8bitavenue.com/2017/12/difference-between-mutual-exclusion-and-synchronization)
 
 # c++
 * [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)

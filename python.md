@@ -797,6 +797,7 @@ Python
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
 * pydoc
   * [PyDoc - A Celebration of Documentation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=URBSvqib0xw)
+  * [Best Practices With Documenting and Refactoring Python Code](https://www.youtube.com/watch?v=S8P_pJrw9uk)
 * re
   * practice
     * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)

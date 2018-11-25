@@ -395,6 +395,7 @@ Programming
     * [#1](http://bcho.tistory.com/1243)
     * [#2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
     * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
+  * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
@@ -431,6 +432,8 @@ Programming
 * [쿠팡 서비스 클라우드 마이그레이션 통해 배운것들](https://www.slideshare.net/deview/115-119061611)
 * [마이크로 서비스 아키텍쳐와 컨테이너](http://bcho.tistory.com/1289)
 * [Istio #1 - 마이크로 서비스와 서비스 매쉬](http://bcho.tistory.com/1293)
+* [Istio #2 - Envoy Proxy](http://bcho.tistory.com/1295)
+* [Istio #3 - Istio에 대한 소개](http://bcho.tistory.com/1296)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -522,6 +525,7 @@ Programming
   * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
   * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
+  * [GKE 차근 차근 알아보기 1탄 — GKE 개요](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%83%84-gke-%EA%B0%9C%EC%9A%94-382dc69b2ec4)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)

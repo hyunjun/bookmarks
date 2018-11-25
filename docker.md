@@ -17,6 +17,7 @@ Docker
 * [Docker: Getting Started with Docker Docker 시작하기](http://www.sauru.so/blog/getting-started-with-docker/)
 * [Docker: Installation and Test Drive Utuntu 위에 Docker 설치하고 맛보기](http://www.sauru.so/blog/docker-installation-and-test-drive/)
 * [Docker: 나의 첫 Docker Image Build and Push my own Docker Image](http://www.sauru.so/blog/build-my-first-docker-image/)
+* [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)

@@ -149,6 +149,7 @@ Deep Learning
 * [Deep Learning Startups, Applications and Acquisitions – A Summary](http://blog.dennybritz.com/2015/10/13/deep-learning-startups-applications-and-acquisitions-a-summary/)
 * [Theoretical Motivations for Deep Learning](http://rinuboney.github.io/2015/10/18/theoretical-motivations-deep-learning.html)
 * [How We Use Deep Learning to Classify Business Photos at Yelp](http://engineeringblog.yelp.com/2015/10/how-we-use-deep-learning-to-classify-business-photos-at-yelp.html)
+* [PyData Tel Aviv Meetup: Deep Analysis of Clickstream - Segev Arbiv](https://www.youtube.com/watch?v=YBl1H3fPBAQ) classify web traffic
 * [Artificial Intelligence, Neural Networks, and Deep Learning](http://kimschmidtsbrain.com/2015/10/29/artificial-intelligence-neural-networks-and-deep-learning/)
 * [Deep Learning in a Single File for Smart Devices](http://dmlc.ml/mxnet/2015/11/10/deep-learning-in-a-single-file-for-smart-device.html)
 * [Boosting Methods](http://enginius.tistory.com/m/post/606)
@@ -1196,6 +1197,7 @@ Deep Learning
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
   * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
+* [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
