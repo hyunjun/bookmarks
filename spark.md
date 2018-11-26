@@ -477,6 +477,7 @@
 * [CueSheet - a framework for writing Apache Spark 2.x applications more conveniently](https://github.com/kakao/cuesheet)
   * [No More "sbt assembly": Rethinking Spark-Submit using CueSheet](http://www.slideshare.net/jongwookkim/rethinking-sparksubmit-using-cuesheet)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
+* [Spark performance tuning eng](https://www.slideshare.net/haiteam/spark-performance-tuning-eng)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
   * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)

@@ -325,6 +325,7 @@ R
   * [R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot](https://www.youtube.com/watch?v=ANMuuq502rE)
   * [chunked - Chunkwise Text-file Processing for 'dplyr'](https://github.com/edwindj/chunked)
   * [dplyr로 DB 데이터를 다룰 때 여러 테이블을 union 해보자](https://mrchypark.github.io/post/rtips-dplyr%EB%A1%9C-db-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%8B%A4%EB%A3%B0-%EB%95%8C-%EC%97%AC%EB%9F%AC-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-union-%ED%95%B4%EB%B3%B4%EC%9E%90)
+  * [dplyr 문법을 통한 전처리를 SQL 로의 스위칭](https://lovetoken.github.io/r/2018/11/24/dplyrquery.html)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
 * [Gifski on CRAN: the fastest GIF encoder in the universe](https://ropensci.org/technotes/2018/07/23/gifski-release/)
 * [FastRText - R wrapper for Fasttext](https://github.com/pommedeterresautee/FastRText)

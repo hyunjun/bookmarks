@@ -58,6 +58,7 @@ Programming Books
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
 * (NOT YET) **[빅데이터를 지탱하는 기술](http://jpub.tistory.com/8610)**
 * (NOT YET) [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
+* ["맨먼스미신" 서평](https://www.popit.kr/%EB%A7%A8%EB%A8%BC%EC%8A%A4%EB%AF%B8%EC%8B%A0-%EC%84%9C%ED%8F%89)
 
 # Agile Scrum
 

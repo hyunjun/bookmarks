@@ -1465,6 +1465,7 @@ Javascript
 * [useHooks - One new React Hook recipe every day](https://usehooks.com)
 * [Why React Hooks, and how did we even get here?](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 * [syntax.fm/show/092/react-hooks](https://syntax.fm/show/092/react-hooks) podcast
+* [An Introduction to Hooks in React](https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
@@ -1475,6 +1476,7 @@ Javascript
 * [reactjs-interview-questions-ko](https://github.com/appear/reactjs-interview-questions-ko)
 * [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
 * [Reconciliation: React의 렌더링 알고리즘](https://www.huskyhoochu.com/virtual-dom)
+* [NAVER Tech Talk: React Native (2018년 7월, 10월)](https://d2.naver.com/news/5689003)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

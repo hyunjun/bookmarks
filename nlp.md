@@ -234,7 +234,6 @@ NLP
   * 시간 문제에 불과하다는 결론, BERT의 등장으로 현실에 가까워짐(ELMO - LSTM / OpenAI의 GPT, BERT - Transformer)
   * Pre-trained Models의 fine-tuning은 필수, 인간이 언어를 이해한다는 것이 그저 엄청난 계산에 불과할 뿐이라는 사실(정말인가?)
   * 이제 계산량을 줄이는 방법이 아니라 계산량을 늘리고 계산 속도를 높이는 방향이 옳을 지도 모름
-* [BERT – STATE OF THE ART LANGUAGE MODEL FOR NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp)
 * [github.com/warnikchow](https://github.com/warnikchow)
   * [DLK2NLP: Day-by-day Line-by-line Keras-based Korean NLP](https://github.com/warnikchow/dlk2nlp)
     * [3i4K - Intonation-aided intention identification for Korean](https://github.com/warnikchow/3i4k)
@@ -827,7 +826,10 @@ NLP
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.facebook.com/groups/TensorFlowKR/permalink/767590103582050/)
   * [BERT TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
   * [bert-as-service - Mapping a variable-length sentence to a fixed-length vector using pretrained BERT model](https://github.com/hanxiao/bert-as-service)
+  * [BERT – STATE OF THE ART LANGUAGE MODEL FOR NLP](https://www.lyrn.ai/2018/11/07/explained-bert-state-of-the-art-language-model-for-nlp)
   * [Language Learning with BERT - TensorFlow and Deep Learning Singapore](https://www.youtube.com/watch?v=0EtD5ybnh_s)
+  * [BERT-NER - Use google BERT to do CoNLL-2003 NER !](https://github.com/kyzhouhzau/BERT-NER)
+  * [BERT-BiLSMT-CRF-NER - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning](https://github.com/macanv/BERT-BiLSMT-CRF-NER)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
@@ -1189,6 +1191,7 @@ NLP
   * [When in Doubt, Simplify](https://towardsdatascience.com/word-embeddings-and-document-vectors-when-in-doubt-simplify-8c9aaeec244e)
 * [Various Optimisation Techniques and their Impact on Generation of Word Embeddings](https://hackernoon.com/various-optimisation-techniques-and-their-impact-on-generation-of-word-embeddings-3480bd7ed54f)
 * [Word Vector Representation for Korean: Evaluation Set](https://github.com/SungjoonPark/KoreanWordVectors)
+* [Word2Vec 강의 정리](http://mobicon.tistory.com/560)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

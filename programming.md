@@ -434,6 +434,7 @@ Programming
 * [Istio #1 - 마이크로 서비스와 서비스 매쉬](http://bcho.tistory.com/1293)
 * [Istio #2 - Envoy Proxy](http://bcho.tistory.com/1295)
 * [Istio #3 - Istio에 대한 소개](http://bcho.tistory.com/1296)
+* [Istio #4 - 설치 및 BookInfo 예제](http://bcho.tistory.com/1297)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -526,6 +527,7 @@ Programming
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
   * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
   * [GKE 차근 차근 알아보기 1탄 — GKE 개요](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%83%84-gke-%EA%B0%9C%EC%9A%94-382dc69b2ec4)
+  * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -997,6 +999,7 @@ Programming
   * [10월 5주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-10-5.html)
   * [11월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-1.html)
   * [11월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-11-2.html)
+  * [11월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
