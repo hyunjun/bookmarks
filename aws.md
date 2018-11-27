@@ -243,6 +243,7 @@ AWS
 * [AWS2 - S3](https://opentutorials.org/module/3815)
   * [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
 * [Introduction to AWS Batch](https://github.com/DevStarSJ/Study/blob/master/Blog/Cloud/AWS/Batch/aws-batch-tutorial.md)
+* [Machine Learning - Built on the AWS Cloud. Developed for Amazon developers and engineers. Available now](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

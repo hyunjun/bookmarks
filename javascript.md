@@ -536,6 +536,7 @@ Javascript
 * [JavaScript’s journey with ECMA: ES 2017](https://hackernoon.com/javascripts-journey-with-ecma-es-2017-2ad36a7f9538)
 * [Javascript ES6 — You don’t really need to learn Generators](https://hackernoon.com/javascript-es6-you-dont-really-need-to-learn-generators-96aa2e9114fa)
 * [JavaScript is Becoming Pythonic ECMAScript 2015 and Beyond](https://treyhunner.com/javascript-is-like-python/#/)
+* [ECMAScript 6](https://tech.10000lab.xyz/javascript/ecmascript6.html)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
