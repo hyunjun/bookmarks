@@ -780,6 +780,7 @@ NLP
   * 그런 다음 기사에서 가장 두드러진 조직과 이름을 찾아 딥러닝 모델은 각 단어를 위의 4가지 범주로 분류
   * 그런 다음 원치 않는 태깅을 필터링하고 가장 유명한 이름과 조직을 찾는 규칙 기반 접근 방식
 * [Named Entity Recognition: Milestone Models, Papers and Technologies](https://blog.paralleldots.com/data-science/named-entity-recognition-milestone-models-papers-and-technologies)
+* [Introduction to Named Entity Recognition](https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-recognition-eda8c97c2db1)
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
@@ -924,6 +925,7 @@ NLP
 * [How to build a simple text classifier with TF-Hub](https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub)
   * [예제의 텍스트 임베딩 함수](https://tfhub.dev/google/nnlm-en-dim128/1)가 estimator로 바로 피딩되는 바람에 feature vector 자체에 접근 불가능
   * 이를 해결한 방법 [demo_sentence_feature.ipynb](https://github.com/sjchoi86/deep-robust-nlp/blob/master/code/demo_sentence_feature.ipynb)
+* [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -1192,6 +1194,7 @@ NLP
 * [Various Optimisation Techniques and their Impact on Generation of Word Embeddings](https://hackernoon.com/various-optimisation-techniques-and-their-impact-on-generation-of-word-embeddings-3480bd7ed54f)
 * [Word Vector Representation for Korean: Evaluation Set](https://github.com/SungjoonPark/KoreanWordVectors)
 * [Word2Vec 강의 정리](http://mobicon.tistory.com/560)
+* [Word2Vec — a baby step in Deep Learning but a giant leap towards Natural Language Processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)

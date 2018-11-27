@@ -34,6 +34,7 @@ Docker
   * [2강](https://www.youtube.com/watch?v=RlezLB66KPg)
   * [3강](https://www.youtube.com/watch?v=9K6TNCLlqOI)
   * [4강](https://www.youtube.com/watch?v=eNsDjKKLFCA)
+* [Getting started with Docker #1](https://itnext.io/getting-started-with-docker-1-b4dc83e64389)
 * [Docker 이해하기](https://tech.osci.kr/docker/2018/09/10/45749387)
 * [Oracle Code Seoul 2017 - Docker 초보자들이 듣는 Container Cloud Service를 활용한 애플리케이션 컨테이너화](https://www.youtube.com/watch?v=vcd45mo0V9E)
 * [내가 필요한 Docker Image 만들기](http://www.nurinamu.com/dev/2016/07/04/create-a-docker-image/)
@@ -282,6 +283,7 @@ Docker
 * [docker container 활용 #5](http://ahnseungkyu.com/245) docker image size 줄이기
 * [Docker Based Web Hosting](https://code.shoplic.kr/docker-based-web-hosting)
 * [Demystifying containers 101: a deep dive into container technology for beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
+* [The TICK stack as a Docker Application Package](https://medium.com/lucjuggery/the-tick-stack-as-a-docker-application-package-1d0d6b869211)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -509,6 +511,7 @@ Docker
 * [쿠버네티스 개념 설명과 에코 시스템 (Spinnaker, Istio, KNative 설명)](http://bcho.tistory.com/1281)
 * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
 * [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
+* [An 8-minute introduction to K8S](https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
@@ -647,3 +650,4 @@ Docker
 # Windows
 * [Windows Docker Toolbox에서 Host PC와 폴더 공유하기](http://bryan7.tistory.com/797)
 * [Using Docker Tools on Windows 10 with Hyper-V](http://daddycat.blogspot.com/2017/07/using-docker-tools-on-windows-10-with.html)
+* [Windows Service를 컨테이너로 옮기기](https://medium.com/rkttu/move-windows-service-to-container-74043491f9ff)

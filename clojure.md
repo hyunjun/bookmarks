@@ -624,6 +624,7 @@ Clojure
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Sayid (siy EED) - a tool for debugging and profiling clojure code](http://bpiel.github.io/sayid/)
 * [Selmer](https://github.com/yogthos/Selmer) template
+* [shrubbery - A stubbing, spying, and mocking library for Clojure protocols](https://github.com/bguthrie/shrubbery)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [Specs](https://github.com/eunmin/clojure-specs) [Programming Clojure 5장](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 * [spec-coerce - A Clojure(script) library designed to leverage your specs to coerce your information into correct types](https://github.com/wilkerlucio/spec-coerce) core.spec에 빠진 coerce(강제 형변환) 기능 보완 가능

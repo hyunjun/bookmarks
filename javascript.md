@@ -191,6 +191,7 @@ Javascript
 * [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
 * [비동기 교통정리 - async.waterfall](http://jybaek.tistory.com/745)
 * [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://medium.freecodecamp.org/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40)
+* [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
 * [CPS로 스택오버플로 회피하기](https://medium.com/@jooyunghan/cps%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-11db11eb8d75)
@@ -375,6 +376,7 @@ Javascript
 * **[33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)**
 * [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
 * [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
+* [How to differentiate between deep and shallow copies in JavaScript](https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1089,6 +1091,7 @@ Javascript
 * [Mac에 설치된 node.js 제거하기](http://gomcine.tistory.com/entry/nodejs-Mac%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-nodejs-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-nov-2018-19b25a638588)
 * [Node.js Open Source of the Month (v.Aug 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-aug-2018-a3093d14943c)
 * [Node.js Open Source of the Month (v.July 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-july-2018-f4ec666bad64)
 * [Node.js Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-nov-2018-307c66f0d765)
@@ -1478,6 +1481,8 @@ Javascript
 * [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
 * [Reconciliation: React의 렌더링 알고리즘](https://www.huskyhoochu.com/virtual-dom)
 * [NAVER Tech Talk: React Native (2018년 7월, 10월)](https://d2.naver.com/news/5689003)
+* [How to Develop a Location-based Application Using React Native](https://medium.freecodecamp.org/how-to-develop-a-location-based-application-using-react-native-6f49cdbdac4f)
+* [How to create a three layer application with React](https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1681,6 +1686,7 @@ Javascript
 * [자바스크립트 개발자를 위한 타입스크립트](https://ahnheejong.gitbook.io/ts-for-jsdev/)
 * [타입스크립트에서 if문 안에 promise가 들어가는 문제 피하기](https://libsora.so/posts/prevent-bug-by-if-statement-with-promise/)
 * [React-TypeScript 프로덕트에서 인물사진 유효성 검사하기](https://meshkorea.github.io/react-ts-canvas-photo-upload/)
+* [Typescript inheritance deep dive](https://hackernoon.com/typescript-inheritance-deep-dive-9a53989af5a6)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
@@ -1789,3 +1795,4 @@ Javascript
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)
 * [GUI로 Vue 프로젝트 쉽게 만들기](https://wormwlrm.github.io/2018/11/17/How-to-create-Vue-project-using-CLI-3.html)
 * [Vue.js 컴포넌트 재사용하기 - slot 편](https://joshua1988.github.io/web-development/vuejs/slots/)
+* [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)

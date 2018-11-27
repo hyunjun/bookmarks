@@ -120,3 +120,4 @@ Artificial Intelligence
 # MOOC, Lecture
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [Learn AI for Free](https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990)
+* [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)

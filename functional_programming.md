@@ -136,6 +136,7 @@ Functional Programming
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
 * [람다 표현식의 장점](http://qwefgh90.github.io/java/Lambda-Expression/)
 * **[람다와 친해지고 싶다면](https://medium.com/@jooyunghan/%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-de8de2a99035)**
+* [Lambdas are not functional programming](https://medium.com/@johnmcclean/lambdas-are-not-functional-programming-63533ce2eb74)
 
 # Lisp
 * [Functional programming - Bodil Stokke](https://www.youtube.com/watch?v=DHubfS8E--o)

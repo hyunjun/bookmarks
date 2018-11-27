@@ -380,6 +380,7 @@ Programming
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
+* [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
@@ -436,6 +437,8 @@ Programming
 * [Istio #2 - Envoy Proxy](http://bcho.tistory.com/1295)
 * [Istio #3 - Istio에 대한 소개](http://bcho.tistory.com/1296)
 * [Istio #4 - 설치 및 BookInfo 예제](http://bcho.tistory.com/1297)
+* [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
+* [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)

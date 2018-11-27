@@ -220,6 +220,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-oct-2018-db86b787ec74)
   * [Python Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-nov-2018-34b6f7f8c22c)
   * [Python Open Source of the Month (v.Sep 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
   * [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)

@@ -5,6 +5,7 @@ SQL
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+* [The Wide World of Databases](https://blog.usejournal.com/a-light-introduction-to-databases-1154183ab852)
 * [In memory database plus traditional database combination back end architecture pattern](https://www.linkedin.com/grp/post/746917-5990940001540542468)
 * [DISTRIBUTED SQL DATABASE FOR THE AGE OF DOCKER](https://crate.io/)
 * [Aven is a code generator, create an .aven scheme file and the generator will iterate over your Database, tables and columns](https://github.com/joelbugarini/aven-generator)

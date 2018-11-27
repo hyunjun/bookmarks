@@ -702,6 +702,7 @@ Deep Learning
 * [알파고 분석 Part.1 - 엑셈 CTO 박재호](https://www.youtube.com/watch?v=b8MUVASzb8M)
 * [Alpha-Omok Minimal version of DeepMind AlphaZero](https://github.com/reinforcement-learning-kr/alpha_omok)
   * [알파오목](https://www.youtube.com/watch?v=rJHEM31Dxw8)
+* [쉽게 읽는 강화학습 논문 알파고 제로(Zero) 논문 리뷰](https://www.youtube.com/watch?v=CgOGKChwWrw)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -1171,6 +1172,8 @@ Deep Learning
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
+* **[Dive into Deep Learning - An interactive deep learning book for students, engineers, and reseachers](http://en.diveintodeeplearning.org/)**
+  * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
   * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)

@@ -195,6 +195,7 @@ Go
 * [The benefits of using Lodash in the Go language without reflection](https://medium.freecodecamp.org/the-benefits-of-using-lodash-in-the-go-language-without-reflection-1d64b5115486)
 * [Go를 프로젝트에 적용한다는 것은](https://www.youtube.com/watch?v=B5WKKyPkJxc)
 * [Go를 프로젝트에 적용한다는 것은](https://tv.naver.com/v/2669493)
+* [How to Build a photo feed with Go and Vue.js](https://medium.freecodecamp.org/how-to-build-a-photo-feed-with-go-and-vue-js-9d7f7f39c1b4)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

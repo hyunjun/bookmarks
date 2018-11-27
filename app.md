@@ -277,6 +277,7 @@ App
   * [Visual Studio Live Share](https://www.visualstudio.com/ko/services/live-share/)
   * [Pro tips for Visual Studio Code to be productive in 2018](https://medium.com/@i_AnkurBiswas/pro-tips-for-visual-studio-code-to-be-productive-in-2018-d5252e914561)
   * [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
+  * [VS Code snippets: the most powerful tool to boost your coding productivity](https://medium.freecodecamp.org/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00)
   * Prettier
     * [나중에 알면 후회한다. 코딩 인생템 'Prettier' (Useful VSC Extension: Prettier)](https://www.youtube.com/watch?v=ya78lQi5vVI)
 * [Asciidoctor](http://asciidoctor.org/)
