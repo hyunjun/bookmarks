@@ -1687,6 +1687,7 @@ Javascript
 * [타입스크립트에서 if문 안에 promise가 들어가는 문제 피하기](https://libsora.so/posts/prevent-bug-by-if-statement-with-promise/)
 * [React-TypeScript 프로덕트에서 인물사진 유효성 검사하기](https://meshkorea.github.io/react-ts-canvas-photo-upload/)
 * [Typescript inheritance deep dive](https://hackernoon.com/typescript-inheritance-deep-dive-9a53989af5a6)
+* [번역 TypeScript at Google](https://hyunseob.github.io/2018/11/27/typescript-at-google/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)

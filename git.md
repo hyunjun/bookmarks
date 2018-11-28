@@ -137,6 +137,10 @@ Git
 * [Git을 이용한 더 나은 버전관리](https://speakerdeck.com/ibluemind/giteul-iyonghan-deo-naeun-beojeongwanri)
 * [How not to be afraid of Git anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-git-anymore-fe1da7415286)
 * [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
+* [깃(Git) 용어 정리](https://tech.10000lab.xyz/git/important-git-terms.html)
+* [깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
+* **[깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)**
+* [깃(Git) 필수 명령어](https://tech.10000lab.xyz/git/git-cheat-sheet.html)
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
 
 # Command
@@ -208,6 +212,7 @@ Git
   * [Git 커밋 상태를 확인하기 위한 쉘 스크립트](https://rhostem.github.io/posts/2018-06-12-shellscript-to-check-commit/)
   * [Changing a commit message](https://help.github.com/articles/changing-a-commit-message/)
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
+  * [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)
 * `config`
   * basics
 
@@ -325,6 +330,7 @@ Git
   * [Git rebase를 이용한 커밋 수정 (Interactive Rebase)](https://wckhg89.github.io/archivers/rebase)
   * [Don’t Fear The Rebase](https://hackernoon.com/dont-fear-the-rebase-bca683888dae)
   * [An introduction to Git merge and rebase: what they are, and how to use them](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
+  * [깃(Git) 리베이스 사용하기](https://tech.10000lab.xyz/git/git-rebase-workflow.html)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
 * remote

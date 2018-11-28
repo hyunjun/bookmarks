@@ -669,6 +669,7 @@ NLP
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
+* [Ekphrasis - a text processing tool, geared towards text from social networks, such as Twitter or Facebook. Ekphrasis performs tokenization, word normalization, word segmentation (for splitting hashtags) and spell correction](https://github.com/cbaziotis/ekphrasis)
 * [Emoji for Python](https://github.com/carpedm20/emoji)
   * [A Python script to check if a character is or a text contains emoji](https://gist.github.com/jezdez/0185e35704dbdf3c880f)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
@@ -831,6 +832,7 @@ NLP
   * [Language Learning with BERT - TensorFlow and Deep Learning Singapore](https://www.youtube.com/watch?v=0EtD5ybnh_s)
   * [BERT-NER - Use google BERT to do CoNLL-2003 NER !](https://github.com/kyzhouhzau/BERT-NER)
   * [BERT-BiLSMT-CRF-NER - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning](https://github.com/macanv/BERT-BiLSMT-CRF-NER)
+  * [Dissecting BERT](https://medium.com/dissecting-bert)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)

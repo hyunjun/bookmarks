@@ -33,7 +33,6 @@ Android
   * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
   * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
   * [자마린XAMARIN HELLO.ANDROID – QUICKSTART](https://blog.wonhada.com/?p=2435)
-* [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
 * [구글, 안드로이드 공식 인증 시험 공개](http://www.bloter.net/archives/271519)
 * [FREE COURSE Developing Android Apps by  Google NEW Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [액티비티와 프래그먼트에서 벗어나 간결하게 Android 앱 만들기](https://realm.io/kr/news/sf-fabien-davos-modern-android-ditching-activities-fragments/)
@@ -155,6 +154,10 @@ Android
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
 * [Vysor - A window to your Android](http://www.vysor.io/)
 * [XSDL - X.Org server which uses SDL](https://github.com/pelya/xserver-xsdl)
+
+# MOOC, Lecture
+* [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
+* [Academy for App Success](https://developer.android.com/google-play/academy/)
 
 # Test
 * [Understanding and Mastering the World of Android Testing (Part 1)](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
