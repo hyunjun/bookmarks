@@ -1005,6 +1005,8 @@ NLP
 * [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/) gensim의 textrank
 * [textacy: higher-level NLP built on spaCy](https://github.com/chartbeat-labs/textacy) text analysis based on spaCy
 * [python-rake](https://pypi.python.org/pypi/python-rake) 키워드 추출 패키지
+* [파이썬으로 3줄 요약기](http://blog.theeluwin.kr/post/146188165713/summariz3)
+* [한국어 3줄 요약기 - TextRank 알고리즘을 사용한 3줄 요약기 크롬 확장 앱](https://github.com/graykode/summariz3)
 
 # TFIDF
 * [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)

@@ -125,7 +125,7 @@ Sports
 * [닉 칼리슨의 “NBA에서 살아남는 방법](https://44fullcourtpress.wordpress.com/2012/12/11/%EB%B2%88%EC%97%AD-%EB%8B%89-%EC%B9%BC%EB%A6%AC%EC%8A%A8%EC%9D%98-nba%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%82%A8%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 * [KBL 레퍼런스](http://bookyoon.dothome.co.kr/g5/)
 * [픽앤 롤을 수비하는 방법 7가지](https://m.blog.naver.com/oliven2/220970240206)
-* [Relations to salary and team contribution in NBA ( 17-18 Season )](https://www.slideshare.net/ssuser39d504/relations-to-salary-and-team-contribution-in-nba-1718-season)
+* [Relations to salary and team contribution in NBA (17-18 Season)](https://www.slideshare.net/ssuser39d504/relations-to-salary-and-team-contribution-in-nba-1718-season)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
@@ -140,3 +140,4 @@ Sports
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 * [영국 프리미어 리그 웨스트햄 유나이티드 유스  전력분석관 인터뷰 바로가기](https://avengerschool.com/courses/sports3)
 * [214. Arte de lo Clasico 바르셀로나에 참패를 당한 레알 마드리드](https://1boon.daum.net/kalka/kalka181031) 미술과 축구를 연결해 그린 편
+* [스포츠 빅데이터② 4부에서 1부로..빅데이터의 마법](https://sports.v.daum.net/v/20181129203152987)

@@ -136,6 +136,7 @@ C++
 * [RAII는 무엇인가](http://blog.seulgi.kim/2014/01/raii.html)
 * [NDC 2018 유체역학 엔진 개발기](https://www.slideshare.net/utilforever/ndc-2018-95260566)
 * [Microcontrollers in Micro-increments : A Test-driven C++ Workflow for Embedded Systems](https://www.youtube.com/watch?v=XuHlDtWYeD8)
+* [Write floating point variable information with sign, exponent and significand](http://www.gilgil.net/?document_srl=8417)
 
 # API
 * auto_ptr

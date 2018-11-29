@@ -1169,6 +1169,8 @@ Deep Learning
 * [How To Get The Best Deep Learning Education For Free](https://www.linkedin.com/pulse/how-get-best-deep-learning-education-forfree-mariya-yao)
 * [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+* [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230.html)
+  * [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
@@ -1524,6 +1526,7 @@ Deep Learning
 * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 * [cnn-watermark-removal - Fully convolutional deep neural network to remove transparent overlays from images](https://github.com/marcbelmont/cnn-watermark-removal)
+* [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1574,6 +1577,7 @@ Deep Learning
 * Exploring LSTMs: Understanding Basics
   * [Part One](https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning)
   * [Part Two](https://www.topbots.com/exploring-lstm-tutorial-part-2-recurrent-neural-network-deep-learning)
+* [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
