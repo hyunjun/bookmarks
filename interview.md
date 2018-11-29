@@ -362,6 +362,7 @@ Interview
 * [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
 * [실리콘 밸리 기업의 엔지니어 연봉](http://tinytechreview.com/실리콘-밸리-기업의-엔지니어-연봉)
 * [SOFTWARE ENGINEER SALARY DATA](https://triplebyte.com/software-engineer-salary)
+* [해외 기업과 연봉협상 하기전 반드시 조사할 것 3가지](https://www.youtube.com/watch?v=H3DgymDoKj0)
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 
 # Spotify

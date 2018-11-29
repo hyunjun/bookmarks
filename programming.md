@@ -204,6 +204,8 @@ Programming
   * [EA 피파 개발자가 말하는 “피파는 어떻게 위닝을 꺾었나” - ㅍㅍㅅㅅ 이승환님의 글입니다](http://jh4hj.tistory.com/entry/EA-%ED%94%BC%ED%8C%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%E2%80%9C%ED%94%BC%ED%8C%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EB%8B%9D%EC%9D%84-%EA%BA%BE%EC%97%88%EB%82%98%E2%80%9D-%E3%85%8D%E3%85%8D%E3%85%85%E3%85%85-%EC%9D%B4%EC%8A%B9%ED%99%98%EB%8B%98%EC%9D%98-%EA%B8%80%EC%9E%85%EB%8B%88%EB%8B%A4)
 * [프로젝트가 장난이야?!](http://woowabros.github.io/experience/2018/11/12/toy-project.html) 토이 프로젝트를 하자는 이야기
 * [소프트웨어 엔지니어가 되는 것이 뭔지 아무도 알려주지 않은 내용](http://jhrogue.blogspot.com/2018/11/b.html)
+* [파일럿 프로젝트와 함께 우아한개발자 되어가기](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
+* [우아한 파일럿 프로젝트 2기(feat.고독한개발자)](http://woowabros.github.io/experience/2018/11/29/pilot-project-minzy.html)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
