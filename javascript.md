@@ -166,6 +166,7 @@ Javascript
 * [State of the Art JavaScript in 2016](https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b)
   * [2016년 최신 자바스크립트 동향](http://blog.paulsoh.co/?p=75)
 * [State of JavaScript 2018](https://2018.stateofjs.com/)
+* [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 * [2016년과 이후 JavaScript의 동향](http://d2.naver.com/helloworld/3618177)
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
 * [Getting Out of Binding Situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
@@ -1800,3 +1801,4 @@ Javascript
 * [GUI로 Vue 프로젝트 쉽게 만들기](https://wormwlrm.github.io/2018/11/17/How-to-create-Vue-project-using-CLI-3.html)
 * [Vue.js 컴포넌트 재사용하기 - slot 편](https://joshua1988.github.io/web-development/vuejs/slots/)
 * [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)
+* [How to add Internationalization to a Vue Application](https://medium.freecodecamp.org/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b)

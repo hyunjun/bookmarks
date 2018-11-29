@@ -1578,6 +1578,7 @@ Deep Learning
   * [Part One](https://www.topbots.com/exploring-lstm-tutorial-part-1-recurrent-neural-network-deep-learning)
   * [Part Two](https://www.topbots.com/exploring-lstm-tutorial-part-2-recurrent-neural-network-deep-learning)
 * [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
+* [An Introduction to Recurrent Neural Networks](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

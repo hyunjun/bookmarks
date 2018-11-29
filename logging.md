@@ -4,6 +4,8 @@ Logging
 * function/method의 시작과 끝 부분에 log를 넣자
   * 너무 많은 log를 남기는 게 보기 힘들 수는 있지만, 확인이 어려운 거 보다는 좋다
   * 최소한 해당 function/method 내부가 문제인지 외부가 문제인지는 확인이 가능하다
+* 같은 API server를 여러 개의 section으로 나눠서 운영할 때 좋은 logging은 뭘까?
+  * 서로 호출하는 동작이 있는데, logging을 나눠서 각각 저장하는 게 좋은가, 한 곳에 모아서 구분해서 보는 게 좋은가?
 * [로그 기깔나게 잘 디자인하는 법](https://www.slideshare.net/jeongsangbaek/ss-80795259)
 * [LoggingThe Ultimate Guide - your open-source resource for understanding, analyzing, and troubleshooting system logs](https://www.loggly.com/ultimate-guide/)
 * [Centralized Logging at Signal](http://www.signal.co/dev-log/centralized-logging/)
@@ -33,6 +35,7 @@ Logging
   * [1부](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
   * [2부](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
 * [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)
+* [How To Write Error Messages That Don’t Suck](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

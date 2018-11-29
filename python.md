@@ -684,6 +684,7 @@ Python
   * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc)
   * [The Fun Of Reinvention 파이썬3.6으로 흑마법을 부려보자](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
   * [Saving 9 GB of RAM with Python’s `__slots__`](http://tech.oyster.com/save-ram-with-python-slots/)
+  * [A quick dive into Python’s “__slots__”](https://blog.usejournal.com/a-quick-dive-into-pythons-slots-72cdc2d334e)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)

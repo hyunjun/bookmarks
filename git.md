@@ -149,6 +149,8 @@ Git
 * **[Oh shit, git!](http://ohshitgit.com/)** 실수했을 때 case별 대처법
 * [내 시간을 절약하는 소중한 git 명령어들](http://sunphiz.me/wp/archives/2558)
 * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
+* [Now that you’re not afraid of GIT anymore, here’s how to leverage what you know](https://medium.freecodecamp.org/now-that-youre-not-afraid-of-git-anymore-here-s-how-to-leverage-what-you-know-11e710c7f37b)
+  * merge, remote, push, pull, reset
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`
