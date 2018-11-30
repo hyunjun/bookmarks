@@ -610,10 +610,13 @@ NLP
   * [한국어를 위한 어휘 임베딩의 개발 -2-](https://brunch.co.kr/@learning/8) [-2-](https://brunch.co.kr/@trost/35)
   * [FastText, 실전 사용하기](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/07/06/fasttext/)
   * [FastText for Node.js](https://github.com/loretoparisi/fasttext.js)
+* [GluonNLP: NLP made easy](https://gluon-nlp.mxnet.io)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
+* [khaiii](https://github.com/kakao/khaiii)
+  * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
 * [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
   * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
   * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)
@@ -734,6 +737,8 @@ NLP
   * [KoNLP v.0.80.0 버전 업(on CRAN now)](http://freesearch.pe.kr/archives/4520)
   * [한글 언어 자원과 R: KoNLP 개선과 활용](http://www.slideshare.net/r-kor/r-konlp)
   * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
+* [KoSpacing - Automatic Korean word spacing with R](https://github.com/haven-jeon/KoSpacing)
+  * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
 
 ## Scala
 * [Open Korean Text Processor - An Open-source Korean Text Processor](https://github.com/open-korean-text/open-korean-text)

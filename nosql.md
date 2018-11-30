@@ -34,6 +34,7 @@ NoSQL
 * [Large Scale NoSQL Database Migration Under Fire](https://medium.com/appsflyer/large-scale-nosql-database-migration-under-fire-bf298c3c2e47)
 * [The design and implementation of modern column-oriented database systems](https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/)
   * 2012년 “The design and implementation of modern column-oriented database systems” 라는 98페이지 분량의 페이퍼 요약
+* **[Modeling document data for NoSQL databases](https://docs.microsoft.com/en-us/azure/cosmos-db/modeling-data)**
 
 # Amazon
 

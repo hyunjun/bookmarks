@@ -1118,6 +1118,7 @@ Deep Learning
   * [딥러닝계의 블루오션, Apache MXNet 공헌하기 - 윤석찬 (AWS 테크에반젤리스트) 오규삼 (삼성 SDS)](https://www.slideshare.net/awskorea/apache-mxnet-soscon-2018)
   * [Logging MXNet Data for Visualization in TensorBoard](https://github.com/awslabs/mxboard)
   * [Colab에서 TensorBoard 및 MXBoard를 사용하여 데이터 시각화 하는 방법](https://gist.github.com/serithemage/7cf3937d1532ed94e982353c9349eebc)
+  * [Run MXNet Scala Examples Using the IntelliJ IDE (macOS)](https://mxnet.incubator.apache.org/tutorials/scala/mxnet_scala_on_intellij.html)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
