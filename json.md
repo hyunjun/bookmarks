@@ -99,5 +99,14 @@ Json
 # Swift
 * [When JSONDecoder meets the real world, things get ugly…](http://davelyon.net/2017/08/16/jsondecoder-in-the-real-world)
 
+# XML
+* The reference to entity "xxx" must end with the ';' delimiter
+  * solution; use escaping
+    * `" -> &amp;quot;`
+    * `' -> &amp;apos;`
+    * `< -> &amp;lt;`
+    * `> -> &amp;gt;`
+    * `& -> &amp;amp;`
+
 # YAML
 * [YAML Validator](https://codebeautify.org/yaml-validator)

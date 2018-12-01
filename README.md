@@ -113,5 +113,6 @@ bookmarks
     * [rust](rust.md)
     * [scala](scala.md)
   * [sql](sql.md)
+  * [svn](svn.md)
   * [time series](time_series.md)
   * [web](web.md)

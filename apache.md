@@ -175,6 +175,7 @@ Apache
 * [Flink or Flunk? Why Ele.me Is Developing a Taste for Apache Flink](https://hackernoon.com/flink-or-flunk-why-ele-me-is-developing-a-taste-for-apache-flink-7d2a74e4d6c0)
   * Alibaba의 Ele.me 팀에서 데이터 스트림 처리 시스템으로 Apache Flink를 도입한 사례
   * Apache Storm, Apache Spark와 비교하여 Flink를 선택한 배경 설명
+* [Introduction of apache flink kosscon2018](https://www.slideshare.net/secret/dhQ4aYqD02SQ11)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)

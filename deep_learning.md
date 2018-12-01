@@ -436,6 +436,7 @@ Deep Learning
 * [데이터지능 E9 딥러닝 프레임워크 및 활용편](https://www.youtube.com/watch?v=eIkM-m1Go1k)
 * [Choosing a Deep Learning Framework in 2018: Tensorflow or Pytorch?](http://cv-tricks.com/deep-learning-2/tensorflow-or-pytorch/)
 * [Deep Learning Framework Power Scores 2018](https://towardsdatascience.com/deep-learning-framework-power-scores-2018-23607ddf297a)
+* [The Deep Learning Toolset — An Overview](https://medium.com/luminovo/the-deep-learning-toolset-an-overview-b71756016c06)
 * [Top 10 Deep Learning Github Repositories 2018](https://www.techleer.com/articles/547-top-10-deep-learning-github-repositories-2018/)
 * [딥러닝 분산처리 기술동향](https://www.nextobe.com/single-post/2017/06/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EB%8F%99%ED%96%A5)
 * [DEEP LEARNING Your daily dose of Deep learning](http://www.notey.com/blogs/deep-learning) 딥러닝에 대한 기사
@@ -1067,6 +1068,8 @@ Deep Learning
   * [제가 번역한 딥러닝 문서 목록 (deeplerarning4j.org)](http://keunwoochoi.blogspot.com/2016/03/deeplerarning4jorg.html)
   * [Getting started with Deeplearning4J and Scala](http://datasmarts.net/2017/11/11/getting-started-with-deeplearning4j-and-scala/)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
+* [einops - Deep learning operations rethinked (supports tf, pytorch, chainer, gluon and others)](https://github.com/arogozhnikov/einops)
+  * [Writing better code with pytorch and einops](https://arogozhnikov.github.io/einops/pytorch-examples.html)
 * [Fabrik – Collaboratively build, visualize, and design neural nets in the browser http://fabrik.cloudcv.org](https://github.com/Cloud-CV/Fabrik)
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [Horovod - a distributed training framework for TensorFlow, Keras, and PyTorch](https://github.com/uber/horovod)

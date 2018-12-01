@@ -381,6 +381,7 @@ iOS
 * [개발자를 위한 영어 for Swift](https://soojin.ro/blog/english-for-developers-swift)
 * [Build an enterprise Swift app using services](https://developer.ibm.com/patterns/build-an-enterprise-swift-app-using-services/)
 * [Memory management in Swift](https://medium.com/elements/memory-management-in-swift-31e20f942bbc)
+* [How to handle internet connection reachability in Swift](https://medium.freecodecamp.org/how-to-handle-internet-connection-reachability-in-swift-34482301ea57)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)

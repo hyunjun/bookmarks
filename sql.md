@@ -121,17 +121,40 @@ SQL
     * table에 존재하지 않는지 검사하고 입력하는 INSERT 구문
     * 다른 table에 존재하는 record 삭제하는 DELETE 구문
     * ON DUPLICATE KEY UPDATE와 IF를 사용한 입력
+  * ALTER
+    * [MySQL 테이블 수정](http://egloos.zum.com/kwon37xi/v/1635464)
+    * [MySQL ALTER 명령을 이용한 테이블 변경](http://ra2kstar.tistory.com/3)
+    * `ALTER TABLE [table name] RENAME [new table name]`
+    * `ALTER TABLE [table name] ADD [column name] [type]`
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
+  * CREATE
+    * `CREATE TABLE [table name] LIKE [org table name]; -- index까지 복사. 물론 데이터는 복사하지 않음`
+    * `CREATE TABLE [table name] SELECT * FROM [org table name]; -- 데이터를 복사해서 만들지만 index를 복사하지는 않음`
+  * INSERT
+    * [13.2.5.2 INSERT ... ON DUPLICATE KEY UPDATE Syntax](https://dev.mysql.com/doc/refman/5.5/en/insert-on-duplicate.html)
+    * [Mysql 의 Insert .. On Duplicate Key Update 유의사항](http://knight76.tistory.com/entry/Mysql-%EC%9D%98-Insert-On-Duplicate-Key-Update-%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD)
+    * [Insert multiple records into MySQL with a single query](http://www.electrictoolbox.com/mysql-insert-multiple-records/)
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
     * [csv 파일을 직접 MySQL 테이블로 Import 하는 방법 (대용량 파일 import 팁)](http://moonlighting.tistory.com/140)
     * [MySql: LOAD DATA INFILE 로 대용량 데이터 인서트하기](http://ohgyun.com/777)
-  * [`SELECT p.FirstName, p.LastName, a.City, a.State FROM Person p LEFT JOIN Address a ON p.PersonId = a.PersonId`](https://leetcode.com/problems/combine-two-tables/solution/)
-  * [`SELECT a.Name AS Employee FROM Employee AS a JOIN Employee AS b ON a.ManagerId = b.Id AND a.Salary > b.Salary`](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/)
-  * [`SELECT Email From Person GROUP BY Email HAVING COUNT(Id) > 1`](https://leetcode.com/problems/duplicate-emails/solution/)
-  * [`SELECT Name AS 'Customers' FROM Customers WHERE Id NOT IN (SELECT CustomerId FROM Orders)`](https://leetcode.com/problems/customers-who-never-order/solution/)
-  * [`SELECT IFNULL((SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1 OFFSET 1), NULL) AS SecondHighestSalary`](https://leetcode.com/problems/second-highest-salary/solution/)
-  * [`SELECT class FROM courses GROUP BY class HAVING COUNT(DISTINCT student) >= 5`](https://leetcode.com/problems/classes-more-than-5-students/solution/)
-  * [`SELECT * FROM cinema WHERE id % 2 = 1 AND description != 'boring' ORDER BY rating DESC`](https://leetcode.com/problems/not-boring-movies/solution/)
+    * load data infile; 속도가 느림
+      * `mysql -h xxx.yyy.zzz.www -u [user id] -p[password] [database] -N -e "LOAD DATA local infile \"./[data file]\" REPLACE INTO TABLE [table name] ([column1], [column2],...[columnN])"`
+      * [13.2.7 LOAD DATA INFILE Syntax](http://dev.mysql.com/doc/refman/5.1/en/load-data.html)
+      * [MySQL 파일을 이용하여 테이블에 값 삽입하기](http://ra2kstar.tistory.com/2)
+    * [MySQL database 정보 import하기](http://tac.softonnet.com/troubleshoot/viewbody.php?code=troubleshoot&page=1&number=26&keyfield=category&key=db) mysqlimport
+  * SELECT
+    * [`SELECT p.FirstName, p.LastName, a.City, a.State FROM Person p LEFT JOIN Address a ON p.PersonId = a.PersonId`](https://leetcode.com/problems/combine-two-tables/solution/)
+    * [`SELECT a.Name AS Employee FROM Employee AS a JOIN Employee AS b ON a.ManagerId = b.Id AND a.Salary > b.Salary`](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/)
+    * [`SELECT Email From Person GROUP BY Email HAVING COUNT(Id) > 1`](https://leetcode.com/problems/duplicate-emails/solution/)
+    * [`SELECT Name AS 'Customers' FROM Customers WHERE Id NOT IN (SELECT CustomerId FROM Orders)`](https://leetcode.com/problems/customers-who-never-order/solution/)
+    * [`SELECT IFNULL((SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1 OFFSET 1), NULL) AS SecondHighestSalary`](https://leetcode.com/problems/second-highest-salary/solution/)
+    * [`SELECT class FROM courses GROUP BY class HAVING COUNT(DISTINCT student) >= 5`](https://leetcode.com/problems/classes-more-than-5-students/solution/)
+    * [`SELECT * FROM cinema WHERE id % 2 = 1 AND description != 'boring' ORDER BY rating DESC`](https://leetcode.com/problems/not-boring-movies/solution/)
+    * age가 '만 xx세'로 되어 있을 때 숫자만 뽑아 그 차이를 구하는 경우
+
+      ```
+      $ mysql -h [x.y.z.w] -u [userid] -p[password] [database] -N -e "SELECT a.keyword, a.iage, b.keyword, b.iage, a.iage - b.iage FROM (SELECT \`key\`,keyword, age, CHAR_LENGTH(age), CONVERT(SUBSTRING(age, 2, CHAR_LENGTH(age)-2), UNSIGNED) iage, represent, family FROM [table] WHERE age IS NOT NULL) as a join (SELECT \`key\`,keyword, age, CHAR_LENGTH(age), CONVERT(SUBSTRING(age, 2, CHAR_LENGTH(age)-2), UNSIGNED) iage, represent, family FROM [table] WHERE age IS NOT NULL) as b on a.\`key\` != b.\`key\`"
+      ```
   * [`UPDATE salary SET sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;`](https://leetcode.com/problems/swap-salary/solution/)
 * troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
@@ -147,6 +170,7 @@ SQL
   * [max_execution_time 설정하기](http://ohgyun.com/767)
   * [Online Alter에도 헛점은 있더구나 – gdb, mysqld-debug 활용 사례](http://gywn.net/2018/10/online-alter-for-varchar/)
   * [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-상황-문제-해결)
+  * [#1071 - Specified key was too long](http://stackoverflow.com/questions/1814532/1071-specified-key-was-too-long-max-key-length-is-767-bytes)
 * [DATABASE2 - MySQL](https://opentutorials.org/course/3161)
 * [Node.js - MySQL](https://opentutorials.org/course/3347)
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)

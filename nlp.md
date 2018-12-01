@@ -838,6 +838,7 @@ NLP
   * [BERT-NER - Use google BERT to do CoNLL-2003 NER !](https://github.com/kyzhouhzau/BERT-NER)
   * [BERT-BiLSMT-CRF-NER - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning](https://github.com/macanv/BERT-BiLSMT-CRF-NER)
   * [Dissecting BERT](https://medium.com/dissecting-bert)
+  * [Bert state Of The Art pre Training for nlp Post](https://parksurk.github.io/BERT-State-of-the-Art-Pre-training-for-NLP-post)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)

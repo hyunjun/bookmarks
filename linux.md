@@ -118,6 +118,7 @@ Linux
 * [유닉스 쉘(Unix Shell)](http://statkclee.github.io/shell-novice/index-kr.html)
 * [SCP vs SFTP - 5 Key Comparisons](https://www.jscape.com/blog/scp-vs-sftp)
 * [Linux 공부 14 - 개념 정리](http://throughkim.kr/2017/01/09/linux-14/)
+* [리눅스 실무기술300](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-linux_practical_tech300-md)
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
@@ -252,6 +253,9 @@ Linux
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * nslookup
   * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
+* ntp
+  * [practice - ntpd, ntpdate, ntpq](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-ntp-md)
+  * [RHEL, CentOS에서 ntp 서버 설정하기(사설망 내부 서버들의 시간 동기화)](http://hook.tistory.com/entry/RHEL-CentOS%EC%97%90%EC%84%9C-ntp-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%EC%82%AC%EC%84%A4%EB%A7%9D-%EB%82%B4%EB%B6%80-%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94)
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `paste` `paste -d"[delimiter] [file1] [file2]`
@@ -270,6 +274,10 @@ Linux
   * [How to read from file or stdin in bash?](http://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash)
 * `rm`
   * [How to Recover a Deleted File in Linux](https://www-tecmint-com.cdn.ampproject.org/c/s/www.tecmint.com/recover-deleted-file-in-linux/amp/)
+* `rsync`
+  * `rsync -avz --rsh="ssh -l [id]" [ip]:[src path] [dst path]`
+    * daemon / ssh 방식 두 가지가 있는데, ssh의 경우 ssh public key를 추가해야 접속이 가능
+  * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
 * `sed`
   * [Sed stream editor 가이드](https://mug896.github.io/sed-stream-editor)
   * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
@@ -281,6 +289,7 @@ Linux
   * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
+  * [리눅스 seq 명령어 사용법](https://www.snoopybox.co.kr/1680)
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
 * shuf
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
@@ -526,6 +535,16 @@ Linux
 * [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))
 * [CentOS7 리눅스 한글 입력기 설정](http://sunyzero.tistory.com/253)
 * [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
+* service
+
+  ```
+  service --status-all | grep [name]
+  service [name] [status|start|stop|restart]
+  chkconfig --list
+  chkconfig [name] [on|off]
+  netstat -tulpn
+  ```
+  * [Red Hat / CentOS Check and List Running Services Linux Command](https://www.cyberciti.biz/faq/check-running-services-in-rhel-redhat-fedora-centoslinux/)
 * yum
   * `yum info <package>`
     * [`yumdb info <package>`](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information)
@@ -616,3 +635,4 @@ Linux
 * [PinguyBuilder를 이용해서 사용 중인 OS 설정 그대로 iso 파일 만들기](http://bagjunggyu.blogspot.com/2015/10/pinguybuilder-os-iso.html)
 * [24 Things I’ve Learned As A Software Developer Living On Ubuntu For A Weekish](https://hackernoon.com/24-things-learned-as-software-developer-on-ubuntu-for-a-weekish-5b7b0da5d4b5)
 * [우분투(Ubuntu)에서 신규 커널 설치 후 USB, WIFI가 동작하지 않을 때 해결 방법](http://kkamagui.tistory.com/901)
+* [우분투용 해킹 & 분석 도구 모음](http://hisjournal.net/blog/242)

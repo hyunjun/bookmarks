@@ -5,7 +5,7 @@ Vim
 * [openvim.com](http://www.openvim.com/)
 * [hea-www.harvard.edu/~fine/Tech/vi.html](http://hea-www.harvard.edu/~fine/Tech/vi.html)
 * [Vim Is The Perfect IDE](https://dev.to/allanmacgregor/vim-is-the-perfect-ide-e80)
-  * [.vimrc example](https://gist.github.com/hyunjun/f4103247e247bc802b90#file-vimrc-example)
+* [vim 초 간단 매뉴얼](http://happyoutlet.tistory.com/11)
 * buffers
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
@@ -32,6 +32,14 @@ Vim
     :argdo %s/[ ]\+$//ge | update
     ```
   * `ggVGu` change all the letters to lowercase [How to convert all text to lowercase in Vim](https://stackoverflow.com/questions/1102859/how-to-convert-all-text-to-lowercase-in-vim)
+  * 개행 문자 입력 `^M (Ctrl+V, Ctrl+M)`
+    * [Vim Vi 에서 ＾M 지우기, 행끝의 캐럿 M 기호 제거 방법](http://mwultong.blogspot.com/2007/08/vim-vi-m-m.html)
+  * [lowercase <-> uppercase](http://www.linuxquestions.org/questions/linux-newbie-8/change-all-uppercase-to-lowercase-with-vi-633998/)
+
+    ```
+    :%s/.*/\L&/
+    :%s/.*/\U&/
+    ```
 * [sort](http://vim.wikia.com/wiki/Sort_lines)
   * `:sort` / `:sort!` / `:%!sort -k2nr`
   * [Sorting columns of text in Vim using sort](https://jordanelver.co.uk/blog/2014/03/12/sorting-columnds-of-text-in-vim-using-sort/)
@@ -50,9 +58,16 @@ Vim
     * `:cr`, `:cla` go to the beginning and end of the quickfix list
     * `:col`, `:cnew` iterate through historical quickfix lists
 * vimrc
+  * [practice .vimrc example](https://gist.github.com/hyunjun/f4103247e247bc802b90#file-vimrc-example)
+  * [practice vimrc](https://gist.github.com/hyunjun/f4103247e247bc802b90#file-vimrc-md)
   * [vimrc.io](http://vimrc.io/)
   * [Vim 사용자 정의 파일 타입 꾸미기](http://www.popit.kr/adding-custom-file-type-in-vim/) for syntax highlight
+    * syntax highlighting이 되지 않는 경우
+      * 보통 기본 vi나 vim-minimal만 설치된 경우 발생
+      * vim-enhanced 설치
   * [vimrc-vundle-script](https://github.com/uyu423/vimrc-vundle-script/blob/master/README.md) 여러 리눅스 환경에서의 vimrc, vim plugin 파일 동기화를 위한 저장소
+  * [set gvim font in .vimrc file](http://stackoverflow.com/questions/3316244/set-gvim-font-in-vimrc-file)
+  * gvim portable; `GVimPortable\App\DefaultData\settings\vimrc`
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)

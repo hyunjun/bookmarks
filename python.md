@@ -220,6 +220,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-nov-2018-2301700b699a)
   * [Python Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-oct-2018-db86b787ec74)
   * [Python Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-nov-2018-34b6f7f8c22c)
   * [Python Open Source of the Month (v.Sep 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
@@ -1664,6 +1665,7 @@ Python
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
   * [Hello, Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko)
   * [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
+  * [Google Cloud Codelabs and Challenges](https://codelabs.developers.google.com)
   * [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d)
   * [Neural Networks with Google CoLaboratory | Artificial Intelligence Getting started](https://towardsdatascience.com/neural-networks-with-google-colaboratory-artificial-intelligence-getting-started-713b5eb07f14)
   * [Colaboratory GPU](https://www.youtube.com/playlist?list=PLaTc2c6yEwmo9MZi-0OLi8F6bM6AA0wjE)
@@ -1683,6 +1685,7 @@ Python
   * [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/)
   * [Colaboratory 사용하기](https://docs.google.com/presentation/d/145XR44Ag6GW2xV1r2bOrnOgqtJYh59ZnsnYtmFZioTo/edit)
   * [google Colaboratory 에서 구글 드라이브에 있는 파일 쉽게 이용하기](http://leebaro.tistory.com/entry/google-Colaboratory-에서-구글-드라이브에-있는-파일-쉽이용하기)
+  * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 
@@ -2027,6 +2030,7 @@ Python
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
+* [Pampy: The Pattern Matching for Python you always dreamed of](https://github.com/santinic/pampy)
 * [paramiko](https://github.com/paramiko/paramiko/)
   * [practice - file download from sftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-sftp-md)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)

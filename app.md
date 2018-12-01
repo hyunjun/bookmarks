@@ -222,6 +222,7 @@ App
 * [10 Chrome Extensions That Are Amazingly Useful! 2018](https://www.youtube.com/watch?v=1dFOSr2KeP8)
 * [How to take full page screenshots in Chrome without extensions](https://hackernoon.com/how-to-take-full-page-screenshots-in-chrome-without-extensions-be2f0cf36df1)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
+* [How To Publish Your Chrome Extension](https://medium.freecodecamp.org/how-to-publish-your-chrome-extension-dd8400a3d53)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative
@@ -587,6 +588,7 @@ App
 * [마크다운 에디터 고르기](http://astrod.github.io/2015/10/25/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EA%B3%A0%EB%A5%B4%EA%B8%B0.html)
 * [마크다운(Markdown)으로 글을 쓸 때 이미지 정렬하는 방법](http://blog.kalkin7.com/2014/03/04/how-to-align-images-on-writing-with-markdown/)
 * [마크다운(Markdown) 기반 OSX 프레젠테이션 도구 덱셋(Deckset)](http://blog.remotty.com/blog/2015/08/26/deckset/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Editing Markdown for GitHub](http://moduscreate.com/editing-markdown-for-github/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
@@ -597,7 +599,7 @@ App
 * [Markdownify](https://tibastral.github.io/markdownify/)
 * [MarkdownEditors](https://techstory.shma.so/markdowneditors-c174fb4896ff) android
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
-* [www.markdowntopdf.com](http://www.markdowntopdf.com/)
+* [markdowntopdf.com](http://www.markdowntopdf.com/)
 * **[prose.io](http://prose.io)** github
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
 

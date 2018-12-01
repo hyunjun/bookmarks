@@ -196,6 +196,7 @@ Git
   * `git clean -fd` [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164?category=18)
 * clone
   * `git clone https://[username]:'[password]'@github.com/[username]/[repository]` enclose password in quotes if password has special characters
+  * `git clone git@github.com:[id]/[repository].git`
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
   * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
@@ -347,6 +348,28 @@ Git
         remotes/origin/HEAD -> origin/master
     $ git merge [name]/[branch name]
     ...
+    ```
+  * transfer repository(git to git, create repository to move)
+
+    ```
+    $ cd old_repo
+    $ git remote -v
+    origin  git@old.url:id/old_repo.git (fetch)
+    origin  git@old.url:id/old_repo.git (push)
+    $ git remote set-url origin git@new.url:id/new_repo.git
+    $ git remote -v
+    origin  git@new.url:id/new_repo.git (fetch)
+    origin  git@new.url:id/new_repo.git (push)
+    $ git push -u origin --all
+    Counting objects: 74, done.
+    Delta compression using up to 16 threads.
+    Compressing objects: 100% (67/67), done.
+    Writing objects: 100% (74/74), 163.78 KiB, done.
+    Total 74 (delta 13), reused 0 (delta 0)
+    To git@new.url:id/new_repo.git
+     * [new branch]      master -> master
+    Branch master set up to track remote branch master from origin.
+    $
     ```
 * reset
   * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)

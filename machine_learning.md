@@ -31,6 +31,7 @@ Machine Learning
 * [머신러닝 속 수학](https://mingrammer.com/translation-the-mathematics-of-machine-learning)
 * [Probability Distribution 기계학습을 위한 수학](https://forums.alina.ai/t/probability-distribution/103)
 * [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
 * **[An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)**
 * [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)
 * [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2)

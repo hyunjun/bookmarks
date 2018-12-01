@@ -120,6 +120,7 @@ Food
 * [스페인 리오하(Riojas)](http://newspeppermint.com/2015/07/30/riojas/)
 * [물만 걸러 마시나? 와인도 걸러 마신다](http://www.earlyadopter.co.kr/60780)
 * [최현태 기자의 와인홀릭](http://media.daum.net/series/80752?selectedNewsId=20161106130240611)
+* [와인 추천](https://imgur.com/a/O8mUNmG) 설명은 좀 틀리긴 함
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)

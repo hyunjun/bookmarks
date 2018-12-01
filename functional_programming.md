@@ -104,11 +104,14 @@ Functional Programming
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
 * [함수형 프로그래밍의 예외처리](http://qwefgh90.github.io/fp/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC/)
-* Dysfunctional programming in Java
+* [Dysfunctional programming in Java](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-a-functional-tutorial-20e0bebd2ec9)
   * [I : Laziness functional examples](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-i-laziness-cc9c6981de39)
   * [2 : Immutability](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-2-immutability-a2cff487c224)
   * [3 : Functional Composition](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-3-functional-composition-16828f0609c2)
   * [4 : No nulls allowed](https://blog.usejournal.com/dysfunctional-programming-in-java-4-no-nulls-allowed-88e8735475a)
+  * [5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
+  * [6 : No Locks or Synchronized Blocks](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-6-no-locks-or-synchronized-blocks-ea5a47644689)
+  * [7 : Immutable Collections](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-7-immutable-collections-83ba78aaf4dd)
 * [vavr - A new powerful collection library saves us from source.stream().really("?").collect(sink()) pipelines](http://www.vavr.io/)
 
 # JavaScript
@@ -136,6 +139,8 @@ Functional Programming
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [람다(Ramda)와 로다시(Lodash) 그리고 함수형 프로그래밍](https://engineering.huiseoul.com/%EB%9E%8C%EB%8B%A4-ramda-%EC%99%80-%EB%A1%9C%EB%8B%A4%EC%8B%9C-lodash-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-709ef969c9a5)
+* [An Introduction to Functional Programming Style in JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064)
+* [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
 
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
