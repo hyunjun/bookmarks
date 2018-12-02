@@ -617,6 +617,7 @@ NLP
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [khaiii](https://github.com/kakao/khaiii)
   * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
+  * [카카오 형태소 분석기(khaiii) 설치와 은전한닢(mecab) 형태소 분석기 비교](https://lsjsj92.tistory.com/408)
 * [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
   * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
   * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)

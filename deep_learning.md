@@ -1164,6 +1164,7 @@ Deep Learning
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
 # MOOC, Lecture
+* [#0.2 딥러닝 공부 가이드 2019](https://www.youtube.com/watch?v=fEwVeyki5p8)
 * [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
   * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)

@@ -396,6 +396,8 @@ Apache
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
+* [kafka-monitor - Monitor the availability of Kafka clusters with generated messages](https://github.com/linkedin/kafka-monitor)
+  * [URP? Excuse You! The Three Metrics You Have to Know (Todd Palino, Linkedin) Kafka Summit 2018](https://videos.confluent.io/watch/upUNYs7NAGN6jbQefwERFs)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * KSQL

@@ -532,7 +532,9 @@ Programming
   * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
   * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
   * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
-  * [GKE 차근 차근 알아보기 1탄 — GKE 개요](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%83%84-gke-%EA%B0%9C%EC%9A%94-382dc69b2ec4)
+  * GKE 차근 차근 알아보기
+    * [1탄 — GKE 개요](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%83%84-gke-%EA%B0%9C%EC%9A%94-382dc69b2ec4)
+    * [2탄 — GKE 서비스 및 확장 해보기](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2%ED%83%84-gke-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%8F-%ED%99%95%EC%9E%A5-%ED%95%B4%EB%B3%B4%EA%B8%B0-5c9b137e72c8)
   * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
 
 # Code Coverage

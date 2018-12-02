@@ -224,6 +224,7 @@ Interview
 
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)
+* [토종한국 뉴글러가 알려주는 구글 취업과정](https://www.youtube.com/watch?v=YXf8IuBfxPo)
 
 # Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)

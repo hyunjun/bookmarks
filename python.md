@@ -806,6 +806,7 @@ Python
     * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
     * [test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
     * [`re.compile('PT(?:([0-9]+)H)*(?:([0-9]+)M)*')`](https://gist.github.com/hyunjun/0adf682379b18c8a484744cf539a3de6#file-group_exists-py)
+    * [lookbehind](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-lookbehind-md) 어떤 접두사가 선행하지 않는 단어만 인식하는 정규식
   * [regex101.com/#python](https://www.regex101.com/#python)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
@@ -980,6 +981,9 @@ Python
 * **[Controlling Python Async Creep](https://hackernoon.com/controlling-python-async-creep-ec0a0f4b79ba)**
 * [async_await_help.py](https://gist.github.com/Kcrong/ecb919bfbd45fe186899554b628e6db4#file-async_await_help-py)
 * [Using asynchronous for loops in Python](https://quentin.pradet.me/blog/using-asynchronous-for-loops-in-python.html)
+* 파이썬과 비동기 프로그래밍
+  * [#1, 비동기 프로그래밍이란](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1/)
+  * [#2, 파이썬에서 비동기 프로그래밍 시작하기](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/)
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -2010,6 +2014,7 @@ Python
   * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
   * **[Python MySQL Tutorial](http://www.mysqltutorial.org/python-mysql/)**
   * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+* [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
 * [NetworkX](http://networkx.github.io/)
   * [20140830, Pycon2014 NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)

@@ -267,13 +267,16 @@ Clojure
   * [Where to put specs for Clojure.Spec?](http://stackoverflow.com/questions/37942495/where-to-put-specs-for-clojure-spec)
   * [AGILITY & ROBUSTNESS: CLOJURE SPEC](http://blog.cognitect.com/blog/2016/9/29/agility-robustness-clojure-spec)
   * [Custom defn macro with clojure.spec - part 1: conform/unform](http://blog.klipse.tech/clojure/2016/10/10/defn-args.html)
+  * [Custom defn macro - part 2: playing with parse trees](http://blog.klipse.tech/clojure/2016/10/10/defn-args-2.html)
   * [clojure.spec](http://philoskim.github.io/docs/spec/)
   * [Schema & Clojure Spec for the Web Developer](http://www.metosin.fi/blog/schema-spec-web-devs/)
   * [clojure.spec for functions by example](http://taylorwood.github.io/2017/10/15/fspec.html)
+  * [ghostwheel - Robustness and Observability Without the Pain](https://github.com/gnl/ghostwheel)
   * [Orchestra : complete instrumentation for clojure.spec](https://github.com/jeaye/orchestra)
+  * [serene - Generate clojure.spec with GraphQL and extend GraphQL with clojure.spec](https://github.com/paren-com/serene)
+    * [Robust APIs with clojure.spec & GraphQL - Lily Goh + Dom Kiva-Meyer](https://www.youtube.com/watch?v=mgSSVTDZvkI)
   * [spectator](https://github.com/ioRekz/spectator)
   * [spell-spec - clojure.spec.alpha helpers that check for misspelled map keys, with expound integration](https://github.com/bhauman/spell-spec)
-  * [Robustness and Observability Without the Pain](https://github.com/gnl/ghostwheel)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow)
 * core.async
