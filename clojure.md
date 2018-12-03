@@ -336,6 +336,7 @@ Clojure
   * [the joy of clojure source codes](https://github.com/ksseono/the-joy-of-clojure)
   * [역서 오탈자 수정 위키](https://github.com/ksseono/the-joy-of-clojure/wiki)
 * [DEPLOYING YOUR FIRST CLOJURE APP](http://www.braveclojure.com/quests/deploy/preface/)
+* [Elements of Clojure by Zachary Tellman](https://elementsofclojure.com/)
 * [Web Development with Clojure, Second Edition](https://pragprog.com/book/dswdcloj2/web-development-with-clojure-second-edition)
   * [web-development-with-clojure](https://github.com/lisp-korea/web-development-with-clojure)
   * [web-development-with-clojure/ch-02](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch-02)

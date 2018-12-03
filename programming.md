@@ -347,6 +347,7 @@ Programming
     * [Part 2](https://developer.akamai.com/blog/2017/04/06/need-know-caching-part-2/)
     * [Part 3](https://developer.akamai.com/blog/2017/04/14/need-know-caching-part-3/)
   * [HTTP 캐싱](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
+  * [AWS - CloudFront](https://opentutorials.org/module/3838)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
@@ -1008,6 +1009,7 @@ Programming
   * [11월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-1.html)
   * [11월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-11-2.html)
   * [11월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-3.html)
+  * [11월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/12/b-11-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1049,6 +1051,7 @@ Programming
   * [기술 뉴스 #112 : 18-10-15](https://blog.outsider.ne.kr/1404)
   * [기술 뉴스 #113 : 18-11-01](https://blog.outsider.ne.kr/1406)
   * [기술 뉴스 #114 : 18-11-16](https://blog.outsider.ne.kr/1411)
+  * [기술 뉴스 #115 : 18-12-02](https://blog.outsider.ne.kr/1413)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1060,6 +1063,7 @@ Programming
   * [1808호](https://blog.gaerae.com/2018/08/monthly.html)
   * [1809호](https://blog.gaerae.com/2018/09/monthly.html)
   * [1810호](https://blog.gaerae.com/2018/10/monthly.html)
+  * [1811호](https://blog.gaerae.com/2018/11/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -1121,6 +1125,10 @@ Programming
 * [How to Manage Streaming and Real time Big Data Performance](https://www.youtube.com/watch?v=R5lnMrAhPQA)
 * [Noria: dynamic, partially-stateful data-flow for high-performance web applications](https://blog.acolyer.org/2018/10/29/noria-dynamic-partially-stateful-data-flow-for-high-performance-web-applications/)
   * MIT에서 내놓은 새로운 데이터 스트리밍 시스템. 읽기가 무거운 웹 애플리케이션에 최적화, SQL 쿼리 사용 가능
+* [Streaming databases in realtime with MySQL, Debezium, and Kafka](https://wecode.wepay.com/posts/streaming-databases-in-realtime-with-mysql-debezium-kafka)
+  * WePay에서 Debezium을 사용하여 Kafka로 데이터를 스트리밍하는 MySQL용 데이터 캡처 솔루션을 사용하는 것에 대한 기사
+* [The Why's and How's of Database Streaming](https://qconsf.com/system/files/presentation-slides/whys_and_hows_of_database_streaming_final.pdf)
+  * WePay의 CDC 관련 최신 키노트
 
 ## Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
@@ -1265,6 +1273,7 @@ Programming
 * [2018 OKKYCON - The Real TDD](https://github.com/david-learner/java-study/blob/master/2018OKKYCON/readme.md)
 * [Agile and Test Driven Development (TDD) with Swagger, Docker, Github, Postman, Newman and Jenkins for a Loopback, Node.js and CouchDB App](https://medium.com/nycdev/agile-and-test-driven-development-tdd-with-swagger-docker-github-postman-newman-and-jenkins-347bd11d5069)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
+* [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

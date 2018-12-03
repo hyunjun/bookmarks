@@ -27,6 +27,7 @@
 * [Building A Custom Home Automation System](https://www.youtube.com/watch?v=M0izp2GJSe0)
 * [Building a REST API in Python | Home Automation #02](https://www.youtube.com/watch?v=4T5Gnrmzjak)
 * [Building a Config Service in Go | Home Automation #03](https://www.youtube.com/watch?v=iYrMAVSOkkA)
+* [그린팩토리 주차층 관리앱 개발기 (Bluetooth, Beacon 연동 개발시 겪은 일들)](https://tv.naver.com/v/4286021)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)

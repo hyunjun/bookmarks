@@ -140,6 +140,7 @@ Interview
 * [ICT CAREER ADY 서울-실리콘밸리 IT 커리어 포럼](https://www.youtube.com/watch?v=2AT4lUmDzXU)
 * [세일즈 해보시겠어요?](https://brunch.co.kr/@hyungsukkim/92) 분야는 관계없지만 인터뷰 전반을 생각해볼 때 좋은 글
 * [<<족집게 질문 리스트>>로 글로벌IT회사의 입사 인터뷰를 제대로 통과하기](https://okky.kr/article/523155)
+* [엔지니어 채용 이렇게 한다](http://bridge.500startups.co.kr/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%9C%EB%8B%A4/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -200,6 +201,7 @@ Interview
   * [애플리케이션 로드 밸런서(ALB)에 고정 IP 주소 설정 및 사용하기](https://aws.amazon.com/ko/blogs/korea/using-static-ip-addresses-for-application-load-balancers)
   * [깃허브(GitHub), L4 로드 밸런서 GLB 디렉터 오픈소스로 공개](https://www.44bits.io/ko/post/news--github-release-glb-github-load-balancer-as-open-source)
   * [Rethinking Netflix’s Edge Load Balancing](https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c)
+  * **[번역 최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)**
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)

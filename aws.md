@@ -232,6 +232,7 @@ AWS
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 * [Terraform으로 ACM 인증서 생성하기](https://blog.outsider.ne.kr/1398)
 * [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
+* [Performance Insight 써도 돼요?](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
 * [신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰](https://www.slideshare.net/ssuser67b08e/aws-112573762)
 * [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식 - 윤석찬 (AWS 테크 에반젤리스트)](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)
 * [GitHub 연동을 위한 방화벽](https://andromedarabbit.net/github-%EC%97%B0%EB%8F%99%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%A9%ED%99%94%EB%B2%BD/)
@@ -326,6 +327,7 @@ AWS
 * [서버리스에 대해서 알아보자 1차 (이론편)](https://www.slideshare.net/ssuser67b08e/1-105126600)
 * [Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)
 * [Lambda & API GateWay Deploy](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181015_JH_Serverless_Deploy.md)
+* [AWS Lambda Layers로 함수 공통용 Python 패키지 재사용하기](https://beomi.github.io/2018/11/30/using-aws-lambda-layers-on-python3/)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

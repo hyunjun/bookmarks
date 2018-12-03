@@ -512,6 +512,7 @@ Docker
 * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
 * [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
 * [An 8-minute introduction to K8S](https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184)
+* [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)

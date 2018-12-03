@@ -138,6 +138,7 @@ App
   * [Hexo로 블로그 만들기](https://canine89.github.io/2018/08/16/hello-world/)
   * [Hexo 블로그 테마 세부 설정하기](https://canine89.github.io/2018/08/17/2018-08-16-Hexo%EB%A1%9C%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%EB%A7%8C%EB%93%A4%EA%B8%B0-2/)
   * [Jekyll에서 Hexo로](https://kenixer.github.io/2018/09/15/Jekyll%EC%97%90%EC%84%9C-Hexo%EB%A1%9C/)
+  * [hexo-tag-gdemo 소개](https://heowc.github.io/2018/11/14/introduction-hexo-tag-gdemo/)
   * [JEKYLL3 TRAILING SLASH 문제](http://lumiamitie.github.io/web/jkl3-trailing-slash/)
   * [GITHUB를 이용해서 블로그 하기 #1](https://jungwoon.github.io/jungwoon.github.io/GitHub-Pages/)
   * [GITHUB를 이용해서 블로그 하기 #2](https://jungwoon.github.io/jekyll/2017/07/04/Install-Jekyll-For-Mac/)

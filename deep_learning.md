@@ -675,6 +675,8 @@ Deep Learning
 * [Optimal real-time landing using DNN](https://www.slideshare.net/ssuser06e0c5/optimal-realtime-landing-using-dnn)
 * [Speed up your deep learning language model up to 1000% with the adaptive softmax, Part 1](https://towardsdatascience.com/speed-up-your-deep-learning-language-model-up-to-1000-with-the-adaptive-softmax-part-1-e7cc1f89fcc9)
 * [PyParis 2018 - Using Deep Learning to rank and tag millions of hotel images](https://www.youtube.com/watch?v=WEWl4cD-y00)
+* [Don't be a Turtle Project](https://github.com/motlabs/dont-be-turtle)
+  * [181123 poseest101 devfest_pangyo_jwkang](https://www.slideshare.net/JaewookKang1/181123-poseest101-devfestpangyojwkang)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1164,7 +1166,8 @@ Deep Learning
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
 # MOOC, Lecture
-* [#0.2 딥러닝 공부 가이드 2019](https://www.youtube.com/watch?v=fEwVeyki5p8)
+* [#39. 딥러닝 공부 가이드 2019 (무료 강의, 책)](t-robotics.blogspot.com/2018/12/39-2019.html)
+  * [#0.2 딥러닝 공부 가이드 2019](https://www.youtube.com/watch?v=fEwVeyki5p8)
 * [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
   * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)

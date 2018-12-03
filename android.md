@@ -113,6 +113,7 @@ Android
   * [Flutter vs React Native- What You Need To Know](https://medium.com/@openGeeksLab/flutter-vs-react-native-what-you-need-to-know-89451da3c90b)
   * [flutter_login_form](https://github.com/bear2u/flutter_login_form)
   * [자바 개발자를 위한 다트](https://software-creator.tistory.com/5)
+  * [번역 Flutter는 왜 혁명적인가?](https://medium.com/@dan_kim/%EB%B2%88%EC%97%AD-flutter%EB%8A%94-%EC%99%9C-%ED%98%81%EB%AA%85%EC%A0%81%EC%9D%B8%EA%B0%80-967c1dfcc5a9)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
   * [퓨즈FUSETOOLS 소개 :: 2016년 최신 자료](https://blog.wonhada.com/?p=2386)

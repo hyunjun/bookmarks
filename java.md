@@ -433,7 +433,9 @@ Java
   * [jenkins docker 버전 설치](http://jybaek.tistory.com/764)
   * [Jenkins X - automated CI/CD solution for cloud native applications on Kubernetes](https://www.slideshare.net/tedwon/jenkins-x-automated-cicd-solution-for-cloud-native-applications-on-kubernetes)
   * [Jenkins Port 변경하기](https://jojoldu.tistory.com/354)
-  * [젠킨스 파이프라인 정리 - 1. 파이프라인 샘플 만들기](https://jojoldu.tistory.com/355)
+  * 젠킨스 파이프라인 정리
+    * [1. 파이프라인 샘플 만들기](https://jojoldu.tistory.com/355)
+    * [2. Scripted 문법 소개](https://jojoldu.tistory.com/356)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
