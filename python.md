@@ -1408,6 +1408,7 @@ Python
   * [Flask-RestPlus 모듈 제대로 사용해 보기](http://mcchae.egloos.com/11276879)
   * [Structuring a Flask-RESTPlus Web Service for Production Builds](https://medium.freecodecamp.org/structuring-a-flask-restplus-web-service-for-production-builds-c2ec676de563)
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
+* [Flask Response Encoding 문제](http://ourcstory.tistory.com/234) make_response 사용
 * [Flask 블루프린트(blueprint) 사용하기](https://blog.naver.com/dbswjd1977/221152224572)
 * [Asynchronous Task in Flask Using Celery](https://www.youtube.com/watch?v=iwxzilyxTbQ)
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)

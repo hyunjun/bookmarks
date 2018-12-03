@@ -122,6 +122,7 @@ R
 * [Twitter sentiment analysis with Machine Learning in R using doc2vec approach](https://www.r-bloggers.com/twitter-sentiment-analysis-with-machine-learning-in-r-using-doc2vec-approach/)
 * [능선 회귀(Ridge regression)에 대하여 1](http://r-programming.club/14)
 * [능선회귀(Ridge regression)에 대하여 2 - λ 와 솔루션 β 의 관계](http://r-programming.club/16)
+* [Ridge Regression And Its Application](https://stepupanalytics.com/ridge-regression-and-its-application)
 * [Procedural Programming vs Functional Programming(I)](http://rpubs.com/cardiomoon/253966)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
   * [구글 R 스타일 가이드(Google's R Style Guide)](http://dialektike.github.io/Rguide.xml)
