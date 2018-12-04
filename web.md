@@ -128,6 +128,7 @@ Web
 * [one page101 - 부트스트랩을 이용해서 원페이지 만드는 과정 학습](https://github.com/pangol/page101)
 * **[웹앱의 미래 (The Future of Web Apps 다시 읽기)](https://www.popit.kr/웹앱의-미래)**
 * [W3C 2018 참관기](http://mobicon.tistory.com/561) libp2p
+* [“To be a good designer you must be a good engineer in every sense: curious, inquisitive](https://www.degreeless.design/) design 자습 자료
 
 # Apache
 * installation

@@ -378,6 +378,7 @@ Algorithm
 * [Efficiently Sorting Linked Lists](http://www.drdobbs.com/database/efficiently-sorting-linked-lists/184410973)
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 * [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos)
+* [Why is mergesort O(log n)?](https://softwareengineering.stackexchange.com/questions/297160/why-is-mergesort-olog-n)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)

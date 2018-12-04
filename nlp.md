@@ -483,6 +483,7 @@ NLP
 * [Introducing Custom Classifier – Build Your Own Text Classification Model Without Any Training Data](https://blog.paralleldots.com/product/custom-text-classification-model-without-any-training-data/)
 * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification)
 * [Multi-Class Text Classification with SKlearn and NLTK in python| A Software Engineering Use Case](https://towardsdatascience.com/multi-class-text-classification-with-sklearn-and-nltk-in-python-a-software-engineering-use-case-779d4a28ba5)
+* [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://medium.com/analytics-vidhya/tutorial-on-text-classification-nlp-using-ulmfit-and-fastai-library-in-python-2f15a2aac065)
 
 # Clustering
 * dbscan

@@ -874,6 +874,7 @@ Programming
 # MOOC, open courseware
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
+* [670 Free Online Programming & Computer Science Courses You Can Start in December](https://medium.freecodecamp.org/670-free-online-programming-computer-science-courses-you-can-start-in-december-a90149ac6de4)
 * [Computer Architecture](http://users.ece.cmu.edu/~omutlu/lecture-videos.html)
 * [Deloitte University Press – Cognitive technologies: The real opportunities for business](http://dupress.com/articles/cognitive-technology-course/)
 * [Five of the Best Computer Science Classes in the U.S.](http://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country)
@@ -1169,6 +1170,7 @@ Programming
   * [grpc (google rpc)에 대한 분석 #1](http://bcho.tistory.com/1012)
   * [구글의 HTTP 기반의 RPC 프로토콜 GRPC](http://bcho.tistory.com/1011)
   * [gRPC Channel, Stream 개념](http://bcho.tistory.com/1294)
+  * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 

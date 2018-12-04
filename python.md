@@ -1212,6 +1212,7 @@ Python
 * [배포한 Django 서비스 Exception Sentry로 받아보기](https://beomi.github.io/2017/06/01/Add-Sentry-to-Django/)
 * [AWS Elastic Beanstalk + CI 를 이용한 Django 배포 자동화](https://www.slideshare.net/ssuseraaed82/aws-elastic-beanstalk-ci-django)
 * [CS50: Web Programming with Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJwwwMQQIYBT-f-SaILe7mn)
+  * [A novice’s guide to learning to code with CS50](https://blog.usejournal.com/a-novices-guide-to-learning-to-code-with-cs50-d55a050fc57c)
 * [Building Ribbit in Django](https://code.tutsplus.com/tutorials/building-ribbit-in-django--net-29957)
 * [Django로 웹 서비스 개발하기 (1. 환경구축 — Virtualenv, atom, django)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-%ED%99%98%EA%B2%BD%EA%B5%AC%EC%B6%95-virtualenv-atom-django-11d6d0e62fe3)
 * [Django로 웹 서비스 개발하기 (2. Class, Object)](https://medium.com/@peteryun/python-django%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2-class-object-756e190bff8b)

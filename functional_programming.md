@@ -127,6 +127,7 @@ Functional Programming
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 * [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 * [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
+* [Stateful Monads in JavaScript — Part 1](https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c)
 * [Functional Programming in Javascript](http://dev-momo.tistory.com/m/entry/Functional-Programming-in-Javascript)
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
@@ -141,6 +142,7 @@ Functional Programming
 * [람다(Ramda)와 로다시(Lodash) 그리고 함수형 프로그래밍](https://engineering.huiseoul.com/%EB%9E%8C%EB%8B%A4-ramda-%EC%99%80-%EB%A1%9C%EB%8B%A4%EC%8B%9C-lodash-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-709ef969c9a5)
 * [An Introduction to Functional Programming Style in JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064)
 * [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
+* [Understanding Functional Programming with Javascript](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
 
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)

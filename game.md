@@ -26,7 +26,7 @@ Game
 * [초딩용 게임서버 프로그래밍 실시간 코딩방송에서 쓸 자작-소스코드](https://www.youtube.com/watch?v=Wel1MB9hm1A)
 * [Games you should try on GNU/Linux](https://www.unixmen.com/games-try-gnulinux/)
 * [데이터분석 기반 게임봇과 작업장 탐지 (NDC 2017)](https://www.slideshare.net/sakai76/ndc-2017-75638339)
-* [세계의 게임 대학은 지금 무엇을 공부하고 있을까? 1. DigiPen Institute of Technology](https://alegruz.imweb.me/blog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1228644&t=board&fbclid=IwAR281DANGKZ2YCbvWxm5XjGNqJBUsreKQOQtYeiUgIR466kkBLCiqEu_cdc)
+* [세계의 게임 대학은 지금 무엇을 공부하고 있을까? 1. DigiPen Institute of Technology](https://alegruz.imweb.me/blog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1228644&t=board)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)

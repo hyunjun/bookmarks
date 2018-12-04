@@ -151,6 +151,7 @@ Git
 * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
 * [Now that you’re not afraid of GIT anymore, here’s how to leverage what you know](https://medium.freecodecamp.org/now-that-youre-not-afraid-of-git-anymore-here-s-how-to-leverage-what-you-know-11e710c7f37b)
   * merge, remote, push, pull, reset
+* [Personalizing GIT: Aliasing commands](https://koukia.ca/personalizing-git-aliasing-commands-4dda73b54081)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`

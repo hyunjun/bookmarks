@@ -28,6 +28,7 @@ App
 * [5 Free Software That Are Actually Great! 3 (2018)](https://www.youtube.com/watch?v=9-Sj_4495nQ)
 * [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) 프로젝트 빌드를 위한 모든 SaaS 모음
+* [Tools for Makers - a hand curated directory of tools for makers to work on their dream projects](https://toolsformakers.com/)
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
@@ -539,6 +540,7 @@ App
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [coggle.it](https://coggle.it/)
+* [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * **[draw.io](https://www.draw.io/)**
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 * [Eve](https://github.com/witheve/Eve)

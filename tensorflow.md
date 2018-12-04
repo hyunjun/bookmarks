@@ -129,6 +129,7 @@ TensorFlow
 * [TensorFlow — Sequence to Sequence](https://medium.com/@ilblackdragon/tensorflow-sequence-to-sequence-3d9d2e238084)
 * [T2T: Tensor2Tensor Transformers - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
   * [Tensor2Tensor 라이브러리로 딥 러닝 연구를 가속화할 수 있습니다](https://developers-kr.googleblog.com/2017/07/accelerating-deep-learning-research.html)
+  * [Training Cutting-Edge Neural Networks with Tensor2Tensor and 10 lines of code](https://medium.com/data-from-the-trenches/training-cutting-edge-neural-networks-with-tensor2tensor-and-10-lines-of-code-10973c030b8)
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [Conditional Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
