@@ -148,6 +148,7 @@ Linux
   * [해당 달의 첫 평일에 실행하는 스케쥴](http://ohgyun.com/759)
   * [crontab 사용시 권한 주의](http://jybaek.tistory.com/712)
   * [python-crontab](https://pypi.python.org/pypi/python-crontab)
+  * [Cron Expression](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180927_SM_Cron_Expressions.md)
 * `curl`
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)

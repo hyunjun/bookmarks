@@ -91,3 +91,4 @@ Time Series
 * [Time Series Forecasting Using Statistical and Machine Learning Models || Jeffrey Yau](https://www.youtube.com/watch?v=2LSs1kYWy9M)
 * [Time Series Prediction](https://www.youtube.com/watch?v=d4Sn6ny_5LI)
   * [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction)
+* [How to Get Started with Deep Learning for Time Series Forecasting (7-Day Mini-Course)](https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course)

@@ -358,6 +358,7 @@ Programming
   * [번역 웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
 * [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 * [EAI, ESB, API 게이트 웨이,서비스 매쉬](http://bcho.tistory.com/1292)
+* [커머스 혹은 유통 도메인 설계에 대한 연작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -537,6 +538,9 @@ Programming
     * [1탄 — GKE 개요](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%83%84-gke-%EA%B0%9C%EC%9A%94-382dc69b2ec4)
     * [2탄 — GKE 서비스 및 확장 해보기](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2%ED%83%84-gke-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%8F-%ED%99%95%EC%9E%A5-%ED%95%B4%EB%B3%B4%EA%B8%B0-5c9b137e72c8)
   * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
+  * [Deep learning VM](http://bcho.tistory.com/1298)
+    * [cloud.google.com/deep-learning-vm/docs/concepts-images](https://cloud.google.com/deep-learning-vm/docs/concepts-images)
+    * `gcloud compute ssh {VM name} -- -L 8888:localhost:8888 -L 6006:localhost:6006 -L 8080:localhost:8080`
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)

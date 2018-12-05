@@ -831,6 +831,7 @@ NLP
 * [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
 * [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
 * BERT
+  * [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.facebook.com/groups/TensorFlowKR/permalink/767590103582050/)
   * [BERT TensorFlow code and pre-trained models for BERT](https://github.com/google-research/bert)
@@ -1085,6 +1086,7 @@ NLP
 * [Common Voice Project](https://voice.mozilla.org/)
 * [Toolkits for robust speech processing](https://www.slideshare.net/ChangGiMoon/toolkits-for-robust-speech-processing)
 * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice) 설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
+* [딥 러닝 음성 인식에 필요한 훈련 데이터를 직접 만들어보자](https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**

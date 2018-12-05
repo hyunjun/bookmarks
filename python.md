@@ -686,6 +686,8 @@ Python
   * [The Fun Of Reinvention 파이썬3.6으로 흑마법을 부려보자](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
   * [Saving 9 GB of RAM with Python’s `__slots__`](http://tech.oyster.com/save-ram-with-python-slots/)
   * [A quick dive into Python’s “__slots__”](https://blog.usejournal.com/a-quick-dive-into-pythons-slots-72cdc2d334e)
+  * [CLASS ATTRIBUTE 와 INSTANCE ATTRIBUTE 의 구분과 구현](http://blog.hanjae.tech/2018/12/python-class-attribute-instance.html)
+    * 내부 동작을 이해하는 측면에서는 좋으나, 실제로는 전혀 쓸모없어 보임
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
@@ -1056,6 +1058,9 @@ Python
 * [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [Trio – Pythonic async I/O for humans and snake people 🐍](https://github.com/python-trio/trio)
   * [Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
+  * **[구조적 동시성에 대한 소고, 또는 Go 문의 해로움](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)**
+    * 정말 좋은 글. 특히 놀라운 건 Donald Knuth같은 사람도 한 때 goto를 옹호했다는 점
+  * [Nathaniel J Smith - Python Concurrency for Mere Mortals - Pyninsula #10](https://www.youtube.com/watch?v=i-R704I8ySE)
 * [vibora - Fast, asynchronous and elegant Python web framework. https://vibora.io ](https://github.com/vibora-io/vibora)
 
 # Baseball

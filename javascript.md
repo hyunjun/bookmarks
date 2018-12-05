@@ -282,6 +282,7 @@ Javascript
 * [자바스크립트 this 바인딩 우선순위](http://blog.jeonghwan.net/2017/10/22/js-context-binding.html)
 * [자바스크립트 this? 간단히 핵심만 파악하기](https://www.youtube.com/watch?v=PAr92molMHU)
 * [자바스크립트의 this가 가리키는 것](https://rhostem.github.io/posts/2018-07-20-this-in-javascript/)
+* [What is “this” in JavaScript?](https://blog.bitsrc.io/what-is-this-in-javascript-3b03480514a7)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * **[자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
@@ -545,6 +546,7 @@ Javascript
 * [Javascript ES6 — You don’t really need to learn Generators](https://hackernoon.com/javascript-es6-you-dont-really-need-to-learn-generators-96aa2e9114fa)
 * [JavaScript is Becoming Pythonic ECMAScript 2015 and Beyond](https://treyhunner.com/javascript-is-like-python/#/)
 * [ECMAScript 6](https://tech.10000lab.xyz/javascript/ecmascript6.html)
+* [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1496,6 +1498,8 @@ Javascript
 * [How to Develop a Location-based Application Using React Native](https://medium.freecodecamp.org/how-to-develop-a-location-based-application-using-react-native-6f49cdbdac4f)
 * [How to create a three layer application with React](https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0)
 * [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
+* [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
+* [react automata](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180913_WJ_react_automata.md)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1624,6 +1628,7 @@ Javascript
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [react-testing-library](https://github.com/kentcdodds/react-testing-library)
   * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
+  * [구현 세부 사항 테스트(Testing Implementation Details)](https://www.vobour.com/%EA%B5%AC%ED%98%84-%EC%84%B8%EB%B6%80-%EC%82%AC%ED%95%AD-%ED%85%8C%EC%8A%A4%ED%8A%B8-testing-implementation-deta)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
