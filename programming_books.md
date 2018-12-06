@@ -394,6 +394,7 @@ Programming Books
   * 2018.07 탐라
 * (NOT YET) [PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 - 파이토치를 활용한 머신러닝, 딥러닝 알고리즘의 원리와 구현](http://wikibook.co.kr/pytorch/)
 * (NOT YET) [파이썬 라이브러리로 배우는 딥러닝 이론과 응용](http://jpub.tistory.com/873)
+* (NOT YET) [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
