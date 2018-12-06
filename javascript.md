@@ -1170,6 +1170,7 @@ Javascript
 * [Demystify The Multi-threading in Node.JS](https://hackernoon.com/demystify-the-multi-threading-in-node-js-4ff07eae9abe)
 * [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 * [How to use NodeJS without frameworks and external libraries](https://hackernoon.com/how-to-use-nodejs-without-frameworks-and-external-libraries-97eb6acac9e3)
+* [Nodejs 버전업시 log.gauge.isEnabled 문제 해결 방법](https://jojoldu.tistory.com/357)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
