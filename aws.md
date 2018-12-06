@@ -80,6 +80,8 @@ AWS
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
 * [AWS VPC 피어링 - 서로 다른 VPC 간에 통신하기](https://www.44bits.io/ko/post/communication_between_vpcs__aws_vpc)
+* [AWS Transit Gateway - 1](http://zigispace.net/991)
+* [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [MFA 코드와 AWS CLI를 이용해 로그인하기](https://andromedarabbit.net/mfa-%EC%BD%94%EB%93%9C%EC%99%80-aws-cli%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0/)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 * [회사 화분에 주기적으로 물주기 (AWS IoT 버튼 활용 사례)](https://medium.com/n42-corp/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)
@@ -94,6 +96,7 @@ AWS
 * [AWS re:Invent 특집(3) – Amazon 인공 지능(AI) 서비스 및 AWS 딥러닝 프레임웍 활용 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-3-amazon-ai-and-deep-learning)
 * [AWS re:Invent 특집(4) – 개발자를 위한 신규 서비스 총정리(윤석찬)](http://www.slideshare.net/awskorea/recap2016-4-summary-reinvent-new-services)
 * [AWS re:Invent 2015 새 서비스 7종 발표...저비용 BI도 출시](https://www.imaso.co.kr/news/article_view.php?article_idx=20151008033846)
+* [AWS 리인벤트(re:Invent) 키노트를 즐기는 방법 ](https://www.44bits.io/ko/post/how-to-enjoy-aws-reinvent-keynotes)
 * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
   * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
 * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
@@ -330,6 +333,8 @@ AWS
 * [Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)
 * [Lambda & API GateWay Deploy](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181015_JH_Serverless_Deploy.md)
 * [AWS Lambda Layers로 함수 공통용 Python 패키지 재사용하기](https://beomi.github.io/2018/11/30/using-aws-lambda-layers-on-python3/)
+* [Build a Ruby based Lambda Function](https://hackernoon.com/build-a-ruby-based-lambda-function-44f3d006fef6)
+* [프로그래밍 언어 루비(Ruby) 공식 지원을 발표](https://www.44bits.io/ko/post/news--announce-ruby-support-for-aws-lambda)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)

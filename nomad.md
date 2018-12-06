@@ -62,6 +62,8 @@ Nomad & Remote
 * [The Stress of Remote Working](https://hackernoon.com/the-stress-of-remote-working-38be5bdcf4da)
 * [Remote only](https://www.remoteonly.org/)
 * [Before Seeking Success As A Digital Nomad Build Your Business At Home](https://www.forbes.com/sites/kellyhoey/2018/10/04/before-seeking-success-as-a-digital-nomad-build-your-business-at-home/#5acb15c87604)
+* [그 개발자 이야기](https://www.youtube.com/playlist?list=PLW6vRth7cf-N29mn-7VK29hFYAqve20v7)
+  * 해외에 거주하는 여러 개발자 인터뷰
 
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)

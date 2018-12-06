@@ -137,6 +137,7 @@ C++
 * [NDC 2018 유체역학 엔진 개발기](https://www.slideshare.net/utilforever/ndc-2018-95260566)
 * [Microcontrollers in Micro-increments : A Test-driven C++ Workflow for Embedded Systems](https://www.youtube.com/watch?v=XuHlDtWYeD8)
 * [Write floating point variable information with sign, exponent and significand](http://www.gilgil.net/?document_srl=8417)
+* [Livestream: Getting Started with C++](https://news.codecademy.com/getting-started-with-c-plus-plus-livestream/)
 
 # API
 * auto_ptr

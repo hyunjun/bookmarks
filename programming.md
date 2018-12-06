@@ -206,6 +206,7 @@ Programming
 * [소프트웨어 엔지니어가 되는 것이 뭔지 아무도 알려주지 않은 내용](http://jhrogue.blogspot.com/2018/11/b.html)
 * [파일럿 프로젝트와 함께 우아한개발자 되어가기](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
 * [우아한 파일럿 프로젝트 2기(feat.고독한개발자)](http://woowabros.github.io/experience/2018/11/29/pilot-project-minzy.html)
+* [How to Organize Software Development In a Super-Efficient Way: Three Practical Tips](https://hackernoon.com/how-to-organize-software-development-in-a-super-efficient-way-three-practical-tips-86abe7575ed0)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1280,6 +1281,7 @@ Programming
 * [Agile and Test Driven Development (TDD) with Swagger, Docker, Github, Postman, Newman and Jenkins for a Loopback, Node.js and CouchDB App](https://medium.com/nycdev/agile-and-test-driven-development-tdd-with-swagger-docker-github-postman-newman-and-jenkins-347bd11d5069)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
+* [Two pillars of automated testing](https://hackernoon.com/two-pillars-of-automated-testing-13d0c2c6a7c)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

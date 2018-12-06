@@ -2123,6 +2123,8 @@ Python
   * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
   * [PyData Paris 2016 - Automatic Machine Learning using Python & scikit-learn](https://www.youtube.com/watch?v=_EviCgtzG7E)
   * [PyData London 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
+  * [PyData Seattle 2017 Keynote Jake VanderPlas](https://www.youtube.com/watch?v=DifMYH3iuFw) 여러가지 data 관련 library 역사(?)
+    * [jakevdp.github.io](http://jakevdp.github.io/)
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pydbgen](https://github.com/tirthajyoti/pydbgen)
   * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)

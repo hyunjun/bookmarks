@@ -34,6 +34,7 @@ Java
 * [java 성능에 대한 오해와 편견](http://www.slideshare.net/deview/d2java)
 * [서버 성능에 대한 정의와 이해 ver1.2](https://docs.com/sunnykwak/5159)
 * [Java Micro Frameworks: The New Trend You Can’t Ignore](http://blog.takipi.com/java-micro-frameworks-the-new-trend-you-cant-ignore/) Spark, Ninja, Jodd
+* [12 Frameworks Java Web Developers Should learn in 2018](https://hackernoon.com/12-frameworks-java-web-developers-should-learn-in-2018-edae59315244)
 * [Better Java - Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [A persistent KeyValue Server in 40 lines and a sad fact](http://java-is-the-new-c.blogspot.kr/2014/12/a-persistent-keyvalue-server-in-40.html)
 * [Java in Flames](http://techblog.netflix.com/2015/07/java-in-flames.html)
@@ -309,6 +310,7 @@ Java
 * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
 * [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
 * [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
+* [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
