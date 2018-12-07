@@ -1148,6 +1148,7 @@ Deep Learning
 * [Medical Image Segmentation Part 1 — UNet: Convolutional Networks with Interactive Code](https://towardsdatascience.com/medical-image-segmentation-part-1-unet-convolutional-networks-with-interactive-code-70f0f17f46c6)
 * [Encrypting Different Medical Images using Deep Neural Network with Interactive Code](https://towardsdatascience.com/encrypting-different-medical-images-using-deep-neural-network-with-interactive-code-b47656dcd1e)
 * [A machine learning survival kit for doctors](https://medium.com/owkin/a-machine-learning-survival-kit-for-doctors-97982d69a375)
+* [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK

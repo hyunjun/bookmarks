@@ -395,6 +395,7 @@ Programming Books
 * (NOT YET) [PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 - 파이토치를 활용한 머신러닝, 딥러닝 알고리즘의 원리와 구현](http://wikibook.co.kr/pytorch/)
 * (NOT YET) [파이썬 라이브러리로 배우는 딥러닝 이론과 응용](http://jpub.tistory.com/873)
 * (NOT YET) [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
+* (NOT YET) [신경망 설계 2/e - 주요 신경망 이론과 응용 사례](http://acornpub.co.kr/book/neural-network-design-2e)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -1102,6 +1103,7 @@ Programming Books
 * (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
 * (NOT YET) [마인크래프트와 함께 즐겁게 파이썬](http://bjpublic.tistory.com/314)
+* (NOT YET) 파이썬 핵심 개발자들과의 인터뷰 - 파이썬 커뮤니티 코어 개발자들이 말하는 파이썬의 과거, 현재 그리고 미래
 
 # R
 

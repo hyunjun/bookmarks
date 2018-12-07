@@ -143,6 +143,7 @@ Functional Programming
 * [An Introduction to Functional Programming Style in JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064)
 * [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
 * [Understanding Functional Programming with Javascript](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
+* [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
 
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
@@ -204,3 +205,6 @@ Functional Programming
 * [Functional programming and Spark: do they mix?](https://www.iravid.com/posts/fp-and-spark.html)
 * [Let’s Code Real World App Using Purely Functional Techniques (in Scala)](https://www.youtube.com/watch?v=m40YOZr1nxQ)
 * [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
+
+# Swift
+* [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)

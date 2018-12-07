@@ -122,6 +122,7 @@ Vision
 * [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 * [A Step-by-Step Introduction to the Basic Object Detection Algorithms (Part 1)](https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/)
 * [A Practical Implementation of the Faster R-CNN Algorithm for Object Detection (Part 2 — with Python codes)](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/)
+* [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
   * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
@@ -139,6 +140,7 @@ Vision
 * [Getting Started with WebRTC](http://www.html5rocks.com/ko/tutorials/webrtc/basics/)
   * [webRTC를 이용한 화상회의 개발](https://dareun.github.io/webRTC%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%92%E1%85%AA%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4-%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF)
   * [Kurento - an Open Source Software WebRTC media server](http://www.kurento.org)
+* [Build a Webcam Communication App using WebRTC](https://blog.bitsrc.io/build-a-webcam-communication-app-using-webrtc-9737384e84be)
 * [Segmenting and refining images with SharpMask](https://code.facebook.com/posts/561187904071636)
   * [Demo website](https://www.facebook.com/aidemos/)
   * [Github repo for MultiPathNet](https://github.com/facebookresearch/multipathnet)

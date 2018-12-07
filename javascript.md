@@ -384,6 +384,7 @@ Javascript
 * [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
 * [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
 * [How to differentiate between deep and shallow copies in JavaScript](https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd)
+* [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)

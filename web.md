@@ -423,6 +423,7 @@ Web
 * [나만 몰랐던 Http Delete Method payload body 문제](http://blog.leekyoungil.com/?p=390)
 * [HTTP 메서드](https://www.zerocho.com/category/HTTP/post/5b3723477b58fc001b8f6385)
 * [알아둬야 할 HTTP 요청 헤더](https://www.zerocho.com/category/HTTP/post/5b3ba2d0b3dabd001b53b9db)
+* [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
 
 # Scala
 * Finatra

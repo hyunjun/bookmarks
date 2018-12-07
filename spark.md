@@ -702,6 +702,7 @@
 * [Windowing Functions in Spark SQL Part 2 | First Value & Last Value Functions | Window Functions](https://www.youtube.com/watch?v=tsQ2oQieBGY)
 * [Windowing Functions in Spark SQL Part 3 | Aggregation Functions | Windowing Functions Tutorial](https://www.youtube.com/watch?v=pNEU3SkfyAw)
 * [Windowing Functions in Spark SQL Part 4 | Row_Number, Rank and Dense_Rank in SQL](https://www.youtube.com/watch?v=hoOwDUrodhM)
+* [Simplifying Change Data Capture with Databricks Delta](https://databricks.com/blog/2018/10/29/simplifying-change-data-capture-with-databricks-delta.html)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)

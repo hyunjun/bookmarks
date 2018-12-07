@@ -165,9 +165,12 @@ Keras
 * [Deploying a Keras Deep Learning Model as a Web Application in Python](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff) flask 사용
 * [Review 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](http://cdm98.tistory.com/35)
 * [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
+* [Applying your Convolutional Neural Network: On-Demand Webinar and FAQ Now Available!
+* [Deep Learning Fundamental Series - Part 3](https://databricks.com/blog/2018/11/13/applying-your-convolutional-neural-network-on-demand-webinar-and-faq-now-available.html)
+* [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
 
 # GAN
-* [Implementation BEGAN([Boundary Equilibrium Generative Adversarial Networks](https://arxiv.org/pdf/1703.10717.pdf)) by Keras](https://github.com/mokemokechicken/keras_BEGAN)
+* [Implementation BEGAN by Keras](https://github.com/mokemokechicken/keras_BEGAN)
 * [쌩(?!)초보자의 Python 케라스(Keras) GAN 코드 분석 (draft)](http://leestation.tistory.com/776)
 
 # Installation
