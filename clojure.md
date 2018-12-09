@@ -396,6 +396,11 @@ Clojure
 * [cljs4excel - Run a ClojureScript REPL within Microsoft Excel](https://github.com/cfelde/cljs4excel)
 * [cljs-ajax - simple Ajax client for ClojureScript](https://github.com/JulianBirch/cljs-ajax)
 * [cljs-devtools - Better presentation of ClojureScript values in Chrome Devtools](https://github.com/binaryage/cljs-devtools)
+* [cljs-oops](https://github.com/binaryage/cljs-oops)
+  * cljs를 advanced 모드로 컴파일시, 외부 자바스크립트 라이브러리에 대한 externs 파일이 필요
+  * 이 라이브러리를 사용하면 그럴 필요가 전혀 없음. 이 라이브러리의 매크로들이 내부적으로 aget/aset 호출로 다 변경해 주기 때문
+  * externs 파일이 없는 경우도 많고, externs generator를 돌려도 제대로 동작하지 않는 경우도 있고, 직접 만들기는 상당히 번거로움
+  * externs가 제공이 안되는 경우 이 라이브러리를 사용
 * [cljs-test-display](https://github.com/bhauman/cljs-test-display)
 * [clojurecuda.uncomplicate.org](http://clojurecuda.uncomplicate.org/)
 * [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
@@ -557,6 +562,8 @@ Clojure
 * [integrant - Micro-framework for data-driven architecture](https://github.com/weavejester/integrant)
   * [Component 대신 Integrant 써볼까?](http://clojure.kr/integrant)
   * [Enter Integrant: a micro-framework for data-driven architecture with James Reeves](https://skillsmatter.com/skillscasts/9820-enter-integrant-a-micro-framework-for-data-driven-architecture-with-james-reeves)
+* jackdaw
+  * [jackdaw-example](https://github.com/eunmin/jackdaw-example)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)

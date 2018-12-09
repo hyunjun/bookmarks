@@ -356,6 +356,7 @@ Statistics
   * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
   * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)
 * [powerlaw - Toolbox for testing if a probability distribution fits a power law](https://pypi.org/project/powerlaw/)
+* [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
 
 # R
 * [bayesianR](http://psygrammer.github.io/bayesianR/)

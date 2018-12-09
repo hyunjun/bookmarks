@@ -484,6 +484,7 @@ NLP
 * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification)
 * [Multi-Class Text Classification with SKlearn and NLTK in python| A Software Engineering Use Case](https://towardsdatascience.com/multi-class-text-classification-with-sklearn-and-nltk-in-python-a-software-engineering-use-case-779d4a28ba5)
 * [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://medium.com/analytics-vidhya/tutorial-on-text-classification-nlp-using-ulmfit-and-fastai-library-in-python-2f15a2aac065)
+* [Deep Transfer Learning for Natural Language Processing — Text Classification with Universal Embeddings](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9)
 
 # Clustering
 * dbscan
@@ -937,6 +938,10 @@ NLP
   * [예제의 텍스트 임베딩 함수](https://tfhub.dev/google/nnlm-en-dim128/1)가 estimator로 바로 피딩되는 바람에 feature vector 자체에 접근 불가능
   * 이를 해결한 방법 [demo_sentence_feature.ipynb](https://github.com/sjchoi86/deep-robust-nlp/blob/master/code/demo_sentence_feature.ipynb)
 * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
+* [Sentiment analysis : Frequency-based models](http://tech.reputation.com/sentiment-mining-frequency-based-models/)
+* [Sentiment analysis : Frequency-based models](https://medium.com/@samuelpilcer/sentiment-analysis-frequency-based-models-288c0accdd12)
+* [Sentiment analysis : Machine-Learning approach](http://tech.reputation.com/sentiment-analysis-machine-learning/)
+* [Sentiment analysis : Machine-Learning approach](https://medium.com/datadriveninvestor/sentiment-analysis-machine-learning-approach-83e4ba38b57)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -1209,6 +1214,7 @@ NLP
 * [Word Vector Representation for Korean: Evaluation Set](https://github.com/SungjoonPark/KoreanWordVectors)
 * [Word2Vec 강의 정리](http://mobicon.tistory.com/560)
 * [Word2Vec — a baby step in Deep Learning but a giant leap towards Natural Language Processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
+* [Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
@@ -1234,3 +1240,4 @@ NLP
 * [간편한 토픽 모델링 툴 Tomoto Gui](http://bab2min.tistory.com/602)
 * [An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)](https://medium.com/analytics-vidhya/an-nlp-approach-to-mining-online-reviews-using-topic-modeling-with-python-codes-9d766e783003)
 * [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
+* [Topic modeling using Khaiii](https://github.com/rudvlf0413/khaiii-topicmodeling)

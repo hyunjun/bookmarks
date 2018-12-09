@@ -438,6 +438,7 @@ Java
   * 젠킨스 파이프라인 정리
     * [1. 파이프라인 샘플 만들기](https://jojoldu.tistory.com/355)
     * [2. Scripted 문법 소개](https://jojoldu.tistory.com/356)
+  * [Jenkins](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/2.Jenkins)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
@@ -596,6 +597,7 @@ Java
   * [SpringBoot에서 Spock Mock 사용법과 문제점](https://jojoldu.tistory.com/340)
   * [Spring Boot에서 외부 API 테스트하기](https://jojoldu.tistory.com/341)
   * [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
+  * [Top 5 Online Courses to Learn Spring Boot in 2019](https://hackernoon.com/top-5-online-courses-to-learn-spring-boot-in-2019-c2fd7a0282c2)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

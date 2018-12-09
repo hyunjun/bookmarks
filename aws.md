@@ -230,6 +230,7 @@ AWS
   * [3) DynamoDB를 이용한 전체 공지](http://jojoldu.tistory.com/308)
 * [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
 * [아마존 엘라스틱 컨테이너 서비스(ECS) 입문 - 도커(Docker) 컨테이너 오케스트레이션](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
+* [ECS (Elastic Container Service)](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/3.AWS_ECS)
 * [AWS에서 서버(EC2) 패킷 미러링 하기](http://woowabros.github.io/security/2018/06/29/aws-network-mirror.html)
 * [ec2-gauza 설치 및 사용하기](http://jojoldu.tistory.com/311)
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
@@ -250,6 +251,7 @@ AWS
   * [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
 * [Introduction to AWS Batch](https://github.com/DevStarSJ/Study/blob/master/Blog/Cloud/AWS/Batch/aws-batch-tutorial.md)
 * [Machine Learning - Built on the AWS Cloud. Developed for Amazon developers and engineers. Available now](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)
+* [AWS: Some Tips for Avoiding Those “Holy Bill” Moments](https://hackernoon.com/aws-some-tips-for-avoiding-those-holy-bill-moments-9e48e0cb1a83)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)

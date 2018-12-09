@@ -261,6 +261,7 @@ R
 * [재현가능한 과학적 분석을 위한 R (Gapminder)](https://statkclee.github.io/r-novice-gapminder/index-kr.html)
 * [패스트캠퍼스 데이터사이언스 스쿨 R 1기 강의자료](https://github.com/junhwanjang/Data_science_school_with_R)
 * [Grad CAM으로 딥 러닝 모형 해석 (R version)](https://junhewk.github.io/text/2017/12/09/grad-cam-interpretation)
+* [How people from different cities interact in the freeCodeCamp chatrooms](https://medium.freecodecamp.org/how-people-from-different-cities-interact-in-the-freecodecamp-chatrooms-a22378571790)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책

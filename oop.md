@@ -55,6 +55,7 @@
 * [singleton 클래스 이야기(2)](http://www.gilgil.net/15772)
 * [singleton 클래스 이야기(3)](http://www.gilgil.net/15792)
 * [singleton 클래스 이야기(4)](http://www.gilgil.net/15809)
+* [Keep it Simple with the Strategy Design Pattern](https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9)
 
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)

@@ -304,6 +304,7 @@ ElasticSearch - Lucene
 * [2018-08-29 Elastic Stack 6.4 Upgrade Webinar](https://www.youtube.com/watch?v=P6ezu7FJthg)
 * [Elastic Stack 업그레이드 시 주의할점](http://kimjmin.net/2018/09/2018-09-migration-caution)
 * [ElasticSearch 5.x에서 6.x로 업그레이드](https://brunch.co.kr/@alden/44)
+* [Elastic Stack 롤링 업그레이드 6.4.2 -> 6.5.1 로 롤링 업그레이드](http://kimjmin.net/2018/12/2018-12-elasticsearch-rolling-upgrade/)
 * [Elastic 모니터링 전용 클러스터](http://kimjmin.net/2018/09/2018-09-dedicated-es-monitoring/)
 
 # ELK

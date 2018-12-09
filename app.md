@@ -29,6 +29,8 @@ App
 * [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) 프로젝트 빌드를 위한 모든 SaaS 모음
 * [Tools for Makers - a hand curated directory of tools for makers to work on their dream projects](https://toolsformakers.com/)
+* [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
+  * Airtable, Zenkit, Notion, Coda
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)

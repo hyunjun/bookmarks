@@ -264,6 +264,8 @@ Data Science
 * [데이터 사이언스(Data Science) 프로세스 정리](http://hero4earth.com/blog/learning/2018/01/27/data_science_process/)
 * [데이터 저널리즘, 오픈 데이터를 넘어 코드 공개로](http://commonslab.cc/53/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EB%84%90%EB%A6%AC%EC%A6%98-%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%84%98%EC%96%B4-%EC%BD%94%EB%93%9C-%EA%B3%B5%EA%B0%9C%EB%A1%9C)
 * [The Data Science of K-Pop: Understanding BTS through data and A.I.](https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2)
+* [Should data scientists learn JavaScript?](https://medium.freecodecamp.org/should-data-scientists-learn-javascript-e611d45804b8)
+* [Data Science with Watson Analytics](https://medium.com/analytics-vidhya/data-science-with-watson-analytics-7dddcc34d3a9)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)

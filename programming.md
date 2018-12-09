@@ -754,6 +754,7 @@ Programming
   * [1 기존 개발 체계의 문제점](http://bcho.tistory.com/815)
   * [2 Devops의 정의](http://bcho.tistory.com/817)
 * [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
+* [What DevOps Really Means](https://medium.com/verifa/what-devops-really-means-54f6ee8f68f1)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)

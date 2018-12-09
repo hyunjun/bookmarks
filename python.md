@@ -256,6 +256,7 @@ Python
 * [AWS Lambda에 Python Slack Chatbot을 통해서 미세먼지 대기정보 알림이 만들기](https://seokjoonyun.blogspot.com/2017/03/aws-lambda-python-slack-chatbot.html)
 * [Python Slack 봇 개발 및 CI 연동 삽질기](https://qodot.github.io/Python-Slack-%EB%B4%87-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-CI-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
 * [slack api 연동](http://blog.naver.com/pjt3591oo/221090833195)
+* [Python and Slack: A Natural Match](https://towardsdatascience.com/python-and-slack-a-natural-match-60b136883d4d)
 * [10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
@@ -1671,6 +1672,7 @@ Python
   * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
 * [Jupyter notebook HTML output에 템플릿 적용하기](http://ohgyun.com/772)
 * [JupyterCon in New York 2018](https://www.youtube.com/playlist?list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae)
+* [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능

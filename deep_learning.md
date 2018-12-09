@@ -1184,6 +1184,7 @@ Deep Learning
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 * **[Dive into Deep Learning - An interactive deep learning book for students, engineers, and reseachers](http://en.diveintodeeplearning.org/)**
+  * [en.diveintodeeplearning.org/chapter_introduction/index.html](http://en.diveintodeeplearning.org/chapter_introduction/index.html)
   * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
@@ -1352,6 +1353,7 @@ Deep Learning
 * [Under The Hood of Neural Networks. Part 1: Fully Connected](https://towardsdatascience.com/under-the-hood-of-neural-networks-part-1-fully-connected-5223b7f78528)
 * [How Attractive Are You in the Eyes of Deep Neural Network?(https://towardsdatascience.com/how-attractive-are-you-in-the-eyes-of-deep-neural-network-3d71c0755ccc)
 * [What Does A Face Detection Neural Network Look Like?](https://towardsdatascience.com/face-detection-neural-network-structure-257b8f6f85d1)
+* [Neural Collage - Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration](https://github.com/quolc/neural-collage)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)

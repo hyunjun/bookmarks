@@ -168,6 +168,7 @@ Keras
 * [Applying your Convolutional Neural Network: On-Demand Webinar and FAQ Now Available!
 * [Deep Learning Fundamental Series - Part 3](https://databricks.com/blog/2018/11/13/applying-your-convolutional-neural-network-on-demand-webinar-and-faq-now-available.html)
 * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
+* [Code for plotting the keras model graph](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb)
 
 # GAN
 * [Implementation BEGAN by Keras](https://github.com/mokemokechicken/keras_BEGAN)

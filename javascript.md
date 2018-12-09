@@ -385,6 +385,9 @@ Javascript
 * [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
 * [How to differentiate between deep and shallow copies in JavaScript](https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd)
 * [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
+* [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 1](https://www.youtube.com/watch?v=JzFvGf7Ywkk)
+* [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 2](https://www.youtube.com/watch?v=ozMwRq-IT2w)
+* [Forget Docker, the future is JAMstack](https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1172,6 +1175,7 @@ Javascript
 * [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 * [How to use NodeJS without frameworks and external libraries](https://hackernoon.com/how-to-use-nodejs-without-frameworks-and-external-libraries-97eb6acac9e3)
 * [Nodejs 버전업시 log.gauge.isEnabled 문제 해결 방법](https://jojoldu.tistory.com/357)
+* [Learn Node.js by building a Timestamp Microservice app](https://medium.freecodecamp.org/microservice-8edfdb9be811)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1503,6 +1507,7 @@ Javascript
 * [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 * [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
 * [react automata](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180913_WJ_react_automata.md)
+* [How to develop your React superpowers with the Render Props Pattern](https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1612,6 +1617,8 @@ Javascript
 * [react-monocle - A developer tool to visualize a React application's component hierarchy](https://github.com/team-gryff/react-monocle)
 * [React Native - Easy Overlay Modal with Navigator](http://browniefed.com/blog/2015/10/18/react-native-easy-overlay-modal-with-navigator/)
 * [react-native-facebook-ui - Pure javascript prototype of iOS Facebook UI for React Native framework](https://github.com/ggomaeng/react-native-facebook-ui)
+* [react-native-maps](https://github.com/react-native-community/react-native-maps/)
+  * [How to integrate maps in React Native using react-native-maps](https://medium.freecodecamp.org/how-to-integrate-maps-in-react-native-using-react-native-maps-5745490fe055)
 * [ReactNativeRedditReader](https://github.com/akveo/react-native-reddit-reader)
 * [react-native-spotify-ui - Pure javascript prototype of iOS Facebook UI for React Native framework](https://github.com/ggomaeng/react-native-spotify-ui)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)

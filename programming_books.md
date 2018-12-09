@@ -1165,6 +1165,7 @@ Programming Books
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-r-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-ea6a8525fde2)
 * (NOT YET) [Do it! 쉽게 배우는 R 데이터 분석](http://www.easyspub.co.kr/20_Menu/BookView/A001/138/PUB)
 * (NOT YET) [ggplot2 - R로 분석한 데이터를 멋진 그래픽으로](https://freelec.co.kr/book/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%ED%8C%A8%ED%82%A4%EC%A7%80-ggplot2/)
+* (NOT YET) **[R, JAGS, Stan을 이용한 베이지안 데이터 분석 바이블(제2판)](http://jpub.tistory.com/875)**
 
 # Scala
 
