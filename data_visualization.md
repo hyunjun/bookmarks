@@ -75,6 +75,7 @@ Data Visualization
 * [Basic Medical Data Exploration with Interactive Code](https://towardsdatascience.com/basic-medical-data-exploration-with-interactive-code-aa26ed432265)
 * [Data2Vis 자동으로 차트 만들기](http://mobicon.tistory.com/545)
 * [tf-seq2seq를 사용하여 자동으로 차트 만들기 - 2](http://mobicon.tistory.com/547)
+* [Data visualizations for text: How to show the process of writing with the writing graph](https://hackernoon.com/data-visualizations-for-text-how-to-show-the-process-of-writing-c3221fadfa4e)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)

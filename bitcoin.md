@@ -102,6 +102,8 @@ Bitcoin
 * [hycon private network 구축하기](https://blog.naver.com/pjt3591oo/221391545473)
 * [EOS](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181102_JM_EOS.md)
 * [Fork, Sidechains](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181031_JG_Fork,Sidechain.md)
+* [블록체인은 사기일까](https://engineering.huiseoul.com/cosmochain-conference-2018-2dc0e0dd8355)
+* [블록체인 서버리스로 조립하기](https://slides.com/junmyeonglee/deck)
 
 ## Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)

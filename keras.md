@@ -169,6 +169,7 @@ Keras
 * [Deep Learning Fundamental Series - Part 3](https://databricks.com/blog/2018/11/13/applying-your-convolutional-neural-network-on-demand-webinar-and-faq-now-available.html)
 * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
 * [Code for plotting the keras model graph](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb)
+* [파이썬 케라스로 딥러닝하자! LSTM(RNN)을 이용해 뉴스 기사 분류하기](https://lsjsj92.tistory.com/409)
 
 # GAN
 * [Implementation BEGAN by Keras](https://github.com/mokemokechicken/keras_BEGAN)

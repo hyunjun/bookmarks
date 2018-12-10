@@ -362,6 +362,8 @@ Python
 * [Python으로 알송 가사 추출하기](https://item4.github.io/2018-10-20/Fetch-Alsong-Lyrics-with-Python/)
 * [Master Python through building real-world applications (Part 1)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-1-b040b2b7faad)
 * [Symbolic Computing Using Python: Part 1-Basics](https://medium.com/@alexmaisiura/symbolic-computing-using-python-part-1-basics-cd4007e5f9b0)
+* [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
+* [Python: Beyond the basics II - IPython, encapsulation & args](https://medium.com/@m0etaz/python-beyond-the-basics-ii-16964d70c4da)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)

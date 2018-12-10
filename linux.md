@@ -325,6 +325,8 @@ Linux
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
+* `tar`
+  * [Portability of tar features](https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html)
 * `tail`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
@@ -431,6 +433,7 @@ Linux
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
   * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
 * **[entr - A utility for running arbitrary commands when files change](https://github.com/clibs/entr)**
+* [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [fzf](https://github.com/junegunn/fzf)
   * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
@@ -446,6 +449,7 @@ Linux
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
 * [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
+* [nnn - The fastest terminal file manager ever written](https://github.com/jarun/nnn)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)

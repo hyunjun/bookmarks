@@ -96,6 +96,9 @@ Functional Programming
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)
 * [Functors and Category Theory Introductory](https://functional.works-hub.com/learn/functors-and-category-theory-introductory-3e3da)
 
+# Go
+* [sum type 대신](https://medium.com/@jooyunghan/go-sum-type-%EB%8C%80%EC%8B%A0-b9efdb47442e)
+
 # Higher Order Functions
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 * [Higher-Order Function 이란 무엇인가](https://medium.com/@la.place/higher-order-function-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-1c61e0bea79)
@@ -144,6 +147,7 @@ Functional Programming
 * [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
 * [Understanding Functional Programming with Javascript](https://hackernoon.com/understanding-functional-programming-with-javascript-41eb3fa8c2a)
 * [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
+* [reduce에 Promise 더하기](https://medium.com/@jooyunghan/js-reduce%EC%97%90-promise-%EB%8D%94%ED%95%98%EA%B8%B0-e011153953ca)
 
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)

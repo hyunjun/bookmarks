@@ -139,6 +139,7 @@ Web
 * [Windows에서 Apache + Tomcat 조합으로 설치하는 방법 (1/6)](http://silentsoft.kr/archives/141)
 * [Rate limiting with Apache and mod-security](https://johnleach.co.uk/words/1073/rate-limiting-with-apache-and-mod-security)
 * [mod_rewrite 로 URL 다루기](https://www.lesstif.com/pages/viewpage.action?pageId=18219493)
+* [아파치 2.4에 추가된 filesize 식을 이용해서 특정 크기를 넘어서는 파일 접근 차단하기](http://javacan.tistory.com/entry/forbid-large-size-file-access-using-filesize-in-apache24)
 
 # Benchmark
 * [A Real-World Comparison of Front-End Frameworks with Benchmarks (2018 update)](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962)
@@ -412,6 +413,7 @@ Web
   * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
 * postman
   * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
+  * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
@@ -424,6 +426,7 @@ Web
 * [HTTP 메서드](https://www.zerocho.com/category/HTTP/post/5b3723477b58fc001b8f6385)
 * [알아둬야 할 HTTP 요청 헤더](https://www.zerocho.com/category/HTTP/post/5b3ba2d0b3dabd001b53b9db)
 * [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
+* [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
 
 # Scala
 * Finatra

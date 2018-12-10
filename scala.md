@@ -43,7 +43,6 @@ Scala
 * [scalawags.tv](http://www.scalawags.tv/)
 * [scala center -  For open source. For education.  A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [Nine Reasons to Try Scala](http://www.vidyasource.com/tutorial/Scala/Java/Python/Groovy/Mobile/Android/Web/REST/Architecture/Programming/2015/04/03/nine-reasons-to-try-scala)
-* [Scala Exercises](http://scala-exercises.47deg.com/)
 * [Dick Wall on his Scala Course](https://www.youtube.com/watch?v=M8zj7aOcFTI)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
 * [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
@@ -198,6 +197,7 @@ Scala
   * [Nexus](https://github.com/ctongfei/nexus/blob/master/README.md)
 * **[practice - scala streams](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)**
 * [Python vs. Scala: a comparison of the basic commands](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
+* [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)

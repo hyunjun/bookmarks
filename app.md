@@ -31,6 +31,7 @@ App
 * [Tools for Makers - a hand curated directory of tools for makers to work on their dream projects](https://toolsformakers.com/)
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
   * Airtable, Zenkit, Notion, Coda
+* [Confluence를 이용한 프로젝트 현황판](https://www.popit.kr/confluence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%84%ED%99%A9%ED%8C%90)
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
@@ -83,6 +84,7 @@ App
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
 * [startupstash.com](http://startupstash.com/)
 * [StarUML 2](http://staruml.io/)
+* [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
@@ -667,6 +669,7 @@ App
 ## Development
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
 * [윈도우에서 심볼릭 링크 만들기](https://libsora.so/posts/ntfs-symbolic-link/)
+* [윈도우 10 앱이지만 유용한 무료 네트워킹 툴 10선](http://www.itworld.co.kr/news/112632)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)

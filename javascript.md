@@ -66,6 +66,7 @@ Javascript
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [최종 완성본! 자바스크립트로 생산성 앱 클론하기](https://www.youtube.com/watch?v=yLNuqWCUA8A)
+* [최종 완성본! 유튜브 클론 코딩!](https://www.youtube.com/watch?v=es8qBt3lNjE)
 * [A Netflix Web Performance Case Study Improving Time-To-Interactive for Netflix.com on Desktop](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
@@ -388,6 +389,8 @@ Javascript
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 1](https://www.youtube.com/watch?v=JzFvGf7Ywkk)
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 2](https://www.youtube.com/watch?v=ozMwRq-IT2w)
 * [Forget Docker, the future is JAMstack](https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616)
+* [자바스크립트에서 expect(-3 % 3).toEqual(3 % 3)가 실패하는 이유](https://libsora.so/posts/-3-mod-3-is-not-equal-to-3-mod-3-in-javascript/)
+* [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -654,6 +657,7 @@ Javascript
   * [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018/)
 * [11 Javascript Utility Libraries You Should Know In 2018](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
 * [10 JavaScript Animation Libraries to Follow in 2018](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
+* [6 JavaScript User Authentication Libraries for 2019](https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
@@ -1176,6 +1180,7 @@ Javascript
 * [How to use NodeJS without frameworks and external libraries](https://hackernoon.com/how-to-use-nodejs-without-frameworks-and-external-libraries-97eb6acac9e3)
 * [Nodejs 버전업시 log.gauge.isEnabled 문제 해결 방법](https://jojoldu.tistory.com/357)
 * [Learn Node.js by building a Timestamp Microservice app](https://medium.freecodecamp.org/microservice-8edfdb9be811)
+* [Nodejs C++/JS Boundary: Crossing The Rubicon](https://blog.bitsrc.io/nodejs-c-js-boundary-crossing-the-rubicon-c9c5511907a2)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1491,6 +1496,7 @@ Javascript
 * [Why React Hooks, and how did we even get here?](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 * [syntax.fm/show/092/react-hooks](https://syntax.fm/show/092/react-hooks) podcast
 * [An Introduction to Hooks in React](https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react)
+* [React 16.7 Hooks](https://slides.com/hyungjunkim-1/cosmee)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
@@ -1563,6 +1569,8 @@ Javascript
 * [How to Become a React Native Developer in 2018](https://hackernoon.com/how-to-become-a-react-native-developer-in-2018-d9bc85e1d91f)
 * [Sunsetting React Native](https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a)
 * [Awesome React Native UI Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
+* [React로 보는 COSMEE](https://slides.com/bobinlee-1/deck)
+  * [github.com/BoBinLee/rn-stack-sample](https://github.com/BoBinLee/rn-stack-sample)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
@@ -1827,3 +1835,4 @@ Javascript
 * [Vue.js 컴포넌트 재사용하기 - slot 편](https://joshua1988.github.io/web-development/vuejs/slots/)
 * [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)
 * [How to add Internationalization to a Vue Application](https://medium.freecodecamp.org/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b)
+* [Vue.js 입문자가 흔히 저지르는 문법 실수 총정리](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)

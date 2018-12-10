@@ -101,6 +101,7 @@ Java
 * [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
 * [Java 에러 : could not find java.dll](http://sunyzero.tistory.com/256)
+* [Invest in Your Java Katalogue](https://www.youtube.com/watch?v=GDnMEOaKUMs)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)

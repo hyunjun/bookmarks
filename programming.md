@@ -207,6 +207,7 @@ Programming
 * [파일럿 프로젝트와 함께 우아한개발자 되어가기](http://woowabros.github.io/experience/2018/11/29/pilot-project.html)
 * [우아한 파일럿 프로젝트 2기(feat.고독한개발자)](http://woowabros.github.io/experience/2018/11/29/pilot-project-minzy.html)
 * [How to Organize Software Development In a Super-Efficient Way: Three Practical Tips](https://hackernoon.com/how-to-organize-software-development-in-a-super-efficient-way-three-practical-tips-86abe7575ed0)
+* [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -580,6 +581,7 @@ Programming
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
+* [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
 * [코드 리뷰에 대해서](https://brunch.co.kr/@cleancode/35)
 * [오픈소스 개발자 이야기 20170701 오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 * [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
@@ -1017,6 +1019,7 @@ Programming
   * [11월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/11/b-11-2.html)
   * [11월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-3.html)
   * [11월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/12/b-11-4.html)
+  * [12월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/12/b-12-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1283,6 +1286,7 @@ Programming
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
 * [Two pillars of automated testing](https://hackernoon.com/two-pillars-of-automated-testing-13d0c2c6a7c)
+* [codekata.com](http://codekata.com/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)

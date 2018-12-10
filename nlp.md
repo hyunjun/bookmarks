@@ -620,6 +620,8 @@ NLP
 * [khaiii](https://github.com/kakao/khaiii)
   * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
   * [카카오 형태소 분석기(khaiii) 설치와 은전한닢(mecab) 형태소 분석기 비교](https://lsjsj92.tistory.com/408)
+  * [카카오 형태소 분석기(khaiii) 분석 시간 및 딥러닝 모델 성능 비교](https://lsjsj92.tistory.com/410)
+  * [한국어 형태소 분석기 성능 비교](https://iostream.tistory.com/144)
 * [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
   * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
   * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)
@@ -1060,6 +1062,7 @@ NLP
 * [A history of machine translation from the Cold War to deep learning](https://medium.freecodecamp.org/a-history-of-machine-translation-from-the-cold-war-to-deep-learning-f1d335ce8b5)
 * [UNdreaMT: Unsupervised Neural Machine Translation](https://github.com/artetxem/undreamt) pytorch
 * [Neural Machine Translation : Everything you need to know](https://www.youtube.com/watch?v=yM2wqxhOb74)
+* [Neural Translation Model with Attention](https://medium.com/datadriveninvestor/neural-translation-model-95277838d17d)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
@@ -1102,6 +1105,7 @@ NLP
 * [wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia](https://github.com/walle/wiki)
 * [What are the ten most cited sources on Wikipedia? Let’s ask the data](https://medium.com/freely-sharing-the-sum-of-all-knowledge/what-are-the-ten-most-cited-sources-on-wikipedia-lets-ask-the-data-34071478785a)
 * [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
+* [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)
 
 # Word2Vec
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
