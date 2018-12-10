@@ -1159,8 +1159,9 @@ Programming Books
 * [효율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
   * 한라 005.54러47ㅎ
   * ★★★★☆ 목차만 봐도 흔히 찾기 어려운 책이라는 걸 알 수 있다. 환경설정 파일에 대한 설명부터, 하드웨어, 협업, 학습을 효율적으로 하기 위한 방법 등 정말 실용적인 책
-* 그것이 R고 싶다
+* [그것이 R고 싶다](http://www.hanbit.co.kr/store/books/look.php?p_code=B8272913423)
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EA%B7%B8%EA%B2%83%EC%9D%B4-r%EA%B3%A0-%EC%8B%B6%EB%8B%A4-f8671046746)
+  * [그것이 R고 싶다](https://www.youtube.com/playlist?list=PLVsNizTWUw7GXqXZwyV2lg5GyzCtCwCXL)
 * 처음 시작하는 R 데이터 분석
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-r-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-ea6a8525fde2)
 * (NOT YET) [Do it! 쉽게 배우는 R 데이터 분석](http://www.easyspub.co.kr/20_Menu/BookView/A001/138/PUB)
