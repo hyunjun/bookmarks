@@ -687,6 +687,7 @@ Machine Learning
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
+  * [H2O for Inexperienced Users](https://www.h2o.ai/blog/h2o-for-inexperienced-users/)
 * [lablup/backend.ai](https://github.com/lablup/backend.ai/wiki)
   * [docs.backend.ai](http://docs.backend.ai)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
