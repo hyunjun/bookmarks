@@ -42,6 +42,7 @@ Docker
 * [Docker를 이용해 호스트와 다른 버전의 PHP 개발환경 만들기](https://blog.grotesq.com/post/651)
 * [도커 Docker 로 논리적으로 구분된 PHP 작업 공간 만들기](https://blog.grotesq.com/post/660)
 * [일반 PHP 프로젝트 개발 환경에서 docker 사용하기](https://www.haruair.com/blog/4430) docker-compose
+* [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)
 * 케빈 TV

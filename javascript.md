@@ -1357,6 +1357,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2018-8897aec7d59c)
 * [React.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-nov-2018-b346ae8e2947)
 * [React.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-oct-2018-1d2540bfbd7a)
 * [React.js Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/react-js-open-source-projects-of-the-month-v-june-2018-707339ace0d6)
@@ -1514,6 +1515,7 @@ Javascript
 * [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
 * [react automata](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180913_WJ_react_automata.md)
 * [How to develop your React superpowers with the Render Props Pattern](https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053)
+* [re-Understanding State Management in JavaScript by Building a Library Similar to Redux](https://hackernoon.com/building-a-redux-like-state-manager-for-react-cd75cc2853b3)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)

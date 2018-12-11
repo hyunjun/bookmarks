@@ -364,6 +364,7 @@ Python
 * [Symbolic Computing Using Python: Part 1-Basics](https://medium.com/@alexmaisiura/symbolic-computing-using-python-part-1-basics-cd4007e5f9b0)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [Python: Beyond the basics II - IPython, encapsulation & args](https://medium.com/@m0etaz/python-beyond-the-basics-ii-16964d70c4da)
+* [Python stories, September 2018](https://hackernoon.com/python-stories-september-2018-d34e526edde2)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1856,6 +1857,7 @@ Python
   * [CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
   * [Why Python's The Best Language For AI (and How To Make It Even Better)](https://www.youtube.com/watch?v=ttpL4Qpr9jc)
   * [Dynamic Code Instrumentation with Hacked Interpreters || James Powell](https://www.youtube.com/watch?v=38d_TbSRWAw)
+  * [Blurb-it is now available](https://discuss.python.org/t/blurb-it-is-now-available/528) CPython contribution 방법
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)

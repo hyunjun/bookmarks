@@ -257,6 +257,8 @@ Clojure
 * [개발 환경 설정](https://github.com/clojure-kr/clojure-complete/blob/master/Development-Environments/development-environments.adoc)
 * [nil punning](https://gist.github.com/philoskim/f4ab7ae21b5bf76def85ad61855fb9bf#nil-punning)
 * [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
+* [Modelling Time - Eric Evans - DDD Europe 2018](https://www.youtube.com/watch?v=T29WzvaPNc8)
+  * 시간 값 모델링에 clojure 사용
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

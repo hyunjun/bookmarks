@@ -135,6 +135,7 @@ Deep Learning
 * [Neural Translation of Musical Style](http://imanmalik.com/cs/2017/06/05/neural-style.html)
 * [End-to-end Music Classification](https://www.slideshare.net/JunKim22/endtoend-music-classification-96586946)
 * [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
+* [Machine Learning for Creativity and Design Workshop (NeurIPS2018), and +@](https://keunwoochoi.wordpress.com/2018/12/10/machine-learning-for-creativity-and-design-workshop-neurips2018/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
   * [Deep Learning Summer School, Montreal 2015](http://videolectures.net/deeplearning2015_montreal/)

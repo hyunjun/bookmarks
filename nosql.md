@@ -389,6 +389,8 @@ NoSQL
 * [Why you should pick strong consistency, whenever possible](https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html)
   * Google Cloud Spanner가 multi-master replication과 다른점을 포함한 external consistency를 보장
 
+# [Sparkey - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts](https://github.com/spotify/sparkey)
+
 # Splunk
 * [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)
 

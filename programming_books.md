@@ -325,6 +325,7 @@ Programming Books
 * **[애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)**
   * 탐라 문 005.74저219ㅇ
   * 굉장히 많은 내용을 담고 있으며, 특히 airflow를 책에서 다루는 건 처음 본 듯
+* (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
 * **[파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)**
   * 한라 005.133-민94ㅍ
   * 완전히 실무서적. 참고할 만한 예가 많아서 좋음. 예제도 jupyter로 진행

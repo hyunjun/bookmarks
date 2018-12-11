@@ -92,6 +92,7 @@ Json
     * [dev-meetup.github.io 개발기](https://ash84.net/2017/03/28/dev-meetup-github-io/)
 * [장고 외부에서 Form, Serializer 활용하기](https://gist.github.com/allieus/fbd054fcc86d0509712c244d6206e57d) - request validation 용도로 사용 가능
 * [파이썬에서 JSON을 사용하는 방법](https://soooprmx.com/archives/6788)
+* [JSON — The Python Way](https://medium.com/python-pandemonium/json-the-python-way-91aac95d4041)
 * [Cerberus provides powerful yet simple and lightweight data validation functionality](http://docs.python-cerberus.org/en/stable/index.html)
 * [request-validator 1.5.0 - Python request validator](https://pypi.python.org/pypi/request-validator/1.5.0)
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)

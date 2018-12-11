@@ -386,6 +386,10 @@ Apache
   * 1.1.0 이전 2,000 ~ 4,000개 정도가 적절, 1.1.0 릴리즈 이후부터는 약 200,000개 까지 가능
   * 이렇게 큰 변화가 있게 된 원인은, 주키퍼에 변경되는 업데이트를 async 처리하고, 브로커에 새로운 리더 정보 업데이트를 배치로 일괄 처리함으로써, 1.1.0 릴리즈 이전 버전보다 속도가 향상 
 * [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
+* [Big Data, Fast Data @ PayPal](https://www.slideshare.net/r39132/big-data-fast-data-paypal)
+  * Paypal 데이터 플랫폼 이야기. CDC(Change Data Capture)와 Kafka와 Avro를 같이 사용해야 하는 이유 등 아키텍처에 대해 설명
+* [An Overview of Kafka Distributed Message System](https://www.alibabacloud.com/blog/an-overview-of-kafka-distributed-message-system_594218)
+  * Apache Kafka 개념 설명
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -500,6 +504,10 @@ Apache
   * 자사 개발 제품군인 Apache Atlas, Ranger, Ambari와 높은 호환성
 * [Testing Kafka Streams Applications](https://speakerdeck.com/dongjin/testing-kafka-streams-applications)
 * [Kafka Streams for Stream processing A few words about how Kafka works](https://balamaci.ro/kafka-streams-for-stream-processing/)
+* [Building Secure and Governed Microservices with Kafka Streams](https://ko.hortonworks.com/blog/building-secure-and-governed-microservices-with-kafka-streams/)
+  * 트럭 화물 운송회사에서 지오-이벤트 센서 데이터를 캡처하고 분석할 수 있는 애플리케이션을 Kafka Streams로 만드는 방법
+* [Learn kafka streams by making the tests pass](https://github.com/ardlema/kafka-streams-workshop)
+  * Apache Kafka Streams를 배울 수 있는 워크숍
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
