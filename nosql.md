@@ -274,6 +274,8 @@ NoSQL
 * [Siberite is a simple leveldb backed message queue server](https://github.com/bogdanovich/siberite)
 
 # [LMDB - Lightning Memory-Mapped Database Manager](http://symas.com/mdb/doc/)
+* [github.com/LMDB/lmdb](https://github.com/LMDB/lmdb)
+* [python-LMDB](https://github.com/dsindex/blog/wiki/%5Bpython%5D-LMDB)
 
 # Manhattan
 * [Manhattan, our real-time, multi-tenant distributed database for Twitter scale](https://blog.twitter.com/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale)
@@ -282,6 +284,8 @@ NoSQL
 # MapD; C++로 구현, GPU 기반의 In-Memory Columnar SQL DB
 * [MapD: Massive Throughput Database Queries with LLVM on GPUs](http://devblogs.nvidia.com/parallelforall/mapd-massive-throughput-database-queries-llvm-gpus/)
 * [MapD Open Sources GPU-Powered Database](https://www.mapd.com/blog/2017/05/08/mapd-open-sources-gpu-powered-database/)
+
+# [MDBM - a super-fast memory-mapped key/value store](https://github.com/yahoo/mdbm)
 
 # Memcached
 * [MONITORING GROWING MEMCACHED](http://engineering.vinted.com/2015/06/09/monitoring-growing-memcached/)

@@ -157,6 +157,7 @@ Interview
 * [Amazon의 연봉 및 보상 체계](https://steemit.com/kr/@asbear/2fzkfy-amazon)
 * [Amazon 취업 후기 - 컨택부터 오퍼까지](https://steemit.com/kr/@asbear/amazon)
 * [아마존 인터뷰에 떨어지다](https://brunch.co.kr/@worker-in-yvr/12)
+* [두 번째 아마존 인터뷰](https://brunch.co.kr/@worker-in-yvr/18)
 * [아마존의 기업 문화](https://www.youtube.com/watch?v=BJdpoh695D4)
 
 # Architecture, System Design
