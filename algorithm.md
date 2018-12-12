@@ -142,6 +142,7 @@ Algorithm
 * **[The Algorithms Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)**
 * [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms)
 * [n개의 제비뽑기에 n번 도전](https://johngrib.github.io/wiki/frac1e/)
+* [Coding Your First Algorithm — Draw A Line](https://medium.freecodecamp.org/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

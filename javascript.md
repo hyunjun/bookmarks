@@ -391,6 +391,7 @@ Javascript
 * [Forget Docker, the future is JAMstack](https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616)
 * [자바스크립트에서 expect(-3 % 3).toEqual(3 % 3)가 실패하는 이유](https://libsora.so/posts/-3-mod-3-is-not-equal-to-3-mod-3-in-javascript/)
 * [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
+* [How to get noticed in the Javascript world](https://hackernoon.com/how-to-get-noticed-in-the-javascript-world-aec7d382b005)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -620,6 +621,7 @@ Javascript
 * [Future-Proofing Backend Services with GraphQL, PostgreSQL and Docker (Part 1)](https://medium.com/@jrryjcksn/future-proofing-backend-services-with-graphql-postgresql-and-docker-part-1-527bd6b1a59a)
   * [gist](https://gist.github.com/jrryjcksn/6551beeceaba8a066eebc7b893e661da)
 * [GraphQL project structure](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180830_SM_refactoring_graphql_type.md)
+* [A new approach to mocking GraphQL data](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -799,6 +801,7 @@ Javascript
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * [login-with-ssh - An experiment to authenticate web sessions with SSH - http://demo-ssh.32b6.com](https://github.com/altitude/login-with-ssh)
 * [Loupe - a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) 자바스크립트의 호출 스택, 이벤트 루프, 콜백 큐가 서로 어떤 과정을 거쳐 상호 작용하는지 이해하는데 도움을 주는 시각화 도구
+  * 자바스크립트 call stack/event loop/callback queue를 시각적으로 볼 있는 사이트
 * [Lovefield is a relational database for web apps](https://google.github.io/lovefield/)
 * [lozad.js - Intersection Observer API와 lozad.js 로 이미지 지연 로딩하기](https://rhostem.github.io/posts/2017-10-21-lazay-image-loading-with-lodzad-js/)
 * [mailto: URLs in JavaScript](http://xion.io/post/code/js-mailto-urls.html)
@@ -1113,6 +1116,7 @@ Javascript
 * [Mac에 설치된 node.js 제거하기](http://gomcine.tistory.com/entry/nodejs-Mac%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-nodejs-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-dec-2018-89be607bdc44)
 * [Node.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-nov-2018-19b25a638588)
 * [Node.js Open Source of the Month (v.Aug 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-aug-2018-a3093d14943c)
 * [Node.js Open Source of the Month (v.July 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-july-2018-f4ec666bad64)
@@ -1509,6 +1513,7 @@ Javascript
 * [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
 * [Reconciliation: React의 렌더링 알고리즘](https://www.huskyhoochu.com/virtual-dom)
 * [NAVER Tech Talk: React Native (2018년 7월, 10월)](https://d2.naver.com/news/5689003)
+* [NAVER Tech Talk: FE devtalk 12회 (2018년 8월)](https://d2.naver.com/news/4244163) redux, mobx & mst
 * [How to Develop a Location-based Application Using React Native](https://medium.freecodecamp.org/how-to-develop-a-location-based-application-using-react-native-6f49cdbdac4f)
 * [How to create a three layer application with React](https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0)
 * [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
@@ -1819,9 +1824,10 @@ Javascript
 * [실무에서 사용하는 Vue.js 프로젝트 구조](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
 * [Evan you on proxies](http://devtimothy.tistory.com/88)
 * [난 React와 Vue에서 완전히 똑같은 앱(todo)을 만들었다. 여기 그 차이점이 있다.(번역글)](https://medium.com/@erwinousy/%EB%82%9C-react%EC%99%80-vue%EC%97%90%EC%84%9C-%EC%99%84%EC%A0%84%ED%9E%88-%EA%B0%99%EC%9D%80-%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EC%9D%B4%EA%B2%83%EC%9D%80-%EA%B7%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%EB%8B%A4-5cffcbfe287f)
-* [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](http://devtimothy.tistory.com/91)
 * [리액트와 뷰로 같은 앱을 만들어 보았다](http://devtimothy.tistory.com/92)
 * [리액트와 뷰로 같은 앱을 만들어 보았다.(Part 2: Angular)](http://devtimothy.tistory.com/93)
+* [I created the exact same app in React and Vue. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
+* [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](http://devtimothy.tistory.com/91)
 * [번역 자바스크립트 반응성(Reactivity)에 대한 가장 좋은 설명](https://rhostem.github.io/posts/2018-09-12-javascript-reactivity/)
 * Vuetorials
   * [0. 들어가면서](https://jaeyeophan.github.io/2018/10/21/Vuetorials-0-intro/)

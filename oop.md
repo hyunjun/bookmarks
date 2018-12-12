@@ -61,6 +61,9 @@
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
 * [왜 클래스죠?](http://www.haruair.com/blog/3895)
 
+# Clojure
+* [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
+
 # Dependency Injection
 * [Dependency Injection, Inversion of Control & The Dependency Inversion Principle](http://kc.my-junk.info/di-ioc-dip/)
 * [What is Dependency Injection?](http://fabien.potencier.org/what-is-dependency-injection.html)

@@ -356,6 +356,7 @@ Programming Books
     * [Row major vs. column major, row vectors vs. column vectors](https://fgiesen.wordpress.com/2012/02/12/row-major-vs-column-major-row-vectors-vs-column-vectors/)
     * [Row- and column-major order](https://en.wikipedia.org/wiki/Row-_and_column-major_order)
   * [밑바닥부터 시작하는 딥러닝](http://jybaek.tistory.com/678)
+  * [github.com/gangnamio/BackToTheDeep](https://github.com/gangnamio/BackToTheDeep)
 * (NOT YET) [딥러닝 첫걸음](http://book.daum.net/detail/book.do?bookid=DGT00032067456YE)
   * 2017.01 탐라
   * 이론 설명 + matlab 예제 코드

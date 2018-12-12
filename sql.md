@@ -248,6 +248,7 @@ SQL
 * [MySQL: Fulltext search에서 하이픈 캐릭터 사용하기](http://ohgyun.com/757)
 * [surrogate key 와 natural key](http://ohgyun.com/756)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
+* [Percona pt-online-schema-change 설치 및 사용하기](https://jojoldu.tistory.com/358)
 * [카카오뱅크, 마이SQL 잘 쓰는 비결](http://v.media.daum.net/v/20170917095558384)
 * [오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다](https://www.slideshare.net/deview/135-80845610)
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)

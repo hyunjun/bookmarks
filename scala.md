@@ -12,6 +12,7 @@ Scala
 * [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
 * [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 * [Scala Tutorial](https://intellipaat.com/tutorial/scala-tutorial/)
+* [Scala Tutorial Through Katas](https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/)
 * [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
 * 케빈 TV
