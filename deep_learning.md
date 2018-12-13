@@ -1126,6 +1126,7 @@ Deep Learning
   * [Colab에서 TensorBoard 및 MXBoard를 사용하여 데이터 시각화 하는 방법](https://gist.github.com/serithemage/7cf3937d1532ed94e982353c9349eebc)
   * [Run MXNet Scala Examples Using the IntelliJ IDE (macOS)](https://mxnet.incubator.apache.org/tutorials/scala/mxnet_scala_on_intellij.html)
   * [Implementation of SNAIL(A Simple Neural Attentive Meta-Learner) with Gluon](https://github.com/seujung/SNAIL-gluon)
+  * [LipNet: End-to-End Sentence-level Lipreading](https://github.com/ski-net/lipnet)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)

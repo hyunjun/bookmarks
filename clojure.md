@@ -105,6 +105,7 @@ Clojure
 * [EuroClojure](http://euroclojure.org/)
   * [EuroClojure 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLowQLPjuZ7k3pl2ScEyW7A7)
   * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
+* [clojurenorth.com](http://clojurenorth.com/)
 * [Korean Clojure User Group](https://groups.google.com/forum/#!forum/clojure-kr)
   * [몇 가지 궁금한 점](https://groups.google.com/forum/#!topic/clojure-kr/27UzP9W8K2E)
   * [월마트에서 클로저를 사용한 이야기](https://groups.google.com/forum/#!topic/clojure-kr/-ApbDnXd40Q)
