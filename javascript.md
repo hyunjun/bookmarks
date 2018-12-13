@@ -197,6 +197,7 @@ Javascript
 * [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
 * [비동기 교통정리 - async.waterfall](http://jybaek.tistory.com/745)
 * [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://medium.freecodecamp.org/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40)
+* [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
@@ -253,6 +254,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+	* [JavaScript Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2018-a950852e96f3)
   * [JavaScript Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-nov-2018-781044d43aed)
   * [JavaScript Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f)
   * [JavaScript Open Source of the Month (v.July 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-july-2018-626eee418a74)
@@ -365,6 +367,7 @@ Javascript
   * [브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
+* [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 * JS로 배우는 자료구조와 알고리즘
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
   * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
@@ -1185,6 +1188,10 @@ Javascript
 * [Nodejs 버전업시 log.gauge.isEnabled 문제 해결 방법](https://jojoldu.tistory.com/357)
 * [Learn Node.js by building a Timestamp Microservice app](https://medium.freecodecamp.org/microservice-8edfdb9be811)
 * [Nodejs C++/JS Boundary: Crossing The Rubicon](https://blog.bitsrc.io/nodejs-c-js-boundary-crossing-the-rubicon-c9c5511907a2)
+* [Node.js 코드랩 - 소개 및 목차](http://blog.jeonghwan.net/series/2018/12/01/node-web-0_index.html)
+	* [1. 오리엔테이션](http://blog.jeonghwan.net/series/2018/12/01/node-web-1_orientation.html)
+	* [2. 기본 모듈 http](http://blog.jeonghwan.net/series/2018/12/02/node-web-2_http.html)
+	* [3. 리팩토링](http://blog.jeonghwan.net/series/2018/12/03/node-web-3_refactoring.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1521,6 +1528,7 @@ Javascript
 * [react automata](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180913_WJ_react_automata.md)
 * [How to develop your React superpowers with the Render Props Pattern](https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053)
 * [re-Understanding State Management in JavaScript by Building a Library Similar to Redux](https://hackernoon.com/building-a-redux-like-state-manager-for-react-cd75cc2853b3)
+* [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1844,3 +1852,4 @@ Javascript
 * [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)
 * [How to add Internationalization to a Vue Application](https://medium.freecodecamp.org/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b)
 * [Vue.js 입문자가 흔히 저지르는 문법 실수 총정리](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
+* [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)

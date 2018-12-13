@@ -3,6 +3,17 @@ Statistics
 * **[21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)**
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
+* [층화 추출(stratified sampling)](http://blog.naver.com/PostView.nhn?blogId=gusdud9104&logNo=90084128175)
+  * qc 기준으로 층화 샘플링 하는 경우
+    * (query, query count) pair 생성 후 qc로 sort
+    * n개 구간으로 분리 후, k개씩 random choice
+    * 구간의 전체 개수가 k보다 작은 경우
+      * 추출 기간 증가
+      * 구간 개수 축소
+* [MCMC sampling for dummies](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
+  * [쉽게 쓰여진 MCMC](http://blog.naver.com/rupy400/220775812498)
+* [Importance sampling 방법](http://blog.naver.com/kwonpub/221143316307])
+* [Sampling Techniques](https://towardsdatascience.com/sampling-techniques-a4e34111d808)
 * [Understanding Variance, Co-Variance, and Correlation](http://www.countbayesie.com/blog/2015/2/21/variance-co-variance-and-correlation)
 * [13 Great Articles and Tutorials about Correlation](http://www.datasciencecentral.com/profiles/blogs/13-great-articles-and-tutorials-about-correlation)
 * [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
@@ -99,13 +110,6 @@ Statistics
 * [LEARNING STATISTICS ON YOUTUBE](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
 * [만화로 쉽게 보는 통계분석 - 확률의 공리 편 -](http://cafe.daum.net/Statistics.sniper)
 * [딥러닝 예제로 보는 개발자를 위한 통계 최재걸](http://www.slideshare.net/deview/216-67609104)
-* [층화 추출(stratified sampling)](http://blog.naver.com/PostView.nhn?blogId=gusdud9104&logNo=90084128175)
-  * qc 기준으로 층화 샘플링 하는 경우
-    * (query, query count) pair 생성 후 qc로 sort
-    * n개 구간으로 분리 후, k개씩 random choice
-    * 구간의 전체 개수가 k보다 작은 경우
-      * 추출 기간 증가
-      * 구간 개수 축소
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 * [STAT 501](https://onlinecourses.science.psu.edu/stat501/)
 * [statground.org](http://www.statground.org/) 수리통계학 pdf 자료 받은 곳
@@ -212,9 +216,6 @@ Statistics
 * [Bayes’ Theorem](http://crucialconsiderations.org/rationality/bayes-theorem/)
 * [A Tutorial on Learning With Bayesian Networks](http://research.microsoft.com/pubs/69588/tr-95-06.pdf)
 * [Basic MCMC and Bayesian statistics in... BASIC!](http://sumsar.net/blog/2015/08/basic-mcmc-and-bayesian-statistics-in-basic/)
-* [MCMC sampling for dummies](http://twiecki.github.io/blog/2015/11/10/mcmc-sampling/)
-  * [쉽게 쓰여진 MCMC](http://blog.naver.com/rupy400/220775812498)
-* [Importance sampling 방법](http://blog.naver.com/kwonpub/221143316307])
 * [Bayesian과 MCMC 알고리즘 (Gibbs and Metropolis-Hastings Algorithm)](http://enginius.tistory.com/m/514)
 * [Bayesian Financial Models](http://toddmoses.com/articles/read/bayesian_financial_models)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)

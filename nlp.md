@@ -243,6 +243,7 @@ NLP
 * [NLP Guide: Identifying Part of Speech Tags using Conditional Random Fields](https://medium.com/analytics-vidhya/pos-tagging-using-conditional-random-fields-92077e5eaa31)
 * [Industrial strength Natural Language Processing](https://medium.freecodecamp.org/industrial-strength-natural-language-processing-de2588b6b1ed)
 * [HMTL로 NLP의 최첨단 기술을 뛰어 넘다](https://parksurk.github.io/Beyond_current_NLP_with_HMTL-post)
+* [A Review of the Neural History of Natural Language Processing](http://ruder.io/a-review-of-the-recent-history-of-nlp/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -619,6 +620,7 @@ NLP
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [khaiii](https://github.com/kakao/khaiii)
   * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
+	* [kakao의 오픈소스 Ep9 - Khaiii : 카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
   * [카카오 형태소 분석기(khaiii) 설치와 은전한닢(mecab) 형태소 분석기 비교](https://lsjsj92.tistory.com/408)
   * [카카오 형태소 분석기(khaiii) 분석 시간 및 딥러닝 모델 성능 비교](https://lsjsj92.tistory.com/410)
   * [한국어 형태소 분석기 성능 비교](https://iostream.tistory.com/144)
@@ -846,6 +848,7 @@ NLP
   * [Dissecting BERT](https://medium.com/dissecting-bert)
   * [Bert state Of The Art pre Training for nlp Post](https://parksurk.github.io/BERT-State-of-the-Art-Pre-training-for-NLP-post)
   * [bert-multiple-gpu - A multiple GPU support version of BERT](https://github.com/JayYip/bert-multiple-gpu)
+	* [NVIDIA Achieves 4X Speedup on BERT Neural Network](https://news.developer.nvidia.com/nvidia-achieves-4x-speedup-on-bert-neural-network)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
@@ -1109,6 +1112,7 @@ NLP
 * [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)
 
 # Word2Vec
+* [awesome-sentence-embedding - A curated list of pretrained sentence(and word) embedding models](https://github.com/Separius/awesome-sentence-embedding)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [Word vectors (word2vec) on named entities and phrases - I](http://www.vikasing.com/2015/03/word-vectors-word2vec-on-named-entities.html)
 * [w.elnn.kr](http://w.elnn.kr)

@@ -6,6 +6,7 @@ Vim
 * [hea-www.harvard.edu/~fine/Tech/vi.html](http://hea-www.harvard.edu/~fine/Tech/vi.html)
 * [Vim Is The Perfect IDE](https://dev.to/allanmacgregor/vim-is-the-perfect-ide-e80)
 * [vim 초 간단 매뉴얼](http://happyoutlet.tistory.com/11)
+* [simple_vim_guide](https://github.com/johngrib/simple_vim_guide)
 * buffers
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags

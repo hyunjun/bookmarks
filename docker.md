@@ -465,6 +465,7 @@ Docker
 * [Can Kubernetes Revolutionize The Enterprise World?](https://hackernoon.com/can-kubernetes-revolutionize-the-enterprise-world-86f4ec147d1f)
 * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
 * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
+* [How to learn Kubernetes with Minikube](https://www.hpe.com/us/en/insights/articles/how-to-learn-kubernetes-with-minikube-1812.html)
 * [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * Kubernetes
