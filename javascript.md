@@ -254,7 +254,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
-	* [JavaScript Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2018-a950852e96f3)
+  * [JavaScript Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2018-a950852e96f3)
   * [JavaScript Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-nov-2018-781044d43aed)
   * [JavaScript Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f)
   * [JavaScript Open Source of the Month (v.July 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-july-2018-626eee418a74)
@@ -1189,9 +1189,9 @@ Javascript
 * [Learn Node.js by building a Timestamp Microservice app](https://medium.freecodecamp.org/microservice-8edfdb9be811)
 * [Nodejs C++/JS Boundary: Crossing The Rubicon](https://blog.bitsrc.io/nodejs-c-js-boundary-crossing-the-rubicon-c9c5511907a2)
 * [Node.js 코드랩 - 소개 및 목차](http://blog.jeonghwan.net/series/2018/12/01/node-web-0_index.html)
-	* [1. 오리엔테이션](http://blog.jeonghwan.net/series/2018/12/01/node-web-1_orientation.html)
-	* [2. 기본 모듈 http](http://blog.jeonghwan.net/series/2018/12/02/node-web-2_http.html)
-	* [3. 리팩토링](http://blog.jeonghwan.net/series/2018/12/03/node-web-3_refactoring.html)
+  * [1. 오리엔테이션](http://blog.jeonghwan.net/series/2018/12/01/node-web-1_orientation.html)
+  * [2. 기본 모듈 http](http://blog.jeonghwan.net/series/2018/12/02/node-web-2_http.html)
+  * [3. 리팩토링](http://blog.jeonghwan.net/series/2018/12/03/node-web-3_refactoring.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

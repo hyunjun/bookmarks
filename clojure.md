@@ -259,6 +259,7 @@ Clojure
 * [Clojure at Netflix](https://speakerdeck.com/daveray/clojure-at-netflix)
 * [Modelling Time - Eric Evans - DDD Europe 2018](https://www.youtube.com/watch?v=T29WzvaPNc8)
   * 시간 값 모델링에 clojure 사용
+* [Functional Programming in the Cloud: Simpler Application Development](https://www.youtube.com/watch?v=mxryzShPH8o) Datomic Cloud
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)

@@ -620,7 +620,7 @@ NLP
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [khaiii](https://github.com/kakao/khaiii)
   * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
-	* [kakao의 오픈소스 Ep9 - Khaiii : 카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
+  * [kakao의 오픈소스 Ep9 - Khaiii : 카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
   * [카카오 형태소 분석기(khaiii) 설치와 은전한닢(mecab) 형태소 분석기 비교](https://lsjsj92.tistory.com/408)
   * [카카오 형태소 분석기(khaiii) 분석 시간 및 딥러닝 모델 성능 비교](https://lsjsj92.tistory.com/410)
   * [한국어 형태소 분석기 성능 비교](https://iostream.tistory.com/144)
@@ -848,7 +848,7 @@ NLP
   * [Dissecting BERT](https://medium.com/dissecting-bert)
   * [Bert state Of The Art pre Training for nlp Post](https://parksurk.github.io/BERT-State-of-the-Art-Pre-training-for-NLP-post)
   * [bert-multiple-gpu - A multiple GPU support version of BERT](https://github.com/JayYip/bert-multiple-gpu)
-	* [NVIDIA Achieves 4X Speedup on BERT Neural Network](https://news.developer.nvidia.com/nvidia-achieves-4x-speedup-on-bert-neural-network)
+  * [NVIDIA Achieves 4X Speedup on BERT Neural Network](https://news.developer.nvidia.com/nvidia-achieves-4x-speedup-on-bert-neural-network)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)

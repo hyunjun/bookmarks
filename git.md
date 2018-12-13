@@ -410,6 +410,7 @@ Git
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * [GitHub과 연동해서 의존성 라이브러리를 관리할 수 있는 서비스들](https://blog.outsider.ne.kr/1323)
+* [개발 툴소개 + 수다 (2018-12-07) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=B0jXvwX6_rk)
 * **[Atomist Project Templates](https://github.com/atomist-project-templates)** Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
 * [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)
@@ -417,6 +418,7 @@ Git
 * [CloneGits - A tool to clone all of a user's GitHub repos to the local machine](https://github.com/jsnider3/CloneGits)
 * [codebeat - Get instant feedback on your code](https://codebeat.co/)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
+* [Fork - a fast and friendly git client for Mac and Windows](https://git-fork.com)
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [gg - hybrid version control system](http://www-cs-students.stanford.edu/~blynn/gg/)
@@ -474,6 +476,7 @@ Git
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
+* [SourceTree - Simplicity and power in a beautiful Git GUI](https://www.sourcetreeapp.com)
 * [Sublime Merge](https://www.sublimemerge.com/) Meet a new Git client, from the makers of Sublime Text
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig ](https://github.com/jonas/tig)
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)

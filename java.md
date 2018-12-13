@@ -628,6 +628,7 @@ Java
 * [Migrating from Oracle JDK to OpenJDK on Red Hat Enterprise Linux: What you need to know](https://developers.redhat.com/blog/2018/11/05/migrating-from-oracle-jdk-to-openjdk-on-red-hat-enterprise-linux-what-you-need-to-know)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
+  * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
 * [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)

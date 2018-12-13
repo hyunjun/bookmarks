@@ -392,7 +392,6 @@ Web
 * REST 알아보기
   * [1부, 연동의 역사](http://annehouse.tistory.com/m/466)
   * [2부, 웹에서 뭐가 그리도 좋을까?](http://annehouse.tistory.com/m/467)
-* [NSP로 구현한 API 예제](https://github.com/Hanul/nsp-sample-restful)
 * REST API의 이해와 설계
   * [#1 개념 소개](http://bcho.tistory.com/m/post/953)
   * [#2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
@@ -409,17 +408,11 @@ Web
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://realm.io/kr/news/best-practices-pain-points-mobile-networking-rest-api-failures/)
 * [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest%EC%9D%98-representation%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [웹훅 기능을 테스트 하기 좋은 도구들 소개](http://blog.aliencube.org/ko/2017/06/02/tools-for-testing-webhooks/) RequestBin, ngrok
-* [JSON Server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
-  * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
-* postman
-  * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
-  * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
 * [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
 * [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
-* [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
 * [O API — an alternative to REST APIs](https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c)
 * [백엔드 개발자와 협업하는 두 가지 방법](https://blog.coderifleman.com/2018/03/03/two-ways-to-collaborate-with-backend-developer/)
 * [나만 몰랐던 Http Delete Method payload body 문제](http://blog.leekyoungil.com/?p=390)
@@ -427,6 +420,14 @@ Web
 * [알아둬야 할 HTTP 요청 헤더](https://www.zerocho.com/category/HTTP/post/5b3ba2d0b3dabd001b53b9db)
 * [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
 * [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
+* [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
+* [JSON Server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
+  * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
+* [NSP로 구현한 API 예제](https://github.com/Hanul/nsp-sample-restful)
+* postman
+  * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
+  * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
+* [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
 
 # Scala
 * Finatra

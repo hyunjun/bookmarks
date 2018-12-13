@@ -171,6 +171,7 @@ Keras
 * [Code for plotting the keras model graph](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb)
 * [파이썬 케라스로 딥러닝하자! LSTM(RNN)을 이용해 뉴스 기사 분류하기](https://lsjsj92.tistory.com/409)
 * [Understand the Difference Between Return Sequences and Return States for LSTMs in Keras](https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras)
+* [tf.keras - 1.강좌소개 (Korean)](https://www.youtube.com/watch?v=r6L-Ief6BQ8)
 
 # GAN
 * [Implementation BEGAN by Keras](https://github.com/mokemokechicken/keras_BEGAN)
