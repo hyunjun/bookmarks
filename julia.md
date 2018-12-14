@@ -127,3 +127,6 @@ Julia
 * [뉴욕 연방 준비 은행](https://github.com/FRBNY-DSGE)
 * [블랙록 자산 운용](https://github.com/blackrock)
 * [Conning 자산 운용](https://github.com/Conning)
+
+## MOOC, Lecture
+* [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)

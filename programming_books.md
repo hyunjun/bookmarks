@@ -1220,9 +1220,10 @@ Programming Books
 * Mastering Apache Spark 마스터링 아파치 스파크
   * 한라 005.76 프293ㅁ
   * GraphX 있음
-* 9가지 사례로 익히는 고급 스파크 분석 : 현실 세계 빅데이터로 배우는 가장 실용적인 스파크 활용서
+* [9가지 사례로 익히는 고급 스파크 분석 : 현실 세계 빅데이터로 배우는 가장 실용적인 스파크 활용서](http://www.hanbit.co.kr/store/books/look.php?p_code=B2901427500)
   * 탐라 문005.74 라68; 번역이 최근에 되어 그렇지, 예전 책. 1.2를 사용
   * 탐라 문005.76 라69ㅇ 2판; 2.x기준
+  * [Advanced Analytics with Spark Source Code](https://github.com/sryza/aas)
 * [스파크: 빅데이터 관리자를 위한 클러스터 테크닉](http://www.yes24.com/24/goods/32435764)
   * 탐라 문005.76굴29ㅅ
   * 제목처럼 관리자를 위한 책이라 프로그래밍 설명이 많지는 않음

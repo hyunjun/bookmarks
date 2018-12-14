@@ -65,6 +65,9 @@ Nomad & Remote
 * [그 개발자 이야기](https://www.youtube.com/playlist?list=PLW6vRth7cf-N29mn-7VK29hFYAqve20v7)
   * 해외에 거주하는 여러 개발자 인터뷰
 
+# Asia
+* [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
+
 # America
 * [New Data Show How Firms Like Infosys and Tata Abuse the H-1B Program](http://www.epi.org/blog/new-data-infosys-tata-abuse-h-1b-program/)
 * [회사를 찾는 도구들](http://siliconbeachstory.com/job-searching-tools/)

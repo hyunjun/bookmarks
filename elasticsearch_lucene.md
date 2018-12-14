@@ -247,6 +247,7 @@ ElasticSearch - Lucene
 * [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
 * [Beats 및Elasticsearch를 이용한 Docker & Kubernetes 로그 수집 및 모니터링](https://www.elastic.co/kr/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers)
 * [Elasticsearch의 색인 별명 활용 팁](https://www.ridicorp.com/blog/2018/11/20/index-aliases)
+* [Elastic Stack with 여기어때](https://github.com/HowookJeong/withinnovation/blob/master/shared-documents/Elasticsearch-Meetup-with-%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-20181213.pdf)
 
 # Docker
 * Dockerfile
@@ -306,6 +307,7 @@ ElasticSearch - Lucene
 * [ElasticSearch 5.x에서 6.x로 업그레이드](https://brunch.co.kr/@alden/44)
 * [Elastic Stack 롤링 업그레이드 6.4.2 -> 6.5.1 로 롤링 업그레이드](http://kimjmin.net/2018/12/2018-12-elasticsearch-rolling-upgrade/)
 * [Elastic 모니터링 전용 클러스터](http://kimjmin.net/2018/09/2018-09-dedicated-es-monitoring/)
+* [Elastic Stack Version 6.5: Feature Tour](https://www.youtube.com/watch?v=dnmqoD0XP18)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)

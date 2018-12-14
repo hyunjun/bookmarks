@@ -171,7 +171,13 @@ Keras
 * [Code for plotting the keras model graph](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb)
 * [파이썬 케라스로 딥러닝하자! LSTM(RNN)을 이용해 뉴스 기사 분류하기](https://lsjsj92.tistory.com/409)
 * [Understand the Difference Between Return Sequences and Return States for LSTMs in Keras](https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras)
-* [tf.keras - 1.강좌소개 (Korean)](https://www.youtube.com/watch?v=r6L-Ief6BQ8)
+* tf.keras
+  * [1.강좌소개 (Korean)](https://www.youtube.com/watch?v=r6L-Ief6BQ8)
+  * [2. TensorFlow1.8 설치 (Korean)](https://www.youtube.com/watch?v=LkpNEkQe7N0)
+  * [3. 뉴럴넷 XOR 문제 (Korean)](https://www.youtube.com/watch?v=-ritqOHpspE)
+  * [4. MNIST (Korean)](https://www.youtube.com/watch?v=QqmugTjVbz4)
+  * [5. Wide & Deep Neural Network (Korean)](https://www.youtube.com/watch?v=eAvYrGHCnAg)
+  * [6. Vanishing Gradient 문제 및 ReLU](https://www.youtube.com/watch?v=QAhlSzRLSos)
 
 # GAN
 * [Implementation BEGAN by Keras](https://github.com/mokemokechicken/keras_BEGAN)
