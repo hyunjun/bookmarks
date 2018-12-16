@@ -240,7 +240,9 @@ Algorithm
 * [15 Real-World Uses of Genetic Algorithms](http://brainz.org/15-real-world-applications-genetic-algorithms/)
 * [고2 때 하스스톤으로 진화론 연구했던 썰](http://ppss.kr/archives/53276)
 * [얇고 넓은 지식을 위한 글 - 유전알고리즘](http://redtea.kr/?b=3&n=966)
+* [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 * [Genetic Algorithm Implementation in Python](https://www.kdnuggets.com/2018/07/genetic-algorithm-implementation-python.html)
+* [GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython)
 
 # Graph
 * [2016 그래프이론](https://www.youtube.com/playlist?list=PL52K_8WQO5oXTfEr3nVK3HllrB71hZ-AF)

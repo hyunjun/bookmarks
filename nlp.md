@@ -647,6 +647,9 @@ NLP
   * annoy와 비슷하지만 graph tree 기반 indexing
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
+* [PyText - a deep-learning based NLP modeling framework built on PyTorch](https://facebook.ai/developers/tools/pytext)
+  * [PyText - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs ](https://github.com/facebookresearch/pytext)
+  * [Open-sourcing PyText for faster NLP development](https://code.fb.com/ai-research/pytext-open-source-nlp-framework/)
 * [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)

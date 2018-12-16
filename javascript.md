@@ -395,6 +395,7 @@ Javascript
 * [자바스크립트에서 expect(-3 % 3).toEqual(3 % 3)가 실패하는 이유](https://libsora.so/posts/-3-mod-3-is-not-equal-to-3-mod-3-in-javascript/)
 * [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
 * [How to get noticed in the Javascript world](https://hackernoon.com/how-to-get-noticed-in-the-javascript-world-aec7d382b005)
+* [A Recap of Frontend Development in 2018](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1057,6 +1058,7 @@ Javascript
   * [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
   * [npm에 새로 추가된 audit 기능](https://blog.outsider.ne.kr/1375)
   * [Node.js: npm asyncWrite 오류 발생할 때](http://ohgyun.com/771)
+  * [npm package permissions — an idea](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
@@ -1465,6 +1467,7 @@ Javascript
 * [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 * [How I Cut My React Javascript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
 * [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
+* [Why you should use GatsbyJS to build static sites](https://medium.freecodecamp.org/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b)
 * [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a)
 * [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
 * [Infinite scroll techniques in React](https://blog.logrocket.com/infinite-scroll-techniques-in-react-adcfd7ff32bd)

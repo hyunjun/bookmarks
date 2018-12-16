@@ -76,6 +76,7 @@ Data Visualization
 * [Data2Vis 자동으로 차트 만들기](http://mobicon.tistory.com/545)
 * [tf-seq2seq를 사용하여 자동으로 차트 만들기 - 2](http://mobicon.tistory.com/547)
 * [Data visualizations for text: How to show the process of writing with the writing graph](https://hackernoon.com/data-visualizations-for-text-how-to-show-the-process-of-writing-c3221fadfa4e)
+* [Effective Visualization of Multi-Dimensional Data — A Hands-on Approach - Strategies for Effective Data Visualization](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
@@ -150,6 +151,7 @@ Data Visualization
     * [Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
     * [Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
     * [Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
+  * [Developing Dashboard Applications Using Bokeh - Bryan Van de Ven](https://www.youtube.com/watch?v=HmI1foA0MZc)
 * [datashader](http://datashader.readthedocs.io/)
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)

@@ -132,6 +132,7 @@ PyTorch
 * [Logging in Tensorboard with PyTorch (or any other library)](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
 * [Transfer Learning with Convolutional Neural Networks in PyTorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
 * [PyTorch developer ecosystem expands, 1.0 stable release now available](https://code.fb.com/ai-research/pytorch-developer-ecosystem-expands-1-0-stable-release/)
+* [Making Your Neural Network Say “I Don’t Know” — Bayesian NNs using Pyro and PyTorch](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)

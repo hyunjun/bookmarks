@@ -758,6 +758,7 @@ Programming
   * [2 Devops의 정의](http://bcho.tistory.com/817)
 * [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
 * [What DevOps Really Means](https://medium.com/verifa/what-devops-really-means-54f6ee8f68f1)
+* [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -911,6 +912,7 @@ Programming
 * [Analytics, Big Data, and Data Science Courses](https://bigdatauniversity.com/)
 * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 * [Big Data Day LA 2017](https://www.bigdatadayla.com)
+* [Want excellent free coding tutorials? Subscribe to these YouTube channels](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)

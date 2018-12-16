@@ -200,6 +200,7 @@ Go
 * [Go를 프로젝트에 적용한다는 것은](https://tv.naver.com/v/2669493)
 * [How to Build a photo feed with Go and Vue.js](https://medium.freecodecamp.org/how-to-build-a-photo-feed-with-go-and-vue-js-9d7f7f39c1b4)
 * [Build a realtime comment app with Go and Pusher Channels](https://hackernoon.com/build-a-realtime-comment-app-with-go-and-pusher-channels-387b2bf20a9e)
+* [Golang + GraphQL을 사용한 Todo](https://hazle.info/golang-graphql%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-todo/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)

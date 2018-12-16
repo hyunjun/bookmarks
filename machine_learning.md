@@ -205,6 +205,7 @@ Machine Learning
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
+* [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 * [More-flexible machine learning](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * 머신러닝 특집
@@ -256,6 +257,7 @@ Machine Learning
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
+* [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)

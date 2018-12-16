@@ -666,6 +666,7 @@ TensorFlow
   * 텐서 학습을 간단하고 접근하기 쉽게 만드는 것을 목표로하는 파이썬 라이브러리
   * 텐서 분해, 텐서 학습 및 텐서 대수를 쉽게 수행
   * 백엔드 시스템은 NumPy, MXNet 또는 PyTorch를 통해 완벽하게 계산을 수행하고 CPU 또는 GPU에서 규모에 따라 메소드를 실행
+  * [Keynote: Anima Anandkumar - Tensorly: A Flexible Python Framework for Machine Learning](https://www.youtube.com/watch?v=VL4NC4f6m0w)
 * [TensorNets](https://github.com/taehoonlee/tensornets#performances)
 * [tensorpack](http://tensorpack.readthedocs.io)
   * [Tensorpack과 Multigpu를 활용한 빠른 트레이닝 코드 작성하기](http://openresearch.ai/t/tensorpack-multigpu/45)

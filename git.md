@@ -142,6 +142,8 @@ Git
 * **[깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)**
 * [깃(Git) 필수 명령어](https://tech.10000lab.xyz/git/git-cheat-sheet.html)
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
+* [주요 깃 서비스 비교](https://www.youtube.com/watch?v=a6h22u5r67M)
+* [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
