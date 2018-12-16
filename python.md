@@ -941,6 +941,7 @@ Python
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
 * [github.com/python/asyncio/wiki/ThirdParty](https://github.com/python/asyncio/wiki/ThirdParty)
+* [A curated list of awesome Python asyncio frameworks, libraries, software and resources](https://github.com/timofurrer/awesome-asyncio)
 * [The new Python asyncio module aka “tulip”](http://vstinner.readthedocs.io/asyncio.html)
 * [github.com/python/asyncio/wiki/Benchmarks](https://github.com/python/asyncio/wiki/Benchmarks)
 * **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
@@ -990,6 +991,7 @@ Python
 * 파이썬과 비동기 프로그래밍
   * [#1, 비동기 프로그래밍이란](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1/)
   * [#2, 파이썬에서 비동기 프로그래밍 시작하기](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/)
+  * [#3, 파이썬에서 비동기 프로그래밍 활용하기](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-3/)
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)

@@ -634,6 +634,7 @@ App
 * [rain.today](http://rain.today/?)
 
 # Window
+* ["PC 뱅킹의 주적은 뱅킹 프로그램" – 구라 제거기 제작자 인터뷰](http://slownews.kr/67777)
 * [미르 가계부](http://mirbaak.tistory.com/)
 * [키보드 보안 프로그램 삭제 프로그램 2.1 업데이트](http://teus.me/79)
 * [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)

@@ -233,9 +233,9 @@ Programming Books
   * [데이터 분석을 위한 SQL 레시피](http://jybaek.tistory.com/742)
   * PostgreSQL, Apache Hive, Amazon Redshift, Google BigQuery, SparkSQL에 적용가능한 중급 이상의 SQL
 * (NOT YET) [DBA를 위한 MySQL 운영 기술 모니터링, 백업/복구, 이중화, 도구와 기법](http://wikibook.co.kr/mysql-for-dba/)
-* 관계형 데이터베이스 실전 입문
+* [관계형 데이터베이스 실전 입문](http://wikibook.co.kr/rdb-in-practice/)
   * 한라 005.7533오876ㄱ
-  * 이론서이나 그래프 저장, 캐시, 스케일 아웃 등에 대한 이야기가 있어 참고할만 함
+  * 이론서(e.g. DB에 수학이 어떻게 적용되어나)이나 그래프 저장, 캐시, 스케일 아웃 등에 대한 이야기가 있어 참고할만 함
 
 # Data Science
 
