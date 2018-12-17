@@ -93,3 +93,4 @@ Time Series
 * [Time Series Prediction](https://www.youtube.com/watch?v=d4Sn6ny_5LI)
   * [Time_Series_Prediction](https://github.com/llSourcell/Time_Series_Prediction)
 * [How to Get Started with Deep Learning for Time Series Forecasting (7-Day Mini-Course)](https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course)
+* [An End-to-End Project on Time Series Analysis and Forecasting with Python](https://towardsdatascience.com/an-end-to-end-project-on-time-series-analysis-and-forecasting-with-python-4835e6bf050b)

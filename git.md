@@ -144,6 +144,7 @@ Git
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
 * [주요 깃 서비스 비교](https://www.youtube.com/watch?v=a6h22u5r67M)
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
+* [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**

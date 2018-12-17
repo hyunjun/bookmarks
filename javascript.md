@@ -527,6 +527,7 @@ Javascript
   * [BabelJS(바벨)](https://www.zerocho.com/category/EcmaScript/post/57a830cfa1d6971500059d5a)
   * [VSCode와 Babel Flow 플러그인으로 타입을 헐렁하게 써보자](https://rhostem.github.io/posts/2018-08-11-use-flow-type-loosely/)
   * [Babel 7 Released](https://medium.com/@la.place/babel-7-released-2c00af5a3360)
+  * [Babel: Your first code transformations](https://hackernoon.com/babel-your-first-code-transformations-2d1a9a2f3bc4)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
 * [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
@@ -1205,6 +1206,7 @@ Javascript
   * [12.포스트 조회 API](http://blog.jeonghwan.net/series/2018/12/12/node-web-12_get-posts-api.html)
   * [13. 응답 객체](http://blog.jeonghwan.net/series/2018/12/13/node-web-13_res.html)
   * [14. 요청 객체](http://blog.jeonghwan.net/series/2018/12/14/node-web-14_req.html)
+* [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
