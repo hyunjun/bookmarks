@@ -653,9 +653,19 @@ TensorFlow
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
 * [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)
-* [TensorFlow Probability](https://github.com/tensorflow/probability)
+* [TensorFlow Probability](https://github.com/tensorflow/probability) 확률론적 프로그래밍
+  * TFP는 TensorFlow를 기반으로하는 Python 라이브러리로서 현대 하드웨어에서 확률모델과 딥러닝을 쉽게 결합해 우리 주변의 불확실성을 모델링 가능
+  * TFP를 사용하면 다음을 수행 가능
+    * 대화식으로 데이터 탐색
+    * 다른 모델을 빠르게 평가
+    * 최신의 벡터화된 하드웨어 가속기를 자동으로 이용
+    * 쉬운 실행. 전문적으로 제작되고 테스트되었으며 Google 클라우드를 지원하며 활발한 오픈소스 커뮤니티에서 지원
+  * 현실세계에서 불확실성은 어디에서나 볼 수 있기 때문에 확률론적 프로그래밍에는 금융, 가스 산업 등을 포함한 다양한 응용 존재
   * [Introducing TensorFlow Probability](https://medium.com/tensorflow/introducing-tensorflow-probability-dca4c304e245)
   * [Industrial AI: BHGE’s Physics-based, Probabilistic Deep Learning Using TensorFlow Probability— Part 1 #소개](https://thepsygrammer.wordpress.com/2018/10/13/industrial-ai-bhges-physics-based-probabilistic-deep-learning-using-tensorflow-probability-part-1-%EC%86%8C%EA%B0%9C/)
+  * [An introduction to probabilistic programming, now available in TensorFlow Probability](https://medium.com/tensorflow/an-introduction-to-probabilistic-programming-now-available-in-tensorflow-probability-6dcc003ca29e)
+  * [aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+  * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * TENSORFLOWSHARP
   * [01. 기본 함수 사용하기(콘솔 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp01.html)
   * [02. TENSORFLOW 모델 사용하기(WINFORM 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp02.html)

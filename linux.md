@@ -79,6 +79,7 @@ Linux
 * **[리눅스 서버 60초안에 상황파악하기](https://b.luavis.kr/server/linux-performance-analysis)**
 * [리눅스 응용프로그램 실행 시 ASLR(Address Space Layout Randomization) 기능 끄고 실행하기](http://kkamagui.tistory.com/905)
 * [How to install a device driver on Linux](https://opensource.com/article/18/11/how-install-device-driver-linux)
+* [EXT4 에서 달라진 부분들 #1](https://charsyam.wordpress.com/2018/12/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-ext4-%ec%97%90%ec%84%9c-%eb%8b%ac%eb%9d%bc%ec%a7%84-%eb%b6%80%eb%b6%84%eb%93%a4-1/)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)

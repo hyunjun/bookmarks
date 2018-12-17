@@ -390,6 +390,8 @@ Apache
   * Paypal 데이터 플랫폼 이야기. CDC(Change Data Capture)와 Kafka와 Avro를 같이 사용해야 하는 이유 등 아키텍처에 대해 설명
 * [An Overview of Kafka Distributed Message System](https://www.alibabacloud.com/blog/an-overview-of-kafka-distributed-message-system_594218)
   * Apache Kafka 개념 설명
+* [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
+  * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)

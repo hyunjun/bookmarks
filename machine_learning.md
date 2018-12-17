@@ -940,6 +940,7 @@ Machine Learning
 * [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
 
 # SVM Support Vector Machine
+* [Kernel-SVM](https://ratsgo.github.io/machine%20learning/2017/05/30/SVM3/)
 * [Support Vector Machine (SVM) Classification](https://mlalgorithm.wordpress.com/2016/06/14/support-vector-machine-svm-classification/)
 * [SVM: The go-to method machine learning algorithm](http://www.techleer.com/articles/146-svm-the-go-to-method-machine-learning-algorithm/)
 * [Detection of Leaf and Weed using SVM | Machine Learning | Ruchi Mehra](https://www.youtube.com/watch?v=X0WtzZun-4s)

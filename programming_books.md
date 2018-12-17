@@ -104,6 +104,7 @@ Programming Books
   * 한라 005.133-피64ㅍ
 * (NOT YET) [알고리즘, 인생을 계산하다](https://m.blog.naver.com/hl4gnn/221228428136)
 * (NOT YET) [알고리즘 산책](http://book.daum.net/detail/book.do?bookid=KOR9791160504880)
+  * 제네릭 프로그래밍의 개념을 적용해 STL을 만든 알렉산더 스테파노프가 설명하는 프로그래밍과 수학 이야기
   * 한라 005.1-스884ㅇ
 * [알고리즘 도감](http://jpub.tistory.com/760)
   * 한라 005.1이58ㅇ

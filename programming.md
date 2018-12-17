@@ -362,6 +362,7 @@ Programming
 * [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 * [EAI, ESB, API 게이트 웨이,서비스 매쉬](http://bcho.tistory.com/1292)
 * [커머스 혹은 유통 도메인 설계에 대한 연작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91)
+* [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -759,6 +760,7 @@ Programming
 * [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
 * [What DevOps Really Means](https://medium.com/verifa/what-devops-really-means-54f6ee8f68f1)
 * [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
+* [DevOps 오픈소스 트랜드 (클라우드, 모바일 중심)](https://www.slideshare.net/arload/devops-125948933/arload/devops-125948933)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1023,6 +1025,7 @@ Programming
   * [11월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/11/b-11-3.html)
   * [11월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/12/b-11-4.html)
   * [12월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/12/b-12-1.html)
+  * [12월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/12/b-12-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1065,6 +1068,7 @@ Programming
   * [기술 뉴스 #113 : 18-11-01](https://blog.outsider.ne.kr/1406)
   * [기술 뉴스 #114 : 18-11-16](https://blog.outsider.ne.kr/1411)
   * [기술 뉴스 #115 : 18-12-02](https://blog.outsider.ne.kr/1413)
+  * [기술 뉴스 #116 : 18-12-16](https://blog.outsider.ne.kr/1414)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)

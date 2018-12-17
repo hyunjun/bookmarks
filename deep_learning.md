@@ -2006,6 +2006,8 @@ CVPR2016)
 * [MAME RL Algorithm Trainig Toolkit - A Python toolkit used to train reinforcement learning algorithms against arcade games](https://github.com/M-J-Murray/MAMEToolkit)
 * [Reinforcement Learning in NIPS 2018](https://medium.com/@yuxili/reinforcement-learning-in-nips-2018-967ab53ab211)
 * [Improvements in Deep Q Learning: Dueling Double DQN, Prioritized Experience Replay, and fixed Q-targets](https://medium.freecodecamp.org/improvements-in-deep-q-learning-dueling-double-dqn-prioritized-experience-replay-and-fixed-58b130cc5682)
+* [Soft Actor Critic—Deep Reinforcement Learning with Real-World Robots](https://bair.berkeley.edu/blog/2018/12/14/sac)
+  * tensorflow, pytorch 둘 다 공개
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)

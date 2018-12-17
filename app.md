@@ -61,7 +61,7 @@ App
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
-* [Pandoc   a universal document converter](https://pandoc.org/)
+* [Pandoc - a universal document converter](https://pandoc.org/)
   * `pandoc <markdown filename> -f markdown -t html -s -o <html filename>`
 * pdf
   * pdf to text

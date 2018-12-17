@@ -1194,6 +1194,17 @@ Javascript
   * [1. 오리엔테이션](http://blog.jeonghwan.net/series/2018/12/01/node-web-1_orientation.html)
   * [2. 기본 모듈 http](http://blog.jeonghwan.net/series/2018/12/02/node-web-2_http.html)
   * [3. 리팩토링](http://blog.jeonghwan.net/series/2018/12/03/node-web-3_refactoring.html)
+  * [4.어플리케이션](http://blog.jeonghwan.net/series/2018/12/04/node-web-4_application.html)
+  * [5.커스텀 모듈 Debug](http://blog.jeonghwan.net/series/2018/12/05/node-web-5_debug.html)
+  * [6.정적 파일](http://blog.jeonghwan.net/series/2018/12/06/node-web-6_static-files.html)
+  * [7.커스텀 모듈 serve-static](http://blog.jeonghwan.net/series/2018/12/07/node-web-7_serve-static.html)
+  * [8.미들웨어](http://blog.jeonghwan.net/series/2018/12/08/node-web-8_middleware.html)
+  * [9.미들웨어 활용](http://blog.jeonghwan.net/series/2018/12/09/node-web-9_middleware2.html)
+  * [10.커스텀 모듈 logger](http://blog.jeonghwan.net/series/2018/12/10/node-web-10_logger.html)
+  * [11.라우터 use](http://blog.jeonghwan.net/series/2018/12/11/node-web-11_router-use.html)
+  * [12.포스트 조회 API](http://blog.jeonghwan.net/series/2018/12/12/node-web-12_get-posts-api.html)
+  * [13. 응답 객체](http://blog.jeonghwan.net/series/2018/12/13/node-web-13_res.html)
+  * [14. 요청 객체](http://blog.jeonghwan.net/series/2018/12/14/node-web-14_req.html)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)

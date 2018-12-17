@@ -852,6 +852,7 @@ NLP
   * [Bert state Of The Art pre Training for nlp Post](https://parksurk.github.io/BERT-State-of-the-Art-Pre-training-for-NLP-post)
   * [bert-multiple-gpu - A multiple GPU support version of BERT](https://github.com/JayYip/bert-multiple-gpu)
   * [NVIDIA Achieves 4X Speedup on BERT Neural Network](https://news.developer.nvidia.com/nvidia-achieves-4x-speedup-on-bert-neural-network)
+  * [BERT 톺아보기](http://docs.likejazz.com/bert/)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)

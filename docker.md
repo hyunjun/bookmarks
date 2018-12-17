@@ -58,8 +58,11 @@ Docker
 * [docs.docker.com](https://docs.docker.com/)
 * [github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [hub.docker.com](https://hub.docker.com/)
-  * [bi_deeplearning](https://hub.docker.com/r/imcomking/bi_deeplearning/) TensorFlow + Theano + Torch + Scikit-learn + Keras + Caffe + ...
   * [centos](https://hub.docker.com/_/centos/)
+  * Deep Learning
+    * [bi_deeplearning](https://hub.docker.com/r/imcomking/bi_deeplearning/) TensorFlow + Theano + Torch + Scikit-learn + Keras + Caffe + ...
+    * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
+    * [이제는, 딥러닝 개발환경도 Docker로 올려보자!](https://github.com/2sang/Moducon-Docker-tf-setup/blob/master/Docker-tensorflow-setup.pdf)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)
   * jenkins
@@ -100,7 +103,6 @@ Docker
     * [Python Plugin](http://docs.sonarqube.org/display/PLUG/Python+Plugin)
     * [JavaScript Static Analysis Report System with SonarQube](http://readme.skplanet.com/?p=13679)
     * [소나큐브 이용 코드 정적분석 자동화](https://taetaetae.github.io/2018/02/08/jenkins-sonar-github-integration/)
-  * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
     * [Encoding Problems when running an app in docker (Python, Java, Ruby, …) with Ubuntu Containers (ascii, utf-8)](https://stackoverflow.com/questions/27931668/encoding-problems-when-running-an-app-in-docker-python-java-ruby-with-u/27931669)
 
