@@ -261,6 +261,7 @@ Clojure
 * [Modelling Time - Eric Evans - DDD Europe 2018](https://www.youtube.com/watch?v=T29WzvaPNc8)
   * 시간 값 모델링에 clojure 사용
 * [Functional Programming in the Cloud: Simpler Application Development](https://www.youtube.com/watch?v=mxryzShPH8o) Datomic Cloud
+* [Welcome Clojure 10](http://blog.klipse.tech/clojure/2018/12/18/welcome-clojure-10.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
