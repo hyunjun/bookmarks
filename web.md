@@ -226,6 +226,7 @@ Web
 * [Python — 원숭이도 따라할 수 있는 크롤러 만들기](https://medium.com/@erish/python-원숭이도-따라할-수-있는-크롤러-만들기-6671bf445a4a)
 * [Python Web Scraping Tools: A Survey](https://www.youtube.com/watch?v=ind-mugxMxk)
 * [facebook을 python으로 자유롭게 크롤링하기](http://dizwe.tistory.com/8)
+* [Crawl your facebook post for retrospective](https://gist.github.com/jinhoyoo/0e7799d371e297dd28e91b8404001ada)
 * [Web Scraping(웹 크롤링) - 페이지 분석하기](http://m.blog.naver.com/potter777777/220606035529)
 * [크롤링 차근차근 시작하기](https://nomade.kr/vod/crawling/)
 * [크롤링 실습 - 대표적인 크롤링 예시 3가지](https://nomade.kr/vod/crawling/127/)
