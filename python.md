@@ -365,6 +365,7 @@ Python
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [Python: Beyond the basics II - IPython, encapsulation & args](https://medium.com/@m0etaz/python-beyond-the-basics-ii-16964d70c4da)
 * [Python stories, September 2018](https://hackernoon.com/python-stories-september-2018-d34e526edde2)
+* [stdout_009.log: PEP 572, PEP 8000, Python Software Foundation](https://stdout.fm/9/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
