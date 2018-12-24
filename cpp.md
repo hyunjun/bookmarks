@@ -142,6 +142,8 @@ C++
 # API
 * auto_ptr
   * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
+* const
+  * [우리 사이가 좋을 수 없는 이유](https://surpreem.com/%EC%9A%B0%EB%A6%AC-%EC%82%AC%EC%9D%B4%EA%B0%80-%EC%A2%8B%EC%9D%84-%EC%88%98-%EC%97%86%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
 * const_cast
   * [const_cast는 언제 써야 하는가](http://blog.seulgi.kim/2017/11/cpp-core-guidelines-const-cast.html)
 * volatile
