@@ -256,6 +256,7 @@ AWS
 * [AWS: Some Tips for Avoiding Those “Holy Bill” Moments](https://hackernoon.com/aws-some-tips-for-avoiding-those-holy-bill-moments-9e48e0cb1a83)
 * [ECS의 매니지드 컨테이너 AWS 파게이트 시작하기](https://www.44bits.io/ko/post/getting-started-with-ecs-fargate)
 * [개발자를 위한 AWS Toolkits for PyCharm 정식 출시 – IntelliJ 및 Visual Studio Code(미리 보기)](https://aws.amazon.com/ko/blogs/korea/new-aws-toolkits-for-pycharm-intellij-preview-and-visual-studio-code-preview/)
+* [아마존 엘라스틱캐시의 멤캐시디 클러스터 스케일 아웃](https://www.44bits.io/ko/post/amazon-elasticache-memcached-cluster-scale-out)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
