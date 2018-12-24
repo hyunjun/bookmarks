@@ -600,6 +600,7 @@ Java
   * [Spring Boot에서 외부 API 테스트하기](https://jojoldu.tistory.com/341)
   * [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
   * [Top 5 Online Courses to Learn Spring Boot in 2019](https://hackernoon.com/top-5-online-courses-to-learn-spring-boot-in-2019-c2fd7a0282c2)
+  * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
