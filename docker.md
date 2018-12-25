@@ -63,6 +63,7 @@ Docker
     * [bi_deeplearning](https://hub.docker.com/r/imcomking/bi_deeplearning/) TensorFlow + Theano + Torch + Scikit-learn + Keras + Caffe + ...
     * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
     * [이제는, 딥러닝 개발환경도 Docker로 올려보자!](https://github.com/2sang/Moducon-Docker-tf-setup/blob/master/Docker-tensorflow-setup.pdf)
+    * [example of auto-build deep learning development environment, using nvidia-docker+packer+ansible](https://github.com/EJSohn/nvidia-packer-docker-ansible)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)
   * jenkins
