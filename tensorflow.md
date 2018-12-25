@@ -581,6 +581,7 @@ TensorFlow
 * [Stop Installing Tensorflow using pip for performance sake!](https://towardsdatascience.com/stop-installing-tensorflow-using-pip-for-performance-sake-5854f9d9eb0c)
   * [TensorFlow in Anaconda](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda)
 * [TensorFlow: Building Feed-Forward Neural Networks Step-by-Step](https://www.linkedin.com/pulse/tensorflow-building-feed-forward-neural-networks-step-by-step-gad)
+* [UBUNTU 18.04 설치 #2-3 INSTALL TENSORFLOW WITH DOCKER](https://eungbean.github.io/2018/11/09/Ubuntu-Installation2-3/)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
