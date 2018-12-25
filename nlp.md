@@ -1021,6 +1021,12 @@ NLP
 * [사쿠라 훈민정음](http://terms.naver.com/list.nhn?cid=41818&categoryId=41818&so=st4.asc)
 * **[Word Prediction using Convolutional Neural Networks](https://github.com/Kyubyong/word_prediction)**
 
+# Text Mining
+* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
+* [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
+* [Python을 활용한 텍스트 마이닝](http://www.lifebloom.biz/category/py/tm/)
+* [Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9)
+
 # TextRank
 * **[TextRank를 이용한 문서요약](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD)**
 * [TextRank for Korean](https://github.com/theeluwin/textrankr)
@@ -1032,10 +1038,28 @@ NLP
 * [파이썬으로 3줄 요약기](http://blog.theeluwin.kr/post/146188165713/summariz3)
 * [한국어 3줄 요약기 - TextRank 알고리즘을 사용한 3줄 요약기 크롬 확장 앱](https://github.com/graykode/summariz3)
 
-# TFIDF
+# TFIDF, TF-IDF
 * [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
 * [The fastest way to identify keywords in news articles — TFIDF with Wikipedia (Python version)](https://medium.com/@adam.chin/the-fastest-way-to-identify-keywords-in-news-articles-tfidf-with-wikipedia-python-version-baf874d7eb16)
 * [Machine Learning with Text - TFIDF Vectorizer MultinomialNB Sklearn (Spam Filtering example Part 2)](https://www.youtube.com/watch?v=bPYJi1E9xeM)
+* [Tf-idf 가중치](http://jeongsw.tistory.com/449)
+* [입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
+* [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
+* [How I used text mining to decide which Ted Talk to watch](https://towardsdatascience.com/how-i-used-text-mining-to-decide-which-ted-talk-to-watch-dfe32e82bffd)
+
+# Topic Modeling
+* [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)
+* [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
+* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
+* [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
+* [Topic Modeling With Python](https://www.youtube.com/watch?v=XVrZSXuYliI)
+* [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
+* [Extracting Hidden Topics in a Corpus](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d)
+* [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
+* [간편한 토픽 모델링 툴 Tomoto Gui](http://bab2min.tistory.com/602)
+* [An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)](https://medium.com/analytics-vidhya/an-nlp-approach-to-mining-online-reviews-using-topic-modeling-with-python-codes-9d766e783003)
+* [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
+* [Topic modeling using Khaiii](https://github.com/rudvlf0413/khaiii-topicmodeling)
 
 # Translation
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
@@ -1103,6 +1127,7 @@ NLP
 * [Toolkits for robust speech processing](https://www.slideshare.net/ChangGiMoon/toolkits-for-robust-speech-processing)
 * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice) 설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
 * [딥 러닝 음성 인식에 필요한 훈련 데이터를 직접 만들어보자](https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python)
+* [Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**
@@ -1229,29 +1254,3 @@ NLP
 * [Word2Vec 강의 정리](http://mobicon.tistory.com/560)
 * [Word2Vec — a baby step in Deep Learning but a giant leap towards Natural Language Processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
 * [Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
-
-# Text Mining
-* [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
-* [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
-* [Python을 활용한 텍스트 마이닝](http://www.lifebloom.biz/category/py/tm/)
-* [Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9)
-
-# TF-IDF
-* [Tf-idf 가중치](http://jeongsw.tistory.com/449)
-* [입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
-* [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
-* [How I used text mining to decide which Ted Talk to watch](https://towardsdatascience.com/how-i-used-text-mining-to-decide-which-ted-talk-to-watch-dfe32e82bffd)
-
-# Topic Modeling
-* [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)
-* [Text Mining 101: Topic Modeling](http://www.kdnuggets.com/2016/07/text-mining-101-topic-modeling.html)
-* [Topic Modeling in Multi-Aspect Reviews](http://nbviewer.ipython.org/gist/benjamincohen1/d7caaa3d07bbb89cd39a)
-* [Topic Modeling of Twitter Followers](http://alexperrier.github.io/jekyll/update/2015/09/04/topic-modeling-of-twitter-followers.html)
-* [Topic Modeling With Python](https://www.youtube.com/watch?v=XVrZSXuYliI)
-* [Topic Modelling in Python with NLTK and Gensim](https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21)
-* [Extracting Hidden Topics in a Corpus](https://medium.com/@soorajsubrahmannian/extracting-hidden-topics-in-a-corpus-55b2214fc17d)
-* [Topic Modeling with Scikit Learn](https://medium.com/mlreview/topic-modeling-with-scikit-learn-e80d33668730)
-* [간편한 토픽 모델링 툴 Tomoto Gui](http://bab2min.tistory.com/602)
-* [An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)](https://medium.com/analytics-vidhya/an-nlp-approach-to-mining-online-reviews-using-topic-modeling-with-python-codes-9d766e783003)
-* [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
-* [Topic modeling using Khaiii](https://github.com/rudvlf0413/khaiii-topicmodeling)
