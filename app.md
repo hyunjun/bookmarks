@@ -133,6 +133,7 @@ App
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 업로드 ShellScript편](https://beomi.github.io/2017/03/28/Use-GoogleDrive-as-Image-Server/)
   * [Static Tools/Jekyll 카테고리](http://namhoon.kim/category/Static%20Tools/Jekyll)
   * [github.com/hcn1519/miNiPress](https://github.com/hcn1519/miNiPress)
+  * [jekyll 설치](https://dev-yakuza.github.io/ko/jekyll/installation/)
   * [jekyll과 github으로 블로그 작업 기록](http://astrod.github.io/2015/10/18/jekyll%EA%B3%BC-github%EC%9C%BC%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%9E%91%EC%97%85-%EA%B8%B0%EB%A1%9D.html)
   * [github+jekyll 블로그 작업 기록](http://astrod.github.io/2015/10/18/18.html)
   * [github+jekyll 블로그에 disqus 적용 삽질기](http://astrod.github.io/2016/03/27/27.html)
