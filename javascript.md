@@ -1546,6 +1546,8 @@ Javascript
 * [How to develop your React superpowers with the Render Props Pattern](https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053)
 * [re-Understanding State Management in JavaScript by Building a Library Similar to Redux](https://hackernoon.com/building-a-redux-like-state-manager-for-react-cd75cc2853b3)
 * [How To Write Better Code in React](https://blog.bitsrc.io/how-to-write-better-code-in-react-best-practices-b8ca87d462b0)
+* [github.com/iamchanii/react-exercise](https://github.com/iamchanii/react-exercise)
+* [The Simplest React Stack - Bootstrapping and State Management](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
