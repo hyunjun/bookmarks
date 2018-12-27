@@ -150,6 +150,7 @@ Programming Language
   * [엘름 함수 연산자(`|>, <|, >>, <<`)에 대한 간단한 설명](https://harfangk.github.io/2018/01/28/elm-function-operators-ko.html)
   * [Elm changed my mind about unpopular languages](https://blog.realkinetic.com/elm-changed-my-mind-about-unpopular-languages-190a23f4a834)
   * [엘름 디버거에서 전체 텍스트 표시하기](https://harfangk.github.io/2018/07/28/display-entire-text-in-elm-debugger-ko.html)
+  * [엘름에서 포트 함수 관리하기](https://harfangk.github.io/2018/12/18/elm-managing-ports-ko.html)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)
