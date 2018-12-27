@@ -742,6 +742,7 @@ Javascript
   * [linter를 이용한 코딩스타일과 에러 체크하기](http://subicura.com/2016/07/11/coding-convention.html)
   * [Airbnb의 eslint를 IntelliJ에 적용하기](http://jojoldu.tistory.com/230)
   * [create-react-app 에 ESLint 와 Prettier 적용하기](https://velopert.com/3671)
+  * [eslint 룰 만들기](https://medium.com/@ljs0705/eslint-%EB%A3%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-27113d4dc139)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
@@ -1207,6 +1208,11 @@ Javascript
   * [12.포스트 조회 API](http://blog.jeonghwan.net/series/2018/12/12/node-web-12_get-posts-api.html)
   * [13. 응답 객체](http://blog.jeonghwan.net/series/2018/12/13/node-web-13_res.html)
   * [14. 요청 객체](http://blog.jeonghwan.net/series/2018/12/14/node-web-14_req.html)
+  * [15.라우터 Get, Post](http://blog.jeonghwan.net/series/2018/12/15/node-web-15_get_post.html)
+  * [16. body-parser](http://blog.jeonghwan.net/series/2018/12/16/node-web-16_body-parser.html)
+  * [17. Express.js](http://blog.jeonghwan.net/series/2018/12/17/node-web-17_expressjs.html)
+  * [18. 마무리](http://blog.jeonghwan.net/series/2018/12/17/node-web-18_summary.html)
+  * [코드랩 시리즈를 마치고 느낀점](http://blog.jeonghwan.net/think/2018/12/22/codelab-review.html)
 * [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
 
 ## Library
