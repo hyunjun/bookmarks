@@ -240,6 +240,7 @@ Java
 * [Eclipse의 Workspace와 IntelliJ의 Project](https://jojoldu.tistory.com/334)
 * [IntelliJ 의존성 목록 확인 및 자동 완성](https://jojoldu.tistory.com/344)
 * [IntelliJ에서 Gradle 프로젝트 작동안될때](https://jojoldu.tistory.com/364)
+* [IntelliJ http Client 응답값 변수로 저장하고 사용하기](https://jojoldu.tistory.com/366)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -529,6 +530,10 @@ Java
     * [(1.5편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1-5%ED%8E%B8/)
     * [(2편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-2%ED%8E%B8/)
     * [(3편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-3%ED%8E%B8/)
+  * Spring-MVC 읽기
+    * [#1. 나는 왜 오픈소스를 읽을까?](http://blog.woniper.net/364)
+    * [#2. 빌드](http://blog.woniper.net/365)
+    * [#3. Spring-MVC의 시작](http://blog.woniper.net/366)
   * [Spring Cloud Series - Microservices Sidecar pattern implementation using Postgres, Spring Cloud Netflix and Docker](http://tech.asimio.net/2018/02/20/Microservices-Sidecar-pattern-implementation-using-Postgres-Spring-Cloud-Netflix-and-Docker.html)
   * 스프링 리액터 시작하기
     * [1 - 리액티브 스트림 Flux Mono Subscriber](http://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber)
@@ -543,6 +548,7 @@ Java
     * [10 - 로깅, 체크포인트](http://javacan.tistory.com/entry/Reactor-Start-10-logging-checkpoint)
   * [분산 데이터베이스 환경에서 RoutingDataSource 사용 시 JTA를 이용한 트랜잭션 처리](https://d2.naver.com/helloworld/5812258)
   * [OneToMany 관계에서 Left Outer Join 이 필요할 경우](https://jojoldu.tistory.com/342)
+  * [스프링 스케줄러 런타임에 cron 설정 변경하기](http://javacan.tistory.com/entry/change-spring-cron-schedule-at-runtime)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)
@@ -602,6 +608,7 @@ Java
   * [로컬 Spring Boot에 SSL 적용하기](https://jojoldu.tistory.com/350)
   * [Top 5 Online Courses to Learn Spring Boot in 2019](https://hackernoon.com/top-5-online-courses-to-learn-spring-boot-in-2019-c2fd7a0282c2)
   * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
+  * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
