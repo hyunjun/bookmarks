@@ -239,6 +239,7 @@ Java
 * [IntelliJ 사용팁](https://www.popit.kr/intellij-%EC%82%AC%EC%9A%A9%ED%8C%81/)
 * [Eclipse의 Workspace와 IntelliJ의 Project](https://jojoldu.tistory.com/334)
 * [IntelliJ 의존성 목록 확인 및 자동 완성](https://jojoldu.tistory.com/344)
+* [IntelliJ에서 Gradle 프로젝트 작동안될때](https://jojoldu.tistory.com/364)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
