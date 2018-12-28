@@ -588,6 +588,7 @@ Programming
 * [오픈소스 개발자 이야기 20170701 오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 * [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
+* [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
