@@ -241,6 +241,7 @@ Hadoop
   * 이 문제를 해결하기 위해 Hive에서는 'concatenate' 명령어, parquet 에서는 병합툴을 제공
 * [Troubleshooting HiveServer2 Service Crashes](https://www.youtube.com/watch?v=grLtWOpMpq8)
 * [Hive Tutorial | Hadoop Hive Tutorial | Hive Tutorial for Beginners | Hive Architecture](https://www.youtube.com/watch?v=4OC-RYrBQUw)
+* [Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization](https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
