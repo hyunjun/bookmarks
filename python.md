@@ -1682,6 +1682,7 @@ Python
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 * **[Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)**
 * [다중 사용자를 위한 Jupyterhub 설치 Install jupyterhub for multi-user](https://metamath1.github.io/2018/12/24/jupyterhub.html)
+* [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
