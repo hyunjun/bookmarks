@@ -159,6 +159,7 @@ Data Visualization
 * [k3d](https://github.com/adioshun/gitBook_PCL/blob/master/pcl/k3d.ipynb)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
   * [How and why I used Plotly (instead of D3) to visualize my Lollapalooza data](https://medium.freecodecamp.org/how-and-why-i-used-plotly-instead-of-d3-to-visualize-my-lollapalooza-data-d48345e2ca68)
+  * [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
   * [Graph visualization using Python](https://www.youtube.com/watch?v=SpDI6-FvtJY)
 * [pyecharts - Python Echarts Plotting Library http://pyecharts.org](https://github.com/pyecharts/pyecharts)
