@@ -342,6 +342,8 @@ AWS
 * [AWS Lambda Layers로 함수 공통용 Python 패키지 재사용하기](https://beomi.github.io/2018/11/30/using-aws-lambda-layers-on-python3/)
 * [Build a Ruby based Lambda Function](https://hackernoon.com/build-a-ruby-based-lambda-function-44f3d006fef6)
 * [프로그래밍 언어 루비(Ruby) 공식 지원을 발표](https://www.44bits.io/ko/post/news--announce-ruby-support-for-aws-lambda)
+* [re:Invent 2018 - ALB 타깃그룹의 새로운 타입으로 AWS 람다 추가](https://www.44bits.io/ko/post/aws-alb-target-group-aws-lambda-target-type-released)
+* [re:Invent 2018 - AWS 람다, 함수 간 공유 가능한 레이어 기능 지원](https://www.44bits.io/ko/post/news--reinvent-2018-aws-lambda-layer)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
