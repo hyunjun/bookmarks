@@ -357,6 +357,7 @@ TensorFlow
 * [CASED-Tensorflow - Tensorflow implementation of Curriculum Adaptive Sampling for Extreme Data Imbalance with multi GPU using LUNA16](https://github.com/taki0112/CASED-Tensorflow)
 * [The Flow of TensorFlow](https://www.slideshare.net/inureyes/the-flow-of-tensorflow)
 * **[Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU](http://hoondongkim.blogspot.com/2017/12/deep-learning-inference-serving.html)**
+* **[Deep Learning Multi Host & Multi GPU Architecture #2 - Keras 를 이용한 Scale Up, Horovod 를 이용한 Scale Out 성능 비교](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu_11.html)**
 * [How to train a Deep Neural Network using only TensorFlow C++](https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/)
 * [Apache Beam (Dataflow)를 이용하여, 이미지 파일을 tfrecord로 컨버팅 하기](http://bcho.tistory.com/1221)
 * [An implementation of Synchronous Advantage Actor Critic (A2C) in TensorFlow](https://github.com/MG2033/A2C)
@@ -550,6 +551,7 @@ TensorFlow
 * [Establish a TensorFlow Serving cluster easily using Docker and Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-685)
 * [TensorFlow Serving의 혁신적인 기능들을 확인해 보세요](https://developers-kr.googleblog.com/2017/12/latest-innovations-in-tensorflow-serving.html)
 * [How to deploy TensorFlow models to production using TF Serving](https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700)
+* **[Deploying Keras models using TensorFlow Serving and Flask](https://yjucho1.github.io/tensorflow/tensorflow-serving)**
 * [Straighten out a TensorFlow continuous training link using Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-686)
 * [GPU TensorFlow on Window 10](http://goodtogreate.tistory.com/)
 * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
