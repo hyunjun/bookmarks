@@ -733,7 +733,7 @@ Programming
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
-
+* [오늘의 질문 2018.12.18](https://jojoldu.tistory.com/363) 디버깅에 대한 창천향로님 의견
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
 * [야크쉐이빙 – 데브옵스 (DevOps) 고민하기](http://www.venturesquare.net/708190)
@@ -1026,6 +1026,7 @@ Programming
   * [11월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/12/b-11-4.html)
   * [12월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/12/b-12-1.html)
   * [12월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2018/12/b-12-2.html)
+  * [12월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2018/12/b-12-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
