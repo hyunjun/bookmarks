@@ -452,6 +452,9 @@ Javascript
 * [Display a Table using Components with Angular 4](https://codeburst.io/display-a-table-using-components-with-angular-4-f13f0971666d)
 * [Build A Real World Beautiful Web APP with Angular 6 — A to Z Ultimate Guide (2018) — PART I](https://medium.com/@hamedbaatour/build-a-real-world-beautiful-web-app-with-angular-6-a-to-z-ultimate-guide-2018-part-i-e121dd1d55e)
 * [How to build a serverless CMS-powered Angular app](https://medium.freecodecamp.org/how-to-build-a-serverless-cms-powered-angular-app-3eb76605799f)
+* Angular Architecture
+  * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
+  * [애플리케이션 구조 설계 - 2](http://mobicon.tistory.com/566)
 
 # Book
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
@@ -1616,6 +1619,9 @@ Javascript
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
   * [자바스크립트 프레임워크 소개 1- Cycle.js](http://meetup.toast.com/posts/97)
+  * [Why I’m Switching from React to Cycle.js](https://www.sitepoint.com/switching-from-react-to-cycle-js/)
+  * [USE REACT IN CYCLE.JS AND VICE-VERSA](https://staltz.com/use-react-in-cyclejs-and-vice-versa.html)
+  * [ReactiveConf 2016 - André Staltz: Visualizing the data flow with Cycle.js](https://www.youtube.com/watch?v=3a98OPJWFPY)
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
@@ -1879,3 +1885,4 @@ Javascript
 * [How to add Internationalization to a Vue Application](https://medium.freecodecamp.org/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b)
 * [Vue.js 입문자가 흔히 저지르는 문법 실수 총정리](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
 * [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
+* [기존 Express 서버에 Vue.js 적용해보기 (feat.EJS)](http://woowabros.github.io/experience/2018/12/27/node-express-vue-with-ejs.html)
