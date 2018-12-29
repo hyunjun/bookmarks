@@ -506,6 +506,7 @@ Java
   * [Spring Data Specification 단순 조합을 위한 간단한 SpecBuilder](http://javacan.tistory.com/entry/Simple-Simple-Builder-for-Spring-Data-Specification-Composition)
   * [JPA에서 대량의 데이터를 삭제할때 주의해야할 점](http://jojoldu.tistory.com/235)
   * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
+  * [우아한형제들 JPA 강의 소감과 적용 사례](http://woowabros.github.io/woowabros/2018/12/29/woowahan-jpa1.html)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
   * [Config Server에 관하여 알아봅시다](http://blog.leekyoungil.com/?p=352)
