@@ -444,6 +444,7 @@ TensorFlow
   * [Paper](https://arxiv.org/abs/1811.11718)
   * [Video](https://www.youtube.com/watch?v=IKHzc7sGCxQ)
   * [Author Pytorch code](https://github.com/NVIDIA/partialconv)
+* [Let AI design your holiday cards!](https://stories.thinkingmachin.es/ai-art-holiday-cards/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
