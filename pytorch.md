@@ -110,7 +110,6 @@ PyTorch
 * [pytorch-EverybodyDanceNow](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
 * [PyTorch NEAT](https://github.com/uber-research/PyTorch-NEAT/)
 * [PyTorch JIT Source Code Read Note](https://zasdfgbnm.github.io/2018/09/20/PyTorch-JIT-Source-Code-Read-Note/)
-* [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
 * [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
 * [PyTorch implementation of Google AI's BERT model with a script to load Google's pre-trained models](https://github.com/huggingface/pytorch-pretrained-BERT)
@@ -199,6 +198,7 @@ PyTorch
 * [mini seq2seq](https://github.com/keon/seq2seq)
 
 # Tutorial
+* [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
 * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
 * [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)
 * [DeepLearningForNLPInPytorch - An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
@@ -209,3 +209,4 @@ PyTorch
 * [Deep Learning with PyTorch: A 60 Minute Blitz](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * [PYTORCH 머신러닝 튜토리얼 강의](http://wingnim.tistory.com/category/Programming%20Project/Pytorch%20Tutorials)
 * [PyTorch KR Tutorial Competition 2018](https://github.com/PyTorchKR/Tutorial-Competition-2018)
+* [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
