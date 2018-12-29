@@ -120,6 +120,7 @@ C
   * [C Struct Hack](https://tonywearme.wordpress.com/2011/07/26/c-struct-hack/)
 * [12 ≦ x ≦ 0, 12 ≦ x ≦ 7](https://libsora.so/posts/12-lte-x-lte-0/)
 * [Making C Less Dangerous](https://www.youtube.com/watch?v=aDQDL-l1nxw)
+* [seoulworkshop.org/tag/Embedded_C](http://www.seoulworkshop.org/tag/Embedded_C)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
