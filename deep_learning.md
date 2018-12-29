@@ -1001,6 +1001,8 @@ Deep Learning
 * [GAN(Generative Adversarial Network) Tour](https://github.com/jason9693/GAN)
 * [번역 From GAN to WGAN](https://github.com/yjucho1/articles/blob/master/fromGANtoWGAN/readme.md)
 * [TL-GAN: transparent latent-space GAN This is the repository of my three-week project: "Draw as you can tell: controlled image synthesis and edit using TL-GAN"](https://github.com/SummitKwan/transparent_latent_gan)
+* [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
+* [Paper Review; GAN for noise reduction in low dose CT](https://www.slideshare.net/JiminLee36/paper-review-gan-for-noise-reduction-in-low-dose-ct)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
