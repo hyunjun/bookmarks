@@ -643,6 +643,7 @@ Programming
 * [괜찮은 개발자 되기, 클린 코더를 읽고](https://medium.com/@jungil.han/%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%90%98%EA%B8%B0-%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%8D%94%EB%A5%BC-%EC%9D%BD%EA%B3%A0-c8bcf91c2c76)
 * [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
 * [Why you should use column-indentation to improve your code’s readability](https://medium.freecodecamp.org/how-to-columnize-your-code-to-improve-readability-f1364e2e77ba)
+* [소프트웨어 엔지니어들이 읽기 어려운 코드를 만드는 이유는?](http://jhrogue.blogspot.com/2018/12/b.html)
 
 # Compiler, Interpreter
 * **Let’s Build A Simple Interpreter** python
@@ -719,6 +720,7 @@ Programming
 * **[OKKYCON 2017 참석 후기](http://jojoldu.tistory.com/249)**
 * [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
 * [Best of 2017 in tech talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b)
+* [다시 보는 2018 한국의 주요 개발 / 테크 컨퍼런스들](https://www.44bits.io/ko/post/replay-2018-korea-tech-development-conferences)
 
 # Continuous Integration, CI
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)
@@ -1296,6 +1298,7 @@ Programming
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
 * [Two pillars of automated testing](https://hackernoon.com/two-pillars-of-automated-testing-13d0c2c6a7c)
 * [codekata.com](http://codekata.com/)
+* [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
