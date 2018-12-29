@@ -244,6 +244,7 @@ Vision
   * [3 The application of Object Detection](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-the-application-of-object-detection/)
 * [How to run Object Detection and Segmentation on a Video Fast for Free](https://github.com/Tony607/colab-mask-rcnn)
   * [Mask R-CNN Demo](https://colab.research.google.com/drive/1AJUcrbS8wnk4hzD0At1oaIZrRuINKfNj) Colaboratory
+* [SlowFast – Dual-mode CNN for Video Understanding](https://lyrn.ai/2018/12/21/slowfast-dual-mode-cnn-for-video-understanding/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
