@@ -311,6 +311,7 @@ App
   * [서브라임텍스트 터미널에서 실행하기(macOS)](https://beomi.github.io/2017/07/04/Call-Sublime-from-Terminal/)
   * [서브라임 텍스트 디렉토리 검색 예외 지정](https://hyeonseok.com/soojung/software/2017/11/21/829.html)
   * [Sublime Text 3의 untitled 탭에 첫 행 표시하기](http://www.haruair.com/blog/4128)
+  * [Sublime Text 설치 및 셋팅 for Windows](https://www.youtube.com/watch?v=ubPYAQJ-HjI)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)
