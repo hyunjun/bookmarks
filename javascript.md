@@ -396,6 +396,8 @@ Javascript
 * [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
 * [How to get noticed in the Javascript world](https://hackernoon.com/how-to-get-noticed-in-the-javascript-world-aec7d382b005)
 * [A Recap of Frontend Development in 2018](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d)
+* [melon2genie; 멜론 플레이리스트를 기반으로 지니 앨범을 생성하는 앱](https://github.com/iamchanii/melon2genie)
+* [Delivery Tracker - 배송 조회 API 서비스](https://tracker.delivery/guide/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1005,6 +1007,7 @@ Javascript
   * [웹팩4(Webpack) 설정하기](https://www.zerocho.com/category/Webpack/post/58aa916d745ca90018e5301d)
   * [webpack config tool](https://webpack.jakoblind.no/)
   * [Webpack 4의 Tree Shaking에 대한 이해](http://huns.me/development/2265)
+  * [webpack 설정파일을 한땀한땀 만들어 보자](https://github.com/hg-pyun/step-by-step-webpack-config)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
