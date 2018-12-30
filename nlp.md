@@ -197,6 +197,7 @@ NLP
   * 기존의 Self-Attention Network (SAN) 이 너무 메모리를 많이 쓰는 점을 개선
   * 많은 NLP 분야에서 Self-attention 기법들이 (특히 번역 분야에서는) 표준으로 자리잡고 후속 연구가 활발히 이루어지고 있는 걸로 보임
     * (ex. Non-autoregressive transformer, Masked self-attention, Directional self-attention)
+* [Understanding and Applying Self-Attention for NLP - Ivan Bilan](https://www.youtube.com/watch?v=OYygPG4d9H0)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [파이썬자연어처리](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrmRyBUMsDDFk_FyLF9fARR)
 * **[Text Analysis Developers’ Workshop 2018 참석 후기](http://freesearch.pe.kr/archives/4791)**
@@ -1117,6 +1118,7 @@ NLP
 * [Tutorial: Asynchronous Speech Recognition in Python](https://medium.com/towards-data-science/tutorial-asynchronous-speech-recognition-in-python-b1215d501c64)
 * [책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 DEVIEW 2017](https://www.slideshare.net/carpedm20/deview-2017-80824162)
   * [Multi-speaker Tacotron in TensorFlow. 오픈소스 딥러닝 다중 화자 음성 합성 엔진. http://carpedm20.github.io/tacotron](https://github.com/devsisters/multi-speaker-tacotron-tensorflow)
+* [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
 * [카카오미니는 목소리를 어떻게 인식할까?](https://brunch.co.kr/@kakao-it/135)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [SPEECH TO TEXT(STT) 라이브러리와 프로세싱을 이용하여 음성인식 테스트하기](http://kocoafab.cc/tutorial/view/608)
