@@ -433,6 +433,8 @@ Data Science
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
+* [추천시스템 만들기 Hands-on part01](https://www.youtube.com/watch?v=RypYycWvHaA) django 이용
+  * [추천시스템 만들기 Hands-on part01](https://github.com/djangobusan/recommender-system-hands-on-part1)
 * [Collaborative-filtering-Tutorial](https://github.com/kwoncheol/Collaborative-filtering-Tutorial)
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
 * [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
