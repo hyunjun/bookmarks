@@ -476,6 +476,7 @@ Machine Learning
 * [사회인의 휴학, Gap Year 이야기](https://www.slideshare.net/zzsza/gap-year-119998766)
 * [An Introduction to Causal Inference with Gaussian Processes, Part I](https://mindcodec.com/an-introduction-to-causal-inference-with-gaussian-processes-part-i)
 * [Applied Machine Learning: Part 1](https://medium.com/the-research-nest/applied-machine-learning-part-1-40578469a934)
+* [Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
