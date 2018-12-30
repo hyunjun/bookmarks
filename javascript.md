@@ -1628,6 +1628,7 @@ Javascript
 * [d3act - d3 with React](https://github.com/AnSavvides/d3act)
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
+* [Draft.js — rich text editor framework for React from Facebook](https://medium.com/@mshabrikov/draft-js-rich-text-editor-framework-for-react-from-facebook-f236d02576f0)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
