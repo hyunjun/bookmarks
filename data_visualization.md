@@ -142,6 +142,7 @@ Data Visualization
 * [파이썬에서 캔들차트 그리기](http://blog.naver.com/anthouse28/221408163989)
 * [Satellite Imagery Analysis with Python](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
 * [Jake VanderPlas The Python Visualization Landscape PyCon 2017](https://www.youtube.com/watch?v=FytuB8nFHPQ)
+* [Folium - 파이썬으로 위경도 정보 다루기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmp3ZxMgXkeqU9jAERUOq1Rb)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
