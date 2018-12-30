@@ -1299,6 +1299,7 @@ Programming
 * [Two pillars of automated testing](https://hackernoon.com/two-pillars-of-automated-testing-13d0c2c6a7c)
 * [codekata.com](http://codekata.com/)
 * [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
+* [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
