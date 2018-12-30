@@ -597,6 +597,7 @@ Java
   * [Spring Rest Docs를 Markdown으로 작성하기](http://jojoldu.tistory.com/289)
   * [Gradle Multi Module에서 Spring Rest Docs 사용하기](http://jojoldu.tistory.com/294)
   * [Spring Rest Docs IntelliJ에서 미리보기](http://jojoldu.tistory.com/299)
+  * [Spring Rest Docs 적용](http://woowabros.github.io/experience/2018/12/28/spring-rest-docs.html)
   * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
   * [Spring Boot 2와 JUnit 5 사용](http://javacan.tistory.com/entry/spring-boot-2-junit-5)
   * [SpringBoot Data Redis 로컬/통합 테스트 환경 구축하기](http://jojoldu.tistory.com/297)
