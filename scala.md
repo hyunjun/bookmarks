@@ -72,7 +72,6 @@ Scala
 * [SCALA & DESIGN PATTERNS](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
   * [Code : Factory Pattern + Decorator Pattern](http://m.blog.naver.com/hancury/220683740938)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
-* [Transform your State \/ Err - A concrete example of parser combinators, state monad and monad transformers in Scala, using scala-parser-combinators and scalaz](http://www.slideshare.net/gerferra/transform-your-state-or-err)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 * [scala.bythebay.io](http://scala.bythebay.io/)
@@ -358,6 +357,7 @@ Scala
 * reflection
   * [스칼라 강의 (44) - 리플렉션](http://hamait.tistory.com/893)
 * scalaz
+  * [Transform your State \/ Err - A concrete example of parser combinators, state monad and monad transformers in Scala, using scala-parser-combinators and scalaz](http://www.slideshare.net/gerferra/transform-your-state-or-err)
   * [Easy Performance Wins With Scalaz](http://blog.higher-order.com/blog/2015/06/18/easy-performance-wins-with-scalaz/)
   * [learning Scalaz](http://eed3si9n.com/learning-scalaz/)
   * [learning Scalaz — Combined Pages](http://eed3si9n.com/learning-scalaz/Combined+Pages.html)
@@ -377,6 +377,7 @@ Scala
   * [Scalaz](https://www.youtube.com/watch?v=V5P3qgf29Dg)
   * [Scalaz 7 with Lars Hupel](https://www.youtube.com/watch?v=KzoqOVD7mvE)
   * [Cool toolz in the Scalaz and Cats toolboxes by Jan Pustelnik at Scalar Conf 2016](https://www.youtube.com/watch?v=HTy2hBwTPTY)
+  * [졸면서 하는 라이브 코딩 (2018-12-14)](https://www.youtube.com/watch?v=Q7pddqeco_Q)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
