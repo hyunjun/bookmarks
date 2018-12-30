@@ -66,6 +66,7 @@ Network
   * [http에서 https로 변경 시 페이스북 like button 값 복구](https://www.popit.kr/https-%EB%B3%80%EA%B2%BD%EC%8B%9C-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81-like-button-%EA%B0%92-%EB%B3%B5%EA%B5%AC/)
   * [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/https/)
   * [알아두면 쓸데없는 신비한 TLS 1.3](https://b.luavis.kr/server/tls-1.3)
+  * [TLS 연결 디버깅: 인증서 오류를 찾아서](https://rein.kr/blog/archives/4525)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 
