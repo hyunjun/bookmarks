@@ -8,6 +8,7 @@ Machine Learning
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
 * [reddit.com/r/LearnMachineLearning/wiki/reference](https://www.reddit.com/r/LearnMachineLearning/wiki/reference)
 * [My Curated List of AI and Machine Learning Resources from Around the Web](https://unsupervisedmethods.com/my-curated-list-of-ai-and-machine-learning-resources-from-around-the-web-9a97823b8524)
+* [The 25 Best Data Science and Machine Learning GitHub Repositories from 2018](https://www.analyticsvidhya.com/blog/2018/12/best-data-science-machine-learning-projects-github/)
 * [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * Machine Learning is Fun!
