@@ -181,6 +181,7 @@ Programming
 * [The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot](https://hackernoon.com/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9)
 * [Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=eEBOvqMfPoI)
 * [번역 나는 어떻게 더 나은 프로그래머가 되었는가](https://adhrinae.github.io/posts/how-i-became-a-better-programmer-kr/)
+* [번역 더 나은 개발자가 되는 8 가지 방법](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114)
 * [스타트업에서 전화응대 고객센터 간단히 구축하기](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%A0%84%ED%99%94%EC%9D%91%EB%8C%80-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0-%EA%B0%84%EB%8B%A8%ED%9E%88-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-5f7a6919130d)
 * 훌륭한 개발 문화의 이면
   * [(1) – 코딩 테스트 인터뷰 제대로 하기](http://channy.creation.net/blog/1104)
