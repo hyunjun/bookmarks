@@ -351,5 +351,6 @@ AWS
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
+* [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
