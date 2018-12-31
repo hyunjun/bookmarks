@@ -226,3 +226,4 @@ Data Visualization
 * [Python: matplotlib hangs and shows nothing (Mac OS X)](https://markhneedham.com/blog/2015/03/26/python-matplotlib-hangs-and-shows-nothing-mac-os-x/)
 * [Matplotlib: 폰트 기본 경로를 찾을 수 없을 때](http://ohgyun.com/769) mac font directory 설정 변경
 * [Simple Method of Creating Animated Graphs](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)
+* [subplot 기능을 활용하여 캔들차트와 보조지표 그리기](http://blog.alphasquare.co.kr/221423888281)
