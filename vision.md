@@ -237,6 +237,8 @@ Vision
 * [UNDERSTANDING DEEP LEARNING FOR OBJECT DETECTION](http://zoey4ai.com/2018/05/12/deep-learning-object-detection/)
 * [180525 mobile visionnet_hanlim_extended](https://www.slideshare.net/JaewookKang1/180525-mobile-visionnethanlimextended)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
+* [카카오 OCR 시스템 구성과 모델](https://brunch.co.kr/@kakao-it/318)
+* [아날로그 기상 데이터를 OCR로 디지털화할 수 있을까?](https://brunch.co.kr/@kakao-it/319)
 * [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/MURGIO/Food-Recipe-CNN)
 * “Tutorials of Object Detection using Deep Learning
   * [1 What is object detection?](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
