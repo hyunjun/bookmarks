@@ -67,6 +67,7 @@ Network
   * [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/https/)
   * [알아두면 쓸데없는 신비한 TLS 1.3](https://b.luavis.kr/server/tls-1.3)
   * [TLS 연결 디버깅: 인증서 오류를 찾아서](https://rein.kr/blog/archives/4525)
+  * [TLS 연결 디버깅: Forward Secrecy 재확인하기](https://rein.kr/blog/archives/4529)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 
