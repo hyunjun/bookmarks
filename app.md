@@ -107,6 +107,7 @@ App
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 * [Zotero - a free, easy-to-use tool to help you collect, organize, cite, and share research](https://www.zotero.org/)
+* [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
