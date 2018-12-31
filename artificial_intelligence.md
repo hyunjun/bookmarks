@@ -123,3 +123,4 @@ Artificial Intelligence
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
 * [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
+* [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
