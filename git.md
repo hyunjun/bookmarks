@@ -442,6 +442,7 @@ Git
 * [Git-it is a desktop (Mac, Windows and Linux) app that teaches you how to use Git and GitHub on the command line](https://github.com/jlord/git-it-electron)
   * [Git-it-electron 한글화 버전](https://github.com/nallwhy/git-it-electron)
 * [GitKraken](https://www.gitkraken.com/)
+  * [GitKraken 설치와 Clone](https://www.youtube.com/watch?v=B_UQKXgZkQo)
 * [GitLab](https://www.gitlab.com/)
   * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab ](https://github.com/sameersbn/docker-gitlab)
   * [GitLab flow에서 배울 워크 플로우의 실천](https://translate.google.com/translate?hl=en&sl=ja&tl=ko&u=http%3A%2F%2Fpostd.cc%2Fgitlab-flow%2F)
