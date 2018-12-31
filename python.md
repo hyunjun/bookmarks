@@ -695,6 +695,7 @@ Python
   * [A quick dive into Python’s “__slots__”](https://blog.usejournal.com/a-quick-dive-into-pythons-slots-72cdc2d334e)
   * [CLASS ATTRIBUTE 와 INSTANCE ATTRIBUTE 의 구분과 구현](http://blog.hanjae.tech/2018/12/python-class-attribute-instance.html)
     * 내부 동작을 이해하는 측면에서는 좋으나, 실제로는 전혀 쓸모없어 보임
+  * [Underscore(\_)로 시작하는 파이썬 클래스명](https://lhy.kr/python-class-name-startwith-underscore)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
