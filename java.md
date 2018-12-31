@@ -537,6 +537,7 @@ Java
     * [#1. 나는 왜 오픈소스를 읽을까?](http://blog.woniper.net/364)
     * [#2. 빌드](http://blog.woniper.net/365)
     * [#3. Spring-MVC의 시작](http://blog.woniper.net/366)
+    * [#4. AbstractContextLoaderInitializer](http://blog.woniper.net/367)
   * [Spring Cloud Series - Microservices Sidecar pattern implementation using Postgres, Spring Cloud Netflix and Docker](http://tech.asimio.net/2018/02/20/Microservices-Sidecar-pattern-implementation-using-Postgres-Spring-Cloud-Netflix-and-Docker.html)
   * 스프링 리액터 시작하기
     * [1 - 리액티브 스트림 Flux Mono Subscriber](http://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber)
@@ -613,6 +614,7 @@ Java
   * [Top 5 Online Courses to Learn Spring Boot in 2019](https://hackernoon.com/top-5-online-courses-to-learn-spring-boot-in-2019-c2fd7a0282c2)
   * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
   * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
+  * [Spring Boot Data Jpa 프로젝트에 Querydsl 적용하기](https://jojoldu.tistory.com/372)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
