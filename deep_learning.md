@@ -1429,6 +1429,7 @@ Deep Learning
   * [Korean Subtitles for CS231N Spring 2017](https://github.com/insurgent92/CS231N_17_KOR_SUB)
   * [Assignments CS231N: Convolutional Neural Networks for Visual Recognition (2016 & 2017)](https://github.com/Curt-Park/cs231n_assignments)
   * [딥러닝기반영상분석 (cs231n)](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
+  * [CS231N 2017 video subtitles translation project for Korean Computer Science students](https://github.com/insurgent92/CS231N_17_KOR_SUB)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
@@ -1830,6 +1831,7 @@ CVPR2016)
 * [A List Of Top 10 Deep Learning Papers, The 2018 Edition](https://www.techleer.com/articles/517-a-list-of-top-10-deep-learning-papers-the-2018-edition/)
 * [Deep Variational Bayes Filters (2017)](http://t-robotics.blogspot.kr/2018/05/35-deep-variational-bayes-filters-2017.html) VAE를 time series에 확장, 칼만필터에 딥러닝을 더함
 * [구글 Active QA 코드 공개 #논문소개](https://thepsygrammer.wordpress.com/2018/10/11/%EA%B5%AC%EA%B8%80-active-qa-%EC%BD%94%EB%93%9C-%EA%B3%B5%EA%B0%9C-%EB%85%BC%EB%AC%B8%EC%86%8C%EA%B0%9C/#more-70)
+* **[Papers with code. Sorted by stars. Updated weekly](https://github.com/zziz/pwc)**
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
