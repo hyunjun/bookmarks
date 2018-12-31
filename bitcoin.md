@@ -46,6 +46,7 @@ Bitcoin
 * [#51. Zeppelin Solidity의 SmartContract에 대해서 알아보자!(1)](https://steemit.com/kr/@kblock/52-zeppelin-solidity-smartcontract-1)
 * [handshake - Decentralized certificate authority and naming](https://handshake.org/)
 * [춤추는 철학자의 문제, 검증 게임 그리고 사이드 체인과 데이터 가용성(Dancing philosophers problem, verification game, sidechain and data availability)](https://medium.com/onther-tech/%EC%B6%A4%EC%B6%94%EB%8A%94-%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EB%AC%B8%EC%A0%9C-%EA%B2%80%EC%A6%9D-%EA%B2%8C%EC%9E%84-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%B2%B4%EC%9D%B8%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B0%80%EC%9A%A9%EC%84%B1-dancing-philosophers-problem-verification-game-sidechain-fa2b5e1e0ca3)
+* [대학원 과정 입문 - Openhash Platform](https://www.youtube.com/playlist?list=PLlSZlNj22M7QKwIhAplWtFCGJYt5bJLBy)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
