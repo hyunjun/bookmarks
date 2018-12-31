@@ -960,3 +960,4 @@ TensorFlow
 * [Getting Started with TensorFlow (Beginner Level) | SciPy 2018 Tutorial | Josh Gordon](https://www.youtube.com/watch?v=_b8dgMd_hr8)
 * [Tensorflow Scan Tutorial](https://www.youtube.com/watch?v=A6qJMB3stE4)
 * [Ultimate Guide to Getting Started with TensorFlow](https://www.kdnuggets.com/2018/09/ultimate-guide-tensorflow.html)
+* [lilianweng.github.io/lil-log/tag/tutorial](https://lilianweng.github.io/lil-log/tag/tutorial)
