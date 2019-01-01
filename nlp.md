@@ -247,6 +247,8 @@ NLP
 * [HMTL로 NLP의 최첨단 기술을 뛰어 넘다](https://parksurk.github.io/Beyond_current_NLP_with_HMTL-post)
 * [A Review of the Neural History of Natural Language Processing](http://ruder.io/a-review-of-the-recent-history-of-nlp/)
 * [Analyzing open-ended text? Its easier than you think!](https://blog.karna.ai/challenges-with-analyzing-open-ended-text-are-disappearing-a348d55e2ab2)
+* **[Fast Word Segmentation of Noisy Text](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)**
+* [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -489,6 +491,7 @@ NLP
 * [Multi-Class Text Classification with SKlearn and NLTK in python| A Software Engineering Use Case](https://towardsdatascience.com/multi-class-text-classification-with-sklearn-and-nltk-in-python-a-software-engineering-use-case-779d4a28ba5)
 * [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://medium.com/analytics-vidhya/tutorial-on-text-classification-nlp-using-ulmfit-and-fastai-library-in-python-2f15a2aac065)
 * [Deep Transfer Learning for Natural Language Processing — Text Classification with Universal Embeddings](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9)
+* [Develop a NLP Model in Python & Deploy It with Flask, Step by Step - Flask API, Document Classification, Spam Filter](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
 
 # Clustering
 * dbscan
@@ -573,6 +576,7 @@ NLP
   * 최첨단의 RNN을 구현하고 학습하여 자연어 텍스트를 생성하는 언어 모델을 만드는 방법을 설명
   * 이 모델의 목적은 일부 입력 텍스트가 있는 경우 새 텍스트를 생성
 * [Topic Modeling and Latent Dirichlet Allocation (LDA) in Python](https://towardsdatascience.com/topic-modeling-and-latent-dirichlet-allocation-in-python-9bf156893c24)
+* [The Hottest Topics In Machine Learning - Analyzing machine learning trends in research](https://towardsdatascience.com/the-hottest-topics-in-machine-learning-53b5ebd02e44)
 
 # Library
 * [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
@@ -654,6 +658,7 @@ NLP
   * [PyText - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs ](https://github.com/facebookresearch/pytext)
   * [Open-sourcing PyText for faster NLP development](https://code.fb.com/ai-research/pytext-open-source-nlp-framework/)
   * [페이스북, 자연어 처리 프로젝트를 오픈소스로 전환](http://www.ciokorea.com/news/113247)
+  * [Introducing PyText - Facebook’s New Framework for Better NLP Development](https://towardsdatascience.com/introducing-pytext-d8f404f1745)
 * [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
@@ -956,6 +961,7 @@ NLP
 * [Sentiment analysis : Frequency-based models](https://medium.com/@samuelpilcer/sentiment-analysis-frequency-based-models-288c0accdd12)
 * [Sentiment analysis : Machine-Learning approach](http://tech.reputation.com/sentiment-analysis-machine-learning/)
 * [Sentiment analysis : Machine-Learning approach](https://medium.com/datadriveninvestor/sentiment-analysis-machine-learning-approach-83e4ba38b57)
+* [A Beginner’s Guide on Sentiment Analysis with RNN](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
@@ -1133,6 +1139,7 @@ NLP
 * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice) 설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
 * [딥 러닝 음성 인식에 필요한 훈련 데이터를 직접 만들어보자](https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python)
 * [Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
+* [Introducing Wav2letter++ - How Facebook Implements Speech Recognition Systems Completely Based on Convolutional Neural Networks](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
 
 # Wikipedia
 * **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**
