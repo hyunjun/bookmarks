@@ -222,9 +222,10 @@ Python
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
   * [Python Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-nov-2018-2301700b699a)
-  * [Python Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-oct-2018-db86b787ec74)
   * [Python Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-nov-2018-34b6f7f8c22c)
+  * [Python Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-oct-2018-db86b787ec74)
   * [Python Open Source of the Month (v.Sep 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
+  * [Python Top 10 Articles for the Past Month (v.Sep 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-sep-2018-409151a4cbfe)
   * [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
   * [Python Open Source of the Month (v.June 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-june-2018-5396a661b110)
   * [Python Open Source of the Month (v.May 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-may-2018-ad82a3cad120)
@@ -579,6 +580,7 @@ Python
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
   * [Function Argument](http://ulismoon.tistory.com/7)
+  * [Write Better Python Functions](https://hackernoon.com/write-better-python-functions-c3a9a36382a6)
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
@@ -2305,6 +2307,7 @@ Python
   * [linux(centOS)에서 selenium 설정하기 (feat. python)](https://taetaetae.github.io/2018/02/01/linux-selenium/)
   * [파이썬 selenium 이용 네이버 자동로그인 하기](https://tariat.tistory.com/397)
   * [Selenium 으로 Web Scraping 아이 해봤니?](https://www.popit.kr/web-scraping-by-selenium)
+  * [Scraping Job Posting Data from Indeed using Selenium and BeautifulSoup](https://towardsdatascience.com/scraping-job-posting-data-from-indeed-using-selenium-and-beautifulsoup-dfc86230baac)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
