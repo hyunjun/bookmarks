@@ -439,3 +439,4 @@ Data Science
 * [Collaborative-filtering-Tutorial](https://github.com/kwoncheol/Collaborative-filtering-Tutorial)
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
 * [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
+* [Building and Testing Recommender Systems With Surprise, Step-By-Step - Learn how to build your own recommendation engine with the help of Python and Surprise Library, Collaborative Filtering](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
