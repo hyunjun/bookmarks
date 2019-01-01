@@ -680,6 +680,7 @@ Deep Learning
 * [Don't be a Turtle Project](https://github.com/motlabs/dont-be-turtle)
   * [181123 poseest101 devfest_pangyo_jwkang](https://www.slideshare.net/JaewookKang1/181123-poseest101-devfestpangyojwkang)
 * [Must-read Blogs for AI and Deep Learning Enthusiasts](https://blog.paralleldots.com/data-science/must-read-blogs-ai-deep-learning-enthusiasts/)
+* [Deep Learning for Classical Japanese Literature](https://towardsdatascience.com/deep-learning-for-classical-japanese-literature-48ae04c17dfd)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
