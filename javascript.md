@@ -734,6 +734,7 @@ Javascript
   * [Building a desktop application with Electron](https://medium.com/@bojzi/building-a-desktop-application-with-electron-204203eeb658)
   * [ELECTRON: State of the Universe](https://www.youtube.com/watch?v=LUBVQvebHC4)
   * [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
+  * [Build a File Metadata App in Electron](https://codeburst.io/build-a-file-metadata-app-in-electron-a0fe8d32410e)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
