@@ -36,6 +36,8 @@ Time Series
   * [iSAX: Indexing and Mining Terabyte Sized Time Series](http://www.cs.ucr.edu/~eamonn/iSAX.pdf)
 * [Kapacitor - Open source framework for processing, monitoring, and alerting on time series data](https://github.com/influxdb/kapacitor)
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
+* M3
+  * [Introducing M3 - The Time-Series Infrastructure that Powers Metrics at Uber](https://towardsdatascience.com/introducing-m3-8790c503ce24)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
