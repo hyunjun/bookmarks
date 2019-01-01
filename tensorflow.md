@@ -691,6 +691,8 @@ TensorFlow
 * [tensortalk.com](https://tensortalk.com/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
+* TF-Ranking
+  * [Introducing TF-Ranking - Google’s New Framework for Solving Ranking Problems](https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff)
 * [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)
 * [ZhuSuan - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow http://zhusuan.readthedocs.io](https://github.com/thu-ml/zhusuan)
 
