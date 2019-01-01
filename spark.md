@@ -657,6 +657,7 @@
   * [High Performance Python on Apache Spark](https://www.slideshare.net/wesm/high-performance-python-on-apache-spark)
 * **[Keynote: Making the Big Data ecosystem work together with Python - Holden Karau](https://www.youtube.com/watch?v=LOHVKYtUO-o)**
 * [Downloading spark and getting started with python notebooks (jupyter) locally on a single computer](https://medium.com/explore-artificial-intelligence/downloading-spark-and-getting-started-with-python-notebooks-jupyter-locally-on-a-single-computer-98a76236f8c1)
+* [A Brief Introduction to PySpark - A primer on PySpark for data science](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
