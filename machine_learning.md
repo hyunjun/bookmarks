@@ -407,6 +407,7 @@ Machine Learning
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
   * [Machine Learning Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-nov-2018-ffdf1c5a9be9)
   * [Machine Learning Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-nov-2018-35f1fd88cb49)
+  * [Machine Learning Top 10 Articles for the Past Month (v.Aug 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-aug-2018-c83eb92c0151)
   * [Machine Learning Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-july-2018-832c47937597)
   * [Machine Learning Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/machine-learning-open-source-projects-of-the-month-v-june-2018-d87e2ca3e13f)
   * [Machine Learning Open Source of the Month (v.May 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-may-2018-efd396d9306e)
@@ -661,6 +662,7 @@ Machine Learning
 * [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 * [Work like a Pro with Pipelines and Feature Unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)
 * [Kaggle_NLP_Song](https://github.com/songys/Kaggle_NLP_Song/blob/master/README.md)
+* [Why Kaggle will NOT make you a great data-scientist](https://towardsdatascience.com/why-kaggle-will-not-make-you-a-great-data-scientist-a2c2f506a23f)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -799,6 +801,7 @@ Machine Learning
 * [PhD level ML Course](https://tensorflowkorea.wordpress.com/2016/09/09/phd-level-ml-course/)
 * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
 * [machinelearningmastery.com/start-here](https://machinelearningmastery.com/start-here/)
+* [What are Some ‘Advanced ‘ AI and Machine Learning Online Courses?](https://towardsdatascience.com/what-are-some-advanced-ai-and-machine-learning-online-courses-8609ab281450)
 
 # Python
 * **[Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning](https://github.com/eriklindernoren/ML-From-Scratch)**
