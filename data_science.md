@@ -121,6 +121,7 @@ Data Science
 * [50 years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf)
 * [기획자·마케터가 알아둘 데이터과학 원칙 6가지](http://www.bloter.net/archives/242233)
 * [우리 식당 김사장이 데이터 과학자가 된 사연은?](https://brunch.co.kr/@lifidea/6)
+* [데이터 과학자에서 AI 연구자로 들어서며…](http://freesearch.pe.kr/archives/4905)
 * [e커머스 데이터 파헤치기-6편](https://brunch.co.kr/@genie7pe/8)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [The Automatic Statistician - An artificial intelligence for data science](http://www.automaticstatistician.com/examples/)
