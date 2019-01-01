@@ -151,6 +151,7 @@ Open Source
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [H3 2012 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
 * [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
+* [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt - 난생 처음으로 오픈 소스 프로젝트에 풀 리퀘스트를 보내 기여해 본 경험을 기술합니다](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
 * [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
