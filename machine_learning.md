@@ -459,6 +459,7 @@ Machine Learning
 * [DeepTide - The world's first massive collaboration machine learning platform Collaborate with top AI researchers on the biggest problems](http://deeptide.ai/)
 * [Beyond Apps: A Developer’s Guide to Getting Started in Machine Learning](https://hackernoon.com/beyond-apps-a-developers-guide-to-getting-started-in-machine-learning-39eec82a965d)
 * [Convex Optimization 컨벡스 최적화](https://wikidocs.net/17052)
+* [Convex Optimization: Fall 2018](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 * [머신러닝 단기집중과정 - 텐서플로우 API 사용 Google의 실용적인 머신러닝 속성 입문 과정](https://developers.google.com/machine-learning/crash-course/)
 * [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 * [Machine Learning for source code analysis - Alexander Bezzubov - FOSSASIA Summit 2017](https://www.youtube.com/watch?v=M_hOn-Ren1M)
