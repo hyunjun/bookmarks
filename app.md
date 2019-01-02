@@ -587,6 +587,7 @@ App
 # Note
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [dddraft.com](http://dddraft.com/)
+* [Dynalist - The best outlining app for your best work](https://dynalist.io/)
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
 * [notebooksapp.com](http://www.notebooksapp.com/)
 * [notion - All-in-one workspace](https://www.notion.so)
