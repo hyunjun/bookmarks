@@ -242,6 +242,7 @@ Nomad & Remote
 * [문과 출신 개발자의 싱가폴 취업기](https://brunch.co.kr/magazine/workingabroad)
   * [문과생 출신, 해외 스타트업의 개발자되다!!](https://www.youtube.com/watch?v=oEdn9U5EDWo)
 * [싱가포르 5년차 40대 가장이 경험한 살인적인 생활비](https://brunch.co.kr/@sangcheolkim/7)
+* [싱가포르 공기업 직장인이 말하는 현지 이직 장점 5가지](https://www.youtube.com/watch?v=6H_Ct0DXIwQ)
 
 # Sweden
 * [스웨덴 이민 - 스웨덴 거주권 따기](http://blog.naver.com/daisybloom/20104303366)
