@@ -656,6 +656,7 @@ TensorFlow
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
+  * [TensorFlow for JavaScript](https://www.youtube.com/watch?v=0nYmKKxGUBo)
 * [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)
 * [TensorFlow Probability](https://github.com/tensorflow/probability) 확률론적 프로그래밍
   * TFP는 TensorFlow를 기반으로하는 Python 라이브러리로서 현대 하드웨어에서 확률모델과 딥러닝을 쉽게 결합해 우리 주변의 불확실성을 모델링 가능
