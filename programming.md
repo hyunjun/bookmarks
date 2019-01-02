@@ -1230,6 +1230,8 @@ Programming
 * [Serverless 활용하기: MongoDB 기반 RESTful CRUD API 만들기](https://velopert.com/3577)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
 * [Serverless monitoring — the good, the bad and the ugly](https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843)
+* [0원으로 시작하는 서버리스 데이터 수집 및 분석](https://www.slideshare.net/KyuhyunByun1/0-121022533)
+* [AWSKRUG Serverless Group](https://github.com/awskrug/serverless-group)
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
