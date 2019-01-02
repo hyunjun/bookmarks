@@ -240,10 +240,13 @@ Vision
 * [카카오 OCR 시스템 구성과 모델](https://brunch.co.kr/@kakao-it/318)
 * [아날로그 기상 데이터를 OCR로 디지털화할 수 있을까?](https://brunch.co.kr/@kakao-it/319)
 * [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/MURGIO/Food-Recipe-CNN)
-* “Tutorials of Object Detection using Deep Learning
+* Tutorials of Object Detection using Deep Learning
   * [1 What is object detection?](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
   * [2 First Object Detection using Deep Learning](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-first-object-detection-using-deep-learning/)
   * [3 The application of Object Detection](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-the-application-of-object-detection/)
+  * [4 How to measure performance of object detection](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-how-to-measure-performance-of-object-detection/)
+  * [5 Training Deep Networks with Synthetic Data Bridging the Reality Gap by Domain Randomization Review](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-performance-one/)
+  * [6 Object Detection Multi Scale Testing Method Review](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-performance-two/)
 * [How to run Object Detection and Segmentation on a Video Fast for Free](https://github.com/Tony607/colab-mask-rcnn)
   * [Mask R-CNN Demo](https://colab.research.google.com/drive/1AJUcrbS8wnk4hzD0At1oaIZrRuINKfNj) Colaboratory
 * [SlowFast – Dual-mode CNN for Video Understanding](https://lyrn.ai/2018/12/21/slowfast-dual-mode-cnn-for-video-understanding/)
