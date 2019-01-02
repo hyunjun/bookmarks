@@ -108,6 +108,7 @@ AWS
 * [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
 * [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/arun-gupta/java-k8s)
 * [Kubernetes Hands-on](https://github.com/awskrug/handson-labs-2018/blob/master/OpenInfraDays/hands-on.md)
+* [AWSKRUG Hands-on Lab 2018](https://github.com/awskrug/handson-labs-2018)
 * [Kops 를 활용한 AWS 기반 Kubernetes Cluster 운영 및 CI/CD](https://docs.google.com/presentation/d/1FaD0t0h3nWyNWSb8TlTsA9j7mCyh_fhijZ2cTv8GADA/edit#slide=id.p1)
 * [Kubernetes on AWS : AWSKRUG Container hands-on #3](https://github.com/awskrug/handson-labs-2018/tree/master/Container/3_Kubernetes)
 * [Kubernetes on AWS](https://docs.google.com/presentation/d/1odyUPXrenc4aNhY_YIHaHyODJ8gPlixQk7U9J0BzL1M/edit#slide=id.p)
@@ -259,6 +260,7 @@ AWS
 * [아마존 엘라스틱캐시의 멤캐시디 클러스터 스케일 아웃](https://www.44bits.io/ko/post/amazon-elasticache-memcached-cluster-scale-out)
 * [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
 * [AWS NAT Gateway에서 NAT instance로 전환하기](https://blog.2dal.com/2018/12/31/nat-gateway-to-nat-instance/)
+* [AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362)](https://www.youtube.com/watch?v=HCCkVz25UU4) GitOps
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -346,6 +348,7 @@ AWS
 * [프로그래밍 언어 루비(Ruby) 공식 지원을 발표](https://www.44bits.io/ko/post/news--announce-ruby-support-for-aws-lambda)
 * [re:Invent 2018 - ALB 타깃그룹의 새로운 타입으로 AWS 람다 추가](https://www.44bits.io/ko/post/aws-alb-target-group-aws-lambda-target-type-released)
 * [re:Invent 2018 - AWS 람다, 함수 간 공유 가능한 레이어 기능 지원](https://www.44bits.io/ko/post/news--reinvent-2018-aws-lambda-layer)
+* [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
