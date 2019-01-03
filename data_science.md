@@ -299,6 +299,8 @@ Data Science
 # Library
 * ["가자, 데이터의 세계로" 무료 애널리틱스 툴 7선](http://www.ciokorea.com/news/38154)
 * [Comparison of top data science libraries for Python, R and Scala Infographic](https://www.datasciencecentral.com/profiles/blogs/comparison-of-top-data-science-libraries-for-python-r-and-scala)
+* [10 Data Science Tools I Explored in 2018 - New Languages, Libraries, and Services](https://towardsdatascience.com/10-data-science-tools-i-explored-in-2018-d8226f99f342)
+* [2018’s Top 7 Libraries and Packages for Data Science and AI: Python & R - This is a list of the best libraries and packages that changed our lives this year, compiled from my weekly digests](https://heartbeat.fritz.ai/top-7-libraries-and-packages-of-the-year-for-data-science-and-ai-python-r-6b7cca2bf000)
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
