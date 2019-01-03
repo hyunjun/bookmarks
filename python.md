@@ -226,6 +226,7 @@ Python
   * [Python Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-oct-2018-db86b787ec74)
   * [Python Open Source of the Month (v.Sep 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-sep-2018-3136ac55f230)
   * [Python Top 10 Articles for the Past Month (v.Sep 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-sep-2018-409151a4cbfe)
+  * [Python Open Source of the Month (v.Aug 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-aug-2018-9433979f586d)
   * [Python Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2018-daefb1c3a5a6)
   * [Python Open Source of the Month (v.June 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-june-2018-5396a661b110)
   * [Python Open Source of the Month (v.May 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-may-2018-ad82a3cad120)
@@ -435,6 +436,7 @@ Python
   * [Dynamically create a type with Python](http://henry.precheur.org/python/Dynamically%20create%20a%20type%20with%20Python.html)
   * [PYTHON Special methods - Customizing class creation](https://gist.github.com/dbckdghk/f6d2e877bc1cfeb20ca91e0afe18089f)
   * [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/#class-methods)
+  * [Let’s get classy: how to create modules and classes with Python](https://medium.freecodecamp.org/lets-get-classy-how-to-create-modules-and-classes-with-python-44da18bb38d1)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -2585,6 +2587,7 @@ Python
 * [The Art of Cleaning Your Data](https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726)
 * [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
 * [Python Pandas Tutorial | Pandas For Data Analysis | Python Pandas | Python Tutorial | Simplilearn](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
+* [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
