@@ -184,6 +184,7 @@ Open Source
 * EVCache
   * [Announcing EVCache: Distributed in-memory datastore for Cloud](https://medium.com/netflix-techblog/announcing-evcache-distributed-in-memory-datastore-for-cloud-c26a698c27f7)
   * [Evolution of Application Data Caching : From RAM to SSD](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
+  * [Cache warming: Agility for a stateful service](https://medium.com/netflix-techblog/cache-warming-agility-for-a-stateful-service-2d3b1da82642)
 * [FlameScope - a visualization tool for exploring different time ranges as Flame Graphs](https://github.com/Netflix/flamescope)
   * [Netflix FlameScope](https://medium.com/netflix-techblog/netflix-flamescope-a57ca19d47bb)
   * [Netflix FlameScope](https://www.youtube.com/watch?v=cFuI8SAAvJg)
@@ -219,6 +220,8 @@ Open Source
     * 이런 솔루션 을 위해 자체 벤치마킹 테스트를 준비하고 있다면 관심가져 볼만한 내용
 * Nimble
   * [Project Nimble: Region Evacuation Reimagined](https://medium.com/netflix-techblog/project-nimble-region-evacuation-reimagined-d0d0568254d4)
+* NMDB [The Netflix Media Database](https://medium.com/netflix-techblog/the-netflix-media-database-nmdb-9bf8e6d0944d)
+  * [Implementing the Netflix Media Database](https://medium.com/netflix-techblog/implementing-the-netflix-media-database-53b5a840b42a)
 * [Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence](https://github.com/spinnaker/spinnaker)
   * [넷플릭스, 새 데브옵스 플랫폼 오픈소스로 공개](http://m.zdnet.co.kr/news_view.asp?artice_id=20151117113526)
   * 배포 자동화 솔루션 Spinnaker
