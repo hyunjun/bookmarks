@@ -368,6 +368,7 @@ Python
 * [Python: Beyond the basics II - IPython, encapsulation & args](https://medium.com/@m0etaz/python-beyond-the-basics-ii-16964d70c4da)
 * [Python stories, September 2018](https://hackernoon.com/python-stories-september-2018-d34e526edde2)
 * [stdout_009.log: PEP 572, PEP 8000, Python Software Foundation](https://stdout.fm/9/)
+* [Dependency Injection in Python: The Java Guy’s Perspective - Dependency Injection (DI) in Python? Seriously?](https://medium.com/ki-labs-engineering/dependency-injection-in-python-the-java-guys-perspective-6f96d672c5e7)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1716,6 +1717,7 @@ Python
   * [Colaboratory 사용하기](https://docs.google.com/presentation/d/145XR44Ag6GW2xV1r2bOrnOgqtJYh59ZnsnYtmFZioTo/edit)
   * [google Colaboratory 에서 구글 드라이브에 있는 파일 쉽게 이용하기](http://leebaro.tistory.com/entry/google-Colaboratory-에서-구글-드라이브에-있는-파일-쉽이용하기)
   * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
+  * [Getting Started With Google Colab - A Simple Tutorial for the Frustrated and Confused](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 
