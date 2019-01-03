@@ -445,6 +445,7 @@ TensorFlow
   * [Video](https://www.youtube.com/watch?v=IKHzc7sGCxQ)
   * [Author Pytorch code](https://github.com/NVIDIA/partialconv)
 * [Let AI design your holiday cards!](https://stories.thinkingmachin.es/ai-art-holiday-cards/)
+* [An Introduction to TensorFlow and implementing a simple Linear Regression Model](https://medium.com/datadriveninvestor/an-introduction-to-tensorflow-and-implementing-a-simple-linear-regression-model-d900dd2e9963)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -602,6 +603,7 @@ TensorFlow
   * [Meet Horovod: Uber’s Open Source Distributed Deep Learning Framework for TensorFlow](https://eng.uber.com/horovod/)
   * Uber 내부 ML- 서비스 플랫폼인 Michelangelo의 딥러닝 툴킷의 오픈소스 구성 요소
   * 바이두의 논문에서 소개된 TensorFlow ring-allreduce algorithm을 기반으로 시작하여, 최근에는 nVidia의 NCCL로 변경
+  * [Distributed TensorFlow using Horovod - Reduce training time for deep neural networks by using many GPUs](https://towardsdatascience.com/distributed-tensorflow-using-horovod-6d572f8790c4)
 * Magenta
   * [Connecting with Music Through Magenta.js](https://magenta.tensorflow.org/blog/2018/05/03/connecting-with-magenta-js/)
   * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
@@ -631,9 +633,12 @@ TensorFlow
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
 * [TensorForce : TF용 강화학습 라이브러리](https://www.facebook.com/nextobe1/posts/355981208171214)
 * [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
+* TensorFlow FileSystem TFFS
+  * [TensorFlow Filesystem — Access Tensors Differently](https://towardsdatascience.com/tensorflow-filesystem-access-tensors-differently-888bce1d68e7)
 * [TensorFlow Hub](https://www.tensorflow.org/hub/)
   * [Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow](https://medium.com/tensorflow/introducing-tensorflow-hub-a-library-for-reusable-machine-learning-modules-in-tensorflow-cdee41fa18f9)
   * [TensorFlow.Data 및 TensorFlow Hub](https://www.slideshare.net/inureyes/tensorflowdata-tensorflow-hub)
+  * [How to use TensorFlow Hub with code examples](https://medium.com/ymedialabs-innovation/how-to-use-tensorflow-hub-with-code-examples-9100edec29af)
 * [TensorFlow.js](https://js.tensorflow.org/)
   * [github.com/zaidalyafeai/tensorflowjs-binary](https://github.com/zaidalyafeai/tensorflowjs-binary)
   * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
