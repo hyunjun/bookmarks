@@ -681,6 +681,7 @@ Deep Learning
   * [181123 poseest101 devfest_pangyo_jwkang](https://www.slideshare.net/JaewookKang1/181123-poseest101-devfestpangyojwkang)
 * [Must-read Blogs for AI and Deep Learning Enthusiasts](https://blog.paralleldots.com/data-science/must-read-blogs-ai-deep-learning-enthusiasts/)
 * [Deep Learning for Classical Japanese Literature](https://towardsdatascience.com/deep-learning-for-classical-japanese-literature-48ae04c17dfd)
+* [2018 In Review: 10 Open-Sourced AI Datasets](https://medium.com/syncedreview/2018-in-review-10-open-sourced-ai-datasets-696b3b49801f)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
