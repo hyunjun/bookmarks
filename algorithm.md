@@ -453,6 +453,7 @@ Algorithm
 ## Binary Search Tree BST
 * [이진탐색트리(Binary Search Tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)
 * [is Binary Search Tree](http://astrod.github.io/2018/01/08/8.html)
+* [BST Sequences in Python](https://hackernoon.com/bst-sequences-in-python-c072c0e9b19f)
 
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
