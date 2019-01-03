@@ -688,6 +688,8 @@ Machine Learning
 # Library
 * [머신러닝과 예측 알고리즘에 '안성맞춤' 데이터 과학 툴 10선](http://www.ciokorea.com/news/37977)
 * [The Best Machine Learning Libraries in Python, Java,.NET and C++](http://www.rubedo.com.br/2016/05/the-best-machine-learning-libraries-in.html?m=1)
+* [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)
+  * fast.ai Detectron FastText AutoKeras Dopamine vid2vid
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
@@ -704,6 +706,8 @@ Machine Learning
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [MLDB - the Machine Learning Database](http://mldb.ai/)
   * [Technology Fridays: MLDB is the Database Every Data Scientist Dreams Of](https://hackernoon.com/technology-fridays-mldb-is-the-database-every-data-scientist-dreams-of-368b50b5a434)
+* [mlflow - Open source platform for the machine learning lifecycle https://mlflow.org ](https://github.com/mlflow/mlflow)
+  * [Getting started with mlFlow](https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61)
 * ML Kit
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
