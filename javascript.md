@@ -1133,6 +1133,7 @@ Javascript
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
 * [Node.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-dec-2018-89be607bdc44)
 * [Node.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-nov-2018-19b25a638588)
+* [Node.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-oct-2018-a2cc391c3003)
 * [Node.js Open Source of the Month (v.Aug 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-aug-2018-a3093d14943c)
 * [Node.js Open Source of the Month (v.July 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-july-2018-f4ec666bad64)
 * [Node.js Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-nov-2018-307c66f0d765)
