@@ -393,6 +393,7 @@ Apache
   * Apache Kafka 개념 설명
 * [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
+* [Kafka의 디스크가 모자랄 때](https://andromedarabbit.net/kafka%EC%9D%98-%EB%94%94%EC%8A%A4%ED%81%AC%EA%B0%80-%EB%AA%A8%EC%9E%90%EB%9E%84-%EB%95%8C/)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
