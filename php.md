@@ -42,6 +42,7 @@ PHP
     * [초기 작업 수행](https://cherrypick.co.kr/using-elasticsearch-in-laravel-framework/)
     * [문서 관리 작업 수행](https://cherrypick.co.kr/using-elasticsearch-in-laravel-framework-2/)
   * [라라벨 프레임워크 Best practices 정리한 레퍼지토리](https://github.com/xotrs/laravel-best-practices/)
+  * [Create web notifications using Laravel and Pusher Channels](https://hackernoon.com/create-web-notifications-using-laravel-and-pusher-channels-a9516427d842)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * VarDumper
