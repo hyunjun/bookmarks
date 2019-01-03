@@ -211,6 +211,7 @@ Web
   * [네이버(naver) 실시간 검색어 순위 가져오기 - 과거데이터 까지 가져오자!](https://blog.naver.com/pjt3591oo/221183968910)
   * [Beautiful Soup로 크롤링 하기 #1](https://jungwoon.github.io/python/crawling/2018/04/12/Crawling-1/)
   * [Beautiful Soup로 크롤링 하기 #2](https://jungwoon.github.io/python/crawling/2018/04/12/Crawling-2/)
+  * [Introduction to Web Scraping with BeautifulSoup - How to use web scraping to get information from a Wikipedia page](https://towardsdatascience.com/introduction-to-web-scraping-with-beautifulsoup-e87a06c2b857)
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
