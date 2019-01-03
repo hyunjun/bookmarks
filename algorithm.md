@@ -442,6 +442,7 @@ Algorithm
 * [Everything you need to know about tree data structures](https://medium.freecodecamp.org/all-you-need-to-know-about-tree-data-structures-bceacb85490c)
 * [Algorithms Behind Modern Storage Systems - Different uses for read-optimized B-trees and write-optimized LSM-trees](https://queue.acm.org/detail.cfm?id=3220266)
 * [트리(tree)와 이진트리(binary tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/21/tree/)
+* [Binary tree traversal - breadth-first and depth-first strategies](https://www.youtube.com/watch?v=9RHO6jU--GU)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
