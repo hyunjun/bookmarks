@@ -5,6 +5,7 @@ SQL
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+* [How to work optimally with relational databases](https://medium.freecodecamp.org/how-to-work-optimally-with-relational-databases-627073f82d56)
 * [The Wide World of Databases](https://blog.usejournal.com/a-light-introduction-to-databases-1154183ab852)
 * [In memory database plus traditional database combination back end architecture pattern](https://www.linkedin.com/grp/post/746917-5990940001540542468)
 * [DISTRIBUTED SQL DATABASE FOR THE AGE OF DOCKER](https://crate.io/)
@@ -21,6 +22,7 @@ SQL
 * [Why the SQL Standard does not need another way to do GROUP BY](http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 * [Why your query language should be explicit](http://blog.hiphipjorge.com/why-your-database-should-be-explicit/)
+* [Advanced Queries With SQL That Will Save Your Time](https://towardsdatascience.com/advanced-queries-with-sql-that-will-save-your-time-48a45b7ca2e3)
 * [The Sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql)
 * [Thoughts on Time-series Databases](http://jmoiron.net/blog/thoughts-on-timeseries-databases/)
 * [DB 102: Database Orientation - Row vs. Column](http://www.ibmsystemsmag.com/Blogs/You-and-i/Archive/db-102-database-orientation-row-vs-column/)
@@ -383,6 +385,7 @@ SQL
 * [How to scale PostgreSQL 10 using table inheritance and declarative partitioning](https://blog.timescale.com/scaling-partitioning-data-postgresql-10-explained-cd48a712a9a1)
 * [Postgres as the Substructure for IoT and the Next Wave of Computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af)
 * [PostgreSQL 11 Partitioning Improvements](https://pgdash.io/blog/partition-postgres-11.html) PostgreSQL 11에서 파티셔닝에 관련하여 향상된 기능 소개
+* **[How to build a PostgreSQL database to store tweets - Learning how to stream from Twitter API](https://towardsdatascience.com/how-to-build-a-postgresql-database-to-store-tweets-1be9c1d48c7)**
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
