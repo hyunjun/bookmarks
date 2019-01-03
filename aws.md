@@ -261,6 +261,7 @@ AWS
 * [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
 * [AWS NAT Gateway에서 NAT instance로 전환하기](https://blog.2dal.com/2018/12/31/nat-gateway-to-nat-instance/)
 * [AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362)](https://www.youtube.com/watch?v=HCCkVz25UU4) GitOps
+* [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
