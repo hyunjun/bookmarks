@@ -149,6 +149,7 @@ Functional Programming
 * [Transducers: Efficient Data Processing Pipelines in JavaScript](https://medium.com/javascript-scene/transducers-efficient-data-processing-pipelines-in-javascript-7985330fe73d)
 * [reduce에 Promise 더하기](https://medium.com/@jooyunghan/js-reduce%EC%97%90-promise-%EB%8D%94%ED%95%98%EA%B8%B0-e011153953ca)
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
+* [(Functional) OOP With Message Passing](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)
 
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
