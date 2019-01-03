@@ -1709,6 +1709,7 @@ Deep Learning
 * [Using Genetic Algorithm for Optimizing Recurrent Neural Networks](https://www.kdnuggets.com/2018/01/genetic-algorithm-optimizing-recurrent-neural-network.html)
 * [Only Numpy: NIPS 2017 - Implementing Dilated Recurrent Neural Networks with Interactive Code](https://towardsdatascience.com/only-numpy-nips-2017-implementing-dilated-recurrent-neural-networks-with-interactive-code-e83abe8c9b27)
 * [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
+* [Animated RNN, LSTM and GRU - Recurrent neural network cells in GIFs](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
