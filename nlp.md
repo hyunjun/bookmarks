@@ -249,6 +249,7 @@ NLP
 * [Analyzing open-ended text? Its easier than you think!](https://blog.karna.ai/challenges-with-analyzing-open-ended-text-are-disappearing-a348d55e2ab2)
 * **[Fast Word Segmentation of Noisy Text](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)**
 * [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
+* [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -562,6 +563,7 @@ NLP
 * [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
 * [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
 * [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
+* [Recurrent Neural Networks: The Powerhouse of Language Modeling](https://medium.com/analytics-vidhya/recurrent-neural-networks-the-powerhouse-of-language-modeling-f292c918b879)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
@@ -806,6 +808,8 @@ NLP
   * 그런 다음 원치 않는 태깅을 필터링하고 가장 유명한 이름과 조직을 찾는 규칙 기반 접근 방식
 * [Named Entity Recognition: Milestone Models, Papers and Technologies](https://blog.paralleldots.com/data-science/named-entity-recognition-milestone-models-papers-and-technologies)
 * [Introduction to Named Entity Recognition](https://medium.com/explore-artificial-intelligence/introduction-to-named-entity-recognition-eda8c97c2db1)
+* [Named Entity Recognition (NER), Meeting Industry’s Requirement by Applying state-of-the-art Deep](https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede)
+* [Parsing XML, Named Entity Recognition in One-Shot - Conditional Random Fields, Sequence Prediction, Sequence Labelling](https://towardsdatascience.com/parsing-xml-named-entity-recognition-in-one-shot-629a8b9846ee)
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
