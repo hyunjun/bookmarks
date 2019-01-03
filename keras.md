@@ -178,6 +178,7 @@ Keras
   * [4. MNIST (Korean)](https://www.youtube.com/watch?v=QqmugTjVbz4)
   * [5. Wide & Deep Neural Network (Korean)](https://www.youtube.com/watch?v=eAvYrGHCnAg)
   * [6. Vanishing Gradient 문제 및 ReLU](https://www.youtube.com/watch?v=QAhlSzRLSos)
+* [내 중고물품을 분류 해주는 모델 서빙하기(feat. Keras & Flask)](https://medium.com/daangn/%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%84-%EB%B6%84%EB%A5%98-%ED%95%B4%EC%A3%BC%EB%8A%94-%EB%AA%A8%EB%8D%B8-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-feat-keras-flask-210f8a30b8f6)
 
 # GAN
 * [Implementation BEGAN by Keras](https://github.com/mokemokechicken/keras_BEGAN)
@@ -219,6 +220,7 @@ Keras
 * [How to predict Bitcoin and Ethereum price with RNN-LSTM in Keras](https://medium.com/@siavash_37715/how-to-predict-bitcoin-and-ethereum-price-with-rnn-lstm-in-keras-a6d8ee8a5109)
 * [케라스 LSTM 모델로 작곡하기](https://tykimos.github.io/2018/09/14/How_to_Generate_Music_using_a_LSTM_Neural_Network_in_Keras/)
 * [How to Develop LSTM Models for Multi-Step Time Series Forecasting of Household Power Consumption](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
+* [Choosing the right Hyperparameters for a simple LSTM using Keras](https://towardsdatascience.com/choosing-the-right-hyperparameters-for-a-simple-lstm-using-keras-f8e9ed76f046)
 
 # RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
