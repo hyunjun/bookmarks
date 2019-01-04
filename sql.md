@@ -386,6 +386,9 @@ SQL
 * [Postgres as the Substructure for IoT and the Next Wave of Computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af)
 * [PostgreSQL 11 Partitioning Improvements](https://pgdash.io/blog/partition-postgres-11.html) PostgreSQL 11에서 파티셔닝에 관련하여 향상된 기능 소개
 * **[How to build a PostgreSQL database to store tweets - Learning how to stream from Twitter API](https://towardsdatascience.com/how-to-build-a-postgresql-database-to-store-tweets-1be9c1d48c7)**
+* [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)
+  * Guardian에서 MongoDB에서 Postgres로 마이그레이션한 스토리
+  * 데이터베이스 API Call을 복제하여 구 개의 데이터베이스서 실행하고 로깅을 하는 방법을 포함하여 데이터베이스 롤아웃 및 마이그레이션 작업 과정
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
