@@ -91,6 +91,9 @@ Hadoop
   * Criteo는 매년 40PB 가량의 데이터 증가, NameNode에는 100만개 블록 저장
   * Criteo가 Hadoop 클러스터를 확장하면 겪은 어려움과 튜닝 사례 소개
 * [Help hadoop survive the 300 million block barrier and then back it up](https://fr.slideshare.net/Hadoop_Summit/help-hadoop-survive-the-300-million-block-barrier-and-then-back-it-up-110010771)
+* [2x Faster BI Interactive queries with HDP 3.0](https://ko.hortonworks.com/blog/2x-faster-bi-interactive-queries-with-hdp-3-0/)
+  * HDP 2.6.5와 3.0에서의 Hive 성능에 대한 자체 비교 자료
+  * 3.0에 ACID semantic이 추가되었지만 dynamic runtime filtering과 vectorization 덕분에 성능은 2배 정도 향상
 
 # Hadoop 3.x
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
@@ -188,6 +191,7 @@ Hadoop
 * [Some tips to run a multi-node Hadoop in Docker](https://medium.com/@rubenafo/some-tips-to-run-a-multi-node-hadoop-in-docker-9c7012dd4e26) 단일 시스템에서 Docker 내부에서 멀티 노드 하둡을 구성하는 방법
 * [Mindful Machines Original Series, Big Data: Batch Processing](https://mindfulmachines.io/blog/2018/4/24/series-big-data-batch-processing) 일괄처리, SQL 일괄처리, 데이터웨어하우스, RDBMs 영역의 유력한 오픈 소스 소프트웨어 몇 가지 요약
 * [Cloud Native Machine Learning on Kubernetes](https://www.youtube.com/watch?v=zszUUut8gt4)
+* [Cloudera Enterprise 6.1.0 is Now Available](https://blog.cloudera.com/blog/2018/12/cloudera-enterprise-6-1-0-is-now-available/)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)
@@ -242,6 +246,17 @@ Hadoop
 * [Troubleshooting HiveServer2 Service Crashes](https://www.youtube.com/watch?v=grLtWOpMpq8)
 * [Hive Tutorial | Hadoop Hive Tutorial | Hive Tutorial for Beginners | Hive Architecture](https://www.youtube.com/watch?v=4OC-RYrBQUw)
 * [Faster Swarms of Data : Accelerating Hive Queries with Parquet Vectorization](https://blog.cloudera.com/blog/2018/12/faster-swarms-of-data-accelerating-hive-queries-with-parquet-vectorization/)
+  * Cloudera와 Intel의 Apache Hive에서 Apache Parquet의 vectorized read에 대한 연구 산출물
+  * Hive Parquet Vectorization을 통해 평균 26% 정도 성능향상이 있다고 자체 평가
+* [Apache Hive Warehouse Connector Use-Cases](https://ko.hortonworks.com/blog/hive-warehouse-connector-use-cases/)
+  * Spark용 HWC(HiveWarehouseConnector)는 Hive를 통해 쿼리를 실행하여 DataFrames로 읽고 쓰는 API를 제공
+  * HWC는 HDP와 번들로 제공되며 코드는 Github에 오픈소스로 공유
+* [Query Federation with Apache Hive](https://ko.hortonworks.com/blog/query-federation-with-hive/)
+  * Apache Hive 3.0에 포함된 Query federation 소개
+  * 실행 계획을 작성할 때 Apache Calcite의 CBO를 사용하여 smart push-down이 가능
+* [Introducing Hive-Kafka integration for real-time Kafka SQL queries](https://ko.hortonworks.com/blog/introducing-hive-kafka-sql/)
+  * HDP 최신 릴리즈(3.1)에 포함된 Kafka와 Hive의 통합 기능
+  * 카프가 사용자들의 Kafka SQL에 대한 불만 해소를 위한 기능
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
@@ -291,6 +306,8 @@ Hadoop
 * [Introduction to Presto Cost-Based Optimizer](https://www.starburstdata.com/technical-blog/2018/4/9/introduction-to-presto-cost-based-optimizer)
   * [Presto Cost-Based Optimizer rocks the TPC benchmarks!](https://www.starburstdata.com/technical-blog/2018/4/2/presto-cost-based-optimizer-rocks-the-tpc-benchmarks)
   * TPC 벤치 마크를 통해 Presto의 성능 향상을 확인, Presto의 새로운 옵티마이저가 작동하는 방식, 왜 성능이 향상되었는지 설명
+* [HyperLogLog in Presto: A significantly faster way to handle cardinality estimation](https://code.fb.com/data-infrastructure/hyperloglog/)
+  * Presto의 HLL(HyperLogLog) 구현에 대해 이야기 및 HLL 백그라운드에 있는 수학적 이야기도 포함
 
 # Python
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)
@@ -414,3 +431,6 @@ Hadoop
 * [YARN – THE CAPACITY SCHEDULER](https://ko.hortonworks.com/blog/yarn-capacity-scheduler/)
 * [YARN FairScheduler Preemption Deep Dive](https://blog.cloudera.com/blog/2018/06/yarn-fairscheduler-preemption-deep-dive/) FairScheduler Preemption의 작동 방식에 대한 기술적인 내용과 이를 구성할 때 고려해야 할 모범 사례
 * [Enforcing application lifetime SLAs on YARN](https://ko.hortonworks.com/blog/enforcing-application-lifetime-slas-yarn/) Hadoop 2.9부터 탑재된 기능, YARN의 capacity scheduler로 응용 프로그램의 수명(lifetime)을 제어하는 방법 설명
+* [Open Hybrid Architecture: Running Stateful Containers on YARN](https://ko.hortonworks.com/blog/open-hybrid-architecture-running-stateful-containers-on-yarn/)
+  * CSI(Container Storage Interface)는 YARN이나 Kubernetes와 같은 분산 시스템에서 다양한 저장소 볼륨을 붙이기 위한 표준 API
+  * Apache Hadoop Ozone Object Store 구현과 csi-s3 프로젝트를 통해 YARN(또는 다른 시스템)의 CSI 드라이버로 HDFS를 사용하는 방법을 소개
