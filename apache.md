@@ -202,7 +202,7 @@ Apache
 * [Accelerate Apache Spark SQL Queries](https://ignite.apache.org/use-cases/spark/sql-queries.html)
 * [Performance Tuning of an Apache Kafka/Spark Streaming System](https://mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system/)
 
-# [Imapala](http://impala.io/)
+# [Impala](http://impala.io/)
 * [Apache Impala (Incubating)](http://www.cloudera.com/products/apache-hadoop/impala.html)
 * [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)
 * [The Impala Cookbook](http://www.slideshare.net/cloudera/the-impala-cookbook-42530186)
@@ -227,6 +227,8 @@ Apache
 * [Apache Impala: My Insights and Best Practices](https://medium.com/@adirmashiach/apache-impala-my-insights-and-best-practices-8e0507089935)
 * [How to read Impala query plan and profile Part 1 by Juan Yu](https://www.cloudera.com/developers/featured-video.html)
 * [5 Main Missing Features in Impala (Opinion)](https://medium.com/@adirmashiach/5-main-missing-features-in-impala-imo-1343c767081f)
+* [Assessment of Apache Impala Performance using Cloudera Manager Metrics – Part 1 of 3](https://blog.cloudera.com/blog/2018/12/assessment-of-apache-impala-performance-using-cloudera-manager-metrics-part-1-of-3/?fbclid=IwAR38t9c3b7iXlf6UimLCL3vjBPXSQ_rPC6g0ViAoq-Dpg6jLb5Dbm3TUqWc)
+  * Cloudera Manger의 차트와 메트릭 기능을 사용하여 Impala 성능 이슈를 해결하는 방법
 
 # [Jena](http://jena.apache.org)
 
