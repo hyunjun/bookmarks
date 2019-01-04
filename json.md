@@ -39,9 +39,11 @@ Json
 * [Understanding OpenStack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
 * [Spring boot환경에서 JWT 사용하기](http://alwayspr.tistory.com/8)
 * [Build a Rest API for Node & Mysql 2018 JWT](https://codeburst.io/build-a-rest-api-for-node-mysql-2018-jwt-6957bcfc7ac9)
-* [Flask-JWT-login](https://github.com/devArtoria/Flask-JWT-login/)
 * [Understanding JSON Web Token Authentication](https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15)
 * [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
+* [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
+* [Django REST framework JWT Auth](https://getblimp.github.io/django-rest-framework-jwt/)
+* [Flask-JWT-login](https://github.com/devArtoria/Flask-JWT-login/)
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
