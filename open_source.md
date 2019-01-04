@@ -101,6 +101,7 @@ Open Source
 * [페이스북, 웹버전 아톰 에디터 오픈소스로 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161230093449)
 * [State-of-the-art AI research projects and tools for the community](https://facebook.ai/developers/tools)
 * [5 ways Facebook improved compression at scale with Zstandard](https://code.fb.com/core-data/zstandard/)
+  * ORC 파일이나 데이터베이스 저장과 같은 사용 사례
 
 # [fossasia](https://fossasia.org/)
 
