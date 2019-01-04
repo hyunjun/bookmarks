@@ -20,6 +20,7 @@ Apache
 * [Advanced Data Engineering Patterns with Apache Airflow](https://prezi.com/p/adxlaplcwzho/advanced-data-engineering-patterns-with-apache-airflow/) AirBnB 데이터 엔지니어링팀의 A/B test, AutoDAG, Engagement & Growth metrics, Scaling 등을 구현하는 Apache Airflow 구축 방법 소개
 * [How to start automating your data pipelines with Airflow](https://blog.insightdatascience.com/airflow-101-start-automating-your-batch-workflows-with-ease-8e7d35387f94)
 * [Building a Big Data Pipeline With Airflow, Spark and Zeppelin](https://medium.com/swlh/building-a-big-data-pipeline-with-airflow-spark-and-zeppelin-843f31ef220c)
+* [Airflow: Lesser Known Tips, Tricks, and Best Practises](https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -394,6 +395,7 @@ Apache
 * [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
 * [Kafka의 디스크가 모자랄 때](https://andromedarabbit.net/kafka%EC%9D%98-%EB%94%94%EC%8A%A4%ED%81%AC%EA%B0%80-%EB%AA%A8%EC%9E%90%EB%9E%84-%EB%95%8C/)
+* [New Features of Kafka 2.1](https://medium.com/@stephane.maarek/new-features-of-kafka-2-1-33fb5396b546)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -434,6 +436,9 @@ Apache
       * 알림은 Slack, 시각화 도구는 ES
   * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
   * [ATM Fraud Detection with Apache Kafka and KSQL](https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql)
+  * [Real-Time Sysmon Processing via KSQL and HELK — Part 1: Initial Integration](https://posts.specterops.io/real-time-sysmon-processing-via-ksql-and-helk-part-1-initial-integration-88c2b6eac839)
+    * HELK; 보안 이벤트 로그를 분석하기 위해 표준 ELK를 확장한 스택
+    * 이 글에서는 KSQL을 통해 추가 분석을 하는 방법을 설명
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
