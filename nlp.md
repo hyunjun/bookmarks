@@ -250,6 +250,7 @@ NLP
 * **[Fast Word Segmentation of Noisy Text](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)**
 * [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
 * [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
+* [NLP 2018 highlights](https://docs.google.com/presentation/d/1dSP3j_nFIW3_pwlRLI-znj9pbS2sCCdRjKk49tUh3pE/mobilepresent?slide=id.p)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1272,3 +1273,4 @@ NLP
 * [Word2Vec 강의 정리](http://mobicon.tistory.com/560)
 * [Word2Vec — a baby step in Deep Learning but a giant leap towards Natural Language Processing](https://medium.com/explore-artificial-intelligence/word2vec-a-baby-step-in-deep-learning-but-a-giant-leap-towards-natural-language-processing-40fe4e8602ba)
 * [Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
+* [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)
