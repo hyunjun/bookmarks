@@ -446,6 +446,7 @@ TensorFlow
   * [Author Pytorch code](https://github.com/NVIDIA/partialconv)
 * [Let AI design your holiday cards!](https://stories.thinkingmachin.es/ai-art-holiday-cards/)
 * [An Introduction to TensorFlow and implementing a simple Linear Regression Model](https://medium.com/datadriveninvestor/an-introduction-to-tensorflow-and-implementing-a-simple-linear-regression-model-d900dd2e9963)
+* [MNIST on TPU (Tensor Processing Unit) or GPU using tf.Keras and tf.data.Dataset](https://colab.research.google.com/github/GoogleCloudPlatform/training-data-analyst/blob/master/courses/fast-and-lean-data-science/01_MNIST_TPU_Keras.ipynb) colab
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
