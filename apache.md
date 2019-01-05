@@ -114,6 +114,8 @@ Apache
 * [How Druid enables analytics at Airbnb](https://medium.com/airbnb-engineering/druid-airbnb-data-platform-601c312f2a4c)
   * Airbnb에서 분석을 위해 Druid를 사용한 경험담 소개
   * Druid를 통해 다른 빅데이터 시스템 보완 방법, Spark Streaming으로 데이터 수집 방법, Presto 통합 방법, 모니터링 그리고 문제점 및 향후 개선 사항 설명
+* [metatron.app](https://metatron.app/) Self-service Solution for Big Data Discovery. All-in-one analytics from easy data preparation to fast visualization
+  * [github.com/metatron-app](https://github.com/metatron-app)
 
 # Eagle
 * [Apache Eagle](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces1)
