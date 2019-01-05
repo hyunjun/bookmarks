@@ -340,6 +340,7 @@ History
 * [이스라엘 국방부, 이스라엘인 탑승 버스에 팔레스타인 동승 금지시키다](http://www.huffingtonpost.kr/2015/05/20/story_n_7340158.html)
 * [이스라엘 불매 운동은 반유대주의인가?](http://newspeppermint.com/2015/05/20/israel-boycott-anti-semitism/)
 * [이스라엘판 괴벨스, 단어의 마술로 미디어를 속여라](http://newspeppermint.com/2014/07/27/israel/)
+* [American Jews and Israeli Jews Are Headed for a Messy Breakup](https://www.nytimes.com/2019/01/04/opinion/sunday/israeli-jews-american-jews-divide.html)
 * Vox
   * [이스라엘 – 팔레스타인 분쟁 (1)](http://newspeppermint.com/2014/07/14/israel_palestine-1/)
   * [이스라엘 – 팔레스타인 분쟁 (2)](http://newspeppermint.com/2014/07/15/israel_palestine-2/)
