@@ -242,6 +242,7 @@ Web
 * [최고의 CSS 중앙정렬 기법](http://webdesign.tutsplus.com/ko/tutorials/the-holy-grail-of-css-centering--cms-22114)
 * [크리에이티브 코딩캠프 - 빔캠프 veamcamp.com](https://www.youtube.com/channel/UCvx57s_ZBt5VG4fvlStiq2g)
 * [The ultimate CSS battle: Grid vs Flexbox](https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf)
+* [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176)
 
 # Frontend
 * [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
