@@ -78,6 +78,7 @@ Julia
 * [Using LaTeX to enter greek letters](https://asciinema.org/a/198175)
 * [Julia on Google Colab: Free GPU-Accelerated Shareable Notebooks](https://discourse.julialang.org/t/julia-on-google-colab-free-gpu-accelerated-shareable-notebooks/15319)
   * [julia_colab.ipynb](https://github.com/hyunjun/practice/blob/master/julia/julia_colab.ipynb)
+* [keno.github.io/julia-wasm/website/repl.htm](https://keno.github.io/julia-wasm/website/repl.htm)
 
 # API
 * Pkg.add
