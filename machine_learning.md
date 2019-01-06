@@ -661,6 +661,7 @@ Machine Learning
 * [TITANIC: MACHINE LEARNING FROM DISASTER (THE KAGGLE CHALLENGE)](http://ai-venture.com/titanic-machine-learning-from-disaster-the-kaggle-challange)
   * [Titanic - The most famous competition over the kaggle](https://github.com/AIVenture0/Titanic-)
   * [Titanic machine learning from disaster solution: (The Kaggle Challange)](https://www.youtube.com/watch?v=FM4srNwwXtE)
+* [타이타닉 튜토리얼 - Exploratory data analysis, visualization, and machine learning](https://colab.research.google.com/drive/1cqv5yD9uLHHrVFL-TGM9NPSD1ZyF4AC1) ipynb
 * [Start Here: A Gentle Introduction](https://www.kaggle.com/willkoehrsen/start-here-a-gentle-introduction)
 * [A Complete Introduction and Walkthrough](https://www.kaggle.com/willkoehrsen/a-complete-introduction-and-walkthrough)
 * [Work like a Pro with Pipelines and Feature Unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)
