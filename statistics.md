@@ -161,6 +161,7 @@ Statistics
 * [Fair and Balanced? Thoughts on Bias in Probabilistic Modeling](https://medium.com/@cody.marie.wild/fair-and-balanced-thoughts-on-bias-in-probabilistic-modeling-2ffdbd8a880f)
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 * [Bias-Variance Tradeoff](https://jkeun.github.io/2018-05-03/bias-variance-tradeoff/)
+* [4. Variance Bias Trade Off(분산-편향의 관계)](https://doublekpark.blogspot.com/2019/01/4-variance-bias-trade-off.html)
 * [Predicting NYC Real Estate Prices with Probabilistic Programming](http://blog.fastforwardlabs.com/2017/03/15/predicting-nyc-real-estate-prices-with-probabilistic-programming.html)
 * [Degrees of Freedom](https://jkeun.github.io/2017-07-24/degrees-of-freedom)
 * [Statistics 110 : Probability](https://www.edwith.org/harvardprobability/joinLectures/17924)
