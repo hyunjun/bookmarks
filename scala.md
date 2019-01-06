@@ -533,7 +533,9 @@ Scala
 * [스칼라 어플리케이션은 어떻게 빌드&디플로이 할까?](http://hamait.tistory.com/892)
 * [Code Quality를 높여주는 SBT 플러그인 (2018-04-20)](https://www.youtube.com/watch?v=81HqWUjU4ns)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
-
+* [kevin sbt 플러그인](https://github.com/Kevin-Lee/sbt-devoops)
+  * [2018년 마지막 방송 (2018-12-21) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=BITP-Pr7OXQ)
+  
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
