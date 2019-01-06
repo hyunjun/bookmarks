@@ -1651,6 +1651,7 @@ Javascript
   * [상태 관리 라이브러리의 미학: Redux 또는 MobX 를 통한 상태 관리](https://velog.io/@velopert/redux-or-mobx)
     * [리덕스 예시코드](https://codesandbox.io/s/96m70mj6p)
     * [MobX 예시코드](https://codesandbox.io/s/yv4w13q2q9)
+  * [React에서 Mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * Next.js
