@@ -2022,6 +2022,7 @@ CVPR2016)
   * tensorflow, pytorch 둘 다 공개
 * [강화학습 이론 및 실습](https://speakerdeck.com/wonseokjung/reinforcement-learning-a2711ce7-83db-4c31-8ea3-ad5db0e1a9a9)
 * [The Fantasy Football AI framework](https://github.com/njustesen/ffai) based on Open AI Gym
+* [TMTrackNN — generating TrackMania tracks with neural networks](https://medium.com/@donadigo/tmtracknn-generating-trackmania-tracks-with-neural-networks-146db058e7cb)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
