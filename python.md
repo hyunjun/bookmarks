@@ -1445,6 +1445,7 @@ Python
 * [Python Flask에서 페이지 Redirect 이동하는 방법](https://webisfree.com/2017-08-06/python-flask%EC%97%90%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-redirect-%EC%9D%B4%EB%8F%99%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [Flask: redirect vs redirect(url_for)](https://teamtreehouse.com/community/flask-redirect-vs-redirecturlfor)
 * [Creating a Weather App in Flask Using Python Requests](https://www.youtube.com/watch?v=lWA0GgUN8kg)
+* [Stub API Maker Served by Flask - It makes stub API based on under static folder structure and a setting file](https://github.com/UrangUrang/stub-generator-by-flask)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
