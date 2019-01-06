@@ -150,7 +150,9 @@ Functional Programming
 * [reduce에 Promise 더하기](https://medium.com/@jooyunghan/js-reduce%EC%97%90-promise-%EB%8D%94%ED%95%98%EA%B8%B0-e011153953ca)
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 * [(Functional) OOP With Message Passing](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)
-
+* [NAVER 테크톡 - 함수형 자바스크립트와 동시성 프로그래밍](https://www.youtube.com/watch?v=fWRMM6AaMMc)
+  * [github.com/indongyoo/NAVER-Teck-Talk](https://github.com/indongyoo/NAVER-Teck-Talk)
+  
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
 * [람다 표현식의 장점](http://qwefgh90.github.io/java/Lambda-Expression/)
