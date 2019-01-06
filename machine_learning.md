@@ -686,6 +686,7 @@ Machine Learning
 * [k-means++ Silhouettes](http://www.drbunsen.org/kmeans-pp-silhouettes/)
 * [Density-Based Clustering](http://blog.dominodatalab.com/topology-and-density-based-clustering/)
 * [Machine Learning 스터디 (13) Clustering (K-means, Gaussian Mixture Model)](http://sanghyukchun.github.io/69/)
+* [K-means 알고리즘 구현하기](https://junpyopark.github.io/K_means/)
 
 # Library
 * [머신러닝과 예측 알고리즘에 '안성맞춤' 데이터 과학 툴 10선](http://www.ciokorea.com/news/37977)
@@ -879,6 +880,7 @@ Machine Learning
 * [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
 * [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
+* [PyCM - Multi-class confusion matrix library in Python http://pycm.ir ](https://github.com/sepandhaghighi/PYCM)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
 * scikit
   * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
