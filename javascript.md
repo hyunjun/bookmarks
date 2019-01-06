@@ -1541,6 +1541,7 @@ Javascript
 * [syntax.fm/show/092/react-hooks](https://syntax.fm/show/092/react-hooks) podcast
 * [An Introduction to Hooks in React](https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react)
 * [React 16.7 Hooks](https://slides.com/hyungjunkim-1/cosmee)
+* [Why React Hooks](http://dev-momo.tistory.com/entry/React-Hooks)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
