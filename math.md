@@ -207,6 +207,7 @@ Math
     * 학습을 위한 많은 샘플 크기의 텍스트가 주어지면 알려지지 않은 텍스트의 저자를 추측 할 수 있는 authorship detector를 구현
 * [HMM (Hidden Markov Model)](http://shineware.tistory.com/entry/HMM-Hidden-Markov-Model)
 * [HMM.ipynb](https://github.com/maestrojeong/Machine_learning/blob/master/HMM.ipynb)
+* [초보 데이터 사이언티스트의 프로젝트 도전기](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
 * [How to Build a Market Simulator Using Markov Chains and Python Model customer behavior, visualize A/B test results, predict user metrics…all using a simple Markovian framework!](https://towardsdatascience.com/how-to-build-a-market-simulator-using-markov-chains-and-python-7923256f8d29)
 
 # Monte Carlo

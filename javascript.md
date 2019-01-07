@@ -626,6 +626,7 @@ Javascript
 * [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
 * [이제 대세는 리덕스 갈아치우기? Bye Bye Redux? Feat. MobX, GraphQL and Apollo!](https://www.youtube.com/watch?v=dRbW-__i_4U)
 * [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2)
+* [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729)
 * [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 * [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
