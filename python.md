@@ -681,6 +681,8 @@ Python
   * [logging 관련 몇몇 정리](http://jusths.tistory.com/16)
   * [logging - propagation](http://jusths.tistory.com/17)
   * [Python's Built-In 'logging' Module](https://www.youtube.com/watch?v=4t67SNWoPxk)
+  * [pycon kr 2018.12 파이썬 로깅, 끝까지 파보면서 내가 배운 것 - 황현태](https://www.youtube.com/watch?v=lS2gwDe46_0)
+    * [파이썬 로깅, 끝까지 파보면서 내가 배운 것](https://www.slideshare.net/ssuserf482d4/ss-126936692)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
@@ -1187,6 +1189,8 @@ Python
   * [장고걸스 2016 튜토리얼, Azure WebApp 배포](https://www.youtube.com/watch?v=EJgaZEXnMhk)
   * [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A)
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
+* [pycon kr 2018.12 Django Channels 삽질기 - 방신우](https://www.youtube.com/watch?v=DYTx2F6uCW0)
+  * **[Django Channels 삽질기](https://docs.google.com/presentation/d/1vFUCLQOohy-l51CObXexOX0Q7WO_zAhXMMXwI_SVOAU/edit#slide=id.g4bdb8c9df7_1_203)**
 * [Add2paper printing system using Django-channels](https://www.slideshare.net/sinwoobang/add2paper-printing-system-using-djangochannels/sinwoobang/add2paper-printing-system-using-djangochannels)
 * [(엑셀만큼 쉬운) Django Annotation/Aggregation](http://raccoonyy.github.io/django-annotate-and-aggregate-like-as-excel/)
 * [Djangogo!!! Building a Blog Application 총정리](http://djangogo.tistory.com/entry/Djangogo-Building-a-Blog-Application-%EC%B4%9D%EC%A0%95%EB%A6%AC)
@@ -1446,6 +1450,8 @@ Python
 * [Flask: redirect vs redirect(url_for)](https://teamtreehouse.com/community/flask-redirect-vs-redirecturlfor)
 * [Creating a Weather App in Flask Using Python Requests](https://www.youtube.com/watch?v=lWA0GgUN8kg)
 * [Stub API Maker Served by Flask - It makes stub API based on under static folder structure and a setting file](https://github.com/UrangUrang/stub-generator-by-flask)
+* [pycon kr 2018.12 파이썬 웹 배포 삽질!! 이제 그만 - 이새로찬](https://www.youtube.com/watch?v=ecJzM64mN70)
+  * **[파이썬 웹 배포 삽질!! 이제 그만](https://drive.google.com/file/d/0B6LVjPeYlSkVUzBLLVJrODVLMWEzdHpjT0w0SzVYNXJ4dFFn/view)** gunicorn, nginx
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
