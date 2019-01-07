@@ -1919,6 +1919,8 @@ Python
     * [Asynchronous Optimization Algorithms with Dask - Computations that evolve on partial results](http://matthewrocklin.com/blog/work/2017/04/19/dask-glm-2)
   * [How to Run Parallel Data Analysis in Python using Dask Dataframes](https://towardsdatascience.com/trying-out-dask-dataframes-in-python-for-fast-data-analysis-in-parallel-aa960c18a915)
   * [Dask Version 1.0](https://blog.dask.org/2018/11/29/version-1.0)
+  * [Scaling PyData with Dask - Martin Durant and Jim Crist](https://www.youtube.com/watch?v=6ixaCnR9ur0)
+    * [Dask Tutorial at PyData 2018](https://github.com/mrocklin/pydata-nyc-2018-tutorial)
 * **[Dedupe](https://dedupe.readthedocs.io)** de-duplication and entity resolution quickly on structured data
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
