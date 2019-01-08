@@ -201,6 +201,7 @@ Scala
 * **[practice - scala streams](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)**
 * [Python vs. Scala: a comparison of the basic commands](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
 * [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
+* [Essential Scala: Six Core Principles for Learning Scala](https://www.youtube.com/watch?v=J8wUy1XxL5o)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -423,8 +424,9 @@ Scala
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
   * [LambdaConf 2015 - Cats — A Fresh Look at Functional Programming in Scala Mike Stew O'Connor](https://www.youtube.com/watch?v=hIwdaP3-U6I)
-  * [cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
+  * [herding cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
   * [Meow! Start using Cats in your project right now](https://virtuslab.com/blog/cats-library/)
+  * [Scala with Cats Book](https://underscore.io/books/scala-with-cats/)
 * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -458,6 +460,7 @@ Scala
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
+* [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
   * [마이크로 벤치마킹 툴 - scala meter 예제](http://knight76.tistory.com/entry/scala-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%ED%88%B4-scala-meter-%EC%98%88%EC%A0%9C)
@@ -546,8 +549,10 @@ Scala
 * [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
+* [Hands-on Scala.js - Writing client-side web applications in Scala](http://www.lihaoyi.com/hands-on-scala-js/)
 
 # Type
+* [typelevel.org/blog](https://typelevel.org/blog/)
 * [typeclassopedia.bitbucket.org - typeclass 사용](http://typeclassopedia.bitbucket.org/)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)

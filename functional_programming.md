@@ -152,6 +152,7 @@ Functional Programming
 * [(Functional) OOP With Message Passing](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)
 * [NAVER 테크톡 - 함수형 자바스크립트와 동시성 프로그래밍](https://www.youtube.com/watch?v=fWRMM6AaMMc)
   * [github.com/indongyoo/NAVER-Teck-Talk](https://github.com/indongyoo/NAVER-Teck-Talk)
+* [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
   
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
