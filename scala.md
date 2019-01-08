@@ -41,7 +41,6 @@ Scala
 * [Parallel programming](https://www.coursera.org/learn/parprog1)
   * [Personal repo for "Parallel Programming" course on coursera](https://github.com/hugcruz/parprog1)
 * [Coursera's & EPFL's Scala Spark Big Data course](https://github.com/TomLous/coursera-scala-spark-big-data)
-* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Learn Scala with the Koans](http://www.scalakoans.org/)
 * [5 Best Ways To Introduce Yourself To Scala in 2015](http://ilya40umov.com/2015/01/09/5-best-ways-to-introduce-yourself-to-scala-in-2015/)
 * [A 10-Minute Introduction to Scala](https://hackernoon.com/a-10-minute-introduction-to-scala-d1fed19eb74c)
@@ -402,10 +401,13 @@ Scala
   * [변수를 사용하기 위한 underscore](http://knight76.tistory.com/entry/scala-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B3%80%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-underscore)
 
 # Book
-* [underscore.io ebook](http://underscore.io/books/)
 * [스칼라 시작하기](http://hamait.tistory.com/904)
-* [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
+* [Creative Scala](https://www.creativescala.org/)
+* [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
+* [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [underscore.io ebook](http://underscore.io/books/)
+  * [Essential Scala Book](https://underscore.io/books/essential-scala/)
 
 # IntelliJ
 * [Scala로 만들어본 이름점](http://jsideas.net/scala/2016/10/27/name_chemistry.html)
