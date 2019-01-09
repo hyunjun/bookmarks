@@ -457,6 +457,7 @@ Javascript
 * Angular Architecture
   * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
   * [애플리케이션 구조 설계 - 2](http://mobicon.tistory.com/566)
+  * [애플리케이션 구조 설계 - 3](http://mobicon.tistory.com/567)
 
 # Book
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
