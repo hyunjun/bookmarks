@@ -2070,6 +2070,7 @@ Python
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
   * [numba - 성능 업!](http://pythonkim.tistory.com/95)
   * [Numba - Numpy Aware Dynamic Python Compiler Using LLVM](https://www.techleer.com/articles/539-numba-numpy-aware-dynamic-python-compiler-using-llvm/)
+* [Nuitka - the extremely compatible Python compiler](http://nuitka.net/)
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
