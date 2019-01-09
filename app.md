@@ -165,6 +165,7 @@ App
     * [(2) - 다른 계정으로 인한 Git push 오류 Git push 오류로 인한 고군분투기](https://seanlion.github.io/blog/2)
     * [(3) - 블로그에 유튜브 동영상 삽입하기 Github 블로그에 마크다운 문법으로 유튜브 영상 삽입하는 법](https://seanlion.github.io/blog/4)
     * [(4) - 블로그 2.0 개편](https://seanlion.github.io/blog/18)
+  * [jekyll-polyglot 다국어 플러그인 - jekyll에서 다국어를 대응하기 위해 사용하는 플러그인을 소개합니다. 다국어 플러그인 jekyll-polyglot의 설치와 설정에 대해서 알아봅니다](https://dev-yakuza.github.io/ko/jekyll/multi-languages-plugin/)
   * [jekyll-theme-collider](https://github.com/ryancolorcafe/jekyll-theme-collider)
   * [Create your own Jekyll theme gem](https://ryandevelops.com/collection/2018-10-07-create-your-own-jekyll-theme-gem)
     * [번역 - 나만의 지킬 테마 만들기](https://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko)

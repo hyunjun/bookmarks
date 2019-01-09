@@ -1012,6 +1012,7 @@ Deep Learning
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
 * [어떤 Deep Learning Library를 선택해야하나요?](http://tmmse.xyz/choosing-deep-learning-libraries/)
+* [유용한 딥러닝/머신러닝 프로젝트들](https://tykimos.github.io/2019/01/06/2018_ML_projects/)
 * [15 Deep Learning Libraries](http://www.datasciencecentral.com/profiles/blogs/here-are-15-libraries-in-various-languages-to-help-implement-your)
 * [15 Deep Learning Tutorials](http://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials)
 * [50 Deep Learning Software Tools and Platforms, Updated](http://www.kdnuggets.com/2015/12/deep-learning-tools.html)
