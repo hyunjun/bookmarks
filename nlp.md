@@ -251,6 +251,7 @@ NLP
 * [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
 * [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 * [NLP 2018 highlights](https://docs.google.com/presentation/d/1dSP3j_nFIW3_pwlRLI-znj9pbS2sCCdRjKk49tUh3pE/mobilepresent?slide=id.p)
+* [딥러닝 자연어처리 - RNN에서 BERT까지](https://www.slideshare.net/deepseaswjh/rnn-bert)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
