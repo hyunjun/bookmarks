@@ -316,7 +316,6 @@ Java
 * [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 * [클린 코드를 위한 TDD (Test-Driven Development for Clean Code)](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
-
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
@@ -508,6 +507,9 @@ Java
   * [JPA에서 대량의 데이터를 삭제할때 주의해야할 점](http://jojoldu.tistory.com/235)
   * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
   * [우아한형제들 JPA 강의 소감과 적용 사례](http://woowabros.github.io/woowabros/2018/12/29/woowahan-jpa1.html)
+  * Legacy DB의 JPA Entity Mapping
+    * [복합키 매핑 편](http://woowabros.github.io/experience/2019/01/04/composit-key-jpa.html)
+    * [Enum Converter 편](http://woowabros.github.io/experience/2019/01/09/enum-converter.html)
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
   * [Config Server에 관하여 알아봅시다](http://blog.leekyoungil.com/?p=352)
@@ -539,6 +541,7 @@ Java
     * [#2. 빌드](http://blog.woniper.net/365)
     * [#3. Spring-MVC의 시작](http://blog.woniper.net/366)
     * [#4. AbstractContextLoaderInitializer](http://blog.woniper.net/367)
+    * [#5. AbstractDispatcherServletInitializer와 AbstractAnnotationConfigDispatcherServletInitialize](http://blog.woniper.net/368)
   * [Spring Cloud Series - Microservices Sidecar pattern implementation using Postgres, Spring Cloud Netflix and Docker](http://tech.asimio.net/2018/02/20/Microservices-Sidecar-pattern-implementation-using-Postgres-Spring-Cloud-Netflix-and-Docker.html)
   * 스프링 리액터 시작하기
     * [1 - 리액티브 스트림 Flux Mono Subscriber](http://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber)
@@ -616,6 +619,7 @@ Java
   * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
   * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
   * [Spring Boot Data Jpa 프로젝트에 Querydsl 적용하기](https://jojoldu.tistory.com/372)
+  * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)

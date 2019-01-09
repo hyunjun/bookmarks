@@ -351,6 +351,7 @@ AWS
 * [AWS 람다 커스텀 런타임 만들기(feat. 루비 2.6.0)](https://www.44bits.io/ko/post/how-to-create-aws-lambda-custom-runtime-feat-ruby-2-6-0)
 * [re:Invent 2018 - ALB 타깃그룹의 새로운 타입으로 AWS 람다 추가](https://www.44bits.io/ko/post/aws-alb-target-group-aws-lambda-target-type-released)
 * [re:Invent 2018 - AWS 람다, 함수 간 공유 가능한 레이어 기능 지원](https://www.44bits.io/ko/post/news--reinvent-2018-aws-lambda-layer)
+* [AWS 람다 레이어 공유하기 - AWS 람다 함수의 공통 부분을 다른 계정이나 조직과 공유하는 방법](https://www.44bits.io/ko/post/sharing-aws-lambda-layer)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
 
 # Library

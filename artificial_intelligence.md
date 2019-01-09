@@ -70,8 +70,11 @@ Artificial Intelligence
 * [Google I/O 2017 참관기 - 머신 러닝과 AI](http://d2.naver.com/helloworld/6908639)
 * [인공 지능(AI) 시대의 현실적 조언](http://channy.creation.net/blog/1145)
 * [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
-* [NAVER Tech Talk: AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
-* [NAVER Tech Talk: AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
+* NAVER Tech Talk
+  * [AI (2017년 5월~7월)](http://d2.naver.com/news/9620309)
+  * [AI 2차 (2017년 5월~12월)](http://d2.naver.com/news/5165569)
+  * [AI 3차 (~ 2018.1.) - 비전, 자연어 처리, 음악, 의료, 금융, 데이터](https://d2.naver.com/news/8228115)
+  * [AI 4차 (2018년 2월~6월)](https://d2.naver.com/news/6008687)
 * [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
 * [AI Blocks - A powerfull and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!](https://github.com/MrNothing/AI-Blocks)
 * [Artificial Intelligence, AI in 2018 and beyond](https://towardsdatascience.com/artificial-intelligence-ai-in-2018-and-beyond-e06f05167f9c)

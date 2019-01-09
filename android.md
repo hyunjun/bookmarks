@@ -56,6 +56,7 @@ Android
 * [Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
 * **[Android 에서 MVVM 으로 긴 여정을…](https://medium.com/@jsuch2362/android-%EC%97%90%EC%84%9C-mvvm-%EC%9C%BC%EB%A1%9C-%EA%B8%B4-%EC%97%AC%EC%A0%95%EC%9D%84-82494151f312)**
 * [Android MVVM : Lifecycle 감지하기](https://medium.com/@jsuch2362/android-mvvm-lifecycle-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0-204c4309436)
+* [AAC를 활용한 MVVM 패턴](https://medium.com/@joongwon/android-aac%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-mvvm-%ED%8C%A8%ED%84%B4-e24a685fc25d)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 * Mastering the World of Android Testing
   * [Part 1](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
@@ -66,7 +67,6 @@ Android
 * [How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
 * [Google I/O 2018: Android의 새로운 기능](https://developers-kr.googleblog.com/2018/05/google-io-2018-whats-new-in-android.html)
 * [Google I/O 2018 for Android 소스를 공개합니다](https://developers-kr.googleblog.com/2018/09/google-releases-source-for-google-io.html)
-* [Firebase Dynamic Link로 사용자 유입시키기](http://gun0912.tistory.com/78)
 * [TaskKiller에 죽지 않는 서비스(Service) 만들기 2](http://ccdev.tistory.com/22)
 * [가상화폐 관련 앱을 개발하다](https://medium.com/@joongwon/%EA%B0%80%EC%83%81%ED%99%94%ED%8F%90-%EA%B1%B0%EB%9E%98%EC%86%8C-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8B%A4-e0f80dadc2c9)
 * [NAVER Tech Talk: 안드로이드 개발 밋업 (2018년 5월~8월)](https://d2.naver.com/news/4483716)

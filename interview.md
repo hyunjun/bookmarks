@@ -63,6 +63,10 @@ Interview
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
   * [Programming Interview Questions](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=5&view=50&sort=dd)
 * [10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
+* [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
+* **[알고리즘 학습에 대한 조언](http://blog.weirdx.io/post/55358)** 매우 좋은 글
+* [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
+  * [인터뷰 준비(중) - 데이터 구조 / 알고리즘 리뷰](https://brunch.co.kr/@junyong/5)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
@@ -73,8 +77,6 @@ Interview
 * **[16. 과장도 팀장도 아닌 엔지니어입니다](https://brunch.co.kr/@svillustrated/17)**
 * [실리콘밸리 면접 정복하기](http://ppss.kr/archives/67438)
 * [실리콘밸리 면접 정복하기](http://www.andrewahn.co/silicon-valley/job-interview-tips/)
-* [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
-  * [인터뷰 준비(중) - 데이터 구조 / 알고리즘 리뷰](https://brunch.co.kr/@junyong/5)
 * [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰](http://www.looah.com/article/view/2070)
 * [코딩 인터뷰 정복하기](https://www.youtube.com/playlist?list=PLVNY1HnUlO25sSWDr7CzVvkOF3bUgkiQQ)
   * [Get Ready for Coding Interview](https://www.youtube.com/playlist?list=PLVNY1HnUlO24PIx4k45VnEySkygjxGQwB)
@@ -86,7 +88,6 @@ Interview
 * [코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 * [어떻게 질문하는가?](https://brunch.co.kr/@imagineer/292)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
-* [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
 * **[Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)**
 * [좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)

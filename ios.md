@@ -60,7 +60,6 @@ iOS
 * [reset --hard 금지! 대규모 리팩토링 전략을 소개합니다](https://news.realm.io/kr/news/dont-reset-hard-strategies-for-tackling-large-refactors-aguayo-droidcon-boston-2017)
 * [강의 youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/playlists](https://www.youtube.com/channel/UCrdcxz4V5BMzPetWWxCXDfA/playlists)
 * [리액티브 앱: 모바일 경험을 극대화하는 방법](https://academy.realm.io/kr/posts/reactive-apps-how-to-build-more-engaging-mobile-experiences/)
-* [IOS와 Android 채팅앱을 Firebase로 만들기](https://www.youtube.com/watch?v=UewAPtg8Gk8)
 * [iOS 오픈소스 제작후기](https://brunch.co.kr/@tilltue/40)
 * [하울의 코딩 채널](https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug)
 * [iOS HIG 스터디 자료](https://medium.com/@codesquad_yoda/ios-hig-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%9E%90%EB%A3%8C-590e039eece2)
@@ -74,6 +73,7 @@ iOS
 * [Photo SlideShow](https://steemit.com/ios/@jhis21c/ios-photo-slideshow-app)
 * [Charlse Proxy iOS의 프록시 자동 옵션으로 연결하기](http://ohgyun.com/763)
 * [5 Tools To Speed Up Your App Development](https://medium.com/swlh/5-tools-to-speed-up-your-app-development-6979d0e49e34)
+* [NAVER Tech Talk: iOS 밋업(2018년 8월~10월)](https://d2.naver.com/news/7036256)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
