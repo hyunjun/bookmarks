@@ -372,6 +372,7 @@ R
   * [NoSQL 데이터베이스를 다루는 nodbi](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-nosql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-nodbi/)
 * [pbapply - Adding progress bar to '\*apply' functions in R](https://github.com/psolymos/pbapply)
 * [pqR - a pretty quick version of R](http://www.pqr-project.org/)
+* [promotionImpact - 프로모션 효과 분석용 R 패키지](https://danbi-ncsoft.github.io/works/2019/01/08/works-promotionImpact.html)
 * purrr
   * [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
   * [번역 폴더안의 csv 파일들을 {purrr}와 {readr}을 이용해서 한방에 불러오기](https://mrchypark.github.io/post/번역-폴더안의-csv-파일들을-purrr-와-readr-을-이용해서-한방에-불러오기)
