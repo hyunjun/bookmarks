@@ -189,6 +189,7 @@ Python
 * [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
 * [pythonplot.com - Python Plotting for Exploratory Analysis](http://pythonplot.com/)
 * PyCharm
+  * [practice - 별도 설치한 python으로 설정하기](https://gist.github.com/hyunjun/6b3896931108a9f174e8aa9003e506db#file-configuration-md)
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
   * [Mac에서 PyCharm Docker를 원격 연결하기](http://mcchae.egloos.com/11250696)
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
