@@ -263,6 +263,8 @@ AWS
 * [AWS NAT Gateway에서 NAT instance로 전환하기](https://blog.2dal.com/2018/12/31/nat-gateway-to-nat-instance/)
 * [AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362)](https://www.youtube.com/watch?v=HCCkVz25UU4) GitOps
 * [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
+* [아빠 왜 집에서 일해요? (feat. aws)](http://totuworld.github.io/2019/01/09/aws-beanstalk/)
+  * Elastic Beanstalk에서 node.js의 dev와 prod 환경에서 version 차이로 인한 오류 해결 이야기
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
