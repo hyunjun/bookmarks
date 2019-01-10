@@ -151,6 +151,7 @@ Interview
 * [아마존에 개발자로 취업하기까지 #3](https://zaverome.wordpress.com/2016/01/11/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-3/)
 * [아마존 출근기 #1 – 근무 환경](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%EA%B7%BC%EB%AC%B4-%ED%99%98%EA%B2%BD/)
 * [아마존 출근기 #2 – 개발 프로세스](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/)
+* [아마존 3년 출근기 #1 – 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
 * **[한국에서의 아마존 본사 인터뷰 후기 및 팁](http://blog.naver.com/PostView.nhn?blogId=spiffmark&logNo=220567136972)**
 * [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580)
 * [아마존에서 MS로 옮긴 백기선씨 이야기](http://www.popit.kr/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-ms%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%94%A8-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
