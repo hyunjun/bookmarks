@@ -803,8 +803,9 @@ TensorFlow
 * [TensorFlow-Tutorials - Introduction to deep learning based on Google's TensorFlow framework. These tutorials are direct ports of Newmu's Theano Tutorials](https://github.com/nlintz/TensorFlow-Tutorials)
 * [Lecture 7: Introduction to TensorFlow](https://www.youtube.com/watch?v=PicxU81owCs)
 * [CS 20SI: Tensorflow for Deep Learning Research](http://web.stanford.edu/class/cs20si)
-* [CS 20 : Tensorflow for Deep Learning Research](https://github.com/aisolab/CS20) ipynb notebooks
-* [CS20(TensorFlow) Lecture Note (1),(2): Overview & TensorFlow Operation 13 Aug 2018 | tensorflow](https://reniew.github.io/32/)
+  * [CS 20 : Tensorflow for Deep Learning Research](https://github.com/aisolab/CS20) ipynb notebooks
+  * [CS20(TensorFlow) Lecture Note (1),(2): Overview & TensorFlow Operation 13 Aug 2018 | tensorflow](https://reniew.github.io/32/)
+  * [CS 20 : TensorFlow for Deep Learning Research](https://nbviewer.jupyter.org/github/aisolab/CS20/blob/master/Lec05_Variable%20sharing%20and%20managing%20experiments/Lec05_Applied%20example%20with%20tf.data_kde.ipynb) tf 2.0
 * [CS224d: TensorFlow Tutorial Bharath Ramsundar](http://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)
   * [CS224D Lecture 7 - 19th Apr 2016](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
 * [Keras as a simplified interface to TensorFlow: tutorial](http://blog.keras.io/keras-as-a-simplified-interface-to-tensorflow-tutorial.html)
