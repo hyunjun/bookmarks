@@ -547,6 +547,7 @@ Programming
   * [Deep learning VM](http://bcho.tistory.com/1298)
     * [cloud.google.com/deep-learning-vm/docs/concepts-images](https://cloud.google.com/deep-learning-vm/docs/concepts-images)
     * `gcloud compute ssh {VM name} -- -L 8888:localhost:8888 -L 6006:localhost:6006 -L 8080:localhost:8080`
+  * [구글 Cloud SQL 에 이모티콘 들어가게 설정하기](https://jungwoon.github.io/google%20cloud,%20mysql/2019/01/10/Google-Cloud-SQL-Enable-Emojis/)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
