@@ -400,6 +400,8 @@ Apache
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
 * [Kafka의 디스크가 모자랄 때](https://andromedarabbit.net/kafka%EC%9D%98-%EB%94%94%EC%8A%A4%ED%81%AC%EA%B0%80-%EB%AA%A8%EC%9E%90%EB%9E%84-%EB%95%8C/)
 * [New Features of Kafka 2.1](https://medium.com/@stephane.maarek/new-features-of-kafka-2-1-33fb5396b546)
+* [카프카를 활용한 워크 큐](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9B%8C%ED%81%AC-%ED%81%90/)
+  * 기술보다는 뭘 어떤 방향으로 만들지에 대한 이야기
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
