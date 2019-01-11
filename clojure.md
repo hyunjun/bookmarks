@@ -262,6 +262,12 @@ Clojure
   * 시간 값 모델링에 clojure 사용
 * [Functional Programming in the Cloud: Simpler Application Development](https://www.youtube.com/watch?v=mxryzShPH8o) Datomic Cloud
 * [Welcome Clojure 10](http://blog.klipse.tech/clojure/2018/12/18/welcome-clojure-10.html)
+* **[후속문(Continuation) : 제1부. 개념과 call/cc](http://guruma.github.io/posts/2018-11-18-Continuation-Concept/)**
+	* facebook clojure korea group에서 가져온 설명
+	* clojure는 continuation 미제공, 많은 언어에서 이미 continuation을 제공하고 있거나, 또는 제공하는 방향으로 흘러가고 있는 추세(e.g. Java의 Fiber 지원 예정)
+	* 그러므로 continuation을 제대로 이해하고, 경우에 따라서 적절하게 활용할 수 있다면 매우 좋음
+  * continuation은 제어 구조를 개발자가 직접 구현할 수 있게 해 준다는 점에서, run-time 매크로에 비유할 수 있다
+  * 보통의 매크로는 compile-time에 확장되지만, continuation은 run-time에 개발자가 원하는 대로 장차 실행될 코드를 선택/확장할 수 있게 해주는 기능 제공
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
