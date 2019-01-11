@@ -230,6 +230,18 @@ Nomad & Remote
 # Norway
 * [북유럽 노르웨이 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
 
+# Remote
+* [원격 근무 가능한 포지션 구하는 방법](https://www.upfly.me/2017/10/27/remote-digital-nomad-jobs)
+* [한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?](https://milooy.github.io/remote-or-flexible-work-company-in-korea)
+* [angel.co](https://angel.co/)
+* [flexjobs.com](https://www.flexjobs.com)
+* [remote.co](https://remote.co/)
+* [remote.com](https://remote.com)
+* [rocketpunch.com](https://www.rocketpunch.com) 한국
+* [ryrob.com/remote-job](https://www.ryrob.com/remote-job)
+* [talent.hubstaff.com](https://talent.hubstaff.com)
+* [weworkremotely.com](https://weworkremotely.com)
+
 # Singapore
 * [싱가포르에서 직장 구하기](https://www.linkedin.com/pulse/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C-%EC%A7%81%EC%9E%A5-%EA%B5%AC%ED%95%98%EA%B8%B0-getting-job-singapore-ht-kim)
 * [Here's everything you want to know about Singapore's startup scene](http://e27.co/heres-everything-you-want-to-know-about-singapores-startup-scene-20150528/)
