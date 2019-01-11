@@ -265,6 +265,7 @@ AWS
 * [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
 * [아빠 왜 집에서 일해요? (feat. aws)](http://totuworld.github.io/2019/01/09/aws-beanstalk/)
   * Elastic Beanstalk에서 node.js의 dev와 prod 환경에서 version 차이로 인한 오류 해결 이야기
+* [AWS, 몽고DB 호환 아마존 도큐먼트DB 발표](https://www.44bits.io/ko/post/news--aws-announce-mongodb-compatible-documentdb)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
