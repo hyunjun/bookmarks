@@ -293,6 +293,7 @@ Interview
 * [실리콘밸리 구직 체험기 201404(1) - 1. 이민 결정 과정](http://doohee323.blogspot.kr/2014/03/2014041.html)
 * [실리콘밸리 구직 체험기2 201505 - 3. 새로운 위기](http://doohee323.blogspot.kr/2015/07/2201505-3.html)
 * [job search tool for data scientists in NYC](https://jcp1016.shinyapps.io/indeedoor/)
+* [30 Questions To Ask Before Joining A Startup](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
 * [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
 * [angellist](https://angel.co/)
