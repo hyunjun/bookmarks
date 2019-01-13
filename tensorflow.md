@@ -448,6 +448,7 @@ TensorFlow
 * [An Introduction to TensorFlow and implementing a simple Linear Regression Model](https://medium.com/datadriveninvestor/an-introduction-to-tensorflow-and-implementing-a-simple-linear-regression-model-d900dd2e9963)
 * [MNIST on TPU (Tensor Processing Unit) or GPU using tf.Keras and tf.data.Dataset](https://colab.research.google.com/github/GoogleCloudPlatform/training-data-analyst/blob/master/courses/fast-and-lean-data-science/01_MNIST_TPU_Keras.ipynb) colab
 * [TF Jam — Shooting Hoops with Machine Learning](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32)
+* [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
