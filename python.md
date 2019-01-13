@@ -1325,6 +1325,10 @@ Python
 * ~[Ubuntu 환경에서 Django 배포하기](http://jangwon.me/dev/2018/10/08/(개발환경)-Ubuntu-환경에서-Django-배포하기-Django-설정)~
 * [우분투에서 장고(Django) 배포 경험담](https://jwkcp.github.io/2018/06/08/tiny-tips-for-django-deployment/)
 * **[Django를 쓰는 이유, 쓰지 않는 이유](https://blog.lxf.kr/2018-11-19---why-or-not-django)**
+* [django를 관리툴로 쓰자 - 서버를 둘로 나누자](https://libsora.so/posts/use-django-as-admin-tool/)
+* 레거시 시스템에 django로 다가가기
+  * [1편 - Django를 도입하기 까지](https://lenditkr.github.io/django/approach-legacy-with-django-1/)
+  * [2편 - Django inspectdb 튜닝하기](https://lenditkr.github.io/django/approach-legacy-with-django-2/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
