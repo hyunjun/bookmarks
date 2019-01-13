@@ -173,6 +173,7 @@ Data Visualization
 * [Superset - a data exploration platform designed to be visual, intuitive and interactive](http://superset.incubator.apache.org/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
+* [The Next Level of Data Visualization in Python - How to make great-looking, fully-interactive plots with a single line of Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 
 ## Matplotlib
 * examples
