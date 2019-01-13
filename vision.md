@@ -262,6 +262,7 @@ Vision
 * [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/)
 * [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)
 * [fb-vision-bot](https://github.com/jshin49/fb-vision-bot)
+* [FIGR-8 - Few-shot Image Generation with Reptile: the dataset](https://github.com/marcdemers/FIGR-8)
 * [Hand Keypoint Detection in Single Images using Multiview Bootstrapping](http://www.cs.cmu.edu/~tsimon/projects/mvbs.html)
 * [imgaug - Image augmentation for machine learning experiments. http://imgaug.readthedocs.io](https://github.com/aleju/imgaug)
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
