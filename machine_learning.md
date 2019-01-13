@@ -290,6 +290,7 @@ Machine Learning
   * [Machine Learning is Fun Part 5: Language Translation with Deep Learning and the Magic of Sequences](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa)
   * [Machine Learning is Fun Part 6: How to do Speech Recognition with Deep Learning](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a)
 * [Machine Learning Datasets For Data Scientists](http://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/)
+* [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 * [MACHINE-LEARNING ALGORITHM GENERATES VIDEOS FROM STILLS](http://www.popsci.com/this-ai-generates-video-from-stills)
 * [기계학습(Machine Learning) 101](https://www.facebook.com/SKTBrain/photos/pcb.305574049813416/305573403146814)
 * [Lisbon Machine Learning Summer School Highlights](http://sebastianruder.com/lisbon-machine-learning-summer-school-highlights/index.html)
