@@ -102,6 +102,7 @@ Java
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
 * [Java 에러 : could not find java.dll](http://sunyzero.tistory.com/256)
 * [Invest in Your Java Katalogue](https://www.youtube.com/watch?v=GDnMEOaKUMs)
+* [A faster alternative to Java Reflection](https://medium.freecodecamp.org/a-faster-alternative-to-java-reflection-db6b1e48c33e)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
