@@ -158,6 +158,8 @@ Data Visualization
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [k3d](https://github.com/adioshun/gitBook_PCL/blob/master/pcl/k3d.ipynb)
+* Mapbox
+	* [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
   * [How and why I used Plotly (instead of D3) to visualize my Lollapalooza data](https://medium.freecodecamp.org/how-and-why-i-used-plotly-instead-of-d3-to-visualize-my-lollapalooza-data-d48345e2ca68)
   * [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)
@@ -190,6 +192,11 @@ Data Visualization
   * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
   * [Visualization with Seaborn](https://jakevdp.github.io/PythonDataScienceHandbook/04.14-visualization-with-seaborn.html)
   * [Data Visualization in Python: Advanced Functionality in Seaborn](https://blog.insightdatascience.com/data-visualization-in-python-advanced-functionality-in-seaborn-20d217f1a9a6)
+	* Data Visualization with Python and Seaborn
+		* [Part 1](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-1-29c9478a8700)
+		* [Part 2](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-2-82b0877860aa)
+		* [Part 3](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-3-69647c19bf2)
+		* [Part 4](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-4-9b0119887130)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
