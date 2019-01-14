@@ -1457,6 +1457,7 @@ Python
 * [Stub API Maker Served by Flask - It makes stub API based on under static folder structure and a setting file](https://github.com/UrangUrang/stub-generator-by-flask)
 * [pycon kr 2018.12 파이썬 웹 배포 삽질!! 이제 그만 - 이새로찬](https://www.youtube.com/watch?v=ecJzM64mN70)
   * **[파이썬 웹 배포 삽질!! 이제 그만](https://drive.google.com/file/d/0B6LVjPeYlSkVUzBLLVJrODVLMWEzdHpjT0w0SzVYNXJ4dFFn/view)** gunicorn, nginx
+* [Flask-Large-Application-Example](https://github.com/JoMingyu/Flask-Large-Application-Example)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
