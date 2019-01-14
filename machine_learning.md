@@ -408,6 +408,8 @@ Machine Learning
 * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1 - with tensorflow, cntk, keras, horovod, Azure Batch AI](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu.html)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
+  * [Learn Machine Learning from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-machine-learning-from-top-50-articles-for-the-past-year-v-2019-15842d0b82f6)
+	* [Machine Learning Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-dec-2018-37b229f930a1)
   * [Machine Learning Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-nov-2018-ffdf1c5a9be9)
   * [Machine Learning Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-nov-2018-35f1fd88cb49)
   * [Machine Learning Top 10 Articles for the Past Month (v.Aug 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-aug-2018-c83eb92c0151)
@@ -482,6 +484,7 @@ Machine Learning
 * [An Introduction to Causal Inference with Gaussian Processes, Part I](https://mindcodec.com/an-introduction-to-causal-inference-with-gaussian-processes-part-i)
 * [Applied Machine Learning: Part 1](https://medium.com/the-research-nest/applied-machine-learning-part-1-40578469a934)
 * [Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
+* [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
