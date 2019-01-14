@@ -254,6 +254,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [Learn JavaScript from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)
   * [JavaScript Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2018-a950852e96f3)
   * [JavaScript Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-nov-2018-781044d43aed)
   * [JavaScript Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f)
@@ -297,6 +298,7 @@ Javascript
 * [Javascript Image Filter - convolution](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-convolve)
 * [자바스크립트 실행 문맥(Execution Context)의 기본동작](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
 * [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
+* [How to understand the keyword this and context in JavaScript](https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8)
 * [JavaScript Stack from Scratch #0](https://medium.com/@jinro4/%EB%B2%88%EC%97%AD-javascript-stack-from-scratch-0-2bb0898c322)
 * [HTML5 Games Workshop](https://mozdevs.github.io/html5-games-workshop/)
   * [HTML5 게임 워크샵: JavaScript로 오락실 게임을 만들어보세요!](http://hacks.mozilla.or.kr/2017/05/html5-games-workshop-make-a-platformer-game-with-javascript/)
@@ -458,6 +460,7 @@ Javascript
   * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
   * [애플리케이션 구조 설계 - 2](http://mobicon.tistory.com/566)
   * [애플리케이션 구조 설계 - 3](http://mobicon.tistory.com/567)
+* [Version 7 of Angular — CLI Prompts, Virtual Scroll, Drag and Drop and more](https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c)
 
 # Book
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
@@ -567,6 +570,7 @@ Javascript
 * [JavaScript is Becoming Pythonic ECMAScript 2015 and Beyond](https://treyhunner.com/javascript-is-like-python/#/)
 * [ECMAScript 6](https://tech.10000lab.xyz/javascript/ecmascript6.html)
 * [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
+* [JavaScript traits: the clean way to modify global prototypes - With ES6 it’s finally possible to add methods to Object.prototype, Array.prototype and all the others, in a clean way](https://itnext.io/straits-9ef2b9a563cd)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -635,6 +639,7 @@ Javascript
   * [gist](https://gist.github.com/jrryjcksn/6551beeceaba8a066eebc7b893e661da)
 * [GraphQL project structure](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180830_SM_refactoring_graphql_type.md)
 * [A new approach to mocking GraphQL data](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491)
+* [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1567,6 +1572,7 @@ Javascript
 * [github.com/iamchanii/react-exercise](https://github.com/iamchanii/react-exercise)
 * [The Simplest React Stack - Bootstrapping and State Management](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f)
 * [9 React Static Site Generators for 2019](https://blog.bitsrc.io/9-react-static-site-generators-for-2019-f54a66e519d2)
+* [React JS and React Native Handle Exceptions Gracefully In Production](https://hackernoon.com/react-js-and-react-native-handle-exceptions-gracefully-a12a2c3fc1cb)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1835,6 +1841,7 @@ Javascript
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+	* [Vue.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-dec-2018-d0d0b0f7c933)
   * [Vue.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/vue-js-open-source-of-the-month-v-nov-2018-a94d1b4c5171)
   * [Vue.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/vue-js-open-source-of-the-month-v-oct-2018-e8f1ad1b905b)
   * [Vue.js Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-nov-2018-a10b9c3657c)
@@ -1898,5 +1905,6 @@ Javascript
 * [How to add Internationalization to a Vue Application](https://medium.freecodecamp.org/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b)
 * [Vue.js 입문자가 흔히 저지르는 문법 실수 총정리](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
 * [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
+* [Tech Trends Showdown🏆: React vs Angular vs Vue](https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706)
 * [기존 Express 서버에 Vue.js 적용해보기 (feat.EJS)](http://woowabros.github.io/experience/2018/12/27/node-express-vue-with-ejs.html)
 * [Vue 라이프사이클 이해하기 - Vue 인스턴스의 상태가 변화함에 따라, 각 상태가 어떤 특징을 가지고 있는지 알아봅니다](https://wormwlrm.github.io/2018/12/29/Understanding-Vue-Lifecycle-hooks.html)
