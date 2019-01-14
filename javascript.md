@@ -1783,6 +1783,7 @@ Javascript
 * [React-TypeScript 프로덕트에서 인물사진 유효성 검사하기](https://meshkorea.github.io/react-ts-canvas-photo-upload/)
 * [Typescript inheritance deep dive](https://hackernoon.com/typescript-inheritance-deep-dive-9a53989af5a6)
 * [번역 TypeScript at Google](https://hyunseob.github.io/2018/11/27/typescript-at-google/)
+* [react-native 프로젝트에 typescript를 적용하여 개발해 보자](https://dev-yakuza.github.io/ko/react-native/typescript/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
