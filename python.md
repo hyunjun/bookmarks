@@ -509,6 +509,7 @@ Python
   * [Decorators 101: A Gentle Introduction to Functional Programming - Jillian Munson](https://www.youtube.com/watch?v=yW0cK3IxlHc)
   * [클래스에 메서드를 추가하는 decorator](http://blog.woosum.net/archives/1584) monkeypatch와 같이 기존 클래스에 새로운 메소드 추가하는 decorator
   * [decorator를 이용한 함수의 doc string 구하기](http://mcchae.egloos.com/11295614)
+  * [Function Decorators in Python - Add extra functionality to your Python functions](https://medium.com/python-monkey/function-decorators-74c08b9493bf)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -1458,6 +1459,7 @@ Python
 * [pycon kr 2018.12 파이썬 웹 배포 삽질!! 이제 그만 - 이새로찬](https://www.youtube.com/watch?v=ecJzM64mN70)
   * **[파이썬 웹 배포 삽질!! 이제 그만](https://drive.google.com/file/d/0B6LVjPeYlSkVUzBLLVJrODVLMWEzdHpjT0w0SzVYNXJ4dFFn/view)** gunicorn, nginx
 * [Flask-Large-Application-Example](https://github.com/JoMingyu/Flask-Large-Application-Example)
+* [Flask Routing & Sessions: A Subtle Symphony - With great flexibility comes great responsibility](https://hackingandslacking.com/flask-routing-sessions-a-subtle-symphony-f008e7198379)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
@@ -2609,6 +2611,7 @@ Python
 * [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
 * [Python Pandas Tutorial | Pandas For Data Analysis | Python Pandas | Python Tutorial | Simplilearn](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
 * [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
+* [Cleaning and Tidying Data in Pandas || Daniel Chen](https://www.youtube.com/watch?v=MbgdYZE1e8I)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
