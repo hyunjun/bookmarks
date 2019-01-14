@@ -368,6 +368,7 @@ Web
 * [Progressive Web Apps — The Future of Mobile Web App Development](https://hackernoon.com/progressive-web-apps-the-future-of-mobile-web-app-development-f29257b0dea2)
 * [11 Examples of Progressive Web Apps](https://themanifest.com/app-development/11-examples-progressive-web-apps)
 * [PINTEREST 프로그래시브 웹 앱 성능 케이스 스터디](https://kyu.io/ko/pinterest-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EC%8B%9C%EB%B8%8C-%EC%9B%B9-%EC%95%B1-%EC%84%B1%EB%8A%A5-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%8A%A4%ED%84%B0%EB%94%94/)
+* [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 
 # Python
 * Let’s Build A Web Server
@@ -422,6 +423,7 @@ Web
 * [웹훅 기능을 테스트 하기 좋은 도구들 소개](http://blog.aliencube.org/ko/2017/06/02/tools-for-testing-webhooks/) RequestBin, ngrok
 * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
+* [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
 * **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
 * [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
 * [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
