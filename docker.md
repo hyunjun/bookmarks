@@ -19,6 +19,7 @@ Docker
 * [Docker: 나의 첫 Docker Image Build and Push my own Docker Image](http://www.sauru.so/blog/build-my-first-docker-image/)
 * [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics)
 * [Docker](https://github.com/sangyeol-kim/ausg-docker-seminar/tree/master/1.Docker)
+* **[왜 굳이 도커(컨테이너)를 써야 하나요? 눈송이 서버의 한계를 넘어 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)**
 * [Docker 정리 #1 (개념 및 간단한 명령어 정리)](https://jungwoon.github.io/docker/2019/01/11/Docker-1/)
 * [Docker 정리 #2 (분리된 어플리케이션 컨테이너 만들기)](https://jungwoon.github.io/docker/2019/01/13/Docker-2/)
 * [Docker 정리 #3 (도커 볼륨)](https://jungwoon.github.io/docker/2019/01/13/Docker-3/)
