@@ -239,6 +239,7 @@ Web
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
 * [크롤러를 이용해 우체국 등기우편을 자동으로 정리해보자](https://brunch.co.kr/@needleworm/1)
   * [github.com/needleworm/post_crawler](https://github.com/needleworm/post_crawler)
+* [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
