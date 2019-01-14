@@ -1115,6 +1115,7 @@ Programming Books
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
 * (NOT YET) [마인크래프트와 함께 즐겁게 파이썬](http://bjpublic.tistory.com/314)
 * (NOT YET) 파이썬 핵심 개발자들과의 인터뷰 - 파이썬 커뮤니티 코어 개발자들이 말하는 파이썬의 과거, 현재 그리고 미래
+* (NOT YET) [파이썬 코딩도장](https://www.stomx.net/entry/Review-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9E%A5)
 
 # R
 
