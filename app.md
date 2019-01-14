@@ -234,6 +234,7 @@ App
 * [How to take full page screenshots in Chrome without extensions](https://hackernoon.com/how-to-take-full-page-screenshots-in-chrome-without-extensions-be2f0cf36df1)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [How To Publish Your Chrome Extension](https://medium.freecodecamp.org/how-to-publish-your-chrome-extension-dd8400a3d53)
+* [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
 
 # Comminucation
 * [wire](https://wire.com/) skype alternative
@@ -315,6 +316,7 @@ App
   * [서브라임 텍스트 디렉토리 검색 예외 지정](https://hyeonseok.com/soojung/software/2017/11/21/829.html)
   * [Sublime Text 3의 untitled 탭에 첫 행 표시하기](http://www.haruair.com/blog/4128)
   * [Sublime Text 설치 및 셋팅 for Windows](https://www.youtube.com/watch?v=ubPYAQJ-HjI)
+  * [Ultimate Sublime for Python](https://blog.usejournal.com/ultimate-sublime-for-python-5c531224421b)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)
