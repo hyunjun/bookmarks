@@ -391,6 +391,7 @@ Algorithm
 * [A Historical Perspective and Empirical Study](www.liacs.nl/~graaf/STUDENTENSEMINARIUM/quicksorthistorical.pdf)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 * [glibc/stdlib/qsort.c quicksort](https://code.woboq.org/userspace/glibc/stdlib/qsort.c.html)
+* [Implementing Quicksort in JavaScript](https://itnext.io/implementing-quicksort-in-javascript-e1acfa16d033)
 
 ## Radix
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
