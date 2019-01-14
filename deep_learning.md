@@ -821,6 +821,7 @@ Deep Learning
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
   * **[numpy-neuralnet-exercise](https://github.com/hwalsuklee/numpy-neuralnet-exercise)**
 * **[Hands-On Reinforcement Learning With Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)**
+* [좌충우돌 강화 학습의 이론과 구현 (원고)](http://books.sumeun.org/index.php/2019/01/14/sumeunrl/)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
