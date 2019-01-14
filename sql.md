@@ -279,6 +279,7 @@ SQL
 * [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 * [MySQL for Excel](https://www.mysql.com/why-mysql/windows/excel)
 * [MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축)
+* **[MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)**
 
 ## Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
