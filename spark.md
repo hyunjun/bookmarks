@@ -495,6 +495,8 @@
 * [Hail: Scalable Genomics Analysis with Apache Spark](http://blog.cloudera.com/blog/2017/05/hail-scalable-genomics-analysis-with-spark/)
   * Apache Spark로 유전체 분석을 수행하는 도구 인 Hail에 대한 개요
   * 샘플의 품질을 계산하고 간단한 게놈 차원의 연관 연구를 수행하는 예제 실행으로 시연하는 간단하고 강력한 프로그래밍 모델을 보유
+* Hydrogen
+  * [Project Hydrogen: State of the Art Deep Learning on Apache Spark - Singapore Spark+AI Meetup](https://www.youtube.com/watch?v=lqACnjdhtgA)
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
   * [infinispan-spark-connector-examples](https://github.com/tedwon/infinispan-spark-connector-examples)
