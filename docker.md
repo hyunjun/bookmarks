@@ -23,7 +23,7 @@ Docker
 * [Docker 정리 #1 (개념 및 간단한 명령어 정리)](https://jungwoon.github.io/docker/2019/01/11/Docker-1/)
 * [Docker 정리 #2 (분리된 어플리케이션 컨테이너 만들기)](https://jungwoon.github.io/docker/2019/01/13/Docker-2/)
 * [Docker 정리 #3 (도커 볼륨)](https://jungwoon.github.io/docker/2019/01/13/Docker-3/)
-* [Docker 정리 #4 (도커 네트워크)](https://jungwoon.github.io/docker/2019/01/13/Docker-4/)
+* **[Docker 정리 #4 (도커 네트워크)](https://jungwoon.github.io/docker/2019/01/13/Docker-4/)**
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
@@ -537,6 +537,7 @@ Docker
 * [Kubernetes in the Google Cloud](https://www.qwiklabs.com/quests/29)
   * [Introduction to Docker](https://ash84.net/2019/01/13/k8s_google_cloude_docker/)
 * [Kubernetes in the Google Cloud #1](https://charsyam.wordpress.com/2019/01/13/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-1/)
+* [How to deploy Laravel the easy way with Kubernetes](https://medium.freecodecamp.org/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
@@ -673,6 +674,7 @@ Docker
 * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
 * [HashiConf 17 참석기 : Day 1](https://blog.outsider.ne.kr/1320)
 * [HashiConf 17 참석기 : Day 2](https://blog.outsider.ne.kr/1321)
+* [DevOps101: How To Provide Infrastructure To Your Startup In 7 Easy Steps](https://hackernoon.com/devops101-how-to-provide-infrastructure-to-your-startup-in-6-easy-steps-563b53e77281)
 
 # Windows
 * [Windows Docker Toolbox에서 Host PC와 폴더 공유하기](http://bryan7.tistory.com/797)
