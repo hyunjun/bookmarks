@@ -210,6 +210,7 @@ Nomad & Remote
 * [www.averagesalarysurvey.com/berlin-germany](http://www.averagesalarysurvey.com/berlin-germany)
 * [실리콘밸리보다 베를린인 이유](https://iamsang.com/blog/2017/10/30/berlin-over-silicon-valley/)
 * [Berlin’s got Talent: 5 Startups to Watch in 2018](https://medium.com/@cambridgetricia/berlins-got-talent-5-startups-to-watch-in-2018-43f30a9d8b7c)
+* [리엑트네이티브서울 11. 베를린 Software engineer 취업기 (독일 개발자 취업)](https://www.youtube.com/watch?v=Etfzh8IqH1A)
 
 # Indonesia
 * [인도네시아 E-Commerce, 이것만은 고려하라(1) : 관련지표와 주요 이커머스 플레이어 완전해부](http://verticalplatform.kr/archives/5358)
