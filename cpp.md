@@ -138,6 +138,7 @@ C++
 * [Microcontrollers in Micro-increments : A Test-driven C++ Workflow for Embedded Systems](https://www.youtube.com/watch?v=XuHlDtWYeD8)
 * [Write floating point variable information with sign, exponent and significand](http://www.gilgil.net/?document_srl=8417)
 * [Livestream: Getting Started with C++](https://news.codecademy.com/getting-started-with-c-plus-plus-livestream/)
+* [Contract](https://docs.google.com/presentation/d/e/2PACX-1vQ-V30kyoYLwhJLnqOqIkZgk30zIOKG87sTN4UXnFOV2cPOouqBmlFErYxr3IDudZvM3Yd4gWyHaUaP/pub) design by contract
 
 # API
 * auto_ptr
