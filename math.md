@@ -130,6 +130,7 @@ Math
 * [An Intuitive Guide to Linear Algebra](http://betterexplained.com/articles/linear-algebra-guide/)
 * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists/)
 * [Eigenvectors and eigenvalues](http://setosa.io/ev/eigenvectors-and-eigenvalues/)
+* [Eigenvectors and eigenvalues | Essence of linear algebra, chapter 13](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 * [THE $25,000,000,000∗ EIGENVECTOR THE LINEAR ALGEBRA BEHIND GOOGLE](http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 * [Tutorial on Probabilistic Context‐Free Grammars](https://courses.cs.washington.edu/courses/cse590a/09wi/pcfg.pdf)
 * [Visualizing matrix multiplication as a linear combination](http://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/)
