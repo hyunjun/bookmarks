@@ -500,6 +500,8 @@ Linux
 * [An Asynchronous Shell Prompt](http://www.anishathalye.com/2015/02/07/an-asynchronous-shell-prompt/)
 * [쉘 코드 골프 2회 - PATH 변수 내용이 중복되지 않도록 추가하기](https://rm-rf.work/f/topic/56/%EC%89%98-%EC%BD%94%EB%93%9C-%EA%B3%A8%ED%94%84-2%ED%9A%8C-path-%EB%B3%80%EC%88%98-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%A4%91%EB%B3%B5%EB%90%98%EC%A7%80-%EC%95%8A%EB%8F%84%EB%A1%9D-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/4)
 * [How to Christmassify your terminal and shell - How to add emojis, color, and font styles to your Bash prompt](https://medium.freecodecamp.org/how-to-christmassify-your-terminal-and-shell-7405d748dee2)
+* [`set -u` at the start of a script](https://stackoverflow.com/questions/41020844/how-can-i-make-bash-treat-undefined-variables-as-errors/41020921#41020921)
+  * treat unset variables and parameters as an error
 
 ## Library
 * [agnoster.zsh-theme](https://gist.github.com/jmagnusson/ca43a3ece3de32817ec8)
