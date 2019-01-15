@@ -365,6 +365,7 @@ Programming
 * [커머스 혹은 유통 도메인 설계에 대한 연작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91)
 * [상품 정보 관리 라이브사이클 정의](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%82%AC%EC%9D%B4%ED%81%B4-%EC%A0%95%EC%9D%98/)
 * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
+* [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance) 대규모 서비스를 설계하는 기술 - 중급(일반편)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
