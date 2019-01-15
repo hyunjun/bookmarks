@@ -169,6 +169,7 @@ ElasticSearch - Lucene
 * [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
 * **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
 * [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
+* [들이마시는 공기: Elastic Cloud의 Elasticsearch로 대기 품질 데이터 분석하기(파트 1)](https://www.elastic.co/kr/blog/what-are-you-breathing-analyzing-air-quality-data-with-elasticsearch-on-elastic-cloud-part-1)
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
 * [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
