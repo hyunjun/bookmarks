@@ -57,6 +57,7 @@ NoSQL
 * [Real-Time Aggregation with DynamoDB Streams](https://medium.com/signiant-engineering/real-time-aggregation-with-dynamodb-streams-f93547cfb244) DynamoDB Streams과 AWA Lambda를 이용하여 실시간 집계를 구현하는 방법
 * [Do you know DynamoDB Stream](https://medium.com/vingle-tech-blog/do-you-know-dynamodb-stream-14b284bf38d5)
 * [New – Amazon DynamoDB Transactions](https://aws.amazon.com/ko/blogs/aws/new-amazon-dynamodb-transactions)
+* [AWS DynamoDB 사용 경험 정리](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/dynamodb)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
