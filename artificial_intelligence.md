@@ -123,9 +123,10 @@ Artificial Intelligence
   * [번역과 텍스트음성변환하기(4/4)](https://tariat.tistory.com/406)
 
 # MOOC, Lecture
+* [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [Learn AI for Free](https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
 * [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
-* [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
+* [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
