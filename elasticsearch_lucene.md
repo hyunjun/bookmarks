@@ -250,6 +250,7 @@ ElasticSearch - Lucene
 * [Elasticsearch의 색인 별명 활용 팁](https://www.ridicorp.com/blog/2018/11/20/index-aliases)
 * [Elastic Stack with 여기어때](https://github.com/HowookJeong/withinnovation/blob/master/shared-documents/Elasticsearch-Meetup-with-%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-20181213.pdf)
 * [Aftershock Therapy with Elasticsearch and CSV Data Import](https://www.elastic.co/kr/blog/aftershock-therapy-with-elasticsearch-and-csv-data-import)
+* [Infrastructure and Logs UI: New ways for Ops to interact with Elasticsearch](https://www.elastic.co/blog/infrastructure-and-logs-ui-new-ways-for-ops-to-interact-with-elasticsearch)
 
 # Docker
 * Dockerfile
