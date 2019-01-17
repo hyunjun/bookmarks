@@ -58,3 +58,5 @@ Writing
 * [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)
 * [글쓰는 개발자가 되자](http://www.popit.kr/%EA%B8%80%EC%93%B0%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%9E%90/)
 * [기술 업계의 독성 말투 문제, 고칩시다! 독성 말투의 예시, 발생하는 커뮤니케이션 문제와 대안, 번역](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it)
+* [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
+* [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
