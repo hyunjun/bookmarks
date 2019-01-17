@@ -260,6 +260,10 @@ Vision
 * [Dataset Annotator - Tool for annotating image datasets](https://github.com/omenyayl/dataset-annotator)
 * [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
 * [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/)
+* [delira - Deep Learning In RAdiology](https://delira.readthedocs.io)
+  * PyTorch 기반 CT/MRI 등의 이미지 딥러닝 프레임워크
+  * 데이터셋 로딩, 샘플링, augmentation, 일반적인 트레이닝 클래스, 웹 기반 모니터링 등을 지원
+  * [delira - Lightweight framework for fast prototyping and training deep neural networks in medical imaging](https://github.com/justusschock/delira)
 * [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)
 * [fb-vision-bot](https://github.com/jshin49/fb-vision-bot)
 * [FIGR-8 - Few-shot Image Generation with Reptile: the dataset](https://github.com/marcdemers/FIGR-8)
