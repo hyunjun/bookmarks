@@ -557,6 +557,7 @@ Java
   * [분산 데이터베이스 환경에서 RoutingDataSource 사용 시 JTA를 이용한 트랜잭션 처리](https://d2.naver.com/helloworld/5812258)
   * [OneToMany 관계에서 Left Outer Join 이 필요할 경우](https://jojoldu.tistory.com/342)
   * [스프링 스케줄러 런타임에 cron 설정 변경하기](http://javacan.tistory.com/entry/change-spring-cron-schedule-at-runtime)
+  * [Spring 의 Cache 추상화를 사용하면서, 단건/다건 key 에 대한 동일 저장소 사용하기](http://woowabros.github.io/experience/2019/01/04/multi-key-spring-cache.html)
 * Spring Boot
   * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
   * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)
