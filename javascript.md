@@ -124,6 +124,7 @@ Javascript
 * [Understanding Currying in JavaScript](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
 * [ESNext proposal : Partial application syntax](https://blog.naver.com/sbshw1/221259747230)
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
+* [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript)
 * [A JavaScript Quality Guide - http://ponyfoo.com](https://github.com/bevacqua/js)
 * [The Sass Mixins/Placeholders I Can't Live Without for Responsive Web Design](http://blog.siftscience.com/blog/2015/the-sass-mixinsplaceholders-i-cant-live-without-for-responsive-web-design)
