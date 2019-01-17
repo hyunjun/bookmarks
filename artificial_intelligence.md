@@ -124,6 +124,7 @@ Artificial Intelligence
 
 # MOOC, Lecture
 * [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
+* [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [Learn AI for Free](https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
