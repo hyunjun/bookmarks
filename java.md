@@ -620,6 +620,7 @@ Java
   * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
   * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
   * [Spring Boot Data Jpa 프로젝트에 Querydsl 적용하기](https://jojoldu.tistory.com/372)
+  * [Querydsl 서브쿼리 사용하기](https://jojoldu.tistory.com/379)
   * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
   * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
