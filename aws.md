@@ -271,6 +271,7 @@ AWS
   * [Part 2 Hosted Connected](http://zigispace.net/999)
   * [Part 3 Direct Connect 구성 절차](http://zigispace.net/1006)
 * [아마존 라이트세일 서버 리전 이동하기 – AWS Lightsail 워드프레스를 서울 서버로 복사 후 옮기기, 업그레이드 방법](https://swiftcoding.org/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%84%B8%EC%9D%BC-%EC%84%9C%EB%B2%84%EC%9D%B4%EC%A0%84-transfer)
+* [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
