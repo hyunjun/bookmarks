@@ -403,6 +403,8 @@ Programming Books
 * (NOT YET) [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
 * (NOT YET) [신경망 설계 2/e - 주요 신경망 이론과 응용 사례](http://acornpub.co.kr/book/neural-network-design-2e)
 * (NOT YET) [PyTorch를 활용한 강화학습/심층강화학습 실전 입문](http://wikibook.co.kr/pytorch-drl/)
+* [Deep Learning Cookbook](https://ridibooks.com/v2/Detail?id=2121000012)
+  * [Deep Learning Cookbook 추가 설명집](https://wikidocs.net/book/2522)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
