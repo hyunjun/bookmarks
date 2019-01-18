@@ -214,6 +214,8 @@ Go
   * [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
   * [5 More Gotchas of Defer in Go — Part II](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa)
   * [5 More Gotchas of Defer in Go — Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
+* encoding
+  * [Go encoding/json 패키지](http://blog.jeonghwan.net/dev/2019/01/18/go-encoding-json.html)
 * fmt
   * [Go fmt 패키지](http://blog.jeonghwan.net/dev/2019/01/08/go-fmt.html)
 * [regexp](https://golang.org/pkg/regexp/)
