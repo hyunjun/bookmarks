@@ -423,7 +423,6 @@ TensorFlow
   * [공부 여정](http://mobicon.tistory.com/543)
   * [로지스틱 회귀의 비용함수 이해](http://mobicon.tistory.com/544)
   * [Tensorflow 강좌 정리](http://mobicon.tistory.com/546)
-* [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7?linkId=54396538)
 * [Get started with TensorFlow on law and statistics](https://medium.freecodecamp.org/tensorflow-starter-on-law-and-statistics-646072b93b5a)
 * [9 Things You Should Know About TensorFlow](https://hackernoon.com/9-things-you-should-know-about-tensorflow-9cf0a05e4995)
 * [Implementing T-SNE in Tensorflow Manual Back Prop in TF](https://towardsdatascience.com/implementing-t-sne-in-tensorflow-manual-back-prop-in-tf-b08c21ee8e06)
@@ -451,6 +450,9 @@ TensorFlow
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
 * [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
+* AutoGraph
+  * [AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)](https://www.youtube.com/watch?v=jh4ITuOytE4)
+  * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
