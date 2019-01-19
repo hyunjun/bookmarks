@@ -546,6 +546,7 @@ Docker
   * [Introduction to Docker](https://ash84.net/2019/01/13/k8s_google_cloude_docker/)
 * [Kubernetes in the Google Cloud #1](https://charsyam.wordpress.com/2019/01/13/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-1/)
 * [How to deploy Laravel the easy way with Kubernetes](https://medium.freecodecamp.org/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c)
+* [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
