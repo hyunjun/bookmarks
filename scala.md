@@ -8,7 +8,7 @@ Scala
 * [30분 scala](https://programmers.co.kr/learn/courses/12) 문법만 빠르게 홈페이지에서 살필 수 있음
 * [Scala For Beginners](https://workday.github.io/scala/2014/01/09/scala-for-beginners)
 * [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
-* [Scala Tutorials Part #1 - Getting Started with Scala](http://madusudanan.com/blog/scala-tutorials-part-1-getting-started/)
+* [Learning Scala - This will act as a reference to all of my Scala blog articles](https://madusudanan.com/blog/scala-articles-index/)
 * [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
 * [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 * [Scala Tutorial](https://intellipaat.com/tutorial/scala-tutorial/)
@@ -436,7 +436,7 @@ Scala
   * Free Monad보다 모나드 합성에서 편하다고 하는 Freer Monad 기반의  라이브러리
 * [ENSIME - Enhanced Scala and java Interaction Mode for text Editors](https://github.com/ensime)
 * Finagle
-  * [스프링캠프 2016[B-4]: SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
+  * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
@@ -570,6 +570,6 @@ Scala
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
-* [(47)  ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
+* [(47) ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
