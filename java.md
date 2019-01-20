@@ -398,6 +398,7 @@ Java
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
   * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
+* [jabba - Java Version Manager inspired by nvm (Node.js). Written in Go](https://github.com/shyiko/jabba)
 * [j2ssh-maverick를 이용한 SCP + 키이용 파일 복사](http://javacan.tistory.com/entry/tip-j2sshmaverick-SCP)
 * [j2ssh-maverick를 이용한 SFTP 다운로드](http://javacan.tistory.com/entry/tip-j2sshmaverick-sftp-download)
 * j2v8
