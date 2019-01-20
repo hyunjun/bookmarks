@@ -51,6 +51,7 @@ Elixir
 * [#elixir 지연 열거(lazy enumeration)가 필요할 땐, Stream 모듈](http://ohyecloudy.com/pnotes/archives/elixir-lazy-enumeration-stream/)
 * [#elixir 언어로 #telegram 봇 만들기](http://ohyecloudy.com/pnotes/archives/create-telegram-bots-in-elixir-language/)
 * [#elixir 언어로 만든 네이버 검색 랭킹 알림 #telegram 봇을 #heroku 플랫폼으로 배포하기](http://ohyecloudy.com/pnotes/archives/naver-search-ranking-notification-telegram-bot/)
+* [elixir 프로젝트 템플릿](https://github.com/ohyecloudy/project-templates/tree/master/elixir)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
