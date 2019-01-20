@@ -545,6 +545,7 @@ Docker
 * [Kubernetes in the Google Cloud](https://www.qwiklabs.com/quests/29)
   * [Introduction to Docker](https://ash84.net/2019/01/13/k8s_google_cloude_docker/)
 * [Kubernetes in the Google Cloud #1](https://charsyam.wordpress.com/2019/01/13/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-1/)
+* [Kubernetes in the Google Cloud #2](https://charsyam.wordpress.com/2019/01/20/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-2/)
 * [How to deploy Laravel the easy way with Kubernetes](https://medium.freecodecamp.org/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c)
 * [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
 * [k8s cronjob 제한](https://ash84.net/2019/01/20/k8s-cronjob-limitations/)
