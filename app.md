@@ -431,7 +431,9 @@ App
 * [Hyper 리뷰- Mac과 iOS, 안드로이드, 웹에서 사용가능한 사용자지정 양식 스택카드 (맥앱,iOS앱 추천)](http://applecenter.tistory.com/220)
 * [hyperterm.org](https://hyperterm.org)
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
+* [IINA - The modern media player for macOS](https://iina.io/)
 * **[KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)**
+* [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
@@ -464,6 +466,7 @@ App
 * **[Spectacle](https://github.com/eczarny/spectacle)**
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
+* [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * **[Where Is My Mouse?](http://macnews.tistory.com/4007)**
