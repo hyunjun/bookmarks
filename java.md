@@ -624,6 +624,7 @@ Java
   * [Querydsl 서브쿼리 사용하기](https://jojoldu.tistory.com/379)
   * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
   * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
+  * [스프링부트로 쇼핑몰 만들기 - 3주차](https://jojoldu.tistory.com/393)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
