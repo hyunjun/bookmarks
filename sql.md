@@ -391,6 +391,7 @@ SQL
 * [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)
   * Guardian에서 MongoDB에서 Postgres로 마이그레이션한 스토리
   * 데이터베이스 API Call을 복제하여 구 개의 데이터베이스서 실행하고 로깅을 하는 방법을 포함하여 데이터베이스 롤아웃 및 마이그레이션 작업 과정
+* [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg/index.html)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
