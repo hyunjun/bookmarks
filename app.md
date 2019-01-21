@@ -567,6 +567,7 @@ App
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [lucid chart](https://www.lucidchart.com)
+* [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * **[Pencil Project](http://pencil.evolus.vn/)**
   * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
@@ -575,6 +576,7 @@ App
 * [precursor](https://precursorapp.com/)
 * [sequence diagram.org](https://sequencediagram.org/)
 * [Shaky: ASCII Diagram to PNG](http://shaky.github.bushong.net/)
+* [smartdraw.com](https://www.smartdraw.com/)
 * [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 
