@@ -649,7 +649,10 @@ App
 # Whitenoise
 * [coffitivity.com](https://www.coffitivity.com/)
 * [hipstersound.com](http://hipstersound.com/)
+* [Noisli](https://www.noisli.com/)
+  * [noisli chrome extension](https://chrome.google.com/webstore/detail/noisli/klejemegaoblahjdpcajmpcnjjmkmkkf)
 * [rain.today](http://rain.today/?)
+* [Rainy Mood](https://rainymood.com/)
 
 # Window
 * ["PC 뱅킹의 주적은 뱅킹 프로그램" – 구라 제거기 제작자 인터뷰](http://slownews.kr/67777)
