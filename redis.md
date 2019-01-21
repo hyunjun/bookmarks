@@ -20,6 +20,7 @@ Redis
 * [A few things about Redis security](http://antirez.com/news/96)
 * [Lock and cache using redis](https://github.com/seamusabshere/lock_and_cache)
 * [Recent improvements to Redis Lua scripting](http://antirez.com/news/97)
+* [Atomic 처리와 cache stampede 대책을 위해 Redis Lua script를 활용한 이야기](https://engineering.linecorp.com/ko/blog/atomic-cache-stampede-redis-lua-script/)
 * [Redis의 SCAN은 어떻게 동작하는가?](http://tech.kakao.com/2016/03/11/redis-scan/)
 * [DNS 기반의 Redis HA 구현](http://tech.kakao.com/2016/03/18/redis-ha-dns/)
 * [Redis Labs](http://www.slideshare.net/RedisLabs)
