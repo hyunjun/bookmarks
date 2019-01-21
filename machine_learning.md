@@ -486,6 +486,7 @@ Machine Learning
 * [Applied Machine Learning: Part 1](https://medium.com/the-research-nest/applied-machine-learning-part-1-40578469a934)
 * [Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
+* [Neil Lawrence's Talks](http://inverseprobability.com/talks/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
