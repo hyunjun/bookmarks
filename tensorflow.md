@@ -382,6 +382,7 @@ TensorFlow
 * [HOYA AI Jupyter 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다](https://github.com/TensorMSA/tensormsa_jupyter)
 * Eager Execution
   * [대화형 명령 스타일 프로그래밍을 위한 즉시 실행 (Eager Execution) 한글 가이드를 소개합니다](https://developers-kr.googleblog.com/2018/05/eager-execution.html)
+  * [Tensorflow-eager-papers Classical deep learning paper implementation using tensorflow's eager execution](https://github.com/art28/tensorflow-eager-papers)
 * [A Gentle Introduction To Deep Learning with TensorFlow](https://www.youtube.com/watch?v=6g0lPlHc-E8)
 * [텐서플로우 & 딥러닝 수박 겉핥기 - 골빈해커(@golbin)](https://www.youtube.com/watch?v=q_6YGEsAXnI)
 * [TensorFlow 1.7과 TensorRT를 통합했습니다](https://developers-kr.googleblog.com/2018/05/tensorrt-integration-with-tensorflow.html)
