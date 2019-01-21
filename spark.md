@@ -17,6 +17,7 @@
 * [Apache Spark Tutorial 2018 | Spark Tutorial | Spark Tutorial for Beginners | Apache Spark Training](https://www.youtube.com/watch?v=X4R8GweypwQ)
 * [Big Data and Hadoop Tutorial For Beginners | Hadoop Spark Tutorial For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUULWstQPgNEiAhRYOsV1gWIy)
 * [Apache Spark Tutorial](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKmozD5fU7Fvc-Wl5SmD7TP)
+* [Apache Spark Tutorials](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dXiPdFD4hXwheRGRwhmd6K)
 * [Spark Internals](https://github.com/JerryLead/SparkInternals)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
 * Spark Internal
