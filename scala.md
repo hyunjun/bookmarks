@@ -448,6 +448,11 @@ Scala
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
   * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
+	* [meow-mtl](https://github.com/oleg-py/meow-mtl)
+	  * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
+		* [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
+		* [http4s-error-handling-mtl.scala](https://gist.github.com/gvolpe/3fa32dd1b6abce2a5466efbf0eca9e94)
+		* [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
 * JNI
   * [Allocating memory (and strings) from C, with standard finalizers](https://pijul.org/Learning%20Scala#allocating-memory-and-strings-from-c-with-standard-finalizers)
