@@ -32,6 +32,7 @@ Data Science
 * [B급 프로그래머 데이터 과학자로 취직하려면 남들처럼 하지 마라](http://jhrogue.blogspot.com/2018/11/b_23.html)
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (1/3)](https://cojette.github.io/misunderstoodhero1_3/)
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (2/3)](https://cojette.github.io/misunderstoodhero2_3/)
+* [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (3/3)](https://cojette.github.io/misunderstoodhero3_3/)
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
 * A Beginner’s Guide to Data Engineering
   * [Part I](https://www.kdnuggets.com/2018/01/beginners-guide-data-engineering-1.html)
