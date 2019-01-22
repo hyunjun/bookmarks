@@ -103,6 +103,7 @@ Interview
 * **[Tech HR 컨퍼런스 참석 후기](http://jojoldu.tistory.com/163)**
 * [IT 회사 탐방기 세미나 참석후기](http://jojoldu.tistory.com/274)
 * [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* [The ultimate guide to preparing for the coding interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [blog.codingforinterviews.com](http://blog.codingforinterviews.com/)
