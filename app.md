@@ -218,6 +218,10 @@ App
 * [50시간 크롬 확장 프로그램 만들기](https://brunch.co.kr/@skykamja24/60)
 * [pub/sub for chrome extensions](https://github.com/mistermoe/daily-bugle)
 * [Write a "cloud" to "butt" Chrome extension in three minutes](http://kelukelu.me/writing/wordreplace.html)
+* [10 Chrome Extensions That Are Amazingly Useful! 2018](https://www.youtube.com/watch?v=1dFOSr2KeP8)
+* [How to take full page screenshots in Chrome without extensions](https://hackernoon.com/how-to-take-full-page-screenshots-in-chrome-without-extensions-be2f0cf36df1)
+* [How To Publish Your Chrome Extension](https://medium.freecodecamp.org/how-to-publish-your-chrome-extension-dd8400a3d53)
+* [10 Best Chrome Extensions Built by Indie Makers](https://hackernoon.com/9-best-chrome-extensions-built-by-indie-makers-d74f91217cb2)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 * [EpubPress - Vue.js 한국어 문서 전자책으로 만들기](https://vuejs-kr.github.io/vue/epub/2017/05/10/introduce-generate-vue-book/)
 * **[one-tab.com](https://www.one-tab.com/)**
@@ -230,10 +234,7 @@ App
 * [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
-* [10 Chrome Extensions That Are Amazingly Useful! 2018](https://www.youtube.com/watch?v=1dFOSr2KeP8)
-* [How to take full page screenshots in Chrome without extensions](https://hackernoon.com/how-to-take-full-page-screenshots-in-chrome-without-extensions-be2f0cf36df1)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
-* [How To Publish Your Chrome Extension](https://medium.freecodecamp.org/how-to-publish-your-chrome-extension-dd8400a3d53)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
 
 # Comminucation
