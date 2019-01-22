@@ -42,6 +42,7 @@ Json
 * [Understanding JSON Web Token Authentication](https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15)
 * [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 * [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
+* [Build authentication into your Laravel API with JSON Web Tokens (JWT)](https://medium.com/employbl/build-authentication-into-your-laravel-api-with-json-web-tokens-jwt-cd223ace8d1a)
 * [Django REST framework JWT Auth](https://getblimp.github.io/django-rest-framework-jwt/)
 * [Flask-JWT-login](https://github.com/devArtoria/Flask-JWT-login/)
 
