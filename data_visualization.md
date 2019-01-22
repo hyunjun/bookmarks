@@ -119,6 +119,7 @@ Data Visualization
 * [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
 * [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
+* [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
 * [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
 * **[python-graph-gallery.com](https://python-graph-gallery.com/)**
 * [파이썬 데이터 시각화](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrDbDXa4GUohKp_2RkmJj-a)
