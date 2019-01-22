@@ -40,6 +40,7 @@ Scala
   * [Personal repo for "Functional Programming Principles in Scala" course on coursera](https://github.com/hugcruz/progfun1)
 * [Functional Program Design in Scala](https://www.coursera.org/learn/progfun2)
   * [Personal repo for "Functional Program Design in Scala" course on coursera](https://github.com/hugcruz/progfun2)
+* [A Beginner-Friendly Tour through Functional Programming in Scala](http://degoes.net/articles/easy-monads)
 * [Parallel programming](https://www.coursera.org/learn/parprog1)
   * [Personal repo for "Parallel Programming" course on coursera](https://github.com/hugcruz/parprog1)
 * [Coursera's & EPFL's Scala Spark Big Data course](https://github.com/TomLous/coursera-scala-spark-big-data)
