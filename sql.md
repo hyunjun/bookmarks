@@ -195,7 +195,6 @@ SQL
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
 * [MySQL의 ORDER BY로 지정한 순서대로 정렬하기](https://brunch.co.kr/@hopeless/4)
-* [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
 * [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
 * [Full Outer Join in MySQL](http://stackoverflow.com/questions/4796872/full-outer-join-in-mysql)
@@ -284,7 +283,7 @@ SQL
 * [MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축)
 * **[MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)**
 
-## Library
+## MySQL Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
   * [github.com/kakao/adt](https://github.com/kakao/adt)
 * [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)
@@ -316,6 +315,12 @@ SQL
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
+
+## MySQL Sharding
+* [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
+* [MySQL Sharding에 관한 자료들](http://jason-heo.github.io/mysql/2015/08/23/mysql-sharding.html)
+* [kingshard - A high-performance MySQL proxy](https://github.com/flike/kingshard)
+* [proxysql.com](https://proxysql.com/)
 
 # Oracle
 * examples
