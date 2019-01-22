@@ -643,6 +643,7 @@ Javascript
 * [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 * [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching)
 * [Optimizing Your GraphQL Request Waterfalls](https://blog.apollographql.com/optimizing-your-graphql-request-waterfalls-7c3f3360b051)
+* [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1570,6 +1571,8 @@ Javascript
 * [The Simplest React Stack - Bootstrapping and State Management](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f)
 * [9 React Static Site Generators for 2019](https://blog.bitsrc.io/9-react-static-site-generators-for-2019-f54a66e519d2)
 * [React JS and React Native Handle Exceptions Gracefully In Production](https://hackernoon.com/react-js-and-react-native-handle-exceptions-gracefully-a12a2c3fc1cb)
+* [How to make complex problems easier by decomposing and composing](https://medium.freecodecamp.org/how-to-make-complex-problems-easier-by-decomposing-and-composing-be57ce230c49)
+* [React Render Props](https://hackernoon.com/react-render-props-4809fe8ca966)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1746,6 +1749,7 @@ Javascript
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
+* [Simply JavaScript: a straightforward intro to Mocking, Stubbing, and Interfaces](https://medium.freecodecamp.org/simply-javascript-a-straightforward-intro-to-mocking-stubbing-and-interfaces-14e67ed6641a)
 
 # Typescript
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV)
