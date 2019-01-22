@@ -222,6 +222,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+	* [Python Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2018-6c4c7a10b61e)
   * [Python Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-nov-2018-2301700b699a)
   * [Python Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-nov-2018-34b6f7f8c22c)
   * [Python Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-oct-2018-db86b787ec74)
@@ -1223,6 +1224,7 @@ Python
 * **[장고 ORM 요리책](https://django-orm-cookbook-ko.readthedocs.io)**
   * [장고 ORM 요리책](https://github.com/8percent/django-orm-cookbook-ko)
   * [Django ORM cookbook 번역 후기](https://8percent.github.io/2018-10-07/Django-ORM-cookbook-translate/) read the docs, sphinx
+* [Django ORM Relationships Cheat Sheet](https://hackernoon.com/django-orm-relationships-cheat-sheet-14433d6cf68c)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
