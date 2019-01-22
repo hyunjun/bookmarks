@@ -1050,6 +1050,7 @@ NLP
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [Python을 활용한 텍스트 마이닝](http://www.lifebloom.biz/category/py/tm/)
 * [Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9)
+* [Natural Language Processing (NLP) & Text Mining Tutorial Using NLTK | NLP Training | Edureka](https://www.youtube.com/watch?v=05ONoGfmKvA)
 
 # TextRank
 * **[TextRank를 이용한 문서요약](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD)**
