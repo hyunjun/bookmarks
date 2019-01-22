@@ -1735,6 +1735,7 @@ Python
   * [google Colaboratory 에서 구글 드라이브에 있는 파일 쉽게 이용하기](http://leebaro.tistory.com/entry/google-Colaboratory-에서-구글-드라이브에-있는-파일-쉽이용하기)
   * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
   * [Getting Started With Google Colab - A Simple Tutorial for the Frustrated and Confused](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
+  * **[코랩 시작하기](https://tykimos.github.io/2019/01/22/colab_getting_started/)** file upload, google drive 연동 방법
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
 
