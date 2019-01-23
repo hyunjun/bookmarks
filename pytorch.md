@@ -52,7 +52,6 @@ PyTorch
 * [Understanding Attentive Recurrent Comparators](https://medium.com/@sanyamagarwal/understanding-attentive-recurrent-comparators-ea1b741da5c3)
   * [Attentive Recurrent Comparator 이해](https://www.facebook.com/nextobe1/posts/367156013720400)
   * [arc-pytorch - PyTorch implementation of Attentive Recurrent Comparators by Shyam et al](https://github.com/sanyam5/arc-pytorch)
-* [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 * [Fast.ai's software could radically democratize AI](https://www.zdnet.com/article/fast-ais-new-software-could-radically-democratize-ai/)
 * [sru - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)](https://github.com/taolei87/sru)
 * [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
@@ -91,7 +90,6 @@ PyTorch
 * [Getting Started with PyTorch Part 1: Understanding how Automatic Differentiation works](https://towardsdatascience.com/getting-started-with-pytorch-part-1-understanding-how-automatic-differentiation-works-5008282073ec)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
 * [Spherical CNNs - Equivariant CNNs for the sphere and SO(3) implemented in PyTorch](https://github.com/jonas-koehler/s2cnn)
-* [Learn You a PyTorch! (aka Introduction Into PyTorch)](https://www.youtube.com/watch?v=X8gWWKfym3Y)
 * [Draw Like Bob Ross (With Pytorch!)](https://kndrck.co/posts/draw_like_bob_ross_with_pytorch/)
 * [pytorch-exercise](https://github.com/nmhkahn/pytorch-exercise)
 * [「PyTorchで学ぶニューラルネットワークと深層学習」サンプルコード集](https://qiita.com/KentFujii/items/50c7a111eb661cb41f47)
@@ -144,6 +142,11 @@ PyTorch
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://  www.youtube.com/watch?v=EYjdLppmERE)
 * [AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint)
+
+# Introduction
+* [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
+* [Learn You a PyTorch! (aka Introduction Into PyTorch)](https://www.youtube.com/watch?v=X8gWWKfym3Y)
+* [Deep Learning: Introduction to PyTorch](https://medium.com/deeplearningbrasilia/deep-learning-introduction-to-pytorch-5bd39421c84)
 
 # Installation
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)
