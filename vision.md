@@ -399,6 +399,7 @@ Vision
 * [Intro to Analyzing Brain Imaging Data— Part I: fMRI Data Structure](https://medium.com/coinmonks/visualizing-brain-imaging-data-fmri-with-python-e1d0358d9dba)
 * [Python for Computer Vision - Revision 2nd Edition](https://www.slideshare.net/AhmedGadFCIT/python-for-computer-vision-revision-2nd-edition)
 * [이미지 Segmentation 문제와 딥러닝: GCN으로 개 고양이 분류 및 분할하기](http://research.sualab.com/machine-learning/computer-vision/2018/11/23/image-segmentation-deep-learning.html)
+* [Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad/)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)
