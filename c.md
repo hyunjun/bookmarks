@@ -218,7 +218,7 @@ C
 * [greenify - Make blocking C library work with gevent](https://github.com/douban/greenify)
 * [guff - a plot device](https://github.com/silentbicycle/guff)
 * [Gumbo - A pure-C HTML5 parser](https://github.com/google/gumbo-parser)
-* [H2O - the optimized HTTP/1, HTTP/2 server http://h2o.github.io](https://github.com/h2o/h2o)
+* [H2O - the optimized HTTP/1, HTTP/2 server https://h2o.examp1e.net ](https://github.com/h2o/h2o)
 * [Hammer - a parsing library](https://github.com/UpstandingHackers/hammer)
 * [Heman is a C library of image utilities for dealing with height maps and other floating-point images](http://heman.readthedocs.org/)
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
