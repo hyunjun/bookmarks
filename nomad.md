@@ -137,6 +137,8 @@ Nomad & Remote
 * [LMIA](https://brunch.co.kr/@behere/16)
 * [캐나다 이민을 공부하기 전에 무조건 알아야 하는 개념. 그 첫 번째: 직업 분류 코드](https://brunch.co.kr/@behere/13)
 * [갑작스러운 캐나다 창업기, START-UP VISA PROGRAM](https://www.v-on.kr/1216/)
+* [캐나다 이민 - 나는 이렇게 했다](https://www.youtube.com/watch?v=jj8iyJhsfR8)
+  * [Comprehensive Ranking System (CRS) tool: skilled immigrants (Express Entry)](http://www.cic.gc.ca/english/immigrate/skilled/crs-tool.asp)
 
 # Chile
 * [Startup Chile's Successful Companies](http://blog.entrywire.com/chiles-public-portfolio/)
