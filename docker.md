@@ -28,6 +28,7 @@ Docker
 * [Docker 정리 #5 (도커 로깅)](https://jungwoon.github.io/docker/2019/01/13/Docker-5/)
 * [Docker 정리 #6 (도커 자원 할당 제어)](https://jungwoon.github.io/docker/2019/01/13/Docker-6/)
 * [Docker 정리 #7 (도커 이미지)](https://jungwoon.github.io/docker/2019/01/13/Docker-7/)
+* [Docker 정리 #8 (Dockerfile)](https://jungwoon.github.io/docker/2019/01/13/Docker-8/)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
@@ -545,6 +546,7 @@ Docker
 * **[Scaling Microservices with Message Queues, Spring Boot and Kubernetes](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)**
 * [Kubernetes in the Google Cloud](https://www.qwiklabs.com/quests/29)
   * [Introduction to Docker](https://ash84.net/2019/01/13/k8s_google_cloude_docker/)
+  * [Hello Node Kubernetes](https://ash84.net/2019/01/23/k8s-node/)
 * [Kubernetes in the Google Cloud #1](https://charsyam.wordpress.com/2019/01/13/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-1/)
 * [Kubernetes in the Google Cloud #2](https://charsyam.wordpress.com/2019/01/20/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-2/)
 * [How to deploy Laravel the easy way with Kubernetes](https://medium.freecodecamp.org/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c)
