@@ -26,6 +26,7 @@ PHP
 * [ReactPHP의 Process로 pipe 사용하기](http://www.haruair.com/blog/4146)
 * [PHP에서 커링 currying 함수 작성하기](http://www.haruair.com/blog/4149)
 * [php callable 살펴보기](https://www.haruair.com/blog/4431)
+* [PHP basics for expert web developers (1' part)](https://hackernoon.com/php-basics-for-expert-web-developers-1-part-8a35d408d2ea)
 
 # Library
 * composer
