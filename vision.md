@@ -121,7 +121,6 @@ Vision
 * [Object Detection with Tensorflow Helper Tool](https://github.com/5taku/tensorflow_object_detection_helper_tool)
 * [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 * [A Step-by-Step Introduction to the Basic Object Detection Algorithms (Part 1)](https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/)
-* [A Practical Implementation of the Faster R-CNN Algorithm for Object Detection (Part 2 — with Python codes)](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/)
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
@@ -250,6 +249,8 @@ Vision
   * [6 Object Detection Multi Scale Testing Method Review](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-performance-two/)
 * [How to run Object Detection and Segmentation on a Video Fast for Free](https://github.com/Tony607/colab-mask-rcnn)
   * [Mask R-CNN Demo](https://colab.research.google.com/drive/1AJUcrbS8wnk4hzD0At1oaIZrRuINKfNj) Colaboratory
+* [A Practical Implementation of the Faster R-CNN Algorithm for Object Detection (Part 2 — with Python codes)](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/)
+* [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
 * [SlowFast – Dual-mode CNN for Video Understanding](https://lyrn.ai/2018/12/21/slowfast-dual-mode-cnn-for-video-understanding/)
 
 # Library
