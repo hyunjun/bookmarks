@@ -187,6 +187,7 @@ Scala
 * [Pandas vs. Spark: how to handle dataframes (Part II)](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
 * [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
 * [Essential Scala: Six Core Principles for Learning Scala](https://www.youtube.com/watch?v=J8wUy1XxL5o)
+* [github.com/ikhoon/scala-note](https://github.com/ikhoon/scala-note)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -199,15 +200,12 @@ Scala
 * [Programming with Actors (part 2)](https://www.youtube.com/watch?v=ilHW220JtGo)
 
 # Akka
-* [Akka HTTP](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/)
+* Akka HTTP
   * [akka-http-extensions 0.0.1 released](https://groups.google.com/forum/#!topic/akka-user/FIYDmafoF-8)
   * [Akka HTTP server backend (experimental)](https://www.playframework.com/documentation/2.4.x/AkkaHttpServer)
 * [Akka HTTP — The What, Why and How](https://www.youtube.com/watch?v=y_slPbktLr0)
-* [The Routing DSL](http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/routing.html)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
-* [Easy Scalability with Akka](http://boldradius.com/blog-post/VSQCySkAACcA4k5J/easy-scalability-with-akka)
-* [Handle asynchronous results of external dependencies in Akka actors](http://www.tegonal.com/handle-asynchronous-results-of-external-dependencies-in-akka-actors/)
 * [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
@@ -216,9 +214,8 @@ Scala
 * [데이터 분석을 위한 Scala by VCNC](https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala)
 * [Concurrent sharing of “data in motion” across clusters with CRDTs in Akka Distributed Data](https://www.typesafe.com/blog/concurrent-sharing-of-data-in-motion-across-clusters-with-crdts-in-akka-distributed-data)
 * [Akka Streams: Streaming Data Transformation à la Carte](http://www.infoq.com/presentations/akka-streams)
-* [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487897)
 * [아카(Akka) 시작하기 교육후기](http://tmondev.blog.me/220528821645)
-* [스프링캠프 2016[B-1]: AKKA로 구성한 추천시스템, 검색엔진급](https://www.youtube.com/watch?v=snTnobuyp9E)
+* [스프링캠프 2016 B-1: AKKA로 구성한 추천시스템, 검색엔진급](https://www.youtube.com/watch?v=snTnobuyp9E)
 * [삼성 SDS TechTonic 임백준의 실전 아카](https://www.youtube.com/watch?v=P0M_-eNbOuI)
 * [임백준의 AKKA 시작하기 1](https://www.youtube.com/watch?v=6AsrJdCSojs)
 * [임백준의 AKKA 시작하기 강의 2](https://www.youtube.com/watch?v=PP_B04xFubQ)
@@ -270,7 +267,6 @@ Scala
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 * [Protobuf Serialization in Akka](https://blog.knoldus.com/2017/11/11/protobuf-serialization-in-akka/)
 * [Akka 클러스터샤딩을 이용한 스케일확장](http://hamait.tistory.com/905)
-* [Akka 와 MQTT 를 이용한 IoT 데이터 이벤트 서버 구축](http://hamait.tistory.com/906)
 * [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
 * Akka Message Delivery - At-Most-Once, At-Least-Once, and Exactly-Once
   * [Part 1 At-Most-Once](https://developer.lightbend.com/blog/2017-08-10-atotm-akka-messaging-part-1/index.html)
@@ -325,7 +321,9 @@ Scala
   * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * Implicit
 	* [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
+    * REPL parameter `-Xprint:typer`, REPL command `:javap`, reflection API
 	* [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
+    * intelliJ에서 코드에 어떤 implicit이 적용되었는지 살펴보는 방법
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
@@ -390,6 +388,7 @@ Scala
 
 # Book
 * [스칼라 시작하기](http://hamait.tistory.com/904)
+* [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/store/books/look.php?p_code=E3400029901)
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 * [Creative Scala](https://www.creativescala.org/)
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
@@ -398,7 +397,8 @@ Scala
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
 
 # IntelliJ
-* [Scala로 만들어본 이름점](http://jsideas.net/scala/2016/10/27/name_chemistry.html)
+* [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
+  * [이름점 - Scala Code 수정](https://jsideas.net/name_chemistry_refactoring/)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
@@ -407,7 +407,6 @@ Scala
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
-* [BooPickle 0.1.0 preview released - fast binary serialization for both Scala and Scala.js](https://www.linkedin.com/grp/post/746917-5995154311213047808)
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
   * [LambdaConf 2015 - Cats — A Fresh Look at Functional Programming in Scala Mike Stew O'Connor](https://www.youtube.com/watch?v=hIwdaP3-U6I)
@@ -426,20 +425,17 @@ Scala
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
-  * [Finatra Mysql with Quill and Slick](https://www.lightbend.com/activator/template/finatra-mysql-seed)
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
-* [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
+* [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
   * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
-	* [meow-mtl](https://github.com/oleg-py/meow-mtl)
-	  * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
-		* [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
-		* [http4s-error-handling-mtl.scala](https://gist.github.com/gvolpe/3fa32dd1b6abce2a5466efbf0eca9e94)
-		* [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
+  * [meow-mtl](https://github.com/oleg-py/meow-mtl)
+    * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
+    * [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
+    * [http4s-error-handling-mtl.scala](https://gist.github.com/gvolpe/3fa32dd1b6abce2a5466efbf0eca9e94)
+    * [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
-* JNI
-  * [Allocating memory (and strings) from C, with standard finalizers](https://pijul.org/Learning%20Scala#allocating-memory-and-strings-from-c-with-standard-finalizers)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * Kryo
   * [Spark RDD save Object as Kryo file](https://gist.github.com/XuefengWu/ba24e5bc593806196428)
@@ -451,6 +447,7 @@ Scala
 * [Sangria - Scala GraphQL Implementation](http://sangria-graphql.org/)
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
+  * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
 * [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
@@ -481,12 +478,12 @@ Scala
 	* [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
-  * [spray-routing](http://spray.io/documentation/1.2.3/spray-routing/)
+  * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
 
 # Monad
-* [Monad Programming with Scala Future](http://tech.kakao.com/2016/03/03/monad-progamming-with-scala-future/)
+* [Monad Programming with Scala Future](http://tech.kakao.com/2016/03/03/monad-programming-with-scala-future/)
 * Arrows, Monads and Kleisli
   * [part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
   * [part II](https://virtuslab.com/blog/arrows-monads-and-kleisli-part-ii/)
@@ -494,14 +491,12 @@ Scala
 * [Deriving the Free Monad](http://underscore.io/blog/posts/2015/04/23/deriving-the-free-monad.html)
 * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
-* [Writer monad State 모나드 예제](https://github.com/ikhoon/scala-exercise-note/blob/master/scala-exercise/src/main/scala/catsnote/WriterAndState.scala)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
-* [Learning Algebird Monoids with REPL](https://github.com/twitter/algebird/wiki/Learning-Algebird-Monoids-with-REPL)
+* [Algebird - Abstract Algebra for Scala](https://twitter.github.io/algebird)
 * [Monoids](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#monoids)
 * [Monadic IO: Laziness Makes You Free](http://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
-* [SCALAZ: Monoid applications](https://www.linkedin.com/grp/post/746917-5994746996131381251)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # Play
@@ -510,7 +505,6 @@ Scala
 * [How to Play at Work - A Play Framework Tutorial](http://assist-software.net/blog/how-play-work-play-framework-tutorial)
 * [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
 * [ReactJS Tutorial with Play, Scala and WebJars](http://ticofab.io/react-js-tutorial-with-play_scala_webjars/)
-* [A few more learnings with Play Framework](http://www.wiredmonk.me/playframewrok-learnings-.html)
 * [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
 * [hamait.tistory.com/category/PlayFramework2](http://hamait.tistory.com/category/PlayFramework2)
   * [Action 과 Action.async 의 차이점](http://hamait.tistory.com/773)
@@ -522,7 +516,6 @@ Scala
 * [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)
 * [Customizing paths](http://www.scala-sbt.org/0.13/docs/Howto-Customizing-Paths.html)
 * [Library dependencies](http://www.scala-sbt.org/0.13/tutorial/Library-Dependencies.html)
-* [Problem with Scala build](https://www.linkedin.com/grp/post/746917-5998914662710657028)
 * [sbt the easy way](http://blog.codacy.com/2015/05/20/sbt-the-easy-way/)
 * [How to use sbt from behind proxy?](http://stackoverflow.com/questions/13803459/how-to-use-sbt-from-behind-proxy)
   * `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
@@ -543,26 +536,25 @@ Scala
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
 
 # Scala.js
-* [New Scala.js tutorial for building Single Page Applications with React](https://www.linkedin.com/grp/post/746917-5971023713280278530)
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
 * [Hands-on Scala.js - Writing client-side web applications in Scala](http://www.lihaoyi.com/hands-on-scala-js/)
 
 # Type
 * [typelevel.org/blog](https://typelevel.org/blog/)
-* [typeclassopedia.bitbucket.org - typeclass 사용](http://typeclassopedia.bitbucket.org/)
+* [typeclassopedia - typeclass 사용](https://byorgey.wordpress.com/tag/typeclassopedia)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
 * [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
-* [Type safe SalesForce Queries (SOQL) in Scala](http://developerblog.redhat.com/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
+* [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [type lambda](https://meta.plasm.us/posts/2015/07/11/roll-your-own-scala/) function에 대한 lambda말고 type lambda가 존재. type parameter가 들어갈 자리에 lambda 표현식과 유사한 표현을 사용 가능. ({ type L[x] = Either[E, x] })#L 를 사용해야 하는 이유
 * [jvm의 type erasure를 스칼라에서 피할수 있는 팁](https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20)
 * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
 * [Typechecking SQL queries with doobie](https://blog.godatadriven.com/doobie-monix-jdbc-example)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
-  * [doobie is a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
+  * [doobie - a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
