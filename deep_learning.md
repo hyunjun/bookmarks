@@ -839,6 +839,7 @@ Deep Learning
 * [An introduction to Deep Q-Learning: let’s play Doom](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
 * [강화학습 Q-Learning 중 Q-Table(Tabular Methods) - 1편](http://passi0n.tistory.com/86)
 * [Dqn break](https://www.slideshare.net/ssuserd20cab/dqn-break)
+* [Diving deeper into Reinforcement Learning with Q-Learning](https://medium.freecodecamp.org/diving-deeper-into-reinforcement-learning-with-q-learning-c18d0db58efe)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
