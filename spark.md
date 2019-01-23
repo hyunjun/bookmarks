@@ -334,7 +334,7 @@
   * Spark과 YARN이 상호 작용하는 방식과 작업이 각 단계에서 어떻게 작동하는지 설명하는 기초 문서
 * Python vs. Scala
   * [a comparison of the basic commands (Part I)](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
-  * [how to handle dataframes (Part II)](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
+  * [Pandas vs. Spark: how to handle dataframes (Part II)](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
