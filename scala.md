@@ -120,7 +120,7 @@ Scala
 * [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
   * [SpringCamp2013 Effective Scala](https://www.youtube.com/watch?v=WbV467V8o0w)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README.md)
-  * [Databricks Scala Guide (한글)](https://github.com/HyukjinKwon/scala-style-guide/blob/master/README-KO.md)
+  * [Databricks Scala Guide (한글)](https://github.com/databricks/scala-style-guide/blob/master/README-KO.md)
 * [Scala Coding Style Guide:- InShort](https://blog.knoldus.com/scala-coding-styles-guide-inshort/)
 * [Moving from Java to Scala - One year later](https://dzone.com/articles/moving-java-scala-one-year)
 * [From Java to Scala: A Case Study](https://www.youtube.com/watch?v=mo7-VHYYSWQ)
