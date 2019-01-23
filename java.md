@@ -157,6 +157,13 @@ Java
   * [Static Keyword 와 Method Area (메소드 영역)](http://ict-nroo.tistory.com/m/19)
 * String
   * [How SubString Works Internally in Java](http://www.codenuclear.com/how-substring-works-internally-java/)
+* System
+  * currentTimeMillis vs. nanoTime
+    * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
+      * Java8 `Instant` class, Apache Commons `StopWatch`
+    * [Comparison of System.currentTimeMillis() vs System.nanoTime()](https://javamex.com/faq/timing.shtml)
+    * [Newsflash: Can You Rely on System.nanoTime()?](https://www.beyondjava.net/newsflash-rely-system-nanotime)
+    * [Nanotrusting the Nanotime](https://shipilev.net/blog/2014/nanotrusting-nanotime/)
 * text
   * DecimalFormatSymbols
     * [알아두면 쓸데있는 신비한 Locale의 세계](https://medium.com/rainist-engineering/awesome-locale-world-c8612faa11e)
