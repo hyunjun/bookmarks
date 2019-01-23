@@ -437,6 +437,7 @@ R
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)
 * [tidyverse](http://tidyverse.org/)
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
+  * [R 데이터 매니지먼트: tidyverse](https://blog.anpanman.co.kr/posts/2019-01-03-rdatamanagement/)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
