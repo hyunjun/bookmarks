@@ -386,6 +386,7 @@ Algorithm
 * [Sorting Algorithms Animations](https://www.toptal.com/developers/sorting-algorithms)
 * [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos)
 * [Why is mergesort O(log n)?](https://softwareengineering.stackexchange.com/questions/297160/why-is-mergesort-olog-n)
+* [Stability in Sorting Algorithms — A Treatment of Equality](https://medium.freecodecamp.org/stability-in-sorting-algorithms-a-treatment-of-equality-fa3140a5a539)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
