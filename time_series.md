@@ -24,6 +24,7 @@ Time Series
 * [Data-Augmentation-For-Wearable-Sensor-Data](https://github.com/terryum/Data-Augmentation-For-Wearable-Sensor-Data) A sample code of data augmentation methods for wearable sensor data (time-series data) ipynb
 * [Time, Interrupted: Measuring Intervention Effects with Interrupted Time-Series Analysis - Ben Cohen](https://www.youtube.com/watch?v=uuo8SwA1HO8)
 * [Applying Statistical Modeling and Machine Learning to Perform Time-Series Forecasting - Tamara Louie](https://www.youtube.com/watch?v=JntA9XaTebs)
+* [yjucho1.github.io/categories/#time-series](https://yjucho1.github.io/categories/#time-series)
 
 # Library
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
