@@ -155,6 +155,8 @@ Data Visualization
     * [Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
     * [Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
   * [Developing Dashboard Applications Using Bokeh - Bryan Van de Ven](https://www.youtube.com/watch?v=HmI1foA0MZc)
+* dash
+  * [Python for Finance: Dash by Plotly Expanding Jupyter Notebook Stock Portfolio Analyses with Interactive Charting in Dash by Plotly](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
 * [datashader](http://datashader.readthedocs.io/)
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
