@@ -265,7 +265,6 @@ Scala
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 * [Protobuf Serialization in Akka](https://blog.knoldus.com/2017/11/11/protobuf-serialization-in-akka/)
 * [Akka 클러스터샤딩을 이용한 스케일확장](http://hamait.tistory.com/905)
-* [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
 * Akka Message Delivery - At-Most-Once, At-Least-Once, and Exactly-Once
   * [Part 1 At-Most-Once](https://developer.lightbend.com/blog/2017-08-10-atotm-akka-messaging-part-1/index.html)
   * [Part 2 At-Least-Once](https://developer.lightbend.com/blog/2017-11-01-atotm-akka-messaging-part-2/index.html)
@@ -442,6 +441,8 @@ Scala
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * Kryo
   * [Spark RDD save Object as Kryo file](https://gist.github.com/XuefengWu/ba24e5bc593806196428)
+* [lagom - The opinionated microservices framework for moving away from the monolith](https://www.lagomframework.com/)
+  * [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
