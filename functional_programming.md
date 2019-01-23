@@ -155,6 +155,7 @@ Functional Programming
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [High-performance array transformations - This simple technique let’s you compose array `map`s and `filter`s in a nice and performant way](https://codeburst.io/high-performance-array-transformations-68aae138a5f2)
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
+* [Lenses - Composable Getters and Setters for Functional Programming](https://medium.com/javascript-scene/lenses-b85976cb0534)
   
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
