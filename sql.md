@@ -66,6 +66,7 @@ SQL
 * [SQL이란: 데이터 쿼리와 관리](https://ko.khanacademy.org/computing/computer-programming/sql)
 * [데이터베이스 관리 도구: SQLGate 키보드 단축키](http://blog.gaerae.com/2017/11/sqlgate-keyboard-shortcuts.html)
 * [Software engineer — from monolith to cloud: Auto Increment to UUID](https://coder.today/software-engineer-from-monolith-to-cloud-auto-increment-to-uuid-a62f92f387c4)
+* [Why Did We Shift Away From Database-Generated Ids?](https://medium.com/ingeniouslysimple/why-did-we-shift-away-from-database-generated-ids-7e0e54a49bb3)
 * [Instagram 에서 ID 샤딩하기](https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0)
 * [Code Quality Comparison of Firebird, MySQL, and PostgreSQL](https://medium.com/@CPP_Coder/code-quality-comparison-of-firebird-mysql-and-postgresql-53e39fc3298d)
 * ERD
