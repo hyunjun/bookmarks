@@ -1,6 +1,7 @@
 Scala
 =====
 * [lightbend.com](https://www.lightbend.com/)
+* [medium.com/tag/scala](https://medium.com/tag/scala)
 * [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
@@ -164,9 +165,6 @@ Scala
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 * [practice - install scala notebook on jupyter](https://gist.github.com/hyunjun/ed5a9b4e3e2669bd48e215d8d92c2f34)
 * [Abstration and Polymorphism (using Scala)](https://www.youtube.com/watch?v=hWNJrH-NUb0)
-* [Intro to Functional Streams for Scala (FS2)](https://www.youtube.com/watch?v=cahvyadYfX8)
-* [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
-* [Intro to FS2 - Part 3: Concurrency](https://www.youtube.com/watch?v=8YxcB6PIUDg)
 * [Lawful Asynchronous Programming — Daniel Spiewak](https://www.youtube.com/watch?v=B0L91sW3XHw)
 * [Daniel Spiewak: Functional Async on the JVM - λC Winter Retreat 2017](https://www.youtube.com/watch?v=j9RHdnnl4T8)
 * [Asynchronous Programming and Scala](https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html)
@@ -198,6 +196,7 @@ Scala
 * [Programming with Actors (part 2)](https://www.youtube.com/watch?v=ilHW220JtGo)
 
 # Akka
+* [medium.com/tag/akka](https://medium.com/tag/akka)
 * Akka HTTP
   * [akka-http-extensions 0.0.1 released](https://groups.google.com/forum/#!topic/akka-user/FIYDmafoF-8)
   * [Akka HTTP server backend (experimental)](https://www.playframework.com/documentation/2.4.x/AkkaHttpServer)
@@ -260,6 +259,7 @@ Scala
 * [Akka and Kafka Webinar Build Powerful Concurrent & Distributed Applications](https://www.youtube.com/watch?v=sezp1YHg5RI)
 * [Effective Akka HTTP by Johannes Rudolph](https://www.youtube.com/watch?v=uxQta776jJI)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
+  * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
 * [Scala real life matters: when to use Akka and also RabbitMQ](https://www.signifytechnology.com/blog/2017/11/scala-real-life-matters-when-to-use-akka-and-also-rabbitmq)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
@@ -424,6 +424,11 @@ Scala
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
+* [fs2 - Compositional, streaming I/O library for Scala https://fs2.io ](https://github.com/functional-streams-for-scala/fs2)
+  * [Intro to Functional Streams for Scala (FS2)](https://www.youtube.com/watch?v=cahvyadYfX8)
+  * [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
+  * [Intro to FS2 - Part 3: Concurrency](https://www.youtube.com/watch?v=8YxcB6PIUDg)
+  * [A streaming library with a superpower: FS2 and functional programming](https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
