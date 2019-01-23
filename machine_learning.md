@@ -468,7 +468,6 @@ Machine Learning
 * [Convex Optimization 컨벡스 최적화](https://wikidocs.net/17052)
 * [Convex Optimization: Fall 2018](http://www.stat.cmu.edu/~ryantibs/convexopt/)
 * [머신러닝 단기집중과정 - 텐서플로우 API 사용 Google의 실용적인 머신러닝 속성 입문 과정](https://developers.google.com/machine-learning/crash-course/)
-* [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 * [Machine Learning for source code analysis - Alexander Bezzubov - FOSSASIA Summit 2017](https://www.youtube.com/watch?v=M_hOn-Ren1M)
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
 * **[머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)**
@@ -558,6 +557,8 @@ Machine Learning
 * [Free Code Friday - Better and Faster Machine Learning Classifiers in Python](https://www.youtube.com/watch?v=AA-bJmZak9Q)
 * [Solving A Simple Classification Problem with Python — Fruits Lovers’ Edition](https://towardsdatascience.com/solving-a-simple-classification-problem-with-python-fruits-lovers-edition-d20ab6b071d2)
 * [Types of classification algorithms in Machine Learning](https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14)
+* [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
+* [Music Genre Classification with Python A Guide to analysing Audio/Music signals in Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
