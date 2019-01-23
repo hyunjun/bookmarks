@@ -304,6 +304,7 @@ Data Science
 * [Comparison of top data science libraries for Python, R and Scala Infographic](https://www.datasciencecentral.com/profiles/blogs/comparison-of-top-data-science-libraries-for-python-r-and-scala)
 * [10 Data Science Tools I Explored in 2018 - New Languages, Libraries, and Services](https://towardsdatascience.com/10-data-science-tools-i-explored-in-2018-d8226f99f342)
 * [2018’s Top 7 Libraries and Packages for Data Science and AI: Python & R - This is a list of the best libraries and packages that changed our lives this year, compiled from my weekly digests](https://heartbeat.fritz.ai/top-7-libraries-and-packages-of-the-year-for-data-science-and-ai-python-r-6b7cca2bf000)
+* [The Five Best Frameworks for Data Scientists](https://medium.com/@ODSC/the-top-five-best-frameworks-for-data-scientists-6a0c42865755)
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
