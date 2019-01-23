@@ -278,6 +278,7 @@ Statistics
 * [How Bayesian statistics convinced me to hit the gym](https://towardsdatascience.com/how-bayesian-statistics-convinced-me-to-hit-the-gym-fa737b0a7ac)
 * [Naive Bayes Algorithm In Python](https://stepupanalytics.com/naive-bayes-algorithm-in-python/)
 * [베이즈 정리 Bayes' Theorem - rel. 신호와 소음](https://m.blog.naver.com/PostView.nhn?blogId=vinci22c&logNo=220346570972&scrapedType=1&scrapedLog=221359769710&scrapedOpenType=2)
+* [Bayes’ Theorem: The Holy Grail of Data Science](https://towardsdatascience.com/bayes-theorem-the-holy-grail-of-data-science-55d93315defb)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
