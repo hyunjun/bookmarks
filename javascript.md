@@ -311,6 +311,7 @@ Javascript
 * [브라우저에서 Date 객체를 사용하고 싶을 땐](https://medium.com/rainist-engineering/watch-out-to-use-javascript-date-a98ece6461dc)
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
+* [JavaScript Inheritance and the Prototype Chain](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
@@ -401,6 +402,7 @@ Javascript
 * [A Recap of Frontend Development in 2018](https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d)
 * [melon2genie; 멜론 플레이리스트를 기반으로 지니 앨범을 생성하는 앱](https://github.com/iamchanii/melon2genie)
 * [Delivery Tracker - 배송 조회 API 서비스](https://tracker.delivery/guide/)
+* [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1234,6 +1236,7 @@ Javascript
   * [18. 마무리](http://blog.jeonghwan.net/series/2018/12/17/node-web-18_summary.html)
   * [코드랩 시리즈를 마치고 느낀점](http://blog.jeonghwan.net/think/2018/12/22/codelab-review.html)
 * [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
+* [How to create a Node.js web app using no external packages](https://medium.freecodecamp.org/a-no-frills-guide-to-node-js-how-to-create-a-node-js-web-app-without-external-packages-a7b480b966d2)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1410,6 +1413,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [Learn React.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-react-js-from-top-50-articles-for-the-past-year-v-2019-baaacfc521c)
 * [React.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2018-8897aec7d59c)
 * [React.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-nov-2018-b346ae8e2947)
 * [React.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-oct-2018-1d2540bfbd7a)
@@ -1551,6 +1555,7 @@ Javascript
 * [Why React Hooks, and how did we even get here?](https://medium.freecodecamp.org/why-react-hooks-and-how-did-we-even-get-here-aa5ed5dc96af)
 * [syntax.fm/show/092/react-hooks](https://syntax.fm/show/092/react-hooks) podcast
 * [An Introduction to Hooks in React](https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react)
+* [Hook me up: Intro to React Hooks](https://blog.usejournal.com/react-hooks-death-of-classes-and-lifecycles-c8db5956558c)
 * [React 16.7 Hooks](https://slides.com/hyungjunkim-1/cosmee)
 * [Why React Hooks](http://dev-momo.tistory.com/entry/React-Hooks)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
@@ -1579,6 +1584,9 @@ Javascript
 * [React JS and React Native Handle Exceptions Gracefully In Production](https://hackernoon.com/react-js-and-react-native-handle-exceptions-gracefully-a12a2c3fc1cb)
 * [How to make complex problems easier by decomposing and composing](https://medium.freecodecamp.org/how-to-make-complex-problems-easier-by-decomposing-and-composing-be57ce230c49)
 * [React Render Props](https://hackernoon.com/react-render-props-4809fe8ca966)
+* [Cache your React event listeners to improve performance](https://hackernoon.com/cache-your-react-event-listeners-to-improve-performance-37bda57ac965)
+* [How to use React for e-commerce — and why it’s a good idea](https://medium.freecodecamp.org/how-to-use-react-for-e-commerce-and-why-its-a-good-idea-772006ad2e13)
+* [Fetching Crypto Price with React](https://hackernoon.com/fetching-crypto-price-with-react-3a49f41bf80c)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
