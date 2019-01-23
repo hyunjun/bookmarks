@@ -130,7 +130,7 @@ NLP
   * [Fighting Financial Fraud with Targeted Friction](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
   * [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
   * [Precision vs Recall](https://towardsdatascience.com/precision-vs-recall-386cf9f89488)
-	* [Comparison of the best NSFW Image Moderation APIs 2018](https://towardsdatascience.com/comparison-of-the-best-nsfw-image-moderation-apis-2018-84be8da65303)
+  * [Comparison of the best NSFW Image Moderation APIs 2018](https://towardsdatascience.com/comparison-of-the-best-nsfw-image-moderation-apis-2018-84be8da65303)
   * [Understand Classification Performance Metrics](https://becominghuman.ai/understand-classification-performance-metrics-cad56f2da3aa)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Repository for PyCon 2016 workshop Natural Language Processing in 10 Lines of Code](https://github.com/cytora/pycon-nlp-in-10-lines)

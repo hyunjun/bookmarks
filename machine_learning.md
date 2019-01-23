@@ -411,7 +411,7 @@ Machine Learning
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
   * [Learn Machine Learning from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-machine-learning-from-top-50-articles-for-the-past-year-v-2019-15842d0b82f6)
   * [Machine Learning Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-dec-2018-37b229f930a1)
-	* [Machine Learning Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-dec-2018-37b229f930a1)
+  * [Machine Learning Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-dec-2018-37b229f930a1)
   * [Machine Learning Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-nov-2018-ffdf1c5a9be9)
   * [Machine Learning Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-nov-2018-35f1fd88cb49)
   * [Machine Learning Top 10 Articles for the Past Month (v.Aug 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-aug-2018-c83eb92c0151)

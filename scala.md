@@ -320,9 +320,9 @@ Scala
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * Implicit
-	* [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
+  * [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
     * REPL parameter `-Xprint:typer`, REPL command `:javap`, reflection API
-	* [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
+  * [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
     * intelliJ에서 코드에 어떤 implicit이 적용되었는지 살펴보는 방법
 * List
   * `List.fill([length])([element])`
@@ -469,13 +469,13 @@ Scala
 * [ScalaMock: macros strike back](https://virtuslab.com/blog/scalamock-macros-strike-back/)
 * [Scorex - Ultra-compact cryptocurrency engine for hacking around within just 4K lines of Scala code](https://github.com/ConsensusResearch/Scorex-Lagonaki)
 * [shapeless - Generic programming for Scala](https://github.com/milessabin/shapeless)
-	* [Shapeless : not a tutorial - part 1](http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html)
-	* [Shapeless : not a tutorial - part 2](http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html)
-	* [Interlude: a simple type-level state machine](http://kanaka.io/blog/2016/04/25/interlude-typelevel-state-machine.html)
-	* [Learning Materials for generic & dependent programming using shapeless](https://gist.github.com/ikhoon/4e7feb6daf2d47a0261131421ed8c999)
+  * [Shapeless : not a tutorial - part 1](http://kanaka.io/blog/2015/11/09/shapeless-not-a-tutorial-part-1.html)
+  * [Shapeless : not a tutorial - part 2](http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html)
+  * [Interlude: a simple type-level state machine](http://kanaka.io/blog/2016/04/25/interlude-typelevel-state-machine.html)
+  * [Learning Materials for generic & dependent programming using shapeless](https://gist.github.com/ikhoon/4e7feb6daf2d47a0261131421ed8c999)
 * [Skinny-ORM](http://skinny-framework.org/)
 * [slick - Functional Relational Mapping for Scala](http://slick.typesafe.com/)
-	* [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
+  * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
