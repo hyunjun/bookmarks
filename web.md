@@ -444,6 +444,7 @@ Web
   * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 * [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
 * [HTTP GET 요청에 body를 붙여서 보내면 어떤 일이 벌어질까?](https://libsora.so/posts/http-get-request-with-body-and-http-library/)
+* [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
 
 # Scala
 * Finatra
