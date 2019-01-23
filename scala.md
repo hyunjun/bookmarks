@@ -489,6 +489,7 @@ Scala
 * [Deriving the Free Monad](http://underscore.io/blog/posts/2015/04/23/deriving-the-free-monad.html)
 * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
+* [How to write composable functions and correct programs](https://medium.freecodecamp.org/monadic-composition-and-kleisli-arrows-1d96979bb32)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
