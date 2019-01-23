@@ -106,6 +106,7 @@ SQL
 * [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
 * [다양한 조인(JOIN) 기법](http://blog.ngelmaum.org/entry/lab-note-sql-join-method)
 * [What's the difference between NOT EXISTS vs. NOT IN vs. LEFT JOIN WHERE IS NULL?](http://stackoverflow.com/questions/2246772/whats-the-difference-between-not-exists-vs-not-in-vs-left-join-where-is-null)
+* [All about SQL JOINs](https://hackernoon.com/all-about-sql-joins-ced19ecc4c1d)
 
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
