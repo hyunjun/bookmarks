@@ -1,6 +1,7 @@
 Git
 ===
-* [installation example](https://gist.github.com/hyunjun/5b3124a6110d5198e8cc)
+* [practice - installation](https://gist.github.com/hyunjun/5b3124a6110d5198e8cc)
+* [The Architecture and History of Git: A Distributed Version Control System](https://medium.com/@willhayjr/the-architecture-and-history-of-git-a-distributed-version-control-system-62b17dd37742)
 * [GitHub Engineering](http://githubengineering.com/)
 * [git - 간편 안내서](http://rkjun.undefined.kr/git-guide/index.ko.html)
 * [생활코딩 - GIT](https://opentutorials.org/course/1492)
