@@ -106,6 +106,10 @@
 * [Rust and the Three Laws of Informatics](https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b)
 * [The success of Go heralds that of Rust](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
 * [Things Rust doesn’t let you do](https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5)
+* Scala Developer Journey into Rust
+  * [Part 1 : Introduction](http://blog.madhukaraphatak.com/rust-scala-part-1/)
+  * [Part 2 : Type Inference](http://blog.madhukaraphatak.com/rust-scala-part-2/)
+  * [Part 3: Expression Based Language](http://blog.madhukaraphatak.com/rust-scala-part-3/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
