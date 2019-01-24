@@ -90,7 +90,7 @@ Programming Books
   * 한라 005.1 코34알
 * Programming challenges : 알고리즘 트레이닝 북
   * 한라 005.1-스878ㅍ
-* (NOT YET) [알고리즘 트레이닝: 자료 구조, 알고리즘 문제 해결 핵심 노하우](http://www.insightbook.co.kr/11923)
+* (NOT YET) [알고리즘 트레이닝: 자료 구조, 알고리즘 문제 해결 핵심 노하우](https://blog.insightbook.co.kr/book/programming-insight/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D/)
   * 2017.07 한라
 * (NOT YET) [처음 만나는 알고리즘](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791185890821&orderClick=LAH&Kc=)
   * 2017.07 한라
@@ -208,7 +208,7 @@ Programming Books
 
 * 클로저 프로그래밍의 즐거움
   * 한라 005-포14ㅋ
-* [클로저 시작하기: 기본 개념과 7주 훈련 프로그램](http://www.insightbook.co.kr/10678)
+* [클로저 시작하기: 기본 개념과 7주 훈련 프로그램](https://blog.insightbook.co.kr/2016/03/30/%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90%EA%B3%BC-7%EC%A3%BC-%ED%9B%88%EB%A0%A8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
   * 한라 005.135-마68ㅋ
   * clojure 1.8
   * 후반부의 7주 연습은 4clojure + clojure kata + heroku 웹 애플리케이션 배포 실습으로 구성
@@ -289,10 +289,11 @@ Programming Books
   * 엑셀 + R로 데이터과학 기초를 알려줌. 실습이 많아 좋을 듯
 * 빅데이터 시스템 구축 가이드
   * 한라 005.76 0152빅
-* **_밑바닥부터 시작하는 데이터 과학_**
+* **[밑바닥부터 시작하는 데이터 과학](https://blog.insightbook.co.kr/book/programming-insight/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99/)**
   * 한라 005.7 그296ㄷ
   * 여러가지 기초에 해당하는 부분들을 다룸
   * [밑바닥부터 시작하는 데이터 사이언스](https://github.com/insightbook/Data-Science-from-Scratch)
+  * [데이터 과학에 필요한 기초 이론과 프로그래밍, 두 마리 토끼를 모두 잡는 기본서](https://blog.insightbook.co.kr/2016/05/27/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%9D%B4%EB%A1%A0%EA%B3%BC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%91%90-%EB%A7%88/)
   * [밑바닥부터 시작하는 데이터 과학 ch.03 데이터 시각화](http://seokjoonyun.blogspot.com/2016/08/ch03.html)
   * [밑바닥부터 시작하는 딥러닝 - 3장(신경망)](http://astrod.github.io/2017/02/19/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D_%EC%8B%A0%EA%B2%BD%EB%A7%9D.html)
   * [딥러닝 - 오차역전파법](http://astrod.github.io/2017/03/19/%EC%98%A4%EC%B0%A8%EC%97%AD%EC%A0%84%ED%8C%8C%EB%B2%95(5%EC%9E%A5).html)
@@ -758,7 +759,7 @@ Programming Books
   * 탐라 문005.133-닐895ㅎ
   * 한라 005.136-포27ㅎ
   * java, closure, groovy, scala등 jvm 언어로 함수형으로 사고를 전환하는 이야기
-* **_[Practical 자바 유틸리티: Git, 서브버전, 메이븐, 그레이들, JUnit, 트랙, 젠킨스, JMeter](http://www.insightbook.co.kr/%EB%8F%84%EC%84%9C-%EB%AA%A9%EB%A1%9D/programming-insight/practical-%EC%9E%90%EB%B0%94-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-git-%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84-%EB%A9%94%EC%9D%B4%EB%B8%90-%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4-junit-%ED%8A%B8)_**
+* **[Practical 자바 유틸리티: Git, 서브버전, 메이븐, 그레이들, JUnit, 트랙, 젠킨스, JMeter](https://blog.insightbook.co.kr/2016/09/21/practical-%EC%9E%90%EB%B0%94-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-git-%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84-%EB%A9%94%EC%9D%B4%EB%B8%90-%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4-junit-%ED%8A%B8/)**
   * 한라 005.1-장66ㅍ
   * 다루는 종류가 많고, 참고 서적이 없는 부분에 대한 건 참 좋음
   * 얼마나 자세할 지는 모르겠음 java를 계속 사용한다면 좋을 듯
@@ -858,7 +859,7 @@ Programming Books
 * 핵심 문법과 예제로 배우는 코틀린
   * 한라 005.115 이192ㅋ
   * 2장까지 기본 문법, 3~5장은 안드로이드 앱 개발
-* [커니의 코틀린](http://www.insightbook.co.kr/12254)
+* [커니의 코틀린](https://blog.insightbook.co.kr/2017/12/19/%EC%BB%A4%EB%8B%88%EC%9D%98-%EC%BD%94%ED%8B%80%EB%A6%B0/)
   * 2017.12
   * 한라 005.58 김883ㅋ
   * 1부 - 코틀린 언어, 2부 - 앱 개발로 진행
@@ -913,7 +914,7 @@ Programming Books
   * 2017.06 탐라 한라
 * [착한 수학 (Good Math)](https://youngjaekim.wordpress.com/2017/05/24/%EC%B0%A9%ED%95%9C-%EC%88%98%ED%95%99/)
   * 한라 410.4-추873ㅊ
-* [프로그래머를 위한 단단한 수학 책, 『CONCRETE MATHEMATICS 구체 수학』](http://www.insightbook.co.kr/12759)
+* [프로그래머를 위한 단단한 수학 책, 『CONCRETE MATHEMATICS 구체 수학』](https://blog.insightbook.co.kr/2018/04/09/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%88%98%ED%95%99-%EC%B1%85-%E3%80%8Econcrete-mathematics-%EA%B5%AC%EC%B2%B4-%EC%88%98%ED%95%99/)
   * 한라 413.5그294ㄱ
   * continuous + discrete = concrete. 이 책을 읽고 이해할 수 있다면 왠만한 problem solving 영역의 문제들은 해결할 수 있을 듯
 
@@ -1049,7 +1050,7 @@ Programming Books
 * [파이썬 코딩의 기술(Effective Python) 리뷰](https://emaren84.github.io/blog/archivers/effective-python-review)
 * [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6540908288)
   * 한라 005.74-맥878ㅍ
-* (NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](http://www.insightbook.co.kr/12162)
+* (NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](https://blog.insightbook.co.kr/2017/08/16/%ED%95%84%EC%9A%94%ED%95%9C-%EB%A7%8C%ED%81%BC-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%E3%80%8E%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC/)
   * 한라 005.133-젤75ㅍ
 * 파이썬을 활용한 데이터 길들이기
   * 한라 005.133 카78ㅍ
@@ -1102,7 +1103,7 @@ Programming Books
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
 * 고성능 파이썬
   * 한라 005.133고294ㄱ
-* **[실전 스케일링 파이썬 프로그래밍](http://www.insightbook.co.kr/12906)**
+* **[실전 스케일링 파이썬 프로그래밍](https://blog.insightbook.co.kr/2018/08/22/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%99%95%EC%9E%A5%EA%B3%BC-%EB%B6%84%EC%82%B0-%E3%80%8E%EC%8B%A4%EC%A0%84-%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-%ED%8C%8C/)**
   * 2018.09
   * 탐라 문005.133 단77ㅅ
   * [Build apps that scale to billions](https://scaling-python.com/)
@@ -1118,6 +1119,9 @@ Programming Books
 * (NOT YET) [마인크래프트와 함께 즐겁게 파이썬](http://bjpublic.tistory.com/314)
 * (NOT YET) 파이썬 핵심 개발자들과의 인터뷰 - 파이썬 커뮤니티 코어 개발자들이 말하는 파이썬의 과거, 현재 그리고 미래
 * (NOT YET) [파이썬 코딩도장](https://www.stomx.net/entry/Review-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9-%EB%8F%84%EC%9E%A5)
+* (NOT YET) [깐깐하게 배우는 파이썬 3](https://blog.insightbook.co.kr/2019/01/23/%EA%B9%90%EA%B9%90%ED%95%98%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-3/)
+  * [Learn-PYTHON-the-HARD-WAY 깐깐하게 배우는 파이썬 (한국어판) 3rd의 코드 연습](https://github.com/junshoong/Learn-PYTHON-the-HARD-WAY)
+  * [The code to Learn Python3 The Hard Way](https://github.com/youknowone/learn-python3-thw-code-ko)
 
 # R
 
