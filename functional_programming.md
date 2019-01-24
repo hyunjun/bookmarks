@@ -74,6 +74,7 @@ Functional Programming
   * [Part 5](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-5-c70adc9cf56a)
   * [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
 * [함수형 프로그래밍과 수학](https://www.youtube.com/playlist?list=PLO0V1hDjxSIfp4zDe_Y9lSuhHkkvCHrNb)
+* [Referential Transparency — Programming Word of the Day](https://medium.com/background-thread/referential-transparency-programming-word-of-the-day-afc31101488c)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -115,7 +116,8 @@ Functional Programming
   * [5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
   * [6 : No Locks or Synchronized Blocks](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-6-no-locks-or-synchronized-blocks-ea5a47644689)
   * [7 : Immutable Collections](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-7-immutable-collections-83ba78aaf4dd)
-* [vavr - A new powerful collection library saves us from source.stream().really("?").collect(sink()) pipelines](http://www.vavr.io/)
+* [VΛVΓ (Vavr, formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality](https://github.com/vavr-io/vavr)
+  * [vavr - A new powerful collection library saves us from source.stream().really("?").collect(sink()) pipelines](http://www.vavr.io/)
 
 # JavaScript
 * [JS 제너레이터와 함수형 프로그래밍](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%99%80-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-8bba6c2ce459)
@@ -155,6 +157,7 @@ Functional Programming
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [High-performance array transformations - This simple technique let’s you compose array `map`s and `filter`s in a nice and performant way](https://codeburst.io/high-performance-array-transformations-68aae138a5f2)
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
+* [A practical guide to writing more functional JavaScript](https://medium.freecodecamp.org/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
 * [Lenses - Composable Getters and Setters for Functional Programming](https://medium.com/javascript-scene/lenses-b85976cb0534)
   
 # Lambda
@@ -217,6 +220,7 @@ Functional Programming
 * [Functional programming and Spark: do they mix?](https://www.iravid.com/posts/fp-and-spark.html)
 * [Let’s Code Real World App Using Purely Functional Techniques (in Scala)](https://www.youtube.com/watch?v=m40YOZr1nxQ)
 * [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
+* **[Switching from OOP to Functional Programming](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)** scala, haskell 예제로 설명
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)

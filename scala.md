@@ -428,6 +428,7 @@ Scala
   * [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
   * [Intro to FS2 - Part 3: Concurrency](https://www.youtube.com/watch?v=8YxcB6PIUDg)
   * [A streaming library with a superpower: FS2 and functional programming](https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a)
+  * [Where is the llama for FS2?](https://blog.softwaremill.com/where-is-the-llama-for-fs2-34a76f0c1e7e)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
@@ -496,6 +497,7 @@ Scala
 * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 * [How to write composable functions and correct programs](https://medium.freecodecamp.org/monadic-composition-and-kleisli-arrows-1d96979bb32)
+* [A Guide to Scala Collections: Exploring Monads in Scala Collections](https://blog.redelastic.com/a-guide-to-scala-collections-exploring-monads-in-scala-collections-ef810ef3aec3)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
