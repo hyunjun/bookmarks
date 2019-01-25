@@ -450,10 +450,12 @@ TensorFlow
 * [TF Jam — Shooting Hoops with Machine Learning](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32)
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
+* [Keras 기반의 표준화: TensorFlow 2.0의 고수준 API에 대한 안내](https://developers-kr.googleblog.com/2019/01/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0.html)
 * [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
 * AutoGraph
   * [AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)](https://www.youtube.com/watch?v=jh4ITuOytE4)
   * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7)
+* [2018년 샌프란시스코에서 열린 O’Reilly AI 컨퍼런스의 TensorFlow 세션 녹화 자료](https://developers-kr.googleblog.com/2019/01/tensorflow-session-recordings-from-oreilly-ai-conference-san-francisco.html)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -647,6 +649,7 @@ TensorFlow
   * [Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow](https://medium.com/tensorflow/introducing-tensorflow-hub-a-library-for-reusable-machine-learning-modules-in-tensorflow-cdee41fa18f9)
   * [TensorFlow.Data 및 TensorFlow Hub](https://www.slideshare.net/inureyes/tensorflowdata-tensorflow-hub)
   * [How to use TensorFlow Hub with code examples](https://medium.com/ymedialabs-innovation/how-to-use-tensorflow-hub-with-code-examples-9100edec29af)
+  * [새로운 TensorFlow Hub 웹 경험](https://developers-kr.googleblog.com/2019/01/a-new-tensorflow-hub-web-experience.html)
 * [TensorFlow.js](https://js.tensorflow.org/)
   * [github.com/zaidalyafeai/tensorflowjs-binary](https://github.com/zaidalyafeai/tensorflowjs-binary)
   * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
