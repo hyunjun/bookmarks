@@ -48,6 +48,8 @@ Scala
 * [Coursera's & EPFL's Scala Spark Big Data course](https://github.com/TomLous/coursera-scala-spark-big-data)
 * [Scala Koans](https://github.com/rubbish/scala-koans)
 * [A 10-Minute Introduction to Scala](https://hackernoon.com/a-10-minute-introduction-to-scala-d1fed19eb74c)
+* [(a little bit of) Scala in 6 minutes](https://medium.com/@graziettahof/a-6-minute-intro-to-scala-81677fda2093)
+* [Scala Programming — A Skeptic’s Journey](https://medium.com/skedulo-engineering/scala-programming-a-skeptics-journey-ac680053780f)
 * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
 * [scala center -  For open source. For education.  A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [Nine Reasons to Try Scala](https://www.vidyasource.com/tutorial/nine-reasons-to-try-scala/)
@@ -92,7 +94,6 @@ Scala
 * [Ant colony optimization in Scala](http://blog.haberkucharsky.com/technology/2015/10/12/travelling-ants.html)
 * [SBTB 2015: Li Haoyi, A Better Scala REPL?](https://www.youtube.com/watch?v=dP5tkmWAhjg)
 * [Adventures in financial and software engineering](https://falconair.github.io/2015/01/30/composingcontracts.html)
-* [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
 * [ScalaSyd EP39 - 01. i18n à la gettext by Ngoc Dao (Aug 2015)](https://www.youtube.com/watch?v=q8rcSbVI8ag&list=PL16MLkuOzPTxHYOddkn2lyBSFNy9-bBRx)
   * [Episode 42](http://www.meetup.com/en-AU/scalasyd/events/228487518/)
 * [ScalaSyd Ep57](https://www.youtube.com/playlist?list=PL16MLkuOzPTztCWCtSakcvtMKU95AWMLb)
@@ -185,6 +186,10 @@ Scala
 * [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
 * [Essential Scala: Six Core Principles for Learning Scala](https://www.youtube.com/watch?v=J8wUy1XxL5o)
 * [github.com/ikhoon/scala-note](https://github.com/ikhoon/scala-note)
+* [How to turn ugly Java APIs into elegant, type-safe Scala APIs](https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2)
+* [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
+* [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
+* [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -299,6 +304,7 @@ Scala
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
+* [Option, Either, State, and IO: Imperative programming in a functional world](https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81)
 * practice
   * [example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
   * [permutation by recursive call](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-permutation_in_scala-md)
@@ -367,6 +373,7 @@ Scala
 * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
 * test
   * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
+  * [Tagless with Discipline — Testing Scala Code The Right Way](https://medium.com/iterators/tagless-with-discipline-testing-scala-code-the-right-way-e74993a0d9b1)
   * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
     * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
     * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
@@ -404,6 +411,8 @@ Scala
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
+* [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
+  * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
@@ -411,7 +420,6 @@ Scala
   * [herding cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
   * [Meow! Start using Cats in your project right now](https://virtuslab.com/blog/cats-library/)
   * [Scala with Cats Book](https://underscore.io/books/scala-with-cats/)
-* [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
@@ -455,7 +463,7 @@ Scala
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
   * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
-* [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
+* scalafmt [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
   * [마이크로 벤치마킹 툴 - scala meter 예제](http://knight76.tistory.com/entry/scala-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%ED%88%B4-scala-meter-%EC%98%88%EC%A0%9C)
@@ -465,10 +473,10 @@ Scala
   * [The Magic Behind Parser Combinators](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators)
   * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
   * [Scala Parser Combinator로 CSV 파싱하기](https://rhymeofcode.wordpress.com/2015/12/30/scala-parser-combinator%EB%A1%9C-csv-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0/)
+* [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
-* [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
 * [scalding](https://github.com/twitter/scalding)
   * [Scalding: Scala로 하는 Big Data Processing](http://readme.skplanet.com/?p=10170)
 * [ScalikeJDBC Just write SQL and get things done!](http://scalikejdbc.org/)
@@ -487,6 +495,14 @@ Scala
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
+
+## Logging Library
+* [airframe-log is a library for enhancing your Scala application logging with colors and source code locations](https://wvlet.org/airframe/docs/airframe-log.html)
+  * [Airframe Log: A Modern Logging Library for Scala](https://medium.com/airframe/airframe-log-a-modern-logging-library-for-scala-56fbc2f950bc)
+* [Logback - intended as a successor to the popular log4j project](https://logback.qos.ch/)
+  * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
+* [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
+* [scribe - Practical logging framework that doesn't require any other logging framework and can be completely configured programmatically](https://github.com/outr/scribe)
 
 # Monad
 * [Monad Programming with Scala Future](http://tech.kakao.com/2016/03/03/monad-programming-with-scala-future/)
@@ -542,6 +558,8 @@ Scala
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
+	* [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
+	* [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
 
 # Scala.js
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
