@@ -41,3 +41,4 @@ House
 * **[부동산 시장의 신호와 소음](https://brunch.co.kr/@charlieoppa86/33)**
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
 * [집 구할 때 주의할 점](https://imgur.com/a/3eCbRa2)
+* [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
