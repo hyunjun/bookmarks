@@ -659,6 +659,7 @@ Clojure
 * [spec-coerce - A Clojure(script) library designed to leverage your specs to coerce your information into correct types](https://github.com/wilkerlucio/spec-coerce) core.spec에 빠진 coerce(강제 형변환) 기능 보완 가능
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
+* [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
