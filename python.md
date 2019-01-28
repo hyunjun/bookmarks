@@ -1802,6 +1802,8 @@ Python
       * might need to execute after `sudo -i`
     * [jjhelmus](https://conda.anaconda.org/jjhelmus)
     * [파이선 가상환경 콘다 시작하기](https://graspthegist.com/python/2017/01/18/learn-conda.html)
+    * [아나콘다 가상환경](https://jybaek.tistory.com/773)
+      * [conda connector - conda Enables you to move freely around the environment](https://github.com/jybaek/conda_connector)
     * [practice - 다른 버전의 파이썬 설치하고 사용하기](https://gist.github.com/hyunjun/07ea5ce941bc008cc586#gistcomment-2236236)
     * **[How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)**
       * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
@@ -2086,6 +2088,8 @@ Python
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
   * [numba - 성능 업!](http://pythonkim.tistory.com/95)
   * [Numba - Numpy Aware Dynamic Python Compiler Using LLVM](https://www.techleer.com/articles/539-numba-numpy-aware-dynamic-python-compiler-using-llvm/)
+  * [High Performance Data Processing in Python || Donald Whyte](https://www.youtube.com/watch?v=nmYyISMdOqY) numpy & numba
+    * [High Performance Data Processing in Python](https://github.com/DonaldWhyte/high-performance-data-processing-in-python)
 * [Nuitka - the extremely compatible Python compiler](http://nuitka.net/)
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
