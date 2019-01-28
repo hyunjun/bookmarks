@@ -8,7 +8,6 @@ R
 * [pubdata.tistory.com/category/Lecture_R](http://pubdata.tistory.com/category/Lecture_R)
 * [SAS vs. R (vs. Python) – which tool should I learn?](http://www.analyticsvidhya.com/blog/2014/03/sas-vs-vs-python-tool-learn/)
 * [bcho.tistory.com/category/빅데이타/R](http://bcho.tistory.com/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%83%80/R)
-* [New York R conference](http://www.rstats.nyc/)
 * [Choosing R or Python for data analysis? An infographic](http://blog.datacamp.com/r-or-python-for-data-analysis/)
   * [R vs. Python](http://i0.wp.com/blog.datacamp.com/wp-content/uploads/2015/05/R-vs-Python-216-2.png)
 * [R vs Python part 1 why R?](https://www.youtube.com/watch?v=ZIUcI_OYbd8)
@@ -23,7 +22,6 @@ R
 * [Multi-threaded R](http://www.popit.kr/multi-threaded-r/)
 * [R IN A 64 BIT WORLD](http://www.win-vector.com/blog/2015/06/r-in-a-64-bit-world/)
 * [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
-* [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
 * [useR!2017 Roundup](https://www.r-bloggers.com/user2017-roundup/)
 * [European R Users Meeting](http://2018.erum.io/)
   * [eRum 2018 Tuesday - nagyHall](https://www.youtube.com/watch?v=9nuxlqXAmmc)
@@ -108,8 +106,6 @@ R
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 * [Learn R Programming Language The Definitive Guide](http://www.programiz.com/r-programming)
 * **[Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post)**
-* [r-kor.org](http://r-kor.org/)
-  * [오픈 데이터 기반 사회로의 실험](http://event.r-kor.org/) R conference
 * [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](https://www.r-bloggers.com/why-type-1-errors-are-more-important-than-type-2-errors-if-you-care-about-evidence/)
 * [NumPy for R (and S-Plus) users](http://mathesaurus.sourceforge.net/r-numpy.html)
 * Credit Risk Modeling in R
@@ -301,7 +297,15 @@ R
 * [Text Mining with R](http://tidytextmining.com/)
 
 # Conference
+* [New York R conference](http://www.rstats.nyc/)
 * [R/Finance](http://www.rinfinance.com/)
+* [r-kor.org](http://r-kor.org/)
+  * [오픈 데이터 기반 사회로의 실험](http://event.r-kor.org/) R conference
+* [rstudio::conf 2019](https://resources.rstudio.com/rstudio-conf-2019)
+  * [Agenda](http://www.cvent.com/events/rstudio-conf-austin/agenda-dd6d75526f3c4554b67c4de32aeffb47.aspx)
+  * [Links to slides from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides)
+  * [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
+* [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
 
 # Installation
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
