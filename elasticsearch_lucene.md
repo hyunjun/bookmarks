@@ -252,6 +252,7 @@ ElasticSearch - Lucene
 * [Aftershock Therapy with Elasticsearch and CSV Data Import](https://www.elastic.co/kr/blog/aftershock-therapy-with-elasticsearch-and-csv-data-import)
 * [Infrastructure and Logs UI: New ways for Ops to interact with Elasticsearch](https://www.elastic.co/blog/infrastructure-and-logs-ui-new-ways-for-ops-to-interact-with-elasticsearch)
 * **[G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)** G1 GC vs. CMS GC
+* [Elastic Maps Service 한국지도 추가](http://kimjmin.net/2019/01/2019-01-korea-region-map/)
 
 # Docker
 * Dockerfile
