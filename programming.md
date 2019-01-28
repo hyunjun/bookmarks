@@ -367,6 +367,7 @@ Programming
 * [상품 정보 관리 라이브사이클 정의](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%82%AC%EC%9D%B4%ED%81%B4-%EC%A0%95%EC%9D%98/)
 * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
 * [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance) 대규모 서비스를 설계하는 기술 - 중급(일반편)
+* [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -742,6 +743,7 @@ Programming
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
 * [오늘의 질문 2018.12.18](https://jojoldu.tistory.com/363) 디버깅에 대한 창천향로님 의견
+
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
 * [야크쉐이빙 – 데브옵스 (DevOps) 고민하기](http://www.venturesquare.net/708190)
@@ -769,6 +771,7 @@ Programming
 * [What DevOps Really Means](https://medium.com/verifa/what-devops-really-means-54f6ee8f68f1)
 * [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
 * [DevOps 오픈소스 트랜드 (클라우드, 모바일 중심)](https://www.slideshare.net/arload/devops-125948933/arload/devops-125948933)
+* [Devops를 위한 인터뷰 문제](http://jhrogue.blogspot.com/2019/01/b-devop.html)
 
 # Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
