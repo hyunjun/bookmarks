@@ -128,7 +128,6 @@
   * [비트윈 데이터팀의 Spark Summit EU 2017 참가기](http://engineering.vcnc.co.kr/2017/12/spark-summit-eu-2017/)
   * [2018-spark-summit-ai-keynotes-2](https://databricks.com/sparkaisummit/north-america/2018-spark-summit-ai-keynotes-2)
   * [Netflix at Spark+AI Summit 2018](https://medium.com/netflix-techblog/netflix-at-spark-ai-summit-2018-5304749ed7fa)
-  * [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
 * [Spark RDD Operations-Transformation & Action with Example](https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/)
@@ -688,6 +687,7 @@
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
 * [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+* [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
 
 # Spark SQL
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
