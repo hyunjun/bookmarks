@@ -754,6 +754,7 @@ Javascript
   * [ELECTRON: State of the Universe](https://www.youtube.com/watch?v=LUBVQvebHC4)
   * [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
   * [Build a File Metadata App in Electron](https://codeburst.io/build-a-file-metadata-app-in-electron-a0fe8d32410e)
+  * [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -1322,6 +1323,7 @@ Javascript
 * [Puppeteer: Headless Chrome용 Node.js 라이브러리](https://blog.outsider.ne.kr/1318)
   * [How CodeSandbox uses Puppeteer & Jest to test sandbox functionality](https://hackernoon.com/how-codesandbox-uses-puppeteer-jest-to-test-sandbox-functionality-17068b3bd23b)
   * [Testing your React App with Puppeteer and Jest](https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59)
+  * [web scraping with puppeteer](https://engineering.huiseoul.com/web-scraping-with-puppeteer-1571d4f25d2b)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
