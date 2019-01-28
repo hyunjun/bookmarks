@@ -3,6 +3,7 @@ Scala
 * [lightbend.com](https://www.lightbend.com/)
 * [Awesome Scala](https://github.com/lauris/awesome-scala)
 * [medium.com/tag/scala](https://medium.com/tag/scala)
+* [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
 * [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
@@ -324,10 +325,17 @@ Scala
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * Implicit
+  * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
+  * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
+  * [WHERE DOES SCALA LOOK FOR IMPLICITS?](https://docs.scala-lang.org/tutorials/FAQ/finding-implicits.html)
   * [Debugging implicits](http://virtuslab.com/blog/debugging-implicits/)
     * REPL parameter `-Xprint:typer`, REPL command `:javap`, reflection API
   * [Making Implicits Explicit — Scala](https://medium.com/@jooyunghan/making-implicits-explicit-scala-8816dcf9487f)
     * intelliJ에서 코드에 어떤 implicit이 적용되었는지 살펴보는 방법
+  * [Implicits mechanism in Scala](https://akmetiuk.com/posts/2017-05-12-implicits.html)
+  * [Euro from Dollar](https://github.com/braidenjudd/scala-labs/blob/master/labs/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala)
+  * implicit object [Not able to find implicit from object](https://stackoverflow.com/questions/44986145/scala-not-able-to-find-implicit-from-object)
+  * [Implicit Conversions in Scala](https://dzone.com/articles/implicit-conversions-scala)
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
@@ -338,9 +346,12 @@ Scala
     * [GSON with Scala: Scala scala.collection.mutable.HashMap vs. java.util.HashMap](http://stackoverflow.com/questions/15311813/gson-with-scala-scala-scala-collection-mutable-hashmap-vs-java-util-hashmap) didn't work
     * [GSON with Scala - Unable to invoke no-args constructor for scala.collection.immutable.Map](http://stackoverflow.com/questions/15311582/gson-with-scala-unable-to-invoke-no-args-constructor-for-scala-collection-immu) didn't work
     * [Scala Gson Serializer](https://gist.github.com/raelg/e12d731ba01ba58f0006)
+* math
+  * `ceil`, `floor` [how to round up a number if its not an integer (scala)](https://stackoverflow.com/questions/32298393/how-to-round-up-a-number-if-its-not-an-integer-scala)
 * Option
   * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)
+  * [The Known Unknown: Working with Option and Nullable Types](https://medium.com/digitalfrontiers/the-known-unknown-working-with-option-and-nullable-types-b342a0e787de)
 * par
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * reflection
@@ -455,6 +466,7 @@ Scala
   * [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
+* [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
