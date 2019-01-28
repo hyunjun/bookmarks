@@ -323,6 +323,7 @@ Java
 * [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 * [클린 코드를 위한 TDD (Test-Driven Development for Clean Code)](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
+
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
@@ -332,6 +333,8 @@ Java
 * [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
 * [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
 * [JDK8 적용 후, 심각한 성능저하가 발생한다면? Full GC가 제대로 되지 않는다면?](https://brunch.co.kr/@heracul/1) `MaxMetaspaceSize`
+* [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
+  * 여러가지 GC algorithm 기본 동작 방식 소개
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 * [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
@@ -630,6 +633,7 @@ Java
   * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
   * [Spring Boot Data Jpa 프로젝트에 Querydsl 적용하기](https://jojoldu.tistory.com/372)
   * [Querydsl 서브쿼리 사용하기](https://jojoldu.tistory.com/379)
+  * [Querydsl 다이나믹 쿼리 사용하기](https://jojoldu.tistory.com/394)
   * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
   * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
   * [스프링부트로 쇼핑몰 만들기 - 3주차](https://jojoldu.tistory.com/393)
