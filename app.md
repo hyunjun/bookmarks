@@ -307,7 +307,6 @@ App
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
-* [Notion - Documents reimagined. Beautiful. Lightweight. Always organized. Notion is an expressive and collaborative document editor that gives your ideas a place to grow](http://early-access.notion.so/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
@@ -603,6 +602,8 @@ App
 * [dddraft.com](http://dddraft.com/)
 * [Dynalist - The best outlining app for your best work](https://dynalist.io/)
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
+* [joplin](https://joplin.cozic.net/)
+  * [Get started with Joplin, a note-taking app](https://opensource.com/article/19/1/productivity-tool-joplin)
 * [notebooksapp.com](http://www.notebooksapp.com/)
 * [notion - All-in-one workspace](https://www.notion.so)
   * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
