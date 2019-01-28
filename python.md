@@ -2441,6 +2441,7 @@ Python
   * [pyenv와 virtualenv를 사용한 파이썬 개발환경 구성](https://lhy.kr/configuring-the-python-development-environment-with-pyenv-and-virtualenv)
   * [Python Virtual(Isolated) Environments](http://www.sauru.so/blog/python-virtualenv-and-venv/)
   * [파이썬 가상환경(virtualenv)만들기](http://pentode.tistory.com/127)
+  * [Python Virtual Environments made easy](https://towardsdatascience.com/python-virtual-environments-made-easy-fe0c603fe601)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
