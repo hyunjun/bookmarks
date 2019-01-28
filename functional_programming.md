@@ -75,6 +75,7 @@ Functional Programming
   * [Part 6](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-6-db502830403)
 * [함수형 프로그래밍과 수학](https://www.youtube.com/playlist?list=PLO0V1hDjxSIfp4zDe_Y9lSuhHkkvCHrNb)
 * [Referential Transparency — Programming Word of the Day](https://medium.com/background-thread/referential-transparency-programming-word-of-the-day-afc31101488c)
+* [Functional 360 Archives](https://www.cirstei.ro/archive.html) haskell, scala, clojure, F#에 대한 주간 뉴스
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
