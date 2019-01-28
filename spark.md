@@ -335,6 +335,7 @@
 * Python vs. Scala
   * [a comparison of the basic commands (Part I)](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
   * [Pandas vs. Spark: how to handle dataframes (Part II)](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
+* [Points to remember while processing streaming timeseries data in order using Kafka and Spark](https://medium.com/@sathishjayaram/tips-for-processing-streaming-timeseries-data-in-order-using-kafka-and-spark-2e07cf5e4256)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -344,6 +345,7 @@
 * [The RDD API By Example](http://homepage.cs.latrobe.edu.au/zhe/ZhenHeSparkRDDAPIExamples.html)
 * [backtobazics.com/category/big-data/spark](http://backtobazics.com/category/big-data/spark/) example of API
 * [APACHE SPARK: RDD, DATAFRAME OR DATASET?](http://www.agildata.com/apache-spark-rdd-vs-dataframe-vs-dataset/)
+* [Learn Spark Scala with Clara: RDD](https://medium.com/@onsbouneb1/learn-spark-scala-with-clara-rdd-9395bd01cd52)
 * [Apache Spark’s Hidden REST API](http://arturmkrtchyan.com/apache-spark-hidden-rest-api)
 * aggregate
 
