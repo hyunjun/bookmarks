@@ -385,6 +385,8 @@ Machine Learning
 * [Io17ex automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
 * [Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
 * [AdaNet 소개: 학습 보장을 이용한 빠르고 유연한 AutoML](https://developers-kr.googleblog.com/2019/01/introducing-adanet-fast-and-flexible.html)
+* [An Opinionated Introduction to AutoML and Neural Architecture Search](https://www.fast.ai/2018/07/16/auto-ml2/)
+* [AutoML Automatic Machine Learning Challenge & Lessons](http://slides.com/streguer/automl/fullscreen)
 * [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
 * [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
 * [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a.html)
