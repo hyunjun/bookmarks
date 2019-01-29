@@ -273,6 +273,7 @@ Machine Learning
 * [Approaching (Almost) Any Machine Learning Problem](https://www.linkedin.com/pulse/approaching-almost-any-machine-learning-problem-abhishek-thakur)
 * [정보 이론: Information Theory 1편](https://brunch.co.kr/@chris-song/68)
 * [정보 이론 2편: KL-Divergence](https://brunch.co.kr/@chris-song/69)
+* [가장 쉬운 KL Divergence 완전정복!](https://www.youtube.com/watch?v=Dc0PQlNQhGY)
 * [딥러닝의 미래와 인간수준 기계학습](https://www.youtube.com/watch?v=iJJL8ibnAGY)
 * [기계학습(Machine learning) 입문하기 강의](https://www.youtube.com/watch?v=j3za7nv7RfI)
 * [휴먼 러닝 #1 : 보고 나면 더 궁금해지는 머신 러닝 학습 노트](https://www.youtube.com/watch?v=CRaKdnk2W9c)
