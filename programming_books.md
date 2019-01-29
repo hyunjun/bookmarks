@@ -1264,6 +1264,7 @@ Programming Books
   * 2.0 version
 * (NOT YET) [대용량 머신 러닝과 스파크빅데이터 기반의 머신 러닝 애플리케이션 구축](http://book.daum.net/detail/book.do?bookid=KOR9791161751771)
   * 2018.10 한라
+* (NOT YET) [빅데이터 분석을 위한 스칼라와 스파크](http://acornpub.co.kr/book/scala-spark-big-data)
 
 # Statistics
 
