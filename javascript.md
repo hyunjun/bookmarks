@@ -1416,6 +1416,7 @@ Javascript
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
 * [Learn React.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-react-js-from-top-50-articles-for-the-past-year-v-2019-baaacfc521c)
+* [React.js Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-dec-2018-2476c17b70d1)
 * [React.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2018-8897aec7d59c)
 * [React.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-nov-2018-b346ae8e2947)
 * [React.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-oct-2018-1d2540bfbd7a)
