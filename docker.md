@@ -585,6 +585,8 @@ Docker
 * [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
+* **[jupyter-repo2docker](https://repo2docker.readthedocs.io)**
+  * [Docker for Data Science Without the Hassle](https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * ksonnet
