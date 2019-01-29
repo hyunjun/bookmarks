@@ -256,6 +256,7 @@ Javascript
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
   * [Learn JavaScript from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)
   * [JavaScript Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2018-a950852e96f3)
+  * [JavaScript Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-dec-2018-c69e110a54d3)
   * [JavaScript Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-nov-2018-781044d43aed)
   * [JavaScript Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-nov-2018-94656d70774f)
   * [JavaScript Open Source of the Month (v.July 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-july-2018-626eee418a74)
@@ -403,6 +404,7 @@ Javascript
 * [melon2genie; 멜론 플레이리스트를 기반으로 지니 앨범을 생성하는 앱](https://github.com/iamchanii/melon2genie)
 * [Delivery Tracker - 배송 조회 API 서비스](https://tracker.delivery/guide/)
 * [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
+* [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1147,6 +1149,7 @@ Javascript
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
 * [Node.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-dec-2018-89be607bdc44)
+* [Node.js Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-dec-2018-c23c9de324f3)
 * [Node.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-nov-2018-19b25a638588)
 * [Node.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-oct-2018-a2cc391c3003)
 * [Node.js Open Source of the Month (v.Aug 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-aug-2018-a3093d14943c)
@@ -1590,6 +1593,7 @@ Javascript
 * [Cache your React event listeners to improve performance](https://hackernoon.com/cache-your-react-event-listeners-to-improve-performance-37bda57ac965)
 * [How to use React for e-commerce — and why it’s a good idea](https://medium.freecodecamp.org/how-to-use-react-for-e-commerce-and-why-its-a-good-idea-772006ad2e13)
 * [Fetching Crypto Price with React](https://hackernoon.com/fetching-crypto-price-with-react-3a49f41bf80c)
+* [A Complete React Boilerplate Tutorial — From Zero to Hero](https://medium.freecodecamp.org/a-complete-react-boilerplate-tutorial-from-zero-to-hero-20023e086c4a)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1759,14 +1763,15 @@ Javascript
 # Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
+* [Simply JavaScript: a straightforward intro to Mocking, Stubbing, and Interfaces](https://medium.freecodecamp.org/simply-javascript-a-straightforward-intro-to-mocking-stubbing-and-interfaces-14e67ed6641a)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
+* Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
-* [Simply JavaScript: a straightforward intro to Mocking, Stubbing, and Interfaces](https://medium.freecodecamp.org/simply-javascript-a-straightforward-intro-to-mocking-stubbing-and-interfaces-14e67ed6641a)
 
 # Typescript
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV)
