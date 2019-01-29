@@ -15,6 +15,7 @@ R
 * [Ending the R vs Python war](https://www.youtube.com/watch?v=JkgsqIw8gPs)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * **[R을 활용한 머신러닝](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)**
+* [A Guide to Machine Learning in R for Beginners: Logistic Regression](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)
 * [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism)
 * [Parallelism, R, and OpenMP](http://wrathematics.github.io/RparallelGuide/)
 * [GPU-Accelerated R in the Cloud with Teraproc Cluster-as-a-Service](http://devblogs.nvidia.com/parallelforall/gpu-accelerated-r-cloud-teraproc-cluster-service/)
