@@ -364,6 +364,7 @@ Programming
 * [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 * [EAI, ESB, API 게이트 웨이,서비스 매쉬](http://bcho.tistory.com/1292)
 * [커머스 혹은 유통 도메인 설계에 대한 연작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91)
+* [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
 * [상품 정보 관리 라이브사이클 정의](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%82%AC%EC%9D%B4%ED%81%B4-%EC%A0%95%EC%9D%98/)
 * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
 * [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance) 대규모 서비스를 설계하는 기술 - 중급(일반편)
