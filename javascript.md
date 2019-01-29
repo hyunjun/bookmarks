@@ -492,7 +492,7 @@ Javascript
 * [D3.js 이용한 식신로드: 역대 서울지역 만점 맛집 시각화](http://slownews.kr/43212)
 * [Understanding the Force](https://medium.com/@sxywu/understanding-the-force-ef1237017d5)
 * [d3 Legend](http://d3-legend.susielu.com/)
-* [Chemlambda is a graph rewriting system derived from graphic lambda calculus [1] which can be seen as a simple model of chemical or biological computing](http://chorasimilarity.github.io/chemlambda-gui/dynamic/bigpred.html#)
+* [Chemlambda is a graph rewriting system derived from graphic lambda calculus 1 which can be seen as a simple model of chemical or biological computing](http://chorasimilarity.github.io/chemlambda-gui/dynamic/bigpred.html#)
 * [Story-Boarding in a D3.js dashboard using Intro.js](https://anmolkoul.wordpress.com/2015/07/24/story-boarding-in-a-d3-js-dashboard-using-intro-js/)
 * [Creating a dynamic d3 visualization from the GitHub API](http://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
 * [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
