@@ -209,6 +209,8 @@ Interview
   * [깃허브(GitHub), L4 로드 밸런서 GLB 디렉터 오픈소스로 공개](https://www.44bits.io/ko/post/news--github-release-glb-github-load-balancer-as-open-source)
   * [Rethinking Netflix’s Edge Load Balancing](https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c)
   * **[번역 최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)**
+  * [Scaling out load balancer devices and a backend network device](https://serverfault.com/questions/951086/scaling-out-load-balancer-devices-and-a-backend-network-device)
+    * DB 샤드 갯수도, 웹서버 클러스터도 너무 많다고 가정. 그들간의 네트워킹을 이어주는 장치(스위치 허브 등)에 과부하가 걸리면 어떻게 수평확장?
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
