@@ -1676,6 +1676,8 @@ Python
 * [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [국가수리과학연구소 JupyterHub 구축 보고](https://www.evernote.com/shard/s57/sh/bd6487f7-a24a-4433-a2a3-57afcc1ab406/57f959ee35d6db385e60ee07e18f6639)
 * [Multi-user server for Jupyter notebooks https://jupyterhub.readthedocs.io ](https://github.com/jupyterhub/jupyterhub)
+* [다중 사용자를 위한 Jupyterhub 설치 Install jupyterhub for multi-user](https://metamath1.github.io/2018/12/24/jupyterhub.html)
+* [Deploying JupyterHub with Kubernetes - Camilla Montonen](https://www.youtube.com/watch?v=uiLUmuecU7I)
 * [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
@@ -1709,7 +1711,6 @@ Python
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
 * [주피터 노트북 익스텐션을 활용하여 생산성 높이기](https://junpyopark.github.io/Jupyter_Extension/)
 * **[Installing Python Packages from a Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)**
-* [다중 사용자를 위한 Jupyterhub 설치 Install jupyterhub for multi-user](https://metamath1.github.io/2018/12/24/jupyterhub.html)
 * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
 * [파이썬 기초 강좌 #6 Jupyter Notebook](https://www.youtube.com/watch?v=nLDylDLR1VU)
 * [How to Write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
