@@ -247,6 +247,7 @@ Machine Learning
   * [Feature Selection for Classification: A Review](http://eprints.kku.edu.sa/170/1/feature_selection_for_classification.pdf)
 * [What is Dim Reduction & Feature Selection](http://terryum.io/ml_theory,/ml_practice/2016/05/05/FeatureSelection/)
   * [차원축소와 특징선택이란 무엇인가](http://terryum.io/korean/2016/05/05/FeatureSelection_KOR/)
+* [A Feature Selection Tool for Machine Learning in Python](A Feature Selection Tool for Machine Learning in Python)
 * [Spring XD: The Foundation for Real-time Streaming and Machine Learning Systems](https://blog.pivotal.io/big-data-pivotal/products/spring-xd-the-foundation-for-real-time-streaming-and-machine-learning-systems)
 * [로보어드바이져를 개발하면서 알게 된 것들 1 – 알고리즘에 대한 환상](http://www.deepnumbers.com/index.php/2016/05/16/robo_adviser_1/)
 * [Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)
