@@ -775,6 +775,7 @@ Deep Learning
 * [Improving Vanilla Gradient Descent](https://towardsdatascience.com/improving-vanilla-gradient-descent-f9d91031ab1d)
 * [The Two Phases of Gradient Descent in Deep Learning](https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17)
 * [Machine Learning 101: An Intuitive Introduction to Gradient Descent](https://towardsdatascience.com/machine-learning-101-an-intuitive-introduction-to-gradient-descent-366b77b52645)
+* [Understanding the 3 Primary Types of Gradient Descent](https://medium.com/@ODSC/understanding-the-3-primary-types-of-gradient-descent-987590b2c36)
 * [Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 * [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)
