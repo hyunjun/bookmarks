@@ -688,6 +688,11 @@
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
 * [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
 * [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
+* [Using Native Math Libraries to Accelerate Spark Machine Learning Applications](https://www.cloudera.com/documentation/guru-howto/data_science/topics/ght_native_math_libs_to_accelerate_spark_ml.html)
+  * Spark ML용 네이티브 라이브러리를 사용해 모델 훈련 속도를 높이는 방법
+  * 네이티브 라이브러리가 Spark ML에 이점이 되는 이유
+  * CDH Spark로 네이티브 라이브러리를 활성화하는 방법
+  * 여타 네이티브 라이브러리 사용 시 Spark ML 성능과의 비교 분석
 
 # Spark SQL
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
