@@ -271,6 +271,7 @@ Data Science
 * [The Data Science of K-Pop: Understanding BTS through data and A.I.](https://towardsdatascience.com/the-data-science-of-k-pop-understanding-bts-through-data-and-a-i-part-1-50783b198ac2)
 * [Should data scientists learn JavaScript?](https://medium.freecodecamp.org/should-data-scientists-learn-javascript-e611d45804b8)
 * [Data Science with Watson Analytics](https://medium.com/analytics-vidhya/data-science-with-watson-analytics-7dddcc34d3a9)
+* [데이콘 주최 1회 펀다 상점매출 예측 대회 우승자 코드](https://dacon.io/code1/58793)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
