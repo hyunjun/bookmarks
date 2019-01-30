@@ -391,6 +391,7 @@ iOS
 * [Memory management in Swift](https://medium.com/elements/memory-management-in-swift-31e20f942bbc)
 * [How to handle internet connection reachability in Swift](https://medium.freecodecamp.org/how-to-handle-internet-connection-reachability-in-swift-34482301ea57)
 * [Creating Custom Operators in Swift](https://hackernoon.com/creating-custom-operators-in-swift-2c8bababbaf6)
+* [Dart vs Swift: a comparison](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
