@@ -224,6 +224,7 @@
 * [spark를 이용한 hadoop cluster 원격 입출력](http://blog.naver.com/hancury/220744753944)
 * [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
+* [Building a Big Data Machine Learning Spark Application for Flight Delay Prediction](https://medium.com/@pedrodc/building-a-big-data-machine-learning-spark-application-for-flight-delay-prediction-4f9507cdb010)
 * [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
 * [Deep Dive: Apache Spark Memory Management](http://go.databricks.com/deep-dive-apache-spark-memory-management)
 * [A Developer’s View into Spark's Memory Model - Wenchen Fan](https://www.youtube.com/watch?v=-Aq1LMpzaKw)
