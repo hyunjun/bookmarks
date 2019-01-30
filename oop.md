@@ -121,6 +121,7 @@
 * [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [전략(strategy) 디자인 패턴](http://astrod.github.io/2016/03/06/%EC%A0%84%EB%9E%B5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [전략(Strategy) 디자인 패턴](http://astrod.github.io/2017/05/04/Strategy-%ED%8C%A8%ED%84%B4.html)
+* [The Strategy Pattern explained using Java](https://medium.freecodecamp.org/the-strategy-pattern-explained-using-java-bc30542204e0)
 * [Flyweight 디자인 패턴](http://astrod.github.io/2017/05/07/Flywegiht-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
 * [Design Patterns - Advanced Iterator](https://achimoraites.blogspot.com/2017/11/design-patterns-advanced-iterator.html?m=1)
