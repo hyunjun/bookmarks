@@ -222,6 +222,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Learn Python from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v-2019-3225f4643d9c)
   * [Python Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2018-6c4c7a10b61e)
   * [Python Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-nov-2018-2301700b699a)
   * [Python Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-nov-2018-34b6f7f8c22c)
@@ -1678,6 +1679,7 @@ Python
 * [Multi-user server for Jupyter notebooks https://jupyterhub.readthedocs.io ](https://github.com/jupyterhub/jupyterhub)
 * [다중 사용자를 위한 Jupyterhub 설치 Install jupyterhub for multi-user](https://metamath1.github.io/2018/12/24/jupyterhub.html)
 * [Deploying JupyterHub with Kubernetes - Camilla Montonen](https://www.youtube.com/watch?v=uiLUmuecU7I)
+* [JupyterHub Tutorial: Set up your Lab, Classroom, or Business](https://www.youtube.com/watch?v=Mk6ZHVIw0Xs)
 * [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
@@ -2560,6 +2562,7 @@ Python
   * [Einstein Summation in Numpy](https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/)
   * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
   * [Einsum에 대해 간략한 정리](https://ita9naiwa.github.io/numeric%20calculation/2018/11/10/Einsum.html)
+* Mars [Alibaba Open-Sources Mars to Complement NumPy](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
