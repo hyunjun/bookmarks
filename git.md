@@ -160,6 +160,7 @@ Git
   * merge, remote, push, pull, reset
 * [Personalizing GIT: Aliasing commands](https://koukia.ca/personalizing-git-aliasing-commands-4dda73b54081)
 * [An intro to Git Aliases: a faster way of working with Git](https://medium.freecodecamp.org/an-intro-to-git-aliases-a-faster-way-of-working-with-git-b1eda81c7747)
+* [Git Operations Fail - Permission denied - publickey](https://confluence.atlassian.com/stashkb/git-operations-fail-permission-denied-publickey-385909210.html)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`
