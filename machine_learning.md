@@ -415,6 +415,7 @@ Machine Learning
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
   * [Learn Machine Learning from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-machine-learning-from-top-50-articles-for-the-past-year-v-2019-15842d0b82f6)
+  * [Machine Learning Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-dec-2018-3ab1dc6919f)
   * [Machine Learning Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-dec-2018-37b229f930a1)
   * [Machine Learning Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-dec-2018-37b229f930a1)
   * [Machine Learning Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-nov-2018-ffdf1c5a9be9)
@@ -882,6 +883,7 @@ Machine Learning
 * [100 Days Of ML Code](https://github.com/harunshimanto/100-Days-Of-ML-Code/blob/master/README.md)
 * [A “Data Science for Good“ Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc)
 * [Deploying a Machine Learning Model as a REST API](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
+* [An Essential Guide to Numpy for Machine Learning in Python](https://medium.com/@sid_darthvader/an-essential-guide-to-numpy-for-machine-learning-in-python-5615e1758301)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
