@@ -449,6 +449,8 @@ Algorithm
 * [Algorithms Behind Modern Storage Systems - Different uses for read-optimized B-trees and write-optimized LSM-trees](https://queue.acm.org/detail.cfm?id=3220266)
 * [트리(tree)와 이진트리(binary tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/21/tree/)
 * [Binary tree traversal - breadth-first and depth-first strategies](https://www.youtube.com/watch?v=9RHO6jU--GU)
+* [How to calculate a Binary Tree’s height -Part 1: Using array iteration in Ruby](https://medium.freecodecamp.org/how-to-calculate-a-binary-trees-height-using-array-iteration-in-ruby-63551c6c65fe)
+* [How to Calculate Binary Tree height Part2: Using Recursion](https://medium.freecodecamp.org/how-to-calculate-binary-tree-height-with-the-recursive-method-aafc461f2201)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
