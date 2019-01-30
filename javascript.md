@@ -405,6 +405,8 @@ Javascript
 * [Delivery Tracker - 배송 조회 API 서비스](https://tracker.delivery/guide/)
 * [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 * [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
+* [Let’s build a full stack MongoDB, React, Node and Express (MERN) app](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
+* [How to Easily Build Desktop Apps with HTML, CSS and Javascript](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -690,6 +692,7 @@ Javascript
   * [2018년에 배워야 할 최고의 자바스크립트 라이브러리와 기술](https://rhostem.github.io/posts/2018-01-25-top-java-script-libraries-tech-to-learn-in-2018/)
 * [11 Javascript Utility Libraries You Should Know In 2018](https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade)
 * [10 JavaScript Animation Libraries to Follow in 2018](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
+* [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 * [6 JavaScript User Authentication Libraries for 2019](https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
@@ -1148,6 +1151,7 @@ Javascript
 * [Mac에 설치된 node.js 제거하기](http://gomcine.tistory.com/entry/nodejs-Mac%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-nodejs-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Learn Node.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-node-js-from-top-50-articles-for-the-past-year-v-2019-2ec0a6a2cfa2)
 * [Node.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-dec-2018-89be607bdc44)
 * [Node.js Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-dec-2018-c23c9de324f3)
 * [Node.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-nov-2018-19b25a638588)
@@ -1594,6 +1598,7 @@ Javascript
 * [How to use React for e-commerce — and why it’s a good idea](https://medium.freecodecamp.org/how-to-use-react-for-e-commerce-and-why-its-a-good-idea-772006ad2e13)
 * [Fetching Crypto Price with React](https://hackernoon.com/fetching-crypto-price-with-react-3a49f41bf80c)
 * [A Complete React Boilerplate Tutorial — From Zero to Hero](https://medium.freecodecamp.org/a-complete-react-boilerplate-tutorial-from-zero-to-hero-20023e086c4a)
+* [How to build a meme-maker with React: a beginner’s guide](https://medium.freecodecamp.org/react-for-beginners-building-a-meme-maker-with-react-7164d3d3e55f)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
