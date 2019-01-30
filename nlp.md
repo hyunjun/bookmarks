@@ -255,6 +255,7 @@ NLP
 * [NLP 2018 highlights](https://docs.google.com/presentation/d/1dSP3j_nFIW3_pwlRLI-znj9pbS2sCCdRjKk49tUh3pE/mobilepresent?slide=id.p)
 * [딥러닝 자연어처리 - RNN에서 BERT까지](https://www.slideshare.net/deepseaswjh/rnn-bert)
 * [Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc)
+* [A Practitioner's Guide to Natural Language Processing (Part I) — Processing & Understanding Text Proven and tested hands-on strategies to tackle NLP tasks](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -879,6 +880,7 @@ NLP
   * [NVIDIA Achieves 4X Speedup on BERT Neural Network](https://news.developer.nvidia.com/nvidia-achieves-4x-speedup-on-bert-neural-network)
   * [BERT 톺아보기](http://docs.likejazz.com/bert/)
   * [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/)
+  * [SQUAD 2.0과 BERT(2)](https://dos-tacos.github.io/paper%20review/BERT/)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
@@ -1025,6 +1027,7 @@ NLP
 * [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
 * [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
 * [Understand Text Summarization and create your own summarizer in python - An Introduction to Text Summarization](https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70)
+* [Text Summarization on the Books of Harry Potter](https://towardsdatascience.com/text-summarization-on-the-books-of-harry-potter-5e9f5bf8ca6c)
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
