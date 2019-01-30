@@ -521,6 +521,8 @@ Java
   * Legacy DB의 JPA Entity Mapping
     * [복합키 매핑 편](http://woowabros.github.io/experience/2019/01/04/composit-key-jpa.html)
     * [Enum Converter 편](http://woowabros.github.io/experience/2019/01/09/enum-converter.html)
+  * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
+  * [데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?](데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?) IdentifierGenerator interface
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
   * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
   * [Config Server에 관하여 알아봅시다](http://blog.leekyoungil.com/?p=352)
