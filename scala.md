@@ -158,6 +158,8 @@ Scala
 * [Useful Scala Compiler Options Part 2: Advanced Language Features](https://www.threatstack.com/blog/useful-scala-compiler-options-part-2-advanced-language-features)
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
+* [Toward a polyglot James server…](https://medium.com/linagora-engineering/toward-a-polyglot-james-server-c3f3c92655db)
+  * json serialization때문에 java -> scala로 바꾼 이야기
 * [hamait.tistory.com/category/Scala](http://hamait.tistory.com/category/Scala)
   * [스칼라를 이용한 개발 이후](http://hamait.tistory.com/719)
 * [스칼라 기반 블랙잭 게임 모델링 연습](http://okky.kr/article/364107)
