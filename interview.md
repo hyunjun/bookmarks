@@ -301,6 +301,7 @@ Interview
 * [30 Questions To Ask Before Joining A Startup](https://angel.co/blog/30-questions-to-ask-before-joining-a-startup)
 * [Ask HN: Who wants to be hired? (July 2015)](https://news.ycombinator.com/item?id=9812247)
 * [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
+* [Where do I find software engineering jobs?](https://medium.com/job-advice-for-software-engineers/where-do-i-find-software-engineering-jobs-253dc08a8e54)
 * [angellist](https://angel.co/)
 * [berlinstartupjobs.com](http://berlinstartupjobs.com/)
 * [coderjobs.net - A curated list of jobs for software developers](http://coderjobs.net/)
