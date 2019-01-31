@@ -29,6 +29,7 @@ Docker
 * [Docker 정리 #6 (도커 자원 할당 제어)](https://jungwoon.github.io/docker/2019/01/13/Docker-6/)
 * [Docker 정리 #7 (도커 이미지)](https://jungwoon.github.io/docker/2019/01/13/Docker-7/)
 * [Docker 정리 #8 (Dockerfile)](https://jungwoon.github.io/docker/2019/01/13/Docker-8/)
+* [Learn Enough Docker to be Useful](https://towardsdatascience.com/learn-enough-docker-to-be-useful-b7ba70caeb4b)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
