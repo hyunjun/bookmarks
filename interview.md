@@ -358,6 +358,11 @@ Interview
 * [This Is An Ideal Resume For A Mid-Level Employee](http://www.businessinsider.com/excellent-resume-for-mid-level-employee-2014-8)
 * [12 reasons this is a terrible résumé for a mid-level employee](http://www.businessinsider.com/terrible-resume-for-a-mid-level-employee-2015-5)
 * [Your TopResume Resume Critique](https://www.topresume.com/?action=resumecritiqueview&at=Kws7pyzs1qsrac3hXSwQ2A12LgarRSAo)
+* [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."
+* [What My Software Engineer Resume Looks Like](https://www.youtube.com/watch?v=RIPdc88dZRI)
+* [국내외 영문 이력서 작성툴 TOP 3 비교 분석](https://www.youtube.com/watch?v=MrkpnPxiOCw)
+* **[How to write a killer Software Engineering résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)**
+* [What I want (and don’t want) to see on your software engineering resume](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)
 * [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
@@ -367,10 +372,6 @@ Interview
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
-* [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."
-* [What My Software Engineer Resume Looks Like](https://www.youtube.com/watch?v=RIPdc88dZRI)
-* [국내외 영문 이력서 작성툴 TOP 3 비교 분석](https://www.youtube.com/watch?v=MrkpnPxiOCw)
-* **[How to write a killer Software Engineering résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)**
 
 # Salary 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
