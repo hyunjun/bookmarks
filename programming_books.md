@@ -479,6 +479,7 @@ Programming Books
   * 탐라 문004.73 정17ㅁ
 * (NOT YET) [패턴 인식과 머신 러닝](http://jpub.tistory.com/831)
 * (NOT YET) [파이썬으로 배우는 머신러닝의 교과서 - 그림으로 이해하고 코드로 확인하는 머신러닝, 딥러닝 기초](http://www.hanbit.co.kr/store/books/look.php?p_code=B8718279503)
+  * [파이썬으로 배우는 머신러닝 교과서](https://jybaek.tistory.com/774)
 * (NOT YET) [데이터 분석을 위한 머신 러닝 입문](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002144)
 * (NOT YET) [사이킷런(scikit-learn)을 활용한 분류, 회귀 문제부터 간단한 알고리즘, 선형대수까지 - 머신 러닝 부트캠프 with 파이썬](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002001)
 * (NOT YET) [머신러닝 딥러닝 바로가기 - 구글 클라우드 플랫폼을 활용한 실전 개발](https://freelec.co.kr/book/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0/)
