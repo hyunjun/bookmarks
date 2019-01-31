@@ -7,6 +7,8 @@ Vim
 * [Vim Is The Perfect IDE](https://dev.to/allanmacgregor/vim-is-the-perfect-ide-e80)
 * [vim 초 간단 매뉴얼](http://happyoutlet.tistory.com/11)
 * [simple_vim_guide](https://github.com/johngrib/simple_vim_guide)
+* [Let’s learn Vim! Part 1](https://hackernoon.com/lets-learn-vim-part-1-4752116637b4)
+* [Let’s learn Vim! Part 2](https://hackernoon.com/lets-learn-vim-part-2-66b968f1551f)
 * [How not to be afraid of Vim anymore - A curation of the most popular commands and how to use them](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 * buffers
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
