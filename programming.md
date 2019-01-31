@@ -250,6 +250,7 @@ Programming
 * [Power to the API Developer - Tips for rolling out IBM API Connect](https://www.linkedin.com/pulse/power-api-developer-tips-rolling-out-ibm-connect-marjukka-niinioja)
 * [API 설계, 개발 및 테스트를 위한 10가지 무료 도구](http://www.itworld.co.kr/slideshow/99102)
 * **[개발자를 위한 API 목킹](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)**
+* [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 
 # Architecture, Modelling, Layer, Framework, ...
 * **[10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)**
@@ -922,6 +923,7 @@ Programming
 * [에덱스·맥길대, 사회 변화 꿈꾸는 이들을 위한 온라인 강좌 개설](http://www.bloter.net/archives/237710)
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
+* [Here are 380 Ivy League courses you can take online right now for free](https://medium.freecodecamp.org/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [Analytics, Big Data, and Data Science Courses](https://bigdatauniversity.com/)
 * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
