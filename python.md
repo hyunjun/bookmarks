@@ -332,8 +332,6 @@ Python
 * [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
 * [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
 * [Python Basics for Data Science](https://financedata.github.io/)
-* [Quick Guide: Steps To Perform Text Data Cleaning in Python](https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/)
-* [Steps for effective text data cleaning (with case study using Python)](https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/)
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc) David Beazley
 * [10 Neat Python Tricks Beginners Should Know](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
@@ -2623,11 +2621,9 @@ Python
 * [pandas 시간정보로 .srt 자막을 만들어보자](http://jusths.tistory.com/40)
 * [Pandas: 한 셀의 데이터를 여러 행으로 나누기](http://ohgyun.com/768)
 * [Pandas: 그룹 내에서 상위 n개 가져오기](http://ohgyun.com/776)
-* [The Art of Cleaning Your Data](https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726)
 * [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
 * [Python Pandas Tutorial | Pandas For Data Analysis | Python Pandas | Python Tutorial | Simplilearn](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
 * [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
-* [Cleaning and Tidying Data in Pandas || Daniel Chen](https://www.youtube.com/watch?v=MbgdYZE1e8I)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
