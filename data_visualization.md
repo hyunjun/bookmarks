@@ -144,6 +144,8 @@ Data Visualization
 * [Satellite Imagery Analysis with Python](https://medium.com/analytics-vidhya/satellite-imagery-analysis-with-python-3f8ccf8a7c32)
 * [Jake VanderPlas The Python Visualization Landscape PyCon 2017](https://www.youtube.com/watch?v=FytuB8nFHPQ)
 * [Folium - 파이썬으로 위경도 정보 다루기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmp3ZxMgXkeqU9jAERUOq1Rb)
+* [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+* [Large Scale Visualizations and Mapping with Datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
