@@ -234,6 +234,7 @@ NoSQL
   * [Firebase Dynamic Link로 사용자 유입시키기](http://gun0912.tistory.com/78)
   * [IOS와 Android 채팅앱을 Firebase로 만들기](https://www.youtube.com/watch?v=UewAPtg8Gk8)
   * [유용한 Firebase 튜토리얼을 소개합니다](https://developers-kr.googleblog.com/2019/01/the-latest-firebase-tutorials.html)
+  * [Firebase 이용해서 안드로이드에서 실시간 데이터베이스 Crud 구현해보기](https://developer88.tistory.com/155)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
