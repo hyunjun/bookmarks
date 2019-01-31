@@ -291,6 +291,16 @@ Data Science
 * [Reading for Growing Data Engineers — 2017](https://daasnerds.com/reading-for-growing-data-engineers-2017-365d1ad3a9ed)
 * **[Data Science at the Command Line](https://www.datascienceatthecommandline.com)**
 
+# Data Cleaning
+* [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
+* [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)
+
+## Data Cleaning Python
+* [Quick Guide: Steps To Perform Text Data Cleaning in Python](https://www.analyticsvidhya.com/blog/2015/06/quick-guide-text-data-cleaning-python/)
+* [Steps for effective text data cleaning (with case study using Python)](https://www.analyticsvidhya.com/blog/2014/11/text-data-cleaning-steps-python/)
+* [The Art of Cleaning Your Data](https://towardsdatascience.com/the-art-of-cleaning-your-data-b713dbd49726)
+* [Cleaning and Tidying Data in Pandas || Daniel Chen](https://www.youtube.com/watch?v=MbgdYZE1e8I)
+
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
 * [Statistical Data Mining Tutorials](http://www.autonlab.org/tutorials/list.html)
@@ -315,7 +325,6 @@ Data Science
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
-* [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)
 * [Weld: A common runtime for high performance data analytics](https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/)
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
   * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
