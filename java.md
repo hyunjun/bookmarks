@@ -104,6 +104,7 @@ Java
 * [Invest in Your Java Katalogue](https://www.youtube.com/watch?v=GDnMEOaKUMs)
 * [A faster alternative to Java Reflection](https://medium.freecodecamp.org/a-faster-alternative-to-java-reflection-db6b1e48c33e)
 * [How to code the Caesar Cipher: an introduction to basic encryption](https://medium.freecodecamp.org/how-to-code-the-caesar-cipher-an-introduction-to-basic-encryption-3bf77b4e19f7)
+* [What you should learn to become a Master Yoda in Java](https://levelup.gitconnected.com/what-you-should-learn-to-become-a-master-yoda-in-java-59c69207df78)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -312,6 +313,7 @@ Java
 
 # Java10
 * [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
+* [You can finally declare Inferred Type local variables in Java with var — here’s why that’s awesome](https://medium.freecodecamp.org/you-can-finally-declare-local-variables-in-java-with-var-heres-why-that-s-awesome-4418cb7e2da3)
 
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)
