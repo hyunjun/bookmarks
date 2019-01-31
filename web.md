@@ -75,6 +75,8 @@ Web
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
+	* [Learn Web Development from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-web-development-from-top-50-articles-for-the-past-year-v-2019-f589aa4d82e5)
+	* [Web Development Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-dec-2018-57ec5828a6e)
   * [Web Development Top 10 Articles For the Past Month (v.Dec 2018)](https://medium.com/@Mybridge/web-development-top-10-articles-for-the-past-month-v-dec-2018-3c35a47c8ffb)
   * [Web Development Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-nov-2018-abc189016004)
   * [Web Development Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-oct-2018-4c8e0bd87b84)
