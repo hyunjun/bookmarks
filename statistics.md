@@ -143,6 +143,7 @@ Statistics
   * 데이터가 zero mean Gaussian 분포를 띌때, maximizing probability의 과정에서 L2 loss function(MSE)이 유도될 수 있음
   * 또한 L2 regularization도 도출 가능
   * 데이터가 라플라스 분포를 띌때는 L1 loss function 및 L1 regularization을 얻을 수 있음
+* [L2 Regularization and Batch Norm](https://blog.janestreet.com/l2-regularization-and-batch-norm/)
 * Agreement, Reliability를 보는 Krippendorff’s alpha
   * [Krippendorff's alpha](https://en.wikipedia.org/wiki/Krippendorff%27s_alpha)
   * [ReCal for Ordinal, Interval, and Ratio Data (OIR)](http://dfreelon.org/utils/recalfront/recal-oir/)
