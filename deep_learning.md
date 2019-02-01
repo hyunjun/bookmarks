@@ -567,6 +567,7 @@ Deep Learning
 * [신경 번역 seq2seq 모델 튜토리얼](https://www.facebook.com/nextobe1/posts/339880869781248)
 * [seq2seq icml tutorial](https://sites.google.com/view/seq2seq-icml17/)
 * [Sequence to sequence tutorial](https://towardsdatascience.com/sequence-to-sequence-tutorial-4fde3ee798d8)
+* [Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
 * [Google net](https://www.slideshare.net/BrianKim244/google-net)
 * ["Advances in Deep Neural Networks," at ACM Turing 50 Celebration](https://www.youtube.com/watch?v=mFYM9j8bGtg)
 * [BUILDING A SOUND CLASSIFIER FROM SCRATCH USING NEURAL NETWORKS](https://www.skcript.com/svr/building-audio-classifier-nueral-network/)
