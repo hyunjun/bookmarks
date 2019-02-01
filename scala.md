@@ -19,6 +19,8 @@ Scala
 * [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
 * [Scala Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
+* [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
+* [Scala for Data Science Engineering — Part 2](https://towardsdatascience.com/scala-for-data-science-engineering-part-2-17052d186ff3)
 * 케빈 TV
   * [시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
   * [시즌2 - 게릴라 방송 2회](https://www.youtube.com/watch?v=hiCA194VLZk)
@@ -305,6 +307,7 @@ Scala
 * [Diving into Akka Streams](https://blog.redelastic.com/diving-into-akka-streams-2770b3aeabb0)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/detail/85)
 * [How you can build a Hello World API with Scala and Akka HTTP](https://medium.freecodecamp.org/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d)
+* [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -324,6 +327,8 @@ Scala
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
   * [Scala로 DSL 흉내내보기](https://medium.com/@leeyh0216/scala%EB%A1%9C-dsl-%ED%9D%89%EB%82%B4%EB%82%B4%EB%B3%B4%EA%B8%B0-561c22869a62)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
+* for
+  * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
@@ -339,6 +344,7 @@ Scala
   * [Euro from Dollar](https://github.com/braidenjudd/scala-labs/blob/master/labs/src/main/scala/org/scalalabs/basic/lab01/OOExercise.scala)
   * implicit object [Not able to find implicit from object](https://stackoverflow.com/questions/44986145/scala-not-able-to-find-implicit-from-object)
   * [Implicit Conversions in Scala](https://dzone.com/articles/implicit-conversions-scala)
+  * [Scala Trait to Typeclasses](https://medium.com/@pvinchon/scala-generics-and-type-classes-3495bc059d1f)
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
@@ -402,6 +408,9 @@ Scala
     * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
+* unapply
+  * [Scala pattern matching: apply the unapply](https://medium.com/@linas.m/scala-pattern-matching-apply-the-unapply-7237f8c30b41)
+    * [unapply.scala](https://gist.github.com/linasm/003eec9eacc641167227193f5879bbd9)
 * underscore
   * [변수를 사용하기 위한 underscore](http://knight76.tistory.com/entry/scala-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B3%80%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-underscore)
 
