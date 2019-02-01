@@ -1091,6 +1091,7 @@ Programming
   * [기술 뉴스 #116 : 18-12-16](https://blog.outsider.ne.kr/1414)
   * [기술 뉴스 #117 : 19-01-01](https://blog.outsider.ne.kr/1420)
   * [기술 뉴스 #118 : 19-01-15](https://blog.outsider.ne.kr/1421)
+  * [기술 뉴스 #119 : 19-02-01](https://blog.outsider.ne.kr/1424)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1104,6 +1105,7 @@ Programming
   * [1810호](https://blog.gaerae.com/2018/10/monthly.html)
   * [1811호](https://blog.gaerae.com/2018/11/monthly.html)
   * [1812호](https://blog.gaerae.com/2018/12/monthly.html)
+  * [1901호](https://blog.gaerae.com/2019/01/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
