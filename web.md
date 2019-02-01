@@ -450,6 +450,7 @@ Web
 * [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
 * [API-First Programming on the Front End](https://itnext.io/api-first-programming-on-the-front-end-4364c218ac60) Restful에 직접 관계된 건 아니나 읽어볼만 함
 * [Migrating your REST APIs to HTTP/2: Why and How?](https://blog.usejournal.com/migrating-your-rest-apis-to-http-2-why-and-how-8caee7d798fb)
+* [아하 REST API 서버 개발 (10)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-10-c09764e116f9)
 
 # Scala
 * Finatra
