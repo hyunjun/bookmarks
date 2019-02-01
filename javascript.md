@@ -525,6 +525,7 @@ Javascript
 * [Color Advice for Data Visualization with D3.js](https://medium.com/@Elijah_Meeks/color-advice-for-data-visualization-with-d3-js-33b5adc41c90)
 * [대한민국 인맥지도](https://github.com/akngs/smallworld)
 * [Why I no longer use D3.js](https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a)
+* [Interactive Data Visualization with D3.js Unlock the pathway to data-driven visualizations](https://towardsdatascience.com/interactive-data-visualization-with-d3-js-43fc3428a27e)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
@@ -1032,6 +1033,7 @@ Javascript
   * [webpack config tool](https://webpack.jakoblind.no/)
   * [Webpack 4의 Tree Shaking에 대한 이해](http://huns.me/development/2265)
   * [webpack 설정파일을 한땀한땀 만들어 보자](https://github.com/hg-pyun/step-by-step-webpack-config)
+  * [webpack: From 0 to automated testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -1568,6 +1570,7 @@ Javascript
 * [syntax.fm/show/092/react-hooks](https://syntax.fm/show/092/react-hooks) podcast
 * [An Introduction to Hooks in React](https://www.fullstackreact.com/articles/an-introduction-to-hooks-in-react)
 * [Hook me up: Intro to React Hooks](https://blog.usejournal.com/react-hooks-death-of-classes-and-lifecycles-c8db5956558c)
+* [How to use React hooks](https://medium.freecodecamp.org/how-to-use-react-hooks-ef70894d9fd)
 * [React 16.7 Hooks](https://slides.com/hyungjunkim-1/cosmee)
 * [Why React Hooks](http://dev-momo.tistory.com/entry/React-Hooks)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
@@ -1776,6 +1779,7 @@ Javascript
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
 * [Simply JavaScript: a straightforward intro to Mocking, Stubbing, and Interfaces](https://medium.freecodecamp.org/simply-javascript-a-straightforward-intro-to-mocking-stubbing-and-interfaces-14e67ed6641a)
+* [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
 * [Mocha.js](https://github.com/mochajs)
@@ -1826,7 +1830,8 @@ Javascript
 * [우리가 Typescript를 선택한 이유](https://medium.com/@constell99/%EC%9A%B0%EB%A6%AC%EA%B0%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%9C-%EC%9D%B4%EC%9C%A0-b0a423654f1e)
 * [Reason ML](https://reasonml.github.io)
   * [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
-  * [JavaScript vs. TypeScript vs.  ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
+  * [JavaScript vs. TypeScript vs. ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
+  * [How to get a taste of ReasonML by building something useful A pragmatic approach to learning ReasonML](https://medium.freecodecamp.org/how-to-taste-reasonml-by-building-something-useful-7b1189b94637)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
 * [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 * [타입스크립트 모노레포](https://blog.bglee.me/posts/2018/typescript-monorepo/)
