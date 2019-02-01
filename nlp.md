@@ -107,6 +107,7 @@ NLP
 * [An NLP Approach to Analyzing Twitter, Trump, and Profanity](http://blog.algorithmia.com/nlp-approach-twitter-trump-profanity)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
+* [NLP Seminar Schedule — Winter 2019](https://nlp.stanford.edu/seminar/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
 * [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
@@ -683,6 +684,7 @@ NLP
   * [corenlp](http://corenlp.run/)
   * [Stanford CoreNLP – a suite of core NLP tools](http://stanfordnlp.github.io/CoreNLP/)
   * [nlp.stanford.edu/teaching](https://nlp.stanford.edu/teaching/)
+  * [StanfordNLP: A Python NLP Library for Many Human Languages](https://pypi.org/project/stanfordnlp/)
 * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
   * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
