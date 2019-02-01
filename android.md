@@ -92,6 +92,7 @@ Android
 * [Writing Android Libraries](http://realm.io/news/writing-android-libraries/)
 * [A free software gesture library for Android™ and the Web](https://github.com/mirasmithy/airy)
 * [25 new Android libraries and projects to check at the beginning of 2018](https://proandroiddev.com/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4)
+* [Announcing the Java & Kotlin client library for Actions on Google](https://medium.com/google-developers/announcing-the-java-kotlin-client-library-for-actions-on-google-217828dead)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * Appium
