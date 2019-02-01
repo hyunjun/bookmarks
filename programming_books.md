@@ -66,6 +66,8 @@ Programming Books
 
 * [(성공적인 애자일 도입을 위한) 에센셜 스크럼](2017-5-2-essential-scrum.md)
   * 한라 005.1-루48ㅇ
+* (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
+  * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
 
 # Algorithm
 
@@ -330,7 +332,6 @@ Programming Books
 * **[애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)**
   * 탐라 문 005.74저219ㅇ
   * 굉장히 많은 내용을 담고 있으며, 특히 airflow를 책에서 다루는 건 처음 본 듯
-* (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
 * **[파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)**
   * 한라 005.133-민94ㅍ
   * 완전히 실무서적. 참고할 만한 예가 많아서 좋음. 예제도 jupyter로 진행
@@ -934,6 +935,8 @@ Programming Books
 * [파이썬과 자연어 처리파이썬과 함께하는 NLP 애플리케이션 만들기](http://book.daum.net/detail/book.do?bookid=KOR9791161750255)
   * 2017.08
   * 탐라 문 004.735 초848ㅍ
+* (NOT YET) [텐서플로우와 머신러닝으로 시작하는 자연어처리(로지스틱회귀부터 트랜스포머 챗봇까지)](http://wikibook.co.kr/nlp/)
+  * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
 
 # NoSQL
 
