@@ -34,6 +34,8 @@ App
 * [Confluence를 이용한 프로젝트 현황판](https://www.popit.kr/confluence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%84%ED%99%A9%ED%8C%90)
 * [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
 * [AirConsole](http://www.airconsole.com/)
+* aircrack-ng
+  * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
