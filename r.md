@@ -338,6 +338,8 @@ R
   * [dplyr로 DB 데이터를 다룰 때 여러 테이블을 union 해보자](https://mrchypark.github.io/post/rtips-dplyr%EB%A1%9C-db-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%8B%A4%EB%A3%B0-%EB%95%8C-%EC%97%AC%EB%9F%AC-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-union-%ED%95%B4%EB%B3%B4%EC%9E%90)
   * [dplyr 문법을 통한 전처리를 SQL 로의 스위칭](https://lovetoken.github.io/r/2018/11/24/dplyrquery.html)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
+* [ezpickr: Convenient package/function for choosing any rectangular data file using interactive GUI dialog box](https://jooyoungseo.github.io/ezpickr/)
+  * pick() 함수를 호출하면 GUI 파일 선택 대화상자가 열리고, 대화상자에서 선택한 파일의 확장자에 따라 적절한 파일 임포팅 패키지::함수를 자동으로 매치
 * [Gifski on CRAN: the fastest GIF encoder in the universe](https://ropensci.org/technotes/2018/07/23/gifski-release/)
 * [FastRText - R wrapper for Fasttext](https://github.com/pommedeterresautee/FastRText)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
