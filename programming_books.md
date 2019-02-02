@@ -1127,6 +1127,7 @@ Programming Books
 * (NOT YET) [깐깐하게 배우는 파이썬 3](https://blog.insightbook.co.kr/2019/01/23/%EA%B9%90%EA%B9%90%ED%95%98%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-3/)
   * [Learn-PYTHON-the-HARD-WAY 깐깐하게 배우는 파이썬 (한국어판) 3rd의 코드 연습](https://github.com/junshoong/Learn-PYTHON-the-HARD-WAY)
   * [The code to Learn Python3 The Hard Way](https://github.com/youknowone/learn-python3-thw-code-ko)
+* (NOT YET) [슬기로운 파이썬 트릭](https://blog.insightbook.co.kr/2019/01/23/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%84-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-%EC%A3%BC%EB%8A%94%E3%80%8E%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/)
 
 # R
 
