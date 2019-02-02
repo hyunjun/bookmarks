@@ -161,6 +161,7 @@ Git
 * [Personalizing GIT: Aliasing commands](https://koukia.ca/personalizing-git-aliasing-commands-4dda73b54081)
 * [An intro to Git Aliases: a faster way of working with Git](https://medium.freecodecamp.org/an-intro-to-git-aliases-a-faster-way-of-working-with-git-b1eda81c7747)
 * [Git Operations Fail - Permission denied - publickey](https://confluence.atlassian.com/stashkb/git-operations-fail-permission-denied-publickey-385909210.html)
+* [GitHub 단축키 및 사용 팁 정리](https://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`
