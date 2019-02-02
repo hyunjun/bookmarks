@@ -248,6 +248,7 @@ Java
 * [IntelliJ 의존성 목록 확인 및 자동 완성](https://jojoldu.tistory.com/344)
 * [IntelliJ에서 Gradle 프로젝트 작동안될때](https://jojoldu.tistory.com/364)
 * [IntelliJ http Client 응답값 변수로 저장하고 사용하기](https://jojoldu.tistory.com/366)
+* [맥 환경에서 vscode, intelliJ에 zsh 지정하기](https://jojoldu.tistory.com/400)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
