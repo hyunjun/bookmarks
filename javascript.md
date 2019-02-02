@@ -1844,6 +1844,7 @@ Javascript
 * [Typescript inheritance deep dive](https://hackernoon.com/typescript-inheritance-deep-dive-9a53989af5a6)
 * [번역 TypeScript at Google](https://hyunseob.github.io/2018/11/27/typescript-at-google/)
 * [react-native 프로젝트에 typescript를 적용하여 개발해 보자](https://dev-yakuza.github.io/ko/react-native/typescript/)
+* [각종, Config 들을 npm module로 공용화하기](https://medium.com/@iamssen/%EA%B0%81-%EC%A2%85-config-%EB%93%A4%EC%9D%84-npm-module%EB%A1%9C-%EA%B3%B5%EC%9A%A9%ED%99%94%ED%95%98%EA%B8%B0-90c1d5dce972)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
