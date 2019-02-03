@@ -127,6 +127,7 @@ Sports
 * [KBL 레퍼런스](http://bookyoon.dothome.co.kr/g5/)
 * [픽앤 롤을 수비하는 방법 7가지](https://m.blog.naver.com/oliven2/220970240206)
 * [Relations to salary and team contribution in NBA (17-18 Season)](https://www.slideshare.net/ssuser39d504/relations-to-salary-and-team-contribution-in-nba-1718-season)
+* [데이터로 무장한 컴퓨터공학도 NBA 단장](http://www.ttimes.co.kr/view.html?no=2019013117597767442)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
