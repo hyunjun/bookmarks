@@ -942,6 +942,7 @@ NLP
 * [2018 06-11-active-question-answering](https://www.slideshare.net/WoongwonLee/2018-0611activequestionanswering)
 * [Bilinear attention networks for visual question answering](https://github.com/jnhwkim/ban-vqa)
 * [Presenting Multitask Learning as Question Answering: The Natural Language Decathlon](https://www.techleer.com/articles/527-presenting-multitask-learning-as-question-answering-the-natural-language-decathlon/)
+* [ATOMIC An Atlas of Machine Commonsense for If-Then Reasoning](https://homes.cs.washington.edu/~msap/atomic/)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
