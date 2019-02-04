@@ -207,7 +207,9 @@ Scala
 * Akka HTTP
   * [akka-http-extensions 0.0.1 released](https://groups.google.com/forum/#!topic/akka-user/FIYDmafoF-8)
   * [Akka HTTP server backend (experimental)](https://www.playframework.com/documentation/2.4.x/AkkaHttpServer)
-* [Akka HTTP — The What, Why and How](https://www.youtube.com/watch?v=y_slPbktLr0)
+  * [Akka HTTP — The What, Why and How](https://www.youtube.com/watch?v=y_slPbktLr0)
+  * [Effective Akka HTTP by Johannes Rudolph](https://www.youtube.com/watch?v=uxQta776jJI)
+  * [How you can build a Hello World API with Scala and Akka HTTP](https://medium.freecodecamp.org/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 * [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
@@ -264,7 +266,6 @@ Scala
 * [David Russell - A Literally-Hands-On Introduction to Distributed Systems with Akka Cluster](https://www.youtube.com/watch?v=IKQ8lAzJi3o)
 * [Reactive Microservices with Akka and Docker - by Heiko Seeberger](https://www.youtube.com/watch?v=7_rxgnRvh1s)
 * [Akka and Kafka Webinar Build Powerful Concurrent & Distributed Applications](https://www.youtube.com/watch?v=sezp1YHg5RI)
-* [Effective Akka HTTP by Johannes Rudolph](https://www.youtube.com/watch?v=uxQta776jJI)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
 * [Scala real life matters: when to use Akka and also RabbitMQ](https://www.signifytechnology.com/blog/2017/11/scala-real-life-matters-when-to-use-akka-and-also-rabbitmq)
@@ -301,7 +302,6 @@ Scala
 * [AkkaPaint – simplicity and power of Akka](https://virtuslab.com/blog/akkapaint-simplicity-and-power-of-akka/)
 * [Diving into Akka Streams](https://blog.redelastic.com/diving-into-akka-streams-2770b3aeabb0)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/detail/85)
-* [How you can build a Hello World API with Scala and Akka HTTP](https://medium.freecodecamp.org/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d)
 * [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
 * [Hacking with akka streams](https://medium.com/@itseranga/akka-streams-hacks-33661b8f7f2d)
@@ -472,9 +472,6 @@ Scala
 * Finagle
   * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
-* Finatra
-  * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
-  * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
 * [fs2 - Compositional, streaming I/O library for Scala https://fs2.io ](https://github.com/functional-streams-for-scala/fs2)
   * [Intro to Functional Streams for Scala (FS2)](https://www.youtube.com/watch?v=cahvyadYfX8)
   * [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
@@ -518,8 +515,6 @@ Scala
   * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
   * [Scala Parser Combinator로 CSV 파싱하기](https://rhymeofcode.wordpress.com/2015/12/30/scala-parser-combinator%EB%A1%9C-csv-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0/)
 * [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
-* Scalatra
-  * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [scalding](https://github.com/twitter/scalding)
   * [Scalding: Scala로 하는 Big Data Processing](http://readme.skplanet.com/?p=10170)
@@ -548,6 +543,27 @@ Scala
 * [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
 * [scribe - Practical logging framework that doesn't require any other logging framework and can be completely configured programmatically](https://github.com/outr/scribe)
 
+## Webframework Library
+* [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
+* [Cask: a Scala HTTP micro-framework](http://www.lihaoyi.com/cask/)
+* Finatra
+  * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+  * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
+* Play
+  * [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)
+  * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
+  * [How to Play at Work - A Play Framework Tutorial](http://assist-software.net/blog/how-play-work-play-framework-tutorial)
+  * [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
+  * [ReactJS Tutorial with Play, Scala and WebJars](http://ticofab.io/react-js-tutorial-with-play_scala_webjars/)
+  * [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
+  * [hamait.tistory.com/category/PlayFramework2](http://hamait.tistory.com/category/PlayFramework2)
+    * [Action 과 Action.async 의 차이점](http://hamait.tistory.com/773)
+  * [Understanding Play2 Iteratees for Normal Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/)
+  * [APIs and Microservices with Scala and Play](https://www.youtube.com/watch?v=jaZIilhjcDw)
+  * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
+* Scalatra
+  * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+
 # Monad
 * [Monad Programming with Scala Future](http://tech.kakao.com/2016/03/03/monad-programming-with-scala-future/)
 * Arrows, Monads and Kleisli
@@ -567,19 +583,6 @@ Scala
 * [Monoids](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#monoids)
 * [Monadic IO: Laziness Makes You Free](http://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
-
-# Play
-* [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)
-* [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
-* [How to Play at Work - A Play Framework Tutorial](http://assist-software.net/blog/how-play-work-play-framework-tutorial)
-* [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
-* [ReactJS Tutorial with Play, Scala and WebJars](http://ticofab.io/react-js-tutorial-with-play_scala_webjars/)
-* [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
-* [hamait.tistory.com/category/PlayFramework2](http://hamait.tistory.com/category/PlayFramework2)
-  * [Action 과 Action.async 의 차이점](http://hamait.tistory.com/773)
-* [Understanding Play2 Iteratees for Normal Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/)
-* [APIs and Microservices with Scala and Play](https://www.youtube.com/watch?v=jaZIilhjcDw)
-* [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
 
 # [SBT](http://www.scala-sbt.org/)
 * [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)
