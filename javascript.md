@@ -185,21 +185,6 @@ Javascript
 * [자바스크립트 모듈 패턴](http://ssamkj.tistory.com/45)
 * [이벤트 소싱 event-sourcing 패턴 정리](http://www.haruair.com/blog/4008)
 * [이벤트 소싱 event-sourcing 패턴 JavaScript로 구현하기](http://www.haruair.com/blog/4014)
-* [Async Visualizer](https://nupamore.github.io/js-async-visualizer/)
-* [비동기식 처리 모델과 이벤트 루프](http://poiemaweb.com/js-async)
-* [이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
-* [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
-* [Adapting Observable to Async Iteration in JavaScript #1](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-1-ce48f90ac1ac)
-* [Adapting Observable to Async Iteration in JavaScript #2](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-2-b8df3c7f7260)
-* [Async Generator 코루틴](https://medium.com/@jooyunghan/js-async-generator-%EC%BD%94%EB%A3%A8%ED%8B%B4-cabb4f5ffaff)
-* [Refactoring an old and broken library to using async/await with TDD](https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2)
-* [How to avoid (or escape) async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
-* [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
-* [비동기 교통정리 - async.waterfall](http://jybaek.tistory.com/745)
-* [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://medium.freecodecamp.org/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40)
-* [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
-* [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
-* [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [JS 제너레이터로 스택오버플로 피하기](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%94%BC%ED%95%98%EA%B8%B0-a070ebbe5dc7)
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
 * [CPS로 스택오버플로 회피하기](https://medium.com/@jooyunghan/cps%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-11db11eb8d75)
@@ -234,6 +219,7 @@ Javascript
 * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
 * [입문자가 겪기 쉬운 console.log 실수](https://www.zerocho.com/category/JavaScript/post/5b2b45cf1350f9001b662ba6)
+* [Colorful Console Message](https://medium.com/@samanthaming/colorful-console-message-2e8203786838)
 * [codepen.io/2016/popular/pens](http://codepen.io/2016/popular/pens/)
 * [awesome-js](https://github.com/ggomaeng/awesome-js)
 * [Awesome-Javascript](https://github.com/DaeGwang/awesome-javascript)
@@ -410,6 +396,7 @@ Javascript
 * [How to Easily Build Desktop Apps with HTML, CSS and Javascript](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 * [When to use var vs let vs const in JavaScript](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037)
 * [9 Tricks for Kickass JavaScript Developers in 2019](https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a)
+* [You might not need a build toolchain](https://itnext.io/you-might-not-need-a-build-toolchain-324edcef7f9a)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -472,6 +459,37 @@ Javascript
   * [애플리케이션 구조 설계 - 2](http://mobicon.tistory.com/566)
   * [애플리케이션 구조 설계 - 3](http://mobicon.tistory.com/567)
 * [Version 7 of Angular — CLI Prompts, Virtual Scroll, Drag and Drop and more](https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c)
+
+# Asynchronous
+* [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
+* [Async Visualizer](https://nupamore.github.io/js-async-visualizer/)
+* [비동기식 처리 모델과 이벤트 루프](http://poiemaweb.com/js-async)
+* [이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
+* [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
+* [Adapting Observable to Async Iteration in JavaScript #1](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-1-ce48f90ac1ac)
+* [Adapting Observable to Async Iteration in JavaScript #2](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-2-b8df3c7f7260)
+* [Async Generator 코루틴](https://medium.com/@jooyunghan/js-async-generator-%EC%BD%94%EB%A3%A8%ED%8B%B4-cabb4f5ffaff)
+* [Refactoring an old and broken library to using async/await with TDD](https://medium.com/dailyjs/refactoring-an-old-and-broken-library-to-using-async-await-with-tdd-90157de268a2)
+* [How to avoid (or escape) async/await hell](https://medium.freecodecamp.org/avoiding-the-async-await-hell-c77a0fb71c4c)
+* [JavaScript Symbols, Iterators, Generators, Async/Await, and Async Iterators — All Explained Simply](https://medium.freecodecamp.org/some-of-javascripts-most-useful-features-can-be-tricky-let-me-explain-them-4003d7bbed32)
+* [비동기 교통정리 - async.waterfall](http://jybaek.tistory.com/745)
+* [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://medium.freecodecamp.org/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40)
+* [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+* [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
+* [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
+* asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
+* [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
+* promise
+  * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
+  * [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
+  * [바보들을 위한 Promise 강의 - 도대체 Promise는 어떻게 쓰는거야?](http://programmingsummaries.tistory.com/325)
+  * [Async vs Promise](https://engineering.huiseoul.com/async-vs-promise-11ea761a98c4)
+  * [Promise visualization playground for the adventurous http://bevacqua.github.io/promisees](https://github.com/bevacqua/promisees)
+  * [promisees - promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
+  * [쉽게 이해하는 자바스크립트 Promise](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
+  * [자바스크립트 promise? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=CA5EDD4Hjz4)
+* [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
+* [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
 # Book
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
@@ -584,6 +602,7 @@ Javascript
 * [ECMAScript 6](https://tech.10000lab.xyz/javascript/ecmascript6.html)
 * [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 * [JavaScript traits: the clean way to modify global prototypes - With ES6 it’s finally possible to add methods to Object.prototype, Array.prototype and all the others, in a clean way](https://itnext.io/straits-9ef2b9a563cd)
+* [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -658,6 +677,9 @@ Javascript
 * [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching)
 * [Optimizing Your GraphQL Request Waterfalls](https://blog.apollographql.com/optimizing-your-graphql-request-waterfalls-7c3f3360b051)
 * [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
+* Going Serverless with NodeJS & GraphQL
+  * [(Part I) — Setting up Serverless](https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-5b34f5d280f4)
+  * [(Part II) — Implementing GraphQL on AWS Lambda](https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-part-ii-1810445028a4)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -707,7 +729,6 @@ Javascript
   * [anime.js - Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js)
 * asm.js
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
-* [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
 * [AXBoot Developer Community](http://brantiffy.axisj.com/archives/703)
 * [Babelbox is a small internationalisation library that makes it easy to support multiple languages](http://javascript-kurse-berlin.de/labs/babelbox.html)
@@ -838,7 +859,6 @@ Javascript
 * [Liwe is a service for web developers to use smartphones as a remote for their webapp](http://liwe.co/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
-* [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * [login-with-ssh - An experiment to authenticate web sessions with SSH - http://demo-ssh.32b6.com](https://github.com/altitude/login-with-ssh)
 * [Loupe - a little visualisation to help you understand how JavaScript's call stack/event loop/callback queue interact with each other](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) 자바스크립트의 호출 스택, 이벤트 루프, 콜백 큐가 서로 어떤 과정을 거쳐 상호 작용하는지 이해하는데 도움을 주는 시각화 도구
   * 자바스크립트 call stack/event loop/callback queue를 시각적으로 볼 있는 사이트
@@ -910,15 +930,6 @@ Javascript
   * [Plotly.js Open-Source Announcement](https://plot.ly/javascript/open-source-announcement/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
 * [popmotion - A 12kb JavaScript motion engine](http://popmotion.io/)
-* promise
-  * [promise arrays - A set of tools for working with arrays in an async manner](https://github.com/sallar/promise-arrays)
-  * [promise-cookbook - a brief introduction to using Promises in JavaScript](https://github.com/mattdesl/promise-cookbook)
-  * [바보들을 위한 Promise 강의 - 도대체 Promise는 어떻게 쓰는거야?](http://programmingsummaries.tistory.com/325)
-  * [Async vs Promise](https://engineering.huiseoul.com/async-vs-promise-11ea761a98c4)
-  * [Promise visualization playground for the adventurous http://bevacqua.github.io/promisees](https://github.com/bevacqua/promisees)
-  * [promisees - promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
-  * [쉽게 이해하는 자바스크립트 Promise](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
-  * [자바스크립트 promise? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=CA5EDD4Hjz4)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [Pt - An experiment on visual forms in code](http://williamngan.github.io/pt/)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
@@ -1049,8 +1060,6 @@ Javascript
   * [YARN, 새로운 Package Manger](https://jaeyeophan.github.io/2017/04/21/YARN-New-Package-Manger/)
   * [Yarn을 설치하여 Angular CLI 기본패키지로 설정하기와 책 예제 소스 실행하기](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3955756301)
   * [Yarn 톺아보기](https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/)
-* [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
-* [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
 
 # MEAN
@@ -1606,6 +1615,9 @@ Javascript
 * [How to build a meme-maker with React: a beginner’s guide](https://medium.freecodecamp.org/react-for-beginners-building-a-meme-maker-with-react-7164d3d3e55f)
 * [React-cache, time slicing, and fetching with a synchronous API](https://medium.freecodecamp.org/react-cache-time-slicing-and-fetching-with-a-synchronous-api-2a57dc9c2e6d)
 * [The React Handbook](https://medium.freecodecamp.org/the-react-handbook-b71c27b0a795)
+* [How to build a React.js chat app in 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-js-chat-app-in-10-minutes-c9233794642b)
+* [The React Developer Tools You Should Know in 2019](https://hackernoon.com/the-react-developer-tools-you-should-know-in-2019-e681dc4f4332)
+* [React Introduction For People Who Know Just Enough jQuery To Get By (2019 version)](https://medium.freecodecamp.org/react-introduction-for-people-who-know-just-enough-jquery-to-get-by-2019-version-28a4b4316d1a)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1663,6 +1675,7 @@ Javascript
 * [Awesome React Native UI Components](https://github.com/madhavanmalolan/awesome-reactnative-ui)
 * [React로 보는 COSMEE](https://slides.com/bobinlee-1/deck)
   * [github.com/BoBinLee/rn-stack-sample](https://github.com/BoBinLee/rn-stack-sample)
+* [How React Native constructs app layouts (and how Fabric is about to change it)](https://medium.freecodecamp.org/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
