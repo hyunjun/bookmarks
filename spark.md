@@ -488,6 +488,7 @@
   * [Spark on EMR](https://github.com/awslabs/emr-bootstrap-actions/tree/master/spark)
   * **[(BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR](http://www.slideshare.net/AmazonWebServices/bdt309-data-science-best-practices-for-apache-spark-on-amazon-emr)**
   * [Starburst’s Presto on AWS up to 18x faster than EMR](https://www.starburstdata.com/technical-blog/starburst-presto-on-aws-18x-faster-than-emr/) Presto의 엔터프라이즈 빌드를 제공하는 Starbust에서 AWS와 EMR 환경에서 벤치마크한 결과 소개
+  * [Optimize Spark jobs on EMR Cluster](https://medium.com/@sharad_21643/https-medium-com-optimize-spark-jobs-on-emr-cluster-6b1a97711adb)
 * [Envelope - a configuration-driven framework for Apache Spark that makes it easy to develop Spark-based data processing pipelines on a Cloudera EDH](https://github.com/cloudera-labs/envelope/)
   * Envelope과 함께 Apache Spark, Apache Kudu 및 Apache Impala를 사용하여 Cloudera enterprise data hub (EDH)에 구현하는 방법
   * [Configuration specification](https://github.com/cloudera-labs/envelope/blob/master/docs/configurations.adoc#planners)
@@ -539,6 +540,7 @@
 * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
 * [Processing Hierarchical Data using Spark Graphx Pregel API](http://www.qubole.com/blog/processing-hierarchical-data-using-spark-graphx-pregel-api/)
   * GraphX API를 사용하는 예제와 방법
+* [Community detection in graph](https://gitlab.com/siddhinath/community) Girvan newman algorithm
 
 # Mesos
 * [Spark + Mesos cluster mode, who uploads the jar?](http://stackoverflow.com/questions/33978672/spark-mesos-cluster-mode-who-uploads-the-jar)
