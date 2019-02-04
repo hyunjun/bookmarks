@@ -746,6 +746,7 @@ NLP
   * [NLTK Text Processing Tutorial Series](https://www.youtube.com/playlist?list=PLcTXcpndN-Sl9eYrKM6jtcOTgC52EJnqH)
   * [Computing Document Similarity with NLTK (March 2014)](https://www.youtube.com/watch?v=FfLo5OHBwTo)
   * [Tokenizing Words Sentences with Python NLTK](https://www.youtube.com/watch?v=A5n7tsZctwM)
+  * [Natural Language Processing (NLP) Tutorial with Python & NLTK](https://www.youtube.com/watch?v=X2vAabgKiuM)
 * [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI/blob/master/README.md)
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
 * [pyeunjeon (python + eunjeon)](https://github.com/koshort/pyeunjeon) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
