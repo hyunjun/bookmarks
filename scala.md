@@ -431,6 +431,7 @@ Scala
     * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
+  * [Thinking Less with Scala - Daniel Sivan](https://www.youtube.com/watch?v=k6QRI1a-xNU) basic, implicit, cats.Monoid
 
 # IntelliJ
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
