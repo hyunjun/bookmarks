@@ -277,11 +277,16 @@ Graph
   * [Mac에서 gfortran4.8 에러 해결하기](https://lumiamitie.github.io/r/mac-fortran2/)
 * [jGraph](http://www.jgraph.com)
 * [jung](https://code.google.com/p/jung/)
-* [NetworkX](http://networkx.github.io/)
+* [NetworkX](http://networkx.github.io/) Python
   * [20140830, Pycon2014 NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
   * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
   * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
+  * [Some Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
+  * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
+  * **[법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤](https://www.youtube.com/watch?v=JRiCsrNJujc)**
+  * [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
+  * [How to Perform Fraud Detection with Personalized Page Rank](https://blog.sicara.com/fraud-detection-personalized-page-rank-networkx-15bd52ba2bf6)
 
 # Paper
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
