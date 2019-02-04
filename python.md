@@ -183,7 +183,6 @@ Python
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
 * [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
-* [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
 * [LLVM Optimized Python for Scientific Computing](http://dev.stephendiehl.com/cfa/slides.pdf)
 * [Realtime Data Plotting in Python](http://www.swharden.com/wp/2013-05-08-realtime-data-plotting-in-python/)
@@ -463,6 +462,10 @@ Python
   * [How Do Python Coroutines Work?](https://www.youtube.com/watch?v=idLtMISlgy8)
   * [PyconKR 2018 Deep dive into Coroutine](https://www.slideshare.net/daykim7/pyconkr-2018-deep-dive-into-coroutine-110194978/1)
     * [Deep Dive into Coroutine - 김대희](https://www.youtube.com/watch?v=NmSeLspQoAA)
+* csv
+  * [Reading and Writing to CSVs in Python Playing with tabular data the native Python way](https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f)
+  * [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)
+  * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -1767,7 +1770,11 @@ Python
   * Scrapy, Zappa, Boto, Requests, Tensorflow
 * Command Line
   * [How to Write Perfect Python Command-line Interfaces — Learn by Example](https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2)
+  * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+  * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
+    * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
+  * [Tools for Writing Python CLI Applications](https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f)
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
 * [Python Development: 7 Libraries to Look For in 2017](http://www.evontech.com/what-we-are-saying/entry/python-development-7-libraries-to-look-for-in-2017.html)
@@ -1905,8 +1912,6 @@ Python
   * [Blurb-it is now available](https://discuss.python.org/t/blurb-it-is-now-available/528) CPython contribution 방법
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
-* [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)
-* [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
 * curses
   * [Python 3.x curses 라이브러리에서 한글 출력 - Windows 10](http://greentec.egloos.com/4433188)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
@@ -2076,15 +2081,7 @@ Python
   * **[Python MySQL Tutorial](http://www.mysqltutorial.org/python-mysql/)**
   * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
-* [NetworkX](http://networkx.github.io/)
-  * [20140830, Pycon2014 NetworkX를 이용한 네트워크 분석](http://www.slideshare.net/koorukuroo/20140830-pycon2014-networkx)
-  * [Social network analysis with NetworkX](http://blog.dominodatalab.com/social-network-analysis-with-networkx)
-  * [Visualising Markov Chains with NetworkX](http://vknight.org/unpeudemath/code/2015/11/15/Visualising-markov-chains.html)
-  * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
-  * [Some Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
-  * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
-  * **[법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤](https://www.youtube.com/watch?v=JRiCsrNJujc)**
-  * [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
+* [NetworkX](http://networkx.github.io/) -> [graph](graph.md)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [Numba](http://numba.pydata.org/)
@@ -2368,6 +2365,7 @@ Python
   * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
   * [Python에서 SQLAlchemy로 MS-SQL 연동하기](http://excelsior-cjh.tistory.com/entry/Python%EC%97%90%EC%84%9C-SQLAlchemy%EB%A1%9C-MSSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
   * [SQLAlchemy의 연결 풀링 이해하기](https://spoqa.github.io/2018/01/17/connection-pool-of-sqlalchemy.html)
+  * [Pythonic Database Management with SQLAlchemy](https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0)
 * [sqlbuilder](https://pypi.python.org/pypi/sqlbuilder)
   * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
   * [practice](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
@@ -2625,6 +2623,7 @@ Python
 * [23 great Pandas codes for Data Scientists](https://towardsdatascience.com/23-great-pandas-codes-for-data-scientists-cca5ed9d8a38)
 * [Python Pandas Tutorial | Pandas For Data Analysis | Python Pandas | Python Tutorial | Simplilearn](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
 * [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
+* [How to build your data science muscle memory: Slicing and Mapping Data for Machine Learning](https://medium.freecodecamp.org/how-to-build-your-data-science-muscle-memory-slicing-and-mapping-data-for-machine-learning-d38e65986c69)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -2722,8 +2721,6 @@ Python
   * [CODING BATTLE 가위바위보! - 못다한 이야기](http://tech.kakao.com/2016/08/19/gawibawibo/)
   * [PyCon APAC 2016 후기](http://www.slideshare.net/sh84ahn/pycon-apac-2016)
   * [PyCon APAC 2016 발표자 & 자원봉사자 후기](http://blog.muhun.kim/pycon-apac-2016-review/)
-  * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
-    * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
   * [김대현 : 파이썬을 활용한 똑똑한 주식투자 (시스템 트레이딩) - PyCon APAC 2016](https://www.youtube.com/watch?v=ED04jGkp4Sg)
   * [김영욱: Python으로 IoT, 인지(Cognitive), 머신러닝 삼종세트 활용하기 - PyCon APAC 2016](https://www.youtube.com/watch?v=g5cq3apNviw)
   * [김경훈: 뉴스를 재미있게 만드는 방법; 뉴스잼 - PyCon APAC 2016](https://www.youtube.com/watch?v=Txj4MzqL_Mk)
@@ -2741,7 +2738,6 @@ Python
     * [Python 으로 19대 국회 뽀개기 (PyCon APAC 2016)](http://www.slideshare.net/hongjoo/python-19-pycon-apac-2016)
   * [홍민희: RPC 프레임워크 제작 삽질기 - PyCon APAC 2016](https://www.youtube.com/watch?v=bnxpEgHlql4)
     * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
-  * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
   * [김동문: 검색 로그 시스템 with Python - PyCon APAC 2016](https://www.youtube.com/watch?v=lcmB227cKn4)
   * [정민영 : 10만 라인, 26280시간의 이야기 - PyCon APAC 2016](https://www.youtube.com/watch?v=qN_qdYvVcBc)
     * [10만 라인, 26280시간의 이야기](http://www.slideshare.net/kkungkkung/10-26280)
