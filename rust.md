@@ -135,6 +135,7 @@
 * [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
 * [Plumbum (latin for lead) is a port of Michael Snoyman's excellent conduit library. It allows for production, transformation, and consumption of streams of data in constant memory](https://srijs.de/rust-plumbum/plumbum/)
 * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
+* [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
 * [Rustation PlayStation emulator](https://github.com/simias/rustation)
