@@ -1622,6 +1622,7 @@ Javascript
 * [React Introduction For People Who Know Just Enough jQuery To Get By (2019 version)](https://medium.freecodecamp.org/react-introduction-for-people-who-know-just-enough-jquery-to-get-by-2019-version-28a4b4316d1a)
 * [Architecting your React application. The development and business perspective of what to be aware of](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891)
 * [Email Confirmation with React How to set up email-validation in React (+live demo)](https://blog.bitsrc.io/email-confirmation-with-react-257e5d9de725)
+* [11 React Application Boilerplates for 2019](https://blog.bitsrc.io/11-react-application-boilerplates-for-2019-b49a8226ea54)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
