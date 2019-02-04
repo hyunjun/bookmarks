@@ -451,7 +451,7 @@ TensorFlow
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
 * [Keras 기반의 표준화: TensorFlow 2.0의 고수준 API에 대한 안내](https://developers-kr.googleblog.com/2019/01/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0.html)
-* 2.0 colab
+* 2.0 tutorial colab
   * [2. tf.keras API basic](https://colab.research.google.com/drive/1CHj8uEgJJRxmOUJ4pXXoa9LNcHDT45eH)
   * [3. Regression modeling](https://colab.research.google.com/drive/1HvW7t_AbfLzPdw8xjPj9KY9XdhjkFGz_)
   * [4. FFNN modeling](https://colab.research.google.com/drive/1STSHOnNaxx4N6mtX8GlD2CM-XWYUXk8y)
