@@ -28,6 +28,7 @@ Javascript
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
+* [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
 * 초보자를 위한 바닐라 자바스크립트
   * [#0-1 Requirements : JS for Beginners](https://www.youtube.com/watch?v=wUHncG3VwPw)
@@ -1260,6 +1261,7 @@ Javascript
 * [19 ways to become a better Node.js developer in 2019](https://medium.com/@me_37286/19-ways-to-become-a-better-node-js-developer-in-2019-ffd3a8fbfe38)
 * [How to create a Node.js web app using no external packages](https://medium.freecodecamp.org/a-no-frills-guide-to-node-js-how-to-create-a-node-js-web-app-without-external-packages-a7b480b966d2)
 * [How to get started debugging NodeJS applications with ndb](https://medium.freecodecamp.org/how-to-get-started-debugging-nodejs-applications-with-ndb-a37e8747dbba)
+* [A Beginner’s Guide to Server-Side Web Development with Node.js](https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1618,6 +1620,8 @@ Javascript
 * [How to build a React.js chat app in 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-js-chat-app-in-10-minutes-c9233794642b)
 * [The React Developer Tools You Should Know in 2019](https://hackernoon.com/the-react-developer-tools-you-should-know-in-2019-e681dc4f4332)
 * [React Introduction For People Who Know Just Enough jQuery To Get By (2019 version)](https://medium.freecodecamp.org/react-introduction-for-people-who-know-just-enough-jquery-to-get-by-2019-version-28a4b4316d1a)
+* [Architecting your React application. The development and business perspective of what to be aware of](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891)
+* [Email Confirmation with React How to set up email-validation in React (+live demo)](https://blog.bitsrc.io/email-confirmation-with-react-257e5d9de725)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
