@@ -30,12 +30,13 @@ App
 * [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) 프로젝트 빌드를 위한 모든 SaaS 모음
 * [Tools for Makers - a hand curated directory of tools for makers to work on their dream projects](https://toolsformakers.com/)
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
-  * Airtable, Zenkit, Notion, Coda
+  * **[Airtable](https://airtable.com/)**, Zenkit, Notion, Coda
 * [Confluence를 이용한 프로젝트 현황판](https://www.popit.kr/confluence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%84%ED%99%A9%ED%8C%90)
 * [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
 * [AirConsole](http://www.airconsole.com/)
 * aircrack-ng
   * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
+  * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
