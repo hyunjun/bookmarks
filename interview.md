@@ -25,6 +25,7 @@ Interview
 * [How To Prepare For Technical Interviews](https://www.youtube.com/watch?v=iqEOhM3OvYo)
 * [How to make progress while studying for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74)
 * [How I applied lessons learned from a failed technical interview to get 5 job offers](https://medium.freecodecamp.org/how-i-applied-lessons-learned-from-a-failed-technical-interview-to-get-5-job-offers-656fcf58034d)
+* [How I got into Google](https://blog.usejournal.com/how-i-got-into-google-161c97913b8b)
 * [YC Interview Prep Tool](http://ycinterview.com/)
 * [The Rise And Looming Fall Of The Engineering Whiteboard Interview](http://www.forbes.com/sites/vivekravisankar/2015/05/04/the-rise-and-looming-fall-of-the-engineering-whiteboard-interview/)
 * [Embarrassing code I wrote under stress at a job interview](http://www.smashcompany.com/technology/embarrassing-code-i-wrote-under-stress-at-a-job-interview)
