@@ -59,14 +59,6 @@ Scala
 * [Nine Reasons to Try Scala](https://www.vidyasource.com/tutorial/nine-reasons-to-try-scala/)
 * [Dick Wall on his Scala Course](https://www.youtube.com/watch?v=M8zj7aOcFTI)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
-* [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
-  * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
-  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
-* [Scala Days Amsterdam 2015](http://event.scaladays.org/scaladays-amsterdam-2015)
-  * [My takeaways from ScalaDays 2015 in Amsterdam](http://coding.bwestlin.se/2015/06/16/scaladays-2015-amsterdam/)
-* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/videos)
-  * [Keynote: Scala's Road Ahead - by Martin Odersky](https://www.youtube.com/watch?v=_2oGY8l67jk)
-    * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
 * [3 programming languages to replace shell scripting](http://ju.outofmemory.cn/entry/198831)
@@ -136,6 +128,7 @@ Scala
 * [scala meta로 변경될 scala macro](https://www.youtube.com/watch?v=qEQHTGwus7Y)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
 * [1ambda.github.io/21/scala](https://1ambda.github.io/scala/) Scalaz, Functional, Reactive, Concurrent
+* [Purely functional parallelism in Scala](https://medium.com/@wiemzin/purely-functional-parallelism-in-scala-37ecb1e9999)
 * **[scala\-exercises\.org - 스칼라 관련 문제를 온라인으로 풀면서 공부](www.scala-exercises.org)**
 * [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
   * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)
@@ -196,6 +189,7 @@ Scala
 * [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
 * [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
+* [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -308,6 +302,8 @@ Scala
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](https://engineering.linecorp.com/ko/blog/detail/85)
 * [How you can build a Hello World API with Scala and Akka HTTP](https://medium.freecodecamp.org/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d)
 * [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
+* [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
+* [Hacking with akka streams](https://medium.com/@itseranga/akka-streams-hacks-33661b8f7f2d)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -423,6 +419,18 @@ Scala
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [underscore.io ebook](http://underscore.io/books/)
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
+
+# Conference
+* [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
+  * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
+  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
+* [Scala Days Amsterdam 2015](http://event.scaladays.org/scaladays-amsterdam-2015)
+  * [My takeaways from ScalaDays 2015 in Amsterdam](http://coding.bwestlin.se/2015/06/16/scaladays-2015-amsterdam/)
+* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/videos)
+  * [Keynote: Scala's Road Ahead - by Martin Odersky](https://www.youtube.com/watch?v=_2oGY8l67jk)
+    * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
+* [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
+* [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
 
 # IntelliJ
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
