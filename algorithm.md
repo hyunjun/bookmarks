@@ -372,6 +372,7 @@ Algorithm
 * [Extra, Extra - Read All About It: Nearly All Binary Searches and Mergesorts are Broken](http://googleresearch.blogspot.kr/2006/06/extra-extra-read-all-about-it-nearly.html?m=1)
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
+* [How to implement a Binary Search Algorithm in Java without recursion](https://medium.freecodecamp.org/how-to-implement-a-binary-search-algorithm-in-java-without-recursion-67d9337fd75f)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 * [Reverse Morris In-order Traversal](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/)
 
