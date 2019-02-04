@@ -1,0 +1,15 @@
+Create csv part, command line, SQLAlchemy, numpy
+csv
+Reading and Writing to CSVs in Python Playing with tabular data the native Python way https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f
+csvsort - Sort large CSV files on disk rather than in memory https://pypi.python.org/pypi/csvsort/1.0
+csvsql - Query CSV files using SQL https://github.com/rs86/csvsql
+
+Command Line
+Build your own Command Line with ANSI escape codes http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html
+한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기 https://www.youtube.com/watch?v=dEu24HJpuSI
+Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기 http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800
+Tools for Writing Python CLI Applications https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f
+
+Pythonic Database Management with SQLAlchemy https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0
+
+How to build your data science muscle memory: Slicing and Mapping Data for Machine Learning https://medium.freecodecamp.org/how-to-build-your-data-science-muscle-memory-slicing-and-mapping-data-for-machine-learning-d38e65986c69

@@ -259,8 +259,8 @@ NLP
 * [Natural Language Processing in Python](https://www.youtube.com/watch?v=xvqsFTUsOmc)
 * [A Practitioner's Guide to Natural Language Processing (Part I) — Processing & Understanding Text Proven and tested hands-on strategies to tackle NLP tasks](https://towardsdatascience.com/a-practitioners-guide-to-natural-language-processing-part-i-processing-understanding-text-9f4abfd13e72)
 * The 7 NLP Techniques That Will Change How You Communicate in the Future
-	* [(Part I)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-i-f0114b2f0497)
-	* [(Part II)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
+  * [(Part I)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-i-f0114b2f0497)
+  * [(Part II)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
