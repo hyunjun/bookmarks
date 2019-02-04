@@ -146,6 +146,7 @@ Haskell
 * [Haskell #1 (Introduction)](https://medium.com/@goinhacker/haskell-study-1-db0a9d9ac318)
 * ["Building Secure Systems in Haskell" by Deian Stefan](https://www.youtube.com/watch?v=jX-zsoPWah0)
 * [Fixpoints in Haskell](https://medium.com/@cdsmithus/fixpoints-in-haskell-294096a9fc10)
+* [What Haskell taught us when we were not looking - Eric Torreborre](https://www.youtube.com/watch?v=9liCkM3bDig)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
