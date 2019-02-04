@@ -125,6 +125,7 @@ Scala
 * [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
 * [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
+* **[Nicolas Rinaudo - Scala Best Practices I Wish Someone'd Told Me About](https://www.youtube.com/watch?v=lvlnH-uEjZA)**
 * [scala meta로 변경될 scala macro](https://www.youtube.com/watch?v=qEQHTGwus7Y)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
 * [1ambda.github.io/21/scala](https://1ambda.github.io/scala/) Scalaz, Functional, Reactive, Concurrent
@@ -314,6 +315,8 @@ Scala
   * [bitmap by for comprehension](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-bitmap-md)
 * [스칼라에서 리프팅(lifting) 이란?](http://hamait.tistory.com/894)
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
+* [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
+  * terminology, function composition, higher kinded types, implicits vs reflection
 * case class
   * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
   * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -383,6 +386,10 @@ Scala
   * [Scalaz 7 with Lars Hupel](https://www.youtube.com/watch?v=KzoqOVD7mvE)
   * [Cool toolz in the Scalaz and Cats toolboxes by Jan Pustelnik at Scalar Conf 2016](https://www.youtube.com/watch?v=HTy2hBwTPTY)
   * [졸면서 하는 라이브 코딩 (2018-12-14)](https://www.youtube.com/watch?v=Q7pddqeco_Q)
+  * [John A de Goes - SCALAZ 8 VS AKKA ACTORS](https://www.youtube.com/watch?v=Eihz7kqn6mU)
+  * [scalaz 8: A whole new game (John A. De Goes)](https://www.youtube.com/watch?v=sFGnFKMSmL0)
+  * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
+    * [John A De Goes - ZIO: Next-Generation Effects in Scala](https://www.youtube.com/watch?v=mkSHhsJXjdc)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
@@ -421,6 +428,7 @@ Scala
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
 
 # Conference
+* [scalar-conf.com](http://scalar-conf.com/)
 * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
   * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
   * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
@@ -431,6 +439,9 @@ Scala
     * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
+  * [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
+    * scala의 여러가지 문제점을 논함. 내부적으로 위기를 느끼나?
+  * [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
   * [Thinking Less with Scala - Daniel Sivan](https://www.youtube.com/watch?v=k6QRI1a-xNU) basic, implicit, cats.Monoid
 
 # IntelliJ
@@ -548,6 +559,7 @@ Scala
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 * [How to write composable functions and correct programs](https://medium.freecodecamp.org/monadic-composition-and-kleisli-arrows-1d96979bb32)
 * [A Guide to Scala Collections: Exploring Monads in Scala Collections](https://blog.redelastic.com/a-guide-to-scala-collections-exploring-monads-in-scala-collections-ef810ef3aec3)
+* [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
