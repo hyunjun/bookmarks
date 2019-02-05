@@ -143,6 +143,7 @@ Algorithm
 * [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms)
 * [n개의 제비뽑기에 n번 도전](https://johngrib.github.io/wiki/frac1e/)
 * [Coding Your First Algorithm — Draw A Line](https://medium.freecodecamp.org/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395)
+* [What’s the smallest possible number? — Programming Word of the Day](https://medium.com/background-thread/whats-the-smallest-possible-number-programming-word-of-the-day-d959bc6f2dd5)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -360,6 +361,7 @@ Algorithm
 * [Isnt tail recursion very similar to the concept of looping? What is the need for tail recursion when you can achieve the same using loops?](https://www.quora.com/Isnt-tail-recursion-very-similar-to-the-concept-of-looping-What-is-the-need-for-tail-recursion-when-you-can-achieve-the-same-using-loops)
 * [How Recursion Works — explained with flowcharts and a video](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9)
 * [재귀의 폭풍](https://docs.google.com/presentation/d/e/2PACX-1vQPuwHXnlsmWSRgLTgpKXQouxwXuLJFNmBX9j2WthdAh2J8-_u_0wtU7CLEog7SbzH7SJNTqCAPgblu/pub)
+* [Recursive Programming](https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0)
 
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
