@@ -1405,6 +1405,7 @@ Javascript
 * [Reactive Extensions (Rx) Koans](https://rxkoans.codeplex.com/)
 * [Learn the Reactive Extensions for JavaScript (RxJS) with RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
 * [RxJS로 캐러셀(Carousel) UI 만들기](http://tech.lezhin.com/2017/10/08/create-carousel-with-rxjs)
+* [How to never repeat the same RxJs mistakes again](https://medium.freecodecamp.org/blitz-tips-rxjs-pipe-is-not-a-subscribe-125c89437a2c)
 * [How to think reactively and animate moving objects using RxJs](https://medium.freecodecamp.org/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac)
 * [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
 * [NgRx 5 and Schematics](https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506)
@@ -1549,7 +1550,6 @@ Javascript
 * [React prod, staging, dev 환경별 환경 설정하기](https://engineering.huiseoul.com/react-prod-staging-dev-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-8eb6bbccddfe)
 * [Yes, React is taking over front-end development. The question is why](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76)
 * [Conditional Rendering in React using Ternaries and Logical AND](https://medium.freecodecamp.org/conditional-rendering-in-react-using-ternaries-and-logical-and-7807f53b6935)
-* [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 * [How I Cut My React Javascript Bundle Size In Half With Three Lines of Code](https://codeburst.io/how-i-cut-my-react-javascript-bundle-size-in-half-with-three-lines-of-code-fe7798ecbd3f)
 * [Two Quick Ways To Reduce React App’s Size In Production](https://medium.com/@rajaraodv/two-quick-ways-to-reduce-react-apps-size-in-production-82226605771a)
 * [How to Build a Chat Application using React, Redux, Redux-Saga, and Web Sockets](https://medium.freecodecamp.org/how-to-build-a-chat-application-using-react-redux-redux-saga-and-web-sockets-47423e4bc21a)
@@ -1700,6 +1700,7 @@ Javascript
 * [React로 보는 COSMEE](https://slides.com/bobinlee-1/deck)
   * [github.com/BoBinLee/rn-stack-sample](https://github.com/BoBinLee/rn-stack-sample)
 * [How React Native constructs app layouts (and how Fabric is about to change it)](https://medium.freecodecamp.org/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055)
+* [A way to learn React](https://itnext.io/a-way-to-learn-react-b95056eafebb)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
@@ -1811,6 +1812,8 @@ Javascript
 * [Using Socket.Io With RethinkDB Changefeeds To Build A Reactive JavaScript Stack](http://www.scotthasbrouck.com/blog/2016/3/13/using-socketio-with-rethinkdb-changefeeds-to-build-a-reactive-backend)
 * [socket.io-multi-chat](https://github.com/jkRaccoon/socket.io-multi-chat)
 * [Socket.IO 기반의 티몬 상담톡 개발기](http://tmondev.blog.me/220982377777)
+* [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
+* [How to create a realtime app using Socket.io, React, Node & MongoDB](https://medium.freecodecamp.org/how-to-create-a-realtime-app-using-socket-io-react-node-mongodb-a10c4a1ab676)
 
 # Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
