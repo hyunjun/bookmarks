@@ -365,6 +365,7 @@ AWS
 * [re:Invent 2018 - AWS 람다, 함수 간 공유 가능한 레이어 기능 지원](https://www.44bits.io/ko/post/news--reinvent-2018-aws-lambda-layer)
 * [AWS 람다 레이어 공유하기 - AWS 람다 함수의 공통 부분을 다른 계정이나 조직과 공유하는 방법](https://www.44bits.io/ko/post/sharing-aws-lambda-layer)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
+* [How to build and use a Layer for your AWS Lambdas](https://medium.freecodecamp.org/lambda-layers-2f80b9211318)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
