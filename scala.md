@@ -21,6 +21,7 @@ Scala
 * [Scala Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
 * [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
 * [Scala for Data Science Engineering — Part 2](https://towardsdatascience.com/scala-for-data-science-engineering-part-2-17052d186ff3)
+* [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
 * 케빈 TV
   * [시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
   * [시즌2 - 게릴라 방송 2회](https://www.youtube.com/watch?v=hiCA194VLZk)
