@@ -336,6 +336,9 @@
   * [a comparison of the basic commands (Part I)](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
   * [Pandas vs. Spark: how to handle dataframes (Part II)](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
 * [Points to remember while processing streaming timeseries data in order using Kafka and Spark](https://medium.com/@sathishjayaram/tips-for-processing-streaming-timeseries-data-in-order-using-kafka-and-spark-2e07cf5e4256)
+* A Journey Into Big Data with Apache Spark
+  * [Part 1](https://towardsdatascience.com/a-journey-into-big-data-with-apache-spark-part-1-5dfcc2bccdd2)
+  * [Part 2](https://towardsdatascience.com/a-journey-into-big-data-with-apache-spark-part-2-4511aa19a900)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
