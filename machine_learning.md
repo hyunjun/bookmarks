@@ -414,6 +414,7 @@ Machine Learning
 * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1 - with tensorflow, cntk, keras, horovod, Azure Batch AI](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu.html)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
+  * [Amazing Machine Learning Open Source of the Year (v.2019)](https://medium.mybridge.co/amazing-machine-learning-open-source-tools-projects-of-the-year-v-2019-95d772e4e985)
   * [Learn Machine Learning from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-machine-learning-from-top-50-articles-for-the-past-year-v-2019-15842d0b82f6)
   * [Machine Learning Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-dec-2018-3ab1dc6919f)
   * [Machine Learning Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-dec-2018-37b229f930a1)
