@@ -280,6 +280,7 @@ Javascript
 * [What is “this” in JavaScript?](https://blog.bitsrc.io/what-is-this-in-javascript-3b03480514a7)
 * [자바스크립트 this 바인딩](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-this-%EB%B0%94%EC%9D%B8%EB%94%A9/)
 * [Removing JavaScript’s “this” keyword makes it a better language. Here’s why](https://medium.freecodecamp.org/removing-javascripts-this-keyword-makes-it-a-better-language-here-s-why-db28060cc086)
+* [A guide to this in JavaScript](https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * **[자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
@@ -433,6 +434,7 @@ Javascript
 * [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
+* [Learn Angular from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-angular-from-top-50-articles-for-the-past-year-v-2019-90ebe34dce1d)
 * [Angular Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-dec-2018-41035776016e)
 * [Angular Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-nov-2018-2eb5ec9e3b35)
 * [Angular Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/angular-top-10-articles-for-the-past-month-v-june-2018-969a00e0c451)
@@ -1275,6 +1277,7 @@ Javascript
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
+* [10 Node.js Frameworks Worth Checking Out: Express, Loopback, Hapi, and Beyond](https://medium.freecodecamp.org/10-node-js-frameworks-worth-checking-out-express-loopback-hapi-and-beyond-7b537b590f89)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
 * [boardgame.io](https://google.github.io/boardgame.io/) React + Redux + socket.io + koa.js
@@ -1321,6 +1324,7 @@ Javascript
 * [GridLayout - Lightweight grid system for advanced horizontal and vertical web app layouts, with support for older browsers](https://ghinda.net/gridlayout/)
 * [hasha - Hashing made simple. Get the hash of a buffer/string/stream/file](https://github.com/sindresorhus/hasha)
 * [ied (WIP) - An alternative package manager for Node](https://github.com/alexanderGugel/ied)
+* [Joi — awesome code validation for Node.js and Express](https://itnext.io/joi-awesome-code-validation-for-node-js-and-express-514b5570ce20)
 * [JSON Server - Get a full fake REST API with zero coding in less than 30 seconds (seriously)](https://github.com/typicode/json-server)
   * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
 * [Lambda Complex is a Node.js framework for applications that run entirely within Lambda, SQS, and other high abstraction layer AWS services](https://github.com/exratione/lambda-complex)
@@ -1340,6 +1344,7 @@ Javascript
   * [BBS (+ MySQL)](https://github.com/Hanul/nsp-sample-bbs-mysql)
   * [BBS (+ AngularJS)](https://github.com/Hanul/nsp-sample-bbs-angularjs)
 * nvm [노드를 더 우아하게. nvm 이야기](http://jybaek.tistory.com/746)
+* Odi [Building chat with Odi (Node.js)](https://hackernoon.com/building-chat-with-odi-node-js-e77ecd3891b2)
 * [Opbeat makes monitoring and debugging your Node.js production apps much faster, and your code better](https://opbeat.com/nodejs/)
 * [pg-live-select](https://github.com/numtel/pg-live-select)
 * pm2
@@ -1559,6 +1564,7 @@ Javascript
 * [How to deploy a React application to Netlify that reads from a Google Sheet](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-that-reads-from-a-google-sheet-97a015806c47)
 * [Let’s fall in love with React Fiber](https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded)
 * [create-react-app --scripts-version=react-scripts-ts를 이용하여 프로젝트 구성](https://github.com/kjk7034/create-react-app-typescript)
+* [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d)
 * [Presentational and Container Components](https://medium.com/@seungha_kim_IT/presentational-and-container-components-%EB%B2%88%EC%97%AD-1b1fb2e36afb)
 * [ReactEurope 2018](https://devwaf.blogspot.com/2018/06/reacteurope-2018.html)
 * [Debounce SyntheticEvent](https://hyunseob.github.io/2018/06/24/debounce-react-synthetic-event/)
@@ -1635,6 +1641,7 @@ Javascript
 * [Tiny Components: What Can Go Wrong?](https://blog.bitsrc.io/tiny-components-what-can-go-wrong-d6aa42d71370)
 * [How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)
 * [You probably need a build toolchain](https://itnext.io/you-probably-need-a-build-toolchain-88ed311c3476)
+* [Understanding React Render Props and HOC](https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
