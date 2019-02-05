@@ -74,6 +74,7 @@ iOS
 * [Charlse Proxy iOS의 프록시 자동 옵션으로 연결하기](http://ohgyun.com/763)
 * [5 Tools To Speed Up Your App Development](https://medium.com/swlh/5-tools-to-speed-up-your-app-development-6979d0e49e34)
 * [NAVER Tech Talk: iOS 밋업(2018년 8월~10월)](https://d2.naver.com/news/7036256)
+* [Swift vs. Objective-C: The trending up-and-comer vs. the dinosaur](https://medium.freecodecamp.org/https-medium-com-colin-gabriel-smith-swift-vs-objective-c-5b19add8e2ed)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
@@ -394,6 +395,7 @@ iOS
 * [How to handle internet connection reachability in Swift](https://medium.freecodecamp.org/how-to-handle-internet-connection-reachability-in-swift-34482301ea57)
 * [Creating Custom Operators in Swift](https://hackernoon.com/creating-custom-operators-in-swift-2c8bababbaf6)
 * [Dart vs Swift: a comparison](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
+* [Swift Multi-Threading using GCD For Beginners](https://hackernoon.com/swift-multi-threading-using-gcd-for-beginners-2581b7aa21cb)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
