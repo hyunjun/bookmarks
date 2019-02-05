@@ -223,6 +223,8 @@ Functional Programming
 * [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
 * **[Switching from OOP to Functional Programming](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)** scala, haskell 예제로 설명
 * [A Crash Course in Category Theory - Bartosz Milewski](https://www.youtube.com/watch?v=JH_Ou17_zyU)
+* [Fun(c) 2018.7: John De Goes - FP to the Max](https://www.youtube.com/watch?v=sxudIMiOo68)
+  * [fpmax.scala](https://gist.github.com/jdegoes/1b43f43e2d1e845201de853815ab3cb9)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
