@@ -495,6 +495,7 @@ App
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
 * [Mac에서 library not found for lgfortran 에러 해결하기](https://lumiamitie.github.io/r/mac-lgfortran/)
 * **[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)** default보다 나은 command line tool 설명
+* [How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
