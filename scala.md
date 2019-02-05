@@ -389,8 +389,10 @@ Scala
   * [졸면서 하는 라이브 코딩 (2018-12-14)](https://www.youtube.com/watch?v=Q7pddqeco_Q)
   * [John A de Goes - SCALAZ 8 VS AKKA ACTORS](https://www.youtube.com/watch?v=Eihz7kqn6mU)
   * [scalaz 8: A whole new game (John A. De Goes)](https://www.youtube.com/watch?v=sFGnFKMSmL0)
+  * [The Design of the Scalaz 8 Effect System - John A. De Goes](https://www.youtube.com/watch?v=CIPGZzbPpeg)
   * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
     * [John A De Goes - ZIO: Next-Generation Effects in Scala](https://www.youtube.com/watch?v=mkSHhsJXjdc)
+    * [Scale By The Bay 2018: John A. De Goes, Itamar Ravid, Scalaz Stream: Rebirth](https://www.youtube.com/watch?v=mLJYODobz44)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
