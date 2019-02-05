@@ -146,6 +146,7 @@ Javascript
 * [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
 * [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
   * [Ionic 3 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct)
+* [How to make your app work offline with the power of JavaScript](https://medium.freecodecamp.org/how-to-make-your-app-work-offline-with-the-power-of-javascript-685d968bcfbb)
 * [WRITING AN X86 EMULATOR IN JAVASCRIPT](http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/)
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
 * [Visualising Program Execution](http://janpaulposma.nl/visualising-program-execution/)
@@ -190,6 +191,7 @@ Javascript
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
 * [CPS로 스택오버플로 회피하기](https://medium.com/@jooyunghan/cps%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-11db11eb8d75)
 * [JS 제너레이터에서 throw/catch](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-throw-catch-60fd61bef2a0)
+* [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
 * [JS에 Applicative/Traversable 적용하기](https://medium.com/@jooyunghan/js%EC%97%90-applicative-traversable-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-a03147e0de94)
 * [generator/interpreter 패턴?](https://medium.com/@jooyunghan/generator-interpreter-%ED%8C%A8%ED%84%B4-a3aecd71c431)
 * [“The Eff monad implemented in Flow”](https://medium.com/@gcanti/the-eff-monad-implemented-in-flow-40803670c3eb) Eff 모나드를 자바스크립트+Flow로 소개한 글
@@ -277,6 +279,7 @@ Javascript
 * [자바스크립트의 this가 가리키는 것](https://rhostem.github.io/posts/2018-07-20-this-in-javascript/)
 * [What is “this” in JavaScript?](https://blog.bitsrc.io/what-is-this-in-javascript-3b03480514a7)
 * [자바스크립트 this 바인딩](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-this-%EB%B0%94%EC%9D%B8%EB%94%A9/)
+* [Removing JavaScript’s “this” keyword makes it a better language. Here’s why](https://medium.freecodecamp.org/removing-javascripts-this-keyword-makes-it-a-better-language-here-s-why-db28060cc086)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * **[자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
@@ -398,6 +401,8 @@ Javascript
 * [When to use var vs let vs const in JavaScript](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037)
 * [9 Tricks for Kickass JavaScript Developers in 2019](https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a)
 * [You might not need a build toolchain](https://itnext.io/you-might-not-need-a-build-toolchain-324edcef7f9a)
+* [Unpacking JavaScript classes](https://hackernoon.com/unpacking-javascript-classes-81d32804c978)
+* [Let’s explore Slice(), Splice() & Spread Syntax(…) in JavaScript](https://medium.freecodecamp.org/lets-explore-slice-splice-spread-syntax-in-javascript-e242a6f21e60)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -478,6 +483,7 @@ Javascript
 * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
+* [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -604,6 +610,7 @@ Javascript
 * [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 * [JavaScript traits: the clean way to modify global prototypes - With ES6 it’s finally possible to add methods to Object.prototype, Array.prototype and all the others, in a clean way](https://itnext.io/straits-9ef2b9a563cd)
 * [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
+* [How to use destructuring in JavaScript (ES6) to its full potential](https://medium.freecodecamp.org/destructuring-in-javascript-es6-ee963292623a)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -681,6 +688,8 @@ Javascript
 * Going Serverless with NodeJS & GraphQL
   * [(Part I) — Setting up Serverless](https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-5b34f5d280f4)
   * [(Part II) — Implementing GraphQL on AWS Lambda](https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-part-ii-1810445028a4)
+* [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
+* [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1623,6 +1632,9 @@ Javascript
 * [Architecting your React application. The development and business perspective of what to be aware of](https://blog.usejournal.com/architecting-your-react-application-5af9cd65a891)
 * [Email Confirmation with React How to set up email-validation in React (+live demo)](https://blog.bitsrc.io/email-confirmation-with-react-257e5d9de725)
 * [11 React Application Boilerplates for 2019](https://blog.bitsrc.io/11-react-application-boilerplates-for-2019-b49a8226ea54)
+* [Tiny Components: What Can Go Wrong?](https://blog.bitsrc.io/tiny-components-what-can-go-wrong-d6aa42d71370)
+* [How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)
+* [You probably need a build toolchain](https://itnext.io/you-probably-need-a-build-toolchain-88ed311c3476)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1914,6 +1926,7 @@ Javascript
 * [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Learn Vue.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-vue-js-from-top-50-articles-for-the-past-year-v-2019-ebae8b746522)
   * [Vue.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-dec-2018-d0d0b0f7c933)
   * [Vue.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/vue-js-open-source-of-the-month-v-nov-2018-a94d1b4c5171)
   * [Vue.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/vue-js-open-source-of-the-month-v-oct-2018-e8f1ad1b905b)
