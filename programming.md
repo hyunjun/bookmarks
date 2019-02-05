@@ -553,6 +553,7 @@ Programming
     * [cloud.google.com/deep-learning-vm/docs/concepts-images](https://cloud.google.com/deep-learning-vm/docs/concepts-images)
     * `gcloud compute ssh {VM name} -- -L 8888:localhost:8888 -L 6006:localhost:6006 -L 8080:localhost:8080`
   * [구글 Cloud SQL 에 이모티콘 들어가게 설정하기](https://jungwoon.github.io/google%20cloud,%20mysql/2019/01/10/Google-Cloud-SQL-Enable-Emojis/)
+  * [MySQL, Google Cloud, and a REST API that Generates Itself](https://hackingandslacking.com/mysql-google-cloud-and-a-rest-api-that-generates-itself-9872fc9dc84f)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -925,6 +926,7 @@ Programming
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
 * [Here are 380 Ivy League courses you can take online right now for free](https://medium.freecodecamp.org/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c)
+* [560+ Free Online Programming & Computer Science Courses You Can Start in February](https://medium.freecodecamp.org/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
 * [Analytics, Big Data, and Data Science Courses](https://bigdatauniversity.com/)
 * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
