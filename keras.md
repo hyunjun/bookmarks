@@ -3,6 +3,7 @@ Keras
 
 * [Korean translation of the Keras documentation](https://github.com/keras-team/keras-docs-ko)
 * [Keras와 함께 딥러닝 백지부터 GANs까지!](https://www.codeonweb.com/course/@keras-dlwp) twitter login
+* [Getting to Know Keras for New Data Scientists](https://medium.com/@ODSC/getting-to-know-keras-for-new-data-scientists-cebbc42a3122)
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
 * [Deep Learning: Keras Short Tutorial](https://www.youtube.com/watch?v=Tp3SaRbql4k)
 * [KEKOxTutorial](https://github.com/KerasKorea/KEKOxTutorial)
