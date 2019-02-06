@@ -404,6 +404,8 @@ Javascript
 * [You might not need a build toolchain](https://itnext.io/you-might-not-need-a-build-toolchain-324edcef7f9a)
 * [Unpacking JavaScript classes](https://hackernoon.com/unpacking-javascript-classes-81d32804c978)
 * [Let’s explore Slice(), Splice() & Spread Syntax(…) in JavaScript](https://medium.freecodecamp.org/lets-explore-slice-splice-spread-syntax-in-javascript-e242a6f21e60)
+* [How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
+* [CodeByte: Why explicit semicolons are important in JavaScript](https://medium.freecodecamp.org/codebyte-why-are-explicit-semicolons-important-in-javascript-49550bea0b82)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -497,6 +499,7 @@ Javascript
   * [promisees - promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
   * [쉽게 이해하는 자바스크립트 Promise](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
   * [자바스크립트 promise? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=CA5EDD4Hjz4)
+	* [How to Write a JavaScript Promise](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -1178,6 +1181,7 @@ Javascript
 * [Mac에 설치된 node.js 제거하기](http://gomcine.tistory.com/entry/nodejs-Mac%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-nodejs-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [45 Amazing Node.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925)
 * [Learn Node.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-node-js-from-top-50-articles-for-the-past-year-v-2019-2ec0a6a2cfa2)
 * [Node.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-dec-2018-89be607bdc44)
 * [Node.js Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/node-js-open-source-of-the-month-v-dec-2018-c23c9de324f3)
@@ -1651,6 +1655,8 @@ Javascript
 * [React v16 무엇이 바뀌었나](http://dev-momo.tistory.com/entry/React-v16-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EC%97%88%EB%82%98)
 * [Let’s build a fast, slick and customizable rich text editor with Slate.js and React](https://medium.freecodecamp.org/lets-build-a-customizable-rich-text-editor-with-slate-and-react-beefd5d441f2)
 * [Let’s build a fast, slick and customizable rich text editor with Slate.js and React— Part II](https://medium.freecodecamp.org/lets-build-a-fast-slick-and-customizable-rich-text-editor-with-slate-and-react-part-ii-3d3908d89664)
+* [Pointer events in React — the why, how, and what](https://medium.freecodecamp.org/pointer-events-with-react-the-why-how-what-617a5b51dbb2)
+* [React Chat Basic Tutorial](https://hackernoon.com/react-chat-basic-tutorial-7bd2af16a57e)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1735,6 +1741,7 @@ Javascript
   * [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
   * [Why you should use GatsbyJS to build static sites](https://medium.freecodecamp.org/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b)
   * [How to animate page transitions in Gatsby.js](https://medium.freecodecamp.org/how-to-animate-page-transitions-in-gatsby-js-b36e3ae14c29)
+  * [How to quickly set up a Gatsby.js JAMstack website with a headless CMS](https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
@@ -1824,7 +1831,9 @@ Javascript
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
 * [자바스크립트 간단한 Test 코드 만들어보기](https://joshua1988.github.io/web-development/javascript/js-testing/)
 * [Simply JavaScript: a straightforward intro to Mocking, Stubbing, and Interfaces](https://medium.freecodecamp.org/simply-javascript-a-straightforward-intro-to-mocking-stubbing-and-interfaces-14e67ed6641a)
+* [Write tests. Not too many. Mostly integration](https://blog.kentcdodds.com/write-tests-not-too-many-mostly-integration-5e8c7fff591c)
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
+* cypress [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
 * [Mocha.js](https://github.com/mochajs)
