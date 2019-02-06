@@ -119,6 +119,7 @@ Web
 * [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
 * [변화하는 웹 플랫폼 따라가기](https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html)
 * [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](http://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
+* [Static vs Dynamic Website — What’s the Difference in 2019?](https://hackernoon.com/static-vs-dynamic-website-whats-the-difference-in-2019-327064bfd4a9)
 * [Prepare Your Skill Set for Web Developer Interviews — Part 1](https://hackernoon.com/prepare-your-skill-set-for-web-developer-interviews-part-1-75f625a37341)
 * [Modern Frontend Developer in 2018](https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c)
 * [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
