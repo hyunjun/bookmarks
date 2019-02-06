@@ -179,6 +179,7 @@ Data Visualization
 * [PyViz](http://pyviz.org/)
   * [Materials for PyViz talk at PyDataDC 2018 - building up to the creation of this dashboard](https://github.com/jsignell/pydata_dc_2018)
   * [Making interactive visualizations easy, inside and outside of notebooks - Julia Signell](https://www.youtube.com/watch?v=X4sK0R7U218)
+  * [PyViz: Simplifying the Data Visualisation process in Python](https://towardsdatascience.com/pyviz-simplifying-the-data-visualisation-process-in-python-1b6d2cb728f1)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
