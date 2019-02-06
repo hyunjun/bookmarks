@@ -1701,6 +1701,7 @@ Javascript
   * [github.com/BoBinLee/rn-stack-sample](https://github.com/BoBinLee/rn-stack-sample)
 * [How React Native constructs app layouts (and how Fabric is about to change it)](https://medium.freecodecamp.org/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055)
 * [A way to learn React](https://itnext.io/a-way-to-learn-react-b95056eafebb)
+* [파일 시스템 사용 - RN(React Native) 프로젝트에서 react-native-fs 라이브러리를 사용하여 파일을 읽고 써봅시다](https://dev-yakuza.github.io/ko/react-native/react-native-fs/)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
