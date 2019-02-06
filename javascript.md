@@ -692,6 +692,7 @@ Javascript
   * [(Part II) — Implementing GraphQL on AWS Lambda](https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-part-ii-1810445028a4)
 * [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 * [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
+* [How to build a simple social media monitor with NodeJS, GraphQL, and Vue](https://medium.freecodecamp.org/how-to-build-a-simple-social-media-monitor-with-nodejs-graphql-and-vue-55ffe4124ab5)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1454,6 +1455,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [Amazing React.js Open Source Tools & Projects of the Year (v.2019)](https://medium.mybridge.co/amazing-react-js-open-source-of-the-year-v-2019-364d057ac3f3)
 * [Learn React.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-react-js-from-top-50-articles-for-the-past-year-v-2019-baaacfc521c)
 * [React.js Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-dec-2018-2476c17b70d1)
 * [React.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-dec-2018-8897aec7d59c)
@@ -1642,6 +1644,13 @@ Javascript
 * [How to build a React project from scratch using Webpack 4 and Babel](https://hackernoon.com/how-to-build-a-react-project-from-scratch-using-webpack-4-and-babel-56d4a26afd32)
 * [You probably need a build toolchain](https://itnext.io/you-probably-need-a-build-toolchain-88ed311c3476)
 * [Understanding React Render Props and HOC](https://blog.bitsrc.io/understanding-react-render-props-and-hoc-b37a9576e196)
+* [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
+* [ReactJS: Props와 State 비교](https://wonhada.com/?topic=reactjs-props%EC%99%80-state-%EB%B9%84%EA%B5%90)
+* [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
+* [VROONG TMS 매니저웹 폴더 구조 변천사](https://meshlabs.ghost.io/vroong-tms-folder-structure/)
+* [React v16 무엇이 바뀌었나](http://dev-momo.tistory.com/entry/React-v16-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EC%97%88%EB%82%98)
+* [Let’s build a fast, slick and customizable rich text editor with Slate.js and React](https://medium.freecodecamp.org/lets-build-a-customizable-rich-text-editor-with-slate-and-react-beefd5d441f2)
+* [Let’s build a fast, slick and customizable rich text editor with Slate.js and React— Part II](https://medium.freecodecamp.org/lets-build-a-fast-slick-and-customizable-rich-text-editor-with-slate-and-react-part-ii-3d3908d89664)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1702,6 +1711,8 @@ Javascript
 * [How React Native constructs app layouts (and how Fabric is about to change it)](https://medium.freecodecamp.org/how-react-native-constructs-app-layouts-and-how-fabric-is-about-to-change-it-dd4cb510d055)
 * [A way to learn React](https://itnext.io/a-way-to-learn-react-b95056eafebb)
 * [파일 시스템 사용 - RN(React Native) 프로젝트에서 react-native-fs 라이브러리를 사용하여 파일을 읽고 써봅시다](https://dev-yakuza.github.io/ko/react-native/react-native-fs/)
+* [React Native Express - Learn React Native, the cross-platform app framework](http://www.reactnativeexpress.com/)
+* [React Native Study](https://github.com/kjk7034/ReactNativeStudy)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
@@ -1796,13 +1807,6 @@ Javascript
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
-* [React Native Express - Learn React Native, the cross-platform app framework](http://www.reactnativeexpress.com/)
-* [React Native Study](https://github.com/kjk7034/ReactNativeStudy)
-* [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
-* [ReactJS: Props와 State 비교](https://wonhada.com/?topic=reactjs-props%EC%99%80-state-%EB%B9%84%EA%B5%90)
-* [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
-* [VROONG TMS 매니저웹 폴더 구조 변천사](https://meshlabs.ghost.io/vroong-tms-folder-structure/)
-* [React v16 무엇이 바뀌었나](http://dev-momo.tistory.com/entry/React-v16-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%B0%94%EB%80%8C%EC%97%88%EB%82%98)
 
 ## SocketIO
 * [socket.io](http://socket.io/)
