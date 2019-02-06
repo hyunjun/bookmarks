@@ -131,4 +131,5 @@ Julia
 * [Conning 자산 운용](https://github.com/Conning)
 
 ## MOOC, Lecture
+* [Julia Academy](https://academy.juliabox.com/)
 * [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)
