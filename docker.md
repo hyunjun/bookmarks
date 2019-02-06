@@ -401,6 +401,7 @@ Docker
 # Dockerfile
 * [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/)
 * [How to Optimize Your Dockerfile](https://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
+* [Docker ENTRYPOINT & CMD: Dockerfile best practices](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
 * practice
   * [some project with apache](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-some_project_and_apache-md)
   * [ubuntu + python3, 한글](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-ubuntu_python3_korean-md)
