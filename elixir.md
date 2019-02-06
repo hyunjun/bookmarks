@@ -52,6 +52,7 @@ Elixir
 * [#elixir 언어로 #telegram 봇 만들기](http://ohyecloudy.com/pnotes/archives/create-telegram-bots-in-elixir-language/)
 * [#elixir 언어로 만든 네이버 검색 랭킹 알림 #telegram 봇을 #heroku 플랫폼으로 배포하기](http://ohyecloudy.com/pnotes/archives/naver-search-ranking-notification-telegram-bot/)
 * [elixir 프로젝트 템플릿](https://github.com/ohyecloudy/project-templates/tree/master/elixir)
+* [Learn With Me: Elixir - A series where I learn Elixir and you can learn along with me](https://inquisitivedeveloper.com/tag/lwm-elixir/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
@@ -76,5 +77,6 @@ Elixir
     * [Part 3: Deploying to Kubernetes](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-3-deploying-to-bd5b1fcbef87)
     * [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1)
     * [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
+  * [Installing Elixir and Phoenix](https://hackernoon.com/installing-elixir-and-phoenix-1a35e82c58bf)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
