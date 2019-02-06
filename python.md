@@ -2675,7 +2675,6 @@ Python
   * [유재명: R vs. Python: 누가, 언제, 왜 - PyCon Korea 2015](https://www.youtube.com/watch?v=PidYJgS1AOg)
   * [김재석: 도도와 파이썬: 좋은 선택과 나쁜 선택 - PyCon Korea 2015](https://www.youtube.com/watch?v=LDRG91IACIs)
   * [임덕규: 업무에서 빠르게 만들어 사용하는 PyQt 프로그래밍 - PyCon Korea 2015](https://www.youtube.com/watch?v=UHqZMRbHcvc)
-  * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
 * [pycon 2016](https://us.pycon.org/2016/)
   * [see python, see python go, go python go](https://blog.heroku.com/archives/2016/6/2/see_python_see_python_go_go_python_go)
     * [gohttplib - go 1.5 buildmodes experiment: expose net/http.server as a library with c bindings](https://github.com/shazow/gohttplib)
@@ -2961,6 +2960,10 @@ Python
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
+
+# VSCode, Visual Studio Code
+* [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
+* [Dan Taylor - Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o)
 
 # Web
 * Let’s Build A Web Server
