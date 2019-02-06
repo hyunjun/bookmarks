@@ -47,6 +47,7 @@ Machine Learning
 * [기본적인 머신러닝과 딥러닝 강좌](https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C/)
 * [2016 여름 머신러닝 워크샵 1일차 강의 (KAIST 오혜연 교수님)](https://www.youtube.com/watch?v=Wf6lIlJZgKg)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
+* [The Data Fabric for Machine Learning. Part 1.](https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-1-2c558b7035d7)
 * [기계 학습 기초](http://letsgoturing.tistory.com/9)
 * [통계 학습이란](http://bywords.tistory.com/entry/Statistical-Learning-1-Introduction)
 * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
@@ -240,7 +241,6 @@ Machine Learning
 * [topdata.news](http://topdata.news/)
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
-* [Clustering Based Unsupervised Learning](https://towardsdatascience.com/clustering-based-unsupervised-learning-8d705298ae51)
 * [NDC 2016 김정주 - 기계학습을 활용한 게임 어뷰징 검출](http://www.slideshare.net/ssuser163469/ndc-2016-61452271)
 * [Feature Selection Technical Report](http://featureselection.asu.edu/)
   * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
@@ -574,6 +574,27 @@ Machine Learning
 # C#
 * [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)
 
+# Clustering
+* [Clustering Based Unsupervised Learning](https://towardsdatascience.com/clustering-based-unsupervised-learning-8d705298ae51)
+* [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
+* [Assessment Metrics for Clustering Algorithms](https://medium.com/@ODSC/assessment-metrics-for-clustering-algorithms-4a902e00d92d)
+* [Fantastic drivers and how to find them](https://blog.gojekengineering.com/fantastic-drivers-and-how-to-find-them-a88239ef3b29)
+
+## Clustering DBSCAN
+* [DBSCAN (밀도 기반 클러스터링)](http://bcho.tistory.com/1205)
+* [밀도기반 클러스터링 - DBSCAN](http://sams.epaiai.com/221023672149)
+
+## Clustering K-means
+* [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
+* [k-means++ Silhouettes](http://www.drbunsen.org/kmeans-pp-silhouettes/)
+* [Density-Based Clustering](http://blog.dominodatalab.com/topology-and-density-based-clustering/)
+* [Machine Learning 스터디 (13) Clustering (K-means, Gaussian Mixture Model)](http://sanghyukchun.github.io/69/)
+* [K-means 알고리즘 구현하기](https://junpyopark.github.io/K_means/)
+
+## Clustering Python
+* [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
+  * [openface](https://github.com/jaeho-kang/deep-learning/tree/master/openface)
+
 # Go
 * [Real-time Machine Learning in Go (for smart energy)](https://github.com/michaelbironneau/golanguk2016)
   * [Goml](https://github.com/cdipaolo/goml)
@@ -697,13 +718,6 @@ Machine Learning
 * [A Summary of Using k-NN in Production](https://blog.dominodatalab.com/summary-using-k-nn-production/)
 * [Introduction to k-Nearest-Neighbors](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
 * [TOROS N2](https://brunch.co.kr/@kakao-it/300)
-
-# K-means
-* [Finding Topics in Harry Potter using K-Means Clustering](http://dogdogfish.com/2015/05/11/finding-topics-in-harry-potter-using-k-means-clustering/)
-* [k-means++ Silhouettes](http://www.drbunsen.org/kmeans-pp-silhouettes/)
-* [Density-Based Clustering](http://blog.dominodatalab.com/topology-and-density-based-clustering/)
-* [Machine Learning 스터디 (13) Clustering (K-means, Gaussian Mixture Model)](http://sanghyukchun.github.io/69/)
-* [K-means 알고리즘 구현하기](https://junpyopark.github.io/K_means/)
 
 # Library
 * [머신러닝과 예측 알고리즘에 '안성맞춤' 데이터 과학 툴 10선](http://www.ciokorea.com/news/37977)
@@ -868,8 +882,6 @@ Machine Learning
 * [Data Science – Deep Learning in Python](http://gainfromhere.com/data-science-deep-learning-python-online-course/)
 * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science (from PyData 2017, Amsterdam)](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
 * [Pattern Designing in Python | Pattern Matching in Machine Learning](https://www.youtube.com/watch?v=Io6pV-Sx0po)
-* [DBSCAN (밀도 기반 클러스터링)](http://bcho.tistory.com/1205)
-* [밀도기반 클러스터링 - DBSCAN](http://sams.epaiai.com/221023672149)
 * [Some Essential Hacks and Tricks for Machine Learning with Python](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)
 * [Introduction To Machine Learning](https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4)
 * [Supervised Learning with Python](https://towardsdatascience.com/supervised-learning-with-python-cf2c1ae543c1)
@@ -1024,8 +1036,6 @@ Machine Learning
 * [토치(Torch7) 시작하기](https://docs.google.com/document/d/18sTMqVFDSFvNaz8xIo40Wm9XBSrMX8spTDGr4F0XXi8/edit#heading=h.jqq1zld37noi)
 * [Torch 7 Deep Learning Installation (Ubuntu 14.04)](http://yulearning.blogspot.kr/2015/07/torch-7-deep-learning-installation.html)
 * [Deep Learning with Torch The Long way of Deep Learning with Torch](http://rnduja.github.io/2015/10/01/deep_learning_with_torch/)
-* [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
-  * [openface](https://github.com/jaeho-kang/deep-learning/tree/master/openface)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [Generating Faces with Torch](http://torch.ch/blog/2015/11/13/gan.html)
 * [Lighting the way to deep machine learning](https://code.facebook.com/posts/580706092103929/lighting-the-way-to-deep-machine-learning/)
