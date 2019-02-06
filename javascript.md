@@ -499,7 +499,7 @@ Javascript
   * [promisees - promise visualization playground for the adventurous](http://bevacqua.github.io/promisees/)
   * [쉽게 이해하는 자바스크립트 Promise](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
   * [자바스크립트 promise? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=CA5EDD4Hjz4)
-	* [How to Write a JavaScript Promise](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
+  * [How to Write a JavaScript Promise](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
