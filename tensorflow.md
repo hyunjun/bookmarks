@@ -533,6 +533,8 @@ TensorFlow
 * [BicycleGAN implementation in Tensorflow](https://github.com/gitlimlab/BicycleGAN-Tensorflow)
 * [Anomaly Detection with GANs](https://www.slideshare.net/ssuser06e0c5/anomaly-detection-with-gans)
   * [AnoGAN in tensorflow](https://github.com/LeeDoYup/AnoGAN)
+* [StyleGAN — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
+  * [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
