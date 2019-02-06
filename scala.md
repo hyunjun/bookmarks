@@ -394,6 +394,7 @@ Scala
   * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
     * [John A De Goes - ZIO: Next-Generation Effects in Scala](https://www.youtube.com/watch?v=mkSHhsJXjdc)
     * [Scale By The Bay 2018: John A. De Goes, Itamar Ravid, Scalaz Stream: Rebirth](https://www.youtube.com/watch?v=mLJYODobz44)
+    * [Kyiv Scala meetup v9 - Welcome to Scalaz ZIO by Oleksandra Holubitska](https://www.youtube.com/watch?v=q_CJqpuZlBc)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
