@@ -368,6 +368,7 @@ R
   * [텍스트마이닝 - R을 활용한 웹 크롤링 및 단어 연관 분석 (KoNLP) :: Data 쿡북](http://datacookbook.kr/17)
 * magick
   * [Using Magick with RMarkdown and Shiny](https://www.r-bloggers.com/using-magick-with-rmarkdown-and-shiny/)
+* [mboxr - import an mbox file into R tibble for hands-on analyses in R environment](https://jooyoungseo.github.io/mboxr/)
 * miniCRAN
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * MLflow
@@ -444,6 +445,7 @@ R
   * [sparklyr 0.9](https://blog.rstudio.com/2018/10/01/sparklyr-0-9)
 * [subsetr](https://github.com/jimhester/subsetr)
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)
+* [taskscheduleR - Schedule R scripts/processes with the Windows task scheduler](https://github.com/bnosac/taskscheduleR)
 * [tidyverse](http://tidyverse.org/)
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
   * [R 데이터 매니지먼트: tidyverse](https://blog.anpanman.co.kr/posts/2019-01-03-rdatamanagement/)
