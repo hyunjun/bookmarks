@@ -19,6 +19,7 @@ Scala
 * [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
 * [Scala Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
+* [Learn Scala (Best Scala Tutorials for Beginners)](https://medium.com/hackr-io/learn-scala-best-scala-tutorials-for-beginners-bd80407387f5)
 * [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
 * [Scala for Data Science Engineering — Part 2](https://towardsdatascience.com/scala-for-data-science-engineering-part-2-17052d186ff3)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
@@ -468,6 +469,7 @@ Scala
   * [herding cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
   * [Meow! Start using Cats in your project right now](https://virtuslab.com/blog/cats-library/)
   * [Scala with Cats Book](https://underscore.io/books/scala-with-cats/)
+  * [9 tips about using cats in Scala you might want to know](https://blog.softwaremill.com/9-tips-about-using-cats-in-scala-you-might-want-to-know-e1bafd365f88)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
@@ -534,6 +536,7 @@ Scala
 * [Skinny-ORM](http://skinny-framework.org/)
 * [slick - Functional Relational Mapping for Scala](http://slick.typesafe.com/)
   * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
+  * [What we learned from using Slick](https://powerspace.tech/using-slick-in-production-dbfcbe29545c)
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
