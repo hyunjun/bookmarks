@@ -404,6 +404,7 @@ Web
 
 # Restful
 * [restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
+* **[API 관련 내용 정리](https://jungwoon.github.io/infra,%20api,%20cloud/2019/01/31/Api-Summary/)**
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
 * [REST CookBook](http://restcookbook.com/)
