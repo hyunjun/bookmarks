@@ -458,6 +458,7 @@ Web
 * [Migrating your REST APIs to HTTP/2: Why and How?](https://blog.usejournal.com/migrating-your-rest-apis-to-http-2-why-and-how-8caee7d798fb)
 * [아하 REST API 서버 개발 (10)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-10-c09764e116f9)
 * [아하 REST API 서버 개발 (11)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-11-fbdd2cdb7e78)
+* [아하 REST API 서버 개발 (12)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-12-80702e33ad47)
 
 # Scala
 * Finatra
