@@ -242,12 +242,6 @@ Machine Learning
 * [www.rightrelevance.com](http://www.rightrelevance.com/search/articles/hero?article=927cb1e8caff12e93e1f8689561f4205105fc2bc&query=Machine%20Learning&taccount=ml_toparticles)
 * [SigOpt for ML: Unsupervised Learning with Even Less Supervision Using Bayesian Optimization](http://blog.sigopt.com/post/140871698423/sigopt-for-ml-unsupervised-learning-with-even)
 * [NDC 2016 김정주 - 기계학습을 활용한 게임 어뷰징 검출](http://www.slideshare.net/ssuser163469/ndc-2016-61452271)
-* [Feature Selection Technical Report](http://featureselection.asu.edu/)
-  * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
-  * [Feature Selection for Classification: A Review](http://eprints.kku.edu.sa/170/1/feature_selection_for_classification.pdf)
-* [What is Dim Reduction & Feature Selection](http://terryum.io/ml_theory,/ml_practice/2016/05/05/FeatureSelection/)
-  * [차원축소와 특징선택이란 무엇인가](http://terryum.io/korean/2016/05/05/FeatureSelection_KOR/)
-* [A Feature Selection Tool for Machine Learning in Python](A Feature Selection Tool for Machine Learning in Python)
 * [Spring XD: The Foundation for Real-time Streaming and Machine Learning Systems](https://blog.pivotal.io/big-data-pivotal/products/spring-xd-the-foundation-for-real-time-streaming-and-machine-learning-systems)
 * [로보어드바이져를 개발하면서 알게 된 것들 1 – 알고리즘에 대한 환상](http://www.deepnumbers.com/index.php/2016/05/16/robo_adviser_1/)
 * [Principal Components Regression, Pt.1: The Standard Method](http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/)
@@ -594,6 +588,16 @@ Machine Learning
 ## Clustering Python
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
   * [openface](https://github.com/jaeho-kang/deep-learning/tree/master/openface)
+
+# Feature Selection
+* [Feature Selection Technical Report](http://featureselection.asu.edu/)
+  * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
+  * [Feature Selection for Classification: A Review](http://eprints.kku.edu.sa/170/1/feature_selection_for_classification.pdf)
+* [What is Dim Reduction & Feature Selection](http://terryum.io/ml_theory,/ml_practice/2016/05/05/FeatureSelection/)
+  * [차원축소와 특징선택이란 무엇인가](http://terryum.io/korean/2016/05/05/FeatureSelection_KOR/)
+* [A Feature Selection Tool for Machine Learning in Python](A Feature Selection Tool for Machine Learning in Python)
+* [feast - Feature Store for Machine Learning](https://github.com/gojek/feast)
+  * [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
 
 # Go
 * [Real-time Machine Learning in Go (for smart energy)](https://github.com/michaelbironneau/golanguk2016)
