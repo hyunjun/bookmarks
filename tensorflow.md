@@ -448,6 +448,13 @@ TensorFlow
 * [An Introduction to TensorFlow and implementing a simple Linear Regression Model](https://medium.com/datadriveninvestor/an-introduction-to-tensorflow-and-implementing-a-simple-linear-regression-model-d900dd2e9963)
 * [MNIST on TPU (Tensor Processing Unit) or GPU using tf.Keras and tf.data.Dataset](https://colab.research.google.com/github/GoogleCloudPlatform/training-data-analyst/blob/master/courses/fast-and-lean-data-science/01_MNIST_TPU_Keras.ipynb) colab
 * [TF Jam — Shooting Hoops with Machine Learning](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32)
+* [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
+* AutoGraph
+  * [AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)](https://www.youtube.com/watch?v=jh4ITuOytE4)
+  * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7)
+* [2018년 샌프란시스코에서 열린 O’Reilly AI 컨퍼런스의 TensorFlow 세션 녹화 자료](https://developers-kr.googleblog.com/2019/01/tensorflow-session-recordings-from-oreilly-ai-conference-san-francisco.html)
+
+# 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
 * [Keras 기반의 표준화: TensorFlow 2.0의 고수준 API에 대한 안내](https://developers-kr.googleblog.com/2019/01/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0.html)
@@ -458,11 +465,7 @@ TensorFlow
   * [5. FFNN modeling (MNIST)](https://colab.research.google.com/drive/1uj8cXDfKrcGpvBv__XwfUAIkWjfoDJec)
   * [6. CNN modeling](https://colab.research.google.com/drive/1jcp6IEFqfsaWSyAnoujiSfbHupcZPb9O)
   * [7. RNN modeling](https://colab.research.google.com/drive/14emI2vPTuZr4sL5Z60-jsCTsuswp2-uU)
-* [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
-* AutoGraph
-  * [AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)](https://www.youtube.com/watch?v=jh4ITuOytE4)
-  * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7)
-* [2018년 샌프란시스코에서 열린 O’Reilly AI 컨퍼런스의 TensorFlow 세션 녹화 자료](https://developers-kr.googleblog.com/2019/01/tensorflow-session-recordings-from-oreilly-ai-conference-san-francisco.html)
+* [ORAL 세션 - 강재욱](https://www.youtube.com/watch?v=h7DUjhGCmG8)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
