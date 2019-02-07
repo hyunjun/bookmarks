@@ -412,6 +412,7 @@ Scala
     * [라이브 코딩 (2018-11-09)](https://www.youtube.com/watch?v=QGPMP6YI48Q) 51분~
     * [자바 얘기 하다가 라이브 코딩 (2018-11-16)](https://www.youtube.com/watch?v=PukoEtEovDA) 47분~
   * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
+    * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
   * [ScalaTest](http://www.scalatest.org/)
     * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
     * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
