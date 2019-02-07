@@ -269,6 +269,7 @@ Clojure
   * continuation은 제어 구조를 개발자가 직접 구현할 수 있게 해 준다는 점에서, run-time 매크로에 비유할 수 있다
   * 보통의 매크로는 compile-time에 확장되지만, continuation은 run-time에 개발자가 원하는 대로 장차 실행될 코드를 선택/확장할 수 있게 해주는 기능 제공
 * [Deep Learning in Clojure from Scratch to GPU - Part 0 - Why Bother?](https://dragan.rocks/articles/19/Deep-Learning-in-Clojure-From-Scratch-to-GPU-0-Why-Bother)
+* [모듈러(Modular) 연산](https://philoskim.github.io/clojure/blog/modular.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
