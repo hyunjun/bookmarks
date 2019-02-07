@@ -627,6 +627,7 @@ Scala
 * [typelevel.org/blog](https://typelevel.org/blog/)
 * [typeclassopedia - typeclass 사용](https://byorgey.wordpress.com/tag/typeclassopedia)
 * [Mastering Typeclass Induction—Aaron Levin](https://www.youtube.com/watch?v=Nm4OIhjjA2o)
+* [Scala Back to Basics: Type Classes byTomer Gabel](https://www.youtube.com/watch?v=SsOhrYuCuns)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
