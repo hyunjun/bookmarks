@@ -642,6 +642,7 @@ Java
   * [Querydsl 서브쿼리 사용하기](https://jojoldu.tistory.com/379)
   * [Querydsl 다이나믹 쿼리 사용하기](https://jojoldu.tistory.com/394)
   * [Querydsl 연관관계 없이 Join 조회하기](https://jojoldu.tistory.com/396)
+  * [Querydsl Case When 사용하기](https://jojoldu.tistory.com/401)
   * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
   * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
   * [스프링부트로 쇼핑몰 만들기 - 3주차](https://jojoldu.tistory.com/393)
