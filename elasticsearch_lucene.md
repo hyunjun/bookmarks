@@ -465,6 +465,9 @@ ElasticSearch - Lucene
 * [내 서버에는 누가 들어오는걸까? (실시간 user-agent 분석기)](https://taetaetae.github.io/2018/04/10/apache-access-log-user-agent/)
 * [Integration between Filebeat and logstash](https://www.slideshare.net/charsyam2/integration-between-filebeat-and-logstash)
 * [Logstash Validate Date field](https://leftwing871.gitbook.io/project/untitled)
+* [Adding ElasticSearch To Legacy Application Using Logstash](https://hackernoon.com/adding-elasticsearch-to-legacy-application-using-logstash-98c19ac2f0fb)
+* [Logstash Plugin](https://github.com/logstash-plugins)
+  * [Logstash JDBC Input Plugin](https://github.com/logstash-plugins/logstash-input-jdbc)
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR)](https://docs.com/sunnykwak/3330)
@@ -500,8 +503,6 @@ ElasticSearch - Lucene
 * [ELASTICQ – ELASTICSEARCH REALTIME CORRELATION ANALYSIS](https://asecurity.so/elasticq-elasticsearch-realtime-correlation-analysis)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
 * [kiBrand - Kibana Plugin for Brand and Logo Management](https://github.com/elasticfence/kiBrand)
-* [Logstash Plugin](https://github.com/logstash-plugins)
-  * [Logstash JDBC Input Plugin](https://github.com/logstash-plugins/logstash-input-jdbc)
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)
 * [Plugin development for elasticsearch](https://speakerdeck.com/salyh/plugin-development-for-elasticsearch)
 * [SIREn Join](http://siren.solutions/searchplugins/join)
