@@ -1617,6 +1617,7 @@ Javascript
 * [Reconciliation: React의 렌더링 알고리즘](https://www.huskyhoochu.com/virtual-dom)
 * [NAVER Tech Talk: React Native (2018년 7월, 10월)](https://d2.naver.com/news/5689003)
 * [NAVER Tech Talk: FE devtalk 12회 (2018년 8월)](https://d2.naver.com/news/4244163) redux, mobx & mst
+* [NAVER Tech Talk: FE devtalk 13회 (2018년 12월)](https://d2.naver.com/news/0327037) Polymer, Vue.js, Functional JS
 * [How to Develop a Location-based Application Using React Native](https://medium.freecodecamp.org/how-to-develop-a-location-based-application-using-react-native-6f49cdbdac4f)
 * [How to create a three layer application with React](https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0)
 * [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
