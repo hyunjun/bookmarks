@@ -1657,6 +1657,7 @@ Javascript
 * [Let’s build a fast, slick and customizable rich text editor with Slate.js and React— Part II](https://medium.freecodecamp.org/lets-build-a-fast-slick-and-customizable-rich-text-editor-with-slate-and-react-part-ii-3d3908d89664)
 * [Pointer events in React — the why, how, and what](https://medium.freecodecamp.org/pointer-events-with-react-the-why-how-what-617a5b51dbb2)
 * [React Chat Basic Tutorial](https://hackernoon.com/react-chat-basic-tutorial-7bd2af16a57e)
+* [React Application에서 drag와 resize](https://medium.com/querypie/react-application%EC%97%90%EC%84%9C-drag%EC%99%80-resize-fd6a61c80d89)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1684,6 +1685,7 @@ Javascript
 * [React Native App 시작하기](https://ash84.net/2017/11/13/react-native-app-getting-started/)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
+  * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
 * [React Native tutorial v0.49](https://www.youtube.com/playlist?list=PLWBrqglnjNl2yaCcp0HEAWp6zBIfingZ-)
 * [React Native로 날씨앱 만들기](https://academy.nomadcoders.co/courses/enrolled/216885)
 * [React Native vs Real Native Apps](https://codeburst.io/react-native-vs-real-native-apps-ad890986f1f)
