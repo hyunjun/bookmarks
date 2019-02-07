@@ -362,6 +362,7 @@ History
 * [악화되는 이스라엘에 대한 국제여론: 미래에도 미국이 이스라엘의 후원자일까?](http://santa_croce.blog.me/220512338007)
 * [요르단 강 서안지구에서는 경찰이 기자의 목을 조르고 무자비하게 팬다(동영상)](http://www.huffingtonpost.kr/2015/11/01/story_n_8443854.html)
 * [이스라엘인들이 정말로 원하는 것은 이거다](http://www.huffingtonpost.kr/mya-guarnieri/story_b_8414950.html)
+* [다산과 복지가 고민인 혁신의 나라 이스라엘](https://blog.naver.com/santa_croce/221460010131) 하레디 Haredi
 
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
