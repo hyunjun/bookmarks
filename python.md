@@ -1338,6 +1338,7 @@ Python
 * 레거시 시스템에 django로 다가가기
   * [1편 - Django를 도입하기 까지](https://lenditkr.github.io/django/approach-legacy-with-django-1/)
   * [2편 - Django inspectdb 튜닝하기](https://lenditkr.github.io/django/approach-legacy-with-django-2/)
+* [How to build an e-commerce shop with Python, Django, & Wagtail](https://medium.freecodecamp.org/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
