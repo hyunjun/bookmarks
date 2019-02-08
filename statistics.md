@@ -159,6 +159,7 @@ Statistics
 * [Propensity Score Matching (PSM) 기법 요약](http://blog.naver.com/hancury/221091701744)
 * [모수적 방법과 비모수적 방법](http://dermabae.tistory.com/147)
 * [Statistical Rethinking - Lecture 01](https://speakerdeck.com/rmcelreath/statistical-rethinking-lecture-01)
+* [데이터의 표본 편향(Sample Bias), 그리고 생존 편향(Survivorship Bias)](http://kwangshin.pe.kr/blog/2019/02/07/data-sample-bias-and-survivorship-bias)
 * [Fair and Balanced? Thoughts on Bias in Probabilistic Modeling](https://medium.com/@cody.marie.wild/fair-and-balanced-thoughts-on-bias-in-probabilistic-modeling-2ffdbd8a880f)
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 * [Bias-Variance Tradeoff](https://jkeun.github.io/2018-05-03/bias-variance-tradeoff/)
