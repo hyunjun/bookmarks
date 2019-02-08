@@ -59,6 +59,7 @@ Scala
 * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
 * [scala center -  For open source. For education.  A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [Nine Reasons to Try Scala](https://www.vidyasource.com/tutorial/nine-reasons-to-try-scala/)
+* [10 Reasons to Learn Scala and Functional Programming](https://hackernoon.com/10-reasons-to-learn-scala-and-functional-programming-2fce385e6ec7)
 * [Dick Wall on his Scala Course](https://www.youtube.com/watch?v=M8zj7aOcFTI)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
