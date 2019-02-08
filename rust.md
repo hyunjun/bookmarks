@@ -6,6 +6,7 @@
 * ['The Rust Programming Language' E-Books](http://killercup.github.io/trpl-ebook/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [reddit.com/r/rust](http://www.reddit.com/r/rust)
+* [this-week-in-rust.org](https://this-week-in-rust.org/)
 * [Getting started contributing to Rust](http://kmcallister.github.io/talks/rust/2015-contributing-to-rust/slides.html)
 * [Worst-case optimal joins, in dataflow](http://www.frankmcsherry.org/dataflow/relational/join/2015/04/11/genericjoin.html)
 * [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
@@ -110,6 +111,7 @@
   * [Part 1 : Introduction](http://blog.madhukaraphatak.com/rust-scala-part-1/)
   * [Part 2 : Type Inference](http://blog.madhukaraphatak.com/rust-scala-part-2/)
   * [Part 3: Expression Based Language](http://blog.madhukaraphatak.com/rust-scala-part-3/)
+* [변수의 소유권에 대하여..](https://medium.com/intro-to-rust/%EB%B3%80%EC%88%98%EC%9D%98-%EC%86%8C%EC%9C%A0%EA%B6%8C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-67583e8aa43a)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
