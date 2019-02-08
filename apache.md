@@ -403,6 +403,9 @@ Apache
 * [New Features of Kafka 2.1](https://medium.com/@stephane.maarek/new-features-of-kafka-2-1-33fb5396b546)
 * [카프카를 활용한 워크 큐](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9B%8C%ED%81%AC-%ED%81%90/)
   * 기술보다는 뭘 어떤 방향으로 만들지에 대한 이야기
+* How to Lose Messages on a Kafka Cluster
+  * [Part 1](https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1)
+  * [Part 2](https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
