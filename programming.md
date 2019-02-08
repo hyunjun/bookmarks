@@ -841,6 +841,8 @@ Programming
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
 * [번역 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
+* **[jack-vanlightly.com/blog?category=Messaging Systems](https://jack-vanlightly.com/blog?category=Messaging+Systems)**
+  * RabbitMQ가 중심이며, Kafka, Pulsar도 다룸. 정말 좋은 글이 많음
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [emqtt](http://emqtt.io/)
