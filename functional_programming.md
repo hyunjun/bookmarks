@@ -133,7 +133,9 @@ Functional Programming
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
 * [STRAIGHTFORWARD (LIVE) FUNCTIONAL JAVASCRIPT: BUILDING THE YOME WIDGET](http://rigsomelight.com/2015/06/09/straightforward-live-functional-javascript-building-the-yome-widget.html)
 * [Functional programming: Monads made clear - in javascript](http://blog.klipse.tech/javascript/2016/08/31/monads-javascript.html)
-* [Stateful Monads in JavaScript — Part 1](https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c)
+* Stateful Monads in JavaScript
+  * [Part 1](https://blog.bitsrc.io/stateful-monads-in-javascript-part-1-f772ac26195c)
+  * [Part 2](https://blog.bitsrc.io/stateful-monads-in-javascript-part-2-7a6fa65f0ad9)
 * [Functional Programming in Javascript](http://dev-momo.tistory.com/m/entry/Functional-Programming-in-Javascript)
 * [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript)
 * [Javascript and Functional Programming: An Introduction](https://hackernoon.com/javascript-and-functional-programming-an-introduction-286aa625e26d)
@@ -143,8 +145,6 @@ Functional Programming
 * [Function decorators: Transforming callbacks into promises and back again](https://hackernoon.com/transforming-callbacks-into-promises-and-back-again-e274c7cf7293)
 * [Functional JavaScript: Function Decorators Part 2 #JavaScript](https://hackernoon.com/function-decorators-part-2-javascript-fadd24e57f83)
 * [Two Years of Functional Programming in JavaScript: Lessons Learned](https://hackernoon.com/two-years-of-functional-programming-in-javascript-lessons-learned-1851667c726)
-* [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
-* [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [람다(Ramda)와 로다시(Lodash) 그리고 함수형 프로그래밍](https://engineering.huiseoul.com/%EB%9E%8C%EB%8B%A4-ramda-%EC%99%80-%EB%A1%9C%EB%8B%A4%EC%8B%9C-lodash-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-709ef969c9a5)
 * [An Introduction to Functional Programming Style in JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-programming-style-in-javascript-71fcc050f064)
 * [Understanding Higher-Order Functions in JavaScript](https://blog.bitsrc.io/understanding-higher-order-functions-in-javascript-75461803bad)
@@ -159,6 +159,9 @@ Functional Programming
 * [High-performance array transformations - This simple technique let’s you compose array `map`s and `filter`s in a nice and performant way](https://codeburst.io/high-performance-array-transformations-68aae138a5f2)
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
 * [A practical guide to writing more functional JavaScript](https://medium.freecodecamp.org/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
+* [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
+* [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
+* [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [Lenses - Composable Getters and Setters for Functional Programming](https://medium.com/javascript-scene/lenses-b85976cb0534)
   
 # Lambda
