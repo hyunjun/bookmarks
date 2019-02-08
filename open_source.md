@@ -57,7 +57,6 @@ Open Source
 * [에어비앤비가 공유하는 오픈소스 프로젝트 3선](http://www.bloter.net/archives/226374)
 * [코드로 디자인을 by Airbnb](https://brunch.co.kr/@designforhuman/23)
 * [Scaling Airbnb’s Experimentation Platform](https://medium.com/airbnb-engineering/https-medium-com-jonathan-parks-scaling-erf-23fd17c91166)
-* [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
 * [Reconciling GraphQL and Thrift at Airbnb](https://medium.com/airbnb-engineering/reconciling-graphql-and-thrift-at-airbnb-a97e8d290712)
 * [How Airbnb Democratizes Data Science With Data University](https://medium.com/airbnb-engineering/how-airbnb-democratizes-data-science-with-data-university-3eccc71e073a)
 * [aerosolve](http://airbnb.io/aerosolve/)
@@ -67,7 +66,9 @@ Open Source
 * [Airflow: a workflow management platform](http://nerds.airbnb.com/airflow/)
   * [Airflow - a platform to programmaticaly author, schedule and monitor data pipelines](http://airbnb.io/projects/airflow/)
 * [DeepLinkDispatch - Introducing DeepLinkDispatch: Easy Declaration and Routing of Your Deep Links](http://nerds.airbnb.com/deeplinkdispatch/)
-* [The Knowledge Repository (BETA)](https://github.com/airbnb/knowledge-repo)
+* [Knowledge Repo](https://github.com/airbnb/knowledge-repo)
+  * [Scaling Knowledge at Airbnb](https://medium.com/airbnb-engineering/scaling-knowledge-at-airbnb-875d73eff091)
+  * [Knowledge Repo v0.8.3 documentation](https://knowledge-repo.readthedocs.io)
 * [StreamAlert 간단 리뷰](https://andromedarabbit.net/streamalert-%EA%B0%84%EB%8B%A8-%EB%A6%AC%EB%B7%B0/)
 
 # [Disney](http://disney.github.io/)
