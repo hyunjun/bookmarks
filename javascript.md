@@ -696,6 +696,7 @@ Javascript
 * [GraphQL Resolvers: Best Practices](https://medium.com/paypal-engineering/graphql-resolvers-best-practices-cd36fdbcef55)
 * [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 * [How to build a simple social media monitor with NodeJS, GraphQL, and Vue](https://medium.freecodecamp.org/how-to-build-a-simple-social-media-monitor-with-nodejs-graphql-and-vue-55ffe4124ab5)
+* [How to setup a powerful API with GraphQL, Koa and MongoDB](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-339cfae832a1)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -994,6 +995,7 @@ Javascript
   * [React.js + Redux CRUD EXAMPLE](https://github.com/edoko/react-redux-crud-example)
   * [Redux - ImmutableJS 없이 사용하기](https://coinbine.com/post/156)
   * [How Does Redux Work?](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6)
+  * [How to load data in React with redux-thunk, redux-saga, suspense, & hooks](https://medium.freecodecamp.org/loading-data-in-react-redux-thunk-redux-saga-suspense-hooks-666b21da1569)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -1659,6 +1661,8 @@ Javascript
 * [Pointer events in React — the why, how, and what](https://medium.freecodecamp.org/pointer-events-with-react-the-why-how-what-617a5b51dbb2)
 * [React Chat Basic Tutorial](https://hackernoon.com/react-chat-basic-tutorial-7bd2af16a57e)
 * [React Application에서 drag와 resize](https://medium.com/querypie/react-application%EC%97%90%EC%84%9C-drag%EC%99%80-resize-fd6a61c80d89)
+* [How We Moved From Wordpress to React and Raised $80 Million](https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28f)
+* [11 React UI Component Playgrounds for 2019](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
