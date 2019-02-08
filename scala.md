@@ -2,6 +2,7 @@ Scala
 =====
 * [lightbend.com](https://www.lightbend.com/)
 * [Awesome Scala](https://github.com/lauris/awesome-scala)
+* [scalatimes.com](https://scalatimes.com/)
 * [medium.com/tag/scala](https://medium.com/tag/scala)
 * [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
 * [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
