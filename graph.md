@@ -288,6 +288,7 @@ Graph
   * **[법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤](https://www.youtube.com/watch?v=JRiCsrNJujc)**
   * [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
   * [How to Perform Fraud Detection with Personalized Page Rank](https://blog.sicara.com/fraud-detection-personalized-page-rank-networkx-15bd52ba2bf6)
+  * [Weighted graphs using NetworkX](https://qxf2.com/blog/drawing-weighted-graphs-with-networkx/)
 
 # Paper
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
