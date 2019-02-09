@@ -685,6 +685,7 @@ Deep Learning
 * [Deep Learning for Classical Japanese Literature](https://towardsdatascience.com/deep-learning-for-classical-japanese-literature-48ae04c17dfd)
 * [2018 In Review: 10 Open-Sourced AI Datasets](https://medium.com/syncedreview/2018-in-review-10-open-sourced-ai-datasets-696b3b49801f)
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
+* [Setting up a GPU Enabled Kubernetes for Deep Learning](https://gist.github.com/stevenc81/1cad3a0ebca9303923d1cd4c3641f8bc)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
