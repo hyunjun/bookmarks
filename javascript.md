@@ -8,6 +8,7 @@ Javascript
 * [간단히 훑어보는 자바스크립트 기본기 다지기](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
+* [Best courses to learn Javascript](https://codeburst.io/best-courses-to-learn-javascript-in-2017-fc3a254638cc)
 * [jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 * [자바스크립트의 동작원리: 엔진, 런타임, 호출 스택](https://joshua1988.github.io/web-development/translation/javascript/how-js-works-inside-engine/)
 * 자바스크립트는 어떻게 작동하는가
@@ -614,6 +615,8 @@ Javascript
 * [ECMAScript 6](https://tech.10000lab.xyz/javascript/ecmascript6.html)
 * [Here are examples of everything new in ECMAScript 2016, 2017, and 2018](https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e)
 * [JavaScript traits: the clean way to modify global prototypes - With ES6 it’s finally possible to add methods to Object.prototype, Array.prototype and all the others, in a clean way](https://itnext.io/straits-9ef2b9a563cd)
+* [How to use destructuring in JavaScript to write cleaner, more powerful code](https://medium.freecodecamp.org/how-to-use-destructuring-in-javascript-to-write-cleaner-more-powerful-code-9d1b38794050)
+* [Do we still need JavaScript frameworks?](https://medium.freecodecamp.org/do-we-still-need-javascript-frameworks-42576735949b)
 * [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
 * [How to use destructuring in JavaScript (ES6) to its full potential](https://medium.freecodecamp.org/destructuring-in-javascript-es6-ee963292623a)
 
@@ -671,6 +674,7 @@ Javascript
 * [Caching GraphQL results in your CDN](https://dev-blog.apollodata.com/caching-graphql-results-in-your-cdn-54299832b8e2)
 * [한 단계씩 배워보는 GraphQL](https://engineering.huiseoul.com/%ED%95%9C-%EB%8B%A8%EA%B3%84%EC%94%A9-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-graphql-421ed6215008)
 * [How to set-up a powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger](https://medium.com/@wesharehoodies/how-to-setup-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-e251ac189649)
+* [How to finish setting up your powerful API with Nodejs, GraphQL, MongoDB, Hapi, and Swagger (Part II)](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
 * [GraphQL 그리고 NodeJS로 영화API 만들기](https://academy.nomadcoders.co/courses/enrolled/357405)
 * [GraphQL Remote Schema Stitching in a Multi-Service Architecture](https://medium.com/provablyfair/graphql-remote-schema-stitching-in-a-multi-service-architecture-ac329037f082)
 * [프로듀스48과 함께하는 GraphQL(그래프큐엘)](https://medium.com/@khwsc1/%ED%94%84%EB%A1%9C%EB%93%80%EC%8A%A448%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-graphql-%EA%B7%B8%EB%9E%98%ED%94%84%ED%81%90%EC%97%98-10c3e5da2f7b)
@@ -996,6 +1000,14 @@ Javascript
   * [Redux - ImmutableJS 없이 사용하기](https://coinbine.com/post/156)
   * [How Does Redux Work?](https://blog.usejournal.com/how-does-redux-work-b1cce46d4fa6)
   * [How to load data in React with redux-thunk, redux-saga, suspense, & hooks](https://medium.freecodecamp.org/loading-data-in-react-redux-thunk-redux-saga-suspense-hooks-666b21da1569)
+  * Let’s Build: Cryptocurrency Native Mobile App With React Native + Redux
+    * [Chapter I](https://medium.com/react-native-training/bitcoin-ripple-ethereum-price-checker-with-react-native-redux-e9d076037092)
+    * [Chapter II](https://medium.com/react-native-training/tutorial-react-native-redux-native-mobile-app-for-tracking-cryptocurrency-bitcoin-litecoin-810850cf8acc)
+    * [Chapter III](https://medium.com/react-native-training/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iii-a454dda156b)
+    * [Chapter IV](https://medium.freecodecamp.org/learn-how-to-build-a-rn-redux-cryptocurrency-app-chapter-iv-b0e0c5ca2dca)
+  * Learn how to build an Astronomy Picture of the Day App with the NASA API and React + Redux
+    * [Part I](https://codeburst.io/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-e462ef0c806c)
+    * [Part II](https://medium.freecodecamp.org/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-part-ii-83f15970d0e3)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -1280,6 +1292,7 @@ Javascript
 * [How to create a Node.js web app using no external packages](https://medium.freecodecamp.org/a-no-frills-guide-to-node-js-how-to-create-a-node-js-web-app-without-external-packages-a7b480b966d2)
 * [How to get started debugging NodeJS applications with ndb](https://medium.freecodecamp.org/how-to-get-started-debugging-nodejs-applications-with-ndb-a37e8747dbba)
 * [A Beginner’s Guide to Server-Side Web Development with Node.js](https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93)
+* [Supercharge your debugging experience for Node.js](https://medium.freecodecamp.org/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1339,6 +1352,7 @@ Javascript
 * [LoopBack for End-to-End REST APIs Tech Talk](https://developer.ibm.com/tv/loopback-connect-apis-tech-talk/)
 * math.js
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
+* Matterhorn [Announcing Matterhorn a Node.js API Server Boilerplate](https://medium.freecodecamp.org/announcing-matterhorn-a-node-js-api-server-boilerplate-4994759f1bf6)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [node-cron을 사용하여 node.js에서 특정 작업에 스케줄 설정하기](https://blog.l0gic.me/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-node-js%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9E%91%EC%97%85%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/)
 * [node-rdpjs - Remote Desktop Protocol for Node.js](https://github.com/citronneur/node-rdpjs)
@@ -1665,6 +1679,7 @@ Javascript
 * [React Application에서 drag와 resize](https://medium.com/querypie/react-application%EC%97%90%EC%84%9C-drag%EC%99%80-resize-fd6a61c80d89)
 * [How We Moved From Wordpress to React and Raised $80 Million](https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28f)
 * [11 React UI Component Playgrounds for 2019](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
+* [Understanding Fragments in React](https://blog.bitsrc.io/understanding-fragments-in-react-a1b6e534b01a)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1771,6 +1786,7 @@ Javascript
   * [간단한 React 전용 서버사이드 프레임워크, 기초부터 본격적으로 파보기](https://velopert.com/3293)
   * [Next.js, Razzle, CRA. Why you should use them for a next project](https://hackernoon.com/next-js-razzle-cra-why-you-should-use-them-for-a-next-project-a78d320de97f)
   * [The Next Porn: How to design a service without having money](https://hackernoon.com/the-next-porn-how-to-design-a-service-without-having-money-599e98a433cf)
+  * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
@@ -1908,6 +1924,8 @@ Javascript
 * [번역 TypeScript at Google](https://hyunseob.github.io/2018/11/27/typescript-at-google/)
 * [react-native 프로젝트에 typescript를 적용하여 개발해 보자](https://dev-yakuza.github.io/ko/react-native/typescript/)
 * [각종, Config 들을 npm module로 공용화하기](https://medium.com/@iamssen/%EA%B0%81-%EC%A2%85-config-%EB%93%A4%EC%9D%84-npm-module%EB%A1%9C-%EA%B3%B5%EC%9A%A9%ED%99%94%ED%95%98%EA%B8%B0-90c1d5dce972)
+* [TypeScript — JavaScript with superpowers — Part I](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
+* [TypeScript — JavaScript with superpowers — Part II](https://medium.com/cleversonder/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
@@ -2027,3 +2045,10 @@ Javascript
 * [Tech Trends Showdown🏆: React vs Angular vs Vue](https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706)
 * [기존 Express 서버에 Vue.js 적용해보기 (feat.EJS)](http://woowabros.github.io/experience/2018/12/27/node-express-vue-with-ejs.html)
 * [Vue 라이프사이클 이해하기 - Vue 인스턴스의 상태가 변화함에 따라, 각 상태가 어떤 특징을 가지고 있는지 알아봅니다](https://wormwlrm.github.io/2018/12/29/Understanding-Vue-Lifecycle-hooks.html)
+* From Zero to Hero with Vue
+  * [But first, why Vue?](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-why-vue-8c7e981b494)
+  * [getting up and running](https://medium.freecodecamp.org/from-zero-to-hero-with-vue-up-and-running-f1acd4696b71)
+  * [Input handling, Loops, Components](https://medium.com/@wesharehoodies/from-zero-to-hero-with-vue-input-handling-loops-components-edde0e3c4ee5)
+  * [Advanced Components, Parcel, Dev Tools](https://medium.com/cleversonder/from-zero-to-hero-with-vue-advanced-components-parcel-dev-tools-fab980a62259)
+  * [Styling, Computed Props, Slots](https://medium.com/cleversonder/from-zero-to-hero-with-vue-styling-computed-props-slots-6f4f4ac1912e)
+* [Demystifying Vuex — The state container for Vue](https://medium.freecodecamp.org/demystifying-vuex-the-state-container-for-vue-fde82662ca8c)
