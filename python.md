@@ -1895,6 +1895,7 @@ Python
 * [colout - a simple command to add colors to a text stream in your terminal](http://nojhan.github.io/colout/)
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
+* [Connexion - a framework that automagically handles HTTP requests based on OpenAPI Specification (formerly known as Swagger Spec) of your API described in YAML format](https://github.com/zalando/connexion/blob/master/README.rst)
 * [continuous-docs - Tutorial and example package for continuous documentation generation in Python](https://github.com/icgood/continuous-docs/)
 * [Coverage.py 4.0](http://nedbatchelder.com/blog/201509/coveragepy_40.html)
 * CPython
