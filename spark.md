@@ -339,6 +339,7 @@
 * A Journey Into Big Data with Apache Spark
   * [Part 1](https://towardsdatascience.com/a-journey-into-big-data-with-apache-spark-part-1-5dfcc2bccdd2)
   * [Part 2](https://towardsdatascience.com/a-journey-into-big-data-with-apache-spark-part-2-4511aa19a900)
+* [Write to multiple outputs by key Spark - one Spark job](https://stackoverflow.com/questions/23995040/write-to-multiple-outputs-by-key-spark-one-spark-job)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
