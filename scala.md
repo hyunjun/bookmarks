@@ -473,6 +473,7 @@ Scala
   * [Meow! Start using Cats in your project right now](https://virtuslab.com/blog/cats-library/)
   * [Scala with Cats Book](https://underscore.io/books/scala-with-cats/)
   * [9 tips about using cats in Scala you might want to know](https://blog.softwaremill.com/9-tips-about-using-cats-in-scala-you-might-want-to-know-e1bafd365f88)
+  * [Adopting Cats - Ron Aharoni](https://www.youtube.com/watch?v=4ODUEbowkBM)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
