@@ -1607,6 +1607,8 @@ Javascript
 * [How to use React hooks](https://medium.freecodecamp.org/how-to-use-react-hooks-ef70894d9fd)
 * [React 16.7 Hooks](https://slides.com/hyungjunkim-1/cosmee)
 * [Why React Hooks](http://dev-momo.tistory.com/entry/React-Hooks)
+* [Hello, React Hooks!](https://ahnheejong.name/articles/hello-react-hooks/)
+* [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
