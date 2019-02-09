@@ -206,6 +206,8 @@ Functional Programming
 * [JavaScript 모나딕 파서](https://medium.com/@jooyunghan/javascript-%EB%AA%A8%EB%82%98%EB%94%95-%ED%8C%8C%EC%84%9C-c17fe5033f26)
 * [A Monad Menagerie](https://medium.com/@JLHLonline/a-monad-menagerie-15e5b96d9ca7)
 * [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
+* [Describing Data...with free applicative functors (and more)—Kris Nuttycombe](https://www.youtube.com/watch?v=oRLkb6mqvVM)
+* [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
