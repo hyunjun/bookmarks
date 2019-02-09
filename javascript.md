@@ -1218,6 +1218,7 @@ Javascript
 * [Node.JS Top 10 Articles of the Year (v.2017)](https://medium.mybridge.co/node-js-top-10-articles-of-the-year-v-2017-79df8269d0f3)
 * [Node.js 개발할때 Babel 도움없이 ES6(ES2015) 를 사용하고 싶을때 참고할만한 사이트](http://blog.kazikai.net/?p=164)
 * [Node.js의 순환 의존성](https://blog.outsider.ne.kr/1283)
+* [JS 모듈 시스템과 순환 참조 문제](https://medium.com/@ljs0705/js-%EB%AA%A8%EB%93%88-%EC%8B%9C%EC%8A%A4%ED%85%9C%EA%B3%BC-%EC%88%9C%ED%99%98-%EC%B0%B8%EC%A1%B0-%EB%AC%B8%EC%A0%9C-a9e0c90c07e5)
 * [How to write Selenium tests in Node.js with WebDriverIO](https://hackernoon.com/how-to-write-selenium-tests-in-node-js-with-webdriverio-cc108b7a31ad)
 * [Centos 6.7 64-bit node.js 설치하기](http://qnfmfmd.tistory.com/423)
 * [Node.js로 30분만에 CLI 만들기](http://programmingsummaries.tistory.com/400)
@@ -1681,6 +1682,7 @@ Javascript
 * [How We Moved From Wordpress to React and Raised $80 Million](https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28f)
 * [11 React UI Component Playgrounds for 2019](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
 * [Understanding Fragments in React](https://blog.bitsrc.io/understanding-fragments-in-react-a1b6e534b01a)
+* [React Concurrent Mode](https://ideveloper2.tistory.com/170)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
