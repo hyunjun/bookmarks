@@ -195,6 +195,7 @@ Programming Language
 * [imba - programming language for web](http://imba.io/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
   * [Type-Driven Development with Idris 리뷰](https://harfangk.github.io/2017/10/24/tdd-with-idris-review-ko.html)
+* [Idyll-lang: Make your app stand out with interactive data-driven stories](https://medium.com/swlh/make-your-app-stand-out-with-data-driven-stories-b6d6f2c2449c)
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
 * [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Jai - an imperative static/strongly typed C-style language, but with a variety of modern language that C lacks](https://sites.google.com/site/jailanguageprimer/)
