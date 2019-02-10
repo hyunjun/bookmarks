@@ -453,6 +453,7 @@ Web
   * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 * [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
 * [HTTP GET 요청에 body를 붙여서 보내면 어떤 일이 벌어질까?](https://libsora.so/posts/http-get-request-with-body-and-http-library/)
+* [HTTP 요청에 body를 붙여서 보내면 어떤 일이 벌어질까? part 2 Java HttpURLConnection의 경우](https://libsora.so/posts/http-request-with-body-and-java-httpurlconnection/)
 * [Design patterns for modern web APIs](https://blog.feathersjs.com/design-patterns-for-modern-web-apis-1f046635215)
 * [API-First Programming on the Front End](https://itnext.io/api-first-programming-on-the-front-end-4364c218ac60) Restful에 직접 관계된 건 아니나 읽어볼만 함
 * [Migrating your REST APIs to HTTP/2: Why and How?](https://blog.usejournal.com/migrating-your-rest-apis-to-http-2-why-and-how-8caee7d798fb)
