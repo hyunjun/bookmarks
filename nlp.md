@@ -1092,6 +1092,7 @@ NLP
 * [입 개발자를 위한 TF-IDF](https://charsyam.wordpress.com/2017/04/08/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-tf-idf/)
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
 * [How I used text mining to decide which Ted Talk to watch](https://towardsdatascience.com/how-i-used-text-mining-to-decide-which-ted-talk-to-watch-dfe32e82bffd)
+* [Keyword Extraction with TF-IDF and scikit-learn – Full Working Example](http://kavita-ganesan.com/extracting-keywords-from-text-tfidf)
 
 # Topic Modeling
 * [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)
@@ -1209,6 +1210,7 @@ NLP
 * [models.word2vec – Deep learning with word2vec](https://radimrehurek.com/gensim/models/word2vec.html)
 * [Word2vec with Gensim - Python](https://www.youtube.com/watch?v=thLzt3D-A10)
 * [Getting started with Word2Vec in Gensim and making it work!](https://github.com/kavgan/data-science-tutorials/blob/master/word2vec/Word2Vec.ipynb)
+* [Gensim Word2Vec Tutorial – Full Working Example](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
@@ -1308,3 +1310,4 @@ NLP
 * [Neural Network Embeddings Explained](https://towardsdatascience.com/neural-network-embeddings-explained-4d028e6f0526)
 * [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)
 * [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
+* [How to incorporate phrases into Word2Vec – a text mining approach](http://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach)
