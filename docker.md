@@ -458,6 +458,8 @@ Docker
   * [Part 6 : Building Spark 2.0 Two Node Cluster](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-6/)
   * [Part 7 : Dynamic Scaling and Namespaces](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-7/)
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
+* [Peter Babics - Python, Docker, Kubernetes, and beyond ?](https://www.youtube.com/watch?v=KF6lU_fm_Bg)
+* [Create and Watch Kubernetes Resources With Python](https://www.youtube.com/watch?v=ck-bB5tqZj4)
 * [NDC17 Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
   * [terraform-aws-coreos-kubernetes](https://github.com/kz8s/tack)
 * [GitHub 계정으로 Kubernetes 인증하기](https://dailyhotel.io/kubernetes-with-dex-integration-f456e22dd8e4)
@@ -563,7 +565,6 @@ Docker
 * [How to deploy Laravel the easy way with Kubernetes](https://medium.freecodecamp.org/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c)
 * [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
 * [k8s cronjob 제한](https://ash84.net/2019/01/20/k8s-cronjob-limitations/)
-* [Peter Babics - Python, Docker, Kubernetes, and beyond ?](https://www.youtube.com/watch?v=KF6lU_fm_Bg)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
