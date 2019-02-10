@@ -1721,6 +1721,8 @@ Python
 * [파이썬 기초 강좌 #6 Jupyter Notebook](https://www.youtube.com/watch?v=nLDylDLR1VU)
 * [How to Write a Jupyter Notebook Extension](https://towardsdatascience.com/how-to-write-a-jupyter-notebook-extension-a63f9578a38c)
 * [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
+* [Unleash the power of Jupyter Notebooks](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)
+* [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
