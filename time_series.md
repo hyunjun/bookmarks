@@ -25,6 +25,7 @@ Time Series
 * [Time, Interrupted: Measuring Intervention Effects with Interrupted Time-Series Analysis - Ben Cohen](https://www.youtube.com/watch?v=uuo8SwA1HO8)
 * [Applying Statistical Modeling and Machine Learning to Perform Time-Series Forecasting - Tamara Louie](https://www.youtube.com/watch?v=JntA9XaTebs)
 * [yjucho1.github.io/categories/#time-series](https://yjucho1.github.io/categories/#time-series)
+* [Almost Everything You Need to Know About Time Series](https://towardsdatascience.com/almost-everything-you-need-to-know-about-time-series-860241bdc578)
 
 # Library
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
