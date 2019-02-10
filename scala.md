@@ -310,6 +310,7 @@ Scala
 * [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
 * [Hacking with akka streams](https://medium.com/@itseranga/akka-streams-hacks-33661b8f7f2d)
+* [Jan Pustelnik - CONSCIOUS CONSISTENCY WITH AKKA CLUSTER, CRDTS AND DISTRIBUTED DATA](https://www.youtube.com/watch?v=chC1KmxrEO8)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
