@@ -2991,3 +2991,4 @@ Python
 * [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
 * [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)
+* [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
