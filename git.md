@@ -447,6 +447,7 @@ Git
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
 * [Githelp](https://githelp.io/?ref=hackernews)
+* **[git-history - Quickly browse the history of any GitHub file https://githistory.xyz ](https://github.com/pomber/git-history)**
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
