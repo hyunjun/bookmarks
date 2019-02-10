@@ -539,6 +539,7 @@ TensorFlow
   * [AnoGAN in tensorflow](https://github.com/LeeDoYup/AnoGAN)
 * [StyleGAN — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
   * [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
+* [StyleGAN_WebDemo.ipynb](https://colab.research.google.com/drive/1j9X6Np9z_XMp5dJKFgCb9OCMVgE-e7lg?fbclid=IwAR3AOvn2Bgrx0ckomkSGrg01yFcS6MewXopFkD7vQ2aNQeL5k93bleLB1Ak)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
