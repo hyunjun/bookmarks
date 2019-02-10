@@ -650,5 +650,6 @@ Scala
     * [Typechecking SQL queries with doobie](https://blog.godatadriven.com/doobie-monix-jdbc-example)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
+* [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
   * [Reduce the domain of your types with Refined](https://medium.com/@Methrat0n/reduce-the-domain-of-your-types-with-refined-63e8e2840b15)
