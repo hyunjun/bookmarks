@@ -1916,6 +1916,7 @@ Python
   * [Why Python's The Best Language For AI (and How To Make It Even Better)](https://www.youtube.com/watch?v=ttpL4Qpr9jc)
   * [Dynamic Code Instrumentation with Hacked Interpreters || James Powell](https://www.youtube.com/watch?v=38d_TbSRWAw)
   * [Blurb-it is now available](https://discuss.python.org/t/blurb-it-is-now-available/528) CPython contribution 방법
+  * [Jean Baptiste Aviat Writing a C Python extension in 2017 PyCon 2017](https://www.youtube.com/watch?v=phe1s6p38gk)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * curses
