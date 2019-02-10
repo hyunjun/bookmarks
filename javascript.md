@@ -1770,6 +1770,7 @@ Javascript
   * [Why you should use GatsbyJS to build static sites](https://medium.freecodecamp.org/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b)
   * [How to animate page transitions in Gatsby.js](https://medium.freecodecamp.org/how-to-animate-page-transitions-in-gatsby-js-b36e3ae14c29)
   * [How to quickly set up a Gatsby.js JAMstack website with a headless CMS](https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e)
+  * **[정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)** 제목과 달리 단순한 정적 사이트 생성기가 아니라는 글
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
@@ -1930,6 +1931,7 @@ Javascript
 * [각종, Config 들을 npm module로 공용화하기](https://medium.com/@iamssen/%EA%B0%81-%EC%A2%85-config-%EB%93%A4%EC%9D%84-npm-module%EB%A1%9C-%EA%B3%B5%EC%9A%A9%ED%99%94%ED%95%98%EA%B8%B0-90c1d5dce972)
 * [TypeScript — JavaScript with superpowers — Part I](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 * [TypeScript — JavaScript with superpowers — Part II](https://medium.com/cleversonder/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842)
+* [타입스크립트에서 절대경로 쓰기 typescript, absolute path, webpack, ts-node, jest](https://libsora.so/posts/use-absolute-path-in-typescript/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
