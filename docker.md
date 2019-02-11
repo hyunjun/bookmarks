@@ -567,6 +567,7 @@ Docker
 * [k8s cronjob 제한](https://ash84.net/2019/01/20/k8s-cronjob-limitations/)
 * [PodPreset](https://bcho.tistory.com/1304)
 * [PodDisruptionBudget](https://bcho.tistory.com/1305)
+* [Ruben Orduz, Nolan Brubaker - A Python-flavored Introduction to Containers And Kubernetes](https://www.youtube.com/watch?v=kx-048qE-TI)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
