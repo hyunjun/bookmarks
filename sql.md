@@ -123,6 +123,7 @@ SQL
 # MSSQL MS SQL
 * [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
 * [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가)](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
+* [SQL Server Tutorial](https://www.techonthenet.com/sql_server/index.php)
 
 # MySQL
 * practice
