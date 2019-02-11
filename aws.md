@@ -276,6 +276,7 @@ AWS
 * [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 * [Building Scalable Analytics with AWS — Part 1](https://medium.com/@tomas.duhourq/building-scalable-analytics-with-aws-part-i-6de6a90e3513)
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
+* [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
