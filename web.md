@@ -249,6 +249,7 @@ Web
   * [github.com/needleworm/post_crawler](https://github.com/needleworm/post_crawler)
 * [Python's Web Framework Benchmarks](http://klen.github.io/py-frameworks-bench/)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
+* [KBO 경기에서 선수들의 기록 데이터 수집하고 분석하기](https://choosunsick.github.io/post/kbo_data_wrangling/)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
