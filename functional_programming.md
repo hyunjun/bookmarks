@@ -232,6 +232,7 @@ Functional Programming
 * [A Crash Course in Category Theory - Bartosz Milewski](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 * [Fun(c) 2018.7: John De Goes - FP to the Max](https://www.youtube.com/watch?v=sxudIMiOo68)
   * [fpmax.scala](https://gist.github.com/jdegoes/1b43f43e2d1e845201de853815ab3cb9)
+* [Plain Functional Programming by Martin Odersky](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
