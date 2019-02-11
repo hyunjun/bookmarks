@@ -195,6 +195,7 @@ Scala
 * [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
+* [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -311,6 +312,8 @@ Scala
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
 * [Hacking with akka streams](https://medium.com/@itseranga/akka-streams-hacks-33661b8f7f2d)
 * [Jan Pustelnik - CONSCIOUS CONSISTENCY WITH AKKA CLUSTER, CRDTS AND DISTRIBUTED DATA](https://www.youtube.com/watch?v=chC1KmxrEO8)
+* [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
+* [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -464,6 +467,7 @@ Scala
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
+* [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
@@ -539,9 +543,15 @@ Scala
   * [Interlude: a simple type-level state machine](http://kanaka.io/blog/2016/04/25/interlude-typelevel-state-machine.html)
   * [Learning Materials for generic & dependent programming using shapeless](https://gist.github.com/ikhoon/4e7feb6daf2d47a0261131421ed8c999)
 * [Skinny-ORM](http://skinny-framework.org/)
-* [slick - Functional Relational Mapping for Scala](http://slick.typesafe.com/)
+* [slick - Functional Relational Mapping for Scala](http://slick.lightbend.com/)
+  * [Essential Slick](https://books.underscore.io/essential-slick/essential-slick-3.html)
   * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
   * [What we learned from using Slick](https://powerspace.tech/using-slick-in-production-dbfcbe29545c)
+  * `Caused by: slick.SlickException: Read NULL value for ResultSet column <computed>`
+    * DB에 column은 있지만, 기본 값이 없고, NULL로 되어 있는 경우 값을 가져와 사용하려고 하면 발생
+    * Option[<type>]의 형태로 해결해보려고 했으나 실패
+  * [Composable table updates in Slick](https://www.missingfaktor.me/writing/2018/08/12/composable-table-updates-in-slick/)
+	* [Database migration using Slick made easy – „Scala-Forklift“](https://www.novatec-gmbh.de/en/blog/database-migration-slick-scala-forklift/)
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
@@ -599,10 +609,11 @@ Scala
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # [SBT](http://www.scala-sbt.org/)
-* [classpaths](http://www.scala-sbt.org/0.13.2/docs/Howto/classpaths.html)
-* [Customizing paths](http://www.scala-sbt.org/0.13/docs/Howto-Customizing-Paths.html)
-* [Library dependencies](http://www.scala-sbt.org/0.13/tutorial/Library-Dependencies.html)
-* [sbt the easy way](http://blog.codacy.com/2015/05/20/sbt-the-easy-way/)
+* [classpaths](http://www.scala-sbt.org/1.x/docs/Howto/classpaths.html)
+* [Customizing paths](http://www.scala-sbt.org/1.x/docs/Howto-Customizing-Paths.html)
+* [Library dependencies](https://www.scala-sbt.org/1.x/docs/Library-Dependencies.html)
+* [Configure and use logging](https://www.scala-sbt.org/1.x/docs/Howto-Logging.html) e.g. `sbt --debug compile`
+* [sbt the easy way](https://www.codacy.com/blog/sbt-the-easy-way/)
 * [How to use sbt from behind proxy?](http://stackoverflow.com/questions/13803459/how-to-use-sbt-from-behind-proxy)
   * `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
   * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
@@ -616,12 +627,15 @@ Scala
 * [Code Quality를 높여주는 SBT 플러그인 (2018-04-20)](https://www.youtube.com/watch?v=81HqWUjU4ns)
 * [kevin sbt 플러그인](https://github.com/Kevin-Lee/sbt-devoops)
   * [2018년 마지막 방송 (2018-12-21) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=BITP-Pr7OXQ)
+* [Sub-project management via sbt](https://medium.com/@linda0511ny/sub-project-management-via-sbt-26e9f7bccbad)
   
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
   * [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
+  * [(Mostly) Dropping Weak Conformance](https://medium.com/@jducoeur/mostly-dropping-weak-conformance-cde049d58364)
+	* [A Snippet of Dotty](https://medium.com/@jducoeur/a-snippet-of-dotty-27eadcee72e3)
 
 # Scala.js
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
@@ -652,5 +666,7 @@ Scala
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
+* [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
   * [Reduce the domain of your types with Refined](https://medium.com/@Methrat0n/reduce-the-domain-of-your-types-with-refined-63e8e2840b15)
+  * [Wtf is Refined ?](https://medium.com/@Methrat0n/wtf-is-refined-5008eb233194)
