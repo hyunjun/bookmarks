@@ -542,6 +542,7 @@ Scala
   * [Shapeless : not a tutorial - part 2](http://kanaka.io/blog/2015/11/10/shapeless-not-a-tutorial-part-2.html)
   * [Interlude: a simple type-level state machine](http://kanaka.io/blog/2016/04/25/interlude-typelevel-state-machine.html)
   * [Learning Materials for generic & dependent programming using shapeless](https://gist.github.com/ikhoon/4e7feb6daf2d47a0261131421ed8c999)
+  * [The Type Astronaut's Guide to Shapeless—Dave Gurnell](https://www.youtube.com/watch?v=Zt6LjUnOcFQ)
 * [Skinny-ORM](http://skinny-framework.org/)
 * [slick - Functional Relational Mapping for Scala](http://slick.lightbend.com/)
   * [Essential Slick](https://books.underscore.io/essential-slick/essential-slick-3.html)
@@ -606,6 +607,7 @@ Scala
 * [Algebird - Abstract Algebra for Scala](https://twitter.github.io/algebird)
 * [Monoids](http://www.michael-noll.com/blog/2013/12/02/twitter-algebird-monoid-monad-for-large-scala-data-analytics/#monoids)
 * [Monadic IO: Laziness Makes You Free](http://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
+* [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # [SBT](http://www.scala-sbt.org/)
@@ -636,6 +638,7 @@ Scala
   * [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
   * [(Mostly) Dropping Weak Conformance](https://medium.com/@jducoeur/mostly-dropping-weak-conformance-cde049d58364)
 	* [A Snippet of Dotty](https://medium.com/@jducoeur/a-snippet-of-dotty-27eadcee72e3)
+  * [The New Collections Library for Scala 2.13 and Dotty—Stefan Zeiger](https://www.youtube.com/watch?v=ofbaM7Yz3IM)
 
 # Scala.js
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
