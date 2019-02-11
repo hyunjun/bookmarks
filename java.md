@@ -657,6 +657,7 @@ Java
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
   * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
   * [How we built an asynchronous, temporal RESTful API based on Vert.x, Keycloak and Kotlin/Coroutines for Sirix.io (Open Source)](https://medium.com/sirixdb-sirix-io-how-we-built-a-novel-temporal/how-we-built-an-asynchronous-temporal-restful-api-based-on-vert-x-4570f681a3)
+  * [Vert.x JVM Framework. MacOS installation Guide](https://medium.com/pharos-production/vert-x-jvm-framework-macos-installation-guide-85d870409d56)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
