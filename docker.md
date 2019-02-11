@@ -566,6 +566,7 @@ Docker
 * [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
 * [k8s cronjob 제한](https://ash84.net/2019/01/20/k8s-cronjob-limitations/)
 * [PodPreset](https://bcho.tistory.com/1304)
+* [PodDisruptionBudget](https://bcho.tistory.com/1305)
 
 # Library
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
