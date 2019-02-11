@@ -383,6 +383,7 @@ Interview
 * [실리콘 밸리 기업의 엔지니어 연봉](http://tinytechreview.com/실리콘-밸리-기업의-엔지니어-연봉)
 * [SOFTWARE ENGINEER SALARY DATA](https://triplebyte.com/software-engineer-salary)
 * [해외 기업과 연봉협상 하기전 반드시 조사할 것 3가지](https://www.youtube.com/watch?v=H3DgymDoKj0)
+* [RSUs vs. Stock options 다른 점은?](https://brunch.co.kr/@seungjoonlernnx/53)
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 
 # Spotify
