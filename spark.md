@@ -328,6 +328,7 @@
 * [What’s New for Apache Spark on Kubernetes in the Upcoming Apache Spark 2.4 Release](https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html)
   * 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
 * [What’s new in Apache Spark 2.3 and Spark 2.4](https://www.slideshare.net/Hadoop_Summit/whats-new-in-apache-spark-23-and-spark-24)
+* [What’s new in Spark 2.4!](https://medium.com/@akhilanand.bv/whats-new-in-spark-2-4-121162f1c385)
 * [Uber’s Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/)
   * Uber가 Hadoop과 Spark을 이용하여 빅데이터를 수집, 관리, 분석하는 방법 정리
 * [Spark study notes: core concepts visualized](https://medium.com/@pang.xin/spark-study-notes-core-concepts-visualized-5256c44e4090)
