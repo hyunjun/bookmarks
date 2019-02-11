@@ -407,6 +407,9 @@ Apache
 * How to Lose Messages on a Kafka Cluster
   * [Part 1](https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1)
   * [Part 2](https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2)
+* [Apache Kafka. MacOS installation guide](https://medium.com/pharos-production/apache-kafka-macos-installation-guide-a5a3754f09c)
+* [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
+* [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -660,6 +663,8 @@ Apache
 * [Comparing Pulsar and Kafka: how a segment-based architecture delivers better performance, scalability, and resilience](https://streaml.io/blog/pulsar-segment-based-architecture)
 * [Querying Data Streams with Apache Pulsar SQL](https://streaml.io/blog/querying-data-streams-with-apache-pulsar-sql)
   * Apache Pulsar를 통해 스트리밍 데이터를 SQL로 조회하는 아키텍처, 성능, 리뷰 포함
+* [Apache Pulsar. MacOS installation Guide](https://medium.com/pharos-production/apache-pulsar-macos-installation-guide-f4f67fce1160)
+* [Apache Pulsar Using Java](https://medium.com/pharos-production/apache-pulsar-using-java-d2b619c9f0b)
 
 # [Ranger](http://ranger.apache.org)
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
