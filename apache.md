@@ -410,6 +410,9 @@ Apache
 * [Apache Kafka. MacOS installation guide](https://medium.com/pharos-production/apache-kafka-macos-installation-guide-a5a3754f09c)
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
+* [MirrorMaker Performance Tuning Tuning Kafka for Cross Data Center Replication](https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21)
+  * compression.type 지정
+  * Producer 에서 사용하면, Network BW 및 Broker단의 CPU 절약
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -700,6 +703,7 @@ Apache
 * [How to Convert Apache Sqoop™ Commands Into StreamSets Data Collector Pipelines](https://streamsets.com/blog/using-streamsets-data-collector-modernize-apache-sqoop/)
   * Streamsets의 Dataflow Performance Blog에 올라온 내용
   * Apache Sqoop을 대체하기 위한 마이그레이션 방법 및 고려 사항에 대해 간단하게 설명
+* [Using Sqoop to Import Data from MySQL to Cloudera Data Warehouse](https://blog.cloudera.com/blog/2019/02/using-sqoop-to-import-data-from-mysql-to-cloudera-data-warehouse/)
 
 # Storm
 * Apache Storm을 이용한 실시간 데이타 처리
