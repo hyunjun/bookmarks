@@ -75,6 +75,7 @@ iOS
 * [5 Tools To Speed Up Your App Development](https://medium.com/swlh/5-tools-to-speed-up-your-app-development-6979d0e49e34)
 * [NAVER Tech Talk: iOS 밋업(2018년 8월~10월)](https://d2.naver.com/news/7036256)
 * [Swift vs. Objective-C: The trending up-and-comer vs. the dinosaur](https://medium.freecodecamp.org/https-medium-com-colin-gabriel-smith-swift-vs-objective-c-5b19add8e2ed)
+* [iOS 앱 개발자 도구로 세상을 이롭게 하기](https://medium.com/rainist-engineering/user-defaults-for-testing-ios-application-a492c52cd87f)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
