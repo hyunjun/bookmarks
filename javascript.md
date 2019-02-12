@@ -342,8 +342,6 @@ Javascript
 * [SVG Generation 1/3](https://steemit.com/kr-dev/@kdj/svg-generation-1-3)
 * [SVG Generation 2/3](https://steemit.com/kr-dev/@kdj/svg-generation-2-3)
 * [SVG Generation 3/3](https://steemit.com/kr-dev/@kdj/svg-generation-3-3)
-* [AngularJS vs. ReactJS vs. VueJS — Comparison](https://medium.com/@pixxelblog/angularjs-vs-reactjs-vs-vuejs-comparison-fd125a5ab2b0)
-* [Angular vs React vs Vue](https://codeburst.io/angular-vs-react-vs-vue-f470f5b74bf6)
 * [Syntactic Sugar and JavaScript Diabetes](https://medium.freecodecamp.org/js-diabetes-and-understanding-syntax-sugar-5de249ee9ebc)
 * [Overly defensive programming](https://hackernoon.com/overly-defensive-programming-e7a1b3d234c2)
 * [How I built a public, anonymous chat app in JavaScript](https://medium.freecodecamp.org/how-i-built-a-public-anonymous-chat-app-in-javascript-34f082b9b98)
@@ -375,7 +373,6 @@ Javascript
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
 * [JavaScript: Two face of identifier](https://blog.naver.com/sbshw1/221296823332)
 * [The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
-* [ReactJS vs Angular5 vs Vue.js — What to choose in 2018?](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
 * [The Cost Of JavaScript](https://www.youtube.com/watch?v=_bzqF05xsC4)
 * [NEMBV](https://www.clien.net/service/board/lecture/11939401) Node Express Mongo Bootstrap Vue
   * [github.com/fkkmemi/nembv](https://github.com/fkkmemi/nembv)
@@ -409,6 +406,8 @@ Javascript
 * [CodeByte: Why explicit semicolons are important in JavaScript](https://medium.freecodecamp.org/codebyte-why-are-explicit-semicolons-important-in-javascript-49550bea0b82)
 * [Finding Your Way With .map()](https://medium.freecodecamp.org/finding-your-way-with-map-aecb8ca038f6)
 * [관대한 코드는 쉽게 망가진다](https://libsora.so/posts/generous-code-breaks-easily/)
+* [How to quickly set up a build process for a static site](https://medium.freecodecamp.org/how-to-quickly-set-up-a-build-process-for-a-static-site-1a6e7923e105)
+* [How I got rid of the new sponsored Facebook posts](https://hackernoon.com/how-i-get-rid-of-the-new-sponsored-facebook-posts-138d013f4bbe)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -491,6 +490,7 @@ Javascript
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
+* [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -703,6 +703,7 @@ Javascript
 * [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 * [How to build a simple social media monitor with NodeJS, GraphQL, and Vue](https://medium.freecodecamp.org/how-to-build-a-simple-social-media-monitor-with-nodejs-graphql-and-vue-55ffe4124ab5)
 * [How to setup a powerful API with GraphQL, Koa and MongoDB](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-339cfae832a1)
+* [An intro to mutations in GraphQL: what they are and how to use them](https://medium.freecodecamp.org/an-intro-to-mutations-in-graphql-what-they-are-and-how-to-use-them-e959735abd8d)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1093,6 +1094,22 @@ Javascript
   * [Yarn을 설치하여 Angular CLI 기본패키지로 설정하기와 책 예제 소스 실행하기](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3955756301)
   * [Yarn 톺아보기](https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
+
+## Library Angular React Vue comparison
+* [AngularJS vs. ReactJS vs. VueJS — Comparison](https://medium.com/@pixxelblog/angularjs-vs-reactjs-vs-vuejs-comparison-fd125a5ab2b0)
+* [Angular vs React vs Vue](https://codeburst.io/angular-vs-react-vs-vue-f470f5b74bf6)
+* [ReactJS vs Angular5 vs Vue.js — What to choose in 2018?](https://medium.com/@TechMagic/reactjs-vs-angular5-vs-vue-js-what-to-choose-in-2018-b91e028fa91d)
+* [과연 Vue.js가 앵귤러나 리엑트보다 좋을까?](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)
+* [React 인가 Vue 인가?](https://joshua1988.github.io/web_dev/vue-or-react/)
+* [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
+* [Why we choose Vue.js over React for Vue Storefront](https://medium.com/@piotrkarwatka/why-we-choose-vue-js-over-react-for-vue-storefront-7f499c950239)
+* [난 React와 Vue에서 완전히 똑같은 앱(todo)을 만들었다. 여기 그 차이점이 있다.(번역글)](https://medium.com/@erwinousy/%EB%82%9C-react%EC%99%80-vue%EC%97%90%EC%84%9C-%EC%99%84%EC%A0%84%ED%9E%88-%EA%B0%99%EC%9D%80-%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EC%9D%B4%EA%B2%83%EC%9D%80-%EA%B7%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%EB%8B%A4-5cffcbfe287f)
+* [리액트와 뷰로 같은 앱을 만들어 보았다](http://devtimothy.tistory.com/92)
+* [리액트와 뷰로 같은 앱을 만들어 보았다.(Part 2: Angular)](http://devtimothy.tistory.com/93)
+* [I created the exact same app in React and Vue. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
+* [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
+* [Tech Trends Showdown🏆: React vs Angular vs Vue](https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706)
+* [React vs. Vue (vs. Angular)](https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56)
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
@@ -1919,6 +1936,7 @@ Javascript
   * [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
   * [JavaScript vs. TypeScript vs. ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
   * [How to get a taste of ReasonML by building something useful A pragmatic approach to learning ReasonML](https://medium.freecodecamp.org/how-to-taste-reasonml-by-building-something-useful-7b1189b94637)
+	* [ReasonML vs TypeScript: comparing their type systems](https://medium.freecodecamp.org/reasonml-typescript-comparing-their-type-systems-620e4343221c)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
 * [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 * [타입스크립트 모노레포](https://blog.bglee.me/posts/2018/typescript-monorepo/)
@@ -1947,7 +1965,6 @@ Javascript
 * [Tour of Vue.js](http://www.slideshare.net/sunhyouplee/tour-of-vuejs-70654520)
 * [소개 및 시작하기](https://velopert.com/3007)
 * [Directive (지시문), Vue 엘리먼트를 위한 특별한 속성](https://velopert.com/3044)
-* [과연 Vue.js가 앵귤러나 리엑트보다 좋을까?](http://blog.jeonghwan.net/vue/2017/03/29/is-vue-better-than-angular-react.html)
 * [Vue.js 살펴보기](http://blog.jeonghwan.net/vue/2017/03/27/vue.html)
 * [Vue.js와 친해지기](https://engineering.huiseoul.com/vue-js%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B8%B0-ed29bb71c6c4)
 * VueJS 공부하기
@@ -1963,7 +1980,6 @@ Javascript
 * [바닥에서 시작하기, 그리고 화면 출력하기 (덤으로 배포파일까지!)](http://jinblog.kr/192)
 * [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web_dev/vuejs-tutorial-for-beginner/)
 * [1분만에 Vue.js와 NativeScript 앱 만들기](https://vuejs-kr.github.io/vue/nativescript/2017/08/11/introduce-vue-nativescript-02/)
-* [React 인가 Vue 인가?](https://joshua1988.github.io/web_dev/vue-or-react/)
 * [시각화 웹 페이지 링크](https://rankr.kr/)
   * [Rankr 오픈소스](https://github.com/endlessdev/rankr)
   * [시각화 웹 페이지 오픈소스](https://github.com/narincorp/rankr-vue)
@@ -1983,7 +1999,6 @@ Javascript
 * [Vue.js를 이용하여 인스타그램 클론 웹 만들기 #3](http://cpdev.tistory.com/101)
 * [Vuex 시작하기](https://joshua1988.github.io/web_dev/vuex-start/)
 * [vuejsexamples.com](https://vuejsexamples.com/)
-* [Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)](https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
   * [Learn Vue.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-vue-js-from-top-50-articles-for-the-past-year-v-2019-ebae8b746522)
@@ -2018,7 +2033,6 @@ Javascript
 * [Vue.js 설치 및 프로젝트 생성](http://jybaek.tistory.com/765)
 * [How Vue.js Helped Me Start My Angular Career](https://10clouds.com/blog/vue-js-angular-comparison/)
 * [Starting with Webpack 4 and VueJs — A quick-start tutorial](https://medium.com/@nupoor_neha/starting-with-webpack-4-and-vuejs-a-quick-start-tutorial-4a244410d55e)
-* [Why we choose Vue.js over React for Vue Storefront](https://medium.com/@piotrkarwatka/why-we-choose-vue-js-over-react-for-vue-storefront-7f499c950239)
 * [옛날 웹 개발자가 잠깐 맛 본 Vue.js 소개](http://javacan.tistory.com/entry/OKKY-PT-Vuejs-intro-for-old-web-developer)
 * [VueJS 폼 검증](http://blog.jeonghwan.net/2018/05/31/vue-form-validation.html)
 * [배민찬은 Vue를 어떻게 사용하나요?](http://woowabros.github.io/experience/2018/06/07/vue-story-of-baminchan.html)
@@ -2029,10 +2043,6 @@ Javascript
 * [Vue Tables 2](https://github.com/matfish2/vue-tables-2)
 * [실무에서 사용하는 Vue.js 프로젝트 구조](https://joshua1988.github.io/web-development/vuejs/vue-structure/)
 * [Evan you on proxies](http://devtimothy.tistory.com/88)
-* [난 React와 Vue에서 완전히 똑같은 앱(todo)을 만들었다. 여기 그 차이점이 있다.(번역글)](https://medium.com/@erwinousy/%EB%82%9C-react%EC%99%80-vue%EC%97%90%EC%84%9C-%EC%99%84%EC%A0%84%ED%9E%88-%EA%B0%99%EC%9D%80-%EC%95%B1%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%97%88%EB%8B%A4-%EC%9D%B4%EA%B2%83%EC%9D%80-%EA%B7%B8-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%B4%EB%8B%A4-5cffcbfe287f)
-* [리액트와 뷰로 같은 앱을 만들어 보았다](http://devtimothy.tistory.com/92)
-* [리액트와 뷰로 같은 앱을 만들어 보았다.(Part 2: Angular)](http://devtimothy.tistory.com/93)
-* [I created the exact same app in React and Vue. Here are the differences](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-e9a1ae8077fd)
 * [Vue로 데스크탑 응용 프로그램 만들기 : Vuido](http://devtimothy.tistory.com/91)
 * [번역 자바스크립트 반응성(Reactivity)에 대한 가장 좋은 설명](https://rhostem.github.io/posts/2018-09-12-javascript-reactivity/)
 * Vuetorials
@@ -2050,8 +2060,6 @@ Javascript
 * [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)
 * [How to add Internationalization to a Vue Application](https://medium.freecodecamp.org/how-to-add-internationalization-to-a-vue-application-d9cfdcabb03b)
 * [Vue.js 입문자가 흔히 저지르는 문법 실수 총정리](https://joshua1988.github.io/web-development/vuejs/common-error-cases/)
-* [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
-* [Tech Trends Showdown🏆: React vs Angular vs Vue](https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706)
 * [기존 Express 서버에 Vue.js 적용해보기 (feat.EJS)](http://woowabros.github.io/experience/2018/12/27/node-express-vue-with-ejs.html)
 * [Vue 라이프사이클 이해하기 - Vue 인스턴스의 상태가 변화함에 따라, 각 상태가 어떤 특징을 가지고 있는지 알아봅니다](https://wormwlrm.github.io/2018/12/29/Understanding-Vue-Lifecycle-hooks.html)
 * From Zero to Hero with Vue
