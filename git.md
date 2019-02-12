@@ -8,6 +8,7 @@ Git
   * [Git2 - SourceTree 버전관리](https://opentutorials.org/module/3746)
   * [지옥에서 온 Git](https://opentutorials.org/course/2708)
   * [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
+  * [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
   * [Rebase](https://opentutorials.org/course/2708/15553)
 * [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
 * [초심자를 위한 git과 github 30분 맛보기](https://medium.com/@codesquad_yoda/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git%EA%B3%BC-github-30%EB%B6%84-%EB%A7%9B%EB%B3%B4%EA%B8%B0-c2366dc1d421)
