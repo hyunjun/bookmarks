@@ -469,6 +469,7 @@ ElasticSearch - Lucene
 * [Adding ElasticSearch To Legacy Application Using Logstash](https://hackernoon.com/adding-elasticsearch-to-legacy-application-using-logstash-98c19ac2f0fb)
 * [Logstash Plugin](https://github.com/logstash-plugins)
   * [Logstash JDBC Input Plugin](https://github.com/logstash-plugins/logstash-input-jdbc)
+* [Using Logstash to Split Data and Send it to Multiple Outputs](https://www.elastic.co/blog/using-logstash-to-split-data-and-send-it-to-multiple-outputs)
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR)](https://docs.com/sunnykwak/3330)
