@@ -167,6 +167,7 @@ Nomad & Remote
   * [#3 어떻게 신청하나? 아주 심플한 5가지 신청절차!](https://steemit.com/kr-newbie/@lynnata/e-residency-3-5)
 
 # Finland
+* [Welcome to Finland, Kajaani](https://docs.google.com/document/d/1Nisb57l7bYpIy6J5f0LoJLVbQ7J9feGj1repMR3y1PY/)
 * [북유럽 핀란드와 아이슬란드 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%ED%95%80%EB%9E%80%EB%93%9C%EC%99%80-%EC%95%84%EC%9D%B4%EC%8A%AC%EB%9E%80%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
 * [삶 in Finland](https://brunch.co.kr/magazine/hanslife)
 * [핀란드, 헬싱키에서 일하는 AI 개발자! 이진님 인터뷰 (feat. 여름휴가가 한달이라고?)](https://www.youtube.com/watch?v=NfNl79hBB0o)
