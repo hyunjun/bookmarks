@@ -429,10 +429,8 @@ Programming
 * [How to Explain Microservice](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/how-to-explain-microservice/10155839662608462/)
 * [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
 * [Microservices Architecture — A Journey of Understanding](https://codeburst.io/microservices-architecture-e6907b97a42a)
-* [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * [Microservice Graph Explorer Open Sourced](https://medium.com/hootsuite-engineering/microservice-graph-explorer-open-sourced-9f5f6b1bd0bc)
-* [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
 * **REST 기반의 간단한 분산 트랜잭션 구현** TCC Try-Confirm/Cancel
   * [1편 TCC 개관](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/)
   * [2편 TCC Cancel, Timeout](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-2%ED%8E%B8-tcc-cancel-timeout/)
@@ -1239,6 +1237,8 @@ Programming
 * [UBJSON](http://ubjson.org/)
 
 # Serverless
+* [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
+* [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
 * [Serverless 아키텍처의 세상이 온다](http://think.golbin.net/post/142941562561/serverless-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%84%B8%EC%83%81%EC%9D%B4-%EC%98%A8%EB%8B%A4)
 * [스타트업을 위한 모바일 백엔드 서버의 설계](http://janghp.tistory.com/974)
 * [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
@@ -1260,6 +1260,7 @@ Programming
 * [Serverless monitoring — the good, the bad and the ugly](https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843)
 * [0원으로 시작하는 서버리스 데이터 수집 및 분석](https://www.slideshare.net/KyuhyunByun1/0-121022533)
 * [AWSKRUG Serverless Group](https://github.com/awskrug/serverless-group)
+* [서버리스 컴퓨팅 시대의 풀 스택 개발](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f) Serviceful serverless, AWS Amplify
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
