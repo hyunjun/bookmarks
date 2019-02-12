@@ -77,6 +77,7 @@ Functional Programming
 * [Referential Transparency — Programming Word of the Day](https://medium.com/background-thread/referential-transparency-programming-word-of-the-day-afc31101488c)
 * [Functional 360 Archives](https://www.cirstei.ro/archive.html) haskell, scala, clojure, F#에 대한 주간 뉴스
 * [Discover the power of first class functions](https://medium.freecodecamp.org/discover-the-power-of-first-class-functions-fd0d7b599b69)
+* [함수란 무엇인가?](https://libsora.so/posts/what-is-function/)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
