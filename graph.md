@@ -52,6 +52,7 @@ Graph
 * [오픈 그래프 프로토콜(Open Graph protocol) 페이스북, 트위터 등에서 쓰이는 링크 미리보기? 링크 삽입시 미리보기에 대해 알아 보자](http://zzong.net/post/6)
 * [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases)](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [대한민국 인맥지도 (SPARQL, Python, D3JS, Network visualization)](https://docs.google.com/presentation/d/1OgbNGLMocDW0YierCQk96i6-0poYgqJXj4xZBPJsNKY/edit?usp=sharing)
+* [Predicting Friendship Who’s Most Likely Your Next Friend?](https://towardsdatascience.com/predicting-friendship-a82bc7bbdf11)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
