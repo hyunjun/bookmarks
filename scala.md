@@ -201,7 +201,7 @@ Scala
 * [Implementing Immutable Trie in Scala](https://medium.com/@AlirezaMeskin/implementing-immutable-trie-in-scala-c0ab58fd401)
 * [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b) type safety
 * [The Unison Language and its Scala-based Runtime—Paul Chiusano](https://www.youtube.com/watch?v=knqlWboqf_U)
-	* [An intro to the Unison language and compilation via partial evaluation](http://slides.com/pchiusano/unison-scala-world-2017)
+  * [An intro to the Unison language and compilation via partial evaluation](http://slides.com/pchiusano/unison-scala-world-2017)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -558,7 +558,7 @@ Scala
     * DB에 column은 있지만, 기본 값이 없고, NULL로 되어 있는 경우 값을 가져와 사용하려고 하면 발생
     * Option[<type>]의 형태로 해결해보려고 했으나 실패
   * [Composable table updates in Slick](https://www.missingfaktor.me/writing/2018/08/12/composable-table-updates-in-slick/)
-	* [Database migration using Slick made easy – „Scala-Forklift“](https://www.novatec-gmbh.de/en/blog/database-migration-slick-scala-forklift/)
+  * [Database migration using Slick made easy – „Scala-Forklift“](https://www.novatec-gmbh.de/en/blog/database-migration-slick-scala-forklift/)
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
@@ -644,7 +644,7 @@ Scala
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
   * [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
   * [(Mostly) Dropping Weak Conformance](https://medium.com/@jducoeur/mostly-dropping-weak-conformance-cde049d58364)
-	* [A Snippet of Dotty](https://medium.com/@jducoeur/a-snippet-of-dotty-27eadcee72e3)
+  * [A Snippet of Dotty](https://medium.com/@jducoeur/a-snippet-of-dotty-27eadcee72e3)
   * [The New Collections Library for Scala 2.13 and Dotty—Stefan Zeiger](https://www.youtube.com/watch?v=ofbaM7Yz3IM)
   * [“The” as a method?](https://medium.com/@jducoeur/the-as-a-method-dae559d3c1c)
 
