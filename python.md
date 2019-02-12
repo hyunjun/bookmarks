@@ -2631,6 +2631,7 @@ Python
 * [Python Pandas Tutorial | Pandas For Data Analysis | Python Pandas | Python Tutorial | Simplilearn](https://www.youtube.com/watch?v=PfVxFV1ZPnk)
 * [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
 * [How to build your data science muscle memory: Slicing and Mapping Data for Machine Learning](https://medium.freecodecamp.org/how-to-build-your-data-science-muscle-memory-slicing-and-mapping-data-for-machine-learning-d38e65986c69)
+* [pandas .head() to .tail() (Beginner) | SciPy 2018 Tutorial | Niederhut, Augspurger, Van den Bossche](https://www.youtube.com/watch?v=lkLl_QKLgcA)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
