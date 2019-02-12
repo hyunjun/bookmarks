@@ -419,6 +419,7 @@ App
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
+* [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
 * AppPolice [docker kubernetes 활성화시 CPU 점유율 문제](http://mcchae.egloos.com/11310690)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
@@ -672,6 +673,8 @@ App
 * [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://gooseberrycreative.com/cmder/)
+* [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
+  * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
