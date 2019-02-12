@@ -21,6 +21,7 @@ Scala
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
 * [Scala Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
 * [Learn Scala (Best Scala Tutorials for Beginners)](https://medium.com/hackr-io/learn-scala-best-scala-tutorials-for-beginners-bd80407387f5)
+* [Learn Scala from 0–60: The Basics](https://medium.freecodecamp.org/learning-scala-from-0-60-part-i-dc095d274b78)
 * [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
 * [Scala for Data Science Engineering — Part 2](https://towardsdatascience.com/scala-for-data-science-engineering-part-2-17052d186ff3)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
@@ -196,6 +197,9 @@ Scala
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
+* [NAVER Tech Talk: Scala 밋업(2018년 10월)](https://d2.naver.com/news/9362795) Monad, Akka
+* [Implementing Immutable Trie in Scala](https://medium.com/@AlirezaMeskin/implementing-immutable-trie-in-scala-c0ab58fd401)
+* [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b) type safety
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -640,6 +644,7 @@ Scala
   * [(Mostly) Dropping Weak Conformance](https://medium.com/@jducoeur/mostly-dropping-weak-conformance-cde049d58364)
 	* [A Snippet of Dotty](https://medium.com/@jducoeur/a-snippet-of-dotty-27eadcee72e3)
   * [The New Collections Library for Scala 2.13 and Dotty—Stefan Zeiger](https://www.youtube.com/watch?v=ofbaM7Yz3IM)
+  * [“The” as a method?](https://medium.com/@jducoeur/the-as-a-method-dae559d3c1c)
 
 # Scala.js
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
