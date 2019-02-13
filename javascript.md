@@ -1700,6 +1700,7 @@ Javascript
 * [11 React UI Component Playgrounds for 2019](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
 * [Understanding Fragments in React](https://blog.bitsrc.io/understanding-fragments-in-react-a1b6e534b01a)
 * [React Concurrent Mode](https://ideveloper2.tistory.com/170)
+* [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
