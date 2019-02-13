@@ -410,6 +410,7 @@ Programming Books
 * (NOT YET) [PyTorch를 활용한 강화학습/심층강화학습 실전 입문](http://wikibook.co.kr/pytorch-drl/)
 * [Deep Learning Cookbook](https://ridibooks.com/v2/Detail?id=2121000012)
   * [Deep Learning Cookbook 추가 설명집](https://wikidocs.net/book/2522)
+* (NOT YET) [PyTorch로 시작하는 딥러닝 딥러닝 기초에서 최신 모던 아키텍처까지](http://acornpub.co.kr/book/deep-learning-pytorch)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -486,6 +487,8 @@ Programming Books
 * (NOT YET) [데이터 분석을 위한 머신 러닝 입문](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002144)
 * (NOT YET) [사이킷런(scikit-learn)을 활용한 분류, 회귀 문제부터 간단한 알고리즘, 선형대수까지 - 머신 러닝 부트캠프 with 파이썬](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002001)
 * (NOT YET) [머신러닝 딥러닝 바로가기 - 구글 클라우드 플랫폼을 활용한 실전 개발](https://freelec.co.kr/book/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0/)
+* (NOT YET) [Go를 활용한 머신 러닝 Go 프로그래밍 언어를 사용해 회귀분석, 분류, 클러스터링, 시계열 모델, 신경망 및 딥러닝 구현하기](http://acornpub.co.kr/book/ml-with-go)
+* (NOT YET) [파이썬으로 실무에 바로 적용하는 머신 러닝](http://acornpub.co.kr/book/understanding-ml)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -878,6 +881,8 @@ Programming Books
   * 2018.04
   * 한라 005.133 박76ㅋ
   * 코틀린 기본, 안드로이드 스튜디오, 전화번호부 앱 개발
+* (NOT YET) [함수형 코틀린 코틀린과 애로우로 배우는 함수형 프로그래밍](http://acornpub.co.kr/book/functional-kotlin)
+* (NOT YET) [코틀린 마이크로서비스 개발 스프링 5와 스프링 부트 2.0을 활용해 코틀린으로 구축하는 리액티브 마이크로서비스](http://acornpub.co.kr/book/microservices-kotlin)
 
 # Linux
 
@@ -939,6 +944,7 @@ Programming Books
   * 탐라 문 004.735 초848ㅍ
 * (NOT YET) [텐서플로우와 머신러닝으로 시작하는 자연어처리(로지스틱회귀부터 트랜스포머 챗봇까지)](http://wikibook.co.kr/nlp/)
   * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
+* (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
 
 # NoSQL
 
