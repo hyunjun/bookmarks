@@ -159,6 +159,7 @@ Algorithm
 
 # Bit
 * [awesome-bits - A curated list of awesome bitwise operations and tricks](https://github.com/keonkim/awesome-bits)
+* [Bitmask: There Is Space at the Bottom](https://blog.bitsrc.io/bitmask-there-is-space-at-the-bottom-5a741d18c4e3)
 
 # Probablistic Filter
 * [Probablistic Filter 확률론적 필터](https://docs.google.com/presentation/d/e/2PACX-1vRuVja4WtbxkL800SKOYeiTXvi7IciqgRAZjXqqkXCV4KWbxzLcCP2RsadezenK80Q8BrOAn3GrMGvo/pub) Bloom Filter, Counting Filter, Cuckoo hash
@@ -401,6 +402,7 @@ Algorithm
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 * [glibc/stdlib/qsort.c quicksort](https://code.woboq.org/userspace/glibc/stdlib/qsort.c.html)
 * [Implementing Quicksort in JavaScript](https://itnext.io/implementing-quicksort-in-javascript-e1acfa16d033)
+* [Implementing Quicksort in JavaScript](https://medium.com/swlh/implementing-quicksort-in-javascript-6d4cd900b4c5)
 
 ## Radix
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
