@@ -221,6 +221,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [34 Amazing Python Open Source Libraries for the Past Year (v.2019)](https://medium.mybridge.co/34-amazing-python-open-source-libraries-for-the-past-year-v-2019-93d6ee11aceb)
   * [Learn Python from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v-2019-3225f4643d9c)
   * [Python Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2018-6c4c7a10b61e)
   * [Python Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/python-open-source-of-the-month-v-nov-2018-2301700b699a)
@@ -369,6 +370,7 @@ Python
 * [Python stories, September 2018](https://hackernoon.com/python-stories-september-2018-d34e526edde2)
 * [stdout_009.log: PEP 572, PEP 8000, Python Software Foundation](https://stdout.fm/9/)
 * [Dependency Injection in Python: The Java Guy’s Perspective - Dependency Injection (DI) in Python? Seriously?](https://medium.com/ki-labs-engineering/dependency-injection-in-python-the-java-guys-perspective-6f96d672c5e7)
+* [How to write a simple toy database in Python within minutes](https://medium.freecodecamp.org/how-to-write-a-simple-toy-database-in-python-within-minutes-51ff49f47f1)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1723,6 +1725,7 @@ Python
 * [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
 * [Unleash the power of Jupyter Notebooks](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)
 * [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
+* [How To Run Python Code In An Open Excel Workbook](https://www.youtube.com/watch?v=rh039flfMto)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -2450,6 +2453,7 @@ Python
   * [Python Virtual(Isolated) Environments](http://www.sauru.so/blog/python-virtualenv-and-venv/)
   * [파이썬 가상환경(virtualenv)만들기](http://pentode.tistory.com/127)
   * [Python Virtual Environments made easy](https://towardsdatascience.com/python-virtual-environments-made-easy-fe0c603fe601)
+  * [Comparing Python Virtual Environment tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
@@ -2632,6 +2636,8 @@ Python
 * [Tidying Up Pandas](https://towardsdatascience.com/tidying-up-pandas-4572bfa38776)
 * [How to build your data science muscle memory: Slicing and Mapping Data for Machine Learning](https://medium.freecodecamp.org/how-to-build-your-data-science-muscle-memory-slicing-and-mapping-data-for-machine-learning-d38e65986c69)
 * [pandas .head() to .tail() (Beginner) | SciPy 2018 Tutorial | Niederhut, Augspurger, Van den Bossche](https://www.youtube.com/watch?v=lkLl_QKLgcA)
+* [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
+* [데이콘 야구대회 튜토리얼 2-1 판다스 기본 문법](https://www.youtube.com/watch?v=V-lgb_Z7LpY)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
