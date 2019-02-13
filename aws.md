@@ -372,8 +372,8 @@ AWS
 * [AWS 람다 + 타입스크립트 디자인패턴 적용하기](https://medium.com/@herryhan2435/aws-%EB%9E%8C%EB%8B%A4-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8%ED%8C%A8%ED%84%B4-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-8cce354b6448)
 * [How to Deploy AWS Layers With Lambda And Serverless.js](https://medium.com/harrythegreat/build-aws-layers-lambda-serverless-js-42cd6d17b155)
 * 비전공자를 위한 AWS Lambda
-	* [1편 — 소개](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-1%ED%8E%B8-5697cee473eb)
-	* [2편 — 람다로 문자보내기](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-2%ED%8E%B8-%EB%9E%8C%EB%8B%A4%EB%A1%9C-%EB%AC%B8-3b73f43d2e20)
+  * [1편 — 소개](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-1%ED%8E%B8-5697cee473eb)
+  * [2편 — 람다로 문자보내기](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-2%ED%8E%B8-%EB%9E%8C%EB%8B%A4%EB%A1%9C-%EB%AC%B8-3b73f43d2e20)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
