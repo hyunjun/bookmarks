@@ -83,6 +83,7 @@
 * [Kotlin Coroutines – Retrofit2 + Coroutines 동시에 다루기](http://www.kmshack.kr/2018/05/kotlin-coroutines-retrofit2-coroutines-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
 * [Kotlin Coroutines을 알아보고, 안드로이드에 library 적용하기](https://thdev.tech/kotlin/2018/10/04/Kotlin-Coroutines/)
 * [Kotlin Coroutines 안드로이드 OnClick에 활용하기](https://thdev.tech/kotlin/2018/10/11/Kotlin-Coroutines-Android/)
+* [코틀린 코루틴의 패턴과 안티패턴](https://medium.com/harrythegreat/%EB%B2%88%EC%97%AD-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-6e97f852ea2d)
 * [Kotlin 작성한 코드 Decompile](https://thdev.tech/kotlin/2018/05/22/Android-Studio-Kotlin-Decompile.html)
 * [Kotlin 더 잘 활용하기](https://thdev.tech/kotlin/2018/08/13/Kotlin-Improving/)
 * [카카오톡의 서버사이드 코틀린](https://www.slideshare.net/ifkakao/ss-113145569)
@@ -92,6 +93,7 @@
 * [Why You Should Use Class Delegation In Kotlin](https://hackernoon.com/why-you-should-use-class-delegation-in-kotlin-fb0a3ebf151e)
 * [Kotlin + Springboot로 REST API 시작하기](http://devtimothy.tistory.com/98)
 * [Tips for Writing a Library in Kotlin](https://medium.freecodecamp.org/tips-for-writing-a-library-in-kotlin-cd5f9e14e102)
+* [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -140,3 +142,8 @@
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
 * [Kotlin 키워드 및 연산자 해부 (2) — Soft Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-2-soft-keywords-b3a70cc16955)
 * [Kotlin 키워드 및 연산자 해부 Part 3](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-part-3-59ff3ed736be)
+
+# Library
+* Koin
+  * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
+  * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
