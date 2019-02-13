@@ -512,10 +512,12 @@ App
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * [iTerm2](https://iterm2.com/)
+  * `cmd + enter` 전체화면
   * [Shell Integration](https://iterm2.com/shell_integration.html)
   * [iTerm2 v3의 Automatic Profile Switching](https://blog.outsider.ne.kr/1218?category=18)
   * [iTerm 개발환경 세팅](http://hjh5488.tistory.com/2)
   * [iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS)](https://gist.github.com/kevin-smets/8568070)
+  * [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2%EB%A1%9C-%ED%84%B0%EB%AF%B8%EB%84%90%EC%9D%84-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-a105f2c01bec)
   * [SSH 접속시 iterm2 zsh 테마 바꾸기](https://wayhome25.github.io/etc/2018/01/28/ssh-iterm2-theme/)
   * [멋진 Terminal 만들기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
   * [Jazz Up Your “ZSH” Terminal In Seven Steps — A Visual Guide](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
