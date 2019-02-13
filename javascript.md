@@ -245,6 +245,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [48 Amazing JavaScript Open Source for the Past Year (v.2019)](https://medium.com/@Mybridge/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9)
   * [Learn JavaScript from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)
   * [JavaScript Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-dec-2018-a950852e96f3)
   * [JavaScript Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-dec-2018-c69e110a54d3)
@@ -408,6 +409,8 @@ Javascript
 * [관대한 코드는 쉽게 망가진다](https://libsora.so/posts/generous-code-breaks-easily/)
 * [How to quickly set up a build process for a static site](https://medium.freecodecamp.org/how-to-quickly-set-up-a-build-process-for-a-static-site-1a6e7923e105)
 * [How I got rid of the new sponsored Facebook posts](https://hackernoon.com/how-i-get-rid-of-the-new-sponsored-facebook-posts-138d013f4bbe)
+* [Make Audio Recordings with Actions on Google](https://medium.com/google-developers/make-audio-recordings-with-actions-on-google-3094158c2a2d)
+* [How to reverse a number in JavaScript](https://medium.freecodecamp.org/js-basics-how-to-reverse-a-number-9aefc20afa8d)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1078,6 +1081,7 @@ Javascript
   * [Webpack 4의 Tree Shaking에 대한 이해](http://huns.me/development/2265)
   * [webpack 설정파일을 한땀한땀 만들어 보자](https://github.com/hg-pyun/step-by-step-webpack-config)
   * [webpack: From 0 to automated testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)
+	* [A tale of Webpack 4 and how to finally configure it in the right way. Updated](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -1313,6 +1317,8 @@ Javascript
 * [How to get started debugging NodeJS applications with ndb](https://medium.freecodecamp.org/how-to-get-started-debugging-nodejs-applications-with-ndb-a37e8747dbba)
 * [A Beginner’s Guide to Server-Side Web Development with Node.js](https://blog.bitsrc.io/a-beginners-guide-to-server-side-web-development-with-node-js-17385da09f93)
 * [Supercharge your debugging experience for Node.js](https://medium.freecodecamp.org/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
+* [JAVA vs node.js 무엇을 사용해야할까?](https://danielpark.net/183)
+* [Node.js에서 Request.js 사용하기 네트워크 더 간결하게 작성하자!](https://medium.com/harrythegreat/node-js%EC%97%90%EC%84%9C-request-js-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-28744c52f68d)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1395,6 +1401,8 @@ Javascript
   * [pm2 모듈을 부트 스크립트로 등록하기](http://jybaek.tistory.com/721)
   * [PM2로 Node.js 앱 프로세스 배포하기](https://rhostem.github.io/posts/2018-05-27-pm2-deploy/)
   * [PHP 사이트에 노드 앱 추가](https://hyeonseok.com/soojung/dev/2018/06/16/837.html)
+	* [PM2 — Node.js 서버를 더 쉽게 관리하기 — 1](https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-1-12d30b0fedbe)
+	* [PM2 — Node.js 서버를 더 쉽게 관리하기 — 2](https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-2-d03f6396139f)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 * [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
@@ -1767,6 +1775,7 @@ Javascript
 * [NAVER Tech Talk: React Native (2018년 7월, 10월)](https://d2.naver.com/news/5689003)
 * [A/B Testing for React-Native app with AppCenter](https://engineering.huiseoul.com/a-b-testing-for-react-native-app-with-appcenter-175f68b51a6f)
 * [그라데이션(Gradient) RN(React Native) 프로젝트에서 react-native-linear-gradient을 사용해서 그라데이션(Gradient) 백그라운드(background)를 만들어 보자](https://dev-yakuza.github.io/ko/react-native/react-native-linear-gradient)
+* [App Splash 스크린 RN(React Native) 프로젝트에서 react-native-splash-screen를 사용하여 Splash 스크린을 원하는 시간에 종료하도록 만들어 보자](https://dev-yakuza.github.io/ko/react-native/react-native-splash-screen/)
 
 ## Library
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
