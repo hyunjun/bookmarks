@@ -477,6 +477,7 @@ Scala
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
+* [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
   * [LambdaConf 2015 - Cats — A Fresh Look at Functional Programming in Scala Mike Stew O'Connor](https://www.youtube.com/watch?v=hIwdaP3-U6I)
@@ -637,6 +638,7 @@ Scala
 * [kevin sbt 플러그인](https://github.com/Kevin-Lee/sbt-devoops)
   * [2018년 마지막 방송 (2018-12-21) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=BITP-Pr7OXQ)
 * [Sub-project management via sbt](https://medium.com/@linda0511ny/sub-project-management-via-sbt-26e9f7bccbad)
+* [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
   
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
