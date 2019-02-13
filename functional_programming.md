@@ -163,8 +163,21 @@ Functional Programming
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
 * [A practical guide to writing more functional JavaScript](https://medium.freecodecamp.org/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
 * [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
+* [TypeScript with React + Redux/Immutable.js 빠르게 배우기](https://velopert.com/3595)
+* [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
+* [immer - Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
+  * [03 - Michel Weststrate - Immer Immutability made easy](https://www.youtube.com/watch?v=-gJbS7YjcSo)
+  * [Immer: Immutability made easy](https://immer.surge.sh/)
+  * [Introducing Immer: Immutability the easy way](https://hackernoon.com/introducing-immer-immutability-the-easy-way-9d73d8f71cb3)
+  * [이머 (Immer)를 소개해: 불변성 쉽게 하자](https://medium.com/@wongni/%EC%9D%B4%EB%A8%B8-immer-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%B4-%EB%B6%88%EB%B3%80%EC%84%B1-%EC%89%BD%EA%B2%8C-%ED%95%98%EC%9E%90-24b00b6ff13f)
+  * [Immer.js 분석 1탄: COW, Proxy, Map 에 대하여](https://www.youtube.com/watch?v=PljDdK3uT_Q&list=PLXssv5GogE0YZffWokb51145JAGoxHiIW)
+  * [The Rise of Immer in React (번역)](https://medium.com/front-end-%EB%B2%88%EC%97%AD-%EB%89%B4%EC%8A%A4%EB%A0%88%ED%84%B0/the-rise-of-immer-in-react-%EB%B2%88%EC%97%AD-26625c5a743f)
+* immutable.js
+  * [React ❤️ Immutable.js – 리액트의 불변함, 그리고 컴포넌트에서 Immutable.js 사용하기](https://velopert.com/3486)
+  * [How Immutable Data Structures (E.g. Immutable.js) are Optimized](https://hackernoon.com/how-immutable-data-structures-e-g-immutable-js-are-optimized-using-structural-sharing-e4424a866d56)
+* [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
 * [Lenses - Composable Getters and Setters for Functional Programming](https://medium.com/javascript-scene/lenses-b85976cb0534)
   
 # Lambda
