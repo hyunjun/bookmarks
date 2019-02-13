@@ -16,7 +16,11 @@ Thread
 * **[바람직한 멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)** job system, job stealing, dependency graph
 * **[non blocking/async IO vs. multithreads](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how/8546444#8546444)**
 * [Difference between mutual exclusion and synchronization](https://www.8bitavenue.com/2017/12/difference-between-mutual-exclusion-and-synchronization)
-* [멀티스레드 프로그래밍의 design by contract & eventual determinism](https://blog.naver.com/imays/221428677043)
+* 멀티스레드 프로그래밍의 design by contract & eventual determinism
+  * [1편](https://imays.blog.me/221428677043)
+  * [2편](https://imays.blog.me/221430386161)
+  * [3편](https://imays.blog.me/221440589428)
+  * [4편](https://imays.blog.me/221465259731)
 * [readers-writer lock - 공유 자원 접근하기](https://blog.seulgi.kim/2018/12/rwlock.html)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://www.popit.kr/faster-parallel-processes/) redis, RabbitMQ
 * [Why Concurrency is Hard ?](https://hackernoon.com/why-concurrency-is-hard-a45295e96114)
