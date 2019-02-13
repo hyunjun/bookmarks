@@ -465,6 +465,7 @@ Algorithm
 * [The Ubiquitous B-Tree](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
 
 ## Binary Search Tree BST
+* [BST Animation by Y. Daniel Liang](http://www.cs.armstrong.edu/liang/animation/web/BST.html) visualizer
 * [이진탐색트리(Binary Search Tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)
 * [is Binary Search Tree](http://astrod.github.io/2018/01/08/8.html)
 * [BST Sequences in Python](https://hackernoon.com/bst-sequences-in-python-c072c0e9b19f)
