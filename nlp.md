@@ -1311,3 +1311,4 @@ NLP
 * [Beyond Word Embeddings Part 1](https://towardsdatascience.com/beyond-word-embeddings-part-1-an-overview-of-neural-nlp-milestones-82b97a47977f)
 * [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
 * [How to incorporate phrases into Word2Vec – a text mining approach](http://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach)
+* [Magnitude: a fast, simple vector embedding utility library](https://github.com/plasticityai/magnitude)
