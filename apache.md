@@ -413,6 +413,8 @@ Apache
 * [MirrorMaker Performance Tuning Tuning Kafka for Cross Data Center Replication](https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21)
   * compression.type 지정
   * Producer 에서 사용하면, Network BW 및 Broker단의 CPU 절약
+* [blog.voidmainvoid.net/category/.../Kafka](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
+  * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
