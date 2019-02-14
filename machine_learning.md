@@ -290,6 +290,7 @@ Machine Learning
 * [Machine Learning Datasets For Data Scientists](http://blog.algorithmia.com/machine-learning-datasets-for-data-scientists/)
 * [The 50 Best Public Datasets for Machine Learning](https://medium.com/datadriveninvestor/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 * [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
+* [Visualising Machine Learning Datasets with Google’s FACETS](https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3)
 * [MACHINE-LEARNING ALGORITHM GENERATES VIDEOS FROM STILLS](http://www.popsci.com/this-ai-generates-video-from-stills)
 * [기계학습(Machine Learning) 101](https://www.facebook.com/SKTBrain/photos/pcb.305574049813416/305573403146814)
 * [Lisbon Machine Learning Summer School Highlights](http://sebastianruder.com/lisbon-machine-learning-summer-school-highlights/index.html)
@@ -906,6 +907,7 @@ Machine Learning
 * [A “Data Science for Good“ Machine Learning Project Walk-Through in Python: Part One](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc)
 * [Deploying a Machine Learning Model as a REST API](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
 * [An Essential Guide to Numpy for Machine Learning in Python](https://medium.com/@sid_darthvader/an-essential-guide-to-numpy-for-machine-learning-in-python-5615e1758301)
+* [4 Machine Learning Techniques with Python](https://medium.com/@rinu.gour123/4-machine-learning-techniques-with-python-ceee451b0085)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
