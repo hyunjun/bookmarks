@@ -116,6 +116,12 @@ ElasticSearch - Lucene
 * [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
 * [엘라스틱서치로 검색 전문가가 되자! 01. 시작](http://lemonism.net/258)
 * [And the big one said "Rollover" — Managing Elasticsearch time-based indices efficiently](https://www.elastic.co/kr/blog/managing-time-based-indices-efficiently)
+* [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
+* [들이마시는 공기: Elastic Cloud의 Elasticsearch로 대기 품질 데이터 분석하기(파트 1)](https://www.elastic.co/kr/blog/what-are-you-breathing-analyzing-air-quality-data-with-elasticsearch-on-elastic-cloud-part-1)
+* [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
+* [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
+* [Aftershock Therapy with Elasticsearch and CSV Data Import](https://www.elastic.co/kr/blog/aftershock-therapy-with-elasticsearch-and-csv-data-import)
+* [Managing My Type 1 Diabetes with Elastic Machine Learning](https://www.elastic.co/kr/blog/managing-my-type-1-diabetes-with-elastic-machine-learning)
 * [ElasticSearch Data Exploration and Analytics](https://www.youtube.com/watch?v=d9l2-3QeDTs)
 * [Geospatial Data Structures in Elasticsearch and Apache Lucene](https://www.elastic.co/elasticon/conf/2016/sf/geospatial-data-structures-in-elasticsearch-and-apache-lucene)
 * [Serverless Elasticsearch Curator on AWS Lambda](https://www.elastic.co/blog/serverless-elasticsearch-curator-on-aws-lambda)
@@ -146,6 +152,7 @@ ElasticSearch - Lucene
   * [swiftype 사이트 검색 기능 소개](https://www.youtube.com/watch?v=_fJ-OCdXGR8)
 * [2018-06-21 Elastic Seoul Meetup - JM.Kim - 6.3 release & Nori Analyzer](https://www.youtube.com/watch?v=80WiaOdnjXU)
 * [공식 한국어 분석 플러그인 “노리”](https://www.elastic.co/kr/blog/nori-the-official-elasticsearch-plugin-for-korean-language-analysis)
+* **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
@@ -168,11 +175,7 @@ ElasticSearch - Lucene
 * [transient / persistent](http://knight76.tistory.com/entry/elasticsearch-5-trainsient-persistent)
 * [elasticsearch_적용 및 활용_정리](https://www.slideshare.net/JunyiSong1/elasticsearch-45936425) 1.x 기준이지만 개념 잡기에 좋음
 * [ELASTICSEARCH 한글 형태소 분석기(ANALYZER) 비교](http://guruble.com/?p=437)
-* **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
-* [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
-* [들이마시는 공기: Elastic Cloud의 Elasticsearch로 대기 품질 데이터 분석하기(파트 1)](https://www.elastic.co/kr/blog/what-are-you-breathing-analyzing-air-quality-data-with-elasticsearch-on-elastic-cloud-part-1)
 * [네이버콘텐츠통계서비스소개](https://www.slideshare.net/deview/215-67608986)
-* [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
 * [speakerdeck.com/elastic](https://speakerdeck.com/elastic)
 * elasticsearch5
   * [삭제된 api 확인하기](http://knight76.tistory.com/entry/elasticsearch5-%EC%82%AD%EC%A0%9C%EB%90%9C-api-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
@@ -235,7 +238,6 @@ ElasticSearch - Lucene
 * [클러스터 rolling restarts](http://lng1982.tistory.com/m/315)
 * [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
 * [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
-* [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
 * [엘라스틱서치가 쉬웠던 이유](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EA%B0%80-%EC%89%AC%EC%9B%A0%EB%8D%98-%EC%9D%B4%EC%9C%A0/)
 * [Language Models in Elasticsearch](https://www.elastic.co/blog/language-models-in-elasticsearch)
 * [Elasticsearch development case](https://www.slideshare.net/ssuser176324/elasticsearch-development-case)
@@ -250,7 +252,6 @@ ElasticSearch - Lucene
 * [Beats 및 Elasticsearch를 이용한 Docker & Kubernetes 로그 수집 및 모니터링](https://www.elastic.co/kr/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers)
 * [Elasticsearch의 색인 별명 활용 팁](https://www.ridicorp.com/blog/2018/11/20/index-aliases)
 * [Elastic Stack with 여기어때](https://github.com/HowookJeong/withinnovation/blob/master/shared-documents/Elasticsearch-Meetup-with-%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-20181213.pdf)
-* [Aftershock Therapy with Elasticsearch and CSV Data Import](https://www.elastic.co/kr/blog/aftershock-therapy-with-elasticsearch-and-csv-data-import)
 * [Infrastructure and Logs UI: New ways for Ops to interact with Elasticsearch](https://www.elastic.co/blog/infrastructure-and-logs-ui-new-ways-for-ops-to-interact-with-elasticsearch)
 * **[G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)** G1 GC vs. CMS GC
 * [Elastic Maps Service 한국지도 추가](http://kimjmin.net/2019/01/2019-01-korea-region-map/)
