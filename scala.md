@@ -280,6 +280,7 @@ Scala
 * [Akka and Kafka Webinar Build Powerful Concurrent & Distributed Applications](https://www.youtube.com/watch?v=sezp1YHg5RI)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
+  * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
 * [Scala real life matters: when to use Akka and also RabbitMQ](https://www.signifytechnology.com/blog/2017/11/scala-real-life-matters-when-to-use-akka-and-also-rabbitmq)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
