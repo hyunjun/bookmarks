@@ -133,6 +133,8 @@ Programming Books
   * 2018.01
   * 한라 004.588 포86ㅇ
 * (NOT YET) [아마존 웹 서비스 인 액션](https://medium.com/@need4spd/%EC%B1%85-%EB%A6%AC%EB%B7%B0-amazon-web-service-in-action-9e5d81b184ad)
+* (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 서버 구축부터 배포, 모니터링, 관리 자동화, 데브옵스까지](http://wikibook.co.kr/aws-infra/)
+* (NOT YET) [AWS 시스템 설계와 마이그레이션 아마존 웹 서비스 업무 시스템 설계와 마이그레이션을 위한 베스트 프랙티스](http://wikibook.co.kr/aws-design-migration/)
 
 # Android
 
@@ -395,6 +397,7 @@ Programming Books
   * [서평, 길벗](https://medium.com/@strncpy/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D-4803654c014c)
   * [케라스 창시자에게 배우는 딥러닝](https://subinium.github.io/Keras/)
 * (NOT YET) [케라스 창시자의 딥러닝 with R](https://jpub.tistory.com/897)
+* (NOT YET) [딥러닝 모델 설계를 떠받치는 기술 딥러닝이 안 풀릴 때 보는 케라스 해법 정리서](http://wikibook.co.kr/deep-learning-reference/)
 * 강화학습 첫 걸음
   * 2018.03
   * 문004.73 줄239ㄱ
@@ -411,6 +414,10 @@ Programming Books
 * [Deep Learning Cookbook](https://ridibooks.com/v2/Detail?id=2121000012)
   * [Deep Learning Cookbook 추가 설명집](https://wikidocs.net/book/2522)
 * (NOT YET) [PyTorch로 시작하는 딥러닝 딥러닝 기초에서 최신 모던 아키텍처까지](http://acornpub.co.kr/book/deep-learning-pytorch)
+* (NOT YET) [실전! 딥러닝 텐서플로와 케라스를 이용한 딥러닝 최신 기술 활용 가이드](http://wikibook.co.kr/practical-deep-learning/)
+* (NOT YET) [가장 쉬운 딥러닝 입문 교실 그림으로 쉽게 이해하는 딥러닝 이론](http://wikibook.co.kr/easy-deep-learning/)
+* (NOT YET) [초보자를 위한 신경망 딥러닝 입문 수식 없이, 코딩 없이 드래그 앤드 드롭으로 배우는 딥러닝](http://wikibook.co.kr/neural-deep-learning/)
+* (NOT YET) [나의 첫 머신러닝/딥러닝 파이썬으로 구현해보는 필수 머신러닝/딥러닝 알고리즘](http://wikibook.co.kr/machine-learning/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -462,7 +469,7 @@ Programming Books
 * [파이썬 라이브러리를 활용한 머신러닝](http://book.daum.net/detail/book.do?bookid=KOR9788968483394)
   * 2016.06
   * 한라 005.133 뮐294ㅍ
-* 파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문
+* [파이썬을 이용한 머신러닝 딥러닝 실전 개발 입문](http://wikibook.co.kr/python-machine-learning/)
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 * [그림과 수식으로 배우는 통통 머신러닝](http://jpub.tistory.com/722)
   * 한라 005.76 스18ㅌ
@@ -523,6 +530,8 @@ Programming Books
   * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EA%B3%BC-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4)
 * (NOT YET) [러닝 텐서플로 딥러닝 영상처리와 NLP부터 텐서보드 시각화, 멀티스레딩, 분산처리까지](http://www.yes24.com/24/goods/60506589)
   * 한라 004.73-호897ㄹ
+* (NOT YET) [텐서플로로 시작하는 딥러닝 입문 그림으로 익히고 파이썬 코드로 구현하는 인공신경망 알고리즘](http://wikibook.co.kr/tensorflow/)
+* (NOT YET) [실전활용! 텐서플로 딥러닝 프로젝트 10가지 실무 프로젝트로 배우는 텐서플로와 딥러닝 알고리즘 100% 활용법](http://wikibook.co.kr/tensorflow-projects/)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -827,6 +836,7 @@ Programming Books
   * [리액트를 다루는 기술 리뷰](https://youduk.github.io/book_review/2018/08/24/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0-%EB%A6%AC%EB%B7%B0.html)
 * (NOT YET) 리액트 교과서 = React qulckly : 기본기에 충실한 리액트 입문서!
   * 한라 005.118-마297ㄹ
+* (NOT YET) [모던 리액트/리덕스 프로그래밍 React/Redux를 통해 배우는 모던 웹 프로그래밍의 정석](http://wikibook.co.kr/react-redux/)
 
 ## Angular
 
@@ -852,6 +862,7 @@ Programming Books
   * 한라 00.5118정38ㄴ
   * ★★★☆☆ 실용적. 기초부터 시작해 Rest API 구현까지
 * (NOT YET) [Electron 애플리케이션 개발 - 웹 기술로 구현하는 크로스 플랫폼 데스크톱 애플리케이션](https://freelec.co.kr/book/1500/)
+* (NOT YET) [실전! Node.js 마이크로서비스 개발 자바스크립트를 이용한 마이크로서비스 구축부터 보안, 테스트, 배포까지](http://wikibook.co.kr/nodejs-microservices/)
 
 # Kafka
 
@@ -1136,6 +1147,7 @@ Programming Books
   * [Learn-PYTHON-the-HARD-WAY 깐깐하게 배우는 파이썬 (한국어판) 3rd의 코드 연습](https://github.com/junshoong/Learn-PYTHON-the-HARD-WAY)
   * [The code to Learn Python3 The Hard Way](https://github.com/youknowone/learn-python3-thw-code-ko)
 * (NOT YET) [슬기로운 파이썬 트릭](https://blog.insightbook.co.kr/2019/01/23/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%84-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-%EC%A3%BC%EB%8A%94%E3%80%8E%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/)
+* (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](http://wikibook.co.kr/python-for-data-analysis/)
 
 # R
 
@@ -1200,6 +1212,7 @@ Programming Books
 * (NOT YET) [ggplot2 - R로 분석한 데이터를 멋진 그래픽으로](https://freelec.co.kr/book/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%ED%8C%A8%ED%82%A4%EC%A7%80-ggplot2/)
 * (NOT YET) **[R, JAGS, Stan을 이용한 베이지안 데이터 분석 바이블(제2판)](http://jpub.tistory.com/875)**
 * (NOT YET) [R로 하는 빅데이터 분석: 데이터 전처리와 시각화](http://ds.sumeun.org/?p=891)
+* (NOT YET) [시작하세요! 데이터 분석 with R R로 배우는 기초 통계와 데이터 분석 기법](http://wikibook.co.kr/data-analysis-with-r/)
 
 # Scala
 
