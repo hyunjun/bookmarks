@@ -94,6 +94,7 @@
 * [Kotlin + Springboot로 REST API 시작하기](http://devtimothy.tistory.com/98)
 * [Tips for Writing a Library in Kotlin](https://medium.freecodecamp.org/tips-for-writing-a-library-in-kotlin-cd5f9e14e102)
 * [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
+* [Hexagonal Architecture with Kotlin, Ktor and Guice](https://hackernoon.com/hexagonal-architecture-with-kotlin-ktor-and-guice-f1b68fbdf2d9)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
