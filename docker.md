@@ -524,6 +524,7 @@ Docker
   * [#19 - 보안(4/4) Pod Security Policy](http://bcho.tistory.com/1276)
   * [#20 - Security Best Practice](http://bcho.tistory.com/1290)
   * [#21 - 리소스(CPU/Memory) 할당과 관리](http://bcho.tistory.com/1291)
+  * [#22 - StatefulSet을 이용한 상태유지 Pod (데이타베이스) 관리하기 1/2](https://bcho.tistory.com/1306)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
