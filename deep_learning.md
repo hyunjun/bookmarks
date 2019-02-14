@@ -837,7 +837,7 @@ Deep Learning
 * **[Deep Reinforcement Learning](http://andersonjo.github.io/artificial-intelligence/2017/06/03/Deep-Reinforcement-Learning/)**
   * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
 * [Hello DeepQ](http://koaning.io/hello-deepq.html)
-* [Deep Q Learning with Keras and Gym](https://keon.io/rl/deep-q-learning-with-keras-and-gym/)
+* [Deep Q Learning with Keras and Gym](https://keon.io/deep-q-learning)
 * [Q-learning Test](http://computingkoreanlab.com/app/jAI/jQLearning/)
 * [DQN Adventure: from Zero to State of the Art](https://github.com/higgsfield/RL-Adventure)
 * [An introduction to Deep Q-Learning: let’s play Doom](https://medium.freecodecamp.org/an-introduction-to-deep-q-learning-lets-play-doom-54d02d8017d8)
@@ -905,7 +905,6 @@ Deep Learning
 * [Wasserstein GAN: An Alternative To The Traditional GAN Training](https://www.techleer.com/articles/471-wasserstein-gan-an-alternative-to-the-traditional-gan-training/)
 * [The story about WGAN](https://medium.com/@sunnerli/the-story-about-wgan-784be5acd84c)
 * [InfoGAIL](https://www.slideshare.net/samchoi7/infogail)
-* [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [AI기획 - 경쟁 통해 배우는 인공지능 기술 GAN](http://techm.kr/bbs/?t=Wh)
 * [Generative Adversarial Networks Explained](http://www.rubedo.com.br/2017/03/generative-adversarial-networks.html)
 * [겐스는 왜 기존 비창의 인공지능과 다른가?](https://www.linkedin.com/pulse/%EA%B2%90%EC%8A%A4-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%80-%EC%99%9C-%EA%B8%B0%EC%A1%B4-%EB%B9%84%EC%B0%BD%EC%9D%98-%EA%B8%B0%EC%88%A0%EA%B3%BC-%EB%8B%A4%EB%A5%B8%EA%B0%80-sung-jin-james-kim)
@@ -921,7 +920,6 @@ Deep Learning
 * [Generative Models - Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow](https://github.com/wiseodd/generative-models)
   * [Agustinus Kristiadi's Blog](http://wiseodd.github.io/techblog/)
   * [GAN](https://github.com/wiseodd/generative-models/tree/master/GAN)
-* [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
 * [초짜 대학원생의 입장에서 이해하는 LSGAN (1)](http://jaejunyoo.blogspot.com/2017/03/lsgan-1.html)
 * [초짜 대학원생의 입장에서 이해하는 LSGAN (2)](http://jaejunyoo.blogspot.com/2017/04/lsgan-2.html)
 * [Generative Adversarial Networks](http://cs.stanford.edu/people/karpathy/gan/)
@@ -1356,7 +1354,7 @@ Deep Learning
   * 순수한 텍스트기반 QnA 데이터세트인 페이스북의 bAbI
     * [research.fb.com/downloads/babi](https://research.fb.com/downloads/babi/)
     * [github.com/facebook/bAbI-tasks](https://github.com/facebook/bAbI-tasks)
-  * [keras implementation of [A simple neural network module for relational reasoning](https://arxiv.org/pdf/1706.01427.pdf)](https://github.com/Alan-Lee123/relation-network)
+  * [keras implementation of A simple neural network module for relational reasoning https://arxiv.org/pdf/1706.01427.pdf ](https://github.com/Alan-Lee123/relation-network)
   * [PR-018: A Simple Neural Network Module for Relational Reasoning (DeepMind)](https://www.youtube.com/watch?v=Lb1PVpFp9F8)
   * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
   * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
@@ -1516,7 +1514,6 @@ Deep Learning
 * [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
 * [컨볼루션(Convolution) 이해하기](https://brunch.co.kr/@chris-song/24)
 * [CortexNet: Robust Visual Temporal Representations](https://engineering.purdue.edu/elab/CortexNet/)
-* [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/Keras/2017/06/10/CNN_Data_Augmentation/)
 * [Convolution 종류 설명](https://www.slideshare.net/ssuser06e0c5/convolution-77257148)
 * [Deepeyeballers - Ushering in deep learning's foray into the netherworld of eyeballing](https://github.com/vinayprabhu/Deepeyeballers)
   * Scatter2Pearson - 산점도에서 상관 계수를 회귀시키는 CNN 훈련
