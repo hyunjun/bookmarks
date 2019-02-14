@@ -462,6 +462,7 @@ Web
 * [아하 REST API 서버 개발 (10)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-10-c09764e116f9)
 * [아하 REST API 서버 개발 (11)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-11-fbdd2cdb7e78)
 * [아하 REST API 서버 개발 (12)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-12-80702e33ad47)
+* [아하 REST API 서버 개발 (13)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-13-b90f6007a8f9)
 
 # Scala
 * Finatra
