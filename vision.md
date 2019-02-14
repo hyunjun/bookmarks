@@ -239,6 +239,7 @@ Vision
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 * [카카오 OCR 시스템 구성과 모델](https://brunch.co.kr/@kakao-it/318)
 * [아날로그 기상 데이터를 OCR로 디지털화할 수 있을까?](https://brunch.co.kr/@kakao-it/319)
+* [#42. 사진 속 글자 읽기, OCR (Optical Character Recognition)](http://t-robotics.blogspot.com/2019/02/42-ocr-optical-character-recognition.html)
 * [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/MURGIO/Food-Recipe-CNN)
 * Tutorials of Object Detection using Deep Learning
   * [1 What is object detection?](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
