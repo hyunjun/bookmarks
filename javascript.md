@@ -1113,6 +1113,7 @@ Javascript
 * [Angular vs. React vs. Vue: A 2017 comparison](https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176)
 * [Tech Trends Showdown🏆: React vs Angular vs Vue](https://medium.com/zerotomastery/tech-trends-showdown-react-vs-angular-vs-vue-61ffaf1d8706)
 * [React vs. Vue (vs. Angular)](https://medium.com/fundbox-engineering/react-vs-vue-vs-angular-163f1ae7be56)
+* [React vs Angular : 둘 중 어떤 것이 당신의 프로젝트에 알맞을까요?](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-react-vs-angular-%EB%91%98-%EC%A4%91-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%B4-%EB%8B%B9%EC%8B%A0%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%95%8C%EB%A7%9E/)
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
@@ -1960,6 +1961,7 @@ Javascript
 * [TypeScript — JavaScript with superpowers — Part I](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 * [TypeScript — JavaScript with superpowers — Part II](https://medium.com/cleversonder/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842)
 * [타입스크립트에서 절대경로 쓰기 typescript, absolute path, webpack, ts-node, jest](https://libsora.so/posts/use-absolute-path-in-typescript/)
+* [Native addon을 포함하여 Node.js + Typescript + Serverless 빌드 및 배포하기](https://www.slideshare.net/KyuhyunByun1/native-addon-nodejs-typescript-serverless)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
