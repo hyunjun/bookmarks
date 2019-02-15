@@ -261,6 +261,7 @@ Machine Learning
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+* [Linear Regression — Python Implementation](https://towardsdatascience.com/linear-regression-python-implementation-ae0d95348ac4)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
