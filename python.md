@@ -487,6 +487,7 @@ Python
   * [주차를 알고 싶을 땐 isocalendar](http://jiniya.net/ng/2017/11/isocalendar/)
   * [elapsed time in milliseconds](https://stackoverflow.com/questions/766335/python-speed-testing-time-difference-milliseconds)
   * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
+  * [파이썬의 시간대(datetime.timezone)에 대해 알아보기](https://spoqa.github.io/2019/02/15/python-timezone.html)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
   * [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
