@@ -412,6 +412,7 @@ Javascript
 * [Make Audio Recordings with Actions on Google](https://medium.com/google-developers/make-audio-recordings-with-actions-on-google-3094158c2a2d)
 * [How to reverse a number in JavaScript](https://medium.freecodecamp.org/js-basics-how-to-reverse-a-number-9aefc20afa8d)
 * [Pretty Print Your Site with JavaScript Take your print feature to the next level](https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529)
+* [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1650,6 +1651,7 @@ Javascript
 * [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
 * [리액트 Hooks 10분만에 사용법 배우기 | Learn How to use React Hooks in 10 min](https://www.youtube.com/watch?v=yS-BU6eYUDE)
 * [리액트 Hooks 실제 사용 예시를 알아보자! | React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU)
+* [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
@@ -2078,3 +2080,4 @@ Javascript
   * [Advanced Components, Parcel, Dev Tools](https://medium.com/cleversonder/from-zero-to-hero-with-vue-advanced-components-parcel-dev-tools-fab980a62259)
   * [Styling, Computed Props, Slots](https://medium.com/cleversonder/from-zero-to-hero-with-vue-styling-computed-props-slots-6f4f4ac1912e)
 * [Demystifying Vuex — The state container for Vue](https://medium.freecodecamp.org/demystifying-vuex-the-state-container-for-vue-fde82662ca8c)
+* [5 Tools for Faster Vue.js App Development](https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8)
