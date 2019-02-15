@@ -44,6 +44,8 @@ Android
 * [초딩도 한다! 안드로이드 앱개발&자바 코딩교실 예제를 에뮬레이터로 실행.1 - 새로운 소스 프로젝트 생성](http://cafe.naver.com/trendhunting/210242)
 * [SparseArray가 무엇인가요?](http://developer88.tistory.com/91)
 * [번역 DroidKaigi 2017 ~ How to apply DDD to Android Application Development](http://pluu.github.io/blog/android/droidkaigi/2017/04/02/droidkaigi-2017-ddd/)
+* [DroidKaigi 2019 참가 후기](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-review/)
+* [DroidKaigi 2019에서 들은 세션 ](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-insert-session/)
 * [Android Instant App SDK 체험기](http://blog.naver.com/pistolcaffe/221009529807)
 * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
 * [What’s New in Android (Google I/O ‘17)](http://pluu.github.io/blog/android/google/io17/2017/05/22/whats_new_in_android/)
