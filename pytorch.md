@@ -141,7 +141,7 @@ PyTorch
 * [Cycle GAN - Yet another Cycle GAN implementation in PyTorch](https://github.com/golbin/CycleGAN)
 * [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
-  * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://  www.youtube.com/watch?v=EYjdLppmERE)
+  * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://www.youtube.com/watch?v=EYjdLppmERE)
 * [AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint)
 
 # Introduction
@@ -161,6 +161,9 @@ PyTorch
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
 * [Braindecode - A deep learning toolbox to decode raw time-domain EEG](https://robintibor.github.io/braindecode/)
 * [Clipper Tutorial](https://github.com/ucbrise/clipper-tutorials) PyTorch, Tensorflow, PySpark, Scikit-Learn 으로 만든 모델 배포
+* [ComplexCNN - pytorch implementation of complex convolutional neural network](https://github.com/litcoderr/ComplexCNN)
+  * 대부분 딥러닝 모델들은 실수를 취급
+  * 음성을 STFT 변환하여 Phase를 도메인으로 사용할 경우 복소수가 필요
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
 * [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
