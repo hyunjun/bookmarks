@@ -255,6 +255,7 @@ ElasticSearch - Lucene
 * [Infrastructure and Logs UI: New ways for Ops to interact with Elasticsearch](https://www.elastic.co/blog/infrastructure-and-logs-ui-new-ways-for-ops-to-interact-with-elasticsearch)
 * **[G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)** G1 GC vs. CMS GC
 * [Elastic Maps Service 한국지도 추가](http://kimjmin.net/2019/01/2019-01-korea-region-map/)
+* [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
 
 # Docker
 * Dockerfile
