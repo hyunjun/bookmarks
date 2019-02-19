@@ -17,6 +17,7 @@
 * [Big Data and Hadoop Tutorial For Beginners | Hadoop Spark Tutorial For Beginners](https://www.youtube.com/playlist?list=PLEiEAq2VkUULWstQPgNEiAhRYOsV1gWIy)
 * [Apache Spark Tutorial](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKmozD5fU7Fvc-Wl5SmD7TP)
 * [Apache Spark Tutorials](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dXiPdFD4hXwheRGRwhmd6K)
+* [Apache Spark 101](https://medium.com/plumbersofdatascience/apache-spark-101-971aaf5d4334)
 * [Spark Internals](https://github.com/JerryLead/SparkInternals)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
 * Spark Internal
