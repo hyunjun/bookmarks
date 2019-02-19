@@ -353,6 +353,7 @@ Git
   * [How to become a Git expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
+  * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
 * remote
   * 이미 존재하는 project를 fork한 후 pull request를 위해 원래 repository와 연결
 
