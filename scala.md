@@ -22,6 +22,8 @@ Scala
 * [Scala Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
 * [Learn Scala (Best Scala Tutorials for Beginners)](https://medium.com/hackr-io/learn-scala-best-scala-tutorials-for-beginners-bd80407387f5)
 * [Learn Scala from 0–60: The Basics](https://medium.freecodecamp.org/learning-scala-from-0-60-part-i-dc095d274b78)
+* [Scala A guide for getting started](https://medium.com/@tylerremmie/scala-is-a-concise-high-level-language-focused-on-combining-functional-and-object-oriented-c293f900f88)
+* [Scala Programming: An Introduction](https://medium.com/@alessandroheres/scala-programming-an-introduction-33464b390d57)
 * [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
 * [Scala for Data Science Engineering — Part 2](https://towardsdatascience.com/scala-for-data-science-engineering-part-2-17052d186ff3)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
@@ -189,6 +191,7 @@ Scala
 * **[practice - scala streams](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)**
 * [Python vs. Scala: a comparison of the basic commands](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
 * [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
+  * [Scastie provides an easy start for learning Scala](https://medium.com/@alonso.delarte/scastie-provides-an-easy-start-for-learning-scala-79b7c3541997)
 * [Essential Scala: Six Core Principles for Learning Scala](https://www.youtube.com/watch?v=J8wUy1XxL5o)
 * [github.com/ikhoon/scala-note](https://github.com/ikhoon/scala-note)
 * [How to turn ugly Java APIs into elegant, type-safe Scala APIs](https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2)
@@ -203,6 +206,10 @@ Scala
 * [The Unison Language and its Scala-based Runtime—Paul Chiusano](https://www.youtube.com/watch?v=knqlWboqf_U)
   * [An intro to the Unison language and compilation via partial evaluation](http://slides.com/pchiusano/unison-scala-world-2017)
 * [Fast Immutable Interval Sets—Rüdiger Klaehn](https://www.youtube.com/watch?v=Lb07lshL4cw)
+* [Is your Scala object always a singleton?](https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9)
+* [Maintaining Binary Compatibility in Scala](https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23)
+* [The Ultimate Scala Serverless Lambda Deployment using Travis CI](https://medium.com/@5tigerjelly/the-ultimate-scala-serverless-lambda-deployment-using-travis-ci-18ddc681769f)
+* [Testable toggles in Scala](https://medium.com/@swa.khandekar/testable-toggles-in-scala-67bfaf80b13a)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -259,6 +266,8 @@ Scala
 * [Actor URLs (in Scala with Akka)](https://www.youtube.com/watch?v=588vyEaknog)
 * [Actor Supervision (in Scala with Akka)](https://www.youtube.com/watch?v=zMZK1IZArKY)
 * [Communicating Actors (in Scala with Akka)](https://www.youtube.com/watch?v=s_EtPq2ZYOg)
+* [Akka Revealed: A JVM Architect’s Journey From Resilient Actors To Scalable Clusters](https://www.youtube.com/watch?v=iYTEZ0fm4Pw)
+* [Assemble messages from Akka Actors](https://medium.com/@linda0511ny/assemble-messages-from-akka-actors-c3a7cab08a81)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reactive Architecture with Play, Akka, and Scala - Henrik Engstrom (Typesafe)](https://www.youtube.com/watch?v=ksSgjQ_Ye9c)
@@ -307,7 +316,6 @@ Scala
   * [Reactive Streams로의 여행](http://eyeahs.github.io/blog/2017/01/24/a-journey-into-reactive-streams/)
   * [리액티브 스트림으로의 여행 글 요약](http://javacan.tistory.com/entry/a-journey-into-reactive-streams-summary)
 * [Bootstrapping Microservices using Akka, Kafka ans Spark by Alex Silva](https://www.youtube.com/watch?v=gF8v51i6Y1c)
-* [Akka Revealed: A JVM Architect’s Journey From Resilient Actors To Scalable Clusters](https://www.youtube.com/watch?v=iYTEZ0fm4Pw)
 * [The Zen of Akka - by Konrad Malawski](https://www.youtube.com/watch?v=vgFoKOxrTzg)
 * [A tour of the (advanced) Akka features in 60 minutes by Johan Janssen](https://www.youtube.com/watch?v=4sP8v9lM6Kw)
 * [A Practical Introduction to Akka Streams by Jacek Kunicki](https://www.youtube.com/watch?v=L1FS2dyiwIg)
@@ -362,6 +370,7 @@ Scala
   * implicit object [Not able to find implicit from object](https://stackoverflow.com/questions/44986145/scala-not-able-to-find-implicit-from-object)
   * [Implicit Conversions in Scala](https://dzone.com/articles/implicit-conversions-scala)
   * [Scala Trait to Typeclasses](https://medium.com/@pvinchon/scala-generics-and-type-classes-3495bc059d1f)
+  * [Scala Snippets #1: Instantiable Implicits](https://medium.com/@manish.katoch/scala-snippets-1-instanitable-implicits-a37dadc5a8fc)
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
@@ -583,6 +592,7 @@ Scala
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
+  * [Finatra in a Haystack](https://medium.com/hotels-com-technology/finatra-in-a-haystack-e777f799ce38)
 * Play
   * [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)
   * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
@@ -611,6 +621,7 @@ Scala
 * [A Guide to Scala Collections: Exploring Monads in Scala Collections](https://blog.redelastic.com/a-guide-to-scala-collections-exploring-monads-in-scala-collections-ef810ef3aec3)
 * [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+* [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -641,6 +652,7 @@ Scala
 * [kevin sbt 플러그인](https://github.com/Kevin-Lee/sbt-devoops)
   * [2018년 마지막 방송 (2018-12-21) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=BITP-Pr7OXQ)
 * [Sub-project management via sbt](https://medium.com/@linda0511ny/sub-project-management-via-sbt-26e9f7bccbad)
+* [running sbt on Docker](http://eed3si9n.com/sbt-on-docker)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
   
 # Scala 3
@@ -688,3 +700,4 @@ Scala
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
   * [Reduce the domain of your types with Refined](https://medium.com/@Methrat0n/reduce-the-domain-of-your-types-with-refined-63e8e2840b15)
   * [Wtf is Refined ?](https://medium.com/@Methrat0n/wtf-is-refined-5008eb233194)
+  * [Validate Service Configuration in Scala](https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6)
