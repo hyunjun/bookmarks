@@ -1714,6 +1714,7 @@ Javascript
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
 * [Build a full-featured Modal dialog Form with React](https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571)
+* [React Training - High-quality open source software from React Training](https://github.com/ReactTraining)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
