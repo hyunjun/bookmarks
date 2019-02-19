@@ -197,6 +197,7 @@ Art
   1. [시카고 미술관 공식 사이트 The Collection Menu](https://www.artic.edu/collection)
   2. 작품을 장르별 카테고리에서 선택 or 'Show Filter'로 필터링해서 원하는 작품 선택
   3. 작품 선택 후 이미지를 클릭해 확대. 작품 이미지 밑에 다운로드 버튼이 있다면 다운 가능 e.g. [A Sunday on La Grande Jatte — 1884](https://www.artic.edu/artworks/27992/a-sunday-on-la-grande-jatte-1884)
+* [개발자의 그림 읽기: 아테네 학당](http://blog.hwang.gg/20190216)
 
 ## 백남준
 * ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
