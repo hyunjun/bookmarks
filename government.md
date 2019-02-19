@@ -52,3 +52,5 @@ Government
 * [기억해두면 유용한 통계지표 사이트 목록](https://kwarehouse.blogspot.com/2018/09/blog-post_7.html)
   * [기억해두면 유용한 통계지표 사이트 목록](https://1boon.daum.net/ppss/5bc438b56a8e51000127dcab)
 * [Online Test Data Generator](https://www.onlinedatagenerator.com/)
+* [데이터가 없어서 AI, DS 못 한다고 하지 마세요 1](https://brunch.co.kr/@fermat39/60)
+* [데이터가 없어서 AI, DS 못 한다고 하지 마세요 2](https://brunch.co.kr/@fermat39/61)
