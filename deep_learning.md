@@ -1271,6 +1271,7 @@ Deep Learning
 * [Hardware Guide: Neural Networks on GPUs](http://pjreddie.com/darknet/hardware-guide/)
 * [neural networks by browser](http://neurovis.dataphoric.com/)
 * [Scalable Bayesian Optimization Using Deep Neural Networks](http://arxiv.org/abs/1502.05700)
+* [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
 * **[An implementation of the paper 'A Neural Algorithm of Artistic Style'](https://github.com/kaishengtai/neuralart)**
   * [거장의 그림을 30초만에 만들다: DeepStyle](http://redtea.kr/?b=3&n=951)
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
