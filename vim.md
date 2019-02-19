@@ -111,6 +111,7 @@ Vim
 * [Vim: convenient code navigation for your projects](http://dmitryfrank.com/articles/vim_project_code_navigation)
 * [How do I edit current shell command in VI](http://apple.stackexchange.com/questions/88515/how-do-i-edit-current-shell-command-in-vi)
   * `set -o vi` - `esc` - `v`
+  * `C-X C-E`
 * [What's your best Vim related shell script?](https://www.reddit.com/r/vim/comments/3oo156/whats_your_best_vim_related_shell_script/)
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
 * [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
