@@ -318,6 +318,7 @@ Algorithm
 
 ## Consistent Hashing
 * **[입 개발 Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**
+* [The easiest consistent hashing](https://www.slideshare.net/charsyam2/the-easiest-consistent-hashing)
 * [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
 * [ketama - C library for consistent hashing, and langauge bindings](https://github.com/RJ/ketama)
