@@ -101,6 +101,7 @@ Machine Learning
   * Bagging; 서로 연관성이 없거나 사전지식이 없는 predictor들 여럿을 섞어서 결과를 내는 것. 제일 유명한 것이 random forest
   * Gradient boosting(GBM); 이전 predictor가 이후 predictor에 영향을 미치거나 관계를 알고 그 연쇄를 이용하면 보다 효율적인 결정을 할 수 있음
   * 각각 오버피팅과 variance/bias balance와 관련해 장단점이 있어서 도메인에 맞게 잘 선택하는 것이 중요
+* [How to use GradientBoosting Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-gradientboosting-classifier-and-regressor-in-python/)
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
   * [Visualizing a Decision Tree - Machine Learning Recipes #2](https://www.youtube.com/watch?v=tNa99PG8hR8)
@@ -222,6 +223,7 @@ Machine Learning
 * [Weak Learning, Boosting, and the AdaBoost algorithm](http://jeremykun.com/2015/05/18/boosting-census/)
 * [What is the difference between Bagging and Boosting?](https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html)
 * [군중은 똑똑하다2 — AdaBoost](https://medium.com/@deepvalidation/%EA%B5%B0%EC%A4%91%EC%9D%80-%EB%98%91%EB%98%91%ED%95%98%EB%8B%A42-adaboost-ba0122500034)
+* [How to use AdaBoost Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-adaboost-classifier-and-regressor-in-python/)
 * [머신 러닝의 기본적인 이해 : 뇌와의 비교](http://www.boannews.com/media/view.asp?idx=48141)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [Machine Learning for indentify the author of an email](http://blog.brainattica.com/machine-learning-for-indentify-the-author-of-an-email/)
@@ -910,6 +912,7 @@ Machine Learning
 * [Deploying a Machine Learning Model as a REST API](https://towardsdatascience.com/deploying-a-machine-learning-model-as-a-rest-api-4a03b865c166)
 * [An Essential Guide to Numpy for Machine Learning in Python](https://medium.com/@sid_darthvader/an-essential-guide-to-numpy-for-machine-learning-in-python-5615e1758301)
 * [4 Machine Learning Techniques with Python](https://medium.com/@rinu.gour123/4-machine-learning-techniques-with-python-ceee451b0085)
+* [setscholars.net](https://setscholars.net/) Applied Data Science in Business & Biological Sciences: Python, R & MATLAB Codes for Beginners
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
@@ -979,6 +982,7 @@ Machine Learning
 * [Random Forest in Python - A Practical End-to-End Machine Learning Example](https://towardsdatascience.com/random-forest-in-python-24d0893d51c0)
 * [An Introduction to Random Forest using the fastai Library (Machine Learning for Programmers — Part 1)](https://www.analyticsvidhya.com/blog/2018/10/comprehensive-overview-machine-learning-part-1/)
 * [An Intuitive Guide to Interpret a Random Forest Model using fastai library (Machine Learning for Programmers – Part 2)](https://www.analyticsvidhya.com/blog/2018/10/interpret-random-forest-model-machine-learning-programmers/)
+* [How to use RandomForest Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-randomforest-classifier-and-regressor-in-python/)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
