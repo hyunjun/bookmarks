@@ -781,6 +781,7 @@ Python
   * [파이썬 namespace Binding 이해하기](http://www.slideshare.net/dahlmoon/binding-20160229-58415344)
 * os
   * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
+  * [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2) shutil
 * partial
   * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
 * patch
@@ -1727,6 +1728,7 @@ Python
 * [Unleash the power of Jupyter Notebooks](https://towardsdatascience.com/unleash-the-power-of-jupyter-notebooks-4ed452a47895)
 * [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
 * [How To Run Python Code In An Open Excel Workbook](https://www.youtube.com/watch?v=rh039flfMto)
+* [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -2856,6 +2858,7 @@ Python
 * [5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
 * [Python 3.7의 새로운 기능들](http://geekhub.co.kr/blog/translation-python37-new-features)
 * [Modern Functions in Python 3](https://tech.gadventures.com/modern-functions-in-python-3-80208c44ce47)
+* [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)
