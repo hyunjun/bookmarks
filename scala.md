@@ -118,7 +118,9 @@ Scala
     * 무공변은 인자 타입의 상속관계가 있더라도 제네릭 타입에선 아무 상속 관계가 없어짐
   * [공변성/반공변성(Variance)](https://twitter.github.io/scala_school/ko/type-basics.html#variance)
   * [Covariance and contravariance in Scala](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
-* [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
+* [Haoyi's Programming Blog](http://www.lihaoyi.com/)
+  * [github.com/lihaoyi](https://github.com/lihaoyi)
+  * [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
 * [SCALA NATIVE Your favourite language gets closer to bare metal](http://www.scala-native.org/)
   * [Scala goes Native](https://github.com/densh/talks/blob/517b20c30dd4aaf390785039cdd002f623eaa91e/2016-05-11-scala-goes-native.pdf)
   * [Welcome to Scala Native](https://scala-native.readthedocs.io/)
