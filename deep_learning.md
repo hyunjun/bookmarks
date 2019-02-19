@@ -317,7 +317,7 @@ Deep Learning
 * [Lecture Slides for Deeplearning book](https://github.com/InfolabAI/DeepLearning)
 * [khanrc.tistory.com/category/DataScience/Deep Learning](http://khanrc.tistory.com/category/DataScience/Deep%20Learning)
 * [도커와 AWS를 활용한 클라우드 딥러닝 환경 구축](https://gist.github.com/haje01/f13053738853f39ce5a2)
-  * [Decoupled Neural Interfaces using Synthetic Gradients[1608.05343] Summary](https://tensorflowkorea.wordpress.com/2016/08/22/decoupled-neural-interfaces-using-synthetic-gradients1608-05343-summary/)
+  * [Decoupled Neural Interfaces using Synthetic Gradients 1608.05343 Summary](https://tensorflowkorea.wordpress.com/2016/08/22/decoupled-neural-interfaces-using-synthetic-gradients1608-05343-summary/)
 * [Initialization Of Deep Networks Case of Rectifiers](http://www.jefkine.com/deep/2016/08/08/initialization-of-deep-networks-case-of-rectifiers/)
 * [ANN 구현하고 x^2 근사함수 찾기](https://github.com/dgtgrade/HumanLearning/blob/master/1001.py)
   * Universal Approximation Theorem 에 따르면 간단한 ANN으로도 가능
@@ -783,6 +783,7 @@ Deep Learning
 * [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)
 * [The Backpropagation Algorithm Demystified](https://medium.com/@nathaliejeans7/the-backpropagation-algorithm-demystified-41b705229727)
+* [Nevergrad : A Python toolbox for performing gradient-free optimization](https://www.techleer.com/articles/576-nevergrad-a-python-toolbox-for-performing-gradient-free-optimization/)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -827,6 +828,7 @@ Deep Learning
   * **[numpy-neuralnet-exercise](https://github.com/hwalsuklee/numpy-neuralnet-exercise)**
 * **[Hands-On Reinforcement Learning With Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)**
 * [좌충우돌 강화 학습의 이론과 구현 (원고)](http://books.sumeun.org/index.php/2019/01/14/sumeunrl/)
+* [deep-learning-books](https://github.com/devakar/deep-learning-books)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
@@ -1013,6 +1015,7 @@ Deep Learning
 * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
 * [Paper Review; GAN for noise reduction in low dose CT](https://www.slideshare.net/JiminLee36/paper-review-gan-for-noise-reduction-in-low-dose-ct)
 * [cycleGAN 낮사진을 밤사진으로 바꾸는 ai](https://docs.google.com/presentation/d/1-82NXqa8oGAxuNOg2xCsVpiKkpzkDeE71PrQQ0YHFbo)
+* [Efficient, Simplistic Training Pipelines for GANs in the Cloud with Paperspace](https://medium.com/@ODSC/efficient-simplistic-training-pipelines-for-gans-in-the-cloud-with-paperspace-d6cfbc33b7c3)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
