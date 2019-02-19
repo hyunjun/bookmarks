@@ -111,6 +111,7 @@
   * [Part 1 : Introduction](http://blog.madhukaraphatak.com/rust-scala-part-1/)
   * [Part 2 : Type Inference](http://blog.madhukaraphatak.com/rust-scala-part-2/)
   * [Part 3: Expression Based Language](http://blog.madhukaraphatak.com/rust-scala-part-3/)
+  * [Part 4: Algebraic Data Types](http://blog.madhukaraphatak.com/rust-scala-part-4/)
 * [변수의 소유권에 대하여..](https://medium.com/intro-to-rust/%EB%B3%80%EC%88%98%EC%9D%98-%EC%86%8C%EC%9C%A0%EA%B6%8C%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-67583e8aa43a)
 
 # Library
