@@ -610,6 +610,7 @@ TensorFlow
   * [TensorFlow in Anaconda](https://www.anaconda.com/blog/developer-blog/tensorflow-in-anaconda)
 * [TensorFlow: Building Feed-Forward Neural Networks Step-by-Step](https://www.linkedin.com/pulse/tensorflow-building-feed-forward-neural-networks-step-by-step-gad)
 * [UBUNTU 18.04 설치 #2-3 INSTALL TENSORFLOW WITH DOCKER](https://eungbean.github.io/2018/11/09/Ubuntu-Installation2-3/)
+* [텐서플로우(Tensorflow) GPU설치 (이보다 더 쉬울 수는 없다!)](https://javaxer.blogspot.com/2019/01/tensorflow-gpu.html)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
@@ -997,3 +998,5 @@ TensorFlow
 * [Tensorflow Scan Tutorial](https://www.youtube.com/watch?v=A6qJMB3stE4)
 * [Ultimate Guide to Getting Started with TensorFlow](https://www.kdnuggets.com/2018/09/ultimate-guide-tensorflow.html)
 * [lilianweng.github.io/lil-log/tag/tutorial](https://lilianweng.github.io/lil-log/tag/tutorial)
+* [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
+* [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
