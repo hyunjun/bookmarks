@@ -256,6 +256,7 @@ AWS
   * [Part 2 Hosted Connected](http://zigispace.net/999)
   * [Part 3 Direct Connect 구성 절차](http://zigispace.net/1006)
 * [아마존 라이트세일 서버 리전 이동하기 – AWS Lightsail 워드프레스를 서울 서버로 복사 후 옮기기, 업그레이드 방법](https://swiftcoding.org/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EC%84%B8%EC%9D%BC-%EC%84%9C%EB%B2%84%EC%9D%B4%EC%A0%84-transfer)
+* [AWS Lightsail에서 설치형 워드프레스를 시작하고 리눅스 서버관리 배우기](https://swiftcoding.org/aws-lightsail-posts)
 * [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 * [Building Scalable Analytics with AWS — Part 1](https://medium.com/@tomas.duhourq/building-scalable-analytics-with-aws-part-i-6de6a90e3513)
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
@@ -374,6 +375,7 @@ AWS
 * 비전공자를 위한 AWS Lambda
   * [1편 — 소개](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-1%ED%8E%B8-5697cee473eb)
   * [2편 — 람다로 문자보내기](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-2%ED%8E%B8-%EB%9E%8C%EB%8B%A4%EB%A1%9C-%EB%AC%B8-3b73f43d2e20)
+* [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
@@ -404,3 +406,4 @@ AWS
 * [AWS VPC basic](https://blog.2dal.com/2017/09/12/aws-vpc-basic/)
 * [AWS VPC Network with Terraform](https://blog.2dal.com/2017/09/17/aws-vpc-network-with-terraform/)
 * [AWS VPC with Terraform Modules](https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/)
+* [Amazon Kinesis와 Amazon Athena를 활용한 VPC 네트워크 트래픽의 분석과 시각화](https://aws.amazon.com/ko/blogs/korea/analyze-and-visualize-your-vpc-network-traffic-using-amazon-kinesis-and-amazon-athena/)
