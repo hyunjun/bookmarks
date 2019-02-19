@@ -95,7 +95,6 @@ Javascript
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [dailyjs.com](http://dailyjs.com/)
 * [watchcode.net](https://sub.watchmecode.net/)
-* [Introduction to Object-Oriented JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
 * [www.outlearn.com/learn/jonathanfmills/advanced-js](https://www.outlearn.com/learn/jonathanfmills/advanced-js)
 * [the abundance of javascript libraries](http://joonaspajunen.com/the-abundance-of-javascript-libraries)
 * [Benchmarking JS](http://mrale.ph/talks/goto2015/#/)
@@ -284,8 +283,11 @@ Javascript
 * [자바스크립트 this 바인딩](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-this-%EB%B0%94%EC%9D%B8%EB%94%A9/)
 * [Removing JavaScript’s “this” keyword makes it a better language. Here’s why](https://medium.freecodecamp.org/removing-javascripts-this-keyword-makes-it-a-better-language-here-s-why-db28060cc086)
 * [A guide to this in JavaScript](https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1)
+* [The ‘this’ keyword in JavaScript, demystified](https://itnext.io/the-this-keyword-in-javascript-demystified-c389c92de26d)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
+* [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
+* [Diving Deeper in JavaScripts Objects A Closer Look at JavaScript Object Descriptors](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
 * **[자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
@@ -384,7 +386,6 @@ Javascript
 * [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
 * [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
 * [How to differentiate between deep and shallow copies in JavaScript](https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd)
-* [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 1](https://www.youtube.com/watch?v=JzFvGf7Ywkk)
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 2](https://www.youtube.com/watch?v=ozMwRq-IT2w)
 * [Forget Docker, the future is JAMstack](https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616)
@@ -476,6 +477,7 @@ Javascript
   * [애플리케이션 구조 설계 - 2](http://mobicon.tistory.com/566)
   * [애플리케이션 구조 설계 - 3](http://mobicon.tistory.com/567)
 * [Version 7 of Angular — CLI Prompts, Virtual Scroll, Drag and Drop and more](https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c)
+* [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -626,6 +628,7 @@ Javascript
 * [Do we still need JavaScript frameworks?](https://medium.freecodecamp.org/do-we-still-need-javascript-frameworks-42576735949b)
 * [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
 * [How to use destructuring in JavaScript (ES6) to its full potential](https://medium.freecodecamp.org/destructuring-in-javascript-es6-ee963292623a)
+* [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1707,6 +1710,10 @@ Javascript
 * [React Concurrent Mode](https://ideveloper2.tistory.com/170)
 * [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 * [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
+* [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
+* [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
+* [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
+* [Build a full-featured Modal dialog Form with React](https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1777,9 +1784,11 @@ Javascript
 * [A/B Testing for React-Native app with AppCenter](https://engineering.huiseoul.com/a-b-testing-for-react-native-app-with-appcenter-175f68b51a6f)
 * [그라데이션(Gradient) RN(React Native) 프로젝트에서 react-native-linear-gradient을 사용해서 그라데이션(Gradient) 백그라운드(background)를 만들어 보자](https://dev-yakuza.github.io/ko/react-native/react-native-linear-gradient)
 * [App Splash 스크린 RN(React Native) 프로젝트에서 react-native-splash-screen를 사용하여 Splash 스크린을 원하는 시간에 종료하도록 만들어 보자](https://dev-yakuza.github.io/ko/react-native/react-native-splash-screen/)
+* [앱 스토어 리뷰 RN(React Native) 프로젝트에서 react-native-rate를 사용하여 앱 스토어의 리뷰를 작성하도록 유도하는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-rate/)
 * [Lessons I learned while building in React Native](https://medium.freecodecamp.org/lessons-i-learned-while-building-in-react-native-917cb7bb5993)
 
 ## Library
+* [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
@@ -2012,6 +2021,7 @@ Javascript
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [45 Amazing Vue.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-vue-js-open-source-for-the-past-year-v-2019-b8533f26a0a2)
   * [Learn Vue.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-vue-js-from-top-50-articles-for-the-past-year-v-2019-ebae8b746522)
   * [Vue.js Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-dec-2018-d0d0b0f7c933)
   * [Vue.js Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/vue-js-open-source-of-the-month-v-nov-2018-a94d1b4c5171)
