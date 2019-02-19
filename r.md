@@ -117,6 +117,7 @@ R
 * [R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
 * [R에서 기본 내장 graphics package를 이용한 데이터 시각화](https://lovetoken.github.io/r/2017/06/16/plotFunction.html)
 * [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
+* [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 * [Twitter sentiment analysis with Machine Learning in R using doc2vec approach](https://www.r-bloggers.com/twitter-sentiment-analysis-with-machine-learning-in-r-using-doc2vec-approach/)
 * [능선 회귀(Ridge regression)에 대하여 1](http://r-programming.club/14)
 * [능선회귀(Ridge regression)에 대하여 2 - λ 와 솔루션 β 의 관계](http://r-programming.club/16)
@@ -263,6 +264,8 @@ R
 * [로컬상에서 Database를 간접경험해 보기 위한 sqlite DB를 R에서 만들어 보기](https://lovetoken.github.io/r/2019/01/03/RSQLite.html)
 * [Jupyter Notebook + R 연동하기](https://cozydatascientist.tistory.com/29)
 * [R Markdown 기초](https://blog.anpanman.co.kr/posts/2019-01-03-rmarkdown/)
+* [15 Stunning Data Visualizations (And What You Can Learn From Them)](https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8)
+* [The 25 Best Data Visualizations of 2018](https://towardsdatascience.com/the-25-best-data-visualizations-of-2018-93643f0aad04)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
