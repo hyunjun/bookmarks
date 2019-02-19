@@ -105,6 +105,7 @@ Java
 * [A faster alternative to Java Reflection](https://medium.freecodecamp.org/a-faster-alternative-to-java-reflection-db6b1e48c33e)
 * [How to code the Caesar Cipher: an introduction to basic encryption](https://medium.freecodecamp.org/how-to-code-the-caesar-cipher-an-introduction-to-basic-encryption-3bf77b4e19f7)
 * [What you should learn to become a Master Yoda in Java](https://levelup.gitconnected.com/what-you-should-learn-to-become-a-master-yoda-in-java-59c69207df78)
+* [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
