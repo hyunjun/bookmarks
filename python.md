@@ -2829,7 +2829,6 @@ Python
   * [파이썬의 새로운 병렬처리 API – Concurrent.futures](https://soooprmx.com/archives/5669)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
-* [Tutorials 24. 웹 크롤러(like Google) 만들기 1 - How to build a web crawler](http://creativeworks.tistory.com/entry/PYTHON-3-Tutorials-24-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%9F%AClike-Google-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-How-to-build-a-web-crawler)
 * [Python 3.5 Brings New Language Features and Library Modules](http://www.infoq.com/news/2015/09/python35-released)
 * [Python 3.5 and multitasking](http://brianschrader.com/archive/python-35-and-multitasking/)
 * [ZipPy: A Simple Python 3 for the JVM](http://socalpls.org/2013nov/slides/zippy.pdf)
@@ -2988,15 +2987,11 @@ Python
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
+* [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
     * `apt-get install libpcre3-dev -y`
-* [파이썬 크롤링 관련 모듈](http://www.slideshare.net/dahlmoon/ss-70166290)
-* [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)
-* [웹 크롤링에 대해서](http://lumiamitie.github.io/web/introduction-to-web-crawling/)
-* [Crawler](https://github.com/rudvlf0413/crawler)
-* [가상화폐 가격정보 가져오기](https://blog.naver.com/pjt3591oo/221177547962)
 
 # Windows
 * [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
