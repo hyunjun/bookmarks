@@ -27,6 +27,8 @@ Algorithm
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
+* [6 Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
+  * 가능한 모든 조합을 트리 형식으로 그리고, bounding function(constraint check function)으로 제약 조건으로 노드를 검사해서 false면 해당 sub tree를 그리지 않음
 * [Persistent Vector Performance Summarised](http://hypirion.com/musings/persistent-vector-performance-summarised?hnrepost=true)
 * [Cryptographic Data Structures](http://blog.bren2010.io/2015/04/07/data-structures.html)
 * [ACM ICPC World Finals 2015 문제 공개](http://ilwar.com/it/206599)
@@ -145,6 +147,7 @@ Algorithm
 * [n개의 제비뽑기에 n번 도전](https://johngrib.github.io/wiki/frac1e/)
 * [Coding Your First Algorithm — Draw A Line](https://medium.freecodecamp.org/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395)
 * [What’s the smallest possible number? — Programming Word of the Day](https://medium.com/background-thread/whats-the-smallest-possible-number-programming-word-of-the-day-d959bc6f2dd5)
+* [na982.tistory.com/category/Data Structure](https://na982.tistory.com/category/Data%20Structure)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
