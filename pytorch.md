@@ -205,6 +205,9 @@ PyTorch
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [mini seq2seq](https://github.com/keon/seq2seq)
 
+# Translation
+* [Neural Machine Translation](https://github.com/lyeoni/nlp-tutorial/tree/master/neural-machine-translation)
+
 # Tutorial
 * [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
 * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
