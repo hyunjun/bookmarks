@@ -45,6 +45,7 @@ PHP
   * [라라벨 프레임워크 Best practices 정리한 레퍼지토리](https://github.com/xotrs/laravel-best-practices/)
   * [Create web notifications using Laravel and Pusher Channels](https://hackernoon.com/create-web-notifications-using-laravel-and-pusher-channels-a9516427d842)
   * [How to build your first CRUD app with Laravel and MySQL](https://medium.freecodecamp.org/laravel-5-7-tutorial-build-your-first-crud-app-with-laravel-and-mysql-15cbd06c6cef)
+  * [Moving away from magic — or: why I don’t want to use Laravel anymore](https://medium.freecodecamp.org/moving-away-from-magic-or-why-i-dont-want-to-use-laravel-anymore-2ce098c979bd)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * VarDumper
