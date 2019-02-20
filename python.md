@@ -430,6 +430,7 @@ Python
   * [Run-time method patching in Python](https://tryolabs.com/blog/2013/07/05/run-time-method-patching-python/)
   * [Python - 잘못된 클래스 변수의 사용](https://ash84.net/2017/05/26/python-using-class-variables-incorrectly/)
   * [Enriching Your Python Classes With Dunder (Magic, Special) Methods](https://dbader.org/blog/python-dunder-methods)
+  * [What’s in a (Python’s) __name__?](https://medium.freecodecamp.org/whats-in-a-python-s-name-506262fe61e8)
   * [Python 과 Mixin](http://hamait.tistory.com/859)
   * [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/)
   * [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
