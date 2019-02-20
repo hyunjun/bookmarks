@@ -1291,6 +1291,7 @@ NLP
 * [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 * [PyData Tel Aviv Meetup: Node2vec - Elior Cohen](https://www.youtube.com/watch?v=828rZgV9t1g)
+* [Think your Data Different - Learn how node2vec works, and what kind of information it captures that word2vec doesn’t — includes case study](https://towardsdatascience.com/think-your-data-different-ddc435f70850)
 * [Word2Vec](https://www.youtube.com/watch?v=sY4YyacSsLc)
 * [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
 * [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning/)
