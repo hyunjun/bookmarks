@@ -511,6 +511,7 @@ Clojure
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
 * [Clojars is a dead easy community repository for open source Clojure libraries](https://clojars.org/)
+* [clojupyter - A Jupyter kernel for Clojure. This will let you run Clojure code from the Jupyter console and notebook](https://github.com/clojupyter/clojupyter)
 * [clojure2minizinc - provides an interface between state-of-the-art constraint solvers (via MiniZinc) and a very high-level programming language with excellent abstraction capabilities, Clojure](https://github.com/tanders/clojure2minizinc)
 * [clojure-android](http://clojure-android.info/)
 * [clojure.bat - Launch Clojure conveniently in Windows](https://github.com/kimtg/clojure.bat)
