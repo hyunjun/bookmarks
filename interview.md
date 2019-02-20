@@ -200,6 +200,7 @@ Interview
   * example of class design
   * handling ambiguity; clarifying the problem
   * systematic approach; clarify details
+* [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 * Load Balancer
   * [Introducing the GitHub Load Balancer](https://githubengineering.com/introducing-glb/)
   * [GLB part 2: HAProxy zero-downtime, zero-delay reloads with multibinder](https://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/)
