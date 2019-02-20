@@ -442,6 +442,7 @@ Scala
   * [ScalaTest](http://www.scalatest.org/)
     * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
     * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
+    * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
 * unapply
