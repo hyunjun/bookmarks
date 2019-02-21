@@ -201,7 +201,6 @@ Scala
 * [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
-* [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
 * [NAVER Tech Talk: Scala 밋업(2018년 10월)](https://d2.naver.com/news/9362795) Monad, Akka
 * [Implementing Immutable Trie in Scala](https://medium.com/@AlirezaMeskin/implementing-immutable-trie-in-scala-c0ab58fd401)
 * [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b) type safety
@@ -212,6 +211,7 @@ Scala
 * [Maintaining Binary Compatibility in Scala](https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23)
 * [The Ultimate Scala Serverless Lambda Deployment using Travis CI](https://medium.com/@5tigerjelly/the-ultimate-scala-serverless-lambda-deployment-using-travis-ci-18ddc681769f)
 * [Testable toggles in Scala](https://medium.com/@swa.khandekar/testable-toggles-in-scala-67bfaf80b13a)
+* [A Python to Scala transpiler using neural machine translation (NMT)](https://medium.com/@matthagy/a-python-to-scala-transpiler-using-neural-machine-translation-nmt-90d4d02afa70)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -373,6 +373,10 @@ Scala
   * [Implicit Conversions in Scala](https://dzone.com/articles/implicit-conversions-scala)
   * [Scala Trait to Typeclasses](https://medium.com/@pvinchon/scala-generics-and-type-classes-3495bc059d1f)
   * [Scala Snippets #1: Instantiable Implicits](https://medium.com/@manish.katoch/scala-snippets-1-instanitable-implicits-a37dadc5a8fc)
+  * [Implicit conversions in Scala help with DRY](https://medium.com/@alonso.delarte/implicit-conversions-in-scala-help-with-dry-babf3c35bcf6)
+* I/O
+  * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
+  * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
@@ -575,6 +579,7 @@ Scala
     * Option[<type>]의 형태로 해결해보려고 했으나 실패
   * [Composable table updates in Slick](https://www.missingfaktor.me/writing/2018/08/12/composable-table-updates-in-slick/)
   * [Database migration using Slick made easy – „Scala-Forklift“](https://www.novatec-gmbh.de/en/blog/database-migration-slick-scala-forklift/)
+  * [Scala as backend language. Tips, tricks and pain](https://medium.com/@valerii.tikhonov/scala-as-backend-language-tips-tricks-and-pain-dd7bb5da5552) slick의 단점을 지적한 글. 속 시원함
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
