@@ -415,6 +415,8 @@ Javascript
 * [Pretty Print Your Site with JavaScript Take your print feature to the next level](https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529)
 * [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
 * [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
+* [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
+* [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -825,7 +827,10 @@ Javascript
 * [Emscripten으로 WebAssembly와 JavaScript 코드 크기 줄이기](http://hacks.mozilla.or.kr/2018/03/emscripten%ec%9c%bc%eb%a1%9c-webassembly%ec%99%80-javascript-%ec%bd%94%eb%93%9c-%ed%81%ac%ea%b8%b0-%ec%a4%84%ec%9d%b4%ea%b8%b0/)
 * [Enact 프레임워크를 오픈합니다](https://devwaf.blogspot.com/2018/03/enact-20180319.html)
   * [Enact 개발환경 설정](https://devwaf.blogspot.com/2018/03/enact-20180329_30.html)
-  * [Hello Enact #1 - 기본](https://devwaf.blogspot.com/2018/04/hello-enact-1_98.html)
+  * [Hello Enact
+    * [#1 - 기본](https://devwaf.blogspot.com/2018/04/hello-enact-1_98.html)
+    * [#2 - CSS 추가하기](https://devwaf.blogspot.com/2018/04/hello-enact-2-css.html)
+  * [Enact 컴포넌트의 호환](https://devwaf.blogspot.com/2019/02/enact-20190220.html)
 * [esbox - ES2016 in a box - Zero-configuration tool for demoing and experimenting with ES2016 JavaScript](https://github.com/callumlocke/esbox)
 * [ESLint: The Next-Generation JavaScript Linter](http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/)
   * [linter를 이용한 코딩스타일과 에러 체크하기](http://subicura.com/2016/07/11/coding-convention.html)
@@ -1716,6 +1721,7 @@ Javascript
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
 * [Build a full-featured Modal dialog Form with React](https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571)
 * [React Training - High-quality open source software from React Training](https://github.com/ReactTraining)
+* [Building a React Autocomplete Component from scratch](https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14)
 
 ## Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
