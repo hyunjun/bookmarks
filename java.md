@@ -106,6 +106,7 @@ Java
 * [How to code the Caesar Cipher: an introduction to basic encryption](https://medium.freecodecamp.org/how-to-code-the-caesar-cipher-an-introduction-to-basic-encryption-3bf77b4e19f7)
 * [What you should learn to become a Master Yoda in Java](https://levelup.gitconnected.com/what-you-should-learn-to-become-a-master-yoda-in-java-59c69207df78)
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
+* [Parallel Merge Sort in Java](https://hackernoon.com/parallel-merge-sort-in-java-e3213ae9fa2c)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -662,6 +663,7 @@ Java
   * [How we built an asynchronous, temporal RESTful API based on Vert.x, Keycloak and Kotlin/Coroutines for Sirix.io (Open Source)](https://medium.com/sirixdb-sirix-io-how-we-built-a-novel-temporal/how-we-built-an-asynchronous-temporal-restful-api-based-on-vert-x-4570f681a3)
   * [Vert.x JVM Framework. MacOS installation Guide](https://medium.com/pharos-production/vert-x-jvm-framework-macos-installation-guide-85d870409d56)
   * [Vert.x RESTful Services on Java. Distributed Systems Development A-Z Guide](https://medium.com/pharos-production/vert-x-restful-services-on-java-6a4ed8a30489)
+  * [Vert.x: Understanding Core Concepts](https://hackernoon.com/vert-x-understanding-core-concepts-1529917658b3)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
