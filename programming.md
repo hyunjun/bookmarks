@@ -456,6 +456,7 @@ Programming
 * [Istio #4 - 설치 및 BookInfo 예제](http://bcho.tistory.com/1297)
 * [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
+* [From Application Integration to Microservices Architecture: a Pragmatic Approach](https://medium.com/@teivah/from-application-integration-to-microservices-architecture-a-pragmatic-approach-ac210c2c2045)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -1137,6 +1138,8 @@ Programming
   * [리액티브 프로그래밍에 대해 알아야 할 5가지 요약](http://javacan.tistory.com/entry/5-Things-to-Know-About-Reactive-Programming-summary)
 * [왜 리액티브인가 요약](http://javacan.tistory.com/entry/why-reactive-summary)
 * [Reactive Architecture: Introduction to Reactive Systems 코스 소개](http://kwangshin.pe.kr/blog/2018/08/18/reactive-architecture-introduction-to-reactive-systems-free-course/)
+* [An Introduction to Reactive Streams](https://medium.com/@teivah/an-introduction-to-reactive-streams-fad58e21c795)
+* **[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
