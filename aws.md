@@ -310,6 +310,7 @@ AWS
 * [AWS Lambda Update – Run Java Code in Response to Events](https://aws.amazon.com/ko/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/?sc_campaign=launch&sc_category=lambda2&sc_channel=SM&sc_content=java&sc_detail=std&sc_medium=aws&sc_publisher=tw_go&adbsc=social_launches_20150615_47567446&adbid=610521356594089984&adbpl=tw&adbpr=66780587)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
+* [Manage Multiple Lambdas behind a Single API Gateway](https://medium.com/@5tigerjelly/manage-multiple-lambdas-behind-a-single-api-gateway-ed829f1465ba) scala
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
 * [How We Use AWS Lambda for Rapidly Intensifying Workloads](http://blog.cloudsploit.com/2015/09/15/how-we-use-lambda/)
