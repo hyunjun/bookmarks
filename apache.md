@@ -181,6 +181,7 @@ Apache
   * Apache Storm, Apache Spark와 비교하여 Flink를 선택한 배경 설명
 * [Introduction of apache flink kosscon2018](https://www.slideshare.net/secret/dhQ4aYqD02SQ11)
 * [About Flink streaming](https://www.slideshare.net/ssusera7e5ca/about-flink-streaming-126179502)
+* [A Brief History of Flink: Tracing the Big Data Engine’s Open-source Development](https://medium.com/@alitech_2017/a-brief-history-of-flink-tracing-the-big-data-engines-open-source-development-87464fd19e0f)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
@@ -609,6 +610,7 @@ Apache
   * PoC에서 프로덕션 환경 적용까지 필요한 사례 소개
 * [Building an IIoT system using Apache NiFi, MiNiFi, C2 Server, MQTT and Raspberry Pi](https://medium.com/@abdelkrim.hadjidj/building-an-iiot-system-using-apache-nifi-mqtt-and-raspberry-pi-ce1d6ed565bc) IoT에서 Apache NiFi를 활용하는 예
 * [HDF/HDP Twitter Sentiment Analysis End-to-End Solution](https://community.hortonworks.com/articles/208667/hdphdp-twitter-nlp-processing-framework.html)
+* [IoT with Apache MXNet and Apache NiFi and MiniFi](https://www.youtube.com/watch?v=5w6rV7562xM)
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
