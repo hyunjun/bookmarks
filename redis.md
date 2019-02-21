@@ -28,6 +28,8 @@ Redis
 * [Redis 의 Sentinel](http://crystalcube.co.kr/m/post/177)
 * [Redis Conf 2016: Redis in a Multi-Tenant Environmnet](https://www.youtube.com/watch?v=aZ64pM7OVaw)
 * [RedisConf18: Building Light weight Microservices Using Redis - Redis Labs](https://www.youtube.com/watch?v=z25CPqJMFUk)
+  * [Building Light-weight Microservices using Redis](https://medium.com/flywheel-tech/building-light-weight-microservices-using-redis-23f051624647)
+* [Microservice Communication: A Spring Integration Tutorial with Redis](https://www.toptal.com/spring/spring-integration-tutorial-redis-microservices)
 * [RedisConf18: Implementing a New Data Structure for Redis - Redis Labs](https://www.youtube.com/watch?v=pmxaztRsoF4)
 * [RedisConf18 발표 후기](https://engineering.linecorp.com/ko/blog/detail/306)
 * [Redis Networking Nerd Down: For Lovers of Packets and Jumbo Frames- John Bullard, Distil Networks](http://www.slideshare.net/RedisLabs)
@@ -59,7 +61,6 @@ Redis
   * [redis-replicator](https://github.com/leonchen83/redis-replicator)
 * [Redis Node와 연동하기](https://www.zerocho.com/category/NodeJS/post/5a3238b714c5f9001b16c430)
 * [운영에 필요한 최소한의 지식](http://jybaek.tistory.com/711) List, Hash
-* [Microservice Communication: A Spring Integration Tutorial with Redis](https://www.toptal.com/spring/spring-integration-tutorial-redis-microservices)
 * [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
 * **[Dave Nielsen: Top 5 uses of Redis as a Database](https://www.youtube.com/watch?v=jTTlBc2-T9Q)** 내부 구조 기초
 * [Redis Labs and SQL Server](https://www.youtube.com/watch?v=XQ9QEgLZAcQ)
