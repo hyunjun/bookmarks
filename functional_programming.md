@@ -165,6 +165,7 @@ Functional Programming
 * [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
 * [TypeScript with React + Redux/Immutable.js 빠르게 배우기](https://velopert.com/3595)
 * [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
+* [Functional Programming Patterns: A Cookbook](https://medium.freecodecamp.org/functional-programming-patterns-cookbook-3a0dfe2d7e0a)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [immer - Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
