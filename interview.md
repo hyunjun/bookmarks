@@ -169,6 +169,7 @@ Interview
   * [What are system design questions?](https://www.hiredintech.com/classrooms/system-design/lesson/52) 기초~실습문제까지 전체적인 부분
 * [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design) 간단한 설명과 문제등 다양한 links
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
+* [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * Introduction
   * **[CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)** 이 분야의 고전같이 여겨지는 강의
