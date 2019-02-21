@@ -205,6 +205,8 @@ Go
 * [Golang + GraphQL을 사용한 Todo](https://hazle.info/golang-graphql%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-todo/)
 * [Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report](https://www.infoq.com/articles/api-gateway-clojure-golang)
 * [A guide to Golang e-commerce Get your e-commerce site up and running with this Go-powered CMS tutorial](https://medium.freecodecamp.org/a-guide-to-golang-e-commerce-8c0804088e4e)
+* [Parallel Merge Sort in Go](https://hackernoon.com/parallel-merge-sort-in-go-fe14c1bc006)
+* [Good Code vs Bad Code in Golang](https://medium.com/@teivah/good-code-vs-bad-code-in-golang-84cb3c5da49d)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
@@ -330,6 +332,7 @@ Go
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
 * [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
+* gosiris [An Introduction to gosiris, an Actor Framework for Go](https://medium.com/@teivah/an-introduction-to-gosiris-an-actor-framework-for-go-e0e3ad15b3c7)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [Gsp is a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
