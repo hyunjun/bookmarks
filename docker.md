@@ -77,6 +77,8 @@ Docker
 * [github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [hub.docker.com](https://hub.docker.com/)
   * [centos](https://hub.docker.com/_/centos/)
+  * couchbase
+    * [Setting Up a Couchbase Cluster in 10 Minutes with Docker Compose](https://medium.com/@teivah/setting-up-a-couchbase-cluster-in-10-minutes-with-docker-and-docker-compose-61e5ccfae21a)
   * Deep Learning
     * [bi_deeplearning](https://hub.docker.com/r/imcomking/bi_deeplearning/) TensorFlow + Theano + Torch + Scikit-learn + Keras + Caffe + ...
     * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
@@ -86,6 +88,9 @@ Docker
   * [httpd](https://hub.docker.com/_/httpd/)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
+  * kafka
+    * [Running Kafka 1.0 in Docker](https://medium.com/@teivah/running-kafka-1-0-in-docker-1dd04b5bc23c)
+    * [Kafka 1.1 Docker Image](https://medium.com/@teivah/kafka-1-1-docker-image-5e4e9aac201d)
   * [kernel builder](https://github.com/memnoth-projects/docker-kernel-builder)
   * [mysql-server](https://hub.docker.com/r/mysql/mysql-server/)
     * [A tutorial on how to use MySQL with Docker](http://www.luiselizondo.net/a-tutorial-on-how-to-use-mysql-with-docker/)
