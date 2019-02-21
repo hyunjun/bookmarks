@@ -2643,6 +2643,7 @@ Python
 * [pandas .head() to .tail() (Beginner) | SciPy 2018 Tutorial | Niederhut, Augspurger, Van den Bossche](https://www.youtube.com/watch?v=lkLl_QKLgcA)
 * [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 * [데이콘 야구대회 튜토리얼 2-1 판다스 기본 문법](https://www.youtube.com/watch?v=V-lgb_Z7LpY)
+* [Cleaning and Tidying Data in Pandas - Daniel Chen](https://www.youtube.com/watch?v=iYie42M1ZyU)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
