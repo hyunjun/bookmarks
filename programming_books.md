@@ -1215,6 +1215,7 @@ Programming Books
 * (NOT YET) **[R, JAGS, Stan을 이용한 베이지안 데이터 분석 바이블(제2판)](http://jpub.tistory.com/875)**
 * (NOT YET) [R로 하는 빅데이터 분석: 데이터 전처리와 시각화](http://ds.sumeun.org/?p=891)
 * (NOT YET) [시작하세요! 데이터 분석 with R R로 배우는 기초 통계와 데이터 분석 기법](http://wikibook.co.kr/data-analysis-with-r/)
+* (NOT YET) [앤디 필드의 유쾌한 R 통계학](https://jpub.tistory.com/900)
 
 # Scala
 
