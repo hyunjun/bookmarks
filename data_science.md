@@ -399,7 +399,7 @@ Data Science
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
 
-## Library
+## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
 * [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
 * [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
@@ -419,6 +419,8 @@ Data Science
 * [RoboSat - an end-to-end pipeline written in Python 3 for feature extraction from aerial and satellite imagery](https://github.com/mapbox/robosat)
   * [PyParis 2018 - Robosat: an Open Source and efficient Semantic Segmentation...](https://www.youtube.com/watch?v=y-leS9uBl7Y)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
+* [Snorkel: A System for Fast Training Data Creation](https://hazyresearch.github.io/snorkel/)
+  * [Introducing Snorkel](https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
