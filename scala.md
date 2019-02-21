@@ -672,6 +672,9 @@ Scala
   * [A Snippet of Dotty](https://medium.com/@jducoeur/a-snippet-of-dotty-27eadcee72e3)
   * [The New Collections Library for Scala 2.13 and Dotty—Stefan Zeiger](https://www.youtube.com/watch?v=ofbaM7Yz3IM)
   * [“The” as a method?](https://medium.com/@jducoeur/the-as-a-method-dae559d3c1c)
+* [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
+  * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
+  * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
 
 # Scala.js
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
