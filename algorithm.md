@@ -384,6 +384,7 @@ Algorithm
 * [How to implement a Binary Search Algorithm in Java without recursion](https://medium.freecodecamp.org/how-to-implement-a-binary-search-algorithm-in-java-without-recursion-67d9337fd75f)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 * [Reverse Morris In-order Traversal](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/)
+* [Sudokus and Schedules Solving Scheduling Problems with Tree Search](https://towardsdatascience.com/sudokus-and-schedules-60f3de5dfe0d)
 
 # Sort
 * [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
