@@ -160,6 +160,7 @@ Functional Programming
   * [github.com/indongyoo/NAVER-Teck-Talk](https://github.com/indongyoo/NAVER-Teck-Talk)
 * [Anjana Vakil: Learning Functional Programming with JavaScript - JSUnconf](https://www.youtube.com/watch?v=e-5obm1G_FY)
 * [High-performance array transformations - This simple technique let’s you compose array `map`s and `filter`s in a nice and performant way](https://codeburst.io/high-performance-array-transformations-68aae138a5f2)
+* [How to write your own map, filter and reduce functions in JavaScript](https://medium.freecodecamp.org/how-to-write-your-own-map-filter-and-reduce-functions-in-javascript-ab1e35679d26)
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f)
 * [A practical guide to writing more functional JavaScript](https://medium.freecodecamp.org/a-practical-guide-to-writing-more-functional-javascript-db49409f71)
 * [Make your code easier to read with Functional Programming](https://medium.freecodecamp.org/make-your-code-easier-to-read-with-functional-programming-94fb8cc69f9d)
