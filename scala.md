@@ -353,6 +353,7 @@ Scala
 * DSL
   * [DSL processing in Scala](http://denis.papathanasiou.org/2015/07/26/dsl-processing-in-scala/)
   * [Scala로 DSL 흉내내보기](https://medium.com/@leeyh0216/scala%EB%A1%9C-dsl-%ED%9D%89%EB%82%B4%EB%82%B4%EB%B3%B4%EA%B8%B0-561c22869a62)
+  * [Kafka Streams DSL for Scala: The Basics](https://medium.com/@danieljameskay/kafka-streams-dsl-for-scala-the-basics-11d603295f5c)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
@@ -496,6 +497,8 @@ Scala
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
+* [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
+  * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
 * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
