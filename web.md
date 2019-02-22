@@ -469,6 +469,7 @@ Web
 * [아하 REST API 서버 개발 (11)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-11-fbdd2cdb7e78)
 * [아하 REST API 서버 개발 (12)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-12-80702e33ad47)
 * [아하 REST API 서버 개발 (13)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-13-b90f6007a8f9)
+* [An awesome guide on how to build RESTful APIs with ASP.NET Core](https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28)
 
 # Scala
 * Finatra
