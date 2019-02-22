@@ -35,9 +35,6 @@ App
 * [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
 * [29 Tools and Resources for the Bootstrapping Entrepreneur](https://hackernoon.com/29-tools-and-resources-for-the-bootstrapping-entrepreneur-65c01a81fefb)
 * [AirConsole](http://www.airconsole.com/)
-* aircrack-ng
-  * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
-  * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
@@ -355,6 +352,12 @@ App
 # Firefox
 * [Firemacs v4.3](http://www.mew.org/~kazu/proj/firemacs/en/)
 * [Firefox Debugger로 console.log를 뛰어 넘기](http://hacks.mozilla.or.kr/2017/12/go-beyond-console-log-with-the-firefox-debugger/)
+
+# Hacking
+* [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
+* aircrack-ng
+  * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
+  * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
 
 # iPhone
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
