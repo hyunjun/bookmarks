@@ -377,6 +377,7 @@ AWS
   * [1편 — 소개](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-1%ED%8E%B8-5697cee473eb)
   * [2편 — 람다로 문자보내기](https://medium.com/harrythegreat/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-aws-lambda-2%ED%8E%B8-%EB%9E%8C%EB%8B%A4%EB%A1%9C-%EB%AC%B8-3b73f43d2e20)
 * [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072)
+* [Deploying a Node.js Twitter Bot on AWS Lambda using Webpack](https://hackernoon.com/deploying-a-node-js-twitter-bot-on-aws-lambda-using-webpack-df6e2e187a78)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
