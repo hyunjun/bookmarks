@@ -631,6 +631,7 @@ TensorFlow
   * [Distributed TensorFlow using Horovod - Reduce training time for deep neural networks by using many GPUs](https://towardsdatascience.com/distributed-tensorflow-using-horovod-6d572f8790c4)
 * [Ludwig - a toolbox that allows to train and test deep learning models without the need to write code](https://uber.github.io/ludwig/)
   * [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
+  * [Introducing Uber’s Ludwig A New Toolbox for Training Deep Learning Models Without Writing Any Code](https://towardsdatascience.com/introducing-ubers-ludwig-5bd275a73eda)
 * Magenta
   * [Connecting with Music Through Magenta.js](https://magenta.tensorflow.org/blog/2018/05/03/connecting-with-magenta-js/)
   * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
