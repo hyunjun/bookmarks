@@ -418,6 +418,7 @@ Javascript
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
+* [Passing Arrays as Function Arguments](https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
