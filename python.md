@@ -543,6 +543,7 @@ Python
   * [구종만 위대한 dict 이해하고 사용하기 PYCON KOREA 2014](https://www.youtube.com/watch?v=E4bF3tPxeDE)
   * [Python Dictionary 순서 보장 원리](https://blog.sinwoobang.me/post/176050610602/pythondictorder)
   * `z = {**x, **y}` [How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/a/26853961)
+  * [사전 자료형, 불린 조합 표현식](https://brunch.co.kr/@daejin/31)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
