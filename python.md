@@ -1475,6 +1475,7 @@ Python
   * **[파이썬 웹 배포 삽질!! 이제 그만](https://drive.google.com/file/d/0B6LVjPeYlSkVUzBLLVJrODVLMWEzdHpjT0w0SzVYNXJ4dFFn/view)** gunicorn, nginx
 * [Flask-Large-Application-Example](https://github.com/JoMingyu/Flask-Large-Application-Example)
 * [Flask Routing & Sessions: A Subtle Symphony - With great flexibility comes great responsibility](https://hackingandslacking.com/flask-routing-sessions-a-subtle-symphony-f008e7198379)
+* [Using the url_for Function in Flask Blueprints](https://www.youtube.com/watch?v=BMBwahCCaEk)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
@@ -2281,6 +2282,7 @@ Python
   * [practice - download file](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-file_download-md)
   * [api](http://docs.python-requests.org/en/master/api/)
     * `timeout=(connect timeout, read timeout)`
+      * [Handling Timeouts in Python Requests](https://www.youtube.com/watch?v=X8BaCcrWQBg)
   * 매우 큰 파일을 --data-binary로 보낼 때는 적절한 크기로 file을 나눠서 여러 번 호출하는 방법밖에 없는 거 같음
   * mmap을 사용해서도 해보려고 했지만, mmap object를 그냥 넘겨주는 건 되도, mmap의 일부를 읽으면 str이 되거나 다시 file로 저장해야 하기 때문에 결국 다를 바 없음
     * [Python: HTTP Post a large file with streaming](http://stackoverflow.com/questions/2502596/python-http-post-a-large-file-with-streaming)
