@@ -1663,6 +1663,7 @@ Python
   ```
 * [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * `!jupyter nbconvert --to python file_name.ipynb` write at the end of the notebook to save jupyter notebook codes as python file
+* [Jump Out of the Jupyter Notebook with nbconvert Easily Convert Notebooks to Python Scripts and Sharable Files](https://towardsdatascience.com/jump-out-of-the-jupyter-notebook-with-nbconvert-7d4748960702)
 * [Jupyter Notebook 5.0](http://blog.jupyter.org/2017/04/04/jupyter-notebook-5-0/)
   * `conda upgrade notebook` 동작하지 않음
   * `pip install --upgrade notebook`
