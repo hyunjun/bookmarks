@@ -147,6 +147,7 @@ Haskell
 * ["Building Secure Systems in Haskell" by Deian Stefan](https://www.youtube.com/watch?v=jX-zsoPWah0)
 * [Fixpoints in Haskell](https://medium.com/@cdsmithus/fixpoints-in-haskell-294096a9fc10)
 * [What Haskell taught us when we were not looking - Eric Torreborre](https://www.youtube.com/watch?v=9liCkM3bDig)
+* [Domain Modelling with Haskell: Data Structures](https://haskell-at-work.com/episodes/2018-01-19-domain-modelling-with-haskell-data-structures.html)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
