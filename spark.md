@@ -380,6 +380,7 @@
   * [where과 filter의 차이](http://knight76.tistory.com/entry/spark-where%EA%B3%BC-filter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Using spark data frame for sql](https://www.slideshare.net/charsyam2/using-spark-data-frame-for-sql)
   * [Selecting Dynamic Columns In Spark DataFrames (aka Excluding Columns)](http://bailiwick.io/2017/08/08/selecting-dynamic-columns-in-spark-dataframes/)
+  * [Spark: Elegantly Aggregate DataFrame by One Key Column](https://medium.com/@kieran_77908/spark-elegantly-aggregate-dataframe-by-one-key-column-6dbbcf546e1d)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
