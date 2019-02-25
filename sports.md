@@ -106,6 +106,7 @@ Sports
 * [Improving a Starting Pitcher Injury Model With Multiple Classifier Algorithms](https://www.fangraphs.com/tht/improving-a-starting-pitcher-injury-model-with-multiple-classifier-algorithms)
 * **[감독 뒷담화의 뒷담화](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16969108&memberNo=25448623)**
 * [Predicting the 2018 Cy Young Race with Machine Learning](https://www.fangraphs.com/tht/cy-young-award-2018-blake-snell-jacob-degrom-max-scherzer/)
+* [WAR, WRC+, OPS+, DRS, UZR/150, 타구발사각도 등, 타자에 관한 야구용어 총정리 1편-WAR에 사용하는 지표와 계산과정](https://m.blog.naver.com/ljsmessi/221472834240)
 
 # Basketball
 * **[Basketball Terms- Terminology](https://www.coachesclipboard.net/BasketballTerminology.html)** diagram으로 court위 명칭 설명
