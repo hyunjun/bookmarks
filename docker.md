@@ -508,6 +508,8 @@ Docker
 * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
 * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
 * [How to learn Kubernetes with Minikube](https://www.hpe.com/us/en/insights/articles/how-to-learn-kubernetes-with-minikube-1812.html)
+* [우분투에서 minikube를 VM 없이 실행하기](https://bcho.tistory.com/1307)
+* [minikube에서 Loadbalancer type 서비스 테스트 하기](https://bcho.tistory.com/1308)
 * [Container Orchestration with Kubernetes: An Overview](https://medium.com/onfido-tech/container-orchestration-with-kubernetes-an-overview-da1d39ff2f91)
 * [Adaptability-as-a-Service with Kubernetes](https://builttoadapt.io/adaptability-as-a-service-with-kubernetes-afb2754af00a)
 * Kubernetes
@@ -533,6 +535,7 @@ Docker
   * [#20 - Security Best Practice](http://bcho.tistory.com/1290)
   * [#21 - 리소스(CPU/Memory) 할당과 관리](http://bcho.tistory.com/1291)
   * [#22 - StatefulSet을 이용한 상태유지 Pod (데이타베이스) 관리하기 1/2](https://bcho.tistory.com/1306)
+  * [쿠버네티스 StatefulSet에서 Headless 서비스를 이용한 Pod discovery](https://bcho.tistory.com/1310)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
