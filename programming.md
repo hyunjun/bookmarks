@@ -356,6 +356,7 @@ Programming
   * [HTTP 캐싱](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching)
   * [AWS - CloudFront](https://opentutorials.org/module/3838)
   * [Cache Deception: How I discovered a vulnerability in Medium and helped them fix it](https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b)
+  * [스스로의 한계를 두지 않는 Service Reliability Engineer, 노승헌](https://engineering.linecorp.com/ko/blog/line-developer-interview-2/) 직접적인 개발 이야기는 아니지만, CDN에 대한 이야기가 있음
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
@@ -373,6 +374,7 @@ Programming
 * [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance) 대규모 서비스를 설계하는 기술 - 중급(일반편)
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
+* [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
 
 ## Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -1058,6 +1060,8 @@ Programming
   * [1월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/01/b-1-4.html)
   * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/02/b-2-1.html)
   * [2월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/02/b-2-2.html)
+  * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/02/b-2-3.html)
+  * [2월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/02/b-2-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
