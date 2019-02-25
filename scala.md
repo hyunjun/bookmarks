@@ -26,6 +26,8 @@ Scala
 * [Scala Programming: An Introduction](https://medium.com/@alessandroheres/scala-programming-an-introduction-33464b390d57)
 * [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
 * [Scala for Data Science Engineering — Part 2](https://towardsdatascience.com/scala-for-data-science-engineering-part-2-17052d186ff3)
+* [A brief tour of lists in Scala and algorithmically processing them in SICP exercises](https://medium.com/@matthagy/a-brief-tour-of-lists-in-scala-and-algorithmically-processing-them-in-sicp-exercises-935ff4d77775)
+* [Quickly learning the basics of Scala through Structure and Interpretation of Computer Programs examples (Part 1)](https://medium.com/@matthagy/quickly-learning-the-basics-of-scala-through-structure-and-interpretation-of-computer-programs-ed5bfa90e8dc)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
 * 케빈 TV
   * [시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
@@ -43,6 +45,7 @@ Scala
   * [FP채널 소개 / 수다 / 졸면서 코딩 (2018-11-30)](https://www.youtube.com/watch?v=XWAZupl5_VY)
   * [2의 거듭제곱수 / 바이너리 / 리팩토링 결과물 (2019-01-11)](https://www.youtube.com/watch?v=ad6ohw4u_ZQ)
   * [스칼라 제네릭스 (2019-01-25)](https://www.youtube.com/watch?v=zWa3-WeZ-TE) 55:00~
+  * [라이브 코딩 (2019-02-22)](https://www.youtube.com/watch?v=jLOaG5KyPmU) 1:52:00~
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)
@@ -232,6 +235,7 @@ Scala
   * [Effective Akka HTTP by Johannes Rudolph](https://www.youtube.com/watch?v=uxQta776jJI)
   * [How you can build a Hello World API with Scala and Akka HTTP](https://medium.freecodecamp.org/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d)
   * [How to (Un)marshal JSON in Akka HTTP with Circe](https://medium.freecodecamp.org/un-marshalling-json-in-akka-http-with-circe-3dcc2764eedb)
+  * [Testing Akka Http Clients](https://medium.com/@pwdd/testing-akka-http-clients-59fa2d0545c1)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 * [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
@@ -329,6 +333,7 @@ Scala
 * [Implementing API Library Classes for Spark Flows in Scala](https://towardsdatascience.com/implementing-api-library-classes-for-spark-flows-in-scala-8e0839308ffa)
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
 * [Hacking with akka streams](https://medium.com/@itseranga/akka-streams-hacks-33661b8f7f2d)
+* [Introduction to Akka Streams](https://medium.com/@arcagarwal/introduction-to-akka-streams-5155bd070e37)
 * [Jan Pustelnik - CONSCIOUS CONSISTENCY WITH AKKA CLUSTER, CRDTS AND DISTRIBUTED DATA](https://www.youtube.com/watch?v=chC1KmxrEO8)
 * [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
 * [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
@@ -345,6 +350,7 @@ Scala
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
+* [Don't Use Await.result!](https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html)
 * case class
   * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
   * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -355,6 +361,8 @@ Scala
   * [Scala로 DSL 흉내내보기](https://medium.com/@leeyh0216/scala%EB%A1%9C-dsl-%ED%9D%89%EB%82%B4%EB%82%B4%EB%B3%B4%EA%B8%B0-561c22869a62)
   * [Kafka Streams DSL for Scala: The Basics](https://medium.com/@danieljameskay/kafka-streams-dsl-for-scala-the-basics-11d603295f5c)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
+* fold
+  * [Scalaでコレクションを前後処理しつつ走査する](https://medium.com/nextbeat-engineering/scala%E3%81%A7%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%89%8D%E5%BE%8C%E5%87%A6%E7%90%86%E3%81%97%E3%81%A4%E3%81%A4%E8%B5%B0%E6%9F%BB%E3%81%99%E3%82%8B-401a4edb6bab) foldLeft
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
