@@ -389,6 +389,9 @@ AWS
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
+* zappa
+  * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
+  * [Serverless API with Zappa 여기 에 있는 강좌를 기반으로 Zappa 개발환경을 구성합니다](https://github.com/skyer9/ServerlessApiWithZappa)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
