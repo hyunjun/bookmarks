@@ -343,6 +343,7 @@ ElasticSearch - Lucene
 * **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
   * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM)
   * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw)
+* [okdevtv.com/mib/elk/elk6](https://okdevtv.com/mib/elk/elk6)
 * [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 
 # Kibana
@@ -359,6 +360,7 @@ ElasticSearch - Lucene
 * [region map에서 한국 활성화하기](http://higee.io/221265732278)
 * [Sankey Visualization with Vega in Kibana 6.2](https://www.elastic.co/blog/sankey-visualization-with-vega-in-kibana)
 * [데이터 후처리(?)를 위한 scripted field](https://www.popit.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%9B%84%EC%B2%98%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-scripted-field/)
+* [데이터 노가다 실수담](https://www.popit.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%85%B8%EA%B0%80%EB%8B%A4-%EC%8B%A4%EC%88%98%EB%8B%B4/)
 
 # Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
