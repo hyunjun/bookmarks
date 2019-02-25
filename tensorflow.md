@@ -373,16 +373,20 @@ TensorFlow
 * [Tensorflow Project Template](https://github.com/Mrgemy95/Tensorflow-Project-Template)
 * [Importing Multiple TensorFlow Models (Graphs)](http://bretahajek.com/2017/04/importing-multiple-tensorflow-models-graphs/)
 * [Michelle Fullwood A gentle introduction to deep learning with TensorFlow PyCon 2017](https://www.youtube.com/watch?v=5e0TbyCkbCY)
-* [Outperforming Tensorflow’s Default Auto Differentiation Optimizers, with Interactive Code Manual Back Prop with
-  TF](https://towardsdatascience.com/outperforming-tensorflows-default-auto-differentiation-optimizers-with-interactive-code-manual-e587a82d340e)
+* [Outperforming Tensorflow’s Default Auto Differentiation Optimizers, with Interactive Code Manual Back Prop with TF](https://towardsdatascience.com/outperforming-tensorflows-default-auto-differentiation-optimizers-with-interactive-code-manual-e587a82d340e)
 * [TensorFlow ROCm port](https://github.com/ROCmSoftwarePlatform/tensorflow)
   * [ROCm, a New Era in Open GPU Computing](https://rocm.github.io/)
 * [일반 IP카메라를 인공지능 CCTV로 변신시킨 개발자](http://smartaedi.tistory.com/234)
 * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
 * [HOYA AI Jupyter 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다](https://github.com/TensorMSA/tensormsa_jupyter)
 * Eager Execution
+  * [Eager execution basics](https://www.tensorflow.org/tutorials/eager/eager_basics)
+  * [TensorFlow-Eager-Execution-Examples](https://github.com/ZhuanZhiCode/TensorFlow-Eager-Execution-Examples)
   * [대화형 명령 스타일 프로그래밍을 위한 즉시 실행 (Eager Execution) 한글 가이드를 소개합니다](https://developers-kr.googleblog.com/2018/05/eager-execution.html)
   * [Tensorflow-eager-papers Classical deep learning paper implementation using tensorflow's eager execution](https://github.com/art28/tensorflow-eager-papers)
+  * [Deep Reinforcement Learning: Playing CartPole through Asynchronous Advantage Actor Critic (A3C) with tf.keras and eager execution](https://medium.com/tensorflow/deep-reinforcement-learning-playing-cartpole-through-asynchronous-advantage-actor-critic-a3c-7eab2eea5296)
+  * [8 Things To Do Differently in Tensorflow’s Eager Execution Mode](https://medium.com/coinmonks/8-things-to-do-differently-in-tensorflows-eager-execution-mode-47cf429aa3ad)
+  * [Building an Iris classifier with eager execution](https://medium.com/tensorflow/building-an-iris-classifier-with-eager-execution-13c00a32adb0)
 * [A Gentle Introduction To Deep Learning with TensorFlow](https://www.youtube.com/watch?v=6g0lPlHc-E8)
 * [텐서플로우 & 딥러닝 수박 겉핥기 - 골빈해커(@golbin)](https://www.youtube.com/watch?v=q_6YGEsAXnI)
 * [TensorFlow 1.7과 TensorRT를 통합했습니다](https://developers-kr.googleblog.com/2018/05/tensorrt-integration-with-tensorflow.html)
@@ -539,7 +543,7 @@ TensorFlow
   * [AnoGAN in tensorflow](https://github.com/LeeDoYup/AnoGAN)
 * [StyleGAN — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
   * [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
-* [StyleGAN_WebDemo.ipynb](https://colab.research.google.com/drive/1j9X6Np9z_XMp5dJKFgCb9OCMVgE-e7lg?fbclid=IwAR3AOvn2Bgrx0ckomkSGrg01yFcS6MewXopFkD7vQ2aNQeL5k93bleLB1Ak)
+* [StyleGAN_WebDemo.ipynb](https://colab.research.google.com/drive/1j9X6Np9z_XMp5dJKFgCb9OCMVgE-e7lg)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
