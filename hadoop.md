@@ -413,6 +413,8 @@ Hadoop
 
 # Troubleshooting
 * [out of Memory Error in Hadoop](http://stackoverflow.com/questions/8464048/out-of-memory-error-in-hadoop)
+* [데이터 엔지니어링 관련 소프트웨어 장애 대응 사례](https://engineering.linecorp.com/ko/blog/data-engineering-software-troubleshooting/)
+  * YARN 리소스 매니저 failover / HDFS NameNode failover / Zeppelin Notebook 스케줄러 작동 이상 / Zeppelin deadlock / Spark SQL 성능 이슈
 
 # YARN
 * [Best Practices for YARN Resource Management](https://www.mapr.com/blog/best-practices-yarn-resource-management)
