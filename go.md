@@ -88,7 +88,6 @@ Go
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
 * [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
 * [GopherCon 2017: Edward Muller - Go Anti-Patterns](https://www.youtube.com/watch?v=ltqV6pDKZD8)
-* [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
 * [Compile Time Code Weaving in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go/)
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 * [go universe visualization](https://groups.google.com/forum/#!topic/golang-nuts/bgeZ0MjQMFE)
@@ -190,8 +189,6 @@ Go
   * [1편 개요](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1%ED%8E%B8-%EA%B0%9C%EC%9A%94/)
   * [2편 Go API 서버](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-2%ED%8E%B8-go-api-%EC%84%9C%EB%B2%84/)
   * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
-* [Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
-* [Writing a Frontend Web Framework with WebAssembly And Go](https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe)
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
 * [Why Go Is Perfect For DevOps](https://www.youtube.com/watch?v=COCUqAwAbD0)
@@ -399,3 +396,9 @@ Go
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
+
+# Web
+* [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
+* [Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
+* [Writing a Frontend Web Framework with WebAssembly And Go](https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe)
+* [Go로 투두 웹 어플리케이션 만들기](http://blog.jeonghwan.net/dev/2019/02/18/go-todo-web-application.html)
