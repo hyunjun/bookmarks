@@ -265,6 +265,7 @@ NLP
   * [(Part II)](https://heartbeat.fritz.ai/the-7-nlp-techniques-that-will-change-how-you-communicate-in-the-future-part-ii-636ab06da258)
 * [Natural Language Understanding benchmark](https://github.com/snipsco/nlu-benchmark)
   * [NLU / Intent Detection Benchmark by Intento, August 2017](https://www.slideshare.net/KonstantinSavenkov/nlu-intent-detection-benchmark-by-intento-august-2017)
+* [콜라 좀… 쉽게 담을 수 없나요, 쓰앵님](http://woowabros.github.io/experience/2019/02/25/android-improve_shop-menu-explore_1.html) 메뉴 검색을 위해 초중종성 분리 검색 개발
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
