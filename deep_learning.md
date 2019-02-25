@@ -2032,6 +2032,9 @@ CVPR2016)
   * tensorflow, pytorch 둘 다 공개
 * [강화학습 이론 및 실습](https://speakerdeck.com/wonseokjung/reinforcement-learning-a2711ce7-83db-4c31-8ea3-ad5db0e1a9a9)
 * [The Fantasy Football AI framework](https://github.com/njustesen/ffai) based on Open AI Gym
+* [Dopamine - a research framework for fast prototyping of reinforcement learning algorithms](https://github.com/google/dopamine)
+  * [Google-Dopamine-Kr](https://github.com/yebgi83/Google-Dopamine-Kr)
+* MuJoCo [DeepMind MuJoCo Multi-Agent Soccer Environment](https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer)
 * [TMTrackNN — generating TrackMania tracks with neural networks](https://medium.com/@donadigo/tmtracknn-generating-trackmania-tracks-with-neural-networks-146db058e7cb)
 
 ## RL MOOC, Lectures
@@ -2091,6 +2094,7 @@ CVPR2016)
 * [SSCAIT Student StarCraft AI Tournament & Ladder](https://sscaitournament.com/)
 * [TStarBots Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game](https://chagmgang.github.io/starcraft_ii_rl/2018/10/15/TStarBots-Defeating-the-Cheating-Level-Builtin-AI-in-StarCraft-II-in-the-Full-Game.html)
 * [한국어 Multiagent Bidirectional- Coordinated Nets for Learning to Play StarCraft Combat Games](https://www.slideshare.net/KihoSuh/multiagent-bidirectional-coordinated-nets-for-learning-to-play-starcraft-combat-games)
+* [번역 StarCraft2 A New Challenge for Reinforcement Learning 스타크래프트2 강화학습](https://losskatsu.github.io/papertranslation/sc2le/)
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
 * [gym-starcraft](https://github.com/alibaba/gym-starcraft/blob/master/README.md)
   * [Reinforcement Learning: Introduction to Monte Carlo Learning using the OpenAI Gym Toolkit](https://medium.com/analytics-vidhya/reinforcement-learning-introduction-to-monte-carlo-learning-using-the-openai-gym-toolkit-4efef9375648)
