@@ -59,6 +59,7 @@ Monitoring
 * [Install Glances, InfluxDB and Grafana to Monitor CentOS 7](https://www.tecmint.com/install-glances-influxdb-grafana-to-monitor-centos-7/)
 
 # Library
+* [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
 * [Sentry](https://sentry.io/) Stop hoping your users will report errors
   * [docs.sentry.io/clients/python](https://docs.sentry.io/clients/python/)
   * ~[Sentry 를 이용한 Node.js 에러 모니터링](https://dobest.io/nodejs-error-monitoring-with-sentry/)~
