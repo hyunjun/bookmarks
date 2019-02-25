@@ -19,6 +19,7 @@ Programming Books
   * 한라 005.11 와882ㅂ
   * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
 * (NOT YET) [블록체인 무엇인가?](http://jhrogue.blogspot.com/2018/03/blog-post.html)
+* (NOT YET) [블록체인 기업으로 가는 길: 가상의 기업 사례 회고를 통한 블록체인의 비즈니스 도입과 기술 전략](http://jhrogue.blogspot.com/2019/02/blog-post_18.html)
 * (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
   * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
@@ -714,6 +715,7 @@ Programming Books
   * 한라 004.2정55ㄱ
   * 내용은 좋아 보이는데, 팟캐스트를 그대로 옮겨놓은 듯한 느낌이라 읽기가 편하지는 않다
 * (NOT YET) [클라우드 네이티브 인프라스트럭처](http://jhrogue.blogspot.com/2018/09/blog-post.html)
+  * [클라우드 네이티브 인프라스트럭처:진정한 클라우드 네이티브 컴퓨팅 시대를 위한 아키텍처 패턴과 설계](https://blog.outsider.ne.kr/1428)
 * (NOT YET) [구글 클라우드 플랫폼 입문 - 웹부터 머신러닝을 이용한 클라우드 애플리케이션까지](https://freelec.co.kr/book/%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EC%9E%90/)
 * (NOT YET) [대용량 아키텍처와 성능 튜닝조대협의 서버 사이드](https://freelec.co.kr/book/1749/)
 
