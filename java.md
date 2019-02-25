@@ -5,11 +5,6 @@ Java
 * [Java Concept Of The Day](http://javaconceptoftheday.com/)
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [codingbat.com/java](http://codingbat.com/java)
-* [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
-* [제네릭의 비애](http://blog.hazard.kr/archives/778)
-* [usage of the <?> parameter in method declaration in Generics](https://www.linkedin.com/pulse/usage-parameter-method-declaration-generics-saral-saxena/)
-* [토비의 봄 TV 4회 (1) 자바 Generics](https://www.youtube.com/watch?v=ipT2XG1SHtQ)
-* [토비의 봄 TV 4회 (2) Generics에서 와일드카드 활용법, 람다와 인터섹션 타입을 이용한 동적인 기능확장법](https://www.youtube.com/watch?v=PQ58n0hk7DI)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
@@ -136,6 +131,13 @@ Java
   * Processing large files efficiently in Java
     * [part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
     * [part 2](https://www.java-success.com/processing-large-files-efficiently-java-part-2/)
+* Generics
+  * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
+  * [제네릭의 비애](http://blog.hazard.kr/archives/778)
+  * [usage of the <?> parameter in method declaration in Generics](https://www.linkedin.com/pulse/usage-parameter-method-declaration-generics-saral-saxena/)
+  * [토비의 봄 TV 4회 (1) 자바 Generics](https://www.youtube.com/watch?v=ipT2XG1SHtQ)
+  * [토비의 봄 TV 4회 (2) Generics에서 와일드카드 활용법, 람다와 인터섹션 타입을 이용한 동적인 기능확장법](https://www.youtube.com/watch?v=PQ58n0hk7DI)
+  * [Java의 Generics](https://medium.com/@joongwon/java-java%EC%9D%98-generics-604b562530b3) covariant/contravariant, 공변/반공변
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
   * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
@@ -529,6 +531,7 @@ Java
   * Legacy DB의 JPA Entity Mapping
     * [복합키 매핑 편](http://woowabros.github.io/experience/2019/01/04/composit-key-jpa.html)
     * [Enum Converter 편](http://woowabros.github.io/experience/2019/01/09/enum-converter.html)
+  * [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://zeniuus.github.io/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/)
   * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
   * [데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?](데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?) IdentifierGenerator interface
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
@@ -680,6 +683,7 @@ Java
 * [Oracle Java SE Subscription에 대하여...](http://taewan.kim/post/oracle_java_subscription)
 * [오라클 자바 라이센스에 대한 간단 요약](https://www.popit.kr/오라클-자바-라이센스에-대한-간단-요약)
 * [Migrating from Oracle JDK to OpenJDK on Red Hat Enterprise Linux: What you need to know](https://developers.redhat.com/blog/2018/11/05/migrating-from-oracle-jdk-to-openjdk-on-red-hat-enterprise-linux-what-you-need-to-know)
+* **[LINE의 OpenJDK 적용기: 호환성 확인부터 주의 사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)**
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
