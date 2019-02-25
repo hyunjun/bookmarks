@@ -420,6 +420,7 @@ Javascript
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 * [Passing Arrays as Function Arguments](https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c)
 * [How to make your code better with intention-revealing function names](https://medium.freecodecamp.org/how-to-make-your-code-better-with-intention-revealing-function-names-6c8b5271693e)
+* [다음 자바스크립트 코드에서 오류는?](http://jhrogue.blogspot.com/2019/02/b.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1667,6 +1668,7 @@ Javascript
 * [리액트 Hooks 10분만에 사용법 배우기 | Learn How to use React Hooks in 10 min](https://www.youtube.com/watch?v=yS-BU6eYUDE)
 * [리액트 Hooks 실제 사용 예시를 알아보자! | React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU)
 * [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+* [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
