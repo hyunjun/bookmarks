@@ -366,6 +366,7 @@ Vision
   * [model_custom_densenet_segmentation_v1.py](https://github.com/gellston/DeepLearningExamples/blob/master/models/model_custom_densenet_segmentation_v1.py)
   * [dataset](https://github.com/gellston/DeepLearningExamples/tree/master/dataset/portrait_segmentation_input256x256)
 * [Deep Learning based Edge Detection in OpenCV](https://cv-tricks.com/opencv-dnn/edge-detection-hed)
+* [tf_train_opencv_run - It shows how to generate a \*.pb file with Tensorflow and how to use the \*.pb file in an OpenCV application](https://github.com/sunkyoo/tf_train_opencv_run)
 
 # OpenGL
 * [open.gl](https://open.gl/)
