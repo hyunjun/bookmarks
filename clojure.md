@@ -478,6 +478,7 @@ Clojure
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [ANTLR (ANother Tool for Language Recognition) - a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/) java
   * [Antlr4 demo for Clojure](https://github.com/philoskim/antlr-demo)
+* [applied-science/js-interop A JavaScript-interop library for ClojureScript](https://github.com/appliedsciencestudio/js-interop)
 * [arachne-framework.org](http://arachne-framework.org/)
   * [arachne-framework](https://github.com/arachne-framework)
   * 아라크네 튜토리얼
