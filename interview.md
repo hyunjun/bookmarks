@@ -190,6 +190,7 @@ Interview
   * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
   * [Dropbox system design | Google drive system design | System design file share and upload](https://www.youtube.com/watch?v=U0xTu6E2CT8)
     * [diagam](https://imgur.com/a/pzKb4f7)
+  * [Uber - System Design Interview with a Senior Software Engineer @ Airbnb](https://www.youtube.com/watch?v=jItLuOTsCX4)
   * **[System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)**
     * example of class design
     * handling ambiguity; clarifying the problem
