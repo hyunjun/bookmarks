@@ -2508,7 +2508,6 @@ Python
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 * [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
 * [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
-* [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
 * [Python in Serverless Architectures](https://www.youtube.com/watch?v=OU7cDwOJjOI)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [Chalice](https://github.com/aws/chalice) Python Serverless Microframework for AWS
