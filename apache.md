@@ -22,6 +22,7 @@ Apache
 * [Building a Big Data Pipeline With Airflow, Spark and Zeppelin](https://medium.com/swlh/building-a-big-data-pipeline-with-airflow-spark-and-zeppelin-843f31ef220c)
 * [Airflow: Lesser Known Tips, Tricks, and Best Practises](https://medium.com/datareply/airflow-lesser-known-tips-tricks-and-best-practises-cf4d4a90f8f)
 * [Airflow를 이용한 데이터 Workflow 관리](https://www.slideshare.net/YoungHeonKim1/airflow-workflow)
+* [우분투(Ubuntu)에 아파치 에어플로우 (Apache Airflow) 설치](https://jungwoon.github.io/airflow/2019/02/26/Airflow/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
