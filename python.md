@@ -1654,7 +1654,7 @@ Python
   ```
 * [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com](https://github.com/proin/saturn)
 * [Plotting with Color Maps in Python](https://www.youtube.com/watch?v=0uoZvQ6AKGg)
-* [IRkernel - R kernel for Jupyter Notebook](https://irkernel.github.io ]
+* [IRkernel - R kernel for Jupyter Notebook](https://irkernel.github.io)
 * [Jupyter Notebook 키보드 바로가기](https://financedata.github.io/posts/jupyter-notebook-shortcuts.html)
 * [Ipython .. python과 무엇이 다른가](http://technote.kr/21)
 * [How do I add python3 kernel to jupyter (IPython)](http://stackoverflow.com/questions/28831854/how-do-i-add-python3-kernel-to-jupyter-ipython)
@@ -1734,6 +1734,7 @@ Python
 * [Power-Ups for Jupyter Notebooks](https://towardsdatascience.com/power-ups-for-jupyter-notebooks-ebfa6e5e57a)
 * [How To Run Python Code In An Open Excel Workbook](https://www.youtube.com/watch?v=rh039flfMto)
 * [How to Automatically Import Your Favorite Libraries into IPython or a Jupyter Notebook](https://towardsdatascience.com/how-to-automatically-import-your-favorite-libraries-into-ipython-or-a-jupyter-notebook-9c69d89aa343)
+* [Building a Repeatable Data Analysis Process with Jupyter Notebooks](https://pbpython.com/notebook-process.html)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -2596,6 +2597,7 @@ Python
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
 * [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)
+* [Updated: Using Pandas To Create an Excel Diff](https://pbpython.com/excel-diff-pandas-update.html)
 * [Bringing the python data stack to the shell prompt](https://github.com/robdmc/pandashells)
 * [Discovery Engines: Statistical Learning with Python and pandas](https://www.youtube.com/watch?v=nMZf9V_J_Sw)
 * [Efficient Tabular Storage](http://matthewrocklin.com/blog/work/2015/08/28/Storage/)
@@ -2649,6 +2651,7 @@ Python
 * [데이콘 야구대회 튜토리얼 2-1 판다스 기본 문법](https://www.youtube.com/watch?v=V-lgb_Z7LpY)
 * [Cleaning and Tidying Data in Pandas - Daniel Chen](https://www.youtube.com/watch?v=iYie42M1ZyU)
 * [Introduction - Data Analysis and Data Science with Python and Pandas](https://www.youtube.com/watch?v=nLw1RNvfElg)
+* [Using The Pandas Category Data Type](https://pbpython.com/pandas_dtypes_cat.html)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
