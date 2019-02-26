@@ -53,6 +53,7 @@ Elixir
 * [#elixir 언어로 만든 네이버 검색 랭킹 알림 #telegram 봇을 #heroku 플랫폼으로 배포하기](http://ohyecloudy.com/pnotes/archives/naver-search-ranking-notification-telegram-bot/)
 * [elixir 프로젝트 템플릿](https://github.com/ohyecloudy/project-templates/tree/master/elixir)
 * [Learn With Me: Elixir - A series where I learn Elixir and you can learn along with me](https://inquisitivedeveloper.com/tag/lwm-elixir/)
+* [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
