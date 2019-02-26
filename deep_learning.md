@@ -806,6 +806,7 @@ Deep Learning
   * [Notation](http://www.deeplearningbook.org/contents/notation.html)
   * [Deep Learning Book Notes, Chapter 3 (part 1): Introduction to Probability](https://towardsdatascience.com/deep-learning-book-notes-chapter-3-part-1-introduction-to-probability-49d13c997f2a)
   * [MIT Deep Learning Book (beautiful and flawless PDF version)](https://github.com/janishar/mit-deep-learning-book-pdf)
+  * [11-785 Introduction to Deep Learning Spring 2019](http://deeplearning.cs.cmu.edu/)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
