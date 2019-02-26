@@ -143,6 +143,7 @@ PyTorch
 * [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://www.youtube.com/watch?v=EYjdLppmERE)
+* [PyTorch implementation of the StyleGAN Generator](https://github.com/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb) ipynb
 * [AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint)
 
 # Introduction
