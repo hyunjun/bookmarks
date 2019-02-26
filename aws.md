@@ -61,6 +61,7 @@ AWS
 * [AWSKRUG #enterprise 소모임 2018.06.11 참석후기](http://jojoldu.tistory.com/303)
 * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
 * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
+* [AWS Community Day - re:Invent 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUXNenBdbgVRVaUlxNJZltWa)
 * AWS이해하기
   * [1주차 – AWS클라우드 컴퓨팅 소개 / 실습](http://asome.bdinc.co.kr/2016/06/16/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-aws%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85/)
   * [2주차 – AWS관리형 서비스 이해/실습](http://asome.bdinc.co.kr/2016/06/22/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-aws%EA%B4%80%EB%A6%AC%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4/)
