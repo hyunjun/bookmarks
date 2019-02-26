@@ -20,6 +20,7 @@ Programming Books
   * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
 * (NOT YET) [블록체인 무엇인가?](http://jhrogue.blogspot.com/2018/03/blog-post.html)
 * (NOT YET) [블록체인 기업으로 가는 길: 가상의 기업 사례 회고를 통한 블록체인의 비즈니스 도입과 기술 전략](http://jhrogue.blogspot.com/2019/02/blog-post_18.html)
+* (NOT YET) [이더리움을 활용한 블록체인 프로젝트 구축 쉽게 접하는 블록체인 개발](http://acornpub.co.kr/book/blockchain-projects)
 * (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
   * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
@@ -498,6 +499,7 @@ Programming Books
 * (NOT YET) [머신러닝 딥러닝 바로가기 - 구글 클라우드 플랫폼을 활용한 실전 개발](https://freelec.co.kr/book/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0/)
 * (NOT YET) [Go를 활용한 머신 러닝 Go 프로그래밍 언어를 사용해 회귀분석, 분류, 클러스터링, 시계열 모델, 신경망 및 딥러닝 구현하기](http://acornpub.co.kr/book/ml-with-go)
 * (NOT YET) [파이썬으로 실무에 바로 적용하는 머신 러닝](http://acornpub.co.kr/book/understanding-ml)
+* (NOT YET) [머신 러닝 알고리즘 파이썬 예제와 함께 배우는 머신 러닝](http://acornpub.co.kr/book/ml-algorithms)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -534,6 +536,7 @@ Programming Books
   * 한라 004.73-호897ㄹ
 * (NOT YET) [텐서플로로 시작하는 딥러닝 입문 그림으로 익히고 파이썬 코드로 구현하는 인공신경망 알고리즘](http://wikibook.co.kr/tensorflow/)
 * (NOT YET) [실전활용! 텐서플로 딥러닝 프로젝트 10가지 실무 프로젝트로 배우는 텐서플로와 딥러닝 알고리즘 100% 활용법](http://wikibook.co.kr/tensorflow-projects/)
+* (NOT YET) [텐서플로를 이용한 고급 딥러닝 수학의 기초와 함께 이해하는 파이썬 딥러닝](http://acornpub.co.kr/book/pro-deep-learning-tensorflow)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -1140,6 +1143,7 @@ Programming Books
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
   * 한라
 * (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
+* (NOT YET) [Pandas Cookbook 과학 연산, 시계열 분석, 파이썬을 이용한 시각화, 정돈된 데이터 만들기](http://acornpub.co.kr/book/pandas-cookbook)
 * (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
