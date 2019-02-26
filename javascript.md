@@ -1626,6 +1626,7 @@ Javascript
   * [번역 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr/)
 * [React Application Performance Optimization](https://seokjun.kim/react-application-performance-optimization/)
 * [How to deploy a React application to Netlify that reads from a Google Sheet](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-that-reads-from-a-google-sheet-97a015806c47)
+* [How to deploy a React application to Netlify](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985)
 * [Let’s fall in love with React Fiber](https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded)
 * [create-react-app --scripts-version=react-scripts-ts를 이용하여 프로젝트 구성](https://github.com/kjk7034/create-react-app-typescript)
 * [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d)
@@ -2108,3 +2109,7 @@ Javascript
   * [Styling, Computed Props, Slots](https://medium.com/cleversonder/from-zero-to-hero-with-vue-styling-computed-props-slots-6f4f4ac1912e)
 * [Demystifying Vuex — The state container for Vue](https://medium.freecodecamp.org/demystifying-vuex-the-state-container-for-vue-fde82662ca8c)
 * [5 Tools for Faster Vue.js App Development](https://blog.bitsrc.io/5-tools-for-faster-vue-js-app-development-ad7eda1ee6a8)
+* Vue.js App Performance Optimization
+  * [part 1 — Introduction to performance optimization and lazy loading](https://itnext.io/vue-js-app-performance-optimization-part-1-introduction-to-performance-optimization-and-lazy-29e4ff101019)
+  * [part 2 — Lazy loading routes and vendor bundle anti-pattern](https://itnext.io/vue-js-app-performance-optimization-part-2-lazy-loading-routes-and-vendor-bundle-anti-pattern-4a62236e09f9)
+  * [part 3 — Lazy loading Vuex modules](https://itnext.io/vue-js-app-performance-optimization-part-3-lazy-loading-vuex-modules-ed67cf555976)
