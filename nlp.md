@@ -619,6 +619,7 @@ NLP
     * [crf](https://github.com/allenai/allennlp/blob/master/allennlp/modules/conditional_random_field.py)
 * [Autosub - Command-line utility for auto-generating subtitles for any video file](https://github.com/agermanidis/autosub)
 * [Babelpish.github.io](http://babelpish.github.io)
+* [CLaF: Clova Language Framework https://naver.github.io/claf ](https://github.com/naver/claf)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [Daon 형태소 분석기](https://github.com/rasoio/daon)
 * [decaNLP - The Natural Language Decathlon: A Multitask Challenge for NLP](https://github.com/salesforce/decaNLP)
