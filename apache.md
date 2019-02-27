@@ -709,6 +709,7 @@ Apache
   * Streamsets의 Dataflow Performance Blog에 올라온 내용
   * Apache Sqoop을 대체하기 위한 마이그레이션 방법 및 고려 사항에 대해 간단하게 설명
 * [Using Sqoop to Import Data from MySQL to Cloudera Data Warehouse](https://blog.cloudera.com/blog/2019/02/using-sqoop-to-import-data-from-mysql-to-cloudera-data-warehouse/)
+* [An in-depth introduction to SQOOP architecture](https://medium.freecodecamp.org/an-in-depth-introduction-to-sqoop-architecture-ad4ae0532583)
 
 # Storm
 * Apache Storm을 이용한 실시간 데이타 처리
