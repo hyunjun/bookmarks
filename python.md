@@ -1346,6 +1346,9 @@ Python
   * [1편 - Django를 도입하기 까지](https://lenditkr.github.io/django/approach-legacy-with-django-1/)
   * [2편 - Django inspectdb 튜닝하기](https://lenditkr.github.io/django/approach-legacy-with-django-2/)
 * [How to build an e-commerce shop with Python, Django, & Wagtail](https://medium.freecodecamp.org/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7)
+* [A little hacker news in Django](https://github.com/dduong42/hnews)
+* [Merging Django ORM with SQLAlchemy for Easier Data Analysis](https://hackernoon.com/merging-django-orm-with-sqlalchemy-for-easier-data-analysis-75b85e2cc0b9)
+* [Clean Architecture in Django](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
