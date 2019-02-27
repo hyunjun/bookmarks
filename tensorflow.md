@@ -458,6 +458,8 @@ TensorFlow
   * [AutoGraph converts Python into TensorFlow graphs](https://medium.com/tensorflow/autograph-converts-python-into-tensorflow-graphs-b2a871f87ec7)
 * [2018년 샌프란시스코에서 열린 O’Reilly AI 컨퍼런스의 TensorFlow 세션 녹화 자료](https://developers-kr.googleblog.com/2019/01/tensorflow-session-recordings-from-oreilly-ai-conference-san-francisco.html)
 * [Batch PPO](https://github.com/google-research/batch-ppo)
+* [TensorFlow London: Tensorflow and Graph Recommender Networks by Yaz Santissi, GDG Cloud](https://www.youtube.com/watch?v=mAR3J12UGmM)
+* [How to manage data science development from an organizational perspective by Nic Young, Bibblio](https://www.youtube.com/watch?v=fnwNsZB8Hw0)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
