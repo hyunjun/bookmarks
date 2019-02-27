@@ -471,6 +471,7 @@ TensorFlow
   * [6. CNN modeling](https://colab.research.google.com/drive/1jcp6IEFqfsaWSyAnoujiSfbHupcZPb9O)
   * [7. RNN modeling](https://colab.research.google.com/drive/14emI2vPTuZr4sL5Z60-jsCTsuswp2-uU)
 * [ORAL 세션 - 강재욱](https://www.youtube.com/watch?v=h7DUjhGCmG8)
+* [어서와 텐서플로우 2.0!: 미리 알면 좋은 몇가지 : – )](http://moducon.kr/2018/kangjaewook-session/)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
