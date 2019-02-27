@@ -423,6 +423,7 @@ R
   * [Shiny Quick Start](https://shiny.rstudio.com/tutorial)
   * [Shiny References](https://shiny.rstudio.com/reference/shiny/1.2.0)
   * [Shiny Server download](https://www.rstudio.com/products/rstudio/download-server/)
+  * [github.com/shinykorea/Meetup](https://github.com/shinykorea/Meetup)
   * [Moon's Lec](https://github.com/cardiomoon/shinyLecture2)
   * [EditData](https://github.com/cardiomoon/editData)
   * [shiny theme](https://rstudio.github.io/shinythemes/)
@@ -444,6 +445,7 @@ R
   * [shinymaterial](https://ericrayanderson.github.io/shinymaterial/)
   * [shiny_lecture](https://github.com/jypstory/shiny_lecture)
   * [Shiny 반응형(reactive) 웹앱 개발](https://statkclee.github.io/data-product/shiny-reactive.html)
+  * [ShinyApps를 R 패키지로 만들기](https://blog.anpanman.co.kr/posts/2019-02-10-from-shiny-to-rpackage)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
