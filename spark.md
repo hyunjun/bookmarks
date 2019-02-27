@@ -504,8 +504,9 @@
   * [Bi-temporal data modeling with Envelope](http://blog.cloudera.com/blog/2017/05/bi-temporal-data-modeling-with-envelope/)
   * [Cloudera Enterprise Data Hub - Our flagship can now be yours](https://www.cloudera.com/products/enterprise-data-hub.html)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
-* GraphFrame
+* [GraphFrames: DataFrame-based Graphs](https://github.com/graphframes/graphframes)
   * [On-Time Flight Performance with GraphFrames for Apache Spark](https://databricks.com/blog/2016/03/16/on-time-flight-performance-with-spark-graphframes.html)
+  * [An introduction to Spark GraphFrame with examples analyzing the Wikipedia link graph](https://towardsdatascience.com/an-introduction-to-spark-graphframe-with-examples-analyzing-the-wikipedia-link-graph-67e58c20a107)
 * [Hail: Scalable Genomics Analysis with Apache Spark](http://blog.cloudera.com/blog/2017/05/hail-scalable-genomics-analysis-with-spark/)
   * Apache Spark로 유전체 분석을 수행하는 도구 인 Hail에 대한 개요
   * 샘플의 품질을 계산하고 간단한 게놈 차원의 연관 연구를 수행하는 예제 실행으로 시연하는 간단하고 강력한 프로그래밍 모델을 보유
