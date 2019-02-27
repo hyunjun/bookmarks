@@ -1350,6 +1350,7 @@ Programming
 * [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [Best Automation Testing Tools for 2019 (Top 10 reviews)](https://medium.com/@briananderson2209/best-automation-testing-tools-for-2018-top-10-reviews-8a4a19f664d2)
+* [테스트 코드 없이 레거시 코드를 다 감수하시겠습니까?](http://woowabros.github.io/experience/2019/02/27/Working_Effectively_with_Legacy_Code.html)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
