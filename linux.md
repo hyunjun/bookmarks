@@ -471,6 +471,9 @@ Linux
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
+# Manjaro
+* [만자로 리눅스(Manjaro Linux)에서 한글 입력기(iBus) 설치하는 법](https://kkamagui.tistory.com/908)
+
 # Memory
 * Buffer and Cache
   * Buffer; optimize for block IO. metadata, data stream such as moving Youtube slider. once used, can't use it again.
