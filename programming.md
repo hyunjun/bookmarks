@@ -255,6 +255,7 @@ Programming
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 
 # Architecture, Modelling, Layer, Framework, ...
+* [practice - experiences in design](https://gist.github.com/hyunjun/12927723b32ba8348f6769f407550775)
 * **[10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)**
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
@@ -380,7 +381,26 @@ Programming
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
   * Divide and conquer가 아니라 conquer and divide를 이야기하는 부분은 일단 working solution/system을 만들고 opimization을 하라는 것과 일맥상통한다는 생각
 
-## Microservice MSA
+## Architecture Distributed
+* [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
+* [발렌타인 온라인 세미나 e04 - 분산컴퓨팅에 대하여](https://www.youtube.com/watch?v=hwBuR0UCwYA)
+  * [Topics in Distributed Computing](https://docs.google.com/presentation/d/1YIANVEdSHoiysyqJaNqOqOulAwzTevbDHiJaLDH_5Ng/mobilepresent?slide=id.p)
+* [분산 시스템 처리 모델에 대한 동향에 대해 (MapReduce에서 Borg까지)](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftechblog.yahoo.co.jp%2Farchitecture%2F2015_06_ditributed_system%2F&edit-text)
+* [CALISDO: Threat Modeling for Distributed Designs](http://brooker.co.za/blog/2015/06/20/calisto)
+* [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf)
+* [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
+* [What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging](http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/)
+* [Software Engineering Advice from Building Large-Scale Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
+* [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
+* [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
+* [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
+* [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
+* [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
+* [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
+* [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
+* [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
+
+## Architecture Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
@@ -463,6 +483,32 @@ Programming
 * [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 * [From Application Integration to Microservices Architecture: a Pragmatic Approach](https://medium.com/@teivah/from-application-integration-to-microservices-architecture-a-pragmatic-approach-ac210c2c2045)
+
+## Architecture Serverless
+* [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
+* [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
+* [Serverless 아키텍처의 세상이 온다](http://think.golbin.net/post/142941562561/serverless-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%84%B8%EC%83%81%EC%9D%B4-%EC%98%A8%EB%8B%A4)
+* [스타트업을 위한 모바일 백엔드 서버의 설계](http://janghp.tistory.com/974)
+* [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
+* [Google Cloud Function](http://bcho.tistory.com/m/1168)
+* [the future will be serverless](http://serverlessconf.io/)
+* [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
+* [Serverless Data Sync in Web Apps with Bit Torrent](https://paul.kinlan.me/serverless-sync-in-web-apps/)
+* [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
+  * [(번역) 서버리스 아키텍처](http://blog.aliencube.org/ko/2016/06/23/serverless-architectures/)
+* [Azure WebApp on Linux 장고 서비스 배포, 삽질기](https://drive.google.com/file/d/0B9HUIaaOuA_5by1OblRuOEE5eFU/view)
+* [서버가 없는 서비스 개발기](https://medium.com/life-balance/%EC%84%9C%EB%B2%84%EA%B0%80-%EC%97%86%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-36e86a66f7d7)
+* [빠르게 배워보는 Node.js를 이용한 서버리스(Serverless)](https://medium.com/@jwyeom63/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-node-js%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-serverless-503ee61539d4)
+* [Serverless: Looking Back to See Forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62)
+* [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716)
+* **[서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)**
+* [Serverless 프레임워크로 서버리스 애플리케이션 생성 및 배포하기](https://velopert.com/3549)
+* [Serverless 활용하기: MongoDB 기반 RESTful CRUD API 만들기](https://velopert.com/3577)
+* [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
+* [Serverless monitoring — the good, the bad and the ugly](https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843)
+* [0원으로 시작하는 서버리스 데이터 수집 및 분석](https://www.slideshare.net/KyuhyunByun1/0-121022533)
+* [AWSKRUG Serverless Group](https://github.com/awskrug/serverless-group)
+* [서버리스 컴퓨팅 시대의 풀 스택 개발](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f) Serviceful serverless, AWS Amplify
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -786,25 +832,6 @@ Programming
 * [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
 * [DevOps 오픈소스 트랜드 (클라우드, 모바일 중심)](https://www.slideshare.net/arload/devops-125948933/arload/devops-125948933)
 * [Devops를 위한 인터뷰 문제](http://jhrogue.blogspot.com/2019/01/b-devop.html)
-
-# Distributed
-* [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
-* [발렌타인 온라인 세미나 e04 - 분산컴퓨팅에 대하여](https://www.youtube.com/watch?v=hwBuR0UCwYA)
-  * [Topics in Distributed Computing](https://docs.google.com/presentation/d/1YIANVEdSHoiysyqJaNqOqOulAwzTevbDHiJaLDH_5Ng/mobilepresent?slide=id.p)
-* [분산 시스템 처리 모델에 대한 동향에 대해 (MapReduce에서 Borg까지)](https://translate.google.com/translate?sl=auto&tl=ko&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftechblog.yahoo.co.jp%2Farchitecture%2F2015_06_ditributed_system%2F&edit-text)
-* [CALISDO: Threat Modeling for Distributed Designs](http://brooker.co.za/blog/2015/06/20/calisto)
-* [Verdi: A Framework for Implementing and Formally Verifying Distributed Systems](http://homes.cs.washington.edu/~mernst/pubs/verify-distsystem-pldi2015.pdf)
-* [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
-* [What You Want Is What You Don’t: Understanding Trade-Offs in Distributed Messaging](http://bravenewgeek.com/what-you-want-is-what-you-dont-understanding-trade-offs-in-distributed-messaging/)
-* [Software Engineering Advice from Building Large-Scale Distributed Systems](http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf)
-* [Architectural patterns of resilient distributed systems](https://github.com/Randommood/Strangeloop2015)
-* [Jepsen is an effort to improve the safety of distributed databases, queues, consensus systems, etc](http://jepsen.io/)
-* [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
-* [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
-* [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
-* [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
-* [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
-* [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
@@ -1254,32 +1281,6 @@ Programming
   * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
   * **[구글 프로토콜 버퍼 (Protocol buffer)](http://bcho.tistory.com/1182)** 간단한 python 예제
 * [UBJSON](http://ubjson.org/)
-
-# Serverless
-* [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
-* [Lessons Learned — A Year Of Going “Fully Serverless” In Production](https://hackernoon.com/lessons-learned-a-year-of-going-fully-serverless-in-production-3d7e0d72213f)
-* [Serverless 아키텍처의 세상이 온다](http://think.golbin.net/post/142941562561/serverless-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%9D%98-%EC%84%B8%EC%83%81%EC%9D%B4-%EC%98%A8%EB%8B%A4)
-* [스타트업을 위한 모바일 백엔드 서버의 설계](http://janghp.tistory.com/974)
-* [Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – http://www.serverless.com](https://github.com/serverless/serverless)
-* [Google Cloud Function](http://bcho.tistory.com/m/1168)
-* [the future will be serverless](http://serverlessconf.io/)
-* [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
-* [Serverless Data Sync in Web Apps with Bit Torrent](https://paul.kinlan.me/serverless-sync-in-web-apps/)
-* [Serverless Architectures](http://martinfowler.com/articles/serverless.html)
-  * [(번역) 서버리스 아키텍처](http://blog.aliencube.org/ko/2016/06/23/serverless-architectures/)
-* [Azure WebApp on Linux 장고 서비스 배포, 삽질기](https://drive.google.com/file/d/0B9HUIaaOuA_5by1OblRuOEE5eFU/view)
-* [서버가 없는 서비스 개발기](https://medium.com/life-balance/%EC%84%9C%EB%B2%84%EA%B0%80-%EC%97%86%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EA%B8%B0-36e86a66f7d7)
-* [빠르게 배워보는 Node.js를 이용한 서버리스(Serverless)](https://medium.com/@jwyeom63/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-node-js%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-serverless-503ee61539d4)
-* [Serverless: Looking Back to See Forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62)
-* [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716)
-* **[서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)**
-* [Serverless 프레임워크로 서버리스 애플리케이션 생성 및 배포하기](https://velopert.com/3549)
-* [Serverless 활용하기: MongoDB 기반 RESTful CRUD API 만들기](https://velopert.com/3577)
-* [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
-* [Serverless monitoring — the good, the bad and the ugly](https://hackernoon.com/serverless-monitoring-the-good-the-bad-and-the-ugly-2b06e7ffd843)
-* [0원으로 시작하는 서버리스 데이터 수집 및 분석](https://www.slideshare.net/KyuhyunByun1/0-121022533)
-* [AWSKRUG Serverless Group](https://github.com/awskrug/serverless-group)
-* [서버리스 컴퓨팅 시대의 풀 스택 개발](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f) Serviceful serverless, AWS Amplify
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
