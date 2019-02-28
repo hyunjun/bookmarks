@@ -1733,7 +1733,7 @@ Javascript
 * [Building a React Autocomplete Component from scratch](https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14)
 * [React: Communication Between Components](https://blog.bitsrc.io/react-communication-between-components-c0cfccfa996a)
 
-## Flux
+## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
 * [Flux로의 카툰 안내서](http://bestalign.github.io/2015/10/06/cartoon-guide-to-flux/)
 * [플럭스 아키텍처에서 스토어란 무엇인가?](https://blog.coderifleman.com/2018/03/18/what-is-store-in-flux-architecture/)
@@ -1805,7 +1805,7 @@ Javascript
 * [앱 스토어 리뷰 RN(React Native) 프로젝트에서 react-native-rate를 사용하여 앱 스토어의 리뷰를 작성하도록 유도하는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-rate/)
 * [Lessons I learned while building in React Native](https://medium.freecodecamp.org/lessons-i-learned-while-building-in-react-native-917cb7bb5993)
 
-## Library
+## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
@@ -1879,6 +1879,8 @@ Javascript
 * [react-native-spotify-ui - Pure javascript prototype of iOS Facebook UI for React Native framework](https://github.com/ggomaeng/react-native-spotify-ui)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [react podcast](http://reactpodcast.com/)
+* [react-quill - A Quill component for React](https://github.com/zenoamaro/react-quill)
+  * [React Quill에서 Image upload와 IE, iOS 대응하기](https://medium.com/@engross/react-quill에서-image-upload와-ie-ios-대응하기-3a8a709ee4ae)
 * [react-router - A complete routing library for React](https://github.com/rackt/react-router)
   * [리액트 라우터 (react-router v4) 강의 [1/3] : 사용 방법](https://velopert.com/3275)
   * [리액트 라우터, 코드 스플리팅, 그리고 서버사이드 렌더링 :: 목차](https://velopert.com/3411)
@@ -1903,7 +1905,7 @@ Javascript
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 
-## SocketIO
+## React SocketIO
 * [socket.io](http://socket.io/)
   * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
 * [REAL-TIME COMMUNICATION WITH SOCKETIO](https://www.packtpub.com/books/content/real-time-communication-socketio)
