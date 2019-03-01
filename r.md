@@ -266,6 +266,7 @@ R
 * [R Markdown 기초](https://blog.anpanman.co.kr/posts/2019-01-03-rmarkdown/)
 * [15 Stunning Data Visualizations (And What You Can Learn From Them)](https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8)
 * [The 25 Best Data Visualizations of 2018](https://towardsdatascience.com/the-25-best-data-visualizations-of-2018-93643f0aad04)
+* [R 정규표현식 : 남들은 잘 모르는 기초](https://medium.com/@khkim_93600/r-정규표현식-기초-6ae5f11d25bd)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
