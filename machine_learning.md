@@ -914,6 +914,7 @@ Machine Learning
 * [An Essential Guide to Numpy for Machine Learning in Python](https://medium.com/@sid_darthvader/an-essential-guide-to-numpy-for-machine-learning-in-python-5615e1758301)
 * [4 Machine Learning Techniques with Python](https://medium.com/@rinu.gour123/4-machine-learning-techniques-with-python-ceee451b0085)
 * [setscholars.net](https://setscholars.net/) Applied Data Science in Business & Biological Sciences: Python, R & MATLAB Codes for Beginners
+* [Custom Transformers and ML Data Pipelines with Python](https://towardsdatascience.com/custom-transformers-and-ml-data-pipelines-with-python-20ea2a7adb65)
 
 ## Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
