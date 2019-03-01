@@ -582,6 +582,7 @@ Docker
 * [PodPreset](https://bcho.tistory.com/1304)
 * [PodDisruptionBudget](https://bcho.tistory.com/1305)
 * [Ruben Orduz, Nolan Brubaker - A Python-flavored Introduction to Containers And Kubernetes](https://www.youtube.com/watch?v=kx-048qE-TI)
+* [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
