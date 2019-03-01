@@ -672,6 +672,7 @@ Java
   * [Vert.x JVM Framework. MacOS installation Guide](https://medium.com/pharos-production/vert-x-jvm-framework-macos-installation-guide-85d870409d56)
   * [Vert.x RESTful Services on Java. Distributed Systems Development A-Z Guide](https://medium.com/pharos-production/vert-x-restful-services-on-java-6a4ed8a30489)
   * [Vert.x: Understanding Core Concepts](https://hackernoon.com/vert-x-understanding-core-concepts-1529917658b3)
+  * [How to set up Vertx in Spring](https://medium.freecodecamp.org/vertx-in-spring-39c2dd7bc2a9)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
