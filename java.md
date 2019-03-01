@@ -336,6 +336,7 @@ Java
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
+* [가비지 컬렉터가 뭐하는 건가요? (Feat. 메모리 관리)](https://www.youtube.com/watch?v=24f2-eJAeII)
 * [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 * [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 * [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
