@@ -720,6 +720,7 @@ Javascript
 * [GraphQL: A success story for PayPal Checkout](https://medium.com/paypal-engineering/graphql-a-success-story-for-paypal-checkout-3482f724fb53)
 * [How to build a simple social media monitor with NodeJS, GraphQL, and Vue](https://medium.freecodecamp.org/how-to-build-a-simple-social-media-monitor-with-nodejs-graphql-and-vue-55ffe4124ab5)
 * [How to setup a powerful API with GraphQL, Koa and MongoDB](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-339cfae832a1)
+* [How to set-up a powerful API with GraphQL, Koa, and MongoDB — CRUD](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-graphql-koa-and-mongodb-crud-4459fc0720d4)
 * [An intro to mutations in GraphQL: what they are and how to use them](https://medium.freecodecamp.org/an-intro-to-mutations-in-graphql-what-they-are-and-how-to-use-them-e959735abd8d)
 
 # Gulp
@@ -826,6 +827,7 @@ Javascript
   * [Build an Electron App in Under 60 Minutes](https://www.youtube.com/watch?v=kN1Czs0m1SU)
   * [Build a File Metadata App in Electron](https://codeburst.io/build-a-file-metadata-app-in-electron-a0fe8d32410e)
   * [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
+  * [How to create an Electron app using Angular and SQLite3](https://medium.freecodecamp.org/creating-an-electron-app-using-angular-and-sqlite3-24ca7d892810)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -1336,6 +1338,7 @@ Javascript
 * [Supercharge your debugging experience for Node.js](https://medium.freecodecamp.org/supercharge-your-debugging-experience-for-node-js-3f0ddfaffbb2)
 * [JAVA vs node.js 무엇을 사용해야할까?](https://danielpark.net/183)
 * [Node.js에서 Request.js 사용하기 네트워크 더 간결하게 작성하자!](https://medium.com/harrythegreat/node-js%EC%97%90%EC%84%9C-request-js-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-28744c52f68d)
+* [Will Node.js forever be the sluggish Golang?](https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1732,6 +1735,8 @@ Javascript
 * [React Training - High-quality open source software from React Training](https://github.com/ReactTraining)
 * [Building a React Autocomplete Component from scratch](https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14)
 * [React: Communication Between Components](https://blog.bitsrc.io/react-communication-between-components-c0cfccfa996a)
+* [How to use React.js to create a Chrome extension in 5 minutes](https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815)
+* [Building a minimum viable UI with React and open source components](https://medium.com/codepusher/building-a-minimum-viable-ui-with-react-and-open-source-components-3961e02418ba)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
