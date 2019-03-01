@@ -228,6 +228,7 @@ Java
 * [IntelliJ Tips and Tricks](https://medium.com/@fedor/intellij-tips-and-tricks-3e1dce6561a)
 * [42 IntelliJ IDEA Tips and Tricks](https://youtu.be/eq3KiAH4IBI)
 * [인텔리J 활용 꿀팁 42가지 정리](http://www.popit.kr/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9-%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80-%EC%A0%95%EB%A6%AC/)
+* [인텔리J 활용꿀팁 42가지](http://www.kwangsiklee.com/2016/12/%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%99%9C%EC%9A%A9%EA%BF%80%ED%8C%81-42%EA%B0%80%EC%A7%80/)
 * [practice - tips and tricks](https://gist.github.com/hyunjun/1748025b59f454abc1cbe18e49348888#file-tips_and_tricks-md)
 * [Cheatsheet](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
 * [InteliiJ 디버깅하기](http://jojoldu.tistory.com/149)
@@ -249,11 +250,13 @@ Java
 * [IntelliJ & 안드로이드 스튜디오 기본 가이드 소개](http://jojoldu.tistory.com/321)
 * [IntelliJ 사용법](https://github.com/cheese10yun/IntelliJ)
 * [IntelliJ 사용팁](https://www.popit.kr/intellij-%EC%82%AC%EC%9A%A9%ED%8C%81/)
+* [소소한 인텔리J 팁 공유(auto import 처리)](https://www.popit.kr/%EC%86%8C%EC%86%8C%ED%95%9C-%EC%9D%B8%ED%85%94%EB%A6%ACj-%ED%8C%81-%EA%B3%B5%EC%9C%A0auto-import-%EC%B2%98%EB%A6%AC/)
 * [Eclipse의 Workspace와 IntelliJ의 Project](https://jojoldu.tistory.com/334)
 * [IntelliJ 의존성 목록 확인 및 자동 완성](https://jojoldu.tistory.com/344)
 * [IntelliJ에서 Gradle 프로젝트 작동안될때](https://jojoldu.tistory.com/364)
 * [IntelliJ http Client 응답값 변수로 저장하고 사용하기](https://jojoldu.tistory.com/366)
 * [맥 환경에서 vscode, intelliJ에 zsh 지정하기](https://jojoldu.tistory.com/400)
+* [IntelliJ에서 코드 한 줄 안 짜고 JPQL 실행하기](https://www.popit.kr/intellij%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84-%EC%95%88-%EC%A7%9C%EA%B3%A0-jpql-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
