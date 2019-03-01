@@ -26,6 +26,7 @@ Algorithm
   * [Introduction to Algorithms (SMA 5503)](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Stanford University Algorithms: Design and Analysis, Part 1](https://www.coursera.org/course/algo)
+* [My favorite free courses to learn data structures and algorithms in depth](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-learn-data-structures-and-algorithms-in-depth-4d52f0d6b35a)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
 * [6 Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
   * 가능한 모든 조합을 트리 형식으로 그리고, bounding function(constraint check function)으로 제약 조건으로 노드를 검사해서 false면 해당 sub tree를 그리지 않음
