@@ -654,6 +654,7 @@ Programming
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
 * [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 * [How to automate Code Reviews on Github](https://medium.freecodecamp.org/how-to-automate-code-reviews-on-github-41be46250712)
+* [코드리뷰 적응기(feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/02/28/pilot-project-settle.html)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -1154,6 +1155,7 @@ Programming
   * [1811호](https://blog.gaerae.com/2018/11/monthly.html)
   * [1812호](https://blog.gaerae.com/2018/12/monthly.html)
   * [1901호](https://blog.gaerae.com/2019/01/monthly.html)
+  * [1902호](https://blog.gaerae.com/2019/02/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
