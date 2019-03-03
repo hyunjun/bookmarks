@@ -1148,6 +1148,7 @@ Deep Learning
   * [Implementation of SNAIL(A Simple Neural Attentive Meta-Learner) with Gluon](https://github.com/seujung/SNAIL-gluon)
   * [LipNet: End-to-End Sentence-level Lipreading](https://github.com/ski-net/lipnet)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
+* [PlotNeuralNet - Latex code for drawing neural networks for reports and presentation](https://github.com/HarisIqbal88/PlotNeuralNet)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
