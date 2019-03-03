@@ -93,6 +93,7 @@ R
   * tidyverse, keras, tfruns, shiny 라이브러리를 이용해서 텍스트 유사도 접근하는 방식에 대한 예제
 * [R에서 Keras 튜토리얼 돌려보기](https://lovetoken.github.io/r/machinelearning/keras/2018/06/02/keras_tutorial.html)
 * [speech-keras](https://github.com/dfalbel/speech-keras)
+* [R에서 구현한 Keras](https://www.youtube.com/watch?v=Iua-Z36J80A)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
