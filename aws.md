@@ -417,3 +417,4 @@ AWS
 * [AWS VPC Network with Terraform](https://blog.2dal.com/2017/09/17/aws-vpc-network-with-terraform/)
 * [AWS VPC with Terraform Modules](https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/)
 * [Amazon Kinesis와 Amazon Athena를 활용한 VPC 네트워크 트래픽의 분석과 시각화](https://aws.amazon.com/ko/blogs/korea/analyze-and-visualize-your-vpc-network-traffic-using-amazon-kinesis-and-amazon-athena/)
+* [AWS VPC 개념](https://kudwafter.moe/?p=496)
