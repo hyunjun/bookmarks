@@ -324,6 +324,9 @@ Java
 * [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
 * [You can finally declare Inferred Type local variables in Java with var — here’s why that’s awesome](https://medium.freecodecamp.org/you-can-finally-declare-local-variables-in-java-with-var-heres-why-that-s-awesome-4418cb7e2da3)
 
+# Java12
+* [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
+
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)
 
