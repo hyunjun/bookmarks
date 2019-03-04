@@ -418,6 +418,7 @@ Apache
 * [blog.voidmainvoid.net/category/.../Kafka](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
 * [Finding Kafka’s throughput limit in Dropbox infrastructure](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
+* [Kafka, Producer 부터 Consumer 까지](https://docs.google.com/presentation/d/16ZoY4QLpbAqHcCISaURCKXGNGs9sG809Pi4MHLsdKNA/)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
