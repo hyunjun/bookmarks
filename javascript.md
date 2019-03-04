@@ -1178,6 +1178,7 @@ Javascript
   * [npm package permissions — an idea](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
   * [아직도 몰랐어? 똑똑하게 모듈 설치하는 방법: NPX! (Introducing NPX - npm package runner)](https://www.youtube.com/watch?v=MIn0kpzSkT8)
   * [How to publish a React Native component to NPM — it’s easier than you think](https://medium.freecodecamp.org/how-to-publish-a-react-native-component-to-npm-its-easier-than-you-think-51f6ae1ef850)
+  * [npm 설치 오류: code EBADKEY](https://ohgyun.com/783)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
