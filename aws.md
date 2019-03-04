@@ -269,6 +269,7 @@ AWS
 * [AWS의 ARN 이해하기](https://medium.com/harrythegreat/aws%EC%9D%98-arn-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-8c20d0ccbbfd)
 * [클라우드상 오브젝트 스토리지(Object Storage)란?](https://medium.com/harrythegreat/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%83%81-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-object-storage-%EB%9E%80-9d9c2da57649)
 * [AWS Serverless를 위한 험난한 여정 — Part 1](https://medium.com/harrythegreat/aws-serverless%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%97%98%EB%82%9C%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-56ab4be383f3)
+* [Pub/Sub with AWS SNS, SQS and Laravel](https://hackernoon.com/pub-sub-with-aws-sns-sqs-and-laravel-ed9f7e1bd79)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
