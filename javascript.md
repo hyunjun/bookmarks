@@ -638,6 +638,7 @@ Javascript
 * [How to use destructuring in JavaScript (ES6) to its full potential](https://medium.freecodecamp.org/destructuring-in-javascript-es6-ee963292623a)
 * [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 * [The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
+* [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -845,6 +846,7 @@ Javascript
   * [Airbnb의 eslint를 IntelliJ에 적용하기](http://jojoldu.tistory.com/230)
   * [create-react-app 에 ESLint 와 Prettier 적용하기](https://velopert.com/3671)
   * [eslint 룰 만들기](https://medium.com/@ljs0705/eslint-%EB%A3%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-27113d4dc139)
+  * [Write attractive code with ESLint and Prettier](https://hackernoon.com/write-attractive-code-with-eslint-and-prettier-27d562b8ae9f)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
@@ -1175,6 +1177,7 @@ Javascript
   * [Node.js: npm asyncWrite 오류 발생할 때](http://ohgyun.com/771)
   * [npm package permissions — an idea](https://hackernoon.com/npm-package-permissions-an-idea-441a02902d9b)
   * [아직도 몰랐어? 똑똑하게 모듈 설치하는 방법: NPX! (Introducing NPX - npm package runner)](https://www.youtube.com/watch?v=MIn0kpzSkT8)
+  * [How to publish a React Native component to NPM — it’s easier than you think](https://medium.freecodecamp.org/how-to-publish-a-react-native-component-to-npm-its-easier-than-you-think-51f6ae1ef850)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
@@ -1737,6 +1740,9 @@ Javascript
 * [React: Communication Between Components](https://blog.bitsrc.io/react-communication-between-components-c0cfccfa996a)
 * [How to use React.js to create a Chrome extension in 5 minutes](https://levelup.gitconnected.com/how-to-use-react-js-to-create-chrome-extension-in-5-minutes-2ddb11899815)
 * [Building a minimum viable UI with React and open source components](https://medium.com/codepusher/building-a-minimum-viable-ui-with-react-and-open-source-components-3961e02418ba)
+* [Improving Performance in React Functional Components using React.memo()](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)
+* [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
+* [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2101,6 +2107,7 @@ Javascript
   * [6. Vuex Module pattern](https://jaeyeophan.github.io/2018/11/16/Vuetorials-6-Vuex-Module-pattern/)
   * [7. Vuex Best Practice로 가는 여정](https://jaeyeophan.github.io/2018/11/17/Vuetorials-7-Vuex-Best-Practice/)
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)
+* [How to create a blazing fast modern blog with Nuxt and Prismic](https://medium.freecodecamp.org/create-a-blazing-fast-modern-blog-with-nuxt-and-prismic-7d19935d849c)
 * [GUI로 Vue 프로젝트 쉽게 만들기](https://wormwlrm.github.io/2018/11/17/How-to-create-Vue-project-using-CLI-3.html)
 * [Vue.js 컴포넌트 재사용하기 - slot 편](https://joshua1988.github.io/web-development/vuejs/slots/)
 * [Type Vuex without TypeScript](https://itnext.io/type-vuex-without-typescript-4f183b83a907)
