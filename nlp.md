@@ -267,6 +267,7 @@ NLP
 * [Natural Language Understanding benchmark](https://github.com/snipsco/nlu-benchmark)
   * [NLU / Intent Detection Benchmark by Intento, August 2017](https://www.slideshare.net/KonstantinSavenkov/nlu-intent-detection-benchmark-by-intento-august-2017)
 * [콜라 좀… 쉽게 담을 수 없나요, 쓰앵님](http://woowabros.github.io/experience/2019/02/25/android-improve_shop-menu-explore_1.html) 메뉴 검색을 위해 초중종성 분리 검색 개발
+* [Machine Learning with Python: NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -440,6 +441,7 @@ NLP
 * [Text Classification using Neural Networks](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
 * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
 * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
+* [sunwoobot - 선우봇 카카오 i 오픈빌더 챗봇](https://github.com/swparkaust/sunwoobot)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
