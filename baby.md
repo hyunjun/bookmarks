@@ -55,6 +55,7 @@ Baby
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [상대평가, 절대평가, 역량평가](http://hl1itj.tistory.com/180)
 * [스웨덴은 왜 '자녀 체벌' 금지했나](http://v.media.daum.net/v/20180725160226626)
+* [인턴 지원서](https://sungmooncho.com/2019/03/02/internship/) 교육의 방향 차이보다는 사회의 분위기 차이겠지만, 앞으로의 사회는 이 방향으로 나갈 거 같기에 기록을 위해 남겨둠
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
