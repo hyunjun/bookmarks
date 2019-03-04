@@ -41,11 +41,12 @@ Scala
   * [간단한 static HTML제공 server app 만들어 보기 (2018-06-15)](https://www.youtube.com/watch?v=h3uh-79slOw)
   * [cp -R을 스칼라로 구현](https://www.youtube.com/watch?v=QpAVdrGBpHY)
   * [왜도, 첨도, 에러처리, 날짜 시간 라이브 코딩 (2018-10-19)](https://www.youtube.com/watch?v=ap_PG9d2B1g) Float vs. Double, 에러 처리(exception이 아니라 Either, Try)
-  * [쉘 스크립팅 대신에 스칼라 스크립팅 (2018-11-23)](https://www.youtube.com/watch?v=iKpjLMY3l8A) 38:00부터
+  * [쉘 스크립팅 대신에 스칼라 스크립팅 (2018-11-23)](https://www.youtube.com/watch?v=iKpjLMY3l8A#t=38m00s)
   * [FP채널 소개 / 수다 / 졸면서 코딩 (2018-11-30)](https://www.youtube.com/watch?v=XWAZupl5_VY)
   * [2의 거듭제곱수 / 바이너리 / 리팩토링 결과물 (2019-01-11)](https://www.youtube.com/watch?v=ad6ohw4u_ZQ)
-  * [스칼라 제네릭스 (2019-01-25)](https://www.youtube.com/watch?v=zWa3-WeZ-TE) 55:00~
-  * [라이브 코딩 (2019-02-22)](https://www.youtube.com/watch?v=jLOaG5KyPmU) 1:52:00~
+  * [스칼라 제네릭스 (2019-01-25)](https://www.youtube.com/watch?v=zWa3-WeZ-TE#t=55m00s)
+  * [라이브 코딩 (2019-02-22)](https://www.youtube.com/watch?v=jLOaG5KyPmU#t=1h17m50s)
+  * [라이브 코딩 (2019-03-01)](https://www.youtube.com/watch?v=nPclhWaAsZU#t=1h26m20s)
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)
