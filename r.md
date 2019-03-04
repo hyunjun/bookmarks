@@ -510,5 +510,6 @@ R
   * [R에서 조건화 그래프(Conditioning plot) 를 출력하기 위한 ggplot2::faect_wrap(), coplot() 함수에 대하여](https://lovetoken.github.io/r/2018/04/02/coplot.html)
   * [Pie Gauge Chart in ggplot2](https://lumiamitie.github.io/r/pie-gauge-in-ggplot2/)
   * [Be Awesome in ggplot2: A Practical Guide to be Highly Effective - R software and data visualization](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization)
+  * [0. R ggplot2 참고자료 목차](https://doublekpark.blogspot.com/2019/03/dd_2.html)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
