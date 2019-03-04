@@ -127,6 +127,7 @@ Open Source
 * [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 * [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
 * [PAIR (People + AI Research initiative)](https://www.facebook.com/nextobe1/posts/344322002670468)
+* [clasp: 구글 앱스 스크립트 로컬에서 개발하기](https://ohgyun.com/784)
 
 # IBM
 * [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)
