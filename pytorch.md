@@ -132,6 +132,7 @@ PyTorch
 * [PyTorch developer ecosystem expands, 1.0 stable release now available](https://code.fb.com/ai-research/pytorch-developer-ecosystem-expands-1-0-stable-release/)
 * [Making Your Neural Network Say “I Don’t Know” — Bayesian NNs using Pyro and PyTorch](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
 * [Proximal Policy Optimization Algorithms - PPO in PyTorch](http://blog.varunajayasiri.com/ml/ppo_pytorch.html)
+* [Pytorch Model summary](https://github.com/graykode/modelsummary)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
