@@ -359,6 +359,7 @@ Programming
   * [AWS - CloudFront](https://opentutorials.org/module/3838)
   * [Cache Deception: How I discovered a vulnerability in Medium and helped them fix it](https://medium.freecodecamp.org/cache-deception-how-i-discovered-a-vulnerability-in-medium-and-helped-them-fix-it-31cec2a3938b)
   * [스스로의 한계를 두지 않는 Service Reliability Engineer, 노승헌](https://engineering.linecorp.com/ko/blog/line-developer-interview-2/) 직접적인 개발 이야기는 아니지만, CDN에 대한 이야기가 있음
+  * [토비의 봄 TV 스페셜 - 강대명 - 캐시의 모든 것](https://www.youtube.com/watch?v=zkbvFOwJFgA)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
