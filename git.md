@@ -343,6 +343,7 @@ Git
   * [오픈소스 git 프로젝트에 Pull Request 보내기](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-git-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-pull-request-%EB%B3%B4%EB%82%B4%EA%B8%B0/)
   * [github 에 pull request 하기](http://jusths.tistory.com/21)
   * [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
+  * [오픈 소스 컨트리뷰션을 위한 GitHub Fork & Pull Request](https://futurecreator.github.io/2019/03/05/github-fork-and-pull-request-process-for-open-source-contribution)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
