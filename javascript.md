@@ -705,6 +705,7 @@ Javascript
 * [How Airbnb is Moving 10x Faster at Scale with GraphQL and Apollo](https://medium.com/airbnb-engineering/how-airbnb-is-moving-10x-faster-at-scale-with-graphql-and-apollo-aa4ec92d69e2)
 * [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729)
 * [How to do Apollo HOC mutations the right way](https://medium.freecodecamp.org/do-apollo-hoc-mutations-goodly-bb4effdbee94)
+* [Apollo Link State in Less than 30 Minutes](https://www.youtube.com/watch?v=CnhHeSAAbRM)
 * [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 * [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
