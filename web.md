@@ -247,6 +247,7 @@ Web
   * [Web Scraping with Beautiful Soup - Monica Puerto](https://www.youtube.com/watch?v=YBdc1jbhBls)
     * [Pydata beautiful soup - Monica Puerto](https://www.slideshare.net/PyData/pydata-beautiful-soup-monica-puerto)
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
+  * [TOOBUK](https://github.com/ramoi/toobuk)
 * [Crawler](https://github.com/rudvlf0413/crawler)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
