@@ -27,6 +27,7 @@ PHP
 * [PHP에서 커링 currying 함수 작성하기](http://www.haruair.com/blog/4149)
 * [php callable 살펴보기](https://www.haruair.com/blog/4431)
 * [PHP basics for expert web developers (1' part)](https://hackernoon.com/php-basics-for-expert-web-developers-1-part-8a35d408d2ea)
+* [macOS 10.14 Mojave PHP,Apache 설치 - Part1](https://tech.10000lab.xyz/php/php-apache-part1.html)
 
 # Library
 * composer
