@@ -265,8 +265,6 @@ R
 * [로컬상에서 Database를 간접경험해 보기 위한 sqlite DB를 R에서 만들어 보기](https://lovetoken.github.io/r/2019/01/03/RSQLite.html)
 * [Jupyter Notebook + R 연동하기](https://cozydatascientist.tistory.com/29)
 * [R Markdown 기초](https://blog.anpanman.co.kr/posts/2019-01-03-rmarkdown/)
-* [15 Stunning Data Visualizations (And What You Can Learn From Them)](https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8)
-* [The 25 Best Data Visualizations of 2018](https://towardsdatascience.com/the-25-best-data-visualizations-of-2018-93643f0aad04)
 * [R 정규표현식 : 남들은 잘 모르는 기초](https://medium.com/@khkim_93600/r-정규표현식-기초-6ae5f11d25bd)
 * [R 정규표현식 : ERE vs. PCRE](https://medium.com/@khkim_93600/r-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-ere-vs-pcre-39014b9c4dc5)
 * [How to visualise a Dataset according to its Class variables in R](https://setscholars.net/2019/03/02/how-to-visualise-a-dataset-according-to-its-class-variables-in-r/)
@@ -396,7 +394,6 @@ R
 * purrr
   * [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
   * [번역 폴더안의 csv 파일들을 {purrr}와 {readr}을 이용해서 한방에 불러오기](https://mrchypark.github.io/post/번역-폴더안의-csv-파일들을-purrr-와-readr-을-이용해서-한방에-불러오기)
-* [r2d3 - R Interface to D3 Visualizations](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
@@ -501,6 +498,9 @@ R
   * [3 움직이는 지도로 표현하기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-3/)
   * [4 중앙선관위 투표 결과 데이터 크롤링하기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-4/)
 * [Data Visualization In R | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=_WyUme_H2ZQ)
+* **[Data Visualization A practical introduction](https://socviz.co)**
+* [15 Stunning Data Visualizations (And What You Can Learn From Them)](https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8)
+* [The 25 Best Data Visualizations of 2018](https://towardsdatascience.com/the-25-best-data-visualizations-of-2018-93643f0aad04)
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
@@ -516,3 +516,4 @@ R
   * [0. R ggplot2 참고자료 목차](https://doublekpark.blogspot.com/2019/03/dd_2.html)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
+* [r2d3 - R Interface to D3 Visualizations](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
