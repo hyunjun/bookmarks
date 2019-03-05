@@ -439,6 +439,7 @@ NLP
   * [Seq2Seq를 활용한 간단한 Q/A 봇을 만들어보자](https://github.com/TensorMSA/tensormsa_jupyter/blob/master/chap13_chatbot_lecture/6.Chatbot(QA-seq2seq)-Word_onehot.ipynb)
 * [Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)](https://github.com/dennybritz/chatbot-retrieval/)
 * [Text Classification using Neural Networks](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
+* [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning)
 * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
 * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
 * [sunwoobot - 선우봇 카카오 i 오픈빌더 챗봇](https://github.com/swparkaust/sunwoobot)
