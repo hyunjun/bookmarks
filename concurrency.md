@@ -1,5 +1,5 @@
-Thread
-======
+Concurrency
+===========
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Thread)
 * [When is a function reentrant? How does that relate to it being thread-safe?](http://www.quora.com/When-is-a-function-reentrant-How-does-that-relate-to-it-being-thread-safe)
   * [Reentrancy](http://en.wikipedia.org/wiki/Reentrancy_(computing))
@@ -24,6 +24,9 @@ Thread
 * [readers-writer lock - 공유 자원 접근하기](https://blog.seulgi.kim/2018/12/rwlock.html)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://www.popit.kr/faster-parallel-processes/) redis, RabbitMQ
 * [Why Concurrency is Hard ?](https://hackernoon.com/why-concurrency-is-hard-a45295e96114)
+
+# Actor
+* **[The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model)**
 
 # c++
 * [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)
