@@ -376,6 +376,8 @@ Python
 * [한글깨기.py](https://github.com/anaclumos/hangulbreak/blob/master/%ED%95%9C%EA%B8%80%EA%B9%A8%EA%B8%B0.py)
 * [한글과 관련된 여러가지 기능을 포함한 Python 라이브러리](https://github.com/mapmiddle/Korean)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
+* [hangul-utils - An integrated library for Korean language preprocessing](https://github.com/kaniblu/hangul-utils)
+* [jamotools](https://pypi.org/project/jamotools/)
 * [langdetect - Port of Google's language-detection library (version from 03/03/2014) to Python](https://github.com/Mimino666/langdetect)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 
