@@ -139,7 +139,8 @@ Interview
 * [에어비앤비 엔지니어가 일하는 게 행복한 이유](https://www.youtube.com/watch?v=iaNl6zKTBfg)
 * [ICT CAREER ADY 서울-실리콘밸리 IT 커리어 포럼](https://www.youtube.com/watch?v=2AT4lUmDzXU)
 * [세일즈 해보시겠어요?](https://brunch.co.kr/@hyungsukkim/92) 분야는 관계없지만 인터뷰 전반을 생각해볼 때 좋은 글
-* [<<족집게 질문 리스트>>로 글로벌IT회사의 입사 인터뷰를 제대로 통과하기](https://okky.kr/article/523155)
+* [<족집게 인터뷰 질문 리스트: 1편-방어하기> 로 글로벌 IT 회사의 입사 인터뷰 제대로 통과하기](https://okky.kr/article/523155)
+* [<족집게 인터뷰 질문 리스트: 2편-공격하기> 로 글로벌 IT 회사의 입사 인터뷰 제대로 통과하기](https://okky.kr/article/554411)
 * [엔지니어 채용 이렇게 한다](http://bridge.500startups.co.kr/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%9C%EB%8B%A4/)
 * [How to Lose an IT Job in 10 Minutes - Whiteboard coding interviews can cost you a job](https://hackernoon.com/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
 * [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
@@ -163,6 +164,7 @@ Interview
 * [아마존 인터뷰에 떨어지다](https://brunch.co.kr/@worker-in-yvr/12)
 * [두 번째 아마존 인터뷰](https://brunch.co.kr/@worker-in-yvr/18)
 * [아마존의 기업 문화](https://www.youtube.com/watch?v=BJdpoh695D4)
+* [How Is Software Developed At Amazon?](http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
