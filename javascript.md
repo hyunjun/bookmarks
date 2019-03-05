@@ -419,8 +419,11 @@ Javascript
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 * [Passing Arrays as Function Arguments](https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c)
+* [How array.prototype.map() works](https://medium.freecodecamp.org/how-array-prototype-map-works-b6b69379c3af)
 * [How to make your code better with intention-revealing function names](https://medium.freecodecamp.org/how-to-make-your-code-better-with-intention-revealing-function-names-6c8b5271693e)
 * [다음 자바스크립트 코드에서 오류는?](http://jhrogue.blogspot.com/2019/02/b.html)
+* [JAVASCRIPT GETTER-SETTER PYRAMID](https://staltz.com/javascript-getter-setter-pyramid.html)
+  * [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1343,6 +1346,7 @@ Javascript
 * [JAVA vs node.js 무엇을 사용해야할까?](https://danielpark.net/183)
 * [Node.js에서 Request.js 사용하기 네트워크 더 간결하게 작성하자!](https://medium.com/harrythegreat/node-js%EC%97%90%EC%84%9C-request-js-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-28744c52f68d)
 * [Will Node.js forever be the sluggish Golang?](https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a)
+* [How Might Serverless Impact Node.js Ecosystem?](https://blog.bitsrc.io/how-might-serverless-impact-node-js-ecosystem-b0e312036fcf)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1914,6 +1918,7 @@ Javascript
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
 * [Storybook 입문 가이드](https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
+* [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 
