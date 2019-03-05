@@ -257,6 +257,7 @@ ElasticSearch - Lucene
 * [Elastic Maps Service 한국지도 추가](http://kimjmin.net/2019/01/2019-01-korea-region-map/)
 * [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
 * [Improving Customer Experience with Geo Capabilities at the UK’s Biggest Property Portal](https://www.elastic.co/elasticon/conf/2018/sf/improving-customer-experience-with-geo-capabilities-at-the-uks-biggest-property-portal)
+* [The how and why of Elasticsearch - Honza Král - PyData Prague, January 2019](https://www.youtube.com/watch?v=55YJxJbeznQ)
 
 # Docker
 * Dockerfile
