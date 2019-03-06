@@ -26,6 +26,7 @@ Time Series
 * [Applying Statistical Modeling and Machine Learning to Perform Time-Series Forecasting - Tamara Louie](https://www.youtube.com/watch?v=JntA9XaTebs)
 * [yjucho1.github.io/categories/#time-series](https://yjucho1.github.io/categories/#time-series)
 * [Almost Everything You Need to Know About Time Series](https://towardsdatascience.com/almost-everything-you-need-to-know-about-time-series-860241bdc578)
+* [End to End Time Series Analysis and Modelling - Apply moving average, exponential smoothing, and SARIMA for stock prediction](https://towardsdatascience.com/end-to-end-time-series-analysis-and-modelling-8c34f09a3014)
 
 # Library
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
