@@ -201,6 +201,7 @@ Git
   * `git branch -d [branch name]` [How to delete a Git branch both locally and remotely?](http://stackoverflow.com/questions/2003505/how-to-delete-a-git-branch-both-locally-and-remotely)
   * `git checkout -b [branch name] remotes/[repository name]/[branch name]` [How to check out a remote Git branch?](http://stackoverflow.com/questions/1783405/how-to-check-out-a-remote-git-branch)
   * [git에서 다른 브랜치의 특정 파일만 체크아웃하기](https://johngrib.github.io/wiki/git-checkout-specific-files/)
+  * [Rename a local and remote branch in git](https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
