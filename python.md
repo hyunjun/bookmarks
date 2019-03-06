@@ -1350,6 +1350,7 @@ Python
 * [A little hacker news in Django](https://github.com/dduong42/hnews)
 * [Merging Django ORM with SQLAlchemy for Easier Data Analysis](https://hackernoon.com/merging-django-orm-with-sqlalchemy-for-easier-data-analysis-75b85e2cc0b9)
 * [Clean Architecture in Django](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9)
+* [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
