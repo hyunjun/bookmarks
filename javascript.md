@@ -1822,6 +1822,7 @@ Javascript
 * [그라데이션(Gradient) RN(React Native) 프로젝트에서 react-native-linear-gradient을 사용해서 그라데이션(Gradient) 백그라운드(background)를 만들어 보자](https://dev-yakuza.github.io/ko/react-native/react-native-linear-gradient)
 * [App Splash 스크린 RN(React Native) 프로젝트에서 react-native-splash-screen를 사용하여 Splash 스크린을 원하는 시간에 종료하도록 만들어 보자](https://dev-yakuza.github.io/ko/react-native/react-native-splash-screen/)
 * [앱 스토어 리뷰 RN(React Native) 프로젝트에서 react-native-rate를 사용하여 앱 스토어의 리뷰를 작성하도록 유도하는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-rate/)
+* [StatusBar 다루기 - RN(React Native)에서 StatusBar를 다루는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-status-bar/)
 * [Lessons I learned while building in React Native](https://medium.freecodecamp.org/lessons-i-learned-while-building-in-react-native-917cb7bb5993)
 
 ## React Library
