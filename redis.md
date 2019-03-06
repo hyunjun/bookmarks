@@ -37,6 +37,7 @@ Redis
 * [Developing a Redis Module](https://www.youtube.com/watch?v=LPxx4QPyUPw)
 * **[REDIS 데이터 모델들](http://www.popit.kr/redis-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%93%A4/)**
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)
+* [Intro To Redis Cluster Sharding – Advantages, Limitations, Deploying & Client Connections](http://highscalability.com/blog/2019/2/19/intro-to-redis-cluster-sharding-advantages-limitations-deplo.html)
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
 * [10. 데이터 폭풍이닷: 스크래핑으로 가져온 데이터 처리](https://highluck.github.io/#/project_k)
 * 3개의 key column이 있으며, 하나의 key로 찾는 경우
