@@ -32,6 +32,7 @@ AWS
 * [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
 * [아마존 엘라스틱 컨테이너 서비스(ECS) 입문 - 도커(Docker) 컨테이너 오케스트레이션](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
 * [ECS (Elastic Container Service)](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/3.AWS_ECS)
+* [플레이오토 ECS 사용사례](https://www.slideshare.net/JaeSeongLee19/ecs-134788675)
 * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
 * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
 * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
