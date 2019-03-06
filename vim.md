@@ -141,6 +141,8 @@ Vim
 * **[All I do is VIM VIM VIM](http://engineering.pivotal.io/post/all-i-do-is-vim/)**
 * [Vim은 어디서 왔나](https://blog.koriel.kr/where-vim-came-from/)
 * [VIM을 이용하여 각 줄의 마지막 공백(Whitespace) 제거하기](http://kkamagui.tistory.com/904)
+* [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
+* [Let Vim Do the Typing](https://www.youtube.com/watch?v=3TX3kV3TICU)
 
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
