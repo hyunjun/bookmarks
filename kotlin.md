@@ -89,6 +89,7 @@
 * [카카오톡의 서버사이드 코틀린](https://www.slideshare.net/ifkakao/ss-113145569)
 * [100% KOTLIN FRONTEND](https://www.youtube.com/watch?v=dcx64qQvuw0)
 * [How to implement an Object-Pool with an Actor in Kotlin](https://medium.freecodecamp.org/how-to-implement-an-object-pool-with-an-actor-in-kotlin-ed06d3ba6257)
+* [Deep Dive into object](https://medium.com/@joongwon/kotlin-deep-dive-into-object-a0d6dc649736)
 * [Why Bother with Kotlin - Not Just Another Language Tour](https://www.youtube.com/watch?v=n7-L5w33Esk)
 * [Why You Should Use Class Delegation In Kotlin](https://hackernoon.com/why-you-should-use-class-delegation-in-kotlin-fb0a3ebf151e)
 * [Kotlin + Springboot로 REST API 시작하기](http://devtimothy.tistory.com/98)
