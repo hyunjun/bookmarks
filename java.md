@@ -472,6 +472,7 @@ Java
     * [1. 파이프라인 샘플 만들기](https://jojoldu.tistory.com/355)
     * [2. Scripted 문법 소개](https://jojoldu.tistory.com/356)
   * [Jenkins](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/2.Jenkins)
+  * [젠킨스에서 실패한 Job 무시하기](https://jojoldu.tistory.com/409)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
