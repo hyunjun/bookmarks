@@ -861,6 +861,7 @@ Machine Learning
 * [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
 * [machinelearningmastery.com/start-here](https://machinelearningmastery.com/start-here/)
 * [What are Some ‘Advanced ‘ AI and Machine Learning Online Courses?](https://towardsdatascience.com/what-are-some-advanced-ai-and-machine-learning-online-courses-8609ab281450)
+* [Top 5 Machine Learning Courses for 2019](https://medium.com/@LearnDataSci/top-5-machine-learning-courses-for-2019-8a259572686e)
 
 # Python
 * **[Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning](https://github.com/eriklindernoren/ML-From-Scratch)**
