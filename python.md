@@ -2408,6 +2408,7 @@ Python
   * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Template Engine](http://aosabook.org/en/500L/a-template-engine.html)
 * [TermFeed - Terminal Feed is a minimal feed reader for the terminal (without curses)](https://github.com/iamaziz/termfeed)
+* [terminal-palette - A simple library to color texts in terminal](https://github.com/JeongUkJae/terminal-palette)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
