@@ -1960,6 +1960,7 @@ CVPR2016)
 * [A.I Supermario with Reinforcement Learning - 1, 강화학습으로 인공지능 슈퍼마리오 만들기 튜토리얼 1](https://www.youtube.com/watch?v=ydCrd9cDLsU)
   * [강화학습으로 인공지능 슈퍼마리오 만들기 강의 1편](https://wonseokjung.github.io//reinforcementlearning/update/Supermario1/)
   * [A.I_Supermario 강화학습을 이용한 슈퍼마리오 만들기 튜토리얼](https://github.com/wonseokjung/ai_supermario)
+* [슈퍼마리오에 모두를 위한 RL 수업의 딥러닝 코드 붙이기](http://jinman190.blogspot.com/2017/10/rl.html)
 * [supermario dqn on colab](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/2_supermario_dqn.ipynb)
 * [장진만쌤의 Sung Kim 교수님의 모두의 RL 수업을 보고 나서 따라 하기](http://chlehrb.tistory.com/78) 07.03 현재 설치까지 진행
 * [Reinforce-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
