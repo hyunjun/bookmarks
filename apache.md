@@ -253,6 +253,9 @@ Apache
 * [Kafka frequent commands](https://gist.github.com/vkroz/05136cefdbb4fa61296993db17e1ae3f)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
 * [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
+* [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
+* [Apache Kafka. MacOS installation guide](https://medium.com/pharos-production/apache-kafka-macos-installation-guide-a5a3754f09c)
+* [Install Kafka in RHEL 7](https://medium.com/@dindanovitasari/install-kafka-in-rhel-7-f15d10a07246)
 * [Using Apache Kafka Docker](https://howtoprogram.xyz/2016/07/21/using-apache-kafka-docker/)
 * [Kafka Docker - Run multiple Kafka brokers in Docker](https://wurstmeister.github.io/kafka-docker/)
 * [HANDS-FREE KAFKA REPLICATION: A LESSON IN OPERATIONAL SIMPLICITY](http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/)
@@ -324,7 +327,6 @@ Apache
   * [Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
   * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
-* [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
 * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
@@ -410,7 +412,6 @@ Apache
 * How to Lose Messages on a Kafka Cluster
   * [Part 1](https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1)
   * [Part 2](https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2)
-* [Apache Kafka. MacOS installation guide](https://medium.com/pharos-production/apache-kafka-macos-installation-guide-a5a3754f09c)
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
 * [MirrorMaker Performance Tuning Tuning Kafka for Cross Data Center Replication](https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21)
