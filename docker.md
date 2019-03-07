@@ -325,6 +325,7 @@ Docker
 * [Dockerizing Scala App](https://medium.com/@ievstrygul/dockerizing-scala-app-3fdf08cffda4)
 * [Wiring Scala App Docker Image With MongoDB](https://medium.com/@ievstrygul/wiring-scala-app-docker-container-with-mongodb-84b29c50ac5)
 * [Docker 안에 숨어 있는 Web application JMX profiling Tip](https://www.popit.kr/docker-jmx-profiling-tip/)
+* [Deploying on AWS Free Tire with Docker and Fabric](https://hackernoon.com/deploying-on-aws-free-tire-with-docker-and-fabric-d9eca7c629e6)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
