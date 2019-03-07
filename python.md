@@ -2671,8 +2671,7 @@ Python
 * [Introduction - Data Analysis and Data Science with Python and Pandas](https://www.youtube.com/watch?v=nLw1RNvfElg)
 * [Using The Pandas Category Data Type](https://pbpython.com/pandas_dtypes_cat.html)
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas)
-* [Pandas 기초 - 판다스 10분 완성소개, cheat sheet 보고 데이터프레임 만들어보기](https://www.youtube.com/watch?v=lspu830SzC8)
-* [Pandas 기초 - 판다스 데이터프레임 생성하고 데이터 가져오기](https://www.youtube.com/watch?v=kdiO27ZuZJw)
+* [Pandas 기초 - cheat sheet 따라하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
