@@ -27,6 +27,7 @@ Game
 * [Games you should try on GNU/Linux](https://www.unixmen.com/games-try-gnulinux/)
 * [데이터분석 기반 게임봇과 작업장 탐지 (NDC 2017)](https://www.slideshare.net/sakai76/ndc-2017-75638339)
 * [세계의 게임 대학은 지금 무엇을 공부하고 있을까? 1. DigiPen Institute of Technology](https://alegruz.imweb.me/blog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1228644&t=board)
+* [How to make your game run at 60fps](https://medium.com/@tglaiel/how-to-make-your-game-run-at-60fps-24c61210fe75)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
