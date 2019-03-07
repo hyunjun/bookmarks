@@ -344,6 +344,9 @@
 * [Write to multiple outputs by key Spark - one Spark job](https://stackoverflow.com/questions/23995040/write-to-multiple-outputs-by-key-spark-one-spark-job)
 * [Things I Wish I’d Known About Spark When I Started (One Year Later Edition)](https://medium.com/enigma-engineering/things-i-wish-id-known-about-spark-when-i-started-one-year-later-edition-d767430181ed)
 * [Brian Clapper—Spark for Scala Developers](https://www.youtube.com/watch?v=zXipqCcVmQM)
+* [Movie recommendation using Apache Spark](https://medium.com/@varunabhi86/movie-recommendation-using-apache-spark-1a41e24b94ba)
+* [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
+* [NPE from Spark App that extends scala.App](https://medium.com/@manuzhang/npe-from-spark-app-that-extends-scala-app-ef7378195850)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -398,6 +401,8 @@
 * join
   * [RDD join 예제](http://knight76.tistory.com/entry/spark-RDD-join-%EC%98%88%EC%A0%9C)
   * [join 예제](http://knight76.tistory.com/entry/spark-join-%EC%98%88%EC%A0%9C)
+  * [Joins in Apache Spark — Part 1](https://medium.com/@akhilanand.bv/https-medium-com-joins-in-apache-spark-part-1-dabbf3475690)
+  * [Joins in Apache Spark — Part 2](https://medium.com/@akhilanand.bv/https-medium-com-joins-in-apache-spark-part-2-5b038bc7455b)
 * persist
   * [RDD persist() or cache() 시 주의사항](http://tomining.tistory.com/84)
 * SQL
@@ -519,6 +524,7 @@
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
   * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
+* [MapR-DB Spark Connector with Secondary Indexes](https://hackernoon.com/mapr-db-spark-connector-with-secondary-indexes-df41909f28ea)
 * [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
   * [Accelerated Spark on GPU-enabled clusters in Azure](https://azure.microsoft.com/en-us/blog/accelerated-spark-on-gpu-enabled-clusters-in-azure/?_lrsc=ff381697-5454-493b-9666-eaeaf066ba16)
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
