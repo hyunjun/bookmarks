@@ -188,6 +188,7 @@ Programming
   * [(3) – 다른 팀 소스 코드를 볼 수 있는가?](http://channy.creation.net/blog/1110)
   * [(4) – 사내 라이브러리를 잘 관리하려면?](http://channy.creation.net/blog/1183)
   * [(5) – 소통 비용의 절약: 서로 API로 말하자](http://channy.creation.net/blog/1199)
+* [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
   * [2편(Access Token + Refresh Token)](http://tansfil.tistory.com/59)
