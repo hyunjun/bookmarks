@@ -1824,6 +1824,7 @@ Javascript
 * [앱 스토어 리뷰 RN(React Native) 프로젝트에서 react-native-rate를 사용하여 앱 스토어의 리뷰를 작성하도록 유도하는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-rate/)
 * [StatusBar 다루기 - RN(React Native)에서 StatusBar를 다루는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-status-bar/)
 * [Lessons I learned while building in React Native](https://medium.freecodecamp.org/lessons-i-learned-while-building-in-react-native-917cb7bb5993)
+* [How to improve performance in your apps with Lighthouse, Webpack, and React Loadable Components](https://medium.freecodecamp.org/taming-performance-in-todays-web-app-with-lighthouse-webpack-and-react-loadable-components-b2d3fa04e0ab)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
