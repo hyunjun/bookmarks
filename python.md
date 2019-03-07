@@ -546,6 +546,7 @@ Python
   * [Python Dictionary 순서 보장 원리](https://blog.sinwoobang.me/post/176050610602/pythondictorder)
   * `z = {**x, **y}` [How can I merge two Python dictionaries in a single expression?](https://stackoverflow.com/a/26853961)
   * [사전 자료형, 불린 조합 표현식](https://brunch.co.kr/@daejin/31)
+  * [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
 * double/float
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
@@ -2322,6 +2323,7 @@ Python
   * [requests-file requests에서 file://... 로컬 URL 내용 가져오기](http://mcchae.egloos.com/11296668)
   * [requests-mock provides a building block to stub out the HTTP requests portions of your testing code](https://github.com/jamielennox/requests-mock)
     * [requests-mock.readthedocs.io](http://requests-mock.readthedocs.io/)
+  * [Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers](https://www.youtube.com/watch?v=yqm6MBt-yfY)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
