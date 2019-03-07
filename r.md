@@ -243,6 +243,7 @@ R
 * [10 not so intuitive things about programming with R](https://towardsdatascience.com/10-not-so-intuitive-things-about-programming-with-r-a4d9d120c42c)
 * [R for Data Science online learning community](http://www.rfordatasci.com/)
 * [큰 자릿수의 정수를 csv 포맷으로 제대로 출력하기](https://lumiamitie.github.io/r/integer64-in-r/)
+* [reading multiple csv files](https://gist.github.com/woons/e34fa3f73d354619ab98d4c190d3787f)
 * [하라는 연구는 안하고 - R이나 배우고](https://www.youtube.com/playlist?list=PLXYASb_OF2c64_f1rZzE2J92BzrPsu7ey)
 * [Exploratory Data Analysis in R](https://opendatascience.com/exploratory-data-analysis-in-r)
 * [RStudio Cloud](https://rstudio.cloud/)
