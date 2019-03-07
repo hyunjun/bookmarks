@@ -384,10 +384,8 @@ Vision
 * [practice-FirstPersonOpenGL](https://github.com/SausageTaste/practiceOpenGL-FirstPerson)
 
 # Python
-* [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Face Recognition | Image Processing in Python | Machine Learning](https://www.youtube.com/watch?v=Rz3SIHyCWzY)
 * [Face Recognition - Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library](https://github.com/ageitgey/face_recognition)
-* [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
 * [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
 * 파이썬 - 컴퓨터 비전 프로그래밍
@@ -407,6 +405,10 @@ Vision
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
   * [빈 주차공간 찾아서 알려주는 인공지능 만든 개발자](https://smartaedi.tistory.com/368)
 * [Image Segmentation using Python’s scikit-image module](https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980)
+* [Computer vision challenges in drug discovery - Maciej Hermanowicz](https://www.youtube.com/watch?v=Y5GJmnIhvFk)
+* [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
+* [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
+* [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)
