@@ -688,6 +688,7 @@ Deep Learning
 * [2018 In Review: 10 Open-Sourced AI Datasets](https://medium.com/syncedreview/2018-in-review-10-open-sourced-ai-datasets-696b3b49801f)
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
 * [Setting up a GPU Enabled Kubernetes for Deep Learning](https://gist.github.com/stevenc81/1cad3a0ebca9303923d1cd4c3641f8bc)
+* [It is never too much: training deep learning models with more than one modality - Adam Słucki](https://www.youtube.com/watch?v=-UaTdVGfHxQ)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1276,6 +1277,7 @@ Deep Learning
 * [neural networks by browser](http://neurovis.dataphoric.com/)
 * [Scalable Bayesian Optimization Using Deep Neural Networks](http://arxiv.org/abs/1502.05700)
 * [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
+* [Data Pipeline Hyperparameter Optimization - Alex Quemy](https://www.youtube.com/watch?v=mmoYYACFX0c)
 * **[An implementation of the paper 'A Neural Algorithm of Artistic Style'](https://github.com/kaishengtai/neuralart)**
   * [거장의 그림을 30초만에 만들다: DeepStyle](http://redtea.kr/?b=3&n=951)
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
