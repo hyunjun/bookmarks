@@ -146,6 +146,7 @@ Interview
 * [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 * [내가 받은 최고의 커리어 조언](https://iamsang.com/blog/2019/01/01/career-advice/)
 * [What we learned about 2019 developer hiring trends from analyzing 112,654 coding tests](https://medium.freecodecamp.org/what-we-learned-about-2019-developer-hiring-trends-from-analyzing-112-654-coding-tests-b05a3ba0ca7b)
+* [초등학교 덧셈 알고리즘을 코드로 써보기](http://minjang.github.io/2019/03/02/convert-math-addition-algorithm-to-code/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
