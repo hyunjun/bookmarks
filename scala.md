@@ -29,6 +29,7 @@ Scala
 * [A brief tour of lists in Scala and algorithmically processing them in SICP exercises](https://medium.com/@matthagy/a-brief-tour-of-lists-in-scala-and-algorithmically-processing-them-in-sicp-exercises-935ff4d77775)
 * [Quickly learning the basics of Scala through Structure and Interpretation of Computer Programs examples (Part 1)](https://medium.com/@matthagy/quickly-learning-the-basics-of-scala-through-structure-and-interpretation-of-computer-programs-ed5bfa90e8dc)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
+* [Closures in Scala](https://medium.com/@senthil.nayagan/closures-in-scala-85b3a0cfd40f)
 * 케빈 TV
   * [시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
   * [시즌2 - 게릴라 방송 2회](https://www.youtube.com/watch?v=hiCA194VLZk)
@@ -216,16 +217,21 @@ Scala
 * [The Ultimate Scala Serverless Lambda Deployment using Travis CI](https://medium.com/@5tigerjelly/the-ultimate-scala-serverless-lambda-deployment-using-travis-ci-18ddc681769f)
 * [Testable toggles in Scala](https://medium.com/@swa.khandekar/testable-toggles-in-scala-67bfaf80b13a)
 * [A Python to Scala transpiler using neural machine translation (NMT)](https://medium.com/@matthagy/a-python-to-scala-transpiler-using-neural-machine-translation-nmt-90d4d02afa70)
+* [distage-sample](https://github.com/ratoshniuk/distage-sample) Distage — modern dependency injection for Scala
+* [Lucene Multi Term Query field search working example in Scala](https://medium.com/@adrian.n/lucene-multi-term-query-field-search-working-example-in-scala-efb7648cf89b)
+* [Interactively exploring Reddit posts using basic Scala in your browser](https://towardsdatascience.com/interactively-exploring-reddit-posts-using-basic-scala-in-your-browsers-f394843069de)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
 * [Typed Actors - compile-time typechecked akka actors](https://github.com/knutwalker/typed-actors)
+* [Managing State in Akka Actors](https://medium.com/@tomershaiman/managing-state-in-akka-actors-d25e33f41456)
 * [Simple Threading with Scala Actors](https://www.youtube.com/watch?v=bNLeo36pFls)
 * [Introduction to the Actor Model for Concurrent Computation: Tech Talks @ AppNexus](https://www.youtube.com/watch?v=lPTqcecwkJg)
 * [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)](https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 * [Introduction to jkka Actors with Java 8](https://www.youtube.com/watch?v=r4dryMdDZz0)
 * [Programming with Actors (part 1)](https://www.youtube.com/watch?v=W_l57iyn4mU)
 * [Programming with Actors (part 2)](https://www.youtube.com/watch?v=ilHW220JtGo)
+* [State vs Stateful Actor](https://medium.com/@krzysztof.otrebski/state-vs-stateful-actor-748486ba0271)
 
 # Akka
 * [medium.com/tag/akka](https://medium.com/tag/akka)
@@ -338,9 +344,12 @@ Scala
 * [Jan Pustelnik - CONSCIOUS CONSISTENCY WITH AKKA CLUSTER, CRDTS AND DISTRIBUTED DATA](https://www.youtube.com/watch?v=chC1KmxrEO8)
 * [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
 * [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
+* [Akka cluster quarantined problem](https://medium.com/@leighton.wong/akka-cluster-quarantined-problem-350cc8c6c1d5)
+* [How to make a simple application with Akka Cluster](https://medium.freecodecamp.org/how-to-make-a-simple-application-with-akka-cluster-506e20a725cf)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
+* [学ぼう！ コレクションフレームワーク](https://medium.com/nextbeat-engineering/%E5%AD%A6%E3%81%BC%E3%81%86-%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-4b6ffaaf42d5) collection framework
 * [Option, Either, State, and IO: Imperative programming in a functional world](https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81)
 * practice
   * [example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
@@ -517,13 +526,14 @@ Scala
   * [Scala with Cats Book](https://underscore.io/books/scala-with-cats/)
   * [9 tips about using cats in Scala you might want to know](https://blog.softwaremill.com/9-tips-about-using-cats-in-scala-you-might-want-to-know-e1bafd365f88)
   * [Adopting Cats - Ron Aharoni](https://www.youtube.com/watch?v=4ODUEbowkBM)
+  * [Scala — cats nice tricks and fun](https://medium.com/@regis.leray/scala-cats-nice-tricks-and-fun-30b5cb97fab3)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
 * [eff - Extensible effects are an alternative to monad transformers for computing with effects in a functional way](https://github.com/atnos-org/eff)
   * Free Monad보다 모나드 합성에서 편하다고 하는 Freer Monad 기반의  라이브러리
 * [ENSIME - Enhanced Scala and java Interaction Mode for text Editors](https://github.com/ensime)
-* Finagle
+* [Finagle - A fault tolerant, protocol-agnostic RPC system](https://github.com/twitter/finagle)
   * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
 * [fs2 - Compositional, streaming I/O library for Scala https://fs2.io ](https://github.com/functional-streams-for-scala/fs2)
@@ -534,13 +544,6 @@ Scala
   * [Where is the llama for FS2?](https://blog.softwaremill.com/where-is-the-llama-for-fs2-34a76f0c1e7e)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
-* [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
-  * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
-  * [meow-mtl](https://github.com/oleg-py/meow-mtl)
-    * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
-    * [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
-    * [http4s-error-handling-mtl.scala](https://gist.github.com/gvolpe/3fa32dd1b6abce2a5466efbf0eca9e94)
-    * [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * Kryo
@@ -597,6 +600,17 @@ Scala
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
+
+## HTTP Library
+* [finch - a thin layer of purely functional basic blocks atop of Finagle for building composable HTTP APIs](https://github.com/finagle/finch)
+* [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
+  * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
+  * [meow-mtl](https://github.com/oleg-py/meow-mtl)
+    * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
+    * [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
+    * [http4s-error-handling-mtl.scala](https://gist.github.com/gvolpe/3fa32dd1b6abce2a5466efbf0eca9e94)
+    * [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
+* tapir [Describe, then interpret: HTTP endpoints using tapir](https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0)
 
 ## Logging Library
 * [airframe-log is a library for enhancing your Scala application logging with colors and source code locations](https://wvlet.org/airframe/docs/airframe-log.html)
@@ -698,6 +712,9 @@ Scala
 * [typeclassopedia - typeclass 사용](https://byorgey.wordpress.com/tag/typeclassopedia)
 * [Mastering Typeclass Induction—Aaron Levin](https://www.youtube.com/watch?v=Nm4OIhjjA2o)
 * [Scala Back to Basics: Type Classes byTomer Gabel](https://www.youtube.com/watch?v=SsOhrYuCuns)
+* [Typeclasses for Beginners](https://medium.com/@awesomeorji/typeclasses-for-beginners-763081a720f7)
+* [Scala Typeclasses](https://medium.com/@pvinchon/scala-typeclasses-cec4b5f64744)
+* [OOP vs. FP. The pursuit of extensibility part #2](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)]
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
@@ -718,6 +735,8 @@ Scala
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
+* [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
+* [Intersection Type in Scala?](https://medium.com/@Methrat0n/intersection-type-in-scala-5320dedf5cf)
 * [DOT: Scala Types from Theory to Practice—Nada Amin](https://www.youtube.com/watch?v=fjj_fv346lY)
 * [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
