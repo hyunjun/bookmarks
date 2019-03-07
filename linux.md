@@ -159,6 +159,8 @@ Linux
   * [TLS Connection Control](http://blog.mailgun.com/tls-connection-control/)
   * [Use Curl to identify bottlenecks in your service layers](https://gist.github.com/adamkaplan/adf15f0d622f4932f4af)
   * [Is curl|bash insecure?](https://blog.sandstorm.io/news/2015-09-24-is-curl-bash-insecure-pgp-verified-install.html)
+* `cut`
+  * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
 
