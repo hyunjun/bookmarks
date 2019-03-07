@@ -167,6 +167,7 @@ AWS
 * [CircleCI 에서 Terraform fmt 수행하기](https://blog.2dal.com/2017/12/26/circleci-%ec%97%90%ec%84%9c-terraform-fmt-%ec%88%98%ed%96%89%ed%95%98%ea%b8%b0/)
 * [테라폼(Terraform) 기초 튜토리얼 AWS와 테라폼으로 구현하는 Infrastructure as Code](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
 * [테라폼을 가장 잘 지원하는 에디터는? 젯브레인 인텔리J를 활용한 테라폼 코드 작성](https://www.44bits.io/ko/post/what-is-the-best-editor-that-supports-terraform)
+* [테라폼 0.12 베타 1 출시 및 개선된 HCL 문법 살펴보기](https://www.44bits.io/ko/post/preview-new-feature-of-terraform-012-beta-1)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
 * [Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
