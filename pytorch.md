@@ -133,6 +133,7 @@ PyTorch
 * [Making Your Neural Network Say “I Don’t Know” — Bayesian NNs using Pyro and PyTorch](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
 * [Proximal Policy Optimization Algorithms - PPO in PyTorch](http://blog.varunajayasiri.com/ml/ppo_pytorch.html)
 * [Pytorch Model summary](https://github.com/graykode/modelsummary)
+* [Developer Conference 2019](https://www.youtube.com/playlist?list=PLpnJjnJBNxUNzCu8dvWVZYBiZ-L-HX0UE)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
