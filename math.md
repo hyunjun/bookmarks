@@ -212,6 +212,7 @@ Math
 * [자연어 처리를 위한 통계- 1 문돌이도 단번에 이해하는 은닉 마르코프 모델](https://rhkdgns2008.blog.me/221337317849)
 * [초보 데이터 사이언티스트의 프로젝트 도전기](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
 * [How to Build a Market Simulator Using Markov Chains and Python Model customer behavior, visualize A/B test results, predict user metrics…all using a simple Markovian framework!](https://towardsdatascience.com/how-to-build-a-market-simulator-using-markov-chains-and-python-7923256f8d29)
+* [A brief introduction to Markov chains - Definitions, properties and PageRank example](https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
