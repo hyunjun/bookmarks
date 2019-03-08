@@ -333,14 +333,6 @@ Java
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)
 
-# JUnit
-* [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
-* [JUnit 만들어보기](http://jojoldu.tistory.com/231)
-* [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
-* [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
-* [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
-* [클린 코드를 위한 TDD (Test-Driven Development for Clean Code)](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
-
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
@@ -686,6 +678,7 @@ Java
   * [Vert.x RESTful Services on Java. Distributed Systems Development A-Z Guide](https://medium.com/pharos-production/vert-x-restful-services-on-java-6a4ed8a30489)
   * [Vert.x: Understanding Core Concepts](https://hackernoon.com/vert-x-understanding-core-concepts-1529917658b3)
   * [How to set up Vertx in Spring](https://medium.freecodecamp.org/vertx-in-spring-39c2dd7bc2a9)
+  * [An introduction to Vert.x, the fastest Java framework today](https://medium.freecodecamp.org/an-introduction-to-vert-x-the-fastest-java-framework-today-27d8661ceb14)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
@@ -716,6 +709,15 @@ Java
 * [자바 직렬화, 그것이 알고싶다.  훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 * [자바 직렬화, 그것이 알고싶다.  실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 * [자바에서 직렬화를 이용한 소켓 통신 정리](https://jungwoon.github.io/java/2018/08/16/Java-Serialize/)
+
+# TDD Test
+* [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
+* [JUnit 만들어보기](http://jojoldu.tistory.com/231)
+* [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
+* [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
+* [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
+* [클린 코드를 위한 TDD (Test-Driven Development for Clean Code)](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
+* [Implementing a comparable numeric data type in Java the TDD way](https://medium.com/@alonso.delarte/implementing-a-comparable-numeric-data-type-in-java-the-tdd-way-36db536b0d0d)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)
