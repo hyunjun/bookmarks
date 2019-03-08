@@ -236,6 +236,7 @@ NoSQL
   * [Firebase 이용해서 안드로이드에서 실시간 데이터베이스 Crud 구현해보기](https://developer88.tistory.com/155)
   * [What’s the relationship between Firebase and Google Cloud?](https://medium.com/google-developers/whats-the-relationship-between-firebase-and-google-cloud-57e268a7ff6f)
   * [Using Cloud Storage for Firebase for hosting rich media in your Actions](https://medium.com/google-developers/using-cloud-storage-for-firebase-for-hosting-rich-media-in-your-actions-a838977eb758)
+  * [Firebase & Google Cloud: What’s different with Cloud Functions?](https://medium.com/google-developers/firebase-google-cloud-whats-different-with-cloud-functions-612d9e1e89cb)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
