@@ -28,7 +28,10 @@ Concurrency
 # Actor
 * **[The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model)**
 
-# c++
+# C
+* [멀티플렉싱 기반의 다중 접속 서버로 가기까지 멀티프로세스 -> 멀티스레드 -> 멀티플렉싱](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
+
+# C++
 * [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)
 
 # Clojure
