@@ -525,6 +525,7 @@
 * [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
   * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
 * [MapR-DB Spark Connector with Secondary Indexes](https://hackernoon.com/mapr-db-spark-connector-with-secondary-indexes-df41909f28ea)
+  * [MapR-DB Spark Connector Performance Tests](https://medium.com/@anicolaspp/mapr-db-spark-connector-performance-tests-2ec6e788e867)
 * [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
   * [Accelerated Spark on GPU-enabled clusters in Azure](https://azure.microsoft.com/en-us/blog/accelerated-spark-on-gpu-enabled-clusters-in-azure/?_lrsc=ff381697-5454-493b-9666-eaeaf066ba16)
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
