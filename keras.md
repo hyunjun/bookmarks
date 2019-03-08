@@ -186,6 +186,7 @@ Keras
 * [내 중고물품을 분류 해주는 모델 서빙하기(feat. Keras & Flask)](https://medium.com/daangn/%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%84-%EB%B6%84%EB%A5%98-%ED%95%B4%EC%A3%BC%EB%8A%94-%EB%AA%A8%EB%8D%B8-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-feat-keras-flask-210f8a30b8f6)
 * [Saving & Loading Keras Models](https://jovianlin.io/saving-loading-keras-models/)
 * [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813) LSTM
+* [Using deep learning to “read your thoughts” — with Keras and EEG](https://medium.com/@justlv/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a)
 
 # CNN
 * [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/)
