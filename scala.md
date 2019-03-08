@@ -220,6 +220,7 @@ Scala
 * [distage-sample](https://github.com/ratoshniuk/distage-sample) Distage — modern dependency injection for Scala
 * [Lucene Multi Term Query field search working example in Scala](https://medium.com/@adrian.n/lucene-multi-term-query-field-search-working-example-in-scala-efb7648cf89b)
 * [Interactively exploring Reddit posts using basic Scala in your browser](https://towardsdatascience.com/interactively-exploring-reddit-posts-using-basic-scala-in-your-browsers-f394843069de)
+* [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -414,6 +415,8 @@ Scala
   * [The Known Unknown: Working with Option and Nullable Types](https://medium.com/digitalfrontiers/the-known-unknown-working-with-option-and-nullable-types-b342a0e787de)
 * par
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
+* Process
+  * [カレントディレクトリ情報を保持するProcessBuilder実装](https://medium.com/@junyaishida_69538/%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E6%83%85%E5%A0%B1%E3%82%92%E4%BF%9D%E6%8C%81%E3%81%99%E3%82%8Bprocessbuilder%E5%AE%9F%E8%A3%85-ccfac73b7590)
 * reflection
   * [스칼라 강의 (44) - 리플렉션](http://hamait.tistory.com/893)
 * scalaz
@@ -485,6 +488,7 @@ Scala
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
 
 # Conference
+* [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [scalar-conf.com](http://scalar-conf.com/)
 * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
   * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
@@ -544,6 +548,7 @@ Scala
   * [Where is the llama for FS2?](https://blog.softwaremill.com/where-is-the-llama-for-fs2-34a76f0c1e7e)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
+* IxiaS [開発者はCTO衣笠。プロダクト共通のScalaのコア技術「IxiaS」をOSS化！](https://medium.com/nextbeat-engineering/%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AFcto%E8%A1%A3%E7%AC%A0-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E5%85%B1%E9%80%9A%E3%81%AEscala%E3%81%AE%E3%82%B3%E3%82%A2%E6%8A%80%E8%A1%93-ixias-%E3%82%92oss%E5%8C%96-3eb5c4ed66bf)
 * [JNA4Scala](https://github.com/sanjaydasgupta/JNA4Scala)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * Kryo
@@ -641,6 +646,7 @@ Scala
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+  * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
 
 # Monad
 * [Monad Programming with Scala Future](http://tech.kakao.com/2016/03/03/monad-programming-with-scala-future/)
