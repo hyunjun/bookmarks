@@ -1684,6 +1684,7 @@ Javascript
 * [리액트 Hooks 실제 사용 예시를 알아보자! | React Hooks for daily use!](https://www.youtube.com/watch?v=sZDvByH2mNU)
 * [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
+* [React hooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
@@ -1823,6 +1824,7 @@ Javascript
 * [App Splash 스크린 RN(React Native) 프로젝트에서 react-native-splash-screen를 사용하여 Splash 스크린을 원하는 시간에 종료하도록 만들어 보자](https://dev-yakuza.github.io/ko/react-native/react-native-splash-screen/)
 * [앱 스토어 리뷰 RN(React Native) 프로젝트에서 react-native-rate를 사용하여 앱 스토어의 리뷰를 작성하도록 유도하는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-rate/)
 * [StatusBar 다루기 - RN(React Native)에서 StatusBar를 다루는 방법에 대해서 설명합니다](https://dev-yakuza.github.io/ko/react-native/react-native-status-bar/)
+* [BlaBoo 업데이트 후기 - RN(React Native)를 사용하여 BlaBoo라는 앱을 제작하고 배포하였습니다. 앱 배포후 BlaBoo는 어떤 업데이트 하고 있는지에 대해 설명합니다](https://dev-yakuza.github.io/ko/blaboo/update-review)
 * [Lessons I learned while building in React Native](https://medium.freecodecamp.org/lessons-i-learned-while-building-in-react-native-917cb7bb5993)
 * [How to improve performance in your apps with Lighthouse, Webpack, and React Loadable Components](https://medium.freecodecamp.org/taming-performance-in-todays-web-app-with-lighthouse-webpack-and-react-loadable-components-b2d3fa04e0ab)
 
