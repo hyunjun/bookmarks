@@ -226,6 +226,7 @@ TensorFlow
 * [Domain-Adversarial Training of Neural Networks in Tensorflow](https://github.com/pumpikano/tf-dann)
 * [TensorFlow Fold: DL With Dynamic Batching](https://tensorflow.blog/2017/02/08/tensorflow-fold-dl-with-dynamic-batching/)
 * [텐서플로우 배치 처리](http://bcho.tistory.com/1170)
+* [TensorFlow Dev Summit 2019](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
 * Tensorflow Dev Summit 2017
   * [tensorflow dev summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/)
   * Part 1
