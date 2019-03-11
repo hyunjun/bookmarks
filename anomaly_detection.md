@@ -22,3 +22,4 @@ Anomaly Detection
 * [Detecting Performance Anomalies in External Firmware Deployments](https://medium.com/netflix-techblog/detecting-performance-anomalies-in-external-firmware-deployments-ed41b1bfcf46)
   * 소프트웨어 업데이트 패치 개발 시 아무리 테스트를 많이 해도 실제 사용자들에게 배포된 이후에 중요한 문제가 나오는 경우가 다수
   * Netflix에서 이상치 탐지 알고리즘을 적용하여 가급적 초기에 이상 상황을(이전 버전에 비해 반응 속도가 현저히 느려짐 등) 자동으로 탐지하는 방법을 공개
+* [Anomaly detection using deep one class classifier](https://www.slideshare.net/ssuser06e0c5/anomaly-detection-using-deep-one-class-classifier)
