@@ -38,6 +38,7 @@ AWS
 * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
+* [Machine learning with Amazon Rekognition and Elasticsearch](https://github.com/whitesoil/aws_elasticsearch)
 * [Cleaning up AWS with Boto3](http://blog.ranman.org/cleaning-up-aws-with-boto3/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
