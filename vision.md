@@ -406,6 +406,8 @@ Vision
   * [빈 주차공간 찾아서 알려주는 인공지능 만든 개발자](https://smartaedi.tistory.com/368)
 * [Image Segmentation using Python’s scikit-image module](https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980)
 * [Computer vision challenges in drug discovery - Maciej Hermanowicz](https://www.youtube.com/watch?v=Y5GJmnIhvFk)
+* [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
+  * [DeepIsolation.ipynb](https://colab.research.google.com/drive/1azCXH4udXSTkEf3JLihdMTPoCKB7IETq)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
