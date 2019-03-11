@@ -227,6 +227,7 @@ TensorFlow
 * [TensorFlow Fold: DL With Dynamic Batching](https://tensorflow.blog/2017/02/08/tensorflow-fold-dl-with-dynamic-batching/)
 * [텐서플로우 배치 처리](http://bcho.tistory.com/1170)
 * [TensorFlow Dev Summit 2019](https://www.youtube.com/playlist?list=PLQY2H8rRoyvzoUYI26kHmKSJBedn3SQuB)
+  * [TensorFlow Dev Summit 2019](https://github.com/rky0930/tf_dev_summit_2019/blob/master/README.md)
 * Tensorflow Dev Summit 2017
   * [tensorflow dev summit](https://events.withgoogle.com/tensorflow-dev-summit/watch-the-videos/)
   * Part 1
@@ -463,6 +464,7 @@ TensorFlow
 * [How to manage data science development from an organizational perspective by Nic Young, Bibblio](https://www.youtube.com/watch?v=fnwNsZB8Hw0)
 * [세계 최초 딥러닝 기반 사회관계망(SNS) 자해 이미지 탐색 프로그램 개발기 및 실행 성과](http://dpsylab.com/%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B8%B0%EB%B0%98-%EC%82%AC%ED%9A%8C%EA%B4%80%EA%B3%84%EB%A7%9Dsns-%EC%9E%90%ED%95%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%90/)
 * [Exporting trained TensorFlow models to C++ the RIGHT way!](https://medium.com/@hamedmp/exporting-trained-tensorflow-models-to-c-the-right-way-cf24b609d183)
+* [Ranking Tweets with TensorFlow](https://medium.com/tensorflow/ranking-tweets-with-tensorflow-932d449b7c4)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
