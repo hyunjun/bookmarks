@@ -2039,6 +2039,7 @@ CVPR2016)
   * tensorflow, pytorch 둘 다 공개
 * [강화학습 이론 및 실습](https://speakerdeck.com/wonseokjung/reinforcement-learning-a2711ce7-83db-4c31-8ea3-ad5db0e1a9a9)
 * [The Fantasy Football AI framework](https://github.com/njustesen/ffai) based on Open AI Gym
+* [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
 * [Dopamine - a research framework for fast prototyping of reinforcement learning algorithms](https://github.com/google/dopamine)
   * [Google-Dopamine-Kr](https://github.com/yebgi83/Google-Dopamine-Kr)
 * MuJoCo [DeepMind MuJoCo Multi-Agent Soccer Environment](https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer)
