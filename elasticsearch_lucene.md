@@ -273,6 +273,7 @@ ElasticSearch - Lucene
 * [elasticsearch-docker 만들어 보기](http://jjeong.tistory.com/1321)
 * [Elastic Stack으로 Docker 컨테이너와 Kubernetes에서 실행되는 애플리케이션 모니터링하기(https://www.elastic.co/kr/blog/monitoring-an-application-running-in-docker-containers-and-kubernetes-with-the-elastic-stack)
 * [stack-docker - Docker Compose configuration demonstrates many components of the Elastic Stack, all running on a single machine under Docker](https://github.com/elastic/stack-docker)
+  * [stack-docker - The Elastic Stack, on Docker, right now](https://github.com/YonghoChoi/stack-docker)
 
 # Elasticsearch 2.x
 * [Elasticsearch 2.3.2 released](https://www.elastic.co/blog/elasticsearch-2-3-2-released)
