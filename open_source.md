@@ -260,6 +260,7 @@ Open Source
   * [The Evolution of Uber’s 100+ Petabyte Big Data Platform](https://www.infoq.com/news/2018/11/uber-big-data-evolution)
   * [Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop](https://eng.uber.com/marmaray-hadoop-ingestion-open-source/)
   * [Peloton: Uber’s Unified Resource Scheduler for Diverse Cluster Workloads](https://eng.uber.com/peloton)
+* [youtube 댓글 뷰어 만들기](https://brunch.co.kr/@skykamja24/220)
 
 # Walmart
 * [walmartlabs.com](http://www.walmartlabs.com/)
