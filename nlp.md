@@ -268,6 +268,8 @@ NLP
   * [NLU / Intent Detection Benchmark by Intento, August 2017](https://www.slideshare.net/KonstantinSavenkov/nlu-intent-detection-benchmark-by-intento-august-2017)
 * [콜라 좀… 쉽게 담을 수 없나요, 쓰앵님](http://woowabros.github.io/experience/2019/02/25/android-improve_shop-menu-explore_1.html) 메뉴 검색을 위해 초중종성 분리 검색 개발
 * [Machine Learning with Python: NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
+* [Concrete solutions to real problems](https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb)
+* [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1036,6 +1038,7 @@ NLP
 * [EUCLIDEAN DISTANCE FOR FINDING SIMILARITY](https://mlforanalytics.com/2018/04/01/euclidean-distance-for-finding-similarity/)
 * [PEARSON CORRELATION SCORE](https://mlforanalytics.com/2018/04/03/pearson-correlation-score/)
 * [AWS 람다(Lambda)로 실시간 추천하기 – 로켓펀치의 전문기술 정보](https://blog.rocketpunch.com/2018/07/26/specialty-recommendation/)
+* [WMD 문서 유사도 구하기 (word mover's distance)](https://www.youtube.com/watch?v=zFnrq5SmBdg)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
