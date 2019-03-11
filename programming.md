@@ -150,6 +150,8 @@ Programming
 * [2012년에 비트윈 서버를 마비시켰던 윤초 이야기](http://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
 * [Hot programming trends in 2016](https://opensource.com/article/16/12/yearbook-top-programming-trends-2016?sc_cid=701600000011jJaAAI)
 * [Dreyfus Model](http://blog.lastmind.io/archives/593)
+* [능력 있는 개발자는 어떻게 알아볼 수 있나? by 황준식님](https://okky.kr/article/370719)
+* [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * **[좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding)**
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
