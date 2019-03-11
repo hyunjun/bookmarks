@@ -134,6 +134,8 @@ PyTorch
 * [Proximal Policy Optimization Algorithms - PPO in PyTorch](http://blog.varunajayasiri.com/ml/ppo_pytorch.html)
 * [Pytorch Model summary](https://github.com/graykode/modelsummary)
 * [Developer Conference 2019](https://www.youtube.com/playlist?list=PLpnJjnJBNxUNzCu8dvWVZYBiZ-L-HX0UE)
+* [PyData Montreal slides for the talk: PyTorch under the hood](http://blog.christianperone.com/2019/02/pydata-montreal-slides-for-the-talk-pytorch-under-the-hood/)
+  * [PyTorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -197,6 +199,7 @@ PyTorch
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
 * [tensorboardX - Write TensorBoard events with simple function call](https://github.com/lanpa/tensorboard-pytorch)
+* [torchaudio-contrib](https://github.com/keunwoochoi/torchaudio-contrib)
 * [TorchCraftAI - a platform that lets you build agents to play (and learn to play) StarCraft®: Brood War](https://github.com/TorchCraft/TorchCraftAI)
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
