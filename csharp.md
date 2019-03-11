@@ -34,6 +34,7 @@ C#
 * [csharp-examples.net](http://www.csharp-examples.net/)
 * [Object-Oriented Programming Concepts “In Simple English”](https://medium.com/@yannmjl/object-oriented-programming-concepts-in-simple-english-3db22065d7d0)
 * [WPF MVVM 일주일 만에 배우기 - 책 소개](http://blog.wimy.com/451/)
+* [Announcing .NET Core 3 Preview](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-3/)
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)
