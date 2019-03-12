@@ -207,6 +207,9 @@ Apache
 * [Scalable machine learning library for Hive/Hadoop](https://github.com/myui/hivemall)
 * [Apache Hivemall: Machine Learning Library for Apache Hive/Spark/Pig](http://www.slideshare.net/myui/dots20161029-myui)
 
+# [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
+* 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
+
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 * [Accelerate Apache Spark SQL Queries](https://ignite.apache.org/use-cases/spark/sql-queries.html)
 * [Performance Tuning of an Apache Kafka/Spark Streaming System](https://mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system/)
