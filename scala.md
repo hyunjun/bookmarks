@@ -9,6 +9,7 @@ Scala
 * [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
+  * [Scala School!](https://kevin-lee.github.io/scala_school/)
 * [30분 scala](https://programmers.co.kr/learn/courses/12) 문법만 빠르게 홈페이지에서 살필 수 있음
 * [Scala For Beginners](https://workday.github.io/scala/2014/01/09/scala-for-beginners)
 * [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
@@ -50,6 +51,7 @@ Scala
   * [스칼라 제네릭스 (2019-01-25)](https://www.youtube.com/watch?v=zWa3-WeZ-TE#t=55m00s)
   * [라이브 코딩 (2019-02-22)](https://www.youtube.com/watch?v=jLOaG5KyPmU#t=1h17m50s)
   * [라이브 코딩 (2019-03-01)](https://www.youtube.com/watch?v=nPclhWaAsZU#t=1h26m20s)
+  * [(2019-03-08) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=YEPETRwHJXk) 트위터에서 만든 스칼라 사용 기술들, iceberg
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)
