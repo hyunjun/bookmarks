@@ -603,6 +603,7 @@ App
   * [페리스코프와 미어캣: 소셜미디어의 새로운 시대](http://newspeppermint.com/2015/04/02/m-broadcasting/)
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
 * [동물의 시선으로 세상을 바라보면…](http://techholic.co.kr/archives/38707)
+* [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
