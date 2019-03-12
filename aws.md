@@ -273,6 +273,7 @@ AWS
 * [클라우드상 오브젝트 스토리지(Object Storage)란?](https://medium.com/harrythegreat/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%83%81-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-object-storage-%EB%9E%80-9d9c2da57649)
 * [AWS Serverless를 위한 험난한 여정 — Part 1](https://medium.com/harrythegreat/aws-serverless%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%97%98%EB%82%9C%ED%95%9C-%EC%97%AC%EC%A0%95-part-1-56ab4be383f3)
 * [Pub/Sub with AWS SNS, SQS and Laravel](https://hackernoon.com/pub-sub-with-aws-sns-sqs-and-laravel-ed9f7e1bd79)
+* [Back-Pressure strategy: AWS SQS polling from a sharded Akka Cluster running on Kubernetes](https://medium.com/@programmerohit/back-pressure-implementation-aws-sqs-polling-from-a-sharded-akka-cluster-running-on-kubernetes-56ee8c67efb)
 * [로봇 개발 어떻게 해야되죠? (1/2) - AWS RoboMaker 따라하기 (ROS 어플리케이션 개발과 시뮬레이션 편)](http://woowabros.github.io/tools/2019/03/03/AWS_RoboMaker_Development_and_Simulation.html)
 
 # Athena
@@ -281,6 +282,7 @@ AWS
   * Schibsted가 S3에서 Athena를 SQL 엔진을 선택한 경험 소개
   * Amazon Athena, Amazon Redshift Spectrum, Presto, Hive 등을 평가
 * [Analyze Data in MongoDB with AWS](https://medium.com/rainist-engineering/analyze-data-in-mongodb-with-aws-43c25ef0592f)
+* [How to import Google BigQuery tables to AWS Athena](https://medium.freecodecamp.org/how-to-import-google-bigquery-tables-to-aws-athena-5da842a13539)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
