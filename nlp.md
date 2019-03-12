@@ -816,6 +816,7 @@ NLP
 
 # MOOC, Lecture
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+* [List of free resources to learn Natural Language Processing](https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
   * [CS224d 2017 video subtitles translation project for everyone](https://github.com/songys/CS224N_17_KOR_SUB)
