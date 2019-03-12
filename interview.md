@@ -402,6 +402,7 @@ Interview
 * [해외 기업과 연봉협상 하기전 반드시 조사할 것 3가지](https://www.youtube.com/watch?v=H3DgymDoKj0)
 * [RSUs vs. Stock options 다른 점은?](https://brunch.co.kr/@seungjoonlernnx/53)
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
+* [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 
 # Spotify
 * [스톡홀름에서의 인터뷰](https://brunch.co.kr/@worker-in-yvr/13)
