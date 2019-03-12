@@ -272,9 +272,7 @@ Java
   ```
   * `/lib/ld-linux.so.2: bad ELF interpreter: No such file or directory` `yum install ld-linux.so.2`
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
-* [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
-* [Oracle Massive Open Online Course: Java SE 8 Lambdas and Streams](https://apexapps.oracle.com/pls/apex/f?p=44785:141:6741890639894::NO:::)
 * [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams)
 * [Java 스트림 Stream (2) 고급](https://futurecreator.github.io/2018/08/26/java-8-streams-advanced/)
 * [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
@@ -284,7 +282,6 @@ Java
   * [모던 자바 (자바 8) - 못다한 이야기](https://www.youtube.com/playlist?list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27)
 * [New Features in Java SE 8: A Developer's Guide](https://www.youtube.com/watch?v=DCBIegEqKuo)
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
-* [Using Lambdas to Write Mixins in Java 8](http://www.javaspecialists.eu/talks/pdfs/2014%20JavaDay%20in%20Athens,%20Greece%20-%20%22Using%20Lambdas%20to%20Write%20Mixins%20in%20Java%208%22%20by%20Heinz%20Kabutz.pdf)
 * [String concatenation with Java 8](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
 * [JDK8 오라클 튜토리얼 번역](http://wiki.jbugkorea.org/plugins/servlet/mobile#content/view/1050527)
 * [for-loop 를 Stream.forEach() 로 바꾸지 말아야 할 3가지 이유](http://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/index.html)
@@ -373,6 +370,16 @@ Java
 * [The Way of the Lambda and removeIf()](https://dzone.com/articles/the-way-of-the-lambda-and-removeif)
 * [람다를 활용한 java8의 Callable, Runnable 예제](http://knight76.tistory.com/entry/%EB%9E%8C%EB%8B%A4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-java8%EC%9D%98-Callable-Runnable-%EC%98%88%EC%A0%9C)
 * [Lambda Expression in Java](http://haroonrasheedafridi.blogspot.com/2018/01/lambda-expression-in-java.html)
+* [JDK 8 Massive Open and Online Course: Lambdas and Streams Introduction](https://apexapps.oracle.com/pls/apex/f?p=44785%3A145%3A0%3A%3A%3A%3AP145_EVENT_ID%2CP145_PREV_PAGE%3A4887%2C143)
+* [Oracle Massive Open Online Course: Java SE 8 Lambdas and Streams](https://apexapps.oracle.com/pls/apex/f?p=44785:141:6741890639894::NO:::)
+* [Using Lambdas to Write Mixins in Java 8](http://www.javaspecialists.eu/talks/pdfs/2014%20JavaDay%20in%20Athens,%20Greece%20-%20%22Using%20Lambdas%20to%20Write%20Mixins%20in%20Java%208%22%20by%20Heinz%20Kabutz.pdf)
+* [Java Lambda (1) 기본](https://futurecreator.github.io/2018/07/19/java-lambda-basics/)
+* [Java Lambda (2) 타입 추론과 함수형 인터페이스](https://futurecreator.github.io/2018/07/20/java-lambda-type-inference-functional-interface/)
+* [Java Lambda (3) 메소드 참조](https://futurecreator.github.io/2018/08/02/java-lambda-method-references/)
+* [Java Lambda (4) 기본으로 제공되는 함수형 인터페이스](https://futurecreator.github.io/2018/08/02/java-jdk-functional-interfaces-api/)
+* [Java Lambda (5) 변수 범위](https://futurecreator.github.io/2018/08/02/java-lambda-variable-scope/)
+* [Java Lambda (6) 예외 처리](https://futurecreator.github.io/2018/08/09/java-lambda-handling-exception/)
+* [Java Lambda (7) 람다와 클로저](https://futurecreator.github.io/2018/08/09/java-lambda-and-closure/)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
