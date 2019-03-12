@@ -1174,6 +1174,7 @@ Deep Learning
 * [Encrypting Different Medical Images using Deep Neural Network with Interactive Code](https://towardsdatascience.com/encrypting-different-medical-images-using-deep-neural-network-with-interactive-code-b47656dcd1e)
 * [A machine learning survival kit for doctors](https://medium.com/owkin/a-machine-learning-survival-kit-for-doctors-97982d69a375)
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
+* [HeLP-Challenge-Goldenpass](https://github.com/Taeu/HeLP-Challenge-Goldenpass)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
@@ -1480,6 +1481,7 @@ Deep Learning
   * [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
   * [How do we capture structure in relational data?](https://thegradient.pub/structure-learning/)
   * [Graph Convolutional Networks for relational graphs](https://github.com/tkipf/relational-gcn) keras
+  * [Graph Convolutional Neural Networks](https://www.slideshare.net/uspace/graph-convolutional-neural-networks)
 * [Graph Nets - DeepMind's library for building graph networks in Tensorflow and Sonnet](https://github.com/deepmind/graph_nets)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
