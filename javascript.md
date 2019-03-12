@@ -694,7 +694,6 @@ Javascript
 * [Start your own graphql server within 5 minutes - zeit micro + apollo server + zeit now](https://engineering.huiseoul.com/start-your-own-graphql-server-within-5-minutes-dfad1bf6c532)
 * [NodeJS GraphQL Micro-services using Remote Stitching](https://codeburst.io/nodejs-graphql-micro-services-using-remote-stitching-7540030a0753)
 * [Five Common Problems in GraphQL Apps (And How to Fix Them)](https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c)
-* [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
 * [Securing Your GraphQL API from Malicious Queries](https://dev-blog.apollodata.com/securing-your-graphql-api-from-malicious-queries-16130a324a6b)
 * [When Is It Advised To Use GraphQL For A Ruby On Rails App With React?](https://medium.com/swlh/when-is-it-advised-to-use-graphql-for-a-ruby-on-rails-app-with-react-ac4a4d99a422)
 * [How GraphQL Replaces Redux](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
@@ -733,6 +732,9 @@ Javascript
 * [How to setup a powerful API with GraphQL, Koa and MongoDB](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-339cfae832a1)
 * [How to set-up a powerful API with GraphQL, Koa, and MongoDB — CRUD](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-graphql-koa-and-mongodb-crud-4459fc0720d4)
 * [An intro to mutations in GraphQL: what they are and how to use them](https://medium.freecodecamp.org/an-intro-to-mutations-in-graphql-what-they-are-and-how-to-use-them-e959735abd8d)
+* [Prisma - replaces traditional ORMs](https://www.prisma.io/) 
+  * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
+  * [요즘 핫한 백엔드 데이터베이스 Prisma 를 알아보자](https://www.youtube.com/watch?v=boZ73EEniFI)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
