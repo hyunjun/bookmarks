@@ -242,6 +242,7 @@ Algorithm
 * [Programming Interview:Algorithm:Dynamic Programming: Coin Changing Problem](https://www.youtube.com/watch?v=tduLvFbqRXE)
 * [Dynamic Programming vs Divide-and-Conquer](https://itnext.io/dynamic-programming-vs-divide-and-conquer-2fea680becbe)
 * [Change the signs: how to use dynamic programming to solve a competitive programming question](https://medium.freecodecamp.org/just-change-the-signs-how-to-solve-a-competitive-programming-question-f9730e8f04a9)
+* [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
