@@ -209,6 +209,8 @@ Apache
 
 # [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
 * 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
+* [Iceberg: a fast table format for S3](https://www.slideshare.net/Hadoop_Summit/iceberg-a-fast-table-format-for-s3-103201179)
+* [Iceberg: a fast table format for S3](https://www.youtube.com/watch?v=nWwQMlrjhy0)
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 * [Accelerate Apache Spark SQL Queries](https://ignite.apache.org/use-cases/spark/sql-queries.html)
