@@ -333,6 +333,7 @@ Web
   * [Swagger로 API 문서 자동화하기](http://jojoldu.tistory.com/31)
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
   * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/detail/292)
+  * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
 * [Trafik - A modern reverse proxy](http://traefik.github.io/)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
