@@ -11,6 +11,6 @@ do
   cat $FILENAME | sed -e 's/	/  /g' > $FILENAME.tmp
   mv $FILENAME.tmp $FILENAME
 done
-git diff $FILENAMES | grep '^[+-][ ]\{0,\}\*[^+]' | sed -e 's/\](/ /' | sed -e 's/)$//' | sed -e 's/\/$//' | pbcopy
+git diff $FILENAMES | grep '^[+-][#\*]\{0,\}[ ]\{0,\}[^+]' | sed -e 's/\](/ /' | sed -e 's/)$//' | sed -e 's/\/$//' | pbcopy
 git add $FILENAMES
 git commit
