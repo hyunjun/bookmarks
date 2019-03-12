@@ -159,7 +159,6 @@ Git
 * [Git 명령어 정리](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
 * **[Oh shit, git!](http://ohshitgit.com/)** 실수했을 때 case별 대처법
 * [내 시간을 절약하는 소중한 git 명령어들](http://sunphiz.me/wp/archives/2558)
-* [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
 * [Now that you’re not afraid of GIT anymore, here’s how to leverage what you know](https://medium.freecodecamp.org/now-that-youre-not-afraid-of-git-anymore-here-s-how-to-leverage-what-you-know-11e710c7f37b)
   * merge, remote, push, pull, reset
 * [Personalizing GIT: Aliasing commands](https://koukia.ca/personalizing-git-aliasing-commands-4dda73b54081)
@@ -302,6 +301,9 @@ Git
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
   * `git diff ... --name-only`
   * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
+* gitignore
+  * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
+  * [gitignore.io](https://www.gitignore.io/)
 * hook
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [훅으로 Git에 훅 들어가기](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
