@@ -5,6 +5,7 @@ Scala
 * [scalatimes.com](https://scalatimes.com/)
 * [medium.com/tag/scala](https://medium.com/tag/scala)
 * [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
+* [Scala Recipes: A "HelloWorld" in Scala](https://medium.com/@caiquerodrigues/scala-recipes-a-helloworld-in-scala-d578238cd7fe)
 * [자바 프로그래머를 위한 스칼라 튜토리얼](http://docs.scala-lang.org/ko/tutorials/scala-for-java-programmers.html)
 * [Scala School!](http://twitter.github.io/scala_school/index.html)
   * [스칼라 학교!](http://twitter.github.io/scala_school/ko/index.html)
@@ -30,6 +31,7 @@ Scala
 * [Quickly learning the basics of Scala through Structure and Interpretation of Computer Programs examples (Part 1)](https://medium.com/@matthagy/quickly-learning-the-basics-of-scala-through-structure-and-interpretation-of-computer-programs-ed5bfa90e8dc)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
 * [Closures in Scala](https://medium.com/@senthil.nayagan/closures-in-scala-85b3a0cfd40f)
+* [Whats are Closures in Scala](https://medium.com/@senthil.nayagan/whats-are-closures-in-scala-eda698ced70c)
 * 케빈 TV
   * [시즌2 - 게릴라 방송 1회](https://www.youtube.com/watch?v=tu9xorHYBlM)
   * [시즌2 - 게릴라 방송 2회](https://www.youtube.com/watch?v=hiCA194VLZk)
@@ -80,6 +82,7 @@ Scala
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
+* [Parallel External Sorting](https://medium.com/@rvprasad/parallel-external-sorting-175c7a9247cb)
 * [scala.bythebay.io](http://scala.bythebay.io/)
   * [Scala meetup dick wall](https://www.youtube.com/watch?v=-psE66Ds7Lk)
 * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
@@ -213,6 +216,7 @@ Scala
   * [An intro to the Unison language and compilation via partial evaluation](http://slides.com/pchiusano/unison-scala-world-2017)
 * [Fast Immutable Interval Sets—Rüdiger Klaehn](https://www.youtube.com/watch?v=Lb07lshL4cw)
 * [Is your Scala object always a singleton?](https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9)
+* [Singleton Object in Scala](https://medium.com/@senthil.nayagan/singleton-object-in-scala-63fa8366bdfc)
 * [Maintaining Binary Compatibility in Scala](https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23)
 * [The Ultimate Scala Serverless Lambda Deployment using Travis CI](https://medium.com/@5tigerjelly/the-ultimate-scala-serverless-lambda-deployment-using-travis-ci-18ddc681769f)
 * [Testable toggles in Scala](https://medium.com/@swa.khandekar/testable-toggles-in-scala-67bfaf80b13a)
@@ -221,6 +225,7 @@ Scala
 * [Lucene Multi Term Query field search working example in Scala](https://medium.com/@adrian.n/lucene-multi-term-query-field-search-working-example-in-scala-efb7648cf89b)
 * [Interactively exploring Reddit posts using basic Scala in your browser](https://towardsdatascience.com/interactively-exploring-reddit-posts-using-basic-scala-in-your-browsers-f394843069de)
 * [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
+* [Weird Case of Scala Compiler Slow Performance](https://medium.com/@Ivanobulo/weird-case-of-scala-compiler-slow-performance-70463b8c8a5a)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -365,6 +370,7 @@ Scala
 * case class
   * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
   * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+  * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
@@ -455,6 +461,8 @@ Scala
 * test
   * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
   * [Tagless with Discipline — Testing Scala Code The Right Way](https://medium.com/iterators/tagless-with-discipline-testing-scala-code-the-right-way-e74993a0d9b1)
+  * [Use docker container in Scala testcases](https://medium.com/@takezoe/use-docker-container-in-scala-testcases-2745ae3a5fd1)
+  * [Functional Testing with Tagless-Final](https://medium.com/wix-engineering/functional-testing-with-tagless-final-50eeacf5df6)
   * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
     * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
     * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
@@ -662,6 +670,7 @@ Scala
 * [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
+* [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -694,6 +703,7 @@ Scala
 * [Sub-project management via sbt](https://medium.com/@linda0511ny/sub-project-management-via-sbt-26e9f7bccbad)
 * [running sbt on Docker](http://eed3si9n.com/sbt-on-docker)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* [The basics of the build.sbt](https://medium.com/@pwdd/the-basics-of-the-build-sbt-bbf81a0aa8d0)
   
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
@@ -720,6 +730,7 @@ Scala
 * [Scala Back to Basics: Type Classes byTomer Gabel](https://www.youtube.com/watch?v=SsOhrYuCuns)
 * [Typeclasses for Beginners](https://medium.com/@awesomeorji/typeclasses-for-beginners-763081a720f7)
 * [Scala Typeclasses](https://medium.com/@pvinchon/scala-typeclasses-cec4b5f64744)
+* [The Transaction Type Class](https://medium.com/mediarithmics-engineering/the-transaction-type-class-f9f6f761d959)
 * [OOP vs. FP. The pursuit of extensibility part #2](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)]
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
