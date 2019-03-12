@@ -436,6 +436,7 @@ ElasticSearch - Lucene
     * NEST는 하이 레벨, Elasticsearch.Net은 로우 레벨 라이브러리
 * [nested-fields-support - This plugin adds support for nested fields to Kibana](https://github.com/ppadovani/KibanaNestedSupportPlugin)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
+* [Open Distro for Elasticsearch](https://opendistro.github.io/for-elasticsearch/)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)
   * [Welcome Prelert to the Elastic Team](https://www.elastic.co/blog/welcome-prelert-to-the-elastic-team)
 * [pyes - Python connector for ElasticSearch - the pythonic way to use ElasticSearch](https://github.com/aparo/pyes)
