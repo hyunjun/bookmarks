@@ -424,6 +424,11 @@ Javascript
 * [다음 자바스크립트 코드에서 오류는?](http://jhrogue.blogspot.com/2019/02/b.html)
 * [JAVASCRIPT GETTER-SETTER PYRAMID](https://staltz.com/javascript-getter-setter-pyramid.html)
   * [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
+* [How to use the apply(💅), call(📞), and bind(➰) methods in JavaScript](https://medium.freecodecamp.org/how-to-use-the-apply-call-and-bind-methods-in-javascript-80a8e6096a90)
+* [When to capitalize your JavaScript constants](https://medium.freecodecamp.org/when-to-capitalize-your-javascript-constants-4fabc0a4a4c4)
+* [Here are the most popular ways to make an HTTP request in JavaScript](https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa)
+* [JavaScript naming conventions: do’s and don’ts](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
+* [JavaScript Symbols: But Why?](https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -489,6 +494,7 @@ Javascript
 * [Version 7 of Angular — CLI Prompts, Virtual Scroll, Drag and Drop and more](https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c)
 * [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 * [Understanding Change Detection Strategies in Angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
+* [Boost Angular’s Performance by Lazy Loading your Modules](https://blog.bitsrc.io/boost-angulars-performance-by-lazy-loading-your-modules-ca7abd1e2304)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -767,6 +773,7 @@ Javascript
 * [10 JavaScript Animation Libraries to Follow in 2018](https://hackernoon.com/10-javascript-animation-libraries-to-follow-in-2018-50ff1d905f43)
 * [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 * [6 JavaScript User Authentication Libraries for 2019](https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458)
+* [11 Material Design UI Component Libraries for 2019](https://blog.bitsrc.io/11-material-design-ui-component-libraries-for-2018-b3d2c9962a2f)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
@@ -968,6 +975,7 @@ Javascript
   * [Node Passport를 이용한 Login](https://cheese10yun.github.io/Passport-part1/)
   * [Node Passport를 이용한 Login + Mysql](https://cheese10yun.github.io/passport-mysql/)
   * [Passport를 이용한 네이버, 카카오, 페이스북 로그인](http://engineeryun.tistory.com/entry/Passport%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81-%EB%A1%9C%EA%B7%B8%EC%9D%B8-1)
+  * [Learn how to handle authentication with Node using Passport.js](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
@@ -1638,6 +1646,7 @@ Javascript
 * [카카오페이지 웹 React 포팅 후기](https://medium.com/@ljs0705/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9B%B9-react-%ED%8F%AC%ED%8C%85-%ED%9B%84%EA%B8%B0-76402cc5e031)
 * [React Testing Tutorial: Test Frameworks & Component Tests](https://www.robinwieruch.de/react-testing-tutorial/)
   * [번역 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr/)
+* [Unit Testing React Components](https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2)
 * [React Application Performance Optimization](https://seokjun.kim/react-application-performance-optimization/)
 * [How to deploy a React application to Netlify that reads from a Google Sheet](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-that-reads-from-a-google-sheet-97a015806c47)
 * [How to deploy a React application to Netlify](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985)
@@ -1685,6 +1694,8 @@ Javascript
 * [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [Introducing React Hooks](https://john015.github.io/introducing-react-hooks)
 * [React hooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
+* [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
+* [Why I’m excited with React Hooks?](https://itnext.io/why-im-excited-with-react-hooks-5a8601ac43f7)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
@@ -1743,6 +1754,7 @@ Javascript
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
+* [Understanding React PropTypes - Type-Checking in React](https://blog.bitsrc.io/understanding-react-proptypes-type-checking-in-react-9648a62ce12e)
 * [Build a full-featured Modal dialog Form with React](https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571)
 * [React Training - High-quality open source software from React Training](https://github.com/ReactTraining)
 * [Building a React Autocomplete Component from scratch](https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14)
@@ -1752,6 +1764,7 @@ Javascript
 * [Improving Performance in React Functional Components using React.memo()](https://blog.bitsrc.io/improve-performance-in-react-functional-components-using-react-memo-b2e80c11e15a)
 * [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
 * [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
+* [A Hypothesis On How React.js Became So Popular](https://blog.usejournal.com/a-hypothesis-on-how-react-js-became-so-popular-dc5953c67cf6)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
