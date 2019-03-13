@@ -15,7 +15,6 @@ ElasticSearch - Lucene
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)
 * [ElasticSearch와 Heap 메모리](https://brunch.co.kr/@alden/35)
 * [A Heap of Trouble: Managing Elasticsearch's Managed Heap](https://www.elastic.co/blog/a-heap-of-trouble)
-* [ElasticSearch, OOM을 막아보자](https://brunch.co.kr/@alden/40)
 * example
   * [installation, example json, and delete - create index - search - search all](https://gist.github.com/hyunjun/c3c0dbd13f50d5242ffb)
     * [Analyzers in elasticsearch](http://stackoverflow.com/questions/12836642/analyzers-in-elasticsearch)
@@ -253,7 +252,9 @@ ElasticSearch - Lucene
 * [Elasticsearch의 색인 별명 활용 팁](https://www.ridicorp.com/blog/2018/11/20/index-aliases)
 * [Elastic Stack with 여기어때](https://github.com/HowookJeong/withinnovation/blob/master/shared-documents/Elasticsearch-Meetup-with-%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-20181213.pdf)
 * [Infrastructure and Logs UI: New ways for Ops to interact with Elasticsearch](https://www.elastic.co/blog/infrastructure-and-logs-ui-new-ways-for-ops-to-interact-with-elasticsearch)
+* [ElasticSearch, OOM을 막아보자](https://brunch.co.kr/@alden/40)
 * **[G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)** G1 GC vs. CMS GC
+* **[CMS GC, NewRatio 튜닝하기](https://brunch.co.kr/@alden/47)**
 * [Elastic Maps Service 한국지도 추가](http://kimjmin.net/2019/01/2019-01-korea-region-map/)
 * [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
 * [Improving Customer Experience with Geo Capabilities at the UK’s Biggest Property Portal](https://www.elastic.co/elasticon/conf/2018/sf/improving-customer-experience-with-geo-capabilities-at-the-uks-biggest-property-portal)
