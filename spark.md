@@ -405,6 +405,7 @@
   * [join 예제](http://knight76.tistory.com/entry/spark-join-%EC%98%88%EC%A0%9C)
   * [Joins in Apache Spark — Part 1](https://medium.com/@akhilanand.bv/https-medium-com-joins-in-apache-spark-part-1-dabbf3475690)
   * [Joins in Apache Spark — Part 2](https://medium.com/@akhilanand.bv/https-medium-com-joins-in-apache-spark-part-2-5b038bc7455b)
+  * [Joins in Apache Spark — Part 3](https://medium.com/@achilleus/https-medium-com-joins-in-apache-spark-part-3-1d40c1e51e1c)
 * persist
   * [RDD persist() or cache() 시 주의사항](http://tomining.tistory.com/84)
 * SQL
