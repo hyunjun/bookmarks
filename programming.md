@@ -807,6 +807,7 @@ Programming
 * [How to choose the right container orchestration and how to deploy it](https://medium.freecodecamp.org/how-to-choose-the-right-container-orchestration-and-how-to-deploy-it-41844021c241)
 * [라이더스 개발팀 모바일에서 CI/CD 도입](http://woowabros.github.io/experience/2018/06/26/bros-cicd.html)
 * [개발 (CODING) 하는 회사에서 제일 기본적으로 갖추어져야 하는것 1 - 릴리스 파이프라인 (Release Pipeline)](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EA%B0%9C%EB%B0%9C-coding-%ED%95%98%EB%8A%94-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%A0%9C%EC%9D%BC-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%A0%B8%EC%95%BC-%ED%95%98%EB%8A%94%EA%B2%83-1-%EB%A6%B4%EB%A6%AC%EC%8A%A4-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-release-pipeline/10156481526308462)
+* [Agile + DevOps EAST 2018에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/agile-devops-east-2018/)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
@@ -1103,6 +1104,7 @@ Programming
   * [2월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/02/b-2-2.html)
   * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/02/b-2-3.html)
   * [2월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/02/b-2-4.html)
+  * [3월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/03/b-3-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
