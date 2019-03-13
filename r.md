@@ -270,6 +270,7 @@ R
 * [R 정규표현식 : ERE vs. PCRE](https://medium.com/@khkim_93600/r-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-ere-vs-pcre-39014b9c4dc5)
 * [How to visualise a Dataset according to its Class variables in R](https://setscholars.net/2019/03/02/how-to-visualise-a-dataset-according-to-its-class-variables-in-r/)
 * [긴 형태(Long form),넓은 형태(Wide form) 변환](http://ds.sumeun.org/?p=930)
+* [USEFUL R BASE FUNCTIONS](http://lumiamitie.github.io/r/useful-r-base-fun/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -346,6 +347,7 @@ R
   * [dplyr로 DB 데이터를 다룰 때 여러 테이블을 union 해보자](https://mrchypark.github.io/post/rtips-dplyr%EB%A1%9C-db-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%8B%A4%EB%A3%B0-%EB%95%8C-%EC%97%AC%EB%9F%AC-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9D%84-union-%ED%95%B4%EB%B3%B4%EC%9E%90)
   * [dplyr 문법을 통한 전처리를 SQL 로의 스위칭](https://lovetoken.github.io/r/2018/11/24/dplyrquery.html)
   * [R에서 dplyr 0.8.0 업데이트에 따른 요인별 집계의 신규 함수 중 group_map() 함수 활용예제](https://lovetoken.github.io/r/2019/02/24/dplyr080.html)
+  * [USEFUL DPLYR FUNCTIONS](http://lumiamitie.github.io/r/dplyr-useful-fun/)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
 * [ezpickr: Convenient package/function for choosing any rectangular data file using interactive GUI dialog box](https://jooyoungseo.github.io/ezpickr/)
   * pick() 함수를 호출하면 GUI 파일 선택 대화상자가 열리고, 대화상자에서 선택한 파일의 확장자에 따라 적절한 파일 임포팅 패키지::함수를 자동으로 매치
