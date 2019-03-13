@@ -135,6 +135,7 @@ Math
 * [THE $25,000,000,000∗ EIGENVECTOR THE LINEAR ALGEBRA BEHIND GOOGLE](http://www.rose-hulman.edu/~bryan/googleFinalVersionFixed.pdf)
 * [The Smallest Eigenvalues of a Graph Laplacian](http://blog.shriphani.com/2015/04/06/the-smallest-eigenvalues-of-a-graph-laplacian/)
 * [What are Eigenvalues and Eigenvectors?](https://medium.com/fintechexplained/what-are-eigenvalues-and-eigenvectors-a-must-know-concept-for-machine-learning-80d0fd330e47)
+* [고유값(eigenvalue) 고유벡터(eigenvector)의 의미](https://losskatsu.github.io/linearalgebra/eigen/#%EA%B3%A0%EC%9C%A0%EA%B0%92-%EA%B3%A0%EC%9C%A0%EB%B2%A1%ED%84%B0%EC%9D%98-%EC%9D%98%EB%AF%B8)
 * [Tutorial on Probabilistic Context‐Free Grammars](https://courses.cs.washington.edu/courses/cse590a/09wi/pcfg.pdf)
 * [Visualizing matrix multiplication as a linear combination](http://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/)
 * [Solving the Closest Vector Problem in 2n Time--- The Discrete Gaussian Strikes Again!](http://arxiv.org/abs/1504.01995)
