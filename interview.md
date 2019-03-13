@@ -181,6 +181,9 @@ Interview
   * [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
   * [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
   * [Crack the System Design interview: tips from a Twitter software engineer](https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26) 기초적인 부분과 자신이 참고한 다양한 link들
+  * [System Design Interview - Part 1 Approach and structure](https://www.youtube.com/watch?v=0163cssUxLA)
+  * [System Design Interview - Part 2 How To Improve](https://www.youtube.com/watch?v=DggPVpQmrsg)
+  * [System Design Interview - Part 3 Communicate effectively](https://www.youtube.com/watch?v=GcE-a7zO2N0)
 * Problems
   * [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
   * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
