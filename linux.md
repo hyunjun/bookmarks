@@ -69,6 +69,7 @@ Linux
 * [Linux 서버에 JIRA 설치하기](https://jungwoon.github.io/jira/2018/04/04/Install-JIRA-On-Demand/)
 * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/compute%20engine/2018/04/13/Data-JIRA-Installation-On-GCE/)
 * [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://www.youtube.com/watch?time_continue=1&v=JbH-xzD7IkE)
+* **[파일(file)에 대한 토막글](https://sunyzero.tistory.com/260)**
 * **[Java, max user processes, open files](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html)**
   * [java, open files, max user processes](http://jojoldu.tistory.com/287)
 * [Julia's drawing](https://drawings.jvns.ca/)
