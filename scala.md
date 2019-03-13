@@ -228,6 +228,7 @@ Scala
 * [Interactively exploring Reddit posts using basic Scala in your browser](https://towardsdatascience.com/interactively-exploring-reddit-posts-using-basic-scala-in-your-browsers-f394843069de)
 * [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
 * [Weird Case of Scala Compiler Slow Performance](https://medium.com/@Ivanobulo/weird-case-of-scala-compiler-slow-performance-70463b8c8a5a)
+* [Machine Learning with Scala in Google Colaboratory](https://medium.com/@shadaj/machine-learning-with-scala-in-google-colaboratory-e6f1661f1c88)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -565,6 +566,7 @@ Scala
   * [Spark RDD save Object as Kryo file](https://gist.github.com/XuefengWu/ba24e5bc593806196428)
 * [lagom - The opinionated microservices framework for moving away from the monolith](https://www.lagomframework.com/)
   * [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
+  * [Rapid and Highly Scalable Development Using Scala and Lagom](https://medium.com/@coreyauger/rapid-and-highly-scalable-development-using-scala-and-lagom-17a9205da42b)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
@@ -654,6 +656,7 @@ Scala
   * [Understanding Play2 Iteratees for Normal Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/)
   * [APIs and Microservices with Scala and Play](https://www.youtube.com/watch?v=jaZIilhjcDw)
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
+  * [Play Scala with maven](https://medium.com/@Methrat0n/play-scala-with-maven-a3cac393b0e6)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
