@@ -842,6 +842,7 @@ Programming
 * [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
 * [DevOps 오픈소스 트랜드 (클라우드, 모바일 중심)](https://www.slideshare.net/arload/devops-125948933/arload/devops-125948933)
 * [Devops를 위한 인터뷰 문제](http://jhrogue.blogspot.com/2019/01/b-devop.html)
+* [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
