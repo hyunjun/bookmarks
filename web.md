@@ -258,6 +258,7 @@ Web
   * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
+* [Dataset creation and cleaning: Web Scraping using Python — Part 1](https://towardsdatascience.com/dataset-creation-and-cleaning-web-scraping-using-python-part-1-33afbf360b6b)
 
 # CSS
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
