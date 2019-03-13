@@ -205,6 +205,8 @@ Go
 * [Parallel Merge Sort in Go](https://hackernoon.com/parallel-merge-sort-in-go-fe14c1bc006)
 * [Good Code vs Bad Code in Golang](https://medium.com/@teivah/good-code-vs-bad-code-in-golang-84cb3c5da49d)
 * [Build You Own Web Framework In Go](https://www.nicolasmerouze.com/build-web-framework-golang/)
+* [GoLand에서 delve로 원격 디버깅하기](https://blog.outsider.ne.kr/1433)
+* [NAVER Tech Talk: Golang 밋업(2018년 8월, 2019년 1월)](https://d2.naver.com/news/3383672)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
