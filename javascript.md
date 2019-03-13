@@ -64,6 +64,7 @@ Javascript
   * [#3-9 Getting the Weather part One Geolocation](https://www.youtube.com/watch?v=5fAMu2ORvDA)
   * [#3-10 Getting the Weather part Two API](https://www.youtube.com/watch?v=l6hSze8vgVo)
   * [#3-11(끝) Conclusions](https://www.youtube.com/watch?v=xZeyDkpJ3V8)
+* [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
@@ -284,6 +285,8 @@ Javascript
 * [Removing JavaScript’s “this” keyword makes it a better language. Here’s why](https://medium.freecodecamp.org/removing-javascripts-this-keyword-makes-it-a-better-language-here-s-why-db28060cc086)
 * [A guide to this in JavaScript](https://medium.freecodecamp.org/a-guide-to-this-in-javascript-e3b9daef4df1)
 * [The ‘this’ keyword in JavaScript, demystified](https://itnext.io/the-this-keyword-in-javascript-demystified-c389c92de26d)
+* [How to understand the keyword this and context in JavaScript](https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8)
+* [The magic of the “this” keyword in JavaScript](https://medium.freecodecamp.org/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
@@ -297,7 +300,6 @@ Javascript
 * [Javascript Image Filter - convolution](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-convolve)
 * [자바스크립트 실행 문맥(Execution Context)의 기본동작](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
 * [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
-* [How to understand the keyword this and context in JavaScript](https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8)
 * [JavaScript Stack from Scratch #0](https://medium.com/@jinro4/%EB%B2%88%EC%97%AD-javascript-stack-from-scratch-0-2bb0898c322)
 * [HTML5 Games Workshop](https://mozdevs.github.io/html5-games-workshop/)
   * [HTML5 게임 워크샵: JavaScript로 오락실 게임을 만들어보세요!](http://hacks.mozilla.or.kr/2017/05/html5-games-workshop-make-a-platformer-game-with-javascript/)
@@ -429,6 +431,7 @@ Javascript
 * [Here are the most popular ways to make an HTTP request in JavaScript](https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa)
 * [JavaScript naming conventions: do’s and don’ts](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
 * [JavaScript Symbols: But Why?](https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c)
+* [How I established a good release process in JavaScript](https://medium.freecodecamp.org/how-i-established-a-good-release-process-in-javascript-b93e57e247e1)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1767,6 +1770,7 @@ Javascript
 * [How the “Golden Rule” of React components can help you write better code](https://medium.freecodecamp.org/how-the-golden-rule-of-react-components-can-help-you-write-better-code-127046b478eb)
 * [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
 * [A Hypothesis On How React.js Became So Popular](https://blog.usejournal.com/a-hypothesis-on-how-react-js-became-so-popular-dc5953c67cf6)
+* [How to Write UI components with optionally controllable state](https://medium.com/quick-code/writing-ui-components-with-optionally-controllable-state-86e396a6f1ec)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
