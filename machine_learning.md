@@ -393,6 +393,7 @@ Machine Learning
 * [An Opinionated Introduction to AutoML and Neural Architecture Search](https://www.fast.ai/2018/07/16/auto-ml2/)
 * [AutoML Automatic Machine Learning Challenge & Lessons](http://slides.com/streguer/automl/fullscreen)
 * [AutoML](http://khanrc.github.io/tags/#AutoML)
+* [How to Beat Google’s AutoML - Hyperparameter Optimisation with Flair](https://towardsdatascience.com/how-to-beat-automl-hyperparameter-optimisation-with-flair-3b2f5092d9f5)
 * [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
 * [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
 * [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a.html)
