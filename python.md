@@ -370,6 +370,7 @@ Python
 * [stdout_009.log: PEP 572, PEP 8000, Python Software Foundation](https://stdout.fm/9/)
 * [Dependency Injection in Python: The Java Guy’s Perspective - Dependency Injection (DI) in Python? Seriously?](https://medium.com/ki-labs-engineering/dependency-injection-in-python-the-java-guys-perspective-6f96d672c5e7)
 * [How to write a simple toy database in Python within minutes](https://medium.freecodecamp.org/how-to-write-a-simple-toy-database-in-python-within-minutes-51ff49f47f1)
+* [Python APIs - APIs are an easy and standardized way to access information across different companies](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-api) Google, Yelp, Youtube
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2146,6 +2147,7 @@ Python
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
   * [이미지 GPS 정보 추출하기](https://cpuu.postype.com/post/23100)
   * [How to Resize, Pad Image to Square Shape and Keep Its Aspect Ratio With Python](https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/)
+  * [How to build an image type convertor in six lines of Python](https://medium.freecodecamp.org/how-to-build-an-image-type-convertor-in-six-lines-of-python-d63c3c33d1db)
 * [Pillow, the friendly PIL fork](https://python-pillow.org/)
   * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief ](https://github.com/fengsp/color-thief-py)
   * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)
@@ -3034,3 +3036,4 @@ Python
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
 * [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
+* [Lesson One Video - Intro to the VBA Model in Python](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-vba)
