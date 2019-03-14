@@ -140,6 +140,7 @@ C++
 * [Livestream: Getting Started with C++](https://news.codecademy.com/getting-started-with-c-plus-plus-livestream/)
 * [Contract](https://docs.google.com/presentation/d/e/2PACX-1vQ-V30kyoYLwhJLnqOqIkZgk30zIOKG87sTN4UXnFOV2cPOouqBmlFErYxr3IDudZvM3Yd4gWyHaUaP/pub) design by contract
 * [팁 – 검색 표로 함수 호출하기](https://surpreem.com/%ED%8C%81-%EA%B2%80%EC%83%89-%ED%91%9C%EB%A1%9C-%ED%95%A8%EC%88%98-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0/)
+* [내가 쓰는 C++1x: Conditional Variable](https://www.youtube.com/watch?v=5R9u16q4IcI)
 
 # API
 * auto_ptr
