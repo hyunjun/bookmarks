@@ -1771,6 +1771,8 @@ Javascript
 * [Achieving Accessibility in React Applications](https://blog.bitsrc.io/achieving-accessibility-in-react-applications-d762f8f2a3e7)
 * [A Hypothesis On How React.js Became So Popular](https://blog.usejournal.com/a-hypothesis-on-how-react-js-became-so-popular-dc5953c67cf6)
 * [How to Write UI components with optionally controllable state](https://medium.com/quick-code/writing-ui-components-with-optionally-controllable-state-86e396a6f1ec)
+* [React.js: a better introduction to the most powerful UI library ever created](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
+* [0CJS (zero config javascript) support tool for React](https://github.com/iamssen/react-zeroconfig)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
