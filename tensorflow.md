@@ -624,6 +624,7 @@ TensorFlow
 * [UBUNTU 18.04 설치 #2-3 INSTALL TENSORFLOW WITH DOCKER](https://eungbean.github.io/2018/11/09/Ubuntu-Installation2-3/)
 * [텐서플로우(Tensorflow) GPU설치 (이보다 더 쉬울 수는 없다!)](https://javaxer.blogspot.com/2019/01/tensorflow-gpu.html)
 * [ImportError: libcudnn.so.7: cannot open shared object file: No such file or directory](https://jybaek.tistory.com/778)
+* [AI Practitioners Guide for Beginners](https://software.intel.com/en-us/articles/ai-practitioners-guide-for-beginners)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
