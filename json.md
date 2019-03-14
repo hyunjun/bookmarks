@@ -79,6 +79,7 @@ Json
 * [json-to-go](https://mholt.github.io/json-to-go/) json to go struct
 * [JSPON - JavaScript Persistent Object Notation](http://www.jspon.org/)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
+* [Korean JSON - 한국어 데이터를 제공하는 초간단 JSON API](https://koreanjson.com/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [open bucket - A simple API to store & retrieve JSON objects](http://openbucket.io/)
 * [python-jsonschema-objects - Automatic Python binding generation from JSON Schemas](https://github.com/cwacek/python-jsonschema-objects)
