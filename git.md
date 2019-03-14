@@ -153,6 +153,7 @@ Git
 * [The Biggest Misconception About Git](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
 * [The Google Doc of Coding: Git & GitHub](https://medium.freecodecamp.org/the-google-doc-of-coding-git-github-ec103e87926d)
 * [How to be more productive on GitHub](https://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3)
+* [Mac OS X 터미널에서 Git 패스워드 기억하기](https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
