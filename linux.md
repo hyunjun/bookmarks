@@ -315,6 +315,7 @@ Linux
   * [ssh key 효율적인 관리 방법](http://www.popit.kr/ssh-key-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95/)
   * [SSH known_host 메모](http://bcho.tistory.com/1227) ssh-keyscan
   * `ssh-keygen -R <ip>` [Host key verification failed 대처](http://uni2u.tistory.com/93)
+  * [A top-down introduction to SSH and how it enables secure data-sharing](https://medium.freecodecamp.org/a-top-down-introduction-to-ssh-965f4fadd32e)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
