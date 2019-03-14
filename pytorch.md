@@ -137,6 +137,7 @@ PyTorch
 * [PyData Montreal slides for the talk: PyTorch under the hood](http://blog.christianperone.com/2019/02/pydata-montreal-slides-for-the-talk-pytorch-under-the-hood/)
   * [PyTorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 * [Harmonic-percussive source separation in Pytorch](https://keunwoochoi.wordpress.com/2019/03/13/harmonic-percussive-source-separation-in-pytorch/)
+* [Inverse-STFT in Pytorch](https://keunwoochoi.wordpress.com/2019/03/14/inverse-stft-in-pytorch/)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
