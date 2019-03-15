@@ -283,6 +283,7 @@ AWS
   * Amazon Athena, Amazon Redshift Spectrum, Presto, Hive 등을 평가
 * [Analyze Data in MongoDB with AWS](https://medium.com/rainist-engineering/analyze-data-in-mongodb-with-aws-43c25ef0592f)
 * [How to import Google BigQuery tables to AWS Athena](https://medium.freecodecamp.org/how-to-import-google-bigquery-tables-to-aws-athena-5da842a13539)
+* [Athena를 Zeppelin과 함께 쓰기](https://b.luavis.kr/server/zeppelin-with-athena)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
