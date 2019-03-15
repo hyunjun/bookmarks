@@ -411,6 +411,7 @@ Algorithm
 * [glibc/stdlib/qsort.c quicksort](https://code.woboq.org/userspace/glibc/stdlib/qsort.c.html)
 * [Implementing Quicksort in JavaScript](https://itnext.io/implementing-quicksort-in-javascript-e1acfa16d033)
 * [Implementing Quicksort in JavaScript](https://medium.com/swlh/implementing-quicksort-in-javascript-6d4cd900b4c5)
+* [Let’s Sort It Out, The Quicksort Way](https://blog.usejournal.com/lets-sort-it-out-the-quicksort-way-9292e67cfc5e)
 
 ## Radix
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
