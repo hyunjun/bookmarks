@@ -1704,6 +1704,8 @@ Javascript
 * [React hooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
 * [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [Why I’m excited with React Hooks?](https://itnext.io/why-im-excited-with-react-hooks-5a8601ac43f7)
+* [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
+* [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
@@ -1717,7 +1719,6 @@ Javascript
 * [NAVER Tech Talk: FE devtalk 13회 (2018년 12월)](https://d2.naver.com/news/0327037) Polymer, Vue.js, Functional JS
 * [How to create a three layer application with React](https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0)
 * [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
-* [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
 * [react automata](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180913_WJ_react_automata.md)
 * [How to develop your React superpowers with the Render Props Pattern](https://medium.freecodecamp.org/how-to-develop-your-react-superpowers-with-the-render-props-pattern-b74e68c6d053)
 * [re-Understanding State Management in JavaScript by Building a Library Similar to Redux](https://hackernoon.com/building-a-redux-like-state-manager-for-react-cd75cc2853b3)
