@@ -1159,6 +1159,8 @@ NLP
 * [UNdreaMT: Unsupervised Neural Machine Translation](https://github.com/artetxem/undreamt) pytorch
 * [Neural Machine Translation : Everything you need to know](https://www.youtube.com/watch?v=yM2wqxhOb74)
 * [Neural Translation Model with Attention](https://medium.com/datadriveninvestor/neural-translation-model-95277838d17d)
+* [Word Piece Model (a.k.a sentencepiece)](https://lovit.github.io/nlp/2018/04/02/wpm/) RNN
+* [Character Word LSTM Language Models paper review](https://github.com/YBIGTA/DeepNLP-Study/wiki/Character-Word-LSTM-Language-Models-paper-review)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
