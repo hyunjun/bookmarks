@@ -360,6 +360,8 @@ Scala
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
 * [学ぼう！ コレクションフレームワーク](https://medium.com/nextbeat-engineering/%E5%AD%A6%E3%81%BC%E3%81%86-%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-4b6ffaaf42d5) collection framework
 * [Option, Either, State, and IO: Imperative programming in a functional world](https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81)
+* [Using Scala to Read Really, Really Large Files](https://medium.com/@morgen.peschke/using-scala-to-read-really-really-large-files-c9e3e9538bac)
+  * Comparisons of The Standard Libraries, better-files, Akka Streams, FS2 (I/O helpers), FS2 (core), Reference Implementation in Java
 * practice
   * [example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
   * [permutation by recursive call](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-permutation_in_scala-md)
@@ -759,6 +761,7 @@ Scala
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
 * [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
 * [Intersection Type in Scala?](https://medium.com/@Methrat0n/intersection-type-in-scala-5320dedf5cf)
+* [Scala Snippets #2: Dependent Types in Scala — A practical example](https://medium.com/@manish.katoch/scala-snippets-2-dependent-types-in-scala-a-practical-example-4c41427e531e)
 * [DOT: Scala Types from Theory to Practice—Nada Amin](https://www.youtube.com/watch?v=fjj_fv346lY)
 * [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
