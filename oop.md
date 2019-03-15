@@ -166,6 +166,7 @@
 # Ruby
 * **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
 * [Coding Dynamic Behavior with the Strategy Pattern](https://hackernoon.com/coding-dynamic-behavior-with-the-strategy-pattern-c0bebaee6671)
+* [An introduction to Object-Oriented Programming with Ruby](https://medium.freecodecamp.org/introduction-to-object-oriented-programming-with-ruby-d594e1c6eebe)
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
