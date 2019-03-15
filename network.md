@@ -90,3 +90,4 @@ Network
   * [1편](http://meetup.toast.com/posts/53)
   * [2편](http://meetup.toast.com/posts/54)
   * [3편](http://meetup.toast.com/posts/55)
+* [입개발 NAGLE 알고리즘과 TCP_CORK](https://charsyam.wordpress.com/2019/03/14/%EC%9E%85%EA%B0%9C%EB%B0%9C-nagle-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-tcp_cork/)
