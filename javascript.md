@@ -519,6 +519,7 @@ Javascript
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
+* [How I Refactor My Code](https://medium.com/@jochasinga/how-i-refactor-my-code-561aa9132045)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -968,6 +969,7 @@ Javascript
 * [NectarJS : compiling JavaScript into Native Binaries for Every Platform](https://codeburst.io/nectarjs-compiling-javascript-into-native-binaries-for-every-platform-2efb2083a4a)
 * [nestjs.com](https://nestjs.com/)
   * [Nest js를 소개 합니다](https://studystorage.blogspot.com/2019/03/nest-js.html)
+  * [nestjs와 loopback, 호기심을 자극하는 2019년의 nodejs 웹프레임워크](https://paperspoon.tistory.com/entry/nestjs%EC%99%80-loopback-%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-2019%EB%85%84%EC%9D%98-nodejs-%EC%9B%B9%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
 * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
