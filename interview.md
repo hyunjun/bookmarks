@@ -166,6 +166,7 @@ Interview
 * [두 번째 아마존 인터뷰](https://brunch.co.kr/@worker-in-yvr/18)
 * [아마존의 기업 문화](https://www.youtube.com/watch?v=BJdpoh695D4)
 * [How Is Software Developed At Amazon?](http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html)
+* [LEWIS C. LIN'S AMAZON INTERVIEW SPREADSHEET](https://www.lewis-lin.com/blog/2018/6/13/lewis-c-lins-amazon-interview-spreadsheet)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
