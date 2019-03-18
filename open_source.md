@@ -148,6 +148,7 @@ Open Source
 * [Disque - a distributed message broker](https://github.com/antirez/disque)
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
 * [Exsto: Developer Community Insights](https://github.com/ceteri/exsto/)
+* [FindCollabs: Share Your Projects and Find Collaborators](https://hackernoon.com/findcollabs-share-your-open-source-projects-and-find-collaborators-d0a2bb0fc931)
 * [FlatBuffers is a serialization library for games and other memory constrained apps](https://github.com/google/flatbuffers)
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)
   * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
