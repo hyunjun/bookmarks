@@ -2386,6 +2386,7 @@ Python
   * [Selenium 으로 Web Scraping 아이 해봤니?](https://www.popit.kr/web-scraping-by-selenium)
   * [Scraping Job Posting Data from Indeed using Selenium and BeautifulSoup](https://towardsdatascience.com/scraping-job-posting-data-from-indeed-using-selenium-and-beautifulsoup-dfc86230baac)
   * [자동화 브라우져에 사용자 환경 불러오기](https://medium.com/@zective/selenium-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%8B%9C-%EC%BA%A1%EC%B1%A0-%ED%8C%A8%EC%8A%A4-11221379b661)
+  * [Mobility-Engineering-blog-post-crawl](https://github.com/HyoukJang/mobility-blog-post-crawl)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
