@@ -141,6 +141,7 @@ C++
 * [Contract](https://docs.google.com/presentation/d/e/2PACX-1vQ-V30kyoYLwhJLnqOqIkZgk30zIOKG87sTN4UXnFOV2cPOouqBmlFErYxr3IDudZvM3Yd4gWyHaUaP/pub) design by contract
 * [팁 – 검색 표로 함수 호출하기](https://surpreem.com/%ED%8C%81-%EA%B2%80%EC%83%89-%ED%91%9C%EB%A1%9C-%ED%95%A8%EC%88%98-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0/)
 * [내가 쓰는 C++1x: Conditional Variable](https://www.youtube.com/watch?v=5R9u16q4IcI)
+* [AwesomeCppTemplate](https://github.com/devkoriel/AwesomeCppTemplate)
 
 # API
 * auto_ptr
@@ -278,5 +279,6 @@ C++
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
+* [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)
 * [zertcore5 - C++11 Server framework provides many exciting features!](https://github.com/warriorguo/zertcore5)
