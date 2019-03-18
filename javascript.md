@@ -433,6 +433,7 @@ Javascript
 * [JavaScript naming conventions: do’s and don’ts](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
 * [JavaScript Symbols: But Why?](https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c)
 * [How I established a good release process in JavaScript](https://medium.freecodecamp.org/how-i-established-a-good-release-process-in-javascript-b93e57e247e1)
+* [Beer, Bravado & Bitbucket: Using data to drive CODE decisions](https://blog.usejournal.com/beer-bravado-bitbucket-using-data-to-drive-code-decisions-63f1dafe86cb)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1458,6 +1459,7 @@ Javascript
   * [How CodeSandbox uses Puppeteer & Jest to test sandbox functionality](https://hackernoon.com/how-codesandbox-uses-puppeteer-jest-to-test-sandbox-functionality-17068b3bd23b)
   * [Testing your React App with Puppeteer and Jest](https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59)
   * [web scraping with puppeteer](https://engineering.huiseoul.com/web-scraping-with-puppeteer-1571d4f25d2b)
+  * [How to set up server-side rendering in React with Rails using Puppeteer](https://medium.freecodecamp.org/server-side-rendering-react-with-rails-using-puppeteer-cf5ec2697e88)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
@@ -1871,6 +1873,8 @@ Javascript
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
 * [Flexbox.io](http://flexbox.io)
+* Formik
+  * [React Form Validation with Formik and Yup](https://hackernoon.com/react-form-validation-with-formik-and-yup-8b76bda62e10)
 * [Gatsby - Transform plain text into dynamic blogs and websites using the latest web technologies](https://github.com/gatsbyjs/gatsby)
   * [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
   * [Why you should use GatsbyJS to build static sites](https://medium.freecodecamp.org/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b)
