@@ -41,6 +41,7 @@ Business
 * [업무를 점검하는 3단계 프로세스](https://brunch.co.kr/@hyungsukkim/56)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
+* [제일기획 크게 빗나간 광고비 매출 예측의 함의](http://mediagotosa.withstories.com/514) 전망이 어긋나면 그 의미에 대해 다시 생각해봐야 한다
 * [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
 * [온디맨드 서비스, 복잡하고 미묘한 ‘오프라인적 문맥(Context)’을 읽어야 성공한다](http://besuccess.com/2015/05/ondemand_offline-context/)
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
@@ -99,6 +100,8 @@ Business
   * 3. Team의 가치; 전지전능한 개인은 없다(X) 팀이 해결할 수 있다(O)
     * 모두가 약점이 있기 때문에 맡은 일을 최선을 다 해 해낼 때, 그 성과가 비로소 빛날 수 있다
 * [피드백에 관한 상상 인터뷰](https://brunch.co.kr/@younghakjang/63)
+* [FB101 피드백 개론](https://brunch.co.kr/@younghakjang/61)
+* [피드백에 멍들다](http://www.hbrkorea.com/magazine/article/view/2_1/page/3/article_no/1322)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
@@ -291,7 +294,6 @@ Business
 * [어떤 분위기의 팀을 만들 것인가?](https://brunch.co.kr/@younghakjang/55)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
-* [FB101 피드백 개론](https://brunch.co.kr/@younghakjang/61)
 * [직무 설계: 성과를 내는 구조 만들기](https://brunch.co.kr/@younghakjang/64)
 * [잡 크래프팅: 일에서 의미 찾기](https://brunch.co.kr/@younghakjang/66)
 * [같이 의논하고 한 명이 결정한다](https://brunch.co.kr/@hyungsukkim/69)
