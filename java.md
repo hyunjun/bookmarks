@@ -385,6 +385,7 @@ Java
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
 * [시간 당 실행 횟수 제한 라이브러리 3종 소개: RateLimiter, RateLimitJ, Bucket4j](http://javacan.tistory.com/505)
 * [Java 대용량 엑셀 다운로드 기능 구현](https://tmondev.blog.me/221388780914) JXLS, POI
+* [로그 프레임워크 #1 - 자바 로그 프레임웍 종류](https://bcho.tistory.com/1312)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [Armeria is an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
@@ -538,6 +539,7 @@ Java
   * [JPA에서 대량의 데이터를 삭제할때 주의해야할 점](http://jojoldu.tistory.com/235)
   * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
   * [ID로 다른 애그리게잇을 참조하라](https://www.popit.kr/id%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9E%87%EC%9D%84-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC)
+  * [DDD 값 객체와 마이크로서비스](https://www.popit.kr/ddd-%EA%B0%92-%EA%B0%9D%EC%B2%B4%EC%99%80-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4)
   * [우아한형제들 JPA 강의 소감과 적용 사례](http://woowabros.github.io/woowabros/2018/12/29/woowahan-jpa1.html)
   * Legacy DB의 JPA Entity Mapping
     * [복합키 매핑 편](http://woowabros.github.io/experience/2019/01/04/composit-key-jpa.html)
