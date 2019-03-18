@@ -140,6 +140,7 @@ Programming Books
 * (NOT YET) [아마존 웹 서비스 인 액션](https://medium.com/@need4spd/%EC%B1%85-%EB%A6%AC%EB%B7%B0-amazon-web-service-in-action-9e5d81b184ad)
 * (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드 서버 구축부터 배포, 모니터링, 관리 자동화, 데브옵스까지](http://wikibook.co.kr/aws-infra/)
 * (NOT YET) [AWS 시스템 설계와 마이그레이션 아마존 웹 서비스 업무 시스템 설계와 마이그레이션을 위한 베스트 프랙티스](http://wikibook.co.kr/aws-design-migration/)
+* (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](https://wikibook.co.kr/aws-infra/)
 
 # Android
 
