@@ -680,6 +680,7 @@ Deep Learning
   * [An implementation of the GLOW paper and simple normalizing flows lib](https://github.com/kmkolasinski/deep-learning-notes/tree/master/seminars/2018-10-Normalizing-Flows-NICE-RealNVP-GLOW)
 * [Optimal real-time landing using DNN](https://www.slideshare.net/ssuser06e0c5/optimal-realtime-landing-using-dnn)
 * [Speed up your deep learning language model up to 1000% with the adaptive softmax, Part 1](https://towardsdatascience.com/speed-up-your-deep-learning-language-model-up-to-1000-with-the-adaptive-softmax-part-1-e7cc1f89fcc9)
+* [딥러닝 기본 소프트맥스와 로짓에 대한 이해](https://www.youtube.com/watch?v=K7HTd_Zgr3w)
 * [PyParis 2018 - Using Deep Learning to rank and tag millions of hotel images](https://www.youtube.com/watch?v=WEWl4cD-y00)
 * [Don't be a Turtle Project](https://github.com/motlabs/dont-be-turtle)
   * [181123 poseest101 devfest_pangyo_jwkang](https://www.slideshare.net/JaewookKang1/181123-poseest101-devfestpangyojwkang)
@@ -1382,6 +1383,7 @@ Deep Learning
 * [How Attractive Are You in the Eyes of Deep Neural Network?(https://towardsdatascience.com/how-attractive-are-you-in-the-eyes-of-deep-neural-network-3d71c0755ccc)
 * [What Does A Face Detection Neural Network Look Like?](https://towardsdatascience.com/face-detection-neural-network-structure-257b8f6f85d1)
 * [Neural Collage - Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration](https://github.com/quolc/neural-collage)
+* [One neural network, many uses](https://towardsdatascience.com/one-neural-network-many-uses-image-captioning-image-search-similar-image-and-words-in-one-model-1e22080ce73d)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1451,6 +1453,7 @@ Deep Learning
   * [Assignments CS231N: Convolutional Neural Networks for Visual Recognition (2016 & 2017)](https://github.com/Curt-Park/cs231n_assignments)
   * [딥러닝기반영상분석 (cs231n)](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
   * [CS231N 2017 video subtitles translation project for Korean Computer Science students](https://github.com/insurgent92/CS231N_17_KOR_SUB)
+  * [CS231n Convolutional Neural Networks for Visual Recognition](http://aikorea.org/cs231n/neural-networks-2-kr/) 번역
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
@@ -2055,6 +2058,7 @@ CVPR2016)
   * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
     * [CS294-112 Deep Reinforcement Learning Sp17](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 * [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234)
+* [CS885 Lecture 14c: Trust Region Methods](https://www.youtube.com/watch?v=qaOKZkeutqE)
 * [Deep Learning and Reinforcement Learning Summer School 2018](https://dlrlsummerschool.ca)
   * [Deep Learning and Reinforcement Learning Summer School, Toronto 2018](http://videolectures.net/DLRLsummerschool2018_toronto/)
 * [Deep Reinforcement Learning](http://videolectures.net/deeplearning2016_abbeel_deep_reinforcement/)
