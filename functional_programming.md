@@ -251,6 +251,7 @@ Functional Programming
   * [fpmax.scala](https://gist.github.com/jdegoes/1b43f43e2d1e845201de853815ab3cb9)
 * [Plain Functional Programming by Martin Odersky](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [How to Build a Functional API—Julien Truffaut](https://www.youtube.com/watch?v=__zuECMFCRc)
+* [Real-World Functional Scala by Chris Birchall](https://www.youtube.com/watch?v=STPkPUPYDeg)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
