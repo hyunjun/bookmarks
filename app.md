@@ -526,6 +526,7 @@ App
   * [SSH 접속시 iterm2 zsh 테마 바꾸기](https://wayhome25.github.io/etc/2018/01/28/ssh-iterm2-theme/)
   * [멋진 Terminal 만들기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
   * [Jazz Up Your “ZSH” Terminal In Seven Steps — A Visual Guide](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
+  * [맥(Mac) 개발 환경 구축(1) - iTerm과 zsh](https://dev-yakuza.github.io/ko/environment/mac-iterm-zsh/)
   * [‘포켓몬’ 터미널 테마, 오픈소스로 공개](http://www.bloter.net/archives/281853)
   * [OSX iterm2 터미널 꾸미기](https://wckhg89.github.io/archivers/terminal_setting)
   * [맥용 인기 터미널 에뮬레이터 'iTerm 2' 3.0 버전 메이저 업데이트](http://macnews.tistory.com/4472)
