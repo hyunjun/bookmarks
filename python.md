@@ -1358,6 +1358,7 @@ Python
 * [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 * [The Basics of Django Models](https://www.youtube.com/watch?v=r9kT-jm136Q)
 * [Using Django in a Standalone Script](https://www.youtube.com/watch?v=AS01VoC9l5w)
+* [My Favorite Django Packages in 2019](https://vsupalov.com/favorite-django-packages-2019/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
