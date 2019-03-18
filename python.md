@@ -371,6 +371,7 @@ Python
 * [Dependency Injection in Python: The Java Guy’s Perspective - Dependency Injection (DI) in Python? Seriously?](https://medium.com/ki-labs-engineering/dependency-injection-in-python-the-java-guys-perspective-6f96d672c5e7)
 * [How to write a simple toy database in Python within minutes](https://medium.freecodecamp.org/how-to-write-a-simple-toy-database-in-python-within-minutes-51ff49f47f1)
 * [Python APIs - APIs are an easy and standardized way to access information across different companies](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-api) Google, Yelp, Youtube
+* [연산자(operators)의 유용성](https://www.martinii.fun/blog/why-operators-are-useful/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1283,6 +1284,7 @@ Python
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 * [Analyzing Django requirement files on GitHub](https://pyup.io/posts/analyzing-django-requirement-files-on-github/)
 * [5 ways to make Django Admin safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8)
+* [Optimizing Django Admin Paginator](https://medium.com/@hakibenita/optimizing-django-admin-paginator-53c4eb6bfca3)
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [Django 템플릿에서 VariableDoesNotExist 예외 오류 대응하기](http://blog.hannal.com/2017/06/django-template-variabledoesnotexist-exception/)
 * [select_related, prefetch_related 그리고 debug toolbar](https://leop0ld.github.io/django/2017/06/27/django-query-optimization.html)
