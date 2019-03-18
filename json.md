@@ -10,6 +10,7 @@ Json
 * [benchmarks#json](https://github.com/kostya/benchmarks#json)
 * [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.html)
 * [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
+* [B급 프로그래머 (스택오버플로우) 구글이 JSON 응답에 while(1);을 붙여 보내는 이유는?](http://jhrogue.blogspot.com/2019/03/b-json-while1.html)
 
 # C++
 * [jsoncpp 를 이용하여 C++에서 JSON 생성 및 Parsing 하기](http://devluna.blogspot.com/2015/09/jsoncpp-c-json-parsing.html)
