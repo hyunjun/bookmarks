@@ -13,6 +13,7 @@ R
 * [R vs Python part 1 why R?](https://www.youtube.com/watch?v=ZIUcI_OYbd8)
 * [R vs Python part 2 why Python?](https://www.youtube.com/watch?v=BI5CxoVJlCA)
 * [Ending the R vs Python war](https://www.youtube.com/watch?v=JkgsqIw8gPs)
+* [R vs Python: What’s The Difference? The challenge under ten categories](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * **[R을 활용한 머신러닝](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)**
 * [A Guide to Machine Learning in R for Beginners: Logistic Regression](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)
@@ -506,6 +507,7 @@ R
 * **[Data Visualization A practical introduction](https://socviz.co)**
 * [15 Stunning Data Visualizations (And What You Can Learn From Them)](https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8)
 * [The 25 Best Data Visualizations of 2018](https://towardsdatascience.com/the-25-best-data-visualizations-of-2018-93643f0aad04)
+* [A Comprehensive Guide to Data Visualisation in R for Beginners](https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174)
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)
