@@ -589,6 +589,7 @@
 * [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
 * [Building Custom ML PipelineStages for Feature Selection - Marc Kaminski](https://www.youtube.com/watch?v=iUNk-i5aFPY)
 * [Machine Learning with PySpark and MLlib — Solving a Binary Classification Problem](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
+* [Dataset deduplication using spark’s MLlib](https://medium.com/@ronaldangel/deduplication-using-sparks-mllib-4a08f65e5ab9)
 * [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
 * [TensorFlow On Spark: Scalable TensorFlow Learning on Spark Clusters - Andy Feng & Lee Yang](https://www.youtube.com/watch?v=IxWfAcrZQhc)
   * [BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.com/2017/09/bigdata-distributed-deep-learning.html)
