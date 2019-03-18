@@ -76,6 +76,7 @@ Android
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
 * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
+* [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
