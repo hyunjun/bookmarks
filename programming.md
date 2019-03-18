@@ -1107,6 +1107,7 @@ Programming
   * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/02/b-2-3.html)
   * [2월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/02/b-2-4.html)
   * [3월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/03/b-3-1.html)
+  * [3월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/03/b-3-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1155,6 +1156,7 @@ Programming
   * [기술 뉴스 #119 : 19-02-01](https://blog.outsider.ne.kr/1424)
   * [기술 뉴스 #120 : 19-02-15](https://blog.outsider.ne.kr/1427)
   * [기술 뉴스 #121 : 19-03-01](https://blog.outsider.ne.kr/1432)
+  * [기술 뉴스 #122 : 19-03-15](https://blog.outsider.ne.kr/1434)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
