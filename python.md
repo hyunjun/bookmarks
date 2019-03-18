@@ -888,6 +888,10 @@ Python
   * [How to Do Socket Programming in Python](https://pythoninwonderland.wordpress.com/2017/03/13/how-to-do-socket-programming-in-python/)
   * [Python으로 채팅 구현하기](https://www.slideshare.net/taeyounglee1447/python-73297338)
   * [2017 파이컨 튜토리얼 - 네트워크 프로그래밍 개념 맛보기](https://docs.google.com/presentation/d/1-bO5cXe50GctqR1tKDVm1MyaPCOes3_XEojEP0LyTnU/edit#slide=id.p)
+  * Sockets Tutorial with Python 3
+    * [part 1 - sending and receiving data](https://www.youtube.com/watch?v=Lbfe3-v7yE0)
+    * [part 2 - buffering and streaming data](https://www.youtube.com/watch?v=8A4dqoGL62E)
+    * [part 3 - sending and receiving Python Objects w/ Pickle](https://www.youtube.com/watch?v=WM1z8soch0Q)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
@@ -1359,6 +1363,7 @@ Python
 * [The Basics of Django Models](https://www.youtube.com/watch?v=r9kT-jm136Q)
 * [Using Django in a Standalone Script](https://www.youtube.com/watch?v=AS01VoC9l5w)
 * [My Favorite Django Packages in 2019](https://vsupalov.com/favorite-django-packages-2019/)
+* [Django Web Development with Python Introduction](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -2644,6 +2649,7 @@ Python
   * `pandas.parser.CParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.` [read_csv C-engine CParserError: Error tokenizing data](https://github.com/pydata/pandas/issues/11166) 제대로 해결되지 않는 경우가 있음
 * [An Introduction to scientific python: Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
+* [Data Analysis w/ Python 3 and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
 * [네이버 파이낸스 - 재무제표 크롤링](https://financedata.github.io/posts/naver-finance-finstate-crawling.html)
 * [\(Daum부동산\) DataFrame 행 추출과 컬럼으로 합치기](https://financedata.github.io/posts/dataframe-extract-rows-and-concat-as-column.html)
@@ -2678,7 +2684,6 @@ Python
 * [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
 * [데이콘 야구대회 튜토리얼 2-1 판다스 기본 문법](https://www.youtube.com/watch?v=V-lgb_Z7LpY)
 * [Cleaning and Tidying Data in Pandas - Daniel Chen](https://www.youtube.com/watch?v=iYie42M1ZyU)
-* [Introduction - Data Analysis and Data Science with Python and Pandas](https://www.youtube.com/watch?v=nLw1RNvfElg)
 * [Using The Pandas Category Data Type](https://pbpython.com/pandas_dtypes_cat.html)
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas)
 * [Pandas 기초 - cheat sheet 따라하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR)
