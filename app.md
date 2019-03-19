@@ -34,6 +34,7 @@ App
 * [Confluence를 이용한 프로젝트 현황판](https://www.popit.kr/confluence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%84%ED%99%A9%ED%8C%90)
 * [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
 * [29 Tools and Resources for the Bootstrapping Entrepreneur](https://hackernoon.com/29-tools-and-resources-for-the-bootstrapping-entrepreneur-65c01a81fefb)
+* [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
@@ -612,6 +613,7 @@ App
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
+* [Remove Image Background](https://www.remove.bg)
 * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
 * VLC
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
