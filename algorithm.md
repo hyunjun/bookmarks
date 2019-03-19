@@ -419,6 +419,7 @@ Algorithm
 ## [Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
 
 # String
+* [String Interview Questions: The Ultimate Guide](https://www.byte-by-byte.com/strings/)
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
