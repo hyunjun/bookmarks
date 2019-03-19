@@ -391,6 +391,7 @@ AWS
 * [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072)
 * [Deploying a Node.js Twitter Bot on AWS Lambda using Webpack](https://hackernoon.com/deploying-a-node-js-twitter-bot-on-aws-lambda-using-webpack-df6e2e187a78)
 * [AWS Lambda Layer를 사용하는 방법 (How to use AWS Lambda Layers)](https://medium.com/@rabter/aws-lambda-layer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-how-to-use-aws-lambda-layers-c206ba40d4cc)
+* [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
