@@ -116,7 +116,7 @@ AWS
 * [Kops 를 활용한 AWS 기반 Kubernetes Cluster 운영 및 CI/CD](https://docs.google.com/presentation/d/1FaD0t0h3nWyNWSb8TlTsA9j7mCyh_fhijZ2cTv8GADA/edit#slide=id.p1)
 * [Kubernetes on AWS : AWSKRUG Container hands-on #3](https://github.com/awskrug/handson-labs-2018/tree/master/Container/3_Kubernetes)
 * [Kubernetes on AWS](https://docs.google.com/presentation/d/1odyUPXrenc4aNhY_YIHaHyODJ8gPlixQk7U9J0BzL1M/edit#slide=id.p)
-* [Kubernetes on AWS : AWSKRUG Container hands-on #3](https://github.com/awskrug/handson-labs-2018/tree/master/Container/3_Kubernetes)
+* [AWS 서비스를 활용한 Kubernetes 클러스터 구축](http://engineering.vcnc.co.kr/2019/03/kubernetes-on-aws/)
 * [AWS KMS를 이용한 암호화 API 구축하기](http://woowabros.github.io/experience/2017/02/06/aws-kms.html)
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
 * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
