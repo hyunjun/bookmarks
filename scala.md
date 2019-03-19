@@ -468,6 +468,7 @@ Scala
   * [Tagless with Discipline — Testing Scala Code The Right Way](https://medium.com/iterators/tagless-with-discipline-testing-scala-code-the-right-way-e74993a0d9b1)
   * [Use docker container in Scala testcases](https://medium.com/@takezoe/use-docker-container-in-scala-testcases-2745ae3a5fd1)
   * [Functional Testing with Tagless-Final](https://medium.com/wix-engineering/functional-testing-with-tagless-final-50eeacf5df6)
+  * [Organizing Scala Tests For Faster Feedback](https://medium.com/@iamninad/organizing-scala-tests-for-faster-feedback-ba0039357ff9)
   * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
     * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
     * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
