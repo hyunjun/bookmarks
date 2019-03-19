@@ -692,6 +692,7 @@
 * [A Brief Introduction to PySpark - A primer on PySpark for data science](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
 * [Introducing Pandas UDF for PySpark](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
 * [Reading CSV & JSON files in Spark – Word Count Example](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark)
+* [How to Upload/Download Files to/from Notebook in my Local machine](https://medium.com/ibm-data-science-experience/how-to-upload-download-files-to-from-notebook-in-my-local-machine-6a4e65a15767)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
