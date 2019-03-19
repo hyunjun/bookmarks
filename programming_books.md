@@ -904,6 +904,7 @@ Programming Books
   * 코틀린 기본, 안드로이드 스튜디오, 전화번호부 앱 개발
 * (NOT YET) [함수형 코틀린 코틀린과 애로우로 배우는 함수형 프로그래밍](http://acornpub.co.kr/book/functional-kotlin)
 * (NOT YET) [코틀린 마이크로서비스 개발 스프링 5와 스프링 부트 2.0을 활용해 코틀린으로 구축하는 리액티브 마이크로서비스](http://acornpub.co.kr/book/microservices-kotlin)
+* (NOT YET) [빅 너드 랜치의 코틀린 프로그래밍](https://jpub.tistory.com/906)
 
 # Linux
 
