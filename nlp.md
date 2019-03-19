@@ -270,6 +270,9 @@ NLP
 * [Machine Learning with Python: NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
 * [Concrete solutions to real problems](https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb)
 * [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
+* [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
+* [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
+* [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1041,6 +1044,8 @@ NLP
 * [PEARSON CORRELATION SCORE](https://mlforanalytics.com/2018/04/03/pearson-correlation-score/)
 * [AWS 람다(Lambda)로 실시간 추천하기 – 로켓펀치의 전문기술 정보](https://blog.rocketpunch.com/2018/07/26/specialty-recommendation/)
 * [WMD 문서 유사도 구하기 (word mover's distance)](https://www.youtube.com/watch?v=zFnrq5SmBdg)
+* [Chapter 3 : 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://eda-ai-lab.tistory.com/118)
+* [11. Deep Learning Cookbook/03. 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://daljoong2.tistory.com/36)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
