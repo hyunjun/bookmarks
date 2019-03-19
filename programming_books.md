@@ -1306,6 +1306,9 @@ Programming Books
 * (NOT YET) [대용량 머신 러닝과 스파크빅데이터 기반의 머신 러닝 애플리케이션 구축](http://book.daum.net/detail/book.do?bookid=KOR9791161751771)
   * 2018.10 한라
 * (NOT YET) [빅데이터 분석을 위한 스칼라와 스파크](http://acornpub.co.kr/book/scala-spark-big-data)
+* (NOT YET) [스파크 완벽 가이드 스파크를 활용한 빅데이터 처리와 분석의 모든 것](http://www.hanbit.co.kr/store/books/look.php?p_code=B6709029941)
+  * [github.com/databricks/Spark-The-Definitive-Guide](https://github.com/databricks/Spark-The-Definitive-Guide)
+  * [github.com/ethany21/Spark-The-Definitive-Guide](https://github.com/ethany21/Spark-The-Definitive-Guide)
 
 # Statistics
 
