@@ -2055,6 +2055,7 @@ Python
 * [Grumpy: Go running Python](https://github.com/google/grumpy)
   * [Grumpy: Go running Python!](https://opensource.googleblog.com/2017/01/grumpy-go-running-python.html)
   * [구글, 파이썬-고 소스코드 변환해주는 ‘글럼피’ 오픈소스로 공개](http://www.bloter.net/archives/270167)
+  * [CPython, Grumpy, PyPy - When, How, Why - Itay Weiss - Pycon Israel 2017](https://www.youtube.com/watch?v=_y00S29mK1A)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
 * **[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)**
 * [hazelnut - an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems](https://github.com/mrsmn/hazelnut)
