@@ -291,6 +291,7 @@ Data Science
 * [The Data Analytics Handbook](https://www.teamleada.com/handbook)
 * [Reading for Growing Data Engineers — 2017](https://daasnerds.com/reading-for-growing-data-engineers-2017-365d1ad3a9ed)
 * **[Data Science at the Command Line](https://www.datascienceatthecommandline.com)**
+* [List of Must – Read Free Data Science Books](https://blog.paralleldots.com/data-science/must-read-free-data-science-books/)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
