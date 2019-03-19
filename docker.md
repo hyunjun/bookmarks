@@ -591,6 +591,7 @@ Docker
 * [PodDisruptionBudget](https://bcho.tistory.com/1305)
 * [Ruben Orduz, Nolan Brubaker - A Python-flavored Introduction to Containers And Kubernetes](https://www.youtube.com/watch?v=kx-048qE-TI)
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
+* [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
@@ -713,6 +714,8 @@ Docker
 * [`docker: Error response from daemon: Container command '...' could not be invoked`](https://github.com/docker/docker/issues/20789)
   * Does the entrypoint exist?
   * Is it executable?
+* `Error response from daemon: Get ...: unauthorized: incorrect username or password`
+  * `docker login --username <username>`
 * `kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1`
   * kernel bug로 cent os 7.x에서 docker를 사용하는 경우 계속 발생(ubuntu 쓰면 안 나타난다고 함)
   * service 영향은 상황마다 달라서 일률적으로 알 수 없다고 함
