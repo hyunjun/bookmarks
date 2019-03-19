@@ -135,6 +135,9 @@
 * [Apache Spark on Docker](https://github.com/sequenceiq/docker-spark)
 * Distributed Pricing Engine using Dockerized Spark on YARN w/ HDP 3.0
   * [Part 1/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-1-4/)
+  * [Part 2/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-2-4/)
+  * [Part 3/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-3-4/)
+  * [Part 4/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-4-4/)
 * [Microbenchmarking Big Data Solutions on the JVM – Part 1](http://www.autoletics.com/posts/microbenchmarking-big-data-solutions-on-the-jvm-part-1)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](http://developers.linecorp.com/blog/ko/?p=123)
 * [(Berkeley CS186 guest lecture) Big Data Analytics Systems: What Goes Around Comes Around](http://www.slideshare.net/rxin/2015-0409-cs186guestlecture)
