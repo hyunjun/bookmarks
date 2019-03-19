@@ -152,6 +152,7 @@ Math
 * [Things I Can't Solve: Multiplication](http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html)
 * [Guide to Linear Regression](http://alexhwoods.com/2015/07/19/guide-to-linear-regression/)
 * [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
+* [Linear Regression with Linear Algebra](http://artificialturk.com/2019/03/17/linear-regression-with-linear-algebra)
 * [Change of basis in Linear Algebra](http://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/)
 * [graphicallinearalgebra.net](http://graphicallinearalgebra.net/)
 * [Linear Algebra Review and Reference](http://cs229.stanford.edu/section/cs229-linalg.pdf)
