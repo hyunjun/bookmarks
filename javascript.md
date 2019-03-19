@@ -64,6 +64,10 @@ Javascript
   * [#3-9 Getting the Weather part One Geolocation](https://www.youtube.com/watch?v=5fAMu2ORvDA)
   * [#3-10 Getting the Weather part Two API](https://www.youtube.com/watch?v=l6hSze8vgVo)
   * [#3-11(끝) Conclusions](https://www.youtube.com/watch?v=xZeyDkpJ3V8)
+* 자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개
+  * [#1. Call Stack](https://www.youtube.com/watch?v=QkFkFqg-J04)
+  * [#2. Primitive Types](https://www.youtube.com/watch?v=IMyvCJKZSL8)
+  * [#3. Value Types and Reference Types](https://www.youtube.com/watch?v=hYHv5m1NMFE)
 * [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
@@ -706,6 +710,7 @@ Javascript
 * [Prisma - replaces traditional ORMs](https://www.prisma.io/) 
   * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
   * [요즘 핫한 백엔드 데이터베이스 Prisma 를 알아보자](https://www.youtube.com/watch?v=boZ73EEniFI)
+* [How To Get Started With GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1332,6 +1337,7 @@ Javascript
 * [Node.js에서 Request.js 사용하기 네트워크 더 간결하게 작성하자!](https://medium.com/harrythegreat/node-js%EC%97%90%EC%84%9C-request-js-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-28744c52f68d)
 * [Will Node.js forever be the sluggish Golang?](https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a)
 * [How Might Serverless Impact Node.js Ecosystem?](https://blog.bitsrc.io/how-might-serverless-impact-node-js-ecosystem-b0e312036fcf)
+* [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1848,6 +1854,8 @@ Javascript
   * **[정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)** 제목과 달리 단순한 정적 사이트 생성기가 아니라는 글
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
+* [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
+  * [github.com/dev4us/hook-player](https://github.com/dev4us/hook-player)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * MobX
