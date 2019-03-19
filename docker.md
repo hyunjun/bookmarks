@@ -94,6 +94,9 @@ Docker
     * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
+  * **[jupyter-repo2docker](https://repo2docker.readthedocs.io)**
+    * [Docker for Data Science Without the Hassle](https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8)
+  * [JupyterHub Image with TensorFlow and PyTorch ](https://hub.docker.com/r/dakshoont/jupyterhub)
   * kafka
     * [Running Kafka 1.0 in Docker](https://medium.com/@teivah/running-kafka-1-0-in-docker-1dd04b5bc23c)
     * [Kafka 1.1 Docker Image](https://medium.com/@teivah/kafka-1-1-docker-image-5e4e9aac201d)
@@ -624,8 +627,6 @@ Docker
 * [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
-* **[jupyter-repo2docker](https://repo2docker.readthedocs.io)**
-  * [Docker for Data Science Without the Hassle](https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * ksonnet
