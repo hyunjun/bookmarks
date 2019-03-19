@@ -428,6 +428,7 @@ ElasticSearch - Lucene
 * [fluent-plugin-beats at Elasticsearch meetup](http://www.slideshare.net/repeatedly/fluentpluginbeats-at-elasticsearch-meetup-14)
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
 * [Hierarchical filtering](http://demo.searchkit.co/taxonomy)
+* [klay-es-plugin](https://github.com/ks-shim/klay-es-plugin) klay(Korean Language AnalzYer) plugin for elasticsearch
 * [Komoran](https://github.com/shin285/KOMORAN)
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
