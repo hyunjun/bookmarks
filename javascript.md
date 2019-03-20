@@ -2019,6 +2019,7 @@ Javascript
 * [TypeScript — JavaScript with superpowers — Part II](https://medium.com/cleversonder/typescript-javascript-with-superpowers-part-ii-69a6bd2c6842)
 * [타입스크립트에서 절대경로 쓰기 typescript, absolute path, webpack, ts-node, jest](https://libsora.so/posts/use-absolute-path-in-typescript/)
 * [Native addon을 포함하여 Node.js + Typescript + Serverless 빌드 및 배포하기](https://www.slideshare.net/KyuhyunByun1/native-addon-nodejs-typescript-serverless)
+* [이제는 타입스크립트를 배워야합니다. (to 자바스크립트 개발자)](https://blog.hax0r.info/2019-03-12/typescript-in-fastcampus/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
