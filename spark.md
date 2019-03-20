@@ -795,8 +795,9 @@
 # [Zeppelin](http://zeppelin-project.org/)
 * [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)
 * [www.zepl.com](https://www.zepl.com/) previously www.zeppelinhub.com
-* Practice
+* practice
   * [meetup](https://github.com/hyunjun/practice/tree/master/spark/meetup)
+  * [install zeppelin docker image, read and adjust json files](https://github.com/hyunjun/practice_private/tree/master/interview_bonial_assignment)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E)
 * [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)
