@@ -519,6 +519,7 @@ Programming
 * [0원으로 시작하는 서버리스 데이터 수집 및 분석](https://www.slideshare.net/KyuhyunByun1/0-121022533)
 * [AWSKRUG Serverless Group](https://github.com/awskrug/serverless-group)
 * [서버리스 컴퓨팅 시대의 풀 스택 개발](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f) Serviceful serverless, AWS Amplify
+* [어디에나 있지만 어디에도 없는 LINE 게임의 분석 환경](https://engineering.linecorp.com/ko/blog/line-game-data-analysis/) Line 게임의 데이터 설계, 수집, 처리, 분석
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -720,6 +721,7 @@ Programming
 * [How to Make Your Code CLEAN and BEAUTIFUL](https://hackernoon.com/how-to-make-your-code-clean-and-beautiful-5ff7aee03be6)
 * [Why you should use column-indentation to improve your code’s readability](https://medium.freecodecamp.org/how-to-columnize-your-code-to-improve-readability-f1364e2e77ba)
 * [소프트웨어 엔지니어들이 읽기 어려운 코드를 만드는 이유는?](http://jhrogue.blogspot.com/2018/12/b.html)
+* [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29) 작은 함수가 좋은 경우/안 좋은 경우
 
 # Compiler, Interpreter
 * **Let’s Build A Simple Interpreter** python
