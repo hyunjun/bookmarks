@@ -411,6 +411,8 @@ Docker
   * [docker run 과 docker 네트워크 설정, 컨테이너 라이프사이클](http://www.leafcats.com/191)
 * stop `sudo docker stop [container id]`
 * [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/)
+* volume
+  * [Docker: create a persistent volume in a specific directory](https://unix.stackexchange.com/questions/439106/docker-create-a-persistent-volume-in-a-specific-directory)
 
 # CI Continuous Integration
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
