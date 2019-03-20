@@ -353,6 +353,7 @@
 * [NPE from Spark App that extends scala.App](https://medium.com/@manuzhang/npe-from-spark-app-that-extends-scala-app-ef7378195850)
 * [입 개발 spark-submit 시에 –properties-file 와 파라매터에서의 우선 순위](https://charsyam.wordpress.com/2019/03/10/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-submit-%EC%8B%9C%EC%97%90-properties-file-%EC%99%80-%ED%8C%8C%EB%9D%BC%EB%A7%A4%ED%84%B0%EC%97%90%EC%84%9C%EC%9D%98-%EC%9A%B0%EC%84%A0-%EC%88%9C%EC%9C%84/)
 * [Which Language to choose when working with Apache Spark](https://medium.com/@write2karanverma/which-language-to-choose-when-working-with-apache-spark-1cddc46e40fd)
+* [Procesando Datos con Spark](https://medium.com/@crscardellino/procesando-datos-con-spark-48539d38e437)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -390,6 +391,7 @@
   * [Using spark data frame for sql](https://www.slideshare.net/charsyam2/using-spark-data-frame-for-sql)
   * [Selecting Dynamic Columns In Spark DataFrames (aka Excluding Columns)](http://bailiwick.io/2017/08/08/selecting-dynamic-columns-in-spark-dataframes/)
   * [Spark: Elegantly Aggregate DataFrame by One Key Column](https://medium.com/@kieran_77908/spark-elegantly-aggregate-dataframe-by-one-key-column-6dbbcf546e1d)
+  * [A practical introduction to Spark’s Column- part 1](https://medium.com/@achilleus/https-medium-com-achilleus-a-practical-introduction-to-sparks-column-3f5fe83125c9)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
