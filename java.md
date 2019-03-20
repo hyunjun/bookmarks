@@ -102,6 +102,7 @@ Java
 * [What you should learn to become a Master Yoda in Java](https://levelup.gitconnected.com/what-you-should-learn-to-become-a-master-yoda-in-java-59c69207df78)
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
 * [Parallel Merge Sort in Java](https://hackernoon.com/parallel-merge-sort-in-java-e3213ae9fa2c)
+* [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html) clean code 책을 읽고 진행한 refactoring 정리
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
