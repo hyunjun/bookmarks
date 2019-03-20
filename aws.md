@@ -396,6 +396,7 @@ AWS
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
+  * **[AWS를 만드는 AWS, CloudFormation](https://www.huskyhoochu.com/introduce-cloudformation)**
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
