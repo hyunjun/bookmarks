@@ -372,6 +372,8 @@ Scala
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
 * [Don't Use Await.result!](https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html)
+* BitSet
+  * [Classic Computer Science Problems in ̶P̶y̶t̶h̶o̶n̶ Scala — Trivial Compression](https://medium.com/@bschlining/classic-computer-science-problems-in-%CC%B6p%CC%B6y%CC%B6t%CC%B6h%CC%B6o%CC%B6n%CC%B6-scala-trivial-compression-68506adf25dd)
 * case class
   * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
   * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -469,6 +471,8 @@ Scala
   * [Use docker container in Scala testcases](https://medium.com/@takezoe/use-docker-container-in-scala-testcases-2745ae3a5fd1)
   * [Functional Testing with Tagless-Final](https://medium.com/wix-engineering/functional-testing-with-tagless-final-50eeacf5df6)
   * [Organizing Scala Tests For Faster Feedback](https://medium.com/@iamninad/organizing-scala-tests-for-faster-feedback-ba0039357ff9)
+  * [Scala: Debugging and Unit Testing](https://medium.com/@alessandroheres/scala-debugging-and-unit-testing-3d357e71ccc) intelliJ
+  * [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
   * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
     * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
     * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
@@ -731,6 +735,7 @@ Scala
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
 * [Hands-on Scala.js - Writing client-side web applications in Scala](http://www.lihaoyi.com/hands-on-scala-js/)
+* [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 
 # Type
 * [typelevel.org/blog](https://typelevel.org/blog/)
