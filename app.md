@@ -92,6 +92,7 @@ App
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
   * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
+  * [ngrok](https://dev-yakuza.github.io/ko/environment/ngrok/)
 * VirtualBox
   * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
   * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
@@ -527,7 +528,10 @@ App
   * [SSH 접속시 iterm2 zsh 테마 바꾸기](https://wayhome25.github.io/etc/2018/01/28/ssh-iterm2-theme/)
   * [멋진 Terminal 만들기](https://beomi.github.io/2017/07/07/Beautify-ZSH/)
   * [Jazz Up Your “ZSH” Terminal In Seven Steps — A Visual Guide](https://medium.freecodecamp.org/jazz-up-your-zsh-terminal-in-seven-steps-a-visual-guide-e81a8fd59a38)
-  * [맥(Mac) 개발 환경 구축(1) - iTerm과 zsh](https://dev-yakuza.github.io/ko/environment/mac-iterm-zsh/)
+  * 맥(Mac) 개발 환경 구축
+    * [(1) - iTerm과 zsh](https://dev-yakuza.github.io/ko/environment/mac-iterm-zsh/)
+    * [(2) - tools](https://dev-yakuza.github.io/ko/environment/mac-development-tools)
+    * [(3) - 개발 환경](https://dev-yakuza.github.io/ko/environment/mac-development-environment)
   * [‘포켓몬’ 터미널 테마, 오픈소스로 공개](http://www.bloter.net/archives/281853)
   * [OSX iterm2 터미널 꾸미기](https://wckhg89.github.io/archivers/terminal_setting)
   * [맥용 인기 터미널 에뮬레이터 'iTerm 2' 3.0 버전 메이저 업데이트](http://macnews.tistory.com/4472)
@@ -662,6 +666,8 @@ App
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
   * `if([condition], [true output], [false output])`
     * e.g. if(E11=F11, "T", if(F11="N/A", "T", "F")) E11과 F11이 같으면 T, 다르면 F11이 N/A면 T, 아니면 F(즉, E11과 F11이 다르고 AND F11이 N/A가 아니면 F)
+  * [피벗 테이블 만드는 방법](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5260711542)
+
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
 
