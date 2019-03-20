@@ -89,6 +89,7 @@
 * [You Don’t Need a Dependency Injection Container](https://hackernoon.com/you-dont-need-a-dependency-injection-container-10a5d4a5f878)
 * [Dependency Injection is EVIL](http://www.tonymarston.net/php-mysql/dependency-injection-is-evil.html)
 * [세 가지 DI 컨테이너로 향하는 저녁 산책](http://www.nextree.co.kr/p11247)
+* [A quick intro to Dependency Injection: what it is, and when to use it](https://medium.freecodecamp.org/a-quick-intro-to-dependency-injection-what-it-is-and-when-to-use-it-7578c84fa88f)
 
 ## Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
