@@ -438,6 +438,7 @@ Javascript
 * [JavaScript Symbols: But Why?](https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c)
 * [How I established a good release process in JavaScript](https://medium.freecodecamp.org/how-i-established-a-good-release-process-in-javascript-b93e57e247e1)
 * [Beer, Bravado & Bitbucket: Using data to drive CODE decisions](https://blog.usejournal.com/beer-bravado-bitbucket-using-data-to-drive-code-decisions-63f1dafe86cb)
+* [A bluffer’s guide to JavaScript proficiency](https://medium.freecodecamp.org/bluffers-guide-to-javascript-proficiency-18195dbe2618)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1750,6 +1751,7 @@ Javascript
 * [How to Write UI components with optionally controllable state](https://medium.com/quick-code/writing-ui-components-with-optionally-controllable-state-86e396a6f1ec)
 * [React.js: a better introduction to the most powerful UI library ever created](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
 * [0CJS (zero config javascript) support tool for React](https://github.com/iamssen/react-zeroconfig)
+* [How to code the Game of Life with React](https://medium.freecodecamp.org/coding-the-game-of-life-with-react-7de2385b7356)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2020,6 +2022,7 @@ Javascript
 * [타입스크립트에서 절대경로 쓰기 typescript, absolute path, webpack, ts-node, jest](https://libsora.so/posts/use-absolute-path-in-typescript/)
 * [Native addon을 포함하여 Node.js + Typescript + Serverless 빌드 및 배포하기](https://www.slideshare.net/KyuhyunByun1/native-addon-nodejs-typescript-serverless)
 * [이제는 타입스크립트를 배워야합니다. (to 자바스크립트 개발자)](https://blog.hax0r.info/2019-03-12/typescript-in-fastcampus/)
+* [The easy way to get TypeScript interfaces from C#, Java, or Python code in any IDE](https://medium.freecodecamp.org/the-easy-way-to-get-typescript-interfaces-from-c-java-or-python-code-in-any-ide-c3acac1e366a)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
