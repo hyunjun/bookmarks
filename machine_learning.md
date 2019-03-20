@@ -225,6 +225,7 @@ Machine Learning
 * [What is the difference between Bagging and Boosting?](https://www.kdnuggets.com/2017/11/difference-bagging-boosting.html)
 * [군중은 똑똑하다2 — AdaBoost](https://medium.com/@deepvalidation/%EA%B5%B0%EC%A4%91%EC%9D%80-%EB%98%91%EB%98%91%ED%95%98%EB%8B%A42-adaboost-ba0122500034)
 * [How to use AdaBoost Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-adaboost-classifier-and-regressor-in-python/)
+* [Clearing air around “Boosting” Understanding the current go-to algorithm for best results](https://towardsdatascience.com/clearing-air-around-boosting-28452bb63f9e)
 * [머신 러닝의 기본적인 이해 : 뇌와의 비교](http://www.boannews.com/media/view.asp?idx=48141)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [Machine Learning for indentify the author of an email](http://blog.brainattica.com/machine-learning-for-indentify-the-author-of-an-email/)
