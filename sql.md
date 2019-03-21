@@ -100,6 +100,7 @@ SQL
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
+* [SQLite로 가볍게 배우는 데이터베이스](https://wikidocs.net/book/1530)
 
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
