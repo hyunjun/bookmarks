@@ -91,6 +91,7 @@ Linux
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
+* [우분투](https://wikidocs.net/book/1002)
 
 # Command
 * [practice - get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
@@ -136,6 +137,7 @@ Linux
   * [Merging Frequencies in a File](http://www.unix.com/shell-programming-and-scripting/156614-merging-frequencies-file.html)
   * [AWK greater than?](http://www.unix.com/shell-programming-and-scripting/56223-awk-greater-than.html)
   * [Print only the Nth line before each line that matches a pattern](https://unix.stackexchange.com/questions/283471/print-only-the-nth-line-before-each-line-that-matches-a-pattern)
+  * `awk '{ gsub(/\xef\xbb\xbf/,""); print }' INFILE > OUTFILE` [remove ALL <U+FEFF>](https://gist.github.com/szydan/b225749445b3602083ed) 
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `comm`
@@ -229,6 +231,7 @@ Linux
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
 * iconv
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
+  * `iconv -f UTF-16LE -t UTF-8 <infile> > <outfile>` infile 형식이 `Little-endian UTF-16 Unicode text, with CRLF, CR line terminators`라 utf8로 바꾸는 경우
 * `ip` replacement of ifconfig
   * [There's real reasons for Linux to replace ifconfig, netstat, et al](https://utcc.utoronto.ca/~cks/space/blog/linux/ReplacingNetstatNotBad)
 * join
@@ -295,6 +298,7 @@ Linux
   * `sed 's/\xEF\xBB\xBF//g'` remove <feff>
     * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them)
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
+  * `sed -e "s/^M//" <infile> > <outfile>` ^M 제거
   * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
