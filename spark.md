@@ -449,6 +449,7 @@
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
 * [Advanced Analytics with Spark Source Code](https://github.com/sryza/aas)
 * [Best Apache Spark and Scala Books for Mastering Spark Scala](https://data-flair.training/blogs/best-apache-spark-scala-books/)
+* [Spark for Data Analyst](https://wikidocs.net/book/1686) Spark SQL
 
 # Conference
 * [Spark Day 2017@Seoul(Spark Bootcamp)](https://www.slideshare.net/SangbaeLim/spark-bootcamp2017inseoul-finalpt20170626distv1)
@@ -728,7 +729,6 @@
 
 # Spark SQL
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
-* [분석가의 Spark SQL](https://wikidocs.net/book/1686)
 * [Deep Dive into Spark SQL’s Catalyst Optimizer](https://databricks.com/blog/2015/04/13/deep-dive-into-spark-sqls-catalyst-optimizer.html)
   * DataFrame이 RDD와 다르게 최적화를 적용할 수 있는 이유
 * [SparkSQL cacheTable 메소드 사용 성능 비교 - default vs cacheTable vs cacheTable (with columnar Compression)](http://hoondongkim.blogspot.kr/2015/04/sparksql-cachetable-default-vs.html?spref=fb)
