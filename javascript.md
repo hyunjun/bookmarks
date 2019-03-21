@@ -1752,6 +1752,7 @@ Javascript
 * [React.js: a better introduction to the most powerful UI library ever created](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
 * [0CJS (zero config javascript) support tool for React](https://github.com/iamssen/react-zeroconfig)
 * [How to code the Game of Life with React](https://medium.freecodecamp.org/coding-the-game-of-life-with-react-7de2385b7356)
+* [React Native 일기장](https://wikidocs.net/book/1878)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2147,3 +2148,4 @@ Javascript
   * [part 2 — Lazy loading routes and vendor bundle anti-pattern](https://itnext.io/vue-js-app-performance-optimization-part-2-lazy-loading-routes-and-vendor-bundle-anti-pattern-4a62236e09f9)
   * [part 3 — Lazy loading Vuex modules](https://itnext.io/vue-js-app-performance-optimization-part-3-lazy-loading-vuex-modules-ed67cf555976)
 * [Vue JS Crash Course - 2019](https://www.youtube.com/watch?v=Wy9q22isx3U)
+* [vue js 사용 가이드](https://wikidocs.net/book/1937)
