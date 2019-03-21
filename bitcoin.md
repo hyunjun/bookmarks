@@ -112,6 +112,9 @@ Bitcoin
 * [min-blockchain - A simple PoW Blockchain in Python](https://github.com/JoMingyu/Blockchain-py)
 * [PyCon Korea 2018 Python in Chains: Running Python Code for IoT Projects on a custom-built Blockchain Network](https://www.slideshare.net/DanielHong64/pycon-korea-2018-python-in-chains-running-python-code-for-iot-projects-on-a-custombuilt-blockchain-network-110606011)
 
+# Books
+* [혼자서 만드는 가상화폐 자동거래 시스템](https://wikidocs.net/book/1436)
+
 # Etherium
 * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)
 * [Etherium Network Status](https://stats.ethdev.com/)
