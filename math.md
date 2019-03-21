@@ -87,6 +87,8 @@ Math
 * [Geogebra를 활용한 수학수업 및 수업자료제작](https://wikidocs.net/book/188)
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)
 * [openstax.org/subjects/math](https://openstax.org/subjects/math)
+* [공돌이의 수학정리노트](https://wikidocs.net/book/563)
+* [중학 수학 코딩의 정석](https://wikidocs.net/book/2195)
 
 # Calculus
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
