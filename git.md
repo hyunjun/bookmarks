@@ -154,6 +154,10 @@ Git
 * [The Google Doc of Coding: Git & GitHub](https://medium.freecodecamp.org/the-google-doc-of-coding-git-github-ec103e87926d)
 * [How to be more productive on GitHub](https://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3)
 * [Mac OS X 터미널에서 Git 패스워드 기억하기](https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd)
+* [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)
+
+# Book
+* [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 
 # Command
 * **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
@@ -353,6 +357,17 @@ Git
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
+  * rebase 후 remote branch update가 잘 안 되는 경우 (아직 정확히는 모르겠음)
+
+    ```
+    git rebase -i <some commit>
+    git add <some conflict file>
+    git rebase --continue
+    git push origin HEAD:refs/remotes/origin/<branch name...> [-f]
+    git push origin HEAD:refs/heads/<branch name...> [-f]
+    ```
+    * [The refs/for namespace](https://gerrit-review.googlesource.com/Documentation/concept-refs-for-namespace.html)
+    * [The Dark Side of the Force Push](https://willi.am/blog/2014/08/12/the-dark-side-of-the-force-push/)
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [git에서 특정 commit에 들어간 수정 파일을 다른 commit으로 옮기는 방법](http://blog.doortts.com/285)
   * [Git rebase를 이용한 커밋 수정 (Interactive Rebase)](https://wckhg89.github.io/archivers/rebase)
