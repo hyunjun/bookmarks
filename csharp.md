@@ -36,6 +36,9 @@ C#
 * [WPF MVVM 일주일 만에 배우기 - 책 소개](http://blog.wimy.com/451/)
 * [Announcing .NET Core 3 Preview](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-3/)
 
+# Book
+* [C# 초급 (국제공부연맹)](https://wikidocs.net/book/318)
+
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)
 
