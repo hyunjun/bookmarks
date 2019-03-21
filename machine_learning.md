@@ -608,6 +608,7 @@ Machine Learning
 * [What is Dim Reduction & Feature Selection](http://terryum.io/ml_theory,/ml_practice/2016/05/05/FeatureSelection/)
   * [차원축소와 특징선택이란 무엇인가](http://terryum.io/korean/2016/05/05/FeatureSelection_KOR/)
 * [A Feature Selection Tool for Machine Learning in Python](A Feature Selection Tool for Machine Learning in Python)
+* [Effective Data Preprocessing and Feature Engineering](https://becominghuman.ai/effective-data-preprocessing-and-feature-engineering-452d3a948262)
 * [feast - Feature Store for Machine Learning](https://github.com/gojek/feast)
   * [Introducing Feast: an open source feature store for machine learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning)
 
