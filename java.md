@@ -674,6 +674,8 @@ Java
   * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
   * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
   * [스프링부트로 쇼핑몰 만들기 - 3주차](https://jojoldu.tistory.com/393)
+  * [Getting started with Spring Boot – Part 1](https://blogs.sap.com/2016/10/14/getting-started-spring-boot-part-1)
+  * [Getting started with Spring Boot – Part 2](https://blogs.sap.com/2016/12/15/getting-started-with-spring-boot-part-2/)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
