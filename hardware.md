@@ -209,6 +209,7 @@
 * [라즈베리파이로 안드로이드 오토 인포테인먼트 시스템 만들기](http://smartaedi.tistory.com/322)
 * [Building an Image Classifier Running on Raspberry Pi](https://www.linkedin.com/pulse/building-image-classifier-running-raspberry-pi-ahmed-gad/)
 * [Building an Image Classifier Running on Raspberry Pi](https://www.kdnuggets.com/2018/10/building-image-classifier-running-raspberry-pi.html)
+* [Edit and Execute code in Raspberry Pi from Visual Studio Code in my computer](https://jusths.tistory.com/96)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
