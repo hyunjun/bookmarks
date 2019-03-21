@@ -95,6 +95,9 @@ Hadoop
   * HDP 2.6.5와 3.0에서의 Hive 성능에 대한 자체 비교 자료
   * 3.0에 ACID semantic이 추가되었지만 dynamic runtime filtering과 vectorization 덕분에 성능은 2배 정도 향상
 
+# Book
+* [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)
+
 # Hadoop 3.x
 * [업그레이드를 부르는 Hadoop 3.0 신규 기능 살펴보기](http://www.popit.kr/%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C%EB%A5%BC-%EB%B6%80%EB%A5%B4%EB%8A%94-hadoop-3-0-%EC%8B%A0%EA%B7%9C-%EA%B8%B0%EB%8A%A5-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0/)
 * [Hadoop 3.0 Ships, But What Does the Roadmap Reveal?](https://www.datanami.com/2017/12/15/hadoop-3-0-ships-roadmap-reveal/) 새로운 GPU 리소스 유형, Docker 지원, Long-running 서비스 지원, FPGAS 지원 S3-compatable blob store 등
