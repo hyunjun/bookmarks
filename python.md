@@ -1144,6 +1144,10 @@ Python
 * **[Books by Agiliq](https://books.agiliq.com)**
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
+* [Django 자습](https://wikidocs.net/book/837)
+* [PyQt5 Tutorial : 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
+* [파이썬 괴식 레시피 - 긱(Geek)스럽게 파이썬 활용하기](https://wikidocs.net/book/2460)
+* [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
