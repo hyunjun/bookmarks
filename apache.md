@@ -591,6 +591,7 @@ Apache
   * Apache Kudu는 급변하는 데이터를 빠르게 분석할 수 있도록 설계. 또한 빠른 인서트/업데이트와 효율적인 열 기반 스캔을 결합하여 단일 스토리지 계층에서도 다수의 실시간 분석 워크로드를 지원. 이러한 이유 때문에 언제든지 쿼리를 실행할 수 있는 실시간 데이터가 저장되는 장소로서 데이터 파이프라인에 매우 적합. 또한 행 업데이트와 행 삭제를 실시간으로 지원하여 지연 수신되는 데이터 및 데이터 교정도 가능
   * Apache HDFS는 낮은 비용으로 무제한 확장이 가능하도록 설계. 따라서 데이터 변경이 불가능한 배치 지향 사용 사례에 최적화. 그 밖에도 Apache Parquet 파일 형식과 연결할 경우 매우 높은 처리량과 효율성으로 정형 데이터에 액세스 가능
   * 차원 테이블처럼 데이터가 소량이면서 끊임없이 바뀌는 상황에서는 모든 데이터를 Kudu에 저장하는 경우 다수. 데이터가 Kudu의 확장 제한을 넘지 않는다면 대용량 테이블이라고 해도 Kudu의 고유 기능을 이용 가능하므로 Kudu에 저장. 데이터가 대용량이고, 배치 지향적이고, 변경이 불가능한 경우에는 Parquet 형식을 사용해 데이터를 HDFS에 저장하는 것이 좋음. 두 스토리지 계층의 이점이 모두 요하다면 슬라이딩 윈도우 패턴이 효과적인 솔루션
+* [Testing Apache Kudu Applications on the JVM](https://blog.cloudera.com/blog/2019/03/testing-apache-kudu-applications-on-the-jvm/)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**
