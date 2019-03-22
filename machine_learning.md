@@ -596,6 +596,7 @@ Machine Learning
 * [Density-Based Clustering](http://blog.dominodatalab.com/topology-and-density-based-clustering/)
 * [Machine Learning 스터디 (13) Clustering (K-means, Gaussian Mixture Model)](http://sanghyukchun.github.io/69/)
 * [K-means 알고리즘 구현하기](https://junpyopark.github.io/K_means/)
+* [Hands-On with Unsupervised Learning](https://towardsdatascience.com/hands-on-with-unsupervised-learning-93d4d6cad4c7)
 
 ## Clustering Python
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
