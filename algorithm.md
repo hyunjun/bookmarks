@@ -36,6 +36,8 @@ Algorithm
 * [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
 * [solving linear range checks](http://www.playingwithpointers.com/solving-linear-range-checks.html)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
+* [Binary data structures: an intro to trees and heaps in JavaScript](https://medium.freecodecamp.org/binary-data-structures-an-intro-to-trees-and-heaps-in-javascript-962ab536cb42)
+* [The complexity of simple algorithms and data structures in JS](https://medium.freecodecamp.org/the-complexity-of-simple-algorithms-and-data-structures-in-javascript-11e25b29de1e)
 * [A Step Towards Computing as a Science Simple Algorithms & Data Structures in JS](https://medium.freecodecamp.org/a-step-towards-computing-as-a-science-algorithms-data-structures-4c0e2d6ae79a)
 * [Using the Right Datastructure for the job](http://rohankshir.github.io/2015/05/15/choosing-the-right-datastructure/)
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
