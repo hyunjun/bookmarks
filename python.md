@@ -837,6 +837,8 @@ Python
 * pydoc
   * [PyDoc - A Celebration of Documentation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=URBSvqib0xw)
   * [Best Practices With Documenting and Refactoring Python Code](https://www.youtube.com/watch?v=S8P_pJrw9uk)
+* random
+  * shuffle [사용자 데이터셋 셔플](https://jybaek.tistory.com/781)
 * re
   * practice
     * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
