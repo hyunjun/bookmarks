@@ -308,6 +308,7 @@ Git
     * [git diff handling long lines](http://stackoverflow.com/questions/136178/git-diff-handling-long-lines)
   * `git diff ... --name-only`
   * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
+  * `git diff <branch1>..<branch2> -- <filename>` branch간 특정 file 비교
 * gitignore
   * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
   * [gitignore.io](https://www.gitignore.io/)
@@ -320,6 +321,8 @@ Git
   * `git log --oneline --graph --all --branches --decorate`
     * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit)
     * [Git log in JSON format](https://gist.github.com/varemenos/e95c2e098e657c7688fd)
+    * [Pretty git branch graphs](https://stackoverflow.com/questions/1057564/pretty-git-branch-graphs)
+    * [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298)
   * `git log -g --grep=STRING`
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
