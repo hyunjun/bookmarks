@@ -584,6 +584,7 @@ NLP
   * 텍스트 생성은 언어 모델링 문제의 유형
   * 잘 학습된 언어 모델은 텍스트에서 사용된 단어의 이전 순서를 기반으로 단어의 발생 가능성을 학습
   * 언어 모델은 문자 수준, n-gram 수준, 문장 수준 또는 단락 수준에서 조작 가능
+* [WHAT EVERY NLP ENGINEER NEEDS TO KNOW ABOUT PRE-TRAINED LANGUAGE MODELS](https://www.topbots.com/ai-nlp-research-pretrained-language-models)
 * [Language modeling a billion words](http://torch.ch/blog/2016/07/25/nce.html)
 * [확률론적 언어 모형](https://www.datascienceschool.net/view-notebook/a0c848e1e2d343d685e6077c35c4203b/)
 * [Perplexed by Game of Thrones. A Song of N-Grams and Language Models](http://nlp.yvespeirsman.be/blog/song-of-ngrams-and-lms/)
