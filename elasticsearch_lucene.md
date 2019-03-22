@@ -502,6 +502,7 @@ ElasticSearch - Lucene
 * [Elasticsearch Machine Learning을 이용한 다국어 로그 분류](https://www.elastic.co/kr/blog/categorizing-non-english-log-messages-in-machine-learning-for-elasticsearch)
 * [Recap: Elasticsearch Machine Learning Forecasting on Time Series Data](https://www.elastic.co/blog/recap-elasticsearch-machine-learning-forecasting-on-time-series-data)
 * [Elasticsearch 머신 러닝을 이용한 Web Access 로그 분석](https://www.elastic.co/kr/webinars/event-logs-in-elasticsearch-and-machine-learning)
+* [Elasticsearch의 머신 러닝을 이용한 주문형 예측](https://www.elastic.co/kr/blog/elasticsearch-machine-learning-on-demand-forecasting)
 * [IT Operations with Machine Learning Demo](https://www.youtube.com/watch?v=mqEqBN0_Lnc)
 
 # Plugin
