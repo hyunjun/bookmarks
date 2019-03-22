@@ -506,6 +506,7 @@ Scala
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
 
 # Conference
+* [This is why you must join Scalar 2019](https://blog.softwaremill.com/this-is-why-you-must-join-scalar-2019-69ad12248e95)
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [scalar-conf.com](http://scalar-conf.com/)
 * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
@@ -574,6 +575,7 @@ Scala
 * [lagom - The opinionated microservices framework for moving away from the monolith](https://www.lagomframework.com/)
   * [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
   * [Rapid and Highly Scalable Development Using Scala and Lagom](https://medium.com/@coreyauger/rapid-and-highly-scalable-development-using-scala-and-lagom-17a9205da42b)
+  * [Part 2: Deploying Lagom with a CI/CD Pipeline on Kubernetes](https://medium.com/@coreyauger/part-2-deploying-lagom-with-a-ci-cd-pipeline-on-kubernetes-a6ea47aff21f)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
@@ -717,6 +719,7 @@ Scala
 * [running sbt on Docker](http://eed3si9n.com/sbt-on-docker)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [The basics of the build.sbt](https://medium.com/@pwdd/the-basics-of-the-build-sbt-bbf81a0aa8d0)
+* [Scala sbt Project Directory Walkthrough](https://medium.com/@wangyunlongau/scala-sbt-project-directory-structure-c254bb08623e)
   
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
