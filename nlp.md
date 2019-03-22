@@ -130,6 +130,10 @@ NLP
 * [korean.abcthesaurus.com](http://korean.abcthesaurus.com/) 동의어 사전
 * [Microsoft Concept Graph Preview For Short Text Understanding](https://concept.research.microsoft.com/Home/Introduction)
 * [en.wikipedia.org/wiki/Precision_and_recall](https://en.wikipedia.org/wiki/Precision_and_recall)
+  * 실제와 예측이 일치; True Positive / Negative
+  * 실제와 예측이 불일치; False Positive / Negative
+  * 발생했다고 예측 Positive, 발생하지 않았다고 예측 Negative
+  * [정밀도와 재현율](https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%80%EB%8F%84%EC%99%80_%EC%9E%AC%ED%98%84%EC%9C%A8)
   * **[accuracy, precision, recall의 차이](http://shine-ing.tistory.com/m/157)**
   * [정확도(accuracy)와 정밀도(precision)의 차이](http://www.withrobot.com/technicalreport19/)
   * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
