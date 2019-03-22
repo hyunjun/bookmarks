@@ -276,6 +276,7 @@ AWS
 * [Pub/Sub with AWS SNS, SQS and Laravel](https://hackernoon.com/pub-sub-with-aws-sns-sqs-and-laravel-ed9f7e1bd79)
 * [Back-Pressure strategy: AWS SQS polling from a sharded Akka Cluster running on Kubernetes](https://medium.com/@programmerohit/back-pressure-implementation-aws-sqs-polling-from-a-sharded-akka-cluster-running-on-kubernetes-56ee8c67efb)
 * [로봇 개발 어떻게 해야되죠? (1/2) - AWS RoboMaker 따라하기 (ROS 어플리케이션 개발과 시뮬레이션 편)](http://woowabros.github.io/tools/2019/03/03/AWS_RoboMaker_Development_and_Simulation.html)
+* [AWS Landing Zone Solution -Accelerating Cloud Adoption](https://hackernoon.com/aws-landing-zone-solution-accelerating-cloud-adoption-2b1c17017bc)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
