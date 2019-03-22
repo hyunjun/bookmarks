@@ -1502,6 +1502,7 @@ Python
 * [Flask Routing & Sessions: A Subtle Symphony - With great flexibility comes great responsibility](https://hackingandslacking.com/flask-routing-sessions-a-subtle-symphony-f008e7198379)
 * [Using the url_for Function in Flask Blueprints](https://www.youtube.com/watch?v=BMBwahCCaEk)
 * [Working with APIs using Flask, Flask-RESTPlus and Swagger UI](https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f)
+* [Flask for Beginners Tutorial - Learn Flask in 40 Minutes (2019)](https://www.youtube.com/watch?v=EnJKHVEzHFw)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
