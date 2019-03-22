@@ -68,6 +68,7 @@ Javascript
   * [#1. Call Stack](https://www.youtube.com/watch?v=QkFkFqg-J04)
   * [#2. Primitive Types](https://www.youtube.com/watch?v=IMyvCJKZSL8)
   * [#3. Value Types and Reference Types](https://www.youtube.com/watch?v=hYHv5m1NMFE)
+  * [#4. Type Coercion](https://www.youtube.com/watch?v=dIIQmSsg0SI)
 * [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
@@ -2152,3 +2153,4 @@ Javascript
   * [part 3 — Lazy loading Vuex modules](https://itnext.io/vue-js-app-performance-optimization-part-3-lazy-loading-vuex-modules-ed67cf555976)
 * [Vue JS Crash Course - 2019](https://www.youtube.com/watch?v=Wy9q22isx3U)
 * [vue js 사용 가이드](https://wikidocs.net/book/1937)
+* [Learn Vue.js - Full Course for Beginners](https://www.youtube.com/watch?v=4deVCNJq3qc)
