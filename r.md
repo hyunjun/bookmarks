@@ -340,6 +340,10 @@ R
 * [clipr - R functions for reading and writing from the system clipboard](https://github.com/mdlincoln/clipr)
 * [crantastic.org - a community site for R packages where you can search for, review and tag CRAN packages](http://crantastic.org/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
+* [data.table - R's data.table package extends data.frame: http://r-datatable.com ](https://github.com/Rdatatable/data.table)
+  * [DPLYR을 DATA.TABLE로 번역하기 패키지 데이터테이블(data.table)](http://ds.sumeun.org/?p=1035)
+  * [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/)
+    * 분산 시스템 없이 대용량 전처리 벤치마크. dplyr 8초, pandas out of memory, data.table 0.3초
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
 * [DNH4](https://forkonlp.github.io/DNH4/)
   * [네이버 뉴스와 다음 뉴스의 댓글 가져오기](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%89%B4%EC%8A%A4%EC%99%80-%EB%8B%A4%EC%9D%8C-%EB%89%B4%EC%8A%A4%EC%9D%98-%EB%8C%93%EA%B8%80-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/)
