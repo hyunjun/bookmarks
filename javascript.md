@@ -505,6 +505,7 @@ Javascript
 * [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 * [Understanding Change Detection Strategies in Angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
 * [Boost Angular’s Performance by Lazy Loading your Modules](https://blog.bitsrc.io/boost-angulars-performance-by-lazy-loading-your-modules-ca7abd1e2304)
+* [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -1753,6 +1754,7 @@ Javascript
 * [0CJS (zero config javascript) support tool for React](https://github.com/iamssen/react-zeroconfig)
 * [How to code the Game of Life with React](https://medium.freecodecamp.org/coding-the-game-of-life-with-react-7de2385b7356)
 * [React Native 일기장](https://wikidocs.net/book/1878)
+* [How to understand a component’s lifecycle methods in ReactJS](https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1828,6 +1830,7 @@ Javascript
 * [BlaBoo 업데이트 후기 - RN(React Native)를 사용하여 BlaBoo라는 앱을 제작하고 배포하였습니다. 앱 배포후 BlaBoo는 어떤 업데이트 하고 있는지에 대해 설명합니다](https://dev-yakuza.github.io/ko/blaboo/update-review)
 * [Lessons I learned while building in React Native](https://medium.freecodecamp.org/lessons-i-learned-while-building-in-react-native-917cb7bb5993)
 * [How to improve performance in your apps with Lighthouse, Webpack, and React Loadable Components](https://medium.freecodecamp.org/taming-performance-in-todays-web-app-with-lighthouse-webpack-and-react-loadable-components-b2d3fa04e0ab)
+* [「일단공부」 앱 개발기(RN, React Native)](https://dev-yakuza.github.io/ko/ildangongbu/development-journal/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
