@@ -407,6 +407,7 @@ Machine Learning
 * [머신러닝과 전통적 통계학의 차이](https://medium.com/@hyunseok/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%A0%84%ED%86%B5%EC%A0%81-%ED%86%B5%EA%B3%84%ED%95%99%EC%9D%98-%EC%B0%A8%EC%9D%B4-a560f0708db0)
 * [Machine Learning Mindmap / Cheatsheet](https://github.com/dformoso/machine-learning-mindmap)
 * [Machine Learning Cheatsheet](https://ml-cheatsheet.readthedocs.io)
+* [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://startupsventurecapital.com/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [누구나 쉽게 할 수 있는 빅데이타와 머신러닝](https://www.slideshare.net/Byungwook/ss-79709096)
 * [Introducing: Unity Machine Learning Agents](https://blogs.unity3d.com/kr/2017/09/19/introducing-unity-machine-learning-agents/)
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
@@ -824,6 +825,7 @@ Machine Learning
 * [애저 펑션 Swagger UI 소개](https://blog.aliencube.org/ko/2019/02/02/introducing-swagger-ui-on-azure-functions/)
 * [새롭게 톺아보는 애저 펑션 의존성 관리](https://blog.aliencube.org/ko/2019/02/22/revising-dependency-injections-on-azure-functions-v2/)
 * [Fluent API를 사용한 Domain Specific Language (DSL) 첫걸음](https://blog.aliencube.org/ko/2019/01/11/domain-specific-language-with-fluent-api/)
+* [Getting Started with Azure Functions and their extensions Superpower](https://hackernoon.com/getting-started-with-azure-functions-and-their-extensions-superpower-b4bc1bb29865)
 
 ### Microsoft Azure Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
