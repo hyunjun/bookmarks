@@ -213,6 +213,20 @@ Programming
 * [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
 * [동작하게 만들고, 제대로 만들고, 빠르게 만든다](http://jhrogue.blogspot.com/2019/01/b_19.html)
 * [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode)
+* [How Google Software Engineers Work (coding & programming workflow)](https://www.youtube.com/watch?v=LnXk9XZjXbg)
+  * [Software Engineering at Google](https://arxiv.org/pdf/1702.01715.pdf)
+  * Most of Google’s code is stored in a single unified source-code repository, and is accessible to all software engineers at Google
+    * 개방성. 의사소통 효율 향상
+  * Almost all development occurs at the “head” of the repository, not on branches
+    * 별도의 브랜칭 전략 없이 master에서만 개발
+  * Engineers are encouraged to keep each individual change small
+    * 개별 commit은 최대한 작게 유지
+  * Unit Testing is strongly encouraged and widely practiced at Google
+    * 엄격하고 꼼꼼한 테스팅
+  * There are also Google style guides for each language, to ensure that code all across the company is written with similar style, layout, naming conventions, etc
+    * 언어별 전사적인 스타일 가이드
+  * Most software at Google gets rewritten every few years. Rewriting code cuts away all the unnecessary accumulated complexity that was addressing requirements which are no longer so important
+    * 몇년에 한번 코드 재작성 불필요한 쓰레기 코드를 버리고 가독성 좋은 / 효율적인 코드 유지. 구글에서는 이렇게 하는게 비용대비 효율이 좋다고 판단. 코드를 재작성 함으로써 부차적으로 새 팀 멤버들에게 오너십 부여
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
