@@ -165,6 +165,7 @@ PyTorch
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)
 * [PyTorch 0.3 + Boost Python 주의사항](https://blog.naver.com/atelierjpro/221167002726)
 * [윈도우 10 PyTorch 환경 구성 - 설치](http://bob3rdnewbie.tistory.com/313)
+* [dakshoont/jupyterhub](https://hub.docker.com/r/dakshoont/jupyterhub) JupyterHub Image with TensorFlow and PyTorch
 
 # Library
 * [김군이](https://www.youtube.com/channel/UCK24Wy_G-6V-quKvVRjflgA)
@@ -234,3 +235,4 @@ PyTorch
 * [PYTORCH 머신러닝 튜토리얼 강의](http://wingnim.tistory.com/category/Programming%20Project/Pytorch%20Tutorials)
 * [PyTorch KR Tutorial Competition 2018](https://github.com/PyTorchKR/Tutorial-Competition-2018)
 * [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
+* [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
