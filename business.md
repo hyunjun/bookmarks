@@ -31,6 +31,7 @@ Business
 * [Don't sell a product, sell an experience. And give everything else away for free](http://hauser.io/dont-sell-a-product-sell-an-experience-and-give-everything-else-away-for-free/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [Modeling mediums](https://medium.com/@benrbn/modeling-communication-mediums-4b8ee097558f)
+* **[On Improving Communication Inside a Dev Team](https://hackernoon.com/on-improving-communication-inside-a-dev-team-38ad3a0e892a)**
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
