@@ -151,6 +151,7 @@ Algorithm
 * [Coding Your First Algorithm — Draw A Line](https://medium.freecodecamp.org/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395)
 * [What’s the smallest possible number? — Programming Word of the Day](https://medium.com/background-thread/whats-the-smallest-possible-number-programming-word-of-the-day-d959bc6f2dd5)
 * [na982.tistory.com/category/Data Structure](https://na982.tistory.com/category/Data%20Structure)
+* [Introduction to Algorithms Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
