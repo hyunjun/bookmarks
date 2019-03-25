@@ -34,6 +34,7 @@ Finance
 * [초단타매매 전략 소개 및 트렌드](https://tv.naver.com/v/3255292)
 * [미국 투기등급 채권에 투자하면 위험하지 않나요?](https://m.blog.naver.com/PostView.nhn?blogId=hong8706&logNo=221249299868&navType=tl)
 * [한국인을 위한 맞춤 재테크 전략은 없을깡?](https://m.blog.naver.com/PostView.nhn?blogId=hong8706&logNo=221223694635&navType=tl)
+* [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
