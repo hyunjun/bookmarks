@@ -207,6 +207,7 @@ Keras
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
 * [텐서플로우, 티아노, 케라스 오프라인 설치 (주피터 포함)](https://tykimos.github.io/Keras/2017/03/15/Keras_Offline_Install/)
+* [Tensorflow 및 Keras Offline 설치 순서](https://donaldaq.github.io/articles/2019-03/Challenge-Tensorflow-Offline-Install)
 
 # Library
 * [Auto-Keras - an open source software library for automated machine learning (AutoML)](https://github.com/jhfjhfj1/autokeras)
