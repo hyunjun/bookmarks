@@ -397,7 +397,6 @@ Interview
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
 
 # Salary 연봉
-* [levels.fyi](https://www.levels.fyi/) 회사 직급별 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
 * [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
@@ -409,8 +408,10 @@ Interview
 * [SOFTWARE ENGINEER SALARY DATA](https://triplebyte.com/software-engineer-salary)
 * [해외 기업과 연봉협상 하기전 반드시 조사할 것 3가지](https://www.youtube.com/watch?v=H3DgymDoKj0)
 * [RSUs vs. Stock options 다른 점은?](https://brunch.co.kr/@seungjoonlernnx/53)
-* [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
+* [levels.fyi](https://www.levels.fyi/) 회사 직급별 연봉
+* [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
+* [perks.guide](http://perks.guide/) 회사 복지 비교
 
 # Spotify
 * [스톡홀름에서의 인터뷰](https://brunch.co.kr/@worker-in-yvr/13)
