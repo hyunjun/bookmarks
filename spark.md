@@ -392,6 +392,7 @@
   * [Selecting Dynamic Columns In Spark DataFrames (aka Excluding Columns)](http://bailiwick.io/2017/08/08/selecting-dynamic-columns-in-spark-dataframes/)
   * [Spark: Elegantly Aggregate DataFrame by One Key Column](https://medium.com/@kieran_77908/spark-elegantly-aggregate-dataframe-by-one-key-column-6dbbcf546e1d)
   * [A practical introduction to Spark’s Column- part 1](https://medium.com/@achilleus/https-medium-com-achilleus-a-practical-introduction-to-sparks-column-3f5fe83125c9)
+  * [A practical introduction to Spark’s Column- part 2](https://medium.com/@achilleus/a-practical-introduction-to-sparks-column-part-2-1e52f1d29eb1)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
