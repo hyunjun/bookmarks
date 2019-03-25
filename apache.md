@@ -429,6 +429,7 @@ Apache
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
 * [Finding Kafka’s throughput limit in Dropbox infrastructure](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
 * [Kafka, Producer 부터 Consumer 까지](https://docs.google.com/presentation/d/16ZoY4QLpbAqHcCISaURCKXGNGs9sG809Pi4MHLsdKNA/)
+* [kafka-multiprocessing-producer.py](https://gist.github.com/outtoin/12d1334b1345403c57372fcc6653c11b) 정상 동작하는 지 점검 필요
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -469,6 +470,7 @@ Apache
       * 알림은 Slack, 시각화 도구는 ES
   * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
   * [ATM Fraud Detection with Apache Kafka and KSQL](https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql)
+    * [ATM Fraud Detection with Kafka and KSQL - Hands on Guide](https://github.com/confluentinc/demo-scene/blob/master/ksql-atm-fraud-detection/ksql-atm-fraud-detection-README.adoc)
   * [Real-Time Sysmon Processing via KSQL and HELK — Part 1: Initial Integration](https://posts.specterops.io/real-time-sysmon-processing-via-ksql-and-helk-part-1-initial-integration-88c2b6eac839)
     * HELK; 보안 이벤트 로그를 분석하기 위해 표준 ELK를 확장한 스택
     * 이 글에서는 KSQL을 통해 추가 분석을 하는 방법을 설명
