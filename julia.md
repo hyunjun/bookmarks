@@ -81,6 +81,7 @@ Julia
 * [keno.github.io/julia-wasm/website/repl.htm](https://keno.github.io/julia-wasm/website/repl.htm)
 * [DiffEqFlux.jl – A Julia Library for Neural Differential Equations](https://julialang.org/blog/2019/01/fluxdiffeq)
 * [Using Julia for Data Science](https://cleytonfar.github.io/posts/using-julia-for-data-science/)
+* [A Julia interpreter and debugger](https://julialang.org/blog/2019/03/debuggers)
 
 # API
 * Pkg.add
