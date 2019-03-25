@@ -480,6 +480,7 @@ Deep Learning
 * [Batch Normalization 설명 및 구현](https://shuuki4.wordpress.com/2016/01/13/batch-normalization-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
 * [Batch normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://blog.soundcorset.kr/2017/07/batch-normalization-accelerating-deep.html)
 * [Understanding Batch Normalization with Examples in Numpy and Tensorflow with Interactive Code](https://towardsdatascience.com/understanding-batch-normalization-with-examples-in-numpy-and-tensorflow-with-interactive-code-7f59bb126642)
+* [Introduction to Deep Learning Normalization](https://subinium.github.io/introduction-to-normalization)
 * [Deep Learning - Achieve faster training of deep neural networks on a robust, scalable infrastructure](https://software.intel.com/en-us/ai/deep-learning)
 * [CPU, GPU Put to Deep Learning Framework Test](https://www.nextplatform.com/2016/09/01/cpu-gpu-put-deep-learning-framework-test/)
 * [딥러닝의 역사와 기본 개념](http://bcho.tistory.com/1147)
