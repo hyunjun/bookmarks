@@ -187,6 +187,7 @@ Vision
   * [Object detection in just 3 lines of R code using Tiny YOLO](https://heartbeat.fritz.ai/object-detection-in-just-3-lines-of-r-code-using-tiny-yolo-b5a16e50e8a0)
   * [What’s new in YOLO v3?](https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b)
   * [Common Understanding about YOLO](https://www.slideshare.net/ssuserea05e4/common-understanding-about-yolo-125713439)
+  * [One-shot object detection](https://machinethink.net/blog/object-detection/)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
@@ -255,6 +256,7 @@ Vision
 * [A Practical Implementation of the Faster R-CNN Algorithm for Object Detection (Part 2 — with Python codes)](https://www.analyticsvidhya.com/blog/2018/11/implementation-faster-r-cnn-python-object-detection/)
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
 * [SlowFast – Dual-mode CNN for Video Understanding](https://lyrn.ai/2018/12/21/slowfast-dual-mode-cnn-for-video-understanding/)
+* [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -370,6 +372,7 @@ Vision
 * [tf_train_opencv_run - It shows how to generate a \*.pb file with Tensorflow and how to use the \*.pb file in an OpenCV application](https://github.com/sunkyoo/tf_train_opencv_run)
 * [이미지 프로세싱 & 컴퓨터 시각화 1부](https://kimx3129.github.io/emerald//code-syntax)
 * [이미지 프로세싱 & 컴퓨터 시각화 2부](https://kimx3129.github.io/emerald//introduction-opencv)
+* [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 
 # OpenGL
 * [open.gl](https://open.gl/)
@@ -414,6 +417,9 @@ Vision
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
+
+# R
+* [Human Face Detection with R](https://www.r-bloggers.com/human-face-detection-with-r/)
 
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)
