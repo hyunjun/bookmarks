@@ -17,6 +17,7 @@ Scala
 * [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
 * [Scala Tutorial](https://intellipaat.com/tutorial/scala-tutorial/)
 * [Scala Tutorial Through Katas](https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/)
+* [What are code katas and why should we care?](https://medium.com/@alexandru.macavei/what-are-code-katas-and-why-should-we-care-ffaaa558556)
 * [5월의 나프다 웨비너 - 자바 개발자를 위한 스칼라 입문](https://www.youtube.com/watch?v=T-8NXAabgwY)
 * [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 * [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
@@ -229,6 +230,8 @@ Scala
 * [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
 * [Weird Case of Scala Compiler Slow Performance](https://medium.com/@Ivanobulo/weird-case-of-scala-compiler-slow-performance-70463b8c8a5a)
 * [Machine Learning with Scala in Google Colaboratory](https://medium.com/@shadaj/machine-learning-with-scala-in-google-colaboratory-e6f1661f1c88)
+* **[Parallel computing in Python and Scala](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)**
+* [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -461,6 +464,7 @@ Scala
     * [John A De Goes - ZIO: Next-Generation Effects in Scala](https://www.youtube.com/watch?v=mkSHhsJXjdc)
     * [Scale By The Bay 2018: John A. De Goes, Itamar Ravid, Scalaz Stream: Rebirth](https://www.youtube.com/watch?v=mLJYODobz44)
     * [Kyiv Scala meetup v9 - Welcome to Scalaz ZIO by Oleksandra Holubitska](https://www.youtube.com/watch?v=q_CJqpuZlBc)
+    * [Functional Hangman with ZIO](https://medium.com/@alandevlin7/functional-hangman-with-zio-32c64e622f82)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
