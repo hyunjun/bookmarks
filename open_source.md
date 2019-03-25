@@ -49,6 +49,7 @@ Open Source
 * [2018 최고의 오픈소스 소프트웨어 : 데이터 스토리지 및 애널리틱스](http://www.itworld.co.kr/slideshow/110963)
 * [개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법 (Why and How to Contribute to Open Source)](https://www.youtube.com/watch?v=GejCvgcBLwA)
 * [한국 오픈소스 프로젝트 랭킹 Top 100 한국의 대표 오픈소스 프로젝트, 그리고 이를 만드는 사람과 회사](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf)
+* [DMLC 맴버로 초청받다](http://freesearch.pe.kr/archives/4941)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
