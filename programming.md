@@ -620,6 +620,8 @@ Programming
     * `gcloud compute ssh {VM name} -- -L 8888:localhost:8888 -L 6006:localhost:6006 -L 8080:localhost:8080`
   * [구글 Cloud SQL 에 이모티콘 들어가게 설정하기](https://jungwoon.github.io/google%20cloud,%20mysql/2019/01/10/Google-Cloud-SQL-Enable-Emojis/)
   * [MySQL, Google Cloud, and a REST API that Generates Itself](https://hackingandslacking.com/mysql-google-cloud-and-a-rest-api-that-generates-itself-9872fc9dc84f)
+  * [GCP를 이용해서 머신러닝 프로덕트 만들기](https://docs.google.com/presentation/d/11MxXhGxJKgdbGnuwwm0QlsVc6-kYNjCYnbsrZeGFnFw)
+  * [좌충우돌 CLOUD 학습기(이동민)](https://www.slideshare.net/DONGMINLEE15/cloud-137939221)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
