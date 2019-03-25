@@ -353,6 +353,7 @@ Data Science
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [Research data management simplified](https://www.globus.org/)
 * [Welcome to Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Creating a dataset using an API with Python](https://towardsdatascience.com/creating-a-dataset-using-an-api-with-python-dcc1607616d)
 
 # Python
 * [github.com/PyDataKR/pydata.kr](https://github.com/PyDataKR/pydata.kr)
