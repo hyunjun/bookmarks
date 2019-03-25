@@ -430,6 +430,8 @@ Apache
 * [Finding Kafka’s throughput limit in Dropbox infrastructure](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
 * [Kafka, Producer 부터 Consumer 까지](https://docs.google.com/presentation/d/16ZoY4QLpbAqHcCISaURCKXGNGs9sG809Pi4MHLsdKNA/)
 * [kafka-multiprocessing-producer.py](https://gist.github.com/outtoin/12d1334b1345403c57372fcc6653c11b) 정상 동작하는 지 점검 필요
+* [Securing the Confluent Schema Registry for Apache Kafka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
+* [kafka-tutorials.com](https://www.kafka-tutorials.com)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
