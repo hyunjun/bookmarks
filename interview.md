@@ -397,6 +397,7 @@ Interview
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
 
 # Salary 연봉
+* [levels.fyi](https://www.levels.fyi/) 회사 직급별 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
 * [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
