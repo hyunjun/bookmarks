@@ -40,6 +40,7 @@ Monitoring
 * [Monitoring large scale e-commerce websites at MakeMyTrip — Part 1](https://medium.com/makemytrip-engineering/monitoring-large-scale-e-commerce-websites-at-makemytrip-part-1-ce50499b90ee)
 * [Python Script that monitors a service running on systemd. If service is not running the script will try to start the service](https://gist.github.com/piraz/de85b67e95132b5cf84e)
 * [Monitor Your Precious System](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181108_SM_Monitoring.md)
+* [Pro Tips: How Booking.com Handles Millions of Metrics Per Second with Graphite](https://grafana.com/blog/2019/03/21/pro-tips-how-booking.com-handles-millions-of-metrics-per-second-with-graphite/)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
