@@ -65,6 +65,7 @@ Programming Books
 * (NOT YET) [인텔리제이 IDEA 기본 사용법부터 고급 기능까지 마스터하기](http://acornpub.co.kr/book/intellij-idea)
 * (NOT YET) [AI 빅데이터에 숨어있는 수학의 아름다움](http://www.sejongbooks.co.kr/book_board/pubstory_book_view.php?id=bookstory&no=20501&category=08)
 * (NOT YET) **[HTTP 완벽 가이드: 웹은 어떻게 동작하는가](https://blog.outsider.ne.kr/1431)**
+* (NOT YET) [빅데이터가 만드는 세상 / 빅토르 마이어 쇤버거](http://ohyecloudy.com/pnotes/archives/book-big-data-a-revolution-that-will-transform-how-we-live-work-and-think/)
 
 # Agile Scrum
 
@@ -178,6 +179,7 @@ Programming Books
 
 * Understanding and Using C Pointers / C 포인터의 이해와 활용
   * 한라 005.13리57ㅆ
+* (NOT YET) [모던 C 언어 프로그래밍 IDE, 디자인 패턴, XP, TDD, 리팩터링, 지속적인 통합](https://wikibook.co.kr/modern-c-programming/)
 
 # C++
 
@@ -1229,6 +1231,8 @@ Programming Books
 * (NOT YET) [R로 하는 빅데이터 분석: 데이터 전처리와 시각화](http://ds.sumeun.org/?p=891)
 * (NOT YET) [시작하세요! 데이터 분석 with R R로 배우는 기초 통계와 데이터 분석 기법](http://wikibook.co.kr/data-analysis-with-r/)
 * (NOT YET) [앤디 필드의 유쾌한 R 통계학](https://jpub.tistory.com/900)
+  * ['Discovering Statistics Using R' 번역서 '앤디 필드의 유쾌한 R 통계학' 출간 소식 및 근황](http://occamsrazr.net/tt/350)
+* (NOT YET) [코어 이더리움 프로그래밍](http://jhrogue.blogspot.com/2019/03/blog-post_23.html)
 
 # Scala
 
