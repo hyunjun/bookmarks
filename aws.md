@@ -170,6 +170,7 @@ AWS
 * [테라폼(Terraform) 기초 튜토리얼 AWS와 테라폼으로 구현하는 Infrastructure as Code](https://www.44bits.io/ko/post/terraform_introduction_infrastrucute_as_code)
 * [테라폼을 가장 잘 지원하는 에디터는? 젯브레인 인텔리J를 활용한 테라폼 코드 작성](https://www.44bits.io/ko/post/what-is-the-best-editor-that-supports-terraform)
 * [테라폼 0.12 베타 1 출시 및 개선된 HCL 문법 살펴보기](https://www.44bits.io/ko/post/preview-new-feature-of-terraform-012-beta-1)
+* [Making Terraform and Serverless framework work together](https://hackernoon.com/making-terraform-and-serverless-framework-work-together-b00e6af63ee9)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
 * [Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
@@ -188,6 +189,7 @@ AWS
 * [AWS SES (Simple Email Service) Spring Boot 프로젝트에서 사용하기](http://jojoldu.tistory.com/246)
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
+* [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
 * [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬 (AWS 테크에반젤리스트)](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
 * [Amazon SageMaker 노트북 인스턴스에서 로컬 모드 사용하기](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance)
 * [Amazon SageMaker를 통한 美 대학 농구 결과 예측하기](https://aws.amazon.com/ko/blogs/korea/march-machine-learning-madness)
@@ -277,6 +279,7 @@ AWS
 * [Back-Pressure strategy: AWS SQS polling from a sharded Akka Cluster running on Kubernetes](https://medium.com/@programmerohit/back-pressure-implementation-aws-sqs-polling-from-a-sharded-akka-cluster-running-on-kubernetes-56ee8c67efb)
 * [로봇 개발 어떻게 해야되죠? (1/2) - AWS RoboMaker 따라하기 (ROS 어플리케이션 개발과 시뮬레이션 편)](http://woowabros.github.io/tools/2019/03/03/AWS_RoboMaker_Development_and_Simulation.html)
 * [AWS Landing Zone Solution -Accelerating Cloud Adoption](https://hackernoon.com/aws-landing-zone-solution-accelerating-cloud-adoption-2b1c17017bc)
+* [AWS Credentials were refreshed 발생시 해결 방법](https://jojoldu.tistory.com/410)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
