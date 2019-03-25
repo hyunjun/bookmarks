@@ -440,6 +440,7 @@ Javascript
 * [How I established a good release process in JavaScript](https://medium.freecodecamp.org/how-i-established-a-good-release-process-in-javascript-b93e57e247e1)
 * [Beer, Bravado & Bitbucket: Using data to drive CODE decisions](https://blog.usejournal.com/beer-bravado-bitbucket-using-data-to-drive-code-decisions-63f1dafe86cb)
 * [A bluffer’s guide to JavaScript proficiency](https://medium.freecodecamp.org/bluffers-guide-to-javascript-proficiency-18195dbe2618)
+* [How to communicate between Components](https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1460,6 +1461,7 @@ Javascript
 * [리액트 도움닫기](https://github.com/sujinleeme/the-road-to-learn-react-korean)
 * [리액트 도움닫기](https://realhanbit.co.kr/books/87/pages/0/read)
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676)
+* [Start your journey into the world of React by learning these basics](https://medium.freecodecamp.org/start-your-journey-into-the-world-of-react-by-learning-these-basics-d6e05d3655e3)
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
   * [deminoth.github.io/redux](https://deminoth.github.io/redux/)
   * [강좌 5-7편 Redux: Store](https://gist.github.com/velopert/8ce3162e2142eaadaa16891a5cbfce59)
@@ -1479,6 +1481,7 @@ Javascript
 * [RxJS로 캐러셀(Carousel) UI 만들기](http://tech.lezhin.com/2017/10/08/create-carousel-with-rxjs)
 * [How to never repeat the same RxJs mistakes again](https://medium.freecodecamp.org/blitz-tips-rxjs-pipe-is-not-a-subscribe-125c89437a2c)
 * [How to think reactively and animate moving objects using RxJs](https://medium.freecodecamp.org/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac)
+* [How to easily ignore useEffect HTTP calls with RxJS](https://medium.freecodecamp.org/how-to-easily-cancel-useeffect-http-calls-with-rxjs-d1be418014e8)
 * [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
 * [NgRx 5 and Schematics](https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
@@ -1680,6 +1683,7 @@ Javascript
 * [React hooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)
 * [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889)
 * [Why I’m excited with React Hooks?](https://itnext.io/why-im-excited-with-react-hooks-5a8601ac43f7)
+* [How to integrate React Hooks into your project without changing your Redux code](https://medium.freecodecamp.org/how-to-integrate-react-hooks-into-your-project-without-changing-your-redux-code-974e6f70f0b0)
 * [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
 * [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
@@ -1832,6 +1836,7 @@ Javascript
 * [Lessons I learned while building in React Native](https://medium.freecodecamp.org/lessons-i-learned-while-building-in-react-native-917cb7bb5993)
 * [How to improve performance in your apps with Lighthouse, Webpack, and React Loadable Components](https://medium.freecodecamp.org/taming-performance-in-todays-web-app-with-lighthouse-webpack-and-react-loadable-components-b2d3fa04e0ab)
 * [「일단공부」 앱 개발기(RN, React Native)](https://dev-yakuza.github.io/ko/ildangongbu/development-journal/)
+* [RN(Reacct Native)에서 sqlite 사용하기](https://dev-yakuza.github.io/ko/react-native/react-native-sqlite-storage/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -2028,6 +2033,7 @@ Javascript
 * [Native addon을 포함하여 Node.js + Typescript + Serverless 빌드 및 배포하기](https://www.slideshare.net/KyuhyunByun1/native-addon-nodejs-typescript-serverless)
 * [이제는 타입스크립트를 배워야합니다. (to 자바스크립트 개발자)](https://blog.hax0r.info/2019-03-12/typescript-in-fastcampus/)
 * [The easy way to get TypeScript interfaces from C#, Java, or Python code in any IDE](https://medium.freecodecamp.org/the-easy-way-to-get-typescript-interfaces-from-c-java-or-python-code-in-any-ide-c3acac1e366a)
+* [How (and why) you should use Typescript with Node and Express](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
