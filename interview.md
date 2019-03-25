@@ -68,6 +68,7 @@ Interview
 * **[알고리즘 학습에 대한 조언](http://blog.weirdx.io/post/55358)** 매우 좋은 글
 * [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
   * [인터뷰 준비(중) - 데이터 구조 / 알고리즘 리뷰](https://brunch.co.kr/@junyong/5)
+* [Software Interview Preparation Guide - Strategies and Resources on How to](https://www.youtube.com/watch?v=bBPHpH8aKjw)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
