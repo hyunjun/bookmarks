@@ -97,6 +97,7 @@ SQL
 * [Amazon Aurora – MySQL에서 DB 부하에 대한 최적화 방법](https://aws.amazon.com/ko/blogs/korea/planning-and-optimizing-amazon-aurora-with-mysql-compatibility-for-consolidated-workloads)
 * [재해복구(DR)를 위한 오로라 데이터베이스 구성](http://woowabros.github.io/study/2019/01/19/aws-global-database.html)
 * [AWS Aurora DB Cluster & Instance Parameter 튜닝](https://pkgonan.github.io/2019/01/aws-aurora-db-parameter-tuning)
+* [Aurora 로컬 스토리지 성능 테스트](http://woowabros.github.io/r-d/2019/03/22/localstorage.html)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
