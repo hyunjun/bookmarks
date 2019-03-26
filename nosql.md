@@ -239,6 +239,7 @@ NoSQL
   * [Firebase & Google Cloud: What’s different with Cloud Functions?](https://medium.com/google-developers/firebase-google-cloud-whats-different-with-cloud-functions-612d9e1e89cb)
   * [리모트 컨피그 서버 구축기](http://woowabros.github.io/tools/2019/02/18/remote-config-server.html)
   * [리모트 컨피그 앱 개발기](http://woowabros.github.io/experience/2019/03/25/remote_config_client.html)
+  * [RemoteConfig 이용해서 다이나믹하게 앱 업데이트 하기](https://developer88.tistory.com/158)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
