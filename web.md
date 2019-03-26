@@ -372,6 +372,7 @@ Web
 * [An Introduction to NGINX for Developers](https://medium.freecodecamp.org/an-introduction-to-nginx-for-developers-62179b6a458f)
 * [NGINX Unit - a dynamic web and application server](https://www.nginx.com/products/nginx-unit/)
 * [클라우드 구름 IDE 서비스를 이용해 용량 0MB로 개인 웹 사이트 만들기 1강: 구름 IDE 컨테이너 생성하기](http://ndb796.tistory.com/102)
+* [nginx: 로그 때문에 서버 용량이 찼을 때 처리 방법](https://ohgyun.com/785)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
