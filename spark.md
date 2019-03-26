@@ -365,6 +365,7 @@
 * [APACHE SPARK: RDD, DATAFRAME OR DATASET?](http://www.agildata.com/apache-spark-rdd-vs-dataframe-vs-dataset/)
 * [Learn Spark Scala with Clara: RDD](https://medium.com/@onsbouneb1/learn-spark-scala-with-clara-rdd-9395bd01cd52)
 * [Apache Spark’s Hidden REST API](http://arturmkrtchyan.com/apache-spark-hidden-rest-api)
+* [Spark Session vs Spark Context](https://medium.com/@achilleus/spark-session-10d0d66d1d24)
 * aggregate
 
   ```
