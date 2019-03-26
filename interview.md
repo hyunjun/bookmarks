@@ -69,6 +69,7 @@ Interview
 * [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
   * [인터뷰 준비(중) - 데이터 구조 / 알고리즘 리뷰](https://brunch.co.kr/@junyong/5)
 * [Software Interview Preparation Guide - Strategies and Resources on How to](https://www.youtube.com/watch?v=bBPHpH8aKjw)
+* [코딩 인터뷰 준비 – 팁과 나의 계획](https://matthew.kr/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84-%ED%8C%81%EA%B3%BC-%EB%82%98%EC%9D%98-%EA%B3%84%ED%9A%8D/)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
