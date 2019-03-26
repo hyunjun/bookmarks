@@ -1593,6 +1593,7 @@ Python
 * [Plotly 와 파이썬을 이용해서 모던한 차트 만들기](http://hamait.tistory.com/800)
 * [Plotly 를 쥬피터노트북에서 사용하기](http://hamait.tistory.com/801)
 * [Installing the IPython kernel](http://www.popit.kr/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BD%94%EB%93%9C-%EB%B6%84%EC%84%9D-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
+* [랩탑에서 딥러닝 서버에 접속하여 DOCKER/JUPYTER 사용하기](https://eungbean.github.io/2019/03/22/jupyter-ssh/)
 * (Window) Jupyter 에서 파이썬 2 & 파이썬 3 동시에 사용하기
   * [Window](http://goo.gl/w3QGoR)
   * [Linux & osX](http://goo.gl/w3QGoR)
