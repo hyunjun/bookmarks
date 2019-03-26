@@ -30,8 +30,6 @@ Business
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
 * [Don't sell a product, sell an experience. And give everything else away for free](http://hauser.io/dont-sell-a-product-sell-an-experience-and-give-everything-else-away-for-free/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
-* [Modeling mediums](https://medium.com/@benrbn/modeling-communication-mediums-4b8ee097558f)
-* **[On Improving Communication Inside a Dev Team](https://hackernoon.com/on-improving-communication-inside-a-dev-team-38ad3a0e892a)**
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
 * [사람을 대하는 게 익숙치 않은 사람들과 함께 일하는 법](http://newspeppermint.com/2015/06/02/working-together/)
@@ -218,7 +216,7 @@ Business
 * [중국, 모바일 혁명의 글로벌 선두주자가된 까닭은?](http://ppss.kr/archives/39913)
 * [2015 중국 SNS 트렌드 분석](http://ppss.kr/archives/59146)
 
-# Conversation
+# Conversation, Communication
 * [협상 전문가가 권하는 I-Message로 말하기](http://ppss.kr/archives/38309)
 * [유재석처럼 대화하는 여섯가지 방법](http://ppss.kr/archives/40094)
 * [직장에서 인정받는 언어습관 6가지..효과적인 커뮤니케이션 노하우](http://bonlivre.tistory.com/575)
@@ -226,6 +224,9 @@ Business
 * [FBI의 '호감 가는 사람이 되는 법'](http://live.media.daum.net/ttimes/ttimes_1509101123)
 * [직장인에게 필요한 능력 – 생각 말하기 (1)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-1/)
 * [직장인에게 필요한 능력 – 생각 말하기 (2)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-2/)
+* [Modeling mediums](https://medium.com/@benrbn/modeling-communication-mediums-4b8ee097558f)
+* **[On Improving Communication Inside a Dev Team](https://hackernoon.com/on-improving-communication-inside-a-dev-team-38ad3a0e892a)**
+* [효과적인 커뮤니케이션을 위한 3가지 도구](https://estimastory.com/2019/03/25/3tools/)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
