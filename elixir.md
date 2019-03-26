@@ -54,6 +54,7 @@ Elixir
 * [elixir 프로젝트 템플릿](https://github.com/ohyecloudy/project-templates/tree/master/elixir)
 * [Learn With Me: Elixir - A series where I learn Elixir and you can learn along with me](https://inquisitivedeveloper.com/tag/lwm-elixir/)
 * [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
+* [Elixir to Vert.x in Examples](https://medium.com/pharos-production/elixir-to-vert-x-in-examples-57bd4f3f1aa8)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
