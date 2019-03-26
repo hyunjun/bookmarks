@@ -468,6 +468,7 @@ TensorFlow
 * [세계 최초 딥러닝 기반 사회관계망(SNS) 자해 이미지 탐색 프로그램 개발기 및 실행 성과](http://dpsylab.com/%EC%84%B8%EA%B3%84-%EC%B5%9C%EC%B4%88-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B8%B0%EB%B0%98-%EC%82%AC%ED%9A%8C%EA%B4%80%EA%B3%84%EB%A7%9Dsns-%EC%9E%90%ED%95%B4-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%83%90/)
 * [Exporting trained TensorFlow models to C++ the RIGHT way!](https://medium.com/@hamedmp/exporting-trained-tensorflow-models-to-c-the-right-way-cf24b609d183)
 * [Ranking Tweets with TensorFlow](https://medium.com/tensorflow/ranking-tweets-with-tensorflow-932d449b7c4)
+* [구글 텐서플로우 첫걸음](https://www.slideshare.net/HwanheeKim2/ss-137921987)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
