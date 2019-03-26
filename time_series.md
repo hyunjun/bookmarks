@@ -27,6 +27,8 @@ Time Series
 * [yjucho1.github.io/categories/#time-series](https://yjucho1.github.io/categories/#time-series)
 * [Almost Everything You Need to Know About Time Series](https://towardsdatascience.com/almost-everything-you-need-to-know-about-time-series-860241bdc578)
 * [End to End Time Series Analysis and Modelling - Apply moving average, exponential smoothing, and SARIMA for stock prediction](https://towardsdatascience.com/end-to-end-time-series-analysis-and-modelling-8c34f09a3014)
+* [Pandas Series를 활용한 시계열 분석](http://blog.alphasquare.co.kr/221485152373)
+* [Pandas DataFrame을 활용한 시계열 분석](https://blog.naver.com/anthouse28/221491679016)
 
 # Library
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
