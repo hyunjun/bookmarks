@@ -275,6 +275,8 @@ R
 * [USEFUL R BASE FUNCTIONS](http://lumiamitie.github.io/r/useful-r-base-fun/)
 * [R Programming For Beginners | R Language Tutorial | R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU)
 * [수 표기 방법](http://ds.sumeun.org/?p=1052)
+* [Using RStudio and Git version control](https://www.r-bloggers.com/using-rstudio-and-git-version-control/)
+* [Sentiment Analysis, Word Embedding, and Topic Modeling on Venom Reviews](https://www.r-bloggers.com/sentiment-analysis-word-embedding-and-topic-modeling-on-venom-reviews/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
