@@ -277,6 +277,7 @@ NLP
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
+* [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
