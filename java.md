@@ -138,6 +138,7 @@ Java
   * [토비의 봄 TV 4회 (1) 자바 Generics](https://www.youtube.com/watch?v=ipT2XG1SHtQ)
   * [토비의 봄 TV 4회 (2) Generics에서 와일드카드 활용법, 람다와 인터섹션 타입을 이용한 동적인 기능확장법](https://www.youtube.com/watch?v=PQ58n0hk7DI)
   * [Java의 Generics](https://medium.com/@joongwon/java-java%EC%9D%98-generics-604b562530b3) covariant/contravariant, 공변/반공변
+  * [Java 제네릭 Generics DEEP DIVE](https://futurecreator.github.io/2018/08/12/java-generics/)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
   * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
@@ -415,6 +416,7 @@ Java
   * [#2 - 기본 로깅 및 JSON 포맷으로 로깅하기](https://bcho.tistory.com/1313)
   * [#3 - JSON 로그에 필드 추가하기](https://bcho.tistory.com/1314)
   * [#4 - Correlation id & MDC](https://bcho.tistory.com/1316)
+  * [#5 - Spring boot에서 JSON 포맷 로깅과 MDC 사용하기](https://bcho.tistory.com/1317)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
