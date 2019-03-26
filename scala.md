@@ -232,6 +232,7 @@ Scala
 * [Machine Learning with Scala in Google Colaboratory](https://medium.com/@shadaj/machine-learning-with-scala-in-google-colaboratory-e6f1661f1c88)
 * **[Parallel computing in Python and Scala](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)**
 * [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77)
+* [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -255,6 +256,7 @@ Scala
   * [How you can build a Hello World API with Scala and Akka HTTP](https://medium.freecodecamp.org/how-you-can-build-a-hello-world-api-with-scala-and-akka-http-55e2ff67d70d)
   * [How to (Un)marshal JSON in Akka HTTP with Circe](https://medium.freecodecamp.org/un-marshalling-json-in-akka-http-with-circe-3dcc2764eedb)
   * [Testing Akka Http Clients](https://medium.com/@pwdd/testing-akka-http-clients-59fa2d0545c1)
+  * [An introduction to Akka HTTP routing](https://medium.freecodecamp.org/an-introduction-to-akka-http-routing-697b00399cad)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 * [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
@@ -671,6 +673,7 @@ Scala
   * [APIs and Microservices with Scala and Play](https://www.youtube.com/watch?v=jaZIilhjcDw)
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
   * [Play Scala with maven](https://medium.com/@Methrat0n/play-scala-with-maven-a3cac393b0e6)
+  * [Open heart surgery on Play Framework](https://medium.com/@rnehru92/open-heart-surgery-on-play-framework-56453d8e089c)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
