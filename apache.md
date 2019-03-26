@@ -432,6 +432,9 @@ Apache
 * [kafka-multiprocessing-producer.py](https://gist.github.com/outtoin/12d1334b1345403c57372fcc6653c11b) 정상 동작하는 지 점검 필요
 * [Securing the Confluent Schema Registry for Apache Kafka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
 * [kafka-tutorials.com](https://www.kafka-tutorials.com)
+* [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
+* [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
+* [Kafka, Java, and Bitcoin](https://medium.com/pharos-production/kafka-java-and-bitcoin-cf0009767645)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
