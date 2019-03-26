@@ -30,8 +30,6 @@ Programming Books
   * 한라 005.11이14ㅂ
 * (NOT YET) [Chaos Engineering](https://blog.outsider.ne.kr/1374)
 * (NOT YET) [구글 클라우드 플랫폼 입문](http://jybaek.tistory.com/744)
-* (NOT YET) [일래스틱 스택 6 입문](http://book.daum.net/detail/book.do?bookid=BOK00035087432IN)
-  * 2018.07 한라
 * [프로그래밍 언어 도감](http://www.datanet.co.kr/news/articleView.html?idxno=124905)
   * 한라 005.1마57ㅍ
   * [서평: 프로그래밍 언어도감 ](https://blog.gaerae.com/2018/08/programming-gengo-zukan.html)
@@ -423,6 +421,7 @@ Programming Books
 * (NOT YET) [PyTorch를 활용한 강화학습/심층강화학습 실전 입문](http://wikibook.co.kr/pytorch-drl/)
 * [Deep Learning Cookbook](https://ridibooks.com/v2/Detail?id=2121000012)
   * [Deep Learning Cookbook 추가 설명집](https://wikidocs.net/book/2522)
+  * [1. Word embedding - 텍스트 유사성 계산, 위키피디아를 이용한 영화 추천 시스템 (Chapter 3, Chapter 4)](https://fintelab.tistory.com/3)
 * (NOT YET) [PyTorch로 시작하는 딥러닝 딥러닝 기초에서 최신 모던 아키텍처까지](http://acornpub.co.kr/book/deep-learning-pytorch)
 * (NOT YET) [실전! 딥러닝 텐서플로와 케라스를 이용한 딥러닝 최신 기술 활용 가이드](http://wikibook.co.kr/practical-deep-learning/)
 * (NOT YET) [가장 쉬운 딥러닝 입문 교실 그림으로 쉽게 이해하는 딥러닝 이론](http://wikibook.co.kr/easy-deep-learning/)
@@ -608,13 +607,15 @@ Programming Books
 * 일래스틱서치 모니터링 - 정제된 커뮤니티의 경험
   * 한라 004.584 노47ㅇ
   * 2.3.2 기준
-* **일래스틱 스택6 입문**
+* (NOT YET) [일래스틱 스택 6 입문](http://book.daum.net/detail/book.do?bookid=BOK00035087432IN)
+  * 2018.07 한라
   * 한라005.74슈877ㅇ
 * (NOT YET) [데이터 분석 플랫폼 구축과 활용](http://www.yes24.com/24/goods/64464997?scode=032&OzSrank=2)
   * 2018.10 한라
   * Fluentd, ElasticSearch, Kibana를 이용한 로그 수집, 데이터 분석, 시각화
   * Logstash는 다루지 않으나, 데이터 분석 플랫폼 구축 및 활용에 도움
   * Fluentd의 비중이 높아 데이터 수집 및 정제에 대한 사례 참고에 좋음
+* (NOT YET) [일래스틱서치 쿡북 3/e 170가지 단계별 레시피](http://acornpub.co.kr/book/elasticsearch-cookbook-3)
 
 # Finance
 
