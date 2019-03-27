@@ -2459,6 +2459,7 @@ Python
   * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
+* transition **[유한 상태 기계를 Django에 적용하여 상태 변경을 관리하기](https://tech.peoplefund.co.kr/2019/03/26/managing-state-using-finite-state-machine.html)**
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * Twitter
