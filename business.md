@@ -226,7 +226,27 @@ Business
 * [직장인에게 필요한 능력 – 생각 말하기 (2)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-2/)
 * [Modeling mediums](https://medium.com/@benrbn/modeling-communication-mediums-4b8ee097558f)
 * **[On Improving Communication Inside a Dev Team](https://hackernoon.com/on-improving-communication-inside-a-dev-team-38ad3a0e892a)**
+  * I want ... (X) -> I think we should do in this way, because ... / I am confident that this is the way to go forward ...
+  * You're wrong (X) -> I'm not sure about that, because ... / I'm not convinced that's the best way ...
+  * Criticize (X) -> I think we can improve this by doing this or that ... / I believe this might not work in some/all cases. Here's why ...
+  * Dealing with unpleasant situations
+    * Say what happend from an objective point of view or what your impression is
+    * State how it made you feel, no personal emotions, however it could be disappointment or confusion
+    * State what you would wish it would happen next; offer some kind of solution to remedy the problem
+  * Don't hold grudges
+* [How to Successfully Set Tasks and Boost Your Development Team’s Productivity](https://hackernoon.com/how-to-successfully-set-tasks-and-boost-your-development-teams-productivity-2e1ab5b9d693)
 * [효과적인 커뮤니케이션을 위한 3가지 도구](https://estimastory.com/2019/03/25/3tools/)
+* **[엔지니어들과 비엔지니어들의 커뮤니케이션 방법 2가지](https://medium.com/@kpak/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EA%B3%BC-%EB%B9%84%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%A9%EB%B2%95-2%EA%B0%80%EC%A7%80-6f16992dd4e0)**
+  * Tell me what you know. (너가 아는 것을 말해보라)
+  * Tell me what you don’t know. (너가 모르는 것을 말해보라)
+  * Then tell me what you think. (너 생각을 말해보라)
+  * 1. Is this a good feature to develop? (기술적 구현을 다 떠나서 이것은 있으면 좋은 기능인가요?)
+  * 2. Then, can we develop it technically? (좋은 기능이라면 기술적으로 구현이 가능한가요?)
+  * 3. Then, when should we develop it? (기술적으로 구현이 가능하다면 언제 개발을 하는게 좋을까요?)
+* **[훌륭한 팀원의 조건 - Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)**
+  * A와 B로 주장이 맞서는 경우
+  * 보통 사람들은 자신의 선택이 더 나은 이유를 찾음
+  * 상대방의 의견이 더 나은 이유를 찾은 후 합리적이라면 자신의 의견을 바로 수용하는 사람이 신뢰받음
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
