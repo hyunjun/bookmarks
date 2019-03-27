@@ -3034,6 +3034,7 @@ Python
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
+* [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
