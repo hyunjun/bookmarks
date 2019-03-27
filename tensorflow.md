@@ -483,6 +483,7 @@ TensorFlow
   * [7. RNN modeling](https://colab.research.google.com/drive/14emI2vPTuZr4sL5Z60-jsCTsuswp2-uU)
 * [ORAL 세션 - 강재욱](https://www.youtube.com/watch?v=h7DUjhGCmG8)
 * [어서와 텐서플로우 2.0!: 미리 알면 좋은 몇가지 : – )](http://moducon.kr/2018/kangjaewook-session/)
+* [TensorFlow 2.0 and Cloud AI make it easy to train, deploy, and maintain scalable machine learning models](https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-2-0-and-cloud-ai-make-it-easy-to-train-deploy-and-maintain-scalable-machine-learning-models)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -556,6 +557,7 @@ TensorFlow
 * [StyleGAN — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
   * [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
 * [StyleGAN_WebDemo.ipynb](https://colab.research.google.com/drive/1j9X6Np9z_XMp5dJKFgCb9OCMVgE-e7lg)
+* [Stylegan-art](https://github.com/ak9250/stylegan-art/blob/master/README.md)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
