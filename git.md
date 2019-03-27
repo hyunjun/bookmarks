@@ -9,7 +9,11 @@ Git
   * [지옥에서 온 Git](https://opentutorials.org/course/2708)
   * [GIT2 - CLI - 버전관리](https://opentutorials.org/module/3762)
   * [GIT4 - CLI 협업](https://opentutorials.org/module/3967)
+  * [GIT4 - cherry-pick & rebase](https://opentutorials.org/module/4015)
+  * [GIT4 - cherry-pick & rebase](https://www.youtube.com/playlist?list=PLuHgQVnccGMAb_nOiego7BqfKTRcXsUrB)
   * [Rebase](https://opentutorials.org/course/2708/15553)
+  * [GIT4 - Reset & Revert](https://opentutorials.org/module/4032)
+  * [GIT4 - reset & revert](https://www.youtube.com/playlist?list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8)
 * [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
 * [초심자를 위한 git과 github 30분 맛보기](https://medium.com/@codesquad_yoda/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git%EA%B3%BC-github-30%EB%B6%84-%EB%A7%9B%EB%B3%B4%EA%B8%B0-c2366dc1d421)
 * [Git이란 무엇일까요?](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)
@@ -213,8 +217,6 @@ Git
       * old/path/file.txt를 `git mv file.txt new/path`를 사용해 new/path/file.txt로 변경
       * 다시 old/path/file.txt로 변경하고 싶어서 `git reset new/path/file.txt`를 실행했다가 new/path에서는 사라지고 old/path에도 복원되지 않은 경우 사용
 * cherry-pick
-  * [GIT4 - cherry-pick & rebase](https://opentutorials.org/module/4015)
-  * [GIT4 - cherry-pick & rebase](https://www.youtube.com/playlist?list=PLuHgQVnccGMAb_nOiego7BqfKTRcXsUrB)
 * clean
   * `git clean -fd` [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164?category=18)
 * clone
