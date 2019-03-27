@@ -45,24 +45,18 @@ Interview
 * [Three hundred programming interviews in thirty days](http://blog.triplebyte.com/three-hundred-programming-interviews-in-thirty-days)
 * [The Software Engineer’s Guide to Negotiating a Raise](http://www.mgadams.com/2015/06/30/the-software-engineers-guide-to-negotiating-a-raise/)
 * [Technical Hiring and Cultural Fit – Interview with Johanna Rothman](http://blog.fogcreek.com/technical-hiring-and-cultural-fit-interview-with-johanna-rothman/)
-* [The One Question to Ask Developers Before You Make a Hire Decision](http://thinkingcollective.com/2015/07/14/the-one-question-to-ask-developers-before-you-make-a-hire-decision/)
 * [Homes Near Work](https://www.openlistings.co/near)
 * [The Growing Importance of Social Skills in the Labor Market](http://scholar.harvard.edu/files/ddeming/files/deming_socialskills_august2015.pdf)
 * [여행 많이 하는 사람을 채용해야 하는 10가지 이유](http://ppss.kr/archives/55474)
 * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
-* [My favorite interview question](https://www.nczonline.net/blog/2015/09/my-favorite-interview-question/)
 * [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
 * [The One Method I’ve Used to Eliminate Bad Tech Hires](https://medium.com/swlh/the-one-method-to-eliminate-bad-tech-hires-630d539b2e1d)
 * [스타벅스 광화문점의 매출은 얼마나 될까: 면접관은 왜 정답이 없는 질문을 던지는가?](http://ppss.kr/archives/31509)
-* [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 * [How I Got & Lost a VC Job Offer in 72 Hours](https://www.linkedin.com/pulse/how-i-got-lost-vc-job-offer-72-hours-omar-hmaissy)
 * [애플이 채용 면접 때 물어보는 어려운 질문 33개](http://techneedle.com/archives/23254)
-* [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
 * [소프트웨어 개발자 / 프로그래머 캐나다 기술면접 및 취업 후기](http://hiho0414.blogspot.kr/2015/01/blog-post_16.html)
 * [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
-* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-  * [Programming Interview Questions](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=5&view=50&sort=dd)
 * [10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 * [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
 * **[알고리즘 학습에 대한 조언](http://blog.weirdx.io/post/55358)** 매우 좋은 글
@@ -71,7 +65,6 @@ Interview
 * [Software Interview Preparation Guide - Strategies and Resources on How to](https://www.youtube.com/watch?v=bBPHpH8aKjw)
 * [코딩 인터뷰 준비 – 팁과 나의 계획](https://matthew.kr/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84-%ED%8C%81%EA%B3%BC-%EB%82%98%EC%9D%98-%EA%B3%84%ED%9A%8D/)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
-* [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
 * [코딩 인터뷰 꼭 해야 하나?](http://www.popit.kr/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%82%98/)
 * [해외 개발자 코딩 면접에 관하여](https://www.facebook.com/londonyangpa/posts/1809340439351435)
@@ -96,19 +89,15 @@ Interview
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
-* [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
 * **[코딩 인터뷰 – part 2](https://sangminpark.blog/2017/06/14/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-2/)**
 * [코딩 인터뷰 – part 3](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-3/)
 * **[코딩 인터뷰 – part 4](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/)**
 * [코딩 인터뷰 – part 5](https://sangminpark.blog/2017/06/22/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-5/)
-* [면접 문제 은행](https://github.com/haegul/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
 * **[Tech HR 컨퍼런스 참석 후기](http://jojoldu.tistory.com/163)**
 * [IT 회사 탐방기 세미나 참석후기](http://jojoldu.tistory.com/274)
-* [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 * [The ultimate guide to preparing for the coding interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
-* [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [blog.codingforinterviews.com](http://blog.codingforinterviews.com/)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
 * [우리 회사의 개발자 인터뷰](http://blog.kivol.net/post/138587457933/%EC%9A%B0%EB%A6%AC-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9D%B8%ED%84%B0%EB%B7%B0)
@@ -118,7 +107,6 @@ Interview
 * [2시간 만에 끝내는 스타트업/중소기업 채용과 HR 지식 (강의 자료 첨부)](https://blog.rocketpunch.com/2017/12/26/hr-knowledge-in-2-hours-for-startup-and-small-companies/)
 * **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U)**
 * [소프트웨어 개발자 인터뷰 에서 무엇을 보려고 하는가?](https://steemit.com/interview/@tiny657/4uac7z)
-* **[데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
 * [독일 스타트업 백엔드 개발자 면접 후기](http://hero0926.tistory.com/9)
 * [독일 개발자 취업 성공기](http://hero0926.tistory.com/)
 * [나의 2017년 외국기업 코딩 인터뷰 정리](http://www.popit.kr/%EB%82%98%EC%9D%98-2017%EB%85%84-%EC%99%B8%EA%B5%AD%EA%B8%B0%EC%97%85-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A0%95%EB%A6%AC/)
@@ -126,10 +114,6 @@ Interview
 * [I interviewed at five top companies in Silicon Valley in five days, and luckily got five job offers](https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-valley-in-five-days-and-luckily-got-five-job-offers-25178cf74e0f)
   * [실리콘밸리 top5 회사 합격 후기](https://medium.com/@jubileekim/%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC-top5-%ED%9A%8C%EC%82%AC-%ED%95%A9%EA%B2%A9-%ED%9B%84%EA%B8%B0-c50640b26eab)
 * [Warning: Your programming career](https://medium.com/sololearn/warning-your-programming-career-b9579b3a878b)
-* Top Interview Questions and Tricks
-  * [#1 - 3sum and the 2 pointer technique](https://fizzbuzzed.com/top-interview-questions-1/)
-  * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
-  * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
 * [머신러닝 해외 취업 준비: 닳고 닳은 이력서와 고통스러웠던 면접을 돌아보며 SNU 2018](https://www.slideshare.net/carpedm20/snu-2018-106452738)
 * [whenisgood.net](http://whenisgood.net/)
 * 나의 이직 성공기
@@ -189,6 +173,7 @@ Interview
   * [System Design Interview - Part 2 How To Improve](https://www.youtube.com/watch?v=DggPVpQmrsg)
   * [System Design Interview - Part 3 Communicate effectively](https://www.youtube.com/watch?v=GcE-a7zO2N0)
 * Problems
+  * [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   * [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
   * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
   * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
@@ -269,6 +254,9 @@ Interview
 * [Measuring programmer competency](https://softwareefficiency.wordpress.com/2015/09/20/measuring-programmer-competency/)
 * [Solving the Monkey and coconuts problem](http://paddy3118.blogspot.co.uk/2015/05/solving-monkey-and-coconuts-problem.html)
 * [How to Succeed in any Programming Interview 2018](https://www.youtube.com/watch?v=5KB5KAak6tM)
+* [내가 문제풀이를 연습하는 방법](https://koosaga.com/217)
+* [알고리즘 공부 사이트/문제 추천](https://justicehui.github.io/study/2019/03/25/AlgorithmSite/)
+* [algoexpert.io](https://www.algoexpert.io)
 * [algospot](https://www.algospot.com)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
   * [coding.sh](http://coding.sh/) online programming
@@ -316,6 +304,25 @@ Interview
 * [testdome.com](https://www.testdome.com/)
 * [topcoder](http://www.topcoder.com/)
 * [uva.onlinejudge.org](https://uva.onlinejudge.org/)
+
+# Interview Questions - Behavioral
+* [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
+* [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
+* [These are the questions you want to ask at that job interview](https://medium.freecodecamp.org/vital-questions-to-ask-an-interviewer-bonus-question-at-the-end-264bc2caff8d)
+
+# Interview Questions - Technical
+* [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
+* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+  * [Programming Interview Questions](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=5&view=50&sort=dd)
+* [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
+* [면접 문제 은행](https://github.com/haegul/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
+* [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+* **[데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
+* Top Interview Questions and Tricks
+  * [#1 - 3sum and the 2 pointer technique](https://fizzbuzzed.com/top-interview-questions-1/)
+  * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
+  * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
+* [Programming Interview Questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
