@@ -441,6 +441,8 @@ Javascript
 * [Beer, Bravado & Bitbucket: Using data to drive CODE decisions](https://blog.usejournal.com/beer-bravado-bitbucket-using-data-to-drive-code-decisions-63f1dafe86cb)
 * [A bluffer’s guide to JavaScript proficiency](https://medium.freecodecamp.org/bluffers-guide-to-javascript-proficiency-18195dbe2618)
 * [How to communicate between Components](https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913)
+* [How to title case a sentence in JavaScript](https://medium.freecodecamp.org/title-case-a-sentence-in-javascript-929012c88574)
+* [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1343,6 +1345,7 @@ Javascript
 * [Will Node.js forever be the sluggish Golang?](https://levelup.gitconnected.com/will-node-js-forever-be-the-sluggish-golang-f632130e5c7a)
 * [How Might Serverless Impact Node.js Ecosystem?](https://blog.bitsrc.io/how-might-serverless-impact-node-js-ecosystem-b0e312036fcf)
 * [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
+* [How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1926,6 +1929,7 @@ Javascript
   * [react-router :: 2장. 코드 스플리팅 (Code Splitting)](https://velopert.com/3421)
   * [react-router :: 3장. 서버사이드 렌더링](https://velopert.com/3425)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
+* react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
 * [react-three-renderer / examples](http://toxicfork.github.io/react-three-renderer-example/)
 * [React UI Builder](https://github.com/ipselon/react-ui-builder)
