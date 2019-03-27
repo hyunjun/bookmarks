@@ -134,6 +134,7 @@ Interview
 * [What we learned about 2019 developer hiring trends from analyzing 112,654 coding tests](https://medium.freecodecamp.org/what-we-learned-about-2019-developer-hiring-trends-from-analyzing-112-654-coding-tests-b05a3ba0ca7b)
 * [초등학교 덧셈 알고리즘을 코드로 써보기](http://minjang.github.io/2019/03/02/convert-math-addition-algorithm-to-code/)
 * [다이애나의 북마크(2)-채용인터뷰에 임하는 HR매니저의 자세](https://estimastory.com/2013/12/29/dianabookmark2/)
+* [새로운 데이터 분석가와의 랑데부를 위하여(1)](https://cojette.github.io/rendezvous1/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
