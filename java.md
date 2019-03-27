@@ -102,6 +102,7 @@ Java
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
 * [Parallel Merge Sort in Java](https://hackernoon.com/parallel-merge-sort-in-java-e3213ae9fa2c)
 * [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html) clean code 책을 읽고 진행한 refactoring 정리
+* [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
