@@ -2700,6 +2700,7 @@ Python
 * [Using The Pandas Category Data Type](https://pbpython.com/pandas_dtypes_cat.html)
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas)
 * [Pandas 기초 - cheat sheet 따라하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR)
+* [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
