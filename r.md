@@ -403,6 +403,8 @@ R
 * [nodbi: the NoSQL Database Connector](https://www.r-bloggers.com/nodbi-the-nosql-database-connector/)
   * [NoSQL 데이터베이스를 다루는 nodbi](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-nosql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-nodbi/)
 * [pbapply - Adding progress bar to '\*apply' functions in R](https://github.com/psolymos/pbapply)
+* plumber
+  * [how to use plumber in shiny environment](https://github.com/shinykorea/plumber)
 * [pqR - a pretty quick version of R](http://www.pqr-project.org/)
 * [promotionImpact - 프로모션 효과 분석용 R 패키지](https://danbi-ncsoft.github.io/works/2019/01/08/works-promotionImpact.html)
 * purrr
@@ -422,6 +424,7 @@ R
   * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)
   * [Fastai Collaborative Filtering (from Scratch) with R and Reticulate](https://notesofdabbler.github.io/fastai_dl1_withR/movieLens_from_Scratch.nb.html)
   * [Fastai Collaborative Filtering with R and Reticulate](https://www.r-bloggers.com/fastai-collaborative-filtering-with-r-and-reticulate/amp/)
+  * [Shiny + Reticulate + Pyspark 소개.pdf](https://github.com/shinykorea/Meetup/blob/master/20190327/Shiny%20%2B%20Reticulate%20%2B%20Pyspark%20%EC%86%8C%EA%B0%9C.pdf)
 * [revisit: a "Statistical Audit" for Statistical Reproducibility and Alternate Analysis](https://github.com/matloff/revisit)
 * [rio: A Swiss-Army Knife for Data I/O](https://github.com/leeper/rio)
 * [RmecabKo](https://github.com/junhewk/RmecabKo)
