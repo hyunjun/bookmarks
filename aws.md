@@ -280,6 +280,7 @@ AWS
 * [로봇 개발 어떻게 해야되죠? (1/2) - AWS RoboMaker 따라하기 (ROS 어플리케이션 개발과 시뮬레이션 편)](http://woowabros.github.io/tools/2019/03/03/AWS_RoboMaker_Development_and_Simulation.html)
 * [AWS Landing Zone Solution -Accelerating Cloud Adoption](https://hackernoon.com/aws-landing-zone-solution-accelerating-cloud-adoption-2b1c17017bc)
 * [AWS Credentials were refreshed 발생시 해결 방법](https://jojoldu.tistory.com/410)
+* [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
