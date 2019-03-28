@@ -436,6 +436,7 @@ Apache
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
 * [Kafka, Java, and Bitcoin](https://medium.com/pharos-production/kafka-java-and-bitcoin-cf0009767645)
+* [What's New in Kafka 2.2?](https://www.youtube.com/watch?v=kaWbp1Cnfo4)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
