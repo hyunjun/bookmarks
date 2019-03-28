@@ -277,6 +277,8 @@ R
 * [수 표기 방법](http://ds.sumeun.org/?p=1052)
 * [Using RStudio and Git version control](https://www.r-bloggers.com/using-rstudio-and-git-version-control/)
 * [Sentiment Analysis, Word Embedding, and Topic Modeling on Venom Reviews](https://www.r-bloggers.com/sentiment-analysis-word-embedding-and-topic-modeling-on-venom-reviews/)
+* [디랩 아카데미](https://wedatalab.tistory.com/category/%EB%94%94%EB%9E%A9%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
+* [Writing clean and readable R code the easy way](https://www.r-bloggers.com/writing-clean-and-readable-r-code-the-easy-way/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -405,6 +407,7 @@ R
 * [pbapply - Adding progress bar to '\*apply' functions in R](https://github.com/psolymos/pbapply)
 * plumber
   * [how to use plumber in shiny environment](https://github.com/shinykorea/plumber)
+  * [Securing a dockerized plumber API with SSL and Basic Authentication](https://www.r-bloggers.com/securing-a-dockerized-plumber-api-with-ssl-and-basic-authentication/)
 * [pqR - a pretty quick version of R](http://www.pqr-project.org/)
 * [promotionImpact - 프로모션 효과 분석용 R 패키지](https://danbi-ncsoft.github.io/works/2019/01/08/works-promotionImpact.html)
 * purrr
