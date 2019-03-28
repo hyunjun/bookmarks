@@ -300,6 +300,7 @@ Machine Learning
 * [Handling imbalanced datasets in machine learning](https://towardsdatascience.com/handling-imbalanced-datasets-in-machine-learning-7a0e84220f28)
 * [Visualising Machine Learning Datasets with Google’s FACETS](https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3)
 * [Machine learning with sparse, high-dimensional and large datasets](https://www.linkedin.com/pulse/machine-learning-sparse-high-dimensional-large-waqas-bukhari-phd/)
+* [Datasets for machine learning](https://www.datasetlist.com/)
 * [MACHINE-LEARNING ALGORITHM GENERATES VIDEOS FROM STILLS](http://www.popsci.com/this-ai-generates-video-from-stills)
 * [기계학습(Machine Learning) 101](https://www.facebook.com/SKTBrain/photos/pcb.305574049813416/305573403146814)
 * [Lisbon Machine Learning Summer School Highlights](http://sebastianruder.com/lisbon-machine-learning-summer-school-highlights/index.html)
