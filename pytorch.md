@@ -241,4 +241,5 @@ PyTorch
 * [PYTORCH 머신러닝 튜토리얼 강의](http://wingnim.tistory.com/category/Programming%20Project/Pytorch%20Tutorials)
 * [PyTorch KR Tutorial Competition 2018](https://github.com/PyTorchKR/Tutorial-Competition-2018)
 * [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
+* [Minimal tutorial on packing and unpacking sequences in pytorch](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)
 * [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
