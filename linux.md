@@ -405,6 +405,10 @@ Linux
 * [How to use a WiFi interface](https://wiki.debian.org/WiFi/HowToUse#wpa_supplicant)
 * [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
 
+# Fedora
+* [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
+* [A Month as a Fedora QA Tester](https://yisooan.wordpress.com/2019/03/28/a-month-as-a-fedora-qa-tester/)
+
 # GCC
 * `yum update -y && yum clean all && yum groupinstall "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
 * `apt-get update && apt-get install -y build-essential` [How to Install Development Tools on Ubuntu, Debian & LinuxMint](http://tecadmin.net/install-development-tools-on-ubuntu/)
@@ -560,7 +564,6 @@ Linux
 * **[인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)**
 * [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))
 * [CentOS7 리눅스 한글 입력기 설정](http://sunyzero.tistory.com/253)
-* [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
 * service
 
   ```
