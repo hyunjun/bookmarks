@@ -1107,7 +1107,7 @@ Deep Learning
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [mxnet - Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
-  * [Awesome MXNet(Beta)](https://github.com/chinakook/Awesome-MXNet) A curated list of MXNet examples, tutorials and blogs
+  * [Awesome MXNet](https://github.com/chinakook/Awesome-MXNet) A curated list of MXNet examples, tutorials and blogs
   * **[An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io](https://github.com/zackchase/mxnet-the-straight-dope)**
   * [mxnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more http://mxnet.rtfd.org](https://github.com/dmlc/mxnet)
   * [MXNet - Deep Learning Framework of Choice at AWS](http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html)
