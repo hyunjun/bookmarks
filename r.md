@@ -14,6 +14,8 @@ R
 * [R vs Python part 2 why Python?](https://www.youtube.com/watch?v=BI5CxoVJlCA)
 * [Ending the R vs Python war](https://www.youtube.com/watch?v=JkgsqIw8gPs)
 * [R vs Python: What’s The Difference? The challenge under ten categories](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
+* [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
+* [R vs Python: Which is better for Data Science?](https://www.r-bloggers.com/r-vs-python-which-is-better-for-data-science/)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * **[R을 활용한 머신러닝](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)**
 * [A Guide to Machine Learning in R for Beginners: Logistic Regression](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)
@@ -48,7 +50,6 @@ R
 * [Build a web scraper for a literature search – from soup to nuts](http://efavdb.com/build-a-web-scraper-lit-search/)
 * [ANIMATED LOGISTIC MAPS OF CHAOTIC SYSTEMS IN R](https://rexplorations.wordpress.com/2015/09/02/animated-logistic-maps-of-chaotic-systems-in-r/)
 * [Fascinating Chaotic Sequences with Cool Applications](https://www.datasciencecentral.com/profiles/blogs/amazing-random-sequences-with-cool-applications)
-* [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
 * 디블로터
   * [① “출발, 데이터 저널리즘 스터디”](http://www.bloter.net/archives/241274)
