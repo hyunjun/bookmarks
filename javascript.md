@@ -153,6 +153,7 @@ Javascript
 * [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
 * [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
   * [Ionic 3 Tutorials](https://www.youtube.com/playlist?list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct)
+  * [Ionic 1. 설치 및 실행 풀스텍 개발자(Full Stack Developer)의 왕도](https://www.youtube.com/watch?v=VfMgrp0m5M0)
 * [How to make your app work offline with the power of JavaScript](https://medium.freecodecamp.org/how-to-make-your-app-work-offline-with-the-power-of-javascript-685d968bcfbb)
 * [WRITING AN X86 EMULATOR IN JAVASCRIPT](http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/)
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
