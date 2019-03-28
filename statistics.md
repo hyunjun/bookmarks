@@ -49,6 +49,7 @@ Statistics
 * [Gaussian Processes](http://efavdb.com/gaussian-processes/)
 * **[Industrial Gaussian Process Regression Introduction - 본 자료는 ICMLA Tutorial로 진행된 Gaussian Process Regression 내용을 정리](https://github.com/LeeDoYup/ML_Implementations/blob/master/GP/1_GP_basics_KOR.ipynb)**
 * [Gaussian Process Regression Example in Sklearn Document](https://gist.github.com/jskDr/d57a0395b40c270696565d64f19a2456)
+* [Gaussian processing](https://www.slideshare.net/ssuser06e0c5/gaussian-processing)
 * [Evaluating Splatoon's Ranking System](http://www.evanmiller.org/evaluating-splatoons-ranking-system.html)
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
