@@ -402,6 +402,7 @@ Data Science
 * [땀내를 줄이는 Data와 Feature 다루기](https://www.pycon.kr/2018/program/47)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
+* [야구 대회 간단한 모델링 코드](https://dacon.io/cpt6/66846)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
