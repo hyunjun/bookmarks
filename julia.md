@@ -82,6 +82,7 @@ Julia
 * [DiffEqFlux.jl – A Julia Library for Neural Differential Equations](https://julialang.org/blog/2019/01/fluxdiffeq)
 * [Using Julia for Data Science](https://cleytonfar.github.io/posts/using-julia-for-data-science/)
 * [A Julia interpreter and debugger](https://julialang.org/blog/2019/03/debuggers)
+* [singularity-py-and-jl - Simple singularity recipe for Keras(python3) & Flux(julia) (personal use)](https://github.com/appleparan/singularity-py-and-jl)
 
 # API
 * Pkg.add
