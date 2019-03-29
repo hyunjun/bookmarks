@@ -921,6 +921,7 @@ NLP
   * [SQUAD 2.0과 BERT(2)](https://dos-tacos.github.io/paper%20review/BERT/)
   * [Multi-label Text Classification using BERT – The Mighty Transformer](https://medium.com/huggingface/multi-label-text-classification-using-bert-the-mighty-transformer-69714fa3fb3d)
   * [Multi-GPU Ready BERT](https://github.com/lambdal/bert)
+  * [BERT 논문정리](https://mino-park7.github.io/nlp/2018/12/12/bert-%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC/)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
