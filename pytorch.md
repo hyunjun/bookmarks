@@ -143,6 +143,7 @@ PyTorch
   * 멀티프로세싱, 비동기 프로그래밍, 네트워크 프로그래밍, 클라우드, IaC 등 공부하고 구현하면서 메모리 이슈도 많이 만나고 레이턴시 문제도 겪고 엔지니어링 끝에 결국 실험 성공
   * 이 모델을 이용하면 Actor를 100개 200개 300개씩 두고 탐험을 할 수 있어서 Suboptimal Policy에 빠지지 않음. 실제로 Seaquest를 이용해서 실험해본 결과, Rainbow, ACER 등에서 1000~2000점 점수를 찍을때 10000점 20000점 30000점 달성
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
+* [The dangers of reshaping and other fun mistakes I’ve learnt from PyTorch](https://medium.com/mcgill-artificial-intelligence-review/the-dangers-of-reshaping-and-other-fun-mistakes-ive-learnt-from-pytorch-b6a5bdc1c275)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
