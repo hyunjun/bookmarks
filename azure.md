@@ -48,6 +48,7 @@ Azure
 * [Fluent API를 사용한 Domain Specific Language (DSL) 첫걸음](https://blog.aliencube.org/ko/2019/01/11/domain-specific-language-with-fluent-api/)
 * [Getting Started with Azure Functions and their extensions Superpower](https://hackernoon.com/getting-started-with-azure-functions-and-their-extensions-superpower-b4bc1bb29865)
 * [Azure WebApp in 2018](https://youngjaekim.wordpress.com/2019/03/30/azure-webapp-in-2018/)
+* [Azure Blockchain](https://youngjaekim.wordpress.com/2019/03/30/azure-blockchain/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
