@@ -86,6 +86,7 @@ Javascript
 * [OK, Now I'll learn How To Program In JavaScript!](https://medium.com/@fagnerbrack/ok-now-ill-learn-how-to-program-in-javascript-2c7847414830)
 * [Want to learn JavaScript? Here’s a free 24-part course to get you started](https://medium.freecodecamp.org/want-to-learn-javascript-heres-a-free-24-part-course-to-get-you-started-e7777baf86fb)
 * [FRONT-END DEVELOP 기초](http://junil-hwang.com/blog/category/lecture-note/front-end-develop-%EA%B8%B0%EC%B4%88/) javascript, node.js
+* [A practical guide to learning front end development for beginners](https://medium.freecodecamp.org/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41)
 * [Core 요약](http://mobicon.tistory.com/16)
 * [MDN JavaScript](https://developer.mozilla.org/ko/docs/Web/JavaScript)
 * [JavaScript](https://developer.mozilla.org/ko/docs/Learn/JavaScript)
@@ -380,6 +381,7 @@ Javascript
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
   * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
 * [Hacks for Creating JavaScript Arrays](https://medium.freecodecamp.org/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b)
+* [What you should know about JavaScript arrays](https://medium.freecodecamp.org/what-you-should-know-about-javascript-arrays-a7e5394f78f8)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
@@ -444,6 +446,7 @@ Javascript
 * [How to communicate between Components](https://medium.freecodecamp.org/how-to-communicate-between-components-b48ef70bf913)
 * [How to title case a sentence in JavaScript](https://medium.freecodecamp.org/title-case-a-sentence-in-javascript-929012c88574)
 * [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
+* [An introduction to the JavaScript DOM](https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1869,6 +1872,7 @@ Javascript
   * [How to animate page transitions in Gatsby.js](https://medium.freecodecamp.org/how-to-animate-page-transitions-in-gatsby-js-b36e3ae14c29)
   * [How to quickly set up a Gatsby.js JAMstack website with a headless CMS](https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e)
   * **[정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)** 제목과 달리 단순한 정적 사이트 생성기가 아니라는 글
+  * [How to get started with Gatsby 2 and Redux](https://medium.freecodecamp.org/how-to-get-started-with-gatsby-2-and-redux-ae1c543571ca)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
