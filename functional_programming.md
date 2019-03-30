@@ -58,7 +58,6 @@ Functional Programming
 * [Non-deterministic](https://medium.com/@jooyunghan/non-deterministic-c8c8d4fc4424)
 * [Practical Functional Programming](https://hackernoon.com/practical-functional-programming-6d7932abc58b)
 * [midojeong.github.io/tags/#함수형](https://midojeong.github.io/tags/#%ED%95%A8%EC%88%98%ED%98%95)
-* [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 * [Functional Programming For People Who Hate Math](https://www.youtube.com/watch?v=SlfipOW_ilU)
 * [Pros and cons of functional programming](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
 * [Are idempotent functions the same as pure functions?](https://stackoverflow.com/questions/4801282/are-idempotent-functions-the-same-as-pure-functions)
@@ -78,7 +77,6 @@ Functional Programming
 * [Functional 360 Archives](https://www.cirstei.ro/archive.html) haskell, scala, clojure, F#에 대한 주간 뉴스
 * [Discover the power of first class functions](https://medium.freecodecamp.org/discover-the-power-of-first-class-functions-fd0d7b599b69)
 * [함수란 무엇인가?](https://libsora.so/posts/what-is-function/)
-* [Can You Avoid Functional Programming as a Policy?](https://medium.com/javascript-scene/can-you-avoid-functional-programming-as-a-policy-7bd0570bcfb2)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -168,6 +166,9 @@ Functional Programming
 * [TypeScript with React + Redux/Immutable.js 빠르게 배우기](https://velopert.com/3595)
 * [TDD기반 React,Redux,Immutable 시작하기 (1)](https://github.com/FEDevelopers/tech.description/wiki/TDD%EA%B8%B0%EB%B0%98-React,Redux,Immutable-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-(1))
 * [Functional Programming Patterns: A Cookbook](https://medium.freecodecamp.org/functional-programming-patterns-cookbook-3a0dfe2d7e0a)
+* [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
+* [A Quick Introduction to Functional Javascript](https://hackernoon.com/a-quick-introduction-to-functional-javascript-7e6fe520e7fa)
+* [Can You Avoid Functional Programming as a Policy?](https://medium.com/javascript-scene/can-you-avoid-functional-programming-as-a-policy-7bd0570bcfb2)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [immer - Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
