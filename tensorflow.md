@@ -457,6 +457,7 @@ TensorFlow
 * [An Introduction to TensorFlow and implementing a simple Linear Regression Model](https://medium.com/datadriveninvestor/an-introduction-to-tensorflow-and-implementing-a-simple-linear-regression-model-d900dd2e9963)
 * [MNIST on TPU (Tensor Processing Unit) or GPU using tf.Keras and tf.data.Dataset](https://colab.research.google.com/github/GoogleCloudPlatform/training-data-analyst/blob/master/courses/fast-and-lean-data-science/01_MNIST_TPU_Keras.ipynb) colab
 * [TF Jam — Shooting Hoops with Machine Learning](https://medium.com/tensorflow/tf-jam-shooting-hoops-with-machine-learning-7a96e1236c32)
+* [TF Jam — 머신러닝을 이용한 농구 슈팅](https://developers-kr.googleblog.com/2019/03/tf-jam.html)
 * [Understand TensorFlow by mimicking its API from scratch](https://medium.com/@d3lm/understand-tensorflow-by-mimicking-its-api-from-scratch-faa55787170d)
 * AutoGraph
   * [AutoGraph: Easy control flow for graphs (TensorFlow Tip of the Week)](https://www.youtube.com/watch?v=jh4ITuOytE4)
@@ -503,6 +504,7 @@ TensorFlow
 * [How to use sound classification with TensorFlow on an IoT platform](https://medium.freecodecamp.org/how-to-use-sound-classification-with-tensorflow-on-an-iot-platform-8997eb7bbdef)
 * [Urban Sound Classification](https://tensorflow.blog/2016/11/06/urban-sound-classification/)
 * [맑은날, 흐린날 분류 모델 version 1.0](http://momentum96.tistory.com/16)
+* [TensorFlow Hub와 Estimator로 텍스트 분류 모델 빌드하기](https://developers-kr.googleblog.com/2019/03/tensorflow-hub-estimator.html)
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
