@@ -259,6 +259,8 @@ Vision
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
 * [SlowFast – Dual-mode CNN for Video Understanding](https://lyrn.ai/2018/12/21/slowfast-dual-mode-cnn-for-video-understanding/)
 * [Zero to Hero: Guide to Object Detection using Deep Learning: Faster R-CNN,YOLO,SSD](https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/)
+* [A Deep Learning based magnifying glass](https://medium.com/idealo-tech-blog/a-deep-learning-based-magnifying-glass-dae1f565c359)
+* [Zoom in... enhance: a Deep Learning based magnifying glass - part 2](https://medium.com/idealo-tech-blog/zoom-in-enhance-a-deep-learning-based-magnifying-glass-part-2-c021f98ebede)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
