@@ -396,6 +396,7 @@ Web
 * [PINTEREST 프로그래시브 웹 앱 성능 케이스 스터디](https://kyu.io/ko/pinterest-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EC%8B%9C%EB%B8%8C-%EC%9B%B9-%EC%95%B1-%EC%84%B1%EB%8A%A5-%EC%BC%80%EC%9D%B4%EC%8A%A4-%EC%8A%A4%ED%84%B0%EB%94%94/)
 * [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * [How to write simple modern JavaScript apps with Webpack and progressive web techniques](https://medium.freecodecamp.org/how-to-write-simple-modern-javascript-apps-with-webpack-and-progressive-web-techniques-a30354eab214)
+* [Why Progressive Web Apps are great and and how to build one](https://medium.freecodecamp.org/benefits-of-progressive-web-applications-pwas-and-how-to-build-one-a763e6424717)
 
 # Python
 * Let’s Build A Web Server
