@@ -53,6 +53,7 @@ Scala
   * [라이브 코딩 (2019-02-22)](https://www.youtube.com/watch?v=jLOaG5KyPmU#t=1h17m50s)
   * [라이브 코딩 (2019-03-01)](https://www.youtube.com/watch?v=nPclhWaAsZU#t=1h26m20s)
   * [(2019-03-08) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=YEPETRwHJXk) 트위터에서 만든 스칼라 사용 기술들, iceberg
+  * [(2019-03-22) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=vjUALLgaI5Y#t=45m45s) sbt-devoops를 만들면서 겪은 state/writer monad
 * [tutorialspoint.com/scala](http://www.tutorialspoint.com/scala/)
 * [data-flair.training/blogs/category/scala](https://data-flair.training/blogs/category/scala/)
   * [Why You Should Learn Scala ? – Scala Introduction](https://data-flair.training/blogs/why-you-should-learn-scala-introductory-tutorial/)
