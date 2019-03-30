@@ -1109,6 +1109,10 @@ Python
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
 * [Parses, Analyzes and Predicts for the Korean Baseball League](https://github.com/riceluxs1t/KBOPrediction)
+* [데이콘 야구대회 튜토리얼 2-1 판다스 기본 문법](https://www.youtube.com/watch?v=V-lgb_Z7LpY)
+
+# Basketball
+* [Web Scraping NBA Stats](https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994)
 
 # Book
 * [5 Python books for beginners](http://www.codepancake.com/5-python-books-for-beginners/)
@@ -1550,6 +1554,7 @@ Python
   * [PyAutoGui: Automate GUI applications with Python and PyAutoGUI (Part 1)](https://www.youtube.com/watch?v=dUeCoUw9OoQ)
   * [PyAutoGui: Automate the Calculator! (Part 2)](https://www.youtube.com/watch?v=CXtC8Jzxsvw)
   * [PyAutoGui: Control the Mouse (Part 3)](https://www.youtube.com/watch?v=4rgt7Od7-KM)
+  * [Advanced Python Programming - GUI Automation with PyAutoGUI](https://www.youtube.com/watch?v=1RE5tSPO2RI)
 * PyQT
   * [예제로 배우는 PyQt 예제 중심으로 배우는 PyQt 프로그래밍](https://opentutorials.org/module/544)
   * [PyQT Python GUI Application Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4)
@@ -1837,6 +1842,7 @@ Python
 * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
 * [Three Useful Python Libraries for Startups](http://blog.instavest.com/three-useful-python-libraries-for-startups)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
+* [50 Popular Python open-source projects on GitHub in 2018](https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -2697,7 +2703,6 @@ Python
 * [How to build your data science muscle memory: Slicing and Mapping Data for Machine Learning](https://medium.freecodecamp.org/how-to-build-your-data-science-muscle-memory-slicing-and-mapping-data-for-machine-learning-d38e65986c69)
 * [pandas .head() to .tail() (Beginner) | SciPy 2018 Tutorial | Niederhut, Augspurger, Van den Bossche](https://www.youtube.com/watch?v=lkLl_QKLgcA)
 * [Minimally Sufficient Pandas](https://medium.com/dunder-data/minimally-sufficient-pandas-a8e67f2a2428)
-* [데이콘 야구대회 튜토리얼 2-1 판다스 기본 문법](https://www.youtube.com/watch?v=V-lgb_Z7LpY)
 * [Cleaning and Tidying Data in Pandas - Daniel Chen](https://www.youtube.com/watch?v=iYie42M1ZyU)
 * [Using The Pandas Category Data Type](https://pbpython.com/pandas_dtypes_cat.html)
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas)
