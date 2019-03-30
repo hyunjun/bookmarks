@@ -212,6 +212,7 @@ Scala
 * [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
 * [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
+* [Exceptions, referential transparency and your Scala code](https://medium.com/@itay.maman/exceptions-referential-transparency-and-your-scala-code-4fc3f84043ad)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 * [NAVER Tech Talk: Scala 밋업(2018년 10월)](https://d2.naver.com/news/9362795) Monad, Akka
 * [Implementing Immutable Trie in Scala](https://medium.com/@AlirezaMeskin/implementing-immutable-trie-in-scala-c0ab58fd401)
@@ -234,6 +235,7 @@ Scala
 * **[Parallel computing in Python and Scala](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)**
 * [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77)
 * [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
+* [Dummmy — Test](https://medium.com/@jayvardhan.reddy.v/dummmy-test-27923b031fb7)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -480,6 +482,7 @@ Scala
   * [Organizing Scala Tests For Faster Feedback](https://medium.com/@iamninad/organizing-scala-tests-for-faster-feedback-ba0039357ff9)
   * [Scala: Debugging and Unit Testing](https://medium.com/@alessandroheres/scala-debugging-and-unit-testing-3d357e71ccc) intelliJ
   * [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
+  * [Property-based Testing](https://medium.com/payulatam-engineering/property-based-testing-7cb149f1bffb)
   * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
     * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
     * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
@@ -629,6 +632,7 @@ Scala
   * [Composable table updates in Slick](https://www.missingfaktor.me/writing/2018/08/12/composable-table-updates-in-slick/)
   * [Database migration using Slick made easy – „Scala-Forklift“](https://www.novatec-gmbh.de/en/blog/database-migration-slick-scala-forklift/)
   * [Scala as backend language. Tips, tricks and pain](https://medium.com/@valerii.tikhonov/scala-as-backend-language-tips-tricks-and-pain-dd7bb5da5552) slick의 단점을 지적한 글. 속 시원함
+* Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
@@ -692,6 +696,7 @@ Scala
 * [A Guide to Scala Collections: Exploring Monads in Scala Collections](https://blog.redelastic.com/a-guide-to-scala-collections-exploring-monads-in-scala-collections-ef810ef3aec3)
 * [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+* [Structuring Functional Programs with Tagless Final](https://medium.com/@andreas.hartmann/structuring-functional-programs-with-tagless-final-33af9e1dd0d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
 
