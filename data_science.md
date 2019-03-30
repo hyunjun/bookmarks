@@ -428,6 +428,7 @@ Data Science
 * [Snorkel: A System for Fast Training Data Creation](https://hazyresearch.github.io/snorkel/)
   * [Introducing Snorkel](https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff)
   * [Hand in hand with weak supervision using snorkel - Szymon Wojciechowski](https://www.youtube.com/watch?v=ZSj3rwhABUg)
+  * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
