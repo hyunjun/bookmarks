@@ -2356,6 +2356,7 @@ Python
   * [requests-mock provides a building block to stub out the HTTP requests portions of your testing code](https://github.com/jamielennox/requests-mock)
     * [requests-mock.readthedocs.io](http://requests-mock.readthedocs.io/)
   * [Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers](https://www.youtube.com/watch?v=yqm6MBt-yfY)
+  * [LINE Messaging API 사용해보기(2)](https://engineering.linecorp.com/ko/blog/line-messaging-api-samplebot-2/)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
