@@ -43,8 +43,11 @@ bookmarks
   * [apache](apache.md)
     * [hbase](hbase.md)
     * [spark](spark.md)
-  * [aws](aws.md)
   * [bitcoin](bitcoin.md)
+  * Cloud
+    * [aws](aws.md)
+    * [azure](azure.md)
+    * [google cloud platform gcp](gcp.md)
   * [Coursera](coursera.md)
   * [data science](data_science.md)
     * [artificial intelligence](artificial_intelligence.md)
