@@ -28,6 +28,8 @@ PHP
 * [php callable 살펴보기](https://www.haruair.com/blog/4431)
 * [PHP basics for expert web developers (1' part)](https://hackernoon.com/php-basics-for-expert-web-developers-1-part-8a35d408d2ea)
 * [macOS 10.14 Mojave PHP,Apache 설치 - Part1](https://tech.10000lab.xyz/php/php-apache-part1.html)
+* [macOS 10.14 Mojave PHP,Apache 설치 - Part2](https://tech.10000lab.xyz/php/php-apache-part2.html)
+* [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
 
 # Library
 * composer
