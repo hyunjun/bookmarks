@@ -253,6 +253,7 @@ Programming
 * [허술함을 가장한 애자일(느슨한 서비스)](https://www.popit.kr/%ED%97%88%EC%88%A0%ED%95%A8%EC%9D%84-%EA%B0%80%EC%9E%A5%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%8A%90%EC%8A%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4/)
 * [스포카에서는 회고를 어떻게 할까?](https://spoqa.github.io/2018/08/29/retrospect.html)
 * [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
+* [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1130,6 +1131,7 @@ Programming
   * [2월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/02/b-2-4.html)
   * [3월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/03/b-3-1.html)
   * [3월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/03/b-3-2.html)
+  * [3월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/03/b-3-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1194,6 +1196,7 @@ Programming
   * [1812호](https://blog.gaerae.com/2018/12/monthly.html)
   * [1901호](https://blog.gaerae.com/2019/01/monthly.html)
   * [1902호](https://blog.gaerae.com/2019/02/monthly.html)
+  * [월간 개발자스럽다 #41](https://blog.gaerae.com/2019/03/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
