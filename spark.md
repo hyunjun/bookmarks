@@ -42,6 +42,7 @@
   * [Spark Fundamentals I](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals/)
   * [Spark Fundamentals II](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals-ii/)
 * [Introduction to Spark](https://www.dataquest.io/mission/123/introduction-to-spark/)
+* [Introduction to Apache Spark with Scala](https://medium.com/@Babatee760/introduction-to-apache-spark-with-scala-ed31d8300fe4)
 * [Spark Programming](http://www.slideshare.net/taewook/spark-programming)
 * [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
 * Cloudera
