@@ -207,6 +207,7 @@ Scala
 * [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
   * [Scastie provides an easy start for learning Scala](https://medium.com/@alonso.delarte/scastie-provides-an-easy-start-for-learning-scala-79b7c3541997)
 * [Essential Scala: Six Core Principles for Learning Scala](https://www.youtube.com/watch?v=J8wUy1XxL5o)
+* [Learning Scala: Toolchain, Internals, and Intermediate Representations](https://medium.com/@tylerremmie/learning-scala-toolchain-internals-and-intermediate-representations-716a1719f448)
 * [github.com/ikhoon/scala-note](https://github.com/ikhoon/scala-note)
 * [How to turn ugly Java APIs into elegant, type-safe Scala APIs](https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2)
 * [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
