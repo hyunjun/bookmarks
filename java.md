@@ -123,6 +123,7 @@ Java
     * [HashMap Examples](https://learnjavabypractice.wordpress.com/2017/11/19/hashmap-examples/)
     * [Java: How to get all keys by a value in HashMap ? | Search by Value in Map](http://thispointer.com/java-how-to-get-keys-by-a-value-in-hashmap-search-by-value-in-map/)
   * [Java Collection interview questions answered on differences between X & Y](https://www.java-success.com/java-collection-interview-questions/)
+  * [일급 컬렉션 (First Class Collection)의 소개와 써야할 이유](https://jojoldu.tistory.com/412)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
 * datetime
@@ -642,6 +643,7 @@ Java
       * [8. ItemWriter](https://jojoldu.tistory.com/339)
       * [9. ItemProcessor](https://jojoldu.tistory.com/347)
     * [Spring Batch Paging Reader 사용시 같은 조건의 데이터를 읽고 수정할때 문제](https://jojoldu.tistory.com/337)
+    * [파일럿 프로젝트를 통한 배치경험기!](http://woowabros.github.io/experience/2019/03/31/pilot-batch.html)
   * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
   * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
   * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
