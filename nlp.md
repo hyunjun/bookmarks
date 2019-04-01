@@ -1176,6 +1176,8 @@ NLP
 * [Neural Translation Model with Attention](https://medium.com/datadriveninvestor/neural-translation-model-95277838d17d)
 * [Word Piece Model (a.k.a sentencepiece)](https://lovit.github.io/nlp/2018/04/02/wpm/) RNN
 * [Character Word LSTM Language Models paper review](https://github.com/YBIGTA/DeepNLP-Study/wiki/Character-Word-LSTM-Language-Models-paper-review)
+* [기계번역 시퀀스 투 시퀀스 + 어텐션 모델](https://www.youtube.com/watch?v=WsQLdu2JMgI)
+  * [Neural Machine Translation with Attention](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
