@@ -393,6 +393,7 @@ R
   * [텍스트마이닝 - R을 활용한 웹 크롤링 및 단어 연관 분석 (KoNLP) :: Data 쿡북](http://datacookbook.kr/17)
 * magick
   * [Using Magick with RMarkdown and Shiny](https://www.r-bloggers.com/using-magick-with-rmarkdown-and-shiny/)
+  * [Get text from pdfs or images using OCR: a tutorial with {tesseract} and {magick}](https://www.r-bloggers.com/get-text-from-pdfs-or-images-using-ocr-a-tutorial-with-tesseract-and-magick/)
 * [mboxr - import an mbox file into R tibble for hands-on analyses in R environment](https://jooyoungseo.github.io/mboxr/)
 * miniCRAN
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
@@ -469,6 +470,7 @@ R
   * [shiny_lecture](https://github.com/jypstory/shiny_lecture)
   * [Shiny 반응형(reactive) 웹앱 개발](https://statkclee.github.io/data-product/shiny-reactive.html)
   * [ShinyApps를 R 패키지로 만들기](https://blog.anpanman.co.kr/posts/2019-02-10-from-shiny-to-rpackage)
+  * [Using Shiny with Scheduled and Streaming Data](https://rviews.rstudio.com/2017/11/15/shiny-and-scheduled-data-r/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
