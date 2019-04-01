@@ -2955,7 +2955,7 @@ Python
 * [Automated Tests in Python](https://powerfulpython.com/blog/automated-tests-types-for-python/)
 * [python testing](http://pythontesting.net/)
 * [Unit Tests in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
-* [Reduce testing time by Multiprocessing in python](https://www.slideshare.net/SangJuneAhn/reduce-testing-time-by-multiprocessing-in-python)
+* [Reduce testing time by Multiprocessing in python](https://www.slideshare.net/SangJuneAhn/reduce-testing-time-by-multiprocessing-in-python-138982022)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
   * [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
