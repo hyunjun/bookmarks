@@ -58,6 +58,7 @@ Data Science
   * Kafka, Presto, Airflow, Spark 사용
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
+* [새로운 데이터 분석가와의 랑데부를 위하여(2)](https://cojette.github.io/rendezvous2/) SQL 중요성 강조
 * [따라 하는 데이터 과학 – 강의 PPT](https://dataninja.me/ipds-kr-slides-ppt/)
 * [datasciencetech.institute](https://www.datasciencetech.institute/)
 * [mindscale.kr](http://mindscale.kr/)
