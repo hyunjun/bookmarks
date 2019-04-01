@@ -149,6 +149,7 @@ App
   * [flybook introduction](https://www.youtube.com/watch?v=sQkKVafM6N0)
   * [flybook usage](https://www.youtube.com/watch?v=nqJfprV3KUI)
 * [forestry.io - A better way to host and manage simple (static) websites No more cPanel web hosts, no more bloated WordPress](https://forestryio.herokuapp.com/)
+* [gatsby-casper](https://github.com/scttcper/gatsby-casper) blog
 * [Github로 블로그 만들기 + LaTeX 적용하기](https://helloworldpark.github.io/jekyll/update/2016/12/18/Github-and-Latex.html)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브](https://beomi.github.io/2017/03/27/Use-GoogleDrive-as-Image-Server/)
   * [편리한 깃헙페이지 블로깅을 위한 이미지서버, 구글드라이브: 앱으로 만들고 키보드 단축키 연결하기](https://beomi.github.io/2017/03/28/Make-Capture-to-GDrive-App/)
@@ -190,6 +191,7 @@ App
   * [jekyll-theme-collider](https://github.com/ryancolorcafe/jekyll-theme-collider)
   * [Create your own Jekyll theme gem](https://ryandevelops.com/collection/2018-10-07-create-your-own-jekyll-theme-gem)
     * [번역 - 나만의 지킬 테마 만들기](https://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko)
+  * [reveal-jekyll](https://github.com/tasmo/reveal-jekyll)
   * [번역 - 해커처럼 블로깅하기](http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
@@ -246,6 +248,7 @@ App
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
 
 # Comminucation
+* [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
 * [wire](https://wire.com/) skype alternative
 
 # Cowork
