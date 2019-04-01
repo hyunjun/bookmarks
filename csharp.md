@@ -82,3 +82,4 @@ C#
 * [(C#,자마린강좌)iOS HelloWorld, 아이폰, Xamarin.iOS 시뮬레이터 실습예제 따라하기](http://www.slideshare.net/topcredu/chello-ios)
 * [아이폰/안드로이드 앱 아직도 따로만드세요?](https://brunch.co.kr/@brightlee/6)
 * [MS 자마린 에센셜, 크로스 플랫폼 완성 '마지막 조각'](http://www.ciokorea.com/news/38885#csidx79bb1f47e886691a3d0a568d3ac989e)
+* [Xamarin 과연 쓸만한가](https://youngjaekim.wordpress.com/2019/03/31/xamarin-%EA%B3%BC%EC%97%B0-%EC%93%B8%EB%A7%8C%ED%95%9C%EA%B0%80/)
