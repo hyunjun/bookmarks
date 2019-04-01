@@ -135,6 +135,7 @@ Interview
 * [초등학교 덧셈 알고리즘을 코드로 써보기](http://minjang.github.io/2019/03/02/convert-math-addition-algorithm-to-code/)
 * [다이애나의 북마크(2)-채용인터뷰에 임하는 HR매니저의 자세](https://estimastory.com/2013/12/29/dianabookmark2/)
 * [새로운 데이터 분석가와의 랑데부를 위하여(1)](https://cojette.github.io/rendezvous1/)
+* [How to interview your interviewers when you’re looking for a job](https://medium.freecodecamp.org/how-to-interview-your-interviewers-when-youre-looking-for-a-job-d848bc3a910)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -257,6 +258,7 @@ Interview
 * [How to Succeed in any Programming Interview 2018](https://www.youtube.com/watch?v=5KB5KAak6tM)
 * [내가 문제풀이를 연습하는 방법](https://koosaga.com/217)
 * [알고리즘 공부 사이트/문제 추천](https://justicehui.github.io/study/2019/03/25/AlgorithmSite/)
+* [나만의 알고리즘 채점 사이트 만들기(How To Make Online Judge Site)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCSBgU29ZEmxqTr4ge-MoN_)
 * [algoexpert.io](https://www.algoexpert.io)
 * [algospot](https://www.algospot.com)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
