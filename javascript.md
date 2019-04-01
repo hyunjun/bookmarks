@@ -447,6 +447,7 @@ Javascript
 * [How to title case a sentence in JavaScript](https://medium.freecodecamp.org/title-case-a-sentence-in-javascript-929012c88574)
 * [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
 * [An introduction to the JavaScript DOM](https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec)
+* [A Toolkit to Harness the Full Power of JavaScript Functions](https://itnext.io/a-toolkit-to-harness-the-full-power-of-javascript-functions-633baaaba337)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -802,6 +803,7 @@ Javascript
 * [create JS](http://createjs.com/Home)
 * [Crypton is a framework for creating zero-knowledge applications with JavaScript](https://github.com/SpiderOak/crypton)
 * [CubbyFlow - voxel-based fluid simulation engine for computer games based on Jet framework](https://github.com/utilForever/CubbyFlow)
+* day.js [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
 * [dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula)
 * [dygraphs - a fast, flexible open source JavaScript charting library](http://dygraphs.com/)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
@@ -1350,6 +1352,7 @@ Javascript
 * [How Might Serverless Impact Node.js Ecosystem?](https://blog.bitsrc.io/how-might-serverless-impact-node-js-ecosystem-b0e312036fcf)
 * [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
 * [How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
+* [코딩 한 줄 없이 라인 봇으로 거짓말 탐지기 만들기!](https://engineering.linecorp.com/ko/blog/making-a-polygraph-chatbot/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
