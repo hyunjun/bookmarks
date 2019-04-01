@@ -169,6 +169,8 @@ Functional Programming
 * [Composing Software: An Introduction](https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea)
 * [A Quick Introduction to Functional Javascript](https://hackernoon.com/a-quick-introduction-to-functional-javascript-7e6fe520e7fa)
 * [Can You Avoid Functional Programming as a Policy?](https://medium.com/javascript-scene/can-you-avoid-functional-programming-as-a-policy-7bd0570bcfb2)
+* [The Universal Function Thoughts on JavaScript, Functions and Functional Programming](https://medium.com/@matthewcarltyson/the-universal-function-2e3b3fa063e6)
+* [What Is a Pure Function in JavaScript?](https://medium.freecodecamp.org/what-is-a-pure-function-in-javascript-acb887375dfe)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [immer - Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
