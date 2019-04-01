@@ -241,7 +241,7 @@ Apache
 * [Apache Impala: My Insights and Best Practices](https://medium.com/@adirmashiach/apache-impala-my-insights-and-best-practices-8e0507089935)
 * [How to read Impala query plan and profile Part 1 by Juan Yu](https://www.cloudera.com/developers/featured-video.html)
 * [5 Main Missing Features in Impala (Opinion)](https://medium.com/@adirmashiach/5-main-missing-features-in-impala-imo-1343c767081f)
-* [Assessment of Apache Impala Performance using Cloudera Manager Metrics – Part 1 of 3](https://blog.cloudera.com/blog/2018/12/assessment-of-apache-impala-performance-using-cloudera-manager-metrics-part-1-of-3/?fbclid=IwAR38t9c3b7iXlf6UimLCL3vjBPXSQ_rPC6g0ViAoq-Dpg6jLb5Dbm3TUqWc)
+* [Assessment of Apache Impala Performance using Cloudera Manager Metrics – Part 1 of 3](https://blog.cloudera.com/blog/2018/12/assessment-of-apache-impala-performance-using-cloudera-manager-metrics-part-1-of-3)
   * Cloudera Manger의 차트와 메트릭 기능을 사용하여 Impala 성능 이슈를 해결하는 방법
 
 # [Jena](http://jena.apache.org)
@@ -703,6 +703,7 @@ Apache
   * Apache Pulsar를 통해 스트리밍 데이터를 SQL로 조회하는 아키텍처, 성능, 리뷰 포함
 * [Apache Pulsar. MacOS installation Guide](https://medium.com/pharos-production/apache-pulsar-macos-installation-guide-f4f67fce1160)
 * [Apache Pulsar Using Java](https://medium.com/pharos-production/apache-pulsar-using-java-d2b619c9f0b)
+* [Rendezvous Architecture for Data Science in Production](https://towardsdatascience.com/rendezvous-architecture-for-data-science-in-production-79c4d48f12b)
 
 # [Ranger](http://ranger.apache.org)
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
