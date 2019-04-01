@@ -321,6 +321,7 @@ Linux
   * [SSH known_host 메모](http://bcho.tistory.com/1227) ssh-keyscan
   * `ssh-keygen -R <ip>` [Host key verification failed 대처](http://uni2u.tistory.com/93)
   * [A top-down introduction to SSH and how it enables secure data-sharing](https://medium.freecodecamp.org/a-top-down-introduction-to-ssh-965f4fadd32e)
+  * [SSH Port Forwarding](https://jusths.tistory.com/102)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
