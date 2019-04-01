@@ -250,6 +250,7 @@ Programming Books
 * [관계형 데이터베이스 실전 입문](http://wikibook.co.kr/rdb-in-practice/)
   * 한라 005.7533오876ㄱ
   * 이론서(e.g. DB에 수학이 어떻게 적용되어나)이나 그래프 저장, 캐시, 스케일 아웃 등에 대한 이야기가 있어 참고할만 함
+* (NOT YET) [파워 오브 데이터베이스](https://bjpublic.tistory.com/322)
 
 # Data Science
 
@@ -910,6 +911,8 @@ Programming Books
 * (NOT YET) [함수형 코틀린 코틀린과 애로우로 배우는 함수형 프로그래밍](http://acornpub.co.kr/book/functional-kotlin)
 * (NOT YET) [코틀린 마이크로서비스 개발 스프링 5와 스프링 부트 2.0을 활용해 코틀린으로 구축하는 리액티브 마이크로서비스](http://acornpub.co.kr/book/microservices-kotlin)
 * (NOT YET) [빅 너드 랜치의 코틀린 프로그래밍](https://jpub.tistory.com/906)
+* (NOT YET) [코틀린 이것만 보면 돼](https://bjpublic.tistory.com/318)
+* (NOT YET) [{열혈코딩}안드로이드 스튜디오로 만나는 코틀린](https://bjpublic.tistory.com/316)
 
 # Linux
 
@@ -1154,6 +1157,7 @@ Programming Books
   * 한라
 * (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
 * (NOT YET) [Pandas Cookbook 과학 연산, 시계열 분석, 파이썬을 이용한 시각화, 정돈된 데이터 만들기](http://acornpub.co.kr/book/pandas-cookbook)
+* (NOT YET) [손에 잡히는 판다스](https://bjpublic.tistory.com/315)
 * (NOT YET) [더 괜찮은 QA가 되기 위한 프랙티컬 테스트 자동화 - 파이썬을 이용한 키워드 중심 테스트 자동화](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-qa%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%94%84%EB%9E%99%ED%8B%B0%EC%BB%AC-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [일 잘하는 평사원의 업무 자동화 - 업무에 날개를 달아주는 파이썬](https://freelec.co.kr/book/%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%ED%8F%89%EC%82%AC%EC%9B%90%EC%9D%98-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94/)
 * (NOT YET) [파이썬 해킹 입문 - 공격의 언어 파이썬을 이용한 해킹 연습](https://freelec.co.kr/book/%ED%95%B4%ED%82%B9-%EA%B8%B0%EB%B3%B8%EC%84%9C/)
@@ -1166,6 +1170,9 @@ Programming Books
 * (NOT YET) [슬기로운 파이썬 트릭](https://blog.insightbook.co.kr/2019/01/23/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%84-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-%EC%A3%BC%EB%8A%94%E3%80%8E%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](http://wikibook.co.kr/python-for-data-analysis/)
 * (NOT YET) 파이썬 클린 코드 유지보수가 쉬운 파이썬 코드를 만드는 비결
+* (NOT YET) [깔끔한 파이썬 탄탄한 백엔드](https://bjpublic.tistory.com/317) flask, aws
+  * [HTTP의 구조 및 핵심 요소](https://zzsza.github.io/development/2019/03/01/http-structure/)
+* (NOT YET) [바이오파이썬으로 만나는 생물정보학](https://bjpublic.tistory.com/324)
 
 # R
 
