@@ -428,6 +428,7 @@ ElasticSearch - Lucene
 * [Fess is very powerful and easily deployable Enterprise Search Server. http://fess.codelibs.org ](https://github.com/nocode2k/fess)
 * [fluent-plugin-beats at Elasticsearch meetup](http://www.slideshare.net/repeatedly/fluentpluginbeats-at-elasticsearch-meetup-14)
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
+* [go-elasticsearch - The official Go client for Elasticsearch](https://github.com/elastic/go-elasticsearch)
 * [Hierarchical filtering](http://demo.searchkit.co/taxonomy)
 * [klay-es-plugin](https://github.com/ks-shim/klay-es-plugin) klay(Korean Language AnalzYer) plugin for elasticsearch
 * [Komoran](https://github.com/shin285/KOMORAN)
