@@ -1155,6 +1155,8 @@ Python
 * [PyQt5 Tutorial : 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
 * [파이썬 괴식 레시피 - 긱(Geek)스럽게 파이썬 활용하기](https://wikidocs.net/book/2460)
 * [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
+* [파이썬 책 추천 목록 정리](https://github.com/daejinseok/books/blob/master/Python_Book_List.md)
+* [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
@@ -1802,6 +1804,7 @@ Python
   * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
   * [Getting Started With Google Colab - A Simple Tutorial for the Frustrated and Confused](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
   * **[코랩 시작하기](https://tykimos.github.io/2019/01/22/colab_getting_started/)** file upload, google drive 연동 방법
+  * [Google Colab: how to read data from my google drive?](https://stackoverflow.com/questions/48376580/google-colab-how-to-read-data-from-my-google-drive/53094059#53094059)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
@@ -1843,6 +1846,7 @@ Python
 * [Three Useful Python Libraries for Startups](http://blog.instavest.com/three-useful-python-libraries-for-startups)
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [50 Popular Python open-source projects on GitHub in 2018](https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0)
+* [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -2357,6 +2361,7 @@ Python
     * [requests-mock.readthedocs.io](http://requests-mock.readthedocs.io/)
   * [Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers](https://www.youtube.com/watch?v=yqm6MBt-yfY)
   * [LINE Messaging API 사용해보기(2)](https://engineering.linecorp.com/ko/blog/line-messaging-api-samplebot-2/)
+  * [아이패드 PYTHONISTA 어플로 구글번역 EXTENSION 만들기](http://lumiamitie.github.io/python/ipad-translator-extension/)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
@@ -2709,6 +2714,7 @@ Python
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas)
 * [Pandas 기초 - cheat sheet 따라하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR)
 * [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)
+* Modin [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
