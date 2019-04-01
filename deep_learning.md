@@ -784,6 +784,7 @@ Deep Learning
 * [The Two Phases of Gradient Descent in Deep Learning](https://medium.com/intuitionmachine/the-peculiar-behavior-of-deep-learning-loss-surfaces-330cb741ec17)
 * [Machine Learning 101: An Intuitive Introduction to Gradient Descent](https://towardsdatascience.com/machine-learning-101-an-intuitive-introduction-to-gradient-descent-366b77b52645)
 * [Understanding the 3 Primary Types of Gradient Descent](https://medium.com/@ODSC/understanding-the-3-primary-types-of-gradient-descent-987590b2c36)
+* [Understanding the Mathematics behind Gradient Descent](https://towardsdatascience.com/understanding-the-mathematics-behind-gradient-descent-dde5dc9be06e)
 * [Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
 * [Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)
@@ -1191,6 +1192,7 @@ Deep Learning
   * [Benchmarking CNTK on Keras: is it Better at Deep Learning than TensorFlow?](http://minimaxir.com/2017/06/keras-cntk/)
   * [Microsoft Congnitive Toolkit 알아보기!](http://digitalbourgeois.tistory.com/37)
   * [Microsoft Face API: Python SDK & Sample](https://github.com/Microsoft/Cognitive-Face-Python)
+  * [Keras + CNTK Backend](https://youngjaekim.wordpress.com/2019/03/31/keras-cntk-backend/)
 * [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
 
