@@ -270,6 +270,7 @@ Machine Learning
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
 * [Drawing the Multiple Regression Models](http://rpubs.com/cardiomoon/474707)
 * [Linear Regression — Python Implementation](https://towardsdatascience.com/linear-regression-python-implementation-ae0d95348ac4)
+* [6 TYPES OF REGRESSIONS, DID YOU KNOW?](https://www.analyticsinsight.net/6-types-of-regressions-have-you-heard/)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
 * [만약 타이타닉에 내가 탔더라면 생존할 수 있었을까?](https://titanic-survivor.herokuapp.com/)
