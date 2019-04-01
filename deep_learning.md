@@ -1094,6 +1094,7 @@ Deep Learning
   * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
   * [제가 번역한 딥러닝 문서 목록 (deeplerarning4j.org)](http://keunwoochoi.blogspot.com/2016/03/deeplerarning4jorg.html)
   * [Getting started with Deeplearning4J and Scala](http://datasmarts.net/2017/11/11/getting-started-with-deeplearning4j-and-scala/)
+  * [DL4J-Quick Start](http://hugrypiggykim.com/2016/05/15/deep-learning-dl4j-quick-start)
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [einops - Deep learning operations rethinked (supports tf, pytorch, chainer, gluon and others)](https://github.com/arogozhnikov/einops)
   * [Writing better code with pytorch and einops](https://arogozhnikov.github.io/einops/pytorch-examples.html)
