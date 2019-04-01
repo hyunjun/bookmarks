@@ -156,6 +156,8 @@ Interview
 * [아마존의 기업 문화](https://www.youtube.com/watch?v=BJdpoh695D4)
 * [How Is Software Developed At Amazon?](http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html)
 * [LEWIS C. LIN'S AMAZON INTERVIEW SPREADSHEET](https://www.lewis-lin.com/blog/2018/6/13/lewis-c-lins-amazon-interview-spreadsheet)
+* [아마존에서 가장 오래 일한 한국인 박정준](https://www.youtube.com/watch?v=AhXP03kV36c)
+* [Electricity Metaphor for the web's future](https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -274,6 +276,8 @@ Interview
   * [codility.com/programmers/lessons](https://codility.com/programmers/lessons)
 * [codingame.com](https://www.codingame.com/)
 * [codingdojang.com](http://codingdojang.com/)
+* [dailycodingproblem.com](https://www.dailycodingproblem.com/)
+  * [dailycodingproblem.com/blog](https://www.dailycodingproblem.com/blog)
 * [dojang.io](https://dojang.io/)
 * [EPI Judge - Preview Release](https://github.com/adnanaziz/EPIJudge)
   * [Elements of Programming Interviews](http://elementsofprogramminginterviews.com/)
@@ -296,6 +300,7 @@ Interview
 * [ipsc.ksp.sk](http://ipsc.ksp.sk/)
 * [leetcode](https://leetcode.com/)
   * [Leetcode problems classified by company](http://www.learn4master.com/interview-questions/leetcode/leetcode-problems-classified-by-company)
+  * [How to solve coding interview problems ("Let's leetcode")](https://www.youtube.com/watch?v=dIrS31CCITM)
 * [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)
 * [Pramp - Interview like a Champ](https://www.pramp.com/practice)
 * [programmers.co.kr](https://programmers.co.kr/)
