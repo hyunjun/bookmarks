@@ -579,6 +579,7 @@ Machine Learning
 * [Types of classification algorithms in Machine Learning](https://medium.com/@sifium/machine-learning-types-of-classification-9497bd4f2e14)
 * [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 * [Music Genre Classification with Python A Guide to analysing Audio/Music signals in Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
+* [Machine Learning Classifier evaluation using ROC and CAP Curves](https://towardsdatascience.com/machine-learning-classifier-evaluation-using-roc-and-cap-curves-7db60fe6b716) sklearn
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
