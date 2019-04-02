@@ -101,6 +101,7 @@
 * [Hacking with Kotlin: prepending](https://proandroiddev.com/hacking-with-kotlin-prepending-d1ba87b64846)
 * [코틀린으로 구현하는 당신의 첫번째 Node.js app](https://devsh.tistory.com/135)
 * [Fast Prototypes with Flutter + Kotlin/Native](https://tech.olx.com/fast-prototypes-with-flutter-kotlin-native-d7ce5cfeb5f1)
+* [코딩 컨벤션 정리](https://medium.com/@joongwon/kotlin-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC-7681cde920ce)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
