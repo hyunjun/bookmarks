@@ -970,6 +970,7 @@ Python
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
   * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)
   * [파이썬 Xml 이해하기](http://www.slideshare.net/dahlmoon/xml-70416770)
+  * [Working with XML tree data in Python](https://hackingandslacking.com/dealing-with-xml-in-python-b577630294b0)
 * yield
   * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
   * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
