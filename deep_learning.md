@@ -1283,6 +1283,7 @@ Deep Learning
 * [neural networks by browser](http://neurovis.dataphoric.com/)
 * [Scalable Bayesian Optimization Using Deep Neural Networks](http://arxiv.org/abs/1502.05700)
 * [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
+* [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (2)](http://research.sualab.com/introduction/practice/2019/04/01/bayesian-optimization-overview-2.html)
 * [Data Pipeline Hyperparameter Optimization - Alex Quemy](https://www.youtube.com/watch?v=mmoYYACFX0c)
 * **[An implementation of the paper 'A Neural Algorithm of Artistic Style'](https://github.com/kaishengtai/neuralart)**
   * [거장의 그림을 30초만에 만들다: DeepStyle](http://redtea.kr/?b=3&n=951)
