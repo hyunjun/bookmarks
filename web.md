@@ -193,14 +193,17 @@ Web
   * [part 2](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-2/)
 * [Hosted web crawler for developers](https://www.apifier.com/)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
-* [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
-* [How to Perform Web-Scraping using Node.js](https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb)
 * [I Don’t Need No Stinking API – Web Scraping in 2016 and Beyond](https://franciskim.co/2016/08/24/dont-need-no-stinking-api-web-scraping-2016-beyond/)
 * [A Guide to Automating & Scraping the Web with JavaScript (Chrome + Puppeteer + Node JS)](https://codeburst.io/a-guide-to-automating-scraping-the-web-with-javascript-chrome-puppeteer-node-js-b18efb9e9921)
 * [2018 데이터야놀자 웹크롤링 좀 더 잘하기](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
 * [Web scraping for web developers: a concise summary](https://medium.freecodecamp.org/web-scraping-for-web-developers-a-concise-summary-3af3d0ca4069)
 
-## Python
+## Crawler Node.js
+* [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
+* [How to Perform Web-Scraping using Node.js](https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb)
+* [puppeteer 뉴스 기사 메타 정보 크롤링](https://devhaks.github.io/2019/03/30/puppeteer)
+
+## Crawler Python
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
 * [30분만에 따라하는 동시성 웹 스크래퍼](http://www.pycon.kr/2014/program/15)
 * [Tiny basic multi-threaded web crawler in Python](http://blog.webhose.io/2015/08/12/tiny-basic-multi-threaded-web-crawler-in-python/)
