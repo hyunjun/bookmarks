@@ -771,6 +771,7 @@ Scala
 * [jvm의 type erasure를 스칼라에서 피할수 있는 팁](https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20)
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
+* [Alphabet Soup: Type-level transformations](https://medium.com/@jdrphillips/alphabet-soup-type-level-transformations-eb60918af35d)
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
 * [(47) ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
