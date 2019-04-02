@@ -78,6 +78,7 @@ Android
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
 * [Android dev updates - week15 of 2019](https://androidkr.blogspot.com/2019/03/android-dev-updates-week15-of-2019.html)
+* [How to develop an Android App in 2019: embracing the ‘new’ Android](https://medium.freecodecamp.org/developing-an-android-app-in-2019-embracing-the-new-android-51000037b6fa)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
