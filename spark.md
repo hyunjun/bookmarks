@@ -355,6 +355,7 @@
 * [입 개발 spark-submit 시에 –properties-file 와 파라매터에서의 우선 순위](https://charsyam.wordpress.com/2019/03/10/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-submit-%EC%8B%9C%EC%97%90-properties-file-%EC%99%80-%ED%8C%8C%EB%9D%BC%EB%A7%A4%ED%84%B0%EC%97%90%EC%84%9C%EC%9D%98-%EC%9A%B0%EC%84%A0-%EC%88%9C%EC%9C%84/)
 * [Which Language to choose when working with Apache Spark](https://medium.com/@write2karanverma/which-language-to-choose-when-working-with-apache-spark-1cddc46e40fd)
 * [Procesando Datos con Spark](https://medium.com/@crscardellino/procesando-datos-con-spark-48539d38e437)
+* [Which Career Should I Choose — Hadoop Admin or Spark Developer?](https://medium.com/@etlhive/which-career-should-i-choose-hadoop-admin-or-spark-developer-391247e7d13e)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
