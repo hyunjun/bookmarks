@@ -1028,3 +1028,4 @@ TensorFlow
 * [lilianweng.github.io/lil-log/tag/tutorial](https://lilianweng.github.io/lil-log/tag/tutorial)
 * [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
 * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
+* [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
