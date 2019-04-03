@@ -64,6 +64,7 @@ Programming Books
 * (NOT YET) [AI 빅데이터에 숨어있는 수학의 아름다움](http://www.sejongbooks.co.kr/book_board/pubstory_book_view.php?id=bookstory&no=20501&category=08)
 * (NOT YET) **[HTTP 완벽 가이드: 웹은 어떻게 동작하는가](https://blog.outsider.ne.kr/1431)**
 * (NOT YET) [빅데이터가 만드는 세상 / 빅토르 마이어 쇤버거](http://ohyecloudy.com/pnotes/archives/book-big-data-a-revolution-that-will-transform-how-we-live-work-and-think/)
+* (NOT YET) [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/)
 
 # Agile Scrum
 
