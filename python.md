@@ -2527,6 +2527,7 @@ Python
   * [Comparing Python Virtual Environment tools](https://towardsdatascience.com/comparing-python-virtual-environment-tools-9a6543643a44)
   * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
   * [The Python Package Dreamteam](https://towardsdatascience.com/the-python-dreamteam-27f6f9f08c34)
+  * [Python Virtualenv with Hadoop Streaming](https://henning.kropponline.de/2014/07/18/virtualenv-hadoop-streaming/)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
