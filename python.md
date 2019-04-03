@@ -1153,7 +1153,6 @@ Python
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 * [Django 자습](https://wikidocs.net/book/837)
-* [PyQt5 Tutorial : 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
 * [파이썬 괴식 레시피 - 긱(Geek)스럽게 파이썬 활용하기](https://wikidocs.net/book/2460)
 * [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
 * [파이썬 책 추천 목록 정리](https://github.com/daejinseok/books/blob/master/Python_Book_List.md)
@@ -1579,6 +1578,8 @@ Python
   * [make-a-story](https://github.com/dailyInsight6/make-a-story)
   * [fbs - build-system.fman.io](https://build-system.fman.io)
   * [Python and Qt: 3,000 hours of developer insight](https://blog.qt.io/blog/2018/11/15/python-qt-3000-hours-developer-insight)
+  * [PyQt5 Tutorial : 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
+  * [PyQt5 및 Qt Designer 설치](https://webolutions.tistory.com/118)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter
@@ -1806,6 +1807,7 @@ Python
   * [Getting Started With Google Colab - A Simple Tutorial for the Frustrated and Confused](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
   * **[코랩 시작하기](https://tykimos.github.io/2019/01/22/colab_getting_started/)** file upload, google drive 연동 방법
   * [Google Colab: how to read data from my google drive?](https://stackoverflow.com/questions/48376580/google-colab-how-to-read-data-from-my-google-drive/53094059#53094059)
+  * [Usage TPU in Google Colaboratory](https://jybaek.tistory.com/783)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
