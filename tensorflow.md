@@ -592,6 +592,7 @@ TensorFlow
 * [TensorFlow for Windows](https://tensorflowkorea.wordpress.com/2016/10/07/tensorflow-for-windows/)
 * [install TensorFlow on Windows 10 Bash (include graphiclib)](https://gist.github.com/wall72/e85a246a310d8129efa92a18fa266039)
 * [Using TensorFlow in Windows with a GPU](http://www.heatonresearch.com/2017/01/01/tensorflow-windows-gpu.html)
+* [How to run TensorFlow with GPU on Windows 10 in a Jupyter Notebook](http://bailiwick.io/2017/11/05/tensorflow-gpu-windows-and-jupyter/)
 * [Docker나 가상머신 없이 Window에서 TensorFlow 시작하기: tensorflow-gpu + Window (7,10) 설치 가이드입니다](http://jaejunyoo.blogspot.com/2017/02/start-tensorflow-gpu-window-10.html)
 * [챗봇준비 - docker를 이용하여 tensorflow를 설치 후 간단히 사용해보기](http://blog.naver.com/pjt3591oo/221013569698)
 * [Docker-based TensorFlow experimental environment](https://intl.aliyun.com/forum/read-683)
