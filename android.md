@@ -80,6 +80,7 @@ Android
 * [Android dev updates - week15 of 2019](https://androidkr.blogspot.com/2019/03/android-dev-updates-week15-of-2019.html)
 * [How to develop an Android App in 2019: embracing the ‘new’ Android](https://medium.freecodecamp.org/developing-an-android-app-in-2019-embracing-the-new-android-51000037b6fa)
 * [안드로이드 카메라 예제 (1/2)](https://brunch.co.kr/@mystoryg/54)
+* [안드로이드 카메라 예제 (2/2)](https://brunch.co.kr/@mystoryg/55)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
