@@ -25,6 +25,7 @@ Scala
 * [Scala Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
 * [Learn Scala (Best Scala Tutorials for Beginners)](https://medium.com/hackr-io/learn-scala-best-scala-tutorials-for-beginners-bd80407387f5)
 * [Learn Scala from 0–60: The Basics](https://medium.freecodecamp.org/learning-scala-from-0-60-part-i-dc095d274b78)
+* [Basic Scala](https://medium.com/@oyamada.nami/basic-scala-fd716734e9aa)
 * [Scala A guide for getting started](https://medium.com/@tylerremmie/scala-is-a-concise-high-level-language-focused-on-combining-functional-and-object-oriented-c293f900f88)
 * [Scala Programming: An Introduction](https://medium.com/@alessandroheres/scala-programming-an-introduction-33464b390d57)
 * [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
@@ -308,6 +309,7 @@ Scala
 * [A tour of the (advanced) Akka features in 60 minutes by Johan Janssen](https://www.youtube.com/watch?v=4sP8v9lM6Kw)
 * [Event-Sourced Architectures with Akka](https://www.youtube.com/watch?v=gvsRl6xZiiE)
 * [Hands on Introduction to Distributed Systems Concepts with Akka Clustering - by David Russell](https://www.youtube.com/watch?v=WVHqUL-8FuM)
+* [Scala and Akka: An Introduction](https://medium.com/coderlawyer/scala-and-akka-an-introduction-cdf3476d0fc6)
 * [Sane Sharding with Akka Cluster - Michal Plachta](https://www.youtube.com/watch?v=f06Otw_DuQU)
 * ["The Road to Akka Cluster, and Beyond" by Jonas Bonér](https://www.youtube.com/watch?v=U1C5m8b0qg0)
 * [Akka - cluster - etcd by Maciej Biłas at Scalar Conf 2016](https://www.youtube.com/watch?v=cow7WDdf-tU)
@@ -364,6 +366,9 @@ Scala
 * [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
 * [Akka cluster quarantined problem](https://medium.com/@leighton.wong/akka-cluster-quarantined-problem-350cc8c6c1d5)
 * [How to make a simple application with Akka Cluster](https://medium.freecodecamp.org/how-to-make-a-simple-application-with-akka-cluster-506e20a725cf)
+* [Akka Steam Graphs — A first Java example](https://medium.com/@suchakjani/akka-steam-graphs-a-first-example-c93fbc1f02f5)
+* [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
+* [Akka Steam Graphs — Dynamic Parallel Streams, Example 3](https://medium.com/@suchakjani/akka-steam-graphs-dynamic-parallel-streams-example-3-6215d14c0a16)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
