@@ -580,6 +580,7 @@ Machine Learning
 * [ML Practicum: Image Classification](https://developers.google.com/machine-learning/practica/image-classification)
 * [Music Genre Classification with Python A Guide to analysing Audio/Music signals in Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
 * [Machine Learning Classifier evaluation using ROC and CAP Curves](https://towardsdatascience.com/machine-learning-classifier-evaluation-using-roc-and-cap-curves-7db60fe6b716) sklearn
+* [머신러닝을 활용한 제품 카테고리 분류하기](https://medium.com/mighty-data-science-bootcamp/%EB%B2%88%EC%97%AD-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A0%9C%ED%92%88-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0-cd75f11d588a)
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
@@ -730,6 +731,7 @@ Machine Learning
 * [Work like a Pro with Pipelines and Feature Unions](https://www.kaggle.com/metadist/work-like-a-pro-with-pipelines-and-feature-unions)
 * [Kaggle_NLP_Song](https://github.com/songys/Kaggle_NLP_Song/blob/master/README.md)
 * [Why Kaggle will NOT make you a great data-scientist](https://towardsdatascience.com/why-kaggle-will-not-make-you-a-great-data-scientist-a2c2f506a23f)
+* [수비니움의 캐글 따라하기 1강. 타이타닉 (1)](https://www.youtube.com/watch?v=bGGnlvsS8ao)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
