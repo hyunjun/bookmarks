@@ -283,6 +283,7 @@ AWS
 * [AWS Landing Zone Solution -Accelerating Cloud Adoption](https://hackernoon.com/aws-landing-zone-solution-accelerating-cloud-adoption-2b1c17017bc)
 * [AWS Credentials were refreshed 발생시 해결 방법](https://jojoldu.tistory.com/410)
 * [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs)
+* [file system clustering as glusterfs in kubernetes environment on aws platform](https://github.com/graykode/kubernetes-glusterfs-aws)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
