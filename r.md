@@ -362,6 +362,7 @@ R
   * [dplyr 문법을 통한 전처리를 SQL 로의 스위칭](https://lovetoken.github.io/r/2018/11/24/dplyrquery.html)
   * [R에서 dplyr 0.8.0 업데이트에 따른 요인별 집계의 신규 함수 중 group_map() 함수 활용예제](https://lovetoken.github.io/r/2019/02/24/dplyr080.html)
   * [USEFUL DPLYR FUNCTIONS](http://lumiamitie.github.io/r/dplyr-useful-fun/)
+  * [dplyr을 SQL로 번역하기](http://ds.sumeun.org/?p=1071)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
 * [ezpickr: Convenient package/function for choosing any rectangular data file using interactive GUI dialog box](https://jooyoungseo.github.io/ezpickr/)
   * pick() 함수를 호출하면 GUI 파일 선택 대화상자가 열리고, 대화상자에서 선택한 파일의 확장자에 따라 적절한 파일 임포팅 패키지::함수를 자동으로 매치
