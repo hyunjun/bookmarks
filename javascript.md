@@ -97,6 +97,7 @@ Javascript
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
 * [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
+* [How to keep your JavaScript code simple and easy to read](https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [c0dility - Refactor yourself](https://codility.com/programmers/)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
@@ -723,6 +724,7 @@ Javascript
   * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
   * [요즘 핫한 백엔드 데이터베이스 Prisma 를 알아보자](https://www.youtube.com/watch?v=boZ73EEniFI)
 * [How To Get Started With GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
+* [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1849,6 +1851,7 @@ Javascript
 * [How to improve performance in your apps with Lighthouse, Webpack, and React Loadable Components](https://medium.freecodecamp.org/taming-performance-in-todays-web-app-with-lighthouse-webpack-and-react-loadable-components-b2d3fa04e0ab)
 * [「일단공부」 앱 개발기(RN, React Native)](https://dev-yakuza.github.io/ko/ildangongbu/development-journal/)
 * [RN(Reacct Native)에서 sqlite 사용하기](https://dev-yakuza.github.io/ko/react-native/react-native-sqlite-storage/)
+* [How to use the Style Transfer API in React Native with Fritz](https://medium.freecodecamp.org/how-to-use-the-style-transfer-api-in-react-native-with-fritz-e90bc609fb17)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -1901,6 +1904,7 @@ Javascript
   * [The Next Porn: How to design a service without having money](https://hackernoon.com/the-next-porn-how-to-design-a-service-without-having-money-599e98a433cf)
   * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
+* [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
 * [Ramda.js 기본적인 부분](https://github.com/haegul/DPM-FP-Study/blob/master/3%EC%A3%BC%EC%B0%A8/laplace.md)
