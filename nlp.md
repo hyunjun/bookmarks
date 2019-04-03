@@ -450,7 +450,6 @@ NLP
   * [Python과 Tensorflow를 활용한 AI Chatbot 개발 및 실무 적용](https://www.slideshare.net/healess/python-tensorflow-ai-chatbot)
   * [Seq2Seq를 활용한 간단한 Q/A 봇을 만들어보자](https://github.com/TensorMSA/tensormsa_jupyter/blob/master/chap13_chatbot_lecture/6.Chatbot(QA-seq2seq)-Word_onehot.ipynb)
 * [Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)](https://github.com/dennybritz/chatbot-retrieval/)
-* [Text Classification using Neural Networks](https://machinelearnings.co/text-classification-using-neural-networks-f5cd7b8765c6)
 * [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning)
 * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
 * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
@@ -530,6 +529,7 @@ NLP
 * [Democratizing NLP content modeling with transfer learning using GPUs - Sanghamitra Deb](https://www.youtube.com/watch?v=9XXRHoKinwI)
 * [Develop a NLP Model in Python & Deploy It with Flask, Step by Step - Flask API, Document Classification, Spam Filter](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
 * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification) CBOW, CNN, DCNN, RNN, LSTM
+* [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 
 # Clustering
 * dbscan
@@ -784,6 +784,7 @@ NLP
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)
 * [soynlp](https://github.com/lovit/soynlp) 단어 추출/ 토크나이저 / 품사판별/ 전처리 기능을 제공
 * [spaCy - a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
+  * [spaCy Cheat Sheet: Advanced NLP in Python](https://www.datacamp.com/community/blog/spacy-cheatsheet)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
   * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
   * [spaCy: Industrial-strength NLP](https://github.com/explosion/spaCy)
@@ -1325,7 +1326,6 @@ NLP
 * [Think your Data Different - Learn how node2vec works, and what kind of information it captures that word2vec doesn’t — includes case study](https://towardsdatascience.com/think-your-data-different-ddc435f70850)
 * [Word2Vec](https://www.youtube.com/watch?v=sY4YyacSsLc)
 * [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
-* [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning/)
 * [Word2vec로 사용할 수 있는 벡터 모델들](http://www.neuromancer.kr/t/word2vec/481)
 * [딥러닝 프레임워크로 임베딩 제대로 학습해보기](http://freesearch.pe.kr/archives/4828)
 * [word embedding 관련 정리](http://nohhj.blogspot.com/2015/08/word-embedding.html)
