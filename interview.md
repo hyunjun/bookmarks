@@ -195,6 +195,7 @@ Interview
     * handling ambiguity; clarifying the problem
     * systematic approach; clarify details
   * [BOOKMYSHOW System Design, FANDANGO System Design | Software architecture for online ticket booking](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
+  * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
@@ -319,6 +320,7 @@ Interview
 * [Hire a Top Performer Every Time with These Interview Questions](http://firstround.com/review/hire-a-top-performer-every-time-with-these-interview-questions/)
 * [Best way to answer "behavioral based" interview questions](https://www.youtube.com/watch?v=PHqcLX3qSYo)
 * [These are the questions you want to ask at that job interview](https://medium.freecodecamp.org/vital-questions-to-ask-an-interviewer-bonus-question-at-the-end-264bc2caff8d)
+* [Behavioral Interview - How to pass the behavior interview (for software engineers)](https://www.youtube.com/watch?v=EVavVNhG5l8)
 
 # Interview Questions - Technical
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
