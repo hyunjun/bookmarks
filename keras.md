@@ -191,6 +191,7 @@ Keras
 
 # CNN
 * [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/)
+* [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5)
 
 # Course, MOOC, Lecture
 * [딥러닝 케라스 강좌 01강 - OT](https://www.youtube.com/watch?v=jolPwNSZscc)
