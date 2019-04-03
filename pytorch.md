@@ -201,6 +201,8 @@ PyTorch
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
+* [PyTorch-BigGraph - Software used for generating embeddings from large-scale graph-structured data. https://torchbiggraph.readthedocs.io ](https://github.com/facebookresearch/PyTorch-BigGraph)
+  * [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs)
 * [pytorch_geometric - Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
 * [PyTorch Geometry package - a geometric computer vision library for PyTorch](https://github.com/arraiy/torchgeometry)
 * [pytorch-kaldi - a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit](https://github.com/mravanelli/pytorch-kaldi)
