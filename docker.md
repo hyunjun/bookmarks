@@ -1,5 +1,6 @@
 Docker
 ======
+* [Awesome-docker](https://awesome-docker.netlify.com/)
 * [Introduction to Docker](https://www.youtube.com/watch?v=Q5POuMHxW-0)
 * [도커 무작정 따라하기](http://www.slideshare.net/pyrasis/docker-fordummies-44424016)
 * [도커(Docker) 튜토리얼 : 깐 김에 배포까지](http://blog.nacyot.com/articles/2014-01-27-easy-deploy-with-docker/)
@@ -180,6 +181,7 @@ Docker
 * [A quick introduction to Docker http://odewahn.github.io/docker-jumpstart](https://github.com/odewahn/docker-jumpstart/)
 * [What is Docker?](https://www.conetix.com.au/blog/what-is-docker)
 * [What Is Docker? | What Is Docker And How It Works? | Docker Tutorial For Beginners | Simplilearn](https://www.youtube.com/watch?v=rOTqprHv1YE)
+* [A beginner’s guide to Docker — how to create your first Docker application](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f)
 * [Show HN: CLI for executing code in many different languages with Docker](https://docker-exec.github.io/)
 * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
 * [Docker building dockers - keeping them small](https://github.com/jamiemccrindle/dockerception)
