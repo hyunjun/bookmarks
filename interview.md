@@ -224,6 +224,9 @@ Interview
 * **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
 * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
 * [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
+* [How to Build your Own Real-time Chat App like WhatsApp?](https://hackernoon.com/how-to-build-your-own-real-time-chat-app-like-whatsapp-9d1d058afd5b)
+* [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
+* [What is WhatsApp's server architecture?](https://www.quora.com/What-is-WhatsApps-server-architecture)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
