@@ -403,6 +403,7 @@ Algorithm
 * [AlgoRythmics](https://www.youtube.com/user/AlgoRythmics/videos)
 * [Why is mergesort O(log n)?](https://softwareengineering.stackexchange.com/questions/297160/why-is-mergesort-olog-n)
 * [Stability in Sorting Algorithms — A Treatment of Equality](https://medium.freecodecamp.org/stability-in-sorting-algorithms-a-treatment-of-equality-fa3140a5a539)
+* [Fastest Sorting Algorithm. Ever!](https://www.youtube.com/watch?v=4Q72kbwyEmk) sort algorithm time complexity 분석
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
