@@ -238,6 +238,12 @@ Scala
 * [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77)
 * [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
 * [Dummmy — Test](https://medium.com/@jayvardhan.reddy.v/dummmy-test-27923b031fb7)
+* From Monolith to Microservice Architecture on Kubernetes
+  * [part 1 — The Api Gateway](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-1-the-api-gateway-eb82f8c2d10c)
+  * [part 2 — Authentication with JWT](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-2-authentication-with-jwt-934ea030923)
+  * [part 3— Deploying our Scala app as a microservice](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-3-deploying-our-scala-app-as-a-d4d799e01ab6)
+  * [part 4— Monitoring, health checks, logging & tracing](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-4-monitoring-health-checks-32c441741ca6)
+  * [part 5— Deployment Automation & Continuous Delivery](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-5-deployment-automation-a7d8529d813)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -361,6 +367,7 @@ Scala
 * [Tracking User Behavior At Scale with Streaming Reactive Big Data Systems](https://medium.com/paypal-engineering/https-medium-com-paypal-engineering-tracking-user-behavior-at-scale-f0c584c4ddd4)
 * [Hacking with akka streams](https://medium.com/@itseranga/akka-streams-hacks-33661b8f7f2d)
 * [Introduction to Akka Streams](https://medium.com/@arcagarwal/introduction-to-akka-streams-5155bd070e37)
+* [Akka Streams: error handling in event processing pipelines](https://medium.com/@bszwej/akka-streams-error-handling-7ff9cc01bc12)
 * [Jan Pustelnik - CONSCIOUS CONSISTENCY WITH AKKA CLUSTER, CRDTS AND DISTRIBUTED DATA](https://www.youtube.com/watch?v=chC1KmxrEO8)
 * [Scalaではじめる末尾再帰](https://medium.com/@junyaishida_69538/scala%E3%81%A7%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%9C%AB%E5%B0%BE%E5%86%8D%E5%B8%B0-985fc0b44dd3) tail recursion 등 recursion 이야기
 * [複数の共有状態を跨いだ整合性の担保について](https://medium.com/@junyaishida_69538/%E8%A4%87%E6%95%B0%E3%81%AE%E5%85%B1%E6%9C%89%E7%8A%B6%E6%85%8B%E3%82%92%E8%B7%A8%E3%81%84%E3%81%A0%E6%95%B4%E5%90%88%E6%80%A7%E3%81%AE%E6%8B%85%E4%BF%9D%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-d28af0c1dead) 공유 상태를 만들 때와 사용할 때를 분리해서 성능을 높이려는 시도
@@ -497,6 +504,7 @@ Scala
     * [hedgehog 바뀐점 (2018-11-02)](https://www.youtube.com/watch?v=oLIkglMbhI8&t=5417s)
     * [라이브 코딩 (2018-11-09)](https://www.youtube.com/watch?v=QGPMP6YI48Q) 51분~
     * [자바 얘기 하다가 라이브 코딩 (2018-11-16)](https://www.youtube.com/watch?v=PukoEtEovDA) 47분~
+    * [Scala meetup — the movie](https://medium.com/tradeshift-engineering/scala-meetup-the-movie-5f9bee41f48f)
   * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
     * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
   * [ScalaTest](http://www.scalatest.org/)
