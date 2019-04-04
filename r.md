@@ -542,6 +542,7 @@ R
   * [Be Awesome in ggplot2: A Practical Guide to be Highly Effective - R software and data visualization](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization)
   * [0. R ggplot2 참고자료 목차](https://doublekpark.blogspot.com/2019/03/dd_2.html)
   * [GGPLOT2: AESTHETIC MAPPING AND SCALES 시각적 맵핑과 스케일](http://ds.sumeun.org/?p=975)
+  * [GGANIMATE 예: 한국의 인구 구조 변화](http://ds.sumeun.org/?p=1089)
   * [esquisse - RStudio add-in to make plots with ggplot2](https://github.com/dreamRs/esquisse)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
