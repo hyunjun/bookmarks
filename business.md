@@ -247,6 +247,7 @@ Business
   * A와 B로 주장이 맞서는 경우
   * 보통 사람들은 자신의 선택이 더 나은 이유를 찾음
   * 상대방의 의견이 더 나은 이유를 찾은 후 합리적이라면 자신의 의견을 바로 수용하는 사람이 신뢰받음
+* [회사에서 언프로페셔널 하다는 피드백을 들었다](https://brunch.co.kr/@svillustrated/53) 명확한 communication
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
