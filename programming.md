@@ -511,6 +511,14 @@ Programming
 * [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 * [From Application Integration to Microservices Architecture: a Pragmatic Approach](https://medium.com/@teivah/from-application-integration-to-microservices-architecture-a-pragmatic-approach-ac210c2c2045)
+* **마이크로서비스 Microservices** 정말 다양한 내용을 잘 정리
+  * [(1) 아키텍처 소개](https://futurecreator.github.io/2018/09/14/what-is-microservices-architecture/)
+  * [(2) API 게이트웨이](https://futurecreator.github.io/2018/09/14/microservices-with-api-gateway/)
+  * [(3) 프로세스 간 통신](https://futurecreator.github.io/2018/10/04/inter-process-communication-in-microservices/)
+  * [(4) 서비스 디스커버리](https://futurecreator.github.io/2018/10/18/service-discovery-in-microservices/)
+  * [(5) 이벤트 주도 데이터 관리](https://futurecreator.github.io/2018/10/19/microservices-and-event-driven-data-management/)
+  * [(6) 배포 전략](https://futurecreator.github.io/2018/10/19/microservices-deployment-strategy/)
+  * [(7) 모놀리스 리팩토링](https://futurecreator.github.io/2018/10/19/microservices-refactoring-for-monolith/)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
