@@ -322,6 +322,7 @@ Javascript
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
 * [JavaScript Inheritance and the Prototype Chain](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)
 * [A Beginner’s Guide to JavaScript’s Prototype](https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34)
+* [All you need to know to understand JavaScript’s Prototype](https://medium.freecodecamp.org/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
@@ -450,6 +451,7 @@ Javascript
 * [How to use Decorators with Factory Functions](https://medium.freecodecamp.org/how-to-use-decorators-with-factory-functions-373fb972b6d4)
 * [An introduction to the JavaScript DOM](https://medium.freecodecamp.org/an-introduction-to-the-javascript-dom-512463dd62ec)
 * [A Toolkit to Harness the Full Power of JavaScript Functions](https://itnext.io/a-toolkit-to-harness-the-full-power-of-javascript-functions-633baaaba337)
+* [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -517,6 +519,7 @@ Javascript
 * [Understanding Change Detection Strategies in Angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
 * [Boost Angular’s Performance by Lazy Loading your Modules](https://blog.bitsrc.io/boost-angulars-performance-by-lazy-loading-your-modules-ca7abd1e2304)
 * [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
+* [How to enable ahead-of-time compilation in an Angular hybrid app](https://medium.freecodecamp.org/angular-hybrid-app-ahead-of-time-compilation-204ced918ec7)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -550,6 +553,7 @@ Javascript
   * [쉽게 이해하는 자바스크립트 Promise](https://joshua1988.github.io/web-development/javascript/promise-for-beginners/)
   * [자바스크립트 promise? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=CA5EDD4Hjz4)
   * [How to Write a JavaScript Promise](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
+  * [Understanding promises in JavaScript](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -956,6 +960,7 @@ Javascript
 * [nestjs.com](https://nestjs.com/)
   * [Nest js를 소개 합니다](https://studystorage.blogspot.com/2019/03/nest-js.html)
   * [nestjs와 loopback, 호기심을 자극하는 2019년의 nodejs 웹프레임워크](https://paperspoon.tistory.com/entry/nestjs%EC%99%80-loopback-%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-2019%EB%85%84%EC%9D%98-nodejs-%EC%9B%B9%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
+  * [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
 * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
