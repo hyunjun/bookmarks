@@ -312,6 +312,7 @@ Git
   * `git diff ... --name-only`
   * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
   * `git diff <branch1>..<branch2> -- <filename>` branch간 특정 file 비교
+  * `gitub.com/<id>/<repo>/compare/<branch1>...<branch2>` browser에서 비교
 * gitignore
   * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
   * [gitignore.io](https://www.gitignore.io/)
@@ -338,6 +339,8 @@ Git
   * `git merge --no-commit --no-ff <name>` [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
   * `git merge <name> -X theirs` [Force Git to always choose the newer version during a merge?](http://stackoverflow.com/questions/13594344/force-git-to-always-choose-the-newer-version-during-a-merge)
     * e.g. branch merge할 때 <name>의 내용으로 덮어쓰고 싶은 경우
+  * `git checkout HEAD -- <filename>` [Hard reset of a single file](https://stackoverflow.com/questions/7147270/hard-reset-of-a-single-file)
+    * e.g. merge 중에 conflict가 발생했는데, binary file이라 vi라 수정은 못하고, 이전 버전을 사용하길 원할 경우
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
   * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict-md) 변경 내역 유실 및 삭제 복구
   * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict0-md) 같은 filename으로 서로 다른 branch에서 작업한 경우(간단)
