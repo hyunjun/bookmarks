@@ -286,6 +286,7 @@ AWS
 * [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs)
 * [file system clustering as glusterfs in kubernetes environment on aws platform](https://github.com/graykode/kubernetes-glusterfs-aws)
 * [AWS 딥 러닝 컨테이너 서비스 출시 – 기계 학습 모델 학습용 최적화 이미지 제공](https://aws.amazon.com/ko/blogs/korea/new-aws-deep-learning-containers/)
+* [AWS ELK로 RDS Slowquery 모니터링](https://hyunki1019.tistory.com/151)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
