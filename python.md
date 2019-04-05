@@ -1808,6 +1808,7 @@ Python
   * **[코랩 시작하기](https://tykimos.github.io/2019/01/22/colab_getting_started/)** file upload, google drive 연동 방법
   * [Google Colab: how to read data from my google drive?](https://stackoverflow.com/questions/48376580/google-colab-how-to-read-data-from-my-google-drive/53094059#53094059)
   * [Usage TPU in Google Colaboratory](https://jybaek.tistory.com/783)
+  * [Object Detection in Google Colab with Fizyr Retinanet](https://medium.freecodecamp.org/object-detection-in-colab-with-fizyr-retinanet-efed36ac4af3)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
