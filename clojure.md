@@ -551,7 +551,7 @@ Clojure
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
-* [Duct - Experimental web app template](https://github.com/weavejester/duct)
+* [Duct - Server-side application framework for Clojure](https://github.com/duct-framework/duct)
 * [Enlive - a selector-based (à la CSS) templating library for Clojure](https://github.com/cgrand/enlive)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
 * [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
