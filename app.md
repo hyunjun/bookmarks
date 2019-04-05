@@ -260,6 +260,7 @@ App
   * [개발자들, 왜 코드 빈 칸 때문에 싸우지?](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723103651)
   * [개발툴에 대한 선배의 조언](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104420)
   * [개발자를 위한 소소한 개발툴 활용팁](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104930)
+* [A better web development workflow: Confluence, Airtable, Jira and Abstract](https://medium.freecodecamp.org/a-better-web-development-workflow-confluence-airtable-jira-abstract-e626ef4ff5bc)
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
