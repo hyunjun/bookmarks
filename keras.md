@@ -32,6 +32,7 @@ Keras
 * [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 * [A Paper A Day: #1 Convolutional Sequence to Sequence Learning](https://medium.com/@sharaf/a-paper-a-day-1-convolutional-sequence-to-sequence-learning-b7dbcb59fc54)
 * [Curiosity Driven Exploration by Self-Supervised Prediction](https://www.youtube.com/watch?v=J3FHOyhUn3A)
+* [How to build your first Neural Network to predict house prices with Keras](https://medium.freecodecamp.org/how-to-build-your-first-neural-network-to-predict-house-prices-with-keras-f8db83049159)
 * [A simple neural network with Python and Keras](http://www.pyimagesearch.com/2016/09/26/a-simple-neural-network-with-python-and-keras/)
 * [Display Deep Learning Model Training History in Keras](http://machinelearningmastery.com/display-deep-learning-model-training-history-in-keras/)
 * [Tutorial: Optimizing Neural Networks using Keras (with Image recognition case study)](https://www.analyticsvidhya.com/blog/2016/10/tutorial-optimizing-neural-networks-using-keras-with-image-recognition-case-study/)
