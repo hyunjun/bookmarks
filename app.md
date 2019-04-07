@@ -363,6 +363,9 @@ App
 * [Firemacs v4.3](http://www.mew.org/~kazu/proj/firemacs/en/)
 * [Firefox Debugger로 console.log를 뛰어 넘기](http://hacks.mozilla.or.kr/2017/12/go-beyond-console-log-with-the-firefox-debugger/)
 
+# Google
+* [구글 드라이브 호스팅](https://blog.naver.com/gsuite-reseller/221507513707)
+
 # Hacking
 * [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
 * aircrack-ng
