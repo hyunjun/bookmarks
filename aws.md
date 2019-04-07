@@ -287,6 +287,7 @@ AWS
 * [file system clustering as glusterfs in kubernetes environment on aws platform](https://github.com/graykode/kubernetes-glusterfs-aws)
 * [AWS 딥 러닝 컨테이너 서비스 출시 – 기계 학습 모델 학습용 최적화 이미지 제공](https://aws.amazon.com/ko/blogs/korea/new-aws-deep-learning-containers/)
 * [AWS ELK로 RDS Slowquery 모니터링](https://hyunki1019.tistory.com/151)
+* [Create a REST API Endpoint Using AWS Lambda](https://hackingandslacking.com/create-a-rest-api-endpoint-using-aws-lambda-765e1f6eebd6)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
