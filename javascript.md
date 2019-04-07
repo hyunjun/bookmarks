@@ -543,6 +543,10 @@ Javascript
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
 * [How I Refactor My Code](https://medium.com/@jochasinga/how-i-refactor-my-code-561aa9132045)
+* [자바스크립트 async / await? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=JzXjB6L99N4)
+* 자바스크립트 예외처리
+  * [3/4 - promise의 catch함수](https://www.youtube.com/watch?v=RRc_iVHdDKk)
+  * [4/4 - async/await의 예외](https://www.youtube.com/watch?v=kngOWhzPHzg)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -556,6 +560,7 @@ Javascript
   * [자바스크립트 promise? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=CA5EDD4Hjz4)
   * [How to Write a JavaScript Promise](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
   * [Understanding promises in JavaScript](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
+  * [All you need to know about Promise.all](https://medium.freecodecamp.org/promise-all-in-javascript-with-example-6c8c5aea3e32)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -1862,6 +1867,7 @@ Javascript
 * [「일단공부」 앱 개발기(RN, React Native)](https://dev-yakuza.github.io/ko/ildangongbu/development-journal/)
 * [RN(Reacct Native)에서 sqlite 사용하기](https://dev-yakuza.github.io/ko/react-native/react-native-sqlite-storage/)
 * [How to use the Style Transfer API in React Native with Fritz](https://medium.freecodecamp.org/how-to-use-the-style-transfer-api-in-react-native-with-fritz-e90bc609fb17)
+* [The easiest way to upgrade React Native to the latest version](https://medium.freecodecamp.org/easiest-way-to-upgrade-react-native-to-the-latest-version-daecd284cb18)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
