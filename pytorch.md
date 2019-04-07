@@ -211,6 +211,7 @@ PyTorch
 * [pytorch-qrnn - Quasi-Recurrent Neural Network (QRNN) for PyTorch](https://github.com/salesforce/pytorch-qrnn)
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
 * [QuickDraw - Implementation of Quickdraw - an online game developed by Google](https://github.com/1991viet/QuickDraw)
+* [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
 * [skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
