@@ -2056,6 +2056,7 @@ CVPR2016)
   * [Google-Dopamine-Kr](https://github.com/yebgi83/Google-Dopamine-Kr)
 * MuJoCo [DeepMind MuJoCo Multi-Agent Soccer Environment](https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer)
 * [TMTrackNN — generating TrackMania tracks with neural networks](https://medium.com/@donadigo/tmtracknn-generating-trackmania-tracks-with-neural-networks-146db058e7cb)
+* [coach - Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms https://nervanasystems.github.io/coach ](https://github.com/NervanaSystems/coach#running-coach-dashboard-visualization)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
