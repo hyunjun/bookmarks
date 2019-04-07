@@ -220,6 +220,7 @@ Vision
 * [Building an image search service from scratch](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
 * [Google FaceTracker 예제 (1)](https://brunch.co.kr/@mystoryg/53)
 * [Short Introduction to Data Augmentation](https://markku.ai/post/data-augmentation/)
+* [HOLOGAN: UNSUPERVISED LEARNING OF 3D REPRESENTATIONS FROM NATURAL IMAGES](https://www.monkeyoverflow.com/#/hologan-unsupervised-learning-of-3d-representations-from-natural-images/)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
