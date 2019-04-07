@@ -340,6 +340,7 @@ Python
 * [Python Practices for Efficient Code: Performance, Memory, and Usability](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
 * [Python의 내부: 소개](https://blog.sn0wle0pard.io/2017/pythons-innards-introduction/)
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
+* [Tail Recursion in Python](http://philosophical.one/posts/tail-recursion-in-python/) 실용적이진 않지만 재미있는 tail recursion 구현 이야기
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
@@ -683,6 +684,7 @@ Python
   * [\[{...}\] * 10 주의점](http://mcchae.egloos.com/11290417)
   * [Python: copying a list the right way](http://henry.precheur.org/python/copy_list)
   * [Python 의 Filter / Map / Reduce 그리고 Comprehension](http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html)
+  * [A quick yet complete tour of lists in Python3 in just seven minutes](https://medium.freecodecamp.org/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0)
 * [logging](https://docs.python.org/3/howto/logging.html)
   * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
@@ -1851,6 +1853,7 @@ Python
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [50 Popular Python open-source projects on GitHub in 2018](https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0)
 * [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
+* [Learning A New Data Science Language](https://towardsdatascience.com/learning-a-new-data-science-language-aa7656be730a) Pandas, Framequery, SciKit-Learn, Pandas-gbq
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
