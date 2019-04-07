@@ -1180,6 +1180,7 @@ NLP
 * [Character Word LSTM Language Models paper review](https://github.com/YBIGTA/DeepNLP-Study/wiki/Character-Word-LSTM-Language-Models-paper-review)
 * [기계번역 시퀀스 투 시퀀스 + 어텐션 모델](https://www.youtube.com/watch?v=WsQLdu2JMgI)
   * [Neural Machine Translation with Attention](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
+* [Neural Machine Translation With Attention Mechanism](https://machinetalk.org/2019/03/29/neural-machine-translation-with-attention-mechanism/)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
