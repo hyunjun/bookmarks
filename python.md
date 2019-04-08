@@ -2272,6 +2272,7 @@ Python
   * [Drawing SVG paths in Python to PyGame](https://www.youtube.com/watch?v=bbY13xi0yhM)
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html ](https://github.com/ssut/py-googletrans)
+* [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * pyinotify
   * [Monitoring a filesystem with Python and Pyinotify](http://www.saltycrane.com/blog/2010/04/monitoring-filesystem-python-and-pyinotify/)
   * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
