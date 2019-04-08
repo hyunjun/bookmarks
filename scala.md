@@ -498,6 +498,7 @@ Scala
   * [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
   * [Property-based Testing](https://medium.com/payulatam-engineering/property-based-testing-7cb149f1bffb)
   * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
+    * [hedgehog.qa](https://hedgehog.qa/)
     * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
     * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
     * [Hedgehog를 이용한 프로퍼티 키반 테스팅 (2018-10-12)](https://www.youtube.com/watch?v=xBE98fFzKGY)
@@ -506,6 +507,7 @@ Scala
     * [라이브 코딩 (2018-11-09)](https://www.youtube.com/watch?v=QGPMP6YI48Q) 51분~
     * [자바 얘기 하다가 라이브 코딩 (2018-11-16)](https://www.youtube.com/watch?v=PukoEtEovDA) 47분~
     * [Scala meetup — the movie](https://medium.com/tradeshift-engineering/scala-meetup-the-movie-5f9bee41f48f)
+    * [YOW! Lambda Jam 2017 Jacob Stanley - Gens N’ Roses: Appetite for Reduction](https://www.youtube.com/watch?v=AIv_9T0xKEo)
   * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
     * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
   * [ScalaTest](http://www.scalatest.org/)
