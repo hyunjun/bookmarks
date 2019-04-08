@@ -454,6 +454,7 @@ Javascript
 * [A Toolkit to Harness the Full Power of JavaScript Functions](https://itnext.io/a-toolkit-to-harness-the-full-power-of-javascript-functions-633baaaba337)
 * [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
 * [Number.toHumanify](https://codepen.io/myso-kr/pen/wZMpXY)
+* [Platform & Plugin 아키텍쳐 기술 검토 - 1](https://mobicon.tistory.com/568)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -2194,3 +2195,4 @@ Javascript
 * [Vue JS Crash Course - 2019](https://www.youtube.com/watch?v=Wy9q22isx3U)
 * [vue js 사용 가이드](https://wikidocs.net/book/1937)
 * [Learn Vue.js - Full Course for Beginners](https://www.youtube.com/watch?v=4deVCNJq3qc)
+* [How to Add Charts and Graphs to a Vue.js Application](https://medium.freecodecamp.org/how-to-add-charts-and-graphs-to-a-vue-js-application-29f943a45d09)
