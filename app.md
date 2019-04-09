@@ -272,6 +272,7 @@ App
 * [monday.com](https://monday.com/) project management
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
+* Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 # Editor
