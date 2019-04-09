@@ -174,6 +174,7 @@ Statistics
 * [통계적으로 유의미한 차이 vs 현실적으로 유의미한 차이](https://gist.github.com/hyunjun/248eb9072f307ab4109f2b872674708b#file-etc-md)
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://www.kdnuggets.com/2018/11/5-basic-statistics-concepts-data-scientists-need-know.html)
 * [멋지게 데이터 분석을 하려고 했는데 이론이 딸린다](https://humbledude.github.io/blog/2019/02/27/basic-data-analysis/)
+* [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
