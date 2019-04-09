@@ -115,6 +115,7 @@ Bitcoin
 
 # Books
 * [혼자서 만드는 가상화폐 자동거래 시스템](https://wikidocs.net/book/1436)
+* [누구나 할 수 있다. 비트코인 자동매매](https://wikidocs.net/book/1665)
 
 # Etherium
 * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)
