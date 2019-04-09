@@ -1217,6 +1217,7 @@ Deep Learning
 * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 * **[Dive into Deep Learning - An interactive deep learning book for students, engineers, and reseachers](http://d2l.ai/)**
   * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
+  * [코드, 수학, 그리고 토론과 함께하는 상호적인 딥러닝 책](http://ko.d2l.ai)
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
   * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)
