@@ -510,6 +510,7 @@ Programming Books
 * (NOT YET) [Go를 활용한 머신 러닝 Go 프로그래밍 언어를 사용해 회귀분석, 분류, 클러스터링, 시계열 모델, 신경망 및 딥러닝 구현하기](http://acornpub.co.kr/book/ml-with-go)
 * (NOT YET) [파이썬으로 실무에 바로 적용하는 머신 러닝](http://acornpub.co.kr/book/understanding-ml)
 * (NOT YET) [머신 러닝 알고리즘 파이썬 예제와 함께 배우는 머신 러닝](http://acornpub.co.kr/book/ml-algorithms)
+* (NOT YET) [머신러닝 TensorFlow.js JavaScript - 자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188034357)
 
 ## Tensorflow
 * 텐서플로 첫걸음
