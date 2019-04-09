@@ -100,6 +100,7 @@ Julia
 * [Julia Programming for Operations Research: A Primer on Computing](http://www.chkwon.net/julia/)
   * [Julia Programming for Operations Research A Primer on Computing Changhyun Kwon](https://www.softcover.io/read/7b8eb7d0/juliabook)
 * [Julia for Data Science, by Zacharias Voulgaris, PhD](https://technicspub.com/analytics/)
+* [bogumilkaminski.pl/files/julia_express.pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
 
 # Library
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
