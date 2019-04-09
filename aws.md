@@ -237,6 +237,7 @@ AWS
   * [2) TravisCI와 S3를 이용하여 정적 데이터 관리하기](http://jojoldu.tistory.com/305)
   * [3) DynamoDB를 이용한 전체 공지](http://jojoldu.tistory.com/308)
 * [AWS에서 서버(EC2) 패킷 미러링 하기](http://woowabros.github.io/security/2018/06/29/aws-network-mirror.html)
+  * [AWS/Openstack Security Group & AWS EC2 Remote Packet Mirror](https://sola99.tistory.com/467)
 * [ec2-gauza 설치 및 사용하기](http://jojoldu.tistory.com/311)
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
 * [원격근무의 필수조건, AWS에 OpenVPN 구축기](https://elegantcoder.com/aws-openvpn-begins)
