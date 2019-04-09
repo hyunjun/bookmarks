@@ -361,6 +361,7 @@ Data Science
 * [Creating a dataset using an API with Python](https://towardsdatascience.com/creating-a-dataset-using-an-api-with-python-dcc1607616d)
 
 # Python
+* [Awesome Data Science with Python](https://github.com/r0f1/datascience)
 * [github.com/PyDataKR/pydata.kr](https://github.com/PyDataKR/pydata.kr)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [Data Science for Losers](http://blog.brakmic.com/data-science-for-losers/)
