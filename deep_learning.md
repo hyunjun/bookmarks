@@ -2077,6 +2077,8 @@ CVPR2016)
 * [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
   * [Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course](https://github.com/dennybritz/reinforcement-learning)
   * [Reinforcement Learning: An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) Python code for Sutton & Barto's book
+* [School of AI : AI for Business](https://www.edwith.org/schoolofai)
+* [School of AI : Deep Learning Live Coding](https://www.edwith.org/introdeep)
 * [Spinning Up in Deep RL](https://blog.openai.com/spinning-up-in-deep-rl)
 * [Stanford Andrew Ng CS229 Lecture 16, 2008](https://www.youtube.com/watch?v=RtxI449ZjSc)
 * [Temporal-Difference Learning](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD_new/)
