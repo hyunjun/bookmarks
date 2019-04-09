@@ -148,6 +148,7 @@ Haskell
 * [Fixpoints in Haskell](https://medium.com/@cdsmithus/fixpoints-in-haskell-294096a9fc10)
 * [What Haskell taught us when we were not looking - Eric Torreborre](https://www.youtube.com/watch?v=9liCkM3bDig)
 * [Domain Modelling with Haskell: Data Structures](https://haskell-at-work.com/episodes/2018-01-19-domain-modelling-with-haskell-data-structures.html)
+* **[agbird.egloos.com/category/하스켈 스프링노트](http://agbird.egloos.com/category/%ED%95%98%EC%8A%A4%EC%BC%88%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%85%B8%ED%8A%B8)**
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
