@@ -7,6 +7,7 @@ AWS
 * [Amazon Web Services Korea](http://www.slideshare.net/awskorea/tag/webinar2015)
 * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01)
 * [AWS 한국 블로그를 시작합니다](https://aws.amazon.com/ko/blogs/korea/welcome-to-aws-korea-blog/)
+* [Category: AWS Community Heroes](https://aws.amazon.com/ko/blogs/korea/category/aws-community-heroes/)
 * [AWS 전문가 되기](https://brunch.co.kr/magazine/devops)
 * [생활코딩 Amazon Web Services](https://opentutorials.org/module/1946)
   * [Amazon Web Services (AWS)](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)
