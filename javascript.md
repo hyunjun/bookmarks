@@ -1792,6 +1792,7 @@ Javascript
 * [How to code the Game of Life with React](https://medium.freecodecamp.org/coding-the-game-of-life-with-react-7de2385b7356)
 * [React Native 일기장](https://wikidocs.net/book/1878)
 * [How to understand a component’s lifecycle methods in ReactJS](https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630)
+* [A beginner’s guide to getting started with React](https://medium.freecodecamp.org/a-beginners-guide-to-getting-started-with-react-c7f34354279e)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
