@@ -523,6 +523,13 @@ Scala
     * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
+  * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
+  * Back2Basics: The Story of Trait
+    * [Part 1](https://blog.knoldus.com/back2basics-the-story-of-trait-part-1/)
+    * [Part 2](https://blog.knoldus.com/back2basics-the-story-of-trait-part-2/)
+    * [Part 3](https://blog.knoldus.com/back2basics-the-story-of-trait-part-3/)
+    * [Part 4](https://blog.knoldus.com/back2basics-the-story-of-trait-part-4/)
+  * [Back2Basics: Limit which classes a Trait can be mixed into!](https://blog.knoldus.com/back2basics-limit-which-classes-a-trait-can-be-mixed-into/)
 * unapply
   * [Scala pattern matching: apply the unapply](https://medium.com/@linas.m/scala-pattern-matching-apply-the-unapply-7237f8c30b41)
     * [unapply.scala](https://gist.github.com/linasm/003eec9eacc641167227193f5879bbd9)
