@@ -26,8 +26,6 @@
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [SOLID 원칙](https://medium.com/@dev_momo/solid-%EC%9B%90%EC%B9%99-10fba70afc58)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
-* **[Composition over inheritance](http://seokjun.kr/composition-over-inheritance/)**
-* [02: ♥♦ Q11 – Q15 Why favor composition over inheritance?](https://www.java-success.com/why-favor-composition-over-inheritance-in-java-oop/)
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
 * [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
 * [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(3/4편)](http://hamait.tistory.com/869)
@@ -67,6 +65,13 @@
 
 # Clojure
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
+
+# Composition
+* [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+* **[Composition over inheritance](https://seokjun.kim/composition-over-inheritance/)**
+* [02: ♥♦ Q11 – Q15 Why favor composition over inheritance?](https://www.java-success.com/why-favor-composition-over-inheritance-in-java-oop/)
+* [Composition과 Aggregation](http://agbird.egloos.com/817752)
+* [상속과 합성, 그리고 다중 상속...2](http://agbird.egloos.com/615166)
 
 # Dependency Injection
 * [Dependency Injection, Inversion of Control & The Dependency Inversion Principle](http://kc.my-junk.info/di-ioc-dip/)
