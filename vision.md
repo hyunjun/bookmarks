@@ -382,6 +382,7 @@ Vision
 * [이미지 프로세싱 & 컴퓨터 시각화 3부](https://kimx3129.github.io/emerald/color-theory)
 * [이미지 프로세싱 & 컴퓨터 시각화 4부](https://kimx3129.github.io/emerald/draw-roi)
 * [이미지 프로세싱 & 컴퓨터 시각화 5부](https://kimx3129.github.io/emerald/blend)
+* [이미지 프로세싱 & 컴퓨터 시각화 6부](https://kimx3129.github.io/emerald/blend2)
 * [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 
 # OpenGL
