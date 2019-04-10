@@ -257,6 +257,8 @@ Functional Programming
 * [Plain Functional Programming by Martin Odersky](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 * [How to Build a Functional API—Julien Truffaut](https://www.youtube.com/watch?v=__zuECMFCRc)
 * [Real-World Functional Scala by Chris Birchall](https://www.youtube.com/watch?v=STPkPUPYDeg)
+* [Scala vs Java In Competitive Programming With Functional Programming](https://medium.com/@shastri.shankar9/scala-vs-java-in-competitive-programming-with-functional-programming-41c98506a935)
+* [Did Functional Programming get it wrong?](https://medium.com/@reinman/monoids-to-groupoids-492c35105113)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
