@@ -28,6 +28,7 @@ Psychology
 * 실패학개론
   * [01 그래, 나 실패했다](https://brunch.co.kr/@rooneykim/40)
   * [02 아, 이제 어떡하지?](https://brunch.co.kr/@rooneykim/42)
+* [실패](https://interpiler.com/2019/04/09/1302/) 펄서 행성 발견에 관련된 이야기
 * [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
 * [일상생활에서 자존감을 높이는 방법들](https://imgur.com/a/xTHuEbJ)
   * [정신과 의사가 알려준 자존감 확실히 높이는 법](https://youtu.be/KWm9asILbnE)
