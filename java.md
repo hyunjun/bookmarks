@@ -185,6 +185,7 @@ Java
 * [Async-IO vs Async-Request Processing in java](https://medium.freecodecamp.org/java-async-io-async-request-processing-in-http-request-1a04f395d8c7)
 * [Armeria - an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
+  * [비동기를 사랑하는 오픈소스 개발자, 이희승](https://engineering.linecorp.com/ko/blog/line-developer-interview-3/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * **[Netty 시작하기](https://github.com/hatemogi/netty-startup)**
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
