@@ -1868,6 +1868,7 @@ CVPR2016)
 * [Deep Variational Bayes Filters (2017)](http://t-robotics.blogspot.kr/2018/05/35-deep-variational-bayes-filters-2017.html) VAE를 time series에 확장, 칼만필터에 딥러닝을 더함
 * [구글 Active QA 코드 공개 #논문소개](https://thepsygrammer.wordpress.com/2018/10/11/%EA%B5%AC%EA%B8%80-active-qa-%EC%BD%94%EB%93%9C-%EA%B3%B5%EA%B0%9C-%EB%85%BC%EB%AC%B8%EC%86%8C%EA%B0%9C/#more-70)
 * **[Papers with code. Sorted by stars. Updated weekly](https://github.com/zziz/pwc)**
+* [hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs](http://hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs/)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
@@ -2060,6 +2061,7 @@ CVPR2016)
 * MuJoCo [DeepMind MuJoCo Multi-Agent Soccer Environment](https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer)
 * [TMTrackNN — generating TrackMania tracks with neural networks](https://medium.com/@donadigo/tmtracknn-generating-trackmania-tracks-with-neural-networks-146db058e7cb)
 * [coach - Reinforcement Learning Coach by Intel AI Lab enables easy experimentation with state of the art Reinforcement Learning algorithms https://nervanasystems.github.io/coach ](https://github.com/NervanaSystems/coach#running-coach-dashboard-visualization)
+* [Reinforcement Learning Applications](https://medium.com/@yuxili/rl-applications-73ef685c07eb)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
