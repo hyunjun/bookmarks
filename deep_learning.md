@@ -1577,6 +1577,7 @@ Deep Learning
 * [A guide to receptive field arithmetic for Convolutional Neural Networks](https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807)
 * [cnn-watermark-removal - Fully convolutional deep neural network to remove transparent overlays from images](https://github.com/marcbelmont/cnn-watermark-removal)
 * [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+* [1.1 Questions to the Convolutional Neural Networks](https://www.youtube.com/watch?v=LHA_rpE1ERY)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -1657,6 +1658,7 @@ Deep Learning
 * [Deep Learning with Python](https://towardsdatascience.com/deep-learning-with-python-703e26853820)
 * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * [Let’s build a simple Neural Net!](https://becominghuman.ai/lets-build-a-simple-neural-net-f4474256647f)
+* [Building a Feedforward Neural Network from Scratch in Python](https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
 * [DeepCreamPy - Decensoring Hentai with Deep Neural Networks](https://github.com/deeppomf/DeepCreamPy)
 * [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
 * [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com ](https://github.com/NervanaSystems/neon)
