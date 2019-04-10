@@ -356,6 +356,7 @@
 * [Which Language to choose when working with Apache Spark](https://medium.com/@write2karanverma/which-language-to-choose-when-working-with-apache-spark-1cddc46e40fd)
 * [Procesando Datos con Spark](https://medium.com/@crscardellino/procesando-datos-con-spark-48539d38e437)
 * [Which Career Should I Choose — Hadoop Admin or Spark Developer?](https://medium.com/@etlhive/which-career-should-i-choose-hadoop-admin-or-spark-developer-391247e7d13e)
+* [Efficient geospatial analysis with Spark](https://medium.com/@karijdempsey/efficient-geospatial-analysis-with-spark-363ba50c5248)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
