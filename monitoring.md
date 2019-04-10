@@ -61,6 +61,7 @@ Monitoring
 
 # Library
 * [Cortex: Prometheus-as-a-Service](https://blog.outsider.ne.kr/1429)
+* [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * [Sentry](https://sentry.io/) Stop hoping your users will report errors
   * [docs.sentry.io/clients/python](https://docs.sentry.io/clients/python/)
   * ~[Sentry 를 이용한 Node.js 에러 모니터링](https://dobest.io/nodejs-error-monitoring-with-sentry/)~
