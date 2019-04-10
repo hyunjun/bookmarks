@@ -866,6 +866,7 @@ Programming
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
 * [번역 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
+* [PubSub in web: comparison and deep-dive into Bayeux/Faye](https://medium.com/front-end-weekly/pubsub-in-web-comparison-and-deep-dive-into-bayeux-faye-e6a0cc3f10d1)
 * **[jack-vanlightly.com/blog?category=Messaging Systems](https://jack-vanlightly.com/blog?category=Messaging+Systems)**
   * RabbitMQ가 중심이며, Kafka, Pulsar도 다룸. 정말 좋은 글이 많음
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
@@ -904,6 +905,7 @@ Programming
   * [Understanding When to Use RabbitMQ or Apache Kafka](https://dzone.com/articles/understanding-when-to-use-rabbitmq-or-apache-kafka)
   * [RabbitMQ client 에서 useNio 사용시 timeout 이 먹히지 않는현상…](http://blog.leekyoungil.com/?p=462)
   * [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b)
+  * [ElasticScaling on the fly NoOps: Hotswapping slow function calls with RabbitMQ](https://medium.com/@reinman/replacing-your-function-calls-with-rabbitmq-on-the-fly-36e08c6d5c2c)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * [ZeroMQ](http://kr.zeromq.org/)
