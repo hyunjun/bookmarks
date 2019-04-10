@@ -801,6 +801,7 @@ Scala
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
 * [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
 * [type lambda](https://meta.plasm.us/posts/2015/07/11/roll-your-own-scala/) function에 대한 lambda말고 type lambda가 존재. type parameter가 들어갈 자리에 lambda 표현식과 유사한 표현을 사용 가능. ({ type L[x] = Either[E, x] })#L 를 사용해야 하는 이유
+* [type lambda (2019-04-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=Y3MD3wNPqy8) type safety가 보장되는 duck typing? 그 외 여러가지 FP관련 이야기들
 * [jvm의 type erasure를 스칼라에서 피할수 있는 팁](https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20)
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
