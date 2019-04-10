@@ -66,3 +66,4 @@ Google Cloud Platform GCP
 * [GCP를 이용해서 머신러닝 프로덕트 만들기](https://docs.google.com/presentation/d/11MxXhGxJKgdbGnuwwm0QlsVc6-kYNjCYnbsrZeGFnFw)
 * [좌충우돌 CLOUD 학습기(이동민)](https://www.slideshare.net/DONGMINLEE15/cloud-137939221)
 * [Google Cloud Platform: Creating an Instance and Configuring DNS](https://hackingandslacking.com/google-cloud-platform-creating-an-instance-and-configuring-dns-7043875fd7d4)
+* [Introducing Anthos: An entirely new platform for managing applications in today's multi-cloud world](https://cloud.google.com/blog/topics/hybrid-cloud/new-platform-for-managing-applications-in-todays-multi-cloud-world)
