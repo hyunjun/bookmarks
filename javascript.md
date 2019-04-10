@@ -457,6 +457,7 @@ Javascript
 * [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
 * [Number.toHumanify](https://codepen.io/myso-kr/pen/wZMpXY)
 * [Platform & Plugin 아키텍쳐 기술 검토 - 1](https://mobicon.tistory.com/568)
+* [Javascript refactoring workshop](https://www.slideshare.net/jaehoonoh/javascript-refactoring-workshop)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -525,6 +526,7 @@ Javascript
 * [Boost Angular’s Performance by Lazy Loading your Modules](https://blog.bitsrc.io/boost-angulars-performance-by-lazy-loading-your-modules-ca7abd1e2304)
 * [Best practices for a clean and performant Angular application](https://medium.freecodecamp.org/best-practices-for-a-clean-and-performant-angular-application-288e7b39eb6f)
 * [How to enable ahead-of-time compilation in an Angular hybrid app](https://medium.freecodecamp.org/angular-hybrid-app-ahead-of-time-compilation-204ced918ec7)
+* [Angular Authentication: Using Route Guards](https://medium.com/@ryanchenkie_40935/angular-authentication-using-route-guards-bf7a4ca13ae3)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
