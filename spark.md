@@ -303,6 +303,7 @@
 * [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/)
 * [Goal Based Data Production: The Spark of a Revolution - Sim Simeonov](https://www.youtube.com/watch?v=VR2lAMVD4_4)
 * [Spark Job On Mesos - Log Handling](http://hoondongkim.blogspot.com/2016/02/spark-job-on-mesos-log-handling.html) programtic하게 log level별로 원하는 장소에 로그 남기기
+* [How to log in Apache Spark](https://hackernoon.com/how-to-log-in-apache-spark-f4204fad78a) log4j
 * [Top 5 Mistakes to Avoid When Writing Apache Spark Applications](https://intellipaat.com/blog/top-5-mistakes-writing-apache-spark-applications/)
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
@@ -357,6 +358,7 @@
 * [Procesando Datos con Spark](https://medium.com/@crscardellino/procesando-datos-con-spark-48539d38e437)
 * [Which Career Should I Choose — Hadoop Admin or Spark Developer?](https://medium.com/@etlhive/which-career-should-i-choose-hadoop-admin-or-spark-developer-391247e7d13e)
 * [Efficient geospatial analysis with Spark](https://medium.com/@karijdempsey/efficient-geospatial-analysis-with-spark-363ba50c5248)
+* [Dealing with null in Spark](https://www.mungingdata.com/apache-spark/dealing-with-null)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -397,6 +399,7 @@
   * [Spark: Elegantly Aggregate DataFrame by One Key Column](https://medium.com/@kieran_77908/spark-elegantly-aggregate-dataframe-by-one-key-column-6dbbcf546e1d)
   * [A practical introduction to Spark’s Column- part 1](https://medium.com/@achilleus/https-medium-com-achilleus-a-practical-introduction-to-sparks-column-3f5fe83125c9)
   * [A practical introduction to Spark’s Column- part 2](https://medium.com/@achilleus/a-practical-introduction-to-sparks-column-part-2-1e52f1d29eb1)
+  * [Different approaches to manually create Spark DataFrames](https://medium.com/@mrpowers/manually-creating-spark-dataframes-b14dae906393)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
@@ -498,6 +501,9 @@
 * [Spark StandAlone 설치부터 예제 테스트까지](http://hellowuniverse.com/2017/03/08/spark-standalone-%EC%84%A4%EC%B9%98%EB%B6%80%ED%84%B0-%EC%98%88%EC%A0%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EA%B9%8C%EC%A7%80/)
 * [Hadoop, Spark 설치](https://github.com/likejazz/likejazz.github.io/wiki/Hadoop,-Spark)
 * [Spark (scala) 개발환경 설정 (window)](https://blog.naver.com/haiteam/221208062178)
+* [How to Install Scala and Apache Spark on MacOS](https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f)
+* [Machine Learning with Jupyter using Scala, Spark and Python: The Setup](https://medium.com/@faizanahemad/machine-learning-with-jupyter-using-scala-spark-and-python-the-setup-62d05b0c7f56)
+* [Apache Spark setup with Gradle, Scala and IntelliJ](https://medium.com/@faizanahemad/apache-spark-setup-with-gradle-scala-and-intellij-2eeb9f30c02a)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 
 # Library
