@@ -325,6 +325,9 @@ ElasticSearch - Lucene
 * [Elastic 모니터링 전용 클러스터](http://kimjmin.net/2018/09/2018-09-dedicated-es-monitoring/)
 * [Elastic Stack Version 6.5: Feature Tour](https://www.youtube.com/watch?v=dnmqoD0XP18)
 
+# Elasticsearch 7.x
+* [Elastic Stack 7.0 출시 밎 지금까지의 변경들](http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/)
+
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
 * [aws 기반의 ELK](https://www.youtube.com/playlist?list=PLDMPhWe3CfpZqZ91BUo5udpdgXB2MWxy7)
