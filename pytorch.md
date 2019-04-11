@@ -65,6 +65,7 @@ PyTorch
 * Graph CNN
   * [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
   * [Pytorch Implementation for Graph Convolutional Neural Networks](https://github.com/meliketoy/graph-cnn.pytorch)
+  * [CapsGNN A PyTorch implementation of "Capsule Graph Neural Network" (ICLR 2019)](https://github.com/benedekrozemberczki/CapsGNN)
 * [pytorch-deep-generative-replay - PyTorch implementation of Continual Learning with Deep Generative Replay, NIPS 2017](https://github.com/kuc2477/pytorch-deep-generative-replay)
 * [Poincaré Embeddings for Learning Hierarchical Representations](https://github.com/facebookresearch/poincare-embeddings)
 * [Decoupled Neural Interfaces for PyTorch](https://github.com/koz4k/dni-pytorch)
