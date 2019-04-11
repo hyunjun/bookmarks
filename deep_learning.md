@@ -519,6 +519,8 @@ Deep Learning
 * [Improving Hardware Efficiency for DNN Applications](https://www.slideshare.net/ChesterChen/improving-hardware-efficiency-for-dnn-applications)
 * [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
 * [Squeezing Deep Learning Into Mobile Phones](https://www.slideshare.net/anirudhkoul/squeezing-deep-learning-into-mobile-phones)
+* [짚으면 찾아주는 사전 - Just Point It와 모바일 머신러닝](https://www.youtube.com/watch?v=Jq5L_5bRBR0)
+  * [Just point it](https://www.slideshare.net/NaverEngineering/just-point-it)
 * [딥러닝 분산처리 기술동향](https://ettrends.etri.re.kr/ettrends/pubreader.do?volume=31&issue=3&page=131&paperno=0905002137)
 * [Understanding deep learning requires rethinking generalization (2017) 1/2](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-12)
 * [Understanding deep learning requires rethinking generalization (2017) 2 2(2)](https://www.slideshare.net/JungHoonSeo2/understanding-deep-learning-requires-rethinking-generalization-2017-2-22)
@@ -1630,6 +1632,7 @@ Deep Learning
   * [Part Two](https://www.topbots.com/exploring-lstm-tutorial-part-2-recurrent-neural-network-deep-learning)
 * [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 * [An Introduction to Recurrent Neural Networks](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912)
+* [RNN에서의 alignment 의미와 seq-to-seq 모델](https://dos-tacos.github.io/concept/alignment-in-rnn/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)

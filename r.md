@@ -280,6 +280,7 @@ R
 * [Sentiment Analysis, Word Embedding, and Topic Modeling on Venom Reviews](https://www.r-bloggers.com/sentiment-analysis-word-embedding-and-topic-modeling-on-venom-reviews/)
 * [디랩 아카데미](https://wedatalab.tistory.com/category/%EB%94%94%EB%9E%A9%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * [Writing clean and readable R code the easy way](https://www.r-bloggers.com/writing-clean-and-readable-r-code-the-easy-way/)
+* [R의 날짜와 시간](http://ds.sumeun.org/?p=1111)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
