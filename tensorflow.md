@@ -777,6 +777,13 @@ TensorFlow
 # Reinforcement Learning RL
 * [TensorFlow and deep reinforcement learning, without a PhD (Google I/O '18)](https://www.youtube.com/watch?v=t1A3NTttvBA)
 * [Simple Reinforcement Learning with Tensorflow: Part 3 - Model-Based RL](https://medium.com/@awjuliani/simple-reinforcement-learning-with-tensorflow-part-3-model-based-rl-9a6fe0cce99)
+* [Implementation of Relational Deep Reinforcement Learning](https://github.com/RLOpensource/Relational_Deep_Reinforcement_Learning)
+  * 매우 중요한 self-attention. attention 개념은 attention is all you need로 시작, 최근 bert 모델까지 사용
+  * NLP 뿐만 아니라 이미지에서 relational network라는 이름으로 관계에 대한 attention을 계산하는데 사용
+  * RL에서는 Relational Deep Reinforcement Learning이라는 논문을 통해 사용 확인하였으나 구현체는 없어서 직접 구현
+  * self-attention의 개념이 적용되어 실제로 필터들이 이미지의 어느 곳을 집중해서 보고있는지 까지 확인 가능
+  * 왼쪽은 실제 attention이 어디에서 잡히는지, 오른쪽은 실제 벽돌깨기 환경
+  * 움직이는 공과 하단의 바가 attention으로 잡히는 것을 확인 가능
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
