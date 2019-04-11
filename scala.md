@@ -549,6 +549,7 @@ Scala
 
 # Conference
 * [This is why you must join Scalar 2019](https://blog.softwaremill.com/this-is-why-you-must-join-scalar-2019-69ad12248e95)
+  * [Scalar 2019 whiteboard voting](https://blog.softwaremill.com/scalar-2019-whiteboard-voting-40b31e4f7f7)
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [scalar-conf.com](http://scalar-conf.com/)
 * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
@@ -729,6 +730,7 @@ Scala
 * [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
 * [Structuring Functional Programs with Tagless Final](https://medium.com/@andreas.hartmann/structuring-functional-programs-with-tagless-final-33af9e1dd0d)
+* [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
 
