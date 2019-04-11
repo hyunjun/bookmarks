@@ -830,6 +830,7 @@ Javascript
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
 * [Easing functions specify the rate of change of a parameter over time](http://easings.net/)
 * [easy-map - Render a map on browser easily](https://github.com/wonism/easy-map)
+* [Editor.js - Next generation block styled editor. Free. Use for pleasure](https://codex.so/editor)
 * [Elasticlunr.js - Lightweight full-text search engine in Javascript for browser search and offline search](http://elasticlunr.com/)
   * [블로그 검색 기능 개발 과정](https://rhostem.github.io/posts/2018-08-23-blog-search/)
 * [Electron - Build cross platform desktop apps with web technologies](http://electron.atom.io/)
@@ -1377,6 +1378,7 @@ Javascript
 * [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
 * [How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
 * [코딩 한 줄 없이 라인 봇으로 거짓말 탐지기 만들기!](https://engineering.linecorp.com/ko/blog/making-a-polygraph-chatbot/)
+* [코딩방송 Season1- EP 11. 통신3: NodeJS 웹서버](https://www.youtube.com/watch?v=rnFW4ESNk8w)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
