@@ -64,6 +64,7 @@ Javascript
   * [#3-9 Getting the Weather part One Geolocation](https://www.youtube.com/watch?v=5fAMu2ORvDA)
   * [#3-10 Getting the Weather part Two API](https://www.youtube.com/watch?v=l6hSze8vgVo)
   * [#3-11(끝) Conclusions](https://www.youtube.com/watch?v=xZeyDkpJ3V8)
+* [초보를 위한 바닐라 JS | Part 2 바닐라 JS로 게임 만들기](https://academy.nomadcoders.co/p/vanilla-js-part-two-kr/)
 * 자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개
   * [#1. Call Stack](https://www.youtube.com/watch?v=QkFkFqg-J04)
   * [#2. Primitive Types](https://www.youtube.com/watch?v=IMyvCJKZSL8)
