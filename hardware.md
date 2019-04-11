@@ -211,7 +211,10 @@
 * [Building an Image Classifier Running on Raspberry Pi](https://www.linkedin.com/pulse/building-image-classifier-running-raspberry-pi-ahmed-gad/)
 * [Building an Image Classifier Running on Raspberry Pi](https://www.kdnuggets.com/2018/10/building-image-classifier-running-raspberry-pi.html)
 * [Edit and Execute code in Raspberry Pi from Visual Studio Code in my computer](https://jusths.tistory.com/96)
-* [미세먼지 토이 프로젝트 - 센서 선정 및 라즈베리파이 연결](https://jusths.tistory.com/103)
+* 미세먼지 토이 프로젝트
+  * [센서 선정 및 라즈베리파이 연결](https://jusths.tistory.com/103)
+  * [센서 원리와 측정단위 변환법](https://jusths.tistory.com/105)
+  * [기본 테스트](https://jusths.tistory.com/109)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
