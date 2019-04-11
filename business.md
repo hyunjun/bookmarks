@@ -250,6 +250,7 @@ Business
   * 상대방의 의견이 더 나은 이유를 찾은 후 합리적이라면 자신의 의견을 바로 수용하는 사람이 신뢰받음
 * [회사에서 언프로페셔널 하다는 피드백을 들었다](https://brunch.co.kr/@svillustrated/53) 명확한 communication
 * [흔한 프로그래머의 작명에 관한 사뭇 진지한 이야기](https://ppss.kr/archives/189212) 서로 의견이 충돌할 때 해결하는 예
+* [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
