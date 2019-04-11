@@ -250,6 +250,7 @@ Data Visualization
     * [Part 3](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-3-69647c19bf2)
     * [Part 4](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-4-9b0119887130)
   * [Visualize Programming Language Popularity using tiobeindexpy](https://towardsdatascience.com/visualize-programming-language-popularity-using-tiobeindexpy-f82c5a96400d)
+  * [#150 Parallel plot with pandas](https://python-graph-gallery.com/150-parallel-plot-with-pandas)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
