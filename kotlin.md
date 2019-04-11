@@ -104,6 +104,7 @@
 * [Fast Prototypes with Flutter + Kotlin/Native](https://tech.olx.com/fast-prototypes-with-flutter-kotlin-native-d7ce5cfeb5f1)
 * [코딩 컨벤션 정리](https://medium.com/@joongwon/kotlin-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC-7681cde920ce)
 * [Kotlin: Write Once, Run (Actually) Everywhere](https://www.youtube.com/watch?v=ei66Fr25Y2M)
+* [Joost Heijkoop & Urs Peter - Kotlin vs Scala](https://www.youtube.com/watch?v=MsMejigb1Zk)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
