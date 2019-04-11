@@ -10,6 +10,7 @@ Hadoop
   * [The "Getting Started with Hadoop" Tutorial](https://www.cloudera.com/developers/get-started-with-hadoop-tutorial/data-governance-and-compliance.html)
 * [피보탈, 아파치재단에 분석엔진·머신러닝 기술 제공](http://www.bloter.net/archives/240300)
 * [mapr hadoop training](https://www.mapr.com/services/mapr-academy/big-data-hadoop-online-training)
+* [Top 10 Free Online Learning Resources For Hadoop](https://www.analyticsindiamag.com/top-10-free-online-learning-resources-for-hadoop/)
 * [Introduction to Big Data and Hadoop for Beginners | Big Data Tutorial Training Video](https://www.youtube.com/watch?v=pg3f1ftPlZU)
 * [learn hadoop spark by examples](https://www.java-success.com/category/tutorial/hadoop-tutorials/learn-hadoop-spark-by-examples/)
 * [Hadoop Tutorial](https://intellipaat.com/tutorial/hadoop-tutorial/)
