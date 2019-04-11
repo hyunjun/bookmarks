@@ -1874,6 +1874,7 @@ Javascript
 * [RN(Reacct Native)에서 sqlite 사용하기](https://dev-yakuza.github.io/ko/react-native/react-native-sqlite-storage/)
 * [How to use the Style Transfer API in React Native with Fritz](https://medium.freecodecamp.org/how-to-use-the-style-transfer-api-in-react-native-with-fritz-e90bc609fb17)
 * [The easiest way to upgrade React Native to the latest version](https://medium.freecodecamp.org/easiest-way-to-upgrade-react-native-to-the-latest-version-daecd284cb18)
+* [How I built my first React Native app for my first freelance client](https://medium.freecodecamp.org/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
