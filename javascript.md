@@ -1062,6 +1062,7 @@ Javascript
     * [Part I](https://codeburst.io/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-e462ef0c806c)
     * [Part II](https://medium.freecodecamp.org/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-part-ii-83f15970d0e3)
   * [Getting started with Redux](https://hackernoon.com/getting-started-with-redux-aa37180dbe93)
+  * [How to Setup Redux - Minimize Boilerplate, Speed Up Development](https://levelup.gitconnected.com/state-management-with-redux-50f3ec10c10a)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
