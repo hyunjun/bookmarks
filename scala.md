@@ -402,6 +402,10 @@ Scala
   * terminology, function composition, higher kinded types, implicits vs reflection
 * [38 lines of code towards better data validation in Scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76) monad transformers, type classes, tagless final
 * [Don't Use Await.result!](https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html)
+* `:kind` or `:k`
+  * `:kind [-v] List` `:kind [-v] String`
+  * [:kind in scala repl](https://gist.github.com/folone/5261743)
+* `:type` or `:t`
 * BitSet
   * [Classic Computer Science Problems in ̶P̶y̶t̶h̶o̶n̶ Scala — Trivial Compression](https://medium.com/@bschlining/classic-computer-science-problems-in-%CC%B6p%CC%B6y%CC%B6t%CC%B6h%CC%B6o%CC%B6n%CC%B6-scala-trivial-compression-68506adf25dd)
 * case class
