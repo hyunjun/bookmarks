@@ -187,6 +187,8 @@ Functional Programming
 * [persist - Specialized persistent collections in javascript -- immutable-js addons https://www.npmjs.com/package/persistence-js](https://github.com/persistence-js/persist)
 * [Lenses - Composable Getters and Setters for Functional Programming](https://medium.com/javascript-scene/lenses-b85976cb0534)
   
+# [Kind](https://en.wikipedia.org/wiki/Kind_%28type_theory%29)
+
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
 * [람다 표현식의 장점](http://qwefgh90.github.io/java/Lambda-Expression/)
