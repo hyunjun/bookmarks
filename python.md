@@ -1524,6 +1524,7 @@ Python
 * [Flask-Assets 사용 방법 (2)](https://urangurang.github.io/python/flask-assets-2/)
 * [Flask-babel을 통한 i18n(Internationalization)](https://urangurang.github.io/Flask-babel/)
 * [flask-babel 로 다국어 대응하기](http://ash84.net/2017/10/27/flask-babel-example/)
+* [Flask-Bcrypt - a Flask extension that provides bcrypt hashing utilities for your application](https://flask-bcrypt.readthedocs.io)
 * [Flask-Cache](https://pythonhosted.org/Flask-Cache/)
 * [Flask-Login](https://flask-login.readthedocs.io)
 * [Flask-MongoEngine - a Flask extension that provides integration with MongoEngine](https://github.com/MongoEngine/flask-mongoengine)
