@@ -16,6 +16,13 @@ R
 * [R vs Python: What’s The Difference? The challenge under ten categories](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [R vs Python: Which is better for Data Science?](https://www.r-bloggers.com/r-vs-python-which-is-better-for-data-science/)
+* Data science with R
+  * **[1. 오해](http://blog.ab180.co/data-science-with-r-1-misperception/)**
+  * [2. 데이터 시각화](http://blog.ab180.co/data-science-with-r-2-data-visualization/)
+  * [3. 최적화](http://blog.ab180.co/data-science-with-r-3-optimization/)
+  * [4. 멀티 터치 기여도 모델](http://blog.ab180.co/data-science-with-r-4-multi-touch-attribution/)
+  * [5. 크로스 디바이스 매칭(Cross Device Matching)](http://blog.ab180.co/data-science-with-r-5-cross-device-matching/)
+  * [6. RTB란?](http://blog.ab180.co/data-science-with-r-6-rtb/)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * **[R을 활용한 머신러닝](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)**
 * [A Guide to Machine Learning in R for Beginners: Logistic Regression](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)
