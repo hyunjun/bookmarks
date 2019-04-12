@@ -159,6 +159,7 @@ Javascript
   * [1. 설치 및 실행 풀스텍 개발자(Full Stack Developer)의 왕도](https://www.youtube.com/watch?v=VfMgrp0m5M0)
   * [2. 왜, 아이오닉인가요?](https://www.youtube.com/watch?v=FjWY3sogNSs)
   * [3. 프로젝트 시작하기 - fsPetlist 앱 소개](https://www.youtube.com/watch?v=Flz1aayZgAI)
+  * [4. 프로젝트 시작하기 - 프로젝트 구조, IDE설치](https://www.youtube.com/watch?v=OjmdxLkah6s)
 * [How to make your app work offline with the power of JavaScript](https://medium.freecodecamp.org/how-to-make-your-app-work-offline-with-the-power-of-javascript-685d968bcfbb)
 * [WRITING AN X86 EMULATOR IN JAVASCRIPT](http://tadeuzagallo.com/blog/writing-an-x86-emulator-in-javascript/)
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
