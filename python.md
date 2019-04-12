@@ -1380,6 +1380,7 @@ Python
 * [Using Django in a Standalone Script](https://www.youtube.com/watch?v=AS01VoC9l5w)
 * [My Favorite Django Packages in 2019](https://vsupalov.com/favorite-django-packages-2019/)
 * [Django Web Development with Python Introduction](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
+* [Django 2.2 LTS 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-2-2-release-note-summary)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
