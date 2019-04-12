@@ -437,6 +437,7 @@ ElasticSearch - Lucene
 * [Komoran](https://github.com/shin285/KOMORAN)
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
+  * [PyKOMORAN - wrapped KOMORAN in Python using Py4J. https://pydocs.komoran.kr ](https://github.com/shineware/PyKOMORAN)
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
 * [movie-finder 오픈소스 검색엔진인 Elasticsearch 를 활용하여 '영화'를 검색을 하는 Vue.js 프로젝트](https://github.com/heejunghwang/movie-finder)
 * NEST
