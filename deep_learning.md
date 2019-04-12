@@ -807,6 +807,7 @@ Deep Learning
 * [머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
 * [C++와 CUDA C로 구현하는 딥러닝 알고리즘 Vol.1 Restricted Boltzman Machine의 이해와 Deep Belief Nets 구현](http://www.acornpub.co.kr/book/dbn-cuda-vol1)
 * [Deep Learning 이론과 실습 (개정중)](https://wikidocs.net/book/498)
+* [한권으로 끝내는 파이썬 & 딥러닝](https://sdc-james.gitbook.io/onebook/)
 * [Deep Learning - A Practitioner's Approach](http://shop.oreilly.com/product/0636920035343.do)
 * [Fundamentals of Deep Learning](http://shop.oreilly.com/product/0636920039709.do)
   * [‘Fundamental of Deep Learning’ Preview](https://tensorflowkorea.wordpress.com/2016/04/18/fundamental-of-deep-learning-preview/#more-2018)
