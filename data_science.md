@@ -106,6 +106,7 @@ Data Science
 * [Using Data Science to Measure a Musical Revolution](http://priceonomics.com/using-data-science-to-measure-a-musical-revolution/)
 * [Data Science Career Alert - June 12](http://www.analyticbridge.com/group/analyticjobs/forum/topics/data-science-career-alert-june-12)
 * [Comparing Python and R for Data Science](http://blog.dominodatalab.com/comparing-python-and-r-for-data-science/)
+* [Data Science for Startups: R -> Python](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c)
 * [Introducing ShArc: Shot Arc Analysis](http://www.inpredictable.com/2015/05/introducing-sharc-shot-arc-analysis.html?imm_mid=0d3385&cmp=em-data-na-na-newsltr_20150610)
 * [Inside Data@Scale 2015](https://code.facebook.com/posts/371721473024046/inside-data-scale-2015/)
   * [Dato](https://dato.com/)
@@ -218,7 +219,6 @@ Data Science
 * [빅데이터 파라독스](http://jaekwangkim.com/articles/2017-02/Big-Data-Paradox) 표본수가 클수록 정확할 거 같지만, 선택편향이 있는 경우 실제 정확도는 400명의 확률표본으로 조사한 것과 마찬가지
 * [How to start a Data Science project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
 * [이야기 12. 당신은 데이터 문맹(Data Illiterate) 인가?](https://smartdigitalearning.com/2017/03/12/%EC%9D%B4%EC%95%BC%EA%B8%B0-12-%EB%8B%B9%EC%8B%A0%EC%9D%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AC%B8%EB%A7%B9data-illiteracy-%EC%9D%B8%EA%B0%80/)
-* **[Data science with R - 1.  오해](http://blog.ab180.co/data-science-with-r-1-misperception/)**
 * [Q&A with leading Data Scientists](https://www.linkedin.com/pulse/qa-leading-data-scientists-roberto-v-zicari)
 * [수많은 데이터 사이언티스트들이 직장을 떠나는 이유는 무엇인가?](https://github.com/youngwoos/etc/blob/master/Here%E2%80%99s%20why%20so%20many%20data%20scientists%20are%20leaving%20their%20jobs.md)
 * [Forrester vs Gartner on Data Science Platforms and Machine Learning Solutions](http://www.kdnuggets.com/2017/04/forrester-gartner-data-science-platforms-machine-learning.html)
