@@ -564,6 +564,7 @@ Deep Learning
   * [Policy Gradient (PG) Algorithms](https://github.com/reinforcement-learning-kr/pg_travel)
 * [PG Travel Guide](https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/)
   * [Policy Gradient (PG) Algorithms](https://github.com/reinforcement-learning-kr/pg_travel)
+* [Policy Gradients in a Nutshell](https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d)
 * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
 * **[번역 2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
@@ -693,6 +694,7 @@ Deep Learning
 * [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
 * [Setting up a GPU Enabled Kubernetes for Deep Learning](https://gist.github.com/stevenc81/1cad3a0ebca9303923d1cd4c3641f8bc)
 * [It is never too much: training deep learning models with more than one modality - Adam Słucki](https://www.youtube.com/watch?v=-UaTdVGfHxQ)
+* [A Beginners Guide to Federated Learning](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1182,6 +1184,7 @@ Deep Learning
 * [A machine learning survival kit for doctors](https://medium.com/owkin/a-machine-learning-survival-kit-for-doctors-97982d69a375)
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
 * [HeLP-Challenge-Goldenpass](https://github.com/Taeu/HeLP-Challenge-Goldenpass)
+* [How to program a neural network to predict breast cancer in only 5 minutes](https://medium.freecodecamp.org/how-to-program-a-neural-network-to-predict-breast-cancer-in-only-5-minutes-23289d62a4c1)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
