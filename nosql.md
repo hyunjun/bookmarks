@@ -35,29 +35,6 @@ NoSQL
 * [The design and implementation of modern column-oriented database systems](https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/)
   * 2012년 “The design and implementation of modern column-oriented database systems” 라는 98페이지 분량의 페이퍼 요약
 
-# Amazon
-
-## AWS
-* [Uploading to S3 in 18 lines of Shell (used to upload builds for http://soltrader.net)](https://gist.github.com/chrismdp/6c6b6c825b07f680e710)
-* [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
-
-## DynamoDB
-* [Deep Dive: Amazon DynamoDB](http://www.slideshare.net/AmazonWebServices/deep-dive-amazon-dynamodb)
-* [bloop - Object Mapper for DynamoDB http://bloop.readthedocs.org](https://github.com/numberoverzero/bloop/)
-* [Dynomite, inspired by Dynamo whitepaper, is a thin, distributed dynamo layer for different storage engines and protocols](https://github.com/Netflix/dynomite)
-  * [Getting Started](https://github.com/Netflix/dynomite/wiki/Getting-Started)
-  * [Introducing Dynomite - Making Non-Distributed Databases, Distributed](http://techblog.netflix.com/2014/11/introducing-dynomite.html?m=1)
-* [Dynamon is GUI client for DynamoDB](https://github.com/deptno/dynamon)
-* Z-Order Indexing for Multifaceted Queries in Amazon DynamoDB
-  * [Part 1](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-1/)
-  * [Part 2](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-2/)
-  * Z-Order Index 구현 대한 좋은 글
-  * Z-Order Indexing은 하나의 인덱스로 여러 속성에 대해 효율적으로 질의하기 위한 인덱스 전략
-* [Real-Time Aggregation with DynamoDB Streams](https://medium.com/signiant-engineering/real-time-aggregation-with-dynamodb-streams-f93547cfb244) DynamoDB Streams과 AWA Lambda를 이용하여 실시간 집계를 구현하는 방법
-* [Do you know DynamoDB Stream](https://medium.com/vingle-tech-blog/do-you-know-dynamodb-stream-14b284bf38d5)
-* [New – Amazon DynamoDB Transactions](https://aws.amazon.com/ko/blogs/aws/new-amazon-dynamodb-transactions)
-* [AWS DynamoDB 사용 경험 정리](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/dynamodb)
-
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
 * [Benchmark: PostgreSQL, MongoDB, Neo4j, OrientDB and ArangoDB](https://www.arangodb.com/2015/10/benchmark-postgresql-mongodb-arangodb/)

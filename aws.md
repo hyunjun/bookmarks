@@ -48,7 +48,6 @@ AWS
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
 * [Veyron에서 Golf까지](http://sebatyler.github.io/2015/11/13/veyron-to-golf.html)
-* [Remember All - Serverless architecture example. AWS STS + DynamoDB + S3. http://remembrall.acuros.pe.kr](https://github.com/acuros/remembrall)
 * [AWS 무료 서버를 구성해 볼까나](http://wonhada.com/?p=1713)
 * [AWS 무료 데이터베이스(DB)를 만들어 볼까나](http://wonhada.com/?p=1798)
 * [Coming Home: Moving Servers from Tokyo to Seoul](https://medium.com/team-mangoplate/coming-home-moving-servers-from-tokyo-to-seoul-8e706501dd4e)
@@ -357,7 +356,6 @@ AWS
 * [AWS Lambda + API Gateway Binary Response 예제](http://seokjoonyun.blogspot.com/2017/04/aws-lambda-api-gateway-binary-response.html)
 * [AWS API Gateway와 Lambda를 이용한 REST API 만들기](https://walkinpcm.blogspot.com/2017/05/aws-aws-api-gateway-lambda-rest-api.html)
 * [AWS Lambda를 활용한 Amazon Alexa Skills 개발 방법 (윤석찬) - Startup DeepDive Conference](https://www.slideshare.net/awskorea/wis2017-alexa-aws-lambda-ask-channy)
-* [AWS Lambda에서 DynamoDB에 데이터 삽입, 조회, 수정, 삭제 하기](https://walkinpcm.blogspot.com/2017/05/aws-aws-lambda-dynamodb.html)
 * [AWS Lambda: 가볍게 시작하기](https://hyunseob.github.io/2017/05/27/aws-lambda-easy-start/)
 * [From Microservices to Service Blocks using Spring Cloud Function and AWS Lambda](http://www.kennybastani.com/2017/07/microservices-to-service-blocks-spring-cloud-function-aws-lambda.html)
 * [AWS Lambda에 Express 위에서 작동하는 React Application 업로드(배포) 하는 방법](https://walkinpcm.blogspot.com/2017/08/awsaws-lambda-express-react-application.html)
@@ -413,6 +411,28 @@ AWS
 * [AWS Lambda Layer를 사용하는 방법 (How to use AWS Lambda Layers)](https://medium.com/@rabter/aws-lambda-layer%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-how-to-use-aws-lambda-layers-c206ba40d4cc)
 * [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture)
 * [A Smart Service to Keep AWS Lambda Warm](https://dev.to/byrro/a-smart-service-to-keep-aws-lambda-warm-48pc)
+* [Uploading to S3 in 18 lines of Shell (used to upload builds for http://soltrader.net)](https://gist.github.com/chrismdp/6c6b6c825b07f680e710)
+* [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
+
+# DynamoDB
+* [AWS Lambda에서 DynamoDB에 데이터 삽입, 조회, 수정, 삭제 하기](https://walkinpcm.blogspot.com/2017/05/aws-aws-lambda-dynamodb.html)
+* [Deep Dive: Amazon DynamoDB](http://www.slideshare.net/AmazonWebServices/deep-dive-amazon-dynamodb)
+* [bloop - Object Mapper for DynamoDB http://bloop.readthedocs.org](https://github.com/numberoverzero/bloop/)
+* [Dynomite, inspired by Dynamo whitepaper, is a thin, distributed dynamo layer for different storage engines and protocols](https://github.com/Netflix/dynomite)
+  * [Getting Started](https://github.com/Netflix/dynomite/wiki/Getting-Started)
+  * [Introducing Dynomite - Making Non-Distributed Databases, Distributed](http://techblog.netflix.com/2014/11/introducing-dynomite.html?m=1)
+* [Dynamon is GUI client for DynamoDB](https://github.com/deptno/dynamon)
+* Z-Order Indexing for Multifaceted Queries in Amazon DynamoDB
+  * [Part 1](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-1/)
+  * [Part 2](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-2/)
+  * Z-Order Index 구현 대한 좋은 글
+  * Z-Order Indexing은 하나의 인덱스로 여러 속성에 대해 효율적으로 질의하기 위한 인덱스 전략
+* [Real-Time Aggregation with DynamoDB Streams](https://medium.com/signiant-engineering/real-time-aggregation-with-dynamodb-streams-f93547cfb244) DynamoDB Streams과 AWA Lambda를 이용하여 실시간 집계를 구현하는 방법
+* [Do you know DynamoDB Stream](https://medium.com/vingle-tech-blog/do-you-know-dynamodb-stream-14b284bf38d5)
+* [New – Amazon DynamoDB Transactions](https://aws.amazon.com/ko/blogs/aws/new-amazon-dynamodb-transactions)
+* [AWS DynamoDB 사용 경험 정리](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/dynamodb)
+* [Remember All - Serverless architecture example. AWS STS + DynamoDB + S3. http://remembrall.acuros.pe.kr ](https://github.com/acuros/remembrall)
+* [조정 용량을 통해 DynamoDB에서 균일하지 않은 데이터 액세스 패턴을 수용하는 방법](https://aws.amazon.com/ko/blogs/korea/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
 
 # Library
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
