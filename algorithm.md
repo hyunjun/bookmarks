@@ -300,6 +300,7 @@ Algorithm
 * [따라해보기 <C++, Win32 API> - FPS 추적, A Star 알고리즘](http://m.blog.naver.com/for_goodgame/220777803189)
 * [A\*보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
 * [A\*보다 빠른 JPS보다 빠른 JPS+](https://blog.naver.com/robo813/221341534052)
+* [Prim's algorithm in 2 minutes — Review and example](https://www.youtube.com/watch?v=cplfcGZmX7I)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
