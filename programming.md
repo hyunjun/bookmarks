@@ -383,6 +383,7 @@ Programming
   * [토비의 봄 TV 스페셜 - 강대명 - 캐시의 모든 것](https://www.youtube.com/watch?v=zkbvFOwJFgA)
   * [Design Of A Modern Cache—Part Deux](http://highscalability.com/blog/2019/2/25/design-of-a-modern-cachepart-deux.html)
   * [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde030
+  * **[캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)** cache 내부 동작에 대한 상세한 설명을 하는 좋은 글
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
@@ -740,9 +741,10 @@ Programming
 * [EMOCON 2016 F/W](https://live.weirdx.io/)
   * [EMOCON 2016 F/W 아카이브](https://github.com/weirdmeetup/emocon/tree/gh-pages/2016fw/slides)
 * [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
-* Google I/O
+* Google
   * [Codelabs - Google I/O 2017](https://codelabs.developers.google.com/io2017)
   * [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
+  * [All 29 AI announcements from Google Next ‘19: the smartest laundry list](https://cloud.google.com/blog/products/ai-machine-learning/all-ai-announcements-from-google-next19-the-smartest-laundry-list)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
@@ -1092,6 +1094,7 @@ Programming
   * [3월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/03/b-3-2.html)
   * [3월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/03/b-3-3.html)
   * [4월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/04/b-4-1.html)
+  * [4월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/04/b-4-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
