@@ -897,6 +897,8 @@ Python
     * [part 1 - sending and receiving data](https://www.youtube.com/watch?v=Lbfe3-v7yE0)
     * [part 2 - buffering and streaming data](https://www.youtube.com/watch?v=8A4dqoGL62E)
     * [part 3 - sending and receiving Python Objects w/ Pickle](https://www.youtube.com/watch?v=WM1z8soch0Q)
+    * [Socket Chatroom server - Creating chat application with sockets in Python](https://www.youtube.com/watch?v=CV7_stUWvBQ)
+    * [Socket Chatroom client - Creating chat application with sockets in Python](https://www.youtube.com/watch?v=ytu2yV3Gn1I)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
@@ -1595,6 +1597,7 @@ Python
   * [Learn to Program 20 : TkInter Tutorial](https://www.youtube.com/watch?v=-tbWoZSi3LU)
   * [Learn to Program 21 : TkInter Tutorial 2](https://www.youtube.com/watch?v=Mim5tTSf05E)
   * [Craft your own GUIs with Python and Tkinter](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)
+  * [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)
 
 # IPython & [Jupyter](http://jupyter.org/try)
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)
@@ -1783,6 +1786,7 @@ Python
 * [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts)
 * [PyData Ann Arbor: Madicken Munk | Widgyts: yt Jupyter Widgets for Volumetric Data Exploration](https://www.youtube.com/watch?v=vFOpWEiafE4)
 * **[Python 으로 지도 위에 정사각 격자를 그리려면?](https://chang12.github.io/python-map-grid/)**
+* [Jupyter Notebook Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -2653,6 +2657,7 @@ Python
   * [Einsum에 대해 간략한 정리](https://ita9naiwa.github.io/numeric%20calculation/2018/11/10/Einsum.html)
 * Mars [Alibaba Open-Sources Mars to Complement NumPy](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 * [PyData Tel Aviv Meetup: Creating Meaningful Features from Clickstream Data - Shir Meir Lador](https://www.youtube.com/watch?v=YGk09nK_xnM)
+* [numpy tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
@@ -2727,6 +2732,8 @@ Python
 * [Pandas 기초 - cheat sheet 따라하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR)
 * [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)
 * Modin [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
+* [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg)
+* [Pandas Tutorial (Data Analysis In Python)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
