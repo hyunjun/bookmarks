@@ -745,6 +745,7 @@ Programming
   * [Codelabs - Google I/O 2017](https://codelabs.developers.google.com/io2017)
   * [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
   * [All 29 AI announcements from Google Next ‘19: the smartest laundry list](https://cloud.google.com/blog/products/ai-machine-learning/all-ai-announcements-from-google-next19-the-smartest-laundry-list)
+  * [Google Cloud Next 19 정리 및 후기](https://zzsza.github.io/gcp/2019/04/13/google-next19-review)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
