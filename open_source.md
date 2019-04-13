@@ -50,6 +50,7 @@ Open Source
 * [개발자라면 오픈소스 프로젝트를 참여해야하는 이유와 방법 (Why and How to Contribute to Open Source)](https://www.youtube.com/watch?v=GejCvgcBLwA)
 * [한국 오픈소스 프로젝트 랭킹 Top 100 한국의 대표 오픈소스 프로젝트, 그리고 이를 만드는 사람과 회사](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf)
 * [DMLC 맴버로 초청받다](http://freesearch.pe.kr/archives/4941)
+* [리니지M은 어떤 오픈소스를 사용했을까?](https://blog.naver.com/pjt3591oo/221035837016)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -127,6 +128,7 @@ Open Source
   * [구글 주스(Google Guice) 소개](http://www.popit.kr/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80-%EC%A3%BC%EC%8A%A4google-guice-%EC%86%8C%EA%B0%9C/)
 * [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 * [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
+* [매일 원하는 시간에 앱 실행하기](https://blog.naver.com/gsuite-reseller/221512786356)
 * [PAIR (People + AI Research initiative)](https://www.facebook.com/nextobe1/posts/344322002670468)
 * [clasp: 구글 앱스 스크립트 로컬에서 개발하기](https://ohgyun.com/784)
 
