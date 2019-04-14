@@ -620,6 +620,7 @@
   * [Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
   * [Part 2](https://towardsdatascience.com/deep-learning-with-apache-spark-part-2-2a2938a36d35)
 * [Converting Spark ML Vector to Numpy Array](http://blog.madhukaraphatak.com/spark-vector-to-numpy/)
+* [PyData Tel Aviv Meetup: Learning Large Scale Models for Content Recommendation - Sonya Liberman](https://www.youtube.com/watch?v=6MpXPL4wJ4k)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
