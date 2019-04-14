@@ -422,6 +422,7 @@ Java
   * [#3 - JSON 로그에 필드 추가하기](https://bcho.tistory.com/1314)
   * [#4 - Correlation id & MDC](https://bcho.tistory.com/1316)
   * [#5 - Spring boot에서 JSON 포맷 로깅과 MDC 사용하기](https://bcho.tistory.com/1317)
+  * [#6-Spring Boot에서 Zipkin을 이용한 분산 시스템 로깅](https://bcho.tistory.com/1319)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
