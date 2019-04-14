@@ -566,6 +566,7 @@ Deep Learning
 * [PG Travel Guide](https://reinforcement-learning-kr.github.io/2018/06/29/0_pg-travel-guide/)
   * [Policy Gradient (PG) Algorithms](https://github.com/reinforcement-learning-kr/pg_travel)
 * [Policy Gradients in a Nutshell](https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d)
+* [강화학습 DDPG 리뷰 Deep Deterministic Policy Gradient](https://www.slideshare.net/ssuser41d7e01/ddpg-deep-deterministic-policy-gradient-139832691)
 * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
 * **[번역 2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
