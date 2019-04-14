@@ -1832,7 +1832,8 @@ Python
 
 # Java
 * [Java class를 Python에서 사용하기](http://www.giljae.com/2016/12/java-class-python.html) 결국 subprocess 이야기
-* [JPype1 - A Python to Java bridge](https://pypi.python.org/pypi/JPype1)
+* [JPype - an effort to allow python programs full access to java class libraries. http://www.jpype.org ](https://github.com/jpype-project/jpype)
+  * [JPype1 - A Python to Java bridge](https://pypi.python.org/pypi/JPype1)
 * Jython
   * [Jython 2.7.0 final released](http://fwierzbicki.blogspot.kr/2015/05/jython-270-final-released.html)
   * [자이썬(Jython) 완벽 안내서](http://jythonbook-ko.readthedocs.org/)
