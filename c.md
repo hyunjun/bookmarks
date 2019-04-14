@@ -123,6 +123,7 @@ C
 * [seoulworkshop.org/tag/Embedded_C](http://www.seoulworkshop.org/tag/Embedded_C)
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494)
 * [C언어 빌드 과정 (build process)](https://brunch.co.kr/@mystoryg/57)
+* [타입 추론 사용하기](https://blog.naver.com/sssang97/221510686104)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
