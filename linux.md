@@ -487,6 +487,7 @@ Linux
 
 # Manjaro
 * [만자로 리눅스(Manjaro Linux)에서 한글 입력기(iBus) 설치하는 법](https://kkamagui.tistory.com/908)
+* [만자로(Manjaro) 리눅스에서 NVIDIA 드라이버 설치하기](https://kkamagui.tistory.com/909)
 
 # Memory
 * Buffer and Cache
