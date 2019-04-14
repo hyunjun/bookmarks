@@ -780,4 +780,5 @@ App
   * [Technical Report: Nix on Windows](http://ternaris.com/lab/nix-on-windows.html)
   * [Windows 10으로 시작하는 Java 개발](https://medium.com/@rkttu/start-java-dev-with-win-10-402cb91126fd)
   * [How to set up Docker and Windows Subsystem for Linux: A Love Story](https://medium.freecodecamp.org/how-to-set-up-docker-and-windows-subsystem-for-linux-a-love-story-35c856968991)
+  * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
