@@ -434,6 +434,7 @@ SQL
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
 * [Psycopg2 Tutorial](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)
+  * [Error: pg_config executable not found](https://ohgyun.com/787)
 * [Slinky - The easiest way to query your PostgreSQL data](https://www.slinkydb.com/)
 * [sql_firewall - SQL Firewall Extension for PostgreSQL](https://github.com/uptimejp/sql_firewall)
 * [stolon - PostgreSQL cloud native HA replication manager](https://github.com/sorintlab/stolon)
