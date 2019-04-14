@@ -84,6 +84,7 @@ Travel
 * [유럽에서 독특한 체험을 원하는 당신이 가야할 이색 테마파크 5](http://www.huffingtonpost.kr/2015/10/22/story_n_8364056.html)
 * [당장 떠나고 싶어지는 동유럽 소도시 BEST 6](http://1boon.kakao.com/wishbeen/20160701)
 * [지금도 그곳은 여름](https://brunch.co.kr/@turista/41)
+* [20 ways to tear Europe apart](http://blog.unitee.eu/archives/ordinary/20-ways-to-tear-europe-apart)
 
 ## Bulgaria
 * [드론을 띄워서 찍은 물에 잠긴 교회의 외로운 모습](http://www.huffingtonpost.kr/2015/06/01/story_n_7489732.html)
