@@ -119,6 +119,7 @@ Business
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
+* [기획이 소설은 아니니까 경영을 과학으로 어떻게 만들 것인가](https://brunch.co.kr/@lunarshore/336)
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
 * [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
@@ -437,6 +438,8 @@ Business
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
 * [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
+* [5년만에 7배 성장한 글로벌 테크IPO](https://estimastory.com/2019/04/13/techipo/) 2018 Top tech IPO 10개; 중국 5, 미국 3, 스웨덴(Spotify), 네덜란드(Adyen)
+* [우버 S-1 구경하기](https://estimastory.com/2019/04/13/ubers1/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
