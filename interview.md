@@ -232,6 +232,8 @@ Interview
 * [How to Build your Own Real-time Chat App like WhatsApp?](https://hackernoon.com/how-to-build-your-own-real-time-chat-app-like-whatsapp-9d1d058afd5b)
 * [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
 * [What is WhatsApp's server architecture?](https://www.quora.com/What-is-WhatsApps-server-architecture)
+* [동영상 플랫폼 개선기 1 - 신규 동영상 플랫폼 구성](https://d2.naver.com/helloworld/3963776)
+* [동영상 플랫폼 개선기 2 - 신규 동영상 플랫폼 구축](https://d2.naver.com/helloworld/7225347)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
