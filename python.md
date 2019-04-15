@@ -2109,6 +2109,7 @@ Python
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [img2txt - Image to Ascii Text, can output to html or ansi terminal](https://github.com/hit9/img2txt)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
+* [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
