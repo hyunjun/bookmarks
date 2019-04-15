@@ -221,6 +221,9 @@ Vision
 * [Google FaceTracker 예제 (1)](https://brunch.co.kr/@mystoryg/53)
 * [Short Introduction to Data Augmentation](https://markku.ai/post/data-augmentation/)
 * [HOLOGAN: UNSUPERVISED LEARNING OF 3D REPRESENTATIONS FROM NATURAL IMAGES](https://www.monkeyoverflow.com/#/hologan-unsupervised-learning-of-3d-representations-from-natural-images/)
+* [구글 인공지능 가속 모듈 코랄(Coral) 구입 후기](https://pmice.tistory.com/334)
+* [구글 코랄(Coral) 환경설정 및 예제 분류 모델 실행해보기](https://pmice.tistory.com/335)
+* [구글 코랄 Edge TPU 가속 모듈 실시간 영상 디텍팅 분류 모델 실행해보기](https://pmice.tistory.com/337)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
