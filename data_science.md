@@ -470,6 +470,7 @@ Data Science
 * [눈으로 듣는 음악 추천 시스템](https://brunch.co.kr/@kakao-it/282) CF, CBF
 * [ML: Matchbox Recommender 추천 모델 적용 실패 사례](http://ohgyun.com/775)
 * [넷플릭스는 어떻게 작동하는가](https://nter.naver.com/naverletter/110357)
+  * [Artwork Personalization at Netflix](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
