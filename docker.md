@@ -353,6 +353,7 @@ Docker
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
   * `--no-cache` clean build
+  * `--shm-size` [RuntimeError: DataLoader worker (pid 13881) is killed by signal: Bus error](https://jybaek.tistory.com/785)
   * [Docker v17.06.0-ce에 도입된 multi-stage 빌드 사용하기](https://blog.outsider.ne.kr/1300)
   * [.dockerignore](https://docs.docker.com/engine/reference/builder/)
     * 무조건 설정하자. 그렇지 않으면 해당 directory의 모든 파일을 일단 다 검색하고, 추가하려고 시도한 다음 필요없으면 버리기 때문에
@@ -406,6 +407,7 @@ Docker
       * ... -p 12345:12345 ...(O) (e.g. On Dockerfile `EXPOST 12345` even for apache server)
   * `--oom-kill-disable=true`
     * **[Docker and OOM(Out Of Memory) Killer](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)**
+  * `-p hostPort:containerPort` [Expose vs publish: Docker port commands explained simply](https://medium.freecodecamp.org/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3)
   * `-v /etc/localtime:/etc/localtime:ro` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
   * [practice](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-run-md)
   * [practice of `--env-file=... --rm -v <local dir>:<container dir> -p <host port>:<container port>`](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
