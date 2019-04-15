@@ -373,6 +373,7 @@ Python
 * [How to write a simple toy database in Python within minutes](https://medium.freecodecamp.org/how-to-write-a-simple-toy-database-in-python-within-minutes-51ff49f47f1)
 * [Python APIs - APIs are an easy and standardized way to access information across different companies](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-api) Google, Yelp, Youtube
 * [연산자(operators)의 유용성](https://www.martinii.fun/blog/why-operators-are-useful/)
+* [파이썬과 양자 컴퓨팅 — 제 1장은 사건과 함께 시작한다](https://medium.com/@kenixer/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%A0%9C-1%EC%9E%A5%EC%9D%80-%EC%82%AC%EA%B1%B4%EA%B3%BC-%ED%95%A8%EA%BB%98-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4-9f3dac3f4104)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
