@@ -526,6 +526,7 @@ Java
   * [자바모델 클래스에 날개를달자 롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
   * [Lombok 사용상 주의점(Pitfall)](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
   * [Lombok makes Java cool again](https://bytes.grubhub.com/lombok-makes-java-cool-again-171102bdcc52)
+  * [스프링 팁, "생성자 안 만들고 생성자 주입을 쓸 수 있다?!" (feat 롬복)](https://www.youtube.com/watch?v=qmI7uJapocw)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
