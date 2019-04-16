@@ -471,6 +471,8 @@ Data Science
 * [ML: Matchbox Recommender 추천 모델 적용 실패 사례](http://ohgyun.com/775)
 * [넷플릭스는 어떻게 작동하는가](https://nter.naver.com/naverletter/110357)
   * [Artwork Personalization at Netflix](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
+* [How Cambridge Analytica’s Facebook targeting model really worked – according to the person who built it](https://theconversation.com/how-cambridge-analyticas-facebook-targeting-model-really-worked-according-to-the-person-who-built-it-94078)
+  * [페이스북의 ‘좋아요’는 어떻게 프로파일링에 사용되었는가](http://newspeppermint.com/2018/04/03/fblikeprofiling/)
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
