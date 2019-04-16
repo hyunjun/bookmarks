@@ -745,13 +745,15 @@ Java
 
 # TDD Test
 * [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
-* [JUnit 만들어보기](http://jojoldu.tistory.com/231)
-* [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
-* [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
-* [AppEngine unit testing made easy with JUnit Rules](https://medium.freecodecamp.org/appengine-unit-testing-made-easy-with-junit-rules-97c2127a161a)
-* [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 * [클린 코드를 위한 TDD (Test-Driven Development for Clean Code)](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
 * [Implementing a comparable numeric data type in Java the TDD way](https://medium.com/@alonso.delarte/implementing-a-comparable-numeric-data-type-in-java-the-tdd-way-36db536b0d0d)
+* [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
+* JUnit
+  * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
+  * [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
+  * [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
+  * [AppEngine unit testing made easy with JUnit Rules](https://medium.freecodecamp.org/appengine-unit-testing-made-easy-with-junit-rules-97c2127a161a)
+* [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)
