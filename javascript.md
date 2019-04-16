@@ -146,6 +146,7 @@ Javascript
 * [Liquid Guilloché](http://max.io/articles/liquid-guilloche/)
 * [Circuit Simulator](http://lushprojects.com/circuitjs/)
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+* [40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [Longevity (or Lack Thereof) in JavaScript Frameworks](http://blog.bitovi.com/longevity-or-lack-thereof-in-javascript-frameworks/)
 * [디버깅 피들러 사용법 #피들러사용법 #how to check sent data in ajax #how to know response result in ajax](http://blog.naver.com/chowin21/220450611283)
@@ -1886,6 +1887,7 @@ Javascript
 * [The easiest way to upgrade React Native to the latest version](https://medium.freecodecamp.org/easiest-way-to-upgrade-react-native-to-the-latest-version-daecd284cb18)
 * [How I built my first React Native app for my first freelance client](https://medium.freecodecamp.org/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)
 * [RN(Reacct Native)에서 커스텀 폰트 사용하기](https://dev-yakuza.github.io/ko/react-native/react-native-custom-font/)
+* [How to create a background video in React Native](https://medium.freecodecamp.org/how-to-create-a-background-video-in-react-native-cb53304ee4f6)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -1901,6 +1903,7 @@ Javascript
 * [Deco IDE - The best IDE for building React Native apps is now free and open source](https://www.decosoftware.com/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
 * [Draft.js — rich text editor framework for React from Facebook](https://medium.com/@mshabrikov/draft-js-rich-text-editor-framework-for-react-from-facebook-f236d02576f0)
+  * [How to paste images directly into an article in Draft.js](https://medium.freecodecamp.org/how-to-paste-images-directly-into-an-article-in-draft-js-e23ed3e0c834)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
