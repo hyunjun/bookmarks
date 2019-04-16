@@ -114,8 +114,6 @@
     * [Spark Summit East 2016 둘째 날 덤프](https://www.facebook.com/notes/jong-wook-kim/spark-summit-east-2016-%EB%91%98%EC%A7%B8-%EB%82%A0-%EB%8D%A4%ED%94%84/1006965639351008)
   * [spark-summit.org/2016/schedule](https://spark-summit.org/2016/)
     * [A Deep Dive into Structured Streaming](http://www.slideshare.net/databricks/a-deep-dive-into-structured-streaming)
-    * [Apache Spark 2.0 Preview: Machine Learning Model Persistence by Databricks](https://databricks.com/blog/2016/05/31/apache-spark-2-0-preview-machine-learning-model-persistence.html)
-    * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
     * [How-to: Analyze Fantasy Sports using Apache Spark and SQL](http://blog.cloudera.com/blog/2016/06/how-to-analyze-fantasy-sports-using-apache-spark-and-sql/)
   * [Spark Summit 2016 West Training](https://www.youtube.com/playlist?list=PLK3eYwzuIEnUwvKo8ssbWMGippbMLyAxR)
     * [2016-06-06 Spark Summit West](https://drive.google.com/folderview?id=0B09cDg18tuRhMFg3cmtseC1KQ0U&usp=drive_web)
@@ -230,7 +228,6 @@
 * [spark를 이용한 hadoop cluster 원격 입출력](http://blog.naver.com/hancury/220744753944)
 * [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
-* [Building a Big Data Machine Learning Spark Application for Flight Delay Prediction](https://medium.com/@pedrodc/building-a-big-data-machine-learning-spark-application-for-flight-delay-prediction-4f9507cdb010)
 * [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
 * [Deep Dive: Apache Spark Memory Management](http://go.databricks.com/deep-dive-apache-spark-memory-management)
 * [A Developer’s View into Spark's Memory Model - Wenchen Fan](https://www.youtube.com/watch?v=-Aq1LMpzaKw)
@@ -462,7 +459,6 @@
 # Conference
 * [Spark Day 2017@Seoul(Spark Bootcamp)](https://www.slideshare.net/SangbaeLim/spark-bootcamp2017inseoul-finalpt20170626distv1)
 * [Spark Day 2017- Spark 의 과거, 현재, 미래](https://www.slideshare.net/MoonSooLee2/spark-day-2017-spark)
-* [Spark Day 2017 Machine Learning & Deep Learnig With Spark](https://www.slideshare.net/sanghoonlee982/machine-learning-deep-learnig-with-spark)
 * [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.slideshare.net/JunKim22/spark-zeppelin-77273056)
   * [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.facebook.com/groups/sparkkoreauser/permalink/1465550026840229/)
 * [Zeppelin 노트북: NSMC Word2Vec & Sentiment Classification](https://github.com/uosdmlab/nsmc-zeppelin-notebook)
@@ -502,7 +498,6 @@
 * [Hadoop, Spark 설치](https://github.com/likejazz/likejazz.github.io/wiki/Hadoop,-Spark)
 * [Spark (scala) 개발환경 설정 (window)](https://blog.naver.com/haiteam/221208062178)
 * [How to Install Scala and Apache Spark on MacOS](https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f)
-* [Machine Learning with Jupyter using Scala, Spark and Python: The Setup](https://medium.com/@faizanahemad/machine-learning-with-jupyter-using-scala-spark-and-python-the-setup-62d05b0c7f56)
 * [Apache Spark setup with Gradle, Scala and IntelliJ](https://medium.com/@faizanahemad/apache-spark-setup-with-gradle-scala-and-intellij-2eeb9f30c02a)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 
@@ -542,17 +537,10 @@
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
   * [infinispan-spark-connector-examples](https://github.com/tedwon/infinispan-spark-connector-examples)
 * [IMLLIB - Factorization Machines (LibFM) Field-Awared Factorization Machine (FFM) Conditional Random Fields (CRF) Adaptive learning rate optimizer (AdaGrad, Adam)](https://github.com/Intel-bigdata/imllib-spark)
-* [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
   * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
 * [MapR-DB Spark Connector with Secondary Indexes](https://hackernoon.com/mapr-db-spark-connector-with-secondary-indexes-df41909f28ea)
   * [MapR-DB Spark Connector Performance Tests](https://medium.com/@anicolaspp/mapr-db-spark-connector-performance-tests-2ec6e788e867)
-* [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
-  * [Accelerated Spark on GPU-enabled clusters in Azure](https://azure.microsoft.com/en-us/blog/accelerated-spark-on-gpu-enabled-clusters-in-azure/?_lrsc=ff381697-5454-493b-9666-eaeaf066ba16)
-* [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
-  * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/) 기계 학습 기능을 위한 인프라 및 데이터 파이프라인을 구축하기 위해 Cloudera Oryx 프로젝트를 사용하는 예제
-  * Kafka + Spark + Cloudera Hadoop 를 이용한 추천시스템
-* [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
 * [spark cassandra connector - 스파크에 카산드라 연동하는 라이브러리](http://knight76.tistory.com/entry/spark-spark-cassandra-connector-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%97%90-%EC%B9%B4%EC%82%B0%EB%93%9C%EB%9D%BC-%EC%97%B0%EB%8F%99%ED%95%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
@@ -568,7 +556,6 @@
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
   * [스칼라 의존성, 패키지 검색하는 웹 - http://spark-packages.org](http://knight76.tistory.com/entry/scala-%EC%8A%A4%EC%B9%BC%EB%9D%BC-%EC%9D%98%EC%A1%B4%EC%84%B1-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%9B%B9-httpsparkpackagesorg)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
-* [spark-vlbfgs - an implementation of the Vector-free L-BFGS solver and some scalable machine learning algorithms for Apache Spark](https://github.com/yanboliang/spark-vlbfgs)
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
@@ -580,47 +567,71 @@
   * GraphX API를 사용하는 예제와 방법
 * [Community detection in graph](https://gitlab.com/siddhinath/community) Girvan newman algorithm
 
+# Machine Learning
+* [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
+* [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
+* [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+* [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
+* [Using Native Math Libraries to Accelerate Spark Machine Learning Applications](https://www.cloudera.com/documentation/guru-howto/data_science/topics/ght_native_math_libs_to_accelerate_spark_ml.html)
+  * Spark ML용 네이티브 라이브러리를 사용해 모델 훈련 속도를 높이는 방법
+  * 네이티브 라이브러리가 Spark ML에 이점이 되는 이유
+  * CDH Spark로 네이티브 라이브러리를 활성화하는 방법
+  * 여타 네이티브 라이브러리 사용 시 Spark ML 성능과의 비교 분석
+* [Machine Learning with Jupyter using Scala, Spark and Python: The Setup](https://medium.com/@faizanahemad/machine-learning-with-jupyter-using-scala-spark-and-python-the-setup-62d05b0c7f56)
+* [Spark Day 2017 Machine Learning & Deep Learnig With Spark](https://www.slideshare.net/sanghoonlee982/machine-learning-deep-learnig-with-spark)
+* [Building a Big Data Machine Learning Spark Application for Flight Delay Prediction](https://medium.com/@pedrodc/building-a-big-data-machine-learning-spark-application-for-flight-delay-prediction-4f9507cdb010)
+* [Apache Spark 2.0 Preview: Machine Learning Model Persistence by Databricks](https://databricks.com/blog/2016/05/31/apache-spark-2-0-preview-machine-learning-model-persistence.html)
+* [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
+* [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
+* [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
+* MLLib
+  * [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
+  * [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)
+  * [movie recommendation with mllib](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
+  * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
+  * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
+  * [Spark ML Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SparkML.md)
+  * [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
+    * [Apache Spark 입문에서 머신러닝까지](http://www.slideshare.net/DonamKim/apache-spark-64226109)
+  * [Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
+  * [Introduction to Machine Learning on Apache Spark MLlib](https://www.youtube.com/watch?v=qKYpMPPL-fo)
+  * [pipelineio - End-to-End Spark ML and Tensorflow AI Data Pipelines](http://pipeline.io/)
+  * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
+  * [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](http://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)
+  * [Improving BLAS library performance for MLlib](http://www.spark.tc/blas-libraries-in-mllib/)
+  * [Introduction to Machine learning with Spark](http://blog.madhukaraphatak.com/machine-learning-with-spark/)
+    * [Introduction to Machine Learning with Spark](https://www.slideshare.net/datamantra/introduction-to-machine-learning-with-spark)
+    * [Code and setup information for Introduction to Machine Learning with Spark](https://github.com/phatak-dev/introduction_to_ml_with_spark)
+  * [Introduction to ML with Apache Spark MLib by Taras Matyashovskyy](https://www.youtube.com/watch?v=szpcW-SEJK4)
+  * [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
+  * [Machine Learning with Apache Spark](https://josepraveen.com/2018/02/04/machine-learning-with-apache-spark/)
+  * [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
+  * [Building Custom ML PipelineStages for Feature Selection - Marc Kaminski](https://www.youtube.com/watch?v=iUNk-i5aFPY)
+  * [Machine Learning with PySpark and MLlib — Solving a Binary Classification Problem](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
+  * [Dataset deduplication using spark’s MLlib](https://medium.com/@ronaldangel/deduplication-using-sparks-mllib-4a08f65e5ab9)
+  * [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
+  * [TensorFlow On Spark: Scalable TensorFlow Learning on Spark Clusters - Andy Feng & Lee Yang](https://www.youtube.com/watch?v=IxWfAcrZQhc)
+    * [BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.com/2017/09/bigdata-distributed-deep-learning.html)
+  * [github.com/yahoo/TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
+    * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
+  * [Deep learning for Apache Spark](https://www.oreilly.com/ideas/deep-learning-for-apache-spark)
+  * [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
+  * [Spark Deep Learning Pipelines](https://www.facebook.com/nextobe1/posts/342192122883456)
+  * Deep Learning With Apache Spark
+    * [Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
+    * [Part 2](https://towardsdatascience.com/deep-learning-with-apache-spark-part-2-2a2938a36d35)
+  * [Converting Spark ML Vector to Numpy Array](http://blog.madhukaraphatak.com/spark-vector-to-numpy/)
+  * [PyData Tel Aviv Meetup: Learning Large Scale Models for Content Recommendation - Sonya Liberman](https://www.youtube.com/watch?v=6MpXPL4wJ4k)
+* [MMLSpark - Microsoft Machine Learning for Apache Spark](https://github.com/Azure/mmlspark)
+  * [Accelerated Spark on GPU-enabled clusters in Azure](https://azure.microsoft.com/en-us/blog/accelerated-spark-on-gpu-enabled-clusters-in-azure/?_lrsc=ff381697-5454-493b-9666-eaeaf066ba16)
+* [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
+  * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/) 기계 학습 기능을 위한 인프라 및 데이터 파이프라인을 구축하기 위해 Cloudera Oryx 프로젝트를 사용하는 예제
+  * Kafka + Spark + Cloudera Hadoop 를 이용한 추천시스템
+* [spark-vlbfgs - an implementation of the Vector-free L-BFGS solver and some scalable machine learning algorithms for Apache Spark](https://github.com/yanboliang/spark-vlbfgs)
+* TransmogrifAI [Chetan Khatri - TransmogrifAI - Automate ML Workflow with power of Scala and Spark at massive scale](https://www.youtube.com/watch?v=96LLM2UI07o)
+
 # Mesos
 * [Spark + Mesos cluster mode, who uploads the jar?](http://stackoverflow.com/questions/33978672/spark-mesos-cluster-mode-who-uploads-the-jar)
-
-# MLLib
-* [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
-* [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)
-* [movie recommendation with mllib](http://ampcamp.berkeley.edu/big-data-mini-course/movie-recommendation-with-mllib.html)
-* [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
-* [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
-* [Spark ML Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SparkML.md)
-* [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
-  * [Apache Spark 입문에서 머신러닝까지](http://www.slideshare.net/DonamKim/apache-spark-64226109)
-* [Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
-* [Introduction to Machine Learning on Apache Spark MLlib](https://www.youtube.com/watch?v=qKYpMPPL-fo)
-* [pipelineio - End-to-End Spark ML and Tensorflow AI Data Pipelines](http://pipeline.io/)
-* [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
-* [Accelerating Apache Spark MLlib with Intel® Math Kernel Library (Intel® MKL)](http://blog.cloudera.com/blog/2017/02/accelerating-apache-spark-mllib-with-intel-math-kernel-library-intel-mkl/)
-* [Improving BLAS library performance for MLlib](http://www.spark.tc/blas-libraries-in-mllib/)
-* [Introduction to Machine learning with Spark](http://blog.madhukaraphatak.com/machine-learning-with-spark/)
-  * [Introduction to Machine Learning with Spark](https://www.slideshare.net/datamantra/introduction-to-machine-learning-with-spark)
-  * [Code and setup information for Introduction to Machine Learning with Spark](https://github.com/phatak-dev/introduction_to_ml_with_spark)
-* [Introduction to ML with Apache Spark MLib by Taras Matyashovskyy](https://www.youtube.com/watch?v=szpcW-SEJK4)
-* [Extend Spark ML for your own model/transformer types](https://www.oreilly.com/learning/extend-spark-ml-for-your-own-modeltransformer-types)
-* [Machine Learning with Apache Spark](https://josepraveen.com/2018/02/04/machine-learning-with-apache-spark/)
-* [Building A Linear Regression with PySpark and MLlib](https://towardsdatascience.com/building-a-linear-regression-with-pyspark-and-mllib-d065c3ba246a)
-* [Building Custom ML PipelineStages for Feature Selection - Marc Kaminski](https://www.youtube.com/watch?v=iUNk-i5aFPY)
-* [Machine Learning with PySpark and MLlib — Solving a Binary Classification Problem](https://towardsdatascience.com/machine-learning-with-pyspark-and-mllib-solving-a-binary-classification-problem-96396065d2aa)
-* [Dataset deduplication using spark’s MLlib](https://medium.com/@ronaldangel/deduplication-using-sparks-mllib-4a08f65e5ab9)
-* [Deep Learning with Apache Spark and TensorFlow](https://databricks.com/blog/2016/01/25/deep-learning-with-apache-spark-and-tensorflow.html)
-* [TensorFlow On Spark: Scalable TensorFlow Learning on Spark Clusters - Andy Feng & Lee Yang](https://www.youtube.com/watch?v=IxWfAcrZQhc)
-  * [BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.com/2017/09/bigdata-distributed-deep-learning.html)
-* [github.com/yahoo/TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark)
-  * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
-* [Deep learning for Apache Spark](https://www.oreilly.com/ideas/deep-learning-for-apache-spark)
-* [Spark machine learning & deep learning](https://www.slideshare.net/ssusere94328/spark-machine-learning-deep-learning)
-* [Spark Deep Learning Pipelines](https://www.facebook.com/nextobe1/posts/342192122883456)
-* Deep Learning With Apache Spark
-  * [Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
-  * [Part 2](https://towardsdatascience.com/deep-learning-with-apache-spark-part-2-2a2938a36d35)
-* [Converting Spark ML Vector to Numpy Array](http://blog.madhukaraphatak.com/spark-vector-to-numpy/)
-* [PyData Tel Aviv Meetup: Learning Large Scale Models for Content Recommendation - Sonya Liberman](https://www.youtube.com/watch?v=6MpXPL4wJ4k)
 
 # [PySpark](http://spark.apache.org/docs/latest/api/python/)
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
@@ -726,18 +737,6 @@
 
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
-
-# Spark ML
-* [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
-* [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
-* [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
-* [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
-* [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
-* [Using Native Math Libraries to Accelerate Spark Machine Learning Applications](https://www.cloudera.com/documentation/guru-howto/data_science/topics/ght_native_math_libs_to_accelerate_spark_ml.html)
-  * Spark ML용 네이티브 라이브러리를 사용해 모델 훈련 속도를 높이는 방법
-  * 네이티브 라이브러리가 Spark ML에 이점이 되는 이유
-  * CDH Spark로 네이티브 라이브러리를 활성화하는 방법
-  * 여타 네이티브 라이브러리 사용 시 Spark ML 성능과의 비교 분석
 
 # Spark SQL
 * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
