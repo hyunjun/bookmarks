@@ -296,6 +296,7 @@ AWS
 * [Create a REST API Endpoint Using AWS Lambda](https://hackingandslacking.com/create-a-rest-api-endpoint-using-aws-lambda-765e1f6eebd6)
 * [aws.amazon.com/ko/architecture](https://aws.amazon.com/ko/architecture/)
 * [AWS - Architecture study: WEB APPLICATION HOSTING](https://github.com/AUSG/aws-architecture-study/blob/master/MyungJin/README.md)
+* [AWS Auto Cleanup - Open source application to programatically clean your AWS resources based on a whitelist and time to live (TTL) settings](https://github.com/servian/aws-auto-cleanup)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
