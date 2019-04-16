@@ -1383,6 +1383,7 @@ Javascript
 * [How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
 * [코딩 한 줄 없이 라인 봇으로 거짓말 탐지기 만들기!](https://engineering.linecorp.com/ko/blog/making-a-polygraph-chatbot/)
 * [코딩방송 Season1- EP 11. 통신3: NodeJS 웹서버](https://www.youtube.com/watch?v=rnFW4ESNk8w)
+* [코딩방송 Season1- EP 13. 웹소켓(WebSocket)](https://www.youtube.com/watch?v=KT7z1jT03BM)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
