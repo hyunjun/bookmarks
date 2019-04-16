@@ -53,6 +53,7 @@ Programming Language
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
 * [Top 7 Dying Programming Languages to Avoid Studying in 2019 –2020](https://medium.com/datadriveninvestor/top-7-dying-programming-languages-to-avoid-studying-in-2019-2020-a4a660f4de0e)
 * [Programming Language Trends (Q2 2019)](https://hackernoon.com/programming-language-trends-q2-2019-3b87860de0f8)
+* [8 Top Programming Languages & Frameworks of 2019](https://hackernoon.com/8-top-programming-languages-frameworks-of-2019-2f08d2d21a1)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
