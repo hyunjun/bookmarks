@@ -185,6 +185,7 @@ Java
 * [Async-IO vs Async-Request Processing in java](https://medium.freecodecamp.org/java-async-io-async-request-processing-in-http-request-1a04f395d8c7)
 * [Armeria - an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
+  * [Java와 Armeria로 기본적인 웹 서버 만들기](https://engineering.linecorp.com/ko/blog/making-a-basic-server-with-java-armeria/)
   * [비동기를 사랑하는 오픈소스 개발자, 이희승](https://engineering.linecorp.com/ko/blog/line-developer-interview-3/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * **[Netty 시작하기](https://github.com/hatemogi/netty-startup)**
@@ -546,6 +547,7 @@ Java
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [Siddhi - a java library that listens to events from data streams, detects complex conditions described via a Streaming SQL language, and triggers actions. It performs both Stream Processing and Complex Event Processing](https://github.com/wso2/siddhi)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
+* SpotBugs [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
 * Spring
   * [스프링이 도대체 뭐란 말인가?](http://springmvc.egloos.com/487497)
   * [신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정](https://www.youtube.com/playlist?list=PLzXU1vW098TSRZ0oSWqPCVCNeBa4BmCJ8)
@@ -745,6 +747,7 @@ Java
 * [JUnit 만들어보기](http://jojoldu.tistory.com/231)
 * [JUnit 5 소개](http://javacan.tistory.com/entry/JUnit-5-Intro)
 * [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
+* [AppEngine unit testing made easy with JUnit Rules](https://medium.freecodecamp.org/appengine-unit-testing-made-easy-with-junit-rules-97c2127a161a)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 * [클린 코드를 위한 TDD (Test-Driven Development for Clean Code)](https://drive.google.com/file/d/1VcSjXl4wWylVjdc0y8FPkrcGZhYPCpuM/view)
 * [Implementing a comparable numeric data type in Java the TDD way](https://medium.com/@alonso.delarte/implementing-a-comparable-numeric-data-type-in-java-the-tdd-way-36db536b0d0d)
