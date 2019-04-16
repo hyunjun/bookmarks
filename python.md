@@ -374,6 +374,7 @@ Python
 * [Python APIs - APIs are an easy and standardized way to access information across different companies](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-api) Google, Yelp, Youtube
 * [연산자(operators)의 유용성](https://www.martinii.fun/blog/why-operators-are-useful/)
 * [파이썬과 양자 컴퓨팅 — 제 1장은 사건과 함께 시작한다](https://medium.com/@kenixer/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%A0%9C-1%EC%9E%A5%EC%9D%80-%EC%82%AC%EA%B1%B4%EA%B3%BC-%ED%95%A8%EA%BB%98-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4-9f3dac3f4104)
+* [파이썬과 양자 컴퓨팅 — 제 2장에서 원리 파악이 시작된다](https://medium.com/@kenixer/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%A0%9C-2%EC%9E%A5%EC%97%90%EC%84%9C-%EC%9B%90%EB%A6%AC-%ED%8C%8C%EC%95%85%EC%9D%B4-%EC%8B%9C%EC%9E%91%EB%90%9C%EB%8B%A4-70c39b5510d5)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
