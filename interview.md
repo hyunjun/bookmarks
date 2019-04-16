@@ -274,6 +274,7 @@ Interview
 * [PS를 공부하는 방법 (How to study Problem Solving?)](https://subinium.github.io/how-to-study-problem-solving/)
 * [알고리즘 공부 사이트/문제 추천](https://justicehui.github.io/study/2019/03/25/AlgorithmSite/)
 * [나만의 알고리즘 채점 사이트 만들기(How To Make Online Judge Site)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCSBgU29ZEmxqTr4ge-MoN_)
+* [Interactive 문제란 무엇인가요?](https://subinium.github.io/interactive-problem-in-ps)
 * [algoexpert.io](https://www.algoexpert.io)
 * [algospot](https://www.algospot.com)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
