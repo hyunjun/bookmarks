@@ -160,6 +160,7 @@ Web
   * [Timing HTTP Requests with cURL](https://overloaded.io/timing-http-requests-curl)
   * [Simple HTTP benchmark with curl](http://blog.berezovsky.me/2012/09/simple-http-benchmark-with-curl.html)
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
+* Lighthouse [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
   * installation `make`; worked on Redhat 6.6/7.2
@@ -232,6 +233,10 @@ Web
 * [타베로그를 크롤링하기3 - 타베로그 데이터 까보기](https://helloworldpark.github.io/jekyll/update/2019/03/30/Crawler-4-Tabelog3.html)
 * [타베로그를 크롤링하기4 - 구글 데이터 까보기](https://helloworldpark.github.io/jekyll/update/2019/03/30/Crawler-4-Tabelog4.html)
 * [How I used Python to analyze Game of Thrones](https://medium.freecodecamp.org/how-i-used-python-to-analyze-game-of-thrones-503a96028ce6) selenium, crawl, report
+* [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
+  * [How to Web Scrape the SEC | Part 1](https://www.youtube.com/watch?v=-7I7OAC6ih8)
+  * [How to Web Scrape the SEC | Part 2](https://www.youtube.com/watch?v=eut8-iOiJ_Q)
+  * [How to Web Scrape the SEC | Part 3](https://www.youtube.com/watch?v=4zE9HjPIqC4)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
