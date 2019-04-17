@@ -171,6 +171,7 @@
 * [Improving Spark application performance](http://chapeau.freevariable.com/2014/09/improving-spark-application-performance.html)
 * [Spark performance tuning eng](https://www.slideshare.net/haiteam/spark-performance-tuning-eng)
 * [Spark performance tuning Part#2 병렬처리](https://www.slideshare.net/haiteam/spark-performance-tuning-128798607)
+* [Spark performance tuning from the trenches](https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
 * [“Fast food” and tips for RDD](http://pl.postech.ac.kr/~maidinh/blog/?p=61)
 * [스칼라ML - 스칼라를 이용한 기계학습 기초(+Spark)](http://psygrammer.github.io/ScalaML/)
@@ -500,6 +501,7 @@
 * [How to Install Scala and Apache Spark on MacOS](https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f)
 * [Apache Spark setup with Gradle, Scala and IntelliJ](https://medium.com/@faizanahemad/apache-spark-setup-with-gradle-scala-and-intellij-2eeb9f30c02a)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
+* [Spark 2: How to install it on Windows in 5 steps](https://medium.com/@dvainrub/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3)
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
@@ -720,6 +722,7 @@
 * [Introducing Pandas UDF for PySpark](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
 * [Reading CSV & JSON files in Spark – Word Count Example](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark)
 * [How to Upload/Download Files to/from Notebook in my Local machine](https://medium.com/ibm-data-science-experience/how-to-upload-download-files-to-from-notebook-in-my-local-machine-6a4e65a15767)
+* [Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker](https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
