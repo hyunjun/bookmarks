@@ -45,14 +45,9 @@ Git
 * [Deploying branches to GitHub.com](http://githubengineering.com/deploying-branches-to-github-com/)
 * [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
 * [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
-* [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
 * [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-* [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
 * **[Git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)** stash, workspace, index, local repo, upstream repo 간의 이동을 visual로 보여줘서 (여전히 어렵지만) 정말 보기 좋음
-* [Git Flow와 자주 사용하는 명령어들](https://www.holaxprogramming.com/2017/08/26/devops-git-commands/)
-* [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
-* [Git Flow Integration으로 Git Flow 심플하게 운영하기](http://jojoldu.tistory.com/268)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
@@ -196,6 +191,12 @@ Git
   * **[Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)**
   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
     * [git feature branch 모델 프로젝트 적용기](https://ash84.net/2017/05/15/git-feature-branch-model-usage/)
+  * [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
+  * [Git Flow와 자주 사용하는 명령어들](https://www.holaxprogramming.com/2017/08/26/devops-git-commands/)
+  * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
+  * [Git Flow Integration으로 Git Flow 심플하게 운영하기](http://jojoldu.tistory.com/268)
+  * [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
+  * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * create new branch
