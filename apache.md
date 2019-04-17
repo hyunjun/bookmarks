@@ -315,6 +315,7 @@ Apache
   * [Replication Factor 변경](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-replication-factor-%EB%B3%80%EA%B2%BD/)
   * [카프카 매니저 소개](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%86%8C%EA%B0%9C/)
 * [Kafka Summit New York](https://kafka-summit.org/kafka-summit-ny/schedule/)
+* [Kafka Summit New York 2019 Session Videos](https://www.confluent.io/blog/kafka-summit-new-york-2019-session-videos)
 * [The First Annual State of Apache Kafka Client Use Survey](https://www.confluent.io/blog/first-annual-state-apache-kafka-client-use-survey/) Kafka와 함께 어떤 언어를 많이 사용하는지와 이유
 * [Splunking Kafka with Kafka Connect](https://lilgreenwein.com/2017/02/16/splunking-kafka-with-kafka-connect/)
   * Kafka에서 Splunk로 데이터를 전송하기 위한 새로운 Kafka Connect 플러그인을 설명(아키텍처 및 디자인 선택 포함)
