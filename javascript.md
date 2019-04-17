@@ -1889,6 +1889,8 @@ Javascript
 * [How I built my first React Native app for my first freelance client](https://medium.freecodecamp.org/how-i-built-my-first-react-native-app-for-my-first-freelance-client-d78bdab795e1)
 * [RN(Reacct Native)에서 커스텀 폰트 사용하기](https://dev-yakuza.github.io/ko/react-native/react-native-custom-font/)
 * [How to create a background video in React Native](https://medium.freecodecamp.org/how-to-create-a-background-video-in-react-native-cb53304ee4f6)
+* [A first look at firstBorn, React Native’s new component library](https://medium.freecodecamp.org/a-first-look-at-firstborn-react-natives-new-component-library-51403077a632)
+* [RN(React Native)에서 root import하기](https://dev-yakuza.github.io/ko/react-native/root-import/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
