@@ -346,6 +346,7 @@ R
 * [April New Package Picks](https://www.r-bloggers.com/april-new-package-picks/)
 * [June 2017 New Package Picks(https://rviews.rstudio.com/2017/07/26/june-2017-new-package-picks/)
 * [From ‘R vs Python’ to ‘R and Python’](https://towardsdatascience.com/from-r-vs-python-to-r-and-python-aa25db33ce17)
+* [8 Useful R Packages for Data Science You Aren’t Using (But Should!)](https://www.analyticsvidhya.com/blog/2019/04/8-useful-r-packages-data-science/)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
 * boruta
   * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
