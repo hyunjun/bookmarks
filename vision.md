@@ -91,6 +91,7 @@ Vision
   * [Hyung Jin Chang Yiannis Demiris Unsupervised Learning of Complex Articulated Kinematic Structures combining Motion and Skeleton Information](https://hyungjinchang.wordpress.com/research/kinematic-structure-learning/)
 * [CVPR 2018](http://openaccess.thecvf.com/CVPR2018.py)
   * [videos](https://www.youtube.com/channel/UC0n76gicaarsN_Y9YShWwhw/videos)
+* [2019 cvpr paper_overview](https://www.slideshare.net/HoseongLee6/2019-cvpr-paperoverview)
 * [The “magic kernel” is a method of resampling images that gives amazingly clear results (free of “aliasing” artifacts, free of “ringing”, and free of “width beat” for thin features) yet is lightning fast](http://www.johncostella.com/magic/)
 * [Software Quality Evaluation of Face Recognition APIs & Libraries](https://attachment.fbsbx.com/file_download.php?id=144014609283876&eid=ASuLtcAHSaxC4uBfwTZfMfiV-jvfry-BgHbRpc4M7oiMXmCU9K6SPWCYQPun8biQKlU&inline=1&ext=1443546585&hash=AStC4ePfGZtRqfLg)
 * [지각CAV - 지각 심리학 + Computer (Vision + Audio + Video)](http://psygrammer.github.io/cav/)
