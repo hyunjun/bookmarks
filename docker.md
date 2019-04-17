@@ -43,9 +43,11 @@ Docker
   * [Part 4: Slimming Down Your Docker Images](https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e)
   * [Part 5: 15 Docker Commands You Should Know](https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421)
   * [Part 6 Pump up the Volumes: Data in Docker](https://towardsdatascience.com/pump-up-the-volumes-data-in-docker-a21950a8cd8)
+* [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24) php 예제
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
+* [Deploy Docker Containers with Docker Cloud](https://www.youtube.com/watch?v=F82K07NmRpk) 예전 버전인 점 감안
 * [DockerHub의 Automated Build](https://blog.outsider.ne.kr/1387)
 * [Travis CI에서 Docker Hub에 이미지 푸시하기](https://blog.outsider.ne.kr/1388)
 * [Managing Open-Source Docker Images on Docker Hub using Travis](https://medium.com/vaidikkapoor/managing-open-source-docker-images-on-docker-hub-using-travis-7fd33bc96d65)
@@ -65,7 +67,6 @@ Docker
 * [내가 필요한 Docker Image 만들기](http://www.nurinamu.com/dev/2016/07/04/create-a-docker-image/)
 * [Docker를 이용해 호스트와 다른 버전의 PHP 개발환경 만들기](https://blog.grotesq.com/post/651)
 * [도커 Docker 로 논리적으로 구분된 PHP 작업 공간 만들기](https://blog.grotesq.com/post/660)
-* [일반 PHP 프로젝트 개발 환경에서 docker 사용하기](https://www.haruair.com/blog/4430) docker-compose
 * [A short guide to using Docker for your data science environment](https://towardsdatascience.com/a-short-guide-to-using-docker-for-your-data-science-environment-912617b3603e)
 * [leafcats.com/tag/docker](http://www.leafcats.com/tag/docker)
   * [가상머신과 도커(Docker)](http://www.leafcats.com/152)
@@ -223,7 +224,6 @@ Docker
 * [Running containers from Mac OS X](https://hyper.sh/blog/post/2015/07/30/running-containers-from-mac-os-x.html)
 * [ANNOUNCING DOCKER 1.8: CONTENT TRUST, TOOLBOX, AND UPDATES TO REGISTRY AND ORCHESTRATION](http://blog.docker.com/2015/08/docker-1-8-content-trust-toolbox-registry-orchestration/)
   * [ANNOUNCING DOCKER TOOLBOX](https://blog.docker.com/2015/08/docker-toolbox/)
-* [Migrating stateful containers using native Docker 1.8 Flocker plugin and Compose](https://clusterhq.com/2015/08/04/docker-volume-plugins/)
 * [Full-stack Docker performance monitoring: From containers to applications](https://blog.ruxit.com/full-stack-docker-performance-monitoring-containers-and-applications/)
 * [END-TO-END AUTOMATION FOR DOCKER-BASED APPLICATIONS ON DIGITALOCEAN](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-applications-on-digitalocean.html)
 * [How We Deploy Containers at Grammarly](http://tech.grammarly.com/blog/posts/How-We-Deploy-Containers-at-Grammarly.html)
@@ -307,10 +307,6 @@ Docker
 * [XECon2015 :: 1-5 김훈민 - 서버 운영자가 꼭 알아야 할 Docker](https://www.youtube.com/watch?v=mECbDs9nPnM)
 * **[XECon2016 - GitHub + Jenkins + Docker로 자동배포 시스템 구축하기.  조정현](https://www.youtube.com/watch?v=ZM9sU3nqCMM)**
 * [docker를 활용한 서버 실습 환경 구축](https://www.youtube.com/watch?v=_uclvwOzgDY)
-* [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
-* [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
-* [파이썬 개발환경 구성하기의 끝판왕 - Docker Compose](https://www.slideshare.net/raccoonyy/docker-compose-98851170/raccoonyy/docker-compose-98851170)
-* **[도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기 컨테이너 시대의 Django 개발환경 구축하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)**
 * [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f)
 * [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf)
 * [Docker Development WorkFlow — a guide with Flask and Postgres](https://medium.freecodecamp.org/docker-development-workflow-a-guide-with-flask-and-postgres-db1a1843044a)
@@ -421,6 +417,18 @@ Docker
 * [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/)
 * volume
   * [Docker: create a persistent volume in a specific directory](https://unix.stackexchange.com/questions/439106/docker-create-a-persistent-volume-in-a-specific-directory)
+
+# compose
+* [일반 PHP 프로젝트 개발 환경에서 docker 사용하기](https://www.haruair.com/blog/4430)
+* [Migrating stateful containers using native Docker 1.8 Flocker plugin and Compose](https://clusterhq.com/2015/08/04/docker-volume-plugins/)
+* [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
+* **[Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)** flask + php 예제
+* [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
+* [파이썬 개발환경 구성하기의 끝판왕 - Docker Compose](https://www.slideshare.net/raccoonyy/docker-compose-98851170/raccoonyy/docker-compose-98851170)
+* **[도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기 컨테이너 시대의 Django 개발환경 구축하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)**
+* [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
+* [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
+* [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 
 # CI Continuous Integration
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
@@ -618,7 +626,6 @@ Docker
   * [docker-builder](https://github.com/kakao/docker-builder)
   * [registryv2](https://github.com/kakao/d2hub-registry)
   * [deploy-registryv2](https://github.com/kakao/d2hub-deploy-registryv2)
-* [dcw is Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [DevLab is a utility that allows you to easily containerize your development workflow using Docker](https://github.com/TechnologyAdvice/DevLab)
 * [Dinghy - Using Docker Machine on OS X with Dinghy](http://mageinferno.com/blog/using-docker-machine-os-x-dinghy)
 * [dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size](https://github.com/wagoodman/dive)
@@ -637,12 +644,10 @@ Docker
 * [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
-* [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
-* [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 * [netmanager 1.0 - Network management for docker containers](https://github.com/vmulas/docker-netmanager)
 * [Network Containers](https://www.zerotier.com/blog/?p=490)
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy)
