@@ -160,6 +160,7 @@ Interview
 * [아마존에서 가장 오래 일한 한국인 박정준](https://www.youtube.com/watch?v=AhXP03kV36c)
 * [Electricity Metaphor for the web's future](https://www.ted.com/talks/jeff_bezos_on_the_next_web_innovation)
 * [아마존 인터뷰 필수 팁](https://www.youtube.com/watch?v=ChWSHVbZbAo) behavioral
+* [Amazon Interview](https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
