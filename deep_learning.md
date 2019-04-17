@@ -1639,6 +1639,7 @@ Deep Learning
 * [Recurrent Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-recurrent-neural-networks)
 * [An Introduction to Recurrent Neural Networks](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912)
 * [RNN에서의 alignment 의미와 seq-to-seq 모델](https://dos-tacos.github.io/concept/alignment-in-rnn/)
+* [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
@@ -2082,6 +2083,7 @@ CVPR2016)
   * [CS294: Deep RL Start!](https://tensorflow.blog/2017/01/23/cs294-deep-rl-start/)
     * [CS294-112 Deep Reinforcement Learning Sp17](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 * [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234)
+  * [CS234: Reinforcement Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 * [CS885 Lecture 14c: Trust Region Methods](https://www.youtube.com/watch?v=qaOKZkeutqE)
 * [Deep Learning and Reinforcement Learning Summer School 2018](https://dlrlsummerschool.ca)
   * [Deep Learning and Reinforcement Learning Summer School, Toronto 2018](http://videolectures.net/DLRLsummerschool2018_toronto/)
