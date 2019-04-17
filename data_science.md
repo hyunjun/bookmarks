@@ -344,6 +344,7 @@ Data Science
 * [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
 * [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA)
   * [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
+* [Our 25 Favorite Data Science Courses From Harvard To Udemy](https://hackernoon.com/our-25-favorite-data-science-courses-from-harvard-to-udemy-9a89cac0358d)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
