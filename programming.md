@@ -655,6 +655,7 @@ Programming
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
+* [클라우드 IDE](http://www.bloter.net/archives/249173)
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
 * [codeanywhere.com](https://codeanywhere.com/)
 * [codebunk.com](https://codebunk.com/) run 가능
@@ -1369,6 +1370,7 @@ Programming
 * [드라마 QA팀이 하는 일](http://blog.dramancompany.com/2019/03/%EB%93%9C%EB%9D%BC%EB%A7%88-qa%ED%8C%80%EC%9D%B4-%ED%95%98%EB%8A%94-%EC%9D%BC/)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
+* ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
