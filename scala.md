@@ -737,6 +737,7 @@ Scala
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
+* [Marvels of functional programming: Composing effects with monads](https://medium.com/@anil.thaplar/marvels-of-functional-programming-composing-effects-with-monads-4972962d09ca)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
