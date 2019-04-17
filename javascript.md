@@ -1384,6 +1384,7 @@ Javascript
 * [코딩 한 줄 없이 라인 봇으로 거짓말 탐지기 만들기!](https://engineering.linecorp.com/ko/blog/making-a-polygraph-chatbot/)
 * [코딩방송 Season1- EP 11. 통신3: NodeJS 웹서버](https://www.youtube.com/watch?v=rnFW4ESNk8w)
 * [코딩방송 Season1- EP 13. 웹소켓(WebSocket)](https://www.youtube.com/watch?v=KT7z1jT03BM)
+* [코딩방송 Season1- EP 14. 더 쉬운 웹소켓(WebSocket)](https://www.youtube.com/watch?v=PvuqG8TVaCo)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1913,6 +1914,7 @@ Javascript
 * [Flexbox.io](http://flexbox.io)
 * Formik
   * [React Form Validation with Formik and Yup](https://hackernoon.com/react-form-validation-with-formik-and-yup-8b76bda62e10)
+* Framer X [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/내가-framer-x에-미쳐있는-이유-framer-x-6개월-사용기-a3a400eddca)
 * [Gatsby - Transform plain text into dynamic blogs and websites using the latest web technologies](https://github.com/gatsbyjs/gatsby)
   * [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
   * [Why you should use GatsbyJS to build static sites](https://medium.freecodecamp.org/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b)
