@@ -551,6 +551,7 @@ Java
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * SpotBugs [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
 * Spring
+  * [스프링 입문](https://www.youtube.com/playlist?list=PLfI752FpVCS8_5t29DWnsrL9NudvKDAKY)
   * [스프링이 도대체 뭐란 말인가?](http://springmvc.egloos.com/487497)
   * [신입SW인력을 위한 실전 자바(Java) 스프링(Spring) 동영상과정](https://www.youtube.com/playlist?list=PLzXU1vW098TSRZ0oSWqPCVCNeBa4BmCJ8)
   * [Spring Data JPA + REST 소개](http://penpen.tistory.com/entry/Spring-Data-JPA-REST)
