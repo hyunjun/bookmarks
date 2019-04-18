@@ -2272,6 +2272,7 @@ Python
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pydbgen](https://github.com/tirthajyoti/pydbgen)
   * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)
+* [PyEBPF — eBPF proxy routines generation and Python callbacks (iovisor/bcc wrapper)](https://medium.com/@dany74q/pyebpf-ebpf-proxy-routines-generation-and-python-callbacks-iovisor-bcc-wrapper-42d6cf558be4)
 * [pyexperiment - Run experiments with Python - quick and clean](https://github.com/duerrp/pyexperiment)
 * [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
 * [PyFuzz2 - My little fuzzing framework inspired by grinder](https://github.com/susperius/PyFuzz2)
