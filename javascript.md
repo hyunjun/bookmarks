@@ -171,6 +171,7 @@ Javascript
 * [Why use "closure"?](https://howtonode.org/why-use-closure)
 * [자바스크립트 클로저(Closure)에 대해서](http://blog.outsider.ne.kr/506)
 * [자바스크립트 스코프와 클로저(JavaScript Scope and Closures)](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-javascript-scope-and-closures-8d402c976d19)
+* [An easy intro to Lexical Scoping in JavaScript](https://medium.freecodecamp.org/lexical-scoping-in-javascript-e876cd221b74)
 * [I never understood JavaScript closures](https://medium.com/dailyjs/i-never-understood-javascript-closures-9663703368e8)
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 * [Closure Compiler in JavaScript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
@@ -238,6 +239,7 @@ Javascript
 * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
 * [입문자가 겪기 쉬운 console.log 실수](https://www.zerocho.com/category/JavaScript/post/5b2b45cf1350f9001b662ba6)
+* [How to use the JavaScript console: going beyond console.log()](https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b)
 * [Colorful Console Message](https://medium.com/@samanthaming/colorful-console-message-2e8203786838)
 * [codepen.io/2016/popular/pens](http://codepen.io/2016/popular/pens/)
 * [awesome-js](https://github.com/ggomaeng/awesome-js)
@@ -1385,6 +1387,7 @@ Javascript
 * [코딩방송 Season1- EP 11. 통신3: NodeJS 웹서버](https://www.youtube.com/watch?v=rnFW4ESNk8w)
 * [코딩방송 Season1- EP 13. 웹소켓(WebSocket)](https://www.youtube.com/watch?v=KT7z1jT03BM)
 * [코딩방송 Season1- EP 14. 더 쉬운 웹소켓(WebSocket)](https://www.youtube.com/watch?v=PvuqG8TVaCo)
+* [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1732,6 +1735,8 @@ Javascript
 * [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
 * [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
 * [리액트 훅! 코드를 따라치며 배워보자!](https://www.youtube.com/watch?v=ZRH23R2MlbY)
+* [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
+* [Learn the basics of React Hooks in <10 minutes>](https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
