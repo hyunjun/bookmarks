@@ -1217,6 +1217,7 @@ Javascript
   * [5분만에 CLI 만들어보기](https://appear.github.io/2019/03/17/NODE/my-cli-01)
   * [npm](https://opentutorials.org/module/4044)
   * [NPM1](https://www.youtube.com/playlist?list=PLuHgQVnccGMCwEXgZ-dep4SJlGEuYip-6)
+  * [How to publish packages to npm (the way the industry does things)](https://medium.freecodecamp.org/how-to-publish-packages-to-npm-the-way-the-industry-does-things-2077ec34d7e8)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
