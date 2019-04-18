@@ -301,14 +301,6 @@ Web
   * Full Stack Javascript Engineer: Firebase등을 사용하면 아주 쉽게 혼자서 Web App을 만들 수 있다. 그런 이유(인건비, 속도등)로 Startup 중심으로 Full Stack Engineer의 수요가 증가하지 않을까 예상해 본다. 추후에는 Javascript로 백앤드를 할 수 있는 Firebase, Meteor등과 MEAN등을 위한 추가적인 개발 환경과 툴들이 더 나오고 성숙될 것이고, 그러면 본격적인 Full Stack Javascript Engineer의 세계가 열리지 않을까 예상해본다.
 * [최신 웹사이트와 꼼꼼한 개발자들을 위한 완벽 프론트엔드 체크리스트 http://frontendchecklist.com ](https://github.com/kesuskim/Front-End-Checklist)
 
-# HAProxy
-* [HAProxy 설치](http://dewnine.tistory.com/7)
-* [HAProxy 설정 및 실행](http://arisu1000.tistory.com/27739)
-* [L4/L7 스위치의 대안, 오픈 소스 로드 밸런서 HAProxy](http://d2.naver.com/helloworld/284659)
-* [HAProxy vs nginx: Why you should NEVER use nginx for load balancing!](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
-* [Keepalived and HAProxy in AWS: An Exploratory Guide](https://blog.logentries.com/2014/12/keepalived-and-haproxy-in-aws-an-exploratory-guide/)
-* [HAProxy TCP 모드에서 내부 서버로 Source IP 전달하기](https://realhanbit.co.kr/books/141/pages/1256/read)
-
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
 
@@ -412,6 +404,16 @@ Web
 * [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * [How to write simple modern JavaScript apps with Webpack and progressive web techniques](https://medium.freecodecamp.org/how-to-write-simple-modern-javascript-apps-with-webpack-and-progressive-web-techniques-a30354eab214)
 * [Why Progressive Web Apps are great and and how to build one](https://medium.freecodecamp.org/benefits-of-progressive-web-applications-pwas-and-how-to-build-one-a763e6424717)
+
+# Proxy
+* [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
+* HAProxy
+  * [HAProxy 설치](http://dewnine.tistory.com/7)
+  * [HAProxy 설정 및 실행](http://arisu1000.tistory.com/27739)
+  * [L4/L7 스위치의 대안, 오픈 소스 로드 밸런서 HAProxy](http://d2.naver.com/helloworld/284659)
+  * [HAProxy vs nginx: Why you should NEVER use nginx for load balancing!](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
+  * [Keepalived and HAProxy in AWS: An Exploratory Guide](https://blog.logentries.com/2014/12/keepalived-and-haproxy-in-aws-an-exploratory-guide/)
+  * [HAProxy TCP 모드에서 내부 서버로 Source IP 전달하기](https://realhanbit.co.kr/books/141/pages/1256/read)
 
 # Python
 * Let’s Build A Web Server
