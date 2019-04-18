@@ -741,6 +741,7 @@ Python
 * [multiprocessing](https://pymotw.com/3/multiprocessing/) multithreading [threading](https://pymotw.com/3/threading) parallel
   * [practice - experiences](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666)
   * [practice - basic examples](https://github.com/hyunjun/practice/tree/master/python/test-multiprocessing)
+  * [practice - child process는 독립적으로 종료, parent는 먼저 종료](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666#file-child_process-md)
   * logging
     * [practice - logging process by process](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/multiprocessing_logging.py)
     * [Example of logging and multiprocessing](https://gist.github.com/vsajip/2331314)
