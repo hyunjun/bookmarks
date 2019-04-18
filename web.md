@@ -237,6 +237,7 @@ Web
   * [How to Web Scrape the SEC | Part 1](https://www.youtube.com/watch?v=-7I7OAC6ih8)
   * [How to Web Scrape the SEC | Part 2](https://www.youtube.com/watch?v=eut8-iOiJ_Q)
   * [How to Web Scrape the SEC | Part 3](https://www.youtube.com/watch?v=4zE9HjPIqC4)
+* [How to build a URL crawler to map a website using Python](https://medium.freecodecamp.org/how-to-build-a-url-crawler-to-map-a-website-using-python-6a287be1da11)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
