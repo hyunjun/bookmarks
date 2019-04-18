@@ -97,6 +97,7 @@ R
 * [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
 * [Word Embeddings with Keras](https://tensorflow.rstudio.com/blog/word-embeddings-with-keras.html)
 * [딥러닝(Deep learning)을 R로 구현하기 – Prediction Model](https://pabii.co/deep-learning-by-r-prediction-model/)
+* [Data Science for Startups: Model Production](https://towardsdatascience.com/data-science-for-startups-model-production-b14a29b2f920)
 * [Tutorial: Deep Learning with R on Azure with Keras and CNTK](https://www.r-bloggers.com/tutorial-deep-learning-with-r-on-azure-with-keras-and-cntk)
 * [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html)
   * tidyverse, keras, tfruns, shiny 라이브러리를 이용해서 텍스트 유사도 접근하는 방식에 대한 예제
@@ -488,6 +489,7 @@ R
   * [sparklyr 0.9](https://blog.rstudio.com/2018/10/01/sparklyr-0-9)
   * [Working with big SAS datasets using R and sparklyr](https://www.r-bloggers.com/working-with-big-sas-datasets-using-r-and-sparklyr/)
 * [subsetr](https://github.com/jimhester/subsetr)
+* summarytools [Introduction to summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)
 * [taskscheduleR - Schedule R scripts/processes with the Windows task scheduler](https://github.com/bnosac/taskscheduleR)
 * [tidyverse](http://tidyverse.org/)
