@@ -1,6 +1,8 @@
 AWS
 ===
 
+* [AWS News Blog](https://aws.amazon.com/blogs/aws/)
+* [Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/)
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
 * [AWS 교과서](https://brunch.co.kr/magazine/devops)
 * [10분 자습서](https://aws.amazon.com/ko/getting-started/tutorials/)
