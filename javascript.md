@@ -1906,6 +1906,7 @@ Javascript
 * [How to create a background video in React Native](https://medium.freecodecamp.org/how-to-create-a-background-video-in-react-native-cb53304ee4f6)
 * [A first look at firstBorn, React Native’s new component library](https://medium.freecodecamp.org/a-first-look-at-firstborn-react-natives-new-component-library-51403077a632)
 * [RN(React Native)에서 root import하기](https://dev-yakuza.github.io/ko/react-native/root-import/)
+* [리액트 네이티브(React Native) 제대로 알고 시작하기](https://www.youtube.com/watch?v=LqiP8HDDue8)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
