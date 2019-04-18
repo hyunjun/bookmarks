@@ -142,6 +142,7 @@ C++
 * [팁 – 검색 표로 함수 호출하기](https://surpreem.com/%ED%8C%81-%EA%B2%80%EC%83%89-%ED%91%9C%EB%A1%9C-%ED%95%A8%EC%88%98-%ED%98%B8%EC%B6%9C%ED%95%98%EA%B8%B0/)
 * [내가 쓰는 C++1x: Conditional Variable](https://www.youtube.com/watch?v=5R9u16q4IcI)
 * [AwesomeCppTemplate](https://github.com/devkoriel/AwesomeCppTemplate)
+* [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d) `folly::Future`, `SharedPromise`
 
 # API
 * auto_ptr
