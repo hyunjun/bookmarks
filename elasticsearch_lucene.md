@@ -356,6 +356,7 @@ ElasticSearch - Lucene
   * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw)
 * [okdevtv.com/mib/elk/elk6](https://okdevtv.com/mib/elk/elk6)
 * [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
+* **[엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)**
 
 # Kibana
 * [Hackers & Painters: Kibana](https://www.youtube.com/watch?v=DeOSy37R1sc)
