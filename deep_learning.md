@@ -1471,6 +1471,8 @@ Deep Learning
   * [딥러닝기반영상분석 (cs231n)](https://www.youtube.com/playlist?list=PL1Kb3QTCLIVtyOuMgyVgT-OeW0PYXl3j5)
   * [CS231N 2017 video subtitles translation project for Korean Computer Science students](https://github.com/insurgent92/CS231N_17_KOR_SUB)
   * [CS231n Convolutional Neural Networks for Visual Recognition](http://aikorea.org/cs231n/neural-networks-2-kr/) 번역
+  * [CS231n Generative Models (1) - AutoEncoder, Variational AutoEncoder(VAE)](https://ahjeong.tistory.com/2)
+  * [CS231n Generative Models (2) - GAN](https://ahjeong.tistory.com/3)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
