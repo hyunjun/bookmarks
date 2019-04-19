@@ -821,6 +821,9 @@ TensorFlow
   * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [Time series classification with Tensorflow](https://www.datasciencecentral.com/profiles/blogs/time-series-classification-with-tensorflow)
 
+# Troubleshooting
+* [ImportError: numpy.core.xxx failed to import](https://jybaek.tistory.com/786)
+
 # Tutorial
 * [Tensorflow Tutorial : Part 1 – Introduction](https://machinelearningblogs.com/2017/09/07/tensorflow-tutorial-part-1-introduction/)
 * [Tensorflow Tutorial : Part 2 – Getting Started](https://machinelearningblogs.com/2017/09/14/tensorflow-tutorial-part-2-getting-started/)
