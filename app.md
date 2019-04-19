@@ -513,6 +513,8 @@ App
 * [MacBook: Dev Setup](https://hackernoon.com/macbook-dev-setup-5890e61a8f0a) homebrew, iterm2, zsh, sdkman등 설치 방법 소개
 * [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
+* [Back to Bash: Remove Zsh and terminal themes on a Mac step-by-step](https://medium.com/the-code-review/back-to-bash-remove-zsh-and-terminal-themes-on-a-mac-step-by-step-f89f69d2ec73)
+* [iTerm2, Zsh with Powerlevel9K — Power up your terminal‘s colour scheme and productivity level!](https://medium.com/the-code-review/make-your-terminal-more-colourful-and-productive-with-iterm2-and-zsh-11b91607b98c)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
