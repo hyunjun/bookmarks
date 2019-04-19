@@ -1,6 +1,16 @@
 Programming Books
 =================
 
+* mindmap
+  * [언어와 컴퓨터 과학 기초](https://www.mindmeister.com/502625671/_?fullscreen=1)
+  * [언어와 기초 이론](https://www.mindmeister.com/781068868/_?fullscreen=1)
+  * [백엔드 개발](https://www.mindmeister.com/530652609/_?fullscreen=1)
+  * [서버 운영과 데브옵스](https://www.mindmeister.com/774142178/_?fullscreen=1)
+  * [스카이넷도 딥러닝부터](https://www.mindmeister.com/812276967/_?fullscreen=1)
+  * [기본기 레벨업](https://www.mindmeister.com/529620367/_?fullscreen=1)
+  * [모바일 개발](https://www.mindmeister.com/1248268101/_?fullscreen=1)
+  * [게임과 그래픽스](https://www.mindmeister.com/528513515/_?fullscreen=1)
+  * [한빛미디어](https://www.mindmeister.com/523584665/_?fullscreen=1)
 * [bigbook.or.kr](http://www.bigbook.or.kr/)
 * [thebook.io](https://thebook.io/) 길벗
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
