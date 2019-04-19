@@ -858,6 +858,7 @@ Programming
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Iosevka](http://be5invis.github.io/Iosevka/)
 * [nerd-font - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more](https://github.com/ryanoasis/nerd-fonts)
+  * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
 * [Source Code Pro에 합자 추가하기](https://surpreem.com/source-code-pro%EC%97%90-%ED%95%A9%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
 
