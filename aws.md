@@ -35,6 +35,7 @@ AWS
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
 * [2019 AWS Summit Seoul 참관기 day 1 / 2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-7232b47135d1)
+* [AWS Summit Seoul2019:: Innovation Day - AWS는 어떻게 소매시장을 혁신시키는가?](https://deepinsight.tistory.com/72)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
 * [아마존 웹 서비스 계정 생성 후 해야하는 IAM 보안 조치 - 루트 사용자와 IAM 사용자의 차이](https://www.44bits.io/ko/post/first_actions_for_setting_secure_account)
