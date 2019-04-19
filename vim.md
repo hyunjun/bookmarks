@@ -143,6 +143,7 @@ Vim
 * [VIM을 이용하여 각 줄의 마지막 공백(Whitespace) 제거하기](http://kkamagui.tistory.com/904)
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
 * [Let Vim Do the Typing](https://www.youtube.com/watch?v=3TX3kV3TICU)
+* [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/)
 
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
