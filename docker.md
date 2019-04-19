@@ -364,6 +364,7 @@ Docker
   sudo docker exec [container id] ls /some/path/
   sudo docker exec <container id or name> sh -c 'chown www-data <absolute directory path>/*'  # apache flask 실행 후 log directory 권한이 충돌해 정상 호출이 불가능한 경우
   ```
+  * [Run bash or any command in a Docker container](https://medium.com/the-code-review/run-bash-or-any-command-in-a-docker-container-9a1e7f0ec204)
 * images `sudo docker images`
 * inspect `sudo docker inspect [container id] | grep IPAddress...`
 * kill `sudo docker kill [container id]`
@@ -618,6 +619,7 @@ Docker
   * [1부. minikube와 kubectl 사용해서 앱 배포하기](https://www.youtube.com/watch?v=IFc1mG48j0s)
   * [2부. Pod, Node 그리고 Service](https://www.youtube.com/watch?v=lVG9LU90ZQw)
   * [3부 (완결): 애플리케이션 스케일링과 롤링 업데이트](https://www.youtube.com/watch?v=6q1MRXNUzPU)
+* [How to securely deploy to Kubernetes from Bitbucket Pipelines](https://medium.freecodecamp.org/how-to-securely-deploy-to-kubernetes-from-bitbucket-pipelines-78e668f331b9)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
