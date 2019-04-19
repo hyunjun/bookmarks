@@ -1393,6 +1393,7 @@ Javascript
 * [Profiling React Server-Side Rendering to Free the Node.js Event Loop](https://medium.com/homeaway-tech-blog/profiling-react-server-side-rendering-to-free-the-node-js-event-loop-7f0fe455a901)
 * [How to build a CLI tool in NodeJS](https://medium.freecodecamp.org/how-to-build-a-cli-tool-in-nodejs-bc4f67d898ec)
 * [코딩 한 줄 없이 라인 봇으로 거짓말 탐지기 만들기!](https://engineering.linecorp.com/ko/blog/making-a-polygraph-chatbot/)
+* [How to build a movie bot with SAP Conversational AI and NodeJS](https://medium.freecodecamp.org/how-to-build-a-movie-bot-with-sap-conversational-ai-and-nodejs-5d7221b83267)
 * [코딩방송 Season1- EP 11. 통신3: NodeJS 웹서버](https://www.youtube.com/watch?v=rnFW4ESNk8w)
 * [코딩방송 Season1- EP 13. 웹소켓(WebSocket)](https://www.youtube.com/watch?v=KT7z1jT03BM)
 * [코딩방송 Season1- EP 14. 더 쉬운 웹소켓(WebSocket)](https://www.youtube.com/watch?v=PvuqG8TVaCo)
