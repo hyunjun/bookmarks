@@ -1038,3 +1038,5 @@ TensorFlow
 * [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
 * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
 * [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
+* [tensorflow_tutorial](https://github.com/wonseokjung/tensorflow_tutorial/) udacity course
+  * [Classifying Images of Clothing](https://github.com/wonseokjung/tensorflow_tutorial/blob/master/Classifying%20Images%20of%20Clothing.ipynb) Fashion MNIST 사용
