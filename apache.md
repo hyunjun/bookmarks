@@ -187,6 +187,7 @@ Apache
 * [About Flink streaming](https://www.slideshare.net/ssusera7e5ca/about-flink-streaming-126179502)
 * [A Brief History of Flink: Tracing the Big Data Engine’s Open-source Development](https://medium.com/@alitech_2017/a-brief-history-of-flink-tracing-the-big-data-engines-open-source-development-87464fd19e0f)
 * [Patterns of Streaming Applications](https://www.youtube.com/watch?v=RKIKbMi1H5E)
+* [Better to Give and to Receive: Alibaba’s Open-source Contributions to Flink](https://hackernoon.com/better-to-give-and-to-receive-alibabas-open-source-contributions-to-flink-295b3aef1da8)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
