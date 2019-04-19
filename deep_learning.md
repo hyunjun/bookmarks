@@ -1613,6 +1613,7 @@ Deep Learning
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 * **[머신러닝 BASIC - RNN과 LSTM에 대해](http://blog.naver.com/anthouse28/221026536458)**
 * [딥러닝 기반 기상 예측 모델 연구 사례 (1) : Convolutional LSTM](https://mikigom.github.io/jekyll/update/2017/06/13/deep-learning-forecast-research-1.html)
+* [DeepWeather](https://github.com/prl900/DeepWeather)
 * [#23. RNN & LSTM](http://t-robotics.blogspot.com/2017/06/23-rnn-lstm.html)
 * [RNN : LSTM 구조](https://www.youtube.com/watch?v=3h2tpYWzEa4&t=193s)
 * [#6.0. RNN & LSTM](https://www.youtube.com/watch?v=SoNtAjxA3Jo&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
@@ -2067,6 +2068,7 @@ CVPR2016)
 * [강화학습 이론 및 실습](https://speakerdeck.com/wonseokjung/reinforcement-learning-a2711ce7-83db-4c31-8ea3-ad5db0e1a9a9)
 * [The Fantasy Football AI framework](https://github.com/njustesen/ffai) based on Open AI Gym
 * [A (Long) Peek into Reinforcement Learning](https://lilianweng.github.io/lil-log/2018/02/19/a-long-peek-into-reinforcement-learning.html)
+* [The End of Open AI Competitions](https://towardsdatascience.com/the-end-of-open-ai-competitions-ff33c9c69846)
 * [Dopamine - a research framework for fast prototyping of reinforcement learning algorithms](https://github.com/google/dopamine)
   * [Google-Dopamine-Kr](https://github.com/yebgi83/Google-Dopamine-Kr)
 * MuJoCo [DeepMind MuJoCo Multi-Agent Soccer Environment](https://github.com/deepmind/dm_control/tree/master/dm_control/locomotion/soccer)
