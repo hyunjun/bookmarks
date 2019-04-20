@@ -588,6 +588,7 @@ App
 
 ## troubleshooting
 * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
+* [iMac 21.5-inch, Late 2009 HDD 교체](https://hyeonseok.com/soojung/hardware/2019/04/20/851.html)
 * [How to Reset the Bluetooth Hardware Module on Mac OS X to Troubleshoot Challenging Bluetooth Issues](http://osxdaily.com/2015/12/15/reset-bluetooth-hardware-module-mac-osx/)
 * [LCD dead pixel checker](http://lcdtech.info/en/tests/dead.pixel.htm)
 
