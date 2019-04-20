@@ -772,6 +772,8 @@ Java
   * [JUnit 5 Jupiter API 추가 특징: Assumption, @Nested, 태깅과 필터링](http://javacan.tistory.com/entry/JUnit-5-Jupiter-API-Assumption-Nested-Tagging)
   * [AppEngine unit testing made easy with JUnit Rules](https://medium.freecodecamp.org/appengine-unit-testing-made-easy-with-junit-rules-97c2127a161a)
   * [JUnit 테스트 메소드 실행 순서](https://www.youtube.com/watch?v=ouaHBQ-z2uI)
+  * [Victor Rentea - Unit Testing like a Pro: The Circle of Purity](https://www.youtube.com/watch?v=1Z_h55jMe-M)
+  * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Web
