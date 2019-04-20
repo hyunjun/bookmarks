@@ -1590,6 +1590,7 @@ Deep Learning
 * [cnn-watermark-removal - Fully convolutional deep neural network to remove transparent overlays from images](https://github.com/marcbelmont/cnn-watermark-removal)
 * [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 * [1.1 Questions to the Convolutional Neural Networks](https://www.youtube.com/watch?v=LHA_rpE1ERY)
+* [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
