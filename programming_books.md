@@ -20,6 +20,7 @@ Programming Books
 * 넘버스 - 수학으로 범죄 해결하기
   * 한라 410 데47ㄴ
   * 약간의 수학이 나오지만, 현실에서 수학을 어떻게 사용하는지에 대한 재미있는 이야기
+* (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * 아파치 플링크 - Learning Apache Flink
   * 한라 005.76 데56ㅇ
 * (NOT YET) [앤서블 철저 입문](http://book.daum.net/detail/book.do?bookid=BOK00033610325IN)
@@ -631,6 +632,9 @@ Programming Books
   * Logstash는 다루지 않으나, 데이터 분석 플랫폼 구축 및 활용에 도움
   * Fluentd의 비중이 높아 데이터 수집 및 정제에 대한 사례 참고에 좋음
 * (NOT YET) [일래스틱서치 쿡북 3/e 170가지 단계별 레시피](http://acornpub.co.kr/book/elasticsearch-cookbook-3)
+* (NOT YET) [실전비급 아파치 루씬 7](http://www.hanbit.co.kr/store/books/look.php?p_code=E1000467446)
+* (NOT YET) [실전비급 엘라스틱 스택 6.4](http://www.hanbit.co.kr/store/books/look.php?p_code=E2111484583)
+* (NOT YET) [엘라스틱서치 실무 가이드](https://www.facebook.com/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%8B%A4%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-343249896296014)
 
 # Finance
 
