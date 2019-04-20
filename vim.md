@@ -145,6 +145,8 @@ Vim
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
 * [Let Vim Do the Typing](https://www.youtube.com/watch?v=3TX3kV3TICU)
 * [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/)
+* [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
+* **[Talk on going mouseless with Vim, Tmux, and Hotkeys](https://www.youtube.com/watch?v=E-ZbrtoSuzw)**
 
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
