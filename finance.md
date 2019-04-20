@@ -9,6 +9,7 @@ Finance
 * [워렌 버핏을 따라하려 하지 말라](http://ppss.kr/archives/47373)
 * [그래햄의 NCAV(순유동자산) 전략 – 거저 먹기 투자, 한국에서 아직도 가능하다](https://m.snek.ai/alpha/article/108066)
 * [초등학생도 복리 20% 벌 수 있는 방법 (PBR + PER 콤보전략)](https://www.snek.ai/alpha/article/108070)
+* [할 수 있다! 알고 투자](https://www.youtube.com/channel/UCSWPuzlD337Y6VBkyFPwT8g)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie)
 * [투자, 기본으로 돌아가자](http://ppss.kr/archives/47315)
