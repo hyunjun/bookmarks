@@ -2110,6 +2110,7 @@ Javascript
 * [이제는 타입스크립트를 배워야합니다. (to 자바스크립트 개발자)](https://blog.hax0r.info/2019-03-12/typescript-in-fastcampus/)
 * [The easy way to get TypeScript interfaces from C#, Java, or Python code in any IDE](https://medium.freecodecamp.org/the-easy-way-to-get-typescript-interfaces-from-c-java-or-python-code-in-any-ide-c3acac1e366a)
 * [How (and why) you should use Typescript with Node and Express](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
+* [When to use TypeScript: a detailed guide through common scenarios](https://medium.freecodecamp.org/when-to-use-typescript-a-detailed-guide-through-common-scenarios-b0a57e57905)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
