@@ -668,6 +668,7 @@ Javascript
 * [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
 * [The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
 * [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
+* [ES6 and Beyond >](https://hackernoon.com/es6-and-beyond-28aed8574e00)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1077,6 +1078,7 @@ Javascript
     * [Part II](https://medium.freecodecamp.org/learn-how-to-build-astronomy-picture-of-the-day-app-with-nasa-api-and-react-redux-part-ii-83f15970d0e3)
   * [Getting started with Redux](https://hackernoon.com/getting-started-with-redux-aa37180dbe93)
   * [How to Setup Redux - Minimize Boilerplate, Speed Up Development](https://levelup.gitconnected.com/state-management-with-redux-50f3ec10c10a)
+  * [다이나믹 리덕스 리듀서(Dynamic Redux Reducers)](http://jellyms.kr/react/redux/2019/04/14/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%EB%A6%AC%EB%8D%95%EC%8A%A4-%EB%A6%AC%EB%93%80%EC%84%9C%28Dynamic-Redux-Reducers%29.html)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -1908,6 +1910,8 @@ Javascript
 * [A first look at firstBorn, React Native’s new component library](https://medium.freecodecamp.org/a-first-look-at-firstborn-react-natives-new-component-library-51403077a632)
 * [RN(React Native)에서 root import하기](https://dev-yakuza.github.io/ko/react-native/root-import/)
 * [리액트 네이티브(React Native) 제대로 알고 시작하기](https://www.youtube.com/watch?v=LqiP8HDDue8)
+* [How to build a React Native App in the old-school style](https://medium.freecodecamp.org/building-react-native-app-in-old-school-style-43f854a82a62)
+* [How to Turn React Components into Native Web Components](https://hackernoon.com/how-to-turn-react-component-into-native-web-component-84834315cb24)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
