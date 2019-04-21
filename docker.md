@@ -428,6 +428,7 @@ Docker
 * [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 * [파이썬 개발환경 구성하기의 끝판왕 - Docker Compose](https://www.slideshare.net/raccoonyy/docker-compose-98851170/raccoonyy/docker-compose-98851170)
 * **[도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기 컨테이너 시대의 Django 개발환경 구축하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)**
+* [A beginner’s guide to Docker — how to create a client/server side with Docker-Compose](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
