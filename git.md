@@ -154,6 +154,7 @@ Git
 * [How to be more productive on GitHub](https://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3)
 * [Mac OS X 터미널에서 Git 패스워드 기억하기](https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd)
 * [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)
+* [Mind your programming language](https://medium.freecodecamp.org/mind-your-programming-language-38e340a430a1) .gitattributes
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
