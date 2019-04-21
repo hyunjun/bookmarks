@@ -248,6 +248,7 @@ App
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
+* Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 
 # Comminucation
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
@@ -263,6 +264,7 @@ App
   * [개발툴에 대한 선배의 조언](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104420)
   * [개발자를 위한 소소한 개발툴 활용팁](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104930)
 * [A better web development workflow: Confluence, Airtable, Jira and Abstract](https://medium.freecodecamp.org/a-better-web-development-workflow-confluence-airtable-jira-abstract-e626ef4ff5bc)
+* [Personal Setup](https://github.com/opnay/PersonalSetup) linux program & configuration
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
