@@ -383,12 +383,12 @@ Vision
   * [dataset](https://github.com/gellston/DeepLearningExamples/tree/master/dataset/portrait_segmentation_input256x256)
 * [Deep Learning based Edge Detection in OpenCV](https://cv-tricks.com/opencv-dnn/edge-detection-hed)
 * [tf_train_opencv_run - It shows how to generate a \*.pb file with Tensorflow and how to use the \*.pb file in an OpenCV application](https://github.com/sunkyoo/tf_train_opencv_run)
-* [이미지 프로세싱 & 컴퓨터 시각화 1부](https://kimx3129.github.io/emerald/code-syntax)
-* [이미지 프로세싱 & 컴퓨터 시각화 2부](https://kimx3129.github.io/emerald/introduction-opencv)
-* [이미지 프로세싱 & 컴퓨터 시각화 3부](https://kimx3129.github.io/emerald/color-theory)
-* [이미지 프로세싱 & 컴퓨터 시각화 4부](https://kimx3129.github.io/emerald/draw-roi)
-* [이미지 프로세싱 & 컴퓨터 시각화 5부](https://kimx3129.github.io/emerald/blend)
-* [이미지 프로세싱 & 컴퓨터 시각화 6부](https://kimx3129.github.io/emerald/blend2)
+* [이미지 프로세싱 & 컴퓨터 시각화 1부](https://blog.naver.com/zeus05100/221518839590)
+* [이미지 프로세싱 & 컴퓨터 시각화 2부](https://blog.naver.com/zeus05100/221518844944)
+* [이미지 프로세싱 & 컴퓨터 시각화 3부](https://blog.naver.com/zeus05100/221518847873)
+* [이미지 프로세싱 & 컴퓨터 시각화 4부](https://blog.naver.com/zeus05100/221518850510)
+* [이미지 프로세싱 & 컴퓨터 시각화 5부](https://blog.naver.com/zeus05100/221518852637)
+* [이미지 프로세싱 & 컴퓨터 시각화 6부](https://blog.naver.com/zeus05100/221518844944)
 * [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 
 # OpenGL
