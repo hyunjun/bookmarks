@@ -2081,6 +2081,7 @@ CVPR2016)
 * [Reinforcement Learning Applications](https://medium.com/@yuxili/rl-applications-73ef685c07eb)
 * [Structural implementation of RL key algorithms https://www.medipixel.io ](https://github.com/medipixel/rl_algorithms)
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
+* [TetrisXQ - Difficult and annoying Tetris implemented by Reinforcement Lrarning](https://github.com/junghyun397/TetrisXQ)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
