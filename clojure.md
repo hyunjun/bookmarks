@@ -540,6 +540,7 @@ Clojure
 * [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
+* [crux - open source document database with bitemporal graph queries](https://juxt.pro/crux/index.html)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
 * Datalog
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
