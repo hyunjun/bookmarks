@@ -394,6 +394,9 @@ Vision
 * [OpenCV 3.4 with Python 3 Tutorial](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa__vnifNA744Cz-q)
 * [Gaze controlled keyboard with Opencv and Python](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlvHb5OfFLUJ90ofBuoU5g8)
 * [Remove background tutorial - opencv 3.2 with python 3](https://www.youtube.com/watch?v=TUeCIFznhOk)
+* [OpenCV + Python build (1/2) - python+OpenCV install](https://www.youtube.com/watch?v=3BYyKDJId0w)
+* [OpenCV + Python build (2/2) - vs code setting](https://www.youtube.com/watch?v=mSfkdCEwk1s)
+* [Face recognition — OpenCV](https://medium.com/data-science-101/face-recognition-opencv-e841dc0006c6)
 
 # OpenGL
 * [open.gl](https://open.gl/)
