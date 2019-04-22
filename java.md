@@ -393,6 +393,7 @@ Java
 * **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 * **[Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)**
+* VisualVM [Performance Profiling During Your Development Workflow](https://hackernoon.com/performance-profiling-during-your-development-workflow-ebff78afb71c)
 
 # Lambda
 * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
@@ -440,6 +441,8 @@ Java
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 * [Fig - Java elegant supplement](http://wapatesh.github.io/fig/)
 * [Flow - Record your application executions and visualize what happened at runtime through an interactive web interface](http://findtheflow.io/)
+* [flowable - provides a core set of open source business process engines](https://www.flowable.org/)
+  * [Saga Process Orchestration in Java Using the Flowable Process Engine](https://medium.freecodecamp.org/saga-process-orchestration-in-java-using-the-flowable-process-engine-6baa9593bbcc)
 * [Google](https://github.com/google)
   * [guice](https://github.com/google/guice)
     * [Guice를 이용한 Dependency Injection](http://netframework.tistory.com/entry/Google-Guice%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DI-1)
