@@ -999,6 +999,7 @@ Javascript
 * [OpenSC2K - An Open Source remake of SimCity 2000 written in JavaScript using HTML5 Canvas API, SQLite and built on Electron](https://github.com/rage8885/OpenSC2K)
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)
+  * [How to build a drawing app with p5js](https://medium.freecodecamp.org/how-to-build-a-drawing-app-with-p5js-9b8d16e9364a)
 * Passport.js
   * [Passport.js](https://opentutorials.org/course/3402)
   * [Node Passport를 이용한 Login](https://cheese10yun.github.io/Passport-part1/)
@@ -1511,6 +1512,7 @@ Javascript
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
 
 # [React](http://reactkr.github.io/react)
+* [egoing.github.io/react-tutorial-example](https://egoing.github.io/react-tutorial-example)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [리액트 quick start 노트](https://www.haruair.com/blog/4303)
 * [리액트 Advanced guides 전반부 노트](https://www.haruair.com/blog/4313)
@@ -1912,6 +1914,7 @@ Javascript
 * [리액트 네이티브(React Native) 제대로 알고 시작하기](https://www.youtube.com/watch?v=LqiP8HDDue8)
 * [How to build a React Native App in the old-school style](https://medium.freecodecamp.org/building-react-native-app-in-old-school-style-43f854a82a62)
 * [How to Turn React Components into Native Web Components](https://hackernoon.com/how-to-turn-react-component-into-native-web-component-84834315cb24)
+* [특정 파일로 앱 열기](https://dev-yakuza.github.io/ko/react-native/open-file-with-app/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
