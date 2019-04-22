@@ -57,6 +57,7 @@ Google Cloud Platform GCP
   * [5탄 — Cloud Build 를 통한 CI/CD](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-5%ED%83%84-cloud-build-%EB%A5%BC-%ED%86%B5%ED%95%9C-ci-cd-47f1486937e4)
   * [6탄 — Cloud IAM 과 Kubernetes RBAC](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6%ED%83%84-cloud-iam-%EA%B3%BC-kubernetes-rbac-f02b52cf538e)
   * [7탄 — Istio 로 하는 Service Mesh](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-7%ED%83%84-istio-%EB%A1%9C-%ED%95%98%EB%8A%94-service-mesh-9e9363945cbb)
+  * [8탄 — Istio 더 알아보기1 (Traffic Management)](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-8%ED%83%84-istio-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B01-traffic-management-bc7b3674b7f2)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
 * [Deep learning VM](http://bcho.tistory.com/1298)
   * [cloud.google.com/deep-learning-vm/docs/concepts-images](https://cloud.google.com/deep-learning-vm/docs/concepts-images)
@@ -67,3 +68,4 @@ Google Cloud Platform GCP
 * [좌충우돌 CLOUD 학습기(이동민)](https://www.slideshare.net/DONGMINLEE15/cloud-137939221)
 * [Google Cloud Platform: Creating an Instance and Configuring DNS](https://hackingandslacking.com/google-cloud-platform-creating-an-instance-and-configuring-dns-7043875fd7d4)
 * [Introducing Anthos: An entirely new platform for managing applications in today's multi-cloud world](https://cloud.google.com/blog/topics/hybrid-cloud/new-platform-for-managing-applications-in-todays-multi-cloud-world)
+* [Deploy App Containers with Google Cloud’s App Engine](https://hackingandslacking.com/deploy-app-containers-with-gcp-app-engine-1681bd120357)
