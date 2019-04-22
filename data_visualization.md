@@ -81,6 +81,7 @@ Data Visualization
 * [10 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce)
 * [Analysis of Developers Trends with JavaScript Pivot Table and Charting Library](https://medium.com/@veronikarovnik/analysis-of-developers-trends-with-javascript-pivot-table-and-charting-library-b7b6e16ab71b)
 * [Matplotlib tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
+* [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
 
 # D3.js
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
