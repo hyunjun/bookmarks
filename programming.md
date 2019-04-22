@@ -383,7 +383,7 @@ Programming
   * [스스로의 한계를 두지 않는 Service Reliability Engineer, 노승헌](https://engineering.linecorp.com/ko/blog/line-developer-interview-2/) 직접적인 개발 이야기는 아니지만, CDN에 대한 이야기가 있음
   * [토비의 봄 TV 스페셜 - 강대명 - 캐시의 모든 것](https://www.youtube.com/watch?v=zkbvFOwJFgA)
   * [Design Of A Modern Cache—Part Deux](http://highscalability.com/blog/2019/2/25/design-of-a-modern-cachepart-deux.html)
-  * [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde030
+  * [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
   * **[캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)** cache 내부 동작에 대한 상세한 설명을 하는 좋은 글
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
@@ -408,8 +408,10 @@ Programming
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
   * Divide and conquer가 아니라 conquer and divide를 이야기하는 부분은 일단 working solution/system을 만들고 opimization을 하라는 것과 일맥상통한다는 생각
 * **[결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)**
-* **[최신 브라우저의 내부 살펴보기 1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)** 매우 좋은 번역 글
-* [최신 브라우저의 내부 살펴보기 2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+* 최신 브라우저의 내부 살펴보기 
+  * **[1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)** 매우 좋은 번역 글
+  * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
+  * [3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
 * [QWER.GG 를 통해 배운 것들](https://seokjun.kim/what-i-learned-from-qwer-gg/)
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
