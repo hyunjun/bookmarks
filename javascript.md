@@ -993,6 +993,7 @@ Javascript
   * [Nest js를 소개 합니다](https://studystorage.blogspot.com/2019/03/nest-js.html)
   * [nestjs와 loopback, 호기심을 자극하는 2019년의 nodejs 웹프레임워크](https://paperspoon.tistory.com/entry/nestjs%EC%99%80-loopback-%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-2019%EB%85%84%EC%9D%98-nodejs-%EC%9B%B9%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
   * [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
+  * [Nestjs / CRUD](https://loveloper.tistory.com/11)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
 * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
