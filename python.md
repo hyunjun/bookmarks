@@ -1197,6 +1197,8 @@ Python
 * [Elizaveta Shashkova - Debugging in Python 3.6: Better, Faster, Stronger](https://www.youtube.com/watch?v=sAvOZlbh9mQ)
   * [PEP 523 Experiments](https://github.com/elizaveta239/frame-eval)
 * PyConKr 2018 **[GDB와 strace로 Hang 걸린 Python Process 원격 디버깅](https://www.slideshare.net/kym970918/gdb-strace-hang-python-process-110423511)**
+* [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
+* [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
 
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
@@ -1947,7 +1949,6 @@ Python
   * [Installing boost and boost-python on OSX with Homebrew](http://www.pyimagesearch.com/2015/04/27/installing-boost-and-boost-python-on-osx-with-homebrew/)
 * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
-* [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
 * Celery
