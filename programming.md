@@ -201,6 +201,7 @@ Programming
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
 * [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.popit.kr/%ED%9D%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%9E%91%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%82%AC%EB%AD%87-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/) naming
   * 변수명에 대한 관점 차이를 해소하는 과정 이야기
+* [#naming closing, closed 대신 will close, did close](http://ohyecloudy.com/pnotes/archives/naming-will-close-or-closing/)
 * [그룹웨어 결재 기능으로 보이는 동료의 작명 검토를 하다가...](https://www.popit.kr/%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4-%EA%B2%B0%EC%9E%AC-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%84-%EB%B3%B4%EB%A9%B4%EC%84%9C)
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
@@ -795,6 +796,7 @@ Programming
 * [개발 (CODING) 하는 회사에서 제일 기본적으로 갖추어져야 하는것 1 - 릴리스 파이프라인 (Release Pipeline)](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EA%B0%9C%EB%B0%9C-coding-%ED%95%98%EB%8A%94-%ED%9A%8C%EC%82%AC%EC%97%90%EC%84%9C-%EC%A0%9C%EC%9D%BC-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%96%EC%B6%94%EC%96%B4%EC%A0%B8%EC%95%BC-%ED%95%98%EB%8A%94%EA%B2%83-1-%EB%A6%B4%EB%A6%AC%EC%8A%A4-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-release-pipeline/10156481526308462)
 * [Agile + DevOps EAST 2018에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/agile-devops-east-2018/)
 * [Public Cloud(AWS) 기반 CD(Continuous Delivery or Continuous Deploy) 도입](https://zuminternet.github.io/ZUM-deploy-on-AWS)
+* [How to get started with Continuous Integration](https://medium.freecodecamp.org/how-to-get-started-with-continuous-integration-7b2f8d87c914)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
