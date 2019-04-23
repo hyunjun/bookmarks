@@ -545,6 +545,7 @@ Clojure
 * Datalog
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
   * [Learn Datalog Today](http://www.learndatalogtoday.org/)
+* [Dativity - a stateless, data driven process engine library for Clojure and ClojureScript](https://github.com/agentbellnorm/dativity)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
 * [debug-repl](https://github.com/gfredericks/debug-repl)
