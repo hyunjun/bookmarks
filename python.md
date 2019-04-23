@@ -398,6 +398,7 @@ Python
   * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
   * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
+  * [Kivy Intro - Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=FjwD0SOGQ1k)
 
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
@@ -2299,6 +2300,7 @@ Python
   * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
   * [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
+  * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [Pykka - a Python implementation of the actor model](https://www.pykka.org/)
 * pyldap
