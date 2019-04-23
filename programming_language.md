@@ -103,6 +103,8 @@ Programming Language
 * [Ballerina - Cloud Native Programming Language](https://ballerina.io/)
 * Basic
   * [GWBASIC 레거시 이야기](http://thdev.net/744)
+* [Bosque programming language - an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle](https://github.com/Microsoft/BosqueLanguage)
+  * [Microsoft Launches Bosque: An Open Source Programming Language](https://www.technotification.com/2019/04/microsoft-launches-bosque-programming-language.html)
 * C2lang
   * [C2 language design](http://c2lang.org/docs/c2lang_design.pdf)
 * [Ceylon](http://ceylon-lang.org/)
