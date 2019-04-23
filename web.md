@@ -138,6 +138,7 @@ Web
 * [“To be a good designer you must be a good engineer in every sense: curious, inquisitive](https://www.degreeless.design/) design 자습 자료
 * [2018년, Mozilla Hacks Top 10](http://hacks.mozilla.or.kr/2019/01/mozilla-hacks-10-most-read-posts-of-2018/)
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
+* [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
 
 # Apache
 * installation
