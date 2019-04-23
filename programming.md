@@ -554,6 +554,7 @@ Programming
 * [AWSKRUG Serverless Group](https://github.com/awskrug/serverless-group)
 * [서버리스 컴퓨팅 시대의 풀 스택 개발](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f) Serviceful serverless, AWS Amplify
 * [어디에나 있지만 어디에도 없는 LINE 게임의 분석 환경](https://engineering.linecorp.com/ko/blog/line-game-data-analysis/) Line 게임의 데이터 설계, 수집, 처리, 분석
+* [Serveless를 위한 오픈소스 KNative](https://bcho.tistory.com/1322)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
