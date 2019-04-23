@@ -349,6 +349,7 @@ AWS
 * [AWS 파게이트 가격 30%-50% 인하 발표 vCPU 20%, 메모리 65% 인하. 서울 리전을 포함해 1월 7일부터 적용](https://www.44bits.io/ko/post/news--fargate-significant-price-cuts)
 * [ECS-CLI로 서울리전 Fargate 만들어보기](https://medium.com/harrythegreat/ecs-cli%EB%A1%9C-%EC%84%9C%EC%9A%B8%EB%A6%AC%EC%A0%84-fargate-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-bcf72a6595ad)
 * [Fargate를 이용한 ECS with VPC 1부](https://www.slideshare.net/HyunMookChoi/fargate-ecs-with-vpc-1)
+* [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # Lambda
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
