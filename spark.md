@@ -762,6 +762,7 @@
 * [Windowing Functions in Spark SQL Part 3 | Aggregation Functions | Windowing Functions Tutorial](https://www.youtube.com/watch?v=pNEU3SkfyAw)
 * [Windowing Functions in Spark SQL Part 4 | Row_Number, Rank and Dense_Rank in SQL](https://www.youtube.com/watch?v=hoOwDUrodhM)
 * [Simplifying Change Data Capture with Databricks Delta](https://databricks.com/blog/2018/10/29/simplifying-change-data-capture-with-databricks-delta.html)
+* [Spark DataFrameWriter에서 saveAsTable 의 동작](https://charsyam.wordpress.com/2019/04/23/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-dataframewriter%EC%97%90%EC%84%9C-saveastable-%EC%9D%98-%EB%8F%99%EC%9E%91/)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
