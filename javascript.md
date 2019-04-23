@@ -472,6 +472,8 @@ Javascript
 * [Which programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ](https://medium.freecodecamp.org/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d)
 * [Number.toHumanify](https://codepen.io/myso-kr/pen/wZMpXY)
 * [Javascript refactoring workshop](https://www.slideshare.net/jaehoonoh/javascript-refactoring-workshop)
+* [When to use a function declaration vs. a function expression](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
+* [From Java to JavaScript — Functions and Scopes](https://medium.com/@reime005/from-java-to-javascript-functions-and-scopes-9bea24c7cfb)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1401,6 +1403,8 @@ Javascript
 * [코딩방송 Season1- EP 13. 웹소켓(WebSocket)](https://www.youtube.com/watch?v=KT7z1jT03BM)
 * [코딩방송 Season1- EP 14. 더 쉬운 웹소켓(WebSocket)](https://www.youtube.com/watch?v=PvuqG8TVaCo)
 * [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
+* [You should never ever run directly against Node.js in production. Maybe](https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6)
+* [Node.js: what it is, when and how to use it, and why you should](https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1827,6 +1831,7 @@ Javascript
 * [How to understand a component’s lifecycle methods in ReactJS](https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630)
 * [A beginner’s guide to getting started with React](https://medium.freecodecamp.org/a-beginners-guide-to-getting-started-with-react-c7f34354279e)
 * [How to create your portfolio website using React.js](https://medium.freecodecamp.org/portfolio-app-using-react-618814e35843)
+* [How I architected a single-page React application](https://medium.freecodecamp.org/how-i-architected-a-single-page-react-application-3ebd90f59087)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
