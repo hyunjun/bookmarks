@@ -50,6 +50,7 @@ Azure
 * [Azure WebApp in 2018](https://youngjaekim.wordpress.com/2019/03/30/azure-webapp-in-2018/)
 * [Azure Blockchain](https://youngjaekim.wordpress.com/2019/03/30/azure-blockchain/)
 * [Azure Service Fabric Mesh는 아직 애매하다](https://youngjaekim.wordpress.com/2019/03/31/azure-service-fabric-mesh%EB%8A%94-%EC%95%84%EC%A7%81-%EC%95%A0%EB%A7%A4%ED%95%98%EB%8B%A4/)
+* [ARM 템플릿으로 시크릿 값을 넘겨주는 여섯 가지 방법](https://blog.aliencube.org/ko/2019/04/23/6-ways-passing-secrets-to-arm-templates)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
