@@ -474,6 +474,7 @@ Javascript
 * [Javascript refactoring workshop](https://www.slideshare.net/jaehoonoh/javascript-refactoring-workshop)
 * [When to use a function declaration vs. a function expression](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
 * [From Java to JavaScript — Functions and Scopes](https://medium.com/@reime005/from-java-to-javascript-functions-and-scopes-9bea24c7cfb)
+* [How to make a cross-browser extension using JavaScript and browser APIs](https://medium.freecodecamp.org/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1083,6 +1084,7 @@ Javascript
   * [Getting started with Redux](https://hackernoon.com/getting-started-with-redux-aa37180dbe93)
   * [How to Setup Redux - Minimize Boilerplate, Speed Up Development](https://levelup.gitconnected.com/state-management-with-redux-50f3ec10c10a)
   * [다이나믹 리덕스 리듀서(Dynamic Redux Reducers)](http://jellyms.kr/react/redux/2019/04/14/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%EB%A6%AC%EB%8D%95%EC%8A%A4-%EB%A6%AC%EB%93%80%EC%84%9C%28Dynamic-Redux-Reducers%29.html)
+  * [How to connect React to Redux — a diagrammatic guide](https://medium.freecodecamp.org/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -1833,6 +1835,7 @@ Javascript
 * [A beginner’s guide to getting started with React](https://medium.freecodecamp.org/a-beginners-guide-to-getting-started-with-react-c7f34354279e)
 * [How to create your portfolio website using React.js](https://medium.freecodecamp.org/portfolio-app-using-react-618814e35843)
 * [How I architected a single-page React application](https://medium.freecodecamp.org/how-i-architected-a-single-page-react-application-3ebd90f59087)
+* [How to create email chips in pure React](https://medium.freecodecamp.org/how-to-create-email-chips-in-pure-react-ad1cc3ecea16)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
