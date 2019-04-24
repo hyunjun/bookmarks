@@ -207,6 +207,7 @@ Python
   * [PyCharm에서 matplotlib.animation이 작동하지 않을 때](https://surpreem.com/pycharm%ec%97%90%ec%84%9c-matplotlib-animation%ec%9d%b4-%ec%9e%91%eb%8f%99%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%84-%eb%95%8c/)
   * [PyCharm에서 multiarray numpy 확장 모듈 임포트 실패할 때](https://surpreem.com/pycharm%ec%97%90%ec%84%9c-multiarray-numpy-%ed%99%95%ec%9e%a5-%eb%aa%a8%eb%93%88-%ec%9e%84%ed%8f%ac%ed%8a%b8-%ec%8b%a4%ed%8c%a8%ed%95%a0-%eb%95%8c/)
   * [Configuring Jupyter Notebook](https://www.jetbrains.com/help/pycharm/configuring-jupyter-notebook.html)
+  * [파이참, 파이썬 강좌가 필요없는 튜토리얼 활용법!](https://tariat.tistory.com/602)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap ](https://github.com/sethoscope/heatmap)
