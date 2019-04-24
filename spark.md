@@ -370,6 +370,14 @@
 * [Learn Spark Scala with Clara: RDD](https://medium.com/@onsbouneb1/learn-spark-scala-with-clara-rdd-9395bd01cd52)
 * [Apache Spark’s Hidden REST API](http://arturmkrtchyan.com/apache-spark-hidden-rest-api)
 * [Spark Session vs Spark Context](https://medium.com/@achilleus/spark-session-10d0d66d1d24)
+* Exploring Spark DataSource V2
+  * [Part 1 : Limitations of Data Source V1 API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-1/)
+  * [Part 2 : Anatomy of V2 Read API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-2/)
+  * [Part 3 : In-Memory DataSource](http://blog.madhukaraphatak.com/spark-datasource-v2-part-3/)
+  * [Part 4 : In-Memory DataSource with Partitioning](http://blog.madhukaraphatak.com/spark-datasource-v2-part-4/)
+  * [Part 5 : Filter Push](http://blog.madhukaraphatak.com/spark-datasource-v2-part-5/)
+  * [Part 6 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-6/)
+  * [Part 7 : Meetup Talk](http://blog.madhukaraphatak.com/spark-datasource-v2-part-7/)
 * aggregate
 
   ```
@@ -443,14 +451,7 @@
   * [Learning Spark SQL with Zeppelin](https://hortonworks.com/tutorial/learning-spark-sql-with-zeppelin/)
   * [SQL Pivot: Converting Rows to Columns](https://databricks.com/blog/2018/11/01/sql-pivot-converting-rows-to-columns.html) 2.4
   * [SQL at Scale with Apache Spark SQL and DataFrames — Concepts, Architecture and Examples](https://towardsdatascience.com/sql-at-scale-with-apache-spark-sql-and-dataframes-concepts-architecture-and-examples-c567853a702f)
-* Exploring Spark DataSource V2
-  * [Part 1 : Limitations of Data Source V1 API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-1/)
-  * [Part 2 : Anatomy of V2 Read API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-2/)
-  * [Part 3 : In-Memory DataSource](http://blog.madhukaraphatak.com/spark-datasource-v2-part-3/)
-  * [Part 4 : In-Memory DataSource with Partitioning](http://blog.madhukaraphatak.com/spark-datasource-v2-part-4/)
-  * [Part 5 : Filter Push](http://blog.madhukaraphatak.com/spark-datasource-v2-part-5/)
-  * [Part 6 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-6/)
-  * [Part 7 : Meetup Talk](http://blog.madhukaraphatak.com/spark-datasource-v2-part-7/)
+* trigger [Spark Trigger Options](https://dzone.com/articles/spark-trigger-options)
 
 # Book
 * **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
