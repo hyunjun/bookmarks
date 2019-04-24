@@ -768,6 +768,8 @@ Machine Learning
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
 * [DL-Learner - a framework for supervised Machine Learning in OWL, RDF and Description Logics](http://dl-learner.org/)
   * [A tool for supervised Machine Learning in OWL and Description Logics](https://github.com/AKSW/DL-Learner)
+* [DVC - Open-source Version Control System for Machine Learning Projects](https://dvc.org/)
+  * [Data version control with DVC. What do the authors have to say?](https://towardsdatascience.com/data-version-control-with-dvc-what-do-the-authors-have-to-say-3c3b10f27ee)
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
