@@ -162,6 +162,7 @@ Interview
 * [아마존 인터뷰 필수 팁](https://www.youtube.com/watch?v=ChWSHVbZbAo) behavioral
 * [Amazon Interview](https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
 * [시니어 개발자로 가는 길](https://brunch.co.kr/@minchang/13)
+* [tech-interview-handbook - Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
