@@ -465,6 +465,9 @@ Clojure
 * [untangled - A ClojureScript-based webapp framework](http://untangled-web.github.io/untangled/index.html)
 * [zprint - A fast zprint filter](https://github.com/kkinnear/zprint/blob/master/doc/graalvm.md)
 
+# Conference
+* [DUTCH CLOJURE DAYS 2019](https://www.youtube.com/playlist?list=PLjzcwcP9P2Lfcz38lDtMF_XupRnecKokz)
+
 # Library
 * [The Top 100 Clojure Libraries in 2016 - After Analyzing 30,000+ Dependencies](http://blog.takipi.com/the-top-100-clojure-libraries-in-2016-after-analyzing-30000-dependencies/)
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
