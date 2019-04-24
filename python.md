@@ -1394,6 +1394,7 @@ Python
 * [My Favorite Django Packages in 2019](https://vsupalov.com/favorite-django-packages-2019/)
 * [Django Web Development with Python Introduction](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
 * [Django 2.2 LTS 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-2-2-release-note-summary)
+* [Serving React and Django together](https://hackernoon.com/serving-react-and-django-together-2089645046e4)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -1413,6 +1414,26 @@ Python
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
 * [EuroPython 2018](https://ep2018.europython.eu/p3/schedule/ep2018/)
   * [EuroPython 2018](https://www.youtube.com/playlist?list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
+
+# Excel
+* [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
+* [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
+* openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
+* [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
+* [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
+* [XlsxWriter - Creating Excel files with Python and XlsxWriter](http://xlsxwriter.readthedocs.io/)
+  * practice; encoding 문제로 저장한 csv를 excel에서 열었더니 글자가 깨져 보일 때
+
+    ```
+    $ pip install xlwt xlsxwriter
+
+    import pandas as pd
+    df = pd.read_csv('some_file.csv', encoding='utf-8')
+    writer = pd.ExcelWriter('some_file-r.xlsx', engine='xlsxwriter',options={'encoding':'utf-8'})
+    df.to_excel(writer, sheet_name='Sheet1')
+    writer.save()
+    ```
+  * [Working with Python Pandas and XlsxWriter](http://xlsxwriter.readthedocs.io/working_with_pandas.html)
 
 # Flask
 * practice
@@ -2117,7 +2138,6 @@ Python
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [img2txt - Image to Ascii Text, can output to html or ansi terminal](https://github.com/hit9/img2txt)
-* [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
@@ -2259,7 +2279,6 @@ Python
 * [pycallgraph - call graph visualizations for Python applications](http://pycallgraph.readthedocs.io/)
   * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
-* [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
@@ -2577,20 +2596,6 @@ Python
 * [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in) terminal에서 curl로 날씨 확인
   * [wttr.in/제주](https://wttr.in/%EC%A0%9C%EC%A3%BC)
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
-* [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
-* [XlsxWriter - Creating Excel files with Python and XlsxWriter](http://xlsxwriter.readthedocs.io/)
-  * practice; encoding 문제로 저장한 csv를 excel에서 열었더니 글자가 깨져 보일 때
-
-    ```
-    $ pip install xlwt xlsxwriter
-
-    import pandas as pd
-    df = pd.read_csv('some_file.csv', encoding='utf-8')
-    writer = pd.ExcelWriter('some_file-r.xlsx', engine='xlsxwriter',options={'encoding':'utf-8'})
-    df.to_excel(writer, sheet_name='Sheet1')
-    writer.save()
-    ```
-  * [Working with Python Pandas and XlsxWriter](http://xlsxwriter.readthedocs.io/working_with_pandas.html)
 * [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
@@ -3108,5 +3113,4 @@ Python
 * [Windows COM (ActiveX) client 사용](http://mcchae.egloos.com/11296102)
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
 * [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)
-* [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
 * [Lesson One Video - Intro to the VBA Model in Python](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-vba)
