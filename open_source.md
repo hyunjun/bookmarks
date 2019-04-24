@@ -51,6 +51,7 @@ Open Source
 * [한국 오픈소스 프로젝트 랭킹 Top 100 한국의 대표 오픈소스 프로젝트, 그리고 이를 만드는 사람과 회사](https://medium.com/supple/%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-top-100-739dafc082cf)
 * [DMLC 맴버로 초청받다](http://freesearch.pe.kr/archives/4941)
 * [리니지M은 어떤 오픈소스를 사용했을까?](https://blog.naver.com/pjt3591oo/221035837016)
+* [오픈소스 프로젝트 운영 경험 공유](https://tv.naver.com/v/5635839)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
