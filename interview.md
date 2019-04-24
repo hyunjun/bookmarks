@@ -296,6 +296,7 @@ Interview
   * [coding.sh](http://coding.sh/) online programming
 * [careercup.com](https://www.careercup.com)
 * [checkio.org](https://checkio.org/) python, javascript
+* [codela.io](https://www.codela.io)
 * [code-fight.club](http://code-fight.club/)
 * [codechef](https://www.codechef.com/)
 * [codefights.com](https://codefights.com/)
@@ -364,6 +365,9 @@ Interview
   * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
   * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
 * [Programming Interview Questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
+* [CSPA COMPUTER SCIENCE PROFICIENCY ASSESSMENT](https://cspa.io)
+* [Data Interview Qs](https://www.interviewqs.com)
+* [interviewlab.io](https://interviewlab.io)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
@@ -375,6 +379,7 @@ Interview
 * [Ask HN: Who is hiring? (July 2015)](https://news.ycombinator.com/item?id=9812245)
 * [Where do I find software engineering jobs?](https://medium.com/job-advice-for-software-engineers/where-do-i-find-software-engineering-jobs-253dc08a8e54)
 * [angellist](https://angel.co/)
+* [app.afterinterview.com](https://app.afterinterview.com) 회사별 인터뷰 기록 사이트?
 * [berlinstartupjobs.com](http://berlinstartupjobs.com/)
 * [coderjobs.net - A curated list of jobs for software developers](http://coderjobs.net/)
 * [getlinks.co](https://getlinks.co/)
@@ -385,6 +390,7 @@ Interview
   * [북미 취업 도움 되는 사이트 추천 Hired](http://hardworkers.tistory.com/167)
   * [2018 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2018)
   * [2017 STATE OF GLOBAL TECH SALARIES](https://hired.com/state-of-salaries-2017)
+* [interviewinsider.io](https://interviewinsider.io/) 회사별 아주 간단한 인터뷰 정보 요약
 * [jobpoacher.com](https://jobpoacher.com/)
 * [jobstart](https://www.jobstart.co/)
 * [jobtrial - Work for 3 days, and decide](http://jobtrial.co/)
