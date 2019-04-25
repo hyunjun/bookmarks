@@ -399,7 +399,7 @@ Python
   * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
   * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
-  * [Kivy Intro - Mobile and Desktop App Dev w/ Python](https://www.youtube.com/watch?v=FjwD0SOGQ1k)
+  * [Kivy - Mobile and Desktop App Dev w/ Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF)
 
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
