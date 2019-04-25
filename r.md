@@ -290,6 +290,7 @@ R
 * [Writing clean and readable R code the easy way](https://www.r-bloggers.com/writing-clean-and-readable-r-code-the-easy-way/)
 * [R의 날짜와 시간](http://ds.sumeun.org/?p=1111)
 * [Reproducible Environments](https://www.r-bloggers.com/reproducible-environments/)
+* [Encryptr now makes it easy to encrypt and decrypt files](https://www.r-bloggers.com/encryptr-now-makes-it-easy-to-encrypt-and-decrypt-files/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
