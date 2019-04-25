@@ -922,6 +922,7 @@ Programming
   * [RabbitMQ client 에서 useNio 사용시 timeout 이 먹히지 않는현상…](http://blog.leekyoungil.com/?p=462)
   * [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b)
   * [ElasticScaling on the fly NoOps: Hotswapping slow function calls with RabbitMQ](https://medium.com/@reinman/replacing-your-function-calls-with-rabbitmq-on-the-fly-36e08c6d5c2c)
+  * [pymqdemo - Python RabbitMQ demo for deeplearning](https://github.com/booiljung/pymqdemo)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * [ZeroMQ](http://kr.zeromq.org/)
