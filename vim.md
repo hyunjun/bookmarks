@@ -147,6 +147,7 @@ Vim
 * [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/)
 * [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
 * **[Talk on going mouseless with Vim, Tmux, and Hotkeys](https://www.youtube.com/watch?v=E-ZbrtoSuzw)**
+* [Vim Makes Everything Better, Especially Your File Manager And Shell!](https://www.youtube.com/watch?v=a4scYdubKbo)
 
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
