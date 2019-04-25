@@ -266,6 +266,7 @@ Algorithm
 * [Dijkstra - The Simple, Elegant Algorithm That Makes Google Maps Possible](http://motherboard.vice.com/read/the-simple-elegant-algorithm-that-makes-google-maps-possible)
 * [다익스트라 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/26/dtra/)
 * [11.3 다익스트라 알고리즘](http://ehclub.co.kr/1581)
+* [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
@@ -301,6 +302,10 @@ Algorithm
 * [A\*보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
 * [A\*보다 빠른 JPS보다 빠른 JPS+](https://blog.naver.com/robo813/221341534052)
 * [Prim's algorithm in 2 minutes — Review and example](https://www.youtube.com/watch?v=cplfcGZmX7I)
+* [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
+* [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
+* [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
+* [Ford-Fulkerson in 5 minutes — Step by step example](https://www.youtube.com/watch?v=Tl90tNtKvxs)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
