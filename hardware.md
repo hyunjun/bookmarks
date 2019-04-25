@@ -29,6 +29,7 @@
 * [Building a Config Service in Go | Home Automation #03](https://www.youtube.com/watch?v=iYrMAVSOkkA)
 * [그린팩토리 주차층 관리앱 개발기 (Bluetooth, Beacon 연동 개발시 겪은 일들)](https://tv.naver.com/v/4286021)
 * [hellmaker.kr](http://www.hellmaker.kr/)
+* [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
