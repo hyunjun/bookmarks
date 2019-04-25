@@ -616,6 +616,8 @@ Linux
   ```
   * 상황; 이미 실행하고 있는 tmux server가 있고, .tmux.conf에 있는 설정을 사용하고 싶지 않을 때
   * 해결; tmux command에 -f option이 있지만, 이 option은 새로 server를 시작할 때만 동작하므로, 위와 같이 새로 server를 시작하고 attach 해야 함
+* [You need to know how to use TMUX](https://www.youtube.com/watch?v=JeOSpnT29go)
+* [tmux - The Desktop Environment for your Terminal - Lunduke Show](https://www.youtube.com/watch?v=5iXzqN8-34E)
 * [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
 * [Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
