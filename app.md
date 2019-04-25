@@ -29,14 +29,13 @@ App
 * [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) 프로젝트 빌드를 위한 모든 SaaS 모음
 * [Tools for Makers - a hand curated directory of tools for makers to work on their dream projects](https://toolsformakers.com/)
-* [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
-  * **[Airtable](https://airtable.com/)**, Zenkit, Notion, Coda
 * [Confluence를 이용한 프로젝트 현황판](https://www.popit.kr/confluence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%84%ED%99%A9%ED%8C%90)
 * [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
 * [29 Tools and Resources for the Bootstrapping Entrepreneur](https://hackernoon.com/29-tools-and-resources-for-the-bootstrapping-entrepreneur-65c01a81fefb)
 * [I hate coding but I love making](https://hackernoon.com/i-hate-coding-but-i-love-making-9f3387d3b20d)
 * [지금 써보러 갑니다 세상 모든 서비스에 대한 이야기](http://icunow.co.kr/category/util/)
 * [We need a new document markup language — here is why](https://medium.freecodecamp.org/we-need-a-new-document-markup-language-c22e0ec44e15) Practical Markup Language PML
+* [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
@@ -273,11 +272,16 @@ App
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
-* [monday.com](https://monday.com/) project management
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
+
+## Development Project Management
+* [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
+* [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
+  * **[Airtable](https://airtable.com/)**, Zenkit, Notion, Coda
+* [monday.com](https://monday.com/)
 
 # Editor
 * [파이썬 기초 강좌 #3 파이썬 코딩을 위한 텍스트 에디터](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-3-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0/)
