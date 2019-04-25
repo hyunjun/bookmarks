@@ -2187,6 +2187,8 @@ Python
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
+* [minikeyvalue](https://github.com/geohot/minikeyvalue)
+  * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
 * MySQL-python
