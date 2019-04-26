@@ -546,6 +546,7 @@ Javascript
 * [Angular Authentication: Using Route Guards](https://medium.com/@ryanchenkie_40935/angular-authentication-using-route-guards-bf7a4ca13ae3)
 * [Platform & Plugin 아키텍쳐 기술 검토 - 1](https://mobicon.tistory.com/568)
 * [Platform & Plugin 아키텍쳐 기술 검토 - 2](https://mobicon.tistory.com/569)
+* [How to create a reusable loading-indicator for Angular projects](https://medium.freecodecamp.org/how-to-create-reusable-loading-indicator-for-angular-projects-d0a11f4631e0)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -672,6 +673,7 @@ Javascript
 * [The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
 * [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 * [ES6 and Beyond >](https://hackernoon.com/es6-and-beyond-28aed8574e00)
+* [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1836,6 +1838,7 @@ Javascript
 * [How to create your portfolio website using React.js](https://medium.freecodecamp.org/portfolio-app-using-react-618814e35843)
 * [How I architected a single-page React application](https://medium.freecodecamp.org/how-i-architected-a-single-page-react-application-3ebd90f59087)
 * [How to create email chips in pure React](https://medium.freecodecamp.org/how-to-create-email-chips-in-pure-react-ad1cc3ecea16)
+* [How to build a React development playground using Storybook](https://medium.freecodecamp.org/how-to-build-a-react-development-playground-using-storybook-667ef9808e9f)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
