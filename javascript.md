@@ -1087,6 +1087,7 @@ Javascript
   * [How to Setup Redux - Minimize Boilerplate, Speed Up Development](https://levelup.gitconnected.com/state-management-with-redux-50f3ec10c10a)
   * [다이나믹 리덕스 리듀서(Dynamic Redux Reducers)](http://jellyms.kr/react/redux/2019/04/14/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%EB%A6%AC%EB%8D%95%EC%8A%A4-%EB%A6%AC%EB%93%80%EC%84%9C%28Dynamic-Redux-Reducers%29.html)
   * [How to connect React to Redux — a diagrammatic guide](https://medium.freecodecamp.org/how-to-connect-react-to-redux-a-diagrammatic-guide-d2687c14750a)
+  * [redux-react-hook - React Hook for accessing state and dispatch from a Redux store](https://github.com/facebookincubator/redux-react-hook)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -1839,6 +1840,7 @@ Javascript
 * [How I architected a single-page React application](https://medium.freecodecamp.org/how-i-architected-a-single-page-react-application-3ebd90f59087)
 * [How to create email chips in pure React](https://medium.freecodecamp.org/how-to-create-email-chips-in-pure-react-ad1cc3ecea16)
 * [How to build a React development playground using Storybook](https://medium.freecodecamp.org/how-to-build-a-react-development-playground-using-storybook-667ef9808e9f)
+* [How to Build Faster with Reusable UI Components in React](https://codeburst.io/how-to-build-faster-with-reusable-ui-components-in-react-482397dec818)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1973,6 +1975,7 @@ Javascript
     * [리덕스 예시코드](https://codesandbox.io/s/96m70mj6p)
     * [MobX 예시코드](https://codesandbox.io/s/yv4w13q2q9)
   * [React에서 Mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
+  * [mobx-react-lite - Lightweight React bindings for MobX based on React 16.8 and Hooks](https://github.com/mobxjs/mobx-react-lite)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * Next.js
