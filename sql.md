@@ -299,6 +299,11 @@ SQL
 * **[MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)**
 * [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 * [An in-depth look at Database Indexing](https://medium.freecodecamp.org/database-indexing-at-a-glance-bb50809d48bd)
+* **MySQL High Availability Framework Explained** ScaleGrid라는 MySQL service 회사에서 자사의 기술을 이용해 설명했지만, 일반적인 High Availability를 이해하기 위한 기초로 굉장히 좋은 글
+  * [Part I: Introduction](https://scalegrid.io/blog/mysql-high-availability-framework-explained-part-1/)
+  * [Part II: Semisynchronous Replication](https://scalegrid.io/blog/mysql-high-availability-framework-explained-part-2/)
+  * [Part III: Failure Scenarios](https://scalegrid.io/blog/mysql-high-availability-framework-explained-part-3/)
+  * [Part III: Failure Scenarios](http://highscalability.com/blog/2019/4/16/mysql-high-availability-framework-explained-part-iii-failove.html)
 
 ## MySQL Library
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
