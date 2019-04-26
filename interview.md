@@ -137,6 +137,7 @@ Interview
 * [새로운 데이터 분석가와의 랑데부를 위하여(1)](https://cojette.github.io/rendezvous1/)
 * [How to interview your interviewers when you’re looking for a job](https://medium.freecodecamp.org/how-to-interview-your-interviewers-when-youre-looking-for-a-job-d848bc3a910)
 * [머신러닝 인터뷰 준비](https://docs.google.com/document/d/10bJK8S4T7sBIP-pzdQm9xRpW0HcLsrh6D047pE_kFE8)
+* [tech-interview-handbook - Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -162,7 +163,7 @@ Interview
 * [아마존 인터뷰 필수 팁](https://www.youtube.com/watch?v=ChWSHVbZbAo) behavioral
 * [Amazon Interview](https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
 * [시니어 개발자로 가는 길](https://brunch.co.kr/@minchang/13)
-* [tech-interview-handbook - Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)
+* [Two examples for each of Amazon’s 14 Leadership Principles](https://www.youtube.com/watch?v=RzlUQCy84rQ)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -172,6 +173,7 @@ Interview
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
+* [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
 * Introduction
   * **[CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)** 이 분야의 고전같이 여겨지는 강의
   * **[System Design Introduction For Interview](https://www.youtube.com/watch?v=UzLMhqg3_Wc)** 기본적으로 지켜야 할 부분 안내
