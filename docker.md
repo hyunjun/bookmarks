@@ -622,6 +622,8 @@ Docker
   * [2부. Pod, Node 그리고 Service](https://www.youtube.com/watch?v=lVG9LU90ZQw)
   * [3부 (완결): 애플리케이션 스케일링과 롤링 업데이트](https://www.youtube.com/watch?v=6q1MRXNUzPU)
 * [How to securely deploy to Kubernetes from Bitbucket Pipelines](https://medium.freecodecamp.org/how-to-securely-deploy-to-kubernetes-from-bitbucket-pipelines-78e668f331b9)
+* [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
+* [From Bare-Metal To Kubernetes](http://highscalability.com/blog/2019/4/8/from-bare-metal-to-kubernetes.html)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
