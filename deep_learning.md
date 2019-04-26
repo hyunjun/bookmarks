@@ -1026,7 +1026,7 @@ Deep Learning
 * [GAN(Generative Adversarial Network) Tour](https://github.com/jason9693/GAN)
 * [번역 From GAN to WGAN](https://github.com/yjucho1/articles/blob/master/fromGANtoWGAN/readme.md)
 * [TL-GAN: transparent latent-space GAN This is the repository of my three-week project: "Draw as you can tell: controlled image synthesis and edit using TL-GAN"](https://github.com/SummitKwan/transparent_latent_gan)
-* [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
+* [Introduction to generative adversarial network](https://opensource.com/article/19/4/introduction-generative-adversarial-networks)
 * [Paper Review; GAN for noise reduction in low dose CT](https://www.slideshare.net/JiminLee36/paper-review-gan-for-noise-reduction-in-low-dose-ct)
 * [cycleGAN 낮사진을 밤사진으로 바꾸는 ai](https://docs.google.com/presentation/d/1-82NXqa8oGAxuNOg2xCsVpiKkpzkDeE71PrQQ0YHFbo)
 * [Efficient, Simplistic Training Pipelines for GANs in the Cloud with Paperspace](https://medium.com/@ODSC/efficient-simplistic-training-pipelines-for-gans-in-the-cloud-with-paperspace-d6cfbc33b7c3)
@@ -1998,6 +1998,7 @@ CVPR2016)
   * [A.I_Supermario 강화학습을 이용한 슈퍼마리오 만들기 튜토리얼](https://github.com/wonseokjung/ai_supermario)
 * [슈퍼마리오에 모두를 위한 RL 수업의 딥러닝 코드 붙이기](http://jinman190.blogspot.com/2017/10/rl.html)
 * [supermario dqn on colab](https://colab.research.google.com/github/wonseokjung/ai_supermario/blob/master/2_supermario_dqn.ipynb)
+* [하스스톤 강화학습 환경 개발기](https://www.slideshare.net/utilforever/ndc-2019)
 * [장진만쌤의 Sung Kim 교수님의 모두의 RL 수업을 보고 나서 따라 하기](http://chlehrb.tistory.com/78) 07.03 현재 설치까지 진행
 * [Reinforce-2 Dynamic Programming, Policy Iteration, Value Iteration](https://drive.google.com/file/d/0B9Eqem6No7GvOG5iSVN1MzdndEU/view)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153) 한국어
@@ -2114,7 +2115,7 @@ CVPR2016)
 * [theschool.ai](https://www.theschool.ai)
 * [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 
-## StarCraft II
+## RL StarCraft II
 * [Introduction and Collecting Minerals - p.1](https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/)
   * [Introduction and Collecting Minerals - tutorial p.1](https://www.youtube.com/watch?v=v3LJ6VvpfgI)
 * [Workers and Pylons - p.2](https://pythonprogramming.net/workers-pylons-starcraft-ii-ai-python-sc2-tutorial/?completed=/starcraft-ii-ai-python-sc2-tutorial/)
