@@ -397,6 +397,8 @@ Vision
 * [OpenCV + Python build (1/2) - python+OpenCV install](https://www.youtube.com/watch?v=3BYyKDJId0w)
 * [OpenCV + Python build (2/2) - vs code setting](https://www.youtube.com/watch?v=mSfkdCEwk1s)
 * [Face recognition — OpenCV](https://medium.com/data-science-101/face-recognition-opencv-e841dc0006c6)
+* [OpenCV Build Easiest way (1/2)](https://www.youtube.com/watch?v=9T0c6gvHiwg)
+* [OpenCV Build Easiest way (2/2)](https://www.youtube.com/watch?v=J5TUipRipj4)
 
 # OpenGL
 * [open.gl](https://open.gl/)
