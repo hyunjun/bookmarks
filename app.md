@@ -320,6 +320,7 @@ App
     * [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
     * [Here are some super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
     * [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
+    * [How I configure VSCode for Everything](https://hackernoon.com/how-i-configure-vscode-for-everything-7df65a316a52)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
