@@ -1551,6 +1551,10 @@ Python
 * [Using the url_for Function in Flask Blueprints](https://www.youtube.com/watch?v=BMBwahCCaEk)
 * [Working with APIs using Flask, Flask-RESTPlus and Swagger UI](https://towardsdatascience.com/working-with-apis-using-flask-flask-restplus-and-swagger-ui-7cf447deda7f)
 * [Flask for Beginners Tutorial - Learn Flask in 40 Minutes (2019)](https://www.youtube.com/watch?v=EnJKHVEzHFw)
+* [Flask TodoMVC Tutorial](https://simplectic.com/projects/flask-todomvc/)
+* [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
+* [Generating HTML Pages from MongoDB with MongoEngine and Jinja2 (Flask Part 1)](https://alysivji.github.io/flask-part1-generating-html-pages-with-mongoengine-jinja2.html)
+* [Building a Flask Web Application (Flask Part 2)](https://alysivji.github.io/flask-part2-building-a-flask-web-application.html)
 
 ## Library
 * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
