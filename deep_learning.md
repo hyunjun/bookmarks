@@ -1402,6 +1402,7 @@ Deep Learning
 * [One neural network, many uses](https://towardsdatascience.com/one-neural-network-many-uses-image-captioning-image-search-similar-image-and-words-in-one-model-1e22080ce73d)
 * [Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
 * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe)
+  * [인공신경망 학습 레시피 (번역)](https://medium.com/@bntejn/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%B2%88%EC%97%AD-70c5e58341ec?sk=f53042d49fa609d30c80e26f2f7f6b41)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
