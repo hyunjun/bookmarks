@@ -33,6 +33,7 @@ Machine Learning
   * [Part 7 생성적 적대 신경망(Generative Adversarial Networks)을 활용해 8비트 픽셀 아트(Pixel Art) 만들기](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-7-2435b4a55ccd)
   * [Part 8 신경망을 의도적으로 속이는 방법](https://medium.com/@jongdae.lim/%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5-machine-learning-%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D-%EC%9D%80-%EC%A6%90%EA%B2%81%EB%8B%A4-part-8-d9507cf20352)
 * [An annotated path to start with Machine Learning](https://www.bonaccorso.eu/2017/09/09/an-annotated-path-to-start-with-machine-learning/)
+* [How to get started with Machine Learning in about 10 minutes](https://medium.freecodecamp.org/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23)
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
 * [기계학습에서 사용되는 수학 공식](http://wooriworld2006.tistory.com/333)
 * [머신러닝 속 수학](https://mingrammer.com/translation-the-mathematics-of-machine-learning)
