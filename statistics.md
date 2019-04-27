@@ -317,6 +317,7 @@ Statistics
 
 # Poisson Distribution
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)
+* [Predicting the Frequency of Asteroid Impacts with a Poisson Processes](https://towardsdatascience.com/predicting-the-frequency-of-asteroid-impacts-with-a-poisson-processes-98d483efa61d)
 
 # Probability
 * [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
