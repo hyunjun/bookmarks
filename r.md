@@ -292,6 +292,7 @@ R
 * [R의 날짜와 시간](http://ds.sumeun.org/?p=1111)
 * [Reproducible Environments](https://www.r-bloggers.com/reproducible-environments/)
 * [Encryptr now makes it easy to encrypt and decrypt files](https://www.r-bloggers.com/encryptr-now-makes-it-easy-to-encrypt-and-decrypt-files/)
+* [Setting up continuous multi-platform R package building, checking and testing with R-Hub, Docker and GitLab CI/CD for free, with a working example](https://www.r-bloggers.com/setting-up-continuous-multi-platform-r-package-building-checking-and-testing-with-r-hub-docker-and-gitlab-ci-cd-for-free-with-a-working-example)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
