@@ -1593,6 +1593,7 @@ Deep Learning
 * [Convolutional Neural Networks cheatsheet](https://stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks)
 * [1.1 Questions to the Convolutional Neural Networks](https://www.youtube.com/watch?v=LHA_rpE1ERY)
 * [Gentle Dive into Math Behind Convolutional Neural Networks](https://towardsdatascience.com/gentle-dive-into-math-behind-convolutional-neural-networks-79a07dd44cf9)
+* [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -2085,6 +2086,7 @@ CVPR2016)
 * [Structural implementation of RL key algorithms https://www.medipixel.io ](https://github.com/medipixel/rl_algorithms)
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
 * [TetrisXQ - Difficult and annoying Tetris implemented by Reinforcement Lrarning](https://github.com/junghyun397/TetrisXQ)
+* [Learning to Paint - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning](https://github.com/hzwer/LearningToPaint)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
