@@ -84,6 +84,7 @@ Linux
 * [EXT4 에서 달라진 부분들 #1](https://charsyam.wordpress.com/2018/12/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-ext4-%ec%97%90%ec%84%9c-%eb%8b%ac%eb%9d%bc%ec%a7%84-%eb%b6%80%eb%b6%84%eb%93%a4-1/)
 * [EXT4 에서 달라진 부분들 #2 – 데이터 영역의 관리](https://charsyam.wordpress.com/2018/12/21/%EC%9E%85-%EA%B0%9C%EB%B0%9C-ext4-%EC%97%90%EC%84%9C-%EB%8B%AC%EB%9D%BC%EC%A7%84-%EB%B6%80%EB%B6%84%EB%93%A4-2-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%98%81%EC%97%AD%EC%9D%98-%EA%B4%80%EB%A6%AC/)
 * [GNOME3 파일관리자를 nemo로 default application 설정하기](https://sunyzero.tistory.com/258)
+* [번역 Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -447,6 +448,7 @@ Linux
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
 * [ctop - concise commandline monitoring for containers](https://github.com/bcicen/ctop)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
+* [DH Box platform](http://dhbox.org/)
 * **[direnv -- Unclutter your .profile](https://direnv.net/)**
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
   * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
