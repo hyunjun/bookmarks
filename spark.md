@@ -358,6 +358,7 @@
 * [Which Career Should I Choose — Hadoop Admin or Spark Developer?](https://medium.com/@etlhive/which-career-should-i-choose-hadoop-admin-or-spark-developer-391247e7d13e)
 * [Efficient geospatial analysis with Spark](https://medium.com/@karijdempsey/efficient-geospatial-analysis-with-spark-363ba50c5248)
 * [Dealing with null in Spark](https://www.mungingdata.com/apache-spark/dealing-with-null)
+* ['.NET for Apache Spark' Debuts for C#/F# Big Data](https://visualstudiomagazine.com/articles/2019/04/25/net-spark.aspx)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
