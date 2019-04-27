@@ -15,6 +15,7 @@ Network
 * [I don’t know DNS Caching](https://charsyam.wordpress.com/2017/12/22/%EC%9E%85-%EA%B0%9C%EB%B0%9C-i-dont-know-dns-caching/)
   * DNS Caching은 OS와 설정에 따라 다름. glibc의 getaddrinfo 자체에서 발생하는 이슈
 * [DNS Caching in JVM](https://charsyam.wordpress.com/2017/12/27/%ec%9e%85-%ea%b0%9c%eb%b0%9c-dns-caching-in-jvm/)
+* [Domain Name System (DNS): Untangling the Key Aspects](https://hackernoon.com/domain-name-system-dns-untangling-the-key-aspects-d86e39865d8c)
 * [An introduction to the Domain Name System](https://medium.freecodecamp.org/understanding-the-domain-name-servers-46c6bcf9afa3)
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
 * [Pushing the Limits of Kernel Networking](http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
