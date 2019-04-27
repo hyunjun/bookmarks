@@ -188,6 +188,11 @@ Data Visualization
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Large Scale Visualizations and Mapping with Datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
 * **[OpenDataWrangling - 공공데이터 분석 https://goo.gl/TJeiTi ](https://github.com/corazzon/OpenDataWrangling)** 다양한 youtube + ipynb
+* 버거지수 2019
+  * [(1) 버거킹, 맥도날드, KFC](https://blog.naver.com/idjoopal/221513074069)
+  * [(2) 롯데리아, 맘스터치](https://blog.naver.com/idjoopal/221513535891)
+  * [(3) 분석 & 버거지수 계산](https://blog.naver.com/idjoopal/221519187440)
+  * [(4) 버거지수 전국지도](https://blog.naver.com/idjoopal/221519294269)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
