@@ -484,6 +484,7 @@ Machine Learning
   * [(Part 4) — Deep Learning Methods for Text Data Newer, advanced strategies for taming unstructured, textual data](https://towardsdatascience.com/understanding-feature-engineering-part-4-deep-learning-methods-for-text-data-96c44370bbfa)
   * [feature engineering text data](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/feature%20engineering%20text%20data)
 * [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
+* [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
@@ -776,6 +777,7 @@ Machine Learning
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
   * [H2O for Inexperienced Users](https://www.h2o.ai/blog/h2o-for-inexperienced-users/)
+  * [Democratising Machine learning with H2O](https://towardsdatascience.com/democratising-machine-learning-with-h2o-7f2f79e10e3f)
 * [lablup/backend.ai](https://github.com/lablup/backend.ai/wiki)
   * [docs.backend.ai](http://docs.backend.ai)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
