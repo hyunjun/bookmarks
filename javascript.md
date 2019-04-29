@@ -402,6 +402,7 @@ Javascript
 * [Hacks for Creating JavaScript Arrays](https://medium.freecodecamp.org/https-medium-com-gladchinda-hacks-for-creating-javascript-arrays-a1b80cb372b)
 * [What you should know about JavaScript arrays](https://medium.freecodecamp.org/what-you-should-know-about-javascript-arrays-a7e5394f78f8)
 * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
+* [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
@@ -475,6 +476,7 @@ Javascript
 * [When to use a function declaration vs. a function expression](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
 * [From Java to JavaScript — Functions and Scopes](https://medium.com/@reime005/from-java-to-javascript-functions-and-scopes-9bea24c7cfb)
 * [How to make a cross-browser extension using JavaScript and browser APIs](https://medium.freecodecamp.org/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba)
+* [JavaScript 내장 메소드를 사용하여 숫자 천단위마다 콤마 찍기](https://john015.github.io/java-script-%EB%82%B4%EC%9E%A5-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%88%AB%EC%9E%90-%EC%B2%9C%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1765,6 +1767,7 @@ Javascript
 * [Learn the basics of React Hooks in <10 minutes>](https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d)
 * [Let’s get hooked: a quick introduction to React Hooks](https://medium.freecodecamp.org/lets-get-hooked-a-quick-introduction-to-react-hooks-9e8bc3fbaeac)
 * [How to destructure the fundamentals of React Hooks](https://medium.freecodecamp.org/how-to-destructure-the-fundamentals-of-react-hooks-d13ff6ea6871)
+* [react-redux 에서 Hooks 사용하기](https://velopert.com/3726)
 * [React 16.8 with Hook Implementation](https://hackernoon.com/react-16-8-with-hook-implementation-212220171685)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
@@ -1846,6 +1849,7 @@ Javascript
 * [How to create email chips in pure React](https://medium.freecodecamp.org/how-to-create-email-chips-in-pure-react-ad1cc3ecea16)
 * [How to build a React development playground using Storybook](https://medium.freecodecamp.org/how-to-build-a-react-development-playground-using-storybook-667ef9808e9f)
 * [How to Build Faster with Reusable UI Components in React](https://codeburst.io/how-to-build-faster-with-reusable-ui-components-in-react-482397dec818)
+* [How to create a Timeline Component with React](https://medium.freecodecamp.org/how-to-create-a-timeline-component-with-react-1b216f23d3d4)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
