@@ -891,6 +891,7 @@ NLP
 * [컴퓨테이셔널 저널리즘](http://www.bloter.net/archives/276095)
 * [딥러닝을 활용한 뉴스 메타 태깅](https://brunch.co.kr/@kakao-it/284)
 * [스포츠 저널리즘의 변화와 AI의 활용](https://brunch.co.kr/@kakao-it/292)
+* [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
 
 # Ontology
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
