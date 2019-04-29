@@ -587,6 +587,7 @@ Java
     * [Enum Converter 편](http://woowabros.github.io/experience/2019/01/09/enum-converter.html)
   * [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://zeniuus.github.io/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/)
   * [JPA, OneToMany 양방향 관계 "MappedBy" 해설](https://www.youtube.com/watch?v=hsSc5epPXDs)
+  * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
   * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
   * [데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?](데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?) IdentifierGenerator interface
   * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
