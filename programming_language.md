@@ -299,6 +299,7 @@ Programming Language
   * [Nature of code - Chapter 1. Vector](http://www.slideshare.net/btakeya/nature-of-code-chapter-1-vector)
 * Prolog
   * [Hello World server](http://www.swi-prolog.org/howto/http/HelloText.html)
+  * [How to learn Prolog by watching Game of Thrones](https://medium.freecodecamp.org/how-to-learn-prolog-by-watching-game-of-thrones-4852ea960017)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
 * [Octave](http://www.gnu.org/software/octave/)
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
