@@ -342,6 +342,7 @@ Interview
   * [Project Euler](http://euler.synap.co.kr/)
   * [Consider Yourself a Developer? You Should Solve the Project Euler Problems](https://medium.com/@BennettGarner/consider-yourself-a-developer-you-should-solve-the-project-euler-problems-ed8d13397c9c)
   * [Project Euler(KR) : 프로젝트 오일러 풀이](https://www.youtube.com/playlist?list=PLxpjN8IqlPc50ZEFZ6R5SWmBAxrS4VBGp)
+  * [Project Euler solved](https://github.com/subinium/ProjectEuler/tree/master/solved)
 * [remoteinterview.io/takehome - Interviews can be stressful, give them take-home projects instead](https://www.remoteinterview.io)
 * [swexpertacademy.com](https://www.swexpertacademy.com)
 * [talview.com](https://www.talview.com/)
