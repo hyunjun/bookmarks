@@ -1582,6 +1582,7 @@ Deep Learning
 * [A tutorial on deep learning for music information retrieval (dl4mir) slides, paper](https://keunwoochoi.wordpress.com/2017/11/02/a-tutorial-on-deep-learning-for-music-information-retrieval-dl4mir-slides-paper/)
 * [CNN in numpy](http://chris-chris.ai/2017/11/26/conv-in-numpy/)
 * [Only Numpy: Understanding Back Propagation for Transpose Convolution in Multi Layer CNN with Example and Interactive Code](https://towardsdatascience.com/only-numpy-understanding-back-propagation-for-transpose-convolution-in-multi-layer-cnn-with-c0a07d191981)
+* [Let’s code a Neural Network in plain NumPy](https://towardsdatascience.com/lets-code-a-neural-network-in-plain-numpy-ae7e74410795)
 * [Convolution operation in Neural Network](http://blog.naver.com/suma_maple/221181408813)
 * [컨벌루션 뉴런 네트워크(CNN) 란 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=11294)
 * [ResNet, AlexNet, VGG, Inception: Understanding various architectures of Convolutional Networks](http://cv-tricks.com/cnn/understand-resnet-alexnet-vgg-inception/)
