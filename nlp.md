@@ -666,6 +666,7 @@ NLP
   * [한국어를 위한 어휘 임베딩의 개발 -2-](https://brunch.co.kr/@learning/8) [-2-](https://brunch.co.kr/@trost/35)
   * [FastText, 실전 사용하기](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/07/06/fasttext/)
   * [FastText for Node.js](https://github.com/loretoparisi/fasttext.js)
+  * [pyfasttext](https://pypi.org/project/pyfasttext)
 * [GluonNLP: NLP made easy](https://gluon-nlp.mxnet.io)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
