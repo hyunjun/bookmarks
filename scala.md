@@ -91,7 +91,6 @@ Scala
 * [Parallel External Sorting](https://medium.com/@rvprasad/parallel-external-sorting-175c7a9247cb)
 * [scala.bythebay.io](http://scala.bythebay.io/)
   * [Scala meetup dick wall](https://www.youtube.com/watch?v=-psE66Ds7Lk)
-* [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
 * [스칼라를 통한 다양한 언어의 패러다임 맛보기](http://www.slideshare.net/deview/d2-campus-seminar-45210914)
 * [Scala development in Vim](https://advancedweb.hu/2015/06/11/vim-scala/)
 * [ScalaML](http://nbviewer.ipython.org/github/psygrammer/ScalaML/)
@@ -426,6 +425,8 @@ Scala
 * future
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
+  * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
+  * [Futures Made Easy with Scala](https://medium.freecodecamp.org/futures-made-easy-with-scala-da1beb3bb281)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
