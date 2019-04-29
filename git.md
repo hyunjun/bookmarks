@@ -494,6 +494,8 @@ Git
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
+* [Gitiny - iOS app for GitHub with exploring trending](https://github.com/k-lpmg/GiTiny)
+  * [GiTiny - appstore](https://itunes.apple.com/app/tiny-github/id1461424565)
 * [Git-it is a desktop (Mac, Windows and Linux) app that teaches you how to use Git and GitHub on the command line](https://github.com/jlord/git-it-electron)
   * [Git-it-electron 한글화 버전](https://github.com/nallwhy/git-it-electron)
 * [GitKraken](https://www.gitkraken.com/)
