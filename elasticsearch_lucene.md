@@ -157,6 +157,7 @@ ElasticSearch - Lucene
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
 * [A Dive into Stack Overflow Jobs Search](https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83)
 * [Elasticsearch Tutorial & Getting Started (course preview)](https://www.youtube.com/watch?v=ksTTlXNLick)
+* [Elasticsearch](https://www.youtube.com/playlist?list=PLBtyBPTlyC7sPQDrYOEcQC3d1txIwF299)
 * [ElasticSearch Basic concepts](https://www.youtube.com/watch?v=5KSGljapW1I)
 * [Elastic search tutorial for beginners](https://www.youtube.com/playlist?list=PLb0pWz-jnz99436u_5ERKCaFnILC2DreG)
 * [Elasticsearch Tutorial : hands-on guide to learn elasticsearch](http://www.devinline.com/2018/01/elasticsearch-tutorial-a-hands-on-guide.html)

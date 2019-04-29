@@ -98,6 +98,7 @@ Machine Learning
   * [Class 2](https://towardsdatascience.com/my-journey-into-machine-learning-class-2-554ae5fa8255)
   * [Class 3](https://towardsdatascience.com/my-journey-into-machine-learning-class-3-c8139736f550)
   * [Class 4](https://towardsdatascience.com/my-journey-into-machine-learning-class-4-eb0f681cec65)
+* [Data Science and Machine Learning with Python](https://www.youtube.com/playlist?list=PLBtyBPTlyC7tIBcxKdgJrjLiu_FGPSpfs)
 * [Machine Learning for Product Managers Part I — Problem Mapping](https://towardsdatascience.com/machine-learning-for-product-managers-part-i-problem-mapping-5436132c3a6e)
 * [Classifiers 간단 정리 ( Single, Hybrid, Ensemble)](https://medium.com/@peteryun/ml-classifiers-%EC%A2%85%EB%A5%98-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC-single-hybrid-ensemble-aabc62eb4b5e)
 * [Gradient Boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
