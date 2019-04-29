@@ -58,6 +58,7 @@ Interview
 * [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
 * [10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
+* [The top data structures you should know for your next coding interview](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3)
 * [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
 * **[알고리즘 학습에 대한 조언](http://blog.weirdx.io/post/55358)** 매우 좋은 글
 * [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
