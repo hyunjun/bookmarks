@@ -84,6 +84,7 @@ Android
 * [안드로이드에서 adb shell로 apk 추출하기](http://sunphiz.me/wp/archives/3210)
 * [Android에서 사용하는 CoroutineScope을 알아보자](https://thdev.tech/coroutines/2019/04/05/Init-Coroutines/)
 * [“DroidKnights 2019” MotionLayout 무릎까지 담궈보기](http://pluu.github.io/blog/android/2019/04/07/droidknights-motionlayout/)
+* [I built an app to rig the chances of me getting a date](https://hackernoon.com/how-to-build-a-geographically-aware-location-based-android-dating-app-c1aaa26f2f60)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
