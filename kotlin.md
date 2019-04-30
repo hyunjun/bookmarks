@@ -83,6 +83,7 @@
 * [Kotlin Coroutines을 알아보고, 안드로이드에 library 적용하기](https://thdev.tech/kotlin/2018/10/04/Kotlin-Coroutines/)
 * [Kotlin Coroutines 안드로이드 OnClick에 활용하기](https://thdev.tech/kotlin/2018/10/11/Kotlin-Coroutines-Android/)
 * [Kotlin Coroutines의 Job 동작을 알아보자](https://thdev.tech/coroutines/2019/04/08/Init-Coroutines-Job/)
+* [Kotlin Coroutines Exception 알아보기](https://thdev.tech/coroutines/2019/04/30/Coroutines-Job-Exception/)
 * [코틀린 코루틴의 패턴과 안티패턴](https://medium.com/harrythegreat/%EB%B2%88%EC%97%AD-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-6e97f852ea2d)
 * [Kotlin 작성한 코드 Decompile](https://thdev.tech/kotlin/2018/05/22/Android-Studio-Kotlin-Decompile.html)
 * [Kotlin 더 잘 활용하기](https://thdev.tech/kotlin/2018/08/13/Kotlin-Improving/)
