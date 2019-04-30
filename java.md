@@ -104,6 +104,7 @@ Java
 * [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html) clean code 책을 읽고 진행한 refactoring 정리
 * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/)
 * [Java 대용량 엑셀 업로드](https://tmondev.blog.me/221505398958)
+* [Software impedance explained](https://medium.freecodecamp.org/software-impedance-6796cc65758b)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -130,6 +131,7 @@ Java
 * datetime
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
   * [Java, Android에서 날짜 표현할 때 Calendar, Date 그리고 SimpleDateFormat](https://developer88.tistory.com/16)
+  * [양력에서 음력 변환 - ChineseCalendar 클래스가 맞지 않는 이유, 한국과 중국의 음력 차이](https://blog.naver.com/birdparang/221445233118)
 * File
   * Processing large files efficiently in Java
     * [part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
