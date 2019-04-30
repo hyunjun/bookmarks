@@ -293,6 +293,8 @@ R
 * [Reproducible Environments](https://www.r-bloggers.com/reproducible-environments/)
 * [Encryptr now makes it easy to encrypt and decrypt files](https://www.r-bloggers.com/encryptr-now-makes-it-easy-to-encrypt-and-decrypt-files/)
 * [Setting up continuous multi-platform R package building, checking and testing with R-Hub, Docker and GitLab CI/CD for free, with a working example](https://www.r-bloggers.com/setting-up-continuous-multi-platform-r-package-building-checking-and-testing-with-r-hub-docker-and-gitlab-ci-cd-for-free-with-a-working-example)
+* [데이터의 생성, 참조, 수정, 추가, 삭제](http://ds.sumeun.org/?p=1156)
+* [Quick Hit: Scraping javascript-“enabled” Sites with {htmlunit}](https://www.r-bloggers.com/quick-hit-scraping-javascript-enabled-sites-with-htmlunit/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -339,6 +341,7 @@ R
   * [Agenda](http://www.cvent.com/events/rstudio-conf-austin/agenda-dd6d75526f3c4554b67c4de32aeffb47.aspx)
   * [Links to slides from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides)
   * [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
+  * [A new image on DigitalOcean to start using RStudio Server without waiting more than 2 minutes](https://www.r-bloggers.com/a-new-image-on-digitalocean-to-start-using-rstudio-server-without-waiting-more-than-2-minutes-2/)
 * [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
 
 # Installation
