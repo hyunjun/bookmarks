@@ -272,6 +272,12 @@ Machine Learning
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
 * [Drawing the Multiple Regression Models](http://rpubs.com/cardiomoon/474707)
+* [multi-linear-regression](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-data_science/machine-learning/multi-linear-regression)
+  * [Multiple Regression Analysis in Python | Part 1](https://youtu.be/M32ghIt1c88) 데이터 로딩 및 클리닝. 모델의 일반적인 개념
+  * [Multiple Regression Analysis in Python | Part 2](https://youtu.be/8DhvVs59It4) 모델의 가정, 다중공선성 확인. Variance Inflation factor 다중공선성 확인 & 제거
+  * [Multiple Regression Analysis in Python | Part 3](https://youtu.be/YQf23JYX3Zw) 이상점 확인, 다중 회귀 분석 모델에 미치는 영향
+  * [Multiple Regression Analysis in Python | Part 4](https://youtu.be/UTfoj_7RU48) 모델 진단 및 모델 가정 검증
+  * [Multiple Regression Analysis in Python | Part 5](https://youtu.be/j1sjqEStECQ) 모델 구축 및 활용
 * [Linear Regression — Python Implementation](https://towardsdatascience.com/linear-regression-python-implementation-ae0d95348ac4)
 * How to Build a Linear Regression Model in Python
   * [Part 1](https://www.youtube.com/watch?v=MRm5sBfdBBQ)
