@@ -484,6 +484,7 @@ Linux
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
+* [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
 # Manjaro
