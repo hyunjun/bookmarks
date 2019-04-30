@@ -411,6 +411,7 @@ Programming
   * **[1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)** 매우 좋은 번역 글
   * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
   * [3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
+  * [4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
 * [QWER.GG 를 통해 배운 것들](https://seokjun.kim/what-i-learned-from-qwer-gg/)
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
