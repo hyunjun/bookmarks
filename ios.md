@@ -77,6 +77,7 @@ iOS
 * [Swift vs. Objective-C: The trending up-and-comer vs. the dinosaur](https://medium.freecodecamp.org/https-medium-com-colin-gabriel-smith-swift-vs-objective-c-5b19add8e2ed)
 * [iOS 앱 개발자 도구로 세상을 이롭게 하기](https://medium.com/rainist-engineering/user-defaults-for-testing-ios-application-a492c52cd87f)
 * [iTunes 파일 공유 기능](https://dev-yakuza.github.io/ko/react-native/react-native-itunes-share-file/)
+* [iOS 코드 서명에 대해서](https://engineering.linecorp.com/ko/blog/ios-code-signing)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
