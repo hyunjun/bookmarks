@@ -697,6 +697,7 @@ Deep Learning
 * [Setting up a GPU Enabled Kubernetes for Deep Learning](https://gist.github.com/stevenc81/1cad3a0ebca9303923d1cd4c3641f8bc)
 * [It is never too much: training deep learning models with more than one modality - Adam Słucki](https://www.youtube.com/watch?v=-UaTdVGfHxQ)
 * [A Beginners Guide to Federated Learning](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf)
+* [LxMLS 2017](https://www.youtube.com/playlist?list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1160,6 +1161,7 @@ Deep Learning
   * [Run MXNet Scala Examples Using the IntelliJ IDE (macOS)](https://mxnet.incubator.apache.org/tutorials/scala/mxnet_scala_on_intellij.html)
   * [Implementation of SNAIL(A Simple Neural Attentive Meta-Learner) with Gluon](https://github.com/seujung/SNAIL-gluon)
   * [LipNet: End-to-End Sentence-level Lipreading](https://github.com/ski-net/lipnet)
+  * [버트(BERT) 파인튜닝 간단하게 해보자](http://freesearch.pe.kr/archives/4963)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [PlotNeuralNet - Latex code for drawing neural networks for reports and presentation](https://github.com/HarisIqbal88/PlotNeuralNet)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
