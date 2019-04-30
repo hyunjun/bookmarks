@@ -2,11 +2,8 @@
 ======
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [Awesome Kotlin - A curated list of awesome Kotlin related stuff Inspired by awesome-java](https://github.com/KotlinBy/awesome-kotlin)
-* [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
-* [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
 * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
 * [Kotlin: A New Hope in a Java 6 Wasteland](https://realm.io/news/droidcon-michael-pardo-kotlin/)
-* [Kobalt is a build system heavily inspired from Gradle and entirely written in Kotlin](http://beust.com/kobalt/home/index.html)
 * [JetBrains Releases Kotlin 1.0](http://www.infoq.com/news/2016/02/jetbrains-kotlin-1)
 * [일단 시작하는 코틀린](http://www.slideshare.net/parkjoongsoo1/ss-58654366)
 * [Why Kotlin is my next programming language](https://medium.com/@octskyward/why-kotlin-is-my-next-programming-language-c25c001e26e3)
@@ -105,6 +102,7 @@
 * [코딩 컨벤션 정리](https://medium.com/@joongwon/kotlin-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC-7681cde920ce)
 * [Kotlin: Write Once, Run (Actually) Everywhere](https://www.youtube.com/watch?v=ei66Fr25Y2M)
 * [Joost Heijkoop & Urs Peter - Kotlin vs Scala](https://www.youtube.com/watch?v=MsMejigb1Zk)
+* ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -163,6 +161,9 @@
 * [Kotlin Meetup Seoul 2019](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
 
 # Library
+* [Kobalt - a build system heavily inspired from Gradle and entirely written in Kotlin](http://beust.com/kobalt/home/index.html)
 * Koin
   * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
+* [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
+  * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
