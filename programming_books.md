@@ -439,6 +439,7 @@ Programming Books
   * [Deep Learning Cookbook 추가 설명집](https://wikidocs.net/book/2522)
   * [1. Word embedding - 텍스트 유사성 계산, 위키피디아를 이용한 영화 추천 시스템 (Chapter 3, Chapter 4)](https://fintelab.tistory.com/3)
 * (NOT YET) [PyTorch로 시작하는 딥러닝 딥러닝 기초에서 최신 모던 아키텍처까지](http://acornpub.co.kr/book/deep-learning-pytorch)
+* (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/914)
 * (NOT YET) [실전! 딥러닝 텐서플로와 케라스를 이용한 딥러닝 최신 기술 활용 가이드](http://wikibook.co.kr/practical-deep-learning/)
 * (NOT YET) [가장 쉬운 딥러닝 입문 교실 그림으로 쉽게 이해하는 딥러닝 이론](http://wikibook.co.kr/easy-deep-learning/)
 * (NOT YET) [초보자를 위한 신경망 딥러닝 입문 수식 없이, 코딩 없이 드래그 앤드 드롭으로 배우는 딥러닝](http://wikibook.co.kr/neural-deep-learning/)
