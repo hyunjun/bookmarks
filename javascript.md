@@ -842,6 +842,7 @@ Javascript
 * [Crypton is a framework for creating zero-knowledge applications with JavaScript](https://github.com/SpiderOak/crypton)
 * [CubbyFlow - voxel-based fluid simulation engine for computer games based on Jet framework](https://github.com/utilForever/CubbyFlow)
 * day.js [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
+* discord.js [How to create a music bot using Discord.js](https://medium.freecodecamp.org/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8)
 * [dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula)
 * [dygraphs - a fast, flexible open source JavaScript charting library](http://dygraphs.com/)
 * [Dynamics.js - JavaScript library to create physics-based CSS animations](http://dynamicsjs.com/)
@@ -1763,6 +1764,7 @@ Javascript
 * [Let’s get hooked: a quick introduction to React Hooks](https://medium.freecodecamp.org/lets-get-hooked-a-quick-introduction-to-react-hooks-9e8bc3fbaeac)
 * [How to destructure the fundamentals of React Hooks](https://medium.freecodecamp.org/how-to-destructure-the-fundamentals-of-react-hooks-d13ff6ea6871)
 * [react-redux 에서 Hooks 사용하기](https://velopert.com/3726)
+* [react-redux 에서 Hooks 사용하기](https://velog.io/@velopert/react-redux-hooks)
 * [React 16.8 with Hook Implementation](https://hackernoon.com/react-16-8-with-hook-implementation-212220171685)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
