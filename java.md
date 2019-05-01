@@ -587,7 +587,7 @@ Java
   * Legacy DB의 JPA Entity Mapping
     * [복합키 매핑 편](http://woowabros.github.io/experience/2019/01/04/composit-key-jpa.html)
     * [Enum Converter 편](http://woowabros.github.io/experience/2019/01/09/enum-converter.html)
-  * [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://zeniuus.github.io/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa/)
+  * [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa)
   * [JPA, OneToMany 양방향 관계 "MappedBy" 해설](https://www.youtube.com/watch?v=hsSc5epPXDs)
   * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
   * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
