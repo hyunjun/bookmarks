@@ -203,6 +203,7 @@ Programming
   * 변수명에 대한 관점 차이를 해소하는 과정 이야기
 * [#naming closing, closed 대신 will close, did close](http://ohyecloudy.com/pnotes/archives/naming-will-close-or-closing/)
 * [그룹웨어 결재 기능으로 보이는 동료의 작명 검토를 하다가...](https://www.popit.kr/%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4-%EA%B2%B0%EC%9E%AC-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%84-%EB%B3%B4%EB%A9%B4%EC%84%9C)
+* [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
   * [#2 - 오픈 준비 단계](http://woowabros.github.io/experience/2018/10/15/new_point_story_2.html)
@@ -1163,6 +1164,7 @@ Programming
   * [기술 뉴스 #122 : 19-03-15](https://blog.outsider.ne.kr/1434)
   * [기술 뉴스 #123 : 19-04-01](https://blog.outsider.ne.kr/1436)
   * [기술 뉴스 #124 : 19-04-15](https://blog.outsider.ne.kr/1437)
+  * [기술 뉴스 #125 : 19-05-01](https://blog.outsider.ne.kr/1439)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1179,6 +1181,7 @@ Programming
   * [1901호](https://blog.gaerae.com/2019/01/monthly.html)
   * [1902호](https://blog.gaerae.com/2019/02/monthly.html)
   * [월간 개발자스럽다 #41](https://blog.gaerae.com/2019/03/monthly.html)
+  * [월간 개발자스럽다 #42](https://blog.gaerae.com/2019/04/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -1386,6 +1389,7 @@ Programming
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
+* [초보개발자의 TDD 체험기](https://www.slideshare.net/sehunkim11/tdd-141266989)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
