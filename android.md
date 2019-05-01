@@ -116,6 +116,7 @@ Android
 * [backboard - A motion-driven animation framework for Android](https://github.com/tumblr/Backboard)
 * [Buck - A high-performance build tool](http://buckbuild.com/)
 * [번역 Butter Knife 소개](http://pluu.github.io/blog/android-study/2015/01/20/android-butterknife-yyaammaa/)
+* CircleProgressBar [원형 진행 바 라이브러리, dinuscxj님의 CircleProgressBar 사용하기](https://www.ienlab.net/entry/%EC%9B%90%ED%98%95-%EC%A7%84%ED%96%89-%EB%B0%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-dinuscxj%EB%8B%98%EC%9D%98-CircleProgressBar-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * dagger
   * Dagger 2 for Android Beginners
     * [Introduction](https://medium.com/@harivigneshjayapalan/dagger-2-for-android-beginners-introduction-be6580cb3edb)
