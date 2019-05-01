@@ -189,6 +189,7 @@ Keras
 * [Saving & Loading Keras Models](https://jovianlin.io/saving-loading-keras-models/)
 * [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813) LSTM
 * [Using deep learning to “read your thoughts” — with Keras and EEG](https://medium.com/@justlv/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a)
+* [리뷰에는 이미 별점이 있는데 별점을 또 예측해서 뭘 하나요](https://songys.github.io/2019LangCon/data/jmkim.pdf)
 
 # CNN
 * [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/)
