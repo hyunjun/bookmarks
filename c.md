@@ -124,6 +124,7 @@ C
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494)
 * [C언어 빌드 과정 (build process)](https://brunch.co.kr/@mystoryg/57)
 * [타입 추론 사용하기](https://blog.naver.com/sssang97/221510686104)
+* [Home-grown bytecode interpreters](https://badootech.badoo.com/home-grown-bytecode-interpreters-51e12d59b25c)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
