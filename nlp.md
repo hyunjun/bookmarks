@@ -909,6 +909,7 @@ NLP
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
 * [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
 * [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
+* [Attention Is All You Need](https://www.notion.so/5944fbf370ab46b091eeb64453ac3af5)
 * BERT
   * [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
   * [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://rosinality.github.io/2018/10/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding)
