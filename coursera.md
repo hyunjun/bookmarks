@@ -1,5 +1,6 @@
 Coursera
 ========
+* [Coursera downloader](https://github.com/baicalin/www-coursera-downloader)
 * [Scala Spark Big Data](https://www.coursera.org/learn/scala-spark-big-data/)
   * 2017.06.02
     * [Datasets](https://www.coursera.org/learn/scala-spark-big-data/lecture/yrfPh/datasets)
