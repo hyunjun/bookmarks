@@ -751,6 +751,7 @@ Machine Learning
 * [Why Kaggle will NOT make you a great data-scientist](https://towardsdatascience.com/why-kaggle-will-not-make-you-a-great-data-scientist-a2c2f506a23f)
 * [수비니움의 캐글 따라하기 1강. 타이타닉 (1)](https://www.youtube.com/watch?v=bGGnlvsS8ao)
 * [I did a Kaggle competition as a semester project at uni. Here’s what I learned](https://medium.freecodecamp.org/i-did-a-kaggle-competition-as-a-semester-project-at-uni-heres-what-i-learned-afe36a99d309)
+* [Feature Selection with Null Importances(KR)](https://databreak.netlify.com/2019-04-21-Null_importance)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
