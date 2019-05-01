@@ -455,6 +455,7 @@ Python
   * [PYTHON Special methods - Customizing class creation](https://gist.github.com/dbckdghk/f6d2e877bc1cfeb20ca91e0afe18089f)
   * [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/#class-methods)
   * [Let’s get classy: how to create modules and classes with Python](https://medium.freecodecamp.org/lets-get-classy-how-to-create-modules-and-classes-with-python-44da18bb38d1)
+  * [파이썬 매직 메소드 (Python's Magic Methods)](https://ziwon.dev/post/python_magic_methods)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
