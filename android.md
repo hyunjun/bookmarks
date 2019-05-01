@@ -44,6 +44,7 @@ Android
 * [초딩도 한다! 안드로이드 앱개발&자바 코딩교실 예제를 에뮬레이터로 실행.1 - 새로운 소스 프로젝트 생성](http://cafe.naver.com/trendhunting/210242)
 * [SparseArray가 무엇인가요?](http://developer88.tistory.com/91)
 * [번역 DroidKaigi 2017 ~ How to apply DDD to Android Application Development](http://pluu.github.io/blog/android/droidkaigi/2017/04/02/droidkaigi-2017-ddd/)
+* [번역 DroidKaigi 2018 ~ Android 앱 개발에서의 도메인 주도 설계를 하는 이야기](http://pluu.github.io/blog/android/droidkaigi/2019/05/01/droidkaigi-ddd/)
 * [DroidKaigi 2019 참가 후기](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-review/)
 * [DroidKaigi 2019에서 들은 세션 ](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-insert-session/)
 * [Android Instant App SDK 체험기](http://blog.naver.com/pistolcaffe/221009529807)
@@ -60,6 +61,7 @@ Android
 * [Android MVVM : Lifecycle 감지하기](https://medium.com/@jsuch2362/android-mvvm-lifecycle-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0-204c4309436)
 * [AAC를 활용한 MVVM 패턴](https://medium.com/@joongwon/android-aac%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-mvvm-%ED%8C%A8%ED%84%B4-e24a685fc25d)
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
+* [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 * Mastering the World of Android Testing
   * [Part 1](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
