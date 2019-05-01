@@ -622,13 +622,15 @@ Linux
   * 해결; tmux command에 -f option이 있지만, 이 option은 새로 server를 시작할 때만 동작하므로, 위와 같이 새로 server를 시작하고 attach 해야 함
 * [You need to know how to use TMUX](https://www.youtube.com/watch?v=JeOSpnT29go)
 * [tmux - The Desktop Environment for your Terminal - Lunduke Show](https://www.youtube.com/watch?v=5iXzqN8-34E)
-* [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
 * [Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
+* XClip
+  * [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
+  * [X클립을 사용한 리눅스의 GUI 클립보드와 터미널 연동](https://www.44bits.io/ko/post/connecting-terminal-and-gui-cliboard-in-linux-by-using-xclip)
 
 ## command
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
