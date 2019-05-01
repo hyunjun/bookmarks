@@ -191,6 +191,7 @@ Interview
   * Google Docs
     * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
+    * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/crdt/2019/04/16/co-editor.html)** 동시에 같은 부분을 편집할 경우 해결하는 알고리즘에 대한 굉장히 좋은 글
   * Instagram
     * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
     * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
