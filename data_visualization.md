@@ -3,7 +3,6 @@ Data Visualization
 * [터미널 롯데리아, 동네 맥도날드, 강남 버거킹?](http://slownews.kr/38894)
 * [Gestalt Principles for Data Visualization](http://emeeks.github.io/gestaltdataviz/section1.html)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
-* [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
 * [Beautiful knowledge: Complicated numbers made simple](http://www.bbc.com/news/magazine-32299402)
 * [Gallery of concept visualization](http://conceptviz.github.io/#/e30=)
 * [To the point: 7 reasons you should use dot graphs](http://www.maartenlambrechts.be/to-the-point-7-reasons-you-should-use-dot-graphs/)
@@ -64,7 +63,6 @@ Data Visualization
   * [Butterfly (tornado) plt with 엑셀](http://blog.naver.com/kjhnav/221066222523)
 * [도시 데이터 시각화: 모으고 보여주는 만큼 알게 될 거야](https://medium.com/@wonyoungso/%EB%8F%84%EC%8B%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%EB%AA%A8%EC%9C%BC%EA%B3%A0-%EB%B3%B4%EC%97%AC%EC%A3%BC%EB%8A%94-%EB%A7%8C%ED%81%BC-%EC%95%8C%EA%B2%8C-%EB%90%A0-%EA%B1%B0%EC%95%BC-679347502269)
 * [For Large Scale Image Classification and Object Detection: AutoML](https://www.techleer.com/articles/408-for-large-scale-image-classification-and-object-detection-automl/)
-* [Data Visualization Experiments (react + d3.js)](https://github.com/sujinleeme/data-visualization-experiments)
 * [Data Visualization Hackathon Style](https://towardsdatascience.com/data-visualization-hackathon-style-c6dcaabbf626)
 * [Oracle Data Visualization - ML Model Comparison Example](https://www.youtube.com/watch?v=NgPRQwnv4GM)
 * [How To Choose The Right Chart Type For Your Data](https://www.kdnuggets.com/2018/04/right-chart-your-data.html)
@@ -84,6 +82,8 @@ Data Visualization
 * [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
 
 # D3.js
+* [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
+* [Data Visualization Experiments (react + d3.js)](https://github.com/sujinleeme/data-visualization-experiments)
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/D3)
 * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
@@ -121,6 +121,7 @@ Data Visualization
 * [Interactive Data Visualization with D3.js Unlock the pathway to data-driven visualizations](https://towardsdatascience.com/interactive-data-visualization-with-d3-js-43fc3428a27e)
 * [VISUALIZING MY SOCIAL GRAPH WITH D3.JS](https://www.packtpub.com/books/content/visualizing-my-social-graph-d3js)
 * [D3.js Data-Driven Documents](https://medium.com/@shaynekang/d3-js-6b26bb4e9554)
+* [A linguistic introduction to d3.js](https://medium.freecodecamp.org/a-linguistic-introduction-to-d3-js-7a40a980bf97)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
