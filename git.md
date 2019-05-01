@@ -146,6 +146,7 @@ Git
 * [깃(Git) 필수 명령어](https://tech.10000lab.xyz/git/git-cheat-sheet.html)
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
 * [GitHub Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
+* [Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/)
 * [주요 깃 서비스 비교](https://www.youtube.com/watch?v=a6h22u5r67M)
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
 * [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
@@ -155,6 +156,7 @@ Git
 * [Mac OS X 터미널에서 Git 패스워드 기억하기](https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd)
 * [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)
 * [Mind your programming language](https://medium.freecodecamp.org/mind-your-programming-language-38e340a430a1) .gitattributes
+* [The Essential Git Handbook](https://medium.freecodecamp.org/the-essential-git-handbook-a1cf77ed11b5)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
