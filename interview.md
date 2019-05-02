@@ -86,6 +86,8 @@ Interview
 * [어떻게 질문하는가?](https://brunch.co.kr/@imagineer/292)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
 * **[Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)**
+* [HOW TO ACE YOUR TECHNICAL INTERVIEW - EFFECTIVE COMMUNICATION | Tips from a Twitter engineer](https://www.youtube.com/watch?v=id7d0HeLT5g)
+  * edge cases, scope, use case, future extensions, tests, performance requirements
 * [좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
