@@ -33,6 +33,7 @@ Git
 * [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 * [Git 분산버전 관리시스템](https://www.gitbook.com/book/mylko72/git/details)
 * [Git for beginner++](https://medium.com/datadriveninvestor/git-for-beginner-f438adfc3599)
+* [깃허브 시작하기](https://www.slideshare.net/ssusercdbdf4/ss-142766071)
 * [Git/Github Beginner Part. 1](https://codeonweb.com/course/c9e85bb5-f1ec-4924-b947-a1c81334729f)
 * [Getting Started With Version Control — Part II Working with Git & GitHub like a boss](https://medium.com/@sergeantq/getting-started-with-version-control-part-ii-169d400c7440)
 * [Git Large File Storage](https://git-lfs.github.com/)
