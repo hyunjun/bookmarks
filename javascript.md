@@ -1848,6 +1848,7 @@ Javascript
 * [How to Build Faster with Reusable UI Components in React](https://codeburst.io/how-to-build-faster-with-reusable-ui-components-in-react-482397dec818)
 * [How to create a Timeline Component with React](https://medium.freecodecamp.org/how-to-create-a-timeline-component-with-react-1b216f23d3d4)
 * [How to identify and resolve wasted renders in React](https://medium.freecodecamp.org/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10)
+* [How to build a modern chat application with React.js](https://medium.freecodecamp.org/building-a-modern-chat-application-with-react-js-558896622194)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
