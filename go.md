@@ -210,6 +210,7 @@ Go
 * [GoLand에서 delve로 원격 디버깅하기](https://blog.outsider.ne.kr/1433)
 * [NAVER Tech Talk: Golang 밋업(2018년 8월, 2019년 1월)](https://d2.naver.com/news/3383672)
 * [The Journey of Running a Golang Program over Tor](https://hackernoon.com/the-journey-of-running-a-golang-program-over-tor-1c42a4041ba8)
+* [Go As a Scripting Language in Linux](https://www.youtube.com/watch?v=k7oosn5HrKk)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
