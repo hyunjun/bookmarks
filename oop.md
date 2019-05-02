@@ -47,6 +47,7 @@
 * [객체 모델링 공부하게 책 하나 추천해주세요](https://www.popit.kr/%EA%B0%9D%EC%B2%B4-%EB%AA%A8%EB%8D%B8%EB%A7%81-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B2%8C-%EC%B1%85-%ED%95%98%EB%82%98-%EC%B6%94%EC%B2%9C%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94) uml
 * [The Rise and Fall of Object Oriented Programming](https://medium.com/machine-words/the-rise-and-fall-of-object-oriented-programming-d67078f970e2)
 * [5 Free Object-Oriented Programming Online Courses for Programmers](https://medium.com/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73)
+* [GRASP – General Responsibility Assignment Software Patterns Explained](http://www.kamilgrzybek.com/design/grasp-explained/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
