@@ -449,6 +449,7 @@ Data Science
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [실시간 추천엔진 머신한대에 구겨넣기](http://www.slideshare.net/deview/261-52784785)
   * **['실시간 추천엔진 머신한대에 구겨넣기' 50줄로 구현하기](https://yeoubi.net/2019/04/07/2019-04-07-50-lines-of-recommendation-engine)**
+  * **[Tiny Elephant(English) In memory based collaborative filtering by python](https://github.com/kyunooh/tiny-elephant)**
 * [Netflix algorithm: Prize Tribute Recommendation Algorithm in Python](http://blog.smellthedata.com/2009/06/netflix-prize-tribute-recommendation.html)
 * [추천 시스템의 기초](https://www.datascienceschool.net/view-notebook/fcd3550f11ac4537acec8d18136f2066/) python RecSys
 * [MapReduce 기반 대용량 추천 알고리즘 개발](http://readme.skplanet.com/?p=2509)
