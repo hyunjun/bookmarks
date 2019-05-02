@@ -456,6 +456,7 @@ Linux
 * [fzf](https://github.com/junegunn/fzf)
   * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
+  * [Why you should be using fzf, the command line fuzzy finder](https://medium.freecodecamp.org/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * Inotify
   * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
