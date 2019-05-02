@@ -147,6 +147,7 @@
 * [is Hadoop dead and is it time to move to Spark](http://www.quora.com/Is-Hadoop-dead-and-is-it-time-to-move-to-Spark)
 * [Spark + S3 + R3 을 이용한 데이터 분석 시스템 만들기 by VCNC](https://speakerdeck.com/vcnc/spark-plus-s3-plus-r3-eul-iyonghan-deiteo-bunseog-siseutem-mandeulgi)
 * [Parallel Programming with Spark (Part 1 & 2) - Matei Zaharia](https://www.youtube.com/watch?v=7k4yDKBYOcw)
+* [3 Methods for Parallelization in Spark](https://towardsdatascience.com/3-methods-for-parallelization-in-spark-6a1a4333b473)
 * [Stream All the Things! Architectures for Data Sets that Never End](https://deanwampler.github.io/polyglotprogramming/papers/StreamAllTheThings.pdf)
   * 스트리밍 중심 응용 프로그램 및 데이터 플랫폼 구축
   * 서비스를 함께 연결하는 단순성을 보여줌으로써 이벤트 소싱 아키텍처에 대해 동기를 부여
