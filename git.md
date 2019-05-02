@@ -173,6 +173,7 @@ Git
 * [Git Operations Fail - Permission denied - publickey](https://confluence.atlassian.com/stashkb/git-operations-fail-permission-denied-publickey-385909210.html)
 * [GitHub 단축키 및 사용 팁 정리](https://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 * [깃헙 더 잘 쓰는 팁 세가지](https://www.youtube.com/watch?v=pAS84ZJF-Fg)
+* [GIT CLI 수업 명령어 정리와 나의 GIT 워크플로우](https://blog.naver.com/infobag/221527800322)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`
