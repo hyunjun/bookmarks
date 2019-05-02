@@ -190,6 +190,7 @@ iOS
 * [MVVM-C 학습자료 정리 MVVM-C란? Runtastic 의 MVVM-C 소개](https://medium.com/@junhyi.park/mvvm-c-%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C-%EC%A0%95%EB%A6%AC-7f169f3e376a)
 * [Swift Tutorial: An Introduction to the MVVM Design Pattern](https://www.toptal.com/ios/swift-tutorial-introduction-to-mvvm)
 * [An overview of the MVVM design pattern in Swift](https://medium.freecodecamp.org/an-overview-of-the-mvvm-design-pattern-in-swift-fb815ea5da40)
+* [스위프트와 GRASP 원칙](https://medium.com/@codesquad_yoda/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8%EC%99%80-grasp-%ED%8C%A8%ED%84%B4-d5e37a1bb5dc)
 * [The Supercomputer In Your Pocket: Metal & Swift](https://realm.io/news/swift-summit-simon-gladman-metal/)
 * [Writing Cleaner Asynchronous Code with PromiseKit](http://littlebitesofcocoa.com/post/120620198336/13-writing-cleaner-asynchronous-code-with)
 * [Server Sent Events (SSE): EventSource implementation on Swift](http://inaka.net/blog/2015/05/28/eventsource-implementation-on-swift/)
