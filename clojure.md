@@ -206,6 +206,8 @@ Clojure
 * [Delta Stochastic Gradient Descent](https://github.com/eunmin/delta-sgd) 딥러닝 첫걸음 2장
 * [backprop-xor](https://github.com/eunmin/backprop-xor)
 * [multi-class](https://github.com/eunmin/multi-class)
+* [Interop with c in clojure](https://www.slideshare.net/netpyoung/interop-with-c-in-clojure)
+  * [Interop with C in Clojure](https://github.com/netpyoung/pt.c-interop-in-clojure)
 * [Tricks for Java interop - How to reference inner classes, enums, generics, and varargs](https://purelyfunctional.tv/article/tricks-for-java-interop/)
 * [Problems with the JVM](https://purelyfunctional.tv/article/problems-with-the-jvm)
 * [The Legend of Long JVM Startup Times](https://purelyfunctional.tv/article/the-legend-of-long-jvm-startup-times/)
