@@ -136,6 +136,7 @@ Programming Books
     * - 저자가 암호를 좋아하는 건지 기본 알고리즘 - 암호화 알고리즘 - k means - 기타(유클리드, 페이지 랭크, 하노이의 탑)등 내용이 좀 산만하고 어떤 기준으로 선정했는지를 모르겠다
 * (NOT YET) [서평: 그들은 알고리즘을 알았을까? ](https://blog.gaerae.com/2018/10/once-upon-an-algorithm.html)
 * (NOT YET) [자료구조 입문 - 알고리즘과 그림으로 이해하고 C로 구현하는](https://freelec.co.kr/book/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%9D%84-%ED%83%84%ED%83%84%ED%9E%88-%ED%95%98%EC%9E%90/)
+* (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
 
 # Amazon AWS
 
