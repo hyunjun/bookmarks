@@ -472,6 +472,7 @@ TensorFlow
 * [Ranking Tweets with TensorFlow](https://medium.com/tensorflow/ranking-tweets-with-tensorflow-932d449b7c4)
 * [구글 텐서플로우 첫걸음](https://www.slideshare.net/HwanheeKim2/ss-137921987)
 * [RandWireNN_tensorflow - tensorflow implementation of Exploring Randomly Wired Neural Networks for Image Recognition using Cifar10, MNIST](https://github.com/swdsld/RandWire_tensorflow)
+* [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
