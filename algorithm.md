@@ -101,6 +101,7 @@ Algorithm
 * [LRU 알고리즘](https://docs.google.com/document/d/1ZAdmpJfSWGQMsMw4AfOussc7JvxjXBjV2dYeKxQSerA/edit)
 * [알고리즘](http://healthydeveloper.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [disjoint-set, union–find or merge–find set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+* [Union-Find 알고리즘](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
 * d2.naver.com
   * [NEXTERS 알고리즘 스터디 자료 외](http://d2.naver.com/news/4850628)
   * [알고리즘 문제 및 풀이 외](http://d2.naver.com/news/9160610)
@@ -304,6 +305,9 @@ Algorithm
 * [A\*보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
 * [A\*보다 빠른 JPS보다 빠른 JPS+](https://blog.naver.com/robo813/221341534052)
 * [Prim's algorithm in 2 minutes — Review and example](https://www.youtube.com/watch?v=cplfcGZmX7I)
+* [최소 비용 신장 트리(MST)와 크루스칼 알고리즘, 프림 알고리즘](https://m.blog.naver.com/qbxlvnf11/221374126045)
+* [Kruskal 알고리즘 이란](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
+* [18. 크루스칼 알고리즘(Kruskal Algorithm)](https://m.blog.naver.com/ndb796/221230994142)
 * [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
 * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
 * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
