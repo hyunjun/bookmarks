@@ -20,6 +20,7 @@ Interview
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 * **[Google Interview University](https://github.com/jwasham/google-interview-university/)**
   * [구글 인터뷰 대학(Google Interview University)](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)
+  * [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
 * [How To Prepare For Technical Interviews](https://www.youtube.com/watch?v=iqEOhM3OvYo)
@@ -188,6 +189,8 @@ Interview
   * [System Design Interview - Part 1 Approach and structure](https://www.youtube.com/watch?v=0163cssUxLA)
   * [System Design Interview - Part 2 How To Improve](https://www.youtube.com/watch?v=DggPVpQmrsg)
   * [System Design Interview - Part 3 Communicate effectively](https://www.youtube.com/watch?v=GcE-a7zO2N0)
+  * [Tackling the system design interview](https://cternus.net/blog/2018/01/26/tackling-the-system-design-interview/)
+  * [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
 * Problems
   * [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   * [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
@@ -205,6 +208,7 @@ Interview
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
+    * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
   * Twitter
     * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
     * [How to Design Twitter (Part 2)](http://blog.gainlo.co/index.php/2016/02/24/system-design-interview-question-how-to-design-twitter-part-2/)
@@ -245,6 +249,7 @@ Interview
     * DB 샤드 갯수도, 웹서버 클러스터도 너무 많다고 가정. 그들간의 네트워킹을 이어주는 장치(스위치 허브 등)에 과부하가 걸리면 어떻게 수평확장?
 * **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
 * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
 * [How to Build your Own Real-time Chat App like WhatsApp?](https://hackernoon.com/how-to-build-your-own-real-time-chat-app-like-whatsapp-9d1d058afd5b)
 * [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
