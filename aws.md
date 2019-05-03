@@ -461,6 +461,7 @@ AWS
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
   * **[AWS를 만드는 AWS, CloudFormation](https://www.huskyhoochu.com/introduce-cloudformation)**
+  * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
