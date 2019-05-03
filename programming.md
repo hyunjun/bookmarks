@@ -652,6 +652,7 @@ Programming
 * [효과적인 코드 리뷰를 위해서](https://engineering.linecorp.com/ko/blog/effective-codereview/)
 * [How to automate Code Reviews on Github](https://medium.freecodecamp.org/how-to-automate-code-reviews-on-github-41be46250712)
 * [코드리뷰 적응기(feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/02/28/pilot-project-settle.html)
+* [A zen manifesto for effective code reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
