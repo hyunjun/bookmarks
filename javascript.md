@@ -243,6 +243,7 @@ Javascript
 * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
 * [입문자가 겪기 쉬운 console.log 실수](https://www.zerocho.com/category/JavaScript/post/5b2b45cf1350f9001b662ba6)
 * [How to use the JavaScript console: going beyond console.log()](https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b)
+* [console.log에서 css 사용하기](https://www.youtube.com/watch?v=RcwrSBvJOaw)
 * [Colorful Console Message](https://medium.com/@samanthaming/colorful-console-message-2e8203786838)
 * [codepen.io/2016/popular/pens](http://codepen.io/2016/popular/pens/)
 * [awesome-js](https://github.com/ggomaeng/awesome-js)
@@ -1849,6 +1850,9 @@ Javascript
 * [How to create a Timeline Component with React](https://medium.freecodecamp.org/how-to-create-a-timeline-component-with-react-1b216f23d3d4)
 * [How to identify and resolve wasted renders in React](https://medium.freecodecamp.org/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10)
 * [How to build a modern chat application with React.js](https://medium.freecodecamp.org/building-a-modern-chat-application-with-react-js-558896622194)
+* [React JS를 Github Pages에 호스팅하기](https://www.munon.io/react-js-github-pages-deploy)
+* [React Native Chat with Chuck Norris](https://hackernoon.com/react-native-chat-with-chuck-norris-dd5721523742)
+* [Reintroducing React: every React update since v16 demystified](https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2144,7 +2148,8 @@ Javascript
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
-* [Vue.js 한국어 문서입니다. http://kr.vuejs.org](https://github.com/vuejs-kr/kr.vuejs.org)
+* [Vue.js 한국어 문서입니다. http://kr.vuejs.org ](https://github.com/vuejs-kr/kr.vuejs.org)
+* [다른 프레임워크와의 비교](https://kr.vuejs.org/v2/guide/comparison.html)
 * [Do it! Vue.js 자료](https://joshua1988.github.io/web-development/doit-vuejs/)
 * [Vue.js: a 3-minute interactive introduction](https://medium.freecodecamp.org/learn-basic-vue-js-crash-course-guide-vue-tutorial-e3da361c635)
 * [자바스크립트 프레임워크 소개 3 - Vue.js](http://meetup.toast.com/posts/99)
