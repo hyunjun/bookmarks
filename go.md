@@ -178,6 +178,7 @@ Go
 * [다른 언어에서 Go 함수 호출하기](http://hamait.tistory.com/874)
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
+* [Live building a scalable API in Go with Kubernetes](https://www.youtube.com/watch?v=pkZrgHxJ130)
 * [Writing a JIT compiler in Golang](https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f)
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
 * [Go 서버 개발하기](https://www.buzzvil.com/ko/2018/02/12/tech-blog-go-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
