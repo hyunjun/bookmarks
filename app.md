@@ -203,6 +203,7 @@ App
   * [hugo meets github pages](https://nicewook.github.io/blog/post/hugo-meets-ghpages.html)
   * [Jupyter를 블로그에 적용하기 jupyter + maya + hugo](https://libsora.so/posts/apply-jupyter-into-blog/)
   * [Universal theme to Hugo](https://github.com/devcows/hugo-universal-theme)
+  * [Two ways to deploy a public GitHub Pages site from a private Hugo repository](https://medium.freecodecamp.org/two-ways-to-deploy-a-public-github-pages-site-from-a-private-hugo-repository-627312ec63b9)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
@@ -321,6 +322,7 @@ App
     * [Here are some super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
     * [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
     * [How I configure VSCode for Everything](https://hackernoon.com/how-i-configure-vscode-for-everything-7df65a316a52)
+    * [How to set up the debugger for Chrome extension in Visual Studio Code](https://medium.freecodecamp.org/how-to-set-up-the-debugger-for-chrome-extension-in-visual-studio-code-c0b3e5937c01)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
