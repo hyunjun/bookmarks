@@ -932,6 +932,7 @@ NLP
   * [BERT 논문정리](https://mino-park7.github.io/nlp/2018/12/12/bert-%EB%85%BC%EB%AC%B8%EC%A0%95%EB%A6%AC/)
   * [Visualization tool for Transformer-based language representation models (demonstrated on BERT)](https://www.youtube.com/watch?v=187JyiA4pyk)
   * [Guide KorQuAD upload to leaderboard (EM 68.947 / F1 88.468) model which only use BERT-multilingual(single) https://korquad.github.io ](https://github.com/graykode/KorQuAD-beginner)
+  * [Transformer-Encoder-with-Char](https://github.com/MSWon/Transformer-Encoder-with-Char)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
