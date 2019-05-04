@@ -339,6 +339,7 @@ Javascript
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
 * [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
+* [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
 * [javascript ajax 크로스도메인 요청 - CORS](https://brunch.co.kr/@adrenalinee31/1)
@@ -1411,6 +1412,7 @@ Javascript
 * [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
 * [You should never ever run directly against Node.js in production. Maybe](https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6)
 * [Node.js: what it is, when and how to use it, and why you should](https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2)
+* [Serverless PDF news renderer in Node.js](https://medium.com/silesis/serverless-pdf-news-renderer-in-node-js-138223a4557a)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2273,3 +2275,4 @@ Javascript
 * [vue js 사용 가이드](https://wikidocs.net/book/1937)
 * [Learn Vue.js - Full Course for Beginners](https://www.youtube.com/watch?v=4deVCNJq3qc)
 * [How to Add Charts and Graphs to a Vue.js Application](https://medium.freecodecamp.org/how-to-add-charts-and-graphs-to-a-vue-js-application-29f943a45d09)
+* [Vue.js 개발 생산성을 높여주는 도구 3가지](https://joshua1988.github.io/web-development/vuejs/boost-productivity/)
