@@ -2091,6 +2091,9 @@ CVPR2016)
 * [Reinforcement Learning with Python](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2)
 * [TetrisXQ - Difficult and annoying Tetris implemented by Reinforcement Lrarning](https://github.com/junghyun397/TetrisXQ)
 * [Learning to Paint - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning](https://github.com/hzwer/LearningToPaint)
+* [쉽게구현하는 강화학습 1화 Policy Gradient - REINFORCE와 Actor-Critic 구현하기!](https://www.youtube.com/watch?v=12pXaP8KPbE)
+  * [minimalRL](https://github.com/seungeunrho/minimalRL)
+* [Reinforcement Learning as Probabilistic Inference](https://colab.research.google.com/drive/1VkoRfg_thJuRyWlZXFNvPcRrviRlxO9I) ipynb
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
