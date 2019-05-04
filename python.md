@@ -2125,6 +2125,8 @@ Python
     * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
     * [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
+    * [파이썬 구글시트 연동 클래스 소개](https://www.youtube.com/watch?v=ivnT4TwYcn0)
+    * [파이썬과 구글 Sheet 연동하기](https://coalastudy.com/learn/1299)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
