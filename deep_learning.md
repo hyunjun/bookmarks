@@ -1032,6 +1032,7 @@ Deep Learning
 * [cycleGAN 낮사진을 밤사진으로 바꾸는 ai](https://docs.google.com/presentation/d/1-82NXqa8oGAxuNOg2xCsVpiKkpzkDeE71PrQQ0YHFbo)
 * [Efficient, Simplistic Training Pipelines for GANs in the Cloud with Paperspace](https://medium.com/@ODSC/efficient-simplistic-training-pipelines-for-gans-in-the-cloud-with-paperspace-d6cfbc33b7c3)
 * [Semantic Image Synthesis with SPADE](https://github.com/NVlabs/SPADE)
+* [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -2032,6 +2033,7 @@ CVPR2016)
 * [Deep Reinforcement Learning Doesn't Work Yet](https://www.alexirpan.com/2018/02/14/rl-hard.html)
 * [Inverse Reinforcement Learning pt. I](https://thinkingwires.com/posts/2018-02-13-irl-tutorial-1.html)
 * [Inverse Reinforcement Learning](https://www.youtube.com/watch?v=0q30_gDlrwk)
+* [정리 Algorithms for Inverse Reinforcement Learning](https://curt-park.github.io/2019-05-05/algorithms-for-irl/)
 * [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 * [강화학습과 가상화폐](https://wonseokjung.github.io//crypto_rl/update/cryptoandRL_1/)
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
