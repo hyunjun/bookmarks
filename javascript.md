@@ -179,6 +179,7 @@ Javascript
 * [실행 컨텍스트와 클로저](https://blog.naver.com/edy5016/221161415051)
 * [Closure Compiler in JavaScript](https://developers.googleblog.com/2016/08/closure-compiler-in-javascript.html)
 * [JavaScript Weekly: Making Sense of Closures](https://medium.com/launch-school/javascript-weekly-making-sense-of-closures-daa2e0b56f88)
+* [A basic guide to Closures in JavaScript](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
@@ -1646,6 +1647,8 @@ Javascript
 * [jaeyeophan.github.io/categories/React](https://jaeyeophan.github.io/categories/React/)
 * [React 적용 가이드 - 네이버 메일 모바일 웹 적용기](http://d2.naver.com/helloworld/4966453)
 * [테스팅 코드 작성하기 - Enzyme을 활용하여 React 컴포넌트 테스팅 코드 작성하기](https://medium.com/@sangboaklee/react-%ED%85%8C%EC%8A%A4%ED%8C%85-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-1c3719cee5af)
+* [Jest, Enzyme 을 통한 리액트 컴포넌트 유닛 테스팅](https://velopert.com/3587)
+* [How to get started: testing a Ruby-on-Rails / ReactJS app with RSpec, Jest and Enzyme](https://medium.freecodecamp.org/how-to-get-started-testing-a-ruby-on-rails-reactjs-app-with-rspec-jest-and-enzyme-d058f415894e)
 * [React.js를 위한 툴 설치](https://jungwoon.github.io/react.js/2017/07/20/React-Preset/)
 * [React.js + React Router v4 + Express.js Sample project http://komalab.com ](https://github.com/edoko/react-js-sample)
 * [An introduction to animated transitions with React Router](https://medium.freecodecamp.org/animated-transitions-with-react-router-a0ad00e633f1)
@@ -1681,7 +1684,6 @@ Javascript
 * [Webpack, ES6, TS로 만든 React datagrid 컴포넌트 제작기 - 장기영 / KCD2018](https://jsdev.kr/t/webpack-es6-ts-react-datagrid-kcd2018/3208)
 * [How to write a frontend JavaScript plugin using ES6 + SASS + Webpack](https://itnext.io/how-to-write-a-frontend-javascript-plugin-using-es6-sass-webpack-a1c6d6fdeb71)
 * [Dragging React performance forward](https://medium.com/@alexandereardon/dragging-react-performance-forward-688b30d40a33)
-* [Jest, Enzyme 을 통한 리액트 컴포넌트 유닛 테스팅](https://velopert.com/3587)
 * [How to track user interactions in your React app](https://medium.freecodecamp.org/how-to-track-user-interactions-in-your-react-app-b82f0bc4c7ff)
 * [8 React conditional rendering methods](https://blog.logrocket.com/conditional-rendering-in-react-c6b0e5af381e)
 * [Structuring projects and naming components in React](https://hackernoon.com/structuring-projects-and-naming-components-in-react-1261b6e18d76)
@@ -1990,6 +1992,7 @@ Javascript
     * [MobX 예시코드](https://codesandbox.io/s/yv4w13q2q9)
   * [React에서 Mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
   * [mobx-react-lite - Lightweight React bindings for MobX based on React 16.8 and Hooks](https://github.com/mobxjs/mobx-react-lite)
+  * mobx-state-tree-router [How to build a state-based router using React and MobX State Tree](https://medium.freecodecamp.org/how-to-build-a-state-based-router-using-react-and-mobx-state-tree-e91b2b8e8d79)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
 * [N1 is an open-source mail client built on the modern web with Electron, React, and Flux](https://github.com/nylas/N1/##)
 * Next.js
@@ -2147,6 +2150,7 @@ Javascript
 * [The easy way to get TypeScript interfaces from C#, Java, or Python code in any IDE](https://medium.freecodecamp.org/the-easy-way-to-get-typescript-interfaces-from-c-java-or-python-code-in-any-ide-c3acac1e366a)
 * [How (and why) you should use Typescript with Node and Express](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
 * [When to use TypeScript: a detailed guide through common scenarios](https://medium.freecodecamp.org/when-to-use-typescript-a-detailed-guide-through-common-scenarios-b0a57e57905)
+* [A crash course in TypeScript](https://medium.freecodecamp.org/a-crash-course-in-typescript-e6bf9c10946)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
