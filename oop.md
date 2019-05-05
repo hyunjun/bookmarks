@@ -121,6 +121,7 @@
 * [MVC: Model, View, Controller](https://flask-diamond.readthedocs.io/en/latest/model-view-controller/)
 * [Difference between MVC and MVVM](https://medium.com/mobidroid/difference-between-mvc-and-mvvm-456ec67181f6)
 * [MVC vs. MVVM: How a Website Communicates With Its Data Models](https://hackernoon.com/mvc-vs-mvvm-how-a-website-communicates-with-its-data-models-18553877bf7d)
+* [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
