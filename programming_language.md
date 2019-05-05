@@ -304,6 +304,7 @@ Programming Language
 * [Octave](http://www.gnu.org/software/octave/)
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
+* [Orca Programming Language](https://github.com/lynix94/orca-lang)
 * [Quipper is an embedded, scalable functional programming language for quantum computing](http://www.mathstat.dal.ca/~selinger/quipper/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
