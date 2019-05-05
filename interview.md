@@ -201,10 +201,6 @@ Interview
   * Instagram
     * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
     * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
-  * Netflix
-    * [NETFLIX System design | software architecture for netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
-    * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
-    * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html) 전체적인 구조를 아는 데 좋지만 정말 길어서 제대로 다 읽지는 못함
   * Online store
     * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part)
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
@@ -216,6 +212,17 @@ Interview
   * Twitter
     * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
     * [How to Design Twitter (Part 2)](http://blog.gainlo.co/index.php/2016/02/24/system-design-interview-question-how-to-design-twitter-part-2/)
+  * Video
+    * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
+    * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
+    * [How to Design Youtube (Part II)](http://blog.gainlo.co/index.php/2016/11/04/design-youtube-part-ii/)
+    * Netflix
+      * [NETFLIX System design | software architecture for netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
+      * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
+      * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html) 전체적인 구조를 아는 데 좋지만 정말 길어서 제대로 다 읽지는 못함
+    * Youtube
+      * **[Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)** 2012년 영상이지만 youtube에 국한되지 않고 전반적인 걸 이해하는 데 정말 좋은 영상
+        * [YouTube Architecture](http://highscalability.com/youtube-architecture)
   * [System Design Interview with a Senior Software Engineer @Microsoft](https://www.youtube.com/watch?v=lOcqPEOROwQ) Google maps
   * [Design a Key-Value Store (Part I)](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
   * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
