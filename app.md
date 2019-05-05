@@ -255,6 +255,7 @@ App
 * [wire](https://wire.com/) skype alternative
 
 # Cowork
+* [Why you should ditch Email, and the way we should communicate at work](https://medium.freecodecamp.org/why-you-should-ditch-email-and-the-way-we-should-communicate-at-work-afd5d02652ce) 이메일 외의 communication app에 대한 이야기
 * [screenhero.com](https://screenhero.com/)
 
 # Development
@@ -323,10 +324,13 @@ App
     * [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
     * [How I configure VSCode for Everything](https://hackernoon.com/how-i-configure-vscode-for-everything-7df65a316a52)
     * [How to set up the debugger for Chrome extension in Visual Studio Code](https://medium.freecodecamp.org/how-to-set-up-the-debugger-for-chrome-extension-in-visual-studio-code-c0b3e5937c01)
+    * [Vscode 플러그인 리팩토링 - async & await](https://kdinner.tistory.com/46)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
+* [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
+  * [We are developing an open source editor for presentations](https://hackernoon.com/we-are-developing-an-open-source-editor-for-presentations-9cfc69571133)
 * [Frame-Based Editing](http://www.greenfoot.org/frames/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
