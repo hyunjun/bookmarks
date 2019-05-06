@@ -45,6 +45,7 @@ Ruby
 * [How to scrape with Ruby and Nokogiri and map the data](https://medium.freecodecamp.org/how-to-scrape-with-ruby-and-nokogiri-and-map-the-data-bd9febb5e18a)
 * [구글 앱스 스크립트(Google Apps Script) 외부에서 실행하기 실행 가능한 API로 배포하고 루비(Ruby)에서 호출하기](https://www.44bits.io/ko/post/google-app-script-external-execution-by-ruby)
 * [루비 2.6 릴리즈 및 주요 문법 변경 사항 소개](https://www.44bits.io/ko/post/ruby-2-6-0-released-and-changes)
+* [Add badges for TravisCI, Coveralls and Code Climate to your Readme (Ruby)](https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
