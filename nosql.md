@@ -329,6 +329,7 @@ NoSQL
 * [Tasks and Task Scheduler for MongoDB](https://studio3t.com/knowledge-base/articles/automate-schedule-mongodb-tasks/)
 * [How To Merge Multiple SQL Tables Into One MongoDB Collection](https://studio3t.com/knowledge-base/articles/merge-multiple-sql-tables-to-mongodb)
 * [How to setup replicaSet in standalone MongoDB cluster](https://hackernoon.com/how-to-setup-replicaset-in-standalone-mongodb-cluster-9cd71a3996fb)
+* [Seeding MongoDB database the right way](https://medium.com/@pkosiec/seeding-mongodb-database-the-right-way-32a8a0e75490)
 
 # [PipelineDB](http://www.pipelinedb.com/)
 * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
