@@ -399,6 +399,7 @@ Docker
   * `sudo docker rmi --force $(sudo docker images -a | grep none | awk '{print $3}' | xargs)`
   * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
 * run `sudo docker run [--rm|-d] -p hostPort:containerPort [name]`
+  * `--detach` [Docker’s detached mode for beginners](https://medium.freecodecamp.org/dockers-detached-mode-for-beginners-c53095193ee9)
   * `-m 32m` [Limit a container’s access to memory](https://docs.docker.com/engine/admin/resource_constraints/#limit-a-containers-access-to-memory)
   * `--net=host` to run as [host mode for network](https://docs.docker.com/network/host/)(default bridge)
     * Use the same port for host & container
@@ -719,6 +720,7 @@ Docker
 * [처음 본 오픈 스택 Glance](http://knight76.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B3%B8-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D-Glance)
 * [openstack rpc worker는 thread임…](http://blog.woosum.net/archives/1589)
 * [Red Hat! and After 1 year](http://naleejang.tistory.com/204)
+* [Load balancer as a service Octavia](https://naleejang.tistory.com/212)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
