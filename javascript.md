@@ -674,6 +674,7 @@ Javascript
 * [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 * [ES6 and Beyond >](https://hackernoon.com/es6-and-beyond-28aed8574e00)
 * [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+* [ECMAScript 튜토리얼](https://wormwlrm.github.io/2019/04/04/ECMAScript-tutorial.html)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -904,6 +905,7 @@ Javascript
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
+* fullPage.js [전체화면 스크롤 웹 사이트 플러그인 fullPage.js](https://wormwlrm.github.io/2018/08/05/How-to-make-web-page-to-slide-by-using-fullpage-js.html)
 * [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
   * [퓨즈FUSETOOLS 소개 :: 2016년 최신 자료](https://blog.wonhada.com/?p=2386)
   * [퓨즈Fusetools](https://wonhada.com/?ht_kb_category=fusetools)
