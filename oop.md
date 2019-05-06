@@ -40,6 +40,7 @@
   * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
   * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
   * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
+* [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
 * [Memento Pattern](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180907_BB_memento_pattern.md)
 * [이펙티브 자바3판 2장 객체 생성과 파괴](http://sjh836.tistory.com/168)
 * [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
