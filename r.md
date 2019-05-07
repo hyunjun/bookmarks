@@ -296,6 +296,7 @@ R
 * [데이터의 생성, 참조, 수정, 추가, 삭제](http://ds.sumeun.org/?p=1156)
 * [Quick Hit: Scraping javascript-“enabled” Sites with {htmlunit}](https://www.r-bloggers.com/quick-hit-scraping-javascript-enabled-sites-with-htmlunit/)
 * [cRafty tRicks – No more typing brackets!](https://www.r-bloggers.com/crafty-tricks-no-more-typing-brackets-2/) debugging
+* [GOOGLE COLABORATORY에 R 커널 설치하기](https://lumiamitie.github.io/r/r-in-colab/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
