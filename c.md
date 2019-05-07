@@ -273,6 +273,7 @@ C
 * [Libcox is an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
   * [Symisc Libcox - Cross Platform System Calls & Utilities](https://github.com/symisc/libcox)
 * [libfor - A very fast scalar implementation for Frame Of Reference integer compression](https://github.com/cruppstahl/for/tree/master)
+* [libgairq - A GObject based RESTful API library written in C for gathering Air Quality information](https://github.com/yisooan/libgairq)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
 * [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)
 * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
