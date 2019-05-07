@@ -194,6 +194,9 @@ Interview
 * Problems
   * [System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   * [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+  * Autocomplete or Typeahead
+    * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
+    * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
   * Google Docs
     * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
