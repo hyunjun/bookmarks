@@ -111,9 +111,6 @@ PyTorch
 * [PyTorch NEAT](https://github.com/uber-research/PyTorch-NEAT/)
 * [PyTorch JIT Source Code Read Note](https://zasdfgbnm.github.io/2018/09/20/PyTorch-JIT-Source-Code-Read-Note/)
 * [Training Neural Nets on Larger Batches: Practical Tips for 1-GPU, Multi-GPU & Distributed setups](https://medium.com/huggingface/training-larger-batches-practical-tips-on-1-gpu-multi-gpu-distributed-setups-ec88c3e51255)
-* [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
-* [PyTorch implementation of Google AI's BERT model with a script to load Google's pre-trained models](https://github.com/huggingface/pytorch-pretrained-BERT)
-* [pytorch implementation of google BERT](https://github.com/dhlee347/pytorchic-bert)
 * [BraTs (Brain Tumor Segmentation)](https://github.com/JooHyun-Lee/BraTs) DeepLab v3+, PSPNet
 * [pytorch-mnist-VAE - Variational AutoEncoder on the MNIST data set using the PyTorch](https://github.com/lyeoni/pytorch-mnist-VAE)
 * [pytorch-mnist-CVAE - Conditional Variational AutoEncoder on the MNIST data set using the PyTroch](https://github.com/lyeoni/pytorch-mnist-CVAE)
@@ -147,6 +144,12 @@ PyTorch
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 * [The dangers of reshaping and other fun mistakes I’ve learnt from PyTorch](https://medium.com/mcgill-artificial-intelligence-review/the-dangers-of-reshaping-and-other-fun-mistakes-ive-learnt-from-pytorch-b6a5bdc1c275)
 * [Randomly Wired Neural Network - Implementing Randomly Wired Neural Networks for Image Recognition, Using CIFAR-10 dataset, CIFAR-100 dataset](https://github.com/leaderj1001/RandWireNN)
+
+# BERT
+* [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
+* [PyTorch implementation of Google AI's BERT model with a script to load Google's pre-trained models](https://github.com/huggingface/pytorch-pretrained-BERT)
+* [pytorch implementation of google BERT](https://github.com/dhlee347/pytorchic-bert)
+* [딥러닝으로 동네생활 게시글 필터링하기](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
