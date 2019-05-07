@@ -2193,6 +2193,7 @@ Python
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
 * [Mani - a distribued cron like scheduler](https://github.com/sherinkurian/mani)
 * [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
+* [methodtools.lru_cache](https://pypi.org/project/methodtools) functools.lru_cache가 classmethod나 staticmethod에 대해 제대로 동작하지 않아 이를 보완하기 위해 작성했다고 함
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
