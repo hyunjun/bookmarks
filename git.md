@@ -35,6 +35,7 @@ Git
 * [Git for beginner++](https://medium.com/datadriveninvestor/git-for-beginner-f438adfc3599)
 * [깃허브 시작하기](https://www.slideshare.net/ssusercdbdf4/ss-142766071)
 * [Git/Github Beginner Part. 1](https://codeonweb.com/course/c9e85bb5-f1ec-4924-b947-a1c81334729f)
+* [An introduction to Git for absolute beginners](https://medium.freecodecamp.org/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71)
 * [Getting Started With Version Control — Part II Working with Git & GitHub like a boss](https://medium.com/@sergeantq/getting-started-with-version-control-part-ii-169d400c7440)
 * [Git Large File Storage](https://git-lfs.github.com/)
   * [Git extension for versioning large files](https://github.com/github/git-lfs)
