@@ -67,4 +67,5 @@ Presentation
 * [slides.com](http://slides.com/)
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
+  * [slides.com/news/code-line-numbers](https://slides.com/news/code-line-numbers/)
 * **[spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide)**
