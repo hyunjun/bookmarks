@@ -199,6 +199,8 @@ Interview
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
   * Google Docs
     * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
+    * [Google Docs System design | Part 1| Operational transformation | differentail synchronisation](https://www.youtube.com/watch?v=2auwirNBvGg)
+    * [Google Docs System design | part 2| System components explanation micro services arcitecture](https://www.youtube.com/watch?v=U2lVmSlDJhg)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
     * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/crdt/2019/04/16/co-editor.html)** 동시에 같은 부분을 편집할 경우 해결하는 알고리즘에 대한 굉장히 좋은 글
   * Instagram
