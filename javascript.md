@@ -676,6 +676,7 @@ Javascript
 * [ES6 and Beyond >](https://hackernoon.com/es6-and-beyond-28aed8574e00)
 * [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 * [ECMAScript 튜토리얼](https://wormwlrm.github.io/2019/04/04/ECMAScript-tutorial.html)
+* [‘let’ me be a ‘const’(ant), not a ‘var’(iable)!](https://medium.freecodecamp.org/let-me-be-a-const-ant-not-a-var-iable-1be52d153462)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1562,6 +1563,7 @@ Javascript
 * [How to never repeat the same RxJs mistakes again](https://medium.freecodecamp.org/blitz-tips-rxjs-pipe-is-not-a-subscribe-125c89437a2c)
 * [How to think reactively and animate moving objects using RxJs](https://medium.freecodecamp.org/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac)
 * [How to easily ignore useEffect HTTP calls with RxJS](https://medium.freecodecamp.org/how-to-easily-cancel-useeffect-http-calls-with-rxjs-d1be418014e8)
+* [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
 * [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
 * [NgRx 5 and Schematics](https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
