@@ -500,6 +500,7 @@ R
 * [subsetr](https://github.com/jimhester/subsetr)
 * summarytools [Introduction to summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)
+* taltal [탈탈(taltal) 데이터 패키지](https://github.com/taltal-ddj/taltal)
 * [taskscheduleR - Schedule R scripts/processes with the Windows task scheduler](https://github.com/bnosac/taskscheduleR)
 * [tidyverse](http://tidyverse.org/)
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
