@@ -1270,6 +1270,7 @@ NLP
   * [Part 2 - Negative Sampling](http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/)
   * [Commented (but unaltered) version of original word2vec C implementation](https://github.com/chrisjmccormick/word2vec_commented)
   * [Word2Vec Resources](http://mccormickml.com/2016/04/27/word2vec-resources/)
+* [Demystifying Neural Network in Skip-Gram Language Modeling](https://aegis4048.github.io/demystifying_neural_network_in_skip_gram_language_modeling)
 * [word2vec, LDA, and introducing a new hybrid algorithm: lda2vec](http://www.slideshare.net/ChristopherMoody3/word2vec-lda-and-introducing-a-new-hybrid-algorithm-lda2vec-57135994)
 * [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
   * [Bag of Words Meets Bags of Popcorn](https://github.com/corazzon/KaggleStruggle/blob/master/word2vec-nlp-tutorial/tutorial-part-1.ipynb)
