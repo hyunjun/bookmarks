@@ -982,6 +982,7 @@ Programming Books
 * [프로그래머를 위한 단단한 수학 책, 『CONCRETE MATHEMATICS 구체 수학』](https://blog.insightbook.co.kr/2018/04/09/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8B%A8%EB%8B%A8%ED%95%9C-%EC%88%98%ED%95%99-%EC%B1%85-%E3%80%8Econcrete-mathematics-%EA%B5%AC%EC%B2%B4-%EC%88%98%ED%95%99/)
   * 한라 413.5그294ㄱ
   * continuous + discrete = concrete. 이 책을 읽고 이해할 수 있다면 왠만한 problem solving 영역의 문제들은 해결할 수 있을 듯
+* (NOT YET) [수학의 아름다움](https://www.popit.kr/%EC%88%98%ED%95%99%EC%9D%98-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80/)
 
 # Network
 
