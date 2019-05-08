@@ -204,6 +204,7 @@ Git
   * [Git Flow Integration으로 Git Flow 심플하게 운영하기](http://jojoldu.tistory.com/268)
   * [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
   * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
+  * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * create new branch
