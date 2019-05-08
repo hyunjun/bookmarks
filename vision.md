@@ -305,9 +305,6 @@ Vision
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
-* [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
-  * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
-  * [#엑소사랑하자 – OpenFace로 우리 오빠들 얼굴 인식하기](http://www.popit.kr/openface-exo-member-face-recognition/)
 * **[OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose)**
   * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
   * [Multi-Person Face/Body/Hand Keypoint Detection](https://www.youtube.com/watch?v=cPiN2ncuK0Y)
@@ -445,7 +442,12 @@ Vision
   * [DeepIsolation.ipynb](https://colab.research.google.com/drive/1azCXH4udXSTkEf3JLihdMTPoCKB7IETq)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
+* [facenet - Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
+* [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
+* [openface - Face recognition with deep neural networks. http://cmusatyalab.github.io/openface ](https://github.com/cmusatyalab/openface)
+  * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
+  * [#엑소사랑하자 – OpenFace로 우리 오빠들 얼굴 인식하기](http://www.popit.kr/openface-exo-member-face-recognition/)
 
 # R
 * [Human Face Detection with R](https://www.r-bloggers.com/human-face-detection-with-r/)
