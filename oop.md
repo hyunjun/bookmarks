@@ -49,6 +49,7 @@
 * [The Rise and Fall of Object Oriented Programming](https://medium.com/machine-words/the-rise-and-fall-of-object-oriented-programming-d67078f970e2)
 * [5 Free Object-Oriented Programming Online Courses for Programmers](https://medium.com/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73)
 * [GRASP – General Responsibility Assignment Software Patterns Explained](http://www.kamilgrzybek.com/design/grasp-explained/)
+* [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
