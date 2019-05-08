@@ -990,6 +990,7 @@ Deep Learning
 * [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
 * [Deep Learning에서 "일러스트와 바람 인간 이미지 생성 모델 '을 만든 이야기 (DCGAN, Wasserstein GAN)](http://mickey24.hatenablog.com/entry/irasutoya_deep_learning)
 * [art-DCGAN](https://github.com/robbiebarrat/art-DCGAN/blob/master/README.md)
+* [Generative Adversarial Network : DCGAN을 이용한 이미지 생성](http://research.sualab.com/introduction/practice/2019/05/08/generative-adversarial-network.html)
 * [How AI can learn to generate pictures of cats](https://medium.freecodecamp.org/how-ai-can-learn-to-generate-pictures-of-cats-ba692cb6eae4)
 * [Generative Adversarial Networks (GANs)](http://guertl.me/post/162759264070/generative-adversarial-networks)
 * [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
