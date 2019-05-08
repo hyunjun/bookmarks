@@ -22,3 +22,4 @@ Flutter
 * [RTFM 공부법 - 플러터 (Flutter) 튜토리얼 1](https://www.youtube.com/watch?v=7LwE_7kJbAY)
 * [Flutter vs React Native — Will Flutter Kill React Native](https://hackernoon.com/flutter-vs-react-native-will-flutter-kill-react-native-16f5515e5444)
 * [Flutter와 싸우기, 그리고 화해하기](https://speakerdeck.com/dsa28s/2019-gdg-suwon-na-kodinghanda-flutter-pyeon-flutterwa-ssaugi-geurigo-hwahaehagi)
+* [#1 플러터를 소개합니다](https://brunch.co.kr/@yudong/105)
