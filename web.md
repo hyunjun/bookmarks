@@ -77,6 +77,7 @@ Web
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
+  * [Web Development Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-may-2019-4aa4cc5eae73)
   * [Learn Web Development from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-web-development-from-top-50-articles-for-the-past-year-v-2019-f589aa4d82e5)
   * [Web Development Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-dec-2018-57ec5828a6e)
   * [Web Development Top 10 Articles For the Past Month (v.Dec 2018)](https://medium.com/@Mybridge/web-development-top-10-articles-for-the-past-month-v-dec-2018-3c35a47c8ffb)
@@ -301,6 +302,7 @@ Web
   * [자동화 브라우져에 사용자 환경 불러오기](https://medium.com/@zective/selenium-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%8B%9C-%EC%BA%A1%EC%B1%A0-%ED%8C%A8%EC%8A%A4-11221379b661)
   * [Mobility-Engineering-blog-post-crawl](https://github.com/HyoukJang/mobility-blog-post-crawl)
   * [셀레니엄으로 나무위키 다이나믹 요소 크롤하기](https://among.software/content/a42554f041466cc0fa03f364458ce78de3b45fff)
+  * [How to scrape websites using Python](https://medium.freecodecamp.org/scrap-websites-using-python-c0c7ad41d2dd)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 # CSS
