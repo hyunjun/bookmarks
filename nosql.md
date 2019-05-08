@@ -230,6 +230,7 @@ NoSQL
 # [H2 Database Engine](http://www.h2database.com/)
 
 # [HazelCast](http://hazelcast.org/)
+* [Mastering Hazelcast IMDG](https://hazelcast.com/resources/mastering-hazelcast)
 
 # [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
