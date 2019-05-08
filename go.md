@@ -213,6 +213,7 @@ Go
 * [The Journey of Running a Golang Program over Tor](https://hackernoon.com/the-journey-of-running-a-golang-program-over-tor-1c42a4041ba8)
 * [Go As a Scripting Language in Linux](https://www.youtube.com/watch?v=k7oosn5HrKk)
 * [Several tips for Go coding-1](https://jinhoyoo.github.io/Several-tips-for-Go-coding-1)
+* [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
