@@ -144,6 +144,7 @@ PyTorch
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 * [The dangers of reshaping and other fun mistakes I’ve learnt from PyTorch](https://medium.com/mcgill-artificial-intelligence-review/the-dangers-of-reshaping-and-other-fun-mistakes-ive-learnt-from-pytorch-b6a5bdc1c275)
 * [Randomly Wired Neural Network - Implementing Randomly Wired Neural Networks for Image Recognition, Using CIFAR-10 dataset, CIFAR-100 dataset](https://github.com/leaderj1001/RandWireNN)
+* [Music Translation - PyTorch implementation of the method described in the A Universal Music Translation Network](https://github.com/facebookresearch/music-translation)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
