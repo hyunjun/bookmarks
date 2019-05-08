@@ -201,6 +201,7 @@ ElasticSearch - Lucene
 * [ElasticSearch 인덱싱 성능 최적화](https://brunch.co.kr/@alden/37)
 * [Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
   * IBM에서 ES + SPark + Jupyter Notebook 을 사용하여 추천시스템을 만드는 튜토리얼을 소개
+* [HowTo: Migrate data from an Elasticsearch Cluster to another Elasticsearch Cluster with Spark](https://medium.com/@mykidong/howto-migrate-data-from-an-elasticsearch-cluster-to-another-elasticsearch-cluster-with-spark-adf550e3a7ec)
 * [To Solving Problems](https://www.elastic.co/solutions) app search, site search, logging, metrics, ...
   * [Elastic 솔루션](https://www.elastic.co/kr/solutions)
 * [Elastic{ON}17](https://www.elastic.co/elasticon/conf/2017/sf)
