@@ -11,7 +11,6 @@ Deep Learning
   * [완전쉬운 딥러닝 동영상 원고](http://kr.deductiontheory.com/2017/03/blog-post_3.html)
   * [Super Easy Deep Learning](https://www.youtube.com/watch?v=8NkZohHnxck)
 * [자습해도 모르겠던 딥러닝, 머리속에 인스톨 시켜드립니다](https://www.slideshare.net/yongho/ss-79607172)
-* [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656) python
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [헬로 딥러닝 : 쉽고도 명확하게 이해하는 딥러닝](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
@@ -299,6 +298,9 @@ Deep Learning
 * [인공 신경망에 관한 설명. 스탠포드 대학 앤드류 응 교수의 sparse autoencoder 정리 노트로 인공신경망 이해하기](http://woongheelee.com/m/entry/%EC%9D%B8%EA%B3%B5-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EA%B4%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EC%8A%A4%ED%83%A0%ED%8F%AC%EB%93%9C-%EB%8C%80%ED%95%99-%EC%95%A4%EB%93%9C%EB%A5%98-%EC%9D%91-%EA%B5%90%EC%88%98%EC%9D%98-sparse-autoencoder-%EC%A0%95%EB%A6%AC-%EB%85%B8%ED%8A%B8%EB%A1%9C-%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 * [What're the differences between PCA and autoencoder?](http://stats.stackexchange.com/questions/120080/whatre-the-differences-between-pca-and-autoencoder)
 * [Deep AutoEncoders for Collaborative Filtering](https://github.com/NVIDIA/DeepRecommender) autoencoder 기반 추천 엔진
+* [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656) python
+* [SVD를 이용한 추천 시스템 구현하기](http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+* [딥러닝 개인화 추천](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c)
 * [Absolute ANN: A simplified approach for structuring the learnt representations](https://medium.com/mlreview/aann-absolute-artificial-neural-network-ae8f1a65fa67)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [차원 감소와 PCA 분석](http://bcho.tistory.com/1209)
@@ -306,7 +308,6 @@ Deep Learning
   * [PCA의 의미와 한계점](https://www.facebook.com/TRobotics/posts/796663103771140)
   * [PCA(주성분분석)의 의미와 한계점](http://t-robotics.blogspot.com/2015/12/pca.html)
 * [PCA: "분산이 큰 축일 수록 정보가 더 많다?"](https://blog.naver.com/hancury/221215245092)
-* [SVD를 이용한 추천 시스템 구현하기](http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI)
   * ["Techniques for Efficient Implementation of Deep Neural Networks," a Presentation from Stanford](http://www.slideshare.net/embeddedvision/techniques-for-efficient-implementation-of-deep-neural-networks-a-presentation-from-stanford)
