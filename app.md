@@ -803,4 +803,7 @@ App
   * [Windows 10으로 시작하는 Java 개발](https://medium.com/@rkttu/start-java-dev-with-win-10-402cb91126fd)
   * [How to set up Docker and Windows Subsystem for Linux: A Love Story](https://medium.freecodecamp.org/how-to-set-up-docker-and-windows-subsystem-for-linux-a-love-story-35c856968991)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
+  * [윈도우 10에 WSL 설치하기](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/install-WSL/)
+  * [WSL 파이썬 인터프리터 윈도우에서 사용하기 (with Visual Studio Code)](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/install-VSCode-on-WSL/)
+  * [WSL에 설치된 아나콘다 윈도우에서 사용하기 + jupyter notebook 사용하기 (with Visual Studio Code)](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/anacoda-python-WSL-VSCode/)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
