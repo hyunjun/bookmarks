@@ -363,6 +363,30 @@ Java
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
 
+# JDK
+* [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
+
+## JDK OpenJDK
+* [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
+* [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
+* [How to install OpenJDK 8 on 14.04 LTS?](https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts)
+* [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
+* [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
+* [Migrating from Oracle JDK to OpenJDK on Red Hat Enterprise Linux: What you need to know](https://developers.redhat.com/blog/2018/11/05/migrating-from-oracle-jdk-to-openjdk-on-red-hat-enterprise-linux-what-you-need-to-know)
+* **[LINE의 OpenJDK 적용기: 호환성 확인부터 주의 사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)**
+* [AdoptOpenJDK](https://adoptopenjdk.net/)
+  * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
+  * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
+* [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
+* [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
+* [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
+
+## JDK Oracle
+* [Do not fall into Oracle's Java 11 trap](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html)
+* [Oracle Java SE Subscription에 대하여...](http://taewan.kim/post/oracle_java_subscription)
+* [오라클 자바 라이센스에 대한 간단 요약](https://www.popit.kr/오라클-자바-라이센스에-대한-간단-요약)
+* [번역글 새로운 시대의 Java를 맞이하며](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8C%80%EC%9D%98-java%EB%A5%BC-%EB%A7%9E%EC%9D%B4%ED%95%98%EB%A9%B0/)
+
 # JSP
 * [JSP 빠르게 시작하기](http://www.slideshare.net/parkjoongsoo1/jsp-58410192)
 
@@ -742,25 +766,6 @@ Java
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
-
-# OpenJDK
-* [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
-* [OpenJDK 적용시 고려해야 할 점](http://stunstun.tistory.com/222)
-* [How to install OpenJDK 8 on 14.04 LTS?](https://askubuntu.com/questions/464755/how-to-install-openjdk-8-on-14-04-lts)
-* [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
-* [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
-* [Do not fall into Oracle's Java 11 trap](https://blog.joda.org/2018/09/do-not-fall-into-oracles-java-11-trap.html)
-* [Oracle Java SE Subscription에 대하여...](http://taewan.kim/post/oracle_java_subscription)
-* [오라클 자바 라이센스에 대한 간단 요약](https://www.popit.kr/오라클-자바-라이센스에-대한-간단-요약)
-* [Migrating from Oracle JDK to OpenJDK on Red Hat Enterprise Linux: What you need to know](https://developers.redhat.com/blog/2018/11/05/migrating-from-oracle-jdk-to-openjdk-on-red-hat-enterprise-linux-what-you-need-to-know)
-* **[LINE의 OpenJDK 적용기: 호환성 확인부터 주의 사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)**
-* [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
-* [AdoptOpenJDK](https://adoptopenjdk.net/)
-  * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
-  * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
-* [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
-* [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
-* [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
 # Serialization
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
