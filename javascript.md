@@ -767,6 +767,7 @@ Javascript
 * [How To Get Started With GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 * [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
+* [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1611,6 +1612,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-may-2019-c0729e8a66c5)
 * [Amazing React.js Open Source Tools & Projects of the Year (v.2019)](https://medium.mybridge.co/amazing-react-js-open-source-of-the-year-v-2019-364d057ac3f3)
 * [Learn React.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-react-js-from-top-50-articles-for-the-past-year-v-2019-baaacfc521c)
 * [React.js Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-dec-2018-2476c17b70d1)
