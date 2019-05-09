@@ -169,6 +169,7 @@ Interview
 * [Amazon Interview](https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
 * [시니어 개발자로 가는 길](https://brunch.co.kr/@minchang/13)
 * [Two examples for each of Amazon’s 14 Leadership Principles](https://www.youtube.com/watch?v=RzlUQCy84rQ)
+* [Google Lost a chance to hire me… Finally, Amazon hired me !!!](https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -202,7 +203,7 @@ Interview
     * [Google Docs System design | Part 1| Operational transformation | differentail synchronisation](https://www.youtube.com/watch?v=2auwirNBvGg)
     * [Google Docs System design | part 2| System components explanation micro services arcitecture](https://www.youtube.com/watch?v=U2lVmSlDJhg)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
-    * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/crdt/2019/04/16/co-editor.html)** 동시에 같은 부분을 편집할 경우 해결하는 알고리즘에 대한 굉장히 좋은 글
+    * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor.html)**
   * Instagram
     * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
     * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
