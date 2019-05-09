@@ -40,6 +40,7 @@ Regular Expression
 * [정규 표현식(Regular Expressions) 정리하기](https://jungwoon.github.io/regex/2018/03/14/Regular-Expressions/)
 * [Pregex - Do you hate regex? Well then, I have a solution for you…](https://medium.freecodecamp.org/pregx-for-those-who-wish-to-dodge-regex-250e4a484ee0)
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
+* [Simple RegEx tricks for beginners](https://medium.freecodecamp.org/simple-regex-tricks-for-beginners-3acb3fa257cb)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
