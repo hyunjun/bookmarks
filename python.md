@@ -1508,8 +1508,6 @@ Python
 * [Flask에서 예외(Exception)를 이용하여 HTTP 에러 응답에 사용자 정의 메세지 추가하기](http://growingdever.tistory.com/232)
 * [Flask 웹 앱과 Flask-OAuthlib를 이용하여 구현한 OAuth 2.0 서버 연동 및 토큰 갱신 방법](http://growingdever.tistory.com/233)
 * [카카오톡 자동응답 API + FLASK 를 활용해서 카톡봇만들기](http://nirone7.tistory.com/10)
-* [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
-* [Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy](https://www.youtube.com/watch?v=WxGBoY5iNXY)
 * [Simple Flask Blog That I made](https://www.youtube.com/watch?v=RD1BndkE43I)
 * [Testing file upload handling in Flask](https://gist.github.com/DazWorrall/1779861)
 * [HTTP Methods in Flask](https://urangurang.github.io/translation/Flask-methods/)
@@ -1558,9 +1556,9 @@ Python
 * [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
 * [Generating HTML Pages from MongoDB with MongoEngine and Jinja2 (Flask Part 1)](https://alysivji.github.io/flask-part1-generating-html-pages-with-mongoengine-jinja2.html)
 * [Building a Flask Web Application (Flask Part 2)](https://alysivji.github.io/flask-part2-building-a-flask-web-application.html)
+* [Flask Movie API Example](https://www.youtube.com/watch?v=Urx8Kj00zsI)
 
-## Library
-* [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
+## Flask Library
 * [Flask-aiohttp — Asynchronous Flask application with aiohttp](https://flask-aiohttp.readthedocs.io)
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
 * [Flask-APScheduler is a Flask extension which adds support for the APScheduler](https://github.com/viniciuschiele/flask-apscheduler)
@@ -1573,8 +1571,13 @@ Python
 * [Flask-Cache](https://pythonhosted.org/Flask-Cache/)
 * [Flask-Login](https://flask-login.readthedocs.io)
 * [Flask-MongoEngine - a Flask extension that provides integration with MongoEngine](https://github.com/MongoEngine/flask-mongoengine)
-* [Flask-Potion is a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org ](https://github.com/biosustain/potion)
+* [Flask-Potion - a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org ](https://github.com/biosustain/potion)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
+* Flask-SQLAlchemy
+  * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
+  * [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
+  * [Understanding the Lazy Parameter in Flask-SQLAlchemy Relationships](https://www.youtube.com/watch?v=g1oFlq7D_nQ)
+  * [Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy](https://www.youtube.com/watch?v=WxGBoY5iNXY)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
