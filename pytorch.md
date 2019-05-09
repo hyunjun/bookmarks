@@ -181,6 +181,9 @@ PyTorch
 * [토크ON세미나 22차. 딥러닝을 위한 PyTorch 활용법 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcCgdOLFZTTuT13tDaQFQDV)
 * [visual guide : pytorch c++ api (libtorch) setting on vs2017 , no CMake](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake)
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
+* [ax - Adaptive Experimentation Platform](https://www.ax.dev)
+* [BoTorch - Bayesian Optimization in PyTorch](https://www.botorch.org)
+  * [Open-sourcing Ax and BoTorch: New AI tools for adaptive experimentation](https://ai.facebook.com/blog/open-sourcing-ax-and-botorch-new-ai-tools-for-adaptive-experimentation/)
 * [Braindecode - A deep learning toolbox to decode raw time-domain EEG](https://robintibor.github.io/braindecode/)
 * [Brusta - PyTorch model serving project](https://github.com/hyoungseok/brusta)
   * 과거 PyTorch는 강력한 REPL의 대가로 대규모 서비스에 모델 서빙이 어려움
