@@ -983,6 +983,7 @@ Programming Books
   * 한라 413.5그294ㄱ
   * continuous + discrete = concrete. 이 책을 읽고 이해할 수 있다면 왠만한 problem solving 영역의 문제들은 해결할 수 있을 듯
 * (NOT YET) [수학의 아름다움](https://www.popit.kr/%EC%88%98%ED%95%99%EC%9D%98-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80/)
+* (NOT YET) [함수와 미적분을 기초부터 응용까지 프로그래머를 위한 기초 해석학](https://www.gilbut.co.kr/book/view?bookcode=BN002349)
 
 # Network
 
@@ -1359,6 +1360,8 @@ Programming Books
 * [(세상에서 가장 쉬운) 통계학 입문](https://getpocket.com/a/read/1986392698)
   * 한라 413.8-고78ㅌ
   * 탐라 개413.8-고75ㅌ
+* (NOT YET) [파이썬과 PyMC로 구현하며 익히는 베이지안 방법론 프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/view?bookcode=BN001887)
+* (NOT YET) [계산하지 말고 이해하자! 프로그래머를 위한 확률과 통계](https://www.gilbut.co.kr/book/view?bookcode=BN002428)
 
 # Window
 * (NOT YET) 실무에서 바로쓰는 파워셸
