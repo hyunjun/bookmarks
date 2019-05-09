@@ -1281,6 +1281,7 @@ Programming
   * [www.grpc.io](http://www.grpc.io/)
     * [Documentation](http://www.grpc.io/docs/)
     * [Python Quickstart](http://www.grpc.io/docs/quickstart/python.html)
+    * [gRPC Basics - Python](https://grpc.io/docs/tutorials/basic/python/)
   * [github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
   * [The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)](https://github.com/grpc/grpc)
   * [gRPC C++ 라이브러리 빌드 스크립트](https://surpreem.com/grpc-c-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
