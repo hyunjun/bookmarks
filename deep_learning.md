@@ -301,6 +301,7 @@ Deep Learning
 * [맥주마시며 만들어본 딥러닝 맥주 추천엔진](http://freesearch.pe.kr/archives/4656) python
 * [SVD를 이용한 추천 시스템 구현하기](http://leebaro.tistory.com/entry/SVD%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 * [딥러닝 개인화 추천](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%B6%94%EC%B2%9C-1eda682c2e8c)
+* [딥러닝 추천 시스템 in production](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-in-production-fa623877e56a) airflow -> kubeflow
 * [Absolute ANN: A simplified approach for structuring the learnt representations](https://medium.com/mlreview/aann-absolute-artificial-neural-network-ae8f1a65fa67)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [차원 감소와 PCA 분석](http://bcho.tistory.com/1209)
