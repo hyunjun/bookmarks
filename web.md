@@ -377,7 +377,6 @@ Web
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
-* [WAMP is an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # Lisp
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
@@ -577,6 +576,13 @@ Web
 * [자바스크립트는 어떻게 작동하는가: 웹어셈블리와의 비교 + 언제 웹어셈블리를 사용하는 게 좋은가](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%99%80%EC%9D%98-%EB%B9%84%EA%B5%90-%EC%96%B8%EC%A0%9C-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%A2%8B%EC%9D%80%EA%B0%80-cf48a576ca3)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
+
+# Websocket
+* [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
+* [WebSockets vs. Regular Sockets](https://medium.com/kifi-engineering/websockets-vs-regular-sockets-b3b8e7ea0708)
+* [HTTP vs Websockets: A performance comparison](https://blog.feathersjs.com/http-vs-websockets-a-performance-comparison-da2533f13a77)
+* [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
+* [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
 * [WSGI로 보는 웹 서버의 개념](http://khanrc.tistory.com/entry/WSGI%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EC%9B%B9-%EC%84%9C%EB%B2%84%EC%9D%98-%EA%B0%9C%EB%85%90)
