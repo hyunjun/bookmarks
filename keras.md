@@ -45,6 +45,7 @@ Keras
 * [Radio and Machine Learning Zen](https://oshearesearch.com/)
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
+* [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
 * [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
