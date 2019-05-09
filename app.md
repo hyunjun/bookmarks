@@ -266,6 +266,8 @@ App
   * [개발자를 위한 소소한 개발툴 활용팁](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104930)
 * [A better web development workflow: Confluence, Airtable, Jira and Abstract](https://medium.freecodecamp.org/a-better-web-development-workflow-confluence-airtable-jira-abstract-e626ef4ff5bc)
 * [Personal Setup](https://github.com/opnay/PersonalSetup) linux program & configuration
+* **[Improve your workflow with these awesome CLI tools](https://medium.freecodecamp.org/improve-your-workflow-with-these-awesome-cli-tools-fc3750cbb2bf)**
+  * Wuzz — terminalized Postman등 여러가지 유용한 CLI tool
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
