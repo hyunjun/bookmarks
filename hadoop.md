@@ -95,6 +95,24 @@ Hadoop
 * [2x Faster BI Interactive queries with HDP 3.0](https://ko.hortonworks.com/blog/2x-faster-bi-interactive-queries-with-hdp-3-0/)
   * HDP 2.6.5와 3.0에서의 Hive 성능에 대한 자체 비교 자료
   * 3.0에 ACID semantic이 추가되었지만 dynamic runtime filtering과 vectorization 덕분에 성능은 2배 정도 향상
+* [Partition Management in Hadoop](https://blog.cloudera.com/blog/2019/05/partition-management-in-hadoop/)
+  * Hadoop의 파티션 관리
+    * HDFS는 단순한 파일 시스템에 불과하다는 것이 문제
+    * 데이터 수집이 가능한 동시에 모든 작업을 백그라운드에서 처리하는 스토리지 계층이 아님
+    * 이런 이유로 최종 테이블은 Apache Kudu 같이 효율적인 데이터 스토어나, 혹은 MySQL 또는 PostgreSQL 같은 RDBMS에 저장하라고 권장
+    * 그럼에도 불구하고 데이터를 HDFS에 저장해야 할 이유가 있다면 스토리지 관리 계층을 작성 필요
+  * 스토리지 관리 계층이 정확하게 해야 하는 일은 특정 문제에 따라 다름
+    * e.g. 선택한 테이블의 파티션 병합
+      * “파티션 관리자”에서 시간별 파티션을 정기적으로 월별 파티션으로 병합
+      * 월별 해상도를 병합 기준으로 선택한 이유는 이때 생성되는 파티션의 크기(100MB~1GB)가 가장 적합하기 때문
+      * 테이블의 파티셔닝 단위를 동일하게 하고 싶음 + 사용자들이(분석가와 데이터 개발자) 쉽게 사용할 수 있게 작성
+    * e.g. 콜드 데이터 아카이브
+      * 오랜 시간이 지난 데이터는 사용 빈도가 비교적 적을 수도 있지만 일부 테이블의 데이터는 몇 년간 보관해야 하는 경우도 존재
+      * 내 스토리지 관리 계층을 2~3년 지난 파티션(물론 사용 사례에 따라 다름)을 아카이브 하는 데 사용
+      * 이때는 버전이 다른 동시에 테이블의 SNAPPY 알고리즘과 비교하여 압축 알고리즘(예: GZIP)을 사용하는 테이블로 데이터를 마이그레이션하면 가능
+    * e.g. 파티션 삭제
+      * 테이블마다 일정한 임계값(가급적 시간 임계값)을 선택하여 오랜 시간이 지난 데이터를 HDFS에서 삭제 가능
+      * 파티션 삭제는 스토리지 관리 계층에서 매우 기본적이면서 필요한 기능
 
 # Book
 * [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)
