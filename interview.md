@@ -204,9 +204,6 @@ Interview
     * [Google Docs System design | part 2| System components explanation micro services arcitecture](https://www.youtube.com/watch?v=U2lVmSlDJhg)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
     * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor.html)**
-  * Instagram
-    * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
-    * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
   * Online store
     * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part)
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
@@ -219,9 +216,15 @@ Interview
     * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247)
     * [소셜 네트워크 서비스의 아키텍처에 대하여](https://d2.naver.com/helloworld/551588)
     * [LINE 소셜 네트워크 서비스의 아키텍처](https://d2.naver.com/helloworld/809802)
+    * Instagram
+      * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
+      * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
     * Twitter
       * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
       * [How to Design Twitter (Part 2)](http://blog.gainlo.co/index.php/2016/02/24/system-design-interview-question-how-to-design-twitter-part-2/)
+      * [Twitter system design | twitter Software architecture | twitter interview questions](https://www.youtube.com/watch?v=wYk0xPP_P_8)
+      * [System Design: How to design Twitter? Interview question at Facebook, Google, Microsoft](https://www.youtube.com/watch?v=KmAyPUv9gOY)
+      * [Design Twitter | System Design Interview | Amazon Interview questions](https://www.youtube.com/watch?v=SaqAOa77ysk)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
@@ -484,6 +487,7 @@ Interview
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
+  * [awesome-stacks - A curated list of tech stacks for building different applications & features https://awesomestacks.dev ](https://github.com/stackshareio/awesome-stacks)
 
 # Salary 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
