@@ -215,9 +215,13 @@ Interview
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
-  * Twitter
-    * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
-    * [How to Design Twitter (Part 2)](http://blog.gainlo.co/index.php/2016/02/24/system-design-interview-question-how-to-design-twitter-part-2/)
+  * Social Media
+    * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247)
+    * [소셜 네트워크 서비스의 아키텍처에 대하여](https://d2.naver.com/helloworld/551588)
+    * [LINE 소셜 네트워크 서비스의 아키텍처](https://d2.naver.com/helloworld/809802)
+    * Twitter
+      * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
+      * [How to Design Twitter (Part 2)](http://blog.gainlo.co/index.php/2016/02/24/system-design-interview-question-how-to-design-twitter-part-2/)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
