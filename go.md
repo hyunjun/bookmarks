@@ -266,6 +266,7 @@ Go
   * A deep dive into the channel implementation in Go
 * **[Simulating A Real-World System (Coffee Shop) In Go](https://www.youtube.com/watch?v=jJS6G7irZSc)**
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
+* [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
