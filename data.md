@@ -56,3 +56,4 @@ Government
 * [데이터가 없어서 AI, DS 못 한다고 하지 마세요 2](https://brunch.co.kr/@fermat39/61)
 * [These Are The Best Free Open Data Sources Anyone Can Use](https://medium.freecodecamp.org/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d)
 * [20 Awesome Sources of Free Data](https://www.searchenginejournal.com/free-data-sources/302601)
+* [VisualData - Discover Computer Vision Datasets](https://www.visualdata.io/)
