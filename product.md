@@ -130,6 +130,7 @@ Product
 * [Video: Qualcomm demos Snapdragon Flight for smaller, lighter camera drones](http://robohub.org/video-qualcomm-demos-snapdragon-flight-for-smaller-lighter-camera-drones/)
 * [dronecheap.net/ - compare drone prices and features](https://dronecheap.net/)
 * [“드론 카메라도 이젠 마이크로포서드”](http://techholic.co.kr/archives/40500)
+* [크게 진화하는 작은 드론 텔로](https://brunch.co.kr/@dronestarting/605) 프로그램 가능한 드론
 
 # Keyboard
 * [One year with the Truly Ergonomic keyboard](http://blog.thecybershadow.net/2015/05/25/one-year-with-the-truly-ergonomic-keyboard/)
