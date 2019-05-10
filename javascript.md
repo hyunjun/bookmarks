@@ -181,6 +181,7 @@ Javascript
 * [JavaScript Weekly: Making Sense of Closures](https://medium.com/launch-school/javascript-weekly-making-sense-of-closures-daa2e0b56f88)
 * [A basic guide to Closures in JavaScript](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
 * [Discover the power of closures in JavaScript](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
+* [A simple guide to help you understand closures in JavaScript](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
@@ -1369,6 +1370,7 @@ Javascript
 * [You should never ever run directly against Node.js in production. Maybe](https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6)
 * [Node.js: what it is, when and how to use it, and why you should](https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2)
 * [Serverless PDF news renderer in Node.js](https://medium.com/silesis/serverless-pdf-news-renderer-in-node-js-138223a4557a)
+* [Everything you should know about ‘module’ & ‘require’ in Node.js](https://medium.freecodecamp.org/require-module-in-node-js-everything-about-module-require-ccccd3ad383)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
