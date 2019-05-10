@@ -1814,6 +1814,7 @@ Javascript
 * [React JS를 Github Pages에 호스팅하기](https://www.munon.io/react-js-github-pages-deploy)
 * [React Native Chat with Chuck Norris](https://hackernoon.com/react-native-chat-with-chuck-norris-dd5721523742)
 * [Reintroducing React: every React update since v16 demystified](https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
+* [React.js를 사용한 배너 관리 매니저 샘플 프로젝트](https://github.com/denlyou/reactjs-sample-banner-manager)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
