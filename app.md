@@ -269,6 +269,7 @@ App
 * [Personal Setup](https://github.com/opnay/PersonalSetup) linux program & configuration
 * **[Improve your workflow with these awesome CLI tools](https://medium.freecodecamp.org/improve-your-workflow-with-these-awesome-cli-tools-fc3750cbb2bf)**
   * Wuzz — terminalized Postman등 여러가지 유용한 CLI tool
+* [태블릿으로 원격 프로그래밍이 하고 싶어요](https://javaxer.blogspot.com/2018/10/blog-post.html)
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
