@@ -122,6 +122,7 @@ Open Source
     * [구글 스프레드 시트를 데이터베이스로 사용하기 - 스크립트편](http://itmir.tistory.com/598)
   * [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
   * [Google Sheets Query function: Learn the most powerful function in Google Sheets](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
+  * [Apps Script](https://m.blog.naver.com/gsuite-reseller/221534792390)
 * [gSubFolder](http://d.gfolder.net/gsubfolder)
 * [Guetzli - 구글의 오픈소스 JPEG 인코더 Guetzli](http://tmondev.blog.me/220960502049)
 * Google Guice
