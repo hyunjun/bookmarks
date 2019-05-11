@@ -158,6 +158,7 @@ Programming
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * [#1 SRE/DEVOPS의 개념](https://bcho.tistory.com/1325)
+* [#2-SRE는 어떻게 일하는가?](https://bcho.tistory.com/1327)
 * **[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)**
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
 * [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
