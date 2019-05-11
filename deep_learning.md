@@ -116,6 +116,7 @@ Deep Learning
   * [ICLR2017 Paper Index](https://tensorflowkorea.wordpress.com/2016/11/16/iclr2017-paper-index/)
   * [ICLR 2017 workshop track open review](http://nuit-blanche.blogspot.com/2017/02/iclr-2017-workshop-track-open-review.html)
   * [Learning to remember rare events](https://www.slideshare.net/ssuser06e0c5/learning-to-remember-rare-events)
+* [ICLR 2019 Notes](https://david-abel.github.io/notes/iclr_2019.pdf)
 * [Deep Learning for Computer Vision Barcelona](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
@@ -752,6 +753,7 @@ Deep Learning
 * [Naver Tech Talk: 오토인코더의 모든 것 (2017년 11월)](https://d2.naver.com/news/0956269)
 * [Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder, Oct 12 2017 Lect 6.2](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 * [Variational Auto Encoding](https://github.com/MingyuKim87/VAE)
+* [AutoEncoder vs Variant AutoEncoder](https://bcho.tistory.com/1326)
 
 # [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)
@@ -1195,6 +1197,7 @@ Deep Learning
 * [Deep Learning Papers on Medical Image Analysis](https://github.com/albarqouni/Deep-Learning-for-Medical-Applications)
 * [HeLP-Challenge-Goldenpass](https://github.com/Taeu/HeLP-Challenge-Goldenpass)
 * [How to program a neural network to predict breast cancer in only 5 minutes](https://medium.freecodecamp.org/how-to-program-a-neural-network-to-predict-breast-cancer-in-only-5-minutes-23289d62a4c1)
+* [Doc Product: Medical Q&A with Deep Language Models](https://github.com/Santosh-Gupta/DocProduct)
 
 # Microsoft
 * The Microsoft Cognitive Toolkit 마이크로소프트에서 개발한 딥러닝 프레임워크 CNTK
@@ -1912,6 +1915,7 @@ CVPR2016)
 * [Reinforcement Learning and DQN, learning to play from pixels](https://rubenfiszel.github.io/posts/rl4j/2016-09-08-DQN-Learning-to-play-from-pixels-step-by-step.html)
 * [DQN 3.0](https://github.com/deepmind/dqn)
 * [github.com/LeeGyeongTak/DQN](https://github.com/LeeGyeongTak/DQN)
+* [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn)
 * [Frame Skipping and Pre-Processing for Deep Q-Networks on Atari 2600 Games](https://danieltakeshi.github.io/2016/11/25/frame-skipping-and-preprocessing-for-deep-q-networks-on-atari-2600-games/)
 * [github.com/LeeGyeongTak/Q_Network](https://github.com/LeeGyeongTak/Q_Network)
 * [Guest Post (Part I): Demystifying Deep Reinforcement Learning](http://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
