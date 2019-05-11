@@ -93,6 +93,7 @@ Docker
     * [Dockerfile for Pydata Eco Systems with Tensorflow](https://hub.docker.com/r/teamlab/pydata-tensorflow/)
     * [이제는, 딥러닝 개발환경도 Docker로 올려보자!](https://github.com/2sang/Moducon-Docker-tf-setup/blob/master/Docker-tensorflow-setup.pdf)
     * [example of auto-build deep learning development environment, using nvidia-docker+packer+ansible](https://github.com/EJSohn/nvidia-packer-docker-ansible)
+    * [nvidia-docker로 개발환경 한방에 세팅하기](https://jybaek.tistory.com/791)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
@@ -722,6 +723,7 @@ Docker
 * [openstack rpc worker는 thread임…](http://blog.woosum.net/archives/1589)
 * [Red Hat! and After 1 year](http://naleejang.tistory.com/204)
 * [Load balancer as a service Octavia](https://naleejang.tistory.com/212)
+* [Octavia Amphora Instance](https://naleejang.tistory.com/213)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
