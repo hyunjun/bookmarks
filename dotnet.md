@@ -69,6 +69,8 @@
 # Library
 * [Open Source .net libraries that make your life easier](http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
+* [libplanet - Open source blockchain library for fully decentralized games https://docs.libplanet.io ](https://github.com/planetarium/libplanet)
+  * [Libplanet 처음 기여하기](https://snack.planetarium.dev/kor/2019/05/first-contribution/)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 
 # [Visual Studio](https://www.visualstudio.com/)
@@ -96,6 +98,7 @@
 * [Visual Studio에서 예외 필터 함수 디버깅](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-%EC%98%88%EC%99%B8-%ED%95%84%ED%84%B0-%ED%95%A8%EC%88%98-%EB%94%94%EB%B2%84%EA%B9%85/)
 * [Visual Studio에서 CMake 사용하기](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-cmake-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Visual Studio 15.4 업데이트 후 CMake 사용 불가](https://surpreem.com/visual-studio-15-4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%9B%84-cmake-%EC%82%AC%EC%9A%A9-%EB%B6%88%EA%B0%80/)
+* [CMake 템플릿 프로젝트](https://surpreem.com/cmake-%ED%85%9C%ED%94%8C%EB%A6%BF-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 * [Favorite Visual Studio Code Extensions of 2017](https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f)
 * [Visual Studio 2017 + Entity Framework + MariaDB](http://bomdol.tistory.com/308)
 
