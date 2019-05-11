@@ -141,6 +141,7 @@ Web
 * [2018년, Mozilla Hacks Top 10](http://hacks.mozilla.or.kr/2019/01/mozilla-hacks-10-most-read-posts-of-2018/)
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
 * [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
+* [CORS 실패 시, 응답 개체의 status는 왜 0일까?](https://huns.me/development/2297)
 
 # Apache
 * installation
