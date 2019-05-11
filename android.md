@@ -50,6 +50,10 @@ Android
 * [Android Instant App SDK 체험기](http://blog.naver.com/pistolcaffe/221009529807)
 * [Android CI 환경 구축하기](https://www.holaxprogramming.com/2014/12/29/android-ci-environments/)
 * [What’s New in Android (Google I/O ‘17)](http://pluu.github.io/blog/android/google/io17/2017/05/22/whats_new_in_android/)
+* [Google I/O 2018: Android의 새로운 기능](https://developers-kr.googleblog.com/2018/05/google-io-2018-whats-new-in-android.html)
+* [Google I/O 2018 for Android 소스를 공개합니다](https://developers-kr.googleblog.com/2018/09/google-releases-source-for-google-io.html)
+* [Google I/O 2019: 개발자 여러분들이 Android + Play에서 최상의 경험을 만들도록 지원합니다](https://developers-kr.googleblog.com/2019/05/google-io-2019-empowering-developers-to-build-experiences-on-Android-Play.html)
+* [2019 Google IO - Architecture Components 정리](https://thdev.tech/google%20io/2019/05/10/Google-IO-2019-Architecture-Components/)
 * [#01 안드로이드 일기장 앱을 만들어봅시다](https://www.youtube.com/watch?v=yWvBLMJ8O7Q)
 * [빌드시간 최적화하기(빌드속도 70%감소)](http://gun0912.tistory.com/76)
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
@@ -70,8 +74,6 @@ Android
 * [ViewModels : A Simple Example](https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e)
 * [Android언어 리소스 자동화 (2018.4 수정)](http://tiii.tistory.com/22)
 * [How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
-* [Google I/O 2018: Android의 새로운 기능](https://developers-kr.googleblog.com/2018/05/google-io-2018-whats-new-in-android.html)
-* [Google I/O 2018 for Android 소스를 공개합니다](https://developers-kr.googleblog.com/2018/09/google-releases-source-for-google-io.html)
 * [TaskKiller에 죽지 않는 서비스(Service) 만들기 2](http://ccdev.tistory.com/22)
 * [가상화폐 관련 앱을 개발하다](https://medium.com/@joongwon/%EA%B0%80%EC%83%81%ED%99%94%ED%8F%90-%EA%B1%B0%EB%9E%98%EC%86%8C-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8B%A4-e0f80dadc2c9)
 * [NAVER Tech Talk: 안드로이드 개발 밋업 (2018년 5월~8월)](https://d2.naver.com/news/4483716)
@@ -90,6 +92,7 @@ Android
 * [Kotlin으로 SharedPreferences를 편하게 써보자](https://medium.com/@joongwon/android-kotlin%EC%9C%BC%EB%A1%9C-sharedpreferences%EB%A5%BC-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EC%9E%90-77834af39b7e)
 * [SpongeBobSun의 mCalendarView 라이브러리 사용하기](https://www.ienlab.net/entry/SpongeBobSun%EC%9D%98-mCalendarView-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * **[타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)**
+* [한국 안드로이드 개발자 모임, Droid Knights 2019에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/droid-knights-2019/)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
