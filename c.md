@@ -132,6 +132,9 @@ C
 * [Autoconf Tutorial Part-3](http://www.idryman.org/blog/2016/03/15/autoconf-tutorial-part-3/)
 * [autotools 간단한 사용 예제](http://egloos.zum.com/studyfoss/v/5343014)
 
+# Book
+* [An Introduction to C & GUI Programming – the new book from Raspberry Pi Press](https://www.raspberrypi.org/blog/an-introduction-to-c-gui-programming-the-new-book-from-raspberry-pi-press/)
+
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
 * [Clang by example: detecting unused functions](http://binary-studio.com/2014/09/02/detecting-unused-functions/)
