@@ -97,6 +97,7 @@ Bitcoin
 * [Marbles Demo](https://github.com/IBM-Blockchain/marbles/blob/master/README-ko.md)
 * [The authoritative guide to blockchain development](https://medium.freecodecamp.org/the-authoritative-guide-to-blockchain-development-855ab65b58bc)
 * [Hyperledger Sawtooth - Introduction to the XO Transaction Family (Sawtooth v1.0.2](http://js94.tistory.com/233)
+* [Taste all the Features of the Hyperledger Fabric v1.4 Network](https://hackernoon.com/taste-all-the-features-of-hyperledger-fabric-v1-4-4275fd9b9d8e)
 * [Safety & Liveness - FLP impossibility으로 보는 블록체인](https://blog.seulgi.kim/2018/05/safety-liveness-in-blockchain.html)
 * [Skewed Merkle Tree](https://blog.seulgi.kim/2018/06/skewed-merkle-tree.html)
 * [토큰 이코노미에 대하여](https://brunch.co.kr/@jeffpaik/53)
