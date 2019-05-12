@@ -767,6 +767,7 @@ Machine Learning
 * [Join Us: An Introduction to Using k-NN in Production](https://blog.dominodatalab.com/join-us-introduction-using-k-nn-production/)
 * [A Summary of Using k-NN in Production](https://blog.dominodatalab.com/summary-using-k-nn-production/)
 * [Introduction to k-Nearest-Neighbors](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
+* [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 * [TOROS N2](https://brunch.co.kr/@kakao-it/300)
 
 # Library
