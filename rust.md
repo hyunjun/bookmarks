@@ -37,6 +37,7 @@
 * [Pragmatic Bare Metal Rust](http://www.hashmismatch.net/2015/05/18/pragmatic-bare-metal-rust.html)
 * [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
 * [Wrapper Types in Rust: Choosing Your Guarantees](http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
+* [타입 변환하기](https://blog.seulgi.kim/2019/05/rust-type-conversion.html)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
 * [A Simple Web App in Rust, Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
