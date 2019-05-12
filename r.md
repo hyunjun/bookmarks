@@ -297,6 +297,7 @@ R
 * [Quick Hit: Scraping javascript-“enabled” Sites with {htmlunit}](https://www.r-bloggers.com/quick-hit-scraping-javascript-enabled-sites-with-htmlunit/)
 * [cRafty tRicks – No more typing brackets!](https://www.r-bloggers.com/crafty-tricks-no-more-typing-brackets-2/) debugging
 * [GOOGLE COLABORATORY에 R 커널 설치하기](https://lumiamitie.github.io/r/r-in-colab/)
+* [Make it explainable!](https://www.r-bloggers.com/make-it-explainable/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -505,6 +506,7 @@ R
 * [tidyverse](http://tidyverse.org/)
   * [github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse](https://github.com/KaggleBreak/studybreak/tree/gh-pages/2017/seminar/R_tidyverse)
   * [R 데이터 매니지먼트: tidyverse](https://blog.anpanman.co.kr/posts/2019-01-03-rdatamanagement/)
+  * [Tidyverse before & after](https://lovetoken.github.io/r/2019/05/11/tidyverse_before_after.html)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
