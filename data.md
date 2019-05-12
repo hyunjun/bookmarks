@@ -57,3 +57,7 @@ Government
 * [These Are The Best Free Open Data Sources Anyone Can Use](https://medium.freecodecamp.org/https-medium-freecodecamp-org-best-free-open-data-sources-anyone-can-use-a65b514b0f2d)
 * [20 Awesome Sources of Free Data](https://www.searchenginejournal.com/free-data-sources/302601)
 * [VisualData - Discover Computer Vision Datasets](https://www.visualdata.io/)
+* [AI 전성시대에 버림 받는 데이터가 있을까?](https://www.wizmusa.net/1170964138)
+  * 생각해보면 몇 년 전만 해도 데이터 클린징은 엄청나게 중요한 주제였음
+  * 지금도 중요하긴 하지만, 예전에 비해서는 중요도가 많이 약해진 느낌
+  * 쓸모없어 보이던 데이터도 이제는 모아서 서로 연결해서 활용해야 함
