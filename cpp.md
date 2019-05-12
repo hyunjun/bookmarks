@@ -52,6 +52,7 @@ C++
 * [C++ in the modern world](https://medium.com/@CPP_Coder/c-in-the-modern-world-ce6f470dfbe0)
 * [Diving into C++ internals of node](https://blog.indutny.com/c.cpp-in-node)
 * [Modern C++ as a Better Compiler](http://moderncpp.com/2015/04/13/modern-c-as-a-better-compiler/)
+* [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
 * [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
 * [C++ Futures at Instagram](http://instagram-engineering.tumblr.com/post/121930298932/c-futures-at-instagram)
