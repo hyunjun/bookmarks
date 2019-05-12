@@ -100,6 +100,7 @@
 * [bcho.tistory.com/category/프로그래밍/아두이노](http://bcho.tistory.com/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8)
 * [Arduino - TCP Client로 명령받기](http://jusths.tistory.com/54)
 * [아두이노 16x2 LCD 한글 출력 라이브러리 1편-사용법](https://blog.naver.com/junwha0511/221529144374)
+* [아두이노 라이브러리 매니저 등록/업데이트 방법](https://junwha0511.blog.me/221535738246)
 
 # [Artik](https://www.artik.io/)
 
