@@ -82,6 +82,7 @@ Web
   * [Web Development Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-dec-2018-57ec5828a6e)
   * [Web Development Top 10 Articles For the Past Month (v.Dec 2018)](https://medium.com/@Mybridge/web-development-top-10-articles-for-the-past-month-v-dec-2018-3c35a47c8ffb)
   * [Web Development Open Source of the Month (v.Nov 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-nov-2018-abc189016004)
+  * [Web Development Top 10 Articles for the Past Month (v.Oct 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-oct-2018-809fe0101c9)
   * [Web Development Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-oct-2018-4c8e0bd87b84)
   * [Web Development Open Source of the Month (v.Sep 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-sep-2018-ebcfe6974fd9)
   * [Web Development Open Source of the Month (v.July 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-july-2018-cad5412602ff)
@@ -142,6 +143,7 @@ Web
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
 * [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
 * [CORS 실패 시, 응답 개체의 status는 왜 0일까?](https://huns.me/development/2297)
+* [How to protect your information with Local Sheriff](https://medium.freecodecamp.org/local-sheriff-watching-them-watching-us-5eacf3eb00ca) security
 
 # Apache
 * installation
@@ -245,6 +247,7 @@ Web
 * [파이썬으로 어벤져스: 엔드게임 용산IMAX 명당 예매 하기 (1)](https://hanswsw.tistory.com/22)
 * [파이썬으로 어벤져스: 엔드게임 용산IMAX 명당 예매 하기 (2)](https://hanswsw.tistory.com/23)
 * [파이썬으로 어벤져스: 엔드게임 용산IMAX 명당 예매 하기 (完)](https://hanswsw.tistory.com/24)
+* [How I get options data for free](https://medium.freecodecamp.org/how-i-get-options-data-for-free-fba22d395cc8)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
