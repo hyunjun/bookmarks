@@ -403,6 +403,7 @@ Interview
   * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
   * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
 * [Programming Interview Questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
+* [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * [CSPA COMPUTER SCIENCE PROFICIENCY ASSESSMENT](https://cspa.io)
 * [Data Interview Qs](https://www.interviewqs.com)
 * [interviewlab.io](https://interviewlab.io)
