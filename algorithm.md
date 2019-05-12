@@ -249,6 +249,7 @@ Algorithm
 * [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296)
 * [hackerearth dynamic programming](https://www.hackerearth.com/practice/algorithms/dynamic-programming)
 * **[geeksforgeeks Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)**
+* [Follow these steps to solve any Dynamic Programming interview problem](https://medium.freecodecamp.org/follow-these-steps-to-solve-any-dynamic-programming-interview-problem-cc98e508cd0e)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
