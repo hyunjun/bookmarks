@@ -440,6 +440,7 @@ TensorFlow
 * [Mixture Density Network](https://github.com/dh7/ML-Tutorial-Notebooks/blob/master/tf-MDN.ipynb) ipynb
 * [Density modeling with TensorFlow](https://github.com/sjchoi86/density_network/)
 * [Introducing TensorFlow Data Validation: Data Understanding, Validation, and Monitoring At Scale](https://medium.com/tensorflow/introducing-tensorflow-data-validation-data-understanding-validation-and-monitoring-at-scale-d38e3952c2f0?linkId=56682628)
+* [Tensorflow Data Validation 사용하기](https://zzsza.github.io/mlops/2019/05/12/tensorflow-data-validation-basic/)
 * [Deep_Learning_1: Google Colaboratory and cloning GitHub repository](https://www.youtube.com/watch?v=Bn_jRbQcmV4)
 * [Deep_Learning_2: How to Upload Data in Google Colaboratory](https://www.youtube.com/watch?v=0rygVrmHidg)
 * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
@@ -475,6 +476,7 @@ TensorFlow
 * [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
 * [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
 * [NovelViewSynthesis - A TensorFlow implementation of a simple Novel View Synthesis model on ShapeNet (cars and chairs), KITTI, and Synthia](https://github.com/shaohua0116/NovelViewSynthesis-TensorFlow)
+* [Cutting Edge TensorFlow: New Techniques (Google I/O'19)](https://www.youtube.com/watch?v=Un0JDL3i5Hg)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
