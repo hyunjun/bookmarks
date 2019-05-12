@@ -70,3 +70,4 @@ Google Cloud Platform GCP
 * [Introducing Anthos: An entirely new platform for managing applications in today's multi-cloud world](https://cloud.google.com/blog/topics/hybrid-cloud/new-platform-for-managing-applications-in-todays-multi-cloud-world)
 * [Deploy App Containers with Google Cloud’s App Engine](https://hackingandslacking.com/deploy-app-containers-with-gcp-app-engine-1681bd120357)
 * [구글, 도커 컨테이너 기반 서버리스 서비스인 클라우드 런 발표](https://www.44bits.io/ko/post/news--cloud-run-is-launched-on-gcp)
+* [좀 더 저렴하게 사용하는 Google Cloud Platform(GCP)](https://medium.com/@jwlee98/%EC%A2%80-%EB%8D%94-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-google-cloud-platform-gcp-456cd71379f8)
