@@ -443,6 +443,8 @@ Business
 * [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
 * [5년만에 7배 성장한 글로벌 테크IPO](https://estimastory.com/2019/04/13/techipo/) 2018 Top tech IPO 10개; 중국 5, 미국 3, 스웨덴(Spotify), 네덜란드(Adyen)
 * [우버 S-1 구경하기](https://estimastory.com/2019/04/13/ubers1/)
+* [소프트뱅크는 이제 AI트래픽으로 성장한다!](https://estimastory.com/2019/05/12/softbankai/)
+  * 손정의의 소프트뱅크그룹 결산설명회(2019.03). 투자하는 여러 회사를 업체 종류별로 나눠서 보여주는 부분을 주목하자
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
