@@ -187,6 +187,7 @@ AWS
 * [테라폼 0.12 베타 1 출시 및 개선된 HCL 문법 살펴보기](https://www.44bits.io/ko/post/preview-new-feature-of-terraform-012-beta-1)
 * [Making Terraform and Serverless framework work together](https://hackernoon.com/making-terraform-and-serverless-framework-work-together-b00e6af63ee9)
 * [Terraform을 이용한 ES 클러스터 구축](https://brunch.co.kr/@alden/49)
+* [Terraform의 remote_state 활용하기](https://brunch.co.kr/@alden/51)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
 * [Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
