@@ -769,6 +769,8 @@ Programming
 * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
   * [if kakao 2018 동영상을 공개합니다](http://tech.kakao.com/2018/10/17/if-kakao-dev-2018/)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
+* Line
+  * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
 * [O’Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/schedule/grid/public/2017-06-29)
