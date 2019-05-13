@@ -400,6 +400,7 @@ Vision
 * [Face recognition — OpenCV](https://medium.com/data-science-101/face-recognition-opencv-e841dc0006c6)
 * [OpenCV Build Easiest way (1/2)](https://www.youtube.com/watch?v=9T0c6gvHiwg)
 * [OpenCV Build Easiest way (2/2)](https://www.youtube.com/watch?v=J5TUipRipj4)
+* [Ch0. OpenCV Lambda lecture introduction](https://www.youtube.com/watch?v=m39nOVPkEsQ)
 
 # OpenGL
 * [open.gl](https://open.gl/)
