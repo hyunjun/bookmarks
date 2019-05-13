@@ -56,7 +56,6 @@ App
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
 * [Markdeep is a technology for writing plain text documents that will look good in any web browser](http://casual-effects.com/markdeep/)
 * [MathBox² - PowerPoint Must Die](http://acko.net/blog/mathbox2/)
-* [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
 * [meistertask.com](https://www.meistertask.com) Kanban, task 관리
 * [Mendeley is a free reference manager and academic social network](https://www.mendeley.com/)
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
@@ -612,6 +611,10 @@ App
 * [iMac 21.5-inch, Late 2009 HDD 교체](https://hyeonseok.com/soojung/hardware/2019/04/20/851.html)
 * [How to Reset the Bluetooth Hardware Module on Mac OS X to Troubleshoot Challenging Bluetooth Issues](http://osxdaily.com/2015/12/15/reset-bluetooth-hardware-module-mac-osx/)
 * [LCD dead pixel checker](http://lcdtech.info/en/tests/dead.pixel.htm)
+
+# Messenger, message, messaging
+* discord [Forget Slack. Discord is the best messaging app I’ve ever used](https://hackernoon.com/forget-slack-discord-is-the-best-messaging-app-ive-ever-used-9351a035069)
+* [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
 
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
