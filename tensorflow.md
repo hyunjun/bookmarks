@@ -544,6 +544,13 @@ TensorFlow
 
 # GAN
 * [Awesome-GANs with Tensorflow](https://github.com/kozistr/Awesome-GANs)
+* [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
+* [Collection of generative models in Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
+* [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
+* [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
+* [Anomaly Detection with GANs](https://www.slideshare.net/ssuser06e0c5/anomaly-detection-with-gans)
+  * [AnoGAN in tensorflow](https://github.com/LeeDoYup/AnoGAN)
+* [BicycleGAN implementation in Tensorflow](https://github.com/gitlimlab/BicycleGAN-Tensorflow)
 * [Energy-based generative adversarial network (EBGAN)](https://arxiv.org/abs/1609.03126)
   * [ebgan in tensorflow](https://github.com/buriburisuri/ebgan)
   * 생성된 샘플 이미지가 InfoGAN 에 비해 더 좋아 보이지는 않지만 트레이닝 과정은 논문대로 매우 안정적
@@ -556,13 +563,7 @@ TensorFlow
   * seed 에 따라 생성된 category 복불복 현상을 피하기 위해 해 본건데 결과가 의외로 좋음
   * InfoGAN 구조상 supervised loss 를 추가한 것이 더 좋을 거 같음
   * 그냥 실제 데이터와 구분되지 않는 그림을 생성하는 것 보다는 명확히 discriminator 가 특정 숫자로 믿게 트레이닝하게 하는 거니깐 트레이닝 속도도 빠를 거로 추정
-* [Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
-* [Collection of generative models in Tensorflow](https://github.com/hwalsuklee/tensorflow-generative-model-collections)
-* [Learning Interpretable Latent Representations with InfoGAN](https://medium.com/emergent-future/learning-interpretable-latent-representations-with-infogan-dd710852db46)
-* [GANs comparison without cherry-picking](https://github.com/khanrc/tf.gans-comparison)
-* [BicycleGAN implementation in Tensorflow](https://github.com/gitlimlab/BicycleGAN-Tensorflow)
-* [Anomaly Detection with GANs](https://www.slideshare.net/ssuser06e0c5/anomaly-detection-with-gans)
-  * [AnoGAN in tensorflow](https://github.com/LeeDoYup/AnoGAN)
+* [SphereGAN-Tensorflow](https://github.com/taki0112/SphereGAN-Tensorflow)
 * [StyleGAN — Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
   * [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
 * [StyleGAN_WebDemo.ipynb](https://colab.research.google.com/drive/1j9X6Np9z_XMp5dJKFgCb9OCMVgE-e7lg)
