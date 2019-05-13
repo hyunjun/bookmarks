@@ -135,6 +135,7 @@ R
 * [능선회귀(Ridge regression)에 대하여 2 - λ 와 솔루션 β 의 관계](http://r-programming.club/16)
 * [Ridge Regression And Its Application](https://stepupanalytics.com/ridge-regression-and-its-application)
 * [Procedural Programming vs Functional Programming(I)](http://rpubs.com/cardiomoon/253966)
+* [함수형 프로그래밍](http://ds.sumeun.org/?p=1203)
 * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
   * [구글 R 스타일 가이드(Google's R Style Guide)](http://dialektike.github.io/Rguide.xml)
 * 개발자가 배우는 R
