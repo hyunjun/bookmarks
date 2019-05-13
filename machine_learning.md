@@ -583,6 +583,8 @@ Machine Learning
 * [Interpretable Machine Learning - A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/)
   * [iml: Interpretable Machine Learning](https://cran.r-project.org/web/packages/iml/) r package
 * [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823)
+* [자료 모음 1](https://www.facebook.com/groups/TensorFlowKR/permalink/608999666107762)
+* [자료 모음 2](https://www.facebook.com/groups/TensorFlowKR/permalink/490430184631378)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
