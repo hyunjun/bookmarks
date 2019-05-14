@@ -38,6 +38,7 @@ Logging
 * [How To Write Error Messages That Don’t Suck](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e)
 * **[로그 파일은 좋다](https://libsora.so/posts/log-file-is-good/)** 실제 구현에서 겪을 수 있는 상황에 대한 이야기라 좋음
 * [더 나은 개발자로 성장합는 팁, " 로그를 잘 남기세요."](https://www.youtube.com/watch?v=HxzlJWMcHng)
+* [로그 시스템의 개념과, 구글 스택드라이버 그리고 삼성전자 사례](https://bcho.tistory.com/1330)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
