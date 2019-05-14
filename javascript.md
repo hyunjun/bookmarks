@@ -403,6 +403,7 @@ Javascript
 * [What you should know about JavaScript arrays](https://medium.freecodecamp.org/what-you-should-know-about-javascript-arrays-a7e5394f78f8)
 * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
 * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
+* [How to find the index where a number belongs in an array in JavaScript](https://medium.freecodecamp.org/how-to-find-the-index-where-a-number-belongs-in-an-array-in-javascript-9af8453a39a8)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
@@ -1730,6 +1731,7 @@ Javascript
 * [react-redux 에서 Hooks 사용하기](https://velog.io/@velopert/react-redux-hooks)
 * [React 16.8 with Hook Implementation](https://hackernoon.com/react-16-8-with-hook-implementation-212220171685)
 * [How to Build a Todo List with React Hooks](https://medium.freecodecamp.org/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b)
+* [실전형 리액트 Hooks | #0 0 Introduction to Nooks](https://www.youtube.com/watch?v=QhPFf-rhV3o)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
@@ -1784,6 +1786,7 @@ Javascript
 * [React Concurrent Mode](https://ideveloper2.tistory.com/170)
 * [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 * [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
+* [How to optimize React applications with Lazy Loading](https://medium.freecodecamp.org/how-to-optimize-react-applications-with-lazy-loading-232183e02768)
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
