@@ -1162,6 +1162,7 @@ Python
 * [Python Data Science Handbook Essential Tools for Working with Data](http://shop.oreilly.com/product/0636920034919.do)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [Python Data Science Handbook - This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
+  * [책 소개 - 온라인으로 공개되어 있는 책 활용하기, 파이썬 데이터 사이언스 핸드북 Python Data Science Handbook](https://www.youtube.com/watch?v=Rhqsrpc95ig)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
