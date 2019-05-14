@@ -2123,6 +2123,7 @@ Python
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
 * google API
+  * calendar [One Day Builds: Task Automation With Python](https://www.youtube.com/watch?v=sbhQNZVxcPc)
   * drive
     * [python 구글 드라이브 api로 파일 업로드하기](https://blog.psangwoo.com/coding/2017/07/10/google_drive_api.html)
     * [google drive 연동하기](http://blog.naver.com/pjt3591oo/221145739394)
