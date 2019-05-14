@@ -78,7 +78,6 @@ AWS
 * [AWSKRUG 신년 콘퍼런스 참관 후기 #2](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0-2/)
 * [AWSKRUG #enterprise 소모임 2018.06.11 참석후기](http://jojoldu.tistory.com/303)
 * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
-* [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
 * [AWS Community Day - re:Invent 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUXNenBdbgVRVaUlxNJZltWa)
 * AWS이해하기
   * [1주차 – AWS클라우드 컴퓨팅 소개 / 실습](http://asome.bdinc.co.kr/2016/06/16/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-aws%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85/)
@@ -136,6 +135,8 @@ AWS
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
 * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
+* [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
+* [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
 * [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
 * [React 앱 AWS에 배포하기](https://isme2n.github.io/aws/2017/06/08/aws-deploy/)
 * AWS로 배포하기 시리즈
@@ -499,3 +500,4 @@ AWS
 * [AWS VPC with Terraform Modules](https://blog.2dal.com/2017/10/28/aws-vpc-with-terraform-modules/)
 * [Amazon Kinesis와 Amazon Athena를 활용한 VPC 네트워크 트래픽의 분석과 시각화](https://aws.amazon.com/ko/blogs/korea/analyze-and-visualize-your-vpc-network-traffic-using-amazon-kinesis-and-amazon-athena/)
 * [AWS VPC 개념](https://kudwafter.moe/?p=496)
+* [만들면서 배우는 AWS VPC 입문 아마존 웹 서비스 네트워크의 기초](https://www.44bits.io/ko/post/understanding_aws_vpc)

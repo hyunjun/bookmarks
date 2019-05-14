@@ -528,6 +528,7 @@ Programming Books
 * (NOT YET) [파이썬으로 실무에 바로 적용하는 머신 러닝](http://acornpub.co.kr/book/understanding-ml)
 * (NOT YET) [머신 러닝 알고리즘 파이썬 예제와 함께 배우는 머신 러닝](http://acornpub.co.kr/book/ml-algorithms)
 * (NOT YET) [머신러닝 TensorFlow.js JavaScript - 자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188034357)
+* (NOT YET) [머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로 - Python Machine Learning 2/E : Numpy, scikit-learn 0.2x, TensorFlow 2.x로 배우는 머신 러닝, 딥러닝 핵심 알고리즘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=191948149)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -1200,6 +1201,7 @@ Programming Books
 * (NOT YET) [깔끔한 파이썬 탄탄한 백엔드](https://bjpublic.tistory.com/317) flask, aws
   * [HTTP의 구조 및 핵심 요소](https://zzsza.github.io/development/2019/03/01/http-structure/)
 * (NOT YET) [바이오파이썬으로 만나는 생물정보학](https://bjpublic.tistory.com/324)
+* (NOT YET) [파이썬 표현력을 끌어올려 주는『슬기로운 파이썬 트릭』](https://blog.insightbook.co.kr/2019/01/23/파이썬-표현력을-끌어올려-주는『슬기로운-파이썬)
 
 # R
 

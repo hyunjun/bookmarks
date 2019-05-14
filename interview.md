@@ -207,6 +207,8 @@ Interview
     * [Google Docs System design | part 2| System components explanation micro services arcitecture](https://www.youtube.com/watch?v=U2lVmSlDJhg)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
     * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor.html)**
+  * Messenger, Messaging
+    * [Whatsapp System design or software architecture](https://www.youtube.com/watch?v=L7LtmfFYjc4&t=32s)
   * Online store
     * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part)
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)

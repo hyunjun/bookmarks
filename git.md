@@ -159,6 +159,7 @@ Git
 * [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)
 * [Mind your programming language](https://medium.freecodecamp.org/mind-your-programming-language-38e340a430a1) .gitattributes
 * [The Essential Git Handbook](https://medium.freecodecamp.org/the-essential-git-handbook-a1cf77ed11b5)
+* [깃허브 패키지 레지스트리 베타 발표 언어 별 패키지 매니저 지원 및 깃헙 권한으로 접근 제어 등](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
