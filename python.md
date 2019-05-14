@@ -2753,6 +2753,7 @@ Python
 * Modin [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg)
 * [Pandas Tutorial (Data Analysis In Python)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
+* [파이썬 판다스 데이터프레임 apply함수 사용 - 특정 조건(if)의 값 바꾸기!](https://tariat.tistory.com/622)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -3115,6 +3116,8 @@ Python
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
 * [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)
 * [Lesson One Video - Intro to the VBA Model in Python](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-vba)
+* [Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules](http://www.dependencywalker.com/)
+* [DUMPBIN Reference](https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference) examine COFF, exe, DLL files
 * ironpython
   * [ironpython2](https://github.com/IronLanguages/ironpython2)
   * [ironpython3](https://github.com/IronLanguages/ironpython3)
