@@ -431,6 +431,7 @@ Apache
 * [MirrorMaker Performance Tuning Tuning Kafka for Cross Data Center Replication](https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21)
   * compression.type 지정
   * Producer 에서 사용하면, Network BW 및 Broker단의 CPU 절약
+* [Kafka Replication: The case for MirrorMaker 2.0](https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/)
 * [blog.voidmainvoid.net/category/.../Kafka](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
 * [Finding Kafka’s throughput limit in Dropbox infrastructure](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
