@@ -964,6 +964,7 @@ Machine Learning
   * [Speeding Up Sklearn’s kNN Algorithms With Custom Distance Metrics Written In Cython](https://blog.sicara.com/https-medium-com-redaboumahdi-speed-sklearn-algorithms-custom-metrics-using-cython-de92e5a325c)
   * [Implementing a Neural Network from Scratch in Python – An Introduction](https://www.datasciencecentral.com/profiles/blogs/implementing-a-neural-network-from-scratch-in-python-an)
   * [Building Prediction APIs in Python (Part 1): Series Introduction & Basic Example](https://towardsdatascience.com/building-prediction-apis-in-python-part-1-series-introduction-basic-example-fe89e12ffbd3)
+  * [Finding the right model parameters](https://towardsdatascience.com/finding-the-right-model-parameters-3670a1c086b3)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
