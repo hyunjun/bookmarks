@@ -159,6 +159,7 @@
 * [New Developments in Spark](http://www.slideshare.net/databricks/new-developments-in-spark)
 * [Spark와 Hadoop, 완벽한 조합 (한국어)](http://www.slideshare.net/pudidic/spark-hadoop)
 * [Spark Architecture: Shuffle](http://0x0fff.com/spark-architecture-shuffle/)
+* [Deep-dive into Spark Internals & Architecture](https://www.linkedin.com/pulse/deep-dive-spark-internals-architecture-jayvardhan-reddy-vanchireddy/)
 * [Naytev Wants To Bring A Buzzfeed-Style Social Tool To Every Publisher With Spark](http://techcrunch.com/2015/09/30/naytev-wants-to-bring-a-buzzfeed-style-social-tool-to-every-publisher-with-spark/)
 * [Spinning up a Spark Cluster on Spot Instances: Step by Step](http://insightdataengineering.com/blog/sparkdevops/)
 * [Spark Meetup at Uber](http://www.slideshare.net/databricks/spark-meetup-at-uber)
