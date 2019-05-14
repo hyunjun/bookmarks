@@ -611,6 +611,7 @@ Programming
 * [GCP Google Cloud Platform](gcp.md)
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
+* [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
