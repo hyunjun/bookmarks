@@ -205,6 +205,7 @@ Algorithm
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 * [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
 * **[Byzantine Failure - 블록체인 개발이 어려운 이유](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)**
+* [Protecting Byzantine Fault Tolerance with Trusted Execution](https://hackernoon.com/protecting-byzantine-fault-tolerance-with-trusted-execution-743ab505cb2b)
 * [Instructors Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 * [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
 * [Raft - leader election](http://blog.seulgi.kim/2017/12/raft-leader-election.html)
