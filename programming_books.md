@@ -1200,6 +1200,7 @@ Programming Books
 * (NOT YET) [깔끔한 파이썬 탄탄한 백엔드](https://bjpublic.tistory.com/317) flask, aws
   * [HTTP의 구조 및 핵심 요소](https://zzsza.github.io/development/2019/03/01/http-structure/)
 * (NOT YET) [바이오파이썬으로 만나는 생물정보학](https://bjpublic.tistory.com/324)
+* (NOT YET) [파이썬 표현력을 끌어올려 주는『슬기로운 파이썬 트릭』](https://blog.insightbook.co.kr/2019/01/23/파이썬-표현력을-끌어올려-주는『슬기로운-파이썬)
 
 # R
 
