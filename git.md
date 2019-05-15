@@ -396,6 +396,7 @@ Git
   * [깃(Git) 리베이스 사용하기](https://tech.10000lab.xyz/git/git-rebase-workflow.html)
   * [How to become a Git expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
   * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) multiple commits를 하나의 new commit으로 변경
+  * [git rebase in depth](https://git-rebase.io/)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
