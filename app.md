@@ -675,6 +675,7 @@ App
 * [notion - All-in-one workspace](https://www.notion.so)
   * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
   * [Andrea's Notion Story](https://www.notion.so/9b54b64c084f4fdaa2e8979f6490ac5f)
+  * [구글 캘린더 연동](https://brunch.co.kr/@sijin90/34)
 * [paperkit.net](http://paperkit.net/)
 * [paperwork.rocks](http://paperwork.rocks/)
 * [Snip](https://mix.office.com/Snip) windows only
