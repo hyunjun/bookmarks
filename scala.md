@@ -756,12 +756,13 @@ Scala
 * [Library dependencies](https://www.scala-sbt.org/1.x/docs/Library-Dependencies.html)
 * [Configure and use logging](https://www.scala-sbt.org/1.x/docs/Howto-Logging.html) e.g. `sbt --debug compile`
 * [sbt the easy way](https://www.codacy.com/blog/sbt-the-easy-way/)
+* [How to set heap size for sbt?](https://stackoverflow.com/questions/15280839/how-to-set-heap-size-for-sbt)
+  * e.g. `c:\Program Files (x86)/sbt/conf/sbtconfig.txt`
 * [How to use sbt from behind proxy?](http://stackoverflow.com/questions/13803459/how-to-use-sbt-from-behind-proxy)
   * `SBT_OPTS="-Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
   * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
 * [How to include an external jar file into the jar with package?](http://stackoverflow.com/questions/25129227/how-to-include-an-external-jar-file-into-the-jar-with-package)
 * [스칼라 어플리케이션은 어떻게 빌드&디플로이 할까?](http://hamait.tistory.com/892)
-* [WartRemover: a flexible scala linter](http://www.wartremover.org/)
 * Maven to SBT 컨버터
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
@@ -771,9 +772,10 @@ Scala
   * [2018년 마지막 방송 (2018-12-21) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=BITP-Pr7OXQ)
 * [Sub-project management via sbt](https://medium.com/@linda0511ny/sub-project-management-via-sbt-26e9f7bccbad)
 * [running sbt on Docker](http://eed3si9n.com/sbt-on-docker)
-* [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [The basics of the build.sbt](https://medium.com/@pwdd/the-basics-of-the-build-sbt-bbf81a0aa8d0)
 * [Scala sbt Project Directory Walkthrough](https://medium.com/@wangyunlongau/scala-sbt-project-directory-structure-c254bb08623e)
+* [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
