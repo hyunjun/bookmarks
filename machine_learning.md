@@ -956,6 +956,7 @@ Machine Learning
   * [Linear Regression Machine Learning Method Using Scikit-learn & Pandas in Python - Tutorial 30](https://www.youtube.com/watch?v=erfZsVZbGJI)
   * [“파이썬 라이브러리를 활용한 머신러닝” 사이킷런 0.20 업데이트](https://tensorflow.blog/2018/09/30/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-0-20/)
   * [Scikit-Learn: A silver bullet for basic machine learning](https://medium.com/analytics-vidhya/scikit-learn-a-silver-bullet-for-basic-machine-learning-13c7d8b248ee)
+  * [Scikit-Learn Library for Machine Learning in a Nutshell](https://hackernoon.com/scikit-learn-library-for-machine-learning-in-a-nutshell-35fead4b216d)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * sklearn
   * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
