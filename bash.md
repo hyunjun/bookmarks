@@ -13,6 +13,7 @@ Shell
 * **[Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md)**
 * [Source code listing for the Lions' Commentary in PDF and PostScript](http://v6.cuzuco.com/)
 * [#testing #bash 간단한 assert](http://ohyecloudy.com/pnotes/archives/bash-simple-assert/)
+* [Functional and flexible shell scripting tricks](https://medium.freecodecamp.org/functional-and-flexible-shell-scripting-tricks-a2d693be2dd4)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
