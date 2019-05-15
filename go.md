@@ -323,6 +323,7 @@ Go
 * [GoCqlTable is a wrapper around the GoCql-driver that seeks to simplify working with the Cassandra database in Golang projects](https://github.com/elvtechnology/gocqltable)
 * [Go Crypto - Gotham Go](http://www.slideshare.net/NicholasSullivan/whats-new-in-go-crypto-gotham-go)
 * [go-datastructures](https://github.com/Workiva/go-datastructures)
+* godate [Easy date manipulation in Golang with Godate](https://medium.freecodecamp.org/easy-date-manipulation-in-golang-with-godate-485eef7254a0)
 * [Godep: Dependency Management in Go](https://blog.codeship.com/godep-dependency-management-in-golang/)
 * [Godray - a simple ray tracer](https://github.com/LanJian/godray)
 * [GoDS - Go Data Structures. Tags: Containers, Sets, Lists, Stacks, Maps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, RedBlackTree, BinaryHeap, Comparator, Sort](https://github.com/emirpasic/gods)
