@@ -37,6 +37,7 @@ AWS
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
+* [AWS Summit 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9)
 * [2019 AWS Summit Seoul 참관기 day 1/2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-7232b47135d1)
 * [2019 AWS Summit Seoul 참관기 day 2/2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-2-2-47f33888e2ae)
 * [AWS Summit Seoul2019:: Innovation Day - AWS는 어떻게 소매시장을 혁신시키는가?](https://deepinsight.tistory.com/72)
