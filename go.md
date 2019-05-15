@@ -253,6 +253,7 @@ Go
   * [build-web-application-with-golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [The Go Programming Language](http://www.gopl.io)
+* [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
 
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
