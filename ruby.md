@@ -47,6 +47,7 @@ Ruby
 * [루비 2.6 릴리즈 및 주요 문법 변경 사항 소개](https://www.44bits.io/ko/post/ruby-2-6-0-released-and-changes)
 * [Add badges for TravisCI, Coveralls and Code Climate to your Readme (Ruby)](https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed)
 * [How you can add Bootstrap to your Ruby on Rails project](https://medium.freecodecamp.org/add-bootstrap-to-your-ruby-on-rails-project-8d76d70d0e3b)
+* [Routes in Ruby on Rails 5: how you can use resources and records to define URLs](https://medium.freecodecamp.org/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
