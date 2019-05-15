@@ -396,12 +396,14 @@ Python
 * [Python for Android Tutorial #1 - Using the Accelerometer](http://blog.rhesoft.com/2014/07/17/python-for-android-tutorial-1-using-the-accelerometer/)
 * Kivy
   * [kivy.org/planet](https://kivy.org/planet/)
-  * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [Python on Android](http://kivy.org/planet/2015/04/python-on%C2%A0android/)
+  * [Introduction to Kivy](http://slides.com/cleett/introduction-to-kivy#/)
   * [Developing Python based Android Apps Using Kivy](http://opensourceforu.efytimes.com/2016/02/developing-python-based-android-apps-using-kivy/)
   * [Kivy with Python tutorial for Mobile Application Development Part 1](https://pythonprogramming.net/kivy-application-development-tutorial/)
   * [Kivy - Mobile and Desktop App Dev w/ Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF)
   * [KivyAndroidClassification](https://github.com/ahmedfgad/KivyAndroidClassification)
+  * [Running NumPy in Android Devices using the Kivy Python Framework](https://heartbeat.fritz.ai/running-numpy-in-android-devices-using-kivy-python-framework-524cb0fac7c5)
+  * [NumPyCNNAndroid - This project builds Convolutional Neural Network (CNN) for Android using Kivy and NumPy](https://github.com/ahmedfgad/NumPyCNNAndroid)
 
 # API
 * [한방에 끝내는 파이썬 프로그래밍 책 예제](https://github.com/insukcho/pythonmento)
