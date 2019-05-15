@@ -54,6 +54,7 @@ Android
 * [Google I/O 2018 for Android 소스를 공개합니다](https://developers-kr.googleblog.com/2018/09/google-releases-source-for-google-io.html)
 * [Google I/O 2019: 개발자 여러분들이 Android + Play에서 최상의 경험을 만들도록 지원합니다](https://developers-kr.googleblog.com/2019/05/google-io-2019-empowering-developers-to-build-experiences-on-Android-Play.html)
 * [2019 Google IO - Architecture Components 정리](https://thdev.tech/google%20io/2019/05/10/Google-IO-2019-Architecture-Components/)
+* [2019 Google IO - What's New Android 살펴보기](https://thdev.tech/google%20io/2019/05/15/Google-IO-2019-Whats-New-Android/)
 * [#01 안드로이드 일기장 앱을 만들어봅시다](https://www.youtube.com/watch?v=yWvBLMJ8O7Q)
 * [빌드시간 최적화하기(빌드속도 70%감소)](http://gun0912.tistory.com/76)
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
