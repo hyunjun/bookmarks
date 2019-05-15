@@ -817,4 +817,5 @@ App
   * [윈도우 10에 WSL 설치하기](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/install-WSL/)
   * [WSL 파이썬 인터프리터 윈도우에서 사용하기 (with Visual Studio Code)](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/install-VSCode-on-WSL/)
   * [WSL에 설치된 아나콘다 윈도우에서 사용하기 + jupyter notebook 사용하기 (with Visual Studio Code)](https://gyeonghunkim.github.io/wsl-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95/anacoda-python-WSL-VSCode/)
+  * [(번역) WSL 2를 공개하며](https://ryanking13.github.io/2019/05/07/Announcing-WSL-2.html)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
