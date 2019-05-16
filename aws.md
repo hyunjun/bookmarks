@@ -17,6 +17,7 @@ AWS
 * [AWS Lambda](https://www.youtube.com/playlist?list=PLBtyBPTlyC7tR5LVPEjphl6fPOOOVe6XM)
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
+* [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
