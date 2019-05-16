@@ -146,6 +146,7 @@ PyTorch
 * [Randomly Wired Neural Network - Implementing Randomly Wired Neural Networks for Image Recognition, Using CIFAR-10 dataset, CIFAR-100 dataset](https://github.com/leaderj1001/RandWireNN)
 * [Music Translation - PyTorch implementation of the method described in the A Universal Music Translation Network](https://github.com/facebookresearch/music-translation)
 * [layer_normalization.py](https://github.com/CyberZHG/torch-layer-normalization/blob/master/torch_layer_normalization/layer_normalization.py)
+* [Getting Started with Intel® Optimization for PyTorch on Second Generation Intel® Xeon® Scalable Processors](https://software.intel.com/en-us/articles/getting-started-with-intel-optimization-of-pytorch)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
