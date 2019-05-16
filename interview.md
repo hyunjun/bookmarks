@@ -36,7 +36,6 @@ Interview
 * [National Geographic Life Hacking](https://www.facebook.com/NatGeoKorea/videos/955990741099081) 면접 볼 때 마지막으로 물어볼 거 있냐는 질문에 대한 질문
 * [채용 담당자한테 꼭 물어봐야하는 6가지 질문](http://www.upfly.me/2017/03/28/what-to-ask-to-recruiters/)
 * [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
-* [InterviewBit - Your Free Interactive Coach for Tech Interviews](http://www.interviewbit.com/invite/hfij)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
 * [Interview cake - I will teach you to be good at programming interviews](https://www.interviewcake.com/)
 * [Interviewing candidates](http://ericlippert.com/2015/06/08/interviewing-candidates/)
@@ -143,6 +142,8 @@ Interview
 * [머신러닝 인터뷰 준비](https://docs.google.com/document/d/10bJK8S4T7sBIP-pzdQm9xRpW0HcLsrh6D047pE_kFE8)
 * [tech-interview-handbook - Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)
 * [Bet you can’t solve this Google interview question](https://medium.freecodecamp.org/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee) matrix coloring
+* [The best software Interview material - Prepare in less than 3 months](https://www.youtube.com/watch?v=bBPHpH8aKjw)
+* [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -170,6 +171,11 @@ Interview
 * [시니어 개발자로 가는 길](https://brunch.co.kr/@minchang/13)
 * [Two examples for each of Amazon’s 14 Leadership Principles](https://www.youtube.com/watch?v=RzlUQCy84rQ)
 * [Google Lost a chance to hire me… Finally, Amazon hired me !!!](https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2)
+* [geeksforgeeks.org/tag/amazon](https://www.geeksforgeeks.org/tag/amazon/)
+  * [Amazon Interview Preparation](https://www.geeksforgeeks.org/amazon-interview-preparation/)
+* [interviewbit.com/search/?q=Amazon](https://www.interviewbit.com/search/?q%5B%5D=Amazon)
+  * [Amazon Interview Questions](https://www.interviewbit.com/amazon-interview-questions/)
+* [Amazon Interview](https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -203,6 +209,7 @@ Interview
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
   * Distributed storage
     * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
+    * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
     * **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
@@ -227,11 +234,13 @@ Interview
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
+    * [System Design: URL Shortener -- Calculating Estimates](https://www.youtube.com/watch?v=oK6BmG3R5iE)
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
   * Social Media
-    * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247)
-    * [소셜 네트워크 서비스의 아키텍처에 대하여](https://d2.naver.com/helloworld/551588)
-    * [LINE 소셜 네트워크 서비스의 아키텍처](https://d2.naver.com/helloworld/809802)
+    * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247) timeline architecture 개선
+    * **[소셜 네트워크 서비스의 아키텍처에 대하여](https://d2.naver.com/helloworld/551588)** push vs. pull에 대한 매우 좋은 분석글
+    * [LINE 소셜 네트워크 서비스의 아키텍처](https://d2.naver.com/helloworld/809802) 윗 글에 이어 line 자체의 architecture를 redis, cassandra 중심으로 설명
+    * [LINE Storage: Storing billions of rows in Sharded-Redis and HBase per Month](https://engineering.linecorp.com/en/blog/line-storage-storing-billions-of-rows-in-sharded-redis-and-hbase/)
     * Instagram
       * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
       * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
@@ -266,7 +275,6 @@ Interview
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
-* [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
 * **[Building Google Photos using Microservices Part I](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)**
@@ -278,6 +286,9 @@ Interview
 * [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
 * [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 * [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
+* Consistent Hashing
+  * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
+  * [Amazon Interview question: Learn hashing and consistent hash ring](https://www.youtube.com/watch?v=bBK_So1u9ew0)
 * Load Balancer
   * [Introducing the GitHub Load Balancer](https://githubengineering.com/introducing-glb/)
   * [GLB part 2: HAProxy zero-downtime, zero-delay reloads with multibinder](https://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/)
@@ -375,6 +386,7 @@ Interview
 * [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
 * [icpc.baylor.edu](https://icpc.baylor.edu/)
 * [interviewbit.com](https://www.interviewbit.com/)
+  * [InterviewBit - Your Free Interactive Coach for Tech Interviews](http://www.interviewbit.com/invite/hfij)
 * [interviewcake.com](https://www.interviewcake.com/)
 * [interviewing.io](http://interviewing.io/)
 * [interviewzen.com](https://www.interviewzen.com/)
@@ -406,7 +418,7 @@ Interview
 
 # Interview Questions - Technical
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
-* [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
+* **[Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)**
   * [Programming Interview Questions](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=5&view=50&sort=dd)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [면접 문제 은행](https://github.com/haegul/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
@@ -470,6 +482,7 @@ Interview
 * [goengin.com/category/code-interview](http://goengin.com/category/code-interview/)
 
 # Resume
+* [LinkedIn-dentation & Formatting](http://stephendnicholas.com/posts/linked-in-formatting) linkedin에 indent 넣는 방법
 * [해외 리쿠르터의 이목을 사로잡는 링크드인 작성법](http://www.upfly.me/index.php/2016/10/16/howtolinkedin/)
 * [한국인들이 저지르는 링크드인 실수 TOP 5](https://www.youtube.com/watch?v=G7jPNzx4oDU)
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.VytJ4RWLSZ0)
