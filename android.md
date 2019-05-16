@@ -45,6 +45,7 @@ Android
 * [SparseArray가 무엇인가요?](http://developer88.tistory.com/91)
 * [번역 DroidKaigi 2017 ~ How to apply DDD to Android Application Development](http://pluu.github.io/blog/android/droidkaigi/2017/04/02/droidkaigi-2017-ddd/)
 * [번역 DroidKaigi 2018 ~ Android 앱 개발에서의 도메인 주도 설계를 하는 이야기](http://pluu.github.io/blog/android/droidkaigi/2019/05/01/droidkaigi-ddd/)
+* [번역 DroidKaigi 2019 ~ `LiveData와 Coroutines로 구현하는 DDD 전술적 설계`에 대해서 이야기 했습니다](http://pluu.github.io/blog/android/droidkaigi/2019/05/16/droidkaigi-ddd/)
 * [DroidKaigi 2019 참가 후기](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-review/)
 * [DroidKaigi 2019에서 들은 세션 ](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-insert-session/)
 * [Android Instant App SDK 체험기](http://blog.naver.com/pistolcaffe/221009529807)
