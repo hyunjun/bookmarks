@@ -219,6 +219,7 @@ Data Visualization
   * [How and why I used Plotly (instead of D3) to visualize my Lollapalooza data](https://medium.freecodecamp.org/how-and-why-i-used-plotly-instead-of-d3-to-visualize-my-lollapalooza-data-d48345e2ca68)
   * [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)
   * [Data visualization with plotly py: Version 3 and beyond - Jon Mease](https://www.youtube.com/watch?v=cuTMbGjN2GQ)
+  * [Python’s One Liner graph creation library with animations Hans Rosling Style](https://mlwhiz.com/blog/2019/05/05/plotly_express/)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
   * [Graph visualization using Python](https://www.youtube.com/watch?v=SpDI6-FvtJY)
 * [pyecharts - Python Echarts Plotting Library http://pyecharts.org](https://github.com/pyecharts/pyecharts)
