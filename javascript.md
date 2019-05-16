@@ -478,6 +478,7 @@ Javascript
 * [From Java to JavaScript — Functions and Scopes](https://medium.com/@reime005/from-java-to-javascript-functions-and-scopes-9bea24c7cfb)
 * [How to make a cross-browser extension using JavaScript and browser APIs](https://medium.freecodecamp.org/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba)
 * [JavaScript 내장 메소드를 사용하여 숫자 천단위마다 콤마 찍기](https://john015.github.io/java-script-%EB%82%B4%EC%9E%A5-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%88%AB%EC%9E%90-%EC%B2%9C%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0)
+* [Iterable과 Iterator 이해하기](https://armadillo-dev.github.io/javascript/what-is-iterable-and-iterator)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1731,8 +1732,12 @@ Javascript
 * [react-redux 에서 Hooks 사용하기](https://velog.io/@velopert/react-redux-hooks)
 * [React 16.8 with Hook Implementation](https://hackernoon.com/react-16-8-with-hook-implementation-212220171685)
 * [How to Build a Todo List with React Hooks](https://medium.freecodecamp.org/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b)
-* [실전형 리액트 Hooks | #0 0 Introduction to Nooks](https://www.youtube.com/watch?v=QhPFf-rhV3o)
+* [React Hooks](https://www.youtube.com/playlist?list=PL7jH19IHhOLPDyuhF_fLCt_pKvtuLI5qX)
+* [실전형 리액트 Hooks | #1 0 Introduction to useState](https://www.youtube.com/watch?v=W6KX48dnH6I)
+* [실전형 리액트 Hooks | #0 2 Workflow](https://www.youtube.com/watch?v=JHZ3NPj4jrQ)
+* [실전형 리액트 Hooks | #0 1 Requirements](https://www.youtube.com/watch?v=9-_Xw1RUvj4)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
+* [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
 * [React + Redux 게시판(CRUD) 만들기](http://forest71.tistory.com/184)
@@ -1908,6 +1913,8 @@ Javascript
 * [How to build a React Native App in the old-school style](https://medium.freecodecamp.org/building-react-native-app-in-old-school-style-43f854a82a62)
 * [How to Turn React Components into Native Web Components](https://hackernoon.com/how-to-turn-react-component-into-native-web-component-84834315cb24)
 * [특정 파일로 앱 열기](https://dev-yakuza.github.io/ko/react-native/open-file-with-app/)
+* [리액트 네이티브로 투두앱 만들기 Build To Do App with React Native](https://www.youtube.com/playlist?list=PL7jH19IHhOLOefIzCSQ03xlBekyi81FVv)
+* [리액트 네이티브로 날씨앱 만들기 Build App with React Native](https://www.youtube.com/playlist?list=PL7jH19IHhOLNPOI3bEBtSw1Acp3fS0enw)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -2093,6 +2100,7 @@ Javascript
 * [강좌 5-7편 Redux: Store](https://gist.github.com/velopert/8ce3162e2142eaadaa16891a5cbfce59)
 * [Redux](https://opentutorials.org/module/4078)
 * [Redux](https://www.youtube.com/playlist?list=PLuHgQVnccGMB-iGMgONoRPArZfjRuRNVc)
+* [리액트, 리덕스로 타이머 앱 만들기 Build timer app with React Native and Redux](https://www.youtube.com/playlist?list=PL7jH19IHhOLMKhZfOg7fj6gFX7Lbxpk7q)
 
 # Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
