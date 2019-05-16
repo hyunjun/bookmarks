@@ -54,7 +54,6 @@ Algorithm
 * [Using Ring Buffer Logging to Help Find Bugs](http://www.exampler.com/writing/ring-buffer.pdf)
 * [Bin Packing Problem: Two Approximation Algorithms](http://arxiv.org/abs/1508.01376)
 * [A step-by-step guide to building a simple chess AI](https://medium.freecodecamp.org/simple-chess-ai-step-by-step-1d55a9266977)
-* [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
 * [Fisher-Yates shuffle](http://www.programming-algorithms.net/article/43676/Fisher-Yates-shuffle)
 * [The Stack Overflow Tag Engine – Part 2](http://mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/)
 * [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
@@ -165,6 +164,7 @@ Algorithm
 * [Levenshtein automata can be simple and fast](http://julesjacobs.github.io/2015/06/17/disqus-levenshtein-simple-and-fast.html)
 * [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein)
 * [편집 거리 알고리즘(Levenshtein distance, Edit distance)](http://hsp1116.tistory.com/41)
+* [Technical interview with a Google engineer: Edit distance string comparison](https://www.youtube.com/watch?v=wyu6VRmtCmE)
 
 # Bit
 * [awesome-bits - A curated list of awesome bitwise operations and tricks](https://github.com/keonkim/awesome-bits)
@@ -368,6 +368,10 @@ Algorithm
 * [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
 * [검색은 어떻게 동작하나요](http://docs.likejazz.com/how-search-works/)
 * [Worked PageRank Example](http://mathscinotes.com/2012/01/worked-pagerank-example/)
+
+# Permutation
+* [Compute The Next Permutation of A Numeric Sequence - Case Analysis ("Next Permutation" on Leetcode)](https://www.youtube.com/watch?v=quAS1iydq7U)
+* [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
 
 # Problems
 * **[A collection of algorithms](https://github.com/williamfiset/algorithms)**
