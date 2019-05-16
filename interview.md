@@ -204,7 +204,7 @@ Interview
   * Distributed storage
     * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
-    * [Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)
+    * **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
   * Google Docs
     * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
@@ -288,8 +288,6 @@ Interview
   * [Scaling out load balancer devices and a backend network device](https://serverfault.com/questions/951086/scaling-out-load-balancer-devices-and-a-backend-network-device)
     * DB 샤드 갯수도, 웹서버 클러스터도 너무 많다고 가정. 그들간의 네트워킹을 이어주는 장치(스위치 허브 등)에 과부하가 걸리면 어떻게 수평확장?
   * [Load Balancing](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5747976207073280)
-* **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
-* [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
 * [How to Build your Own Real-time Chat App like WhatsApp?](https://hackernoon.com/how-to-build-your-own-real-time-chat-app-like-whatsapp-9d1d058afd5b)
