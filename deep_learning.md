@@ -702,6 +702,7 @@ Deep Learning
 * [Setting up a GPU Enabled Kubernetes for Deep Learning](https://gist.github.com/stevenc81/1cad3a0ebca9303923d1cd4c3641f8bc)
 * [It is never too much: training deep learning models with more than one modality - Adam Słucki](https://www.youtube.com/watch?v=-UaTdVGfHxQ)
 * [A Beginners Guide to Federated Learning](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf)
+* [federated learning - 보안 걱정 없는 모바일 딥러닝 학습법 (연합 학습)](https://www.youtube.com/watch?v=ei_e7nHS6SE)
 * [LxMLS 2017](https://www.youtube.com/playlist?list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N)
 
 # AlphaGo
