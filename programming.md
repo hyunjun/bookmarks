@@ -450,6 +450,7 @@ Programming
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
+* [마이크로 서비스 관련 글 총정리](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B4%80%EB%A0%A8-%EA%B8%80-%EC%B4%9D%EC%A0%95%EB%A6%AC)
 * [마이크로서비스 아키텍처. 그것이 뭣이 중헌디?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EB%AD%A3%EC%9D%B4-%EC%A4%91%ED%97%8C%EB%94%94/)
 * [마이크로서비스 아키텍처의 장단점](http://www.popit.kr/why-microservice/)
 * [“마이크로서비스, 이젠 흐름이 아니라 필수”](http://www.bloter.net/archives/266022)
