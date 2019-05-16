@@ -2110,6 +2110,7 @@ CVPR2016)
 * [쉽게구현하는 강화학습 1화 Policy Gradient - REINFORCE와 Actor-Critic 구현하기!](https://www.youtube.com/watch?v=12pXaP8KPbE)
   * [minimalRL](https://github.com/seungeunrho/minimalRL)
 * [Reinforcement Learning as Probabilistic Inference](https://colab.research.google.com/drive/1VkoRfg_thJuRyWlZXFNvPcRrviRlxO9I) ipynb
+* [On Choosing a Deep Reinforcement Learning Library](https://medium.com/data-from-the-trenches/choosing-a-deep-reinforcement-learning-library-890fb0307092)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
