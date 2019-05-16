@@ -438,6 +438,7 @@ Programming Books
 * (NOT YET) [PyTorch를 활용한 강화학습/심층강화학습 실전 입문](http://wikibook.co.kr/pytorch-drl/)
 * [Deep Learning Cookbook](https://ridibooks.com/v2/Detail?id=2121000012)
   * [Deep Learning Cookbook 추가 설명집](https://wikidocs.net/book/2522)
+  * [github.com/DOsinga/deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook)
   * [1. Word embedding - 텍스트 유사성 계산, 위키피디아를 이용한 영화 추천 시스템 (Chapter 3, Chapter 4)](https://fintelab.tistory.com/3)
   * [03 단어 임베딩을 사용하여 텍스트 유사성 계산하기 (1)](https://wegonnamakeit.tistory.com/19)
   * [03 단어 임베딩을 사용하여 텍스트 유사성 계산하기 (2)](https://wegonnamakeit.tistory.com/20)
