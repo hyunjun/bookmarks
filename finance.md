@@ -111,6 +111,7 @@ Finance
 * [데이터셋 - 시가총액 데이터](https://github.com/FinanceData/marcap)
 * [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
 * [Python/Python 재무제표 크롤링](https://engkimbs.tistory.com/category/Python/Python%20%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C%20%ED%81%AC%EB%A1%A4%EB%A7%81)
+* **[거래 알고리즘](https://www.openaitrading.com/category/share-trading-algorithm/)**
 * [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
   * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
 * [eBest Xing api 실시간조회, 테스트 및 실행 화면 (8)](http://malchooni.name/%ED%8C%8C%EC%9D%B4%EC%8D%AC-ebest-xing-api-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A1%B0%ED%9A%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4-8/)
@@ -123,6 +124,8 @@ Finance
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [Simple Bank Korea](https://github.com/Beomi/simple_bank_korea)
+* [TA-Lib : Technical Analysis Library](http://ta-lib.org/)
+  * [Python에 Ta-Lib 설치 문제 해결 방법](https://www.openaitrading.com/python%EC%97%90-ta-lib-%EC%84%A4%EC%B9%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
 * [Zipline - a Pythonic algorithmic trading library](http://www.zipline.io/)
   * Programming for Finance with Python and Quantopian and Zipline
     * [Part 1](https://www.youtube.com/watch?v=RxjIOXstxCk)
