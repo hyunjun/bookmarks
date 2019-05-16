@@ -367,7 +367,6 @@ Python
 * [Python으로 알송 가사 추출하기](https://item4.github.io/2018-10-20/Fetch-Alsong-Lyrics-with-Python/)
 * [Master Python through building real-world applications (Part 1)](https://towardsdatascience.com/master-python-through-building-real-world-applications-part-1-b040b2b7faad)
 * [Symbolic Computing Using Python: Part 1-Basics](https://medium.com/@alexmaisiura/symbolic-computing-using-python-part-1-basics-cd4007e5f9b0)
-* [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [Python: Beyond the basics II - IPython, encapsulation & args](https://medium.com/@m0etaz/python-beyond-the-basics-ii-16964d70c4da)
 * [Python stories, September 2018](https://hackernoon.com/python-stories-september-2018-d34e526edde2)
 * [stdout_009.log: PEP 572, PEP 8000, Python Software Foundation](https://stdout.fm/9/)
@@ -2243,8 +2242,6 @@ Python
 * **[Pendulum - PYTHON DATETIMES MADE EASY](http://pendulum.eustace.io/)**
 * [petl - Extract, Transform and Load (Tables of Data) — petl 1.1.1](https://petl.readthedocs.io/)
 * [PewSQL - Analytics Done inside RDBMS](https://github.com/AndersonJo/pewsql)
-* [pex is a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
-  * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
   * [이미지 GPS 정보 추출하기](https://cpuu.postype.com/post/23100)
@@ -2253,39 +2250,6 @@ Python
 * [Pillow, the friendly PIL fork](https://python-pillow.org/)
   * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief ](https://github.com/fengsp/color-thief-py)
   * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)
-* pip
-  * [pip install](https://pip.pypa.io/en/stable/reference/pip_install)
-    * `apt-get install -y python-dev python-pip` [fatal error: Python.h: No such file or directory](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory)
-    * `yum install epel-release -y && yum install python-pip -y && yum install python-devel -y` [How to install python-pip in CentOS7 Docker Container](http://superuser.com/questions/877759/how-to-install-python-pip-in-centos7-docker-container)
-  * ["pip -t": A simple and transparent alternative to virtualenv](http://blog.zoomeranalytics.com/pip-install-t/)
-  * `pip --index-url/--trusted-host` 옵션 자동 지정
-
-    ```
-    $ cat requirements.txt
-    --index-url http://my.pypi.internal/index
-    --trusted-host my.pypi.internal
-    myteam.common==0.0.1
-    ...
-    ```
-  * [Install Python modules with Pip behind a proxy](https://www.internalpointers.com/post/install-python-modules-pip-behind-proxy)
-  * [나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
-    * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
-  * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
-  * [pip 유저모드?](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
-  * [Installing PIP on Windows](https://medium.com/@ankitgin/setting-up-pip-for-windows-a644be0f1cea)
-* [pipenv](https://github.com/pypa/pipenv)
-  * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
-  * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
-  * [pipenv 소개](http://gyus.me/?p=653)
-  * [pipenv 란 무엇인가](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)
-  * [파이선 가상환경을 품은 패키지 관리자, pipenv](https://graspthegist.com/post/python-pipenv/)
-  * [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
-  * [파이썬 패키지 설치할 때 SSL 인증 오류 해제 방법](https://surpreem.com/%ED%8C%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%A0-%EB%95%8C-ssl-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-%ED%95%B4%EC%A0%9C-%EB%B0%A9%EB%B2%95/)
-  * [Python App을 위한 Pipenv](https://item4.github.io/2018-04-20/Pipenv-for-Python-App/)
-* [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
-* pipwin
-  * `pip install pipwin` & e.g. `pipwin install opencv-python`
-  * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
 * **[plotline - A Grammar of Graphics for Python](http://plotnine.readthedocs.io)** based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
   * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)
@@ -2545,6 +2509,71 @@ Python
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
 * **[Vaex: A DataFrame with super strings](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861)** spark보다 빠르다는 benchmark
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
+* [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
+* [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
+* [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
+  * [Watching a directory for file changes with Python](http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html)
+  * [Using Python's Watchdog to monitor changes to a directory](https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory)
+* [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
+* [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
+* [websockets - a library for building WebSocket servers and clients in Python with a focus on correctness and simplicity](http://websockets.readthedocs.io/)
+  * [WebSockets](https://www.fullstackpython.com/websockets.html)
+  * [Websocket Server](https://github.com/Pithikos/python-websocket-server)
+  * [WebSocket for Python (ws4py)](https://github.com/Lawouach/WebSocket-for-Python)
+  * [Async Python Web Apps with WebSockets Demo Code](https://github.com/mattmakai/python-websockets-example)
+  * [Creating Websockets Chat with Python](https://pawelmhm.github.io/python/websockets/2016/01/02/playing-with-websockets.html)
+  * [SF Python January 2015 - WebSockets in Python by Matt Makai](https://www.youtube.com/watch?v=L5YQbNrFfyw)
+  * [WebSockets: Intro To Messaging](https://www.youtube.com/watch?v=IqoYVfoetFg)
+* **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
+  * [검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
+  * [Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
+* [wrapt - A Python module for decorators, wrappers and monkey patching](https://wrapt.readthedocs.io)
+* [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in) terminal에서 curl로 날씨 확인
+  * [wttr.in/제주](https://wttr.in/%EC%A0%9C%EC%A3%BC)
+* [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
+* [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
+* [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
+* [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
+* [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
+
+## Library package install management
+* [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
+  * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
+* pip
+  * [pip install](https://pip.pypa.io/en/stable/reference/pip_install)
+    * `apt-get install -y python-dev python-pip` [fatal error: Python.h: No such file or directory](http://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory)
+    * `yum install epel-release -y && yum install python-pip -y && yum install python-devel -y` [How to install python-pip in CentOS7 Docker Container](http://superuser.com/questions/877759/how-to-install-python-pip-in-centos7-docker-container)
+  * ["pip -t": A simple and transparent alternative to virtualenv](http://blog.zoomeranalytics.com/pip-install-t/)
+  * `pip --index-url/--trusted-host` 옵션 자동 지정
+
+    ```
+    $ cat requirements.txt
+    --index-url http://my.pypi.internal/index
+    --trusted-host my.pypi.internal
+    myteam.common==0.0.1
+    ...
+    ```
+  * [Install Python modules with Pip behind a proxy](https://www.internalpointers.com/post/install-python-modules-pip-behind-proxy)
+  * [나의 첫번째 pip 패키지 treesel 등록](http://mcchae.egloos.com/11249546)
+    * [treesel - Small python program select tree (and change) it using curses standard library](https://github.com/mcchae/treesel)
+  * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
+  * [pip 유저모드?](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
+  * [Installing PIP on Windows](https://medium.com/@ankitgin/setting-up-pip-for-windows-a644be0f1cea)
+* [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
+* [pipenv](https://github.com/pypa/pipenv)
+  * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
+  * [Pipenv으로 Python 프로젝트 관리하기](https://cjh5414.github.io/how-to-manage-python-project-with-pipenv/)
+  * [pipenv 소개](http://gyus.me/?p=653)
+  * [pipenv 란 무엇인가](https://medium.com/@erish/python-pipenv-%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-961b00d4f42f)
+  * [파이선 가상환경을 품은 패키지 관리자, pipenv](https://graspthegist.com/post/python-pipenv/)
+  * [Kenneth Reitz - Pipenv: The Future of Python Dependency Management - PyCon 2018](https://www.youtube.com/watch?v=GBQAKldqgZs)
+  * [파이썬 패키지 설치할 때 SSL 인증 오류 해제 방법](https://surpreem.com/%ED%8C%81-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98%ED%95%A0-%EB%95%8C-ssl-%EC%9D%B8%EC%A6%9D-%EC%98%A4%EB%A5%98-%ED%95%B4%EC%A0%9C-%EB%B0%A9%EB%B2%95/)
+  * [Python App을 위한 Pipenv](https://item4.github.io/2018-04-20/Pipenv-for-Python-App/)
+* [pipreqs - Generate pip requirements.txt file based on imports of any project](https://github.com/bndr/pipreqs)
+* pipwin
+  * `pip install pipwin` & e.g. `pipwin install opencv-python`
+  * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
+* [Poetry - PYTHON PACKAGING AND DEPENDENCY MANAGEMENT MADE EASY](https://poetry.eustace.io/)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
@@ -2577,32 +2606,6 @@ Python
   * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
   * [The Python Package Dreamteam](https://towardsdatascience.com/the-python-dreamteam-27f6f9f08c34)
   * [Python Virtualenv with Hadoop Streaming](https://henning.kropponline.de/2014/07/18/virtualenv-hadoop-streaming/)
-* [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
-* [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
-* [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
-  * [Watching a directory for file changes with Python](http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html)
-  * [Using Python's Watchdog to monitor changes to a directory](https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory)
-* [Wavelet rasterization is a method for analytically calculating an anti-aliased rasterization of arbitrary polygons or shape bounded by Bezier curves](https://github.com/ufoym/wavelet-rasterization)
-* [wdb - An improbable web debugger through WebSockets](https://github.com/Kozea/wdb)
-* [websockets - a library for building WebSocket servers and clients in Python with a focus on correctness and simplicity](http://websockets.readthedocs.io/)
-  * [WebSockets](https://www.fullstackpython.com/websockets.html)
-  * [Websocket Server](https://github.com/Pithikos/python-websocket-server)
-  * [WebSocket for Python (ws4py)](https://github.com/Lawouach/WebSocket-for-Python)
-  * [Async Python Web Apps with WebSockets Demo Code](https://github.com/mattmakai/python-websockets-example)
-  * [Creating Websockets Chat with Python](https://pawelmhm.github.io/python/websockets/2016/01/02/playing-with-websockets.html)
-  * [SF Python January 2015 - WebSockets in Python by Matt Makai](https://www.youtube.com/watch?v=L5YQbNrFfyw)
-  * [WebSockets: Intro To Messaging](https://www.youtube.com/watch?v=IqoYVfoetFg)
-* **[Whoosh](https://pypi.python.org/pypi/Whoosh/)**
-  * [검색엔진 Whoosh](http://mcchae.egloos.com/11043343)
-  * [Whoosh 검색 엔진을 이용하여 CVE 검색하기](http://mcchae.egloos.com/11249055)
-* [wrapt - A Python module for decorators, wrappers and monkey patching](https://wrapt.readthedocs.io)
-* [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in) terminal에서 curl로 날씨 확인
-  * [wttr.in/제주](https://wttr.in/%EC%A0%9C%EC%A3%BC)
-* [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
-* [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
-* [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
-* [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
-* [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
 
 # Microservice
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
