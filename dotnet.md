@@ -61,6 +61,7 @@
 * [UWP Hamburger Menu Example 입니다](http://bongblog.co.kr/20)
 * [Why .NET Technologies Are (And Will Keep) Powering our Application](https://medium.freecodecamp.org/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b)
 * [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
+* [sysnet.pe.kr](https://www.sysnet.pe.kr)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)
