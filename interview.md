@@ -210,6 +210,7 @@ Interview
   * Distributed storage
     * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
     * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
+      * cache policy; write through, write back, 문제점
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
     * **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)

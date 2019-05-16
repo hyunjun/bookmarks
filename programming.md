@@ -389,6 +389,7 @@ Programming
   * [토비의 봄 TV 스페셜 - 강대명 - 캐시의 모든 것](https://www.youtube.com/watch?v=zkbvFOwJFgA)
   * [Design Of A Modern Cache—Part Deux](http://highscalability.com/blog/2019/2/25/design-of-a-modern-cachepart-deux.html)
   * [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
+  * [Cache-policy](https://medium.com/@strncpy/cache-policy-98cb890e1661) write through, write around, write back
   * **[캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)** cache 내부 동작에 대한 상세한 설명을 하는 좋은 글
   * [Caching](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
