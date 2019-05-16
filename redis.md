@@ -113,7 +113,6 @@ Redis
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
 * [Redis Geo](https://matt.sh/redis-geo)
-* [redis-hashring - A Python library that implements a consistent hash ring for building distributed apps](https://github.com/closeio/redis-hashring)
 * [redis-rdb-tools Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON https://rdbtools.com ](https://github.com/sripathikrishnan/redis-rdb-tools)
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
 * ~[SerenityDB - disk storage and real transactions under Redis compatible protocol](http://serenitydb.org/)~
