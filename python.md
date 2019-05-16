@@ -3121,6 +3121,18 @@ Python
 * [Create a standalone Windows installer for your Python application](https://cyrille.rossant.net/create-a-standalone-windows-installer-for-your-python-application/)
 * [윈도우에서 여러 버전의 파이썬을 설치](http://fbsight.com/t/topic/59522)
 * [Lesson One Video - Intro to the VBA Model in Python](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-vba)
+* [Using Events in Python Win32 | Part 1](https://www.youtube.com/watch?v=wPONxYsaMSM)
+  * 이벤트를 만들고, COM 개체에 이벤트를 할당하고, 이벤트의 메시지를 표시하는 방법
+  * VBA 개체 모델에서는 사용자가 이벤트를 일으킬 때, VBA 코드를 실행할 수 있는 이벤트에 액세스 가능
+  * 이 이벤트들은 클래스 객체를 사용하여 Python 내부의 Win32 COM 라이브러리를 통하여 액세스 가능
+* [How to Use the PyIDispatch Object in Pythoncom](https://www.youtube.com/watch?v=tUthExQRzOM)
+  * PyIDispatch 객체와 이 객체를 활용하여 COM 객체에 속한 다른 방법 및 속성을 호출하는 방법
+  * Win32COM 라이브러리는 표준화 된 방식으로 다른 COM 개체들과 통신할 수 있는 디스패치 인터페이스 개체를 활용
+* [How to Use Word VBA in Python](https://www.youtube.com/watch?v=nw5_oSz4RJk)
+  * 새로운 Word 문서를 만들고, 문서에 테이블을 추가하고, Python을 사용하여 링크를 추가하는 방법
+  * Word VBA 모델
+* [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
+  * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
 * [Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules](http://www.dependencywalker.com/)
 * [DUMPBIN Reference](https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference) examine COFF, exe, DLL files
 * ironpython
