@@ -36,7 +36,6 @@ AWS
 * [Technical Deep Dive: Running Amazon EC2 Workloads at Scale - AWS Online Tech Talks](https://www.youtube.com/watch?v=sNT5PstZpS8) scaling, 비용 최적화
 * [AWS S3를 EC2 인스턴스에 Mount 예제](https://millionairedeveloper.tistory.com/m/3)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
-* [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
 * [AWS Summit 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9)
 * [2019 AWS Summit Seoul 참관기 day 1/2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-7232b47135d1)
@@ -315,6 +314,10 @@ AWS
 * [AWS - Architecture study: WEB APPLICATION HOSTING](https://github.com/AUSG/aws-architecture-study/blob/master/MyungJin/README.md)
 * [AWS Auto Cleanup - Open source application to programatically clean your AWS resources based on a whitelist and time to live (TTL) settings](https://github.com/servian/aws-auto-cleanup)
 * [20190418 Read Replicas and Django DB Router - AWS Summit Seoul 2019](https://www.slideshare.net/addnull/20190418-aws-summit-seoul-2019-hbsmith)
+
+# CloudWatch
+* [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
+* [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
