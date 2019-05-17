@@ -608,6 +608,7 @@ Programming
 * [Memory Map과 Symbol 이야기](http://recipes.egloos.com/5009181)
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
+  * [Speedy Scala Builds with Bazel at Databricks](https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
 
 # Cloud
