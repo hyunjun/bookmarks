@@ -255,6 +255,11 @@ Interview
       * [Twitter system design | twitter Software architecture | twitter interview questions](https://www.youtube.com/watch?v=wYk0xPP_P_8)
       * [System Design: How to design Twitter? Interview question at Facebook, Google, Microsoft](https://www.youtube.com/watch?v=KmAyPUv9gOY)
       * [Design Twitter | System Design Interview | Amazon Interview questions](https://www.youtube.com/watch?v=SaqAOa77ysk)
+  * Uber, Lyft
+    * [UBER System design | OLA system design | uber architecture | amazon interview question](https://www.youtube.com/watch?v=umWABit-wbk)
+    * [System Design: Uber Lyft ride sharing services - Interview question](https://www.youtube.com/watch?v=J3DY3Te3A_A)
+    * [Uber - System Design Interview with a Senior Software Engineer @ Airbnb](https://www.youtube.com/watch?v=jItLuOTsCX4)
+    * [System Design | Design Uber | Design Ola | Uber Architecture | Lyft Design | Amazon Interview](https://www.youtube.com/watch?v=fgIgOU0yi0w)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
@@ -277,7 +282,6 @@ Interview
   * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
   * [Dropbox system design | Google drive system design | System design file share and upload](https://www.youtube.com/watch?v=U0xTu6E2CT8)
     * [diagam](https://imgur.com/a/pzKb4f7)
-  * [Uber - System Design Interview with a Senior Software Engineer @ Airbnb](https://www.youtube.com/watch?v=jItLuOTsCX4)
   * **[System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)**
     * example of class design
     * handling ambiguity; clarifying the problem
