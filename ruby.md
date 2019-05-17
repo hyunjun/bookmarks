@@ -46,9 +46,6 @@ Ruby
 * [구글 앱스 스크립트(Google Apps Script) 외부에서 실행하기 실행 가능한 API로 배포하고 루비(Ruby)에서 호출하기](https://www.44bits.io/ko/post/google-app-script-external-execution-by-ruby)
 * [루비 2.6 릴리즈 및 주요 문법 변경 사항 소개](https://www.44bits.io/ko/post/ruby-2-6-0-released-and-changes)
 * [Add badges for TravisCI, Coveralls and Code Climate to your Readme (Ruby)](https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed)
-* [How you can add Bootstrap to your Ruby on Rails project](https://medium.freecodecamp.org/add-bootstrap-to-your-ruby-on-rails-project-8d76d70d0e3b)
-* [Routes in Ruby on Rails 5: how you can use resources and records to define URLs](https://medium.freecodecamp.org/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a)
-* [Custom URLs in Ruby on Rails: How you can use descriptive slugs instead of IDs](https://medium.freecodecamp.org/custom-urls-in-ruby-on-rails-use-descriptive-slugs-instead-of-ids-67c631475a94)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
@@ -103,3 +100,7 @@ Ruby
 * [Part 4: Importing book sales from Amazon with Ruby on Rails](http://lugolabs.com/lugoland/articles/78-part-4-importing-book-sales-from-amazon-with-ruby-on-rails)
 * [자바 기반의 백엔드와의 세션 공유를 위한 레일즈 세션 처리 분석](http://tech.lezhin.com/2017/06/01/rails-session)
 * [What’s coming to Rails 6.0?](https://medium.com/rubyinside/whats-coming-to-rails-6-0-8ec79eea66da)
+* [How you can add Bootstrap to your Ruby on Rails project](https://medium.freecodecamp.org/add-bootstrap-to-your-ruby-on-rails-project-8d76d70d0e3b)
+* [Routes in Ruby on Rails 5: how you can use resources and records to define URLs](https://medium.freecodecamp.org/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a)
+* [Custom URLs in Ruby on Rails: How you can use descriptive slugs instead of IDs](https://medium.freecodecamp.org/custom-urls-in-ruby-on-rails-use-descriptive-slugs-instead-of-ids-67c631475a94)
+* [A simple explanation of Service Objects for Ruby on Rails](https://medium.freecodecamp.org/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f)
