@@ -239,7 +239,7 @@ Interview
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
-    * [System Design: URL Shortener -- Calculating Estimates](https://www.youtube.com/watch?v=oK6BmG3R5iE)
+    * [System Design: URL Shortener](https://www.youtube.com/playlist?list=PL5tcWHG-UPH38OBsRIdxVvNV2nwrXkf6t)
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
   * Social Media
     * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247) timeline architecture 개선
@@ -317,6 +317,7 @@ Interview
 * [Pragmatic Programming Techniques](http://horicky.blogspot.com/)
   * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
   * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+* [What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
