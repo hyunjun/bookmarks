@@ -107,6 +107,9 @@ Bitcoin
 * [Fork, Sidechains](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181031_JG_Fork,Sidechain.md)
 * [블록체인은 사기일까](https://engineering.huiseoul.com/cosmochain-conference-2018-2dc0e0dd8355)
 * [블록체인 서버리스로 조립하기](https://slides.com/junmyeonglee/deck)
+* [비트코인 블록체인에 낙서하기 (Writing messages on the Bitcoin blockchain using OP_RETURN)](https://medium.com/@sjhong/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-bitcoin-blockchain-using-op-return-5d36c02acbed)
+* [이더리움 블록체인에 낙서하기 (Writing messages on the Ethereum blockchain using Metamask)](https://medium.com/@sjhong/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-ethereum-blockchain-using-metamask-f98f52c46940)
+* [아이콘 블록체인에 낙서하기 (Writing messages on the ICON blockchain)](https://medium.com/@sjhong/%EC%95%84%EC%9D%B4%EC%BD%98-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-icon-blockchain-cd61aae299e3)
 
 ## Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
