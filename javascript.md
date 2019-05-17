@@ -1945,6 +1945,7 @@ Javascript
   * [How to quickly set up a Gatsby.js JAMstack website with a headless CMS](https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e)
   * **[정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)** 제목과 달리 단순한 정적 사이트 생성기가 아니라는 글
   * [How to get started with Gatsby 2 and Redux](https://medium.freecodecamp.org/how-to-get-started-with-gatsby-2-and-redux-ae1c543571ca)
+  * [How to create a searchable log with Gatsby](https://medium.freecodecamp.org/how-to-create-a-searchable-log-with-gatsby-d624bf3a05af)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
