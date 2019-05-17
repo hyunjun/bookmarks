@@ -64,6 +64,7 @@ Python
   * [Andrew Montalenti: Beating Python's GIL to Max Out Your CPUs](https://www.youtube.com/watch?v=gVBLF0ohcrE)
   * [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw)
   * [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
+  * [번역 파이썬 GIL은 사라질까?](https://velog.io/@novemberoscar/%ED%8C%8C%EC%9D%B4%EC%8D%AC-GIL%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%88%EA%B9%8C)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
@@ -893,6 +894,7 @@ Python
   * [파이썬 패키지를 공유하는 법](https://code.tutsplus.com/ko/tutorials/how-to-share-your-python-packages--cms-26114)
   * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
   * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
+  * [From a python project to an open source package: an A to Z guide](https://medium.freecodecamp.org/from-a-python-project-to-an-open-source-package-an-a-to-z-guide-c34cb7139a22)
   * [devpi - Python PyPi staging server and packaging, testing, release tool http://doc.devpi.net](https://github.com/devpi/devpi)
     * [private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
 * smtplib
