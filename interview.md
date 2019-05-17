@@ -222,6 +222,9 @@ Interview
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
     * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor.html)**
   * Messenger, Messaging
+    * [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
+    * [What is WhatsApp's server architecture?](https://www.quora.com/What-is-WhatsApps-server-architecture)
+    * [How to Build your Own Real-time Chat App like WhatsApp?](https://hackernoon.com/how-to-build-your-own-real-time-chat-app-like-whatsapp-9d1d058afd5b)
     * [Whatsapp System Design: Chat Messaging Systems for Interviews](https://www.youtube.com/watch?v=vvhC64hQZMk)
     * [Whatsapp System design or software architecture](https://www.youtube.com/watch?v=L7LtmfFYjc4)
     * [System Design : Design messaging/chat service like Facebook Messenger or Whatsapp](https://www.youtube.com/watch?v=zKPNUMkwOJE)
@@ -256,6 +259,8 @@ Interview
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
     * [How to Design Youtube (Part II)](http://blog.gainlo.co/index.php/2016/11/04/design-youtube-part-ii/)
+    * [동영상 플랫폼 개선기 1 - 신규 동영상 플랫폼 구성](https://d2.naver.com/helloworld/3963776)
+    * [동영상 플랫폼 개선기 2 - 신규 동영상 플랫폼 구축](https://d2.naver.com/helloworld/7225347)
     * Netflix
       * [NETFLIX System design | software architecture for netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
       * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
@@ -263,6 +268,10 @@ Interview
     * Youtube
       * **[Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)** 2012년 영상이지만 youtube에 국한되지 않고 전반적인 걸 이해하는 데 정말 좋은 영상
         * [YouTube Architecture](http://highscalability.com/youtube-architecture)
+  * Web crawler
+    * [Design a web crawler](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/web_crawler/README.md)
+    * [Build a Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
+    * [Lecture 29 — Web Search Introduction & Web Crawler | UIUC](https://www.youtube.com/watch?v=DvWmdCctYN8)
   * [System Design Interview with a Senior Software Engineer @Microsoft](https://www.youtube.com/watch?v=lOcqPEOROwQ) Google maps
   * [Design a Key-Value Store (Part I)](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
   * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
@@ -303,11 +312,6 @@ Interview
   * [Load Balancing](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5747976207073280)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
-* [How to Build your Own Real-time Chat App like WhatsApp?](https://hackernoon.com/how-to-build-your-own-real-time-chat-app-like-whatsapp-9d1d058afd5b)
-* [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
-* [What is WhatsApp's server architecture?](https://www.quora.com/What-is-WhatsApps-server-architecture)
-* [동영상 플랫폼 개선기 1 - 신규 동영상 플랫폼 구성](https://d2.naver.com/helloworld/3963776)
-* [동영상 플랫폼 개선기 2 - 신규 동영상 플랫폼 구축](https://d2.naver.com/helloworld/7225347)
 * [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
 * [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
 * [Pragmatic Programming Techniques](http://horicky.blogspot.com/)
