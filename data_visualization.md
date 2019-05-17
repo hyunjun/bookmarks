@@ -78,8 +78,7 @@ Data Visualization
 * [Effective Visualization of Multi-Dimensional Data — A Hands-on Approach - Strategies for Effective Data Visualization](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
 * [10 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce)
 * [Analysis of Developers Trends with JavaScript Pivot Table and Charting Library](https://medium.com/@veronikarovnik/analysis-of-developers-trends-with-javascript-pivot-table-and-charting-library-b7b6e16ab71b)
-* [Matplotlib tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
-* [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
+* [These are the best JavaScript chart libraries for 2019](https://medium.freecodecamp.org/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -301,3 +300,5 @@ Data Visualization
 * [Simple Method of Creating Animated Graphs](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)
 * [subplot 기능을 활용하여 캔들차트와 보조지표 그리기](http://blog.alphasquare.co.kr/221423888281)
 * [Matplotlib — Making data visualization interesting](https://towardsdatascience.com/matplotlib-making-data-visualization-interesting-8bac1eb3d25c)
+* [Matplotlib tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
+* [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
