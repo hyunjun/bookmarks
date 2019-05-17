@@ -106,7 +106,6 @@ PyTorch
 * [PyTorch 튜토리얼, 프로젝트, 라이브러리, 비디오, 논문, 책 등의 리소스 목록](https://blog.naver.com/nextobe/221096550395)
 * [Deep Learning with Pytorch](https://www.youtube.com/playlist?list=PLE0T24NQYyxu1_O4zu8o_w9d6Z7wuV0gW)
 * [Taming LSTMs: Variable-sized mini-batches and why PyTorch is good for your health](https://towardsdatascience.com/taming-lstms-variable-sized-mini-batches-and-why-pytorch-is-good-for-your-health-61d35642972e)
-* [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
 * [pytorch-EverybodyDanceNow](https://github.com/nyoki-mtl/pytorch-EverybodyDanceNow)
 * [PyTorch NEAT](https://github.com/uber-research/PyTorch-NEAT/)
 * [PyTorch JIT Source Code Read Note](https://zasdfgbnm.github.io/2018/09/20/PyTorch-JIT-Source-Code-Read-Note/)
@@ -120,7 +119,6 @@ PyTorch
 * [PyTorch 1.0: now and in the future - Adam Paszke](https://www.youtube.com/watch?v=OkyqgWd2jBk)
 * [vid2vid - Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation](https://github.com/NVIDIA/vid2vid)
 * [github.com/chagmgang/torch_rl](https://github.com/chagmgang/torch_rl)
-* [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 * [FloWaveNet : A Generative Flow for Raw Audio](https://github.com/ksw0306/FloWaveNet)
 * [UIS-RNN - the library for the Unbounded Interleaved-State Recurrent Neural Network (UIS-RNN) algorithm. UIS-RNN solves the problem of segmenting and clustering sequential data by learning from examples](https://github.com/google/uis-rnn)
 * [PyTorch Implementation of Differentiable ODE Solvers](https://github.com/rtqichen/torchdiffeq)
@@ -137,10 +135,6 @@ PyTorch
   * [PyTorch under the hood](https://speakerdeck.com/perone/pytorch-under-the-hood)
 * [Harmonic-percussive source separation in Pytorch](https://keunwoochoi.wordpress.com/2019/03/13/harmonic-percussive-source-separation-in-pytorch/)
 * [Inverse-STFT in Pytorch](https://keunwoochoi.wordpress.com/2019/03/14/inverse-stft-in-pytorch/)
-* [PyTorch Implementation of Distributed Prioritized Experience Replay(Ape-X)](https://github.com/belepi93/Ape-X)
-  * GPU 여러개와 어마어마하게 많은 코어가 달린 단일 머신에서 돌릴 수 있는 Distributed RL의 구현은 공개된 것들이 있지만 실제로 수백개의 Actor가 있는 멀티 노드 환경에서 네트워크를 이용해서 네트워크 대역폭이나 메모리 문제, 학습 속도 등의 이슈 없이 돌아가는 코드를 공개한 것은 없는 것 같아 직접 작성
-  * 멀티프로세싱, 비동기 프로그래밍, 네트워크 프로그래밍, 클라우드, IaC 등 공부하고 구현하면서 메모리 이슈도 많이 만나고 레이턴시 문제도 겪고 엔지니어링 끝에 결국 실험 성공
-  * 이 모델을 이용하면 Actor를 100개 200개 300개씩 두고 탐험을 할 수 있어서 Suboptimal Policy에 빠지지 않음. 실제로 Seaquest를 이용해서 실험해본 결과, Rainbow, ACER 등에서 1000~2000점 점수를 찍을때 10000점 20000점 30000점 달성
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 * [The dangers of reshaping and other fun mistakes I’ve learnt from PyTorch](https://medium.com/mcgill-artificial-intelligence-review/the-dangers-of-reshaping-and-other-fun-mistakes-ive-learnt-from-pytorch-b6a5bdc1c275)
 * [Randomly Wired Neural Network - Implementing Randomly Wired Neural Networks for Image Recognition, Using CIFAR-10 dataset, CIFAR-100 dataset](https://github.com/leaderj1001/RandWireNN)
@@ -235,6 +229,16 @@ PyTorch
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
 * [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
+
+# Reinforcement Learning, RL
+* [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
+* [PyTorch Implementation of Distributed Prioritized Experience Replay(Ape-X)](https://github.com/belepi93/Ape-X)
+  * GPU 여러개와 어마어마하게 많은 코어가 달린 단일 머신에서 돌릴 수 있는 Distributed RL의 구현은 공개된 것들이 있지만 실제로 수백개의 Actor가 있는 멀티 노드 환경에서 네트워크를 이용해서 네트워크 대역폭이나 메모리 문제, 학습 속도 등의 이슈 없이 돌아가는 코드를 공개한 것은 없는 것 같아 직접 작성
+  * 멀티프로세싱, 비동기 프로그래밍, 네트워크 프로그래밍, 클라우드, IaC 등 공부하고 구현하면서 메모리 이슈도 많이 만나고 레이턴시 문제도 겪고 엔지니어링 끝에 결국 실험 성공
+  * 이 모델을 이용하면 Actor를 100개 200개 300개씩 두고 탐험을 할 수 있어서 Suboptimal Policy에 빠지지 않음. 실제로 Seaquest를 이용해서 실험해본 결과, Rainbow, ACER 등에서 1000~2000점 점수를 찍을때 10000점 20000점 30000점 달성
+* [minimalRL-pytorch](https://github.com/seungeunrho/minimalRL)
+  * [DQN 알고리즘 구현!](https://www.youtube.com/watch?v=__NYgfkUr-M)
+* [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 
 # Seq2seq
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
