@@ -144,6 +144,7 @@ Android
   * [Beginner’s Guide to Gradle for Android Developers](https://journals.apptivitylab.com/beginners-guide-to-gradle-for-android-developers-7972bfdf0668)
   * [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
   * [안드로이드 스튜디오3에서 Gradle Sync 이슈 해결하기](http://developer88.tistory.com/149)
+  * [How to improve the build speed of your Android projects](https://medium.freecodecamp.org/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602)
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
