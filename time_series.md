@@ -31,11 +31,26 @@ Time Series
 * [Pandas DataFrame을 활용한 시계열 분석](https://blog.naver.com/anthouse28/221491679016)
 
 # Library
+* [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
+  * [시계열 DB (OpenTSDB , 인플럭스 DB , Graphite ) 정리](http://hamait.tistory.com/440)
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
 * [Goku: Building a scalable and high performant time series database system](https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181) Pinterest 엔지니어링팀에서 OpenTSDB -> Goku로 전환한 이야기 소개
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [hunting_criminals_demo](https://github.com/Atigeo/hunting_criminals_demo)
 * [influxdata platform - THE PLATFORM FOR TIME-SERIES DATA](https://influxdata.com/time-series-platform/)
+* InfluxDB
+  * [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)
+  * [Announcing Telegraf, a metrics collector for InfluxDB](https://influxdb.com/blog/2015/06/19/Announcing-Telegraf-a-metrics-collector-for-InfluxDB.html)
+    * [The plugin-driven server agent for reporting metrics into InfluxDB](https://github.com/influxdb/telegraf)
+  * [Time-Series Database with InfluxDB CEO Paul Dix](http://softwareengineeringdaily.com/2015/08/21/time-series-database-with-influxdb-ceo-paul-dix/)
+  * [Scouter와 influx db – grafana 연동 가이드](http://www.slideshare.net/ienvyou/scouter-influx-db-grafana)
+  * [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
+  * [Processing Time Series Data in Real-Time with InfluxDB and Structured Streaming](https://towardsdatascience.com/processing-time-series-data-in-real-time-with-influxdb-and-structured-streaming-d1864154cf8b)
+* IRONdb; Circonus에서 개발 한 상업용 시계열 데이터베이스
+  * [Fred Moyer: Solving the Technical Challenges of Time Series Databases at Scale](https://www.youtube.com/watch?v=QBatpIFii7M)
+    * 시계열 데이터베이스는 시간별로 인덱싱된 데이터 집합을 처리하도록 최적화
+    * 데이터 저장, 데이터 안전 및 IOPS 문제는 모든 TSDB가 직면한 문제
+    * Fred는 IRONdb가 이러한 기술적 문제를 해결하거나 완전히 피하는 방법에 대해 설명
 * [iSAX](http://www.cs.ucr.edu/~eamonn/iSAX/iSAX.html)
   * [iSAX 2.0: Indexing and Mining One Billion Time Series](http://www.cs.ucr.edu/~eamonn/iSAX_2.0.pdf)
   * [iSAX: Indexing and Mining Terabyte Sized Time Series](http://www.cs.ucr.edu/~eamonn/iSAX.pdf)
@@ -43,8 +58,12 @@ Time Series
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 * M3
   * [Introducing M3 - The Time-Series Infrastructure that Powers Metrics at Uber](https://towardsdatascience.com/introducing-m3-8790c503ce24)
+* [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
+* [PipelineDB](http://www.pipelinedb.com/)
+  * [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
+  * [High-Performance Time-Series Aggregation for PostgreSQL 11](https://www.pipelinedb.com/blog/high-performance-time-series-aggregation-for-postgresql-11)
 * [Prophet: forecasting at scale](https://research.fb.com/prophet-forecasting-at-scale/)
   * “일반인”들도 시계열 예측을 쉽게 할 수 있는 패키지를 오픈소스로 릴리즈(Python, R 지원)
   * 내부적인 동작은 대표적인 시계열 예측 방식인 ARIMA 계열이 아니라 Bayesian 방식의 Generalized Additive Model로 동작

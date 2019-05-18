@@ -17,8 +17,6 @@ NoSQL
 * [The CAP FAQ](The CAP FAQ)
 * [CAP theorem](http://blog.seulgi.kim/2018/03/cap-theorem.html)
 * [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/) CAP 이론을 설명 증명
-* [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
-  * [시계열 DB (OpenTSDB , 인플럭스 DB , Graphite ) 정리](http://hamait.tistory.com/440)
 * [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
 * [NoSQL 간단한 소개](http://www.slideshare.net/WonchangSong1/no-sqlsimpleintro)
 * [A Survey of Query Execution Engines (from Volcano to Vectorized Processing)](https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/)
@@ -240,26 +238,14 @@ NoSQL
 * [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
 * [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
 
-# InfluxDB
-* [Influxdb - Scalable datastore for metrics, events, and real-time analytics](https://github.com/influxdb/influxdb)
-* [Announcing Telegraf, a metrics collector for InfluxDB](https://influxdb.com/blog/2015/06/19/Announcing-Telegraf-a-metrics-collector-for-InfluxDB.html)
-  * [The plugin-driven server agent for reporting metrics into InfluxDB](https://github.com/influxdb/telegraf)
-* [Time-Series Database with InfluxDB CEO Paul Dix](http://softwareengineeringdaily.com/2015/08/21/time-series-database-with-influxdb-ceo-paul-dix/)
-* [Scouter와 influx db – grafana 연동 가이드](http://www.slideshare.net/ienvyou/scouter-influx-db-grafana)
-* [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
-* [Processing Time Series Data in Real-Time with InfluxDB and Structured Streaming](https://towardsdatascience.com/processing-time-series-data-in-real-time-with-influxdb-and-structured-streaming-d1864154cf8b)
-
 # In-memory In memory
 * [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)
 * [A K/V Store For In-Memory Analytics, Part 2](http://0xdata.com/blog/2014/05/kv-store-memory-analytics-part-2-2/)
-* [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [How To Choose An In-Memory NoSQL Solution: Performance Measuring](http://highscalability.com/blog/2015/12/30/how-to-choose-an-in-memory-nosql-solution-performance-measur.html) comparison of redis, tarantool, couchbase, and memcached
 * [인-메모리 데이터 기술을 활용한 실시간 빅데이터 분석](https://www.youtube.com/watch?v=PuA6qplF0Gk)
 
 # [Irmin - a distributed database that follows the same design principles as Git](https://github.com/mirage/irmin)
 * [Introducing Irmin: Git-like distributed, branchable storage](https://mirage.io/blog/introducing-irmin)
-
-# [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 
 # LevelDB
 * [Transaction manager for Node.js LevelDB: two-phase locking, snapshot isolation, atomic commits](https://github.com/cshum/level-transactions)
@@ -333,10 +319,6 @@ NoSQL
 * [How to setup replicaSet in standalone MongoDB cluster](https://hackernoon.com/how-to-setup-replicaset-in-standalone-mongodb-cluster-9cd71a3996fb)
 * [Seeding MongoDB database the right way](https://medium.com/@pkosiec/seeding-mongodb-database-the-right-way-32a8a0e75490)
 
-# [PipelineDB](http://www.pipelinedb.com/)
-* [파이프라인DB, 오픈소스 스트리밍 SQL DB 출시](http://www.bloter.net/archives/231952)
-* [High-Performance Time-Series Aggregation for PostgreSQL 11](https://www.pipelinedb.com/blog/high-performance-time-series-aggregation-for-postgresql-11)
-
 # [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
 # Realm
@@ -406,13 +388,6 @@ NoSQL
 * [TileDB](http://tiledb.io/)
   * 고밀도 다차원 배열을 지원하도록 설계된 새로운 데이터베이스
   * 현재 HDFS, S3, GFS 등 다양한 백엔드와 결합 가능
-
-# Time Series DB
-* IRONdb; Circonus에서 개발 한 상업용 시계열 데이터베이스
-  * [Fred Moyer: Solving the Technical Challenges of Time Series Databases at Scale](https://www.youtube.com/watch?v=QBatpIFii7M)
-    * 시계열 데이터베이스는 시간별로 인덱싱된 데이터 집합을 처리하도록 최적화
-    * 데이터 저장, 데이터 안전 및 IOPS 문제는 모든 TSDB가 직면한 문제
-    * Fred는 IRONdb가 이러한 기술적 문제를 해결하거나 완전히 피하는 방법에 대해 설명
 
 # [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
 * [TiDB introduction](https://www.pingcap.com/docs/overview/#tidb-introduction)
