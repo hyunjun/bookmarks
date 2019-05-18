@@ -1370,3 +1370,4 @@ NLP
 * [How to incorporate phrases into Word2Vec – a text mining approach](http://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach)
 * [Magnitude: a fast, simple vector embedding utility library](https://github.com/plasticityai/magnitude)
 * [graph2vec - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017)](https://github.com/benedekrozemberczki/graph2vec)
+* [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
