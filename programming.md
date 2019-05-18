@@ -820,6 +820,7 @@ Programming
 * [Agile + DevOps EAST 2018에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/agile-devops-east-2018/)
 * [Public Cloud(AWS) 기반 CD(Continuous Delivery or Continuous Deploy) 도입](https://zuminternet.github.io/ZUM-deploy-on-AWS)
 * [How to get started with Continuous Integration](https://medium.freecodecamp.org/how-to-get-started-with-continuous-integration-7b2f8d87c914)
+* [How to setup continuous integration (CI) with React, CircleCI, and GitHub](https://medium.freecodecamp.org/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
