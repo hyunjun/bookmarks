@@ -2090,6 +2090,8 @@ CVPR2016)
   * [minimalRL](https://github.com/seungeunrho/minimalRL)
 * [Reinforcement Learning as Probabilistic Inference](https://colab.research.google.com/drive/1VkoRfg_thJuRyWlZXFNvPcRrviRlxO9I) ipynb
 * [On Choosing a Deep Reinforcement Learning Library](https://medium.com/data-from-the-trenches/choosing-a-deep-reinforcement-learning-library-890fb0307092)
+* [The Arcade Learning Environment](https://github.com/mgbellemare/Arcade-Learning-Environment)
+* [The Reinforcement Learning Toybox](https://github.com/KDL-umass/Toybox)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
