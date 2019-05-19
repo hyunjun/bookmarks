@@ -527,6 +527,7 @@ Machine Learning
 * [Neil Lawrence's Talks](http://inverseprobability.com/talks/)
 * [(My) Machine Learning Workflow](https://medium.com/datadriveninvestor/my-machine-learning-workflow-7576f7dbcef3)
 * [Interpretable Machine Learning](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
+* [machine learning](https://csinva.github.io/pres/189/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
