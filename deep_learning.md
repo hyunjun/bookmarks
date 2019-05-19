@@ -2142,6 +2142,7 @@ CVPR2016)
   * [2](https://wonseokjung.github.io/reinforcementlearning/update/RL-TD2/)
 * [theschool.ai](https://www.theschool.ai)
 * [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+* [Reinforcement Learning for Engineers, Part 4: The Walking Robot Problem](https://www.youtube.com/watch?v=Wypc1a-1ZYA)
 
 ## RL StarCraft II
 * [Introduction and Collecting Minerals - p.1](https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/)
