@@ -392,6 +392,7 @@ Programming
   * [Cache-policy](https://medium.com/@strncpy/cache-policy-98cb890e1661) write through, write around, write back
   * **[캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)** cache 내부 동작에 대한 상세한 설명을 하는 좋은 글
   * [Caching](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936)
+  * [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
