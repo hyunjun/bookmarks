@@ -161,6 +161,7 @@ Programming
 * [#2-SRE는 어떻게 일하는가?](https://bcho.tistory.com/1327)
 * [#3-SRE의 주요 지표 SLI/SLO (Service Level Indicatior, Service Level Objectives)](https://bcho.tistory.com/1328)
 * [#4-예제로 보는 SLI/SLO 정의 방법](https://bcho.tistory.com/1329)
+* [#5 - Error budget](https://bcho.tistory.com/1332)
 * **[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)**
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
 * [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
