@@ -171,6 +171,7 @@ Redis
 # Queue
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [Building a Message Queue Using Redis in Go](http://big-elephants.com/2013-09/building-a-message-queue-using-redis-in-go/)
+* Lettuce [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/418)
 * [Queuing tasks with Redis](https://blog.rapid7.com/2016/05/04/queuing-tasks-with-redis/) jedis
 
 ## Queue Library
