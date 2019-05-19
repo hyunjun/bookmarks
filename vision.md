@@ -440,6 +440,8 @@ Vision
 * [이미지 Segmentation 문제와 딥러닝: GCN으로 개 고양이 분류 및 분할하기](http://research.sualab.com/machine-learning/computer-vision/2018/11/23/image-segmentation-deep-learning.html)
 * [파이썬 이미지 프로세싱](https://brunch.co.kr/@mystoryg/68)
 * [파이썬 이미지 프로세싱 (2)](https://brunch.co.kr/@mystoryg/69)
+* [파이썬 이미지 프로세싱 (3)](https://brunch.co.kr/@mystoryg/71)
+* [파이썬 이미지 프로세싱 (4)](https://brunch.co.kr/@mystoryg/72)
 * [Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad/)
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
   * [빈 주차공간 찾아서 알려주는 인공지능 만든 개발자](https://smartaedi.tistory.com/368)
