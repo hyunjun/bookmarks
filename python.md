@@ -911,6 +911,7 @@ Python
   * [How to Do Socket Programming in Python](https://pythoninwonderland.wordpress.com/2017/03/13/how-to-do-socket-programming-in-python/)
   * [Python으로 채팅 구현하기](https://www.slideshare.net/taeyounglee1447/python-73297338)
   * [2017 파이컨 튜토리얼 - 네트워크 프로그래밍 개념 맛보기](https://docs.google.com/presentation/d/1-bO5cXe50GctqR1tKDVm1MyaPCOes3_XEojEP0LyTnU/edit#slide=id.p)
+  * [python을 이용한 다중 채팅 구현하기](https://lidron.tistory.com/44)
   * Sockets Tutorial with Python 3
     * [part 1 - sending and receiving data](https://www.youtube.com/watch?v=Lbfe3-v7yE0)
     * [part 2 - buffering and streaming data](https://www.youtube.com/watch?v=8A4dqoGL62E)
@@ -2764,6 +2765,7 @@ Python
 * [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg)
 * [Pandas Tutorial (Data Analysis In Python)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 * [파이썬 판다스 데이터프레임 apply함수 사용 - 특정 조건(if)의 값 바꾸기!](https://tariat.tistory.com/622)
+* [Pandas - 연비 TEST Data 분석 1](https://developer-ankiwoong.tistory.com/248)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
