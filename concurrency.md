@@ -46,6 +46,7 @@ Concurrency
 * [Knock!Knock! 코루틴 #2](https://medium.com/@jooyunghan/knock-knock-%EC%BD%94%EB%A3%A8%ED%8B%B4-2-e5d26678e021)
 * [클래스 대신 코루틴](https://medium.com/@jooyunghan/%ED%81%B4%EB%9E%98%EC%8A%A4-%EB%8C%80%EC%8B%A0-%EC%BD%94%EB%A3%A8%ED%8B%B4-2959e7ce12ed)
 * [코루틴은 Imperative](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%80-imperative-6df578922c2f)
+* [코루틴을 사용한 지연 평가](https://chodragon9.github.io/blog/call-stack-and-coroutine/)
 
 # Concurrency
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
