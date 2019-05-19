@@ -116,6 +116,7 @@ Open Source
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
 * [Apache Dataflow](https://wiki.apache.org/incubator/DataflowProposal)
 * [How to Use Google's Python Client Library to Authorise Your Desktop Application With OAuth 2.0](http://www.jamalmoir.com/2016/03/google-python-library-oauth2.html)
+* [빈 폴더 삭제하기](https://blog.naver.com/gsuite-reseller/221541157663)
 * Sheet
   * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods (with ajax example)](https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/)
     * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods의 사본](https://docs.google.com/document/d/1otSCvsvXyuUfcwTQVnOwZhY3bNGwD_Bs1J0QeBnTspY/edit#heading=h.c27w0vdmwdhd)
