@@ -300,6 +300,7 @@ R
 * [cRafty tRicks – No more typing brackets!](https://www.r-bloggers.com/crafty-tricks-no-more-typing-brackets-2/) debugging
 * [GOOGLE COLABORATORY에 R 커널 설치하기](https://lumiamitie.github.io/r/r-in-colab/)
 * [Make it explainable!](https://www.r-bloggers.com/make-it-explainable/)
+* [Random generation of network models in R](https://hackernoon.com/random-generation-of-network-models-in-r-18285ad51d81)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
