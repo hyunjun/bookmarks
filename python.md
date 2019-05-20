@@ -223,6 +223,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-may-2019-6a3b356b0722)
   * [34 Amazing Python Open Source Libraries for the Past Year (v.2019)](https://medium.mybridge.co/34-amazing-python-open-source-libraries-for-the-past-year-v-2019-93d6ee11aceb)
   * [Learn Python from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-python-from-top-50-articles-for-the-past-year-v-2019-3225f4643d9c)
   * [Python Top 10 Articles for the Past Month (v.Dec 2018)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-dec-2018-6c4c7a10b61e)
@@ -2766,6 +2767,7 @@ Python
 * [Pandas Tutorial (Data Analysis In Python)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 * [파이썬 판다스 데이터프레임 apply함수 사용 - 특정 조건(if)의 값 바꾸기!](https://tariat.tistory.com/622)
 * [Pandas - 연비 TEST Data 분석 1](https://developer-ankiwoong.tistory.com/248)
+* [Pandas - Gapminder Data 분석(그래프 분석) 3](https://developer-ankiwoong.tistory.com/253)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
