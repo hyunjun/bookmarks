@@ -233,6 +233,7 @@ Interview
     * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part)
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
     * [BOOKMYSHOW System Design, FANDANGO System Design | Software architecture for online ticket booking](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
+    * [Google Software Engineer Design Interview: Reservation System](https://www.youtube.com/watch?v=6wSk5XG4jwU)
   * Rate Limiting
     * [Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs](https://www.youtube.com/watch?v=mhUQe4BKZXs)
     * [System Design: Distributed Rate Limiting](https://www.youtube.com/watch?v=xrizarXJgC8)
