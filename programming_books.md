@@ -396,46 +396,17 @@ Programming Books
   * 2017.07 탐라
 * (NOT YET) [(처음 만나는) 머신러닝과 딥러닝C언어로 구현하며 익히는 기본 개념](http://book.daum.net/detail/book.do?bookid=BOK00032364208YE)
   * 2017.07 한라
-* [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
-  * 2017.08
-  * 탐라 문 004.73 이67ㅍ
-  * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
 * 골빈해커의 3분 딥러닝
 * [장교수의 딥러닝](http://book.daum.net/detail/book.do?bookid=BOK00033442348BA)
   * 한라 004.73 장44ㄷ
   * 완전히 교과서 스타일의 이론서
-* [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
-  * 탐라 004.73 김832ㅍ
-  * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
-* 코딩 셰프의 3분 딥러닝 케라스맛
-  * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
-  * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%85%B0%ED%94%84%EC%9D%98-3%EB%B6%84-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%BC%80%EB%9D%BC%EC%8A%A4%EB%A7%9B)
-* (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
-  * 2018.02 한라
-* (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
-  * 한라 004.73-김36ㄷ
-* [케라스 창시자에게 배우는 딥러닝](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D/)
-  * [“케라스 창시자에게 배우는 딥러닝”이 출간되었습니다](https://tensorflow.blog/2018/10/08/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88/)
-  * [github.com/gilbutITbook/006975](https://github.com/gilbutITbook/006975)
-  * [github.com/rickiepark/deep-learning-with-python-notebooks](https://github.com/rickiepark/deep-learning-with-python-notebooks)
-  * [서평, 길벗](https://medium.com/@strncpy/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D-4803654c014c)
-  * [케라스 창시자에게 배우는 딥러닝](https://subinium.github.io/Keras/)
-  * [tensorflow.org/tutorials/keras](https://www.tensorflow.org/tutorials/keras)
-* (NOT YET) [케라스 창시자의 딥러닝 with R](https://jpub.tistory.com/897)
-* (NOT YET) [딥러닝 모델 설계를 떠받치는 기술 딥러닝이 안 풀릴 때 보는 케라스 해법 정리서](http://wikibook.co.kr/deep-learning-reference/)
-* 강화학습 첫 걸음
-  * 2018.03
-  * 문004.73 줄239ㄱ
 * [처음 배우는 딥러닝 수학](http://www.hanbit.co.kr/store/books/look.php?p_code=B6703128448)
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EA%B8%B0%EC%B4%88%EB%A5%BC-%EC%9D%B5%ED%9E%88%EB%8A%94%EB%8D%B0-%ED%81%B0-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A3%BC%EB%8A%94-%EC%B1%85-489f192d04a7)
 * (NOT YET) [딥러닝 워크북](http://m.post.naver.com/viewer/postView.nhn?volumeNo=15007933&memberNo=40845152)
 * (NOT YET) [이것이 우리에게 딱 맞는 딥러닝 with 텐서플로](http://bjpublic.tistory.com/306)
   * 2018.07 탐라
-* (NOT YET) [PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 - 파이토치를 활용한 머신러닝, 딥러닝 알고리즘의 원리와 구현](http://wikibook.co.kr/pytorch/)
 * (NOT YET) [파이썬 라이브러리로 배우는 딥러닝 이론과 응용](http://jpub.tistory.com/873)
-* (NOT YET) [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
 * (NOT YET) [신경망 설계 2/e - 주요 신경망 이론과 응용 사례](http://acornpub.co.kr/book/neural-network-design-2e)
-* (NOT YET) [PyTorch를 활용한 강화학습/심층강화학습 실전 입문](http://wikibook.co.kr/pytorch-drl/)
 * [Deep Learning Cookbook](https://ridibooks.com/v2/Detail?id=2121000012)
   * [Deep Learning Cookbook 추가 설명집](https://wikidocs.net/book/2522)
   * [github.com/DOsinga/deep_learning_cookbook](https://github.com/DOsinga/deep_learning_cookbook)
@@ -443,9 +414,6 @@ Programming Books
   * [03 단어 임베딩을 사용하여 텍스트 유사성 계산하기 (1)](https://wegonnamakeit.tistory.com/19)
   * [03 단어 임베딩을 사용하여 텍스트 유사성 계산하기 (2)](https://wegonnamakeit.tistory.com/20)
   * [04 위키피디아 외부 링크를 이용한 추천 시스템 구축](https://wegonnamakeit.tistory.com/21)
-* (NOT YET) [PyTorch로 시작하는 딥러닝 딥러닝 기초에서 최신 모던 아키텍처까지](http://acornpub.co.kr/book/deep-learning-pytorch)
-* (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/914)
-* (NOT YET) [실전! 딥러닝 텐서플로와 케라스를 이용한 딥러닝 최신 기술 활용 가이드](http://wikibook.co.kr/practical-deep-learning/)
 * (NOT YET) [가장 쉬운 딥러닝 입문 교실 그림으로 쉽게 이해하는 딥러닝 이론](http://wikibook.co.kr/easy-deep-learning/)
 * (NOT YET) [초보자를 위한 신경망 딥러닝 입문 수식 없이, 코딩 없이 드래그 앤드 드롭으로 배우는 딥러닝](http://wikibook.co.kr/neural-deep-learning/)
 * (NOT YET) [나의 첫 머신러닝/딥러닝 파이썬으로 구현해보는 필수 머신러닝/딥러닝 알고리즘](http://wikibook.co.kr/machine-learning/)
@@ -531,6 +499,39 @@ Programming Books
 * (NOT YET) [머신러닝 TensorFlow.js JavaScript - 자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188034357)
 * (NOT YET) [머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로 - Python Machine Learning 2/E : Numpy, scikit-learn 0.2x, TensorFlow 2.x로 배우는 머신 러닝, 딥러닝 핵심 알고리즘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=191948149)
 
+## Keras
+* [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
+  * 2017.08
+  * 탐라 문 004.73 이67ㅍ
+  * [파이썬과 케라스로 배우는 강화학습 저자특강](https://www.slideshare.net/WoongwonLee/ss-78783597)
+* (NOT YET) [실전! 딥러닝 텐서플로와 케라스를 이용한 딥러닝 최신 기술 활용 가이드](http://wikibook.co.kr/practical-deep-learning/)
+* [블록과 함께하는 파이썬 딥러닝 케라스 이야기](https://tykimos.github.io/2017/09/30/Book_Python_DeepLearning_Keras_with_Block/)
+  * 탐라 004.73 김832ㅍ
+  * 처음부터 케라스 코드가 같이 설명. 블록으로 설명하는 부분은 아직 좋은지 안 좋은지 잘 판단이 안 감
+* 코딩 셰프의 3분 딥러닝 케라스맛
+  * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
+  * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%85%B0%ED%94%84%EC%9D%98-3%EB%B6%84-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%BC%80%EB%9D%BC%EC%8A%A4%EB%A7%9B)
+* (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
+  * 2018.02 한라
+* (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
+  * 한라 004.73-김36ㄷ
+* [케라스 창시자에게 배우는 딥러닝](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D/)
+  * [“케라스 창시자에게 배우는 딥러닝”이 출간되었습니다](https://tensorflow.blog/2018/10/08/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88/)
+  * [github.com/gilbutITbook/006975](https://github.com/gilbutITbook/006975)
+  * [github.com/rickiepark/deep-learning-with-python-notebooks](https://github.com/rickiepark/deep-learning-with-python-notebooks)
+  * [서평, 길벗](https://medium.com/@strncpy/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D-4803654c014c)
+  * [케라스 창시자에게 배우는 딥러닝](https://subinium.github.io/Keras/)
+  * [tensorflow.org/tutorials/keras](https://www.tensorflow.org/tutorials/keras)
+* (NOT YET) [케라스 창시자의 딥러닝 with R](https://jpub.tistory.com/897)
+* (NOT YET) [딥러닝 모델 설계를 떠받치는 기술 딥러닝이 안 풀릴 때 보는 케라스 해법 정리서](http://wikibook.co.kr/deep-learning-reference/)
+* [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
+  * 2017.12
+  * 한라 004.73 스15ㅈ
+  * 케라스로 RNN쪽 집중해 설명
+* 강화학습 첫 걸음
+  * 2018.03
+  * 문004.73 줄239ㄱ
+
 ## Tensorflow
 * 텐서플로 첫걸음
   * 탐라 문004.73-토29ㅌ
@@ -548,10 +549,6 @@ Programming Books
 * 처음 배우는 머신러닝 기초부터 모델링, 실전 에제, 문제 해결까지
   * 한라 004.73 김57ㅊ
   * 이론서 + tensorflow 설치 및 실습
-* [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
-  * 2017.12
-  * 한라 004.73 스15ㅈ
-  * 케라스로 RNN쪽 집중해 설명
 * [직접 코딩하면서 배우는 머신러닝/딥러닝](http://www.kernel.bz/product/book10_ml2)
   * 탐라 문 005.76 정72ㅈ
   * tensorflow 0.7.1이긴 한데, 라즈베리파이에 올리는 경우라 버전 낮은게 상관이 없는지 잘 모르겠음. 후반부는 C로 직접 머신러닝 알고리즘 구현
@@ -567,6 +564,14 @@ Programming Books
 * (NOT YET) [텐서플로로 시작하는 딥러닝 입문 그림으로 익히고 파이썬 코드로 구현하는 인공신경망 알고리즘](http://wikibook.co.kr/tensorflow/)
 * (NOT YET) [실전활용! 텐서플로 딥러닝 프로젝트 10가지 실무 프로젝트로 배우는 텐서플로와 딥러닝 알고리즘 100% 활용법](http://wikibook.co.kr/tensorflow-projects/)
 * (NOT YET) [텐서플로를 이용한 고급 딥러닝 수학의 기초와 함께 이해하는 파이썬 딥러닝](http://acornpub.co.kr/book/pro-deep-learning-tensorflow)
+
+## PyTorch
+* (NOT YET) [PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 - 파이토치를 활용한 머신러닝, 딥러닝 알고리즘의 원리와 구현](http://wikibook.co.kr/pytorch/)
+* (NOT YET) [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
+* (NOT YET) [PyTorch를 활용한 강화학습/심층강화학습 실전 입문](http://wikibook.co.kr/pytorch-drl/)
+* (NOT YET) [PyTorch로 시작하는 딥러닝 딥러닝 기초에서 최신 모던 아키텍처까지](http://acornpub.co.kr/book/deep-learning-pytorch)
+* (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/914)
+  * (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/918)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
