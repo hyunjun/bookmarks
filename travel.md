@@ -164,6 +164,7 @@ Travel
 * [바르셀로나 보른지구의 숨겨진 작은 상점 Best 4](http://www.huffingtonpost.kr/sunhee-an/story_b_8254804.html)
 * [투대리의 여행이야기/스페인](http://2daeri.tistory.com/category/%ED%88%AC%EB%8C%80%EB%A6%AC%EC%9D%98%20%EC%97%AC%ED%96%89%20%EC%9D%B4%EC%95%BC%EA%B8%B0/%EC%8A%A4%ED%8E%98%EC%9D%B8)
 * [건축과 조경의 앙상블, 안토니 가우디의 '파크 구엘 Parc Güell'](http://realestate.daum.net/news/detail/main/20181130060004433)
+* [‘스페인 하숙’ 속 순례길 완주에 필요한 비용은?](https://ppss.kr/archives/193357)
 
 ## Swiss
 * [스위스를 여행할 때 꼭 타야 할 테마 열차: 빙하 특급열차와 골든 패스 파노라마(화보)](http://www.huffingtonpost.kr/2015/06/18/story_n_7609914.html)
