@@ -1154,6 +1154,8 @@ NLP
 * [An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)](https://medium.com/analytics-vidhya/an-nlp-approach-to-mining-online-reviews-using-topic-modeling-with-python-codes-9d766e783003)
 * [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
 * [Topic modeling using Khaiii](https://github.com/rudvlf0413/khaiii-topicmodeling)
+* [tomotopy - Python package of Tomoto, the Topic Modeling Tool](https://github.com/bab2min/tomotopy)
+  * [Python용 토픽 모델링 패키지 - tomotopy 개발](https://bab2min.tistory.com/632)
 
 # Translation
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
