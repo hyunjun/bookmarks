@@ -354,6 +354,8 @@ C
 * [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
 
 # Standard Library
+* file
+  * [C언어 파일포인터 _fseeki64 (2GB 이상 대용량 파일 엑세스)](https://inadrawer.blogspot.com/2017/08/c-fseeki64-2gb.html)
 * gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
 * longjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
