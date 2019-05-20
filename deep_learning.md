@@ -124,6 +124,7 @@ Deep Learning
 * [Why Deep Learning Works II: the Renormalization Group](https://charlesmartin14.wordpress.com/2015/04/01/why-deep-learning-works-ii-the-renormalization-group/)
 * [Why Deep Learning Works](https://artificial-understanding.com/why-deep-learning-works-1b0184686af6)
 * [Normalization 방법](https://www.slideshare.net/ssuser06e0c5/normalization-72539464)
+* [Normalization vs Standardization - Quantitative analysis (KR)](https://databreak.netlify.com/2019-05-02-Normalization_vs_Standardization-Quantitative%20analysis)
 * [18 Great Deep Learning Resources, most free](http://blog.sense.io/18-great-deep-learning-resources)
 * [인공지능의 눈으로 바라본 세상](http://techneedle.com/archives/20800)
 * [XLDB2015: Accelerating Deep Learning at Facebook](https://www.youtube.com/watch?v=KviuMAF4pEA)
