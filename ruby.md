@@ -104,3 +104,4 @@ Ruby
 * [Routes in Ruby on Rails 5: how you can use resources and records to define URLs](https://medium.freecodecamp.org/routes-in-ruby-on-rails-5-using-resources-and-records-to-define-urls-411a68afa21a)
 * [Custom URLs in Ruby on Rails: How you can use descriptive slugs instead of IDs](https://medium.freecodecamp.org/custom-urls-in-ruby-on-rails-use-descriptive-slugs-instead-of-ids-67c631475a94)
 * [A simple explanation of Service Objects for Ruby on Rails](https://medium.freecodecamp.org/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f)
+* [Contributing to Ruby on Rails is not hard. Here’s how you can suggest a new feature](https://medium.freecodecamp.org/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69)
