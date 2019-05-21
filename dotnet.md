@@ -72,6 +72,7 @@
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 * [libplanet - Open source blockchain library for fully decentralized games https://docs.libplanet.io ](https://github.com/planetarium/libplanet)
   * [Libplanet 처음 기여하기](https://snack.planetarium.dev/kor/2019/05/first-contribution/)
+  * [Libplanet 팀이 스프린트서울에 참가합니다](https://snack.planetarium.dev/kor/2019/05/sprintseoul/)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 
