@@ -174,6 +174,7 @@ Functional Programming
 * [What Is a Pure Function in JavaScript?](https://medium.freecodecamp.org/what-is-a-pure-function-in-javascript-acb887375dfe)
 * [Higher-order functions: what they are, and a React example](https://medium.freecodecamp.org/higher-order-functions-what-they-are-and-a-react-example-1d2579faf101)
 * [JavaScript Immutability](https://opentutorials.org/module/4075)
+* [An introduction to Functional JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-javascript-e8dab63bb51d)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [immer - Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
