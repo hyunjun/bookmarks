@@ -314,6 +314,7 @@ Algorithm
 * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
 * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
 * [Ford-Fulkerson in 5 minutes — Step by step example](https://www.youtube.com/watch?v=Tl90tNtKvxs)
+* [Top 10 Graph Algorithms you must know before Programming Interview | GeeksforGeeks](https://www.youtube.com/watch?v=RqQBh_Wbcu4)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
