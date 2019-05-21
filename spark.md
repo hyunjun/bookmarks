@@ -729,6 +729,8 @@
 * [Reading CSV & JSON files in Spark – Word Count Example](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark)
 * [How to Upload/Download Files to/from Notebook in my Local machine](https://medium.com/ibm-data-science-experience/how-to-upload-download-files-to-from-notebook-in-my-local-machine-6a4e65a15767)
 * [Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker](https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7)
+* [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
+  * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
