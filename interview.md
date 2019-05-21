@@ -199,6 +199,7 @@ Interview
   * [System Design Interview - Part 3 Communicate effectively](https://www.youtube.com/watch?v=GcE-a7zO2N0)
   * [Tackling the system design interview](https://cternus.net/blog/2018/01/26/tackling-the-system-design-interview/) 병원 예약 시스템을 예로 설명
   * [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054) educative.io co-founder가 쓴 주의할 점. netflix와는 무관
+  * **[System Design Interview Patterns](https://www.youtube.com/watch?v=Yt2WOBPhc7w)** 여러가지 팁
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   * [Gaurav Sen - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -215,6 +216,8 @@ Interview
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
     * **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
+    * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
+      * [LRUCache.java](https://github.com/bephrem1/backtobackswe/blob/master/Linked%20Lists/LRUCache.java)
   * Google Docs
     * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
     * [Google Docs System design | Part 1| Operational transformation | differentail synchronisation](https://www.youtube.com/watch?v=2auwirNBvGg)
