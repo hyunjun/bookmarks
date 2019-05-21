@@ -552,6 +552,7 @@ Javascript
 * [Platform & Plugin 아키텍쳐 기술 검토 - 1](https://mobicon.tistory.com/568)
 * [Platform & Plugin 아키텍쳐 기술 검토 - 2](https://mobicon.tistory.com/569)
 * [How to create a reusable loading-indicator for Angular projects](https://medium.freecodecamp.org/how-to-create-reusable-loading-indicator-for-angular-projects-d0a11f4631e0)
+* [An introduction to Angular Reactive Forms](https://medium.freecodecamp.org/angular-reactive-forms-an-introduction-f9d988ae9251)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
