@@ -28,3 +28,4 @@ Flutter
 * [#3 계산기를 만들자](https://brunch.co.kr/@yudong/108)
 * [#4 다트 언어에 대해 알아보자](https://brunch.co.kr/@yudong/110)
 * [One Day Builds: Netflix Clone Using Flutter](https://www.youtube.com/watch?v=qFGzT73bjQ8)
+* [Why I think Flutter is the future of mobile app development](https://medium.freecodecamp.org/why-i-think-flutter-is-the-future-of-mobile-app-development-768332b73c0d)
