@@ -16,6 +16,7 @@ Java
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
 * [10 Tricky Core Java Interview Coding Questions](http://javaconceptoftheday.com/tricky-core-java-interview-coding-questions/)
 * [133 Core Java Interview Questions Answers From Last 5 Years - The MEGA List](http://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)
+* [Review these 50 questions to crack your Java programming interview](https://medium.freecodecamp.org/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f)
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
 * [Game of Life, hash tables and hash codes](http://pzemtsov.github.io/2015/04/24/game-of-life-hash-tables-and-hash-codes.html)
