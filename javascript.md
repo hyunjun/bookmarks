@@ -1978,8 +1978,6 @@ Javascript
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
-* [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
-* [Ramda.js 기본적인 부분](https://github.com/haegul/DPM-FP-Study/blob/master/3%EC%A3%BC%EC%B0%A8/laplace.md)
 * [react-axes npm version - A react component that can easily use egjs-axes](https://github.com/naver/egjs-axes/tree/master/packages/react)
 * [react-blessed - A React custom renderer for the blessed library](https://github.com/Yomguithereal/react-blessed)
 * [React Color - A Collection of Color Pickers from Sketch, Photoshop, Chrome & more](http://casesandberg.github.io/react-color/)
