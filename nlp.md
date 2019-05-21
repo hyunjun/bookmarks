@@ -274,6 +274,8 @@ NLP
 * [Machine Learning with Python: NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
 * [Concrete solutions to real problems](https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb)
 * [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
+  * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
+  * [GPT-2 Playground](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
@@ -917,7 +919,6 @@ NLP
 * [컴퓨테이셔널 저널리즘](http://www.bloter.net/archives/276095)
 * [딥러닝을 활용한 뉴스 메타 태깅](https://brunch.co.kr/@kakao-it/284)
 * [스포츠 저널리즘의 변화와 AI의 활용](https://brunch.co.kr/@kakao-it/292)
-* [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
 
 # Ontology
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
