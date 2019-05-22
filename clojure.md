@@ -678,6 +678,7 @@ Clojure
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
+* [supdate - a small Clojure/ClojureScript library for transforming nested data structures](https://vvvvalvalval.github.io/supdate)
 * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
 * [TCP-Server](https://github.com/weavejester/tcp-server)
