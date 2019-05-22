@@ -218,6 +218,12 @@ Interview
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
       * [LRUCache.java](https://github.com/bephrem1/backtobackswe/blob/master/Linked%20Lists/LRUCache.java)
+  * Dropbox
+    * [blogs.dropbox.com/tech/category/infrastructure](https://blogs.dropbox.com/tech/category/infrastructure)
+    * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
+    * [Dropbox system design | Google drive system design | System design file share and upload](https://www.youtube.com/watch?v=U0xTu6E2CT8)
+      * [diagam](https://imgur.com/a/pzKb4f7)
+    * [Design Dropbox | OneDrive like Services](https://www.youtube.com/watch?v=8HaXU4aNTSg)
   * Google Docs
     * [Example coding interview: Designing Google Docs](https://www.youtube.com/watch?v=mDYuJoQEowQ)
     * [Google Docs System design | Part 1| Operational transformation | differentail synchronisation](https://www.youtube.com/watch?v=2auwirNBvGg)
@@ -273,6 +279,7 @@ Interview
     * [동영상 플랫폼 개선기 1 - 신규 동영상 플랫폼 구성](https://d2.naver.com/helloworld/3963776)
     * [동영상 플랫폼 개선기 2 - 신규 동영상 플랫폼 구축](https://d2.naver.com/helloworld/7225347)
     * Netflix
+      * [Netflix Technology Blog](https://medium.com/@NetflixTechBlog)
       * [NETFLIX System design | software architecture for netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
       * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
       * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html) 전체적인 구조를 아는 데 좋지만 정말 길어서 제대로 다 읽지는 못함
@@ -286,8 +293,6 @@ Interview
   * [System Design Interview with a Senior Software Engineer @Microsoft](https://www.youtube.com/watch?v=lOcqPEOROwQ) Google maps
   * [Design a Key-Value Store (Part I)](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
   * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
-  * [Dropbox system design | Google drive system design | System design file share and upload](https://www.youtube.com/watch?v=U0xTu6E2CT8)
-    * [diagam](https://imgur.com/a/pzKb4f7)
   * **[System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)**
     * example of class design
     * handling ambiguity; clarifying the problem
