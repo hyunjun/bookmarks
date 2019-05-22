@@ -1564,6 +1564,7 @@ Python
 * [Generating HTML Pages from MongoDB with MongoEngine and Jinja2 (Flask Part 1)](https://alysivji.github.io/flask-part1-generating-html-pages-with-mongoengine-jinja2.html)
 * [Building a Flask Web Application (Flask Part 2)](https://alysivji.github.io/flask-part2-building-a-flask-web-application.html)
 * [Flask Movie API Example](https://www.youtube.com/watch?v=Urx8Kj00zsI)
+* [How to build a cryptobot in Python and connect it to Facebook messenger](https://medium.freecodecamp.org/how-to-build-a-cryptobot-in-python-and-connect-it-to-facebook-messenger-4bba14107fcc)
 
 ## Flask Library
 * [Flask-aiohttp — Asynchronous Flask application with aiohttp](https://flask-aiohttp.readthedocs.io)
@@ -2688,6 +2689,7 @@ Python
 * Mars [Alibaba Open-Sources Mars to Complement NumPy](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 * [PyData Tel Aviv Meetup: Creating Meaningful Features from Clickstream Data - Shir Meir Lador](https://www.youtube.com/watch?v=YGk09nK_xnM)
 * [numpy tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
+* [Numpy — Python made efficient](https://towardsdatascience.com/numpy-python-made-efficient-f82a2d84b6f7)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
