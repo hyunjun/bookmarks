@@ -37,6 +37,7 @@ PyTorch
 * [Make a Acquaintance with Pytorch](http://kevin-ho.website/Make-a-Acquaintance-with-Pytorch/)
 * [Visual Question Answering in pytorch](https://github.com/Cadene/vqa.pytorch)
 * [Bottom-Up and Top-Down Attention for Visual Question Answering](https://github.com/hengyuan-hu/bottom-up-attention-vqa)
+* [pythia - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)](https://github.com/facebookresearch/pythia)
 * [reinforce-gridworld.ipynb](https://github.com/spro/practical-pytorch/blob/master/reinforce-gridworld/reinforce-gridworld.ipynb)
 * [Pruning deep neural networks to make them fast and small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
   * [PyTorch Implementation of 1611.06440 Pruning Convolutional Neural Networks for Resource Efficient Inference](https://github.com/jacobgil/pytorch-pruning)
