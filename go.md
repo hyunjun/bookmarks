@@ -329,6 +329,7 @@ Go
 * [Godray - a simple ray tracer](https://github.com/LanJian/godray)
 * [GoDS - Go Data Structures. Tags: Containers, Sets, Lists, Stacks, Maps, Trees, HashSet, TreeSet, ArrayList, SinglyLinkedList, DoublyLinkedList, LinkedListStack, ArrayStack, HashMap, TreeMap, RedBlackTree, BinaryHeap, Comparator, Sort](https://github.com/emirpasic/gods)
 * [Goenv – Go Environment Manager](http://www.andreagrandi.it/2015/04/19/goenv-go-environment-manager/)
+* [GOES - Go Event Sourcing made easy https://opensource.bloom.sh ](https://github.com/bloom42/goes)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [Gogs](http://gogs.io/)
