@@ -153,6 +153,7 @@ ElasticSearch - Lucene
 * [공식 한국어 분석 플러그인 “노리”](https://www.elastic.co/kr/blog/nori-the-official-elasticsearch-plugin-for-korean-language-analysis)
 * **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
+* [The reality of running a production Node app on AWS Elastic Beanstalk](https://medium.freecodecamp.org/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
 * [A Dive into Stack Overflow Jobs Search](https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83)
