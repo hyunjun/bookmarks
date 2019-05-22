@@ -1262,6 +1262,7 @@ Programming Books
 * [해들리 위컴의 Advanced R](http://jpub.tistory.com/792)
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%B4%EB%93%A4%EB%A6%AC-%EC%9C%84%EC%BB%B4%EC%9D%98-advanced-r-1bece8a507e0)
   * 한라 005.11-위874ㅇ
+* (NOT YET) [해들리 위컴의 R 패키지](https://jpub.tistory.com/926)
 * (NOT YET) [메이저리그 야구 통계학 빅데이터 분석의 시작 R](http://acornpub.co.kr/book/mlb-statistics)
   * 2018.08 탐라
 * [효율적인 R 프로그래밍](http://www.yes24.com/24/Goods/61358257?Acode=101)
