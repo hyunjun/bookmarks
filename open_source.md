@@ -249,6 +249,9 @@ Open Source
 * [Open-sourcing Pinterest MySQL management tools](https://engineering.pinterest.com/blog/open-sourcing-pinterest-mysql-management-tools)
 * [Building a Python monorepo for fast, reliable development](https://medium.com/@Pinterest_Engineering/building-a-python-monorepo-for-fast-reliable-development-be763781f67)
 
+# Slack
+* [Q&A가 접수되면 Slack에 알려주는 Webhook 구현](https://n1tjrgns.tistory.com/197)
+
 # Twitter
 * [트위터, 안드로이드 자동 캡처 도구 오픈소스로 공개](http://www.bloter.net/archives/249543)
 * [트위터, tvOS 앱 실시간 분석 도구 공개](http://www.bloter.net/archives/251081)
