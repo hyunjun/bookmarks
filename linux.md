@@ -550,6 +550,7 @@ Linux
 # Redhat
 * [How to Enable EPEL Repository for RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/)
 * [How to Enable RPMForge Repository in RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/enable-rpmforge-repository/)
+* [Set up a static network connection in Linux](https://opensource.com/article/19/5/set-static-network-connection-linux)
 * libc.so
   * 모든 리눅스 바이너리의 기본 라이브러리이기 때문에 쉘에서 벌어지는 모든 명령(fork 된 신규 프로세스)가 필요로하는 동적 라이브러리
   * 절대 mv/ln 등으로 임의로 고쳐서는 안되는 파일
