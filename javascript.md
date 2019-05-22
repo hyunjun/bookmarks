@@ -1829,6 +1829,7 @@ Javascript
 * [Reintroducing React: every React update since v16 demystified](https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
 * [React.js를 사용한 배너 관리 매니저 샘플 프로젝트](https://github.com/denlyou/reactjs-sample-banner-manager)
 * [How to create a Countdown component using React & MomentJS](https://medium.freecodecamp.org/how-to-create-a-countdown-component-using-react-momentjs-4717edc4ac3)
+* [Absolute imports with Create React App](https://hackernoon.com/absolute-imports-with-create-react-app-4c6cfb66c35d)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
