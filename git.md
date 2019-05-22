@@ -68,7 +68,8 @@ Git
 * [Git Concurrency in GitHub Desktop](http://githubengineering.com/git-concurrency-in-github-desktop/)
 * [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
 * [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
-* [fork repository 최신 버전으로 유지하기](https://jybaek.tistory.com/775)
+  * [fork repository 최신 버전으로 유지하기](https://jybaek.tistory.com/775)
+  * [Keeping a fork up to date](https://gist.github.com/CristinaSolana/1885435)
 * [04 Yong Seong Song -애저 웹앱을 사용하여 GIT을 활용한 게임 리소스 관리하기](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Korea-Influencer-Showcase/04-Yong-Seong-Song-Game-Development-by-GIT/)
 * [Git 더하기 GitHub](http://www.slideshare.net/ssusercef361/git-github-62006866)
 * [GitHub에서 커밋에 서명하기](https://blog.outsider.ne.kr/1209?category=18)
@@ -397,6 +398,7 @@ Git
   * [깃(Git) 리베이스 사용하기](https://tech.10000lab.xyz/git/git-rebase-workflow.html)
   * [How to become a Git expert](https://medium.freecodecamp.org/how-to-become-a-git-expert-e7c38bf54826)
   * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) multiple commits를 하나의 new commit으로 변경
+  * [Squash commits when merging a Git branch with Bitbucket](https://bitbucket.org/blog/git-squash-commits-merging-bitbucket)
   * [git rebase in depth](https://git-rebase.io/)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
