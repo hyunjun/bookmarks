@@ -1831,6 +1831,7 @@ Javascript
 * [React.js를 사용한 배너 관리 매니저 샘플 프로젝트](https://github.com/denlyou/reactjs-sample-banner-manager)
 * [How to create a Countdown component using React & MomentJS](https://medium.freecodecamp.org/how-to-create-a-countdown-component-using-react-momentjs-4717edc4ac3)
 * [Absolute imports with Create React App](https://hackernoon.com/absolute-imports-with-create-react-app-4c6cfb66c35d)
+* [앗! 리액트 + 하이차트로 차트를 그렸는데 차트가 갱신이 안되네!?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EC%95%97-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%95%98%EC%9D%B4%EC%B0%A8%ED%8A%B8%EB%A1%9C-%EC%B0%A8%ED%8A%B8%EB%A5%BC-%EA%B7%B8%EB%A0%B8%EB%8A%94%EB%8D%B0-%EC%B0%A8)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
