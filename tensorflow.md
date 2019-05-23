@@ -512,6 +512,7 @@ TensorFlow
 * [Urban Sound Classification](https://tensorflow.blog/2016/11/06/urban-sound-classification/)
 * [맑은날, 흐린날 분류 모델 version 1.0](http://momentum96.tistory.com/16)
 * [TensorFlow Hub와 Estimator로 텍스트 분류 모델 빌드하기](https://developers-kr.googleblog.com/2019/03/tensorflow-hub-estimator.html)
+* [Auto-classification of NAVER Shopping Product Categories using TensorFlow](https://medium.com/tensorflow/auto-classification-of-naver-shopping-product-categories-using-tensorflow-225f1fdb6f09)
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
