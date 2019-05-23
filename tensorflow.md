@@ -477,6 +477,7 @@ TensorFlow
 * [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
 * [NovelViewSynthesis - A TensorFlow implementation of a simple Novel View Synthesis model on ShapeNet (cars and chairs), KITTI, and Synthia](https://github.com/shaohua0116/NovelViewSynthesis-TensorFlow)
 * [Cutting Edge TensorFlow: New Techniques (Google I/O'19)](https://www.youtube.com/watch?v=Un0JDL3i5Hg)
+* [RBM Deep Dive with Tensorflow (KR)](https://dos-tacos.github.io/code%20review/RBM/)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
