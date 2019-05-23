@@ -267,11 +267,13 @@ Interview
       * [Twitter system design | twitter Software architecture | twitter interview questions](https://www.youtube.com/watch?v=wYk0xPP_P_8)
       * [System Design: How to design Twitter? Interview question at Facebook, Google, Microsoft](https://www.youtube.com/watch?v=KmAyPUv9gOY)
       * [Design Twitter | System Design Interview | Amazon Interview questions](https://www.youtube.com/watch?v=SaqAOa77ysk)
-  * Uber, Lyft
+  * Uber, Lyft, and, Yelp
     * [UBER System design | OLA system design | uber architecture | amazon interview question](https://www.youtube.com/watch?v=umWABit-wbk)
     * [System Design: Uber Lyft ride sharing services - Interview question](https://www.youtube.com/watch?v=J3DY3Te3A_A)
     * [Uber - System Design Interview with a Senior Software Engineer @ Airbnb](https://www.youtube.com/watch?v=jItLuOTsCX4)
     * [System Design | Design Uber | Design Ola | Uber Architecture | Lyft Design | Amazon Interview](https://www.youtube.com/watch?v=fgIgOU0yi0w)
+    * [System Design Interview - Design Yelp Geospatial Geohash](https://www.youtube.com/watch?v=tu6QKpV7GiI) map을 이용하기 때문에 uber와 유사한 점이 있음
+    * [Geohash: Deep Intuitive Understanding in under 7 Minutes](https://www.youtube.com/watch?v=UaMzra18TD8)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
