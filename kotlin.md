@@ -106,6 +106,7 @@
 * ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
 * [Effective Java and Kotlin](https://www.slideshare.net/ssusere1baae/effective-java-and-kotlin)
 * [코틀린(Kotlin), 꼭 해야하나요?](https://gun0912.tistory.com/81)
+* [Multi-platform Projects with Kotlin](https://hadihariri.com/2017/11/10/multiplatform-projects-with-kotlin/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
