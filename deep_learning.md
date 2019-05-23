@@ -707,6 +707,7 @@ Deep Learning
 * [A Beginners Guide to Federated Learning](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf)
 * [federated learning - 보안 걱정 없는 모바일 딥러닝 학습법 (연합 학습)](https://www.youtube.com/watch?v=ei_e7nHS6SE)
 * [LxMLS 2017](https://www.youtube.com/playlist?list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N)
+* [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1170,12 +1171,13 @@ Deep Learning
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)
 * Sonnet
   * [DeepMind의 Neural Network를 위한 라이브러리 SONNET](https://www.nextobe.com/single-post/2017/05/11/DeepMind-SONNET)
+* [SRZoo: An integrated repository for super-resolution using deep learning](https://github.com/idearibosome/srzoo)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
 * [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
 * [YOLO DARKNET - 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)
   * [github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet/)
-* [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
+* [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
 
 # Medical
 * [MOLIERE: Automatic Biomedical Hypothesis Generation System](https://www.youtube.com/watch?v=wA6OCix-4FU&t=7s)
@@ -1269,7 +1271,6 @@ Deep Learning
 * [A Visual Explanation of the Back Propagation Algorithm for Neural Networks](http://www.kdnuggets.com/2016/06/visual-explanation-backpropagation-algorithm-neural-networks.html)
 * [Machine Learning - Neural Networks Tutorial](http://www.existor.com/en/news-neural-networks.html)
 * [A Fast and Accurate Dependency Parser using Neural Networks](http://cs.stanford.edu/~danqi/papers/emnlp2014.pdf)
-* [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw)
 * [Machine-Learning Algorithm Mines Rap Lyrics, Then Writes Its Own](http://www.technologyreview.com/view/537716/machine-learning-algorithm-mines-rap-lyrics-then-writes-its-own/)
 * [시인 뉴럴](http://pail.unist.ac.kr/carpedm20/poet/)
