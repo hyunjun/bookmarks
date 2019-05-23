@@ -558,6 +558,7 @@ Apache
 * [Kafka streams Java application to aggregate messages using a session window](http://ericlondon.com/2018/07/26/kafka-streams-java-application-to-aggregate-messages-using-a-session-window.html) Java Kafka stream 기초 예제
 * [Neha Narkhede | Kafka Summit 2017 Keynote (Go Against the Flow: Databases and Stream Processing)](https://www.youtube.com/watch?v=F3pJOg1uErQ) KSQL demo
 * [Neha Narkhede | Kafka Summit 2018 Keynote (The Present and Future of the Streaming Platform) London](https://www.youtube.com/watch?v=eublKlalobg)
+* [Kafka Summit London](https://www.confluent.io/resources/kafka-summit-london-2019)
 * [Introducing Hortonworks Streams Messaging Manager (SMM)](https://ko.hortonworks.com/blog/introducing-hortonworks-streams-messaging-manager-smm/)
   * Apache Kafka 운영 관리 도구 & API
   * kafka의 4가지 엔티티(producer, topic, broker, consumers)에 대한 메트릭을 보여주고, 하나 이상의 (Secure) Kafka cluster에 대한 통합 플랫폼뿐만 아니라 각 클래스에 대해 REST API를 제공
