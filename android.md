@@ -96,6 +96,7 @@ Android
 * [SpongeBobSun의 mCalendarView 라이브러리 사용하기](https://www.ienlab.net/entry/SpongeBobSun%EC%9D%98-mCalendarView-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * **[타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)**
 * [한국 안드로이드 개발자 모임, Droid Knights 2019에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/droid-knights-2019/)
+* [How to handle RESTful web Services using Retrofit, OkHttp, Gson, Glide and Coroutines](https://medium.freecodecamp.org/my-crypto-coins-app-series-part-5-160e7aaa6382)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
