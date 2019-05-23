@@ -37,7 +37,6 @@ PyTorch
 * [Make a Acquaintance with Pytorch](http://kevin-ho.website/Make-a-Acquaintance-with-Pytorch/)
 * [Visual Question Answering in pytorch](https://github.com/Cadene/vqa.pytorch)
 * [Bottom-Up and Top-Down Attention for Visual Question Answering](https://github.com/hengyuan-hu/bottom-up-attention-vqa)
-* [pythia - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)](https://github.com/facebookresearch/pythia)
 * [reinforce-gridworld.ipynb](https://github.com/spro/practical-pytorch/blob/master/reinforce-gridworld/reinforce-gridworld.ipynb)
 * [Pruning deep neural networks to make them fast and small](https://jacobgil.github.io/deeplearning/pruning-deep-learning)
   * [PyTorch Implementation of 1611.06440 Pruning Convolutional Neural Networks for Resource Efficient Inference](https://github.com/jacobgil/pytorch-pruning)
@@ -142,6 +141,7 @@ PyTorch
 * [Music Translation - PyTorch implementation of the method described in the A Universal Music Translation Network](https://github.com/facebookresearch/music-translation)
 * [layer_normalization.py](https://github.com/CyberZHG/torch-layer-normalization/blob/master/torch_layer_normalization/layer_normalization.py)
 * [Getting Started with Intel® Optimization for PyTorch on Second Generation Intel® Xeon® Scalable Processors](https://software.intel.com/en-us/articles/getting-started-with-intel-optimization-of-pytorch)
+* [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
@@ -207,6 +207,7 @@ PyTorch
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
+* [pythia - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)](https://github.com/facebookresearch/pythia)
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 * [PyTorch-BigGraph - Software used for generating embeddings from large-scale graph-structured data. https://torchbiggraph.readthedocs.io ](https://github.com/facebookresearch/PyTorch-BigGraph)
   * [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs)
@@ -228,8 +229,8 @@ PyTorch
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
-* [Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
-* [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
+* [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
+* [UnsupervisedMT - Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
 
 # Reinforcement Learning, RL
 * [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
