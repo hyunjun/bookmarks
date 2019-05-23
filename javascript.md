@@ -480,6 +480,7 @@ Javascript
 * [How to make a cross-browser extension using JavaScript and browser APIs](https://medium.freecodecamp.org/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba)
 * [JavaScript 내장 메소드를 사용하여 숫자 천단위마다 콤마 찍기](https://john015.github.io/java-script-%EB%82%B4%EC%9E%A5-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%88%AB%EC%9E%90-%EC%B2%9C%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0)
 * [Iterable과 Iterator 이해하기](https://armadillo-dev.github.io/javascript/what-is-iterable-and-iterator)
+* [유용한 자바스크립트 배열 함수 find, includes, flat](https://hyeonseok.com/soojung/javascript/2019/05/23/852.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
