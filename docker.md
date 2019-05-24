@@ -17,6 +17,7 @@ Docker
 * [도커(Docker) 시작하기](http://kwangshin.pe.kr/blog/2018/04/14/docker-intro/)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
+* [Docker Containers vs Virtual Machines vs Physical Machines | Docker Tutorial For Beginners](https://www.youtube.com/watch?v=FRescr1iBZI)
 * [Docker: Getting Started with Docker Docker 시작하기](http://www.sauru.so/blog/getting-started-with-docker/)
 * [Docker: Installation and Test Drive Utuntu 위에 Docker 설치하고 맛보기](http://www.sauru.so/blog/docker-installation-and-test-drive/)
 * [Docker: 나의 첫 Docker Image Build and Push my own Docker Image](http://www.sauru.so/blog/build-my-first-docker-image/)
@@ -632,6 +633,7 @@ Docker
 * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
 * [Railyard: how we rapidly train machine learning models with Kubernetes](https://stripe.com/blog/railyard-training-models)
 * [LINE 엔지니어를 지원하는 CaaS 기반 서비스의 현재와 미래](https://engineering.linecorp.com/ko/blog/japan-container-days-v18-12-report/)
+* [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
