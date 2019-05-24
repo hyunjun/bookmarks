@@ -651,6 +651,7 @@ Apache
 * [Building an IIoT system using Apache NiFi, MiNiFi, C2 Server, MQTT and Raspberry Pi](https://medium.com/@abdelkrim.hadjidj/building-an-iiot-system-using-apache-nifi-mqtt-and-raspberry-pi-ce1d6ed565bc) IoT에서 Apache NiFi를 활용하는 예
 * [HDF/HDP Twitter Sentiment Analysis End-to-End Solution](https://community.hortonworks.com/articles/208667/hdphdp-twitter-nlp-processing-framework.html)
 * [IoT with Apache MXNet and Apache NiFi and MiniFi](https://www.youtube.com/watch?v=5w6rV7562xM)
+* [Introduction to Apache NiFi dws19 DWS - DC 2019](https://www.slideshare.net/bunkertor/introduction-to-apache-nifi-dws19-dws-dc-2019)
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
