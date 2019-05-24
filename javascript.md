@@ -595,6 +595,7 @@ Javascript
   * [How to Write a JavaScript Promise](https://medium.freecodecamp.org/how-to-write-a-javascript-promise-4ed8d44292b8)
   * [Understanding promises in JavaScript](https://hackernoon.com/understanding-promises-in-javascript-13d99df067c1)
   * [All you need to know about Promise.all](https://medium.freecodecamp.org/promise-all-in-javascript-with-example-6c8c5aea3e32)
+  * [Promise 정리](https://chodragon9.github.io/blog/promise)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
