@@ -42,8 +42,8 @@ Java
 * [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20ECOOP%20FINAL.pdf)
 * [Resources for writing modern Java](https://github.com/cxxr/better-java)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
-* [DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)
-* [9회 공감세미나_세션 1_자바 탄생 이야기](https://www.youtube.com/watch?v=JRaPrnT0ubw&spfreload=1)
+* ~[DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)~
+* [9회 공감세미나 세션 1 자바 탄생 이야기](https://www.youtube.com/watch?v=JRaPrnT0ubw&spfreload=1)
 * [Unrolling loops at runtime with Byte Buddy](https://blog.bramp.net/post/2015/09/09/unrolling-loops-at-runtime-with-byte-buddy/)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
 * [Venkat Subramaniam — Reactive Programming: creating highly responsive applications](https://www.youtube.com/watch?v=eDpChpuZfGA)
@@ -57,7 +57,6 @@ Java
   * [안드로이드 개발자를 위한 이펙티브 자바 치트시트](https://medium.com/@jungil.han/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-%EC%B9%98%ED%8A%B8%EC%8B%9C%ED%8A%B8-9f0d9f4494a8)
 * [자바 한글 필기체 인식 프로그램 제작 노트](http://papercut.tistory.com/62)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
-* [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 * [Introduction to BCI](https://docs.com/sunnykwak/1053/introduction-to-bci?c=1MS75Z)
 * [Java-Callback Implementation an event callback like C# using Java](https://github.com/xeyez/Java-Callback)
 * [Java Tools and Technologies Landscape Report 2016](http://zeroturnaround.com/rebellabs/java-tools-and-technologies-landscape-2016/)
@@ -410,17 +409,20 @@ Java
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 * [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
 * [JVMLS 2015 - Multi-Language Runtime](https://www.youtube.com/watch?v=kOnyJurioyw&list=PLX8CzqL3ArzUo2dtMurvpUTAaujPMeuuU&index=14)
-* [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
 * [Effective Cryptography in the JVM](https://tersesystems.com/2015/10/05/effective-cryptography-in-the-jvm/)
-* [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
 * [Why is my JVM process larger than max heap size?](https://blogs.oracle.com/jrockit/entry/why_is_my_jvm_process_larger_t)
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
+* [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
+* [Hunting Java Memory Leaks](https://www.toptal.com/java/hunting-memory-leaks-in-java)
+* **[도움이 될수도 있는 JVM memory leak 이야기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)**
 * [Pirates of the JVM — The infographic: Are you ready for an adventure?](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
 * **[Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)**
 * [우아한 테크 세미나 - 자바, 성능, 모니터링 이야기 후기](https://www.popit.kr/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9E%90%EB%B0%94-%EC%84%B1%EB%8A%A5-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%9B%84%EA%B8%B0/)
+* [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
+* [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
 * **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 * **[Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)**
