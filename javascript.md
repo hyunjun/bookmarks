@@ -570,6 +570,7 @@ Javascript
 * [비동기 교통정리 - async.waterfall](http://jybaek.tistory.com/745)
 * [The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await](https://medium.freecodecamp.org/the-evolution-of-async-javascript-from-callbacks-to-promises-to-async-await-e73b047f2f40)
 * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+* [How to deal with nested callbacks and avoid “callback hell”](https://medium.freecodecamp.org/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
@@ -1923,6 +1924,7 @@ Javascript
 * [특정 파일로 앱 열기](https://dev-yakuza.github.io/ko/react-native/open-file-with-app/)
 * [리액트 네이티브로 투두앱 만들기 Build To Do App with React Native](https://www.youtube.com/playlist?list=PL7jH19IHhOLOefIzCSQ03xlBekyi81FVv)
 * [리액트 네이티브로 날씨앱 만들기 Build App with React Native](https://www.youtube.com/playlist?list=PL7jH19IHhOLNPOI3bEBtSw1Acp3fS0enw)
+* [How to set up Jest and Enzyme to test React Native apps](https://medium.freecodecamp.org/setting-up-jest-enzyme-for-testing-react-native-40393ca04145)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
