@@ -152,6 +152,8 @@ Algorithm
 * [What’s the smallest possible number? — Programming Word of the Day](https://medium.com/background-thread/whats-the-smallest-possible-number-programming-word-of-the-day-d959bc6f2dd5)
 * [na982.tistory.com/category/Data Structure](https://na982.tistory.com/category/Data%20Structure)
 * [Introduction to Algorithms Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
+* [The Two Egg Problem](https://jusths.tistory.com/117)
+* [General Egg Problem](https://jusths.tistory.com/119)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
