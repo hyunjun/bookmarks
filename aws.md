@@ -315,6 +315,7 @@ AWS
 * [AWS - Architecture study: WEB APPLICATION HOSTING](https://github.com/AUSG/aws-architecture-study/blob/master/MyungJin/README.md)
 * [AWS Auto Cleanup - Open source application to programatically clean your AWS resources based on a whitelist and time to live (TTL) settings](https://github.com/servian/aws-auto-cleanup)
 * [20190418 Read Replicas and Django DB Router - AWS Summit Seoul 2019](https://www.slideshare.net/addnull/20190418-aws-summit-seoul-2019-hbsmith)
+* [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://medium.com/hbsmith/amazon-connect%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-outbound-call-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-93ab4ed39f57)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
