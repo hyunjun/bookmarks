@@ -536,6 +536,7 @@ Web
 * [아하 REST API 서버 개발 (14)](https://medium.com/aha-official/%EC%95%84%ED%95%98-rest-api-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C-14-3819ec9e90e9) sentry
 * [An awesome guide on how to build RESTful APIs with ASP.NET Core](https://medium.freecodecamp.org/an-awesome-guide-on-how-to-build-restful-apis-with-asp-net-core-87b818123e28)
 * [RESTful API Boilerplate](https://github.com/kevink1103/restapi_project)
+* [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://morioh.com/p/693a44872e02/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger)
 
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
