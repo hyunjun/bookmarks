@@ -469,6 +469,7 @@ AWS
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
 
 # Library
+* [AWSInterface - 몇번의 클릭만으로 API를 구성하고 SDK를 배포](https://aws-interface.com)
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
   * **[AWS를 만드는 AWS, CloudFormation](https://www.huskyhoochu.com/introduce-cloudformation)**
