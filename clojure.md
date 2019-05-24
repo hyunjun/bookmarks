@@ -274,6 +274,7 @@ Clojure
 * [모듈러(Modular) 연산](https://philoskim.github.io/clojure/blog/modular.html)
 * [Domain Modelling using Clojure](https://gist.github.com/dfcarpenter/7d49ed98c25408e2b2bfbdf141c1c407)
 * [What I learned after writing Clojure for 424 days, straight](https://medium.com/@shivekkhurana/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e)
+* [Fast Function Currying in Clojure (Without Macros)](https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
