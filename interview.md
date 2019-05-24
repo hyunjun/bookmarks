@@ -206,6 +206,8 @@ Interview
   * [Tech Dummies - Narendra L - System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
   * [Tushar Roy - Coding Made Simple - System design interview questions](https://www.youtube.com/playlist?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
   * [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+  * AirBnB
+    * [How to build an app like Airbnb?](https://hackernoon.com/how-to-build-an-app-like-airbnb-405f3c5872f9)
   * Autocomplete or Typeahead
     * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
@@ -243,6 +245,7 @@ Interview
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
     * [BOOKMYSHOW System Design, FANDANGO System Design | Software architecture for online ticket booking](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
     * [Google Software Engineer Design Interview: Reservation System](https://www.youtube.com/watch?v=6wSk5XG4jwU)
+    * [How to Build an Awesome eCommerce App? A Complete Guide to Developing an eCommerce Mobile App](https://www.engineerbabu.com/blog/how-to-build-an-ecommerce-app/)
     * [쇼핑 주문서의 임시저장 기능?](https://brunch.co.kr/@windydog/229)
   * Rate Limiting
     * [Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs](https://www.youtube.com/watch?v=mhUQe4BKZXs)
@@ -260,6 +263,7 @@ Interview
     * Instagram
       * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
       * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
+      * [How to Build a Mobile App like Instagram? (Instagram Clone)](https://www.engineerbabu.com/blog/how-to-build-a-mobile-app-like-instagram/)
     * Twitter
       * [blog.twitter.com/engineering/en_us/topics/infrastructure.html](https://blog.twitter.com/engineering/en_us/topics/infrastructure.html)
       * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
@@ -274,6 +278,7 @@ Interview
     * [System Design | Design Uber | Design Ola | Uber Architecture | Lyft Design | Amazon Interview](https://www.youtube.com/watch?v=fgIgOU0yi0w)
     * [System Design Interview - Design Yelp Geospatial Geohash](https://www.youtube.com/watch?v=tu6QKpV7GiI) map을 이용하기 때문에 uber와 유사한 점이 있음
     * [Geohash: Deep Intuitive Understanding in under 7 Minutes](https://www.youtube.com/watch?v=UaMzra18TD8)
+    * [How to Build an app like Uber? (Uber Clone)](https://www.engineerbabu.com/blog/how-to-build-an-app-like-uber/)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
@@ -288,6 +293,9 @@ Interview
     * Youtube
       * **[Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)** 2012년 영상이지만 youtube에 국한되지 않고 전반적인 걸 이해하는 데 정말 좋은 영상
         * [YouTube Architecture](http://highscalability.com/youtube-architecture)
+  * Tinder, Dating App
+    * [System Design: Designing Tinder's Server Side](https://www.youtube.com/watch?v=tndzLznxq40)
+    * [How to Build a Perfect Dating App?](https://www.engineerbabu.com/blog/love-online-building-a-dating-app/)
   * Web crawler
     * [Design a web crawler](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/web_crawler/README.md)
     * [Build a Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
@@ -299,8 +307,8 @@ Interview
     * example of class design
     * handling ambiguity; clarifying the problem
     * systematic approach; clarify details
-  * [System Design: Designing Tinder's Server Side](https://www.youtube.com/watch?v=tndzLznxq40)
   * [아마존 AI 알렉사는 어떻게 인간의 언어를 이해할까](http://clomag.co.kr/article/3103)
+  * [How to Build an App like Zomato? (Zomato Clone)](https://www.engineerbabu.com/blog/how-to-build-app-like-zomato/)
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
