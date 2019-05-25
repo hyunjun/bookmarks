@@ -138,6 +138,7 @@ Algorithm
 * **[알고리즘 학습에 대한 조언](https://www.haruair.com/blog/4546)**
 * [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
 * [나도 해보는 Fizz Buzz Test](https://libsora.so/posts/fizz-buzz-01/)
+* [How to Skin a Cat: FizzBuzz in Five Languages](https://medium.com/quick-code/how-to-skin-a-cat-fizzbuzz-5-ways-dc4ec811bfcb)
 * [나눗셈 연산을 곱셈으로 프로그래밍 할 수 있음?](https://libsora.so/posts/float-divide-without-divide/)
 * [나머지 연산자 없이 x % 256 계산하기](https://libsora.so/posts/use-casting-as-mod-operator/)
 * [나머지 연산자 없이 x % (2의 거듭제곱) 계산하기](https://libsora.so/posts/use-bit-op-as-mod-operator/)
@@ -154,6 +155,7 @@ Algorithm
 * [Introduction to Algorithms Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
 * [The Two Egg Problem](https://jusths.tistory.com/117)
 * [General Egg Problem](https://jusths.tistory.com/119)
+* [Egg Dropping Problem - Approach to write the code (Dynamic Programming) | GeeksforGeeks](https://www.youtube.com/watch?v=KVfxgpI3Tv0)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -255,6 +257,11 @@ Algorithm
 * **[geeksforgeeks Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)**
 * [Follow these steps to solve any Dynamic Programming interview problem](https://medium.freecodecamp.org/follow-these-steps-to-solve-any-dynamic-programming-interview-problem-cc98e508cd0e)
 * [The Ultimate Guide to Dynamic Programming](https://www.byte-by-byte.com/dynamic-programming)
+* [Introduction to Dynamic Programming 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1)
+* [2 Dimensional](https://www.hackerearth.com/practice/algorithms/dynamic-programming/2-dimensional)
+* [State space reduction](https://www.hackerearth.com/practice/algorithms/dynamic-programming/state-space-reduction)
+* [Dynamic Programming and Bit Masking](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking)
+* [An intro to Algorithms (Part II): Dynamic Programming](https://medium.freecodecamp.org/an-intro-to-algorithms-dynamic-programming-dd00873362bb)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
