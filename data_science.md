@@ -74,6 +74,7 @@ Data Science
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
 * [Research papers that changed the world of Big Data](http://www.bigdata-madesimple.com/research-papers-that-changed-the-world-of-big-data/)
 * [Data Analysis (1): Neuroimaging Data loading using SPM8 toolbox](http://skyeong.tistory.com/127)
+* [당신이 알고 있는 좋은 데이터 분석 슬라이드가 있나요?](https://github.com/ysunmi0427/awesome-data-analysis-slides)
 * [The last-mile problem: How data science and behavioral science can work together](http://dupress.com/articles/behavioral-economics-predictive-analytics/)
 * [The democratization of predictive analytics](http://www.cio.com/article/2913810/predictive-analytics/the-democratization-of-predictive-analytics.html#tk.rss_all)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
