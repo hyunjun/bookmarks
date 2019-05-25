@@ -260,6 +260,7 @@ AWS
 * [원격근무의 필수조건, AWS에 OpenVPN 구축기](https://elegantcoder.com/aws-openvpn-begins)
 * [AWS와 GCP VPN 연동 예제](https://zigispace.net/1024)
 * [AWS와 Azure VPN 연동 예제](https://zigispace.net/1026)
+* [AWS에서 SWAN을 설치하여 Azure와 VPN 연동 예제](https://zigispace.net/1027)
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 * [Terraform으로 ACM 인증서 생성하기](https://blog.outsider.ne.kr/1398)
 * [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
