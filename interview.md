@@ -183,11 +183,13 @@ Interview
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
   * [What are system design questions?](https://www.hiredintech.com/classrooms/system-design/lesson/52) 기초~실습문제까지 전체적인 부분
 * [The System Design Primer](https://github.com/donnemartin/system-design-primer) 기본 component와 문제, 그 외 여러가지 주제들에 대한 links
+  * [Design a system that scales to millions of users on AWS](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/scaling_aws/README.md)
 * [SYSTEM DESIGN PREPARATION](https://github.com/shashank88/system_design) 간단한 설명과 문제등 다양한 links
 * [System design interview for IT companies](https://github.com/checkcheckzz/system-design-interview) 기초부터 각 부분별 다양한 links
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
+* [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 * Introduction
   * **[CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)** 이 분야의 고전같이 여겨지는 강의
   * **[System Design Introduction For Interview](https://www.youtube.com/watch?v=UzLMhqg3_Wc)** 기본적으로 지켜야 할 부분 안내
