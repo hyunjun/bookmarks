@@ -40,5 +40,6 @@ Game
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 * Unity
   * [수식없이 게임 수학 이해하기](https://www.slideshare.net/MrDustinLee/ss-147084075)
+  * [원리부터 파악하는 Unity의 DOTS](https://blog.iwanhae.ga/intro-of-unity-dots/)
 * Unreal
   * [NDC 17 - ‘언알못’이 언리얼엔진을 배우려면 어떻게 해야 돼요?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71531)
