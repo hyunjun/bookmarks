@@ -171,6 +171,7 @@ Interview
 * [시니어 개발자로 가는 길](https://brunch.co.kr/@minchang/13)
 * [Two examples for each of Amazon’s 14 Leadership Principles](https://www.youtube.com/watch?v=RzlUQCy84rQ)
 * [Google Lost a chance to hire me… Finally, Amazon hired me !!!](https://medium.com/@jayshah_84248/google-lost-a-chance-to-hire-me-finally-amazon-hired-me-e35076c73fe2)
+* [Amazon Programming Interview Questions | GeeksforGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE)
 * [geeksforgeeks.org/tag/amazon](https://www.geeksforgeeks.org/tag/amazon/)
   * [Amazon Interview Preparation](https://www.geeksforgeeks.org/amazon-interview-preparation/)
 * [interviewbit.com/search/?q=Amazon](https://www.interviewbit.com/search/?q%5B%5D=Amazon)
