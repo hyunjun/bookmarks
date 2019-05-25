@@ -228,6 +228,7 @@ PyTorch
 * [TorchCraftAI - a platform that lets you build agents to play (and learn to play) StarCraft®: Brood War](https://github.com/TorchCraft/TorchCraftAI)
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
+* [torchgpipe - A GPipe implementation in PyTorch https://torchgpipe.readthedocs.io ](https://github.com/KakaoBrain/torchgpipe)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
 * [UnsupervisedMT - Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
