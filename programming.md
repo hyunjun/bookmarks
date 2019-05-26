@@ -1290,6 +1290,9 @@ Programming
   * [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 
+# Refactoring
+* [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
+
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
