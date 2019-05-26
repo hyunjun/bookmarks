@@ -2770,6 +2770,7 @@ Python
 * [파이썬 판다스 데이터프레임 apply함수 사용 - 특정 조건(if)의 값 바꾸기!](https://tariat.tistory.com/622)
 * [Pandas - 연비 TEST Data 분석 1](https://developer-ankiwoong.tistory.com/248)
 * [Pandas - Gapminder Data 분석(그래프 분석) 3](https://developer-ankiwoong.tistory.com/253)
+* [Pandas - 1880 ~ 2010 년까지 출생 자료 분석 - 남/여 출생 수](https://developer-ankiwoong.tistory.com/268)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
