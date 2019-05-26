@@ -16,6 +16,7 @@ NLP
 * [Natural Language Processing Tutorial Part 4 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=JcscKnF-T24)
 * [Natural Language Processing Tutorial Part 5 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Dv6MAWtWBmU)
 * [Natural Language Processing Tutorial Part 6 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=VZFmwKMh9Ck)
+* [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
