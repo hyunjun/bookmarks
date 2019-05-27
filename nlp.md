@@ -896,6 +896,7 @@ NLP
 * [Named Entity Recognition (NER), Meeting Industry’s Requirement by Applying state-of-the-art Deep](https://towardsdatascience.com/named-entity-recognition-ner-meeting-industrys-requirement-by-applying-state-of-the-art-deep-698d2b3b4ede)
 * [Parsing XML, Named Entity Recognition in One-Shot - Conditional Random Fields, Sequence Prediction, Sequence Labelling](https://towardsdatascience.com/parsing-xml-named-entity-recognition-in-one-shot-629a8b9846ee)
 * [Named Entity Recognition with NLTK and SpaCy](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)
+* [Multilingual Named Entity Recognition: Research to Reality](https://blog.paralleldots.com/product/text-analytics/multilingual-named-entity-recognition/)
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
