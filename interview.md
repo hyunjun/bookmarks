@@ -178,6 +178,7 @@ Interview
   * [Amazon Interview Questions](https://www.interviewbit.com/amazon-interview-questions/)
 * [Amazon Interview](https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
 * [Amazon Programming Interview Questions](https://aonecode.com/amazon-interview-questions)
+* [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
