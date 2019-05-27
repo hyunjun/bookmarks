@@ -181,6 +181,7 @@ Keras
 * [파이썬 케라스로 딥러닝하자! LSTM(RNN)을 이용해 뉴스 기사 분류하기](https://lsjsj92.tistory.com/409)
 * [Understand the Difference Between Return Sequences and Return States for LSTMs in Keras](https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders)
+* [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
 * tf.keras
   * [1.강좌소개 (Korean)](https://www.youtube.com/watch?v=r6L-Ief6BQ8)
   * [2. TensorFlow1.8 설치 (Korean)](https://www.youtube.com/watch?v=LkpNEkQe7N0)
