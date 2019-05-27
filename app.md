@@ -12,6 +12,7 @@ App
 * [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
 * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
+* [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
 * [회사에서 유용한 29가지 생산성 앱](http://techneedle.com/archives/22401)
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [해외 메일서비스 안내](http://www.jonathanks.com/blog/2009-07-23/offshore-email-services)
