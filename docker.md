@@ -95,6 +95,7 @@ Docker
     * [이제는, 딥러닝 개발환경도 Docker로 올려보자!](https://github.com/2sang/Moducon-Docker-tf-setup/blob/master/Docker-tensorflow-setup.pdf)
     * [example of auto-build deep learning development environment, using nvidia-docker+packer+ansible](https://github.com/EJSohn/nvidia-packer-docker-ansible)
     * [nvidia-docker로 개발환경 한방에 세팅하기](https://jybaek.tistory.com/791)
+    * [nvidia-docker Installation in Ubuntu](https://jybaek.tistory.com/796)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
@@ -335,6 +336,7 @@ Docker
 * [Docker 안에 숨어 있는 Web application JMX profiling Tip](https://www.popit.kr/docker-jmx-profiling-tip/)
 * [Deploying on AWS Free Tire with Docker and Fabric](https://hackernoon.com/deploying-on-aws-free-tire-with-docker-and-fabric-d9eca7c629e6)
 * [Processes In Containers Should Not Run As Root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
+* [docker 데이터 디렉터리 변경](https://jybaek.tistory.com/797)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
