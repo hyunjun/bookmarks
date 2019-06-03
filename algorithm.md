@@ -128,6 +128,7 @@ Algorithm
 * [Python으로 시작하는 알고리듬](https://www.holaxprogramming.com/2017/12/29/algorithms-learning-strategy/)
 * [All Algorithms implemented in Python](https://www.techleer.com/articles/560-all-algorithms-implemented-in-python/)
 * [P-NP, NP Hard, NP Complete](http://inverse90.tistory.com/m/entry/PNP-NP-Hard-NP-Complete)
+* [P-NP 에 대하여](https://jusths.tistory.com/122)
 * [Number Theory: Nice Generalization of the Waring Conjecture](https://www.datasciencecentral.com/profiles/blogs/number-theory-nice-generalization-of-the-waring-conjecture)
 * [Algorithms I : Searching and Sorting algorithms](https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20)
 * [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi)
@@ -170,6 +171,7 @@ Algorithm
 * [Of Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein)
 * [편집 거리 알고리즘(Levenshtein distance, Edit distance)](http://hsp1116.tistory.com/41)
 * [Technical interview with a Google engineer: Edit distance string comparison](https://www.youtube.com/watch?v=wyu6VRmtCmE)
+* [editdistance](https://github.com/mammothb/symspellpy/blob/master/symspellpy/editdistance.py)
 
 # Bit
 * [awesome-bits - A curated list of awesome bitwise operations and tricks](https://github.com/keonkim/awesome-bits)
@@ -505,6 +507,7 @@ Algorithm
 * [Binary tree traversal - breadth-first and depth-first strategies](https://www.youtube.com/watch?v=9RHO6jU--GU)
 * [How to calculate a Binary Tree’s height -Part 1: Using array iteration in Ruby](https://medium.freecodecamp.org/how-to-calculate-a-binary-trees-height-using-array-iteration-in-ruby-63551c6c65fe)
 * [How to Calculate Binary Tree height Part2: Using Recursion](https://medium.freecodecamp.org/how-to-calculate-binary-tree-height-with-the-recursive-method-aafc461f2201)
+* **[아는만큼 Search tree](https://hackerwins.github.io/2019-05-10/search-tree)**
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
