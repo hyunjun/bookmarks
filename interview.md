@@ -144,6 +144,8 @@ Interview
 * [Bet you can’t solve this Google interview question](https://medium.freecodecamp.org/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee) matrix coloring
 * [The best software Interview material - Prepare in less than 3 months](https://www.youtube.com/watch?v=bBPHpH8aKjw)
 * [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
+* [SDE Skills - Programming Interviews Easy - Session 5](https://www.youtube.com/watch?v=NSINx2v_5Lw)
+* [번역 코딩 인터뷰에서 Golang을 사용해야하는 이유](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068) 전반부는 동의할 수 없고 후반부는 어느 정도 동의
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -177,6 +179,7 @@ Interview
 * [interviewbit.com/search/?q=Amazon](https://www.interviewbit.com/search/?q%5B%5D=Amazon)
   * [Amazon Interview Questions](https://www.interviewbit.com/amazon-interview-questions/)
 * [Amazon Interview](https://www.youtube.com/playlist?list=PLLucmoeZjtMTarjnBcV5qOuAI4lE5ZinV)
+* [Amazon Interview Questions And Answers](https://www.youtube.com/playlist?list=PLqqPVCi6glKa6Hgl-zdXleY4lFsX9tw67)
 * [Amazon Programming Interview Questions](https://aonecode.com/amazon-interview-questions)
 * [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
 
