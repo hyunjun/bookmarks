@@ -405,6 +405,7 @@ Javascript
 * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
 * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
 * [How to find the index where a number belongs in an array in JavaScript](https://medium.freecodecamp.org/how-to-find-the-index-where-a-number-belongs-in-an-array-in-javascript-9af8453a39a8)
+* [Array.sort() 정렬 기준은 문자열의 유니코드 포인트](https://ohgyun.com/790)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
@@ -1005,6 +1006,7 @@ Javascript
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * Mongoose
   * [Mongoose(몽구스) 프로미스](https://www.zerocho.com/category/MongoDB/post/59b6228e92f5830019d41ac4)
+  * [Develop Node.js and MongoDB Apps with Mongoose](https://www.designmycodes.com/node/develop-nodejs-and-mongodb-apps-with-mongoose.html)
 * [mq \< 200 byte DOM manipulation](https://github.com/wylst/mq)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
@@ -1467,6 +1469,7 @@ Javascript
   * [PHP 사이트에 노드 앱 추가](https://hyeonseok.com/soojung/dev/2018/06/16/837.html)
   * [PM2 — Node.js 서버를 더 쉽게 관리하기 — 1](https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-1-12d30b0fedbe)
   * [PM2 — Node.js 서버를 더 쉽게 관리하기 — 2](https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-2-d03f6396139f)
+  * [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 * [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
@@ -1599,6 +1602,7 @@ Javascript
 * [협업 글쓰기를 통한 학습-React 삽질](http://www.popit.kr/%ED%98%91%EC%97%85-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%ED%86%B5%ED%95%9C-%ED%95%99%EC%8A%B5-react-%EC%82%BD%EC%A7%88/)
 * [함수형 setState가 리액트(React)의 미래이다(Functional setState is the future of React)](https://www.vobour.com/book/view/MPTQLpzxAHxzywcBc)
 * [React.setState를 사용하지 않는 3가지 이유](https://brunch.co.kr/@hee072794/108)
+* [setState를 바르게 사용하는 방법](https://blog.grotesq.com/post/728)
 * ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
 * [한국어로 배우는 리액트](https://github.com/Rokt33r/learn-react-in-korean)
 * [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
@@ -1836,6 +1840,7 @@ Javascript
 * [How to create a Countdown component using React & MomentJS](https://medium.freecodecamp.org/how-to-create-a-countdown-component-using-react-momentjs-4717edc4ac3)
 * [Absolute imports with Create React App](https://hackernoon.com/absolute-imports-with-create-react-app-4c6cfb66c35d)
 * [앗! 리액트 + 하이차트로 차트를 그렸는데 차트가 갱신이 안되네!?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EC%95%97-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%95%98%EC%9D%B4%EC%B0%A8%ED%8A%B8%EB%A1%9C-%EC%B0%A8%ED%8A%B8%EB%A5%BC-%EA%B7%B8%EB%A0%B8%EB%8A%94%EB%8D%B0-%EC%B0%A8)
+* [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2328,3 +2333,4 @@ Javascript
 * [How to Add Charts and Graphs to a Vue.js Application](https://medium.freecodecamp.org/how-to-add-charts-and-graphs-to-a-vue-js-application-29f943a45d09)
 * [Vue.js 개발 생산성을 높여주는 도구 3가지](https://joshua1988.github.io/web-development/vuejs/boost-productivity/)
 * [UI Component Framework의 장단점(feat. Vuetify)](https://armadillo-dev.github.io/ui/ux/benefit-and-cost-of-ui-component-framework/)
+* [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui/)
