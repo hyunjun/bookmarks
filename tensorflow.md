@@ -494,6 +494,7 @@ TensorFlow
 * [ORAL 세션 - 강재욱](https://www.youtube.com/watch?v=h7DUjhGCmG8)
 * [어서와 텐서플로우 2.0!: 미리 알면 좋은 몇가지 : – )](http://moducon.kr/2018/kangjaewook-session/)
 * [TensorFlow 2.0 and Cloud AI make it easy to train, deploy, and maintain scalable machine learning models](https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-2-0-and-cloud-ai-make-it-easy-to-train-deploy-and-maintain-scalable-machine-learning-models)
+* [TensorFlow 2.0에서 기호형 API와 명령형 API란?](https://developers-kr.googleblog.com/2019/05/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0.html)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
@@ -535,6 +536,7 @@ TensorFlow
 * [Building Convolutional Neural Networks with Tensorflow](http://www.datasciencecentral.com/profiles/blogs/building-convolutional-neural-networks-with-tensorflow)
 * [TensorFlow를 이용하여 나만의 사진으로 CNN 학습시켜보기(1)](http://emaru.tistory.com/25)
 * [실제 이미지로 CNN 모델을 구현하여 나만의 이미지 분류기를 만들 수 있을까?](http://www.birc.co.kr/2018/02/26/%EC%8B%A4%EC%A0%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-cnn-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+* [SRCNN in Tensorflow](https://github.com/jinsuyoo/SRCNN-Tensorflow)
 
 # Docker
 * [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
@@ -571,6 +573,7 @@ TensorFlow
   * [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
 * [StyleGAN_WebDemo.ipynb](https://colab.research.google.com/drive/1j9X6Np9z_XMp5dJKFgCb9OCMVgE-e7lg)
 * [Stylegan-art](https://github.com/ak9250/stylegan-art/blob/master/README.md)
+* [Semantic Image Synthesis with SPADE (GauGAN) - Tensorflow](https://github.com/taki0112/SPADE-Tensorflow)
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
@@ -727,6 +730,7 @@ TensorFlow
   * [Introducing TensorSpace.js — A Way to 3D Visualize Neural Networks in Browsers](https://medium.freecodecamp.org/tensorspace-js-a-way-to-3d-visualize-neural-networks-in-browsers-2c0afd7648a8)
   * [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js-color-recommendation/)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
+  * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
@@ -745,6 +749,7 @@ TensorFlow
   * [An introduction to probabilistic programming, now available in TensorFlow Probability](https://medium.com/tensorflow/an-introduction-to-probabilistic-programming-now-available-in-tensorflow-probability-6dcc003ca29e)
   * [aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+  * [Experimenting with autoregressive flows in TensorFlow Probability](https://blogs.rstudio.com/tensorflow/posts/2019-04-24-autoregressive-flows)
 * TENSORFLOWSHARP
   * [01. 기본 함수 사용하기(콘솔 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp01.html)
   * [02. TENSORFLOW 모델 사용하기(WINFORM 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp02.html)
