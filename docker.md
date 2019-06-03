@@ -337,6 +337,7 @@ Docker
 * [Deploying on AWS Free Tire with Docker and Fabric](https://hackernoon.com/deploying-on-aws-free-tire-with-docker-and-fabric-d9eca7c629e6)
 * [Processes In Containers Should Not Run As Root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 * [docker 데이터 디렉터리 변경](https://jybaek.tistory.com/797)
+* [How to Start With Container Using Docker](https://medium.com/@bryantjiminson/how-to-start-with-container-using-docker-1707a07d66cf)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -600,6 +601,7 @@ Docker
 * [쿠버네티스 차근차근 다지기](https://www.facebook.com/ChoEunOk/videos/2131989013479471/)
 * [2018 Cloud Hackathon Tech Session - Kubernetes](https://www.youtube.com/watch?v=rdyUAduXi48)
 * [쿠버네티스 개념 설명과 에코 시스템 (Spinnaker, Istio, KNative 설명)](http://bcho.tistory.com/1281)
+* [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
 * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
 * [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
 * [An 8-minute introduction to K8S](https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184)
@@ -635,7 +637,9 @@ Docker
 * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
 * [Railyard: how we rapidly train machine learning models with Kubernetes](https://stripe.com/blog/railyard-training-models)
 * [LINE 엔지니어를 지원하는 CaaS 기반 서비스의 현재와 미래](https://engineering.linecorp.com/ko/blog/japan-container-days-v18-12-report/)
-* [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
+* [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
+* [TELEPRESENCE FAST, LOCAL DEVELOPMENT FOR KUBERNETES AND OPENSHIFT MICROSERVICES](https://www.telepresence.io/)
+  * [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
