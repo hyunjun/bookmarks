@@ -8,6 +8,7 @@ Flutter
 * [Flutter: 모바일, 웹, 임베디드 및 데스크톱을 위한 Portable UI 프레임워크](https://developers-kr.googleblog.com/2019/05/Flutter-io19.html)
 * [Flutter 1.0 출시 요약 뉴스](https://developers-kr.googleblog.com/2019/05/flutter-live-wrapup.html)
 * [Mobile World Congress에서 Flutter 1.2 출시](https://developers-kr.googleblog.com/2019/05/launching-flutter-12-at-mobile-world.html)
+* [Flutter에서 WebView의 파워를 느껴보세요!](https://developers-kr.googleblog.com/2019/05/the-power-of-webviews-in-flutter.html)
 * [What the F\*\*tter!? Understanding Flutter as an Android (Java) Developer](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)
 * [Announcing Flutter beta 1: Build beautiful native apps](https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0)
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
