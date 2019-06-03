@@ -726,6 +726,7 @@ Programming
 * [Why you should use column-indentation to improve your code’s readability](https://medium.freecodecamp.org/how-to-columnize-your-code-to-improve-readability-f1364e2e77ba)
 * [소프트웨어 엔지니어들이 읽기 어려운 코드를 만드는 이유는?](http://jhrogue.blogspot.com/2018/12/b.html)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29) 작은 함수가 좋은 경우/안 좋은 경우
+* [코딩 스타일에 대해 논쟁하는 이유](http://www.mimul.com/pebble/default/2019/05/31/1559304696070.html)
 
 # Compiler, Interpreter
 * **Let’s Build A Simple Interpreter** python
@@ -1188,6 +1189,7 @@ Programming
   * [기술 뉴스 #124 : 19-04-15](https://blog.outsider.ne.kr/1437)
   * [기술 뉴스 #125 : 19-05-01](https://blog.outsider.ne.kr/1439)
   * [기술 뉴스 #126 : 19-05-15](https://blog.outsider.ne.kr/1441)
+  * [기술 뉴스 #127 : 19-06-01](https://blog.outsider.ne.kr/1446)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1205,6 +1207,7 @@ Programming
   * [1902호](https://blog.gaerae.com/2019/02/monthly.html)
   * [월간 개발자스럽다 #41](https://blog.gaerae.com/2019/03/monthly.html)
   * [월간 개발자스럽다 #42](https://blog.gaerae.com/2019/04/monthly.html)
+  * [월간 개발자스럽다 #43](https://blog.gaerae.com/2019/05/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
