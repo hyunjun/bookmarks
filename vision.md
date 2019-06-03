@@ -393,6 +393,9 @@ Vision
 * [이미지 프로세싱 & 컴퓨터 시각화 4부](https://blog.naver.com/zeus05100/221518850510)
 * [이미지 프로세싱 & 컴퓨터 시각화 5부](https://blog.naver.com/zeus05100/221518852637)
 * [이미지 프로세싱 & 컴퓨터 시각화 6부](https://blog.naver.com/zeus05100/221518844944)
+* [이미지 프로세싱 & 컴퓨터 시각화 7부](https://blog.naver.com/zeus05100/221522903403)
+* [이미지 프로세싱 & 컴퓨터 시각화 8부](https://blog.naver.com/zeus05100/221541718299)
+* [이미지 프로세싱 & 컴퓨터 시각화 9부](https://blog.naver.com/zeus05100/221552322366)
 * [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 * [Images Comparison with Opencv and Python](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)
 * [OpenCV 3.4 with Python 3 Tutorial](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa__vnifNA744Cz-q)
@@ -406,6 +409,7 @@ Vision
 * [Ch0. OpenCV Lambda lecture introduction](https://www.youtube.com/watch?v=m39nOVPkEsQ)
 * [Cut-And-Save-Faces](https://github.com/Unkn03nUser/Cut-And-Save-Face)
 * [Color Identification in Images](https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71)
+* [안드로이드 OpenCV 사용하기](https://brunch.co.kr/@mystoryg/76)
 
 # OpenGL
 * [open.gl](https://open.gl/)
