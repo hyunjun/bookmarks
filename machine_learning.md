@@ -135,6 +135,7 @@ Machine Learning
 * [TOP 10 Machine Learning Algorithms](https://blog.goodaudience.com/top-10-machine-learning-algorithms-2a9a3e1bdaff)
 * [Do you know how to choose the right machine learning algorithm among 7 different types?(KR)](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
+* [Simple ML explanations by MIT PhD students (ML-Tidbits)](https://www.techleer.com/articles/584-understanding-artificial-intelligence-and-machine-learning-made-simple-by-mit-phd-students-ml-tidbits/)
 * [Machine Learning Tutorials](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
   * [Machine Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/)
 * [7 Free Machine Learning Courses](http://www.datasciencecentral.com/profiles/blogs/7-free-machine-learning-courses)
@@ -189,6 +190,7 @@ Machine Learning
   * Global minimum을 찾기 위한 Hyperparmeter를 정하는 방법 5가지의 C++ library, python api
   * Guess and Check, Grid Search, Random Search, Bayesian Optimization, Local Optimization With a Good Initial Guess
 * [Hyper-parameters in Action! Part I — Activation Functions](https://towardsdatascience.com/hyper-parameters-in-action-a524bf5bf1c)
+* [Importance of Choosing the Correct Hyper-parameters While Defining a Model](https://medium.com/towards-artificial-intelligence/importance-of-choosing-the-correct-hyper-parameters-while-defining-a-model-c6084bc49fc2)
 * [내가 만든 모델이 잘 작동하는건가?](https://brunch.co.kr/@chris-song/32)
 * [High Performance Machine Learning through Codesign and Rooflining](http://www.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-169.pdf)
 * [CHALLENGES TO MACHINE LEARNING: Relations between reality and appearance](http://jmc.stanford.edu/articles/appearance/appearance.pdf)
