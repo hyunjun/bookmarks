@@ -18,6 +18,7 @@ AWS
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
+* [AWS Amplify와 React로 어플리케이션 만들기](https://jason0853.github.io/aws/getting-started-with-aws-amplify-and-react/)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
@@ -35,6 +36,7 @@ AWS
 * [편리한 AWS EC2 인스턴스의 접속 관리](https://dailyhotel.io/%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C-aws-ec2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98-%EC%A0%91%EC%86%8D-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-2dd0f46b0db8)
 * [Technical Deep Dive: Running Amazon EC2 Workloads at Scale - AWS Online Tech Talks](https://www.youtube.com/watch?v=sNT5PstZpS8) scaling, 비용 최적화
 * [AWS S3를 EC2 인스턴스에 Mount 예제](https://millionairedeveloper.tistory.com/m/3)
+* [AWS EC2에 SSH 쉽게 접속하기 (3mins)](https://stevenshim.github.io/easy-ssh-ec2)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
 * [AWS Summit 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9)
@@ -132,6 +134,7 @@ AWS
 * [Kubernetes on AWS : AWSKRUG Container hands-on #3](https://github.com/awskrug/handson-labs-2018/tree/master/Container/3_Kubernetes)
 * [Kubernetes on AWS](https://docs.google.com/presentation/d/1odyUPXrenc4aNhY_YIHaHyODJ8gPlixQk7U9J0BzL1M/edit#slide=id.p)
 * [AWS 서비스를 활용한 Kubernetes 클러스터 구축](http://engineering.vcnc.co.kr/2019/03/kubernetes-on-aws/)
+* [AWS-Kubeflow](https://github.com/graykode/aws-kubeflow)
 * [AWS KMS를 이용한 암호화 API 구축하기](http://woowabros.github.io/experience/2017/02/06/aws-kms.html)
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
 * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
