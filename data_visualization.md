@@ -80,6 +80,7 @@ Data Visualization
 * [Analysis of Developers Trends with JavaScript Pivot Table and Charting Library](https://medium.com/@veronikarovnik/analysis-of-developers-trends-with-javascript-pivot-table-and-charting-library-b7b6e16ab71b)
 * [These are the best JavaScript chart libraries for 2019](https://medium.freecodecamp.org/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2)
 * [Best Data and Big Data Visualization Techniques(KR)](https://databreak.netlify.com/2019-05-06-Best_Data_and_Big_Data_Visualization_Techniques)
+* [NAVER Tech Talk: FE devtalk 14회 (2019년 4월)](https://d2.naver.com/news/9516106)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
