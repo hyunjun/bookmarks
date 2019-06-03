@@ -301,6 +301,10 @@ R
 * [GOOGLE COLABORATORY에 R 커널 설치하기](https://lumiamitie.github.io/r/r-in-colab/)
 * [Make it explainable!](https://www.r-bloggers.com/make-it-explainable/)
 * [Random generation of network models in R](https://hackernoon.com/random-generation-of-network-models-in-r-18285ad51d81)
+* [Management accounting with balance sheet and income statement in R](https://www.r-bloggers.com/management-accounting-with-balance-sheet-and-income-statement-in-r/)
+* [#딥러닝, 정말 #블랙박스 일까요? CNN 계층을 거친 결과를 시각화 하면서!! 블랙박스를 살펴봅시다](https://www.youtube.com/watch?v=F-0CykkGZqM)
+* [최종목표는 R챗봇이다!!원-핫 인코딩 & 워드임베딩으로 자연어 처리를 배워보고,함께 R언어로 실습해 봅시다](https://www.youtube.com/watch?v=ZNjpa81CNzM)
+* [다차원 배열 : 변환하고 요약하기](http://ds.sumeun.org/?p=1777)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -361,6 +365,8 @@ R
 * [June 2017 New Package Picks(https://rviews.rstudio.com/2017/07/26/june-2017-new-package-picks/)
 * [From ‘R vs Python’ to ‘R and Python’](https://towardsdatascience.com/from-r-vs-python-to-r-and-python-aa25db33ce17)
 * [8 Useful R Packages for Data Science You Aren’t Using (But Should!)](https://www.analyticsvidhya.com/blog/2019/04/8-useful-r-packages-data-science/)
+* [재무정보 시각화](https://github.com/shinykorea/shiny_financial_dashboard)
+* [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
 * boruta
   * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
@@ -499,6 +505,7 @@ R
   * [Shiny 반응형(reactive) 웹앱 개발](https://statkclee.github.io/data-product/shiny-reactive.html)
   * [ShinyApps를 R 패키지로 만들기](https://blog.anpanman.co.kr/posts/2019-02-10-from-shiny-to-rpackage)
   * [Using Shiny with Scheduled and Streaming Data](https://rviews.rstudio.com/2017/11/15/shiny-and-scheduled-data-r/)
+  * [Shiny 활용 의학연구지원 경험](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
@@ -518,6 +525,7 @@ R
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
 * [Tufte in R](http://motioninsocial.com/tufte/#introduction)
 * [Visual Studio용 R 도구 - Visual Studio를 강력한 R 개발 환경으로 전환하세요](https://www.visualstudio.com/ko/vs/rtvs/)
+* [windex-simulator-hanwoo 한우 육량등급 시뮬레이터 code](https://github.com/adatalab/windex-simulator-hanwoo)
 * [WVPlots: Common Plots for Analysis](https://cran.r-project.org/web/packages/WVPlots/index.html)
   * [Example WVPlots](http://rpubs.com/jmount/WVPlots)
 
