@@ -419,6 +419,7 @@ Python
 * **[What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems)](https://www.youtube.com/watch?v=SlI9eOfxJJc)** dunder, custom iterator, functool.partial, contextmanager, closure, wraps/wrapt
 * [Solve Your Problem With Sloppy Python](https://www.youtube.com/watch?v=QsTVDx20y1M) os, subprocess, ...
 * [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747)
+* [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -1994,7 +1995,6 @@ Python
 * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
-* [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
 * Celery
   * [Introduction to Celery](https://www.youtube.com/watch?v=waD4MEj8WGw)
   * [Introduction to Celery](https://www.youtube.com/watch?v=3cyq5DHjymw)
@@ -2184,6 +2184,7 @@ Python
   * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
 * [Legofy - a python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO](https://github.com/JuanPotato/Legofy)
 * [Librosa - audio and music processing in Python](https://librosa.github.io)
+  * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
 * [LightNet: Bringing pjreddie's DarkNet out of the shadows](https://github.com/explosion/lightnet)
 * [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in \<95 lines](https://github.com/vpostman/logcoin)
@@ -2206,7 +2207,6 @@ Python
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
 * [Mani - a distribued cron like scheduler](https://github.com/sherinkurian/mani)
 * [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
-* [methodtools.lru_cache](https://pypi.org/project/methodtools) functools.lru_cache가 classmethod나 staticmethod에 대해 제대로 동작하지 않아 이를 보완하기 위해 작성했다고 함
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
@@ -2470,7 +2470,6 @@ Python
 * [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
   * [10분만에 익히는 supervisor 설치와 사용법](https://jwkcp.github.io/2016/11/07/how-to-use-supervisor-in-one-minute/)
   * [Supervisor 를 이용한 서비스 동작 및 모니터링](http://mcchae.egloos.com/11187173) ubuntu
-* [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
   * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Template Engine](http://aosabook.org/en/500L/a-template-engine.html)
@@ -2540,6 +2539,14 @@ Python
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
+
+## Library cache
+* [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
+* [methodtools.lru_cache](https://pypi.org/project/methodtools) functools.lru_cache가 classmethod나 staticmethod에 대해 제대로 동작하지 않아 이를 보완하기 위해 작성했다고 함
+* [Ring - Cache interface as a programming language integration](https://ring-cache.readthedocs.io/)
+  * [2018 PyCon KR - Ring](https://www.slideshare.net/YunWonJeong/2018-pycon-kr-ring-110398431)
+  * [ring - Function-oriented cache interface with built-in memcache & redis + asyncio support](https://github.com/youknowone/ring)
+* [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
 
 ## Library package install management
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
@@ -2771,6 +2778,8 @@ Python
 * [Pandas - 연비 TEST Data 분석 1](https://developer-ankiwoong.tistory.com/248)
 * [Pandas - Gapminder Data 분석(그래프 분석) 3](https://developer-ankiwoong.tistory.com/253)
 * [Pandas - 1880 ~ 2010 년까지 출생 자료 분석 - 남/여 출생 수](https://developer-ankiwoong.tistory.com/268)
+* [Pandas - Json Data 분석 4(Data 시각화)](https://developer-ankiwoong.tistory.com/272)
+* [Pandas - 영화 진흥원 API 상영 순위 분석](https://developer-ankiwoong.tistory.com/291)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -2921,8 +2930,6 @@ Python
     * [파이썬 엑셀 다루기 01 - 엑셀 저](http://nbviewer.jupyter.org/5f9a732873bd0a139d96c111bf1c2c60)
     * [파이썬 엑셀 다루기 02 - 특정 주기 추출](http://nbviewer.jupyter.org/f456627d0650a9909cc0a4b166275cae)
   * [A Development of Log-based Game AI using Deep Learning](https://www.slideshare.net/SuntaeKim7/a-development-of-logbased-game-ai-using-deep-learning-110222600)
-  * [2018 PyCon KR - Ring](https://www.slideshare.net/YunWonJeong/2018-pycon-kr-ring-110398431)
-    * [ring - Function-oriented cache interface with built-in memcache & redis + asyncio support](https://github.com/youknowone/ring)
   * [pyconkr-2018-booklet](https://github.com/lqez/pyconkr-2018-booklet)
     * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html)
   * [PyCon Korea 2018 Day1 Lightning Talk - Python으로 LibreOffice의 한자 목록 공헌하기](https://www.slideshare.net/studioego/pycon-korea-2018-day1-lightning-talk-python-libreoffice)
