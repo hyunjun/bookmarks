@@ -296,6 +296,7 @@ Java
 * [IntelliJ에서 코드 한 줄 안 짜고 JPQL 실행하기](https://www.popit.kr/intellij%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84-%EC%95%88-%EC%A7%9C%EA%B3%A0-jpql-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [인텔리J 단축키 잘 쓰는 방법](https://www.youtube.com/watch?v=0D-YYVfUxFM)
+* [Mac에서 IntelliJ CMD+SHIFT+A 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
@@ -472,6 +473,8 @@ Java
 * [DEC PDP-8 emulator](http://www.timgorton.com/pdp8/)
 * [Eclipse Collections](https://www.eclipse.org/collections/)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
+* [Feign makes writing java http clients easier](https://github.com/OpenFeign/feign)
+  * [우아한 feign 적용기](http://woowabros.github.io/experience/2019/05/29/feign.html)
 * [Fig - Java elegant supplement](http://wapatesh.github.io/fig/)
 * [Flow - Record your application executions and visualize what happened at runtime through an interactive web interface](http://findtheflow.io/)
 * [flowable - provides a core set of open source business process engines](https://www.flowable.org/)
