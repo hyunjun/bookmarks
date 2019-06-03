@@ -352,6 +352,7 @@ Go
 * [hangulize.org](https://hangulize.org)
   * [한글라이즈 재제작기](https://www.slideshare.net/sublee/ss-113085659)
   * [한글라이즈 재제작기](https://speakerdeck.com/sublee/remake-of-hangulize)
+  * [나의 첫 Go 프로그램](http://occamsrazr.net/tt/351)
 * [happyfinder - Fuzzy file finder for the command line](https://github.com/hugows/hf)
 * [hc - HomeControl is an implementation of the HomeKit Accessory Protocol (HAP) in Go. http://selfcoded.com/homecontrol](https://github.com/brutella/hc)
 * [hraftd is a reference use of the Hashicorp Raft implementation, inspired by raftd](https://github.com/otoolep/hraftd)
