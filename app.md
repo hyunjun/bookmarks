@@ -650,7 +650,8 @@ App
   * [페리스코프와 미어캣: 소셜미디어의 새로운 시대](http://newspeppermint.com/2015/04/02/m-broadcasting/)
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
 * [동물의 시선으로 세상을 바라보면…](http://techholic.co.kr/archives/38707)
-* [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
+* audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
+* AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
