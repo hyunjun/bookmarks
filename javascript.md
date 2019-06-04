@@ -217,6 +217,7 @@ Javascript
 * [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
 * [JS에 Applicative/Traversable 적용하기](https://medium.com/@jooyunghan/js%EC%97%90-applicative-traversable-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-a03147e0de94)
 * [generator/interpreter 패턴?](https://medium.com/@jooyunghan/generator-interpreter-%ED%8C%A8%ED%84%B4-a3aecd71c431)
+* [Generator 이해하기](https://armadillo-dev.github.io/javascript/what-is-generator/)
 * [“The Eff monad implemented in Flow”](https://medium.com/@gcanti/the-eff-monad-implemented-in-flow-40803670c3eb) Eff 모나드를 자바스크립트+Flow로 소개한 글
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
@@ -269,6 +270,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/javascript-open-source-for-the-past-month-v-may-2019-80e6ad3db158)
   * [JavaScript Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-may-2019-11d4211067a2)
   * [48 Amazing JavaScript Open Source for the Past Year (v.2019)](https://medium.com/@Mybridge/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9)
   * [Learn JavaScript from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-javascript-from-top-50-articles-for-the-past-year-v-2019-57a26f277f47)
@@ -424,6 +426,7 @@ Javascript
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 1](https://www.youtube.com/watch?v=JzFvGf7Ywkk)
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 2](https://www.youtube.com/watch?v=ozMwRq-IT2w)
 * [Forget Docker, the future is JAMstack](https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616)
+* [An introduction to the JAMstack: the architecture of the modern web](https://medium.com/free-code-camp/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca)
 * [자바스크립트에서 expect(-3 % 3).toEqual(3 % 3)가 실패하는 이유](https://libsora.so/posts/-3-mod-3-is-not-equal-to-3-mod-3-in-javascript/)
 * [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
 * [How to get noticed in the Javascript world](https://hackernoon.com/how-to-get-noticed-in-the-javascript-world-aec7d382b005)
@@ -482,6 +485,7 @@ Javascript
 * [JavaScript 내장 메소드를 사용하여 숫자 천단위마다 콤마 찍기](https://john015.github.io/java-script-%EB%82%B4%EC%9E%A5-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%88%AB%EC%9E%90-%EC%B2%9C%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0)
 * [Iterable과 Iterator 이해하기](https://armadillo-dev.github.io/javascript/what-is-iterable-and-iterator)
 * [유용한 자바스크립트 배열 함수 find, includes, flat](https://hyeonseok.com/soojung/javascript/2019/05/23/852.html)
+* [Writing a simple transpiler in JavaScript](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1382,6 +1386,8 @@ Javascript
 * [Node.js: what it is, when and how to use it, and why you should](https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2)
 * [Serverless PDF news renderer in Node.js](https://medium.com/silesis/serverless-pdf-news-renderer-in-node-js-138223a4557a)
 * [Everything you should know about ‘module’ & ‘require’ in Node.js](https://medium.freecodecamp.org/require-module-in-node-js-everything-about-module-require-ccccd3ad383)
+* [Node.js: Module wiring and dependencies explained](https://itnext.io/node-js-module-wiring-and-dependencies-explained-9fa5784c5840)
+* [Node.js Monitoring Made Easy](https://hackernoon.com/node-js-monitoring-made-easy-4d84cd229ab2)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1682,6 +1688,7 @@ Javascript
 * [React Testing Tutorial: Test Frameworks & Component Tests](https://www.robinwieruch.de/react-testing-tutorial/)
   * [번역 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr/)
 * [Unit Testing React Components](https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2)
+* [벨로퍼트와 함께하는 리액트 테스팅](https://velog.io/@velopert/react-testing)
 * [React Application Performance Optimization](https://seokjun.kim/react-application-performance-optimization/)
 * [How to deploy a React application to Netlify that reads from a Google Sheet](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-that-reads-from-a-google-sheet-97a015806c47)
 * [How to deploy a React application to Netlify](https://medium.freecodecamp.org/how-to-deploy-a-react-application-to-netlify-363b8a98a985)
@@ -1748,6 +1755,7 @@ Javascript
 * [실전형 리액트 Hooks | #1 0 Introduction to useState](https://www.youtube.com/watch?v=W6KX48dnH6I)
 * [실전형 리액트 Hooks | #0 2 Workflow](https://www.youtube.com/watch?v=JHZ3NPj4jrQ)
 * [실전형 리액트 Hooks | #0 1 Requirements](https://www.youtube.com/watch?v=9-_Xw1RUvj4)
+* [Did you know — createReducer Works with React Hooks. Here’s how](https://medium.com/free-code-camp/did-you-know-createreducer-works-with-react-hooks-heres-how-b324c558e12f)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
@@ -1841,6 +1849,7 @@ Javascript
 * [Absolute imports with Create React App](https://hackernoon.com/absolute-imports-with-create-react-app-4c6cfb66c35d)
 * [앗! 리액트 + 하이차트로 차트를 그렸는데 차트가 갱신이 안되네!?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EC%95%97-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%95%98%EC%9D%B4%EC%B0%A8%ED%8A%B8%EB%A1%9C-%EC%B0%A8%ED%8A%B8%EB%A5%BC-%EA%B7%B8%EB%A0%B8%EB%8A%94%EB%8D%B0-%EC%B0%A8)
 * [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
+* [How to build a customer support live chat widget with React](https://medium.com/free-code-camp/how-to-build-a-customer-support-live-chat-widget-with-react-ca228b3cea11)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -1965,6 +1974,7 @@ Javascript
   * [How to create a searchable log with Gatsby](https://medium.freecodecamp.org/how-to-create-a-searchable-log-with-gatsby-d624bf3a05af)
   * [Creating a localised website using Gatsby and Cosmic JS](https://hackernoon.com/creating-a-localised-website-using-gatsby-and-cosmic-js-6d2bdba0366b)
   * [How To Add Draft Posts To A Gatsby Blog](https://hackernoon.com/how-to-add-draft-posts-to-a-gatsby-blog-3f6c64ec0c06)
+  * [How to leverage your React skills with static site generator Gatsby.js](https://medium.com/free-code-camp/how-to-leverage-your-react-skills-with-static-site-generator-gatsby-js-81843e928606)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
@@ -2119,6 +2129,7 @@ Javascript
 * [Redux](https://opentutorials.org/module/4078)
 * [Redux](https://www.youtube.com/playlist?list=PLuHgQVnccGMB-iGMgONoRPArZfjRuRNVc)
 * [리액트, 리덕스로 타이머 앱 만들기 Build timer app with React Native and Redux](https://www.youtube.com/playlist?list=PL7jH19IHhOLMKhZfOg7fj6gFX7Lbxpk7q)
+* [An intro to Redux and how state is updated in a Redux application](https://medium.com/free-code-camp/an-intro-to-redux-and-how-state-is-updated-in-a-redux-application-839c8334d1b1)
 
 # Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
@@ -2223,6 +2234,7 @@ Javascript
   * [vue-resource - interceptors, $resource](https://hanwong.github.io/2017/02/25/vue-resource-firebase03/)
   * [Stock-Trader Project Tutorial](https://hanwong.github.io/2017/04/08/vue-stock-trader-01/)
 * [Vue 글로벌 컴포넌트 테스트](http://blog.jeonghwan.net/vue/2017/04/19/vue-component-test.html)
+* [Testing Vue.js Components with Jest](https://www.educative.io/collection/10370001/6751199023857664)
 * Hanamirb + Vue.js 로 간단 가계부 구현
   * [API 서버 편](https://emaren84.github.io/blog/archivers/hanami-vuejs-moneybook-api-server)
   * [프론트엔드 편 - 1](https://emaren84.github.io/blog/archivers/hanami-vuejs-moneybook-frontend-1)
@@ -2251,6 +2263,7 @@ Javascript
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/vue-js-open-source-for-the-past-month-v-may-2019-ae0b349bfd9)
   * [Vue.js Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-may-2019-2cece08b3dd6)
   * [45 Amazing Vue.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-vue-js-open-source-for-the-past-year-v-2019-b8533f26a0a2)
   * [Learn Vue.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-vue-js-from-top-50-articles-for-the-past-year-v-2019-ebae8b746522)
