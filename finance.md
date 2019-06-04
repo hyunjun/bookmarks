@@ -100,6 +100,9 @@ Finance
 * [Yahoo Finance to Google Finance](https://nbviewer.jupyter.org/gist/FinanceData/d47fb9297dcf13269cec090bfbd65d3e)
 * [국제 상품 가격 데이터](http://nbviewer.jupyter.org/gist/FinanceData/d681c1a29bb4a58b8703f0e34c2c6fce)
 * [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
+* [Algorithmic trading in less than 100 lines of Python code](https://www.oreilly.com/learning/algorithmic-trading-in-less-than-100-lines-of-python-code)
+* [Python For Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)
+* [Back to Basics: Introduction to Algorithmic Trading](https://robotwealth.com/back-to-basics-introduction-to-algorithmic-trading/)
 * [파이썬 주식 패턴 분석](http://hamait.tistory.com/848)
 * [머신러닝을 활용한 주가 수익률 결정 모형](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/25b846bd769858e92cf8f19b8254e4a2#/)
 * [발틱운임지수(BDI)와 해양운송업(팬오션, 대한해운)](https://nbviewer.jupyter.org/gist/FinanceData/251a316216e5ded4dfbe2669e7d5f888)
@@ -137,6 +140,7 @@ Finance
     * [Visualizing Strategy Metrics p.2](https://www.youtube.com/watch?v=GJJzsfJUiB8)
     * [Custom Data Panel p.3](https://www.youtube.com/watch?v=ZEULPvS_eeI)
     * [Trading Custom Markets (bitcoin example) p.4](https://www.youtube.com/watch?v=rYV102VfG7o)
+  * [Programming for Finance with Python, Zipline and Quantopian](https://pythonprogramming.net/finance-programming-python-zipline-quantopian-intro/)
 
 # R
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
