@@ -46,6 +46,7 @@ Keras
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
 * [Extreme Rare Event Classification using Autoencoders in Keras](https://towardsdatascience.com/extreme-rare-event-classification-using-autoencoders-in-keras-a565b386f098)
+  * [autoencoder_classifier](https://github.com/cran2367/autoencoder_classifier)
 * [Why is Keras Running So Slow?](http://www.chioka.in/why-is-keras-running-so-slow/)
 * [Elephas: Distributed Deep Learning with Keras & Spark](https://github.com/maxpumperla/elephas)
 * [kapre - Keras Audio Preprocessors](https://github.com/keunwoochoi/kapre)
@@ -182,6 +183,7 @@ Keras
 * [Understand the Difference Between Return Sequences and Return States for LSTMs in Keras](https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras)
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders)
 * [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
+  * [lstm_autoencoder_classifier](https://github.com/cran2367/lstm_autoencoder_classifier)
 * tf.keras
   * [1.강좌소개 (Korean)](https://www.youtube.com/watch?v=r6L-Ief6BQ8)
   * [2. TensorFlow1.8 설치 (Korean)](https://www.youtube.com/watch?v=LkpNEkQe7N0)
