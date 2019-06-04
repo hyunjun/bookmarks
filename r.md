@@ -506,6 +506,7 @@ R
   * [ShinyApps를 R 패키지로 만들기](https://blog.anpanman.co.kr/posts/2019-02-10-from-shiny-to-rpackage)
   * [Using Shiny with Scheduled and Streaming Data](https://rviews.rstudio.com/2017/11/15/shiny-and-scheduled-data-r/)
   * [Shiny 활용 의학연구지원 경험](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/)
+  * [구글 클라우드를 활용한 R Shiny Web App 구현하기](https://cozydatascientist.tistory.com/63)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
