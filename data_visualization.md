@@ -81,6 +81,7 @@ Data Visualization
 * [These are the best JavaScript chart libraries for 2019](https://medium.freecodecamp.org/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2)
 * [Best Data and Big Data Visualization Techniques(KR)](https://databreak.netlify.com/2019-05-06-Best_Data_and_Big_Data_Visualization_Techniques)
 * [NAVER Tech Talk: FE devtalk 14회 (2019년 4월)](https://d2.naver.com/news/9516106)
+* [The Simpsons meets Data Visualization](https://towardsdatascience.com/the-simpsons-meets-data-visualization-ef8ef0819d13)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -222,6 +223,8 @@ Data Visualization
   * [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)
   * [Data visualization with plotly py: Version 3 and beyond - Jon Mease](https://www.youtube.com/watch?v=cuTMbGjN2GQ)
   * [Python’s One Liner graph creation library with animations Hans Rosling Style](https://mlwhiz.com/blog/2019/05/05/plotly_express/)
+* [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
+  * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
   * [Graph visualization using Python](https://www.youtube.com/watch?v=SpDI6-FvtJY)
 * [pyecharts - Python Echarts Plotting Library http://pyecharts.org](https://github.com/pyecharts/pyecharts)
