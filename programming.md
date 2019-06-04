@@ -545,6 +545,7 @@ Programming
   * [(5) 이벤트 주도 데이터 관리](https://futurecreator.github.io/2018/10/19/microservices-and-event-driven-data-management/)
   * [(6) 배포 전략](https://futurecreator.github.io/2018/10/19/microservices-deployment-strategy/)
   * [(7) 모놀리스 리팩토링](https://futurecreator.github.io/2018/10/19/microservices-refactoring-for-monolith/)
+* [Beginner’s Guide to Microservices: Explaining it to a 5 Year Old](https://hackernoon.com/beginners-guide-to-microservices-explaining-it-to-a-5-year-old-4481f5aba466)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
@@ -771,6 +772,9 @@ Programming
 * [EMOCON 2016 F/W](https://live.weirdx.io/)
   * [EMOCON 2016 F/W 아카이브](https://github.com/weirdmeetup/emocon/tree/gh-pages/2016fw/slides)
 * [EMOCON S/S 2017 후기](https://ash84.net/2017/04/24/emocon-ss-2017/)
+* F8
+  * [Facebook F8 2019 후기 #1](https://blog.outsider.ne.kr/1443)
+  * [Facebook F8 2019 후기 #2](https://blog.outsider.ne.kr/1444)
 * Google
   * [Codelabs - Google I/O 2017](https://codelabs.developers.google.com/io2017)
   * [The future of computing: a conversation with John Hennessy (Google I/O '18)](https://www.youtube.com/watch?v=Azt8Nc-mtKM)
