@@ -320,6 +320,7 @@ AWS
 * [AWS Auto Cleanup - Open source application to programatically clean your AWS resources based on a whitelist and time to live (TTL) settings](https://github.com/servian/aws-auto-cleanup)
 * [20190418 Read Replicas and Django DB Router - AWS Summit Seoul 2019](https://www.slideshare.net/addnull/20190418-aws-summit-seoul-2019-hbsmith)
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://medium.com/hbsmith/amazon-connect%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-outbound-call-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-93ab4ed39f57)
+* [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
@@ -430,6 +431,7 @@ AWS
 * [AWS Serverless architecture을 응용한 안정적인 DW 플랫폼 구현](http://story.haezoom.com/?p=1020)
 * [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
+* [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 * [AWS lambda tip: cold start](https://dongqui.github.io/posts/labmda-tip)
 * [I wanted freeCodeCamp Toronto’s Twitter to tweet quotes, so I made a free bot to do it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4)
@@ -449,6 +451,7 @@ AWS
 * [Build a Ruby based Lambda Function](https://hackernoon.com/build-a-ruby-based-lambda-function-44f3d006fef6)
 * [프로그래밍 언어 루비(Ruby) 공식 지원을 발표](https://www.44bits.io/ko/post/news--announce-ruby-support-for-aws-lambda)
 * [AWS 람다 커스텀 런타임 만들기(feat. 루비 2.6.0)](https://www.44bits.io/ko/post/how-to-create-aws-lambda-custom-runtime-feat-ruby-2-6-0)
+* [Serverless Ruby on AWS Lambda with the Jets framework](https://hackernoon.com/serverless-ruby-on-aws-lambda-with-the-jets-framework-989147f9d07b)
 * [re:Invent 2018 - ALB 타깃그룹의 새로운 타입으로 AWS 람다 추가](https://www.44bits.io/ko/post/aws-alb-target-group-aws-lambda-target-type-released)
 * [re:Invent 2018 - AWS 람다, 함수 간 공유 가능한 레이어 기능 지원](https://www.44bits.io/ko/post/news--reinvent-2018-aws-lambda-layer)
 * [AWS 람다 레이어 공유하기 - AWS 람다 함수의 공통 부분을 다른 계정이나 조직과 공유하는 방법](https://www.44bits.io/ko/post/sharing-aws-lambda-layer)
