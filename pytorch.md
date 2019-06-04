@@ -209,6 +209,7 @@ PyTorch
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [pythia - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)](https://github.com/facebookresearch/pythia)
+  * [Facebook open-sources deep learning framework Pythia for image and language models](https://venturebeat.com/2019/05/21/facebook-open-sources-deep-learning-framework-pythia-for-image-and-language-models)
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 * [PyTorch-BigGraph - Software used for generating embeddings from large-scale graph-structured data. https://torchbiggraph.readthedocs.io ](https://github.com/facebookresearch/PyTorch-BigGraph)
   * [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs)
@@ -232,6 +233,7 @@ PyTorch
 * [torchgpipe - A GPipe implementation in PyTorch https://torchgpipe.readthedocs.io ](https://github.com/KakaoBrain/torchgpipe)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
+  * [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/)
 * [UnsupervisedMT - Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
 
 # Reinforcement Learning, RL
