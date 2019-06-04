@@ -124,6 +124,7 @@ Docker
   * [NexClipper - the container and container orchestration monitoring and performance management solution specialized in Docker, DC/OS, Mesosphere, Kubernetes](https://github.com/NexClipper/NexClipper)
   * Nginx
     * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
+    * [도커가 답이다](https://jybaek.tistory.com/803)
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
     * [Docker swarm development environment for customized medical study app](https://github.com/jinseob2kim/swarm-setting)
