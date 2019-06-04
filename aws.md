@@ -19,6 +19,7 @@ AWS
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
 * [AWS Amplify와 React로 어플리케이션 만들기](https://jason0853.github.io/aws/getting-started-with-aws-amplify-and-react/)
+* [Amplify Hands-on](https://docs.google.com/presentation/d/1msxmDS03cLSIwirmEWqBv6S7bUB5ojgQUcJKjVcJnR0/mobilepresent)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
@@ -321,6 +322,7 @@ AWS
 * [20190418 Read Replicas and Django DB Router - AWS Summit Seoul 2019](https://www.slideshare.net/addnull/20190418-aws-summit-seoul-2019-hbsmith)
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://medium.com/hbsmith/amazon-connect%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-outbound-call-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-93ab4ed39f57)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
+* [Deep learning for cheap: Jupyter + AWS Spot](https://medium.com/@sdhnshu/pro-deep-learning-setup-at-90-off-e9e68f5e84ec)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
