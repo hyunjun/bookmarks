@@ -690,6 +690,7 @@ Docker
 * [Podman - Manage pods, containers, and container images](https://podman.io/)
   * [Replacing Docker With Podman](https://www.youtube.com/watch?v=N0hSn5EwW8w)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
+  * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
