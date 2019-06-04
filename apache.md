@@ -75,6 +75,7 @@ Apache
 
 # [Camel](https://github.com/apache/camel)
 * [Apache Camel 소개](https://medium.com/@OutOfBedlam/apache-camel-%EC%86%8C%EA%B0%9C-1b20e6e12a93)
+* [Streaming in the Cloud With Camel and Strimzi](http://blog.joshdreagan.com/2019/05/30/streaming_in_the_cloud_with_camel_and_strimzi/)
 
 # [Commons](https://commons.apache.org/)
 
