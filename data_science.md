@@ -277,6 +277,7 @@ Data Science
 * [Data Science with Watson Analytics](https://medium.com/analytics-vidhya/data-science-with-watson-analytics-7dddcc34d3a9)
 * [데이콘 주최 1회 펀다 상점매출 예측 대회 우승자 코드](https://dacon.io/code1/58793)
 * [데이터 사이언스 Meetup](https://tidyverse-korea.github.io/r-meetup-x-presser/)
+* [The penalty of missing values in Data Science](https://medium.com/free-code-camp/the-penalty-of-missing-values-in-data-science-91b756f95a32)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -420,6 +421,7 @@ Data Science
 * **[Accelerator](https://github.com/eBay/accelerator)** 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
+* datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [Mandrova: Sensor Data Generator for Python3](https://github.com/makinarocks/Mandrova)
@@ -479,6 +481,7 @@ Data Science
 * [How Cambridge Analytica’s Facebook targeting model really worked – according to the person who built it](https://theconversation.com/how-cambridge-analyticas-facebook-targeting-model-really-worked-according-to-the-person-who-built-it-94078)
   * [페이스북의 ‘좋아요’는 어떻게 프로파일링에 사용되었는가](http://newspeppermint.com/2018/04/03/fblikeprofiling/)
 * [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7) 기초를 이해할 수 있는 글
+* [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
