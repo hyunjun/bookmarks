@@ -118,6 +118,7 @@ Deep Learning
   * [ICLR 2017 workshop track open review](http://nuit-blanche.blogspot.com/2017/02/iclr-2017-workshop-track-open-review.html)
   * [Learning to remember rare events](https://www.slideshare.net/ssuser06e0c5/learning-to-remember-rare-events)
 * [ICLR 2019 Notes](https://david-abel.github.io/notes/iclr_2019.pdf)
+* [ICLR 2019 리뷰: 프로그램 소개 및 단순하고 효과적인 Network Pruning 방법론을 다룬 Best Paper 리뷰](http://research.sualab.com/review/2019/05/23/ICLR-2019-best-paper-review.html)
 * [Deep Learning for Computer Vision Barcelona](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
@@ -1896,6 +1897,7 @@ CVPR2016)
 * **[Papers with code. Sorted by stars. Updated weekly](https://github.com/zziz/pwc)**
 * [hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs](http://hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs/)
 * [ML/DL/RL Papers](https://www.notion.so/d4aacd7f00564116bb707e09618f4e3c)
+* [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io//blog/EfficientNet-review/)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
