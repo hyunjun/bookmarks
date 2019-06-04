@@ -409,6 +409,7 @@ Algorithm
 * [How Recursion Works — explained with flowcharts and a video](https://medium.freecodecamp.org/how-recursion-works-explained-with-flowcharts-and-a-video-de61f40cb7f9)
 * [재귀의 폭풍](https://docs.google.com/presentation/d/e/2PACX-1vQPuwHXnlsmWSRgLTgpKXQouxwXuLJFNmBX9j2WthdAh2J8-_u_0wtU7CLEog7SbzH7SJNTqCAPgblu/pub)
 * [Recursive Programming](https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0)
+* [How to build up an intuition for recursion](https://medium.com/free-code-camp/how-to-build-up-an-intuition-for-recursion-986032c2f6ad)
 
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
