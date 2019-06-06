@@ -577,6 +577,7 @@ Programming
 * [어디에나 있지만 어디에도 없는 LINE 게임의 분석 환경](https://engineering.linecorp.com/ko/blog/line-game-data-analysis/) Line 게임의 데이터 설계, 수집, 처리, 분석
 * [Serveless를 위한 오픈소스 KNative #1 소개 & Serving](https://bcho.tistory.com/1322)
 * [Serveless를 위한 오픈소스 KNative #2 Eventing](https://bcho.tistory.com/1323)
+* [7 open source platforms to get started with serverless computing](https://www.redhat.com/sysadmin/get-started-serverless-computing)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
