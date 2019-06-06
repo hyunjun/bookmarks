@@ -199,6 +199,9 @@ Keras
 * [리뷰에는 이미 별점이 있는데 별점을 또 예측해서 뭘 하나요](https://songys.github.io/2019LangCon/data/jmkim.pdf)
 * [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
 
+# Book
+* [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
+
 # CNN
 * [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/)
 * [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5)
