@@ -2058,6 +2058,7 @@ Javascript
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
+* [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
 
 ## React SocketIO
 * [socket.io](http://socket.io/)
