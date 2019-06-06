@@ -534,6 +534,7 @@ Machine Learning
 * [(My) Machine Learning Workflow](https://medium.com/datadriveninvestor/my-machine-learning-workflow-7576f7dbcef3)
 * [Interpretable Machine Learning](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
 * [machine learning](https://csinva.github.io/pres/189/)
+* [10 Best Machine Learning YouTube Videos](https://www.springboard.com/blog/machine-learning-youtube)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
