@@ -413,6 +413,7 @@ Algorithm
 * [재귀의 폭풍](https://docs.google.com/presentation/d/e/2PACX-1vQPuwHXnlsmWSRgLTgpKXQouxwXuLJFNmBX9j2WthdAh2J8-_u_0wtU7CLEog7SbzH7SJNTqCAPgblu/pub)
 * [Recursive Programming](https://towardsdatascience.com/finding-a-recursive-solution-184784b0aea0)
 * [How to build up an intuition for recursion](https://medium.com/free-code-camp/how-to-build-up-an-intuition-for-recursion-986032c2f6ad)
+* [Finally! A proven strategy for quickly solving any recursive problem...](https://www.byte-by-byte.com/recursion-sp-closed/)
 
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
