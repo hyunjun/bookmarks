@@ -324,6 +324,7 @@ AWS
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [Deep learning for cheap: Jupyter + AWS Spot](https://medium.com/@sdhnshu/pro-deep-learning-setup-at-90-off-e9e68f5e84ec)
 * [How to build Authentication using Cosmic JS, Vue, and Lambda](https://hackernoon.com/how-to-build-authentication-using-cosmic-js-vue-and-lambda-e0e243d9b90b)
+* [레벨노가다 linux 스마트폰으로 리눅스를 공부하자 : (1) 아마존 AWS로 리눅스 컴퓨터 준비하기](https://medium.com/@lanoir42/%EB%A0%88%EB%B2%A8%EB%85%B8%EA%B0%80%EB%8B%A4-linux-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90-1-%EC%95%84%EB%A7%88%EC%A1%B4-aws%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-3c8173620c6a)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
