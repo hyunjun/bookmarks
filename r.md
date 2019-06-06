@@ -449,6 +449,7 @@ R
 * purrr
   * [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
   * [번역 폴더안의 csv 파일들을 {purrr}와 {readr}을 이용해서 한방에 불러오기](https://mrchypark.github.io/post/번역-폴더안의-csv-파일들을-purrr-와-readr-을-이용해서-한방에-불러오기)
+  * [purrrogress - Add progress bars to mapping functions](https://github.com/halpo/purrrogress)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
