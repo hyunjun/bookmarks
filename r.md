@@ -305,6 +305,7 @@ R
 * [#딥러닝, 정말 #블랙박스 일까요? CNN 계층을 거친 결과를 시각화 하면서!! 블랙박스를 살펴봅시다](https://www.youtube.com/watch?v=F-0CykkGZqM)
 * [최종목표는 R챗봇이다!!원-핫 인코딩 & 워드임베딩으로 자연어 처리를 배워보고,함께 R언어로 실습해 봅시다](https://www.youtube.com/watch?v=ZNjpa81CNzM)
 * [다차원 배열 : 변환하고 요약하기](http://ds.sumeun.org/?p=1777)
+* [=, \<-, \<\<- ](http://ds.sumeun.org/?p=1802)
 * [아직도#Word2Vec? 이제는 #GloVe알고리즘! 훈련데이터가 부족해도 학습은 멈추지 않습니다 :)](https://www.youtube.com/watch?v=VA9LDbMVFp0)
 
 # Baseball
