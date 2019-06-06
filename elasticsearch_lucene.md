@@ -310,6 +310,7 @@ ElasticSearch - Lucene
 * [Removal of Mapping Types in Elasticsearch 6.0](https://www.elastic.co/blog/removal-of-mapping-types-elasticsearch)
 * [Elastic 6.3 에서 상용 라이센스 활성](http://kimjmin.net/2018/08/2018-08-install-security-over-es63/)
 * [Install and run Elastic APM](https://www.elastic.co/guide/en/apm/get-started/current/install-and-run.html)
+* [Elasticsearch 소개 - 설치](https://astrod.github.io/elasticsearch/2019/06/05/Elasticsearch-%EC%86%8C%EA%B0%9C/)
 * [Elastic Stack 설치 가이드](https://github.com/Kim-Young-Gon/elasticsearch-doc/blob/master/Elasticsearch%EC%84%A4%EC%B9%98.md)
 * [Elastic APM RUM JS Agent is Generally Available](https://www.elastic.co/kr/blog/elastic-apm-rum-js-agent-is-generally-available)
 * [애플리케이션 성능 모니터링(Application Performance Monitoring, APM)이란?](https://www.elastic.co/kr/blog/monitoring-applications-with-elasticsearch-and-elastic-apm)
