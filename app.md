@@ -471,6 +471,7 @@ App
 * [debit and credit](https://debitandcredit.app/) 가계부
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [edgeview](edgeview.co.kr/)
+* [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
 * [handbrake](https://handbrake.fr/)
@@ -507,7 +508,11 @@ App
   * [carbon - Create and share beautiful images of your source code](https://carbon.now.sh)
     * [github.com/dawnlabs/carbon](https://github.com/dawnlabs/carbon)
 * Screenshot
+  * [CapturePlus](http://captureplus.net/)
+  * [Greenshot](https://getgreenshot.org/)
   * [Paparazzi! is a small utility for macOS that makes screenshots of webpages](https://derailer.org/paparazzi/)
+  * [픽픽 (PicPick)](https://picpick.app/ko/)
+  * [Ptr Scr](https://www.fiastarta.com/PrtScr/)
   * [Screely instantly turns your screenshot or design into a beautiful image you can share anywhere](https://www.screely.com/) 간단한 스크린샷 or 스케치를 서비스에 넣으면 아름답고 변경
   * [screen.guru - Take clean screenshot of any websites](https://screen.guru/)
   * Snagit
