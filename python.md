@@ -2784,6 +2784,7 @@ Python
 * [Pandas - 1880 ~ 2010 년까지 출생 자료 분석 - 남/여 출생 수](https://developer-ankiwoong.tistory.com/268)
 * [Pandas - Json Data 분석 4(Data 시각화)](https://developer-ankiwoong.tistory.com/272)
 * [Pandas - 영화 진흥원 API 상영 순위 분석](https://developer-ankiwoong.tistory.com/291)
+* [Best practices with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
