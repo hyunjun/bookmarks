@@ -465,6 +465,8 @@ App
 * [cactusformac.com](http://cactusformac.com/)
 * [Coffeefy: 스타벅스 와이파이 자동 접속 애플리케이션](https://taegon.kim/archives/5720)
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
+* compress
+  * [Password Protect Zip Files in Mac OS X](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/)
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
 * [debit and credit](https://debitandcredit.app/) 가계부
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
