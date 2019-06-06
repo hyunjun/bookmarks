@@ -330,6 +330,9 @@ Algorithm
 * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
 * [Ford-Fulkerson in 5 minutes — Step by step example](https://www.youtube.com/watch?v=Tl90tNtKvxs)
 * [Top 10 Graph Algorithms you must know before Programming Interview | GeeksforGeeks](https://www.youtube.com/watch?v=RqQBh_Wbcu4)
+* [평생의 여행을 떠나기 위해 자동차에 뛰어 들라! (1 부)](https://community.jmp.com/t5/JMP-Blog/Jump-into-the-car-for-the-road-trip-of-a-lifetime-part-1/ba-p/76419)
+* [평생의 여행을 떠나기 위해 자동차에 뛰어 들라! (2 부)](https://community.jmp.com/t5/JMP-Blog/Jump-into-the-car-for-the-road-trip-of-a-lifetime-part-2/ba-p/77671)
+* [평생의 여행을 떠나기 위해 자동차에 뛰어 들라! (3 부)](https://community.jmp.com/t5/JMP-Blog/Jump-into-the-car-for-the-road-trip-of-a-lifetime-Part-3/ba-p/79652)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
