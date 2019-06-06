@@ -47,6 +47,8 @@ Docker
   * [Part 6 Pump up the Volumes: Data in Docker](https://towardsdatascience.com/pump-up-the-volumes-data-in-docker-a21950a8cd8)
 * [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24) php 예제
 * [Docker 101: Fundamentals and Practice](https://medium.freecodecamp.org/docker-101-fundamentals-and-practice-edb047b71a51t)
+* [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
+* [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
@@ -243,7 +245,6 @@ Docker
 * [Using Docker to Run Python](https://civisanalytics.com/blog/engineering/2014/08/14/Using-Docker-to-Run-Python/)
 * [도커를 이용한 웹서비스 무중단 배포하기](http://subicura.com/2016/06/07/zero-downtime-docker-deployment.html)
 * [Docker, AWS-ECR, Jenkins를 이용해서 웹서비스 무중단 배포하기](https://redice-inc.github.io/deploy-web-service-with-docker/)
-* [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Jérôme Petazzoni - Introduction to Docker and containers - PyCon 2016](https://www.youtube.com/watch?v=ZVaRK10HBjo)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 * [도커(Docker)로 루비 온 레일스 어플리케이션 배포하기 (1) 어플리케이션 이미지 만들기](http://blog.nacyot.com/articles/2014-08-08-rails-on-docker/)
@@ -264,18 +265,6 @@ Docker
   * [bash](https://docs.docker.com/samples/library/bash/)
   * [Docker with shell script or Makefile](https://ypereirareis.github.io/blog/2015/05/04/docker-with-shell-script-or-makefile/)
   * [docker run a shell script in the background without exiting the container](http://stackoverflow.com/questions/31570208/docker-run-a-shell-script-in-the-background-without-exiting-the-container#answer-31570980)
-* troubleshooting
-  * `device or resource busy` [practice - docker version 변경을 통해 해결](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7#file-device_or_resource_busy-md)
-  * `kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1`
-    * kernel bug, not yet resolved
-    * [github.com/moby/moby/issues/5618](https://github.com/moby/moby/issues/5618)
-  * `Target WSGI script ... cannot be loaded as Python module` [practice; -v로 연결한 directory의 permission 문제](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7#file-permission-md)
-    * [Docker & File Permissions](https://serversforhackers.com/c/dckr-file-permissions)
-  * [Docker for Mac에서 No space left on device 오류](https://blog.outsider.ne.kr/1295)
-  * [Docker cache and apt-get update](http://lenguyenthedat.com/docker-cache/)
-    * `docker build ...`가 `returned a non-zero code: 100`로 끝날 때의 해결책
-    * Redhat 7.2, docker 1.10.3에서는 해결되지 않음
-  * [Troubleshooting Container Networking](https://success.docker.com/article/Troubleshooting_Container_Networking)
 * [내가 Docker를 시작했던 방법](http://realignist.me/code/2017/06/14/docker-my-usecase.html)
 * [특정 포트의 실행 대기하기](http://ohgyun.com/749)
 * [컨테이너에 HTTP 프록시 적용하기](http://ohgyun.com/747)
@@ -763,24 +752,34 @@ Docker
 * [Comparing Triton containers to VMs and bare metal servers](https://www.joyent.com/blog/understanding-triton-containers)
 
 # Troubleshooting
+* [practice - docker memory full with python logging](https://github.com/hyunjun/practice/tree/master/docker/python_memory_overflow)
 * `Bind address already in use`
   * container를 stop 했는데도, 해당 container가 사용하던 port를 반환받지 못함.  어느 정도 시간이 지난 후 다시 run 하면 되긴 하는데, 그 시간이 일정하지 않음.  짧은 경우도 있고 제법 긴 경우(몇 분?)도 있음
   * [github.com/moby/moby/issues/8714](https://github.com/moby/moby/issues/8714)
+* `device or resource busy` [practice - docker version 변경을 통해 해결](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7#file-device_or_resource_busy-md)
 * [`docker: Error response from daemon: Container command '...' could not be invoked`](https://github.com/docker/docker/issues/20789)
   * Does the entrypoint exist?
   * Is it executable?
+* [Docker for Mac에서 No space left on device 오류](https://blog.outsider.ne.kr/1295)
+  * [Docker for mac eating disk space](https://www.chrissearle.org/2016/09/11/docker-for-mac-eating-disk-space/) 그냥 해당 directory 삭제 후 재시작
+* [Docker cache and apt-get update](http://lenguyenthedat.com/docker-cache/)
+  * `docker build ...`가 `returned a non-zero code: 100`로 끝날 때의 해결책
+  * Redhat 7.2, docker 1.10.3에서는 해결되지 않음
+  * [Docker.qcow2 never shrinks - disk space usage leak in docker for mac](https://github.com/docker/for-mac/issues/371) 2017.03.17 현재, 곧 1년이 되며 여전히 해결 못함
+* [Docker daemon memory leak due to logs from long running process](https://stackoverflow.com/questions/27628276/docker-daemon-memory-leak-due-to-logs-from-long-running-process)
 * `Error response from daemon: Get ...: unauthorized: incorrect username or password`
   * `docker login --username <username>`
+* iTerm3.0 설치 후 docker quickstart terminal이 정상 동작하지 않을 때; [Replace /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/iterm.scpt with this](https://gist.github.com/gnachman/49cd5f8bcadc874ea8fc)
 * `kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1`
+  * kernel bug, not yet resolved
+  * [github.com/moby/moby/issues/5618](https://github.com/moby/moby/issues/5618)
   * kernel bug로 cent os 7.x에서 docker를 사용하는 경우 계속 발생(ubuntu 쓰면 안 나타난다고 함)
   * service 영향은 상황마다 달라서 일률적으로 알 수 없다고 함
   * [www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to](https://www.reddit.com/r/docker/comments/6j2s2s/kernelunregister_netdevice_waiting_for_lo_to/)
   * [Docker on CentOS 7.2: kernel:unregister_netdevice: waiting for lo to become free. Usage count = 1](https://stackoverflow.com/questions/43153503/docker-on-centos-7-2-kernelunregister-netdevice-waiting-for-lo-to-become-free)
-* [Docker for mac eating disk space](https://www.chrissearle.org/2016/09/11/docker-for-mac-eating-disk-space/) 그냥 해당 directory 삭제 후 재시작
-  * [Docker.qcow2 never shrinks - disk space usage leak in docker for mac](https://github.com/docker/for-mac/issues/371) 2017.03.17 현재, 곧 1년이 되며 여전히 해결 못함
-* iTerm3.0 설치 후 docker quickstart terminal이 정상 동작하지 않을 때; [Replace /Applications/Docker/Docker Quickstart Terminal.app/Contents/Resources/Scripts/iterm.scpt with this](https://gist.github.com/gnachman/49cd5f8bcadc874ea8fc)
-* [Docker daemon memory leak due to logs from long running process](https://stackoverflow.com/questions/27628276/docker-daemon-memory-leak-due-to-logs-from-long-running-process)
-* [practice - docker memory full with python logging](https://github.com/hyunjun/practice/tree/master/docker/python_memory_overflow)
+* `Target WSGI script ... cannot be loaded as Python module` [practice; -v로 연결한 directory의 permission 문제](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7#file-permission-md)
+  * [Docker & File Permissions](https://serversforhackers.com/c/dckr-file-permissions)
+* [Troubleshooting Container Networking](https://success.docker.com/article/Troubleshooting_Container_Networking)
 
 # Vagrant
 * [Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)
