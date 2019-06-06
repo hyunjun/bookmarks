@@ -410,6 +410,7 @@ Vision
 * [Cut-And-Save-Faces](https://github.com/Unkn03nUser/Cut-And-Save-Face)
 * [Color Identification in Images](https://towardsdatascience.com/color-identification-in-images-machine-learning-application-b26e770c4c71)
 * [안드로이드 OpenCV 사용하기](https://brunch.co.kr/@mystoryg/76)
+* [안드로이드 OpenCV 실시간 얼굴 검출](https://brunch.co.kr/@mystoryg/77)
 
 # OpenGL
 * [open.gl](https://open.gl/)
