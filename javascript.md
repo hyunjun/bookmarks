@@ -2350,3 +2350,4 @@ Javascript
 * [Vue.js 개발 생산성을 높여주는 도구 3가지](https://joshua1988.github.io/web-development/vuejs/boost-productivity/)
 * [UI Component Framework의 장단점(feat. Vuetify)](https://armadillo-dev.github.io/ui/ux/benefit-and-cost-of-ui-component-framework/)
 * [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui/)
+* [주니어 개발자가 반응형 레이아웃 리팩토링한 썰.txt](https://wormwlrm.github.io/2019/06/06/Refactoring-360-panorama-viewer.html)
