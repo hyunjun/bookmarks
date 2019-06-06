@@ -482,6 +482,7 @@ Data Science
   * [페이스북의 ‘좋아요’는 어떻게 프로파일링에 사용되었는가](http://newspeppermint.com/2018/04/03/fblikeprofiling/)
 * [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7) 기초를 이해할 수 있는 글
 * [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
+* [이상열, Interpretable Recommender System 개발 사례연구, NDC 2019](https://www.slideshare.net/ssuser593481/ndc19interpretable-recommender-system-ndc2019/ssuser593481/ndc19interpretable-recommender-system-ndc2019)
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
