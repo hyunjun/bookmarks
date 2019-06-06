@@ -496,6 +496,8 @@ Docker
 * [Official Kubernetes on CoreOS Guides and Tools](https://coreos.com/blog/official-kubernetes-on-coreos/)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
+* 쿠버네티스 패키지 매니저 Helm
+  * [#1 - 개념, 설치](https://bcho.tistory.com/1335)
 * [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * [Getting Started with Kubernetes](https://dzone.com/refcardz/kubernetes-essentials)
@@ -603,6 +605,9 @@ Docker
 * [2018 Cloud Hackathon Tech Session - Kubernetes](https://www.youtube.com/watch?v=rdyUAduXi48)
 * [쿠버네티스 개념 설명과 에코 시스템 (Spinnaker, Istio, KNative 설명)](http://bcho.tistory.com/1281)
 * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
+* 서버리스 오픈소스 - knative
+  * [#1 소개 & Serving](https://bcho.tistory.com/1322)
+  * [#2 Eventing](https://bcho.tistory.com/1323)
 * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
 * [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
 * [An 8-minute introduction to K8S](https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184)
