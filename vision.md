@@ -231,6 +231,8 @@ Vision
 * [구글 코랄 Edge TPU 가속 모듈 실시간 영상 디텍팅 분류 모델 실행해보기](https://pmice.tistory.com/337)
 * [coral usb accelerator + Raspberry pi zero w](https://mazdah.tistory.com/852)
 * [엑스레이 판독해주는 인공지능 챗봇 만든 개발자](https://smartaedi.tistory.com/380)
+* [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
+  * [CPU RayTracer based on `Ray-Tracing in One Weekend`](https://github.com/liliilli/SH-RayTracer)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
