@@ -1412,6 +1412,7 @@ Python
 * [Django Web Development with Python Introduction](https://www.youtube.com/watch?v=yD0_1DPmfKM&list=PLQVvvaa0QuDe9nqlirjacLkBYdgc2inh3)
 * [Django 2.2 LTS 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-2-2-release-note-summary)
 * [Serving React and Django together](https://hackernoon.com/serving-react-and-django-together-2089645046e4)
+* [장고(django) 설치하기](https://dev-yakuza.github.io/ko/django/installation)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
