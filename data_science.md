@@ -79,6 +79,7 @@ Data Science
 * [The democratization of predictive analytics](http://www.cio.com/article/2913810/predictive-analytics/the-democratization-of-predictive-analytics.html#tk.rss_all)
 * [Tracking Economic Development with Open Data and Predictive Algorithms](http://www.socrata.com/tech-blog-posts/tracking-economic-development-with-open-data-and-predictive-algorithms/)
 * [Predictive maintenance](https://github.com/lifesailor/data-driven-predictive-maintenance/blob/master/README.md)
+* [Data Science for Startups: Predictive Modeling](https://towardsdatascience.com/data-science-for-startups-predictive-modeling-ec88ba8350e9)
 * [공공데이터를 연결하라…‘LOD’](http://www.bloter.net/archives/225165)
 * [GE산업인터넷 플랫폼, 프레딕스™(Predix™)에 대해 알아야 할 모든 것](http://www.gereports.kr/all-you-need-to-know-about-predix-industrial-internet-platform/)
 * [articles](http://www.analyticbridge.com/profiles/blogs/friday-reading-1)
