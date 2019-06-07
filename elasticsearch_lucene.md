@@ -266,6 +266,7 @@ ElasticSearch - Lucene
 * [Lessons from our journey to enable global code search with Elasticsearch on GitLab.com](https://about.gitlab.com/2019/03/20/enabling-global-search-elasticsearch-gitlab-com/)
 * **[엘라스틱서치 클러스터로 수십억 건의 데이터 운영하기](https://www.slideshare.net/heungrae_kim/ss-123344339)** 실제 운용에 바탕한 여러가지 설명과 tip
 * [Introducing the Elastic Enterprise Search Beta: Search Everything, Anywhere](https://www.elastic.co/kr/blog/elastic-enterprise-search-beta1-released)
+* [Inverted Index 이해하기](https://cloudingdata.tistory.com/45)
 
 # Docker
 * Dockerfile
