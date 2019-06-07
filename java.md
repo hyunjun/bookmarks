@@ -106,6 +106,7 @@ Java
 * [Java 대용량 엑셀 업로드](https://tmondev.blog.me/221505398958)
 * [Software impedance explained](https://medium.freecodecamp.org/software-impedance-6796cc65758b)
 * [Line Messaging API를 활용한 챗봇 만들기](https://dbbymoon.tistory.com/2)
+* [Annotation과 Reflection을 이용한 챗봇 컨트롤러 만들기](https://dbbymoon.tistory.com/5)
 * [5월 우아한 Tech 세미나 후기](http://woowabros.github.io/woowabros/2019/05/09/techseminar-java-performance.html) 성능, 라이센스, 모니터링
 
 # API
