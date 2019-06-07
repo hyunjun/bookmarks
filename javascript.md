@@ -486,6 +486,7 @@ Javascript
 * [Iterable과 Iterator 이해하기](https://armadillo-dev.github.io/javascript/what-is-iterable-and-iterator)
 * [유용한 자바스크립트 배열 함수 find, includes, flat](https://hyeonseok.com/soojung/javascript/2019/05/23/852.html)
 * [Writing a simple transpiler in JavaScript](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74)
+* [The Role of JavaScript in the Modern Web](https://medium.com/better-programming/the-role-of-javascript-in-the-modern-web-ff0f6961829a)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1197,6 +1198,7 @@ Javascript
   * [npm 소개 및 활용 ft. package.json](https://blog.l0gic.me/npm-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%99%9C%EC%9A%A9/)
   * [노드를 더 우아하게. npm 이야기](http://jybaek.tistory.com/717)
   * [package.json과 package-lock.json의 혼재](https://medium.com/@pyeonjy97/package-json%EA%B3%BC-package-lock-json%EC%9D%98-%ED%98%BC%EC%9E%AC-83b80518c453)
+  * [Do I really need package-lock.json file?](https://hackernoon.com/do-i-really-need-package-lock-json-file-321ce29e7d2c)
   * [Mastering the Art of NPM](https://hackernoon.com/mastering-the-art-of-npm-ca06357150cb)
   * [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
   * [npm에 새로 추가된 audit 기능](https://blog.outsider.ne.kr/1375)
