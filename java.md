@@ -762,6 +762,7 @@ Java
   * [스프링부트로 쇼핑몰 만들기 - 3주차](https://jojoldu.tistory.com/393)
   * [Getting started with Spring Boot – Part 1](https://blogs.sap.com/2016/10/14/getting-started-spring-boot-part-1)
   * [Getting started with Spring Boot – Part 2](https://blogs.sap.com/2016/12/15/getting-started-with-spring-boot-part-2/)
+  * [Spring Boot에서 Repository로 DynamoDB 조작하기 (1) - 설정부터 실행까지](http://woowabros.github.io/study/2019/06/05/spring-data-dynamodb-1.html)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
