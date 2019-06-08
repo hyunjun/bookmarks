@@ -487,6 +487,7 @@ Javascript
 * [유용한 자바스크립트 배열 함수 find, includes, flat](https://hyeonseok.com/soojung/javascript/2019/05/23/852.html)
 * [Writing a simple transpiler in JavaScript](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74)
 * [The Role of JavaScript in the Modern Web](https://medium.com/better-programming/the-role-of-javascript-in-the-modern-web-ff0f6961829a)
+* [How to code a chatbot tailored for web apps like Google Maps](https://medium.com/free-code-camp/how-to-code-a-chatbot-tailored-for-web-apps-like-google-maps-cf97fc090676)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1504,6 +1505,7 @@ Javascript
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
 
 # [React](http://reactkr.github.io/react)
+* [React 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리](https://ko.reactjs.org/)
 * [egoing.github.io/react-tutorial-example](https://egoing.github.io/react-tutorial-example)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
 * [리액트 quick start 노트](https://www.haruair.com/blog/4303)
@@ -1753,6 +1755,7 @@ Javascript
 * [How to destructure the fundamentals of React Hooks](https://medium.freecodecamp.org/how-to-destructure-the-fundamentals-of-react-hooks-d13ff6ea6871)
 * [react-redux 에서 Hooks 사용하기](https://velopert.com/3726)
 * [react-redux 에서 Hooks 사용하기](https://velog.io/@velopert/react-redux-hooks)
+* [react-redux의 hook API 미리 써보기](https://godsenal.com/posts/react-redux%EC%9D%98-hook-API-%EB%AF%B8%EB%A6%AC-%EC%8D%A8%EB%B3%B4%EA%B8%B0/)
 * [React 16.8 with Hook Implementation](https://hackernoon.com/react-16-8-with-hook-implementation-212220171685)
 * [How to Build a Todo List with React Hooks](https://medium.freecodecamp.org/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b)
 * [React Hooks](https://www.youtube.com/playlist?list=PL7jH19IHhOLPDyuhF_fLCt_pKvtuLI5qX)
@@ -1854,6 +1857,7 @@ Javascript
 * [앗! 리액트 + 하이차트로 차트를 그렸는데 차트가 갱신이 안되네!?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EC%95%97-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%95%98%EC%9D%B4%EC%B0%A8%ED%8A%B8%EB%A1%9C-%EC%B0%A8%ED%8A%B8%EB%A5%BC-%EA%B7%B8%EB%A0%B8%EB%8A%94%EB%8D%B0-%EC%B0%A8)
 * [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [How to build a customer support live chat widget with React](https://medium.com/free-code-camp/how-to-build-a-customer-support-live-chat-widget-with-react-ca228b3cea11)
+* [React ZeroConfig!](https://www.notion.so/30e18396302b4c51ac78485b94084bb3)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2218,6 +2222,7 @@ Javascript
 * [How (and why) you should use Typescript with Node and Express](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
 * [When to use TypeScript: a detailed guide through common scenarios](https://medium.freecodecamp.org/when-to-use-typescript-a-detailed-guide-through-common-scenarios-b0a57e57905)
 * [A crash course in TypeScript](https://medium.freecodecamp.org/a-crash-course-in-typescript-e6bf9c10946)
+* [React, Typescript, Webpack환경에서 번들링 속도 올리기](https://b.luavis.kr/web/speed-up-webpack)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
