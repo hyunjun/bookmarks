@@ -220,6 +220,7 @@
   * [기본 테스트](https://jusths.tistory.com/109)
   * [ug/m3 와 aqi 계산](https://jusths.tistory.com/110)
   * [Firestore 에 올리기](https://jusths.tistory.com/112)
+* [How to Setup a Headless Raspberry Pi](https://hackernoon.com/how-to-setup-a-headless-raspberry-pi-7f2b8b00c790)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
