@@ -1467,6 +1467,7 @@ Python
   * [practice - Refactoring the structure of project, and add test using pytest](https://github.com/hyunjun/practice/commit/fa446d20efac7732e71d0efc50c5bf92d65bbe0a)
   * [Flask에서 Pytest Fixture로 테스트환경 구축하기](https://qodot.github.io/post/flask%EC%97%90%EC%84%9C-pytest-fixture%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
   * [T.D.D로 Flask API 맛보기](https://www.slideshare.net/JIHUNKIM26/tdd-flask-api-90039358))
+  * [다시쓰는 Flask unittest (상편)](https://jybaek.tistory.com/805)
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
