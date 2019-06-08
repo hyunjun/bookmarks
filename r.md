@@ -307,6 +307,7 @@ R
 * [다차원 배열 : 변환하고 요약하기](http://ds.sumeun.org/?p=1777)
 * [=, \<-, \<\<- ](http://ds.sumeun.org/?p=1802)
 * [아직도#Word2Vec? 이제는 #GloVe알고리즘! 훈련데이터가 부족해도 학습은 멈추지 않습니다 :)](https://www.youtube.com/watch?v=VA9LDbMVFp0)
+* [E-mail보내기, 데이터수집을 자동으로? 자동화시스템을 짧은 R코드로 설계 ! 시간과 인건비 절약에 핵심요소](https://www.youtube.com/watch?v=sPVN0aqAjtc)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
