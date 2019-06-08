@@ -991,6 +991,7 @@ Deep Learning
 * [Generative Adversarial Networks (GANs)](http://guertl.me/post/162759264070/generative-adversarial-networks)
 * [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
 * [Audio for Deep Learning version 2.0](https://docs.google.com/presentation/d/1s0qEsT5tKQEalGwmaUk4-sPhJLXIXsy81_n-rakz1ow/mobilepresent)
+* [MelNet A Generative Model for Audio in the Frequency Domain](https://sjvasquez.github.io/blog/melnet/)
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 * [tf-exercise-gan - Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
 * [속고 속이는 게임 - Minimax Game](http://learnai.tistory.com/1)
