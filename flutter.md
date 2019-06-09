@@ -12,6 +12,7 @@ Flutter
 * [What the F\*\*tter!? Understanding Flutter as an Android (Java) Developer](https://proandroiddev.com/what-the-f-tter-understanding-flutter-as-an-android-java-developer-2158086a2bd9)
 * [Announcing Flutter beta 1: Build beautiful native apps](https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0)
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
+* [Learn Dart In A Week With These Free Resources](https://hackernoon.com/learn-dart-in-a-week-with-these-free-resources-b892e5265220)
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
 * [Flutter Tutorials](https://www.youtube.com/playlist?list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV)
 * [Flutter vs React Native- What You Need To Know](https://medium.com/@openGeeksLab/flutter-vs-react-native-what-you-need-to-know-89451da3c90b)
