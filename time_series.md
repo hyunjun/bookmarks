@@ -29,7 +29,9 @@ Time Series
 * [End to End Time Series Analysis and Modelling - Apply moving average, exponential smoothing, and SARIMA for stock prediction](https://towardsdatascience.com/end-to-end-time-series-analysis-and-modelling-8c34f09a3014)
 * [Pandas Series를 활용한 시계열 분석](http://blog.alphasquare.co.kr/221485152373)
 * [Pandas DataFrame을 활용한 시계열 분석](https://blog.naver.com/anthouse28/221491679016)
-* [Everything you can do with a time series @subinium](https://kaggle-kr.tistory.com/30)
+* [Everything you can do with a time series](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
+  * [Everything you can do with a time series @subinium](https://nbviewer.jupyter.org/gist/subinium/26d22a786b0b7d088da63a97bf8e1d44)
+  * [everything-you-can-do-with-a-time-series.ipynb](https://gist.github.com/subinium/26d22a786b0b7d088da63a97bf8e1d44)
 
 # Library
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
