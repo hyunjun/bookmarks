@@ -329,6 +329,7 @@ Programming
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(2)](http://tmondev.blog.me/221006236106)
 * [MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
 * [JSP&Servlet MVC 아키텍처](http://bbigbros.tistory.com/entry/ServletJSP-MVC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+* **[M-V-Whatever 정리 - 1.MVC](https://blog.naver.com/jukrang/221414570067)**
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
