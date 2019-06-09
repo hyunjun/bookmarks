@@ -82,6 +82,7 @@ Data Visualization
 * [Best Data and Big Data Visualization Techniques(KR)](https://databreak.netlify.com/2019-05-06-Best_Data_and_Big_Data_Visualization_Techniques)
 * [NAVER Tech Talk: FE devtalk 14회 (2019년 4월)](https://d2.naver.com/news/9516106)
 * [The Simpsons meets Data Visualization](https://towardsdatascience.com/the-simpsons-meets-data-visualization-ef8ef0819d13)
+* [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -197,6 +198,10 @@ Data Visualization
   * [(2) 롯데리아, 맘스터치](https://blog.naver.com/idjoopal/221513535891)
   * [(3) 분석 & 버거지수 계산](https://blog.naver.com/idjoopal/221519187440)
   * [(4) 버거지수 전국지도](https://blog.naver.com/idjoopal/221519294269)
+* [The Next Level of Data Visualization in Python - How to make great-looking, fully-interactive plots with a single line of Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+  * [Data-Analysis - nbviewer ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
+  * [Data-Analysis - Data Analysis Using Python and a little R](https://github.com/WillKoehrsen/Data-Analysis)
+* [practical-machine-learning-with-python/bonus content/effective data visualization](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/effective%20data%20visualization)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
@@ -241,9 +246,6 @@ Data Visualization
 * [Superset - a data exploration platform designed to be visual, intuitive and interactive](http://superset.incubator.apache.org/)
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
-* [The Next Level of Data Visualization in Python - How to make great-looking, fully-interactive plots with a single line of Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
-  * [Data-Analysis - nbviewer ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
-  * [Data-Analysis - Data Analysis Using Python and a little R](https://github.com/WillKoehrsen/Data-Analysis)
 
 ## Matplotlib
 * examples
