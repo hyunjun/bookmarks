@@ -504,6 +504,7 @@ Interview
 * [jobstart](https://www.jobstart.co/)
 * [jobtrial - Work for 3 days, and decide](http://jobtrial.co/)
 * [lever](https://www.lever.co/)
+* [movnorth.com - A community of global software developers interested in Canada](https://movnorth.com/)
 * [nagaja.net 해외취업 커뮤니티](http://www.nagaja.net/)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [staticjobs.com](https://www.staticjobs.com/)
