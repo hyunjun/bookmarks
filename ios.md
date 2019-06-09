@@ -384,6 +384,7 @@ iOS
 * [Result of call to ... is unused](http://seorenn.blogspot.kr/2018/05/swift-result-of-call-is-unused.html) discardableResult
 * [문자열을 문자 단위로 다루기 | Swift](http://seorenn.blogspot.kr/2018/05/swift-string-index.html)
 * [WWDC 2017 & Fall](https://dailyhotel.io/wwdc-2017-fall-7025da3c7a49)
+* [이것만 알면된다! 개발자가 바라본 WWDC19 총정리](https://fernando.kr/12)
 * [Strings and Characters](http://wlaxhrl.tistory.com/73)
 * [Collection Types](http://wlaxhrl.tistory.com/74)
 * [개발자를 위한 영어 for Swift](https://soojin.ro/blog/english-for-developers-swift)
