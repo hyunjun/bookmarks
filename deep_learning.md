@@ -229,6 +229,7 @@ Deep Learning
   * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
   * [OpenAI GYM atari-py 설치 오류 해결](http://rrbb014.tistory.com/43)
   * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
+  * [Rendering OpenAi Gym in Colaboratory.ipynb](https://colab.research.google.com/drive/1flu31ulJlgiRL1dnN2ir8wGh9p7Zij2t#scrollTo=8nj5sjsk15IT)
   * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://m.blog.naver.com/cjsdyd2000/221263903468)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
@@ -1805,6 +1806,8 @@ Deep Learning
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [The Transformer – Attention is all you need](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need)
 * [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
+* [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
+* [Attn: Illustrated Attention(KR)](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
 * [Computer Vision and Pattern Recognition (cs.CV)](https://scirate.com/arxiv/cs.CV) arXiv에 올라온, CV/PR 주제 논문의 초록만 모아 보여줌
 * MNIST 숫자 인식기 Gaussian Bayesian 확률 모델로 구현
