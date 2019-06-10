@@ -1413,6 +1413,7 @@ Python
 * [Django 2.2 LTS 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-2-2-release-note-summary)
 * [Serving React and Django together](https://hackernoon.com/serving-react-and-django-together-2089645046e4)
 * [장고(django) 설치하기](https://dev-yakuza.github.io/ko/django/installation)
+* [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
