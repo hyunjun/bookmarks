@@ -993,6 +993,7 @@ Deep Learning
 * [Audio & Video Manipulation](http://notes.michaeldempsey.me/post/159418832409/audio-video-manipulation)
 * [Audio for Deep Learning version 2.0](https://docs.google.com/presentation/d/1s0qEsT5tKQEalGwmaUk4-sPhJLXIXsy81_n-rakz1ow/mobilepresent)
 * [MelNet A Generative Model for Audio in the Frequency Domain](https://sjvasquez.github.io/blog/melnet/)
+* [My Qcon.ai talk](https://keunwoochoi.wordpress.com/2019/06/09/my-qcon-ai-talk/) Deep Learning with Audio Signals
 * [A Step-by-Step Guide to Synthesizing Adversarial Examples](http://www.anishathalye.com/2017/07/25/synthesizing-adversarial-examples/)
 * [tf-exercise-gan - Tensorflow implementation of different GANs and their comparisions](https://github.com/sanghoon/tf-exercise-gan)
 * [속고 속이는 게임 - Minimax Game](http://learnai.tistory.com/1)
@@ -1358,6 +1359,7 @@ Deep Learning
     * (linear 타입) Relu 를 쓰면, Squared Error 타입 loss 함수를 써도 saturation 미발생
     * [왜 크로스-엔트로피를 쓸까?](https://www.youtube.com/watch?v=srdDQr07sGg)
 * [Visualising Activation Functions in Neural Networks](https://dashee87.github.io/data%20science/deep%20learning/visualising-activation-functions-in-neural-networks/)
+* [How do you visualize neural network architectures?](https://datascience.stackexchange.com/questions/12851/how-do-you-visualize-neural-network-architectures)
 * [Sketch Simplification](http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/)
 * [Neural Network-based Sketch Simplification](http://hi.cs.waseda.ac.jp:8081/)
 * [논문 요약 - Deep Neural Networks for YouTube Recommendations](http://keunwoochoi.blogspot.com/2016/09/deep-neural-networks-for-youtube.html)
