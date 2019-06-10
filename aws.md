@@ -329,6 +329,7 @@ AWS
   * [(2) 준비한 클라우드 리눅스 컴퓨터에 SSH로 접속하기](https://medium.com/@lanoir42/%EB%A0%88%EB%B2%A8%EB%85%B8%EA%B0%80%EB%8B%A4-linux-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90-2-%EC%A4%80%EB%B9%84%ED%95%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-ssh%EB%A1%9C-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0-14430c754f4f)
 * [그들이 AWS 위에서 Kubernetes 를 운영하는 방법](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8)
 * **[그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)**
+* [Building an End-to-End Serverless Data Analytics Solution on AWS](https://github.com/awskrug/serverless-data-analytics)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
