@@ -2787,6 +2787,7 @@ Python
 * [Pandas - Json Data 분석 4(Data 시각화)](https://developer-ankiwoong.tistory.com/272)
 * [Pandas - 영화 진흥원 API 상영 순위 분석](https://developer-ankiwoong.tistory.com/291)
 * [Best practices with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
+* [SQL과 파이썬 pandas의 비교](https://github.com/ysunmi0427/smdw/blob/master/sql/lecture00-comparison-between-sql-and-pandas.md)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
