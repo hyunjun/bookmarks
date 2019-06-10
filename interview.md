@@ -184,6 +184,7 @@ Interview
 * [Amazon Interview Questions And Answers](https://www.youtube.com/playlist?list=PLqqPVCi6glKa6Hgl-zdXleY4lFsX9tw67)
 * [Amazon Programming Interview Questions](https://aonecode.com/amazon-interview-questions)
 * [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
+* [How To Nail the Amazon Interview: A Practical Guide](https://www.byte-by-byte.com/amazon-interview/)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -380,6 +381,7 @@ Interview
 * [토종한국 뉴글러가 알려주는 구글 취업과정](https://www.youtube.com/watch?v=YXf8IuBfxPo)
 * [The Foobar challenge: Google’s hidden test for developers](https://medium.freecodecamp.org/the-foobar-challenge-googles-hidden-test-for-developers-ed8027c1184)
 * [구글 면접 후기](https://norang.io/diary/interview_review/)
+* [Acing the Google Interview: The Ultimate Guide](https://www.byte-by-byte.com/google-interview/)
 
 # Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
