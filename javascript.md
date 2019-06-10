@@ -488,6 +488,7 @@ Javascript
 * [Writing a simple transpiler in JavaScript](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74)
 * [The Role of JavaScript in the Modern Web](https://medium.com/better-programming/the-role-of-javascript-in-the-modern-web-ff0f6961829a)
 * [How to code a chatbot tailored for web apps like Google Maps](https://medium.com/free-code-camp/how-to-code-a-chatbot-tailored-for-web-apps-like-google-maps-cf97fc090676)
+* [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531) reactive
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
