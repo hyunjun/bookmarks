@@ -636,6 +636,7 @@ Docker
 * [Kubernetes Learning Path](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
 * [TELEPRESENCE FAST, LOCAL DEVELOPMENT FOR KUBERNETES AND OPENSHIFT MICROSERVICES](https://www.telepresence.io/)
   * [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
+  * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
 * [Kubernetes Cluster 업데이트가 쏘아 올린 서비스 장애](https://medium.com/rainist-engineering/updating-k8s-cluster-cause-major-outage-1d79304d63eb)
 
 # Library
