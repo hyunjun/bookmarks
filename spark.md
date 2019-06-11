@@ -361,6 +361,7 @@
 * [Efficient geospatial analysis with Spark](https://medium.com/@karijdempsey/efficient-geospatial-analysis-with-spark-363ba50c5248)
 * [Dealing with null in Spark](https://www.mungingdata.com/apache-spark/dealing-with-null)
 * ['.NET for Apache Spark' Debuts for C#/F# Big Data](https://visualstudiomagazine.com/articles/2019/04/25/net-spark.aspx)
+* [Parallel Cross Validation in Spark](http://blog.madhukaraphatak.com/parallel-cross-validation/)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -590,6 +591,7 @@
 * [Apache Spark 2.0 Preview: Machine Learning Model Persistence by Databricks](https://databricks.com/blog/2016/05/31/apache-spark-2-0-preview-machine-learning-model-persistence.html)
 * [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
 * [An Introduction to Machine Learning with Apache Spark™](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWBA6a9pS0aRsRxju0IfUeG)
+* [Multiple Column Feature Transformations in Spark ML](http://blog.madhukaraphatak.com/multi-column-feature-transformation-spark-ml/)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
 * MLLib
