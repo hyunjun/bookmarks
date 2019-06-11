@@ -328,6 +328,7 @@ Docker
 * [Processes In Containers Should Not Run As Root](https://medium.com/@mccode/processes-in-containers-should-not-run-as-root-2feae3f0df3b)
 * [docker 데이터 디렉터리 변경](https://jybaek.tistory.com/797)
 * [How to Start With Container Using Docker](https://medium.com/@bryantjiminson/how-to-start-with-container-using-docker-1707a07d66cf)
+* [LINE 엔지니어를 지원하는 CaaS 기반 서비스의 현재와 미래](https://engineering.linecorp.com/ko/blog/japan-container-day-v18-12-report/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
