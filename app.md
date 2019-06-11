@@ -195,6 +195,7 @@ App
     * [번역 - 나만의 지킬 테마 만들기](https://paikwiki.github.io/2018/10/create-your-own-jekyll-theme-gem-ko)
   * [reveal-jekyll](https://github.com/tasmo/reveal-jekyll)
   * [번역 - 해커처럼 블로깅하기](http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr)
+  * [Jekyll 블로그 docker로 한방에 올리기](https://jybaek.tistory.com/808)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
