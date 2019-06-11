@@ -330,10 +330,7 @@ AWS
 * [그들이 AWS 위에서 Kubernetes 를 운영하는 방법](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8)
 * **[그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)**
 * [Building an End-to-End Serverless Data Analytics Solution on AWS](https://github.com/awskrug/serverless-data-analytics)
-
-# CloudWatch
-* [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
-* [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
+* [(Troubleshooting) 내 로컬에서는 잘 되는데...? (내로잘)](https://perfectacle.github.io/2019/06/11/aws-sg-trobuleshooting)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -343,6 +340,10 @@ AWS
 * [Analyze Data in MongoDB with AWS](https://medium.com/rainist-engineering/analyze-data-in-mongodb-with-aws-43c25ef0592f)
 * [How to import Google BigQuery tables to AWS Athena](https://medium.freecodecamp.org/how-to-import-google-bigquery-tables-to-aws-athena-5da842a13539)
 * [Athena를 Zeppelin과 함께 쓰기](https://b.luavis.kr/server/zeppelin-with-athena)
+
+# CloudWatch
+* [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
+* [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
