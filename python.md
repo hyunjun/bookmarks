@@ -1956,6 +1956,7 @@ Python
     * [파이선 가상환경 콘다 시작하기](https://graspthegist.com/python/2017/01/18/learn-conda.html)
     * [아나콘다 가상환경](https://jybaek.tistory.com/773)
       * [conda connector - conda Enables you to move freely around the environment](https://github.com/jybaek/conda_connector)
+    * [conda tab completion (자동완성) 만들기](https://jybaek.tistory.com/809)
     * [practice - 다른 버전의 파이썬 설치하고 사용하기](https://gist.github.com/hyunjun/07ea5ce941bc008cc586#gistcomment-2236236)
     * **[How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)**
       * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
