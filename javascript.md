@@ -786,6 +786,7 @@ Javascript
 * [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
 * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
+* [Refetch Strategies for Apollo’s GraphQL client](https://hackernoon.com/refetch-strategies-for-apollos-graphql-client-248a449734cd)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1860,6 +1861,7 @@ Javascript
 * [컴포넌트 제대로 만들기](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [How to build a customer support live chat widget with React](https://medium.com/free-code-camp/how-to-build-a-customer-support-live-chat-widget-with-react-ca228b3cea11)
 * [React ZeroConfig!](https://www.notion.so/30e18396302b4c51ac78485b94084bb3)
+* [How to render modals in React](https://medium.com/free-code-camp/how-to-render-modals-in-react-bbe9685e947e)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
