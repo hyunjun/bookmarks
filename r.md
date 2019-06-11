@@ -308,6 +308,7 @@ R
 * [=, \<-, \<\<- ](http://ds.sumeun.org/?p=1802)
 * [아직도#Word2Vec? 이제는 #GloVe알고리즘! 훈련데이터가 부족해도 학습은 멈추지 않습니다 :)](https://www.youtube.com/watch?v=VA9LDbMVFp0)
 * [E-mail보내기, 데이터수집을 자동으로? 자동화시스템을 짧은 R코드로 설계 ! 시간과 인건비 절약에 핵심요소](https://www.youtube.com/watch?v=sPVN0aqAjtc)
+* [세상을 바꾼 RNN, LSTM 단 한줄의 코드면 충분합니다 :)](https://www.youtube.com/watch?v=5tqq4fZxO_U)
 * [선형 모형 1: 선형의 의미](http://ds.sumeun.org/?p=1806)
 * [Data Science for Startups: Business Intelligence](https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75)
 
