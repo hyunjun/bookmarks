@@ -429,6 +429,8 @@ Programming
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
 * [Why GUID is needed](https://www.slideshare.net/charsyam2/why-guid-is-needed)
 * [GUID python](https://www.slideshare.net/charsyam2/guid-40504314)
+* [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
+* [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -581,6 +583,9 @@ Programming
 * [Serveless를 위한 오픈소스 KNative #1 소개 & Serving](https://bcho.tistory.com/1322)
 * [Serveless를 위한 오픈소스 KNative #2 Eventing](https://bcho.tistory.com/1323)
 * [7 open source platforms to get started with serverless computing](https://www.redhat.com/sysadmin/get-started-serverless-computing)
+* [Deconstructing Serverless Computing Part 1: A new layer of abstraction](https://hackernoon.com/deconstructing-serverless-computing-part-1-a-new-layer-of-abstraction-98c15334e4f7)
+* [Deconstructing Serverless Computing Part 2: the Good, the Bad, and the Time to Market](https://hackernoon.com/deconstructing-serverless-computing-part-2-the-good-the-bad-and-the-time-to-market-91a2b52ceaf4)
+* [Deconstructing Serverless Computing Part 3: Ninety-Nine Platforms but How to Choose One?](https://hackernoon.com/deconstructing-serverless-computing-part-3-ninety-nine-platforms-but-how-to-choose-one-b0ee5372dba7)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -1433,6 +1438,8 @@ Programming
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
 * [초보개발자의 TDD 체험기](https://www.slideshare.net/sehunkim11/tdd-141266989)
+* [A Practical Intro to Test Driven Development](https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b)
+* [Feature Flags and Test-Driven Design: Some Practical Tips](https://hackernoon.com/feature-flags-and-test-driven-design-practical-tips-ed7d76445a29)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
