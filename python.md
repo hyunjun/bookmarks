@@ -1594,6 +1594,7 @@ Python
   * [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
   * [Understanding the Lazy Parameter in Flask-SQLAlchemy Relationships](https://www.youtube.com/watch?v=g1oFlq7D_nQ)
   * [Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy](https://www.youtube.com/watch?v=WxGBoY5iNXY)
+  * [Manage Database Models with Flask-SQLAlchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
