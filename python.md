@@ -2927,6 +2927,7 @@ Python
     * [Python 게임서버 안녕하십니까 : RPC framework 편](https://www.slideshare.net/joongom/python-rpc-framework-78718414/1)
   * [2017-10 강대명 - 파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://www.youtube.com/watch?v=SIsyo9ZHWrE)
   * [천원경매](https://github.com/suminb/auction)
+  * [조인석: 파이썬 vs 자바](https://www.youtube.com/watch?v=MmIxahj9vnY) 초보 대상
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
@@ -2952,6 +2953,7 @@ Python
   * [생활탐사 - 파이썬으로 일상에 도움 되는 뉴스 만들기](https://drive.google.com/file/d/1bhsX4kW_gE6t9S6SkGaBnUWM0Y4OFAGV/view)
   * [PyCon KR 2018 땀내를 줄이는 Data와 Feature 다루기](https://www.slideshare.net/zzonee/2018-pycon-kr-data-feature/zzonee/2018-pycon-kr-data-feature)
   * [파이콘 2018 후기](https://www.sangkon.com/2018/08/27/pycon-2018/)
+  * **[2018. 05 파이썬 개발환경 구성하기 거의 끝판왕 Docker Compose - 김승호](https://www.youtube.com/watch?v=oQ50eqDH91A)** compose뿐만 아니라 docker 명령 기본에 대한 것도 알기 좋음
 * [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
   * [Raymond Hettinger - Modern solvers: Problems well-defined are problems solved - PyCon 2019](https://www.youtube.com/watch?v=_GP9OpZPUYc)
 
