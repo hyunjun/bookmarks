@@ -150,6 +150,7 @@ Vim
 * [Vim Makes Everything Better, Especially Your File Manager And Shell!](https://www.youtube.com/watch?v=a4scYdubKbo)
 * [Openwest 2015 - Erik Falor - "From Vim Muggle to Wizard in 10 Easy Steps" (8)](https://www.youtube.com/watch?v=MquaityA1SM)
 * [Vim 교정학원 후기](https://lqez.github.io/blog/vimrc-2019.html)
+* [Vim 취약점 발견](https://jybaek.tistory.com/807)
 
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
