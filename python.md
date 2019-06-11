@@ -2928,6 +2928,8 @@ Python
   * [2017-10 강대명 - 파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://www.youtube.com/watch?v=SIsyo9ZHWrE)
   * [천원경매](https://github.com/suminb/auction)
   * [조인석: 파이썬 vs 자바](https://www.youtube.com/watch?v=MmIxahj9vnY) 초보 대상
+  * [이성용 : 개발자 없는 통계업무 부서에서 Django+Pandas+Selenium+python-docx으로 통계업무도구 만들기](https://www.youtube.com/watch?v=4qitjuT0UFg)
+    * [Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai)
 * [PyCon 2017](https://www.youtube.com/channel/UCrJhliKNQ8g0qoE_zvL8eVg/feed)
   * [Pycon US 2017](https://medium.com/@soeunlee/pycon-us-2017-1baad83219a6)
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
