@@ -255,6 +255,7 @@ Interview
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
     * [BOOKMYSHOW System Design, FANDANGO System Design | Software architecture for online ticket booking](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
     * [Google Software Engineer Design Interview: Reservation System](https://www.youtube.com/watch?v=6wSk5XG4jwU)
+    * [System Design Shopify eCommerce platform Interview Question for software engineers](https://www.youtube.com/watch?v=lEL4F_0J3l8)
     * [How to Build an Awesome eCommerce App? A Complete Guide to Developing an eCommerce Mobile App](https://www.engineerbabu.com/blog/how-to-build-an-ecommerce-app/)
     * [쇼핑 주문서의 임시저장 기능?](https://brunch.co.kr/@windydog/229)
   * Rate Limiting
