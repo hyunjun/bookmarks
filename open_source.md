@@ -168,6 +168,8 @@ Open Source
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
 * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
+* [Tyk - an open source API Gateway that is fast, scalable and modern](https://tyk.io/)
+  * [tyk(API Gateway) 설치 메뉴얼 (Redhat)](http://cloudsemina.com/index.php?mid=micro_architecture&document_srl=374)
 * [zulip - Powerful open source group chat](https://www.zulip.org/)
 
 # Line
