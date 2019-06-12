@@ -44,6 +44,7 @@ C#
   * [Async, Await를 이용한 비동기 프로그래밍](https://nsinc.tistory.com/109)
   * [async / await 사용 예시](https://itmining.tistory.com/129)
   * [비동기 프로그래밍 - 4.2 how to async / await](https://blog.naver.com/vactorman/220340602523)
+  * [간편한 비동기 프로그래밍: async/await](http://www.simpleisbest.net/?tag=/async%2fawait)
   * [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
   * [Beware of the .NET HttpClient](http://www.nimaara.com/2016/11/01/beware-of-the-net-httpclient/)
   * [How to mock HttpClient in your .NET / C# unit tests](https://gingter.org/2018/07/26/how-to-mock-httpclient-in-your-net-c-unit-tests/)
