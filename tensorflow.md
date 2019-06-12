@@ -752,6 +752,8 @@ TensorFlow
   * [aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [Experimenting with autoregressive flows in TensorFlow Probability](https://blogs.rstudio.com/tensorflow/posts/2019-04-24-autoregressive-flows)
+* TensorFlow.text
+  * [Google launches TensorFlow.Text library for language AI models](https://venturebeat.com/2019/06/10/google-launches-tensorflow-text-library-for-language-ai-models)
 * TENSORFLOWSHARP
   * [01. 기본 함수 사용하기(콘솔 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp01.html)
   * [02. TENSORFLOW 모델 사용하기(WINFORM 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp02.html)
