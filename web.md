@@ -422,6 +422,7 @@ Web
 * [nginx: 허용하지 않은 도메인에서 접속이 되는 경우](https://ohgyun.com/786)
 * [How to set up an easy and secure reverse proxy with Docker, Nginx & Letsencrypt](https://medium.freecodecamp.org/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2)
 * [HTTP/2 성능 향상을 위한 NGINX 구조 개선](https://blog.cloudflare.com/nginx-structural-enhancements-for-http-2-performance-ko/)
+* [Nginx Cache 문제 해결 시리즈](https://jojoldu.tistory.com/60)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
