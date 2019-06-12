@@ -13,8 +13,6 @@ C#
 * [Exceptional results: error handling with C# and Rust](https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust)
 * [C++개발자의 C#개발 이야기](http://www.synczone.net/Detail.aspx?NewsNo=2de25da02e6046f2b4530fd695e300ce)
 * [Parsing a string as a 64-bit integer, somehow](http://blogs.msdn.com/b/oldnewthing/archive/2015/06/29/10624284.aspx)
-* [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
-* [Simple Async Await Example for Asynchronous Programming](http://www.microsoft.com/en-gb/developers/articles/week02aug15/simple-async-await-example-for-asynchronous-programming/)
 * [Corecalc and Funcalc - Spreadsheet Technology in C#](http://www.itu.dk/people/sestoft/funcalc/)
 * [Working toward Bret Victor's "Learnable Programming"](http://blog.comealive.io/Working-Toward-Bret-Victors-Learnable-Programming/)
 * [C# and F# approaches to illegal states](http://enterprisecraftsmanship.com/2015/09/28/c-and-f-approaches-to-illegal-states/)
@@ -37,6 +35,21 @@ C#
 * [Announcing .NET Core 3 Preview](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-3/)
 * [C# 무료강의2019](https://www.youtube.com/playlist?list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM1h5)
 * [How to easily implement QRCoder in ASP.NET Core using C#](https://medium.freecodecamp.org/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84)
+
+# API
+* Async, Await
+  * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
+  * [Simple Async Await Example for Asynchronous Programming](https://stephenhaunts.com/2014/10/10/simple-async-await-example-for-asynchronous-programming/)
+  * [Async 및 Await를 사용한 비동기](https://herbyoung.tistory.com/73)
+  * [Async, Await를 이용한 비동기 프로그래밍](https://nsinc.tistory.com/109)
+  * [async / await 사용 예시](https://itmining.tistory.com/129)
+  * [비동기 프로그래밍 - 4.2 how to async / await](https://blog.naver.com/vactorman/220340602523)
+  * [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
+  * [Beware of the .NET HttpClient](http://www.nimaara.com/2016/11/01/beware-of-the-net-httpclient/)
+  * [How to mock HttpClient in your .NET / C# unit tests](https://gingter.org/2018/07/26/how-to-mock-httpclient-in-your-net-c-unit-tests/)
+* Linq
+  * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
+
 
 # Book
 * [C# 초급 (국제공부연맹)](https://wikidocs.net/book/318)
@@ -64,9 +77,6 @@ C#
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
 * [WolframAlpha.NET - An implementation of the Wolfram|Alpha 2.0 API in C#](https://github.com/Genbox/WolframAlpha.NET)
 * [XLParser - A C# Excel formula parser with the following properties](https://github.com/spreadsheetlab/XLParser)
-
-# Linq
-* [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
 
 # Xamarin
 * 마이크로소프트 멜팅팟 온라인 세미나
