@@ -563,6 +563,7 @@ Javascript
 * [Platform & Plugin 아키텍쳐 기술 검토 - 2](https://mobicon.tistory.com/569)
 * [How to create a reusable loading-indicator for Angular projects](https://medium.freecodecamp.org/how-to-create-reusable-loading-indicator-for-angular-projects-d0a11f4631e0)
 * [An introduction to Angular Reactive Forms](https://medium.freecodecamp.org/angular-reactive-forms-an-introduction-f9d988ae9251)
+* [Running Angular project unit-tests on Stackblitz](https://hackernoon.com/running-angular-project-unit-tests-on-stackblitz-bc091abbfcc9)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -695,6 +696,7 @@ Javascript
 * [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
 * [ECMAScript 튜토리얼](https://wormwlrm.github.io/2019/04/04/ECMAScript-tutorial.html)
 * [‘let’ me be a ‘const’(ant), not a ‘var’(iable)!](https://medium.freecodecamp.org/let-me-be-a-const-ant-not-a-var-iable-1be52d153462)
+* [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
