@@ -318,6 +318,7 @@ NLP
 * [Guide KorQuAD upload to leaderboard (EM 68.947 / F1 88.468) model which only use BERT-multilingual(single) https://korquad.github.io ](https://github.com/graykode/KorQuAD-beginner)
 * [Transformer-Encoder-with-Char](https://github.com/MSWon/Transformer-Encoder-with-Char)
 * [Language Model Overview: From word2vec to BERT](https://www.youtube.com/watch?v=ycXWAtm22-w)
+* [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
