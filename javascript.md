@@ -1589,6 +1589,7 @@ Javascript
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)
 * [React의 기본, 컴포넌트를 알아보자](https://medium.com/little-big-programming/react%EC%9D%98-%EA%B8%B0%EB%B3%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-92c923011818)
+* [React.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.com/@Mybridge/react-js-top-10-articles-for-the-past-month-v-june-2019-28a401045657)
 * [React.js Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/react-js-open-source-for-the-past-month-v-may-2019-4b7a7a488833)
 * [React.js Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-may-2019-c0729e8a66c5)
 * [Amazing React.js Open Source Tools & Projects of the Year (v.2019)](https://medium.mybridge.co/amazing-react-js-open-source-of-the-year-v-2019-364d057ac3f3)
