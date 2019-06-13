@@ -1000,6 +1000,7 @@ Machine Learning
 * [An Introduction to Random Forest using the fastai Library (Machine Learning for Programmers — Part 1)](https://www.analyticsvidhya.com/blog/2018/10/comprehensive-overview-machine-learning-part-1/)
 * [An Intuitive Guide to Interpret a Random Forest Model using fastai library (Machine Learning for Programmers – Part 2)](https://www.analyticsvidhya.com/blog/2018/10/interpret-random-forest-model-machine-learning-programmers/)
 * [How to use RandomForest Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-randomforest-classifier-and-regressor-in-python/)
+* [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
