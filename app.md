@@ -314,6 +314,7 @@ App
     * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
     * [atom 에 눈을 돌리다](http://jybaek.tistory.com/710)
     * [Become The Shortcut Master — Chrome and Atom (Part 2)](https://hackernoon.com/become-the-shortcut-master-chrome-and-atom-part-2-c866150caa7)
+    * [텍스트 에디터 Atom(아톰) 패키지 추천(Activate Power Mode)](https://webruden.tistory.com/81)
   * Prettier
     * [나중에 알면 후회한다. 코딩 인생템 'Prettier' (Useful VSC Extension: Prettier)](https://www.youtube.com/watch?v=ya78lQi5vVI)
   * VS Code, visual studio code
