@@ -710,6 +710,7 @@ Deep Learning
 * [federated learning - 보안 걱정 없는 모바일 딥러닝 학습법 (연합 학습)](https://www.youtube.com/watch?v=ei_e7nHS6SE)
 * [LxMLS 2017](https://www.youtube.com/playlist?list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N)
 * [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
+* [Why Randomness should be Embraced and Not Feared](https://medium.com/intuitionmachine/why-randomness-should-be-leveraged-and-not-filtered-be31a94e85ef)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
