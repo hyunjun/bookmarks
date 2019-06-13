@@ -209,6 +209,7 @@ Python
   * [PyCharm에서 multiarray numpy 확장 모듈 임포트 실패할 때](https://surpreem.com/pycharm%ec%97%90%ec%84%9c-multiarray-numpy-%ed%99%95%ec%9e%a5-%eb%aa%a8%eb%93%88-%ec%9e%84%ed%8f%ac%ed%8a%b8-%ec%8b%a4%ed%8c%a8%ed%95%a0-%eb%95%8c/)
   * [Configuring Jupyter Notebook](https://www.jetbrains.com/help/pycharm/configuring-jupyter-notebook.html)
   * [파이참, 파이썬 강좌가 필요없는 튜토리얼 활용법!](https://tariat.tistory.com/602)
+  * [상대경로와 PyCharm 그리고 명령행](https://surpreem.com/%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C%EC%99%80-pycharm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AA%85%EB%A0%B9%ED%96%89/)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap ](https://github.com/sethoscope/heatmap)
@@ -1413,6 +1414,7 @@ Python
 * [Django 2.2 LTS 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/django-2-2-release-note-summary)
 * [Serving React and Django together](https://hackernoon.com/serving-react-and-django-together-2089645046e4)
 * [장고(django) 설치하기](https://dev-yakuza.github.io/ko/django/installation)
+* [장고 프로젝트 Django Simple Web Project - 1 (장고 설치하기)](https://woolbro.tistory.com/3)
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
 * [장고(django)의 관리자 페이지](https://dev-yakuza.github.io/ko/django/admin/)
 
