@@ -582,6 +582,7 @@ Deep Learning
 * [Kernel Mixture Networks](https://janvdvegt.github.io/2017/06/07/Kernel-Mixture-Networks.html)
 * [Taxonomy of Methods for Deep Meta Learning](http://www.kdnuggets.com/2017/06/taxonomy-methods-deep-meta-learning.html)
 * [From zero to research — An introduction to Meta-learning](https://medium.com/huggingface/from-zero-to-research-an-introduction-to-meta-learning-8e16e677f78a)
+* [Awesome Meta Learning](https://github.com/sudharsan13296/Awesome-Meta-Learning)
 * [신경 번역 seq2seq 모델 튜토리얼](https://www.facebook.com/nextobe1/posts/339880869781248)
 * [seq2seq icml tutorial](https://sites.google.com/view/seq2seq-icml17/)
 * [Sequence to sequence tutorial](https://towardsdatascience.com/sequence-to-sequence-tutorial-4fde3ee798d8)
