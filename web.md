@@ -252,6 +252,7 @@ Web
 * [How I get options data for free](https://medium.freecodecamp.org/how-i-get-options-data-for-free-fba22d395cc8)
 * [Python - 한국기상청 도시별 현재 날씨 정보 분석 후 csv 저장](https://developer-ankiwoong.tistory.com/259)
 * [Python - 한국기상청 도시별 현재 날씨 Data 분석 시각화](https://developer-ankiwoong.tistory.com/260)
+* [파이썬을 통한 웹페이지 크롤링 살펴보기](https://www.youtube.com/watch?v=7_IEdMv9eFE)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
