@@ -16,6 +16,7 @@ R
 * [R vs Python: What’s The Difference? The challenge under ten categories](https://hackernoon.com/r-vs-python-whats-the-difference-4eed706890ae)
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [R vs Python: Which is better for Data Science?](https://www.r-bloggers.com/r-vs-python-which-is-better-for-data-science/)
+* [R vs. Python for Data Science](https://github.com/matloff/R-vs.-Python-for-Data-Science/blob/master/README.md)
 * Data science with R
   * **[1. 오해](http://blog.ab180.co/data-science-with-r-1-misperception/)**
   * [2. 데이터 시각화](http://blog.ab180.co/data-science-with-r-2-data-visualization/)
