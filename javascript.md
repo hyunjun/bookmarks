@@ -1864,6 +1864,8 @@ Javascript
 * [How to build a customer support live chat widget with React](https://medium.com/free-code-camp/how-to-build-a-customer-support-live-chat-widget-with-react-ca228b3cea11)
 * [React ZeroConfig!](https://www.notion.so/30e18396302b4c51ac78485b94084bb3)
 * [How to render modals in React](https://medium.com/free-code-camp/how-to-render-modals-in-react-bbe9685e947e)
+* [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
+* [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2229,6 +2231,7 @@ Javascript
 * [When to use TypeScript: a detailed guide through common scenarios](https://medium.freecodecamp.org/when-to-use-typescript-a-detailed-guide-through-common-scenarios-b0a57e57905)
 * [A crash course in TypeScript](https://medium.freecodecamp.org/a-crash-course-in-typescript-e6bf9c10946)
 * [React, Typescript, Webpack환경에서 번들링 속도 올리기](https://b.luavis.kr/web/speed-up-webpack)
+* [TypeScript를 사용하여 간단한 인공 신경망 개발 삽질기](https://evan-moon.github.io/2019/02/26/simple-ann/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
