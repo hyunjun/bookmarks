@@ -27,3 +27,4 @@ Anomaly Detection
 * **[이상 감지 - ANOMALY DETECTION](http://intothedata.com/02.scholar_category/anomaly_detection)**
 * [기계 진동(소음)에 나타나는 이상 패턴을 자동으로 탐지할 수 있을까?](https://inforience.net/2019/05/07/machine_vibration/)
 * [기계 진동(소음)에 나타나는 이상 패턴을 자동으로 탐지할 수 있을까? (2)](https://inforience.net/2019/06/08/machine-vibration2)
+* [How to detect anomalies in Audio Signal Processing of the heart with sound coming from mobile phone](https://medium.com/@luigi.bungaro/how-to-detect-anomalies-in-audio-signal-processing-of-the-heart-with-sound-coming-from-mobile-e034e8fd709b)
