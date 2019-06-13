@@ -1414,6 +1414,7 @@ Python
 * [Serving React and Django together](https://hackernoon.com/serving-react-and-django-together-2089645046e4)
 * [장고(django) 설치하기](https://dev-yakuza.github.io/ko/django/installation)
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
+* [장고(django)의 관리자 페이지](https://dev-yakuza.github.io/ko/django/admin/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -1573,6 +1574,7 @@ Python
 * [Building a Flask Web Application (Flask Part 2)](https://alysivji.github.io/flask-part2-building-a-flask-web-application.html)
 * [Flask Movie API Example](https://www.youtube.com/watch?v=Urx8Kj00zsI)
 * [How to build a cryptobot in Python and connect it to Facebook messenger](https://medium.freecodecamp.org/how-to-build-a-cryptobot-in-python-and-connect-it-to-facebook-messenger-4bba14107fcc)
+* [Building a URL Shortener in Flask](https://www.youtube.com/watch?v=rGQKHpjMn_M)
 
 ## Flask Library
 * [Flask-aiohttp — Asynchronous Flask application with aiohttp](https://flask-aiohttp.readthedocs.io)
