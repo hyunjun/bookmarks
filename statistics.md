@@ -351,6 +351,7 @@ Statistics
 * [Christine Waigl The Next Step Finding Model Parameters With Random Walks PyCon 2017](https://www.youtube.com/watch?v=sHS2-av7AgQ)
 * **[Python For Sport Scientists: Descriptive Statistics](https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c)** 기초 내용 설명
 * [Statistical Modeling In Python](https://www.youtube.com/watch?v=sZISc-VqVWg)
+* **[확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90)**
 * [Christopher Fonnesbeck - Introduction to Statistical Modeling with Python - PyCon 2017](https://www.youtube.com/watch?v=TMmSESkhRtI)
 * [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
 * [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
