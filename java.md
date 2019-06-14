@@ -790,6 +790,7 @@ Java
 * [Getting started with Spring Boot – Part 1](https://blogs.sap.com/2016/10/14/getting-started-spring-boot-part-1)
 * [Getting started with Spring Boot – Part 2](https://blogs.sap.com/2016/12/15/getting-started-with-spring-boot-part-2/)
 * [Spring Boot에서 Repository로 DynamoDB 조작하기 (1) - 설정부터 실행까지](http://woowabros.github.io/study/2019/06/05/spring-data-dynamodb-1.html)
+* [Spring Boot에서 Repository로 DynamoDB 조작하기 (2) - Gradle을 활용해 실행 & 테스팅 환경 구축](http://woowabros.github.io/study/2019/06/12/spring-data-dynamodb-2.html)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
