@@ -158,6 +158,7 @@ Hadoop
   * [스토리지 데이터 보존 및 복제기법 : 이레이저코딩(Erasure Coding)](http://blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220553762165)
   * [Debunking the Myths of HDFS Erasure Coding Performance](https://www.slideshare.net/HadoopSummit/debunking-the-myths-of-hdfs-erasure-coding-performance)
   * [Introduction to HDFS Erasure Coding in Apache Hadoop](https://blog.cloudera.com/blog/2015/09/introduction-to-hdfs-erasure-coding-in-apache-hadoop/)
+* [HDFS Erasure Coding in Production](https://blog.cloudera.com/blog/2019/06/hdfs-erasure-coding-in-production/)
 * [How-to: Build a Real-Time Search System using StreamSets, Apache Kafka, and Cloudera Search](http://blog.cloudera.com/blog/2016/02/how-to-build-a-real-time-search-system-using-streamsets-apache-kafka-and-cloudera-search/)
   * [StreamSets Data Collector](https://streamsets.com/product/)
 * [Replicating Relational Databases with StreamSets Data Collector](https://streamsets.com/blog/blogreplicating-relational-databases-with-streamsets-data-collector/)
@@ -217,6 +218,7 @@ Hadoop
 * [Mindful Machines Original Series, Big Data: Batch Processing](https://mindfulmachines.io/blog/2018/4/24/series-big-data-batch-processing) 일괄처리, SQL 일괄처리, 데이터웨어하우스, RDBMs 영역의 유력한 오픈 소스 소프트웨어 몇 가지 요약
 * [Cloud Native Machine Learning on Kubernetes](https://www.youtube.com/watch?v=zszUUut8gt4)
 * [Cloudera Enterprise 6.1.0 is Now Available](https://blog.cloudera.com/blog/2018/12/cloudera-enterprise-6-1-0-is-now-available/)
+* [CDH 6.2 Release: What’s new in HBase](https://blog.cloudera.com/blog/2019/06/cdh-6-2-release-whats-new-in-hbase/)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)
