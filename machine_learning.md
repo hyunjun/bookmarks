@@ -120,6 +120,7 @@ Machine Learning
 * [Making Friends with ML Tutorial](https://github.com/google-aai/sc17)
 * [Mahcine Learning 101](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
 * [엑셀의 분석도구를 이용한 간단한 선형 회귀분석 실습](http://www.popit.kr/%EA%B0%9C%EB%B0%9C-%EB%B0%94%EB%B3%B4%EB%93%A4%EC%97%91%EC%85%80%EC%9D%98-%EB%B6%84%EC%84%9D%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%84%A0%ED%98%95/)
+* [머신러닝의 기초 - 선형 회귀 한 번에 제대로 이해하기 (30분만 투자해봐요!)](https://www.youtube.com/watch?v=ve6gtpZV83E)
 * [My playlist – Top YouTube Videos on Machine Learning, Neural Network & Deep Learning](http://www.analyticsvidhya.com/blog/2015/07/top-youtube-videos-machine-learning-neural-network-deep-learning/)
 * [손고리즘ML](http://songorithm.github.io/ML/)
 * [기계학습/머신러닝 기초(Machine Learning Basics)](http://whydsp.org/237)
