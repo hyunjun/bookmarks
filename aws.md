@@ -331,6 +331,7 @@ AWS
 * **[그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)**
 * [Building an End-to-End Serverless Data Analytics Solution on AWS](https://github.com/awskrug/serverless-data-analytics)
 * [(Troubleshooting) 내 로컬에서는 잘 되는데...? (내로잘)](https://perfectacle.github.io/2019/06/11/aws-sg-trobuleshooting)
+* [AWS와 함께 간단하게 HTTP/2 적용하기](https://evan-moon.github.io/2019/06/13/http2-with-aws/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
