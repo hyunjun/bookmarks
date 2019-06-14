@@ -270,6 +270,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-june-2019-2184efc028df)
   * [JavaScript Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/javascript-open-source-for-the-past-month-v-may-2019-80e6ad3db158)
   * [JavaScript Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-may-2019-11d4211067a2)
   * [48 Amazing JavaScript Open Source for the Past Year (v.2019)](https://medium.com/@Mybridge/48-amazing-javascript-open-source-for-the-past-year-v-2019-ce51cdd10fb9)
