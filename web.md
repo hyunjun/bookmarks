@@ -544,6 +544,8 @@ Web
 * [RESTful API Boilerplate](https://github.com/kevink1103/restapi_project)
 * [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://morioh.com/p/693a44872e02/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger)
 * [저기요, REST API는 데이터베이스가 아니에요](http://doublem.org/guys-rest-apis-are-not-databases)
+* [REST API -1 Service, Protocol(SOAP)](https://woolbro.tistory.com/9)
+* [REST API -2 REST, SOAP](https://woolbro.tistory.com/10)
 
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
