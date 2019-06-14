@@ -1417,6 +1417,7 @@ Python
 * [장고 프로젝트 Django Simple Web Project - 1 (장고 설치하기)](https://woolbro.tistory.com/3)
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
 * [장고(django)의 관리자 페이지](https://dev-yakuza.github.io/ko/django/admin/)
+* [Python and django full stack Web Developer bootcamp Full Course For Beginners](https://www.youtube.com/watch?v=exFGLwd86Fc)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
