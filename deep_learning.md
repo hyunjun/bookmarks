@@ -119,6 +119,7 @@ Deep Learning
   * [Learning to remember rare events](https://www.slideshare.net/ssuser06e0c5/learning-to-remember-rare-events)
 * [ICLR 2019 Notes](https://david-abel.github.io/notes/iclr_2019.pdf)
 * [ICLR 2019 리뷰: 프로그램 소개 및 단순하고 효과적인 Network Pruning 방법론을 다룬 Best Paper 리뷰](http://research.sualab.com/review/2019/05/23/ICLR-2019-best-paper-review.html)
+* [Top 8 trends from ICLR 2019 번역글](https://subinium.github.io/top-8-trends-from-ICLR2019-kr)
 * [Deep Learning for Computer Vision Barcelona](http://imatge-upc.github.io/telecombcn-2016-dlcv/)
 * [Algorithms of the Mind](https://medium.com/deep-learning-101/algorithms-of-the-mind-10eb13f61fc4)
 * [What's Wrong With Deep Learning?](https://drive.google.com/file/d/0BxKBnD5y2M8NVHRiVXBnOVpiYUk/edit)
