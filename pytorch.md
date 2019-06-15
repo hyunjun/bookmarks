@@ -143,6 +143,7 @@ PyTorch
 * [Getting Started with Intel® Optimization for PyTorch on Second Generation Intel® Xeon® Scalable Processors](https://software.intel.com/en-us/articles/getting-started-with-intel-optimization-of-pytorch)
 * [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
 * [DataLoader num_workers에 대한 고찰](https://jybaek.tistory.com/799)
+* [CRAFT: Character-Region Awareness For Text detection](https://github.com/clovaai/CRAFT-pytorch)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
