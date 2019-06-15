@@ -73,3 +73,4 @@ Google Cloud Platform GCP
 * [Using Cloud Run as a webhook for Actions on Google](https://medium.com/google-developers/using-cloud-run-as-a-webhook-for-actions-on-google-792b58694651)
 * [좀 더 저렴하게 사용하는 Google Cloud Platform(GCP)](https://medium.com/@jwlee98/%EC%A2%80-%EB%8D%94-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-google-cloud-platform-gcp-456cd71379f8)
 * [How to Use Google API to Save Your Cat’s Photo on Cloud](https://hackernoon.com/how-to-use-google-api-to-save-your-cats-photo-on-cloud-711b330fbdcd)
+* [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
