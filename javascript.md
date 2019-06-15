@@ -409,6 +409,7 @@ Javascript
 * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
 * [How to find the index where a number belongs in an array in JavaScript](https://medium.freecodecamp.org/how-to-find-the-index-where-a-number-belongs-in-an-array-in-javascript-9af8453a39a8)
 * [Array.sort() 정렬 기준은 문자열의 유니코드 포인트](https://ohgyun.com/790)
+* [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
@@ -1868,6 +1869,7 @@ Javascript
 * [How to render modals in React](https://medium.com/free-code-camp/how-to-render-modals-in-react-bbe9685e947e)
 * [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 * [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
+* [When to useMemo and useCallback](https://ideveloper2.dev/blog/2019-06-14--when-to-use-memo-and-use-callback)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
