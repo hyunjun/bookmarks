@@ -282,6 +282,7 @@ NLP
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 * [Talk Powerpoint Generator](https://korymath.github.io/talk-generator/)
+* [#자연어, #시퀀스를 위한 #재귀신경망 성능향상 기법! 대공개!! 첫번째!](https://www.youtube.com/watch?v=EZnG78g4moI)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
