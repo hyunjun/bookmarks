@@ -1085,6 +1085,7 @@ Javascript
 * [stats.js - JavaScript Performance Monitor](https://github.com/mrdoob/stats.js)
 * [stool - a JavaScript benchmarking utility](https://github.com/albertxing/stool)
 * [strml.net - interactive coding](http://strml.net/)
+* [Styled-tools로 좀더 편리하게 Styled-components 사용하기](https://john015.github.io/styled-tools%EB%A1%9C-%EC%A2%80%EB%8D%94-%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C-styled-components-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Substance - A JavaScript library for web-based content editing](http://substance.io/)
 * [Surge.sh 로 무료로 정적 웹 어플리케이션 배포하기](https://hudi.kr/surge-sh-%EB%A1%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
@@ -1280,6 +1281,7 @@ Javascript
 * [Mac에 설치된 node.js 제거하기](http://gomcine.tistory.com/entry/nodejs-Mac%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-nodejs-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-june-2019-965acf75a02d)
 * [Node.js Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-may-2019-f21084933603)
 * [45 Amazing Node.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925)
 * [Learn Node.js from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-node-js-from-top-50-articles-for-the-past-year-v-2019-2ec0a6a2cfa2)
@@ -1870,6 +1872,7 @@ Javascript
 * [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 * [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 * [When to useMemo and useCallback](https://ideveloper2.dev/blog/2019-06-14--when-to-use-memo-and-use-callback)
+* [The State of React - Jared Palmer (@jaredpalmer) at @ReactEurope 2019](https://www.notion.so/The-State-of-React-Jared-Palmer-jaredpalmer-at-ReactEurope-2019-532abd86b3f8435887ac3b9d4d25a339)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
