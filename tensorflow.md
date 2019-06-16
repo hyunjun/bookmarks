@@ -197,6 +197,7 @@ TensorFlow
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [A TensorFlow implementation of DeepMind's WaveNet paper](https://github.com/ibab/tensorflow-wavenet)
 * [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
+* [번역 TensorFlow Ruby API를 소개합니다](https://medium.com/@FreddyKim/%EB%B2%88%EC%97%AD-tensorflow-ruby-api%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-4b9fcad1eaf9)
 * [tensorflow.org 문서 번역 레파지토리 http://tensorflowkorea.wordpress.com](https://github.com/tensorflowkorea/tensorflow-kr)
   * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
   * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
