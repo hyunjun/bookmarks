@@ -98,6 +98,7 @@ Android
 * [한국 안드로이드 개발자 모임, Droid Knights 2019에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/droid-knights-2019/)
 * [How to handle RESTful web Services using Retrofit, OkHttp, Gson, Glide and Coroutines](https://medium.freecodecamp.org/my-crypto-coins-app-series-part-5-160e7aaa6382)
 * [아름답게 안드로이드 앱 오류 처리하기](https://medium.com/prnd/%EC%95%84%EB%A6%84%EB%8B%B5%EA%B2%8C-%EC%95%B1-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-8bf9a46df515)
+* [안드로이드 액티비티 생명주기(Life Cycle](https://brunch.co.kr/@mystoryg/80)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
