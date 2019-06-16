@@ -202,6 +202,7 @@ Data Visualization
   * [Data-Analysis - nbviewer ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
   * [Data-Analysis - Data Analysis Using Python and a little R](https://github.com/WillKoehrsen/Data-Analysis)
 * [practical-machine-learning-with-python/bonus content/effective data visualization](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/effective%20data%20visualization)
+* [Drawing Route Objects with the Mapbox Directions API](https://hackingandslacking.com/drawing-route-objects-with-the-mapbox-directions-api-50f5646a19b4)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
