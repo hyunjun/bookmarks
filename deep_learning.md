@@ -765,6 +765,7 @@ Deep Learning
 * [Ali Ghodsi, Lec : Deep Learning, Variational Autoencoder, Oct 12 2017 Lect 6.2](https://www.youtube.com/watch?v=uaaqyVS9-rM)
 * [Variational Auto Encoding](https://github.com/MingyuKim87/VAE)
 * [AutoEncoder vs Variant AutoEncoder](https://bcho.tistory.com/1326)
+* [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691v1)
 
 # [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)
@@ -2129,6 +2130,7 @@ CVPR2016)
 * [강화학습 기초부터 DQN까지 (Reinforcement Learning from Basics to DQN)](https://www.slideshare.net/CurtPark1/dqn-reinforcement-learning-from-basics-to-dqn)
 * [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
+* [Playing Text-adventure Games with an AI](https://medium.com/@rajammanabrolu/kg-dqn-57d06004022)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
