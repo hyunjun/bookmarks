@@ -28,6 +28,7 @@ Linux
 * [보안 강화 리눅스(Security-Enhanced Linux)](https://lesstif.gitbooks.io/web-service-hardening/content/selinux.html)
 * [Securing your Linux web server](https://hackernoon.com/securing-your-linux-web-server-2be683c223eb)
 * supervisord
+  * [Deploy SSR Applications using Supervisord](https://hackernoon.com/deploy-ssr-applications-using-supervisord-dc32f1c0cda4)
 * [Learn the ways of Linux-fu, for free](https://linuxjourney.com/)
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [Ten dozen Embedded Linux Conference and IoT Summit videos](http://hackerboards.com/ten-dozen-embedded-linux-conference-and-iot-summit-videos/)
