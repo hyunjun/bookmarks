@@ -198,6 +198,7 @@ Go
 * [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 * [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
 * [The benefits of using Lodash in the Go language without reflection](https://medium.freecodecamp.org/the-benefits-of-using-lodash-in-the-go-language-without-reflection-1d64b5115486)
+* [(번역) 리플렉션의 규칙들](https://johngrib.github.io/wiki/golang-the-laws-of-reflection/)
 * [Go를 프로젝트에 적용한다는 것은](https://www.youtube.com/watch?v=B5WKKyPkJxc)
 * [Go를 프로젝트에 적용한다는 것은](https://tv.naver.com/v/2669493)
 * [How to Build a photo feed with Go and Vue.js](https://medium.freecodecamp.org/how-to-build-a-photo-feed-with-go-and-vue-js-9d7f7f39c1b4)
