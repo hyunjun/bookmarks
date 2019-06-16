@@ -224,6 +224,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [Python Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-june-2019-51c1e37bd6df)
   * [Python Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/python-open-source-for-the-past-month-v-may-2019-473e9f60c73f)
   * [Python Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-may-2019-6a3b356b0722)
   * [34 Amazing Python Open Source Libraries for the Past Year (v.2019)](https://medium.mybridge.co/34-amazing-python-open-source-libraries-for-the-past-year-v-2019-93d6ee11aceb)
@@ -1601,6 +1602,7 @@ Python
   * [Understanding the Lazy Parameter in Flask-SQLAlchemy Relationships](https://www.youtube.com/watch?v=g1oFlq7D_nQ)
   * [Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy](https://www.youtube.com/watch?v=WxGBoY5iNXY)
   * [Manage Database Models with Flask-SQLAlchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc)
+  * [Getting Started With Flask-SQLAlchemy 2019](https://www.youtube.com/watch?v=jTiyt6W1Qpo)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
@@ -1855,6 +1857,7 @@ Python
 * [PyData Ann Arbor: Madicken Munk | Widgyts: yt Jupyter Widgets for Volumetric Data Exploration](https://www.youtube.com/watch?v=vFOpWEiafE4)
 * **[Python 으로 지도 위에 정사각 격자를 그리려면?](https://chang12.github.io/python-map-grid/)**
 * [Jupyter Notebook Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)
+* **[주피터 파이썬 노트북에서 실시간 온도 데이타를 SQL에 저장하고 (전통시계열,RNN,LSTM)분석하기](https://github.com/leehaesung/SQLite3_with_LTE_CatM1)**
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
