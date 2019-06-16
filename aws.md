@@ -334,6 +334,7 @@ AWS
 * [AWS와 함께 간단하게 HTTP/2 적용하기](https://evan-moon.github.io/2019/06/13/http2-with-aws/)
 * [AWS, CloudFormation 을 사용한 WAF 자동 구축 및 운영](https://grip.news/archives/1382)
 * [How to Use AWS Textract to Extract Text from Scanned Documents in S3 Buckets](https://hackernoon.com/how-to-use-aws-textract-to-extract-text-from-scanned-documents-in-s3-buckets-5f85e8ba0a37)
+* [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
