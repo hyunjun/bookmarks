@@ -235,6 +235,7 @@ Algorithm
 * [Introducing Torch Decision Trees](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/Introducing-Torch-Decision-Trees.html)
 * [Everything You Need to Know About Decision Trees](https://towardsdatascience.com/everything-you-need-to-know-about-decision-trees-8fcd68ecaa71)
 * [디시전 트리 보는 방법 _ 전용준.리비젼](https://www.youtube.com/watch?v=e15BpXdGZ5o)
+* [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/blob/master/README.md)
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 
 ## Detection
