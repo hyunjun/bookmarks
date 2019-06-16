@@ -1207,6 +1207,7 @@ Programming
   * [기술 뉴스 #125 : 19-05-01](https://blog.outsider.ne.kr/1439)
   * [기술 뉴스 #126 : 19-05-15](https://blog.outsider.ne.kr/1441)
   * [기술 뉴스 #127 : 19-06-01](https://blog.outsider.ne.kr/1446)
+  * [기술 뉴스 #128 : 19-06-15](https://blog.outsider.ne.kr/1449)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
