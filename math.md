@@ -153,7 +153,6 @@ Math
 * [Clifford Algebra: A visual introduction](https://slehar.wordpress.com/2014/03/18/clifford-algebra-a-visual-introduction/)
 * [Things I Can't Solve: Multiplication](http://algorithmicassertions.com/computer-science/2015/07/05/Things-I-Cant-Solve-Multiplication.html)
 * [Guide to Linear Regression](http://alexhwoods.com/2015/07/19/guide-to-linear-regression/)
-* [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
 * [Linear Regression with Linear Algebra](http://artificialturk.com/2019/03/17/linear-regression-with-linear-algebra)
 * [Change of basis in Linear Algebra](http://eli.thegreenplace.net/2015/change-of-basis-in-linear-algebra/)
 * [graphicallinearalgebra.net](http://graphicallinearalgebra.net/)
@@ -175,16 +174,20 @@ Math
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html)
 * **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
-* [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
 * **[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)**
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
   * [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 
-## [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
+## Linear Algebra [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
 * [Spark](http://www.cs.utexas.edu/users/flame/Spark/index.html)
 * [Coding the Matrix](https://github.com/tylee33/CodingtheMatrix)
+
+## Linear Algebra Python
+* [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
+* [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
+* [linear_algebra_with_python](https://github.com/RRoundTable/linear_algebra_with_python)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
