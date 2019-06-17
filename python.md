@@ -2497,6 +2497,7 @@ Python
 * [terminal-palette - A simple library to color texts in terminal](https://github.com/JeongUkJae/terminal-palette)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+* [textsearch - Find strings/words in text; convenience and C speed](https://github.com/kootenpv/textsearch)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
