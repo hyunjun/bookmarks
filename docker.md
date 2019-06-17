@@ -288,6 +288,7 @@ Docker
 * [Docker for Data Science](https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9)
 * **[Building Your Own Data Science Platform With Python & Docker](https://www.youtube.com/watch?v=NC2wXYHBrL0)**
   * [Beyond Jupyter Notebooks](https://github.com/jgoerner/beyond-jupyter)
+* [Docker 컨테이너 안에 jupyter 접속하기](https://jybaek.tistory.com/812) firewall 조작
 * [시스템 부팅시 도커 컨테이너 자동 실행](http://daddycat.blogspot.kr/2017/12/blog-post_21.html)
 * [Docker Korea 스터디 그룹 모임](http://blog.nacyot.com/articles/2014-07-26-docker-korea/)
 * [Docker Korea 스터디 그룹 두번째 모임](http://blog.nacyot.com/articles/2014-08-04-docker-korea-secord/)
