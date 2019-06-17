@@ -321,6 +321,7 @@ Interview
     * systematic approach; clarify details
   * [아마존 AI 알렉사는 어떻게 인간의 언어를 이해할까](http://clomag.co.kr/article/3103)
   * [How to Build an App like Zomato? (Zomato Clone)](https://www.engineerbabu.com/blog/how-to-build-app-like-zomato/)
+  * [How Google searches one document among Billions of documents quickly?](https://www.youtube.com/watch?v=CeGtqouT8eA)
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
