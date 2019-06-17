@@ -199,6 +199,8 @@ PyTorch
   * 음성을 STFT 변환하여 Phase를 도메인으로 사용할 경우 복소수가 필요
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
+* [Delve lets you monitor PyTorch model layer saturation during training](https://pypi.org/project/delve/)
+  * [Optimizing Deep Neural Networking with Delve - Justin Shenk](https://www.youtube.com/watch?v=kFT58uIRd1Q)
 * [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
