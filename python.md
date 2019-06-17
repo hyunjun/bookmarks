@@ -2165,7 +2165,8 @@ Python
     * [python 구글 드라이브 api로 파일 업로드하기](https://blog.psangwoo.com/coding/2017/07/10/google_drive_api.html)
     * [google drive 연동하기](http://blog.naver.com/pjt3591oo/221145739394)
       * [google drive 연동](https://github.com/pjt3591oo/python-googledrive)
-    * [Drive Deduper Finds duplicate files in Drive based on md5 checksum and offers to trash them](https://github.com/gsuitedevs/drive-utils/tree/master/deduper)
+    * [Duplicate files, Deduper in Google Drive](https://eojji.blogspot.com/2019/06/duplicate-files-deduper-in-google-drive.html)
+      * [Drive Deduper Finds duplicate files in Drive based on md5 checksum and offers to trash them](https://github.com/gsuitedevs/drive-utils/tree/master/deduper)
   * sheet 
     * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
