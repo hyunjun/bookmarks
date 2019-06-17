@@ -716,6 +716,7 @@ Programming
   * [클라우드 IDE 업체 코딩, 1천만 달러 투자 유치](http://www.bloter.net/archives/234992)
 * [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [plunker](https://plnkr.co) run 가능 약간 복잡한 느낌
+* [public.etherpad-mozilla.org](https://public.etherpad-mozilla.org/) run 불가능
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com](http://ideone.com/)
 * **[Rosetta Code - Side-by-side code snippets from Rosetta Code](www.rosettacode.org/)**
