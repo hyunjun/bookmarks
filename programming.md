@@ -266,6 +266,7 @@ Programming
 * [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [WIP — Work in… What? | Scrum.org](https://hackernoon.com/wip-work-in-what-scrum-org-e10c57e0a7a2)
+* [JIRA 프로젝트 이슈 커스터마이징하기](https://evan-moon.github.io/2019/06/16/jira-customizing-issue)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1430,6 +1431,7 @@ Programming
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
 * [구글 애널리틱스 A/B 테스트 쉽게 하기(쿠키 + demension 활용)](https://medium.com/daangn/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4-demension-%ED%99%9C%EC%9A%A9-6f994e1247e8)
+* [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
 * [Two pillars of automated testing](https://hackernoon.com/two-pillars-of-automated-testing-13d0c2c6a7c)
 * [codekata.com](http://codekata.com/)
 * [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
