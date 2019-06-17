@@ -144,6 +144,8 @@ PyTorch
 * [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
 * [DataLoader num_workers에 대한 고찰](https://jybaek.tistory.com/799)
 * [CRAFT: Character-Region Awareness For Text detection](https://github.com/clovaai/CRAFT-pytorch)
+* [Getting Started With Pytorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
+* [Diverse Mini-Batch Active Learning](https://github.com/hskimim/active-learning-tutorial/tree/master/Diverse_minibatch_Active_Learning)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
