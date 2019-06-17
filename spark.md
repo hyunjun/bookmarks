@@ -382,6 +382,7 @@
   * [Part 5 : Filter Push](http://blog.madhukaraphatak.com/spark-datasource-v2-part-5/)
   * [Part 6 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-6/)
   * [Part 7 : Meetup Talk](http://blog.madhukaraphatak.com/spark-datasource-v2-part-7/)
+* [Migrating to Spark 2.4 Data Source API](http://blog.madhukaraphatak.com/migrate-spark-datasource-2.4/)
 * aggregate
 
   ```
