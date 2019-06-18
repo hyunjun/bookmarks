@@ -80,6 +80,7 @@ iOS
 * [iTunes 파일 공유 기능](https://dev-yakuza.github.io/ko/react-native/react-native-itunes-share-file/)
 * [iOS 코드 서명에 대해서](https://engineering.linecorp.com/ko/blog/ios-code-signing)
 * [LetsEncrypt 로 개발용 인증서 만들기](https://ohgyun.com/788)
+* [오픈소스 LINE SDK for Unity를 향한 도전: 과제와 선택지](https://engineering.linecorp.com/ko/blog/wrapping-a-native-sdk-for-unity)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
