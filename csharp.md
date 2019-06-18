@@ -49,9 +49,15 @@ C#
   * [There Is No Thread](https://blog.stephencleary.com/2013/11/there-is-no-thread.html)
   * [Beware of the .NET HttpClient](http://www.nimaara.com/2016/11/01/beware-of-the-net-httpclient/)
   * [How to mock HttpClient in your .NET / C# unit tests](https://gingter.org/2018/07/26/how-to-mock-httpclient-in-your-net-c-unit-tests/)
+  * [Async Programming : Unit Testing Asynchronous Code](https://msdn.microsoft.com/en-us/magazine/dn818493.aspx)
+* [HttpClient Class](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netframework-4.8)
+  * **[Unit tests for HttpClient using HttpMessageHandler](http://geekswithblogs.net/abhi/archive/2013/11/20/unit-tests-for-httpclient-using-httpmessagehandler.aspx)**
+  * [How to mock HttpClient in your .NET / C# unit tests](https://gingter.org/2018/07/26/how-to-mock-httpclient-in-your-net-c-unit-tests/)
+  * [Unit Testing with the HttpClient](https://chrissainty.com/unit-testing-with-httpclient/)
 * Linq
   * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
-
+* [moq - The most popular and friendly mocking library for .NET](https://github.com/moq/moq4)
+  * [Why does the property I want to mock need to be virtual?](https://stackoverflow.com/questions/5670902/why-does-the-property-i-want-to-mock-need-to-be-virtual)
 
 # Book
 * [C# 초급 (국제공부연맹)](https://wikidocs.net/book/318)
