@@ -172,6 +172,7 @@ PyTorch
 * [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
 * [Learn You a PyTorch! (aka Introduction Into PyTorch)](https://www.youtube.com/watch?v=X8gWWKfym3Y)
 * [Deep Learning: Introduction to PyTorch](https://medium.com/deeplearningbrasilia/deep-learning-introduction-to-pytorch-5bd39421c84)
+* [Robert Alvarez: Introduction to PyTorch | PyData Miami 2019](https://www.youtube.com/watch?v=ooDRf8docOo)
 
 # Installation
 * [CUDA 9 and CuDNN 7 with PyTorch](https://tspankaj.com/2017/08/12/cuda-9-and-cudnn-7-with-pytorch/)
