@@ -462,6 +462,7 @@ Java
   * [#5 - Spring boot에서 JSON 포맷 로깅과 MDC 사용하기](https://bcho.tistory.com/1317)
   * [#6-Spring Boot에서 Zipkin을 이용한 분산 시스템 로깅](https://bcho.tistory.com/1319)
   * [#7-스택드라이버로 로그 백앤드 구축하기](https://bcho.tistory.com/1321)
+* [9 Java EE Frameworks to Build Enterprise Applications](https://geekflare.com/java-ee-frameworks/)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
@@ -646,6 +647,7 @@ Java
   * [Enum Converter 편](http://woowabros.github.io/experience/2019/01/09/enum-converter.html)
 * [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa)
 * [JPA, OneToMany 양방향 관계 "MappedBy" 해설](https://www.youtube.com/watch?v=hsSc5epPXDs)
+* [JPA 엔터티 카운트 성능 개선하기](https://www.popit.kr/jpa-%EC%97%94%ED%84%B0%ED%8B%B0-%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0/)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
@@ -714,6 +716,8 @@ Java
 * [Spring Guide - 외부 API 가이드](https://www.popit.kr/spring-guide-%EC%99%B8%EB%B6%80-api-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * [Spring Guide - Service 적절한 크기 가이드](https://www.popit.kr/spring-guide-service-%EC%A0%81%EC%A0%88%ED%95%9C-%ED%81%AC%EA%B8%B0-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * [Spring Framework Documentation -1](https://woolbro.tistory.com/8)
+* [Spring Framework Documentation -2](https://woolbro.tistory.com/16)
+* [Spring Framework Documentation -3](https://woolbro.tistory.com/18)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
