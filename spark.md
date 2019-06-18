@@ -363,6 +363,7 @@
 * ['.NET for Apache Spark' Debuts for C#/F# Big Data](https://visualstudiomagazine.com/articles/2019/04/25/net-spark.aspx)
 * [Parallel Cross Validation in Spark](http://blog.madhukaraphatak.com/parallel-cross-validation/)
 * [Vedant Jain: Smart Streams: A Real-time framework for scoring Big and Fast Data | PyData Miami 2019](https://www.youtube.com/watch?v=C6bAr9f_myQ)
+* [Jakub Hava: Productionizing H2O Models with Apache Spark | PyData Miami 2019](https://www.youtube.com/watch?v=UrynTsa5LEE)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
