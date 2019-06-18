@@ -320,6 +320,8 @@ NLP
 * [Transformer-Encoder-with-Char](https://github.com/MSWon/Transformer-Encoder-with-Char)
 * [Language Model Overview: From word2vec to BERT](https://www.youtube.com/watch?v=ycXWAtm22-w)
 * [BERT Explained: State of the art language model for NLP](https://towardsdatascience.com/bert-explained-state-of-the-art-language-model-for-nlp-f8b21a9b6270)
+* [Efficient Training of Bert by Progressively Stacking](https://www.slideshare.net/HoonHeo5/efficient-training-of-bert-by-progressively-stacking)
+  * [Source code for "Efficient Training of BERT by Progressively Stacking"](https://github.com/gonglinyuan/StackingBERT)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
@@ -965,6 +967,7 @@ NLP
   * [Language Data - Yahoo Answers Query Treebank, version 1.0](http://webscope.sandbox.yahoo.com/catalog.php?datatype=l&did=79)
 * [Phoenix Server - a Galaxy-wrapped version of the Phoenix robust semantic CFG parser](http://wiki.speech.cs.cmu.edu/olympus/index.php/Phoenix)
 * [SLING: A Natural Language Frame Semantic Parser](https://research.googleblog.com/2017/11/sling-natural-language-frame-semantic.html)
+* [SQLova - a neural semantic parser translating natural language utterance to SQL query](https://github.com/naver/sqlova)
 
 # QA Question Answer
 * [SQuAD - The Stanford Question Answering Dataset](https://stanford-qa.com/)
