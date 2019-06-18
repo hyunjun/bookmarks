@@ -83,6 +83,7 @@ Data Visualization
 * [NAVER Tech Talk: FE devtalk 14회 (2019년 4월)](https://d2.naver.com/news/9516106)
 * [The Simpsons meets Data Visualization](https://towardsdatascience.com/the-simpsons-meets-data-visualization-ef8ef0819d13)
 * [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
+* [Alberto Cairo: How We Lie to Ourselves With Charts | PyData Miami 2019](https://www.youtube.com/watch?v=3QYsc48zzgs)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
