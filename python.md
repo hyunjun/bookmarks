@@ -2319,6 +2319,7 @@ Python
   * [PyData Seattle 2017 Keynote Jake VanderPlas](https://www.youtube.com/watch?v=DifMYH3iuFw) 여러가지 data 관련 library 역사(?)
     * [jakevdp.github.io](http://jakevdp.github.io/)
   * [Optimizing numerical calculations in Python - Jakub Urban - PyData Prague, January 2019](https://www.youtube.com/watch?v=I_BRzn4zMnQ)
+  * [Ryan Williams: Accelerating Single-cell Bioinformatics with N-dimensional Arrays | PyData Miami 2019](https://www.youtube.com/watch?v=lZk84EcpudA) HDF5, Zarr, dask, zappy
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pydbgen](https://github.com/tirthajyoti/pydbgen)
   * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)
