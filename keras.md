@@ -237,6 +237,7 @@ Keras
 * [Importance Sampling for Keras](http://idiap.ch/~katharas/importance-sampling/)
 * [keras-inception-resnet-v2](https://github.com/myutwo150/keras-inception-resnet-v2)
 * [Keras Project Template - A project template to simplify building and training deep learning models using Keras](https://github.com/Ahmkel/Keras-Project-Template)
+* [ktrain: a lightweight wrapper for Keras to help train (and deploy) neural networks](https://github.com/amaiya/ktrain)
 * [reactionrnn - a Python 2/3 module + R package on top of Keras/TensorFlow which can easily predict the proportionate reactions (love, wow, haha, sad, angry) to a given text using a pretrained recurrent neural network](https://github.com/minimaxir/reactionrnn)
 * [Spektral - a framework for relational representation learning, built in Python and based on the Keras API](https://github.com/danielegrattarola/spektral) Deep learning on graphs with Keras
 * [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
