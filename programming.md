@@ -407,6 +407,7 @@ Programming
 * [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
   * [번역; Web Architecture 101](https://medium.com/@strncpy/%EB%B2%88%EC%97%AD-web-architecture-101-5fda6095688c)
   * [번역 웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
+  * [WebABC](https://www.joinc.co.kr/w/man/12/architecture/webabc)
 * [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 * [EAI, ESB, API 게이트 웨이,서비스 매쉬](http://bcho.tistory.com/1292)
 * [커머스 혹은 유통 도메인 설계에 대한 연작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91)
@@ -457,6 +458,7 @@ Programming
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
 * [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
+* [DDD의 서비스 구조물이란 어떤 프로그램 덩어리인가?](https://www.popit.kr/ddd%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%AC%BC%EC%9D%B4%EB%9E%80-%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%8D%A9%EC%96%B4%EB%A6%AC%EC%9D%B8%EA%B0%80)
 * [LAYERED ARCHITECTURE(계층형 아키텍처)](https://wikibook.co.kr/article/layered-architecture/)
 
 ## Architecture Microservice MSA
