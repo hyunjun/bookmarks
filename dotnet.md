@@ -75,6 +75,8 @@
   * [Libplanet 처음 기여하기](https://snack.planetarium.dev/kor/2019/05/first-contribution/)
   * [Libplanet 팀이 스프린트서울에 참가합니다](https://snack.planetarium.dev/kor/2019/05/sprintseoul/)
   * [Libplanet 0.3 릴리스](https://snack.planetarium.dev/kor/2019/05/libplanet-0.3/)
+  * [NAT를 넘어서 가자](https://snack.planetarium.dev/kor/2019/04/nat_traversal_1/)
+  * [예제로 보는 TURN](https://snack.planetarium.dev/kor/2019/06/nat_traversal_2/)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 
