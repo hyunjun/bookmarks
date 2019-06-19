@@ -420,6 +420,7 @@ Machine Learning
 * [AutoML](http://khanrc.github.io/tags/#AutoML)
 * [How to Beat Google’s AutoML - Hyperparameter Optimisation with Flair](https://towardsdatascience.com/how-to-beat-automl-hyperparameter-optimisation-with-flair-3b2f5092d9f5)
 * [automl-gs Provide an input CSV and a target field to predict, generate a model + code to run it](https://github.com/minimaxir/automl-gs)
+* [개발자가 AI를 더 쉽게 빌드하고 배포할 수 있도록 Google Cloud AI가 확장해나가고 있습니다](https://developers-kr.googleblog.com/2019/06/unlocking-the-power-of-ai-with-solutions-designed-for-every-enterprise.html)
 * [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
 * [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
 * [Scaling Machine Learning as a Service](http://proceedings.mlr.press/v67/li17a.html)
