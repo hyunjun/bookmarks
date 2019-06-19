@@ -695,6 +695,7 @@ Docker
   * [패커(Packer)로 도커(Docker) 이미지 빌드 및 AMI 자동 빌드 시스템 구축](http://blog.remotty.com/blog/2015/09/30/paekeopackerro-dokeodocker-imiji-bildeu-mic-ami-jadong-bildeu-siseutem-gucug/)
 * [Podman - Manage pods, containers, and container images](https://podman.io/)
   * [Replacing Docker With Podman](https://www.youtube.com/watch?v=N0hSn5EwW8w)
+  * [Podman and Buildah for Docker users](https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
