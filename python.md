@@ -1434,7 +1434,7 @@ Python
 * [장고(django)의 커스텀 유저 모델(Custom User Model)](https://dev-yakuza.github.io/ko/django/custom-user-model/)
 * [장고 프로젝트 Django Simple Web Project - 1 (장고 설치하기)](https://woolbro.tistory.com/3)
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
-* [Python and django full stack Web Developer bootcamp Full Course For Beginners](https://www.youtube.com/watch?v=exFGLwd86Fc)
+* [Python and django](https://www.youtube.com/playlist?list=PLxvvv6r2iXY8kteUZ7Q2Ts0T0qLcMYSSI) Python and django full stack Web Developer bootcamp
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
