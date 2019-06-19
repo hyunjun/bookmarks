@@ -1,6 +1,7 @@
 AWS
 ===
 
+* **[WEBABCWITHAWS](https://www.joinc.co.kr/w/man/12/architecture/webABCwithAWS)** 웹 서비스의 기본 요소들을 AWS로 재구성 & 설명
 * [AWS News Blog](https://aws.amazon.com/blogs/aws/)
 * [Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/)
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
@@ -537,3 +538,4 @@ AWS
 * [Amazon Kinesis와 Amazon Athena를 활용한 VPC 네트워크 트래픽의 분석과 시각화](https://aws.amazon.com/ko/blogs/korea/analyze-and-visualize-your-vpc-network-traffic-using-amazon-kinesis-and-amazon-athena/)
 * [AWS VPC 개념](https://kudwafter.moe/?p=496)
 * [만들면서 배우는 AWS VPC 입문 아마존 웹 서비스 네트워크의 기초](https://www.44bits.io/ko/post/understanding_aws_vpc)
+* [Subnet(VPC) Resource Share](https://zigispace.net/1033)
