@@ -68,6 +68,7 @@ Google Cloud Platform GCP
 * [좌충우돌 CLOUD 학습기(이동민)](https://www.slideshare.net/DONGMINLEE15/cloud-137939221)
 * [Google Cloud Platform: Creating an Instance and Configuring DNS](https://hackingandslacking.com/google-cloud-platform-creating-an-instance-and-configuring-dns-7043875fd7d4)
 * [Introducing Anthos: An entirely new platform for managing applications in today's multi-cloud world](https://cloud.google.com/blog/topics/hybrid-cloud/new-platform-for-managing-applications-in-todays-multi-cloud-world)
+  * [Anthos를 소개합니다 : 멀티클라우드에서 애플리케이션을 관리하기 위한 새로운 플랫폼](https://developers-kr.googleblog.com/2019/06/new-platform-for-managing-applications-in-todays-multi-cloud-world.html)
 * [Deploy App Containers with Google Cloud’s App Engine](https://hackingandslacking.com/deploy-app-containers-with-gcp-app-engine-1681bd120357)
 * [구글, 도커 컨테이너 기반 서버리스 서비스인 클라우드 런 발표](https://www.44bits.io/ko/post/news--cloud-run-is-launched-on-gcp)
 * [Using Cloud Run as a webhook for Actions on Google](https://medium.com/google-developers/using-cloud-run-as-a-webhook-for-actions-on-google-792b58694651)
