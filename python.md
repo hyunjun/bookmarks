@@ -1190,6 +1190,10 @@ Python
 * [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
 * [파이썬 책 추천 목록 정리](https://github.com/daejinseok/books/blob/master/Python_Book_List.md)
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
+* [Python for Signal Processing Featuring IPython Notebooks](https://www.springer.com/gp/book/9783319013411)
+  * [Python for Signal Processing](http://python-for-signal-processing.blogspot.com/)
+  * [Python-for-Signal-Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing)
+  * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
