@@ -86,6 +86,7 @@ Linux
 * [EXT4 에서 달라진 부분들 #2 – 데이터 영역의 관리](https://charsyam.wordpress.com/2018/12/21/%EC%9E%85-%EA%B0%9C%EB%B0%9C-ext4-%EC%97%90%EC%84%9C-%EB%8B%AC%EB%9D%BC%EC%A7%84-%EB%B6%80%EB%B6%84%EB%93%A4-2-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%98%81%EC%97%AD%EC%9D%98-%EA%B4%80%EB%A6%AC/)
 * [GNOME3 파일관리자를 nemo로 default application 설정하기](https://sunyzero.tistory.com/258)
 * [10 Best Linux Distros to Install on a USB Stick](https://www.fossmint.com/best-linux-distros-to-install-on-usb)
+* [A beginner's guide to Linux permissions](https://opensource.com/article/19/6/understanding-linux-permissions)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
