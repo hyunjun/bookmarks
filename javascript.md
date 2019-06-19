@@ -73,11 +73,7 @@ Javascript
   * [#2 1 2D Context](https://www.youtube.com/watch?v=IlANstQ1h3M)
   * [#2 2 Recap!](https://www.youtube.com/watch?v=LAG1ERXR2xQ)
   * [#2 3 Changing Color](https://www.youtube.com/watch?v=cq-l2zPUVoU)
-* 자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개
-  * [#1. Call Stack](https://www.youtube.com/watch?v=QkFkFqg-J04)
-  * [#2. Primitive Types](https://www.youtube.com/watch?v=IMyvCJKZSL8)
-  * [#3. Value Types and Reference Types](https://www.youtube.com/watch?v=hYHv5m1NMFE)
-  * [#4. Type Coercion](https://www.youtube.com/watch?v=dIIQmSsg0SI)
+* 자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개 [33 Concepts of JavaScript](https://www.youtube.com/playlist?list=PL7jH19IHhOLMmmjrwCi7-dMFVdoU0hhgF)
 * [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
