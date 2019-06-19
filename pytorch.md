@@ -147,6 +147,7 @@ PyTorch
 * [Getting Started With Pytorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
 * [Diverse Mini-Batch Active Learning](https://github.com/hskimim/active-learning-tutorial/tree/master/Diverse_minibatch_Active_Learning)
 * [Load tacotron2+waveglow from PyTorch Hub](https://jybaek.tistory.com/811)
+* [PyTorch Hub 톺아보기](https://jybaek.tistory.com/813)
 * [A pytorch Implementation of VoVNet Backbone Networks](https://github.com/stigma0617/VoVNet.pytorch)
 * [Detectron with VoVNet : select the vovnet branch https://arxiv.org/abs/1904.09730 ](https://github.com/stigma0617/maskrcnn-benchmark-vovnet/tree/vovnet)
 
