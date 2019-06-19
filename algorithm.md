@@ -159,6 +159,7 @@ Algorithm
 * [General Egg Problem](https://jusths.tistory.com/119)
 * [Egg Dropping Problem - Approach to write the code (Dynamic Programming) | GeeksforGeeks](https://www.youtube.com/watch?v=KVfxgpI3Tv0)
 * [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040)
+* [Maximum Subarray Problem](https://jusths.tistory.com/129)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
