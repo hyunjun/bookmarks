@@ -713,6 +713,7 @@ Deep Learning
 * [LxMLS 2017](https://www.youtube.com/playlist?list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N)
 * [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
 * [Why Randomness should be Embraced and Not Feared](https://medium.com/intuitionmachine/why-randomness-should-be-leveraged-and-not-filtered-be31a94e85ef)
+* [AutoML 1.데이터 어그먼테이션 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/64)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
