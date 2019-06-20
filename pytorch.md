@@ -58,6 +58,7 @@ PyTorch
 * [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
 * [PyTorch vs. TensorFlow: 1 month summary](https://medium.com/towards-data-science/pytorch-vs-tensorflow-1-month-summary-35d138590f9)
 * [PyTorch Neural Style Transfer Windows](http://blog.naver.com/atelierjpro/221115408033)
+* [Fast Style Transfer PyTorch Tutorial](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/)
 * [PyTorch Curve Fitting Test](http://blog.naver.com/atelierjpro/221116977134)
 * [Memory efficient implementation of dense nets](https://www.slideshare.net/HyungjooCho2/memory-efficient-implementation-of-dense-nets)
 * [pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)
