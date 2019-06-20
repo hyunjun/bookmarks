@@ -35,3 +35,4 @@ Flutter
 * [Why I think Flutter is the future of mobile app development](https://medium.freecodecamp.org/why-i-think-flutter-is-the-future-of-mobile-app-development-768332b73c0d)
 * [Top 6 Flutter Development Companies in 2019](https://hackernoon.com/top-6-flutter-development-companies-in-2019-561af21c842a)
 * [Get Started with Flutter](https://medium.com/@euncho/get-started-with-flutter-9703c3f6bd4f)
+* [One Day Builds: Instagram Clone Using Flutter](https://www.youtube.com/watch?v=E2uEfOls4e4)
