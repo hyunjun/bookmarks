@@ -77,6 +77,7 @@ Programming Books
 * (NOT YET) **[HTTP 완벽 가이드: 웹은 어떻게 동작하는가](https://blog.outsider.ne.kr/1431)**
 * (NOT YET) [빅데이터가 만드는 세상 / 빅토르 마이어 쇤버거](http://ohyecloudy.com/pnotes/archives/book-big-data-a-revolution-that-will-transform-how-we-live-work-and-think/)
 * (NOT YET) [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/)
+  * [『OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝』 Python 예제 코드](https://github.com/sunkyoo/opencv4cvml/tree/master/python)
 * (NOT YET) [파이썬으로 만드는 OpenCV 프로젝트, 간단한 영상 입출력부터 머신러닝까지](https://blog.xcoda.net/101)
   * [파이썬으로 만드는 OpenCV 프로젝트](https://blog.insightbook.co.kr/2019/04/03/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-opencv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 * (NOT YET) [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
