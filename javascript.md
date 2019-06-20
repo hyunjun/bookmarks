@@ -1574,6 +1574,7 @@ Javascript
 * [React에 대한 여러 가지 생각](http://youngrok.com/React%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%83%9D%EA%B0%81)
 * [REACT & WEBPACK STARTER](http://dalkstudy.github.io/react-webpack-starter/#/)
   * [React Webpack Starter](https://github.com/dalkstudy/react-webpack-starter)
+* [Let's build a boilerplate with React and Webpack!](https://hackernoon.com/lets-build-a-boilerplate-with-react-and-webpack-eb2fbdb44283)
 * [Try React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [Create Apps with No Configuration](https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html)
 * [Build Todos app with React](http://todomvc.com/examples/react)
