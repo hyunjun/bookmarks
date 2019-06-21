@@ -61,3 +61,4 @@ Government
   * 생각해보면 몇 년 전만 해도 데이터 클린징은 엄청나게 중요한 주제였음
   * 지금도 중요하긴 하지만, 예전에 비해서는 중요도가 많이 약해진 느낌
   * 쓸모없어 보이던 데이터도 이제는 모아서 서로 연결해서 활용해야 함
+* [Awesome Public Industrial Datasets](https://github.com/makinarocks/awesome-industrial-machine-datasets)
