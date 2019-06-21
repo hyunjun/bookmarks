@@ -140,6 +140,9 @@ Bitcoin
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
   * [Ethereum ditching Solidity for Vyper?(이더리움은 바이퍼 때문에 솔리디티를 버렸나?)](https://medium.com/@elastic7327/ethereum-ditching-solidity-for-vyper-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%80-%EB%B0%94%EC%9D%B4%ED%8D%BC-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0%EB%A5%BC-%EB%B2%84%EB%A0%B8%EB%82%98-a47434e02d56)
 
+# Libra
+* [‘Move’ Programming Language: The Highlight of Libra](https://hackernoon.com/move-programming-language-the-highlight-of-libra-122a910d6e0f)
+
 # Library
 * [Bitcoin Trading Agents](http://tombell93.co.uk/wp-content/uploads/2015/05/BitcoinTradingAgents.pdf)
 * [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com ](https://github.com/velopert/bitimulate)
