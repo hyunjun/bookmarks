@@ -495,6 +495,7 @@ Docker
   * [#2 - Chart](https://bcho.tistory.com/1337)
   * [#2-2. Chart (버전과 릴리즈)](https://bcho.tistory.com/1338)
   * [#2-3. Charts (디렉토리 구조)](https://bcho.tistory.com/1339)
+  * [#2-4 Helm Chart Hook](https://bcho.tistory.com/1340)
 * [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * [Getting Started with Kubernetes](https://dzone.com/refcardz/kubernetes-essentials)
