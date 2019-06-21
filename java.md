@@ -649,6 +649,7 @@ Java
 * [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa)
 * [JPA, OneToMany 양방향 관계 "MappedBy" 해설](https://www.youtube.com/watch?v=hsSc5epPXDs)
 * [JPA 엔터티 카운트 성능 개선하기](https://www.popit.kr/jpa-%EC%97%94%ED%84%B0%ED%8B%B0-%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0/)
+* [Spring-Jpa Best Practices](https://github.com/cheese10yun/spring-jpa-best-practices)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
@@ -722,6 +723,7 @@ Java
 * [Spring Framework Documentation -2](https://woolbro.tistory.com/16)
 * [Spring Framework Documentation -3](https://woolbro.tistory.com/18)
 * [Spring Framework Documentation -4](https://woolbro.tistory.com/19)
+* [Spring Framework Documentation - Spring AOP / Example-1](https://woolbro.tistory.com/22)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
