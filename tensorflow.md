@@ -550,6 +550,7 @@ TensorFlow
 * [Dockerfile](https://github.com/kanziw/TensorFlow-Tutorials/blob/kanziw/Dockerfile)
 * [Dockerfile for Pydata Eco Systems with Tensorflow](https://github.com/TeamLab/data_school_at_gachon/tree/master/setup/docker-images/python_34)
 * [NVIDIA docker - Build and run Docker containers leveraging NVIDIA GPUs](https://github.com/NVIDIA/nvidia-docker)
+* [TensorFlow Serving 및 Docker로 신속히 ML 서비스를 제공합니다](https://developers-kr.googleblog.com/2019/06/serving-ml-quickly-with-tensorflow-serving-and-docker.html)
 
 # GAN
 * [Awesome-GANs with Tensorflow](https://github.com/kozistr/Awesome-GANs)
