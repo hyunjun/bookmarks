@@ -139,6 +139,7 @@ AWS
 * [AWS-Kubeflow](https://github.com/graykode/aws-kubeflow)
 * [AWS KMS를 이용한 암호화 API 구축하기](http://woowabros.github.io/experience/2017/02/06/aws-kms.html)
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
+* [AWS 보안 관련 오픈소스 도구 소개 - 방어편-](https://docs.google.com/presentation/d/1VUz6N3A2wc_LY4HbQv6lTmlqFLdnrdI-uzBB1MxRrZg)
 * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
 * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
