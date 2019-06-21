@@ -225,6 +225,7 @@ Machine Learning
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+* [Sergey Feldman: You Should Probably Be Doing Nested Cross-Validation | PyData Miami 2019](https://www.youtube.com/watch?v=DuDtXtKNpZs)
 * [More-flexible machine learning](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * 머신러닝 특집
