@@ -1189,6 +1189,7 @@ Deep Learning
 * [YOLO DARKNET - 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)
   * [github.com/AlexeyAB/darknet](https://github.com/AlexeyAB/darknet/)
 * [waifu2x - Image Super-Resolution for Anime/Fan-Art](https://github.com/nagadomi/waifu2x)
+  * [Waifu Synthesis- real time generative anime](https://vimeo.com/342523600)
 
 # Medical
 * [MOLIERE: Automatic Biomedical Hypothesis Generation System](https://www.youtube.com/watch?v=wA6OCix-4FU&t=7s)
