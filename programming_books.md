@@ -223,6 +223,7 @@ Programming Books
   * 한라 005.133앤14ㅁ
   * [Learning C++ Functional Programming](https://github.com/PacktPublishing/LearningCPPFunctionalProgramming)
   * [(번역서) 모던 C++로 배우는 함수형 프로그래밍 예제 코드](https://github.com/surinkim/learning_cpp_functional_programming_kor)
+* [C++ 최적화 : 최고 성능을 구현하는 10가지 검증된 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B8975427001)
 
 # C#
 
