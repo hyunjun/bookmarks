@@ -405,7 +405,7 @@ App
   * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
   * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
 
-# iPhone
+# iPhone iOS
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
 * [진성 앱등이가 추천하는 아이폰 필수 앱 55선](http://ppss.kr/archives/35079)
 * [아이폰 용량이 부족한 당신을 위한 10가지 팁](http://www.huffingtonpost.kr/2015/01/09/story_n_6441294.html)
@@ -418,6 +418,7 @@ App
 * [Tutanota App - End-to-end encryption](https://tutanota.de/blog/posts/get-the-tutanota-app-for-ios-android)
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 * [많이들 모른다는 아이폰 메모에 숨겨진 기능](http://1boon.kakao.com/share/iphonememo7)
+* [iOS 기본 앱 대체 서드파티 앱 시리즈 리스트 정리](https://www.clien.net/service/board/cm_iphonien/12508851)
 
 # Linux
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
