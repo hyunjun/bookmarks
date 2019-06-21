@@ -36,3 +36,4 @@ Flutter
 * [Top 6 Flutter Development Companies in 2019](https://hackernoon.com/top-6-flutter-development-companies-in-2019-561af21c842a)
 * [Get Started with Flutter](https://medium.com/@euncho/get-started-with-flutter-9703c3f6bd4f)
 * [One Day Builds: Instagram Clone Using Flutter](https://www.youtube.com/watch?v=E2uEfOls4e4)
+* [Stateless 위젯을 만드는 방법](https://developers-kr.googleblog.com/2019/06/how-to-create-stateless-widgets.html)
