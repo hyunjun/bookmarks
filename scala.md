@@ -567,6 +567,7 @@ Scala
 * [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/videos)
   * [Keynote: Scala's Road Ahead - by Martin Odersky](https://www.youtube.com/watch?v=_2oGY8l67jk)
     * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
+* [Scala Days 2019](https://portal.klewel.com/watch/nice_url/scala-days-2019/)
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
   * [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
