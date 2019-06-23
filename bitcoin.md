@@ -149,6 +149,7 @@ Bitcoin
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
+* [Jade Service Runner - A Bridge for Decentralized Service Development](https://hackernoon.com/jade-service-runner-bd5ca222b7fc)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
