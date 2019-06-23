@@ -1773,6 +1773,7 @@ Javascript
 * [실전형 리액트 Hooks | #0 1 Requirements](https://www.youtube.com/watch?v=9-_Xw1RUvj4)
 * [Did you know — createReducer Works with React Hooks. Here’s how](https://medium.com/free-code-camp/did-you-know-createreducer-works-with-react-hooks-heres-how-b324c558e12f)
 * [Learn Hooks in Just 5 Steps with Example](https://hackernoon.com/learn-hooks-in-just-5-steps-with-examples-44436e825f01)
+* [React Hooks + TS + functional = 아름다움](https://speakerdeck.com/ryunzae/react-hooks-plus-ts-plus-functional-equals-areumdaum)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
