@@ -202,7 +202,6 @@ Programming
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
   * [2편(Access Token + Refresh Token)](http://tansfil.tistory.com/59)
   * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
-* [#8. IPFS(InterPlanetary File System)이해하기 1부 : HTTP Web을 넘어서, IPFS Web으로](https://medium.com/@kblockresearch/8-ipfs-interplanetary-file-system-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1%EB%B6%80-http-web%EC%9D%84-%EB%84%98%EC%96%B4%EC%84%9C-ipfs-web%EC%9C%BC%EB%A1%9C-46382a2a6539)
 * **[안정적인 서비스 운영 2014.03](https://www.slideshare.net/cybaek/201403)** 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
 * [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.popit.kr/%ED%9D%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%9E%91%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%82%AC%EB%AD%87-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/) naming
