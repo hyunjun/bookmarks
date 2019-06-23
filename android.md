@@ -54,6 +54,7 @@ Android
 * [Google I/O 2018: Android의 새로운 기능](https://developers-kr.googleblog.com/2018/05/google-io-2018-whats-new-in-android.html)
 * [Google I/O 2018 for Android 소스를 공개합니다](https://developers-kr.googleblog.com/2018/09/google-releases-source-for-google-io.html)
 * [Google I/O 2019: 개발자 여러분들이 Android + Play에서 최상의 경험을 만들도록 지원합니다](https://developers-kr.googleblog.com/2019/05/google-io-2019-empowering-developers-to-build-experiences-on-Android-Play.html)
+* [I/O '19 Extended in Korea Android ~ What's New in Android](http://pluu.github.io/blog/android/2019/06/23/whats-new-in-android/)
 * [2019 Google IO - Architecture Components 정리](https://thdev.tech/google%20io/2019/05/10/Google-IO-2019-Architecture-Components/)
 * [2019 Google IO - What's New Android 살펴보기](https://thdev.tech/google%20io/2019/05/15/Google-IO-2019-Whats-New-Android/)
 * [#01 안드로이드 일기장 앱을 만들어봅시다](https://www.youtube.com/watch?v=yWvBLMJ8O7Q)
