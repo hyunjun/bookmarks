@@ -182,6 +182,7 @@ Git
 * [깃헙 더 잘 쓰는 팁 세가지](https://www.youtube.com/watch?v=pAS84ZJF-Fg)
 * [GIT CLI 수업 명령어 정리와 나의 GIT 워크플로우](https://blog.naver.com/infobag/221527800322)
 * [GitHub Privacy 101: How to remove personal emails from your public repos](https://medium.freecodecamp.org/github-privacy-101-how-to-remove-personal-emails-from-your-public-repos-58347b06a508)
+* [Learn basics of Version Control & Git Commands in less than 10 minutes](https://hackernoon.com/learn-basics-of-version-control-git-commands-in-less-than-10-minutes-9769d3147410)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`
