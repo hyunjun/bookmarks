@@ -102,6 +102,7 @@ Javascript
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
 * [13 Noteworthy Points from Google’s JavaScript Style Guide](https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b)
 * [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
+* [JavaScript Standard Style](https://standardjs.com/)
 * [How to keep your JavaScript code simple and easy to read](https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [c0dility - Refactor yourself](https://codility.com/programmers/)
@@ -1771,6 +1772,7 @@ Javascript
 * [실전형 리액트 Hooks | #0 2 Workflow](https://www.youtube.com/watch?v=JHZ3NPj4jrQ)
 * [실전형 리액트 Hooks | #0 1 Requirements](https://www.youtube.com/watch?v=9-_Xw1RUvj4)
 * [Did you know — createReducer Works with React Hooks. Here’s how](https://medium.com/free-code-camp/did-you-know-createreducer-works-with-react-hooks-heres-how-b324c558e12f)
+* [Learn Hooks in Just 5 Steps with Example](https://hackernoon.com/learn-hooks-in-just-5-steps-with-examples-44436e825f01)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
