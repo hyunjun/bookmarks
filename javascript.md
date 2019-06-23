@@ -590,6 +590,7 @@ Javascript
 * 자바스크립트 예외처리
   * [3/4 - promise의 catch함수](https://www.youtube.com/watch?v=RRc_iVHdDKk)
   * [4/4 - async/await의 예외](https://www.youtube.com/watch?v=kngOWhzPHzg)
+* [UMD(Universal Module Definition) 패턴](https://blog.rhostem.com/posts/2019-06-23-universal-module-definition-pattern)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
