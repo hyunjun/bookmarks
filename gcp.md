@@ -47,6 +47,7 @@ Google Cloud Platform GCP
 * [서버리스 Cloud Functions 사용하기](http://jybaek.tistory.com/752)
 * [Cloud Functions, 이래서 베타다](http://jybaek.tistory.com/753)
 * [BigQuery ML Beta 사용기](https://zzsza.github.io/gcp/2018/08/03/bigqueryml/)
+* [BigQuery ML SQL templates for common marketing use cases](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 * GKE 차근 차근 알아보기
