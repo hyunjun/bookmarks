@@ -134,6 +134,8 @@ Web
 * [Dweb: WebTorrent 로 강인한 웹 만들기](http://hacks.mozilla.or.kr/2018/08/dweb-building-a-resilient-web-with-webtorrent/)
 * [Dweb: Beaker 로 브라우저에서 웹을 서비스하기](http://hacks.mozilla.or.kr/2018/09/dweb-serving-the-web-from-the-browser-with-beaker/)
 * [Dweb: IPFS로 협력과 신뢰가 꽃피는 Web 만들기](http://hacks.mozilla.or.kr/2018/09/dweb-building-cooperation-and-trust-into-the-web-with-ipfs/)
+* [#8. IPFS(InterPlanetary File System)이해하기 1부 : HTTP Web을 넘어서, IPFS Web으로](https://medium.com/@kblockresearch/8-ipfs-interplanetary-file-system-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1%EB%B6%80-http-web%EC%9D%84-%EB%84%98%EC%96%B4%EC%84%9C-ipfs-web%EC%9C%BC%EB%A1%9C-46382a2a6539)
+* [What is the InterPlanetary File System (IPFS)?](https://hackernoon.com/what-is-the-interplanetary-file-system-ipfs-2da976e35d05)
 * [WEB2 - OAuth 2.0](https://opentutorials.org/course/3405)
 * [one page101 - 부트스트랩을 이용해서 원페이지 만드는 과정 학습](https://github.com/pangol/page101)
 * **[웹앱의 미래 (The Future of Web Apps 다시 읽기)](https://www.popit.kr/웹앱의-미래)**
@@ -448,6 +450,7 @@ Web
 * [A Pinterest Progressive Web App Performance Case Study](https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154)
 * [How to write simple modern JavaScript apps with Webpack and progressive web techniques](https://medium.freecodecamp.org/how-to-write-simple-modern-javascript-apps-with-webpack-and-progressive-web-techniques-a30354eab214)
 * [Why Progressive Web Apps are great and and how to build one](https://medium.freecodecamp.org/benefits-of-progressive-web-applications-pwas-and-how-to-build-one-a763e6424717)
+* [Everything you need to know about Progressive Web App (PWA)](https://hackernoon.com/everything-you-need-to-know-about-progressive-web-app-pwa-6524edbb0c57)
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
