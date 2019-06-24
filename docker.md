@@ -547,6 +547,7 @@ Docker
 * [Machine Learning Platform for Kubernetes](https://riseml.com/)
   * [Accelerating I/O bound deep learning on shared storage](https://blog.riseml.com/accelerating-io-bound-deep-learning-e0e3f095fd0)
   * [RiseML supports distributed deep learning with Horovod and TensorFlow](https://blog.riseml.com/riseml-supports-distributed-deep-learning-with-horovod-and-tensorflow-40ac770d0009)
+* [Deploy your machine learning models with tensorflow serving and kubernetes](https://towardsdatascience.com/deploy-your-machine-learning-models-with-tensorflow-serving-and-kubernetes-9d9e78e569db)
 * [Can Kubernetes Revolutionize The Enterprise World?](https://hackernoon.com/can-kubernetes-revolutionize-the-enterprise-world-86f4ec147d1f)
 * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
 * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
