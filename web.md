@@ -77,6 +77,7 @@ Web
 * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
+  * [Web Development Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-june-2019-ac752fe9df47)
   * [Web Development Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-may-2019-4aa4cc5eae73)
   * [Learn Web Development from Top 50 Articles for the Past Year (v.2019)](https://medium.mybridge.co/learn-web-development-from-top-50-articles-for-the-past-year-v-2019-f589aa4d82e5)
   * [Web Development Open Source of the Month (v.Dec 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-dec-2018-57ec5828a6e)
@@ -257,6 +258,7 @@ Web
 * [Python - 한국기상청 도시별 현재 날씨 Data 분석 시각화](https://developer-ankiwoong.tistory.com/260)
 * [파이썬을 통한 웹페이지 크롤링 살펴보기](https://www.youtube.com/watch?v=7_IEdMv9eFE)
 * [데이터톤 - 파이썬 크롤링과 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmqVXoJNbN1PV53XpJTtQGgT)
+* [BSN (Breaking Stock News) 개발기](https://taes-k.github.io/docs/project/bsn/)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
