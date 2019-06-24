@@ -216,6 +216,7 @@ Go
 * [Several tips for Go coding-1](https://jinhoyoo.github.io/Several-tips-for-Go-coding-1)
 * [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
+* [Golang 개발시 Makefile 사용해보기](https://jusths.tistory.com/130)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
