@@ -488,6 +488,9 @@ Javascript
 * [The Role of JavaScript in the Modern Web](https://medium.com/better-programming/the-role-of-javascript-in-the-modern-web-ff0f6961829a)
 * [How to code a chatbot tailored for web apps like Google Maps](https://medium.com/free-code-camp/how-to-code-a-chatbot-tailored-for-web-apps-like-google-maps-cf97fc090676)
 * [0.7KB로 Vue와 같은 반응형 시스템 만들기](https://ui.toast.com/weekly-pick/ko_20190531) reactive
+* [Beyond JavaScript: The Languages for the Modern Web](https://www.youtube.com/watch?v=eUgoto7xWps)
+  * What alternative languages are there for writing modern frontend applications today?
+  * What are the learning curves, best use cases, pros and cons for each of them?
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1877,6 +1880,7 @@ Javascript
 * [The State of React - Jared Palmer (@jaredpalmer) at @ReactEurope 2019](https://www.notion.so/The-State-of-React-Jared-Palmer-jaredpalmer-at-ReactEurope-2019-532abd86b3f8435887ac3b9d4d25a339)
 * [React Native Performance: Do and Don't](https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a)
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
+* [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
