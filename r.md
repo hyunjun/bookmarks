@@ -311,7 +311,9 @@ R
 * [E-mail보내기, 데이터수집을 자동으로? 자동화시스템을 짧은 R코드로 설계 ! 시간과 인건비 절약에 핵심요소](https://www.youtube.com/watch?v=sPVN0aqAjtc)
 * [세상을 바꾼 RNN, LSTM 단 한줄의 코드면 충분합니다 :)](https://www.youtube.com/watch?v=5tqq4fZxO_U)
 * [선형 모형 1: 선형의 의미](http://ds.sumeun.org/?p=1806)
+* [선형 모형 2: 연속형 설명 변수일 때 선형변환을 통한 모형 행렬의 결정](http://ds.sumeun.org/?p=1820)
 * [Data Science for Startups: Business Intelligence](https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75)
+* [경로 분석은 인과 관계를 밝혀낼 수 있는가?](http://ds.sumeun.org/?p=1857)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
