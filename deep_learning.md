@@ -2114,6 +2114,8 @@ CVPR2016)
 * [The Reinforcement Learning Toybox](https://github.com/KDL-umass/Toybox)
 * [How do we make Real World Reinforcement Learning revolution?](https://slideslive.com/38916906/how-do-we-make-real-world-reinforcement-learning-revolution)
 * [Reinforcement Learning in Recommender Systems: Some Challenges](https://slideslive.com/38916907/reinforcement-learning-in-recommender-systems-some-challenges)
+* [강화학습기초(MDP, Monte-Carlo, Time-difference, sarsa, q-learning) 파트1](https://www.slideshare.net/LeejinJeong/mdp-montecarlo-timedifference-sarsa-qlearning-1)
+* [강화학습 기초 2(Deep sarsa, Deep Q-learning, DQN)](https://www.slideshare.net/LeejinJeong/deep-sarsa-deep-qlearning-dqn-102870420)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
