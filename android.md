@@ -102,6 +102,7 @@ Android
 * [안드로이드 액티비티 생명주기(Life Cycle)](https://brunch.co.kr/@mystoryg/80)
 * [안드로이드 Dalvik & ART (1/2)](https://brunch.co.kr/@mystoryg/81)
 * [안드로이드 Dalvik & ART (2/2)](https://brunch.co.kr/@mystoryg/82)
+* [AppUpdateManager를 이용한 앱 업데이트 처리](https://blog.kmshack.kr/AppUpdateManager/)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
