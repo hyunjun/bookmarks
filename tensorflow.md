@@ -483,6 +483,7 @@ TensorFlow
 * [용인시 수지구 죽전동 도담마을 우미이노스빌 아파트 매매가 예측 - 머신러닝 LTSM모델 활용](https://blog.naver.com/miso7016/221555984240)
 * [용인시 수지구 죽전동 도담마을 우미이노스빌 아파트 매매가 예측 - 머신러닝 LTSM모델 활용 - 2탄](https://blog.naver.com/miso7016/221556002507)
 * [GDWCT-Tensorflow - Simple Tensorflow implementation of "Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation" (CVPR 2019 Oral)](https://github.com/taki0112/GDWCT-Tensorflow)
+* [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
