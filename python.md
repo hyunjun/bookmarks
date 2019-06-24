@@ -1596,6 +1596,7 @@ Python
 * [Flask Movie API Example](https://www.youtube.com/watch?v=Urx8Kj00zsI)
 * [How to build a cryptobot in Python and connect it to Facebook messenger](https://medium.freecodecamp.org/how-to-build-a-cryptobot-in-python-and-connect-it-to-facebook-messenger-4bba14107fcc)
 * [Building a URL Shortener in Flask](https://www.youtube.com/watch?v=rGQKHpjMn_M)
+* [Get Form Checkbox Data in Flask With .getlist](https://www.youtube.com/watch?v=_sgVt16Q4O4)
 
 ## Flask Library
 * [Flask-aiohttp — Asynchronous Flask application with aiohttp](https://flask-aiohttp.readthedocs.io)
