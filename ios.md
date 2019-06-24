@@ -396,6 +396,7 @@ iOS
 * [Creating Custom Operators in Swift](https://hackernoon.com/creating-custom-operators-in-swift-2c8bababbaf6)
 * [Dart vs Swift: a comparison](https://medium.com/coding-with-flutter/dart-vs-swift-a-comparison-6491e945dc17)
 * [Swift Multi-Threading using GCD For Beginners](https://hackernoon.com/swift-multi-threading-using-gcd-for-beginners-2581b7aa21cb)
+* [Magic Trick Revealed: Breaking the Nil-Coalescing Operator in Swift](https://hackernoon.com/magic-trick-revealed-breaking-the-nil-coalescing-operator-in-swift-7f319e40e0bd)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
