@@ -649,6 +649,7 @@ Docker
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
 * [Kubernetes Cluster 업데이트가 쏘아 올린 서비스 장애](https://medium.com/rainist-engineering/updating-k8s-cluster-cause-major-outage-1d79304d63eb)
 * [50 days from zero to hero with Kubernetes](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf)
+* [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
