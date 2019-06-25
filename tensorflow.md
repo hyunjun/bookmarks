@@ -485,6 +485,7 @@ TensorFlow
 * [GDWCT-Tensorflow - Simple Tensorflow implementation of "Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation" (CVPR 2019 Oral)](https://github.com/taki0112/GDWCT-Tensorflow)
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [My Tensorflow Test](https://github.com/rky0930/MyTensorflowTest)
+* **[CPU, GPU, and TensorFlow](https://teamdable.github.io/techblog/CPU-GPU-and-TensorFlow)** CPU, GPU의 기본 구조 및 차이에 대한 좋은 글
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
@@ -743,6 +744,7 @@ TensorFlow
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
   * [TensorFlow for JavaScript](https://www.youtube.com/watch?v=0nYmKKxGUBo)
 * [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)
+  * [pix2pix GAN in TensorFlow 2.0](https://towardsdatascience.com/pix2pix-gan-in-tensorflow-2-0-fe0ab475c713)
 * [TensorFlow Probability](https://github.com/tensorflow/probability) 확률론적 프로그래밍
   * TFP는 TensorFlow를 기반으로하는 Python 라이브러리로서 현대 하드웨어에서 확률모델과 딥러닝을 쉽게 결합해 우리 주변의 불확실성을 모델링 가능
   * TFP를 사용하면 다음을 수행 가능
