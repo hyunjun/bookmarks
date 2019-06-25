@@ -355,6 +355,7 @@ Programming Language
 * [Ur - The Ur Programming Language Family](http://www.impredicative.com/ur/)
 * [Urn: A Lisp implementation for Lua](http://urn-lang.com/)
   * [urn lisp 간단 테스트](https://groups.google.com/forum/#!topic/clojure-kr/ryEb9M8cFAk)
+* [V - The V Programming Language Simple, fast, safe, compiled language for developing maintainable software](https://vlang.io/)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
 * Wasabi
   * [Wasabi: The ??? Parts](http://jacob.jkrall.net/wasabi-the-parts/)
