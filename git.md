@@ -208,6 +208,7 @@ Git
   * [Git Flow와 자주 사용하는 명령어들](https://www.holaxprogramming.com/2017/08/26/devops-git-commands/)
   * [우린 Git-flow를 사용하고 있어요](http://woowabros.github.io/experience/2017/10/30/baemin-mobile-git-branch-strategy.html)
   * [Git Flow Integration으로 Git Flow 심플하게 운영하기](http://jojoldu.tistory.com/268)
+  * [practice - git flow](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-git_flow-md)
   * [Introducing GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
   * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
