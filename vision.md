@@ -279,6 +279,7 @@ Vision
 * [A Deep Learning based magnifying glass](https://medium.com/idealo-tech-blog/a-deep-learning-based-magnifying-glass-dae1f565c359)
 * [Zoom in... enhance: a Deep Learning based magnifying glass - part 2](https://medium.com/idealo-tech-blog/zoom-in-enhance-a-deep-learning-based-magnifying-glass-part-2-c021f98ebede)
 * [Object Detection — A Game Changer for Market Research](https://blog.karna.ai/object-detection-a-game-changer-for-market-research-19799b67fdb2)
+* [NSFW Tensorflow: Identifying objectionable content using Deep Learning](https://cv-tricks.com/tensorflow-tutorial/nsfw-tensorflow-identifying-objectionable-content-deep-learning)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
