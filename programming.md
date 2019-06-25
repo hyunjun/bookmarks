@@ -621,6 +621,8 @@ Programming
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
 * [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
+* [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
+* [allitebooks.org](http://www.allitebooks.org/)
 
 # Build Compile
 * [Memory Map과 Symbol 이야기](http://recipes.egloos.com/5009181)
