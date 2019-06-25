@@ -2660,6 +2660,9 @@ Python
   * [Virtual Environments in Python Made Easy](http://www.sitepoint.com/virtual-environments-python-made-easy/)
   * [The Python Package Dreamteam](https://towardsdatascience.com/the-python-dreamteam-27f6f9f08c34)
   * [Python Virtualenv with Hadoop Streaming](https://henning.kropponline.de/2014/07/18/virtualenv-hadoop-streaming/)
+  * [가상환경 virtualenv(1)](https://woolbro.tistory.com/25)
+  * [가상환경 virtualenv(2) - 실행/설치/관리](https://woolbro.tistory.com/26)
+  * [가상환경 virtualenv(3) - 설치 패키지 사용하기](https://woolbro.tistory.com/27)
 
 # Microservice
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
