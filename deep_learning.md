@@ -815,6 +815,7 @@ Deep Learning
 * [Lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)
 * [The Backpropagation Algorithm Demystified](https://medium.com/@nathaliejeans7/the-backpropagation-algorithm-demystified-41b705229727)
 * [Nevergrad : A Python toolbox for performing gradient-free optimization](https://www.techleer.com/articles/576-nevergrad-a-python-toolbox-for-performing-gradient-free-optimization/)
+* **[역전파 알고리즘 완전정복 A Step by Step Backpropagation](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)**
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
