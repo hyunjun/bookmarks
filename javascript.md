@@ -1608,6 +1608,7 @@ Javascript
 * [React.js Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-oct-2018-1d2540bfbd7a)
 * [React.js Open Source Projects of the Month (v.June 2018)](https://medium.mybridge.co/react-js-open-source-projects-of-the-month-v-june-2018-707339ace0d6)
 * [React.js Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-nov-2018-bb199eea39b1)
+* [React.js Top 10 Articles for the Past Month (v.Oct 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-oct-2018-986c61b5a8cd)
 * [React.js Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-june-2018-1ff4302fc72c)
 * [React.js Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/react-js-top-10-articles-for-the-past-month-v-june-2018-1ff4302fc72c)
 * [React.js Open Source of the Month (v.May 2018)](https://medium.mybridge.co/react-js-open-source-of-the-month-v-may-2018-d39835f73842)
