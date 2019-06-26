@@ -32,6 +32,8 @@ AWS
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
 * [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
 * [Building an API with Amazon’s API Gateway](https://hackingandslacking.com/building-an-api-with-amazons-api-gateway-9204d9dec5c7)
+* [How to deploy a Serverless Machine Learning Microservice with AWS Lambda, AWS API Gateway and scikit-learn](https://medium.com/@patrickmichelberger/how-to-deploy-a-serverless-machine-learning-microservice-with-aws-lambda-aws-api-gateway-and-d5b8cbead846)
+  * [Serverless Machine Learning](https://github.com/patrick-michelberger/serverless-machine-learning)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
 * [AWS EC2에 HADOOP 설치하기](https://jungwoon.github.io/jungwoon.github.io/HADOOP-SETUP-EC2/)
