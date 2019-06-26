@@ -325,6 +325,7 @@ NLP
   * [Source code for "Efficient Training of BERT by Progressively Stacking"](https://github.com/gonglinyuan/StackingBERT)
 * [한국어로 XLNet 학습해보기!](https://banana-media-lab.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A1%9C-XLNet-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [Google Brain’s XLNet bests BERT at 20 NLP tasks](https://venturebeat.com/2019/06/21/google-brains-xlnet-bests-bert-at-20-nlp-tasks/)
+* [XLNet: Generalized Autoregressive Pretraining for Language Understanding(19.06.25)](https://www.notion.so/f4b608f11dfc4c8c8eb4c504f867d4aa)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
