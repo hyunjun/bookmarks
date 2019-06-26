@@ -2250,6 +2250,7 @@ Javascript
 * [A crash course in TypeScript](https://medium.freecodecamp.org/a-crash-course-in-typescript-e6bf9c10946)
 * [React, Typescript, Webpack환경에서 번들링 속도 올리기](https://b.luavis.kr/web/speed-up-webpack)
 * [TypeScript를 사용하여 간단한 인공 신경망 개발 삽질기](https://evan-moon.github.io/2019/02/26/simple-ann/)
+* [리액트, 타입스크립트 시작하기](http://jeonghwan-kim.github.io//dev/2019/06/25/react-ts.html)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
