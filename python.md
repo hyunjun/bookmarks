@@ -1299,6 +1299,7 @@ Python
   * [장고 ORM 요리책](https://github.com/8percent/django-orm-cookbook-ko)
   * [Django ORM cookbook 번역 후기](https://8percent.github.io/2018-10-07/Django-ORM-cookbook-translate/) read the docs, sphinx
 * [Django ORM Relationships Cheat Sheet](https://hackernoon.com/django-orm-relationships-cheat-sheet-14433d6cf68c)
+* [ORM으로 Aggregation 함수와 Group by 사용](https://brownbears.tistory.com/376)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
@@ -1306,6 +1307,7 @@ Python
 * [장고 페어코딩 후](http://tech.jinto.pe.kr/546)
 * [도서 — 파이썬 웹프로그래밍 실전편 (요약)](https://medium.com/%EB%8F%84%EC%84%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%A4%EC%A0%84%ED%8E%B8-%EC%9A%94%EC%95%BD)
 * [Django migration 궁금증](http://curzy95.tumblr.com/post/154808299896/django-migration-%EA%B6%81%EA%B8%88%EC%A6%9D)
+* [How to migrate Django from SQLite to PostgreSQL](https://gist.github.com/sirodoht/f598d14e9644e2d3909629a41e3522ad)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [장고(Django)와 함께하는 Celery 첫걸음](https://beomi.github.io/2016/11/04/eb-b2-88-ec-97-ad-ec-9e-a5-ea-b3-a0django-ec-99-80-ed-95-a8-ea-bb-98-ed-95-98-eb-8a-94-celery-ec-b2-ab-ea-b1-b8-ec-9d-8c/)
 * [Django에 Custom인증 붙이기](https://beomi.github.io/2017/02/02/Django-CustomAuth/)
@@ -1437,6 +1439,7 @@ Python
 * [장고 프로젝트 Django Simple Web Project - 1 (장고 설치하기)](https://woolbro.tistory.com/3)
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
 * [Python and django](https://www.youtube.com/playlist?list=PLxvvv6r2iXY8kteUZ7Q2Ts0T0qLcMYSSI) Python and django full stack Web Developer bootcamp
+* [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/) logout 후 content에 접근을 막는 방법
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -1762,6 +1765,7 @@ Python
   * [How to change JupyterLab Theme(Easy Method)](https://www.youtube.com/watch?v=yI0K0k-Ari0)
   * [JupyterLab first impressions](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
   * [Jupyter Notebook보다 쉽고 편리하다, Jupyter Lab!](https://tariat.tistory.com/537)
+  * [github jupyterlab-extension](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ajupyterlab-extension&type=Repositories)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
