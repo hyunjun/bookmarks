@@ -315,6 +315,7 @@ App
     * [atom 에 눈을 돌리다](http://jybaek.tistory.com/710)
     * [Become The Shortcut Master — Chrome and Atom (Part 2)](https://hackernoon.com/become-the-shortcut-master-chrome-and-atom-part-2-c866150caa7)
     * [텍스트 에디터 Atom(아톰) 패키지 추천(Activate Power Mode)](https://webruden.tistory.com/81)
+    * [The Ultimate Atom Editor Setup (+for JS/React)](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
   * Prettier
     * [나중에 알면 후회한다. 코딩 인생템 'Prettier' (Useful VSC Extension: Prettier)](https://www.youtube.com/watch?v=ya78lQi5vVI)
   * VS Code, visual studio code
@@ -342,6 +343,7 @@ App
     * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
     * [Building Python Web Applications with Visual Studio Code Docker and Azure - BRK3020](https://www.youtube.com/watch?v=eUitxqLxICo)
     * [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
+    * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
