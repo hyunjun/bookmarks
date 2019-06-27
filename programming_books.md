@@ -425,6 +425,8 @@ Programming Books
 * (NOT YET) [가장 쉬운 딥러닝 입문 교실 그림으로 쉽게 이해하는 딥러닝 이론](http://wikibook.co.kr/easy-deep-learning/)
 * (NOT YET) [초보자를 위한 신경망 딥러닝 입문 수식 없이, 코딩 없이 드래그 앤드 드롭으로 배우는 딥러닝](http://wikibook.co.kr/neural-deep-learning/)
 * (NOT YET) [나의 첫 머신러닝/딥러닝 파이썬으로 구현해보는 필수 머신러닝/딥러닝 알고리즘](http://wikibook.co.kr/machine-learning/)
+* (NOT YET) [실체가 손에 잡히는 딥러닝, 기초부터 실전 프로그래밍 기초 수학과 파이썬 코드를 따라만 하면 신기하게 이해되는](https://blog.naver.com/hico01/221557056078)
+  * [실체가 손에 잡히는 딥러닝(1) "인공지능의 세계, 머신러닝과 딥러닝은 어떻게 등장했나"](https://www.popit.kr/deep-learning-1)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
