@@ -63,6 +63,7 @@
 * [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
 * [sysnet.pe.kr](https://www.sysnet.pe.kr)
 * [C/C++ 코딩 스타일](https://surpreem.com/c-c-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC/)
+* [Dll을 이용하여 배달대행 주문정보 연동](http://woowabros.github.io/study/2019/06/27/delivery-dll-relaytion.html)
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)
