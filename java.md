@@ -157,6 +157,7 @@ Java
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
 * net
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/28)
+  * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/29)
 * NIO
   * **[NIO 정리](https://jungwoon.github.io/java/2019/01/14/NIO/)** 예제와 함께 전반적으로 잘 정리
 * Object
