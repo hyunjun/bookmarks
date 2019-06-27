@@ -161,6 +161,7 @@ Linux
   * [python-crontab](https://pypi.python.org/pypi/python-crontab)
   * [Cron Expression](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180927_SM_Cron_Expressions.md)
 * `curl`
+  * [practice - `-k` insecure & `-svo` verbose](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-curl_insecure-md)
   * [A CURL CHEAT SHEET](http://daniel.haxx.se/blog/2015/09/16/a-curl-cheat-sheet/)
   * [online curl commandline builder](https://curlbuilder.com/)
   * [TLS Connection Control](http://blog.mailgun.com/tls-connection-control/)
