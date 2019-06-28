@@ -1177,6 +1177,7 @@ Javascript
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
+* [Why MEAN is an ideal stack for large-scale eCommerce projects](https://hackernoon.com/why-mean-is-an-ideal-stack-for-large-scale-ecommerce-projects-7432c006de83)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [WEB2 - Node.js](https://opentutorials.org/course/3332)
