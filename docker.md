@@ -333,6 +333,7 @@ Docker
 * [Part I: Is Docker Supported in OpenShift 4 and RHEL 8?](http://crunchtools.com/docker-support/)
 * [Part II: Why Is There No Docker in OpenShift 4 and RHEL 8?](http://crunchtools.com/why-no-docker/)
   * [Part II: Why Is There No Docker in OpenShift 4 and RHEL 8?](https://www.linkedin.com/pulse/part-ii-why-docker-openshift-4-rhel-8-scott-mccarty/)
+* [Continuous Development with Docker and VSCode](https://hackernoon.com/continuous-development-with-docker-and-vscode-go-version-164ee78d09bf)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
