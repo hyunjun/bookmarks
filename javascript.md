@@ -221,6 +221,7 @@ Javascript
 * [The 4 Layers of Single Page Applications You Need to Know](https://hackernoon.com/architecting-single-page-applications-b842ea633c2e)
 * [AJAX 와 HASHBANG 그리고 PJAX](https://rkjun.wordpress.com/2012/05/29/ajax-%EC%99%80-hashbang-%EA%B7%B8%EB%A6%AC%EA%B3%A0-pjax/)
 * [JavaScript Everywhere from Mobile and Robot](http://www.slideshare.net/circulus_official/javascript-everywhere-from-mobile-and-robot)
+* [Javascript is Everywhere 행사 발표 재방송](https://www.youtube.com/watch?v=9_iPq8eoaeY)
 * [네이버 쇼핑의 새로운 카드형 UI 라이브러리, eg.InfiniteGrid](http://d2.naver.com/helloworld/4874130)
 * [poiemaweb.com](http://poiemaweb.com/) HTML5, CSS3, Bootstrap, Sass, JavaScript, jQuery, Snippet, Node.js, Express, MongoDB, TypeScript, Jekyll
 * [How it feels to learn JavaScript in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
