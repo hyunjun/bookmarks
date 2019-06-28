@@ -333,6 +333,7 @@ Programming
 * [JSP&Servlet MVC 아키텍처](http://bbigbros.tistory.com/entry/ServletJSP-MVC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * **[M-V-Whatever 정리 - 1.MVC](https://blog.naver.com/jukrang/221414570067)**
 * [MVP Library 소개](http://softwaree.tistory.com/10)
+* [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
@@ -1352,6 +1353,7 @@ Programming
   * [gRPC Channel, Stream 개념](http://bcho.tistory.com/1294)
   * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
   * [gRPC Deadline](https://jusths.tistory.com/131)
+  * [gRPC Error in Golang](https://jusths.tistory.com/132)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 
