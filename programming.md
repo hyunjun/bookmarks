@@ -455,6 +455,7 @@ Programming
 * [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
 * [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
 * **[jack-vanlightly.com/blog/category/Distributed+Systems](https://jack-vanlightly.com/blog/category/Distributed+Systems)**
+* [Many Nodes, One Distributed System](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
 
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
