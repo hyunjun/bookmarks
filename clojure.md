@@ -565,6 +565,7 @@ Clojure
 * [Enlive - a selector-based (à la CSS) templating library for Clojure](https://github.com/cgrand/enlive)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
 * [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
+* [Eva - a distributed database-system implementing an entity-attribute-value data-model](https://github.com/Workiva/eva/)
 * [event - event signalling and conditional restart](http://docs.caudate.me/hara/hara-event.html) Clojure(Script) restart system (in Common Lisp) better than exception system
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [failjure - Monadic error utilities for general use in Clojure projects](https://github.com/adambard/failjure) return값으로 error를 다루는 library
