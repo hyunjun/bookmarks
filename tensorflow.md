@@ -503,6 +503,7 @@ TensorFlow
 * [TensorFlow 2.0 and Cloud AI make it easy to train, deploy, and maintain scalable machine learning models](https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-2-0-and-cloud-ai-make-it-easy-to-train-deploy-and-maintain-scalable-machine-learning-models)
 * [TensorFlow 2.0에서 기호형 API와 명령형 API란?](https://developers-kr.googleblog.com/2019/05/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0.html)
 * [TensorFlow 2.0 Global Docs Sprint](https://www.youtube.com/playlist?list=PLNPGisnO0ega4FeRSL4VCJHhFfhr0sXQC)
+* [Deep Learning With TF 2.0: 04.00- Numerical Computation](https://www.adhiraiyan.org/deeplearning/04.00-Numerical-Computation)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
