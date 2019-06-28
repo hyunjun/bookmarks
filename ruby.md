@@ -106,3 +106,4 @@ Ruby
 * [Custom URLs in Ruby on Rails: How you can use descriptive slugs instead of IDs](https://medium.freecodecamp.org/custom-urls-in-ruby-on-rails-use-descriptive-slugs-instead-of-ids-67c631475a94)
 * [A simple explanation of Service Objects for Ruby on Rails](https://medium.freecodecamp.org/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f)
 * [Contributing to Ruby on Rails is not hard. Here’s how you can suggest a new feature](https://medium.freecodecamp.org/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69)
+* [Integrating Bootstrap 4 into Rails 6](https://hackernoon.com/integrating-bootstrap-4-into-rails-6-9ae2bbb44999)
