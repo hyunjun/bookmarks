@@ -159,6 +159,7 @@ PyTorch
 * [pytorch implementation of google BERT](https://github.com/dhlee347/pytorchic-bert)
 * [딥러닝으로 동네생활 게시글 필터링하기](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d)
 * [KorQuAD (Korean Question Answering Dataset) submission guide using PyTorch pretrained BERT](https://github.com/lyeoni/KorQuAD)
+* [XLNet-Pytorch arxiv:1906.08237 Simple XLNet implementation with Pytorch Wrapper!](https://github.com/graykode/xlnet-Pytorch)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
