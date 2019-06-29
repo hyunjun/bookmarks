@@ -308,6 +308,7 @@ Interview
   * Tinder, Dating App
     * [System Design: Designing Tinder's Server Side](https://www.youtube.com/watch?v=tndzLznxq40)
     * [How to Build a Perfect Dating App?](https://www.engineerbabu.com/blog/love-online-building-a-dating-app/)
+    * [Tinder System design | Dating app system design | tinder software architecture](https://www.youtube.com/watch?v=nBdTBDJNOh8)
   * Web crawler
     * [Design a web crawler](https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/web_crawler/README.md)
     * [Build a Web Crawler](http://blog.gainlo.co/index.php/2016/06/29/build-web-crawler/)
@@ -350,6 +351,8 @@ Interview
     * DB 샤드 갯수도, 웹서버 클러스터도 너무 많다고 가정. 그들간의 네트워킹을 이어주는 장치(스위치 허브 등)에 과부하가 걸리면 어떻게 수평확장?
   * [Load Balancing](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5747976207073280)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
+* [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
+* [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
 * [System Design: Why Databases shouldn't be used as Message Queues](https://www.youtube.com/watch?v=9T-gNZ5bGCw) DB 기본에 대해 좋은 설명
 * [Software Architecture](http://tutorials.jenkov.com/software-architecture/index.html)
 * [Le Cloud Blog](http://www.lecloud.net/tagged/scalability)
