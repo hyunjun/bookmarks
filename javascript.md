@@ -1080,6 +1080,8 @@ Javascript
 * [Rune.js is a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
+* [serializr - Serialize and deserialize complex object graphs to and from JSON and Javascript classes](https://github.com/mobxjs/serializr)
+  * [실행 취소 / 다시 실행 기능 구현하기(feat. serializr)](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [Smartcrop.js implements an algorithm to find good crops for images](https://github.com/jwagner/smartcrop.js/)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
@@ -1141,6 +1143,7 @@ Javascript
   * [webpack 설정파일을 한땀한땀 만들어 보자](https://github.com/hg-pyun/step-by-step-webpack-config)
   * [webpack: From 0 to automated testing](https://itnext.io/webpack-from-0-to-automated-testing-4634844d5c3c)
   * [A tale of Webpack 4 and how to finally configure it in the right way. Updated](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
+  * [월요일의 버그 - webpack-cli 오픈소스 뒤에 있는 것은 사람이다](https://libsora.so/posts/bug-of-monday-webpack-cli/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -1411,6 +1414,7 @@ Javascript
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [10 Node.js Frameworks Worth Checking Out: Express, Loopback, Hapi, and Beyond](https://medium.freecodecamp.org/10-node-js-frameworks-worth-checking-out-express-loopback-hapi-and-beyond-7b537b590f89)
+* [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
 * [boardgame.io](https://google.github.io/boardgame.io/) React + Redux + socket.io + koa.js
@@ -1886,6 +1890,7 @@ Javascript
 * [React Native Performance: Do and Don't](https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a)
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
 * [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
+* [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture/blob/master/README.md)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
