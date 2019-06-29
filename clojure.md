@@ -275,6 +275,10 @@ Clojure
 * [Domain Modelling using Clojure](https://gist.github.com/dfcarpenter/7d49ed98c25408e2b2bfbdf141c1c407)
 * [What I learned after writing Clojure for 424 days, straight](https://medium.com/@shivekkhurana/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e)
 * [Fast Function Currying in Clojure (Without Macros)](https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure)
+* A Joyful Introduction to Clojure
+  * [Part I - A Clojure Development Environment That Gets Out of Your Way](https://medium.com/@daniel.oliver.king/a-clojure-development-environment-that-gets-out-of-your-way-c11e6711ead3)
+  * [Part II - Getting Work Done in Clojure: The Building Blocks](https://medium.com/@daniel.oliver.king/getting-work-done-in-clojure-the-building-blocks-39ad82796926)
+  * [Part III - Getting REAL Work Done In Clojure: Application Development](https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
