@@ -217,6 +217,7 @@ Go
 * [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
 * [Golang 개발시 Makefile 사용해보기](https://jusths.tistory.com/130)
+* [Password Stretching using Key Derivation Function(KDF)](https://hackernoon.com/password-stretching-using-key-derivation-function-kdf-a5abc570f9e5)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
@@ -355,6 +356,10 @@ Go
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [Gsp is a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
+* gRPC
+  * [gRPC Deadline](https://jusths.tistory.com/131)
+  * [gRPC Error in Golang](https://jusths.tistory.com/132)
+  * [Clean Architecture in Go - An example of clean architecture in Go using gRPC](https://medium.com/@hatajoe/clean-architecture-in-go-4030f11ec1b1)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [hangulize.org](https://hangulize.org)
   * [한글라이즈 재제작기](https://www.slideshare.net/sublee/ss-113085659)
