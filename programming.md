@@ -1353,8 +1353,6 @@ Programming
   * [구글의 HTTP 기반의 RPC 프로토콜 GRPC](http://bcho.tistory.com/1011)
   * [gRPC Channel, Stream 개념](http://bcho.tistory.com/1294)
   * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
-  * [gRPC Deadline](https://jusths.tistory.com/131)
-  * [gRPC Error in Golang](https://jusths.tistory.com/132)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 
