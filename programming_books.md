@@ -1225,6 +1225,7 @@ Programming Books
   * [HTTP의 구조 및 핵심 요소](https://zzsza.github.io/development/2019/03/01/http-structure/)
 * (NOT YET) [바이오파이썬으로 만나는 생물정보학](https://bjpublic.tistory.com/324)
 * (NOT YET) [파이썬 표현력을 끌어올려 주는『슬기로운 파이썬 트릭』](https://blog.insightbook.co.kr/2019/01/23/파이썬-표현력을-끌어올려-주는『슬기로운-파이썬)
+* (NOT YET) [파이썬을 활용한 부동산 데이터 분석 파이썬 기초부터 실제 부동산 데이터를 활용한 매매분석, 수요예측, 시각화까지](https://wikibook.co.kr/python-real-estate)
 
 # R
 
