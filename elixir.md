@@ -64,6 +64,7 @@ Elixir
 * [A command line weather app built using elixir](https://github.com/tacticiankerala/elixir-weather)
 * [alchemist.el - Elixir Tooling Integration Into Emacs http://www.alchemist-elixir.org](https://github.com/tonini/alchemist.el)
 * [Alchemist v1.0 is released! – Elixir Tooling Integration Into Emacs](http://erlangcentral.org/alchemist-v1-0-is-released-elixir-tooling-integration-into-emacs)
+* [asdf-vm Build Status - Manage multiple runtime versions with a single CLI tool, extendable via plugins - docs at asdf-vm.com ](https://github.com/asdf-vm/asdf)
 * [bitcoin-ex - A Bitcoin Protocol Parser and Full Bitcoin Node in Elixir/OTP](https://github.com/justinlynn/bitcoin-ex)
 * [ElixirScript - The goal is to convert a subset (or full set) of Elixir code to JavaScript, providing the ability to write JavaScript in Elixir](https://github.com/bryanjos/elixirscript)
 * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
