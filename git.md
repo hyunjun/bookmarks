@@ -333,6 +333,7 @@ Git
 * gitignore
   * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
   * [gitignore.io](https://www.gitignore.io/)
+  * [Git 전역 ignore 파일](https://hyeonseok.com/soojung/dev/2019/06/29/853.html)
 * hook
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [훅으로 Git에 훅 들어가기](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
