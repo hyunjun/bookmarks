@@ -448,6 +448,7 @@ Machine Learning
 * [Deep Learning Multi Host & Multi GPU Architecture 고찰 및 구성 1 - with tensorflow, cntk, keras, horovod, Azure Batch AI](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu.html)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-machine-learning](https://github.com/Mybridge/learn-machine-learning)
+  * [Machine Learning Open Source of the Month (v.June 2019)](https://medium.mybridge.co/machine-learning-open-source-of-the-month-v-june-2019-b6b43596aaaf)
   * [Machine Learning Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-june-2019-be8235cabaf0)
   * [Machine Learning Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/machine-learning-open-source-for-the-past-month-v-may-2019-bf4ff9b80b1b)
   * [Machine Learning Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/machine-learning-top-10-articles-for-the-past-month-v-may-2019-f97115f89bc3)
@@ -640,6 +641,7 @@ Machine Learning
 * [Machine Learning 스터디 (13) Clustering (K-means, Gaussian Mixture Model)](http://sanghyukchun.github.io/69/)
 * [K-means 알고리즘 구현하기](https://junpyopark.github.io/K_means/)
 * [Hands-On with Unsupervised Learning](https://towardsdatascience.com/hands-on-with-unsupervised-learning-93d4d6cad4c7)
+* [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
 
 ## Clustering Python
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
