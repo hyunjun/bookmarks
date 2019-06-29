@@ -129,6 +129,7 @@ Web
 * [꼼꼼히 살펴보는 SCRIPT 엘리먼트](https://taegon.kim/archives/6804)
 * [Micro frontends—a microservice approach to front-end web development](https://medium.com/@tomsoderlund/micro-frontends-a-microservice-approach-to-front-end-web-development-f325ebdadc16)
 * [The 2018 Roadmap To FullStack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a)
+* [How to Learn Fullstack Development: A Roadmap in Charts](https://medium.com/@dtkatz/how-to-learn-fullstack-development-a-roadmap-in-charts-9b9e4aac400f)
 * [Building a really fast website from scratch](https://hackernoon.com/building-a-really-fast-website-from-scratch-6c822b1ae1b0)
 * [Dweb 소개](http://hacks.mozilla.or.kr/2018/08/dweb-%ec%86%8c%ea%b0%9c/)
 * [Dweb: Secure Scuttlebutt 으로 소셜 피드 작성하기](http://hacks.mozilla.or.kr/2018/08/dweb-social-feeds-with-secure-scuttlebutt/)
