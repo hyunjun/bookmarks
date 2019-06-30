@@ -343,6 +343,7 @@ AWS
 * [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
 * [AWS에서 RStudio 구축하기](https://medium.com/@hslee09/aws-aws%EC%97%90%EC%84%9C-rstudio-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-291d7ff6fa0e)
+* [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -499,6 +500,7 @@ AWS
   * 더 큰 Lambda와 Step Function 프로덕션 배치에서는 REST 및 API Gateway 우회 경로없이 순수한 Lambda 이벤트로 트리거된 플로우를 호출 가능
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
+* [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 
 # Library
 * [AWSInterface - 몇번의 클릭만으로 API를 구성하고 SDK를 배포](https://aws-interface.com)
