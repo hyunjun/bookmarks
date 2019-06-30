@@ -281,6 +281,8 @@ Data Science
 * [데이터 사이언스 Meetup](https://tidyverse-korea.github.io/r-meetup-x-presser/)
 * [The penalty of missing values in Data Science](https://medium.com/free-code-camp/the-penalty-of-missing-values-in-data-science-91b756f95a32)
 * [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) 다양한 분야의 적용 예
+* [4 Pillars of Analytics Data acquisition, processing, surfacing and actioning are key to an effective analytics initiative](https://medium.com/analytics-and-data/4-pillars-of-analytics-1ee79e2e5f5f)
+* [Data Science for Startups: Tracking Data](https://towardsdatascience.com/data-science-for-startups-tracking-data-4087b66952a1)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
