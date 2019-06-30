@@ -152,6 +152,7 @@ PyTorch
 * [A pytorch Implementation of VoVNet Backbone Networks](https://github.com/stigma0617/VoVNet.pytorch)
 * [Detectron with VoVNet : select the vovnet branch https://arxiv.org/abs/1904.09730 ](https://github.com/stigma0617/maskrcnn-benchmark-vovnet/tree/vovnet)
 * [RESNEXT WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext) 페이스북 인스타그램 해시태그 pre-trained ResNext 모델
+* [AirSim Unity Reinforcement Learning Quadrotor Pytorch](https://github.com/subinlab/airsim_quadrotor_pytorch)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
