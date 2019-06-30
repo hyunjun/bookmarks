@@ -176,6 +176,7 @@ Statistics
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://www.kdnuggets.com/2018/11/5-basic-statistics-concepts-data-scientists-need-know.html)
 * [멋지게 데이터 분석을 하려고 했는데 이론이 딸린다](https://humbledude.github.io/blog/2019/02/27/basic-data-analysis/)
 * [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
+* [Derivation of the Multivariate Normal Distribution](https://teamdable.github.io/techblog/Derivation-of-the-Multivariate-Normal-Distribution)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
