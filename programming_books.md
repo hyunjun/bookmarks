@@ -583,6 +583,7 @@ Programming Books
 * (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/914)
   * (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/918)
 * (NOT YET) [파이토치 첫걸음 딥러닝 기초부터 RNN, 오토인코더, GAN 실전 기법까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7818450418)
+* (NOT YET) [딥러닝에 목마른 사람들을 위한 PyTorch](https://www.notion.so/PyTorch-37bbddb9ca76472c81fc063013368e6b)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
