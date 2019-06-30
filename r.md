@@ -316,6 +316,7 @@ R
 * [선형 모형 2: 연속형 설명 변수일 때 선형변환을 통한 모형 행렬의 결정](http://ds.sumeun.org/?p=1820)
 * [Data Science for Startups: Business Intelligence](https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75)
 * [경로 분석은 인과 관계를 밝혀낼 수 있는가?](http://ds.sumeun.org/?p=1857)
+* [핫 핸드 논쟁 1](http://ds.sumeun.org/?p=1875)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
