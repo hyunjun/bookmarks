@@ -27,6 +27,7 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
+* [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
@@ -493,6 +494,7 @@ Javascript
 * [Beyond JavaScript: The Languages for the Modern Web](https://www.youtube.com/watch?v=eUgoto7xWps)
   * What alternative languages are there for writing modern frontend applications today?
   * What are the learning curves, best use cases, pros and cons for each of them?
+* [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1455,6 +1457,7 @@ Javascript
   * [Building a Website with Node js and Express js](https://www.youtube.com/watch?v=Zao1BWC-RWo)
   * [RESTful API Boilerplate A Production Grade RESTful API Boilerplate using Express.js and PostgreSQL](https://github.com/kevink1103/restapi_project)
   * [Reverse Proxy using Express Server](https://hackernoon.com/reverse-proxy-using-express-server-1f1b0b5a6e67)
+  * [타입 안전한 express 앱 구현하기 타입스크립트를 쓰면 타입스크립트 사용법을 따르라](https://libsora.so/posts/make-typesafe-express-app/)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
@@ -2187,6 +2190,9 @@ Javascript
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
+  * [Jest 탈출기 - Jest는 느리다 jest는 왜 mocha보다 느린가?](https://libsora.so/posts/escape-from-jest-jest-is-slow/)
+  * [Jest 탈출기 - Mocha를 쓰자 Jest/Mocha 동시에 지원하기](https://libsora.so/posts/escape-from-jest-use-mocha/)
+  * [Jest 탈출기 - 타입스크립트 + Mocha](https://libsora.so/posts/escape-from-jest-mocha-with-typescript/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
@@ -2396,3 +2402,4 @@ Javascript
 * [UI Component Framework의 장단점(feat. Vuetify)](https://armadillo-dev.github.io/ui/ux/benefit-and-cost-of-ui-component-framework/)
 * [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui/)
 * [주니어 개발자가 반응형 레이아웃 리팩토링한 썰.txt](https://wormwlrm.github.io/2019/06/06/Refactoring-360-panorama-viewer.html)
+* [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
