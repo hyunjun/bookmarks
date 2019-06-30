@@ -1237,6 +1237,7 @@ Programming
   * [월간 개발자스럽다 #41](https://blog.gaerae.com/2019/03/monthly.html)
   * [월간 개발자스럽다 #42](https://blog.gaerae.com/2019/04/monthly.html)
   * [월간 개발자스럽다 #43](https://blog.gaerae.com/2019/05/monthly.html)
+  * [월간 개발자스럽다 #44](https://blog.gaerae.com/2019/06/monthly.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
