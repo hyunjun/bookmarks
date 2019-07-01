@@ -133,6 +133,7 @@ SQL
 * [MariaDB에서 서브쿼리 인덱스 걸기](http://bomdol.tistory.com/347)
 * [Spider Storage Engine Overview](https://mariadb.com/kb/en/library/spider-storage-engine-overview/) with built-in sharding features
 * [How to migrate from Oracle Database with ease](https://www.slideshare.net/MariaDB/how-to-migrate-from-oracle-database-with-ease)
+* ["SELECT COUNT(\*)" 수행 속도 문제](https://blog.naver.com/birdparang/221574304831)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 
 # MSSQL MS SQL
