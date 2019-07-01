@@ -1355,6 +1355,8 @@ Programming
   * [구글의 HTTP 기반의 RPC 프로토콜 GRPC](http://bcho.tistory.com/1011)
   * [gRPC Channel, Stream 개념](http://bcho.tistory.com/1294)
   * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
+  * [gRPC SSL/TLS 1. 암호에 대하여 - 대칭키, 비대칭키, 해시 알고리즘](https://jusths.tistory.com/133)
+  * [gRPC SSL/TLS 2. SSL/TLS 에 대하여](https://jusths.tistory.com/134)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 
@@ -1456,6 +1458,7 @@ Programming
 * [초보개발자의 TDD 체험기](https://www.slideshare.net/sehunkim11/tdd-141266989)
 * [A Practical Intro to Test Driven Development](https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b)
 * [Feature Flags and Test-Driven Design: Some Practical Tips](https://hackernoon.com/feature-flags-and-test-driven-design-practical-tips-ed7d76445a29)
+* [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
