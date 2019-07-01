@@ -2020,6 +2020,7 @@ Javascript
   * [Creating a localised website using Gatsby and Cosmic JS](https://hackernoon.com/creating-a-localised-website-using-gatsby-and-cosmic-js-6d2bdba0366b)
   * [How To Add Draft Posts To A Gatsby Blog](https://hackernoon.com/how-to-add-draft-posts-to-a-gatsby-blog-3f6c64ec0c06)
   * [How to leverage your React skills with static site generator Gatsby.js](https://medium.com/free-code-camp/how-to-leverage-your-react-skills-with-static-site-generator-gatsby-js-81843e928606)
+  * [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
