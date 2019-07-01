@@ -331,6 +331,7 @@ Web
 * [The ultimate CSS battle: Grid vs Flexbox](https://hackernoon.com/the-ultimate-css-battle-grid-vs-flexbox-d40da0449faf)
 * [flexbox로 만들 수 있는 10가지 레이아웃](https://d2.naver.com/helloworld/8540176)
 * [CSS로 배경 이미지 위에 덧그리기](https://lqez.github.io/blog/css-background-overlay.html)
+* [쪼그라드는 웹페이지](https://tech.devsisters.com/posts/shrinking-webpage)
 * [Follow these steps to become a CSS Superstar](https://medium.freecodecamp.org/follow-these-steps-to-become-a-css-superstar-837cd6cb9b1a)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
