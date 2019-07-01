@@ -501,6 +501,7 @@ Java
   * [Gradle + SpringBoot + Travis CI + Coveralls + 텔레그램 연동하기](http://jojoldu.tistory.com/275)
   * [Gradle 멀티 모듈에서 TravisCI & Coveralls 연동](http://jojoldu.tistory.com/276)
   * [DIY Gradle build optimization](https://proandroiddev.com/gradle-perf-9c11b640f329)
+  * [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * Gson
