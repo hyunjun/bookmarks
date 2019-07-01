@@ -360,6 +360,7 @@ Interview
   * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
   * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
 * [What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)
+* [System design basics: Real-time data processing](https://www.youtube.com/watch?v=dZ3swmtR1As)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
