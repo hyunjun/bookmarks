@@ -16,6 +16,7 @@ Network
   * DNS Caching은 OS와 설정에 따라 다름. glibc의 getaddrinfo 자체에서 발생하는 이슈
 * [DNS Caching in JVM](https://charsyam.wordpress.com/2017/12/27/%ec%9e%85-%ea%b0%9c%eb%b0%9c-dns-caching-in-jvm/)
 * [Domain Name System (DNS): Untangling the Key Aspects](https://hackernoon.com/domain-name-system-dns-untangling-the-key-aspects-d86e39865d8c)
+* [How to Identify and Prevent DNS Leaks](https://hackernoon.com/how-to-identify-and-prevent-dns-leaks-5fa659130a41)
 * [An introduction to the Domain Name System](https://medium.freecodecamp.org/understanding-the-domain-name-servers-46c6bcf9afa3)
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
 * [우리 집에서 구글까지 가는 길](https://evan-moon.github.io/2019/06/22/my-home-to-google/)
