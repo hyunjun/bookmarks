@@ -427,6 +427,7 @@ Programming Books
 * (NOT YET) [나의 첫 머신러닝/딥러닝 파이썬으로 구현해보는 필수 머신러닝/딥러닝 알고리즘](http://wikibook.co.kr/machine-learning/)
 * (NOT YET) [실체가 손에 잡히는 딥러닝, 기초부터 실전 프로그래밍 기초 수학과 파이썬 코드를 따라만 하면 신기하게 이해되는](https://blog.naver.com/hico01/221557056078)
   * [실체가 손에 잡히는 딥러닝(1) "인공지능의 세계, 머신러닝과 딥러닝은 어떻게 등장했나"](https://www.popit.kr/deep-learning-1)
+  * [실체가 손에 잡히는 딥러닝(2) “인간의 뇌를 모방한 신경망, 그리고 딥러닝”](https://www.popit.kr/deep-learning-2)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -708,6 +709,7 @@ Programming Books
 * [Go 웹 프로그래밍](http://bjpublic.tistory.com/269)
   * 2017.03
   * 한라 005.118 참52ㄱ
+* (NOT YET) [Go 동시성 프로그래밍 개발자를 위한 도구와 테크닉](http://acornpub.co.kr/book/concurrency-in-go)
 
 # Hadoop
 
@@ -1027,6 +1029,7 @@ Programming Books
 * (NOT YET) [텐서플로우와 머신러닝으로 시작하는 자연어처리(로지스틱회귀부터 트랜스포머 챗봇까지)](http://wikibook.co.kr/nlp/)
   * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
 * (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
+* (NOT YET) [자연어 텍스트 처리를 통한 검색 시스템 구축 아파치 솔라, 루씬, OpenNLP 등 오픈소스 활용](http://acornpub.co.kr/book/taming-text)
 
 # NoSQL
 
