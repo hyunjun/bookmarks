@@ -555,6 +555,7 @@ Web
 * [저기요, REST API는 데이터베이스가 아니에요](http://doublem.org/guys-rest-apis-are-not-databases)
 * [REST API -1 Service, Protocol(SOAP)](https://woolbro.tistory.com/9)
 * [REST API -2 REST, SOAP](https://woolbro.tistory.com/10)
+* [How to Use Google Ads API with REST Endpoints](https://hackernoon.com/using-google-ads-api-with-rest-endpoints-c8957eab1d31)
 
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
