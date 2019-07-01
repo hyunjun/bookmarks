@@ -219,6 +219,8 @@ NoSQL
   * [How to build a Firebase Angular app with auth and a real-time database](https://medium.freecodecamp.org/firebase-angular-application-with-auth-and-realtime-database-ae37fef5859d)
   * [Google I/O 2019에서 선보인 Firebase의 새로운 기능](https://developers-kr.googleblog.com/2019/05/whats-new-Google-IO-2019.html)
   * [Firebase의 CrashLytics를 Slack과 연동해서 알림받기](https://developer88.tistory.com/161)
+  * [Understanding Firebase Auth Profiles](https://medium.com/@Skaaptjop/understanding-firebase-auth-profiles-f162605a1aed)
+  * [Firebase + Algolia Searching](https://itnext.io/firebase-algolia-6c58fba930b7)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
