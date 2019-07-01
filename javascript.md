@@ -2315,6 +2315,7 @@ Javascript
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Open Source of the Month (v.June 2019)](https://medium.com/@Mybridge/vue-js-open-source-of-the-month-v-june-2019-451466f5cc35)
   * [Vue.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-june-2019-23eb572aa2a7)
   * [Vue.js Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/vue-js-open-source-for-the-past-month-v-may-2019-ae0b349bfd9)
   * [Vue.js Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-may-2019-2cece08b3dd6)
