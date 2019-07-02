@@ -281,6 +281,7 @@ iOS
 * [Language/Swift - Basic 카테고리](http://namhoonkim.tistory.com/category/Language/Swift%20-%20Basic)
 * [CustomSegue 예제. Slide right to left](http://bongblog.co.kr/19)
 * [github.com/Mybridge/learn-swift](https://github.com/Mybridge/learn-swift)
+  * [Swift Open Source of the Month (v.June 2019)](https://medium.mybridge.co/swift-open-source-of-the-month-v-june-2019-634ab7075515)
   * [Swift Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-june-2019-b6687c7246c3)
   * [Swift Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/swift-open-source-for-the-past-month-v-may-2019-c0f6a0d61e34)
   * [Swift Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/swift-top-10-articles-for-the-past-month-v-may-2019-2177779050a7)
@@ -441,3 +442,4 @@ iOS
 * [target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting 오류 해결](https://blog.asamaru.net/2017/04/11/target-overrides-the-always-embed-swift-standard-libraries-build-setting/)
 * [Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](http://news.realm.io/kr/news/xcode-shortcuts/)
 * [어느날 @objc Inference 와 관련된 경고를 보았다](http://seorenn.blogspot.com/2017/10/objc-inference.html)
+* [How to Setup C++ on Mac](https://www.youtube.com/watch?v=1E_kBSka_ec)
