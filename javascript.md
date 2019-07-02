@@ -495,6 +495,7 @@ Javascript
   * What alternative languages are there for writing modern frontend applications today?
   * What are the learning curves, best use cases, pros and cons for each of them?
 * [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
+* [nike-app-sample](https://chading.net/nike-app-sample/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1894,6 +1895,7 @@ Javascript
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
 * [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
 * [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture/blob/master/README.md)
+* [react flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/README.md)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2405,3 +2407,4 @@ Javascript
 * [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui/)
 * [주니어 개발자가 반응형 레이아웃 리팩토링한 썰.txt](https://wormwlrm.github.io/2019/06/06/Refactoring-360-panorama-viewer.html)
 * [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
+* [Vue 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RsdnPeU0ogHFMoggSQ_d7ao)
