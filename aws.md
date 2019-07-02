@@ -106,6 +106,7 @@ AWS
 * [Deploying a production Node/Express Mongo App to AWS — A Reflection](https://medium.freecodecamp.org/deploying-a-production-node-express-mongo-app-to-aws-a-reflection-8982894289c6)
 * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
+  * [ImportError: No module named httpsession 문제 발생시](https://jojoldu.tistory.com/426)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [MFA 코드와 AWS CLI를 이용해 로그인하기](https://andromedarabbit.net/mfa-%EC%BD%94%EB%93%9C%EC%99%80-aws-cli%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0/)
@@ -318,6 +319,7 @@ AWS
 * [로봇 개발 어떻게 해야되죠? (1/2) - AWS RoboMaker 따라하기 (ROS 어플리케이션 개발과 시뮬레이션 편)](http://woowabros.github.io/tools/2019/03/03/AWS_RoboMaker_Development_and_Simulation.html)
 * [AWS Landing Zone Solution -Accelerating Cloud Adoption](https://hackernoon.com/aws-landing-zone-solution-accelerating-cloud-adoption-2b1c17017bc)
 * [AWS Credentials were refreshed 발생시 해결 방법](https://jojoldu.tistory.com/410)
+* [Netflix Information Security: Preventing Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
 * [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs)
 * [file system clustering as glusterfs in kubernetes environment on aws platform](https://github.com/graykode/kubernetes-glusterfs-aws)
 * [AWS 딥 러닝 컨테이너 서비스 출시 – 기계 학습 모델 학습용 최적화 이미지 제공](https://aws.amazon.com/ko/blogs/korea/new-aws-deep-learning-containers/)
@@ -353,6 +355,7 @@ AWS
 * [Analyze Data in MongoDB with AWS](https://medium.com/rainist-engineering/analyze-data-in-mongodb-with-aws-43c25ef0592f)
 * [How to import Google BigQuery tables to AWS Athena](https://medium.freecodecamp.org/how-to-import-google-bigquery-tables-to-aws-athena-5da842a13539)
 * [Athena를 Zeppelin과 함께 쓰기](https://b.luavis.kr/server/zeppelin-with-athena)
+* [Amazon Athena 및 Amazon QuickSight를 활용한 2백년간 글로벌 기후 데이터 시각화](https://aws.amazon.com/ko/blogs/korea/visualize-over-200-years-of-global-climate-data-using-amazon-athena-and-amazon-quicksight)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
