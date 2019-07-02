@@ -1879,6 +1879,8 @@ Python
 * [Set Your Jupyter Notebook up Right with this Extension](https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332)
 * [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts)
 * [PyData Ann Arbor: Madicken Munk | Widgyts: yt Jupyter Widgets for Volumetric Data Exploration](https://www.youtube.com/watch?v=vFOpWEiafE4)
+* [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
+  * [ipywidgets/docs/source/examples](https://github.com/jupyter-widgets/ipywidgets/tree/master/docs/source/examples)
 * **[Python 으로 지도 위에 정사각 격자를 그리려면?](https://chang12.github.io/python-map-grid/)**
 * [Jupyter Notebook Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)
 * **[주피터 파이썬 노트북에서 실시간 온도 데이타를 SQL에 저장하고 (전통시계열,RNN,LSTM)분석하기](https://github.com/leehaesung/SQLite3_with_LTE_CatM1)**
