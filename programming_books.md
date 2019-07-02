@@ -1148,6 +1148,8 @@ Programming Books
 * [파이썬 코딩의 기술(Effective Python) 리뷰](https://emaren84.github.io/blog/archivers/effective-python-review)
 * [파이썬 라이브러리를 활용한 데이터 분석](http://www.hanbit.co.kr/store/books/look.php?p_code=B6540908288)
   * 한라 005.74-맥878ㅍ
+* (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
+  * [Python for Data Analysis](https://jybaek.tistory.com/815)
 * (NOT YET) [파이썬으로 시작하는 컴퓨터 과학 입문](https://blog.insightbook.co.kr/2017/08/16/%ED%95%84%EC%9A%94%ED%95%9C-%EB%A7%8C%ED%81%BC-%EC%B0%A8%EA%B7%BC%EC%B0%A8%EA%B7%BC-%EC%9E%AC%EB%AF%B8%EC%9E%88%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%E3%80%8E%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC/)
   * 한라 005.133-젤75ㅍ
 * 파이썬을 활용한 데이터 길들이기
