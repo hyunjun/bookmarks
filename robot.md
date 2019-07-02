@@ -59,3 +59,4 @@ Robot
 * [Python library for robotic simulation from openai.com](https://blog.openai.com/faster-robot-simulation-in-python/)
 * [fetchrobotics](https://github.com/fetchrobotics)
 * [ROS Support for jupyter notebooks](https://github.com/wolfv/jupyter-ros)
+* [Learning Python for Robotics](http://www.theconstructsim.com/learning-python-robotics/)
