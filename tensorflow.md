@@ -491,6 +491,8 @@ TensorFlow
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
 * [Keras 기반의 표준화: TensorFlow 2.0의 고수준 API에 대한 안내](https://developers-kr.googleblog.com/2019/01/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0.html)
+* [TensorFlow 2.0에서 기호형 API와 명령형 API란?](https://developers-kr.googleblog.com/2019/05/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0.html)
+* [TensorFlow 2.0과 Cloud AI를 사용하여 확장 가능한 머신러닝 모델 손쉽게 훈련, 배포 및 관리하기](https://developers-kr.googleblog.com/2019/07/tensorflow-2-0-and-cloud-ai-make-it-easy-to-train-deploy-and-maintain-scalable-machine-learning-models.html)
 * 2.0 tutorial colab
   * [2. tf.keras API basic](https://colab.research.google.com/drive/1CHj8uEgJJRxmOUJ4pXXoa9LNcHDT45eH)
   * [3. Regression modeling](https://colab.research.google.com/drive/1HvW7t_AbfLzPdw8xjPj9KY9XdhjkFGz_)
@@ -501,7 +503,6 @@ TensorFlow
 * [ORAL 세션 - 강재욱](https://www.youtube.com/watch?v=h7DUjhGCmG8)
 * [어서와 텐서플로우 2.0!: 미리 알면 좋은 몇가지 : – )](http://moducon.kr/2018/kangjaewook-session/)
 * [TensorFlow 2.0 and Cloud AI make it easy to train, deploy, and maintain scalable machine learning models](https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-2-0-and-cloud-ai-make-it-easy-to-train-deploy-and-maintain-scalable-machine-learning-models)
-* [TensorFlow 2.0에서 기호형 API와 명령형 API란?](https://developers-kr.googleblog.com/2019/05/what-are-symbolic-and-imperative-apis-in-tensorflow-2-0.html)
 * [TensorFlow 2.0 Global Docs Sprint](https://www.youtube.com/playlist?list=PLNPGisnO0ega4FeRSL4VCJHhFfhr0sXQC)
 * [Deep Learning With TF 2.0: 04.00- Numerical Computation](https://www.adhiraiyan.org/deeplearning/04.00-Numerical-Computation)
 
