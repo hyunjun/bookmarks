@@ -889,6 +889,7 @@ Programming
 * [Devops를 위한 인터뷰 문제](http://jhrogue.blogspot.com/2019/01/b-devop.html)
 * [The 2019 DevOps RoadMap](https://hackernoon.com/the-2018-devops-roadmap-31588d8670cb)
 * [A beginner's guide to building DevOps pipelines with open source tools](https://opensource.com/article/19/4/devops-pipeline)
+* [DevOps Reading List](http://uncontained.io/articles/devops-reading-list/)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
