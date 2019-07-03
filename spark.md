@@ -365,6 +365,9 @@
 * [Vedant Jain: Smart Streams: A Real-time framework for scoring Big and Fast Data | PyData Miami 2019](https://www.youtube.com/watch?v=C6bAr9f_myQ)
 * [Jakub Hava: Productionizing H2O Models with Apache Spark | PyData Miami 2019](https://www.youtube.com/watch?v=UrynTsa5LEE)
 * [Spark로 알아보는 빅데이터 처리](https://www.slideshare.net/JoenggyuLenKim/spark-152302106)
+* [Multi Source Data Analysis using Spark and Tellius : Meetup Video](http://blog.madhukaraphatak.com/multi-source-spark-tellius/)
+  * [spark2.0-examples/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource](https://github.com/phatak-dev/spark2.0-examples/tree/2.4/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource)
+  * [Multi Source Data Analysis using Spark and Tellius](https://www.slideshare.net/datamantra/multi-source-data-analysis-using-spark-and-tellius)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
