@@ -54,6 +54,7 @@ Azure
 * [How to build a serverless report server with Azure Functions and SendGrid](https://medium.freecodecamp.org/how-to-build-a-serverless-report-server-with-azure-functions-and-sendgrid-3c063a51f963)
 * [Azure Devops - 스크럼 테스크 관리, 빌드, 소스코드 리파지토리, 테스트툴](https://bcho.tistory.com/1331)
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 설계편](https://blog.aliencube.org/ko/2019/06/26/building-azure-devops-extension-on-azure-devops-1/)
+* [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 개발편](https://blog.aliencube.org/ko/2019/07/03/building-azure-devops-extension-on-azure-devops-2/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
