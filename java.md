@@ -239,6 +239,7 @@ Java
 * [Snippets About Concurrency](https://hackernoon.com/a-sad-story-about-concurrency-346990a9a3fe)
 * [스레드 안정성](https://astrod.github.io/book/2018/08/01/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%95%88%EC%A0%95%EC%84%B1/)
 * [객체 공유](https://astrod.github.io/book/2018/08/07/%EC%9E%90%EB%B0%94-%EB%B3%91%EB%A0%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B0%9D%EC%B2%B4-%EA%B3%B5%EC%9C%A0/)
+* [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
 ## Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
@@ -469,6 +470,8 @@ Java
   * [#6-Spring Boot에서 Zipkin을 이용한 분산 시스템 로깅](https://bcho.tistory.com/1319)
   * [#7-스택드라이버로 로그 백앤드 구축하기](https://bcho.tistory.com/1321)
 * [9 Java EE Frameworks to Build Enterprise Applications](https://geekflare.com/java-ee-frameworks/)
+* [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
+  * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
