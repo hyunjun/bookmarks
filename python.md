@@ -1441,6 +1441,7 @@ Python
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
 * [Python and django](https://www.youtube.com/playlist?list=PLxvvv6r2iXY8kteUZ7Q2Ts0T0qLcMYSSI) Python and django full stack Web Developer bootcamp
 * [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/) logout 후 content에 접근을 막는 방법
+* [Django: Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -2623,6 +2624,7 @@ Python
   * [Setting up a private python package repository on S3](https://novemberfive.co/blog/opensource-pypi-package-repository-tutorial/)
   * [pip 유저모드?](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
   * [Installing PIP on Windows](https://medium.com/@ankitgin/setting-up-pip-for-windows-a644be0f1cea)
+  * [user mode로 설치한 pip 패키지 PATH에 등록하기](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [pipenv](https://github.com/pypa/pipenv)
   * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
