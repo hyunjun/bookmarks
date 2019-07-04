@@ -87,6 +87,7 @@ Linux
 * [GNOME3 파일관리자를 nemo로 default application 설정하기](https://sunyzero.tistory.com/258)
 * [10 Best Linux Distros to Install on a USB Stick](https://www.fossmint.com/best-linux-distros-to-install-on-usb)
 * [A beginner's guide to Linux permissions](https://opensource.com/article/19/6/understanding-linux-permissions)
+* [How To Install VMWare Fusion with Ubuntu on a Mac](http://hplgit.github.io/teamods/ubuntu/vmware/mac.html)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
