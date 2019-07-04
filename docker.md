@@ -655,6 +655,7 @@ Docker
 * [Kubernetes Cluster 업데이트가 쏘아 올린 서비스 장애](https://medium.com/rainist-engineering/updating-k8s-cluster-cause-major-outage-1d79304d63eb)
 * [50 days from zero to hero with Kubernetes](https://azure.microsoft.com/mediahandler/files/resourcefiles/kubernetes-learning-path/Kubernetes%20Learning%20Path%20version%201.0.pdf)
 * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
+* [쿠버네티스를 위한 CD 툴, Skaffold #2](https://bcho.tistory.com/1343)
 * [쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 * [쿠버네티스 네트워킹 이해하기#2: Services](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
 * [쿠버네티스 네트워킹 이해하기#3: Ingress](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
