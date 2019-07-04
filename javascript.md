@@ -1105,6 +1105,8 @@ Javascript
   * [The Basics of THREE.js](https://www.youtube.com/playlist?list=PLOGomoq5sDLutXOHLlESKG2j9CCnCwVqg)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
+  * [FE Guide Get packed with compass and map for Front-End Javascript development voyage with FE Guide](https://ui.toast.com/fe-guide/ko/)
+  * [ui.toast.com/weekly-pick/ko](https://ui.toast.com/weekly-pick/ko/)
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
 * [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
@@ -1701,6 +1703,7 @@ Javascript
   * [React 그놈.. (props vs state)](http://harbor.school/stories/data-visualization-3-props-state/)
 * [1. 리액트 설치하기](https://blog.naver.com/gi_balja/221224082297)
 * [Free Course Fridays: Hello React — React Training for JavaScript Beginners](https://codeburst.io/free-course-fridays-hello-react-react-training-for-javascript-beginners-71cba2698735)
+* [Top 5 React-Native Courses for Mobile Application Developers](https://hackernoon.com/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
