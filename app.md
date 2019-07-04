@@ -37,6 +37,8 @@ App
 * [지금 써보러 갑니다 세상 모든 서비스에 대한 이야기](http://icunow.co.kr/category/util/)
 * [We need a new document markup language — here is why](https://medium.freecodecamp.org/we-need-a-new-document-markup-language-c22e0ec44e15) Practical Markup Language PML
 * [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
+* [Here Are 5 Productivity Tools Every Developer Should Know](https://medium.com/swlh/here-are-5-productivity-tools-every-developer-should-know-4a3f70783835)
+  * insomnia, zoom, notion, trello, figma
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
