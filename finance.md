@@ -119,6 +119,24 @@ Finance
 * [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
 * [Python/Python 재무제표 크롤링](https://engkimbs.tistory.com/category/Python/Python%20%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C%20%ED%81%AC%EB%A1%A4%EB%A7%81)
 * **[거래 알고리즘](https://www.openaitrading.com/category/share-trading-algorithm/)**
+* 파이썬으로 주식 분류하기
+  * [Part 1 개요](https://youtu.be/dhV8UWI1sjc)
+    * 레이블이 안 되어있거나 분류되지 않은 데이터를 다룰 때는 분류 알고리즘을 사용하여 숨겨진 구조를 찾음
+    * 이번 세션에서는 K-Mean을 사용하여 여러 재무적 지표를 통해 주식을 분류
+    * 이 비디오는 K-Mean 알고리즘의 개요를 통한 데이터간의 숨겨진 구조를 찾는 것을 소개
+  * [Part 2 데이터 수집](https://youtu.be/S-vNu4uO-us)
+    * 데이터 수집. TD Ameritrade API를 통해 주식 데이터를 모으고 Pandas 데이터프레임에 저장
+  * [Part 3 데이터 변형](https://youtu.be/gF-oOVs1Amsm)
+    * 모든 모델링에서 매우 중요한 탐색적 분석. 아웃라이어 제거, 데이터 분류, 데이터 정상화 등 데이터변형
+    * 통계를 사용한 데이터 요약과 시각화
+  * [Part 4 주성분분석과 Plotting](https://youtu.be/e9tbHfDqi3I)
+    * 주성분분석과 Plotting
+    * 주성분분석은 분산을 최대한 보전하며 서로 직교하는 축을 찾아 고차원 표본들을 선형 연관성이 없는 저차원 공간으로 변형하는 기법입니다. 중복값을 최소화하고 K-Mean 알고리즘을 효율화 하는데 중요
+  * [Part 5 모델 만들기](https://youtu.be/KGP4zL5DYD0)
+    * 모델을 만들고 훈련시키는 내용. K-Mean모델 인스턴스를 만들고, 데이터를 모델에 적용하며, 평가 단계에 사용될 여러 지표들을 계산
+  * [Part 6 모델 평가](https://youtu.be/vlvolfzMO_I)
+    * 생성된 모델의 성능과 K-Mean을 찾는 분석능력을 평가. 이를 통해 데이터 시각화를 통해 각 데이터 카테고리를 표현
+  * [GitHub Repository](https://github.com/…/python-data_s…/machine-learning/k-means)
 * [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
   * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
 * [eBest Xing api 실시간조회, 테스트 및 실행 화면 (8)](http://malchooni.name/%ED%8C%8C%EC%9D%B4%EC%8D%AC-ebest-xing-api-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A1%B0%ED%9A%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4-8/)
