@@ -421,6 +421,14 @@ Git
     $ git merge [name]/[branch name]
     ...
     ```
+  * [How to update a forked repo with git rebase](https://medium.com/@topspinj/how-to-git-rebase-into-a-forked-repo-c9f05e821c8a)
+
+    ```
+    ❯ git remote add upstream [https://github...]
+    ❯ git fetch upstream
+    ❯ git rebase upstream/master
+    ❯ git push origin master
+    ```
   * transfer repository(git to git, create repository to move)
 
     ```
