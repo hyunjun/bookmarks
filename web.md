@@ -261,6 +261,7 @@ Web
 * [파이썬을 통한 웹페이지 크롤링 살펴보기](https://www.youtube.com/watch?v=7_IEdMv9eFE)
 * [데이터톤 - 파이썬 크롤링과 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmqVXoJNbN1PV53XpJTtQGgT)
 * [BSN (Breaking Stock News) 개발기](https://taes-k.github.io/docs/project/bsn/)
+* [뉴스 댓글 분석 프로젝트 0: 프로젝트를 시작하며](https://beomi.github.io/2019/06/24/alba300-0/)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
