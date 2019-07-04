@@ -490,6 +490,7 @@ Data Science
 * [The Remarkable world of Recommender Systems](https://towardsdatascience.com/the-remarkable-world-of-recommender-systems-bff4b9cbe6a7) 기초를 이해할 수 있는 글
 * [Recommendation Systems in the Real world](https://towardsdatascience.com/recommendation-systems-in-the-real-world-51e3948772f3)
 * [이상열, Interpretable Recommender System 개발 사례연구, NDC 2019](https://www.slideshare.net/ssuser593481/ndc19interpretable-recommender-system-ndc2019/ssuser593481/ndc19interpretable-recommender-system-ndc2019)
+* [브런치 추천의 힘에 대한 6가지 기술(記述)](https://brunch.co.kr/@kakao-it/333)
 
 ## Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
