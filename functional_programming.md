@@ -88,6 +88,8 @@ Functional Programming
 # Book
 * [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
 * [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
+* [An Outsider's Guide to Statically Typed Functional Programming](https://leanpub.com/outsidefp/read_full)
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
