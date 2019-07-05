@@ -2140,6 +2140,7 @@ CVPR2016)
 * [Introduction to Various Reinforcement Learning Algorithms. Part I (Q-Learning, SARSA, DQN, DDPG)](https://towardsdatascience.com/introduction-to-various-reinforcement-learning-algorithms-i-q-learning-sarsa-dqn-ddpg-72a5e0cb6287)
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
 * [Playing Text-adventure Games with an AI](https://medium.com/@rajammanabrolu/kg-dqn-57d06004022)
+* [DRL Value-based Methods - DQN](https://parksurk.github.io/deep/reinfocement/learning/drlnd_2-4_value_based_methods-post/)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
