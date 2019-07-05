@@ -594,6 +594,7 @@ Programming
 * [Deconstructing Serverless Computing Part 1: A new layer of abstraction](https://hackernoon.com/deconstructing-serverless-computing-part-1-a-new-layer-of-abstraction-98c15334e4f7)
 * [Deconstructing Serverless Computing Part 2: the Good, the Bad, and the Time to Market](https://hackernoon.com/deconstructing-serverless-computing-part-2-the-good-the-bad-and-the-time-to-market-91a2b52ceaf4)
 * [Deconstructing Serverless Computing Part 3: Ninety-Nine Platforms but How to Choose One?](https://hackernoon.com/deconstructing-serverless-computing-part-3-ninety-nine-platforms-but-how-to-choose-one-b0ee5372dba7)
+* [The Promise and Perils of Serverless Computing](https://hackernoon.com/https-medium-com-krishnansrinath-the-promise-and-perils-of-serverless-computing-498f8516d7f7)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
