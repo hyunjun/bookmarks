@@ -225,6 +225,7 @@ Vision
 * [zsc.github.io/megvii-pku-dl-course](https://zsc.github.io/megvii-pku-dl-course/)
 * [이미지로 이미지 검색하기](https://brunch.co.kr/@kakao-it/283)
 * [Face detection - An overview and comparison of different solutions](https://www.liip.ch/en/blog/face-detection-an-overview-and-comparison-of-different-solutions-part1)
+* [insightface - InsightFace: 2D and 3D Face Analysis Project](https://github.com/deepinsight/insightface) MXNet
 * [Building an image search service from scratch](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
 * [Google FaceTracker 예제 (1)](https://brunch.co.kr/@mystoryg/53)
 * [Short Introduction to Data Augmentation](https://markku.ai/post/data-augmentation/)
