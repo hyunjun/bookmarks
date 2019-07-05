@@ -347,6 +347,7 @@ App
     * [Building Python Web Applications with Visual Studio Code Docker and Azure - BRK3020](https://www.youtube.com/watch?v=eUitxqLxICo)
     * [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
     * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
+    * [VScode Extension - 확장프로그램 추천 및 설치방법](https://mishka86.github.io/2019/06/24/vscode-extension)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
