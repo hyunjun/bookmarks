@@ -392,6 +392,7 @@ AWS
 * [AWS 파게이트 가격 30%-50% 인하 발표 vCPU 20%, 메모리 65% 인하. 서울 리전을 포함해 1월 7일부터 적용](https://www.44bits.io/ko/post/news--fargate-significant-price-cuts)
 * [ECS-CLI로 서울리전 Fargate 만들어보기](https://medium.com/harrythegreat/ecs-cli%EB%A1%9C-%EC%84%9C%EC%9A%B8%EB%A6%AC%EC%A0%84-fargate-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-bcf72a6595ad)
 * [Fargate를 이용한 ECS with VPC 1부](https://www.slideshare.net/HyunMookChoi/fargate-ecs-with-vpc-1)
+* **[ECS를 이용한 Serverless Batch 서버 travis ci + ECS를 이용한 Batch서버 효율화](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)** Docker image Travis CI -> ECR -> Fargate
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # Lambda
