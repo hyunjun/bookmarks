@@ -79,6 +79,9 @@ Finance
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 
+# Library
+* [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
+
 # Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * **[Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript](https://github.com/softage0/algorithm-trading-webapp)**
