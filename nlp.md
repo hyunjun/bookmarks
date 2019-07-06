@@ -510,6 +510,7 @@ NLP
   * [3 챗봇편](https://blog.psangwoo.com/coding/2018/01/09/python-telegram-bot-3.html)
   * [4 Inline Keyboard편](https://blog.psangwoo.com/coding/2018/08/20/python-telegram-bot-4.html)
 * [Learn to build your first bot in Telegram with Python](https://medium.freecodecamp.org/learn-to-build-your-first-bot-in-telegram-with-python-4c99526765e4)
+* [Building a Telegram Bot 🤖 to Automate Web Processes Using Python, Selenium and Telegram](https://hackernoon.com/building-a-telegram-bot-to-automate-web-processes-38a6ab9e664f)
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [Building a botnet on PyPi](https://hackernoon.com/building-a-botnet-on-pypi-be1ad280b8d6)
 * [ChatOps with PowerShell - Matthew Hodgkins](https://www.youtube.com/watch?v=XIMOFnfdOx0)
