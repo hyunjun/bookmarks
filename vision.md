@@ -239,6 +239,9 @@ Vision
 * [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
   * [CPU RayTracer based on `Ray-Tracing in One Weekend`](https://github.com/liliilli/SH-RayTracer)
 
+# Book
+* [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
+
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
 * [Introduction to Deep Learning for Image Analysis at Strata NYC, Sep 2015](http://www.slideshare.net/dato-inc/introduction-to-deep-learning-for-image-analysis-at-strata-nyc-sep-2015)
