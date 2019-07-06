@@ -90,6 +90,8 @@ Math
 * [openstax.org/subjects/math](https://openstax.org/subjects/math)
 * [공돌이의 수학정리노트](https://wikidocs.net/book/563)
 * [중학 수학 코딩의 정석](https://wikidocs.net/book/2195)
+* [Mathematics for Machine Learning](https://mml-book.github.io/)
+  * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
 
 # Calculus
 * [From Counting to Multivariable Calculus in 5 minutes!](http://www.countbayesie.com/blog/2015/2/27/from-counting-to-multivariable-calculus-in-5-minutes)
