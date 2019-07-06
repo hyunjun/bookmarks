@@ -486,6 +486,7 @@ TensorFlow
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [My Tensorflow Test](https://github.com/rky0930/MyTensorflowTest)
 * **[CPU, GPU, and TensorFlow](https://teamdable.github.io/techblog/CPU-GPU-and-TensorFlow)** CPU, GPU의 기본 구조 및 차이에 대한 좋은 글
+* [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
