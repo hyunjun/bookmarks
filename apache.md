@@ -449,6 +449,7 @@ Apache
 * [Kafka, Java, and Bitcoin](https://medium.com/pharos-production/kafka-java-and-bitcoin-cf0009767645)
 * [What's New in Kafka 2.2?](https://www.youtube.com/watch?v=kaWbp1Cnfo4)
 * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
+* [How to run Kafka Mirror Maker using Kerberos clusters](https://www.youtube.com/watch?v=2jkk3ZycW78)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -616,6 +617,7 @@ Apache
   * Apache HDFS는 낮은 비용으로 무제한 확장이 가능하도록 설계. 따라서 데이터 변경이 불가능한 배치 지향 사용 사례에 최적화. 그 밖에도 Apache Parquet 파일 형식과 연결할 경우 매우 높은 처리량과 효율성으로 정형 데이터에 액세스 가능
   * 차원 테이블처럼 데이터가 소량이면서 끊임없이 바뀌는 상황에서는 모든 데이터를 Kudu에 저장하는 경우 다수. 데이터가 Kudu의 확장 제한을 넘지 않는다면 대용량 테이블이라고 해도 Kudu의 고유 기능을 이용 가능하므로 Kudu에 저장. 데이터가 대용량이고, 배치 지향적이고, 변경이 불가능한 경우에는 Parquet 형식을 사용해 데이터를 HDFS에 저장하는 것이 좋음. 두 스토리지 계층의 이점이 모두 요하다면 슬라이딩 윈도우 패턴이 효과적인 솔루션
 * [Testing Apache Kudu Applications on the JVM](https://blog.cloudera.com/blog/2019/03/testing-apache-kudu-applications-on-the-jvm/)
+* [Kudu as Storage Layer to Digitize Credit Processes](https://dataworkssummit.com/barcelona-2019/session/kudu-as-storage-layer-to-digitize-credit-processes/)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**
