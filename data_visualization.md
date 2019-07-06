@@ -207,6 +207,7 @@ Data Visualization
 * [Drawing Route Objects with the Mapbox Directions API](https://hackingandslacking.com/drawing-route-objects-with-the-mapbox-directions-api-50f5646a19b4)
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * [GPU Accelerated t-SNE for CUDA with Python bindings](https://github.com/CannyLab/tsne-cuda)
+* [데이터로 보는 나의 구독자 파이썬(Python)을 활용한 데이터 수집 및 시각화 프로젝트 후기](https://brunch.co.kr/@dimension-value/68)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
