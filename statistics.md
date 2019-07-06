@@ -341,7 +341,7 @@ Statistics
   * [An intro to Probabilistic Programming with Ubers Pyro](https://www.youtube.com/watch?v=ATaMq62fXno)
   * [Financial forecasting with probabilistic programming and Pyro](https://medium.com/@alexrachnog/financial-forecasting-with-probabilistic-programming-and-pyro-db68ab1a1dba)
 
-### Python
+# Python
 * [How To Implement These 5 Powerful Probability Distributions In Python](http://hpc-asia.com/how-to-implement-these-5-powerful-probability-distributions-in-python/)
 * [An Introduction to Statistics with Python](http://work.thaslwanter.at/Stats/html/)
 * [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html)
@@ -355,9 +355,10 @@ Statistics
 * **[확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90)**
 * [Christopher Fonnesbeck - Introduction to Statistical Modeling with Python - PyCon 2017](https://www.youtube.com/watch?v=TMmSESkhRtI)
 * [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
-* [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
+* [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
 * [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
+* [m2cgen - Transform ML models into a native code (Java, C, Python, Go) with zero dependencies](https://github.com/BayesWitnesses/m2cgen)
 * [pomegranate - a package for graphical models and Bayesian statistics for Python, implemented in cython](https://github.com/jmschrei/pomegranate)
   * 확률분포, GMM, HMM, Naive Bayes, Bayes Classifiers, Markov Chains 등을 지원
 * [powerlaw - Toolbox for testing if a probability distribution fits a power law](https://pypi.org/project/powerlaw/)
