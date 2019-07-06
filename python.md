@@ -361,6 +361,7 @@ Python
 * [The one-stop guide to (easy) cross-platform Python freezing: Part 1](https://hackernoon.com/the-one-stop-guide-to-easy-cross-platform-python-freezing-part-1-c53e66556a0a)
 * How to Build a Simple Crypto Trading Simulator
   * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
+* [How to encrypting and decrypting the messages in python| | Cryptography | |](https://www.youtube.com/watch?v=RFkbhqpRTZM)
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
 * [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
 * [Performance Python: 7 Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=c5DV9Nur1W8) numpy, pandas, scipy, cython, numba, and more
@@ -387,6 +388,7 @@ Python
 * [파이썬과 양자 컴퓨팅 — 제 3장에서 자료 수집과 실전 테스트에 힘쓴다](https://medium.com/@kenixer/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%A0%9C-3%EC%9E%A5%EC%97%90%EC%84%9C-%EC%9E%90%EB%A3%8C-%EC%88%98%EC%A7%91%EA%B3%BC-%EC%8B%A4%EC%A0%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90-%ED%9E%98%EC%93%B4%EB%8B%A4-f6dc08f11609)
 * [파이썬과 양자 컴퓨팅 — 제 4장은 실용화 편이다](https://medium.com/@kenixer/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%A0%9C-4%EC%9E%A5%EC%9D%80-%EC%8B%A4%EC%9A%A9%ED%99%94-%ED%8E%B8%EC%9D%B4%EB%8B%A4-43ff757f3860)
 * [파이썬으로 체스 만들기](https://among.software/content/6f30f2494b8d3dff1dbf71865d40386d8e450b49)
+* [(PlaywithData)1day seminar_0630](https://www.slideshare.net/namsoojang3/playwithdata1day-seminar0630-152800415)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -427,6 +429,7 @@ Python
 * [Solve Your Problem With Sloppy Python](https://www.youtube.com/watch?v=QsTVDx20y1M) os, subprocess, ...
 * [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747)
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
+* [Road to becoming a Python Ninja — Data Structures](https://hackernoon.com/python-basics-data-structures-d378d854df1b) 기본 data structure
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -1749,6 +1752,7 @@ Python
   * [Data science in Python: pandas, seaborn, scikit-learn](https://www.youtube.com/watch?v=3ZWuPVWq7p4)
     * [Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
   * [김도형: 파이썬 데이터 분석 3종 세트 - statsmodels, scikit-learn, theano - PyCon APAC 2016](https://www.youtube.com/watch?v=Z5rD3yQ96Lo)
+  * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/)
 * [Run Python 2 and Python 3.5 kernels in IPython Jupyter Notebook](http://www.motleytech.net/en/2015/11/08/jupyter-python-27-and-35/)
 * [구독자의 목소리가 보여@@](https://brunch.co.kr/@goodvc78/4)
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)
@@ -2417,7 +2421,8 @@ Python
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
-* [ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
+* [Ray - a fast and simple framework for building and running distributed applications](https://ray.readthedocs.io)
+  * [ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
