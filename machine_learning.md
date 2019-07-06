@@ -599,6 +599,7 @@ Machine Learning
 * [A high-bias, low-variance introduction to Machine Learning for physicists](https://arxiv.org/abs/1803.08823)
 * [자료 모음 1](https://www.facebook.com/groups/TensorFlowKR/permalink/608999666107762)
 * [자료 모음 2](https://www.facebook.com/groups/TensorFlowKR/permalink/490430184631378)
+* [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
