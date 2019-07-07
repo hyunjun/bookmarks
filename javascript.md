@@ -1901,6 +1901,7 @@ Javascript
 * [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
 * [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture/blob/master/README.md)
 * [react flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/README.md)
+* [5 Ways to animate a React app in 2019](https://hackernoon.com/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2273,6 +2274,7 @@ Javascript
 * [React, Typescript, Webpack환경에서 번들링 속도 올리기](https://b.luavis.kr/web/speed-up-webpack)
 * [TypeScript를 사용하여 간단한 인공 신경망 개발 삽질기](https://evan-moon.github.io/2019/02/26/simple-ann/)
 * [리액트, 타입스크립트 시작하기](http://jeonghwan-kim.github.io//dev/2019/06/25/react-ts.html)
+* [React프로젝트에 타입스크립트 개발환경 구축하기](https://awesomezero.com/post/TSSetting/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
