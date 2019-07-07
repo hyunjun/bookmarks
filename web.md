@@ -19,6 +19,7 @@ Web
 * [생활코딩: 웹 애플리케이션 만들기 수업](http://opentutorials.org/course/1688)
   * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
   * [WEB1 2th](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB3zjVwgUxlrpEN_OKr1iG)
+* [Beginning your Web Development Journey? Start Here](https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762)
 * [Web 학습하기](https://developer.mozilla.org/ko/docs/Learn)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
