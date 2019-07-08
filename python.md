@@ -1200,6 +1200,8 @@ Python
   * [Python for Signal Processing](http://python-for-signal-processing.blogspot.com/)
   * [Python-for-Signal-Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing)
   * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
+* [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
+* [Effective Pandas](https://leanpub.com/effective-pandas)
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
@@ -1409,6 +1411,7 @@ Python
 * [snaker - django url shortener](https://www.slideshare.net/HosukShin1/snaker-django-url-shortener)
 * [장고의 배신(주니어 개발자의 삽질기)](https://www.slideshare.net/EunhyangKim2/ss-118560530)
 * [Django, Clean Architecture 연구하기](https://medium.com/@erish/python-django-clean-architecture-%EC%97%B0%EA%B5%AC%ED%95%98%EA%B8%B0-591d7a555059)
+* [Clean Architecture in Django](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9)
 * ~[Ubuntu 환경에서 Django 배포하기](http://jangwon.me/dev/2018/10/08/(개발환경)-Ubuntu-환경에서-Django-배포하기-Django-설정)~
 * [우분투에서 장고(Django) 배포 경험담](https://jwkcp.github.io/2018/06/08/tiny-tips-for-django-deployment/)
 * **[Django를 쓰는 이유, 쓰지 않는 이유](https://blog.lxf.kr/2018-11-19---why-or-not-django)**
@@ -1419,7 +1422,6 @@ Python
 * [How to build an e-commerce shop with Python, Django, & Wagtail](https://medium.freecodecamp.org/how-to-build-an-e-commerce-shop-with-python-django-wagtail-3dd2043f89e7)
 * [A little hacker news in Django](https://github.com/dduong42/hnews)
 * [Merging Django ORM with SQLAlchemy for Easier Data Analysis](https://hackernoon.com/merging-django-orm-with-sqlalchemy-for-easier-data-analysis-75b85e2cc0b9)
-* [Clean Architecture in Django](https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9)
 * [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 * [The Basics of Django Models](https://www.youtube.com/watch?v=r9kT-jm136Q)
 * [Using Django in a Standalone Script](https://www.youtube.com/watch?v=AS01VoC9l5w)
@@ -1967,6 +1969,8 @@ Python
 * [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 * [Learning A New Data Science Language](https://towardsdatascience.com/learning-a-new-data-science-language-aa7656be730a) Pandas, Framequery, SciKit-Learn, Pandas-gbq
 * **[10 Python image manipulation tools](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)**
+* **[모든 파이썬 프로그래머를 위한 20가지 실용적인 파이썬 라이브러리](http://www.itworld.co.kr/print/118829)**
+  * 아파치 Libcloud, 애로우(Arrow), 비홀드(Behold), 보틀(Bottle), EbookLib, 구이(Gooey), 인보크(Invoke), 누이트카(Nuitka), 눔바(Numba), 피위(Peewee), 필로우(Pillow), 파이파일시스템(PyFilesystem), 파이게임(Pygame), 파이글릿(Pyglet), 파이인스톨러(PyInstaller), 파이심플GUI(PySimpleGUI), 파이썬-docx, 스크래피(Scrapy), Sh, 스플린터(Splinter)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
