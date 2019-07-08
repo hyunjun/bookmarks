@@ -88,6 +88,9 @@ Lisp
 * [catana - A series of AI experiments regarding categories and analogies](https://github.com/KedalionDaimon/catana)
 * [William Byrd on "The Most Beautiful Program Ever Written" PWL NYC](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
 
+# Book
+* [Lisp Web Tales](https://leanpub.com/lispwebtales/read_full)
+
 # [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
