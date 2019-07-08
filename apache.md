@@ -450,6 +450,7 @@ Apache
 * [What's New in Kafka 2.2?](https://www.youtube.com/watch?v=kaWbp1Cnfo4)
 * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [How to run Kafka Mirror Maker using Kerberos clusters](https://www.youtube.com/watch?v=2jkk3ZycW78)
+* **[카프카 설치 시 가장 중요한 설정 4가지](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98-%EC%8B%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%84%A4%EC%A0%95-4%EA%B0%80%EC%A7%80/)**
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
