@@ -852,6 +852,7 @@ Deep Learning
 # Conference
 * [1st 함께하는 딥러닝 컨퍼런스](https://tykimos.github.io/2018/06/28/ISS_1st_Deep_Learning_Conference_All_Together/)
 * [DLCAT#2 참석 후기 & 정리](https://beomi.github.io/2019/07/04/DLCAT2nd/)
+  * [2nd DLCAT (이론)딥러닝으로 오디오 만나보기 - 남기현](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together_namkihyun/)
 * [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015%3Amain)
   * [Artificial Tasks for Artificial Intelligence](https://www.dropbox.com/s/ly9y136saba0915/ICLR2015_Oral_Slides_All.pdf?oref=e&n=117881854)
 * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
@@ -1046,6 +1047,7 @@ Deep Learning
 * [Efficient, Simplistic Training Pipelines for GANs in the Cloud with Paperspace](https://medium.com/@ODSC/efficient-simplistic-training-pipelines-for-gans-in-the-cloud-with-paperspace-d6cfbc33b7c3)
 * [Semantic Image Synthesis with SPADE](https://github.com/NVlabs/SPADE)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
+* [How to Develop a Conditional GAN (cGAN) From Scratch](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
