@@ -682,6 +682,8 @@ Clojure
 * [Specs](https://github.com/eunmin/clojure-specs) [Programming Clojure 5장](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
 * [spec-coerce - A Clojure(script) library designed to leverage your specs to coerce your information into correct types](https://github.com/wilkerlucio/spec-coerce) core.spec에 빠진 coerce(강제 형변환) 기능 보완 가능
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
+  * [Extending and Using Specter](https://leanpub.com/specter/read_full)
+  * [specter-book-code - Source and tests for Extending and Using Specter](https://github.com/marick/specter-book-code)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
