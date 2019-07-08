@@ -489,7 +489,9 @@ Algorithm
   * **[KMP : 문자열 검색 알고리즘](http://bowbowbow.tistory.com/6)**
   * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search)](https://www.youtube.com/watch?v=GTJr8OvyEVQ)
   * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search) Part2](https://youtu.be/KG44VoDtsAA)
-* [Manacher's algorithm - 팰린드롬 O(n)](https://blog.naver.com/yubhh21/220867303992)
+* Manacher's algorithm
+  * [Manacher's algorithm - 팰린드롬 O(n)](https://blog.naver.com/yubhh21/220867303992)
+  * [Manacher’s Algorithm Explained— Longest Palindromic Substring](https://hackernoon.com/manachers-algorithm-explained-longest-palindromic-substring-22cb27a5e96f)
 * Rabin-Karp
   * [Rabin Karp Substring Search Pattern Matching](https://www.youtube.com/watch?v=H4VrKHVG5qI)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
