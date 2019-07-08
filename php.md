@@ -31,6 +31,9 @@ PHP
 * [macOS 10.14 Mojave PHP,Apache 설치 - Part2](https://tech.10000lab.xyz/php/php-apache-part2.html)
 * [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
 
+# Book
+* [PHP: The "Right" Way](https://leanpub.com/phptherightway/read_full)
+
 # Library
 * composer
   * [레거시 php 프로젝트를 composer 패키지로 바꾸기](http://www.haruair.com/blog/3968)
