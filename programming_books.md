@@ -916,6 +916,7 @@ Programming Books
   * 한라 005.118-마297ㄹ
 * (NOT YET) [모던 리액트/리덕스 프로그래밍 React/Redux를 통해 배우는 모던 웹 프로그래밍의 정석](http://wikibook.co.kr/react-redux/)
 * (NOT YET) [실전 리액트 프로그래밍](https://medium.com/@ljs0705/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%B1%85%EC%9D%84-%EC%8D%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-b227ab9df8b8)
+  * [실전 리액트 프로그래밍](http://ebook.insightbook.co.kr/book/68)
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
