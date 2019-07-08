@@ -112,6 +112,12 @@
 # BananaPro
 * [바나나 프로에 데비안 위지와 최신 MPD 컴파일하여 설치하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=284390)
 
+# Book
+* [Kolban's Book on the Raspberry Pi](https://leanpub.com/pi)
+* [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read_full)
+* [Raspberry Pi Computing: Ultrasonic Distance Measurement](https://leanpub.com/rpcultra/read_full)
+* [Raspberry Pi Computing: Analog Measurement](https://leanpub.com/rpcanalog/read_full)
+
 # Dio
 * [토종 공개SW 로봇 “아이에게 코딩 교육을…”](http://techholic.co.kr/archives/33041)
 
