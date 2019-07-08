@@ -473,6 +473,7 @@ App
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
   * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
+  * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
@@ -828,6 +829,9 @@ App
 * [PBOX - Windows Package Manager](http://pbox.me/)
 * PowerShell
   * [How to fix PowerShell ISE Module Browser installation](http://www.dokyun.pe.kr/228)
+  * [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting/read_full)
+  * [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read_full)
+  * [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read_full)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
