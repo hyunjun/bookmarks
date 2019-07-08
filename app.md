@@ -696,6 +696,8 @@ App
 # Note
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
 * [dddraft.com](http://dddraft.com/)
+* [coda - A doc as powerful as an app](https://coda.io)
+  * [노 코드 혁명! 5분만에 타이머 앱 만들기!](https://www.youtube.com/watch?v=XbqbLF3NiWw)
 * [Dynalist - The best outlining app for your best work](https://dynalist.io/)
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
 * [joplin](https://joplin.cozic.net/)
