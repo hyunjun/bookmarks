@@ -317,6 +317,7 @@ Programming
     * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
     * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
   * [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
+  * [CQRS](https://leanpub.com/cqrs/read_full)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -464,6 +465,7 @@ Programming
 * [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
 * [DDD의 서비스 구조물이란 어떤 프로그램 덩어리인가?](https://www.popit.kr/ddd%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%AC%BC%EC%9D%B4%EB%9E%80-%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%8D%A9%EC%96%B4%EB%A6%AC%EC%9D%B8%EA%B0%80)
 * [LAYERED ARCHITECTURE(계층형 아키텍처)](https://wikibook.co.kr/article/layered-architecture/)
+* [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years/read_full)
 
 ## Architecture Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
@@ -937,6 +939,12 @@ Programming
 * [Avoiding race conditions in SharedArrayBuffers with Atomics](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [managed language와 unmanaged language?](https://blog.seulgi.kim/2019/04/managed-language-vs-unmanaged-langauge.html) GC가 메모리를 관리하는 유일한 방법이 아니다!
 * [Garbage collection과 memory leak](https://blog.seulgi.kim/2019/04/garbage-collection-and-memory-leak.html)
+* [메모리 취약점:과거, 현재, 미래 (1) 개요](https://cpuu.postype.com/post/3938882)
+* [메모리 취약점:과거, 현재, 미래 (2) NX / DEP](https://cpuu.postype.com/post/3944558)
+* [메모리 취약점:과거, 현재, 미래 (3) Canaries](https://cpuu.postype.com/post/3980627)
+* [메모리 취약점:과거, 현재, 미래 (4) Heap Attacks](https://cpuu.postype.com/post/4002575)
+* [메모리 취약점:과거, 현재, 미래 (5) Format String Attacks](https://cpuu.postype.com/post/4042449)
+* [메모리 취약점:과거, 현재, 미래 (6) Address Space Layout Randomization (ASLR)](https://cpuu.postype.com/post/4077799)
 
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
@@ -1170,6 +1178,7 @@ Programming
   * [3월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/03/b-3-3.html)
   * [4월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/04/b-4-1.html)
   * [4월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/04/b-4-2.html)
+  * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/07/b-7-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1336,6 +1345,7 @@ Programming
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
+* [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 
 # RPC
 * grpc
@@ -1464,6 +1474,8 @@ Programming
 * [A Practical Intro to Test Driven Development](https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b)
 * [Feature Flags and Test-Driven Design: Some Practical Tips](https://hackernoon.com/feature-flags-and-test-driven-design-practical-tips-ed7d76445a29)
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
+* [The "A" Word Under the Covers of Test Automation](https://leanpub.com/TheAWord/read_full)
+* [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
