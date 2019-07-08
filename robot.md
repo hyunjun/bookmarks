@@ -61,3 +61,5 @@ Robot
 * [fetchrobotics](https://github.com/fetchrobotics)
 * [ROS Support for jupyter notebooks](https://github.com/wolfv/jupyter-ros)
 * [Learning Python for Robotics](http://www.theconstructsim.com/learning-python-robotics/)
+* [PyRobot - An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot)
+  * [Open-sourcing PyRobot to accelerate AI robotics research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
