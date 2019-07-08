@@ -152,6 +152,9 @@ Vim
 * [Vim 교정학원 후기](https://lqez.github.io/blog/vimrc-2019.html)
 * [Vim 취약점 발견](https://jybaek.tistory.com/807)
 
+# Book
+* [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
+
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
