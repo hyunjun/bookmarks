@@ -2035,6 +2035,7 @@ Python
 * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
+* bcrypt [Hashing passwords with Python and Bcrypt](https://www.youtube.com/watch?v=hNa05wr0DSA)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
   * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
