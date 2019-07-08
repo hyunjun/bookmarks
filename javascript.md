@@ -1995,6 +1995,7 @@ Javascript
 * [리액트 네이티브로 날씨앱 만들기 Build App with React Native](https://www.youtube.com/playlist?list=PL7jH19IHhOLNPOI3bEBtSw1Acp3fS0enw)
 * [How to set up Jest and Enzyme to test React Native apps](https://medium.freecodecamp.org/setting-up-jest-enzyme-for-testing-react-native-40393ca04145)
 * [react-native-responsive-fontsize](https://github.com/heyman333/react-native-responsive-fontSize)
+* [REACT NATIVE VS. OTHER CROSS-PLATFORM SOLUTIONS](https://ideamotive.co/react-native-development-guide)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
