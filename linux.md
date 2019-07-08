@@ -96,6 +96,8 @@ Linux
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 * [우분투](https://wikidocs.net/book/1002)
+* [The Unix Workbench](https://leanpub.com/unix/read_full)
+* [Just Enough Linux](https://leanpub.com/jelinux/read_full)
 
 # Command
 * [practice - get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
