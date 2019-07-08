@@ -353,6 +353,9 @@ R
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Text Mining with R](http://tidytextmining.com/)
+* [Introduction to Econometric Production Analysis with R](https://leanpub.com/ProdEconR)
+* [Developing Data Products in R](https://leanpub.com/ddp/read_full)
+* [Regression Models for Data Science in R](https://leanpub.com/regmods/read_full)
 
 # Conference
 * [New York R conference](http://www.rstats.nyc/)
