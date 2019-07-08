@@ -472,6 +472,8 @@ Data Science
 * [추천 시스템의 기초](https://www.datascienceschool.net/view-notebook/fcd3550f11ac4537acec8d18136f2066/) python RecSys
 * [MapReduce 기반 대용량 추천 알고리즘 개발](http://readme.skplanet.com/?p=2509)
 * [빅데이터와 NLP를 이용한 11번가 상품 추천](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%992-6.%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC-%EA%B8%B0%EC%88%A0%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-11%EB%B2%88%EA%B0%80-%EC%83%81%ED%92%88-%EC%B6%94%EC%B2%9C.pdf)
+* [Building NLP Content-Based Recommender Systems A tutorial for a NLP recommendation engine using unsupervised learning](https://medium.com/@armandj.olivares/building-nlp-content-based-recommender-systems-b104a709c042)
+  * [job_analysis_content_recommendation.ipynb](https://github.com/ArmandDS/jobs_recommendations/blob/master/job_analysis_content_recommendation.ipynb)
 * [Powerpoint-Slides for Recommender Systems - An Introduction](http://www.recommenderbook.net/teaching-material/slides)
 * **[Content Based Anime Recommender!](https://www.kaggle.com/xenocide/content-based-anime-recommender)** ipynb notebook
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
