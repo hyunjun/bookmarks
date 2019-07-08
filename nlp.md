@@ -1403,3 +1403,5 @@ NLP
 * [graph2vec - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017)](https://github.com/benedekrozemberczki/graph2vec)
 * [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
 * [Python을 이용한 콴다 리뷰 분석](https://medium.com/qandastudy/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%B4%EB%8B%A4-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D-73b3f26e967c)
+* [When and Why does King - Man + Woman = Queen? (ACL 2019)](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html)
+* [Word2vec: fish + music = bass](https://graceavery.com/word2vec-fish-music-bass/)
