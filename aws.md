@@ -292,6 +292,7 @@ AWS
 * [아마존 엘라스틱캐시의 멤캐시디 클러스터 스케일 아웃](https://www.44bits.io/ko/post/amazon-elasticache-memcached-cluster-scale-out)
 * [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
 * [AWS NAT Gateway에서 NAT instance로 전환하기](https://blog.2dal.com/2018/12/31/nat-gateway-to-nat-instance/)
+* [AWS NAT 인스턴스의 가성비 확인](https://elegantcoder.com/aws-nat-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%80/)
 * [AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362)](https://www.youtube.com/watch?v=HCCkVz25UU4) GitOps
 * [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
 * [아빠 왜 집에서 일해요? (feat. aws)](http://totuworld.github.io/2019/01/09/aws-beanstalk/)
