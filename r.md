@@ -317,6 +317,7 @@ R
 * [Data Science for Startups: Business Intelligence](https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75)
 * [경로 분석은 인과 관계를 밝혀낼 수 있는가?](http://ds.sumeun.org/?p=1857)
 * [핫 핸드 논쟁 1](http://ds.sumeun.org/?p=1875)
+* [코드로 파일을 다운받아보자.(Feat. 크롤링)](https://medium.com/@unfinishedgod/r%EC%96%B8%EC%96%B4-%EC%BD%94%EB%93%9C%EB%A1%9C-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EC%95%84%EB%B3%B4%EC%9E%90-feat-%ED%81%AC%EB%A1%A4%EB%A7%81-7b325644c3b7)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
