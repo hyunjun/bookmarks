@@ -49,6 +49,7 @@ Writing
 * [문장을 깔끔하게 쓰는 9가지 팁](https://imgur.com/a/2KArC6I)
 * [뜻이 모호하지 않은 문장을 써야 한다](https://brunch.co.kr/@jigunamja/1300)
 * [트래비스 캘러닉을 우버CEO자리에서 물러나게 한 편지](https://estimastory.com/2019/02/06/tkletter/)
+* [Essentials of Visual Language - Workbook](https://leanpub.com/visualthinkingworkbook)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
