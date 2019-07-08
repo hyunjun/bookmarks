@@ -262,6 +262,7 @@ Go
 * [How to Write Go Code](https://golang.org/doc/code.html)
 * [The Go Programming Language](http://www.gopl.io)
 * [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
+* [Production Go](https://leanpub.com/productiongo/read_full)
 
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
