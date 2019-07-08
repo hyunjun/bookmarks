@@ -428,6 +428,8 @@ Python
 * **[What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems)](https://www.youtube.com/watch?v=SlI9eOfxJJc)** dunder, custom iterator, functool.partial, contextmanager, closure, wraps/wrapt
 * [Solve Your Problem With Sloppy Python](https://www.youtube.com/watch?v=QsTVDx20y1M) os, subprocess, ...
 * [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747)
+* [7 More Tricks to Write Better Python Code](https://www.youtube.com/watch?v=SNTZpy0oDB8)
+  * Inline if-else statements, Sequence comparisons, Extended unpacking (Python-3 only), Dict comprehensions, collections.OrderedDict, collections.defaultdict, collections.Counter
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
 * [Road to becoming a Python Ninja — Data Structures](https://hackernoon.com/python-basics-data-structures-d378d854df1b) 기본 data structure
 * [argparse](https://docs.python.org/3/library/argparse.html)
