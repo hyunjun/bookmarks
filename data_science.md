@@ -305,6 +305,11 @@ Data Science
 * [Learning Data Science: Our Favorite Data Science Books](https://hackernoon.com/learning-data-science-our-favorite-data-science-books-d02ada5ed5d)
 * [The Elements of Data Analytic Style](https://leanpub.com/datastyle/read_full)
 * [Executive Data Science](https://leanpub.com/eds/read_full)
+* [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/read_full)
+* [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read_full)
+* [Essays on Data Analysis](https://leanpub.com/dataanalysisessays/read_full)
+* [Advanced Linear Models for Data Science](https://leanpub.com/lm)
+* [Introduction to Data Science](https://leanpub.com/datasciencebook)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
@@ -420,6 +425,7 @@ Data Science
 * [야구 대회 간단한 모델링 코드](https://dacon.io/cpt6/66846)
 * [How to use Data Science to better understand your customers](https://medium.freecodecamp.org/using-data-science-to-better-understand-your-customers-part-1-of-2-398d11049785)
 * **[Aaron Richter: Your data fits in RAM: How to avoid cluster computing | PyData Miami 2019](https://www.youtube.com/watch?v=7h4BwpedPD0)**
+* [Data Science Toolkit (Concepts + Code)](https://hackernoon.com/data-science-toolkit-concepts-code-20628af23cd) Jupyter, Numpy, Pandas, Plotly
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
