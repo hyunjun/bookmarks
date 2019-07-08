@@ -378,6 +378,8 @@ Programming Books
   * 한라
   * ★★★★☆ 엑셀을 이용해 데이터 분석 관련 수학을 실습하며 배울 수 있음. 자세해서 좋음
 * (NOT YET) [인공지능을 위한 수학](https://freelec.co.kr/book/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%88%98%ED%95%99/)
+* (NOT YET) [데이터 중심 애플리케이션 설계 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심 아이디어](https://wikibook.co.kr/data-intensive-applications)
+  * [데이터 중심 애플리케이션 설계 - 1장](https://astrod.github.io/data/2019/07/07/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-1%EC%9E%A5/)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
