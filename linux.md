@@ -687,3 +687,4 @@ Linux
 * [24 Things I’ve Learned As A Software Developer Living On Ubuntu For A Weekish](https://hackernoon.com/24-things-learned-as-software-developer-on-ubuntu-for-a-weekish-5b7b0da5d4b5)
 * [우분투(Ubuntu)에서 신규 커널 설치 후 USB, WIFI가 동작하지 않을 때 해결 방법](http://kkamagui.tistory.com/901)
 * [우분투용 해킹 & 분석 도구 모음](http://hisjournal.net/blog/242)
+* [우분투 연말정산](https://logon.tistory.com/770)
