@@ -647,6 +647,7 @@ App
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
 * [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
+* [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
 * [cacoo](https://cacoo.com/)
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
