@@ -879,6 +879,7 @@ Python
     * [test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
     * [`re.compile('PT(?:([0-9]+)H)*(?:([0-9]+)M)*')`](https://gist.github.com/hyunjun/0adf682379b18c8a484744cf539a3de6#file-group_exists-py)
     * [lookbehind](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-lookbehind-md) 어떤 접두사가 선행하지 않는 단어만 인식하는 정규식
+    * [매 n번째 occurence를 변경](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-substitution_every_nth-md)
   * [regex101.com/#python](https://www.regex101.com/#python)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
