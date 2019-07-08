@@ -776,6 +776,7 @@ Programming
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
+* [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * Deview
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
   * [2018](https://deview.kr/2018)
