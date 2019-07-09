@@ -80,3 +80,4 @@ Google Cloud Platform GCP
 * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 * [Stackdriver Monitoring 확장하기 — Bleu Medora 의 BindPlane 연동](https://medium.com/@jwlee98/gcp-stackdriver-monitoring-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0-bleu-medora-%EC%9D%98-bindplane-%EC%97%B0%EB%8F%99-91131e711e55)
 * [Cloud Dataproc 클러스터에서 Jupyter 노트북 설치 및 실행](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
+* [1.(입문)구글클라우드 가입과 무료서버1대받기-2017](https://brunch.co.kr/@topasvga/168)
