@@ -106,6 +106,7 @@ Machine Learning
   * Bagging; 서로 연관성이 없거나 사전지식이 없는 predictor들 여럿을 섞어서 결과를 내는 것. 제일 유명한 것이 random forest
   * Gradient boosting(GBM); 이전 predictor가 이후 predictor에 영향을 미치거나 관계를 알고 그 연쇄를 이용하면 보다 효율적인 결정을 할 수 있음
   * 각각 오버피팅과 variance/bias balance와 관련해 장단점이 있어서 도메인에 맞게 잘 선택하는 것이 중요
+* [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers/blob/master/README.md)
 * [How to use GradientBoosting Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-gradientboosting-classifier-and-regressor-in-python/)
 * [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
