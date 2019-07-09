@@ -773,6 +773,7 @@ Machine Learning
 * [I did a Kaggle competition as a semester project at uni. Here’s what I learned](https://medium.freecodecamp.org/i-did-a-kaggle-competition-as-a-semester-project-at-uni-heres-what-i-learned-afe36a99d309)
 * [Feature Selection with Null Importances(KR)](https://databreak.netlify.com/2019-04-21-Null_importance)
 * [DataBreak2018: Hello Kaggler -Keynote2 (이정윤 님, data scientist, Microsoft)](https://www.youtube.com/watch?v=pihob75h020)
+* [사이먼킴의 데이터과학 1화 - 데이터 살펴보기](https://www.youtube.com/watch?v=qPRE3VaqT00)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
