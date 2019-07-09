@@ -238,6 +238,7 @@ Keras
 * [keras-inception-resnet-v2](https://github.com/myutwo150/keras-inception-resnet-v2)
 * [Keras Project Template - A project template to simplify building and training deep learning models using Keras](https://github.com/Ahmkel/Keras-Project-Template)
 * [Keras Tuner - An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0](https://github.com/keras-team/keras-tuner)
+  * [이제 하이퍼파라미터 튜닝은 케라스 튜너에게 맡기세요 - 김태영](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together_tykim/)
 * [ktrain: a lightweight wrapper for Keras to help train (and deploy) neural networks](https://github.com/amaiya/ktrain)
 * [reactionrnn - a Python 2/3 module + R package on top of Keras/TensorFlow which can easily predict the proportionate reactions (love, wow, haha, sad, angry) to a given text using a pretrained recurrent neural network](https://github.com/minimaxir/reactionrnn)
 * [Spektral - a framework for relational representation learning, built in Python and based on the Keras API](https://github.com/danielegrattarola/spektral) Deep learning on graphs with Keras
