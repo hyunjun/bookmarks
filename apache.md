@@ -454,6 +454,7 @@ Apache
 * **[KAFKA와 그 친구들](https://speakerdeck.com/dongjin/kafka-and-friends-ko)** monitoring, 운영, test tool 소개
 * [How to use reassign partition tool in Apache Kafka](https://www.youtube.com/watch?v=sWsWurfBI9c)
 * [How to move Kafka Partition log directory within a Broker Node](https://www.youtube.com/watch?v=UrX2RWM2vQQ)
+* [How to use reassign partition tool in Apache Kafka](https://www.youtube.com/watch?v=sWsWurfBI9c)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
