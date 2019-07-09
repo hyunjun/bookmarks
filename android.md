@@ -177,6 +177,7 @@ Android
   * [RxJava2 정리 #1 - Observable과 기본 연산자](https://jungwoon.github.io/rxjava2/2019/07/05/RxJava-1/)
   * [RxJava2 정리 #2 - 연산자](https://jungwoon.github.io/rxjava2/2019/07/05/RxJava-2/)
   * [RxJava2 정리 #3 - 스케쥴러](https://jungwoon.github.io/rxjava2/2019/07/05/RxJava-3/)
+  * [RxJava2 정리 #4 - 디버깅과 예외처리 및 흐름 제어](https://jungwoon.github.io/rxjava2/2019/07/05/RxJava-4)
   * [RxJava와 Kotlin Coroutines 비교해보기](https://thdev.tech/kotlin/2018/11/07/RxJava-To-Kotlin-Coroutine/)
   * [A complete roadmap for learning RxJava](https://medium.freecodecamp.org/a-complete-roadmap-for-learning-rxjava-9316ee6aeda7)
   * [RxJava를 사용해서 안드로이드 앱 만들기](https://dev-daddy.tistory.com/26)
