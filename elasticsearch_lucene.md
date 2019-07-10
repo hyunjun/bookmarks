@@ -267,6 +267,7 @@ ElasticSearch - Lucene
 * [Inverted Index 이해하기](https://cloudingdata.tistory.com/45)
 * [Elastic SIEM 도입](https://www.elastic.co/kr/blog/introducing-elastic-siem)
 * [Berlin Buzzwords 2019:Debmalya Biswas/Louis Baligand–Building an enterprise NLSE (...)](https://www.youtube.com/watch?v=UJYrDw6I19Y) ElasticSearch + Facebook's DrQA
+* [Enhancing Search With Elastic How we are improving search in our app using Elastic Search](https://hackernoon.com/enhancing-search-with-elastic-bcc450d05de8)
 
 # Docker
 * Dockerfile
