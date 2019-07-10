@@ -122,6 +122,7 @@ Web
 * [개알못인 당신이 웹개발을 시작한다면 (5)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-5-12b7d3e78264)
 * [Become a Full-Stack Web Developer](http://poiemaweb.com/)
 * [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)
+* [Guide to Web Application Development](https://medium.com/development-io/guide-to-web-application-development-23d958104f1c)
 * [변화하는 웹 플랫폼 따라가기](https://spoqa.github.io/2018/01/23/follow-the-changing-web-platform.html)
 * [정적 웹사이트 생성기의 역습 - 동적 스크립트를 넘어 다시 정적 컨텐츠로](http://blog.nacyot.com/articles/2014-01-15-static-site-generator/)
 * [Static vs Dynamic Website — What’s the Difference in 2019?](https://hackernoon.com/static-vs-dynamic-website-whats-the-difference-in-2019-327064bfd4a9)
