@@ -66,3 +66,4 @@ Writing
 * [Write The Docs 3월 밋업 발표자료](https://blog.outsider.ne.kr/1435)
 * [문서 엔지니어링과 API 문서화](https://engineering.linecorp.com/ko/blog/document-engineering-api-documentation/)
 * [‘문서’로 세상에 도움을 주는 테크니컬 라이터, 강정일](https://engineering.linecorp.com/ko/blog/line-developer-interview-4/)
+* [Why developers should know how to write](https://medium.com/free-code-camp/why-developers-should-know-how-to-write-dc35aa9b71ab)
