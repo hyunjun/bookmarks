@@ -1472,6 +1472,8 @@ Python
 
 # Excel
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
+* [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (1)](https://woolbro.tistory.com/35)
+* [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (2)](https://woolbro.tistory.com/36)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
 * [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
