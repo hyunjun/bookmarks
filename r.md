@@ -303,6 +303,7 @@ R
 * [Make it explainable!](https://www.r-bloggers.com/make-it-explainable/)
 * [Random generation of network models in R](https://hackernoon.com/random-generation-of-network-models-in-r-18285ad51d81)
 * [Management accounting with balance sheet and income statement in R](https://www.r-bloggers.com/management-accounting-with-balance-sheet-and-income-statement-in-r/)
+* [인공지능 R고 하자](https://www.youtube.com/channel/UCNpk3Y87rYydwgSNPZSiulQ)
 * [#딥러닝, 정말 #블랙박스 일까요? CNN 계층을 거친 결과를 시각화 하면서!! 블랙박스를 살펴봅시다](https://www.youtube.com/watch?v=F-0CykkGZqM)
 * [#딥러닝 필수. 자유로운 입출력을 위한 딥러닝 #다중모듈](https://www.youtube.com/watch?v=jFf8bMIXTnQ)
 * [최종목표는 R챗봇이다!!원-핫 인코딩 & 워드임베딩으로 자연어 처리를 배워보고,함께 R언어로 실습해 봅시다](https://www.youtube.com/watch?v=ZNjpa81CNzM)
