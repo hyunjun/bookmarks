@@ -2402,6 +2402,7 @@ Python
 * [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
+* **[pypapago 개발기](https://beomi.github.io/2019/07/08/Papago-API-with-Python/)**
 * pyparsing
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
   * [pyparsing을 이용하여 Recursive 함수 호출 부분 가져오기](http://mcchae.egloos.com/11207110)
@@ -3186,6 +3187,7 @@ Python
   * [Type checking in Python using mypy](https://www.youtube.com/watch?v=f4Q-L4vGdh8)
   * [mypy와 함께하는 Python Typing](https://item4.github.io/2017-09-14/Python-Typing-with-mypy)
   * [Python typing으로 인한 순환 참조 대응책](https://item4.github.io/2017-12-03/Resolve-Circular-Dependency-on-Python-Typing/)
+  * [mypy 사용하기 static typing 테스트 해보기](https://speedr00t.tistory.com/m/entry/mypy-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-static-typing-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
