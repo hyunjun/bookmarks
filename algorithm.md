@@ -232,13 +232,15 @@ Algorithm
 * [Yinyang K-Means: A Drop-In Replacement of the Classic K-Means with Consistent Speedup](http://jmlr.org/proceedings/papers/v37/ding15.html)
 * [빅마마 프로젝트 분석파트팀 K-MEANS 알고리즘 발표내용](http://koreaai.org/?p=12936)
 * [R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
+* [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 * [Decision Trees – Why Are They Useful and How To Create Them](http://www.edupristine.com/blog/understanding-and-creating-decision-tree)
 * [Decision Tree Algorithm for a Predictive Model](http://www.techleer.com/articles/120-decision-tree-algorithm-for-a-predictive-model/)
 * [Introducing Torch Decision Trees](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/Introducing-Torch-Decision-Trees.html)
 * [Everything You Need to Know About Decision Trees](https://towardsdatascience.com/everything-you-need-to-know-about-decision-trees-8fcd68ecaa71)
 * [디시전 트리 보는 방법 _ 전용준.리비젼](https://www.youtube.com/watch?v=e15BpXdGZ5o)
 * [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/blob/master/README.md)
-* [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
+* [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
+  * [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 
 ## Detection
 * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
