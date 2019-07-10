@@ -273,6 +273,7 @@ Machine Learning
 * **[Logistic Regression](https://b.luavis.kr//ml/Logistic-regression)**
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 * [Deployment of Web App + ML Model + APIs — Tutorial - Learn how to deploy a web app served by a Logistic Regression Model. We will create an app to predict the probability of a Data Scientist earn more than USD 100k per year](https://towardsdatascience.com/simple-deployment-of-web-app-ml-model-apis-tutorial-2ece8e66d98c)
+* [Putting Machine Learning Models into Production](https://blog.cloudera.com/blog/2019/06/putting-machine-learning-models-into-production)
 * [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 * [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
