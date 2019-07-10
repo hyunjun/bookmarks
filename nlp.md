@@ -1253,6 +1253,7 @@ NLP
 * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice) 설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
 * [딥 러닝 음성 인식에 필요한 훈련 데이터를 직접 만들어보자](https://engineering.linecorp.com/ko/blog/voice-waveform-arbitrary-signal-to-noise-ratio-python)
 * [Towards end-to-end speech recognition](https://jybaek.tistory.com/793)
+* [컴퓨터는 어떻게 소리를 들을까?](https://evan-moon.github.io/2019/07/10/javascript-audio-waveform/)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
