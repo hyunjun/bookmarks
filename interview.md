@@ -1,6 +1,7 @@
 Interview
 =========
 * **[kreditjob.com](http://kreditjob.com/)**
+* [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Coding Interview University](https://github.com/jun-Sogang/CSE-University/tree/master/coding-interview-university#data-structures)
 * [CRACKING THE CODING INTERVIEW: VIDEO COLLECTION](https://vimeopro.com/gaylemcd/cracking-the-coding-interview-video-collection)
   * [Cracking the Coding Interview (Part 1 of 2)](https://www.youtube.com/watch?v=LU75pxyUFj4)
@@ -405,6 +406,8 @@ Interview
 * [알고리즘 공부 사이트/문제 추천](https://justicehui.github.io/study/2019/03/25/AlgorithmSite/)
 * [나만의 알고리즘 채점 사이트 만들기(How To Make Online Judge Site)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCSBgU29ZEmxqTr4ge-MoN_)
 * [Interactive 문제란 무엇인가요?](https://subinium.github.io/interactive-problem-in-ps)
+* [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30)
+  * [수비니움의 코딩일지](https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ/videos)
 * [algoexpert.io](https://www.algoexpert.io)
 * [algospot](https://www.algospot.com)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
