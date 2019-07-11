@@ -389,6 +389,8 @@ Python
 * [파이썬과 양자 컴퓨팅 — 제 4장은 실용화 편이다](https://medium.com/@kenixer/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%A0%9C-4%EC%9E%A5%EC%9D%80-%EC%8B%A4%EC%9A%A9%ED%99%94-%ED%8E%B8%EC%9D%B4%EB%8B%A4-43ff757f3860)
 * [파이썬으로 체스 만들기](https://among.software/content/6f30f2494b8d3dff1dbf71865d40386d8e450b49)
 * [(PlaywithData)1day seminar_0630](https://www.slideshare.net/namsoojang3/playwithdata1day-seminar0630-152800415)
+* **[SERP Analysis with Google Search Console+Python](https://hackernoon.com/serp-analysis-with-google-search-console-python-bf8a2ab43fa9)**
+  * Google Search Console Data, CSVs into a Pandas Dataframe, Plot total clicks over time
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
