@@ -109,6 +109,7 @@
 * [Visual Studio에서 CMake 사용하기](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-cmake-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [Visual Studio 15.4 업데이트 후 CMake 사용 불가](https://surpreem.com/visual-studio-15-4-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8-%ED%9B%84-cmake-%EC%82%AC%EC%9A%A9-%EB%B6%88%EA%B0%80/)
 * [CMake 템플릿 프로젝트](https://surpreem.com/cmake-%ED%85%9C%ED%94%8C%EB%A6%BF-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
+* [Visual Studio CMake 프로젝트에서 빌드 도구 지정 방법](https://surpreem.com/visual-studio-cmake-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ec%97%90%ec%84%9c-%eb%b9%8c%eb%93%9c-%eb%8f%84%ea%b5%ac-%ec%a7%80%ec%a0%95-%eb%b0%a9%eb%b2%95/<Paste>))
 * [Favorite Visual Studio Code Extensions of 2017](https://medium.freecodecamp.org/favorite-vs-code-extensions-2017-786ea235812f)
 * [Visual Studio 2017 + Entity Framework + MariaDB](http://bomdol.tistory.com/308)
 * [Visual Studio에서 C++ 파일을 utf-8로 저장하는 더 간편한 방법](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-c-%ED%8C%8C%EC%9D%BC%EC%9D%84-utf-8%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%8D%94-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B0%A9%EB%B2%95/)
