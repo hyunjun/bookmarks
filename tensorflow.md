@@ -585,6 +585,8 @@ TensorFlow
   * [Flickr-Faces-HQ Dataset (FFHQ)](https://github.com/NVlabs/ffhq-dataset)
 * [StyleGAN_WebDemo.ipynb](https://colab.research.google.com/drive/1j9X6Np9z_XMp5dJKFgCb9OCMVgE-e7lg)
 * [Stylegan-art](https://github.com/ak9250/stylegan-art/blob/master/README.md)
+* [stylegan-reproduced](https://github.com/moono/stylegan-reproduced)
+* [StyleGAN-Tensorflow](https://github.com/taki0112/StyleGAN-Tensorflow)
 * [Semantic Image Synthesis with SPADE (GauGAN) - Tensorflow](https://github.com/taki0112/SPADE-Tensorflow)
 
 # Installation
