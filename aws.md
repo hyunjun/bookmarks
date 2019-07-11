@@ -349,6 +349,7 @@ AWS
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
 * [Centralized Container Logging with Fluent Bit](https://aws.amazon.com/ko/blogs/opensource/centralized-container-logging-fluent-bit)
+* [AWS EBS(Elastic Block Storage) 비용 최적화](https://www.popit.kr/aws-ebselastic-block-storage%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
