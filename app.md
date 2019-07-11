@@ -292,6 +292,7 @@ App
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
+* [Sourcetrail - The offline cross-platform source explorer* Get productive on unfamiliar source code](https://www.sourcetrail.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
