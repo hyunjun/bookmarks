@@ -340,6 +340,8 @@ Docker
 * [Part II: Why Is There No Docker in OpenShift 4 and RHEL 8?](http://crunchtools.com/why-no-docker/)
   * [Part II: Why Is There No Docker in OpenShift 4 and RHEL 8?](https://www.linkedin.com/pulse/part-ii-why-docker-openshift-4-rhel-8-scott-mccarty/)
 * [Continuous Development with Docker and VSCode](https://hackernoon.com/continuous-development-with-docker-and-vscode-go-version-164ee78d09bf)
+* [Predictive CPU isolation of containers at Netflix](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+* [Project Services and Maturity Levels](https://www.cncf.io/projects/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
