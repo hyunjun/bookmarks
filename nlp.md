@@ -225,7 +225,6 @@ NLP
 * [A Neural Network Model That Can Reason - Prof. Christopher Manning](https://www.youtube.com/watch?v=24AX4qJ7Tts)
   * [Compositional Attention Networks for Machine Reasoning](https://openreview.net/forum?id=S1Euwz-Rb)
 * [NLP with attention](https://github.com/dsindex/blog/wiki/%5Battention%5D-NLP-with-attention)
-* [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876) gluonNLP
 * [CodeSandbox - an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io/)
 * [Team AURA - 1st Meeting Summary](https://www.ai-lab.kr/labs/aura-raebjang-gimhyeonu/team-aura-1st-meeting-summary)
 * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
@@ -717,6 +716,7 @@ NLP
   * [pyfasttext](https://pypi.org/project/pyfasttext)
   * [models.fasttext – FastText model](https://radimrehurek.com/gensim/models/fasttext.html#usage-examples) gensim example
 * [GluonNLP: NLP made easy](https://gluon-nlp.mxnet.io)
+  * [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876) gluonNLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
