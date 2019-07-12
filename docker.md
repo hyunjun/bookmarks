@@ -473,6 +473,7 @@ Docker
 * **[How to write Dockerfiles for Python Web Apps](https://blog.hasura.io/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d)**
 * [Dockerfile Tutorial with Example | Creating your First Dockerfile | Docker Training | Edureka](https://www.youtube.com/watch?v=2lU9zdrs9bM)
 * [Spacewalk latest Docker image 제작기](https://tech.osci.kr/spacewalk/2019/01/07/55869620/)
+* [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 
 # [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
 * [Introduction to gVisor: Sandboxed Linux Container Runtime](https://www.youtube.com/watch?v=Ur0hbW_K66s)
@@ -661,6 +662,7 @@ Docker
 * [쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 * [쿠버네티스 네트워킹 이해하기#2: Services](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
 * [쿠버네티스 네트워킹 이해하기#3: Ingress](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
+* [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
