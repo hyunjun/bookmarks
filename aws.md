@@ -330,6 +330,7 @@ AWS
 * [AWS Auto Cleanup - Open source application to programatically clean your AWS resources based on a whitelist and time to live (TTL) settings](https://github.com/servian/aws-auto-cleanup)
 * [20190418 Read Replicas and Django DB Router - AWS Summit Seoul 2019](https://www.slideshare.net/addnull/20190418-aws-summit-seoul-2019-hbsmith)
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://medium.com/hbsmith/amazon-connect%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-outbound-call-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-93ab4ed39f57)
+* [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.slideshare.net/changhoonhyun/amazon-connect-outbound-call)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [Deep learning for cheap: Jupyter + AWS Spot](https://medium.com/@sdhnshu/pro-deep-learning-setup-at-90-off-e9e68f5e84ec)
 * [How to build Authentication using Cosmic JS, Vue, and Lambda](https://hackernoon.com/how-to-build-authentication-using-cosmic-js-vue-and-lambda-e0e243d9b90b)
