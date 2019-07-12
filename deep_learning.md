@@ -222,6 +222,7 @@ Deep Learning
   * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
   * [Rendering OpenAi Gym in Colaboratory.ipynb](https://colab.research.google.com/drive/1flu31ulJlgiRL1dnN2ir8wGh9p7Zij2t#scrollTo=8nj5sjsk15IT)
   * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://m.blog.naver.com/cjsdyd2000/221263903468)
+  * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
   * [딥러닝 워크샵 패널토의 @ ICML2015](http://t-robotics.blogspot.com/2015/07/icml2015.html#.VyyRohWLSZ0)
