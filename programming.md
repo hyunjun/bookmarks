@@ -858,6 +858,7 @@ Programming
 * [Public Cloud(AWS) 기반 CD(Continuous Delivery or Continuous Deploy) 도입](https://zuminternet.github.io/ZUM-deploy-on-AWS)
 * [How to get started with Continuous Integration](https://medium.freecodecamp.org/how-to-get-started-with-continuous-integration-7b2f8d87c914)
 * [How to setup continuous integration (CI) with React, CircleCI, and GitHub](https://medium.freecodecamp.org/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03)
+* [The Guide to Cloudbase App Automation with Jim Rose of CircleCI](https://hackernoon.com/the-guide-to-cloudbase-app-automation-with-jim-rose-of-circleci-5afa8e86bee6)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
@@ -1068,6 +1069,7 @@ Programming
   * [438 Free Online Programming & Computer Science Courses You Can Start in May](https://medium.freecodecamp.org/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
   * [650 Free Online Programming & Computer Science Courses You Can Start This Summer](https://medium.freecodecamp.org/650-free-online-programming-computer-science-courses-you-can-start-this-summer-6c8905e6a3b2)
 * [gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)
+* [inflearn.com/roadmaps](https://www.inflearn.com/roadmaps)
 * [infractal.org](http://infractal.org/)
 * [K MOOC](http://www.kmooc.kr/)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
