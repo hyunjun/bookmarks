@@ -617,6 +617,7 @@ Web
 * [WebSockets vs. Regular Sockets](https://medium.com/kifi-engineering/websockets-vs-regular-sockets-b3b8e7ea0708)
 * [HTTP vs Websockets: A performance comparison](https://blog.feathersjs.com/http-vs-websockets-a-performance-comparison-da2533f13a77)
 * [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
+* [How to secure your WebSocket connections](https://medium.com/free-code-camp/how-to-secure-your-websocket-connections-d0be0996c556)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
