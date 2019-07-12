@@ -725,6 +725,7 @@ TensorFlow
   * [How to use TensorFlow Hub with code examples](https://medium.com/ymedialabs-innovation/how-to-use-tensorflow-hub-with-code-examples-9100edec29af)
   * [새로운 TensorFlow Hub 웹 경험](https://developers-kr.googleblog.com/2019/01/a-new-tensorflow-hub-web-experience.html)
 * [TensorFlow.js](https://js.tensorflow.org/)
+  * [tfjs/GALLERY.md](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
   * [github.com/zaidalyafeai/tensorflowjs-binary](https://github.com/zaidalyafeai/tensorflowjs-binary)
   * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
   * [A Gentle Introduction to TensorFlow.js](https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702)
@@ -746,6 +747,7 @@ TensorFlow
   * [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js-color-recommendation/)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
+  * [tensorspace - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org ](https://github.com/tensorspace-team/tensorspace)
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
