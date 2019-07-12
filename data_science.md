@@ -28,6 +28,7 @@ Data Science
 * [Lessons in Becoming an Effective Data Scientist](https://www.datasciencecentral.com/profiles/blogs/lessons-in-becoming-an-effective-data-scientist)
 * [PyData Paris 2016 - Round table: "How to become a data scientist"](https://www.youtube.com/watch?v=_h3o-FQ0HP0)
 * [Renee Teate | Becoming a Data Scientist Advice From My Podcast Guests](https://www.youtube.com/watch?v=I7IW9Z3h20Y)
+* [How to land a Data Scientist job at your dream company — My journey to Airbnb](https://towardsdatascience.com/how-to-land-a-data-scientist-job-at-your-dream-company-my-journey-to-airbnb-f6a1e99892e8)
 * [어서와~ 데이터사이언티스트는 처음이지?](https://speakerdeck.com/wonseokjung/how-to-become-a-datascientist)
 * [장바구니를 든 데이터 사이언티스트](https://www.slideshare.net/DennisLee8/ss-128940838)
 * [B급 프로그래머 데이터 과학자로 취직하려면 남들처럼 하지 마라](http://jhrogue.blogspot.com/2018/11/b_23.html)
