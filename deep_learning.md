@@ -696,6 +696,7 @@ Deep Learning
 * [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
 * [Why Randomness should be Embraced and Not Feared](https://medium.com/intuitionmachine/why-randomness-should-be-leveraged-and-not-filtered-be31a94e85ef)
 * [AutoML 1.데이터 어그먼테이션 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/64)
+* [GPU 성능 파워업! LMS 기술 테스트 결과는?](https://blog.naver.com/ibm_korea/221571488250)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -853,6 +854,8 @@ Deep Learning
 * [1st 함께하는 딥러닝 컨퍼런스](https://tykimos.github.io/2018/06/28/ISS_1st_Deep_Learning_Conference_All_Together/)
 * [DLCAT#2 참석 후기 & 정리](https://beomi.github.io/2019/07/04/DLCAT2nd/)
   * [2nd DLCAT (이론)딥러닝으로 오디오 만나보기 - 남기현](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together_namkihyun/)
+  * [강화학습 해부학 교실: Rainbow 이론부터 구현까지 (2nd dlcat in Daejeon)](https://www.slideshare.net/KyunghwanKim27/rainbow-2nd-dlcat-in-daejeon)
+    * [Rainbow is all you need! Step-by-step tutorials from DQN to Rainbow](https://github.com/Curt-Park/rainbow-is-all-you-need)
 * [ICLR 2015](http://www.iclr.cc/doku.php?id=iclr2015%3Amain)
   * [Artificial Tasks for Artificial Intelligence](https://www.dropbox.com/s/ly9y136saba0915/ICLR2015_Oral_Slides_All.pdf?oref=e&n=117881854)
 * [Deep Learning Trends @ ICLR 2016](http://www.computervisionblog.com/2016/06/deep-learning-trends-iclr-2016.html)
