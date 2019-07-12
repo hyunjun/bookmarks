@@ -218,6 +218,7 @@ Go
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
 * [Golang 개발시 Makefile 사용해보기](https://jusths.tistory.com/130)
 * [Password Stretching using Key Derivation Function(KDF)](https://hackernoon.com/password-stretching-using-key-derivation-function-kdf-a5abc570f9e5)
+* [Slack Slash Command - 영한 번역(1)](https://jusths.tistory.com/136)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
