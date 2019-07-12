@@ -376,6 +376,9 @@ R
 # Installation
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
 
+# Lecture, MOOC
+* [데이터홀릭](https://www.youtube.com/playlist?list=PLOvmIXlrvHO18HuniAOdzlvMQxHumeAoE)
+
 # Library
 * [R에서 Package란?](https://lovetoken.github.io/r/2018/04/07/Rpackage.html)
 * [국제경제학 + 금융공학R](http://psygement.github.io/ieco_finr)
