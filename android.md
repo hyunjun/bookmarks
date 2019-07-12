@@ -100,7 +100,6 @@ Android
 * [SpongeBobSun의 mCalendarView 라이브러리 사용하기](https://www.ienlab.net/entry/SpongeBobSun%EC%9D%98-mCalendarView-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * **[타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)**
 * [한국 안드로이드 개발자 모임, Droid Knights 2019에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/droid-knights-2019/)
-* [How to handle RESTful web Services using Retrofit, OkHttp, Gson, Glide and Coroutines](https://medium.freecodecamp.org/my-crypto-coins-app-series-part-5-160e7aaa6382)
 * [아름답게 안드로이드 앱 오류 처리하기](https://medium.com/prnd/%EC%95%84%EB%A6%84%EB%8B%B5%EA%B2%8C-%EC%95%B1-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-8bf9a46df515)
 * [안드로이드 액티비티 생명주기(Life Cycle)](https://brunch.co.kr/@mystoryg/80)
 * [안드로이드 Dalvik & ART (1/2)](https://brunch.co.kr/@mystoryg/81)
@@ -166,7 +165,10 @@ Android
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
   * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
-* [Retrofit으로 날씨 api를 이용한 통신 예제!!](http://forliver.tistory.com/entry/Retrofit%EC%9C%BC%EB%A1%9C-%EB%82%A0%EC%94%A8-api%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%86%B5%EC%8B%A0-%EC%98%88%EC%A0%9C)
+* Retrofit
+  * [How to handle RESTful web Services using Retrofit, OkHttp, Gson, Glide and Coroutines](https://medium.freecodecamp.org/my-crypto-coins-app-series-part-5-160e7aaa6382)
+  * [Retrofit으로 날씨 api를 이용한 통신 예제!!](http://forliver.tistory.com/entry/Retrofit%EC%9C%BC%EB%A1%9C-%EB%82%A0%EC%94%A8-api%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%86%B5%EC%8B%A0-%EC%98%88%EC%A0%9C)
+  * [Retrofit2 정리하기](https://jungwoon.github.io/android/2019/07/11/Retrofit/)
 * RxJava
   * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
   * [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
