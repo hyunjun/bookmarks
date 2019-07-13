@@ -542,6 +542,7 @@ Interview
 * [goengin.com/category/code-interview](http://goengin.com/category/code-interview/)
 
 # Resume
+* [Tips to Optimize your LinkedIn Profile for Developers](https://medium.com/@samanthaming/tips-to-optimize-your-linkedin-profile-for-developers-77777c1e2c2e)
 * [LinkedIn-dentation & Formatting](http://stephendnicholas.com/posts/linked-in-formatting) linkedin에 indent 넣는 방법
 * [해외 리쿠르터의 이목을 사로잡는 링크드인 작성법](http://www.upfly.me/index.php/2016/10/16/howtolinkedin/)
 * [한국인들이 저지르는 링크드인 실수 TOP 5](https://www.youtube.com/watch?v=G7jPNzx4oDU)
