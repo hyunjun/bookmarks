@@ -60,6 +60,7 @@ Android
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
 * [요약 Android Studio/ Tips and Tricks ~ Part2 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part2/)
 * [요약 Android Studio/ Tips and Tricks ~ Part3 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/07/io19-android_studio_tips_and_tricks_part3/)
+* [Android Studio Tips #1](http://pluu.github.io/blog/android%20studio/2019/07/13/android-studio-tip1/)
 * [#01 안드로이드 일기장 앱을 만들어봅시다](https://www.youtube.com/watch?v=yWvBLMJ8O7Q)
 * [빌드시간 최적화하기(빌드속도 70%감소)](http://gun0912.tistory.com/76)
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
@@ -190,6 +191,7 @@ Android
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * HTTP
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
+* [TedNaverMapClustering -네이버지도용 클러스터링 유틸리티 라이브러리](https://gun0912.tistory.com/83)
 * [TedBottomPicker(이미지 선택, Image Picker)](http://gun0912.tistory.com/68)
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
 * [Vysor - A window to your Android](http://www.vysor.io/)
