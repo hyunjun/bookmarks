@@ -127,6 +127,7 @@ C
 * [Home-grown bytecode interpreters](https://badootech.badoo.com/home-grown-bytecode-interpreters-51e12d59b25c)
 * [Another one bites the apple!](https://engineering.linecorp.com/ko/blog/another-one-bites-the-apple/) OS X bug hunting
 * [C 프로그래밍 언어가 여전히 최고인 이유 : 개발언어 일대일 비교](http://www.itworld.co.kr/news/124767)
+* [C에 대해서 잘 아시나요?](http://jhrogue.blogspot.com/2019/07/b-c.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
