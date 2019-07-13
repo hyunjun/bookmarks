@@ -808,6 +808,7 @@ Machine Learning
 * [DVC - Open-source Version Control System for Machine Learning Projects](https://dvc.org/)
   * [Data version control with DVC. What do the authors have to say?](https://towardsdatascience.com/data-version-control-with-dvc-what-do-the-authors-have-to-say-3c3b10f27ee)
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
+* [Gradio - a free, open-source python library that helps machine learning researchers interact with and share their machine learning models with collaborators and clients with only a few lines of extra code](https://gradio.app/index.html)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
   * [H2O for Inexperienced Users](https://www.h2o.ai/blog/h2o-for-inexperienced-users/)
