@@ -255,6 +255,7 @@ Vision
     * [Faster-RCNN in Tensorflow](https://github.com/smallcorgi/Faster-RCNN_TF)
     * [Tensorflow Faster RCNN for Object Detection https://arxiv.org/pdf/1702.02138.pdf](https://github.com/endernewton/tf-faster-rcnn)
   * [Detecting Objects in (almost) Real-time: FasterRCNN Explained with Code](https://towardsdatascience.com/fasterrcnn-explained-part-1-with-code-599c16568cff)
+  * [Faster R-CNN (object detection) implemented by Keras for custom data from Google’s Open Images Dataset V4](https://towardsdatascience.com/faster-r-cnn-object-detection-implemented-by-keras-for-custom-data-from-googles-open-images-125f62b9141a)
 * [deep-object-detection-models - Deep Learning으로 학습된 Object Detection Model 에 대해 정리한 Archive](https://github.com/ildoonet/deep-object-detection-models/)
 * ["Is the deconvolution layer the same as a convolutional layer?](http://arxiv.org/abs/1609.07009v1)
   * 저자들의 CVPR 논문인, [Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network](https://arxiv.org/abs/1609.05158)을 발표하면서 들었던 대표적인 질문들에 대해 답을 주기 위해 쓴 노트
