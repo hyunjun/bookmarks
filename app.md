@@ -292,7 +292,7 @@ App
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
-* [Sourcetrail - The offline cross-platform source explorer* Get productive on unfamiliar source code](https://www.sourcetrail.com/)
+* [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
@@ -600,6 +600,7 @@ App
   * [Make your life easier around the Terminal](https://medium.com/@Jestfer/make-your-life-easier-around-the-terminal-6f62d473db08)
   * [iTerm2, Zsh with Powerlevel9K — Power up your terminal‘s colour scheme and productivity level!](https://medium.com/the-code-review/make-your-terminal-more-colourful-and-productive-with-iterm2-and-zsh-11b91607b98c)
   * [How you can style your terminal like Medium, freeCodeCamp, or any way you want](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
+  * [iTerm2에 Dracular 테마 적용하기](https://jojoldu.tistory.com/428)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
@@ -807,6 +808,7 @@ App
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
 * [윈도우에서 심볼릭 링크 만들기](https://libsora.so/posts/ntfs-symbolic-link/)
 * [윈도우 10 앱이지만 유용한 무료 네트워킹 툴 10선](http://www.itworld.co.kr/news/112632)
+* [윈도우에서 ssh 터미널 사용하기](https://jojoldu.tistory.com/427)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
