@@ -620,6 +620,7 @@ Machine Learning
 * [Music Genre Classification with Python A Guide to analysing Audio/Music signals in Python](https://towardsdatascience.com/music-genre-classification-with-python-c714d032f0d8)
 * [Machine Learning Classifier evaluation using ROC and CAP Curves](https://towardsdatascience.com/machine-learning-classifier-evaluation-using-roc-and-cap-curves-7db60fe6b716) sklearn
 * [머신러닝을 활용한 제품 카테고리 분류하기](https://medium.com/mighty-data-science-bootcamp/%EB%B2%88%EC%97%AD-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%A0%9C%ED%92%88-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EB%B6%84%EB%A5%98%ED%95%98%EA%B8%B0-cd75f11d588a)
+* [Smarter Ways to Encode Categorical Data for Machine Learning](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
@@ -776,6 +777,7 @@ Machine Learning
 * [Feature Selection with Null Importances(KR)](https://databreak.netlify.com/2019-04-21-Null_importance)
 * [DataBreak2018: Hello Kaggler -Keynote2 (이정윤 님, data scientist, Microsoft)](https://www.youtube.com/watch?v=pihob75h020)
 * [사이먼킴의 데이터과학 1화 - 데이터 살펴보기](https://www.youtube.com/watch?v=qPRE3VaqT00)
+* [사이먼킴의 데이터과학 2화 - 데이터 살펴보기(2부)](https://www.youtube.com/watch?v=SnYN_haa4xM)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
