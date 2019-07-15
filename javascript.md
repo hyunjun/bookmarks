@@ -1907,6 +1907,7 @@ Javascript
 * [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture/blob/master/README.md)
 * [react flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/README.md)
 * [5 Ways to animate a React app in 2019](https://hackernoon.com/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
+* [React에서 styled-components 사용하기](https://dev-yakuza.github.io/ko/react/styled-components/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2197,6 +2198,7 @@ Javascript
 * [Redux](https://www.youtube.com/playlist?list=PLuHgQVnccGMB-iGMgONoRPArZfjRuRNVc)
 * [리액트, 리덕스로 타이머 앱 만들기 Build timer app with React Native and Redux](https://www.youtube.com/playlist?list=PL7jH19IHhOLMKhZfOg7fj6gFX7Lbxpk7q)
 * [An intro to Redux and how state is updated in a Redux application](https://medium.com/free-code-camp/an-intro-to-redux-and-how-state-is-updated-in-a-redux-application-839c8334d1b1)
+* [리액트 리덕스 사용하기 (타입스크립트 버전)](http://jeonghwan-kim.github.io//dev/2019/07/15/react-redux-ts.html)
 
 # Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
@@ -2430,3 +2432,4 @@ Javascript
 * [주니어 개발자가 반응형 레이아웃 리팩토링한 썰.txt](https://wormwlrm.github.io/2019/06/06/Refactoring-360-panorama-viewer.html)
 * [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
 * [Vue 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RsdnPeU0ogHFMoggSQ_d7ao)
+* [Promise.all에는 인자 개수 제한이 없다](https://blog.seulgi.kim/2019/07/promise-all-tuple.html)
