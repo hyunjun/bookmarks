@@ -1522,6 +1522,7 @@ Javascript
 * [Puppeteer: Headless Chrome용 Node.js 라이브러리](https://blog.outsider.ne.kr/1318)
   * [How CodeSandbox uses Puppeteer & Jest to test sandbox functionality](https://hackernoon.com/how-codesandbox-uses-puppeteer-jest-to-test-sandbox-functionality-17068b3bd23b)
   * [Testing your React App with Puppeteer and Jest](https://blog.bitsrc.io/testing-your-react-app-with-puppeteer-and-jest-c72b3dfcde59)
+  * [#1 React + Storybook + Puppeteer + Jest 개발환경 구축하기](https://medium.com/@pitapat/1-react-storybook-puppeteer-jest-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3e758ce61711)
   * [web scraping with puppeteer](https://engineering.huiseoul.com/web-scraping-with-puppeteer-1571d4f25d2b)
   * [How to set up server-side rendering in React with Rails using Puppeteer](https://medium.freecodecamp.org/server-side-rendering-react-with-rails-using-puppeteer-cf5ec2697e88)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
