@@ -700,6 +700,7 @@ Deep Learning
 * [Why Randomness should be Embraced and Not Feared](https://medium.com/intuitionmachine/why-randomness-should-be-leveraged-and-not-filtered-be31a94e85ef)
 * [AutoML 1.데이터 어그먼테이션 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/64)
 * [GPU 성능 파워업! LMS 기술 테스트 결과는?](https://blog.naver.com/ibm_korea/221571488250)
+* [Releasing first online 3D Point Cloud labeling tool in Supervisely](https://medium.com/deep-systems/releasing-first-online-3d-point-cloud-labeling-tool-in-supervisely-4faca42b5d6e)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
