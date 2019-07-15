@@ -391,6 +391,8 @@ Python
 * [(PlaywithData)1day seminar_0630](https://www.slideshare.net/namsoojang3/playwithdata1day-seminar0630-152800415)
 * **[SERP Analysis with Google Search Console+Python](https://hackernoon.com/serp-analysis-with-google-search-console-python-bf8a2ab43fa9)**
   * Google Search Console Data, CSVs into a Pandas Dataframe, Plot total clicks over time
+* [One Day Builds: Instagram Automation Using Python](https://www.youtube.com/watch?v=vnfhv1E1dU4)
+  * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2384,6 +2386,7 @@ Python
   * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
   * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
   * [Drawing SVG paths in Python to PyGame](https://www.youtube.com/watch?v=bbY13xi0yhM)
+  * [파이썬 비행기 슈팅 게임 만들기 Creating a Shooting Game with Python (한글자막)](https://www.youtube.com/watch?v=-e_5sOsKqrU)
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html ](https://github.com/ssut/py-googletrans)
 * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
@@ -3077,7 +3080,7 @@ Python
 * [파이썬 마이크로 실전 패턴](http://hamait.tistory.com/854)
 * [The Case Against Python 3 (For Now)](https://learnpythonthehardway.org/book/nopython3.html)
 * [The Case Against “The Case Against Python 3”](https://medium.com/@poke/the-case-against-the-case-against-python-3-ae4eb4038e0e#.r1byy6hfs)
-* [Home Assistant is a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
+* [Home Assistant - a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
 * [파이썬 3.6에서 바뀐 점](http://raccoonyy.github.io/whats-new-in-python-3-6-korean/)
 * **[syntax_sugar](https://github.com/czheo/syntax_sugar_python)**
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
