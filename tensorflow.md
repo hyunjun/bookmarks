@@ -717,6 +717,7 @@ TensorFlow
 * [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
 * TensorFlow FileSystem TFFS
   * [TensorFlow Filesystem — Access Tensors Differently](https://towardsdatascience.com/tensorflow-filesystem-access-tensors-differently-888bce1d68e7)
+* [TensorFlow Extended (TFX) - an end-to-end platform for deploying production ML pipelines](https://www.tensorflow.org/tfx)
 * [TensorFlow Graphics](https://github.com/tensorflow/graphics)
   * [Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
 * [TensorFlow Hub](https://www.tensorflow.org/hub/)
