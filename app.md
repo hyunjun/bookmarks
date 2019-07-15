@@ -768,6 +768,7 @@ App
 * [미르 가계부](http://mirbaak.tistory.com/)
 * [키보드 보안 프로그램 삭제 프로그램 2.1 업데이트](http://teus.me/79)
 * [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)
+* [윈도우 10 잠금화면 없애기](https://rgy0409.tistory.com/3194)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
