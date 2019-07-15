@@ -108,6 +108,7 @@ Android
 * [AppUpdateManager를 이용한 앱 업데이트 처리](https://blog.kmshack.kr/AppUpdateManager/)
 * [안드로이드 Handler 알고 쓰자](https://brunch.co.kr/@mystoryg/84)
 * [TRACKIT에서 딥링크를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
+* [업그레이드 된 안드로이드 개발 이미지 추가 방법 #Resource Manager](https://developer88.tistory.com/166)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
