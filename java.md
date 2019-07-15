@@ -386,6 +386,7 @@ Java
 * **[LINE의 OpenJDK 적용기: 호환성 확인부터 주의 사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)**
 * [MAC OS에서 JAVA 버전 관리하기](https://woolbro.tistory.com/2)
 * [Shaping the Future of Java, Faster](https://www.youtube.com/watch?v=d_IWWRc6dwY) 다양한 JDK version에 대한 이야기, 8 to 11 migration, future works
+* **[여러 개의 JDK를 설치하고 선택해서 사용하기](https://blog.benelog.net/installing-jdk.html)**
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
