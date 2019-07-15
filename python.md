@@ -768,9 +768,10 @@ Python
 * monkey patch
   * [What is a monkey patch?@stackoverflow](http://stackoverflow.com/questions/5626193/what-is-a-monkey-patch)
 * [multiprocessing](https://pymotw.com/3/multiprocessing/) multithreading [threading](https://pymotw.com/3/threading) parallel
-  * [practice - experiences](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666)
-  * [practice - basic examples](https://github.com/hyunjun/practice/tree/master/python/test-multiprocessing)
-  * [practice - child process는 독립적으로 종료, parent는 먼저 종료](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666#file-child_process-md)
+  * practice
+    * [experiences](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666)
+    * [basic examples](https://github.com/hyunjun/practice/tree/master/python/test-multiprocessing)
+    * [child process는 독립적으로 종료, parent는 먼저 종료](https://gist.github.com/hyunjun/2f23b9850927d32b162442c14b763666#file-child_process-md)
   * logging
     * [practice - logging process by process](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/multiprocessing_logging.py)
     * [Example of logging and multiprocessing](https://gist.github.com/vsajip/2331314)
@@ -780,7 +781,6 @@ Python
   * [PYTHON 병렬프로그래밍](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
   * [Python에서의 동시성\_병렬성](https://www.slideshare.net/deview/2d4python)
   * [parallel python](http://ngee.tistory.com/tag/python%20parallel)
-  * [thread dump](https://gist.github.com/eungju/8499292)
 
     ```
     for ident, stack in sys._current_frames().items():
@@ -799,14 +799,11 @@ Python
   * [멀티쓰레딩과 멀티프로세싱](http://mydb.tistory.com/245)
   * **[Let’s Synchronize Threads in Python](https://hackernoon.com/synchronization-primitives-in-python-564f89fee732)**
   * **[Intro to Threads and Processes in Python](https://medium.com/@bfortuner/python-multithreading-vs-multiprocessing-73072ce5600b)**
-  * [Vinicius Pacheco - Green threads in Python](https://www.youtube.com/watch?v=VWoyeq_ujJ4)
   * [Michal Wysokinski - Running Python code in parallel and asynchronously](https://www.youtube.com/watch?v=ZKzCx4D5c3g)
   * **[Async and await with subprocesses](https://fredrikaverpil.github.io/2017/06/20/async-and-await-with-subprocesses/)**
   * [Multiprocessing and multithreading in Python 3](https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/)
-  * [Python Multithreading Tutorial: Concurrency and Parallelism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
   * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
-  * [Running a method as a background thread in Python](http://sebastiandahlgren.se/2014/06/27/running-a-method-as-a-background-thread-in-python/)
   * [rogrepos.py](https://github.com/lqez/rogrepos/blob/master/rogrepos/rogrepos.py)
   * [Python ProcessPoolExecutor Tutorial](https://tutorialedge.net/python/concurrency/python-processpoolexecutor-tutorial/)
     * [Python ProcessPoolExecutors Tutorial](https://www.youtube.com/watch?v=J7w_G6ZKzz4)
@@ -819,6 +816,22 @@ Python
   * [multi threading or multi processing for fetching url](https://github.com/dsindex/blog/wiki/%5Bpython%5D-multi-threading-or-multi-processing-for-fetching-url)
   * [Get a 2–6x speed-up on your pre-processing with these 3 lines of code!](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) concurrent.futures
   * [CUDA In Your Python: Effective Parallel Programming on the GPU](https://www.youtube.com/watch?v=CO4ifMknS84)
+  * threading
+    * practice
+      * [threading Lock](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_lock.py)
+      * [threading Condition](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_condition.py)
+      * [threading Semaphore](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_semaphore.py)
+      * [threading Event](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_event.py)
+    * [thread dump](https://gist.github.com/eungju/8499292)
+    * [Vinicius Pacheco - Green threads in Python](https://www.youtube.com/watch?v=VWoyeq_ujJ4)
+    * [Python Multithreading Tutorial: Concurrency and Parallelism](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
+    * [Running a method as a background thread in Python](http://sebastiandahlgren.se/2014/06/27/running-a-method-as-a-background-thread-in-python/)
+    * [An Intro to Threading in Python](https://realpython.com/intro-to-python-threading)
+    * [How to Create a Thread in Python](https://www.pythoncentral.io/how-to-create-a-thread-in-python/)
+    * [Using a global variable with a thread](https://stackoverflow.com/questions/19790570/using-a-global-variable-with-a-thread)
+    * [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
+    * [Multithreading in Python | Set 2 (Synchronization)](https://www.geeksforgeeks.org/multithreading-in-python-set-2-synchronization/)
+    * [Python 3 - Multithreaded Programming](https://www.tutorialspoint.com/python3/python_multithreading)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -2857,6 +2870,7 @@ Python
 * [Pandas - 영화 진흥원 API 상영 순위 분석](https://developer-ankiwoong.tistory.com/291)
 * [Best practices with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 * [SQL과 파이썬 pandas의 비교](https://github.com/ysunmi0427/smdw/blob/master/sql/lecture00-comparison-between-sql-and-pandas.md)
+* [My top 25 pandas tricks](https://www.youtube.com/watch?v=RlIiVeig3hc)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -3172,6 +3186,7 @@ Python
 * [Dynamic Typing in Python](https://www.youtube.com/watch?v=OE2j6hlU88o)
 * [파이썬의 타입 힌트](https://artoria.us/35)
 * [Next Steps with Python Type System](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)
+* [callable() in Python](https://www.geeksforgeeks.org/callable-in-python/)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [MonkeyType - A system for Python that generates static type annotations by collecting runtime types](https://github.com/Instagram/MonkeyType)
   * [Let your code type-hint itself: introducing open source MonkeyType](https://engineering.instagram.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
