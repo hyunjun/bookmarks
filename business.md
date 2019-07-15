@@ -448,6 +448,7 @@ Business
 * [소프트뱅크는 이제 AI트래픽으로 성장한다!](https://estimastory.com/2019/05/12/softbankai/)
   * 손정의의 소프트뱅크그룹 결산설명회(2019.03). 투자하는 여러 회사를 업체 종류별로 나눠서 보여주는 부분을 주목하자
 * [4 Lessons From a Failed Startup — From and For First Time Founders](https://medium.com/swlh/4-lessons-from-a-failed-startup-from-and-for-first-time-founders-c61913df3bb5)
+* [노련한 VC한테 배울 수 있는 점](http://www.thestartupbible.com/2019/07/11-lessons-from-usvs-fred-wilson.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
