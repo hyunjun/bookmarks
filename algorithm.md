@@ -412,6 +412,7 @@ Algorithm
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
 * [The Ziggurat Algorithm for Random Gaussian Sampling](http://heliosphan.org/zigguratalgorithm/zigguratalgorithm.html)
 * [폰 노이만식 난수 생성법(Basic von Neumann extractor)](https://johngrib.github.io/wiki/von-neumann-extractor/)
+* [컴퓨터가 만드는 랜덤은 정말로 랜덤일까?](https://evan-moon.github.io/2019/07/14/what-is-random/)
 
 # Recursive
 * [재귀 알고리즘](http://navercast.naver.com/contents.nhn?rid=2871&contents_id=87713&leafId=2871)
