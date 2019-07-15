@@ -2386,7 +2386,7 @@ Python
   * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
   * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
   * [Drawing SVG paths in Python to PyGame](https://www.youtube.com/watch?v=bbY13xi0yhM)
-  * [파이썬 비행기 슈팅 게임 만들기 Creating a Shooting Game with Python (한글자막)](https://www.youtube.com/watch?v=-e_5sOsKqrU)
+  * [파이게임 PyGame](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEH_cLdFK67ygJWPpL2rR8XH)
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html ](https://github.com/ssut/py-googletrans)
 * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
@@ -2589,6 +2589,7 @@ Python
   * [Writing a Console Twitter Client in Python](http://blog.brakmic.com/writing-a-console-twitter-client-in-python/)
   * [Create A Twitter Bot With Python](https://www.youtube.com/watch?v=8u-zJVVVhT4)
   * [트위터 언팔로워 트래커](http://greentec.egloos.com/4442651)
+  * [Build A Twitter Bot With Python That Gets You Followers](https://www.youtube.com/watch?v=7ovFudqFB0Q)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * **[Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp](https://github.com/Yelp/undebt)**
