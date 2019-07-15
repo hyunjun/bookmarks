@@ -85,6 +85,7 @@ Data Visualization
 * [The Simpsons meets Data Visualization](https://towardsdatascience.com/the-simpsons-meets-data-visualization-ef8ef0819d13)
 * [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 * [Alberto Cairo: How We Lie to Ourselves With Charts | PyData Miami 2019](https://www.youtube.com/watch?v=3QYsc48zzgs)
+* [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -209,6 +210,7 @@ Data Visualization
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 * [GPU Accelerated t-SNE for CUDA with Python bindings](https://github.com/CannyLab/tsne-cuda)
 * [데이터로 보는 나의 구독자 파이썬(Python)을 활용한 데이터 수집 및 시각화 프로젝트 후기](https://brunch.co.kr/@dimension-value/68)
+* [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
@@ -220,6 +222,8 @@ Data Visualization
     * [Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
     * [Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
   * [Developing Dashboard Applications Using Bokeh - Bryan Van de Ven](https://www.youtube.com/watch?v=HmI1foA0MZc)
+* [cufflinks - Productivity Tools for Plotly + Pandas](https://github.com/santosjorge/cufflinks)
+  * [Plotly Whirlwind Introduction.ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
 * dash
   * [Python for Finance: Dash by Plotly Expanding Jupyter Notebook Stock Portfolio Analyses with Interactive Charting in Dash by Plotly](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
   * [Dash: data exploration web apps in pure Python - Chelsea Douglas](https://www.youtube.com/watch?v=eusglTlW4OA)
@@ -231,6 +235,7 @@ Data Visualization
 * Mapbox
   * [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
+  * [Plotly Python Open Source Graphing Library](https://plot.ly/python/)
   * [How and why I used Plotly (instead of D3) to visualize my Lollapalooza data](https://medium.freecodecamp.org/how-and-why-i-used-plotly-instead-of-d3-to-visualize-my-lollapalooza-data-d48345e2ca68)
   * [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)
   * [Data visualization with plotly py: Version 3 and beyond - Jon Mease](https://www.youtube.com/watch?v=cuTMbGjN2GQ)
