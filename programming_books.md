@@ -142,6 +142,7 @@ Programming Books
 * (NOT YET) [자료구조 입문 - 알고리즘과 그림으로 이해하고 C로 구현하는](https://freelec.co.kr/book/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%9D%84-%ED%83%84%ED%83%84%ED%9E%88-%ED%95%98%EC%9E%90/)
 * (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
 * (NOT YET) [알고리즘 트레이닝: 프로그래밍 대회 입문 가이드](https://blog.insightbook.co.kr/2019/05/07/%E3%80%8A%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8C%80%ED%9A%8C-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+* (NOT YET) [파이썬 자료구조와 알고리즘 : 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8465804191)
 
 # Amazon AWS
 
@@ -431,6 +432,7 @@ Programming Books
 * (NOT YET) [실체가 손에 잡히는 딥러닝, 기초부터 실전 프로그래밍 기초 수학과 파이썬 코드를 따라만 하면 신기하게 이해되는](https://blog.naver.com/hico01/221557056078)
   * [실체가 손에 잡히는 딥러닝(1) "인공지능의 세계, 머신러닝과 딥러닝은 어떻게 등장했나"](https://www.popit.kr/deep-learning-1)
   * [실체가 손에 잡히는 딥러닝(2) “인간의 뇌를 모방한 신경망, 그리고 딥러닝”](https://www.popit.kr/deep-learning-2)
+* (NOT YET) [파이썬 날코딩으로 알고 짜는 딥러닝](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8585180187)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -590,6 +592,7 @@ Programming Books
   * (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/918)
 * (NOT YET) [파이토치 첫걸음 딥러닝 기초부터 RNN, 오토인코더, GAN 실전 기법까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7818450418)
 * (NOT YET) [딥러닝에 목마른 사람들을 위한 PyTorch](https://www.notion.so/PyTorch-37bbddb9ca76472c81fc063013368e6b)
+* (NOT YET) [김기현의 자연어 처리 딥러닝 캠프(파이토치 편)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B1294694476)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -792,6 +795,7 @@ Programming Books
   * 개566.84-몽14ㅍ (2007년판)
   * 한라 005.1몽14ㅍ (2014년판)
   * [프로그래밍 면접 이렇게 준비한다 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-60152650)
+  * (NOT YET) [프로그래밍 면접, 이렇게 준비한다(4판)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B6503680425)
 * (NOT YET) 구글러가 전하는 IT 취업 가이드 : 면접준비에서 연봉협상까지 [A-Z]
   * 한라 325.337-맥25ㄱ
 
