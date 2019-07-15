@@ -663,6 +663,7 @@ Docker
 * [쿠버네티스 네트워킹 이해하기#2: Services](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
 * [쿠버네티스 네트워킹 이해하기#3: Ingress](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
+* [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
