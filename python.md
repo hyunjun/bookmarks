@@ -584,6 +584,7 @@ Python
   * [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
   * [Python3에서 NestedDict 내의 특정 키값을 이용해서 Value를 가져오기](https://medium.com/@elastic7327/python3에서-nesteddict-내의-특정-키값을-이용해서-value를-가져오기-f81d922c932e)
 * double/float
+  * [practice - float sum](https://github.com/hyunjun/practice/blob/master/python/test-float/test_float_sum.py)
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
   * [파이썬에서 부동 소수점 오차 해결하기](http://winterj.me/Floating-Point/)
     * [Making floating point math highly efficient for AI hardware](https://code.fb.com/ai-research/floating-point-math/) python 관련 내용은 아니지만 참고
