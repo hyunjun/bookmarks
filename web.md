@@ -543,6 +543,7 @@ Web
   * [JSON-Server as a Fake REST API in Frontend Development](https://scotch.io/tutorials/json-server-as-a-fake-rest-api-in-frontend-development)
 * [NSP로 구현한 API 예제](https://github.com/Hanul/nsp-sample-restful)
 * postman
+  * [Command line integration with Newman](https://learning.getpostman.com/docs/postman/collection_runs/command_line_integration_with_newman/)
   * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
   * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
 * [Pushpin — An Open Source Library That Turns REST APIs into Realtime APIs](https://hackernoon.com/pushpin-an-open-source-library-that-turns-rest-apis-into-realtime-apis-ebb3253e63ce)
