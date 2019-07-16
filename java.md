@@ -745,6 +745,7 @@ Java
 * [Spring Framework Documentation - Spring AOP / Example-1](https://woolbro.tistory.com/22)
 * [Spring Framework Documentation - Spring AOP / Example-2](https://woolbro.tistory.com/23)
 * [Spring Framework Documentation - Spring AOP / Example-3](https://woolbro.tistory.com/24)
+* [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
