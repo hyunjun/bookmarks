@@ -1488,6 +1488,8 @@ Python
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
 * [EuroPython 2018](https://ep2018.europython.eu/p3/schedule/ep2018/)
   * [EuroPython 2018](https://www.youtube.com/playlist?list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
+* **[EuroPython 2019  Unleash the power of C++ in Python](https://github.com/cmaureir/unleash_cpp)**
+  * [Unleash The Power of C++ In Python](https://www.youtube.com/watch?v=vvyTuFOJRrk)
 
 # Excel
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
