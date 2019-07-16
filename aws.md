@@ -520,6 +520,7 @@ AWS
   * [Create and manage powerful backends with one click](https://github.com/hubaimaster/aws-interface)
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [aws-ml-experimenter - Framework for running ML models on Amazon EC2 and analyzing results with Shiny](https://github.com/rikturr/aws-ml-experimenter)
+* cdK [AWS Cloud Development Kit(CDK) – TypeScript 및 Python용 정식 버전 제공](https://aws.amazon.com/ko/blogs/korea/aws-cloud-development-kit-cdk-typescript-and-python-are-now-generally-available)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
   * **[AWS를 만드는 AWS, CloudFormation](https://www.huskyhoochu.com/introduce-cloudformation)**
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
