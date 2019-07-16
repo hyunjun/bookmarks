@@ -430,6 +430,7 @@ Java
 * [Pirates of the JVM — The infographic: Are you ready for an adventure?](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
 * **[Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)**
 * [우아한 테크 세미나 - 자바, 성능, 모니터링 이야기 후기](https://www.popit.kr/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9E%90%EB%B0%94-%EC%84%B1%EB%8A%A5-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%9B%84%EA%B8%B0/)
+* [Evolving Java With `––enable–preview` aka Preview Features](http://blog.codefx.org/java/enable-preview-features/)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
@@ -743,9 +744,10 @@ Java
 * [Spring Framework Documentation - Spring AOP / Example-3](https://woolbro.tistory.com/24)
 
 ## Library Spring Boot
-* [스프링 부트(Spring Boot) 소개 합니다]http://www.slideshare.net/topcredu/spring-boot-66190611)
+* [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
 * [Spring Boot Tutorial Best Complete Introduction](https://www.dineshonjava.com/introduction-to-spring-boot-a-spring-boot-complete-guide/)
 * [Spring Boot Tutorials](http://www.mkyong.com/tutorials/spring-boot-tutorials/)
+* [Top 5 Spring Boot and Spring Cloud Books for Java Developers](https://medium.com/hackernoon/top-5-spring-boot-and-spring-cloud-books-for-java-developers-75df155dcedc)
 * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
 * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
 * [Microservices with JAVA and JHipster in 10 minutes](https://www.linkedin.com/pulse/microservices-java-jhipster-10-minutes-lubomir-sobinovsky/)
