@@ -512,6 +512,7 @@ Machine Learning
 * [Save Lives With 10 Lines of Code: Detecting Parkinson’s with XGBoost](https://towardsdatascience.com/detect-parkinsons-with-10-lines-of-code-intro-to-xgboost-51a4bf76b2e6)
 * [XGBoost Algorithm: Long May She Reign!](https://towardsdatascience.com/https-medium-com-vishalmorde-xgboost-algorithm-long-she-may-rein-edd9f99be63d)
 * [Multi-Class classification with Sci-kit learn & XGBoost: A case study using Brainwave data](https://medium.com/free-code-camp/multi-class-classification-with-sci-kit-learn-xgboost-a-case-study-using-brainwave-data-363d7fca5f69)
+* [Fine-tuning XGBoost in Python like a boss](https://towardsdatascience.com/fine-tuning-xgboost-in-python-like-a-boss-b4543ed8b1e)
 * [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [머신러닝 하루 만에 배우려고 하지 마라](https://github.com/youngwoos/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md)
 * [DeepTide - The world's first massive collaboration machine learning platform Collaborate with top AI researchers on the biggest problems](http://deeptide.ai/)
