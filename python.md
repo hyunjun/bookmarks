@@ -964,6 +964,7 @@ Python
   * [파이썬 문자열 이해하기](http://www.slideshare.net/dahlmoon/3-42717605)
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [PyFormat Using % and .format() for great good!](https://pyformat.info/)
+  * [How to Use F-Strings for String Formatting in Python](https://www.youtube.com/watch?v=c8nHlLEmtNg)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
 
@@ -1126,6 +1127,7 @@ Python
   * [Async & Await Tutorial](https://www.youtube.com/watch?v=wDESPxBOtvY)
   * [Asyncio, websockets, and BTC sitting in a tree - Giovanni Lanzani](https://www.youtube.com/watch?v=AcZJUQ3y2ek)
   * [John Reese - Thinking Outside the GIL with AsyncIO and Multiprocessing - PyCon 2018](https://www.youtube.com/watch?v=0kXaLh8Fz3k)
+  * [Async/Awaiting Production](https://www.youtube.com/watch?v=NLaeCFr_FlI)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
