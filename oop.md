@@ -148,6 +148,7 @@
 * [템플릿 메소드 패턴](https://astrod.github.io/design_pattern/2018/11/20/Head-First-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4/)
 * [템플릿 콜백 패턴으로 반복 코드 줄이기](https://www.popit.kr/%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 * [다형성과 동적 바인딩](https://brunch.co.kr/@mystoryg/60)
+* [Understanding software design patterns](https://opensource.com/article/19/7/understanding-software-design-patterns)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
