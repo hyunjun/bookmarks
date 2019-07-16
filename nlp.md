@@ -595,6 +595,7 @@ NLP
 * [Understanding Hate Speech on Reddit through Text Clustering](https://medium.com/@_eigenfoo/understanding-hate-speech-on-reddit-through-text-clustering-7dc7675bccae)
 
 # Conference
+* [JSALT 2019 Montréal: Dive into Deep Learning for Natural Language Processing](https://jsalt19.mxnet.io/)
 * [LangCon](https://songys.github.io/2019LangCon/about/)
 
 # Corpus
