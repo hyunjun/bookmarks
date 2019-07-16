@@ -138,6 +138,7 @@ Keras
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
+* [Video classification with Keras and Deep Learning](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/)
 * [Keras Tutorial - Spoken Language Understanding](https://chsasank.github.io/spoken-language-understanding.html)
 * [Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow](http://cv-tricks.com/keras/fine-tuning-tensorflow/)
 * [Use Keras Deep Learning Models with Scikit-Learn in Python](https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/)
