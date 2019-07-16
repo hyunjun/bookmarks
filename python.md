@@ -393,6 +393,7 @@ Python
   * Google Search Console Data, CSVs into a Pandas Dataframe, Plot total clicks over time
 * [One Day Builds: Instagram Automation Using Python](https://www.youtube.com/watch?v=vnfhv1E1dU4)
   * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
+* [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
