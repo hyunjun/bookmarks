@@ -288,6 +288,9 @@ Vision
 * [Object Detection — A Game Changer for Market Research](https://blog.karna.ai/object-detection-a-game-changer-for-market-research-19799b67fdb2)
 * [NSFW Tensorflow: Identifying objectionable content using Deep Learning](https://cv-tricks.com/tensorflow-tutorial/nsfw-tensorflow-identifying-objectionable-content-deep-learning)
 
+# JavaScript
+* [Build A Hand Detection App Tutorial](https://www.youtube.com/watch?v=s66w28knp80)
+
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
   * [구글 클라우드 비젼 API 사용하기 (Google Cloud Vision API)](http://bcho.tistory.com/1075)
