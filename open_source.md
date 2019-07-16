@@ -217,6 +217,7 @@ Open Source
   * 분산 캐싱 시스템의 효율이 낮아서 고민이거나, 또는 중앙화 된 캐싱 시스템의 확장에 문제를 느끼는 경우라면 참고
   * [hollow.how/quick-start](http://hollow.how/quick-start/)
     * 아마존 S3, DynamoDB, IAM 을 사용하여 빠르게 올려서 사용하실 수 있도록 소개
+  * [Re-Architecting the Video Gatekeeper](https://medium.com/netflix-techblog/re-architecting-the-video-gatekeeper-f7b0ac2f6b00)
 * Keystone
   * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
   * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
