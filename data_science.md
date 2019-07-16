@@ -404,6 +404,7 @@ Data Science
 * [Ridge와 Lasso Regression의 쉬운 풀이](https://brunch.co.kr/@itschloe1/11)
 * [Intro to Linear Model Selection and Regularization Understand how to select the best linear model, and understand what lasso and ridge regression do](https://towardsdatascience.com/intro-to-linear-model-selection-and-regularization-d47bd2c5d54)
 * [How to Perform Lasso and Ridge Regression in Python](https://towardsdatascience.com/how-to-perform-lasso-and-ridge-regression-in-python-3b3b75541ad8)
+* [Fast group lasso in Python](https://www.reddit.com/r/MachineLearning/comments/cdmhh0/project_fast_group_lasso_in_python/)
 * [Predicting Football Results With Statistical Modelling](https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/)
 * [12 Python Resources for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science)
 * 파이썬 코딩으로 말하는 데이터 분석
