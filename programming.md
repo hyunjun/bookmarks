@@ -240,6 +240,7 @@ Programming
     * 몇년에 한번 코드 재작성 불필요한 쓰레기 코드를 버리고 가독성 좋은 / 효율적인 코드 유지. 구글에서는 이렇게 하는게 비용대비 효율이 좋다고 판단. 코드를 재작성 함으로써 부차적으로 새 팀 멤버들에게 오너십 부여
 * [관점 지향 프로그래밍, AOP(Aspect-oriented programming)](https://woolbro.tistory.com/17)
 * [위험상황을 대비하는 위험관리](https://chodragon9.github.io/blog/preventive-maintenance/)
+* [Linear Programming with Spreadsheets](https://www.datacamp.com/community/tutorials/linear-programming-with-spreadsheets)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
