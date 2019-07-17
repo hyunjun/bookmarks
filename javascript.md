@@ -809,6 +809,7 @@ Javascript
 * [From REST To GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 * [REST vs. GraphQL: Critical Look](https://www.youtube.com/watch?v=yLf0rIaRtRc)
 * [Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs)
+* [GraphQL Schema Design @ Scale (Marc-André Giroux)](https://www.youtube.com/watch?v=pJamhW2xPYw)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
