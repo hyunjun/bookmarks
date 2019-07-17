@@ -325,6 +325,7 @@ NLP
 * [카톡 데이터는 어떻게 정제할 수 있을까? - Dialog-BERT 만들기 1편](https://blog.pingpong.us/dialog-bert-1)
 * [누가누가 잘하나! 대화체와 합이 잘 맞는 Tokenizer를 찾아보자! - Dialog-BERT 만들기 2편](https://blog.pingpong.us/tokenizer/)
 * [A Simple Guide On Using BERT for Binary Text Classification](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)
+* [Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL](https://github.com/zhihu/cuBERT)
 * [꼼꼼하고 이해하기 쉬운 XLNet 논문 리뷰](https://blog.pingpong.us/xlnet-review/)
 * [한국어로 XLNet 학습해보기!](https://banana-media-lab.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A1%9C-XLNet-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [Google Brain’s XLNet bests BERT at 20 NLP tasks](https://venturebeat.com/2019/06/21/google-brains-xlnet-bests-bert-at-20-nlp-tasks/)
