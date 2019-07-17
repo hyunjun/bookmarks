@@ -408,7 +408,6 @@ Programming
   * [Caching](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936)
   * [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
-* [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read) event driven
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
 * [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
@@ -566,6 +565,10 @@ Programming
   * [(6) 배포 전략](https://futurecreator.github.io/2018/10/19/microservices-deployment-strategy/)
   * [(7) 모놀리스 리팩토링](https://futurecreator.github.io/2018/10/19/microservices-refactoring-for-monolith/)
 * [Beginner’s Guide to Microservices: Explaining it to a 5 Year Old](https://hackernoon.com/beginners-guide-to-microservices-explaining-it-to-a-5-year-old-4481f5aba466)
+
+## Architecture Event Driven
+* [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
+* [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
