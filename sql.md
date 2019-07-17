@@ -140,7 +140,7 @@ SQL
 # MSSQL MS SQL
 * [practice - case when](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a#file-case_when-md)
 * [practice - troubleshooting](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a)
-* [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
+* [User Defined Stored Procedures in SQL](https://www.datacamp.com/community/tutorials/user-defined-stored-procedure)
 * [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
 * [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가)](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
 * [SQL Server Tutorial](https://www.techonthenet.com/sql_server/index.php)
@@ -374,6 +374,7 @@ SQL
 # PostgreSQL
 * [한국 PostgreSQL](http://postgresql.kr)
 * [Postgres Guide](http://www.postgresguide.com/)
+* [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
 * [Scaling out PostgreSQL for CloudFlare Analytics using CitusDB](https://blog.cloudflare.com/scaling-out-postgresql-for-cloudflare-analytics-using-citusdb/)
 * [Postgres CLI with autocompletion and syntax highlighting](https://github.com/amjith/pgcli)
 * [Managing big enough data in postgres](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)
