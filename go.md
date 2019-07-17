@@ -220,6 +220,7 @@ Go
 * [Password Stretching using Key Derivation Function(KDF)](https://hackernoon.com/password-stretching-using-key-derivation-function-kdf-a5abc570f9e5)
 * [Slack Slash Command - 영한 번역(1)](https://jusths.tistory.com/136)
 * [Slack Slash Command - 영한 번역(2)](https://jusths.tistory.com/137)
+* [Slack Slash Command - 영한 번역(3)](https://jusths.tistory.com/138)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
