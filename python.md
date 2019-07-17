@@ -2,6 +2,7 @@ Python
 ======
 * **[Python cheatsheet](https://www.pythonsheets.com)**
   * [Python Cheat Sheet](https://github.com/crazyguitar/pysheeet)
+* [7+ Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 * **[Awesome Python](http://awesome-python.com/)**
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
@@ -1953,6 +1954,7 @@ Python
   * [Usage TPU in Google Colaboratory](https://jybaek.tistory.com/783)
   * [Object Detection in Google Colab with Fizyr Retinanet](https://medium.freecodecamp.org/object-detection-in-colab-with-fizyr-retinanet-efed36ac4af3)
   * **[구글 Colaboratory에서 Drive 연동](https://ugong2san.tistory.com/1940)**
+  * [Google_Colab_tutorial](https://github.com/sseung0703/Google_Colab_tutorial)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
