@@ -1716,6 +1716,7 @@ Python
   * [Python and Qt: 3,000 hours of developer insight](https://blog.qt.io/blog/2018/11/15/python-qt-3000-hours-developer-insight)
   * [PyQt5 Tutorial : 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
   * [PyQt5 및 Qt Designer 설치](https://webolutions.tistory.com/118)
+  * [PyQt5 Tutorial - Setup and a Basic GUI Application](https://www.youtube.com/watch?v=Vde5SH8e1OQ)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter
