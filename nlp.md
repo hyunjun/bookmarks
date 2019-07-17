@@ -331,6 +331,7 @@ NLP
 * [Google Brain’s XLNet bests BERT at 20 NLP tasks](https://venturebeat.com/2019/06/21/google-brains-xlnet-bests-bert-at-20-nlp-tasks/)
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding(19.06.25)](https://www.notion.so/f4b608f11dfc4c8c8eb4c504f867d4aa)
 * [실제 코드로 보는 XLNet (Code Review)](https://www.notion.so/4aca62fa1ffe4e3483b69cbc09f0a066)
+* [A Simple Explanation of XLNet](https://www.slideshare.net/DomyoungLee/a-simple-explanation-of-xlnet)
 * [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks)
 
 # Book
