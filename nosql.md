@@ -322,6 +322,7 @@ NoSQL
 * [How To Merge Multiple SQL Tables Into One MongoDB Collection](https://studio3t.com/knowledge-base/articles/merge-multiple-sql-tables-to-mongodb)
 * [How to setup replicaSet in standalone MongoDB cluster](https://hackernoon.com/how-to-setup-replicaset-in-standalone-mongodb-cluster-9cd71a3996fb)
 * [Seeding MongoDB database the right way](https://medium.com/@pkosiec/seeding-mongodb-database-the-right-way-32a8a0e75490)
+* [MongoDB Crash Course 2019](https://www.youtube.com/watch?v=-56x56UppqQ)
 
 # [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
