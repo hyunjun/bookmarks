@@ -810,6 +810,7 @@ Javascript
 * [REST vs. GraphQL: Critical Look](https://www.youtube.com/watch?v=yLf0rIaRtRc)
 * [Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs)
 * [GraphQL Schema Design @ Scale (Marc-André Giroux)](https://www.youtube.com/watch?v=pJamhW2xPYw)
+* [#1 What is GraphQL? | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
