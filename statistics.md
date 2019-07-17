@@ -177,6 +177,7 @@ Statistics
 * [멋지게 데이터 분석을 하려고 했는데 이론이 딸린다](https://humbledude.github.io/blog/2019/02/27/basic-data-analysis/)
 * [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
 * [Derivation of the Multivariate Normal Distribution](https://teamdable.github.io/techblog/Derivation-of-the-Multivariate-Normal-Distribution)
+* [Statistical-Inference](https://github.com/KaggleBreak/Statistical-Inference)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
@@ -298,6 +299,7 @@ Statistics
 * [Introduction to the New Statistics: Estimation, Open Science, and Beyond](https://www.amazon.com/Introduction-New-Statistics-Estimation-Science/dp/1138825522/)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
+  * [Python code for Computer Age Statistical Inference by Bradley Efron and Trevor Hastie](https://github.com/jrfiedler/CASI_Python)
 * [project mosaic book](http://project-mosaic-books.com/) Computer-savvy textbooks on statistics and data science
 
 # Haskell
