@@ -47,6 +47,7 @@ Json
 * [Using JWT in Your React+Redux App for Authorization](https://levelup.gitconnected.com/using-jwt-in-your-react-redux-app-for-authorization-d31be51a50d2)
 * [Django REST framework JWT Auth](https://getblimp.github.io/django-rest-framework-jwt/)
 * [Flask-JWT-login](https://github.com/devArtoria/Flask-JWT-login/)
+* [Build A Node.js API Authentication With JWT Tutorial](https://www.youtube.com/watch?v=2jqok-WgelI)
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
