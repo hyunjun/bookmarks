@@ -169,7 +169,6 @@ Data Visualization
 * [Data visualizations for IPython notebook](http://nbviewer.ipython.org/github/vidalab/vida-notebook/blob/master/visualizations.ipynb)
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
 * [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
-* [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
 * [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
 * **[python-graph-gallery.com](https://python-graph-gallery.com/)**
 * [파이썬 데이터 시각화](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrDbDXa4GUohKp_2RkmJj-a)
@@ -235,11 +234,13 @@ Data Visualization
 * Mapbox
   * [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
+  * [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
   * [Plotly Python Open Source Graphing Library](https://plot.ly/python/)
   * [How and why I used Plotly (instead of D3) to visualize my Lollapalooza data](https://medium.freecodecamp.org/how-and-why-i-used-plotly-instead-of-d3-to-visualize-my-lollapalooza-data-d48345e2ca68)
   * [Sankey Diagram in Python](https://plot.ly/python/sankey-diagram/)
   * [Data visualization with plotly py: Version 3 and beyond - Jon Mease](https://www.youtube.com/watch?v=cuTMbGjN2GQ)
   * [Python’s One Liner graph creation library with animations Hans Rosling Style](https://mlwhiz.com/blog/2019/05/05/plotly_express/)
+  * [Explore Your Data and Then Let Others Do It Too Plotly Express and Dash](https://www.youtube.com/watch?v=qqWF40SAeME)
 * [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
   * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
