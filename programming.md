@@ -604,6 +604,7 @@ Programming
 * [Deconstructing Serverless Computing Part 3: Ninety-Nine Platforms but How to Choose One?](https://hackernoon.com/deconstructing-serverless-computing-part-3-ninety-nine-platforms-but-how-to-choose-one-b0ee5372dba7)
 * [The Promise and Perils of Serverless Computing](https://hackernoon.com/https-medium-com-krishnansrinath-the-promise-and-perils-of-serverless-computing-498f8516d7f7)
 * [Understanding Serverless: Tips and Resources for Building Servicefull Applications](https://www.infoq.com/articles/understanding-serverless-servicefull-applications/)
+* [Serverless GraphQL Architecture – The Future of Backend Development](https://www.youtube.com/watch?v=PTphFRHJ3d0)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -1385,6 +1386,7 @@ Programming
   * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
+* [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
 
 # Serialization 직렬화
 * **[직렬화](http://j.mearie.org/post/122845365013/serialization)**
