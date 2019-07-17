@@ -230,7 +230,6 @@ AWS
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
-* [Serverless + AWS Lambda + AWS CloudWatch + Slack 를 활용한 Web crawler 만들기](https://novemberde.github.io/node/2017/12/31/Node-crawler.html)
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
 * [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
@@ -368,6 +367,8 @@ AWS
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
+* [Serverless + AWS Lambda + AWS CloudWatch + Slack 를 활용한 Web crawler 만들기](https://novemberde.github.io/node/2017/12/31/Node-crawler.html)
+* [Simplifying Apache server logs with Amazon CloudWatch Logs Insights](https://aws.amazon.com/ko/blogs/mt/simplifying-apache-server-logs-with-amazon-cloudwatch-logs-insights)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
