@@ -135,6 +135,7 @@ Machine Learning
 * [10 Machine Learning Algorithms You Should Know in 2018](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/10-machine-learning-algorithms-you-should-know-in-2018)
 * [Ten Machine Learning Algorithms You Should Know to Become a Data Scientist](https://blog.paralleldots.com/data-science/machine-learning/ten-machine-learning-algorithms-know-become-data-scientist/)
 * [TOP 10 Machine Learning Algorithms](https://blog.goodaudience.com/top-10-machine-learning-algorithms-2a9a3e1bdaff)
+* [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets)
 * [Do you know how to choose the right machine learning algorithm among 7 different types?(KR)](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Simple ML explanations by MIT PhD students (ML-Tidbits)](https://www.techleer.com/articles/584-understanding-artificial-intelligence-and-machine-learning-made-simple-by-mit-phd-students-ml-tidbits/)
