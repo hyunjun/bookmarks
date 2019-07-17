@@ -253,6 +253,7 @@ Functional Programming
 * [PyconKr2018 Functional Programming](https://www.slideshare.net/wonhoha/pyconkr2018-functional-programming)
 * [A functional standard library for Python http://toolz.readthedocs.org ](https://github.com/pytoolz/toolz)
 * [Episode #117: Functional Python with Coconut](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)
+* [Elements of Functional Programming in Python](https://towardsdatascience.com/elements-of-functional-programming-in-python-1b295ea5bbe0)
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 * scalaps [Introducing scalaps: Scala-inspired data structures for Python](https://medium.com/@matthagy/introducing-scalaps-scala-inspired-data-structures-for-python-53f3afc8696)
 
