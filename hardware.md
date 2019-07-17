@@ -30,6 +30,7 @@
 * [그린팩토리 주차층 관리앱 개발기 (Bluetooth, Beacon 연동 개발시 겪은 일들)](https://tv.naver.com/v/4286021)
 * [hellmaker.kr](http://www.hellmaker.kr/)
 * [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
+* [10 Single-Board Computers Worthy of Hacking Projects Big & Small](https://null-byte.wonderhowto.com/how-to/raspberry-pi-alternatives-10-single-board-computers-worthy-hacking-projects-big-small-0196340/)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
