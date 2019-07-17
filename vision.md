@@ -299,6 +299,9 @@ Vision
     * [Cloud Vision API Demo](http://vision-explorer.reactive.ai/)
 * [COCO API - Dataset @ http://cocodataset.org ](https://github.com/cocodataset/cocoapi)
   * [Create your own COCO-style datasets](https://patrickwasp.com/create-your-own-coco-style-dataset/)
+* [Cut-And-Save-Faces](https://github.com/Unkn03nUser/Cut-And-Save-Faces)
+  * OpenCV와 dlib를 활용하여 만든 Face-Only Picture Collector. 얼굴이 많이 찍혀있는 사진을 Input으로 넣으면 자동으로 얼굴들을 잘라서 Save & Align
+  * face detect는 cv2, face align은 dlib
 * [Dataset Annotator - Tool for annotating image datasets](https://github.com/omenyayl/dataset-annotator)
 * [DeepClassificationBot - A deep learning powered bot capable of classifying images into user-specified categories](https://github.com/AntreasAntoniou/DeepClassificationBot)
 * [DensePose: Dense Human Pose Estimation In The Wild](http://densepose.org/)
