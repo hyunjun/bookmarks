@@ -587,13 +587,15 @@ Scala
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
+* [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
-* [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
+* [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
+  * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
   * [LambdaConf 2015 - Cats — A Fresh Look at Functional Programming in Scala Mike Stew O'Connor](https://www.youtube.com/watch?v=hIwdaP3-U6I)
   * [herding cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
@@ -682,9 +684,15 @@ Scala
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
 
 ## HTTP Library
+* [Http4s, Doobie and Circe: The Functional Web Stack](https://www.slideshare.net/GaryCoady/http4s-doobie-and-circe-the-functional-web-stack)
+* [Up and Running with the Typelevel Stack](https://www.slideshare.net/LukaJacobowitz/up-and-running-with-the-typelevel-stack)
+* [Functional Web Stack: Http4s + Doobie](https://slides.com/cspinetta-desp/stack-web-funcional)
+* [Stack Http4s + Circe + Doobie](https://slides.com/aholman/stack-web-funcional)
 * [finch - a thin layer of purely functional basic blocks atop of Finagle for building composable HTTP APIs](https://github.com/finagle/finch)
 * [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
   * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
+  * **[http4s: Pure, Typeful, Functional HTTP in Scala](https://www.youtube.com/watch?v=hpKKDWTbdPQ)**
+    * [rossabaker.github.io/boston-http4s](https://rossabaker.github.io/boston-http4s)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
     * [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
