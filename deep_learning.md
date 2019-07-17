@@ -1056,6 +1056,7 @@ Deep Learning
 * [Semantic Image Synthesis with SPADE](https://github.com/NVlabs/SPADE)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [How to Develop a Conditional GAN (cGAN) From Scratch](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/)
+* [How to Code the GAN Training Algorithm and Loss Functions](https://machinelearningmastery.com/how-to-code-the-generative-adversarial-network-training-algorithm-and-loss-functions)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
