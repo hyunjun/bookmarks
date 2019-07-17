@@ -108,6 +108,7 @@ Sports
 * [Predicting the 2018 Cy Young Race with Machine Learning](https://www.fangraphs.com/tht/cy-young-award-2018-blake-snell-jacob-degrom-max-scherzer/)
 * [WAR, WRC+, OPS+, DRS, UZR/150, 타구발사각도 등, 타자에 관한 야구용어 총정리 1편-WAR에 사용하는 지표와 계산과정](https://m.blog.naver.com/ljsmessi/221472834240)
 * [그래서, 그 공이 마지막에 어떻게 됐다는 건데?](http://www.yagongso.com/?p=8339)
+* [나는 네가 다음 시즌에 잡을 삼진 개수를 알고 있다](http://www.yagongso.com/?p=9317) decision tree, random forest,...
 
 # Basketball
 * **[Basketball Terms- Terminology](https://www.coachesclipboard.net/BasketballTerminology.html)** diagram으로 court위 명칭 설명
