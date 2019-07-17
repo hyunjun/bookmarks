@@ -79,6 +79,8 @@ Math
 * [소수점 제거 함수 삼총사 ceil(), floor(), round()](http://seorenn.blogspot.kr/2018/02/ceil-floor-round.html)
 * [나를 위한 리만가설 정리](http://jusths.tistory.com/56)
 * [타원곡선 디피 헬만 Elliptic Curve Diffie Hellman](https://b.luavis.kr/science/elliptic-curve)
+* [Deep Learning이란 무엇인가? Backpropagation, 역전파 알아보기](https://evan-moon.github.io/2018/07/19/deep-learning-backpropagation/)
+* [프로그래머는 수학을 잘해야할까?](https://evan-moon.github.io/2019/07/17/programmer-with-math)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
