@@ -320,6 +320,7 @@ R
 * [핫 핸드 논쟁 1](http://ds.sumeun.org/?p=1875)
 * [코드로 파일을 다운받아보자.(Feat. 크롤링)](https://medium.com/@unfinishedgod/r%EC%96%B8%EC%96%B4-%EC%BD%94%EB%93%9C%EB%A1%9C-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EC%95%84%EB%B3%B4%EC%9E%90-feat-%ED%81%AC%EB%A1%A4%EB%A7%81-7b325644c3b7)
 * [Korea_Stocks_for_HDF5](https://github.com/LOPES-HUFS/Korea_Stocks_for_HDF5)
+* [자동화 업무를 R언어로 할 수 있을까요? 모든 업무를 자동으로!! 재밌는 패키지를 소개시켜 드리는 R쓸신잡 입니다:)](https://www.youtube.com/watch?v=0-NEskhEAwo)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -531,6 +532,8 @@ R
   * [Using Shiny with Scheduled and Streaming Data](https://rviews.rstudio.com/2017/11/15/shiny-and-scheduled-data-r/)
   * [Shiny 활용 의학연구지원 경험](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/)
   * [구글 클라우드를 활용한 R Shiny Web App 구현하기](https://cozydatascientist.tistory.com/63)
+  * [R Shiny의 시작 그리고 Shiny를 관통하는 핵심 Shiny R GO! 하자! 1편](https://www.youtube.com/watch?v=oVoEth657ZQ)
+  * [#R샤이니 는 어떻게 작동되는 걸까요? Shiny R Go! 하자! 2편](https://www.youtube.com/watch?v=W2S3n8EW7t4)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
