@@ -2230,6 +2230,7 @@ Javascript
 * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 
 # Typescript
+* [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
 * [ES6 and Typescript Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwhI0V5mE9Vu6Nm-nap8EcjV)
 * [How I Came To Love TypeScript](http://developer.telerik.com/featured/how-i-came-to-love-typescript/)
 * [Typescript and JSX](http://www.jbrantly.com/typescript-and-jsx/)
