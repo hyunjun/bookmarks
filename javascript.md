@@ -1911,6 +1911,7 @@ Javascript
 * [react flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/README.md)
 * [5 Ways to animate a React app in 2019](https://hackernoon.com/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 * [React에서 styled-components 사용하기](https://dev-yakuza.github.io/ko/react/styled-components/)
+* [React에서 root import하기](https://dev-yakuza.github.io/ko/react/root-import/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
