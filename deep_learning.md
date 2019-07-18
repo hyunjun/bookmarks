@@ -1200,6 +1200,7 @@ Deep Learning
 * Sonnet
   * [DeepMind의 Neural Network를 위한 라이브러리 SONNET](https://www.nextobe.com/single-post/2017/05/11/DeepMind-SONNET)
 * [SRZoo: An integrated repository for super-resolution using deep learning](https://github.com/idearibosome/srzoo)
+* TabNine [Autocompletion with deep learning](https://tabnine.com/blog/deep)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
 * [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
