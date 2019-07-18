@@ -2054,6 +2054,8 @@ Javascript
   * [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
+* [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
+  * [Hermes 적용해봤어요!](https://www.notion.so/ffc3ef483a494b759c920f14bfa09c67)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
   * [github.com/dev4us/hook-player](https://github.com/dev4us/hook-player)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
