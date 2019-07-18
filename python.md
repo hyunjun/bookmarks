@@ -1720,7 +1720,8 @@ Python
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * tkinter
-  * [Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)
+  * ~[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)~
+  * **[076923.github.io/posts/#Python-Tkinter](https://076923.github.io/posts/#Python-Tkinter)**
   * [1. tkinter 모듈 시작하기](https://alegruz.imweb.me/blog/?bmode=view&idx=221667)
   * [GUI with Python's Tkinter, by Robert Jomar Malate](https://www.youtube.com/watch?v=JrWHyqonGj8)
   * [Learn Tkinter in 20 Minutes](https://www.youtube.com/watch?v=_lSNIrR1nZU)
