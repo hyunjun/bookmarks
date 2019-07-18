@@ -569,6 +569,7 @@ Scala
   * [Keynote: Scala's Road Ahead - by Martin Odersky](https://www.youtube.com/watch?v=_2oGY8l67jk)
     * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
 * [Scala Days 2019](https://portal.klewel.com/watch/nice_url/scala-days-2019/)
+* [Scala Days Lausanne 2019](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5KDwkSRrLJ1_O6kZqlhhFt)
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
   * [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
@@ -652,6 +653,8 @@ Scala
   * [The Magic Behind Parser Combinators](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators)
   * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
   * [Scala Parser Combinator로 CSV 파싱하기](https://rhymeofcode.wordpress.com/2015/12/30/scala-parser-combinator%EB%A1%9C-csv-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0/)
+* [scala steward - A robot that helps you keeping your Scala projects up-to-date](https://github.com/fthomas/scala-steward)
+  * [KEEP YOUR PROJECTS UP-TO-DATE WITH SCALA STEWARD](https://www.scala-lang.org/blog/2019/07/10/announcing-scala-steward.html)
 * [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [scalding](https://github.com/twitter/scalding)
@@ -791,6 +794,7 @@ Scala
   
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
+* [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
   * [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
