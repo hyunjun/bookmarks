@@ -28,6 +28,7 @@ Javascript
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
 * [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
+* [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
@@ -571,6 +572,7 @@ Javascript
 * [How to create a reusable loading-indicator for Angular projects](https://medium.freecodecamp.org/how-to-create-reusable-loading-indicator-for-angular-projects-d0a11f4631e0)
 * [An introduction to Angular Reactive Forms](https://medium.freecodecamp.org/angular-reactive-forms-an-introduction-f9d988ae9251)
 * [Running Angular project unit-tests on Stackblitz](https://hackernoon.com/running-angular-project-unit-tests-on-stackblitz-bc091abbfcc9)
+* [Building an enterprise-grade Angular project structure](https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -811,6 +813,7 @@ Javascript
 * [Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs)
 * [GraphQL Schema Design @ Scale (Marc-André Giroux)](https://www.youtube.com/watch?v=pJamhW2xPYw)
 * [#1 What is GraphQL? | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc)
+* [How to create a simple bitcoin API with NodeJS & GraphQL — Part I.](https://medium.com/hackernoon/how-to-create-a-simple-bitcoin-api-with-nodejs-graphql-part-i-a8cd8832fed5)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -940,6 +943,7 @@ Javascript
   * [create-react-app 에 ESLint 와 Prettier 적용하기](https://velopert.com/3671)
   * [eslint 룰 만들기](https://medium.com/@ljs0705/eslint-%EB%A3%B0-%EB%A7%8C%EB%93%A4%EA%B8%B0-27113d4dc139)
   * [Write attractive code with ESLint and Prettier](https://hackernoon.com/write-attractive-code-with-eslint-and-prettier-27d562b8ae9f)
+  * [Catch errors earlier in development with the new Actions on Google linter](https://medium.com/google-developers/catch-errors-earlier-in-development-with-the-new-actions-on-google-linter-acd04c526ad1)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
