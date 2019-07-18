@@ -2378,6 +2378,7 @@ Python
   * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
   * [PyData Paris 2016 - Automatic Machine Learning using Python & scikit-learn](https://www.youtube.com/watch?v=_EviCgtzG7E)
   * [PyData London 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
+  * [PyData London 2019](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW)
   * [PyData Seattle 2017 Keynote Jake VanderPlas](https://www.youtube.com/watch?v=DifMYH3iuFw) 여러가지 data 관련 library 역사(?)
     * [jakevdp.github.io](http://jakevdp.github.io/)
   * [Optimizing numerical calculations in Python - Jakub Urban - PyData Prague, January 2019](https://www.youtube.com/watch?v=I_BRzn4zMnQ)
