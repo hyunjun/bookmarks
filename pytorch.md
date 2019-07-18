@@ -158,6 +158,7 @@ PyTorch
   * [Deep_Blind_Video_Decaptioning](https://github.com/mcahny/Deep_Blind_Video_Decaptioning)
 * [Deep Video Inpainting](https://sites.google.com/view/deepvinet)
   * [Deep_Video_Inpainting](https://github.com/mcahny/Deep-Video-Inpainting)
+* [PyTorch-Transformers](https://github.com/huggingface/pytorch-transformers)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
