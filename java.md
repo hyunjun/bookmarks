@@ -825,6 +825,7 @@ Java
 * [Spring Boot에서 Repository로 DynamoDB 조작하기 (1) - 설정부터 실행까지](http://woowabros.github.io/study/2019/06/05/spring-data-dynamodb-1.html)
 * [Spring Boot에서 Repository로 DynamoDB 조작하기 (2) - Gradle을 활용해 실행 & 테스팅 환경 구축](http://woowabros.github.io/study/2019/06/12/spring-data-dynamodb-2.html)
 * [스프링 부트(Spring Boot)와 Security, MySQL, React를 사용한 Spring Polling App (1)](https://woolbro.tistory.com/44)
+* [스프링 부트(Spring Boot)와 Security, MySQL, React를 사용한 Spring Polling App (2)](https://woolbro.tistory.com/45)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
