@@ -1924,6 +1924,7 @@ Python
 * [Jupyter Notebook Tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuZPwzACannnFSn9qHn8to8)
 * **[주피터 파이썬 노트북에서 실시간 온도 데이타를 SQL에 저장하고 (전통시계열,RNN,LSTM)분석하기](https://github.com/leehaesung/SQLite3_with_LTE_CatM1)**
 * [무료 파이썬 노트북 서비스 5종류 비교 (feat.머신러닝)](https://medium.com/@salaryup/%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%84%9C%EB%B9%84%EC%8A%A4-5%EC%A2%85%EB%A5%98-%EB%B9%84%EA%B5%90-feat-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-c03246f43516)
+* [Jupyter is the new Excel (but not for your boss)](https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
