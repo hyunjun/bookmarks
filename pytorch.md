@@ -159,6 +159,7 @@ PyTorch
 * [Deep Video Inpainting](https://sites.google.com/view/deepvinet)
   * [Deep_Video_Inpainting](https://github.com/mcahny/Deep-Video-Inpainting)
 * [PyTorch-Transformers](https://github.com/huggingface/pytorch-transformers)
+* [Splitter - A PyTorch implementation of "Splitter: Learning Node Representations that Capture Multiple Social Contexts" (WWW 2019)](https://github.com/benedekrozemberczki/Splitter)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
