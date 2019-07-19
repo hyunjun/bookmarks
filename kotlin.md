@@ -96,7 +96,6 @@
 * [Kotlin + Springboot로 REST API 시작하기](http://devtimothy.tistory.com/98)
 * [Tips for Writing a Library in Kotlin](https://medium.freecodecamp.org/tips-for-writing-a-library-in-kotlin-cd5f9e14e102)
 * [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
-* [Hexagonal Architecture with Kotlin, Ktor and Guice](https://hackernoon.com/hexagonal-architecture-with-kotlin-ktor-and-guice-f1b68fbdf2d9)
 * [카카오가 메시징 서버에 자바 대신 코틀린 써본 경험담](https://byline.network/2018/09/5-20)
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
 * [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
@@ -175,6 +174,10 @@
 * Koin
   * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
+* [Ktor - a framework for building asynchronous servers and clients](https://ktor.io/)
+  * [Hexagonal Architecture with Kotlin, Ktor and Guice](https://hackernoon.com/hexagonal-architecture-with-kotlin-ktor-and-guice-f1b68fbdf2d9)
+  * [코틀린 웹 프로그래밍 using Ktor (1)](https://www.popit.kr/kotlin-web-app-using-ktor-1)
+  * [코틀린 웹 프로그래밍 using Ktor (2)](https://www.popit.kr/kotlin-web-app-using-ktor-2)
 * MockK [코틀린 mock 프레임워크 MockK 소개](https://javacan.tistory.com/entry/kotlin-mock-framework-mockk-intro)
 * [Quasar/Pulsar 0.7.0 Released: Kotlin and more Clojure](http://blog.paralleluniverse.co/2015/05/29/quasar-pulsar-0-7-0/)
   * [Quasar and Kotlin – a Powerful Match](http://blog.paralleluniverse.co/2015/06/04/quasar-kotlin/)
