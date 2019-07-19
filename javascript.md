@@ -1923,6 +1923,7 @@ Javascript
 * [5 Ways to animate a React app in 2019](https://hackernoon.com/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 * [React에서 styled-components 사용하기](https://dev-yakuza.github.io/ko/react/styled-components/)
 * [React에서 root import하기](https://dev-yakuza.github.io/ko/react/root-import/)
+* [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
