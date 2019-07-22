@@ -33,6 +33,8 @@ Json
 * [안드로이드 Json파싱해보기!](http://www.feelteller.com/8) GSon
 
 # JWT
+* [JWT - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
+* [4장. JWT 이해 및 적용](https://backend-intro.vlpt.us/4/)
 * [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
 * [JSON Web Token 소개 및 구조](https://velopert.com/2389)
 * [100% Stateless with JWT (JSON Web Token) by Hubert Sablonnière](https://www.youtube.com/watch?v=67mezK3NzpU)
