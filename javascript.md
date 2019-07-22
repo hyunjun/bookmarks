@@ -2022,6 +2022,7 @@ Javascript
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
+* [15 Best Animation Libraries For React App](https://onaircode.com/best-animation-libraries-for-react-app)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
@@ -2181,6 +2182,7 @@ Javascript
 * [Redux-thunk에서 Redux-saga로 이사하기 - 김동우](https://www.youtube.com/watch?v=VHszuWZk0JA)
 * [00. Redux-Saga?](https://www.vobour.com/00-redux-saga-)
 * [Redux-Saga tutorial for beginners and dog lovers](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
+* [리액트 사가 사용하기 (타입스크립트 버전) - 1편](http://jeonghwan-kim.github.io//dev/2019/07/22/react-saga-ts-1.html)
 * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (i)](https://velopert.com/3528)
 * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
 * [Exploring the what and the why of Redux](https://medium.freecodecamp.org/exploring-the-what-and-the-why-of-redux-6faadab4768b)
