@@ -84,6 +84,7 @@ Bitcoin
 * [BLOCKCHAIN, EXPLAINED](http://mitsloan.mit.edu/newsroom/articles/blockchain-explained)
 * [블록체인의 5가지 문제점](http://www.itworld.co.kr/news/107168)
 * [dApp 개발하기 위한 준비 Remix + metamask](https://blog.naver.com/pjt3591oo/221182053161)
+* [PART 4. 스마트 컨트랙트 개발 도구 remix 다루기](https://blog.naver.com/pjt3591oo/221591235876)
 * [블록체인이 꿈꾸는 세상 (What Blockchains Dream)](https://organicmedialab.com/2018/01/12/what-blockchains-dream/)
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
 * 블록체인플랫폼
@@ -111,6 +112,7 @@ Bitcoin
 * [비트코인 블록체인에 낙서하기 (Writing messages on the Bitcoin blockchain using OP_RETURN)](https://medium.com/@sjhong/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-bitcoin-blockchain-using-op-return-5d36c02acbed)
 * [이더리움 블록체인에 낙서하기 (Writing messages on the Ethereum blockchain using Metamask)](https://medium.com/@sjhong/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-ethereum-blockchain-using-metamask-f98f52c46940)
 * [아이콘 블록체인에 낙서하기 (Writing messages on the ICON blockchain)](https://medium.com/@sjhong/%EC%95%84%EC%9D%B4%EC%BD%98-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-icon-blockchain-cd61aae299e3)
+* [블록체인 시스템은 어떻게 구축할까 1편 - exchange, wallet, payment에서 transaction 취급방법](https://blog.naver.com/pjt3591oo/221590636921)
 
 ## Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
