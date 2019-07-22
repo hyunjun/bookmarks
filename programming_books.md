@@ -1040,6 +1040,7 @@ Programming Books
   * [https://github.com/NLP-kr/tensorflow-ml-nlp](https://github.com/NLP-kr/tensorflow-ml-nlp)
 * (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
 * (NOT YET) [자연어 텍스트 처리를 통한 검색 시스템 구축 아파치 솔라, 루씬, OpenNLP 등 오픈소스 활용](http://acornpub.co.kr/book/taming-text)
+* (NOT YET) [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action)
 
 # NoSQL
 
