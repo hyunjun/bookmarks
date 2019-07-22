@@ -240,6 +240,7 @@ Vision
 * [엑스레이 판독해주는 인공지능 챗봇 만든 개발자](https://smartaedi.tistory.com/380)
 * [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
   * [CPU RayTracer based on `Ray-Tracing in One Weekend`](https://github.com/liliilli/SH-RayTracer)
+* [Image Registration: From SIFT to Deep Learning](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
