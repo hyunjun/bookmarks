@@ -52,6 +52,7 @@ Open Source
 * [DMLC 맴버로 초청받다](http://freesearch.pe.kr/archives/4941)
 * [리니지M은 어떤 오픈소스를 사용했을까?](https://blog.naver.com/pjt3591oo/221035837016)
 * [오픈소스 프로젝트 운영 경험 공유](https://tv.naver.com/v/5635839)
+* [오픈소스에 번역으로 기여하기 - 기여하고자 하는 프로젝트 선정 및 환경설정 (1부)](https://fernando.kr/14)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
