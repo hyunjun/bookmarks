@@ -203,6 +203,7 @@ Go
 * [Go를 프로젝트에 적용한다는 것은](https://tv.naver.com/v/2669493)
 * [How to Build a photo feed with Go and Vue.js](https://medium.freecodecamp.org/how-to-build-a-photo-feed-with-go-and-vue-js-9d7f7f39c1b4)
 * [Build a realtime comment app with Go and Pusher Channels](https://hackernoon.com/build-a-realtime-comment-app-with-go-and-pusher-channels-387b2bf20a9e)
+* [Golang 의 동시성을 이용한 소수 찾기](https://jusths.tistory.com/141)
 * [Golang + GraphQL을 사용한 Todo](https://hazle.info/golang-graphql%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-todo/)
 * [Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report](https://www.infoq.com/articles/api-gateway-clojure-golang)
 * [A guide to Golang e-commerce Get your e-commerce site up and running with this Go-powered CMS tutorial](https://medium.freecodecamp.org/a-guide-to-golang-e-commerce-8c0804088e4e)
