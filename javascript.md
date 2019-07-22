@@ -1815,6 +1815,7 @@ Javascript
 * [Learn Hooks in Just 5 Steps with Example](https://hackernoon.com/learn-hooks-in-just-5-steps-with-examples-44436e825f01)
 * [React Hooks + TS + functional = 아름다움](https://speakerdeck.com/ryunzae/react-hooks-plus-ts-plus-functional-equals-areumdaum)
 * [What is React Hooks? Learn in just 12 min](https://www.youtube.com/watch?v=pmd2uvCfPWw)
+* [mobx-react와 React Hooks API 함께 사용하기](https://blog.rhostem.com/posts/2019-07-22-mobx-v6-and-react-v16-8)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
@@ -2311,6 +2312,7 @@ Javascript
 * [TypeScript를 사용하여 간단한 인공 신경망 개발 삽질기](https://evan-moon.github.io/2019/02/26/simple-ann/)
 * [리액트, 타입스크립트 시작하기](http://jeonghwan-kim.github.io//dev/2019/06/25/react-ts.html)
 * [React프로젝트에 타입스크립트 개발환경 구축하기](https://awesomezero.com/post/TSSetting/)
+* [10 Advanced TypeScript Questions For An Interview — With Answers](https://medium.com/hackernoon/10-advanced-typescript-questions-for-an-interview-with-answers-6f0513b1688e)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
@@ -2452,3 +2454,4 @@ Javascript
 * [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
 * [Vue 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RsdnPeU0ogHFMoggSQ_d7ao)
 * [Promise.all에는 인자 개수 제한이 없다](https://blog.seulgi.kim/2019/07/promise-all-tuple.html)
+* [Vue.js로 크롬 확장 프로그램을 만들어보자!](https://wormwlrm.github.io/2019/07/21/Military-Service-Calculator-Development-Story.html)
