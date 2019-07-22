@@ -826,6 +826,7 @@ Java
 * [Spring Boot에서 Repository로 DynamoDB 조작하기 (2) - Gradle을 활용해 실행 & 테스팅 환경 구축](http://woowabros.github.io/study/2019/06/12/spring-data-dynamodb-2.html)
 * [스프링 부트(Spring Boot)와 Security, MySQL, React를 사용한 Spring Polling App (1)](https://woolbro.tistory.com/44)
 * [스프링 부트(Spring Boot)와 Security, MySQL, React를 사용한 Spring Polling App (2)](https://woolbro.tistory.com/45)
+* [스프링 부트(Spring Boot)와 Security, MySQL, React를 사용한 Spring Polling App (3)](https://woolbro.tistory.com/46)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
@@ -851,6 +852,7 @@ Java
   * [JUnit 테스트 메소드 실행 순서](https://www.youtube.com/watch?v=ouaHBQ-z2uI)
   * [Victor Rentea - Unit Testing like a Pro: The Circle of Purity](https://www.youtube.com/watch?v=1Z_h55jMe-M)
   * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
+  * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Web
