@@ -423,6 +423,7 @@ Vision
 * [이미지 프로세싱 & 컴퓨터 시각화 11부 - Blurring & Smoothing (2화)](https://blog.naver.com/zeus05100/221563097779)
 * [이미지 프로세싱 & 컴퓨터 시각화 12부 - Blurring & Smoothing (3화)](https://blog.naver.com/zeus05100/221574025328)
 * [이미지 프로세싱 & 컴퓨터 시각화 13부 - Morphological Operator(1화)](https://blog.naver.com/zeus05100/221579558946)
+* [이미지 프로세싱 & 컴퓨터 시각화 14부 - Morphological Operator(2화)](https://blog.naver.com/zeus05100/221591834517)
 * [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 * [Images Comparison with Opencv and Python](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)
 * [OpenCV 3.4 with Python 3 Tutorial](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa__vnifNA744Cz-q)
@@ -439,6 +440,7 @@ Vision
 * [안드로이드 OpenCV 사용하기](https://brunch.co.kr/@mystoryg/76)
 * [안드로이드 OpenCV 실시간 얼굴 검출](https://brunch.co.kr/@mystoryg/77)
 * [파이썬 업무자동화 04.카카오톡 메세지를 자동으로 보내보자!](https://www.youtube.com/watch?v=oNjRH1Cz9k4)
+* [Train Image Recognition AI with 5 lines of code](https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba)
 
 # OpenGL
 * [open.gl](https://open.gl/)
