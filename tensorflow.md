@@ -488,6 +488,7 @@ TensorFlow
 * [My Tensorflow Test](https://github.com/rky0930/MyTensorflowTest)
 * **[CPU, GPU, and TensorFlow](https://teamdable.github.io/techblog/CPU-GPU-and-TensorFlow)** CPU, GPU의 기본 구조 및 차이에 대한 좋은 글
 * [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
+* [TensorFlow에서 추천 시스템 구축: 개요](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
 
 # 2.0
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
@@ -507,6 +508,7 @@ TensorFlow
 * [TensorFlow 2.0 and Cloud AI make it easy to train, deploy, and maintain scalable machine learning models](https://cloud.google.com/blog/products/ai-machine-learning/tensorflow-2-0-and-cloud-ai-make-it-easy-to-train-deploy-and-maintain-scalable-machine-learning-models)
 * [TensorFlow 2.0 Global Docs Sprint](https://www.youtube.com/playlist?list=PLNPGisnO0ega4FeRSL4VCJHhFfhr0sXQC)
 * [Deep Learning With TF 2.0: 04.00- Numerical Computation](https://www.adhiraiyan.org/deeplearning/04.00-Numerical-Computation)
+* [텐서플로우 2, "더 쉬워진 머신러닝"](http://www.itworld.co.kr/news/125595)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
