@@ -36,6 +36,7 @@ Android
 * [구글, 안드로이드 공식 인증 시험 공개](http://www.bloter.net/archives/271519)
 * [FREE COURSE Developing Android Apps by  Google NEW Android Fundamentals](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [액티비티와 프래그먼트에서 벗어나 간결하게 Android 앱 만들기](https://realm.io/kr/news/sf-fabien-davos-modern-android-ditching-activities-fragments/)
+* [안드로이드 액티비티(Activity) 정리하기 - 생명 주기(Lifecycle) 백 스택(Backstack)](https://jungwoon.github.io/android/2019/07/15/Activity/)
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
 * [DataBinding - Goodbye 버터나이프 Hello 데이터바인딩](http://gun0912.tistory.com/71)
 * [어썸블로그, 안드로이드 괴발개발기](https://brunch.co.kr/@lonnie/29)
@@ -110,6 +111,7 @@ Android
 * [TRACKIT에서 딥링크를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
 * [업그레이드 된 안드로이드 개발 이미지 추가 방법 #Resource Manager](https://developer88.tistory.com/166)
 * **[마이리얼트립 안드로이드 앱의 Technical Debt 해결하기](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%98-technical-debt-be05c65706cb)** 안드로이드에 대하여 썼지만 전반적인 내용은 일반적으로 적용되는 좋은 글
+* [디버그를 위한 Proguard(프로가드) 설정 방법](https://developer88.tistory.com/167)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
