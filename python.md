@@ -1474,6 +1474,7 @@ Python
 * [Python and django](https://www.youtube.com/playlist?list=PLxvvv6r2iXY8kteUZ7Q2Ts0T0qLcMYSSI) Python and django full stack Web Developer bootcamp
 * [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/) logout 후 content에 접근을 막는 방법
 * [Django: Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
+* [Django 구성 분석하기와 기본 세팅](https://woolbro.tistory.com/47)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -2803,6 +2804,7 @@ Python
 * [PyData Tel Aviv Meetup: Creating Meaningful Features from Clickstream Data - Shir Meir Lador](https://www.youtube.com/watch?v=YGk09nK_xnM)
 * [numpy tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 * [Numpy — Python made efficient](https://towardsdatascience.com/numpy-python-made-efficient-f82a2d84b6f7)
+* [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
