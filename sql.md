@@ -360,6 +360,7 @@ SQL
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://engineering.pinterest.com/blog/sharding-pinterest-how-we-scaled-our-mysql-fleet)
 * [MySQL Sharding에 관한 자료들](http://jason-heo.github.io/mysql/2015/08/23/mysql-sharding.html)
 * [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/asei/221511101848)
+* [LINE Manga 데이터베이스 샤딩 – 서버 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-server-side/)
 * [kingshard - A high-performance MySQL proxy](https://github.com/flike/kingshard)
 * [proxysql.com](https://proxysql.com/)
 
