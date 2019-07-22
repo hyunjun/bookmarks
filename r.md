@@ -321,6 +321,7 @@ R
 * [코드로 파일을 다운받아보자.(Feat. 크롤링)](https://medium.com/@unfinishedgod/r%EC%96%B8%EC%96%B4-%EC%BD%94%EB%93%9C%EB%A1%9C-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EB%8B%A4%EC%9A%B4%EB%B0%9B%EC%95%84%EB%B3%B4%EC%9E%90-feat-%ED%81%AC%EB%A1%A4%EB%A7%81-7b325644c3b7)
 * [Korea_Stocks_for_HDF5](https://github.com/LOPES-HUFS/Korea_Stocks_for_HDF5)
 * [자동화 업무를 R언어로 할 수 있을까요? 모든 업무를 자동으로!! 재밌는 패키지를 소개시켜 드리는 R쓸신잡 입니다:)](https://www.youtube.com/watch?v=0-NEskhEAwo)
+* [MEMOISE IN R](https://lumiamitie.github.io/r/memoise/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
