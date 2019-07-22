@@ -351,6 +351,8 @@ App
     * [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
     * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
     * [VScode Extension - 확장프로그램 추천 및 설치방법](https://mishka86.github.io/2019/06/24/vscode-extension)
+    * [Free/Libre Open Source Software Binaries of VSCode](https://vscodium.com/)
+    * [How to run Visual Studio Code in Google Cloud Shell](https://medium.com/google-cloud/how-to-run-visual-studio-code-in-google-cloud-shell-354d125d5748)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
@@ -477,6 +479,7 @@ App
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
   * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
   * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
+  * [Generate a spectrogram-scrolling video of an audio file](https://keunwoochoi.wordpress.com/2019/07/18/generate-a-spectrogram-scrolling-video-of-an-audio-file/)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
@@ -812,6 +815,7 @@ App
 * [윈도우에서 심볼릭 링크 만들기](https://libsora.so/posts/ntfs-symbolic-link/)
 * [윈도우 10 앱이지만 유용한 무료 네트워킹 툴 10선](http://www.itworld.co.kr/news/112632)
 * [윈도우에서 ssh 터미널 사용하기](https://jojoldu.tistory.com/427)
+* [youtube-dl.exe를 윈도우 샌드 박스에서 실행](http://www.sysnet.pe.kr/0/0/519)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
