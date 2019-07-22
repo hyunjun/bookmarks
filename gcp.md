@@ -79,5 +79,6 @@ Google Cloud Platform GCP
 * [How to Use Google API to Save Your Cat’s Photo on Cloud](https://hackernoon.com/how-to-use-google-api-to-save-your-cats-photo-on-cloud-711b330fbdcd)
 * [Google Cloud Run - FAQ](https://github.com/ahmetb/cloud-run-faq)
 * [Stackdriver Monitoring 확장하기 — Bleu Medora 의 BindPlane 연동](https://medium.com/@jwlee98/gcp-stackdriver-monitoring-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0-bleu-medora-%EC%9D%98-bindplane-%EC%97%B0%EB%8F%99-91131e711e55)
+* [Stackdriver Monitoring 확장하기 2 — BindPlane 을 통한 On-Prem 모니터링](https://medium.com/@jwlee98/gcp-stackdriver-monitoring-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0-2-bindplane-%EC%9D%84-%ED%86%B5%ED%95%9C-on-prem-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-6cb1b2d1dc29)
 * [Cloud Dataproc 클러스터에서 Jupyter 노트북 설치 및 실행](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
 * [1.(입문)구글클라우드 가입과 무료서버1대받기-2017](https://brunch.co.kr/@topasvga/168)
