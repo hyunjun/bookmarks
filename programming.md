@@ -288,6 +288,7 @@ Programming
 * **[개발자를 위한 API 목킹](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)**
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
+* [API 디자인 가이드](https://cloud.google.com/apis/design/)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
@@ -1060,6 +1061,7 @@ Programming
 * [Network Analysis in Python (Part 1)](https://www.datacamp.com/courses/network-analysis-in-python-part-1)
 * [Big Data Day LA 2017](https://www.bigdatadayla.com)
 * [Want excellent free coding tutorials? Subscribe to these YouTube channels](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)
+* [Getting Started As A Self-Taught Developer](https://medium.com/knoware/getting-started-as-a-self-taught-developer-4d5796fa5f7d)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)
@@ -1190,6 +1192,7 @@ Programming
   * [4월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/04/b-4-1.html)
   * [4월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/04/b-4-2.html)
   * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/07/b-7-1.html)
+  * [7월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/07/b-7-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1266,6 +1269,7 @@ Programming
   * [월간 개발자스럽다 #42](https://blog.gaerae.com/2019/04/monthly.html)
   * [월간 개발자스럽다 #43](https://blog.gaerae.com/2019/05/monthly.html)
   * [월간 개발자스럽다 #44](https://blog.gaerae.com/2019/06/monthly.html)
+* [news.hada.io](https://news.hada.io/)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -1273,6 +1277,7 @@ Programming
 * [프로세스 동기화 - 임계구역 문제 (Critical-Section)](http://hongku.tistory.com/17)
 * [Operating Systems Course Notes Main Page](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 * [NAVER Tech Talk: OS, 시스템 (2017년 7월~2018년 1월)](https://d2.naver.com/news/7119116)
+* [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
@@ -1353,6 +1358,7 @@ Programming
 
 # Refactoring
 * [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
+* [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
