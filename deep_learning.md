@@ -1106,6 +1106,7 @@ Deep Learning
   * [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml/)
   * [번역 앱에 Core ML 모델 합치기](http://blog.canapio.com/136)
   * [iOS의 모바일용 머신러닝 프레임워크 - Core ML](http://blog.canapio.com/141)
+* [craftassist - A virtual assistant bot in Minecraft](https://github.com/facebookresearch/craftassist)
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 * [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
@@ -1256,7 +1257,8 @@ Deep Learning
   * [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
-* [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
+* [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
+  * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
 * **[Dive into Deep Learning - An interactive deep learning book for students, engineers, and reseachers](http://d2l.ai/)**
   * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
   * [코드, 수학, 그리고 토론과 함께하는 상호적인 딥러닝 책](http://ko.d2l.ai)
@@ -1632,6 +1634,7 @@ Deep Learning
 * [Everything you need to know to master Convolutional Neural Networks](https://medium.freecodecamp.org/everything-you-need-to-know-to-master-convolutional-neural-networks-ef98ca3c7655)
 * [합성곱 신경망에서 컨벌루션과 트랜스포즈드 컨벌루션의 관계 Relationship between Convolution and Transposed Convolution in CNN](https://metamath1.github.io/2019/05/09/transconv.html)
 * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
+* [Convolutional Neural Networks from the ground up](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
@@ -2135,6 +2138,7 @@ CVPR2016)
 * [Reinforcement Learning in Recommender Systems: Some Challenges](https://slideslive.com/38916907/reinforcement-learning-in-recommender-systems-some-challenges)
 * [강화학습기초(MDP, Monte-Carlo, Time-difference, sarsa, q-learning) 파트1](https://www.slideshare.net/LeejinJeong/mdp-montecarlo-timedifference-sarsa-qlearning-1)
 * [강화학습 기초 2(Deep sarsa, Deep Q-learning, DQN)](https://www.slideshare.net/LeejinJeong/deep-sarsa-deep-qlearning-dqn-102870420)
+* [Prologue](https://sumniya.tistory.com/1)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
