@@ -41,6 +41,7 @@ AWS
 * [Technical Deep Dive: Running Amazon EC2 Workloads at Scale - AWS Online Tech Talks](https://www.youtube.com/watch?v=sNT5PstZpS8) scaling, 비용 최적화
 * [AWS S3를 EC2 인스턴스에 Mount 예제](https://millionairedeveloper.tistory.com/m/3)
 * [AWS EC2에 SSH 쉽게 접속하기 (3mins)](https://stevenshim.github.io/easy-ssh-ec2)
+* [서로 다른 EC2 인스턴스간에 연결하기 (feat. Ping)](https://jojoldu.tistory.com/430)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
 * [AWS Summit 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9)
@@ -353,6 +354,7 @@ AWS
 * [Centralized Container Logging with Fluent Bit](https://aws.amazon.com/ko/blogs/opensource/centralized-container-logging-fluent-bit)
 * [AWS EBS(Elastic Block Storage) 비용 최적화](https://www.popit.kr/aws-ebselastic-block-storage%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
 * [AWS EBS(Elastic Block Storage) 비용 최적화](https://ericygkim.wordpress.com/2019/07/11/aws-ebselastic-block-storage-%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
+* [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
