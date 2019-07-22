@@ -198,6 +198,7 @@ Deep Learning
 * [Deep Learning for Visual Question Answering](http://avisingh599.github.io/deeplearning/visual-qa/)
 * [Visualizing and Understanding Deep Neural Networks by Matt Zeiler](https://www.youtube.com/watch?v=ghEmQSxT6tw&spfreload=10)
 * [Visualizing Deep Learning Networks - Part II](http://blog.qure.ai/notes/deep-learning-visualization-gradient-based-methods)
+* [How to draw Deep learning network architecture diagrams?](https://datascience.stackexchange.com/questions/14899/how-to-draw-deep-learning-network-architecture-diagrams)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 * [openai.com](https://openai.com)
   * [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
