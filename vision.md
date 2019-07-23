@@ -499,6 +499,8 @@ Vision
 * [openface - Face recognition with deep neural networks. http://cmusatyalab.github.io/openface ](https://github.com/cmusatyalab/openface)
   * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
   * [#엑소사랑하자 – OpenFace로 우리 오빠들 얼굴 인식하기](http://www.popit.kr/openface-exo-member-face-recognition/)
+* [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://github.com/charlesq34/pointnet)
+  * [Prepare Your Own Data for PointNet](https://isaacguan.github.io/2018/05/04/Prepare-Your-Own-Data-for-PointNet/) PTS data, PLY data, HDF5
 
 # R
 * [Human Face Detection with R](https://www.r-bloggers.com/human-face-detection-with-r/)
