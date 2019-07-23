@@ -33,7 +33,6 @@ Json
 * [안드로이드 Json파싱해보기!](http://www.feelteller.com/8) GSon
 
 # JWT
-* [practice - pyjwt](https://gist.github.com/hyunjun/7920c6f64df6a107cc978b8c222fdcd4#file-pyjwt-md)
 * [JWT - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
 * [4장. JWT 이해 및 적용](https://backend-intro.vlpt.us/4/)
 * [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
@@ -57,7 +56,10 @@ Json
 * [“JWT authorization in Python, Part 2: THEORY.”](https://steelkiwi.com/blog/jwt-authorization-python-part-2-theory/)
 * [Django REST framework JWT Auth](https://getblimp.github.io/django-rest-framework-jwt/)
 * [Flask-JWT-login](https://github.com/devArtoria/Flask-JWT-login/)
-* [pyjwt.readthedocs.io](https://pyjwt.readthedocs.io)
+* [pyjwt - JSON Web Token implementation in Python https://pyjwt.readthedocs.io ](https://github.com/jpadilla/pyjwt)
+  * [practice - pyjwt](https://gist.github.com/hyunjun/7920c6f64df6a107cc978b8c222fdcd4#file-pyjwt-md)
+  * [pyjwt.readthedocs.io](https://pyjwt.readthedocs.io)
+  * [Token-Based Authentication With Flask](https://realpython.com/token-based-authentication-with-flask)
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
