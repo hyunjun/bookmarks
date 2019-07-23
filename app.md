@@ -701,6 +701,9 @@ App
 * VLC
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
 * [vrew.voyagerx.com](https://vrew.voyagerx.com)
+* [youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl ](https://github.com/ytdl-org/youtube-dl)
+  * [How to select video quality from youtube-dl?](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl)
+  * [유튜브(youtube) 동영상을 다운로드 하는 프로그램 youtube-dl 소개](http://www.sysnet.pe.kr/0/0/488)
 
 # Note
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
