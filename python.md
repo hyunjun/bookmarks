@@ -531,6 +531,7 @@ Python
   * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
   * [파이썬의 시간대(datetime.timezone)에 대해 알아보기](https://spoqa.github.io/2019/02/15/python-timezone.html)
   * [Python UTC -6 to KST (UTC +9)](https://blog.kimkevin.net/python-utc-to-kst/)
+  * [Parsing and Formatting Dates in Python With Datetime](https://www.youtube.com/watch?v=zY02utxcauo)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
   * [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
