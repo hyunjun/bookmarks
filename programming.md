@@ -606,6 +606,7 @@ Programming
 * [The Promise and Perils of Serverless Computing](https://hackernoon.com/https-medium-com-krishnansrinath-the-promise-and-perils-of-serverless-computing-498f8516d7f7)
 * [Understanding Serverless: Tips and Resources for Building Servicefull Applications](https://www.infoq.com/articles/understanding-serverless-servicefull-applications/)
 * [Serverless GraphQL Architecture – The Future of Backend Development](https://www.youtube.com/watch?v=PTphFRHJ3d0)
+* [Cloud Made Simple with Serverless Python](https://www.youtube.com/watch?v=3Dbxu-J4c5s) IBM cloud
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
