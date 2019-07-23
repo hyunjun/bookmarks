@@ -144,11 +144,10 @@ Hadoop
 * installation
   * [practice - cloudera manager 5.13.0](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-5-13-0-md) 설치 & 제거
   * [practice - cloudera manager 5.4.x](https://gist.github.com/hyunjun/8c6f702e73e3f94d559e#file-installation-md)
+* [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [Cloudera Korea](https://www.facebook.com/groups/1446013985717499)
-* [CDH 4.5.0](http://www.cloudera.com/content/cloudera/en/downloads/cdh/cdh-4-5-0.html)
 * [Strata NY 2014 - Architectural considerations for Hadoop applications tutorial](http://www.slideshare.net/hadooparchbook/strata-ny-2014-architectural-considerations-for-hadoop-applications-tutorial)
 * [Taming Operations in the Hadoop Ecosystem](http://www.slideshare.net/cloudera/taming-operations-in-the-hadoop-ecosystem)
-* [How-to: Install Apache Zeppelin on CDH](http://blog.cloudera.com/blog/2015/07/how-to-install-apache-zeppelin-on-cdh/)
 * [Architectural Patterns for Near Real-Time Data Processing with Apache Hadoop](http://blog.cloudera.com/blog/2015/06/architectural-patterns-for-near-real-time-data-processing-with-apache-hadoop/)
 * [How-to: Build a Complex Event Processing App on Apache Spark and Drools](http://blog.cloudera.com/blog/2015/11/how-to-build-a-complex-event-processing-app-on-apache-spark-and-drools/)
 * [Cloudera Manager Demo 1: Automated Deployment and Configuration](https://www.youtube.com/watch?v=1KEwGcPJW_I&index=1&list=PLe-h9HrA9qfDkH8RCxHGMzSAzL7x73T-Q)
@@ -168,6 +167,39 @@ Hadoop
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [August 2016 HUG: Open Source Big Data Ingest with StreamSets Data Collector](https://www.slideshare.net/ydn/august-2016-hug-open-source-big-data-ingest-with-streamsets-data-collector?ref=http%3A%2F%2Fyahoohadoop.tumblr.com%2Ftagged%2FHadoop)
 * [How-to: Include Third-Party Libraries in Your MapReduce Job](https://blog.cloudera.com/blog/2011/01/how-to-include-third-party-libraries-in-your-map-reduce-job/)
+* [Running Spark 2.x.x on Cloudera Hadoop Distro (CDH)](https://www.linkedin.com/pulse/running-spark-2xx-cloudera-hadoop-distro-cdh-deenar-toraskar-cfa)
+* [imp51.tistory.com/category/Big DATA](http://imp51.tistory.com/category/Big%20DATA)
+* [Part 1: Introducing the Cloudera Data Science Workbench](https://www.slideshare.net/cloudera/part-1-introducing-the-cloudera-data-science-workbench)
+* [Deploying Cloudera Data Science Workbench 1.5.x on Hortonworks Data Platform](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_hdp.html)
+  * Apache NiFi에서 배포 모델의 기능을 간편하게 호출
+  * [Example Apache NiFi to CDSW](https://github.com/tspannhw/nifi-cdsw)
+* [HDFS Maintenance State](http://blog.cloudera.com/blog/2017/05/hdfs-maintenance-state/)
+  * 새로운 기능 "Maintenace State"
+  * replication storm을 일으키지 않고 클러스터에서 노드를 일시적으로 제거하는 메커니즘 제공
+  * 예를 들어 전체 랙을 한 번에 패치하는 경우 유용
+  * 사용하려면 dfs.hosts 파일로는 충분하지 않아서 JSON 형태의 "maintenance" 파일 필요
+* Deploy Cloudera EDH Clusters Like a Boss Revamped
+  * [Part 1](https://blog.cloudera.com/blog/2017/11/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-1/)
+  * [Part 2](http://blog.cloudera.com/blog/2018/01/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-2/)
+  * [Part 3: Cloud Considerations](http://blog.cloudera.com/blog/2018/05/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-3-cloud-considerations/)
+    * Cloudera에서 AWS, AZure, GCP 클라우드에서 HDFS, Zookeeper, Kafka 등을 실행하기 위한 배포 권장 사항을 업데이트
+* [How to Add a Cluster to Cloudera Manager](https://www.youtube.com/watch?v=ZH_aPAHWRmI)
+* [change IP address for cloudera manager](https://medium.com/@strncpy/change-ip-address-for-cloudera-manager-14e22b43d893)
+* [Change IP address for cloudera manager](https://hyunjun.github.io/change-ip-address-for-cm/)
+* [Docker 를 통해 Cloudera Manager 띄워보기](https://lovetoken.github.io/docker/mac/opensource_tool/2018/04/22/docker_CM.html)
+* [Some tips to run a multi-node Hadoop in Docker](https://medium.com/@rubenafo/some-tips-to-run-a-multi-node-hadoop-in-docker-9c7012dd4e26) 단일 시스템에서 Docker 내부에서 멀티 노드 하둡을 구성하는 방법
+* [Mindful Machines Original Series, Big Data: Batch Processing](https://mindfulmachines.io/blog/2018/4/24/series-big-data-batch-processing) 일괄처리, SQL 일괄처리, 데이터웨어하우스, RDBMs 영역의 유력한 오픈 소스 소프트웨어 몇 가지 요약
+* [Cloud Native Machine Learning on Kubernetes](https://www.youtube.com/watch?v=zszUUut8gt4)
+* [Cloudera Altus Analytic DB (Beta)](https://www.cloudera.com/products/altus/altus-analytic-db.html)
+  * [A Technical Overview of Cloudera Altus Analytic DB](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
+  * [Altus SDK for Java](http://blog.cloudera.com/blog/2018/02/altus-sdk-for-java-blog/)
+  * [Cloudera Altus Workload Analytics](https://www.youtube.com/watch?v=6g6hEdEo-hM)
+  * [Diagnostic Data Processing on Cloudera Altus](https://blog.cloudera.com/blog/2019/07/diagnostic-data-processing-on-cloudera-altus)
+* cloudera director [What’s New in Cloudera Director 2.7?](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
+* cloudera enterprise
+  * [Cloudera Enterprise 6.1.0 is Now Available](https://blog.cloudera.com/blog/2018/12/cloudera-enterprise-6-1-0-is-now-available/)
+  * [클라우데라 엔터프라이즈 (Cloudera & Open Source)](https://www.facebook.com/TalkIT/videos/1653248424689274/)
+* [CDH 6.2 Release: What’s new in HBase](https://blog.cloudera.com/blog/2019/06/cdh-6-2-release-whats-new-in-hbase/)
 * [Ibis Project Blog](http://www.ibis-project.org/)
   * [ibis-demo Demo program of Ibis for "Spark + Python + Dita science Festival"](https://github.com/chezou/ibis-demo)
   * [Ibis: Scaling Python Analytics on Hadoop and Impala](http://www.slideshare.net/wesm/ibis-scaling-python-analytics-on-hadoop-and-impala)
@@ -188,38 +220,9 @@ Hadoop
       * Ibis + scikit-learn vs Spark + MLlib?
         * 데이터 크기에 따라 알맞은 프레임워크 활용
         * Netflix의 경우 Spark와 R을 예측 모델 빌딩에 활용. R은 필터링을 마친 나라 또는 지역에 국한된 데이터 모델링시, Spark의 경우는 전체 글로벌 모델 빌딩시 활용
-* [Running Spark 2.x.x on Cloudera Hadoop Distro (CDH)](https://www.linkedin.com/pulse/running-spark-2xx-cloudera-hadoop-distro-cdh-deenar-toraskar-cfa)
 * [YCSB 0.10.0 Now in Cloudera Labs](http://blog.cloudera.com/blog/2016/11/ycsb-0-10-0-now-in-cloudera-labs/)
-* [imp51.tistory.com/category/Big DATA](http://imp51.tistory.com/category/Big%20DATA)
-* [클라우데라 엔터프라이즈 (Cloudera & Open Source)](https://www.facebook.com/TalkIT/videos/1653248424689274/)
-* [Part 1: Introducing the Cloudera Data Science Workbench](https://www.slideshare.net/cloudera/part-1-introducing-the-cloudera-data-science-workbench)
-* [Deploying Cloudera Data Science Workbench 1.5.x on Hortonworks Data Platform](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_hdp.html)
-  * Apache NiFi에서 배포 모델의 기능을 간편하게 호출
-  * [Example Apache NiFi to CDSW](https://github.com/tspannhw/nifi-cdsw)
-* [HDFS Maintenance State](http://blog.cloudera.com/blog/2017/05/hdfs-maintenance-state/)
-  * 새로운 기능 "Maintenace State"
-  * replication storm을 일으키지 않고 클러스터에서 노드를 일시적으로 제거하는 메커니즘 제공
-  * 예를 들어 전체 랙을 한 번에 패치하는 경우 유용
-  * 사용하려면 dfs.hosts 파일로는 충분하지 않아서 JSON 형태의 "maintenance" 파일 필요
-* Deploy Cloudera EDH Clusters Like a Boss Revamped
-  * [Part 1](https://blog.cloudera.com/blog/2017/11/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-1/)
-  * [Part 2](http://blog.cloudera.com/blog/2018/01/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-2/)
-  * [Part 3: Cloud Considerations](http://blog.cloudera.com/blog/2018/05/deploy-cloudera-edh-clusters-like-a-boss-revamped-part-3-cloud-considerations/)
-    * Cloudera에서 AWS, AZure, GCP 클라우드에서 HDFS, Zookeeper, Kafka 등을 실행하기 위한 배포 권장 사항을 업데이트
-* [What’s New in Cloudera Director 2.7?](http://blog.cloudera.com/blog/2018/01/whats-new-in-cloudera-director-2-7/)
-* [Cloudera Altus Analytic DB (Beta)](https://www.cloudera.com/products/altus/altus-analytic-db.html)
-  * [A Technical Overview of Cloudera Altus Analytic DB](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
-  * [Altus SDK for Java](http://blog.cloudera.com/blog/2018/02/altus-sdk-for-java-blog/)
-  * [Cloudera Altus Workload Analytics](https://www.youtube.com/watch?v=6g6hEdEo-hM)
-* [How to Add a Cluster to Cloudera Manager](https://www.youtube.com/watch?v=ZH_aPAHWRmI)
-* [change IP address for cloudera manager](https://medium.com/@strncpy/change-ip-address-for-cloudera-manager-14e22b43d893)
-* [Change IP address for cloudera manager](https://hyunjun.github.io/change-ip-address-for-cm/)
-* [Docker 를 통해 Cloudera Manager 띄워보기](https://lovetoken.github.io/docker/mac/opensource_tool/2018/04/22/docker_CM.html)
-* [Some tips to run a multi-node Hadoop in Docker](https://medium.com/@rubenafo/some-tips-to-run-a-multi-node-hadoop-in-docker-9c7012dd4e26) 단일 시스템에서 Docker 내부에서 멀티 노드 하둡을 구성하는 방법
-* [Mindful Machines Original Series, Big Data: Batch Processing](https://mindfulmachines.io/blog/2018/4/24/series-big-data-batch-processing) 일괄처리, SQL 일괄처리, 데이터웨어하우스, RDBMs 영역의 유력한 오픈 소스 소프트웨어 몇 가지 요약
-* [Cloud Native Machine Learning on Kubernetes](https://www.youtube.com/watch?v=zszUUut8gt4)
-* [Cloudera Enterprise 6.1.0 is Now Available](https://blog.cloudera.com/blog/2018/12/cloudera-enterprise-6-1-0-is-now-available/)
-* [CDH 6.2 Release: What’s new in HBase](https://blog.cloudera.com/blog/2019/06/cdh-6-2-release-whats-new-in-hbase/)
+* [YuniKorn Scheduler core](https://github.com/cloudera/yunikorn-core)
+  * [YuniKorn: a universal resource scheduler](https://blog.cloudera.com/blog/2019/07/yunikorn-a-universal-resource-scheduler/)
 
 # Combiner
 * [Combiner in Mapreduce](http://hadooptutorial.info/combiner-in-mapreduce/#Combiner_Output)
