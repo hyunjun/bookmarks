@@ -150,6 +150,9 @@ Interview
 * [번역 코딩 인터뷰에서 Golang을 사용해야하는 이유](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0%EC%97%90%EC%84%9C-golang%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8b638ab33068) 전반부는 동의할 수 없고 후반부는 어느 정도 동의
 * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 * [How to land a job you’re not qualified for](https://www.fastcompany.com/90333991/how-to-land-a-job-youre-not-qualified-for)
+* [rachitiitr.com](https://www.rachitiitr.com/)
+  * [Uber SDE II Interview Experience](https://www.youtube.com/watch?v=0Vmtmqa9Og0)
+  * [Goldman Sachs Interview - The Tree Question | Part II](https://www.youtube.com/watch?v=D1Tv5cCs1d8)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
