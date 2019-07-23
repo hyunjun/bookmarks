@@ -193,6 +193,7 @@ Go
   * [2편 Go API 서버](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-2%ED%8E%B8-go-api-%EC%84%9C%EB%B2%84/)
   * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
+* [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
 * [Why Go Is Perfect For DevOps](https://www.youtube.com/watch?v=COCUqAwAbD0)
 * [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
