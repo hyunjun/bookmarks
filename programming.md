@@ -566,6 +566,7 @@ Programming
   * [(6) 배포 전략](https://futurecreator.github.io/2018/10/19/microservices-deployment-strategy/)
   * [(7) 모놀리스 리팩토링](https://futurecreator.github.io/2018/10/19/microservices-refactoring-for-monolith/)
 * [Beginner’s Guide to Microservices: Explaining it to a 5 Year Old](https://hackernoon.com/beginners-guide-to-microservices-explaining-it-to-a-5-year-old-4481f5aba466)
+* [MSA 전략 1: 마이크로서비스, 어떻게 디자인 할 것인가?](https://www.slideshare.net/PivotalKorea/msa-1-154454835)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
