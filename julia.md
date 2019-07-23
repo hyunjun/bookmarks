@@ -108,6 +108,7 @@ Julia
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
 * [COIN-OR Cup](http://www.coin-or.org/coinCup/)
 * [DataFrames.jl](http://dataframesjl.readthedocs.org/)
+* [EmbeddingJuliaEx Boilerplate for Julia Embedding to C and Autotools](https://github.com/appleparan/Embedding-Julia-Boilerpolate)
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
 * [Flux: Machine Learning with Julia](https://discourse.julialang.org/t/flux-machine-learning-with-julia/2382)
   * [Char RNN](http://mikeinnes.github.io/Flux.jl/latest/examples/char-rnn.html)
