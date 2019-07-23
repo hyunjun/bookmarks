@@ -2022,6 +2022,7 @@ Javascript
 * [react-native-responsive-fontsize](https://github.com/heyman333/react-native-responsive-fontSize)
 * [REACT NATIVE VS. OTHER CROSS-PLATFORM SOLUTIONS](https://ideamotive.co/react-native-development-guide)
 * [Webpack으로 React 시작하기](https://dev-yakuza.github.io/ko/react/start/)
+* [Conference App in a Box](https://github.com/dabit3/conference-app-in-a-box)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
