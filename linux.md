@@ -30,7 +30,6 @@ Linux
 * supervisord
   * [Deploy SSR Applications using Supervisord](https://hackernoon.com/deploy-ssr-applications-using-supervisord-dc32f1c0cda4)
 * [Learn the ways of Linux-fu, for free](https://linuxjourney.com/)
-* [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [Ten dozen Embedded Linux Conference and IoT Summit videos](http://hackerboards.com/ten-dozen-embedded-linux-conference-and-iot-summit-videos/)
   * [ELC Europe 2016 Presentations](http://elinux.org/ELC_Europe_2016_Presentations)
 * [리눅스 아재력 셀프 테스트](http://sunyzero.tistory.com/245)
@@ -51,6 +50,7 @@ Linux
       * [02. Playbooks](http://mcpaint.tistory.com/278)
     * [앤서블 설치 - vagrant로 생성한 가상 머신(guest system)에 앤서블(Ansible)을 설치하여 앤서블(Ansible)을 사용할 수 있는 환경을 만듭니다](https://dev-yakuza.github.io/ko/environment/install-ansible/)
     * [1. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - 호스트 연결하기](https://jojoldu.tistory.com/432)
+    * [2. Ansible (앤서블) 로 전체 서버 계정 추가하기 - CLI로 계정 추가하기](https://jojoldu.tistory.com/433)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
@@ -133,6 +133,8 @@ Linux
 * [Linux 공부 14 - 개념 정리](http://throughkim.kr/2017/01/09/linux-14/)
 * [리눅스 실무기술300](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-linux_practical_tech300-md)
 * **[8 super heroic Linux commands that you probably aren't using](https://www.youtube.com/watch?v=Zuwa8zlfXSY)**
+* [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+* **[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)** 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
