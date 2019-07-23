@@ -33,6 +33,7 @@ Julia
   * [Meet the Julians](http://bit-player.org/2015/meet-the-julians)
 * [Shelling Out Sucks](http://julialang.org/blog/2012/03/shelling-out-sucks/)
 * JuliaCon
+  * [JuliaCon 2019 | Keynote: Professor Madeleine Udell](https://www.youtube.com/watch?v=BjMgo3liDZ8)
   * [JuliaCon 2017](http://juliacon.org/2017/schedule)
     * [JuliaCon 2017](http://juliacon.org/2017/talks.html)
     * [From One to Many: Writing Julia Code to Simulate Big Quantum Systems on Big Computers](http://juliacon.org/2017/talks#workshop-3)
