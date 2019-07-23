@@ -1436,6 +1436,7 @@ Javascript
 * [Everything you should know about ‘module’ & ‘require’ in Node.js](https://medium.freecodecamp.org/require-module-in-node-js-everything-about-module-require-ccccd3ad383)
 * [Node.js: Module wiring and dependencies explained](https://itnext.io/node-js-module-wiring-and-dependencies-explained-9fa5784c5840)
 * [Node.js Monitoring Made Easy](https://hackernoon.com/node-js-monitoring-made-easy-4d84cd229ab2)
+* [Node.js에서의 프로토타입 오염 공격이란 무엇인가](https://blog.coderifleman.com/2019/07/19/prototype-pollution-attacks-in-nodejs/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
