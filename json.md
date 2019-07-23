@@ -33,6 +33,7 @@ Json
 * [안드로이드 Json파싱해보기!](http://www.feelteller.com/8) GSon
 
 # JWT
+* [practice - pyjwt](https://gist.github.com/hyunjun/7920c6f64df6a107cc978b8c222fdcd4#file-pyjwt-md)
 * [JWT - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
 * [4장. JWT 이해 및 적용](https://backend-intro.vlpt.us/4/)
 * [토큰(Token) 기반 인증에 대한 소개](https://velopert.com/2350)
@@ -46,10 +47,17 @@ Json
 * [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
 * [JWT를 구현하면서 마주치게 되는 고민들](https://swalloow.github.io/implement-jwt)
 * [Build authentication into your Laravel API with JSON Web Tokens (JWT)](https://medium.com/employbl/build-authentication-into-your-laravel-api-with-json-web-tokens-jwt-cd223ace8d1a)
+* [Build A Node.js API Authentication With JWT Tutorial](https://www.youtube.com/watch?v=2jqok-WgelI)
 * [Using JWT in Your React+Redux App for Authorization](https://levelup.gitconnected.com/using-jwt-in-your-react-redux-app-for-authorization-d31be51a50d2)
+* [로그인에 JWT(JSON Web Token)사용하기](http://guswnsxodlf.github.io/json-web-token)
+
+## JWT Python
+* [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
+* [“JWT Authorization in Python, Part 1: Practise.”](https://steelkiwi.com/blog/jwt-authorization-python-part-1-practise/)
+* [“JWT authorization in Python, Part 2: THEORY.”](https://steelkiwi.com/blog/jwt-authorization-python-part-2-theory/)
 * [Django REST framework JWT Auth](https://getblimp.github.io/django-rest-framework-jwt/)
 * [Flask-JWT-login](https://github.com/devArtoria/Flask-JWT-login/)
-* [Build A Node.js API Authentication With JWT Tutorial](https://www.youtube.com/watch?v=2jqok-WgelI)
+* [pyjwt.readthedocs.io](https://pyjwt.readthedocs.io)
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
