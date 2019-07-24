@@ -154,6 +154,7 @@ Haskell
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
+* [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
 * [Haskell Programming](http://haskellbook.com/)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
 * [WikibooksHaskell](https://wikidocs.net/book/204)
