@@ -86,6 +86,7 @@ Julia
   * [Using Julia for Data Science (Part 03): Plotting](https://cleytonfar.github.io/posts/using-julia-for-data-science-part-03/)
 * [A Julia interpreter and debugger](https://julialang.org/blog/2019/03/debuggers)
 * [singularity-py-and-jl - Simple singularity recipe for Keras(python3) & Flux(julia) (personal use)](https://github.com/appleparan/singularity-py-and-jl)
+* [Announcing composable multi-threaded parallelism in Julia](https://julialang.org/blog/2019/07/multithreading)
 
 # API
 * Pkg.add
