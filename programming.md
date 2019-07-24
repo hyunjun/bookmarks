@@ -1344,6 +1344,8 @@ Programming
   * WePay에서 Debezium을 사용하여 Kafka로 데이터를 스트리밍하는 MySQL용 데이터 캡처 솔루션을 사용하는 것에 대한 기사
 * [The Why's and How's of Database Streaming](https://qconsf.com/system/files/presentation-slides/whys_and_hows_of_database_streaming_final.pdf)
   * WePay의 CDC 관련 최신 키노트
+* [Real time analytics at uber @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-at-uber-strata-data-2019)
+* [Real time analytics on deep learning @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-on-deep-learning-strata-data-2019)
 
 ## Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
