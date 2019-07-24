@@ -84,6 +84,8 @@ Sports
 * [선발 에이스 시대의 종말이 온다 1이닝 선발부터 벌떼 불펜까지 다양해지는 투수 운용 방식](http://weekly.donga.com/3/all/11/1412439/1)
 
 ## Sabremetrics
+* [nc soft AI](https://blog.ncsoft.com/rd/ai/)
+* [nc soft 데이터 사이언스](https://blog.ncsoft.com/rd/data-science/)
 * [blog.ncsoft.com/?tag=야구-데이터-분석](http://blog.ncsoft.com/?tag=%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)
 * [baseballthinkfactory.org/btf/index.html](http://www.baseballthinkfactory.org/btf/index.html)
 * [데이터로 승부하는 ‘세이버메트리션’, 야구기자](http://www.bloter.net/archives/233533)
