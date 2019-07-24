@@ -16,6 +16,7 @@ English
 * [youglish.com](https://youglish.com/) 실제 쓰이는 영어의 발음을 바로 검색해서 확인
 * youtube
   * [라이브 아카데미](https://www.youtube.com/channel/UCGDA1e6qQSAH0R9hoip9VrA)
+    * [영어회화 | 어휘 | '찾다'의 3가지 모습 - find | look for | search](https://www.youtube.com/watch?v=uXPxXG5NUYo)
   * [영어 알려주는 남자](https://www.youtube.com/channel/UCHpIHu4LzmNuD8bsE6mZLSA)
   * [fromJUDYJY](https://www.youtube.com/channel/UCuvKCNThn2Ye5RWfJbSNHZA)
   * [The Tonight Show Starring Jimmy Fallon](https://www.youtube.com/user/latenight)
