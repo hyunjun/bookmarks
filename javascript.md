@@ -270,6 +270,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Top 10 Articles for the Past Month (v.July 2019)](https://medium.com/@Mybridge/javascript-top-10-articles-for-the-past-month-v-july-2019-5664b29f56d5)
   * [JavaScript Open Source of the Month (v.June 2019)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-june-2019-a3d274fe11b6)
   * [JavaScript Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-june-2019-2184efc028df)
   * [JavaScript Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/javascript-open-source-for-the-past-month-v-may-2019-80e6ad3db158)
@@ -497,6 +498,7 @@ Javascript
   * What are the learning curves, best use cases, pros and cons for each of them?
 * [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
 * [nike-app-sample](https://chading.net/nike-app-sample/)
+* [Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1255,6 +1257,7 @@ Javascript
   * [NPM1](https://www.youtube.com/playlist?list=PLuHgQVnccGMCwEXgZ-dep4SJlGEuYip-6)
   * [How to publish packages to npm (the way the industry does things)](https://medium.freecodecamp.org/how-to-publish-packages-to-npm-the-way-the-industry-does-things-2077ec34d7e8)
   * [How to keep your sanity while managing NPM & functions in Node](https://medium.com/free-code-camp/how-to-keep-your-sanity-while-managing-npm-functions-in-node-9a5889cce80d)
+  * [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
