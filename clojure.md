@@ -281,7 +281,7 @@ Clojure
   * [Part II - Getting Work Done in Clojure: The Building Blocks](https://medium.com/@daniel.oliver.king/getting-work-done-in-clojure-the-building-blocks-39ad82796926)
   * [Part III - Getting REAL Work Done In Clojure: Application Development](https://medium.com/@daniel.oliver.king/getting-real-work-done-in-clojure-application-development-683c8129a313)
 * [Clojure 허쉴?](https://www.youtube.com/watch?v=KlcsvIj-0AY)
-* [Clojure 개발 환경 셋업 #1 - Leiningen](https://www.youtube.com/watch?v=WwYQl8KGlCo)
+* [Clojure 개발 환경 셋업 #1 - Leiningen](https://www.youtube.com/watch?v=0Y_jRgcVrq0)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
