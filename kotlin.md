@@ -111,6 +111,7 @@
 * [Multi-platform Projects with Kotlin](https://hadihariri.com/2017/11/10/multiplatform-projects-with-kotlin/)
 * [메모리릭 방지하기 | Kotlin, Lambda의 강력함 | Lambda는 진리입니다](https://meetup.toast.com/posts/186)
 * [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007) kotlin, java, lombok을 같이 사용하는 과정에서의 문제점
+* [코틀린(Kotlin)에서 apply, with, let, also, run 차이](https://jungwoon.github.io/kotlin/2019/07/24/Kotlin-apply-let-also-run/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
