@@ -31,6 +31,7 @@
 * [hellmaker.kr](http://www.hellmaker.kr/)
 * [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
 * [10 Single-Board Computers Worthy of Hacking Projects Big & Small](https://null-byte.wonderhowto.com/how-to/raspberry-pi-alternatives-10-single-board-computers-worthy-hacking-projects-big-small-0196340/)
+* [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
