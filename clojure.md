@@ -610,6 +610,7 @@ Clojure
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
 * leiningen
   * [dependency priority (1)](http://clojure.kr/leiningen-1/)
+  * [leiningen-win-installer - An Installer for Leiningen on Windows](https://djpowell.github.io/leiningen-win-installer/)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
   * lein-count
     * [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
