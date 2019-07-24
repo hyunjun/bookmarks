@@ -589,6 +589,7 @@ Scala
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
+* [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
