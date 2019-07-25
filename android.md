@@ -61,7 +61,6 @@ Android
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
 * [요약 Android Studio/ Tips and Tricks ~ Part2 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part2/)
 * [요약 Android Studio/ Tips and Tricks ~ Part3 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/07/io19-android_studio_tips_and_tricks_part3/)
-* [Android Studio Tips #1](http://pluu.github.io/blog/android%20studio/2019/07/13/android-studio-tip1/)
 * [#01 안드로이드 일기장 앱을 만들어봅시다](https://www.youtube.com/watch?v=yWvBLMJ8O7Q)
 * [빌드시간 최적화하기(빌드속도 70%감소)](http://gun0912.tistory.com/76)
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
@@ -125,6 +124,8 @@ Android
 * [안드로이드 스튜디오 3.0 Canary 1을 소개합니다](https://developers-kr.googleblog.com/2017/06/android-studio-3-0-canary1.html)
 * [Android Studio 3.0 코틀린 프로젝트 생성하기](http://thdev.net/748)
 * [What's New in Android Studio UI Design and Debugging Tools (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/06/02/io19-whats-new-in-android-studio-ui-design-and-debugging-tools/)
+* [Android Studio Tips #1](http://pluu.github.io/blog/android%20studio/2019/07/13/android-studio-tip1/)
+* [Android Studio Tips #2](http://pluu.github.io/blog/android%20studio/2019/07/24/android-studio-tip2/)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
