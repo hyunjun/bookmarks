@@ -576,6 +576,7 @@ Javascript
 * [An introduction to Angular Reactive Forms](https://medium.freecodecamp.org/angular-reactive-forms-an-introduction-f9d988ae9251)
 * [Running Angular project unit-tests on Stackblitz](https://hackernoon.com/running-angular-project-unit-tests-on-stackblitz-bc091abbfcc9)
 * [Building an enterprise-grade Angular project structure](https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3)
+* [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
