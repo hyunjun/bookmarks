@@ -509,6 +509,8 @@ TensorFlow
 * [TensorFlow 2.0 Global Docs Sprint](https://www.youtube.com/playlist?list=PLNPGisnO0ega4FeRSL4VCJHhFfhr0sXQC)
 * [Deep Learning With TF 2.0: 04.00- Numerical Computation](https://www.adhiraiyan.org/deeplearning/04.00-Numerical-Computation)
 * [텐서플로우 2, "더 쉬워진 머신러닝"](http://www.itworld.co.kr/news/125595)
+* [addons - Useful extra functionality for TensorFlow 2.0 maintained by SIG-addons](https://github.com/tensorflow/addons)
+  * [Introducing TensorFlow Addons](https://medium.com/tensorflow/introducing-tensorflow-addons-6131a50a3dcf)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
