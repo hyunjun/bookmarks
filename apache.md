@@ -713,6 +713,8 @@ Apache
   * TPC-H benchmark상으로 속도 향상 및 공간 절약 효과가 상당
 * [Apache Spark Plugin](https://phoenix.apache.org/phoenix_spark.html)
 * [3 Steps for Bulk Loading 1M Records in 20 Seconds Into Apache Phoenix](https://medium.com/hashmapinc/3-steps-for-bulk-loading-1m-records-in-20-seconds-into-apache-phoenix-99b77ad87387) Apache Spark를 사용하여 Apache HBase 및 Apache Phoenix와 호환하는 HFile을 생성하는 방법 설명
+* [Apache Phoenix for CDH](https://www.cloudera.com/downloads/phoenix.html)
+  * [Apache Phoenix for CDH](https://blog.cloudera.com/blog/2019/07/apache-phoenix-for-cdh)
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io ](https://github.com/apache/incubator-predictionio)
