@@ -575,6 +575,7 @@ App
 * **[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)** default보다 나은 command line tool 설명
 * [How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
 * [How to set up your Mac for Web Development](https://medium.com/free-code-camp/how-to-set-up-your-mac-for-web-development-b40bebc0cac3)
+* [Developer turns the MacBook Pro Touch Bar into a Taskbar in Windows 10](https://www.notebookcheck.net/Developer-turns-the-MacBook-Pro-Touch-Bar-into-a-Taskbar-in-Windows-10.428205.0.html)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
