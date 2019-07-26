@@ -45,3 +45,16 @@ Game
   * [Project - Reinforcement Learning with Unity 3D: G.E.A.R](https://dtransposed.github.io/blog/GEAR.html)
 * Unreal
   * [NDC 17 - ‘언알못’이 언리얼엔진을 배우려면 어떻게 해야 돼요?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71531)
+
+## Library Python
+* [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
+* Pygame
+  * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
+  * [Pygame - Making Games with\* Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
+  * [A animation using geometric plan! How we do beautiful and psychedelic things?](https://github.com/ryukinix/fractal-plan)
+  * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
+  * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
+  * [Drawing SVG paths in Python to PyGame](https://www.youtube.com/watch?v=bbY13xi0yhM)
+  * [파이게임 PyGame](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEH_cLdFK67ygJWPpL2rR8XH)
+* [pyNES - NES games in python](http://gutomaia.net/pyNES/)
+* [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
