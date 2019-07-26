@@ -3203,6 +3203,7 @@ Python
   * [How to Mock a name attribute?](http://blog.tunarob.com/2017/04/27/mock-name-attribute)
   * [Allow doubling a particular instance method on all instances of a class](https://github.com/uber/doubles/issues/90)
   * [Today I Learned: 파이썬 단위 테스트 모듈, unittest](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AA%A8%EB%93%88-unittest/)
+  * [Python Unit Testing With VS Code](https://www.youtube.com/watch?v=6baJ5t83820)
 * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 
