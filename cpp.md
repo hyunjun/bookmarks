@@ -212,6 +212,7 @@ C++
 * [C++17 표준 라이브러리의 파일 시스템 라이브러리 소개](http://occamsrazr.net/tt/324)
 * [C++17 표준 라이브러리의 알고리즘 병렬화 소개](http://occamsrazr.net/tt/325)
 * [‘기차모델’로 갈아탄 ‘C++17’이 가져온 변화는?](http://www.bloter.net/archives/291766)
+* [Modern C++17 Tricks for Competitive Programming](https://www.youtube.com/watch?v=7qZ2O5-uLO8)
 
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
