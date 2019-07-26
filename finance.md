@@ -140,6 +140,8 @@ Finance
   * [Part 6 모델 평가](https://youtu.be/vlvolfzMO_I)
     * 생성된 모델의 성능과 K-Mean을 찾는 분석능력을 평가. 이를 통해 데이터 시각화를 통해 각 데이터 카테고리를 표현
   * [GitHub Repository](https://github.com/…/python-data_s…/machine-learning/k-means)
+* [Python Finance](https://www.youtube.com/playlist?list=PLcFcktZ0wnNnKvxFkJ5B7pvGaGa81Ny-6)
+  * [TD Streaming Data - GitHub.ipynb](https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-finance/td-ameritrade/TD%20Streaming%20Data%20-%20GitHub.ipynb)
 * [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
   * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
 * [eBest Xing api 실시간조회, 테스트 및 실행 화면 (8)](http://malchooni.name/%ED%8C%8C%EC%9D%B4%EC%8D%AC-ebest-xing-api-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A1%B0%ED%9A%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4-8/)
