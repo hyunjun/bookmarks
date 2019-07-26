@@ -507,6 +507,7 @@ Machine Learning
 * [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 * [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
 * [피처 엔지니어링 #1  - 피처 크로스](https://bcho.tistory.com/1334)
+* [Automated Feature Engineering for Predictive Modeling](https://towardsdatascience.com/automated-feature-engineering-for-predictive-modeling-d8c9fa4e478b)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
