@@ -87,6 +87,7 @@ Julia
 * [A Julia interpreter and debugger](https://julialang.org/blog/2019/03/debuggers)
 * [singularity-py-and-jl - Simple singularity recipe for Keras(python3) & Flux(julia) (personal use)](https://github.com/appleparan/singularity-py-and-jl)
 * [Announcing composable multi-threaded parallelism in Julia](https://julialang.org/blog/2019/07/multithreading)
+* [JuliaCon 2019 | Thread Based Parallelism](https://www.youtube.com/watch?v=HfiRnfKxI64)
 
 # API
 * Pkg.add
