@@ -151,15 +151,19 @@ Haskell
 * **[agbird.egloos.com/category/하스켈 스프링노트](http://agbird.egloos.com/category/%ED%95%98%EC%8A%A4%EC%BC%88%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%85%B8%ED%8A%B8)**
 * [core-lang-haskell](https://github.com/Ailrun/core-lang-haskell)
 * [LINE 하스켈 부트 캠프](https://engineering.linecorp.com/ko/blog/line-haskell-boot-camp/)
+* [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
 * [Haskell Programming](http://haskellbook.com/)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
+  * [I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
 # Library
+* [aeson: Fast JSON parsing and encoding](http://hackage.haskell.org/package/aeson)
+  * [Parsing JSON with Aeson](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json)
 * [Awake Security](https://github.com/awakesecurity)
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
@@ -192,6 +196,8 @@ Haskell
   * [Why is stack not cabal?](https://www.fpcomplete.com/blog/2015/06/why-is-stack-not-cabal)
 * [turtle embeds shell scripting directly within Haskell](http://hackage.haskell.org/package/turtle-1.0.0/docs/Turtle-Tutorial.html)
 * [Twilio IVR - A fluent Twilio IVR library for Haskell](https://github.com/steven777400/TwilioIVR/)
+* Yesod
+  * [Basics of Yesod](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/basics-of-yesod)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 
 # Monad
