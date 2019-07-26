@@ -859,6 +859,7 @@ Javascript
 * [11 JavaScript Animation Libraries For 2019](https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59)
 * [6 JavaScript User Authentication Libraries for 2019](https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458)
 * [11 Material Design UI Component Libraries for 2019](https://blog.bitsrc.io/11-material-design-ui-component-libraries-for-2018-b3d2c9962a2f)
+* [I’ve spent 5 years writing a JavaScript framework on my own](https://medium.com/@jcormont/ive-spent-5-years-writing-a-javascript-framework-on-my-own-af1201f4075c)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
@@ -1320,6 +1321,7 @@ Javascript
 * [Mac에 설치된 node.js 제거하기](http://gomcine.tistory.com/entry/nodejs-Mac%EC%97%90-%EC%84%A4%EC%B9%98%EB%90%9C-nodejs-%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)
 * [node.js Kenu Heo playlist](https://www.youtube.com/playlist?list=PLDMPhWe3CfpYy-lMGNjh_-yx-zGawQ6KX)
 * [Node.JS로 카카오봇 만들기](https://cheese10yun.github.io/kakao-bot-node)
+* [Node.js Top 10 Articles for the Past Month (v.July 2019)](https://medium.com/@Mybridge/node-js-top-10-articles-for-the-past-month-v-july-2019-2cca3caa76f6)
 * [Node.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-june-2019-965acf75a02d)
 * [Node.js Top 10 Articles for the Past Month (v.May 2019)](https://medium.mybridge.co/node-js-top-10-articles-for-the-past-month-v-may-2019-f21084933603)
 * [45 Amazing Node.js Open Source for the Past Year (v.2019)](https://medium.mybridge.co/45-amazing-node-js-open-source-for-the-past-year-v-2019-c774d750e925)
@@ -1489,6 +1491,7 @@ Javascript
   * [Reverse Proxy using Express Server](https://hackernoon.com/reverse-proxy-using-express-server-1f1b0b5a6e67)
   * [타입 안전한 express 앱 구현하기 타입스크립트를 쓰면 타입스크립트 사용법을 따르라](https://libsora.so/posts/make-typesafe-express-app/)
   * [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://www.youtube.com/watch?v=vjf774RKrLc)
+  * [Building a simple REST API with NodeJS and Express](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
