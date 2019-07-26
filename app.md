@@ -284,6 +284,8 @@ App
   * [Visbug](https://github.com/GoogleChromeLabs/ProjectVisBug)
   * [Insomnia](https://insomnia.rest)
   * [Flare](https://www.2dimensions.com/about-flare)
+* [AI '소프트웨어' 말고 AI '개발툴'··· 프로그래밍 바꾸는 머신러닝 5종](http://www.ciokorea.com/news/127016)
+  * kite, codota, deepcode, prose, pix2code
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
@@ -572,6 +574,7 @@ App
 * [Mac에서 library not found for lgfortran 에러 해결하기](https://lumiamitie.github.io/r/mac-lgfortran/)
 * **[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)** default보다 나은 command line tool 설명
 * [How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
+* [How to set up your Mac for Web Development](https://medium.com/free-code-camp/how-to-set-up-your-mac-for-web-development-b40bebc0cac3)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
