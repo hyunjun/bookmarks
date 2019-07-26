@@ -1506,6 +1506,8 @@ Python
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
 * [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
+* [PyXLL - The Python Excel Add-In](https://www.pyxll.com/)
+  * [Machine Learning in Excel With Python](https://datascienceplus.com/machine-learning-in-excel-with-python/)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
 * [XlsxWriter - Creating Excel files with Python and XlsxWriter](http://xlsxwriter.readthedocs.io/)
   * practice; encoding 문제로 저장한 csv를 excel에서 열었더니 글자가 깨져 보일 때
