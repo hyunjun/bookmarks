@@ -756,6 +756,7 @@ App
   * `if([condition], [true output], [false output])`
     * e.g. if(E11=F11, "T", if(F11="N/A", "T", "F")) E11과 F11이 같으면 T, 다르면 F11이 N/A면 T, 아니면 F(즉, E11과 F11이 다르고 AND F11이 N/A가 아니면 F)
   * [피벗 테이블 만드는 방법](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5260711542)
+* [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
 
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
