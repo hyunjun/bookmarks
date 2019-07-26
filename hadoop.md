@@ -173,6 +173,7 @@ Hadoop
 * [Deploying Cloudera Data Science Workbench 1.5.x on Hortonworks Data Platform](https://www.cloudera.com/documentation/data-science-workbench/latest/topics/cdsw_hdp.html)
   * Apache NiFi에서 배포 모델의 기능을 간편하게 호출
   * [Example Apache NiFi to CDSW](https://github.com/tspannhw/nifi-cdsw)
+* [Use Your Favorite Editor in Cloudera Data Science Workbench 1.6](https://blog.cloudera.com/blog/2019/07/use-your-favorite-editor-in-cloudera-data-science-workbench-1-6/)
 * [HDFS Maintenance State](http://blog.cloudera.com/blog/2017/05/hdfs-maintenance-state/)
   * 새로운 기능 "Maintenace State"
   * replication storm을 일으키지 않고 클러스터에서 노드를 일시적으로 제거하는 메커니즘 제공
