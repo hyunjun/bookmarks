@@ -690,6 +690,7 @@ TensorFlow
 * [Ludwig - a toolbox that allows to train and test deep learning models without the need to write code](https://uber.github.io/ludwig/)
   * [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
   * [Introducing Uber’s Ludwig A New Toolbox for Training Deep Learning Models Without Writing Any Code](https://towardsdatascience.com/introducing-ubers-ludwig-5bd275a73eda)
+  * [Ludwig v0.2 Adds New Features and Other Improvements to its Deep Learning Toolbox](https://eng.uber.com/ludwig-v0-2/)
 * Magenta
   * [Connecting with Music Through Magenta.js](https://magenta.tensorflow.org/blog/2018/05/03/connecting-with-magenta-js/)
   * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
