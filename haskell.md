@@ -8,6 +8,7 @@ Haskell
 * [Try Haskell](http://tryhaskell.org/)
 * [한국 하스켈 모임](https://haskell.kr/)
 * [서광열의 하스켈 블로그](http://kseo.github.io)
+* [haskellers.com](https://www.haskellers.com/)
 * [Haskell Koans for the Vancouver's Haskell UnMeetup](https://github.com/HaskVan/HaskellKoans)
 * [발렌타인 세미나 안내 - 순수 함수형 언어 하스켈에 대하여](https://www.youtube.com/watch?v=bTqIaEG3GHw)
 * [2015 나는 프로그래머다 컨퍼런스 (8,9) 박중운 - React.js & 최철웅 - Haskell 라이브코딩](https://www.youtube.com/watch?v=LP5CmzifV8I)
@@ -159,6 +160,7 @@ Haskell
 * [Haskell Programming](http://haskellbook.com/)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
   * [I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
+* [To Kata Haskellen Evangelion](https://cosmius.bitbucket.io/tkhe/)
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
 # Library
