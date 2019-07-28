@@ -142,6 +142,7 @@ Algorithm
 * [나도 해보는 Fizz Buzz Test](https://libsora.so/posts/fizz-buzz-01/)
 * [How to Skin a Cat: FizzBuzz in Five Languages](https://medium.com/quick-code/how-to-skin-a-cat-fizzbuzz-5-ways-dc4ec811bfcb)
 * [나눗셈 연산을 곱셈으로 프로그래밍 할 수 있음?](https://libsora.so/posts/float-divide-without-divide/)
+* [Divide and Conquer Algorithms](https://medium.com/cracking-the-data-science-interview/divide-and-conquer-algorithms-b135681d08fc)
 * [나머지 연산자 없이 x % 256 계산하기](https://libsora.so/posts/use-casting-as-mod-operator/)
 * [나머지 연산자 없이 x % (2의 거듭제곱) 계산하기](https://libsora.so/posts/use-bit-op-as-mod-operator/)
 * [최상위 비트의 위치 찾는 방법 low-level을 이용해서 O(logN)으로 구현하기](https://libsora.so/posts/find-the-highest-order-bit/)
