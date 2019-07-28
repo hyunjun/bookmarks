@@ -824,6 +824,7 @@ Javascript
 * [#1 What is GraphQL? | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc)
 * [How to create a simple bitcoin API with NodeJS & GraphQL — Part I.](https://medium.com/hackernoon/how-to-create-a-simple-bitcoin-api-with-nodejs-graphql-part-i-a8cd8832fed5)
 * [Rest vs Graphql Part 1](https://www.youtube.com/watch?v=k4KZblj3QA0)
+* [GraphQL에서는 어떤 HTTP status code를 사용할까? 아무도 관심갖지 않는 GraphQL 이야기 - part 1](https://libsora.so/graphql/graphql-http-status-code)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
