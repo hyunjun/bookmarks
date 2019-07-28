@@ -109,6 +109,7 @@ Android
 * [안드로이드 Dalvik & ART (2/2)](https://brunch.co.kr/@mystoryg/82)
 * [AppUpdateManager를 이용한 앱 업데이트 처리](https://blog.kmshack.kr/AppUpdateManager/)
 * [안드로이드 Handler 알고 쓰자](https://brunch.co.kr/@mystoryg/84)
+* [핸들러와 루퍼(Handler & Looper)](https://jungwoon.github.io/android/2019/07/28/Handler-Looper/)
 * [TRACKIT에서 딥링크를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
 * [업그레이드 된 안드로이드 개발 이미지 추가 방법 #Resource Manager](https://developer88.tistory.com/166)
 * **[마이리얼트립 안드로이드 앱의 Technical Debt 해결하기](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%98-technical-debt-be05c65706cb)** 안드로이드에 대하여 썼지만 전반적인 내용은 일반적으로 적용되는 좋은 글
