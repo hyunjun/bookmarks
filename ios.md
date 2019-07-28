@@ -401,6 +401,10 @@ iOS
 * [Swift Multi-Threading using GCD For Beginners](https://hackernoon.com/swift-multi-threading-using-gcd-for-beginners-2581b7aa21cb)
 * [Magic Trick Revealed: Breaking the Nil-Coalescing Operator in Swift](https://hackernoon.com/magic-trick-revealed-breaking-the-nil-coalescing-operator-in-swift-7f319e40e0bd)
 * [SwiftUI란? Storyboard 및 UIKit 과의 관계](https://www.munon.io/swiftui-started-storyboard-uikit)
+* [SwiftUI 소개 (SwiftUI 강좌)](https://www.munon.io/swiftui-tutorial-introduction/)
+* [SwiftUI 텍스트 다루기 (SwiftUI 강좌)](https://www.munon.io/swiftui-tutorial-text/)
+* [SwiftUI 이미지 구현 (SwiftUI 강좌)](https://www.munon.io/swiftui-tutorial-image/)
+* [SwiftUI 뷰 1 (SwiftUI 강좌)](https://www.munon.io/swiftui-tutorial-view-1/)
 * [TECHCON 2019: MOBILE - iOS 1.네이버 지도 밑그림을 그리는 SDK 개발자가 하는 일](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-ios1-sdk)
 
 ## Library
@@ -431,6 +435,7 @@ iOS
   * [사진 게시판 API 만들기 4](http://blog.yagom.net/571)
   * [사진 게시판 API 만들기 5](http://blog.yagom.net/572)
   * [사진 게시판 API 만들기 6](http://blog.yagom.net/573)
+* [Swift Core ML implementations of Transformers: GPT-2, BERT, more coming soon!](https://github.com/huggingface/swift-coreml-transformers)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
 * [Swifty](http://www.swifty-app.com/)
