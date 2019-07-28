@@ -317,6 +317,7 @@ Javascript
 * [How to understand the keyword this and context in JavaScript](https://medium.freecodecamp.org/how-to-understand-the-keyword-this-and-context-in-javascript-cd624c6b74b8)
 * [The magic of the “this” keyword in JavaScript](https://medium.freecodecamp.org/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e)
 * [JavaScript 개발자라면 꼭 알아야 할 this](https://wormwlrm.github.io/2019/03/04/You-should-know-JavaScript-this.html)
+* ['This is this', JS의 this 알아보기](https://blog.scienceoflove.co.kr/misunderstanding-of-this/)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
@@ -362,6 +363,10 @@ Javascript
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
 * **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
+* [(1부) 프론트엔드 개발 3년차가 말하는 프론트엔드 개발 공부 후기 (라고 쓰고 기초 가이드라고 부르자)](https://www.youtube.com/watch?v=P11h_P1NIb4)
+* [DOM이 뭐죠? jQuery는 왜들 그렇게 좋아한대요? (DOM 공부를 매우 권함 #0)](https://www.youtube.com/watch?v=PizkhskZrKk)
+* [(2부) 프론트엔드 개발자의 CSS in 치앙마이 - 프론트엔드 개발 공부 기초 가이드](https://www.youtube.com/watch?v=X3nszB4g5f0)
+* [(3부) 프론트엔드 개발의 하이라이트, 자바스크립트JavaScript](https://www.youtube.com/watch?v=JbjBF1oFoW4)
 * [Bitimulate :: 가상화폐 모의 투자 / 거래소 개발기](https://velopert.com/3465)
 * [How Do We Even JS? (The Components of Nylas's Javascript Stack)](https://www.nylas.com/blog/how-do-we-even-javascript)
 * [번역 - Modern JavaScript Explained For Dinosaurs](https://march23hare.github.io/2017/11/30/tr-modern-javascript-explained-for-dinosaurs/)
@@ -818,6 +823,7 @@ Javascript
 * [GraphQL Schema Design @ Scale (Marc-André Giroux)](https://www.youtube.com/watch?v=pJamhW2xPYw)
 * [#1 What is GraphQL? | Build a Complete App with GraphQL, Node.js, MongoDB and React.js](https://www.youtube.com/watch?v=7giZGFDGnkc)
 * [How to create a simple bitcoin API with NodeJS & GraphQL — Part I.](https://medium.com/hackernoon/how-to-create-a-simple-bitcoin-api-with-nodejs-graphql-part-i-a8cd8832fed5)
+* [Rest vs Graphql Part 1](https://www.youtube.com/watch?v=k4KZblj3QA0)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1593,6 +1599,7 @@ Javascript
 * [How to think reactively and animate moving objects using RxJs](https://medium.freecodecamp.org/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac)
 * [How to easily ignore useEffect HTTP calls with RxJS](https://medium.freecodecamp.org/how-to-easily-cancel-useeffect-http-calls-with-rxjs-d1be418014e8)
 * [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
+* [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
 * [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
 * [NgRx 5 and Schematics](https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
