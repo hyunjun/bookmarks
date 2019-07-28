@@ -18,6 +18,8 @@ AWS
 * [joinc.co.kr/w/man/12/aws](https://www.joinc.co.kr/w/man/12/aws)
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
+* [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
+* [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
 * [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
 * [AWS Amplify와 React로 어플리케이션 만들기](https://jason0853.github.io/aws/getting-started-with-aws-amplify-and-react/)
 * [Amplify Hands-on](https://docs.google.com/presentation/d/1msxmDS03cLSIwirmEWqBv6S7bUB5ojgQUcJKjVcJnR0/mobilepresent)
@@ -232,7 +234,6 @@ AWS
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
-* [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
 * [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
 * [AWS EC2(Amazon Linux)에 Java8 설치하기](http://jojoldu.tistory.com/261)
 * **[당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)**
