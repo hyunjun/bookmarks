@@ -290,6 +290,7 @@ Hadoop
   * 카프가 사용자들의 Kafka SQL에 대한 불만 해소를 위한 기능
 * [Hive MetaStore 에서 Location은 어떻게 관리될까?](https://charsyam.wordpress.com/2019/04/26/%EC%9E%85-%EA%B0%9C%EB%B0%9C-hive-metastore-%EC%97%90%EC%84%9C-location%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B4%80%EB%A6%AC%EB%90%A0%EA%B9%8C/)
 * [Hive Session Timeouts](https://www.youtube.com/watch?v=YFzjEveOu8c)
+* [order by, sort by, cluster by 의 차이](https://118k.tistory.com/441)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
