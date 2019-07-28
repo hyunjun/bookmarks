@@ -148,6 +148,7 @@ NLP
   * [Precision vs Recall](https://towardsdatascience.com/precision-vs-recall-386cf9f89488)
   * [Comparison of the best NSFW Image Moderation APIs 2018](https://towardsdatascience.com/comparison-of-the-best-nsfw-image-moderation-apis-2018-84be8da65303)
   * [Understand Classification Performance Metrics](https://becominghuman.ai/understand-classification-performance-metrics-cad56f2da3aa)
+  * [민감도와 특이도 (sensitivity and specificity)](https://adnoctum.tistory.com/981)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Repository for PyCon 2016 workshop Natural Language Processing in 10 Lines of Code](https://github.com/cytora/pycon-nlp-in-10-lines)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
