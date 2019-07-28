@@ -1943,6 +1943,7 @@ Python
 * [무료 파이썬 노트북 서비스 5종류 비교 (feat.머신러닝)](https://medium.com/@salaryup/%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%84%9C%EB%B9%84%EC%8A%A4-5%EC%A2%85%EB%A5%98-%EB%B9%84%EA%B5%90-feat-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-c03246f43516)
 * [Jupyter is the new Excel (but not for your boss)](https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314)
 * [주피터 노트북에서 Interactive Widget 사용하기](https://junpyopark.github.io/interactive_jupyter/)
+* [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
 
 ## Jupyter cloud
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
@@ -2898,6 +2899,7 @@ Python
 * [Best practices with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5IBITZj_dYSFqnd_15JgqwA6)
 * [SQL과 파이썬 pandas의 비교](https://github.com/ysunmi0427/smdw/blob/master/sql/lecture00-comparison-between-sql-and-pandas.md)
 * [My top 25 pandas tricks](https://www.youtube.com/watch?v=RlIiVeig3hc)
+* [판다스 코드 속도 최적화를 위한 초보자 안내서](https://aldente0630.github.io/data-science/2018/08/05/a-beginners-guide-to-optimizing-pandas-code-for-speed.html)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
