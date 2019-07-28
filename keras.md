@@ -218,6 +218,7 @@ Keras
 * [쌩(?!)초보자의 Python 케라스(Keras) GAN 코드 분석 (draft)](http://leestation.tistory.com/776)
 * [A collection of Keras GAN notebooks](https://github.com/osh/KerasGAN)
 * [Keras Adversarial Models](https://github.com/bstriner/keras-adversarial)
+* [Keras-BiGAN - BiGAN implementation in Keras to detect similarities in Landscapes](https://github.com/manicman1999/Keras-BiGAN)
 
 # Installation
 * [Installing Keras for deep learning](http://www.pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/)
