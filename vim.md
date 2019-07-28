@@ -152,6 +152,7 @@ Vim
 * [Vim 교정학원 후기](https://lqez.github.io/blog/vimrc-2019.html)
 * [Vim 취약점 발견](https://jybaek.tistory.com/807)
 * [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
+* [Vim + Python + Bash - The Perfect Trio for Productivty](https://www.youtube.com/watch?v=pIgej7rE70E)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)

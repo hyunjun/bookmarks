@@ -1507,6 +1507,8 @@ Python
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
 * [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
+* [PyXLL - The Python Excel Add-In](https://www.pyxll.com/)
+  * [Machine Learning in Excel With Python](https://datascienceplus.com/machine-learning-in-excel-with-python/)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
 * [XlsxWriter - Creating Excel files with Python and XlsxWriter](http://xlsxwriter.readthedocs.io/)
   * practice; encoding 문제로 저장한 csv를 excel에서 열었더니 글자가 깨져 보일 때
@@ -3202,6 +3204,7 @@ Python
   * [How to Mock a name attribute?](http://blog.tunarob.com/2017/04/27/mock-name-attribute)
   * [Allow doubling a particular instance method on all instances of a class](https://github.com/uber/doubles/issues/90)
   * [Today I Learned: 파이썬 단위 테스트 모듈, unittest](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AA%A8%EB%93%88-unittest/)
+  * [Python Unit Testing With VS Code](https://www.youtube.com/watch?v=6baJ5t83820)
 * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 

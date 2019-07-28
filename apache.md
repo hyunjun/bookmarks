@@ -31,6 +31,7 @@ Apache
   * Optimizer가 사용하는 테이블과 컬럼 통계를 보고 연산 가능, Explain pland 시각화 포함
 * [WHY SHOULD YOU CARE ABOUT AMBARI 2.5?](https://hortonworks.com/blog/ambari-2-5/)
   * Apache Ampari 2.5 공개. 서비스 자동 재시작, 로그 로테이션/로그 검색, 개선된 구성 관리와 새로운 모니터링 기능 등이 포함
+* [How to upgrade Apache Ambari 2.6.2 to Apache Ambari 2.7.3](https://www.youtube.com/watch?v=BJfF5jMfAqk)
 
 # [Apex](http://apex.apache.org/) 스트림 및 배치 프로세스 엔진
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
@@ -713,6 +714,8 @@ Apache
   * TPC-H benchmark상으로 속도 향상 및 공간 절약 효과가 상당
 * [Apache Spark Plugin](https://phoenix.apache.org/phoenix_spark.html)
 * [3 Steps for Bulk Loading 1M Records in 20 Seconds Into Apache Phoenix](https://medium.com/hashmapinc/3-steps-for-bulk-loading-1m-records-in-20-seconds-into-apache-phoenix-99b77ad87387) Apache Spark를 사용하여 Apache HBase 및 Apache Phoenix와 호환하는 HFile을 생성하는 방법 설명
+* [Apache Phoenix for CDH](https://www.cloudera.com/downloads/phoenix.html)
+  * [Apache Phoenix for CDH](https://blog.cloudera.com/blog/2019/07/apache-phoenix-for-cdh)
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io ](https://github.com/apache/incubator-predictionio)

@@ -434,6 +434,7 @@ Programming Books
   * [실체가 손에 잡히는 딥러닝(2) “인간의 뇌를 모방한 신경망, 그리고 딥러닝”](https://www.popit.kr/deep-learning-2)
   * [실체가 손에 잡히는 딥러닝(3) “이것만은 꼭 알아두자! 딥러닝의 꽃 - 가중치, 편향, 활성화 함수, 역전파”](https://www.popit.kr/%EC%8B%A4%EC%B2%B4%EA%B0%80-%EC%86%90%EC%97%90-%EC%9E%A1%ED%9E%88%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D3-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EA%BC%AD-%EC%95%8C%EC%95%84%EB%91%90%EC%9E%90)
 * (NOT YET) [파이썬 날코딩으로 알고 짜는 딥러닝](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8585180187)
+* (NOT YET) [알파고를 분석하며 배우는 인공지능](https://jpub.tistory.com/941)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
