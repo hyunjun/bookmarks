@@ -417,6 +417,7 @@ Java
 * [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
   * 여러가지 GC algorithm 기본 동작 방식 소개
 * **[G1: Garbage first garbage collector](https://b.luavis.kr/server/g1-gc)**
+* [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 * [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
