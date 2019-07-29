@@ -451,6 +451,7 @@ Python
   * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
+  * **[파이썬에서 arguments로 *(별표)만 쓴 경우!?](https://sjquant.tistory.com/31)**
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
