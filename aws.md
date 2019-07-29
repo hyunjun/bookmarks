@@ -236,6 +236,8 @@ AWS
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
 * [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
+* [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
+* [Kafka in AWS with SSL Offloading using Load Balancer](https://medium.com/code-tech/kafka-in-aws-with-ssl-offloading-using-load-balancer-c337da1435c3)
 * [AWS EC2(Amazon Linux)에 Java8 설치하기](http://jojoldu.tistory.com/261)
 * **[당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)**
 * [AWS의 오픈 소스 활동을 소개합니다!](https://aws.amazon.com/ko/blogs/korea/onwards-to-the-year-of-open-source)
@@ -349,7 +351,6 @@ AWS
 * [AWS, CloudFormation 을 사용한 WAF 자동 구축 및 운영](https://grip.news/archives/1382)
 * [How to Use AWS Textract to Extract Text from Scanned Documents in S3 Buckets](https://hackernoon.com/how-to-use-aws-textract-to-extract-text-from-scanned-documents-in-s3-buckets-5f85e8ba0a37)
 * [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
-* [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
 * [AWS에서 RStudio 구축하기](https://medium.com/@hslee09/aws-aws%EC%97%90%EC%84%9C-rstudio-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-291d7ff6fa0e)
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
