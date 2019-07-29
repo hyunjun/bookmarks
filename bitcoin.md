@@ -155,6 +155,7 @@ Bitcoin
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
 * [Jade Service Runner - A Bridge for Decentralized Service Development](https://hackernoon.com/jade-service-runner-bd5ca222b7fc)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
+* Polkadot.js [How Polkadot.js Lets You Connect Infinite Parachains](https://medium.com/hackernoon/how-polkadot-js-lets-you-connect-infinite-parachains-9afb13ba7396)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
 * [SavjeeCoin](https://github.com/SavjeeTutorials/SavjeeCoin)
