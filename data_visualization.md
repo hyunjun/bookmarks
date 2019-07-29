@@ -46,6 +46,7 @@ Data Visualization
   * [t-SNE를 이용한 차원 감소](http://bcho.tistory.com/1210)
   * [Let’s Try t-SNE!](https://beta.observablehq.com/@mbostock/lets-try-t-sne)
   * [twoClassTSNE - Pre-Trained Imagenet based two class 2D T-SNE plot using Openfreameworks](https://github.com/bemoregt/twoClassTSNE)
+  * [Comprehensive guidance for using Barnes-Hut t-SNE](https://github.com/kdhht2334/Barnes-Hut_t-SNE)
 * [CONVEX HULL을 이용한 CLUSTERING 결과물 시각화](http://lumiamitie.github.io/r/python/chull-for-r-py/)
 * [서울에서 월세 싼 동네, 어디일까](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002226293)
 * [데이터 시각화로 본 글로벌 생태발자국](http://techholic.co.kr/archives/58848)
