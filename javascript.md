@@ -2204,6 +2204,7 @@ Javascript
 * [00. Redux-Saga?](https://www.vobour.com/00-redux-saga-)
 * [Redux-Saga tutorial for beginners and dog lovers](https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645)
 * [리액트 사가 사용하기 (타입스크립트 버전) - 1편](http://jeonghwan-kim.github.io//dev/2019/07/22/react-saga-ts-1.html)
+* [리액트 사가 사용하기 (타입스크립트 버전) - 2편](http://jeonghwan-kim.github.io//dev/2019/07/29/react-saga-ts-2.html)
 * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (i)](https://velopert.com/3528)
 * [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
 * [Exploring the what and the why of Redux](https://medium.freecodecamp.org/exploring-the-what-and-the-why-of-redux-6faadab4768b)
