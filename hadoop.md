@@ -114,6 +114,9 @@ Hadoop
       * 테이블마다 일정한 임계값(가급적 시간 임계값)을 선택하여 오랜 시간이 지난 데이터를 HDFS에서 삭제 가능
       * 파티션 삭제는 스토리지 관리 계층에서 매우 기본적이면서 필요한 기능
 * **[HDFS의 Heterogeneous Storage 적용기 - Pinpoint 비용 효율화](https://d2.naver.com/helloworld/7702933)**
+* [Cloudera](https://www.youtube.com/watch?v=qRfgAqkmQDY)
+* [Cloudera 하둡 빅데이터 플랫폼](https://www.youtube.com/watch?v=jtuVqwSlDKQ)
+* [NVIDIA Volta GPU Architecture](https://www.youtube.com/watch?v=-8BwJRxgWWg)
 
 # Book
 * [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)
