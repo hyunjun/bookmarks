@@ -229,6 +229,7 @@ AWS
 * [Amazon SageMaker를 통한 美 대학 농구 결과 예측하기](https://aws.amazon.com/ko/blogs/korea/march-machine-learning-madness)
 * [Amazon SageMaker IP Insights 알고리즘을 사용하여 의심스러운 IP 주소 탐지하기](https://aws.amazon.com/ko/blogs/korea/detect-suspicious-ip-addresses-with-the-amazon-sagemaker-ip-insights-algorithm/)
 * [SageMaker  DeepRacer](https://drive.google.com/file/d/1rWvwV0meAvYflcgAGbAwoRzL3PNWFw_z/view)
+* [Amazon SageMaker Technical Deep Dive](https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
