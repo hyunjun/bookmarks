@@ -859,6 +859,7 @@ Java
   * [Victor Rentea - Unit Testing like a Pro: The Circle of Purity](https://www.youtube.com/watch?v=1Z_h55jMe-M)
   * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
   * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
+  * [연과 백엔드 팀은 유닛 테스트를 어떻게 할까?](https://blog.scienceoflove.co.kr/how-sol-tdd)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Web
