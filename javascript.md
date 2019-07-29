@@ -582,6 +582,7 @@ Javascript
 * [Running Angular project unit-tests on Stackblitz](https://hackernoon.com/running-angular-project-unit-tests-on-stackblitz-bc091abbfcc9)
 * [Building an enterprise-grade Angular project structure](https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3)
 * [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c)
+* [Exploring the Various Decorators in Angular](https://netbasal.com/exploring-the-various-decorators-in-angular-b208875b207c)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
