@@ -444,6 +444,7 @@ Vision
 * [안드로이드 OpenCV 사용하기](https://brunch.co.kr/@mystoryg/76)
 * [안드로이드 OpenCV 실시간 얼굴 검출](https://brunch.co.kr/@mystoryg/77)
 * [파이썬 업무자동화 04.카카오톡 메세지를 자동으로 보내보자!](https://www.youtube.com/watch?v=oNjRH1Cz9k4)
+* [파이썬 업무자동화 05.이미지크기를 간편하게 줄여보자!](https://www.youtube.com/watch?v=H-TTdB1TIco)
 * [Train Image Recognition AI with 5 lines of code](https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba)
 
 # OpenGL
