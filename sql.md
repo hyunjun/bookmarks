@@ -72,6 +72,7 @@ SQL
 * [SQL Best Practices — Designing An ETL Video](https://hackernoon.com/sql-best-practices-designing-an-etl-video-1933665f9861)
 * **[DBMS 버퍼 관리의 두 가지 흐름 가상 메모리 페이지 교체 알고리즘 활용…페이지 부재 발생 빈도 줄여 성능 향상](http://www.datanet.co.kr/news/articleView.html?idxno=115592)**
 * [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558)
+* [What is Sharding?](https://medium.com/@radixdlt/what-is-sharding-6ca10b72cbd1)
 * [중국의 어떤 서버 개발자의 디비 설계](https://blog.naver.com/imays/221461537682)
   * [practice - 중국의 어떤 서버 개발자의 디비 설계](https://gist.github.com/hyunjun/0f83fd13165444e38645a74bc4e1c1f1#file-db_design-md)
 * [관계형 데이터 모델링](https://opentutorials.org/module/4134)
