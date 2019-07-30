@@ -371,6 +371,7 @@ AWS
 * [How to import Google BigQuery tables to AWS Athena](https://medium.freecodecamp.org/how-to-import-google-bigquery-tables-to-aws-athena-5da842a13539)
 * [Athena를 Zeppelin과 함께 쓰기](https://b.luavis.kr/server/zeppelin-with-athena)
 * [Amazon Athena 및 Amazon QuickSight를 활용한 2백년간 글로벌 기후 데이터 시각화](https://aws.amazon.com/ko/blogs/korea/visualize-over-200-years-of-global-climate-data-using-amazon-athena-and-amazon-quicksight)
+* [AWS에서 데이터처리 맛보기 AWS S3, Athena, Quicksight](https://jen6.github.io/2019/07/aws-aws-s3-athena-quicksihtiaws.html)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
