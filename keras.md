@@ -18,7 +18,9 @@ Keras
 * [Keras로 대용량 이미지 처리하기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%85%E1%85%A9_%E1%84%83%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.md)
 * [What are good resources/tutorials to learn Keras (deep learning library in Python)?](https://www.quora.com/What-are-good-resources-tutorials-to-learn-Keras-deep-learning-library-in-Python)
 * [Regression Tutorial with the Keras Deep Learning Library in Python](http://machinelearningmastery.com/regression-tutorial-keras-deep-learning-library-python/)
-* [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
+* [keras-rl - Deep Reinforcement Learning for Keras. http://keras-rl.readthedocs.io ](https://github.com/keras-rl/keras-rl)
+  * [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
+  * [Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
 * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
 * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
 * [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
@@ -156,7 +158,6 @@ Keras
   * Alphago Zero방법론 복제를 통한 게임 Connect4를 플레이 구축
   * 다른 게임을 플러그인하기 위해 코드를 적용하는 방법
 * [Python/Keras implementation of integrated gradients presented in "Axiomatic Attribution for Deep Networks" for explaining any model defined in Keras framework](https://github.com/hiranumn/IntegratedGradients)
-* [Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
 * **[Hallucinogenic Deep Reinforcement Learning Using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)**
 * [Using Keras via Docker](https://github.com/keras-team/keras/tree/master/docker)
 * [Simple guide on how to generate ROC plot for Keras classifier](https://hackernoon.com/simple-guide-on-how-to-generate-roc-plot-for-keras-classifier-2ecc6c73115a)
