@@ -169,6 +169,7 @@ Javascript
 * [visualizing map distortion](http://bl.ocks.org/enjalot/bd552e711b8325c64729)
 * [Visualising Program Execution](http://janpaulposma.nl/visualising-program-execution/)
 * [JavaScript Tutor - Visualize JavaScript code execution to learn JavaScript online](http://pythontutor.com/javascript.html#mode=edit)
+* [JavaScript Visualizer - A tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript](https://tylermcginnis.com/javascript-visualizer/)
 * [How do JavaScript closures work under the hood](http://dmitryfrank.com/articles/js_closures)
 * [Why use "closure"?](https://howtonode.org/why-use-closure)
 * [자바스크립트 클로저(Closure)에 대해서](http://blog.outsider.ne.kr/506)
