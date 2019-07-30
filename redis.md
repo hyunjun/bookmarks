@@ -4,6 +4,7 @@ Redis
 * [joinc.co.kr/REDIS](https://www.joinc.co.kr/w/man/12/REDIS)
 * [practice - architecture, usage tip](https://gist.github.com/hyunjun/4ab30f4ebd401bcb0e60aabbab0b97bc)
 * [practice - logging](https://gist.github.com/hyunjun/4ab30f4ebd401bcb0e60aabbab0b97bc#file-logging-md)
+* [practice - coupang 오류 관련 내용](https://gist.github.com/hyunjun/4ab30f4ebd401bcb0e60aabbab0b97bc#file-coupang-md)
 * [Redis 자료구조](http://daddycat.blogspot.com/2017/07/redis.html)
 * [Writing a Redis client in pure Bash](http://digitalserb.me/writing-a-redis-client-in-pure-bash/)
 * [advanced-redis](https://github.com/iamtrk/advanced-redis)
