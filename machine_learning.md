@@ -1,6 +1,6 @@
 Machine Learning
 ================
-* [Machine Learning Operations (ML + DevOps = MLOps)](https://github.com/EthicalML/awesome-machine-learning-operations)
+* [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
   * [SCALABLE MACHINE LEARNING - THE STATE OF DATAOPS / MLOPS IN 2018](https://axsauze.github.io/scalable-data-science)
   * [머신러닝 오퍼레이션 자동화, MLOps](https://zzsza.github.io/mlops/2018/12/28/mlops/)
 * [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
