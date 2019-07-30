@@ -656,6 +656,7 @@ Java
 * [JPA 상속관계 매핑(@MappedSuperclass, @Inheritance,@DiscriminatorValue,@DiscriminatorColumn)](http://www.slideshare.net/topcredu/jpa-mappedsuperclass-inheritancediscriminatorvaluediscriminatorcolumn)
 * [레거시DB JPA 예: 복합키를 사용하는 테이블의 밸류 콜렉션](http://javacan.tistory.com/entry/LegacyDB-JPA-Value-Collection-Using-Composite-Key)
 * [Spring Data Specification 단순 조합을 위한 간단한 SpecBuilder](http://javacan.tistory.com/entry/Simple-Simple-Builder-for-Spring-Data-Specification-Composition)
+* [스프링 데이터 JPA : Pageable 대신 일정 범위 조회 기능 추가하기](https://javacan.tistory.com/entry/spring-data-jpa-range-query)
 * [JPA에서 대량의 데이터를 삭제할때 주의해야할 점](http://jojoldu.tistory.com/235)
 * [레거시 DB+JPA(+DDD 구현 패턴) 적용기](https://www.slideshare.net/madvirus/dbjpaddd)
 * [ID로 다른 애그리게잇을 참조하라](https://www.popit.kr/id%EB%A1%9C-%EB%8B%A4%EB%A5%B8-%EC%95%A0%EA%B7%B8%EB%A6%AC%EA%B2%8C%EC%9E%87%EC%9D%84-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%9D%BC)
