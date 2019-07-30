@@ -19,6 +19,7 @@ AWS
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
+* **[서버리스 GraphQL 워크샵](https://github.com/tonyfromundefined/serverless-graphql-workshop)**
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
 * [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
 * [AWS Amplify와 React로 어플리케이션 만들기](https://jason0853.github.io/aws/getting-started-with-aws-amplify-and-react/)
