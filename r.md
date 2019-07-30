@@ -531,6 +531,8 @@ R
   * [shiny_lecture](https://github.com/jypstory/shiny_lecture)
   * [Shiny 반응형(reactive) 웹앱 개발](https://statkclee.github.io/data-product/shiny-reactive.html)
   * [ShinyApps를 R 패키지로 만들기](https://blog.anpanman.co.kr/posts/2019-02-10-from-shiny-to-rpackage)
+  * [shiny-apps/voice](https://github.com/yihui/shiny-apps/tree/master/voice)
+  * [shiny-apps/face-pi](https://github.com/yihui/shiny-apps/tree/master/face-pi)
   * [Using Shiny with Scheduled and Streaming Data](https://rviews.rstudio.com/2017/11/15/shiny-and-scheduled-data-r/)
   * [Shiny 활용 의학연구지원 경험](https://blog.zarathu.com/posts/2019-05-10-shinymedicalresearch/)
   * [구글 클라우드를 활용한 R Shiny Web App 구현하기](https://cozydatascientist.tistory.com/63)
