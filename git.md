@@ -19,6 +19,7 @@ Git
 * [Git이란 무엇일까요?](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB06JE7zFIAOJtdcZBVrap)
 * [Git 의 기초](https://medium.com/@joongwon/git-git-%EC%9D%98-%EA%B8%B0%EC%B4%88-a7801f45091d)
 * [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
+* [Git과 Github 소개](https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465)
 * **[깃을 위한 flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)**
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
@@ -75,7 +76,8 @@ Git
 * [04 Yong Seong Song -애저 웹앱을 사용하여 GIT을 활용한 게임 리소스 관리하기](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Korea-Influencer-Showcase/04-Yong-Seong-Song-Game-Development-by-GIT/)
 * [Git 더하기 GitHub](http://www.slideshare.net/ssusercef361/git-github-62006866)
 * [GitHub에서 커밋에 서명하기](https://blog.outsider.ne.kr/1209?category=18)
-* [자바 기반의 GIT 관리 서버 ( Windows GIT 서버 구축)](https://gs.saro.me/#!m=elec&jn=714)
+* [윈도우버전 Git설치하기 (Git for Windows)](https://coding-factory.tistory.com/245)
+* [자바 기반의 GIT 관리 서버 (Windows GIT 서버 구축)](https://gs.saro.me/#!m=elec&jn=714)
 * [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * Git 내부 구조를 알아보자
   * [(0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
@@ -166,6 +168,7 @@ Git
 * [깃허브 패키지 레지스트리 베타 발표 언어 별 패키지 매니저 지원 및 깃헙 권한으로 접근 제어 등](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
 * **[Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)**
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
+* [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
@@ -525,7 +528,7 @@ Git
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [Gitiny - iOS app for GitHub with exploring trending](https://github.com/k-lpmg/GiTiny)
   * [GiTiny - appstore](https://itunes.apple.com/app/tiny-github/id1461424565)
-* [Git-it is a desktop (Mac, Windows and Linux) app that teaches you how to use Git and GitHub on the command line](https://github.com/jlord/git-it-electron)
+* [Git-it - a desktop (Mac, Windows and Linux) app that teaches you how to use Git and GitHub on the command line](https://github.com/jlord/git-it-electron)
   * [Git-it-electron 한글화 버전](https://github.com/nallwhy/git-it-electron)
 * [GitKraken](https://www.gitkraken.com/)
   * [GitKraken 설치와 Clone](https://www.youtube.com/watch?v=B_UQKXgZkQo)
