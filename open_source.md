@@ -191,6 +191,7 @@ Open Source
 * [네이버의 FE 오픈소스 에서 까지](http://netil.github.io/slides/naver-fe-oss/)
 * [제2회 네이버 오픈소스 세미나 발표 자료를 공유합니다](http://d2.naver.com/news/1042403)
 * [네이버 오픈소스 세미나에서 발표한 "오픈소스 생태계 일원으로서의 개발자" 발표자료](https://blog.outsider.ne.kr/1355)
+* [버그바운티 참여과정과 네이버 버그 바운티](https://www.youtube.com/watch?v=EzploHmf7x4)
 
 # Netflix
 * [OSS](http://netflix.github.io/)
