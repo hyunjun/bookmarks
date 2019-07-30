@@ -201,6 +201,9 @@ Deep Learning
 * [How to draw Deep learning network architecture diagrams?](https://datascience.stackexchange.com/questions/14899/how-to-draw-deep-learning-network-architecture-diagrams)
 * [When Does Deep Learning Work Better Than SVMs or Random Forests?](http://www.kdnuggets.com/2016/04/deep-learning-vs-svm-random-forest.html)
 * [openai.com](https://openai.com)
+  * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
+    * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
+    * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://blog.naver.com/cjsdyd2000/221263903468)
   * [OpenAI Gym Beta](https://openai.com/blog/openai-gym-beta/)
     * [AI Gym Workout](https://learningai.io/projects/2017/07/28/ai-gym-workout.html)
     * [Walker2D: Learning Progression](https://www.youtube.com/watch?v=irkXnpZP89s)
@@ -218,11 +221,9 @@ Deep Learning
   * [atari_py - A Windows-MSYS2-MinGW compatible version of https://github.com/openai/ale_python_interface](https://github.com/rybskej/atari-py)
   * [강화학습 그리고 OpenAI - 1: Introduction to OpenAI](http://www.modulabs.co.kr/RL_library/1705)
   * [Gathering Human Feedback](https://blog.openai.com/gathering_human_feedback/)
-  * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
   * [OpenAI GYM atari-py 설치 오류 해결](http://rrbb014.tistory.com/43)
   * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
   * [Rendering OpenAi Gym in Colaboratory.ipynb](https://colab.research.google.com/drive/1flu31ulJlgiRL1dnN2ir8wGh9p7Zij2t#scrollTo=8nj5sjsk15IT)
-  * [OpenAi Baselines을 깔면서 나타나는 오류를 잡아보자](https://m.blog.naver.com/cjsdyd2000/221263903468)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
@@ -1443,6 +1444,7 @@ Deep Learning
 * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe)
   * [인공신경망 학습 레시피 (번역)](https://medium.com/@bntejn/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%B2%88%EC%97%AD-70c5e58341ec?sk=f53042d49fa609d30c80e26f2f7f6b41)
 * [First neural network for beginners explained (with code)](https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf)
+* [simple-neural-networks/simple_nn.py](https://github.com/positive235/simple-neural-networks/blob/master/simple_nn.py)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -2145,6 +2147,7 @@ CVPR2016)
 * [Prologue](https://sumniya.tistory.com/1)
 * [Deep Reinforcement Learning, Summer 2019 (Samsung)](https://github.com/dongminlee94/Samsung-DRL-Code)
 * [How to study Reinforcement Learning](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki)
+* [ELF - An End-To-End, Lightweight and Flexible Platform for Game Research](https://github.com/facebookresearch/ELF)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
