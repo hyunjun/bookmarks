@@ -591,6 +591,8 @@ Python
   * [사전 자료형, 불린 조합 표현식](https://brunch.co.kr/@daejin/31)
   * [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
   * [Python3에서 NestedDict 내의 특정 키값을 이용해서 Value를 가져오기](https://medium.com/@elastic7327/python3에서-nesteddict-내의-특정-키값을-이용해서-value를-가져오기-f81d922c932e)
+* dis
+  * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
   * [practice - float sum](https://github.com/hyunjun/practice/blob/master/python/test-float/test_float_sum.py)
   * [round() in Python doesn't seem to be rounding properly](http://stackoverflow.com/questions/56820/round-in-python-doesnt-seem-to-be-rounding-properly) `float(format(num, '.2f'))`
@@ -925,6 +927,7 @@ Python
   * [파이썬 객체의 직렬화와 역직렬화: 2부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-2--cms-26184)
 * sets
   * [Python Data Structures: Sets, Frozensets, and Multisets (Bags)](https://www.youtube.com/watch?v=b-K1ujf8u_k)
+  * [You Should Use Python Sets](https://dev.to/dbanty/you-should-use-python-sets-1d14)
 * setup.py, distutils, packaging
   * [setup.py와 requirements.txt의 차이점과 사용 방법](http://haruair.com/blog/3719)
   * [파이썬 프로젝트 시작하기 - Distutils](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-distutils/)
