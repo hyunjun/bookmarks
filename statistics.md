@@ -178,6 +178,7 @@ Statistics
 * [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
 * [Derivation of the Multivariate Normal Distribution](https://teamdable.github.io/techblog/Derivation-of-the-Multivariate-Normal-Distribution)
 * [Statistical-Inference](https://github.com/KaggleBreak/Statistical-Inference)
+* [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
