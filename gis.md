@@ -8,7 +8,7 @@ GIS
 * [오픈소스GIS 개발 일반 강의자료](https://www.slideshare.net/jangbi882/gis-73194454)
 * [PostGIS와 함께하는 GIS 3세대 - FOSS4G Korea 2017](https://www.slideshare.net/jangbi882/postgis-gis-3-foss4g-korea-2017)
 * [Hello, Geo-fence!](http://woowabros.github.io/experience/2018/03/31/hello-geofence.html)
-* **[배달아~ 배달 가는길 알려줘!(단호함)](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)** 배달 거리 계산. A*
+* **[배달아~ 배달 가는길 알려줘!(단호함)](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html)** 배달 거리 계산. A\*
 * what3words [지도의 혁신으로 소니 등 굴지의 기업에서 1,500억 원 투자를 이끌어 낸, 영국 남자 이야기](https://ppss.kr/archives/193927)
 
 # Python
