@@ -52,3 +52,15 @@ English
 * [feature toggle 용어](http://knight76.tistory.com/entry/feature-toggle-%EC%9A%A9%EC%96%B4)
 * [두괄식 글쓰기: 영어 논문을 'Poor English'로 리젝 당하지 않는법](http://keunwoochoi.blogspot.com/2017/05/poor-english.html)
 * [Statement from John Farrell](https://gist.github.com/hyunjun/575011d69b02b8b248c73690aa5448df)
+* [미국 회사에서 쓰이는 영어 표현 다섯 가지 1탄](https://www.youtube.com/watch?v=jRgmv_12_X4)
+  * 1. That’s another way of looking at it
+  * 2. Throw someone under the bus
+  * 3. Be on the same page
+  * 4. Whatever it takes
+  * 5. That said = With that said = With that being said
+* [미국 회사에서 쓰이는 영어 표현 다섯 가지 2탄](https://www.youtube.com/watch?v=S_oONRcDZ5s)
+  * 1. Keep me posted/updated
+  * 2. Unless
+  * 3. Would prefer
+  * 4. Take a step back
+  * 5. Miss out on
