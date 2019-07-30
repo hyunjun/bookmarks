@@ -224,6 +224,7 @@ Deep Learning
   * [OpenAI GYM atari-py 설치 오류 해결](http://rrbb014.tistory.com/43)
   * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
   * [Rendering OpenAi Gym in Colaboratory.ipynb](https://colab.research.google.com/drive/1flu31ulJlgiRL1dnN2ir8wGh9p7Zij2t#scrollTo=8nj5sjsk15IT)
+  * [multiprocessing에서 gym이 오작동하는 경우](https://ysr-plus-ultra.github.io/posts/2019/07/30/post004.html)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
 * [Neural Programmer-Interpreters](http://www-personal.umich.edu/~reedscot/iclr_project.html)
 * [Video Recordings of the ICML’15 Deep Learning Workshop](http://dpkingma.com/?page_id=483)
