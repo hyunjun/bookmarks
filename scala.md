@@ -606,6 +606,7 @@ Scala
   * [9 tips about using cats in Scala you might want to know](https://blog.softwaremill.com/9-tips-about-using-cats-in-scala-you-might-want-to-know-e1bafd365f88)
   * [Adopting Cats - Ron Aharoni](https://www.youtube.com/watch?v=4ODUEbowkBM)
   * [Scala — cats nice tricks and fun](https://medium.com/@regis.leray/scala-cats-nice-tricks-and-fun-30b5cb97fab3)
+  * [Marvels of functional programming: Launching Iron man with monads - Voxxed Days Singapore 2019](https://www.youtube.com/watch?v=YDFa4MmyY8Y)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
