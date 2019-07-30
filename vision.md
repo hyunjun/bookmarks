@@ -497,6 +497,7 @@ Vision
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
   * [DeepIsolation.ipynb](https://colab.research.google.com/drive/1azCXH4udXSTkEf3JLihdMTPoCKB7IETq)
+* [EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse](https://github.com/clovaai/EXTD_Pytorch)
 * [facenet - Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
 * [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
