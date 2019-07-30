@@ -108,6 +108,7 @@ R
 * [speech-keras](https://github.com/dfalbel/speech-keras)
 * [R에서 구현한 Keras](https://www.youtube.com/watch?v=Iua-Z36J80A)
 * [Custom Loss functions for Deep Learning: Predicting Home Values with Keras for R](https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f)
+* [사전훈련망 Xception과 케라스 그리고 R Shiny 인공지능 시각화 R GO! #7하자!](https://www.youtube.com/watch?v=h-iscWhqrFo)
 * [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
