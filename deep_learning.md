@@ -853,6 +853,7 @@ Deep Learning
 * **[Hands-On Reinforcement Learning With Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)**
 * [좌충우돌 강화 학습의 이론과 구현 (원고)](http://books.sumeun.org/index.php/2019/01/14/sumeunrl/)
 * [deep-learning-books](https://github.com/devakar/deep-learning-books)
+* [Deep Learning Book Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
