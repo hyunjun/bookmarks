@@ -271,6 +271,7 @@ Javascript
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
+  * [JavaScript Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-oct-2018-794166642b96)
   * [JavaScript Top 10 Articles for the Past Month (v.July 2019)](https://medium.com/@Mybridge/javascript-top-10-articles-for-the-past-month-v-july-2019-5664b29f56d5)
   * [JavaScript Open Source of the Month (v.June 2019)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-june-2019-a3d274fe11b6)
   * [JavaScript Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/javascript-top-10-articles-for-the-past-month-v-june-2019-2184efc028df)
@@ -504,6 +505,7 @@ Javascript
   * What alternative languages are there for writing modern frontend applications today?
   * What are the learning curves, best use cases, pros and cons for each of them?
 * [Why is there so much to learn in web development?](https://medium.com/@mattburgess/why-is-there-so-much-to-learn-in-web-development-41adbc54731c)
+* [Beginning your Web Development Journey? Start Here](https://medium.com/hackernoon/beginning-your-web-development-journey-start-here-7084346f5762)
 * [nike-app-sample](https://chading.net/nike-app-sample/)
 * [Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 
@@ -585,6 +587,7 @@ Javascript
 * [Building an enterprise-grade Angular project structure](https://itnext.io/building-an-enterprise-grade-angular-project-structure-f5be32533ba3)
 * [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c)
 * [Exploring the Various Decorators in Angular](https://netbasal.com/exploring-the-various-decorators-in-angular-b208875b207c)
+* [Connect Angular Forms to Akita Store](https://netbasal.com/connect-angular-forms-to-akita-store-d51845f621cd)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
