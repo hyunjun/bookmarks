@@ -153,6 +153,7 @@ Interview
 * [rachitiitr.com](https://www.rachitiitr.com/)
   * [Uber SDE II Interview Experience](https://www.youtube.com/watch?v=0Vmtmqa9Og0)
   * [Goldman Sachs Interview - The Tree Question | Part II](https://www.youtube.com/watch?v=D1Tv5cCs1d8)
+* **[소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/66)**
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -329,6 +330,7 @@ Interview
   * [아마존 AI 알렉사는 어떻게 인간의 언어를 이해할까](http://clomag.co.kr/article/3103)
   * [How to Build an App like Zomato? (Zomato Clone)](https://www.engineerbabu.com/blog/how-to-build-app-like-zomato/)
   * [How Google searches one document among Billions of documents quickly?](https://www.youtube.com/watch?v=CeGtqouT8eA)
+  * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
@@ -421,11 +423,13 @@ Interview
 * [careercup.com](https://www.careercup.com)
 * [checkio.org](https://checkio.org/) python, javascript
 * [codebasil.com](https://codebasil.com)
-* [codela.io](https://www.codela.io)
-* [code-fight.club](http://code-fight.club/)
 * [codechef](https://www.codechef.com/)
+* [code-fight.club](http://code-fight.club/)
 * [codefights.com](https://codefights.com/)
 * [codeforces](http://codeforces.com/)
+* [codeinterview.io](https://codeinterview.io/)
+* [codela.io](https://www.codela.io)
+* [coderbyte.com](https://www.coderbyte.com/)
 * [codewars - Achieve mastery through challenge Improve your skills by training with others on real code challenges](http://www.codewars.com/)
 * [codility.com](https://codility.com/)
   * [codility.com/programmers/lessons](https://codility.com/programmers/lessons)
