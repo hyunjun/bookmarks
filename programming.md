@@ -66,7 +66,6 @@ Programming
 * [The programming talent myth](http://lwn.net/Articles/641779/)
 * [9 Anti-Patterns Every Programmer Should Be Aware Of](http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html)
 * [Future Programming Workshop](http://www.future-programming.org/call.html)
-* [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 * [마세라티 문제](http://www.venturesquare.net/585839)
 * [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](http://channel9.msdn.com/posts/Erik-Meijer-and-Gilad-Bracha-Dart-Monads-Continuations-and-More)
@@ -81,7 +80,6 @@ Programming
 * [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4)
 * [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
 * [Molecular Programming Project](http://molecular-programming.org/)
-* [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [2018 개발자 추천 블로그 10선](https://www.huskyhoochu.com/suggested-blogs)
 * [주니어 개발자를 위한 논어](http://ppss.kr/archives/49063)
 * [Inductive Logic Programming - Techniques and Applications](http://www-ai.ijs.si/SasoDzeroski/ILPBook/ILPbook.pdf)
@@ -1276,6 +1274,7 @@ Programming
   * [월간 개발자스럽다 #42](https://blog.gaerae.com/2019/04/monthly.html)
   * [월간 개발자스럽다 #43](https://blog.gaerae.com/2019/05/monthly.html)
   * [월간 개발자스럽다 #44](https://blog.gaerae.com/2019/06/monthly.html)
+  * [월간 개발자스럽다 #45](https://blog.gaerae.com/2019/07/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 
 # OS Operating System
@@ -1417,6 +1416,11 @@ Programming
   * [Protocol Buffers - overview](https://jusths.tistory.com/125)
 * [UBJSON](http://ubjson.org/)
 
+# Software Engineering
+* [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
+* [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
+
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
@@ -1486,6 +1490,7 @@ Programming
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
 * [5 Reasons to A/B Test Your App Store Product Page](https://hackernoon.com/https-hackernoon-com-5-reasons-to-a-b-test-your-app-store-product-page-379551f287b4)
+* [실무에서 활용하는 A/B테스트](https://www.slideshare.net/cojette/ab-150118831)
 * [구글 애널리틱스 A/B 테스트 쉽게 하기(쿠키 + demension 활용)](https://medium.com/daangn/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4-demension-%ED%99%9C%EC%9A%A9-6f994e1247e8)
 * [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
 * [Two pillars of automated testing](https://hackernoon.com/two-pillars-of-automated-testing-13d0c2c6a7c)
