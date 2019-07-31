@@ -547,6 +547,7 @@ Machine Learning
 * [machine learning](https://csinva.github.io/pres/189/)
 * [10 Best Machine Learning YouTube Videos](https://www.springboard.com/blog/machine-learning-youtube)
 * [Runway ML - Machine learning for creators](https://runwayml.com/)
+* [온라인서점고객세분화: 리비젼 전용준 머신러닝 190731](https://www.youtube.com/watch?v=cgV_BFavkxU)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
