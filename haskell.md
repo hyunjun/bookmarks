@@ -1,5 +1,6 @@
 Haskell
 =======
+* **[Introducing the Haskell Phrasebook](https://typeclasses.com/news/2019-07-phrasebook)** Go By Example처럼 예제로 소개
 * [school of haskell](https://www.schoolofhaskell.com/)
 * [fpcomplete.com](https://www.fpcomplete.com)
   * [Haskell Web Server in a 5MB Docker Image](https://www.fpcomplete.com/blog/2015/05/haskell-web-server-in-5mb)
