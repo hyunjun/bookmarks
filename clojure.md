@@ -283,7 +283,7 @@ Clojure
 * [Clojure 허쉴?](https://www.youtube.com/watch?v=KlcsvIj-0AY)
 * [Clojure 개발 환경 셋업 #1 - Leiningen](https://www.youtube.com/watch?v=0Y_jRgcVrq0)
 * [Clojure 개발 환경 셋업 #2 - REPL](https://www.youtube.com/watch?v=1QyUz-FUCWM)
-* [Clojure 개발 환경 셋업 #3 - Calva](https://www.youtube.com/watch?v=_9x8mjZ4OWo)
+* [Clojure 개발 환경 셋업 #3 - Calva](https://www.youtube.com/watch?v=7UVgW-A-e9g) [33:05~33:45](https://www.youtube.com/watch?v=8AJkLS7YqFg)
 * [Stuart Halloway Aim Small, Miss Small: Writing Correct Programs](https://www.deconstructconf.com/2018/stuart-halloway-aim-small-miss-small-writing-correct-programs)
 * [Clojure socket prepl cookbook](https://oli.me.uk/2019-03-22-clojure-socket-prepl-cookbook/)
 
