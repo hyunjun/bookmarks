@@ -436,6 +436,8 @@ Programming Books
   * [실체가 손에 잡히는 딥러닝(3) “이것만은 꼭 알아두자! 딥러닝의 꽃 - 가중치, 편향, 활성화 함수, 역전파”](https://www.popit.kr/%EC%8B%A4%EC%B2%B4%EA%B0%80-%EC%86%90%EC%97%90-%EC%9E%A1%ED%9E%88%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D3-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EA%BC%AD-%EC%95%8C%EC%95%84%EB%91%90%EC%9E%90)
 * (NOT YET) [파이썬 날코딩으로 알고 짜는 딥러닝](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8585180187)
 * (NOT YET) [알파고를 분석하며 배우는 인공지능](https://jpub.tistory.com/941)
+* (NOT YET) [실전 예제로 배우는 GAN - 파이썬, 텐서플로, 케라스로 다양한 GAN 아키텍처를 구축하고 활용하기](https://wikibook.co.kr/gan/)
+* (NOT YET) [파이썬을 이용한 머신러닝, 딥러닝 실전 앱 개발 - 실무에서 즉시 활용 가능한 머신러닝, 딥러닝 실전 앱 개발](https://wikibook.co.kr/python-ml-app-dev/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -519,6 +521,7 @@ Programming Books
 * (NOT YET) [머신 러닝 알고리즘 파이썬 예제와 함께 배우는 머신 러닝](http://acornpub.co.kr/book/ml-algorithms)
 * (NOT YET) [머신러닝 TensorFlow.js JavaScript - 자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188034357)
 * (NOT YET) [머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로 - Python Machine Learning 2/E : Numpy, scikit-learn 0.2x, TensorFlow 2.x로 배우는 머신 러닝, 딥러닝 핵심 알고리즘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=191948149)
+* (NOT YET) [전문가를 위한 머신러닝 솔루션 - 파이썬을 이용한 머신러닝 고급 문제 해결 기법]((https://wikibook.co.kr/ml-solutions/)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -639,6 +642,7 @@ Programming Books
 * (NOT YET) [Docker로 PaaS 구성하기](http://book.daum.net/detail/book.do?bookid=BOK00030207228YE)
   * 2017.06 한라
 * (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
+* (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
@@ -672,7 +676,8 @@ Programming Books
 * (NOT YET) [일래스틱서치 쿡북 3/e 170가지 단계별 레시피](http://acornpub.co.kr/book/elasticsearch-cookbook-3)
 * (NOT YET) [실전비급 아파치 루씬 7](http://www.hanbit.co.kr/store/books/look.php?p_code=E1000467446)
 * (NOT YET) [실전비급 엘라스틱 스택 6.4](http://www.hanbit.co.kr/store/books/look.php?p_code=E2111484583)
-* (NOT YET) [엘라스틱서치 실무 가이드](https://www.facebook.com/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%8B%A4%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-343249896296014)
+* (NOT YET) [엘라스틱서치 실무 가이드 - 한글 검색 시스템 구축부터 대용량 클러스터 운영까지](https://wikibook.co.kr/practical-elasticsearch/)
+  * [엘라스틱서치 실무 가이드](https://www.facebook.com/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%8B%A4%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-343249896296014)
 
 # Finance
 
@@ -943,6 +948,7 @@ Programming Books
 * (NOT YET) [Vue.js 2 Cookbook](http://jybaek.tistory.com/737)
 * [Vue.js 개발자를 위한 ES6 입문서(무료)](https://joshua1988.github.io/es6-online-book/) ebook
 * (NOT YET) [고양이도 할수있는 Vue.js](https://jpub.tistory.com/923)
+* (NOT YET) [Vue.js 철저 입문 - 기초부터 실전 애플리케이션 개발까지](https://wikibook.co.kr/vuejs/)
 
 # Kafka
 
@@ -1129,6 +1135,7 @@ Programming Books
 * [게임 프로그래밍 패턴 (Game Programming Patterns) / 로버트 나이스트롬](http://ohyecloudy.com/pnotes/archives/book-game-programming-patterns/)
 * [객체지향의 사실과 오해](http://blog.woniper.net/348)
   * [클래스가 이데아라니](http://imcreator.tistory.com/m/87)
+* (NOT YET) [오브젝트 - 코드로 이해하는 객체지향 설계](https://wikibook.co.kr/object/)
 
 # PHP
 
@@ -1144,6 +1151,12 @@ Programming Books
   * 2016.03
   * 한라 005.133 서78ㅇ
   * python 기초, beautifulsoup 한 챕터, 기초 알고리즘 한 챕터
+* 파이썬으로 배우는 웹 크롤러
+  * 한라 005.133박74ㅍ
+  * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
+* (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
+  * 한라 005.133-미83ㅍ
+* (NOT YET) [파이썬을 활용한 크롤러 개발과 스크레이핑 입문 - 크롤러 설계와 개발부터 수집 데이터 분석과 운용까지](https://wikibook.co.kr/python-crawler/)
 * **_[파이썬 분산 컴퓨팅분산 컴퓨팅 기초부터 테스팅과 디버깅까지](http://book.daum.net/detail/book.do?bookid=BOK00031174400YE)_**
   * 2016.11
   * 한라 005.133 피64파
@@ -1183,17 +1196,12 @@ Programming Books
   * 2018.02 한라
 * (NOT YET) [파이썬으로 데이터 주무르기](http://bjpublic.tistory.com/287)
   * 2018.02 한라
-* 파이썬으로 배우는 웹 크롤러
-  * 한라 005.133박74ㅍ
-  * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
 * (NOT YET) [손에 잡히는 파이썬 - 부제 주피터 노트북을 이용한 파이썬 프로그래밍](http://bjpublic.tistory.com/298)
   * 2018.04 탐라
 * [파이썬 정복](http://www.hanbit.co.kr/store/books/look.php?p_code=B9639374575)
   * 2018.04
   * 한라 005.133 김52ㅍ
   * Tk, turtle, wxPython, pycharm 기초 사용법 등이 나온 점만 제외하면 완전히 입문서
-* (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
-  * 한라 005.133-미83ㅍ
 * **[구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)**
   * 한라 005.133김65ㄱ
   * 여러가지 라이브러리 기본 사용법
@@ -1240,6 +1248,7 @@ Programming Books
   * [The code to Learn Python3 The Hard Way](https://github.com/youknowone/learn-python3-thw-code-ko)
 * (NOT YET) [슬기로운 파이썬 트릭](https://blog.insightbook.co.kr/2019/01/23/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%84-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-%EC%A3%BC%EB%8A%94%E3%80%8E%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](http://wikibook.co.kr/python-for-data-analysis/)
+* (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 (개정증보판) - 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](https://wikibook.co.kr/python-for-data-analysis-rev/)
 * (NOT YET) 파이썬 클린 코드 유지보수가 쉬운 파이썬 코드를 만드는 비결
 * (NOT YET) [깔끔한 파이썬 탄탄한 백엔드](https://bjpublic.tistory.com/317) flask, aws
   * [HTTP의 구조 및 핵심 요소](https://zzsza.github.io/development/2019/03/01/http-structure/)
