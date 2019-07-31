@@ -82,4 +82,6 @@ Google Cloud Platform GCP
 * [Stackdriver Monitoring 확장하기 — Bleu Medora 의 BindPlane 연동](https://medium.com/@jwlee98/gcp-stackdriver-monitoring-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0-bleu-medora-%EC%9D%98-bindplane-%EC%97%B0%EB%8F%99-91131e711e55)
 * [Stackdriver Monitoring 확장하기 2 — BindPlane 을 통한 On-Prem 모니터링](https://medium.com/@jwlee98/gcp-stackdriver-monitoring-%ED%99%95%EC%9E%A5%ED%95%98%EA%B8%B0-2-bindplane-%EC%9D%84-%ED%86%B5%ED%95%9C-on-prem-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-6cb1b2d1dc29)
 * [Cloud Dataproc 클러스터에서 Jupyter 노트북 설치 및 실행](https://cloud.google.com/dataproc/docs/tutorials/jupyter-notebook)
-* [1.(입문)구글클라우드 가입과 무료서버1대받기-2017](https://brunch.co.kr/@topasvga/168)
+* [구글클라우드 전문가되기](https://brunch.co.kr/magazine/googlecloud)
+* [DNS 부터 하나씩 Google cloud 로 서비스 해보기 - 1탄 Cloud DNS](https://medium.com/@jwlee98/gcp-dns-%EB%B6%80%ED%84%B0-%ED%95%98%EB%82%98%EC%94%A9-%ED%95%B4%EB%B3%B4%EB%8A%94-google-cloud-%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%B4%EB%B3%B4%EA%B8%B0-1%ED%83%84-cloud-dns-a77acc9350cd)
+* [DNS 부터 하나씩 Google cloud 로 서비스 해보기 — 2탄 Google Cloud Load Balancing(GCLB)](https://medium.com/@jwlee98/gcp-dns-%EB%B6%80%ED%84%B0-%ED%95%98%EB%82%98%EC%94%A9-google-cloud-%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%B4%EB%B3%B4%EA%B8%B0-2%ED%83%84-google-cloud-load-balancing-gclb-56151d9efe0e)
