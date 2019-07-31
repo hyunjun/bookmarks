@@ -758,6 +758,7 @@ App
     * e.g. if(E11=F11, "T", if(F11="N/A", "T", "F")) E11과 F11이 같으면 T, 다르면 F11이 N/A면 T, 아니면 F(즉, E11과 F11이 다르고 AND F11이 N/A가 아니면 F)
   * [피벗 테이블 만드는 방법](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5260711542)
   * [아는 만큼 표현한다··· 엑셀을 데이터 시각화 툴로 활용하기](http://www.ciokorea.com/news/123768)
+  * [엑셀에서 Distinct Count 구하기](https://www.popit.kr/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-distinct-count-%EA%B5%AC%ED%95%98%EA%B8%B0)
 * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
 
 # Programming
