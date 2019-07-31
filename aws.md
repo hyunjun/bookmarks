@@ -361,6 +361,7 @@ AWS
 * [AWS EBS(Elastic Block Storage) 비용 최적화](https://www.popit.kr/aws-ebselastic-block-storage%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
 * [AWS EBS(Elastic Block Storage) 비용 최적화](https://ericygkim.wordpress.com/2019/07/11/aws-ebselastic-block-storage-%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
 * [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
+* [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
