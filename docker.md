@@ -840,6 +840,7 @@ Docker
 * [Docker for Windows 설치 및 문제 해결](https://blog.gaerae.com/2019/04/docker-for-windows-troubleshooting.html)
 * [Windows Subsystem for Linux (WSL)에서 쿠버네이티즈 사용하기](https://blog.aliencube.org/ko/2018/06/04/running-kubernetes-on-wsl/)
 * [Kubernetes에서 Windows Application 호스팅하기](https://www.slideshare.net/rkttu/kubernetes-windows-application)
+* [Windows Kubernetes Bootstrapping and Operations](https://www.slideshare.net/ssuserc67c6b1/windows-kubernetes-bootstrapping-and-operations)
 * [Windows 컨테이너 1: Windows 컨테이너에 대한 이해](https://tech.devsisters.com/posts/intro-windows-container)
 * [Windows 컨테이너 2: Windows 컨테이너 개발 환경 구축하고 테스트하기](https://tech.devsisters.com/posts/start-windows-container-dev)
 * [Docker Desktop WSL 2 Tech Preview](https://docs.docker.com/docker-for-windows/wsl-tech-preview)
