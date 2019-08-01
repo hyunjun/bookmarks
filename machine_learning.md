@@ -792,12 +792,13 @@ Machine Learning
 * [머신러닝 개념 소개 및 kNN 알고리즘 소개](http://bcho.tistory.com/1009)
 * [파이썬 코딩으로 말하는 데이터 분석 - 9. k-NN (최근접이웃,분류문제)](http://hamait.tistory.com/843)
 * [k-nearest neighbor algorithm using Python](https://www.datasciencecentral.com/profiles/blogs/k-nearest-neighbor-algorithm-using-python)
-* [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
 * [Join Us: An Introduction to Using k-NN in Production](https://blog.dominodatalab.com/join-us-introduction-using-k-nn-production/)
 * [A Summary of Using k-NN in Production](https://blog.dominodatalab.com/summary-using-k-nn-production/)
 * [Introduction to k-Nearest-Neighbors](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
 * [Machine Learning Basics with the K-Nearest Neighbors Algorithm](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
-* [TOROS N2](https://brunch.co.kr/@kakao-it/300)
+* [k-Nearest Neighbors: Who are close to you?](https://medium.com/cracking-the-data-science-interview/k-nearest-neighbors-who-are-close-to-you-19df59b97e7d)
+* [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
+  * [TOROS N2](https://brunch.co.kr/@kakao-it/300)
 
 # Library
 * [머신러닝과 예측 알고리즘에 '안성맞춤' 데이터 과학 툴 10선](http://www.ciokorea.com/news/37977)
