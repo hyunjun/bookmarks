@@ -92,6 +92,7 @@ Hadoop
   * Criteo는 매년 40PB 가량의 데이터 증가, NameNode에는 100만개 블록 저장
   * Criteo가 Hadoop 클러스터를 확장하면 겪은 어려움과 튜닝 사례 소개
 * [Help hadoop survive the 300 million block barrier and then back it up](https://fr.slideshare.net/Hadoop_Summit/help-hadoop-survive-the-300-million-block-barrier-and-then-back-it-up-110010771)
+* [How to install HDP 3.0](https://www.youtube.com/watch?v=9TzhEHRVbhg)
 * [2x Faster BI Interactive queries with HDP 3.0](https://ko.hortonworks.com/blog/2x-faster-bi-interactive-queries-with-hdp-3-0/)
   * HDP 2.6.5와 3.0에서의 Hive 성능에 대한 자체 비교 자료
   * 3.0에 ACID semantic이 추가되었지만 dynamic runtime filtering과 vectorization 덕분에 성능은 2배 정도 향상
@@ -295,6 +296,7 @@ Hadoop
 * [Hive MetaStore 에서 Location은 어떻게 관리될까?](https://charsyam.wordpress.com/2019/04/26/%EC%9E%85-%EA%B0%9C%EB%B0%9C-hive-metastore-%EC%97%90%EC%84%9C-location%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B4%80%EB%A6%AC%EB%90%A0%EA%B9%8C/)
 * [Hive Session Timeouts](https://www.youtube.com/watch?v=YFzjEveOu8c)
 * [order by, sort by, cluster by 의 차이](https://118k.tistory.com/441)
+* [How to generate Hive Random Data based on input data schema 1](https://www.youtube.com/watch?v=bLKdT2WW2-s)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
