@@ -345,6 +345,7 @@ Docker
 * [Continuous Development with Docker and VSCode](https://hackernoon.com/continuous-development-with-docker-and-vscode-go-version-164ee78d09bf)
 * [Predictive CPU isolation of containers at Netflix](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
 * [Project Services and Maturity Levels](https://www.cncf.io/projects/)
+* [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
