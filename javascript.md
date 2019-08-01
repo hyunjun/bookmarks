@@ -588,6 +588,7 @@ Javascript
 * [Event Emitters in Angular](https://netbasal.com/event-emitters-in-angular-13e84ee8d28c)
 * [Exploring the Various Decorators in Angular](https://netbasal.com/exploring-the-various-decorators-in-angular-b208875b207c)
 * [Connect Angular Forms to Akita Store](https://netbasal.com/connect-angular-forms-to-akita-store-d51845f621cd)
+* [Angular Flex-Layout: Flexbox and Grid Layout for Angular Component](https://blog.angularindepth.com/angular-flex-layout-flexbox-and-grid-layout-for-angular-component-6e7c24457b63)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -718,6 +719,7 @@ Javascript
 * [JavaScript traits: the clean way to modify global prototypes - With ES6 it’s finally possible to add methods to Object.prototype, Array.prototype and all the others, in a clean way](https://itnext.io/straits-9ef2b9a563cd)
 * [How to use destructuring in JavaScript to write cleaner, more powerful code](https://medium.freecodecamp.org/how-to-use-destructuring-in-javascript-to-write-cleaner-more-powerful-code-9d1b38794050)
 * [Do we still need JavaScript frameworks?](https://medium.freecodecamp.org/do-we-still-need-javascript-frameworks-42576735949b)
+* [How we wrote the Fastest JavaScript UI Frameworks](https://medium.com/@ryansolid/how-we-wrote-the-fastest-javascript-ui-frameworks-a96f2636431e)
 * [How to Remove Array Duplicates in ES6](https://medium.com/dailyjs/how-to-remove-array-duplicates-in-es6-5daa8789641c)
 * [How to use destructuring in JavaScript (ES6) to its full potential](https://medium.freecodecamp.org/destructuring-in-javascript-es6-ee963292623a)
 * [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
@@ -1457,6 +1459,7 @@ Javascript
 * [Node.js: Module wiring and dependencies explained](https://itnext.io/node-js-module-wiring-and-dependencies-explained-9fa5784c5840)
 * [Node.js Monitoring Made Easy](https://hackernoon.com/node-js-monitoring-made-easy-4d84cd229ab2)
 * [Node.js에서의 프로토타입 오염 공격이란 무엇인가](https://blog.coderifleman.com/2019/07/19/prototype-pollution-attacks-in-nodejs/)
+* [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1559,6 +1562,7 @@ Javascript
   * [#1 React + Storybook + Puppeteer + Jest 개발환경 구축하기](https://medium.com/@pitapat/1-react-storybook-puppeteer-jest-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-3e758ce61711)
   * [web scraping with puppeteer](https://engineering.huiseoul.com/web-scraping-with-puppeteer-1571d4f25d2b)
   * [How to set up server-side rendering in React with Rails using Puppeteer](https://medium.freecodecamp.org/server-side-rendering-react-with-rails-using-puppeteer-cf5ec2697e88)
+  * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
@@ -1749,6 +1753,7 @@ Javascript
 * [1. 리액트 설치하기](https://blog.naver.com/gi_balja/221224082297)
 * [Free Course Fridays: Hello React — React Training for JavaScript Beginners](https://codeburst.io/free-course-fridays-hello-react-react-training-for-javascript-beginners-71cba2698735)
 * [Top 5 React-Native Courses for Mobile Application Developers](https://hackernoon.com/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
+* [Top 5 React-Native Courses for Mobile Application Developers](https://medium.com/hackernoon/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
@@ -2149,6 +2154,7 @@ Javascript
   * [An introduction to animated transitions with React Router](https://medium.freecodecamp.org/animated-transitions-with-react-router-a0ad00e633f1)
   * [Beginner’s Guide to React Router 4](https://medium.freecodecamp.org/beginners-guide-to-react-router-4-8959ceb3ad58)
   * [리액트 라우터 사용하기 (타입스크립트 버전)](http://jeonghwan-kim.github.io//dev/2019/07/08/react-router-ts.html)
+  * [react-router을 사용하여 React(리액트)에서 페이지 전환을 사용해 봅시다](https://dev-yakuza.github.io/ko/react/react-router/)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
@@ -2394,6 +2400,7 @@ Javascript
 * [vuejsexamples.com](https://vuejsexamples.com/)
 * [30 Amazing Vue.js Open Source Projects for the Past Year (v.2018)](https://medium.mybridge.co/30-amazing-vue-js-open-source-projects-for-the-past-year-v-2018-d39a0d019bb7)
 * [github.com/Mybridge/learn-vue.js](https://github.com/Mybridge/learn-vue.js)
+  * [Vue.js Top 10 Articles for the Past Month (v.July 2019)](https://medium.com/@Mybridge/vue-js-top-10-articles-for-the-past-month-v-july-2019-8d8694c4c020)
   * [Vue.js Open Source of the Month (v.June 2019)](https://medium.com/@Mybridge/vue-js-open-source-of-the-month-v-june-2019-451466f5cc35)
   * [Vue.js Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/vue-js-top-10-articles-for-the-past-month-v-june-2019-23eb572aa2a7)
   * [Vue.js Open Source for the Past Month (v.May 2019)](https://medium.mybridge.co/vue-js-open-source-for-the-past-month-v-may-2019-ae0b349bfd9)
