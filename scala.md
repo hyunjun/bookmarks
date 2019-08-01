@@ -24,6 +24,7 @@ Scala
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
 * [Scala Tutorial](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dZ2RNKCu7W9o2OtZweGY6x)
 * [Learn Scala (Best Scala Tutorials for Beginners)](https://medium.com/hackr-io/learn-scala-best-scala-tutorials-for-beginners-bd80407387f5)
+* [Scala Tutorial Full Course](https://www.youtube.com/watch?v=i9o70PMqMGY)
 * [Learn Scala from 0–60: The Basics](https://medium.freecodecamp.org/learning-scala-from-0-60-part-i-dc095d274b78)
 * [Basic Scala](https://medium.com/@oyamada.nami/basic-scala-fd716734e9aa)
 * [Scala A guide for getting started](https://medium.com/@tylerremmie/scala-is-a-concise-high-level-language-focused-on-combining-functional-and-object-oriented-c293f900f88)
