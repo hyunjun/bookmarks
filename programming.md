@@ -408,6 +408,8 @@ Programming
   * **[캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)** cache 내부 동작에 대한 상세한 설명을 하는 좋은 글
   * [Caching](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936)
   * [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
+    * [Details of the Cloudflare outage on July 2, 2019](https://new.blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
+      * **[(번역) 2019년 7월 2일 Cloudflare 장애 보고서](https://ryanking13.github.io/2019/07/18/details-of-the-cloudflare-outage-on-july-2-2019.html)**
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
@@ -1255,6 +1257,7 @@ Programming
   * [기술 뉴스 #128 : 19-06-15](https://blog.outsider.ne.kr/1449)
   * [기술 뉴스 #129 : 19-07-01](https://blog.outsider.ne.kr/1453)
   * [기술 뉴스 #130 : 19-07-15](https://blog.outsider.ne.kr/1454)
+  * [기술 뉴스 #131 : 19-08-01](https://blog.outsider.ne.kr/1455)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1432,6 +1435,7 @@ Programming
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
 * [How to test your automated tests](http://futurice.com/blog/how-to-test-your-automated-tests)
 * [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
+* [Test Doubles 정리 Dummy, Fake, Stub, Mock](https://brunch.co.kr/@tilltue/55)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
   * [클린 코드를 위한 테스트 주도 개발 1](https://hyesun03.github.io/2016/09/19/djangoTDD01/)
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
