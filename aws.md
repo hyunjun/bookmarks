@@ -542,6 +542,7 @@ AWS
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
+  * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
