@@ -438,7 +438,7 @@ Python
 * [7 More Tricks to Write Better Python Code](https://www.youtube.com/watch?v=SNTZpy0oDB8)
   * Inline if-else statements, Sequence comparisons, Extended unpacking (Python-3 only), Dict comprehensions, collections.OrderedDict, collections.defaultdict, collections.Counter
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
-* [Road to becoming a Python Ninja — Data Structures](https://hackernoon.com/python-basics-data-structures-d378d854df1b) 기본 data structure
+* [Road to become a Python Ninja — Data Structures](https://blog.usejournal.com/python-basics-data-structures-d378d854df1b) 기본 data structure
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -1623,6 +1623,7 @@ Python
 * [Flask 1.0 Changelog 우리말 번역](http://blog.sinwoobang.me/post/173349285532/flask-10-changelog-%EC%9A%B0%EB%A6%AC%EB%A7%90-%EB%B2%88%EC%97%AD)
 * [Flask 1.0에서 달라진 점](https://winterj.me/flask-release/)
 * [FLASK vs DJANGO](https://www.youtube.com/watch?v=KnbAUplWXC0)
+* [Python Backends: Flask Versus Django](https://medium.com/better-programming/python-backends-flask-versus-django-5de314fa70ff)
 * 기술블로그 구독서비스 개발 후기
   * [1부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-1%EB%B6%80/)
   * [2부](https://www.popit.kr/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EB%8F%85%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9B%84%EA%B8%B0-2%EB%B6%80/)
