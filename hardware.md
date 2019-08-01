@@ -115,6 +115,7 @@
 * [바나나 프로에 데비안 위지와 최신 MPD 컴파일하여 설치하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=284390)
 
 # Book
+* [Embedded Recipes - 친절한 임베디드 시스템 개발자 되기 강좌](http://recipes.egloos.com/)
 * [Kolban's Book on the Raspberry Pi](https://leanpub.com/pi)
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read_full)
 * [Raspberry Pi Computing: Ultrasonic Distance Measurement](https://leanpub.com/rpcultra/read_full)
