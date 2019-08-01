@@ -842,3 +842,4 @@ Docker
 * [Kubernetes에서 Windows Application 호스팅하기](https://www.slideshare.net/rkttu/kubernetes-windows-application)
 * [Windows 컨테이너 1: Windows 컨테이너에 대한 이해](https://tech.devsisters.com/posts/intro-windows-container)
 * [Windows 컨테이너 2: Windows 컨테이너 개발 환경 구축하고 테스트하기](https://tech.devsisters.com/posts/start-windows-container-dev)
+* [Docker Desktop WSL 2 Tech Preview](https://docs.docker.com/docker-for-windows/wsl-tech-preview)
