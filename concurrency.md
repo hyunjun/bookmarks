@@ -1,26 +1,11 @@
 Concurrency
 ===========
-* [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Thread)
-* [When is a function reentrant? How does that relate to it being thread-safe?](http://www.quora.com/When-is-a-function-reentrant-How-does-that-relate-to-it-being-thread-safe)
-  * [Reentrancy](http://en.wikipedia.org/wiki/Reentrancy_(computing))
-  * [Thread safety](http://en.wikipedia.org/wiki/Thread_safety)
-* [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
 * [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm)
-* [Threading Building Blocks (Intel® TBB)](https://www.threadingbuildingblocks.org/)
-* [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 * [Maximizing Throughput on Multicore Systems](http://www.infoq.com/presentations/erlang-multicore)
 * [Introduction to distributed computing and its types with example](https://www.youtube.com/watch?v=6_sqINSdWb0)
 * [Making Sequential Execution Fast(er)](https://medium.com/@claytonlong_34858/making-sequential-execution-fast-er-56d65f70eb2b)
-* [멀티스레드 프로그래밍 관련 이야기](http://moogi.new21.org/tc/1429) UI, thread 종료, 동시작업 구현, fiber
-* [process와 thread에 대한 정리](https://magi82.github.io/process-thread/)
-* **[바람직한 멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)** job system, job stealing, dependency graph
 * **[non blocking/async IO vs. multithreads](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how/8546444#8546444)**
 * [Difference between mutual exclusion and synchronization](https://www.8bitavenue.com/2017/12/difference-between-mutual-exclusion-and-synchronization)
-* 멀티스레드 프로그래밍의 design by contract & eventual determinism
-  * [1편](https://imays.blog.me/221428677043)
-  * [2편](https://imays.blog.me/221430386161)
-  * [3편](https://imays.blog.me/221440589428)
-  * [4편](https://imays.blog.me/221465259731)
 * [readers-writer lock - 공유 자원 접근하기](https://blog.seulgi.kim/2018/12/rwlock.html)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://www.popit.kr/faster-parallel-processes/) redis, RabbitMQ
 * [Why Concurrency is Hard ?](https://hackernoon.com/why-concurrency-is-hard-a45295e96114)
@@ -93,6 +78,26 @@ Concurrency
 * [구글은 어떻게 0.1초 만에 검색할까?  병렬 처리(Parallel Computing) 이야기](https://brunch.co.kr/@nsung/29)
 * [The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software](http://www.gotw.ca/publications/concurrency-ddj.htm)
 
+# Process
+* [process와 thread에 대한 정리](https://magi82.github.io/process-thread/)
+* [프로세스 동기화 (Process Synchronization)](https://jungwoon.github.io/os/2019/07/31/Process-Synchronization/) lock, semaphore, mutex, deadlock
+
 # Semaphore
 * [Mutex vs Semaphore](http://www.geeksforgeeks.org/mutex-vs-semaphore/)
 * [The Little Book of Semaphores](http://www.greenteapress.com/semaphores/downey08semaphores.pdf)
+
+# Thread
+* [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Thread)
+* [When is a function reentrant? How does that relate to it being thread-safe?](http://www.quora.com/When-is-a-function-reentrant-How-does-that-relate-to-it-being-thread-safe)
+  * [Reentrancy](http://en.wikipedia.org/wiki/Reentrancy_(computing))
+  * [Thread safety](http://en.wikipedia.org/wiki/Thread_safety)
+* [Ndc2014 시즌 2 : 멀티쓰레드 프로그래밍이 왜 이리 힘드나요? (Lock-free에서 Transactional Memory까지)](http://www.slideshare.net/zzapuno/ndc2014-2)
+* [Threading Building Blocks (Intel® TBB)](https://www.threadingbuildingblocks.org/)
+* [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
+* [멀티스레드 프로그래밍 관련 이야기](http://moogi.new21.org/tc/1429) UI, thread 종료, 동시작업 구현, fiber
+* **[바람직한 멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)** job system, job stealing, dependency graph
+* 멀티스레드 프로그래밍의 design by contract & eventual determinism
+  * [1편](https://imays.blog.me/221428677043)
+  * [2편](https://imays.blog.me/221430386161)
+  * [3편](https://imays.blog.me/221440589428)
+  * [4편](https://imays.blog.me/221465259731)
