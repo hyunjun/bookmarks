@@ -478,6 +478,7 @@ Linux
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
 * [Linuxbrew is a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
+* [LSD (LSDeluxe) The next gen ls command](https://github.com/Peltoche/lsd)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
 * [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
