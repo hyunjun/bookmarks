@@ -87,6 +87,8 @@ TensorFlow
   * Tensorflow 의 Dataset API를 이용해서 텍스트 데이터를 가져와 처리하는 방법
   * 이것이 간단해 보이지만, 실제로는 그렇지 않은 것이 이 작업을 위해서는 반구조화된 파일을 읽어와서, numpy 배열로 바꾸고, 이를 다시 TF의 feed dict 예제의 모델로 먹여줘야 하는데, 배치 오버헤드 문제나 파일 구조의 문제 등 의외로 부딪히는 문제들이 많아서 이에 대한 튜토리얼을 쓰기로 결심했다고 함
 * [Beginner’s guide to feeding data in Tensorflow — Part1](https://medium.com/coinmonks/beginners-guide-to-feeding-data-in-tensorflow-faf21a745e4c) tf.data를 1. memory 2. TFRecord 3. disk에서 읽어오는 코드 설명
+* [Beginner’s guide to feeding data in Tensorflow — Part2](https://medium.com/coinmonks/beginners-guide-to-feeding-data-in-tensorflow-part2-5e2506d75429)
+* [Baby Steps to TensorFlow](https://medium.com/towards-artificial-intelligence/baby-steps-to-tensorflow-22972dd3bd7e)
 * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU)
   * [A Practical Guide for Debugging Tensorflow Codes](https://github.com/wookayin/TensorflowKR-2016-talk-debugging)
   * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU)
