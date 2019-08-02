@@ -2594,6 +2594,7 @@ Python
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [textsearch - Find strings/words in text; convenience and C speed](https://github.com/kootenpv/textsearch)
+* [TAICHI: OPEN-SOURCE COMPUTER GRAPHICS LIBRARY](http://taichi.graphics/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
@@ -2806,6 +2807,7 @@ Python
 * [numpy 맛보기](http://jybaek.tistory.com/680)
 * [Why you should start using .npy file more often…](https://towardsdatascience.com/why-you-should-start-using-npy-file-more-often-df2a13cc0161)
 * [파이썬으로 데이터 분석하기 #4-1](https://jungwoon.github.io/python/2018/04/05/Data-Analysis-With-Python-5/)
+* [NumPy와 C++ Extensions의 성능 비교](http://tech.kakao.com/2018/05/15/python-numpy-extensions/)
 * [NumPy와 C++ Extensions의 성능 비교](http://docs.likejazz.com/python-numpy-extensions/)
 * NumPy Python Tutorial 2018
   * [Part 1](https://www.youtube.com/watch?v=rvY0MskPps0)
@@ -3079,6 +3081,7 @@ Python
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
 * [PyPy warmup improvements](http://morepypy.blogspot.kr/2015/09/pypy-warmup-improvements.html)
 * [Automatic SIMD vectorization support in PyPy](http://morepypy.blogspot.kr/2015/10/automatic-simd-vectorization-support-in.html)
+* ["파이썬 성능 향상을 위한" 파이파이란 무엇인가](http://www.itworld.co.kr/news/122334)
 * [cppyy: C++ bindings for PyPy](http://doc.pypy.org/en/release-2.4.x/cppyy.html)
 
 # Python3
