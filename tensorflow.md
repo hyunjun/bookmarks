@@ -798,6 +798,8 @@ TensorFlow
 * [TensorSpace - a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js](https://github.com/tensorspace-team/tensorspace)
 * [tensortalk.com](https://tensortalk.com/)
 * [tensorwatch - Debugging, monitoring and visualization for Deep Learning and Reinforcement Learning](https://github.com/microsoft/tensorwatch)
+* [tf-explain implements interpretability methods as Tensorflow 2.0 callbacks to ease neural network's understanding](https://github.com/sicara/tf-explain)
+  * [Introducing tf-explain, Interpretability for TensorFlow 2.0](https://blog.sicara.com/tf-explain-interpretability-tensorflow-2-9438b5846e35)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
 * TF-Ranking
