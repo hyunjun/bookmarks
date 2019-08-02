@@ -1565,6 +1565,7 @@ Javascript
   * [web scraping with puppeteer](https://engineering.huiseoul.com/web-scraping-with-puppeteer-1571d4f25d2b)
   * [How to set up server-side rendering in React with Rails using Puppeteer](https://medium.freecodecamp.org/server-side-rendering-react-with-rails-using-puppeteer-cf5ec2697e88)
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
+  * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
