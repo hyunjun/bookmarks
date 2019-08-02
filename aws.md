@@ -565,6 +565,7 @@ AWS
 * [S3의 스토리지 클래스에 대해 알아보기](https://medium.com/harrythegreat/s3%EC%9D%98-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1f2fa500c484)
 * [S3를 이용하여 랜딩페이지 만들기](https://medium.com/harrythegreat/s3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-b80a44191641)
 * [AWS RDS for PostgreSQL에서 S3 데이터 임포트 기능 지원](https://www.44bits.io/ko/post/news--aws-rds-postgresql-supports-data-import-from-s3)
+* [AWS S3 총정리](https://ryan-han.com/post/aws/s3/)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
