@@ -439,6 +439,7 @@ Python
   * Inline if-else statements, Sequence comparisons, Extended unpacking (Python-3 only), Dict comprehensions, collections.OrderedDict, collections.defaultdict, collections.Counter
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
 * [Road to become a Python Ninja — Data Structures](https://blog.usejournal.com/python-basics-data-structures-d378d854df1b) 기본 data structure
+* [Comprehending the ‘Comprehensions’ in Python](https://towardsdatascience.com/comprehending-the-concept-of-comprehensions-in-python-c9dafce5111)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
