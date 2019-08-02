@@ -217,6 +217,7 @@ Interview
   * [Tackling the system design interview](https://cternus.net/blog/2018/01/26/tackling-the-system-design-interview/) 병원 예약 시스템을 예로 설명
   * [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054) educative.io co-founder가 쓴 주의할 점. netflix와는 무관
   * **[System Design Interview Patterns](https://www.youtube.com/watch?v=Yt2WOBPhc7w)** 여러가지 팁
+  * [Walking Through The System Design Interview](https://medium.com/better-programming/walking-through-the-system-design-interview-679a408c048f)
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   * [Gaurav Sen - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
