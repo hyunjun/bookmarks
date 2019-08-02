@@ -1136,6 +1136,7 @@ Programming Books
 * [객체지향의 사실과 오해](http://blog.woniper.net/348)
   * [클래스가 이데아라니](http://imcreator.tistory.com/m/87)
 * (NOT YET) [오브젝트 - 코드로 이해하는 객체지향 설계](https://wikibook.co.kr/object/)
+  * [토비의 봄 TV 스페셜 - 오브젝트와 토끼책의 저자 조영호 님](https://www.youtube.com/watch?v=8OclN9kZTE4)
 
 # PHP
 
