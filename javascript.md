@@ -1848,6 +1848,7 @@ Javascript
 * [React Hooks + TS + functional = 아름다움](https://speakerdeck.com/ryunzae/react-hooks-plus-ts-plus-functional-equals-areumdaum)
 * [What is React Hooks? Learn in just 12 min](https://www.youtube.com/watch?v=pmd2uvCfPWw)
 * [mobx-react와 React Hooks API 함께 사용하기](https://blog.rhostem.com/posts/2019-07-22-mobx-v6-and-react-v16-8)
+* [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
