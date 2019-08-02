@@ -856,6 +856,7 @@ Javascript
 * [jQuery의 역사: 존은 어떻게 jQuery를 구축했을까요?](https://ko.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery)
 
 # Library
+* **[RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io ](https://github.com/gothinkster/realworld)**
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
 * [The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
 * [A Real-World Comparison of Front-End Frameworks with Benchmarks (2018 update)](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962)
@@ -876,6 +877,7 @@ Javascript
 * [6 JavaScript User Authentication Libraries for 2019](https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458)
 * [11 Material Design UI Component Libraries for 2019](https://blog.bitsrc.io/11-material-design-ui-component-libraries-for-2018-b3d2c9962a2f)
 * [I’ve spent 5 years writing a JavaScript framework on my own](https://medium.com/@jcormont/ive-spent-5-years-writing-a-javascript-framework-on-my-own-af1201f4075c)
+* [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/0145894)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
