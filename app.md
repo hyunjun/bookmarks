@@ -816,6 +816,7 @@ App
   * [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html)
   * [WinHex](https://www.x-ways.net/winhex/)
 * [Windows Container 안의 Microsoft Office 자동화](https://medium.com/rkttu/microsoft-office-in-windows-container-28a7ff907780)
+* [“빨리 일하고 더 많이 놀기 위한” 윈도우 환경 최적화 팁 10가지](http://www.itworld.co.kr/news/122730)
 
 ## Installation
 * 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
