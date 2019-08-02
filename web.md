@@ -155,6 +155,7 @@ Web
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
 * **[Six steps to building your website from scratch](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)**
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
+* [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 
 # Apache
 * installation
@@ -500,6 +501,7 @@ Web
 
 # Restful
 * [restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
+* **[Standards.REST - A collection of standards and specifications, that help make fantastic HTTP/REST APIs. Don't reinvent the wheel, use fantastic wheels, hashed out by experts, that solve problems you hadn't even considered yet](http://standards.rest/)**
 * **[API 관련 내용 정리](https://jungwoon.github.io/infra,%20api,%20cloud/2019/01/31/Api-Summary/)**
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
