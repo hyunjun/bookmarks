@@ -1483,6 +1483,7 @@ Python
 * [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/) logout 후 content에 접근을 막는 방법
 * [Django: Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
 * [Django 구성 분석하기와 기본 세팅](https://woolbro.tistory.com/47)
+* [How to Install and Use Django on Windows for Beginners (2019)](https://www.youtube.com/watch?v=osKPG2ripmw)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
