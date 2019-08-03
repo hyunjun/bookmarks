@@ -103,6 +103,7 @@
 * [Arduino - TCP Client로 명령받기](http://jusths.tistory.com/54)
 * [아두이노 16x2 LCD 한글 출력 라이브러리 1편-사용법](https://blog.naver.com/junwha0511/221529144374)
 * [아두이노 라이브러리 매니저 등록/업데이트 방법](https://junwha0511.blog.me/221535738246)
+* [Make: Arduino Neural Network Robot](https://github.com/IdleHandsProject/makennbot)
 
 # [Artik](https://www.artik.io/)
 
