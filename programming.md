@@ -613,6 +613,7 @@ Programming
 * [Understanding Serverless: Tips and Resources for Building Servicefull Applications](https://www.infoq.com/articles/understanding-serverless-servicefull-applications/)
 * [Serverless GraphQL Architecture – The Future of Backend Development](https://www.youtube.com/watch?v=PTphFRHJ3d0)
 * [Cloud Made Simple with Serverless Python](https://www.youtube.com/watch?v=3Dbxu-J4c5s) IBM cloud
+* [Full Stack Serverless](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
