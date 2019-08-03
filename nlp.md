@@ -1391,6 +1391,7 @@ NLP
 * [node2vec: Embeddings for Graph Data](https://towardsdatascience.com/node2vec-embeddings-for-graph-data-32a866340fef)
 * [PyData Tel Aviv Meetup: Node2vec - Elior Cohen](https://www.youtube.com/watch?v=828rZgV9t1g)
 * [Think your Data Different - Learn how node2vec works, and what kind of information it captures that word2vec doesn’t — includes case study](https://towardsdatascience.com/think-your-data-different-ddc435f70850)
+* [700x faster node2vec models: fastest random walks on a graph](https://www.singlelunch.com/2019/08/01/700x-faster-node2vec-models-fastest-random-walks-on-a-graph)
 * [Word2Vec](https://www.youtube.com/watch?v=sY4YyacSsLc)
 * [Text Classification With Word2Vec](http://nadbordrozd.github.io/blog/2016/05/20/text-classification-with-word2vec/)
 * [Word2vec로 사용할 수 있는 벡터 모델들](http://www.neuromancer.kr/t/word2vec/481)
