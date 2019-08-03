@@ -11,6 +11,7 @@
 * **[SparkTutorials.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
 * [sparkjava.com/tutorials](http://sparkjava.com/tutorials/)
 * [learn hadoop spark by examples](https://www.java-success.com/category/tutorial/hadoop-tutorials/learn-hadoop-spark-by-examples/)
+* **[Running Spark Korean](https://github.com/skyer9/Running-Spark-ko)** flintrock, pyspark, aws s3, spark sql, jupyter, hadoop, yarn, tuning
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
 * [Learning Spark With Scala](https://maheshkndpl.wordpress.com/2017/09/01/introduction-to-spark/)
 * [Apache Spark Scala Tutorial For Korean](https://github.com/skyer9/spark-scala-tutorial-ko)
