@@ -285,6 +285,7 @@ NLP
 * [#자연어, #시퀀스를 위한 #재귀신경망 성능향상 기법! 대공개!! 첫번째!](https://www.youtube.com/watch?v=EZnG78g4moI)
 * [Justin J. Nguyen: Exposing Dark Data in the enterprise with custom NLP | PyData Miami 2019](https://www.youtube.com/watch?v=iFgNcBahUAE)
 * [Natural language processing of customer reviews](https://medium.com/hackernoon/natural-language-processing-of-customer-reviews-49dff6fd9e57)
+* [자연어 처리 Word representation](https://bcho.tistory.com/1345)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -864,6 +865,7 @@ NLP
   * [Machine Learning for Text Classification Using SpaCy in Python](https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49)
   * [Korean support](https://github.com/explosion/spaCy/pull/3901)
   * [SPACY IRL 2019](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)
+  * [Advanced NLP with spaCy](https://course.spacy.io/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
