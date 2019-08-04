@@ -2090,6 +2090,7 @@ Javascript
   * [How To Add Draft Posts To A Gatsby Blog](https://hackernoon.com/how-to-add-draft-posts-to-a-gatsby-blog-3f6c64ec0c06)
   * [How to leverage your React skills with static site generator Gatsby.js](https://medium.com/free-code-camp/how-to-leverage-your-react-skills-with-static-site-generator-gatsby-js-81843e928606)
   * [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
+  * [Gatsby로 개인 블로그 만들기 -클론부터 배포까지-](https://suitee.me/getting-started-gatsby)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
