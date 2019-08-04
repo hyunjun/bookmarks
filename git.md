@@ -411,6 +411,7 @@ Git
   * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) multiple commits를 하나의 new commit으로 변경
   * [Squash commits when merging a Git branch with Bitbucket](https://bitbucket.org/blog/git-squash-commits-merging-bitbucket)
   * [git rebase in depth](https://git-rebase.io/)
+  * [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
