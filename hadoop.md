@@ -194,6 +194,7 @@ Hadoop
 * [Docker 를 통해 Cloudera Manager 띄워보기](https://lovetoken.github.io/docker/mac/opensource_tool/2018/04/22/docker_CM.html)
 * [Some tips to run a multi-node Hadoop in Docker](https://medium.com/@rubenafo/some-tips-to-run-a-multi-node-hadoop-in-docker-9c7012dd4e26) 단일 시스템에서 Docker 내부에서 멀티 노드 하둡을 구성하는 방법
 * [Mindful Machines Original Series, Big Data: Batch Processing](https://mindfulmachines.io/blog/2018/4/24/series-big-data-batch-processing) 일괄처리, SQL 일괄처리, 데이터웨어하우스, RDBMs 영역의 유력한 오픈 소스 소프트웨어 몇 가지 요약
+* [오픈 데이터 사이언스 로드맵 - Matt Brandwein (Cloudera)](https://www.youtube.com/watch?v=70hBmkogHHU)
 * [Cloud Native Machine Learning on Kubernetes](https://www.youtube.com/watch?v=zszUUut8gt4)
 * [Cloudera Altus Analytic DB (Beta)](https://www.cloudera.com/products/altus/altus-analytic-db.html)
   * [A Technical Overview of Cloudera Altus Analytic DB](http://blog.cloudera.com/blog/2018/02/a-technical-overview-of-cloudera-altus-analytic-db/)
