@@ -251,6 +251,7 @@ Apache
 * [5 Main Missing Features in Impala (Opinion)](https://medium.com/@adirmashiach/5-main-missing-features-in-impala-imo-1343c767081f)
 * [Assessment of Apache Impala Performance using Cloudera Manager Metrics – Part 1 of 3](https://blog.cloudera.com/blog/2018/12/assessment-of-apache-impala-performance-using-cloudera-manager-metrics-part-1-of-3)
   * Cloudera Manger의 차트와 메트릭 기능을 사용하여 Impala 성능 이슈를 해결하는 방법
+* [Impala At Scale - 임상배 이사 (Cloudera)](https://www.youtube.com/watch?v=8RlqL2kZ-NA)
 
 # [Jena](http://jena.apache.org)
 
