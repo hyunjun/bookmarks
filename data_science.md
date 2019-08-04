@@ -284,6 +284,8 @@ Data Science
 * [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) 다양한 분야의 적용 예
 * [4 Pillars of Analytics Data acquisition, processing, surfacing and actioning are key to an effective analytics initiative](https://medium.com/analytics-and-data/4-pillars-of-analytics-1ee79e2e5f5f)
 * [Data Science for Startups: Tracking Data](https://towardsdatascience.com/data-science-for-startups-tracking-data-4087b66952a1)
+* [TF에서 팀 빌딩까지 9개월의 기록 : 성장하는 조직을 만드는 여정](https://www.slideshare.net/zzsza/tf-9-160560910)
+  * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -311,6 +313,7 @@ Data Science
 * [Essays on Data Analysis](https://leanpub.com/dataanalysisessays/read_full)
 * [Advanced Linear Models for Data Science](https://leanpub.com/lm)
 * [Introduction to Data Science](https://leanpub.com/datasciencebook)
+* [The Best Free Books for Learning Data Science](https://www.dataquest.io/blog/free-books-learn-data-science)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
