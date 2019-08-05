@@ -1598,6 +1598,7 @@ Javascript
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676)
 * [Start your journey into the world of React by learning these basics](https://medium.freecodecamp.org/start-your-journey-into-the-world-of-react-by-learning-these-basics-d6e05d3655e3)
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+* [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/courses/enrolled/216871)
 * [React JS 정리](https://m.blog.naver.com/hji7000/220645115819)
 * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
   * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/languages/korean/book/Intro.html)
@@ -1607,7 +1608,7 @@ Javascript
 * **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
 * [Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
 * [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
-* [How to React ⚛️](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
+* [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
 * [React.js Koans](https://github.com/arkency/reactjs_koans)
 * [Reactive Extensions (Rx) Koans](https://rxkoans.codeplex.com/)
 * [Learn the Reactive Extensions for JavaScript (RxJS) with RxJS Koans](https://github.com/Reactive-Extensions/RxJSKoans)
