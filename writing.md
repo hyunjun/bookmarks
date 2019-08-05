@@ -50,6 +50,9 @@ Writing
 * [뜻이 모호하지 않은 문장을 써야 한다](https://brunch.co.kr/@jigunamja/1300)
 * [트래비스 캘러닉을 우버CEO자리에서 물러나게 한 편지](https://estimastory.com/2019/02/06/tkletter/)
 * [Essentials of Visual Language - Workbook](https://leanpub.com/visualthinkingworkbook)
+* [업무대화 중 소설 안 쓰는 방법](https://www.youtube.com/watch?v=XdKcH8Kt2OQ)
+  * 업무 대화를 할 때(이메일, 메신저 등) 정리, todo등의 중요성을 강조하는 내용
+  * 모든 업무 대화는 질문, 부탁/지시, 정보 전달 중 한 가지 주제의 이야기여야 한다
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
