@@ -599,6 +599,7 @@ TensorFlow
 
 # Installation
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
+* [How to Install TensorFlow on CentOS 7](https://linuxize.com/post/how-to-install-tensorflow-on-centos-7/)
 * [install tensorflow gpu version on macbook pro](https://docs.google.com/document/d/1f0y8t28c_VltOx4mZDSUCozuAslejT4f_QlATKX82Uw/edit)
 * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
 * [Scripts to install and setup Tensorflow and it's dependencies on Ubuntu](https://github.com/MateLabs/Tensorflow-setup-scripts)
