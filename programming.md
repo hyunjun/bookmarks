@@ -162,6 +162,7 @@ Programming
 * [#4 예제로 보는 SLI/SLO 정의 방법](https://bcho.tistory.com/1329)
 * [#5 Error budget](https://bcho.tistory.com/1332)
 * [#6 운영에서 반복적인 노가다 Toil](https://bcho.tistory.com/1333)
+* [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * **[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)**
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
 * [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
