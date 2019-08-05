@@ -323,6 +323,7 @@ R
 * [Korea_Stocks_for_HDF5](https://github.com/LOPES-HUFS/Korea_Stocks_for_HDF5)
 * [자동화 업무를 R언어로 할 수 있을까요? 모든 업무를 자동으로!! 재밌는 패키지를 소개시켜 드리는 R쓸신잡 입니다:)](https://www.youtube.com/watch?v=0-NEskhEAwo)
 * [MEMOISE IN R](https://lumiamitie.github.io/r/memoise/)
+* [고정효과(FIXED EFFECT)와 임의효과(RANDOM EFFECT)](http://ds.sumeun.org/?p=1923)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
