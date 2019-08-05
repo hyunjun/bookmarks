@@ -152,6 +152,7 @@
 * [Rust-Bio - a bioinformatics library for the Rust language](https://rust-bio.github.io/)
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
+* [RustPython A Python-3 (CPython >= 3.5.0) Interpreter written in Rust](https://github.com/RustPython/RustPython)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
