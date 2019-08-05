@@ -46,6 +46,7 @@ PyTorch
 * [Attention is all you need: A Pytorch Implementation](https://github.com/jadore801120/attention-is-all-you-need-pytorch)
 * [ResNet Fine-Tuning - Pytorch implementation of Fine-Tuning (Transfer Learning) Residual Networks](https://github.com/meliketoy/resnet-fine-tuning.pytorch)
 * [PyTorch Implementation of the Unsupervised Image-to-Image Translation (UNIT) Networks](https://github.com/mingyuliutw/UNIT)
+* [PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MixNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more](https://github.com/rwightman/pytorch-image-models)
 * [Getting Up and Running with PyTorch on Amazon Cloud](https://kevinzakka.github.io/2017/08/13/aws-pytorch/)
 * [PyTorch_AWS설치.pdf](https://github.com/GunhoChoi/PyTorch_FastCampus/blob/master/01_DL%26Pytorch/PyTorch_AWS%EC%84%A4%EC%B9%98.pdf)
 * [PyTorch or TensorFlow?](https://awni.github.io/pytorch-tensorflow/)
