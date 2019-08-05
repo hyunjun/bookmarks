@@ -115,6 +115,7 @@ Android
 * **[마이리얼트립 안드로이드 앱의 Technical Debt 해결하기](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%98-technical-debt-be05c65706cb)** 안드로이드에 대하여 썼지만 전반적인 내용은 일반적으로 적용되는 좋은 글
 * [디버그를 위한 Proguard(프로가드) 설정 방법](https://developer88.tistory.com/167)
 * [안드로이드 프로세스 및 스레드 (Android Process and Thread)](https://jungwoon.github.io/android/2019/07/16/Process-Thread/)
+* [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
