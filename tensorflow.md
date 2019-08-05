@@ -1,6 +1,6 @@
 TensorFlow
 ==========
-
+* [머신러닝을 배우고 사용하기](https://www.tensorflow.org/tutorials/keras)
 * [텐서플로우로 배우는 딥러닝](https://www.slideshare.net/w0ong/ss-82372826)
 * [TensorFlow is an Open Source Software Library for Machine Intelligence](http://www.tensorflow.org/)
 * [Open source software library for numerical computation using data flow graphs. http://tensorflow.org](https://github.com/tensorflow/tensorflow)
