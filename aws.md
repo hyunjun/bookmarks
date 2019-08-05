@@ -379,6 +379,7 @@ AWS
 * [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
 * [Serverless + AWS Lambda + AWS CloudWatch + Slack 를 활용한 Web crawler 만들기](https://novemberde.github.io/node/2017/12/31/Node-crawler.html)
 * [Simplifying Apache server logs with Amazon CloudWatch Logs Insights](https://aws.amazon.com/ko/blogs/mt/simplifying-apache-server-logs-with-amazon-cloudwatch-logs-insights)
+* [CloudWatch 메트릭](https://brunch.co.kr/@alden/53)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
