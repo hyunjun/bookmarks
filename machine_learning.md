@@ -293,6 +293,7 @@ Machine Learning
   * [Part 2](https://www.youtube.com/watch?v=KKmu960FS2Y)
   * [Part 3](https://www.youtube.com/watch?v=XbpxY_pskZM)
   * [Part 4](https://www.youtube.com/watch?v=O56RCPIBb24)
+* [Proof of the F Test for Linear Regression](https://teamdable.github.io/techblog/Proof-of-the-F-Test-for-Linear-Regression)
 * [6 TYPES OF REGRESSIONS, DID YOU KNOW?](https://www.analyticsinsight.net/6-types-of-regressions-have-you-heard/)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
 * [AI, Deep Learning, and Machine Learning: A Primer](https://vimeo.com/170189199)
@@ -684,6 +685,7 @@ Machine Learning
 * [A Real World Use Case of Google Machine Learning APIs - Hyperconnect](http://www.authorstream.com/Presentation/kangsik-2997276-real-world-use-case-google-machine-learning-apis-hyperconnect/)
 * [구글의 머신러닝 비전: TPU부터 모바일까지 (Google I/O Extended Seoul 2017)](https://www.slideshare.net/inureyes/tpu-google-io-extended-seoul-2017)
 * [구글 머신러닝 스터디잼 가이드라인](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA) Qwik Lab
+* [구글 클라우드 스터디잼 (심화) 가이드라인](https://docs.google.com/presentation/d/1BCpECH6lWqwdWfD5eKQ-htKiNjTJh5yOQEnGglYj4fY)
 
 ## Prediction
 * [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
