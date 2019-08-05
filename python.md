@@ -1951,8 +1951,10 @@ Python
 * [Jupyter is the new Excel (but not for your boss)](https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314)
 * [주피터 노트북에서 Interactive Widget 사용하기](https://junpyopark.github.io/interactive_jupyter/)
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
 ## Jupyter cloud
+* [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
 * [colab.research.google.com](https://colab.research.google.com) 설치 후 keras 사용 가능
   * [Hello, Colaboratory](https://colab.research.google.com/notebooks/welcome.ipynb?hl=ko)
   * [Google Colaboratory를 아시나요?](http://jybaek.tistory.com/686)
