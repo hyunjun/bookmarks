@@ -589,6 +589,7 @@ Javascript
 * [Exploring the Various Decorators in Angular](https://netbasal.com/exploring-the-various-decorators-in-angular-b208875b207c)
 * [Connect Angular Forms to Akita Store](https://netbasal.com/connect-angular-forms-to-akita-store-d51845f621cd)
 * [Angular Flex-Layout: Flexbox and Grid Layout for Angular Component](https://blog.angularindepth.com/angular-flex-layout-flexbox-and-grid-layout-for-angular-component-6e7c24457b63)
+* [How to optimize Angular applications](https://itnext.io/how-to-optimize-angular-applications-99bfab0f0b7c)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
