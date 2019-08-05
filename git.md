@@ -343,6 +343,7 @@ Git
 * hook
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [훅으로 Git에 훅 들어가기](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
+  * [SwiftLint와 Git Hook을 이용해서 코딩 스타일 관리하기](http://woowabros.github.io/tools/2019/08/05/swiftlint-githooks.html)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
