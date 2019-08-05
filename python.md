@@ -156,8 +156,6 @@ Python
 * [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
 * [Python Online Quiz | Online Test | Mock Exam](http://www.hub4tech.com/Python-online-quiz-test)
 * [Python Interview Questions and Answers](http://www.hub4tech.com/interview/python)
-* [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
-* [Ravi Chityala, "Image processing using Python", PyBay2016](https://www.youtube.com/watch?v=5Z0KopTeizk)
 * [이미지 캡션 API - CloudSight, Clarifai](https://brunch.co.kr/@kmbmjn95/22)
 * [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
@@ -427,8 +425,6 @@ Python
 * [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
 * **[Python 라이브러리와 API를 위한 체크리스트](https://mingrammer.com/python-api-checklist/)**
 * [Advanced Python Features](https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features) generator, collections, itertools, (un)packing, decorator, lru_cache, context manager
-* [What does ** (double star) and * (star) do for parameters?](http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-parameters)
-  * [practice - json to kwargs](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-json2kwargs-md)
 * [Records, Structs, and Data Transfer Objects in Python](https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python)
   * `dict`, `tuple`, custom class, `collections.namedtuple`, `typing.NamedTuple`, `struct.Struct`, `types.SimpleNamespace`
 * [Experienced python programmers: are there any standard features of the language that you still don't regularly use?](https://www.reddit.com/r/Python/comments/6i829l/experienced_python_programmers_are_there_any/) 파이썬의 다양한 언어적 기능
@@ -448,6 +444,9 @@ Python
   * [파이썬으로 만드는 나만의 커맨드라인 프로그램 #2 - click](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-2/) setup.py로 설치까지
   * [Learn Enough Python to be Useful: argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)
 * argument
+  * [What does ** (double star) and * (star) do for parameters?](http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-parameters)
+    * [practice - json to kwargs](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-json2kwargs-md)
+    * [practice - transpose with or without zip(\*)](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-zip-md)
   * [Keyword argument confusion in Python](https://medium.com/@boxed/keyword-argument-confusion-in-python-59105c5a1159)
   * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
@@ -457,6 +456,7 @@ Python
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
   * [파이썬의 Asterisk(\*) 이해하기](https://mingrammer.com/understanding-the-asterisk-of-python)
+  * [파이썬 Asterisk(\*)에 대해서](https://dailyheumsi.tistory.com/41)
 * byte
   * [Convert bytes to a Python string](http://stackoverflow.com/questions/606191/convert-bytes-to-a-python-string)
   * [Python: convert string to byte array](http://stackoverflow.com/questions/11624190/python-convert-string-to-byte-array)
@@ -2030,7 +2030,6 @@ Python
 * [50 Popular Python open-source projects on GitHub in 2018](https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0)
 * [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 * [Learning A New Data Science Language](https://towardsdatascience.com/learning-a-new-data-science-language-aa7656be730a) Pandas, Framequery, SciKit-Learn, Pandas-gbq
-* **[10 Python image manipulation tools](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)**
 * **[모든 파이썬 프로그래머를 위한 20가지 실용적인 파이썬 라이브러리](http://www.itworld.co.kr/print/118829)**
   * 아파치 Libcloud, 애로우(Arrow), 비홀드(Behold), 보틀(Bottle), EbookLib, 구이(Gooey), 인보크(Invoke), 누이트카(Nuitka), 눔바(Numba), 피위(Peewee), 필로우(Pillow), 파이파일시스템(PyFilesystem), 파이게임(Pygame), 파이글릿(Pyglet), 파이인스톨러(PyInstaller), 파이심플GUI(PySimpleGUI), 파이썬-docx, 스크래피(Scrapy), Sh, 스플린터(Splinter)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
@@ -2138,7 +2137,6 @@ Python
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [Clutterm - A clutter based terminal written in pure python (no vte lib)](https://github.com/paradoxxxzero/clutterm)
   * [python xterm linux terminal](http://gildang.co.kr/?p=2442)
-* [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
 * [colout - a simple command to add colors to a text stream in your terminal](http://nojhan.github.io/colout/)
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
@@ -2245,7 +2243,6 @@ Python
   * [Watching filesystem updates with gevent](https://www.ibisc.univ-evry.fr/~fpommereau/blog/2015-05-28-watching-filesystem-updates-with-gevent.html)
   * **[gevent For the Working Python Developer](http://sdiehl.github.io/gevent-tutorial/)**
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org](https://github.com/jeanphix/Ghost.py)
-* [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
 * google API
   * calendar [One Day Builds: Task Automation With Python](https://www.youtube.com/watch?v=sbhQNZVxcPc)
@@ -2283,7 +2280,6 @@ Python
 * [Hy](http://docs.hylang.org/)
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
-* [img2txt - Image to Ascii Text, can output to html or ansi terminal](https://github.com/hit9/img2txt)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
@@ -2303,7 +2299,6 @@ Python
 * [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
 * [Lark - a modern parsing library](https://github.com/erezsh/Lark)
   * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
-* [Legofy - a python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO](https://github.com/JuanPotato/Legofy)
 * [Librosa - audio and music processing in Python](https://librosa.github.io)
   * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
   * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
@@ -2332,6 +2327,7 @@ Python
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
+  * [MicroPython Used in Industrial Applications](https://www.youtube.com/watch?v=WgpMWEdKuyY)
 * [minikeyvalue](https://github.com/geohot/minikeyvalue)
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
@@ -2369,14 +2365,6 @@ Python
 * **[Pendulum - PYTHON DATETIMES MADE EASY](http://pendulum.eustace.io/)**
 * [petl - Extract, Transform and Load (Tables of Data) — petl 1.1.1](https://petl.readthedocs.io/)
 * [PewSQL - Analytics Done inside RDBMS](https://github.com/AndersonJo/pewsql)
-* PIL
-  * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
-  * [이미지 GPS 정보 추출하기](https://cpuu.postype.com/post/23100)
-  * [How to Resize, Pad Image to Square Shape and Keep Its Aspect Ratio With Python](https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/)
-  * [How to build an image type convertor in six lines of Python](https://medium.freecodecamp.org/how-to-build-an-image-type-convertor-in-six-lines-of-python-d63c3c33d1db)
-* [Pillow, the friendly PIL fork](https://python-pillow.org/)
-  * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief ](https://github.com/fengsp/color-thief-py)
-  * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)
 * **[plotline - A Grammar of Graphics for Python](http://plotnine.readthedocs.io)** based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
   * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)
@@ -2395,7 +2383,6 @@ Python
   * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
-* [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
@@ -2561,8 +2548,6 @@ Python
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
-* [SIPSkia : Simple Image Processing by Skia](https://github.com/nrise/sipskia/)
-  * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Slouchy uses your webcam to check if you're slouching and alert you if you are](https://github.com/pyskell/slouchy)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
@@ -2668,6 +2653,29 @@ Python
   * [2018 PyCon KR - Ring](https://www.slideshare.net/YunWonJeong/2018-pycon-kr-ring-110398431)
   * [ring - Function-oriented cache interface with built-in memcache & redis + asyncio support](https://github.com/youknowone/ring)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
+
+## Ligrary image
+* **[10 Python image manipulation tools](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)**
+* [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
+* [Ravi Chityala, "Image processing using Python", PyBay2016](https://www.youtube.com/watch?v=5Z0KopTeizk)
+* [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
+* [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
+* [img2txt - Image to Ascii Text, can output to html or ansi terminal](https://github.com/hit9/img2txt)
+* [imgaug - Image augmentation for machine learning experiments. http://imgaug.readthedocs.io ](https://github.com/aleju/imgaug)
+* [Legofy - a python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO](https://github.com/JuanPotato/Legofy)
+* PIL
+  * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
+  * [이미지 GPS 정보 추출하기](https://cpuu.postype.com/post/23100)
+  * [How to Resize, Pad Image to Square Shape and Keep Its Aspect Ratio With Python](https://jdhao.github.io/2017/11/06/resize-image-to-square-with-padding/)
+  * [How to build an image type convertor in six lines of Python](https://medium.freecodecamp.org/how-to-build-an-image-type-convertor-in-six-lines-of-python-d63c3c33d1db)
+* [Pillow, the friendly PIL fork](https://python-pillow.org/)
+  * [Python Pillow (PIL) examples](https://hhsprings.bitbucket.io/docs/programming/examples/python/PIL/index.html)
+    * [ImageOps Module](https://hhsprings.bitbucket.io/docs/programming/examples/python/PIL/ImageOps.html)
+  * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief ](https://github.com/fengsp/color-thief-py)
+  * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)
+* [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
+* [SIPSkia : Simple Image Processing by Skia](https://github.com/nrise/sipskia/)
+  * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
 
 ## Library package install management
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
