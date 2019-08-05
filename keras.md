@@ -131,6 +131,7 @@ Keras
 * [Segmentation using Unet open version](https://github.com/tkwoo/segmentation-visualization-training) 학습 중간에 mask를 시각적으로 확인
 * [Use Pretrained Model in Keras with Statoil dataset](https://www.kaggle.com/sudosudoohio/use-pretrained-model-in-keras-with-statoil-dataset)
   * transfer learning을 이용한 feature extraction. LDA와 같은 지도학습을 사용하여 feature를 뽑아내는 것과 같은 방식
+* [Keras: Feature extraction on large datasets with Deep Learning](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
 * [Making AI Art with Style Transfer using Keras](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 * [Neural Style Transfer-TF&Keras (2019/05/20)](https://github.com/DevKiHyun/Neural-Style-Transfer-Tensorflow-Keras)
   * [Neural_Style_Transfer_Keras&TF.ipynb](https://colab.research.google.com/drive/1ugvgp5mRHOWWWIwhnZj3YMx4kYDxYGnn)
