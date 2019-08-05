@@ -286,6 +286,7 @@ Data Science
 * [Data Science for Startups: Tracking Data](https://towardsdatascience.com/data-science-for-startups-tracking-data-4087b66952a1)
 * [TF에서 팀 빌딩까지 9개월의 기록 : 성장하는 조직을 만드는 여정](https://www.slideshare.net/zzsza/tf-9-160560910)
   * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
+* [빅데이터 조직과 시스템](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
