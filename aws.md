@@ -361,6 +361,7 @@ AWS
 * [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
 * [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
+* [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -476,6 +477,7 @@ AWS
 * [Serverless WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
 * [AWS Lambda Go vs. Node.js performance benchmark: updated 🔥](https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982)
 * [Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581)
+* [Nodejs 4Steps Set up AWS Lambda with githiub and travisCI](https://medium.com/hackernoon/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS Serverless architecture을 응용한 안정적인 DW 플랫폼 구현](http://story.haezoom.com/?p=1020)
 * [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
