@@ -197,6 +197,7 @@ Android
   * [RxJava와 Kotlin Coroutines 비교해보기](https://thdev.tech/kotlin/2018/11/07/RxJava-To-Kotlin-Coroutine/)
   * [A complete roadmap for learning RxJava](https://medium.freecodecamp.org/a-complete-roadmap-for-learning-rxjava-9316ee6aeda7)
   * [RxJava를 사용해서 안드로이드 앱 만들기](https://dev-daddy.tistory.com/26)
+  * [Lifecycle 에 맞춰 RxJava Stream 재실행하기](https://medium.com/@jsuch2362/lifecycle-%EC%97%90-%EB%A7%9E%EC%B6%B0-rxjava-stream-%EC%9E%AC%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-54f7a1f721ed)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
