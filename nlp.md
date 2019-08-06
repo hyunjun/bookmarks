@@ -625,6 +625,7 @@ NLP
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
 * [표준국어대사전.csv](https://github.com/mrchypark/stdkor)
 * [Facebook, NYU expand available languages for natural language understanding systems](https://code.fb.com/ai-research/xlni/)
+* [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
