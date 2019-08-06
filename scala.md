@@ -251,7 +251,7 @@ Scala
 * [스칼라 인터프리터의 스크립트](https://medium.com/@ysmintor/scala-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95-7d137d350ffe)
 * [Notes about Avro Schema Evolution using Binary Encoding](https://medium.com/@ashwanth.kumar/notes-about-avro-schema-evolution-using-binary-encoding-974c7a3429a2)
 * [A journey into safer and cleaner code in Scala with real-life examples](https://medium.com/krakow-scala/a-journey-into-safer-and-cleaner-code-in-scala-with-real-life-examples-e3b7c385e144)
-* [SCALA TIMES #282](https://mailchi.mp/softwaremill/scala-times-issue-2608201)
+* [SCALA TIMES](https://twitter.com/ScalaTimes)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
