@@ -236,6 +236,7 @@ Graph
 * [Graph-Reply - A graph based REPL that saves to and loads from disk](https://github.com/incrediblesound/Graph-Reply)
 * [graphp - The GraPHP web framework](https://github.com/mikeland86/graphp)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
+* [GraphVite - A general and high-performance graph embedding system for various applications Designed for CPU-GPU hybrid architecture](https://graphvite.io/)
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
   * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)
