@@ -1512,6 +1512,7 @@ Python
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (2)](https://woolbro.tistory.com/36)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
+* pandas [practice - test_pandas.py](https://github.com/hyunjun/practice/blob/master/python/test-excel/test_pandas.py) key가 자동으로 정해지므로 필요하면 customize해야 함
 * [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
 * [PyXLL - The Python Excel Add-In](https://www.pyxll.com/)
   * [Machine Learning in Excel With Python](https://datascienceplus.com/machine-learning-in-excel-with-python/)
