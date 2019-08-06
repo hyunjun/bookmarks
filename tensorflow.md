@@ -111,6 +111,8 @@ TensorFlow
     * 3. summary_embedding_with_labels를 호출
 * [Debugging & Visualising training of Neural Network with TensorBoard](https://www.analyticsvidhya.com/blog/2017/07/debugging-neural-network-with-tensorboard/)
 * [Jupyter-Tensorboard: Start tensorboard in Jupyter notebook](https://github.com/lspvic/jupyter_tensorboard)
+* [What-If Tool](https://pair-code.github.io/what-if-tool/) tensorboard plugin
+  * [What-If Tool demo - binary classifier for smile detection in images - CelebA dataset](https://pair-code.github.io/what-if-tool/image.html)
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [Electricity price forecasting with Recurrent Neural Networks](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
