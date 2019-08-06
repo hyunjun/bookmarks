@@ -575,6 +575,7 @@ Programming
 * [Beginner’s Guide to Microservices: Explaining it to a 5 Year Old](https://hackernoon.com/beginners-guide-to-microservices-explaining-it-to-a-5-year-old-4481f5aba466)
 * [MSA 전략 1: 마이크로서비스, 어떻게 디자인 할 것인가?](https://www.slideshare.net/PivotalKorea/msa-1-154454835)
 * [Understanding Microservices: From Idea To Starting Line](https://medium.com/free-code-camp/microservices-from-idea-to-starting-line-ae5317a6ff02)
+* **[마이크로 서비스 프로젝트 300개 관리하기](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-300%EA%B0%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)** Docker, Kubernetes 실용적인 예와 경험. 매우 좋은 글
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
