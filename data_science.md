@@ -195,6 +195,7 @@ Data Science
 * [16 analytic disciplines compared to data science](http://www.rightrelevance.com/search/articles/hero?article=ee5beaf2681d3a83f2dbb9005afcd733ec180c8e&query=data%20science&taccount=ml_toparticles)
 * [글로벌 사례로 보는 데이터로 돈 버는 법 - 트레저데이터 (Treasure Data)](http://www.slideshare.net/treasure-data/treasure-data)
 * [데이터 전처리에 대한 모든 것](http://www.dodomira.com/2016/10/20/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
+* **[데이터 품질에 관한 5개 체크포인트](https://d2.naver.com/helloworld/1179024)** 전처리와 관계된 매우 실용적이고 중요한 부분에 대한 좋은 글
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [데이터 과학을 공부하는 이유](http://flyhendrixfly.net/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9D%84_%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/)
 * **[데이터는 차트가 아니라 돈이 되어야 한다](http://www.slideshare.net/yongho/ss-52116574)**
