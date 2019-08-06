@@ -324,6 +324,7 @@ SQL
 * [Failed to read auto-increment value from storage engine 해결 방법](https://jojoldu.tistory.com/417)
 * **[MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리](http://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)**
 * **[Lock으로 이해하는 Transaction의 Isolation Level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock)**
+* [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
 
 ## MySQL Library
