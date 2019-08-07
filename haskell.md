@@ -151,6 +151,7 @@ Haskell
 * [LINE 하스켈 부트 캠프](https://engineering.linecorp.com/ko/blog/line-haskell-boot-camp/)
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018)
 * [reasonablypolymorphic.com/blog/archives](http://reasonablypolymorphic.com/blog/archives/)
+* [Functional Programming for the Long Haul](https://www.youtube.com/watch?v=4Q9WUrelSng)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
