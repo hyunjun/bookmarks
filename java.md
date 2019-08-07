@@ -462,6 +462,7 @@ Java
 * [Java Lambda (5) 변수 범위](https://futurecreator.github.io/2018/08/02/java-lambda-variable-scope/)
 * [Java Lambda (6) 예외 처리](https://futurecreator.github.io/2018/08/09/java-lambda-handling-exception/)
 * [Java Lambda (7) 람다와 클로저](https://futurecreator.github.io/2018/08/09/java-lambda-and-closure/)
+* [GOTO 2019 • Achieving Functional Programming in Java • John Napier](https://www.youtube.com/watch?v=VUH_HhAaNpc)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
