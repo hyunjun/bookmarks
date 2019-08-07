@@ -1963,6 +1963,7 @@ Javascript
 * [React에서 styled-components 사용하기](https://dev-yakuza.github.io/ko/react/styled-components/)
 * [React에서 root import하기](https://dev-yakuza.github.io/ko/react/root-import/)
 * [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
+* [12+ Awesome React Parallax Scroll Effects](https://onaircode.com/awesome-react-parallax-scroll-effects)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
