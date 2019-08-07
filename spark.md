@@ -659,6 +659,7 @@
 * [PySpark & Hadoop: 1) Ubuntu 16.04에 설치하기](https://beomi.github.io/2017/11/09/Install-PySpark-and-Hadoop-on-Ubuntu-16-04/)
 * [PySpark & Hadoop: 2) EMR 클러스터 띄우고 PySpark로 작업 던지기](https://beomi.github.io/2017/11/27/EMR-and-PySpark/)
 * [PySpark Cheat Sheet: Spark in Python](https://www.datacamp.com/community/blog/pyspark-cheat-sheet-python)
+* [Big Data Analytics using Python and Apache Spark | Machine Learning Tutorial](https://www.youtube.com/watch?v=5HWveDdrosk)
 * troubleshooting
   * [A Beginner's Guide on Troubleshooting Spark Applications](http://www.slideshare.net/jcmia1/a-beginners-guide-on-troubleshooting-spark-applications)
   * `Caused by: java.lang.ClassNotFoundException: * org.elasticsearch.spark.package` sbt configuration such as resolvers
