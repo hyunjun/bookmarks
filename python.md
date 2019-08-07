@@ -1664,6 +1664,7 @@ Python
 * [Flask-Login](https://flask-login.readthedocs.io)
 * [Flask-MongoEngine - a Flask extension that provides integration with MongoEngine](https://github.com/MongoEngine/flask-mongoengine)
 * [Flask-Potion - a RESTful API framework for Flask and SQLAlchemy http://potion.readthedocs.org ](https://github.com/biosustain/potion)
+* Flask-Praetorian [Flask-Praetorian Walkthrough: A Library for API Security With JSON Web Tokens (JWT)](https://www.youtube.com/watch?v=WubG9iKXZ2g)
 * [flask-pytest - Runs pytest in a background process when DEBUG is True](https://github.com/joeyespo/flask-pytest)
 * [Flask-RESTPlus](http://flask-restplus.readthedocs.io)
   * [Flask & flask-restplus && swagger ui](http://mcchae.egloos.com/11276332)
