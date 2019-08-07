@@ -198,6 +198,7 @@ Open Source
 * [OSS](http://netflix.github.io/)
 * [Conductor](https://github.com/Netflix/conductor) a microservices orchestration engine
   * [Netflix Conductor: A microservices orchestrator](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
+  * [Evolution of Netflix Conductor: v2.0 and beyond](https://medium.com/netflix-techblog/evolution-of-netflix-conductor-16600be36bca)
 * EVCache
   * [Announcing EVCache: Distributed in-memory datastore for Cloud](https://medium.com/netflix-techblog/announcing-evcache-distributed-in-memory-datastore-for-cloud-c26a698c27f7)
   * [Evolution of Application Data Caching : From RAM to SSD](https://medium.com/netflix-techblog/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690)
