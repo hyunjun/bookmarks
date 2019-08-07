@@ -1421,6 +1421,7 @@ Programming Books
   * 탐라 개413.8-고75ㅌ
 * (NOT YET) [파이썬과 PyMC로 구현하며 익히는 베이지안 방법론 프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/view?bookcode=BN001887)
 * (NOT YET) [계산하지 말고 이해하자! 프로그래머를 위한 확률과 통계](https://www.gilbut.co.kr/book/view?bookcode=BN002428)
+* (NOT YET) [통계학: 파이썬을 이용한 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=164788166)
 
 # Window
 * (NOT YET) 실무에서 바로쓰는 파워셸
