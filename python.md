@@ -3239,6 +3239,7 @@ Python
 * [파이썬의 타입 힌트](https://artoria.us/35)
 * [Next Steps with Python Type System](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)
 * [callable() in Python](https://www.geeksforgeeks.org/callable-in-python/)
+* [Typesetting With Python](https://www.youtube.com/watch?v=GVoyBWo1QDk)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [MonkeyType - A system for Python that generates static type annotations by collecting runtime types](https://github.com/Instagram/MonkeyType)
   * [Let your code type-hint itself: introducing open source MonkeyType](https://engineering.instagram.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
