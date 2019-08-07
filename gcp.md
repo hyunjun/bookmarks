@@ -21,6 +21,8 @@ Google Cloud Platform GCP
 * [cloud_tpu_example](https://github.com/taejjing/cloud_tpu_example)
   * [Colab TPU 알아보기](https://drive.google.com/file/d/1hP0d65SOTMNWL0hKj0Ss1FgYjh_sdbok)
 * [Cloud TPUs (TensorFlow @ O’Reilly AI Conference, San Francisco '18)](https://www.youtube.com/watch?v=ot4RWfGTtOg)
+* [Cloud TPU 사용하기](https://jybaek.tistory.com/707)
+* [Google Cloud Platform (GCP) 과 TPU 로 한국어 BERT 학습해보기](https://banana-media-lab.tistory.com/entry/Google-Cloud-Platform-GCP-%EA%B3%BC-TPU-%EB%A1%9C-%ED%95%9C%EA%B5%AD%EC%96%B4-BERT-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [Why Our Tech Startup Chose Google Cloud Platform (GCP) over AWS](https://hackernoon.com/why-our-tech-startup-chose-google-cloud-platform-gcp-over-aws-dc7c8080fb89)
 * [Continuous Delivery Pipeline in Google Cloud with Kubernetes and Jenkins - Johan Frick](https://www.youtube.com/watch?v=0uKzw8wJV6A)
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
