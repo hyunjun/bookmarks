@@ -495,6 +495,7 @@ Vision
 * [Computer vision challenges in drug discovery - Maciej Hermanowicz](https://www.youtube.com/watch?v=Y5GJmnIhvFk)
 * [Histogram](https://medipixel.github.io/post/histogram/)
 * [Image Thresholding](https://medipixel.github.io/post/image-thresholding/)
+* [Haar-Like Features in Face Detection With Python](https://www.youtube.com/watch?v=RPoUdDGonWc)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
