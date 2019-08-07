@@ -8,6 +8,7 @@ Go
 * [Go language 첫인상](https://libsora.so/posts/golang-first-impression/)
 * [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
 * [Hello Go](https://medium.com/@caspervonb/hello-go-3e207da92da0)
+* [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 * [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)
 * [The Doors Go Has Opened](https://medium.com/@arschles/the-doors-go-has-opened-a4b5d0f10ea7)
 * [Here are some amazing advantages of Go that you don’t hear much about](https://medium.freecodecamp.org/here-are-some-amazing-advantages-of-go-that-you-dont-hear-much-about-1af99de3b23a)
