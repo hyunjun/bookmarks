@@ -718,6 +718,7 @@ Python
   * [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
   * [practice - use json like dict](https://github.com/hyunjun/practice/blob/master/python/test-json/FrozenJSON.py)
   * [How to prettyprint a JSON file?](https://stackoverflow.com/questions/12943819/how-to-prettyprint-a-json-file)
+  * [How to Convert JSON Data Into a Python Object](https://www.youtube.com/watch?v=hJ2HfejqppE)
 * list
   * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
   * [Python List Tutorial With Simple Python Projects For Beginners](http://www.coolpythoncodes.com/2017/01/python-list-tutorial-with-python-project.html)
@@ -1649,6 +1650,9 @@ Python
 * [How to build a cryptobot in Python and connect it to Facebook messenger](https://medium.freecodecamp.org/how-to-build-a-cryptobot-in-python-and-connect-it-to-facebook-messenger-4bba14107fcc)
 * [Building a URL Shortener in Flask](https://www.youtube.com/watch?v=rGQKHpjMn_M)
 * [Get Form Checkbox Data in Flask With .getlist](https://www.youtube.com/watch?v=_sgVt16Q4O4)
+* [Organizing a Flask Project Beyond Single File](https://www.youtube.com/watch?v=MbXEQZZSvzk)
+* [CORS in Flask](https://www.youtube.com/watch?v=vWl5XcvQBx0)
+* [3 Quick Tips to Make Your Flask Apps Better](https://www.youtube.com/watch?v=tqZxama6tiE)
 
 ## Flask Library
 * [Flask-aiohttp — Asynchronous Flask application with aiohttp](https://flask-aiohttp.readthedocs.io)
@@ -1688,6 +1692,7 @@ Python
   * [Creating a RESTFul API in Flask With JSON Web Token Authentication and Flask-SQLAlchemy](https://www.youtube.com/watch?v=WxGBoY5iNXY)
   * [Manage Database Models with Flask-SQLAlchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc)
   * [Getting Started With Flask-SQLAlchemy 2019](https://www.youtube.com/watch?v=jTiyt6W1Qpo)
+  * [Use Flask-SQLAlchemy With Existing Database With Reflect and Automap](https://www.youtube.com/watch?v=UK57IHzSh8I)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
