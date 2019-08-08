@@ -460,6 +460,7 @@ Apache
 * [How to move Kafka Partition log directory within a Broker Node](https://www.youtube.com/watch?v=UrX2RWM2vQQ)
 * [How to use reassign partition tool in Apache Kafka](https://www.youtube.com/watch?v=sWsWurfBI9c)
 * [KAFKA ARCHITECTURE: LOG COMPACTION](http://cloudurable.com/blog/kafka-architecture-log-compaction/index.html)
+* [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
