@@ -439,6 +439,7 @@ Programming Books
 * (NOT YET) [알파고를 분석하며 배우는 인공지능](https://jpub.tistory.com/941)
 * (NOT YET) [실전 예제로 배우는 GAN - 파이썬, 텐서플로, 케라스로 다양한 GAN 아키텍처를 구축하고 활용하기](https://wikibook.co.kr/gan/)
 * (NOT YET) [파이썬을 이용한 머신러닝, 딥러닝 실전 앱 개발 - 실무에서 즉시 활용 가능한 머신러닝, 딥러닝 실전 앱 개발](https://wikibook.co.kr/python-ml-app-dev/)
+* (NOT YET) [이토록 쉬운 딥러닝을 위한 기초 수학 with 파이썬](https://www.rubypaper.co.kr/93)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
