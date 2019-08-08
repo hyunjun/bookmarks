@@ -72,7 +72,6 @@ SQL
 * [SQL Best Practices — Designing An ETL Video](https://hackernoon.com/sql-best-practices-designing-an-etl-video-1933665f9861)
 * **[DBMS 버퍼 관리의 두 가지 흐름 가상 메모리 페이지 교체 알고리즘 활용…페이지 부재 발생 빈도 줄여 성능 향상](http://www.datanet.co.kr/news/articleView.html?idxno=115592)**
 * [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558)
-* [What is Sharding?](https://medium.com/@radixdlt/what-is-sharding-6ca10b72cbd1)
 * [중국의 어떤 서버 개발자의 디비 설계](https://blog.naver.com/imays/221461537682)
   * [practice - 중국의 어떤 서버 개발자의 디비 설계](https://gist.github.com/hyunjun/0f83fd13165444e38645a74bc4e1c1f1#file-db_design-md)
 * [관계형 데이터 모델링](https://opentutorials.org/module/4134)
@@ -365,6 +364,7 @@ SQL
 * [MySQL Sharding에 관한 자료들](http://jason-heo.github.io/mysql/2015/08/23/mysql-sharding.html)
 * [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/asei/221511101848)
 * [LINE Manga 데이터베이스 샤딩 – 서버 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-server-side/)
+* [ADT 활용 예제1: MySQL Shard 데이터 재분배](http://tech.kakao.com/2016/07/01/adt-mysql-shard-rebalancing/)
 * [kingshard - A high-performance MySQL proxy](https://github.com/flike/kingshard)
 * [proxysql.com](https://proxysql.com/)
 
@@ -481,6 +481,15 @@ SQL
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
+
+# Sharding
+* [What is Sharding?](https://medium.com/@radixdlt/what-is-sharding-6ca10b72cbd1)
+* [Database의 샤딩(Sharding)이란?](https://nesoy.github.io/articles/2018-05/Database-Shard)
+* [NHN의 안과 밖: Sharding Platform](https://d2.naver.com/helloworld/14822) Spock Proxy, Gizzard, Cubrid Shard 비교
+* [샤딩은 쉬워요 샤딩하세요](https://www.popit.kr/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-1-%EC%83%A4%EB%94%A9%EC%9D%80-%EC%89%AC%EC%9B%8C%EC%9A%94-%EC%83%A4%EB%94%A9%ED%95%98%EC%84%B8/) 실제로는 어렵다는 이야기
+* [Sharding(샤딩)](https://jacking.tistory.com/1146)
+* [샤딩과 파티셔닝의 차이점](http://theeye.pe.kr/archives/1917)
+* [How we scaled Freshdesk (Part II) – The Sharding and Rebalancing techniques we used](https://freshdesk.com/product-updates/how-freshdesk-scaled-using-sharding-blog/)
 
 # SQLite
 * [example - python](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
