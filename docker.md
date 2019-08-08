@@ -20,6 +20,7 @@ Docker
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
 * [Docker Containers vs Virtual Machines vs Physical Machines | Docker Tutorial For Beginners](https://www.youtube.com/watch?v=FRescr1iBZI)
+* [Docker For The Absolute Beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 * [WHAT IS DOCKER?](https://www.gangboard.com/blog/what-is-docker)
 * [Docker: Getting Started with Docker Docker 시작하기](http://www.sauru.so/blog/getting-started-with-docker/)
 * [Docker: Installation and Test Drive Utuntu 위에 Docker 설치하고 맛보기](http://www.sauru.so/blog/docker-installation-and-test-drive/)
@@ -675,6 +676,7 @@ Docker
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
 * 쿠버네티스 고급 스케쥴링 기법
   * [#1 스케쥴링과 Taint&Toleration](https://bcho.tistory.com/1344)
+* [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
