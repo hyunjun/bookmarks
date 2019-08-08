@@ -2368,6 +2368,7 @@ Javascript
 * [리액트, 타입스크립트 시작하기](http://jeonghwan-kim.github.io//dev/2019/06/25/react-ts.html)
 * [React프로젝트에 타입스크립트 개발환경 구축하기](https://awesomezero.com/post/TSSetting/)
 * [10 Advanced TypeScript Questions For An Interview — With Answers](https://medium.com/hackernoon/10-advanced-typescript-questions-for-an-interview-with-answers-6f0513b1688e)
+* [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
