@@ -1507,10 +1507,12 @@ Python
 * **[EuroPython 2019  Unleash the power of C++ in Python](https://github.com/cmaureir/unleash_cpp)**
   * [Unleash The Power of C++ In Python](https://www.youtube.com/watch?v=vvyTuFOJRrk)
 
-# Excel
+# Excel, Spreadsheet
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (1)](https://woolbro.tistory.com/35)
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (2)](https://woolbro.tistory.com/36)
+* **[Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io ](https://github.com/ricklamers/gridstudio)**
+  * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
 * pandas [practice - test_pandas.py](https://github.com/hyunjun/practice/blob/master/python/test-excel/test_pandas.py) key가 자동으로 정해지므로 필요하면 customize해야 함
