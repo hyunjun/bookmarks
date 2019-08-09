@@ -341,6 +341,7 @@ NLP
 * [실제 코드로 보는 XLNet (Code Review)](https://www.notion.so/4aca62fa1ffe4e3483b69cbc09f0a066)
 * [A Simple Explanation of XLNet](https://www.slideshare.net/DomyoungLee/a-simple-explanation-of-xlnet)
 * [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks)
+* [BERT 설명 발표 자료](https://banana-media-lab.tistory.com/entry/BERT-설명-발표-자료)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
