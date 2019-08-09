@@ -1089,6 +1089,7 @@ Python
 * [Exploring Python 3’s Asyncio by Example](http://www.giantflyingsaucer.com/blog/?p=5557)
 * [ASYNC EXECUTION IN PYTHON USING MULTIPROCESSING POOL](http://masnun.com/2014/01/01/async-execution-in-python-using-multiprocessing-pool.html)
 * [Playing with asyncio](http://www.getoffmalawn.com/blog/playing-with-asyncio) comparison with twisted & gevent
+* [어릴 적 할머니가 들려주신 옛 wsgi](https://www.slideshare.net/HyunMookChoi/wsgi-162199553) wsgi & gevent
 * [asyncio.readthedocs.io](http://asyncio.readthedocs.io)
   * [Producer/consumer](http://asyncio.readthedocs.io/en/latest/producer_consumer.html)
 * [Python 3 asyncio basic producer / consumer example](https://gist.github.com/akrylysov/ebab39ca9dafd292916e)
