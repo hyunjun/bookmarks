@@ -225,6 +225,7 @@ R
   * [Competing Risk Model In R](http://blog.naver.com/kjhnav/221061540312)
 * **[www.di.fc.ul.pt/~jpn/r](http://www.di.fc.ul.pt/~jpn/r/)**
 * [R Statistical Programming Using MariaDB as the Background Database](https://mariadb.com/kb/en/mariadb/r-statistical-programming-using-mariadb-as-the-background-database/)
+* [A Comprehensive Introduction to Working with Databases using R](https://www.r-bloggers.com/a-comprehensive-introduction-to-working-with-databases-using-r/)
 * [틀리지 않는 법](https://www.slideshare.net/ssuser7e30b2/ss-79308094)
 * [논리 연산자 정리](https://mrchypark.github.io/r/operator/%EB%85%BC%EB%A6%AC-%EC%97%B0%EC%82%B0%EC%9E%90-%EC%A0%95%EB%A6%AC.html)
 * [RSelenium 사용법](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/38387a64fccaa643348e02f4d9bb7c4e#/)
