@@ -1521,6 +1521,7 @@ Javascript
   * [타입 안전한 express 앱 구현하기 타입스크립트를 쓰면 타입스크립트 사용법을 따르라](https://libsora.so/posts/make-typesafe-express-app/)
   * [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://www.youtube.com/watch?v=vjf774RKrLc)
   * [Building a simple REST API with NodeJS and Express](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
+  * [Express.js 서버는 왜 304를 반환하는 걸까?](https://huns.me/development/2306)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
