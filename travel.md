@@ -189,6 +189,9 @@ Travel
 ## Georgia
 * [코카서스의 숨겨진 왕국 조지아Georgia②크베브리 와인, 조지아의 태양을 마시다](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160623141406079&RIGHT_LIFE=R5)
 
+## Hong Kong
+* [홍콩 비행 7년 차 승무원이 추천하는 홍콩 초심자 24시간 코스!](https://ppss.kr/archives/187370)
+
 ## Indonesia
 
 ### Bali
