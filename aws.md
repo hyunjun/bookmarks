@@ -308,6 +308,7 @@ AWS
 * [AWS NAT 인스턴스의 가성비 확인](https://elegantcoder.com/aws-nat-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%80/)
 * [AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362)](https://www.youtube.com/watch?v=HCCkVz25UU4) GitOps
 * [서버리스 시대에 GitOps를 통한 모던 CI/CD 파이프라인 구축](https://aws.amazon.com/ko/blogs/korea/building-a-modern-ci-cd-pipeline-in-the-serverless-era-with-gitops)
+* [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM)
 * [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
 * [아빠 왜 집에서 일해요? (feat. aws)](http://totuworld.github.io/2019/01/09/aws-beanstalk/)
   * Elastic Beanstalk에서 node.js의 dev와 prod 환경에서 version 차이로 인한 오류 해결 이야기
