@@ -204,6 +204,7 @@ AWS
 * [Terraform의 remote_state 활용하기](https://brunch.co.kr/@alden/51)
 * [Terraform](https://www.joinc.co.kr/w/man/12/terraform)
 * [Terraform Enterprise의 원격 상태 관리](https://blog.outsider.ne.kr/1452)
+* [Azure와 AWS간 VPN 연결하기 (Terraform)](https://tech.cloudmt.co.kr/2019/08/09/Post/)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
 * [Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
