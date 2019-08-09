@@ -29,10 +29,10 @@ Julia
 * [Tricked out iterators in Julia](http://slendermeans.org/julia-iterators.html)
 * [route optimizer](https://forio.com/app/showcase/route-optimizer/)
 * [Julia founders commercialise language, create new startup](http://economictimes.indiatimes.com/articleshow/47211869.cms)
-* [juliacon](http://juliacon.org/)
-  * [Meet the Julians](http://bit-player.org/2015/meet-the-julians)
 * [Shelling Out Sucks](http://julialang.org/blog/2012/03/shelling-out-sucks/)
-* JuliaCon
+* [JuliaCon](http://juliacon.org/)
+  * [Meet the Julians](http://bit-player.org/2015/meet-the-julians)
+  * [The 6th annual JuliaCon 2019 (Baltimore)](https://www.youtube.com/playlist?list=PLP8iPy9hna6StY9tIJIUN3F_co9A0zh0H)
   * [JuliaCon 2019 | Keynote: Professor Madeleine Udell](https://www.youtube.com/watch?v=BjMgo3liDZ8)
   * [JuliaCon 2017](http://juliacon.org/2017/schedule)
     * [JuliaCon 2017](http://juliacon.org/2017/talks.html)
