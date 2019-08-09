@@ -9,6 +9,7 @@ Android
 * [Maps on Android](https://engblog.nextdoor.com/2015/06/25/maps-on-android/)
 * [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
 * [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
+* [ADB(Android Debug Bridge)를 맥 OS에서 사용하는 방법](https://developer88.tistory.com/174)
 * [Reverse Engineering the Subway Android App](http://randywestergren.com/reverse-engineering-the-subway-android-app/)
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 * [Mining usage patterns for the Android API](https://peerj.com/articles/cs-12/)
