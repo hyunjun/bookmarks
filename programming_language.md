@@ -161,6 +161,7 @@ Programming Language
   * [Solving the Boolean Identity Crisis: Part 2](https://programming-elm.com/blog/2019-05-30-solving-the-boolean-identity-crisis-part-2/)
   * [Solving the Boolean Identity Crisis: Part 3](https://programming-elm.com/blog/2019-06-17-solving-the-boolean-identity-crisis-part-3/)
   * [Elm in the Spring](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ/videos)
+  * [elm-minesweeper - An implementation of the game "Minesweeper" in Elm](https://github.com/Lattyware/elm-minesweeper)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)
