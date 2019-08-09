@@ -388,6 +388,7 @@ Business
 * [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7)
 * [9 Initial Mistakes to Avoid When Starting to Do OKR Goals](https://www.atiim.com/blog/9-initial-okr-goals-mistakes-to-avoid/)
 * [5 Reasons Why OKRs Failed In Some Organisations](https://www.linkedin.com/pulse/5-reasons-why-okrs-failed-some-organisations-yatin-pawar?articleId=6947240228584562964)
+* [책을 읽고 - 구글이 목표를 달성하는 방식 OKR](https://jusths.tistory.com/147)
 
 # Patent
 * 세기의 특허전쟁
