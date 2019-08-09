@@ -51,6 +51,7 @@ Linux
     * [앤서블 설치 - vagrant로 생성한 가상 머신(guest system)에 앤서블(Ansible)을 설치하여 앤서블(Ansible)을 사용할 수 있는 환경을 만듭니다](https://dev-yakuza.github.io/ko/environment/install-ansible/)
     * [1. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - 호스트 연결하기](https://jojoldu.tistory.com/432)
     * [2. Ansible (앤서블) 로 전체 서버 계정 추가하기 - CLI로 계정 추가하기](https://jojoldu.tistory.com/433)
+    * [3. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - 플레이북으로 개선하기](https://jojoldu.tistory.com/438)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
