@@ -200,6 +200,7 @@ Algorithm
 ## Time Complexity
 * `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
 * [The Ultimate Beginners Guide To Analysis of Algorithm](https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5)
+* [The 5 Fundamental Running Times in Computer Science](https://medium.com/cracking-the-data-science-interview/the-5-fundamental-running-times-in-computer-science-e6872c7a103)
 
 ## Space Complexity
 
