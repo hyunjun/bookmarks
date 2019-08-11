@@ -41,6 +41,8 @@
   * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
   * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
 * [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
+* [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
+* [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 * [Memento Pattern](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180907_BB_memento_pattern.md)
 * [이펙티브 자바3판 2장 객체 생성과 파괴](http://sjh836.tistory.com/168)
 * [Goodbye, Object Oriented Programming](https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53)
@@ -49,7 +51,6 @@
 * [The Rise and Fall of Object Oriented Programming](https://medium.com/machine-words/the-rise-and-fall-of-object-oriented-programming-d67078f970e2)
 * [5 Free Object-Oriented Programming Online Courses for Programmers](https://medium.com/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73)
 * [GRASP – General Responsibility Assignment Software Patterns Explained](http://www.kamilgrzybek.com/design/grasp-explained/)
-* [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
