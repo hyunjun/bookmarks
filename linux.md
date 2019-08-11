@@ -250,6 +250,7 @@ Linux
   * [15 Linux Split and Join Command Examples to Manage Large Files](http://www.thegeekstuff.com/2012/10/15-linux-split-and-join-command-examples-to-manage-large-files/)
 * kill
   * [Best way to kill all child processes](http://stackoverflow.com/questions/392022/best-way-to-kill-all-child-processes)
+  * [Killing a process and all of its descendants](http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html)
 * `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * `ls`
