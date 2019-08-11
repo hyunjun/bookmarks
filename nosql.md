@@ -258,6 +258,9 @@ NoSQL
 * [levi - Streaming full-text search for Node.js and browsers. Built on LevelDB](https://github.com/cshum/levi)
 * [Siberite is a simple leveldb backed message queue server](https://github.com/bogdanovich/siberite)
 
+# LF
+* [lf - Fully Decentralized Fully Replicated Key/Value Store](https://github.com/zerotier/lf)
+
 # [LMDB - Lightning Memory-Mapped Database Manager](http://symas.com/mdb/doc/)
 * [github.com/LMDB/lmdb](https://github.com/LMDB/lmdb)
 * [python-LMDB](https://github.com/dsindex/blog/wiki/%5Bpython%5D-LMDB)
