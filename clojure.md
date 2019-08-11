@@ -534,6 +534,7 @@ Clojure
 * [clojupyter - A Jupyter kernel for Clojure. This will let you run Clojure code from the Jupyter console and notebook](https://github.com/clojupyter/clojupyter)
 * [clojure2minizinc - provides an interface between state-of-the-art constraint solvers (via MiniZinc) and a very high-level programming language with excellent abstraction capabilities, Clojure](https://github.com/tanders/clojure2minizinc)
 * [clojure-android](http://clojure-android.info/)
+* [clojure-api-starter](https://github.com/myungjaeyu/clojure-api-starter) web boilerplate
 * [clojure.bat - Launch Clojure conveniently in Windows](https://github.com/kimtg/clojure.bat)
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
