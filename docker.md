@@ -676,6 +676,7 @@ Docker
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
 * 쿠버네티스 고급 스케쥴링 기법
   * [#1 스케쥴링과 Taint&Toleration](https://bcho.tistory.com/1344)
+  * [#2 Affinity](https://bcho.tistory.com/1346)
 * [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/)
 
 # Library
