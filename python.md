@@ -1099,9 +1099,9 @@ Python
 * [async_await_help.py](https://gist.github.com/Kcrong/ecb919bfbd45fe186899554b628e6db4#file-async_await_help-py)
 * [Using asynchronous for loops in Python](https://quentin.pradet.me/blog/using-asynchronous-for-loops-in-python.html)
 * 파이썬과 비동기 프로그래밍
-  * [#1, 비동기 프로그래밍이란](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-1/)
-  * [#2, 파이썬에서 비동기 프로그래밍 시작하기](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-2/)
-  * [#3, 파이썬에서 비동기 프로그래밍 활용하기](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-3/)
+  * [#1, 비동기 프로그래밍이란](https://sjquant.tistory.com/13)
+  * [#2, 파이썬에서 비동기 프로그래밍 시작하기](https://sjquant.github.io/14)
+  * [#3, 파이썬에서 비동기 프로그래밍 활용하기](https://sjquant.github.io/15)
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
