@@ -2199,7 +2199,7 @@ Python
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
-* **[Dask](https://dask.pydata.org/)**
+* **[Dask](https://dask.org/)** Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love
   * [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
   * **[Xray + Dask](https://anaconda.org/ijstokes/xray-dask/notebook)**
