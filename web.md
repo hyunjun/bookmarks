@@ -565,6 +565,7 @@ Web
 * [How to Use Google Ads API with REST Endpoints](https://hackernoon.com/using-google-ads-api-with-rest-endpoints-c8957eab1d31)
 * [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4)
 * [Guys, REST APIs are not Databases](https://medium.com/@marinithiago/guys-rest-apis-are-not-databases-60db4e1120e4)
+* [API 설계·개발·시험 돕는다 '무료 툴 13종'](http://www.ciokorea.com/news/127430)
 
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
