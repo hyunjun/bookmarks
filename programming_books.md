@@ -383,6 +383,7 @@ Programming Books
   * [데이터 중심 애플리케이션 설계 - 1장](https://astrod.github.io/data/2019/07/07/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-1%EC%9E%A5/)
   * [데이터 중심 애플리케이션 설계 2장 - 데이터 모델과 질의 언어](https://astrod.github.io/data/2019/07/27/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-2%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%A7%88%EC%9D%98-%EC%96%B8%EC%96%B4/)
   * [데이터 중심 애플리케이션 설계 3장 - 저장소와 검색](http://astrod.github.io/data/2019/08/04/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-3%EC%9E%A5-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%99%80-%EA%B2%80%EC%83%89/)
+  * **[데이터 중심 애플리케이션 설계 5장 - 복제](http://astrod.github.io/data/2019/08/11/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-5%EC%9E%A5-%EB%B3%B5%EC%A0%9C/)**
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
