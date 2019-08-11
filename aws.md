@@ -373,6 +373,8 @@ AWS
 * [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
+* [What should we know about AWS Security? (Part 1)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security.html)
+* [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
