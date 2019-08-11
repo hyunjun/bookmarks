@@ -108,6 +108,7 @@ Java
 * [Line Messaging API를 활용한 챗봇 만들기](https://dbbymoon.tistory.com/2)
 * [Annotation과 Reflection을 이용한 챗봇 컨트롤러 만들기](https://dbbymoon.tistory.com/5)
 * [5월 우아한 Tech 세미나 후기](http://woowabros.github.io/woowabros/2019/05/09/techseminar-java-performance.html) 성능, 라이센스, 모니터링
+* [Writing Web Applications in Java - a Study of Alternatives](https://www.infoq.com/news/2019/05/web-app-java-jvm-alternatives/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -531,6 +532,7 @@ Java
 * [jabba - Java Version Manager inspired by nvm (Node.js)](https://github.com/shyiko/jabba)
 * [javacpp - The missing bridge between Java and native C++](https://code.google.com/p/javacpp/)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
+* javalin [Introducing Javalin: a Lightweight Web Framework for Java and Kotlin](https://www.infoq.com/news/2019/07/javalin/)
 * [java-linq-examples - 101 C# LINQ Samples in Java](https://github.com/mythz/java-linq-examples)
 * [Java Native Access (JNA)](https://jna.java.net/javadoc/overview-summary.html)
   * [java-native-access jna](https://github.com/java-native-access/jna)
