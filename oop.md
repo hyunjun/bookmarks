@@ -132,7 +132,7 @@
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
 * [싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)
 * [Double-checked locking and the Singleton pattern](https://www.ibm.com/developerworks/library/j-dcl/)
-* **[멀티스레드 환경에서의 싱글톤 패턴](https://jungwoon.github.io/java/2017/06/12/Singleton-Pattern-with-Multi-Thread/)**
+* **[멀티스레드 환경에서의 싱글톤 패턴](https://jungwoon.github.io/java/2019/08/11/Singleton-Pattern-with-Multi-Thread/)**
 * **[Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)**
 * [싱글톤 디자인 패턴](https://astrod.github.io/design_pattern/2018/09/15/Head-First-%EC%8B%B1%EA%B8%80%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)
 * [이터레이터 디자인 패턴](http://astrod.github.io/2017/04/10/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4.html)
