@@ -62,6 +62,7 @@ Android
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
 * [요약 Android Studio/ Tips and Tricks ~ Part2 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part2/)
 * [요약 Android Studio/ Tips and Tricks ~ Part3 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/07/io19-android_studio_tips_and_tricks_part3/)
+* [I/O에서 발표된 Android의 현재를 정리해보았습니다](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
 * [#01 안드로이드 일기장 앱을 만들어봅시다](https://www.youtube.com/watch?v=yWvBLMJ8O7Q)
 * [빌드시간 최적화하기(빌드속도 70%감소)](http://gun0912.tistory.com/76)
 * [github.com/Mybridge/amazing-android-apps](https://github.com/Mybridge/amazing-android-apps)
