@@ -152,6 +152,7 @@ Haskell
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018)
 * [reasonablypolymorphic.com/blog/archives](http://reasonablypolymorphic.com/blog/archives/)
 * [Functional Programming for the Long Haul](https://www.youtube.com/watch?v=4Q9WUrelSng)
+* [24 Days of GHC Extensions](https://ocharles.org.uk/pages/2014-12-01-24-days-of-ghc-extensions.html)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
