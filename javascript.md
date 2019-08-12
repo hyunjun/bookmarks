@@ -859,6 +859,7 @@ Javascript
 * [14 jQuery Modal Dialog Boxes](https://www.sitepoint.com/14-jquery-modal-dialog-boxes/)
 * [특정 엘리먼트로 부드럽게 스크롤 이동하기](https://blog.l0gic.me/jquery-%ED%8A%B9%EC%A0%95-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EB%A1%9C-%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/)
 * [jQuery의 역사: 존은 어떻게 jQuery를 구축했을까요?](https://ko.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery)
+* [IE의 ajax 캐시 이슈를 처리하는 방법](http://jeonghwan-kim.github.io//dev/2019/08/12/ie-cache.html)
 
 # Library
 * **[RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io ](https://github.com/gothinkster/realworld)**
@@ -1774,6 +1775,7 @@ Javascript
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
+* [Authentication in SPA (ReactJS and VueJS) the right way](https://medium.com/@jcbaey/authentication-in-spa-reactjs-and-vuejs-the-right-way-e4a9ac5cd9a3)
 * [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
 * [리액트 상대경로 -> 절대경로 변경](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C-%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C-%EB%B3%80%EA%B2%BD-1485babb5198)
 * [React prod, staging, dev 환경별 환경 설정하기](https://engineering.huiseoul.com/react-prod-staging-dev-%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-8eb6bbccddfe)
