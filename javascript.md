@@ -1524,6 +1524,7 @@ Javascript
   * [Build A Restful Api With Node.js Express & MongoDB | Rest Api Tutorial](https://www.youtube.com/watch?v=vjf774RKrLc)
   * [Building a simple REST API with NodeJS and Express](https://medium.com/@onejohi/building-a-simple-rest-api-with-nodejs-and-express-da6273ed7ca9)
   * [Express.js 서버는 왜 304를 반환하는 걸까?](https://huns.me/development/2306)
+  * [express에서 에러로 HTTP status code 통제하기 throw new createError.BadRequest()](https://libsora.so/web/express-error-and-http-status-code/)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
