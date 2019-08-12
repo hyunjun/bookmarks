@@ -473,7 +473,8 @@ Clojure
 * [Replete: A Standalone iOS CLJS REPL](http://blog.fikesfarm.com/posts/2015-06-27-replete-a-standalone-ios-cljs-repl.html)
 * [sablono - Lisp/Hiccup style templating for Facebook's React in ClojureScript](https://github.com/r0man/sablono)
 * [secretary - A client-side router for ClojureScript](https://github.com/gf3/secretary)
-* [Shadow CLJS User’s Guide](https://shadow-cljs.github.io/docs/UsersGuide.html)
+* [shadow-cljs ClojureScript compilation made easy http://shadow-cljs.org ](https://github.com/thheller/shadow-cljs)
+  * [Shadow CLJS User’s Guide](https://shadow-cljs.github.io/docs/UsersGuide.html)
   * lein-cljsbuild를 대체할 수 있는 compiler
   * lein 연동 가능, 독립 실행도 가능
 * [tau.alpha - a ClojureScript library for managing webworkers, ideally similar to Clojure's concurrency primitives](https://github.com/johnmn3/tau.alpha)
