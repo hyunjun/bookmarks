@@ -81,6 +81,7 @@ Network
   * [HTTPS - 2. HTTPS의 Ciphersuite -1. 키 교환과 인증](https://www.youtube.com/watch?v=iEig3jlT45Y)
   * [HTTPS - 3. 키 유도(Key derivation)](https://www.youtube.com/watch?v=er1eG2dfURQ)
   * [How does SSL/TLS make HTTPS secure?](https://hackernoon.com/how-does-ssl-tls-make-https-secure-d247bd4e4cae)
+  * **[버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)** 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 
