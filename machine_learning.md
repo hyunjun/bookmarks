@@ -549,6 +549,7 @@ Machine Learning
 * [10 Best Machine Learning YouTube Videos](https://www.springboard.com/blog/machine-learning-youtube)
 * [Runway ML - Machine learning for creators](https://runwayml.com/)
 * [온라인서점고객세분화: 리비젼 전용준 머신러닝 190731](https://www.youtube.com/watch?v=cgV_BFavkxU)
+* [패턴 찾기·노이즈 추적에 효과적인 비지도 학습 알아보기](http://www.itworld.co.kr/news/127979)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
