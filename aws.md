@@ -101,6 +101,8 @@ AWS
   * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
 * [Elastic Beanstalk Developer Guide](https://github.com/awsdocs/aws-elastic-beanstalk-developer-guide/)
 * [How to deploy a Node.js app to the AWS Elastic Beanstalk](https://medium.freecodecamp.org/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977)
+* [Deploying a production Node/Express Mongo App to AWS — A Reflection](https://medium.freecodecamp.org/deploying-a-production-node-express-mongo-app-to-aws-a-reflection-8982894289c6)
+* [How to directly deploy Github code of MERN/MEAN app on AWS?](https://www.youtube.com/watch?v=i9g2Sg10DPk)
 * [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
 * [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
 * AWS Beanstalk을 이용한 성능 튜닝 시리즈
@@ -109,7 +111,6 @@ AWS
   * [3. Nginx 튜닝](http://jojoldu.tistory.com/322)
   * [4. 기타](http://jojoldu.tistory.com/323)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
-* [Deploying a production Node/Express Mongo App to AWS — A Reflection](https://medium.freecodecamp.org/deploying-a-production-node-express-mongo-app-to-aws-a-reflection-8982894289c6)
 * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
   * [ImportError: No module named httpsession 문제 발생시](https://jojoldu.tistory.com/426)
