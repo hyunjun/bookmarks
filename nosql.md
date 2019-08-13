@@ -33,6 +33,7 @@ NoSQL
 * [The design and implementation of modern column-oriented database systems](https://blog.acolyer.org/2018/09/26/the-design-and-implementation-of-modern-column-oriented-database-systems/)
   * 2012년 “The design and implementation of modern column-oriented database systems” 라는 98페이지 분량의 페이퍼 요약
 * [SQL vs NoSQL — What is better for you?](https://hackernoon.com/sql-vs-nosql-what-is-better-for-you-cc9b73ab1215)
+* [SQL vs NoSQL — What is better for you?](https://medium.com/hackernoon/sql-vs-nosql-what-is-better-for-you-cc9b73ab1215)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
