@@ -179,8 +179,15 @@ Travel
 * [지금, 행복하신가요?](http://v.media.daum.net/v/20170525040024309?d=y)
 
 ## China
+* [중국여행에서 유용하게 쓴 앱(1) 위챗페이](https://estimastory.com/2018/12/30/wechatpay-2/)
+* [중국여행에서 유용하게 쓴 앱(2) 바이두지도](https://estimastory.com/2019/01/01/baidumap/)
 * [2015년, 베이징 여행자를 위한 추천 코스 & 팁](http://ppss.kr/archives/48382)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
+* [중국 윈난성 여행-쿤밍(1/4)](https://estimastory.com/2019/01/06/kunming1/)
+* [중국 윈난성 여행-리장(2/4)](https://estimastory.com/2019/01/07/lijiang/)
+* [중국 윈난성 여행 – 다리(3/4)](https://estimastory.com/2019/01/08/dali/)
+* [중국 윈난성 여행 – 다시 쿤밍(4/4)](https://estimastory.com/2019/01/11/kunming2/)
+* [두번째 중국 윈난 여행](https://estimastory.com/2019/08/12/yunnan2/)
 
 ## Dubai
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
