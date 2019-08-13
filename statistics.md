@@ -107,6 +107,7 @@ Statistics
 * [변동계수](https://ko.m.wikipedia.org/wiki/%EB%B3%80%EB%8F%99%EA%B3%84%EC%88%98) 평균 + 분산값 통합 평가
 * [통계학 입문 수준의 공부방법 및 추천 서적](http://posterior.egloos.com/m/9637423)
 * [피셔정확검정을 통한 고객군 상품구매액평균 순위 분석](http://blog.naver.com/hancury/220797689533)
+* **[실시간 데이터의 평균을 효율적으로 구하기](https://evan-moon.github.io/2019/08/11/average-filter/)**
 * [math7.tistory.com/m/category/통계](http://math7.tistory.com/m/category/%ED%86%B5%EA%B3%84)
 * [Three common misuses of P values](http://www.dentalhypotheses.com/article.asp?issn=2155-8213;year=2016;volume=7;issue=3;spage=73;epage=80;aulast=Kim)
 * [LEARNING STATISTICS ON YOUTUBE](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
