@@ -394,6 +394,7 @@ Python
   * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
 * [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
 * [Pointers in Python](https://www.datacamp.com/community/tutorials/python-pointers)
+* [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
