@@ -97,6 +97,7 @@ Android
 * [How to develop an Android App in 2019: embracing the ‘new’ Android](https://medium.freecodecamp.org/developing-an-android-app-in-2019-embracing-the-new-android-51000037b6fa)
 * [안드로이드 카메라 예제 (1/2)](https://brunch.co.kr/@mystoryg/54)
 * [안드로이드 카메라 예제 (2/2)](https://brunch.co.kr/@mystoryg/55)
+* [안드로이드 카메라 프리뷰 좌우 반전](https://brunch.co.kr/@mystoryg/96)
 * [안드로이드에서 adb shell로 apk 추출하기](http://sunphiz.me/wp/archives/3210)
 * [Android에서 사용하는 CoroutineScope을 알아보자](https://thdev.tech/coroutines/2019/04/05/Init-Coroutines/)
 * [“DroidKnights 2019” MotionLayout 무릎까지 담궈보기](http://pluu.github.io/blog/android/2019/04/07/droidknights-motionlayout/)
