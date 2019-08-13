@@ -32,6 +32,7 @@ C#
 * [csharp-examples.net](http://www.csharp-examples.net/)
 * [Object-Oriented Programming Concepts “In Simple English”](https://medium.com/@yannmjl/object-oriented-programming-concepts-in-simple-english-3db22065d7d0)
 * [WPF MVVM 일주일 만에 배우기 - 책 소개](http://blog.wimy.com/451/)
+* [WPF UI Programming (C#)](https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M)
 * [Announcing .NET Core 3 Preview](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-3/)
 * [C# 무료강의2019](https://www.youtube.com/playlist?list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM1h5)
 * [How to easily implement QRCoder in ASP.NET Core using C#](https://medium.freecodecamp.org/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84)
