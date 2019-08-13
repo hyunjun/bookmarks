@@ -436,6 +436,8 @@ Python
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
 * [Road to become a Python Ninja — Data Structures](https://blog.usejournal.com/python-basics-data-structures-d378d854df1b) 기본 data structure
 * [Comprehending the ‘Comprehensions’ in Python](https://towardsdatascience.com/comprehending-the-concept-of-comprehensions-in-python-c9dafce5111)
+* [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
+* **[Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/)** 서로의 관계를 그림과 함께 잘 설명
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -3140,7 +3142,6 @@ Python
 * [파이썬 3.6에서 바뀐 점](http://raccoonyy.github.io/whats-new-in-python-3-6-korean/)
 * **[syntax_sugar](https://github.com/czheo/syntax_sugar_python)**
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
-* [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * [Lessons Learned: Digital Ocean for Python 3](https://medium.com/towards-data-science/lessons-learned-digital-ocean-for-python-3-e2442db4246f)
 * [Optimizations which made Python 3.6 faster than Python 3.5](http://pyvideo.org/pycon-us-2017/optimizations-which-made-python-36-faster-than-python-35.html)
 * [Instagram Makes a Smooth Move to Python 3](https://thenewstack.io/instagram-makes-smooth-move-python-3/)
