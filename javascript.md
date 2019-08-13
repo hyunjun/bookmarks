@@ -593,6 +593,7 @@ Javascript
 * [How to optimize Angular applications](https://itnext.io/how-to-optimize-angular-applications-99bfab0f0b7c)
 * [Animate Dynamic Components in Angular](https://netbasal.com/animate-dynamic-components-in-angular-10681438bdd4)
 * [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
+* [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
