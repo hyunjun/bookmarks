@@ -326,6 +326,7 @@ R
 * [MEMOISE IN R](https://lumiamitie.github.io/r/memoise/)
 * [고정효과(FIXED EFFECT)와 임의효과(RANDOM EFFECT)](http://ds.sumeun.org/?p=1923)
 * [오픈채팅방 데이터 탐색](http://rpubs.com/shjj08/katalk_textmining)
+* [변수 선택 방법: 선형 회귀 분석으로 변수를 선택한다면?](http://ds.sumeun.org/?p=1936)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
