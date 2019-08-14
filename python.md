@@ -31,6 +31,7 @@ Python
 * [Google for Education](https://developers.google.com/edu/python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
 * [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
+* [Python Tutorial | Beginners & Experienced – Learn Python](https://tutorial.eyehunts.com/python-tutorial/)
 * [python.zeef.com/luis.solis](https://python.zeef.com/luis.solis)
 * [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
 * [Intermediate Python](http://book.pythontips.com)
