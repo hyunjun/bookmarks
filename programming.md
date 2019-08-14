@@ -420,6 +420,7 @@ Programming
   * [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
     * [Details of the Cloudflare outage on July 2, 2019](https://new.blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
       * **[(번역) 2019년 7월 2일 Cloudflare 장애 보고서](https://ryanking13.github.io/2019/07/18/details-of-the-cloudflare-outage-on-july-2-2019.html)**
+  * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
@@ -474,6 +475,7 @@ Programming
 * [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
 * **[jack-vanlightly.com/blog/category/Distributed+Systems](https://jack-vanlightly.com/blog/category/Distributed+Systems)**
 * [Many Nodes, One Distributed System](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
+* [Getting Real About Distributed System Reliability](https://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability)
 
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
