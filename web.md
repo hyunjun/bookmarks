@@ -568,6 +568,9 @@ Web
 * [Guys, REST APIs are not Databases](https://medium.com/@marinithiago/guys-rest-apis-are-not-databases-60db4e1120e4)
 * [API 설계·개발·시험 돕는다 '무료 툴 13종'](http://www.ciokorea.com/news/127430)
 * [Richardson Maturity Model - steps toward the glory of REST](https://martinfowler.com/articles/richardsonMaturityModel.html)
+  * [REST의 영광을 향한 단계들 steps toward the glory of REST](https://jinson.tistory.com/190)
+* [RESTful 웹서비스](https://www.iamcorean.net/22)
+* [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
 
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
