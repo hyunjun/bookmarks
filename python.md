@@ -396,6 +396,7 @@ Python
 * [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
 * [Pointers in Python](https://www.datacamp.com/community/tutorials/python-pointers)
 * [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA)
+* [How to Make Histograms in Pure Python](https://www.youtube.com/watch?v=OpTwGLVCtHQ)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2730,7 +2731,8 @@ Python
 * pipwin
   * `pip install pipwin` & e.g. `pipwin install opencv-python`
   * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
-* [Poetry - PYTHON PACKAGING AND DEPENDENCY MANAGEMENT MADE EASY](https://poetry.eustace.io/)
+* [Poetry - Python dependency management and packaging made easy. https://poetry.eustace.io ](https://github.com/sdispater/poetry)
+  * [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
