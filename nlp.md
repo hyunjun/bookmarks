@@ -509,6 +509,8 @@ NLP
 * [sunwoobot - 선우봇 카카오 i 오픈빌더 챗봇](https://github.com/swparkaust/sunwoobot)
 * [A Repository of Conversational Datasets](https://medium.com/@matthen/a-repository-of-conversational-datasets-95e5ff17b6fb) PolyAI 공개. Reddit, OpenSubtitles, AmazonQA 등에서 모은 수억 건의 대화 데이터셋
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
+* [Plato Research Dialogue System](https://github.com/uber-research/plato-research-dialogue-system)
+  * [Introducing the Plato Research Dialogue System: A Flexible Conversational AI Platform](https://eng.uber.com/plato-research-dialogue-system/)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
