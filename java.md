@@ -870,6 +870,7 @@ Java
   * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
   * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
   * [연과 백엔드 팀은 유닛 테스트를 어떻게 할까?](https://blog.scienceoflove.co.kr/how-sol-tdd)
+  * [단위 테스트 활용 방법: JUnit 참조 가이드](https://jinson.tistory.com/entry/번역-Unit-Testing-Best-Practices-JUnit-Reference-Guide-단위-테스트-활용-방법-JUnit-참조-가이드)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Web
