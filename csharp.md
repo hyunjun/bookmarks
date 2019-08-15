@@ -60,6 +60,13 @@ C#
   * [HTTP GET with parameters](https://forums.xamarin.com/discussion/104527/http-get-with-parameters)
   * [HttpClient makes GET and POST very simple](https://blog.jayway.com/2012/03/13/httpclient-makes-get-and-post-very-simple/)
   * [Receiving JSON data back from HTTP request](https://stackoverflow.com/questions/10928528/receiving-json-data-back-from-http-request)
+* HttpResponseMessage
+  * [C# - Convert JSON string to JSON HttpResponseMessage](http://tech-turf.blogspot.com/2016/09/c-convert-json-string-to-json.html)
+  * [HttpResponseMessage 반환 된 JSON API 값을 가져 오기](https://codeday.me/ko/qa/20190703/950467.html)
+  * [Convert Json from HttpResponseMessage to string](https://stackoverflow.com/questions/27974204/convert-json-from-httpresponsemessage-to-string/)
+  * [Getting content/message from HttpResponseMessage](https://stackoverflow.com/questions/15936180/getting-content-message-from-httpresponsemessage)
+* IHttpActionResult
+  * [Choose the right return type for WebApi controllers](https://alastaircrabtree.com/choose-the-right-return-type-for-webapi-controllers/)
 * Linq
   * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
 * [moq - The most popular and friendly mocking library for .NET](https://github.com/moq/moq4)
@@ -84,6 +91,8 @@ C#
 * [calculator - Windows Calculator: A simple yet powerful calculator that ships with Windows](https://github.com/Microsoft/calculator)
   * [Counting Bugs in Windows Calculator](https://m.habr.com/en/company/pvs-studio/blog/443400/)
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
+* [Json.NET](https://www.newtonsoft.com/json)
+  * [JSON.NET JObject - how do I get value from this nested JSON structure](https://stackoverflow.com/questions/40538001/json-net-jobject-how-do-i-get-value-from-this-nested-json-structure)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
 * [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)
 * [SparkCLR adds C# language binding to Apache Spark enabling the implementation of Spark driver code and data processing operations in C#](https://github.com/Microsoft/SparkCLR)
