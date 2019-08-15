@@ -298,6 +298,7 @@ Programming
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
+* [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
