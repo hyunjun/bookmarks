@@ -299,6 +299,7 @@ Programming
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
+* [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
@@ -1278,6 +1279,7 @@ Programming
   * [기술 뉴스 #129 : 19-07-01](https://blog.outsider.ne.kr/1453)
   * [기술 뉴스 #130 : 19-07-15](https://blog.outsider.ne.kr/1454)
   * [기술 뉴스 #131 : 19-08-01](https://blog.outsider.ne.kr/1455)
+  * [기술 뉴스 #132 : 19-08-15](https://blog.outsider.ne.kr/1456)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
