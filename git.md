@@ -263,6 +263,7 @@ Git
   * [prepare-commit-msg 깃훅으로 커밋 메시지에 이슈 번호 넣기](http://ohgyun.com/746)
   * [Git 커밋 상태를 확인하기 위한 쉘 스크립트](https://rhostem.github.io/posts/2018-06-12-shellscript-to-check-commit/)
   * [Changing a commit message](https://help.github.com/articles/changing-a-commit-message/)
+  * [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
   * [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)
 * `config`
