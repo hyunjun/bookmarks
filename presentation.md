@@ -34,6 +34,7 @@ Presentation
 * [투자자가 줄을 서는 이 회사 PPT의 비결](http://naver.me/xzk4DqIC)
 * [무적의 투자유치용 덱 작성법](http://bridge.500startups.co.kr/%EB%AC%B4%EC%A0%81%EC%9D%98-%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98%EC%9A%A9-%EB%8D%B1-%EC%9E%91%EC%84%B1%EB%B2%95/)
 * [여러분은 발표하는 기회를 잡아야 합니다](http://aerosky.tistory.com/entry/%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%80-%EB%B0%9C%ED%91%9C%ED%95%98%EB%8A%94-%EA%B8%B0%ED%9A%8C%EB%A5%BC-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4)
+* [손정의회장의 탁월한 커뮤니케이션 능력](https://estimastory.com/2019/08/15/sonsvf2/)
 
 # Icons, Images
 * [thenounproject.com](http://thenounproject.com/) icons for everything
