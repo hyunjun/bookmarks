@@ -677,6 +677,7 @@ Docker
 * 쿠버네티스 고급 스케쥴링 기법
   * [#1 스케쥴링과 Taint&Toleration](https://bcho.tistory.com/1344)
   * [#2 Affinity](https://bcho.tistory.com/1346)
+  * [#3 리소스 부족 (Resource starving) 관리](https://bcho.tistory.com/1347)
 * [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/)
 
 # Library
