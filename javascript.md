@@ -594,6 +594,7 @@ Javascript
 * [Animate Dynamic Components in Angular](https://netbasal.com/animate-dynamic-components-in-angular-10681438bdd4)
 * [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 * [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
+* [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -2183,6 +2184,7 @@ Javascript
   * [Beginner’s Guide to React Router 4](https://medium.freecodecamp.org/beginners-guide-to-react-router-4-8959ceb3ad58)
   * [리액트 라우터 사용하기 (타입스크립트 버전)](http://jeonghwan-kim.github.io//dev/2019/07/08/react-router-ts.html)
   * [react-router을 사용하여 React(리액트)에서 페이지 전환을 사용해 봅시다](https://dev-yakuza.github.io/ko/react/react-router/)
+  * [리액트 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
