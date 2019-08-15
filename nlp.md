@@ -732,6 +732,7 @@ NLP
   * [FastText for Node.js](https://github.com/loretoparisi/fasttext.js)
   * [pyfasttext](https://pypi.org/project/pyfasttext)
   * [models.fasttext – FastText model](https://radimrehurek.com/gensim/models/fasttext.html#usage-examples) gensim example
+  * [fastText for Korean](https://github.com/skyer9/FastTextKorean)
 * [GluonNLP: NLP made easy](https://gluon-nlp.mxnet.io)
   * [Attention API로 간단히 어텐션 사용하기](http://freesearch.pe.kr/archives/4876) gluonNLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
