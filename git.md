@@ -585,4 +585,5 @@ Git
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
 * [utterances](https://utteranc.es/)
   * [페이스북 댓글을 utterances로 교체했습니다](https://blog.outsider.ne.kr/1356)
+  * [댓글 시스템을 바꾸었습니다](https://cojette.github.io/utterance/)
 * [Zenhub - Issue Management Tool](https://jaeyeophan.github.io/2017/04/30/issue-management-tool/)
