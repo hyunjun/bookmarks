@@ -286,6 +286,7 @@ Clojure
 * [Clojure 개발 환경 셋업 #3 - Calva](https://www.youtube.com/watch?v=7UVgW-A-e9g) [33:05~33:45](https://www.youtube.com/watch?v=8AJkLS7YqFg)
 * [Stuart Halloway Aim Small, Miss Small: Writing Correct Programs](https://www.deconstructconf.com/2018/stuart-halloway-aim-small-miss-small-writing-correct-programs)
 * [Clojure socket prepl cookbook](https://oli.me.uk/2019-03-22-clojure-socket-prepl-cookbook/)
+* [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
