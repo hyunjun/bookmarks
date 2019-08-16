@@ -394,6 +394,7 @@ Python
 * [One Day Builds: Instagram Automation Using Python](https://www.youtube.com/watch?v=vnfhv1E1dU4)
   * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
 * [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
+* [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
 * [Pointers in Python](https://www.datacamp.com/community/tutorials/python-pointers)
 * [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA)
 * [How to Make Histograms in Pure Python](https://www.youtube.com/watch?v=OpTwGLVCtHQ)
@@ -997,6 +998,7 @@ Python
     import string
     [string].translate(None, string.whitespace)
     ```
+  * [Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
