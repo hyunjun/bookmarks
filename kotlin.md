@@ -1,6 +1,7 @@
 [Kotlin](http://kotlinlang.org/)
 ======
 * [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+* [Getting Started with Kotlin for .NET Developers](https://hadihariri.com/2019/08/16/getting-started-with-kotlin-for-net-developers/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [Awesome Kotlin - A curated list of awesome Kotlin related stuff Inspired by awesome-java](https://github.com/KotlinBy/awesome-kotlin)
 * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
