@@ -2465,6 +2465,7 @@ Python
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
   * [pyparsing을 이용하여 Recursive 함수 호출 부분 가져오기](http://mcchae.egloos.com/11207110)
 * [PyPatt: Python Pattern Matching](http://www.grantjenks.com/docs/pypatt/)
+* [PyPinkSign - Small python code for K-PKI certificates. 공인인증서를 다루는 파이선 코드](https://github.com/bandoche/PyPinkSign)
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
 * pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)
