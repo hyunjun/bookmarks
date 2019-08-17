@@ -576,6 +576,7 @@ Java
   * [젠킨스에서 실패한 Job 무시하기](https://jojoldu.tistory.com/409)
   * [젠킨스 파이프라인 ( Jenkin pipeline ) - 병렬로 Job 실행하기](https://bob-full.tistory.com/10)
   * [젠킨스 파이프라인(Jenkins pipeline) - 빌드 파라미터 넣기](https://bob-full.tistory.com/11)
+  * [젠킨스와 Github ssh 연동하기](https://jojoldu.tistory.com/442)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
