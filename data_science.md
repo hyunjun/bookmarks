@@ -317,6 +317,7 @@ Data Science
 * [Advanced Linear Models for Data Science](https://leanpub.com/lm)
 * [Introduction to Data Science](https://leanpub.com/datasciencebook)
 * [The Best Free Books for Learning Data Science](https://www.dataquest.io/blog/free-books-learn-data-science)
+* [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
