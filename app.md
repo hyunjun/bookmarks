@@ -713,6 +713,7 @@ App
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [Remove Image Background](https://www.remove.bg)
 * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
+* [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) 딥러닝으로 만화에서 텍스트 제거
 * VLC
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
 * [vrew.voyagerx.com](https://vrew.voyagerx.com)
