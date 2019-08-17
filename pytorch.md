@@ -164,6 +164,7 @@ PyTorch
 * [Splitter - A PyTorch implementation of "Splitter: Learning Node Representations that Capture Multiple Social Contexts" (WWW 2019)](https://github.com/benedekrozemberczki/Splitter)
 * [파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch)
 * [PyTorch v1.2에서 생긴 Transformer API 를 이용한 간단한 Chitchat 챗봇](https://github.com/eagle705/PyTorch_Transformer_Chatbot)
+* [pytorch-music-composer](https://github.com/YoongiKim/pytorch-music-composer)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
