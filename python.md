@@ -2004,6 +2004,7 @@ Python
   * [Object Detection in Google Colab with Fizyr Retinanet](https://medium.freecodecamp.org/object-detection-in-colab-with-fizyr-retinanet-efed36ac4af3)
   * **[구글 Colaboratory에서 Drive 연동](https://ugong2san.tistory.com/1940)**
   * [Google_Colab_tutorial](https://github.com/sseung0703/Google_Colab_tutorial)
+  * [DeepLab Demo.ipynb](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
