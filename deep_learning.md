@@ -2153,6 +2153,7 @@ CVPR2016)
 * [Deep Reinforcement Learning, Summer 2019 (Samsung)](https://github.com/dongminlee94/Samsung-DRL-Code)
 * [How to study Reinforcement Learning](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki)
 * [ELF - An End-To-End, Lightweight and Flexible Platform for Game Research](https://github.com/facebookresearch/ELF)
+* [2019-OSS-Summer-RL](https://github.com/utilForever/2019-OSS-Summer-RL)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
