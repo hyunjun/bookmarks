@@ -2143,6 +2143,7 @@ Javascript
   * [Next.js, Razzle, CRA. Why you should use them for a next project](https://hackernoon.com/next-js-razzle-cra-why-you-should-use-them-for-a-next-project-a78d320de97f)
   * [The Next Porn: How to design a service without having money](https://hackernoon.com/the-next-porn-how-to-design-a-service-without-having-money-599e98a433cf)
   * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
+  * [nextjs-starter](https://github.com/myungjaeyu/nextjs-starter)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
