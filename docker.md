@@ -486,6 +486,7 @@ Docker
 * [gVisor: Building and Battle Testing a Userspace OS in Go](https://www.infoq.com/presentations/gvisor-os-go)
 
 # [Kubernetes](http://kubernetes.io)
+* [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
 * Kubernetes
@@ -679,6 +680,8 @@ Docker
   * [#2 Affinity](https://bcho.tistory.com/1346)
   * [#3 리소스 부족 (Resource starving) 관리](https://bcho.tistory.com/1347)
 * [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/)
+* [arisu1000.tistory.com/category/Kubernetes](https://arisu1000.tistory.com/category/Kubernetes)
+* [구글 클라우드 스터디잼 (심화)  가이드라인](https://docs.google.com/presentation/d/1BCpECH6lWqwdWfD5eKQ-htKiNjTJh5yOQEnGglYj4fY)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
