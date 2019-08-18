@@ -1872,6 +1872,7 @@ Javascript
 * [What is React Hooks? Learn in just 12 min](https://www.youtube.com/watch?v=pmd2uvCfPWw)
 * [mobx-react와 React Hooks API 함께 사용하기](https://blog.rhostem.com/posts/2019-07-22-mobx-v6-and-react-v16-8)
 * [React 렌더링 이해 및 최적화 (With Hook)](https://medium.com/vingle-tech-blog/react-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f255d6569849)
+* [React Hooks API가 도입된 이유](https://blog.rhostem.com/posts/2019-08-18-reason-whey-react-hooks-opt-in)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
 * [Theme in React JS](https://medium.com/chequer/theme-in-react-js-dbf5377d0890) antd
@@ -1982,6 +1983,7 @@ Javascript
 * [React에서 root import하기](https://dev-yakuza.github.io/ko/react/root-import/)
 * [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 * [12+ Awesome React Parallax Scroll Effects](https://onaircode.com/awesome-react-parallax-scroll-effects)
+* [3 Essential Tools to Boost your React App’s SEO](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
