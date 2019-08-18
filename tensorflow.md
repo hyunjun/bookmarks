@@ -249,6 +249,7 @@ TensorFlow
     * [XLA: TensorFlow, Compiled!](https://www.youtube.com/watch?v=kAOanJczHA0)
       * [XLA - TensorFlow, compiled](https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html)
       * [TensorFlow용 컴파일러인 XLA를 소개합니다](https://developers-kr.googleblog.com/2017/03/xla-tensorflow-compiled.html)
+      * [XLA를 소개합니다](https://b.mytears.org/2019/08/3022/)
     * [TensorFlow at DeepMind](https://www.youtube.com/watch?v=VdDmhOCw6J0)
     * [Mobile and Embedded TensorFlow](https://www.youtube.com/watch?v=0r9w3V923rk)
   * [2017 tensor flow dev summit](http://www.slideshare.net/taeyounglee1447/2017-tensor-flow-dev-summit)
