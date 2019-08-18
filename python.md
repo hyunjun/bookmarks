@@ -776,6 +776,7 @@ Python
   * [CLASS ATTRIBUTE 와 INSTANCE ATTRIBUTE 의 구분과 구현](http://blog.hanjae.tech/2018/12/python-class-attribute-instance.html)
     * 내부 동작을 이해하는 측면에서는 좋으나, 실제로는 전혀 쓸모없어 보임
   * [Underscore(\_)로 시작하는 파이썬 클래스명](https://lhy.kr/python-class-name-startwith-underscore)
+  * **[PyCon Korea 2019 리얼월드 메타클래스](https://slides.com/seonghyeonkim/pyconkr-realworld-metaclass)** 매우 좋은 발표 내용
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
@@ -3199,6 +3200,7 @@ Python
   * [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
 * [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
   * [우아하게 준비하는 테스트와 리팩토링 - PyCon Korea 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
+* **[PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi)** 주로 Django 기반이지만 매우 좋은 내용
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
