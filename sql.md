@@ -329,6 +329,7 @@ SQL
 * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
 
 ## MySQL Library
+* [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
   * [github.com/kakao/adt](https://github.com/kakao/adt)
 * [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)
