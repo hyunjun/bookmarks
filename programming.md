@@ -300,6 +300,7 @@ Programming
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
+* [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
