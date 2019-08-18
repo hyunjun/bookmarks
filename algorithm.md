@@ -38,6 +38,7 @@ Algorithm
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Binary data structures: an intro to trees and heaps in JavaScript](https://medium.freecodecamp.org/binary-data-structures-an-intro-to-trees-and-heaps-in-javascript-962ab536cb42)
 * [The complexity of simple algorithms and data structures in JS](https://medium.freecodecamp.org/the-complexity-of-simple-algorithms-and-data-structures-in-javascript-11e25b29de1e)
+* [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 * [A Step Towards Computing as a Science Simple Algorithms & Data Structures in JS](https://medium.freecodecamp.org/a-step-towards-computing-as-a-science-algorithms-data-structures-4c0e2d6ae79a)
 * [Using the Right Datastructure for the job](http://rohankshir.github.io/2015/05/15/choosing-the-right-datastructure/)
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
