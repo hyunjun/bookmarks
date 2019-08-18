@@ -182,6 +182,7 @@ Travel
 * [중국여행에서 유용하게 쓴 앱(1) 위챗페이](https://estimastory.com/2018/12/30/wechatpay-2/)
 * [중국여행에서 유용하게 쓴 앱(2) 바이두지도](https://estimastory.com/2019/01/01/baidumap/)
 * [윈난에서 이용한 디디추싱과 선조우좐처](https://estimastory.com/2019/08/15/shenzhou/)
+* [중국 모바일 페이의 진화](https://estimastory.com/2019/08/18/chinapayment/)
 * [2015년, 베이징 여행자를 위한 추천 코스 & 팁](http://ppss.kr/archives/48382)
 * [후미진 중국 골목에 한국인이 줄 선 이유](http://ppss.kr/archives/48472)
 * [중국 윈난성 여행-쿤밍(1/4)](https://estimastory.com/2019/01/06/kunming1/)
