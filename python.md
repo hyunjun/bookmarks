@@ -2853,6 +2853,7 @@ Python
 * [numpy tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
 * [Numpy — Python made efficient](https://towardsdatascience.com/numpy-python-made-efficient-f82a2d84b6f7)
 * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
+* [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
 # [Pandas](http://pandas.pydata.org/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
