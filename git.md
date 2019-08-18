@@ -113,6 +113,7 @@ Git
   * [코드 리뷰 방법(1)](http://d2.naver.com/helloworld/2882112)
   * [코드 리뷰 방법(2)](http://d2.naver.com/helloworld/9767525)
   * [CI 연동, SVN 마이그레이션](http://d2.naver.com/helloworld/6952033)
+  * [gerrit query로 리뷰 데이터 추출하기](http://sunphiz.me/wp/archives/3262)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
