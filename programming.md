@@ -839,6 +839,8 @@ Programming
   * [All 29 AI announcements from Google Next ‘19: the smartest laundry list](https://cloud.google.com/blog/products/ai-machine-learning/all-ai-announcements-from-google-next19-the-smartest-laundry-list)
   * [Google Cloud Next 19 정리 및 후기](https://zzsza.github.io/gcp/2019/04/13/google-next19-review)
   * [Cloud Next 요약 : Google Cloud Next ‘19에서 이루어진 122가지 이상의 발표 소식을 소개합니다](https://developers-kr.googleblog.com/2019/06/100-plus-announcements-from-google-cloud-next19.html)
+* [GOTO](https://blog.gotocon.com)
+  * [The Do's and Don'ts of Error Handling](https://gotochgo.com/2018/sessions/352)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
