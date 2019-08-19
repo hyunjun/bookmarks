@@ -298,6 +298,7 @@ NLP
   * [핑퐁에서 만든 채팅체랑 잘 맞는 띄어쓰기 모델!](https://github.com/pingpong-ai/chatspace)
 * [딥러닝 기반 한글 자동 띄어쓰기 API 공개](http://freesearch.pe.kr/archives/4647)
   * [딥러닝 한글 자동띄어쓰기 모형 성능 향상 및 API 업데이트](http://freesearch.pe.kr/archives/4674)
+* [한국어 띄어쓰기 프로그램 도전기](https://www.slideshare.net/TaekyoonChoi/taekyoon-choi-pycon)
 * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
   * [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
 
