@@ -438,7 +438,9 @@ Apache
 * [MirrorMaker Performance Tuning Tuning Kafka for Cross Data Center Replication](https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21)
   * compression.type 지정
   * Producer 에서 사용하면, Network BW 및 Broker단의 CPU 절약
+  * 전통적으로 Kafka 프로젝트 안에 탑재되어 있던 툴이지만 설계가 오래되서 scalable하게 동작하지 않으므로, 어지간히 오래된 Cluster 내용을 옮기는 게 아니라면 비추천
 * [Kafka Replication: The case for MirrorMaker 2.0](https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/)
+  * MirrorMaker 1의 대안으로 Cloudera 엔지니어가 개발. 1보다 훨씬 좋지만 아직 정식 탑재된 게 아니라 문서화 부족
 * **[blog.voidmainvoid.net/category/.../Kafka](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)**
   * [blog.voidmainvoid.net/tag/kafka](https://blog.voidmainvoid.net/tag/kafka)
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
@@ -463,6 +465,11 @@ Apache
 
 ## Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
+* [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
+  * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
+  * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
+  * 자체적인 Cluster를 설정해야 하며, 2019.07에 공개되어 자료 전무
+  * monitoring 방법은 MirrorMaker 1/2와 마찬가지로 내부적으로 kafka producer를 사용해 해당 process에 jmx로 접속해 producer sender metrics를 확인
 * [burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
   * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
   * [Burrow - kafka consumer의 지연(lag)을 모니터링할 수 있는 효과적인 opensource tool](https://blog.voidmainvoid.net/243)
@@ -475,6 +482,7 @@ Apache
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
+  * 디테일하게 'Destionation Topic의 Partition별 offset' 을 보고 싶은 경우 Destination Topic을 모니터링 시스템에 연결하는 방식
 * [kafka-monitor - Monitor the availability of Kafka clusters with generated messages](https://github.com/linkedin/kafka-monitor)
   * [URP? Excuse You! The Three Metrics You Have to Know (Todd Palino, Linkedin) Kafka Summit 2018](https://videos.confluent.io/watch/upUNYs7NAGN6jbQefwERFs)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
