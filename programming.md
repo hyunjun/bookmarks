@@ -840,6 +840,10 @@ Programming
   * [Google Cloud Next 19 정리 및 후기](https://zzsza.github.io/gcp/2019/04/13/google-next19-review)
   * [Cloud Next 요약 : Google Cloud Next ‘19에서 이루어진 122가지 이상의 발표 소식을 소개합니다](https://developers-kr.googleblog.com/2019/06/100-plus-announcements-from-google-cloud-next19.html)
 * [GOTO](https://blog.gotocon.com)
+  * [GOTO AMSTERDAM 2019](https://gotoams.nl/2019)
+  * [GOTO BERLIN 2019](https://gotober.com/2019)
+  * [GOTO CHICAGO 2019](https://gotochgo.com/2019/)
+  * [GOTO COPENHAGEN 2019](https://gotocph.com/2019)
   * [The Do's and Don'ts of Error Handling](https://gotochgo.com/2018/sessions/352)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
@@ -896,6 +900,7 @@ Programming
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
 * [오늘의 질문 2018.12.18](https://jojoldu.tistory.com/363) 디버깅에 대한 창천향로님 의견
+* [자바랑 자바스크립트랑 싸우면 누가 이길까?](https://ppss.kr/archives/149252) 프로그래밍 언어와 버그의 연관성
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
