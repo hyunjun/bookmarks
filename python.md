@@ -3114,6 +3114,8 @@ Python
   * [Raymond Hettinger - Modern solvers: Problems well-defined are problems solved - PyCon 2019](https://www.youtube.com/watch?v=_GP9OpZPUYc)
   * [PyCon Korea 2019 법률을 디버깅하다 Debugging law](https://drive.google.com/file/d/1HfJU-Qo2h-Y0Kn85LuiQPKcO8K_iqxb6/)
   * [PyCon Korea 2019 파이썬의 변수](https://www.slideshare.net/ChrisCho2/pycon-korea-2019)
+  * [파이콘 2019 튜토리얼 준비](https://github.com/wapj/pyconkr2019tutorial)
+  * **[파이썬 3대장을 만나보자](https://www.slideshare.net/SeungKyooPark/3-164797583)** decorator, async, meta programming
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
@@ -3286,6 +3288,7 @@ Python
   * [mypy와 함께하는 Python Typing](https://item4.github.io/2017-09-14/Python-Typing-with-mypy)
   * [Python typing으로 인한 순환 참조 대응책](https://item4.github.io/2017-12-03/Resolve-Circular-Dependency-on-Python-Typing/)
   * [mypy 사용하기 static typing 테스트 해보기](https://speedr00t.tistory.com/m/entry/mypy-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-static-typing-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B3%B4%EA%B8%B0)
+  * [PyCon KR 2019 Python Type Hinting and Static Type Checking](https://speakerdeck.com/blur/python-type-hinting-and-static-type-checking)
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
