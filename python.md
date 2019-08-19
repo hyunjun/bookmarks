@@ -3231,6 +3231,7 @@ Python
   * [파이썬에서 편하게 테스트 케이스 작성하기: pytest, Travis CI, Docker](https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker)
   * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
   * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
+  * **[PyconKR 2019 pytest로 파이썬 코드 테스트하기](https://www.slideshare.net/ssuser80e030/pytest-164575856)**
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Tabletests](http://horia141.com/tabletests.html)
