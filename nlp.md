@@ -587,6 +587,7 @@ NLP
 * [Tutorial on Text Classification (NLP) using ULMFiT and fastai Library in Python](https://medium.com/analytics-vidhya/tutorial-on-text-classification-nlp-using-ulmfit-and-fastai-library-in-python-2f15a2aac065)
 * [Deep Transfer Learning for Natural Language Processing — Text Classification with Universal Embeddings](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9)
 * [Democratizing NLP content modeling with transfer learning using GPUs - Sanghamitra Deb](https://www.youtube.com/watch?v=9XXRHoKinwI)
+* [The State of Transfer Learning in NLP](http://ruder.io/state-of-transfer-learning-in-nlp)
 * [Develop a NLP Model in Python & Deploy It with Flask, Step by Step - Flask API, Document Classification, Spam Filter](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
 * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification) CBOW, CNN, DCNN, RNN, LSTM
 * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
