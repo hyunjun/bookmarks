@@ -438,6 +438,7 @@ Go
 * [vgo integration support](https://blog.jetbrains.com/go/2018/05/18/vgo-integration-support/)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
+* [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
 
