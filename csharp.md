@@ -36,6 +36,7 @@ C#
 * [Announcing .NET Core 3 Preview](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-3/)
 * [C# 무료강의2019](https://www.youtube.com/playlist?list=PL4SIC1d_ab-Y-bBKojxhtFWwNpawMM1h5)
 * [How to easily implement QRCoder in ASP.NET Core using C#](https://medium.freecodecamp.org/how-to-easily-implement-qrcoder-in-asp-net-core-using-c-10c4aa857e84)
+* [C# 7.1 ~ 8.0 사이의 새로운 기능 한 번에 보기](https://web.facebook.com/notes/닷넷데브/c-71-80-사이의-새로운-기능-한-번에-보기/365203790820728/)
 
 # API
 * Async, Await
