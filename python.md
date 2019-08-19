@@ -1494,6 +1494,7 @@ Python
 * [Django: Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
 * [Django 구성 분석하기와 기본 세팅](https://woolbro.tistory.com/47)
 * [How to Install and Use Django on Windows for Beginners (2019)](https://www.youtube.com/watch?v=osKPG2ripmw)
+* [20190818 PyCon Korea 2019 Django DB Router로 Database Read Replicas 100% 활용기 및 Troubleshooting 경험 공유](https://www.slideshare.net/addnull/20190818-pycon-korea-2019-django-db-router-database-read-replicas-100-troubleshooting)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
@@ -2946,7 +2947,9 @@ Python
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
 
-# Pycon
+# Conference
+
+## Conference Pycon
 * [pyvideo.org](http://pyvideo.org/)
 * [pycon 2014](https://us.pycon.org/2014/)
   * [금융 데이터 이해와 분석 pycon 2014](http://www.slideshare.net/plusjune/py-con-2014-47762297)
@@ -3109,6 +3112,8 @@ Python
   * **[2018. 05 파이썬 개발환경 구성하기 거의 끝판왕 Docker Compose - 김승호](https://www.youtube.com/watch?v=oQ50eqDH91A)** compose뿐만 아니라 docker 명령 기본에 대한 것도 알기 좋음
 * [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
   * [Raymond Hettinger - Modern solvers: Problems well-defined are problems solved - PyCon 2019](https://www.youtube.com/watch?v=_GP9OpZPUYc)
+  * [PyCon Korea 2019 법률을 디버깅하다 Debugging law](https://drive.google.com/file/d/1HfJU-Qo2h-Y0Kn85LuiQPKcO8K_iqxb6/)
+  * [PyCon Korea 2019 파이썬의 변수](https://www.slideshare.net/ChrisCho2/pycon-korea-2019)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
