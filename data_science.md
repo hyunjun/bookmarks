@@ -520,3 +520,4 @@ Data Science
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
 * [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
 * [Building and Testing Recommender Systems With Surprise, Step-By-Step - Learn how to build your own recommendation engine with the help of Python and Surprise Library, Collaborative Filtering](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
+* [PyCon KR 2019 추천시스템 이제는 돈이 되어야 한다](https://www.slideshare.net/ssuser2fe594/ss-164511610)
