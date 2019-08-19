@@ -163,6 +163,7 @@ Algorithm
 * [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040)
 * [Maximum Subarray Problem](https://jusths.tistory.com/129)
 * [악마와 동전 게임](https://nbviewer.jupyter.org/github/cynthia/pytudes/blob/gh-pages/ipynb/Coin%20Flip.ipynb)
+* [알고리즘의 개념과 알고리즘의 효율적 설계](https://www.youtube.com/watch?v=tgHwP0srUIk)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
