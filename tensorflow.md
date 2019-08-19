@@ -714,6 +714,9 @@ TensorFlow
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
 * [Raspberry Pi - Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
   * [TensorFlow 1.9 Officially Supports the Raspberry Pi](https://medium.com/tensorflow/tensorflow-1-9-officially-supports-the-raspberry-pi-b91669b0aa0?linkId=55070050)
+* S4TF
+  * [fast.ai Embracing Swift for Deep Learning](https://www.fast.ai/2019/03/06/fastai-swift/)
+    * [딥러닝에 Swift를 도입하는 fast.ai](https://github.com/fast-ai-kr/ko-translation/blob/master/fastai-common/fastai-swift.md)
 * [Scatteract - a framework to automatically extract data from the image of scatter plots](https://github.com/bloomberg/scatteract)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [SpecAugment that speech data augmentation method which directly process the spectrogram with Tensorflow, introduced by Google Brain](https://github.com/shelling203/SpecAugment)
