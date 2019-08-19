@@ -1984,6 +1984,7 @@ Javascript
 * [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 * [12+ Awesome React Parallax Scroll Effects](https://onaircode.com/awesome-react-parallax-scroll-effects)
 * [3 Essential Tools to Boost your React App’s SEO](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
+* [How to Build Tetris in React - GameDev Tutorial (with React Hooks!)](https://www.youtube.com/watch?v=ZGOaCxX8HIU)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
