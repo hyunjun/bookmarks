@@ -94,6 +94,7 @@ Python
 * [Let’s Build A Simple Interpreter. Part 1](http://ruslanspivak.com/lsbasi-part1/)
 * [파이썬을 이용한 시스템 트레이딩 (기초편)](https://wikidocs.net/book/110)
 * [Quantum Python: Animating the Schrodinger Equation](https://jakevdp.github.io/blog/2012/09/05/quantum-python/)
+* [Pycon KR 2019 Quantum Physics in Python](https://docs.google.com/presentation/d/1niMgU7s0lnNY8bGrmyxnasOQIWjW3yF9-ob3FFzvHqU)
 * [Python for R Users](http://www.slideshare.net/ajayohri/python-for-r-users)
 * [Is it true that Python is a dying language?](http://www.quora.com/Is-it-true-that-Python-is-a-dying-language)
 * [Python Is Not C](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Is_Not_C?lang=en)
@@ -1495,6 +1496,7 @@ Python
 * [Django 구성 분석하기와 기본 세팅](https://woolbro.tistory.com/47)
 * [How to Install and Use Django on Windows for Beginners (2019)](https://www.youtube.com/watch?v=osKPG2ripmw)
 * [20190818 PyCon Korea 2019 Django DB Router로 Database Read Replicas 100% 활용기 및 Troubleshooting 경험 공유](https://www.slideshare.net/addnull/20190818-pycon-korea-2019-django-db-router-database-read-replicas-100-troubleshooting)
+* [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
