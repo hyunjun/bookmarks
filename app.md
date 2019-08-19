@@ -129,6 +129,10 @@ App
 * [perch - See What’s Happening At Home](https://getperch.com/)
 * [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
 
+# Backup
+* [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
+* [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
+
 # Blog
 * [Node.js 기반 정적 페이지 블로그 엔진, 하루프레스](https://www.slideshare.net/rhio.kim/nodejs-15277380?next_slideshow=1)
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
@@ -470,7 +474,6 @@ App
 * [Top 10 Safari Plugins and Extensions for Better Productivity](http://mashable.com/2012/01/24/safari-plugins-extensions)
 * [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
 * [맥에서 jpg로 캡처하기](http://icansoft.com/?p=1352)
-* [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
 * [macOS 타임머신을 Synology 에 연결하기](http://donghoon.me/106)
 * [Mac에서 Synology Router VPN을 통해 네트워크 제약없이 사용하기](https://projectresearch.co.kr/2018/04/15/mac%EC%97%90%EC%84%9C-synology-vpn%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%A0%9C%EC%95%BD%EC%97%86%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [OSX (Mountain Lion) 에서 Home, End 키등을 윈도우 처럼 쓰기](http://lomohome.com/393)
@@ -594,6 +597,7 @@ App
   * [Set your Github API Token If you hit a ”GitHub API rate limit exceeded” when searching with Homebrew](https://gist.github.com/christopheranderton/8644743)
   * [Homebrew 설치하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Install-Homebrew/)
   * [홈브류(Homebrew)를 사용해 맥OS(macOS) 특정 버전의 패키지 설치하기](https://www.44bits.io/ko/post/install-specific-version-package-homebrew)
+  * **[Homebrew 로 Mac 한 방에 셋업하기](https://healingpaper.github.io/setting/2019/08/18/brew_cask_mas.html)** BrewFile을 이용한 설치
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
