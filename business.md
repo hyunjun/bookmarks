@@ -66,6 +66,7 @@ Business
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 * [나쁜 말이 나쁜 조직을 만든다](https://brunch.co.kr/@lunarshore/333)
 * [개발자가 조직문화에 대해 관심을 가져야 하는 이유](https://evan-moon.github.io/2019/08/06/developer-with-organizational-culture/)
+* [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [협업의 미신 5가지](http://agile.egloos.com/5904102)
