@@ -1028,7 +1028,8 @@ Python
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
 * `timeit`
   * [practice](https://gist.github.com/hyunjun/108701fa3436710c39fd)
-  * [practice - function call with arguments](https://github.com/hyunjun/practice/blob/master/python/test_comparison_numpy_dot_with_timeit.py)
+  * [practice - function call](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_numpy_loop.py)
+  * [practice - function call with arguments](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_comparison_numpy_dot_with_timeit.py)
   * [practice - function call with arguments 2](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`
