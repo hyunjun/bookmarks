@@ -435,6 +435,18 @@ Data Science
 * [How to use Data Science to better understand your customers](https://medium.freecodecamp.org/using-data-science-to-better-understand-your-customers-part-1-of-2-398d11049785)
 * **[Aaron Richter: Your data fits in RAM: How to avoid cluster computing | PyData Miami 2019](https://www.youtube.com/watch?v=7h4BwpedPD0)**
 * [Data Science Toolkit (Concepts + Code)](https://hackernoon.com/data-science-toolkit-concepts-code-20628af23cd) Jupyter, Numpy, Pandas, Plotly
+* **[10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)**
+  * 1. Profiling the pandas dataframe dataframe 데이터를 보고서 형식으로
+    * [Pandas Profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)
+  * 2. Bringing Interactivity to pandas plots
+  * 3. A Dash of Magic
+  * 4. Finding and Eliminating Errors
+  * 5. Printing can be pretty too
+  * 6. Making the Notes stand out.
+  * 7. Printing all the outputs of a cell
+  * 8. Running python scripts with the ‘i’ option.
+  * 9. Commenting out code automatically
+  * 10. To delete is human, to restore divine
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
