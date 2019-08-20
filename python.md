@@ -3118,6 +3118,7 @@ Python
   * [PyCon Korea 2019 파이썬의 변수](https://www.slideshare.net/ChrisCho2/pycon-korea-2019)
   * [파이콘 2019 튜토리얼 준비](https://github.com/wapj/pyconkr2019tutorial)
   * **[파이썬 3대장을 만나보자](https://www.slideshare.net/SeungKyooPark/3-164797583)** decorator, async, meta programming
+  * **[머신러닝 및 데이터 과학 연구자를 위한 python 기반 컨테이너 분산처리 플랫폼 설계 및 개발](https://www.slideshare.net/inureyes/python-164418964)** python이 아니라 프로젝트 설계 및 구현 관점에서 재미있게 볼 수 있는 이야기
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
