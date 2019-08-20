@@ -367,6 +367,7 @@ SQL
 * [MySQL Sharding에 관한 자료들](http://jason-heo.github.io/mysql/2015/08/23/mysql-sharding.html)
 * [Apache ShardingSphere를 이용한 DB Sharding](https://blog.naver.com/asei/221511101848)
 * [LINE Manga 데이터베이스 샤딩 – 서버 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-server-side/)
+* [LINE Manga 데이터베이스 샤딩 – 데이터베이스 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-database/)
 * [ADT 활용 예제1: MySQL Shard 데이터 재분배](http://tech.kakao.com/2016/07/01/adt-mysql-shard-rebalancing/)
 * [kingshard - A high-performance MySQL proxy](https://github.com/flike/kingshard)
 * [proxysql.com](https://proxysql.com/)
