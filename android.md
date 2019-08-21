@@ -90,7 +90,6 @@ Android
 * [NAVER Tech Talk: Android 밋업(2019년 3월,4월)](https://d2.naver.com/news/0566013)
 * [NAVER Tech Talk: Android 밋업(2019년 5,6월)](https://d2.naver.com/news/9293611)
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
-* [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
 * [Android dev updates - week15 of 2019](https://androidkr.blogspot.com/2019/03/android-dev-updates-week15-of-2019.html)
@@ -177,6 +176,9 @@ Android
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
   * [Android Studio Jetpack Compose & Sample App](http://pluu.github.io/blog/android/2019/05/19/jetpack-compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
+* Koin
+  * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
+  * [Koin 정리하기](https://jungwoon.github.io/android/2019/08/21/Koin/)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
