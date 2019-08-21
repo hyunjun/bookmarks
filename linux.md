@@ -136,6 +136,7 @@ Linux
 * **[8 super heroic Linux commands that you probably aren't using](https://www.youtube.com/watch?v=Zuwa8zlfXSY)**
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * **[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)** 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
+* [Command line reference – Database and OS scripting](https://ss64.com)
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
