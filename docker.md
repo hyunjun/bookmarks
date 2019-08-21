@@ -110,6 +110,7 @@ Docker
       * Cloud AI Platform (구. Cloud ML Engine) (gcr.io Registry에 존재하는 이미지 + 커스텀 패키지) 구동. gcloud 툴을 이용해서, JupyterLab 환경 또는 Job 형태로 구동
       * GKE (Google Kubernetes Engine) POD에 대한 YAML 파일에 (gcr.io Registry에 존재하는 이미지 + 커스텀 패키지) 내용을 기술하여 GKE 환경에서 배포
     * [Why Use Docker In Machine Learning? We Explain With Use Cases](https://www.analyticsindiamag.com/why-use-docker-in-machine-learning-we-explain-with-use-cases/)
+    * [AI platform setting](https://lonehades.github.io/ai%20platform/2019/08/20/setting_AIplatform/) GCP, Ubuntu 10.04, NVIDIA, Tensorflow
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
