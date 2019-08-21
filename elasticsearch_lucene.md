@@ -269,6 +269,7 @@ ElasticSearch - Lucene
 * [Elastic SIEM 도입](https://www.elastic.co/kr/blog/introducing-elastic-siem)
 * [Berlin Buzzwords 2019:Debmalya Biswas/Louis Baligand–Building an enterprise NLSE (...)](https://www.youtube.com/watch?v=UJYrDw6I19Y) ElasticSearch + Facebook's DrQA
 * [Enhancing Search With Elastic How we are improving search in our app using Elastic Search](https://hackernoon.com/enhancing-search-with-elastic-bcc450d05de8)
+* [DevFestDC - 2019 - Summer Rankin - Advancing your NLP with Elasticsearch](https://www.youtube.com/watch?v=s-60EuqgfGI) topic modelling, 추출, 분석
 
 # Docker
 * Dockerfile
