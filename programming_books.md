@@ -1332,6 +1332,7 @@ Programming Books
 * (NOT YET) [앤디 필드의 유쾌한 R 통계학](https://jpub.tistory.com/900)
   * ['Discovering Statistics Using R' 번역서 '앤디 필드의 유쾌한 R 통계학' 출간 소식 및 근황](http://occamsrazr.net/tt/350)
 * (NOT YET) [R로 배우는 텍스트마이닝](https://jpub.tistory.com/924)
+* (NOT YET) [R을 이용한 퀀트 투자 포트폴리오 만들기](https://jpub.tistory.com/946)
 
 # Scala
 
