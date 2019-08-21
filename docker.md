@@ -546,6 +546,7 @@ Docker
 * [Docker for Mac](http://likejazz.com/post/172462024766/docker-for-mac)
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
+  * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
 * [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)
 * **[쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)**
 * [Microservice, Docker & Kubernetes - 조대협](https://www.youtube.com/watch?v=xdqOxF2JqwU)
@@ -599,6 +600,11 @@ Docker
   * [#21 - 리소스(CPU/Memory) 할당과 관리](http://bcho.tistory.com/1291)
   * [#22 - StatefulSet을 이용한 상태유지 Pod (데이타베이스) 관리하기 1/2](https://bcho.tistory.com/1306)
   * [쿠버네티스 StatefulSet에서 Headless 서비스를 이용한 Pod discovery](https://bcho.tistory.com/1310)
+  * 쿠버네티스 고급 스케쥴링 기법
+    * [#23 - Pod 스케쥴링 #1](https://bcho.tistory.com/1344)
+    * [#24 - Pod 스케쥴링 #2 Affinity](https://bcho.tistory.com/1346)
+    * [#25 - Pod 스케쥴링 #3 리소스 부족 관리](https://bcho.tistory.com/1347)
+  * [#26 쿠버네티스 오토 스케일러](https://bcho.tistory.com/1349)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
@@ -677,10 +683,6 @@ Docker
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
-* 쿠버네티스 고급 스케쥴링 기법
-  * [#1 스케쥴링과 Taint&Toleration](https://bcho.tistory.com/1344)
-  * [#2 Affinity](https://bcho.tistory.com/1346)
-  * [#3 리소스 부족 (Resource starving) 관리](https://bcho.tistory.com/1347)
 * [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/)
 * [arisu1000.tistory.com/category/Kubernetes](https://arisu1000.tistory.com/category/Kubernetes)
 * [구글 클라우드 스터디잼 (심화)  가이드라인](https://docs.google.com/presentation/d/1BCpECH6lWqwdWfD5eKQ-htKiNjTJh5yOQEnGglYj4fY)
