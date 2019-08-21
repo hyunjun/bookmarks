@@ -12,5 +12,6 @@ GIS
 * what3words [지도의 혁신으로 소니 등 굴지의 기업에서 1,500억 원 투자를 이끌어 낸, 영국 남자 이야기](https://ppss.kr/archives/193927)
 
 # Python
+* [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
