@@ -190,6 +190,7 @@ Travel
 * [중국 윈난성 여행 – 다리(3/4)](https://estimastory.com/2019/01/08/dali/)
 * [중국 윈난성 여행 – 다시 쿤밍(4/4)](https://estimastory.com/2019/01/11/kunming2/)
 * [두번째 중국 윈난 여행](https://estimastory.com/2019/08/12/yunnan2/)
+* [중국 리장에서 현지 여행사 이용 경험담](https://estimastory.com/2019/08/20/yulongtravel/)
 
 ## Dubai
 * [3분에 담은 두바이의 모든 것](http://techholic.co.kr/archives/29415)
