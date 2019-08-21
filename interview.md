@@ -580,6 +580,7 @@ Interview
 * [국내외 영문 이력서 작성툴 TOP 3 비교 분석](https://www.youtube.com/watch?v=MrkpnPxiOCw)
 * **[How to write a killer Software Engineering résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)**
 * [What I want (and don’t want) to see on your software engineering resume](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)
+* [외국 자격증 PDF 버전으로 받는법](https://sysnet4admin.blogspot.com/2019/08/pdf.html)
 * [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
 * [Resume Builder](http://resumebuilder.rowanhogan.com/#!/)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
