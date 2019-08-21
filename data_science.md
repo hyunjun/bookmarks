@@ -353,6 +353,7 @@ Data Science
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
+* [Mode - Analyze raw or modeled data with SQL, Python, or R without moving between different tools](https://mode.com)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
 * [Weld: A common runtime for high performance data analytics](https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/)
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
@@ -476,6 +477,7 @@ Data Science
   * [Introducing Snorkel](https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff)
   * [Hand in hand with weak supervision using snorkel - Szymon Wojciechowski](https://www.youtube.com/watch?v=ZSj3rwhABUg)
   * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/)
+  * [Introducing the New Snorkel](https://www.snorkel.org/hello-world-v-0-9/)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
@@ -524,12 +526,13 @@ Data Science
 * [브런치 추천의 힘에 대한 6가지 기술(記述)](https://brunch.co.kr/@kakao-it/333)
 * [2 years of Developing Personalized Real-Time Recommendation Service Based on Machine Learning](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
 
-## Python
+## Recommendation Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
 * [추천시스템 만들기 Hands-on part01](https://www.youtube.com/watch?v=RypYycWvHaA) django 이용
   * [추천시스템 만들기 Hands-on part01](https://github.com/djangobusan/recommender-system-hands-on-part1)
 * [Collaborative-filtering-Tutorial](https://github.com/kwoncheol/Collaborative-filtering-Tutorial)
-* [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
 * [Machine Learning for Retail Price Recommendation with Python](https://towardsdatascience.com/machine-learning-for-retail-price-suggestion-with-python-64531e64186d)
 * [Building and Testing Recommender Systems With Surprise, Step-By-Step - Learn how to build your own recommendation engine with the help of Python and Surprise Library, Collaborative Filtering](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
 * [PyCon KR 2019 추천시스템 이제는 돈이 되어야 한다](https://www.slideshare.net/ssuser2fe594/ss-164511610)
+* [Analyzing Hacker News book suggestions in Python](https://towardsdatascience.com/hacker-news-book-suggestions-64b88099947)
+* [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
