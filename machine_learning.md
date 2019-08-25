@@ -550,6 +550,7 @@ Machine Learning
 * [Runway ML - Machine learning for creators](https://runwayml.com/)
 * [온라인서점고객세분화: 리비젼 전용준 머신러닝 190731](https://www.youtube.com/watch?v=cgV_BFavkxU)
 * [패턴 찾기·노이즈 추적에 효과적인 비지도 학습 알아보기](http://www.itworld.co.kr/news/127979)
+* [AI 연구원, 머신러닝이 연금술에 불과하다고 역설](https://github.com/jehyunlee/texts/blob/master/AI_researchers_allege_that_machine_learning_is_alchemy/text.md)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
