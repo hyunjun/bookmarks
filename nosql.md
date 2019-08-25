@@ -329,6 +329,7 @@ NoSQL
 * [Seeding MongoDB database the right way](https://medium.com/@pkosiec/seeding-mongodb-database-the-right-way-32a8a0e75490)
 * [MongoDB Crash Course 2019](https://www.youtube.com/watch?v=-56x56UppqQ)
 * [성능 최적화 방법](https://gguriya.tistory.com/116) sharding
+* [plugin-input-mongodb을 이용하여mongodb 기반 pipeline 구축](https://blog.naver.com/pjt3591oo/221624138418)
 
 # [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
