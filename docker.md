@@ -606,6 +606,7 @@ Docker
     * [#24 - Pod 스케쥴링 #2 Affinity](https://bcho.tistory.com/1346)
     * [#25 - Pod 스케쥴링 #3 리소스 부족 관리](https://bcho.tistory.com/1347)
   * [#26 쿠버네티스 오토 스케일러](https://bcho.tistory.com/1349)
+  * [#27 - 쿠버네티스 애플리케이션을 위한 개발환경 #1 IntelliJ](https://bcho.tistory.com/1350)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
