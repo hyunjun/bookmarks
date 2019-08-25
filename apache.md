@@ -334,6 +334,11 @@ Apache
 * [Benchmarking Kafka Performance Part 1: Write Throughpu](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 * [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
   * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
+* [Introduction to Apache Kafka Security](https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf)
+* [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
+  * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
+* [Kafka 보안 (1) - JAAS 및 SASL](https://springboot.cloud/31)
+* [Kafka 보안 (2) - SASL/PLAIN](https://springboot.cloud/32)
 * **[Apache Kafka지도 시간](http://www.w3ii.com/ko/apache_kafka/default.html)**
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 * [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
@@ -350,7 +355,6 @@ Apache
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
 * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
-* [Introduction to Apache Kafka Security](https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf)
 * [How to know if Apache Kafka is right for you](https://medium.freecodecamp.org/how-to-know-if-apache-kafka-is-right-for-you-1b2e468d52b9)
 * [URP? Excuse You! The Three Kafka Metrics You Need to Know](https://www.slideshare.net/ToddPalino/urp-excuse-you-the-three-kafka-metrics-you-need-to-know) under replicated partition, request handler, requst time에 대해 모니터링할 수 있는 Kafka 메트릭 설명
 * [일상 협업 이야기: 참조 아키텍처 써먹기 편](https://www.popit.kr/v2/%EC%9D%BC%EC%83%81-%ED%98%91%EC%97%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B0%B8%EC%A1%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8D%A8%EB%A8%B9%EA%B8%B0-%ED%8E%B8)
@@ -424,8 +428,6 @@ Apache
   * Paypal 데이터 플랫폼 이야기. CDC(Change Data Capture)와 Kafka와 Avro를 같이 사용해야 하는 이유 등 아키텍처에 대해 설명
 * [An Overview of Kafka Distributed Message System](https://www.alibabacloud.com/blog/an-overview-of-kafka-distributed-message-system_594218)
   * Apache Kafka 개념 설명
-* [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
-  * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
 * [Kafka의 디스크가 모자랄 때](https://andromedarabbit.net/kafka%EC%9D%98-%EB%94%94%EC%8A%A4%ED%81%AC%EA%B0%80-%EB%AA%A8%EC%9E%90%EB%9E%84-%EB%95%8C/)
 * [New Features of Kafka 2.1](https://medium.com/@stephane.maarek/new-features-of-kafka-2-1-33fb5396b546)
 * [카프카를 활용한 워크 큐](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9B%8C%ED%81%AC-%ED%81%90/)
@@ -456,6 +458,7 @@ Apache
 * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [How to run Kafka Mirror Maker using Kerberos clusters](https://www.youtube.com/watch?v=2jkk3ZycW78)
 * **[카프카 설치 시 가장 중요한 설정 4가지](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98-%EC%8B%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%84%A4%EC%A0%95-4%EA%B0%80%EC%A7%80/)**
+* [**kafka 운영 - 기본적인 환경 설정 경험담**](https://springboot.cloud/34)
 * **[KAFKA와 그 친구들](https://speakerdeck.com/dongjin/kafka-and-friends-ko)** monitoring, 운영, test tool 소개
 * [How to use reassign partition tool in Apache Kafka](https://www.youtube.com/watch?v=sWsWurfBI9c)
 * [How to move Kafka Partition log directory within a Broker Node](https://www.youtube.com/watch?v=UrX2RWM2vQQ)
@@ -463,7 +466,7 @@ Apache
 * [KAFKA ARCHITECTURE: LOG COMPACTION](http://cloudurable.com/blog/kafka-architecture-log-compaction/index.html)
 * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
 
-## Library
+## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
@@ -522,7 +525,7 @@ Apache
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
 
-## Stream
+## Kafka Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [This is a Kafka-Storm-Esper example on vagrant](https://github.com/doohee323/tzstorm)
