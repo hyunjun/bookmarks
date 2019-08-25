@@ -205,6 +205,7 @@ Statistics
   * [Kalman and Bayesian Filters in Python](https://drive.google.com/file/d/0By_SW19c1BfhSVFzNHc0SjduNzg/view)
   * [How a Kalman filter works, in pictures](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
   * [칼만 필터를 이용하여 위치에서 속도를 구하는 예제](http://pinkwink.kr/781)
+* [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 * [FilterPy - a Python library that implements a number of Bayesian filters, most notably Kalman filters](http://filterpy.readthedocs.io/)
 * [공학자를 위한 Python 사용법 25 - Quaternion을 이용한 자세 추정 칼만 필터](http://myjr52.tumblr.com/post/128707132156/%EA%B3%B5%ED%95%99%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-python-%EC%82%AC%EC%9A%A9%EB%B2%95-25)
 * [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
