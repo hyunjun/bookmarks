@@ -971,6 +971,9 @@ Programming
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
 * [Source Code Pro에 합자 추가하기](https://surpreem.com/source-code-pro%EC%97%90-%ED%95%A9%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
 
+# Image
+* [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
+
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 * [Anatomy of a Program in Memory](http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory/)
