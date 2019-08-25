@@ -163,6 +163,7 @@ Web
 # Apache
 * installation
   * `apt-get install -y libapr1-dev libaprutil1-dev libpcre3-dev apache2-dev apache2`
+  * [Apache httpd 를 컴파일로 설치하기](https://springboot.cloud/21)
 * [9 Tips to Use Apachectl and Httpd like a Power User](http://www.thegeekstuff.com/2008/08/9-tips-to-use-apachectl-and-httpd-like-a-power-user/)
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
 * [Apache 서버 설정으로 특정 IP 막기](http://ngee.tistory.com/209)
@@ -225,6 +226,7 @@ Web
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [How to Perform Web-Scraping using Node.js](https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb)
 * [puppeteer 뉴스 기사 메타 정보 크롤링](https://devhaks.github.io/2019/03/30/puppeteer)
+* [Hacking my Honeymoon with Javascript](https://medium.com/@yourboybigal/hacking-my-honeymoon-with-javascript-c4c476f7584b)
 
 ## Crawler Python
 * [Python Web Crawler Development](http://www.slideshare.net/changwonchoe7/141118-41835245)
@@ -575,6 +577,7 @@ Web
   * [REST의 영광을 향한 단계들 steps toward the glory of REST](https://jinson.tistory.com/190)
 * [RESTful 웹서비스](https://www.iamcorean.net/22)
 * [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
+* [REST Tutorial - How to Design a Good RESTful API](https://www.youtube.com/watch?v=sMKsmZbpyjE) 매우 기본적인 사항에 대한 리뷰
 
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
