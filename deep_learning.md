@@ -597,6 +597,8 @@ Deep Learning
 * [RNNoise: 소음 감소를 위한 딥러닝 모델](http://hacks.mozilla.or.kr/2017/10/rnnoise-using-deep-learning-for-noise-suppression/)
 * [Why Probability Theory Should be Thrown Under the Bus](https://medium.com/intuitionmachine/why-probability-theory-should-be-thrown-under-the-bus-36e5d69a34c9)
 * [An Overview of ResNet and its Variants](https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035)
+* [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/)
+  * [How to Train Your ResNet - 8: Bag of Tricks](https://colab.research.google.com/github/davidcpage/cifar10-fast/blob/master/bag_of_tricks.ipynb#scrollTo=6IGml3SMd6ID) ipynb
 * [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
 * [Improving the way we work with learning rate](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
@@ -1195,7 +1197,9 @@ Deep Learning
   * [Implementation of SNAIL(A Simple Neural Attentive Meta-Learner) with Gluon](https://github.com/seujung/SNAIL-gluon)
   * [LipNet: End-to-End Sentence-level Lipreading](https://github.com/ski-net/lipnet)
   * [버트(BERT) 파인튜닝 간단하게 해보자](http://freesearch.pe.kr/archives/4963)
+  * [GluonNLP v0.7.1 — BERT Reloaded](https://medium.com/apache-mxnet/gluonnlp-v0-7-1-bert-reloaded-7b9450d33f4b)
   * [Deep Learning Programming Style](https://mxnet.incubator.apache.org/versions/master/architecture/program_model.html) symbolic vs. iterative programming style
+  * [**Pycon 2019 Gluon Tutorial 딥러닝 NLP 손쉽게 따라해보기**](https://github.com/seujung/gluonnlp_tutorial)
 * [netron - Visualizer for neural network, deep learning and machine learning models https://www.lutzroeder.com/ai ](https://github.com/lutzroeder/netron) 신경망, 딥러닝 모델 시각화 툴이자 뷰어
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [NN-SVG - Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/index.html) visualization
