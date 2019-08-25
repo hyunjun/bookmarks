@@ -81,6 +81,7 @@ Math
 * [타원곡선 디피 헬만 Elliptic Curve Diffie Hellman](https://b.luavis.kr/science/elliptic-curve)
 * [Deep Learning이란 무엇인가? Backpropagation, 역전파 알아보기](https://evan-moon.github.io/2018/07/19/deep-learning-backpropagation/)
 * [프로그래머는 수학을 잘해야할까?](https://evan-moon.github.io/2019/07/17/programmer-with-math)
+* [랭크(rank), 차원(dimension)의 의미](https://losskatsu.github.io/linear-algebra/rank-dim/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
