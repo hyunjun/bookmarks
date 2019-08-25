@@ -277,6 +277,8 @@ NLP
 * [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
   * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
   * [GPT-2 Playground](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
+* [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
+* [OpenGPT-2: We Replicated GPT-2 Because You Can Too](https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
@@ -287,6 +289,7 @@ NLP
 * [Natural language processing of customer reviews](https://medium.com/hackernoon/natural-language-processing-of-customer-reviews-49dff6fd9e57)
 * [자연어 처리 Word representation](https://bcho.tistory.com/1345)
 * [Introduction to Natural Language Processing (NLP) and Bias in AI](https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-and-bias-in-ai-877d3f3ee680)
+* [nlp_applications](https://nbviewer.jupyter.org/github/dipanjanS/nlp_workshop_iisc19/tree/master/nlp_applications/) ipynb
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1444,3 +1447,4 @@ NLP
 * [role2vec - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018)](https://github.com/benedekrozemberczki/role2vec)
 * [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
 * [기계는 사람의 말을 어떻게 이해할까? 워드 임베딩(Word Embedding)](https://blog.naver.com/saltluxmarketing/221607368769)
+* [성지석-Deep contextualized word representations](https://www.youtube.com/watch?v=Vc13QVAKyGk)
