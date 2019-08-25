@@ -87,6 +87,7 @@ Data Visualization
 * [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
 * [Alberto Cairo: How We Lie to Ourselves With Charts | PyData Miami 2019](https://www.youtube.com/watch?v=3QYsc48zzgs)
 * [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/)
+* [April Fools’ 2019: Perception-driven data visualization](https://towardsdatascience.com/perception-driven-data-visualization-e1d0f13908d5)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -262,12 +263,13 @@ Data Visualization
 * [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
 
-## Matplotlib
+## Python Matplotlib
 * examples
   * [python_matplotlib](https://github.com/zerosum99/python_matplotlib)
   * [Draw a minimalist Christmas tree with Python and their awesome libraries](https://gist.github.com/franktoffel/aea4329b760eb3e72f4d)
   * [Move legend outside of figure in matplotlib](http://jb-blog.readthedocs.io/en/latest/posts/0012-matplotlib-legend-outdide-plot.html)
 * [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
+* [Matplotlib 3.1 cheat sheet. From an upcoming book on matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
