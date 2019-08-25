@@ -103,7 +103,6 @@ Data Science
 * [A BEGINNER'S GUIDE TO DATA ANALYSIS WITH UNIX UTILITIES](http://j-vdh.blogspot.kr/2015/05/a-beginners-guide-to-unix-utilities-for.html)
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
 * [Prologue to Data Science](http://prologue.datascience.hk/)
-* [pubdata.tistory.com/category/Lecture_DataMining](http://pubdata.tistory.com/category/Lecture_DataMining)
 * [Data Science in Clojure at Yieldbot](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 * [Mining the Web to Predict Future Events](http://research.microsoft.com/en-us/um/people/horvitz/future_news_wsdm.pdf)
 * [Using Data Science to Measure a Musical Revolution](http://priceonomics.com/using-data-science-to-measure-a-musical-revolution/)
@@ -117,8 +116,6 @@ Data Science
   * [A Data Lake Architecture With Hadoop and Open Source Search Engines](https://dzone.com/articles/a-data-lake-architecture-with-hadoop-and-open-sour)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
-* [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
-  * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
 * [11 Facts about Data Science that you must know](http://www.edupristine.com/blog/11-facts-about-data-science)
 * [The Data Science Workflow](http://blog.binaryedge.io/2015/09/08/the-data-science-workflow/)
@@ -368,6 +365,10 @@ Data Science
 * [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA)
   * [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
 * [Our 25 Favorite Data Science Courses From Harvard To Udemy](https://hackernoon.com/our-25-favorite-data-science-courses-from-harvard-to-udemy-9a89cac0358d)
+* [pubdata.tistory.com/category/Lecture_DataMining](http://pubdata.tistory.com/category/Lecture_DataMining)
+* [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
+  * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
+* [5 Bite-Sized Data Science Summaries](https://towardsdatascience.com/5-bite-sized-data-science-summaries-a5afb8509353)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
