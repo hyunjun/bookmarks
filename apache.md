@@ -418,6 +418,8 @@ Apache
       * 1. 데이터 축소 : 필드명을 보내지 않아도 됨 >> 데이터 : 매직바이트 + schemaID + value
       * 2. producing 되는 데이터의 스키마가 변경되면 schema registry에 등록이나 수정만 하면되니 consumer는 수정하지 않아도 될 가능성이 높음
     * json 처럼 schema가 free 한 경우 잦은 schema의 변경으로 producing 되는경우 consumer는 수정이 불가피 하며 스키마의 대한 정보를 놓치기 쉽고 이력도 알수 없음
+* [Securing the Confluent Schema Registry for Apache Kafka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
+* [Kafka 스키마 관리, Schema Registry](https://dol9.tistory.com/274)
     * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
 * [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster)
   * 카프카 클러스터에서 파티션 수. 클러스터 내 브로커 한대 기준
@@ -449,7 +451,6 @@ Apache
 * [Finding Kafka’s throughput limit in Dropbox infrastructure](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
 * [Kafka, Producer 부터 Consumer 까지](https://docs.google.com/presentation/d/16ZoY4QLpbAqHcCISaURCKXGNGs9sG809Pi4MHLsdKNA/)
 * [kafka-multiprocessing-producer.py](https://gist.github.com/outtoin/12d1334b1345403c57372fcc6653c11b) 정상 동작하는 지 점검 필요
-* [Securing the Confluent Schema Registry for Apache Kafka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
 * [kafka-tutorials.com](https://www.kafka-tutorials.com)
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
