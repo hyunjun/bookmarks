@@ -4,6 +4,7 @@ Programmer
 * [흔하지 않은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 * [awesome-devblog.now.sh](https://awesome-devblog.now.sh/)
   * [awesome-devblog 개발 블로그 모음. 개발자 위키로 편집중](https://github.com/sarojaba/awesome-devblog)
+  * [devblog.selfhow.com ?](http://devblog.selfhow.com/devblog-%ec%86%8c%ea%b0%9c/) 개발자 블로그 소개하는 웹 개발 방법 소개. YAML parsing 등
 * [SHIPSTREAMS - A list of makers shipping live](https://shipstreams.com/)
   * 인디 개발자들이 서비스 릴리즈를 위해 프로그래밍하는걸 스트리밍
   * 해당 스트리머들을 모아놓고, 그들이 제작, 빌드하는 사이드 프로젝트를 간략하게 소개
