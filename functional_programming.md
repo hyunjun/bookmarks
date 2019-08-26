@@ -81,6 +81,7 @@ Functional Programming
 * [The Knights of Functional Programming fight the Imperative Dragon](https://medium.com/@samuel.fare/the-knights-of-functional-programming-fight-the-imperative-dragon-8c3bb1eac63c)
 * [함수형 프로그래밍 정리](https://chodragon9.github.io/blog/functional)
 * [함수형 프로그래밍의 시대가 오고 있(지는 않)다](https://bangjunyoung.github.io/2019/08/24/함수형-프로그래밍의-시대가-오고-있(지는-않)다/)
+* [함수형 프로그래밍이 어려운 이유 - 사실은 함수형 프로그래밍이 더 쉽다](https://bangjunyoung.github.io/2019/08/26/함수형-프로그래밍이-어려운-이유/)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
