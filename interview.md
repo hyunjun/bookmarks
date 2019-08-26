@@ -154,6 +154,7 @@ Interview
   * [Uber SDE II Interview Experience](https://www.youtube.com/watch?v=0Vmtmqa9Og0)
   * [Goldman Sachs Interview - The Tree Question | Part II](https://www.youtube.com/watch?v=D1Tv5cCs1d8)
 * **[소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/66)**
+* [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
