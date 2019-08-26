@@ -58,3 +58,4 @@ Game
   * [파이게임 PyGame](https://www.youtube.com/playlist?list=PL7ZVZgsnLwEH_cLdFK67ygJWPpL2rR8XH)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
+  * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
