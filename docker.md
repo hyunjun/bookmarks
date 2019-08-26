@@ -350,6 +350,7 @@ Docker
 * [Predictive CPU isolation of containers at Netflix](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
 * [Project Services and Maturity Levels](https://www.cncf.io/projects/)
 * [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677)
+* [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](https://www.redhat.com/en/blog/architecting-containers-part-1-why-understanding-user-space-vs-kernel-space-matters)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -607,6 +608,7 @@ Docker
     * [#25 - Pod 스케쥴링 #3 리소스 부족 관리](https://bcho.tistory.com/1347)
   * [#26 쿠버네티스 오토 스케일러](https://bcho.tistory.com/1349)
   * [#27 - 쿠버네티스 애플리케이션을 위한 개발환경 #1 IntelliJ](https://bcho.tistory.com/1350)
+  * [#28 - 쿠버네티스 애플리케이션을 위한 개발환경 설정하기 #2 VS Code](https://bcho.tistory.com/1351)
 * Kubernetes
   * [#1 intro](https://www.slideshare.net/Byungwook/kubernetes-1-intro)
   * [#2 monitoring](https://www.slideshare.net/Byungwook/kubernetes-2-monitoring)
