@@ -277,6 +277,7 @@ Data Science
 * [Should data scientists learn JavaScript?](https://medium.freecodecamp.org/should-data-scientists-learn-javascript-e611d45804b8)
 * [Data Science with Watson Analytics](https://medium.com/analytics-vidhya/data-science-with-watson-analytics-7dddcc34d3a9)
 * [데이콘 주최 1회 펀다 상점매출 예측 대회 우승자 코드](https://dacon.io/code1/58793)
+* [Dacon_KBO스카우팅챌린지 조용건 영상1 코드설명](https://dacon.io/code1/177579)
 * [데이터 사이언스 Meetup](https://tidyverse-korea.github.io/r-meetup-x-presser/)
 * [The penalty of missing values in Data Science](https://medium.com/free-code-camp/the-penalty-of-missing-values-in-data-science-91b756f95a32)
 * [Machine Learning and Data Science Applications in Industry](https://github.com/firmai/industry-machine-learning) 다양한 분야의 적용 예
