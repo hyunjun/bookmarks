@@ -52,6 +52,7 @@ Linux
     * [1. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - 호스트 연결하기](https://jojoldu.tistory.com/432)
     * [2. Ansible (앤서블) 로 전체 서버 계정 추가하기 - CLI로 계정 추가하기](https://jojoldu.tistory.com/433)
     * [3. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - 플레이북으로 개선하기](https://jojoldu.tistory.com/438)
+    * [4. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - Jenkins&Github 연동하기](https://jojoldu.tistory.com/443)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
