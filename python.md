@@ -2056,6 +2056,7 @@ Python
 * [Like builtins, but boltons. Constructs/recipes/snippets that would be handy in the standard library. Nothing like Michael Bolton](https://github.com/mahmoud/boltons)
 * [50 Popular Python open-source projects on GitHub in 2018](https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0)
 * [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
+* [A Beginner’s Introduction to Python Web Frameworks](https://stxnext.com/blog/2018/09/27/beginners-introduction-python-frameworks/)
 * [Learning A New Data Science Language](https://towardsdatascience.com/learning-a-new-data-science-language-aa7656be730a) Pandas, Framequery, SciKit-Learn, Pandas-gbq
 * **[모든 파이썬 프로그래머를 위한 20가지 실용적인 파이썬 라이브러리](http://www.itworld.co.kr/print/118829)**
   * 아파치 Libcloud, 애로우(Arrow), 비홀드(Behold), 보틀(Bottle), EbookLib, 구이(Gooey), 인보크(Invoke), 누이트카(Nuitka), 눔바(Numba), 피위(Peewee), 필로우(Pillow), 파이파일시스템(PyFilesystem), 파이게임(Pygame), 파이글릿(Pyglet), 파이인스톨러(PyInstaller), 파이심플GUI(PySimpleGUI), 파이썬-docx, 스크래피(Scrapy), Sh, 스플린터(Splinter)
@@ -3179,6 +3180,7 @@ Python
 * [Python 3.7의 새로운 기능들](http://geekhub.co.kr/blog/translation-python37-new-features)
 * [Modern Functions in Python 3](https://tech.gadventures.com/modern-functions-in-python-3-80208c44ce47)
 * [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
+* [PyCon KR 2019 Why is Python 3.7 fastest](https://speakerdeck.com/jungwinter/why-is-python-3-dot-7-fastest)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)
