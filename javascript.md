@@ -1994,6 +1994,7 @@ Javascript
 * [12+ Awesome React Parallax Scroll Effects](https://onaircode.com/awesome-react-parallax-scroll-effects)
 * [3 Essential Tools to Boost your React App’s SEO](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
 * [How to Build Tetris in React - GameDev Tutorial (with React Hooks!)](https://www.youtube.com/watch?v=ZGOaCxX8HIU)
+* [Building a Full Stack Application with React and Node](https://medium.com/@hosway/building-a-full-stack-application-with-react-and-node-5932f264967e)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
