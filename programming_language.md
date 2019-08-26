@@ -239,6 +239,7 @@ Programming Language
   * [단숨에 루아(LUA) 스크립트 배우기](https://blog.wonhada.com/?p=331)
   * [카일루아, 하나: 태동](http://j.mearie.org/post/160156279158/kailua-part-1)
   * [카일루아, 둘: 파서 (1)](http://j.mearie.org/post/160266597373/kailua-part-2)
+  * [루아 5.2 이상에서 루아 스크립트를 실행 가능한 .bat 파일에 담는 방법](http://occamsrazr.net/tt/354)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * Nim
