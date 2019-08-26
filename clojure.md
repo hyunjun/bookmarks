@@ -56,6 +56,7 @@ Clojure
 * [Data Sorcery with Clojure](http://data-sorcery.org/contents/)
 * [Why we picked Clojure](https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83)
 * [Why Clojure?](https://getctx.io/blog/why-clojure/)
+* [Why Clojure?](https://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html)
 * [Clojure from the ground up: roadmap](https://aphyr.com/posts/318-clojure-from-the-ground-up-roadmap)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
 * [Clojure With Carin Meier](https://howistart.org/posts/clojure/1)
@@ -628,6 +629,7 @@ Clojure
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
   * [Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
   * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
+* [malli - Plain data Schemas for Clojure/Script](https://github.com/metosin/malli)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
