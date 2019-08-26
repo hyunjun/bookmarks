@@ -256,6 +256,8 @@ Apache
 # [Jena](http://jena.apache.org)
 
 # [Kafka](http://kafka.apache.org/)
+* [kafka-tutorials.confluent.io](https://kafka-tutorials.confluent.io/)
+* [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
@@ -269,7 +271,6 @@ Apache
 * [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [Kafka frequent commands](https://gist.github.com/vkroz/05136cefdbb4fa61296993db17e1ae3f)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
-* [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Apache Kafka. MacOS installation guide](https://medium.com/pharos-production/apache-kafka-macos-installation-guide-a5a3754f09c)
 * [Install Kafka in RHEL 7](https://medium.com/@dindanovitasari/install-kafka-in-rhel-7-f15d10a07246)
@@ -466,6 +467,7 @@ Apache
 * [How to use reassign partition tool in Apache Kafka](https://www.youtube.com/watch?v=sWsWurfBI9c)
 * [KAFKA ARCHITECTURE: LOG COMPACTION](http://cloudurable.com/blog/kafka-architecture-log-compaction/index.html)
 * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
+* [kafka 운영 - kafka의 Exception들 - (1)](https://springboot.cloud/35)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
