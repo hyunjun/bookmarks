@@ -282,6 +282,7 @@ NLP
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
+* [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 * [Talk Powerpoint Generator](https://korymath.github.io/talk-generator/)
 * [#자연어, #시퀀스를 위한 #재귀신경망 성능향상 기법! 대공개!! 첫번째!](https://www.youtube.com/watch?v=EZnG78g4moI)
@@ -974,6 +975,7 @@ NLP
 * [factcheck.snu.ac.kr](http://factcheck.snu.ac.kr/)
 * [컴퓨테이셔널 저널리즘](http://www.bloter.net/archives/276095)
 * [딥러닝을 활용한 뉴스 메타 태깅](https://brunch.co.kr/@kakao-it/284)
+* [딥러닝을 활용한 뉴스 메타 태깅](https://www.slideshare.net/ifkakao/ss-113740929)
 * [스포츠 저널리즘의 변화와 AI의 활용](https://brunch.co.kr/@kakao-it/292)
 
 # Ontology
