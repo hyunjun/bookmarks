@@ -456,6 +456,8 @@ Business
   * 손정의의 소프트뱅크그룹 결산설명회(2019.03). 투자하는 여러 회사를 업체 종류별로 나눠서 보여주는 부분을 주목하자
 * [4 Lessons From a Failed Startup — From and For First Time Founders](https://medium.com/swlh/4-lessons-from-a-failed-startup-from-and-for-first-time-founders-c61913df3bb5)
 * [노련한 VC한테 배울 수 있는 점](http://www.thestartupbible.com/2019/07/11-lessons-from-usvs-fred-wilson.html)
+* [YC 데모데이 2019(1)](https://tinytechreview.com/2019/08/20/yc-demoday-2019/)
+* [YC 데모데이 2019(2)](https://tinytechreview.com/2019/08/25/yc-demoday2-2019)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
