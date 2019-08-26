@@ -74,6 +74,7 @@ SQL
 * [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558)
 * [중국의 어떤 서버 개발자의 디비 설계](https://blog.naver.com/imays/221461537682)
   * [practice - 중국의 어떤 서버 개발자의 디비 설계](https://gist.github.com/hyunjun/0f83fd13165444e38645a74bc4e1c1f1#file-db_design-md)
+* [An explanation of the difference between Isolation levels vs. Consistency levels](https://dbmsmusings.blogspot.com/2019/08/an-explanation-of-difference-between.html)
 * [관계형 데이터 모델링](https://opentutorials.org/module/4134)
   * [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 * ERD
@@ -453,6 +454,7 @@ SQL
 * [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
 * [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
 * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
+* [Parallelism in PostgreSQL](https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
