@@ -502,6 +502,7 @@ Java
 * [Flow - Record your application executions and visualize what happened at runtime through an interactive web interface](http://findtheflow.io/)
 * [flowable - provides a core set of open source business process engines](https://www.flowable.org/)
   * [Saga Process Orchestration in Java Using the Flowable Process Engine](https://medium.freecodecamp.org/saga-process-orchestration-in-java-using-the-flowable-process-engine-6baa9593bbcc)
+* [Gemini - Automatically generate backend REST API. Build modern web/mobile application, microservice and MVP faster than ever](https://github.com/h4t0n/gemini)
 * [Google](https://github.com/google)
   * [guice](https://github.com/google/guice)
     * [Guice를 이용한 Dependency Injection](http://netframework.tistory.com/entry/Google-Guice%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DI-1)
@@ -587,6 +588,7 @@ Java
 * [jsoup: Java HTML Parser](https://jsoup.org/)
 * [jvisualvm을 사용한 jvm 모니터링](http://m.egloos.zum.com/aploit/v/5746753)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
+* KoreanTextMatcher [한글 초성 검색과 KoreanTextMatcher 3.0](https://bangjunyoung.github.io/2019/08/23/한글-초성-검색과-KoreanTextMatcher-3-0/)
 * [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
 * log4j
   * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
