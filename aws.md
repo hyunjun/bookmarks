@@ -259,6 +259,7 @@ AWS
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
   * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0)
 * [Packer와 Ansible을 이용한 표준 AMI 만들기](http://woowabros.github.io/experience/2019/04/20/ami-packer-ansible.html)
+* [AMI를 다른 리전으로 복사](https://jybaek.tistory.com/824)
 * [packer 활용 사례](https://andromedarabbit.net/packer-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80/)
 * [AWS에서 네트워크 공격 자동차단 하기](http://woowabros.github.io/security/2018/02/23/aws-auto-security1.html)
 * [AWS X-Ray 적용기](https://medium.com/@zeroweb.tech/aws-x-ray-%EC%A0%81%EC%9A%A9%EA%B8%B0-4e1c270c62fa)
