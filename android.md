@@ -206,6 +206,7 @@ Android
   * [Lifecycle 에 맞춰 RxJava Stream 재실행하기](https://medium.com/@jsuch2362/lifecycle-%EC%97%90-%EB%A7%9E%EC%B6%B0-rxjava-stream-%EC%9E%AC%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-54f7a1f721ed)
   * [네트워크 요청 Retry 전략](https://medium.com/@joongwon/rxjava-네트워크-요청-retry-전략-160cbbc0d183)
   * [RxJava로 EventBus 만들기](https://jungwoon.github.io/android/2019/08/20/RxJava-Event-Bus/)
+  * [RxJava 로 관리하는 Google Map](https://medium.com/@jsuch2362/rxjava-로-관리하는-google-map-709a86f27643)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
