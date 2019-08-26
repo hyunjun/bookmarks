@@ -1252,6 +1252,7 @@ Deep Learning
   * [Keras + CNTK Backend](https://youngjaekim.wordpress.com/2019/03/31/keras-cntk-backend/)
 * [Building Deep Neural Networks in the Cloud with Azure GPU VMs, MXNet and Microsoft R Server](https://blogs.technet.microsoft.com/machinelearning/2016/09/15/building-deep-neural-networks-in-the-cloud-with-azure-gpu-vms-mxnet-and-microsoft-r-server/)
 * [AirSim - Open source simulator based on Unreal Engine for autonomous vehicles from Microsoft AI & Research](https://github.com/Microsoft/AirSim)
+  * [Welcome to AirSim](https://microsoft.github.io/AirSim/)
 
 # MOOC, Lecture
 * [#39. 딥러닝 공부 가이드 2019 (무료 강의, 책)](t-robotics.blogspot.com/2018/12/39-2019.html)
