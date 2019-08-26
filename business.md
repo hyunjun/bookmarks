@@ -458,6 +458,7 @@ Business
 * [노련한 VC한테 배울 수 있는 점](http://www.thestartupbible.com/2019/07/11-lessons-from-usvs-fred-wilson.html)
 * [YC 데모데이 2019(1)](https://tinytechreview.com/2019/08/20/yc-demoday-2019/)
 * [YC 데모데이 2019(2)](https://tinytechreview.com/2019/08/25/yc-demoday2-2019)
+* [한국의 스타트업 지도](https://estimastory.com/2019/08/21/startupmap/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
