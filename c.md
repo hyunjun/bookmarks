@@ -128,6 +128,7 @@ C
 * [Another one bites the apple!](https://engineering.linecorp.com/ko/blog/another-one-bites-the-apple/) OS X bug hunting
 * [C 프로그래밍 언어가 여전히 최고인 이유 : 개발언어 일대일 비교](http://www.itworld.co.kr/news/124767)
 * [C에 대해서 잘 아시나요?](http://jhrogue.blogspot.com/2019/07/b-c.html)
+* [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
