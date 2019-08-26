@@ -412,6 +412,7 @@ App
   * [Guppy - A WYSIWYG Mathematics Editor Enter mathematical expressions below (help)](https://daniel3735928559.github.io/guppy/)
   * [8 Best LaTeX Editors](https://beebom.com/best-latex-editors/)
   * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+  * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
@@ -756,6 +757,7 @@ App
 * [Editing Markdown for GitHub](http://moduscreate.com/editing-markdown-for-github/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
+* [Links to URLs containing parentheses](https://meta.stackexchange.com/questions/13501/links-to-urls-containing-parentheses) 주소에 괄호 넣기. 한글은 이걸로 안 됨
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [hackmd.io](https://hackmd.io/) gist
