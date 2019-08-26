@@ -677,6 +677,7 @@ Java
 * [JPA, Hibernate, 그리고 Spring Data JPA의 차이점](https://suhwan.dev/2019/02/24/jpa-vs-hibernate-vs-spring-data-jpa)
 * [JPA, OneToMany 양방향 관계 "MappedBy" 해설](https://www.youtube.com/watch?v=hsSc5epPXDs)
 * [JPA 엔터티 카운트 성능 개선하기](https://www.popit.kr/jpa-%EC%97%94%ED%84%B0%ED%8B%B0-%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0/)
+* [JPA 연관 관계 조회 그리고 MSA](https://www.popit.kr/jpa-연관-관계-조회-그리고-msa)
 * [Spring-Jpa Best Practices](https://github.com/cheese10yun/spring-jpa-best-practices)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
