@@ -368,6 +368,10 @@ App
     * [VScode Extension - 확장프로그램 추천 및 설치방법](https://mishka86.github.io/2019/06/24/vscode-extension)
     * [Free/Libre Open Source Software Binaries of VSCode](https://vscodium.com/)
     * [How to run Visual Studio Code in Google Cloud Shell](https://medium.com/google-cloud/how-to-run-visual-studio-code-in-google-cloud-shell-354d125d5748)
+    * remote
+      * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
+      * [Run VS Code on a remote server. https://coder.com ](https://github.com/cdr/code-server)
+      * [stackblitz.com - Code the Future. In Your Browser](https://stackblitz.com)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
