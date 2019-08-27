@@ -80,6 +80,7 @@
   * [NAT를 넘어서 가자](https://snack.planetarium.dev/kor/2019/04/nat_traversal_1/)
   * [예제로 보는 TURN](https://snack.planetarium.dev/kor/2019/06/nat_traversal_2/)
   * [Unity 환경에서 단위 테스트 돌리기](https://snack.planetarium.dev/kor/2019/06/xunit-unity-runner/)
+  * [파이콘 스프린트에 다녀오다](https://snack.planetarium.dev/kor/2019/08/pycon-sprint-2019/)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 
