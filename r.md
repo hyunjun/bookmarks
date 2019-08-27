@@ -545,6 +545,9 @@ R
   * [구글 클라우드를 활용한 R Shiny Web App 구현하기](https://cozydatascientist.tistory.com/63)
   * [R Shiny의 시작 그리고 Shiny를 관통하는 핵심 Shiny R GO! 하자! 1편](https://www.youtube.com/watch?v=oVoEth657ZQ)
   * [#R샤이니 는 어떻게 작동되는 걸까요? Shiny R Go! 하자! 2편](https://www.youtube.com/watch?v=W2S3n8EW7t4)
+  * [glove - Word Embedding 기법 중 하나인 Glove 를 소개하고, Feature Selection 기법을 Overview 합니다](https://github.com/shinykorea/glove)
+  * [shiny_meeup_201908](https://github.com/takos1026/shiny_meeup_201908)
+  * [Login module for ShinyApps](https://jinseob2kim.github.io/LectureRpackage/shinymanager/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
