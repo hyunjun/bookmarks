@@ -1276,7 +1276,7 @@ Deep Learning
   * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
   * [코드, 수학, 그리고 토론과 함께하는 상호적인 딥러닝 책](http://ko.d2l.ai)
   * [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html)
-  * [d2l-pytorch - This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch](https://github.com/dsgiitr/d2l-pytorch)
+  * [**d2l-pytorch - This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch**](https://github.com/dsgiitr/d2l-pytorch)
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
   * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)
