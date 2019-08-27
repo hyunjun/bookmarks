@@ -1552,6 +1552,9 @@ Programming
 * [‘테스트 케이스’로만 테스트하면 안되나요?](https://tech.devsisters.com/posts/not-enough-testcase)
 * [The "A" Word Under the Covers of Test Automation](https://leanpub.com/TheAWord/read_full)
 * [Exploratory Testing](https://leanpub.com/exploratorytesting/read_full)
+* [Unit Test (단위 테스트) 에 관한 생각](https://gregor77.github.io/2019/08/16/about-unit-test/)
+  * [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-단위-테스트-도입하기-1편)
+  * [Unit Test (단위 테스트) 도입하기 - 2편](https://www.popit.kr/unit-test-단위-테스트-도입하기-2편)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
