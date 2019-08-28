@@ -449,6 +449,7 @@ Javascript
 * [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 * [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
 * [Let’s build a full stack MongoDB, React, Node and Express (MERN) app](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
+* [Getting Started with the MERN Stack](https://medium.com/@alphakoder/getting-started-with-the-mern-stack-4e73f34aaa28)
 * [How to Easily Build Desktop Apps with HTML, CSS and Javascript](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 * [When to use var vs let vs const in JavaScript](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037)
 * [9 Tricks for Kickass JavaScript Developers in 2019](https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a)
