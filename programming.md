@@ -95,6 +95,7 @@ Programming
 * [10 more podcasts that new coders should listen to in 2017](https://medium.freecodecamp.com/10-more-podcasts-that-new-coders-should-listen-to-in-2017-3c7db301dfb)
 * [Popular Programming Podcast episodes](https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/edit#gid=1458779204)
 * [Podflix - It's Kinda Like Netflix for Podcasts!](https://podflix.app/)
+* [codingradio.xyz](https://codingradio.xyz/)
 * [stdout.fm - 소프트웨어 개발, 테크 뉴스, 전자제품에 대해 잡담하는 팟캐스트. #stdoutfm](https://stdout.fm/)
 * [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
