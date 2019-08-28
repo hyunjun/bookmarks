@@ -590,6 +590,7 @@ Programming
 * [Understanding Microservices: From Idea To Starting Line](https://medium.com/free-code-camp/microservices-from-idea-to-starting-line-ae5317a6ff02)
 * **[마이크로 서비스 프로젝트 300개 관리하기](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-300%EA%B0%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)** Docker, Kubernetes 실용적인 예와 경험. 매우 좋은 글
 * [**Data Consistency in Microservices Architecture (Grygoriy Gonchar)**](https://www.youtube.com/watch?v=CFdPDfXy6Y0)
+* [Data Consistency in Microservice Using Sagas](https://www.youtube.com/watch?v=txlSrGVCK18)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
