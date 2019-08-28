@@ -3026,7 +3026,6 @@ Python
   * [pycon.kr/2016apac/program/schedule](https://www.pycon.kr/2016apac/program/schedule/)
   * [Python으로 한자검색 텔레그램 봇 개발 후기](http://www.slideshare.net/studioego/python-64911528)
   * [디자이너의 코딩 도전기](http://www.slideshare.net/HyejeongPark3/ss-64965509)
-  * [TOROS: Python Framework for Recommender System](https://www.pycon.kr/2016apac/program/50)
   * [지적 대화를 위한 깊고 넓은 딥러닝 Pycon APAC 2016](http://www.slideshare.net/carpedm20/pycon-korea-2016)
     * 1. 이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델
       * [carpedm20.github.io/faces](http://carpedm20.github.io/faces/)

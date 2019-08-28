@@ -538,3 +538,5 @@ Data Science
 * [PyCon KR 2019 추천시스템 이제는 돈이 되어야 한다](https://www.slideshare.net/ssuser2fe594/ss-164511610)
 * [Analyzing Hacker News book suggestions in Python](https://towardsdatascience.com/hacker-news-book-suggestions-64b88099947)
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
+* [TOROS: Python Framework for Recommender System](https://www.pycon.kr/2016apac/program/50)
+* [TOROS Buffalo: A fast and scalable production-ready open source project for recommender systems](https://github.com/kakao/buffalo)
