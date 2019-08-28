@@ -153,6 +153,7 @@ Haskell
 * [reasonablypolymorphic.com/blog/archives](http://reasonablypolymorphic.com/blog/archives/)
 * [Functional Programming for the Long Haul](https://www.youtube.com/watch?v=4Q9WUrelSng)
 * [24 Days of GHC Extensions](https://ocharles.org.uk/pages/2014-12-01-24-days-of-ghc-extensions.html)
+* [A Guide to GHC's Extensions](https://limperg.de/ghc-extensions/)
 * [Tackling the awkward squad: monadic input/output, concurrency, exceptions, and foreign-language calls in Haskell](https://www.microsoft.com/en-us/research/publication/tackling-awkward-squad-monadic-inputoutput-concurrency-exceptions-foreign-language-calls-haskell/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fmarktoberdorf%2Fmark.pdf)
 * [Programming Nirvana, Plan B](http://wordaligned.org/articles/programming-nirvana-plan-b)
 
@@ -228,3 +229,5 @@ Haskell
 * [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies)
 * [Typed type-level programming in Haskell, part II: type families](https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/)
 * [Typed type-level programming in Haskell, part III: I can haz typs plz?](https://byorgey.wordpress.com/2010/07/19/typed-type-level-programming-in-haskell-part-iii-i-can-haz-typs-plz/)
+* [MultiParam Typeclasses](http://dev.stephendiehl.com/hask/#multiparam-typeclasses) functional dependencies
+  * [MultiParam Typeclasses](https://gist.github.com/nattybear/7fd19deb2097e3d7fe73088b1b6970f4)
