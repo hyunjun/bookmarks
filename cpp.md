@@ -144,6 +144,7 @@ C++
 * [내가 쓰는 C++1x: Conditional Variable](https://www.youtube.com/watch?v=5R9u16q4IcI)
 * [AwesomeCppTemplate](https://github.com/devkoriel/AwesomeCppTemplate)
 * [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d) `folly::Future`, `SharedPromise`
+* [가상 함수 포인터에 관한 고찰](https://othereum.github.io/c++/vf/)
 
 # API
 * auto_ptr
