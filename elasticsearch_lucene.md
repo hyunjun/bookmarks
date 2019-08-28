@@ -273,6 +273,9 @@ ElasticSearch - Lucene
 * [Enhancing Search With Elastic How we are improving search in our app using Elastic Search](https://hackernoon.com/enhancing-search-with-elastic-bcc450d05de8)
 * [DevFestDC - 2019 - Summer Rankin - Advancing your NLP with Elasticsearch](https://www.youtube.com/watch?v=s-60EuqgfGI) topic modelling, 추출, 분석
 
+# Book
+* [Elastic 가이드 북](https://esbook.kimjmin.net)
+
 # Docker
 * Dockerfile
   * [docker-library/elasticsearch/1.7/Dockerfile](https://github.com/docker-library/elasticsearch/blob/master/1.7/Dockerfile)
@@ -344,6 +347,7 @@ ElasticSearch - Lucene
 
 # Elasticsearch 7.x
 * [Elastic Stack 7.0 출시 밎 지금까지의 변경들](http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/)
+* [Node Topology 7.x](https://jjeong.tistory.com/1376)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
