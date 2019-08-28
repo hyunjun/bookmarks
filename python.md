@@ -3136,6 +3136,7 @@ Python
   * **[파이썬 3대장을 만나보자](https://www.slideshare.net/SeungKyooPark/3-164797583)** decorator, async, meta programming
   * **[머신러닝 및 데이터 과학 연구자를 위한 python 기반 컨테이너 분산처리 플랫폼 설계 및 개발](https://www.slideshare.net/inureyes/python-164418964)** python이 아니라 프로젝트 설계 및 구현 관점에서 재미있게 볼 수 있는 이야기
   * [from banksalad import python](https://speakerdeck.com/sunghyunzz/from-banksalad-import-python) 뱅크샐러드의 사내 python이용에 관한 발표
+* [PyOhio 2019 Surviving Without Python](https://www.youtube.com/watch?v=nJ31ZNpxTis) python 전반
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
@@ -3253,6 +3254,8 @@ Python
   * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
   * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
   * **[PyconKR 2019 pytest로 파이썬 코드 테스트하기](https://www.slideshare.net/ssuser80e030/pytest-164575856)**
+* [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
+  * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
 * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Tabletests](http://horia141.com/tabletests.html)
