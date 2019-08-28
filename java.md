@@ -377,6 +377,7 @@ Java
 
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
+* [Java Futures, 2019 Edition](https://www.youtube.com/watch?v=hryQIIasGY4) Java12에 국한된 이야기는 아니며 type inference, switch pattern matching, project Valhalla, Panama, Loom 등 다양한 새로운 기능에 대한 이야기
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
