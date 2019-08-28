@@ -170,6 +170,7 @@ Hadoop
   * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [August 2016 HUG: Open Source Big Data Ingest with StreamSets Data Collector](https://www.slideshare.net/ydn/august-2016-hug-open-source-big-data-ingest-with-streamsets-data-collector?ref=http%3A%2F%2Fyahoohadoop.tumblr.com%2Ftagged%2FHadoop)
+* [Introducing Cloudera Stream Processing](https://blog.cloudera.com/introducing-cloudera-stream-processing)
 * [How-to: Include Third-Party Libraries in Your MapReduce Job](https://blog.cloudera.com/blog/2011/01/how-to-include-third-party-libraries-in-your-map-reduce-job/)
 * [Running Spark 2.x.x on Cloudera Hadoop Distro (CDH)](https://www.linkedin.com/pulse/running-spark-2xx-cloudera-hadoop-distro-cdh-deenar-toraskar-cfa)
 * [imp51.tistory.com/category/Big DATA](http://imp51.tistory.com/category/Big%20DATA)
