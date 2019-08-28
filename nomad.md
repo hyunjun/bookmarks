@@ -127,6 +127,7 @@ Nomad & Remote
 * [호주 생활/취업 메일 문답](http://www.haruair.com/blog/3360)
 * [호주 457 비자 폐지, ‘시기 별 주요 변경 사항 점검’](http://www.sbs.com.au/yourlanguage/korean/ko/article/2017/05/16/457-bija-pyeji-sigi-byeol-juyo-byeongyeong-sahang-jeomgeom?language=ko)
 * [호주 생활 정리하기](https://www.haruair.com/blog/4532)
+* [Australia will now headhunt tech talent for permanent residency](https://www.itnews.com.au/news/australia-will-now-headhunt-tech-talent-for-permanent-residency-529508) GTIP
 
 # Book
 * [리모트워크로 스타트업](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=179440735)
