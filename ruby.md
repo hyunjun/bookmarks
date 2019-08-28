@@ -75,6 +75,7 @@ Ruby
 * [RubyFiddle](http://rubyfiddle.com/)
 * [RubyGems.org is the Ruby community’s gem hosting service](https://rubygems.org/)
   * [맥 OS에서 Ruby Gem Permission Denied 문제 해결](http://jojoldu.tistory.com/288)
+  * [서비스 중단없이 루비 버전 2.6 업그레이드 하기](https://medium.com/daangn/서비스-중단없이-루비-버전-2-6-업그레이드-하기-db8991c19050)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SciRuby](http://sciruby.com/)
 * [sequel - Ode to Sequel](http://twin.github.io/ode-to-sequel/)
