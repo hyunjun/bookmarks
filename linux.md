@@ -138,6 +138,8 @@ Linux
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * **[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)** 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
+* [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
+  * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
   * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
@@ -613,6 +615,8 @@ Linux
       * 전체 repository에 대해 proxy를 설정할 때는 /etc/yum.conf에 추가
       * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
   * [Which yum variable can give 6 or 7 as output](https://stackoverflow.com/questions/35978202/which-yum-variable-can-give-6-or-7-as-output/35978695#35978695)
+* /tmp
+  * [프로젝트 출시 10일 후 새벽 4시에 발생한 장애의 원인](https://iamsang.com/blog/2017/05/27/server-failure-10-days-after-release/) /tmp directory 관련 내용
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
