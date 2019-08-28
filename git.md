@@ -205,6 +205,7 @@ Git
   * `git add [the_left_out_file]; git commit --amend --no-edit` [How to add a file to the last commit in git?](https://stackoverflow.com/questions/40503417/how-to-add-a-file-to-the-last-commit-in-git)
 * bisect
   * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
+  * [GIT BISECT를 이용하여 버그발생시점 찾아내기](https://iamsang.com/blog/2014/03/02/git-bisect/)
 * `branch`
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
