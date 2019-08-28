@@ -1531,7 +1531,9 @@ Python
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
-* pandas [practice - test_pandas.py](https://github.com/hyunjun/practice/blob/master/python/test-excel/test_pandas.py) key가 자동으로 정해지므로 필요하면 customize해야 함
+* pandas
+  * [practice - test_pandas.py](https://github.com/hyunjun/practice/blob/master/python/test-excel/test_pandas.py) key가 자동으로 정해지므로 필요하면 customize해야 함
+  * [Combine Multiple Excel Worksheets Into a Single Pandas Dataframe](https://pbpython.com/pandas-excel-tabs.html)
 * [Pycel - a small python library that can translate an Excel spreadsheet into executable python code](https://github.com/dgorissen/pycel)
 * [PyXLL - The Python Excel Add-In](https://www.pyxll.com/)
   * [Machine Learning in Excel With Python](https://datascienceplus.com/machine-learning-in-excel-with-python/)
@@ -1810,8 +1812,6 @@ Python
 * [launchctl을 사용한 맥 OSX에서 서비스 등록하기 - 주피터(Jupyter, IPython >= 3) 노트북 서비스 등록 예제](http://blog.nacyot.com/articles/2015-05-13-jupyter-as-a-service/)
 * [주피터(Jupyter) 노트북과 자바스크립트 환경 이해하기 - 주피터 위에서 d3.js를 활용한 시각화](http://blog.nacyot.com/articles/2015-05-21-d3js-in-jupyter/)
 * [jupyter 다중 커널(kernel) 설치하기](http://bryan7.tistory.com/719)
-* [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
-* [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [Bike Sharing Demand](http://nbviewer.ipython.org/github/kyuni22/kagglebreak/blob/master/bikesharing/bikesharing.ipynb)
 * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
 * [Gesture Typing](http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb)
@@ -1823,43 +1823,17 @@ Python
 * [Organizing a Bookshelf with Multivariate Analysis](http://jaidevd.github.io/blog/bookshelf/)
 * [Popularity scoring for arXiv publications](https://gist.github.com/nebw/5504697c118744677c2d)
 * [A Collaborative Real-time iPython Jupyter Client for Self-hosted Jupyter Servers](http://lesquare.escherpad.com/@yang.ge/A-Collaborative-Real-time-iPython-Jupyter-Client-for-Self-hosted-Jupyter-Servers-tcwtda0jqgbb)
-* [Pineapple - The next generation of scientific notebook. A standalone frontend to IPython for Mac](http://nwhitehead.github.io/pineapple/)
 * [bqplot is a plotting system for the Jupyter notebook](https://github.com/bloomberg/bqplot)
 * [How did we serve more than 20,000 IPython notebooks for Nature readers?](https://developer.rackspace.com/blog/how-did-we-serve-more-than-20000-ipython-notebooks-for-nature/)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Beal's Conjecture Revisited](http://norvig.com/beal.html)
-* scikit
-  * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
-  * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
-  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part I](https://www.youtube.com/watch?v=80fZrVMurPM)
-  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
-  * [Data science in Python: pandas, seaborn, scikit-learn](https://www.youtube.com/watch?v=3ZWuPVWq7p4)
-    * [Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
-  * [김도형: 파이썬 데이터 분석 3종 세트 - statsmodels, scikit-learn, theano - PyCon APAC 2016](https://www.youtube.com/watch?v=Z5rD3yQ96Lo)
-  * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/)
 * [Run Python 2 and Python 3.5 kernels in IPython Jupyter Notebook](http://www.motleytech.net/en/2015/11/08/jupyter-python-27-and-35/)
 * [구독자의 목소리가 보여@@](https://brunch.co.kr/@goodvc78/4)
   * [brunch의 follower, following 정보로 관심 작가 분석하기](http://nbviewer.jupyter.org/gist/goodvc78/f6bed2ba616121484f70)
 * [Top 10 IPython Tutorials for Data Science and Machine Learning](http://www.rubedo.com.br/2016/04/top-10-ipython-tutorials-for-data.html)
 * [Jupyter Keyboard Shortcuts](https://sowingseasons.com/blog/reference/2016/01/jupyter-keyboard-shortcuts/23298516)
-* JupyterLab
-  * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
-  * [JupyterLab: The Next-Generation Jupyter Frontend](https://www.youtube.com/watch?v=w7jq4XgwLJQ)
-  * [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
-    * `pip install jupyterlab`
-    * `conda install -c conda-forge jupyterlab`
-  * 주피터 노트북의 진화! 
-    * [(1/2)주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
-    * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
-  * [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
-  * [How to change JupyterLab Theme(Easy Method)](https://www.youtube.com/watch?v=yI0K0k-Ari0)
-  * [JupyterLab first impressions](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
-  * [Jupyter Notebook보다 쉽고 편리하다, Jupyter Lab!](https://tariat.tistory.com/537)
-  * [github jupyterlab-extension](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ajupyterlab-extension&type=Repositories)
-  * [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css.html)
 * [Jupyter notebook markdown에 내가 원하는 css 적용하기 (Linux / Mac OS)](http://seokjoonyun.blogspot.com/2016/08/jupyter-notebook-markdown-css-linux-mac.html)
-* [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * [Jupyter notebook 이해하기 20160815](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160815)
 * [Jupyter Notebook Python, Scala, R, Spark, Mesos Stack](https://github.com/jupyter/docker-stacks/tree/master/all-spark-notebook)
 * [예제로 따라해보는 Jupyter, pandas 데이터 분석](http://www.insilicogen.com/blog/197)
@@ -1881,7 +1855,6 @@ Python
   $ ssh -N -f -L localhost:7987:localhost:7987 [user id]@[server] 
   # open browser then type localhost:7987
   ```
-* [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com](https://github.com/proin/saturn)
 * [Plotting with Color Maps in Python](https://www.youtube.com/watch?v=0uoZvQ6AKGg)
 * [IRkernel - R kernel for Jupyter Notebook](https://irkernel.github.io)
 * [Jupyter Notebook 키보드 바로가기](https://financedata.github.io/posts/jupyter-notebook-shortcuts.html)
@@ -1911,31 +1884,25 @@ Python
 * [Jupyter Notebook에서 값을 연속적으로 출력하려면?](https://nbviewer.jupyter.org/urls/financedata.github.io/posts/display-all-values-in-cell-jupyter-notebook.ipynb)
 * [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://nbviewer.jupyter.org/github/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb)
 * [Hacking my way to a Jupyter notebook powered blog](https://nipunbatra.github.io/blog/2017/Jupyter-powered-blog.html)
-* [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
 * [IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting](https://github.com/jdwittenauer/ipython-notebooks)
 * [Running Jupyter notebooks on GPU on Google Cloud](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd)
 * **[financedata.github.io](https://financedata.github.io/)**
 * [마켓 데이터 크롤링 - 개별주식 가격 데이터 (morningstar)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/price_data_morningstar.ipynb)
-* [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [국가수리과학연구소 JupyterHub 구축 보고](https://www.evernote.com/shard/s57/sh/bd6487f7-a24a-4433-a2a3-57afcc1ab406/57f959ee35d6db385e60ee07e18f6639)
 * [Multi-user server for Jupyter notebooks https://jupyterhub.readthedocs.io ](https://github.com/jupyterhub/jupyterhub)
 * [다중 사용자를 위한 Jupyterhub 설치 Install jupyterhub for multi-user](https://metamath1.github.io/2018/12/24/jupyterhub.html)
 * [Deploying JupyterHub with Kubernetes - Camilla Montonen](https://www.youtube.com/watch?v=uiLUmuecU7I)
 * [JupyterHub Tutorial: Set up your Lab, Classroom, or Business](https://www.youtube.com/watch?v=Mk6ZHVIw0Xs)
 * [Brunch Data Analysis.ipynb](https://github.com/marcosdeseul/data-analysis/blob/master/brunch-data-analysis/Brunch%20Data%20Analysis.ipynb)
-* [jupyterthemes](https://github.com/dunovank/jupyter-themes)
-* [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
-* [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
 * [아나콘다와 파이참을 이용하여 Jupyter notebook 실행하기](http://blog.anthouse.co.kr/221102899331)
 * [주피터 노트북 사용법 기초편](https://www.youtube.com/watch?v=SLPo0o_HArs)
 * [파이썬과 Jupyter Notebook 설치하기](https://www.youtube.com/watch?v=gYzod9NOGMk)
-* [Traitlets](https://github.com/ipython/traitlets)
 * [쥬피터 노트북 PDF 문제 해결](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%95%EB%B3%B4-%EC%A5%AC%ED%94%BC%ED%84%B0-%EB%85%B8%ED%8A%B8%EB%B6%81-pdf-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0/)
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-* **[JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture](https://github.com/jupyterlab/jupyterlab)**
-* [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
 * [Python 3 Support in Jupyter](https://blog.dominodatalab.com/adding-python-3-to-jupyter/)
-* [Advanced Jupyter Notebook Tricks — Part I](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
+* [advanced_jupyter_tricks](https://try.dominodatalab.com/u/joshpoduska/advanced_jupyter_tricks/overview)
+  * [Advanced Jupyter Notebook Tricks — Part I](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
+  * [Building Interactive Dashboards with Jupyter](https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/)
 * [webia.lip6.fr/~pajot/dataviz.html](http://webia.lip6.fr/~pajot/dataviz.html) pandas, matplotlib, numpy, seaborn example
 * [Jupyter Notebook Tricks for Data Science that Enhance your efficiency](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
 * [Inserting image into IPython notebook markdown](https://stackoverflow.com/questions/10628262/inserting-image-into-ipython-notebook-markdown)
@@ -1948,8 +1915,6 @@ Python
 * [Beyond Interactive: Notebook Innovation at Netflix](https://medium.com/netflix-techblog/notebook-innovation-591ee3221233)
 * [Scheduling Notebooks at Netflix](https://medium.com/netflix-techblog/scheduling-notebooks-348e6c14cfd6)
 * [I don't like Notebooks](https://docs.google.com/presentation/d/1n2RlMdmv1p25Xy5thJUhkKGvjtV-dkAIsUXP-AL4ffI/preview?slide=id.g362da58057_0_639)
-* [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
-  * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
 * [Jupyter notebook HTML output에 템플릿 적용하기](http://ohgyun.com/772)
 * [JupyterCon in New York 2018](https://www.youtube.com/playlist?list=PL055Epbe6d5b572IRmYAHkUgcq3y6K3Ae)
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -1976,8 +1941,57 @@ Python
 * [무료 파이썬 노트북 서비스 5종류 비교 (feat.머신러닝)](https://medium.com/@salaryup/%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%84%9C%EB%B9%84%EC%8A%A4-5%EC%A2%85%EB%A5%98-%EB%B9%84%EA%B5%90-feat-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-c03246f43516)
 * [Jupyter is the new Excel (but not for your boss)](https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314)
 * [주피터 노트북에서 Interactive Widget 사용하기](https://junpyopark.github.io/interactive_jupyter/)
-* [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+
+## Jupyter Library
+* [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
+* [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
+* ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
+* [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
+* **[JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture](https://github.com/jupyterlab/jupyterlab)**
+  * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
+  * [JupyterLab: The Next-Generation Jupyter Frontend](https://www.youtube.com/watch?v=w7jq4XgwLJQ)
+  * [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
+    * `pip install jupyterlab`
+    * `conda install -c conda-forge jupyterlab`
+  * 주피터 노트북의 진화! 
+    * [(1/2)주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
+    * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
+  * [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
+  * [How to change JupyterLab Theme(Easy Method)](https://www.youtube.com/watch?v=yI0K0k-Ari0)
+  * [JupyterLab first impressions](https://medium.com/@brianray_7981/jupyterlab-first-impressions-e6d70d8a175d)
+  * [Jupyter Notebook보다 쉽고 편리하다, Jupyter Lab!](https://tariat.tistory.com/537)
+  * [github jupyterlab-extension](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ajupyterlab-extension&type=Repositories)
+  * [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
+* [jupyterthemes](https://github.com/dunovank/jupyter-themes)
+  * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
+  * [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
+* [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
+* [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
+* [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
+  * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
+* [ob-ipython - org-babel integration with IPython for evaluation](https://github.com/gregsexton/ob-ipython)
+* [Papermill is a tool for parameterizing and executing Jupyter Notebooks](https://papermill.readthedocs.io)
+  * [A blog post about report generation and automation in python](https://github.com/duarteocarmo/automation-post)
+  * [Automated Report Generation with Papermill: Part 1](https://pbpython.com/papermil-rclone-report-1.html)
+  * [Automated Report Generation with Papermill: Part 2](https://pbpython.com/papermil-rclone-report-2.html)
+* [Pineapple - The next generation of scientific notebook. A standalone frontend to IPython for Mac](http://nwhitehead.github.io/pineapple/)
+* [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
+  * [Rodeo 1.0: a Python IDE on your Desktop](http://blog.yhathq.com/posts/rodeo-native.html)
+  * [A data centric IDE for Python](https://github.com/yhat/rodeo)
+  * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
+  * [NYC Subway Math](http://blog.yhat.com/posts/subway-math.html)
+* [Saturn: Web IDE for Machine Learning http://saturn.proinlab.com ](https://github.com/proin/saturn)
+* scikit
+  * [Dive into Machine Learning with ipython notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning)
+  * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
+  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part I](https://www.youtube.com/watch?v=80fZrVMurPM)
+  * [Machine Learning with Scikit Learn | SciPy 2015 Tutorial | Andreas Mueller & Kyle Kastner Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
+  * [Data science in Python: pandas, seaborn, scikit-learn](https://www.youtube.com/watch?v=3ZWuPVWq7p4)
+    * [Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
+  * [김도형: 파이썬 데이터 분석 3종 세트 - statsmodels, scikit-learn, theano - PyCon APAC 2016](https://www.youtube.com/watch?v=Z5rD3yQ96Lo)
+  * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/)
+* [Traitlets](https://github.com/ipython/traitlets)
 
 ## Jupyter cloud
 * [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
@@ -2018,13 +2032,6 @@ Python
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
 * [notebooks.azure.com](https://notebooks.azure.com/) 계정에 따라 다른데 login이 자꾸 풀리는 경우가 있음
-
-## Rodeo
-* [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
-  * [Rodeo 1.0: a Python IDE on your Desktop](http://blog.yhathq.com/posts/rodeo-native.html)
-  * [A data centric IDE for Python](https://github.com/yhat/rodeo)
-  * [와이햇, 데이터과학자 위한 분석도구 오픈소스로 공개](http://www.bloter.net/archives/226496)
-* [NYC Subway Math](http://blog.yhat.com/posts/subway-math.html)
 
 # Java
 * [Java class를 Python에서 사용하기](http://www.giljae.com/2016/12/java-class-python.html) 결국 subprocess 이야기
