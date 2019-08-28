@@ -215,6 +215,7 @@ App
   * [Jupyter를 블로그에 적용하기 jupyter + maya + hugo](https://libsora.so/posts/apply-jupyter-into-blog/)
   * [Universal theme to Hugo](https://github.com/devcows/hugo-universal-theme)
   * [Two ways to deploy a public GitHub Pages site from a private Hugo repository](https://medium.freecodecamp.org/two-ways-to-deploy-a-public-github-pages-site-from-a-private-hugo-repository-627312ec63b9)
+  * [블로그 리브랜딩 & 텀블러에서 깃헙페이지+휴고(HUGO)로](https://iamsang.com/blog/2017/05/22/blog-rebranding-and-from-tumblr-to-github-page-and-hugo/)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
