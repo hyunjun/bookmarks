@@ -66,6 +66,7 @@ Interview
 * [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
   * [인터뷰 준비(중) - 데이터 구조 / 알고리즘 리뷰](https://brunch.co.kr/@junyong/5)
 * [Software Interview Preparation Guide - Strategies and Resources on How to](https://www.youtube.com/watch?v=bBPHpH8aKjw)
+* [**Coding-Interview-Preparation**](https://github.com/coding-club-iit-jammu/Coding-Interview-Preparation) 일반적인 사항, mock interview, group 소개 등
 * [코딩 인터뷰 준비 – 팁과 나의 계획](https://matthew.kr/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84-%ED%8C%81%EA%B3%BC-%EB%82%98%EC%9D%98-%EA%B3%84%ED%9A%8D/)
 * ["디지털 시대, 구글이 自紹書".. 美 베스트셀러의 취업 조언](http://m.media.daum.net/m/media/culture/newsview/20160408031252784)
 * [미국 노땅 프로그래머 취업과정 정리](http://www.wolfpack.pe.kr/933)
@@ -155,6 +156,7 @@ Interview
   * [Goldman Sachs Interview - The Tree Question | Part II](https://www.youtube.com/watch?v=D1Tv5cCs1d8)
 * **[소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/66)**
 * [**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/) 기본적인 모든 인터뷰 절차 및 각 알고리즘 별 문제(혹은 link)도 포함
+* [Interview Experience at Goldman Sachs (For Technical Analyst Role- Java )](https://medium.com/@mukeshsrivastav691/interview-experience-at-goldman-sachs-90036a562484)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
