@@ -45,6 +45,7 @@ Robot
 * [ald.softbankrobotics.com](https://www.ald.softbankrobotics.com)
 * [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [ROBOCON 2019 - China Robocon Champion - It's so admirable](https://www.youtube.com/watch?v=WmizhHexQHY)
+* [3D 프린터 로봇 제어를 위한 텐서플로](http://blog.daum.net/kimgyunghyun/2529)
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
