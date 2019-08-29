@@ -706,6 +706,8 @@ Javascript
 * [Javascript ES6 Proxy](http://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
 * [jaeyeophan.github.io/categories/ECMAScript6](https://jaeyeophan.github.io/categories/ECMAScript6/)
 * [native vs lodash vs underscore in javaScript(>ES5)](http://blog.kazikai.net/?p=180)
+  * [Lodash - A modern JavaScript utility library delivering modularity, performance & extras](https://lodash.com)
+    * [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
 * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
