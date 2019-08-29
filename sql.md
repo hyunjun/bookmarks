@@ -259,6 +259,7 @@ SQL
 * [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)
 * [vagrant로 설치하는 mysql / phpmyadmin](https://raspberrypikor.blogspot.com/2016/12/vagrant-mysql.html)
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)
+* [MySQL 파티셔닝 테이블 SELECT가 느려요](http://gywn.net/2019/08/mysql-poor-performance-with-super-many-partitions/)
 * [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
 * [PMM 이야기 1편 – INTRO](http://gywn.net/2018/03/pmm-intro/)
 * [PMM팁1탄! MySQL을 READ-ONLY 기준으로 표기해보기](http://gywn.net/2019/01/pmm-tip1-classified-by-mysql-readonly/)
