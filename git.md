@@ -191,6 +191,7 @@ Git
 * [Learn basics of Version Control & Git Commands in less than 10 minutes](https://hackernoon.com/learn-basics-of-version-control-git-commands-in-less-than-10-minutes-9769d3147410)
 * [Git Fu Developing](https://www.youtube.com/watch?v=f-Br8cud2eI)
 * [Git 커맨드라인 환경에서 GUI 부럽지 않게 사용할 수 있는 몇가지 팁](http://www.mimul.com/pebble/default/2019/08/23/1566550403384.html) fzf + peco
+* [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
 * `amend`
