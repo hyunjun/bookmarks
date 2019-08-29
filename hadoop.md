@@ -299,6 +299,7 @@ Hadoop
 * [Hive Session Timeouts](https://www.youtube.com/watch?v=YFzjEveOu8c)
 * [order by, sort by, cluster by 의 차이](https://118k.tistory.com/441)
 * [How to generate Hive Random Data based on input data schema 1](https://www.youtube.com/watch?v=bLKdT2WW2-s)
+* [Extending Hive Replication: Transactional Tables, External Tables, and Statistics](https://blog.cloudera.com/extending-hive-replication-transactional-tables-external-tables-and-statistics/)
 
 # [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
