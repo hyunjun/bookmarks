@@ -468,6 +468,7 @@ Apache
 * [KAFKA ARCHITECTURE: LOG COMPACTION](http://cloudurable.com/blog/kafka-architecture-log-compaction/index.html)
 * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
 * [kafka 운영 - kafka의 Exception들 - (1)](https://springboot.cloud/35)
+* [Kafka 로그 종류 및 로그 샘플에 대한 설명](https://godway1225.wordpress.com/2019/08/29/kafka-로그-종류-및-로그-샘플에-대한-설명)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
