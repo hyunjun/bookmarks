@@ -956,7 +956,7 @@ Machine Learning
 * [setscholars.net](https://setscholars.net/) Applied Data Science in Business & Biological Sciences: Python, R & MATLAB Codes for Beginners
 * [Custom Transformers and ML Data Pipelines with Python](https://towardsdatascience.com/custom-transformers-and-ml-data-pipelines-with-python-20ea2a7adb65)
 
-## Library
+## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
 * [Top 20 Python 머신러닝 오픈소스 프로젝트](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/339660856469916)
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
@@ -964,6 +964,7 @@ Machine Learning
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [The Best Machine Learning Libraries in Python](http://stackabuse.com/the-best-machine-learning-libraries-in-python/)
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
+* [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
 * [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
 * [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
