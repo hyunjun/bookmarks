@@ -272,6 +272,7 @@ ElasticSearch - Lucene
 * [Berlin Buzzwords 2019:Debmalya Biswas/Louis Baligand–Building an enterprise NLSE (...)](https://www.youtube.com/watch?v=UJYrDw6I19Y) ElasticSearch + Facebook's DrQA
 * [Enhancing Search With Elastic How we are improving search in our app using Elastic Search](https://hackernoon.com/enhancing-search-with-elastic-bcc450d05de8)
 * [DevFestDC - 2019 - Summer Rankin - Advancing your NLP with Elasticsearch](https://www.youtube.com/watch?v=s-60EuqgfGI) topic modelling, 추출, 분석
+* [한국 Elastic 사용자 그룹](https://www.youtube.com/channel/UCmI0g3ROh1WrUMZDv2kcjfQ)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
@@ -348,6 +349,7 @@ ElasticSearch - Lucene
 # Elasticsearch 7.x
 * [Elastic Stack 7.0 출시 밎 지금까지의 변경들](http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/)
 * [Node Topology 7.x](https://jjeong.tistory.com/1376)
+* [Elastic Stack Version 7.2: Feature Tour](https://www.youtube.com/watch?v=bmx13X87e2s)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
