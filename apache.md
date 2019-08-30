@@ -605,6 +605,7 @@ Apache
 * [Learn kafka streams by making the tests pass](https://github.com/ardlema/kafka-streams-workshop)
   * Apache Kafka Streams를 배울 수 있는 워크숍
 * [Apache Kafka leaves the Zoo](https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7)
+* [Using Graph Processing for Kafka Stream Visualizations](https://www.confluent.io/blog/kafka-graph-visualizations<Paste>))
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
