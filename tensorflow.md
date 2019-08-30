@@ -636,6 +636,7 @@ TensorFlow
 * [텐서플로우(Tensorflow) GPU설치 (이보다 더 쉬울 수는 없다!)](https://javaxer.blogspot.com/2019/01/tensorflow-gpu.html)
 * [ImportError: libcudnn.so.7: cannot open shared object file: No such file or directory](https://jybaek.tistory.com/778)
 * [AI Practitioners Guide for Beginners](https://software.intel.com/en-us/articles/ai-practitioners-guide-for-beginners)
+* [머신러닝 개발환경 : 아나콘다, 텐서플로우 설치](https://www.youtube.com/watch?v=XIySEGmUWd0)
 
 ## Installation CentOS
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
