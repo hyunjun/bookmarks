@@ -73,6 +73,7 @@ Algorithm
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
   * [Data Structure](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=6&view=50&sort=dd)
+* [Top 10 Algorithms and Data Structures for Competitive Programming](https://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * [페이스북 뉴스피드 알고리즘 해부: 내 글을 멀리 전파하려면?](http://slownews.kr/51124)
 * [첫 번째 startlink.live: 류원하(Being) - 현업 엔지니어의 시각에서 본 알고리즘 공부의 장점과 단점](https://www.youtube.com/watch?v=E-rsNylGLFI&index=5&list=PLfIXbp8fGKRn76J0zvXgaqGmgYBDUiE91)
