@@ -2962,6 +2962,7 @@ Python
 * [SQL과 파이썬 pandas의 비교](https://github.com/ysunmi0427/smdw/blob/master/sql/lecture00-comparison-between-sql-and-pandas.md)
 * [My top 25 pandas tricks](https://www.youtube.com/watch?v=RlIiVeig3hc)
 * [판다스 코드 속도 최적화를 위한 초보자 안내서](https://aldente0630.github.io/data-science/2018/08/05/a-beginners-guide-to-optimizing-pandas-code-for-speed.html)
+* [PyData Tel Aviv Meetup: Getting to Know any Dataset in 4 Lines of Python - Eyal Trabelsi](https://www.youtube.com/watch?v=ue889FbMyQE) `pandas_profiling`, `pivottablejs`, `pydqc.data_compare`
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
