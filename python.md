@@ -3136,6 +3136,7 @@ Python
   * **[파이썬 3대장을 만나보자](https://www.slideshare.net/SeungKyooPark/3-164797583)** decorator, async, meta programming
   * **[머신러닝 및 데이터 과학 연구자를 위한 python 기반 컨테이너 분산처리 플랫폼 설계 및 개발](https://www.slideshare.net/inureyes/python-164418964)** python이 아니라 프로젝트 설계 및 구현 관점에서 재미있게 볼 수 있는 이야기
   * [from banksalad import python](https://speakerdeck.com/sunghyunzz/from-banksalad-import-python) 뱅크샐러드의 사내 python이용에 관한 발표
+  * [파이콘 한국 2019 스포카 코드 챌린지 수상작 및 참여작을 소개합니다](https://spoqa.github.io/2019/08/30/pycon-kr-code-challenge.html)
 * [PyOhio 2019 Surviving Without Python](https://www.youtube.com/watch?v=nJ31ZNpxTis) python 전반
 
 # PyPy
