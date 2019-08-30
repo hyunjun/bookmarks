@@ -926,6 +926,7 @@ Machine Learning
 * [The Perceptron Algorithm explained with Python code](http://www.analyticbridge.com/profiles/blogs/the-perceptron-algorithm-explained-with-python-code)
 * [퍼셉트론 강의](http://kr.deductiontheory.com/2017/05/blog-post.html)
 * [Simple Softmax Regression in Python — Tutorial](https://medium.com/@awjuliani/simple-softmax-in-python-tutorial-d6b4c4ed5c16)
+* [토끼와 거북이가 알려주는 회귀(Regression)](https://www.youtube.com/watch?v=qBdiAd6tceg)
 * [인공지능 컴퓨팅을 위한 파이썬 강좌](https://docs.google.com/document/d/1OIphIT5d8O_HjavCLbqIbNXxqhq2WzPpUFuB0m6feio/edit#heading=h.l4nhctb2no4g)
 * [Machine Learning Exercises In Python - Part 1](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python.html)
 * [Machine Learning Exercises In Python, Part 2](http://www.rubedo.com.br/2017/05/machine-learning-exercises-in-python_10.html)
