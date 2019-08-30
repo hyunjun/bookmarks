@@ -189,7 +189,7 @@ Programming Language
   * [F# Code I Love](https://www.youtube.com/watch?v=EPfpO_6uFAA)
   * [Ionide - An Atom Editor package suite for cross platform F# development](http://ionide.io/)
   * [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) modern property based testing system in the spirit of QuickCheck
-  * [C#과 F#의 차이](https://bangjunyoung.github.io/2019/08/27/C-에서-F-으로-전환하기/)
+  * [C#과 F#의 차이](https://bangjunyoung.github.io/2019/08/27/CSharp에서-FSharp으로-전환하기/)
   * [자바스크립트와 재귀 함수 재귀를 구현하기 힘든 이유](https://bangjunyoung.github.io/2019/08/28/자바스크립트와-재귀-함수/)
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
