@@ -1014,6 +1014,7 @@ Machine Learning
   * [Finding the right model parameters](https://towardsdatascience.com/finding-the-right-model-parameters-3670a1c086b3)
   * [Feature Selection with sklearn and Pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
   * [SMOTE를 통한 데이터 불균형 처리](https://mkjjo.github.io/python/2019/01/04/smote_duplicate.html) oversampling 기법의 하나
+  * [Two hours later and still running? How to keep your sklearn.fit under control](https://medium.com/free-code-camp/two-hours-later-and-still-running-how-to-keep-your-sklearn-fit-under-control-cc603dc1283b)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
