@@ -191,6 +191,7 @@ Programming Language
   * [fsharp-hedgehog](https://github.com/hedgehogqa/fsharp-hedgehog) modern property based testing system in the spirit of QuickCheck
   * [C#과 F#의 차이](https://bangjunyoung.github.io/2019/08/27/CSharp에서-FSharp으로-전환하기/)
   * [자바스크립트와 재귀 함수 재귀를 구현하기 힘든 이유](https://bangjunyoung.github.io/2019/08/28/자바스크립트와-재귀-함수/)
+  * [F# 함수 이해하기 1부 - 타입 추론, 익명 함수, 커링, 부분 함수 적용](https://bangjunyoung.github.io/2019/08/30/FSharp-함수-이해하기-1부/)
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
@@ -243,6 +244,8 @@ Programming Language
   * [카일루아, 하나: 태동](http://j.mearie.org/post/160156279158/kailua-part-1)
   * [카일루아, 둘: 파서 (1)](http://j.mearie.org/post/160266597373/kailua-part-2)
   * [루아 5.2 이상에서 루아 스크립트를 실행 가능한 .bat 파일에 담는 방법](http://occamsrazr.net/tt/354)
+  * [루아와 MeCab-ko를 이용한 한국어 형태소 분석](http://occamsrazr.net/tt/353)
+  * [Mecab-ko 설정 파일과 사전 디렉터리를 상대 경로로 지정하기](http://occamsrazr.net/tt/355)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
 * Nim
