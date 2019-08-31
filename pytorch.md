@@ -166,6 +166,7 @@ PyTorch
 * [PyTorch v1.2에서 생긴 Transformer API 를 이용한 간단한 Chitchat 챗봇](https://github.com/eagle705/PyTorch_Transformer_Chatbot)
 * [pytorch-music-composer](https://github.com/YoongiKim/pytorch-music-composer)
 * [Source Separation - Deep learning based speech source separation using Pytorch](https://github.com/AppleHolic/source_separation)
+* [From Research to Production with PyTorch](https://www.infoq.com/presentations/pytorch-torchscript-botorch/)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
@@ -174,6 +175,7 @@ PyTorch
 * [딥러닝으로 동네생활 게시글 필터링하기](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d)
 * [KorQuAD (Korean Question Answering Dataset) submission guide using PyTorch pretrained BERT](https://github.com/lyeoni/KorQuAD)
 * [XLNet-Pytorch arxiv:1906.08237 Simple XLNet implementation with Pytorch Wrapper!](https://github.com/graykode/xlnet-Pytorch)
+* [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
