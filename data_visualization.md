@@ -214,6 +214,7 @@ Data Visualization
 * [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 * [데이터로 보는 나의 구독자 파이썬(Python)을 활용한 데이터 수집 및 시각화 프로젝트 후기](https://brunch.co.kr/@dimension-value/68)
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
+* [파이썬 Python으로 다양한 시각화 라이브러리 사용하기 - matplotlib, seaborn, pandas, ggplot, plotnine, plot.ly, Bokeh](https://www.youtube.com/watch?v=NFwWUu96rzI)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
@@ -285,6 +286,7 @@ Data Visualization
     * [Part 4](https://medium.com/@neuralnets/data-visualization-with-python-and-seaborn-part-4-9b0119887130)
   * [Visualize Programming Language Popularity using tiobeindexpy](https://towardsdatascience.com/visualize-programming-language-popularity-using-tiobeindexpy-f82c5a96400d)
   * [#150 Parallel plot with pandas](https://python-graph-gallery.com/150-parallel-plot-with-pandas)
+  * [파이썬 Python seaborn 으로 시각화 하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmqvImLtEUWvfjYYLwfj--K3)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
