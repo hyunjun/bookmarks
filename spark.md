@@ -591,6 +591,7 @@
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
 * [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+* [MLflow: An Open Platform to Simplify the Machine Learning Lifecycle](https://www.infoq.com/presentations/mlflow-databricks/)
 * [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
 * [Using Native Math Libraries to Accelerate Spark Machine Learning Applications](https://www.cloudera.com/documentation/guru-howto/data_science/topics/ght_native_math_libs_to_accelerate_spark_ml.html)
   * Spark ML용 네이티브 라이브러리를 사용해 모델 훈련 속도를 높이는 방법
