@@ -494,6 +494,7 @@ App
 * [macOS 에서 외장 모니터 레터박스 문제 해결](https://rein.kr/blog/archives/4566)
 * [mac 기본 앱 잘 쓰기 - 미리보기앱](https://steemit.com/kr/@ggopro/mac)
 * [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#applications)
+* [Setting up Environment Variables in MacOS Sierra](https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255)
 * 동영상 인코딩
   * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i [MOV] -acodec copy -vcodec copy [mp4]`
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
