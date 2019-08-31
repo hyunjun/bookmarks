@@ -2883,6 +2883,7 @@ Python
 * [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
+* [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
 * [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
