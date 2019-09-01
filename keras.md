@@ -204,6 +204,8 @@ Keras
 * [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
 * [A detailed example of how to use data generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly)
 * [How to Handle Missing Timesteps in Sequence Prediction Problems with Python](https://machinelearningmastery.com/handle-missing-timesteps-sequence-prediction-problems-python/)
+* [Inside TensorFlow: tf.Keras (part 1)](https://www.youtube.com/watch?v=UYRBHFAvLSs)
+* [Inside TensorFlow: tf.Keras (part 2)](https://www.youtube.com/watch?v=uhzGTijaw8A)
 
 # Book
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
