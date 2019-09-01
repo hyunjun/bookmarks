@@ -113,6 +113,7 @@ AWS
   * [3. Nginx 튜닝](http://jojoldu.tistory.com/322)
   * [4. 기타](http://jojoldu.tistory.com/323)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
+* [Elastic Beanstalk로 Next.js 앱 배포하기](https://blog.rhostem.com/posts/2019-09-01-deploy-next-app-to-eb)
 * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
   * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
   * [ImportError: No module named httpsession 문제 발생시](https://jojoldu.tistory.com/426)
