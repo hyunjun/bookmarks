@@ -856,6 +856,9 @@ Programming
 * [if (kakao) dev2018](https://tv.kakao.com/channel/3150758/video)
   * [if kakao 2018 동영상을 공개합니다](http://tech.kakao.com/2018/10/17/if-kakao-dev-2018/)
 * [if kakao 2019 Day1 후기](https://ryanpark.dev/2019/08/29/if-kakao-2019-후기/)
+* [if (kakao) dev 2019, Day 1 참석 후기](https://dico.me/topic/articles/257)
+  * [if (kakao) dev 2019, Day 1 - 서비스 장애를 극복하는 게임플랫폼 구축하기 요약](https://dico.me/topic/articles/255)
+  * [if (kakao) dev 2019, Day 1 - 초당옥수수의 취소를 막아라! : 수만 건의 주문을 1초내에 처리하는 기술 요약](https://dico.me/topic/articles/256)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
 * Line
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
@@ -1321,6 +1324,7 @@ Programming
   * [월간 개발자스럽다 #43](https://blog.gaerae.com/2019/05/monthly.html)
   * [월간 개발자스럽다 #44](https://blog.gaerae.com/2019/06/monthly.html)
   * [월간 개발자스럽다 #45](https://blog.gaerae.com/2019/07/monthly.html)
+  * [월간 개발자스럽다 #46](https://blog.gaerae.com/2019/08/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 
 # OS Operating System
@@ -1561,6 +1565,7 @@ Programming
 * [Unit Test (단위 테스트) 에 관한 생각](https://gregor77.github.io/2019/08/16/about-unit-test/)
   * [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-단위-테스트-도입하기-1편)
   * [Unit Test (단위 테스트) 도입하기 - 2편](https://www.popit.kr/unit-test-단위-테스트-도입하기-2편)
+* [How TDD Changed the Way I Approach Software Development First, solve the problem, then write tests, then write code](https://medium.com/better-programming/how-tdd-changed-the-way-i-approach-software-development-38509263f9ec)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
