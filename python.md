@@ -2632,6 +2632,8 @@ Python
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
   * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
+* [Tesseract-OCR](https://github.com/tesseract-ocr/)
+  * [문자인식 오픈소스 Tesseract-OCR, python wrapper tesserocr 설치](https://blog.naver.com/pgh7092/221099597471)
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * transition **[유한 상태 기계를 Django에 적용하여 상태 변경을 관리하기](https://tech.peoplefund.co.kr/2019/03/26/managing-state-using-finite-state-machine.html)**
@@ -2818,6 +2820,7 @@ Python
 * [K-MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
+* [Sungchul Lee](https://www.youtube.com/user/sungchulyonseiackr/playlists) 연대 수학과 교수
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
