@@ -393,6 +393,7 @@ NLP
 * [‘뉴욕타임스’, 머신러닝 기반 자동 태그 시스템 개발](http://www.bloter.net/archives/234850)
 * [Categories for Programmers](http://bartoszmilewski.com/2015/09/01/the-yoneda-lemma/)
 * [Fast & easy baseline text categorization with vw](http://nlpers.blogspot.com/2016/08/fast-easy-baseline-text-categorization.html)
+* [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/글쓰기-카테고리-추천모델-개발하기-cbbcc43e1f7f) fasttext
 
 # ChatBot
 * [HipChat을 이용한 ChatBot 만들기](https://opentutorials.org/module/2260/12797)
