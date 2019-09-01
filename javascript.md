@@ -509,6 +509,7 @@ Javascript
 * [Beginning your Web Development Journey? Start Here](https://medium.com/hackernoon/beginning-your-web-development-journey-start-here-7084346f5762)
 * [nike-app-sample](https://chading.net/nike-app-sample/)
 * [Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
+* [JavaScript rAF (requestAnimationFrame) in nutshell](https://itnext.io/javascript-raf-requestanimationframe-456f8a0d04b0)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -625,6 +626,7 @@ Javascript
 * [UMD(Universal Module Definition) 패턴](https://blog.rhostem.com/posts/2019-06-23-universal-module-definition-pattern)
 * [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 * [JavaScript: async/await with forEach()](https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404)
+* [비동기 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=m0icCqHY39U)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
