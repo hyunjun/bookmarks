@@ -824,6 +824,7 @@ Python
   * [Michal Wysokinski - Running Python code in parallel and asynchronously](https://www.youtube.com/watch?v=ZKzCx4D5c3g)
   * **[Async and await with subprocesses](https://fredrikaverpil.github.io/2017/06/20/async-and-await-with-subprocesses/)**
   * [Multiprocessing and multithreading in Python 3](https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/)
+  * [Multithreading in Python with Global Interpreter Lock (GIL) Example](https://www.guru99.com/python-multithreading-gil-example.html)
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
   * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
   * [rogrepos.py](https://github.com/lqez/rogrepos/blob/master/rogrepos/rogrepos.py)
