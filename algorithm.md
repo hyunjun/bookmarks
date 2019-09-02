@@ -89,8 +89,9 @@ Algorithm
 * [Knapsack Problem](http://philosophical.one/post/roadtrip-in-australia-financial-settlement/)
 * [zerocho.com/category/Algorithm](https://www.zerocho.com/category/Algorithm)
 * [입 개발 base62와 진법 연산](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base62%EC%99%80-%EC%A7%84%EB%B2%95-%EC%97%B0%EC%82%B0/)
-* [입 개발 base64 가 있는데 base62 같은걸 왜 써야 하나요?](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base64-%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0-base62-%EA%B0%99%EC%9D%80%EA%B1%B8-%EC%99%9C-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%82%98%EC%9A%94/)
+* [입 개발 base64 가 있는데 base62 같은걸 왜 써야 하나요?](https://www.popit.kr/입-개발-base64-가-있는데-base62-같은걸-왜-써야-하나요)
 * [URL, HEX, BASE64 디코딩](https://www.popit.kr/url-hex-base64-%EB%94%94%EC%BD%94%EB%94%A9/)
+* [Base64 알고리즘](http://minsone.github.io/programming/algorithm-base64-encoding-decoding)
 * [개미 수열을 푸는 10가지 방법](https://leanpub.com/programming-look-and-say/read_sample)
 * [ko.khanacademy.org/computing/computer-science/algorithms](https://ko.khanacademy.org/computing/computer-science/algorithms)
 * **[Algorithm Top 10 Articles (v.November)](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kb6z4cv91)**
