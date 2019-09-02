@@ -76,6 +76,7 @@ Android
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 * [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
+* [TensorFlow Lite로 Android에서 실시간으로 사람의 포즈 추적해보세요](https://developers-kr.googleblog.com/2019/08/track-human-poses-in-real-time-on-android-with-tensorflow-lite.html)
 * Mastering the World of Android Testing
   * [Part 1](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
   * [Part 2](https://blog.aritraroy.in/mastering-the-world-of-android-testing-part-2-23293c34dbbf)
