@@ -577,6 +577,7 @@ Scala
     * scala의 여러가지 문제점을 논함. 내부적으로 위기를 느끼나?
   * [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
   * [Thinking Less with Scala - Daniel Sivan](https://www.youtube.com/watch?v=k6QRI1a-xNU) basic, implicit, cats.Monoid
+* [Scala UA](https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg/videos)
 
 # IntelliJ
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
