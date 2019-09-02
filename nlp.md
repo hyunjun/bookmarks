@@ -1264,6 +1264,7 @@ NLP
 * [word2word - Easy-to-use word-to-word translations for 3,564 language pairs](https://github.com/Kyubyong/word2word)
 * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 * [모두를 위한 기계번역](https://blog.naver.com/bcj1210/221581381848)
+* [SK T아카데미 모두를 위한 기계번역](https://github.com/Parkchanjun/SK_MT_FOR_EVERYONE)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
