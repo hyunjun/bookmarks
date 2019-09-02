@@ -231,3 +231,4 @@ Haskell
 * [Typed type-level programming in Haskell, part III: I can haz typs plz?](https://byorgey.wordpress.com/2010/07/19/typed-type-level-programming-in-haskell-part-iii-i-can-haz-typs-plz/)
 * [MultiParam Typeclasses](http://dev.stephendiehl.com/hask/#multiparam-typeclasses) functional dependencies
   * [MultiParam Typeclasses](https://gist.github.com/nattybear/7fd19deb2097e3d7fe73088b1b6970f4)
+* [Basic Type Level Programming in Haskell](https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
