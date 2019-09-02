@@ -667,6 +667,7 @@ Docker
   * [1부. minikube와 kubectl 사용해서 앱 배포하기](https://www.youtube.com/watch?v=IFc1mG48j0s)
   * [2부. Pod, Node 그리고 Service](https://www.youtube.com/watch?v=lVG9LU90ZQw)
   * [3부 (완결): 애플리케이션 스케일링과 롤링 업데이트](https://www.youtube.com/watch?v=6q1MRXNUzPU)
+* [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity/)
 * [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
 * [How to securely deploy to Kubernetes from Bitbucket Pipelines](https://medium.freecodecamp.org/how-to-securely-deploy-to-kubernetes-from-bitbucket-pipelines-78e668f331b9)
 * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
@@ -696,6 +697,7 @@ Docker
 * [번역 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 * [Virtual Kubelet을 활용해 Kubernetes를 서버리스 컨테이너로 확장하기](https://yunsangjun.github.io/blog/kubernetes/2019/08/25/virtual-kublet.html)
+* [Kubernetes Failure Stories](https://k8s.af)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
