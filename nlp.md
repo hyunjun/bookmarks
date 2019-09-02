@@ -799,6 +799,7 @@ NLP
   * [Stanford CoreNLP – a suite of core NLP tools](http://stanfordnlp.github.io/CoreNLP/)
   * [nlp.stanford.edu/teaching](https://nlp.stanford.edu/teaching/)
   * [StanfordNLP: A Python NLP Library for Many Human Languages](https://pypi.org/project/stanfordnlp/)
+  * [Stanford CS224U: Natural Language Understanding | Spring 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
   * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
