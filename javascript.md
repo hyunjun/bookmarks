@@ -848,6 +848,7 @@ Javascript
 * [GraphQL에서는 어떤 HTTP status code를 사용할까? 아무도 관심갖지 않는 GraphQL 이야기 - part 1](https://libsora.so/graphql/graphql-http-status-code)
 * [GraphQL 개념잡기](http://tech.kakao.com/2019/08/01/graphql-basic/)
 * [GraphQL 연습을 위한 보일러플레이트](https://brunch.co.kr/@skykamja24/276)
+* [**GraphQL is not just a network protocol**](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
