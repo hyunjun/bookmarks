@@ -193,6 +193,7 @@ Programming Language
   * [자바스크립트와 재귀 함수 재귀를 구현하기 힘든 이유](https://bangjunyoung.github.io/2019/08/28/자바스크립트와-재귀-함수/)
   * [F# 함수 이해하기 1부 - 타입 추론, 익명 함수, 커링, 부분 함수 적용](https://bangjunyoung.github.io/2019/08/30/FSharp-함수-이해하기-1부/)
   * [F# 함수 이해하기 2부 - 클로저, 튜플, 연산자 오버로딩, 파이프라인 연산자](https://bangjunyoung.github.io/2019/09/02/FSharp-함수-이해하기-2부/)
+  * [C# LINQ 스타일과 F# 함수형 스타일의 차이 - 비슷하면서 다른 두 언어의 함수형 프로그래밍 접근 방식](https://bangjunyoung.github.io/2019/09/03/CSharp-LINQ-스타일과-FSharp-함수형-스타일의-차이/)
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
