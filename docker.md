@@ -180,6 +180,7 @@ Docker
     * [ubuntu + python3.6](https://gist.github.com/monkut/c4c07059444fd06f3f8661e13ccac619)
       * ENTRYPOINT로 python3.6 사용
     * [Ubuntu 16.04 Docker 설치](http://uni2u.tistory.com/92)
+    * [깡통 우분투를 도커로 올려보자](https://jybaek.tistory.com/829)
   * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
@@ -367,6 +368,7 @@ Docker
 
 # Commands
 * **[개발 환경에서 유용한 Docker 명령어 소개](https://spoqa.github.io/2017/06/22/docker-tip.html)**
+* [이미지, 컨테이너 export, import](https://jybaek.tistory.com/566)
 * build
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
