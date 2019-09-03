@@ -2098,6 +2098,7 @@ Javascript
 * [Conference App in a Box](https://github.com/dabit3/conference-app-in-a-box)
 * [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7)
 * [Performance in React Native](https://www.youtube.com/watch?v=Pa2uN2KRbj0)
+* [React Native 디버깅 환경 만들기!](https://medium.com/encored-technologies-engineering-data-science/react-native-디버깅-환경-만들기-7e46bfe89f6)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
