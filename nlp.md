@@ -291,6 +291,7 @@ NLP
 * [자연어 처리 Word representation](https://bcho.tistory.com/1345)
 * [Introduction to Natural Language Processing (NLP) and Bias in AI](https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-and-bias-in-ai-877d3f3ee680)
 * [nlp_applications](https://nbviewer.jupyter.org/github/dipanjanS/nlp_workshop_iisc19/tree/master/nlp_applications/) ipynb
+* [NLP News By Sebastian Ruder](http://newsletter.ruder.io/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
