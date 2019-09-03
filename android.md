@@ -122,6 +122,7 @@ Android
 * [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)
 * [AdapterViewFlipper을 이용한 위젯 예제](http://sunphiz.me/wp/archives/1000)
 * [블루라이트 앱 예제](http://sunphiz.me/wp/archives/3276)
+* [안드로이드 Espresso Recorder 활용한 UI 테스트](https://thdev.tech/android/2019/09/02/Android-Studio-Espresso-Recorder/)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
