@@ -83,6 +83,7 @@ Programming Books
 * (NOT YET) [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
+* (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
 
 # Agile Scrum
 
@@ -1037,6 +1038,7 @@ Programming Books
   * continuous + discrete = concrete. 이 책을 읽고 이해할 수 있다면 왠만한 problem solving 영역의 문제들은 해결할 수 있을 듯
 * (NOT YET) [수학의 아름다움](https://www.popit.kr/%EC%88%98%ED%95%99%EC%9D%98-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80/)
 * (NOT YET) [함수와 미적분을 기초부터 응용까지 프로그래머를 위한 기초 해석학](https://www.gilbut.co.kr/book/view?bookcode=BN002349)
+* (NOT YET) [파이썬으로 풀어보는 수학 코드로 통계, 확률, 미적분과 같은 다양한 수학 탐험하기](http://acornpub.co.kr/book/doing-math-with-python)
 
 # Network
 
@@ -1057,6 +1059,7 @@ Programming Books
 * (NOT YET) [자연어 처리 쿡북 with 파이썬 파이썬으로 NLP를 구현하는 60여 가지 레시피](http://acornpub.co.kr/book/nlp-python-cookbook)
 * (NOT YET) [자연어 텍스트 처리를 통한 검색 시스템 구축 아파치 솔라, 루씬, OpenNLP 등 오픈소스 활용](http://acornpub.co.kr/book/taming-text)
 * (NOT YET) [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action)
+* (NOT YET) [한국어 임베딩 자연어 처리 모델의 성능을 높이는 핵심 비결 Word2Vec에서 ELMo, BERT까지](http://acornpub.co.kr/book/korean-embedding)
 
 # NoSQL
 
