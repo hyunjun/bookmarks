@@ -349,6 +349,7 @@ NLP
 * [Introducing MASS – A pre-training method that outperforms BERT and GPT in sequence to sequence language generation tasks](https://www.microsoft.com/en-us/research/blog/introducing-mass-a-pre-training-method-that-outperforms-bert-and-gpt-in-sequence-to-sequence-language-generation-tasks)
 * [BERT 설명 발표 자료](https://banana-media-lab.tistory.com/entry/BERT-설명-발표-자료)
 * [파이콘 2019 100억건의 카카오톡 데이터로  똑똑한 일상대화 인공지능 만들기](https://speakerdeck.com/codertimo/paikon-2019-100eoggeonyi-kakaotog-deiteoro-ddogddoghan-ilsangdaehwa-ingongjineung-mandeulgi)
+* [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
@@ -806,7 +807,7 @@ NLP
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 * [TextWorld: A learning environment for training reinforcement learning agents, inspired by text-based games](https://www.microsoft.com/en-us/research/blog/textworld-a-learning-environment-for-training-reinforcement-learning-agents-inspired-by-text-based-games/)
 
-## Java
+## Library Java
 * [한글 받침에따라서 '을/를' 구분하기](http://gun0912.tistory.com/65)
 * [Autocomplete words with spring boot and redis](https://github.com/okihouse/spring-boot-redis-auto-complete) 자동완성
 * [KLAY - Korean Language AnalYzer (한국어 형태소 분석기)](https://github.com/ks-shim/klay)
@@ -814,10 +815,10 @@ NLP
   * [03. Solr 5.0.0 - 아리랑(arirang) 한글 형태소 분석기 적용](http://juncon.tistory.com/8)
 * [VWL 텍스트 분석기 0.9](http://www.vw-lab.com/31)
 
-## JavaScript
+## Library JavaScript
 * [TajaJS is a simple Hangul library in JavaScript](https://github.com/linterpreteur/taja.js)
 
-## Python
+## Library Python
 * **[13 Deep Learning Frameworks for Natural Language Processing in Python](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)**
 * [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
   * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
@@ -847,6 +848,9 @@ NLP
 * [Koshort - a Python project for Korean natural language processing... or maybe Korean domestic cat](https://github.com/koshort)
   * [Goorm - A little word cloud generator in Python - Korean wrapper](https://github.com/koshort/goorm)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
+* [kss - Korean Sentence Splitter](https://pypi.org/project/kss/)
+  * [Korean Sentence Splitter](https://github.com/likejazz/korean-sentence-splitter)
+  * [한글 문장 분리기](http://docs.likejazz.com/kss/)
 * [NLP Architect - an open-source Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](http://nlp_architect.nervanasys.com/)
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
@@ -893,7 +897,7 @@ NLP
 * [Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw ](https://github.com/JohnLangford/vowpal_wabbit)
   * [vwnlp - Solving NLP problems with Vowpal Wabbit: Tutorial and more](https://github.com/hal3/vwnlp)
 
-## R
+## Library R
 * [KoNLP - R package for Korean NLP http://cran.r-project.org/web/packages/KoNLP/index.html](https://github.com/haven-jeon/KoNLP)
   * [KoNLP v.0.80.0 버전 업(on CRAN now)](http://freesearch.pe.kr/archives/4520)
   * [한글 언어 자원과 R: KoNLP 개선과 활용](http://www.slideshare.net/r-kor/r-konlp)
@@ -901,7 +905,7 @@ NLP
 * [KoSpacing - Automatic Korean word spacing with R](https://github.com/haven-jeon/KoSpacing)
   * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
 
-## Scala
+## Library Scala
 * [Open Korean Text Processor - An Open-source Korean Text Processor](https://github.com/open-korean-text/open-korean-text)
 * [twitter-korean-text - 트위터에서 만든 한국어 처리기](https://github.com/twitter/twitter-korean-text)
 
