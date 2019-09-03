@@ -337,6 +337,7 @@ Web
   * [셀레니엄으로 나무위키 다이나믹 요소 크롤하기](https://among.software/content/a42554f041466cc0fa03f364458ce78de3b45fff)
   * [How to scrape websites using Python](https://medium.freecodecamp.org/scrap-websites-using-python-c0c7ad41d2dd)
   * [Selenium for Test Automation — Yay or Nay?](https://hackernoon.com/selenium-as-an-automation-testing-tool-aye-or-nay-fddb56527af1)
+  * [Selenium (Python) 설치와 기본 사용해 보기 (Windows)](https://dejavuqa.tistory.com/171)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 # CSS
