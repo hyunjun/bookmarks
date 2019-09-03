@@ -1567,6 +1567,13 @@ Programming
   * [Unit Test (단위 테스트) 도입하기 - 1편](https://www.popit.kr/unit-test-단위-테스트-도입하기-1편)
   * [Unit Test (단위 테스트) 도입하기 - 2편](https://www.popit.kr/unit-test-단위-테스트-도입하기-2편)
 * [How TDD Changed the Way I Approach Software Development First, solve the problem, then write tests, then write code](https://medium.com/better-programming/how-tdd-changed-the-way-i-approach-software-development-38509263f9ec)
+* [무료 Leaptest 대체 프로그램 5개](http://freealt.selfhow.com/leaptest/)
+* [katalon.com](https://www.katalon.com)
+  * [Introduce Katalon tool](https://www.slideshare.net/ssuser3e79ef/introduce-katalon-tool)
+  * [Katalon Automation Recorder](https://dejavuqa.tistory.com/189)
+  * [katalon studio 툴을 이용한 GUI 테스트 자동화 가이드](https://www.slideshare.net/genycho/korean-gui-test-withkatalonstudio)
+  * [Katalon Studio Review (Is it better than Selenium?)](https://testguild.com/katalon-studio/)
+  * [2019년 톱 15 셀레늄 대안](https://testmanager.tistory.com/178) katalon만이 아니라 다른 여러가지 툴 소개
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
