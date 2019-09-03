@@ -448,3 +448,4 @@ Go
 * [Rapid Web Development In Go (aka Intro Into Buffalo)](https://www.youtube.com/watch?v=J0JnHNgPMRk)
 * [Writing a Frontend Web Framework with WebAssembly And Go](https://hackernoon.com/writing-a-frontend-web-framework-with-webassembly-and-go-ff84cd1346fe)
 * [Go로 투두 웹 어플리케이션 만들기](http://blog.jeonghwan.net/dev/2019/02/18/go-todo-web-application.html)
+* [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
