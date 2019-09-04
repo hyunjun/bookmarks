@@ -270,6 +270,7 @@ AWS
   * logging, exception에 대한 call stack 보기
 * [Creating a Python Development Environment on Amazon EC2](https://blog.jetbrains.com/pycharm/2017/12/creating-a-development-environment-on-amazon-ec2/)
 * [Deploying a Python Web App on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
+* [Python으로 AWS Cloud Development Kit 시작하기](https://aws.amazon.com/ko/blogs/korea/getting-started-with-the-aws-cloud-development-kit-and-python/)
 * 10 Lessons from 10 Years of AWS
   * [part 1](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-1-258b56703fcf)
   * [part 2](https://hackernoon.com/10-lessons-from-10-years-of-aws-part-2-5dd92b533870)
