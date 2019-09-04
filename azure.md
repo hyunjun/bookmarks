@@ -61,6 +61,7 @@ Azure
 * [애저 데브옵스 확장 기능을 애저 데브옵스에서 개발하기 – 자동 배포편 2](https://blog.aliencube.org/ko/2019/07/31/building-azure-devops-extension-on-azure-devops-6/)
 * [Mountebank를 이용한 애저 펑션 통합 테스팅](https://blog.aliencube.org/ko/2019/08/07/azure-functions-integration-testing-with-mountebank)
 * [애저 펑션을 위한 SRE 첫걸음](https://blog.aliencube.org/ko/2019/08/14/azure-functions-sre-on-azure-devops-the-first-cut/)
+* [애저 데브옵스 파이프라인 리팩토링 테크닉](https://blog.aliencube.org/ko/2019/09/04/azure-devops-pipelines-refactoring-technics/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
