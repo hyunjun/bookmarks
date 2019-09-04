@@ -89,3 +89,4 @@ Google Cloud Platform GCP
 * [DNS 부터 하나씩 Google cloud 로 서비스 해보기 — 2탄 Google Cloud Load Balancing(GCLB)](https://medium.com/@jwlee98/gcp-dns-%EB%B6%80%ED%84%B0-%ED%95%98%EB%82%98%EC%94%A9-google-cloud-%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%B4%EB%B3%B4%EA%B8%B0-2%ED%83%84-google-cloud-load-balancing-gclb-56151d9efe0e)
 * [Cloud SDK 설치후 인스턴스에 접속하기까지 과정](https://jybaek.tistory.com/825)
 * [GCP에 파티원 초대하고 프로젝트 같이 진행하기](https://jybaek.tistory.com/827)
+* [Serverless ML API 30분 완성 생산성 높은 AI 개발자 되기 (1)](https://brunch.co.kr/@chris-song/91)
