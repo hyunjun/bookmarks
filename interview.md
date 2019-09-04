@@ -610,7 +610,7 @@ Interview
 * [RSUs vs. Stock options 다른 점은?](https://brunch.co.kr/@seungjoonlernnx/53)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 * [기업이 당신과 연봉협상하지 않은 진짜 이유](https://www.upfly.me/2019/07/25/how-to-negotiate-salary-well/)
-* [levels.fyi](https://www.levels.fyi/) 회사 직급별 연봉
+* [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 * [perks.guide](http://perks.guide/) 회사 복지 비교
 
