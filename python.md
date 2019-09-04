@@ -2973,6 +2973,7 @@ Python
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
 
 # Conference
+* [OctopusCon: Python Edition](https://octopuscon.com/events/octopuscon-python-edition/)
 
 ## Conference Pycon
 * [pyvideo.org](http://pyvideo.org/)
