@@ -62,6 +62,7 @@ Network
   * [WEB2 - HTTP](https://opentutorials.org/course/3385)
   * **[HOW HTTPS WORKS](https://howhttps.works/)**
   * [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1](https://joshua1988.github.io/web-development/http-part1/)
+  * [HTTP 헤더](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers)
 * [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
