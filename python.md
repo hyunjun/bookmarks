@@ -3114,6 +3114,8 @@ Python
   * [Slides and talk assets from PyCon 2017](https://github.com/PyCon/2017-slides)
   * [Talks by PyCon 2017](https://speakerdeck.com/pycon2017)
   * [PYCON 2017: MUST-SEE TALKS](https://www.cuttlesoft.com/pycon-2017-must-see-talks/)
+* [Allen Downey - Introduction to Digital Signal Processing - PyCon 2018](https://www.youtube.com/watch?v=SrJq2AzXZME)
+  * [음향 이론과 실습 스케줄](https://docs.google.com/spreadsheets/d/1RtV2DoOIl-HgGMivFgArXAZhwt-nCm3qQyMl5rvX0E0/edit)
 * PyConKr 2018
   * [PyCon KR 2018 영상 다운 받기](https://gist.github.com/daejinseok/f72279a6787f16dda961d59aa126bda4)
   * [인생을 짧아요, 엑셀대신 파이썬](https://www.slideshare.net/plusjune/ss-110416117)
