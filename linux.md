@@ -139,6 +139,7 @@ Linux
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * **[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)** 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
+* [Munging CSV files with standard Unix tools](https://www.johndcook.com/blog/2019/08/30/cut-sort-awk/) cut sort awk
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -182,6 +183,7 @@ Linux
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
+  * [Working with wide text files at the command line](https://www.johndcook.com/blog/2019/08/28/cut/)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
 
