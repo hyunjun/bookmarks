@@ -308,6 +308,7 @@ Clojure
     * [Robust APIs with clojure.spec & GraphQL - Lily Goh + Dom Kiva-Meyer](https://www.youtube.com/watch?v=mgSSVTDZvkI)
   * [spectator](https://github.com/ioRekz/spectator)
   * [spell-spec - clojure.spec.alpha helpers that check for misspelled map keys, with expound integration](https://github.com/bhauman/spell-spec)
+  * [If you use Clojure Spec, how do you use it? Do you tend to put all your specs in one place or distribute them through the "modules" of your program?](https://www.quora.com/If-you-use-Clojure-Spec-how-do-you-use-it-Do-you-tend-to-put-all-your-specs-in-one-place-or-distribute-them-through-the-modules-of-your-program)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow)
 * core.async
