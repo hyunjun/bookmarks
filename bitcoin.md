@@ -49,6 +49,7 @@ Bitcoin
 * [대학원 과정 입문 - Openhash Platform](https://www.youtube.com/playlist?list=PLlSZlNj22M7QKwIhAplWtFCGJYt5bJLBy)
 * [WTF is Cuckoo Cycle PoW algorithm that attract projects like Grin and Cortex?](https://hackernoon.com/wtf-is-cuckoo-cycle-pow-algorithm-that-attract-projects-like-cortex-and-grin-ad1ff96effa9)
 * [Consensus Models: PoW, PoS and New Pioneer, PoF](https://hackernoon.com/consensus-models-pow-pos-and-new-pioneer-pof-702fa2f55d49) proof of work, proof of stake, proof of formulation
+* [dapp campus](https://www.youtube.com/channel/UCvF95zGgUlY2G6Lkb1GO-fw)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
