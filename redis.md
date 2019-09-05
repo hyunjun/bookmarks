@@ -130,6 +130,7 @@ Redis
 * [How to Use Redis with Python 3 and redis-py on Ubuntu 16.04](https://www.fullstackpython.com/blog/install-redis-use-python-3-ubuntu-1604.html)
 * [Write Fast Apps Using Async Python 3.6 and Redis](https://eng.paxos.com/write-fast-apps-using-async-python-3.6-and-redis)
   * [subconscious - redis-backed (in memory) db for python3 that is asyncio compatible](https://github.com/paxos-bankchain/subconscious)
+* [Dave Nielsen: Top 5 uses of Redis as a Database | PyData Seattle 2015](https://www.youtube.com/watch?v=jTTlBc2-T9Q)
 
 ## Python Library
 * [aioredis - asyncio (PEP 3156) Redis client library](http://aioredis.readthedocs.io/)
