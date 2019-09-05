@@ -1140,6 +1140,7 @@ NLP
 * [WMD 문서 유사도 구하기 (word mover's distance)](https://www.youtube.com/watch?v=zFnrq5SmBdg)
 * [Chapter 3 : 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://eda-ai-lab.tistory.com/118)
 * [11. Deep Learning Cookbook/03. 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://daljoong2.tistory.com/36)
+* [엘라스틱서치의 벡터(Vector) 필드와 텐서플로우를 이용한 문서 유사도 검색 (1) > Similarity Search #elasticsearch](https://blog.naver.com/olpaemi/221639136195)
 
 # Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
