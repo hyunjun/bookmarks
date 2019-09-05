@@ -1569,6 +1569,7 @@ Programming
   * [Unit Test (단위 테스트) 도입하기 - 2편](https://www.popit.kr/unit-test-단위-테스트-도입하기-2편)
 * [How TDD Changed the Way I Approach Software Development First, solve the problem, then write tests, then write code](https://medium.com/better-programming/how-tdd-changed-the-way-i-approach-software-development-38509263f9ec)
 * [무료 Leaptest 대체 프로그램 5개](http://freealt.selfhow.com/leaptest/)
+* appium [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [katalon.com](https://www.katalon.com)
   * [Introduce Katalon tool](https://www.slideshare.net/ssuser3e79ef/introduce-katalon-tool)
   * [Katalon Automation Recorder](https://dejavuqa.tistory.com/189)
