@@ -581,6 +581,7 @@ Java
   * [젠킨스에서 실패한 Job 무시하기](https://jojoldu.tistory.com/409)
   * [젠킨스 파이프라인 ( Jenkin pipeline ) - 병렬로 Job 실행하기](https://bob-full.tistory.com/10)
   * [젠킨스 파이프라인(Jenkins pipeline) - 빌드 파라미터 넣기](https://bob-full.tistory.com/11)
+  * [Building CI/CD pipelines with Jenkins](https://opensource.com/article/19/9/intro-building-cicd-pipelines-jenkins)
   * [젠킨스와 Github ssh 연동하기](https://jojoldu.tistory.com/442)
   * [Spring Batch 공통 설정 관리하기 (feat. 젠킨스 Environment variables)](https://jojoldu.tistory.com/445)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
