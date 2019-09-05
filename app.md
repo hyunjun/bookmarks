@@ -760,6 +760,7 @@ App
 * [마크다운 에디터 고르기](http://astrod.github.io/2015/10/25/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EA%B3%A0%EB%A5%B4%EA%B8%B0.html)
 * [마크다운(Markdown)으로 글을 쓸 때 이미지 정렬하는 방법](http://blog.kalkin7.com/2014/03/04/how-to-align-images-on-writing-with-markdown/)
 * [마크다운(Markdown) 기반 OSX 프레젠테이션 도구 덱셋(Deckset)](http://blog.remotty.com/blog/2015/08/26/deckset/)
+* [마크다운 markdown 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Editing Markdown for GitHub](http://moduscreate.com/editing-markdown-for-github/)
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
