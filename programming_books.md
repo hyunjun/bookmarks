@@ -447,6 +447,7 @@ Programming Books
 * (NOT YET) [파이썬을 이용한 머신러닝, 딥러닝 실전 앱 개발 - 실무에서 즉시 활용 가능한 머신러닝, 딥러닝 실전 앱 개발](https://wikibook.co.kr/python-ml-app-dev/)
 * (NOT YET) [이토록 쉬운 딥러닝을 위한 기초 수학 with 파이썬](https://www.rubypaper.co.kr/93)
 * (NOT YET) [브레인 이미테이션? 무슨 의미일까요?](https://jpub.tistory.com/944)
+* (NOT YET) [신경망과 심층학습: 뉴럴 네트워크와 딥러닝 교과서](https://jpub.tistory.com/957)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
