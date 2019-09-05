@@ -694,6 +694,7 @@ Programming Books
 
 * (NOT YET) [블록체인 거번먼트](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110487241)
   * 2017.06 탐라
+* (NOT YET) [예제로 배우는 블록체인' 출간 소식](http://occamsrazr.net/tt/356)
 
 # Git
 
