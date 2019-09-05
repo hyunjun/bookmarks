@@ -2330,6 +2330,7 @@ Javascript
   * [Jest 탈출기 - Jest는 느리다 jest는 왜 mocha보다 느린가?](https://libsora.so/posts/escape-from-jest-jest-is-slow/)
   * [Jest 탈출기 - Mocha를 쓰자 Jest/Mocha 동시에 지원하기](https://libsora.so/posts/escape-from-jest-use-mocha/)
   * [Jest 탈출기 - 타입스크립트 + Mocha](https://libsora.so/posts/escape-from-jest-mocha-with-typescript/)
+  * [JSConf Korea에서 발표한 "Lessons from maintaining Mocha, an open source project" 발표자료](https://blog.outsider.ne.kr/1459)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
