@@ -1253,6 +1253,7 @@ Python
   * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
 * [Effective Pandas](https://leanpub.com/effective-pandas)
+* [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)

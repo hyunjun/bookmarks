@@ -1271,6 +1271,7 @@ Programming Books
 * (NOT YET) [파이썬 표현력을 끌어올려 주는『슬기로운 파이썬 트릭』](https://blog.insightbook.co.kr/2019/01/23/파이썬-표현력을-끌어올려-주는『슬기로운-파이썬)
 * (NOT YET) [파이썬을 활용한 부동산 데이터 분석 파이썬 기초부터 실제 부동산 데이터를 활용한 매매분석, 수요예측, 시각화까지](https://wikibook.co.kr/python-real-estate)
 * (NOT YET) [파이썬 포 에브리바디! 『데이터를 다루며 배우는 파이썬』](https://blog.insightbook.co.kr/2019/08/16/파이썬-포-에브리바디-《데이터를-다루며-배우는-파/)
+* (NOT YET) [마야 파이썬 - 3D를 위한 파이썬](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D190909980&orderClick=LAN&Kc)
 
 # R
 
