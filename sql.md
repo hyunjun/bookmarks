@@ -190,6 +190,8 @@ SQL
     * [`SELECT IFNULL((SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1 OFFSET 1), NULL) AS SecondHighestSalary`](https://leetcode.com/problems/second-highest-salary/solution/)
     * [`SELECT class FROM courses GROUP BY class HAVING COUNT(DISTINCT student) >= 5`](https://leetcode.com/problems/classes-more-than-5-students/solution/)
     * [`SELECT * FROM cinema WHERE id % 2 = 1 AND description != 'boring' ORDER BY rating DESC`](https://leetcode.com/problems/not-boring-movies/solution/)
+    * [GROUP_CONCAT](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662#file-select_group_by-md)
+      * [Can I concatenate multiple MySQL rows into one field?](https://stackoverflow.com/questions/276927/can-i-concatenate-multiple-mysql-rows-into-one-field)
     * age가 '만 xx세'로 되어 있을 때 숫자만 뽑아 그 차이를 구하는 경우
 
       ```
