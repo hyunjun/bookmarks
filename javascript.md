@@ -896,6 +896,7 @@ Javascript
 * [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/0145894)
 * [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/2108442)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
+* [**Babel, Mocha, Karma and Webpack with coverage in depth**](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
