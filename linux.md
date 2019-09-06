@@ -92,6 +92,7 @@ Linux
 * [10 Best Linux Distros to Install on a USB Stick](https://www.fossmint.com/best-linux-distros-to-install-on-usb)
 * [A beginner's guide to Linux permissions](https://opensource.com/article/19/6/understanding-linux-permissions)
 * [How To Install VMWare Fusion with Ubuntu on a Mac](http://hplgit.github.io/teamods/ubuntu/vmware/mac.html)
+* [리얼리눅스 제 1 회 세미나: "리눅스, 제대로 알고 코딩하자!"](https://www.slideshare.net/Real_Linux/1-169469250)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
