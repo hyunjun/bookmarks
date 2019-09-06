@@ -247,6 +247,7 @@ Programming
 * [관점 지향 프로그래밍, AOP(Aspect-oriented programming)](https://woolbro.tistory.com/17)
 * [위험상황을 대비하는 위험관리](https://chodragon9.github.io/blog/preventive-maintenance/)
 * [Linear Programming with Spreadsheets](https://www.datacamp.com/community/tutorials/linear-programming-with-spreadsheets)
+* [우아한 Developer Relations 두번째 이야기](http://woowabros.github.io/woowabros/2018/12/05/developer-relations2.html)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -283,6 +284,7 @@ Programming
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
+* [애자일 키워드 팟캐스트](http://www.podbbang.com/ch/14757)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
