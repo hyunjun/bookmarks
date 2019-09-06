@@ -673,6 +673,7 @@ Scala
   * [Interlude: a simple type-level state machine](http://kanaka.io/blog/2016/04/25/interlude-typelevel-state-machine.html)
   * [Learning Materials for generic & dependent programming using shapeless](https://gist.github.com/ikhoon/4e7feb6daf2d47a0261131421ed8c999)
   * [The Type Astronaut's Guide to Shapeless—Dave Gurnell](https://www.youtube.com/watch?v=Zt6LjUnOcFQ)
+  * [The Shape(less) of Type Class Derivation in Scala 3](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/20/)
 * [Skinny-ORM](http://skinny-framework.org/)
 * [slick - Functional Relational Mapping for Scala](http://slick.lightbend.com/)
   * [Essential Slick](https://books.underscore.io/essential-slick/essential-slick-3.html)
