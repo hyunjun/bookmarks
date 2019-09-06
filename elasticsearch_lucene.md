@@ -152,6 +152,7 @@ ElasticSearch - Lucene
   * [swiftype 사이트 검색 기능 소개](https://www.youtube.com/watch?v=_fJ-OCdXGR8)
 * [2018-06-21 Elastic Seoul Meetup - JM.Kim - 6.3 release & Nori Analyzer](https://www.youtube.com/watch?v=80WiaOdnjXU)
 * [공식 한국어 분석 플러그인 “노리”](https://www.elastic.co/kr/blog/nori-the-official-elasticsearch-plugin-for-korean-language-analysis)
+* [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive)](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
 * **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [The reality of running a production Node app on AWS Elastic Beanstalk](https://medium.freecodecamp.org/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b)
