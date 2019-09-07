@@ -44,3 +44,4 @@ Flutter
 * [galpi - Book logging app made with Flutter](https://github.com/heejongahn/galpi)
   * [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
 * [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
+* [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
