@@ -739,6 +739,7 @@ Programming
 * eng-practices Google's Engineering Practices documentation
   * [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
   * [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
+  * [개발자를 위한 코드 리뷰 가이드](https://soojin.ro/review/)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
