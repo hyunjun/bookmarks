@@ -416,6 +416,7 @@ Go
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
+* [script - Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)
 * [Seaweed-FS is a simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 * [serve2d - A protocol detecting server, based off the serve2 library](https://github.com/joushou/serve2d)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
