@@ -269,6 +269,7 @@ ElasticSearch - Lucene
 * [Enhancing Search With Elastic How we are improving search in our app using Elastic Search](https://hackernoon.com/enhancing-search-with-elastic-bcc450d05de8)
 * [DevFestDC - 2019 - Summer Rankin - Advancing your NLP with Elasticsearch](https://www.youtube.com/watch?v=s-60EuqgfGI) topic modelling, 추출, 분석
 * [한국 Elastic 사용자 그룹](https://www.youtube.com/channel/UCmI0g3ROh1WrUMZDv2kcjfQ)
+* [카카오에서 배운 Elasticsearch(ES) 구축 및 운영 노하우](https://www.notion.so/383e17bf4cf1408cb1dcf78aae1fcff6)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
