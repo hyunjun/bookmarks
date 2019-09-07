@@ -141,6 +141,7 @@
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
 * [Nucleon is a dynamic TCP load balancer written in Rust](https://github.com/NicolasLM/nucleon)
+* nushell [Introducing nushell](http://www.jonathanturner.org/2019/08/introducing-nushell.html)
 * packem [Introducing Packem: a super fast experimental bundler written in Rust](https://medium.freecodecamp.org/introducing-packem-a-super-fast-experimental-bundler-written-in-rust-e981af875517)
 * [pirate - A command-line arrrrguments parser, written in Rust](https://github.com/zcdziura/pirate)
 * [Piston A user friendly game engine written in Rust](http://www.piston.rs/)
