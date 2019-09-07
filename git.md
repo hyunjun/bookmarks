@@ -414,6 +414,7 @@ Git
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [git에서 특정 commit에 들어간 수정 파일을 다른 commit으로 옮기는 방법](http://blog.doortts.com/285)
   * [Git rebase를 이용한 커밋 수정 (Interactive Rebase)](https://wckhg89.github.io/archivers/rebase)
+  * [git 히스토리를 마음대로 편집하기 - interactive rebase](https://www.youtube.com/watch?v=ZMoB1SZ4Ceg)
   * [Don’t Fear The Rebase](https://hackernoon.com/dont-fear-the-rebase-bca683888dae)
   * [An introduction to Git merge and rebase: what they are, and how to use them](https://medium.freecodecamp.org/an-introduction-to-git-merge-and-rebase-what-they-are-and-how-to-use-them-131b863785f)
   * [깃(Git) 리베이스 사용하기](https://tech.10000lab.xyz/git/git-rebase-workflow.html)
