@@ -292,6 +292,7 @@ PyTorch
 
 # Tutorial
 * [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
+* [Implementing a linear-chain Conditional Random Field (CRF) in PyTorch](https://www.notion.so/Implementing-a-linear-chain-Conditional-Random-Field-CRF-in-PyTorch-a3e9e19bc94e4ad1b8cbf7b62b624945)
 * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
 * [pytorch-tutorial - tutorial for researchers to learn deep learning with pytorch](https://github.com/yunjey/pytorch-tutorial)
 * [DeepLearningForNLPInPytorch - An IPython Notebook tutorial on deep learning for natural language processing, including structure prediction](https://github.com/rguthrie3/DeepLearningForNLPInPytorch)
