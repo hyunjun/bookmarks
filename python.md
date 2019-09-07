@@ -909,9 +909,6 @@ Python
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
-* pydoc
-  * [PyDoc - A Celebration of Documentation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=URBSvqib0xw)
-  * [Best Practices With Documenting and Refactoring Python Code](https://www.youtube.com/watch?v=S8P_pJrw9uk)
 * random
   * shuffle [사용자 데이터셋 셔플](https://jybaek.tistory.com/781)
 * re
@@ -1289,6 +1286,15 @@ Python
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
 * [docker vs vagrant vs virtualenv](http://hamait.tistory.com/871)
+
+# Documentation
+* [continuous-docs - Tutorial and example package for continuous documentation generation in Python](https://github.com/icgood/continuous-docs/)
+* [portray - a Python3 command line tool and library that helps you create great documentation websites for your Python projects with as little effort as possible](https://timothycrosley.github.io/portray/)
+* pydoc
+  * [PyDoc - A Celebration of Documentation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=URBSvqib0xw)
+  * [Best Practices With Documenting and Refactoring Python Code](https://www.youtube.com/watch?v=S8P_pJrw9uk)
+* sphinx
+  * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
 
 # Django
 * [Django 문서](https://docs.djangoproject.com/ko)
@@ -2180,7 +2186,6 @@ Python
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [Connexion - a framework that automagically handles HTTP requests based on OpenAPI Specification (formerly known as Swagger Spec) of your API described in YAML format](https://github.com/zalando/connexion/blob/master/README.rst)
-* [continuous-docs - Tutorial and example package for continuous documentation generation in Python](https://github.com/icgood/continuous-docs/)
 * [Coverage.py 4.0](http://nedbatchelder.com/blog/201509/coveragepy_40.html)
 * CPython
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
@@ -2595,8 +2600,6 @@ Python
 * [SnoPy - Snobol Pattern Matching Extension for Python](http://snopy.sourceforge.net/user-guide.html)
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * **[Sorted Containers](http://www.grantjenks.com/docs/sortedcontainers/)** sorted collections type
-* sphinx
-  * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
 * [spidermonkey - Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation](https://github.com/davisp/python-spidermonkey)
 * SQLAlchemy
   * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
@@ -3304,6 +3307,7 @@ Python
 * [Next Steps with Python Type System](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)
 * [callable() in Python](https://www.geeksforgeeks.org/callable-in-python/)
 * [Typesetting With Python](https://www.youtube.com/watch?v=GVoyBWo1QDk)
+* [Our journey to type checking 4 million lines of Python](https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
