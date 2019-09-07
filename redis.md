@@ -174,8 +174,10 @@ Redis
 # Queue
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [Building a Message Queue Using Redis in Go](http://big-elephants.com/2013-09/building-a-message-queue-using-redis-in-go/)
+* jedis
+  * [Queuing tasks with Redis](https://blog.rapid7.com/2016/05/04/queuing-tasks-with-redis/)
+  * [Spring-data-redis 에서 Jedis로 TLS를 쓰면서 인증서 체크는 Disable 하는 방법](https://charsyam.wordpress.com/2019/09/06/입개발-sprint-data-redis-에서-jedis로-tls를-쓰면서-인증서-체크는-disable-하/)
 * Lettuce [Jedis 보다 Lettuce 를 쓰자](https://jojoldu.tistory.com/418)
-* [Queuing tasks with Redis](https://blog.rapid7.com/2016/05/04/queuing-tasks-with-redis/) jedis
 
 ## Queue Library
 * [EasyRedisMQ - A Simple .Net Message Queue that Uses Redis for the back end](https://github.com/jkruer01/EasyRedisMQ)
