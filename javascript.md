@@ -2556,3 +2556,5 @@ Javascript
 * [Promise.all에는 인자 개수 제한이 없다](https://blog.seulgi.kim/2019/07/promise-all-tuple.html)
 * [Vue.js로 크롬 확장 프로그램을 만들어보자!](https://wormwlrm.github.io/2019/07/21/Military-Service-Calculator-Development-Story.html)
 * [Vue, 뷰 100분 핵심강의 소개](https://www.youtube.com/watch?v=phD_CrEweE8)
+* [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/)
+* [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/)
