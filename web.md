@@ -366,6 +366,10 @@ Web
   * Full Stack Javascript Engineer: Firebase등을 사용하면 아주 쉽게 혼자서 Web App을 만들 수 있다. 그런 이유(인건비, 속도등)로 Startup 중심으로 Full Stack Engineer의 수요가 증가하지 않을까 예상해 본다. 추후에는 Javascript로 백앤드를 할 수 있는 Firebase, Meteor등과 MEAN등을 위한 추가적인 개발 환경과 툴들이 더 나오고 성숙될 것이고, 그러면 본격적인 Full Stack Javascript Engineer의 세계가 열리지 않을까 예상해본다.
 * [최신 웹사이트와 꼼꼼한 개발자들을 위한 완벽 프론트엔드 체크리스트 http://frontendchecklist.com ](https://github.com/kesuskim/Front-End-Checklist)
 
+# GraphQL
+* [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0)
+* [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
+
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
 

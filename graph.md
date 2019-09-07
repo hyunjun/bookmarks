@@ -255,7 +255,6 @@ Graph
   * [Visualizing the Titan Graph Database with KeyLines](https://www.youtube.com/watch?v=BpUMQH4sLEU)
   * [Visualizing the Neo4j graph database with KeyLines](https://www.youtube.com/watch?v=MJFle_hSSps)
 * [LemonGraph - a log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file](https://github.com/NationalSecurityAgency/lemongraph) python
-* [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
 * [libgtkflow - Flowgraphs for Gtk+3](https://github.com/grindhold/libgtkflow)
 * [Ligra is a lightweight graph processing framework for shared memory](http://www.cs.cmu.edu/~jshun/ligra.html)
   * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
