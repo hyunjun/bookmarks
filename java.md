@@ -393,6 +393,7 @@ Java
 * [MAC OS에서 JAVA 버전 관리하기](https://woolbro.tistory.com/2)
 * [Shaping the Future of Java, Faster](https://www.youtube.com/watch?v=d_IWWRc6dwY) 다양한 JDK version에 대한 이야기, 8 to 11 migration, future works
 * **[여러 개의 JDK를 설치하고 선택해서 사용하기](https://blog.benelog.net/installing-jdk.html)**
+* [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
@@ -584,6 +585,7 @@ Java
   * [Building CI/CD pipelines with Jenkins](https://opensource.com/article/19/9/intro-building-cicd-pipelines-jenkins)
   * [젠킨스와 Github ssh 연동하기](https://jojoldu.tistory.com/442)
   * [Spring Batch 공통 설정 관리하기 (feat. 젠킨스 Environment variables)](https://jojoldu.tistory.com/445)
+  * [젠킨스 빌드 파일 캐시 문제](https://jojoldu.tistory.com/446)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
@@ -647,6 +649,7 @@ Java
 * Vaadin
   * [바딘? Vaadin? 무슨 뜻이지?](http://basakpie.com/archives/435)
   * [모던 자바 웹 UI 바딘 프레임워크](http://slides.com/basakpie/vaadin)
+  * [Vaadin 14 Simplifies Progressive Web App Development on the Java Platform](https://www.infoq.com/news/2019/08/vaadin-releases-lts-version-14/)
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
   * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
   * [How we built an asynchronous, temporal RESTful API based on Vert.x, Keycloak and Kotlin/Coroutines for Sirix.io (Open Source)](https://medium.com/sirixdb-sirix-io-how-we-built-a-novel-temporal/how-we-built-an-asynchronous-temporal-restful-api-based-on-vert-x-4570f681a3)
