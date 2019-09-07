@@ -75,6 +75,7 @@ SQL
 * [중국의 어떤 서버 개발자의 디비 설계](https://blog.naver.com/imays/221461537682)
   * [practice - 중국의 어떤 서버 개발자의 디비 설계](https://gist.github.com/hyunjun/0f83fd13165444e38645a74bc4e1c1f1#file-db_design-md)
 * [An explanation of the difference between Isolation levels vs. Consistency levels](https://dbmsmusings.blogspot.com/2019/08/an-explanation-of-difference-between.html)
+* [A Better Way to Write SQL queries for Developers](https://hackernoon.com/a-better-way-to-write-sql-queries-for-developers-b645f4fdcff0)
 * [관계형 데이터 모델링](https://opentutorials.org/module/4134)
   * [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 * ERD
