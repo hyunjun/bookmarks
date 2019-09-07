@@ -31,6 +31,7 @@ C
   * [QEMU + GDB로 디버깅 환경 조성](https://devsdk.github.io/development/2017/07/03/QemuAndGdb.html)
   * [A browser-based frontend for GDB](https://github.com/cs01/gdbgui)
     * [C++ Weekly - Ep 110 - gdbgui](https://www.youtube.com/watch?v=em842geJhfk)
+  * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard/wiki)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 * [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
@@ -129,6 +130,7 @@ C
 * [C 프로그래밍 언어가 여전히 최고인 이유 : 개발언어 일대일 비교](http://www.itworld.co.kr/news/124767)
 * [C에 대해서 잘 아시나요?](http://jhrogue.blogspot.com/2019/07/b-c.html)
 * [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
+* [P99 - Preprocessor macros and functions for C99 and C11](http://p99.gforge.inria.fr/p99-html/index.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
