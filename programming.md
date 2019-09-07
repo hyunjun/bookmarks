@@ -394,6 +394,7 @@ Programming
   * **[Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)**
   * [Making Direct Messages Reliable and Fast](https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f)
   * [Making Instagram.com faster: Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
+  * [Making Instagram.com faster: Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)
 * **[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)** 총정리라는 제목에 걸맞는 다양한 내용 정리
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
@@ -462,6 +463,7 @@ Programming
 * [GUID python](https://www.slideshare.net/charsyam2/guid-40504314)
 * [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
 * [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
+* [Software Architecture Guide](https://martinfowler.com/architecture/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -734,6 +736,9 @@ Programming
 * [A zen manifesto for effective code reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a)
 * [JavaScript 코드 리뷰 - 코드 리뷰 문화](https://cimfalab.github.io/deepscan/2016/08/code-review-1)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
+* eng-practices Google's Engineering Practices documentation
+  * [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
+  * [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -1047,6 +1052,7 @@ Programming
   * [RabbitMQ client 에서 useNio 사용시 timeout 이 먹히지 않는현상…](http://blog.leekyoungil.com/?p=462)
   * [This month at SoftwareMill we’ve learned (January ‘19)](https://blog.softwaremill.com/this-month-at-softwaremill-weve-learned-january-19-c4c7c622141b)
   * [ElasticScaling on the fly NoOps: Hotswapping slow function calls with RabbitMQ](https://medium.com/@reinman/replacing-your-function-calls-with-rabbitmq-on-the-fly-36e08c6d5c2c)
+  * [Introduction to Event-driven Architectures With RabbitMQ](https://blog.theodo.com/2019/08/event-driven-architectures-rabbitmq/)
   * [pymqdemo - Python RabbitMQ demo for deeplearning](https://github.com/booiljung/pymqdemo)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
@@ -1248,6 +1254,7 @@ Programming
   * [8월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/08/b-8-2.html)
   * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/08/b-8-3.html)
   * [8월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/08/b-8-4.html)
+  * [9월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/09/b-9-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
