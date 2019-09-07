@@ -402,6 +402,7 @@ Web
   * [The Shop app https://shop.polymer-project.org](https://github.com/polymer/shop)
     * [shop.polymer-project.org](https://shop.polymer-project.org/)
   * [Google’s PRPL Web development pattern](http://www.slideshare.net/inureyes/googles-prpl-web-development-pattern)
+* [API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io https://liyasthomas.github.io/postwoman ](https://github.com/liyasthomas/postwoman)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [Statinamic - A static website generator for creating dynamic websites using React components](http://moox.io/statinamic/)
 * Swagger
@@ -581,6 +582,9 @@ Web
 * [RESTful 웹서비스](https://www.iamcorean.net/22)
 * [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
 * [REST Tutorial - How to Design a Good RESTful API](https://www.youtube.com/watch?v=sMKsmZbpyjE) 매우 기본적인 사항에 대한 리뷰
+
+## Restful Python
+* [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
 
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
