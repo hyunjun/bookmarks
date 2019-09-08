@@ -470,6 +470,7 @@ Apache
 * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
 * [kafka 운영 - kafka의 Exception들 - (1)](https://springboot.cloud/35)
 * [Kafka 로그 종류 및 로그 샘플에 대한 설명](https://godway1225.wordpress.com/2019/08/29/kafka-로그-종류-및-로그-샘플에-대한-설명)
+* [kafka 개발 - AdminClient 로 관리 기능 개발하기 - Broker 정보 보기](https://springboot.cloud/36)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -495,6 +496,7 @@ Apache
   * [URP? Excuse You! The Three Metrics You Have to Know (Todd Palino, Linkedin) Kafka Summit 2018](https://videos.confluent.io/watch/upUNYs7NAGN6jbQefwERFs)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
+* [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
 * KSQL
   * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
     * spark streaming의 대체?
