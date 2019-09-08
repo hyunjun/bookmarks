@@ -581,6 +581,7 @@ AWS
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
   * [Netlify Dev 기능으로 개발 중인 사이트 Netlify에 배포하기](https://blog.outsider.ne.kr/1438)
+* [pingcloud-cli - CLI application to check http request latency of AWS, Google Cloud Platform and Azure](https://github.com/reoim/pingcloud-cli)
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
 * utern [AWS 클라우드와치 로그 쉽게보는 방법 - utern](https://www.youtube.com/watch?v=HOXyjnHwwIA)
