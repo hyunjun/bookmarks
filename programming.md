@@ -69,7 +69,6 @@ Programming
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)
 * [마세라티 문제](http://www.venturesquare.net/585839)
 * [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](http://channel9.msdn.com/posts/Erik-Meijer-and-Gilad-Bracha-Dart-Monads-Continuations-and-More)
-* [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 * [watchpeoplecode.com](http://www.watchpeoplecode.com/)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 * [Technical Cheatsheets](https://devhints.io/)
@@ -801,6 +800,7 @@ Programming
 * [코딩 스타일에 대해 논쟁하는 이유](http://www.mimul.com/pebble/default/2019/05/31/1559304696070.html)
 
 # Compiler, Interpreter
+* [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
 * **Let’s Build A Simple Interpreter** python
   * [Part 1](http://ruslanspivak.com/lsbasi-part1/)
   * [Part 2](http://ruslanspivak.com/lsbasi-part2/)
@@ -818,6 +818,7 @@ Programming
   * [Part 14: Nested Scopes and a Source-to-Source Compiler](https://ruslanspivak.com/lsbasi-part14/)
 * [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?v=VLAzykeSp04)
 * [I wrote a programming language. Here’s how you can, too](https://medium.freecodecamp.com/the-programming-language-pipeline-91d3f449c919)
+* [the super tiny compiler - Possibly the smallest compiler ever https://git.io/compiler ](https://github.com/hg-pyun/the-super-tiny-compiler-kr)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -914,6 +915,7 @@ Programming
 * [How to get started with Continuous Integration](https://medium.freecodecamp.org/how-to-get-started-with-continuous-integration-7b2f8d87c914)
 * [How to setup continuous integration (CI) with React, CircleCI, and GitHub](https://medium.freecodecamp.org/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03)
 * [The Guide to Cloudbase App Automation with Jim Rose of CircleCI](https://hackernoon.com/the-guide-to-cloudbase-app-automation-with-jim-rose-of-circleci-5afa8e86bee6)
+* [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
