@@ -14,6 +14,7 @@ SQL
 * [Simplify: move code into database functions](https://sivers.org/pg)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
 * [New course: Learn SQL interactively on Khan Academy](http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html)
+* [Top 5 SQL and Database Courses to Learn Online](https://medium.com/hackernoon/top-5-sql-and-database-courses-to-learn-online-48424533ac61)
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
 * [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
