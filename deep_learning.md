@@ -709,6 +709,7 @@ Deep Learning
 * [AutoML 1.데이터 어그먼테이션 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/64)
 * [GPU 성능 파워업! LMS 기술 테스트 결과는?](https://blog.naver.com/ibm_korea/221571488250)
 * [Releasing first online 3D Point Cloud labeling tool in Supervisely](https://medium.com/deep-systems/releasing-first-online-3d-point-cloud-labeling-tool-in-supervisely-4faca42b5d6e)
+* [작고 빠른 딥러닝 그리고 Edge Computing](https://www.slideshare.net/slideshow/embed_code/key/9gaEyFbAxBOw9Q)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
