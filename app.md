@@ -319,6 +319,7 @@ App
   * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
   * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
   * [Postman API Network](https://www.getpostman.com/api-network)
+  * [postman tutorial 및 사용법](https://blog.naver.com/pjt3591oo/221642929410)
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 
 # Editor
