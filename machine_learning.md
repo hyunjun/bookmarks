@@ -553,6 +553,7 @@ Machine Learning
 * [온라인서점고객세분화: 리비젼 전용준 머신러닝 190731](https://www.youtube.com/watch?v=cgV_BFavkxU)
 * [패턴 찾기·노이즈 추적에 효과적인 비지도 학습 알아보기](http://www.itworld.co.kr/news/127979)
 * [AI 연구원, 머신러닝이 연금술에 불과하다고 역설](https://github.com/jehyunlee/texts/blob/master/AI_researchers_allege_that_machine_learning_is_alchemy/text.md)
+* [**Beginner Guide : Missing Data Handling**](https://subinium.github.io/missing-data-handling) imputation 결측 값 missing data 을 다루는 여러가지 방법
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -828,6 +829,7 @@ Machine Learning
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
   * [H2O for Inexperienced Users](https://www.h2o.ai/blog/h2o-for-inexperienced-users/)
   * [Democratising Machine learning with H2O](https://towardsdatascience.com/democratising-machine-learning-with-h2o-7f2f79e10e3f)
+* [Impyute - a library of missing data imputation algorithms written in Python 3](https://impyute.readthedocs.io)
 * [lablup/backend.ai](https://github.com/lablup/backend.ai/wiki)
   * [docs.backend.ai](http://docs.backend.ai)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
