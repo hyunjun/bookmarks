@@ -360,6 +360,7 @@ Statistics
 * **[확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90)**
 * [Christopher Fonnesbeck - Introduction to Statistical Modeling with Python - PyCon 2017](https://www.youtube.com/watch?v=TMmSESkhRtI)
 * [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
+* [A Random Walk & Monte Carlo Simulation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=BfS2H1y6tzQ)
 * [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
