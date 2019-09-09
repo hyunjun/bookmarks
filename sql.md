@@ -328,6 +328,7 @@ SQL
   * [Part III: Failure Scenarios](https://scalegrid.io/blog/mysql-high-availability-framework-explained-part-3/)
   * [Part III: Failure Scenarios](http://highscalability.com/blog/2019/4/16/mysql-high-availability-framework-explained-part-iii-failove.html)
 * [Failed to read auto-increment value from storage engine 해결 방법](https://jojoldu.tistory.com/417)
+* [MySQL 자동 증가 칼럼의 최신 데이터 조회시 주의 사항](https://javacan.tistory.com/entry/MySQL-auto-inc-col-gotcha)
 * **[MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리](http://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)**
 * **[Lock으로 이해하는 Transaction의 Isolation Level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock)**
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
