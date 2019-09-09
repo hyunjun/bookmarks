@@ -38,6 +38,8 @@ Finance
 * [한국인을 위한 맞춤 재테크 전략은 없을깡?](https://m.blog.naver.com/PostView.nhn?blogId=hong8706&logNo=221223694635&navType=tl)
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [토스가 현대카드를 연동하는 방법에 동의하지 않습니다](https://blog.outsider.ne.kr/1442)
+* [우량 기술주 초기에 발견하는 방법](https://www.youtube.com/watch?v=WdPGjG0jSK0) 40의 법칙
+* [213. (초보) 역대급 주식 전설들의 유튜브 채널들 10개 소개!](https://www.youtube.com/watch?v=ZNNwIJymshw)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
