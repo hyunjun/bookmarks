@@ -854,3 +854,4 @@ Apache
 * [consul.io](https://www.consul.io/)
   * [HashiCorp사의 Consul, Consul Template 소개](https://medium.com/giljae/hashicorp%EC%82%AC%EC%9D%98-consul-consul-template-%EC%86%8C%EA%B0%9C-cc0837533fbc)
   * [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례](http://woowabros.github.io/tools/2018/10/08/location-service-with-rcs.html)
+  * [Mitchell Hashimoto on Consul since 1.2 and its Role as a Modern Service Mesh](https://www.youtube.com/watch?v=ZQFzR9JjxiI)
