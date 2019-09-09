@@ -84,7 +84,6 @@ ElasticSearch - Lucene
 * [Java Security Manager 관련](http://jjeong.tistory.com/1303)
 * [re-ranking 시 사용하는 함수에 주의 하세요](http://jjeong.tistory.com/1311)
 * [쉽게 Elasticsearch Estimation 하기](http://jjeong.tistory.com/1317)
-* [Elasticsearch Case Study 1) Data 노드에 Index/Shard 구성 시작 해보기](http://jjeong.tistory.com/1318)
 * [Elasticsearch as a Time Series Data Store](https://www.elastic.co/blog/elasticsearch-as-a-time-series-data-store)
 * [Building a Streaming Analytics Data Stack](https://medium.com/@henridf/building-a-streaming-analytics-data-stack-ea0641048661)
 * [Beyond the basics with Elasticsearch](https://speakerdeck.com/elasticsearch/beyond-the-basics-with-elasticsearch)
@@ -217,8 +216,6 @@ ElasticSearch - Lucene
 * [NSHC: Security in the Age of the Dark Web](https://www.elastic.co/kr/elasticon/tour/2017/seoul/security-in-the-age-of-the-dark-web)
 * [Saas 기반의 보안 운영 다용도 도구의 일환으로 Elastic Stack 사용하기](https://www.elastic.co/kr/blog/using-the-elastic-stack-as-a-saas-based-security-operations-swiss-army-knife)
 * [Elasticsearch Queries, or Term Queries are Really Fast!](https://www.elastic.co/blog/elasticsearch-queries-or-term-queries-are-really-fast)
-* [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
-* [내가 운영하는 Elasticsearch 클러스터에 얼마나 많은 샤드가 필요할까?](https://www.elastic.co/kr/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
 * [Quantitative Cluster Sizing](https://speakerdeck.com/elastic/quantitative-cluster-sizing?slide=16)
 * [How-to: Monitor Your Elasticsearch Cluster Performance](http://stackify.com/monitoring-elasticsearch-getting-right/)
 * Elastic Cluster 구성
@@ -576,6 +573,12 @@ ElasticSearch - Lucene
   ```
   * [ElasticSearch status 바로 알기](https://brunch.co.kr/@alden/43)
 * [Benchmarking REST client and transport client](https://www.elastic.co/blog/benchmarking-rest-client-transport-client)
+
+# Shard
+* [Elasticsearch Case Study 1) Data 노드에 Index/Shard 구성 시작 해보기](http://jjeong.tistory.com/1318)
+* [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
+* [내가 운영하는 Elasticsearch 클러스터에 얼마나 많은 샤드가 필요할까?](https://www.elastic.co/kr/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
+* [Implementing a Hot-Warm-Cold Architecture with Index Lifecycle Management](https://www.elastic.co/kr/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management)
 
 # Solr
 * 번역 Solr vs ElasticSearch
