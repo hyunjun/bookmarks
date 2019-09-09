@@ -2558,3 +2558,4 @@ Javascript
 * [Vue, 뷰 100분 핵심강의 소개](https://www.youtube.com/watch?v=phD_CrEweE8)
 * [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/)
 * [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/)
+* [React의 고차 컴포넌트(HOC) 패턴, 이제는 Vue에도 적용해보자](https://wormwlrm.github.io/2019/09/08/Higher-Order-Component-pattern-in-Vue.html)
