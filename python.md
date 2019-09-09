@@ -1112,6 +1112,8 @@ Python
   * [#1, 비동기 프로그래밍이란](https://sjquant.tistory.com/13)
   * [#2, 파이썬에서 비동기 프로그래밍 시작하기](https://sjquant.github.io/14)
   * [#3, 파이썬에서 비동기 프로그래밍 활용하기](https://sjquant.github.io/15)
+* [Advanced asyncio: Solving Real-world Production Problems](https://speakerdeck.com/roguelynn/advanced-asyncio-solving-real-world-production-problems)
+* [asyncio: We Did It Wrong](https://speakerdeck.com/roguelynn/asyncio-we-did-it-wrong)
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
