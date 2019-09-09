@@ -36,7 +36,6 @@ App
 * [I hate coding but I love making](https://hackernoon.com/i-hate-coding-but-i-love-making-9f3387d3b20d)
 * [지금 써보러 갑니다 세상 모든 서비스에 대한 이야기](http://icunow.co.kr/category/util/)
 * [We need a new document markup language — here is why](https://medium.freecodecamp.org/we-need-a-new-document-markup-language-c22e0ec44e15) Practical Markup Language PML
-* [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
 * [Here Are 5 Productivity Tools Every Developer Should Know](https://medium.com/swlh/here-are-5-productivity-tools-every-developer-should-know-4a3f70783835)
   * insomnia, zoom, notion, trello, figma
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
@@ -51,7 +50,6 @@ App
 * [Fort - a Free Software password manager http://www.ideabyte.net/fort ](https://github.com/nrosvall/fort)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
-* [goodsync.com](http://www.goodsync.com/)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
@@ -82,7 +80,6 @@ App
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
-* [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Quip Desktop](https://quip.com/blog/desktop)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
 * [recpic.co.kr](http://recpic.co.kr/) 가계부 앱
@@ -90,7 +87,6 @@ App
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
-* [Resilio Sync - a fast, reliable, and simple file sync and share solution, powered by P2P technology](https://www.resilio.com/individuals/)
 * [send-anywhere.com](https://send-anywhere.com/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
 * [startupstash.com](http://startupstash.com/)
@@ -321,6 +317,13 @@ App
   * [Postman API Network](https://www.getpostman.com/api-network)
   * [postman tutorial 및 사용법](https://blog.naver.com/pjt3591oo/221642929410)
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
+
+# Dropbox
+* [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
+* [goodsync.com](http://www.goodsync.com/)
+* [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
+* [Resilio Sync - a fast, reliable, and simple file sync and share solution, powered by P2P technology](https://www.resilio.com/individuals/)
+* Syncthing [싱크띵(Syncthing), 여러 기기간 파일 동기화 애플리케이션 드롭박스 대신 무료로 사용 가능한 오픈소스 프로젝트](https://www.44bits.io/ko/post/syncthink-syncing-file-between-multiple-devices)
 
 # Editor
 * [파이썬 기초 강좌 #3 파이썬 코딩을 위한 텍스트 에디터](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-3-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0/)
