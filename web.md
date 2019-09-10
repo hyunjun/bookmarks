@@ -338,6 +338,7 @@ Web
   * [How to scrape websites using Python](https://medium.freecodecamp.org/scrap-websites-using-python-c0c7ad41d2dd)
   * [Selenium for Test Automation — Yay or Nay?](https://hackernoon.com/selenium-as-an-automation-testing-tool-aye-or-nay-fddb56527af1)
   * [Selenium (Python) 설치와 기본 사용해 보기 (Windows)](https://dejavuqa.tistory.com/171)
+  * [웹 크롤링을 위해 Selenium Ubuntu 서버에 배포하기](https://taebbong.github.io/selenium-deploy-post/)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 # CSS
