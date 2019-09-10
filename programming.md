@@ -739,6 +739,7 @@ Programming
   * [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
   * [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
   * [개발자를 위한 코드 리뷰 가이드](https://soojin.ro/review/)
+* [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
