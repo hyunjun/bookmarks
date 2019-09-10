@@ -276,6 +276,7 @@ Web
 * [온라인 뉴스 댓글은 정말 사람들의 목소리일까? - PART 2](https://speakerdeck.com/beomi/pyconkr-2019-onrain-nyuseu-daesgeuleun-jeongmal-saramdeulyi-mogsoriilgga-part2)
 * [SBS, KBS, MBC 크롤러 만들기](https://blog.naver.com/pjt3591oo/221631079984)
 * [Scraping Nasdaq news using Python](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/scraping-nasdaq-news-using-python)
+* [파이썬으로 배우는 초보 웹크롤링(request요청, 영화차트크롤링-1)](https://blog.naver.com/luckperson7/221203847949)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
   * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
