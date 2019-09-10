@@ -170,6 +170,7 @@ Git
 * **[Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)**
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
+* [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
