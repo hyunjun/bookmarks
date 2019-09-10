@@ -206,6 +206,7 @@ Keras
 * [How to Handle Missing Timesteps in Sequence Prediction Problems with Python](https://machinelearningmastery.com/handle-missing-timesteps-sequence-prediction-problems-python/)
 * [Inside TensorFlow: tf.Keras (part 1)](https://www.youtube.com/watch?v=UYRBHFAvLSs)
 * [Inside TensorFlow: tf.Keras (part 2)](https://www.youtube.com/watch?v=uhzGTijaw8A)
+* [Keras, 케라스 인공지능의 표준어](https://www.youtube.com/watch?v=6hYb7794k-k)
 
 # Book
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
