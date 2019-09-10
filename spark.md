@@ -292,6 +292,7 @@
   * [ParkS](https://docs.google.com/spreadsheets/d/1XSbyjPibkJiQPpi29y9oLlMD9ihHvazb7L0uIS5wGA8/edit#gid=959319708)
 * [Cost Based Optimizer in Apache Spark 2.2](https://databricks.com/blog/2017/08/31/cost-based-optimizer-in-apache-spark-2-2.html)
   * Apache Spark 2.2의 Cost Based Optimizer와 TPC-DS benchmark에서 CBO 사용 여부에 관계없이 쿼리 수행 시간을 비교한 결과와 통계 정보 수집 방법 등에 대해 설명
+* [Apache Spark Core-Deep Dive-Proper Optimization - Daniel Tomes, Databricks](https://www.youtube.com/watch?v=daXEp4HmS-E)
 * [spark 프레임워크를 활용해 자바 기반 웹 애플리케이션 개발 맛보기](https://slipp.net/questions/548)
 * [Bay Area Apache Spark Meetup at HPE/Aruba Networks Summary](https://databricks.com/blog/2017/09/22/bay-area-apache-spark-meetup-at-hpearuba-networks-summary.html)
   * Aruba에서 PySpark 및 GraphFrames의 Databricks를 사용한 데이터 상관 관계에 관한 프레젠테이션
@@ -328,6 +329,7 @@
     dataset.repartition(dataset.rdd.getNumPartitions * 2).map(YYY)...
     ```
 * [Apache Spark Scheduler](https://databricks.com/session/apache-spark-scheduler)
+* [Deep Dive into the Apache Spark Scheduler - Xingbo Jiang](https://www.youtube.com/watch?v=rpKjcMoega0)
 * [Apache Spark: Scala vs. Java v. Python vs. R vs. SQL](https://mindfulmachines.io/blog/2018/6/apache-spark-scala-vs-java-v-python-vs-r-vs-sql26)
   * Scala, Java, Python, R 및 SQL에서 Apache Spark API의 차이점 설명
   * 예상대로, JVM 언어를 사용하면 성능 향상
@@ -464,6 +466,8 @@
   * [Learning Spark SQL with Zeppelin](https://hortonworks.com/tutorial/learning-spark-sql-with-zeppelin/)
   * [SQL Pivot: Converting Rows to Columns](https://databricks.com/blog/2018/11/01/sql-pivot-converting-rows-to-columns.html) 2.4
   * [SQL at Scale with Apache Spark SQL and DataFrames — Concepts, Architecture and Examples](https://towardsdatascience.com/sql-at-scale-with-apache-spark-sql-and-dataframes-concepts-architecture-and-examples-c567853a702f)
+  * [A Deep Dive into Query Execution Engine of Spark SQL - Maryann Xue](https://www.youtube.com/watch?v=ywPuZ_WrHT0)
+  * [A Deep Dive into Spark SQL's Catalyst Optimizer - Yin Huai](https://www.youtube.com/watch?v=RmUn5vHlevc)
 * trigger [Spark Trigger Options](https://dzone.com/articles/spark-trigger-options)
 
 # Book
@@ -833,6 +837,7 @@
 * [Spark Cluster Settings On Yarn : Spark 1.4.1 + Hadoop 2.7.1](http://hoondongkim.blogspot.com/2015/08/spark-cluster-settings-on-yarn-spark.html)
 * [Spark logging configuration in YARN](https://medium.com/@iacomini.riccardo/spark-logging-configuration-in-yarn-faf5ba5fdb01)
 * [Understanding Apache Spark on YARN](http://sujithjay.com/2018/07/24/Understanding-Apache-Spark-on-YARN/)
+* [Spark on YARN: a Deep Dive - Sandy Ryza, Cloudera](https://www.youtube.com/watch?v=N6pJhxCPe-Y)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)
