@@ -367,6 +367,7 @@ ElasticSearch - Lucene
 * [ELK: Elasticsearch, Logstash and Kibana at Wikimedia](https://www.youtube.com/watch?v=3VA3Zi1De6w)
 * [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
 * [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
+* [Elastic Stack 활용 데모](https://www.youtube.com/playlist?list=PLhFRZgJc2afqxJx0RBKkYUxSUDJNusXPl)
 * **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
   * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM)
   * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw)
