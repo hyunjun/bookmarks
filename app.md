@@ -379,6 +379,7 @@ App
       * [Run VS Code on a remote server. https://coder.com ](https://github.com/cdr/code-server)
       * [stackblitz.com - Code the Future. In Your Browser](https://stackblitz.com)
     * [VS Code 로 넘어가기 (2019)](https://rein.kr/blog/archives/4740)
+    * ['매일 써도 좋을' 비주얼 스튜디오 코드 확장 기능 7가지](http://www.ciokorea.com/news/130582)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
