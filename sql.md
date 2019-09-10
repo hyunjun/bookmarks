@@ -79,6 +79,7 @@ SQL
 * [A Better Way to Write SQL queries for Developers](https://hackernoon.com/a-better-way-to-write-sql-queries-for-developers-b645f4fdcff0)
 * [관계형 데이터 모델링](https://opentutorials.org/module/4134)
   * [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
+* [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/heungrae_kim/db-like)
 * ERD
   * [ERD 다이어그램 툴 종류와 설치 경로 정리](http://gomcine.tistory.com/entry/ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%ED%88%B4-%EC%A2%85%EB%A5%98%EC%99%80-%EC%84%A4%EC%B9%98-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC)
   * [AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램](http://aquerytool.com/)
