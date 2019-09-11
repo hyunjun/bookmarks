@@ -280,6 +280,7 @@ PyTorch
   * 이 모델을 이용하면 Actor를 100개 200개 300개씩 두고 탐험을 할 수 있어서 Suboptimal Policy에 빠지지 않음. 실제로 Seaquest를 이용해서 실험해본 결과, Rainbow, ACER 등에서 1000~2000점 점수를 찍을때 10000점 20000점 30000점 달성
 * [minimalRL-pytorch](https://github.com/seungeunrho/minimalRL)
   * [DQN 알고리즘 구현!](https://www.youtube.com/watch?v=__NYgfkUr-M)
+* [rlpyt - Deep Reinforcement Learning in PyTorch](https://github.com/astooke/rlpyt)
 * [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 
 # Seq2seq
