@@ -793,6 +793,7 @@ App
   * [피벗 테이블 만드는 방법](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5260711542)
   * [아는 만큼 표현한다··· 엑셀을 데이터 시각화 툴로 활용하기](http://www.ciokorea.com/news/123768)
   * [엑셀에서 Distinct Count 구하기](https://www.popit.kr/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-distinct-count-%EA%B5%AC%ED%95%98%EA%B8%B0)
+  * [1. 능력있는 직장인이 되는 법. 엑셀 자동화란?](https://steemit.com/kr-newbie/@gbgg/excel-1)
 * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
 
 # Programming
