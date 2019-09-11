@@ -488,6 +488,7 @@ Apache
 * [Debezium - Stream changes from your database](https://debezium.io)
   * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
   * [DevNation Live: Kafka and Debezium](https://www.slideshare.net/RedHatDevelopers/devnation-live-kafka-and-debezium)
+  * [Change Data Streaming Patterns for Microservices with Debezium](https://developers.redhat.com/videos/youtube/QYbXDp4Vu-8)
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
