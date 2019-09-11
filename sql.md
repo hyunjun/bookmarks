@@ -40,6 +40,7 @@ SQL
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
 * [RDBMS Genealogy](https://hpi.de/naumann/projects/rdbms_genealogy.html)
 * ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
+* [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
@@ -95,6 +96,7 @@ SQL
 * [DataGrip 팁 모음](http://ohgyun.com/770) jetbrains database IDE
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
+* [**Waltz: A Distributed Write-Ahead Log**](https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log)
 
 # [Altibase](https://github.com/ALTIBASE/altibase)
 
