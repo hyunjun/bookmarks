@@ -541,6 +541,7 @@ App
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
+* [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
 * macvim
   * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
