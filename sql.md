@@ -298,6 +298,7 @@ SQL
   * [그날, 그리고 그날을 회고하며](https://brunch.co.kr/@chan/12)
   * [벌써 3월! 나는 누구인가?](https://brunch.co.kr/@chan/14)
 * [국내 최초의 시도, 카카오뱅크의 오픈소스 데이터 베이스](http://yun4794.blog.me/221138075348)
+* [오픈소스 데이터베이스, 흐르는 은행 데이터에 빨대를 꽂아보다](https://gywn.net/2019/09/ifkakao-kakaobank-uldraman/) CDC, Uldraman 울드라맨
 * [데이터야 안전하게 놀아보자 v.1](https://www.slideshare.net/dongchansung/v1-83328271)
 * [Different locations for MySQL databases?](https://askubuntu.com/questions/14418/different-locations-for-mysql-databases)
 * [대용량 테이블 스키마 변경하기](http://jojoldu.tistory.com/244) alter table
