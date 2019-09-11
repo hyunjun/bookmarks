@@ -369,6 +369,8 @@ Programming
 * **[Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)**
 * [How Stickler CI grew from a prototype to a product](https://hackernoon.com/how-stickler-ci-grew-from-a-prototype-to-a-product-6d2a58987ac1)
 * **[The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)**
+* [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
+* [Clean Architecture 1/2](https://jusths.tistory.com/149)
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
 * **[넷플릭스의 카오스 엔지니어링의 원칙](http://channy.creation.net/blog/1173#.WkXB71SFjy0)**
@@ -387,7 +389,6 @@ Programming
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
   * [나눌 수 있다는 것은](http://kimbyeonghwan.tumblr.com/post/172760343341/%EB%82%98%EB%88%8C-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80)
 * [아키텍처란](https://brunch.co.kr/@cleancode/33)
-* [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
 * Instagram
   * **[Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)**
@@ -1020,6 +1021,8 @@ Programming
 * [PubSub in web: comparison and deep-dive into Bayeux/Faye](https://medium.com/front-end-weekly/pubsub-in-web-comparison-and-deep-dive-into-bayeux-faye-e6a0cc3f10d1)
 * **[jack-vanlightly.com/blog?category=Messaging Systems](https://jack-vanlightly.com/blog?category=Messaging+Systems)**
   * RabbitMQ가 중심이며, Kafka, Pulsar도 다룸. 정말 좋은 글이 많음
+* [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
+  * Transactional Outbox Pattern, DB table을 message queue로 이용해 transaction을 보장하는데, DB를 queue로 이용하는 건 anti pattern 아니었나?
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [emqtt](http://emqtt.io/)
