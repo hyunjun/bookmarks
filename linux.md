@@ -141,6 +141,7 @@ Linux
 * **[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)** 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
 * [Munging CSV files with standard Unix tools](https://www.johndcook.com/blog/2019/08/30/cut-sort-awk/) cut sort awk
+* [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/704)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
