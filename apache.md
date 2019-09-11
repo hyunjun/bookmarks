@@ -24,6 +24,7 @@ Apache
 * [Airflow를 이용한 데이터 Workflow 관리](https://www.slideshare.net/YoungHeonKim1/airflow-workflow)
 * [우분투(Ubuntu)에 아파치 에어플로우 (Apache Airflow) 설치](https://jungwoon.github.io/airflow/2019/02/26/Airflow/)
 * [jwon.org/tag/airflow](https://jwon.org/tag/airflow/)
+* [Getting started with Apache Airflow](https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
