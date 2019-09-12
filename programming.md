@@ -304,6 +304,7 @@ Programming
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
+* [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
