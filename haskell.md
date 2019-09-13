@@ -226,6 +226,7 @@ Haskell
 * [Haskell's Type Classes: We Can Do Better](http://degoes.net/articles/principled-typeclasses/)
 * [Type Families and Pokemon](https://www.schoolofhaskell.com/school/to-infinity-and-beyond/pick-of-the-week/type-families-and-pokemon)
 * [thinking-with-types - source material for Thinking with Types http://thinkingwithtypes.com ](https://github.com/isovector/thinking-with-types)
+  * [solutions.pdf](https://github.com/isovector/thinking-with-types/blob/master/solutions.pdf)
 * [Typed type-level programming in Haskell, part I: functional dependencies](https://byorgey.wordpress.com/2010/06/29/typed-type-level-programming-in-haskell-part-i-functional-dependencies)
 * [Typed type-level programming in Haskell, part II: type families](https://byorgey.wordpress.com/2010/07/06/typed-type-level-programming-in-haskell-part-ii-type-families/)
 * [Typed type-level programming in Haskell, part III: I can haz typs plz?](https://byorgey.wordpress.com/2010/07/19/typed-type-level-programming-in-haskell-part-iii-i-can-haz-typs-plz/)
