@@ -888,6 +888,7 @@ Python
   * [용어 정리: 직렬화와 역직렬화](http://blog.ilkyu.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Serialization-%EC%A7%81%EB%A0%AC%ED%99%94)
   * [copyreg로 pickle을 신뢰할 수 있게 하기](http://brownbears.tistory.com/241)
 * pprint
+  * [pyprnt - Python Pretty Printer https://pypi.org/project/pyprnt ](https://github.com/kevink1103/pyprnt)
 * profile
   * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
     * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
