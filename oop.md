@@ -1,7 +1,8 @@
 [Object Oriented Programming](http://en.wikipedia.org/wiki/Object-oriented_programming)
 ===========================
 * [Four major principles of Object-Oriented Programming (OOP)](https://chesterli0130.wordpress.com/2012/10/04/four-major-principles-of-object-oriented-programming-oop/)
-* [Why OO Sucks](https://www.sics.se/~joe/bluetail/vol1/v1_oo.html)
+* [Why OO Sucks](http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm)
+  * [Joe Armstrong said “The problem with object-oriented languages is they've got all this implicit environment they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.” How true is this?](https://www.quora.com/Joe-Armstrong-said-The-problem-with-object-oriented-languages-is-theyve-got-all-this-implicit-environment-they-carry-around-with-them-You-wanted-a-banana-but-what-you-got-was-a-gorilla-holding-the-banana-and-the)
 * **[번역 OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr)**
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)]
