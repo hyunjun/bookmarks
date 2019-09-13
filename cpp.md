@@ -77,6 +77,7 @@ C++
 * [C++ Internals :: STL vector, Part III](http://www.gahcep.com/cpp-internals-stl-vector-part-3/)
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
+* [STL — Standard Template Library](https://medium.com/programming-club-nit-raipur/stl-standard-template-library-5eace21acfc7)
 * [“New” Value Terminology - Bjarne Stroustrup](http://stroustrup.com/terminology.pdf)
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 * [You Can Stop Writing Comments About Pointer Ownership](http://gpfault.net/posts/pointer-ownership-comments.txt.html)
@@ -276,6 +277,7 @@ C++
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [Projucer - The Projucer is a comprehensive project management and code editing tool with a revolutionary C++ live coding environment which has full C++11 support](http://www.juce.com/releases/projucer-juce-4)
 * [PSkel - A high-performance framework for stencil computations](http://pskel.github.io/)
+* [pugixml - Light-weight, simple and fast XML parser for C++ with XPath support http://pugixml.org ](https://github.com/zeux/pugixml)
 * [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
 * [qd - Library for Double-Double and Quad-Double Arithmetic](http://web.mit.edu/tabbott/Public/quaddouble-debian/qd-2.3.4-old/docs/qd.pdf)
 * [qpm - Say hello to qpm. A package manager for Qt/QML!](http://www.cutehacks.com/blog/2015/10/5/say-hello-to-qpm-a-package-manager-for-qtqml)
@@ -286,6 +288,7 @@ C++
 * [SLED (Beta) - A responsive C++ editor that understands your code](http://slededit.com/new/)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
+* [TinyXML2 - a simple, small, efficient, C++ XML parser that can be easily integrated into other programs](https://github.com/leethomason/tinyxml2)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
 * [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)
