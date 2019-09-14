@@ -67,6 +67,7 @@ Python
   * [Larry Hastings - Removing Python's GIL: The Gilectomy - PyCon 2016](https://www.youtube.com/watch?v=P3AyI_u66Bw)
   * [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
   * [번역 파이썬 GIL은 사라질까?](https://velog.io/@novemberoscar/%ED%8C%8C%EC%9D%B4%EC%8D%AC-GIL%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%88%EA%B9%8C)
+  * [번역 파이썬 GIL은 사라질까?](https://seonghyeon.dev/has-the-python-gil-been-slain/)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
@@ -779,6 +780,7 @@ Python
     * 내부 동작을 이해하는 측면에서는 좋으나, 실제로는 전혀 쓸모없어 보임
   * [Underscore(\_)로 시작하는 파이썬 클래스명](https://lhy.kr/python-class-name-startwith-underscore)
   * **[PyCon Korea 2019 리얼월드 메타클래스](https://slides.com/seonghyeonkim/pyconkr-realworld-metaclass)** 매우 좋은 발표 내용
+  * [리얼월드 메타클래스](https://seonghyeon.dev/realworld-metaclass/)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
@@ -1115,6 +1117,7 @@ Python
   * [#3, 파이썬에서 비동기 프로그래밍 활용하기](https://sjquant.github.io/15)
 * [Advanced asyncio: Solving Real-world Production Problems](https://speakerdeck.com/roguelynn/advanced-asyncio-solving-real-world-production-problems)
 * [asyncio: We Did It Wrong](https://speakerdeck.com/roguelynn/asyncio-we-did-it-wrong)
+* [왜 asyncio에 뮤텍스 락이 필요할까?](https://seonghyeon.dev/whats-the-asyncio-lock-for/) asyncio.Lock()
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -3313,6 +3316,7 @@ Python
 * [callable() in Python](https://www.geeksforgeeks.org/callable-in-python/)
 * [Typesetting With Python](https://www.youtube.com/watch?v=GVoyBWo1QDk)
 * [Our journey to type checking 4 million lines of Python](https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/)
+* [Falling into a type world with Python](https://seonghyeon.dev/falling-into-a-type-world-with-python/)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
