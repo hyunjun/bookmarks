@@ -158,6 +158,7 @@ Haskell
 * [Programming Nirvana, Plan B](http://wordaligned.org/articles/programming-nirvana-plan-b)
 * [Covariance and Contravariance](https://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
 * [**공변성과 반공변성은 무엇인가?**](https://edykim.com/ko/post/what-is-coercion-and-anticommunism/)
+* [Coroutine.hs](https://github.com/damhiya/Coroutine/blob/master/Control/Monad/Coroutine.hs)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
