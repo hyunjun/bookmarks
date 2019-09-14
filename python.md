@@ -2887,6 +2887,11 @@ Python
 * [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 
 # [Pandas](http://pandas.pydata.org/)
+* practice
+  * [read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
+  * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
+  * `data = pd.read_csv("pima-indians-diabetes.csv", encoding = 'euc-kr', [header=None])` header=None 첫 번째 행을 헤더가 아니라 데이터로 간주
+  * [Visualization of pd.DataFrame as a Markdown format](https://github.com/jehyunlee/code-snippet/blob/master/3_pandas/df2md/df2md.md)
 * [Pandas Profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
 * [Pandas 팬더스 강의 기초 실습](https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle)
@@ -2896,7 +2901,6 @@ Python
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
 * [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
-* [practice - read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
 * **[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)**
   * [python 이것만 알면 로그 분석 할 수 있다. - 이정우](https://docs.google.com/document/d/1nGQ-OjQVQgW_U94HQmDp0tSGrJSzsFP3GA_B8egKJYY/edit)
@@ -2932,9 +2936,6 @@ Python
 * [Quick Tip: The easiest way to grab data out of a web page in Python](https://medium.com/@ageitgey/quick-tip-the-easiest-way-to-grab-data-out-of-a-web-page-in-python-7153cecfca58)
 * [Graphing bike path data with IPython Notebook and pandas](https://jvns.ca/blog/2013/02/27/graphing-bike-path-data-with-ipython-notebook-and-pandas/)
 * [김영근 - pandas contribution 하기](https://www.youtube.com/watch?v=8n21UzCZMX8)
-* practice
-  * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
-  * `data = pd.read_csv("pima-indians-diabetes.csv", encoding = 'euc-kr', [header=None])` header=None 첫 번째 행을 헤더가 아니라 데이터로 간주
 * [Pycon2017 이성용 Dances with the Last Samurai](https://www.slideshare.net/SungYongLee4/pycon2017-dances-with-the-last-samurai) django + pandas + python-docx 를 이용한 통계업무도구 만들기
 * [파이썬에서 주가데이터 읽어오기](http://blog.naver.com/anthouse28/221158976876)
 * [Open Machine Learning Course. Topic 1. Exploratory data analysis with Pandas](https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-1-exploratory-data-analysis-with-pandas-de57880f1a68)
