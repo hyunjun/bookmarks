@@ -119,6 +119,8 @@ Artificial Intelligence
   * [comma.ai for the people to experiment with](https://github.com/commaai/research)
   * [人工知能による車の自動運転（comma.ai）](https://www.youtube.com/watch?v=BJzgcSJm9SM)
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
+* [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
+  * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [NeoALT - 인공지능 학습용 라벨링 툴 AI를 위한 DATA Labeling 제작도구](http://www.neoconv.com/s25)
 * [Project Oxford - An evolving set of APIs for natural data processing](https://www.projectoxford.ai/)
 * zAI - 파이썬 AI 라이브러리 zAI 사용기
