@@ -156,6 +156,7 @@ Finance
   * [S&P 500 가격 데이터 수집과 수익률 분석](https://nbviewer.jupyter.org/gist/FinanceData/710b8f0a4bd9a8df91ae1be6c7e838b1)
   * [S&P 500 팩터 데이터 수집과 분석](https://nbviewer.jupyter.org/gist/FinanceData/35a1b0d5248bc9b09513e53be437ac42)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
+* [벤포드의 법칙 (Benford Law)](https://nbviewer.jupyter.org/gist/FinanceData/2ab5fc04c975e1f90629ec1b1686e19d)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
