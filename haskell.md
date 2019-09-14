@@ -156,6 +156,8 @@ Haskell
 * [A Guide to GHC's Extensions](https://limperg.de/ghc-extensions/)
 * [Tackling the awkward squad: monadic input/output, concurrency, exceptions, and foreign-language calls in Haskell](https://www.microsoft.com/en-us/research/publication/tackling-awkward-squad-monadic-inputoutput-concurrency-exceptions-foreign-language-calls-haskell/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fsimonpj%2Fpapers%2Fmarktoberdorf%2Fmark.pdf)
 * [Programming Nirvana, Plan B](http://wordaligned.org/articles/programming-nirvana-plan-b)
+* [Covariance and Contravariance](https://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
+* [**공변성과 반공변성은 무엇인가?**](https://edykim.com/ko/post/what-is-coercion-and-anticommunism/)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
