@@ -738,6 +738,7 @@ Scala
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
   * [Play Scala with maven](https://medium.com/@Methrat0n/play-scala-with-maven-a3cac393b0e6)
   * [Open heart surgery on Play Framework](https://medium.com/@rnehru92/open-heart-surgery-on-play-framework-56453d8e089c)
+  * [Slim Play App](https://github.com/lloydmeta/slim-play)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
