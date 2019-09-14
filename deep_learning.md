@@ -1309,6 +1309,7 @@ Deep Learning
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
 * [Udacity Deep Learning Nanodegree 수료 후기](https://medium.com/@EJSohn/udacity-deep-learning-nanodegree-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0-51449857fc24)
 * [인공지능, 통계 관련 유용한 무료 강의 & 책 모음](http://www.datamarket.kr/xe/board_fpbt85/55766)
+* [Deep Learning course: lecture slides and lab notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
