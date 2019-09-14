@@ -199,6 +199,7 @@ Vision
   * [Common Understanding about YOLO](https://www.slideshare.net/ssuserea05e4/common-understanding-about-yolo-125713439)
   * [One-shot object detection](https://machinethink.net/blog/object-detection/)
   * [YOLOv3](https://www.youtube.com/watch?v=MPU2HistivI)
+  * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
