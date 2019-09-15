@@ -1206,6 +1206,7 @@ Deep Learning
 * [netron - Visualizer for neural network, deep learning and machine learning models https://www.lutzroeder.com/ai ](https://github.com/lutzroeder/netron) 신경망, 딥러닝 모델 시각화 툴이자 뷰어
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [NN-SVG - Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/index.html) visualization
+* [NVDLA - Deep Learning Inference Compiler is Now Open Source](https://devblogs.nvidia.com/nvdla/)
 * [PlotNeuralNet - Latex code for drawing neural networks for reports and presentation](https://github.com/HarisIqbal88/PlotNeuralNet)
 * [Polyaxon - An enterprise-grade open source platform for building, training, and monitoring large scale deep learning applications](https://polyaxon.com/)
   * [Polyaxon: An open source Deep Learning / Machine Learning stack on Kubernetes](https://www.techleer.com/articles/485-polyaxon-an-open-source-deep-learning-machine-learning-stack-on-kubernetes/)
