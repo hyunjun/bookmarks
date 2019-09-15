@@ -660,6 +660,7 @@ Machine Learning
 * [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
 
 ## Clustering Python
+* [RFMT Segmentation Using K-Means Clustering](https://medium.com/@blaizh/rfmt-segmentation-using-k-means-clustering-76bc5040ead5)
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
   * [openface](https://github.com/jaeho-kang/deep-learning/tree/master/openface)
 
