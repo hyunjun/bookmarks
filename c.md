@@ -163,6 +163,8 @@ C
 * **[invisible-island.net](http://invisible-island.net/)** add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
 * [abac - Adaptive Arithmetic Coder](https://github.com/ramenhut/abac)
 * [Abifuzz - Calling conventions are hard - Fuzz them!](http://achacompilers.blogspot.kr/2015/09/calling-conventions-are-hard-fuzz-them.html)
+* [AddressSanitizer](https://github.com/google/sanitizers/wiki/AddressSanitizer)
+  * [Address Sanitizer 를 이용하여 힙 메모리 오류 디버깅하기](https://blog.ifunfactory.com/2019/07/03/address-sanitizer-를-이용하여-힙-메모리-오류-디버깅하기/)
 * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
 * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
 * [better string library](http://bstring.sourceforge.net/)
