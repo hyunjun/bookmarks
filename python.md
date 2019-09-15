@@ -2331,6 +2331,7 @@ Python
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
+* [Instagram Private API - A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs](https://github.com/ping/instagram_private_api)
 * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
@@ -2437,16 +2438,6 @@ Python
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
-* PyData
-  * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
-  * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
-  * [PyData Paris 2016 - Automatic Machine Learning using Python & scikit-learn](https://www.youtube.com/watch?v=_EviCgtzG7E)
-  * [PyData London 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
-  * [PyData London 2019](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW)
-  * [PyData Seattle 2017 Keynote Jake VanderPlas](https://www.youtube.com/watch?v=DifMYH3iuFw) 여러가지 data 관련 library 역사(?)
-    * [jakevdp.github.io](http://jakevdp.github.io/)
-  * [Optimizing numerical calculations in Python - Jakub Urban - PyData Prague, January 2019](https://www.youtube.com/watch?v=I_BRzn4zMnQ)
-  * [Ryan Williams: Accelerating Single-cell Bioinformatics with N-dimensional Arrays | PyData Miami 2019](https://www.youtube.com/watch?v=lZk84EcpudA) HDF5, Zarr, dask, zappy
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pydbgen](https://github.com/tirthajyoti/pydbgen)
   * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)
@@ -2643,6 +2634,7 @@ Python
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
   * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
+  * [A Demo of tqdm](https://www.youtube.com/watch?v=TGxP5N7nG0I)
 * [Tesseract-OCR](https://github.com/tesseract-ocr/)
   * [문자인식 오픈소스 Tesseract-OCR, python wrapper tesserocr 설치](https://blog.naver.com/pgh7092/221099597471)
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
@@ -3159,6 +3151,18 @@ Python
   * [from banksalad import python](https://speakerdeck.com/sunghyunzz/from-banksalad-import-python) 뱅크샐러드의 사내 python이용에 관한 발표
   * [파이콘 한국 2019 스포카 코드 챌린지 수상작 및 참여작을 소개합니다](https://spoqa.github.io/2019/08/30/pycon-kr-code-challenge.html)
 * [PyOhio 2019 Surviving Without Python](https://www.youtube.com/watch?v=nJ31ZNpxTis) python 전반
+
+## Conference PyData
+* [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
+* [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
+* [PyData Paris 2016 - Automatic Machine Learning using Python & scikit-learn](https://www.youtube.com/watch?v=_EviCgtzG7E)
+* [PyData London 2018](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ovNxfxOqYcBcQOIny9Zvb-)
+* [PyData London 2019](https://www.youtube.com/playlist?list=PLGVZCDnMOq0ocea1dd0it7jX7HgvZCjSW)
+* [PyData Seattle 2017 Keynote Jake VanderPlas](https://www.youtube.com/watch?v=DifMYH3iuFw) 여러가지 data 관련 library 역사(?)
+  * [jakevdp.github.io](http://jakevdp.github.io/)
+* [Optimizing numerical calculations in Python - Jakub Urban - PyData Prague, January 2019](https://www.youtube.com/watch?v=I_BRzn4zMnQ)
+* [Ryan Williams: Accelerating Single-cell Bioinformatics with N-dimensional Arrays | PyData Miami 2019](https://www.youtube.com/watch?v=lZk84EcpudA) HDF5, Zarr, dask, zappy
+* [PyData Ann Arbor: Katie Bauer | Building "Time On Site" at Reddit](https://www.youtube.com/watch?v=4z4XMe5dVG8)
 
 # PyPy
 * [PyPy Vectorization](http://pypyvecopt.blogspot.kr/2015/08/the-end-of-summer-pypy-simd.html)
