@@ -93,3 +93,4 @@ Google Cloud Platform GCP
 * [Serverless ML API 30분 완성 생산성 높은 AI 개발자 되기 (1)](https://brunch.co.kr/@chris-song/91)
 * [google cloud shell을 이용해서 proxy 서버로 사용해서 공짜로 vpn처럼 이용하기](https://gist.github.com/leoh0/cbafb6c13e677bb6b5928f57e039f435)
 * [Google Introduces Cloud Storage Connector for Hadoop Big Data Workloads](https://www.infoq.com/news/2019/09/Google-Cloud-Storage-Hadoop/)
+* [Next '19 Recap Seoul](https://www.youtube.com/playlist?list=PLBgogxgQVM9vM5TCEwKidxbHKvtMvj7pB)
