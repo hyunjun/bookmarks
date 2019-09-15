@@ -29,6 +29,7 @@ Game
 * [세계의 게임 대학은 지금 무엇을 공부하고 있을까? 1. DigiPen Institute of Technology](https://alegruz.imweb.me/blog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=1228644&t=board)
 * [How to make your game run at 60fps](https://medium.com/@tglaiel/how-to-make-your-game-run-at-60fps-24c61210fe75)
 * [게임 보안 운영 관점에서 바라본 게임 치트 방지 모니터링](https://engineering.linecorp.com/ko/blog/monitoring-to-prevent-game-cheating/)
+* [We Open Sourced Our Steam Game](https://medium.com/squallygame/we-open-sourced-our-steam-game-and-why-it-was-a-good-idea-2d5ac72c9802)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
