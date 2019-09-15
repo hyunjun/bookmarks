@@ -382,6 +382,7 @@ Interview
 * [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
 * [BOJ 10 YEARS](https://startlink.blog/category/스타트링크/baekjoon-online-judge/boj-10-years/) BOJ 사이트의 구조 변경 이야기
 * **[리디북스 서비스 장애 복구 후기 데이터센터의 장애를 통해 겪은 서비스중단 및 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)** 전자책 업체의 실제 시스템 구조를 볼 수 있음
+* [1억명 랭킹 실시간 처리 테스트하기](https://blog.ifunfactory.com/2018/07/02/5290/) MySQL + Redis
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
