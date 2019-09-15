@@ -220,6 +220,7 @@ Programming Books
   * OS X 사용자를 위해 Xcode 설치가 나와있는 점도 특이
 * Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저
   * [북리뷰 Effective Modern C++ (이펙티브 모던 C++) C++11 C++14, 스콧 마이어스 저](http://blog.naver.com/yo2dh/220822566110)
+  * [프로그래밍 도서 추천: 이펙티브 모던 C++](https://blog.ifunfactory.com/2019/03/11/프로그래밍-도서-추천-이펙티브-모던-c/)
 * [모던 C++로 배우는 동시성 프로그래밍](http://jpub.tistory.com/824)
   * 2018.09
   * 한라 005.135그298ㅁ
@@ -892,6 +893,7 @@ Programming Books
 * (NOT YET) 처음 배우는 스프링 부트 2
   * [서평 처음 배우는 스프링 부트 2](https://www.popit.kr/서평-처음-배우는-스프링-부트-2)
 * (NOT YET) [그레이들 - 문법과 구조에서 활용까지 빌드의 모든 것](https://freelec.co.kr/book/%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
+* (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 
 # JavaScript
 
