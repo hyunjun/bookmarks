@@ -131,6 +131,7 @@ Redis
 * [Write Fast Apps Using Async Python 3.6 and Redis](https://eng.paxos.com/write-fast-apps-using-async-python-3.6-and-redis)
   * [subconscious - redis-backed (in memory) db for python3 that is asyncio compatible](https://github.com/paxos-bankchain/subconscious)
 * [Dave Nielsen: Top 5 uses of Redis as a Database | PyData Seattle 2015](https://www.youtube.com/watch?v=jTTlBc2-T9Q)
+* [redis-python-simple-tutorial](https://github.com/jsrimr/redis-python-simple-tutorial)
 
 ## Python Library
 * [aioredis - asyncio (PEP 3156) Redis client library](http://aioredis.readthedocs.io/)
