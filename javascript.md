@@ -896,7 +896,7 @@ Javascript
 * [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/0145894)
 * [2019년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/2108442)
 * [Adaptive backgrounds - 이미지에 맞는 배경색상을 자동설정해주는 자바스크립트 플러그인](https://okaybuild.co.kr/archives/7343)
-* [**Babel, Mocha, Karma and Webpack with coverage in depth**](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
+* [**Babel, Mocha, Karma and Webpack with coverage in order**](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
@@ -2006,6 +2006,7 @@ Javascript
 * [Building a Full Stack Application with React and Node](https://medium.com/@hosway/building-a-full-stack-application-with-react-and-node-5932f264967e)
 * [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
+* [React Transition 강좌](https://www.miriya.net/p/271)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
