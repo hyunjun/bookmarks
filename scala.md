@@ -501,6 +501,7 @@ Scala
     * [Scale By The Bay 2018: John A. De Goes, Itamar Ravid, Scalaz Stream: Rebirth](https://www.youtube.com/watch?v=mLJYODobz44)
     * [Kyiv Scala meetup v9 - Welcome to Scalaz ZIO by Oleksandra Holubitska](https://www.youtube.com/watch?v=q_CJqpuZlBc)
     * [Functional Hangman with ZIO](https://medium.com/@alandevlin7/functional-hangman-with-zio-32c64e622f82)
+    * [John A. De Goes at #ScalaUA - Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
