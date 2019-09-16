@@ -247,6 +247,7 @@ Programming
 * [위험상황을 대비하는 위험관리](https://chodragon9.github.io/blog/preventive-maintenance/)
 * [Linear Programming with Spreadsheets](https://www.datacamp.com/community/tutorials/linear-programming-with-spreadsheets)
 * [우아한 Developer Relations 두번째 이야기](http://woowabros.github.io/woowabros/2018/12/05/developer-relations2.html)
+* [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
