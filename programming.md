@@ -373,6 +373,7 @@ Programming
 * **[The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)**
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Clean Architecture 1/2](https://jusths.tistory.com/149)
+* [Clean Architecture 2/2](https://jusths.tistory.com/150)
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
 * **[넷플릭스의 카오스 엔지니어링의 원칙](http://channy.creation.net/blog/1173#.WkXB71SFjy0)**
@@ -466,6 +467,7 @@ Programming
 * [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
 * [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
+* [**영국 정부의 디지털 서비스 설계 10대 원칙**](http://slownews.kr/13634) 서비스를 만들 때 염두해야 할 점을 잘 정리(그런데 정말 영국 정부 서비스가 이렇게 좋을 지는 모르겠음)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -742,6 +744,8 @@ Programming
   * [Google Engineering Practices Documentation](https://google.github.io/eng-practices/)
   * [How to do a code review](https://google.github.io/eng-practices/review/reviewer/)
   * [개발자를 위한 코드 리뷰 가이드](https://soojin.ro/review/)
+  * [Code Review Developer Guide](https://google.github.io/eng-practices/review/)
+    * [google code review guide 요약](https://wiki.lucashan.space/code-review/01.intro.html)
 * [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 
 # Code Search
@@ -1327,6 +1331,7 @@ Programming
   * [기술 뉴스 #131 : 19-08-01](https://blog.outsider.ne.kr/1455)
   * [기술 뉴스 #132 : 19-08-15](https://blog.outsider.ne.kr/1456)
   * [기술 뉴스 #133 : 19-09-02](https://blog.outsider.ne.kr/1458)
+  * [기술 뉴스 #134 : 19-09-15](https://blog.outsider.ne.kr/1460)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
