@@ -121,6 +121,7 @@
 * [6 useful Rust macros that you might not have seen before](https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5)
 * [10 Key Learnings in Rust after 30,000 Lines of Code](https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19)
 * [Declarative Programming in Rust](https://www.youtube.com/watch?v=Des3zZuTbhk)
+* [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
