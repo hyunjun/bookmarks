@@ -601,6 +601,7 @@ Clojure
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)
 * [Honey SQL - SQL as Clojure data structures](https://github.com/jkk/honeysql)
+* [html-to-hiccup](https://github.com/plexus/html-to-hiccup)
 * [HTTP Kit - A high-performance event-driven HTTP client+server for Clojure](https://github.com/http-kit/http-kit)
 * [immutant](http://immutant.org/)
 * [Impala is a simple bytecode interpreter written in Clojure](https://github.com/divs1210/Impala)
