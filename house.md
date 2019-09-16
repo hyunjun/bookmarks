@@ -49,3 +49,4 @@ House
   * [19/20 겨울시즌 미세먼지 방어대작전 (전열교환기를 적극 활용하자!)](http://blog.chesterventures.com/221637965559)
 * [Top 6 Best Real Estate Apps of 2019](https://hackernoon.com/top-6-best-real-estate-apps-of-2019-b3303fdb7df5)
 * [부동산 법률방 맘에 드는 집 가계약금, 공인중개사에 맡겨도 되나요?](https://realestate.daum.net/news/detail/main/20190704062901080)
+* [**모르면 쪽팔리는 중요한 부동산 기본상식 | 용도지역확인 및 관련사이트**](https://www.youtube.com/watch?v=hCVn6Cilz1Q)
