@@ -223,6 +223,14 @@ Web
 * [2018 데이터야놀자 웹크롤링 좀 더 잘하기](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
 * [Web scraping for web developers: a concise summary](https://medium.freecodecamp.org/web-scraping-for-web-developers-a-concise-summary-3af3d0ca4069)
 
+## Crawler Javascript
+* [NIGHTMARE - A high-level browser automation library.](http://www.nightmarejs.org)
+* [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
+  * [Headless Chrome의 사용방법](https://blog.outsider.ne.kr/1291)
+  * [AWS Lambda에서 사용한 Chrome의 headless_shell 직접 컴파일하기](https://blog.outsider.ne.kr/1294)
+  * [headless chrome과 selenium2의 조합을 사용해 보자 with node](http://devpools.kr/2017/06/08/headless-chrome%EA%B3%BC-selenium2%EC%9D%98-%EC%A1%B0%ED%95%A9%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%9E%90-node/)
+  * [How to build a GitHub bot with PhantomJS, React, and Serverless framework](https://medium.freecodecamp.org/how-to-build-a-github-bot-with-phantomjs-react-and-serverless-framework-7b66bb575616)
+
 ## Crawler Node.js
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [How to Perform Web-Scraping using Node.js](https://blog.bitsrc.io/https-blog-bitsrc-io-how-to-perform-web-scraping-using-node-js-5a96203cb7cb)
