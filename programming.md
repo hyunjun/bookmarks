@@ -467,7 +467,6 @@ Programming
 * [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
 * [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
-* [**영국 정부의 디지털 서비스 설계 10대 원칙**](http://slownews.kr/13634) 서비스를 만들 때 염두해야 할 점을 잘 정리(그런데 정말 영국 정부 서비스가 이렇게 좋을 지는 모르겠음)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1495,6 +1494,10 @@ Programming
   * **[구글 프로토콜 버퍼 (Protocol buffer)](http://bcho.tistory.com/1182)** 간단한 python 예제
   * [Protocol Buffers - overview](https://jusths.tistory.com/125)
 * [UBJSON](http://ubjson.org/)
+
+# Service, Product
+* [**영국 정부의 디지털 서비스 설계 10대 원칙**](http://slownews.kr/13634) 서비스를 만들 때 염두해야 할 점을 잘 정리(그런데 정말 영국 정부 서비스가 이렇게 좋을 지는 모르겠음)
+* [CPO(VPP)가 해야 할일 – SaaSTR 후기](https://architecture101.blog/2019/09/16/what-a-great-cpo-really-does/)
 
 # Software Engineering
 * [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
