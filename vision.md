@@ -450,6 +450,7 @@ Vision
 * [파이썬 업무자동화 05.이미지크기를 간편하게 줄여보자!](https://www.youtube.com/watch?v=H-TTdB1TIco)
 * [Train Image Recognition AI with 5 lines of code](https://towardsdatascience.com/train-image-recognition-ai-with-5-lines-of-code-8ed0bdd8d9ba)
 * [OpenCV를 사용하여 손 검출 및 인식하기(Real Time Hand Detection and Recognition using OpenCV)](https://www.youtube.com/watch?v=KtfhmpNvY7Y)
+* [왜 OpenCV는 BGR 포맷을 쓸까?](https://blog.xcoda.net/102)
 
 # OpenGL
 * [open.gl](https://open.gl/)
