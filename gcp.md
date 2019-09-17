@@ -94,3 +94,4 @@ Google Cloud Platform GCP
 * [google cloud shell을 이용해서 proxy 서버로 사용해서 공짜로 vpn처럼 이용하기](https://gist.github.com/leoh0/cbafb6c13e677bb6b5928f57e039f435)
 * [Google Introduces Cloud Storage Connector for Hadoop Big Data Workloads](https://www.infoq.com/news/2019/09/Google-Cloud-Storage-Hadoop/)
 * [Next '19 Recap Seoul](https://www.youtube.com/playlist?list=PLBgogxgQVM9vM5TCEwKidxbHKvtMvj7pB)
+* [Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver](https://cloud.google.com/blog/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver)
