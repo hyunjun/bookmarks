@@ -409,6 +409,7 @@ Data Science
 * [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
 * [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
 * [Neuroimaging_Python 뉴로해킹 파이썬 파트 스터디 관련 자료를 저장](https://github.com/kisuya/neuroimaging_python)
+* [python4mri - Introduction to Python for neuroimaging (MRI) analysis](https://github.com/lukassnoek/python4mri)
 * [차원 축소 (Principal Component Analysis)](http://blog.naver.com/anthouse28/221016346362)
 * [A Complete Tutorial on Ridge and Lasso Regression in Python](https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-ridge-lasso-regression-python/)
 * [Ridge와 Lasso Regression의 쉬운 풀이](https://brunch.co.kr/@itschloe1/11)
