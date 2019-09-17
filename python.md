@@ -1004,6 +1004,8 @@ Python
     [string].translate(None, string.whitespace)
     ```
   * [Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90)
+  * [String interpolation in Python and R](https://www.johndcook.com/blog/2019/09/12/string-interpolation/)
+  * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
@@ -2332,7 +2334,6 @@ Python
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
 * [Instagram Private API - A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs](https://github.com/ping/instagram_private_api)
-* [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
