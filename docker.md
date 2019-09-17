@@ -492,6 +492,7 @@ Docker
 # [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
 * [Introduction to gVisor: Sandboxed Linux Container Runtime](https://www.youtube.com/watch?v=Ur0hbW_K66s)
 * [gVisor: Building and Battle Testing a Userspace OS in Go](https://www.infoq.com/presentations/gvisor-os-go)
+* [VM 수준의 보안을 제공하는 gVisor 컨테이너 런타임](https://bcho.tistory.com/1355)
 
 # [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
