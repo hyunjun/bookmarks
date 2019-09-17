@@ -554,6 +554,7 @@ Machine Learning
 * [패턴 찾기·노이즈 추적에 효과적인 비지도 학습 알아보기](http://www.itworld.co.kr/news/127979)
 * [AI 연구원, 머신러닝이 연금술에 불과하다고 역설](https://github.com/jehyunlee/texts/blob/master/AI_researchers_allege_that_machine_learning_is_alchemy/text.md)
 * [**Beginner Guide : Missing Data Handling**](https://subinium.github.io/missing-data-handling) imputation 결측 값 missing data 을 다루는 여러가지 방법
+* [A Gentle Introduction to Uncertainty in Machine Learning](https://machinelearningmastery.com/uncertainty-in-machine-learning/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
