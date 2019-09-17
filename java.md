@@ -857,6 +857,7 @@ Java
 * [스프링 부트(Spring Boot)와 Security, MySQL, React를 사용한 Spring Polling App (3)](https://woolbro.tistory.com/46)
 * [1. 간단한 대용량 배치처리, 스프링부트배치](https://ahndy84.tistory.com/18)
 * [2. 미납회원 배치처리 구현](https://ahndy84.tistory.com/19)
+* [Ajax 통신 Example](https://woolbro.tistory.com/53)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
