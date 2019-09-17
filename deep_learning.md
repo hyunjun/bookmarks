@@ -860,6 +860,8 @@ Deep Learning
 * [좌충우돌 강화 학습의 이론과 구현 (원고)](http://books.sumeun.org/index.php/2019/01/14/sumeunrl/)
 * [deep-learning-books](https://github.com/devakar/deep-learning-books)
 * [Deep Learning Book Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
+* [NEURAL NETWORKS AND DEEP LEARNING: A TEXTBOOK](http://www.charuaggarwal.net/neural.htm)
+  * [Deep Learning- Charu Aggarwal](https://www.youtube.com/playlist?list=PLLo1RD8Vbbb_6gCyqxG_qzCLOj9EKubw7)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
