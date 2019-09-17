@@ -100,6 +100,7 @@ Artificial Intelligence
 * [진정한 인공지능을 향한 단계들 Steps Toward Artificial Intelligence (2)](https://www.youtube.com/watch?v=DTEqcYUnOR0)
 * [주디아 펄의 “인과에 대하여(The book of Why)”](http://newspeppermint.com/2019/04/08/m-book-of-why/) casual inference
 * [Progress Toward Safe and Reliable AI](http://ai.stanford.edu/blog/reliable-ai/)
+* [Artificial Intelligence Conference](https://conferences.oreilly.com/ai/ai-ca/public/schedule/proceedings)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
