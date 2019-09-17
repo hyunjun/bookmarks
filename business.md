@@ -460,6 +460,7 @@ Business
 * [YC 데모데이 2019(1)](https://tinytechreview.com/2019/08/20/yc-demoday-2019/)
 * [YC 데모데이 2019(2)](https://tinytechreview.com/2019/08/25/yc-demoday2-2019)
 * [한국의 스타트업 지도](https://estimastory.com/2019/08/21/startupmap/)
+* [글로벌 유니콘 지도](https://www.thestartupbible.com/2019/09/the-global-unicorn-map.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
