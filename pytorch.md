@@ -167,6 +167,7 @@ PyTorch
 * [pytorch-music-composer](https://github.com/YoongiKim/pytorch-music-composer)
 * [Source Separation - Deep learning based speech source separation using Pytorch](https://github.com/AppleHolic/source_separation)
 * [From Research to Production with PyTorch](https://www.infoq.com/presentations/pytorch-torchscript-botorch/)
+* [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
