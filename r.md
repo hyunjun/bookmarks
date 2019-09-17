@@ -279,6 +279,7 @@ R
 * [Data Science and Machine Learning Bootcamp with R - Part 3 // Data Frames](https://www.youtube.com/watch?v=c2jNSYaFsbo)
 * [Data Science and Machine Learning Bootcamp with R - Part 4 // Lists and Input and Output](https://www.youtube.com/watch?v=eLocHXqEaS0)
 * [Data Science and Machine Learning Bootcamp with R - Part 5 // Programing Basics](https://www.youtube.com/watch?v=qDM4G95Yw3k)
+* [Data Science and Machine Learning Bootcamp with R - Part 6 // Advanced Programming Logic](https://www.youtube.com/watch?v=rb1M66MUUOI)
 * [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
 * [재현가능한 과학적 분석을 위한 R](https://statkclee.github.io/r-gapminder-kr/)
 * [재현가능한 과학적 분석을 위한 R (Gapminder)](https://statkclee.github.io/r-novice-gapminder/index-kr.html)
