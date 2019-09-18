@@ -248,6 +248,7 @@ Programming
 * [Linear Programming with Spreadsheets](https://www.datacamp.com/community/tutorials/linear-programming-with-spreadsheets)
 * [우아한 Developer Relations 두번째 이야기](http://woowabros.github.io/woowabros/2018/12/05/developer-relations2.html)
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
+* ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1603,6 +1604,7 @@ Programming
   * [Unit Test (단위 테스트) 도입하기 - 2편](https://www.popit.kr/unit-test-단위-테스트-도입하기-2편)
 * [How TDD Changed the Way I Approach Software Development First, solve the problem, then write tests, then write code](https://medium.com/better-programming/how-tdd-changed-the-way-i-approach-software-development-38509263f9ec)
 * [무료 Leaptest 대체 프로그램 5개](http://freealt.selfhow.com/leaptest/)
+* [Put your Action to the test: Tips to improve your action with testing](https://medium.com/google-developers/put-your-action-to-the-test-tips-to-improve-your-action-with-testing-8f5685af22d)
 * appium [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [katalon.com](https://www.katalon.com)
   * [Introduce Katalon tool](https://www.slideshare.net/ssuser3e79ef/introduce-katalon-tool)
