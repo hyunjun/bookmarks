@@ -224,6 +224,7 @@ Go
 * [Slack Slash Command - 영한 번역(1)](https://jusths.tistory.com/136)
 * [Slack Slash Command - 영한 번역(2)](https://jusths.tistory.com/137)
 * [Slack Slash Command - 영한 번역(3)](https://jusths.tistory.com/138)
+* [Slack Slash Command - timezone current time 1/2](https://jusths.tistory.com/151)
 * [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 
 # API
