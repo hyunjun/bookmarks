@@ -9,7 +9,6 @@ Logging
 * [로그 기깔나게 잘 디자인하는 법](https://www.slideshare.net/jeongsangbaek/ss-80795259)
 * [LoggingThe Ultimate Guide - your open-source resource for understanding, analyzing, and troubleshooting system logs](https://www.loggly.com/ultimate-guide/)
 * [Centralized Logging at Signal](http://www.signal.co/dev-log/centralized-logging/)
-* [Fluentd vs. Logstash: A Comparison of Log Collectors](http://logz.io/blog/fluentd-logstash)
 * [DESIGNING A SEARCH SYSTEM FOR LOG DATA — PART 2](http://www.philipotoole.com/designing-a-search-system-for-log-data-part-2/)
 * [Logging을 System.out으로 하면 안되는 이유](http://silentsoft.tistory.com/13)
 * [Centralized Log Server 를 위한 기본 세팅 (EC2 + ElasticSearch + Logstash + filebeat + kibana)](http://knphouse.tistory.com/85)
@@ -47,6 +46,8 @@ Logging
 * [fluentd와 함께하는 검색 데이터 수집](https://dailyhotel.io/fluentd%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EA%B2%80%EC%83%89-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-b76932a8dc2a)
 * [Fluentd에서 PubSub로 데이터 보내기](https://jungwoon.github.io/bigquery/2017/11/13/BigQuery-Lecture-1/)
 * [CNCF, Fluentd 프로젝트 졸업을 발표](https://www.44bits.io/ko/post/news--fluentd-has-graduated-cncf)
+* [Fluentd vs. Logstash: A Comparison of Log Collectors](http://logz.io/blog/fluentd-logstash)
+* [Fluentd로 데이터파이프라인 구축하기 kafka→kafka→s3](https://blog.voidmainvoid.net/261)
 
 # Library
 * [Apache logging services](https://logging.apache.org)
