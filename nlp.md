@@ -279,6 +279,7 @@ NLP
   * [GPT-2 Playground](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 * [OpenGPT-2: We Replicated GPT-2 Because You Can Too](https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc)
+* [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
