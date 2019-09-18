@@ -290,6 +290,8 @@ Data Visualization
   * [파이썬 Python seaborn 으로 시각화 하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmqvImLtEUWvfjYYLwfj--K3)
   * [파이썬으로도 엑셀처럼 그래프에 값을 표시할 수 있다? 자동차 생산 데이터로 막대그래프를 그리고 값을 표현해 보기](https://www.youtube.com/watch?v=TxpSifRXyAw)
   * [박스플롯과 분포도를 합친 그래프가 있다고? 바이올린? violin plot을 tips 데이터로 그려보기](https://www.youtube.com/watch?v=r4uRX3CY3eE)
+  * [SNS분석 유니클로 1.불매운동은 끝이 난 걸까..?](https://blog.naver.com/myincizor/221652051087)
+  * [SNS분석 유니클로 2.악플보다 무서운 무플](https://blog.naver.com/myincizor/221652136833)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
