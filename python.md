@@ -1120,6 +1120,7 @@ Python
 * [Advanced asyncio: Solving Real-world Production Problems](https://speakerdeck.com/roguelynn/advanced-asyncio-solving-real-world-production-problems)
 * [asyncio: We Did It Wrong](https://speakerdeck.com/roguelynn/asyncio-we-did-it-wrong)
 * [왜 asyncio에 뮤텍스 락이 필요할까?](https://seonghyeon.dev/whats-the-asyncio-lock-for/) asyncio.Lock()
+* [An Introduction to ASGI, Asynchronous Server Gateway Interface](https://www.youtube.com/watch?v=uRcnaI8Hnzg)
 * youtube
   * **[Fear and Awaiting in Async (Screencast)](https://www.youtube.com/watch?v=Bm96RqNGbGo)**
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
