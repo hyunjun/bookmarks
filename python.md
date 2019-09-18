@@ -401,6 +401,8 @@ Python
 * [Pointers in Python](https://www.datacamp.com/community/tutorials/python-pointers)
 * [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA)
 * [How to Make Histograms in Pure Python](https://www.youtube.com/watch?v=OpTwGLVCtHQ)
+* [Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
+* [15 Python Projects in Under 15 Minutes (Code Included)](https://www.youtube.com/watch?v=OXi4T58PwdM)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
