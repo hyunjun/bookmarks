@@ -847,6 +847,17 @@ Machine Learning
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
   * [ML Kit와 ARKit가 함께 작동하는 방식을 알아보세요](https://developers-kr.googleblog.com/2019/05/see-how-ml-kit-and-arkit-play-together.html)
+* [**ml-workspace - All-in-one web-based IDE specialized for machine learning and data science**](https://github.com/ml-tooling/ml-workspace)
+  * 머신러닝 워크스페이스가 이미 구축된 도커 이미지를 제공하는 프로젝트. 모든것이 웹기반
+    * 라이브러리: Sklearn, TensorFlow, PyTorch, Keras 등등
+    * IDE: 주피터 노트북, 주피터 랩, VSCode
+    * 모니터링: TensorBoard, Netdata, Glances
+    * 버전컨트롤: git, Ungit 
+    * 기타: 리모트 액세스, 리눅스 데스크탑 GUI 액세스, 다중 사용자 액세스, 포트 커스터마이징, 유용한 주피터노트북 확장
+  * 도커 이미지 하나로 모두 실행(GPU버전 기준, 단 현재는 CUDA10 만을 지원) `docker run -p 8080:8080 --gpus all mltooling/ml-workspace-gpu:latest`
+    * GPU 이외의 CPU 버전, R 특화 버전, 최소화 버전, 가벼운 버전등 도커 이미지 제공
+  * 위의 나열된 도구들이 제각각 노는것이 아님. 주피터 노트북과, 주피터 랩에는 유용한 확장이 설치
+    * 예를 들어, 원하는 디렉토리로 이동 후 git 버튼의 클릭으로 버전 컨트롤을 하거나, tensorboard 버튼의 클릭으로 텐서보드를 해당 폴더의 로그 파일을 기반으로 실행하거나, vscode 버튼의 클릭으로 선택한 파일을 VSCode에서 곧바로 편집이 가능
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
