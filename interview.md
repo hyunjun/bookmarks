@@ -157,6 +157,7 @@ Interview
 * **[소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/66)**
 * [**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/) 기본적인 모든 인터뷰 절차 및 각 알고리즘 별 문제(혹은 link)도 포함
 * [Interview Experience at Goldman Sachs (For Technical Analyst Role- Java )](https://medium.com/@mukeshsrivastav691/interview-experience-at-goldman-sachs-90036a562484)
+* [The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
