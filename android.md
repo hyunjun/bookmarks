@@ -126,6 +126,7 @@ Android
 * [MP3 파일 외부 저장소에서 가져와 재생하기](https://developer88.tistory.com/192)
 * [안드로이드 Webp이용해 이미지 용량 줄이는 방법](https://developer88.tistory.com/194)
 * [Android 앱의 크기를 줄이는 10가지 방법](https://engineering.linecorp.com/ko/blog/reduce-android-app-size/)
+* [Android Checkbox에 Custom 이미지 사용하기](https://developer88.tistory.com/200)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
