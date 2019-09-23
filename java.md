@@ -309,6 +309,7 @@ Java
 * [Mac에서 IntelliJ CMD+SHIFT+A 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
 * [IntelliJ에서 Eclipse 프로젝트 import 하기](https://medium.com/encored-technologies-engineering-data-science/intellij%EC%97%90%EC%84%9C-eclipse-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-import-%ED%95%98%EA%B8%B0-9e222b5548db)
 * [메이븐 프로젝트 이클립스나 인텔리J에 임포트하기](https://javacan.tistory.com/entry/import-maven-project)
+* [IntelliJ 2019.2 에서 Gradle로 run과 test가 실행될때](https://jojoldu.tistory.com/450)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
