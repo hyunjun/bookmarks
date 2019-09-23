@@ -25,6 +25,7 @@ Apache
 * [우분투(Ubuntu)에 아파치 에어플로우 (Apache Airflow) 설치](https://jungwoon.github.io/airflow/2019/02/26/Airflow/)
 * [jwon.org/tag/airflow](https://jwon.org/tag/airflow/)
 * [Getting started with Apache Airflow](https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b)
+* [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -472,6 +473,7 @@ Apache
 * [kafka 운영 - kafka의 Exception들 - (1)](https://springboot.cloud/35)
 * [Kafka 로그 종류 및 로그 샘플에 대한 설명](https://godway1225.wordpress.com/2019/08/29/kafka-로그-종류-및-로그-샘플에-대한-설명)
 * [kafka 개발 - AdminClient 로 관리 기능 개발하기 - Broker 정보 보기](https://springboot.cloud/36)
+* [카프카 서버 디스크 최적화](https://www.popit.kr/카프카-서버-디스크-최적화/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
