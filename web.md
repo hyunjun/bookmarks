@@ -493,6 +493,7 @@ Web
 * [Everything you need to know about Progressive Web App (PWA)](https://hackernoon.com/everything-you-need-to-know-about-progressive-web-app-pwa-6524edbb0c57)
 * [PWA 하루 만에 도입하기(삽질기)](https://evan-moon.github.io/2019/07/06/pwa-with-notification)
 * [드리블 모바일 디자인컨셉 구현 및 PWA](https://natsgun.tistory.com/39)
+* [A Simple Progressive Web App Tutorial](https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605)
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
