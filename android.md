@@ -90,6 +90,7 @@ Android
 * [NAVER Tech Talk: 안드로이드 개발 밋업 (2018년 5월~8월)](https://d2.naver.com/news/4483716)
 * [NAVER Tech Talk: Android 밋업(2019년 3월,4월)](https://d2.naver.com/news/0566013)
 * [NAVER Tech Talk: Android 밋업(2019년 5,6월)](https://d2.naver.com/news/9293611)
+* [NAVER Tech Talk: Android 밋업(2019년 7월)](https://d2.naver.com/helloworld/7663642)
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
@@ -126,7 +127,9 @@ Android
 * [MP3 파일 외부 저장소에서 가져와 재생하기](https://developer88.tistory.com/192)
 * [안드로이드 Webp이용해 이미지 용량 줄이는 방법](https://developer88.tistory.com/194)
 * [Android 앱의 크기를 줄이는 10가지 방법](https://engineering.linecorp.com/ko/blog/reduce-android-app-size/)
+* [Android 앱 빌드 속도를 높이는 10가지 방법](https://engineering.linecorp.com/ko/blog/how-to-make-android-app-build-faster/)
 * [Android Checkbox에 Custom 이미지 사용하기](https://developer88.tistory.com/200)
+* [APK 빌드 시 Lint found fatal errors가 발생할 경우의 대응](https://developer88.tistory.com/191)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
@@ -182,6 +185,7 @@ Android
   * [Android 101: Gradle dependencies](https://android.jlelse.eu/android-101-gradle-dependencies-9e2742b59f9)
   * [안드로이드 스튜디오3에서 Gradle Sync 이슈 해결하기](http://developer88.tistory.com/149)
   * [How to improve the build speed of your Android projects](https://medium.freecodecamp.org/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602)
+  * [Android Gradle Tip들 정리](https://developer88.tistory.com/198)
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
   * [Android Studio Jetpack Compose & Sample App](http://pluu.github.io/blog/android/2019/05/19/jetpack-compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
