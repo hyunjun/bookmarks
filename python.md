@@ -211,6 +211,7 @@ Python
   * [Configuring Jupyter Notebook](https://www.jetbrains.com/help/pycharm/configuring-jupyter-notebook.html)
   * [파이참, 파이썬 강좌가 필요없는 튜토리얼 활용법!](https://tariat.tistory.com/602)
   * [상대경로와 PyCharm 그리고 명령행](https://surpreem.com/%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C%EC%99%80-pycharm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AA%85%EB%A0%B9%ED%96%89/)
+  * [파이참 interpreter 설정하기](https://blog.naver.com/baek2sm/221448342419)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap ](https://github.com/sethoscope/heatmap)
@@ -403,6 +404,7 @@ Python
 * [How to Make Histograms in Pure Python](https://www.youtube.com/watch?v=OpTwGLVCtHQ)
 * [Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
 * [15 Python Projects in Under 15 Minutes (Code Included)](https://www.youtube.com/watch?v=OXi4T58PwdM)
+* [초간단 업무자동화 코딩 강좌 #1/10:상장 일괄제작 | 회사원생존코딩](https://www.youtube.com/watch?v=1pC_UXhiJH8) 아래아한글
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2375,6 +2377,7 @@ Python
     * Luigi workflow engine을 사용하여 기계 학습 파이프 라인을 작성하는 데 필요한 예제 코드 포함
     * 예제의 주요 기능은 Apache MADlib (incubating)
     * Luigi 태스크의 PL/pgSQL을 통해 실행
+  * [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
@@ -2829,6 +2832,7 @@ Python
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
 * [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 * [Sungchul Lee](https://www.youtube.com/user/sungchulyonseiackr/playlists) 연대 수학과 교수
+* [Microsoft: We want you to learn Python programming language for free](https://www.zdnet.com/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/)
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
@@ -3175,6 +3179,7 @@ Python
 * [Automatic SIMD vectorization support in PyPy](http://morepypy.blogspot.kr/2015/10/automatic-simd-vectorization-support-in.html)
 * ["파이썬 성능 향상을 위한" 파이파이란 무엇인가](http://www.itworld.co.kr/news/122334)
 * [cppyy: C++ bindings for PyPy](http://doc.pypy.org/en/release-2.4.x/cppyy.html)
+* [ubuntu pypy 설치 & benchmark](https://github.com/jehyunlee/texts/blob/master/pypy_install_ubuntu/text.md)
 
 # Python3
 * 2 & 3 호환
