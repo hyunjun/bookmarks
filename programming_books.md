@@ -1164,16 +1164,6 @@ Programming Books
 
 # Python
 * [한빛 출판사 python mindmap](https://www.mindmeister.com/ko/1125435061/python)
-* [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
-  * 2016.03
-  * 한라 005.133 서78ㅇ
-  * python 기초, beautifulsoup 한 챕터, 기초 알고리즘 한 챕터
-* 파이썬으로 배우는 웹 크롤러
-  * 한라 005.133박74ㅍ
-  * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
-* (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
-  * 한라 005.133-미83ㅍ
-* (NOT YET) [파이썬을 활용한 크롤러 개발과 스크레이핑 입문 - 크롤러 설계와 개발부터 수집 데이터 분석과 운용까지](https://wikibook.co.kr/python-crawler/)
 * **_[파이썬 분산 컴퓨팅분산 컴퓨팅 기초부터 테스팅과 디버깅까지](http://book.daum.net/detail/book.do?bookid=BOK00031174400YE)_**
   * 2016.11
   * 한라 005.133 피64파
@@ -1249,8 +1239,6 @@ Programming Books
   * [practice - The Hacker's Guide to Scaling Python Programming](https://github.com/hyunjun/practice/tree/master/python/book-scaling-python)
 * (NOT YET) [파이썬 웹 프로그래밍(개정판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
   * 2018.08 탐라
-* (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
-  * 한라
 * (NOT YET) [Do it! 데이터 분석을 위한 판다스 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/275/PUB)
 * (NOT YET) [Pandas Cookbook 과학 연산, 시계열 분석, 파이썬을 이용한 시각화, 정돈된 데이터 만들기](http://acornpub.co.kr/book/pandas-cookbook)
 * (NOT YET) [손에 잡히는 판다스](https://bjpublic.tistory.com/315)
@@ -1274,6 +1262,21 @@ Programming Books
 * (NOT YET) [파이썬을 활용한 부동산 데이터 분석 파이썬 기초부터 실제 부동산 데이터를 활용한 매매분석, 수요예측, 시각화까지](https://wikibook.co.kr/python-real-estate)
 * (NOT YET) [파이썬 포 에브리바디! 『데이터를 다루며 배우는 파이썬』](https://blog.insightbook.co.kr/2019/08/16/파이썬-포-에브리바디-《데이터를-다루며-배우는-파/)
 * (NOT YET) [마야 파이썬 - 3D를 위한 파이썬](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D190909980&orderClick=LAN&Kc)
+
+## Python Crawler
+* [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
+  * 2016.03
+  * 한라 005.133 서78ㅇ
+  * python 기초, beautifulsoup 한 챕터, 기초 알고리즘 한 챕터
+* 파이썬으로 배우는 웹 크롤러
+  * 한라 005.133박74ㅍ
+  * requests, urllib, bs4, selenium, flask, 머신러닝 기초 등. 약간 중구난방인 듯한 느낌
+* (NOT YET) [파이썬으로 웹 크롤러 만들기](http://network.hanb.co.kr/channel/category/category_view.html?cms_code=CMS1068441311&cate_cd=001)
+  * 한라 005.133-미83ㅍ
+* (NOT YET) [파이썬을 활용한 크롤러 개발과 스크레이핑 입문 - 크롤러 설계와 개발부터 수집 데이터 분석과 운용까지](https://wikibook.co.kr/python-crawler/)
+* (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
+  * 한라
+* (NOT YET) [완친파 웹크롤러 대마왕편(가치랩스 기술연구소 저 / 서울북)](http://statwith.com/%EC%99%84%EC%B9%9C%ED%8C%8C-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%8C%80%EB%A7%88%EC%99%95%ED%8E%B8%EA%B0%80%EC%B9%98%EB%9E%A9%EC%8A%A4-%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A0%80)
 
 # R
 
