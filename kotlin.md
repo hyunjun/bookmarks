@@ -114,6 +114,8 @@
 * [Kotlin 도입 과정에서 만난 문제와 해결 방법](https://d2.naver.com/helloworld/6685007) kotlin, java, lombok을 같이 사용하는 과정에서의 문제점
 * [코틀린(Kotlin)에서 apply, with, let, also, run 차이](https://jungwoon.github.io/kotlin/2019/07/24/Kotlin-apply-let-also-run/)
 * [Kotlin(코틀린)의 Sequence에 대해 알아보자](https://developer88.tistory.com/182)
+* [Kotlin을 배워보자 part1(Basic Types, Function, Null, 타입 변환, Lambda)](https://developer88.tistory.com/152)
+* [Kotlin을 배워보자 part2(if, when, for, while, array, list, ranges)](https://developer88.tistory.com/175)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
