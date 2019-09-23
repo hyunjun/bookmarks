@@ -336,6 +336,8 @@ R
 * [변수 선택 방법: 선형 회귀 분석으로 변수를 선택한다면?](http://ds.sumeun.org/?p=1936)
 * [BLACK BOX 모형을 살펴보기: 모형의 예측, 과적합, 잔차 01 예측 모형 살펴보기](http://ds.sumeun.org/?p=1954)
 * [행렬, 행렬, 행렬](http://ds.sumeun.org/?p=1966)
+* [피처 엔지니어링 2](http://ds.sumeun.org/?p=1979)
+* [피처 엔지니어링 3: 베이지안](http://ds.sumeun.org/?p=1989)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
