@@ -12,6 +12,7 @@ Python
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * **[Python Pedia - One Stop for Python Programming Resources. It's all about Python](https://pythonpedia.com/)**
 * [What the f\*ck Python? 🐍 A collection of interesting and tricky Python examples](https://github.com/satwikkansal/wtfpython)
+* [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io)
 * [pythonfiddle.com](http://pythonfiddle.com/)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
