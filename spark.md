@@ -372,6 +372,7 @@
 * [Multi Source Data Analysis using Spark and Tellius : Meetup Video](http://blog.madhukaraphatak.com/multi-source-spark-tellius/)
   * [spark2.0-examples/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource](https://github.com/phatak-dev/spark2.0-examples/tree/2.4/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource)
   * [Multi Source Data Analysis using Spark and Tellius](https://www.slideshare.net/datamantra/multi-source-data-analysis-using-spark-and-tellius)
+* [Spark 성능 최적화 및 튜닝 방법 - Part 1](https://nephtyws.github.io/data/spark-optimization-part-1/)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
