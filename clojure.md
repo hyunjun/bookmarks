@@ -288,6 +288,7 @@ Clojure
 * [Stuart Halloway Aim Small, Miss Small: Writing Correct Programs](https://www.deconstructconf.com/2018/stuart-halloway-aim-small-miss-small-writing-correct-programs)
 * [Clojure socket prepl cookbook](https://oli.me.uk/2019-03-22-clojure-socket-prepl-cookbook/)
 * [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
+* [Datahike Release 0.2.0](https://lambdaforge.io/2019/09/20/datahike-release-0.2.0.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -601,7 +602,7 @@ Clojure
 * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
 * [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)
 * [Honey SQL - SQL as Clojure data structures](https://github.com/jkk/honeysql)
-* [html-to-hiccup](https://github.com/plexus/html-to-hiccup)
+* [html-to-hiccup - Emacs package that turns HTML into Hiccup syntax, a notation popular when doing Clojure/ClojureScript web development](https://github.com/plexus/html-to-hiccup)
 * [HTTP Kit - A high-performance event-driven HTTP client+server for Clojure](https://github.com/http-kit/http-kit)
 * [immutant](http://immutant.org/)
 * [Impala is a simple bytecode interpreter written in Clojure](https://github.com/divs1210/Impala)
