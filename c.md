@@ -168,6 +168,7 @@ C
 * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
 * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
 * [better string library](http://bstring.sourceforge.net/)
+* [bic: A C interpreter and API explorer](https://github.com/hexagonal-sun/bic)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
