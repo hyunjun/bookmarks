@@ -15,6 +15,9 @@ Docker
   * [이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 * [시작하는 이들을 위한 컨테이너, VM, 그리고 도커에 대한 이야기](https://medium.com/@jwyeom63/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-vm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%BB%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3a04c000cb5c)
 * [도커(Docker) 시작하기](http://kwangshin.pe.kr/blog/2018/04/14/docker-intro/)
+* [도커 시작하기 0 : 우분투에 도커 설치하기](https://javacan.tistory.com/entry/docker-start-0-install-docker-in-ubuntu)
+* [도커 시작하기 1 : 도커란](https://javacan.tistory.com/entry/docker-start-1-docker-and-container)
+* [도커 시작하기 2 : 컨테이너 실행하기](https://javacan.tistory.com/entry/docker-start-2-running-container)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
@@ -111,6 +114,7 @@ Docker
       * GKE (Google Kubernetes Engine) POD에 대한 YAML 파일에 (gcr.io Registry에 존재하는 이미지 + 커스텀 패키지) 내용을 기술하여 GKE 환경에서 배포
     * [Why Use Docker In Machine Learning? We Explain With Use Cases](https://www.analyticsindiamag.com/why-use-docker-in-machine-learning-we-explain-with-use-cases/)
     * [AI platform setting](https://lonehades.github.io/ai%20platform/2019/08/20/setting_AIplatform/) GCP, Ubuntu 10.04, NVIDIA, Tensorflow
+    * [gobbli - Deep learning with text doesn't have to be scary](https://github.com/RTIInternational/gobbli)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
@@ -354,6 +358,7 @@ Docker
 * [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677)
 * [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](https://www.redhat.com/en/blog/architecting-containers-part-1-why-understanding-user-space-vs-kernel-space-matters)
 * [도커와 컨테이너의 이런저런 역사 이야기](https://prudentcircle.gitlab.io/posts/20190827_docker_history/)
+* [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -704,6 +709,7 @@ Docker
 * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
 * [쿠버네티스 CRI (Container Runtime Interface) & OCI (Open container initiative)](https://bcho.tistory.com/1353)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
+* [Why data scientists love Kubernetes](https://opensource.com/article/19/1/why-data-scientists-love-kubernetes)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
@@ -737,6 +743,8 @@ Docker
 * [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
+* [jib - Build container images for your Java applications](https://github.com/GoogleContainerTools/jib)
+  * [Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-과-docker-with-jib-657d32a6b1f0)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
