@@ -365,6 +365,7 @@ Linux
   * [hastur is a tool for launching systemd-nspawn containers without need of manual configuration](https://github.com/seletskiy/hastur)
   * [systemd 살펴보기](http://lunatine.net/about-systemd/)
   * [systemd 서비스 unit파일 작성에서 했던 실수](https://springboot.cloud/16)
+  * [Creating a Linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
