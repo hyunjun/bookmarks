@@ -260,6 +260,7 @@ PyTorch
 * [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
 * [skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
 * [SpeechBrain - A PyTorch-based Speech Toolkit](https://speechbrain.github.io)
+* [SpeedTorch - Faster pinned CPU tensor <-> GPU Pytorch variabe transfer and GPU tensor <-> GPU Pytorch variable transfer, in certain cases](https://github.com/Santosh-Gupta/SpeedTorch)
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
 * [tensorboardX - Write TensorBoard events with simple function call](https://github.com/lanpa/tensorboard-pytorch)
