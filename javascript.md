@@ -127,6 +127,7 @@ Javascript
 * [Become a Confident Javascript Developer!](https://ilovecoding.org/)
 * [exercises - Some basic javascript coding challenges and interview questions](https://github.com/kolodny/exercises)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
+* [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
 * [Traffic Jams in Javascript](http://bit-player.org/2015/traffic-jams-in-javascript)
 * [Fluent JavaScript](http://nikas.praninskas.com/javascript/2015/04/26/fluent-javascript/)
 * [Pseudosynchronous JavaScript](https://codewords.recurse.com/issues/three/pseudosynchronous-javascript)
@@ -201,6 +202,7 @@ Javascript
 * [자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 * [자바스크립트를 이용한 CSV 파일 파싱](http://code.tutsplus.com/ko/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
 * [자바 스크립트에서 csv unicode 관련 문제 해결 방안](http://dkdlel072.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-Csv-unicode%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EC%95%88)
+* [It’s Not Wrong that "🤦".length == 7](https://hsivonen.fi/string-length/)
 * [HTML Table을 CSV로 다운로드하기](https://beomi.github.io/2017/11/29/HTML-Table-to-CSV/)
 * [JavaScript로 바이너리 쓰기](http://modernator.me/article/javascript/write-binary-file-from-js-and-read-from-c)
 * [자바스크립트 엔진의 최적화 기법 (1) - JITC, Adaptive Compilation](http://meetup.toast.com/posts/77)
@@ -348,6 +350,7 @@ Javascript
 * [A Beginner’s Guide to JavaScript’s Prototype](https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34)
 * [All you need to know to understand JavaScript’s Prototype](https://medium.freecodecamp.org/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03)
 * [알고 쓰자 Javascript 프로토타입](https://cresumerjang.github.io/2019/06/20/javascript-prototype/)
+* [자바스크립트의 프로토타입](https://qwefgh90.github.io//language/2019/09/20/자바스크립트-프로토타입.html)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
@@ -510,6 +513,7 @@ Javascript
 * [nike-app-sample](https://chading.net/nike-app-sample/)
 * [Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 * [JavaScript rAF (requestAnimationFrame) in nutshell](https://itnext.io/javascript-raf-requestanimationframe-456f8a0d04b0)
+* [NetFUNNEL 우회하기 대기없이 서민형 안심전환대출 신청하기](https://libsora.so/post/bypass-netfunnel/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -596,6 +600,7 @@ Javascript
 * [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 * [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 * [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
+* [Change Detection 중심 Angular 최적화 방법](https://medium.com/coinone-official/change-detection-중심-angular-최적화-방법-957962ba3d2e)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -2137,6 +2142,8 @@ Javascript
   * [How to leverage your React skills with static site generator Gatsby.js](https://medium.com/free-code-camp/how-to-leverage-your-react-skills-with-static-site-generator-gatsby-js-81843e928606)
   * [페이지 주소가 바뀌어도 자연스럽게 이어지는 애니메이션 만들기](https://tech.devsisters.com/posts/page-navigation-animation)
   * [Gatsby로 개인 블로그 만들기 -클론부터 배포까지-](https://suitee.me/getting-started-gatsby)
+  * [How to create and deploy a blog website with Gatsby and Netlify](https://medium.com/@divyamrastogi/how-to-create-and-deploy-a-blog-website-with-gatsby-and-netlify-bad84948dd91)
+  * [What is Gatsby.js](https://www.mediacurrent.com/what-is-gatsby.js)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
