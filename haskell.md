@@ -159,6 +159,8 @@ Haskell
 * [Covariance and Contravariance](https://www.fpcomplete.com/blog/2016/11/covariance-contravariance)
 * [**공변성과 반공변성은 무엇인가?**](https://edykim.com/ko/post/what-is-coercion-and-anticommunism/)
 * [Coroutine.hs](https://github.com/damhiya/Coroutine/blob/master/Control/Monad/Coroutine.hs)
+* [Data.Proxy](https://kseo.github.io/posts/2017-01-15-data-proxy.html)
+* [Elm Town 47 - A Cool, Easy Way To Start Learning Haskell](https://elmtown.simplecast.fm/a-cool-easy-way-to-start-learning-haskell)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
