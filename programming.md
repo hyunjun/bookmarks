@@ -60,6 +60,7 @@ Programming
 * **[Blocking-NonBlocking-Synchronous-Asynchronous](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)**
 * [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
 * [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
+* [**동기(Synchronous)는 정확히 무엇을 의미하는걸까?**](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [(번역) 메타언어 길들이기](https://emaren84.github.io/blog/archivers/understanding-taming-the-meta-language-kor)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -165,6 +166,7 @@ Programming
 * [#4 예제로 보는 SLI/SLO 정의 방법](https://bcho.tistory.com/1329)
 * [#5 Error budget](https://bcho.tistory.com/1332)
 * [#6 운영에서 반복적인 노가다 Toil](https://bcho.tistory.com/1333)
+* [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html) 여러가지 주의할 점, defensive code
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
@@ -286,6 +288,7 @@ Programming
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
 * [애자일 키워드 팟캐스트](http://www.podbbang.com/ch/14757)
+* [The Death of Agile and Beyond](https://www.infoq.com/articles/death-agile-beyond/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -448,6 +451,7 @@ Programming
 * [상품 정보 관리 라이브사이클 정의](https://www.popit.kr/%EC%83%81%ED%92%88-%EC%A0%95%EB%B3%B4-%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EC%82%AC%EC%9D%B4%ED%81%B4-%EC%A0%95%EC%9D%98/)
 * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
 * [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance) 대규모 서비스를 설계하는 기술 - 중급(일반편)
+* [설계의 중요성을 설명하기가 왜 어려웠을까?](https://huns.me/posts/2019-09-19-why-is-it-difficult-to-understand-the-importance-of-archictecture) clean architecture 문장 인용
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
@@ -644,6 +648,7 @@ Programming
 * [Serverless GraphQL Architecture – The Future of Backend Development](https://www.youtube.com/watch?v=PTphFRHJ3d0)
 * [Cloud Made Simple with Serverless Python](https://www.youtube.com/watch?v=3Dbxu-J4c5s) IBM cloud
 * [Full Stack Serverless](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/)
+* [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -1275,6 +1280,7 @@ Programming
   * [8월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/08/b-8-4.html)
   * [9월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/09/b-9-1.html)
   * [9월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/09/b-9-2.html)
+  * [9월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/09/b-9-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
