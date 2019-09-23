@@ -131,6 +131,7 @@ C
 * [C에 대해서 잘 아시나요?](http://jhrogue.blogspot.com/2019/07/b-c.html)
 * [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
 * [P99 - Preprocessor macros and functions for C99 and C11](http://p99.gforge.inria.fr/p99-html/index.html)
+* [Using pseudo-terminals (pty) to control interactive programs](http://rachid.koucha.free.fr/tech_corner/pty_pdip.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
