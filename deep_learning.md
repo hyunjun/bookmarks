@@ -990,6 +990,7 @@ Deep Learning
 * [zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks](https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html)
 * [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
 * [PR12 intro. to gans jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
+* [PR12 Deep Learning Paper Presentation List and Summary](https://github.com/taeoh-kim/pr12)
 * **[Variants of GANs - Jaejun Yoo](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)**
 * [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
