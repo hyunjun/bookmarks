@@ -641,6 +641,7 @@ Deep Learning
   * [deepfakes.club](https://www.deepfakes.club/)
   * [It Means Hope | Deepfakes Replacement](https://www.youtube.com/watch?v=ChVgT980Jck)
   * [Awesome - Deepfake / Porn Detection using Deep Learning](https://github.com/subinium/awesome-deepfake-porn-detection)
+  * [Live Deep Fakes — you can now change your face to someone else’s in real time video applications](https://medium.com/huia/live-deep-fakes-you-can-now-change-your-face-to-someone-elses-in-real-time-video-applications-a4727e06612f)
 * [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
 * [The Deep Learning Roadmap](https://medium.com/intuitionmachine/the-deep-learning-roadmap-f0b4cac7009a)
 * [Continuous Unsupervised Training of Deep Architectures](https://www.slideshare.net/VincenzoLomonaco/continuous-unsupervised-training-of-deep-architectures)
