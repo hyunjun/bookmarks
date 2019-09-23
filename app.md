@@ -201,6 +201,7 @@ App
   * [reveal-jekyll](https://github.com/tasmo/reveal-jekyll)
   * [번역 - 해커처럼 블로깅하기](http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr)
   * [Jekyll 블로그 docker로 한방에 올리기](https://jybaek.tistory.com/808)
+  * [Jekyll 포스트에 태그 기능 추가하기](https://wormwlrm.github.io/2019/09/22/How-to-add-tags-on-Jekyll.html)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
