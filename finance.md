@@ -157,6 +157,7 @@ Finance
   * [S&P 500 팩터 데이터 수집과 분석](https://nbviewer.jupyter.org/gist/FinanceData/35a1b0d5248bc9b09513e53be437ac42)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [벤포드의 법칙 (Benford Law)](https://nbviewer.jupyter.org/gist/FinanceData/2ab5fc04c975e1f90629ec1b1686e19d)
+* [Dynamic Fee Mechanism Simulation with Reinforcement Learning](https://medium.com/decon-simulation/dynamic-fee-mechanism-simulation-with-reinforcement-learning-6d15951dec05)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
@@ -179,6 +180,7 @@ Finance
   * [Programming for Finance with Python, Zipline and Quantopian](https://pythonprogramming.net/finance-programming-python-zipline-quantopian-intro/)
 
 # R
+* [Simulate binance fee mechanism by RL agents](https://github.com/deconlabs/TradingZoo-Dynamic-fee-simulation)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [회고 tqk 업데이트 수정 종가 반영 및 param 조정](https://mrchypark.github.io/post/tqk-%EA%B3%B5%EC%A7%80-%EC%88%98%EC%A0%95-%EC%A2%85%EA%B0%80-%EB%B0%98%EC%98%81-%EB%B0%8F-param-%EC%A1%B0%EC%A0%95/)
 * ubci [암호화폐 시세와 인덱스를 제공하는 ubci 패키지를 소개합니다](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90-%EC%8B%9C%EC%84%B8%EC%99%80-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-ubci-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/)
