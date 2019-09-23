@@ -146,6 +146,7 @@ Statistics
   * 데이터가 zero mean Gaussian 분포를 띌때, maximizing probability의 과정에서 L2 loss function(MSE)이 유도될 수 있음
   * 또한 L2 regularization도 도출 가능
   * 데이터가 라플라스 분포를 띌때는 L1 loss function 및 L1 regularization을 얻을 수 있음
+* [Why not Mean Squared Error(MSE) as a loss function for Logistic Regression?](https://towardsdatascience.com/why-not-mse-as-a-loss-function-for-logistic-regression-589816b5e03c)
 * [L2 Regularization and Batch Norm](https://blog.janestreet.com/l2-regularization-and-batch-norm/)
 * Agreement, Reliability를 보는 Krippendorff’s alpha
   * [Krippendorff's alpha](https://en.wikipedia.org/wiki/Krippendorff%27s_alpha)
@@ -180,6 +181,7 @@ Statistics
 * [Derivation of the Multivariate Normal Distribution](https://teamdable.github.io/techblog/Derivation-of-the-Multivariate-Normal-Distribution)
 * [Statistical-Inference](https://github.com/KaggleBreak/Statistical-Inference)
 * [Statistics for people in a hurry](https://towardsdatascience.com/statistics-for-people-in-a-hurry-a9613c0ed0b)
+* [Statistical Significance Explained](https://towardsdatascience.com/statistical-significance-hypothesis-testing-the-normal-curve-and-p-values-93274fa32687)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
