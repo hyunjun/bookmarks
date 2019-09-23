@@ -826,6 +826,10 @@
 * **[Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html)** Apache Spark, Storm, Flink, Samze를 비교 분석
 * [Kafka Streams vs. Spark Structured Streaming](https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming)
 * [Kafka Streams vs. Spark Structured Streaming (extended)](https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming-extended)
+* [Kafka offset committer for Spark structured streaming](https://github.com/HeartSaVioR/spark-sql-kafka-offset-committer)
+  * Structured Streaming은 Kafka 에서 데이터를 가져올 때 사용하는 경우가 많음
+  * Spark가 Kafka consumer group ID를 임의로 지정하고 commit도 하지 않아 별도의 streaming query listener를 구현해 추적하는 방안 외에는 적당한 방도가 없음
+  * commit할 group ID를 지정하면 개별 batch의 commit된 offset정보를 Kafka로 commit, 기존 Kafka 툴들과 조합하면 lag등을 추적하는 데 도움
 * [Scaling Spark Streaming for Logging Event Ingestion](https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d)
 
 # YARN
