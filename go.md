@@ -225,6 +225,7 @@ Go
 * [Slack Slash Command - 영한 번역(2)](https://jusths.tistory.com/137)
 * [Slack Slash Command - 영한 번역(3)](https://jusths.tistory.com/138)
 * [Slack Slash Command - timezone current time 1/2](https://jusths.tistory.com/151)
+* [Slack Slash Command - timezone current time 2/2](https://jusths.tistory.com/152)
 * [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 
 # API
@@ -428,6 +429,7 @@ Go
 * [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
 * [Stout - a deploy tool for static websites](http://stout.is/)
 * [sumoshell - A terminal-only version of Sumo written in Go](https://github.com/SumoLogic/sumoshell)
+* [sup - a simple deployment tool that performs given set of commands on multiple hosts in parallel](https://github.com/pressly/sup)
 * [syncer - Fast stateful file/disk data syncer](https://github.com/stargrave/syncer)
 * [termloop - Terminal-based game engine for Go, built on top of Termbox](https://github.com/JoelOtter/termloop)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
