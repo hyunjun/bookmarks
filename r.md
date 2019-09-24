@@ -365,6 +365,7 @@ R
 * [R을 이용한 데이터 분석 실무](http://r4pda.co.kr/)
   * [R을 이용한 데이터 처리 & 분석 실무](https://thebook.io/006723/)
 * [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
+* [R을 이용한 퀀트 투자 포트폴리오 만들기](https://hyunyulhenry.github.io/quant_cookbook/)
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)
 * [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
