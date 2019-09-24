@@ -130,6 +130,7 @@ Android
 * [Android 앱 빌드 속도를 높이는 10가지 방법](https://engineering.linecorp.com/ko/blog/how-to-make-android-app-build-faster/)
 * [Android Checkbox에 Custom 이미지 사용하기](https://developer88.tistory.com/200)
 * [APK 빌드 시 Lint found fatal errors가 발생할 경우의 대응](https://developer88.tistory.com/191)
+* [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
