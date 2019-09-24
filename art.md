@@ -15,6 +15,7 @@ Art
 * [조영남은 사기꾼인가?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002223712&CMPT_CD=Mrank1#cb)
 * [유시민도 모르는 '조영남 사건'의 본질](https://m.entertain.naver.com/read?oid=047&aid=0002120543)
 * [Introduction to Art History](http://www.slideshare.net/johnricard/introduction-to-art-history)
+* [페나키스티스코프(Phenakistiscope)](https://www.josephk.io/phenakistiscope-magical-animation/)
 
 # Animation & Comics
 * [에이코믹스](http://www.huffingtonpost.kr/acomics/)
