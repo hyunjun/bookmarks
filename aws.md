@@ -497,7 +497,6 @@ AWS
 * [AWS Lambda: 가볍게 시작하기](https://hyunseob.github.io/2017/05/27/aws-lambda-easy-start/)
 * [From Microservices to Service Blocks using Spring Cloud Function and AWS Lambda](http://www.kennybastani.com/2017/07/microservices-to-service-blocks-spring-cloud-function-aws-lambda.html)
 * [AWS Lambda에 Express 위에서 작동하는 React Application 업로드(배포) 하는 방법](https://walkinpcm.blogspot.com/2017/08/awsaws-lambda-express-react-application.html)
-* [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
 * [Puppeteer를 AWS Lambda에서 실행하기](https://blog.outsider.ne.kr/1319)
 * [Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아](https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777)
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
@@ -609,6 +608,10 @@ AWS
 * [S3를 이용하여 랜딩페이지 만들기](https://medium.com/harrythegreat/s3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-b80a44191641)
 * [AWS RDS for PostgreSQL에서 S3 데이터 임포트 기능 지원](https://www.44bits.io/ko/post/news--aws-rds-postgresql-supports-data-import-from-s3)
 * [AWS S3 총정리](https://ryan-han.com/post/aws/s3/)
+
+# TDD, Test
+* [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
+* [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
