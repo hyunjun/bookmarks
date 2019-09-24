@@ -128,6 +128,7 @@ Android
 * [안드로이드 Webp이용해 이미지 용량 줄이는 방법](https://developer88.tistory.com/194)
 * [Android 앱의 크기를 줄이는 10가지 방법](https://engineering.linecorp.com/ko/blog/reduce-android-app-size/)
 * [Android 앱 빌드 속도를 높이는 10가지 방법](https://engineering.linecorp.com/ko/blog/how-to-make-android-app-build-faster/)
+* [안드로이드 Build 속도를 개선하는 방법](https://developer88.tistory.com/177)
 * [Android Checkbox에 Custom 이미지 사용하기](https://developer88.tistory.com/200)
 * [APK 빌드 시 Lint found fatal errors가 발생할 경우의 대응](https://developer88.tistory.com/191)
 * [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
