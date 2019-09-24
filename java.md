@@ -306,6 +306,7 @@ Java
 * [IntelliJ에서 코드 한 줄 안 짜고 JPQL 실행하기](https://www.popit.kr/intellij%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84-%EC%95%88-%EC%A7%9C%EA%B3%A0-jpql-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [인텔리J 단축키 잘 쓰는 방법](https://www.youtube.com/watch?v=0D-YYVfUxFM)
+* [IntelliJ 단축키](https://jybaek.tistory.com/834)
 * [Mac에서 IntelliJ CMD+SHIFT+A 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
 * [IntelliJ에서 Eclipse 프로젝트 import 하기](https://medium.com/encored-technologies-engineering-data-science/intellij%EC%97%90%EC%84%9C-eclipse-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-import-%ED%95%98%EA%B8%B0-9e222b5548db)
 * [메이븐 프로젝트 이클립스나 인텔리J에 임포트하기](https://javacan.tistory.com/entry/import-maven-project)
