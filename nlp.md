@@ -344,6 +344,7 @@ NLP
 * [Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL](https://github.com/zhihu/cuBERT)
 * [MULTI GPU환경에서 ETRI 한국어 BERT모델 활용한 Korquad 학습 방법](https://github.com/domyounglee/korbert-mecab-multigpu)
   * [nlp-api - ETRI KoBERT에서 사용하기 위해 만든 Mecab 형태소 분석기 API](https://github.com/Gyunstorys/nlp-api)
+* [Korean BERT pre-trained cased (KoBERT)](https://github.com/SKTBrain/KoBERT)
 * [꼼꼼하고 이해하기 쉬운 XLNet 논문 리뷰](https://blog.pingpong.us/xlnet-review/)
 * [한국어로 XLNet 학습해보기!](https://banana-media-lab.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A1%9C-XLNet-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [Google Brain’s XLNet bests BERT at 20 NLP tasks](https://venturebeat.com/2019/06/21/google-brains-xlnet-bests-bert-at-20-nlp-tasks/)
