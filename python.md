@@ -2092,11 +2092,6 @@ Python
 * [Learning A New Data Science Language](https://towardsdatascience.com/learning-a-new-data-science-language-aa7656be730a) Pandas, Framequery, SciKit-Learn, Pandas-gbq
 * **[모든 파이썬 프로그래머를 위한 20가지 실용적인 파이썬 라이브러리](http://www.itworld.co.kr/print/118829)**
   * 아파치 Libcloud, 애로우(Arrow), 비홀드(Behold), 보틀(Bottle), EbookLib, 구이(Gooey), 인보크(Invoke), 누이트카(Nuitka), 눔바(Numba), 피위(Peewee), 필로우(Pillow), 파이파일시스템(PyFilesystem), 파이게임(Pygame), 파이글릿(Pyglet), 파이인스톨러(PyInstaller), 파이심플GUI(PySimpleGUI), 파이썬-docx, 스크래피(Scrapy), Sh, 스플린터(Splinter)
-* [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
-* [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
-  * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
-* [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour ](https://github.com/Eyepea/API-Hour)
-* [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * Let’s Build A Web Server
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
@@ -2105,6 +2100,9 @@ Python
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
+* [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
+* [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
+  * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
@@ -2151,10 +2149,12 @@ Python
   * [데이터 분석을 위한 파이썬 개발환경 구축 (Windows)](https://sjquant.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95/)
   * [How to get started with Python for Deep Learning and Data Science](https://medium.freecodecamp.org/how-to-get-started-with-python-for-deep-learning-and-data-science-3bed07f91a08)
 * [angr is a framework for analyzing binaries](http://angr.io/)
+* [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour ](https://github.com/Eyepea/API-Hour)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
 * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
+* [Bake — the strangely familiar workflow utility](https://github.com/kennethreitz/bake) makefile과 비슷하게 bakefile을 통해 작업 처리. automation
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * bcrypt [Hashing passwords with Python and Bcrypt](https://www.youtube.com/watch?v=hNa05wr0DSA)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
@@ -2162,6 +2162,7 @@ Python
   * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
   * [A Web Without JavaScript](https://www.youtube.com/watch?v=VdyCTife_Yo)
   * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
+* [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
 * [Bokken - Open Source Reverse Code Engineering](http://bokken.re/index.html)
