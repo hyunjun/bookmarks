@@ -3154,6 +3154,7 @@ Python
   * [파이콘 2018 후기](https://www.sangkon.com/2018/08/27/pycon-2018/)
   * **[2018. 05 파이썬 개발환경 구성하기 거의 끝판왕 Docker Compose - 김승호](https://www.youtube.com/watch?v=oQ50eqDH91A)** compose뿐만 아니라 docker 명령 기본에 대한 것도 알기 좋음
 * [PyCon 2019](https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ)
+  * [Pycon 2019 Korea youtube 링크 정리](https://web.facebook.com/groups/pythonkorea/permalink/2466736086742871/)
   * [Raymond Hettinger - Modern solvers: Problems well-defined are problems solved - PyCon 2019](https://www.youtube.com/watch?v=_GP9OpZPUYc)
   * [PyCon Korea 2019 법률을 디버깅하다 Debugging law](https://drive.google.com/file/d/1HfJU-Qo2h-Y0Kn85LuiQPKcO8K_iqxb6/)
   * [PyCon Korea 2019 파이썬의 변수](https://www.slideshare.net/ChrisCho2/pycon-korea-2019)
