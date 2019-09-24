@@ -496,6 +496,10 @@ Scala
   * [John A de Goes - SCALAZ 8 VS AKKA ACTORS](https://www.youtube.com/watch?v=Eihz7kqn6mU)
   * [scalaz 8: A whole new game (John A. De Goes)](https://www.youtube.com/watch?v=sFGnFKMSmL0)
   * [The Design of the Scalaz 8 Effect System - John A. De Goes](https://www.youtube.com/watch?v=CIPGZzbPpeg)
+  * [The Expression Tradeoff](https://blog.charleso.org/2018/12/expression-tradeoff.html)
+    * Closed Type과 Open Type으로 Expression Problem의 어떤 부분을 해결해 주는지에 대한 글
+    * ADT를 사용하는 Closed Type 스타일은 FP에서 사용하는 방법
+    * FP와 OOP의 차이는 Expression Problem을 어떻게 해결 하느냐에 있음
   * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
     * [John A De Goes - ZIO: Next-Generation Effects in Scala](https://www.youtube.com/watch?v=mkSHhsJXjdc)
     * [Scale By The Bay 2018: John A. De Goes, Itamar Ravid, Scalaz Stream: Rebirth](https://www.youtube.com/watch?v=mLJYODobz44)
