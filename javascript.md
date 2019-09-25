@@ -2144,6 +2144,7 @@ Javascript
   * [Gatsby로 개인 블로그 만들기 -클론부터 배포까지-](https://suitee.me/getting-started-gatsby)
   * [How to create and deploy a blog website with Gatsby and Netlify](https://medium.com/@divyamrastogi/how-to-create-and-deploy-a-blog-website-with-gatsby-and-netlify-bad84948dd91)
   * [What is Gatsby.js](https://www.mediacurrent.com/what-is-gatsby.js)
+  * [The Great Gatsby Bootcamp - Full Gatsby.js Tutorial Course](https://www.youtube.com/watch?v=kzWIUX3CpuI)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
