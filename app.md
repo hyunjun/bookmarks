@@ -901,6 +901,7 @@ App
   * [Secrets of PowerShell Remoting](https://leanpub.com/secretsofpowershellremoting/read_full)
   * [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read_full)
   * [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read_full)
+* [Scoop - A command-line installer for Windows](https://scoop.sh)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
