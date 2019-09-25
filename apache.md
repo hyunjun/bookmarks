@@ -403,6 +403,7 @@ Apache
 * [RDBMS to Kafka: Stories from the Message Bus Stop](https://www.youtube.com/watch?v=mFxb6WkBRqo)
 * [카프카, 산전수전 노하우](https://www.slideshare.net/ifkakao/ss-113145591)
 * [Kafka timestamp offset](https://www.slideshare.net/charsyam2/kafka-timestamp-offset)
+* [Resetting first dirty offset to log start offset since the checkpointed offset is invalid](https://donald-dh.github.io/donald-dh.github.io/ts-kafka-resetting-first-dirty-offset/)
 * [Kafka 0.10 Compression Benchmark](http://blog.yaorenjie.com/2017/01/03/Kafka-0-10-Compression-Benchmark/)
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
 * [Kafka Korea meetup](https://github.com/kafka-kru/meetup)
@@ -411,7 +412,6 @@ Apache
   * [About 3rd Mini-Meetup](https://github.com/kafkakru/meetup/tree/master/mini-meetup3)
 * [Moving From Legacy To Event-Driven With Kafka](https://www.youtube.com/watch?v=H_ang8BatXQ)
 * [카프카 컨슈머 애플리케이션 배포 전략](https://medium.com/11st-pe-techblog/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5-4cb2c7550a72)
-* [Kafka Offset Monitor - an app to monitor your kafka consumers and their position (offset) in the queue](https://github.com/quantifind/KafkaOffsetMonitor)
 * **[cloudurable.com/categories/kafka](http://cloudurable.com/categories/kafka/index.html)**
   * **[Kafka Tutorial 13: Creating Advanced Kafka Producers in Java](http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html)**
     * 압축방식은 lz4가 좋으며, decompress할때 사이즈 넣어야 snappy보다 느린 현상이 발생하지 않음
@@ -498,6 +498,7 @@ Apache
   * 디테일하게 'Destionation Topic의 Partition별 offset' 을 보고 싶은 경우 Destination Topic을 모니터링 시스템에 연결하는 방식
 * [kafka-monitor - Monitor the availability of Kafka clusters with generated messages](https://github.com/linkedin/kafka-monitor)
   * [URP? Excuse You! The Three Metrics You Have to Know (Todd Palino, Linkedin) Kafka Summit 2018](https://videos.confluent.io/watch/upUNYs7NAGN6jbQefwERFs)
+* [Kafka Offset Monitor - an app to monitor your kafka consumers and their position (offset) in the queue](https://github.com/quantifind/KafkaOffsetMonitor)
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
