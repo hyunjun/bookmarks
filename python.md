@@ -870,6 +870,7 @@ Python
   * [파이썬 Namespace 이해하기 20160510](http://www.slideshare.net/dahlmoon/namespace-20160510)
   * [파이썬 namespace Binding 이해하기](http://www.slideshare.net/dahlmoon/binding-20160229-58415344)
   * [파이썬에서 하기 쉬운 실수 #1 네임 스페이스](https://blog.naver.com/codeitofficial/221657031331)
+  * [파이썬에서 하기 쉬운 실수 #2 네임 스페이스](https://blog.naver.com/codeitofficial/221659084051)
 * os
   * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
   * [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2) shutil
