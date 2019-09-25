@@ -201,6 +201,7 @@ Business
 * [파워 유저 커브(스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
 * [“조언해달라”는 말로 회의 시작해 보라, 평범했던 직원의 잠재력이 터진다](http://dbr.donga.com/article/view/1201/article_no/9044)
 * [Launching? Landing!](http://www.andrewahn.co/product/launching-landing/) google은 제품에 대해 launch가 아니라 land로 사용. 어느 정도는 이해가 감
+* [프로그래머의 경력을 말아먹는 12가지 방법](https://ppss.kr/archives/63881)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
