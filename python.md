@@ -982,6 +982,11 @@ Python
     * [part 3 - sending and receiving Python Objects w/ Pickle](https://www.youtube.com/watch?v=WM1z8soch0Q)
     * [Socket Chatroom server - Creating chat application with sockets in Python](https://www.youtube.com/watch?v=CV7_stUWvBQ)
     * [Socket Chatroom client - Creating chat application with sockets in Python](https://www.youtube.com/watch?v=ytu2yV3Gn1I)
+  * 남의 컴퓨터를 내 마음대로 다룬다? - Python Reverse Shell
+    * [001 - Creating a Socket (파이썬 리버스 쉘 - 소켓 만들기)](https://creativeworks.tistory.com/entry/Python-Reverse-Shell001-Creating-a-Socket-파이썬-리버스-쉘-소켓-만들기)
+    * [002 - Binding the Socket and Listening for Connections (파이썬 리버스 쉘 - 소켓 묶기, 연결 대기)](https://creativeworks.tistory.com/entry/남의-컴퓨터를-내-마음대로-다룬다-Python-Reverse-Shell002-Binding-the-Socket-and-Listening-for-Connections-파이썬-리버스-쉘-소켓-묶기-연결-대기)
+    * [003 - Sending Commands to the Client (파이썬 리버스 쉘 - 클라이언트에게 명령어 보내기)](https://creativeworks.tistory.com/entry/남의-컴퓨터를-내-마음대로-다룬다-Python-Reverse-Shell003-Sending-Commands-to-the-Client-파이썬-리버스-쉘-클라이언트에게-명령어-보내기)
+    * [004 - Client Connection to Server (파이썬 리버스 쉘 - 클라이언트에서 서버에 연결하기)](https://creativeworks.tistory.com/entry/남의-컴퓨터를-내-마음대로-다룬다-Python-Reverse-Shell004-Client-Connection-to-Server-파이썬-리버스-쉘-클라이언트에서-서버에-연결하기?category=629705)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
