@@ -1283,6 +1283,7 @@ Python
 # Debugging
 * [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
 * [pdb 튜토리얼](https://github.com/mingrammer/pdb-tutorial)
+* [Start Python Debugging With pdb](https://www.youtube.com/watch?v=bHx8A8tbj2c)
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
 * [파이선에서의 디버깅](http://hamait.tistory.com/840)
 * [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
