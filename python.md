@@ -2441,8 +2441,6 @@ Python
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
 * [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
-* [pycallgraph - call graph visualizations for Python applications](http://pycallgraph.readthedocs.io/)
-  * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
@@ -2707,6 +2705,15 @@ Python
   * [2018 PyCon KR - Ring](https://www.slideshare.net/YunWonJeong/2018-pycon-kr-ring-110398431)
   * [ring - Function-oriented cache interface with built-in memcache & redis + asyncio support](https://github.com/youknowone/ring)
 * [supycache - Simple yet capable caching decorator for python](https://github.com/lonetwin/supycache)
+
+## Library callgraph
+* [Quick & Simple Call Graphs in Python](https://medium.com/parkbee-tech/quick-simple-call-graphs-in-python-eaa583d0e1b2)
+* [Callgraph - a Python package that defines a decorator, and Jupyter magic, to draw dynamic call graphs of Python function calls](https://pypi.org/project/callgraph/)
+* [Call Map: A Tool for Navigating Call Graphs in Python](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2017/july/call-map-a-tool-for-navigating-call-graphs-in-python/)
+* [Code2graph: Automatic Generation of Static Call-Graphs for Python Source Code](https://www.youtube.com/watch?v=ecctePpcAKU)
+* [Pyan3: Offline call graph generator for Python 3](https://github.com/davidfraser/pyan)
+* [pycallgraph - call graph visualizations for Python applications](http://pycallgraph.slowchop.com)
+  * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
 
 ## Ligrary image
 * **[10 Python image manipulation tools](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)**
@@ -3163,6 +3170,7 @@ Python
   * **[머신러닝 및 데이터 과학 연구자를 위한 python 기반 컨테이너 분산처리 플랫폼 설계 및 개발](https://www.slideshare.net/inureyes/python-164418964)** python이 아니라 프로젝트 설계 및 구현 관점에서 재미있게 볼 수 있는 이야기
   * [from banksalad import python](https://speakerdeck.com/sunghyunzz/from-banksalad-import-python) 뱅크샐러드의 사내 python이용에 관한 발표
   * [파이콘 한국 2019 스포카 코드 챌린지 수상작 및 참여작을 소개합니다](https://spoqa.github.io/2019/08/30/pycon-kr-code-challenge.html)
+  * [LINE 개발자 3인의 파이콘 한국 2019 방문기](https://engineering.linecorp.com/ko/blog/pycon-korea-2019/)
 * [PyOhio 2019 Surviving Without Python](https://www.youtube.com/watch?v=nJ31ZNpxTis) python 전반
 
 ## Conference PyData
