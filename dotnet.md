@@ -116,6 +116,7 @@
 * [Visual Studio 2017 + Entity Framework + MariaDB](http://bomdol.tistory.com/308)
 * [Visual Studio에서 C++ 파일을 utf-8로 저장하는 더 간편한 방법](https://surpreem.com/visual-studio%EC%97%90%EC%84%9C-c-%ED%8C%8C%EC%9D%BC%EC%9D%84-utf-8%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%8D%94-%EA%B0%84%ED%8E%B8%ED%95%9C-%EB%B0%A9%EB%B2%95/)
 * [비주얼스튜디오의 병렬스택 뷰](https://blog.naver.com/imays/221474972898)
+* [**.editorconfig 파일을 활용한 정적 코드 분석**](https://blog.aliencube.org/ko/2019/09/25/static-code-analysis-with-editorconfig/) FxCop, StyleCop
 
 ## Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
