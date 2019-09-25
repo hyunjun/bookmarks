@@ -116,6 +116,7 @@
 * [Kotlin(코틀린)의 Sequence에 대해 알아보자](https://developer88.tistory.com/182)
 * [Kotlin을 배워보자 part1(Basic Types, Function, Null, 타입 변환, Lambda)](https://developer88.tistory.com/152)
 * [Kotlin을 배워보자 part2(if, when, for, while, array, list, ranges)](https://developer88.tistory.com/175)
+* [Kotlin을 배워보자 part3 (Class, Constructor, 상속)](https://developer88.tistory.com/168)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
