@@ -1031,7 +1031,7 @@ Programming
 * [메모리 취약점:과거, 현재, 미래 (4) Heap Attacks](https://cpuu.postype.com/post/4002575)
 * [메모리 취약점:과거, 현재, 미래 (5) Format String Attacks](https://cpuu.postype.com/post/4042449)
 * [메모리 취약점:과거, 현재, 미래 (6) Address Space Layout Randomization (ASLR)](https://cpuu.postype.com/post/4077799)
-* [메모리 관리 전략(Memory Managing Strategy) 및 가상 메모리 (Virtual Memory)](https://jungwoon.github.io/os/2019/07/31/Virtual-Memory/)
+* [메모리 관리 전략(Memory Managing Strategy) 및 가상 메모리 (Virtual Memory)](https://jungwoon.github.io/2019/09/25/2019-07-31-Virtual-Memory/)
 
 # Message Queue
 * [구글 클라우드의 대용량 메세지 큐 Pub/Sub 소개](http://bcho.tistory.com/1120)
