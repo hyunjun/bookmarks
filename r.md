@@ -338,6 +338,7 @@ R
 * [행렬, 행렬, 행렬](http://ds.sumeun.org/?p=1966)
 * [피처 엔지니어링 2](http://ds.sumeun.org/?p=1979)
 * [피처 엔지니어링 3: 베이지안](http://ds.sumeun.org/?p=1989)
+* [코딩없는 데이터수집이 있다? 5분완성! 인공지능 RPA Go! 하자! #2](https://www.youtube.com/watch?v=JUERTTpv8LM)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -559,6 +560,7 @@ R
   * [#R샤이니 는 어떻게 작동되는 걸까요? Shiny R Go! 하자! 2편](https://www.youtube.com/watch?v=W2S3n8EW7t4)
   * [glove - Word Embedding 기법 중 하나인 Glove 를 소개하고, Feature Selection 기법을 Overview 합니다](https://github.com/shinykorea/glove)
   * [shiny_meeup_201908](https://github.com/takos1026/shiny_meeup_201908)
+  * [meetup 20190926](https://github.com/shinykorea/Meetup/tree/master/20190926)
   * [Login module for ShinyApps](https://jinseob2kim.github.io/LectureRpackage/shinymanager/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
