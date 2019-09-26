@@ -608,6 +608,7 @@ Programming
 * [**Data Consistency in Microservices Architecture (Grygoriy Gonchar)**](https://www.youtube.com/watch?v=CFdPDfXy6Y0)
 * [Data Consistency in Microservice Using Sagas](https://www.youtube.com/watch?v=txlSrGVCK18)
 * [우아한 멀티모듈 - 2019년 8월 우아한 Tech 세미나](https://jojoldu.tistory.com/444)
+* [Microservices: How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
