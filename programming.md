@@ -454,6 +454,7 @@ Programming
 * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
 * [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance) 대규모 서비스를 설계하는 기술 - 중급(일반편)
 * [설계의 중요성을 설명하기가 왜 어려웠을까?](https://huns.me/posts/2019-09-19-why-is-it-difficult-to-understand-the-importance-of-archictecture) clean architecture 문장 인용
+* [오버엔지니어링과 언더엔지니어링의 경계](https://huns.me/posts/2019-09-26-overengineering-vs-underengineering)
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
