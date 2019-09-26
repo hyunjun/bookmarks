@@ -261,10 +261,6 @@ AWS
 * [AWS의 오픈 소스 활동을 소개합니다!](https://aws.amazon.com/ko/blogs/korea/onwards-to-the-year-of-open-source)
 * [How We Built an Intrusion Detection System on AWS using Open Source Tools](https://medium.com/@samuelabiodun/how-we-built-an-intrusion-detection-system-on-aws-using-open-source-tools-8b755e965d54)
 * [7 ways to do containers on AWS](https://hackernoon.com/7-ways-to-do-containers-on-aws-532f812196f1)
-* [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
-  * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0)
-* [Packer와 Ansible을 이용한 표준 AMI 만들기](http://woowabros.github.io/experience/2019/04/20/ami-packer-ansible.html)
-* [AMI를 다른 리전으로 복사](https://jybaek.tistory.com/824)
 * [packer 활용 사례](https://andromedarabbit.net/packer-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80/)
 * [AWS에서 네트워크 공격 자동차단 하기](http://woowabros.github.io/security/2018/02/23/aws-auto-security1.html)
 * [AWS X-Ray 적용기](https://medium.com/@zeroweb.tech/aws-x-ray-%EC%A0%81%EC%9A%A9%EA%B8%B0-4e1c270c62fa)
@@ -563,6 +559,13 @@ AWS
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
+
+# AMI Amazon Machine Image
+* [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
+  * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0)
+* [Packer와 Ansible을 이용한 표준 AMI 만들기](http://woowabros.github.io/experience/2019/04/20/ami-packer-ansible.html)
+* [AMI를 다른 리전으로 복사](https://jybaek.tistory.com/824)
+* [An error occurred (InvalidParameter) when calling the ExportImage operation: The service role vmimport provided does not exist or does not have sufficient permissions](https://jybaek.tistory.com/836)
 
 # Library
 * [AWSInterface - 몇번의 클릭만으로 API를 구성하고 SDK를 배포](https://aws-interface.com)
