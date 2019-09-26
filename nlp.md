@@ -1338,6 +1338,7 @@ NLP
 
 # Word2Vec
 * [awesome-sentence-embedding - A curated list of pretrained sentence(and word) embedding models](https://github.com/Separius/awesome-sentence-embedding)
+* [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 * [An Idiot’s Guide to Word2vec Natural Language Processing](https://medium.com/@ODSC/an-idiots-guide-to-word2vec-natural-language-processing-5c3767cf8295)
 * [Modern Methods for Sentiment Analysis](https://districtdatalabs.silvrback.com/modern-methods-for-sentiment-analysis)
 * [Word vectors (word2vec) on named entities and phrases - I](http://www.vikasing.com/2015/03/word-vectors-word2vec-on-named-entities.html)
@@ -1355,6 +1356,7 @@ NLP
 * [Word2vec with Gensim - Python](https://www.youtube.com/watch?v=thLzt3D-A10)
 * [Getting started with Word2Vec in Gensim and making it work!](https://github.com/kavgan/data-science-tutorials/blob/master/word2vec/Word2Vec.ipynb)
 * [Gensim Word2Vec Tutorial – Full Working Example](http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code)
+* [Fast Sentence Embeddings is a Python library that serves as an addition to Gensim](https://github.com/oborchers/Fast_Sentence_Embeddings)
 * [word2vec tutorial](https://github.com/krikit/word2vec_tutorial)
   * [word2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/word2vec_tutorial.ipynb)
   * [doc2vec_tutorial.ipynb](https://github.com/krikit/word2vec_tutorial/blob/master/doc2vec_tutorial.ipynb)
