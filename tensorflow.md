@@ -522,6 +522,7 @@ TensorFlow
 * [번역 TensorFlow @ Google I/O ’19 Recap](https://jybaek.tistory.com/818)
 * [addons - Useful extra functionality for TensorFlow 2.0 maintained by SIG-addons](https://github.com/tensorflow/addons)
   * [Introducing TensorFlow Addons](https://medium.com/tensorflow/introducing-tensorflow-addons-6131a50a3dcf)
+* [TensorFlow 2.0 Full Tutorial - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=6g4O5UOH304)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
