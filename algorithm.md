@@ -542,6 +542,7 @@ Algorithm
 
 ## B Tree
 * [The Ubiquitous B-Tree](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
+* [**EBtree - Design for a Scheduler and Use (Almost) Everywhere**](https://www.youtube.com/watch?v=fXuYWqWsdFQ)
 
 ## Binary Search Tree BST
 * [BST Animation by Y. Daniel Liang](http://www.cs.armstrong.edu/liang/animation/web/BST.html) visualizer
