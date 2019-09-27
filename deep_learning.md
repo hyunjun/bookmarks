@@ -1310,6 +1310,7 @@ Deep Learning
 * **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
 * **[Practical Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)**
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
+* [fast.ai literate programming](https://medium.com/@dienhoa.t/fast-ai-literature-programming-2d0d4230dd81)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
   * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
 * [Advanced Deep Learning & Reinforcement Learning](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
