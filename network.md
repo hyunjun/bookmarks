@@ -58,13 +58,14 @@ Network
     * [301과 302 Redirect의 차이](https://nsinc.tistory.com/168)
     * [Apache 302 error 원인과 해결방법](https://blog.bsmind.co.kr/248)
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
-  * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
   * [HTTP란 무엇인가](https://www.zerocho.com/category/HTTP/post/5b344f3af94472001b17f2da)
   * [WEB2 - HTTP](https://opentutorials.org/course/3385)
   * **[HOW HTTPS WORKS](https://howhttps.works/)**
   * [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1](https://joshua1988.github.io/web-development/http-part1/)
   * [HTTP 헤더](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers)
-* [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
+  * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
+  * [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
+  * [**HTTP/3: 과거, 현재 그리고 미래**](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/) 전반적인 http 내용을 잘 설명
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
   * [HTTPS는 HTTP보다 빠르다](https://b.ssut.me/https-is-faster-than-http/)
