@@ -1171,6 +1171,7 @@ Python
   * [Asyncio, websockets, and BTC sitting in a tree - Giovanni Lanzani](https://www.youtube.com/watch?v=AcZJUQ3y2ek)
   * [John Reese - Thinking Outside the GIL with AsyncIO and Multiprocessing - PyCon 2018](https://www.youtube.com/watch?v=0kXaLh8Fz3k)
   * [Async/Awaiting Production](https://www.youtube.com/watch?v=NLaeCFr_FlI)
+  * [Dmitry Nazarov: "Future Pythonic Web: ASGI & Daphne"](https://www.youtube.com/watch?v=6xEKPsKBbD0)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
