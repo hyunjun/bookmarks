@@ -596,6 +596,7 @@ App
   * [zsh installation](https://github.com/Kevin-Lee/for-linux/blob/master/scripts/zsh/zsh-installation.md)
 * [MacBook: Dev Setup](https://hackernoon.com/macbook-dev-setup-5890e61a8f0a) homebrew, iterm2, zsh, sdkman등 설치 방법 소개
 * [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
+* [Mac os에 zsh 세팅하기](https://mishka86.github.io/2019/09/27/zsh-setting/)
 * [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [Back to Bash: Remove Zsh and terminal themes on a Mac step-by-step](https://medium.com/the-code-review/back-to-bash-remove-zsh-and-terminal-themes-on-a-mac-step-by-step-f89f69d2ec73)
