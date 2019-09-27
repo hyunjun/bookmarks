@@ -118,6 +118,7 @@
 * [Kotlin을 배워보자 part2(if, when, for, while, array, list, ranges)](https://developer88.tistory.com/175)
 * [Kotlin을 배워보자 part3 (Class, Constructor, 상속)](https://developer88.tistory.com/168)
 * [Kotlin을 배워보자 part4 (Data Class, Nested and Inner Class)](https://developer88.tistory.com/178)
+* [GOTO 2019 • Kotlin: Dissecting the stdlib • Huyen Tue Dao](https://www.youtube.com/watch?v=uCMuGVh7W_0)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
