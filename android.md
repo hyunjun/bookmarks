@@ -134,6 +134,7 @@ Android
 * [Google Ads에 광고하는 방법](https://developer88.tistory.com/201)
 * [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
 * [핸들러와 루퍼(Handler & Looper)](https://jungwoon.github.io/android/2019/09/25/Handler-Looper/)
+* [안드로이드에서 더욱 똑똑한 애니메이션 만들기](https://developers-kr.googleblog.com/2019/09/motional-intelligence-build-smarter-animations.html)
 
 # Android Studio
 * [Android Studio 새로운 메모리 분석 도구를 품다! (Hello!! Allocation Tracker)](https://arload.wordpress.com/2015/08/11/android-studio-hello-allocation-tracker/)
