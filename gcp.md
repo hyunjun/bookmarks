@@ -95,3 +95,4 @@ Google Cloud Platform GCP
 * [Google Introduces Cloud Storage Connector for Hadoop Big Data Workloads](https://www.infoq.com/news/2019/09/Google-Cloud-Storage-Hadoop/)
 * [Next '19 Recap Seoul](https://www.youtube.com/playlist?list=PLBgogxgQVM9vM5TCEwKidxbHKvtMvj7pB)
 * [Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver](https://cloud.google.com/blog/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver)
+* [GCP 인스턴스 그룹](https://jybaek.tistory.com/837)
