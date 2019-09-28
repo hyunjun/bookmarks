@@ -542,6 +542,7 @@ Javascript
 * [🎨 How To Style Angular Application Loading With Angular CLI Like a Boss 😎](https://medium.com/@tomastrajan/how-to-style-angular-application-loading-with-angular-cli-like-a-boss-cdd4f5358554)
 * [6 Best Practices & Pro Tips when using Angular CLI](https://medium.com/@tomastrajan/6-best-practices-pro-tips-for-angular-cli-better-developer-experience-7b328bc9db81)
 * [The Angular Library Series - Creating a Library with Angular CLI](https://blog.angularindepth.com/creating-a-library-in-angular-6-87799552e7e5)
+* [Installing Angular with Angular-CLI in a Couple of Minutes](https://codeburst.io/how-to-build-an-angular-app-with-angular-cli-in-a-couple-of-minutes-43089d3ab272)
 * [Introduction to Angular 2.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540)
 * [Angular, Angular2, 그리고 Typescript](http://hackya.com/kr/angular-angular2-%EA%B7%B8%EB%A6%AC%EA%B3%A0-typescript/)
 * [Angular 2 and the Future of HTML5 Apps Brad Green (Google)](https://conferences.oreilly.com/fluent/fl-ca/public/content/future-of-html5-apps)
@@ -601,6 +602,7 @@ Javascript
 * [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
 * [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 * [Change Detection 중심 Angular 최적화 방법](https://medium.com/coinone-official/change-detection-중심-angular-최적화-방법-957962ba3d2e)
+* [3 ways to communicate between Angular components](https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
