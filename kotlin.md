@@ -118,6 +118,7 @@
 * [Kotlin을 배워보자 part2(if, when, for, while, array, list, ranges)](https://developer88.tistory.com/175)
 * [Kotlin을 배워보자 part3 (Class, Constructor, 상속)](https://developer88.tistory.com/168)
 * [Kotlin을 배워보자 part4 (Data Class, Nested and Inner Class)](https://developer88.tistory.com/178)
+* [Kotlin을 배워보자 part5 (Object Expression and Declaration,  Companion Object)](https://developer88.tistory.com/179)
 * [GOTO 2019 • Kotlin: Dissecting the stdlib • Huyen Tue Dao](https://www.youtube.com/watch?v=uCMuGVh7W_0)
 
 # Android
