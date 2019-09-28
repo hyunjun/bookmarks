@@ -797,6 +797,7 @@ Machine Learning
 * [DataBreak2018: Hello Kaggler -Keynote2 (이정윤 님, data scientist, Microsoft)](https://www.youtube.com/watch?v=pihob75h020)
 * [사이먼킴의 데이터과학 1화 - 데이터 살펴보기](https://www.youtube.com/watch?v=qPRE3VaqT00)
 * [사이먼킴의 데이터과학 2화 - 데이터 살펴보기(2부)](https://www.youtube.com/watch?v=SnYN_haa4xM)
+* [실습으로 배우는 데이터 사이언스](https://programmers.co.kr/learn/courses/21)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -976,6 +977,7 @@ Machine Learning
 * [4 Machine Learning Techniques with Python](https://medium.com/@rinu.gour123/4-machine-learning-techniques-with-python-ceee451b0085)
 * [setscholars.net](https://setscholars.net/) Applied Data Science in Business & Biological Sciences: Python, R & MATLAB Codes for Beginners
 * [Custom Transformers and ML Data Pipelines with Python](https://towardsdatascience.com/custom-transformers-and-ml-data-pipelines-with-python-20ea2a7adb65)
+* [How to Transform Research Oriented Code into Machine Learning APIs with Python](https://speakerdeck.com/tetsuya0617/how-to-transform-research-oriented-code-into-machine-learning-apis-with-python) ML에서의 refactoring에 대한 이야기
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
