@@ -294,6 +294,7 @@ Algorithm
 * [Introduction to Genetic Algorithms — Including Example Code](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3)
 * [Genetic Algorithm Implementation in Python](https://www.kdnuggets.com/2018/07/genetic-algorithm-implementation-python.html)
 * [GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython)
+* [Genetic Algorithm Implementation in Python](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)
 
 # Graph
 * [2016 그래프이론](https://www.youtube.com/playlist?list=PL52K_8WQO5oXTfEr3nVK3HllrB71hZ-AF)
