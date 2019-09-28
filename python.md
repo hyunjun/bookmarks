@@ -1558,6 +1558,7 @@ Python
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (1)](https://woolbro.tistory.com/35)
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (2)](https://woolbro.tistory.com/36)
+* [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
 * **[Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io ](https://github.com/ricklamers/gridstudio)**
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
@@ -3000,6 +3001,7 @@ Python
 * [판다스 코드 속도 최적화를 위한 초보자 안내서](https://aldente0630.github.io/data-science/2018/08/05/a-beginners-guide-to-optimizing-pandas-code-for-speed.html)
 * [PyData Tel Aviv Meetup: Getting to Know any Dataset in 4 Lines of Python - Eyal Trabelsi](https://www.youtube.com/watch?v=ue889FbMyQE) `pandas_profiling`, `pivottablejs`, `pydqc.data_compare`
 * [One-stop Guide to Data Manipulation in Python](https://medium.com/analytics-vidhya/python-data-manipulation-fb86d0cdd028) 여러가지 pandas 사용법 예제
+* [Learn a new pandas trick every day!](https://www.dataschool.io/python-pandas-tips-and-tricks/)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
