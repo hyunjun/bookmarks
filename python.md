@@ -1432,7 +1432,6 @@ Python
 * [Analyzing Django requirement files on GitHub](https://pyup.io/posts/analyzing-django-requirement-files-on-github/)
 * [5 ways to make Django Admin safer](https://hackernoon.com/5-ways-to-make-django-admin-safer-eb7753698ac8)
 * [Optimizing Django Admin Paginator](https://medium.com/@hakibenita/optimizing-django-admin-paginator-53c4eb6bfca3)
-* [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [Django 템플릿에서 VariableDoesNotExist 예외 오류 대응하기](http://blog.hannal.com/2017/06/django-template-variabledoesnotexist-exception/)
 * [select_related, prefetch_related 그리고 debug toolbar](https://leop0ld.github.io/django/2017/06/27/django-query-optimization.html)
 * DjangoTDDStudy
@@ -2205,7 +2204,6 @@ Python
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
   * [cffi-example: an example project showing how to use Python's CFFI](https://github.com/wolever/python-cffi-example)
   * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
-* [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [Clutterm - A clutter based terminal written in pure python (no vte lib)](https://github.com/paradoxxxzero/clutterm)
   * [python xterm linux terminal](http://gildang.co.kr/?p=2442)
 * [colout - a simple command to add colors to a text stream in your terminal](http://nojhan.github.io/colout/)
@@ -2370,9 +2368,6 @@ Python
 * [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
 * [Lark - a modern parsing library](https://github.com/erezsh/Lark)
   * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
-* [Librosa - audio and music processing in Python](https://librosa.github.io)
-  * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
-  * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
 * [LightNet: Bringing pjreddie's DarkNet out of the shadows](https://github.com/explosion/lightnet)
 * [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in \<95 lines](https://github.com/vpostman/logcoin)
@@ -2853,6 +2848,14 @@ Python
 * [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 * [Sungchul Lee](https://www.youtube.com/user/sungchulyonseiackr/playlists) 연대 수학과 교수
 * [Microsoft: We want you to learn Python programming language for free](https://www.zdnet.com/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/)
+
+# Music
+* [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
+* [파이썬으로 계이름 맞히기](https://fishneverdies.tistory.com/28)
+* [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
+* [Librosa - audio and music processing in Python](https://librosa.github.io)
+  * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
+  * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
