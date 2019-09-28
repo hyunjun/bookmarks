@@ -3,6 +3,7 @@
 * [OmniSharp - Cross platform .NET development](http://www.omnisharp.net/)
 * [Visual C++ Cross-Platform Mobile](https://www.visualstudio.com/en-us/explore/cplusplus-mdd-vs)
 * [The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs](https://github.com/dotnet/roslyn)
+* [Available templates for dotnet new](https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new)
 * [dev.modern.ie](http://dev.modern.ie)
 * [Deep Dive into XAML and .NET Universal Windows App Development](http://channel9.msdn.com/Events/Build/2015/2-790)
 * [MS "C#·닷넷 개발자여 일어나라"](http://m.zdnet.co.kr/news_view.asp?article_id=20150515151809&lo=zm11)
