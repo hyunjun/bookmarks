@@ -39,6 +39,7 @@ Android
 * [액티비티와 프래그먼트에서 벗어나 간결하게 Android 앱 만들기](https://realm.io/kr/news/sf-fabien-davos-modern-android-ditching-activities-fragments/)
 * [안드로이드 액티비티(Activity) 정리하기 - 생명 주기(Lifecycle) 백 스택(Backstack)](https://jungwoon.github.io/android/2019/07/15/Activity/)
 * [startActivity가 안돼요](http://sunphiz.me/wp/archives/3296)
+* [메인 액티비티 실행이 안돼요](http://sunphiz.me/wp/archives/3258)
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
 * [DataBinding - Goodbye 버터나이프 Hello 데이터바인딩](http://gun0912.tistory.com/71)
 * [어썸블로그, 안드로이드 괴발개발기](https://brunch.co.kr/@lonnie/29)
