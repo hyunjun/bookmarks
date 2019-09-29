@@ -169,6 +169,7 @@ PyTorch
 * [From Research to Production with PyTorch](https://www.infoq.com/presentations/pytorch-torchscript-botorch/)
 * [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 * [From Research to Production with PyTorch](https://www.youtube.com/watch?v=EkELQw9tdWE)
+* [Policy Gradient with PyTorch and Python Class Structure](https://gist.github.com/jskDr/9b9d7ce98d25632a0b1d5184bdbafc7c)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
