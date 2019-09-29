@@ -406,6 +406,7 @@ Python
 * [Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
 * [15 Python Projects in Under 15 Minutes (Code Included)](https://www.youtube.com/watch?v=OXi4T58PwdM)
 * [초간단 업무자동화 코딩 강좌 #1/10:상장 일괄제작 | 회사원생존코딩](https://www.youtube.com/watch?v=1pC_UXhiJH8) 아래아한글
+* [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
