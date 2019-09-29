@@ -2420,6 +2420,7 @@ Javascript
 * [10 Advanced TypeScript Questions For An Interview — With Answers](https://medium.com/hackernoon/10-advanced-typescript-questions-for-an-interview-with-answers-6f0513b1688e)
 * [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 * [구글, 애플 인앱 영수증 결제 검증 웹 서비스 리뉴얼](https://blog.totu.dev/2019/09/16/renew-receipt-validation/)
+* [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
