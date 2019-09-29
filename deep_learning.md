@@ -1207,6 +1207,7 @@ Deep Learning
   * [GluonNLP v0.7.1 — BERT Reloaded](https://medium.com/apache-mxnet/gluonnlp-v0-7-1-bert-reloaded-7b9450d33f4b)
   * [Deep Learning Programming Style](https://mxnet.incubator.apache.org/versions/master/architecture/program_model.html) symbolic vs. iterative programming style
   * [**Pycon 2019 Gluon Tutorial 딥러닝 NLP 손쉽게 따라해보기**](https://github.com/seujung/gluonnlp_tutorial)
+  * [Apache MXNet/gluon on Colab](https://gist.github.com/serithemage/54bf347b41980b98ade2353b2e27d899)
 * [netron - Visualizer for neural network, deep learning and machine learning models https://www.lutzroeder.com/ai ](https://github.com/lutzroeder/netron) 신경망, 딥러닝 모델 시각화 툴이자 뷰어
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [NN-SVG - Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/index.html) visualization
@@ -1286,6 +1287,7 @@ Deep Learning
   * [코드, 수학, 그리고 토론과 함께하는 상호적인 딥러닝 책](http://ko.d2l.ai)
   * [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html)
   * [**d2l-pytorch - This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch**](https://github.com/dsgiitr/d2l-pytorch)
+  * [Dive into Deep Learning](https://ko.d2l.ai)
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
   * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)
