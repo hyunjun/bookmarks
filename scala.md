@@ -403,7 +403,6 @@ Scala
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
-* [38 lines of code towards better data validation in Scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76) monad transformers, type classes, tagless final
 * [Don't Use Await.result!](https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
@@ -762,6 +761,8 @@ Scala
 * [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
 * [Structuring Functional Programs with Tagless Final](https://medium.com/@andreas.hartmann/structuring-functional-programs-with-tagless-final-33af9e1dd0d)
+* [38 lines of code towards better data validation in Scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76) monad transformers, type classes, tagless final
+* [Revisiting Tagless Final Interpreters](https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80)
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
@@ -814,6 +815,7 @@ Scala
   * [A Snippet of Dotty](https://medium.com/@jducoeur/a-snippet-of-dotty-27eadcee72e3)
   * [The New Collections Library for Scala 2.13 and Dotty—Stefan Zeiger](https://www.youtube.com/watch?v=ofbaM7Yz3IM)
   * [“The” as a method?](https://medium.com/@jducoeur/the-as-a-method-dae559d3c1c)
+  * ["Revisiting Tagless Final Interpreters" in Scala Dotty (0.19.0)](https://web.facebook.com/notes/한국-scala-개발자-그룹/revisiting-tagless-final-interpreters-in-scala-dotty-0190/2438394589738937/)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
