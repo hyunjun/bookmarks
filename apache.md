@@ -197,6 +197,7 @@ Apache
 * [Running Apache Flink on Kubernetes](https://jobs.zalando.com/tech/blog/running-apache-flink-on-kubernetes)
   * 모니터링(prometheus) 연결; flink /opt 안에 있는 prometheus jar 파일을 /lib 에 옮기고 flink-confi.yaml 에 metrics 부분 설정해준후에 job/task pod annotation 에 prometheus.io/port 와 prometheus.io/scrape 만 설정하면 prometheus sd가 잘 수집
 * [Berlin 2019](https://berlin-2019.flink-forward.org/conference-program)
+* [europe-2019.flink-forward.org/conference-program](https://europe-2019.flink-forward.org/conference-program)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
