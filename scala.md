@@ -252,6 +252,7 @@ Scala
 * [Notes about Avro Schema Evolution using Binary Encoding](https://medium.com/@ashwanth.kumar/notes-about-avro-schema-evolution-using-binary-encoding-974c7a3429a2)
 * [A journey into safer and cleaner code in Scala with real-life examples](https://medium.com/krakow-scala/a-journey-into-safer-and-cleaner-code-in-scala-with-real-life-examples-e3b7c385e144)
 * [SCALA TIMES](https://twitter.com/ScalaTimes)
+* [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, eithert
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
