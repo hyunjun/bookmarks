@@ -514,6 +514,7 @@ Javascript
 * [Handling Time Zone in JavaScript](https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d)
 * [JavaScript rAF (requestAnimationFrame) in nutshell](https://itnext.io/javascript-raf-requestanimationframe-456f8a0d04b0)
 * [NetFUNNEL 우회하기 대기없이 서민형 안심전환대출 신청하기](https://libsora.so/post/bypass-netfunnel/)
+* [LINE의 웹 기반 서비스와 기술 – LINE은 앱 만드는 회사 아닌가요?](https://engineering.linecorp.com/ko/blog/line-web-services-and-techs/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
