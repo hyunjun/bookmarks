@@ -149,6 +149,7 @@ Finance
 * **[파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 I](http://blog.alphasquare.co.kr/221602425951)**
 * **[파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 II](http://blog.alphasquare.co.kr/221611131960)**
 * [파이썬으로 시작하는 자산배분 투자 - 기대수익률과 위험 측정하기](http://blog.naver.com/anthouse28/221640874003)
+* [파이썬을 활용한 자산배분 투자 - Risk와 Return 살펴보기](http://blog.alphasquare.co.kr/221659114871)
 * [eBest Xing api 실시간조회, 테스트 및 실행 화면 (8)](http://malchooni.name/%ED%8C%8C%EC%9D%B4%EC%8D%AC-ebest-xing-api-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A1%B0%ED%9A%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4-8/)
 * [FinanceDataReader - Financial price data reader (an alternative to google finance and yahoo finance in pandas-datareader)](https://github.com/FinanceData/FinanceDataReader)
   * [FinanceDataReader](https://financedata.github.io/FinanceDataReader/)
