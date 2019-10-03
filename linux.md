@@ -643,6 +643,7 @@ Linux
 
 # [Tmux](https://tmux.github.io/)
 * [install](http://linoxide.com/how-tos/install-tmux-manage-multiple-linux-terminals/)
+* [Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
 * **[A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)**
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
