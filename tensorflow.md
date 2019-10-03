@@ -863,6 +863,7 @@ TensorFlow
   * self-attention의 개념이 적용되어 실제로 필터들이 이미지의 어느 곳을 집중해서 보고있는지 까지 확인 가능
   * 왼쪽은 실제 attention이 어디에서 잡히는지, 오른쪽은 실제 벽돌깨기 환경
   * 움직이는 공과 하단의 바가 attention으로 잡히는 것을 확인 가능
+* [Tensorflow 2.0 강화학습 코드 작성(off policy A2C)](https://blog.naver.com/misskim0806/221667239811)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
