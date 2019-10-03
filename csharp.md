@@ -69,6 +69,7 @@ C#
 * IHttpActionResult
   * [Choose the right return type for WebApi controllers](https://alastaircrabtree.com/choose-the-right-return-type-for-webapi-controllers/)
 * Linq
+  * [linqpad - The .NET Programmer’s Playground](https://www.linqpad.net)
   * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
 * [moq - The most popular and friendly mocking library for .NET](https://github.com/moq/moq4)
   * [Why does the property I want to mock need to be virtual?](https://stackoverflow.com/questions/5670902/why-does-the-property-i-want-to-mock-need-to-be-virtual)
