@@ -124,6 +124,7 @@ Algorithm
 * [2019 카카오 신입 공채 1차 코딩 테스트 문제 해설](http://tech.kakao.com/2018/09/21/kakao-blind-recruitment-for2019-round-1/)
 * [코드 페스티벌 2018 본선 이야기](http://tech.kakao.com/2018/09/12/code-festival-2018-round-2/)
 * [2019 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](http://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/) elevator 엘레베이터 시뮬레이션
+* [2020 신입 개발자 블라인드 채용 1차 코딩 테스트 문제 해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
 * [카카오 BILND 공채 코딩 테스트 강의](https://github.com/ndb796/KAKAO-RECRUITMENT)
 * [2018년도 카카오 블라인드 코딩 테스트 채용 - 전체 문제풀이 (총 38분)](https://www.youtube.com/watch?v=Rgw0fo6isUM)
 * [2019년 상반기 LINE 인턴 채용 코딩테스트 문제 해설](https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/)
