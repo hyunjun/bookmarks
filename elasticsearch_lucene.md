@@ -227,6 +227,7 @@ ElasticSearch - Lucene
   * [6 X-Pack Security를 이용한 SSL 및 TLS 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-6/)
   * [7 X-Pack License 적용 및 신규 사용자 생성](http://kimjmin.net/2018/01/2018-01-build-es-cluster-7/)
   * [8 Logstash 설치 및 Elasticsearch 기본 템플릿 설정](http://kimjmin.net/2018/01/2018-01-build-es-cluster-8/)
+* [Elasticsearch Cluster Auto Scaling 구성 하기](https://jjeong.tistory.com/1387)
 * [Deploying Elasticsearch at Coinbase](https://www.youtube.com/watch?v=u5j0MOpIkV0)
 * [Benchmarking Elasticsearch: 1 Million Writes per Sec](https://medium.appbase.io/benchmarking-elasticsearch-1-million-writes-per-sec-bf37e7ca8a4c)
 * [Cyphon - An Open Source Incident Management and Response Platform](https://www.cyphon.io/)
@@ -344,6 +345,7 @@ ElasticSearch - Lucene
 * [Elastic Stack 7.0 출시 밎 지금까지의 변경들](http://kimjmin.net/2019/04/2019-04-elastic-stack-7-release/)
 * [Node Topology 7.x](https://jjeong.tistory.com/1376)
 * [Elastic Stack Version 7.2: Feature Tour](https://www.youtube.com/watch?v=bmx13X87e2s)
+* [Elastic Stack 7.4.0 출시](https://www.elastic.co/kr/blog/elastic-stack-7-4-0-released)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
@@ -372,6 +374,7 @@ ElasticSearch - Lucene
   * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM)
   * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw)
 * [okdevtv.com/mib/elk/elk6](https://okdevtv.com/mib/elk/elk6)
+* [**okdevtv.com/mib/elk/elk7**](https://okdevtv.com/mib/elk/elk7)
 * [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 * **[엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)**
 
@@ -485,6 +488,9 @@ ElasticSearch - Lucene
   * [Python POST binary data](http://stackoverflow.com/questions/14365027/python-post-binary-data) post bulk --data-binary
   * [python-requests equivalent to curl's --data-binary?](http://stackoverflow.com/questions/17680688/python-requests-equivalent-to-curls-data-binary)
   * [elasticsearch bulk indexing using python](http://stackoverflow.com/questions/19271943/elasticsearch-bulk-indexing-using-python)
+* scouter
+  * [엘라스틱 스카우터 플러그인 밋업](https://docs.google.com/presentation/d/1cPTi9nDR0hrs5WkKN5bMQiyGPOPnD7MHq3aP_MopUNw/)
+    * [스카우터 서버 플러그인을 활용한 Elastic Stack 연동](https://www.youtube.com/watch?v=wMcWilecZXU)
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
 * [so-elastalert-create](https://github.com/bryant-treacle/so-elastalert-create)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
