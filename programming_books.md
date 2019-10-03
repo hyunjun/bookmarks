@@ -94,6 +94,7 @@ Programming Books
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
 * (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
+* (NOT YET) [카이젠 저니: 나와 팀이 함께 자라는 애자일 여행](https://jpub.tistory.com/959)
 
 # Algorithm
 
@@ -1348,6 +1349,7 @@ Programming Books
   * ['Discovering Statistics Using R' 번역서 '앤디 필드의 유쾌한 R 통계학' 출간 소식 및 근황](http://occamsrazr.net/tt/350)
 * (NOT YET) [R로 배우는 텍스트마이닝](https://jpub.tistory.com/924)
 * (NOT YET) [R을 이용한 퀀트 투자 포트폴리오 만들기](https://jpub.tistory.com/946)
+* (NOT YET) [R을 이용한 조건부과정분석 - 매개분석, 조절분석 및 조절된 매개분석](http://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=4467)
 
 # Scala
 
