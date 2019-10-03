@@ -22,6 +22,7 @@ Programmer
 * [30년간 개발자로 살면서 배운 것 Lessons From A Lifetime Of Being A Programmer](https://taegon.kim/archives/6546)
 * **[실리콘밸리 전설들의 수다: Masters of Scale](http://www.andrewahn.co/silicon-valley/masters-of-scale/)**
 * [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
+* [**I Read 21 Articles About How to Become a Senior Developer So You Don't Have To**](https://dev.to/mibzman/i-read-21-articles-about-how-to-become-a-senior-developer-so-you-don-t-have-to-4dap/)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
