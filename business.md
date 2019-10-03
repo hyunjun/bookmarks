@@ -350,6 +350,8 @@ Business
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
 * ["솔직히 말하면 다양성은 개소리야"](https://brunch.co.kr/@svillustrated/58) 한 가지 기준으로만 팀을 구성했을 때 나타난 문제점
 * [혼내는 것도 요령이 있다](http://moneyman.kr/archives/1584)
+* [리더로 뽑히는 사소한 습관: ① 태도](https://ppss.kr/archives/194512)
+* [리더로 뽑히는 사소한 습관: ② 매력](https://ppss.kr/archives/194510)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
