@@ -409,6 +409,8 @@ Scala
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
 * `:type` or `:t`
+* BigDecimal
+  * [Be careful when using BigDecimal in Scala 2.13](https://blog.kevinlee.io/2019/09/29/be-careful-when-using-bigdecimal-in-scala-2.13/)
 * BitSet
   * [Classic Computer Science Problems in ̶P̶y̶t̶h̶o̶n̶ Scala — Trivial Compression](https://medium.com/@bschlining/classic-computer-science-problems-in-%CC%B6p%CC%B6y%CC%B6t%CC%B6h%CC%B6o%CC%B6n%CC%B6-scala-trivial-compression-68506adf25dd)
 * case class
@@ -803,6 +805,7 @@ Scala
 * [running sbt on Docker](http://eed3si9n.com/sbt-on-docker)
 * [The basics of the build.sbt](https://medium.com/@pwdd/the-basics-of-the-build-sbt-bbf81a0aa8d0)
 * [Scala sbt Project Directory Walkthrough](https://medium.com/@wangyunlongau/scala-sbt-project-directory-structure-c254bb08623e)
+* [Switching sbt Sub-projects easily with sbt-project-switcher](https://blog.kevinlee.io/2019/09/30/switching-sbt-subprojects-easily-with-sbt-project-switcher/)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   
@@ -851,6 +854,7 @@ Scala
 * [Alphabet Soup: Type-level transformations](https://medium.com/@jdrphillips/alphabet-soup-type-level-transformations-eb60918af35d)
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
 * [(47) ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
+* [Save Your Time on Algebraic Data Type (ADT) Creation in Scala](https://blog.kevinlee.io/2019/10/01/save-your-time-on-algebraic-data-type-creation-in-scala/)
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
