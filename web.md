@@ -394,6 +394,7 @@ Web
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
+* [CODEF API - 인코딩, 암호화 등 API 요청에 필요한 전처리 작업을 최소화하고 쉽게 개발할 수 있는 API](https://github.com/dc7303/easy-codef-py)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
   * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
 * [devd, a small, self-contained, command-line-only HTTP server for developers](http://corte.si/posts/devd/intro/index.html)
