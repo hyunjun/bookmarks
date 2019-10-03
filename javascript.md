@@ -2011,6 +2011,7 @@ Javascript
 * [Intermediate React Tutorial - Todoist Clone (with Firebase, Custom Hooks, SCSS, React Testing)](https://www.youtube.com/watch?v=hT3j87FMR6M)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 * [React Transition 강좌](https://www.miriya.net/p/271)
+* [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2221,6 +2222,7 @@ Javascript
   * [리액트 라우터 사용하기 (타입스크립트 버전)](http://jeonghwan-kim.github.io//dev/2019/07/08/react-router-ts.html)
   * [react-router을 사용하여 React(리액트)에서 페이지 전환을 사용해 봅시다](https://dev-yakuza.github.io/ko/react/react-router/)
   * [리액트 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn)
+  * [React-router v5.1, 무엇이 달라졌을까?](https://john015.netlify.com/react-router-v-5-1-무엇이-달라졌을까)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
 * [React Static Site](http://braddenver.com/blog/2015/react-static-site.html)
@@ -2384,6 +2386,7 @@ Javascript
 * [My new best friend TypeScript](https://levelup.gitconnected.com/my-new-best-friend-typescript-2a5ca8399622)
 * [TypeScript — JavaScript with superpowers](https://medium.freecodecamp.org/typescript-javascript-with-super-powers-a333b0fcabc9)
 * [타입스크립트 2.8로 타이핑을 리듀서까지](https://medium.com/@deptno/strong-typed-redux-action-ts2-8-b368243c20cf)
+* [**TypeScript 환경에서 Redux를 프로처럼 사용하기**](https://velog.io/@velopert/use-typescript-and-redux-like-a-pro)
 * [Real Time Apps with TypeScript: Integrating Web Sockets, Node & Angular](https://medium.com/dailyjs/real-time-apps-with-typescript-integrating-web-sockets-node-angular-e2b57cbd1ec1)
 * [Ultimate React Component Patterns with Typescript 2.8](https://levelup.gitconnected.com/ultimate-react-component-patterns-with-typescript-2-8-82990c516935)
 * [TypeScript vs.  JavaScript](https://hackernoon.com/typescript-vs-javascript-b568bc4a4e58)
