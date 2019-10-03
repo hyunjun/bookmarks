@@ -380,6 +380,7 @@ Programming
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Clean Architecture 1/2](https://jusths.tistory.com/149)
 * [Clean Architecture 2/2](https://jusths.tistory.com/150)
+* [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -1348,6 +1349,7 @@ Programming
   * [기술 뉴스 #132 : 19-08-15](https://blog.outsider.ne.kr/1456)
   * [기술 뉴스 #133 : 19-09-02](https://blog.outsider.ne.kr/1458)
   * [기술 뉴스 #134 : 19-09-15](https://blog.outsider.ne.kr/1460)
+  * [기술 뉴스 #135 : 19-10-01](https://blog.outsider.ne.kr/1462)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1369,6 +1371,7 @@ Programming
   * [월간 개발자스럽다 #44](https://blog.gaerae.com/2019/06/monthly.html)
   * [월간 개발자스럽다 #45](https://blog.gaerae.com/2019/07/monthly.html)
   * [월간 개발자스럽다 #46](https://blog.gaerae.com/2019/08/monthly.html)
+  * [월간 개발자스럽다 #47](https://blog.gaerae.com/2019/09/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 
 # OS Operating System
