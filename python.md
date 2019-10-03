@@ -1984,6 +1984,7 @@ Python
 * ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
 * **[JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture](https://github.com/jupyterlab/jupyterlab)**
+  * [jupyterlab.readthedocs.io](https://jupyterlab.readthedocs.io/)
   * [JupyterLab: the next generation of the Jupyter Notebook](http://blog.jupyter.org/2016/07/14/jupyter-lab-alpha/)
   * [JupyterLab: The Next-Generation Jupyter Frontend](https://www.youtube.com/watch?v=w7jq4XgwLJQ)
   * [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
@@ -3280,6 +3281,7 @@ Python
 * [python testing](http://pythontesting.net/)
 * [Unit Tests in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 * [Reduce testing time by Multiprocessing in python](https://www.slideshare.net/SangJuneAhn/reduce-testing-time-by-multiprocessing-in-python-138982022)
+* faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
   * [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
