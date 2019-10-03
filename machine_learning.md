@@ -887,6 +887,8 @@ Machine Learning
 * [하버드, 스탠포드, AI 온라인 강의 쏟아진다](http://1boon.kakao.com/kakao-it/ai_online_lecture)
 * [(기계학습,인공지능,머신러닝) 한국어 기계 학습 강좌 심화 1](https://www.youtube.com/playlist?list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
 * [머신러닝(기계학습) 이해하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq-3bSiCeaBJhE5Km5TKFhh) scikit-learn
+* [아빠가 들려주는 머신 러닝](https://www.youtube.com/playlist?list=PLQrL7n-YSrfcTyjKpMP-sCKRQV_lSjQqF)
+  * [다양한 머신러닝 방법들](https://blog.naver.com/kjhnav/221359372049)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 * [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
