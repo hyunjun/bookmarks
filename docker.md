@@ -815,6 +815,7 @@ Docker
 * [Red Hat! and After 1 year](http://naleejang.tistory.com/204)
 * [Load balancer as a service Octavia](https://naleejang.tistory.com/212)
 * [Octavia Amphora Instance](https://naleejang.tistory.com/213)
+* [How to operate containerized OpenStack](https://www.slideshare.net/NaleeJang/how-to-operate-containerized-openstack-178346398)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
