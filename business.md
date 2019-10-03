@@ -463,6 +463,7 @@ Business
 * [한국의 스타트업 지도](https://estimastory.com/2019/08/21/startupmap/)
 * [글로벌 유니콘 지도](https://www.thestartupbible.com/2019/09/the-global-unicorn-map.html)
 * [무시하고, 비웃고, 싸우기, 그리고 이기기](https://www.thestartupbible.com/2019/09/first-they-ignore-you-then-they-laugh-at-you-then-they-fight-you-then-you-win.html)
+* [Glimpse 2019.09 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2160)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
