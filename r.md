@@ -339,6 +339,7 @@ R
 * [피처 엔지니어링 2](http://ds.sumeun.org/?p=1979)
 * [피처 엔지니어링 3: 베이지안](http://ds.sumeun.org/?p=1989)
 * [코딩없는 데이터수집이 있다? 5분완성! 인공지능 RPA Go! 하자! #2](https://www.youtube.com/watch?v=JUERTTpv8LM)
+* [라그랑주 승수법](http://ds.sumeun.org/?p=1999)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
