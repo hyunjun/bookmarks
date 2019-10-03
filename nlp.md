@@ -1116,6 +1116,7 @@ NLP
 * [A Beginner’s Guide on Sentiment Analysis with RNN](https://towardsdatascience.com/a-beginners-guide-on-sentiment-analysis-with-rnn-9e100627c02e)
 * [Sentiment Classification with Natural Language Processing on LSTM](https://blog.usejournal.com/sentiment-classification-with-natural-language-processing-on-lstm-4dc0497c1f19)
 * [Sentiment Analysis: Concept, Analysis and Applications](https://blog.paralleldots.com/product/contextual-sentiment-analysis-applications)
+* [sentiment_dataset](https://github.com/AcademiaSinicaNLPLab/sentiment_dataset)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
