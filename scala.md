@@ -253,6 +253,10 @@ Scala
 * [A journey into safer and cleaner code in Scala with real-life examples](https://medium.com/krakow-scala/a-journey-into-safer-and-cleaner-code-in-scala-with-real-life-examples-e3b7c385e144)
 * [SCALA TIMES](https://twitter.com/ScalaTimes)
 * [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, eithert
+* JVM configuration for Scala Functional Programming
+  * [`-XX:MaxInlineLevel=18 -XX:MaxInlineSize=270 -XX:MaxTrivialSize=12`](https://twitter.com/leifwickland/status/1179419045055086595)
+  * [`-XX:MaxInlineLevel=18`](https://github.com/scala/bug/issues/11627#issuecomment-514490505)
+  * [Tweak the Java JIT](https://scalacenter.github.io/bloop/docs/performance-guide#tweak-the-java-jit)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
