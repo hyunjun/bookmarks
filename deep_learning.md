@@ -1073,6 +1073,7 @@ Deep Learning
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [How to Develop a Conditional GAN (cGAN) From Scratch](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/)
 * [How to Code the GAN Training Algorithm and Loss Functions](https://machinelearningmastery.com/how-to-code-the-generative-adversarial-network-training-algorithm-and-loss-functions)
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation – Official TensorFlow implementation of the ICLR 2018 paper](https://github.com/tkarras/progressive_growing_of_gans)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1471,6 +1472,7 @@ Deep Learning
   * [인공신경망 학습 레시피 (번역)](https://medium.com/@bntejn/%EC%9D%B8%EA%B3%B5%EC%8B%A0%EA%B2%BD%EB%A7%9D-%ED%95%99%EC%8A%B5-%EB%A0%88%EC%8B%9C%ED%94%BC-%EB%B2%88%EC%97%AD-70c5e58341ec?sk=f53042d49fa609d30c80e26f2f7f6b41)
 * [First neural network for beginners explained (with code)](https://towardsdatascience.com/first-neural-network-for-beginners-explained-with-code-4cfd37e06eaf)
 * [simple-neural-networks/simple_nn.py](https://github.com/positive235/simple-neural-networks/blob/master/simple_nn.py)
+* [뉴럴 네트워크와 딥러닝](https://sihyeon-kim.github.io/neural-networks-and-deep-learning-korean/index.html)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -1837,6 +1839,7 @@ Deep Learning
 * [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
 * [Animated RNN, LSTM and GRU - Recurrent neural network cells in GIFs](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 * [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+* [Understanding A Recurrent Neural Network For Image Generation](https://hackernoon.com/understanding-a-recurrent-neural-network-for-image-generation-7e2f83wdg)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
