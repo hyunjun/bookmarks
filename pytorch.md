@@ -239,6 +239,7 @@ PyTorch
 * [HiddenLayer - A lightweight library for neural network graphs and training metrics for PyTorch and Tensorflow](https://github.com/waleedka/hiddenlayer)
 * [hyperband - Hyperparameter Optimization for PyTorch](https://github.com/kevinzakka/hyperband)
 * [hyperlearn - Faster, Leaner GPU Sklearn, Statsmodels written in PyTorch](https://www.techleer.com/articles/568-presenting-a-modern-big-data-algorithm-hyperlearn-50-faster-machine-learning)
+* [kornia - Open Source Differentiable Computer Vision Library for PyTorch https://kornia.org ](https://github.com/arraiyopensource/kornia)
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
   * 2018년, COCO Detection Challenge를 우승한 MMDet 팀이 작성한 코드베이스를 확장하여, 현존하는 대부분의 Object Detection 모델을 구현한 toolbox
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
