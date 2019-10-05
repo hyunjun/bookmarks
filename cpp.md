@@ -55,6 +55,8 @@ C++
 * [Some awesome modern C++ features that every developer should know](https://medium.freecodecamp.org/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
 * [Crawling Billions of Pages: Building Large Scale Crawling Cluster (part 1)](http://engineering.bloomreach.com/crawling-billions-of-pages-building-large-scale-crawling-cluster-part-1/)
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/)
+* [Higher Order Macros in C++](http://journal.stuffwithstuff.com/2012/01/24/higher-order-macros-in-c/)
+* [A dbg(…) macro for C++](https://github.com/sharkdp/dbg-macro)
 * [C++ Futures at Instagram](http://instagram-engineering.tumblr.com/post/121930298932/c-futures-at-instagram)
 * [Going from lock-free to wait-free](http://dgoldblatt.com/going-from-lock-free-to-wait-free.html)
 * [C++’s Rule of Zero](https://turingtester.wordpress.com/2015/06/27/cs-rule-of-zero/)
@@ -95,7 +97,6 @@ C++
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Multiple Arrays, One Allocation, Generically: MultiArray](https://turingtester.wordpress.com/2015/10/04/multiple-arrays-one-allocation-generically-multiarray/)
 * [Compile-time RNG tricks](http://www.elbeno.com/blog/?p=1288)
-* [Higher Order Macros in C++](http://journal.stuffwithstuff.com/2012/01/24/higher-order-macros-in-c/)
 * [Rant: On the std::experimental::variant to come](http://talesofcpp.fusionfenix.com/post-21/rant-on-the-stdexperimentalvariant-to-come)
 * [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](http://jguegant.github.io/blogs/tech/sfinae-introduction.html)
 * [Job System 2.0: Lock-Free Work Stealing – Part 1: Basics](http://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
@@ -223,6 +224,7 @@ C++
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
 * [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)
 * [CppCon 2015: John Farrier “Demystifying Floating Point"](https://www.youtube.com/watch?v=k12BJGSc2Nc)
+* [CppCon 2019 Presentation Materials](https://github.com/CppCon/CppCon2019)
 
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
