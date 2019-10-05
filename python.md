@@ -1000,6 +1000,7 @@ Python
   * [Python에서 효율적인 String Concatenation 방법](http://blog.leekchan.com/post/19062594439/python%EC%97%90%EC%84%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-string-concatenation-%EB%B0%A9%EB%B2%95)
   * [PyFormat Using % and .format() for great good!](https://pyformat.info/)
   * [How to Use F-Strings for String Formatting in Python](https://www.youtube.com/watch?v=c8nHlLEmtNg)
+  * [F-strings — make your python code more readable today](https://medium.com/@ikamenshchikov/f-strings-make-your-python-code-faster-and-more-readable-today-579ef9ca0313)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
 
