@@ -534,6 +534,7 @@ Programming Books
 * (NOT YET) [머신러닝 TensorFlow.js JavaScript - 자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188034357)
 * (NOT YET) [머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로 - Python Machine Learning 2/E : Numpy, scikit-learn 0.2x, TensorFlow 2.x로 배우는 머신 러닝, 딥러닝 핵심 알고리즘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=191948149)
 * (NOT YET) [전문가를 위한 머신러닝 솔루션 - 파이썬을 이용한 머신러닝 고급 문제 해결 기법]((https://wikibook.co.kr/ml-solutions/)
+* (NOT YET) [파이썬을 활용한 머신러닝 쿡북](https://jybaek.tistory.com/839)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
