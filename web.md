@@ -8,6 +8,7 @@ Web
 * [스타트업을 위한 기술 스택](http://www.codeok.net/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%88%A0%20%EC%8A%A4%ED%83%9D)
 * [깃플 기술스택 구경하세요~ (프론트엔드 편)](http://tech.gitple.io/2017/11/30/gitple-techstack-frontend-md/)
 * [Interesting Web Technologies to follow in 2019](https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b)
+* [Top 10 Web Development Trends to Follow in 2019](https://dzone.com/articles/top-10-web-development-trends-to-follow-in-2019)
 * [대학생을 위한 웹 개발 공부용 체크리스트](http://xguru.net/1897)
 * [Why can’t we find Front End developers?](http://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/)
   * [프론트엔드 개발자는 왜 구하기 어려운가?](http://ppss.kr/archives/26024)
@@ -161,6 +162,7 @@ Web
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
+* [회원가입을 쉽게 만드는 UI/UX 디자인은?](https://brunch.co.kr/@dalgudot/101) mobile web 이야기이지만 component의 선택도 데이터에 의해 해야한다는 점에서 참고할 만한 이야기
 
 # Apache
 * installation
