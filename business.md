@@ -202,6 +202,7 @@ Business
 * [“조언해달라”는 말로 회의 시작해 보라, 평범했던 직원의 잠재력이 터진다](http://dbr.donga.com/article/view/1201/article_no/9044)
 * [Launching? Landing!](http://www.andrewahn.co/product/launching-landing/) google은 제품에 대해 launch가 아니라 land로 사용. 어느 정도는 이해가 감
 * [프로그래머의 경력을 말아먹는 12가지 방법](https://ppss.kr/archives/63881)
+* [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -466,6 +467,7 @@ Business
 * [글로벌 유니콘 지도](https://www.thestartupbible.com/2019/09/the-global-unicorn-map.html)
 * [무시하고, 비웃고, 싸우기, 그리고 이기기](https://www.thestartupbible.com/2019/09/first-they-ignore-you-then-they-laugh-at-you-then-they-fight-you-then-you-win.html)
 * [Glimpse 2019.09 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2160)
+* [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
