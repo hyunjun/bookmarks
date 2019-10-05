@@ -9,6 +9,7 @@ Javascript
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
 * [Best courses to learn Javascript](https://codeburst.io/best-courses-to-learn-javascript-in-2017-fc3a254638cc)
+* [자바스크립트 핵심 익히기 부제:자바스크립트 개발 잘 하기](https://docs.google.com/document/d/1ZEhf0DXRxfRjdtgXYu9L4kkOjKJhuVqrb5w9EYDaGzU/)
 * [jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 * [자바스크립트의 동작원리: 엔진, 런타임, 호출 스택](https://joshua1988.github.io/web-development/translation/javascript/how-js-works-inside-engine/)
 * 자바스크립트는 어떻게 작동하는가
@@ -472,6 +473,7 @@ Javascript
 * [JavaScript International Methods](https://itnext.io/javascript-international-methods-b70a2de09d92)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
+* [Beginners Guide to Tagged Template Literals in JavaScript](https://medium.com/the-non-traditional-developer/beginners-guide-to-tagged-template-literals-in-javascript-202d1805e862)
 * [Passing Arrays as Function Arguments](https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c)
 * [How array.prototype.map() works](https://medium.freecodecamp.org/how-array-prototype-map-works-b6b69379c3af)
 * [How to make your code better with intention-revealing function names](https://medium.freecodecamp.org/how-to-make-your-code-better-with-intention-revealing-function-names-6c8b5271693e)
