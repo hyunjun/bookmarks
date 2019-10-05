@@ -29,3 +29,4 @@ Programmer
 * [The Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 * [왜 45세 정년이 될 수 밖에 없는가 (기술기업의 관점에서)](http://windy96.egloos.com/3495731)
   * Theory Z Teamism, Theory A Open Allocation
+* [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
