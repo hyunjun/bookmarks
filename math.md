@@ -169,6 +169,7 @@ Math
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)
 * [21. Functions and Relations, diagrammatically](http://graphicallinearalgebra.net/2015/09/08/21-functions-and-relations-diagrammatically/)
 * [Interactive Linear Transformations](http://notmatthancock.github.io/2015/09/12/interactive-linear-transformations.html#linear-transformation)
+* [선형변환(linear transformation)의 의미](https://losskatsu.github.io/linear-algebra/linear-trans/)
 * [SVD - We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)
 * [특이값 분해(Singular Value Decomposition, SVD)의 활용](http://darkpgmr.tistory.com/106)
 * [Least squares and regularization](http://scottsievert.com/blog/2015/11/18/inverse-part-1/)
