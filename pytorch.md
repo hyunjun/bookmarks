@@ -268,6 +268,7 @@ PyTorch
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
 * [tensorboardX - Write TensorBoard events with simple function call](https://github.com/lanpa/tensorboard-pytorch)
 * [torchaudio-contrib](https://github.com/keunwoochoi/torchaudio-contrib)
+  * [Perceptual weighting of audio signals in pytorch](https://keunwoochoi.wordpress.com/2019/10/03/perceptual-weighting-of-audio-signals-in-pytorch/)
 * [TorchCraftAI - a platform that lets you build agents to play (and learn to play) StarCraft®: Brood War](https://github.com/TorchCraft/TorchCraftAI)
 * [torchfold.py](https://github.com/nearai/pytorch-tools/blob/master/pytorch_tools/torchfold.py)
   * [PyTorch — Dynamic Batching](https://medium.com/@ilblackdragon/pytorch-dynamic-batching-f4df3dbe09ef)
