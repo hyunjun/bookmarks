@@ -145,6 +145,7 @@ iOS
 * [NSButton Cheatsheet](http://seorenn.blogspot.kr/2018/02/nsbutton-cheatsheet.html)
 * [NSTextField Cheatsheet](http://seorenn.blogspot.kr/2018/02/nstextfield-cheatsheet.html)
 * [Block implicitly retains 'self' 경고 해결하기](http://seorenn.blogspot.kr/2018/04/objective-c-block-implicitly-retains.html)
+* [Four common mistakes in audio development](http://atastypixel.com/blog/four-common-mistakes-in-audio-development/)
 
 # OS X
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
