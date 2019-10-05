@@ -342,6 +342,7 @@ SQL
 * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 설정편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-config/)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 모니터링편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-monitoring/)
+* [Do Not Pass This Way Again](https://grimoire.ca/mysql/choose-something-else)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -469,6 +470,7 @@ SQL
 * [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
 * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
 * [Parallelism in PostgreSQL](https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/)
+* [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
 
 ## Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
