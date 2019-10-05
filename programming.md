@@ -364,6 +364,7 @@ Programming
 * **[M-V-Whatever 정리 - 1.MVC](https://blog.naver.com/jukrang/221414570067)**
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
+* [Repository 패턴에 대해서 정리해 보겠습니다](https://developer88.tistory.com/210)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
@@ -409,6 +410,7 @@ Programming
 * **[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)** 총정리라는 제목에 걸맞는 다양한 내용 정리
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
+* [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
 * [1인 개발자가 글로벌 서비스를 운영하는 방법 - GGtics](https://www.popit.kr/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-ggtics/)
@@ -440,6 +442,7 @@ Programming
   * [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
     * [Details of the Cloudflare outage on July 2, 2019](https://new.blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
       * **[(번역) 2019년 7월 2일 Cloudflare 장애 보고서](https://ryanking13.github.io/2019/07/18/details-of-the-cloudflare-outage-on-july-2-2019.html)**
+  * [The Technical Challenges of Building Cloudflare WARP](https://blog.cloudflare.com/warp-technical-challenges/)
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -541,6 +544,8 @@ Programming
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
 * [The Monolithic Frontend In The Microservices Architecture](http://blog.xebia.com/2015/07/27/the-monolithic-frontend-in-the-microservices-architecture/)
+* [In Defence of the Monolith, Part 1](https://www.infoq.com/articles/monolith-defense-part-1/)
+* [In Defence of the Monolith, Part 2](https://www.infoq.com/articles/monolith-defense-part-2/)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
@@ -641,6 +646,7 @@ Programming
 * [0원으로 시작하는 서버리스 데이터 수집 및 분석](https://www.slideshare.net/KyuhyunByun1/0-121022533)
 * [AWSKRUG Serverless Group](https://github.com/awskrug/serverless-group)
 * [서버리스 컴퓨팅 시대의 풀 스택 개발](https://medium.com/@serithemage/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EB%8C%80%EC%9D%98-%ED%92%80-%EC%8A%A4%ED%83%9D-%EA%B0%9C%EB%B0%9C-f9330483790f) Serviceful serverless, AWS Amplify
+* [Serverless: 15% slower and 8x more expensive](https://einaregilsson.com/serverless-15-percent-slower-and-eight-times-more-expensive/) AWS에서 serverless 사용 경험담
 * [어디에나 있지만 어디에도 없는 LINE 게임의 분석 환경](https://engineering.linecorp.com/ko/blog/line-game-data-analysis/) Line 게임의 데이터 설계, 수집, 처리, 분석
 * [Serveless를 위한 오픈소스 KNative #1 소개 & Serving](https://bcho.tistory.com/1322)
 * [Serveless를 위한 오픈소스 KNative #2 Eventing](https://bcho.tistory.com/1323)
@@ -940,6 +946,7 @@ Programming
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
+  * [Teamcity Github 로그인 연동](https://jojoldu.tistory.com/454)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
@@ -1165,6 +1172,7 @@ Programming
 * [infractal.org](http://infractal.org/)
 * [K MOOC](http://www.kmooc.kr/)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
+* [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [sololearn.com](https://www.sololearn.com/)
 * [woz-u.com](https://woz-u.com/)
 
@@ -1288,6 +1296,7 @@ Programming
   * [9월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/09/b-9-2.html)
   * [9월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/09/b-9-3.html)
   * [9월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/09/b-9-4.html)
+  * [10월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/10/b-10-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
