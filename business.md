@@ -104,6 +104,7 @@ Business
 * [피드백에 관한 상상 인터뷰](https://brunch.co.kr/@younghakjang/63)
 * [FB101 피드백 개론](https://brunch.co.kr/@younghakjang/61)
 * [피드백에 멍들다](http://www.hbrkorea.com/magazine/article/view/2_1/page/3/article_no/1322)
+* [피드백은 섬세한 기술이다](https://ppss.kr/archives/169177)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
