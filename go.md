@@ -423,6 +423,7 @@ Go
 * [serve2d - A protocol detecting server, based off the serve2 library](https://github.com/joushou/serve2d)
 * [Server-Sent Events in Go](http://sse.getgin.io/room/hn)
 * [shadowd is the secure login distribution service, which consists of two parts: server and client](https://github.com/reconquest/shadowd)
+* [shiori - Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
 * [short - URL shortening service written in Go and React https://s.time4hacks.com ](https://github.com/byliuyang/short)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
