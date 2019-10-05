@@ -249,6 +249,7 @@ Keras
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Importance Sampling for Keras](http://idiap.ch/~katharas/importance-sampling/)
+* [keras-bert - Implementation of BERT that could load official pre-trained models for feature extraction and prediction](https://github.com/CyberZHG/keras-bert)
 * [keras-inception-resnet-v2](https://github.com/myutwo150/keras-inception-resnet-v2)
 * [Keras Project Template - A project template to simplify building and training deep learning models using Keras](https://github.com/Ahmkel/Keras-Project-Template)
 * [Keras Tuner - An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0](https://github.com/keras-team/keras-tuner)
