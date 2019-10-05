@@ -475,6 +475,7 @@ Apache
 * [Kafka 로그 종류 및 로그 샘플에 대한 설명](https://godway1225.wordpress.com/2019/08/29/kafka-로그-종류-및-로그-샘플에-대한-설명)
 * [kafka 개발 - AdminClient 로 관리 기능 개발하기 - Broker 정보 보기](https://springboot.cloud/36)
 * [카프카 서버 디스크 최적화](https://www.popit.kr/카프카-서버-디스크-최적화/)
+* [BUILDING A RELATIONAL DATABASE USING KAFKA](https://yokota.blog/2019/09/23/building-a-relational-database-using-kafka/) KarelDB, KCache, Avro, Calcite, Omid, Avatica
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
