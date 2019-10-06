@@ -721,6 +721,7 @@ NLP
 * [Babelpish.github.io](http://babelpish.github.io)
 * [CLaF: Clova Language Framework https://naver.github.io/claf ](https://github.com/naver/claf)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
+* [ConceptNet - a multilingual knowledge base, representing words and phrases that people use and the common-sense relationships between them](https://github.com/commonsense/conceptnet5/wiki)
 * [Daon 형태소 분석기](https://github.com/rasoio/daon)
 * [decaNLP - The Natural Language Decathlon: A Multitask Challenge for NLP](https://github.com/salesforce/decaNLP)
   * [The Natural Language Decathlon](https://einstein.ai/research/the-natural-language-decathlon)
