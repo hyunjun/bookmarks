@@ -391,6 +391,11 @@ Algorithm
 * [How we implemented consistent hashing efficiently](https://medium.com/ably-realtime/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
 * [Consistent Hashing Simplified](https://towardsdatascience.com/consistent-hashing-simplified-7fe4e512324)
 
+## Distributed Hash Table, DHT
+* [Simple basic explanation of a Distributed Hash Table (DHT)](https://stackoverflow.com/questions/144360/simple-basic-explanation-of-a-distributed-hash-table-dht)
+* [Distributed Hash Tables And Why They Are Better Than Blockchain For Exchanging Health Records](https://medium.com/@michael.dufel_10220/distributed-hash-tables-and-why-they-are-better-than-blockchain-for-exchanging-health-records-d469534cc2a5)
+* [Kademlia 분산 해시 테이블 적용기](https://snack.planetarium.dev/kor/2019/09/kademlia/)
+
 # HyperLogLog
 * [HyperLogSandwich](https://github.com/chanian/hyperlogsandwich/wiki)
 
