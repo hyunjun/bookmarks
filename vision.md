@@ -355,6 +355,7 @@ Vision
 * [Visualizing the Mandelbrot Set](https://www.tinycranes.com/blog/2015/05/visualizing-the-mandelbrot-set/)
 
 # [OpenCV](http://opencv.org/)
+* [Welcome to OpenCV-Python Tutorials’s documentation!](https://opencv-python-tutroals.readthedocs.io)
 * [opencv - Open Source Computer Vision Library http://opencv.org](https://github.com/opencv/opencv)
 * [Load Caffe framework models](http://docs.opencv.org/trunk/d5/de7/tutorial_dnn_googlenet.html)
 * [Scene Reconstruction](https://docs.opencv.org/4.0.0-beta/d4/d18/tutorial_sfm_scene_reconstruction.html)
