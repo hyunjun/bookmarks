@@ -1323,6 +1323,7 @@ Deep Learning
 * [인공지능, 통계 관련 유용한 무료 강의 & 책 모음](http://www.datamarket.kr/xe/board_fpbt85/55766)
 * [Deep Learning course: lecture slides and lab notebooks](https://m2dsupsdlclass.github.io/lectures-labs/)
 * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
+  * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
