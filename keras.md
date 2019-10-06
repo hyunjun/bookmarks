@@ -195,6 +195,7 @@ Keras
   * [4. MNIST (Korean)](https://www.youtube.com/watch?v=QqmugTjVbz4)
   * [5. Wide & Deep Neural Network (Korean)](https://www.youtube.com/watch?v=eAvYrGHCnAg)
   * [6. Vanishing Gradient 문제 및 ReLU](https://www.youtube.com/watch?v=QAhlSzRLSos)
+* [tf.keras for Researchers: Crash Course.ipynb](https://colab.research.google.com/drive/17u-pRZJnKN0gO5XZmq8n5A2bKGrfKEUg)
 * [이미지만으로 내 중고물품의 카테고리를 자동으로 분류해준다면? (feat. Keras)](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%98-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%B4%EC%A4%80%EB%A9%B4-feat-keras-b86e5f286c71)
 * [내 중고물품을 분류 해주는 모델 서빙하기(feat. Keras & Flask)](https://medium.com/daangn/%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%84-%EB%B6%84%EB%A5%98-%ED%95%B4%EC%A3%BC%EB%8A%94-%EB%AA%A8%EB%8D%B8-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-feat-keras-flask-210f8a30b8f6)
 * [Saving & Loading Keras Models](https://jovianlin.io/saving-loading-keras-models/)
