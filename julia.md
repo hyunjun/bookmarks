@@ -108,6 +108,7 @@ Julia
 * [bogumilkaminski.pl/files/julia_express.pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
 
 # Library
+* [Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA)
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
 * [COIN-OR Cup](http://www.coin-or.org/coinCup/)
 * [DataFrames.jl](http://dataframesjl.readthedocs.org/)
