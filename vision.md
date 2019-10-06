@@ -362,6 +362,7 @@ Vision
 * [opencv_contrib - Repository for OpenCV's extra modules](https://github.com/opencv/opencv_contrib)
 * [study.marearts.com/search/label/OpenCV](http://study.marearts.com/search/label/OpenCV)
 * [OpenCV video editing tutorial](https://solarianprogrammer.com/2015/06/04/opencv-video-editing-tutorial/)
+* [Python 데이터 분석과 이미지 처리](https://www.youtube.com/playlist?list=PLRx0vPvlEmdBx9X5xSgcEk4CEbzEiws8C)
 * [OpenCV 에서 OpenCL 살짝 써보기](http://www.slideshare.net/sshtel/opencv-opencl)
 * [Which Painting Do You Look Like? Comparing Faces Using Python and OpenCV](https://shkspr.mobi/blog/2014/06/which-painting-do-you-look-like-comparing-faces-using-python-and-opencv/)
 * [Switching Eds: Face swapping with Python, dlib, and OpenCV](http://matthewearl.github.io/2015/07/28/switching-eds-with-python/)
