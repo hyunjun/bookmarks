@@ -159,6 +159,7 @@ Interview
 * [Interview Experience at Goldman Sachs (For Technical Analyst Role- Java )](https://medium.com/@mukeshsrivastav691/interview-experience-at-goldman-sachs-90036a562484)
 * [The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
 * [아틀라시안 채용 후기](https://www.facebook.com/groups/helpdev/permalink/2535210356538290/) atlassian
+* [What Glassdoor interview reviews reveal about tech hiring cultures](https://huyenchip.com/2019/08/21/glassdoor-interview-reviews-tech-hiring-cultures.html)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -385,6 +386,8 @@ Interview
 * [BOJ 10 YEARS](https://startlink.blog/category/스타트링크/baekjoon-online-judge/boj-10-years/) BOJ 사이트의 구조 변경 이야기
 * **[리디북스 서비스 장애 복구 후기 데이터센터의 장애를 통해 겪은 서비스중단 및 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)** 전자책 업체의 실제 시스템 구조를 볼 수 있음
 * [1억명 랭킹 실시간 처리 테스트하기](https://blog.ifunfactory.com/2018/07/02/5290/) MySQL + Redis
+* [Interview: System/API design](https://stackoverflow.com/questions/14061381/interview-system-api-design)
+* [Top 50+ Web API Testing Interview Questions Ultimate list](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
@@ -480,6 +483,8 @@ Interview
 * [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)
 * [Pramp - Interview like a Champ](https://www.pramp.com/practice)
 * [programmers.co.kr](https://programmers.co.kr/)
+  * [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
+  * [스킬 체크](https://programmers.co.kr/skill_checks)
 * [programminginterviewprep.com](http://programminginterviewprep.com/)
 * [projecteuler.net](https://projecteuler.net/)
   * [Project Euler](http://euler.synap.co.kr/)
