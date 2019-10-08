@@ -2014,6 +2014,7 @@ Javascript
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 * [React Transition 강좌](https://www.miriya.net/p/271)
 * [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
+* [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-전-7가지-배경지식-다지기-8ad72f7b6aac)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
