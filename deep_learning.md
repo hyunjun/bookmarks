@@ -566,6 +566,7 @@ Deep Learning
   * [Policy Gradient (PG) Algorithms](https://github.com/reinforcement-learning-kr/pg_travel)
 * [Policy Gradients in a Nutshell](https://towardsdatascience.com/policy-gradients-in-a-nutshell-8b72f9743c5d)
 * [강화학습 DDPG 리뷰 Deep Deterministic Policy Gradient](https://www.slideshare.net/ssuser41d7e01/ddpg-deep-deterministic-policy-gradient-139832691)
+* [Policy Gradient is all you need! A step-by-step tutorial for well-known PG methods](https://github.com/MrSyee/pg-is-all-you-need)
 * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
 * **[번역 2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
@@ -713,6 +714,7 @@ Deep Learning
 * [GPU 성능 파워업! LMS 기술 테스트 결과는?](https://blog.naver.com/ibm_korea/221571488250)
 * [Releasing first online 3D Point Cloud labeling tool in Supervisely](https://medium.com/deep-systems/releasing-first-online-3d-point-cloud-labeling-tool-in-supervisely-4faca42b5d6e)
 * [작고 빠른 딥러닝 그리고 Edge Computing](https://www.slideshare.net/slideshow/embed_code/key/9gaEyFbAxBOw9Q)
+* [Is Rectified Adam actually better than Adam?](https://www.pyimagesearch.com/2019/10/07/is-rectified-adam-actually-better-than-adam/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
