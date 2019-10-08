@@ -887,3 +887,4 @@
 * [ZEPL - How to Configure a JDBC Interpreter](https://www.youtube.com/watch?v=sgdgFPnE7Lw)
 * [www.zepl.com/resources](https://www.zepl.com/resources/) how-to videos
 * [Spark Scala Note 1](https://medium.com/jk-link/spark-scala-note-1-1c721da15b26)
+* [Journey to the Continuous and Scalable Big Data Platform](https://www.slideshare.net/blrunner/journey-to-the-continuous-and-scalable-big-data-platform)
