@@ -148,6 +148,7 @@ Programming Books
 * (NOT YET) [알고리즘 트레이닝: 프로그래밍 대회 입문 가이드](https://blog.insightbook.co.kr/2019/05/07/%E3%80%8A%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8C%80%ED%9A%8C-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * (NOT YET) [파이썬 자료구조와 알고리즘 : 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8465804191)
 * (NOT YET) [퍼즐로 배우는 알고리즘 with 파이썬](https://blog.naver.com/ydot/221616317667)
+* (NOT YET) [다이내믹 프로그래밍 완전 정복](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B9440449667)
 
 # Amazon AWS
 
@@ -693,6 +694,7 @@ Programming Books
 * (NOT YET) [실전비급 엘라스틱 스택 6.4](http://www.hanbit.co.kr/store/books/look.php?p_code=E2111484583)
 * (NOT YET) [엘라스틱서치 실무 가이드 - 한글 검색 시스템 구축부터 대용량 클러스터 운영까지](https://wikibook.co.kr/practical-elasticsearch/)
   * [엘라스틱서치 실무 가이드](https://www.facebook.com/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%8B%A4%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-343249896296014)
+* (NOT YET) [엘라스틱서치 SELK 구축과 웹 해킹 분석](http://www.yes24.com/Product/Goods/79928972)
 
 # Finance
 
