@@ -1978,6 +1978,7 @@ Python
 * [주피터 노트북에서 Interactive Widget 사용하기](https://junpyopark.github.io/interactive_jupyter/)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [github.com/practical-jupyter/sample-code](https://github.com/practical-jupyter/sample-code)
+* [jupyter notebook(주피터 노트북) 사용법](https://www.youtube.com/watch?v=jmk-3G8FYII)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
@@ -2860,6 +2861,7 @@ Python
 * [Librosa - audio and music processing in Python](https://librosa.github.io)
   * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
   * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
+  * [STFT and Melspectrogram in Tensorflow vs Librosa](https://colab.research.google.com/drive/1ptS1UkpHa-dW8w7WEf8xTE63mEQg8NQZ)
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
@@ -3009,6 +3011,7 @@ Python
 * [PyData Tel Aviv Meetup: Getting to Know any Dataset in 4 Lines of Python - Eyal Trabelsi](https://www.youtube.com/watch?v=ue889FbMyQE) `pandas_profiling`, `pivottablejs`, `pydqc.data_compare`
 * [One-stop Guide to Data Manipulation in Python](https://medium.com/analytics-vidhya/python-data-manipulation-fb86d0cdd028) 여러가지 pandas 사용법 예제
 * [Learn a new pandas trick every day!](https://www.dataschool.io/python-pandas-tips-and-tricks/)
+* [편리한 판다스 무조건 좋을까?](http://blog.alphasquare.co.kr/221668106873)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
