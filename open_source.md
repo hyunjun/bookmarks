@@ -100,6 +100,8 @@ Open Source
     * "harding the shards: managing datastore locality at scale with Akkio"라는 Facebook 기사 요약
 * [Buck - A high-performance build tool](https://buckbuild.com/)
   * [HOW FACEBOOK USES PYTHON TO BUILD DATACENTERS AT SCALE](https://www.youtube.com/watch?v=dD27FtU-0w4)
+* [Hydra - a framework for elegantly configuring complex applications https://cli.dev ](https://github.com/facebookresearch/hydra)
+  * [페이스북, 머신러닝 등 복잡한 프로그램 개발 단순화하는 오픈소스 프레임 워크 공개](http://www.aitimes.kr/news/articleView.html?idxno=14387)
 * Relay
   * [Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself](http://sgwilym.github.io/relay-visual-learners/)
 * [페이스북, 오픈소스 텍스트 편집기 ‘드래프트JS’ 공개](http://www.bloter.net/archives/250955)
