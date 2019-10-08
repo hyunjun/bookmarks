@@ -798,6 +798,7 @@ Machine Learning
 * [사이먼킴의 데이터과학 1화 - 데이터 살펴보기](https://www.youtube.com/watch?v=qPRE3VaqT00)
 * [사이먼킴의 데이터과학 2화 - 데이터 살펴보기(2부)](https://www.youtube.com/watch?v=SnYN_haa4xM)
 * [실습으로 배우는 데이터 사이언스](https://programmers.co.kr/learn/courses/21)
+* [30분이면 하는 캐글 대회 제출 (데이터사이언스 일단 따라하기) 튜토리얼](https://medium.com/@wonseokjung_95449/30분이면-하는-캐글-대회-제출-데이터사이언스-일단-따라하기-튜토리얼-72939abdfe80)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
