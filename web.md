@@ -471,6 +471,8 @@ Web
 * [How to set up an easy and secure reverse proxy with Docker, Nginx & Letsencrypt](https://medium.freecodecamp.org/docker-nginx-letsencrypt-easy-secure-reverse-proxy-40165ba3aee2)
 * [HTTP/2 성능 향상을 위한 NGINX 구조 개선](https://blog.cloudflare.com/nginx-structural-enhancements-for-http-2-performance-ko/)
 * [Nginx Cache 문제 해결 시리즈](https://jojoldu.tistory.com/60)
+* [Hello World Module for Nginx](https://github.com/perusio/nginx-hello-world-module)
+* [**NGINX 모듈 제작하기**](https://d2.naver.com/helloworld/192785)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
@@ -604,6 +606,7 @@ Web
 * [RESTful 웹서비스](https://www.iamcorean.net/22)
 * [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
 * [REST Tutorial - How to Design a Good RESTful API](https://www.youtube.com/watch?v=sMKsmZbpyjE) 매우 기본적인 사항에 대한 리뷰
+* [RESTful API 설계](https://www.slideshare.net/brotherjinho/restful-api-64494716)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
