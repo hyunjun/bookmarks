@@ -81,6 +81,7 @@ Redis
 * [EC2에 Redis CLI 설치하기](https://jojoldu.tistory.com/348)
 * [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
   * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
+* [redis-cli 에서 –rdb는 주의해서 사용하셔야 합니다](https://charsyam.wordpress.com/2019/10/07/입-개발-redis-cli-에서-rdb는-주의해서-사용하셔야-합니다/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
@@ -113,6 +114,8 @@ Redis
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
+* [KeyDB - A Multithreaded Fork of Redis https://keydb.dev ](https://github.com/JohnSully/KeyDB)
+  * [A Multithreaded Fork of Redis That’s 5X Faster Than Redis](https://docs.keydb.dev/blog/2019/10/07/blog-post/)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [redis-rdb-tools Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON https://rdbtools.com ](https://github.com/sripathikrishnan/redis-rdb-tools)
