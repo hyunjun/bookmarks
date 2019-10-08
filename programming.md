@@ -178,6 +178,7 @@ Programming
 * [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
 * [번역 OpenSSH의 기본 키 암호화는 평문보다 못합니다](https://tech.ssut.me/2018/08/07/the-default-openssh-key-encryption-is-worse-than-plaintext/)
 * [Seriously, stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/) RSA는 취약하니 사용하지 말고 다른 대체 알고리즘 기반 library를 사용하라는 글
+* [보안 그리고 암호화 알고리즘](https://naleejang.tistory.com/218)
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
