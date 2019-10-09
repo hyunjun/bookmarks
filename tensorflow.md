@@ -834,6 +834,11 @@ TensorFlow
   * [Introducing tf-explain, Interpretability for TensorFlow 2.0](https://blog.sicara.com/tf-explain-interpretability-tensorflow-2-9438b5846e35)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](https://github.com/tflearn/tflearn)
+* [TFP(Tensors Fitting Perfectly)](https://github.com/google-research/swift-tfp) 정적분석 툴
+  * 프로그램 실행 없이 정적으로 분석해, 현재 작성중인 코드에서, Tensor의 shape가 미스매치나는 곳이 있는지 분석
+  * 작성된 함수나 모듈이 많은 경우, 모든 모듈을 실행하지 않고 미스매치를 발견할 수 있으므로 시간 절약
+  * 사용법; assert 를 사용해서, 두 Tensor에 대한 shape을 체크후 정적 분석툴 명령인 `doesitfit` 을 수행
+  * 현재는 S4TF를 위해서 개발, Python 및 다른 언어로 지원 확장 및 IDE에서 지원가능한 형태로 포팅 예정
 * TF-Ranking
   * [Introducing TF-Ranking - Google’s New Framework for Solving Ranking Problems](https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff)
 * [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)
