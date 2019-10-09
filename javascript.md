@@ -1224,6 +1224,7 @@ Javascript
   * [A tale of Webpack 4 and how to finally configure it in the right way. Updated](https://hackernoon.com/a-tale-of-webpack-4-and-how-to-finally-configure-it-in-the-right-way-4e94c8e7e5c1)
   * [월요일의 버그 - webpack-cli 오픈소스 뒤에 있는 것은 사람이다](https://libsora.so/posts/bug-of-monday-webpack-cli/)
   * [Webpack Watch의 메모리 누수 고치기](https://evan-moon.github.io/2019/08/08/fix-webpack-dev-memory-leak)
+  * [웹팩 핸드북(e북) 안내](https://joshua1988.github.io/web-development/webpack/webpack-guide/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -1617,6 +1618,9 @@ Javascript
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
 * [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
+ 
+# Purescript
+* [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
 
 # [React](http://reactkr.github.io/react)
 * [React 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리](https://ko.reactjs.org/)
