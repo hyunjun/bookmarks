@@ -65,6 +65,7 @@
 * [sysnet.pe.kr](https://www.sysnet.pe.kr)
 * [C/C++ 코딩 스타일](https://surpreem.com/c-c-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC/)
 * [Dll을 이용하여 배달대행 주문정보 연동](http://woowabros.github.io/study/2019/06/27/delivery-dll-relaytion.html)
+* [**메시지 유효성 검사에 대한 다양한 관점**](https://blog.aliencube.org/ko/2019/10/09/many-meanings-of-message-validation/) 메시지 유효성 검사에 대한 매우 좋은 글
 
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)
