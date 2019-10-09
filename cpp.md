@@ -2,6 +2,7 @@ C++
 ===
 * [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html)
   * [Bjarne Stroustrup - What – if anything – have we learned from C++? - Curry On/PLE'15 Keynote](https://www.youtube.com/watch?v=2egL4y_VpYg)
+* [Talking C++: An Interview with Bjarne Stroustrup](https://news.codecademy.com/bjarne-stroustrup-interview)
 * [C++ Korea](https://github.com/CppKorea)
   * [Effective Modern C++ Study, Item 27, 29 - 30](http://www.slideshare.net/utilforever/c-korea-effective-modern-c-study-item-27-29-30)
   * C++ Programming Study
