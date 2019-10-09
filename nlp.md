@@ -345,6 +345,7 @@ NLP
 * [Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL](https://github.com/zhihu/cuBERT)
 * [MULTI GPU환경에서 ETRI 한국어 BERT모델 활용한 Korquad 학습 방법](https://github.com/domyounglee/korbert-mecab-multigpu)
   * [nlp-api - ETRI KoBERT에서 사용하기 위해 만든 Mecab 형태소 분석기 API](https://github.com/Gyunstorys/nlp-api)
+* [AI도 한글 공부가 필요해! 국내 유일의 한국어 데이터셋 코쿼드(KorQuAD) 2.0 이야기](https://www.youtube.com/watch?v=imq-hvbQa54)
 * [Korean BERT pre-trained cased (KoBERT)](https://github.com/SKTBrain/KoBERT)
 * [꼼꼼하고 이해하기 쉬운 XLNet 논문 리뷰](https://blog.pingpong.us/xlnet-review/)
 * [한국어로 XLNet 학습해보기!](https://banana-media-lab.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%96%B4%EB%A1%9C-XLNet-%ED%95%99%EC%8A%B5%ED%95%B4%EB%B3%B4%EA%B8%B0)
@@ -886,6 +887,7 @@ NLP
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)
 * [soynlp](https://github.com/lovit/soynlp) 단어 추출/ 토크나이저 / 품사판별/ 전처리 기능을 제공
 * [spaCy - a library for industrial-strength natural language processing in Python and Cython](http://spacy.io/)
+  * [NLP (SpaCy)](https://course.spacy.io) 총 4개의 챕터, SpaCy 패키지 사용 방법
   * [spaCy Cheat Sheet: Advanced NLP in Python](https://www.datacamp.com/community/blog/spacy-cheatsheet)
   * [dependency parse tree visualization](http://spacy.io/displacy/)
   * [Dead Code Should be Buried](http://spacy.io/blog/dead-code-should-be-buried/)
@@ -1476,3 +1478,5 @@ NLP
 * [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
 * [기계는 사람의 말을 어떻게 이해할까? 워드 임베딩(Word Embedding)](https://blog.naver.com/saltluxmarketing/221607368769)
 * [성지석-Deep contextualized word representations](https://www.youtube.com/watch?v=Vc13QVAKyGk)
+* [KCharEmb - Tutorial for character-level embeddings in Korean sentence classification](https://github.com/warnikchow/kcharemb)
+  * [1909 paclic](https://www.slideshare.net/WonIkCho/1909-paclic)
