@@ -3,6 +3,8 @@ Machine Learning
 * [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
   * [SCALABLE MACHINE LEARNING - THE STATE OF DATAOPS / MLOPS IN 2018](https://axsauze.github.io/scalable-data-science)
   * [머신러닝 오퍼레이션 자동화, MLOps](https://zzsza.github.io/mlops/2018/12/28/mlops/)
+  * [MLOps NYC](https://www.mlopsnyc.com)
+    * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
 * [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 * [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [Awesome-Mobility-Machine-Learning-Contents](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents)
