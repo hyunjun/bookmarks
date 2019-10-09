@@ -519,8 +519,6 @@ NLP
   * [Seq2Seq를 활용한 간단한 Q/A 봇을 만들어보자](https://github.com/TensorMSA/tensormsa_jupyter/blob/master/chap13_chatbot_lecture/6.Chatbot(QA-seq2seq)-Word_onehot.ipynb)
 * [Retrieval-Based Conversational Model in Tensorflow (Ubuntu Dialog Corpus)](https://github.com/dennybritz/chatbot-retrieval/)
 * [Automated Text Classification Using Machine Learning](https://blog.paralleldots.com/product/automated-text-classification-using-machine-learning)
-* [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
-* [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
 * [sunwoobot - 선우봇 카카오 i 오픈빌더 챗봇](https://github.com/swparkaust/sunwoobot)
 * [A Repository of Conversational Datasets](https://medium.com/@matthen/a-repository-of-conversational-datasets-95e5ff17b6fb) PolyAI 공개. Reddit, OpenSubtitles, AmazonQA 등에서 모은 수억 건의 대화 데이터셋
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
@@ -547,6 +545,10 @@ NLP
 * [ChatOps with PowerShell - Matthew Hodgkins](https://www.youtube.com/watch?v=XIMOFnfdOx0)
 * [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
 * [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
+* [RASA - Create assistants that go beyond basic FAQs](https://rasa.com)
+  * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
+  * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
+  * [How to build a voice assistant with open source Rasa and Mozilla tools](https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -688,6 +690,7 @@ NLP
 * [Recurrent Neural Networks: The Powerhouse of Language Modeling](https://medium.com/analytics-vidhya/recurrent-neural-networks-the-powerhouse-of-language-modeling-f292c918b879)
 * [Character-Aware Neural Language Models](https://www.slideshare.net/HoonHeo5/characteraware-neural-language-models)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
+* [PLMpapers](https://github.com/thunlp/PLMpapers)
 
 # LDA [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
