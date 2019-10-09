@@ -649,6 +649,7 @@ Java
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
+* [To-Excel - This is a library that makes Excel easier to use in Java](https://github.com/ckpoint/ToExcel)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
 * Vaadin
