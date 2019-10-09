@@ -2183,6 +2183,7 @@ CVPR2016)
 * [How to study Reinforcement Learning](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki)
 * [ELF - An End-To-End, Lightweight and Flexible Platform for Game Research](https://github.com/facebookresearch/ELF)
 * [2019-OSS-Summer-RL](https://github.com/utilForever/2019-OSS-Summer-RL)
+* [Reinforcement learning for everyone](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
