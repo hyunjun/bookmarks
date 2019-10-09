@@ -250,6 +250,7 @@ AWS
 * [SageMaker  DeepRacer](https://drive.google.com/file/d/1rWvwV0meAvYflcgAGbAwoRzL3PNWFw_z/view)
 * [Amazon SageMaker Technical Deep Dive](https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
 * [TensorFlow 및 Apache MXNet으로 Amazon SageMaker에서 Keras 모델 교육 및 배포하기](https://cloud.hosting.kr/techblog_190725_machine-learning-train-and-deploy-keras-models-with-tensorflow-and-apache-mxnet-on-amazon-sagemaker/)
+* [Amazon FSx for Lustre 및 Amazon EFS 파일 시스템을 활용한 Amazon SageMaker 훈련 속도 향상법](https://www.megazone.com/techblog_20191008_speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
