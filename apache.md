@@ -329,6 +329,12 @@ Apache
   * [카프카 매니저 소개](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%86%8C%EA%B0%9C/)
 * [Kafka Summit New York](https://kafka-summit.org/kafka-summit-ny/schedule/)
 * [Kafka Summit New York 2019 Session Videos](https://www.confluent.io/blog/kafka-summit-new-york-2019-session-videos)
+* [Kafka Summit San Francisco](https://www.confluent.io/resources/kafka-summit-san-francisco-2019/)
+  * [Kafka Needs no Keeper](https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper) 
+    * Kafka 2.4 들어가면서 zookeeper 가 사라지고 kafka controller broker 가 그 역할을 대신하는데, 어떻게 없앴고 어떤 변화가 있는지에 대한 세션
+    * Elasticsearch 운영 경험이 있으신 분들은 kafka controller 가 es master-eligible node 와 비슷한 느낌
+  * [Please Upgrade Apache Kafka. Now](https://www.confluent.io/kafka-summit-san-francisco-2019/please-upgrade-apache-kafka-now)
+    * Kafka: The Definitive Guide 의 저자이기도 한 Gwen이 오래된 Kafka 버젼들에 존재하는 각종 버그들과 취약점들을 여러가지 소개하면서 업그레이드 해야 할 이유를 설명하는 세션
 * [Martin Kleppmann | Kafka Summit London 2019 Keynote | Is Kafka a Database?](https://www.youtube.com/watch?v=BuE6JvQE_CY)
   * [Online Event Processing Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
 * [The First Annual State of Apache Kafka Client Use Survey](https://www.confluent.io/blog/first-annual-state-apache-kafka-client-use-survey/) Kafka와 함께 어떤 언어를 많이 사용하는지와 이유
