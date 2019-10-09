@@ -458,6 +458,7 @@ Vision
 * [OpenCV를 사용하여 손 검출 및 인식하기(Real Time Hand Detection and Recognition using OpenCV)](https://www.youtube.com/watch?v=KtfhmpNvY7Y)
 * [OpenCV를 사용하여 손 검출&인식하기 - Background Subtraction 사용(Hand Detection and Recognition using OpenCV)](https://www.youtube.com/watch?v=cH07wzHo-jE)
 * [왜 OpenCV는 BGR 포맷을 쓸까?](https://blog.xcoda.net/102)
+* [Computer Vision (pyimagesearch)](https://www.pyimagesearch.com/start-here) 81페이지 가량의 튜토리얼 문서. OpenCV + Keras
 
 # OpenGL
 * [open.gl](https://open.gl/)
