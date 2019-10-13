@@ -864,6 +864,7 @@ Python
     * [Thread Synchronization Mechanisms in Python](http://effbot.org/zone/thread-synchronization.htm)
     * [Multithreading in Python | Set 2 (Synchronization)](https://www.geeksforgeeks.org/multithreading-in-python-set-2-synchronization/)
     * [Python 3 - Multithreaded Programming](https://www.tutorialspoint.com/python3/python_multithreading)
+    * [Running a method as a background process in Python](https://dev.to/hasansajedi/running-a-method-as-a-background-process-in-python-21li)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -2669,6 +2670,7 @@ Python
   * [Create A Twitter Bot With Python](https://www.youtube.com/watch?v=8u-zJVVVhT4)
   * [트위터 언팔로워 트래커](http://greentec.egloos.com/4442651)
   * [Build A Twitter Bot With Python That Gets You Followers](https://www.youtube.com/watch?v=7ovFudqFB0Q)
+  * [Accessing the Twitter API with Python](https://stackabuse.com/accessing-the-twitter-api-with-python/)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * **[Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp](https://github.com/Yelp/undebt)**
