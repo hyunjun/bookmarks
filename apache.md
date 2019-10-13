@@ -541,6 +541,7 @@ Apache
     * HELK; 보안 이벤트 로그를 분석하기 위해 표준 ELK를 확장한 스택
     * 이 글에서는 KSQL을 통해 추가 분석을 하는 방법을 설명
   * [Machine learning & Kafka KSQL stream processing — bug me when I’ve left the heater on](https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8)
+  * [아파치 카프카 테스트용 data generator 소개 - ksql-datagen](https://blog.voidmainvoid.net/269)
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
