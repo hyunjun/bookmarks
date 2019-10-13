@@ -355,6 +355,7 @@ Javascript
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
+* [<번역>앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁](https://junwoo45.github.io/2019-10-05-frontend-performance/)
 * [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 * [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
