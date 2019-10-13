@@ -240,6 +240,7 @@ Graph
 * Graphviz
   * [simple outline markup -> graphiviz](https://github.com/notmatthancock/outline_to_graphviz)
   * [Visualize your Makefile using GraphViz dot utility](https://github.com/vak/makefile2dot)
+  * [Graphing retweets with Python and GraphViz](https://benatkin.com/2009/04/27/graphing-retweets-with-python-and-graphviz/)
 * [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
   * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
   * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
