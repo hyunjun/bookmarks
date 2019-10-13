@@ -253,6 +253,7 @@ Programming
 * [우아한 Developer Relations 두번째 이야기](http://woowabros.github.io/woowabros/2018/12/05/developer-relations2.html)
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
+* [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -291,6 +292,8 @@ Programming
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
 * [애자일 키워드 팟캐스트](http://www.podbbang.com/ch/14757)
 * [The Death of Agile and Beyond](https://www.infoq.com/articles/death-agile-beyond/)
+* [클린 소프트웨어(애자일 개발과 설계)](https://blog.naver.com/jwyoon25/221591645594)
+* [책 후기 클린 소프트웨어](http://blog.wimy.com/456/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -618,6 +621,7 @@ Programming
 * [Data Consistency in Microservice Using Sagas](https://www.youtube.com/watch?v=txlSrGVCK18)
 * [우아한 멀티모듈 - 2019년 8월 우아한 Tech 세미나](https://jojoldu.tistory.com/444)
 * [Microservices: How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0)
+* [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1054,6 +1058,7 @@ Programming
   * RabbitMQ가 중심이며, Kafka, Pulsar도 다룸. 정말 좋은 글이 많음
 * [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
   * Transactional Outbox Pattern, DB table을 message queue로 이용해 transaction을 보장하는데, DB를 queue로 이용하는 건 anti pattern 아니었나?
+* [커스텀푸시(리치 노티피케이션) / 푸시알림 전달 여부 고속 트래킹](https://rationalowl.tistory.com/20)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [emqtt](http://emqtt.io/)
@@ -1300,6 +1305,7 @@ Programming
   * [9월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/09/b-9-3.html)
   * [9월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/09/b-9-4.html)
   * [10월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/10/b-10-1.html)
+  * [10월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/10/b-10-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
