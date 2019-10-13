@@ -1878,6 +1878,8 @@ Deep Learning
 * [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [The Transformer – Attention is all you need](https://mchromiak.github.io/articles/2017/Sep/12/Transformer-Attention-is-all-you-need)
 * [Attention is all you need paper 뽀개기](https://pozalabs.github.io/transformer/)
+* [Attention (7): Attention is All You Need, Transformers (1)](https://www.youtube.com/watch?v=Ng9MRx76zS8)
+* [Attention (8): Attention is All You Need, Transformers (2)](https://www.youtube.com/watch?v=fTtCakv8a_M)
 * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 * [Attn: Illustrated Attention(KR)](https://databreak.netlify.com/2019-05-31-illustrated_Attention/)
 * [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
