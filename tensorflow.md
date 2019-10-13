@@ -501,6 +501,8 @@ TensorFlow
 * [Using TensorFlow to predict product weight and dimensions](https://medium.com/tensorflow/using-tensorflow-to-predict-product-weight-and-dimensions-8e6af3ab3466)
 
 # 2.0
+* [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
+* [TF_2.0.ipynb](https://colab.research.google.com/github/zaidalyafeai/Notebooks/blob/master/TF_2_0.ipynb)
 * [Quick Review of TF 2.0 Preview](https://motlabs.github.io/2019-01-12/tf2preview-review)
 * [What’s coming in TensorFlow 2.0](https://medium.com/tensorflow/whats-coming-in-tensorflow-2-0-d3663832e9b8)
 * [Keras 기반의 표준화: TensorFlow 2.0의 고수준 API에 대한 안내](https://developers-kr.googleblog.com/2019/01/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0.html)
