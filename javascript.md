@@ -2583,3 +2583,4 @@ Javascript
 * [Advanced Vue.js Features from the Ground Up](https://frontendmasters.com/courses/advanced-vue/)
 * [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/)
 * [React의 고차 컴포넌트(HOC) 패턴, 이제는 Vue에도 적용해보자](https://wormwlrm.github.io/2019/09/08/Higher-Order-Component-pattern-in-Vue.html)
+* [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
