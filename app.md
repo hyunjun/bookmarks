@@ -761,6 +761,7 @@ App
   * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
   * [Andrea's Notion Story](https://www.notion.so/9b54b64c084f4fdaa2e8979f6490ac5f)
   * [구글 캘린더 연동](https://brunch.co.kr/@sijin90/34)
+  * [“완벽한 생산성 앱은 없는 걸까?” 당신이 모르던 노션의 세계를 알려준다](https://ppss.kr/archives/204813)
 * [paperkit.net](http://paperkit.net/)
 * [paperwork.rocks](http://paperwork.rocks/)
 * [Snip](https://mix.office.com/Snip) windows only
@@ -872,6 +873,7 @@ App
 * [윈도우 10 앱이지만 유용한 무료 네트워킹 툴 10선](http://www.itworld.co.kr/news/112632)
 * [윈도우에서 ssh 터미널 사용하기](https://jojoldu.tistory.com/427)
 * [youtube-dl.exe를 윈도우 샌드 박스에서 실행](http://www.sysnet.pe.kr/0/0/519)
+* [Hyper-V에서 네트워크가 제대로 되지 않을 때](http://blog.wimy.com/455/)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
