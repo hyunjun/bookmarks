@@ -24,6 +24,8 @@ Docker
 * [도커 시작하기 6 : 도커 이미지 이해](https://javacan.tistory.com/entry/docker-start-6-docker-image-layer)
 * [도커 시작하기 7 : Dockerfile을 이용한 이미지 생성](https://javacan.tistory.com/entry/docker-start-7-create-image-using-dockerfile)
 * [도커 시작하기 8 : 도커 스웜 - 클러스터 구축](https://javacan.tistory.com/entry/docker-start-8-swarm-cluster)
+* [도커 시작하기 9 : 도커 스웜 - 서비스 기초](https://javacan.tistory.com/entry/docker-start-9-swarm-service)
+* [도커 시작하기 10 : 도커 스웜 - 컴포즈 파일과 스택](https://javacan.tistory.com/entry/docker-start-10-swarm-compose-stack)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
@@ -66,6 +68,7 @@ Docker
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
+* [효율적인 도커 이미지 만들기 #2 - 도커 레이어 캐슁을 통한 빌드/배포 속도 높이기](https://bcho.tistory.com/1357)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
 * [Deploy Docker Containers with Docker Cloud](https://www.youtube.com/watch?v=F82K07NmRpk) 예전 버전인 점 감안
 * [DockerHub의 Automated Build](https://blog.outsider.ne.kr/1387)
