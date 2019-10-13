@@ -262,6 +262,7 @@ Java
 * [이클립스 웹 개발 2014](https://docs.google.com/document/d/1fYoWD_0-3sGxHjHNHKgGNLmONVTQ9DmaLwO-MSXVCHU)
 * [이클립스 웹 개발 2016](https://docs.google.com/document/d/1fYoWD_0-3sGxHjHNHKgGNLmONVTQ9DmaLwO-MSXVCHU/edit#heading=h.6ytzvryxfc9e)
 * [이클립스 톰캣 구동 시간 제한 설정](http://javacan.tistory.com/entry/eclipse-tomcat-start-timeout-config)
+* [Start developing in the cloud with Eclipse Che IDE](https://opensource.com/article/19/10/cloud-ide-che)
 
 # IntelliJ
 * [인텔리J 시작하기 Part1 (Getting Start IntelliJ) -기본 설정편-](https://beyondj2ee.wordpress.com/2013/06/01/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part1-getting-start-intellij-%EA%B8%B0%EB%B3%B8-%EC%84%A4%EC%A0%95%ED%8E%B8/)
@@ -402,6 +403,8 @@ Java
 * [Shaping the Future of Java, Faster](https://www.youtube.com/watch?v=d_IWWRc6dwY) 다양한 JDK version에 대한 이야기, 8 to 11 migration, future works
 * **[여러 개의 JDK를 설치하고 선택해서 사용하기](https://blog.benelog.net/installing-jdk.html)**
 * [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
+* [Oracle JDK 라이센스](https://qwefgh90.github.io//research/2019/10/11/Oracle-JDK과-라이센스.html)
+* [Open JDK의 변화](https://qwefgh90.github.io//research/2019/10/12/Open-JDK의-변화.html)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
