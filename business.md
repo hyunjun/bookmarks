@@ -204,6 +204,7 @@ Business
 * [Launching? Landing!](http://www.andrewahn.co/product/launching-landing/) google은 제품에 대해 launch가 아니라 land로 사용. 어느 정도는 이해가 감
 * [프로그래머의 경력을 말아먹는 12가지 방법](https://ppss.kr/archives/63881)
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
+* [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
