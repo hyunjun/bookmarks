@@ -25,6 +25,7 @@ R
   * [5. 크로스 디바이스 매칭(Cross Device Matching)](http://blog.ab180.co/data-science-with-r-5-cross-device-matching/)
   * [6. RTB란?](http://blog.ab180.co/data-science-with-r-6-rtb/)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
+* [R Tutorial Series - 100+ Free Tutorials](https://data-flair.training/blogs/r-tutorials-home/)
 * **[R을 활용한 머신러닝](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)**
 * [A Guide to Machine Learning in R for Beginners: Logistic Regression](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)
 * [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism)
