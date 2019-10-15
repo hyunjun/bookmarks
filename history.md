@@ -417,6 +417,7 @@ History
 * [철부지 버그달과 미국의 오판](http://ppss.kr/archives/24148)
 * [100년만의 부메랑? 중동 난민사태 잉태한 '사이크스-피코 협정'](http://www.huffingtonpost.kr/2015/09/07/story_n_8097136.html)
 * [와하비즘과 사우디아라비아 건국기](http://sonnet.egloos.com/4579495)
+* [채인택의 글로벌 줌업 레이건·클린턴까지..미국, 쿠르드족 100년간 8번 배신](https://news.v.daum.net/v/20191014001354610)
 
 ## Myanmar
 * [로힝야족 공중 수색 11일 종결한다, 그리고 미얀마는 책임을 회피하고 있다](http://www.huffingtonpost.kr/2015/06/06/story_n_7524652.html)
