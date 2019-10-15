@@ -259,6 +259,7 @@ PyTorch
 * [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
 * [pytorch-qrnn - Quasi-Recurrent Neural Network (QRNN) for PyTorch](https://github.com/salesforce/pytorch-qrnn)
+* [pytorch-template - PyTorch deep learning projects made easy](https://github.com/victoresque/pytorch-template)
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
 * [QuickDraw - Implementation of Quickdraw - an online game developed by Google](https://github.com/1991viet/QuickDraw)
 * [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
