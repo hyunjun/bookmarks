@@ -280,6 +280,7 @@ TensorFlow
 * [NCCL을 이용한 Efficient한 Tensorflow MultiGPU Training 코드 작성하기](http://openresearch.ai/t/nccl-efficient-tensorflow-multigpu-training/159)
 * [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
 * [Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
+* [E2E tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 * [Boost Python으로 Tensorflow에서 C++ API 사용하기](http://blog.naver.com/atelierjpro/220965203959)
 * [Tensorflow1.0 에 있는 wide_n_deep_tutorial.py 를 분석해 보았습니다](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
@@ -740,6 +741,10 @@ TensorFlow
 * S4TF
   * [fast.ai Embracing Swift for Deep Learning](https://www.fast.ai/2019/03/06/fastai-swift/)
     * [딥러닝에 Swift를 도입하는 fast.ai](https://github.com/fast-ai-kr/ko-translation/blob/master/fastai-common/fastai-swift.md)
+  * [swiftML - Swift library for Machine Learning based on Swift for TensorFlow Project](https://github.com/param087/swiftML)
+    * S4TF 라이브러리를 베이스로, 전통적으로 많이 사용되어 오던 머신러닝 알고리즘을 Swift 언어로 구현, API화
+    * 현재 지원되는 알고리즘 AdaBoost, BernoulliNB, GaussianNB, MultinomialNB, DecisionTree, GradientBoostingRegressor, GradientDescentLinearRegression, KMeans, KNNClassifier, KNNRegressor, LeastSquaresLinearRegression, Logistic Regression, PCA, RandomForest, SingularValueDecompositionLinearRegression
+    * 각 알고리즘의 사용 방법에 대한 예제 주피터 노트북이 모두 작성
 * [Scatteract - a framework to automatically extract data from the image of scatter plots](https://github.com/bloomberg/scatteract)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [SpecAugment that speech data augmentation method which directly process the spectrogram with Tensorflow, introduced by Google Brain](https://github.com/shelling203/SpecAugment)
@@ -810,6 +815,7 @@ TensorFlow
   * [aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [Experimenting with autoregressive flows in TensorFlow Probability](https://blogs.rstudio.com/tensorflow/posts/2019-04-24-autoregressive-flows)
+* [Tensorflow-Project-Template - A best practice for tensorflow project template architecture](https://github.com/MrGemy95/Tensorflow-Project-Template)
 * TensorFlow.text
   * [Google launches TensorFlow.Text library for language AI models](https://venturebeat.com/2019/06/10/google-launches-tensorflow-text-library-for-language-ai-models)
 * TENSORFLOWSHARP
