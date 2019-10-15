@@ -357,6 +357,7 @@ NLP
 * [BERT 설명 발표 자료](https://banana-media-lab.tistory.com/entry/BERT-설명-발표-자료)
 * [파이콘 2019 100억건의 카카오톡 데이터로  똑똑한 일상대화 인공지능 만들기](https://speakerdeck.com/codertimo/paikon-2019-100eoggeonyi-kakaotog-deiteoro-ddogddoghan-ilsangdaehwa-ingongjineung-mandeulgi)
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
+* [exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformers Models](http://exbert.net/)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
