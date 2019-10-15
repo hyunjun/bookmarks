@@ -85,6 +85,7 @@ Interview
   * [29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
 * [1. 인터뷰 하기 까지...한국에서 영어로 말해본적도 없고... 어떻게 미국 취업????](http://www.neochae.com/2016/12/1.html)
 * [2. 직장생활 시작...수습기간 통과 및 언어 핸디캡 극복하기](http://www.neochae.com/2016/12/2.html)
+* [미국 두번째 인터뷰 후기...](http://www.neochae.com/2019/10/blog-post.html)
 * [코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 * [어떻게 질문하는가?](https://brunch.co.kr/@imagineer/292)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
@@ -160,6 +161,8 @@ Interview
 * [The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
 * [아틀라시안 채용 후기](https://www.facebook.com/groups/helpdev/permalink/2535210356538290/) atlassian
 * [What Glassdoor interview reviews reveal about tech hiring cultures](https://huyenchip.com/2019/08/21/glassdoor-interview-reviews-tech-hiring-cultures.html)
+* [The Ultimate Guide to Machine Learning Job Interviews](https://ddf46429.springboard.com/uploads/resources/1568840998_The_Ultimate_Guide_to_AI_and_Machine_Learning_Job_Interviews_1_1_.pdf)
+* [링크드인 머신러닝 엔지니어와의 인터뷰 (어떻게 candidate를 평가하는지)](http://mkto-ab200069.com/s0sq0M609LTj0F01mS1070K)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
