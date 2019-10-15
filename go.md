@@ -227,6 +227,7 @@ Go
 * [Slack Slash Command - timezone current time 1/2](https://jusths.tistory.com/151)
 * [Slack Slash Command - timezone current time 2/2](https://jusths.tistory.com/152)
 * [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
+* [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
