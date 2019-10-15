@@ -343,6 +343,7 @@ R
 * [라그랑주 승수법](http://ds.sumeun.org/?p=1999)
 * [BERT from R](https://blogs.rstudio.com/tensorflow/posts/2019-09-30-bert-r/)
 * [도대체 그래디언트가 무엇인가?](http://ds.sumeun.org/?p=2012)
+* [R 3.5.0~ 버전에서 패키지 업데이트 블라블라 문제가 있었던 사람들을 위한 후일담](https://cojette.github.io/Rpackagerecompile/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
