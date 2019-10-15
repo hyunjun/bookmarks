@@ -357,6 +357,7 @@ Programming
 * [멜론 빅데이터 이야기](http://www.popit.kr/%EB%A9%9C%EB%A1%A0-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 * [리디북스 서버 스택 소개](http://www.ridicorp.com/blog/2016/04/18/ridibooks-stack/)
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
+* [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
 * [Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
@@ -1370,6 +1371,7 @@ Programming
   * [기술 뉴스 #133 : 19-09-02](https://blog.outsider.ne.kr/1458)
   * [기술 뉴스 #134 : 19-09-15](https://blog.outsider.ne.kr/1460)
   * [기술 뉴스 #135 : 19-10-01](https://blog.outsider.ne.kr/1462)
+  * [기술 뉴스 #136 : 19-10-15](https://blog.outsider.ne.kr/1463)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
