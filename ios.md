@@ -120,6 +120,11 @@ iOS
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [sudo-touchid - A fork of `sudo` with Touch ID support](https://github.com/mattrajca/sudo-touchid)
 * [SwiftExpress – Web Application Server in Swift](http://rshankar.com/swiftexpress-web-application-server-in-swift/)
+* [swiftplot - Swift library for Data Visualization](https://github.com/KarthikRIyer/swiftplot)
+  * Swift를 이용하여 멀티 플랫폼에서 그래프를 그리기 위한 방법으로 제안
+  * macOS, Linux, iOS에서 그래프를 그린 후, 그 결과를 그림파일로 저장하는 것이 가능하고, 주피터 노트북 상에서 렌더링 하는 것도 가능
+  * 현재 Line, Bar, Histogram 차트 지원
+  * 백엔드로, AGG) C++ rendering library 및 Simple SVG Renderer가 사용
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
 * Xamarin
   * [마이크로소프트 멜팅팟 온라인 세미나 C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
