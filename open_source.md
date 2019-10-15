@@ -55,6 +55,7 @@ Open Source
 * [오픈소스 프로젝트 운영 경험 공유](https://tv.naver.com/v/5635839)
 * [오픈소스에 번역으로 기여하기 - 기여하고자 하는 프로젝트 선정 및 환경설정 (1부)](https://fernando.kr/14)
 * [오픈소스를 금지당한 사람들의 몸부림](https://medium.com/@changjoopark/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%B8%88%EC%A7%80%EB%8B%B9%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%AA%B8%EB%B6%80%EB%A6%BC-bd1498652e68)
+* [TmaxOS에서 만든 ToOffice의 한자음목록이 LGPL v2의 libhangul의 한자 목록에서 가져온것이라고? 오픈소스 사용한다고 명시하지 않는데?](https://medium.com/libreoffice-korean-team/tmaxos에서-만든-tooffice의-한자음목록이-lgpl-v2의-libhangul의-한자-목록에서-가져온것이라고-오픈소스-사용한다고-명시하지-않는데-98d103f9c988)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
