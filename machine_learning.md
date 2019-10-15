@@ -560,6 +560,9 @@ Machine Learning
 * [AI 연구원, 머신러닝이 연금술에 불과하다고 역설](https://github.com/jehyunlee/texts/blob/master/AI_researchers_allege_that_machine_learning_is_alchemy/text.md)
 * [**Beginner Guide : Missing Data Handling**](https://subinium.github.io/missing-data-handling) imputation 결측 값 missing data 을 다루는 여러가지 방법
 * [A Gentle Introduction to Uncertainty in Machine Learning](https://machinelearningmastery.com/uncertainty-in-machine-learning/)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기(1) 콘서트 비즈니스에서 예측의 역할 — MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-1-d60350e4eb53)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기(2) 모델링, 첫 삽을 뜨기까지— MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-2-8fea028a5f0e)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기(3) 첫 번째 모델, Paul의 탄생 — MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-3-1af24baaf85b)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
