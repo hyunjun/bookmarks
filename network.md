@@ -66,7 +66,7 @@ Network
   * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
   * [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
   * [**HTTP/3: 과거, 현재 그리고 미래**](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/) 전반적인 http 내용을 잘 설명
-  * [HTTP/3는 왜 UDP를 선택한 것일까?](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+  * [**HTTP/3는 왜 UDP를 선택한 것일까?**](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
   * [HTTPS는 HTTP보다 빠르다](https://b.ssut.me/https-is-faster-than-http/)
