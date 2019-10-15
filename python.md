@@ -3014,6 +3014,7 @@ Python
 * [One-stop Guide to Data Manipulation in Python](https://medium.com/analytics-vidhya/python-data-manipulation-fb86d0cdd028) 여러가지 pandas 사용법 예제
 * [Learn a new pandas trick every day!](https://www.dataschool.io/python-pandas-tips-and-tricks/)
 * [편리한 판다스 무조건 좋을까?](http://blog.alphasquare.co.kr/221668106873)
+* [Why and How to Use Pandas with Large Data](https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
@@ -3260,8 +3261,9 @@ Python
 * [5 speed improvements in Python 3.7](https://hackernoon.com/5-speed-improvements-in-python-3-7-1b39d1581d86)
 * [Python 3.7의 새로운 기능들](http://geekhub.co.kr/blog/translation-python37-new-features)
 * [Modern Functions in Python 3](https://tech.gadventures.com/modern-functions-in-python-3-80208c44ce47)
-* [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 * [PyCon KR 2019 Why is Python 3.7 fastest](https://speakerdeck.com/jungwinter/why-is-python-3-dot-7-fastest)
+* [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
+* [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)
