@@ -198,6 +198,8 @@ Apache
   * 모니터링(prometheus) 연결; flink /opt 안에 있는 prometheus jar 파일을 /lib 에 옮기고 flink-confi.yaml 에 metrics 부분 설정해준후에 job/task pod annotation 에 prometheus.io/port 와 prometheus.io/scrape 만 설정하면 prometheus sd가 잘 수집
 * [Berlin 2019](https://berlin-2019.flink-forward.org/conference-program)
 * [europe-2019.flink-forward.org/conference-program](https://europe-2019.flink-forward.org/conference-program)
+* [Apache Flink® SQL Training](https://github.com/ververica/sql-training)
+* [Do Flink on Web with FLOW](https://speakerdeck.com/eastcirclek/do-flink-on-web-with-flow)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
@@ -484,6 +486,7 @@ Apache
 * [BUILDING A RELATIONAL DATABASE USING KAFKA](https://yokota.blog/2019/09/23/building-a-relational-database-using-kafka/) KarelDB, KCache, Avro, Calcite, Omid, Avatica
 * [**devidea.tistory.com/category/Big Data/Kafka**](https://devidea.tistory.com/category/Big%20Data/Kafka)
   * [컨트롤러 분석](https://devidea.tistory.com/71)
+* [How LinkedIn customizes Apache Kafka for 7 trillion messages per day](https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
