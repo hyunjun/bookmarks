@@ -65,6 +65,7 @@ Azure
 * [레거시 애저 서비스 버스 SDK에서 JSON 객체를 다루는 방법](https://blog.aliencube.org/ko/2019/09/11/handling-json-objects-in-legacy-azure-service-bus-sdk/)
 * [ServiceBusPlugin 트릭](https://blog.aliencube.org/ko/2019/09/18/servicebusplugin-tricks/)
 * [애저 데브옵스 다단계 파이프라인 승인 전략](https://blog.aliencube.org/ko/2019/10/02/azure-devops-multi-stage-pipelines-approval-strategies/)
+* [애저 데브옵스 파이프라인에서 애저 스토리지 에뮬레이터 사용하기](https://blog.aliencube.org/ko/2019/10/16/azure-storage-emulator-on-azure-pipelines/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
