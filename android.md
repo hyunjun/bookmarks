@@ -233,6 +233,7 @@ Android
   * [RxJava로 EventBus 만들기](https://jungwoon.github.io/android/2019/08/20/RxJava-Event-Bus/)
   * [RxJava 로 관리하는 Google Map](https://medium.com/@jsuch2362/rxjava-로-관리하는-google-map-709a86f27643)
   * [Map 과의 상호작용 분리하기](https://medium.com/@jsuch2362/map-과의-상호작용-분리하기-de2bf8c9e837)
+  * [RxJava2의 Global Error Handler 대응 #UndeliverableException](https://developer88.tistory.com/215)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
