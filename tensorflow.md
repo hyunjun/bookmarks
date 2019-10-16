@@ -729,6 +729,7 @@ TensorFlow
   * [Connecting with Music Through Magenta.js](https://magenta.tensorflow.org/blog/2018/05/03/connecting-with-magenta-js/)
   * [Generate your own sounds with NSynth](https://magenta.tensorflow.org/nsynth-fastgen)
   * [Onsets and Frames: Dual-Objective Piano Transcription](https://magenta.tensorflow.org/onsets-frames) polyphonic 피아노 음악 녹음을 위한 새로운 모델
+  * [Generating Nintendo Music Over the Phone in Python with Magenta and Twilio](https://www.twilio.com/blog/generating-nintendo-music-over-the-phone-with-magenta-and-twilio)
 * [mltest: Automatically test neural network models in one function call](https://medium.com/@keeper6928/mltest-automatically-test-neural-network-models-in-one-function-call-eb6f1fa5019d)
 * [Nvidia-docker 기반 Tensorflow 사용하기](https://www.facebook.com/notes/hyeon-gab-shin/1nvidia-docker-%EA%B8%B0%EB%B0%98-tensorflow-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/1187222141322502)
 * [paddlepaddle.org](http://www.paddlepaddle.org/)
