@@ -296,6 +296,7 @@ NLP
 * [NLP News By Sebastian Ruder](http://newsletter.ruder.io/)
 * [NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소](https://github.com/Huffon/NLP101)
 * [Natural Language Processing RoadMap - 2019](https://github.com/graykode/nlp-roadmap)
+* [NLP HighlightsPro - Allen Institute for Artificial Inte Seattle, United States](https://soundcloud.com/nlp-highlights)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
