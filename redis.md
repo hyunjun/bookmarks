@@ -144,6 +144,8 @@ Redis
   * [How to use aioredis in tornado](https://groups.google.com/forum/#!msg/aio-libs/HHGm2-NC3UA/mxVinwHKAAAJ)
   * [hello_asyncio.py](https://github.com/rudyryk/python-samples/blob/master/hello_tornado/hello_asyncio.py#L85-L99)
   * [streamis.py](https://github.com/mivade/streamis/blob/master/streamis.py)
+* [aioredlock - The asyncio implemetation of Redis distributed locks](https://github.com/joanvila/aioredlock)
+  * [aioredlock을 이용한 분산 Lock 구현](https://blog.sinwoobang.me/post/188371203297/aioredlock을-이용한-분산-lock-구현)
 * [asyncio-redis - Redis client for Python asyncio](https://github.com/jonathanslenders/asyncio-redis)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
