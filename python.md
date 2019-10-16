@@ -3024,6 +3024,7 @@ Python
 * [Learn a new pandas trick every day!](https://www.dataschool.io/python-pandas-tips-and-tricks/)
 * [편리한 판다스 무조건 좋을까?](http://blog.alphasquare.co.kr/221668106873)
 * [Why and How to Use Pandas with Large Data](https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)
+* [Binning Data with Pandas qcut and cut](https://pbpython.com/pandas-qcut-cut.html)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
