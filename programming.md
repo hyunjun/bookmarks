@@ -417,6 +417,7 @@ Programming
 * **[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)** 총정리라는 제목에 걸맞는 다양한 내용 정리
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
+* [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
 * [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
@@ -516,6 +517,7 @@ Programming
 * [DDD의 서비스 구조물이란 어떤 프로그램 덩어리인가?](https://www.popit.kr/ddd%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%AC%BC%EC%9D%B4%EB%9E%80-%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%8D%A9%EC%96%B4%EB%A6%AC%EC%9D%B8%EA%B0%80)
 * [LAYERED ARCHITECTURE(계층형 아키텍처)](https://wikibook.co.kr/article/layered-architecture/)
 * [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years/read_full)
+* [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
 
 ## Architecture Microservice MSA
 * **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
