@@ -296,6 +296,7 @@ Go
 * [Projects](https://github.com/golang/go/wiki/Projects)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
+* [구글 고의 위력을 보여주는 10가지 오픈소스 프로젝트](http://www.itworld.co.kr/news/133382)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
 * [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com ](https://github.com/caarlos0/antibody)
