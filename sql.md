@@ -53,6 +53,7 @@ SQL
 * [코드카데미, SQL 중급 강의 무료 공개](http://www.bloter.net/archives/254362)
 * [SQL,SELECT문처리순서/과정 parsing,optimization,execution,fetch,옵티마이저,파싱,실행,패치](http://ojc.asia/bbs/board.php?bo_table=LecOrccleTun&wr_id=113)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
+* [비전공자를 위한 SQL](https://brunch.co.kr/magazine/sql-beginner)
 * [나만 모르고 있던 – Flyway (DB 마이그레이션 Tool)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-flyway-db-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-tool/)
 * [예제로 배우는 SQL 프로그래밍](http://www.sqlprogram.com/)
 * [DB-Engines Ranking - Trend Popularity](http://db-engines.com/en/ranking_trend)
