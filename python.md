@@ -1528,6 +1528,7 @@ Python
 * [20190818 PyCon Korea 2019 Django DB Router로 Database Read Replicas 100% 활용기 및 Troubleshooting 경험 공유](https://www.slideshare.net/addnull/20190818-pycon-korea-2019-django-db-router-database-read-replicas-100-troubleshooting)
 * [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 * [Django - tweetme 소셜서비스 구현해보기 (1) - Django Setup](https://woolbro.tistory.com/55)
+* [Django Builder](https://mmcardle.github.io/django_builder/)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
