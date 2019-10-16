@@ -45,3 +45,4 @@ Flutter
   * [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
 * [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
 * [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
+* [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg)
