@@ -1985,6 +1985,13 @@ Python
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
+* [jovian.ml - Make Jupyter notebooks commentable collaborative sharable](https://www.jovian.ml)
+  * 1. 주피터 노트북 버전관리 (diff 도 가능)
+  * 2. 주피터 노트북의 버전별, 코드/마크다운 셀별 Comment 기능 (댓글의 댓글도 가능)
+  * 3. 프레젠테이션 모드 
+  * 4. Colab, Kaggle, Binder 로 원클릭 포팅 및 실행
+  * 5. 다른 사람이 만든 주피터 노트북 탐색
+  * 6. 주피터 노트북 clone시, 필요한 패키지 자동 탐색 및 environment.yml 파일 자동 생성
 * [JupyShare lets you release your notebook to the cloud and gives you a public endpoint for it through ngrok](https://github.com/biancasubion/jupyshare)
 * **[JupyterLab - An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture](https://github.com/jupyterlab/jupyterlab)**
   * [jupyterlab.readthedocs.io](https://jupyterlab.readthedocs.io/)
@@ -2533,6 +2540,8 @@ Python
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
 * [Ray - a fast and simple framework for building and running distributed applications](https://ray.readthedocs.io)
   * [ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
+  * [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
+  * [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
