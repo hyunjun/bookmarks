@@ -618,6 +618,7 @@ AWS
 * [S3를 이용하여 랜딩페이지 만들기](https://medium.com/harrythegreat/s3%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%9E%9C%EB%94%A9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-b80a44191641)
 * [AWS RDS for PostgreSQL에서 S3 데이터 임포트 기능 지원](https://www.44bits.io/ko/post/news--aws-rds-postgresql-supports-data-import-from-s3)
 * [AWS S3 총정리](https://ryan-han.com/post/aws/s3/)
+* [AWS S3 사이트에 HTTPS 적용 방법](https://codens.info/1713)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
