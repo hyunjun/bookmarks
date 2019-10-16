@@ -33,7 +33,6 @@ Logging
 * **NDC18 〈야생의 땅: 듀랑고〉의 데이터 엔지니어링 이야기: 로그 시스템 구축 경험 공유**
   * [1부](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
   * [2부](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
-* [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)
 * [How To Write Error Messages That Don’t Suck](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e)
 * **[로그 파일은 좋다](https://libsora.so/posts/log-file-is-good/)** 실제 구현에서 겪을 수 있는 상황에 대한 이야기라 좋음
 * [더 나은 개발자로 성장합는 팁, " 로그를 잘 남기세요."](https://www.youtube.com/watch?v=HxzlJWMcHng)
@@ -61,3 +60,7 @@ Logging
 * [Logswan is a fast Web log analyzer using probabilistic data structures](https://github.com/fcambus/logswan)
 * [Palallax - Open Source Log Analyzer for Palo Alto Networks Next-Generation Firewall](http://www.ap-com.co.jp/ja/paloalto/palallax/index_en.html)
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)
+
+# Logrotate
+* [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)
+* [logrotate를 이용하여 로그 파일을 자동으로 삭제하기](https://medium.com/encored-technologies-engineering-data-science/logrotate를-이용하여-로그-파일을-자동으로-삭제하기-dccf7b1b52b0)
