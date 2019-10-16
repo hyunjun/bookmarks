@@ -399,6 +399,7 @@ R
   * [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
   * [A new image on DigitalOcean to start using RStudio Server without waiting more than 2 minutes](https://www.r-bloggers.com/a-new-image-on-digitalocean-to-start-using-rstudio-server-without-waiting-more-than-2-minutes-2/)
 * [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
+* [R USER CONFERENCE IN KOREA 2019 프로그램](http://ruck2019.r-kor.org/program/)
 
 # Installation
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
