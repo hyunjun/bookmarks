@@ -528,6 +528,8 @@ TensorFlow
   * [Introducing TensorFlow Addons](https://medium.com/tensorflow/introducing-tensorflow-addons-6131a50a3dcf)
 * [TensorFlow 2.0 Full Tutorial - Python Neural Networks for Beginners](https://www.youtube.com/watch?v=6g4O5UOH304)
 * [Keras 창시자로부터 배우는 TensorFlow 2.0 + Keras 특강.ipynb](https://colab.research.google.com/drive/1p4RhSj1FEuscyZP81ocn8IeGD_2r46fS)
+* [텐서플로1과 텐서플로2, 코드를 직접 비교해 보겠습니다!](https://www.youtube.com/watch?v=YT2Uy5x3gaA)
+* [텐서플로2 케라스와 케라스, 코드로 비교해 봤습니다!](https://www.youtube.com/watch?v=zRQMCLTuxes)
 * [TensorFlow 2.0 출시! 무엇이 달라졌을까요?](https://www.youtube.com/watch?v=ca2eJqUiK7E)
 
 # Book
