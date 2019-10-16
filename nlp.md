@@ -1485,3 +1485,4 @@ NLP
 * [성지석-Deep contextualized word representations](https://www.youtube.com/watch?v=Vc13QVAKyGk)
 * [KCharEmb - Tutorial for character-level embeddings in Korean sentence classification](https://github.com/warnikchow/kcharemb)
   * [1909 paclic](https://www.slideshare.net/WonIkCho/1909-paclic)
+* [Word2Vec 체크리스트](https://orill.tistory.com/9)
