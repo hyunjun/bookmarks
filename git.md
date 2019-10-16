@@ -47,6 +47,7 @@ Git
 * [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 * [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out)
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
+* [12가지 명령어로 배우는 Git](https://www.youtube.com/playlist?list=PLcqDmjxt30RvjqpIBi4mtkK5LkzYtXluF)
 * [나를 구원해줄 그 분은 바로 git. 그리고 github](http://blog.puding.kr/187)
 * [Deploying branches to GitHub.com](http://githubengineering.com/deploying-branches-to-github-com/)
 * [databranches: using git as a database](https://joeyh.name/blog/entry/databranches/)
