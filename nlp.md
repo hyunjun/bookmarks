@@ -297,6 +297,7 @@ NLP
 * [NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소](https://github.com/Huffon/NLP101)
 * [Natural Language Processing RoadMap - 2019](https://github.com/graykode/nlp-roadmap)
 * [NLP HighlightsPro - Allen Institute for Artificial Inte Seattle, United States](https://soundcloud.com/nlp-highlights)
+* [SKC_Text_Preprocessing - SKC 텍스트 전처리 강의](https://github.com/Parkchanjun/SKC_Text_Preprocessing)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1288,6 +1289,7 @@ NLP
 * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 * [모두를 위한 기계번역](https://blog.naver.com/bcj1210/221581381848)
 * [SK T아카데미 모두를 위한 기계번역](https://github.com/Parkchanjun/SK_MT_FOR_EVERYONE)
+* [SKC_MachineTranslation 강의자료](https://github.com/Parkchanjun/SKC_MachineTranslation)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
