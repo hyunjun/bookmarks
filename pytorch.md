@@ -152,7 +152,6 @@ PyTorch
 * [Load tacotron2+waveglow from PyTorch Hub](https://jybaek.tistory.com/811)
 * [PyTorch Hub 톺아보기](https://jybaek.tistory.com/813)
 * [A pytorch Implementation of VoVNet Backbone Networks](https://github.com/stigma0617/VoVNet.pytorch)
-* [Detectron with VoVNet : select the vovnet branch https://arxiv.org/abs/1904.09730 ](https://github.com/stigma0617/maskrcnn-benchmark-vovnet/tree/vovnet)
 * [RESNEXT WSL](https://pytorch.org/hub/facebookresearch_WSL-Images_resnext) 페이스북 인스타그램 해시태그 pre-trained ResNext 모델
 * [AirSim Unity Reinforcement Learning Quadrotor Pytorch](https://github.com/subinlab/airsim_quadrotor_pytorch)
 * [Deep Blind Video Decaptioning by Temporal Aggregation and Recurrence](https://sites.google.com/view/bvdnet)
@@ -221,6 +220,7 @@ PyTorch
   * PyTorch 1.0.0 업데이트에서 공개된 JIT compile 지원은 PyTorch 모델 서빙에 새로운 해법 제시
   * Brusta는 이 JIT compile을 활용한 다양한 응용 중 하나이며, Platform-free PyTorch Model Serving을 목표로, “PyTorch 모델의 상용화”를 지향하는 프로젝트
   * 첫 번째로 PyTorch로 만든 모델을 입력받고, 이 모델을 JVM 위에서 구동하는 서버로 제공하는 모듈을 공개
+* Captum [Open-sourcing Captum: A model interpretability library for PyTorch](https://ai.facebook.com/blog/open-sourcing-captum-a-model-interpretability-library-for-pytorch/)
 * [Clipper Tutorial](https://github.com/ucbrise/clipper-tutorials) PyTorch, Tensorflow, PySpark, Scikit-Learn 으로 만든 모델 배포
 * [ComplexCNN - pytorch implementation of complex convolutional neural network](https://github.com/litcoderr/ComplexCNN)
   * 대부분 딥러닝 모델들은 실수를 취급
@@ -229,6 +229,8 @@ PyTorch
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
 * [Delve lets you monitor PyTorch model layer saturation during training](https://pypi.org/project/delve/)
   * [Optimizing Deep Neural Networking with Delve - Justin Shenk](https://www.youtube.com/watch?v=kFT58uIRd1Q)
+* [Detectron with VoVNet : select the vovnet branch https://arxiv.org/abs/1904.09730 ](https://github.com/stigma0617/maskrcnn-benchmark-vovnet/tree/vovnet)
+* [Detectron2: A PyTorch-based modular object detection library](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
 * [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
