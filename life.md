@@ -13,6 +13,7 @@ Life
 * [자동차 계기판 경고등 종류](https://gogosa77.blog.me/221026316766)
 * [알아두면 쓸모 있는 교통사고 대응 팁](http://www.pickis.co.kr/?p=115278)
 * [테슬라 모델 S 구입기 - #03 차량 셀프 등록하기](https://www.androidhuman.com/life/2019/07/11/start_on_model_s_3/)
+* ['운전자 보험 vs 법률 지원 특약', 뭐가 유리할까?](https://brunch.co.kr/@kosy0346/32)
 
 # Insurance
 * [비과세 복리 저축 보험을 파헤친다](http://youngbinlee.com/2011/04/taxfree-saving/)
