@@ -97,3 +97,4 @@ Google Cloud Platform GCP
 * [Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver](https://cloud.google.com/blog/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver)
 * [GCP 인스턴스 그룹](https://jybaek.tistory.com/837)
 * [인스턴스 그룹과 템플릿, 그리고 이미지](https://jybaek.tistory.com/840)
+* [Google Cloud Load Balancer 핵심만 빠르게 훑어보기](https://jybaek.tistory.com/843)
