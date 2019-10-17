@@ -371,6 +371,7 @@ Docker
 * [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](https://www.redhat.com/en/blog/architecting-containers-part-1-why-understanding-user-space-vs-kernel-space-matters)
 * [도커와 컨테이너의 이런저런 역사 이야기](https://prudentcircle.gitlab.io/posts/20190827_docker_history/)
 * [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
+* [클라우드 파운드리의 진화](https://slownews.kr/74385)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -723,6 +724,8 @@ Docker
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [Why data scientists love Kubernetes](https://opensource.com/article/19/1/why-data-scientists-love-kubernetes)
 * [대세는 클라우드 네이티브 컴퓨팅, 문제는 보안이다](https://slownews.kr/74370)
+* [쿠버네티스에 MicroProfile 기반의 Java 마이크로 서비스 구축하기](https://developer.ibm.com/kr/journey/deploy-microprofile-java-microservices-on-kubernetes/)
+  * [쿠버네티스 클러스터에 MicroProfile 기반의 Java 마이크로서비스 구축하기](https://github.com/IBM/Java-MicroProfile-on-Kubernetes/blob/master/README-ko.md)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
