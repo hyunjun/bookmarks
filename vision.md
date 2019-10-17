@@ -507,6 +507,8 @@ Vision
 * [Histogram](https://medipixel.github.io/post/histogram/)
 * [Image Thresholding](https://medipixel.github.io/post/image-thresholding/)
 * [Haar-Like Features in Face Detection With Python](https://www.youtube.com/watch?v=RPoUdDGonWc)
+* [albumentations - fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
+  * [Albumentations, an image augmentation library version 0.4 released. New augmentations, support for images and masks with more than 3 channels, "Hall of Fame" that contains a list of machine learning competitions in which the library was used](https://www.reddit.com/r/MachineLearning/comments/dibnqe/p_albumentations_an_image_augmentation_library/)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
