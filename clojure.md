@@ -288,6 +288,7 @@ Clojure
 * [Stuart Halloway Aim Small, Miss Small: Writing Correct Programs](https://www.deconstructconf.com/2018/stuart-halloway-aim-small-miss-small-writing-correct-programs)
 * [Clojure socket prepl cookbook](https://oli.me.uk/2019-03-22-clojure-socket-prepl-cookbook/)
 * [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
+* [Try to build with graal](https://github.com/dundalek/closh/commit/352a523385ca8a99d25aeec2d18d0bca6ed8e5e2)
 * [Datahike Release 0.2.0](https://lambdaforge.io/2019/09/20/datahike-release-0.2.0.html)
 
 # API
