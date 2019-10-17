@@ -453,6 +453,7 @@ Programming Books
 * (NOT YET) [브레인 이미테이션? 무슨 의미일까요?](https://jpub.tistory.com/944)
 * (NOT YET) [신경망과 심층학습: 뉴럴 네트워크와 딥러닝 교과서](https://jpub.tistory.com/957)
   * [번역서 '신경망과 심층 학습' 출간 소식 및 근황](http://occamsrazr.net/tt/357)
+* (NOT YET) [파이썬을 활용한 딥러닝 전이학습 Transfer Learning으로 빠르고 손쉽게 구축하는 고급 딥러닝 모델](https://wikibook.co.kr/transfer-learning/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
