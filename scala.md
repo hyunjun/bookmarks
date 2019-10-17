@@ -536,6 +536,8 @@ Scala
     * [자바 얘기 하다가 라이브 코딩 (2018-11-16)](https://www.youtube.com/watch?v=PukoEtEovDA) 47분~
     * [Scala meetup — the movie](https://medium.com/tradeshift-engineering/scala-meetup-the-movie-5f9bee41f48f)
     * [YOW! Lambda Jam 2017 Jacob Stanley - Gens N’ Roses: Appetite for Reduction](https://www.youtube.com/watch?v=AIv_9T0xKEo)
+    * [State-based Testing (Hedgehog) - Charles O'Farrell (2019-09-23)](https://www.youtube.com/watch?v=YhAxC_VI2dc)
+      * Property-based testing 툴을 통해서 입력 값을 랜덤으로 받아서 테스트 하던것을 넘어 상태 변화까지 랜덤으로 테스트 가능
   * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
     * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
   * [ScalaTest](http://www.scalatest.org/)
