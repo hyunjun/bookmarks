@@ -926,6 +926,7 @@ Programming
   * [QCon San Francisco](https://qconsf.com)
 * [Soscon](http://www.soscon.net/)
   * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
+  * [개발자, 회사.. 왜 오픈소스를 해야할까?](https://www.slideshare.net/MinsukLee/soscon2019/MinsukLee/soscon2019)
 * Strata Data Conference 
   * [Make Data Work](https://conferences.oreilly.com/strata/strata-ny/public/schedule/proceedings)
 * Tech planet
