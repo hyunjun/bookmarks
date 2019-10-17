@@ -572,6 +572,7 @@ Python
   * [클래스에 메서드를 추가하는 decorator](http://blog.woosum.net/archives/1584) monkeypatch와 같이 기존 클래스에 새로운 메소드 추가하는 decorator
   * [decorator를 이용한 함수의 doc string 구하기](http://mcchae.egloos.com/11295614)
   * [Function Decorators in Python - Add extra functionality to your Python functions](https://medium.com/python-monkey/function-decorators-74c08b9493bf)
+  * [파이썬 데코레이터(Decorator)에 파라미터 넣기](https://blog.naver.com/codeitofficial/221680630354)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -3294,7 +3295,7 @@ Python
 * [Python Sympy 모듈 이해하기](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
 * [파이썬 심파이(Sympy)와 함께하는 수학여행](http://sympy.xwmooc.org/02-sympy-install.html)
 
-# Test
+# TDD, Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
 * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
@@ -3316,6 +3317,7 @@ Python
   * [Episode #67: Property-based Testing with Hypothesis](https://talkpython.fm/episodes/show/67/property-based-testing-with-hypothesis)
   * [Hypothesis with David MacIver - Episode 52](https://pythonpodcast.com/episode-52-hypothesis-with-david-maciver/)
   * [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
+  * [Intro to property-based testing in Python](https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/)
 * [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
   * [우아하게 준비하는 테스트와 리팩토링 - PyCon Korea 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
 * **[PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi)** 주로 Django 기반이지만 매우 좋은 내용
@@ -3343,6 +3345,7 @@ Python
   * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
   * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
   * **[PyconKR 2019 pytest로 파이썬 코드 테스트하기](https://www.slideshare.net/ssuser80e030/pytest-164575856)**
+  * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest 
 * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
   * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)

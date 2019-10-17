@@ -81,9 +81,7 @@ Open Source
 # [Disney](http://disney.github.io/)
 
 # Dropbox
-* [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/)
-  * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
-  * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
+* [How Dropbox Security builds tools for threat detection and incident response](https://blogs.dropbox.com/tech/2019/10/how-dropbox-security-builds-better-tools-for-threat-detection-and-incident-response/)
 * [드롭박스가 공개한 무료 JPEG 압축SW](http://techholic.co.kr/archives/57319)
 * Edgestore; 메타데이터를 저장하는 MySQL 샤드 클러스터
   * [(Re)Introducing Edgestore](https://blogs.dropbox.com/tech/2016/08/reintroducing-edgestore/)
