@@ -452,6 +452,7 @@ Programming
       * **[(번역) 2019년 7월 2일 Cloudflare 장애 보고서](https://ryanking13.github.io/2019/07/18/details-of-the-cloudflare-outage-on-july-2-2019.html)**
   * [The Technical Challenges of Building Cloudflare WARP](https://blog.cloudflare.com/warp-technical-challenges/)
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
+  * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
