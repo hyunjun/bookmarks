@@ -386,6 +386,7 @@ App
     * [VS Code 로 넘어가기 (2019)](https://rein.kr/blog/archives/4740)
     * ['매일 써도 좋을' 비주얼 스튜디오 코드 확장 기능 7가지](http://www.ciokorea.com/news/130582)
     * [LeetCode - Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
+    * [4분코딩 2019 최고의 에디터 비주얼 스튜디오 코드(Visual Studio Code)](https://www.youtube.com/watch?v=iNXTXefTsrs)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
