@@ -30,6 +30,7 @@ Javascript
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
 * [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 * [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
+* [The V8 Engine and JavaScript Optimization Tips](https://alligator.io/js/v8-engine/)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
@@ -436,6 +437,7 @@ Javascript
 * [리액트, 노드 백엔드 통합 후 CI 연동하기](http://blog.jeonghwan.net/2018/08/19/express-travis-beanstalk.html)
 * [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859)
 * **[33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)**
+  * [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
 * [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
 * [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
 * [How to differentiate between deep and shallow copies in JavaScript](https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd)
@@ -1842,6 +1844,7 @@ Javascript
 * [라이프 사이클](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 * **[React로 만든 프로젝트 톺아보기](http://blog.jeonghwan.net/2018/07/16/react-app-overview.html)**
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+  * [React 개발자 로드맵](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-KO.md)
 * [super-simple-react-starter -  A simple react project starter kit with best practices](https://github.com/myungjaeyu/super-simple-react-starter)
 * [React에 Component만들기](http://blog.myeongsku.com/17)
 * [React.js MERN CRUD Example](https://github.com/edoko/react-mern-crud-example)
@@ -1914,6 +1917,7 @@ Javascript
 * [Reconciliation: React의 렌더링 알고리즘](https://www.huskyhoochu.com/virtual-dom)
 * [NAVER Tech Talk: FE devtalk 12회 (2018년 8월)](https://d2.naver.com/news/4244163) redux, mobx & mst
 * [NAVER Tech Talk: FE devtalk 13회 (2018년 12월)](https://d2.naver.com/news/0327037) Polymer, Vue.js, Functional JS
+* [NAVER Tech Talk: FE devtalk 15회 (2019년 9월)](https://d2.naver.com/news/3691882)
 * [How to create a three layer application with React](https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0)
 * [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 * [react automata](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180913_WJ_react_automata.md)
@@ -2590,3 +2594,4 @@ Javascript
 * [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/)
 * [React의 고차 컴포넌트(HOC) 패턴, 이제는 Vue에도 적용해보자](https://wormwlrm.github.io/2019/09/08/Higher-Order-Component-pattern-in-Vue.html)
 * [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
+* [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
