@@ -257,6 +257,12 @@ Scala
   * [`-XX:MaxInlineLevel=18 -XX:MaxInlineSize=270 -XX:MaxTrivialSize=12`](https://twitter.com/leifwickland/status/1179419045055086595)
   * [`-XX:MaxInlineLevel=18`](https://github.com/scala/bug/issues/11627#issuecomment-514490505)
   * [Tweak the Java JIT](https://scalacenter.github.io/bloop/docs/performance-guide#tweak-the-java-jit)
+* [Scala WIL(Weekly I Learned) Part.01](https://www.sangkon.com/scala-wil-part01/)
+* [Scala WIL(Weekly I Learned) Part.02](https://www.sangkon.com/scala-wil-part02/)
+* [Scala WIL(Weekly I Learned) Part.03](https://www.sangkon.com/scala-wil-part03/)
+* [Scala WIL(Weekly I Learned) Part.04](https://www.sangkon.com/scala-wil-part04/)
+* [Scala WIL(Weekly I Learned) Part.05](https://www.sangkon.com/scala-wil-part05/)
+* [Scala WIL(Weekly I Learned) Part.06](https://www.sangkon.com/scala-wil-part06/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
