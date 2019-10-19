@@ -408,6 +408,7 @@ AWS
 * [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #1](https://brunch.co.kr/@alden/54)
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #2](https://brunch.co.kr/@alden/56)
+* [New – Amazon CloudWatch Anomaly Detection](https://aws.amazon.com/ko/blogs/aws/new-amazon-cloudwatch-anomaly-detection/)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
