@@ -46,3 +46,4 @@ Flutter
 * [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
 * [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
 * [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg)
+* [Why we think Flutter will help us scale mobile development at Nubank](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)
