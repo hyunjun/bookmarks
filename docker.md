@@ -74,6 +74,8 @@ Docker
 * [Deploy Docker Containers with Docker Cloud](https://www.youtube.com/watch?v=F82K07NmRpk) 예전 버전인 점 감안
 * [DockerHub의 Automated Build](https://blog.outsider.ne.kr/1387)
 * [Travis CI에서 Docker Hub에 이미지 푸시하기](https://blog.outsider.ne.kr/1388)
+* [Docker - 이미지와 컨테이너, 10분 정리](https://www.sangkon.com/hands-on-docker-part1/)
+* [Docker - 컴포넌트, 20분 정리](https://www.sangkon.com/hands-on-docker-part2/)
 * [Managing Open-Source Docker Images on Docker Hub using Travis](https://medium.com/vaidikkapoor/managing-open-source-docker-images-on-docker-hub-using-travis-7fd33bc96d65)
 * [Docker Machine으로 Docker Node 뿌리기 - Docker is Not In My BackYard, But on the Cloud!](http://www.sauru.so/blog/provision-docker-node-with-docker-machine/)
 * [Docker Machine 다시 보기 - A Little More About Docker Machine](http://www.sauru.so/blog/little-more-about-docker-machine/)
@@ -780,6 +782,7 @@ Docker
 * [Podman - Manage pods, containers, and container images](https://podman.io/)
   * [Replacing Docker With Podman](https://www.youtube.com/watch?v=N0hSn5EwW8w)
   * [Podman and Buildah for Docker users](https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users)
+  * [Replacing Docker with Podman — Power of Podman — Cloudnweb](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
