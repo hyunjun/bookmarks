@@ -392,6 +392,7 @@ Python
   * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
 * [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
 * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
+* [Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
 * [Pointers in Python](https://www.datacamp.com/community/tutorials/python-pointers)
 * [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA)
 * [How to Make Histograms in Pure Python](https://www.youtube.com/watch?v=OpTwGLVCtHQ)
@@ -2208,6 +2209,7 @@ Python
   * [셀러리 입문하기](https://beomi.github.io/2017/03/19/Introduction-to-Celery/)
   * [Asynchronous Tasks in Python - Celery Backend Tutorial](https://www.youtube.com/watch?v=UHveawwmi-o)
   * [Asynchronous Tasks in Python - Getting Started With Celery](https://www.youtube.com/watch?v=fg-JfZBetpM)
+  * [Celery 관련 기사/튜토리얼/How-To를 읽고 메모한 내용](https://www.sangkon.com/celery_read_article/)
   * [Flower - Celery monitoring tool](https://flower.readthedocs.io/)
 * [cffi](http://cffi.readthedocs.io/)
   * [Flexible runtime interface to shared libraries with libffi](http://eli.thegreenplace.net/2013/03/04/flexible-runtime-interface-to-shared-libraries-with-libffi/)
@@ -3232,6 +3234,7 @@ Python
 * ["파이썬 성능 향상을 위한" 파이파이란 무엇인가](http://www.itworld.co.kr/news/122334)
 * [cppyy: C++ bindings for PyPy](http://doc.pypy.org/en/release-2.4.x/cppyy.html)
 * [ubuntu pypy 설치 & benchmark](https://github.com/jehyunlee/texts/blob/master/pypy_install_ubuntu/text.md)
+* [PyPy's new JSON parser](https://morepypy.blogspot.com/2019/10/pypys-new-json-parser.html)
 
 # Python3
 * 2 & 3 호환
@@ -3278,8 +3281,10 @@ Python
 * [Python 3.7의 새로운 기능들](http://geekhub.co.kr/blog/translation-python37-new-features)
 * [Modern Functions in Python 3](https://tech.gadventures.com/modern-functions-in-python-3-80208c44ce47)
 * [PyCon KR 2019 Why is Python 3.7 fastest](https://speakerdeck.com/jungwinter/why-is-python-3-dot-7-fastest)
+* [What’s New In Python 3.8](https://docs.python.org/3/whatsnew/3.8.html)
 * [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 * [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
+* [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)
@@ -3421,6 +3426,8 @@ Python
 # VSCode, Visual Studio Code
 * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
 * [Dan Taylor - Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o)
+* [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
+* [Python in Visual Studio Code – October 2019 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2019-release)
 
 # Web
 * Let’s Build A Web Server
