@@ -1077,6 +1077,10 @@ Deep Learning
 * [How to Develop a Conditional GAN (cGAN) From Scratch](https://machinelearningmastery.com/how-to-develop-a-conditional-generative-adversarial-network-from-scratch/)
 * [How to Code the GAN Training Algorithm and Loss Functions](https://machinelearningmastery.com/how-to-code-the-generative-adversarial-network-training-algorithm-and-loss-functions)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation – Official TensorFlow implementation of the ICLR 2018 paper](https://github.com/tkarras/progressive_growing_of_gans)
+* [My Handwriting Styler, with GAN & U-Net](https://github.com/jeina7/Handwriting_styler)
+  * [My handwriting styler](https://www.slideshare.net/MinjungChung1/my-handwriting-styler)
+  * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (1) - 이론](https://jeinalog.tistory.com/15)
+  * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (2) - 실습](https://jeinalog.tistory.com/16)
 
 # Library
 * [프로그래밍 언어별 딥러닝 라이브러리 정리](http://aikorea.org/blog/dl-libraries/)
@@ -1767,6 +1771,8 @@ Deep Learning
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
   * [Feed-forward neural doodle](http://dmitryulyanov.github.io/feed-forward-neural-doodle/)
   * [Online neural doodle](https://likemo.net/)
+* [ancient-text-restoration - Restoring ancient text using deep learning: a case study on Greek epigraphy](https://github.com/sommerschield/ancient-text-restoration)
+  * [Restoring ancient text using deep learning: a case study on Greek epigraphy](https://deepmind.com/research/publications/Restoring-ancient-text-using-deep-learning-a-case-study-on-Greek-epigraphy)
 
 ## Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
