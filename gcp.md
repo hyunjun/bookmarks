@@ -65,6 +65,7 @@ Google Cloud Platform GCP
   * [7탄 — Istio 로 하는 Service Mesh](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-7%ED%83%84-istio-%EB%A1%9C-%ED%95%98%EB%8A%94-service-mesh-9e9363945cbb)
   * [8탄 — Istio 더 알아보기1 (Traffic Management)](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-8%ED%83%84-istio-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B01-traffic-management-bc7b3674b7f2)
 * [Announcing new GKE architecture specialization—now with one month free access](https://cloud.google.com/blog/products/containers-kubernetes/announcing-new-gke-architecture-specialization)
+* [구글 GKE 네트워크 기본 보안](https://bcho.tistory.com/1358)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
 * [Deep learning VM](http://bcho.tistory.com/1298)
   * [cloud.google.com/deep-learning-vm/docs/concepts-images](https://cloud.google.com/deep-learning-vm/docs/concepts-images)
