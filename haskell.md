@@ -161,6 +161,7 @@ Haskell
 * [Coroutine.hs](https://github.com/damhiya/Coroutine/blob/master/Control/Monad/Coroutine.hs)
 * [Data.Proxy](https://kseo.github.io/posts/2017-01-15-data-proxy.html)
 * [Elm Town 47 - A Cool, Easy Way To Start Learning Haskell](https://elmtown.simplecast.fm/a-cool-easy-way-to-start-learning-haskell)
+* ["A history of Haskell: being lazy with class"를 읽고](https://www.sangkon.com/study-a-history-of-haskell-part1/)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
