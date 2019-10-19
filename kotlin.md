@@ -124,6 +124,7 @@
 * [Kotlin Extension Functions에 대해서 정리해 봅니다](https://developer88.tistory.com/211)
 * [Kotlin Coroutine에 대한 정리](https://developer88.tistory.com/213)
 * [GOTO 2019 • Kotlin: Dissecting the stdlib • Huyen Tue Dao](https://www.youtube.com/watch?v=uCMuGVh7W_0)
+* [나 혼자 Kotlin v1.0 - Part.1](https://www.sangkon.com/kotlin_study_with_tdd_part_1/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
