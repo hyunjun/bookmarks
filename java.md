@@ -351,6 +351,14 @@ Java
 * [자바 SE 8에 대한 질의응답(파트 1)](https://blog.naver.com/lube12/221170814388)
 * [How to make parallel calls in Java with CompletableFuture example](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
 * [CompletableFuture 비동기 처리로 성능 개선하기](http://blog.woniper.net/361)
+* [뒤늦게 배워보자, Java 8 Part. 1](https://www.sangkon.com/java8_study_part1/)
+* [뒤늦게 배워보자, Java 8 Part. 2](https://www.sangkon.com/java8_study_part2/)
+* [뒤늦게 배워보자, Java 8 Part. 3](https://www.sangkon.com/java8_study_part3/)
+* [뒤늦게 배워보자, Java 8 Part. 4](https://www.sangkon.com/java8_study_part4/)
+* [뒤늦게 배워보자, Java 8 Part. 5](https://www.sangkon.com/java8_study_part5/)
+* [뒤늦게 배워보자, Java 8 Part. 6](https://www.sangkon.com/java8_study_part6/)
+* [뒤늦게 배워보자, Java 8 Part. 7](https://www.sangkon.com/java8_study_part7/)
+* [뒤늦게 배워보자, Java 8 Part. 8](https://www.sangkon.com/java8_study_part8/)
 
 ## Java8 Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
@@ -412,6 +420,7 @@ Java
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
 * [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
   * [Amazon Corretto, 장기 지원 멀티 플랫폼 OpenJDK 무료 배포판 사용하기](https://aws.amazon.com/ko/blogs/korea/amazon-corretto-multi-platfom-openjdk-distribution)
+  * [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자/)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
@@ -534,6 +543,7 @@ Java
   * [DIY Gradle build optimization](https://proandroiddev.com/gradle-perf-9c11b640f329)
   * [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
   * [buildConfigField 로 Debug와 Release 가 다른 값을 가지는 방법](https://developer88.tistory.com/176)
+  * [혼자서 연습해본 Gradle 4.1 튜토리얼 - 그야 말로 대충 번역!](https://www.sangkon.com/gradle-basic-tutorial/)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
@@ -600,6 +610,7 @@ Java
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
+* [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952) jmeter
 * [jsoup: Java HTML Parser](https://jsoup.org/)
 * [jvisualvm을 사용한 jvm 모니터링](http://m.egloos.zum.com/aploit/v/5746753)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
@@ -871,6 +882,7 @@ Java
 * [1. 간단한 대용량 배치처리, 스프링부트배치](https://ahndy84.tistory.com/18)
 * [2. 미납회원 배치처리 구현](https://ahndy84.tistory.com/19)
 * [Ajax 통신 Example](https://woolbro.tistory.com/53)
+* [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/hands-on-springboot-logging/)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
