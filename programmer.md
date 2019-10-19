@@ -1,6 +1,7 @@
 Programmer
 ==========
 * **[Habits maketh engineer — collaboration](https://engineering.huiseoul.com/habits-maketh-man-collaboration-6f352111d2da)**
+* [Eight Habits of Expert Software Designers: An Illustrated Guide](https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/)
 * [흔하지 않은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 * [awesome-devblog.now.sh](https://awesome-devblog.now.sh/)
   * [awesome-devblog 개발 블로그 모음. 개발자 위키로 편집중](https://github.com/sarojaba/awesome-devblog)
