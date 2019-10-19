@@ -67,6 +67,7 @@ Network
   * [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
   * [**HTTP/3: 과거, 현재 그리고 미래**](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/) 전반적인 http 내용을 잘 설명
   * [**HTTP/3는 왜 UDP를 선택한 것일까?**](https://evan-moon.github.io/2019/10/08/what-is-http3/)
+  * [An early look at HTTP/3](https://pgjones.dev/blog/early-look-at-http3-2019/)
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
   * [HTTPS는 HTTP보다 빠르다](https://b.ssut.me/https-is-faster-than-http/)
@@ -87,6 +88,7 @@ Network
   * [How does SSL/TLS make HTTPS secure?](https://hackernoon.com/how-does-ssl-tls-make-https-secure-d247bd4e4cae)
   * **[버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)** 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
   * [Http 보안 및 용어 정리](https://naleejang.tistory.com/216)
+  * [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
 * prism_pacman [**글로벌 네트워크 에뮬레이터 prism_pacman 소개**](https://d2.naver.com/helloworld/7847943)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
