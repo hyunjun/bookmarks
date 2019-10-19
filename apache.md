@@ -276,6 +276,7 @@ Apache
 * [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [Kafka frequent commands](https://gist.github.com/vkroz/05136cefdbb4fa61296993db17e1ae3f)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
+* [빅데이터의 기본 아파치 카프카! 개요 및 설명 | What is apache kafka?](https://www.youtube.com/watch?v=waw0XXNX-uQ)
 * [How To Install Apache Kafka on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-apache-kafka-on-ubuntu-14-04)
 * [Apache Kafka. MacOS installation guide](https://medium.com/pharos-production/apache-kafka-macos-installation-guide-a5a3754f09c)
 * [Install Kafka in RHEL 7](https://medium.com/@dindanovitasari/install-kafka-in-rhel-7-f15d10a07246)
