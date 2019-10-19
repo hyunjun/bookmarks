@@ -363,8 +363,6 @@ App
     * [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
     * [VS CODE Git 5k 없애는 방법(how to delete vs code git 5k)](https://seanlion.github.io/blog/25)
     * [Pro tips for Visual Studio Code to be productive in 2018](https://medium.com/@i_AnkurBiswas/pro-tips-for-visual-studio-code-to-be-productive-in-2018-d5252e914561)
-    * [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
-    * [Python in Visual Studio Code – October 2019 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2019-release)
     * [VS Code snippets: the most powerful tool to boost your coding productivity](https://medium.freecodecamp.org/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00)
     * [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
     * [Here are some super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
@@ -387,6 +385,7 @@ App
     * ['매일 써도 좋을' 비주얼 스튜디오 코드 확장 기능 7가지](http://www.ciokorea.com/news/130582)
     * [LeetCode - Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
     * [4분코딩 2019 최고의 에디터 비주얼 스튜디오 코드(Visual Studio Code)](https://www.youtube.com/watch?v=iNXTXefTsrs)
+    * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
@@ -508,6 +507,7 @@ App
 * [mac 기본 앱 잘 쓰기 - 미리보기앱](https://steemit.com/kr/@ggopro/mac)
 * [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps#applications)
 * [Setting up Environment Variables in MacOS Sierra](https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255)
+* [Just Bought a Mac? 14 Essential Apps You Should Install](https://www.howtogeek.com/439832/just-bought-a-mac-14-essential-apps-you-should-install/)
 * 동영상 인코딩
   * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i <MOV> [-acodec copy -vcodec copy] <mp4>`
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
@@ -613,6 +613,7 @@ App
 * [How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
 * [How to set up your Mac for Web Development](https://medium.com/free-code-camp/how-to-set-up-your-mac-for-web-development-b40bebc0cac3)
 * [Developer turns the MacBook Pro Touch Bar into a Taskbar in Windows 10](https://www.notebookcheck.net/Developer-turns-the-MacBook-Pro-Touch-Bar-into-a-Taskbar-in-Windows-10.428205.0.html)
+* [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
