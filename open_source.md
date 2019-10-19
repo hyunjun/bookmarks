@@ -102,6 +102,7 @@ Open Source
 * [Hydra - a framework for elegantly configuring complex applications https://cli.dev ](https://github.com/facebookresearch/hydra)
   * [페이스북, 머신러닝 등 복잡한 프로그램 개발 단순화하는 오픈소스 프레임 워크 공개](http://www.aitimes.kr/news/articleView.html?idxno=14387)
   * [복잡한 애플리케이션을 우아하게 구성하기위한 프레임 워크](https://pjt3591oo.github.io/hydra_translate/build/html/index.html)
+  * [Facebook Open-Sources Hydra to Simplify Configuration Management in Python Programs](https://www.infoq.com/news/2019/10/facebook-hydra-python/)
 * Relay
   * [Relay is a new framework from Facebook that promises to simplify a problem complex enough that the simplification is rather complex in itself](http://sgwilym.github.io/relay-visual-learners/)
 * [페이스북, 오픈소스 텍스트 편집기 ‘드래프트JS’ 공개](http://www.bloter.net/archives/250955)
@@ -110,8 +111,9 @@ Open Source
   * [페이스북, ZIP 대체할 압축기술 소스코드 공개 신형 마이SQL 호스트 '마이록스', 360도 동영상 안정화 알고리즘 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20160901091724)
 * [페이스북, 웹버전 아톰 에디터 오픈소스로 공개](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161230093449)
 * [State-of-the-art AI research projects and tools for the community](https://facebook.ai/developers/tools)
-* [5 ways Facebook improved compression at scale with Zstandard](https://code.fb.com/core-data/zstandard/)
-  * ORC 파일이나 데이터베이스 저장과 같은 사용 사례
+* [zstd Zstandard - Fast real-time compression algorithm http://www.zstd.net ](https://github.com/facebook/zstd)
+  * [5 ways Facebook improved compression at scale with Zstandard](https://code.fb.com/core-data/zstandard/)
+    * ORC 파일이나 데이터베이스 저장과 같은 사용 사례
 
 # [fossasia](https://fossasia.org/)
 
