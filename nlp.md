@@ -1290,6 +1290,7 @@ NLP
 * [모두를 위한 기계번역](https://blog.naver.com/bcj1210/221581381848)
 * [SK T아카데미 모두를 위한 기계번역](https://github.com/Parkchanjun/SK_MT_FOR_EVERYONE)
 * [SKC_MachineTranslation 강의자료](https://github.com/Parkchanjun/SKC_MachineTranslation)
+* [토크ON 58차. 기계번역 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
