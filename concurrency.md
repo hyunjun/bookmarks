@@ -9,6 +9,7 @@ Concurrency
 * [readers-writer lock - 공유 자원 접근하기](https://blog.seulgi.kim/2018/12/rwlock.html)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://www.popit.kr/faster-parallel-processes/) redis, RabbitMQ
 * [Why Concurrency is Hard ?](https://hackernoon.com/why-concurrency-is-hard-a45295e96114)
+* ["A survey of parallel programming models and tools in the multi and many-core era."를 읽고](https://www.sangkon.com/a-survey-of-parallel-programming-models-and-tools-in-the-multi-and-many-core-era/)
 
 # Actor
 * **[The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model)**
