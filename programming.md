@@ -218,6 +218,7 @@ Programming
   * 변수명에 대한 관점 차이를 해소하는 과정 이야기
 * [#naming closing, closed 대신 will close, did close](http://ohyecloudy.com/pnotes/archives/naming-will-close-or-closing/)
 * [그룹웨어 결재 기능으로 보이는 동료의 작명 검토를 하다가...](https://www.popit.kr/%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4-%EA%B2%B0%EC%9E%AC-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%84-%EB%B3%B4%EB%A9%B4%EC%84%9C)
+* [Welcome - The Naming Convention Project](https://namingconvention.org)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
@@ -294,6 +295,7 @@ Programming
 * [The Death of Agile and Beyond](https://www.infoq.com/articles/death-agile-beyond/)
 * [클린 소프트웨어(애자일 개발과 설계)](https://blog.naver.com/jwyoon25/221591645594)
 * [책 후기 클린 소프트웨어](http://blog.wimy.com/456/)
+* [Why software developers (quite honestly) hate Agile](https://www.objectstyle.com/agile/why-developers-hate-agile)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -358,6 +360,8 @@ Programming
 * [리디북스 서버 스택 소개](http://www.ridicorp.com/blog/2016/04/18/ridibooks-stack/)
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
+* [ODC를 구축한 기술 - Serverless, SPA, AWS Lambda Edge](https://blog.roto.codes/odc-tech-stack-aws-lambda-edge/)
+* [ODC를 구축한 기술](https://blog.roto.codes/odc-tech-stack/) frontend
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
 * [Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
@@ -402,6 +406,7 @@ Programming
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * **[안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여](http://woowabros.github.io/study/2018/03/05/sdp-sap.html)** 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
+* [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
@@ -489,6 +494,7 @@ Programming
 * [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
 * [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
+* [Google - polling like it's the 90s](https://www.ably.io/blog/google-polling-like-its-the-90s/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -790,7 +796,7 @@ Programming
 # Code Share, online executiong, Cloud IDE
 * [온라인 소스 공유 사이트 모음](http://sunnykwak.tistory.com/98)
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
-* [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 서비스 소개](http://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
+* [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 사이트](https://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [클라우드 IDE](http://www.bloter.net/archives/249173)
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
 * [codeanywhere.com](https://codeanywhere.com/)
@@ -1170,6 +1176,7 @@ Programming
 * [Stanford CS Education Library](http://cslibrary.stanford.edu/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
+* [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)
   * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
 * [coursebuffet.com](https://www.coursebuffet.com/)
@@ -1314,6 +1321,7 @@ Programming
   * [9월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/09/b-9-4.html)
   * [10월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/10/b-10-1.html)
   * [10월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/10/b-10-2.html)
+  * [10월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/10/b-10-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
