@@ -235,6 +235,7 @@ AWS
 * [AWS Summit 2019 | AWS 기술트랙 4](https://www.youtube.com/playlist?list=PLORxAVAC5fUUeaSHb91d5wpDGfR14uNCi)
 * [AWS Summit 2019 | AWS 기술트랙 5](https://www.youtube.com/playlist?list=PLORxAVAC5fUWZGawyaMyz8NepNGqHbHtZ)
 * [AWS Summit 2019 | AWS 아키텍처](https://www.youtube.com/playlist?list=PLORxAVAC5fUWWpxC5TW10P35GpLBOKWKS)
+* [WS DevDay Seoul 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWht8FSD70jbjRxp9h6izuI)
 * [AWS DevDay 2018](https://www.youtube.com/playlist?list=PLORxAVAC5fUX-mr4aJYC53zmJNgdxS-gl)
   * [AWS 2018 dev day - GraphQL with Lambda](https://www.slideshare.net/wesky93/aws-2018-dev-day-graphql-with-lambda)
 * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
