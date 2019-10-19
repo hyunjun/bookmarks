@@ -191,17 +191,8 @@ Algorithm
 * [awesome-bits - A curated list of awesome bitwise operations and tricks](https://github.com/keonkim/awesome-bits)
 * [Bitmask: There Is Space at the Bottom](https://blog.bitsrc.io/bitmask-there-is-space-at-the-bottom-5a741d18c4e3)
 
-# Probablistic Filter
-* [Probablistic Filter 확률론적 필터](https://docs.google.com/presentation/d/e/2PACX-1vRuVja4WtbxkL800SKOYeiTXvi7IciqgRAZjXqqkXCV4KWbxzLcCP2RsadezenK80Q8BrOAn3GrMGvo/pub) Bloom Filter, Counting Filter, Cuckoo hash
-
-## Bloom Filter
-* [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
-* [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
-* [What are Bloom filters?](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff)
-* [inbloom - Cross language bloom filter implementation](https://github.com/EverythingMe/inbloom) java, go, python
-* [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
-* [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
-* [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
+# Book
+* [자료구조와 알고리즘에 대해서](https://www.sangkon.com/about_ds_book/)
 
 # Complexity Big O notation
 * [Know Thy Complexities!](http://www.bigocheatsheet.com/)
@@ -420,6 +411,18 @@ Algorithm
 # Permutation
 * [Compute The Next Permutation of A Numeric Sequence - Case Analysis ("Next Permutation" on Leetcode)](https://www.youtube.com/watch?v=quAS1iydq7U)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
+
+# Probablistic Filter
+* [Probablistic Filter 확률론적 필터](https://docs.google.com/presentation/d/e/2PACX-1vRuVja4WtbxkL800SKOYeiTXvi7IciqgRAZjXqqkXCV4KWbxzLcCP2RsadezenK80Q8BrOAn3GrMGvo/pub) Bloom Filter, Counting Filter, Cuckoo hash
+
+## Bloom Filter
+* [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
+* [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
+* [What are Bloom filters?](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff)
+* [inbloom - Cross language bloom filter implementation](https://github.com/EverythingMe/inbloom) java, go, python
+* [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
+* [아주 심플한 블룸필터의 원리](https://www.slideshare.net/charsyam2/bloomfilter-82589241)
+* [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 
 # Problems
 * **[A collection of algorithms](https://github.com/williamfiset/algorithms)**
