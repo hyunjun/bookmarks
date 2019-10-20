@@ -96,6 +96,8 @@ App
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
   * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
+  * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
+  * [How to provision an Nginx server on VirtualBox using vagrant](https://devgrill.com/how-to-provision-an-nginx-server-on-virtualbox-using-vagrant/)
   * [ngrok](https://dev-yakuza.github.io/ko/environment/ngrok/)
 * VirtualBox
   * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
