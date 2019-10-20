@@ -2596,3 +2596,4 @@ Javascript
 * [React의 고차 컴포넌트(HOC) 패턴, 이제는 Vue에도 적용해보자](https://wormwlrm.github.io/2019/09/08/Higher-Order-Component-pattern-in-Vue.html)
 * [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
+* [Filtering Data The Vue Way](https://devgrill.com/filtering-data-the-vue-way/)
