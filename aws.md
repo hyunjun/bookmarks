@@ -387,6 +387,7 @@ AWS
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
 * [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
 * [Python의 AWS Glue ETL 스크립트 프로그래밍](https://docs.aws.amazon.com/ko_kr/glue/latest/dg/aws-glue-programming-python.html)
+* [RDS CA 인증서 2015 -> 2019 변경](https://linuxer.name/2019/10/rds-ca-인증서-2015-2019-변경/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
