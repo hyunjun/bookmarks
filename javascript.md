@@ -422,6 +422,7 @@ Javascript
 * [What you should know about JavaScript arrays](https://medium.freecodecamp.org/what-you-should-know-about-javascript-arrays-a7e5394f78f8)
 * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
 * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
+* [Javascript Method Chaining](https://www.youtube.com/watch?v=Iz3F3yv5rN0)
 * [How to find the index where a number belongs in an array in JavaScript](https://medium.freecodecamp.org/how-to-find-the-index-where-a-number-belongs-in-an-array-in-javascript-9af8453a39a8)
 * [Array.sort() 정렬 기준은 문자열의 유니코드 포인트](https://ohgyun.com/790)
 * [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array)
