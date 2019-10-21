@@ -2333,6 +2333,7 @@ Python
       * [google drive 연동](https://github.com/pjt3591oo/python-googledrive)
     * [Duplicate files, Deduper in Google Drive](https://eojji.blogspot.com/2019/06/duplicate-files-deduper-in-google-drive.html)
       * [Drive Deduper Finds duplicate files in Drive based on md5 checksum and offers to trash them](https://github.com/gsuitedevs/drive-utils/tree/master/deduper)
+    * [gdown - Download a large file from Google Drive (curl/wget fails because of the security notice)](https://github.com/wkentaro/gdown)
   * sheet 
     * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
@@ -2863,6 +2864,7 @@ Python
 * [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
 * [Sungchul Lee](https://www.youtube.com/user/sungchulyonseiackr/playlists) 연대 수학과 교수
 * [Microsoft: We want you to learn Python programming language for free](https://www.zdnet.com/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/)
+* [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 
 # Music
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
