@@ -416,6 +416,7 @@ R
 * [From ‘R vs Python’ to ‘R and Python’](https://towardsdatascience.com/from-r-vs-python-to-r-and-python-aa25db33ce17)
 * [8 Useful R Packages for Data Science You Aren’t Using (But Should!)](https://www.analyticsvidhya.com/blog/2019/04/8-useful-r-packages-data-science/)
 * [재무정보 시각화](https://github.com/shinykorea/shiny_financial_dashboard)
+* [Building a Corporate R Package for Pleasure and Profit](https://www.r-bloggers.com/building-a-corporate-r-package-for-pleasure-and-profit/)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
 * boruta
