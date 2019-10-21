@@ -91,7 +91,7 @@ Ruby
 
 # Ruby on Rails
 * [tutorial](https://www.railstutorial.org/book)
-* [루비온레일스 가이드](http://guides.rorlab.org/)
+* [루비온레일스 가이드](https://rorlab.gitbooks.io/railsguidebook)
 * [Ruby on Rails](https://www.youtube.com/playlist?list=PLxxA5z-8B2xmrhj6U1Id6aEjMHV41PrwU)
 * [A week with a Rails Security Strategy: More security, new habits](https://www.airpair.com/ruby-on-rails/posts/a-week-with-a-rails-security-strategy)
 * [Speed Up Your Rails App by 66% - The Complete Guide to Rails Caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
