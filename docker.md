@@ -660,6 +660,7 @@ Docker
 * 서버리스 오픈소스 - knative
   * [#1 소개 & Serving](https://bcho.tistory.com/1322)
   * [#2 Eventing](https://bcho.tistory.com/1323)
+  * [KNative Auto scaling](https://bcho.tistory.com/1359)
 * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
 * [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
 * [An 8-minute introduction to K8S](https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184)
