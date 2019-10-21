@@ -127,6 +127,7 @@ Programming Language
 * [Dash, a simple programming language written in C](http://dreamingofbits.com/dash-a-simple-programming-language-written-in-c)
 * Delphi
   * [Delphi P2P Socket Library](http://ryulib.tistory.com/457)
+* [DRAGON](https://www.dragon-lang.org)
 * [DRAKON is an algorithmic visual programming language developed within the Buran space project](https://en.wikipedia.org/wiki/DRAKON)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
 * [Eff](http://www.eff-lang.org/)
