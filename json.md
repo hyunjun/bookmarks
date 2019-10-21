@@ -124,6 +124,8 @@ Json
 * [Extract Nested Data From Complex JSON Trees](https://hackingandslacking.com/extract-nested-data-from-complex-json-trees-b3d1df6b9a06)
 * [Python 으로 JSON 빨리 처리하기](https://rein.kr/blog/archives/3670) ujson 혹은 pypy를 사용하자는 이야기
 * [Cerberus provides powerful yet simple and lightweight data validation functionality](http://docs.python-cerberus.org/en/stable/index.html)
+* [Ijson - an iterative JSON parser with a standard Python iterator interface](https://pypi.org/project/ijson/) stream 이용
+* [pandas.read_json](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_json.html)
 * [request-validator 1.5.0 - Python request validator](https://pypi.python.org/pypi/request-validator/1.5.0)
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)
 
