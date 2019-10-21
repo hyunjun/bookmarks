@@ -163,6 +163,7 @@ Interview
 * [What Glassdoor interview reviews reveal about tech hiring cultures](https://huyenchip.com/2019/08/21/glassdoor-interview-reviews-tech-hiring-cultures.html)
 * [The Ultimate Guide to Machine Learning Job Interviews](https://ddf46429.springboard.com/uploads/resources/1568840998_The_Ultimate_Guide_to_AI_and_Machine_Learning_Job_Interviews_1_1_.pdf)
 * [링크드인 머신러닝 엔지니어와의 인터뷰 (어떻게 candidate를 평가하는지)](http://mkto-ab200069.com/s0sq0M609LTj0F01mS1070K)
+* [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/) 일반적인 준비
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
