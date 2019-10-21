@@ -115,6 +115,7 @@ TensorFlow
   * [What-If Tool demo - binary classifier for smile detection in images - CelebA dataset](https://pair-code.github.io/what-if-tool/image.html)
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
+* [Tensorflow KR 3차 오프라인 모임 후기](https://zzsza.github.io/etc/2019/10/20/tensorflow-kr-3th-meeting/)
 * [Electricity price forecasting with Recurrent Neural Networks](http://www.slideshare.net/TaegyunJeon1/electricity-price-forecasting-with-recurrent-neural-networks)
   * [TF-KR 첫 모임: Electricity Price Forecasting using Recurrent Neural Networks](https://www.youtube.com/watch?v=s3n-D7SZDN8)
 * [TensorFlow KR 두번째 모임 (2017/1/14)](https://www.youtube.com/playlist?list=PLlMkM4tgfjnLHjEoaRKLdbpSIDJhiLtZE)
