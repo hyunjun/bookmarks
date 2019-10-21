@@ -2126,6 +2126,7 @@ Javascript
 * [React Native로 성공적인 MVP 개발하기](https://drive.google.com/file/d/1LKtyaDE9qnrqOeJvQRhIhWqdZ229ofR7)
 * [Performance in React Native](https://www.youtube.com/watch?v=Pa2uN2KRbj0)
 * [React Native 디버깅 환경 만들기!](https://medium.com/encored-technologies-engineering-data-science/react-native-디버깅-환경-만들기-7e46bfe89f6)
+* [맥(Mac)에 react native 개발 환경 구축하기](https://dev-yakuza.github.io/ko/react-native/install-on-mac/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
