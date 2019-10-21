@@ -357,6 +357,7 @@ Business
 * [혼내는 것도 요령이 있다](http://moneyman.kr/archives/1584)
 * [리더로 뽑히는 사소한 습관: ① 태도](https://ppss.kr/archives/194512)
 * [리더로 뽑히는 사소한 습관: ② 매력](https://ppss.kr/archives/194510)
+* [영향력으로 조직을 이끄는 법](http://www.andrewahn.co/product/leading-with-influence/) 여러가지 soft skill
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
