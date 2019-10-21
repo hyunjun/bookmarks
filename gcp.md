@@ -99,3 +99,4 @@ Google Cloud Platform GCP
 * [GCP 인스턴스 그룹](https://jybaek.tistory.com/837)
 * [인스턴스 그룹과 템플릿, 그리고 이미지](https://jybaek.tistory.com/840)
 * [Google Cloud Load Balancer 핵심만 빠르게 훑어보기](https://jybaek.tistory.com/843)
+* [구글 클라우드 쉘에서 VS Code 사용하기](http://blog.wimy.com/457/)
