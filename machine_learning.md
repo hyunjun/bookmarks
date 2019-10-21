@@ -42,7 +42,6 @@ Machine Learning
 * [머신러닝 속 수학](https://mingrammer.com/translation-the-mathematics-of-machine-learning)
 * [Probability Distribution 기계학습을 위한 수학](https://forums.alina.ai/t/probability-distribution/103)
 * [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
-* [Mathematics for Machine Learning](https://mml-book.github.io/)
 * **[An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)**
 * [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)
 * [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2)
@@ -599,6 +598,7 @@ Machine Learning
 * [The "Python Machine Learning" book code repository and info resource](https://github.com/rasbt/python-machine-learning-book)
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
+  * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
 * [A Beginner Mathematics Book For Machine Learning](https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/)
 * [Model-Based Machine Learning](http://mbmlbook.com)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
@@ -1051,6 +1051,9 @@ Machine Learning
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
+* Uber
+  * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
+  * [우버의 머신러닝 플랫폼 '미켈란젤로(Michelangelo)'의 진화](http://www.aitimes.kr/news/articleView.html?idxno=14495)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
