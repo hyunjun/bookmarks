@@ -55,7 +55,6 @@ PyTorch
   * [Attentive Recurrent Comparator 이해](https://www.facebook.com/nextobe1/posts/367156013720400)
   * [arc-pytorch - PyTorch implementation of Attentive Recurrent Comparators by Shyam et al](https://github.com/sanyam5/arc-pytorch)
 * [Fast.ai's software could radically democratize AI](https://www.zdnet.com/article/fast-ais-new-software-could-radically-democratize-ai/)
-* [sru - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)](https://github.com/taolei87/sru)
 * [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
 * [PyTorch vs. TensorFlow: 1 month summary](https://medium.com/towards-data-science/pytorch-vs-tensorflow-1-month-summary-35d138590f9)
 * [PyTorch Neural Style Transfer Windows](http://blog.naver.com/atelierjpro/221115408033)
@@ -64,10 +63,6 @@ PyTorch
 * [Memory efficient implementation of dense nets](https://www.slideshare.net/HyungjooCho2/memory-efficient-implementation-of-dense-nets)
 * [pytorch-ewc](https://github.com/kuc2477/pytorch-ewc)
 * [Implementing REINFORCE from scratch](https://github.com/schmit/notebooks/blob/master/notebooks/reinforce/reinforce-discrete.ipynb)
-* Graph CNN
-  * [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
-  * [Pytorch Implementation for Graph Convolutional Neural Networks](https://github.com/meliketoy/graph-cnn.pytorch)
-  * [CapsGNN A PyTorch implementation of "Capsule Graph Neural Network" (ICLR 2019)](https://github.com/benedekrozemberczki/CapsGNN)
 * [pytorch-deep-generative-replay - PyTorch implementation of Continual Learning with Deep Generative Replay, NIPS 2017](https://github.com/kuc2477/pytorch-deep-generative-replay)
 * [Poincaré Embeddings for Learning Hierarchical Representations](https://github.com/facebookresearch/poincare-embeddings)
 * [Decoupled Neural Interfaces for PyTorch](https://github.com/koz4k/dni-pytorch)
@@ -93,7 +88,6 @@ PyTorch
 * [MaD TwinNet On-line Demo](http://arg.cs.tut.fi/demo/mad-twinnet/)
 * [Getting Started with PyTorch Part 1: Understanding how Automatic Differentiation works](https://towardsdatascience.com/getting-started-with-pytorch-part-1-understanding-how-automatic-differentiation-works-5008282073ec)
 * [Generative Adversarial Networks (GANs) in 50 lines of code (PyTorch)](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f)
-* [Spherical CNNs - Equivariant CNNs for the sphere and SO(3) implemented in PyTorch](https://github.com/jonas-koehler/s2cnn)
 * [Draw Like Bob Ross (With Pytorch!)](https://kndrck.co/posts/draw_like_bob_ross_with_pytorch/)
 * [pytorch-exercise](https://github.com/nmhkahn/pytorch-exercise)
 * [「PyTorchで学ぶニューラルネットワークと深層学習」サンプルコード集](https://qiita.com/KentFujii/items/50c7a111eb661cb41f47)
@@ -116,7 +110,6 @@ PyTorch
 * [pytorch-mnist-VAE - Variational AutoEncoder on the MNIST data set using the PyTorch](https://github.com/lyeoni/pytorch-mnist-VAE)
 * [pytorch-mnist-CVAE - Conditional Variational AutoEncoder on the MNIST data set using the PyTroch](https://github.com/lyeoni/pytorch-mnist-CVAE)
 * [Pseudo CQT on Pytorch](https://keunwoochoi.wordpress.com/2018/10/24/pseudo-cqt-on-pytorch/)
-* [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
 * [Implementation maskrcnn-benchmark, pytorch c++ frontend](https://github.com/lsrock1/maskrcnn_benchmark.cpp)
 * [PyTorch developer ecosystem expands, 1.0 stable release now available](https://code.fb.com/ai-research/pytorch-developer-ecosystem-expands-1-0-stable-release/)
 * [PyTorch 1.0: now and in the future - Adam Paszke](https://www.youtube.com/watch?v=OkyqgWd2jBk)
@@ -158,11 +151,8 @@ PyTorch
   * [Deep_Blind_Video_Decaptioning](https://github.com/mcahny/Deep_Blind_Video_Decaptioning)
 * [Deep Video Inpainting](https://sites.google.com/view/deepvinet)
   * [Deep_Video_Inpainting](https://github.com/mcahny/Deep-Video-Inpainting)
-* [Pytorch-Transformers](https://huggingface.co/pytorch-transformers/)
-  * [PyTorch-Transformers](https://github.com/huggingface/pytorch-transformers)
 * [Splitter - A PyTorch implementation of "Splitter: Learning Node Representations that Capture Multiple Social Contexts" (WWW 2019)](https://github.com/benedekrozemberczki/Splitter)
 * [파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch)
-* [PyTorch v1.2에서 생긴 Transformer API 를 이용한 간단한 Chitchat 챗봇](https://github.com/eagle705/PyTorch_Transformer_Chatbot)
 * [pytorch-music-composer](https://github.com/YoongiKim/pytorch-music-composer)
 * [Source Separation - Deep learning based speech source separation using Pytorch](https://github.com/AppleHolic/source_separation)
 * [From Research to Production with PyTorch](https://www.infoq.com/presentations/pytorch-torchscript-botorch/)
@@ -180,6 +170,16 @@ PyTorch
 * [KorQuAD (Korean Question Answering Dataset) submission guide using PyTorch pretrained BERT](https://github.com/lyeoni/KorQuAD)
 * [XLNet-Pytorch arxiv:1906.08237 Simple XLNet implementation with Pytorch Wrapper!](https://github.com/graykode/xlnet-Pytorch)
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
+
+# CNN
+* [Implementing CNN with Pytorch - 딥러닝 홀로서기](https://www.youtube.com/watch?v=uskpN90u-dE)
+* Graph CNN
+  * [Graph Convolutional Networks in PyTorch](https://github.com/tkipf/pygcn)
+  * [Pytorch Implementation for Graph Convolutional Neural Networks](https://github.com/meliketoy/graph-cnn.pytorch)
+  * [CapsGNN A PyTorch implementation of "Capsule Graph Neural Network" (ICLR 2019)](https://github.com/benedekrozemberczki/CapsGNN)
+* RCNN [Faster R-CNN and Mask R-CNN in PyTorch 1.0](https://github.com/facebookresearch/maskrcnn-benchmark)
+* [Spherical CNNs - Equivariant CNNs for the sphere and SO(3) implemented in PyTorch](https://github.com/jonas-koehler/s2cnn)
+* [sru - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)](https://github.com/taolei87/sru)
 
 # GAN
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
@@ -303,6 +303,12 @@ PyTorch
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [mini seq2seq](https://github.com/keon/seq2seq)
+
+# Transformer
+* [Pytorch-Transformers](https://huggingface.co/pytorch-transformers/)
+  * [PyTorch-Transformers](https://github.com/huggingface/pytorch-transformers)
+* [PyTorch v1.2에서 생긴 Transformer API 를 이용한 간단한 Chitchat 챗봇](https://github.com/eagle705/PyTorch_Transformer_Chatbot)
+* [Benchmarking Transformers: PyTorch and TensorFlow](https://medium.com/huggingface/benchmarking-transformers-pytorch-and-tensorflow-e2917fb891c2)
 
 # Translation
 * [Neural Machine Translation](https://github.com/lyeoni/nlp-tutorial/tree/master/neural-machine-translation)
