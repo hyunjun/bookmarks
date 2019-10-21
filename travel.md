@@ -263,6 +263,7 @@ Travel
 * [카오산 로드 호텔 추천 2곳 : 가격 및 정보 보기](http://hotelskr.tistory.com/552)
 * [방콕의 최고의 깨끗함을 자랑하는 인기 호스텔 - 유디 방콕 호스텔(Udee Bangkok Hostel)](https://thailove.net/bbs/board.php?bo_table=bed_gh&wr_id=15006&sfl=wr_subject%7C%7Cwr_content&stx=De+Moc&sop=and)
 * [태국 방콕을 이해하는 가장 쉬운 여행가이드](https://www.youtube.com/watch?v=Nsvfkkf690I)
+* [Where's the place with the best view in the country of Thailand?](https://www.quora.com/Wheres-the-place-with-the-best-view-in-the-country-of-Thailand)
 
 ## Turkey
 * [이스탄불의 놀라운 컬러를 카메라에 담다](http://www.huffingtonpost.kr/2015/04/06/story_n_7014692.html)
