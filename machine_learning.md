@@ -562,6 +562,7 @@ Machine Learning
 * [머신러닝으로 콘서트 티켓 판매량 예측하기(1) 콘서트 비즈니스에서 예측의 역할 — MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-1-d60350e4eb53)
 * [머신러닝으로 콘서트 티켓 판매량 예측하기(2) 모델링, 첫 삽을 뜨기까지— MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-2-8fea028a5f0e)
 * [머신러닝으로 콘서트 티켓 판매량 예측하기(3) 첫 번째 모델, Paul의 탄생 — MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-3-1af24baaf85b)
+* [머신러닝으로 콘서트 티켓 판매량 예측하기(4) 모델 개선 프로세스와 지표— MyMusicTaste](https://medium.com/mymusictaste-official/ticket-sales-estimation-modeling-4-cd67b81863df)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
