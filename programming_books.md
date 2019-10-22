@@ -85,6 +85,7 @@ Programming Books
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
+* (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
 
 # Agile Scrum
 
@@ -1022,6 +1023,7 @@ Programming Books
 * (NOT YET) [64비트 멀티코어 OS 원리와 구조](http://kkamagui.tistory.com/746)
   * ["64비트 멀티코어 OS 원리와 구조" 의 예제 소스 코드](https://github.com/kkamagui/mint64os-examples)
 * (NOT YET) [실습과 그림으로 배우는 리눅스 구조](https://jybaek.tistory.com/784)
+* (NOT YET) [12가지 실무 프로젝트로 배우는 리눅스 관리의 기술 모던 리눅스 관리](https://www.gilbut.co.kr/book/view?bookcode=BN002552)
 
 ## Shell script
 * 유닉스 리눅스 셸 스크립트 예제 사전
