@@ -883,6 +883,7 @@ App
 * [윈도우에서 ssh 터미널 사용하기](https://jojoldu.tistory.com/427)
 * [youtube-dl.exe를 윈도우 샌드 박스에서 실행](http://www.sysnet.pe.kr/0/0/519)
 * [Hyper-V에서 네트워크가 제대로 되지 않을 때](http://blog.wimy.com/455/)
+* [**Windows 10 네이티브 방식으로 SSH Key와 Git 연동 설정하기**](https://medium.com/rkttu/use-windows10-open-ssh-tips-e6e9c77de433)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
