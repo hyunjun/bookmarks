@@ -230,6 +230,8 @@ Programming Language
 * [Literate - A Modern Literate Programming System](http://literate.zbyedidia.webfactional.com/)
 * LLVM
   * [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html)
+  * [LLVM-IR 인스트럭션 번역 목록](https://blog.naver.com/sssang97/221680828429)
+  * [LLVM-IR 고수준 구조 번역 목록](https://blog.naver.com/sssang97/221680907744)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
