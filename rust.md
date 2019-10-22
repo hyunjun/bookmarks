@@ -125,6 +125,7 @@
 * [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
 * [Why is Rust slightly slower than C?](https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md)
 * [What are the benchmarks of Golang vs. Rust?](https://www.quora.com/What-are-the-benchmarks-of-Golang-vs-Rust)
+* [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
