@@ -388,6 +388,9 @@ AWS
 * [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
 * [Python의 AWS Glue ETL 스크립트 프로그래밍](https://docs.aws.amazon.com/ko_kr/glue/latest/dg/aws-glue-programming-python.html)
 * [RDS CA 인증서 2015 -> 2019 변경](https://linuxer.name/2019/10/rds-ca-인증서-2015-2019-변경/)
+* [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
+* [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
+* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -625,6 +628,12 @@ AWS
 * [TensorFlow 및 Apache MXNet으로 Amazon SageMaker에서 Keras 모델 교육 및 배포하기](https://cloud.hosting.kr/techblog_190725_machine-learning-train-and-deploy-keras-models-with-tensorflow-and-apache-mxnet-on-amazon-sagemaker/)
 * [Amazon FSx for Lustre 및 Amazon EFS 파일 시스템을 활용한 Amazon SageMaker 훈련 속도 향상법](https://www.megazone.com/techblog_20191008_speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems)
 * [Cortex v0.9: An open source alternative to SageMaker](https://www.reddit.com/r/MachineLearning/comments/diwslw/p_cortex_v09_an_open_source_alternative_to/)
+* [Running your TensorFlow Models in SageMaker Workshop](https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop)
+  * 1. SageMaker 스크립트 모드를 사용하여 SageMaker에서 실행되도록 TensorFlow 스크립트 포팅
+  * 2. TensorBoard 및 Amazon CloudWatch 지표를 사용하여 교육 작업을 모니터링
+  * 3. SageMaker 파이프 모드 입력을 사용하여 교육 작업을 최적화
+  * 4. 분산 교육 작업 실행
+  * 5. Amazon SageMaker에 훈련 된 모델 배포
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
