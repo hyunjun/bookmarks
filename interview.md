@@ -626,6 +626,7 @@ Interview
 * [SOFTWARE ENGINEER SALARY DATA](https://triplebyte.com/software-engineer-salary)
 * [해외 기업과 연봉협상 하기전 반드시 조사할 것 3가지](https://www.youtube.com/watch?v=H3DgymDoKj0)
 * [RSUs vs. Stock options 다른 점은?](https://brunch.co.kr/@seungjoonlernnx/53)
+* [스톡옵션 가격](https://www.thestartupbible.com/2019/10/pricing-stock-options.html)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 * [기업이 당신과 연봉협상하지 않은 진짜 이유](https://www.upfly.me/2019/07/25/how-to-negotiate-salary-well/)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
