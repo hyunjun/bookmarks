@@ -344,6 +344,8 @@ R
 * [BERT from R](https://blogs.rstudio.com/tensorflow/posts/2019-09-30-bert-r/)
 * [도대체 그래디언트가 무엇인가?](http://ds.sumeun.org/?p=2012)
 * [R 3.5.0~ 버전에서 패키지 업데이트 블라블라 문제가 있었던 사람들을 위한 후일담](https://cojette.github.io/Rpackagerecompile/)
+* [Understanding Blockchain Technology by building one in R](https://www.r-bloggers.com/understanding-blockchain-technology-by-building-one-in-r/)
+* [Access the free economic database DBnomics with R](https://www.r-bloggers.com/access-the-free-economic-database-dbnomics-with-r-2/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -523,6 +525,7 @@ R
   * [AWS RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [rMouse - 업무자동화 R로 마우스를 조작하려면 rMouse](https://mrchypark.github.io/post/%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-r%EB%A1%9C-%EB%A7%88%EC%9A%B0%EC%8A%A4%EB%A5%BC-%EC%A1%B0%EC%9E%91%ED%95%98%EB%A0%A4%EB%A9%B4-rmouse/)
 * [rnaturalearth - an R package to hold and facilitate interaction with natural earth map data](https://github.com/ropenscilabs/rnaturalearth)
+* [rnotebook.io - Run your Jupyter R notebooks in the cloud](https://rnotebook.io)
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
   * [R과 Python을 같이 써 보자 – RPy2(1)](https://pabii.co/r-python-rpy2-1/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)
@@ -616,6 +619,7 @@ R
 * [Visualization of MRI data in R](https://www.r-bloggers.com/visualization-of-mri-data-in-r/amp/)
 * [3D Visualization of multiple regression model(1)](http://rpubs.com/cardiomoon/284987)
 * [3D Visualization of multiple regression model(2)](http://rpubs.com/cardiomoon/284985)
+* [VISUALIZATION OF REGRESSION MODELS](http://ds.sumeun.org/?p=2031)
 * [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://www.r-bloggers.com/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/)
 * [POKEMON: VISUALIZE 'EM ALL!](http://jkunst.com/r/pokemon-visualize-em-all/)
 * [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
