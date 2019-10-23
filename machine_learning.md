@@ -551,6 +551,7 @@ Machine Learning
 * [(My) Machine Learning Workflow](https://medium.com/datadriveninvestor/my-machine-learning-workflow-7576f7dbcef3)
 * [Interpretable Machine Learning](https://towardsdatascience.com/interpretable-machine-learning-1dec0f2f3e6b)
 * [Interpretable Machine Learning 개요: (1) 머신러닝 모델에 대한 해석력 확보를 위한 방법](http://research.sualab.com/introduction/2019/08/30/interpretable-machine-learning-overview-1.html)
+* [Interpretable Machine Learning 개요: (2) 이미지 인식 문제에서의 딥러닝 모델의 주요 해석 방법](http://research.sualab.com/introduction/2019/10/23/interpretable-machine-learning-overview-2.html)
 * [machine learning](https://csinva.github.io/pres/189/)
 * [10 Best Machine Learning YouTube Videos](https://www.springboard.com/blog/machine-learning-youtube)
 * [Runway ML - Machine learning for creators](https://runwayml.com/)
