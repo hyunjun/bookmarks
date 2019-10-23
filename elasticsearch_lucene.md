@@ -149,10 +149,6 @@ ElasticSearch - Lucene
   * [S. W. Jung - Kibana Update](https://www.youtube.com/watch?v=UAEgj2P9eKw)
     * [Kibana Update: Recap Elastic{ON} 2018](https://github.com/sw-jung/recap_2018_elasticon_kibana_update)
   * [swiftype 사이트 검색 기능 소개](https://www.youtube.com/watch?v=_fJ-OCdXGR8)
-* [2018-06-21 Elastic Seoul Meetup - JM.Kim - 6.3 release & Nori Analyzer](https://www.youtube.com/watch?v=80WiaOdnjXU)
-* [공식 한국어 분석 플러그인 “노리”](https://www.elastic.co/kr/blog/nori-the-official-elasticsearch-plugin-for-korean-language-analysis)
-* [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive)](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
-* **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [The reality of running a production Node app on AWS Elastic Beanstalk](https://medium.freecodecamp.org/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
@@ -552,6 +548,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치의 인덱스를 분석에 적합한 피벗 테이블로 만들기 (2) - 머신러닝 > 데이터프레임(Data frame) transforms](https://blog.naver.com/olpaemi/221635737975)
 
 # Plugin
+* **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)
 * [elasticsearch-analysis-arirang - korean analyzer (lucene analyzer kr arirang)](https://github.com/HowookJeong/elasticsearch-analysis-arirang/)
   * [Arirang analyzer 버전 올렸습니다](http://jjeong.tistory.com/1142)
@@ -565,6 +562,12 @@ ElasticSearch - Lucene
 * [ELASTICQ – ELASTICSEARCH REALTIME CORRELATION ANALYSIS](https://asecurity.so/elasticq-elasticsearch-realtime-correlation-analysis)
 * [Effective Elasticsearch Plugin Management with Docker](https://www.elastic.co/blog/elasticsearch-docker-plugin-management)
 * [kiBrand - Kibana Plugin for Brand and Logo Management](https://github.com/elasticfence/kiBrand)
+* [Korean (nori) Analysis Pluginedit](https://www.elastic.co/guide/en/elasticsearch/plugins/master/analysis-nori.html)
+  * [2018-06-21 Elastic Seoul Meetup - JM.Kim - 6.3 release & Nori Analyzer](https://www.youtube.com/watch?v=80WiaOdnjXU)
+  * [공식 한국어 분석 플러그인 “노리”](https://www.elastic.co/kr/blog/nori-the-official-elasticsearch-plugin-for-korean-language-analysis)
+  * [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive)](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
+  * [nori plugin 사용하며 문제점](https://gist.github.com/drake-jin/4d0ad0259f72650729344629e3fd7a81)
+  * [Elasticsearch 6.4 기본 한글 형태소 분석기 노리 (nori) 설명 및 사전 추가하기](https://wedul.site/517)
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)
 * [Plugin development for elasticsearch](https://speakerdeck.com/salyh/plugin-development-for-elasticsearch)
 * [SIREn Join](http://siren.solutions/searchplugins/join)
