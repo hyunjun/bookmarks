@@ -282,6 +282,7 @@ Programming
 * [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
 * [허술함을 가장한 애자일(느슨한 서비스)](https://www.popit.kr/%ED%97%88%EC%88%A0%ED%95%A8%EC%9D%84-%EA%B0%80%EC%9E%A5%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%8A%90%EC%8A%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4/)
 * [스포카에서는 회고를 어떻게 할까?](https://spoqa.github.io/2018/08/29/retrospect.html)
+* [Time to Improve Retrospective](https://medium.com/@vladbatushkov/time-to-improve-retrospective-9794a668b825)
 * [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [WIP — Work in… What? | Scrum.org](https://hackernoon.com/wip-work-in-what-scrum-org-e10c57e0a7a2)
