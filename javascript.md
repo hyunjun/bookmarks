@@ -2026,6 +2026,7 @@ Javascript
 * [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-전-7가지-배경지식-다지기-8ad72f7b6aac)
 * [React Final Form을 사용한 폼 제어](https://blog.rhostem.com/posts/2019-10-14-react-final-form)
 * [Announcing Ionic React](https://ionicframework.com/blog/announcing-ionic-react/)
+* [State Colocation will make your react app faster](https://ideveloper2.dev/blog/2019-10-12--state-colocation-will-make-your-react-app-faster)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
