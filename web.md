@@ -553,6 +553,7 @@ Web
   * [#3 API 보안](http://bcho.tistory.com/m/post/955)
 * [REST API 설계](http://www.slideshare.net/Byungwook/rest-api-60505484)
 * [도대체 뭐가 RESTful 이라는건가?](http://www.chidoo.me/index.php/2016/06/03/what-is-restful/)
+* [REST API가 뭔가요?](https://www.youtube.com/watch?v=iOueE9AXDQQ)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
 * [REST API: PUT VS POST](https://1ambda.github.io/23/javascript/rest-api-put-vs-post/)
 * [Domain-Driven Design for RESTful Systems](https://yow.eventer.com/events/1004/talks/1047)
