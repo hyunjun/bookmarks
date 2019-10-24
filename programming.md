@@ -1486,7 +1486,7 @@ Programming
 * [Real time analytics at uber @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-at-uber-strata-data-2019)
 * [Real time analytics on deep learning @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-on-deep-learning-strata-data-2019)
 
-## Library
+# Real Time Processing, Streaming Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 * CEP Complex Event Processing
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
@@ -1495,6 +1495,8 @@ Programming
   * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
   * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
   * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
+* [Mantis - a platform to build an ecosystem of realtime stream processing applications](https://netflix.github.io/mantis/)
+  * [Open Sourcing Mantis: A Platform For Building Cost-Effective, Realtime, Operations-Focused Applications](https://medium.com/netflix-techblog/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a)
 * Pinot
   * [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
