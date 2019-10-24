@@ -533,6 +533,8 @@ Data Science
 * [2 years of Developing Personalized Real-Time Recommendation Service Based on Machine Learning](http://withsmilo.github.io/python/2019/07/24/2_years_of_developing_personalized_real_time_recommendation_service_based_on_machine_learning/)
 * [랭킹 시스템 평가 방법 (MRR, DCG)](https://www.youtube.com/watch?v=61OcZ4GuFTk)
 * [How Youtube is recommending your next video](https://medium.com/vantageai/how-youtube-is-recommending-your-next-video-7e5f1a6bd6d9)
+* [Using machine learning to predict what file you need next](https://blogs.dropbox.com/tech/2019/05/content-suggestions-machine-learning/)
+* [Using machine learning to predict what file you need next, Part 2](https://blogs.dropbox.com/tech/2019/10/using-machine-learning-to-predict-what-file-you-need-next-part-2/)
 
 ## Recommendation Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
