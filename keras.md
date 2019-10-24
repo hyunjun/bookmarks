@@ -185,11 +185,6 @@ Keras
 * [TensorFlow 2.0 + Keras Crash Course.ipynb](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
   * [Keras 창시자로부터 배우는 TensorFlow 2.0 + Keras 특강.ipynb](https://colab.research.google.com/drive/1p4RhSj1FEuscyZP81ocn8IeGD_2r46fS)
 * [Code for plotting the keras model graph](https://github.com/Machine-Learning-Tokyo/DL-workshop-series/blob/master/ConvNets.ipynb)
-* [파이썬 케라스로 딥러닝하자! LSTM(RNN)을 이용해 뉴스 기사 분류하기](https://lsjsj92.tistory.com/409)
-* [Understand the Difference Between Return Sequences and Return States for LSTMs in Keras](https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras)
-* [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders)
-* [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
-  * [lstm_autoencoder_classifier](https://github.com/cran2367/lstm_autoencoder_classifier)
 * tf.keras
   * [1.강좌소개 (Korean)](https://www.youtube.com/watch?v=r6L-Ief6BQ8)
   * [2. TensorFlow1.8 설치 (Korean)](https://www.youtube.com/watch?v=LkpNEkQe7N0)
@@ -201,7 +196,6 @@ Keras
 * [이미지만으로 내 중고물품의 카테고리를 자동으로 분류해준다면? (feat. Keras)](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A7%8C%EC%9C%BC%EB%A1%9C-%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%98-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC%EB%A5%BC-%EB%B6%84%EB%A5%98%ED%95%B4%EC%A4%80%EB%A9%B4-feat-keras-b86e5f286c71)
 * [내 중고물품을 분류 해주는 모델 서빙하기(feat. Keras & Flask)](https://medium.com/daangn/%EB%82%B4-%EC%A4%91%EA%B3%A0%EB%AC%BC%ED%92%88%EC%9D%84-%EB%B6%84%EB%A5%98-%ED%95%B4%EC%A3%BC%EB%8A%94-%EB%AA%A8%EB%8D%B8-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-feat-keras-flask-210f8a30b8f6)
 * [Saving & Loading Keras Models](https://jovianlin.io/saving-loading-keras-models/)
-* [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813) LSTM
 * [Using deep learning to “read your thoughts” — with Keras and EEG](https://medium.com/@justlv/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a)
 * [리뷰에는 이미 별점이 있는데 별점을 또 예측해서 뭘 하나요](https://songys.github.io/2019LangCon/data/jmkim.pdf)
 * [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
@@ -263,6 +257,12 @@ Keras
 * [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
 
 # LSTM
+* [파이썬 케라스로 딥러닝하자! LSTM(RNN)을 이용해 뉴스 기사 분류하기](https://lsjsj92.tistory.com/409)
+* [Understand the Difference Between Return Sequences and Return States for LSTMs in Keras](https://machinelearningmastery.com/return-sequences-and-return-states-for-lstms-in-keras)
+* [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders)
+* [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
+  * [lstm_autoencoder_classifier](https://github.com/cran2367/lstm_autoencoder_classifier)
+* [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813) LSTM
 * [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
@@ -279,6 +279,7 @@ Keras
 * [케라스 LSTM 모델로 작곡하기](https://tykimos.github.io/2018/09/14/How_to_Generate_Music_using_a_LSTM_Neural_Network_in_Keras/)
 * [How to Develop LSTM Models for Multi-Step Time Series Forecasting of Household Power Consumption](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
 * [Choosing the right Hyperparameters for a simple LSTM using Keras](https://towardsdatascience.com/choosing-the-right-hyperparameters-for-a-simple-lstm-using-keras-f8e9ed76f046)
+* [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
 
 # RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
