@@ -2930,6 +2930,7 @@ Python
 * [Numpy — Python made efficient](https://towardsdatascience.com/numpy-python-made-efficient-f82a2d84b6f7)
 * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 * [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+* [Numpy: What Has Changed and What Is Going To Change?](https://www.youtube.com/watch?v=tjEdQyZH6lA)
 
 # [Pandas](http://pandas.pydata.org/)
 * practice
