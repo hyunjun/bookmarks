@@ -183,6 +183,7 @@ Open Source
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
+* [파이콘 한국 2019 LINE 저장소 PR 기여 이벤트 운영 후기](https://engineering.linecorp.com/ko/blog/pycon-2019-line-repo-pr-contribution-event/)
 
 # LinkedIn
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
