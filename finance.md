@@ -191,3 +191,4 @@ Finance
   * [quantfin - Quant Finance in Pure Haskell](https://github.com/boundedvariation/quantfin)
 * [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes
 * [인공지능 알고리즘 알파퀀트 Date170822 am105919 1](https://www.youtube.com/watch?v=RftNGwsrxcc)
+* [퀀트가 된 이유](https://ppss.kr/archives/150052)
