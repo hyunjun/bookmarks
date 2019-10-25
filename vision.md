@@ -244,6 +244,7 @@ Vision
 * [Image Registration: From SIFT to Deep Learning](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 * [Connect Webcam to Docker on Mac or Windows](https://gzupark.github.io/blog/Connect-Webcam-to-Docker-on-Mac-or-Windows)
 * [ICCV 2019 튜토리얼](https://visionnoob.dev/2019/10/07/iccv-turorials/)
+* [FreeAnchor](https://www.slideshare.net/BrianKim244/freeanchor)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
@@ -513,6 +514,8 @@ Vision
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
   * [DeepIsolation.ipynb](https://colab.research.google.com/drive/1azCXH4udXSTkEf3JLihdMTPoCKB7IETq)
+* [evanet - Evolving Space-Time Neural Architectures for Videos](https://github.com/google-research/google-research/tree/master/evanet)
+  * [Video Architecture Search](https://ai.googleblog.com/2019/10/video-architecture-search.html)
 * [EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse](https://github.com/clovaai/EXTD_Pytorch)
 * [facenet - Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
 * [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
