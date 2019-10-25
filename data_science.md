@@ -471,6 +471,7 @@ Data Science
 * [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 * MKL Intel
   * [Installing the Intel® Distribution for Python and Intel® Performance Libraries with pip and PyPI](https://software.intel.com/en-us/articles/installing-the-intel-distribution-for-python-and-intel-performance-libraries-with-pip-and)
+* [OpenRVDAS (Open Research Vessel Data Acquisition System) - a Python-based open source architecture intended to allow easy creation of customized data acquisition systems for research vessels and other scientific installations](https://openrvdas.org)
 * [Pytubes - a library that optimizes loading datasets into memory](https://github.com/stestagg/pytubes)
   * [Analysing 1.4 billion rows with python Using pytubes, numpy and matplotlib](https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73)
 * RAPIDS
