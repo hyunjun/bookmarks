@@ -50,6 +50,7 @@ Game
 
 ## Library Python
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
+* [파이썬으로 블리자드 디아블로3 API 이용하기!](https://tariat.tistory.com/738)
 * Pygame
   * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
   * [Pygame - Making Games with\* Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
