@@ -729,6 +729,7 @@ Docker
 * [대세는 클라우드 네이티브 컴퓨팅, 문제는 보안이다](https://slownews.kr/74370)
 * [쿠버네티스에 MicroProfile 기반의 Java 마이크로 서비스 구축하기](https://developer.ibm.com/kr/journey/deploy-microprofile-java-microservices-on-kubernetes/)
   * [쿠버네티스 클러스터에 MicroProfile 기반의 Java 마이크로서비스 구축하기](https://github.com/IBM/Java-MicroProfile-on-Kubernetes/blob/master/README-ko.md)
+* [트랙 1-3. Google Kubernetes Engine과 함께하는 인프라 현대화 (조병욱)](https://www.youtube.com/watch?v=RTgvFpC4RXs&list=PLBgogxgQVM9vM5TCEwKidxbHKvtMvj7pB&index=19)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
