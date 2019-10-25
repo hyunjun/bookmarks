@@ -532,6 +532,7 @@ NLP
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
 * [Plato Research Dialogue System](https://github.com/uber-research/plato-research-dialogue-system)
   * [Introducing the Plato Research Dialogue System: A Flexible Conversational AI Platform](https://eng.uber.com/plato-research-dialogue-system/)
+* [인공지능 챗봇과 딥러닝 자연어 처리](https://github.com/elymas/ai_chatbot_class)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
