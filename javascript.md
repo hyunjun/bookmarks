@@ -2363,6 +2363,7 @@ Javascript
 * [프론트엔드에 테스트를 도입](http://techhtml.github.io/blog/2016/05/)
 * [프론트엔드 개발과 TDD](https://www.slideshare.net/jeonghwankim11/ss-78600304)
 * [믿을 만한 자바스크립트 테스트 도구 10가지](http://www.itworld.co.kr/news/128974)
+* [javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * cypress [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
@@ -2457,6 +2458,7 @@ Javascript
 * [구글, 애플 인앱 영수증 결제 검증 웹 서비스 리뉴얼](https://blog.totu.dev/2019/09/16/renew-receipt-validation/)
 * [TypeScript Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
+  * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
