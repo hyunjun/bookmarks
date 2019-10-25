@@ -343,6 +343,7 @@ ElasticSearch - Lucene
 * [Node Topology 7.x](https://jjeong.tistory.com/1376)
 * [Elastic Stack Version 7.2: Feature Tour](https://www.youtube.com/watch?v=bmx13X87e2s)
 * [Elastic Stack 7.4.0 출시](https://www.elastic.co/kr/blog/elastic-stack-7-4-0-released)
+* [filebeat-scouter-module](https://github.com/eskrug/filebeat-scouter-module)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
