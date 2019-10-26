@@ -163,6 +163,7 @@ Haskell
 * [Elm Town 47 - A Cool, Easy Way To Start Learning Haskell](https://elmtown.simplecast.fm/a-cool-easy-way-to-start-learning-haskell)
 * ["A history of Haskell: being lazy with class"를 읽고](https://www.sangkon.com/study-a-history-of-haskell-part1/)
 * [Worst practices should be hard](http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html)
+* [knapsack.hs](https://gist.github.com/harfangk/9ec016c3a8dc88d3e10cc7348b33be24)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
