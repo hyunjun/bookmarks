@@ -406,6 +406,7 @@ Python
 * [한글깨기.py](https://github.com/anaclumos/hangulbreak/blob/master/%ED%95%9C%EA%B8%80%EA%B9%A8%EA%B8%B0.py)
 * [한글깨기.py & Enyg.py (은는이가.py)](https://github.com/anaclumos/hangulbreak)
 * [한글과 관련된 여러가지 기능을 포함한 Python 라이브러리](https://github.com/mapmiddle/Korean)
+* [awesome-hangul#python](https://github.com/lqez/awesome-hangul#python)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [hangul-utils - An integrated library for Korean language preprocessing](https://github.com/kaniblu/hangul-utils)
 * jamos_separator.py [한글 자모 분리](https://jybaek.tistory.com/790)
@@ -1546,13 +1547,6 @@ Python
 * [How to Read Emails using IMAP Download Attachments Python 3 for Beginners 2018](https://www.youtube.com/watch?v=e-OZeAHFpkw)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
-
-# EuroPython
-* [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
-* [EuroPython 2018](https://ep2018.europython.eu/p3/schedule/ep2018/)
-  * [EuroPython 2018](https://www.youtube.com/playlist?list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
-* **[EuroPython 2019  Unleash the power of C++ in Python](https://github.com/cmaureir/unleash_cpp)**
-  * [Unleash The Power of C++ In Python](https://www.youtube.com/watch?v=vvyTuFOJRrk)
 
 # Excel, Spreadsheet
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
@@ -3037,6 +3031,14 @@ Python
 
 # Conference
 * [OctopusCon: Python Edition](https://octopuscon.com/events/octopuscon-python-edition/)
+
+## Conference EuroPython
+* [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
+* [EuroPython 2018](https://ep2018.europython.eu/p3/schedule/ep2018/)
+  * [EuroPython 2018](https://www.youtube.com/playlist?list=PL8uoeex94UhFrNUV2m5MigREebUms39U5)
+* **[EuroPython 2019  Unleash the power of C++ in Python](https://github.com/cmaureir/unleash_cpp)**
+  * [Unleash The Power of C++ In Python](https://www.youtube.com/watch?v=vvyTuFOJRrk)
+* [How Thinking in Python Made Me a Better Software Engineer](https://www.youtube.com/watch?v=dGzc05Bz3l0)
 
 ## Conference Pycon
 * [pyvideo.org](http://pyvideo.org/)
