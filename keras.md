@@ -206,6 +206,7 @@ Keras
 * [Keras, 케라스 인공지능의 표준어](https://www.youtube.com/watch?v=6hYb7794k-k)
 * [Log melspectrogram layer using tensorflow.keras](https://keunwoochoi.wordpress.com/2019/09/28/log-melspectrogram-layer-using-tensorflow-keras/)
 * [Welcome to Keras](https://docs.google.com/presentation/d/1CAE2_WqvrzxxfbQVYqiKv4R4Ox5xr7arrMFQsdQxPY0/)
+* [Shooting Hoops with Keras and TensorFlow || Zack Akil](https://www.youtube.com/watch?v=QKVpIo5sfGA)
 
 # Book
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
