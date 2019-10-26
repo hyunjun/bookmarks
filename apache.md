@@ -416,7 +416,7 @@ Apache
 * [Resetting first dirty offset to log start offset since the checkpointed offset is invalid](https://donald-dh.github.io/donald-dh.github.io/ts-kafka-resetting-first-dirty-offset/)
 * [Kafka 0.10 Compression Benchmark](http://blog.yaorenjie.com/2017/01/03/Kafka-0-10-Compression-Benchmark/)
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
-* [Kafka Korea meetup](https://github.com/kafka-kru/meetup)
+* [Kafka Korea meetup](https://github.com/kafkakru/meetup)
   * **[KafkaKRU(Kafka 한국사용자 모임) 2회 미니밋업 후기](https://zzsza.github.io/etc/2019/03/26/kafkakru-2nd-review/)**
   * [mini-meetup2](https://github.com/kafkakru/meetup/tree/master/mini-meetup2)
   * [About 3rd Mini-Meetup](https://github.com/kafkakru/meetup/tree/master/mini-meetup3)
