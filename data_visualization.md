@@ -232,6 +232,7 @@ Data Visualization
     * [Part II: Interactions](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512)
     * [Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
   * [Developing Dashboard Applications Using Bokeh - Bryan Van de Ven](https://www.youtube.com/watch?v=HmI1foA0MZc)
+  * [Road to Visualization Expert Part 1 : App Store : unusual tools](https://www.kaggle.com/subinium/road-to-viz-expert-1-unusual-tools)
 * [cufflinks - Productivity Tools for Plotly + Pandas](https://github.com/santosjorge/cufflinks)
   * [Plotly Whirlwind Introduction.ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
 * dash
@@ -252,6 +253,7 @@ Data Visualization
   * [Data visualization with plotly py: Version 3 and beyond - Jon Mease](https://www.youtube.com/watch?v=cuTMbGjN2GQ)
   * [Python’s One Liner graph creation library with animations Hans Rosling Style](https://mlwhiz.com/blog/2019/05/05/plotly_express/)
   * [Explore Your Data and Then Let Others Do It Too Plotly Express and Dash](https://www.youtube.com/watch?v=qqWF40SAeME)
+  * [Road to Visualization Expert Part 2 : Plotly & Seaborn](https://www.kaggle.com/subinium/road-to-viz-expert-2-plotly-seaborn)
 * [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
   * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
