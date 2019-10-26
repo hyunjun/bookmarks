@@ -2196,6 +2196,7 @@ CVPR2016)
 * [2019-OSS-Summer-RL](https://github.com/utilForever/2019-OSS-Summer-RL)
 * [Reinforcement learning for everyone](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
 * [RLKorea Unity ML-agents Tutorial Project](https://github.com/reinforcement-learning-kr/Unity_ML_Agents)
+* [Stable Baselines RL tutorial - JNRR19](https://github.com/araffin/rl-tutorial-jnrr19)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
