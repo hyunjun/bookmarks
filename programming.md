@@ -635,6 +635,7 @@ Programming
 * [우아한 멀티모듈 - 2019년 8월 우아한 Tech 세미나](https://jojoldu.tistory.com/444)
 * [Microservices: How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0)
 * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고)
+* [How To Build a Microservice Without Losing a Job](https://www.youtube.com/watch?v=Hnbct_8nj_M)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1325,6 +1326,7 @@ Programming
   * [10월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/10/b-10-1.html)
   * [10월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/10/b-10-2.html)
   * [10월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/10/b-10-3.html)
+  * [10월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/10/b-10-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
