@@ -17,6 +17,7 @@ Redis
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
 * [FAILOVER WITH REDIS SENTINEL](http://engineering.vinted.com/2015/09/03/failover-with-redis-sentinel/)
 * [Clarifications about Redis and Memcached](http://antirez.com/news/94)
+* [Spring은 왜 memcached 대신 Redis를 선택했을까?](https://deveric.tistory.com/65)
 * [Lazy Redis is better Redis](http://antirez.com/news/93)
 * [A few things about Redis security](http://antirez.com/news/96)
 * [Lock and cache using redis](https://github.com/seamusabshere/lock_and_cache)
