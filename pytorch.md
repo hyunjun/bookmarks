@@ -159,6 +159,7 @@ PyTorch
 * [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 * [From Research to Production with PyTorch](https://www.youtube.com/watch?v=EkELQw9tdWE)
 * [Policy Gradient with PyTorch and Python Class Structure](https://gist.github.com/jskDr/9b9d7ce98d25632a0b1d5184bdbafc7c)
+* [Comparion policy gradient codes implemented by TF 2.0 and PyTorch based on https://medium.com/@hamza.emra/reinforcement-learning-with-tensorflow-2-0-cca33fead626 ](https://gist.github.com/jskDr/10115fe206e47af8f41c2bce55abb358)
 * [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
 * [Cleaning the data for rapid prototyping (fastai)](https://www.kaggle.com/jhoward/cleaning-the-data-for-rapid-prototyping-fastai)
 
@@ -210,7 +211,6 @@ PyTorch
 # Library
 * [김군이](https://www.youtube.com/channel/UCK24Wy_G-6V-quKvVRjflgA)
 * [토크ON세미나 22차. 딥러닝을 위한 PyTorch 활용법 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcCgdOLFZTTuT13tDaQFQDV)
-* [visual guide : pytorch c++ api (libtorch) setting on vs2017 , no CMake](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake)
 * [AWD-LSTM Language Model](https://github.com/salesforce/awd-lstm-lm)
 * [ax - Adaptive Experimentation Platform](https://www.ax.dev)
 * [BoTorch - Bayesian Optimization in PyTorch](https://www.botorch.org)
@@ -245,6 +245,9 @@ PyTorch
 * [hyperlearn - Faster, Leaner GPU Sklearn, Statsmodels written in PyTorch](https://www.techleer.com/articles/568-presenting-a-modern-big-data-algorithm-hyperlearn-50-faster-machine-learning)
 * [kornia - Open Source Differentiable Computer Vision Library for PyTorch https://kornia.org ](https://github.com/arraiyopensource/kornia)
 * [learn2learn - PyTorch Meta-learning Framework for Researchers http://learn2learn.net ](https://github.com/learnables/learn2learn)
+* libtorch
+  * [visual guide : pytorch c++ api (libtorch) setting on vs2017 , no CMake](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake)
+  * [LibTorch Example of transfer-learning](https://github.com/kerry-Cho/transfer-learning-Libtorch)
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
   * 2018년, COCO Detection Challenge를 우승한 MMDet 팀이 작성한 코드베이스를 확장하여, 현존하는 대부분의 Object Detection 모델을 구현한 toolbox
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
@@ -328,4 +331,5 @@ PyTorch
 * [PyTorch KR Tutorial Competition 2018](https://github.com/PyTorchKR/Tutorial-Competition-2018)
 * [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
 * [Minimal tutorial on packing and unpacking sequences in pytorch](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)
+* [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
