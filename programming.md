@@ -298,6 +298,7 @@ Programming
 * [클린 소프트웨어(애자일 개발과 설계)](https://blog.naver.com/jwyoon25/221591645594)
 * [책 후기 클린 소프트웨어](http://blog.wimy.com/456/)
 * [Why software developers (quite honestly) hate Agile](https://www.objectstyle.com/agile/why-developers-hate-agile)
+* [애자일 개발자가 지켜야 할 중요한 코딩 프랙티스 7가지](http://www.itworld.co.kr/news/134294)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
