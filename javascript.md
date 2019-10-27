@@ -2610,3 +2610,4 @@ Javascript
 * [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
 * [Filtering Data The Vue Way](https://devgrill.com/filtering-data-the-vue-way/)
+* [Let's Learn VueJS #1 - Intro](https://www.youtube.com/watch?v=Jrtkj6lTsYw)
