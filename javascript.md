@@ -686,6 +686,9 @@ Javascript
 * [Blabr — "Scientific computing for the web" — is a tool for creating interactive tables, plots, sliders, code, etc. in the browser as a blab (web lab)](http://blabr.org/embed/)
 * [Open sourcing nearby.lk data models library](http://vpj.github.io/models.html)
 
+# Conference
+* [Fe Conf 2019 후기](https://blog.woolta.com/categories/9/posts/192)
+
 # D3 -> [data visualization](data_visualization.md)
 
 # ECMAScript
