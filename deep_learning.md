@@ -687,6 +687,7 @@ Deep Learning
 * [Deep Learning To Mobile](https://github.com/younatics/DeepLearningToMobile)
 * [Deep learning made easier with transfer learning](https://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html)
 * [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
+* [191027 딥러닝 전이학습 발표자료](https://drive.google.com/drive/folders/1JPPMFYlGMl1BbjjMnG2WqakWwBkiHgzP)
 * [Deep Learning 위해서는 어떤 GPU를 사야 할까요?](http://tmmse.xyz/2016/05/02/gpureccom/)
 * [알기 쉬운 GPU 그리고 머신러닝](https://steemit.com/gpu/@sigmoid/gpu)
 * [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
@@ -1218,6 +1219,7 @@ Deep Learning
   * [Deep Learning Programming Style](https://mxnet.incubator.apache.org/versions/master/architecture/program_model.html) symbolic vs. iterative programming style
   * [**Pycon 2019 Gluon Tutorial 딥러닝 NLP 손쉽게 따라해보기**](https://github.com/seujung/gluonnlp_tutorial)
   * [Apache MXNet/gluon on Colab](https://gist.github.com/serithemage/54bf347b41980b98ade2353b2e27d899)
+  * [딥러닝계의 블루오션, Apache MXNet 공헌하기 - 윤석찬 (AWS 테크에반젤리스트) 오규삼 (삼성 SDS)](https://www.slideshare.net/awskorea/apache-mxnet-soscon-2018)
 * [netron - Visualizer for neural network, deep learning and machine learning models https://www.lutzroeder.com/ai ](https://github.com/lutzroeder/netron) 신경망, 딥러닝 모델 시각화 툴이자 뷰어
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [NN-SVG - Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/index.html) visualization
@@ -2197,6 +2199,7 @@ CVPR2016)
 * [Reinforcement learning for everyone](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
 * [RLKorea Unity ML-agents Tutorial Project](https://github.com/reinforcement-learning-kr/Unity_ML_Agents)
 * [Stable Baselines RL tutorial - JNRR19](https://github.com/araffin/rl-tutorial-jnrr19)
+* [RL Bootcamp](https://github.com/reinforcement-learning-kr/rl_bootcamp)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
