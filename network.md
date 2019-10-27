@@ -7,17 +7,6 @@ Network
   * 일반적으로 노드 수가 많은 네트워크는 [complete graph](https://en.wikipedia.org/wiki/Complete_graph)도 아니고 각 컨넥션이 모두 같은 가치를 갖는것도 아니기 때문
 * [How to handle CLOSE_WAIT state](http://docs.likejazz.com/close-wait/)
 * [넷텐션, 중국의 치명적 '서버 혼잡붕괴'를 밝혀내다](http://m.khgames.co.kr/news/articleView.html?idxno=81843)
-* [how DNS works](https://howdns.works/)
-* [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리 上](http://library.gabia.com/contents/domain/3979)
-* [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리](http://library.gabia.com/contents/domain/3985)
-* [‘네임서버 설정’으로 알아보는 DNS: ② IP 주소와 호스트명 알아보기](http://library.gabia.com/contents/domain/4005)
-* [‘네임서버 설정’으로 알아보는 DNS: ③ 네임서버 정보는 어디에서 얻을 수 있나](http://library.gabia.com/contents/domain/4009)
-* [I don’t know DNS Caching](https://charsyam.wordpress.com/2017/12/22/%EC%9E%85-%EA%B0%9C%EB%B0%9C-i-dont-know-dns-caching/)
-  * DNS Caching은 OS와 설정에 따라 다름. glibc의 getaddrinfo 자체에서 발생하는 이슈
-* [DNS Caching in JVM](https://charsyam.wordpress.com/2017/12/27/%ec%9e%85-%ea%b0%9c%eb%b0%9c-dns-caching-in-jvm/)
-* [Domain Name System (DNS): Untangling the Key Aspects](https://hackernoon.com/domain-name-system-dns-untangling-the-key-aspects-d86e39865d8c)
-* [How to Identify and Prevent DNS Leaks](https://hackernoon.com/how-to-identify-and-prevent-dns-leaks-5fa659130a41)
-* [An introduction to the Domain Name System](https://medium.freecodecamp.org/understanding-the-domain-name-servers-46c6bcf9afa3)
 * [HAVING NO FUN WITH RUBYGEMS, SYSTEMD, DOCKER AND NETWORKING](https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html)
 * [우리 집에서 구글까지 가는 길](https://evan-moon.github.io/2019/06/22/my-home-to-google/)
 * [Pushing the Limits of Kernel Networking](http://rhelblog.redhat.com/2015/09/29/pushing-the-limits-of-kernel-networking/)
@@ -44,6 +33,20 @@ Network
 # C
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
 * [epoll 설명](http://blueheartscabin.blogspot.com/2013/08/c-epoll.html)
+
+# DNS
+* [how DNS works](https://howdns.works/)
+* [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리 上](http://library.gabia.com/contents/domain/3979)
+* [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리](http://library.gabia.com/contents/domain/3985)
+* [‘네임서버 설정’으로 알아보는 DNS: ② IP 주소와 호스트명 알아보기](http://library.gabia.com/contents/domain/4005)
+* [‘네임서버 설정’으로 알아보는 DNS: ③ 네임서버 정보는 어디에서 얻을 수 있나](http://library.gabia.com/contents/domain/4009)
+* [I don’t know DNS Caching](https://charsyam.wordpress.com/2017/12/22/%EC%9E%85-%EA%B0%9C%EB%B0%9C-i-dont-know-dns-caching/)
+  * DNS Caching은 OS와 설정에 따라 다름. glibc의 getaddrinfo 자체에서 발생하는 이슈
+* [DNS Caching in JVM](https://charsyam.wordpress.com/2017/12/27/%ec%9e%85-%ea%b0%9c%eb%b0%9c-dns-caching-in-jvm/)
+* [Domain Name System (DNS): Untangling the Key Aspects](https://hackernoon.com/domain-name-system-dns-untangling-the-key-aspects-d86e39865d8c)
+* [How to Identify and Prevent DNS Leaks](https://hackernoon.com/how-to-identify-and-prevent-dns-leaks-5fa659130a41)
+* [An introduction to the Domain Name System](https://medium.freecodecamp.org/understanding-the-domain-name-servers-46c6bcf9afa3)
+* [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
 
 # Library
 * Cicso packet tracer
