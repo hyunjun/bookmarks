@@ -235,6 +235,7 @@ Keras
 * [Tensorflow 및 Keras Offline 설치 순서](https://donaldaq.github.io/articles/2019-03/Challenge-Tensorflow-Offline-Install)
 * [Data Science for Startups: Deep Learning](https://towardsdatascience.com/data-science-for-startups-deep-learning-40d4d8af8009) 설치부터 기초까지
 * [케라스 설치](https://www.youtube.com/watch?v=DgZ33vTRCSw)
+* [`conda install -c anaconda keras-gpu`](https://anaconda.org/anaconda/keras-gpu)
 
 # Library
 * [Auto-Keras - an open source software library for automated machine learning (AutoML)](https://github.com/jhfjhfj1/autokeras)
