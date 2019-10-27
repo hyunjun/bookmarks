@@ -545,6 +545,7 @@ Python
   * [파이썬의 시간대(datetime.timezone)에 대해 알아보기](https://spoqa.github.io/2019/02/15/python-timezone.html)
   * [Python UTC -6 to KST (UTC +9)](https://blog.kimkevin.net/python-utc-to-kst/)
   * [Parsing and Formatting Dates in Python With Datetime](https://www.youtube.com/watch?v=zY02utxcauo)
+  * [파이썬 날짜 다루기 date, datetime, yyyymmdd](https://krksap.tistory.com/1635)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
   * [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
@@ -991,6 +992,8 @@ Python
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
   * [sorted 함수 예제](http://knight76.tistory.com/entry/python3-sorted-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
+* ssl
+  * [python3 ssl인증 Basic통과 하기](https://krksap.tistory.com/1637)
 * `__str__`
   * [`__str__`과 `__repr__`의 차이](https://hyesun03.github.io/2016/12/07/str_repr_diff/)
 * string
