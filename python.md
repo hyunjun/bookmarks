@@ -1537,6 +1537,7 @@ Python
 * [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 * [Django - tweetme 소셜서비스 구현해보기 (1) - Django Setup](https://woolbro.tistory.com/55)
 * [Django Builder](https://mmcardle.github.io/django_builder/)
+* [Django get_or_create() 함수에서 발생한 MySQL Deadlock 이슈 해결하기](https://tech.peoplefund.co.kr/2019/10/26/get-or-create-deadlock.html)
 
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
