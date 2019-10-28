@@ -361,6 +361,7 @@ NLP
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 * [exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformers Models](http://exbert.net/)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
+* [Korean ALBERT](https://github.com/MrBananaHuman/KalBert)
 * [StructBert Review](https://baekyeongmin.github.io/paper-review/structbert-review/)
 * [RoBERTa Review](https://baekyeongmin.github.io/paper-review/roberta-review/)
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
