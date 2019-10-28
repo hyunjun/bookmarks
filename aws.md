@@ -635,6 +635,7 @@ AWS
   * 3. SageMaker 파이프 모드 입력을 사용하여 교육 작업을 최적화
   * 4. 분산 교육 작업 실행
   * 5. Amazon SageMaker에 훈련 된 모델 배포
+* [클라우드 환경에서 머신러닝 서비스 프로토타입 빠르게 만들어보기](https://urbanbase.github.io/dev/2019/10/24/Machine-Learning-Prototype.html)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
