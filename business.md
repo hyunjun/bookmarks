@@ -382,6 +382,7 @@ Business
 * [제품/서비스 네이밍의 중요한 포인트 6](http://ppss.kr/archives/58267)
 * [로고디자인, 독특하고 창의적인 사례 20가지](http://ppss.kr/archives/59148)
 * [광고매체의 영향력은 어떻게 결정되는가?](https://brunch.co.kr/@hyungsukkim/106)
+* [다이슨이 3년 공들인 전기차 사업에서 백기를 든 이유](https://ppss.kr/archives/205684)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
