@@ -488,6 +488,7 @@ Apache
 * [**devidea.tistory.com/category/Big Data/Kafka**](https://devidea.tistory.com/category/Big%20Data/Kafka)
   * [컨트롤러 분석](https://devidea.tistory.com/71)
 * [How LinkedIn customizes Apache Kafka for 7 trillion messages per day](https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
+* [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
