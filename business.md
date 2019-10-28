@@ -474,6 +474,7 @@ Business
 * [글로벌 유니콘 지도](https://www.thestartupbible.com/2019/09/the-global-unicorn-map.html)
 * [무시하고, 비웃고, 싸우기, 그리고 이기기](https://www.thestartupbible.com/2019/09/first-they-ignore-you-then-they-laugh-at-you-then-they-fight-you-then-you-win.html)
 * [Glimpse 2019.09 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2160)
+* [Glimpse 2019.10 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2175)
 * [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 * [스타트업이 문제를 마주할 때, 가장 먼저 해야 할 질문](https://ppss.kr/archives/204662) Netflix의 The Canada Principle
 
