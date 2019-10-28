@@ -53,6 +53,7 @@ Network
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
 * [pcap 라이브러리](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/pcap%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 * [scapy - packet manipulation](http://www.secdev.org/projects/scapy)
+  * [Scapy에 대한 요약 정리](https://chogar.blog.me/80206163869)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
 * HTTP
