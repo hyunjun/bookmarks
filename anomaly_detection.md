@@ -30,3 +30,13 @@ Anomaly Detection
 * [How to detect anomalies in Audio Signal Processing of the heart with sound coming from mobile phone](https://medium.com/@luigi.bungaro/how-to-detect-anomalies-in-audio-signal-processing-of-the-heart-with-sound-coming-from-mobile-e034e8fd709b)
 * [Fast Adaptive RNN Encoder-Decoder for Anomaly Detection in SMD Assembly Machine](https://github.com/YeongHyeon/FARED_for_Anomaly_Detection)
 * [자신의 실수를 개선하면서 조금씩 똑똑해지는 anomaly detection 모델을 만들 수 있을까?](https://inforience.net/2019/06/22/interactive-anomaly-detection/)
+* ARIMA 대 LSTM-주간 호텔 취소 예측
+  * 과거; 매주 호텔 취소를 예측하기 위해 프로젝트를 진행
+  * 이 연구의 원래 의도는 그러한 취소의 동인을 식별하고 분류를 사용하여 고객이 취소할지 (예 : 고객 취소 = 1, 취소하지 않는 고객 = 0) 예측
+  * 첫번째 단계는 데이터 조작에 pandad 사용. 즉, 주별로 취소를 정렬한 다음 매주 총 취소수를 얻기 위해 합산
+  * 그런 다음 ARIMA와 LSTM을 사용하여 테스트세트에서 향후 취소를 예측하기로 결정. 이는 두개의 개별 호텔 데이터세트 (H1와 H2)에 대해 수행
+  * LSTM은 보다 변동성이 높은 데이터세트 (H2)에서 더 나은 성능, ARIMA는 부드러운 트렌드(H1) 데이터세트에서 더 높은 예측 정확도
+  * 결론; LSTM과 같은 머신러닝 모델은 다른 모델과 마찬가지로 상황에 적합한 것은 아니며 모델을 선택하기 전에 작업중인 데이터를 이해해야 한다
+  * [Part 1: Predicting Hotel Cancellations with Support Vector Machines and ARIMA](https://www.michael-grogan.com/hotel-cancellations/)
+  * [Part 2: Predicting Hotel Cancellations with a Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations-neuralnetwork/)
+  * [Part 3: Predicting Weekly Hotel Cancellations with an LSTM Network](https://www.michael-grogan.com/hotel-cancellations-lstm/)
