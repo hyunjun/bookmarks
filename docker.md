@@ -161,6 +161,8 @@ Docker
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
     * [Docker swarm development environment for customized medical study app](https://github.com/jinseob2kim/swarm-setting)
+  * spark
+    * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
   * redis
 
     ```
