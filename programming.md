@@ -637,6 +637,7 @@ Programming
 * [Microservices: How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0)
 * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고)
 * [How To Build a Microservice Without Losing a Job](https://www.youtube.com/watch?v=Hnbct_8nj_M)
+* [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
