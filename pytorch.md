@@ -251,6 +251,7 @@ PyTorch
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
   * 2018년, COCO Detection Challenge를 우승한 MMDet 팀이 작성한 코드베이스를 확장하여, 현존하는 대부분의 Object Detection 모델을 구현한 toolbox
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
+* [pycl - an image classification codebase, written in PyTorch](https://github.com/facebookresearch/pycls)
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org/)
@@ -266,6 +267,7 @@ PyTorch
 * [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
 * [pytorch-qrnn - Quasi-Recurrent Neural Network (QRNN) for PyTorch](https://github.com/salesforce/pytorch-qrnn)
+* [pytorch-struct - Fast, general, and tested differentiable structured prediction in PyTorch](https://github.com/harvardnlp/pytorch-struct)
 * [pytorch-template - PyTorch deep learning projects made easy](https://github.com/victoresque/pytorch-template)
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
 * [QuickDraw - Implementation of Quickdraw - an online game developed by Google](https://github.com/1991viet/QuickDraw)
