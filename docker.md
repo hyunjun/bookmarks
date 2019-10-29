@@ -733,6 +733,9 @@ Docker
   * [쿠버네티스 클러스터에 MicroProfile 기반의 Java 마이크로서비스 구축하기](https://github.com/IBM/Java-MicroProfile-on-Kubernetes/blob/master/README-ko.md)
 * [트랙 1-3. Google Kubernetes Engine과 함께하는 인프라 현대화 (조병욱)](https://www.youtube.com/watch?v=RTgvFpC4RXs&list=PLBgogxgQVM9vM5TCEwKidxbHKvtMvj7pB&index=19)
 * [ASP Classic to K8s - The Power of Y2K in Your Kubernetes](https://www.twitch.tv/videos/499381376)
+* [Understanding Kubernetes API - Part 1 : Introduction](http://blog.madhukaraphatak.com/understanding-k8s-api-part-1/)
+* [Understanding Kubernetes API - Part 2 : Pods API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-2/)
+* [Understanding Kubernetes API - Part 3 : Deployments API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-3/)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
