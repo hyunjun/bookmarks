@@ -767,6 +767,7 @@
 * [spark + R](https://drive.google.com/file/d/0Bw594TdiBdAUTGtUOERoOG1ac1E/view)
 * [빅데이터 분석을 위한 스파크 2 프로그래밍 : 대용량 데이터 처리부터 머신러닝까지](http://www.slideshare.net/ssuser88c366/2-71401153)
 * [On-Demand Webinar and FAQ: Parallelize R Code Using Apache Spark](https://databricks.com/blog/2017/08/21/on-demand-webinar-and-faq-parallelize-r-code-using-apache-spark.html)
+* [Vectorized R Execution in Apache Spark - Hyukjin Kwon (Databricks)](https://www.youtube.com/watch?v=3fE9MrV7uqA)
 
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
