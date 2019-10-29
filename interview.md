@@ -438,6 +438,8 @@ Interview
 * [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30)
   * [수비니움의 코딩일지](https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ/videos)
 * [DAILY CODING PROBLEM ENG](https://www.youtube.com/playlist?list=PL9Db853UP18G_MdeGjgOmYpN9ExdrvHeq)
+* [10 free coding practice sites to step up your game (and even get hired)](https://www.beseen.com/blog/talent/free-coding-practice-sites)
+* [**10 Techniques to Master Coding Interview Questions**](https://levelup.gitconnected.com/10-techniques-to-master-coding-interview-questions-b3216d3d3920)
 * [algoexpert.io](https://www.algoexpert.io)
 * [algospot](https://www.algospot.com)
 * [atcoder.jp](https://atcoder.jp)
