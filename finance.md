@@ -40,6 +40,7 @@ Finance
 * [토스가 현대카드를 연동하는 방법에 동의하지 않습니다](https://blog.outsider.ne.kr/1442)
 * [우량 기술주 초기에 발견하는 방법](https://www.youtube.com/watch?v=WdPGjG0jSK0) 40의 법칙
 * [213. (초보) 역대급 주식 전설들의 유튜브 채널들 10개 소개!](https://www.youtube.com/watch?v=ZNNwIJymshw)
+* [JP MORGAN의 DEEP HEDGING](https://smallake.kr/?p=28006)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
