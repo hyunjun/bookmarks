@@ -564,6 +564,8 @@
 * [MapR-DB Spark Connector with Secondary Indexes](https://hackernoon.com/mapr-db-spark-connector-with-secondary-indexes-df41909f28ea)
   * [MapR-DB Spark Connector Performance Tests](https://medium.com/@anicolaspp/mapr-db-spark-connector-performance-tests-2ec6e788e867)
   * [Extending MapR Database Queries Using Scala Polymorphic Types](https://hackernoon.com/extending-mapr-database-queries-using-scala-polymorphic-types-ee7a1c7ac2a7)
+* [native_spark - new arguably faster implementation of Apache Spark from scratch in Rust](https://github.com/rajasekarv/native_spark)
+  * [Spark implemented in Rust with promising results](https://www.reddit.com/r/rust/comments/dltdmm/spark_implemented_in_rust_with_promising_results/)
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
 * [spark cassandra connector - 스파크에 카산드라 연동하는 라이브러리](http://knight76.tistory.com/entry/spark-spark-cassandra-connector-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%97%90-%EC%B9%B4%EC%82%B0%EB%93%9C%EB%9D%BC-%EC%97%B0%EB%8F%99%ED%95%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
