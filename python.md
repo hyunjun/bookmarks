@@ -845,6 +845,7 @@ Python
   * [Get a 2–6x speed-up on your pre-processing with these 3 lines of code!](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) concurrent.futures
   * [CUDA In Your Python: Effective Parallel Programming on the GPU](https://www.youtube.com/watch?v=CO4ifMknS84)
   * [Parallelism in Python](https://www.youtube.com/watch?v=QRF1637j6NU)
+  * [**Parallel Computing in Python: Current State and Recent Advances**](https://www.youtube.com/watch?v=xYuQi7PTAcc)
   * threading
     * practice
       * [threading Lock](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_lock.py)
@@ -1764,6 +1765,7 @@ Python
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 * [GraphQL in Python and Django](https://www.youtube.com/watch?v=vnlPU0HgSbQ)
 * [Awesome-GraphQL](https://github.com/devArtoria/Awesome-GraphQL) GraphQL server with Flask + Graphene
+* [GraphQL in Python](https://www.youtube.com/watch?v=EIGjT5NYjjM)
 
 # GUI
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
@@ -2075,6 +2077,7 @@ Python
   * [Google_Colab_tutorial](https://github.com/sseung0703/Google_Colab_tutorial)
   * [DeepLab Demo.ipynb](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   * [The speed of your input pipeline counts](https://colab.research.google.com/github/random-forests/applied-dl/blob/master/examples/caching_demo.ipynb) .cache를 이용한 속도 향상. ipynb
+  * [구글 코랩으로 데이터 클리닝, 시각화, 분석 - 가장 인기 있는 지하철 호선은?](https://blog.naver.com/codeitofficial/221690981226)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
@@ -3031,6 +3034,7 @@ Python
 * [Why and How to Use Pandas with Large Data](https://towardsdatascience.com/why-and-how-to-use-pandas-with-large-data-9594dda2ea4c)
 * [Binning Data with Pandas qcut and cut](https://pbpython.com/pandas-qcut-cut.html)
 * [Cleaning Up Currency Data with Pandas](https://pbpython.com/currency-cleanup.html)
+* [상관관계 분석(Pandas) & Heatmap 그리기](https://blog.naver.com/kiddwannabe/221205309816)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
