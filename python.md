@@ -1178,6 +1178,7 @@ Python
   * [John Reese - Thinking Outside the GIL with AsyncIO and Multiprocessing - PyCon 2018](https://www.youtube.com/watch?v=0kXaLh8Fz3k)
   * [Async/Awaiting Production](https://www.youtube.com/watch?v=NLaeCFr_FlI)
   * [Dmitry Nazarov: "Future Pythonic Web: ASGI & Daphne"](https://www.youtube.com/watch?v=6xEKPsKBbD0)
+  * [Build Your Own Async](https://www.youtube.com/watch?v=Y4Gt3Xjd7G8)
 
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
@@ -1741,6 +1742,7 @@ Python
     * [Flask로 API 서버 만들기 (6) - Security and Authentication](https://dejavuqa.tistory.com/278)
     * [Flask로 API 서버 만들기 (7) - Route protection and Authorization](https://dejavuqa.tistory.com/279)
     * [Flask로 API 서버 만들기 (8) - Extra tips (Makefiles)](https://dejavuqa.tistory.com/280)
+* flask-security [Intro to Flask-Security](https://www.youtube.com/watch?v=LsHf3JSDBVc)
 * Flask-SQLAlchemy
   * [SQLAlchemy Query를 Pandas DataFrame로 만들기](https://beomi.github.io/2017/10/21/SQLAlchemy-Query-to-Pandas-DataFrame/)
   * [flask-sqlalchemy 외래키 구현](https://gist.github.com/maxtortime/ae48d7e0fa0dbd8deda1004bdec9983c)
