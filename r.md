@@ -505,6 +505,7 @@ R
   * [purrrogress - Add progress bars to mapping functions](https://github.com/halpo/purrrogress)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
+* [rayshader - R Package for 2D and 3D mapping and data visualization https://www.rayshader.com ](https://github.com/tylermorganwall/rayshader)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * readr
