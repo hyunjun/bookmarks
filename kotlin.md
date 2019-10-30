@@ -172,6 +172,7 @@
 * [정식 언어로 채택된 Kotlin, Android에 미친 영향은?](https://thdev.tech/android/2019/07/14/Android-Kotlin/)
 * [**Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다**](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
 * [Kotlin으로 Android개발 하기](https://developer88.tistory.com/171)
+* [Android Development Course - Build Native Apps with Kotlin](https://www.youtube.com/watch?v=Iz08OTTjR04)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
