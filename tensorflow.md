@@ -618,6 +618,7 @@ TensorFlow
 * [stylegan-reproduced](https://github.com/moono/stylegan-reproduced)
 * [StyleGAN-Tensorflow](https://github.com/taki0112/StyleGAN-Tensorflow)
 * [Semantic Image Synthesis with SPADE (GauGAN) - Tensorflow](https://github.com/taki0112/SPADE-Tensorflow)
+* [U-GAT-IT — Official TensorFlow Implementation](https://github.com/taki0112/UGATIT)
 
 # Installation
 * [install tensorflow gpu version on macbook pro](https://docs.google.com/document/d/1f0y8t28c_VltOx4mZDSUCozuAslejT4f_QlATKX82Uw/edit)
