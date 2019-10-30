@@ -1276,6 +1276,8 @@ Programming Books
 * (NOT YET) [파이썬을 활용한 부동산 데이터 분석 파이썬 기초부터 실제 부동산 데이터를 활용한 매매분석, 수요예측, 시각화까지](https://wikibook.co.kr/python-real-estate)
 * (NOT YET) [파이썬 포 에브리바디! 『데이터를 다루며 배우는 파이썬』](https://blog.insightbook.co.kr/2019/08/16/파이썬-포-에브리바디-《데이터를-다루며-배우는-파/)
 * (NOT YET) [마야 파이썬 - 3D를 위한 파이썬](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D190909980&orderClick=LAN&Kc)
+* (NOT YET) [파이썬에 참 좋은 PyCharm - 나에게 가장 필요한 파이썬 개발 환경 구축하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=213458036&start=slayer)
+  * [파이썬에 참 좋은 PyCharm](https://github.com/bjpublic/pycharm)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
