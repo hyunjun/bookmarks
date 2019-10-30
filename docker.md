@@ -161,8 +161,6 @@ Docker
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
     * [Docker swarm development environment for customized medical study app](https://github.com/jinseob2kim/swarm-setting)
-  * spark
-    * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
   * redis
 
     ```
@@ -549,15 +547,6 @@ Docker
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * [Getting Started with Kubernetes](https://dzone.com/refcardz/kubernetes-essentials)
 * [kakao의 오픈소스 Ep6 - Cite - cite , kubernetes , github , docker , container , microservice](http://tech.kakao.com/2016/12/26/opensource-6-cite/)
-* Scalable Spark Deployment using Kubernetes
-  * [Docker Image and Kubernetes Configurations for Spark 2.x](https://github.com/phatak-dev/kubernetes-spark)
-  * [Part 1 : Introduction to Kubernetes](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-1/)
-  * [Part 2 : Installing Kubernetes Locally using Minikube](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-2/)
-  * [Part 3 : Kubernetes Abstractions](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-3/)
-  * [Part 4 : Service Abstractions](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-4/)
-  * [Part 5 : Building Spark 2.0 Docker Image](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-5/)
-  * [Part 6 : Building Spark 2.0 Two Node Cluster](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-6/)
-  * [Part 7 : Dynamic Scaling and Namespaces](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-7/)
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
 * [Peter Babics - Python, Docker, Kubernetes, and beyond ?](https://www.youtube.com/watch?v=KF6lU_fm_Bg)
 * [Create and Watch Kubernetes Resources With Python](https://www.youtube.com/watch?v=ck-bB5tqZj4)
@@ -568,9 +557,6 @@ Docker
 * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
 * [Kubernetes RBAC 위에서 DataDog agent 돌리기](https://andromedarabbit.net/kubernetes-rbac-%EC%9C%84%EC%97%90%EC%84%9C-datadog-agent-%EB%8F%8C%EB%A6%AC%EA%B8%B0/)
 * [Kubernetes 운영 17개월의 성과와 교훈](https://dailyhotel.io/kubernetes-%EC%9A%B4%EC%98%81-17%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%84%B1%EA%B3%BC%EC%99%80-%EA%B5%90%ED%9B%88-adf716bd72b1)
-* [The anatomy of Spark applications on Kubernetes](https://banzaicloud.com/blog/spark-k8s-internals/)
-  * Kubernetes에 대한 Spark의 실험적 지원과 인-클러스터 클라이언트 모드에 대한 향후 지원에 대해 설명
-  * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
 * **[An Introduction to Kubernetes 쿠버네티스 살펴보기](https://subicura.com/remark/kubernetes-intro.html)**
 * [Docker for Mac](http://likejazz.com/post/172462024766/docker-for-mac)
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)

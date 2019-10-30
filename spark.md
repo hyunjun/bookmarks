@@ -7,7 +7,6 @@
 * [Custom API Examples For Apache Spark - The examples are basic and only for newbies in Scala and Spark](https://github.com/HyukjinKwon/spark-custom-api)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [github.com/apache/spark](https://github.com/apache/spark)
-* [spark-scala-tutorial A free tutorial for Apache Spark](https://github.com/deanwampler/spark-scala-tutorial) docker jupyter notebook
 * **[SparkTutorials.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
 * [sparkjava.com/tutorials](http://sparkjava.com/tutorials/)
 * [learn hadoop spark by examples](https://www.java-success.com/category/tutorial/hadoop-tutorials/learn-hadoop-spark-by-examples/)
@@ -134,12 +133,6 @@
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [RDDS ARE THE NEW BYTECODE OF APACHE SPARK](https://ogirardot.wordpress.com/2015/05/29/rdds-are-the-new-bytecode-of-apache-spark/)
 * [Spark RDD Operations-Transformation & Action with Example](https://data-flair.training/blogs/spark-rdd-operations-transformations-actions/)
-* [Apache Spark on Docker](https://github.com/sequenceiq/docker-spark)
-* Distributed Pricing Engine using Dockerized Spark on YARN w/ HDP 3.0
-  * [Part 1/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-1-4/)
-  * [Part 2/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-2-4/)
-  * [Part 3/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-3-4/)
-  * [Part 4/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-4-4/)
 * [Microbenchmarking Big Data Solutions on the JVM – Part 1](http://www.autoletics.com/posts/microbenchmarking-big-data-solutions-on-the-jvm-part-1)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](http://developers.linecorp.com/blog/ko/?p=123)
 * [(Berkeley CS186 guest lecture) Big Data Analytics Systems: What Goes Around Comes Around](http://www.slideshare.net/rxin/2015-0409-cs186guestlecture)
@@ -302,7 +295,6 @@
 * [Debugging a long-running Apache Spark application: A War Story](https://tech.channable.com/posts/2018-04-10-debugging-a-long-running-apache-spark-application.html)
   * 장기간 실행되는 Apache Spark 응용 프로그램의 성능 문제를 디버깅하는 방법 대해 설명
   * JVM 내부 (예 : 사용자 정의 클래스 로더 및 GC), Spark internal (예 : driver가 broadcast data를 정리하는 방법) 및 이러한 버그를 찾아 내고 확인하는 메트릭 및 모니터링 전략
-* [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
 * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
 * [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/)
 * [Goal Based Data Production: The Spark of a Revolution - Sim Simeonov](https://www.youtube.com/watch?v=VR2lAMVD4_4)
@@ -337,8 +329,6 @@
 * [아파치 스팍 관련 문제점 이야기 + 자바로 게으른 초기화 (2018-07-06) 케빈TV Live](https://www.youtube.com/watch?v=YTF3CUzWDo8)
 * [Working with Nested JSON Using Spark | Parsing Nested JSON File in Spark](https://www.youtube.com/watch?v=n3owBqa9ATQ)
 * [practice - sc.textFile로 gzipped hdfs file을 읽을 경우 성능 저하 or job 실패](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff#file-unzip_gzipped_hdfs_file-md)
-* [What’s New for Apache Spark on Kubernetes in the Upcoming Apache Spark 2.4 Release](https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html)
-  * 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
 * [What’s new in Apache Spark 2.3 and Spark 2.4](https://www.slideshare.net/Hadoop_Summit/whats-new-in-apache-spark-23-and-spark-24)
 * [What’s new in Spark 2.4!](https://medium.com/@akhilanand.bv/whats-new-in-spark-2-4-121162f1c385)
 * [Uber’s Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/)
@@ -483,7 +473,6 @@
 * [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.slideshare.net/JunKim22/spark-zeppelin-77273056)
   * [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.facebook.com/groups/sparkkoreauser/permalink/1465550026840229/)
 * [Zeppelin 노트북: NSMC Word2Vec & Sentiment Classification](https://github.com/uosdmlab/nsmc-zeppelin-notebook)
-* [Spark day 2017@Seoul - Spark on Kubernetes](https://www.slideshare.net/jerryjung7/spark-day-2017seoul)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](https://engineering.linecorp.com/ko/blog/detail/60)
 
 # Deep Learning
@@ -501,6 +490,20 @@
   * [Part 1](https://towardsdatascience.com/deep-learning-with-apache-spark-part-1-6d397c16abd)
   * [Part 2](https://towardsdatascience.com/deep-learning-with-apache-spark-part-2-2a2938a36d35)
 * [Deep Learning Pipelines for Apache Spark](https://github.com/databricks/spark-deep-learning)
+
+# Docker
+* practice
+  * [install zeppelin docker image, read and adjust json files](https://github.com/hyunjun/practice_private/tree/master/interview_bonial_assignment)
+* [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
+* [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
+* [spark-scala-tutorial A free tutorial for Apache Spark](https://github.com/deanwampler/spark-scala-tutorial) docker jupyter notebook
+* [Apache Spark on Docker](https://github.com/sequenceiq/docker-spark)
+* Distributed Pricing Engine using Dockerized Spark on YARN w/ HDP 3.0
+  * [Part 1/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-1-4/)
+  * [Part 2/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-2-4/)
+  * [Part 3/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-3-4/)
+  * [Part 4/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-4-4/)
+* [Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker](https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7)
 
 # Hbase
 * example
@@ -522,6 +525,28 @@
 * [Apache Spark setup with Gradle, Scala and IntelliJ](https://medium.com/@faizanahemad/apache-spark-setup-with-gradle-scala-and-intellij-2eeb9f30c02a)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Spark 2: How to install it on Windows in 5 steps](https://medium.com/@dvainrub/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3)
+
+# Kubernetes
+* [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
+* [What’s New for Apache Spark on Kubernetes in the Upcoming Apache Spark 2.4 Release](https://databricks.com/blog/2018/09/26/whats-new-for-apache-spark-on-kubernetes-in-the-upcoming-apache-spark-2-4-release.html)
+  * 2.4 preview. Kubernetes 지원 강화, PySpark/Spark R 지원 추가 등
+* [Spark day 2017@Seoul - Spark on Kubernetes](https://www.slideshare.net/jerryjung7/spark-day-2017seoul)
+* Scalable Spark Deployment using Kubernetes
+  * [Docker Image and Kubernetes Configurations for Spark 2.x](https://github.com/phatak-dev/kubernetes-spark)
+  * [Part 1 : Introduction to Kubernetes](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-1/)
+  * [Part 2 : Installing Kubernetes Locally using Minikube](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-2/)
+  * [Part 3 : Kubernetes Abstractions](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-3/)
+  * [Part 4 : Service Abstractions](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-4/)
+  * [Part 5 : Building Spark 2.0 Docker Image](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-5/)
+  * [Part 6 : Building Spark 2.0 Two Node Cluster](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-6/)
+  * [Part 7 : Dynamic Scaling and Namespaces](http://blog.madhukaraphatak.com/scaling-spark-with-kubernetes-part-7/)
+* Auto Scaling Spark in Kubernetes
+  * [Part 1 : Introduction](http://blog.madhukaraphatak.com/horizontal-scaling-k8s-part-1/)
+  * [Part 2 : Spark Cluster Setup](http://blog.madhukaraphatak.com/horizontal-scaling-k8s-part-2/)
+  * [Part 3 : Scaling Spark Workers](http://blog.madhukaraphatak.com/horizontal-scaling-k8s-part-3/)
+* [The anatomy of Spark applications on Kubernetes](https://banzaicloud.com/blog/spark-k8s-internals/)
+  * Kubernetes에 대한 Spark의 실험적 지원과 인-클러스터 클라이언트 모드에 대한 향후 지원에 대해 설명
+  * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
@@ -751,7 +776,6 @@
 * [Introducing Pandas UDF for PySpark](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
 * [Reading CSV & JSON files in Spark – Word Count Example](http://kavita-ganesan.com/reading-csv-and-json-files-in-spark)
 * [How to Upload/Download Files to/from Notebook in my Local machine](https://medium.com/ibm-data-science-experience/how-to-upload-download-files-to-from-notebook-in-my-local-machine-6a4e65a15767)
-* [Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker](https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
 * [Analyze MongoDB Logs Using PySpark](https://medium.com/hackernoon/analyze-mongodb-logs-using-pyspark-97a915547da0)
@@ -852,7 +876,6 @@
 * [www.zepl.com](https://www.zepl.com/) previously www.zeppelinhub.com
 * practice
   * [meetup](https://github.com/hyunjun/practice/tree/master/spark/meetup)
-  * [install zeppelin docker image, read and adjust json files](https://github.com/hyunjun/practice_private/tree/master/interview_bonial_assignment)
 * [Introduction to Zeppelin](http://www.slideshare.net/KSLUG/kslug-zeppelin)
 * [Zeppelin overview](https://www.youtube.com/watch?v=_PQbVH_aO5E)
 * [Zepplin (제플린) 설치하기](http://bcho.tistory.com/1022)
@@ -882,7 +905,6 @@
 * [스파크-제플린으로 통계 그래프 출력하기(윈도우환경)](http://blog.daum.net/web_design/396) 실패 이야기
 * [Apache Zeppelin Data Science Environment 1/21/16](https://www.youtube.com/watch?v=chPw8Ts7ZW8)
 * [Zeppelin Build and Tutorial Notebook](https://www.youtube.com/watch?v=CfhYFqNyjGc)
-* [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [zdairi is zeppelin CLI tool](https://github.com/del680202/zdairi)
 * [Zeppelin Paragraph 공유 시 자동 로그인 구현](http://www.popit.kr/zeppelin-paragraph-%EA%B3%B5%EC%9C%A0-%EC%8B%9C-%EC%9E%90%EB%8F%99-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84/)
 * [25분 만에 Apache Zeppelin 으로 대시보드 만들기 - 박훈(@1ambda)](https://www.youtube.com/watch?v=VKMB8nFhjug)
