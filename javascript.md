@@ -1510,6 +1510,7 @@ Javascript
 * [Node.js에서의 프로토타입 오염 공격이란 무엇인가](https://blog.coderifleman.com/2019/07/19/prototype-pollution-attacks-in-nodejs/)
 * [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 * [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
+* [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312) Deno등 node 개발 환경의 여러가지 다른 library등의 이야기도 나옴
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
