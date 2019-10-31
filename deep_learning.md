@@ -2295,6 +2295,7 @@ CVPR2016)
 * [Keras_CNN_PPO_StarCraft](https://github.com/jangikim2/Reinforcement-Learning/tree/master/Keras_CNN_PPO_StarCraft)
 * [Reaver: StarCraft II Deep Reinforcement Learning Agent](https://github.com/inoryy/reaver-pysc2)
 * [sc2-korean-level](https://chris-chris.gitbook.io/sc2-korean-level/untitled)
+* [AlphaStar: Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://deepmind.com/blog/article/AlphaStar-Grandmaster-level-in-StarCraft-II-using-multi-agent-reinforcement-learning)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
