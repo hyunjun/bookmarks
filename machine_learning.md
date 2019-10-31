@@ -1126,6 +1126,10 @@ Machine Learning
 * [서포트벡터머신Support Vector Machine을 위한 비선형 계획 문제의 쌍대정리](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/svm/duality.ipynb)
 * [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 
+# TDD, Test
+* [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
+* [drifter_ml - ML Testing](https://github.com/EricSchles/drifter_ml)
+
 # Theano
 * [Tutorial](http://deeplearning.net/software/theano/tutorial/)
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
