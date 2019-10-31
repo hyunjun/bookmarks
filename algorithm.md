@@ -370,6 +370,7 @@ Algorithm
 * [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 * [SHA-256 Hash Algorithm](http://jusths.tistory.com/43)
 * [SHA-256 프로세스 정리](http://jusths.tistory.com/44)
+* [재해싱 (rehashing) : 시간 복잡도를 분석해 보면서 왜 필요한지 알아봅시다](https://codingdog.tistory.com/entry/%EC%9E%AC%ED%95%B4%EC%8B%B1-rehashing-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EC%A7%80-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 ## Consistent Hashing
 * **[입 개발 Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**
