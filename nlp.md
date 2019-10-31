@@ -298,6 +298,7 @@ NLP
 * [Natural Language Processing RoadMap - 2019](https://github.com/graykode/nlp-roadmap)
 * [NLP HighlightsPro - Allen Institute for Artificial Inte Seattle, United States](https://soundcloud.com/nlp-highlights)
 * [SKC_Text_Preprocessing - SKC 텍스트 전처리 강의](https://github.com/Parkchanjun/SKC_Text_Preprocessing)
+* [PRODUCTIONIZING NLP MODELS](https://www.topbots.com/productionizing-nlp-models/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1297,6 +1298,7 @@ NLP
 * [SK T아카데미 모두를 위한 기계번역](https://github.com/Parkchanjun/SK_MT_FOR_EVERYONE)
 * [SKC_MachineTranslation 강의자료](https://github.com/Parkchanjun/SKC_MachineTranslation)
 * [토크ON 58차. 기계번역 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
+* [Unsupervised Word Segmentation for Neural Machine Translation and Text Generation](https://github.com/rsennrich/subword-nmt)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
