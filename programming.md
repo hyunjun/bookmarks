@@ -1414,6 +1414,7 @@ Programming
   * [월간 개발자스럽다 #45](https://blog.gaerae.com/2019/07/monthly.html)
   * [월간 개발자스럽다 #46](https://blog.gaerae.com/2019/08/monthly.html)
   * [월간 개발자스럽다 #47](https://blog.gaerae.com/2019/09/monthly.html)
+  * [월간 개발자스럽다 #48](https://blog.gaerae.com/2019/10/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 
 # OS Operating System
