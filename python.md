@@ -1674,6 +1674,9 @@ Python
 * [한글이 보이는 Flask CSV Response 만들기](https://beomi.github.io/2017/11/28/Flask-CSV-Response/)
 * [Flask Response Encoding 문제](http://ourcstory.tistory.com/234) make_response 사용
 * [Flask 블루프린트(blueprint) 사용하기](https://blog.naver.com/dbswjd1977/221152224572)
+* [Using the url_for Function in Flask Blueprints](https://www.youtube.com/watch?v=BMBwahCCaEk)
+* [Intro to Flask Blueprints](https://www.youtube.com/watch?v=K5LBC3hLl8w)
+* [Intermediate Flask - Structuring Larger Flask Applications w/Blueprints](https://www.youtube.com/watch?v=DLQ-T-u5iIM)
 * [Asynchronous Task in Flask Using Celery](https://www.youtube.com/watch?v=iwxzilyxTbQ)
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
@@ -1694,7 +1697,6 @@ Python
   * **[파이썬 웹 배포 삽질!! 이제 그만](https://drive.google.com/file/d/0B6LVjPeYlSkVUzBLLVJrODVLMWEzdHpjT0w0SzVYNXJ4dFFn/view)** gunicorn, nginx
 * [Flask-Large-Application-Example](https://github.com/JoMingyu/Flask-Large-Application-Example)
 * [Flask Routing & Sessions: A Subtle Symphony - With great flexibility comes great responsibility](https://hackingandslacking.com/flask-routing-sessions-a-subtle-symphony-f008e7198379)
-* [Using the url_for Function in Flask Blueprints](https://www.youtube.com/watch?v=BMBwahCCaEk)
 * [Flask for Beginners Tutorial - Learn Flask in 40 Minutes (2019)](https://www.youtube.com/watch?v=EnJKHVEzHFw)
 * [Flask TodoMVC Tutorial](https://simplectic.com/projects/flask-todomvc/)
 * [Model-View-Controller (MVC) Explained – With Legos](https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/)
@@ -3307,6 +3309,7 @@ Python
 * [What’s New In Python 3.8](https://docs.python.org/3/whatsnew/3.8.html)
 * [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 * [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
+* [Some New Features in Python 3.8](https://www.youtube.com/watch?v=-Rh4XW89VlQ)
 * [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
 
 # SciPy
