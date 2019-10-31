@@ -82,6 +82,7 @@ Math
 * [Deep Learning이란 무엇인가? Backpropagation, 역전파 알아보기](https://evan-moon.github.io/2018/07/19/deep-learning-backpropagation/)
 * [프로그래머는 수학을 잘해야할까?](https://evan-moon.github.io/2019/07/17/programmer-with-math)
 * [랭크(rank), 차원(dimension)의 의미](https://losskatsu.github.io/linear-algebra/rank-dim/)
+* [Higher order Newton-like methods for root finding](https://www.johndcook.com/blog/2019/10/30/higher-order-newton/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
