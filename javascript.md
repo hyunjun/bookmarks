@@ -2033,6 +2033,7 @@ Javascript
 * [React Final Form을 사용한 폼 제어](https://blog.rhostem.com/posts/2019-10-14-react-final-form)
 * [Announcing Ionic React](https://ionicframework.com/blog/announcing-ionic-react/)
 * [State Colocation will make your react app faster](https://ideveloper2.dev/blog/2019-10-12--state-colocation-will-make-your-react-app-faster)
+* [C언어와 React로 Server Side Rendering 만들기](https://velog.io/@tbvjaos510/C%EC%96%B8%EC%96%B4%EC%99%80-React%EB%A1%9C-SSR%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
