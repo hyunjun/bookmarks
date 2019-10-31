@@ -25,14 +25,6 @@ Programming Books
   * 한라 005.76 데56ㅇ
 * (NOT YET) [앤서블 철저 입문](http://book.daum.net/detail/book.do?bookid=BOK00033610325IN)
   * 2017.12 탐라
-* [블록체인 애플리케이션 개발 실전 입문](http://wikibook.co.kr/blockchain-solidity)
-  * 2017.12
-  * 한라 005.11 와882ㅂ
-  * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
-* (NOT YET) [블록체인 무엇인가?](http://jhrogue.blogspot.com/2018/03/blog-post.html)
-* (NOT YET) [블록체인 기업으로 가는 길: 가상의 기업 사례 회고를 통한 블록체인의 비즈니스 도입과 기술 전략](http://jhrogue.blogspot.com/2019/02/blog-post_18.html)
-* (NOT YET) [이더리움을 활용한 블록체인 프로젝트 구축 쉽게 접하는 블록체인 개발](http://acornpub.co.kr/book/blockchain-projects)
-* (NOT YET) [코어 이더리움 프로그래밍](http://jhrogue.blogspot.com/2019/03/blog-post_23.html)
 * (NOT YET) [사이트 신뢰성 엔지니어링](https://blog.outsider.ne.kr/1358)
   * [사이트 신뢰성 엔지니어링을 통해 구글의 서비스 개발과 운영 노하우를 소개합니다](https://developers-kr.googleblog.com/2018/04/blog-post.html)
 * (NOT YET) [(더 나은 코딩을 위한,) 코딩을 지탱하는 기술 : 원리로 깨우치는 프로그래밍 기법](http://book.daum.net/detail/book.do?bookid=BOK00021363945IN)
@@ -706,9 +698,18 @@ Programming Books
 
 # Finance
 
+* [블록체인 애플리케이션 개발 실전 입문](http://wikibook.co.kr/blockchain-solidity)
+  * 2017.12
+  * 한라 005.11 와882ㅂ
+  * 블록체인, 이더리움, Geth(go로 만들어진 이더리움 클라이언트)
+* (NOT YET) [블록체인 무엇인가?](http://jhrogue.blogspot.com/2018/03/blog-post.html)
+* (NOT YET) [블록체인 기업으로 가는 길: 가상의 기업 사례 회고를 통한 블록체인의 비즈니스 도입과 기술 전략](http://jhrogue.blogspot.com/2019/02/blog-post_18.html)
+* (NOT YET) [이더리움을 활용한 블록체인 프로젝트 구축 쉽게 접하는 블록체인 개발](http://acornpub.co.kr/book/blockchain-projects)
 * (NOT YET) [블록체인 거번먼트](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=110487241)
   * 2017.06 탐라
 * (NOT YET) [예제로 배우는 블록체인' 출간 소식](http://occamsrazr.net/tt/356)
+* (NOT YET) [코어 이더리움 프로그래밍](http://jhrogue.blogspot.com/2019/03/blog-post_23.html)
+* (NOT YET) [밑바닥부터 시작하는 비트코인](http://www.hanbit.co.kr/store/books/look.php?p_code=B2663064363)
 
 # Git
 
