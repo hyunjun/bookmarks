@@ -3325,6 +3325,7 @@ Python
 * [Matrix Computations in SymPy](http://matthewrocklin.com/blog/work/2012/10/29/Matrix-Computations/)
 * [Python Sympy 모듈 이해하기](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
 * [파이썬 심파이(Sympy)와 함께하는 수학여행](http://sympy.xwmooc.org/02-sympy-install.html)
+* [Generating Python code from SymPy](https://www.johndcook.com/blog/2019/10/31/generating-python-code-from-sympy/)
 
 # TDD, Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
