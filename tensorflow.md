@@ -96,23 +96,6 @@ TensorFlow
   * [Machine Intelligence made easybyKazunori Sato](http://sssslide.com/speakerdeck.com/kazunori279/machine-intelligence-made-easy)
 * [TF-KR 첫모임: 텐스플로우를 이용한 얼굴 인식 구현](https://www.youtube.com/watch?v=EB2A2ej70Pw)
 * [Tfk 6618 tensor_flow로 얼굴인식 구현 mariocho](http://www.slideshare.net/hephaex/tfk-6618-tensorflowr10mariocho)
-* [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
-* [Jupyter notebok tensorboard 실행하기 20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
-* [TensorBoard support Embedding Visualization](https://tensorflow.blog/2016/11/30/tensorboard-support-embedding-visualization/)
-* [Tensorboard Embedding Visualization](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials/tree/master/tensorflow_Application/tensorflow_MnistEmbeddingVisualizationWithTensorboard)
-* [AutoEncoder 에서 뽑은 Z vector Tensorboard 에서 보기](http://nuxlear.tistory.com/3?category=280392)
-* [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
-* [tensorboard-embedding-visualization - Visualize embedding on tensorboard with thumbnail images](https://github.com/jireh-father/tensorboard-embedding-visualization)
-  * 함수한번 호출 하면 특정 데이터셋에 대한 sprite 이미지와 라벨파일 전부 자동으로 만들어주고 embedding 정보까지 저장
-  * 예제는 mnist라 1채널 이미지인데 3채널 이미지도 동작
-  * 사용법
-    * 1. 모델소스와 pre-trained 모델을 로딩
-    * 2. embedding 확인할 데이터셋을 로딩
-    * 3. summary_embedding_with_labels를 호출
-* [Debugging & Visualising training of Neural Network with TensorBoard](https://www.analyticsvidhya.com/blog/2017/07/debugging-neural-network-with-tensorboard/)
-* [Jupyter-Tensorboard: Start tensorboard in Jupyter notebook](https://github.com/lspvic/jupyter_tensorboard)
-* [What-If Tool](https://pair-code.github.io/what-if-tool/) tensorboard plugin
-  * [What-If Tool demo - binary classifier for smile detection in images - CelebA dataset](https://pair-code.github.io/what-if-tool/image.html)
 * [학습과정 표시하기 (텐서보드 포함)](https://tykimos.github.io/Keras/2017/07/09/Training_Monitoring/)
 * [2016-06-18-tensorflow-kr.md](https://github.com/bwahn/bwahn.github.io/blob/master/_posts/2016-06-18-tensorflow-kr.md)
 * [Tensorflow KR 3차 오프라인 모임 후기](https://zzsza.github.io/etc/2019/10/20/tensorflow-kr-3th-meeting/)
@@ -627,7 +610,6 @@ TensorFlow
 * [How to deploy TensorFlow models to production using TF Serving](https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700)
 * **[Deploying Keras models using TensorFlow Serving and Flask](https://yjucho1.github.io/tensorflow/tensorflow-serving)**
 * [Straighten out a TensorFlow continuous training link using Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-686)
-* [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
   * [cloud.google.com/dataproc/tutorials/jupyter-notebook](https://cloud.google.com/dataproc/tutorials/jupyter-notebook)
 * [TensorFlow v0.10 Release](https://tensorflowkorea.wordpress.com/2016/09/13/tensorflow-v0-10-release/)
@@ -757,6 +739,25 @@ TensorFlow
 * [Scatteract - a framework to automatically extract data from the image of scatter plots](https://github.com/bloomberg/scatteract)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [SpecAugment that speech data augmentation method which directly process the spectrogram with Tensorflow, introduced by Google Brain](https://github.com/shelling203/SpecAugment)
+* [TensorBoard.dev - Easily host, track, and share your ML experiments for free](https://tensorboard.dev/)
+  * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
+  * [Jupyter notebok tensorboard 실행하기 20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
+  * [TensorBoard support Embedding Visualization](https://tensorflow.blog/2016/11/30/tensorboard-support-embedding-visualization/)
+  * [Tensorboard Embedding Visualization](https://github.com/JONGGON/Tensorflow_Advanced_Tutorials/tree/master/tensorflow_Application/tensorflow_MnistEmbeddingVisualizationWithTensorboard)
+  * [AutoEncoder 에서 뽑은 Z vector Tensorboard 에서 보기](http://nuxlear.tistory.com/3?category=280392)
+  * [텐서보드(TensorBoard) 시작하기](http://www.popit.kr/%ED%85%90%EC%84%9C%EB%B3%B4%EB%93%9Ctensorboard-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
+  * [tensorboard-embedding-visualization - Visualize embedding on tensorboard with thumbnail images](https://github.com/jireh-father/tensorboard-embedding-visualization)
+    * 함수한번 호출 하면 특정 데이터셋에 대한 sprite 이미지와 라벨파일 전부 자동으로 만들어주고 embedding 정보까지 저장
+    * 예제는 mnist라 1채널 이미지인데 3채널 이미지도 동작
+    * 사용법
+      * 1. 모델소스와 pre-trained 모델을 로딩
+      * 2. embedding 확인할 데이터셋을 로딩
+      * 3. summary_embedding_with_labels를 호출
+  * [Debugging & Visualising training of Neural Network with TensorBoard](https://www.analyticsvidhya.com/blog/2017/07/debugging-neural-network-with-tensorboard/)
+  * [Jupyter-Tensorboard: Start tensorboard in Jupyter notebook](https://github.com/lspvic/jupyter_tensorboard)
+  * [What-If Tool](https://pair-code.github.io/what-if-tool/) tensorboard plugin
+    * [What-If Tool demo - binary classifier for smile detection in images - CelebA dataset](https://pair-code.github.io/what-if-tool/image.html)
+  * [TensorBoard 빌드하기](http://bibliotheque.tistory.com/83)
 * [TensorBuilder is light wrapper over TensorFlow that enables you to easily create complex deep neural networks using the Builder Pattern through a functional fluent immutable API](https://github.com/cgarciae/tensorbuilder)
 * [TensorDebugger(TDB): Visual Debugger for TF](https://tensorflow.blog/2017/01/02/tensordebuggertdb-visual-debugger-for-tf/)
   * [TensorFlow Debugger (tfdbg) Command-Line-Interface Tutorial: MNIST](https://www.tensorflow.org/programmers_guide/debugger)
@@ -774,7 +775,9 @@ TensorFlow
 * [TensorFlow Extended (TFX) - an end-to-end platform for deploying production ML pipelines](https://www.tensorflow.org/tfx)
 * [TensorFlow Graphics](https://github.com/tensorflow/graphics)
   * [Introducing TensorFlow Graphics: Computer Graphics Meets Deep Learning](https://medium.com/tensorflow/introducing-tensorflow-graphics-computer-graphics-meets-deep-learning-c8e3877b7668)
-* [TensorFlow Hub](https://www.tensorflow.org/hub/)
+* Tensorflow Hub
+  * [Hello. Welcome to the TensorFlow Hub](https://tfhub.dev/)
+  * [TensorFlow Hub](https://www.tensorflow.org/hub/)
   * [Introducing TensorFlow Hub: A Library for Reusable Machine Learning Modules in TensorFlow](https://medium.com/tensorflow/introducing-tensorflow-hub-a-library-for-reusable-machine-learning-modules-in-tensorflow-cdee41fa18f9)
   * [TensorFlow.Data 및 TensorFlow Hub](https://www.slideshare.net/inureyes/tensorflowdata-tensorflow-hub)
   * [How to use TensorFlow Hub with code examples](https://medium.com/ymedialabs-innovation/how-to-use-tensorflow-hub-with-code-examples-9100edec29af)
