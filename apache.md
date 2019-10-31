@@ -418,6 +418,7 @@ Apache
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
 * [Kafka Korea meetup](https://github.com/kafkakru/meetup)
   * **[KafkaKRU(Kafka 한국사용자 모임) 2회 미니밋업 후기](https://zzsza.github.io/etc/2019/03/26/kafkakru-2nd-review/)**
+  * [Kafka kru CONFERENCE SEOUL 2019 후기 & 정리글](https://dabo-dev.tistory.com/17)
   * [mini-meetup2](https://github.com/kafkakru/meetup/tree/master/mini-meetup2)
   * [About 3rd Mini-Meetup](https://github.com/kafkakru/meetup/tree/master/mini-meetup3)
 * [Moving From Legacy To Event-Driven With Kafka](https://www.youtube.com/watch?v=H_ang8BatXQ)
@@ -500,6 +501,7 @@ Apache
 * [burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
   * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
   * [Burrow - kafka consumer의 지연(lag)을 모니터링할 수 있는 효과적인 opensource tool](https://blog.voidmainvoid.net/243)
+  * [kafka-lag-dashboard](https://github.com/AndersonChoi/kafka-lag-dashboard)
 * [Conduktor - the ultimate Apache Kafka Desktop Client](https://www.conduktor.io)
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
 * [Debezium - Stream changes from your database](https://debezium.io)
