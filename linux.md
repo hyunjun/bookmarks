@@ -161,6 +161,8 @@ Linux
   * `awk '{ gsub(/\xef\xbb\xbf/,""); print }' INFILE > OUTFILE` [remove ALL <U+FEFF>](https://gist.github.com/szydan/b225749445b3602083ed) 
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
+* `bc`
+  * [Computing pi with bc](https://www.johndcook.com/blog/2019/10/29/computing-pi-with-bc/)
 * `comm`
   * `comm [-1] [-2] [-3] [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2, -3 does the same for duplicated lines)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
@@ -455,6 +457,8 @@ Linux
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
+* [GNU Coreutils](https://www.gnu.org/software/coreutils/manual/coreutils.html)
+  * numfmt [Formatting numbers at the command line](https://www.johndcook.com/blog/2019/10/30/numfmt/)
 
 # Kernel
 * [Initialization](https://github.com/0xAX/linux-insides/tree/master/Initialization)
