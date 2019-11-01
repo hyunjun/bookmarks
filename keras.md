@@ -254,6 +254,27 @@ Keras
 * [Keras Tuner - An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0](https://github.com/keras-team/keras-tuner)
   * [이제 하이퍼파라미터 튜닝은 케라스 튜너에게 맡기세요 - 김태영](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together_tykim/)
 * [ktrain: a lightweight wrapper for Keras to help train (and deploy) neural networks](https://github.com/amaiya/ktrain)
+* [plaidML-Keras](https://www.facebook.com/groups/KerasKorea/permalink/3077728298909781/)
+  * mac 에서 딥러닝을 하는 방법은 크게, 1. CPU 이용, 2. PlaidML + OpenCL 이용, 3. ROCm (RadeonOpenCompute) 이용, 4. eGPU enclosure + NVIDIA GPU
+    * CPU는 느린 속도, 3/4번의 경우 어려운 셋업 및 macos 버전에 따른 문제(mavericks 및 catalina 버전에서는 사실상 불가능)
+  * PlaidML 은 Intel 에서 리드하는 프레임워크. NVIDIA/AMD 및 CPU 하드웨어가 각각에 맞는 OpenCL로 추상화 된 것을 다시한번 통합 추상화
+  * PlaidML-Keras 라는 프로젝트가 있어서, PlaidML를 백엔드로 동작하는 Keras의 사용이 2017년경 부터 가능. 현재까지도 지속적으로 업데이트 되어 Keras 2.x 까지 지원
+  * Apple/macos 진영에서는 수년 전 부터 Metal 이라는 프레임워크를 개발. Metal 은 AMD GPU를 제어하기 위한 API를 제공하는 매우 저 수준의 프레임워크. 현재 애플의 모든 상품에 적용이 되어 왔고, OpenCL은 사실상 Deprecated
+  * Metal이 적용된 여러가지 killing 애플리케이션의 성능이 OpenCL에 비해서 월등히 향상
+  * PlaidML-Keras 프로젝트에서는 2018년 5월경 부터 OpenCL과 더불이 Metal 의 지원을 런칭. AMD Radeon GPU 활용하여, Metal의 고성능 프레임워크를 백엔드로,  Keras API를 사용한 딥러닝 가능
+  * 더불어, Mac 컴퓨터에 eGPU를 연결해서 하이엔드급 Radeon GPU의 연결도 가능합니다
+  * 사용 방법
+
+    ```
+    1. pip install -U plaidml-keras
+    2. plaidml-setup 여기서 OpenCL 대신, metal 선택
+    3. Python 코드 작성
+      import os
+      os.environ["KERAS_BACKEND"] = "plaidml.keras.backend"
+      위의 내용 입력 후, import keras 하여 평소 쓰던대로 사용
+    ```
+  * [plaidml](https://github.com/plaidml/plaidml)
+  * [plaidml-keras](https://vertexai-plaidml.readthedocs-hosted.com/en/latest/index.html)
 * [reactionrnn - a Python 2/3 module + R package on top of Keras/TensorFlow which can easily predict the proportionate reactions (love, wow, haha, sad, angry) to a given text using a pretrained recurrent neural network](https://github.com/minimaxir/reactionrnn)
 * [Spektral - a framework for relational representation learning, built in Python and based on the Keras API](https://github.com/danielegrattarola/spektral) Deep learning on graphs with Keras
 * [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
