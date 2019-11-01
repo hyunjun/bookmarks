@@ -415,6 +415,7 @@ iOS
 * [SwiftUI 뷰 1 (SwiftUI 강좌)](https://www.munon.io/swiftui-tutorial-view-1/)
 * [TECHCON 2019: MOBILE - iOS 1.네이버 지도 밑그림을 그리는 SDK 개발자가 하는 일](https://www.slideshare.net/NaverEngineering/techcon-2019-mobile-ios1-sdk)
 * [SwiftUI 튜토리얼 1편 — 기본구조](https://medium.com/harrythegreat/swiftui-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-1%ED%8E%B8-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-11e7b589e6de)
+* [SwiftRT Design](https://docs.google.com/document/d/1IasqA1EPrl3XB1QwNdwtVSe7RfZYnIHFUtyCtWlMDx0)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
