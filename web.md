@@ -664,6 +664,7 @@ Web
 * [2019년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8786166)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
+* [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
 
 # Websocket
 * [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
