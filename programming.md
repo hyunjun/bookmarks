@@ -1674,6 +1674,9 @@ Programming
   * [katalon studio 툴을 이용한 GUI 테스트 자동화 가이드](https://www.slideshare.net/genycho/korean-gui-test-withkatalonstudio)
   * [Katalon Studio Review (Is it better than Selenium?)](https://testguild.com/katalon-studio/)
   * [2019년 톱 15 셀레늄 대안](https://testmanager.tistory.com/178) katalon만이 아니라 다른 여러가지 툴 소개
+ 
+# Troubleshooting, 장애 해결
+* [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
