@@ -299,6 +299,7 @@ NLP
 * [NLP HighlightsPro - Allen Institute for Artificial Inte Seattle, United States](https://soundcloud.com/nlp-highlights)
 * [SKC_Text_Preprocessing - SKC 텍스트 전처리 강의](https://github.com/Parkchanjun/SKC_Text_Preprocessing)
 * [PRODUCTIONIZING NLP MODELS](https://www.topbots.com/productionizing-nlp-models/)
+* [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Processing)](https://www.slideshare.net/wonjoonyoo/ss-188835227)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -806,6 +807,7 @@ NLP
   * annoy와 비슷하지만 graph tree 기반 indexing
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
+* [Pragmatic Segmenter - a rule-based sentence boundary detection gem that works out-of-the-box across many languages](https://github.com/diasks2/pragmatic_segmenter)
 * [PyText - a deep-learning based NLP modeling framework built on PyTorch](https://facebook.ai/developers/tools/pytext)
   * [PyText - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs ](https://github.com/facebookresearch/pytext)
   * [Open-sourcing PyText for faster NLP development](https://code.fb.com/ai-research/pytext-open-source-nlp-framework/)
@@ -893,6 +895,7 @@ NLP
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
 * [pyeunjeon (python + eunjeon)](https://github.com/koshort/pyeunjeon) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
+* [pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box](https://github.com/nipunsadvilkar/pySBD)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)
 * [soynlp](https://github.com/lovit/soynlp) 단어 추출/ 토크나이저 / 품사판별/ 전처리 기능을 제공
