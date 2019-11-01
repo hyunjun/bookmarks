@@ -738,6 +738,7 @@ Programming
 * [CodeCity - an integrated environment for software analysis](http://www.inf.usi.ch/phd/wettel/codecity.html)
 * Convox
   * [MOVING OPENDOOR'S DATA SCIENCE STACK FROM HEROKU TO CONVOX](https://labs.opendoor.com/moving-opendoors-data-science-stack-from-heroku-to-convox/)
+* [deep source - Static code analysis that doesn't suck](https://deepsource.io/)
 
 # Code Review, pair programming, mob programming
 * [www.methodsandtools.com/archive/archive.php?id=66](http://www.methodsandtools.com/archive/archive.php?id=66)
