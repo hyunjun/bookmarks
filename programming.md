@@ -682,6 +682,7 @@ Programming
 * [Cloud Made Simple with Serverless Python](https://www.youtube.com/watch?v=3Dbxu-J4c5s) IBM cloud
 * [Full Stack Serverless](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/)
 * [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
+* [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
