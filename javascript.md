@@ -270,7 +270,6 @@ Javascript
   * [9.Socket.IO](http://www.slideshare.net/circulus_official/startup-javascript-9-socketio)
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 * [자바스크립트 데이터 타입과 연산자](http://blog.naver.com/edy5016/221153787303)
-* [함수와 프로토타입 체이닝](https://blog.naver.com/edy5016/221157369323)
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
@@ -347,14 +346,6 @@ Javascript
 * [ISO 8601 형식의 날짜를 Date 객체에 사용 가능한 형식으로 변환하기](https://blog.naver.com/edy5016/221188048166)
 * [브라우저에서 Date 객체를 사용하고 싶을 땐](https://medium.com/rainist-engineering/watch-out-to-use-javascript-date-a98ece6461dc)
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
-* [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
-* [JavaScript Inheritance and the Prototype Chain](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)
-* [A Beginner’s Guide to JavaScript’s Prototype](https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34)
-* [All you need to know to understand JavaScript’s Prototype](https://medium.freecodecamp.org/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03)
-* [알고 쓰자 Javascript 프로토타입](https://cresumerjang.github.io/2019/06/20/javascript-prototype/)
-* [자바스크립트의 프로토타입](https://qwefgh90.github.io//language/2019/09/20/자바스크립트-프로토타입.html)
-* [자바스크립트의 프로토타입 흝어보기](https://evan-moon.github.io/2019/10/23/js-prototype/)
-* [프로토타입을 사용하여 상속하기](https://evan-moon.github.io/2019/10/27/inheritance-with-prototype/)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
@@ -1634,6 +1625,18 @@ Javascript
 * [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
  
+# Prototype
+* [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
+* [JavaScript Inheritance and the Prototype Chain](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)
+* [A Beginner’s Guide to JavaScript’s Prototype](https://medium.freecodecamp.org/a-beginners-guide-to-javascript-s-prototype-9c049fe7b34)
+* [All you need to know to understand JavaScript’s Prototype](https://medium.freecodecamp.org/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03)
+* [함수와 프로토타입 체이닝](https://blog.naver.com/edy5016/221157369323)
+* [알고 쓰자 Javascript 프로토타입](https://cresumerjang.github.io/2019/06/20/javascript-prototype/)
+* [자바스크립트의 프로토타입](https://qwefgh90.github.io//language/2019/09/20/자바스크립트-프로토타입.html)
+* [자바스크립트의 프로토타입 흝어보기](https://evan-moon.github.io/2019/10/23/js-prototype/)
+* [프로토타입을 사용하여 상속하기](https://evan-moon.github.io/2019/10/27/inheritance-with-prototype/)
+* [The Single Most Important Feature of JavaScript](https://medium.com/better-programming/the-single-most-important-feature-of-javascript-d65ae448eb19)
+
 # Purescript
 * [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
 
