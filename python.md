@@ -921,6 +921,7 @@ Python
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property)](https://blog.naver.com/codeitofficial/221684462326)
+  * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property) 2편](https://blog.naver.com/codeitofficial/221695196435)
 * random
   * shuffle [사용자 데이터셋 셔플](https://jybaek.tistory.com/781)
 * re
