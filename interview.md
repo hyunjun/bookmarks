@@ -99,7 +99,7 @@ Interview
 * [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
 * **[코딩 인터뷰 – part 2](https://sangminpark.blog/2017/06/14/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-2/)**
 * [코딩 인터뷰 – part 3](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-3/)
-* **[코딩 인터뷰 – part 4](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/)**
+* **[코딩 인터뷰 – part 4](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/)** system design
 * [코딩 인터뷰 – part 5](https://sangminpark.blog/2017/06/22/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-5/)
 * **[Tech HR 컨퍼런스 참석 후기](http://jojoldu.tistory.com/163)**
 * [IT 회사 탐방기 세미나 참석후기](http://jojoldu.tistory.com/274)
