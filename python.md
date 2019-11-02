@@ -446,6 +446,7 @@ Python
 * [Comprehending the ‘Comprehensions’ in Python](https://towardsdatascience.com/comprehending-the-concept-of-comprehensions-in-python-c9dafce5111)
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * **[Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/)** 서로의 관계를 그림과 함께 잘 설명
+* [30 Helpful Python Snippets You Should Learn Today](https://morioh.com/p/271bc88c0100)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -2432,6 +2433,7 @@ Python
   * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
   * **[Python MySQL Tutorial](http://www.mysqltutorial.org/python-mysql/)**
   * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+  * [Insert / Retrieve file and images as a Blob in MySQL using Python](https://pynative.com/python-mysql-blob-insert-retrieve-file-image-as-a-blob-in-mysql/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
 * [NetworkX](http://networkx.github.io/) -> [graph](graph.md)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
@@ -3311,6 +3313,7 @@ Python
 * [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
 * [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 * [Some New Features in Python 3.8](https://www.youtube.com/watch?v=-Rh4XW89VlQ)
+* [Cool New Features in Python 3.8](https://realpython.com/python38-new-features/)
 * [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
 
 # SciPy
