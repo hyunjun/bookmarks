@@ -417,6 +417,7 @@ Apache
 * [Kafka 0.10 Compression Benchmark](http://blog.yaorenjie.com/2017/01/03/Kafka-0-10-Compression-Benchmark/)
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
 * [Kafka Korea meetup](https://github.com/kafkakru/meetup)
+  * [About 1st Conference](https://github.com/kafkakru/meetup/tree/master/conference/1st-conference)
   * **[KafkaKRU(Kafka 한국사용자 모임) 2회 미니밋업 후기](https://zzsza.github.io/etc/2019/03/26/kafkakru-2nd-review/)**
   * [Kafka kru CONFERENCE SEOUL 2019 후기 & 정리글](https://dabo-dev.tistory.com/17)
   * [mini-meetup2](https://github.com/kafkakru/meetup/tree/master/mini-meetup2)
