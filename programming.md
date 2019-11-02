@@ -256,6 +256,7 @@ Programming
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
+* [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/) 소프트웨어 프로젝트에서 시간 추정
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -299,6 +300,7 @@ Programming
 * [책 후기 클린 소프트웨어](http://blog.wimy.com/456/)
 * [Why software developers (quite honestly) hate Agile](https://www.objectstyle.com/agile/why-developers-hate-agile)
 * [애자일 개발자가 지켜야 할 중요한 코딩 프랙티스 7가지](http://www.itworld.co.kr/news/134294)
+* [당장 실행할 수 있는 애자일 실천법](https://selfothercontext.com/2019/10/28/agile-practices/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -422,6 +424,7 @@ Programming
   * [Making Instagram.com faster: Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
   * [Making Instagram.com faster: Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)
   * [Making Instagram.com faster: Part 3 — cache first](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)
+  * [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
 * **[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)** 총정리라는 제목에 걸맞는 다양한 내용 정리
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
@@ -1032,6 +1035,7 @@ Programming
 * [What are the best programming fonts?](https://www.slant.co/topics/67/~best-programming-fonts)
 * [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
 * [프로그래밍 글꼴 비교](https://start.goodtime.co.kr/2019/06/%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ea%b8%80%ea%bc%b4-%eb%b9%84%ea%b5%90/)
+* [Lesser Known Coding Fonts](https://vfoley.xyz/lesser-known-coding-fonts/)
 * Ligatures 지원 폰트
   * [Shellscript to install fonts for macOS and Linux](https://gist.github.com/Kevin-Lee/328e9993d6b3ad250636023fb2c7827f)
   * [FiraCode - Monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
@@ -1332,6 +1336,7 @@ Programming
   * [10월 2주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/10/b-10-2.html)
   * [10월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/10/b-10-3.html)
   * [10월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/10/b-10-4.html)
+  * [10월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-10-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
