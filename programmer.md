@@ -31,3 +31,4 @@ Programmer
 * [왜 45세 정년이 될 수 밖에 없는가 (기술기업의 관점에서)](http://windy96.egloos.com/3495731)
   * Theory Z Teamism, Theory A Open Allocation
 * [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
+* [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
