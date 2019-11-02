@@ -85,6 +85,8 @@ iOS
 * [웹 브라우저와 함께 하는 애니메이션 스티커 체커](https://engineering.linecorp.com/ko/blog/line-animation-sticker-checker-on-web-browser/)
 * [Supporting Dynamic Type at Airbnb](https://medium.com/airbnb-engineering/supporting-dynamic-type-at-airbnb-b47c68b0c998)
 * [민사고 간편 결제 제작기](https://blog.chosunghyun.com/kr/minsapay/)
+* [Making Direct Messages Reliable and Fast](https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f)
+* [Implementing Dark Mode in iOS 13](https://instagram-engineering.com/instagram-darkmode-58802b43c0f2)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
