@@ -7,7 +7,6 @@ Linux
 * [pubdata.tistory.com/category/Lecture_Linux](http://pubdata.tistory.com/category/Lecture_Linux)
 * [Multitasking in the Linux Kernel. Workqueues](http://kukuruku.co/hub/nix/multitasking-in-the-linux-kernel-workqueues)
 * [How to close a running process's socket](http://incoherency.co.uk/blog/stories/closing-a-socket.html)
-* [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
 * [Linux Survival](http://linuxsurvival.com/)
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
@@ -95,6 +94,8 @@ Linux
 * [How To Install VMWare Fusion with Ubuntu on a Mac](http://hplgit.github.io/teamods/ubuntu/vmware/mac.html)
 * [리얼리눅스 제 1 회 세미나: "리눅스, 제대로 알고 코딩하자!"](https://www.slideshare.net/Real_Linux/1-169469250)
 * [11 Reasons You Should Learn to Use Linux](https://www.maketecheasier.com/reasons-learn-use-linux/)
+* [Linux에서 터미널, 콘솔, 쉘, tty, pty, pts 차이 정리](https://jootc.com/p/20170306208/)
+* [Learn and use fork(), vfork(), wait() and exec() system calls across Linux Systems](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -123,6 +124,7 @@ Linux
 * [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line)
 * [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
+* [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
 * `sync && echo [1|2|3] > /proc/sys/vm/drop_caches` & `[swapoff|swapon] -a`
   * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) 
@@ -355,6 +357,7 @@ Linux
   * `ssh-keygen -R <ip>` [Host key verification failed 대처](http://uni2u.tistory.com/93)
   * [A top-down introduction to SSH and how it enables secure data-sharing](https://medium.freecodecamp.org/a-top-down-introduction-to-ssh-965f4fadd32e)
   * [SSH Port Forwarding](https://jusths.tistory.com/102)
+  * [SSH PORT](https://www.ssh.com/ssh/port)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
@@ -497,6 +500,7 @@ Linux
   * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
   * [Why you should be using fzf, the command line fuzzy finder](https://medium.freecodecamp.org/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
+* htop [htop explained](https://peteris.rocks/blog/htop/)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * Inotify
   * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
@@ -504,7 +508,8 @@ Linux
 * [ix: command line pastebin](http://ix.io/)
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
-* [Linuxbrew is a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
+* [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
+  * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
 * [LSD (LSDeluxe) The next gen ls command](https://github.com/Peltoche/lsd)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
