@@ -149,6 +149,7 @@ C++
 * [Thundering Herds & Promises](https://instagram-engineering.com/thundering-herds-promises-82191c8af57d) `folly::Future`, `SharedPromise`
 * [가상 함수 포인터에 관한 고찰](https://othereum.github.io/c++/vf/)
 * [채팅 서버 개발로 알아보는 C++의 기술들](https://docs.google.com/presentation/d/1D6Y7wjZiyeHpFXnF70MQygiCwgxM0TBeCSd70rOeGmo)
+* [Never trust a programmer who says he knows C++](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
 
 # API
 * auto_ptr
