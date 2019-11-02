@@ -201,6 +201,7 @@ C
   * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
 * [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
+* [corkscrew - A tool for tunneling SSH through HTTP proxies](https://github.com/bryanpkc/corkscrew)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
