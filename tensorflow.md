@@ -564,6 +564,7 @@ TensorFlow
   * [Toward Best Practices of TensorFlow Code Patterns](https://github.com/wookayin/TensorFlowKR-2017-talk-bestpractice/)
   * [텐서플로 C++ API로 강화학습 구현하기](http://blog.naver.com/atelierjpro/220911555463)
   * [딥러닝을 이용한 주가 예측](http://blog.naver.com/logking1/220914588343)
+* [Building models with tf.text (TF World '19)](https://www.youtube.com/watch?v=iu_OSAg5slY)
 
 # Docker
 * [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
