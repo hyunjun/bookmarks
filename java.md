@@ -398,6 +398,9 @@ Java
 # Java13
 * [Definitive Guide To Java 13](https://blog.codefx.org/java/java-13-guide/)
 
+# Java14
+* [Better NPE Messages in JDK 14](https://dzone.com/articles/better-npe-messages-in-jdk-14)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 
@@ -467,6 +470,8 @@ Java
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
+* [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
+  * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
 * **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 * **[Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)**
@@ -508,6 +513,7 @@ Java
 * [9 Java EE Frameworks to Build Enterprise Applications](https://geekflare.com/java-ee-frameworks/)
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
+* [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
