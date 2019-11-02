@@ -171,6 +171,7 @@ PyTorch
 * [KorQuAD (Korean Question Answering Dataset) submission guide using PyTorch pretrained BERT](https://github.com/lyeoni/KorQuAD)
 * [XLNet-Pytorch arxiv:1906.08237 Simple XLNet implementation with Pytorch Wrapper!](https://github.com/graykode/xlnet-Pytorch)
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
+* [KoBERT와 CRF로 만든 한국어 객체명인식기 (BERT+CRF based Named Entity Recognition model for Korean)](https://github.com/eagle705/pytorch-bert-crf-ner)
 
 # CNN
 * [Implementing CNN with Pytorch - 딥러닝 홀로서기](https://www.youtube.com/watch?v=uskpN90u-dE)
