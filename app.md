@@ -910,6 +910,7 @@ App
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
 * [fciv - 윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow ](https://github.com/bmatzelle/gow)
+* [igloo - A small, but powerful terminal app for Windows](https://easyigloo.org/)
 * [midipix - posix for windows](http://midipix.org/)
 * [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
