@@ -86,6 +86,7 @@ SQL
 * ERD
   * [ERD 다이어그램 툴 종류와 설치 경로 정리](http://gomcine.tistory.com/entry/ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%ED%88%B4-%EC%A2%85%EB%A5%98%EC%99%80-%EC%84%A4%EC%B9%98-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC)
   * [AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램](http://aquerytool.com/)
+  * [dbdiagram - Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/)
   * [erdplus.com](https://erdplus.com)
 * [Flyway - Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL](https://flywaydb.org/)
 * migration
@@ -193,6 +194,7 @@ SQL
       * [13.2.7 LOAD DATA INFILE Syntax](http://dev.mysql.com/doc/refman/5.1/en/load-data.html)
       * [MySQL 파일을 이용하여 테이블에 값 삽입하기](http://ra2kstar.tistory.com/2)
     * [MySQL database 정보 import하기](http://tac.softonnet.com/troubleshoot/viewbody.php?code=troubleshoot&page=1&number=26&keyfield=category&key=db) mysqlimport
+  * [LOAD_FILE() function](https://www.w3resource.com/mysql/string-functions/mysql-load_file-function.php)
   * SELECT
     * [`SELECT p.FirstName, p.LastName, a.City, a.State FROM Person p LEFT JOIN Address a ON p.PersonId = a.PersonId`](https://leetcode.com/problems/combine-two-tables/solution/)
     * [`SELECT a.Name AS Employee FROM Employee AS a JOIN Employee AS b ON a.ManagerId = b.Id AND a.Salary > b.Salary`](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/)
@@ -476,7 +478,7 @@ SQL
 * [Parallelism in PostgreSQL](https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/)
 * [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
 
-## Library
+## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
@@ -487,6 +489,7 @@ SQL
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
+* [pg_flame - A flamegraph generator for Postgres EXPLAIN ANALYZE output](https://github.com/mgartner/pg_flame)
 * [pgfutter - Import CSV and JSON into PostgreSQL the easy way](https://github.com/lukasmartinelli/pgfutter)
 * [pgmemcache is a set of PostgreSQL user-defined functions that provide an interface to memcached](https://github.com/ohmu/pgmemcache/)
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
