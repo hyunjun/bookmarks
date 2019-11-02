@@ -118,6 +118,7 @@ Go
 * [From Python to Go: migrating our entire API](http://blog.repustate.com/migrating-entire-api-go-python/)
 * [Python vs Go 비교 레퍼런스](https://mingrammer.com/side-by-side-reference-sheet-of-python-and-go)
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
+* [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
@@ -230,6 +231,7 @@ Go
 * [Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 * [uber-go-style-guide-kr](https://github.com/TangoEnSkai/uber-go-style-guide-kr)
 * ["고, 무엇에 좋은가" 고 언어의 기능과 제약, 그리고 발전 방향](http://www.itworld.co.kr/news/134027)
+* [PHuiP-FPizdaM - an exploit for a bug in php-fpm (CVE-2019-11043)](https://github.com/neex/phuip-fpizdam)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
@@ -414,9 +416,11 @@ Go
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
+* [QRCode Terminal](https://github.com/mdp/qrterminal)
 * [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
 * [Ransomware](https://github.com/mauri870/ransomware) The intent here is to disseminate and teach more about security in the actual world. Remember, security is always a double-edged sword
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
+* [restic - a program that does backups right](https://restic.net/)
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
