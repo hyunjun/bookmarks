@@ -1032,6 +1032,7 @@ NLP
 * [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
 * [Attention Is All You Need](https://www.notion.so/5944fbf370ab46b091eeb64453ac3af5)
 * [EMNLP-IJCNLP 2019 프리뷰](https://blog.pingpong.us/emnlp2019-preview)
+* [Paper Digest: EMNLP 2019 Highlights](https://www.paperdigest.org/2019/11/emnlp-2019-highlights)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
