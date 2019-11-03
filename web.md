@@ -321,6 +321,7 @@ Web
   * [TOOBUK](https://github.com/ramoi/toobuk)
   * [Scraping URLs with BeautifulSoup](https://hackingandslacking.com/scraping-urls-with-beautifulsoup-e794a555bb0f)
 * [Crawler](https://github.com/rudvlf0413/crawler)
+* [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
 * [scrapy_community](https://github.com/onecue/scrapy_community)
