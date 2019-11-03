@@ -572,6 +572,7 @@ AWS
 * [An error occurred (InvalidParameter) when calling the ExportImage operation: The service role vmimport provided does not exist or does not have sufficient permissions](https://jybaek.tistory.com/836)
 
 # Library
+* [konlpy와 mecab을 amazon linux2에 인스톨하는 스크립트입니다](https://gist.github.com/serithemage/7c52ab749d053c21898647ce04b4db9b)
 * [AWSInterface - 몇번의 클릭만으로 API를 구성하고 SDK를 배포](https://aws-interface.com)
   * [Create and manage powerful backends with one click](https://github.com/hubaimaster/aws-interface)
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
