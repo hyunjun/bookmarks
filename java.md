@@ -716,6 +716,7 @@ Java
 * [JPA 엔터티 카운트 성능 개선하기](https://www.popit.kr/jpa-%EC%97%94%ED%84%B0%ED%8B%B0-%EC%B9%B4%EC%9A%B4%ED%8A%B8-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0/)
 * [JPA 연관 관계 조회 그리고 MSA](https://www.popit.kr/jpa-연관-관계-조회-그리고-msa)
 * [Spring-Jpa Best Practices](https://github.com/cheese10yun/spring-jpa-best-practices)
+* [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
