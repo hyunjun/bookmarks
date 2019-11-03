@@ -396,6 +396,7 @@ Programming
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Clean Architecture 1/2](https://jusths.tistory.com/149)
 * [Clean Architecture 2/2](https://jusths.tistory.com/150)
+* [클린 아키텍처 1-2장](https://wlaxhrl.tistory.com/76)
 * [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
