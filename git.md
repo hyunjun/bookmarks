@@ -567,6 +567,7 @@ Git
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
+* [gitpod - One-Click Online IDE for GitHub](https://www.gitpod.io/)
 * [git-punish](http://git-punish.io/)
 * [git-quick-stats로 보는 다양한 Git 통계](http://developer88.tistory.com/95)
 * [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
