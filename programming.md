@@ -1020,6 +1020,7 @@ Programming
 * [소프트웨어 환멸감](https://muchtrans.com/translations/software-disenchantment.ko.html) Software disenchantment 번역글. 소프트웨어 산업 전반에 대한 비판
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops/read_full)
 * [Rootconf - A community and conference on DevOps and cloud infrastructure](https://rootconf.in)
+* [DevOps는 원격근무를 추구하면 안되는 걸까?](https://www.slideshare.net/jesangyoon/devops-190288417)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
