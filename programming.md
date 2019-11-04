@@ -854,6 +854,7 @@ Programming
 * [소프트웨어 엔지니어들이 읽기 어려운 코드를 만드는 이유는?](http://jhrogue.blogspot.com/2018/12/b.html)
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29) 작은 함수가 좋은 경우/안 좋은 경우
 * [코딩 스타일에 대해 논쟁하는 이유](http://www.mimul.com/pebble/default/2019/05/31/1559304696070.html)
+* [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
 
 # Compiler, Interpreter
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
