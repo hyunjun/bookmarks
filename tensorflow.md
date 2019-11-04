@@ -743,6 +743,20 @@ TensorFlow
 * [Scatteract - a framework to automatically extract data from the image of scatter plots](https://github.com/bloomberg/scatteract)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [SpecAugment that speech data augmentation method which directly process the spectrogram with Tensorflow, introduced by Google Brain](https://github.com/shelling203/SpecAugment)
+* [spleeter - Deezer source separation library including pretrained models](https://github.com/deezer/spleeter)
+  * TF 2.0 + TF 1.x Compat 기반 작성
+  * 여러 종류의 음원이 섞여 있는 음악 파일에서, 각 음원을 분리해 내는 pretrained 된 모델 제공. 지원되는 음원 분리 방식은 세 가지
+    * 1)  Vocals (singing voice) / accompaniment separation (2 stems)
+    * 2)  Vocals / drums / bass / other separation (4 stems)
+    * 3)  Vocals / drums / bass / piano / other separation (5 stems)
+  * 1. 설치
+
+    ```
+    $ git clone https://github.com/Deezer/spleeter
+    $ conda env create -f spleeter/conda/spleeter-cpu.yaml (gpu 버전은 cpu를 gpu로 교체)
+    $ conda activate spleeter-cpu
+    ```
+  * 2. 실행 `spleeter separate -i spleeter/audio_example.mp3 -p spleeter:2stems -o output`
 * [TensorBoard.dev - Easily host, track, and share your ML experiments for free](https://tensorboard.dev/)
   * [Add Tensorboard into running docker](http://jbk958.dothome.co.kr/blog/?p=24)
   * [Jupyter notebok tensorboard 실행하기 20160706](http://www.slideshare.net/dahlmoon/jupyter-notebok-tensorboard-20160706)
@@ -854,6 +868,7 @@ TensorFlow
 * [TensorSpace - a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js](https://github.com/tensorspace-team/tensorspace)
 * [tensortalk.com](https://tensortalk.com/)
 * [tensorwatch - Debugging, monitoring and visualization for Deep Learning and Reinforcement Learning](https://github.com/microsoft/tensorwatch)
+* [texar - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow https://asyml.io ](https://github.com/asyml/texar)
 * [tf-explain implements interpretability methods as Tensorflow 2.0 callbacks to ease neural network's understanding](https://github.com/sicara/tf-explain)
   * [Introducing tf-explain, Interpretability for TensorFlow 2.0](https://blog.sicara.com/tf-explain-interpretability-tensorflow-2-9438b5846e35)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
