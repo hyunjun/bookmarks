@@ -642,6 +642,7 @@ NLP
 # Conference
 * [JSALT 2019 Montréal: Dive into Deep Learning for Natural Language Processing](https://jsalt19.mxnet.io/)
 * [LangCon](https://songys.github.io/2019LangCon/about/)
+* [텐서플로 월드2019 행사 핵심요약 2. NLP가 대세입니다!](https://www.youtube.com/watch?v=5gKWS4CfE2Y)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)
