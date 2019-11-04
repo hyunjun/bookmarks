@@ -162,6 +162,7 @@ Linux
   * [AWK greater than?](http://www.unix.com/shell-programming-and-scripting/56223-awk-greater-than.html)
   * [Print only the Nth line before each line that matches a pattern](https://unix.stackexchange.com/questions/283471/print-only-the-nth-line-before-each-line-that-matches-a-pattern)
   * `awk '{ gsub(/\xef\xbb\xbf/,""); print }' INFILE > OUTFILE` [remove ALL <U+FEFF>](https://gist.github.com/szydan/b225749445b3602083ed) 
+  * [You are here: Home / Linux Commands / Getting Started With AWK Command](https://linuxhandbook.com/awk-command-tutorial/)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
