@@ -47,3 +47,5 @@ Flutter
 * [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
 * [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg)
 * [Why we think Flutter will help us scale mobile development at Nubank](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)
+* [Flutter - JSON 사용하기](https://www.youtube.com/watch?v=E6KKL0Oe-2E)
+* [Flutter - JSON in the background / isolate | 백그라운드 처리](https://www.youtube.com/watch?v=4qpMzUcatsU)
