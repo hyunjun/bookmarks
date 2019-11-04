@@ -244,6 +244,8 @@ Vision
 * [Image Registration: From SIFT to Deep Learning](https://blog.sicara.com/image-registration-sift-deep-learning-3c794d794b7a)
 * [Connect Webcam to Docker on Mac or Windows](https://gzupark.github.io/blog/Connect-Webcam-to-Docker-on-Mac-or-Windows)
 * [ICCV 2019 튜토리얼](https://visionnoob.dev/2019/10/07/iccv-turorials/)
+* [ICCV 2019 Review 1 참석 후기 및 프로그램 소개](https://hoya012.github.io/blog/ICCV-2019_review_1/)
+* [ICCV 2019 Review 2 Best Paper SinGAN： Learning a Generative Model from a Single Natural Image 리뷰](https://hoya012.github.io/blog/ICCV-2019_review_2/)
 * [FreeAnchor](https://www.slideshare.net/BrianKim244/freeanchor)
 
 # Book
