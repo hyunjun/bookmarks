@@ -828,10 +828,10 @@ Javascript
 * [GraphQL project structure](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180830_SM_refactoring_graphql_type.md)
 * [A new approach to mocking GraphQL data](https://medium.freecodecamp.org/a-new-approach-to-mocking-graphql-data-1ef49de3d491)
 * [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
+* [GraphQL Search Indexing](https://medium.com/netflix-techblog/graphql-search-indexing-334c92e0d8d5)
 * [A Beginner’s Guide to GraphQL](https://medium.freecodecamp.org/a-beginners-guide-to-graphql-86f849ce1bec)
 * [Solving the N+1 Problem for GraphQL through Batching](https://engineering.shopify.com/blogs/engineering/solving-the-n-1-problem-for-graphql-through-batching)
 * [Optimizing Your GraphQL Request Waterfalls](https://blog.apollographql.com/optimizing-your-graphql-request-waterfalls-7c3f3360b051)
-* [Our learnings from adopting GraphQL](https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f)
 * Going Serverless with NodeJS & GraphQL
   * [(Part I) — Setting up Serverless](https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-5b34f5d280f4)
   * [(Part II) — Implementing GraphQL on AWS Lambda](https://levelup.gitconnected.com/going-serverless-with-nodejs-graphql-part-ii-1810445028a4)
