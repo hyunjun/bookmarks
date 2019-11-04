@@ -327,6 +327,7 @@ Interview
       * [NETFLIX System design | software architecture for netflix](https://www.youtube.com/watch?v=psQzyFfsUGU)
       * [How Netflix works: the (hugely simplified) complex stuff that happens every time you hit Play](https://medium.com/refraction-tech-everything/how-netflix-works-the-hugely-simplified-complex-stuff-that-happens-every-time-you-hit-play-3a40c9be254b)
       * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html) 전체적인 구조를 아는 데 좋지만 정말 길어서 제대로 다 읽지는 못함
+      * [NETFLIX System Design: How does Netflix onboard new content?](https://www.youtube.com/watch?v=x9Hrn0oNmJM)
     * Youtube
       * **[Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)** 2012년 영상이지만 youtube에 국한되지 않고 전반적인 걸 이해하는 데 정말 좋은 영상
         * [YouTube Architecture](http://highscalability.com/youtube-architecture)
