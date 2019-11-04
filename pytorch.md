@@ -301,6 +301,7 @@ PyTorch
   * 멀티프로세싱, 비동기 프로그래밍, 네트워크 프로그래밍, 클라우드, IaC 등 공부하고 구현하면서 메모리 이슈도 많이 만나고 레이턴시 문제도 겪고 엔지니어링 끝에 결국 실험 성공
   * 이 모델을 이용하면 Actor를 100개 200개 300개씩 두고 탐험을 할 수 있어서 Suboptimal Policy에 빠지지 않음. 실제로 Seaquest를 이용해서 실험해본 결과, Rainbow, ACER 등에서 1000~2000점 점수를 찍을때 10000점 20000점 30000점 달성
 * [Deep Reinforcement Learning Algorithms with PyTorch](https://github.com/p-christ/Deep-Reinforcement-Learning-Algorithms-with-PyTorch)
+* [Single-machine implementations of distributed reinforcement learning algorithms with Ray and PyTorch](https://github.com/cyoon1729/Distributed-Reinforcement-Learning) ray 사용
 * [minimalRL-pytorch](https://github.com/seungeunrho/minimalRL)
   * [DQN 알고리즘 구현!](https://www.youtube.com/watch?v=__NYgfkUr-M)
 * [rlpyt - Deep Reinforcement Learning in PyTorch](https://github.com/astooke/rlpyt)
