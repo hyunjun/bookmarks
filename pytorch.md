@@ -279,6 +279,7 @@ PyTorch
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
 * [tensorboardX - Write TensorBoard events with simple function call](https://github.com/lanpa/tensorboard-pytorch)
+* [texar-pytorch - Integrating the Best of TF into PyTorch, for Machine Learning, Natural Language Processing, and Text Generation https://asyml.io ](https://github.com/asyml/texar-pytorch)
 * [torchaudio-contrib](https://github.com/keunwoochoi/torchaudio-contrib)
   * [Perceptual weighting of audio signals in pytorch](https://keunwoochoi.wordpress.com/2019/10/03/perceptual-weighting-of-audio-signals-in-pytorch/)
 * [TorchBeast - A PyTorch Platform for Distributed RL](https://github.com/facebookresearch/torchbeast)
