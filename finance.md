@@ -40,6 +40,10 @@ Finance
 * [토스가 현대카드를 연동하는 방법에 동의하지 않습니다](https://blog.outsider.ne.kr/1442)
 * [우량 기술주 초기에 발견하는 방법](https://www.youtube.com/watch?v=WdPGjG0jSK0) 40의 법칙
 * [213. (초보) 역대급 주식 전설들의 유튜브 채널들 10개 소개!](https://www.youtube.com/watch?v=ZNNwIJymshw)
+* [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
+* [슬기로운 대체투자 (3) 감옥 (교정시설) 펀드편](https://brunch.co.kr/@daegukim/66)
+* [쓰다 남은 달러로 불황에도 할 수있는 투자방법 알려드림(feat.美교도소주) / 돈워리스쿨](https://www.youtube.com/watch?v=ZZM-m-JP8-o)
+* [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
 * [JP MORGAN의 DEEP HEDGING](https://smallake.kr/?p=28006)
 
 # Bank
