@@ -453,6 +453,8 @@ R
 * [Gifski on CRAN: the fastest GIF encoder in the universe](https://ropensci.org/technotes/2018/07/23/gifski-release/)
 * [FastRText - R wrapper for Fasttext](https://github.com/pommedeterresautee/FastRText)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
+* fpp2
+  * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 * [fst - Lightning Fast Serialization of Data Frames for R](https://github.com/fstpackage/fst)
   * [fst: Fast serialization of R data frames](http://blog.revolutionanalytics.com/2017/02/fst-fast-serialization-of-r-data-frames.html)
   * [R에서 테이블 형 객체를 파일단위로 저장할 때 특화된 fst package](https://lovetoken.github.io/r/2018/03/01/fstPackage.html)
