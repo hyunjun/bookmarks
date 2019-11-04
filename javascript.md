@@ -456,6 +456,7 @@ Javascript
 * [You might not need a build toolchain](https://itnext.io/you-might-not-need-a-build-toolchain-324edcef7f9a)
 * [Unpacking JavaScript classes](https://hackernoon.com/unpacking-javascript-classes-81d32804c978)
 * [Let’s explore Slice(), Splice() & Spread Syntax(…) in JavaScript](https://medium.freecodecamp.org/lets-explore-slice-splice-spread-syntax-in-javascript-e242a6f21e60)
+* [Spread Syntax와 Rest Parameter](https://dev-momo.tistory.com/entry/Spread-Syntax%EC%99%80-Rest-Parameter)
 * [How To Organize Express Controllers For Large Codebases](https://medium.freecodecamp.org/how-to-organize-express-controllers-for-large-codebases-2d8284bbf817)
 * [CodeByte: Why explicit semicolons are important in JavaScript](https://medium.freecodecamp.org/codebyte-why-are-explicit-semicolons-important-in-javascript-49550bea0b82)
 * [Finding Your Way With .map()](https://medium.freecodecamp.org/finding-your-way-with-map-aecb8ca038f6)
