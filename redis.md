@@ -83,6 +83,7 @@ Redis
 * [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
   * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
 * [redis-cli 에서 –rdb는 주의해서 사용하셔야 합니다](https://charsyam.wordpress.com/2019/10/07/입-개발-redis-cli-에서-rdb는-주의해서-사용하셔야-합니다/)
+* [redis 만료키 삭제](https://www.kudryavka.me/?p=740)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
