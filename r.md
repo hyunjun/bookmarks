@@ -234,7 +234,6 @@ R
 * [Why Use Docker with R? A DevOps Perspective](https://www.r-bloggers.com/why-use-docker-with-r-a-devops-perspective/)
 * [R로 웹 데이터를 가져오는 4가지 방법(은 크롤링)](https://mrchypark.github.io/getWebR/#1)
 * [WHAT DO WE ASK IN STACK OVERFLOW](http://jkunst.com/r/what-do-we-ask-in-stackoverflow/)
-* [Tips for A/B Testing with R](https://www.r-bloggers.com/tips-for-ab-testing-with-r/)
 * [비동기 프로그래밍 WITH FUTURE (R-ADV WEEK1)](http://lumiamitie.github.io/r/radv-wk1-future/)
 * [R OO SYSTEMS (R-ADV WEEK2)](http://lumiamitie.github.io/r/radv-wk2-oo-systems)
 * [METAPROGRAMMING (R-ADV WEEK3)](http://lumiamitie.github.io/r/radv-wk3-metaprog/)
@@ -305,7 +304,6 @@ R
 * [R의 날짜와 시간](http://ds.sumeun.org/?p=1111)
 * [Reproducible Environments](https://www.r-bloggers.com/reproducible-environments/)
 * [Encryptr now makes it easy to encrypt and decrypt files](https://www.r-bloggers.com/encryptr-now-makes-it-easy-to-encrypt-and-decrypt-files/)
-* [Setting up continuous multi-platform R package building, checking and testing with R-Hub, Docker and GitLab CI/CD for free, with a working example](https://www.r-bloggers.com/setting-up-continuous-multi-platform-r-package-building-checking-and-testing-with-r-hub-docker-and-gitlab-ci-cd-for-free-with-a-working-example)
 * [데이터의 생성, 참조, 수정, 추가, 삭제](http://ds.sumeun.org/?p=1156)
 * [Quick Hit: Scraping javascript-“enabled” Sites with {htmlunit}](https://www.r-bloggers.com/quick-hit-scraping-javascript-enabled-sites-with-htmlunit/)
 * [cRafty tRicks – No more typing brackets!](https://www.r-bloggers.com/crafty-tricks-no-more-typing-brackets-2/) debugging
@@ -346,7 +344,6 @@ R
 * [R 3.5.0~ 버전에서 패키지 업데이트 블라블라 문제가 있었던 사람들을 위한 후일담](https://cojette.github.io/Rpackagerecompile/)
 * [Understanding Blockchain Technology by building one in R](https://www.r-bloggers.com/understanding-blockchain-technology-by-building-one-in-r/)
 * [Access the free economic database DBnomics with R](https://www.r-bloggers.com/access-the-free-economic-database-dbnomics-with-r-2/)
-* [Integrating R with the Zorro Backtesting and Execution Platform](https://robotwealth.com/integrating-r-with-the-zorro-backtesting-and-execution-platform/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -420,6 +417,7 @@ R
 * [8 Useful R Packages for Data Science You Aren’t Using (But Should!)](https://www.analyticsvidhya.com/blog/2019/04/8-useful-r-packages-data-science/)
 * [재무정보 시각화](https://github.com/shinykorea/shiny_financial_dashboard)
 * [Building a Corporate R Package for Pleasure and Profit](https://www.r-bloggers.com/building-a-corporate-r-package-for-pleasure-and-profit/)
+* [Deploying a Shiny app as a desktop application with Electron](https://www.travishinkelman.com/post/deploy-shiny-electron/)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
 * boruta
@@ -468,7 +466,6 @@ R
 * [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
 * [h5 - An Object Oriented Interface to HDF5](https://cran.r-project.org/web/packages/h5/vignettes/h5-Intro.html)
 * has_java [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자)
-* [Hedgehog](https://github.com/hedgehogqa/r-hedgehog) modern property based testing system in the spirit of QuickCheck
 * [installr - Functions for installing softwares from within R](https://github.com/talgalili/installr)
   * [Windows에서 rJava 스트레스 없이 설치하기](https://mrchypark.github.io/post/rtips-windows%EC%97%90%EC%84%9C-rjava-%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-%EC%97%86%EC%9D%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * jamovi
@@ -489,8 +486,6 @@ R
   * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
-* [neuralnet: Train and Test Neural Networks Using R](https://www.r-bloggers.com/neuralnet-train-and-test-neural-networks-using-r/)
-  * [neuralnet: Train and Test Neural Networks Using R](https://datascienceplus.com/neuralnet-train-and-test-neural-networks-using-r)
 * [NLP4kec - 한글, 영어, 중국어 텍스트 데이터 파일을 입력받아 형태소 분석 후 R tm package에서 사용할 수 있도록 해주는 패키지](https://github.com/NamyounKim/NLP4kec)
 * [nodbi: the NoSQL Database Connector](https://www.r-bloggers.com/nodbi-the-nosql-database-connector/)
   * [NoSQL 데이터베이스를 다루는 nodbi](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-nosql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-nodbi/)
@@ -521,6 +516,7 @@ R
   * [Fastai Collaborative Filtering with R and Reticulate](https://www.r-bloggers.com/fastai-collaborative-filtering-with-r-and-reticulate/amp/)
   * [Shiny + Reticulate + Pyspark 소개.pdf](https://github.com/shinykorea/Meetup/blob/master/20190327/Shiny%20%2B%20Reticulate%20%2B%20Pyspark%20%EC%86%8C%EA%B0%9C.pdf)
 * [revisit: a "Statistical Audit" for Statistical Reproducibility and Alternate Analysis](https://github.com/matloff/revisit)
+* [RInno makes it easy to install local shiny apps by providing an interface between R, Inno Setup, an installer for Windows programs (sorry Mac and Linux users)](https://ficonsulting.github.io/RInno/index.html)
 * [rio: A Swiss-Army Knife for Data I/O](https://github.com/leeper/rio)
 * [RmecabKo](https://github.com/junhewk/RmecabKo)
 * RMySQL
@@ -614,6 +610,16 @@ R
 * [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
 * [git을 설치했는데 Rstudio에서 프로젝트 만들기 진행이 안되요](https://mrchypark.github.io/post/rqna-git%EC%9D%84-%EC%84%A4%EC%B9%98%ED%96%88%EB%8A%94%EB%8D%B0-rstudio%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A7%84%ED%96%89%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94/)
 * [Searching on Google Maps using RStudio](https://www.datasciencecentral.com/profiles/blogs/searching-on-google-maps-using-rstudio)
+
+# TDD, Test
+* [Tips for A/B Testing with R](https://www.r-bloggers.com/tips-for-ab-testing-with-r/)
+* [Setting up continuous multi-platform R package building, checking and testing with R-Hub, Docker and GitLab CI/CD for free, with a working example](https://www.r-bloggers.com/setting-up-continuous-multi-platform-r-package-building-checking-and-testing-with-r-hub-docker-and-gitlab-ci-cd-for-free-with-a-working-example)
+* [Integrating R with the Zorro Backtesting and Execution Platform](https://robotwealth.com/integrating-r-with-the-zorro-backtesting-and-execution-platform/)
+* [Hedgehog](https://github.com/hedgehogqa/r-hedgehog) modern property based testing system in the spirit of QuickCheck
+* [neuralnet: Train and Test Neural Networks Using R](https://www.r-bloggers.com/neuralnet-train-and-test-neural-networks-using-r/)
+  * [neuralnet: Train and Test Neural Networks Using R](https://datascienceplus.com/neuralnet-train-and-test-neural-networks-using-r)
+* [RTest - A XML-Based Testing Framework for Automated Unit Tests of R Packages](https://github.com/zappingseb/RTest)
+  * [RTest: pretty testing of R packages](https://www.r-bloggers.com/rtest-pretty-testing-of-r-packages-2/)
 
 # Visualization
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
