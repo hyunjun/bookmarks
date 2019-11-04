@@ -132,6 +132,7 @@
 * [MVC vs. MVVM: How a Website Communicates With Its Data Models](https://hackernoon.com/mvc-vs-mvvm-how-a-website-communicates-with-its-data-models-18553877bf7d)
 * [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [디자인 패턴에서 말하는 투명성](http://sunphiz.me/wp/archives/3288)
+* [방문자 패턴 - Visitor pattern](https://thecodinglog.github.io/design/2019/10/29/visitor-pattern.html)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
