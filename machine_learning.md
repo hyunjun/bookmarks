@@ -1193,3 +1193,6 @@ Machine Learning
 * [Transfer Learning using differential learning rates](https://medium.com/@manikantayadunanda/transfer-learning-using-differential-learning-rates-638455797f00)
 * [Taskonomy: Disentangling Task Transfer Learning 리뷰](http://research.sualab.com/machine-learning/computer-vision/2018/08/14/taskonomy-task-transfer-learning.html)
 * [cs231n.github.io/transfer-learning](http://cs231n.github.io/transfer-learning/)
+* [Hands-On Transfer Learning with Python](https://github.com/Transfer-Learning-with-Python/handson-Code)
+  * [191027 딥러닝 전이학습 발표자료](https://drive.google.com/drive/folders/1JPPMFYlGMl1BbjjMnG2WqakWwBkiHgzP)
+  * [전이학습](https://www.youtube.com/playlist?list=PLqkITFr6P-oQlgZS4-XNRcYW2FBUPrc0h)
