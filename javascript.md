@@ -2227,6 +2227,7 @@ Javascript
 * [React Desktop - React UI Components for OS X El Capitan and Windows 10](https://github.com/gabrielbull/react-desktop)
 * [react-form-generator - Generate, validate, and parse React forms using Mongoose-inspired JSON schemas](https://github.com/SteveVitali/react-form-generator)
 * [Reactiflux is moving to Discord](https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html)
+* [React Hook Form 유연하고 확장 가능한 사용하기 쉬운 고성능 폼 검증 라이브러리](https://react-hook-form.com/kr/)
 * [React Lifecycle Visualizer](https://github.com/Oblosys/react-lifecycle-visualizer)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
   * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
