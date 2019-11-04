@@ -183,7 +183,6 @@ Python
 * [파이썬으로 아파트분석1 데이터 수집과 지역별 분석](http://goodvc.tistory.com/m/post/10)
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
 * [sentdex](https://www.youtube.com/user/sentdex)
-* [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
 * [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
 * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
 * [LLVM Optimized Python for Scientific Computing](http://dev.stephendiehl.com/cfa/slides.pdf)
@@ -1297,21 +1296,27 @@ Python
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 
 # Debugging
-* [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
-* [pdb 튜토리얼](https://github.com/mingrammer/pdb-tutorial)
-* [Start Python Debugging With pdb](https://www.youtube.com/watch?v=bHx8A8tbj2c)
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
-* [파이선에서의 디버깅](http://hamait.tistory.com/840)
+* [PyCharm as the Ultimate Python Debugger](https://pedrokroger.net/python-debugger/)
+* [Python debugging tools](https://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
+* [HOW TO DEBUG (DEADLOCKED) MULTI THREADED PROGRAMS (PYTHON RECIPE)](http://code.activestate.com/recipes/577334-how-to-debug-deadlocked-multi-threaded-programs/)
 * [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
 * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
 * [Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
 * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
 * [파이썬 코드에서 중간에 콘솔 띄우는 디버깅](http://mkseo.pe.kr/blog/?p=2694) `import code; a = 3; code.interact(local=locals())`
-* [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
+* [LA오빠 즐거운 Data Science - 코딩효율 2x 늘리기 팁 1탄](https://www.youtube.com/watch?v=lGrQJvDRxRw) PDB, VS Code, Jupyter
 * [Elizaveta Shashkova - Debugging in Python 3.6: Better, Faster, Stronger](https://www.youtube.com/watch?v=sAvOZlbh9mQ)
   * [PEP 523 Experiments](https://github.com/elizaveta239/frame-eval)
 * PyConKr 2018 **[GDB와 strace로 Hang 걸린 Python Process 원격 디버깅](https://www.slideshare.net/kym970918/gdb-strace-hang-python-process-110423511)**
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
+* PDB
+  * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
+  * [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
+  * [pdb 튜토리얼](https://github.com/mingrammer/pdb-tutorial)
+  * [Start Python Debugging With pdb](https://www.youtube.com/watch?v=bHx8A8tbj2c)
+  * [Debugging in Python](https://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/)
+  * [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
 
 # Docker
