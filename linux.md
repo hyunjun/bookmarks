@@ -108,7 +108,9 @@ Linux
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
 
 # Command
-* [practice - get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
+* practice
+  * [get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
+  * [file path에 space가 있을 때 vi로 여러 파일을 한 번에 열기](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-vi_multiple_file_paths_which_have_space-md) grep, cut, sort, sed, xargs
 * [10가지 재밌는 리눅스 명령어들](http://www.clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=338629) cmatrix, asciiviewer, rev, yes, rig, figlet, toilet, banner, text to speech with espeak, :(){:|:&};:
 * [백그라운드로 작업하는 몇 가지 방법](http://jybaek.tistory.com/683)
 * [리눅스 명령어 삼대장: find, grep, awk](http://jybaek.tistory.com/704)
@@ -336,6 +338,7 @@ Linux
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
   * `sed -e "s/^M//" <infile> > <outfile>` ^M 제거
   * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
+  * [bash 저장 SINGLE 줄에 따옴표로 묶인 파일 이름을 출력하는 방법은 무엇입니까?](https://src-bin.com/ko/q/5c2ffc) path에 space가 있어서 quotation을 추가하기 원할 때
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
   * [리눅스 seq 명령어 사용법](https://www.snoopybox.co.kr/1680)
@@ -418,6 +421,9 @@ Linux
   * [The watch Command](http://www.linfo.org/watch.html)
 * `wc`
   * `wc -c <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
+* `xargs`
+  * [10 Xargs Command Examples in Linux / UNIX](https://www.thegeekstuff.com/2013/12/xargs-examples/)
+  * [xargs를 사용하여 이름에 공백과 따옴표가있는 파일을 복사하려면 어떻게해야합니까?](https://ko.programqa.com/question/143171/)
 * [`xxd`](https://linux.die.net/man/1/xxd)
   * 0, 1에 대한 bit format 출력
     * `xxd -b (Filename) > BINARY.bin` 현재 디렉토리에 BINARY.bin 파일 생성
