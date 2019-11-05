@@ -161,7 +161,7 @@
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
 * [JavaScript Object Oriented Programming](https://www.youtube.com/playlist?list=PLuHgQVnccGMAMctarDlPyv6upFUUnpSO3)
-* [자바스크립트 객체지향 프로그래밍](https://m.blog.naver.com/PostView.nhn?blogId=edy5016&logNo=221163118651)
+* [자바스크립트 객체지향 프로그래밍](https://blog.naver.com/edy5016/221163118651)
 * [Object-oriented Programming in JavaScript: Made Super Simple](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 * [Elegant patterns in modern JavaScript: Ice Factory](https://medium.freecodecamp.org/elegant-patterns-in-modern-javascript-ice-factory-4161859a0eee)
 * [Introducing the Single Element Pattern](https://medium.freecodecamp.org/introducing-the-single-element-pattern-dfbd2c295c5d)

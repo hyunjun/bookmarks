@@ -212,7 +212,7 @@ SQL
       ```
   * [`UPDATE salary SET sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;`](https://leetcode.com/problems/swap-salary/solution/)
 * troubleshooting
-  * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0HiXc&articleno=5740153)
+  * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://blog.daum.net/iamwhoi/5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
   * [practice - Error: 1366](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581#file-error_1366-md)
   * [practice - Error: 1467](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581#file-error_1467-md)

@@ -159,7 +159,7 @@ Hadoop
 * [Autoconfiguration](http://www.cloudera.com/content/www/en-us/documentation/enterprise/latest/topics/cm_mc_autoconfig.html)
 * [Progress Report: Bringing Erasure Coding to Apache Hadoop](http://blog.cloudera.com/blog/2016/02/progress-report-bringing-erasure-coding-to-apache-hadoop/)
   * [Erasure Code and Intel® Intelligent Storage Acceleration Library](http://www.intel.com/content/www/us/en/storage/erasure-code-isa-l-solution-video.html)
-  * [스토리지 데이터 보존 및 복제기법 : 이레이저코딩(Erasure Coding)](http://blog.naver.com/PostView.nhn?blogId=limoremo&logNo=220553762165)
+  * [스토리지 데이터 보존 및 복제기법 : 이레이저코딩(Erasure Coding)](https://blog.naver.com/limoremo/220553762165)
   * [Debunking the Myths of HDFS Erasure Coding Performance](https://www.slideshare.net/HadoopSummit/debunking-the-myths-of-hdfs-erasure-coding-performance)
   * [Introduction to HDFS Erasure Coding in Apache Hadoop](https://blog.cloudera.com/blog/2015/09/introduction-to-hdfs-erasure-coding-in-apache-hadoop/)
 * [HDFS Erasure Coding in Production](https://blog.cloudera.com/blog/2019/06/hdfs-erasure-coding-in-production/)

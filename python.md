@@ -2559,7 +2559,7 @@ Python
 * [Pyxley: Python Powered Dashboards](http://multithreaded.stitchfix.com/blog/2015/07/16/pyxley/)
 * [PyV8 - a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
   * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
-  * [Python, PyV8로 javascript 실행하기](https://m.blog.naver.com/PostView.nhn?blogId=dudwo567890&logNo=220895234080&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F)
+  * [Python, PyV8로 javascript 실행하기](https://blog.naver.com/dudwo567890/220895234080)
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)

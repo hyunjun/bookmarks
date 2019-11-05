@@ -884,7 +884,7 @@ NLP
   * [NLP with NLTK – Part 1](https://opendatascience.com/blog/nlp-with-nltk-part-1/)
   * [python_nltk](https://github.com/zerosum99/python_nltk)
   * [github.com/zerosum99/python_nltk](https://github.com/zerosum99/python_nltk)
-  * [NLTK로 배우는 자연언어처리](http://m.blog.naver.com/PostList.nhn?blogId=bcj1210&categoryNo=10&listStyle=style1)
+  * [NLTK로 배우는 자연언어처리](https://blog.naver.com/PostList.nhn?blogId=bcj1210&categoryNo=10)
   * [Tutorial 5: Analyzing text using Python NLTK](https://www.youtube.com/watch?v=Flpj_D8b1Vg)
   * [NLTK Basic Text Analytics](https://www.youtube.com/watch?v=AKcxEfz-EoI)
   * [NLTK with Python 3 for Natural Language Processing](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL)
@@ -948,7 +948,7 @@ NLP
 * [숨은의미분석 LSA(Latent Semantic Analysis)](https://docs.google.com/presentation/d/1LqlQ-nMe_iP36zq9RmNpEicy49AU9NpnRv5Q5afaOMk/edit#slide=id.p)
 
 # LSH
-* [LSH( Locality sensitive hashing )](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=02ONK&articleno=13627840)
+* [LSH (Locality sensitive hashing)](http://blog.daum.net/jchern/13627840)
 
 # MOOC, Lecture
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)

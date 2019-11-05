@@ -1721,7 +1721,7 @@ Javascript
   * [goshakkk.name/pabla](http://goshakkk.name/pabla/)
 * [velopert.com/category/dev-log/tech-log/nodejs/react-js](https://velopert.com/category/dev-log/tech-log/nodejs/react-js)
 * [saysomething - Realtime Chat Application using long polling technique; implemented using Express.js, MongoDB and React.js](https://github.com/velopert/saysomething)
-* [반응형 웹 - 미디어쿼리(media query) 간단한 예제](http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140184403044)
+* [반응형 웹 - 미디어쿼리(media query) 간단한 예제](https://javaking75.blog.me/140184403044)
 * [리액트 딜레마](http://huns.me/development/2011)
 * [zerocho.com/category/React](https://www.zerocho.com/category/React)
 * [리액트, 리덕스와 리액트-리덕스(React, Redux and react-redux)](https://www.vobour.com/book/view/6vas6uCQF8GXDJDHt)

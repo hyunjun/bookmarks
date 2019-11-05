@@ -370,7 +370,7 @@ History
 ## Japan
 * [historia.tistory.com/tag/일본사](http://historia.tistory.com/tag/%EC%9D%BC%EB%B3%B8%EC%82%AC)
 * [history of japan](https://youtu.be/eSFXoVU-dPM)
-* [일본사](http://m.blog.naver.com/PostList.nhn?blogId=alsn76&categoryNo=58&logCode=0&categoryName=%EC%9D%BC%EB%B3%B8%E5%8F%B2)
+* [일본사](https://blog.naver.com/PostList.nhn?blogId=alsn76&categoryNo=58)
 * [일본의 역사를 바꾼 세키가하라 전투](http://ppss.kr/archives/51306)
 * [역사상 최고의 멍부 지휘관, 무다구치 렌야](http://ppss.kr/archives/38819)
 * [난징 대학살과 양심을 지킨 사람들](http://ppss.kr/archives/35330)

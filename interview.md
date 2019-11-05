@@ -177,7 +177,7 @@ Interview
 * [아마존 출근기 #1 – 근무 환경](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%EA%B7%BC%EB%AC%B4-%ED%99%98%EA%B2%BD/)
 * [아마존 출근기 #2 – 개발 프로세스](https://zaverome.wordpress.com/2016/05/02/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%B6%9C%EA%B7%BC%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4/)
 * [아마존 3년 출근기 #1 – 하루 일과 및 요약](https://zaverome.wordpress.com/2019/01/09/%EC%95%84%EB%A7%88%EC%A1%B4-3%EB%85%84-%EC%B6%9C%EA%B7%BC%EA%B8%B0-1-%ED%95%98%EB%A3%A8-%EC%9D%BC%EA%B3%BC-%EB%B0%8F-%EC%9A%94%EC%95%BD/)
-* **[한국에서의 아마존 본사 인터뷰 후기 및 팁](http://blog.naver.com/PostView.nhn?blogId=spiffmark&logNo=220567136972)**
+* [**한국에서의 아마존 본사 인터뷰 후기 및 팁**](http://spiffmark.blog.me/220567136972)
 * [『 아마존 탈락 후기 』](http://xacdo.net/tt/index.php?pl=2580)
 * [아마존에서 MS로 옮긴 백기선씨 이야기](http://www.popit.kr/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-ms%EB%A1%9C-%EC%98%AE%EA%B8%B4-%EB%B0%B1%EA%B8%B0%EC%84%A0%EC%94%A8-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 * [Amazon 본사 면접후기: 리더쉽에 관한 질문들은 어떻게 대답을 해야하나?](https://medium.com/@kpak/amazon-%EB%B3%B8%EC%82%AC-%EB%A9%B4%EC%A0%91%ED%9B%84%EA%B8%B0-%EB%A6%AC%EB%8D%94%EC%89%BD%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8C%80%EB%8B%B5%EC%9D%84-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98-747133a5336a)

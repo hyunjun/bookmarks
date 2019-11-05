@@ -728,7 +728,7 @@ Deep Learning
 * [Mastering the game of Go with deep neural networks and tree search](http://www.willamette.edu/~levenick/cs448/goNature.pdf)
 * [AlphaGo에 적용된 딥러닝 알고리즘 분석](https://brunch.co.kr/@justinleeanac/2)
 * [알파고는 어떻게 바둑을 둘까](https://brunch.co.kr/@madlymissyou/9)
-* [이세돌이 알파고를 이기려면 선입견을 버려야 한다](http://m.blog.daum.net/_blog/_m/articleView.do?blogid=0NovT&articleno=3331)
+* [이세돌이 알파고를 이기려면 선입견을 버려야 한다](http://blog.daum.net/sadprince57/3331)
 * [바둑인을 위한 알파고](http://www.slideshare.net/DonghunLee20/ss-59413793)
 * [알파고 해부하기 1부](http://www.slideshare.net/DonghunLee20/1-59501887)
 * [알파고 해부하기 2부](http://www.slideshare.net/DonghunLee20/2-59620244)
