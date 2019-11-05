@@ -270,7 +270,8 @@ Data Visualization
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [Superset - a data exploration platform designed to be visual, intuitive and interactive](http://superset.incubator.apache.org/)
-* [VisPy is a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
+* [VisPy - a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
+* [VizSeq - A visual analysis toolkit for text generation tasks](https://facebookresearch.github.io/vizseq/)
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
 
 ## Python Matplotlib
