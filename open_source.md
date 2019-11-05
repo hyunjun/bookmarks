@@ -58,6 +58,7 @@ Open Source
 * [TmaxOS에서 만든 ToOffice의 한자음목록이 LGPL v2의 libhangul의 한자 목록에서 가져온것이라고? 오픈소스 사용한다고 명시하지 않는데?](https://medium.com/libreoffice-korean-team/tmaxos에서-만든-tooffice의-한자음목록이-lgpl-v2의-libhangul의-한자-목록에서-가져온것이라고-오픈소스-사용한다고-명시하지-않는데-98d103f9c988)
 * [번역 오픈소스 에티켓](https://medium.com/jung-han/번역-오픈소스-에티켓-bf59267d1db3)
 * [웹페이지에 쓴 오픈 웹폰트와 자바스크립트 라이센스 표기](https://earlybird.kr/2316) OFL
+* [훌륭한 개발 문화의 이면(6) – 입사하고 싶은 회사를 위한 전략 구사하기](http://channy.creation.net/blog/1234)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
