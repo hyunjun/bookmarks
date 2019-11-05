@@ -503,7 +503,6 @@ R
   * [purrrogress - Add progress bars to mapping functions](https://github.com/halpo/purrrogress)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
-* [rayshader - R Package for 2D and 3D mapping and data visualization https://www.rayshader.com ](https://github.com/tylermorganwall/rayshader)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * readr
@@ -666,4 +665,6 @@ R
   * [esquisse - RStudio add-in to make plots with ggplot2](https://github.com/dreamRs/esquisse)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
+* [moveVis provides tools to visualize movement data (e.g. from GPS tracking) and temporal changes of environmental data (e.g. from remote sensing) by creating video animations](http://movevis.org/)
 * [r2d3 - R Interface to D3 Visualizations](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
+* [rayshader - R Package for 2D and 3D mapping and data visualization https://www.rayshader.com ](https://github.com/tylermorganwall/rayshader)
