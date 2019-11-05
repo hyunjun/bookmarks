@@ -522,6 +522,7 @@ Algorithm
   * [Manacher’s Algorithm Explained— Longest Palindromic Substring](https://hackernoon.com/manachers-algorithm-explained-longest-palindromic-substring-22cb27a5e96f)
 * Rabin-Karp
   * [Rabin Karp Substring Search Pattern Matching](https://www.youtube.com/watch?v=H4VrKHVG5qI)
+  * [라빈 카프 알고리즘 : 그래도 비벼볼 만한 문제가 있다](https://codingdog.tistory.com/entry/%EB%9D%BC%EB%B9%88-%EC%B9%B4%ED%94%84-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B7%B8%EB%9E%98%EB%8F%84-%EB%B9%84%EB%B2%BC%EB%B3%BC-%EB%A7%8C%ED%95%9C-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EC%9E%88%EB%8B%A4)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Z algorithm](https://ivanyu.me/blog/2013/10/15/z-algorithm/)
   * [Z Algorithm Z values](https://www.youtube.com/watch?v=CpZh4eF8QBw)
