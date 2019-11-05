@@ -2363,6 +2363,7 @@ Python
     * [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
     * [파이썬 구글시트 연동 클래스 소개](https://www.youtube.com/watch?v=ivnT4TwYcn0)
     * [파이썬과 구글 Sheet 연동하기](https://coalastudy.com/learn/1299)
+    * [구글시트로 개발자 해방시키기](https://www.slideshare.net/legacycoder/ss-190442750)
   * [Advanced Drive Service in Apps Script](https://eojji.blogspot.com/2019/06/advanced-drive-service-in-apps-script.html)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
