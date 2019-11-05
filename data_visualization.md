@@ -345,3 +345,4 @@ Data Visualization
 * [Matplotlib tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
 * [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
 * [korean_font_on_matplotlib.ipynb](https://colab.research.google.com/github/nicewook/datascience_exercise/blob/master/korean_font_on_matplotlib.ipynb)
+* [Matplotlib: Your First Plot With Python](https://www.youtube.com/watch?v=SRgYGhRXVlY)
