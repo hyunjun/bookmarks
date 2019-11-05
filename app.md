@@ -390,6 +390,7 @@ App
     * [4분코딩 2019 최고의 에디터 비주얼 스튜디오 코드(Visual Studio Code)](https://www.youtube.com/watch?v=iNXTXefTsrs)
     * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
     * [VS CODE를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
+    * [You can now try Microsoft’s web-based version of Visual Studio](https://techcrunch.com/2019/11/04/you-can-now-try-microsofts-web-based-version-of-visual-studio/)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
