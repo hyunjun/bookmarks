@@ -275,6 +275,7 @@ Data Visualization
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
 
 ## Python Matplotlib
+* [matplotlib.org/matplotblog](https://matplotlib.org/matplotblog/)
 * examples
   * [python_matplotlib](https://github.com/zerosum99/python_matplotlib)
   * [Draw a minimalist Christmas tree with Python and their awesome libraries](https://gist.github.com/franktoffel/aea4329b760eb3e72f4d)
