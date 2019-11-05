@@ -331,6 +331,10 @@ NoSQL
 * [성능 최적화 방법](https://gguriya.tistory.com/116) sharding
 * [plugin-input-mongodb을 이용하여mongodb 기반 pipeline 구축](https://blog.naver.com/pjt3591oo/221624138418)
 
+# OmniSci
+* [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
+* [OmniSciDB (formerly MapD Core) https://www.omnisci.com ](https://github.com/omnisci/omniscidb)
+
 # [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
 # Realm
