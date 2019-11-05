@@ -4,6 +4,7 @@ House
 * **[hogangnono.com](https://hogangnono.com/)**
 * **[dot1.kr](http://www.dot1.kr/)** 실거래 그래프
 * [blog.naver.com/asclepina](https://blog.naver.com/asclepina)
+* [blog.naver.com/a-cute-bear](https://blog.naver.com/a-cute-bear)
 * [findapt.co.kr](http://www.findapt.co.kr/)
 * [우리들의 집은 얼마나 당연한 것일까?](http://ppss.kr/archives/52124)
 * [부동산 다이어트](http://www.bdsdiet.com/)
