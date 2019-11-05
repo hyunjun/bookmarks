@@ -244,6 +244,7 @@ PyTorch
 * [HiddenLayer - A lightweight library for neural network graphs and training metrics for PyTorch and Tensorflow](https://github.com/waleedka/hiddenlayer)
 * [hyperband - Hyperparameter Optimization for PyTorch](https://github.com/kevinzakka/hyperband)
 * [hyperlearn - Faster, Leaner GPU Sklearn, Statsmodels written in PyTorch](https://www.techleer.com/articles/568-presenting-a-modern-big-data-algorithm-hyperlearn-50-faster-machine-learning)
+* [Joey NMT framework - developed for educational purposes](https://github.com/joeynmt/joeynmt)
 * [kornia - Open Source Differentiable Computer Vision Library for PyTorch https://kornia.org ](https://github.com/arraiyopensource/kornia)
 * [learn2learn - PyTorch Meta-learning Framework for Researchers http://learn2learn.net ](https://github.com/learnables/learn2learn)
 * libtorch
