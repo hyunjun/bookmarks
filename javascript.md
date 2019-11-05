@@ -2141,6 +2141,7 @@ Javascript
 * [맥(Mac)에 react native 개발 환경 구축하기](https://dev-yakuza.github.io/ko/react-native/install-on-mac/)
 * [The New React Native Architecture Explained](https://formidable.com/blog/2019/react-codegen-part-1/)
   * [새로운 React Native 아키텍처 설명](https://medium.com/react-native-seoul/새로운-react-native-아키텍쳐-설명-a80a60ec04d7)
+* [React Native에서 App 아이콘 & Splash 이미지 만들기](https://dev-yakuza.github.io/ko/react-native/react-native-make/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
