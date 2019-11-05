@@ -1401,6 +1401,7 @@ Python
   * [Django ORM cookbook 번역 후기](https://8percent.github.io/2018-10-07/Django-ORM-cookbook-translate/) read the docs, sphinx
 * [Django ORM Relationships Cheat Sheet](https://hackernoon.com/django-orm-relationships-cheat-sheet-14433d6cf68c)
 * [ORM으로 Aggregation 함수와 Group by 사용](https://brownbears.tistory.com/376)
+* [반드시 알아야 할 5가지ORM 쿼리](https://medium.com/@chrisjune_13837/django-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EB%AA%B0%EB%9E%90%EB%8D%98-orm-%EA%B8%B0%EC%B4%88%EC%99%80-%EC%8B%AC%ED%99%94-592a6017b5f5)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
@@ -2093,6 +2094,7 @@ Python
   * [DeepLab Demo.ipynb](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   * [The speed of your input pipeline counts](https://colab.research.google.com/github/random-forests/applied-dl/blob/master/examples/caching_demo.ipynb) .cache를 이용한 속도 향상. ipynb
   * [구글 코랩으로 데이터 클리닝, 시각화, 분석 - 가장 인기 있는 지하철 호선은?](https://blog.naver.com/codeitofficial/221690981226)
+  * [Mecab-ko-for-GoogleColab](https://github.com/SOMJANG/Mecab-ko-for-Google-Colab)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * **[jupyter.nims.re.kr](https://jupyter.nims.re.kr/)** github api 연동, keras 사용 가능
