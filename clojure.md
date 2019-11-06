@@ -515,6 +515,15 @@ Clojure
     * [3. 컴포넌트와 의존성 주입](http://clojure.kr/arachne-tutorials-dependency-injection)
 * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
+* [babashka - A sprinkle of Clojure for the command line](https://github.com/borkdude/babashka)
+
+  ```
+  $ bash <(curl -s https://raw.githubusercontent.com/borkdude/babashka/master/install)
+  $ echo '(println "hello, super fast clojure!")' > a.clj
+  (println "hello, super fast clojure!")
+  $ time bb -f a.clj
+  hello, super fast clojure!
+  ```
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
 * [boot - Build tooling for Clojure http://boot-clj.com ](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
