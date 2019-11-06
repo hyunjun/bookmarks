@@ -12,6 +12,7 @@ Web
 * [대학생을 위한 웹 개발 공부용 체크리스트](http://xguru.net/1897)
 * [Why can’t we find Front End developers?](http://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/)
   * [프론트엔드 개발자는 왜 구하기 어려운가?](http://ppss.kr/archives/26024)
+* [신입 프론트엔드 개발자가 되려면 무엇을 학습해야 하나요?](https://jbee.io/essay/for_junior_frontend_developer/)
 * [코딩 한 줄로 웹페이지 긁어오기](http://overthedatum.co.kr/archives/148)
 * [“개발자라면 즉시 설치!” 크롬 확장 프로그램 10가지](http://www.itworld.co.kr/slideshow/91136)
 * [What is Firing Range?](https://github.com/google/firing-range)
