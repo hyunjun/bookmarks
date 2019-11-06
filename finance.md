@@ -48,6 +48,7 @@ Finance
 * [쓰다 남은 달러로 불황에도 할 수있는 투자방법 알려드림(feat.美교도소주) / 돈워리스쿨](https://www.youtube.com/watch?v=ZZM-m-JP8-o)
 * [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
 * [태국주식 사는 방법, 주식매매 따라해보기, 입금출금 해보기](https://www.youtube.com/watch?v=MWbVVKKOQgY)
+* [SaaS, Slack, Amazon SEO, Pinduoduo, Meituan, KPCB, a16z](https://medium.com/translink/two-cents-2-saas-slack-amazon-seo-pinduoduo-meituan-kpcb-a16z-c98c61b80e9c)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
