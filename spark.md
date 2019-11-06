@@ -35,9 +35,6 @@
   * [mooc-setup](https://github.com/spark-mooc/mooc-setup)
   * [Spark로 빅데이터 입문, 1-2주차 노트](http://seoh.github.io/blog/2015/06/10/big-data-with-spark-1-2-week/)
   * [Spark로 빅데이터 입문, 3주차 노트](http://seoh.github.io/blog/2015/06/14/big-data-with-spark-3-week/)
-* [BerkeleyX: CS190.1x Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/)
-  * [Spark: Cluster Computing with Working Sets](http://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf)
-  * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
 * [bigdatauniversity.com](http://bigdatauniversity.com)
   * [Spark Fundamentals I](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals/)
   * [Spark Fundamentals II](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals-ii/)
@@ -620,6 +617,9 @@
 * [Community detection in graph](https://gitlab.com/siddhinath/community) Girvan newman algorithm
 
 # Machine Learning
+* [BerkeleyX: CS190.1x Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/)
+  * [Spark: Cluster Computing with Working Sets](http://people.csail.mit.edu/matei/papers/2010/hotcloud_spark.pdf)
+  * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
 * [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
@@ -637,6 +637,7 @@
 * [Ranking Algorithms for Spark Machine Learning Pipeline](https://github.com/oeegee/spark-ranking-algorithms) BM 25 + Wilson score on spark 2.2.0
 * [An Introduction to Machine Learning with Apache Spark™](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWBA6a9pS0aRsRxju0IfUeG)
 * [Multiple Column Feature Transformations in Spark ML](http://blog.madhukaraphatak.com/multi-column-feature-transformation-spark-ml/)
+* [End to End Spark TensorFlow PyTorch Pipelines with Databricks DeltaJim Dowling Logical Clocks ABKim](https://www.youtube.com/watch?v=zGNQQfEjCQY)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
 * MLLib
