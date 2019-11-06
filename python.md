@@ -2324,6 +2324,7 @@ Python
   * [Django MS Azure에 Fabric으로 배포하기](https://beomi.github.io/2017/06/09/Deploy-Django-to-MS-Azure/)
   * [Deploy Django to MS Azure with Fabric3](https://beomi.github.io/2017/06/10/Deploy-Django-to-MS-Azure-EN/)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
+* [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
 * [fbchat: Facebook Chat (Messenger) for Python](http://fbchat.readthedocs.io)
   * [파이썬으로 페이스북 메신저 메시지 보내기](http://mcchae.egloos.com/11263580)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
