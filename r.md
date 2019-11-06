@@ -344,6 +344,7 @@ R
 * [R 3.5.0~ 버전에서 패키지 업데이트 블라블라 문제가 있었던 사람들을 위한 후일담](https://cojette.github.io/Rpackagerecompile/)
 * [Understanding Blockchain Technology by building one in R](https://www.r-bloggers.com/understanding-blockchain-technology-by-building-one-in-r/)
 * [Access the free economic database DBnomics with R](https://www.r-bloggers.com/access-the-free-economic-database-dbnomics-with-r-2/)
+* [일자별 지역별 날씨 확인하기 :기상자료개방포털 API 예제](https://blog.naver.com/hancury/221700226672)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
