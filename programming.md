@@ -643,6 +643,7 @@ Programming
 * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고)
 * [How To Build a Microservice Without Losing a Job](https://www.youtube.com/watch?v=Hnbct_8nj_M)
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
+* [마이크로 서비스에서 분산 트랜잭션](https://medium.com/dtevangelist/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-347af5136c87) two phase commit, saga pattern
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
