@@ -568,6 +568,7 @@ Programming Books
   * 2018.03
   * 문004.73 줄239ㄱ
 * [케라스로 구현하는 고급 딥러닝 알고리즘 - 딥러닝 기법, 오토 인코더, GAN, 변분 오토인코더, 심층 강화학습, 정책 경사 기법 적용하기](https://wikibook.co.kr/keras)
+* (NOT YET) [미술관에 GAN 딥러닝 실전 프로젝트 GAN으로 쓰기, 그리기, 게임하기, 작곡하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B9882286651)
 
 ## Tensorflow
 * 텐서플로 첫걸음
