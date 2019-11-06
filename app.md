@@ -390,6 +390,7 @@ App
     * [4분코딩 2019 최고의 에디터 비주얼 스튜디오 코드(Visual Studio Code)](https://www.youtube.com/watch?v=iNXTXefTsrs)
     * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
     * [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
+    * [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
     * [VS CODE를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
     * [You can now try Microsoft’s web-based version of Visual Studio](https://techcrunch.com/2019/11/04/you-can-now-try-microsofts-web-based-version-of-visual-studio/)
 * [Asciidoctor](http://asciidoctor.org/)
@@ -945,4 +946,5 @@ App
   * [(번역) WSL 2를 공개하며](https://ryanking13.github.io/2019/05/07/Announcing-WSL-2.html)
   * [WSL Manager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://wslhub.com/)
   * [Simple WSL debian installer script](https://gist.github.com/rkttu/e21709a349cfb85568fb0ff5ebbdec15)
+  * [Installation Instructions for WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
