@@ -162,6 +162,7 @@ PyTorch
 * [Comparion policy gradient codes implemented by TF 2.0 and PyTorch based on https://medium.com/@hamza.emra/reinforcement-learning-with-tensorflow-2-0-cca33fead626 ](https://gist.github.com/jskDr/10115fe206e47af8f41c2bce55abb358)
 * [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
 * [Cleaning the data for rapid prototyping (fastai)](https://www.kaggle.com/jhoward/cleaning-the-data-for-rapid-prototyping-fastai)
+* [RethNet: Object-by-Object Learning for Detecting Facial Skin Problems](https://www.notion.so/da466d39dfe04450b98fdb6d932df52a)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
