@@ -68,6 +68,7 @@ Azure
 * [애저 데브옵스 다단계 파이프라인 승인 전략](https://blog.aliencube.org/ko/2019/10/02/azure-devops-multi-stage-pipelines-approval-strategies/)
 * [애저 데브옵스 파이프라인에서 애저 스토리지 에뮬레이터 사용하기](https://blog.aliencube.org/ko/2019/10/16/azure-storage-emulator-on-azure-pipelines/)
 * [Azure Notebooks 설명서](https://docs.microsoft.com/ko-kr/azure/notebooks/)
+* [로직 앱에서 배열의 가장 최근 값을 받아오기](https://blog.aliencube.org/ko/2019/11/06/getting-the-latest-array-item-in-logic-app/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
