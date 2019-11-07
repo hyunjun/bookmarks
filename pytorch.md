@@ -310,7 +310,6 @@ PyTorch
 * [rl_pytorch - Reinforcement Learning Algorithm Implementation in PyTorch](https://github.com/kekmodel/rl_pytorch)
 
 # Seq2seq
-* [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [mini seq2seq](https://github.com/keon/seq2seq)
 
@@ -321,7 +320,9 @@ PyTorch
 * [Benchmarking Transformers: PyTorch and TensorFlow](https://medium.com/huggingface/benchmarking-transformers-pytorch-and-tensorflow-e2917fb891c2)
 
 # Translation
+* [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [Neural Machine Translation](https://github.com/lyeoni/nlp-tutorial/tree/master/neural-machine-translation)
+* [OpenNMT_Library_Tutorial_Using_Colab](https://github.com/Parkchanjun/OpenNMT_Library_Tutorial_Using_Colab)
 
 # Tutorial
 * [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
