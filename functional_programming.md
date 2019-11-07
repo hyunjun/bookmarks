@@ -95,6 +95,9 @@ Functional Programming
 * [An Outsider's Guide to Statically Typed Functional Programming](https://leanpub.com/outsidefp/read_full)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 
+# Conference
+* [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
+
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
 * [Functional Programming in C++](https://web.archive.org/web/20130819160454/http://www.altdevblogaday.com/2012/04/26/functional-programming-in-c/)
