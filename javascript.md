@@ -468,9 +468,6 @@ Javascript
 * [Pretty Print Your Site with JavaScript Take your print feature to the next level](https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529)
 * [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
 * [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
-* [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
-* [자동완성, 힌트, 오류 확인되는 국제화 개발 환경 만든 이야기](https://www.notion.so/24434e28291049359918441c582ac4bb)
-* [JavaScript International Methods](https://itnext.io/javascript-international-methods-b70a2de09d92)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 * [Beginners Guide to Tagged Template Literals in JavaScript](https://medium.com/the-non-traditional-developer/beginners-guide-to-tagged-template-literals-in-javascript-202d1805e862)
@@ -1136,8 +1133,6 @@ Javascript
 * [plotly.js - the premier charting library for the web](https://plot.ly/javascript-graphing-library/)
   * [Plotly.js Open-Source Announcement](https://plot.ly/javascript/open-source-announcement/)
 * [PluotSorbet is a J2ME-compatible virtual machine written in JavaScript](https://github.com/mozilla/pluotsorbet)
-* [Polyglot.js - tiny I18n helper library by AirBnb](http://airbnb.io/polyglot.js/)
-  * [What I learned by reverse-engineering Airbnb’s internationalization library](https://medium.freecodecamp.org/what-i-learned-by-reverse-engineering-airbnbs-internationalization-library-85580fe56ca3)
 * [popmotion - A 12kb JavaScript motion engine](http://popmotion.io/)
 * [ProtractorJS: A better way to implement page objects](https://medium.com/how-we-build-fedora/protractorjs-a-better-way-to-implement-page-objects-bc927cdb3f69)
 * [Pt - An experiment on visual forms in code](http://williamngan.github.io/pt/)
@@ -1265,6 +1260,14 @@ Javascript
 * [React vs Angular : 둘 중 어떤 것이 당신의 프로젝트에 알맞을까요?](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-react-vs-angular-%EB%91%98-%EC%A4%91-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%B4-%EB%8B%B9%EC%8B%A0%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%95%8C%EB%A7%9E/)
 * [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
 * [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://medium.com/hackernoon/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
+
+## Library Internationalization i18n 국제화
+* [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
+* [자동완성, 힌트, 오류 확인되는 국제화 개발 환경 만든 이야기](https://www.notion.so/24434e28291049359918441c582ac4bb)
+* [JavaScript International Methods](https://itnext.io/javascript-international-methods-b70a2de09d92)
+* [LinguiJS 를 사용하여 리액트 앱 다국어 지원하기](https://medium.com/plustv/linguijs-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%95%B1-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0-ef7ea234c6a8)
+* [Polyglot.js - tiny I18n helper library by AirBnb](http://airbnb.io/polyglot.js/)
+  * [What I learned by reverse-engineering Airbnb’s internationalization library](https://medium.freecodecamp.org/what-i-learned-by-reverse-engineering-airbnbs-internationalization-library-85580fe56ca3)
 
 # MEAN
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
