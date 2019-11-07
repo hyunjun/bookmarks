@@ -257,6 +257,7 @@ Programming
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
 * [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/) 소프트웨어 프로젝트에서 시간 추정
+* [C10K 문제(C10K problem)](https://118k.tistory.com/198)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
