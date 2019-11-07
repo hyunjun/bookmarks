@@ -7,6 +7,7 @@ Life
 * [층간소음](http://oneclick.law.go.kr/CSP/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=549&ccfNo=7&cciNo=1&cnpClsNo=1)
 * [유언을 할 때의 주의할 점에 대해](http://howto-insure.com/61)
 * [체불임금 혼자 해결하기 - 전자법원 지급명령](https://blog.naver.com/hidejj79/221650897956)
+* [채권추심 소송 후기 - 촬영비 1년만에 돈받았어요](https://www.clien.net/service/board/use/14180259?od=T31&po=0&category=&groupCd=) 내용증명 이야기도 있음
 
 # Car
 * ['자동차 접촉사고' 후 사진 찍는 법](http://www.huffingtonpost.kr/2015/03/19/story_n_6899668.html)
