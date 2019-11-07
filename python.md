@@ -2950,6 +2950,7 @@ Python
   * [Einstein Summation in Numpy](https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/)
   * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
   * [Einsum에 대해 간략한 정리](https://ita9naiwa.github.io/numeric%20calculation/2018/11/10/Einsum.html)
+  * [A.1 아인슈타인 표기법](https://datascienceschool.net/view-notebook/ed9434dc0294477fa54b34c27156c934/)
 * Mars [Alibaba Open-Sources Mars to Complement NumPy](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 * [PyData Tel Aviv Meetup: Creating Meaningful Features from Clickstream Data - Shir Meir Lador](https://www.youtube.com/watch?v=YGk09nK_xnM)
 * [numpy tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uset9zIVzJWqplaWBiacTEU)
