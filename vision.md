@@ -462,6 +462,15 @@ Vision
 * [OpenCV를 사용하여 손 검출&인식하기 - Background Subtraction 사용(Hand Detection and Recognition using OpenCV)](https://www.youtube.com/watch?v=cH07wzHo-jE)
 * [왜 OpenCV는 BGR 포맷을 쓸까?](https://blog.xcoda.net/102)
 * [Computer Vision (pyimagesearch)](https://www.pyimagesearch.com/start-here) 81페이지 가량의 튜토리얼 문서. OpenCV + Keras
+* [Visual Task Adaptation Benchmark (VTAB)](https://github.com/google-research/task_adaptation)
+  * [The Visual Task Adaptation Benchmark](https://ai.googleblog.com/2019/11/the-visual-task-adaptation-benchmark.html)
+  * 구글의 시각작업 벤치마크 VTAB
+  * 딥러닝은 일반적으로 수십만개의 학습용 샘플이 필요
+  * TensorFlow Hub(TF Hub)나 PyTorch Hub와 같은 서비스를 통해 제공되는 사전 학습된 표현을 사용해 이러한 부담을 줄일 수 있으나 편재성 자체로 방해가 될 수 있음
+  * 예를 들어, 이미지에서 피쳐를 추출하는 작업에는 100가지가 넘는 모델 중에서 선택 가능
+  * 서브 필드마다 다른 평가 프로토콜을 사용하므로 새로운 작업에 대한 최종 성능을 항상 반영하지는 않기 때문에 어떤 방법이 최상의 표현을 제공하는지 알기 어려움
+  * 표현 연구의 가장 중요한 목표는 각 작업에 대해 처음부터 다시 학습할 필요없이 많은 양의 일반 데이터에서 표현을 한번에 배우는 것이므로 모든 비전 작업에서 데이터 요구 사항을 줄일 수 있음
+  * 그러나 이러한 목표를 달성하기 위해서는 현재와 미래의 방법을 평가할 수 있는 균일한 벤치 마크가 필요
 
 # OpenGL
 * [open.gl](https://open.gl/)
