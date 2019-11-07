@@ -84,6 +84,18 @@ Functional Programming
 * [함수형 프로그래밍의 시대가 오고 있(지는 않)다](https://bangjunyoung.github.io/2019/08/24/함수형-프로그래밍의-시대가-오고-있(지는-않)다/)
 * [함수형 프로그래밍이 어려운 이유 - 사실은 함수형 프로그래밍이 더 쉽다](https://bangjunyoung.github.io/2019/08/26/함수형-프로그래밍이-어려운-이유/)
 * [**"Haskell vs. F# vs. Scala - A High-Level Language Features and Parallelism Support Comparison"을 읽고**](https://www.sangkon.com/haskell-vs-fsharp-vs-scala-parallelism-comparison/)
+* [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+  * 결론; 대세가 될 것이나 시간이 필요
+  * 이유; OOP가 그 자체 고유 특성의 우수성때문에 대세가 된 것이 아니기 때문
+    * 예를 들어 OOP 고유 특성중 하나인 상속은 OOP에서조차 기피 대상, 대신 compostion 사용. composition은 FP에도 존재
+    * 캡슐화 = 정보 은닉 개념 = 모듈화 개념의 다른 버전
+  * 그럼 왜 OOP 언어들이 대세인가
+    * Killer App; Ruby on Rails나 Wordpress/Drupal의 PHP
+    * 거대 업체 지원; Apple(ObjC, Swift), Google(Go), MS(C#)
+    * 시스템상 지원; OS/Embedded(C/C++), 브라우저(Javascript)
+    * 이런 모든 것의 지원을 받는 경우; Java(Sun)
+    * 꾸준한 업데이트; Python
+  * 그러나 이들 언어에서도조차도 함수형 프로그래밍 스타일이 점점 유행
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
