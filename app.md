@@ -388,6 +388,7 @@ App
     * ['매일 써도 좋을' 비주얼 스튜디오 코드 확장 기능 7가지](http://www.ciokorea.com/news/130582)
     * [LeetCode - Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
     * [4분코딩 2019 최고의 에디터 비주얼 스튜디오 코드(Visual Studio Code)](https://www.youtube.com/watch?v=iNXTXefTsrs)
+    * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
     * [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
     * [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
