@@ -1507,6 +1507,7 @@ Javascript
 * [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 * [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
 * [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312) Deno등 node 개발 환경의 여러가지 다른 library등의 이야기도 나옴
+* [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
 * [인증 1편 - Session Management](https://blog.naver.com/pjt3591oo/221695855740)
 
 ## Library
@@ -2145,6 +2146,7 @@ Javascript
 * [The New React Native Architecture Explained](https://formidable.com/blog/2019/react-codegen-part-1/)
   * [새로운 React Native 아키텍처 설명](https://medium.com/react-native-seoul/새로운-react-native-아키텍쳐-설명-a80a60ec04d7)
 * [React Native에서 App 아이콘 & Splash 이미지 만들기](https://dev-yakuza.github.io/ko/react-native/react-native-make/)
+* [Microsoft looks to React Native as a way to tackle the cross-platform development puzzle](https://www.theregister.co.uk/2019/11/07/microsoft_react_native/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
