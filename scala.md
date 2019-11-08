@@ -776,6 +776,8 @@ Scala
 * [Structuring Functional Programs with Tagless Final](https://medium.com/@andreas.hartmann/structuring-functional-programs-with-tagless-final-33af9e1dd0d)
 * [38 lines of code towards better data validation in Scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76) monad transformers, type classes, tagless final
 * [Revisiting Tagless Final Interpreters](https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80)
+* [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
+* [EXPLORING TAGLESS FINAL PATTERN FOR EXTENSIVE AND READABLE SCALA CODE](https://scalac.io/tagless-final-pattern-for-scala-code)
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
