@@ -3459,6 +3459,7 @@ Python
   * [mypy 사용하기 static typing 테스트 해보기](https://speedr00t.tistory.com/m/entry/mypy-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-static-typing-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%B4%EB%B3%B4%EA%B8%B0)
   * [PyCon KR 2019 Python Type Hinting and Static Type Checking](https://speakerdeck.com/blur/python-type-hinting-and-static-type-checking)
   * [Python Type Hints: Pros & Cons](https://www.youtube.com/watch?v=QS7m167SVXU)
+  * [Release: Static type checker in Python](https://deepsource.io/blog/release-mypy)
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
