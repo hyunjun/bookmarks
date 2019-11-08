@@ -8,6 +8,7 @@ Math
 * [집합론](https://www.youtube.com/playlist?list=PLGqSWalYhuTX1ADacN59EG3t90wtvSfrv)
 * [장자윤 선생님의 편입수학 - 미분의 정의와 뜻](https://www.youtube.com/watch?v=cr_SVH27n4c)
 * [장환수학 - 최적화이론](https://www.youtube.com/channel/UCxsF9TU0tELBAhQTWV-t_kA)
+* [수학의 즐거움, Enjoying Math](https://www.youtube.com/channel/UCB_AbuIVIG8I3K3_T_j0FSw)
 * [codebymath.com](http://www.codebymath.com/)
 * [Derivative Calculator](https://www.derivative-calculator.net/)
 * [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
