@@ -393,6 +393,7 @@ AWS
 * [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
+* [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
