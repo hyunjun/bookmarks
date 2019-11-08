@@ -85,8 +85,6 @@ Scala
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
 * [3 programming languages to replace shell scripting](http://ju.outofmemory.cn/entry/198831)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
-* [SCALA & DESIGN PATTERNS](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
-  * [Code : Factory Pattern + Decorator Pattern](http://m.blog.naver.com/hancury/220683740938)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [DataCritics (1) – Scala as the Next Influential Programming Language](https://datawarrior.wordpress.com/2015/05/17/datacritics-1-scala-as-the-next-influential-programming-language/)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)

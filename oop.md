@@ -199,5 +199,10 @@
 * [Coding Dynamic Behavior with the Strategy Pattern](https://hackernoon.com/coding-dynamic-behavior-with-the-strategy-pattern-c0bebaee6671)
 * [An introduction to Object-Oriented Programming with Ruby](https://medium.freecodecamp.org/introduction-to-object-oriented-programming-with-ruby-d594e1c6eebe)
 
+# Scala
+* [SCALA & DESIGN PATTERNS](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
+  * [Code : Factory Pattern + Decorator Pattern](http://m.blog.naver.com/hancury/220683740938)
+* [The Interpreter Pattern Revisited](https://www.youtube.com/watch?v=hmX2s3pe_qk)
+
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
