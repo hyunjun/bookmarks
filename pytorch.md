@@ -341,3 +341,4 @@ PyTorch
 * [Minimal tutorial on packing and unpacking sequences in pytorch](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)
 * [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
+* [DeepLearning_Basic_Tutorial](https://github.com/Parkchanjun/DeepLearning_Basic_Tutorial)
