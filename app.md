@@ -891,6 +891,7 @@ App
 * [youtube-dl.exe를 윈도우 샌드 박스에서 실행](http://www.sysnet.pe.kr/0/0/519)
 * [Hyper-V에서 네트워크가 제대로 되지 않을 때](http://blog.wimy.com/455/)
 * [**Windows 10 네이티브 방식으로 SSH Key와 Git 연동 설정하기**](https://medium.com/rkttu/use-windows10-open-ssh-tips-e6e9c77de433)
+* [Windows 10 네이티브 방식으로 SSH 서버 설정하기](https://medium.com/rkttu/windows-10-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-ssh-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-64988d87349)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
