@@ -311,6 +311,7 @@ Algorithm
 * [BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
 * [그래프 깊이 우선 탐색](https://ratsgo.github.io/data%20structure&algorithm/2017/11/20/DFS/)
 * [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
+* [양방향 탐색 : 시작점과 도착점에서 동시에 탐색을 한다](https://codingdog.tistory.com/entry/%EC%96%91%EB%B0%A9%ED%96%A5-%ED%83%90%EC%83%89-%EC%8B%9C%EC%9E%91%EC%A0%90%EA%B3%BC-%EB%8F%84%EC%B0%A9%EC%A0%90%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%ED%83%90%EC%83%89%EC%9D%84-%ED%95%9C%EB%8B%A4)
 * Centrality
   * PageRank
   * Betweenness Centrality
