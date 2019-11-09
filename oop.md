@@ -193,6 +193,8 @@
 * [Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)](https://www.youtube.com/watch?v=x3v9zMX1s4s)
 * [Sebastian Buczyński - Why you don't need design patterns in Python?](https://www.youtube.com/watch?v=G5OeYHCJuv0)
 * [믹스인 유틸리티 클래스에만 다중 상속을 사용](https://brownbears.tistory.com/149)
+* [Python Dependency Injection](https://www.hides.kr/1053)
+  * [Python Pure Dependency Injection Decorator](https://github.com/teamhide/dependency_injection)
 
 # Ruby
 * **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
