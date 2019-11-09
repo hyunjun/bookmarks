@@ -98,7 +98,6 @@ Keras
 * [Search for the fastest Deep Learning Framework supported by Keras](http://www.datasciencecentral.com/profiles/blogs/search-for-the-fastest-deep-learning-framework-supported-by-keras)
 * [U-net on Keras 2.0](https://keunwoochoi.wordpress.com/2017/10/11/u-net-on-keras-2-0/)
 * [Gender Distribution in North Korean Posters](http://digitalnk.com/blog/2017/09/30/gender-distribution-in-north-korean-posters/)
-* [Announcing PlaidML: Open Source Deep Learning for Every Platform](http://vertex.ai/blog/announcing-plaidml)
 * [How to Use the Keras Functional API for Deep Learning](https://machinelearningmastery.com/keras-functional-api-deep-learning/)
 * [Deep Learning과 Keras 기초 - 아샬(@ahastudio)](https://www.youtube.com/watch?v=GSYVgQwc2P0&index=8&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
   * [test.ipynb](https://github.com/ahastudio/CodingLife/blob/master/20171026/keras/test.ipynb)
@@ -246,6 +245,7 @@ Keras
     ```
   * [plaidml](https://github.com/plaidml/plaidml)
   * [plaidml-keras](https://vertexai-plaidml.readthedocs-hosted.com/en/latest/index.html)
+  * [Announcing PlaidML: Open Source Deep Learning for Every Platform](http://vertex.ai/blog/announcing-plaidml)
 * [reactionrnn - a Python 2/3 module + R package on top of Keras/TensorFlow which can easily predict the proportionate reactions (love, wow, haha, sad, angry) to a given text using a pretrained recurrent neural network](https://github.com/minimaxir/reactionrnn)
 * [Spektral - a framework for relational representation learning, built in Python and based on the Keras API](https://github.com/danielegrattarola/spektral) Deep learning on graphs with Keras
 * [SupervisedChromeTrex - Chrome Browser's TRex self playing AI via CNN neural network implemented in Keras + Theano + OpenCV](https://github.com/asingh33/SupervisedChromeTrex)
