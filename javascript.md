@@ -1113,6 +1113,7 @@ Javascript
   * [Nestjs / CRUD](https://loveloper.tistory.com/11)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
+  * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
 * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
   * [Open Sourcing oclif, the CLI Framework that Powers Our CLIs](https://blog.heroku.com/open-cli-framework)
   * [How to write a command-line database client in just 10 minutes using OCLIF with TypeScript](https://medium.freecodecamp.org/writing-a-command-line-database-client-in-10-minutes-aa608536ae4b)
