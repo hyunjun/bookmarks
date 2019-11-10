@@ -68,6 +68,9 @@
 * [**애저 메시징 서비스를 위한 스키마 저장소 구현**](https://blog.aliencube.org/ko/2019/10/23/introducing-schema-registry-for-azure-messaging-services/) WSDL, Open API, 스키마 저장소
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/)
 
+# Conference
+* [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
+
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)
 * [CODExist: 봇의 탄생](http://www.microsoftvirtualacademy.com/training-courses/983e5d39-bf9f-4958-9d21-6a00e8aec841?m=16166&ct=42864)
