@@ -627,6 +627,7 @@ Scala
   * [Adopting Cats - Ron Aharoni](https://www.youtube.com/watch?v=4ODUEbowkBM)
   * [Scala — cats nice tricks and fun](https://medium.com/@regis.leray/scala-cats-nice-tricks-and-fun-30b5cb97fab3)
   * [Marvels of functional programming: Launching Iron man with monads - Voxxed Days Singapore 2019](https://www.youtube.com/watch?v=YDFa4MmyY8Y)
+* [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
