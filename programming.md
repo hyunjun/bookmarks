@@ -258,6 +258,7 @@ Programming
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
 * [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/) 소프트웨어 프로젝트에서 시간 추정
 * [C10K 문제(C10K problem)](https://118k.tistory.com/198)
+* [웹 푸시 알림 서비스, 샌디](https://medium.com/@kiyeopyang/%EC%9B%B9-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%83%8C%EB%94%94-4357a27a393b)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -548,6 +549,7 @@ Programming
 * [마이크로서비스 제대로 알고 시작하지 말입니다 @capri - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=mCTRkN1Hny0)
 * [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
 * [Kong API gateway 간단 리뷰 노트](https://bcho.tistory.com/1303)
+* [Kong API gateway #1 - 설치와 둘러보기](https://bcho.tistory.com/1361)
 * [12. 마이크로서비스를 구성하며 느낀점: 마이크로서비스아키텍처](https://highluck.github.io/#/project_m)
 * [마이크로서비스 Just Do It!](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-just-do-it/)
 * [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw)
@@ -740,6 +742,7 @@ Programming
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
 * [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
+* [알리바바 클라우드 가입하기](https://jybaek.tistory.com/845)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
