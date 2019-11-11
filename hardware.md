@@ -105,6 +105,8 @@
 * [아두이노 라이브러리 매니저 등록/업데이트 방법](https://junwha0511.blog.me/221535738246)
 * [Make: Arduino Neural Network Robot](https://github.com/IdleHandsProject/makennbot)
 * [디지털 홀 센서 활용 (아두이노 센서 활용)](http://www.hellmaker.kr/post/413)
+* [Get started with machine learning on Arduino](https://blog.arduino.cc/2019/10/15/get-started-with-machine-learning-on-arduino)
+* [Fruit Identification using Arduino and TensorFlow](https://blog.tensorflow.org/2019/11/fruit-identification-using-arduino-and-tensorflow.html)
 
 # [Artik](https://www.artik.io/)
 
