@@ -743,6 +743,7 @@ Programming
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
 * [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
 * [알리바바 클라우드 가입하기](https://jybaek.tistory.com/845)
+* [알리바바 클라우드 payment method 삭제](https://jybaek.tistory.com/846)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
