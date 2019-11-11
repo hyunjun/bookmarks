@@ -55,6 +55,7 @@ PHP
   * [Moving away from magic — or: why I don’t want to use Laravel anymore](https://medium.freecodecamp.org/moving-away-from-magic-or-why-i-dont-want-to-use-laravel-anymore-2ce098c979bd)
   * [앤서블&라라독 vagrant와 앤서블(Ansible)을 이용하여 만든 가상 머신(guest system)에 라라독(Laradock)을 이용하여 라라벨(Laravel) 개발 환경을 구성해봅시다](https://dev-yakuza.github.io/ko/environment/ansible-laradock/)
   * [Setting up Laravel and React.js the right way (Using user authentication)](https://medium.com/@000kelvin/setting-up-laravel-and-react-js-the-right-way-using-user-authentication-1cfadf3194e)
+  * [테일러 오트웰은 왜 API 라우트를 routes/web.php에 작성했을까?](https://xly.kr/posts/6)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * VarDumper
