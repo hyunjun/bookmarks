@@ -494,6 +494,7 @@ Apache
   * [컨트롤러 분석](https://devidea.tistory.com/71)
 * [How LinkedIn customizes Apache Kafka for 7 trillion messages per day](https://engineering.linkedin.com/blog/2019/apache-kafka-trillion-messages)
 * [LINE에서 Kafka를 사용하는 방법 – 1편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-1/)
+* [LINE에서 Kafka를 사용하는 방법 – 2편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-2/)
 * [카프카를 쿠버네티스 위에 올리는게 좋은 선택일까?](https://blog.voidmainvoid.net/280)
 
 ## Kafka Library
