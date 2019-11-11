@@ -1661,7 +1661,7 @@ Javascript
 * [한국어로 배우는 리액트](https://github.com/reactkr/learn-react-in-korean)
 * [리액트 도움닫기](https://github.com/sujinleeme/the-road-to-learn-react-korean)
 * [리액트 도움닫기](https://realhanbit.co.kr/books/87/pages/0/read)
-* [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676)
+* [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부
 * [Start your journey into the world of React by learning these basics](https://medium.freecodecamp.org/start-your-journey-into-the-world-of-react-by-learning-these-basics-d6e05d3655e3)
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/courses/enrolled/216871)
