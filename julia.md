@@ -115,7 +115,15 @@ Julia
 * [DataFrames.jl](http://dataframesjl.readthedocs.org/)
 * [EmbeddingJuliaEx Boilerplate for Julia Embedding to C and Autotools](https://github.com/appleparan/Embedding-Julia-Boilerpolate)
 * [Escher - build beautiful interactive Web UIs in Julia](https://shashi.github.io/Escher.jl/)
-* [Flux: Machine Learning with Julia](https://discourse.julialang.org/t/flux-machine-learning-with-julia/2382)
+* [Flux - Relax! Flux is the ML library that doesn't make you tensor https://fluxml.ai ](https://github.com/FluxML/Flux.jl)
+  * 장점
+    * 굳이 ML뿐만 아니라 Optimization problem 같은 곳에서도 사용 가능
+    * 직관적이고 미니멀한 프레임워크. 수학적으로 보면 코드짜기가 더 쉬울 수 도 있음
+  * 단점
+    * 문서 부실. model-zoo까지 안보면 기본 문서만으로는 매우 어려움
+    * 역사가 얼마 안되고 기여하는 사람이 적은 만큼 Unstable한 부분이 존재
+    * 기존 프레임워크를 쓰던 사람은 문서 부실할 뿐더러 미니멀하기 때문에 필요한 것들이 엾어서 i.e. Regularization. 당황스러울 수 있음
+  * [Flux: Machine Learning with Julia](https://discourse.julialang.org/t/flux-machine-learning-with-julia/2382)
   * [Char RNN](http://mikeinnes.github.io/Flux.jl/latest/examples/char-rnn.html)
 * [GLVisualize - 3D visualization library](http://www.glvisualize.com/)
 * **[Juno is a powerful, free environment for the Julia language](http://junolab.org/)**
