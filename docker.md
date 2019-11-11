@@ -726,6 +726,7 @@ Docker
 * [Understanding Kubernetes API - Part 3 : Deployments API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-3/)
 * [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282)
 * [Using Docker & Kubernetes to Host Machine Learning Models](https://towardsdatascience.com/using-docker-kubernetes-to-host-machine-learning-models-780a501fda49)
+* [쿠버네티스에서 도메인 이름 설정 방법](https://bcho.tistory.com/1362)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
