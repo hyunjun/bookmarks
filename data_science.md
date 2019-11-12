@@ -278,6 +278,7 @@ Data Science
 * [Data Science with Watson Analytics](https://medium.com/analytics-vidhya/data-science-with-watson-analytics-7dddcc34d3a9)
 * [데이콘 주최 1회 펀다 상점매출 예측 대회 우승자 코드](https://dacon.io/code1/58793)
 * [Dacon_KBO스카우팅챌린지 조용건 영상1 코드설명](https://dacon.io/code1/177579)
+* [Mission 13. 2019 Jeju BigData Competition - 퇴근시간 버스승차인원 예측](https://dacon.io/cpt13/230432)
 * [Mission 11. 에너지 빅데이터 활용 데이터 사이언스·아이디어 콘테스트](https://dacon.io/cpt11/205743)
 * [데이터 사이언스 Meetup](https://tidyverse-korea.github.io/r-meetup-x-presser/)
 * [The penalty of missing values in Data Science](https://medium.com/free-code-camp/the-penalty-of-missing-values-in-data-science-91b756f95a32)
