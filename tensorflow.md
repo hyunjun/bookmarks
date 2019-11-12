@@ -486,6 +486,7 @@ TensorFlow
 * [텐서플로1과 텐서플로2, 코드를 직접 비교해 보겠습니다!](https://www.youtube.com/watch?v=YT2Uy5x3gaA)
 * [텐서플로2 케라스와 케라스, 코드로 비교해 봤습니다!](https://www.youtube.com/watch?v=zRQMCLTuxes)
 * [TensorFlow 2.0 출시! 무엇이 달라졌을까요?](https://www.youtube.com/watch?v=ca2eJqUiK7E)
+* [Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts (TF World '19)](https://www.youtube.com/watch?v=5ECD8J3dvDQ)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
