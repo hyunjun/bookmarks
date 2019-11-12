@@ -95,6 +95,7 @@ Json
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
 * [JSONlite - A simple, self-contained, serverless, zero-configuration, json document store](https://github.com/nodesocket/jsonlite)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
+* [jsonplaceholder - Fake Online REST API for Testing and Prototyping Serving ~350M requests per month](http://jsonplaceholder.typicode.com/)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io](https://github.com/Julian/jsonschema)
 * [jsonschema.net](http://jsonschema.net)
