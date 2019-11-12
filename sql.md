@@ -129,6 +129,7 @@ SQL
 * [DB/분산 초보자를 위한 CAP 이론](http://hamait.tistory.com/197)
 * [Paper: OLTP Through the Looking Glass, and What We Found There](http://blog.lastmind.io/archives/896)
 * [Paper: Main Memory Database Systems: An Overview](http://blog.lastmind.io/archives/899)
+* [Paper: Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://blog.lastmind.io/archives/903)
 
 # Join
 * [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
