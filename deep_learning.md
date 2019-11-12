@@ -1304,6 +1304,7 @@ Deep Learning
   * [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html)
   * [**d2l-pytorch - This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch**](https://github.com/dsgiitr/d2l-pytorch)
   * [Dive into Deep Learning](https://ko.d2l.ai)
+  * [Dive into Deep Learning Colab 실습환경 구축](https://gist.github.com/serithemage/44f7bb9ec9eed7cefa5ce48e13f09772)
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
   * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)
