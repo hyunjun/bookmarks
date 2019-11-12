@@ -151,6 +151,7 @@ Web
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
 * [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
 * [All you need to know about user session security](https://hackernoon.com/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
+* [GOTO 2019 • Common API Security Pitfalls • Philippe De Ryck](https://www.youtube.com/watch?v=Ss1tZjooo9I)
 * [CORS 실패 시, 응답 개체의 status는 왜 0일까?](https://huns.me/development/2297)
 * [How to protect your information with Local Sheriff](https://medium.freecodecamp.org/local-sheriff-watching-them-watching-us-5eacf3eb00ca) security
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
