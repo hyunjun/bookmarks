@@ -303,6 +303,7 @@ Data Visualization
   * [SNS분석 유니클로 1.불매운동은 끝이 난 걸까..?](https://blog.naver.com/myincizor/221652051087)
   * [SNS분석 유니클로 2.악플보다 무서운 무플](https://blog.naver.com/myincizor/221652136833)
   * [고객후기 텍스트 분석) 캡슐커피머신 어디꺼 살까?](https://blog.naver.com/myincizor/221704444918)
+  * [시계열데이터 시각화에 좋은 선그래프 lineplot 그리기](https://www.youtube.com/watch?v=GJM1QXwXtEw)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
