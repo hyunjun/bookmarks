@@ -222,6 +222,7 @@
 * [이렇게 코딩 하면 안된다](https://github.com/jaeho-kang/deep-learning/blob/master/SPARK/Introduction%20to%20Apache%20Spark_%EC%A0%95%EB%A6%AC.md)
 * [spark를 이용한 hadoop cluster 원격 입출력](http://blog.naver.com/hancury/220744753944)
 * [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
+* [Working effectively with Apache Spark on AWS - Singapore Apache Spark+AI Meetup](https://www.youtube.com/watch?v=C8QDCcweI1A)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
 * [Deep Dive: Apache Spark Memory Management](http://go.databricks.com/deep-dive-apache-spark-memory-management)
@@ -360,6 +361,7 @@
   * [spark2.0-examples/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource](https://github.com/phatak-dev/spark2.0-examples/tree/2.4/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource)
   * [Multi Source Data Analysis using Spark and Tellius](https://www.slideshare.net/datamantra/multi-source-data-analysis-using-spark-and-tellius)
 * [Spark 성능 최적화 및 튜닝 방법 - Part 1](https://nephtyws.github.io/data/spark-optimization-part-1/)
+* [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
