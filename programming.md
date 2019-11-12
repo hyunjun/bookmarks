@@ -804,6 +804,7 @@ Programming
     * [google code review guide 요약](https://wiki.lucashan.space/code-review/01.intro.html)
 * [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 * [코드리뷰의 진짜 목적은 따로있다](https://blog.logi-spot.com/코드리뷰의-진짜-목적은-따로있다/)
+* [애자일과 소프트웨어 장인정신 - 코드 리뷰를 왜 해야 하나?](https://brunch.co.kr/@cleancode/39)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
