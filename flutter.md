@@ -50,3 +50,4 @@ Flutter
 * [Flutter - JSON 사용하기](https://www.youtube.com/watch?v=E6KKL0Oe-2E)
 * [Flutter - JSON in the background / isolate | 백그라운드 처리](https://www.youtube.com/watch?v=4qpMzUcatsU)
 * [Flutter - 오리엔테이션 | orientation | 가로 | 세로 제대로 고치기!](https://www.youtube.com/watch?v=5A1ZgIp7_7U)
+* [A Quick Look into Flutter for Web](https://www.alibabacloud.com/blog/a-quick-look-into-flutter-for-web_595510)
