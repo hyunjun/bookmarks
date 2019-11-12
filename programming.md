@@ -550,6 +550,8 @@ Programming
 * [Kong으로 시작하는 마이크로 서비스 아키텍처 – 1](http://www.popit.kr/kong%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%E2%80%8A-1/)
 * [Kong API gateway 간단 리뷰 노트](https://bcho.tistory.com/1303)
 * [Kong API gateway #1 - 설치와 둘러보기](https://bcho.tistory.com/1361)
+* [Kong API gateway #2 - 간단한 아키텍쳐와 API 테스트](https://bcho.tistory.com/1363)
+* [Kong API gateway #3 - Kong on Kubernetes](https://bcho.tistory.com/1364)
 * [12. 마이크로서비스를 구성하며 느낀점: 마이크로서비스아키텍처](https://highluck.github.io/#/project_m)
 * [마이크로서비스 Just Do It!](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-just-do-it/)
 * [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw)
@@ -986,6 +988,7 @@ Programming
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
   * [Teamcity Github 로그인 연동](https://jojoldu.tistory.com/454)
+  * [TeamCity 빌드 실패시 결과 Slack으로 알람 받기](https://jojoldu.tistory.com/458)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
