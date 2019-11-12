@@ -236,6 +236,8 @@ Data Visualization
   * [Road to Visualization Expert Part 1 : App Store : unusual tools](https://www.kaggle.com/subinium/road-to-viz-expert-1-unusual-tools)
 * [cufflinks - Productivity Tools for Plotly + Pandas](https://github.com/santosjorge/cufflinks)
   * [Plotly Whirlwind Introduction.ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
+* [d3fdgraph - d3 interactive animated force-directed graphs in a jupyter notebook](https://github.com/intuitivetextmining/d3fdgraph)
+  * [d3fdgraph: Interactive Graphs in Jupyter || Tariq Rashid](https://www.youtube.com/watch?v=QaRe7XIxeoE)
 * dash
   * [Python for Finance: Dash by Plotly Expanding Jupyter Notebook Stock Portfolio Analyses with Interactive Charting in Dash by Plotly](https://towardsdatascience.com/python-for-finance-dash-by-plotly-ccf84045b8be)
   * [Dash: data exploration web apps in pure Python - Chelsea Douglas](https://www.youtube.com/watch?v=eusglTlW4OA)
