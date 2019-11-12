@@ -359,6 +359,8 @@ Business
 * [리더로 뽑히는 사소한 습관: ① 태도](https://ppss.kr/archives/194512)
 * [리더로 뽑히는 사소한 습관: ② 매력](https://ppss.kr/archives/194510)
 * [영향력으로 조직을 이끄는 법](http://www.andrewahn.co/product/leading-with-influence/) 여러가지 soft skill
+* [좋은 팀장에겐 이 세 가지가 있더라](https://brunch.co.kr/@poisson-tr/30)
+* [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
