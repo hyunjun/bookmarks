@@ -911,6 +911,7 @@ Java
 * [자바 직렬화, 그것이 알고싶다.  훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 * [자바 직렬화, 그것이 알고싶다.  실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 * [자바에서 직렬화를 이용한 소켓 통신 정리](https://jungwoon.github.io/java/2018/08/16/Java-Serialize/)
+* [Why We Hate Java Serialization And What We're Doing About It by Brian Goetz & Stuart Marks](https://www.youtube.com/watch?v=dOgfWXw9VrI)
 
 # TDD Test
 * [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
