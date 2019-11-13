@@ -45,8 +45,6 @@ Java
 * ~[DETECTING A PERMGEN MEMORY LEAK IN A JAVA JBOSS APPLICATION](http://smalldata.tech/blog/detecting-java-permgen-memory-leak)~
 * [9회 공감세미나 세션 1 자바 탄생 이야기](https://www.youtube.com/watch?v=JRaPrnT0ubw&spfreload=1)
 * [Unrolling loops at runtime with Byte Buddy](https://blog.bramp.net/post/2015/09/09/unrolling-loops-at-runtime-with-byte-buddy/)
-* [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
-* [Venkat Subramaniam — Reactive Programming: creating highly responsive applications](https://www.youtube.com/watch?v=eDpChpuZfGA)
 * [How does Java Both Optimize Hot Loops and Allow Debugging](http://www.cliffc.org/blog/2015/02/22/how-does-java-both-optimize-hot-loops-and-allow-debugging/)
 * [Java로 트레이 아이콘 등록하기](http://silentsoft.tistory.com/6)
 * [좌충우돌 ORM 개발기 | Devon 2012](http://www.slideshare.net/daumdna/devon-2012-b4-orm)
@@ -378,7 +376,6 @@ Java
 * [The Final Pieces of Java 9 and Project Jigsaw Are Coming Together](http://blog.takipi.com/the-final-pieces-of-java-9-and-project-jigsaw-are-coming-together/)
 * [Oracle Open World 2016](https://www.oracle.com/openworld/index.html?elq_mid=56981&sh=1724291625201130&cmid=WWMK15077363MPP001C2373)
   * [Javaone 2016 keynote](https://www.oracle.com/javaone/on-demand/index.html?bcid=5131218264001)
-* [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
 * [자바9 자바 플랫폼 모듈 시스템](http://whiteship.me/?p=13980)
 * [what is the difference in Interface of Java7, Java8 and Java9?](http://technikes.com/what-is-the-difference-in-interface-of-java7-java8-and-java9/)
 * [나만 모르고 있던 – Java 9 (Java9 빠르게 훑어 보기)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-java9-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0/)
@@ -474,6 +471,7 @@ Java
 * [우아한 테크 세미나 - 자바, 성능, 모니터링 이야기 후기](https://www.popit.kr/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9E%90%EB%B0%94-%EC%84%B1%EB%8A%A5-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%9B%84%EA%B8%B0/)
 * [Evolving Java With `––enable–preview` aka Preview Features](http://blog.codefx.org/java/enable-preview-features/)
 * [Beyond ByteBuffers by Brian Goetz](https://www.youtube.com/watch?v=iwSCtxMbBLI)
+* [A Dozen Cool Things We Can Do With Popular JVM Languages by Venkat Subramaniam](https://www.youtube.com/watch?v=-8ISVgl7Qm0) java뿐만 아니라 JVM에서 동작하는 언어들의 특정 feature에 대한 이야기
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
@@ -664,8 +662,6 @@ Java
 * [Pathfinder 설치 및 실행법](http://lauryn94.tistory.com/20)
 * [Precipice - A Java Library for Isolating and Monitoring Task Execution](http://www.uncontended.net/2016/03/13/introducing-precipice.html)
 * [Real world mutation testing](http://pitest.org/)
-* [Reactive Streams](http://www.reactive-streams.org/)
-* [Reactor - a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
   * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
   * 리액티브 프로그래밍
     * [1부 리액티브 프로그래밍 소개](https://www.youtube.com/watch?v=VeSHa_Xsd2U)
@@ -696,14 +692,6 @@ Java
   * [바딘? Vaadin? 무슨 뜻이지?](http://basakpie.com/archives/435)
   * [모던 자바 웹 UI 바딘 프레임워크](http://slides.com/basakpie/vaadin)
   * [Vaadin 14 Simplifies Progressive Web App Development on the Java Platform](https://www.infoq.com/news/2019/08/vaadin-releases-lts-version-14/)
-* [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
-  * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
-  * [How we built an asynchronous, temporal RESTful API based on Vert.x, Keycloak and Kotlin/Coroutines for Sirix.io (Open Source)](https://medium.com/sirixdb-sirix-io-how-we-built-a-novel-temporal/how-we-built-an-asynchronous-temporal-restful-api-based-on-vert-x-4570f681a3)
-  * [Vert.x JVM Framework. MacOS installation Guide](https://medium.com/pharos-production/vert-x-jvm-framework-macos-installation-guide-85d870409d56)
-  * [Vert.x RESTful Services on Java. Distributed Systems Development A-Z Guide](https://medium.com/pharos-production/vert-x-restful-services-on-java-6a4ed8a30489)
-  * [Vert.x: Understanding Core Concepts](https://hackernoon.com/vert-x-understanding-core-concepts-1529917658b3)
-  * [How to set up Vertx in Spring](https://medium.freecodecamp.org/vertx-in-spring-39c2dd7bc2a9)
-  * [An introduction to Vert.x, the fastest Java framework today](https://medium.freecodecamp.org/an-introduction-to-vert-x-the-fastest-java-framework-today-27d8661ceb14)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
@@ -913,6 +901,22 @@ Java
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
+
+# Reactive
+* [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
+* [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
+* [Venkat Subramaniam — Reactive Programming: creating highly responsive applications](https://www.youtube.com/watch?v=eDpChpuZfGA)
+* [Venkat Subramaniam - From Functional to Reactive Programming](https://www.youtube.com/watch?v=eaJVeVV6Ky0)
+* [Reactive Streams](http://www.reactive-streams.org/)
+* [Reactor - a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
+* [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
+  * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
+  * [How we built an asynchronous, temporal RESTful API based on Vert.x, Keycloak and Kotlin/Coroutines for Sirix.io (Open Source)](https://medium.com/sirixdb-sirix-io-how-we-built-a-novel-temporal/how-we-built-an-asynchronous-temporal-restful-api-based-on-vert-x-4570f681a3)
+  * [Vert.x JVM Framework. MacOS installation Guide](https://medium.com/pharos-production/vert-x-jvm-framework-macos-installation-guide-85d870409d56)
+  * [Vert.x RESTful Services on Java. Distributed Systems Development A-Z Guide](https://medium.com/pharos-production/vert-x-restful-services-on-java-6a4ed8a30489)
+  * [Vert.x: Understanding Core Concepts](https://hackernoon.com/vert-x-understanding-core-concepts-1529917658b3)
+  * [How to set up Vertx in Spring](https://medium.freecodecamp.org/vertx-in-spring-39c2dd7bc2a9)
+  * [An introduction to Vert.x, the fastest Java framework today](https://medium.freecodecamp.org/an-introduction-to-vert-x-the-fastest-java-framework-today-27d8661ceb14)
 
 # Serialization
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
