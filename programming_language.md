@@ -124,6 +124,8 @@ Programming Language
 * [D](http://ddili.org/ders/d.en/)
   * [D 프로그래밍 언어](https://wikidocs.net/book/457)
   * [eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. https://ebay.github.io/tsv-utils ](https://github.com/eBay/tsv-utils) csv/tsv
+* [Dark - A language built for deployless backends](https://darklang.com/)
+  * [Dark, a New Programming Language for ‘Deployless’ Deployments](https://thenewstack.io/dark-a-new-programming-language-for-deployless-deployments/)
 * [Dash, a simple programming language written in C](http://dreamingofbits.com/dash-a-simple-programming-language-written-in-c)
 * Delphi
   * [Delphi P2P Socket Library](http://ryulib.tistory.com/457)
@@ -331,6 +333,7 @@ Programming Language
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
 * [Orca Programming Language](https://github.com/lynix94/orca-lang)
+  * [orca krill - redis api level compatible memory storage which is made by pure orca programming language](https://github.com/lynix94/orca-krill)
 * [Quipper is an embedded, scalable functional programming language for quantum computing](http://www.mathstat.dal.ca/~selinger/quipper/)
 * [Quorum](http://www.quorumlanguage.com/)
 * [Red](http://www.red-lang.org/)
