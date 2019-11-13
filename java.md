@@ -461,6 +461,7 @@ Java
 * [Effective Cryptography in the JVM](https://tersesystems.com/2015/10/05/effective-cryptography-in-the-jvm/)
 * [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
 * [Why is my JVM process larger than max heap size?](https://blogs.oracle.com/jrockit/entry/why_is_my_jvm_process_larger_t)
+* [Memory footprint of a Java process by Andrei Pangin](https://www.youtube.com/watch?v=c755fFv1Rnk)
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 * [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 * [Hunting Java Memory Leaks](https://www.toptal.com/java/hunting-memory-leaks-in-java)
@@ -506,6 +507,8 @@ Java
 * [Handling checked exceptions in Java streams](https://www.oreilly.com/ideas/handling-checked-exceptions-in-java-streams)
 * [자바 8 람다에서 checked exception을 어떻게 구현하면 좋을까?](https://www.slipp.net/questions/572)
 * [Functional Exceptions In Java](https://8thlight.com/blog/brian-gerstle/2019/01/22/fnl-exceptions-in-java.html)
+* [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
+* [Design Patterns in the Light of Lambda Expressions. Venkat Subramaniam, Agile developer, inc.](https://www.youtube.com/watch?v=WN9kgdSVhDo)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
