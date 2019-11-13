@@ -134,6 +134,7 @@ Functional Programming
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
 * [함수형 프로그래밍의 예외처리](http://qwefgh90.github.io/fp/%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC/)
+* [Functional Programming Patterns with Java8 with Victor Rentea](https://www.youtube.com/watch?v=F02LKnWJWF4)
 * [Dysfunctional programming in Java](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-a-functional-tutorial-20e0bebd2ec9)
   * [I : Laziness functional examples](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-i-laziness-cc9c6981de39)
   * [2 : Immutability](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-2-immutability-a2cff487c224)
