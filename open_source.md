@@ -127,6 +127,10 @@ Open Source
 * [Apache Dataflow](https://wiki.apache.org/incubator/DataflowProposal)
 * [How to Use Google's Python Client Library to Authorise Your Desktop Application With OAuth 2.0](http://www.jamalmoir.com/2016/03/google-python-library-oauth2.html)
 * [빈 폴더 삭제하기](https://blog.naver.com/gsuite-reseller/221541157663)
+* [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
+* [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
+* [매일 원하는 시간에 앱 실행하기](https://blog.naver.com/gsuite-reseller/221512786356)
+* [clasp: 구글 앱스 스크립트 로컬에서 개발하기](https://ohgyun.com/784)
 * Sheet
   * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods (with ajax example)](https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/)
     * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods의 사본](https://docs.google.com/document/d/1otSCvsvXyuUfcwTQVnOwZhY3bNGwD_Bs1J0QeBnTspY/edit#heading=h.c27w0vdmwdhd)
@@ -134,16 +138,13 @@ Open Source
   * [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
   * [Google Sheets Query function: Learn the most powerful function in Google Sheets](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
   * [Apps Script](https://m.blog.naver.com/gsuite-reseller/221534792390)
-* [gSubFolder](http://d.gfolder.net/gsubfolder)
-* [Guetzli - 구글의 오픈소스 JPEG 인코더 Guetzli](http://tmondev.blog.me/220960502049)
 * Google Guice
   * [github.com/google/guice/wiki/Motivation](https://github.com/google/guice/wiki/Motivation)
   * [구글 주스(Google Guice) 소개](http://www.popit.kr/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80-%EC%A3%BC%EC%8A%A4google-guice-%EC%86%8C%EA%B0%9C/)
-* [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
-* [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
-* [매일 원하는 시간에 앱 실행하기](https://blog.naver.com/gsuite-reseller/221512786356)
+* [gSubFolder](http://d.gfolder.net/gsubfolder)
+* [Guetzli - 구글의 오픈소스 JPEG 인코더 Guetzli](http://tmondev.blog.me/220960502049)
 * [PAIR (People + AI Research initiative)](https://www.facebook.com/nextobe1/posts/344322002670468)
-* [clasp: 구글 앱스 스크립트 로컬에서 개발하기](https://ohgyun.com/784)
+* [tink - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse](https://github.com/google/tink)
 
 # IBM
 * [IBM 오픈소스 기술 한자리에, ‘디벨로퍼웍스 오픈’](http://www.bloter.net/archives/233769)
