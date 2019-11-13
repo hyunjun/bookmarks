@@ -263,6 +263,7 @@ Functional Programming
 * [Your easy guide to Monads, Applicatives, & Functors](https://medium.com/@lettier/your-easy-guide-to-monads-applicatives-functors-862048d61610)
 * [Describing Data...with free applicative functors (and more)—Kris Nuttycombe](https://www.youtube.com/watch?v=oRLkb6mqvVM)
 * [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
+* [Monad는 무엇인가](https://blog.seulgi.kim/2015/07/what-is-monad.html)
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
