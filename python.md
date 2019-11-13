@@ -923,6 +923,7 @@ Python
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property)](https://blog.naver.com/codeitofficial/221684462326)
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property) 2편](https://blog.naver.com/codeitofficial/221695196435)
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property) 3편](https://blog.naver.com/codeitofficial/221701646124)
+  * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property) 4편](https://blog.naver.com/codeitofficial/221706621090)
 * random
   * shuffle [사용자 데이터셋 셔플](https://jybaek.tistory.com/781)
 * re
