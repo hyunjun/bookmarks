@@ -233,6 +233,7 @@ Go
 * ["고, 무엇에 좋은가" 고 언어의 기능과 제약, 그리고 발전 방향](http://www.itworld.co.kr/news/134027)
 * [PHuiP-FPizdaM - an exploit for a bug in php-fpm (CVE-2019-11043)](https://github.com/neex/phuip-fpizdam)
 * [Release: Go analyzer lands in beta](https://deepsource.io/blog/go-beta-release/)
+* [From Java to Golang, the journey of the nexuzhealth team by Dylan Meeus](https://www.youtube.com/watch?v=4dSw3tkclQ4)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
