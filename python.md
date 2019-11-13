@@ -1501,6 +1501,7 @@ Python
 * [Intro to Django's Annotate](https://www.youtube.com/watch?v=KbwmdKl-QbI)
 * [2018년 8월 5일, 서울창조허브 10F에서 열리는 개발기술연합세미나, 파이썬 세션, 장고 샘플 프로젝트](https://github.com/allieus/demo-20180805-startup-dev)
 * [Django 2.1 Tutorial-Build a Travel Blog with Goorm IDE and Bootstrap 4(Unspoken version)](https://www.youtube.com/watch?v=ozSepodKOyg)
+* [Django Bootstrap 적용하기](https://tunghs.github.io/2019/09/07/2019-09-07-Apply-Django-Bootstrap/)
 * [django 쿼리셋 수정을 통한 웹서비스 성능 개선 - select_related, prefetch_related](https://wayhome25.github.io/django/2017/06/20/selected_related_prefetch_related/)
 * [(번역) Best practices working with Django models in Python](https://wayhome25.github.io/django/2018/09/29/Best-practices-working-with-Django-models-in-Python/)
 * [pycon kr 2018.12 django model 삽질기 - 김정환](https://www.youtube.com/watch?v=PlPrxrlBBG8)
