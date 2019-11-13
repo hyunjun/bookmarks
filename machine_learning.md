@@ -857,7 +857,9 @@ Machine Learning
 * [DL-Learner - a framework for supervised Machine Learning in OWL, RDF and Description Logics](http://dl-learner.org/)
   * [A tool for supervised Machine Learning in OWL and Description Logics](https://github.com/AKSW/DL-Learner)
 * [DVC - Open-source Version Control System for Machine Learning Projects](https://dvc.org/) git과 비슷한 명령어를 통해 data version 관리
+  * [DVC - Data Version Control | Git for Data & Models](https://github.com/iterative/dvc)
   * [Data version control with DVC. What do the authors have to say?](https://towardsdatascience.com/data-version-control-with-dvc-what-do-the-authors-have-to-say-3c3b10f27ee)
+  * [DVC(Data Version Control)](https://github.com/KIMCAT33/DVC)
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [Gradio - a free, open-source python library that helps machine learning researchers interact with and share their machine learning models with collaborators and clients with only a few lines of extra code](https://gradio.app/index.html)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
