@@ -207,3 +207,6 @@
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 - 1편](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-1편)
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 2편](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-2편) R2DBC
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 테스트 슬라이스 적용하기](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-테스트-슬라이스-적)
+
+# Tutorial
+* [새로워진 Android Kotlin 코드랩 과정을 만나보세요!](https://developers-kr.googleblog.com/2019/10/new-android-kotlin-codelab-courses-are.html)
