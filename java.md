@@ -403,6 +403,7 @@ Java
 
 # Java14
 * [Better NPE Messages in JDK 14](https://dzone.com/articles/better-npe-messages-in-jdk-14)
+* [Java Language Futures: Late 2019 Edition by Brian Goetz](https://www.youtube.com/watch?v=J6fegDQPgps)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -933,10 +934,12 @@ Java
   * [AppEngine unit testing made easy with JUnit Rules](https://medium.freecodecamp.org/appengine-unit-testing-made-easy-with-junit-rules-97c2127a161a)
   * [JUnit 테스트 메소드 실행 순서](https://www.youtube.com/watch?v=ouaHBQ-z2uI)
   * [Victor Rentea - Unit Testing like a Pro: The Circle of Purity](https://www.youtube.com/watch?v=1Z_h55jMe-M)
+  * [Unit Testing like a Pro - Towards a Testable Design by Victor Rentea](https://www.youtube.com/watch?v=mMvrCDW6rVM)
   * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
   * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
   * [연과 백엔드 팀은 유닛 테스트를 어떻게 할까?](https://blog.scienceoflove.co.kr/how-sol-tdd)
   * [단위 테스트 활용 방법: JUnit 참조 가이드](https://jinson.tistory.com/entry/번역-Unit-Testing-Best-Practices-JUnit-Reference-Guide-단위-테스트-활용-방법-JUnit-참조-가이드)
+  * [JUnit: time to shift into 5th gear! Julien Topçu & Juliette de Rancourt](https://www.youtube.com/watch?v=Fca8yUIJfd0)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Web
