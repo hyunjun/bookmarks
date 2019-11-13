@@ -102,6 +102,7 @@ Java
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
 * [Parallel Merge Sort in Java](https://hackernoon.com/parallel-merge-sort-in-java-e3213ae9fa2c)
 * [개발 미션과 함께 읽는 클린 코드](http://woowabros.github.io/study/2019/03/20/cleancode.html) clean code 책을 읽고 진행한 refactoring 정리
+* [VENKAT SUBRAMANIAM - Refactor your language knowledge portfolio - we are what we can code in](https://www.youtube.com/watch?v=zajUPJI19ZQ)
 * [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app/)
 * [Java 대용량 엑셀 업로드](https://tmondev.blog.me/221505398958)
 * [java 엑셀 파일 읽기 (xlsx)](https://huskdoll.tistory.com/890)
@@ -400,6 +401,7 @@ Java
 
 # Java13
 * [Definitive Guide To Java 13](https://blog.codefx.org/java/java-13-guide/)
+* [Java 12 & 13 What's new and noteworthy? By Piotr Przybyl](https://www.youtube.com/watch?v=UhtgxxDa-BQ)
 
 # Java14
 * [Better NPE Messages in JDK 14](https://dzone.com/articles/better-npe-messages-in-jdk-14)
@@ -482,6 +484,7 @@ Java
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 * **[Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)**
   * **[Project Loom: Fiber와 Continuation](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)**
+  * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
 * VisualVM [Performance Profiling During Your Development Workflow](https://hackernoon.com/performance-profiling-during-your-development-workflow-ebff78afb71c)
 
 # Lambda
