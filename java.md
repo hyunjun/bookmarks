@@ -469,10 +469,11 @@ Java
 * **[Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)**
 * [우아한 테크 세미나 - 자바, 성능, 모니터링 이야기 후기](https://www.popit.kr/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9E%90%EB%B0%94-%EC%84%B1%EB%8A%A5-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%9B%84%EA%B8%B0/)
 * [Evolving Java With `––enable–preview` aka Preview Features](http://blog.codefx.org/java/enable-preview-features/)
-* [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
+* [Beyond ByteBuffers by Brian Goetz](https://www.youtube.com/watch?v=iwSCtxMbBLI)
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
+  * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
   * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
 * **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
