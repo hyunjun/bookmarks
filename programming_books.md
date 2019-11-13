@@ -1376,6 +1376,7 @@ Programming Books
 * _**폴리글랏 프로그래밍**_
   * 탐라 개005.13임43ㅍ
   * 자바, C#, 스칼라, 특히 자바의 Generic, 공변 covariance, 반공변 contravariace 스칼라의 trait 설명 부분이 좋음
+  * [독중감-폴리글랏 프로그래밍](https://seok-hong.github.io/2017/02/02/%EB%8F%85%EC%A4%91%EA%B0%90-%ED%8F%B4%EB%A6%AC%EA%B8%80%EB%9E%8F-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/)
 * 프로그래밍 인 스칼라
   * 한라 005.13오24프
 * 자바 개발자를 위한 스칼라 프로그래밍
