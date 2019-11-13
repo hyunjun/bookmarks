@@ -506,6 +506,7 @@ Programming
 * [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
 * [Google - polling like it's the 90s](https://www.ably.io/blog/google-polling-like-its-the-90s/)
+* [Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide](https://www.youtube.com/watch?v=tMHO7_RLxgQ)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -806,6 +807,7 @@ Programming
 * [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 * [코드리뷰의 진짜 목적은 따로있다](https://blog.logi-spot.com/코드리뷰의-진짜-목적은-따로있다/)
 * [애자일과 소프트웨어 장인정신 - 코드 리뷰를 왜 해야 하나?](https://brunch.co.kr/@cleancode/39)
+* [Clean Code: The Next Chapter by Victor Rentea](https://www.youtube.com/watch?v=wY_CUkU1zfw) 실제 코드로 presentation
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
