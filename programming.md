@@ -695,6 +695,7 @@ Programming
 * [Full Stack Serverless](https://www.oreilly.com/library/view/full-stack-serverless/9781492059882/)
 * [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
+* [GOTO 2019 • Serverless: Five Key Things you need to Know • Gojko Adzic](https://www.youtube.com/watch?v=ovRt6O7q1rA)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
