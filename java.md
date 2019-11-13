@@ -500,6 +500,9 @@ Java
 * [Java Lambda (6) 예외 처리](https://futurecreator.github.io/2018/08/09/java-lambda-handling-exception/)
 * [Java Lambda (7) 람다와 클로저](https://futurecreator.github.io/2018/08/09/java-lambda-and-closure/)
 * [GOTO 2019 • Achieving Functional Programming in Java • John Napier](https://www.youtube.com/watch?v=VUH_HhAaNpc)
+* [slieb.org - Java 8 Functional Interfaces with Exceptions](http://slieb.org/blog/throwable-interfaces/)
+* [Handling checked exceptions in Java streams](https://www.oreilly.com/ideas/handling-checked-exceptions-in-java-streams)
+* [자바 8 람다에서 checked exception을 어떻게 구현하면 좋을까?](https://www.slipp.net/questions/572)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
@@ -622,6 +625,7 @@ Java
   * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
   * [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952) jmeter
   * [jmeter를 사용한 가변길이 TCP Binary 패킷 처리 방법](https://newtype.pe.kr/463)
+* [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
 * [jvisualvm을 사용한 jvm 모니터링](http://m.egloos.zum.com/aploit/v/5746753)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
