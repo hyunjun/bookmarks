@@ -1650,6 +1650,8 @@ Javascript
 * [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
 
 # [React](http://reactkr.github.io/react)
+* [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부
+* [React와 Node.js를 활용한 고객 관리 시스템 개발](http://edu.goorm.io/learn/lecture/11817/react%EC%99%80-node-js%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C/lesson/481540/create-react-app%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 * [React 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리](https://ko.reactjs.org/)
 * [egoing.github.io/react-tutorial-example](https://egoing.github.io/react-tutorial-example)
 * [시작해보기](http://reactkr.github.io/react/docs/getting-started-ko-KR.html)
@@ -1661,7 +1663,6 @@ Javascript
 * [한국어로 배우는 리액트](https://github.com/reactkr/learn-react-in-korean)
 * [리액트 도움닫기](https://github.com/sujinleeme/the-road-to-learn-react-korean)
 * [리액트 도움닫기](https://realhanbit.co.kr/books/87/pages/0/read)
-* [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부
 * [Start your journey into the world of React by learning these basics](https://medium.freecodecamp.org/start-your-journey-into-the-world-of-react-by-learning-these-basics-d6e05d3655e3)
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/courses/enrolled/216871)
