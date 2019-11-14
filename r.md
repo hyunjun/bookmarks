@@ -89,6 +89,7 @@ R
 * [Launch Your Career in Data Science A nine-course introduction to data science, developed and taught by leading professors](https://www.coursera.org/specializations/jhu-data-science)
 * [using r from ipython](http://people.duke.edu/~ccc14/sta-663/UsingPandas.html#using-r-from-ipython)
 * [datascienceschool/rpython 설치 및 실행](https://www.datascienceschool.net/view-notebook/03c5b5a96a614ee588a74f05c720e67c/)
+* [How to change the default python version/path in Rstudio](https://stackoverflow.com/questions/56153765/how-to-change-the-default-python-version-path-in-rstudio)
 * [Data Journalism with R at FiveThirtyEight](http://www.r-bloggers.com/data-journalism-with-r-at-fivethirtyeight/)
 * [R을 활용한 데이터 분석 #1 – R, 그것이 알고 싶다!](http://blog.ncsoft.com/?p=18487)
 * [R (1) 일원분산분석(one-way ANOVA) : aov()](http://rfriend.tistory.com/131)
