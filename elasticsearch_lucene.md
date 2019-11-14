@@ -562,6 +562,7 @@ ElasticSearch - Lucene
   * [5.x 용 Arirang 형태소 분석기 사용 시 주의 사항](http://jjeong.tistory.com/1251)
   * [Elasticsearch에서 아리랑 한글 분석기 사용하기](https://www.elastic.co/kr/blog/arirang-analyzer-with-elasticsearch)
   * [7.0.0 - elasticsearch 7.0.0 + lucene 8.0.0](https://github.com/HowookJeong/elasticsearch-analysis-arirang/releases/tag/7.0.0)
+  * [elasticsearch-analysis-arirang 7.4.0, 7.4.2](https://jjeong.tistory.com/1399)
 * [elasticsearch-analysis-openkoreantext](https://github.com/open-korean-text/elasticsearch-analysis-openkoreantext) open korean text 한국어 처리엔진으로 작성, 5.x 지원
 * [elasticsearch-jaso-analyzer - Korean Jaso Analyzer for Elasticsearch 6.x](https://github.com/netcrazy/elasticsearch-jaso-analyzer)
 * [ELASTICQ – ELASTICSEARCH REALTIME CORRELATION ANALYSIS](https://asecurity.so/elasticq-elasticsearch-realtime-correlation-analysis)
