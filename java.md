@@ -119,6 +119,7 @@ Java
 * [github.com/StiKuan/StiKuan-Review](https://github.com/StiKuan/StiKuan-Review)
 * [The Good, the Bad and the Ugly of Java API design. Miro Cupak, Dnastack](https://www.youtube.com/watch?v=bVNZMEvplY4)
 * [왜 자바에서 final 멤버 변수는 관례적으로 static을 붙일까?](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
+* [Miro Cupak - The Good, the Bad and the Ugly of Java API design](https://www.youtube.com/watch?v=GGahNwIkAeA)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -258,6 +259,9 @@ Java
 * [Producer-Consumer with ExecutorService.newFixedThreadPool - How many threads are created?](http://stackoverflow.com/questions/7124833/producer-consumer-with-executorservice-newfixedthreadpool-how-many-threads-are)
 * [Effective Java - Run queries on your Java code to check if it meets the criteria suggested by the book Effective Java. And some others](https://github.com/ftomassetti/effectivejava)
 
+# Conference
+* [Hugh Mckee - Building Stateful Clustered Microservices with Java, Actors, and Kubernetes](https://www.youtube.com/watch?v=AJD4RjYRIaU)
+
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
 * [IntelliJ IDEA and Eclipse Shortcuts](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
@@ -352,6 +356,7 @@ Java
 * [자바 SE 8에 대한 질의응답(파트 1)](https://blog.naver.com/lube12/221170814388)
 * [How to make parallel calls in Java with CompletableFuture example](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
 * [CompletableFuture 비동기 처리로 성능 개선하기](http://blog.woniper.net/361)
+* [Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam](https://www.youtube.com/watch?v=0hQvWIdwnw4)
 * [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0) CompletableFuture
 * [뒤늦게 배워보자, Java 8 Part. 1](https://www.sangkon.com/java8_study_part1/)
 * [뒤늦게 배워보자, Java 8 Part. 2](https://www.sangkon.com/java8_study_part2/)
@@ -563,6 +568,7 @@ Java
   * [멀티모듈 설계 이야기 with Spring, Gradle](http://woowabros.github.io/study/2019/07/01/multi-module.html)
   * [buildConfigField 로 Debug와 Release 가 다른 값을 가지는 방법](https://developer88.tistory.com/176)
   * [혼자서 연습해본 Gradle 4.1 튜토리얼 - 그야 말로 대충 번역!](https://www.sangkon.com/gradle-basic-tutorial/)
+  * [Andres Almiray - Gradle Ex Machina](https://www.youtube.com/watch?v=M61BapxHWPg)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
@@ -907,6 +913,7 @@ Java
 * [Functional Reactive Programming in Java](https://realm.io/news/droidcon-gomez-functional-reactive-programming/)
 * [Venkat Subramaniam — Reactive Programming: creating highly responsive applications](https://www.youtube.com/watch?v=eDpChpuZfGA)
 * [Venkat Subramaniam - From Functional to Reactive Programming](https://www.youtube.com/watch?v=eaJVeVV6Ky0)
+* [Java Streams vs Reactive Streams: Which, When, How, and Why? by Venkat Subramaniam](https://www.youtube.com/watch?v=kG2SEcl1aMM)
 * [Reactive Streams](http://www.reactive-streams.org/)
 * [Reactor - a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
