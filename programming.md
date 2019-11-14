@@ -651,6 +651,7 @@ Programming
 * [How To Build a Microservice Without Losing a Job](https://www.youtube.com/watch?v=Hnbct_8nj_M)
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 * [마이크로 서비스에서 분산 트랜잭션](https://medium.com/dtevangelist/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-347af5136c87) two phase commit, saga pattern
+* [Nicolas Frankel - 3 easy performance improvements in your microservices architecture](https://www.youtube.com/watch?v=FUv2sdNO_9o)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -697,6 +698,7 @@ Programming
 * [6 things I’ve learned in my first 6 months using serverless](https://read.acloud.guru/six-months-of-serverless-lessons-learned-f6da86a73526)
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 * [GOTO 2019 • Serverless: Five Key Things you need to Know • Gojko Adzic](https://www.youtube.com/watch?v=ovRt6O7q1rA)
+* [Real world serverless - architecture, patterns and lessons learned by David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
