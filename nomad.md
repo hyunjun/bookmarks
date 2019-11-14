@@ -250,6 +250,7 @@ Nomad & Remote
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
 * [remote.co](https://remote.co/)
+  * [원격근무, A부터 Z까지. 'Remote.co'소개](https://brunch.co.kr/@philstori/111)
 * [remote.com](https://remote.com)
 * [rocketpunch.com](https://www.rocketpunch.com) 한국
 * [ryrob.com/remote-job](https://www.ryrob.com/remote-job)
