@@ -144,17 +144,24 @@ Docker
     * [Kafka 1.1 Docker Image](https://medium.com/@teivah/kafka-1-1-docker-image-5e4e9aac201d)
   * [kernel builder](https://github.com/memnoth-projects/docker-kernel-builder)
   * [mysql-server](https://hub.docker.com/r/mysql/mysql-server/)
-    * [A tutorial on how to use MySQL with Docker](http://www.luiselizondo.net/a-tutorial-on-how-to-use-mysql-with-docker/)
+    * [~A tutorial on how to use MySQL with Docker~](http://www.luiselizondo.net/a-tutorial-on-how-to-use-mysql-with-docker/)
     * [MySQL Docker Containers: Understanding the basics](http://severalnines.com/blog/mysql-docker-containers-understanding-basics)
     * [Setting up a MySQL Docker container](https://tectonic.com/quay-enterprise/docs/latest/mysql-container.html)
     * [Docker로 MySQL 사용하기](http://gyuha.tistory.com/490)
 
       ```
       sudo docker pull mysql:5.7.17
-      sudo docker run -d --env MYSQL_ROOT_PASSWORD=test_root --env MYSQL_USER=test_user --env MYSQL_PASSWORD=testpwd --env MYSQL_DATABASE=test_db --name test_image_name -p 53306:3306 mysql:5.7.17
-      mysql -h 127.0.0.1 -P 53306 -u test_user -ptestpwd test_db < table_schema.sql
+      sudo docker run -d --env MYSQL_ROOT_PASSWORD=test_root --env MYSQL_USER=test_user --env MYSQL_PASSWORD=testpwd --env MYSQL_DATABASE=test_db [--bind-address=0.0.0.0] --name test_image_name -p 53306:3306 mysql:5.7.17 --character-set-server=utf8 --collation-server=utf8_unicode_ci
+
+      mysql -h 127.0.0.1 -P 53306 -u test_user -ptestpwd test_db < <schema name>.sql
       mysql -h 127.0.0.1 -P 53306 -u test_user -ptestpwd test_db
+
+      docker exec -it test_image_name mysql -P 53306 -u root -p
+      docker exec -it test_image_name bash  # then inside bash, execute command "mysql -u root -p"
+      docker exec -it test_image_name mysqldump [--no-data] -P 53305 -u root -ptest_root <database name> > <schema name>.sql
+      docker exec -i test_image_name mysql -P 53305 -u root -ptest_root <database name> < <schema name>.sql
       ```
+      * [docker mysql 한글 깨짐 해결 & 초기 설정](http://epr.pe.kr/wordpress/?p=553)
   * [NexClipper - the container and container orchestration monitoring and performance management solution specialized in Docker, DC/OS, Mesosphere, Kubernetes](https://github.com/NexClipper/NexClipper)
   * Nginx
     * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
@@ -880,6 +887,8 @@ Docker
 * `Target WSGI script ... cannot be loaded as Python module` [practice; -v로 연결한 directory의 permission 문제](https://gist.github.com/hyunjun/ed1cdebcf982e30b2cc1b6c039f2d7b7#file-permission-md)
   * [Docker & File Permissions](https://serversforhackers.com/c/dckr-file-permissions)
 * [Troubleshooting Container Networking](https://success.docker.com/article/Troubleshooting_Container_Networking)
+* [`Error “The input device is not a TTY”`](https://stackoverflow.com/questions/43099116/error-the-input-device-is-not-a-tty)
+  * e.g. `docker exec -it mysql ... < <schema name>.sql`로 하면 terminal 입력이라 오류가 발생하므로 `-it`를 `-i`로 변경해야 함
 
 # Vagrant
 * [Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)
