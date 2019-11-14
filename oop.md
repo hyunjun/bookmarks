@@ -107,8 +107,9 @@
 * [우아한 객체지향-2019년 6월 우아한 Tech 세미나 참석 후기](https://jojoldu.tistory.com/425) class간 의존성 결과에 대한 이야기
 * [Dependency Injection(DI)에 대해서 알아보자](https://developer88.tistory.com/172)
 
-## Python
+## Dependency Injection Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
+* [pythondi - Python lightweight dependency injection library](https://github.com/teamhide/pythondi)
 
 # Design Pattern
 * 케빈 TV
