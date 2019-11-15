@@ -238,6 +238,7 @@ Vision
 * [구글 코랄 Edge TPU 가속 모듈 실시간 영상 디텍팅 분류 모델 실행해보기](https://pmice.tistory.com/337)
 * [coral usb accelerator + Raspberry pi zero w](https://mazdah.tistory.com/852)
 * [Coral 소개: 로컬 AI를 이용한 개발을 위한 Google 플랫폼](https://developers-kr.googleblog.com/2019/06/introducing-coral-our-platform-for.html)
+* [객체인식 = 라즈베리파이 + Coral EdgeTPU](https://blog.xcoda.net/103)
 * [엑스레이 판독해주는 인공지능 챗봇 만든 개발자](https://smartaedi.tistory.com/380)
 * [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
   * [CPU RayTracer based on `Ray-Tracing in One Weekend`](https://github.com/liliilli/SH-RayTracer)
