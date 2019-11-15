@@ -55,6 +55,7 @@
 * [5 Free Object-Oriented Programming Online Courses for Programmers](https://medium.com/swlh/5-free-object-oriented-programming-online-courses-for-programmers-156afd0a3a73)
 * [GRASP – General Responsibility Assignment Software Patterns Explained](http://www.kamilgrzybek.com/design/grasp-explained/)
 * [알고 보면 재밌는 객체 지향 프로그래밍, OOP 흝어보기](https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/)
+* [**OOP의 추상화(Abstraction)와 다형성(Polymorphism)의 관계**](https://wlaxhrl.tistory.com/78)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
