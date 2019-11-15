@@ -735,6 +735,7 @@ Docker
 * [Using Docker & Kubernetes to Host Machine Learning Models](https://towardsdatascience.com/using-docker-kubernetes-to-host-machine-learning-models-780a501fda49)
 * [쿠버네티스에서 도메인 이름 설정 방법](https://bcho.tistory.com/1362)
 * [Kubernetes in Financial Services: A Practical Field Guide](https://www.youtube.com/watch?v=aXPu1DPrfZA)
+* [Should you use Kubernetes and Docker in your next project? - Junior Developers Singapore](https://www.youtube.com/watch?v=7XvgqDlp8sQ)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
