@@ -751,6 +751,7 @@ Programming
 * [알리바바 클라우드 가입하기](https://jybaek.tistory.com/845)
 * [알리바바 클라우드 payment method 삭제](https://jybaek.tistory.com/846)
 * [알리바바 클라우드 SDK 설치 및 계정연동](https://jybaek.tistory.com/849)
+* [Rancher에서 Alibaba ACK 활성화 하기](https://jybaek.tistory.com/850)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
