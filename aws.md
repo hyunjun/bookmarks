@@ -364,6 +364,8 @@ AWS
 * [AWS, CloudFormation 을 사용한 WAF 자동 구축 및 운영](https://grip.news/archives/1382)
 * [How to Use AWS Textract to Extract Text from Scanned Documents in S3 Buckets](https://hackernoon.com/how-to-use-aws-textract-to-extract-text-from-scanned-documents-in-s3-buckets-5f85e8ba0a37)
 * [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
+* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
+* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득](https://blog.outsider.ne.kr/1465)
 * [AWS에서 RStudio 구축하기](https://medium.com/@hslee09/aws-aws%EC%97%90%EC%84%9C-rstudio-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-291d7ff6fa0e)
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
@@ -390,7 +392,6 @@ AWS
 * [RDS CA 인증서 2015 -> 2019 변경](https://linuxer.name/2019/10/rds-ca-인증서-2015-2019-변경/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
-* [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
