@@ -216,6 +216,7 @@ AWS
 * [Terraform 0.12로 테라폼 코드 업그레이드하기](https://blog.outsider.ne.kr/1461)
 * [좌충우돌 Terraform 입문기](http://woowabros.github.io/tools/2019/09/20/terraform.html)
 * [tfenv로 테라폼 버전 관리하기](https://www.44bits.io/ko/post/managing-teraform-versions-with-tfenv)
+* [Building AWS ECS Infrastructure with AWS Codepipeline for Blue/Green deployment by Terraform](https://github.com/gnokoheat/ecs-with-codepipeline-example-by-terraform)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
 * [Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
