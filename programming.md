@@ -1428,6 +1428,7 @@ Programming
   * [기술 뉴스 #135 : 19-10-01](https://blog.outsider.ne.kr/1462)
   * [기술 뉴스 #136 : 19-10-15](https://blog.outsider.ne.kr/1463)
   * [기술 뉴스 #137 : 19-11-01](https://blog.outsider.ne.kr/1464)
+  * [기술 뉴스 #138 : 19-11-16](https://blog.outsider.ne.kr/1466)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
