@@ -149,6 +149,7 @@ Javascript
 * [A JavaScript Quality Guide - http://ponyfoo.com](https://github.com/bevacqua/js)
 * [The Sass Mixins/Placeholders I Can't Live Without for Responsive Web Design](http://blog.siftscience.com/blog/2015/the-sass-mixinsplaceholders-i-cant-live-without-for-responsive-web-design)
 * [The Hitchhiker's Guide to Modern JavaScript Tooling](http://reactkungfu.com/2015/07/the-hitchhikers-guide-to-modern-javascript-tooling/)
+* [A Complete Guide to JavaScript Tooling Systems](https://morioh.com/p/dd8d91dbede9)
 * [Javascript, locking and sound, brought to you by the letters W, T and F](http://www.jwz.org/blog/2015/07/javascript-locking-and-sound-brought-to-you-by-the-letters-w-t-and-f/)
 * [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript)
 * [Ask HN: Can you suggest some good JavaScript projects to read and learn?](https://news.ycombinator.com/item?id=9942144)
@@ -1121,6 +1122,7 @@ Javascript
 * [OpenSeadragon - An open-source, web-based viewer for high-resolution zoomable images, implemented in pure JavaScript, for desktop and mobile](https://openseadragon.github.io/)
 * [p5js - the power of Processing times the reach of JavaScript](http://p5js.org/gallery/)
   * [How to build a drawing app with p5js](https://medium.freecodecamp.org/how-to-build-a-drawing-app-with-p5js-9b8d16e9364a)
+* [paged.js - an open-source library to paginate content in the browser](https://www.pagedmedia.org/paged-js/)
 * Passport.js
   * [Passport.js](https://opentutorials.org/course/3402)
   * [Node Passport를 이용한 Login](https://cheese10yun.github.io/Passport-part1/)
@@ -2634,3 +2636,4 @@ Javascript
 * [Filtering Data The Vue Way](https://devgrill.com/filtering-data-the-vue-way/)
 * [Let's Learn VueJS #1 - Intro](https://www.youtube.com/watch?v=Jrtkj6lTsYw)
 * [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap)
+* [7 Top Tools for Vue.js Development](https://morioh.com/p/2061bedccdbb)
