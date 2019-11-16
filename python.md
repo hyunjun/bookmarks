@@ -1767,6 +1767,7 @@ Python
   * [Manage Database Models with Flask-SQLAlchemy](https://hackingandslacking.com/manage-database-models-with-flask-sqlalchemy-237135cbf7cc)
   * [Getting Started With Flask-SQLAlchemy 2019](https://www.youtube.com/watch?v=jTiyt6W1Qpo)
   * [Use Flask-SQLAlchemy With Existing Database With Reflect and Automap](https://www.youtube.com/watch?v=UK57IHzSh8I)
+  * [How to build a JSON API with Python](https://morioh.com/p/1a0fcdf316e7)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
@@ -2136,6 +2137,7 @@ Python
 * [50 Popular Python open-source projects on GitHub in 2018](https://hackernoon.com/50-popular-python-open-source-projects-on-github-in-2018-c750f9bf56a0)
 * [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 * [A Beginner’s Introduction to Python Web Frameworks](https://stxnext.com/blog/2018/09/27/beginners-introduction-python-frameworks/)
+* [11 new Python web frameworks](https://deepsource.io/blog/new-python-web-frameworks/)
 * [Learning A New Data Science Language](https://towardsdatascience.com/learning-a-new-data-science-language-aa7656be730a) Pandas, Framequery, SciKit-Learn, Pandas-gbq
 * **[모든 파이썬 프로그래머를 위한 20가지 실용적인 파이썬 라이브러리](http://www.itworld.co.kr/print/118829)**
   * 아파치 Libcloud, 애로우(Arrow), 비홀드(Behold), 보틀(Bottle), EbookLib, 구이(Gooey), 인보크(Invoke), 누이트카(Nuitka), 눔바(Numba), 피위(Peewee), 필로우(Pillow), 파이파일시스템(PyFilesystem), 파이게임(Pygame), 파이글릿(Pyglet), 파이인스톨러(PyInstaller), 파이심플GUI(PySimpleGUI), 파이썬-docx, 스크래피(Scrapy), Sh, 스플린터(Splinter)
@@ -2576,6 +2578,7 @@ Python
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
+* [REMOVESTAR Tool to automatically replace 'import \*' in Python files with explicit imports](https://www.asmeurer.com/removestar/)
 * **[Requests - an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)**
   * [Advanced Usage](http://docs.python-requests.org/en/master/user/advanced/)
   * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
@@ -2744,6 +2747,7 @@ Python
 * [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in) terminal에서 curl로 날씨 확인
   * [wttr.in/제주](https://wttr.in/%EC%A0%9C%EC%A3%BC)
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
+* [xincapio - Get IP address, MAC address and Disk Serial Number](https://github.com/jbaltop/xincapio)
 * [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
@@ -2790,6 +2794,7 @@ Python
   * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
 
 ## Library package install management
+* [My Python Development Environment, 2020 Edition](https://jacobian.org/2019/nov/11/python-environment-2020)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * pip
