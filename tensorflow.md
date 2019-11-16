@@ -741,6 +741,7 @@ TensorFlow
     * S4TF 라이브러리를 베이스로, 전통적으로 많이 사용되어 오던 머신러닝 알고리즘을 Swift 언어로 구현, API화
     * 현재 지원되는 알고리즘 AdaBoost, BernoulliNB, GaussianNB, MultinomialNB, DecisionTree, GradientBoostingRegressor, GradientDescentLinearRegression, KMeans, KNNClassifier, KNNRegressor, LeastSquaresLinearRegression, Logistic Regression, PCA, RandomForest, SingularValueDecompositionLinearRegression
     * 각 알고리즘의 사용 방법에 대한 예제 주피터 노트북이 모두 작성
+  * [Introduction to Swift for TensorFlow](https://morioh.com/p/087cef161afb)
 * [Scatteract - a framework to automatically extract data from the image of scatter plots](https://github.com/bloomberg/scatteract)
 * [Scikit Flow: Easy Deep Learning with TensorFlow and Scikit-learn](http://www.kdnuggets.com/2016/02/scikit-flow-easy-deep-learning-tensorflow-scikit-learn.html)
 * [SpecAugment that speech data augmentation method which directly process the spectrogram with Tensorflow, introduced by Google Brain](https://github.com/shelling203/SpecAugment)
