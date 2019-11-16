@@ -477,6 +477,7 @@ Java
 * [Evolving Java With `––enable–preview` aka Preview Features](http://blog.codefx.org/java/enable-preview-features/)
 * [Beyond ByteBuffers by Brian Goetz](https://www.youtube.com/watch?v=iwSCtxMbBLI)
 * [A Dozen Cool Things We Can Do With Popular JVM Languages by Venkat Subramaniam](https://www.youtube.com/watch?v=-8ISVgl7Qm0) java뿐만 아니라 JVM에서 동작하는 언어들의 특정 feature에 대한 이야기
+* [**Really Small Java Apps**](http://august.nagro.us/small-java.html) jlink, jpackage
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
