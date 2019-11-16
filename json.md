@@ -71,6 +71,7 @@ Json
 
 # Library
 * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)
+* [bad_json_parsers - Exposing problems in json parsers of several programming languages](https://github.com/lovasoa/bad_json_parsers)
 * [cdefs - Describe C function prototypes in JSON](https://github.com/mateogianolio/cdefs)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
 * [GenSON - a powerful, user-friendly JSON Schema generator built in Python](https://github.com/wolverdude/genson/)
