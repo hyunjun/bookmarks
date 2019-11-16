@@ -516,6 +516,7 @@ Javascript
 * [NetFUNNEL 우회하기 대기없이 서민형 안심전환대출 신청하기](https://libsora.so/post/bypass-netfunnel/)
 * [LINE의 웹 기반 서비스와 기술 – LINE은 앱 만드는 회사 아닌가요?](https://engineering.linecorp.com/ko/blog/line-web-services-and-techs/)
 * [패턴 매칭(Pattern Matching) in JavaScript](https://dev-momo.tistory.com/entry/패턴-매칭Pattern-Matching-in-JavaScript)
+* [Get started with Web Bundles](https://web.dev/web-bundles/)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -2049,6 +2050,7 @@ Javascript
 * [Announcing Ionic React](https://ionicframework.com/blog/announcing-ionic-react/)
 * [State Colocation will make your react app faster](https://ideveloper2.dev/blog/2019-10-12--state-colocation-will-make-your-react-app-faster)
 * [C언어와 React로 Server Side Rendering 만들기](https://velog.io/@tbvjaos510/C%EC%96%B8%EC%96%B4%EC%99%80-React%EB%A1%9C-SSR%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90)
+* [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
