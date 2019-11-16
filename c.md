@@ -132,6 +132,7 @@ C
 * [Why const Doesn't Make C Code Faster](https://theartofmachinery.com/2019/08/12/c_const_isnt_for_performance.html)
 * [P99 - Preprocessor macros and functions for C99 and C11](http://p99.gforge.inria.fr/p99-html/index.html)
 * [Using pseudo-terminals (pty) to control interactive programs](http://rachid.koucha.free.fr/tech_corner/pty_pdip.html)
+* [Floating point oddity](https://www.johndcook.com/blog/2019/11/11/floating-point-oddity/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -292,6 +293,7 @@ C
 * [libgairq - A GObject based RESTful API library written in C for gathering Air Quality information](https://github.com/yisooan/libgairq)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
 * [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)
+* [libvips - A fast image processing library with low memory needs. https://libvips.github.io/libvips ](https://github.com/libvips/libvips)
 * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lists-in-c - Some subclasses of type list!](https://github.com/ryukinix/lists-in-c)
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
@@ -325,7 +327,6 @@ C
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
 * [pingfs - Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
 * [pixQL - SQL for image processing](https://github.com/Phildo/pixQL)
-* [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [progressbar - An easy-to-use C library for displaying text progress bars](https://github.com/doches/progressbar)
 * Rake
   * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
@@ -350,12 +351,16 @@ C
 * [uftrace - Function (graph) tracer for user-space](https://github.com/namhyung/uftrace)
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
 * [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
-* [valgrind](http://valgrind.org/)
-  * [practice](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
-  * [6. Callgrind: a call-graph generating cache and branch prediction profiler](http://valgrind.org/docs/manual/cl-manual.html)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
 * [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
+
+## Library Profile
+* [gprof, Valgrind and gperftools - an evaluation of some tools for application level CPU profiling on Linux](http://gernotklingler.com/blog/gprof-valgrind-gperftools-evaluation-tools-application-level-cpu-profiling-linux/)
+* [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
+* [valgrind](http://valgrind.org/)
+  * [practice](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
+  * [6. Callgrind: a call-graph generating cache and branch prediction profiler](http://valgrind.org/docs/manual/cl-manual.html)
 
 # Pointer
 * [Difference between `char*` and `const char*`?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
