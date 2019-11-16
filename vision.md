@@ -247,6 +247,7 @@ Vision
 * [ICCV 2019 튜토리얼](https://visionnoob.dev/2019/10/07/iccv-turorials/)
 * [ICCV 2019 Review 1 참석 후기 및 프로그램 소개](https://hoya012.github.io/blog/ICCV-2019_review_1/)
 * [ICCV 2019 Review 2 Best Paper SinGAN： Learning a Generative Model from a Single Natural Image 리뷰](https://hoya012.github.io/blog/ICCV-2019_review_2/)
+* [ICCV 2019 에서 진행된 구글의 발표들을 소개해드립니다](https://developers-kr.googleblog.com/2019/11/google-at-iccv-2019.html)
 * [FreeAnchor](https://www.slideshare.net/BrianKim244/freeanchor)
 
 # Book
@@ -472,6 +473,7 @@ Vision
   * 서브 필드마다 다른 평가 프로토콜을 사용하므로 새로운 작업에 대한 최종 성능을 항상 반영하지는 않기 때문에 어떤 방법이 최상의 표현을 제공하는지 알기 어려움
   * 표현 연구의 가장 중요한 목표는 각 작업에 대해 처음부터 다시 학습할 필요없이 많은 양의 일반 데이터에서 표현을 한번에 배우는 것이므로 모든 비전 작업에서 데이터 요구 사항을 줄일 수 있음
   * 그러나 이러한 목표를 달성하기 위해서는 현재와 미래의 방법을 평가할 수 있는 균일한 벤치 마크가 필요
+* [OpenCV(Python) + PyQt](https://blog.xcoda.net/104)
 
 # OpenGL
 * [open.gl](https://open.gl/)
