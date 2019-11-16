@@ -17,6 +17,7 @@ Go
 * [github.com/golang-kr/golang-doc/wiki](https://github.com/golang-kr/golang-doc/wiki)
 * [tour.golang.org](https://tour.golang.org/)
 * [play.golang.org](https://play.golang.org/)
+* [Go.dev: a new hub for Go developers](https://blog.golang.org/go.dev)
 * [Resources to learn Go(lang)](http://andygrunwald.com/blog/2015/06/20/resources-to-learn-golang/)
 * [go-search.org](http://go-search.org/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
@@ -239,6 +240,7 @@ Go
 * [Part 2 - Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
 * [Part 3 - Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
 * [Part 4 - Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
+* [**Let's Create a Simple Load Balancer With Go**](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
