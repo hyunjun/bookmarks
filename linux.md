@@ -728,6 +728,7 @@ Linux
 
 # Ubuntu
 * [16.04 설치후 세팅](http://programmingsummaries.tistory.com/389)
+* [Ubuntu 설치 후 초기 세팅하기](https://cupjoo.tistory.com/1)
 * [우분투 16 에 파이썬 3.6 설치 pip3.6 하고](http://hamait.tistory.com/917)
 * [Ubuntu 패키지 저장소 만들기](http://www.joinc.co.kr/w/man/12/deb)
 * [How To Install and Manage Supervisor on Ubuntu and Debian VPS](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps)
