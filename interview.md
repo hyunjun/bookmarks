@@ -378,6 +378,7 @@ Interview
   * [Scaling out load balancer devices and a backend network device](https://serverfault.com/questions/951086/scaling-out-load-balancer-devices-and-a-backend-network-device)
     * DB 샤드 갯수도, 웹서버 클러스터도 너무 많다고 가정. 그들간의 네트워킹을 이어주는 장치(스위치 허브 등)에 과부하가 걸리면 어떻게 수평확장?
   * [Load Balancing](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5747976207073280)
+  * [Introduction to modern network load balancing and proxying](https://blog.envoyproxy.io/introduction-to-modern-network-load-balancing-and-proxying-a57f6ff80236)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
 * [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
