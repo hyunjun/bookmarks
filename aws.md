@@ -398,6 +398,13 @@ AWS
 * [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 * [Service Catalog Part 1](https://zigispace.net/1056)
 
+# AMI Amazon Machine Image
+* [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
+  * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0)
+* [Packer와 Ansible을 이용한 표준 AMI 만들기](http://woowabros.github.io/experience/2019/04/20/ami-packer-ansible.html)
+* [AMI를 다른 리전으로 복사](https://jybaek.tistory.com/824)
+* [An error occurred (InvalidParameter) when calling the ExportImage operation: The service role vmimport provided does not exist or does not have sufficient permissions](https://jybaek.tistory.com/836)
+
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
 * [BigData SQL Query Engine benchmark](http://bytes.schibsted.com/bigdata-sql-query-engine-benchmark/)
@@ -567,13 +574,7 @@ AWS
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
-
-# AMI Amazon Machine Image
-* [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
-  * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0)
-* [Packer와 Ansible을 이용한 표준 AMI 만들기](http://woowabros.github.io/experience/2019/04/20/ami-packer-ansible.html)
-* [AMI를 다른 리전으로 복사](https://jybaek.tistory.com/824)
-* [An error occurred (InvalidParameter) when calling the ExportImage operation: The service role vmimport provided does not exist or does not have sufficient permissions](https://jybaek.tistory.com/836)
+* [Best Practices for Using AWS Lambda with RDS/RDBMS Solutions (SRV301-R1) - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/best-practices-for-using-aws-lambda-with-rdsrdbms-solutions-srv301r1-aws-reinvent-2018)
 
 # Library
 * [konlpy와 mecab을 amazon linux2에 인스톨하는 스크립트입니다](https://gist.github.com/serithemage/7c52ab749d053c21898647ce04b4db9b)
@@ -598,6 +599,7 @@ AWS
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
+* [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
   * [Netlify Dev 기능으로 개발 중인 사이트 Netlify에 배포하기](https://blog.outsider.ne.kr/1438)
