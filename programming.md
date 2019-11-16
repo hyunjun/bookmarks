@@ -4,13 +4,16 @@ Programming
 * [github.com/bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 * [awesome lists](https://www.prettyawesomelists.com/)
-* [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic](https://github.com/danistefanovic/build-your-own-x)
 * [handong1587.github.io/categories.html](https://handong1587.github.io/categories.html)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
 * **[lists - The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)**
+* 여러가지 주요 언어를 배울 수 있는 다양한 project link
+  * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
+  * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning) 
+  * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
 * **[작은 교육](http://slownews.kr/44304)**
 * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.slideshare.net/wheejuni/ss-84047369)
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
@@ -400,6 +403,7 @@ Programming
 * [Clean Architecture 1/2](https://jusths.tistory.com/149)
 * [Clean Architecture 2/2](https://jusths.tistory.com/150)
 * [클린 아키텍처 1-2장](https://wlaxhrl.tistory.com/76)
+* [클린 아키텍처 3-6장](https://wlaxhrl.tistory.com/79)
 * [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
@@ -1359,6 +1363,7 @@ Programming
   * [10월 4주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/10/b-10-4.html)
   * [10월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-10-5.html)
   * [11월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/11/b-11-1.html)
+  * [11월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-11-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
