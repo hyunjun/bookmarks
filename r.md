@@ -414,6 +414,7 @@ R
   * [R에서 caret package 를 이용한 데이터 학습 간편화 전략](https://lovetoken.github.io/r/2017/04/23/caret_package.html)
 * [clipr - R functions for reading and writing from the system clipboard](https://github.com/mdlincoln/clipr)
 * [COLORSPACE 팔레트](http://ds.sumeun.org/?p=1761)
+* [container – deque, set and dict for R](https://www.r-bloggers.com/container-deque-set-and-dict-for-r/)
 * [crantastic.org - a community site for R packages where you can search for, review and tag CRAN packages](http://crantastic.org/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [data.table - R's data.table package extends data.frame: http://r-datatable.com ](https://github.com/Rdatatable/data.table)
