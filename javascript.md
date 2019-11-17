@@ -756,6 +756,7 @@ Javascript
 * [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
 * [What’s new in JavaScript: Google I/O 2019 Summary](https://itnext.io/whats-new-in-javascript-google-i-o-2019-summary-d16bd2308412)
 * [행성의 움직임을 구현해보자](https://evan-moon.github.io/2017/05/03/calculate-orbit-2/)
+* [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list/blob/master/README.md)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
