@@ -1918,6 +1918,7 @@ Javascript
 * [실전형 리액트 Hooks | #0 2 Workflow](https://www.youtube.com/watch?v=JHZ3NPj4jrQ)
 * [실전형 리액트 Hooks | #0 1 Requirements](https://www.youtube.com/watch?v=9-_Xw1RUvj4)
 * [Did you know — createReducer Works with React Hooks. Here’s how](https://medium.com/free-code-camp/did-you-know-createreducer-works-with-react-hooks-heres-how-b324c558e12f)
+* [React useReducer hook](https://medium.com/trabe/react-usereducer-hook-2b1331bb768)
 * [Learn Hooks in Just 5 Steps with Example](https://hackernoon.com/learn-hooks-in-just-5-steps-with-examples-44436e825f01)
 * [React Hooks + TS + functional = 아름다움](https://speakerdeck.com/ryunzae/react-hooks-plus-ts-plus-functional-equals-areumdaum)
 * [What is React Hooks? Learn in just 12 min](https://www.youtube.com/watch?v=pmd2uvCfPWw)
