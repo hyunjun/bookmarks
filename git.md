@@ -158,6 +158,7 @@ Git
 * [GitHub Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
 * [Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/)
 * [**GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기**](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
+* [**GithubAction+React+AWS S3**](https://velog.io/@loakick/series/GithubActionReactAWS-S3)
 * [주요 깃 서비스 비교](https://www.youtube.com/watch?v=a6h22u5r67M)
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
 * [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
