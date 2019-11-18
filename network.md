@@ -117,6 +117,7 @@ Network
 * [입개발 NAGLE 알고리즘과 TCP_CORK](https://charsyam.wordpress.com/2019/03/14/%EC%9E%85%EA%B0%9C%EB%B0%9C-nagle-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC-tcp_cork/)
 * [**TCP 소켓이 쓰러지지 않아**](https://blog.cloudflare.com/ko/when-tcp-sockets-refuse-to-die-ko/)
 * [**TCP의 헤더에는 어떤 정보들이 담겨있는걸까?**](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
+* [TCP가 연결을 생성하고 종료하는 방법, 핸드쉐이크](https://evan-moon.github.io/2019/11/17/tcp-handshake/)
 
 # UDP
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
