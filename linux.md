@@ -295,6 +295,7 @@ Linux
   CLIENT$ tar cvfpz - [files] | nc [server ip] [port number]
   ```
   * [Play with Netcat in Ubuntu](https://www.unixmen.com/play-with-netcat-in-ubuntu/)
+  * [네트워크 해킹계의 맥가이버칼이 있다? netcat (넷캣) 1편](https://www.youtube.com/watch?v=B1z8bW7_s1A)
 * nm
   * [How do I list the symbols in a .so file](http://stackoverflow.com/questions/34732/how-do-i-list-the-symbols-in-a-so-file)
 * nmap
