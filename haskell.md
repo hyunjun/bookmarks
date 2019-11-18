@@ -226,6 +226,7 @@ Haskell
 * [HASKELL: UNEXPECTEDLY MAKING IT HARDER TO UNIT TEST](https://atilanevesoncode.wordpress.com/2015/09/14/haskell-unexpectedly-making-it-harder-to-unit-test/)
 * [Unit testing IO in Haskell](https://blog.pusher.com/unit-testing-io-in-haskell/)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/haskell-hedgehog)
+  * [Time Travelling and Fixing Bugs with Property-Based Testing](https://wickstrom.tech/programming/2019/11/17/time-travelling-and-fixing-bugs-with-property-based-testing.html)
 * [QuickCheck - a combinator library originally written in Haskell](https://en.wikipedia.org/wiki/QuickCheck)
 
 # Type
