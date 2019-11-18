@@ -203,6 +203,7 @@ Algorithm
 * `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
 * [The Ultimate Beginners Guide To Analysis of Algorithm](https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5)
 * [The 5 Fundamental Running Times in Computer Science](https://medium.com/cracking-the-data-science-interview/the-5-fundamental-running-times-in-computer-science-e6872c7a103)
+* [왜 유클리드 알고리즘 함수는 최악의 경우 O(log)일까?](https://codingdog.tistory.com/entry/%EC%99%9C-%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%A8%EC%88%98%EB%8A%94-%EC%B5%9C%EC%95%85%EC%9D%98-%EA%B2%BD%EC%9A%B0-Olog%EC%9D%BC%EA%B9%8C)
 
 ## Space Complexity
 
