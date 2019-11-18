@@ -40,3 +40,4 @@ Anomaly Detection
   * [Part 1: Predicting Hotel Cancellations with Support Vector Machines and ARIMA](https://www.michael-grogan.com/hotel-cancellations/)
   * [Part 2: Predicting Hotel Cancellations with a Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations-neuralnetwork/)
   * [Part 3: Predicting Weekly Hotel Cancellations with an LSTM Network](https://www.michael-grogan.com/hotel-cancellations-lstm/)
+* [Operational AI: 지속적으로 학습하는 Anomaly Detection 시스템 만들기](https://deview.kr/2019/schedule/286)
