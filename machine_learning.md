@@ -880,6 +880,7 @@ Machine Learning
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
   * [ML Kit와 ARKit가 함께 작동하는 방식을 알아보세요](https://developers-kr.googleblog.com/2019/05/see-how-ml-kit-and-arkit-play-together.html)
+  * [iOS 앱에서 머신러닝이 해결 할 수 있는 문제들](https://www.slideshare.net/DoyoungGwak/lets-swift-2019-ios)
 * [**ml-workspace - All-in-one web-based IDE specialized for machine learning and data science**](https://github.com/ml-tooling/ml-workspace)
   * 머신러닝 워크스페이스가 이미 구축된 도커 이미지를 제공하는 프로젝트. 모든것이 웹기반
     * 라이브러리: Sklearn, TensorFlow, PyTorch, Keras 등등
