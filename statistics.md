@@ -367,6 +367,7 @@ Statistics
 * [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
 * [A Random Walk & Monte Carlo Simulation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=BfS2H1y6tzQ)
 * [Survival Analysis (생존분석) 어떤 사건의 발생 확률을 시간이란 변수와 함께 생각하는 통계 분석 및 예측 기법](https://hyperconnect.github.io/2019/07/16/survival-analysis-part1.html)
+* [Survival Analysis (2/3)](https://hyperconnect.github.io/2019/08/22/survival-analysis-part2.html)
 * [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
