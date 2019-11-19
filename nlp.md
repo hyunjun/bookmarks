@@ -364,6 +364,7 @@ NLP
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
 * [exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformers Models](http://exbert.net/)
+* [GLUE: 벤치마크를 통해 BERT 이해하기](https://huffon.github.io/2019/11/16/glue/)
 * [Korean ALBERT](https://github.com/MrBananaHuman/KalBert)
 * [KoreanCharacterBert - Korean BERT model using character tokenizer](https://github.com/MrBananaHuman/KoreanCharacterBert)
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
