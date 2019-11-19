@@ -259,6 +259,7 @@ Programming
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
+* [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474) 기본에 충실하자는 이야기
 * [Yes, You Should Estimate Software Projects](https://blog.pragmaticengineer.com/yes-you-should-estimate/) 소프트웨어 프로젝트에서 시간 추정
 * [C10K 문제(C10K problem)](https://118k.tistory.com/198)
 * [웹 푸시 알림 서비스, 샌디](https://medium.com/@kiyeopyang/%EC%9B%B9-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%83%8C%EB%94%94-4357a27a393b)
