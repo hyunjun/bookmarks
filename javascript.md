@@ -1990,6 +1990,7 @@ Javascript
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
 * [Understanding React PropTypes - Type-Checking in React](https://blog.bitsrc.io/understanding-react-proptypes-type-checking-in-react-9648a62ce12e)
+* [React key prop 이해하기](https://www.awesomezero.com/development/react-key/)
 * [Build a full-featured Modal dialog Form with React](https://blog.bitsrc.io/build-a-full-featured-modal-dialog-form-with-react-651dcef6c571)
 * [React Training - High-quality open source software from React Training](https://github.com/ReactTraining)
 * [Building a React Autocomplete Component from scratch](https://blog.bitsrc.io/building-a-react-autocomplete-component-from-scratch-3f4d5618aa14)
