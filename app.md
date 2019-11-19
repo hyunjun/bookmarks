@@ -588,7 +588,7 @@ App
   * [CapturePlus](http://captureplus.net/)
   * [Greenshot](https://getgreenshot.org/)
   * [Paparazzi! is a small utility for macOS that makes screenshots of webpages](https://derailer.org/paparazzi/)
-  * [픽픽 (PicPick)](https://picpick.app/ko/)
+  * [**픽픽 (PicPick)**](https://picpick.app/ko/)
   * [Ptr Scr](https://www.fiastarta.com/PrtScr/)
   * [Screely instantly turns your screenshot or design into a beautiful image you can share anywhere](https://www.screely.com/) 간단한 스크린샷 or 스케치를 서비스에 넣으면 아름답고 변경
   * [screen.guru - Take clean screenshot of any websites](https://screen.guru/)
@@ -849,7 +849,9 @@ App
 * [Rainy Mood](https://rainymood.com/)
 
 # Window
-* ["PC 뱅킹의 주적은 뱅킹 프로그램" – 구라 제거기 제작자 인터뷰](http://slownews.kr/67777)
+* [구라 제거기](https://teus.me/622)
+  * ["PC 뱅킹의 주적은 뱅킹 프로그램" – 구라 제거기 제작자 인터뷰](http://slownews.kr/67777)
+* [꿀뷰](https://kr.bandisoft.com/honeyview/)
 * [미르 가계부](http://mirbaak.tistory.com/)
 * [키보드 보안 프로그램 삭제 프로그램 2.1 업데이트](http://teus.me/79)
 * [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)
@@ -857,6 +859,7 @@ App
 * [유니콘 - HTTPS 차단 우회앱](http://unicorn-adblock.com/%EC%9C%A0%EB%8B%88%EC%BD%98-https-for-windows/)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
+* [Everything](https://www.voidtools.com)
 * [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) spectacle처럼 윈도우에서 레이아웃 조정하는 앱
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
