@@ -1061,6 +1061,7 @@ Machine Learning
   * [Scikit-Learn: A silver bullet for basic machine learning](https://medium.com/analytics-vidhya/scikit-learn-a-silver-bullet-for-basic-machine-learning-13c7d8b248ee)
   * [Scikit-Learn Library for Machine Learning in a Nutshell](https://hackernoon.com/scikit-learn-library-for-machine-learning-in-a-nutshell-35fead4b216d)
   * [파이썬 사이킷런(sklearn) 패키지에서 ROC곡선 쉽게 그리는 방법!](https://tariat.tistory.com/754?category=678799)
+  * [**Multiple Linear Regression and Visualization in Python**](https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python) 3D linear regression model 시각화
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * sklearn
   * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
