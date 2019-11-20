@@ -605,6 +605,7 @@ Scala
 * [Top 15 Scala Libraries for Data Science in 2018](https://functional.works-hub.com/learn/top-15-scala-libraries-for-data-science-in-2018-308f4)
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
+* [Avast](https://avast.github.io)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
