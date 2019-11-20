@@ -517,6 +517,7 @@ Javascript
 * [LINE의 웹 기반 서비스와 기술 – LINE은 앱 만드는 회사 아닌가요?](https://engineering.linecorp.com/ko/blog/line-web-services-and-techs/)
 * [패턴 매칭(Pattern Matching) in JavaScript](https://dev-momo.tistory.com/entry/패턴-매칭Pattern-Matching-in-JavaScript)
 * [Get started with Web Bundles](https://web.dev/web-bundles/)
+* [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -1874,6 +1875,7 @@ Javascript
 * [가장 현대적인 웹을 만들자 1편 (Node.js, React)](https://medium.com/@kiyeopyang/%EA%B0%80%EC%9E%A5-%ED%98%84%EB%8C%80%EC%A0%81%EC%9D%B8-%EC%9B%B9%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%9E%90-1%ED%8E%B8-node-js-react-73d8ad4ed9b8)
 * [React Server Side Rendered Page](https://seokjun.kim/react-server-side-rendered-page/)
 * [React: How To Access Props In A Functional Component](https://medium.com/@PhilipAndrews/react-how-to-access-props-in-a-functional-component-6bd4200b9e0b)
+* [How to pass props to components in React](https://www.robinwieruch.de/react-pass-props-to-component)
 * [A Complete Beginner’s Guide to React](https://medium.freecodecamp.org/a-complete-beginners-guide-to-react-4d490abc349c)
 * [Angular5 -> React + next.js 로 프로젝트 갈아 엎은 썰 (Angular vs React 개인적 비교)](http://kokohapps.tistory.com/entry/Angular5-React-nextjs-%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%88%EC%95%84-%EC%97%8E%EC%9D%80-%ED%9B%84%EA%B8%B0)
 * [다시 시작하기](http://mobicon.tistory.com/548)
@@ -2480,6 +2482,7 @@ Javascript
 * [Native addon을 포함하여 Node.js + Typescript + Serverless 빌드 및 배포하기](https://www.slideshare.net/KyuhyunByun1/native-addon-nodejs-typescript-serverless)
 * [이제는 타입스크립트를 배워야합니다. (to 자바스크립트 개발자)](https://blog.hax0r.info/2019-03-12/typescript-in-fastcampus/)
 * [The easy way to get TypeScript interfaces from C#, Java, or Python code in any IDE](https://medium.freecodecamp.org/the-easy-way-to-get-typescript-interfaces-from-c-java-or-python-code-in-any-ide-c3acac1e366a)
+* [TypeScript에서 Type을 기술하는 두 가지 방법, Interface와 Type Alias](https://joonsungum.github.io/post/2019-02-25-typescript-interface-and-type-alias/)
 * [How (and why) you should use Typescript with Node and Express](https://medium.com/javascript-in-plain-english/typescript-with-node-and-express-js-why-when-and-how-eb6bc73edd5d)
 * [When to use TypeScript: a detailed guide through common scenarios](https://medium.freecodecamp.org/when-to-use-typescript-a-detailed-guide-through-common-scenarios-b0a57e57905)
 * [A crash course in TypeScript](https://medium.freecodecamp.org/a-crash-course-in-typescript-e6bf9c10946)
@@ -2487,6 +2490,7 @@ Javascript
 * [TypeScript를 사용하여 간단한 인공 신경망 개발 삽질기](https://evan-moon.github.io/2019/02/26/simple-ann/)
 * [리액트, 타입스크립트 시작하기](http://jeonghwan-kim.github.io//dev/2019/06/25/react-ts.html)
 * [React프로젝트에 타입스크립트 개발환경 구축하기](https://awesomezero.com/post/TSSetting/)
+* [Typescript Tips Series: Proper Typing of react-redux Connected Components](https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d)
 * [10 Advanced TypeScript Questions For An Interview — With Answers](https://medium.com/hackernoon/10-advanced-typescript-questions-for-an-interview-with-answers-6f0513b1688e)
 * [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 * [구글, 애플 인앱 영수증 결제 검증 웹 서비스 리뉴얼](https://blog.totu.dev/2019/09/16/renew-receipt-validation/)
