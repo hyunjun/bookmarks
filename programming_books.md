@@ -1063,6 +1063,7 @@ Programming Books
 * (NOT YET) [수학의 아름다움](https://www.popit.kr/%EC%88%98%ED%95%99%EC%9D%98-%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80/)
 * (NOT YET) [함수와 미적분을 기초부터 응용까지 프로그래머를 위한 기초 해석학](https://www.gilbut.co.kr/book/view?bookcode=BN002349)
 * (NOT YET) [파이썬으로 풀어보는 수학 코드로 통계, 확률, 미적분과 같은 다양한 수학 탐험하기](http://acornpub.co.kr/book/doing-math-with-python)
+* (NOT YET) [소문난 명강의 : 김도형의 데이터 사이언스 스쿨(수학 편)](http://www.hanbit.co.kr/store/books/look.php?p_code=B3111220544) 아이파이썬(IPython), 사이킷런(Scikit-Learn), 맷플롯립(matplotlib), 넘파이(NumPy), 시본(seaborn), 사이파이(SciPy), 피지엠파이(pgmpy)
 
 # Network
 
