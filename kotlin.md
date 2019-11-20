@@ -1,7 +1,5 @@
 [Kotlin](http://kotlinlang.org/)
 ======
-* [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
-* [Getting Started with Kotlin for .NET Developers](https://hadihariri.com/2019/08/16/getting-started-with-kotlin-for-net-developers/)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [Awesome Kotlin - A curated list of awesome Kotlin related stuff Inspired by awesome-java](https://github.com/KotlinBy/awesome-kotlin)
 * [Ask HN: Has anyone here programmed in Kotlin? What do you think about it?](https://news.ycombinator.com/item?id=9946527)
@@ -62,7 +60,6 @@
   * [코틀린 익명 함수 (Anonymous Function)](https://brunch.co.kr/@mystoryg/25)
 * [Kotlin, AWS 그리고 레이니스트와 함께라면 육군훈련소에서도 외롭지 않아](https://medium.com/rainist-engineering/writing-aws-lambda-function-in-kotlin-b3faf3f55777)
 * [Create React Kotlin App](https://github.com/JetBrains/create-react-kotlin-app)
-* [React’s TicTacToe tutorial, in Kotlin/JavaFX](https://blog.plan99.net/reacts-tictactoe-tutorial-in-kotlin-javafx-715c75a947d2)
 * [My favorite examples of functional programming in Kotlin](https://medium.freecodecamp.org/my-favorite-examples-of-functional-programming-in-kotlin-e69217b39112)
 * [Architecture for Multiplatform native development in Kotlin](https://blog.kotlin-academy.com/architecture-for-multiplatform-development-in-kotlin-cc770f4abdfd)
 * [MVP Architecture with Kotlin — Dagger 2, Retrofit, RxAndroid and DataBinding](https://proandroiddev.com/mvp-architecture-with-kotlin-dagger-2-retrofit-rxandroid-and-databinding-17bffe27393d)
@@ -209,4 +206,8 @@
   * [Spring WebFlux와 Kotlin으로 만드는 Todo 서비스 – 테스트 슬라이스 적용하기](https://www.popit.kr/spring-webflux와-kotlin으로-만드는-todo-서비스-테스트-슬라이스-적)
 
 # Tutorial
+* [Kotlin Course - Tutorial for Beginners](https://www.youtube.com/watch?v=F9UC9DY-vIU)
+* [Getting Started with Kotlin for .NET Developers](https://hadihariri.com/2019/08/16/getting-started-with-kotlin-for-net-developers/)
 * [새로워진 Android Kotlin 코드랩 과정을 만나보세요!](https://developers-kr.googleblog.com/2019/10/new-android-kotlin-codelab-courses-are.html)
+* [자바 친화적 코틀린 코드 작성하기](https://developers-kr.googleblog.com/2019/11/how-to-write-java-friendly-kotlin-code.html)
+* [React’s TicTacToe tutorial, in Kotlin/JavaFX](https://blog.plan99.net/reacts-tictactoe-tutorial-in-kotlin-javafx-715c75a947d2)
