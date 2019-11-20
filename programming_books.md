@@ -1084,6 +1084,7 @@ Programming Books
 * (NOT YET) [자연어 텍스트 처리를 통한 검색 시스템 구축 아파치 솔라, 루씬, OpenNLP 등 오픈소스 활용](http://acornpub.co.kr/book/taming-text)
 * (NOT YET) [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action)
 * (NOT YET) [한국어 임베딩 자연어 처리 모델의 성능을 높이는 핵심 비결 Word2Vec에서 ELMo, BERT까지](http://acornpub.co.kr/book/korean-embedding)
+* (NOT YET) [파이썬으로 배우는 응용 텍스트 분석](https://jpub.tistory.com/976) 사이킷런, NLTK, Gensim, spaCy, NetworkX, Yellowbrick
 
 # NoSQL
 
@@ -1368,6 +1369,9 @@ Programming Books
 * (NOT YET) [R로 배우는 텍스트마이닝](https://jpub.tistory.com/924)
 * (NOT YET) [R을 이용한 퀀트 투자 포트폴리오 만들기](https://jpub.tistory.com/946)
 * (NOT YET) [R을 이용한 조건부과정분석 - 매개분석, 조절분석 및 조절된 매개분석](http://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=4467)
+
+# Rust
+* (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
 
 # Scala
 
