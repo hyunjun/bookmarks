@@ -722,8 +722,7 @@
       * Spark는 각 Executor가 수행해야 할 작업을 Task라는 단위로 관리
       * RDD에 가해지는 연산을 상호 의존성에 따라 묶은 뒤 (Logical Planning) 여기에 최적화 룰을 적용해서 실제로 Executor가 처리해야 할 Task의 형태로 생성 (Physical Planning)
       * 이걸 내부 queue에 넣어 뒀다가 순차적으로 Executor에 보내서 처리
-      * 이 과정을 좀 더 구체적으로 설명하자면, Driver 프로세스가 작업 루틴과 작업 대상 위치를 TaskDescription 객체로 만든 뒤 Serialize를 해서 Worker
-프로세스에 네트워크 상으로 전송
+      * 이 과정을 좀 더 구체적으로 설명하자면, Driver 프로세스가 작업 루틴과 작업 대상 위치를 TaskDescription 객체로 만든 뒤 Serialize를 해서 Worker 프로세스에 네트워크 상으로 전송
       * 문제는 Task당 100kb를 넘으면 "contains a task of very large size warning" 경고 발생
       * 이 제한은 소스코드 안에 하드 코딩되어 있어 변경 불가능
       * broadcast 기능을 사용할 경우 상황은 더 악화
@@ -763,6 +762,7 @@
   * 딥러닝 라이브러리인 BigDL을 사용하여 모델을 학습하고 평가하는 방법을 보여주는 간단한 자습서
 * [Use your favorite Python library on PySpark cluster with Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/use-your-favorite-python-library-on-pyspark-cluster-with-cloudera-data-science-workbench/) Python 라이브러리를 사용하는 PySpark 작업을 작성하는 방법
 * [Install Spark on Windows (PySpark)](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
+* [pyspark 로컬 설치](https://jaeyung1001.tistory.com/87)
 * [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
 * **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
   * [PySpark-Boilerplate](https://github.com/ekampf/PySpark-Boilerplate)
