@@ -526,6 +526,7 @@ Docker
 # [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+* [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
