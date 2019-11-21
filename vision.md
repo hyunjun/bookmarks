@@ -443,6 +443,8 @@ Vision
 * [이미지 프로세싱 & 컴퓨터 시각화 16부 - Video (Introduction)](https://blog.naver.com/zeus05100/221604897388)
 * [이미지 프로세싱 & 컴퓨터 시각화 17부 - Video (drawing)](https://blog.naver.com/zeus05100/221612582065)
 * [이미지 프로세싱 & 컴퓨터 시각화 18부 - Object Detection (Template Matching)](https://blog.naver.com/zeus05100/221655525721)
+* [이미지 프로세싱 & 컴퓨터 시각화 19부 - Corner Detection (1부)](https://blog.naver.com/zeus05100/221714167899)
+* [이미지 프로세싱 & 컴퓨터 시각화 20부 - Corner Detection (2부)](https://blog.naver.com/zeus05100/221714167899)
 * [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 * [Images Comparison with Opencv and Python](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)
 * [OpenCV 3.4 with Python 3 Tutorial](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa__vnifNA744Cz-q)
