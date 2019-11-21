@@ -1492,6 +1492,7 @@ Deep Learning
 * [simple-neural-networks/simple_nn.py](https://github.com/positive235/simple-neural-networks/blob/master/simple_nn.py)
 * [뉴럴 네트워크와 딥러닝](https://sihyeon-kim.github.io/neural-networks-and-deep-learning-korean/index.html)
 * [Hacking Neural Networks: A Short Introduction](https://github.com/Kayzaks/HackingNeuralNetworks)
+* [Teaching a neural network to use a calculator](https://reiinakano.com/2019/11/12/solving-probability.html)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
