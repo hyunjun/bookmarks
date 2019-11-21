@@ -20,6 +20,7 @@ C++
 * [Google for Education](https://developers.google.com/edu/c++/)
 * [기억해두세요, 최고의 C++ 강의 5개](http://www.bloter.net/archives/271078)
 * [따라하며 배우는 C++ 강의 시리즈](https://blog.naver.com/atelierjpro/221308789543)
+* [모두의 코드 씹어먹는 C++ 강좌 계획](https://modoocode.com/135)
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines)
 * [C++ 핵심 가이드라인 한글화 프로젝트](https://github.com/CppKorea/CppCoreGuidelines)
