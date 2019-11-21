@@ -2495,6 +2495,8 @@ Javascript
 * [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 * [구글, 애플 인앱 영수증 결제 검증 웹 서비스 리뉴얼](https://blog.totu.dev/2019/09/16/renew-receipt-validation/)
 * [TypeScript Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
+* [How Typescript Can Power Design Systems | Isha Kasliwal | JSConf Korea 2019](https://www.youtube.com/watch?v=hbsIOHktvfo)
+  * [TypeScript로 디자인 시스템에 날개 달기](https://hewonjeong.github.io/how-to-typescript-can-power-design-systems/)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 
