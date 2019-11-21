@@ -72,12 +72,14 @@ Programming Books
   * [『OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝』 Python 예제 코드](https://github.com/sunkyoo/opencv4cvml/tree/master/python)
 * (NOT YET) [파이썬으로 만드는 OpenCV 프로젝트, 간단한 영상 입출력부터 머신러닝까지](https://blog.xcoda.net/101)
   * [파이썬으로 만드는 OpenCV 프로젝트](https://blog.insightbook.co.kr/2019/04/03/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-opencv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
+* (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
 * (NOT YET) [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
 * (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
+* (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
 
 # Agile Scrum
 
@@ -448,6 +450,7 @@ Programming Books
 * (NOT YET) [신경망과 심층학습: 뉴럴 네트워크와 딥러닝 교과서](https://jpub.tistory.com/957)
   * [번역서 '신경망과 심층 학습' 출간 소식 및 근황](http://occamsrazr.net/tt/357)
 * (NOT YET) [파이썬을 활용한 딥러닝 전이학습 Transfer Learning으로 빠르고 손쉽게 구축하는 고급 딥러닝 모델](https://wikibook.co.kr/transfer-learning/)
+* (NOT YET) [기초부터 시작하는 강화학습/신경망 알고리즘 - AI는 어떻게 게임을 할까](https://wikibook.co.kr/rlnn/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -570,6 +573,7 @@ Programming Books
   * 문004.73 줄239ㄱ
 * [케라스로 구현하는 고급 딥러닝 알고리즘 - 딥러닝 기법, 오토 인코더, GAN, 변분 오토인코더, 심층 강화학습, 정책 경사 기법 적용하기](https://wikibook.co.kr/keras)
 * (NOT YET) [미술관에 GAN 딥러닝 실전 프로젝트 GAN으로 쓰기, 그리기, 게임하기, 작곡하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B9882286651)
+* (NOT YET) [실전! GAN 프로젝트 - 텐서플로와 케라스를 이용한 차세대 생성적 적대 신경망 모델 구축](https://wikibook.co.kr/practical-gan/)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -1064,6 +1068,7 @@ Programming Books
 * (NOT YET) [함수와 미적분을 기초부터 응용까지 프로그래머를 위한 기초 해석학](https://www.gilbut.co.kr/book/view?bookcode=BN002349)
 * (NOT YET) [파이썬으로 풀어보는 수학 코드로 통계, 확률, 미적분과 같은 다양한 수학 탐험하기](http://acornpub.co.kr/book/doing-math-with-python)
 * (NOT YET) [소문난 명강의 : 김도형의 데이터 사이언스 스쿨(수학 편)](http://www.hanbit.co.kr/store/books/look.php?p_code=B3111220544) 아이파이썬(IPython), 사이킷런(Scikit-Learn), 맷플롯립(matplotlib), 넘파이(NumPy), 시본(seaborn), 사이파이(SciPy), 피지엠파이(pgmpy)
+* (NOT YET) [엔지니어를 위한 선형대수 - 철저한 증명을 통해 깊고 확실하게 이해하는 선형대수학](https://wikibook.co.kr/linear-algebra/)
 
 # Network
 
@@ -1086,6 +1091,7 @@ Programming Books
 * (NOT YET) [Natural Language Processing in Action Understanding, analyzing, and generating text with Python](https://www.manning.com/books/natural-language-processing-in-action)
 * (NOT YET) [한국어 임베딩 자연어 처리 모델의 성능을 높이는 핵심 비결 Word2Vec에서 ELMo, BERT까지](http://acornpub.co.kr/book/korean-embedding)
 * (NOT YET) [파이썬으로 배우는 응용 텍스트 분석](https://jpub.tistory.com/976) 사이킷런, NLTK, Gensim, spaCy, NetworkX, Yellowbrick
+* (NOT YET) [파이썬으로 다시 배우는 핵심 고등 수학 - 수포자 프로그래머를 위한 손에 잡히는 기초 수학](https://wikibook.co.kr/python-math/)
 
 # NoSQL
 
