@@ -364,6 +364,7 @@ NLP
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
 * [exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformers Models](http://exbert.net/)
+* [More on Transformers: BERT와 친구들](https://docs.google.com/presentation/d/1OeDO-d4hxQ7OuhbpxJjsMGVfLWakSGIqnhu_IvQbxqQ)
 * [GLUE: 벤치마크를 통해 BERT 이해하기](https://huffon.github.io/2019/11/16/glue/)
 * [Korean ALBERT](https://github.com/MrBananaHuman/KalBert)
 * [KoreanCharacterBert - Korean BERT model using character tokenizer](https://github.com/MrBananaHuman/KoreanCharacterBert)
@@ -539,6 +540,8 @@ NLP
 * [Plato Research Dialogue System](https://github.com/uber-research/plato-research-dialogue-system)
   * [Introducing the Plato Research Dialogue System: A Flexible Conversational AI Platform](https://eng.uber.com/plato-research-dialogue-system/)
 * [인공지능 챗봇과 딥러닝 자연어 처리](https://github.com/elymas/ai_chatbot_class)
+* [Not another Conversational AI report](https://medium.com/wluper/not-another-conversational-ai-report-4a094337e6f1)
+* [How do Dialogue Systems decide what to say or which actions to take?](https://medium.com/wluper/how-do-dialogue-systems-decide-what-to-say-or-which-actions-to-take-b32ca223aff1)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
