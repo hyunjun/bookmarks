@@ -174,6 +174,7 @@ Algorithm
 * [Python 100제](https://www.notion.so/6ee1860ce29a41bc8eb6b9cfa7d7f06c)
 * [Optimal Stopping - 최고의 선택 문제](https://nbviewer.jupyter.org/gist/FinanceData/e5300d99301ffbee54d741d0e62ac361)
 * [수학과 함께 복잡한 문제를 단순하게 만들자!](https://evan-moon.github.io/2019/10/30/make-simple-with-math/)
+* [평방 분할 (Sqrt Decompositon) : 루트로 쪼개보자](https://codingdog.tistory.com/entry/%ED%8F%89%EB%B0%A9-%EB%B6%84%ED%95%A0-Sqrt-Decompositon-%EB%A3%A8%ED%8A%B8%EB%A1%9C-%EC%AA%BC%EA%B0%9C%EB%B3%B4%EC%9E%90)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
