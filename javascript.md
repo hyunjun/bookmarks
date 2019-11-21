@@ -2238,6 +2238,7 @@ Javascript
   * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
   * [nextjs-starter](https://github.com/myungjaeyu/nextjs-starter)
   * [리액트(React)와 찰떡 궁합 Next.js](https://www.youtube.com/watch?v=jg2ha2RIWN0)
+  * [앱 내 Webview 개발기](https://hyperconnect.github.io/2019/10/25/webview-history.html) Django + React에서 Next.js + Express로 변경하는 이야기
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
