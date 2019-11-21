@@ -2189,7 +2189,7 @@ Javascript
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
 * [Flexbox.io](http://flexbox.io)
-* Formik
+* [Formik - Build forms in React, without the tears](https://jaredpalmer.com/formik/)
   * [React Form Validation with Formik and Yup](https://hackernoon.com/react-form-validation-with-formik-and-yup-8b76bda62e10)
 * Framer X [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/내가-framer-x에-미쳐있는-이유-framer-x-6개월-사용기-a3a400eddca)
 * [Gatsby - Transform plain text into dynamic blogs and websites using the latest web technologies](https://github.com/gatsbyjs/gatsby)
