@@ -2208,6 +2208,8 @@ CVPR2016)
 * [RLKorea Unity ML-agents Tutorial Project](https://github.com/reinforcement-learning-kr/Unity_ML_Agents)
 * [Stable Baselines RL tutorial - JNRR19](https://github.com/araffin/rl-tutorial-jnrr19)
 * [RL Bootcamp](https://github.com/reinforcement-learning-kr/rl_bootcamp)
+* [Scalable Efficient Deep-RL - A more efficient way to scale up reinforcement learning algorithms](https://medium.com/towards-artificial-intelligence/scalable-efficient-deep-rl-ea67c0a5f4b2)
+  * [SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture](https://github.com/google-research/seed_rl)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
