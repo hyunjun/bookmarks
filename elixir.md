@@ -72,6 +72,8 @@ Elixir
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
 * [phoenix - A productive web framework that does not compromise speed and maintainability](http://www.phoenixframework.org/)
   * [Phoenix로 블로그 웹 애플리케이션 만들기 (for Rails developers)](http://guruble.com/phoenix-%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ec%9b%b9-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0-for-rails-developers/)
+    * [피닉스 프레임워크로 블로그 웹 애플리케이션 만들기](https://ppss.kr/archives/149596)
+    * [PhoenixBlog](https://github.com/jhsbeat/Phoenix_blog)
   * [Phoenix Presence를 이용한 채팅 애플리케이션 만들기](http://guruble.com/phoenix-presence%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%9c-%ec%b1%84%ed%8c%85-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%a7%8c%eb%93%a4%ea%b8%b0/)
   * [Phoenix 프레임워크의 Channel 이해하기](http://guruble.com/phoenix-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac%ec%9d%98-channel-%ec%9d%b4%ed%95%b4%ed%95%98%ea%b8%b0/)
   * [Edeliver와 Distillery를 이용한 Elixir/Phoenix 애플리케이션의 배포](http://guruble.com/edeliver%ec%99%80-distillery%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%9c-elixirphoenix-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98%ec%9d%98-%eb%b0%b0%ed%8f%ac/)
@@ -82,6 +84,5 @@ Elixir
     * [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1)
     * [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
   * [Installing Elixir and Phoenix](https://hackernoon.com/installing-elixir-and-phoenix-1a35e82c58bf)
-  * [피닉스 프레임워크로 블로그 웹 애플리케이션 만들기](https://ppss.kr/archives/149596)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
