@@ -394,6 +394,7 @@ App
     * [LeetCode - Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
     * [4분코딩 2019 최고의 에디터 비주얼 스튜디오 코드(Visual Studio Code)](https://www.youtube.com/watch?v=iNXTXefTsrs)
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
+    * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
     * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
     * [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
     * [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
