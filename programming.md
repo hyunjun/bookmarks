@@ -704,6 +704,7 @@ Programming
 * [StreamAlert - a serverless, real-time data analysis framework which empowers you to ingest, analyze, and alert on data from any environment, using data sources and alerting logic you define](https://www.streamalert.io/)
 * [GOTO 2019 • Serverless: Five Key Things you need to Know • Gojko Adzic](https://www.youtube.com/watch?v=ovRt6O7q1rA)
 * [Real world serverless - architecture, patterns and lessons learned by David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
+* [MASOCON 2019 Serverless - Kimminjun](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
