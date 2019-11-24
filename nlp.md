@@ -1313,6 +1313,7 @@ NLP
 * [SKC_MachineTranslation 강의자료](https://github.com/Parkchanjun/SKC_MachineTranslation)
 * [토크ON 58차. 기계번역 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 * [Unsupervised Word Segmentation for Neural Machine Translation and Text Generation](https://github.com/rsennrich/subword-nmt)
+* [Combined Quality Estimation and Automatic Post Editing in Machine Translation (기계번역 품질예측과 사후처리의 기술 융합)](https://blog.naver.com/bcj1210/221714284644)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
