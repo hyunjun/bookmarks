@@ -96,6 +96,7 @@ Linux
 * [11 Reasons You Should Learn to Use Linux](https://www.maketecheasier.com/reasons-learn-use-linux/)
 * [Linux에서 터미널, 콘솔, 쉘, tty, pty, pts 차이 정리](https://jootc.com/p/20170306208/)
 * [Learn and use fork(), vfork(), wait() and exec() system calls across Linux Systems](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)
+* [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
