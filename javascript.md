@@ -25,6 +25,7 @@ Javascript
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
   * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+* [**모던 JavaScript 튜토리얼 - 모던 JavaScript 튜토리얼은 상세한 설명과 함께 JavaScript 기본 개념 및 고급 개념을 다룹니다**](https://ko.javascript.info/)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
@@ -2496,6 +2497,7 @@ Javascript
 * [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 * [구글, 애플 인앱 영수증 결제 검증 웹 서비스 리뉴얼](https://blog.totu.dev/2019/09/16/renew-receipt-validation/)
 * [TypeScript Basics](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU)
+* [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
 * [How Typescript Can Power Design Systems | Isha Kasliwal | JSConf Korea 2019](https://www.youtube.com/watch?v=hbsIOHktvfo)
   * [TypeScript로 디자인 시스템에 날개 달기](https://hewonjeong.github.io/how-to-typescript-can-power-design-systems/)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
