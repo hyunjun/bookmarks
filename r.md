@@ -453,6 +453,8 @@ R
   * [소설 분석, googleLanguageR 소개](https://junhewk.github.io/text/2017/10/05/googlelanguageR-and-novel-analysis/)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
+* [h3jsr - Access Uber's h3-js library via R and V8 - https://uber.github.io/h3/#/documentation/overview/use-cases https://obrl-soil.github.io/h3jsr ](https://github.com/obrl-soil/h3jsr)
+  * [예제 : R에서 Uber H3를 이용해보자](https://blog.naver.com/hancury/221716636489)
 * [h5 - An Object Oriented Interface to HDF5](https://cran.r-project.org/web/packages/h5/vignettes/h5-Intro.html)
 * has_java [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자)
 * [installr - Functions for installing softwares from within R](https://github.com/talgalili/installr)
