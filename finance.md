@@ -15,6 +15,7 @@ Finance
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
 * [Investment and deep learning](https://www.slideshare.net/NaverEngineering/investment-and-deep-learning)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
+* [인공지능(AI) 삼성전자 주가예측 프로그램](http://blog.daum.net/kimgyunghyun/2533)
 * [주식시장 리버스 엔지니어링 하기](http://www.popit.kr/%EC%A3%BC%EC%8B%9D%EC%8B%9C%EC%9E%A5-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%98%EA%B8%B0/)
 * [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [ML + 주식 삽질기](https://docs.google.com/presentation/d/1GqpoxDd-AiBJ_FkhqUC8J-7iOijDZqJv7DVucRNFnlk/edit#slide=id.p)
