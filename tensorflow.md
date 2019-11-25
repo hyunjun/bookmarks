@@ -487,6 +487,7 @@ TensorFlow
 * [텐서플로2 케라스와 케라스, 코드로 비교해 봤습니다!](https://www.youtube.com/watch?v=zRQMCLTuxes)
 * [TensorFlow 2.0 출시! 무엇이 달라졌을까요?](https://www.youtube.com/watch?v=ca2eJqUiK7E)
 * [Introduction to TensorFlow 2.0: Easier for beginners, and more powerful for experts (TF World '19)](https://www.youtube.com/watch?v=5ECD8J3dvDQ)
+* [텐서플로2로 개편했습니다! 파이썬 머신러닝 완전정복 - 마라톤 기록예측 프로젝트](https://www.youtube.com/watch?v=N6k_j1MsT_M)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
