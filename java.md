@@ -142,6 +142,7 @@ Java
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
   * [Java, Android에서 날짜 표현할 때 Calendar, Date 그리고 SimpleDateFormat](https://developer88.tistory.com/16)
   * [양력에서 음력 변환 - ChineseCalendar 클래스가 맞지 않는 이유, 한국과 중국의 음력 차이](https://blog.naver.com/birdparang/221445233118)
+  * [DateTimeFormatter에서 년도표시에 yyyy대신 uuuu를 사용해야하는 이유?](https://blog.voidmainvoid.net/288)
 * File
   * Processing large files efficiently in Java
     * [part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
