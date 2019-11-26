@@ -80,7 +80,6 @@ Programming Books
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
 * (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
 * (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
-* (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
 
 # Agile Scrum
 
@@ -717,6 +716,10 @@ Programming Books
 * (NOT YET) [예제로 배우는 블록체인' 출간 소식](http://occamsrazr.net/tt/356)
 * (NOT YET) [코어 이더리움 프로그래밍](http://jhrogue.blogspot.com/2019/03/blog-post_23.html)
 * (NOT YET) [밑바닥부터 시작하는 비트코인](http://www.hanbit.co.kr/store/books/look.php?p_code=B2663064363)
+
+# Functional programming
+* (NOT YET) [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
+* (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
 
 # Git
 
