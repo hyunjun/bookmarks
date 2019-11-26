@@ -51,6 +51,7 @@ iOS
 * [뷰 컨트롤러 라이프싸이클](http://ohgyun.com/743)
 * [서비스-지향 앱델리게이트](http://blog.canapio.com/91)
 * [기묘한 에러메시지 "Unable to insert COPY_SEND"](http://seorenn.blogspot.com/2017/05/ios-unable-to-insert-copysend.html)
+* [apple.com/swift/playgrounds](https://www.apple.com/swift/playgrounds/)
 * [Playground 100% 활용하기](http://news.realm.io/kr/news/swift-playground/)
 * [iOS 소스 코드로 UWP(유니버설 윈도우 플랫폼) 앱 만들기](http://news.realm.io/kr/news/ios-uwp-app/)
 * [RealmContent - Realm 기반의 오픈 소스 CMS 컴포넌트](http://news.realm.io/kr/news/marin-todorov-realmcontent-open-source-cms/)
