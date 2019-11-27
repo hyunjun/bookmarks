@@ -250,6 +250,7 @@ Vision
 * [ICCV 2019 Review 2 Best Paper SinGAN： Learning a Generative Model from a Single Natural Image 리뷰](https://hoya012.github.io/blog/ICCV-2019_review_2/)
 * [ICCV 2019 에서 진행된 구글의 발표들을 소개해드립니다](https://developers-kr.googleblog.com/2019/11/google-at-iccv-2019.html)
 * [ICCV 2019 REVIEW CDM](https://www.slideshare.net/DongminChoi6/iccv-2019-review-cdm)
+* [ICCV 2019](https://www.notion.so/ICCV-2019-41b81ab87c20488899dfbf88e64af24b)]
 * [FreeAnchor](https://www.slideshare.net/BrianKim244/freeanchor)
 
 # Book
