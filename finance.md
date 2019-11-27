@@ -28,6 +28,7 @@ Finance
 * [한국 Trading API](https://igotit.tistory.com/entry/%EC%A6%9D%EA%B6%8C%EC%82%AC-API-DMA%EC%A0%95%EB%A6%AC)
 * [토스가 현대카드를 연동하는 방법에 동의하지 않습니다](https://blog.outsider.ne.kr/1442)
 * [JP MORGAN의 DEEP HEDGING](https://smallake.kr/?p=28006)
+* [JP MORGAN의 DEEP HEDGING 둘째](https://smallake.kr/?p=28132)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
