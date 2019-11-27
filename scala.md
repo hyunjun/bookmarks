@@ -441,6 +441,7 @@ Scala
   * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
   * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
   * [Futures Made Easy with Scala](https://medium.freecodecamp.org/futures-made-easy-with-scala-da1beb3bb281)
+  * [Unsucking Error Handling with Futures](https://www.slideshare.net/GaryCoady/unsucking-error-handling-with-futures)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
