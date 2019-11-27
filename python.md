@@ -3066,6 +3066,7 @@ Python
 * [Binning Data with Pandas qcut and cut](https://pbpython.com/pandas-qcut-cut.html)
 * [Cleaning Up Currency Data with Pandas](https://pbpython.com/currency-cleanup.html)
 * [상관관계 분석(Pandas) & Heatmap 그리기](https://blog.naver.com/kiddwannabe/221205309816)
+* [Tips for Selecting Columns in a DataFrame](https://pbpython.com/selecting-columns.html)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
