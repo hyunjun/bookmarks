@@ -2500,6 +2500,7 @@ Javascript
 * [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook)
 * [How Typescript Can Power Design Systems | Isha Kasliwal | JSConf Korea 2019](https://www.youtube.com/watch?v=hbsIOHktvfo)
   * [TypeScript로 디자인 시스템에 날개 달기](https://hewonjeong.github.io/how-to-typescript-can-power-design-systems/)
+* [Typescript Interface Functions](https://medium.com/@jeffbutsch/typescript-interface-functions-c691a108e3f1)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 
