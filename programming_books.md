@@ -13,6 +13,7 @@ Programming Books
   * [한빛미디어](https://www.mindmeister.com/523584665/_?fullscreen=1)
 * [bigbook.or.kr](http://www.bigbook.or.kr/)
 * [thebook.io](https://thebook.io/) 길벗
+* [SW교육도서 소개](http://hicoding.kr/?page_id=38623) 초등학생용이지만 수준이 상당함
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
