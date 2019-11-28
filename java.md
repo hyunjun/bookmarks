@@ -167,6 +167,7 @@ Java
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/28)
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/29)
   * [Java UDP Client Server Program - UDP 프로그래밍](https://woolbro.tistory.com/30)
+  * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
 * NIO
   * **[NIO 정리](https://jungwoon.github.io/java/2019/01/14/NIO/)** 예제와 함께 전반적으로 잘 정리
 * Object
