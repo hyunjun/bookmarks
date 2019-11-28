@@ -884,6 +884,8 @@ TensorFlow
   * 현재는 S4TF를 위해서 개발, Python 및 다른 언어로 지원 확장 및 IDE에서 지원가능한 형태로 포팅 예정
 * TF-Ranking
   * [Introducing TF-Ranking - Google’s New Framework for Solving Ranking Problems](https://towardsdatascience.com/introducing-tf-ranking-f94433c33ff)
+* TFX TensorFlow Extended
+  * [Introducing the TFX interactive notebook](https://blog.tensorflow.org/2019/11/introducing-tfx-interactive-notebook.html)
 * [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)
 * [ZhuSuan - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow http://zhusuan.readthedocs.io](https://github.com/thu-ml/zhusuan)
 
