@@ -635,6 +635,7 @@ Interview
 # Salary 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
 * [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
+* [외국계 연봉협상 기본급 이외에 협상할 수 있는 것들](https://www.youtube.com/watch?v=xiYOJ-tHe8s)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
 * [Ten Things Never, Ever To Say In A Salary Negotiation](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizryan/2018/02/11/ten-things-never-ever-to-say-in-a-salary-negotiation/)
 * **[How not to bomb your offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)** salary negotiation
