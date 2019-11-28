@@ -37,6 +37,7 @@ Presentation
 * [손정의회장의 탁월한 커뮤니케이션 능력](https://estimastory.com/2019/08/15/sonsvf2/)
 * [팀원 성장시키기 : 발표 컨설팅](https://zzsza.github.io/diary/2019/10/20/helping-presentation/)
 * [AZ-5 button - Something that is believed to resolve a problem but actually only exacerbates it](https://www.urbandictionary.com/define.php?term=AZ-5%20button) Chernobyl에 나온 위급상황에 누르는 버튼. 실제로는 더 악화시켜서 폭발시킴. 비유에 사용가능할 듯
+* [프레젠테이션을 잘하는 법](https://ppss.kr/archives/207368)
 
 # Icons, Images
 * [thenounproject.com](http://thenounproject.com/) icons for everything
