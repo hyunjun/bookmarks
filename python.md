@@ -2632,6 +2632,7 @@ Python
   * [RxPY 소개 및 시작하기](http://hamait.tistory.com/886)
   * [김솔: Salt Stack과 RxPY로 살펴보는 파이선 비동기 프로그래밍](https://www.youtube.com/watch?v=GlAe4JJ28Rc)
     * [Python Asynchronous Programming with Salt Stack (tornado, asyncio) and RxPY](https://kstreee.github.io/talk/pycon2017-skim.pdf)
+  * [Reactive Programming in Python](https://auth0.com/blog/reactive-programming-in-python)
 * [Sake - A self-documenting build automation tool](http://tonyfischetti.github.io/sake/)
 * [schedule - Python job scheduling for humans](https://github.com/dbader/schedule)
 * [schema - a library for validating Python data structures](https://pypi.python.org/pypi/schema)
