@@ -520,6 +520,7 @@ Javascript
 * [패턴 매칭(Pattern Matching) in JavaScript](https://dev-momo.tistory.com/entry/패턴-매칭Pattern-Matching-in-JavaScript)
 * [Get started with Web Bundles](https://web.dev/web-bundles/)
 * [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
+* [닌자 코드](https://ko.javascript.info/ninja-code) 하면 안 되는 코드 작성 방식 설명
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
