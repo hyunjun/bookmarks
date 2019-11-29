@@ -112,6 +112,7 @@ Java
 * [Java Almanac](https://github.com/marchof/java-almanac) SDK version간 차이 정리
 * [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491) 여러가지 java library들을 사용해 기능 개발 및 개선하는 이야기
 * [How to build a min grocery app with Java Arrays](https://devgrill.com/how-to-build-a-min-grocery-app-with-java-arrays/)
+* [Java naming strategy (자바 명명 전략)](https://www.slideshare.net/debop/java-naming-strategy)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
