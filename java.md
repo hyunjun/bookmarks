@@ -120,6 +120,7 @@ Java
 * [The Good, the Bad and the Ugly of Java API design. Miro Cupak, Dnastack](https://www.youtube.com/watch?v=bVNZMEvplY4)
 * [왜 자바에서 final 멤버 변수는 관례적으로 static을 붙일까?](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
 * [Miro Cupak - The Good, the Bad and the Ugly of Java API design](https://www.youtube.com/watch?v=GGahNwIkAeA)
+* [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
