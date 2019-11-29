@@ -818,6 +818,7 @@ Programming
 * [코드리뷰의 진짜 목적은 따로있다](https://blog.logi-spot.com/코드리뷰의-진짜-목적은-따로있다/)
 * [애자일과 소프트웨어 장인정신 - 코드 리뷰를 왜 해야 하나?](https://brunch.co.kr/@cleancode/39)
 * [Clean Code: The Next Chapter by Victor Rentea](https://www.youtube.com/watch?v=wY_CUkU1zfw) 실제 코드로 presentation
+* [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
