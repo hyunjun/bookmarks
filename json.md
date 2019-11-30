@@ -99,7 +99,9 @@ Json
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [jsonplaceholder - Fake Online REST API for Testing and Prototyping Serving ~350M requests per month](http://jsonplaceholder.typicode.com/)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
-* [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io](https://github.com/Julian/jsonschema)
+* [JSON Schema](https://json-schema.org/)
+  * [json-schema.org/implementations.html#validators](https://json-schema.org/implementations.html#validators)
+    * [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io](https://github.com/Julian/jsonschema)
 * [jsonschema.net](http://jsonschema.net)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [json-to-go](https://mholt.github.io/json-to-go/) json to go struct
