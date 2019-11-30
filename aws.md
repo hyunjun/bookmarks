@@ -591,6 +591,7 @@ AWS
   * [Cleaning up AWS with Boto3](http://blog.ranman.org/cleaning-up-aws-with-boto3/)
   * [파이썬으로 AWS S3 버킷(Bucket) 만들기](https://imasoftwareengineer.tistory.com/98)
 * cdK
+  * [cdkworkshop.com](https://cdkworkshop.com/)
   * [AWS Cloud Development Kit (CDK) Is Generally Available, Enhancing Coding Cloud Infrastructure](https://www.infoq.com/news/2019/07/amazon-aws-cdk-ga/)
   * [AWS Cloud Development Kit(CDK) – TypeScript 및 Python용 정식 버전 제공](https://aws.amazon.com/ko/blogs/korea/aws-cloud-development-kit-cdk-typescript-and-python-are-now-generally-available)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
