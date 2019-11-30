@@ -2495,6 +2495,7 @@ Javascript
 * [리액트, 타입스크립트 시작하기](http://jeonghwan-kim.github.io//dev/2019/06/25/react-ts.html)
 * [React프로젝트에 타입스크립트 개발환경 구축하기](https://awesomezero.com/post/TSSetting/)
 * [Typescript Tips Series: Proper Typing of react-redux Connected Components](https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d)
+* [React Render Props in TypeScript](https://medium.com/@jrwebdev/react-render-props-in-typescript-b561b00bc67c)
 * [10 Advanced TypeScript Questions For An Interview — With Answers](https://medium.com/hackernoon/10-advanced-typescript-questions-for-an-interview-with-answers-6f0513b1688e)
 * [Typescript가 두려운 당신에게](https://blog.scienceoflove.co.kr/why-typescript/)
 * [구글, 애플 인앱 영수증 결제 검증 웹 서비스 리뉴얼](https://blog.totu.dev/2019/09/16/renew-receipt-validation/)
