@@ -764,6 +764,7 @@ Javascript
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
+* [GraphQL이 뭔가요?](https://www.youtube.com/watch?v=EkWI6Ru8lFQ)
 * [백엔드 개발자가 빨리 퇴근하는법](https://engineering.huiseoul.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B9%A8%EB%A6%AC-%ED%87%B4%EA%B7%BC%ED%95%98%EB%8A%94%EB%B2%95-23168f6a4080)
 * [백엔드개발자가 빨리 퇴근하는법 2탄](https://engineering.huiseoul.com/%EB%B0%B1%EC%97%94%EB%93%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B9%A8%EB%A6%AC-%ED%87%B4%EA%B7%BC%ED%95%98%EB%8A%94%EB%B2%95-2%ED%83%84-6634f685010e)
 * [Introduction to GraphQL (or How I Learned to Stop Worrying about REST APIs)](https://www.slideshare.net/AhmadHafizIsmail/introduction-to-graphql-or-how-i-learned-to-stop-worrying-about-rest-apis)
