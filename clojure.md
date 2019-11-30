@@ -632,6 +632,8 @@ Clojure
 * jackdaw
   * [jackdaw-example](https://github.com/eunmin/jackdaw-example)
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
+* [Janet - a functional and imperative programming language](https://janet-lang.org/)
+  * [janet - A dynamic language and bytecode vm](https://github.com/janet-lang/janet)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
