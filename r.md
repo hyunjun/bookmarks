@@ -410,6 +410,7 @@ R
   * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
 * [Catterplots: Plots with cats](https://www.r-bloggers.com/catterplots-plots-with-cats/)
 * [CausalImpact - An R package for causal inference using Bayesian structural time-series models](https://google.github.io/CausalImpact/CausalImpact.html)
+  * [An introduction to Causal inference](https://www.r-bloggers.com/an-introduction-to-causal-inference/)
 * caret
   * [R에서 caret package 를 이용한 데이터 학습 간편화 전략](https://lovetoken.github.io/r/2017/04/23/caret_package.html)
 * [clipr - R functions for reading and writing from the system clipboard](https://github.com/mdlincoln/clipr)
