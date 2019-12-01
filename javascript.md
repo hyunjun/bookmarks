@@ -610,6 +610,7 @@ Javascript
 * [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 * [Change Detection 중심 Angular 최적화 방법](https://medium.com/coinone-official/change-detection-중심-angular-최적화-방법-957962ba3d2e)
 * [3 ways to communicate between Angular components](https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb)
+* [카카오커머스를 지탱하는 Angular](https://tech.kakao.com/2019/11/27/kakao-commerce-frontend-angular/)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
