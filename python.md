@@ -446,6 +446,7 @@ Python
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * **[Iterables vs. Iterators vs. Generators](https://nvie.com/posts/iterators-vs-generators/)** 서로의 관계를 그림과 함께 잘 설명
 * [30 Helpful Python Snippets You Should Learn Today](https://morioh.com/p/271bc88c0100)
+* [Python — From Intermediate to Superhero](https://medium.com/@negoiddfelix/python-from-intermediate-to-superhero-1a86e518bb77) list comprehension, lambda, map, filter, reduce, locals, globals, context manager, decorator, generator
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
