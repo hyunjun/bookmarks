@@ -126,6 +126,7 @@
 * [Why is Rust slightly slower than C?](https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md)
 * [What are the benchmarks of Golang vs. Rust?](https://www.quora.com/What-are-the-benchmarks-of-Golang-vs-Rust)
 * [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
+* [Functional Aspect of Rust](https://medium.com/@knoldus/functional-aspect-of-rust-a27e73fdf813)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
