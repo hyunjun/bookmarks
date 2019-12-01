@@ -125,7 +125,6 @@ AWS
 * [회사 화분에 주기적으로 물주기 (AWS IoT 버튼 활용 사례)](https://medium.com/n42-corp/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
 * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
-* [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
 * [awsreinvent2017](https://www.slideshare.net/AmazonWebServices/tagged/awsreinvent2017)
 * [AWS re:Invent 2017 – Andy Jassy 기조 연설 및 주요 신규 서비스 발표 소식](https://aws.amazon.com/ko/blogs/korea/aws-reinvent-2017-andy-jassy-keynote-new-services/)
 * [AWS re:Invent 2016 총정리](https://aws.amazon.com/ko/blogs/korea/summary-of-aws-reinvent-2016/)
@@ -368,6 +367,8 @@ AWS
 * [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
 * [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
 * [AWS 솔루션 아키텍트 어소시에이트 자격증 취득](https://blog.outsider.ne.kr/1465)
+* [대학생도 딸 수 있는 AWS Solutions Architect Associate 시험 후기](https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62)
+* [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 (2018년 2월 출시) 수험 가이드 (bit.ly/saaguide)](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
 * [AWS에서 RStudio 구축하기](https://medium.com/@hslee09/aws-aws%EC%97%90%EC%84%9C-rstudio-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-291d7ff6fa0e)
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
@@ -418,6 +419,9 @@ AWS
 * [Athena를 Zeppelin과 함께 쓰기](https://b.luavis.kr/server/zeppelin-with-athena)
 * [Amazon Athena 및 Amazon QuickSight를 활용한 2백년간 글로벌 기후 데이터 시각화](https://aws.amazon.com/ko/blogs/korea/visualize-over-200-years-of-global-climate-data-using-amazon-athena-and-amazon-quicksight)
 * [AWS에서 데이터처리 맛보기 AWS S3, Athena, Quicksight](https://jen6.github.io/2019/07/aws-aws-s3-athena-quicksihtiaws.html)
+
+# Book
+* [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 
 # CloudWatch
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
