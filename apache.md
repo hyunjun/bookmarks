@@ -497,6 +497,7 @@ Apache
 * [LINE에서 Kafka를 사용하는 방법 – 2편](https://engineering.linecorp.com/ko/blog/how-to-use-kafka-in-line-2/)
 * [카프카를 쿠버네티스 위에 올리는게 좋은 선택일까?](https://blog.voidmainvoid.net/280)
 * [Running Apache Kafka on Kubernetes](https://www.youtube.com/watch?v=Zq6UTdff45k)
+* [아파치 카프카🚀를 알아야하는 이유! 카프카의 미래? 앞으로 어떻게될까?](https://www.youtube.com/watch?v=lEOV4upTJ68)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
