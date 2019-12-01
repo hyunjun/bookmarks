@@ -2,6 +2,7 @@ Functional Programming
 ======================
 * [Why Functional Programming Matters](http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [Devoxx Poland 2016 - Ted Neward - Why Functional Programming Matters](https://www.youtube.com/watch?v=7hOM5PPzMC8)
+* [Why is Learning Functional Programming So Damned Hard?](https://medium.com/@cscalfani/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1)
 * [Functional Patterns in Domain Driven Design applied to Financial Models](http://www.infoq.com/presentations/functional-ddd-financial)
 * [Functional Programming Doesn't Work (and what to do about it)](http://prog21.dadgum.com/54.html)
 * [Genuinely Functional User Interfaces](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/genuinely-functional-guis.pdf)
@@ -96,6 +97,7 @@ Functional Programming
     * 이런 모든 것의 지원을 받는 경우; Java(Sun)
     * 꾸준한 업데이트; Python
   * 그러나 이들 언어에서도조차도 함수형 프로그래밍 스타일이 점점 유행
+* [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -122,6 +124,7 @@ Functional Programming
 # Functor
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)
 * [Functors and Category Theory Introductory](https://functional.works-hub.com/learn/functors-and-category-theory-introductory-3e3da)
+* [Functor, Applicative, and Why](https://medium.com/axiomzenteam/functor-applicative-and-why-8a08f1048d3d)
 
 # Go
 * [sum type 대신](https://medium.com/@jooyunghan/go-sum-type-%EB%8C%80%EC%8B%A0-b9efdb47442e)
