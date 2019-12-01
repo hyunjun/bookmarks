@@ -165,6 +165,7 @@ Haskell
 * [Worst practices should be hard](http://www.haskellforall.com/2016/04/worst-practices-should-be-hard.html)
 * [knapsack.hs](https://gist.github.com/harfangk/9ec016c3a8dc88d3e10cc7348b33be24)
 * [Why hasn't functional programming taken over object-oriented programming?](https://www.quora.com/Why-hasnt-functional-programming-taken-over-object-oriented-programming)
+* [How does Haskell avoid stack overflow when non tail recursion is required?](https://www.quora.com/How-does-Haskell-avoid-stack-overflow-when-non-tail-recursion-is-required)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
