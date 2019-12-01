@@ -171,6 +171,7 @@ Clojure
 * [Application Configuration](http://realworldclojure.com/application-configuration/)
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
 * [THE POWER OF CLOJURE: DEBUGGING](https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging)
+* [REPL Based Debugging in Clojure](https://medium.com/appsflyer/repl-based-debugging-in-clojure-278fb468a33)
 * [Micro-Services: Scala vs Clojure](http://glennengstrand.info/blog/?p=377)
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [the difference between cljs-devtools and dirac DevTools](https://groups.google.com/forum/#!topic/clojure/_g-13Ofh9B0)
