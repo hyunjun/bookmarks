@@ -68,6 +68,7 @@ Elixir
 * [asdf-vm Build Status - Manage multiple runtime versions with a single CLI tool, extendable via plugins - docs at asdf-vm.com ](https://github.com/asdf-vm/asdf)
 * [bitcoin-ex - A Bitcoin Protocol Parser and Full Bitcoin Node in Elixir/OTP](https://github.com/justinlynn/bitcoin-ex)
 * [ElixirScript - The goal is to convert a subset (or full set) of Elixir code to JavaScript, providing the ability to write JavaScript in Elixir](https://github.com/bryanjos/elixirscript)
+* [Elxlisp - Lisp 1.5 M-expression. Also S-expression is available with invoke option](https://github.com/sasagawa888/Elxlisp)
 * [Simple Chat Application Using Elixir Phoenix Running on Raspberry Pi 2](http://pichat.zohaib.me/)
 * [parex - An elixir module for parallel execution of functions/processes](https://github.com/StevenJL/parex)
 * [phoenix - A productive web framework that does not compromise speed and maintainability](http://www.phoenixframework.org/)
