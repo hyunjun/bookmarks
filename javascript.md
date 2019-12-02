@@ -1919,6 +1919,7 @@ Javascript
 * [react-redux 에서 Hooks 사용하기](https://velopert.com/3726)
 * [react-redux 에서 Hooks 사용하기](https://velog.io/@velopert/react-redux-hooks)
 * [react-redux의 hook API 미리 써보기](https://godsenal.com/posts/react-redux%EC%9D%98-hook-API-%EB%AF%B8%EB%A6%AC-%EC%8D%A8%EB%B3%B4%EA%B8%B0/)
+* [**React.js Redux 살펴보기**](https://kyungyeon.dev/31)
 * [React 16.8 with Hook Implementation](https://hackernoon.com/react-16-8-with-hook-implementation-212220171685)
 * [How to Build a Todo List with React Hooks](https://medium.freecodecamp.org/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b)
 * [React Hooks](https://www.youtube.com/playlist?list=PL7jH19IHhOLPDyuhF_fLCt_pKvtuLI5qX)
