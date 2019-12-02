@@ -122,6 +122,7 @@ Go
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [5 Reasons Why We switched from Python To Go](https://medium.com/@tigranbs/5-reasons-why-we-switched-from-python-to-go-4414d5f42690)
 * [My journey from Python to Go](https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c)
+* [Moving from Python to Go](https://towardsdatascience.com/moving-to-go-from-python-9ebbd9a8aec4)
 * ["고"할 것인가 "파이썬"할 것인가, 비교 선택 가이드](http://www.itworld.co.kr/news/136275)
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
 * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
