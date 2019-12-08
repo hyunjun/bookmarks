@@ -861,6 +861,7 @@ App
 * [Open Source Games for Windows](http://osswin.sourceforge.net/games.html)
 * [윈도우 10 잠금화면 없애기](https://rgy0409.tistory.com/3194)
 * [유니콘 - HTTPS 차단 우회앱](http://unicorn-adblock.com/%EC%9C%A0%EB%8B%88%EC%BD%98-https-for-windows/)
+* [**맥을 쓰는 닷넷 개발자들을 위한 도구들 모음**](https://blog.aliencube.org/ko/2019/12/05/tools-for-dotnet-devs-on-mac)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
 * [Everything](https://www.voidtools.com)
