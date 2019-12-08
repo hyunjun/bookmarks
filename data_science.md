@@ -357,6 +357,19 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * [Digdag is a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
+* [Metaflow - A framework for real-life data science](https://metaflow.org/)
+  * 데이터과학 프로젝트에서, 모델 개발 외적인 "인프라" 적인 요소를 관리하는 도구
+  * Job 스케줄링, 플로우 요소별 버전 관리와 결과에 대한 Inspecting, 플로우 및 플로우 요소별 라이브러리 의존성 주입, Amazon S3에 대한 built-in 지원, 컴퓨팅 자원에 대한 손쉬운 스케일 인/아웃 등을 가능
+  * 기본적으로 플로우는 그래프 형태로, 그 파이프라인의 연쇄성이 연결되어, 어떤 형태라도 플로우가 흘러가는 형상을 구상 가능
+  * 모든 플로우의 목록은 싱글톤적인 객체에 의해서 관리
+  * 일단 플로우가 생성되면, 원하는 어떤 환경(주피터 노트북, IDE등) 에서도 접근 가능
+  * 추가적으로, 파일 (로컬 또는 S3) 및 실험에 사용되는 다양한 파라미터를 선언만 해두고, 값을 CLI로 프로그램 실행시 주입해주는것도 가능
+  * 파라미터도 데이터 처럼 파일로 관리해서 버전관리가 가능
+  * 라이브러리 형식으로 만들어졌지만, 요즘 추세처럼 annotation 형태로 기능 정의하는 방식 지원
+  * 예를 들어, 플로우의 각 단계설정은 @step, 플로우 단위의 라이브러리 의존성 주입은 @conda_base, 플로우 요소별 { 라이브러리 의존성 주입은 @conda, 자원의 크기설정은 @resource, AWS 배치단위 자원 크기설정은 @batch,  단계 실패시 재시도여부 설정은 @retry} 등이 존재
+  * 부가적으로, 플로우의 단계(요소)는 각각 버전이 컨트롤 되기 때문에, 각 단계별 결과를 조합해서 네임스페이스단위로 묶는것도 가능
+  * 원하는 실험 단계의 결과를 조합해서 분석 가능 (tagging도 가능)
+  * MetaFlow는 기본적으로, "first class support for various services on AWS" 인 라이브러리. Amazon S3에 배포하는 튜토리얼도 잘 작성
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Mode - Analyze raw or modeled data with SQL, Python, or R without moving between different tools](https://mode.com)
@@ -542,6 +555,7 @@ Data Science
 * [Using machine learning to predict what file you need next](https://blogs.dropbox.com/tech/2019/05/content-suggestions-machine-learning/)
 * [Using machine learning to predict what file you need next, Part 2](https://blogs.dropbox.com/tech/2019/10/using-machine-learning-to-predict-what-file-you-need-next-part-2/)
 * [Powered by AI: Instagram’s Explore recommender system](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
+* [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 
 ## Recommendation Python
 * **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
