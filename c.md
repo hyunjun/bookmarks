@@ -12,6 +12,7 @@ C
 * [SoEn (구 winapi.co.kr)](http://soen.kr/)
 * [Learn-C.org](http://www.learn-c.org/)
 * [C Tutorial](http://www.tutorialspoint.com/cprogramming/index.htm)
+* [C Programming Language 문법](https://www.it-note.kr/268)
 * [comp.lang.c Frequently Asked Questions](http://c-faq.com/)
 * [State of the art of random double generation](http://www.blahonga.org/2015/04/state-of-art-of-random-double-generation.html)
 * [Writing Bug-Free C Code](https://www.duckware.com/bugfreec/index.html)
