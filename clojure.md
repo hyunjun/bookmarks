@@ -292,6 +292,7 @@ Clojure
 * [Try to build with graal](https://github.com/dundalek/closh/commit/352a523385ca8a99d25aeec2d18d0bca6ed8e5e2)
 * [Datahike Release 0.2.0](https://lambdaforge.io/2019/09/20/datahike-release-0.2.0.html)
 * [Updating diagnostics for Boeing’s 737 MAX](http://magazine.aerospacemanufacturinganddesign.com/article/october-2016/updating-diagnostics-for-boeings-737-max.aspx) Clojure 3.2만 line. Java였으면 50만 line이 넘었을 거로 추정함
+* [**Advent of Parens 2019**](https://lambdaisland.com/blog/2019-11-25-advent-of-parens)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
