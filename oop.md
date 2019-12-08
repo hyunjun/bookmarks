@@ -112,6 +112,7 @@
 ## Dependency Injection Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
 * [pythondi - Python lightweight dependency injection library](https://github.com/teamhide/pythondi)
+  * [**파이썬 오픈소스 라이브러리 개발기**](https://hides.tistory.com/1056)
 
 # Design Pattern
 * 케빈 TV
