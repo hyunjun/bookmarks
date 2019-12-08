@@ -220,6 +220,7 @@ Haskell
 * ["Build Your Own Probability Monads" paper, blog posts and source code](http://www.randomhacks.net/probability-monads/)
 * [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)
 * [Haskell Monads in 8 Minutes](https://www.youtube.com/watch?v=gEoruozy3mk)
+* [In Haskell, what does the phrase "monadic bind" mean?](https://www.quora.com/In-Haskell-what-does-the-phrase-monadic-bind-mean)
 
 # Test
 * [Porting the Pusher integration tests to Haskell](https://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
