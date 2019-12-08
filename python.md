@@ -961,6 +961,7 @@ Python
   * [파이썬 package 배포 하기](https://rampart81.github.io/post/python_package_publish/)
   * [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
   * [pypi 패키지 만들어보기](http://blog.everypython.com/post/15/)
+  * [파이썬 패키지 Pypi에 오픈소스 등록하는 방법](https://hides.tistory.com/1054)
   * [로컬 PYPI 서버 설정하기](http://daewonyoon.tistory.com/199)
   * [파이썬 패키지를 공유하는 법](https://code.tutsplus.com/ko/tutorials/how-to-share-your-python-packages--cms-26114)
   * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
@@ -1335,6 +1336,7 @@ Python
   * [Best Practices With Documenting and Refactoring Python Code](https://www.youtube.com/watch?v=S8P_pJrw9uk)
 * sphinx
   * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
+  * [**readthedocs.org에 문서화하는 방법**](https://hides.tistory.com/1055)
 
 # Django
 * [Django 문서](https://docs.djangoproject.com/ko)
@@ -1727,6 +1729,7 @@ Python
 * [3 Quick Tips to Make Your Flask Apps Better](https://www.youtube.com/watch?v=tqZxama6tiE)
 
 ## Flask Library
+* [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
 * [Flask-aiohttp — Asynchronous Flask application with aiohttp](https://flask-aiohttp.readthedocs.io)
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
 * [Flask-APScheduler is a Flask extension which adds support for the APScheduler](https://github.com/viniciuschiele/flask-apscheduler)
