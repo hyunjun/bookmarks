@@ -538,6 +538,7 @@ Programming Books
 * (NOT YET) [전문가를 위한 머신러닝 솔루션 - 파이썬을 이용한 머신러닝 고급 문제 해결 기법]((https://wikibook.co.kr/ml-solutions/)
 * (NOT YET) [파이썬을 활용한 머신러닝 쿡북](https://jybaek.tistory.com/839)
   * [책리뷰 파이썬을 활용한 머신러닝 쿡북](https://www.youtube.com/watch?v=UOKjbLfx4L0)
+* (NOT YET) [머신러닝 도감](https://jpub.tistory.com/990)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
