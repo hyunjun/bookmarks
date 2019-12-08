@@ -397,6 +397,7 @@ ElasticSearch - Lucene
 * [데이터 노가다 실수담](https://www.popit.kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%85%B8%EA%B0%80%EB%8B%A4-%EC%8B%A4%EC%88%98%EB%8B%B4/)
 * [키바나 사용법 정리](https://12bme.tistory.com/486)
 * [엘라스틱서치와 키바나 실용적인 소개서](https://velog.io/@jakeseo_me/%EB%B2%88%EC%97%AD-%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%99%80-%ED%82%A4%EB%B0%94%EB%82%98-%EC%8B%A4%EC%9A%A9%EC%A0%81%EC%9D%B8-%EC%86%8C%EA%B0%9C%EC%84%9C)
+* [엘라스틱서치의 Enrich Processor를 활용해서 여러 데이터 소스의 데이터를 통합하고 연동하기](https://olpaemi.blog.me/221727104894)
 
 # Library
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
