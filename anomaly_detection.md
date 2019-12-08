@@ -41,3 +41,4 @@ Anomaly Detection
   * [Part 2: Predicting Hotel Cancellations with a Keras Neural Network](https://www.michael-grogan.com/hotel-cancellations-neuralnetwork/)
   * [Part 3: Predicting Weekly Hotel Cancellations with an LSTM Network](https://www.michael-grogan.com/hotel-cancellations-lstm/)
 * [Operational AI: 지속적으로 학습하는 Anomaly Detection 시스템 만들기](https://deview.kr/2019/schedule/286)
+* [보안 모니터링을 위한 머신러닝 알고리즘 적용기](https://engineering.linecorp.com/ko/blog/machine-learning-for-security-monitoring/)
