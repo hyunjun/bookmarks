@@ -137,6 +137,9 @@
 * [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [디자인 패턴에서 말하는 투명성](http://sunphiz.me/wp/archives/3288)
 * [방문자 패턴 - Visitor pattern](https://thecodinglog.github.io/design/2019/10/29/visitor-pattern.html)
+* [**MV-Whatever 정리**](https://blog.naver.com/jukrang/221597914483)
+  * [M-V-Whatever 정리 - 1.MVC](https://blog.naver.com/jukrang/221414570067)
+  * [MV-Whatever 정리 - 2. MVP](https://blog.naver.com/jukrang/221597910488)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
