@@ -1710,6 +1710,7 @@ Programming
 * [무료 Leaptest 대체 프로그램 5개](http://freealt.selfhow.com/leaptest/)
 * [Put your Action to the test: Tips to improve your action with testing](https://medium.com/google-developers/put-your-action-to-the-test-tips-to-improve-your-action-with-testing-8f5685af22d)
 * [Tests Coverage is Dead — Long Live Mutation Testing](https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e)
+* [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
 * appium [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [katalon.com](https://www.katalon.com)
   * [Introduce Katalon tool](https://www.slideshare.net/ssuser3e79ef/introduce-katalon-tool)
