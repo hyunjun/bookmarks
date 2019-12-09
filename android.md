@@ -247,7 +247,6 @@ Android
   * [Map 과의 상호작용 분리하기](https://medium.com/@jsuch2362/map-과의-상호작용-분리하기-de2bf8c9e837)
   * [RxJava2의 Global Error Handler 대응 #UndeliverableException](https://developer88.tistory.com/215)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
-* [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * HTTP
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
@@ -262,7 +261,11 @@ Android
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
 * [Academy for App Success](https://developer.android.com/google-play/academy/)
 
-# Test
+# TDD, Test
 * [Understanding and Mastering the World of Android Testing (Part 1)](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
 * [Android Testing: The Basics](https://android.jlelse.eu/android-testing-the-basics-3c2b784e8bf6)
 * [Google Enables Continuous Testing Using the Android Emulator](https://www.infoq.com/news/2019/10/android-emulator-continuous-test/)
+* [Better Android Testing at Airbnb — Part 1: Philosophy and Mocking](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a)
+* [Better Android Testing at Airbnb — Part 2: Screenshot Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a77ac9531cab)
+* [Better Android Testing at Airbnb — Part 3: Interaction Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-1d1e91e489b4)
+* [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
