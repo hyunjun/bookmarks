@@ -987,6 +987,7 @@ Javascript
   * [Build a File Metadata App in Electron](https://codeburst.io/build-a-file-metadata-app-in-electron-a0fe8d32410e)
   * [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
   * [How to create an Electron app using Angular and SQLite3](https://medium.freecodecamp.org/creating-an-electron-app-using-angular-and-sqlite3-24ca7d892810)
+  * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #1 프로젝트 세팅하기](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -2055,6 +2056,7 @@ Javascript
 * [State Colocation will make your react app faster](https://ideveloper2.dev/blog/2019-10-12--state-colocation-will-make-your-react-app-faster)
 * [C언어와 React로 Server Side Rendering 만들기](https://velog.io/@tbvjaos510/C%EC%96%B8%EC%96%B4%EC%99%80-React%EB%A1%9C-SSR%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90)
 * [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
+* [React Native에서 현재 위치 정보 가져오기](https://dev-yakuza.github.io/ko/react-native/react-native-geolocation-service/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
