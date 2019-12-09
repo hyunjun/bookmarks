@@ -226,6 +226,8 @@ PyTorch
   * Brusta는 이 JIT compile을 활용한 다양한 응용 중 하나이며, Platform-free PyTorch Model Serving을 목표로, “PyTorch 모델의 상용화”를 지향하는 프로젝트
   * 첫 번째로 PyTorch로 만든 모델을 입력받고, 이 모델을 JVM 위에서 구동하는 서버로 제공하는 모듈을 공개
 * Captum [Open-sourcing Captum: A model interpretability library for PyTorch](https://ai.facebook.com/blog/open-sourcing-captum-a-model-interpretability-library-for-pytorch/)
+* [Classy Vision - An end-to-end framework for image and video classification](https://classyvision.ai/)
+  * [An end-to-end PyTorch framework for image and video classification https://classyvision.ai ](https://github.com/facebookresearch/ClassyVision)
 * [Clipper Tutorial](https://github.com/ucbrise/clipper-tutorials) PyTorch, Tensorflow, PySpark, Scikit-Learn 으로 만든 모델 배포
 * [ComplexCNN - pytorch implementation of complex convolutional neural network](https://github.com/litcoderr/ComplexCNN)
   * 대부분 딥러닝 모델들은 실수를 취급
