@@ -403,6 +403,7 @@ App
     * [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
     * [PIP Error 해결 방법](https://developer-ankiwoong.tistory.com/713)
     * [코딩 인생 꿀템 VSC 단축키 5분 정리해드림](https://www.youtube.com/watch?v=Wn7j5dfbJF4)
+    * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
