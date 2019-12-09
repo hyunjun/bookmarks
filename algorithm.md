@@ -39,7 +39,6 @@ Algorithm
 * [Binary data structures: an intro to trees and heaps in JavaScript](https://medium.freecodecamp.org/binary-data-structures-an-intro-to-trees-and-heaps-in-javascript-962ab536cb42)
 * [The complexity of simple algorithms and data structures in JS](https://medium.freecodecamp.org/the-complexity-of-simple-algorithms-and-data-structures-in-javascript-11e25b29de1e)
 * [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
-* [Typescript 정렬 알고리즘](https://github.com/visualkhh/toy-sort/tree/master/typescript)
 * [A Step Towards Computing as a Science Simple Algorithms & Data Structures in JS](https://medium.freecodecamp.org/a-step-towards-computing-as-a-science-algorithms-data-structures-4c0e2d6ae79a)
 * [Using the Right Datastructure for the job](http://rohankshir.github.io/2015/05/15/choosing-the-right-datastructure/)
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
@@ -70,7 +69,6 @@ Algorithm
 * [Algorithms in the Real World: Host Matching](http://www.anishathalye.com/2015/09/24/algorithms-in-the-real-world-host-matching/)
 * [Theorists Draw Closer to Perfect Coloring](https://www.quantamagazine.org/20151020-perfect-graph-coloring/)
 * [Picking the right data structure](http://thomasleecopeland.com/2015/10/20/picking-a-data-structure.html)
-* [The Sounds of Sorting Algorithms](http://www.caseyrule.com/projects/sounds-of-sorting/)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
 * [Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
   * [Data Structure](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=6&view=50&sort=dd)
@@ -484,6 +482,9 @@ Algorithm
 * [Why is mergesort O(log n)?](https://softwareengineering.stackexchange.com/questions/297160/why-is-mergesort-olog-n)
 * [Stability in Sorting Algorithms — A Treatment of Equality](https://medium.freecodecamp.org/stability-in-sorting-algorithms-a-treatment-of-equality-fa3140a5a539)
 * [Fastest Sorting Algorithm. Ever!](https://www.youtube.com/watch?v=4Q72kbwyEmk) sort algorithm time complexity 분석
+* [Typescript 정렬 알고리즘](https://github.com/visualkhh/toy-sort/tree/master/typescript)
+* [The Sounds of Sorting Algorithms](http://www.caseyrule.com/projects/sounds-of-sorting/)
+* [인트로 정렬 : c++의 sort는 왜 최악의 경우에도 빠르게 동작하는가?](https://codingdog.tistory.com/entry/%EC%9D%B8%ED%8A%B8%EB%A1%9C-%EC%A0%95%EB%A0%AC-c%EC%9D%98-sort%EB%8A%94-%EC%99%9C-%EC%B5%9C%EC%95%85%EC%9D%98-%EA%B2%BD%EC%9A%B0%EC%97%90%EB%8F%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
