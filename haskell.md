@@ -166,6 +166,7 @@ Haskell
 * [knapsack.hs](https://gist.github.com/harfangk/9ec016c3a8dc88d3e10cc7348b33be24)
 * [Why hasn't functional programming taken over object-oriented programming?](https://www.quora.com/Why-hasnt-functional-programming-taken-over-object-oriented-programming)
 * [How does Haskell avoid stack overflow when non tail recursion is required?](https://www.quora.com/How-does-Haskell-avoid-stack-overflow-when-non-tail-recursion-is-required)
+* [Can the Haskell compiler automatically convert a recursive function that is not tail-recursive into a tail-recursive function using the continuation-passing style technique or some other technique?](https://www.quora.com/Can-the-Haskell-compiler-automatically-convert-a-recursive-function-that-is-not-tail-recursive-into-a-tail-recursive-function-using-the-continuation-passing-style-technique-or-some-other-technique)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
