@@ -103,3 +103,4 @@ Google Cloud Platform GCP
 * [인스턴스 그룹과 템플릿, 그리고 이미지](https://jybaek.tistory.com/840)
 * [Google Cloud Load Balancer 핵심만 빠르게 훑어보기](https://jybaek.tistory.com/843)
 * [구글 클라우드 쉘에서 VS Code 사용하기](http://blog.wimy.com/457/)
+* [Reducing the Cost of my Developer Workstation with Cloud Functions and Pub/Sub](https://medium.com/google-developers/reducing-the-cost-of-my-developer-workstation-with-cloud-functions-and-pub-sub-d9b9550bf397)
