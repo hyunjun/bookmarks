@@ -107,6 +107,7 @@
 * [디지털 홀 센서 활용 (아두이노 센서 활용)](http://www.hellmaker.kr/post/413)
 * [Get started with machine learning on Arduino](https://blog.arduino.cc/2019/10/15/get-started-with-machine-learning-on-arduino)
 * [Fruit Identification using Arduino and TensorFlow](https://blog.tensorflow.org/2019/11/fruit-identification-using-arduino-and-tensorflow.html)
+* [CONTROLLINO 개발환경 셋팅하기](https://blog.naver.com/badgay74/221731896509)
 
 # [Artik](https://www.artik.io/)
 
