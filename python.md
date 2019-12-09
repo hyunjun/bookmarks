@@ -2277,8 +2277,6 @@ Python
   * [Jean Baptiste Aviat Writing a C Python extension in 2017 PyCon 2017](https://www.youtube.com/watch?v=phe1s6p38gk)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
-* curses
-  * [Python 3.x curses 라이브러리에서 한글 출력 - Windows 10](http://greentec.egloos.com/4433188)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
   * [파이썬에서 오라클 사용하기(맥OS)](https://jungwoon.github.io/google%20cloud/2018/08/08/Python-Oracle-Mac/)
 * [cython](http://cython.org)
@@ -2726,7 +2724,6 @@ Python
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * **[Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp](https://github.com/Yelp/undebt)**
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
-* [Urwid - Console user interface library for Python](http://urwid.org/)
 * [uvicorn - The lightning-fast asyncio server, for Python 3. :unicorn: http://www.uvicorn.org ](https://github.com/encode/uvicorn)
 * **[uvloop is a fast, drop-in replacement of the built-in asyncio event loop](https://github.com/MagicStack/uvloop)**
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
@@ -2880,6 +2877,15 @@ Python
   * [가상환경 virtualenv(1)](https://woolbro.tistory.com/25)
   * [가상환경 virtualenv(2) - 실행/설치/관리](https://woolbro.tistory.com/26)
   * [가상환경 virtualenv(3) - 설치 패키지 사용하기](https://woolbro.tistory.com/27)
+
+## Library TUI text user interface
+* curses
+  * [Python 3.x curses 라이브러리에서 한글 출력 - Windows 10](http://greentec.egloos.com/4433188)
+  * [파이썬 curses 프로그래밍](https://python.flowdas.com/howto/curses.html)
+* [npyscreen](https://npyscreen.readthedocs.io/)
+* [picotui - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project. https://github.com/pfalcon/pycopy ](https://github.com/pfalcon/picotui)
+* [PyInquirer - A Python module for common interactive command line user interfaces](https://github.com/CITGuru/PyInquirer)
+* [Urwid - Console user interface library for Python](http://urwid.org/)
 
 # Microservice
 * **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
