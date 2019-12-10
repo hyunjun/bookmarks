@@ -156,6 +156,7 @@ Finance
   * [GitHub Repository](https://github.com/…/python-data_s…/machine-learning/k-means)
 * [Python Finance](https://www.youtube.com/playlist?list=PLcFcktZ0wnNnKvxFkJ5B7pvGaGa81Ny-6)
   * [TD Streaming Data - GitHub.ipynb](https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-finance/td-ameritrade/TD%20Streaming%20Data%20-%20GitHub.ipynb)
+* [Unofficial Python API client library for TD Ameritrade](https://github.com/areed1192/td-ameritrade-python-api)
 * [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
   * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
 * **[파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 I](http://blog.alphasquare.co.kr/221602425951)**
