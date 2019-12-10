@@ -53,6 +53,7 @@ Linux
     * [3. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - 플레이북으로 개선하기](https://jojoldu.tistory.com/438)
     * [4. Ansible (앤서블) 로 전체 서버 사용자 추가하기 - Jenkins&Github 연동하기](https://jojoldu.tistory.com/443)
     * [Ansible에서 전략 패턴을 이용해 자동화 프로젝트의 확장성을 확보하기](https://ashon.github.io/2019/10/30/ansible-strategy.html)
+    * [**프로비저닝 자동화를 위한 Ansible AWX, 설치부터 엔터프라이즈 환경 적용까지 – 1**](https://engineering.linecorp.com/ko/blog/ansible-awx-for-provisioning-1/)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
@@ -97,6 +98,7 @@ Linux
 * [Linux에서 터미널, 콘솔, 쉘, tty, pty, pts 차이 정리](https://jootc.com/p/20170306208/)
 * [Learn and use fork(), vfork(), wait() and exec() system calls across Linux Systems](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
+* [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
