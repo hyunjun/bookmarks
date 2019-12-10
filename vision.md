@@ -240,6 +240,7 @@ Vision
 * [coral usb accelerator + Raspberry pi zero w](https://mazdah.tistory.com/852)
 * [Coral 소개: 로컬 AI를 이용한 개발을 위한 Google 플랫폼](https://developers-kr.googleblog.com/2019/06/introducing-coral-our-platform-for.html)
 * [객체인식 = 라즈베리파이 + Coral EdgeTPU](https://blog.xcoda.net/103)
+* [Sorting Marshmallows with AI - Using Coral and Teachable Machine](https://www.wevolver.com/lucas.ochoa/sorting.marshmallows.with.ai.-.using.coral.and.teachable.machine/)
 * [엑스레이 판독해주는 인공지능 챗봇 만든 개발자](https://smartaedi.tistory.com/380)
 * [Ray Tracing in One Weekend](https://github.com/petershirley/raytracinginoneweekend)
   * [CPU RayTracer based on `Ray-Tracing in One Weekend`](https://github.com/liliilli/SH-RayTracer)
