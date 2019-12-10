@@ -226,6 +226,7 @@ Python
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [Mybridge for Professionals](https://medium.mybridge.co/)
   * [github.com/Mybridge/learn-python](https://github.com/Mybridge/learn-python)
+  * [34 Amazing Python Open Source Libraries for the Past Year (v.2019)](https://medium.mybridge.co/34-amazing-python-open-source-libraries-for-the-past-year-v-2019-93d6ee11aceb)
   * [Python Open Source of the Month (v.Aug 2019)](https://medium.com/@Mybridge/python-open-source-of-the-month-v-aug-2019-495f49af1ac2)
   * [Python Top 10 Articles for the Past Month (v.July 2019)](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-v-july-2019-e9ad555284ad)
   * [Python Open Source of the Past Month (v.June 2019)](https://medium.mybridge.co/python-open-source-of-the-month-v-june-2019-7dcc5a2b84d1)
@@ -1240,14 +1241,12 @@ Python
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 * [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
 * [Python 101](https://leanpub.com/python_101/read_full)
-* [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
-* [Dive Into Python 3](http://getpython3.com/diveintopython3/)
-  * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
-* [Python 3.4 공부 좀 해볼까?](https://wikidocs.net/book/122)
+* [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks ](https://github.com/fluentpython/notebooks)
+* **[Books by Agiliq](https://books.agiliq.com)**
+  * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
+  * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 * 정보교육을 위한 파이썬 [Python for Informatics: Exploring Information](https://www.amazon.com/Python-Informatics-Exploring-Information-Korean/dp/1517143144/ref=as_li_ss_tl?ie=UTF8&qid=1441110639&sr=8-1&keywords=python+for+informatics+korean&linkCode=sl1&tag=drchu02-20&linkId=acc6dba9169097e26614f65a92e443ff)
   * [정보교육을 위한 파이썬](https://statkclee.github.io/pythonlearn-kr/01-py4inf-python2/)
-* Think DSP
-  * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
 * 파이썬으로 풀어보는 수학
   * [파이썬으로 풀어보는 수학](http://tech.jinto.pe.kr/483)
 * 해커의 언어, 치명적 파이썬
@@ -1257,34 +1256,37 @@ Python
   * [Chapter2 침투 테스트 - FTP와 웹을 이용한 대규모 공격](http://apollo89.com/wordpress/?p=3823)
   * [Chapter2 침투 테스트 - 컨피커 노력하면 된다](http://apollo89.com/wordpress/?p=3831)
   * [Chapter2 침투 테스트 - 제로 데이 개념의 공격 코드 개발하기](http://apollo89.com/wordpress/?p=3835)
-* [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks](https://github.com/fluentpython/notebooks)
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
-* [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
+* [파이썬 괴식 레시피 - 긱(Geek)스럽게 파이썬 활용하기](https://wikidocs.net/book/2460)
+* [파이썬 책 추천 목록 정리](https://github.com/daejinseok/books/blob/master/Python_Book_List.md)
+* [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
+* [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
+* [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
+* [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
+* [Dive Into Python 3](http://getpython3.com/diveintopython3/)
+  * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
+* [Django 자습](https://wikidocs.net/book/837)
+* [Effective Pandas](https://leanpub.com/effective-pandas)
+* [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
+* [Full Stack Python](https://www.fullstackpython.com/)
+* [Python 3.4 공부 좀 해볼까?](https://wikidocs.net/book/122)
+* [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
 * [Python Data Science Handbook Essential Tools for Working with Data](http://shop.oreilly.com/product/0636920034919.do)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [Python Data Science Handbook - This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
   * [책 소개 - 온라인으로 공개되어 있는 책 활용하기, 파이썬 데이터 사이언스 핸드북 Python Data Science Handbook](https://www.youtube.com/watch?v=Rhqsrpc95ig)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
-* [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
-* [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
-* [Think Python: How to Think Like a Computer Scientist 2판](https://surpreem.com/think-python-how-to-think-like-a-computer-scientist-2%ED%8C%90/)
-  * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
-  * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
-* **[Books by Agiliq](https://books.agiliq.com)**
-  * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
-  * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
-* [Django 자습](https://wikidocs.net/book/837)
-* [파이썬 괴식 레시피 - 긱(Geek)스럽게 파이썬 활용하기](https://wikidocs.net/book/2460)
-* [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
-* [파이썬 책 추천 목록 정리](https://github.com/daejinseok/books/blob/master/Python_Book_List.md)
-* [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
 * [Python for Signal Processing Featuring IPython Notebooks](https://www.springer.com/gp/book/9783319013411)
   * [Python for Signal Processing](http://python-for-signal-processing.blogspot.com/)
   * [Python-for-Signal-Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing)
   * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
-* [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
-* [Effective Pandas](https://leanpub.com/effective-pandas)
-* [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
+* [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
+* Think DSP
+  * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
+* [Think Python: How to Think Like a Computer Scientist 2판](https://surpreem.com/think-python-how-to-think-like-a-computer-scientist-2%ED%8C%90/)
+  * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
+  * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
+* [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
@@ -2155,6 +2157,7 @@ Python
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [Top 10 Python libraries of 2016](https://tryolabs.com/blog/2016/12/20/top-10-python-libraries-of-2016/)
+* [Don’t Miss out on these 24 Amazing Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
 * [파이썬 활용, 파이썬 프로젝트로 할 수 있는 일들을 알아보자!](https://tariat.tistory.com/775)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
@@ -2413,6 +2416,7 @@ Python
 * [KicomAV](http://www.kicomav.com/)
   * [Python : Anti-Virus 키콤](http://kali-km.tistory.com/entry/Python-AntiVirus-%ED%82%A4%EC%BD%A4)
 * [Kite - Your programming copilot Kite augments your coding environment with all the internet’s programming knowledge](https://kite.com/)
+* [Kore4 and Python](https://blog.kore.io/posts/kore4-and-python)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [LemonGraph - a log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file](https://github.com/NationalSecurityAgency/lemongraph)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
