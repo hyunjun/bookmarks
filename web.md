@@ -365,6 +365,7 @@ Web
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 # CSS
+* [CSS 레이아웃 기초](https://joshua1988.github.io/web-development/css/layout-basic/)
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
 * [최고의 CSS 중앙정렬 기법](http://webdesign.tutsplus.com/ko/tutorials/the-holy-grail-of-css-centering--cms-22114)
 * [크리에이티브 코딩캠프 - 빔캠프 veamcamp.com](https://www.youtube.com/channel/UCvx57s_ZBt5VG4fvlStiq2g)
