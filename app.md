@@ -38,6 +38,7 @@ App
 * [We need a new document markup language — here is why](https://medium.freecodecamp.org/we-need-a-new-document-markup-language-c22e0ec44e15) Practical Markup Language PML
 * [Here Are 5 Productivity Tools Every Developer Should Know](https://medium.com/swlh/here-are-5-productivity-tools-every-developer-should-know-4a3f70783835)
   * insomnia, zoom, notion, trello, figma
+* [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
@@ -787,6 +788,7 @@ App
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
 * [joplin](https://joplin.cozic.net/)
   * [Get started with Joplin, a note-taking app](https://opensource.com/article/19/1/productivity-tool-joplin)
+  * [Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ https://joplinapp.org ](https://github.com/laurent22/joplin)
 * [notebooksapp.com](http://www.notebooksapp.com/)
 * [notion - All-in-one workspace](https://www.notion.so)
   * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
