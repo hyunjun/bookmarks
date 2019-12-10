@@ -152,6 +152,7 @@ C++
 * [채팅 서버 개발로 알아보는 C++의 기술들](https://docs.google.com/presentation/d/1D6Y7wjZiyeHpFXnF70MQygiCwgxM0TBeCSd70rOeGmo)
 * [Never trust a programmer who says he knows C++](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
 * [c++ sort 의 비교함수가 true만 리턴할 때 어떤 일이 일어날까요?](https://codingdog.tistory.com/entry/c-sort-%EC%9D%98-%EB%B9%84%EA%B5%90%ED%95%A8%EC%88%98%EA%B0%80-true%EB%A7%8C-%EB%A6%AC%ED%84%B4%ED%95%A0-%EB%95%8C-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C%EC%9A%94)
+* [초보 탈출 #2 - 멀티 스레드 프로그래밍 1](http://10bun.tv/beginner/episode-2/)
 
 # API
 * auto_ptr
