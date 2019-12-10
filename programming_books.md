@@ -167,6 +167,7 @@ Programming Books
 * (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](https://wikibook.co.kr/aws-infra/)
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
   * [테라폼 설치에서 운영까지](https://blog.outsider.ne.kr/1451)
+* (NOT YET) [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 출간 후기](https://jojoldu.tistory.com/463)
 
 # Android
 
@@ -575,6 +576,7 @@ Programming Books
   * 문004.73 줄239ㄱ
 * [케라스로 구현하는 고급 딥러닝 알고리즘 - 딥러닝 기법, 오토 인코더, GAN, 변분 오토인코더, 심층 강화학습, 정책 경사 기법 적용하기](https://wikibook.co.kr/keras)
 * (NOT YET) [미술관에 GAN 딥러닝 실전 프로젝트 GAN으로 쓰기, 그리기, 게임하기, 작곡하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B9882286651)
+  * [책 Generative Deep Learning - 미술관에 GAN 딥러닝 실전 프로젝트](https://jybaek.tistory.com/852)
 * (NOT YET) [실전! GAN 프로젝트 - 텐서플로와 케라스를 이용한 차세대 생성적 적대 신경망 모델 구축](https://wikibook.co.kr/practical-gan/)
 
 ## Tensorflow
@@ -1481,6 +1483,7 @@ Programming Books
 * (NOT YET) [파이썬과 PyMC로 구현하며 익히는 베이지안 방법론 프로그래머를 위한 베이지안 with 파이썬](https://www.gilbut.co.kr/book/view?bookcode=BN001887)
 * (NOT YET) [계산하지 말고 이해하자! 프로그래머를 위한 확률과 통계](https://www.gilbut.co.kr/book/view?bookcode=BN002428)
 * (NOT YET) [통계학: 파이썬을 이용한 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=164788166)
+* (NOT YET) [세상에서 가장 재미있는 통계학](http://jhrogue.blogspot.com/2019/12/blog-post.html)
 
 # Window
 * (NOT YET) 실무에서 바로쓰는 파워셸
