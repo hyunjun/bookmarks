@@ -19,6 +19,7 @@ Programming
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
 * [개발자를 위한 넓고 얕은 지식](https://www.slideshare.net/godrm/ss-84035645)
   * [개발자를 위한 넓고 얕은 지식](https://www.youtube.com/watch?v=567gB2kfwAs)
+* [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
@@ -264,6 +265,7 @@ Programming
 * [C10K 문제(C10K problem)](https://118k.tistory.com/198)
 * [웹 푸시 알림 서비스, 샌디](https://medium.com/@kiyeopyang/%EC%9B%B9-%ED%91%B8%EC%8B%9C-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%83%8C%EB%94%94-4357a27a393b)
 * [**복잡한 업무 코드를 빠르게 분석하기**](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0) 이게 무조건 맞는 방법은 아니겠지만 참고하기 좋은 글
+* [AI에서 단일, 이중, 다중, 혼합 정밀도 컴퓨팅의 차이는 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=14687)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -476,6 +478,7 @@ Programming
   * [Cloudflare 도입 후기 5년간의 Cloudflare 사용 후기를 공유합니다](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
   * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
+  * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
@@ -584,6 +587,7 @@ Programming
 * [The Monolithic Frontend In The Microservices Architecture](http://blog.xebia.com/2015/07/27/the-monolithic-frontend-in-the-microservices-architecture/)
 * [In Defence of the Monolith, Part 1](https://www.infoq.com/articles/monolith-defense-part-1/)
 * [In Defence of the Monolith, Part 2](https://www.infoq.com/articles/monolith-defense-part-2/)
+* [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다](https://www.slideshare.net/arawnkr/ss-195979955)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
@@ -659,6 +663,9 @@ Programming
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 * [마이크로 서비스에서 분산 트랜잭션](https://medium.com/dtevangelist/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-347af5136c87) two phase commit, saga pattern
 * [Nicolas Frankel - 3 easy performance improvements in your microservices architecture](https://www.youtube.com/watch?v=FUv2sdNO_9o)
+* [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
+* [Testing Microservices: Examining the Tradeoffs of Twelve Techniques - Part 2](https://www.infoq.com/articles/twelve-testing-techniques-microservices-tradeoffs/)
+* [Testing Microservices: Six Case Studies with a Combination of Testing Techniques - Part 3](https://www.infoq.com/articles/testing-techniques-microservices-use-cases/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1369,6 +1376,8 @@ Programming
   * [10월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-10-5.html)
   * [11월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/11/b-11-1.html)
   * [11월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-11-2.html)
+  * [11월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/11/b-11-3.html)
+  * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-11-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1434,6 +1443,7 @@ Programming
   * [기술 뉴스 #136 : 19-10-15](https://blog.outsider.ne.kr/1463)
   * [기술 뉴스 #137 : 19-11-01](https://blog.outsider.ne.kr/1464)
   * [기술 뉴스 #138 : 19-11-16](https://blog.outsider.ne.kr/1466)
+  * [기술 뉴스 #139 : 19-12-02](https://blog.outsider.ne.kr/1467)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1457,6 +1467,7 @@ Programming
   * [월간 개발자스럽다 #46](https://blog.gaerae.com/2019/08/monthly.html)
   * [월간 개발자스럽다 #47](https://blog.gaerae.com/2019/09/monthly.html)
   * [월간 개발자스럽다 #48](https://blog.gaerae.com/2019/10/monthly.html)
+  * [월간 개발자스럽다 #49](https://blog.gaerae.com/2019/11/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 
 # OS Operating System
