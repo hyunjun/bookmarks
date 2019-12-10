@@ -522,6 +522,9 @@ Javascript
 * [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 * [닌자 코드](https://ko.javascript.info/ninja-code) 하면 안 되는 코드 작성 방식 설명
 
+# API
+* [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
+
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
 * [jQuery 개발자에서 AngularJS 개발자 되기](http://www.slideshare.net/haibane84/xeconphpfest-2014-angularjs?ref=http://feedly.com/i/subscription/feed/http://feeds.feedburner.com/Bloter)
@@ -1334,6 +1337,7 @@ Javascript
   * [How to publish packages to npm (the way the industry does things)](https://medium.freecodecamp.org/how-to-publish-packages-to-npm-the-way-the-industry-does-things-2077ec34d7e8)
   * [How to keep your sanity while managing NPM & functions in Node](https://medium.com/free-code-camp/how-to-keep-your-sanity-while-managing-npm-functions-in-node-9a5889cce80d)
   * [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
+  * [프론트엔드 개발환경의 이해: NPM](http://jeonghwan-kim.github.io//series/2019/12/09/frontend-dev-env-npm.html)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
@@ -1781,6 +1785,7 @@ Javascript
 * [함수형 setState가 리액트(React)의 미래이다(Functional setState is the future of React)](https://www.vobour.com/book/view/MPTQLpzxAHxzywcBc)
 * [React.setState를 사용하지 않는 3가지 이유](https://brunch.co.kr/@hee072794/108)
 * [setState를 바르게 사용하는 방법](https://blog.grotesq.com/post/728)
+* [How to properly define state in React components](https://itnext.io/how-to-properly-define-state-in-react-components-47544eb4c15d)
 * ['리액트(ReactJS) 개발자가 걷게 되는 길'](https://repo.yona.io/doortts/blog/post/297)
 * [한국어로 배우는 리액트](https://github.com/Rokt33r/learn-react-in-korean)
 * [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
