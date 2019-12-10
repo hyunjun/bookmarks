@@ -315,6 +315,7 @@ TensorFlow
 * [TensorFlow Lite 101 - MoblieNet 맛보기](https://soundlly.github.io/2017/11/20/tensorflowlite-moblienet-demo/)
 * [TensorFlow Lite를 사용한 온디바이스 대화형 모델링에 대해 확인해 보세요](https://developers-kr.googleblog.com/2017/12/on-device-conversational-modeling-with-tensorflow-lite.html)
 * [MixNet on Tensorflow Lite](https://medium.com/@tantara/mixnet-on-tensorflow-lite-94520a89b791)
+* [TensorFlow Lite를 사용해서 몸동작 인식한 중국 국민체조 앱의 케이스를 소개합니다](https://developers-kr.googleblog.com/2019/11/body-movement-recognition-in-the-smart-baduanjin-app.html)
 * [iOS 기기에서 Tensorflow 모델 실행시키는 방법들](http://blog.canapio.com/135)
 * 모두의 텐소플로우
   * [#1 - Machine Learning 개념 정리 & Linear Regression](https://jungwoon.github.io/tensorflow/toe/2017/12/04/MT-01-Machine-Learning/)
