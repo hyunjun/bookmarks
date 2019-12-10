@@ -32,6 +32,7 @@
 * [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
 * [10 Single-Board Computers Worthy of Hacking Projects Big & Small](https://null-byte.wonderhowto.com/how-to/raspberry-pi-alternatives-10-single-board-computers-worthy-hacking-projects-big-small-0196340/)
 * [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
+* [엔트리 하드웨어 개발](https://ryulib.tistory.com/466)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
@@ -108,6 +109,7 @@
 * [Get started with machine learning on Arduino](https://blog.arduino.cc/2019/10/15/get-started-with-machine-learning-on-arduino)
 * [Fruit Identification using Arduino and TensorFlow](https://blog.tensorflow.org/2019/11/fruit-identification-using-arduino-and-tensorflow.html)
 * [CONTROLLINO 개발환경 셋팅하기](https://blog.naver.com/badgay74/221731896509)
+* [아두이노 보드 개발 후기](https://ryulib.tistory.com/467)
 
 # [Artik](https://www.artik.io/)
 
