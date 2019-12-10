@@ -3,6 +3,7 @@ Functional Programming
 * [Why Functional Programming Matters](http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [Devoxx Poland 2016 - Ted Neward - Why Functional Programming Matters](https://www.youtube.com/watch?v=7hOM5PPzMC8)
 * [Why is Learning Functional Programming So Damned Hard?](https://medium.com/@cscalfani/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1)
+* [How Do I Learn Some Functional Programming?](https://medium.com/@mr_mig_by/how-do-i-learn-some-functional-programming-3b28875a0bc3)
 * [Functional Patterns in Domain Driven Design applied to Financial Models](http://www.infoq.com/presentations/functional-ddd-financial)
 * [Functional Programming Doesn't Work (and what to do about it)](http://prog21.dadgum.com/54.html)
 * [Genuinely Functional User Interfaces](http://haskell.cs.yale.edu/wp-content/uploads/2011/02/genuinely-functional-guis.pdf)
