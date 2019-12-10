@@ -340,6 +340,7 @@ Algorithm
 * [Kruskal 알고리즘 이란](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
 * [18. 크루스칼 알고리즘(Kruskal Algorithm)](https://m.blog.naver.com/ndb796/221230994142)
 * [Kruskal's algorithm in 2 minutes — Review and example](https://www.youtube.com/watch?v=71UQH7Pr9kU)
+* [MST(Minimum Spanning Tree)를 구하는 알고리즘인 크루스칼(Kruskal) 알고리즘, 프림(Prim)알고리즘을 설명하시오](https://blog.naver.com/santalsm/221718215779)
 * [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
 * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
 * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
