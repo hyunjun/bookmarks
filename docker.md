@@ -383,6 +383,8 @@ Docker
 * [도커와 컨테이너의 이런저런 역사 이야기](https://prudentcircle.gitlab.io/posts/20190827_docker_history/)
 * [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
 * [클라우드 파운드리의 진화](https://slownews.kr/74385)
+* [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)
+* [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
