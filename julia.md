@@ -89,6 +89,7 @@ Julia
 * [Announcing composable multi-threaded parallelism in Julia](https://julialang.org/blog/2019/07/multithreading)
 * [JuliaCon 2019 | Thread Based Parallelism](https://www.youtube.com/watch?v=HfiRnfKxI64)
 * [JuliaCon 2019 | What's Bad About Julia | Jeff Bezanson](https://www.youtube.com/watch?v=TPuJsgyu87U)
+* [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
 
 # API
 * Pkg.add
