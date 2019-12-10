@@ -134,6 +134,7 @@ C
 * [P99 - Preprocessor macros and functions for C99 and C11](http://p99.gforge.inria.fr/p99-html/index.html)
 * [Using pseudo-terminals (pty) to control interactive programs](http://rachid.koucha.free.fr/tech_corner/pty_pdip.html)
 * [Floating point oddity](https://www.johndcook.com/blog/2019/11/11/floating-point-oddity/)
+* [Infectious Executable Stacks](https://nullprogram.com/blog/2019/11/15/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
