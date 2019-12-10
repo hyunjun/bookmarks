@@ -164,6 +164,7 @@ PyTorch
 * [Cleaning the data for rapid prototyping (fastai)](https://www.kaggle.com/jhoward/cleaning-the-data-for-rapid-prototyping-fastai)
 * [RethNet: Object-by-Object Learning for Detecting Facial Skin Problems](https://www.notion.so/da466d39dfe04450b98fdb6d932df52a)
 * [Pytorch Support TPU](https://www.notion.so/19f91fdd81a94a98958dbd2dde22b11a)
+* [PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
