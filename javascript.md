@@ -1343,6 +1343,7 @@ Javascript
   * [How to keep your sanity while managing NPM & functions in Node](https://medium.com/free-code-camp/how-to-keep-your-sanity-while-managing-npm-functions-in-node-9a5889cce80d)
   * [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
   * [프론트엔드 개발환경의 이해: NPM](http://jeonghwan-kim.github.io//series/2019/12/09/frontend-dev-env-npm.html)
+  * [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
