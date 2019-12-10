@@ -746,6 +746,7 @@ Docker
 * [Should you use Kubernetes and Docker in your next project? - Junior Developers Singapore](https://www.youtube.com/watch?v=7XvgqDlp8sQ)
 * [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
 * [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
+* [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
