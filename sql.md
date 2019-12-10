@@ -121,6 +121,7 @@ SQL
 * [Aurora 로컬 스토리지 성능 테스트](http://woowabros.github.io/r-d/2019/03/22/localstorage.html)
 * [Amazon Aurora MySQL Database Administrator’s Handbook (요약 및 의역)](http://blog.hwang.gg/20190702/)
 * [Amazon Aurora Multi-Master를 통한 고가용성 MySQL 애플리케이션 만들기](https://aws.amazon.com/ko/blogs/korea/building-highly-available-mysql-applications-using-amazon-aurora-mmsr)
+* [Aurora MySQL를 운영하면서 알면 좋을 것 같은 미세한 팁](http://woowabros.github.io/experience/2019/12/04/auroraRDS.html)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
