@@ -101,9 +101,16 @@ Json
 * [jsonplaceholder - Fake Online REST API for Testing and Prototyping Serving ~350M requests per month](http://jsonplaceholder.typicode.com/)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
 * [JSON Schema](https://json-schema.org/)
+  * [Understanding JSON Schema](https://json-schema.org/understanding-json-schema/)
   * [json-schema.org/implementations.html#validators](https://json-schema.org/implementations.html#validators)
-    * [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io](https://github.com/Julian/jsonschema)
-* [jsonschema.net](http://jsonschema.net)
+    * [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io ](https://github.com/Julian/jsonschema)
+  * [Validating Data With JSON-Schema, Part 1](https://code.tutsplus.com/tutorials/validating-data-with-json-schema-part-1--cms-25343)
+  * [Validating Data With JSON-Schema, Part 2](https://code.tutsplus.com/tutorials/validating-data-with-json-schema-part-2--cms-25640)
+  * [JSON Schema dependencies: enum content depends on choice from another enum](https://stackoverflow.com/questions/50228218/json-schema-dependencies-enum-content-depends-on-choice-from-another-enum/50323425)
+  * [JSON 스키마](https://github.com/mcchae/JSON-Schema/blob/master/JSON-Schema.md)
+  * [JSON 스키마](http://tcpschool.com/json/json_schema_schema)
+  * [JSON과 PYTHON API의 만남](https://github.com/mcchae/JSON-Schema/blob/master/JSON-API.md)
+* [jsonschema.net](http://jsonschema.net) data -> schema
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [json-to-go](https://mholt.github.io/json-to-go/) json to go struct
 * [JSPON - JavaScript Persistent Object Notation](http://www.jspon.org/)
