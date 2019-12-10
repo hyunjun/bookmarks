@@ -84,6 +84,7 @@ Android
 * [NAVER Tech Talk: Android 밋업(2019년 3월,4월)](https://d2.naver.com/news/0566013)
 * [NAVER Tech Talk: Android 밋업(2019년 5,6월)](https://d2.naver.com/news/9293611)
 * [NAVER Tech Talk: Android 밋업(2019년 7월)](https://d2.naver.com/helloworld/7663642)
+* [NAVER Tech Talk: Android 밋업(2018년 11월, 2019년 11월)](https://d2.naver.com/news/4699566)
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
@@ -132,6 +133,7 @@ Android
 * [안드로이드에서 더욱 똑똑한 애니메이션 만들기](https://developers-kr.googleblog.com/2019/09/motional-intelligence-build-smarter-animations.html)
 * [안드로이드에서 뷰가 그려지는 과정](https://jungwoon.github.io/android/2019/10/02/How-to-draw-View/)
 * [protectionLevel이 System인 퍼미션](http://sunphiz.me/wp/archives/3332)
+* [카카오톡이나 페이스북에서 사용하는 HashKey 얻어오기](https://developer88.tistory.com/235)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
@@ -246,6 +248,7 @@ Android
   * [RxJava 로 관리하는 Google Map](https://medium.com/@jsuch2362/rxjava-로-관리하는-google-map-709a86f27643)
   * [Map 과의 상호작용 분리하기](https://medium.com/@jsuch2362/map-과의-상호작용-분리하기-de2bf8c9e837)
   * [RxJava2의 Global Error Handler 대응 #UndeliverableException](https://developer88.tistory.com/215)
+  * [RxJava와 Coroutines을 간단하게 알아보자](https://thdev.tech/android/2019/11/30/RxJava-Corotuines-01/)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * HTTP
