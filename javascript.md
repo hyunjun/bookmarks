@@ -379,6 +379,7 @@ Javascript
 * [코드버스커의 아무말대잔치 - Chrome 63, parcel, webpack, gulp 그리고 State of Javascript 2017](https://codebusking.show/%EC%BD%94%EB%93%9C%EB%B2%84%EC%8A%A4%EC%BB%A4%EC%9D%98-%EC%95%84%EB%AC%B4%EB%A7%90%EB%8C%80%EC%9E%94%EC%B9%98-chrome-63-parcel-webpack-gulp-%EA%B7%B8%EB%A6%AC%EA%B3%A0-state-of-javascript-2017-1c5daed3a84f)
 * [A Look Back at the State of JavaScript in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)
 * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
+* [Handling null and undefined in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
 * [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
 * [JS WTF 🦄 with Math - Let’s ride on the weirdness with JavaScript Math](https://hackernoon.com/js-wtf-with-math-79da9a941ec1)
 * [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
@@ -521,9 +522,11 @@ Javascript
 * [Get started with Web Bundles](https://web.dev/web-bundles/)
 * [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 * [닌자 코드](https://ko.javascript.info/ninja-code) 하면 안 되는 코드 작성 방식 설명
+* [SPA에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
+* [JavaScript Module Cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -946,6 +949,7 @@ Javascript
   * [25+ Best Bootstrap Editors & Builders](http://www.cssauthor.com/bootstrap-editors/)
   * [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
 * [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)
+* [Cash - an absurdly small jQuery alternative for modern browsers (IE10+) that provides jQuery-style syntax for manipulating the DOM](https://github.com/kenwheeler/cash/)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
 * [Cerebral is a JavaScript library that puts the controller back in MVC](http://christianalfoni.com/cerebral/)
@@ -2013,7 +2017,6 @@ Javascript
 * [React.js: a better introduction to the most powerful UI library ever created](https://hackernoon.com/react-js-a-better-introduction-to-the-most-powerful-ui-library-ever-created-ecd96e8f4621)
 * [0CJS (zero config javascript) support tool for React](https://github.com/iamssen/react-zeroconfig)
 * [How to code the Game of Life with React](https://medium.freecodecamp.org/coding-the-game-of-life-with-react-7de2385b7356)
-* [React Native 일기장](https://wikidocs.net/book/1878)
 * [How to understand a component’s lifecycle methods in ReactJS](https://medium.freecodecamp.org/how-to-understand-a-components-lifecycle-methods-in-reactjs-e1a609840630)
 * [A beginner’s guide to getting started with React](https://medium.freecodecamp.org/a-beginners-guide-to-getting-started-with-react-c7f34354279e)
 * [How to create your portfolio website using React.js](https://medium.freecodecamp.org/portfolio-app-using-react-618814e35843)
@@ -2025,7 +2028,6 @@ Javascript
 * [How to identify and resolve wasted renders in React](https://medium.freecodecamp.org/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10)
 * [How to build a modern chat application with React.js](https://medium.freecodecamp.org/building-a-modern-chat-application-with-react-js-558896622194)
 * [React JS를 Github Pages에 호스팅하기](https://www.munon.io/react-js-github-pages-deploy)
-* [React Native Chat with Chuck Norris](https://hackernoon.com/react-native-chat-with-chuck-norris-dd5721523742)
 * [Reintroducing React: every React update since v16 demystified](https://medium.freecodecamp.org/reintroducing-react-every-react-update-since-v16-demystified-60686ee292cc)
 * [React.js를 사용한 배너 관리 매니저 샘플 프로젝트](https://github.com/denlyou/reactjs-sample-banner-manager)
 * [How to create a Countdown component using React & MomentJS](https://medium.freecodecamp.org/how-to-create-a-countdown-component-using-react-momentjs-4717edc4ac3)
@@ -2039,7 +2041,6 @@ Javascript
 * [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 * [When to useMemo and useCallback](https://ideveloper2.dev/blog/2019-06-14--when-to-use-memo-and-use-callback)
 * [The State of React - Jared Palmer (@jaredpalmer) at @ReactEurope 2019](https://www.notion.so/The-State-of-React-Jared-Palmer-jaredpalmer-at-ReactEurope-2019-532abd86b3f8435887ac3b9d4d25a339)
-* [React Native Performance: Do and Don't](https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a)
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
 * [React + Typescript + SSR + Code-splitting 환경설정하기](https://medium.com/@minoo/react-typescript-ssr-code-splitting-환경설정하기-d8cec9567871)
 * [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
@@ -2062,7 +2063,6 @@ Javascript
 * [State Colocation will make your react app faster](https://ideveloper2.dev/blog/2019-10-12--state-colocation-will-make-your-react-app-faster)
 * [C언어와 React로 Server Side Rendering 만들기](https://velog.io/@tbvjaos510/C%EC%96%B8%EC%96%B4%EC%99%80-React%EB%A1%9C-SSR%EC%9D%84-%EB%A7%8C%EB%93%A4%EC%96%B4-%EB%B3%B4%EC%9E%90)
 * [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
-* [React Native에서 현재 위치 정보 가져오기](https://dev-yakuza.github.io/ko/react-native/react-native-geolocation-service/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2166,6 +2166,11 @@ Javascript
 * [React Native에서 App 아이콘 & Splash 이미지 만들기](https://dev-yakuza.github.io/ko/react-native/react-native-make/)
 * [Microsoft looks to React Native as a way to tackle the cross-platform development puzzle](https://www.theregister.co.uk/2019/11/07/microsoft_react_native/)
 * [rnplay - react native playground - Build, test and share React Native apps](https://rnplay.org/)
+* [React Native 일기장](https://wikidocs.net/book/1878)
+* [React Native Chat with Chuck Norris](https://hackernoon.com/react-native-chat-with-chuck-norris-dd5721523742)
+* [React Native Performance: Do and Don't](https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a)
+* [React Native에서 현재 위치 정보 가져오기](https://dev-yakuza.github.io/ko/react-native/react-native-geolocation-service/)
+* [Meet Doctor, a new React Native command](https://facebook.github.io/react-native/blog/2019/11/18/react-native-doctor.html)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -2257,6 +2262,7 @@ Javascript
 * [Reactiflux is moving to Discord](https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html)
 * [React Hook Form 유연하고 확장 가능한 사용하기 쉬운 고성능 폼 검증 라이브러리](https://react-hook-form.com/kr/)
 * [React Lifecycle Visualizer](https://github.com/Oblosys/react-lifecycle-visualizer)
+* [Reactime - Time Traveling State Debugger — Reactime — Now Supporting Concurrent Mode, Routers, and more](https://blog.usejournal.com/time-traveling-state-debugger-reactime-now-supporting-concurrent-mode-routers-and-more-56f9ca6f7601)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
   * [Functional Programming in Javascript](http://reactivex.io/learnrx/)
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
@@ -2343,6 +2349,8 @@ Javascript
   * [Creating Readable Tests Using React Testing Library](https://medium.com/flatiron-labs/creating-readable-tests-using-react-testing-library-2bd03c49c284)
 
 # Redux
+* [Redux - A predictable state container for JavaScript apps](https://redux.js.org/)
+  * [Try Redux](http://redux.js.org/docs/introduction/index.html)
 * [Redux is a predictable state container for JavaScript apps](http://rackt.github.io/redux/index.html)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [Redux Blog Example - Full-featured example of publishing platform built with React, Redux, React Router, Babel and Webpack](https://github.com/GetExpert/redux-blog-example)
@@ -2352,7 +2360,6 @@ Javascript
 * [Redux 자바스크립트 앱을 위한 예측 가능한 상태 컨테이너](http://dobbit.github.io/redux/)
 * [What the Flux?! Let’s Redux](https://blog.andyet.com/2015/08/06/what-the-flux-lets-redux)
 * [reduced by redux](http://www.slideshare.net/youngmoon925/reduced-by-redux-58865573?qid=5048b3d9-414b-45dc-90a7-f74681fc7599&v&b&from_search=1)
-* [Try Redux](http://redux.js.org/docs/introduction/index.html)
 * [리덕스(Redux) 애플리케이션 설계에 대한 생각](http://huns.me/development/1953)
 * [Redux Step by Step : 실제 앱을위한 간단하고 탄탄한 워크 플로(Redux Step by Step: A Simple and Robust Workflow for Real Life Apps)](https://www.vobour.com/book/view/SiDR6QXtoCayx7afd)
 * [React, Flux, Redux 관련 자료](http://d2.naver.com/news/7030975)
