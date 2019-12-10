@@ -89,6 +89,7 @@ Data Visualization
 * [R2D3 is an experiment in expressing statistical thinking with interactive design](http://www.r2d3.us/)
 * [April Fools’ 2019: Perception-driven data visualization](https://towardsdatascience.com/perception-driven-data-visualization-e1d0f13908d5)
 * [datavizproject.com](https://datavizproject.com/)
+* [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
