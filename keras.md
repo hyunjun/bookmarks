@@ -177,6 +177,7 @@ Keras
 * [Log melspectrogram layer using tensorflow.keras](https://keunwoochoi.wordpress.com/2019/09/28/log-melspectrogram-layer-using-tensorflow-keras/)
 * [Welcome to Keras](https://docs.google.com/presentation/d/1CAE2_WqvrzxxfbQVYqiKv4R4Ox5xr7arrMFQsdQxPY0/)
 * [Shooting Hoops with Keras and TensorFlow || Zack Akil](https://www.youtube.com/watch?v=QKVpIo5sfGA)
+* [Fire and smoke detection with Keras and Deep Learning](https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/)
 
 # Book
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
@@ -309,3 +310,4 @@ Keras
 * [Keras Tutorial - Spoken Language Understanding](https://chsasank.github.io/spoken-language-understanding.html)
 * [Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)
 * [DeepLearning_Basic_Tutorial](https://github.com/Parkchanjun/DeepLearning_Basic_Tutorial)
+* [Keras_Tutorial_PCJ](https://github.com/Parkchanjun/Keras_Tutorial_PCJ) colab
