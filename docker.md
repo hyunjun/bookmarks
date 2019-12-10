@@ -524,6 +524,9 @@ Docker
 * [gVisor: Building and Battle Testing a Userspace OS in Go](https://www.infoq.com/presentations/gvisor-os-go)
 * [VM 수준의 보안을 제공하는 gVisor 컨테이너 런타임](https://bcho.tistory.com/1355)
 
+# Harbor
+* [**Private Docker Registry를 구축하기 위한 오픈소스 Harbor 도입기**](https://engineering.linecorp.com/ko/blog/harbor-for-private-docker-registry/)
+
 # [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
@@ -666,6 +669,7 @@ Docker
 * [Kubernetes for Beginners - Docker Introduction](https://www.youtube.com/watch?v=rmf04ylI2K0)
 * [Kubernetes The Easy Way!](https://www.youtube.com/watch?v=kOa_llowQ1c)
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
+* [Kubernetes Prometheus Install](https://uni2u.tistory.com/105)
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
@@ -739,6 +743,7 @@ Docker
 * [Kubernetes in Financial Services: A Practical Field Guide](https://www.youtube.com/watch?v=aXPu1DPrfZA)
 * [Should you use Kubernetes and Docker in your next project? - Junior Developers Singapore](https://www.youtube.com/watch?v=7XvgqDlp8sQ)
 * [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
+* [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
 
 # Library
 * Anchore [도커 컨테이너 보안 취약점 스캔 도구 Anchore](https://bcho.tistory.com/1309)
