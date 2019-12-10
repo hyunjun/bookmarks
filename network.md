@@ -47,6 +47,7 @@ Network
 * [How to Identify and Prevent DNS Leaks](https://hackernoon.com/how-to-identify-and-prevent-dns-leaks-5fa659130a41)
 * [An introduction to the Domain Name System](https://medium.freecodecamp.org/understanding-the-domain-name-servers-46c6bcf9afa3)
 * [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
+* [Handshake와 도메인 네임](https://www.thestartupbible.com/2019/12/handshake-wants-to-decentralize-the-dns.html) DNS의 탈중앙화
 
 # Library
 * Cicso packet tracer
@@ -120,6 +121,7 @@ Network
 * [**TCP의 헤더에는 어떤 정보들이 담겨있는걸까?**](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
 * [TCP가 연결을 생성하고 종료하는 방법, 핸드쉐이크](https://evan-moon.github.io/2019/11/17/tcp-handshake/)
 * [패킷의 흐름과 오류를 제어하는 TCP](https://evan-moon.github.io/2019/11/22/tcp-flow-control-error-control/)
+* [사이 좋게 네트워크를 나눠 쓰는 방법, TCP의 혼잡 제어](https://evan-moon.github.io/2019/11/26/tcp-congestion-control/)
 
 # UDP
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
