@@ -234,6 +234,7 @@ NoSQL
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 
 # [H2 Database Engine](http://www.h2database.com/)
+* [테스트 코드에서 H2 DB 사용자 정의 함수 사용하기](https://javacan.tistory.com/entry/use-h2-db-user-defined-function)
 
 # [HazelCast](http://hazelcast.org/)
 * [Mastering Hazelcast IMDG](https://hazelcast.com/resources/mastering-hazelcast)
