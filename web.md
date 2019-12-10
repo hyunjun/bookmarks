@@ -619,6 +619,7 @@ Web
 * [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
 * [REST Tutorial - How to Design a Good RESTful API](https://www.youtube.com/watch?v=sMKsmZbpyjE) 매우 기본적인 사항에 대한 리뷰
 * [RESTful API 설계](https://www.slideshare.net/brotherjinho/restful-api-64494716)
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
