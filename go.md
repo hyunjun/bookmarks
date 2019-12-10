@@ -243,6 +243,7 @@ Go
 * [Part 3 - Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
 * [Part 4 - Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
 * [**Let's Create a Simple Load Balancer With Go**](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
+* [Build a Go package that annotates errors with stack traces. (18 November 2019)](https://www.komu.engineer/blogs/golang-stacktrace/golang-stacktrace)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
@@ -380,6 +381,7 @@ Go
 * [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
 * [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
 * gosiris [An Introduction to gosiris, an Actor Framework for Go](https://medium.com/@teivah/an-introduction-to-gosiris-an-actor-framework-for-go-e0e3ad15b3c7)
+* [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [Gsp is a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
@@ -428,6 +430,7 @@ Go
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
 * [QRCode Terminal](https://github.com/mdp/qrterminal)
+* [Qt binding for Go (Golang) with support for Windows / macOS / Linux / FreeBSD / Android / iOS / Sailfish OS / Raspberry Pi / AsteroidOS / Ubuntu Touch / JavaScript / WebAssembly](https://github.com/therecipe/qt)
 * [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
 * [Ransomware](https://github.com/mauri870/ransomware) The intent here is to disseminate and teach more about security in the actual world. Remember, security is always a double-edged sword
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
