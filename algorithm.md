@@ -457,6 +457,7 @@ Algorithm
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
 * [Cache-friendly binary search](http://bannalia.blogspot.kr/2015/06/cache-friendly-binary-search.html)
+* [등차수열에서 중간에 빠진 수 구하기 : binary search 기법으로 풀면 된다](https://codingdog.tistory.com/entry/%EB%93%B1%EC%B0%A8%EC%88%98%EC%97%B4%EC%97%90%EC%84%9C-%EC%A4%91%EA%B0%84%EC%97%90-%EB%B9%A0%EC%A7%84-%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0-binary-search-%EA%B8%B0%EB%B2%95%EC%9C%BC%EB%A1%9C-%ED%92%80%EB%A9%B4-%EB%90%9C%EB%8B%A4)
 * [Elusive Algorithms – Parallel Scan](https://software.intel.com/en-us/articles/elusive-algorithms-parallel-scan)
 * [Fast Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/papers/multi_index_hashing.pdf)
   * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
