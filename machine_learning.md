@@ -581,6 +581,7 @@ Machine Learning
   * [11. Q-Learning](https://skettee.github.io/post/q_learning/)
   * [12. Q 네트워크 (Q-Networks)](https://skettee.github.io/post/q_network/)
   * [13. Policy Gradient (PG)](https://skettee.github.io/post/policy_gradient/)
+* [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
