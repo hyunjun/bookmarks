@@ -299,7 +299,6 @@
 * [Spark Job On Mesos - Log Handling](http://hoondongkim.blogspot.com/2016/02/spark-job-on-mesos-log-handling.html) programtic하게 log level별로 원하는 장소에 로그 남기기
 * [How to log in Apache Spark](https://hackernoon.com/how-to-log-in-apache-spark-f4204fad78a) log4j
 * [Top 5 Mistakes to Avoid When Writing Apache Spark Applications](https://intellipaat.com/blog/top-5-mistakes-writing-apache-spark-applications/)
-* [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
 * [Locality Sensitive Hashing By Spark](https://www.slideshare.net/SparkSummit/locality-sensitive-hashing-by-spark)
 * [Partition Index - Selective Queries On Really Big Tables](https://medium.com/@adirmashiach/partition-index-selective-queries-on-really-big-tables-795fea737570) Hive, Impala, Spark 등으로 데이터를 조회할 때 전체 테이블을 검색하지 않도록 클라이언트와 데몬 사이에서 인덱스 맵을 만들고 유지 관리를 하며 쿼리를 파싱해주는 balancer를 구현
@@ -504,6 +503,15 @@
   * [Part 4/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-4-4/)
 * [Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker](https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7)
 
+# [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
+* [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)
+* [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
+* [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
+* [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
+* [Processing Hierarchical Data using Spark Graphx Pregel API](http://www.qubole.com/blog/processing-hierarchical-data-using-spark-graphx-pregel-api/)
+  * GraphX API를 사용하는 예제와 방법
+* [Community detection in graph](https://gitlab.com/siddhinath/community) Girvan newman algorithm
+
 # Hbase
 * example
   * [HBaseTest.scala, hbase_inputformat.py](https://gist.github.com/hyunjun/d9d73c5fe8a7f7b17b28)
@@ -594,11 +602,8 @@
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
 * [spark cassandra connector - 스파크에 카산드라 연동하는 라이브러리](http://knight76.tistory.com/entry/spark-spark-cassandra-connector-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%97%90-%EC%B9%B4%EC%82%B0%EB%93%9C%EB%9D%BC-%EC%97%B0%EB%8F%99%ED%95%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 * [spark-indexed - An efficient updatable key-value store for Apache Spark](https://github.com/amplab/spark-indexedrdd)
-* [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
 * [Sparkline SNAP](http://sparklinedata.com/)
   * [Introducing Sparkline SNAP: An Integrated OLAP platform on Spark](http://sparklinedata.com/sparkline-snap-olap-on-spark/)
-* [Sparklint - The missing Spark Performance Debugger that can be drag and dropped into your spark application!](https://github.com/groupon/sparklint)
-  * [SparkLint: a Tool for Monitoring, Identifying and Tuning Inefficient Spark Jobs (Simon Whitear)](https://www.youtube.com/watch?v=reGerTzcvoA)
 * [spark-nkp Natural Korean Processor for Apache Spark](https://github.com/uosdmlab/spark-nkp)
 * [Spark Notebook](http://spark-notebook.io/)
 * [SparMysqlSample](https://github.com/hoonmokmoon/SparMysqlSample)
@@ -609,14 +614,16 @@
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 
-# [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
-* [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)
-* [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
-* [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
-* [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
-* [Processing Hierarchical Data using Spark Graphx Pregel API](http://www.qubole.com/blog/processing-hierarchical-data-using-spark-graphx-pregel-api/)
-  * GraphX API를 사용하는 예제와 방법
-* [Community detection in graph](https://gitlab.com/siddhinath/community) Girvan newman algorithm
+## Library Monitoring
+* [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
+* [Apache Spark performance - All relevant key performance metrics about your Apache Spark instance in minutes](https://www.dynatrace.com/technologies/apache-spark-monitoring/apache-spark-performance/)
+* [HTRACE TUTORIAL: HOW TO MONITOR YOUR DISTRIBUTED SYSTEMS](https://www.scalyr.com/blog/htrace-tutorial-how-to-monitor-distributed-systems)
+* [spark-dependencies - Spark job for dependency links http://jaegertracing.io ](https://github.com/jaegertracing/spark-dependencies)
+* [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
+* [Sparklint - The missing Spark Performance Debugger that can be drag and dropped into your spark application!](https://github.com/groupon/sparklint)
+  * [SparkLint: a Tool for Monitoring, Identifying and Tuning Inefficient Spark Jobs (Simon Whitear)](https://www.youtube.com/watch?v=reGerTzcvoA)
+* [sparkoscope - Enabling Spark Optimization through Cross-stack Monitoring and Visualization](https://github.com/ibm-research-ireland/sparkoscope)
+* [zipkin-dependencies - Spark job that aggregates zipkin spans for use in the UI](https://github.com/openzipkin/zipkin-dependencies)
 
 # Machine Learning
 * [BerkeleyX: CS190.1x Scalable Machine Learning](https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/)
