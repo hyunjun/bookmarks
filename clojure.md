@@ -496,6 +496,7 @@ Clojure
 # Excel
 * [Clojure Development Environment for Excel](https://github.com/whamtet/Excel-REPL)
 * [Integrating Excel and Clojure](https://medium.com/@tony_86605/integrating-excel-and-clojure-a417c39bd566)
+* [excel-clj](https://github.com/matthewdowney/excel-clj)
 
 # Library
 * [The Top 100 Clojure Libraries in 2016 - After Analyzing 30,000+ Dependencies](http://blog.takipi.com/the-top-100-clojure-libraries-in-2016-after-analyzing-30000-dependencies/)
