@@ -224,6 +224,7 @@ Programming
 * [#naming closing, closed 대신 will close, did close](http://ohyecloudy.com/pnotes/archives/naming-will-close-or-closing/)
 * [그룹웨어 결재 기능으로 보이는 동료의 작명 검토를 하다가...](https://www.popit.kr/%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4-%EA%B2%B0%EC%9E%AC-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%84-%EB%B3%B4%EB%A9%B4%EC%84%9C)
 * [Welcome - The Naming Convention Project](https://namingconvention.org)
+* [약어](https://gist.github.com/skt-t1-byungi/8a44db3e4991cd66209841b93a1ab496) naming
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
