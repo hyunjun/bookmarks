@@ -997,6 +997,7 @@ Javascript
   * [Electron으로 데스크톱 앱을 개발한 경험](https://blog.outsider.ne.kr/1422)
   * [How to create an Electron app using Angular and SQLite3](https://medium.freecodecamp.org/creating-an-electron-app-using-angular-and-sqlite3-24ca7d892810)
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #1 프로젝트 세팅하기](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
+  * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #2 라우팅](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-%EB%9D%BC%EC%9A%B0%ED%8C%85/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
