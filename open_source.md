@@ -39,6 +39,7 @@ Open Source
 * [실패한 오픈소스 공헌으로 배워가기](https://www.slideshare.net/sungheeekang/ss-78744477)
 * [오픈소스 번역 기여하기](https://www.slideshare.net/changwoo/ss-79394446)
 * [차근차근 오픈소스에 기여해보기 (동기부여 편)](https://rinae.dev/posts/how-to-contribute-oss)
+* [나의 첫 오픈 소스 기여 ✨](https://www.notion.so/a0f24962593948d9a7a18a20e1d8f1cb)
 * [오픈소스 프로젝트에 참여해야 하는 이유](https://www.youtube.com/watch?v=OppYgZSQlFE)
 * [오픈 소스 프로젝트를 더 잘 릴리스하는 요령들](https://spoqa.github.io/2017/09/28/foss-release-tips.html)
 * **[사내에서 눈치를 안 보고 오픈소스 프로젝트 하기](http://kimjihyok.info/2017/09/27/%EC%82%AC%EB%82%B4%EC%97%90%EC%84%9C-%EB%88%88%EC%B9%98%EB%A5%BC-%EC%95%88-%EB%B3%B4%EA%B3%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EA%B8%B0/)**
