@@ -77,6 +77,7 @@ Artificial Intelligence
   * [AI 4차 (2018년 2월~6월)](https://d2.naver.com/news/6008687)
   * [AI 5차 (2018년 7월~11월)](https://d2.naver.com/news/2657726) NLP
   * [AI 6차 (2018년 12월~2019년 3월)](https://d2.naver.com/news/1369535)
+  * [NAVER Tech Talk: AI 7차 (2019년 1월, 5월~10월)](https://d2.naver.com/news/7618832)
 * [The Three Way Race to the Future of AI. Quantum vs. Neuromorphic vs. High Performance Computing](https://www.datasciencecentral.com/profiles/blogs/the-three-way-race-to-the-future-of-ai-quantum-vs-neuromorphic-vs)
 * [AI Blocks - A powerfull and intuitive WYSIWYG interface that allows anyone to create Machine Learning models!](https://github.com/MrNothing/AI-Blocks)
 * [Artificial Intelligence, AI in 2018 and beyond](https://towardsdatascience.com/artificial-intelligence-ai-in-2018-and-beyond-e06f05167f9c)
