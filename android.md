@@ -134,6 +134,7 @@ Android
 * [안드로이드에서 뷰가 그려지는 과정](https://jungwoon.github.io/android/2019/10/02/How-to-draw-View/)
 * [protectionLevel이 System인 퍼미션](http://sunphiz.me/wp/archives/3332)
 * [카카오톡이나 페이스북에서 사용하는 HashKey 얻어오기](https://developer88.tistory.com/235)
+* [LINE Android 애플리케이션 빌드에 R8 컴파일러 적용하기](https://engineering.linecorp.com/ko/blog/line-android-app-build-with-r8-compiler/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
