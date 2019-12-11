@@ -437,3 +437,4 @@ Programming Language
 * [What are covariance and contravariance?](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance)
   * **[공변성과 반공변성은 무엇인가?](https://edykim.com/ko/post/what-is-coercion-and-anticommunism/)**
 * [Static type의 맹점](https://b.luavis.kr/web/the-shocking-secret-about-static-types)
+* [The Future of Programming is Dependent Types — Programming Word of the Day](https://medium.com/background-thread/the-future-of-programming-is-dependent-types-programming-word-of-the-day-fcd5f2634878)
