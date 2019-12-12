@@ -756,6 +756,7 @@ Programming
 * [Bazel - Correct, reproducible, fast builds for everyone](http://bazel.io/)
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
   * [Speedy Scala Builds with Bazel at Databricks](https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html)
+  * [Continuous integration and deployment with Bazel](https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
 
 # Cloud
