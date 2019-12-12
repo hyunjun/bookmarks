@@ -1344,6 +1344,7 @@ Python
 * [Django 문서](https://docs.djangoproject.com/ko)
   * [docs.djangoproject.com/ko/2.1/intro/tutorial01](https://docs.djangoproject.com/ko/2.1/intro/tutorial01/)
     * [django(v2.1) tutorial](https://github.com/aiacademy131/django-tutorial)
+* [www.askcompany.kr/r](https://www.askcompany.kr/r/)
 * [(번역) Django 공식문서 - Introduction to models](https://lhy.kr/django-introduction-to-models)
 * [Django resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Django/resources.md)
 * [Learn Django: Payment Processing](https://www.udemy.com/learn-django-code-accept-payments-with-stripe/)
