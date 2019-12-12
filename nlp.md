@@ -302,6 +302,7 @@ NLP
 * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Processing)](https://www.slideshare.net/wonjoonyoo/ss-188835227)
 * [한국어 데이터 Tokenizer](http://www.dafit.me/question/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=2622480&t=board)
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)
+* [일본어 NLP 프로젝트 시작하기](https://blog.pingpong.us/japanese/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
