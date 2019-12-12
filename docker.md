@@ -40,6 +40,7 @@ Docker
 * [Docker: Getting Started with Docker Docker 시작하기](http://www.sauru.so/blog/getting-started-with-docker/)
 * [Docker: Installation and Test Drive Utuntu 위에 Docker 설치하고 맛보기](http://www.sauru.so/blog/docker-installation-and-test-drive/)
 * [Docker: 나의 첫 Docker Image Build and Push my own Docker Image](http://www.sauru.so/blog/build-my-first-docker-image/)
+* [Docker image](https://trylhc.tistory.com/entry/Docker-image)
 * [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics)
 * [Docker](https://github.com/sangyeol-kim/ausg-docker-seminar/tree/master/1.Docker)
 * [Docker](https://www.youtube.com/playlist?list=PLfI752FpVCS84hxOeCyI4SBPUwt4Itd0T) Docker, Kubernetes, google cloud 배포, Dockerfile 없이 image build
