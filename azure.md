@@ -72,6 +72,7 @@ Azure
 * [로직 앱에서 배열의 가장 최근 값을 받아오기](https://blog.aliencube.org/ko/2019/11/06/getting-the-latest-array-item-in-logic-app/)
 * [로직 앱에서 인라인 스크립트를 이용해 배열의 가장 최근 값을 받아오기](https://blog.aliencube.org/ko/2019/11/14/getting-the-latest-array-item-with-inline-script-in-logic-app)
 * [로직 앱을 이용해서 애저 키 저장소 시크릿을 백업/복원하기](https://blog.aliencube.org/ko/2019/11/21/backup-restore-key-vault-secrets-via-logic-apps/)
+* [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions)
 * [Azure 스토리지 복제 옵션 변경 시 비용 이슈(RA-GRS)](https://www.dokyun.pe.kr/248)
 * [Democratizing agriculture intelligence: introducing Azure FarmBeats](https://azure.microsoft.com/en-us/blog/democratizing-agriculture-intelligence-introducing-azure-farmbeats/)
 
