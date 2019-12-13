@@ -29,6 +29,7 @@ Finance
 * [토스가 현대카드를 연동하는 방법에 동의하지 않습니다](https://blog.outsider.ne.kr/1442)
 * [JP MORGAN의 DEEP HEDGING](https://smallake.kr/?p=28006)
 * [JP MORGAN의 DEEP HEDGING 둘째](https://smallake.kr/?p=28132)
+* [신용 점수 서비스, LINE Score를 소개합니다!](https://engineering.linecorp.com/ko/blog/introduce-credit-score-service-line-score/) 개발 이야기는 아니지만 재미있게 읽을만한 글
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
