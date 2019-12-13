@@ -1017,6 +1017,12 @@ Programming
   * [Teamcity Github 로그인 연동](https://jojoldu.tistory.com/454)
   * [TeamCity 빌드 실패시 결과 Slack으로 알람 받기](https://jojoldu.tistory.com/458)
 
+# Data Mesh
+* [Future of Data Engineering](https://www.infoq.com/presentations/data-engineering-pipelines-warehouses/)
+  * data pipeline evolution: Batch => Streaming => Automation => Microwarehouses (Distributed Data Mesh)
+  * Data catalogs are gaining popularity: Apache Atlas, DataHub(LinkedIn), Marquez(WeWork), Data Catalog(Google)
+* [Data Mesh Paradigm Shift in Data Platform Architecture](https://www.infoq.com/presentations/data-mesh-paradigm/)
+
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
