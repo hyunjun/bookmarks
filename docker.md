@@ -788,6 +788,7 @@ Docker
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
+* [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
 * [netmanager 1.0 - Network management for docker containers](https://github.com/vmulas/docker-netmanager)
 * [Network Containers](https://www.zerotier.com/blog/?p=490)
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy)
