@@ -1207,7 +1207,13 @@ Python
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * [Quart - a Python asyncio web microframework with the same API as Flask](https://gitlab.com/pgjones/quart)
   * [Websockets in Quart](https://medium.com/@pgjones/websockets-in-quart-f2067788d1ee)
-* **[Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)**
+* [Sanic - a Flask-like Python 3.5+ web server that's written to go fast](https://github.com/channelcat/sanic)
+  * 한동안 top 10 contributor였던 개발자 [Jeong YunWon](http://youknowone.github.io/)님의 경고
+    * flask와 비슷하다 = 사기. 이제 그런 소개도 빼버린것 같은데, 개발자들은 호환성 맞출 생각 없음. url path도, blueprint도, 사실은 아무것도 안맞으므로, flask와 비슷해 보여서 쓰기로 결심했다면 사용하면 안됨. decorator 씌워서 route하는거 딱 하나만 비슷
+    * 전반적으로 소프트웨어 디자인 자체에 대해 별 생각이 없음. 참고: https://github.com/huge-success/sanic/issues/37
+    * 품질 관리보다 벤치마크에 집착. 벤치마크에 큰 향상이 있으면 쉽게 릴리즈. 심각한 소프트웨어 버그는 때로는 몇달씩 릴리즈되지 않을 수 있음. http 헤더 fragment를 잘못 파싱해 헤더가 누락되는 버그는 master에 머지된 후 릴리즈되기 까지 6개월
+    * 프로파일링 기반으로 성능을 측정함에도 불구하고 합리적인 reasoning 없이 성능미신에 의해 최적화. 이 코드는 현재 사라졌으니 이 정도만 코멘트.
+    * 위와 같은 문제와 여러 변주 이후로 토론에 지친 "정상적인 설계"를 원하는 초기 기여자들은 대부분 떠남. Contributors에 들어가서 기여자들이 얼마나 빨리 떠나는지 보고, 그들이 어떤 이슈에 참여했나 보면 어떤 일이 일어나는지 알 수 있음
   * [sanic.readthedocs.io](http://sanic.readthedocs.io/)
   * [Dougal Matthews - Async Web Apps with Sanic](https://www.youtube.com/watch?v=wb0lk4e9DEg)
   * [Python Sanic Tutorial](https://www.youtube.com/watch?v=WiGsWfwh0yY)
@@ -3538,6 +3544,7 @@ Python
 * [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
   * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
 * [Building a Windows Shortcut with Python](https://pbpython.com/windows-shortcut.html)
+* [Python과 Windows Program간의 데이터 공유](https://blog.naver.com/educoding/221737503305) memory mapped file, MFC <-> python
 * [Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules](http://www.dependencywalker.com/)
 * [DUMPBIN Reference](https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference) examine COFF, exe, DLL files
 * ironpython
