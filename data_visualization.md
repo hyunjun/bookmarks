@@ -224,6 +224,7 @@ Data Visualization
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [파이썬 Python으로 다양한 시각화 라이브러리 사용하기 - matplotlib, seaborn, pandas, ggplot, plotnine, plot.ly, Bokeh](https://www.youtube.com/watch?v=NFwWUu96rzI)
 * [**데이터 시각화**](https://dailyheumsi.tistory.com/category/%EB%B0%B0%EC%9A%B4%EA%B1%B0%20%EC%A0%81%EC%96%B4%EB%86%93%EA%B8%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94)
+* [이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
 * Bokeh
