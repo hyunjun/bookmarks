@@ -124,6 +124,7 @@
 * [나 혼자 Kotlin v1.0 - Part.1](https://www.sangkon.com/kotlin_study_with_tdd_part_1/)
 * [Kotlin cheatsheet](https://devhints.io/kotlin)
 * [백엔드 서버 개발과 코틀린의 조합](https://www.slideshare.net/greatstone81/ss-196878451)
+* [JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
