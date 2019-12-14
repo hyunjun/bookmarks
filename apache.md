@@ -200,6 +200,7 @@ Apache
 * [europe-2019.flink-forward.org/conference-program](https://europe-2019.flink-forward.org/conference-program)
 * [Apache Flink® SQL Training](https://github.com/ververica/sql-training)
 * [Do Flink on Web with FLOW](https://speakerdeck.com/eastcirclek/do-flink-on-web-with-flow)
+* [0x90e.github.io/tags/Flink](https://0x90e.github.io/tags/Flink/) 사용자 코드가 어떻게 Graph로 만들어지고 JobManager로 submit 되는지 코드 단위로 설명한 포스트라고 하는데 중국어
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
