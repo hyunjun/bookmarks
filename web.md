@@ -22,6 +22,7 @@ Web
   * [웹 애플리케이션 만들기 수업](https://www.youtube.com/playlist?list=PLuHgQVnccGMAE4Sn_SYvMw5-qEADJcU-X)
   * [WEB1 2th](https://www.youtube.com/playlist?list=PLuHgQVnccGMCB3zjVwgUxlrpEN_OKr1iG)
 * [Beginning your Web Development Journey? Start Here](https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762)
+* [INTRO TO WEB DEV V2 - VIDEOS ON FRONTEND MASTERS](https://btholt.github.io/intro-to-web-dev-v2/)
 * [Web 학습하기](https://developer.mozilla.org/ko/docs/Learn)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
@@ -543,6 +544,7 @@ Web
 * [Top 5 Useful Python Libraries Web Developers Can't Live Without](http://findnerd.com/list/view/Top-5-Useful-Python-Libraries-Web-Developers-Can-t-Live-Without/34138/)
 * [Web Scraping Tutorial with Python: Tips and Tricks](https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html)
 * [Web Application from Scratch, Part I](https://hackernoon.com/web-application-from-scratch-part-i-314ea8203e64)
+* [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 
 # Restful
 * [restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
@@ -580,6 +582,7 @@ Web
 * [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
 * **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
 * [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
+* [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 * [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
 * [O API — an alternative to REST APIs](https://hackernoon.com/o-api-an-alternative-to-rest-apis-e9a2ed53b93c)
 * [백엔드 개발자와 협업하는 두 가지 방법](https://blog.coderifleman.com/2018/03/03/two-ways-to-collaborate-with-backend-developer/)
