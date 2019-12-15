@@ -582,6 +582,7 @@ Machine Learning
   * [12. Q 네트워크 (Q-Networks)](https://skettee.github.io/post/q_network/)
   * [13. Policy Gradient (PG)](https://skettee.github.io/post/policy_gradient/)
 * [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/)
+* [**Rules of Machine Learning: Best Practices for ML Engineering 정리**](https://zzsza.github.io/data/2019/12/15/rules-of-ml)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -953,6 +954,7 @@ Machine Learning
 * [machinelearningmastery.com/start-here](https://machinelearningmastery.com/start-here/)
 * [What are Some ‘Advanced ‘ AI and Machine Learning Online Courses?](https://towardsdatascience.com/what-are-some-advanced-ai-and-machine-learning-online-courses-8609ab281450)
 * [Top 5 Machine Learning Courses for 2019](https://medium.com/@LearnDataSci/top-5-machine-learning-courses-for-2019-8a259572686e)
+* [**A practical approach to machine learning**](https://practicalai.me/)
 
 # Python
 * **[Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning](https://github.com/eriklindernoren/ML-From-Scratch)**
@@ -1065,6 +1067,7 @@ Machine Learning
   * [**Multiple Linear Regression and Visualization in Python**](https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python) 3D linear regression model 시각화
   * [PCA using Python (scikit-learn)](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
+* [shrynk - Using Machine Learning to learn how to Compress](https://vks.ai/2019-12-05-shrynk-using-machine-learning-to-learn-how-to-compress)
 * sklearn
   * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
   * [hyperopt-sklearn Hyper-parameter optimization for scikit-learn](http://hyperopt.github.io/hyperopt-sklearn/)
