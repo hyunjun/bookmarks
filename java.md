@@ -463,6 +463,7 @@ Java
   * 여러가지 GC algorithm 기본 동작 방식 소개
 * **[G1: Garbage first garbage collector](https://b.luavis.kr/server/g1-gc)**
 * [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
+* [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 * [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
@@ -487,6 +488,7 @@ Java
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
+* [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
   * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
 * **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
