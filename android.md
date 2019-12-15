@@ -241,6 +241,7 @@ Android
   * [RxJava2 정리 #4 - 디버깅과 예외처리 및 흐름 제어](https://jungwoon.github.io/rxjava2/2019/07/05/RxJava-4)
   * [RxJava2 정리 #5 - 테스팅과 Flowable](https://jungwoon.github.io/rxjava2/2019/07/05/RxJava-5/)
   * [RxJava와 Kotlin Coroutines 비교해보기](https://thdev.tech/kotlin/2018/11/07/RxJava-To-Kotlin-Coroutine/)
+  * [Coroutine에 대해서 좀 더 정리해 보겠습니다](https://developer88.tistory.com/222)
   * [A complete roadmap for learning RxJava](https://medium.freecodecamp.org/a-complete-roadmap-for-learning-rxjava-9316ee6aeda7)
   * [RxJava를 사용해서 안드로이드 앱 만들기](https://dev-daddy.tistory.com/26)
   * [Lifecycle 에 맞춰 RxJava Stream 재실행하기](https://medium.com/@jsuch2362/lifecycle-%EC%97%90-%EB%A7%9E%EC%B6%B0-rxjava-stream-%EC%9E%AC%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-54f7a1f721ed)
@@ -272,4 +273,5 @@ Android
 * [Better Android Testing at Airbnb — Part 1: Philosophy and Mocking](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-3f5b90b9c40a)
 * [Better Android Testing at Airbnb — Part 2: Screenshot Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a77ac9531cab)
 * [Better Android Testing at Airbnb — Part 3: Interaction Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-1d1e91e489b4)
+* [Better Android Testing at Airbnb — Part 4: Testing ViewModels](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-part-4-testing-viewmodels-550d929126c8)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
