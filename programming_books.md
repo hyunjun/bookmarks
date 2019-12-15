@@ -897,6 +897,7 @@ Programming Books
   * 탐라 문005.133-닐895ㅎ
   * 한라 005.136-포27ㅎ
   * java, closure, groovy, scala등 jvm 언어로 함수형으로 사고를 전환하는 이야기
+  * [**기존의 사고 방식을 깨부수는 함수형 사고**](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
 * **[Practical 자바 유틸리티: Git, 서브버전, 메이븐, 그레이들, JUnit, 트랙, 젠킨스, JMeter](https://blog.insightbook.co.kr/2016/09/21/practical-%EC%9E%90%EB%B0%94-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-git-%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84-%EB%A9%94%EC%9D%B4%EB%B8%90-%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4-junit-%ED%8A%B8/)**
   * 한라 005.1-장66ㅍ
   * 다루는 종류가 많고, 참고 서적이 없는 부분에 대한 건 참 좋음
