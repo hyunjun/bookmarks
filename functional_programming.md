@@ -207,6 +207,7 @@ Functional Programming
 * [선언형으로 대체 가능한 문법들 정리](https://chodragon9.github.io//blog/declarative-function/)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
+* [fantasy-land - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
 * [immer - Create the next immutable state by mutating the current one](https://github.com/mweststrate/immer)
   * [03 - Michel Weststrate - Immer Immutability made easy](https://www.youtube.com/watch?v=-gJbS7YjcSo)
   * [Immer: Immutability made easy](https://immer.surge.sh/)
