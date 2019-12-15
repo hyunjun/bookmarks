@@ -239,6 +239,7 @@ PyTorch
   * [Optimizing Deep Neural Networking with Delve - Justin Shenk](https://www.youtube.com/watch?v=kFT58uIRd1Q)
 * [Detectron with VoVNet : select the vovnet branch https://arxiv.org/abs/1904.09730 ](https://github.com/stigma0617/maskrcnn-benchmark-vovnet/tree/vovnet)
 * [Detectron2: A PyTorch-based modular object detection library](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
+* [**Detectron2 Tutorial**](https://colab.research.google.com/github/visionNoob/detectron2_aihub_tutorial/blob/master/Detectron2_Tutorial_(kor_ver).ipynb)
 * [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
