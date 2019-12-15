@@ -225,6 +225,7 @@ NoSQL
   * [Understanding Firebase Auth Profiles](https://medium.com/@Skaaptjop/understanding-firebase-auth-profiles-f162605a1aed)
   * [Firebase + Algolia Searching](https://itnext.io/firebase-algolia-6c58fba930b7)
   * [Firebase Cloud Messaging(FCM)에 대해서 알아보자](https://developer88.tistory.com/159)
+  * [Patterns for security with Firebase: offload client work to Cloud Functions](https://medium.com/firebase-developers/patterns-for-security-with-firebase-offload-client-work-to-cloud-functions-7c420710f07)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
