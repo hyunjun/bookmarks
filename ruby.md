@@ -59,6 +59,7 @@ Ruby
 * [Fluentd: a High Performance Unified Logging Layer](http://www.linux.com/news/enterprise/high-performance/147-high-performance/847237-fluentd-a-high-performance-unified-logging-layer)
 * [foghorn - Add a little Foghorn Leghorn to your ruby](https://github.com/rickr/foghorn)
 * [infraruby](http://infraruby.com/)
+* [Jets: The Ruby Serverless Framework](https://rubyonjets.com/)
 * [JRuby](http://blog.jruby.org/2015/07/jruby_9000/)
 * [Kiba - a lightweight Ruby ETL framework](http://www.kiba-etl.org/)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
@@ -87,6 +88,7 @@ Ruby
 * [timetabl/positano - Crawler for lecture list and schedules](https://github.com/timetabl/positano)
 * [μLithp - A micro LISP implementation in 27 lines of Ruby. http://fogus.github.com/ulithp ](https://github.com/fogus/ulithp)
 * [vim-flay - Analyze Ruby code for structural similarities](https://github.com/prophittcorey/vim-flay)
+* [TensorFlow - the end-to-end machine learning platform - for Ruby](https://github.com/ankane/tensorflow)
 * [webinspector - Ruby gem to inspect completely a web page](https://github.com/davidesantangelo/webinspector)
 
 # Ruby on Rails
@@ -110,6 +112,3 @@ Ruby
 * [A simple explanation of Service Objects for Ruby on Rails](https://medium.freecodecamp.org/service-objects-explained-simply-for-ruby-on-rails-5-a8cc42a5441f)
 * [Contributing to Ruby on Rails is not hard. Here’s how you can suggest a new feature](https://medium.freecodecamp.org/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69)
 * [Integrating Bootstrap 4 into Rails 6](https://hackernoon.com/integrating-bootstrap-4-into-rails-6-9ae2bbb44999)
-
-# Library
-* [TensorFlow - the end-to-end machine learning platform - for Ruby](https://github.com/ankane/tensorflow)
