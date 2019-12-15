@@ -186,6 +186,7 @@ Programming
 * [보안 그리고 암호화 알고리즘](https://naleejang.tistory.com/218)
 * **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
 * **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
+* [Floating Point Math](https://0.30000000000000004.com/)
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
@@ -1113,6 +1114,7 @@ Programming
 * [Avoiding race conditions in SharedArrayBuffers with Atomics](https://hacks.mozilla.org/2017/06/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [managed language와 unmanaged language?](https://blog.seulgi.kim/2019/04/managed-language-vs-unmanaged-langauge.html) GC가 메모리를 관리하는 유일한 방법이 아니다!
 * [Garbage collection과 memory leak](https://blog.seulgi.kim/2019/04/garbage-collection-and-memory-leak.html)
+* [Garbage Collection](http://craftinginterpreters.com/garbage-collection.html)
 * [메모리 취약점:과거, 현재, 미래 (1) 개요](https://cpuu.postype.com/post/3938882)
 * [메모리 취약점:과거, 현재, 미래 (2) NX / DEP](https://cpuu.postype.com/post/3944558)
 * [메모리 취약점:과거, 현재, 미래 (3) Canaries](https://cpuu.postype.com/post/3980627)
@@ -1211,6 +1213,7 @@ Programming
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
+* [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 * [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
   * [알짜 e강의만 모아 볼까…OSS 대학](http://www.bloter.net/archives/240899)
@@ -1389,6 +1392,8 @@ Programming
   * [11월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-11-2.html)
   * [11월 3주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/11/b-11-3.html)
   * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-11-4.html)
+  * [12월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/12/b-12-1.html)
+  * [12월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/12/b-12-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
