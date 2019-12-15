@@ -46,6 +46,7 @@ Git
   * [Git Large File Storage v1.0](https://github.com/blog/2069-git-large-file-storage-v1-0)
 * [Git in six hundred words](http://maryrosecook.com/blog/post/git-in-six-hundred-words)
 * [Git from the inside out](http://maryrosecook.com/blog/post/git-from-the-inside-out)
+* [Git from the inside out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
 * [12가지 명령어로 배우는 Git](https://www.youtube.com/playlist?list=PLcqDmjxt30RvjqpIBi4mtkK5LkzYtXluF)
 * [나를 구원해줄 그 분은 바로 git. 그리고 github](http://blog.puding.kr/187)
