@@ -41,6 +41,7 @@ App
 * [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
+* [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
   * [패스워드 관리 프로그램 비교](https://www.youtube.com/watch?v=d2xMOZgqidI)
@@ -450,6 +451,7 @@ App
   * [8 Best LaTeX Editors](https://beebom.com/best-latex-editors/)
   * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
   * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
+  * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
@@ -729,6 +731,7 @@ App
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [coggle.it](https://coggle.it/)
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
+* [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
 * **[draw.io](https://www.draw.io/)**
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
@@ -866,6 +869,7 @@ App
 * [유니콘 - HTTPS 차단 우회앱](http://unicorn-adblock.com/%EC%9C%A0%EB%8B%88%EC%BD%98-https-for-windows/)
 * [**맥을 쓰는 닷넷 개발자들을 위한 도구들 모음**](https://blog.aliencube.org/ko/2019/12/05/tools-for-dotnet-devs-on-mac)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
+* [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
 * [Everything](https://www.voidtools.com)
 * [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) spectacle처럼 윈도우에서 레이아웃 조정하는 앱
