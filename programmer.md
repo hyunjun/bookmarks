@@ -33,3 +33,4 @@ Programmer
 * [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
 * [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
+* [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
