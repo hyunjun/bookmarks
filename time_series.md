@@ -32,6 +32,10 @@ Time Series
 * [Everything you can do with a time series](https://www.kaggle.com/thebrownviking20/everything-you-can-do-with-a-time-series)
   * [Everything you can do with a time series @subinium](https://nbviewer.jupyter.org/gist/subinium/26d22a786b0b7d088da63a97bf8e1d44)
   * [everything-you-can-do-with-a-time-series.ipynb](https://gist.github.com/subinium/26d22a786b0b7d088da63a97bf8e1d44)
+* [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices)
+
+# Book
+* [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
 
 # Library
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
