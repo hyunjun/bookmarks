@@ -127,6 +127,7 @@
 * [What are the benchmarks of Golang vs. Rust?](https://www.quora.com/What-are-the-benchmarks-of-Golang-vs-Rust)
 * [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
 * [Functional Aspect of Rust](https://medium.com/@knoldus/functional-aspect-of-rust-a27e73fdf813)
+* [How to RiiR](http://adventures.michaelfbryan.com/posts/how-to-riir/index.html) C 호출
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
