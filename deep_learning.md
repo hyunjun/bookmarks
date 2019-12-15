@@ -57,6 +57,7 @@ Deep Learning
   * [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLkkuNyzb8LmxFutYuPA7B4oiMn6cjD6Rs)
 * [Deep Learning Book](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
 * [A Beginner’s Guide to Deep Neural Networks](http://googleresearch.blogspot.kr/2015/09/a-beginners-guide-to-deep-neural.html)
+* [A Guide to Production Level Deep Learning](https://github.com/alirezadir/Production-Level-Deep-Learning)
 * [A “weird” introduction to Deep Learning](https://towardsdatascience.com/a-weird-introduction-to-deep-learning-7828803693b0)
 * [A Gentle Introduction to Deep Learning - Singapore Python User Group](https://www.youtube.com/watch?v=wr8GDhtPWVo)
 * [Newbie’s guide to Deep Learning](https://towardsdatascience.com/newbies-guide-to-deep-learning-6bf601c5a98e)
