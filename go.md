@@ -225,6 +225,7 @@ Go
 * [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
 * [Golang 개발시 Makefile 사용해보기](https://jusths.tistory.com/130)
+* [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 * [Password Stretching using Key Derivation Function(KDF)](https://hackernoon.com/password-stretching-using-key-derivation-function-kdf-a5abc570f9e5)
 * [Slack Slash Command - 영한 번역(1)](https://jusths.tistory.com/136)
 * [Slack Slash Command - 영한 번역(2)](https://jusths.tistory.com/137)
@@ -244,6 +245,7 @@ Go
 * [Part 4 - Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
 * [**Let's Create a Simple Load Balancer With Go**](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 * [Build a Go package that annotates errors with stack traces. (18 November 2019)](https://www.komu.engineer/blogs/golang-stacktrace/golang-stacktrace)
+* [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
