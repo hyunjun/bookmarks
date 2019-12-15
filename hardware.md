@@ -33,6 +33,7 @@
 * [10 Single-Board Computers Worthy of Hacking Projects Big & Small](https://null-byte.wonderhowto.com/how-to/raspberry-pi-alternatives-10-single-board-computers-worthy-hacking-projects-big-small-0196340/)
 * [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
 * [엔트리 하드웨어 개발](https://ryulib.tistory.com/466)
+* [The ZedRipper: Part 1](http://www.chrisfenton.com/the-zedripper-part-1/)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
