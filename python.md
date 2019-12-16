@@ -3097,6 +3097,7 @@ Python
 * [Cleaning Up Currency Data with Pandas](https://pbpython.com/currency-cleanup.html)
 * [상관관계 분석(Pandas) & Heatmap 그리기](https://blog.naver.com/kiddwannabe/221205309816)
 * [Tips for Selecting Columns in a DataFrame](https://pbpython.com/selecting-columns.html)
+* [Finding Natural Breaks in Data with the Fisher-Jenks Algorithm](https://pbpython.com/natural-breaks.html)
 * [vaex - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex)
   * [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 
