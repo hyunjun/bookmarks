@@ -125,6 +125,7 @@
 * [Kotlin cheatsheet](https://devhints.io/kotlin)
 * [백엔드 서버 개발과 코틀린의 조합](https://www.slideshare.net/greatstone81/ss-196878451)
 * [JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
+* [JSON to Kotlin Class 플러그인 통해 데이터 클래스 생성하기](https://developer88.tistory.com/239)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
