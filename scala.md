@@ -174,6 +174,8 @@ Scala
   )
   ```
 * [Useful Scala Compiler Options Part 2: Advanced Language Features](https://www.threatstack.com/blog/useful-scala-compiler-options-part-2-advanced-language-features)
+* [Weird Case of Scala Compiler Slow Performance](https://medium.com/@Ivanobulo/weird-case-of-scala-compiler-slow-performance-70463b8c8a5a)
+* [Make Your Scala Compiler Work Harder](https://medium.com/life-at-hopper/make-your-scala-compiler-work-harder-971be53ae914)
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
 * [Toward a polyglot James server…](https://medium.com/linagora-engineering/toward-a-polyglot-james-server-c3f3c92655db)
@@ -233,7 +235,6 @@ Scala
 * [Lucene Multi Term Query field search working example in Scala](https://medium.com/@adrian.n/lucene-multi-term-query-field-search-working-example-in-scala-efb7648cf89b)
 * [Interactively exploring Reddit posts using basic Scala in your browser](https://towardsdatascience.com/interactively-exploring-reddit-posts-using-basic-scala-in-your-browsers-f394843069de)
 * [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
-* [Weird Case of Scala Compiler Slow Performance](https://medium.com/@Ivanobulo/weird-case-of-scala-compiler-slow-performance-70463b8c8a5a)
 * [Machine Learning with Scala in Google Colaboratory](https://medium.com/@shadaj/machine-learning-with-scala-in-google-colaboratory-e6f1661f1c88)
 * **[Parallel computing in Python and Scala](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)**
 * [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77)
@@ -261,6 +262,9 @@ Scala
 * [Scala WIL(Weekly I Learned) Part.04](https://www.sangkon.com/scala-wil-part04/)
 * [Scala WIL(Weekly I Learned) Part.05](https://www.sangkon.com/scala-wil-part05/)
 * [Scala WIL(Weekly I Learned) Part.06](https://www.sangkon.com/scala-wil-part06/)
+* [Easy Scala Publication](https://gist.github.com/djspiewak/2359e5d742cd0d7161cf3422e36fcaf3)
+* [Christmas Story written in Scala](https://medium.com/@wiemzin/christmas-story-written-in-scala-abd0170300b2)
+* [**Geo-GraphQL with ElasticSearch**](https://medium.com/building-rigup/geo-graphql-with-elasticsearch-b01a6bdf0dc8)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -273,6 +277,7 @@ Scala
 * [Programming with Actors (part 1)](https://www.youtube.com/watch?v=W_l57iyn4mU)
 * [Programming with Actors (part 2)](https://www.youtube.com/watch?v=ilHW220JtGo)
 * [State vs Stateful Actor](https://medium.com/@krzysztof.otrebski/state-vs-stateful-actor-748486ba0271)
+* [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
 * [medium.com/tag/akka](https://medium.com/tag/akka)
@@ -396,6 +401,8 @@ Scala
 * [Akka Steam Graphs — A first Java example](https://medium.com/@suchakjani/akka-steam-graphs-a-first-example-c93fbc1f02f5)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 3](https://medium.com/@suchakjani/akka-steam-graphs-dynamic-parallel-streams-example-3-6215d14c0a16)
+* [Akka references serialization with Protobufs (up to Akka 2.5)](https://blog.softwaremill.com/akka-references-serialization-with-protobufs-up-to-akka-2-5-87890c4b6cb0)
+* [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -517,38 +524,13 @@ Scala
     * [Kyiv Scala meetup v9 - Welcome to Scalaz ZIO by Oleksandra Holubitska](https://www.youtube.com/watch?v=q_CJqpuZlBc)
     * [Functional Hangman with ZIO](https://medium.com/@alandevlin7/functional-hangman-with-zio-32c64e622f82)
     * [John A. De Goes at #ScalaUA - Thinking Functionally](https://www.youtube.com/watch?v=-KA3BSdqYug)
+    * [Implement your future with ZIO](http://scala.monster/welcome-zio/)
+    * [Decouple the Program from its Implementation with ZIO modules](https://medium.com/@pascal.mengelt/decouple-the-program-from-its-implementation-with-zio-modules-d9b8713d502e)
+    * [zio environment and modules pattern: zio, scala.js, react, query management](https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
 * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
-* test
-  * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
-  * [Tagless with Discipline — Testing Scala Code The Right Way](https://medium.com/iterators/tagless-with-discipline-testing-scala-code-the-right-way-e74993a0d9b1)
-  * [Use docker container in Scala testcases](https://medium.com/@takezoe/use-docker-container-in-scala-testcases-2745ae3a5fd1)
-  * [Functional Testing with Tagless-Final](https://medium.com/wix-engineering/functional-testing-with-tagless-final-50eeacf5df6)
-  * [Organizing Scala Tests For Faster Feedback](https://medium.com/@iamninad/organizing-scala-tests-for-faster-feedback-ba0039357ff9)
-  * [Scala: Debugging and Unit Testing](https://medium.com/@alessandroheres/scala-debugging-and-unit-testing-3d357e71ccc) intelliJ
-  * [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
-  * [Property-based Testing](https://medium.com/payulatam-engineering/property-based-testing-7cb149f1bffb)
-  * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
-    * [hedgehog.qa](https://hedgehog.qa/)
-    * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
-    * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
-    * [Hedgehog를 이용한 프로퍼티 키반 테스팅 (2018-10-12)](https://www.youtube.com/watch?v=xBE98fFzKGY)
-    * [Property-based Testing Examples](https://github.com/Kevin-Lee/property-based-testing-examples)
-    * [hedgehog 바뀐점 (2018-11-02)](https://www.youtube.com/watch?v=oLIkglMbhI8&t=5417s)
-    * [라이브 코딩 (2018-11-09)](https://www.youtube.com/watch?v=QGPMP6YI48Q) 51분~
-    * [자바 얘기 하다가 라이브 코딩 (2018-11-16)](https://www.youtube.com/watch?v=PukoEtEovDA) 47분~
-    * [Scala meetup — the movie](https://medium.com/tradeshift-engineering/scala-meetup-the-movie-5f9bee41f48f)
-    * [YOW! Lambda Jam 2017 Jacob Stanley - Gens N’ Roses: Appetite for Reduction](https://www.youtube.com/watch?v=AIv_9T0xKEo)
-    * [State-based Testing (Hedgehog) - Charles O'Farrell (2019-09-23)](https://www.youtube.com/watch?v=YhAxC_VI2dc)
-      * Property-based testing 툴을 통해서 입력 값을 랜덤으로 받아서 테스트 하던것을 넘어 상태 변화까지 랜덤으로 테스트 가능
-  * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
-    * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
-  * [ScalaTest](http://www.scalatest.org/)
-    * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
-    * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
-    * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
@@ -660,6 +642,7 @@ Scala
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
+* [Polynote, The Next Jupyter?](https://medium.com/@harrison.miller13_28580/polynote-the-next-jupyter-f7e9903fdc12)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
@@ -712,7 +695,7 @@ Scala
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
 
-## HTTP Library
+## Library HTTP
 * [Http4s, Doobie and Circe: The Functional Web Stack](https://www.slideshare.net/GaryCoady/http4s-doobie-and-circe-the-functional-web-stack)
 * [Up and Running with the Typelevel Stack](https://www.slideshare.net/LukaJacobowitz/up-and-running-with-the-typelevel-stack)
 * [Functional Web Stack: Http4s + Doobie](https://slides.com/cspinetta-desp/stack-web-funcional)
@@ -728,8 +711,9 @@ Scala
     * [http4s-error-handling-mtl.scala](https://gist.github.com/gvolpe/3fa32dd1b6abce2a5466efbf0eca9e94)
     * [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
 * tapir [Describe, then interpret: HTTP endpoints using tapir](https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0)
+  * [tapir: Yet another way to REST](https://dev.to/kdrakon/tapir-yet-another-way-to-rest-720)
 
-## Logging Library
+## Library Logging
 * [airframe-log is a library for enhancing your Scala application logging with colors and source code locations](https://wvlet.org/airframe/docs/airframe-log.html)
   * [Airframe Log: A Modern Logging Library for Scala](https://medium.com/airframe/airframe-log-a-modern-logging-library-for-scala-56fbc2f950bc)
 * [Logback - intended as a successor to the popular log4j project](https://logback.qos.ch/)
@@ -737,7 +721,7 @@ Scala
 * [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
 * [scribe - Practical logging framework that doesn't require any other logging framework and can be completely configured programmatically](https://github.com/outr/scribe)
 
-## Webframework Library
+## Library Webframework
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
 * [Cask: a Scala HTTP micro-framework](http://www.lihaoyi.com/cask/)
 * Finatra
@@ -835,6 +819,7 @@ Scala
   * [The New Collections Library for Scala 2.13 and Dotty—Stefan Zeiger](https://www.youtube.com/watch?v=ofbaM7Yz3IM)
   * [“The” as a method?](https://medium.com/@jducoeur/the-as-a-method-dae559d3c1c)
   * ["Revisiting Tagless Final Interpreters" in Scala Dotty (0.19.0)](https://web.facebook.com/notes/한국-scala-개발자-그룹/revisiting-tagless-final-interpreters-in-scala-dotty-0190/2438394589738937/)
+  * [Permutive Community Engineering, November 2019](https://medium.com/permutive/community-engineering-report-d790a45b9111)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
@@ -846,6 +831,36 @@ Scala
 * [Developing simple chemical physics simulations that run in the browser](https://medium.com/@matthagy/developing-simple-chemical-physics-simulations-that-run-in-the-browser-fa1665879c78)
 * [Trait-based web services with Scala.js and Udash](https://medium.com/krakow-scala/trait-based-web-services-with-scala-js-and-udash-5fa6b3d1e1c6)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
+
+# TDD, Test
+* [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
+* [Tagless with Discipline — Testing Scala Code The Right Way](https://medium.com/iterators/tagless-with-discipline-testing-scala-code-the-right-way-e74993a0d9b1)
+* [Use docker container in Scala testcases](https://medium.com/@takezoe/use-docker-container-in-scala-testcases-2745ae3a5fd1)
+* [Functional Testing with Tagless-Final](https://medium.com/wix-engineering/functional-testing-with-tagless-final-50eeacf5df6)
+* [Organizing Scala Tests For Faster Feedback](https://medium.com/@iamninad/organizing-scala-tests-for-faster-feedback-ba0039357ff9)
+* [Scala: Debugging and Unit Testing](https://medium.com/@alessandroheres/scala-debugging-and-unit-testing-3d357e71ccc) intelliJ
+* [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
+* [Property-based Testing](https://medium.com/payulatam-engineering/property-based-testing-7cb149f1bffb)
+* [TMWL November’19 — ScalaTest, Medusa, PW-Sat2 cubesat](https://blog.softwaremill.com/tmwl-november19-scalatest-medusa-pw-sat2-cubesat-85ab140244b5)
+* [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
+  * [hedgehog.qa](https://hedgehog.qa/)
+  * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
+  * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
+  * [Hedgehog를 이용한 프로퍼티 키반 테스팅 (2018-10-12)](https://www.youtube.com/watch?v=xBE98fFzKGY)
+  * [Property-based Testing Examples](https://github.com/Kevin-Lee/property-based-testing-examples)
+  * [hedgehog 바뀐점 (2018-11-02)](https://www.youtube.com/watch?v=oLIkglMbhI8&t=5417s)
+  * [라이브 코딩 (2018-11-09)](https://www.youtube.com/watch?v=QGPMP6YI48Q) 51분~
+  * [자바 얘기 하다가 라이브 코딩 (2018-11-16)](https://www.youtube.com/watch?v=PukoEtEovDA) 47분~
+  * [Scala meetup — the movie](https://medium.com/tradeshift-engineering/scala-meetup-the-movie-5f9bee41f48f)
+  * [YOW! Lambda Jam 2017 Jacob Stanley - Gens N’ Roses: Appetite for Reduction](https://www.youtube.com/watch?v=AIv_9T0xKEo)
+  * [State-based Testing (Hedgehog) - Charles O'Farrell (2019-09-23)](https://www.youtube.com/watch?v=YhAxC_VI2dc)
+    * Property-based testing 툴을 통해서 입력 값을 랜덤으로 받아서 테스트 하던것을 넘어 상태 변화까지 랜덤으로 테스트 가능
+* [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
+  * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
+* [ScalaTest](http://www.scalatest.org/)
+  * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
+  * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
+  * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
 
 # Type
 * [typelevel.org/blog](https://typelevel.org/blog/)
