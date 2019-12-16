@@ -501,8 +501,6 @@ AWS
 * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
 * [AWS Lambda Update – Run Java Code in Response to Events](https://aws.amazon.com/ko/blogs/aws/aws-lambda-update-run-java-code-in-response-to-events/?sc_campaign=launch&sc_category=lambda2&sc_channel=SM&sc_content=java&sc_detail=std&sc_medium=aws&sc_publisher=tw_go&adbsc=social_launches_20150615_47567446&adbid=610521356594089984&adbpl=tw&adbpr=66780587)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
-* [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
-* [Manage Multiple Lambdas behind a Single API Gateway](https://medium.com/@5tigerjelly/manage-multiple-lambdas-behind-a-single-api-gateway-ed829f1465ba) scala
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [AWS CodePipeline을 활용한 빌드/배포 자동화](https://urbanbase.github.io/dev/2019/07/02/AWS-CodePipeline.html)
 * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
@@ -586,6 +584,11 @@ AWS
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
 * [서버리스(Serverless) 프레임워크로 노드js(Node.js) 12 코드 실행해보기](https://www.44bits.io/ko/post/news--aws-lambda-now-supports-python-3-8-nodejs-12-0-java-11#%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4serverless-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EB%85%B8%EB%93%9Cjsnode.js-12-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
+
+## Lambda Scala
+* [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
+* [How to Setup AWS Lambda in Scala without any external Library](https://edward-huang.com/aws/cloud/2019/11/28/how-to-setup-aws-lambda-in-scala-without-any-external-library/)
+* [Manage Multiple Lambdas behind a Single API Gateway](https://medium.com/@5tigerjelly/manage-multiple-lambdas-behind-a-single-api-gateway-ed829f1465ba)
 
 # Library
 * [konlpy와 mecab을 amazon linux2에 인스톨하는 스크립트입니다](https://gist.github.com/serithemage/7c52ab749d053c21898647ce04b4db9b)
