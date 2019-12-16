@@ -129,6 +129,7 @@
 * [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
 * [Functional Aspect of Rust](https://medium.com/@knoldus/functional-aspect-of-rust-a27e73fdf813)
 * [How to RiiR](http://adventures.michaelfbryan.com/posts/how-to-riir/index.html) C 호출
+* [rust-oss-template - a simple template for rust language based project](https://github.com/utilForever/rust-oss-template)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
