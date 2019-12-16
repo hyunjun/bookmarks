@@ -553,6 +553,7 @@ Docker
 * [Official Kubernetes on CoreOS Guides and Tools](https://coreos.com/blog/official-kubernetes-on-coreos/)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
+  * [How to migrate from Helm v2 to Helm v3](https://helm.sh/blog/migrate-from-helm-v2-to-helm-v3/)
 * 쿠버네티스 패키지 매니저 Helm
   * [#1 - 개념, 설치](https://bcho.tistory.com/1335)
   * [#2 - Chart](https://bcho.tistory.com/1337)
