@@ -223,7 +223,6 @@ iOS
 * [HackerRank in Swift - StdIn](http://mgrebenets.github.io/hackerrank/2015/03/15/hackerrank-in-swift---io/)
 * [When to Use Swift Structs and Classes](https://www.mikeash.com/pyblog/friday-qa-2015-07-17-when-to-use-swift-structs-and-classes.html)
 * ["WEAK, STRONG, UNOWNED, OH MY!" - A GUIDE TO REFERENCES IN SWIFT](http://krakendev.io/weak-and-unowned-references-in-swift/)
-* [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
 * [Replicating Beme's Proximity-Record in Swift](http://stephenradford.me/replicating-bemes-record-with-the-proximity-sensor/)
 * [The Fibonacci SequenceType](http://bandes-stor.ch/blog/2015/08/05/the-fibonacci-sequencetype/)
 * [Building (Almost) Dependent Types in Swift](https://sectionfive.net/blog/2015/08/11/building-almost-dependent-types-in-swift/)
@@ -460,7 +459,9 @@ iOS
 * [URMovingTransitionAnimator - Moving view transition with the blurring effect between view controllers for Swift3](https://github.com/jegumhon/URMovingTransitionAnimator)
 
 # TDD, Test
+* [Three Ways UI Testing Just Made Test-Driven Development Even Better](http://masilotti.com/ui-testing-tdd/)
 * [iOS 오픈소스 유닛테스트 톺아보기](https://brunch.co.kr/@tilltue/57)
+* [iOS Parallel UI Testing](https://riiid.github.io/2019-12-02/iOS-parallel-ui-testing/)
 
 # Xcode
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
