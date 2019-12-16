@@ -76,3 +76,4 @@ Writing
 * [The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
 * [테크니컬 라이팅 컨퍼런스: API the Docs Chicago 2019 방문기](https://engineering.linecorp.com/ko/blog/api-the-docs-chicago-2019-recap/)
 * [Publish Technical Tutorials in Google Codelab Format](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd)
+* [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
