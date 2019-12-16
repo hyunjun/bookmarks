@@ -1946,6 +1946,7 @@ Javascript
 * [The Iceberg of React Hooks](https://medium.com/@sdolidze/the-iceberg-of-react-hooks-af0b588f43fb)
 * [Easy Peasy global state in React w/ Hooks](https://medium.com/@ctrlplusb/easy-peasy-global-state-in-react-w-hooks-421f5bf827cf)
 * [How to call Api in React Hooks?](https://www.youtube.com/watch?v=sCibfJlML84)
+* [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
 * [Using the React useContext Hook](https://medium.com/digio-australia/using-the-react-usecontext-hook-9f55461c4eae)
 * [How to detect a user’s preferred color scheme in JavaScript](https://medium.com/free-code-camp/how-to-detect-a-users-preferred-color-scheme-in-javascript-ec8ee514f1ef)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
@@ -2177,6 +2178,7 @@ Javascript
 * [React Native Chat with Chuck Norris](https://hackernoon.com/react-native-chat-with-chuck-norris-dd5721523742)
 * [React Native Performance: Do and Don't](https://hackernoon.com/react-native-performance-do-and-dont-1198e97b730a)
 * [React Native에서 현재 위치 정보 가져오기](https://dev-yakuza.github.io/ko/react-native/react-native-geolocation-service/)
+* [React Native에서 지도 표시하기](https://dev-yakuza.github.io/ko/react-native/react-native-maps)
 * [Meet Doctor, a new React Native command](https://facebook.github.io/react-native/blog/2019/11/18/react-native-doctor.html)
 
 ## React Library
