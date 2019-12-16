@@ -327,6 +327,7 @@ Java
 * [IntelliJ 2019.2 에서 Gradle로 run과 test가 실행될때](https://jojoldu.tistory.com/450)
 * [IntelliJ 실행시 최근 종료한 프로젝트 바로 실행되지 않게 하기](https://jojoldu.tistory.com/459)
 * [Intellij output 한글 깨지는 문제](https://freehoon.tistory.com/146)
+* [인텔리제이에 파이썬 인터프리터 설정하기](https://jojoldu.tistory.com/465)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
