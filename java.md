@@ -454,18 +454,6 @@ Java
 # JVM
 * [JVM Internal](http://d2.naver.com/helloworld/1230)
 * [JVM Internals](http://blog.jamesdbloom.com/JVMInternals.html)
-* [Garbage Collection의 기초](http://itmining.tistory.com/24)
-* [가비지 컬렉터가 뭐하는 건가요? (Feat. 메모리 관리)](https://www.youtube.com/watch?v=24f2-eJAeII)
-* [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
-* [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
-* [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
-* [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
-* [JDK8 적용 후, 심각한 성능저하가 발생한다면? Full GC가 제대로 되지 않는다면?](https://brunch.co.kr/@heracul/1) `MaxMetaspaceSize`
-* [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
-  * 여러가지 GC algorithm 기본 동작 방식 소개
-* **[G1: Garbage first garbage collector](https://b.luavis.kr/server/g1-gc)**
-* [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
-* [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Debugging JVM Safepoint Pauses](http://cberner.com/2015/05/24/debugging-jvm-safepoint-pauses/)
 * [JVM Deep Dive](http://daniel.mitterdorfer.name/talks/2015/jvm-deep-dive-ljug)
 * [JVMLS 2015 - Compilers are Databases](https://www.youtube.com/watch?v=48js0H6ooBY)
@@ -490,7 +478,6 @@ Java
 * **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
-* [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
   * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
 * **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
@@ -499,6 +486,22 @@ Java
   * **[Project Loom: Fiber와 Continuation](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)**
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
 * VisualVM [Performance Profiling During Your Development Workflow](https://hackernoon.com/performance-profiling-during-your-development-workflow-ebff78afb71c)
+
+## JVM GC Garbage Collection
+* [Garbage Collection의 기초](http://itmining.tistory.com/24)
+* [가비지 컬렉터가 뭐하는 건가요? (Feat. 메모리 관리)](https://www.youtube.com/watch?v=24f2-eJAeII)
+* [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
+* [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
+* [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
+* [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
+* [JDK8 적용 후, 심각한 성능저하가 발생한다면? Full GC가 제대로 되지 않는다면?](https://brunch.co.kr/@heracul/1) `MaxMetaspaceSize`
+* [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
+  * 여러가지 GC algorithm 기본 동작 방식 소개
+* **[G1: Garbage first garbage collector](https://b.luavis.kr/server/g1-gc)**
+* [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
+* [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
+* [Understanding Java Garbage Collection Logging: What Are GC Logs and How To Analyze Them](https://sematext.com/blog/java-garbage-collection-logs/)
+* [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 # Lambda
 * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
