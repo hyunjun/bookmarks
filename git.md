@@ -574,6 +574,7 @@ Git
   * [GitLab Live Stream](https://www.youtube.com/watch?v=nc0hPGerSd4)
   * [마음에 드는 #gitlab todos](http://ohyecloudy.com/pnotes/archives/gitlab-todos/)
   * [CI/CD with Angular 6 & Firebase & GitLab - Automate build, test and deployment using GitLab CI/CD](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d)
+  * [GitLab Runner + Windows + Spring 연동](https://www.popit.kr/gitlab-runner-windows-spring-%EC%97%B0%EB%8F%99)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
