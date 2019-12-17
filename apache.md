@@ -272,6 +272,8 @@ Apache
 * **[Apache Kafka Best Practices](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)**
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
 * [Kafka - kafka-console-consumer](https://gerardnico.com/wiki/dit/kafka/kafka-console-consumer)
+* [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
+  * A look at the inner workings of the Kafka consumers, with some real world recommendations for deploying them when there's high latency in talking to the Kafka cluster and/or a large number of partitions. There are tips on important metrics to monitor, configurations, garbage collector settings, and changing the partition.class to improve unbalanced consumers.
 * [KAFKA TUTORIAL: USING KAFKA FROM THE COMMAND LINE](http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html)
 * [Kafka Tutorial - Quick Start Demo](https://www.youtube.com/watch?v=6AYNxdKQ_0o)
 * [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
