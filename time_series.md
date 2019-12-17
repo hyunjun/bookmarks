@@ -42,6 +42,8 @@ Time Series
   * [시계열 DB (OpenTSDB , 인플럭스 DB , Graphite ) 정리](http://hamait.tistory.com/440)
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
 * [Goku: Building a scalable and high performant time series database system](https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181) Pinterest 엔지니어링팀에서 OpenTSDB -> Goku로 전환한 이야기 소개
+* [GokuL: Extending time series data storage to serve beyond one day](https://medium.com/pinterest-engineering/gokul-extending-time-series-data-storage-to-serve-beyond-one-day-52264307364d)
+  * Pinterest writes about how they've extended their time series data store, Goku, to support querying of historical data. They tier data by compacting data through rebucketing and downsampling. For serving, they load data from S3 into RocksDB. The post goes into the details of the design of their RocksDB setup, cluster management functions, and the query processing framework.
 * [Gorilla: A Fast, Scalable, In-Memory Time Series Database](http://www.vldb.org/pvldb/vol8/p1816-teller.pdf)
 * [hunting_criminals_demo](https://github.com/Atigeo/hunting_criminals_demo)
 * [influxdata platform - THE PLATFORM FOR TIME-SERIES DATA](https://influxdata.com/time-series-platform/)
