@@ -1030,6 +1030,12 @@ Programming
   * Data catalogs are gaining popularity: Apache Atlas, DataHub(LinkedIn), Marquez(WeWork), Data Catalog(Google)
 * [Data Mesh Paradigm Shift in Data Platform Architecture](https://www.infoq.com/presentations/data-mesh-paradigm/)
 
+# Data Pipeline
+* [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
+  * Available both in audio form and as a transcript, InfoQ has a podcast with Josh Wills that covers the evolution of data engineering and machine learning at Slack. The interview covers their data pipeline, which feeds into big data systems for BI/data warehousing and ML products. The interview also covers the kinds of products they build with machine learning and some thoughts on the future of observability for ML pipelines.
+* [The Architecture of a Large-Scale Web Search Engine, circa 2019 - Our Journey to Microservices, Kubernetes and beyond](https://www.0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
+  * Cliqz, makers of a web search engine, have a comprehensive post on their architecture. Their near real-time indexing system is built with Apache Kafka, Apache Cassandra, and RocksDB while their batch indexing system is built on MapReduce and Spark with Luigi for managing workflows. The post also describes how they manage Kubernetes clusters, use Helm/Helmfile for package management, and leverage Tilt and K9s for local development. They also share on how they optimize costs and describe their machine learning pipelines.
+
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
@@ -1143,6 +1149,7 @@ Programming
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [dynein - Airbnb's Open-source Distributed Delayed Job Queueing System](https://github.com/airbnb/dynein)
   * [Dynein: Building an Open-source Distributed Delayed Job Queueing System](https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99)
+    * Airbnb has open sourced Dynein, their job queuing system that they use for offloading tasks from the main request path and performing other asynchronous operations. It uses DynamoDB as a scheduler for future jobs and SQS for queuing—the post describes how this is built in a highly scalable way.
 * [emqtt](http://emqtt.io/)
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
