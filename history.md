@@ -558,6 +558,7 @@ History
 * [유럽 최고봉 엘브루스 얼음층에 나치 200명은 왜 생매장됐을까?](http://www.huffingtonpost.kr/2015/04/14/story_n_7060006.html)
 * [Monsters Together](http://www.nybooks.com/articles/archives/2015/apr/23/hitler-stalin-monsters-together/)
 * [Russia and the Curse of Geography](http://www.theatlantic.com/international/archive/2015/10/russia-geography-ukraine-syria/413248/?single_page=true)
+* [소련은 왜 실패했는가: 처형당한 엔지니어의 유령](https://slownews.kr/74813)
 
 ## Spain
 * [Spain's hologram protest: Thousands join virtual march in Madrid against new gag law](http://www.independent.co.uk/news/world/europe/spains-hologram-protest-thousands-join-virtual-march-in-madrid-against-new-gag-law-10170650.html)
