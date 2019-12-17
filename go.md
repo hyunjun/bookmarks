@@ -246,6 +246,8 @@ Go
 * [**Let's Create a Simple Load Balancer With Go**](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 * [Build a Go package that annotates errors with stack traces. (18 November 2019)](https://www.komu.engineer/blogs/golang-stacktrace/golang-stacktrace)
 * [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
+* [Parsing 18 billion JSON lines with Go](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
+  * This post describes a large scale conversion of data into JSON format in order to load it into BigQuery. To meet the naming requirements of BigQuery, they had to remap field names on every JSON document. Their tool, which is written in Golang, uses a producer/consumer job queue to parallelize processing and partition the data before writing it out. They processed data both from Kafka and S3, and the post talks a bit about how they optimized interaction with S3.
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
