@@ -175,6 +175,7 @@ Git
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
+* [Github 패스워드 교체시 로컬 비밀번호도 변경하기](https://jojoldu.tistory.com/467)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
