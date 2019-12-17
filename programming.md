@@ -671,6 +671,7 @@ Programming
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
 * [Testing Microservices: Examining the Tradeoffs of Twelve Techniques - Part 2](https://www.infoq.com/articles/twelve-testing-techniques-microservices-tradeoffs/)
 * [Testing Microservices: Six Case Studies with a Combination of Testing Techniques - Part 3](https://www.infoq.com/articles/testing-techniques-microservices-use-cases/)
+* [Monolithic에서 MSA로의 전환기](https://hides.tistory.com/1057)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1016,6 +1017,7 @@ Programming
 * [How to get started with Continuous Integration](https://medium.freecodecamp.org/how-to-get-started-with-continuous-integration-7b2f8d87c914)
 * [How to setup continuous integration (CI) with React, CircleCI, and GitHub](https://medium.freecodecamp.org/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03)
 * [The Guide to Cloudbase App Automation with Jim Rose of CircleCI](https://hackernoon.com/the-guide-to-cloudbase-app-automation-with-jim-rose-of-circleci-5afa8e86bee6)
+* [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
@@ -1679,6 +1681,7 @@ Programming
 * Spock
   * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
   * [Spock으로 테스트코드를 짜보자](http://woowabros.github.io/study/2018/03/01/spock-test.html)
+  * [Spock Extension과 Elasticsearch + Kibana 조합으로 테스트 결과를 빠르게 피드백 받기](http://woowabros.github.io/experience/2019/12/16/quickly-get-feedback-on-your-test-with-spock-extension-and-es-kibana.html)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
