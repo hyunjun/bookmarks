@@ -287,6 +287,8 @@ ElasticSearch - Lucene
 * [Elastic Stack으로 Docker 컨테이너와 Kubernetes에서 실행되는 애플리케이션 모니터링하기(https://www.elastic.co/kr/blog/monitoring-an-application-running-in-docker-containers-and-kubernetes-with-the-elastic-stack)
 * [Beats 및 Elasticsearch를 이용한 Docker & Kubernetes 로그 수집 및 모니터링](https://www.elastic.co/kr/webinars/elasticsearch-log-collection-with-kubernetes-docker-and-containers)
 * [Kubernetes의 Elasticsearch: 이제 새로운 장이 열립니다](https://www.elastic.co/kr/blog/introducing-elastic-cloud-on-kubernetes-the-elasticsearch-operator-and-beyond)
+* [Running and Deploying Elasticsearch on Kubernetes](https://sematext.com/blog/kubernetes-elasticsearch/)
+  * An overview of Kubernetes and how to deploy Elasticsearch on Kubernetes. This is a great introduction to many of the core concepts of Kubernetes (e.g. Deployment, Pod), including those that are important for running a stateful service (e.g. StatefulSet, PersistentVolumeClaim). It also shows how to configure accounts for ES using Kubernetes RBAC and use the helm package manager for deploying to Kubernetes.
 * [match - Scalable reverse image search built on Kubernetes and Elasticsearch](https://github.com/pavlovml/match)
 * [stack-docker - Docker Compose configuration demonstrates many components of the Elastic Stack, all running on a single machine under Docker](https://github.com/elastic/stack-docker)
   * [stack-docker - The Elastic Stack, on Docker, right now](https://github.com/YonghoChoi/stack-docker)
