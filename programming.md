@@ -672,6 +672,7 @@ Programming
 * [Testing Microservices: Examining the Tradeoffs of Twelve Techniques - Part 2](https://www.infoq.com/articles/twelve-testing-techniques-microservices-tradeoffs/)
 * [Testing Microservices: Six Case Studies with a Combination of Testing Techniques - Part 3](https://www.infoq.com/articles/testing-techniques-microservices-use-cases/)
 * [Monolithic에서 MSA로의 전환기](https://hides.tistory.com/1057)
+* [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
