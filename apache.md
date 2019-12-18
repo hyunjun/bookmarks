@@ -201,6 +201,8 @@ Apache
 * [Apache Flink® SQL Training](https://github.com/ververica/sql-training)
 * [Do Flink on Web with FLOW](https://speakerdeck.com/eastcirclek/do-flink-on-web-with-flow)
 * [0x90e.github.io/tags/Flink](https://0x90e.github.io/tags/Flink/) 사용자 코드가 어떻게 Graph로 만들어지고 JobManager로 submit 되는지 코드 단위로 설명한 포스트라고 하는데 중국어
+* [T map에 Flink 이식하기](https://drive.google.com/file/d/1lJi3Slkj5BcSTfjalL-pj3RpVKbvO70t)
+* [**Flink Source 부터 Sink 까지**](https://docs.google.com/presentation/d/1eLJz1HS_4lN-st1TYJYIJyZt6DUZyG1yGrIS8v4cPM0)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
