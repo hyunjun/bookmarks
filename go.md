@@ -272,6 +272,8 @@ Go
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)
   * [가장 빨리 만나는 Go 언어 Unit 48. 정규표현식 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit48)
+* sync
+  * [A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
 * time
   * [Go time 패키지](http://blog.jeonghwan.net/dev/2019/01/14/go-time.html)
 * type
