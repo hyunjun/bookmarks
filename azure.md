@@ -75,6 +75,7 @@ Azure
 * [깃헙 액션을 사용해서 애저 블롭 저장소에 정적 웹사이트 배포하기](https://blog.aliencube.org/ko/2019/12/13/publishing-static-website-to-azure-blob-storage-via-github-actions)
 * [Azure 스토리지 복제 옵션 변경 시 비용 이슈(RA-GRS)](https://www.dokyun.pe.kr/248)
 * [Democratizing agriculture intelligence: introducing Azure FarmBeats](https://azure.microsoft.com/en-us/blog/democratizing-agriculture-intelligence-introducing-azure-farmbeats/)
+* [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
