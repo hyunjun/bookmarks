@@ -557,6 +557,8 @@ App
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
+* [Hammerspoon - a tool for powerful automation of OS X](https://www.hammerspoon.org/)
+  * [해머스푼으로 한/영 전환 오로라를 만들자 - 지금 선택된 입력기가 한글인지 영어인지 쉽게 알아보자](https://johngrib.github.io/wiki/hammerspoon-inputsource-aurora/)
 * [handbrake](https://handbrake.fr/)
   * [맥에서 자막 내장한 mp4, m4v 작업하기](http://meteos.tistory.com/538)
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
