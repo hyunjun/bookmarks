@@ -467,6 +467,7 @@ Apache
   * 전통적으로 Kafka 프로젝트 안에 탑재되어 있던 툴이지만 설계가 오래되서 scalable하게 동작하지 않으므로, 어지간히 오래된 Cluster 내용을 옮기는 게 아니라면 비추천
 * [Kafka Replication: The case for MirrorMaker 2.0](https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/)
   * MirrorMaker 1의 대안으로 Cloudera 엔지니어가 개발. 1보다 훨씬 좋지만 아직 정식 탑재된 게 아니라 문서화 부족
+* [MirrorMaker2 가 release되었습니다](https://blog.voidmainvoid.net/293)
 * **[blog.voidmainvoid.net/category/.../Kafka](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)**
   * [blog.voidmainvoid.net/tag/kafka](https://blog.voidmainvoid.net/tag/kafka)
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
