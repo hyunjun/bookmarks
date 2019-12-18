@@ -460,6 +460,7 @@ R
 * has_java [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자)
 * [installr - Functions for installing softwares from within R](https://github.com/talgalili/installr)
   * [Windows에서 rJava 스트레스 없이 설치하기](https://mrchypark.github.io/post/rtips-windows%EC%97%90%EC%84%9C-rjava-%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-%EC%97%86%EC%9D%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+* [IRkernel - R kernel for Jupyter https://irkernel.github.io ](https://github.com/IRkernel/IRkernel)
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
 * [KoNLP](https://github.com/haven-jeon/KoNLP)
