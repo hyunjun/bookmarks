@@ -701,6 +701,7 @@ TensorFlow
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
+* [BMW InnovationLab - This organization contains open source software published by the developers and partners of the BMW InnovationLab](https://github.com/BMW-InnovationLab)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Dynamic Neural Manifold --or-- Dynamic Neural Networks in Tensorflow](https://github.com/Miej/Dynamic_Neural_Manifold)
