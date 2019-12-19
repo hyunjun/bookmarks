@@ -1177,6 +1177,7 @@ Javascript
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
 * [Rune.js is a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
+* [simplePARALLAX - the easiest way to get a parallax effect with javascript](https://simpleparallax.com/)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
 * [serializr - Serialize and deserialize complex object graphs to and from JSON and Javascript classes](https://github.com/mobxjs/serializr)
   * [실행 취소 / 다시 실행 기능 구현하기(feat. serializr)](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
@@ -1537,6 +1538,7 @@ Javascript
 * [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
 * [인증 1편 - Session Management](https://blog.naver.com/pjt3591oo/221695855740)
 * [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
+* [How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
