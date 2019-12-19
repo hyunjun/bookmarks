@@ -329,8 +329,10 @@ App
   * [postman tutorial 및 사용법](https://blog.naver.com/pjt3591oo/221642929410)
   * [POSTMAN을 이용해 REST API와 URL 요청 TEST 해보기](https://rwd337.tistory.com/173)
   * [포스트맨(Postman)을 이용한 API 테스트](https://imasoftwareengineer.tistory.com/36)
+  * [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 * [postwoman.io](https://postwoman.io/)
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
+* [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
 
 # Dropbox
 * [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
@@ -703,6 +705,7 @@ App
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
   * **[Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'](http://macnews.tistory.com/2558)**
+  * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer)
   * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg)
   * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio)
 * Slate
