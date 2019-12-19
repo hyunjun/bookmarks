@@ -1030,6 +1030,7 @@ Javascript
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
+* [flowy - The minimal javascript library to create flowcharts](https://github.com/alyssaxuu/flowy)
 * [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
@@ -1535,6 +1536,7 @@ Javascript
 * [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312) Deno등 node 개발 환경의 여러가지 다른 library등의 이야기도 나옴
 * [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
 * [인증 1편 - Session Management](https://blog.naver.com/pjt3591oo/221695855740)
+* [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 
 ## Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
