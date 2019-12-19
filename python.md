@@ -45,6 +45,7 @@ Python
   * [Effective Python: Source Code and Errata for the Book http://www.effectivepython.com](https://github.com/bslatkin/effectivepython)
   * [effective_python_notebook](https://github.com/hunkim/effective_python_notebook)
   * [EffectivePython Test](https://github.com/ianstream/EffectivePython)
+  * [Effective Python](https://github.com/shoark7/Effective-Python)
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
 * [Working with Binary Data in Python](http://www.devdungeon.com/content/working-binary-data-python)
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Python)
