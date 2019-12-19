@@ -373,6 +373,7 @@ NLP
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
 * [RoBERTa Review](https://baekyeongmin.github.io/paper-review/roberta-review/)
 * [StructBert Review](https://baekyeongmin.github.io/paper-review/structbert-review/)
+* [Using BERT For Classifying Documents with Long Texts](https://medium.com/@armandj.olivares/using-bert-for-classifying-documents-with-long-texts-5c3e7b04573d)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
