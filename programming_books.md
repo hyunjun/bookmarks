@@ -454,6 +454,7 @@ Programming Books
   * [번역서 '신경망과 심층 학습' 출간 소식 및 근황](http://occamsrazr.net/tt/357)
 * (NOT YET) [파이썬을 활용한 딥러닝 전이학습 Transfer Learning으로 빠르고 손쉽게 구축하는 고급 딥러닝 모델](https://wikibook.co.kr/transfer-learning/)
 * (NOT YET) [기초부터 시작하는 강화학습/신경망 알고리즘 - AI는 어떻게 게임을 할까](https://wikibook.co.kr/rlnn/)
+* (NOT YET) [알파제로를 배우며 분석하는 인공지능: 딥 러닝, 강화 학습, 탐색으로 배우는 인공지능 프로그래밍](https://jpub.tistory.com/993)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
