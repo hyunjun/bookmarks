@@ -81,6 +81,7 @@ Json
   * [GSON SERIALISER EXAMPLE](http://www.javacreed.com/gson-serialiser-example/)
   * [Gson을 이용한 JSON URL Parsing](http://m.blog.naver.com/tpgns8488/220608640935)
   * [How to convert Java object to / from JSON (Gson)](https://www.mkyong.com/java/how-do-convert-java-object-to-from-json-format-gson-api/)
+* [fx - Command-line tool and terminal JSON viewer http://fx.wtf ](https://github.com/antonmedv/fx)
 * Jackson
   * [Jackson annotation, JSON 직렬화,역직렬화와 관련된 어노테이션](http://www.slideshare.net/topcredu/jackson-annotation-json)
   * [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지 (feat. 글로벌 캐싱)](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
