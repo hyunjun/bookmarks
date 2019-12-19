@@ -521,6 +521,7 @@ Programming
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
 * [Google - polling like it's the 90s](https://www.ably.io/blog/google-polling-like-its-the-90s/)
 * [Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide](https://www.youtube.com/watch?v=tMHO7_RLxgQ)
+* [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/) upstream cache, storage layering, thumbnail lifecycle, message forward, video traffic, high efficiency image format
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
