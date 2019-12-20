@@ -382,6 +382,20 @@ ElasticSearch - Lucene
 * [ELK 통합 로그 시스템을 활용한 IT보안 활용 추천 책 소개!!!](https://www.youtube.com/watch?v=vo_O7pWAM60)
 
 # Kibana
+* practice
+  * kibana의 "Add a filter"를 누르면 contains는 없으므로 문자열 포함 검색을 하려면 다음과 같이 직접 query 입력
+    * [“Add filter”, “contains”-operator?](https://discuss.elastic.co/t/add-filter-contains-operator/105754)
+    * e.g. exceptionMessage_raw field에서 abc를 포함하는 경우 검색
+
+      ```
+      {
+        "query": {
+          "wildcard": {
+            "exceptionMessage_raw": "*abc*"
+          }
+        }
+      }
+      ```
 * [Hackers & Painters: Kibana](https://www.youtube.com/watch?v=DeOSy37R1sc)
 * [ELK kibana with pm2](https://medium.com/@kenu0000/elk-kibana-with-pm2-df2f0e5ae111)
 * [Mining Earthquake Data with Kibana 5 and Timelion](https://www.elastic.co/blog/mining-earthquake-data-with-kibana-5-and-timelion)
