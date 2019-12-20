@@ -561,6 +561,7 @@ Java
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 * [Feign makes writing java http clients easier](https://github.com/OpenFeign/feign)
   * [우아한 feign 적용기](http://woowabros.github.io/experience/2019/05/29/feign.html)
+  * [feign 좀더 나아가기](http://woowabros.github.io/experience/2019/12/20/feign2.html)
 * [Fig - Java elegant supplement](http://wapatesh.github.io/fig/)
 * [Flow - Record your application executions and visualize what happened at runtime through an interactive web interface](http://findtheflow.io/)
 * [flowable - provides a core set of open source business process engines](https://www.flowable.org/)
