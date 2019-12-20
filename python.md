@@ -2516,6 +2516,8 @@ Python
 * [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
+* [PyCryptodome](https://pycryptodome.readthedocs.io/)
+  * [aes teset](https://gist.github.com/june9713/3689bd04ed9d2fe4a472ade275dcc880)
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
