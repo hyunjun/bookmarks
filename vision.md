@@ -283,6 +283,8 @@ Vision
 * [카카오 OCR 시스템 구성과 모델](https://brunch.co.kr/@kakao-it/318)
 * [아날로그 기상 데이터를 OCR로 디지털화할 수 있을까?](https://brunch.co.kr/@kakao-it/319)
 * [#42. 사진 속 글자 읽기, OCR (Optical Character Recognition)](http://t-robotics.blogspot.com/2019/02/42-ocr-optical-character-recognition.html)
+* [한국어 OCR 해내기 (With Naver Cloud Platform) 1편: 가뿐하게 OCR API를 만들고 쓰는 법](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-1/)
+* [한국어 OCR 해내기 (With Naver Cloud Platform) 2편: 입맛대로 커스텀한 OCR 만들기](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-2)
 * [CHARACTER REGION AWARENESS FOR TEXT DETECTION](http://hugrypiggykim.com/2019/10/04/character-region-awareness-for-text-detection/) OCR
 * [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/MURGIO/Food-Recipe-CNN)
 * Tutorials of Object Detection using Deep Learning
