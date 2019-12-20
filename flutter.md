@@ -53,3 +53,4 @@ Flutter
 * [Flutter - 오리엔테이션 | orientation | 가로 | 세로 제대로 고치기!](https://www.youtube.com/watch?v=5A1ZgIp7_7U)
 * [A Quick Look into Flutter for Web](https://www.alibabacloud.com/blog/a-quick-look-into-flutter-for-web_595510)
 * [Flutter로 안드로이드, IOS 그리고 Web까지??!!!](https://www.youtube.com/watch?v=s1RhD4zBVG4)
+* [What is Flutter and Why You Should Learn it in 2020](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
