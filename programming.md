@@ -332,6 +332,7 @@ Programming
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
+* [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
@@ -675,6 +676,7 @@ Programming
 * [Testing Microservices: Six Case Studies with a Combination of Testing Techniques - Part 3](https://www.infoq.com/articles/testing-techniques-microservices-use-cases/)
 * [Monolithic에서 MSA로의 전환기](https://hides.tistory.com/1057)
 * [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
+* [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1253,6 +1255,7 @@ Programming
 * [Want excellent free coding tutorials? Subscribe to these YouTube channels](https://medium.freecodecamp.org/want-amazing-free-coding-tutorials-subscribe-to-these-youtube-channels-b91f154db543)
 * [Getting Started As A Self-Taught Developer](https://medium.com/knoware/getting-started-as-a-self-taught-developer-4d5796fa5f7d)
 * [Stanford CS Education Library](http://cslibrary.stanford.edu/)
+* [The 100 Most Popular Free Online Courses of 2019](https://www.freecodecamp.org/news/100-popular-free-online-courses-2019/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
