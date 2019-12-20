@@ -1043,6 +1043,7 @@ TensorFlow
 * [CNN vs RNN 을 이용하여 MNIST 데이타셋 다루기](http://blog.naver.com/beodeulpiri/221040970355)
 * [10. 텐서플로우(TensorFlow)를 이용해서 MNIST 숫자 분류를 위한 Convolutional Neural Networks(CNNs) 구현해보기](http://solarisailab.com/archives/1308)
 * [python – MNIST 데이터 세트 만들기 (MNIST 형식과 동일)](https://codeday.me/ko/qa/20190706/984622.html)
+* [VisualizeMnist - real-time visualization of a network recognizing digits from user's input](https://github.com/okdalto/VisualizeMNIST)
 * [실제 이미지 데이터를 활용한 CNN 모델 구현하기](http://www.birc.co.kr/2018/02/26/실제-이미지-데이터를-활용한-cnn-모델-구현하기)
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
