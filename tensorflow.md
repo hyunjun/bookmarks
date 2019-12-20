@@ -718,6 +718,7 @@ TensorFlow
   * 바이두의 논문에서 소개된 TensorFlow ring-allreduce algorithm을 기반으로 시작하여, 최근에는 nVidia의 NCCL로 변경
   * [Distributed TensorFlow using Horovod - Reduce training time for deep neural networks by using many GPUs](https://towardsdatascience.com/distributed-tensorflow-using-horovod-6d572f8790c4)
   * [Create Horovod cluster easily using Ansible](https://github.com/graykode/horovod-ansible)
+  * [Horovod를 활용하여 Tensorflow에서 Multi GPU로 학습하기 (BERT Distributed Training 해보기)](https://y-rok.github.io/deep%20learning/2019/12/19/horovod-tensorflow.html)
 * [Lingvo: A TensorFlow Framework for Sequence Modeling](https://medium.com/tensorflow/lingvo-a-tensorflow-framework-for-sequence-modeling-8b1d6ffba5bb)
 * [Ludwig - a toolbox that allows to train and test deep learning models without the need to write code](https://uber.github.io/ludwig/)
   * [Introducing Ludwig, a Code-Free Deep Learning Toolbox](https://eng.uber.com/introducing-ludwig/)
