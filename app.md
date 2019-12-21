@@ -231,6 +231,8 @@ App
 * [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
 * [Pelican Static Site Generator, Powered by Python](https://blog.getpelican.com/)
   * [Creating a Static Blog with Search and Comments using the Pelican Static Site Generator](https://medium.freecodecamp.org/pelican-tutorial-static-blog-with-search-comments-demo-5137c02cbb0a)
+* [TinaCMS로 편집 가능한 홈페이지 만들기](https://imch.dev/posts/build-a-funny-homepage-with-tina-cms)
+  * [gatsby-tinacms-example](https://github.com/iamchanii/gatsby-tinacms-example)
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
 * [WordPress The Right Way](https://www.gitbook.com/book/tarendai/wordpress-the-right-way/details)
 
