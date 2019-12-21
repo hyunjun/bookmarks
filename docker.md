@@ -594,6 +594,7 @@ Docker
   * [Let's Flow within Kubeflow](https://ai.intel.com/lets-flow-within-kubeflow/) 배포된 Tensorflow와 Kubeflow를 처음부터 사용하여 MNIST를 학습하는 방법
   * 쿠버네티스 기반의 End2End 머신러닝 플랫폼 Kubeflow
     * [#1 - 소개](http://bcho.tistory.com/1301)
+  * [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow)
 * [Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
 * [Getting started with microservices and Kubernetes](https://hackernoon.com/getting-started-with-microservices-and-kubernetes-76354312b556)
 * **[A Kubernetes guide for Docker Swarm lovers](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)**
