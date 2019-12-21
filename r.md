@@ -426,6 +426,7 @@ R
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
 * [DNH4](https://forkonlp.github.io/DNH4/)
   * [네이버 뉴스와 다음 뉴스의 댓글 가져오기](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%89%B4%EC%8A%A4%EC%99%80-%EB%8B%A4%EC%9D%8C-%EB%89%B4%EC%8A%A4%EC%9D%98-%EB%8C%93%EA%B8%80-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/)
+* [‘dockr’: easy containerization for R](https://www.r-bloggers.com/dockr-easy-containerization-for-r/)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
   * [R to Python: Data wrangling with dplyr and pandas](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
   * [R programming for beginners – statistic with R (t-test and linear regression) and dplyr and ggplot](https://www.youtube.com/watch?v=ANMuuq502rE)
