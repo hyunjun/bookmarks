@@ -183,3 +183,4 @@
   * [Part 1](https://blog.waffles.space/2015/07/05/a-pythonist-getting-rusty-these-days-part-1/)
   * [Part 2](https://hackerfall.com/story/establishing-the-rust-python-ffi)
 * [idiomatic-rust - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust](https://github.com/mre/idiomatic-rust)
+* [Rust RPG: Introductory Tutorial of Rust, Unit Testing, and Continuous Integration with a Roguelike](https://medium.com/@cameron.manavian/rust-rpg-introductory-tutorial-of-rust-unit-testing-and-continuous-integration-with-a-roguelike-b7b86e90855c)
