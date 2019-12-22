@@ -405,6 +405,7 @@ R
 * [Building a Corporate R Package for Pleasure and Profit](https://www.r-bloggers.com/building-a-corporate-r-package-for-pleasure-and-profit/)
 * [Deploying a Shiny app as a desktop application with Electron](https://www.travishinkelman.com/post/deploy-shiny-electron/)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
+* [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
 * boruta
   * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
