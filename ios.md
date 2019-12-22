@@ -423,6 +423,7 @@ iOS
 * [객체지향 프로그래밍과 프로토콜지향 프로그래밍 (feat. Swift)](https://wlaxhrl.tistory.com/77)
 * [How to Avoid Protocol Orientation Obsessed Programming](https://medium.com/practical-ios-development/how-to-avoid-protocol-orientation-obsessed-programming-a77afb472272)
 * [Swift Object Oriented Programming](https://www.youtube.com/playlist?list=PLoPKxuu4_dG3jCiMcbskRuNsgZsdZ4zz6)
+* [Opaque Types](https://wlaxhrl.tistory.com/82)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
