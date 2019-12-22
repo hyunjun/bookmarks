@@ -326,7 +326,7 @@ Programming
 * [Cross Domain API 서버 구성 시 몇가지 삽질](http://www.popit.kr/corss-domain-api-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%84%B1/)
 * [Power to the API Developer - Tips for rolling out IBM API Connect](https://www.linkedin.com/pulse/power-api-developer-tips-rolling-out-ibm-connect-marjukka-niinioja)
 * [API 설계, 개발 및 테스트를 위한 10가지 무료 도구](http://www.itworld.co.kr/slideshow/99102)
-* **[개발자를 위한 API 목킹](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)**
+* [**개발자를 위한 API 목킹**](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
@@ -343,7 +343,7 @@ Programming
 
 # Architecture, Modelling, Layer, Framework, ...
 * [practice - experiences in design](https://github.com/hyunjun/practice_private/blob/master/design/agoda.md)
-* **[10가지 소프트웨어 아키텍쳐 패턴 요약](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)**
+* [**10가지 소프트웨어 아키텍쳐 패턴 요약**](https://mingrammer.com/translation-10-common-software-architectural-patterns-in-a-nutshell)
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글 (2)](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80-2/)
@@ -357,7 +357,7 @@ Programming
 * [What is Heterogeneous System Architecture (HSA)?](http://developer.amd.com/resources/heterogeneous-computing/what-is-heterogeneous-system-architecture-hsa/)
 * [CHAT SERVICE ARCHITECTURE: SERVERS](http://engineering.riotgames.com/news/chat-service-architecture-servers)
 * [Making The Case For Building Scalable Stateful Services In The Modern Era](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
-* **[How Netflix Directs 1/3rd of Internet Traffic](http://www.infoq.com/presentations/netflix-streaming-arch)**
+* [**How Netflix Directs 1/3rd of Internet Traffic**](http://www.infoq.com/presentations/netflix-streaming-arch)
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
 * [서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [서버 비용을 70%나 줄인 온디맨드 리사이징 이야기](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
@@ -417,6 +417,7 @@ Programming
 * [클린 아키텍처 3-6장](https://wlaxhrl.tistory.com/79)
 * [클린 아키텍처 7-11장](https://wlaxhrl.tistory.com/80)
 * [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
+* [클린 아키텍처 부수기💥 (2) - 소개](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%80%EC%88%98%EA%B8%B0-2-%EC%86%8C%EA%B0%9C-ktk3m16ayt)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -903,6 +904,7 @@ Programming
 * [Small Functions considered Harmful](https://medium.com/@copyconstruct/small-functions-considered-harmful-91035d316c29) 작은 함수가 좋은 경우/안 좋은 경우
 * [코딩 스타일에 대해 논쟁하는 이유](http://www.mimul.com/pebble/default/2019/05/31/1559304696070.html)
 * [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
+* [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 
 # Compiler, Interpreter
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
@@ -1643,16 +1645,16 @@ Programming
 * [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
 
 # Serialization 직렬화
-* **[직렬화](http://j.mearie.org/post/122845365013/serialization)**
+* [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
 * [BSON](http://bsonspec.org/)
 * [capnproto](https://capnproto.org/)
 * [CBOR](http://cbor.io/)
 * [MessagePack](https://msgpack.org/)
-  * [practice](https://gist.github.com/hyunjun/4f4a0d7d1003f51a47907cb6fb743f83)
+  * [practice - messagepack](https://gist.github.com/hyunjun/4f4a0d7d1003f51a47907cb6fb743f83)
   * [Msgpack in Flask-RESTful](https://kndrck.co/posts/flask_restful_custom_request/)
 * Protobuf
   * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
-  * **[구글 프로토콜 버퍼 (Protocol buffer)](http://bcho.tistory.com/1182)** 간단한 python 예제
+  * [**구글 프로토콜 버퍼 (Protocol buffer)**](http://bcho.tistory.com/1182) 간단한 python 예제
   * [Protocol Buffers - overview](https://jusths.tistory.com/125)
 * [UBJSON](http://ubjson.org/)
 
