@@ -73,7 +73,7 @@ C
 * [The Underhanded C Contest](http://www.underhanded-c.org/_page_id_5.html)
 * [Embedding LuaJIT in 30 minutes (or so)](http://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
 * [Using the __cleanup__ variable attribute in GCC](http://echorand.me/site/notes/articles/c_cleanup/cleanup_attribute_c.html)
-  * [example](https://gist.github.com/hyunjun/ab66c01ed583166dcfc6)
+  * [practice](https://gist.github.com/hyunjun/ab66c01ed583166dcfc6)
 * ["C" Programming Language: Brian Kernighan - Computerphile](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 * [About size_t and ptrdiff_t](https://medium.com/@CPP_Coder/about-size-t-and-ptrdiff-t-a1654234d842)
 * [COMPRESSING SKELETAL ANIMATION DATA](http://engineering.riotgames.com/news/compressing-skeletal-animation-data)
@@ -117,7 +117,7 @@ C
 * [Writing a simple Web Server in C](http://blog.manula.org/2011/05/writing-simple-web-server-in-c.html)
 * [Simple TCP/IP web server](http://www.paulgriffiths.net/program/c/webserv.php)
 * [Can You Write a C Program Without a Main Function ? Here is How](https://latesthackingnews.com/2016/10/16/can-write-c-program-without-main-function/)
-* [C Struct Hack](https://gist.github.com/hyunjun/2f4e666278435e37567a0656ab2c616a#file-struct_hack-md)
+* [practice - C Struct Hack](https://gist.github.com/hyunjun/2f4e666278435e37567a0656ab2c616a#file-struct_hack-md)
   * [practice](https://github.com/hyunjun/practice/tree/master/c/test-struct-hack)
   * [Struct Hack](https://www.geeksforgeeks.org/struct-hack/)
   * [C Struct Hack](https://tonywearme.wordpress.com/2011/07/26/c-struct-hack/)
@@ -166,7 +166,7 @@ C
 * [Want to know the easiest way to save time? Use `make`!](https://medium.freecodecamp.org/want-to-know-the-easiest-way-to-save-time-use-make-eec453adf7fe)
 
 # Library
-* **[invisible-island.net](http://invisible-island.net/)** add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
+* [**invisible-island.net**](http://invisible-island.net/) add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
 * [Space Invaders in C](http://blog.loadzero.com/blog/si78c/)
 * [abac - Adaptive Arithmetic Coder](https://github.com/ramenhut/abac)
 * [Abifuzz - Calling conventions are hard - Fuzz them!](http://achacompilers.blogspot.kr/2015/09/calling-conventions-are-hard-fuzz-them.html)
@@ -179,7 +179,7 @@ C
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
 * [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
-* **[Cello - a library that brings higher level programming to C](http://libcello.org/)**
+* [**Cello - a library that brings higher level programming to C**](http://libcello.org/)
   * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
   * [Cello 라이브러리 in Windows](https://blog.naver.com/sssang97/221562440032)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
@@ -224,7 +224,7 @@ C
 * [cpu60 - Simple CPU model written in 60 lines of code](https://github.com/wkoszek/cpu60)
 * [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
 * [CUnit](http://cunit.sourceforge.net/index.html)
-  * [example](https://gist.github.com/hyunjun/787d4662303e01019a98)
+  * [practice - CUnit](https://gist.github.com/hyunjun/787d4662303e01019a98)
 * curl
   * [practice - test libcurl](https://github.com/hyunjun/practice/tree/master/c/test-libcurl)
 * enkiTS
@@ -267,7 +267,7 @@ C
   target_link_libraries(<타겟> Boost::system Boost::filesystem Boost::iostreams)
   ```
   * [cmake / hunter / devpi / setup.py](https://knouackr-my.sharepoint.com/:b:/g/personal/halatha_knou_ac_kr/EV2PrN0CF4hBn7IWzOd5C7UBJ4wyGNEgyft61d4KkaIt7A?e=ZCQW7F)
-* **[Hyperscan is a high-performance multiple regex matching library](https://01.org/hyperscan)**
+* [**Hyperscan is a high-performance multiple regex matching library**](https://01.org/hyperscan)
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
 * [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html) beautifier
   * CentOS에 기본 설치되어 있음
@@ -309,7 +309,7 @@ C
   * [github.com/johnkerl/miller](https://github.com/johnkerl/miller())
 * [mini_printf - minimal, self-contained and tested printf()](https://github.com/wkoszek/mini_printf)
 * [MinUnit -- a minimal unit testing framework for C](http://www.jera.com/techinfo/jtns/jtn002.html)
-  * [test-minunit](https://github.com/hyunjun/practice/blob/master/c/test-minunit/minunit_example.c)
+  * [practice - test-minunit](https://github.com/hyunjun/practice/blob/master/c/test-minunit/minunit_example.c)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 * [mpc is a lightweight and powerful Parser Combinator library for C](https://github.com/orangeduck/mpc)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
@@ -320,7 +320,7 @@ C
   * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * objdump / gobjdump (OS X)
-  * [example](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
+  * [practice - objdump](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * [OpenSSL](https://www.openssl.org/)
   * [non-blocking socket에 OpenSSL 적용기](http://prostars.net/226)
   * [SSL 인증서 생성과 설치](http://daddycat.blogspot.kr/2018/01/ssl.html)
@@ -380,7 +380,7 @@ C
 # Standard Library
 * file
   * [C언어 파일포인터 _fseeki64 (2GB 이상 대용량 파일 엑세스)](https://inadrawer.blogspot.com/2017/08/c-fseeki64-2gb.html)
-* gettimeofday [example](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
+* gettimeofday [practice](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
 * longjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * mmap

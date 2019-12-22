@@ -112,7 +112,7 @@ Vision
 * [동국대학교 2016년 봄학기 컴퓨터 그래픽스 입문(응용 프로그래밍) 강의 모음](http://blog.naver.com/atelierjpro/220775601324)
 * [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html?m=1)
   * [github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
-* **[Object Detection](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)**
+* [**Object Detection**](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 * [Google Object Detection API Wrapper](https://github.com/1202kbs/object-detection-api-wrapper)
 * [Object Detection using Single Shot Multibox Detector](http://cv-tricks.com/object-detection/single-shot-multibox-detector-ssd/)
 * [How to train your own Object Detector with TensorFlow’s Object Detector API](https://medium.com/towards-data-science/how-to-train-your-own-object-detector-with-tensorflows-object-detector-api-bec72ecfe1d9)
@@ -219,13 +219,13 @@ Vision
 * [Neural Enhance](https://github.com/alexjc/neural-enhance)
 * [각 영상인식 방법들의 간략 비교](http://gorakgarak.tistory.com/554?category=144864)
 * [분산 트랜스코더의 구조와 구현 원리](http://d2.naver.com/helloworld/0216497)
-* **[CAM: 대선주자 얼굴 위치 추적기](https://jsideas.net/class_activation_map)**
+* [**CAM: 대선주자 얼굴 위치 추적기**](https://jsideas.net/class_activation_map)
 * [2D 변환 (Transformations)](http://darkpgmr.tistory.com/m/79)
 * [Convolution & Correlation 이해하기](http://www.popit.kr/%EB%94%AE%EB%9F%AC%EB%8B%9D%EC%98%81%EC%83%81%EC%B2%98%EB%A6%AC-convolution-correlation-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0/)
 * [The 5 Computer Vision Techniques That Will Change How You See The World](https://heartbeat.fritz.ai/the-5-computer-vision-techniques-that-will-change-how-you-see-the-world-1ee19334354b)
 * [Categorizing Listing Photos at Airbnb](https://medium.com/airbnb-engineering/categorizing-listing-photos-at-airbnb-f9483f3ab7e3) image classification
 * [Flower classification with Convolutional Neural Networks](https://towardsdatascience.com/flower-classification-with-convolutional-neural-networks-b97130329e5f)
-* **[Modern C++ for Computer Vision and Image Processing](http://www.ipb.uni-bonn.de/teaching/modern-cpp/)**
+* [**Modern C++ for Computer Vision and Image Processing**](http://www.ipb.uni-bonn.de/teaching/modern-cpp/)
 * [zsc.github.io/megvii-pku-dl-course](https://zsc.github.io/megvii-pku-dl-course/)
 * [이미지로 이미지 검색하기](https://brunch.co.kr/@kakao-it/283)
 * [Face detection - An overview and comparison of different solutions](https://www.liip.ch/en/blog/face-detection-an-overview-and-comparison-of-different-solutions-part1)
@@ -335,7 +335,7 @@ Vision
 * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Inpainting - Implementation of "Context Encoders: Feature Learning by Inpainting"](https://github.com/jazzsaxmafia/Inpainting)
-  * **[Image Completion with Deep Learning in TensorFlow](http://bamos.github.io/2016/08/09/deep-completion/)** 기초부터 아주 자세하게 나와서 reddit에서 화제가 된 post
+  * [**Image Completion with Deep Learning in TensorFlow**](http://bamos.github.io/2016/08/09/deep-completion/) 기초부터 아주 자세하게 나와서 reddit에서 화제가 된 post
 * [JPEG-AUTOROTATE - A node module to rotate JPEG images based on EXIF orientation](https://github.com/johansatge/jpeg-autorotate) exif 파일에 맞게 픽셀값들을 맞춰주는 라이브러리
   * python의 imread로 자신이 찍은 사진을 업로드 하면, 어떤 사진은 사진이 분명 뒤집어진 사진이 아님에도, 뒤집어져서 read되는 경우 발생
   * 이유; [Why Your Photos Don’t Always Appear Correctly Rotated](https://www.howtogeek.com/254830/why-your-photos-dont-always-appear-correctly-rotated)
@@ -347,7 +347,7 @@ Vision
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
 * [MegaFace: Test face recognition at the million scale](http://megaface.cs.washington.edu/)
-* **[OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library](https://github.com/CMU-Perceptual-Computing-Lab/openpose)**
+* [**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
   * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
   * [Multi-Person Face/Body/Hand Keypoint Detection](https://www.youtube.com/watch?v=cPiN2ncuK0Y)
 * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
@@ -417,7 +417,7 @@ Vision
 * [OpenCV 3 + 비주얼 스튜디오 + 윈도우즈10 설치](http://gorakgarak.tistory.com/582?category=144864)
 * [OpenCV 라이브러리로, 윤곽에 기반한 자동차 번호판 영역 추출 (License plates recognition)](http://mind3002.blogspot.com/2016/01/cc-opencv-license-plates-recognition.html)
 * [Korean-Vehicle-License-Plate-Character-Dataset](https://github.com/developer0hye/Korean-Vehicle-License-Plate-Character-Dataset)
-* **[COMPUTER VISION LECTURE - Image Processing, Computer Vision, Machine Learning](https://www.cvlecture.marearts.com/forum/opencv-webapp)**
+* [**COMPUTER VISION LECTURE - Image Processing, Computer Vision, Machine Learning**](https://www.cvlecture.marearts.com/forum/opencv-webapp)
   * [OpenCV + WebApp (CV Lecture)](https://www.youtube.com/playlist?list=PLvX6vpRszMkwECdbxNX8s9R-vcUFGqqtC)
   * [OpenCV + WebApp](https://www.cvlecture.marearts.com/forum/opencv-webapp)
   * [marearts.com/webapp/dface](http://www.marearts.com/webapp/dface/)
@@ -506,7 +506,7 @@ Vision
 * [Multi-Modal Image Segmentation with Python & SimpleITK](https://pyscience.wordpress.com/2014/11/02/multi-modal-image-segmentation-with-python-simpleitk/)
 * [Detecting Fake Videos with Python](http://sunnybala.com/2017/05/28/python-video-loop-detection.html)
 * 파이썬 - 컴퓨터 비전 프로그래밍
-  * **[① (BASIC IMAGE HANDLING AND PROCESSING) (1)](http://gorakgarak.tistory.com/470)**
+  * [**① (BASIC IMAGE HANDLING AND PROCESSING) (1)**](http://gorakgarak.tistory.com/470)
   * [① (Basic Image Handling and Processing) (2)](http://gorakgarak.tistory.com/471)
   * [② (Local Image Descriptor) (1)](http://gorakgarak.tistory.com/476)
   * [② (Local Image Descriptor) (2)](http://gorakgarak.tistory.com/477)

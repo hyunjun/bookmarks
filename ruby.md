@@ -36,7 +36,7 @@ Ruby
 * [Introducing Tensorflow Ruby API](https://medium.com/@Arafat./introducing-tensorflow-ruby-api-e77a477ff16e)
 * [Ruby http request 사용시 404 에러 삽질](http://www.popit.kr/ruby-http-request-%EC%82%AC%EC%9A%A9-404-%EC%97%90%EB%9F%AC-%EC%82%BD%EC%A7%88/)
 * [(번역) 나는 'puts' 디버거다](https://emaren84.github.io/blog/archivers/I-am-a-puts-debuggerer-kor)
-* **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
+* [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
 * [The Ruby 2.5.0 feature nobody talks about](https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd)
 * [Six Ruby array methods you need to know](https://medium.freecodecamp.org/six-ruby-array-methods-you-need-to-know-5f81c1e268ce)
 * [루비 25주년이 우리에게 가르쳐 주는 교훈](http://hub.zum.com/goodhyun/21973)

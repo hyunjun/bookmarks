@@ -81,7 +81,7 @@ Hadoop
 * [Hadoop legacy](https://virtuslab.com/blog/hadoop-legacy/)
 * [Introducing Hops Hadoop](http://www.logicalclocks.com/introducing-hops-hadoop/)
 * hdfs directory file들 압축하기
-  * [practice](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff)
+  * [practice - hdfs directory file 압축](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff)
   * [Mass-gzip files inside HDFS using the power of Hadoop](http://www.ghostar.org/2013/09/mass-gzip-files-inside-hdfs-using-the-power-of-hadoop/)
   * [Hadoop GZIP command line](https://gist.github.com/terrancesnyder/7220179)
   * [Quick Tip for Compressing Many Small Text Files within HDFS via Pig](https://dennyglee.com/2014/01/06/quick-tip-for-compressing-many-small-text-files-within-hdfs-via-pig/)
@@ -114,7 +114,7 @@ Hadoop
     * e.g. 파티션 삭제
       * 테이블마다 일정한 임계값(가급적 시간 임계값)을 선택하여 오랜 시간이 지난 데이터를 HDFS에서 삭제 가능
       * 파티션 삭제는 스토리지 관리 계층에서 매우 기본적이면서 필요한 기능
-* **[HDFS의 Heterogeneous Storage 적용기 - Pinpoint 비용 효율화](https://d2.naver.com/helloworld/7702933)**
+* [**HDFS의 Heterogeneous Storage 적용기 - Pinpoint 비용 효율화**](https://d2.naver.com/helloworld/7702933)
 * [Cloudera](https://www.youtube.com/watch?v=qRfgAqkmQDY)
 * [Cloudera 하둡 빅데이터 플랫폼](https://www.youtube.com/watch?v=jtuVqwSlDKQ)
 * [NVIDIA Volta GPU Architecture](https://www.youtube.com/watch?v=-8BwJRxgWWg)
@@ -360,8 +360,8 @@ Hadoop
 # Streaming
 * [Hadoop Programming with Arbitrary Languages](https://acct.rcc.fsu.edu/docs/hadoop-programming-arbitrary-languages) word count + hadoop streaming in c/c++/python/shell script
 * [Streaming](https://hadoop.apache.org/docs/r1.2.1/streaming.html)
-  * [python example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming)
-  * [perl example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
+  * [practice - python streaming example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming)
+  * [practice - perl streaming example](https://github.com/hyunjun/practice/tree/master/hadoop/Streaming_perl)
   * [Hadoop streaming - remove trailing tab from reducer output](http://stackoverflow.com/questions/18133290/hadoop-streaming-remove-trailing-tab-from-reducer-output)
   * [hadoop streaming map.output.key.field.separator](http://blog.sina.com.cn/s/blog_5357c0af0101mgak.html)
   * [Hadoop Streaming the order of reducer output files is messed up when sorting](http://stackoverflow.com/questions/33310987/hadoop-streaming-the-order-of-reducer-output-files-is-messed-up-when-sorting)
@@ -419,7 +419,7 @@ Hadoop
         * 원인; 실행하는 서버의 HADOOP_CONF_DIR에 yarn-site.xml이 없어서, yarn resource manager에 적절하게 할당이 되지 않았고, cloudera manager의 애플리케이션 탭에서 워크로드 요약도 볼 수 없었음
         * 해결; 실행하는 서버에 환경 설정 문제가 있어, 다른 서버에서 실행하니 resource manager에도 잘 등록되었고, (별다른 tuning 없이) 한 번 실행하는 데 대략 15m 정도 소요
 * [Secondary sorting flags for Hadoop 0.20.2 streaming](http://blog.tomhennigan.co.uk/post/46330524717/secondary-sorting-flags-for-hadoop-0202)
-* **[Hadoop Streaming Made Simple using Joins and Keys with Python](https://allthingshadoop.com/2011/12/16/simple-hadoop-streaming-tutorial-using-joins-and-keys-with-python/)**
+* [**Hadoop Streaming Made Simple using Joins and Keys with Python**](https://allthingshadoop.com/2011/12/16/simple-hadoop-streaming-tutorial-using-joins-and-keys-with-python/)
   * [Python Streaming Sample](https://github.com/joestein/amaunet)
 
     ```

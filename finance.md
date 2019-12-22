@@ -7,7 +7,7 @@ Finance
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie)
 * [financipe.com](http://financipe.com/)
-* **[navlio (verb) - navigate smart money portfolios with machine learning to discover new stock investments](http://www.navlio.com/)**
+* [**navlio (verb) - navigate smart money portfolios with machine learning to discover new stock investments**](http://www.navlio.com/)
 * [자산운용업 현황과 전망: 유년기의 끝](http://ppss.kr/archives/36024)
 * [Finda](http://www.finda.co.kr/)
 * [데이터과학자의 로보어드바이저 도전기](http://media.daum.net/digital/internet/newsview?newsid=20160914054802233)
@@ -99,7 +99,7 @@ Finance
 
 # Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
-* **[Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript](https://github.com/softage0/algorithm-trading-webapp)**
+* [**Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript**](https://github.com/softage0/algorithm-trading-webapp)
 * [quantopian.com/lectures](https://www.quantopian.com/lectures)
   * [7 Best Community-Built Value Investing Algorithms Using Fundamentals](https://blog.quantopian.com/fundamentals-contest-winners/)
 * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
@@ -129,14 +129,14 @@ Finance
 * [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://medium.com/@aniruddha.choudhury94/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) LSTM
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
-* **[파이썬으로 배우는 알고리즘 트레이딩](https://wikidocs.net/book/110)**
+* [**파이썬으로 배우는 알고리즘 트레이딩**](https://wikidocs.net/book/110)
 * [데이터셋 - 시가총액 데이터](https://github.com/FinanceData/marcap)
   * [데이터셋 - 시가총액 데이터 소개](https://financedata.github.io/marcap/)
   * [데이터셋 - 시가총액 데이터셋 튜토리얼](https://nbviewer.jupyter.org/github/FinanceData/marcap/blob/master/marcap-tutorial.ipynb)
   * [데이터셋 - 시가총액 데이터셋 튜토리얼](https://colab.research.google.com/github/FinanceData/marcap/blob/master/marcap-tutorial.ipynb)
 * [Stock Analysis in Python - Exploring financial data with object-oriented programming and additive models](https://towardsdatascience.com/stock-analysis-in-python-a0054e2c1a4c)
 * [Python/Python 재무제표 크롤링](https://engkimbs.tistory.com/category/Python/Python%20%EC%9E%AC%EB%AC%B4%EC%A0%9C%ED%91%9C%20%ED%81%AC%EB%A1%A4%EB%A7%81)
-* **[거래 알고리즘](https://www.openaitrading.com/category/share-trading-algorithm/)**
+* [**거래 알고리즘**](https://www.openaitrading.com/category/share-trading-algorithm/)
 * 파이썬으로 주식 분류하기
   * [Part 1 개요](https://youtu.be/dhV8UWI1sjc)
     * 레이블이 안 되어있거나 분류되지 않은 데이터를 다룰 때는 분류 알고리즘을 사용하여 숨겨진 구조를 찾음
@@ -160,8 +160,8 @@ Finance
 * [Unofficial Python API client library for TD Ameritrade](https://github.com/areed1192/td-ameritrade-python-api)
 * [Approaching AI in Banking - Hussain Sultan](https://www.youtube.com/watch?v=zDvxoVSwyuQ)
   * [Approaching AI in Banking](https://speakerdeck.com/hussainsultan/approaching-ai-in-banking)
-* **[파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 I](http://blog.alphasquare.co.kr/221602425951)**
-* **[파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 II](http://blog.alphasquare.co.kr/221611131960)**
+* [**파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 I**](http://blog.alphasquare.co.kr/221602425951)
+* [**파이썬을 활용한 자산배분 투자 - 나만의 자산배분 Tool 만들기 II**](http://blog.alphasquare.co.kr/221611131960)
 * [파이썬으로 시작하는 자산배분 투자 - 기대수익률과 위험 측정하기](http://blog.naver.com/anthouse28/221640874003)
 * [파이썬을 활용한 자산배분 투자 - Risk와 Return 살펴보기](http://blog.alphasquare.co.kr/221659114871)
 * [eBest Xing api 실시간조회, 테스트 및 실행 화면 (8)](http://malchooni.name/%ED%8C%8C%EC%9D%B4%EC%8D%AC-ebest-xing-api-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%A1%B0%ED%9A%8C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B0%8F-%EC%8B%A4%ED%96%89-%ED%99%94%EB%A9%B4-8/)

@@ -4,7 +4,7 @@ Concurrency
 * [Maximizing Throughput on Multicore Systems](http://www.infoq.com/presentations/erlang-multicore)
 * [Introduction to distributed computing and its types with example](https://www.youtube.com/watch?v=6_sqINSdWb0)
 * [Making Sequential Execution Fast(er)](https://medium.com/@claytonlong_34858/making-sequential-execution-fast-er-56d65f70eb2b)
-* **[non blocking/async IO vs. multithreads](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how/8546444#8546444)**
+* [**non blocking/async IO vs. multithreads**](https://stackoverflow.com/questions/8546273/is-non-blocking-i-o-really-faster-than-multi-threaded-blocking-i-o-how/8546444#8546444)
 * [Difference between mutual exclusion and synchronization](https://www.8bitavenue.com/2017/12/difference-between-mutual-exclusion-and-synchronization)
 * [readers-writer lock - 공유 자원 접근하기](https://blog.seulgi.kim/2018/12/rwlock.html)
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://www.popit.kr/faster-parallel-processes/) redis, RabbitMQ
@@ -12,7 +12,7 @@ Concurrency
 * ["A survey of parallel programming models and tools in the multi and many-core era."를 읽고](https://www.sangkon.com/a-survey-of-parallel-programming-models-and-tools-in-the-multi-and-many-core-era/)
 
 # Actor
-* **[The actor model in 10 minutes](https://www.brianstorti.com/the-actor-model)**
+* [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
 
 # C
 * [멀티플렉싱 기반의 다중 접속 서버로 가기까지 멀티프로세스 -> 멀티스레드 -> 멀티플렉싱](https://jongmin92.github.io/2019/02/28/Java/java-with-non-blocking-io/)
@@ -26,7 +26,7 @@ Concurrency
 
 # Coroutine
 * [코루틴 소개](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4-%EC%86%8C%EA%B0%9C-504cecc89407)
-* **[코루틴을 구분해보자](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%84-%EA%B5%AC%EB%B6%84%ED%95%B4%EB%B3%B4%EC%9E%90-98428c491ace)**
+* [**코루틴을 구분해보자**](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%84-%EA%B5%AC%EB%B6%84%ED%95%B4%EB%B3%B4%EC%9E%90-98428c491ace)
 * [Knock!Knock! 코루틴](https://medium.com/@jooyunghan/knock-knock-%EC%BD%94%EB%A3%A8%ED%8B%B4-c4ccc17a5d66)
 * [Stackful/Stackless 코루틴](https://medium.com/@jooyunghan/stackful-stackless-%EC%BD%94%EB%A3%A8%ED%8B%B4-4da83b8dd03e)
 * [Knock!Knock! 코루틴 #2](https://medium.com/@jooyunghan/knock-knock-%EC%BD%94%EB%A3%A8%ED%8B%B4-2-e5d26678e021)
@@ -97,7 +97,7 @@ Concurrency
 * [Threading Building Blocks (Intel® TBB)](https://www.threadingbuildingblocks.org/)
 * [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 * [멀티스레드 프로그래밍 관련 이야기](http://moogi.new21.org/tc/1429) UI, thread 종료, 동시작업 구현, fiber
-* **[바람직한 멀티스레딩 구조](https://www.youtube.com/watch?v=M1e9nmmD3II)** job system, job stealing, dependency graph
+* [**바람직한 멀티스레딩 구조**](https://www.youtube.com/watch?v=M1e9nmmD3II) job system, job stealing, dependency graph
 * 멀티스레드 프로그래밍의 design by contract & eventual determinism
   * [1편](https://imays.blog.me/221428677043)
   * [2편](https://imays.blog.me/221430386161)

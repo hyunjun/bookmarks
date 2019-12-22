@@ -79,6 +79,6 @@ Azure
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
-* **[Modeling document data for NoSQL databases](https://docs.microsoft.com/en-us/azure/cosmos-db/modeling-data)**
+* [**Modeling document data for NoSQL databases**](https://docs.microsoft.com/en-us/azure/cosmos-db/modeling-data)
 * [Planet-scale event sourcing with Azure Cosmos DB](https://medium.com/@thomasweiss_io/planet-scale-event-sourcing-with-azure-cosmos-db-48a557757c8d)
 * [이게 대체 뭐하는 DB – Azure Cosmos DB](https://youngjaekim.wordpress.com/2019/03/30/%EC%9D%B4%EA%B2%8C-%EB%8C%80%EC%B2%B4-%EB%AD%90%ED%95%98%EB%8A%94-db-azure-cosmos-db/)

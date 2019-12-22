@@ -20,12 +20,12 @@ Git
 * [Git 의 기초](https://medium.com/@joongwon/git-git-%EC%9D%98-%EA%B8%B0%EC%B4%88-a7801f45091d)
 * [A developer’s introduction to GitHub](https://medium.freecodecamp.org/a-developers-introduction-to-github-1034fa55c0db)
 * [Git과 Github 소개](https://www.zerocho.com/category/Git/post/58045dbc146be6001542a465)
-* **[깃을 위한 flight rules](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)**
+* [**깃을 위한 flight rules**](https://github.com/k88hudson/git-flight-rules/blob/master/README_kr.md)
 * [Git Koans](http://stevelosh.com/blog/2013/04/git-koans/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v1/)
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
 * [19 Tips For Everyday Git Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
-* **[5 GitHub tips for new coders](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)**
+* [**5 GitHub tips for new coders**](https://medium.freecodecamp.org/5-github-tips-for-new-coders-2f312689ffd5)
 * [Aha! Moments When Learning Git](http://betterexplained.com/articles/aha-moments-when-learning-git/)
 * [svn 능력자를 위한 git 개념 가이드](http://www.slideshare.net/einsub/svn-git-17386752)
 * [핸드스튜디오 사내강의 “Git+, Git 조금 더 배워보기”](http://elegantcoder.com/git-plus/)
@@ -55,7 +55,7 @@ Git
 * [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
 * [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-* **[Git cheatsheet](https://ndpsoftware.com/git-cheatsheet.html)** stash, workspace, index, local repo, upstream repo 간의 이동을 visual로 보여줘서 (여전히 어렵지만) 정말 보기 좋음
+* [**Git cheatsheet**](https://ndpsoftware.com/git-cheatsheet.html) stash, workspace, index, local repo, upstream repo 간의 이동을 visual로 보여줘서 (여전히 어렵지만) 정말 보기 좋음
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
@@ -91,7 +91,7 @@ Git
 * [About Travis CI](https://medium.com/@yoonjs2/about-travis-ci-65b04d3dead6)
 * [알아두면 좋은 GIT 꿀팁 3개](https://brunch.co.kr/@sydneyitguy/5)
 * [Top 10 Free GitHub Alternatives for Private Repositories](http://toppersworld.com/top-10-free-github-alternatives-for-private-repositories/)
-* **[오픈소스 일기: GIT 그리고 저장소 다루기](https://medium.com/@yoonjs2/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-git-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%8B%A4%EB%A3%A8%EA%B8%B0-9f66c98c1cb5)**
+* [**오픈소스 일기: GIT 그리고 저장소 다루기**](https://medium.com/@yoonjs2/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-git-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%8B%A4%EB%A3%A8%EA%B8%B0-9f66c98c1cb5)
 * [비번 없이 서버, github 이용하기](https://www.youtube.com/watch?v=NlxKAHsKLpc)
 * [케빈 TV S02E08 - Git 활용 및 GitHub와 GitLab 같이 쓰기 (2016-10-09)](https://www.youtube.com/watch?v=1uOYVKXq4ws)
 * [zerocho.com/category/Git](https://www.zerocho.com/category/Git)
@@ -119,7 +119,7 @@ Git
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
 * [GitHub을 이용한 셀프 브랜딩](https://news.realm.io/kr/news/github-self-branding/)
-* **[#gdc13 #review Working Together: Solutions for Collaborative Asset Creation](http://ohyecloudy.com/pnotes/archives/gdc13-working-together-solutions-for-collaborative-asset-creation/)**
+* [**#gdc13 #review Working Together: Solutions for Collaborative Asset Creation**](http://ohyecloudy.com/pnotes/archives/gdc13-working-together-solutions-for-collaborative-asset-creation/)
 * [드디어 보이는 Git의 미래](https://www.youtube.com/watch?v=I6SiIXDzhHA)
   * [Git at Scale](https://www.visualstudio.com/learn/git-at-scale/)
 * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
@@ -152,7 +152,7 @@ Git
 * [깃(Git)은 뭐가 다른가?](https://tech.10000lab.xyz/git/how-git-is-different.html)
 * [깃(Git) 용어 정리](https://tech.10000lab.xyz/git/important-git-terms.html)
 * [깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
-* **[깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)**
+* [**깃(Git) 유용한 팁**](https://tech.10000lab.xyz/git/git-tips-you-need.html)
 * [깃(Git) 필수 명령어](https://tech.10000lab.xyz/git/git-cheat-sheet.html)
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
 * [GitHub Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
@@ -172,7 +172,7 @@ Git
 * [Mind your programming language](https://medium.freecodecamp.org/mind-your-programming-language-38e340a430a1) .gitattributes
 * [The Essential Git Handbook](https://medium.freecodecamp.org/the-essential-git-handbook-a1cf77ed11b5)
 * [깃허브 패키지 레지스트리 베타 발표 언어 별 패키지 매니저 지원 및 깃헙 권한으로 접근 제어 등](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
-* **[Git 계정 여러 개 동시 사용하기](https://blog.outsider.ne.kr/1448)**
+* [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
@@ -183,9 +183,9 @@ Git
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 
 # Command
-* **[Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)](https://github.com/mingrammer/git-tips)**
+* [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
 * [Git 명령어 정리](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
-* **[Oh shit, git!](http://ohshitgit.com/)** 실수했을 때 case별 대처법
+* [**Oh shit, git!**](http://ohshitgit.com/) 실수했을 때 case별 대처법
 * [내 시간을 절약하는 소중한 git 명령어들](http://sunphiz.me/wp/archives/2558)
 * [Now that you’re not afraid of GIT anymore, here’s how to leverage what you know](https://medium.freecodecamp.org/now-that-youre-not-afraid-of-git-anymore-here-s-how-to-leverage-what-you-know-11e710c7f37b)
   * merge, remote, push, pull, reset
@@ -225,7 +225,7 @@ Git
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
   * [Git 브랜치 배우기](http://learnbranch.urigit.com/)
-  * **[Git을 이용한 협업 워크플로우 배우기](http://blog.appkr.kr/learn-n-think/comparing-workflows/)**
+  * [**Git을 이용한 협업 워크플로우 배우기**](http://blog.appkr.kr/learn-n-think/comparing-workflows/)
   * [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
     * [git feature branch 모델 프로젝트 적용기](https://ash84.net/2017/05/15/git-feature-branch-model-usage/)
   * [git-flow cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/index.ko_KR.html)
@@ -376,7 +376,7 @@ Git
   * `git log -g --grep=STRING`
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
-    * **[Git 커밋 메시지 작성법](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)**
+    * [**Git 커밋 메시지 작성법**](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
   * [Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 commit log](http://story.haezoom.com/?p=936)
   * [왜 merge 실수로 희생된 커밋이 파일 로그에서 보이지 않나?](http://ohyecloudy.com/pnotes/archives/git-file-log-history-simplification/)
@@ -397,7 +397,7 @@ Git
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
   * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict-md) 변경 내역 유실 및 삭제 복구
   * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict0-md) 같은 filename으로 서로 다른 branch에서 작업한 경우(간단)
-  * **[GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.toast.com/posts/122)**
+  * [**GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기**](https://meetup.toast.com/posts/122)
   * [Git: merging specific files from another branch](https://www.haykranen.nl/2011/07/18/git-merging-specific-files-from-another-branch/)
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
 * show
@@ -409,7 +409,7 @@ Git
 * pandoc; git으로 word file을 diff할 때 그냥 비교하면 안 되는데 이걸 markdown으로 바꿔 비교할 수 있도록 하는 명령어
 * pull request
   * [GitHub로 남의 프로젝트에 감놓고 배놓기](https://dogfeet.github.io/articles/2012/how-to-github.html)
-  * [example](https://gist.github.com/hyunjun/d61a173e6b81c603ab02)
+  * [practice - pull request](https://gist.github.com/hyunjun/d61a173e6b81c603ab02)
   * [Checking Out GitHub Pull Requests Locally](http://blog.scottlowe.org/2015/09/04/checking-out-github-pull-requests-locally/)
   * [Bitbucket Pull Requests](https://www.youtube.com/watch?v=ssDHUyrQ8nI)
   * [Pull Request를 이용한 개발 흐름을 적용해 보고 나서](https://blog.outsider.ne.kr/1199?category=18)
@@ -500,13 +500,13 @@ Git
 * [`revert`](https://git-scm.com/docs/git-revert)
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
   * [revert-a-faulty-merge](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt)
-  * **[git merge 커밋 리버트(revert)](http://ohyecloudy.com/pnotes/archives/git-revert-merge-commit/)**
+  * [**git merge 커밋 리버트(revert)**](http://ohyecloudy.com/pnotes/archives/git-revert-merge-commit/)
 * submodule
   * [Mastering Git submodules](https://medium.com/@porteneuve/mastering-git-submodules-34c65e940407)
   * [Git: 서브모듈 이해하기 (git submodule)](http://ohgyun.com/711)
     * practice
-      * [github.com/hyunjun/test_parent](https://github.com/hyunjun/test_parent)
-      * [github.com/hyunjun/test_child](https://github.com/hyunjun/test_child)
+      * [practice submodule test_parent](https://github.com/hyunjun/test_parent)
+      * [practice submodule test_child](https://github.com/hyunjun/test_child)
   * [Git submodule add: “a git directory is found locally” issue](http://stackoverflow.com/questions/20929336/git-submodule-add-a-git-directory-is-found-locally-issue) `rm -rf .git/modules/[submodule name]`
   * [Easy way pull latest of all submodules](http://stackoverflow.com/questions/1030169/easy-way-pull-latest-of-all-submodules)
   * [여러개의 Git 저장소 (repository)로 이루어진 프로젝트 관리하기](http://pseg.or.kr/pseg/index.php?document_srl=7337&l=ko&mid=infouse)
@@ -536,7 +536,7 @@ Git
 * [GitHub과 연동해서 의존성 라이브러리를 관리할 수 있는 서비스들](https://blog.outsider.ne.kr/1323)
 * [개발 툴소개 + 수다 (2018-12-07) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=B0jXvwX6_rk)
 * [Github 컨텐츠 관리 플랫폼 개발](http://qwefgh90.github.io/javascript/Github-%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C/)
-* **[Atomist Project Templates](https://github.com/atomist-project-templates)** Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
+* [**Atomist Project Templates**](https://github.com/atomist-project-templates) Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
 * [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)
@@ -559,7 +559,7 @@ Git
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
 * [gitfs - Version controlled file system](http://www.presslabs.com/gitfs/)
 * [Githelp](https://githelp.io/?ref=hackernews)
-* **[git-history - Quickly browse the history of any GitHub file https://githistory.xyz ](https://github.com/pomber/git-history)**
+* [**git-history - Quickly browse the history of any GitHub file https://githistory.xyz **](https://github.com/pomber/git-history)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
@@ -594,7 +594,7 @@ Git
   * [The Git interface you've been missing all your life has finally arrived. http://gitup.co](https://github.com/git-up/GitUp#gitupkit)
 * [gitv](https://github.com/gregsexton/gitv)
 * [git-visualizer](http://veniversum.me/git-visualizer/)
-* **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
+* [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
 * [Hot-Repos - Periodically share links of hot GitHub repositories on FB](https://github.com/parkjs814/Hot-Repos)
   * [www.facebook.com/hotrepos](https://www.facebook.com/hotrepos)

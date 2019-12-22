@@ -11,7 +11,7 @@ Apache
 * [데이타 워크플로우 관리를 위한 Apache Airflow #1 - 소개](http://bcho.tistory.com/1184)
 * [Airflow Tutorial for Data Pipelines](https://blog.godatadriven.com/practical-airflow-tutorial)
   * Apache Airflow를 시작할 때 참고할만한 튜토리얼
-* **[Apache Airflow를 이용한 데이터 워크플로우 자동화](http://whitechoi.tistory.com/50)**
+* [**Apache Airflow를 이용한 데이터 워크플로우 자동화**](http://whitechoi.tistory.com/50)
 * [ETL best practices with Airflow documentation site](https://gtoonstra.github.io/etl-with-airflow/)
 * [Integrating Apache Airflow with Apache Ambari](https://medium.com/@mykolamykhalov/integrating-apache-airflow-with-apache-ambari-ccab2c90173)
 * [Modern Data Pipelines with Apache Airflow (Momentum 2018 talk)](http://blog.tedmiston.com/momentum-2018-airflow-talk/) Apache Airflow의 개념, 몇 가지 예제
@@ -272,7 +272,7 @@ Apache
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
 * [Kafka For Beginners](https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d)
 * [Apache Kafka and Confluent Platform examples and demos](https://github.com/confluentinc/examples)
-* **[Apache Kafka Best Practices](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)**
+* [**Apache Kafka Best Practices**](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
 * [Kafka - kafka-console-consumer](https://gerardnico.com/wiki/dit/kafka/kafka-console-consumer)
 * [Vertically scaling Kafka consumers](https://www.jesseyates.com/2019/12/04/vertically-scaling-kafka-consumers.html)
@@ -359,7 +359,7 @@ Apache
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
 * [Kafka 보안 (1) - JAAS 및 SASL](https://springboot.cloud/31)
 * [Kafka 보안 (2) - SASL/PLAIN](https://springboot.cloud/32)
-* **[Apache Kafka지도 시간](http://www.w3ii.com/ko/apache_kafka/default.html)**
+* [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 * [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
 * [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
@@ -425,14 +425,14 @@ Apache
 * [How to use Apache Kafka to transform a batch pipeline into a real-time one](https://medium.com/@stephane.maarek/how-to-use-apache-kafka-to-transform-a-batch-pipeline-into-a-real-time-one-831b48a6ad85)
 * [Kafka Korea meetup](https://github.com/kafkakru/meetup)
   * [About 1st Conference](https://github.com/kafkakru/meetup/tree/master/conference/1st-conference)
-  * **[KafkaKRU(Kafka 한국사용자 모임) 2회 미니밋업 후기](https://zzsza.github.io/etc/2019/03/26/kafkakru-2nd-review/)**
+  * [**KafkaKRU(Kafka 한국사용자 모임) 2회 미니밋업 후기**](https://zzsza.github.io/etc/2019/03/26/kafkakru-2nd-review/)
   * [Kafka kru CONFERENCE SEOUL 2019 후기 & 정리글](https://dabo-dev.tistory.com/17)
   * [mini-meetup2](https://github.com/kafkakru/meetup/tree/master/mini-meetup2)
   * [About 3rd Mini-Meetup](https://github.com/kafkakru/meetup/tree/master/mini-meetup3)
 * [Moving From Legacy To Event-Driven With Kafka](https://www.youtube.com/watch?v=H_ang8BatXQ)
 * [카프카 컨슈머 애플리케이션 배포 전략](https://medium.com/11st-pe-techblog/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5-4cb2c7550a72)
-* **[cloudurable.com/categories/kafka](http://cloudurable.com/categories/kafka/index.html)**
-  * **[Kafka Tutorial 13: Creating Advanced Kafka Producers in Java](http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html)**
+* [**cloudurable.com/categories/kafka**](http://cloudurable.com/categories/kafka/index.html)
+  * [**Kafka Tutorial 13: Creating Advanced Kafka Producers in Java**](http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html)
     * 압축방식은 lz4가 좋으며, decompress할때 사이즈 넣어야 snappy보다 느린 현상이 발생하지 않음
 * [Introduction to Schemas in Apache Kafka with the Confluent Schema Registry](https://medium.com/@stephane.maarek/introduction-to-schemas-in-apache-kafka-with-the-confluent-schema-registry-3bf55e401321)
   * kafka는 json에 대한 serde를 제공하지 않음(구현은 가능)
@@ -469,7 +469,7 @@ Apache
 * [Kafka Replication: The case for MirrorMaker 2.0](https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/)
   * MirrorMaker 1의 대안으로 Cloudera 엔지니어가 개발. 1보다 훨씬 좋지만 아직 정식 탑재된 게 아니라 문서화 부족
 * [MirrorMaker2 가 release되었습니다](https://blog.voidmainvoid.net/293)
-* **[blog.voidmainvoid.net/category/.../Kafka](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)**
+* [**blog.voidmainvoid.net/category/.../Kafka**](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
   * [blog.voidmainvoid.net/tag/kafka](https://blog.voidmainvoid.net/tag/kafka)
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
 * [Finding Kafka’s throughput limit in Dropbox infrastructure](https://blogs.dropbox.com/tech/2019/01/finding-kafkas-throughput-limit-in-dropbox-infrastructure/)
@@ -482,9 +482,9 @@ Apache
 * [What's New in Kafka 2.2?](https://www.youtube.com/watch?v=kaWbp1Cnfo4)
 * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [How to run Kafka Mirror Maker using Kerberos clusters](https://www.youtube.com/watch?v=2jkk3ZycW78)
-* **[카프카 설치 시 가장 중요한 설정 4가지](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98-%EC%8B%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%84%A4%EC%A0%95-4%EA%B0%80%EC%A7%80/)**
+* [**카프카 설치 시 가장 중요한 설정 4가지**](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98-%EC%8B%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%84%A4%EC%A0%95-4%EA%B0%80%EC%A7%80/)
 * [**kafka 운영 - 기본적인 환경 설정 경험담**](https://springboot.cloud/34)
-* **[KAFKA와 그 친구들](https://speakerdeck.com/dongjin/kafka-and-friends-ko)** monitoring, 운영, test tool 소개
+* [**KAFKA와 그 친구들**](https://speakerdeck.com/dongjin/kafka-and-friends-ko) monitoring, 운영, test tool 소개
 * [How to use reassign partition tool in Apache Kafka](https://www.youtube.com/watch?v=sWsWurfBI9c)
 * [How to move Kafka Partition log directory within a Broker Node](https://www.youtube.com/watch?v=UrX2RWM2vQQ)
 * [How to use reassign partition tool in Apache Kafka](https://www.youtube.com/watch?v=sWsWurfBI9c)
@@ -685,7 +685,7 @@ Apache
 * [Low latency high throughput streaming using Apache Apex and Apache Kudu](https://www.slideshare.net/Hadoop_Summit/low-latency-high-throughput-streaming-using-apache-apex-and-apache-kudu)
   * Apache Kudu와 Apache Apex를 이용한 고성능 스트리밍처리 방식에 대해 설명
 * [A brave new world in mutable big data relational storage (Strata NYC 2017)](https://www.slideshare.net/ToddLipcon/a-brave-new-world-in-mutable-big-data-relational-storage-strata-nyc-2017)
-* **[Kudu를 이용한 빅데이터 다차원 분석 시스템 개발](http://d2.naver.com/helloworld/9099561)**
+* [**Kudu를 이용한 빅데이터 다차원 분석 시스템 개발**](http://d2.naver.com/helloworld/9099561)
 * [Guide to Using Apache Kudu and Performance Comparison with HDFS](https://blog.clairvoyantsoft.com/guide-to-using-apache-kudu-and-performance-comparison-with-hdfs-453c4b26554f)
 * [Transparent Hierarchical Storage Management with Apache Kudu and Impala](https://blog.cloudera.com/blog/2019/03/transparent-hierarchical-storage-management-with-apache-kudu-and-impala)
   * Apache Kudu 및 Impala를 사용한 계층적 스토리지 관리
@@ -698,7 +698,7 @@ Apache
 * [Kudu as Storage Layer to Digitize Credit Processes](https://dataworkssummit.com/barcelona-2019/session/kudu-as-storage-layer-to-digitize-credit-processes/)
 
 # [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
-* **[빅데이터 다차원 분석 플랫폼, Kylin](http://d2.naver.com/helloworld/1057065)**
+* [**빅데이터 다차원 분석 플랫폼, Kylin**](http://d2.naver.com/helloworld/1057065)
 * [Apache Kylin 2.2.0 is released](https://kylin.apache.org/docs21/release_notes.html)
   * Apache Ranger를 사용하여 테이블 레벨에서 ACL을 관리하는 기능 등이 탑재
 * [Using Hue to interact with Apache Kylin in your cluster or on AWS](http://gethue.com/using-hue-to-interact-with-apache-kylin/) Hue에서 JDBC 드라이버를 통해 Apache Kylin을 조회할 수 있는 방법을 설명합니다. AWS EMR 포함
@@ -766,12 +766,11 @@ Apache
 * [Sorting and Parquet](https://medium.com/@pankajroark/sorting-and-parquet-3a382893cde5)
   * Apache Parquet로 직렬화하기 전에 데이터를 정렬하면 쿼리 성능이 크게 달라질 수 있음
   * 이 글에서는 그 이유를 설명하고 정렬할 column을 파악하는 방법에 대한 아이디어 제공
-* **[Parquet Internal Part 1. Google Dremel(1)](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)**
+* [**Parquet Internal Part 1. Google Dremel(1)**](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)
 
 # [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
-* examples
-  * [gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
+* [practice - gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
 * [hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
 * [Hadoop Tutorial: Pig Part 2 -- Joining Data Sets and Other Advanced Topics](http://www.slideshare.net/martyhall/hadoop-tutorial-pig-part-2-joining-data-sets-and-other-advanced-topics)
 * [Hadoop Pig Tutorial](https://medium.com/@ananthis740/hadoop-pig-tutorial-7f3b827b25cb)

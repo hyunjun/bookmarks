@@ -11,8 +11,8 @@ Time Series
 * [SERIAL CORRELATION IN TIME SERIES ANALYSIS](https://www.quantstart.com/articles/Serial-Correlation-in-Time-Series-Analysis)
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
 * [ETS 모델 기반 시계열 예측](http://ko.logpresso.com/documents/time-series/ets) 지수평활법
-* **[머신러닝을 통한 타임시리즈 예측](http://hamait.tistory.com/837)**
-* **[Time-series data: Why (and how) to use a relational database instead of NoSQL](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)**
+* [**머신러닝을 통한 타임시리즈 예측**](http://hamait.tistory.com/837)
+* [**Time-series data: Why (and how) to use a relational database instead of NoSQL**](https://blog.timescale.com/time-series-data-why-and-how-to-use-a-relational-database-instead-of-nosql-d0cd6975e87c)
 * [타임시리즈 데이터의 feature extraction 에 관한 논문&오픈소스 링크](http://hamait.tistory.com/860)
 * [파이썬 코딩으로 말하는 데이터 분석 - 10. DTW (Data time wrapping)](http://hamait.tistory.com/862)
 * [Time Series Analysis with Generalized Additive Models](https://opendatascience.com/blog/time-series-analysis-with-generalized-additive-models/)

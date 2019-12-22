@@ -37,7 +37,7 @@ Redis
 * [Redis Networking Nerd Down: For Lovers of Packets and Jumbo Frames- John Bullard, Distil Networks](http://www.slideshare.net/RedisLabs)
 * [입 개발 Redis 접속이 안되요!!! – Protected Mode](https://charsyam.wordpress.com/2016/07/11/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A0%91%EC%86%8D%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94-protected-mode/)
 * [Developing a Redis Module](https://www.youtube.com/watch?v=LPxx4QPyUPw)
-* **[REDIS 데이터 모델들](http://www.popit.kr/redis-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%93%A4/)**
+* [**REDIS 데이터 모델들**](http://www.popit.kr/redis-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%93%A4/)
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)
 * [Intro To Redis Cluster Sharding – Advantages, Limitations, Deploying & Client Connections](http://highscalability.com/blog/2019/2/19/intro-to-redis-cluster-sharding-advantages-limitations-deplo.html)
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
@@ -66,7 +66,7 @@ Redis
 * [Redis Node와 연동하기](https://www.zerocho.com/category/NodeJS/post/5a3238b714c5f9001b16c430)
 * [운영에 필요한 최소한의 지식](http://jybaek.tistory.com/711) List, Hash
 * [Why Redis?](https://www.youtube.com/watch?v=OG610oe_kxs)
-* **[Dave Nielsen: Top 5 uses of Redis as a Database](https://www.youtube.com/watch?v=jTTlBc2-T9Q)** 내부 구조 기초
+* [**Dave Nielsen: Top 5 uses of Redis as a Database**](https://www.youtube.com/watch?v=jTTlBc2-T9Q) 내부 구조 기초
 * [Redis Labs and SQL Server](https://www.youtube.com/watch?v=XQ9QEgLZAcQ)
 * [Redis tutorial for beginners](https://www.youtube.com/watch?v=z9OPBVe6tgc)
 * [Redis Tutorial - A Brief Introduction to Redis](https://www.youtube.com/watch?v=qr4FVhBTq0I)
@@ -112,7 +112,7 @@ Redis
 * [SCAN](https://redis.io/commands/scan) `scan 0 \[match pattern\]` patern = \*pattern or pattern\* or \*pattern\* e.g. `scan 0 match *test*`
   * `scan_iter` in python
   * [Get all keys in Redis database with python](https://stackoverflow.com/questions/22255589/get-all-keys-in-redis-database-with-python)
-  * **[패턴으로 TTL 적용하기](https://jojoldu.tistory.com/349)** scan으로 pattern match되는 key를 찾아 expire 적용하는 script
+  * [**패턴으로 TTL 적용하기**](https://jojoldu.tistory.com/349) scan으로 pattern match되는 key를 찾아 expire 적용하는 script
 
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
@@ -171,7 +171,7 @@ Redis
 * [Advanced Redis: Subscribe Script to Pub/Sub Channel](https://matt.sh/advanced-redis-pubsub-scripts)
 
 ## PubSub Python
-* **[Redis Pubsub and Message Queueing](https://stackoverflow.com/questions/27745842/redis-pubsub-and-message-queueing)**
+* [**Redis Pubsub and Message Queueing**](https://stackoverflow.com/questions/27745842/redis-pubsub-and-message-queueing)
 * [Is non-blocking Redis pubsub possible?](https://stackoverflow.com/questions/7871526/is-non-blocking-redis-pubsub-possible)
 * [Non-Blocking PubSub in Python using Redis](https://ravi.pckl.me/short/non-blocking-pubsub-in-python-and-redis/)
 * [CREATE A SIMPLE CHAT ROOM WITH REDIS PUBSUB](http://programeveryday.com/post/create-a-simple-chat-room-with-redis-pubsub/)

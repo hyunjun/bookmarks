@@ -38,7 +38,7 @@ Functional Programming
   * [e03 – 함수형 프로그래머를 찾아서 – 한주영 4부](https://iamprogrammer.io/2017/02/23/%EC%BC%80%EB%B9%88%EC%B1%84%EB%84%90-e03-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C-%ED%95%9C%EC%A3%BC%EC%98%81-2/)
   * [e03 – 함수형 프로그래머를 찾아서 – 한주영 5부 (마지막)](https://iamprogrammer.io/2017/02/27/%EC%BC%80%EB%B9%88%EC%B1%84%EB%84%90-e03-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C-%ED%95%9C%EC%A3%BC%EC%98%81-3/)
 * [What Is Functional Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
-  * **[함수형 프로그래밍이란 무엇인가?](https://medium.com/@jooyunghan/함수형-프로그래밍이란-무엇인가-fab4e960d263)**
+  * [**함수형 프로그래밍이란 무엇인가?**](https://medium.com/@jooyunghan/함수형-프로그래밍이란-무엇인가-fab4e960d263)
 * [Which Programming Languages Are Functional?](http://blog.jenkster.com/2015/12/which-programming-languages-are-functional.html)
   * [어떤 프로그래밍 언어들이 함수형인가?](https://medium.com/@jooyunghan/어떤-프로그래밍-언어들이-함수형인가-fec1e941c47f)
   * [함수형 프로그래밍이란 - 2편](http://okky.kr/article/309023)
@@ -231,7 +231,7 @@ Functional Programming
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)
 * [람다 표현식의 장점](http://qwefgh90.github.io/java/Lambda-Expression/)
-* **[람다와 친해지고 싶다면](https://medium.com/@jooyunghan/%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-de8de2a99035)**
+* [**람다와 친해지고 싶다면**](https://medium.com/@jooyunghan/%EB%9E%8C%EB%8B%A4%EC%99%80-%EC%B9%9C%ED%95%B4%EC%A7%80%EA%B3%A0-%EC%8B%B6%EB%8B%A4%EB%A9%B4-de8de2a99035)
 * [Lambdas are not functional programming](https://medium.com/@johnmcclean/lambdas-are-not-functional-programming-63533ce2eb74)
 
 # Lisp
@@ -251,7 +251,7 @@ Functional Programming
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [The list monad in Perl and Python](http://blog.plover.com/prog/monad-search-2.html)
 * [Monads Are Not Metaphors](http://www.codecommit.com/blog/ruby/monads-are-not-metaphors)
-* **[Functors, Applicatives, And Monads In Pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)**
+* [**Functors, Applicatives, And Monads In Pictures**](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 * [IO monad realized in 1965](http://okmij.org/ftp/Computation/IO-monad-history.html)
 * [Arrows, Monads and Kleisli – part I](http://virtuslab.com/blog/arrows-monads-and-kleisli-part-i/)
 * [monads-in-clojure Back in 2009 I wrote a four-part tutorial on monads for Clojure programmers. It can be considered an introduction to the algo.monads library](https://github.com/khinsen/monads-in-clojure)
@@ -290,11 +290,11 @@ Functional Programming
 * [Scala code examples for Functional Programming Jargon](https://github.com/ikhoon/functional-programming-jargon.scala)
 * [A Beginner-Friendly Tour through Functional Programming in Scala](http://degoes.net/articles/easy-monads)
 * [진짜 함수형 초보자들을 위한 트레이닝(1) in Scala](http://hamait.tistory.com/900)
-* **[DDD(domain driven design) 관점에서 객체지향 vs 함수형 코드 비교](http://hamait.tistory.com/902)**
+* [**DDD(domain driven design) 관점에서 객체지향 vs 함수형 코드 비교**](http://hamait.tistory.com/902)
 * [Functional programming and Spark: do they mix?](https://www.iravid.com/posts/fp-and-spark.html)
 * [Let’s Code Real World App Using Purely Functional Techniques (in Scala)](https://www.youtube.com/watch?v=m40YOZr1nxQ)
 * [Lambda Calculus - Computerphile](https://www.youtube.com/watch?v=eis11j_iGMs)
-* **[Switching from OOP to Functional Programming](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3)** scala, haskell 예제로 설명
+* [**Switching from OOP to Functional Programming**](https://medium.com/@olxc/switching-from-oop-to-functional-programming-4187698d4d3) scala, haskell 예제로 설명
 * [A Crash Course in Category Theory - Bartosz Milewski](https://www.youtube.com/watch?v=JH_Ou17_zyU)
 * [Fun(c) 2018.7: John De Goes - FP to the Max](https://www.youtube.com/watch?v=sxudIMiOo68)
   * [fpmax.scala](https://gist.github.com/jdegoes/1b43f43e2d1e845201de853815ab3cb9)

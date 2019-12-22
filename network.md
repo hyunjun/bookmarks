@@ -65,7 +65,7 @@ Network
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
   * [HTTP란 무엇인가](https://www.zerocho.com/category/HTTP/post/5b344f3af94472001b17f2da)
   * [WEB2 - HTTP](https://opentutorials.org/course/3385)
-  * **[HOW HTTPS WORKS](https://howhttps.works/)**
+  * [**HOW HTTPS WORKS**](https://howhttps.works/)
   * [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1](https://joshua1988.github.io/web-development/http-part1/)
   * [HTTP 헤더](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers)
   * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
@@ -93,7 +93,7 @@ Network
   * [HTTPS - 2. HTTPS의 Ciphersuite -1. 키 교환과 인증](https://www.youtube.com/watch?v=iEig3jlT45Y)
   * [HTTPS - 3. 키 유도(Key derivation)](https://www.youtube.com/watch?v=er1eG2dfURQ)
   * [How does SSL/TLS make HTTPS secure?](https://hackernoon.com/how-does-ssl-tls-make-https-secure-d247bd4e4cae)
-  * **[버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3](https://brunch.co.kr/@mobiinside/1482)** 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
+  * [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
   * [Http 보안 및 용어 정리](https://naleejang.tistory.com/216)
   * [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
   * [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)

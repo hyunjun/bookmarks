@@ -435,6 +435,6 @@ Programming Language
 * [정적타입vs동적타입?? 단순한 언어가 최고!!](http://hamait.tistory.com/845)
 * [Safer Smart Contracts Through Type-Driven Development - 감상문](https://harfangk.github.io/2018/02/18/thoughts-on-safer-smart-contracts-through-tdd-ko.html)
 * [What are covariance and contravariance?](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance)
-  * **[공변성과 반공변성은 무엇인가?](https://edykim.com/ko/post/what-is-coercion-and-anticommunism/)**
+  * [**공변성과 반공변성은 무엇인가?**](https://edykim.com/ko/post/what-is-coercion-and-anticommunism/)
 * [Static type의 맹점](https://b.luavis.kr/web/the-shocking-secret-about-static-types)
 * [The Future of Programming is Dependent Types — Programming Word of the Day](https://medium.com/background-thread/the-future-of-programming-is-dependent-types-programming-word-of-the-day-fcd5f2634878)

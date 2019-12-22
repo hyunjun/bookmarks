@@ -1,7 +1,7 @@
 AWS
 ===
 
-* **[WEBABCWITHAWS](https://www.joinc.co.kr/w/man/12/architecture/webABCwithAWS)** 웹 서비스의 기본 요소들을 AWS로 재구성 & 설명
+* [**WEBABCWITHAWS**](https://www.joinc.co.kr/w/man/12/architecture/webABCwithAWS) 웹 서비스의 기본 요소들을 AWS로 재구성 & 설명
 * [AWS News Blog](https://aws.amazon.com/blogs/aws/)
 * [Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/)
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
@@ -21,7 +21,7 @@ AWS
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
-* **[서버리스 GraphQL 워크샵](https://github.com/tonyfromundefined/serverless-graphql-workshop)**
+* [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
 * [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
 * [AWS Amplify와 React로 어플리케이션 만들기](https://jason0853.github.io/aws/getting-started-with-aws-amplify-and-react/)
@@ -237,7 +237,7 @@ AWS
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
 * [Kafka in AWS with SSL Offloading using Load Balancer](https://medium.com/code-tech/kafka-in-aws-with-ssl-offloading-using-load-balancer-c337da1435c3)
 * [AWS EC2(Amazon Linux)에 Java8 설치하기](http://jojoldu.tistory.com/261)
-* **[당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)**
+* [**당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들**](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
 * [AWS의 오픈 소스 활동을 소개합니다!](https://aws.amazon.com/ko/blogs/korea/onwards-to-the-year-of-open-source)
 * [How We Built an Intrusion Detection System on AWS using Open Source Tools](https://medium.com/@samuelabiodun/how-we-built-an-intrusion-detection-system-on-aws-using-open-source-tools-8b755e965d54)
 * [7 ways to do containers on AWS](https://hackernoon.com/7-ways-to-do-containers-on-aws-532f812196f1)
@@ -343,7 +343,7 @@ AWS
   * [(1) 아마존 AWS로 리눅스 컴퓨터 준비하기](https://medium.com/@lanoir42/%EB%A0%88%EB%B2%A8%EB%85%B8%EA%B0%80%EB%8B%A4-linux-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90-1-%EC%95%84%EB%A7%88%EC%A1%B4-aws%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-3c8173620c6a)
   * [(2) 준비한 클라우드 리눅스 컴퓨터에 SSH로 접속하기](https://medium.com/@lanoir42/%EB%A0%88%EB%B2%A8%EB%85%B8%EA%B0%80%EB%8B%A4-linux-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90-2-%EC%A4%80%EB%B9%84%ED%95%9C-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%90-ssh%EB%A1%9C-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0-14430c754f4f)
 * [그들이 AWS 위에서 Kubernetes 를 운영하는 방법](https://docs.google.com/presentation/d/1AGdDWxnTK2M2emhHis0IlxODngTY6xJycP3ygPvA9F8)
-* **[그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)**
+* [**그들이 AWS 위에서 데이터 파이프 라인을 운영하는 법**](https://docs.google.com/presentation/d/11C_BKio0DZIop_ZjJk7ogxQtWV5qHIr-hHjw277z64k/)
 * [Building an End-to-End Serverless Data Analytics Solution on AWS](https://github.com/awskrug/serverless-data-analytics)
 * [(Troubleshooting) 내 로컬에서는 잘 되는데...? (내로잘)](https://perfectacle.github.io/2019/06/11/aws-sg-trobuleshooting)
 * [AWS와 함께 간단하게 HTTP/2 적용하기](https://evan-moon.github.io/2019/06/13/http2-with-aws/)
@@ -473,7 +473,7 @@ AWS
 * [AWS 파게이트 가격 30%-50% 인하 발표 vCPU 20%, 메모리 65% 인하. 서울 리전을 포함해 1월 7일부터 적용](https://www.44bits.io/ko/post/news--fargate-significant-price-cuts)
 * [ECS-CLI로 서울리전 Fargate 만들어보기](https://medium.com/harrythegreat/ecs-cli%EB%A1%9C-%EC%84%9C%EC%9A%B8%EB%A6%AC%EC%A0%84-fargate-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-bcf72a6595ad)
 * [Fargate를 이용한 ECS with VPC 1부](https://www.slideshare.net/HyunMookChoi/fargate-ecs-with-vpc-1)
-* **[ECS를 이용한 Serverless Batch 서버 travis ci + ECS를 이용한 Batch서버 효율화](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67)** Docker image Travis CI -> ECR -> Fargate
+* [**ECS를 이용한 Serverless Batch 서버 travis ci + ECS를 이용한 Batch서버 효율화**](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67) Docker image Travis CI -> ECR -> Fargate
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # Lambda
@@ -490,7 +490,7 @@ AWS
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
 * [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
-* **[하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기](https://todait.github.io/image-resizing-service)** zappa, flask, wand
+* [**하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기**](https://todait.github.io/image-resizing-service) zappa, flask, wand
 * [Lambda 한개로 만드는 On-demand Image Resizing](https://engineering.huiseoul.com/lambda-%ED%95%9C%EA%B0%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-on-demand-image-resizing-d48167cc1c31)
 * [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/ko/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
   * [chalice - Python Serverless Microframework for AWS](https://github.com/aws/chalice)
@@ -608,7 +608,7 @@ AWS
   * [AWS Cloud Development Kit (CDK) Is Generally Available, Enhancing Coding Cloud Infrastructure](https://www.infoq.com/news/2019/07/amazon-aws-cdk-ga/)
   * [AWS Cloud Development Kit(CDK) – TypeScript 및 Python용 정식 버전 제공](https://aws.amazon.com/ko/blogs/korea/aws-cloud-development-kit-cdk-typescript-and-python-are-now-generally-available)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
-  * **[AWS를 만드는 AWS, CloudFormation](https://www.huskyhoochu.com/introduce-cloudformation)**
+  * [**AWS를 만드는 AWS, CloudFormation**](https://www.huskyhoochu.com/introduce-cloudformation)
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
   * [Serverless with IAC - terraform과 cloudformation 비교](https://www.slideshare.net/wesky93/serverless-with-iac-terraform-cloudformation)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)

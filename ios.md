@@ -178,7 +178,7 @@ iOS
 * [IBM Swift Sandbox](http://swiftlang.ng.bluemix.net)
 * [IBM, 스위프트 웹서버 기술 공개](http://www.bloter.net/archives/250513)
 * example
-  * [REPL](https://gist.github.com/hyunjun/d146da973240d856e8ad)
+  * [practice - REPL](https://gist.github.com/hyunjun/d146da973240d856e8ad)
 * [Introducing Swift Education](http://swifteducation.github.io/)
   * [Apple has published a great free learn to code course for Swift — on GitHub](https://medium.com/ios-os-x-development/apple-has-published-a-great-free-learn-to-code-course-for-swift-on-github-feb5e4d70691)
 * [Learn Swift - A whirlwind tour of the Swift programming language](http://books.aidanf.net/learn-swift)

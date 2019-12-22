@@ -78,8 +78,8 @@ Web
 * [간단하게 무료로 HTTPS를 사용하시려면 CloudFlare를 추천드립니다. 심지어 아무 설정도 없이… Flexible SSL](https://jsdev.kr/t/https-cloudflare-flexible-ssl/1973)
 * [클라우드플레어와 방문자 IP 주소](http://occamsrazr.net/tt/349)
 * [웹 개발자를 위한 Web Protocols 정리](https://joshua1988.github.io/web_dev/web-protocols/)
-* **[웹개발 패러다임의 거대한 변화 "Reactive"](http://hamait.tistory.com/761)**
-* **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
+* [**웹개발 패러다임의 거대한 변화 "Reactive"**](http://hamait.tistory.com/761)
+* [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
 * [Top Web Development Articles Of The Week (11 Dec 2017)](https://medium.com/daily-now/top-web-development-articles-of-the-week-11-dec-2017-31683184976a)
 * [github.com/Mybridge/learn-web-development](https://github.com/Mybridge/learn-web-development)
   * [Web Development Top 10 Articles for the Past Month (v.June 2019)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-june-2019-ac752fe9df47)
@@ -110,7 +110,7 @@ Web
 * [Best youtube channels for web Designers and Developers](http://www.cssauthor.com/best-youtube-channels-for-web-designers-and-developers/)
 * [A roadmap to becoming a web developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 * [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
-* **[Roadmap to becoming a web developer in 2018](https://github.com/kamranahmedse/developer-roadmap)**
+* [**Roadmap to becoming a web developer in 2018**](https://github.com/kamranahmedse/developer-roadmap)
   * [2018년 웹 개발자가 되기 위한 로드맵 (번역)](https://github.com/devJang/developer-roadmap)
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [The 2018 Roadmap To FullStack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a)
@@ -147,7 +147,7 @@ Web
 * [What is the InterPlanetary File System (IPFS)?](https://hackernoon.com/what-is-the-interplanetary-file-system-ipfs-2da976e35d05)
 * [WEB2 - OAuth 2.0](https://opentutorials.org/course/3405)
 * [one page101 - 부트스트랩을 이용해서 원페이지 만드는 과정 학습](https://github.com/pangol/page101)
-* **[웹앱의 미래 (The Future of Web Apps 다시 읽기)](https://www.popit.kr/웹앱의-미래)**
+* [**웹앱의 미래 (The Future of Web Apps 다시 읽기)**](https://www.popit.kr/웹앱의-미래)
 * [W3C 2018 참관기](http://mobicon.tistory.com/561) libp2p
 * [“To be a good designer you must be a good engineer in every sense: curious, inquisitive](https://www.degreeless.design/) design 자습 자료
 * [2018년, Mozilla Hacks Top 10](http://hacks.mozilla.or.kr/2019/01/mozilla-hacks-10-most-read-posts-of-2018/)
@@ -159,11 +159,11 @@ Web
 * [How to protect your information with Local Sheriff](https://medium.freecodecamp.org/local-sheriff-watching-them-watching-us-5eacf3eb00ca) security
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
-* **[Six steps to building your website from scratch](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)**
+* [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
-* **[http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)** flowchart로 http status code 반환값의 흐름을 파악
+* [**http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers**](https://github.com/for-GET/http-decision-diagram) flowchart로 http status code 반환값의 흐름을 파악
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
@@ -272,7 +272,7 @@ Web
 * [웹 크롤링에 대해서](http://lumiamitie.github.io/web/introduction-to-web-crawling/)
 * [가상화폐 가격정보 가져오기](https://blog.naver.com/pjt3591oo/221177547962)
 * [Dataset creation and cleaning: Web Scraping using Python — Part 1](https://towardsdatascience.com/dataset-creation-and-cleaning-web-scraping-using-python-part-1-33afbf360b6b)
-* **[타베로그를 크롤링하기](https://helloworldpark.github.io/jekyll/update/2019/03/28/Crawler-4-Tabelog.html)**
+* [**타베로그를 크롤링하기**](https://helloworldpark.github.io/jekyll/update/2019/03/28/Crawler-4-Tabelog.html)
 * [타베로그를 크롤링하기2 - Google Places API로 비교하기](https://helloworldpark.github.io/jekyll/update/2019/03/30/Crawler-4-Tabelog2.html)
 * [타베로그를 크롤링하기3 - 타베로그 데이터 까보기](https://helloworldpark.github.io/jekyll/update/2019/03/30/Crawler-4-Tabelog3.html)
 * [타베로그를 크롤링하기4 - 구글 데이터 까보기](https://helloworldpark.github.io/jekyll/update/2019/03/30/Crawler-4-Tabelog4.html)
@@ -301,8 +301,8 @@ Web
 * [Title + Price 가져오기(Crawling 후 CSV File 저장)](https://developer-ankiwoong.tistory.com/718)
 * [바쁜 개발자가 집 알아보는 방법 🐌 - 방 정보 크롤링 및 필터링 하기](https://jen6.github.io/2019/12/find-house-for-me.html)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
-* **[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)**
-  * [example](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
+* [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
+  * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
   * [10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/scrape-webpage-for-10-minutes) javascript
   * [나만의 웹 크롤러 만들기 With Requests/BeautifulSoup](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler/)
   * [나만의 웹 크롤러 만들기(2): Login With Session](https://beomi.github.io/2017/01/20/HowToMakeWebCrawler-With-Login/)
@@ -429,7 +429,8 @@ Web
 * [load tester tool](http://loadtestertool.com/)
 * [locust - An open source load testing tool](http://locust.io/)
   * [locust - Scalable user load testing tool written in Python http://locust.io](https://github.com/locustio/locust/)
-  * [neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
+  * [practice - neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
+  * [부하테스트를 위한 Locust](https://bcho.tistory.com/1369)
 * [Mega boilerplate - 사용](http://wooriworld2006.tistory.com/m/post/353)
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
@@ -551,9 +552,9 @@ Web
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 
 # Restful
-* [restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
-* **[Standards.REST - A collection of standards and specifications, that help make fantastic HTTP/REST APIs. Don't reinvent the wheel, use fantastic wheels, hashed out by experts, that solve problems you hadn't even considered yet](http://standards.rest/)**
-* **[API 관련 내용 정리](https://jungwoon.github.io/infra,%20api,%20cloud/2019/01/31/Api-Summary/)**
+* [practice - restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
+* [**Standards.REST - A collection of standards and specifications, that help make fantastic HTTP/REST APIs. Don't reinvent the wheel, use fantastic wheels, hashed out by experts, that solve problems you hadn't even considered yet**](http://standards.rest/)
+* [**API 관련 내용 정리**](https://jungwoon.github.io/infra,%20api,%20cloud/2019/01/31/Api-Summary/)
 * [api development tools - A collection of useful resources for building RESTful HTTP+JSON APIs](https://github.com/Leventhan/api-development-tools)
 * [Do you really know why you prefer REST over RPC?](http://apihandyman.io/do-you-really-know-why-you-prefer-rest-over-rpc/)
 * [REST CookBook](http://restcookbook.com/)
@@ -584,7 +585,7 @@ Web
 * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
-* **[그런 REST API로 괜찮은가](http://slides.com/eungjun/rest)**
+* [**그런 REST API로 괜찮은가**](http://slides.com/eungjun/rest)
 * [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 * [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
@@ -670,7 +671,7 @@ Web
 * [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
 * [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
 * [Call for support for lisp in the WebAssembly development](http://article.gmane.org/gmane.lisp.steel-bank.devel/19495)
-* **[WebAssembly, 브라우저에 올리는 네이티브 코드](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4-webassembly-emscripten-asmjs/)**
+* [**WebAssembly, 브라우저에 올리는 네이티브 코드**](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4-webassembly-emscripten-asmjs/)
 * [무엇이 WebAssembly를 빠르게 만드나?](http://hacks.mozilla.or.kr/2017/05/what-makes-webassembly-fast/)
 * [Goodbye PNaCl, Hello WebAssembly!(https://blog.chromium.org/2017/05/goodbye-pnacl-hello-webassembly.html)
 * [자바스크립트는 어떻게 작동하는가: 웹어셈블리와의 비교 + 언제 웹어셈블리를 사용하는 게 좋은가](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%99%80%EC%9D%98-%EB%B9%84%EA%B5%90-%EC%96%B8%EC%A0%9C-%EC%9B%B9%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EA%B2%8C-%EC%A2%8B%EC%9D%80%EA%B0%80-cf48a576ca3)
@@ -700,5 +701,5 @@ Web
     * AWS c4large instance 에서 2,400 reqs/s 정도
     * Nginx 뒤에 KeepAlive 75초 주고 붙이면, 평균 1,500 정도
 * [Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX](http://gunicorn.org/)
-  * **[Django memory leak with gunicorn](https://rayed.com/wordpress/?p=1669)**
+  * [**Django memory leak with gunicorn**](https://rayed.com/wordpress/?p=1669)
   * [gunicorn (> = 19.2)는 max_requests과 함께 max_requests_jitter도 사용하자](https://qiita.com/ryu22e/items/2668a2243a5191bcdc78)

@@ -90,7 +90,7 @@ Vim
   * [A guide to neovim](http://nerditya.com/code/guide-to-neovim/)
   * [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
-* **[What are the most amazing things that can be done with Vim?](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)**
+* [**What are the most amazing things that can be done with Vim?**](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)
 * [History Is a Tree](http://ideasintosoftware.com/history-is-a-tree/)
 * [You have decided to use vi as your main text editor. A few tricks that will help you improve your skills](https://david.padilla.cc/posts/12-you-have-decided-to-use-vi-as-your-main-text-editor-a-few-tricks-to-improve-your-skills)
@@ -121,7 +121,7 @@ Vim
 * [Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY)
 * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them) `:s/[\uFEFF]//g`
 * [How to remove this symbol “^@” with vim?](http://superuser.com/questions/75130/how-to-remove-this-symbol-with-vim) `%s/<CTRL-2>//g` `%s/<CTRL-SHIFT-2>//g` (on Mac)
-* **[vimgifs.com](http://vimgifs.com)**
+* [**vimgifs.com**](http://vimgifs.com)
 * [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim/1220118#1220118)
 * [Vim anti-patterns](https://sanctum.geek.nz/arabesque/vim-anti-patterns/)
 * [exercise-2. vi를 효과적으로 연습하는 방법](https://www.youtube.com/watch?v=_dZk_jv5WlQ)
@@ -140,14 +140,14 @@ Vim
 * [모든 앱에서 Vim을 사용하는 법 - QuickCursorKM과 vim-anywhere](https://nolboo.kim/blog/2018/02/17/vim-anywhere/)
 * [Indenting Python with VIM](http://henry.precheur.org/vim/python.html)
 * [You don’t need more than one cursor in vim](https://medium.com/@schtoeffel/you-don-t-need-more-than-one-cursor-in-vim-2c44117d51db)
-* **[All I do is VIM VIM VIM](http://engineering.pivotal.io/post/all-i-do-is-vim/)**
+* [**All I do is VIM VIM VIM**](http://engineering.pivotal.io/post/all-i-do-is-vim/)
 * [Vim은 어디서 왔나](https://blog.koriel.kr/where-vim-came-from/)
 * [VIM을 이용하여 각 줄의 마지막 공백(Whitespace) 제거하기](http://kkamagui.tistory.com/904)
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
 * [Let Vim Do the Typing](https://www.youtube.com/watch?v=3TX3kV3TICU)
 * [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/)
 * [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
-* **[Talk on going mouseless with Vim, Tmux, and Hotkeys](https://www.youtube.com/watch?v=E-ZbrtoSuzw)**
+* [**Talk on going mouseless with Vim, Tmux, and Hotkeys**](https://www.youtube.com/watch?v=E-ZbrtoSuzw)
 * [Vim Makes Everything Better, Especially Your File Manager And Shell!](https://www.youtube.com/watch?v=a4scYdubKbo)
 * [Openwest 2015 - Erik Falor - "From Vim Muggle to Wizard in 10 Easy Steps" (8)](https://www.youtube.com/watch?v=MquaityA1SM)
 * [Vim 교정학원 후기](https://lqez.github.io/blog/vimrc-2019.html)
@@ -195,7 +195,7 @@ Vim
 * [Vimwiki 사용법](https://johngrib.github.io/wiki/vimwiki/)
 * [Vundle](https://github.com/VundleVim/Vundle.vim)
   * [vim 사용자를 위한 플러그인 매니저 vundle 을 소개 합니다](https://kldp.org/node/125263?destination=node%2F125263)
-  * [vundle + vim-flake8 install example](https://gist.github.com/hyunjun/f4103247e247bc802b90)
+  * [practice - vundle + vim-flake8 install example](https://gist.github.com/hyunjun/f4103247e247bc802b90)
   * go
 
     ```

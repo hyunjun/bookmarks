@@ -10,7 +10,7 @@ Monitoring
 * [Twitter의 좌충우돌 모니터링 만들기!](http://tech.whatap.io/2017/04/21/twitter_monitoring_and_alert-system/)
 * [자바 모니터링 #1](http://zetlos.tistory.com/1179904784)
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
-* **[Linux 게임 서버 성능 평가 (eBPF + BCC)](https://rein.kr/blog/archives/4389)**
+* [**Linux 게임 서버 성능 평가 (eBPF + BCC)**](https://rein.kr/blog/archives/4389)
 * [**Linux 게임 서버 성능 분석에 eBPF + BCC 활용하기**](https://blog.ifunfactory.com/2018/03/29/linux-게임-서버-성능-분석에-ebpf-bcc-활용하기/)
 * [Monitoring large scale e-commerce websites at MakeMyTrip — Part 1](https://medium.com/makemytrip-engineering/monitoring-large-scale-e-commerce-websites-at-makemytrip-part-1-ce50499b90ee)
 * [Python Script that monitors a service running on systemd. If service is not running the script will try to start the service](https://gist.github.com/piraz/de85b67e95132b5cf84e)

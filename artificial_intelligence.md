@@ -42,13 +42,13 @@ Artificial Intelligence
 * [뇌과학으로 본 인공지능의 현주소와 미래 01](https://www.youtube.com/watch?v=efWSbITntR0)
 * [인공지능: 변화와 능력개발](http://www.slideshare.net/TaegyunJeon1/ss-70432543)
 * [인공지능, 기계학습 그리고 딥러닝](http://www.slideshare.net/JinwonLee9/ss-70446412)
-* **[The Great A.I. Awakening](http://www.albireo.net/threads/45878/)**
+* [**The Great A.I. Awakening**](http://www.albireo.net/threads/45878/)
 * [LAIAN - Learning Artificial Intelligence Applying Notions (LAIAN)](https://github.com/KedalionDaimon/laian)
 * [github.com/AndersonJo/neo-notebook/tree/master/Artificial Intelligence Tutorial](https://github.com/AndersonJo/neo-notebook/tree/master/Artificial%20Intelligence%20Tutorial)
 * [휴대폰 안에서도 구현되는 인공지능, XNOR.ai](http://etinow.me/160)
 * [What Everyone is not Telling You about Artificial Intelligence](https://medium.com/@matelabs_ai/what-everyone-is-not-telling-you-about-artificial-intelligence-36c8552f3f53)
 * [www.reddit.com/r/AIKorea](https://www.reddit.com/r/AIKorea/)
-* **[Learning AI if You Suck at Math](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)**
+* [**Learning AI if You Suck at Math**](https://hackernoon.com/learning-ai-if-you-suck-at-math-8bdfb4b79037)
 * [Mnemosyne Algorithm](https://www.youtube.com/channel/UCqmwL_cHCIXmfilulUkiVug) javascript로 만드는 인공지능
 * [All AI Resources at one place](http://aimedicines.com/2017/03/17/all-ai-resources-at-one-place/)
 * [의료에서의 인공지능 정리 파일 김치원 V5](https://www.slideshare.net/ChiKim1/v5-73291156)
@@ -59,7 +59,7 @@ Artificial Intelligence
   * [1 초인공지능으로 가는 길](https://www.youtube.com/watch?v=22VUQ7swGI8)
   * [2 영생인가 멸망인가 전반부](https://www.youtube.com/watch?v=WkFw0X-KS6Y)
   * [3 영생인가 멸망인가 후반부](https://www.youtube.com/watch?v=oBCqyXp5t3Q)
-* **[창작자를 위한 인공지능 공부법](http://techm.kr/bbs/?t=Z8)**
+* [**창작자를 위한 인공지능 공부법**](http://techm.kr/bbs/?t=Z8)
 * [AIY Projects: Do-it-yourself AI for Makers](https://developers.googleblog.com/2017/05/aiy-projects-voice-kit.html?m=1)
 * [Top 10 Recent AI videos on YouTube](http://www.kdnuggets.com/2017/05/top-10-recent-ai-videos-on-youtube.html)
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)

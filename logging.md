@@ -15,7 +15,7 @@ Logging
 * [log 생성하기](http://downman.tistory.com/155)
 * [How-to: Log Analytics with Solr, Spark, OpenTSDB and Grafana](http://blog.cloudera.com/blog/2017/03/how-to-log-analytics-with-solr-spark-opentsdb-and-grafana/)
 * [#review AWS + Tajo를 이용한 '테라 렉 로그 분석 이야기'](http://ohyecloudy.com/pnotes/archives/aws-tajo-tera-lag-log/)
-* **[#ndc_15 #review 쿠키런 로그 시스템 - 바쁘고 가난한 개발자를 위해](http://ohyecloudy.com/pnotes/archives/ndc15-cookie-run-log-system/)**
+* [**#ndc_15 #review 쿠키런 로그 시스템 - 바쁘고 가난한 개발자를 위해**](http://ohyecloudy.com/pnotes/archives/ndc15-cookie-run-log-system/)
 * [Conetix Network Operations Centre Build Part 3 - Metrics and Monitoring](https://www.conetix.com.au/blog/conetix-network-operations-centre-build-part-3)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
 * [로그 데이터로 유저 이해하기](http://woowabros.github.io/woowabros/2017/07/30/logdata.html)
@@ -34,7 +34,7 @@ Logging
   * [1부](https://www.slideshare.net/ssuser380e9c/ndc18-95524337)
   * [2부](https://www.slideshare.net/ssuser380e9c/ndc18-2-95522893)
 * [How To Write Error Messages That Don’t Suck](https://medium.freecodecamp.org/how-to-write-error-messages-that-dont-suck-f31c53b64c3e)
-* **[로그 파일은 좋다](https://libsora.so/posts/log-file-is-good/)** 실제 구현에서 겪을 수 있는 상황에 대한 이야기라 좋음
+* [**로그 파일은 좋다**](https://libsora.so/posts/log-file-is-good/) 실제 구현에서 겪을 수 있는 상황에 대한 이야기라 좋음
 * [더 나은 개발자로 성장합는 팁, " 로그를 잘 남기세요."](https://www.youtube.com/watch?v=HxzlJWMcHng)
 * [로그 시스템의 개념과, 구글 스택드라이버 그리고 삼성전자 사례](https://bcho.tistory.com/1330)
 * [멀티클라우드를 이용한 로그 분석 플랫폼 개발하기](https://medium.com/watcha/%EB%A9%80%ED%8B%B0%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-8c5f671df559)

@@ -69,7 +69,7 @@ Keras
 * [Neural image captioning (NIC) implementation with Keras 2](https://github.com/oarriaga/neural_image_captioning)
 * [Predicting the Success of a Reddit Submission with Deep Learning and Keras](http://minimaxir.com/2017/06/reddit-deep-learning/)
 * [Image Augmentation for Deep Learning using Keras and Histogram Equalization](https://medium.com/@ryanallred/image-augmentation-for-deep-learning-using-keras-and-histogram-equalization-9329f6ae5085)
-* **[tykimos.github.io/Keras/category](https://tykimos.github.io/Keras/category/)**
+* [**tykimos.github.io/Keras/category**](https://tykimos.github.io/Keras/category/)
 * [케라스와 텐서플로우와의 통합](https://tykimos.github.io/Keras/2017/02/22/Integrating_Keras_and_TensorFlow/)
 * [케라스 강좌 내용](https://tykimos.github.io/Keras/2017/01/27/Keras_Lecture_Contents/)
 * [학습 조기종료 시키기](https://tykimos.github.io/Keras/2017/07/09/Early_Stopping/)
@@ -108,7 +108,7 @@ Keras
 * [Making AI Art with Style Transfer using Keras](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 * [Neural Style Transfer-TF&Keras (2019/05/20)](https://github.com/DevKiHyun/Neural-Style-Transfer-Tensorflow-Keras)
   * [Neural_Style_Transfer_Keras&TF.ipynb](https://colab.research.google.com/drive/1ugvgp5mRHOWWWIwhnZj3YMx4kYDxYGnn)
-* **[Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)**
+* [**Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras**](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
 * [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
@@ -130,7 +130,7 @@ Keras
   * Alphago Zero방법론 복제를 통한 게임 Connect4를 플레이 구축
   * 다른 게임을 플러그인하기 위해 코드를 적용하는 방법
 * [Python/Keras implementation of integrated gradients presented in "Axiomatic Attribution for Deep Networks" for explaining any model defined in Keras framework](https://github.com/hiranumn/IntegratedGradients)
-* **[Hallucinogenic Deep Reinforcement Learning Using Python and Keras](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)**
+* [**Hallucinogenic Deep Reinforcement Learning Using Python and Keras**](https://medium.com/applied-data-science/how-to-build-your-own-world-model-using-python-and-keras-64fb388ba459)
 * [Using Keras via Docker](https://github.com/keras-team/keras/tree/master/docker)
 * [Simple guide on how to generate ROC plot for Keras classifier](https://hackernoon.com/simple-guide-on-how-to-generate-roc-plot-for-keras-classifier-2ecc6c73115a)
 * [Keras shoot-out: TensorFlow vs MXNet](https://medium.com/@julsimon/keras-shoot-out-tensorflow-vs-mxnet-51ae2b30a9c0)
@@ -142,8 +142,8 @@ Keras
 * [Google Colaboratory에서 Keras의 백엔드로서 MXNet을 설정하는 방법](https://gist.github.com/serithemage/ee86d2d9db762e522287cebfb540e35d)
 * [Keras on TPUs in Colab](https://medium.com/tensorflow/tf-keras-on-tpus-on-colab-674367932aa0)
 * [Predict Shakespeare with Cloud TPUs and Keras](https://colab.research.google.com/github/tensorflow/tpu/blob/master/tools/colab/shakespeare_with_tpu_and_keras.ipynb#scrollTo=E3V4V-Jxmuv3) colab에서 TPU 사용
-* **[tf.data examples for keras and estimator models](https://github.com/terryum/tf.data-for-keras-and-tensorflow-estimator/blob/master/README.md)**
-* **[딥러닝의 Hello World, Fashion-MNIST](https://tykimos.github.io/2018/09/30/Hello_Fashion_MNIST/)**
+* [**tf.data examples for keras and estimator models**](https://github.com/terryum/tf.data-for-keras-and-tensorflow-estimator/blob/master/README.md)
+* [**딥러닝의 Hello World, Fashion-MNIST**](https://tykimos.github.io/2018/09/30/Hello_Fashion_MNIST/)
 * [Elmo Embeddings in Keras with TensorFlow hub](https://towardsdatascience.com/elmo-embeddings-in-keras-with-tensorflow-hub-7eb6f0145440)
 * [Keras implementation of Deeplabv3+](https://github.com/bonlime/keras-deeplab-v3-plus)
 * [Deploying a Keras Deep Learning Model as a Web Application in Python](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff) flask 사용
@@ -263,7 +263,7 @@ Keras
 * [An applied introduction to LSTMs for text generation — using Keras and GPU-enabled Kaggle Kernels](https://medium.freecodecamp.org/applied-introduction-to-lstms-for-text-generation-380158b29fb3)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * [Keras LSTMs](http://sachinruk.github.io/blog/Keras-LSTM/)
-* **[Learning Math with LSTMs and Keras](http://cpury.github.io/learning-math/)**
+* [**Learning Math with LSTMs and Keras**](http://cpury.github.io/learning-math/)
 * [Sequence Classification with LSTM Recurrent Neural Networks in Python with Keras](https://machinelearningmastery.com/sequence-classification-lstm-recurrent-neural-networks-python-keras/)
 * [순환 신경망 레이어 및 기본 모델 이야기](https://tykimos.github.io/Keras/2017/04/09/RNN_Layer_Talk/)
 * [how to train a many to many sequence labeling using LSTM and BLSTM respectively?](https://github.com/fchollet/keras/issues/2654)

@@ -61,7 +61,7 @@ History
 * [당신이 몰랐던, 알아야 할 역사 속의 레즈비언 11명](http://www.huffingtonpost.kr/2015/10/19/story_n_8328732.html)
 * [사람들은 왜 ‘셀카’를 찍을까?](http://ppss.kr/archives/58489)
 * [An Early-20th-Century British Map of the Global Drug Trade](http://www.slate.com/blogs/the_vault/2015/10/19/history_of_the_drug_trade_map_of_drug_trade_in_the_early_20th_century.html)
-* **[histography.io](http://histography.io/)**
+* [**histography.io**](http://histography.io/)
 * [6 Mythical Monsters](http://www.history.com/news/history-lists/6-mythical-monsters?cmpid=Social_FBPAGE_HISTORY_20151204_295796800&linkId=19329880)
 * [10 Famous Elephants From History](http://www.history.com/news/history-lists/10-famous-elephants-from-history?cmpid=Social_FBPAGE_HISTORY_20151205_295899394&linkId=19331650)
 * [자물쇠와 열쇠의 역사](http://techholic.co.kr/archives/49925)
@@ -149,7 +149,7 @@ History
 * [도쿄행 1등석에 실려 보낸 광주의 진실](http://media.daum.net/society/others/newsview?newsid=20160209110644063)
 * [timshorrock.com](http://timshorrock.com/)
 * [전두환 회고록, 욕하고 넘어갈 일 아니다](http://v.media.daum.net/v/20170403201103327?d=y)
-* **[뉴스포차 특집 - 5.18과 미국의 진실 (탐사기자 팀 셔록)](https://www.youtube.com/watch?v=LFbcaHsY1xw)**
+* [**뉴스포차 특집 - 5.18과 미국의 진실 (탐사기자 팀 셔록)**](https://www.youtube.com/watch?v=LFbcaHsY1xw)
 * [영화 “택시운전사”에 나오지 않은 네가지 이야기](http://channy.creation.net/blog/1159)
 
 ## 일제 강점기

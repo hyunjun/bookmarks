@@ -82,8 +82,8 @@ Graph
   * [neo4j youtube channel](https://www.youtube.com/c/neo4j)
   * [cyphyer cheat sheet](http://assets.neo4j.org/download/Neo4j_CheatSheet_v3.pdf)
   * examples
-    * [from hbase to neo4j (import)](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
-    * [locust neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
+    * [practice - from hbase to neo4j (import)](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
+    * [practice - locust neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
   * [py2neo](http://py2neo.org/)
   * [Neo4j - The Fastest and Most Scalable Native Graph Database](http://www.slideshare.net/neo4j)
   * [Graph your meetup.com group with Neo4J and some Go - See more at: http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html#sthash.ZsGJaC9k.dpuf](http://agonzalezro.github.io/graph-your-meetupcom-group-with-neo4j-and-some-go.html) cypher example
@@ -198,7 +198,7 @@ Graph
   * [Titan Graph Database Integration with DynamoDB: World-class Performance, Availability, and Scale for New Workloads](http://www.allthingsdistributed.com/2015/08/titan-graphdb-integration-in-dynamodb.html)
 
 # Knowledge Graph
-* **[Knowledge Graph 101 –from the perspective of engineers](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)**
+* [**Knowledge Graph 101 –from the perspective of engineers**](http://www.slideshare.net/hustwj/knowledge-graph-101-from-the-perspective-of-engineers)
 * [Machine Learning with Knowledge Graphs](http://videolectures.net/eswc2014_tresp_machine_learning/)
 * [KickBorn knowledge versus Google](http://selflearningsoft.tumblr.com/)
 * [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
@@ -293,7 +293,7 @@ Graph
   * [Page ranking my twitter network using Python](http://vknight.org/unpeudemath/code/2016/03/31/Analyzing-my-own-twitter-network-using-python.html)
   * [Some Social Network Analysis with Python](https://www.datasciencecentral.com/profiles/blogs/some-social-network-analysis-with-python)
   * [NetworkX Tutorial](https://www.youtube.com/watch?v=pT0IUOkOcGg)
-  * **[법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤](https://www.youtube.com/watch?v=JRiCsrNJujc)**
+  * [**법률 네트워크 분석: 30년간의 변화 Changes in legal citation network over 30 years - 김재윤**](https://www.youtube.com/watch?v=JRiCsrNJujc)
   * [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
   * [How to Perform Fraud Detection with Personalized Page Rank](https://blog.sicara.com/fraud-detection-personalized-page-rank-networkx-15bd52ba2bf6)
   * [Weighted graphs using NetworkX](https://qxf2.com/blog/drawing-weighted-graphs-with-networkx/)

@@ -69,7 +69,7 @@ TensorFlow
 * [텐서플로우 트레이닝 데이타 포맷인 \*.tfrecord 파일 읽고 쓰기](http://bcho.tistory.com/1190)
 * [feeding the data to Neural Network (TF) using tfrecords](https://github.com/wjcheon/Tfrecord_example_Tensorflow)
 * [tf record example](https://gist.github.com/MSWon/124e0d3aa22e38b17c347afdcbf5bcc5)
-* **[Getting Text into Tensorflow with the Dataset API](https://medium.com/@TalPerry/getting-text-into-tensorflow-with-the-dataset-api-ffb832c8bec6)**
+* [**Getting Text into Tensorflow with the Dataset API**](https://medium.com/@TalPerry/getting-text-into-tensorflow-with-the-dataset-api-ffb832c8bec6)
   * Tensorflow 의 Dataset API를 이용해서 텍스트 데이터를 가져와 처리하는 방법
   * 이것이 간단해 보이지만, 실제로는 그렇지 않은 것이 이 작업을 위해서는 반구조화된 파일을 읽어와서, numpy 배열로 바꾸고, 이를 다시 TF의 feed dict 예제의 모델로 먹여줘야 하는데, 배치 오버헤드 문제나 파일 구조의 문제 등 의외로 부딪히는 문제들이 많아서 이에 대한 튜토리얼을 쓰기로 결심했다고 함
 * [Beginner’s guide to feeding data in Tensorflow — Part1](https://medium.com/coinmonks/beginners-guide-to-feeding-data-in-tensorflow-faf21a745e4c) tf.data를 1. memory 2. TFRecord 3. disk에서 읽어오는 코드 설명
@@ -120,7 +120,7 @@ TensorFlow
   * [Distributed TensorFlow: Scaling Google's Deep Learning Library on Spark](http://www.slideshare.net/arimoinc/distributed-tensorflow-scaling-googles-deep-learning-library-on-spark-58527889)
   * [TensorFlow on Spark](https://github.com/adatao/tensorspark)
   * [TensorFlowOnSpark](https://github.com/yahoo/TensorFlowOnSpark/blob/master/README.md)
-    * **[BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여](http://hoondongkim.blogspot.com/2017/09/bigdata-distributed-deep-learning.html)**
+    * [**BigData와 결합한, 분산 Deep Learning 그 의미와 접근 방법에 대하여**](http://hoondongkim.blogspot.com/2017/09/bigdata-distributed-deep-learning.html)
     * [MNIST using Keras](https://github.com/yahoo/TensorFlowOnSpark/tree/master/examples/mnist/keras)
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
@@ -330,8 +330,8 @@ TensorFlow
   * [분산학습 아키텍처](http://jybaek.tistory.com/696)
 * [CASED-Tensorflow - Tensorflow implementation of Curriculum Adaptive Sampling for Extreme Data Imbalance with multi GPU using LUNA16](https://github.com/taki0112/CASED-Tensorflow)
 * [The Flow of TensorFlow](https://www.slideshare.net/inureyes/the-flow-of-tensorflow)
-* **[Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU](http://hoondongkim.blogspot.com/2017/12/deep-learning-inference-serving.html)**
-* **[Deep Learning Multi Host & Multi GPU Architecture #2 - Keras 를 이용한 Scale Up, Horovod 를 이용한 Scale Out 성능 비교](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu_11.html)**
+* [**Deep Learning Inference & Serving Architecture 를 위한 실험 및 고찰 1 - GPU vs CPU**](http://hoondongkim.blogspot.com/2017/12/deep-learning-inference-serving.html)
+* [**Deep Learning Multi Host & Multi GPU Architecture #2 - Keras 를 이용한 Scale Up, Horovod 를 이용한 Scale Out 성능 비교**](http://hoondongkim.blogspot.com/2018/01/deep-learning-multi-host-multi-gpu_11.html)
 * [How to train a Deep Neural Network using only TensorFlow C++](https://matrices.io/training-a-deep-neural-network-using-only-tensorflow-c/)
 * [Apache Beam (Dataflow)를 이용하여, 이미지 파일을 tfrecord로 컨버팅 하기](http://bcho.tistory.com/1221)
 * [An implementation of Synchronous Advantage Actor Critic (A2C) in TensorFlow](https://github.com/MG2033/A2C)
@@ -450,7 +450,7 @@ TensorFlow
 * [GDWCT-Tensorflow - Simple Tensorflow implementation of "Image-to-Image Translation via Group-wise Deep Whitening-and-Coloring Transformation" (CVPR 2019 Oral)](https://github.com/taki0112/GDWCT-Tensorflow)
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [My Tensorflow Test](https://github.com/rky0930/MyTensorflowTest)
-* **[CPU, GPU, and TensorFlow](https://teamdable.github.io/techblog/CPU-GPU-and-TensorFlow)** CPU, GPU의 기본 구조 및 차이에 대한 좋은 글
+* [**CPU, GPU, and TensorFlow**](https://teamdable.github.io/techblog/CPU-GPU-and-TensorFlow) CPU, GPU의 기본 구조 및 차이에 대한 좋은 글
 * [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
 * [TensorFlow에서 추천 시스템 구축: 개요](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
 * [TensorFlow with Apache Arrow Datasets](https://medium.com/tensorflow/tensorflow-with-apache-arrow-datasets-cdbcfe80a59f)
@@ -515,7 +515,7 @@ TensorFlow
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
-* **[Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)**
+* [**Implementing a CNN for Text Classification in TensorFlow**](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Improving Inception and Image Classification in TensorFlow](https://research.googleblog.com/2016/08/improving-inception-and-image.html)
   * 텐서플로우를 이용해서 CNN을 학습한 모델 파일과 코드
   * 학습 된 모델의 ILSVRC Image Classification 성능은 각 논문에서 발표한 수치와 근접
@@ -617,7 +617,7 @@ TensorFlow
 * [텐서플로우를 파이참에서 돌려보자](http://yeramee.tistory.com/1)
 * [TensorFlow Serving의 혁신적인 기능들을 확인해 보세요](https://developers-kr.googleblog.com/2017/12/latest-innovations-in-tensorflow-serving.html)
 * [How to deploy TensorFlow models to production using TF Serving](https://medium.freecodecamp.org/how-to-deploy-tensorflow-models-to-production-using-tf-serving-4b4b78d41700)
-* **[Deploying Keras models using TensorFlow Serving and Flask](https://yjucho1.github.io/tensorflow/tensorflow-serving)**
+* [**Deploying Keras models using TensorFlow Serving and Flask**](https://yjucho1.github.io/tensorflow/tensorflow-serving)
 * [Straighten out a TensorFlow continuous training link using Alibaba Cloud Container Service](https://intl.aliyun.com/forum/read-686)
 * [Set up Anaconda + IPython + Tensorflow + Julia on a Google Compute Engine VM](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/)
   * [cloud.google.com/dataproc/tutorials/jupyter-notebook](https://cloud.google.com/dataproc/tutorials/jupyter-notebook)
@@ -1036,7 +1036,7 @@ TensorFlow
 * [JPEG 이미지를 Tensorflow 입력으로 변환 (CIFAR10 참조)](http://blog.naver.com/kjpark79/220787920384)
 * [딥러닝 CIFAR-10 CNN 예제에 내 사진을 넣어서 학습 시켜 보자](http://blog.naver.com/cenodim/220946688251)
 * [Image Classification with CIFAR-10 dataset](https://github.com/deep-diver/CIFAR10-img-classification)
-* **[CIFAR-10 Image Classification in TensorFlow](https://medium.com/@parkchansung/cifar-10-image-classification-in-tensorflow-5b501f7dc77c)**
+* [**CIFAR-10 Image Classification in TensorFlow**](https://medium.com/@parkchansung/cifar-10-image-classification-in-tensorflow-5b501f7dc77c)
 * [face_recognition](https://github.com/sjchoi86/face_recognition)
   * MNIST의 Gray 이미지가 아니라 Color 이미지를 resize 해서 간단히 학습시키는 예제
   * 학습 자체는 매우 단순했고, 학습 데이터 량도 작고, 작은 이미지로 resize 시켜서 모든 학습 데이터를 numpy data 형식(npz)으로 하나의 파일로 저장한 다음에 로드

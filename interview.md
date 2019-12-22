@@ -1,6 +1,6 @@
 Interview
 =========
-* **[kreditjob.com](http://kreditjob.com/)**
+* [**kreditjob.com**](http://kreditjob.com/)
 * [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 * [Coding Interview University](https://github.com/jun-Sogang/CSE-University/tree/master/coding-interview-university#data-structures)
 * [CRACKING THE CODING INTERVIEW: VIDEO COLLECTION](https://vimeopro.com/gaylemcd/cracking-the-coding-interview-video-collection)
@@ -19,7 +19,7 @@ Interview
 * [Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc](https://www.youtube.com/watch?v=lD-LuK_VGZI)
 * [How to Succeed in any Programming Interview](https://www.youtube.com/watch?v=5KB5KAak6tM)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
-* **[Google Interview University](https://github.com/jwasham/google-interview-university/)**
+* [**Google Interview University**](https://github.com/jwasham/google-interview-university/)
   * [구글 인터뷰 대학(Google Interview University)](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)
   * [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
@@ -62,7 +62,7 @@ Interview
 * [10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
 * [The top data structures you should know for your next coding interview](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3)
 * [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
-* **[알고리즘 학습에 대한 조언](http://blog.weirdx.io/post/55358)** 매우 좋은 글
+* [**알고리즘 학습에 대한 조언**](http://blog.weirdx.io/post/55358) 매우 좋은 글
 * [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
   * [인터뷰 준비(중) - 데이터 구조 / 알고리즘 리뷰](https://brunch.co.kr/@junyong/5)
 * [Software Interview Preparation Guide - Strategies and Resources on How to](https://www.youtube.com/watch?v=bBPHpH8aKjw)
@@ -74,7 +74,7 @@ Interview
 * [해외 개발자 코딩 면접에 관하여](https://www.facebook.com/londonyangpa/posts/1809340439351435)
 * [실리콘 밸리의 한국인](https://brunch.co.kr/@brunchaukx/1)
 * [실리콘밸리에서 회사 짤리기/떠나기](https://brunch.co.kr/@svillustrated/5)
-* **[16. 과장도 팀장도 아닌 엔지니어입니다](https://brunch.co.kr/@svillustrated/17)**
+* [**16. 과장도 팀장도 아닌 엔지니어입니다**](https://brunch.co.kr/@svillustrated/17)
 * [실리콘밸리 면접 정복하기](http://ppss.kr/archives/67438)
 * [실리콘밸리 면접 정복하기](http://www.andrewahn.co/silicon-valley/job-interview-tips/)
 * [실리콘 밸리의 잘나가는 5개 기업과 인터뷰를 봤는데 다 붙고만 썰](http://www.looah.com/article/view/2070)
@@ -89,7 +89,7 @@ Interview
 * [코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 * [어떻게 질문하는가?](https://brunch.co.kr/@imagineer/292)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
-* **[Ace the coding interview, every time](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)**
+* [**Ace the coding interview, every time**](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)
 * [HOW TO ACE YOUR TECHNICAL INTERVIEW - EFFECTIVE COMMUNICATION | Tips from a Twitter engineer](https://www.youtube.com/watch?v=id7d0HeLT5g)
   * edge cases, scope, use case, future extensions, tests, performance requirements
 * [좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
@@ -97,11 +97,11 @@ Interview
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
-* **[코딩 인터뷰 – part 2](https://sangminpark.blog/2017/06/14/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-2/)**
+* [**코딩 인터뷰 – part 2**](https://sangminpark.blog/2017/06/14/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-2/)
 * [코딩 인터뷰 – part 3](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-3/)
-* **[코딩 인터뷰 – part 4](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/)** system design
+* [**코딩 인터뷰 – part 4**](https://sangminpark.blog/2017/06/21/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-4/) system design
 * [코딩 인터뷰 – part 5](https://sangminpark.blog/2017/06/22/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-5/)
-* **[Tech HR 컨퍼런스 참석 후기](http://jojoldu.tistory.com/163)**
+* [**Tech HR 컨퍼런스 참석 후기**](http://jojoldu.tistory.com/163)
 * [IT 회사 탐방기 세미나 참석후기](http://jojoldu.tistory.com/274)
 * [The ultimate guide to preparing for the coding interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
@@ -112,7 +112,7 @@ Interview
 * [질문 - 남세동](https://www.facebook.com/dgtgrade/posts/1630652416993618)
 * [미국 테크회사로 이직한 사람들](https://brunch.co.kr/magazine/changbalpub)
 * [2시간 만에 끝내는 스타트업/중소기업 채용과 HR 지식 (강의 자료 첨부)](https://blog.rocketpunch.com/2017/12/26/hr-knowledge-in-2-hours-for-startup-and-small-companies/)
-* **[해외 채용 프로세스의 비밀](https://www.youtube.com/watch?v=GbNyZ7mrB_U)**
+* [**해외 채용 프로세스의 비밀**](https://www.youtube.com/watch?v=GbNyZ7mrB_U)
 * [소프트웨어 개발자 인터뷰 에서 무엇을 보려고 하는가?](https://steemit.com/interview/@tiny657/4uac7z)
 * [독일 스타트업 백엔드 개발자 면접 후기](http://hero0926.tistory.com/9)
 * [독일 개발자 취업 성공기](http://hero0926.tistory.com/)
@@ -155,7 +155,7 @@ Interview
 * [rachitiitr.com](https://www.rachitiitr.com/)
   * [Uber SDE II Interview Experience](https://www.youtube.com/watch?v=0Vmtmqa9Og0)
   * [Goldman Sachs Interview - The Tree Question | Part II](https://www.youtube.com/watch?v=D1Tv5cCs1d8)
-* **[소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)](https://imasoftwareengineer.tistory.com/66)**
+* [**소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)**](https://imasoftwareengineer.tistory.com/66)
 * [**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/) 기본적인 모든 인터뷰 절차 및 각 알고리즘 별 문제(혹은 link)도 포함
 * [Interview Experience at Goldman Sachs (For Technical Analyst Role- Java )](https://medium.com/@mukeshsrivastav691/interview-experience-at-goldman-sachs-90036a562484)
 * [The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
@@ -223,9 +223,9 @@ Interview
 * [Watch this before your System design interview!!](https://www.youtube.com/watch?v=pWO07iEpjO4)
 * [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/) 제목은 Azure가 들어갔지만 일반적인 경우로 봐도 됨
 * Introduction
-  * **[CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan](https://www.youtube.com/watch?v=-W9F__D3oY4)** 이 분야의 고전같이 여겨지는 강의
-  * **[System Design Introduction For Interview](https://www.youtube.com/watch?v=UzLMhqg3_Wc)** 기본적으로 지켜야 할 부분 안내
-  * **[Anatomy of a System Design Interview](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)**
+  * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
+  * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
+  * [**Anatomy of a System Design Interview**](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
   * [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
   * [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
   * [Crack the System Design interview: tips from a Twitter software engineer](https://medium.freecodecamp.org/how-to-system-design-dda63ed27e26) 기초적인 부분과 자신이 참고한 다양한 link들
@@ -234,7 +234,7 @@ Interview
   * [System Design Interview - Part 3 Communicate effectively](https://www.youtube.com/watch?v=GcE-a7zO2N0)
   * [Tackling the system design interview](https://cternus.net/blog/2018/01/26/tackling-the-system-design-interview/) 병원 예약 시스템을 예로 설명
   * [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054) educative.io co-founder가 쓴 주의할 점. netflix와는 무관
-  * **[System Design Interview Patterns](https://www.youtube.com/watch?v=Yt2WOBPhc7w)** 여러가지 팁
+  * [**System Design Interview Patterns**](https://www.youtube.com/watch?v=Yt2WOBPhc7w) 여러가지 팁
   * [Walking Through The System Design Interview](https://medium.com/better-programming/walking-through-the-system-design-interview-679a408c048f)
   * [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
 * Problems
@@ -253,7 +253,7 @@ Interview
     * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
       * cache policy; write through, write back, 문제점
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
-    * **[Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem](https://www.youtube.com/watch?v=l9JSK9OBzA4)**
+    * [**Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem**](https://www.youtube.com/watch?v=l9JSK9OBzA4)
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
       * [LRUCache.java](https://github.com/bephrem1/backtobackswe/blob/master/Linked%20Lists/LRUCache.java)
@@ -268,7 +268,7 @@ Interview
     * [Google Docs System design | Part 1| Operational transformation | differentail synchronisation](https://www.youtube.com/watch?v=2auwirNBvGg)
     * [Google Docs System design | part 2| System components explanation micro services arcitecture](https://www.youtube.com/watch?v=U2lVmSlDJhg)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
-    * **[Google Docs 같은 실시간 협업 에디터를 만드는 방법](https://hackerwins.github.io/2019-04-16/co-editor.html)**
+    * [**Google Docs 같은 실시간 협업 에디터를 만드는 방법**](https://hackerwins.github.io/2019-04-16/co-editor.html)
   * Messenger, Messaging
     * [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
     * [What is WhatsApp's server architecture?](https://www.quora.com/What-is-WhatsApps-server-architecture)
@@ -295,7 +295,7 @@ Interview
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
   * Social Media
     * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247) timeline architecture 개선
-    * **[소셜 네트워크 서비스의 아키텍처에 대하여](https://d2.naver.com/helloworld/551588)** push vs. pull에 대한 매우 좋은 분석글
+    * [**소셜 네트워크 서비스의 아키텍처에 대하여**](https://d2.naver.com/helloworld/551588) push vs. pull에 대한 매우 좋은 분석글
     * [LINE 소셜 네트워크 서비스의 아키텍처](https://d2.naver.com/helloworld/809802) 윗 글에 이어 line 자체의 architecture를 redis, cassandra 중심으로 설명
     * [LINE Storage: Storing billions of rows in Sharded-Redis and HBase per Month](https://engineering.linecorp.com/en/blog/line-storage-storing-billions-of-rows-in-sharded-redis-and-hbase/)
     * Instagram
@@ -330,7 +330,7 @@ Interview
       * [Netflix: What Happens When You Press Play?](http://highscalability.com/blog/2017/12/11/netflix-what-happens-when-you-press-play.html) 전체적인 구조를 아는 데 좋지만 정말 길어서 제대로 다 읽지는 못함
       * [NETFLIX System Design: How does Netflix onboard new content?](https://www.youtube.com/watch?v=x9Hrn0oNmJM)
     * Youtube
-      * **[Seattle Conference on Scalability: YouTube Scalability](https://www.youtube.com/watch?v=w5WVu624fY8)** 2012년 영상이지만 youtube에 국한되지 않고 전반적인 걸 이해하는 데 정말 좋은 영상
+      * [**Seattle Conference on Scalability: YouTube Scalability**](https://www.youtube.com/watch?v=w5WVu624fY8) 2012년 영상이지만 youtube에 국한되지 않고 전반적인 걸 이해하는 데 정말 좋은 영상
         * [YouTube Architecture](http://highscalability.com/youtube-architecture)
   * Tinder, Dating App
     * [System Design: Designing Tinder's Server Side](https://www.youtube.com/watch?v=tndzLznxq40)
@@ -344,7 +344,7 @@ Interview
   * [System Design Interview with a Senior Software Engineer @Microsoft](https://www.youtube.com/watch?v=lOcqPEOROwQ) Google maps
   * [Design a Key-Value Store (Part I)](http://blog.gainlo.co/index.php/2016/06/14/design-a-key-value-store-part-i/)
   * [Design a Key-Value Store (Part II)](http://blog.gainlo.co/index.php/2016/06/21/design-key-value-store-part-ii/)
-  * **[System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook](https://www.youtube.com/watch?v=DSGsa0pu8-k)**
+  * [**System Design Interview Question: DESIGN A PARKING LOT - asked at Google, Facebook**](https://www.youtube.com/watch?v=DSGsa0pu8-k)
     * example of class design
     * handling ambiguity; clarifying the problem
     * systematic approach; clarify details
@@ -357,10 +357,10 @@ Interview
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
 * [high availability 서버를 만들기 어려운 이유](http://blog.seulgi.kim/2017/10/why-high-availability-server-is-hard.html)
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
-* **[Building Google Photos using Microservices Part I](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)**
+* [**Building Google Photos using Microservices Part I**](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
   * reverse proxy, dynamic service discovery - service registry, heartbeat
-* **[ipify: 300억 요청 처리, 그 너머로](http://www.haruair.com/blog/4108)**
-* **[ipify: 300억 요청 처리, 그 너머로](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond)**
+* [**ipify: 300억 요청 처리, 그 너머로**](http://www.haruair.com/blog/4108)
+* [**ipify: 300억 요청 처리, 그 너머로**](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond)
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
 * [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
@@ -374,7 +374,7 @@ Interview
   * [애플리케이션 로드 밸런서(ALB)에 고정 IP 주소 설정 및 사용하기](https://aws.amazon.com/ko/blogs/korea/using-static-ip-addresses-for-application-load-balancers)
   * [깃허브(GitHub), L4 로드 밸런서 GLB 디렉터 오픈소스로 공개](https://www.44bits.io/ko/post/news--github-release-glb-github-load-balancer-as-open-source)
   * [Rethinking Netflix’s Edge Load Balancing](https://medium.com/netflix-techblog/netflix-edge-load-balancing-695308b5548c)
-  * **[번역 최신 네트워크 로드 밸런싱 및 프록시 소개](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)**
+  * [**번역 최신 네트워크 로드 밸런싱 및 프록시 소개**](https://ziwon.github.io/post/modern-network-load-balancing-and-proxying/)
   * [Scaling out load balancer devices and a backend network device](https://serverfault.com/questions/951086/scaling-out-load-balancer-devices-and-a-backend-network-device)
     * DB 샤드 갯수도, 웹서버 클러스터도 너무 많다고 가정. 그들간의 네트워킹을 이어주는 장치(스위치 허브 등)에 과부하가 걸리면 어떻게 수평확장?
   * [Load Balancing](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5747976207073280)
@@ -393,7 +393,7 @@ Interview
 * [System design basics: What is asynchronous processing?](https://www.youtube.com/watch?v=BFcNDPt6SlE)
 * [BOJ는 어떻게 만들어졌을까?](https://startlink.blog/2015/12/21/boj%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%9D%84%EA%B9%8C)
 * [BOJ 10 YEARS](https://startlink.blog/category/스타트링크/baekjoon-online-judge/boj-10-years/) BOJ 사이트의 구조 변경 이야기
-* **[리디북스 서비스 장애 복구 후기 데이터센터의 장애를 통해 겪은 서비스중단 및 복구 후기](https://www.ridicorp.com/blog/2016/09/02/idc-outage/)** 전자책 업체의 실제 시스템 구조를 볼 수 있음
+* [**리디북스 서비스 장애 복구 후기 데이터센터의 장애를 통해 겪은 서비스중단 및 복구 후기**](https://www.ridicorp.com/blog/2016/09/02/idc-outage/) 전자책 업체의 실제 시스템 구조를 볼 수 있음
 * [1억명 랭킹 실시간 처리 테스트하기](https://blog.ifunfactory.com/2018/07/02/5290/) MySQL + Redis
 * [Interview: System/API design](https://stackoverflow.com/questions/14061381/interview-system-api-design)
 * [Top 50+ Web API Testing Interview Questions Ultimate list](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
@@ -529,12 +529,12 @@ Interview
 
 # Interview Questions - Technical
 * [The ‘Trick’ to Coding Interview Questions](http://insights.dice.com/2015/11/06/the-trick-to-coding-interview-questions)
-* **[Top 10 algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)**
+* [**Top 10 algorithms in Interview Questions**](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
   * [Programming Interview Questions](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ/playlists?shelf_id=5&view=50&sort=dd)
 * [The Five Essential Phone-Screen Questions](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions)
 * [면접 문제 은행](https://github.com/haegul/Front-end-Developer-Interview-Questions/tree/master/Translations/Korean)
 * [Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-* **[데이터 사이언스 인터뷰 질문 모음집](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)**
+* [**데이터 사이언스 인터뷰 질문 모음집**](https://zzsza.github.io/data/2018/02/17/datascience-interivew-questions/)
 * Top Interview Questions and Tricks
   * [#1 - 3sum and the 2 pointer technique](https://fizzbuzzed.com/top-interview-questions-1/)
   * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
@@ -618,7 +618,7 @@ Interview
 * [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."
 * [What My Software Engineer Resume Looks Like](https://www.youtube.com/watch?v=RIPdc88dZRI)
 * [국내외 영문 이력서 작성툴 TOP 3 비교 분석](https://www.youtube.com/watch?v=MrkpnPxiOCw)
-* **[How to write a killer Software Engineering résumé](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)**
+* [**How to write a killer Software Engineering résumé**](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
 * [What I want (and don’t want) to see on your software engineering resume](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)
 * [외국 자격증 PDF 버전으로 받는법](https://sysnet4admin.blogspot.com/2019/08/pdf.html)
 * [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
@@ -638,7 +638,7 @@ Interview
 * [외국계 연봉협상 기본급 이외에 협상할 수 있는 것들](https://www.youtube.com/watch?v=xiYOJ-tHe8s)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
 * [Ten Things Never, Ever To Say In A Salary Negotiation](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizryan/2018/02/11/ten-things-never-ever-to-say-in-a-salary-negotiation/)
-* **[How not to bomb your offer negotiation](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea)** salary negotiation
+* [**How not to bomb your offer negotiation**](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea) salary negotiation
 * [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
 * [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
 * [실리콘 밸리 기업의 엔지니어 연봉](http://tinytechreview.com/실리콘-밸리-기업의-엔지니어-연봉)

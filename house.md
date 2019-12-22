@@ -1,8 +1,8 @@
 House
 =====
 
-* **[hogangnono.com](https://hogangnono.com/)**
-* **[dot1.kr](http://www.dot1.kr/)** 실거래 그래프
+* [**hogangnono.com**](https://hogangnono.com/)
+* [**dot1.kr**](http://www.dot1.kr/) 실거래 그래프
 * [blog.naver.com/asclepina](https://blog.naver.com/asclepina)
 * [blog.naver.com/a-cute-bear](https://blog.naver.com/a-cute-bear)
 * [findapt.co.kr](http://www.findapt.co.kr/)
@@ -48,7 +48,7 @@ House
 * [집 계약할 때 알아야 하는 서류 4총사](http://move.realestate.daum.net/tipview.asp?idx=46)
 * [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
 * ["집에 비가 새요"..집주인 vs 세입자, 누구 책임일까](http://v.media.daum.net/v/20180712051510817)
-* **[부동산 시장의 신호와 소음](https://brunch.co.kr/@charlieoppa86/33)**
+* [**부동산 시장의 신호와 소음**](https://brunch.co.kr/@charlieoppa86/33)
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
 * [집 구할 때 주의할 점](https://imgur.com/a/3eCbRa2)
 * [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)

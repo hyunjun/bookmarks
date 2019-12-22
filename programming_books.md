@@ -62,12 +62,12 @@ Programming Books
 * (NOT YET) [JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기](http://book.daum.net/detail/book.do?bookid=BOK00035755217YE)
   * 2018.10 한라
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
-* (NOT YET) **[빅데이터를 지탱하는 기술](http://jpub.tistory.com/8610)**
+* (NOT YET) [**빅데이터를 지탱하는 기술**](http://jpub.tistory.com/8610)
 * (NOT YET) [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
 * ["맨먼스미신" 서평](https://www.popit.kr/%EB%A7%A8%EB%A8%BC%EC%8A%A4%EB%AF%B8%EC%8B%A0-%EC%84%9C%ED%8F%89)
 * (NOT YET) [인텔리제이 IDEA 기본 사용법부터 고급 기능까지 마스터하기](http://acornpub.co.kr/book/intellij-idea)
 * (NOT YET) [AI 빅데이터에 숨어있는 수학의 아름다움](http://www.sejongbooks.co.kr/book_board/pubstory_book_view.php?id=bookstory&no=20501&category=08)
-* (NOT YET) **[HTTP 완벽 가이드: 웹은 어떻게 동작하는가](https://blog.outsider.ne.kr/1431)**
+* (NOT YET) [**HTTP 완벽 가이드: 웹은 어떻게 동작하는가**](https://blog.outsider.ne.kr/1431)
 * (NOT YET) [빅데이터가 만드는 세상 / 빅토르 마이어 쇤버거](http://ohyecloudy.com/pnotes/archives/book-big-data-a-revolution-that-will-transform-how-we-live-work-and-think/)
 * (NOT YET) [OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://sunkyoo.github.io/opencv4cvml/)
   * [『OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝』 Python 예제 코드](https://github.com/sunkyoo/opencv4cvml/tree/master/python)
@@ -273,7 +273,7 @@ Programming Books
 * (친절한 설명과 풍부한 그림으로 배우는) SQL 더 쉽게, 더 깊게
   * 탐라 개005.755-미877ㅇ
 * (NOT YET) **Real MySQL 개발자와 DBA를 위한**
-* **[데이터 분석을 위한 SQL 레시피](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565)**
+* [**데이터 분석을 위한 SQL 레시피**](http://www.hanbit.co.kr/store/books/look.php?p_code=B8585882565)
   * 한라 005.755가52ㄷ
   * [데이터 분석을 위한 SQL 레시피](http://jybaek.tistory.com/742)
   * PostgreSQL, Apache Hive, Amazon Redshift, Google BigQuery, SparkSQL에 적용가능한 중급 이상의 SQL
@@ -334,7 +334,7 @@ Programming Books
   * 엑셀 + R로 데이터과학 기초를 알려줌. 실습이 많아 좋을 듯
 * 빅데이터 시스템 구축 가이드
   * 한라 005.76 0152빅
-* **[밑바닥부터 시작하는 데이터 과학](https://blog.insightbook.co.kr/book/programming-insight/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99/)**
+* [**밑바닥부터 시작하는 데이터 과학**](https://blog.insightbook.co.kr/book/programming-insight/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99/)
   * 한라 005.7 그296ㄷ
   * 여러가지 기초에 해당하는 부분들을 다룸
   * [밑바닥부터 시작하는 데이터 사이언스](https://github.com/insightbook/Data-Science-from-Scratch)
@@ -371,10 +371,10 @@ Programming Books
   * 한라 005.133 권73ㄸ
 * (NOT YET) [파이썬으로 배우는 인공지능 - 현실 세계와 지능적으로 상호작용하는 인공지능 애플리케이션 만들기](http://acornpub.co.kr/book/ai-python)
   * 2018.02 한라
-* **[애자일 데이터 과학 2.0](http://wikibook.co.kr/agile-data-science/)**
+* [**애자일 데이터 과학 2.0**](http://wikibook.co.kr/agile-data-science/)
   * 탐라 문 005.74저219ㅇ
   * 굉장히 많은 내용을 담고 있으며, 특히 airflow를 책에서 다루는 건 처음 본 듯
-* **[파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)**
+* [**파이썬으로 데이터 주무르기 : 독특한 예제를 통해 배우는 데이터 분석 입문**](https://bakyeono.net/post/2018-03-28-book-review-manipulate-data-with-python.html)
   * 한라 005.133-민94ㅍ
   * 완전히 실무서적. 참고할 만한 예가 많아서 좋음. 예제도 jupyter로 진행
 * (NOT YET) [링크드 데이터](http://book.daum.net/detail/book.do?bookid=KOR9791195072644)
@@ -389,7 +389,7 @@ Programming Books
   * [데이터 중심 애플리케이션 설계 - 1장](https://astrod.github.io/data/2019/07/07/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-1%EC%9E%A5/)
   * [데이터 중심 애플리케이션 설계 2장 - 데이터 모델과 질의 언어](https://astrod.github.io/data/2019/07/27/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-2%EC%9E%A5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%A7%88%EC%9D%98-%EC%96%B8%EC%96%B4/)
   * [데이터 중심 애플리케이션 설계 3장 - 저장소와 검색](http://astrod.github.io/data/2019/08/04/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%A4%EA%B3%84-3%EC%9E%A5-%EC%A0%80%EC%9E%A5%EC%86%8C%EC%99%80-%EA%B2%80%EC%83%89/)
-  * **[데이터 중심 애플리케이션 설계 5장 - 복제](http://astrod.github.io/data/2019/08/11/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-5%EC%9E%A5-%EB%B3%B5%EC%A0%9C/)**
+  * [**데이터 중심 애플리케이션 설계 5장 - 복제**](http://astrod.github.io/data/2019/08/11/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-5%EC%9E%A5-%EB%B3%B5%EC%A0%9C/)
 * (NOT YET) [데이터를 보는 사람에게 추천하는 교양서](https://cojette.github.io/bookfordatauser/)
 * (NOT YET) [데이터 전처리 대전](http://www.hanbit.co.kr/store/books/look.php?p_code=B1543811360)
 
@@ -468,7 +468,7 @@ Programming Books
   * 한라 004.74박94ㅍ
 * 파이썬과 기계 학습 - scikit-learn을 활용한
   * 한라 005.133가294ㅍ
-* **[지능형 웹 알고리즘 지능형 웹 서비스 개발을 위한 머신러닝, 통계 분석, 신경망, 딥러닝 알고리즘과 추천엔진 구축](http://wikibook.co.kr/intelligent-web-algorithms/)**
+* [**지능형 웹 알고리즘 지능형 웹 서비스 개발을 위한 머신러닝, 통계 분석, 신경망, 딥러닝 알고리즘과 추천엔진 구축**](http://wikibook.co.kr/intelligent-web-algorithms/)
   * 2017.12
   * 한라 005.76 매878ㅈ
   * 각 알고리즘 설명 + 파이썬 에제
@@ -663,7 +663,7 @@ Programming Books
   * version 1.12, 데이터 전용 컨테이너 항목 참고
 * (NOT YET) 제대로 배우는 도커
   * 2017.01
-* **[시작하세요! 도커](http://wikibook.co.kr/docker/)**
+* [**시작하세요! 도커**](http://wikibook.co.kr/docker/)
   * 2017.04
   * 한라 005.1 용82ㅅ
   * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
@@ -896,12 +896,12 @@ Programming Books
 * (NOT YET) 자바 성능 튜닝
 * 카이 호스트만의 코어 자바8
   * 한라 005.138호57ㅋ
-* **함수형 사고 (객체지향 개발자에서 함수형 개발자로 거듭나기,Functional Thinking)**
+* 함수형 사고 (객체지향 개발자에서 함수형 개발자로 거듭나기,Functional Thinking)
   * 탐라 문005.133-닐895ㅎ
   * 한라 005.136-포27ㅎ
   * java, closure, groovy, scala등 jvm 언어로 함수형으로 사고를 전환하는 이야기
-  * [**기존의 사고 방식을 깨부수는 함수형 사고**](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
-* **[Practical 자바 유틸리티: Git, 서브버전, 메이븐, 그레이들, JUnit, 트랙, 젠킨스, JMeter](https://blog.insightbook.co.kr/2016/09/21/practical-%EC%9E%90%EB%B0%94-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-git-%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84-%EB%A9%94%EC%9D%B4%EB%B8%90-%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4-junit-%ED%8A%B8/)**
+  * [****기존의 사고 방식을 깨부수는 함수형 사고****](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
+* [**Practical 자바 유틸리티: Git, 서브버전, 메이븐, 그레이들, JUnit, 트랙, 젠킨스, JMeter**](https://blog.insightbook.co.kr/2016/09/21/practical-%EC%9E%90%EB%B0%94-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-git-%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84-%EB%A9%94%EC%9D%B4%EB%B8%90-%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4-junit-%ED%8A%B8/)
   * 한라 005.1-장66ㅍ
   * 다루는 종류가 많고, 참고 서적이 없는 부분에 대한 건 참 좋음
   * 얼마나 자세할 지는 모르겠음 java를 계속 사용한다면 좋을 듯
@@ -1002,7 +1002,7 @@ Programming Books
 
 # Kafka
 
-* **[카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지](http://jhrogue.blogspot.kr/2018/05/blog-post.html)**
+* [**카프카, 데이터 플랫폼의 최강자 실시간 비동기 스트리밍 솔루션 Kafka의 기본부터 확장 응용까지**](http://jhrogue.blogspot.kr/2018/05/blog-post.html)
   * 탐라 문005.76고58ㅋ
   * 주키퍼, 카프카 스트림즈, KSQL, 구글 펍/섭, 아마존 키네시스 등
 * [아파치 카프카로 데이터 스트리밍 애플리케이션 제작](http://acornpub.co.kr/book/data-apache-kafka)
@@ -1044,7 +1044,7 @@ Programming Books
   * 탐라 문005.43정67c
   * 자세하게 나와서 좋음
 * (NOT YET) 만화로 배우는 리눅스 시스템 관리 1 명령어 & 셸 스크립트 입문
-* (NOT YET) **[DevOps와 SE를 위한 리눅스 커널 이야기](http://jybaek.tistory.com/748)**
+* (NOT YET) [**DevOps와 SE를 위한 리눅스 커널 이야기**](http://jybaek.tistory.com/748)
 * (NOT YET) [64비트 멀티코어 OS 원리와 구조](http://kkamagui.tistory.com/746)
   * ["64비트 멀티코어 OS 원리와 구조" 의 예제 소스 코드](https://github.com/kkamagui/mint64os-examples)
 * (NOT YET) [실습과 그림으로 배우는 리눅스 구조](https://jybaek.tistory.com/784)
@@ -1087,7 +1087,7 @@ Programming Books
 
 # Network
 
-* **[얇지만 얇지 않은 TCP/IP 소켓 프로그래밍 C](http://book.daum.net/detail/book.do?bookid=KOR9788996276517)**
+* [**얇지만 얇지 않은 TCP/IP 소켓 프로그래밍 C**](http://book.daum.net/detail/book.do?bookid=KOR9788996276517)
   * 2018.01
   * 한라 005.2 도192ㅌ
   * socket, network programming을 이해하기 위해 매우 좋은 책으로 보임
@@ -1250,10 +1250,10 @@ Programming Books
   * 2018.04
   * 한라 005.133 김52ㅍ
   * Tk, turtle, wxPython, pycharm 기초 사용법 등이 나온 점만 제외하면 완전히 입문서
-* **[구글로 공부하는 파이썬](http://bjpublic.tistory.com/297)**
+* [**구글로 공부하는 파이썬**](http://bjpublic.tistory.com/297)
   * 한라 005.133김65ㄱ
   * 여러가지 라이브러리 기본 사용법
-* **[파이썬답게 코딩하기](http://bjpublic.tistory.com/302)**
+* [**파이썬답게 코딩하기**](http://bjpublic.tistory.com/302)
   * 한라 005.133심14ㅍ
   * multithreading, multiprocessing, async
 * **파이썬 Jupyter Notebook 실전 입문**
@@ -1261,7 +1261,7 @@ Programming Books
   * 탐라 문005.133이823ㅍ
   * [서평 "파이썬 Jupyter Notebook 실전입문"을 읽고](http://gregor77.tistory.com/entry/%EC%84%9C%ED%8F%89-%ED%8C%8C%EC%9D%B4%EC%8D%AC-Jupyter-Notebook-%EC%8B%A4%EC%A0%84%EC%9E%85%EB%AC%B8%EC%9D%84-%EC%9D%BD%EA%B3%A0)
   * 주피터 노트북을 사용한 데이터 분석 기법
-* **[우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)**
+* [**우아한 사이파이 수학, 과학, 엔지니어링을 위한 파이썬 데이터 분석 라이브러리 SciPy**](http://www.hanbit.co.kr/store/books/look.php?p_code=B8736321868)
   * 한라 005.133누194ㅇ
   * [github.com/elegant-scipy](https://github.com/elegant-scipy)
   * scipy + 선형대수
@@ -1273,7 +1273,7 @@ Programming Books
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
 * 고성능 파이썬
   * 한라 005.133고294ㄱ
-* **[실전 스케일링 파이썬 프로그래밍](https://blog.insightbook.co.kr/2018/08/22/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%99%95%EC%9E%A5%EA%B3%BC-%EB%B6%84%EC%82%B0-%E3%80%8E%EC%8B%A4%EC%A0%84-%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-%ED%8C%8C/)**
+* [**실전 스케일링 파이썬 프로그래밍**](https://blog.insightbook.co.kr/2018/08/22/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%99%95%EC%9E%A5%EA%B3%BC-%EB%B6%84%EC%82%B0-%E3%80%8E%EC%8B%A4%EC%A0%84-%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-%ED%8C%8C/)
   * 2018.09
   * 탐라 문005.133 단77ㅅ
   * [Build apps that scale to billions](https://scaling-python.com/)
@@ -1355,7 +1355,7 @@ Programming Books
 * (NOT YET) 통계 분석 너머 R의 무궁무진한 활용
   * 한라 005.54 고54ㅌ
 * (NOT YET) [R과 데이터 사이언스-비즈니스 시각으로 본 R의 실전 활용법](http://book.daum.net/detail/book.do?bookid=KOR9791187497103)
-* **[이토록 쉬운 통계&R](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)**
+* [**이토록 쉬운 통계&R**](https://b-m.facebook.com/commerce/products/1673686476021344/?rid=944403472266716&rt=6&hsi=0)
   * 한라 413.7임14ㅇ
   * [이토록 쉬운 통계&R](https://rpubs.com/fermat39/statisticsandr2)
   * 통계 기본(Ch.1~3) + R(Ch.4)
@@ -1383,7 +1383,7 @@ Programming Books
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-r-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-ea6a8525fde2)
 * (NOT YET) [Do it! 쉽게 배우는 R 데이터 분석](http://www.easyspub.co.kr/20_Menu/BookView/A001/138/PUB)
 * (NOT YET) [ggplot2 - R로 분석한 데이터를 멋진 그래픽으로](https://freelec.co.kr/book/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-%ED%8C%A8%ED%82%A4%EC%A7%80-ggplot2/)
-* (NOT YET) **[R, JAGS, Stan을 이용한 베이지안 데이터 분석 바이블(제2판)](http://jpub.tistory.com/875)**
+* (NOT YET) [**R, JAGS, Stan을 이용한 베이지안 데이터 분석 바이블(제2판)**](http://jpub.tistory.com/875)
 * (NOT YET) [R로 하는 빅데이터 분석: 데이터 전처리와 시각화](http://ds.sumeun.org/?p=2069)
 * (NOT YET) [시작하세요! 데이터 분석 with R R로 배우는 기초 통계와 데이터 분석 기법](http://wikibook.co.kr/data-analysis-with-r/)
 * (NOT YET) [앤디 필드의 유쾌한 R 통계학](https://jpub.tistory.com/900)
@@ -1451,7 +1451,7 @@ Programming Books
 * [스파크: 빅데이터 관리자를 위한 클러스터 테크닉](http://www.yes24.com/24/goods/32435764)
   * 탐라 문005.76굴29ㅅ
   * 제목처럼 관리자를 위한 책이라 프로그래밍 설명이 많지는 않음
-* **[빅데이터 분석을 위한 스파크 2 프로그래밍](http://wikibook.co.kr/spark/)**
+* [**빅데이터 분석을 위한 스파크 2 프로그래밍**](http://wikibook.co.kr/spark/)
   * 2017.02
   * 한라 005.76-백54ㅂ
   * Spark2.1 사용, MLib, sparkR, GraphX까지 다양
@@ -1461,10 +1461,10 @@ Programming Books
 * [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798)
   * 한라 005.74멘24ㅎ
   * 기본적인 소개에 그치는 듯. 다른 책을 보고 나서 필요하면 봐도 될 듯
-* **[스파크를 다루는 기술 Spark in Action](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)**
+* [**스파크를 다루는 기술 Spark in Action**](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001997)
   * 2018.07
   * 한라 005.76제83ㅅ
-* **[하이 퍼포먼스 스파크](http://jpub.tistory.com/800)**
+* [**하이 퍼포먼스 스파크**](http://jpub.tistory.com/800)
   * 한라 005.74카295ㅎ
   * 최신 내용에 대해 자세히 설명. spark 코드를 위해 필수. 2.2.1, 2.3.0에서 테스트했다고 함
 * (NOT YET) [하둡과 스파크를 활용한 실용 데이터 과학](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001798&page=1&TF=T)

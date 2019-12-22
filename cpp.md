@@ -208,7 +208,7 @@ C++
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
   * [CppCon 2015: Herb Sutter "Writing Good C++14... By Default"](https://www.youtube.com/watch?v=hEx5DNLWGgA#)
 * [녹슨 C++ 코드에 모던 C++로 기름칠하기](http://www.slideshare.net/utilforever/techdays-korea-2015-c-c)
-* **[ModernCpp  - Modern C++ Description](https://github.com/utilForever/ModernCpp)**
+* [**ModernCpp  - Modern C++ Description**](https://github.com/utilForever/ModernCpp)
   * [Calculator - Simple Console Calculator using C++](https://github.com/utilForever/Calculator)
   * [SimpleRPG-Text - Text-based Simple RPG using C++ based on Pipe Penguin's C++ RPG Tutorial](https://github.com/utilForever/SimpleRPG-Text)
 

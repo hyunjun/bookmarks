@@ -187,9 +187,9 @@ Math
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html)
 * [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.albertauyeung.com/post/python-matrix-factorization/)
-* **[Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra)**
+* [**Computational Linear Algebra for Coders**](https://github.com/fastai/numerical-linear-algebra)
 * [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
-* **[MIT 18.06 Linear Algebra, Spring 2005](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)**
+* [**MIT 18.06 Linear Algebra, Spring 2005**](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
   * [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [의사가 들려주는 선형대수 이야기 - 1. Vector Space](https://www.youtube.com/watch?v=Xo-eaKe1AAY)
@@ -223,8 +223,8 @@ Math
 * [Probablistic Inference Using Markov Chain Monte Carlo Methods](http://www.cs.toronto.edu/~radford/ftp/review.pdf)
 * [Markov chains](https://www.youtube.com/watch?v=Ws63I3F7Moc)
 * [Markov Chains](http://setosa.io/ev/markov-chains/) visually explained
-* **[How I generated inspirational quotes with less than 20 lines of python code](https://medium.com/@ramtinalami/how-i-generated-inspirational-quotes-with-less-than-20-lines-of-code-38273623c905)**
-* **[Some Applications of Markov Chain in Python](https://sandipanweb.wordpress.com/2018/01/12/some-applications-of-markov-chain/)**
+* [**How I generated inspirational quotes with less than 20 lines of python code**](https://medium.com/@ramtinalami/how-i-generated-inspirational-quotes-with-less-than-20-lines-of-code-38273623c905)
+* [**Some Applications of Markov Chain in Python**](https://sandipanweb.wordpress.com/2018/01/12/some-applications-of-markov-chain/)
   * 자연어의 마르코프 모델
     * 마르코프 체인을 사용하여 영어 텍스트의 통계 모델 작성.
     * 마르코프 체인을 시뮬레이션하여 양식화된 pseudo-random text를 생성
@@ -292,7 +292,7 @@ Math
 * [devluna.blogspot.com/search/label/Math](http://devluna.blogspot.com/search/label/Math)
   * [DoingMathWithPython](https://github.com/DevStarSJ/Study/tree/master/Blog/Python/DoingMathWithPython)
 * [2017학년도 대학수학능력시험 문제 수학영역(가형)](https://anaconda.org/ymath/2017_csat_mathematics_type_ga/notebook) python으로 수능 풀이
-* **[Numerical Tours of Data Sciences](http://www.numerical-tours.com/)**
+* [**Numerical Tours of Data Sciences**](http://www.numerical-tours.com/)
   * 수학 코드의 주요 개념을 python julia등의 코드로 설명
 * [Tangent: Source-to-Source Debuggable Derivatives](https://research.googleblog.com/2017/11/tangent-source-to-source-debuggable.html)
 * [벡터, 행렬에 대한 미분](http://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/fitting/matrix-derivative.ipynb)

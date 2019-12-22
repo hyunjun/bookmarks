@@ -1,6 +1,6 @@
 Haskell
 =======
-* **[Introducing the Haskell Phrasebook](https://typeclasses.com/news/2019-07-phrasebook)** Go By Example처럼 예제로 소개
+* [**Introducing the Haskell Phrasebook**](https://typeclasses.com/news/2019-07-phrasebook) Go By Example처럼 예제로 소개
 * [Monday Morning Haskell](https://mmhaskell.com/)
 * [school of haskell](https://www.schoolofhaskell.com/)
 * [fpcomplete.com](https://www.fpcomplete.com)
@@ -25,7 +25,7 @@ Haskell
 * [The Haskell School of Music -- From Signals to Symphonies](http://feedly.com/i/subscription/feed/https://news.ycombinator.com/rss)
 * [Haskell at Front Row](https://github.com/commercialhaskell/commercialhaskell/blob/master/usage/frontrow.md)
 * [The Mystical Properties of Programming, or Why I Chose Haskell](http://blog.jameslarisch.com/the-mystical-properties-of-programming-or-why-i-chose-haskell)
-* **[모나드 괴담](https://e.xtendo.org/haskell/ko/monad_fear/slide#1)**
+* [**모나드 괴담**](https://e.xtendo.org/haskell/ko/monad_fear/slide#1)
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Functional Programming Course](https://github.com/bitemyapp/fp-course) Written by Tony Morris & Mark Hibberd for Data61
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
@@ -146,7 +146,7 @@ Haskell
 * [Fixpoints in Haskell](https://medium.com/@cdsmithus/fixpoints-in-haskell-294096a9fc10)
 * [What Haskell taught us when we were not looking - Eric Torreborre](https://www.youtube.com/watch?v=9liCkM3bDig)
 * [Domain Modelling with Haskell: Data Structures](https://haskell-at-work.com/episodes/2018-01-19-domain-modelling-with-haskell-data-structures.html)
-* **[agbird.egloos.com/category/하스켈 스프링노트](http://agbird.egloos.com/category/%ED%95%98%EC%8A%A4%EC%BC%88%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%85%B8%ED%8A%B8)**
+* [**agbird.egloos.com/category/하스켈 스프링노트**](http://agbird.egloos.com/category/%ED%95%98%EC%8A%A4%EC%BC%88%20%EC%8A%A4%ED%94%84%EB%A7%81%EB%85%B8%ED%8A%B8)
 * [core-lang-haskell](https://github.com/Ailrun/core-lang-haskell)
 * [LINE 하스켈 부트 캠프](https://engineering.linecorp.com/ko/blog/line-haskell-boot-camp/)
 * [An opinionated guide to Haskell in 2018](https://lexi-lambda.github.io/blog/2018/02/10/an-opinionated-guide-to-haskell-in-2018)

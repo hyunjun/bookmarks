@@ -9,12 +9,12 @@ Programming
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
-* **[lists - The definitive list of lists (of lists) curated on GitHub](https://github.com/jnv/lists)**
+* [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
 * 여러가지 주요 언어를 배울 수 있는 다양한 project link
   * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
   * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning) 
   * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
-* **[작은 교육](http://slownews.kr/44304)**
+* [**작은 교육**](http://slownews.kr/44304)
 * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.slideshare.net/wheejuni/ss-84047369)
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
 * [개발자를 위한 넓고 얕은 지식](https://www.slideshare.net/godrm/ss-84035645)
@@ -29,7 +29,7 @@ Programming
 * [Composing Programs, a free online introduction to programming and computer science](http://www.composingprograms.com/)
 * [What it really takes to learn how to code?](http://blog.sailsoftware.co/2015/09/09/what-it-really-takes-to-learn-how-to-code.html)
 * [Best websites for programmers and students who want to learn to code](https://www.techworm.net/2016/11/best-websites-for-programmers.html)
-* **[생활코딩 수업 관계도](https://seomal.org)**
+* [**생활코딩 수업 관계도**](https://seomal.org)
 * [Practice-it is a web application to help you practice solving Java programming problems online](https://practiceit.cs.washington.edu/)
 * [codestepbystep.com](https://codestepbystep.com/)
 * [codingbat.com](https://codingbat.com/)
@@ -62,7 +62,7 @@ Programming
 * [Keyword-Based Navigation and Search over the Linked Data Web](http://events.linkeddata.org/ldow2015/papers/ldow2015_paper_06.pdf)
 * [www.opsschool.org](http://www.opsschool.org)
 * [socket - blocking, non blocking, synchronous, asynchronous](https://github.com/dsindex/blog/wiki/%5Bsocket%5D-blocking,-non-blocking,-synchronous,-asynchronous)
-* **[Blocking-NonBlocking-Synchronous-Asynchronous](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)**
+* [**Blocking-NonBlocking-Synchronous-Asynchronous**](http://homoefficio.github.io/2017/02/19/Blocking-NonBlocking-Synchronous-Asynchronous/)
 * [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
 * [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
 * [**동기(Synchronous)는 정확히 무엇을 의미하는걸까?**](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
@@ -123,7 +123,7 @@ Programming
 * [talk-transcripts](https://github.com/matthiasn/talk-transcripts)
 * [www.cnet.co.kr/view/6271 임백준](http://www.cnet.co.kr/view/6271)
 * [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
-* **[gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)**
+* [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
 * [paperswelove.org](http://paperswelove.org/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
@@ -139,7 +139,7 @@ Programming
 * [프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
 * [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq ](https://github.com/sarojaba/awesome-devblog)
 * [어썸블로그](https://github.com/BenjaminKim/awesome-blogs)
-* **[개발자가 갖추어야 할 9가지 기술](https://www.youtube.com/watch?v=fHyTA-UIcqs)**
+* [**개발자가 갖추어야 할 9가지 기술**](https://www.youtube.com/watch?v=fHyTA-UIcqs)
 * [9 Databases in 45 Minutes](https://www.youtube.com/watch?v=XfK4aBF7tEI)
 * [무슨 소프트웨어나 서비스를 만들고 싶으세요?](https://brunch.co.kr/@jinhoyooephf/10)
 * [견고한 서비스를 만들기 위한 팁](http://www.popit.kr/%EA%B2%AC%EA%B3%A0%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%8C%81/)
@@ -148,7 +148,7 @@ Programming
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
 * [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
-* **['기능 공장'에서 일하고 있다는 12가지 신호](https://brunch.co.kr/@cojette/31)**
+* [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalization i18n
 * [글로벌 서비스 개발 - 우아한형제들 세미나](https://devtimothy.tistory.com/140) 지역별 특성에 맞는 개발 방식 및 주의점
@@ -162,7 +162,7 @@ Programming
 * [능력 있는 개발자는 어떻게 알아볼 수 있나? by 황준식님](https://okky.kr/article/370719)
 * [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
-* **[좋은 코딩을 위한 13 가지 간단한 규칙](https://mingrammer.com/translation-13-simple-rules-for-good-coding)**
+* [**좋은 코딩을 위한 13 가지 간단한 규칙**](https://mingrammer.com/translation-13-simple-rules-for-good-coding)
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * [#1 SRE/DEVOPS의 개념](https://bcho.tistory.com/1325)
@@ -175,16 +175,16 @@ Programming
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
-* **[Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)**
+* [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
 * [데이터와 함께 단어 설계하기](http://blog.canapio.com/106)
-* **[Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)**
+* [**Best-websites-a-programmer-should-visit**](https://github.com/sdmg15/Best-websites-a-programmer-should-visit/blob/master/README.md)
 * [암호화 이것만 알면 된다](https://www.slideshare.net/ssuser800974/ss-76664853)
 * [번역 OpenSSH의 기본 키 암호화는 평문보다 못합니다](https://tech.ssut.me/2018/08/07/the-default-openssh-key-encryption-is-worse-than-plaintext/)
 * [Seriously, stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/) RSA는 취약하니 사용하지 말고 다른 대체 알고리즘 기반 library를 사용하라는 글
 * [보안 그리고 암호화 알고리즘](https://naleejang.tistory.com/218)
-* **[Project Guidelines](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)**
-* **[100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기](https://libsora.so/posts/amazing-floating-point-100x07/)**
+* [**Project Guidelines**](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)
+* [**100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기**](https://libsora.so/posts/amazing-floating-point-100x07/)
 * [Floating Point Math](https://0.30000000000000004.com/)
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
@@ -217,7 +217,7 @@ Programming
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
   * [2편(Access Token + Refresh Token)](http://tansfil.tistory.com/59)
   * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
-* **[안정적인 서비스 운영 2014.03](https://www.slideshare.net/cybaek/201403)** 설계 ~ 모니터링까지
+* [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
 * [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.popit.kr/%ED%9D%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%9E%91%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%82%AC%EB%AD%87-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/) naming
   * 변수명에 대한 관점 차이를 해소하는 과정 이야기
@@ -393,23 +393,23 @@ Programming
 * [MVC-MVVM-VIPER로 이어지는 앱 개발 구조패턴(2)](http://tmondev.blog.me/221006236106)
 * [MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
 * [JSP&Servlet MVC 아키텍처](http://bbigbros.tistory.com/entry/ServletJSP-MVC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
-* **[M-V-Whatever 정리 - 1.MVC](https://blog.naver.com/jukrang/221414570067)**
+* [**M-V-Whatever 정리 - 1.MVC**](https://blog.naver.com/jukrang/221414570067)
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
 * [Repository 패턴에 대해서 정리해 보겠습니다](https://developer88.tistory.com/210)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
-* **[세분화(Granular) 애플리케이션 아키텍처 패턴](https://medium.com/@jwyeom63/%EC%84%B8%EB%B6%84%ED%99%94-granular-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-1f6a2d720545)**
+* [**세분화(Granular) 애플리케이션 아키텍처 패턴**](https://medium.com/@jwyeom63/%EC%84%B8%EB%B6%84%ED%99%94-granular-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-1f6a2d720545)
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
 * [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
-* **[백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)**
-* **[Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)**
+* [**백엔드 개발자를 꿈꾸는 학생개발자에게**](https://d2.naver.com/news/3435170)
+* [**Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis**](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 * [How Stickler CI grew from a prototype to a product](https://hackernoon.com/how-stickler-ci-grew-from-a-prototype-to-a-product-6d2a58987ac1)
-* **[The Clean Architecture](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)**
+* [**The Clean Architecture**](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Clean Architecture 1/2](https://jusths.tistory.com/149)
 * [Clean Architecture 2/2](https://jusths.tistory.com/150)
@@ -419,9 +419,9 @@ Programming
 * [주니어 개발자의 클린 아키텍처 맛보기](http://woowabros.github.io/tools/2019/10/02/clean-architecture-experience.html)
 * [클린 아키텍처 부수기💥 (2) - 소개](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%B6%80%EC%88%98%EA%B8%B0-2-%EC%86%8C%EA%B0%9C-ktk3m16ayt)
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
-* **[24시간 365일 서버/인프라를 지탱하는 기술](http://astrod.github.io/2017/12/17/17.html)**
+* [**24시간 365일 서버/인프라를 지탱하는 기술**](http://astrod.github.io/2017/12/17/17.html)
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
-* **[넷플릭스의 카오스 엔지니어링의 원칙](http://channy.creation.net/blog/1173#.WkXB71SFjy0)**
+* [**넷플릭스의 카오스 엔지니어링의 원칙**](http://channy.creation.net/blog/1173#.WkXB71SFjy0)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
@@ -430,7 +430,7 @@ Programming
 * [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
 * [CI/CD 레퍼런스 아키텍쳐](http://bcho.tistory.com/1231)
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
-* **[안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여](http://woowabros.github.io/study/2018/03/05/sdp-sap.html)** 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
+* [**안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여**](http://woowabros.github.io/study/2018/03/05/sdp-sap.html) 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
@@ -440,13 +440,13 @@ Programming
 * [아키텍처란](https://brunch.co.kr/@cleancode/33)
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
 * Instagram
-  * **[Scaling Instagram Infrastructure](https://www.youtube.com/watch?v=hnpzNAPiC0E)**
+  * [**Scaling Instagram Infrastructure**](https://www.youtube.com/watch?v=hnpzNAPiC0E)
   * [Making Direct Messages Reliable and Fast](https://instagram-engineering.com/making-direct-messages-reliable-and-fast-a152bdfd697f)
   * [Making Instagram.com faster: Part 1](https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538)
   * [Making Instagram.com faster: Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)
   * [Making Instagram.com faster: Part 3 — cache first](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)
   * [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
-* **[개발자를 위한 인프라 기초 총정리](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics)** 총정리라는 제목에 걸맞는 다양한 내용 정리
+* [**개발자를 위한 인프라 기초 총정리**](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics) 총정리라는 제목에 걸맞는 다양한 내용 정리
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
 * [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
@@ -477,11 +477,11 @@ Programming
   * [Design Of A Modern Cache—Part Deux](http://highscalability.com/blog/2019/2/25/design-of-a-modern-cachepart-deux.html)
   * [Understanding Service Workers and Caching Strategies](https://blog.bitsrc.io/understanding-service-workers-and-caching-strategies-a6c1e1cbde03)
   * [Cache-policy](https://medium.com/@strncpy/cache-policy-98cb890e1661) write through, write around, write back
-  * **[캐시가 동작하는 아주 구체적인 원리](https://parksb.github.io/article/29.html)** cache 내부 동작에 대한 상세한 설명을 하는 좋은 글
+  * [**캐시가 동작하는 아주 구체적인 원리**](https://parksb.github.io/article/29.html) cache 내부 동작에 대한 상세한 설명을 하는 좋은 글
   * [Caching](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936)
   * [Cloudflare architecture and how BPF eats the world](https://blog.cloudflare.com/cloudflare-architecture-and-how-bpf-eats-the-world/)
     * [Details of the Cloudflare outage on July 2, 2019](https://new.blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
-      * **[(번역) 2019년 7월 2일 Cloudflare 장애 보고서](https://ryanking13.github.io/2019/07/18/details-of-the-cloudflare-outage-on-july-2-2019.html)**
+      * [**(번역) 2019년 7월 2일 Cloudflare 장애 보고서**](https://ryanking13.github.io/2019/07/18/details-of-the-cloudflare-outage-on-july-2-2019.html)
   * [The Technical Challenges of Building Cloudflare WARP](https://blog.cloudflare.com/warp-technical-challenges/)
   * [Cloudflare 도입 후기 5년간의 Cloudflare 사용 후기를 공유합니다](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
@@ -505,12 +505,12 @@ Programming
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
 * [Shopify 아키텍처의 진화](https://blog.gaerae.com/2019/02/evolution-of-shopifys-architecture.html)
-* **[시스템이란 무엇인가?](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)**
+* [**시스템이란 무엇인가?**](https://www.popit.kr/%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/)
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
   * Divide and conquer가 아니라 conquer and divide를 이야기하는 부분은 일단 working solution/system을 만들고 opimization을 하라는 것과 일맥상통한다는 생각
-* **[결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)**
+* [**결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가**](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)
 * 최신 브라우저의 내부 살펴보기 
-  * **[1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처](https://d2.naver.com/helloworld/2922312)** 매우 좋은 번역 글
+  * [**1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처**](https://d2.naver.com/helloworld/2922312) 매우 좋은 번역 글
   * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
   * [3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
   * [4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
@@ -545,7 +545,7 @@ Programming
 * [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
 * [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
 * [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
-* **[jack-vanlightly.com/blog/category/Distributed+Systems](https://jack-vanlightly.com/blog/category/Distributed+Systems)**
+* [**jack-vanlightly.com/blog/category/Distributed+Systems**](https://jack-vanlightly.com/blog/category/Distributed+Systems)
 * [Many Nodes, One Distributed System](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
 * [Getting Real About Distributed System Reliability](https://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability)
 
@@ -558,7 +558,7 @@ Programming
 * [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
 
 ## Architecture Microservice MSA
-* **[Microservice Architecture](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)**
+* [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
 * [마이크로서비스 인 액션 – MicroServices In Action](http://channy.creation.net/blog/1051)
 * [마이크로서비스가 가져올 미래의 개발 패러다임](http://www.moreagile.net/2014/10/microservices.html)
@@ -575,7 +575,7 @@ Programming
 * [12. 마이크로서비스를 구성하며 느낀점: 마이크로서비스아키텍처](https://highluck.github.io/#/project_m)
 * [마이크로서비스 Just Do It!](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-just-do-it/)
 * [넷플릭스 마이크로 서비스 가이드 - 혼돈의 제왕](https://www.youtube.com/watch?v=OczG5FQIcXw)
-* **[마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점](http://www.giljae.com/2016/12/microservices-architecture.html)**
+* [**마이크로서비스 아키텍처(Microservices Architecture)의 장점과 단점**](http://www.giljae.com/2016/12/microservices-architecture.html)
 * [마이크로서비스를 위한 데이터베이스 선택 방법](http://www.itworld.co.kr/news/107154)
 * [마이크로 서비스는 왜 점점 더 각광을 받을 수 밖에 없을까?](http://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%99%9C-%EC%A0%90%EC%A0%90-%EB%8D%94-%EA%B0%81%EA%B4%91%EC%9D%84-%EB%B0%9B%EC%9D%84-%EC%88%98-%EB%B0%96%EC%97%90-%EC%97%86/)
 * [마이크로 서비스(MSA)로 구축할 때 모듈은 어떤 단위로 할까?](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4msa%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%A0-%EB%95%8C-%EB%AA%A8%EB%93%88%EC%9D%80-%EC%96%B4%EB%96%A4-%EB%8B%A8%EC%9C%84%EB%A1%9C/)
@@ -663,7 +663,7 @@ Programming
 * [Beginner’s Guide to Microservices: Explaining it to a 5 Year Old](https://hackernoon.com/beginners-guide-to-microservices-explaining-it-to-a-5-year-old-4481f5aba466)
 * [MSA 전략 1: 마이크로서비스, 어떻게 디자인 할 것인가?](https://www.slideshare.net/PivotalKorea/msa-1-154454835)
 * [Understanding Microservices: From Idea To Starting Line](https://medium.com/free-code-camp/microservices-from-idea-to-starting-line-ae5317a6ff02)
-* **[마이크로 서비스 프로젝트 300개 관리하기](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-300%EA%B0%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/)** Docker, Kubernetes 실용적인 예와 경험. 매우 좋은 글
+* [**마이크로 서비스 프로젝트 300개 관리하기**](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-300%EA%B0%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/) Docker, Kubernetes 실용적인 예와 경험. 매우 좋은 글
 * [**Data Consistency in Microservices Architecture (Grygoriy Gonchar)**](https://www.youtube.com/watch?v=CFdPDfXy6Y0)
 * [Data Consistency in Microservice Using Sagas](https://www.youtube.com/watch?v=txlSrGVCK18)
 * [우아한 멀티모듈 - 2019년 8월 우아한 Tech 세미나](https://jojoldu.tistory.com/444)
@@ -701,7 +701,7 @@ Programming
 * [빠르게 배워보는 Node.js를 이용한 서버리스(Serverless)](https://medium.com/@jwyeom63/%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EB%8A%94-node-js%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-serverless-503ee61539d4)
 * [Serverless: Looking Back to See Forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62)
 * [How we migrated our startup to serverless](https://read.acloud.guru/our-serverless-journey-part-2-908d76d03716)
-* **[서버리스 아키텍쳐(Serverless)란?](https://velopert.com/3543)**
+* [**서버리스 아키텍쳐(Serverless)란?**](https://velopert.com/3543)
 * [Serverless 프레임워크로 서버리스 애플리케이션 생성 및 배포하기](https://velopert.com/3549)
 * [Serverless 활용하기: MongoDB 기반 RESTful CRUD API 만들기](https://velopert.com/3577)
 * [The hidden costs of serverless](https://medium.com/@amiram_26122/the-hidden-costs-of-serverless-6ced7844780b)
@@ -880,7 +880,7 @@ Programming
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com](http://ideone.com/)
 * [repl.it](https://repl.it/)
-* **[Rosetta Code - Side-by-side code snippets from Rosetta Code](www.rosettacode.org/)**
+* [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 * VS code live share [Microsoft : VS Live Share](https://pang2h.tistory.com/91)
 * [wandbox.org](https://wandbox.org/)
@@ -944,7 +944,7 @@ Programming
   * [2016](https://deview.kr/2016/)
     * [DEVIEW 2016 - Keynote 영상](http://tvcast.naver.com/v/1211692)
     * [DEVIEW 2016 1일차 방문기](http://haviyj.tistory.com/5)
-    * **[네이버콘텐츠통계서비스소개 김기영](http://www.slideshare.net/deview/215-67608986)** spark, elasticsearch
+    * [**네이버콘텐츠통계서비스소개 김기영**](http://www.slideshare.net/deview/215-67608986) spark, elasticsearch
     * [대규모 시각화 시스템 - <라비스>는 복잡한 서비스를 어떻게 한 눈에 보게 만들었는가](http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=5E017D64B54BEF9FAEFE4BB787E326D1CC69&outKey=V127ce85a93a653c641e4865c69038c3c3040ce584f436eea35a3865c69038c3c3040&controlBarMovable=true&jsCallable=true&skinName=tvcast_white)
   * [2015](http://deview.kr/2015/)
     * [DEVIEW 2015 발표자료 실시간 셔틀 - 첫째 날](https://www.imaso.co.kr/news/article_view.php?article_idx=20150914141945)
@@ -1004,7 +1004,7 @@ Programming
 * [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
 * [제 16회 K.E.L.P. 공개 세미나](https://www.youtube.com/watch?v=8vAjVPj37kk)
 * [4대 클라우드 콘퍼런스를 마트로 비유하기](http://www.popit.kr/4%EB%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%A5%BC-%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EA%B8%B0/)
-* **[OKKYCON 2017 참석 후기](http://jojoldu.tistory.com/249)**
+* [**OKKYCON 2017 참석 후기**](http://jojoldu.tistory.com/249)
 * [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
 * [Best of 2017 in tech talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b)
 * [다시 보는 2018 한국의 주요 개발 / 테크 컨퍼런스들](https://www.44bits.io/ko/post/replay-2018-korea-tech-development-conferences)
@@ -1148,7 +1148,7 @@ Programming
 * [번역 초보 프론트엔드 개발자들을 위한 Pub-Sub(Publish-Subscribe) 패턴을 알아보기](https://adhrinae.github.io/posts/why-every-beginner-front-end-developer-should-know-publish-subscribe-pattern-kr)
 * [PubSub in web: comparison and deep-dive into Bayeux/Faye](https://medium.com/front-end-weekly/pubsub-in-web-comparison-and-deep-dive-into-bayeux-faye-e6a0cc3f10d1)
 * [How Netflix microservices tackle dataset pub-sub](https://medium.com/netflix-techblog/how-netflix-microservices-tackle-dataset-pub-sub-4a068adcc9a)
-* **[jack-vanlightly.com/blog?category=Messaging Systems](https://jack-vanlightly.com/blog?category=Messaging+Systems)**
+* [**jack-vanlightly.com/blog?category=Messaging Systems**](https://jack-vanlightly.com/blog?category=Messaging+Systems)
   * RabbitMQ가 중심이며, Kafka, Pulsar도 다룸. 정말 좋은 글이 많음
 * [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
   * Transactional Outbox Pattern, DB table을 message queue로 이용해 transaction을 보장하는데, DB를 queue로 이용하는 건 anti pattern 아니었나?
@@ -1162,7 +1162,7 @@ Programming
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
 * [MQTT](http://mqtt.org/)
-  * **[MQTT](https://www.joinc.co.kr/w/man/12/MQTT/Tutorial)**
+  * [**MQTT**](https://www.joinc.co.kr/w/man/12/MQTT/Tutorial)
   * [MQTT 적용을 통한 중계시스템 개선](http://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html)
   * [Mqtt Stress Test](http://woowabros.github.io/experience/2017/08/28/mqtt_stress_test.html)
   * [MQTT 를 이용한 주문 시스템 개선](https://ash84.net/2018/03/23/emocon-ss-2018-mqtt/)
@@ -1511,7 +1511,7 @@ Programming
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
-* **[How Operating Systems Work: 10 Concepts you Should Know as a Developer](https://codeburst.io/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)**
+* [**How Operating Systems Work: 10 Concepts you Should Know as a Developer**](https://codeburst.io/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
 * [프로세스 동기화 - 임계구역 문제 (Critical-Section)](http://hongku.tistory.com/17)
 * [Operating Systems Course Notes Main Page](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 * [NAVER Tech Talk: OS, 시스템 (2017년 7월~2018년 1월)](https://d2.naver.com/news/7119116)
@@ -1527,7 +1527,7 @@ Programming
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
-* **[리액티브 프로그래밍 대 리액티브 시스템](http://blog.lespinside.com/reactive-programming-versus-reactive-systems/)**
+* [**리액티브 프로그래밍 대 리액티브 시스템**](http://blog.lespinside.com/reactive-programming-versus-reactive-systems/)
 * [리액티브(Reactive) 시스템이란?](http://kwangshin.pe.kr/blog/2017/10/14/what-is-reactvie-system/)
 * [리엑티브 프로그래밍](https://wckhg89.github.io/archivers/reactive)
 * [What is Reactive Programming?](https://blog.redelastic.com/what-is-reactive-programming-bc9fa7f4a7fc)
@@ -1537,7 +1537,7 @@ Programming
 * [왜 리액티브인가 요약](http://javacan.tistory.com/entry/why-reactive-summary)
 * [Reactive Architecture: Introduction to Reactive Systems 코스 소개](http://kwangshin.pe.kr/blog/2018/08/18/reactive-architecture-introduction-to-reactive-systems-free-course/)
 * [An Introduction to Reactive Streams](https://medium.com/@teivah/an-introduction-to-reactive-streams-fad58e21c795)
-* **[The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)**
+* [**The introduction to Reactive Programming you've been missing**](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
@@ -1561,7 +1561,7 @@ Programming
 * [State of the Real-time Web with Django](https://www.youtube.com/watch?v=gS8bG2aJEHw)
 * [Realtime Example app Tutorial - Using Django, django-realtime, iShout.js,Node.js & Redis](https://www.youtube.com/watch?v=7Tibla5fSqM)
 * [Realtime App using Django, iShoutjs, Nodejs and Redis](https://www.youtube.com/watch?v=OEOU6TtZEa0)
-* **[Achieving real-time analytics via change data capture](https://medium.com/myheritage-engineering/achieving-real-time-analytics-via-change-data-capture-d69ed2ead889)**
+* [**Achieving real-time analytics via change data capture**](https://medium.com/myheritage-engineering/achieving-real-time-analytics-via-change-data-capture-d69ed2ead889)
   * Maxwell Change Data Capture(Maxwell's Daemon, 이하 CDC) 도구를 사용하여 데이터베이스 변경 이벤트를 실시간으로 분석하는 방법
   * MySQL의 Blackhole 테이블을 사용하여 query thread ID와 함께 request ID를 기록
   * 이 ID는 나중에 Kafka와 같은 스트리밍 응용프그램에서 request와 CDC 데이터를 연결하는데 사용 가능
@@ -1573,10 +1573,10 @@ Programming
   * "Data Loss by Design"이라는 개념을 소개
   * 전통적인 데이터베이스는 쓰기와 독립적으로 읽기 확장을 허용하지 않음을 지적
   * "A log-centric approach"를 사용하면 각 쿼리는 자체 스키마를 가져오며 읽기를 쓰기에서 독립하여 확장할 수 있음을 주장
-* **[Spark, Flink, Kafka Streaming](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/)** 자세한 비교. 매우 좋음
+* [**Spark, Flink, Kafka Streaming**](https://ggoals.github.io/About_Streaming_Spark_Kafka_Flink/) 자세한 비교. 매우 좋음
 * [In-depth look at a Scalable & Robust Data Stream Processing pipeline using Golang](https://medium.com/@magicpineng/in-depth-look-at-a-scalable-robust-data-stream-processing-pipeline-using-golang-processing-500k-9e68310a0675)
 * [How we built a Streaming Analytics Solution using Apache Kafka & Druid](https://medium.com/tecnolog%C3%ADa/how-we-built-a-streaming-analytics-solution-using-apache-kafka-druid-66c257adcd9a)
-* **[Real-Time Delivery Architecture at Twitter](https://www.youtube.com/watch?v=J5auCY4ajK8)**
+* [**Real-Time Delivery Architecture at Twitter**](https://www.youtube.com/watch?v=J5auCY4ajK8)
 * [How to Manage Streaming and Real time Big Data Performance](https://www.youtube.com/watch?v=R5lnMrAhPQA)
 * [Noria: dynamic, partially-stateful data-flow for high-performance web applications](https://blog.acolyer.org/2018/10/29/noria-dynamic-partially-stateful-data-flow-for-high-performance-web-applications/)
   * MIT에서 내놓은 새로운 데이터 스트리밍 시스템. 읽기가 무거운 웹 애플리케이션에 최적화, SQL 쿼리 사용 가능
@@ -1720,12 +1720,12 @@ Programming
 * [코드 커버리지 80% 넘긴 썰](https://brunch.co.kr/@leehosung/43)
 * [For Test: 외부 시스템을 특정 상태로 만들기 위해 상태 전이 빌더와 실행기](http://javacan.tistory.com/entry/For-Test-Builder-and-runner-of-state-transition-for-extternal-system-integration)
 * [Mocking is a Code Smell](https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a)
-  * **[Mocking은 코드 냄새(Code Smell)입니다](https://midojeong.github.io/2018/04/19/mocking-is-a-code-smell/)**
+  * [**Mocking은 코드 냄새(Code Smell)입니다**](https://midojeong.github.io/2018/04/19/mocking-is-a-code-smell/)
 * [테스트를 작성하라. 너무 많이는 말고. 통합 테스트를 많이 써라](https://emaren84.github.io/posts/write-mostly-integration-test-kr/)
 * [테스트를 작성하자. 너무 많이는 말고. 통합 위주로(Write tests. Not too many. Mostly integration.)](https://www.vobour.com/%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EC%9E%90-%EB%84%88%EB%AC%B4-%EB%A7%8E%EC%9D%B4%EB%8A%94-%EB%A7%90%EA%B3%A0-%ED%86%B5%ED%95%A9-%EC%9C%84%EC%A3%BC%EB%A1%9C-write-tests)
 * [Test Driven Development (TDD) basic](https://www.slideshare.net/CurtPark1/test-driven-development-tdd-basic/)
 * [Why TDD](https://builttoadapt.io/why-tdd-489fdcdda05e)
-* **[결제 시스템 성능, 부하, 스트레스 테스트](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)**
+* [**결제 시스템 성능, 부하, 스트레스 테스트**](http://woowabros.github.io/experience/2018/05/08/billing-performance_test_experience.html)
 * [Why I now appreciate testing, and why you should, too](https://medium.freecodecamp.org/why-i-now-appreciate-testing-and-why-you-should-too-74d48c67ab72)
 * [TDD 잘알못을 위한 돌직구 세미나 참석 후기](http://jojoldu.tistory.com/306)
 * [콘퍼런스 참가 신청 기능 개발기](https://d2.naver.com/helloworld/5048491)
@@ -1794,7 +1794,7 @@ Programming
   * [#1](http://www.bsidesoft.com/?p=3435)
   * [#2](http://www.bsidesoft.com/?p=3496)
   * [#3](http://www.bsidesoft.com/?p=3526)
-* **[야생의 유니코드](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)**
+* [**야생의 유니코드**](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)

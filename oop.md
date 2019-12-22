@@ -3,10 +3,10 @@
 * [Four major principles of Object-Oriented Programming (OOP)](https://chesterli0130.wordpress.com/2012/10/04/four-major-principles-of-object-oriented-programming-oop/)
 * [Why OO Sucks](http://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm)
   * [Joe Armstrong said “The problem with object-oriented languages is they've got all this implicit environment they carry around with them. You wanted a banana but what you got was a gorilla holding the banana and the entire jungle.” How true is this?](https://www.quora.com/Joe-Armstrong-said-The-problem-with-object-oriented-languages-is-theyve-got-all-this-implicit-environment-they-carry-around-with-them-You-wanted-a-banana-but-what-you-got-was-a-gorilla-holding-the-banana-and-the)
-* **[번역 OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr)**
+* [**번역 OOP를 빨리 잊을 수록 여러분과 여러분의 소프트웨어에 좋습니다**](https://adhrinae.github.io/posts/the-faster-you-unlearn-oop-the-better-for-you-and-your-software-kr)
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
 * [The Expression Problem and Tables](http://joelburget.com/the-expression-problem-and-tables/)]
-* **[안드로이드를 하면서 다시 생각해본 OOP](http://youngrok.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%A5%BC%20%ED%95%98%EB%A9%B4%EC%84%9C%20%EB%8B%A4%EC%8B%9C%20%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B8%20OOP)**
+* [**안드로이드를 하면서 다시 생각해본 OOP**](http://youngrok.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%A5%BC%20%ED%95%98%EB%A9%B4%EC%84%9C%20%EB%8B%A4%EC%8B%9C%20%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B8%20OOP)
 * [A Controlled Experiment to Evaluate Maintainability of Object-Oriented Software](http://eprints.cs.vt.edu/archive/00000221/01/TR-90-39.pdf)
 * [An Empirical Evaluation of Object Oriented Metrics in Industrial Setting†](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.108.416&rep=rep1&type=pdf)
 * [Refactoring with Loops and Collection Pipelines](http://www.martinfowler.com/articles/refactoring-pipelines.html)
@@ -17,7 +17,7 @@
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
   * [Anti-OOP: if를 피하는 법](http://redutan.github.io/2016/03/31/anti-oop-if)
-* **[OOP란 조건문(if)을 줄이는 것](http://alankang.tistory.com/249)**
+* [**OOP란 조건문(if)을 줄이는 것**](http://alankang.tistory.com/249)
   * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
   * 도메인 로직을 서술하기 위한 if는 사용
@@ -80,7 +80,7 @@
 
 # Composition
 * [Composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
-* **[Composition over inheritance](https://seokjun.kim/composition-over-inheritance/)**
+* [**Composition over inheritance**](https://seokjun.kim/composition-over-inheritance/)
 * [02: ♥♦ Q11 – Q15 Why favor composition over inheritance?](https://www.java-success.com/why-favor-composition-over-inheritance-in-java-oop/)
 * [Composition과 Aggregation](http://agbird.egloos.com/817752)
 * [상속과 합성, 그리고 다중 상속...2](http://agbird.egloos.com/615166)
@@ -91,10 +91,10 @@
 * [Your DI framework is killing your code](http://blog.activelylazy.co.uk/2015/09/25/your-di-framework-is-killing-your-code/)
 * [Dependency injection in scala - Have Your Cake and Comprehend It Too](http://www.actioniq.co/blog/scala-dependency-injection/)
 * [테스트 용이성(TESTBILITY) 향상을 위한 DI(DEPENDENCY INJECTION)](http://prostars.net/228)
-* **[DI는 IoC를 사용하지 않아도 된다](https://jwchung.github.io/DI%EB%8A%94-IoC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%90%9C%EB%8B%A4)**
+* [**DI는 IoC를 사용하지 않아도 된다**](https://jwchung.github.io/DI%EB%8A%94-IoC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EB%90%9C%EB%8B%A4)
   * 인수를 취하는 것이 DI의 개념의 대부분
   * 추상화를 해치지 않고 의존성을 인수로 넘겨주는 방법이 DI
-* **[의존성 역전 원리(Dependency Inversion Principle) 관련 용어](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)**
+* [**의존성 역전 원리(Dependency Inversion Principle) 관련 용어**](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)
   * DI와 DIP의 차이
 * [Inversion of Control(제어 역전)](https://justhackem.wordpress.com/2016/05/14/inversion-of-control/)
 * [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
@@ -148,8 +148,8 @@
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
 * [싱글톤 패턴 (Singleton Pattern)](http://itdp1024.tistory.com/22)
 * [Double-checked locking and the Singleton pattern](https://www.ibm.com/developerworks/library/j-dcl/)
-* **[멀티스레드 환경에서의 싱글톤 패턴](https://jungwoon.github.io/java/2019/08/11/Singleton-Pattern-with-Multi-Thread/)**
-* **[Multi Thread 환경에서의 올바른 Singleton](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)**
+* [**멀티스레드 환경에서의 싱글톤 패턴**](https://jungwoon.github.io/java/2019/08/11/Singleton-Pattern-with-Multi-Thread/)
+* [**Multi Thread 환경에서의 올바른 Singleton**](https://medium.com/@joongwon/multi-thread-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%98%AC%EB%B0%94%EB%A5%B8-singleton-578d9511fd42)
 * [싱글톤 디자인 패턴](https://astrod.github.io/design_pattern/2018/09/15/Head-First-%EC%8B%B1%EA%B8%80%ED%86%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)
 * [이터레이터 디자인 패턴](http://astrod.github.io/2017/04/10/%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4.html)
 * [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
@@ -207,7 +207,7 @@
   * [Python Pure Dependency Injection Decorator](https://github.com/teamhide/dependency_injection)
 
 # Ruby
-* **[(번역) 루비에서 상속을 피하는 방법](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)**
+* [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
 * [Coding Dynamic Behavior with the Strategy Pattern](https://hackernoon.com/coding-dynamic-behavior-with-the-strategy-pattern-c0bebaee6671)
 * [An introduction to Object-Oriented Programming with Ruby](https://medium.freecodecamp.org/introduction-to-object-oriented-programming-with-ruby-d594e1c6eebe)
 

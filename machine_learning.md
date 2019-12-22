@@ -42,7 +42,7 @@ Machine Learning
 * [머신러닝 속 수학](https://mingrammer.com/translation-the-mathematics-of-machine-learning)
 * [Probability Distribution 기계학습을 위한 수학](https://forums.alina.ai/t/probability-distribution/103)
 * [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
-* **[An end to end implementation of a Machine Learning pipeline](https://spandan-madan.github.io/DeepLearningProject/)**
+* [**An end to end implementation of a Machine Learning pipeline**](https://spandan-madan.github.io/DeepLearningProject/)
 * [How to Code Neat Machine Learning Pipelines](https://www.neuraxio.com/en/blog/neuraxle/2019/10/26/neat-machine-learning-pipelines.html)
 * [머신러닝 강의 모음](https://www.facebook.com/notes/artificial-intelligence-in-korea/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%9D%98-%EB%AA%A8%EC%9D%8C/1700044490215295)
 * [머신러닝, 제대로 배우는 법](https://brunch.co.kr/@aidenswmo/2)
@@ -56,11 +56,11 @@ Machine Learning
 * [The Data Fabric for Machine Learning. Part 1.](https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-1-2c558b7035d7)
 * [기계 학습 기초](http://letsgoturing.tistory.com/9)
 * [통계 학습이란](http://bywords.tistory.com/entry/Statistical-Learning-1-Introduction)
-* **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
+* [**기본적인 머신러닝과 딥러닝 강의**](http://hunkim.github.io/ml/)
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
   * [Learning Machine Learning with TensorFlow](https://github.com/golbin/TensorFlow-ML-Exercises)
-  * **[머신러닝 목차](http://pythonkim.tistory.com/notice/25)**
+  * [**머신러닝 목차**](http://pythonkim.tistory.com/notice/25)
 * [인공지능을 위한 머신러닝 알고리즘](https://tacademy.sktechx.com/live/player/onlineLectureDetail.action?seq=103)
 * [기계학습의 발전 동향, 산업화 사례 및 활성화 정책 방향 – 딥러닝 기술을 중심으로](http://spri.kr/post/16757)
 * [세상에 있는 (거의) 모든 머신러닝 문제 공략법](http://keunwoochoi.blogspot.com/2016/08/blog-post.html)
@@ -268,12 +268,12 @@ Machine Learning
 * [Machine Learning - Authors and titles for recent submissions](https://arxiv.org/list/stat.ML/pastweek?show=45)
 * [Stock inference engine using Spring XD, Apache Geode / GemFire and Spark ML Lib. http://pivotal-open-source-hub.github.io/StockInference-Spark](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark)
 * [github.com/showcases/machine-learning](https://github.com/showcases/machine-learning)
-* **[머신 러닝](http://laonple.blog.me/220587920012)**
-* **[머신러닝 Class](http://laonple.blog.me/220925179894)**
+* [**머신 러닝**](http://laonple.blog.me/220587920012)
+* [**머신러닝 Class**](http://laonple.blog.me/220925179894)
 * [Machine Learning Tutorial](http://www.hub4tech.com/machine-learning-tutorial)
 * [Logistic Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTeJk49TeWJPVjpKuhKgZucU)
 * [Logistic regression](https://mlalgorithm.wordpress.com/2016/06/13/logistic-regression/)
-* **[Logistic Regression](https://b.luavis.kr//ml/Logistic-regression)**
+* [**Logistic Regression**](https://b.luavis.kr//ml/Logistic-regression)
 * [Solving Logistic Regression with Newton's Method](http://thelaziestprogrammer.com/sharrington/math-of-machine-learning/solving-logreg-newtons-method)
 * [Deployment of Web App + ML Model + APIs — Tutorial - Learn how to deploy a web app served by a Logistic Regression Model. We will create an app to predict the probability of a Data Scientist earn more than USD 100k per year](https://towardsdatascience.com/simple-deployment-of-web-app-ml-model-apis-tutorial-2ece8e66d98c)
 * [Putting Machine Learning Models into Production](https://blog.cloudera.com/blog/2019/06/putting-machine-learning-models-into-production)
@@ -341,7 +341,7 @@ Machine Learning
 * [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
 * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
-* **[해커에게 전해들은 머신러닝](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)**
+* [**해커에게 전해들은 머신러닝**](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
 * [Machine Learning: A Complete and Detailed Overview](http://www.kdnuggets.com/2016/10/machine-learning-complete-detailed-overview.html)
 * [The 10 main takeaways from MLconf SF](https://tryolabs.com/blog/2016/11/18/10-main-takeaways-from-mlconf/)
 * 한국어 머신러닝, 딥러닝, 텐서플로 강의 링크
@@ -404,7 +404,7 @@ Machine Learning
 * [A Peek at Trends in Machine Learning](https://medium.com/@karpathy/a-peek-at-trends-in-machine-learning-ab8a1085a106)
   * [#20. 딥러닝 핫 키워드의 변화](http://t-robotics.blogspot.com/2017/04/20.html)
 * [Machine learning overview (infographic)](http://usblogs.pwc.com/emerging-technology/a-look-at-machine-learning-infographic/)
-* **[Machine learning methods (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)**
+* [**Machine learning methods (infographic)**](http://usblogs.pwc.com/emerging-technology/machine-learning-methods-infographic/)
 * [Machine learning evolution (infographic)](http://usblogs.pwc.com/emerging-technology/machine-learning-evolution-infographic/)
 * [INFOGRAPHIC: A BEGINNER’S GUIDE TO MACHINE LEARNING ALGORITHMS](http://dataconomy.com/2017/03/beginners-guide-machine-learning/)
 * [머신러닝 모델 개발 삽질 경험기](http://bcho.tistory.com/1174)
@@ -448,7 +448,7 @@ Machine Learning
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [developers.google.com/machine-learning/glossary](https://developers.google.com/machine-learning/glossary/)
   * [우리말 기계학습 용어집](https://www.codeonweb.com/@mookiekim/ml-glossary)
-* **[How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)**
+* [**How to unit test machine learning code**](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 * [심상진: Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.youtube.com/watch?v=gcSG-9b_TA4)
   * [Genetic Programming을 이용한 Machine Learning 모델 만들기](https://www.slideshare.net/secret/AHyZNmPopeMiaa)
 * [Expressivity, Trainability, and Generalization in Machine Learning](http://blog.evjang.com/2017/11/exp-train-gen.html)
@@ -502,8 +502,8 @@ Machine Learning
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)
 * [Machine Learning Tip : Using Rotational Data](https://towardsdatascience.com/machine-learning-tip-using-rotational-data-b67ded0a33ad)
 * [Preparing your data for Machine Learning](https://medium.com/ai%C2%B3-theory-practice-business/preparing-your-data-for-machine-learning-46d22eebfef) marking, filtering, feature extraction
-* **[작정하고 쓰는 머신러닝 강의 비판 (1)](https://pabii.co/fraud-in-machine-learning-classes/)**
-* **[작정하고 쓰는 머신러닝 강의 비판 (2)](https://pabii.co/fraud-in-machine-learning-classes-2/)**
+* [**작정하고 쓰는 머신러닝 강의 비판 (1)**](https://pabii.co/fraud-in-machine-learning-classes/)
+* [**작정하고 쓰는 머신러닝 강의 비판 (2)**](https://pabii.co/fraud-in-machine-learning-classes-2/)
 * [작정하고 쓰는 머신러닝 강의 수강생 비판 (feat.  꼰대)](https://pabii.co/data-science-right-vs-wrong-people/)
 * Understanding Feature Engineering
   * [(Part 1) — Continuous Numeric Data Strategies for working with continuous, numerical data](https://towardsdatascience.com/understanding-feature-engineering-part-1-continuous-numeric-data-da4e47099a7b)
@@ -533,7 +533,7 @@ Machine Learning
 * [머신러닝 단기집중과정 - 텐서플로우 API 사용 Google의 실용적인 머신러닝 속성 입문 과정](https://developers.google.com/machine-learning/crash-course/)
 * [Machine Learning for source code analysis - Alexander Bezzubov - FOSSASIA Summit 2017](https://www.youtube.com/watch?v=M_hOn-Ren1M)
 * [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)
-* **[머신러닝 무엇이 중요한가(데이타야놀자)](https://www.slideshare.net/Byungwook/ss-80842059)**
+* [**머신러닝 무엇이 중요한가(데이타야놀자)**](https://www.slideshare.net/Byungwook/ss-80842059)
 * [Cracking the Machine Learning Interview](https://medium.com/subhrajit-roy/cracking-the-machine-learning-interview-1d8c5bb752d8)
 * [Machine Learning: how to go from Zero to Hero](https://medium.freecodecamp.org/machine-learning-how-to-go-from-zero-to-hero-40e26f8aa6da)
 * [Machine Learning for Drummers](http://blog.petersobot.com/machine-learning-for-drummers)
@@ -779,17 +779,17 @@ Machine Learning
   * [Classify Dart Throwers](https://github.com/ben519/MLPB/tree/master/Problems/Classify%20Dart%20Throwers)
 * [Kaggle Python Tutorial on Machine Learning](https://www.datacamp.com/community/open-courses/kaggle-python-tutorial-on-machine-learning)
 * [The Nature Conservancy Fisheries Monitoring Competition, 1st Place Winner's Interview: Team 'Towards Robust-Optimal Learning of Learning'](http://blog.kaggle.com/2017/07/07/the-nature-conservancy-fisheries-monitoring-competition-1st-place-winners-interview-team-towards-robust-optimal-learning-of-learning/)
-* **[PYCON KOREA 2017 Python 입문자의 Data Science(Kaggle) 도전](https://www.slideshare.net/ParkMijeong/pycon-korea-2017-python-data-sciencekaggle)**
+* [**PYCON KOREA 2017 Python 입문자의 Data Science(Kaggle) 도전**](https://www.slideshare.net/ParkMijeong/pycon-korea-2017-python-data-sciencekaggle)
   * [pycon_korea_2017_Kaggle_tutorial.ipynb](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_Kaggle_tutorial.ipynb)
   * [pycon_korea_2017_aws_tutorial.ipynb](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_aws_tutorial.ipynb)
   * [‘얼리또라이’의 데이터 공부 도전기](http://www.bloter.net/archives/288037)
-* **[grt123's winning submission for the Kaggle Data Science Bowl 2017](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)**
+* [**grt123's winning submission for the Kaggle Data Science Bowl 2017**](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)
 * [mlchallenge2017.com](https://mlchallenge2017.com/)
 * [캐글 (Kaggle) 소개 - 데이터 과학 (머신러닝) 실전 예제 다루기](https://www.youtube.com/watch?v=9GWb9yNcsvc)
 * [데이터 보는 마케터가 꼭 해봐야 할 캐글 경진대회](https://brunch.co.kr/@ehfk9712/12)
 * [Who is the "Kaggler"? Let's see them with survey!](https://www.kaggle.com/youhanlee/who-is-the-kaggler-let-s-see-them-with-survey/)
-* **[Kaggle-knowhow](https://github.com/zzsza/Kaggle-knowhow)**
-* **[캐글 뽀개기](http://jybaek.tistory.com/685)**
+* [**Kaggle-knowhow**](https://github.com/zzsza/Kaggle-knowhow)
+* [**캐글 뽀개기**](http://jybaek.tistory.com/685)
 * [For Beginner To Learn Basic Statistical Analysis](https://www.kaggle.com/caicell/for-beginner-to-learn-basic-statistical-analysis/)
 * [Item Condition & Brand Effect to Price](https://www.kaggle.com/caicell/item-condition-brand-effect-to-price)
 * [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
@@ -936,7 +936,7 @@ Machine Learning
     * [(Part 2.2)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-2-dceff1a12a12)
     * [A Guide to using Logistic Regression for Digit Recognition (with Python codes)](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe)
     * [Learn how to Build Neural Networks from Scratch in Python for Digit Recognition](https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5)
-  * **[Machine Learning 정리](http://soopsaram.com/ml/)**
+  * [**Machine Learning 정리**](http://soopsaram.com/ml/)
 * [Learning from Data - Yaser S. Abu-MostafaYaser S. Abu-Mostafa Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
 * [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
 * [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
@@ -957,7 +957,7 @@ Machine Learning
 * [**A practical approach to machine learning**](https://practicalai.me/)
 
 # Python
-* **[Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning](https://github.com/eriklindernoren/ML-From-Scratch)**
+* [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
 * [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b)
 * [Simple Machine Learning Model in Python in 5 lines of code](https://medium.com/towards-data-science/simple-machine-learning-model-in-python-in-5-lines-of-code-fe03d72e78c6)
 * [Your First Machine Learning Project in Python Step-By-Step](http://machinelearningmastery.com/machine-learning-in-python-step-by-step/)
@@ -1047,11 +1047,11 @@ Machine Learning
   * [Scikit-Learn Cheat Sheet: Python Machine Learning](https://www.datacamp.com/community/blog/scikit-learn-cheat-sheet)
   * [Data science in Python: pandas, seaborn, scikit-learn](https://www.youtube.com/watch?v=3ZWuPVWq7p4)
     * [Jupyter notebooks from the scikit-learn video series http://bit.ly/scikit-learn-videos](https://github.com/justmarkham/scikit-learn-videos)
-  * **[Python Machine Learning: Scikit-Learn Tutorial](https://www.datacamp.com/community/tutorials/machine-learning-python)**
+  * [**Python Machine Learning: Scikit-Learn Tutorial**](https://www.datacamp.com/community/tutorials/machine-learning-python)
   * [Scikit-Learn Cheat Sheet: Python Machine Learning](http://blog.yhat.com/posts/scikit-learn-cheat-sheet.html)
   * [Learning to rank with Python scikit-learn](https://medium.com/towards-data-science/learning-to-rank-with-python-scikit-learn-327a5cfd81f)
-  * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1)**
-  * **[Scikit-Learn Tutorial: Baseball Analytics in Python Pt 2](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2)**
+  * [**Scikit-Learn Tutorial: Baseball Analytics in Python Pt 1**](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-1)
+  * [**Scikit-Learn Tutorial: Baseball Analytics in Python Pt 2**](https://www.datacamp.com/community/tutorials/scikit-learn-tutorial-baseball-2)
   * [Scikit-learn Tutorial](https://github.com/jakevdp/sklearn_tutorial)
   * [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
   * [Machine Learning with Text in scikit-learn (PyCon 2016)](https://www.youtube.com/watch?v=ZiKMIuYidY0)
@@ -1148,7 +1148,7 @@ Machine Learning
 * [Tutorial](http://deeplearning.net/software/theano/tutorial/)
 * [Practical Theano Tutorial](https://www.youtube.com/watch?v=SMpPaSpCaAo)
 * [brutally short intro to theano word embeddings](http://matpalm.com/blog/2015/03/28/theano_word_embeddings/)
-* [윈도우에서 Theano 설치하기](https://gist.github.com/hyunjun/5ae30a7de71fbb11404c)
+* [practice - 윈도우에서 Theano 설치하기](https://gist.github.com/hyunjun/5ae30a7de71fbb11404c)
 * [Deep Learning, Jumpto with Theano](https://github.com/dsindex/blog/wiki/%5Btheano%5D--Deep-Learning,-Jumpto-with-Theano)
 * [jaeho-kang/deep-learning](https://github.com/jaeho-kang/deep-learning/tree/master/Theano)
 * [Faster deep learning with GPUs and Theano](http://blog.dominodatalab.com/gpu-computing-and-deep-learning/)

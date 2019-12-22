@@ -306,7 +306,7 @@ Go
   * between writing concurrent programs and the real world
 * [GopherCon 2017: Kavya Joshi - Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
   * A deep dive into the channel implementation in Go
-* **[Simulating A Real-World System (Coffee Shop) In Go](https://www.youtube.com/watch?v=jJS6G7irZSc)**
+* [**Simulating A Real-World System (Coffee Shop) In Go**](https://www.youtube.com/watch?v=jJS6G7irZSc)
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
 * [Go runtime AND goroutine](https://jusths.tistory.com/142)
@@ -414,7 +414,7 @@ Go
 * [Kashmir is a LISP-inspired language with static typing that compiles to native code using Go](https://owickstrom.github.io/kashmir/)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [lilliput - Resize images and animated GIFs in Go](https://github.com/discordapp/lilliput)
-  * **[How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)**
+  * [**How Discord Resizes 150 Million Images Every Day with Go and C++**](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
     * python service를 go로 바꾸는 과정에서 발생한 여러가지 기술 문제들을 자세히 설명하는 좋은 글
 * [linda - Multi-platform, highly configurable conference bot](https://github.com/kpashka/linda)
 * [Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger](https://github.com/Sirupsen/logrus)

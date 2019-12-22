@@ -255,7 +255,7 @@ App
 * [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 * [EpubPress - Vue.js 한국어 문서 전자책으로 만들기](https://vuejs-kr.github.io/vue/epub/2017/05/10/introduce-generate-vue-book/)
-* **[one-tab.com](https://www.one-tab.com/)**
+* [**one-tab.com**](https://www.one-tab.com/)
 * [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
 * [크롬 개발자 도구 다루기 #1편](http://tmondev.blog.me/221158360917)
 * [크롬 개발자 도구 다루기 #2편](http://tmondev.blog.me/221161341311)
@@ -286,7 +286,7 @@ App
   * [개발자를 위한 소소한 개발툴 활용팁](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20150723104930)
 * [A better web development workflow: Confluence, Airtable, Jira and Abstract](https://medium.freecodecamp.org/a-better-web-development-workflow-confluence-airtable-jira-abstract-e626ef4ff5bc)
 * [Personal Setup](https://github.com/opnay/PersonalSetup) linux program & configuration
-* **[Improve your workflow with these awesome CLI tools](https://medium.freecodecamp.org/improve-your-workflow-with-these-awesome-cli-tools-fc3750cbb2bf)**
+* [**Improve your workflow with these awesome CLI tools**](https://medium.freecodecamp.org/improve-your-workflow-with-these-awesome-cli-tools-fc3750cbb2bf)
   * Wuzz — terminalized Postman등 여러가지 유용한 CLI tool
 * [태블릿으로 원격 프로그래밍이 하고 싶어요](https://javaxer.blogspot.com/2018/10/blog-post.html)
 * [7 Amazing Developer Tools that you're not using yet](https://www.youtube.com/watch?v=U_gANjtv28g)
@@ -317,7 +317,7 @@ App
 ## Development Project Management
 * [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
-  * **[Airtable](https://airtable.com/)**, Zenkit, Notion, Coda
+  * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
 * [monday.com](https://monday.com/)
 
 ## Development Rest client
@@ -494,7 +494,7 @@ App
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 
 # Mac
-* **[practice - 최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)**
+* [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
   * [practice - (old) Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
   * [practice - 한글 전환키 변경](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-korean_shortcut-md)
@@ -572,7 +572,7 @@ App
 * [hyperterm.org](https://hyperterm.org)
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
 * [IINA - The modern media player for macOS](https://iina.io/)
-* **[KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)](https://github.com/newmarcel/KeepingYouAwake)**
+* [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
@@ -588,14 +588,14 @@ App
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
 * [monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
 * [mounty - 무료 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)
-* **[nearlock.me](http://nearlock.me/)**
+* [**nearlock.me**](http://nearlock.me/)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
 * [Rocket Fuel](https://itunes.apple.com/app/rocket-fuel/id1114196460) prevents your Mac from going to sleep or dimming its display
 * Screencast
-  * **[OS X Screencast to animated GIF](https://gist.github.com/dergachev/4627207)**
+  * [**OS X Screencast to animated GIF**](https://gist.github.com/dergachev/4627207)
   * [Screencasting with free software](http://edouard.peller.in/2016/03/12/screencasting-with-free-software.html)
   * [Making Your Code Beautiful](https://hackernoon.com/presenting-your-code-beautifully-fdbab9e6fb68) gist, carbon, asciinema, svg-term, screenflow
   * [carbon - Create and share beautiful images of your source code](https://carbon.now.sh)
@@ -611,18 +611,18 @@ App
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
-* **[Spectacle](https://github.com/eczarny/spectacle)**
+* [**Spectacle**](https://github.com/eczarny/spectacle)
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
-* **[Where Is My Mouse?](http://macnews.tistory.com/4007)**
+* [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
 
 ## development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
-* **[본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)**
+* [**본격 macOS에 개발 환경 구축하기**](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
   * oh-my-zsh
     * Insecure completion-dependent directories detected
       * [zsh compinit: insecure directories](https://stackoverflow.com/questions/13762280/zsh-compinit-insecure-directories)
@@ -642,7 +642,7 @@ App
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
 * [Mac에서 library not found for lgfortran 에러 해결하기](https://lumiamitie.github.io/r/mac-lgfortran/)
-* **[CLI: improved](https://remysharp.com/2018/08/23/cli-improved)** default보다 나은 command line tool 설명
+* [**CLI: improved**](https://remysharp.com/2018/08/23/cli-improved) default보다 나은 command line tool 설명
 * [How to free up space on your developer Mac](https://medium.freecodecamp.org/how-to-free-up-space-on-your-developer-mac-f542f66ddfb)
 * [How to set up your Mac for Web Development](https://medium.com/free-code-camp/how-to-set-up-your-mac-for-web-development-b40bebc0cac3)
 * [Developer turns the MacBook Pro Touch Bar into a Taskbar in Windows 10](https://www.notebookcheck.net/Developer-turns-the-MacBook-Pro-Touch-Bar-into-a-Taskbar-in-Windows-10.428205.0.html)
@@ -706,7 +706,7 @@ App
   * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
-  * **[Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'](http://macnews.tistory.com/2558)**
+  * [**Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'**](http://macnews.tistory.com/2558)
   * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer)
   * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg)
   * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio)
@@ -741,7 +741,7 @@ App
 * [coggle.it](https://coggle.it/)
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
-* **[draw.io](https://www.draw.io/)**
+* [**draw.io**](https://www.draw.io/)
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
   * [Diagramming with Precursor](https://precursorapp.com/blog/diagramming-with-precursor)
 * [Eve](https://github.com/witheve/Eve)
@@ -750,7 +750,7 @@ App
 * [lucid chart](https://www.lucidchart.com)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
-* **[Pencil Project](http://pencil.evolus.vn/)**
+* [**Pencil Project**](http://pencil.evolus.vn/)
   * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
 * [PlantText UML Editor](http://www.planttext.com/)
 * [plant UML](http://plantuml.com/)
@@ -834,7 +834,7 @@ App
 * [MarkdownEditors](https://techstory.shma.so/markdowneditors-c174fb4896ff) android
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
-* **[prose.io](http://prose.io)** github
+* [**prose.io**](http://prose.io) github
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
 
 # Office
@@ -891,7 +891,7 @@ App
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
-* **[SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key](https://sharpkeys.codeplex.com/)**
+* [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 * [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)

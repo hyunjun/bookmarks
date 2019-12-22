@@ -15,7 +15,7 @@ Javascript
 * 자바스크립트는 어떻게 작동하는가
   * [엔진, 런타임, 콜스택 개관](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%97%94%EC%A7%84-%EB%9F%B0%ED%83%80%EC%9E%84-%EC%BD%9C%EC%8A%A4%ED%83%9D-%EA%B0%9C%EA%B4%80-ea47917c8442)
   * [V8 엔진의 내부 + 최적화된 코드를 작성을 위한 다섯 가지 팁](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%82%B4%EB%B6%80-%EC%B5%9C%EC%A0%81%ED%99%94%EB%90%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-%ED%8C%81-6c6f9832c1d9)
-  * **[메모리 관리 + 4가지 흔한 메모리 누수 대처법](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)**
+  * [**메모리 관리 + 4가지 흔한 메모리 누수 대처법**](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-4%EA%B0%80%EC%A7%80-%ED%9D%94%ED%95%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%8C%80%EC%B2%98%EB%B2%95-5b0d217d788d)
     * [How JavaScript works: memory management + how to handle 4 common memory leaks](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
   * [이벤트 루프와 비동기 프로그래밍의 부상, async/await을 이용한 코딩 팁 다섯 가지](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84%EC%99%80-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EB%B6%80%EC%83%81-async-await%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%94%EB%94%A9-%ED%8C%81-%EB%8B%A4%EC%84%AF-%EA%B0%80%EC%A7%80-df65ffb4e7e)
   * [웹소켓 및 HTTP/2 SSE](https://engineering.huiseoul.com/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%91%EB%8F%99%ED%95%98%EB%8A%94%EA%B0%80-%EC%9B%B9%EC%86%8C%EC%BC%93-%EB%B0%8F-http-2-sse-1ccde9f9dc51)
@@ -29,12 +29,12 @@ Javascript
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
-* **[Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)**
+* [**Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다**](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)
 * [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 * [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 * [The V8 Engine and JavaScript Optimization Tips](https://alligator.io/js/v8-engine/)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
-* **[30 Day Vanilla JS Coding Challenge](https://javascript30.com/)**
+* [**30 Day Vanilla JS Coding Challenge**](https://javascript30.com/)
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
 * 초보자를 위한 바닐라 자바스크립트
@@ -247,7 +247,7 @@ Javascript
 * [Four for's 자바스크립트의 네 가지 for 문](https://brunch.co.kr/@linterpreteur/9)
 * [자바스크립트에서 for 루프를 다시 생각해보자](http://hamait.tistory.com/889)
 * [Hacks on YouTube Mozilla Korea Community on Slack Hacks RSS Feed JavaScript 게임의 컨트롤 메카니즘](http://hacks.mozilla.or.kr/2016/11/control-mechanisms-in-javascript-games)
-* **[하나의 생태계는 어떻게 갈라파고스화 되어 가는가?](http://seokjun.kr/how-to-make-galapagos/)**
+* [**하나의 생태계는 어떻게 갈라파고스화 되어 가는가?**](http://seokjun.kr/how-to-make-galapagos/)
 * [Javascript Study Guide (자바스크립트 학습방법 정리 - 책 추천, 사이트 정보)](http://upbeat-sound.tistory.com/m/15)
 * [Javascript #1 - 맛보기](https://nhnent.dooray.com/share/posts/nuu9HFvCRV2oVlrOWNkQeQ)
 * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
@@ -330,12 +330,12 @@ Javascript
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
 * [Diving Deeper in JavaScripts Objects A Closer Look at JavaScript Object Descriptors](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
-* **[자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)**
+* [**자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정**](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
 * [JavaScript로 세상을 지배하는 법](http://blog.puding.kr/186)
 * [webstorm에서 ECMAScript6 문법 사용 설정](http://blog.naver.com/agilesoft/220983638376)
-* **[Javascript Image Filter 만들기](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-%EB%A7%8C%EB%93%A4%EA%B8%B0)**
+* [**Javascript Image Filter 만들기**](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [Javascript Image Filter - convolution](http://dev-momo.tistory.com/entry/Javascript-Image-Filter-convolve)
 * [자바스크립트 실행 문맥(Execution Context)의 기본동작](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
 * [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
@@ -368,7 +368,7 @@ Javascript
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
-* **[최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)**
+* [**최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기**](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)
 * [(1부) 프론트엔드 개발 3년차가 말하는 프론트엔드 개발 공부 후기 (라고 쓰고 기초 가이드라고 부르자)](https://www.youtube.com/watch?v=P11h_P1NIb4)
 * [DOM이 뭐죠? jQuery는 왜들 그렇게 좋아한대요? (DOM 공부를 매우 권함 #0)](https://www.youtube.com/watch?v=PizkhskZrKk)
 * [(2부) 프론트엔드 개발자의 CSS in 치앙마이 - 프론트엔드 개발 공부 기초 가이드](https://www.youtube.com/watch?v=X3nszB4g5f0)
@@ -436,7 +436,7 @@ Javascript
   * [fkkmemi.github.io/categories/#nembv](https://fkkmemi.github.io/categories/#nembv)
 * [리액트, 노드 백엔드 통합 후 CI 연동하기](http://blog.jeonghwan.net/2018/08/19/express-travis-beanstalk.html)
 * [네이버페이 JavaScript SDK 개발기](https://d2.naver.com/helloworld/2351859)
-* **[33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)**
+* [**33 Concepts Every JavaScript Developer Should Know**](https://github.com/leonardomso/33-js-concepts)
   * [모든 자바스크립트 개발자가 알아야 하는 33가지 개념](https://github.com/yjs03057/33-js-concepts)
 * [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
 * [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
@@ -867,7 +867,7 @@ Javascript
 * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 * [Refetch Strategies for Apollo’s GraphQL client](https://hackernoon.com/refetch-strategies-for-apollos-graphql-client-248a449734cd)
 * [Apollo Client는 Redux와 무엇이 다른가](https://d2.naver.com/helloworld/4245995)
-* **[Moving Existing API From REST To GraphQL](https://www.youtube.com/watch?v=broQmxQAMjM)**
+* [**Moving Existing API From REST To GraphQL**](https://www.youtube.com/watch?v=broQmxQAMjM)
 * [From REST To GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 * [REST vs. GraphQL: Critical Look](https://www.youtube.com/watch?v=yLf0rIaRtRc)
 * [Lessons from 4 Years of GraphQL](https://www.youtube.com/watch?v=zVNrqo9XGOs)
@@ -888,7 +888,7 @@ Javascript
 * [Gulp로 구성한 퍼블리싱 개발 환경](https://rhostem.github.io/posts/2018-05-20-gulp-static-site/)
 
 # [JQuery](http://jquery.com/)
-* **[DataTables](http://datatables.net/)**
+* [**DataTables**](http://datatables.net/)
 * [반응형 사진 슬라이더 jQuery 플러그인 소스 28개](http://somgle.tistory.com/107)
 * [jQueryUI 로 Drag&Drop 메뉴 개발하기](https://brunch.co.kr/@ourlove/77)
 * [dynamic select box 제대로 구현하기](https://brunch.co.kr/@ourlove/82)
@@ -903,7 +903,7 @@ Javascript
 * [IE의 ajax 캐시 이슈를 처리하는 방법](http://jeonghwan-kim.github.io//dev/2019/08/12/ie-cache.html)
 
 # Library
-* **[RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io ](https://github.com/gothinkster/realworld)**
+* [**RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io **](https://github.com/gothinkster/realworld)
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
 * [The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
 * [A Real-World Comparison of Front-End Frameworks with Benchmarks (2018 update)](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962)
@@ -1304,7 +1304,7 @@ Javascript
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [WEB2 - Node.js](https://opentutorials.org/course/3332)
-* **[The definitive Node.js handbook](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)**
+* [**The definitive Node.js handbook**](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 * [Node.js - 쿠키와 인증](https://opentutorials.org/course/3387)
 * [What exactly is Node.js?](https://medium.freecodecamp.org/what-exactly-is-node-js-ae36e97449f5)
 * [Node.js Tutorial for Beginners: Learn Node in 1 Hour](https://www.youtube.com/watch?v=TlB_eWDSMt4)
@@ -1394,7 +1394,7 @@ Javascript
 * [TDD 및 BDD 추가 설명](http://blog.naver.com/pjt3591oo/220603731999)
 * [nodebb-docker-dev - A docker chain of Nginx, NodeBB, Redis based on Alpine Linux for mainly developments and small standalone service](https://github.com/qgp9/nodebb-docker-dev)
 * [Real-Time Analytics Dashboard with NodeJs, Socket.io, VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/)
-* **[클라우드 컴퓨팅 & NoSQL/Vert.x & Node.js](http://bcho.tistory.com/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%26%20NoSQL/Vert.x%20%26%20Node.js)**
+* [**클라우드 컴퓨팅 & NoSQL/Vert.x & Node.js**](http://bcho.tistory.com/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%20%26%20NoSQL/Vert.x%20%26%20Node.js)
 * [Node.js로 5분안에 봇 만들기](http://blog.rootree.net/2016/05/31/facebook-bot-in-5minutes/)
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [Node.js 에서 한글 인코딩 문제 해결하기](https://dobest.io/nodejs-euckr-encoding/)
@@ -1700,10 +1700,10 @@ Javascript
 * [React JS 정리](https://m.blog.naver.com/hji7000/220645115819)
 * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
   * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/stack/languages/korean/book/Intro.html)
-* **[Teaching React Without Using React](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)**
+* [**Teaching React Without Using React**](https://medium.com/@ericclemmons/teaching-react-without-using-react-a4b87cfd4e87)
 * [All the fundamental React.js concepts, jammed into this single Medium article](https://medium.freecodecamp.org/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2)
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
-* **[Building Your First React.js App](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)**
+* [**Building Your First React.js App**](https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc)
 * [Learn React.JS in 8 Minutes](https://medium.com/learning-new-stuff/learn-react-js-in-7-min-92a1ef023003)
 * [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4)
 * [How to React](https://blog.kentcdodds.com/how-to-react-%EF%B8%8F-9e87f48414d2)
@@ -1885,7 +1885,7 @@ Javascript
 * [react-lifecycle-methods-diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
 * [React LifeCycle이란](http://blog.myeongsku.com/19)
 * [라이프 사이클](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
-* **[React로 만든 프로젝트 톺아보기](http://blog.jeonghwan.net/2018/07/16/react-app-overview.html)**
+* [**React로 만든 프로젝트 톺아보기**](http://blog.jeonghwan.net/2018/07/16/react-app-overview.html)
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
   * [React 개발자 로드맵](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-KO.md)
 * [super-simple-react-starter -  A simple react project starter kit with best practices](https://github.com/myungjaeyu/super-simple-react-starter)
@@ -1898,7 +1898,7 @@ Javascript
 * [A Complete Beginner’s Guide to React](https://medium.freecodecamp.org/a-complete-beginners-guide-to-react-4d490abc349c)
 * [Angular5 -> React + next.js 로 프로젝트 갈아 엎은 썰 (Angular vs React 개인적 비교)](http://kokohapps.tistory.com/entry/Angular5-React-nextjs-%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%88%EC%95%84-%EC%97%8E%EC%9D%80-%ED%9B%84%EA%B8%B0)
 * [다시 시작하기](http://mobicon.tistory.com/548)
-* **[스프링 부트 + 리액트 개발 셋업 2018](https://start.goodtime.co.kr/2018/09/%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8-%eb%a6%ac%ec%95%a1%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%85%8b%ec%97%85-2018/)**
+* [**스프링 부트 + 리액트 개발 셋업 2018**](https://start.goodtime.co.kr/2018/09/%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8-%eb%a6%ac%ec%95%a1%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%85%8b%ec%97%85-2018/)
 * [리액트 프로젝트 코드 스플리팅 정복하기](https://velog.io/@velopert/react-code-splitting)
 * [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
 * [Introducing Hooks](https://reactjs.org/docs/hooks-intro.html)
@@ -2224,7 +2224,7 @@ Javascript
   * [Why you should use GatsbyJS to build static sites](https://medium.freecodecamp.org/why-you-should-use-gatsbyjs-to-build-static-sites-4f90eb6d1a7b)
   * [How to animate page transitions in Gatsby.js](https://medium.freecodecamp.org/how-to-animate-page-transitions-in-gatsby-js-b36e3ae14c29)
   * [How to quickly set up a Gatsby.js JAMstack website with a headless CMS](https://hackernoon.com/how-to-quickly-set-up-a-gatsby-js-jamstack-website-with-a-headless-cms-4a3b51d67e5e)
-  * **[정적 사이트 생성기 Gatsby](https://blog.outsider.ne.kr/1426)** 제목과 달리 단순한 정적 사이트 생성기가 아니라는 글
+  * [**정적 사이트 생성기 Gatsby**](https://blog.outsider.ne.kr/1426) 제목과 달리 단순한 정적 사이트 생성기가 아니라는 글
   * [How to get started with Gatsby 2 and Redux](https://medium.freecodecamp.org/how-to-get-started-with-gatsby-2-and-redux-ae1c543571ca)
   * [How to create a searchable log with Gatsby](https://medium.freecodecamp.org/how-to-create-a-searchable-log-with-gatsby-d624bf3a05af)
   * [Creating a localised website using Gatsby and Cosmic JS](https://hackernoon.com/creating-a-localised-website-using-gatsby-and-cosmic-js-6d2bdba0366b)

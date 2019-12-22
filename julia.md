@@ -127,7 +127,7 @@ Julia
   * [Flux: Machine Learning with Julia](https://discourse.julialang.org/t/flux-machine-learning-with-julia/2382)
   * [Char RNN](http://mikeinnes.github.io/Flux.jl/latest/examples/char-rnn.html)
 * [GLVisualize - 3D visualization library](http://www.glvisualize.com/)
-* **[Juno is a powerful, free environment for the Julia language](http://junolab.org/)**
+* [**Juno is a powerful, free environment for the Julia language**](http://junolab.org/)
 * [JuliaDT - Introducing the Eclipse Julia plugin - JuliaDT](http://juliacomputing.com/blog/2016/02/06/Eclipse-JuliaDT.html)
 * [JuliaML](https://github.com/JuliaML)
   * [breloff.com/blog](http://www.breloff.com/blog/)

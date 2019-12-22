@@ -94,7 +94,7 @@ Algorithm
 * [Base64 알고리즘](http://minsone.github.io/programming/algorithm-base64-encoding-decoding)
 * [개미 수열을 푸는 10가지 방법](https://leanpub.com/programming-look-and-say/read_sample)
 * [ko.khanacademy.org/computing/computer-science/algorithms](https://ko.khanacademy.org/computing/computer-science/algorithms)
-* **[Algorithm Top 10 Articles (v.November)](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kb6z4cv91)**
+* [**Algorithm Top 10 Articles (v.November)**](https://medium.mybridge.co/algorithm-top-10-articles-v-november-e73cba2fa87e#.kb6z4cv91)
 * [2015 봄학기 알고리즘](https://www.youtube.com/playlist?list=PL52K_8WQO5oUuH06MLOrah4h05TZ4n38l)
 * [알고리즘 강의 알고리즘을 바라보는 눈](http://java7ang.tistory.com/7)
 * [Algorithm Study Day By Day](https://github.com/Eunsol-Lee/algorithmStudyDayByDay)
@@ -142,9 +142,9 @@ Algorithm
 * [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi)
   * [구글 또는 아마존에 다니는 경력 개발자들이 가장 유용하다고 생각하는 자료 구조는?](http://jhrogue.blogspot.kr/2018/04/b-quora.html)
 * [Shortest Range in K sorted lists](https://www.youtube.com/watch?v=Fqal25ZgEDo&t=3s)
-* **[qiao.github.io/PathFinding.js/visual](https://qiao.github.io/PathFinding.js/visual/)** 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
+* [**qiao.github.io/PathFinding.js/visual**](https://qiao.github.io/PathFinding.js/visual/) 각 길찾기 알고리즘의 동작을 보여주는 시뮬레이터
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
-* **[알고리즘 학습에 대한 조언](https://www.haruair.com/blog/4546)**
+* [**알고리즘 학습에 대한 조언**](https://www.haruair.com/blog/4546)
 * [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
 * [나도 해보는 Fizz Buzz Test](https://libsora.so/posts/fizz-buzz-01/)
 * [How to Skin a Cat: FizzBuzz in Five Languages](https://medium.com/quick-code/how-to-skin-a-cat-fizzbuzz-5-ways-dc4ec811bfcb)
@@ -156,7 +156,7 @@ Algorithm
 * [거니와 함께 배우는 알고리즘 체널, ALGOTOGETHER 체널에 오신것을 환영합니다!](https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA)
 * [A Short Summary of Smoothing Algorithms](https://opendatascience.com/a-short-summary-of-smoothing-algorithms/)
 * [Parse Tree](http://interactivepython.org/runestone/static/pythonds/Trees/ParseTree.html)
-* **[The Algorithms Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language](https://github.com/TheAlgorithms)**
+* [**The Algorithms Open Source Resource for Newbies to Learn Algorithms and Implement them in any Programming Language**](https://github.com/TheAlgorithms)
 * [Data Structure and Algorithms Tutorial](https://www.tutorialspoint.com/data_structures_algorithms)
 * [n개의 제비뽑기에 n번 도전](https://johngrib.github.io/wiki/frac1e/)
 * [Coding Your First Algorithm — Draw A Line](https://medium.freecodecamp.org/how-to-code-your-first-algorithm-draw-a-line-ca121f9a1395)
@@ -220,7 +220,7 @@ Algorithm
 * [Check In, Not Out](http://www.cockroachlabs.com/blog/scaling-raft/)
 * [Practical Byzantine Fault Tolerance](http://blog.acolyer.org/2015/05/18/practical-byzantine-fault-tolerance/)
 * [Byzantine Fault Tolerance 시스템에서 N = 3f + 1인 이유](https://blog.seulgi.kim/2018/04/byzantine-fault-tolerance-n-3f-1.html)
-* **[Byzantine Failure - 블록체인 개발이 어려운 이유](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)**
+* [**Byzantine Failure - 블록체인 개발이 어려운 이유**](https://blog.seulgi.kim/2018/05/byzantine-failure-why-blockchain-is-hard.html)
 * [Protecting Byzantine Fault Tolerance with Trusted Execution](https://hackernoon.com/protecting-byzantine-fault-tolerance-with-trusted-execution-743ab505cb2b)
 * [Instructors Guide to Raft](https://thesquareplanet.com/blog/instructors-guide-to-raft/)
 * [Raft - 이해하기 쉬운 consensus algorithm](http://blog.seulgi.kim/2017/11/raft-consensus-algorithm.html)
@@ -271,7 +271,7 @@ Algorithm
 * [Change the signs: how to use dynamic programming to solve a competitive programming question](https://medium.freecodecamp.org/just-change-the-signs-how-to-solve-a-competitive-programming-question-f9730e8f04a9)
 * [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296)
 * [hackerearth dynamic programming](https://www.hackerearth.com/practice/algorithms/dynamic-programming)
-* **[geeksforgeeks Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/)**
+* [**geeksforgeeks Dynamic Programming**](https://www.geeksforgeeks.org/dynamic-programming/)
 * [Follow these steps to solve any Dynamic Programming interview problem](https://medium.freecodecamp.org/follow-these-steps-to-solve-any-dynamic-programming-interview-problem-cc98e508cd0e)
 * [The Ultimate Guide to Dynamic Programming](https://www.byte-by-byte.com/dynamic-programming)
 * [Introduction to Dynamic Programming 1](https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1)
@@ -380,7 +380,7 @@ Algorithm
   * This article looks at why hash maps (unsorted) are popular for in-memory indexes whereas b-tree (sorted) are common in databases. It describes the trade-offs of the two approaches, and how those best fit in-memory/db use cases.
 
 ## Consistent Hashing
-* **[입 개발 Consistent Hashing 에 대한 기초](http://www.popit.kr/consistent-hashing/)**
+* [**입 개발 Consistent Hashing 에 대한 기초**](http://www.popit.kr/consistent-hashing/)
 * [The easiest consistent hashing](https://www.slideshare.net/charsyam2/the-easiest-consistent-hashing)
 * [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
 * [Consistent hashing, a guide & Go library](https://medium.com/@sent0hil/consistent-hashing-a-guide-go-implementation-fe3421ac3e8f)
@@ -435,7 +435,7 @@ Algorithm
 * [What are Bloom filters?](https://blog.medium.com/what-are-bloom-filters-1ec2a50c68ff)
 
 # Problems
-* **[A collection of algorithms](https://github.com/williamfiset/algorithms)**
+* [**A collection of algorithms**](https://github.com/williamfiset/algorithms)
 * [Balanced Brackets](http://astrod.github.io/2018/01/07/7.html)
 * [Project Euler # 43 in JavaScript — Sub-String Divisiblity in Pandigital Numbers](https://hackernoon.com/project-euler-43-in-javascript-1cc41be56aa2)
 * [Croatian Open Competition in Informatics(COCI) 문제 정리](https://gooddaytocode.blogspot.com/2016/09/coci.html)
@@ -516,7 +516,7 @@ Algorithm
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
   * [ppt](http://banyan.cm.nctu.edu.tw/computernetwork2/Aho-Corasick(15).ppt)
-  * **[cascading multi word multi pattern matching](https://github.daumkakao.com/index-shin/blog/wiki/cascading-multi-word-multi-pattern-matching)**
+  * [**cascading multi word multi pattern matching**](https://github.daumkakao.com/index-shin/blog/wiki/cascading-multi-word-multi-pattern-matching)
 * BM
   * [Boyer–Moore string search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)
 * [Fast Algorithms for Exact String Matching](http://arxiv.org/abs/1509.09228)
@@ -524,8 +524,8 @@ Algorithm
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * KMP Knuth-Morris-Pratt
   * [Knuth–Morris–Pratt algorithm](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm)
-  * **[KMP 알고리즘(Knuth–Morris–Pratt Algorithm)](https://kks227.blog.me/220917078260)**
-  * **[KMP : 문자열 검색 알고리즘](http://bowbowbow.tistory.com/6)**
+  * [**KMP 알고리즘(Knuth–Morris–Pratt Algorithm)**](https://kks227.blog.me/220917078260)
+  * [**KMP : 문자열 검색 알고리즘**](http://bowbowbow.tistory.com/6)
   * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search)](https://www.youtube.com/watch?v=GTJr8OvyEVQ)
   * [Knuth–Morris–Pratt(KMP) Pattern Matching(Substring search) Part2](https://youtu.be/KG44VoDtsAA)
 * Manacher's algorithm
@@ -562,7 +562,7 @@ Algorithm
 * [Binary tree traversal - breadth-first and depth-first strategies](https://www.youtube.com/watch?v=9RHO6jU--GU)
 * [How to calculate a Binary Tree’s height -Part 1: Using array iteration in Ruby](https://medium.freecodecamp.org/how-to-calculate-a-binary-trees-height-using-array-iteration-in-ruby-63551c6c65fe)
 * [How to Calculate Binary Tree height Part2: Using Recursion](https://medium.freecodecamp.org/how-to-calculate-binary-tree-height-with-the-recursive-method-aafc461f2201)
-* **[아는만큼 Search tree](https://hackerwins.github.io/2019-05-10/search-tree)**
+* [**아는만큼 Search tree**](https://hackerwins.github.io/2019-05-10/search-tree)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)

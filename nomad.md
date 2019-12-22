@@ -33,7 +33,7 @@ Nomad & Remote
 * [해외에서 프리랜서 개발자 되려면?](https://medium.com/@fantazic/%ED%95%B4%EC%99%B8-%ED%94%84%EB%A6%AC%EB%9E%9C%EC%84%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%90%98%EA%B8%B0-fe872add6a17)
 * [workhard anywhere](http://workhardanywhere.com/)
 * [The 25 Best Sites For Finding Remote Work](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
-* **[해외 취업하기 조사 자료](http://ninebear.tistory.com/174)** 오스트리아, 독일, 영국, 캐나다, 뉴질랜드, 호주
+* [**해외 취업하기 조사 자료**](http://ninebear.tistory.com/174) 오스트리아, 독일, 영국, 캐나다, 뉴질랜드, 호주
 * [게임회사 해외취업 자료조사](http://www.slideshare.net/ddayinhwang9/ss-59781151)
 * [g2crowd.com/best-software-companies](https://www.g2crowd.com/best-software-companies)
 * [www.facebook.com/digitalnomad.korea](https://www.facebook.com/digitalnomad.korea/)

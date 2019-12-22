@@ -107,7 +107,7 @@ Sports
 * [류현진 선발경기와 스탯캐스트 그리고 인공지능](http://techneedle.com/archives/36383)
 * [인천SK 야구 수학 토크콘서트, 두 마리 토끼를 잡다 고동현의 1인치](https://sports.v.daum.net/v/20180913172649154)
 * [Improving a Starting Pitcher Injury Model With Multiple Classifier Algorithms](https://www.fangraphs.com/tht/improving-a-starting-pitcher-injury-model-with-multiple-classifier-algorithms)
-* **[감독 뒷담화의 뒷담화](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16969108&memberNo=25448623)**
+* [**감독 뒷담화의 뒷담화**](https://m.post.naver.com/viewer/postView.nhn?volumeNo=16969108&memberNo=25448623)
 * [Predicting the 2018 Cy Young Race with Machine Learning](https://www.fangraphs.com/tht/cy-young-award-2018-blake-snell-jacob-degrom-max-scherzer/)
 * [WAR, WRC+, OPS+, DRS, UZR/150, 타구발사각도 등, 타자에 관한 야구용어 총정리 1편-WAR에 사용하는 지표와 계산과정](https://m.blog.naver.com/ljsmessi/221472834240)
 * [그래서, 그 공이 마지막에 어떻게 됐다는 건데?](http://www.yagongso.com/?p=8339)
@@ -115,16 +115,16 @@ Sports
 * [와인드업, 꼭 해야 할까?](http://www.yagongso.com/?p=9711) 고정관념에서 벗어나야 한다는 걸 다시 한 번 생각하게 하는 글
 
 # Basketball
-* **[Basketball Terms- Terminology](https://www.coachesclipboard.net/BasketballTerminology.html)** diagram으로 court위 명칭 설명
+* [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
 * [숫자로 보는 조던 vs 코비, 누가 더 뛰어난 선수인가?](http://ppss.kr/archives/36344)
 * [CHARACTERIZING THE SPATIAL STRUCTURE OF DEFENSIVE SKILL IN PROFESSIONAL BASKETBALL](http://arxiv.org/pdf/1405.0231v2.pdf)
 * [Free-Throw Distraction: The Best Fans in the N.C.A.A.](http://www.nytimes.com/2015/03/13/upshot/free-throw-distraction-the-best-fans-in-the-ncaa.html?abt=0002&abg=0&_r=2)
 * [NBA BACKCOURTS: ARE THE SPLASH BROS THE BEST GUARD DUO IN RECENT HISTORY?](http://tartansportsanalytics.com/2015/05/26/nba-backcourts-are-the-splash-bros-the-best-guard-duo-in-recent-history/)
 * [Phil Jackson Triangle Offencse](http://www.nytimes.com/2015/06/28/sports/basketball/phil-jackson-knicks-triangle-offense-nba.html)
 * [In Las Vegas, Korean Basketball League’s Draft Promises Money and Culture Shock](http://www.nytimes.com/2015/07/26/sports/basketball/in-las-vegas-korean-basketball-leagues-draft-promises-money-and-culture-shock.html?_r=0)
-* **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
+* [**How to Create NBA Shot Charts in Python**](http://savvastjortjoglou.com/nba-shot-sharts.html)
 * [농구있네 ⑥ 공을 만나러 가는 길](http://sports.news.naver.com/basketball/news/read.nhn?oid=430&aid=0000000479)
-* **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
+* [**Data Science How-To: Using Apache Spark for Sports Analytics**](https://content.pivotal.io/blog/how-data-science-assists-sports)
   * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 * [한국인 최초 NBA 데이터분석가 김재엽 “지금은 레이커스와 연애 중”](http://m.sports.naver.com/basketball/news/read.nhn?oid=430&aid=0000000564)
 * [한국 최초의 NBA 데이터 애널리스트 김재엽 인터뷰](https://ppss.kr/archives/170156)

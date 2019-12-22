@@ -44,12 +44,12 @@ Docker
 * [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics)
 * [Docker](https://github.com/sangyeol-kim/ausg-docker-seminar/tree/master/1.Docker)
 * [Docker](https://www.youtube.com/playlist?list=PLfI752FpVCS84hxOeCyI4SBPUwt4Itd0T) Docker, Kubernetes, google cloud 배포, Dockerfile 없이 image build
-* **[왜 굳이 도커(컨테이너)를 써야 하나요? 눈송이 서버의 한계를 넘어 컨테이너를 사용해야 하는 이유](https://www.44bits.io/ko/post/why-should-i-use-docker-container)**
+* [**왜 굳이 도커(컨테이너)를 써야 하나요? 눈송이 서버의 한계를 넘어 컨테이너를 사용해야 하는 이유**](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 * [stdout_013.log: 도커를 굳이 왜 사용해야하나요?](https://stdout.fm/13/)
 * [Docker 정리 #1 (개념 및 간단한 명령어 정리)](https://jungwoon.github.io/docker/2019/01/11/Docker-1/)
 * [Docker 정리 #2 (분리된 어플리케이션 컨테이너 만들기)](https://jungwoon.github.io/docker/2019/01/13/Docker-2/)
 * [Docker 정리 #3 (도커 볼륨)](https://jungwoon.github.io/docker/2019/01/13/Docker-3/)
-* **[Docker 정리 #4 (도커 네트워크)](https://jungwoon.github.io/docker/2019/01/13/Docker-4/)**
+* [**Docker 정리 #4 (도커 네트워크)**](https://jungwoon.github.io/docker/2019/01/13/Docker-4/)
 * [Docker 정리 #5 (도커 로깅)](https://jungwoon.github.io/docker/2019/01/13/Docker-5/)
 * [Docker 정리 #6 (도커 자원 할당 제어)](https://jungwoon.github.io/docker/2019/01/13/Docker-6/)
 * [Docker 정리 #7 (도커 이미지)](https://jungwoon.github.io/docker/2019/01/13/Docker-7/)
@@ -138,7 +138,7 @@ Docker
     * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
-  * **[jupyter-repo2docker](https://repo2docker.readthedocs.io)**
+  * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
     * [Docker for Data Science Without the Hassle](https://towardsdatascience.com/docker-without-the-hassle-b98447caedd8)
   * [JupyterHub Image with TensorFlow and PyTorch ](https://hub.docker.com/r/dakshoont/jupyterhub)
   * kafka
@@ -294,7 +294,7 @@ Docker
 * [2014 Red Hat Forum - Docker, 그 기발한 활용법 (부제 : dumpdocker – 자동덤프분석툴)](https://www.youtube.com/watch?v=Wk9LvdvI75A)
 * [Discovering Docker Datacenter](https://medium.com/lucjuggery/discovering-docker-datacenter-cf0daccddc41)
 * [개발자 장난감 시리즈, 시놀로지 NAS로 EC2 만들기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%9E%A5%EB%82%9C%EA%B0%90-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EC%8B%9C%EB%86%80%EB%A1%9C%EC%A7%80-nas%EB%A1%9C-ec2-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
-* **[Docker를 기반으로 다양한 데이터베이스 환경 통합하기](http://blog.chequer.io/archives/860)**
+* [**Docker를 기반으로 다양한 데이터베이스 환경 통합하기**](http://blog.chequer.io/archives/860)
 * [Introducing Docker 1.13](https://blog.docker.com/2017/01/whats-new-in-docker-1-13/)
 * [DevOps with Docker](https://readme.skplanet.com/?p=11449)
 * [도커 컨테이너 활용 사례 Codigm - 남 유석 개발팀장 :: AWS Container Day](http://www.slideshare.net/awskorea/codigm-aws-container-day)
@@ -328,7 +328,7 @@ Docker
 * [Docker를 이용한 크로스 컴파일 툴체인 이용하기](http://mcchae.egloos.com/11274635)
 * [CircleCI: 커스텀 도커 이미지로 어플리케이션 빌드 시간 단축하기](https://engineering.huiseoul.com/circleci-%EC%BB%A4%EC%8A%A4%ED%85%80-%EB%8F%84%EC%BB%A4-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B9%8C%EB%93%9C-%EC%8B%9C%EA%B0%84-%EB%8B%A8%EC%B6%95%ED%95%98%EA%B8%B0-5c3a889bd2f7)
 * [Docker for Data Science](https://towardsdatascience.com/docker-for-data-science-4901f35d7cf9)
-* **[Building Your Own Data Science Platform With Python & Docker](https://www.youtube.com/watch?v=NC2wXYHBrL0)**
+* [**Building Your Own Data Science Platform With Python & Docker**](https://www.youtube.com/watch?v=NC2wXYHBrL0)
   * [Beyond Jupyter Notebooks](https://github.com/jgoerner/beyond-jupyter)
 * [Docker 컨테이너 안에 jupyter 접속하기](https://jybaek.tistory.com/812) firewall 조작
 * [시스템 부팅시 도커 컨테이너 자동 실행](http://daddycat.blogspot.kr/2017/12/blog-post_21.html)
@@ -343,7 +343,7 @@ Docker
 * [Why Docker makes sense for startups](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
 * [A quick introduction to Docker tags](https://medium.freecodecamp.org/an-introduction-to-docker-tags-9b5395636c2a)
 * [XECon2015 :: 1-5 김훈민 - 서버 운영자가 꼭 알아야 할 Docker](https://www.youtube.com/watch?v=mECbDs9nPnM)
-* **[XECon2016 - GitHub + Jenkins + Docker로 자동배포 시스템 구축하기.  조정현](https://www.youtube.com/watch?v=ZM9sU3nqCMM)**
+* [**XECon2016 - GitHub + Jenkins + Docker로 자동배포 시스템 구축하기.  조정현**](https://www.youtube.com/watch?v=ZM9sU3nqCMM)
 * [docker를 활용한 서버 실습 환경 구축](https://www.youtube.com/watch?v=_uclvwOzgDY)
 * [Another reason why your Docker containers may be slow](https://hackernoon.com/another-reason-why-your-docker-containers-may-be-slow-d37207dec27f)
 * [Container people, let’s talk about serverless](https://hackernoon.com/container-people-lets-talk-about-serverless-e6ecb5c437cf)
@@ -355,15 +355,15 @@ Docker
 * [개발자가 처음 Docker 접할때 오는 멘붕 몇가지](https://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%B2%98%EC%9D%8C-docker-%EC%A0%91%ED%95%A0%EB%95%8C-%EC%98%A4%EB%8A%94-%EB%A9%98%EB%B6%95-%EB%AA%87%EA%B0%80%EC%A7%80)
 * [This Is How Docker Works, The Fun Way!](https://www.youtube.com/watch?v=-NzfOhSAZpA)
 * [docker container 활용 #1](http://www.ahnseungkyu.com/241) dockerd restart 없이 docker 데몬 옵션을 reload 하는 방법
-* **[docker container 활용 #2](http://www.ahnseungkyu.com/242)** docker process의 구성을 linux command로 살펴봄
-* **[docker container 활용 #3](http://www.ahnseungkyu.com/243)** docker process의 network을 linux command로 살펴봄
+* [**docker container 활용 #2**](http://www.ahnseungkyu.com/242) docker process의 구성을 linux command로 살펴봄
+* [**docker container 활용 #3**](http://www.ahnseungkyu.com/243) docker process의 network을 linux command로 살펴봄
 * [docker container 활용 #4](http://ahnseungkyu.com/244) CMD와 ENTRYPOINT
 * [docker container 활용 #5](http://ahnseungkyu.com/245) docker image size 줄이기
 * [Docker Based Web Hosting](https://code.shoplic.kr/docker-based-web-hosting)
 * [Demystifying containers 101: a deep dive into container technology for beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
 * [The TICK stack as a Docker Application Package](https://medium.com/lucjuggery/the-tick-stack-as-a-docker-application-package-1d0d6b869211)
 * [도커로 얻을 수 있는 이점들](https://medium.com/harrythegreat/%EB%8F%84%EC%BB%A4%EB%A1%9C-%EC%96%BB%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%A0%90%EB%93%A4-c4c0ccde7ca3)
-* **[How to develop a Flask, GraphQL, Graphene, MySQL, and Docker starter kit](https://medium.freecodecamp.org/how-to-develop-a-flask-graphql-graphene-mysql-and-docker-starter-kit-4d475f24ee76)**
+* [**How to develop a Flask, GraphQL, Graphene, MySQL, and Docker starter kit**](https://medium.freecodecamp.org/how-to-develop-a-flask-graphql-graphene-mysql-and-docker-starter-kit-4d475f24ee76)
 * [Dockerizing Scala App](https://medium.com/@ievstrygul/dockerizing-scala-app-3fdf08cffda4)
 * [Wiring Scala App Docker Image With MongoDB](https://medium.com/@ievstrygul/wiring-scala-app-docker-container-with-mongodb-84b29c50ac5)
 * [Docker 안에 숨어 있는 Web application JMX profiling Tip](https://www.popit.kr/docker-jmx-profiling-tip/)
@@ -399,7 +399,7 @@ Docker
 * [Developing with Docker at IFTTT](https://medium.com/engineering-at-ifttt/developing-with-docker-at-ifttt-5bd03b4e597c)
 
 # Commands
-* **[개발 환경에서 유용한 Docker 명령어 소개](https://spoqa.github.io/2017/06/22/docker-tip.html)**
+* [**개발 환경에서 유용한 Docker 명령어 소개**](https://spoqa.github.io/2017/06/22/docker-tip.html)
 * [이미지, 컨테이너 export, import](https://jybaek.tistory.com/566)
 * build
   * `docker build -t [name]:[tag] .`
@@ -443,7 +443,7 @@ Docker
   ```
 
   * [docker 로그인/로그아웃할 때의 사설 저장소 연동하기](http://knight76.tistory.com/entry/docker-login-%EC%82%AC%EC%84%A4-%EB%A0%88%EC%A7%80%EC%8A%A4%ED%8A%B8%EB%A6%AC)
-  * **[Running Docker behind a proxy](https://crondev.com/running-docker-behind-proxy/)**
+  * [**Running Docker behind a proxy**](https://crondev.com/running-docker-behind-proxy/)
   * [도커 레지스트리(Docker Registry) 설치하기 + S3 연동](http://blog.nacyot.com/articles/2014-05-08-docker-registry-introduction/)
 * rm `sudo docker rm [container id]`
   * `sudo docker rm $(sudo docker ps -a | grep Exited | awk '{print $1}' | xargs)` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
@@ -460,7 +460,7 @@ Docker
       * ... -p 12345:80 ...(X)    (e.g. On Dockerfile `EXPOST 80` for apache server)
       * ... -p 12345:12345 ...(O) (e.g. On Dockerfile `EXPOST 12345` even for apache server)
   * `--oom-kill-disable=true`
-    * **[Docker and OOM(Out Of Memory) Killer](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)**
+    * [**Docker and OOM(Out Of Memory) Killer**](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)
   * `-p hostPort:containerPort` [Expose vs publish: Docker port commands explained simply](https://medium.freecodecamp.org/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3)
   * `-v /etc/localtime:/etc/localtime:ro` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
   * [practice](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-run-md)
@@ -481,13 +481,13 @@ Docker
 * [일반 PHP 프로젝트 개발 환경에서 docker 사용하기](https://www.haruair.com/blog/4430)
 * [Migrating stateful containers using native Docker 1.8 Flocker plugin and Compose](https://clusterhq.com/2015/08/04/docker-volume-plugins/)
 * [docker-compose를 이용하여 개발환경 구축하기(feat. vagrant) - 김용휘](https://www.youtube.com/watch?v=MqfGuhHnlxw)
-* **[Docker Compose in 12 Minutes](https://www.youtube.com/watch?v=Qw9zlE3t8Ko)** flask + php 예제
+* [**Docker Compose in 12 Minutes**](https://www.youtube.com/watch?v=Qw9zlE3t8Ko) flask + php 예제
 * [Docker (Compose) 활용법 - 개발 환경 구성하기](http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/)
 * [파이썬 개발환경 구성하기의 끝판왕 - Docker Compose](https://www.slideshare.net/raccoonyy/docker-compose-98851170/raccoonyy/docker-compose-98851170)
-* **[도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기 컨테이너 시대의 Django 개발환경 구축하기](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)**
+* [**도커 컴포즈를 활용하여 완벽한 개발 환경 구성하기 컨테이너 시대의 Django 개발환경 구축하기**](https://www.44bits.io/ko/post/almost-perfect-development-environment-with-docker-and-docker-compose)
 * [A beginner’s guide to Docker — how to create a client/server side with Docker-Compose](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa)
 * [마이크로 서비스에서의 테스트 환경 구축](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C%EC%9D%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95/)
-* **[Django로 만든 웹 애플리케이션 도커라이징하기 + 도커 컴포즈로 개발 환경 구축하기](https://www.slideshare.net/raccoonyy/django-164557454)** 예제로 참고하기에 매우 좋음
+* [**Django로 만든 웹 애플리케이션 도커라이징하기 + 도커 컴포즈로 개발 환경 구축하기**](https://www.slideshare.net/raccoonyy/django-164557454) 예제로 참고하기에 매우 좋음
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
@@ -513,11 +513,11 @@ Docker
   * [Oracle Java 8. Scala 2.11.8 and scala-sbt 0.13.16](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-dockerfile_java_scala_sbt)
 * crontab
   * 여러가지 방법을 시도해봤으나 모두 실패해 현재는 host에서 `sudo docker exec -it [container id] /path/to/script_name.sh`로 실행 중
-  * [practice](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891)
+  * [practice - crontab](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891)
     * cron만 돌리는 test였던 [ubuntu_cron_only](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891#file-ubuntu_cron_only-md), [centos68_cron_only](https://gist.github.com/hyunjun/56159df74cbf3aafc936c3b199e99891#file-centos68_cron_only-md) 이외에는 전부 실패
     * 이외에도 내부에서 일단 crontab을 등록해 돌아가는 지 확인해보려고 했지만, crontab -l로 등록 되는 거 까지만 확인하고 실행은 모두 실패
 * [Open Sourcing Dockerfile Image Update](https://engineering.salesforce.com/open-sourcing-dockerfile-image-update-6400121c1a75)
-* **[How to write Dockerfiles for Python Web Apps](https://blog.hasura.io/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d)**
+* [**How to write Dockerfiles for Python Web Apps**](https://blog.hasura.io/how-to-write-dockerfiles-for-python-web-apps-6d173842ae1d)
 * [Dockerfile Tutorial with Example | Creating your First Dockerfile | Docker Training | Edureka](https://www.youtube.com/watch?v=2lU9zdrs9bM)
 * [Spacewalk latest Docker image 제작기](https://tech.osci.kr/spacewalk/2019/01/07/55869620/)
 * [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
@@ -565,7 +565,7 @@ Docker
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 * [Getting Started with Kubernetes](https://dzone.com/refcardz/kubernetes-essentials)
 * [kakao의 오픈소스 Ep6 - Cite - cite , kubernetes , github , docker , container , microservice](http://tech.kakao.com/2016/12/26/opensource-6-cite/)
-* **[Scaling Python Microservices with Kubernetes](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)**
+* [**Scaling Python Microservices with Kubernetes**](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)
 * [Peter Babics - Python, Docker, Kubernetes, and beyond ?](https://www.youtube.com/watch?v=KF6lU_fm_Bg)
 * [Create and Watch Kubernetes Resources With Python](https://www.youtube.com/watch?v=ck-bB5tqZj4)
 * [NDC17 Kubernetes로 개발서버 간단히 찍어내기](https://www.slideshare.net/seungyongoh3/ndc17-kubernetes)
@@ -575,13 +575,13 @@ Docker
 * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
 * [Kubernetes RBAC 위에서 DataDog agent 돌리기](https://andromedarabbit.net/kubernetes-rbac-%EC%9C%84%EC%97%90%EC%84%9C-datadog-agent-%EB%8F%8C%EB%A6%AC%EA%B8%B0/)
 * [Kubernetes 운영 17개월의 성과와 교훈](https://dailyhotel.io/kubernetes-%EC%9A%B4%EC%98%81-17%EA%B0%9C%EC%9B%94%EC%9D%98-%EC%84%B1%EA%B3%BC%EC%99%80-%EA%B5%90%ED%9B%88-adf716bd72b1)
-* **[An Introduction to Kubernetes 쿠버네티스 살펴보기](https://subicura.com/remark/kubernetes-intro.html)**
+* [**An Introduction to Kubernetes 쿠버네티스 살펴보기**](https://subicura.com/remark/kubernetes-intro.html)
 * [Docker for Mac](http://likejazz.com/post/172462024766/docker-for-mac)
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
 * [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)
-* **[쿠버네티스를 이용해 테스팅 환경 구현해보기](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)**
+* [**쿠버네티스를 이용해 테스팅 환경 구현해보기**](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)
 * [Microservice, Docker & Kubernetes - 조대협](https://www.youtube.com/watch?v=xdqOxF2JqwU)
 * [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 * [A Kubernetes quick start for people who know just enough about Docker to get by](https://blog.sourcerer.io/a-kubernetes-quick-start-for-people-who-know-just-enough-about-docker-to-get-by-71c5933b4633)
@@ -597,7 +597,7 @@ Docker
   * [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow)
 * [Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
 * [Getting started with microservices and Kubernetes](https://hackernoon.com/getting-started-with-microservices-and-kubernetes-76354312b556)
-* **[A Kubernetes guide for Docker Swarm lovers](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)**
+* [**A Kubernetes guide for Docker Swarm lovers**](https://hackernoon.com/a-kubernetes-guide-for-docker-swarm-users-c14c8aa266cc)
 * [Machine Learning Platform for Kubernetes](https://riseml.com/)
   * [Accelerating I/O bound deep learning on shared storage](https://blog.riseml.com/accelerating-io-bound-deep-learning-e0e3f095fd0)
   * [RiseML supports distributed deep learning with Horovod and TensorFlow](https://blog.riseml.com/riseml-supports-distributed-deep-learning-with-horovod-and-tensorflow-40ac770d0009)
@@ -679,7 +679,7 @@ Docker
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?v=lKr6yw9Iw04)
-* **[Scaling Microservices with Message Queues, Spring Boot and Kubernetes](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)**
+* [**Scaling Microservices with Message Queues, Spring Boot and Kubernetes**](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)
 * [Kubernetes in the Google Cloud](https://www.qwiklabs.com/quests/29)
   * [Introduction to Docker](https://ash84.net/2019/01/13/k8s_google_cloude_docker/)
   * [Hello Node Kubernetes](https://ash84.net/2019/01/23/k8s-node/)
@@ -861,13 +861,13 @@ Docker
 
 # Swarm
 * [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)
-* **[Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)**
+* [**Docker Swarm을 이용한 쉽고 빠른 분산 서버 관리**](https://subicura.com/2017/02/25/container-orchestration-with-docker-swarm.html)
 * [Adding Compose to the Swarm + Powerstrip + Flocker + Weave demo](https://clusterhq.com/blog/adding-compose-to-the-swarm-demo/)
 * [Tutorial: Deploying Apache Storm on Docker Swarm](http://blog.baqend.com/post/142795871760/tutorial-deploying-apache-storm-on-docker-swarm?hash=3c62bfcf-d5c3-45cc-9490-f22597dc8260)
 * [Swarm v. Fleet v. Kubernetes v. Mesos](http://radar.oreilly.com/2015/10/swarm-v-fleet-v-kubernetes-v-mesos.html)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Scale Testing Docker Swarm to 30,000 Containers](http://blog.docker.com/2015/11/scale-testing-docker-swarm-30000-containers/)
-* **[Docker 공식문서 에서 제시하는 개발-배포 Flow 따라가기 (Docker Swarm 사용하기)](http://jaynewho.com/post/21)**
+* [**Docker 공식문서 에서 제시하는 개발-배포 Flow 따라가기 (Docker Swarm 사용하기)**](http://jaynewho.com/post/21)
 * [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)](https://www.youtube.com/watch?v=16LNWMqphOA)
 * [Docker Swarm 을 이용한 Container Orchestration 환경 만들기](https://tech.osci.kr/2019/02/13/59736201/)
 

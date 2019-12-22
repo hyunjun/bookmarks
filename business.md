@@ -110,7 +110,7 @@ Business
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
-* **[정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)](http://www.venturesquare.net/590771)**
+* [**정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)**](http://www.venturesquare.net/590771)
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
 * [동기 저하의 10가지 사유](http://ppss.kr/archives/48444)
 * [구체적인 칭찬](https://brunch.co.kr/@younghakjang/95) 동기부여의 방법
@@ -121,7 +121,7 @@ Business
 * [우리 팀의 근무 수칙](https://brunch.co.kr/@svillustrated/54) Team Working principles & guidelines
 * [구글의 아침은 자유가 시작된다 / Work Rules! (한국어 버전, Korean Ver.) #workrules](http://www.slideshare.net/alleciel/work-rules-korean-ver)
 * [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
-* **[회사 보고서의 두 종류](http://ppss.kr/archives/50612)**
+* [**회사 보고서의 두 종류**](http://ppss.kr/archives/50612)
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
@@ -243,7 +243,7 @@ Business
 * [직장인에게 필요한 능력 – 생각 말하기 (1)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-1/)
 * [직장인에게 필요한 능력 – 생각 말하기 (2)](http://morewise.net/%EC%A7%81%EC%9E%A5%EC%9D%B8%EC%97%90%EA%B2%8C-%ED%95%84%EC%9A%94%ED%95%9C-%EB%8A%A5%EB%A0%A5-%EC%83%9D%EA%B0%81-%EB%A7%90%ED%95%98%EA%B8%B0-2/)
 * [Modeling mediums](https://medium.com/@benrbn/modeling-communication-mediums-4b8ee097558f)
-* **[On Improving Communication Inside a Dev Team](https://hackernoon.com/on-improving-communication-inside-a-dev-team-38ad3a0e892a)**
+* [**On Improving Communication Inside a Dev Team**](https://hackernoon.com/on-improving-communication-inside-a-dev-team-38ad3a0e892a)
   * I want ... (X) -> I think we should do in this way, because ... / I am confident that this is the way to go forward ...
   * You're wrong (X) -> I'm not sure about that, because ... / I'm not convinced that's the best way ...
   * Criticize (X) -> I think we can improve this by doing this or that ... / I believe this might not work in some/all cases. Here's why ...
@@ -254,14 +254,14 @@ Business
   * Don't hold grudges
 * [How to Successfully Set Tasks and Boost Your Development Team’s Productivity](https://hackernoon.com/how-to-successfully-set-tasks-and-boost-your-development-teams-productivity-2e1ab5b9d693)
 * [효과적인 커뮤니케이션을 위한 3가지 도구](https://estimastory.com/2019/03/25/3tools/)
-* **[엔지니어들과 비엔지니어들의 커뮤니케이션 방법 2가지](https://medium.com/@kpak/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EA%B3%BC-%EB%B9%84%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%A9%EB%B2%95-2%EA%B0%80%EC%A7%80-6f16992dd4e0)**
+* [**엔지니어들과 비엔지니어들의 커뮤니케이션 방법 2가지**](https://medium.com/@kpak/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EA%B3%BC-%EB%B9%84%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%98-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%A9%EB%B2%95-2%EA%B0%80%EC%A7%80-6f16992dd4e0)
   * Tell me what you know. (너가 아는 것을 말해보라)
   * Tell me what you don’t know. (너가 모르는 것을 말해보라)
   * Then tell me what you think. (너 생각을 말해보라)
   * 1. Is this a good feature to develop? (기술적 구현을 다 떠나서 이것은 있으면 좋은 기능인가요?)
   * 2. Then, can we develop it technically? (좋은 기능이라면 기술적으로 구현이 가능한가요?)
   * 3. Then, when should we develop it? (기술적으로 구현이 가능하다면 언제 개발을 하는게 좋을까요?)
-* **[훌륭한 팀원의 조건 - Strong Views, Weakly Held](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)**
+* [**훌륭한 팀원의 조건 - Strong Views, Weakly Held**](https://medium.com/@kpak/%ED%9B%8C%EB%A5%AD%ED%95%9C-%ED%8C%80%EC%9B%90%EC%9D%98-%EC%A1%B0%EA%B1%B4-strong-views-weakly-held-17880611d962)
   * A와 B로 주장이 맞서는 경우
   * 보통 사람들은 자신의 선택이 더 나은 이유를 찾음
   * 상대방의 의견이 더 나은 이유를 찾은 후 합리적이라면 자신의 의견을 바로 수용하는 사람이 신뢰받음
@@ -353,7 +353,7 @@ Business
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 * [Should you choose a Tech Lead or Engineering Manager Role? 정리](https://ugong2san.tistory.com/1891)
 * [독서광 구글의 아침은 자유가 시작된다](http://jhrogue.blogspot.com/2018/11/blog-post.html)
-* **[테크니컬 리더십: 시작하기](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)**
+* [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [정우영 칼럼 KBO와 NPB를 우승한 힐만 감독의 리더십](https://sports.v.daum.net/v/20181116103351891)
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
 * ["솔직히 말하면 다양성은 개소리야"](https://brunch.co.kr/@svillustrated/58) 한 가지 기준으로만 팀을 구성했을 때 나타난 문제점
@@ -462,7 +462,7 @@ Business
 * [타협하면 안 되는 4가지](http://www.thestartupbible.com/2015/10/four-things-you-should-never-compromise-as-the-founder-of-an-early-startup.html)
 * [스타트업계에 있으면서 느낀 50가지](http://ppss.kr/archives/58888)
 * [세계에서 가장 빨리 성장한 스타트업에서 배운 10가지 교훈](http://ppss.kr/archives/58263)
-* **[스타트업, 서비스 개발자가 되자](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)**
+* [**스타트업, 서비스 개발자가 되자**](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)
 * [스타트업 3년 사용기](http://curioe.com/10)
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)

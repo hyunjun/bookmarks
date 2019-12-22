@@ -1,6 +1,6 @@
 Bitcoin
 =======
-* **[비트코인과 블록체인 기술](http://d2.naver.com/helloworld/8237898)**
+* [**비트코인과 블록체인 기술**](http://d2.naver.com/helloworld/8237898)
 * [개인정보 보호를 위한 비트코인](http://www.thestartupbible.com/2015/03/bitcoins-for-personal-privacy.html)
 * [실험 비트코인으로 팁 주기](http://www.thestartupbible.com/2015/04/tipping-with-bitcoins-an-experiment.html)
 * [사후 분석 비트코인으로 팁 주기](http://www.thestartupbible.com/2015/04/tipping-with-bitcoins-postmortem.html)
@@ -70,7 +70,7 @@ Bitcoin
 * [Blockcerts — An Open Infrastructure for Academic Credentials on the Blockchain](https://medium.com/mit-media-lab/blockcerts-an-open-infrastructure-for-academic-credentials-on-the-blockchain-899a6b880b2f)
 * [Blockchain Programming with Lisp](https://www.slideshare.net/cheolhee/blockchain-programming-with-lisp)
 * [초딩도 이해하는 블록체인](https://steemkr.com/kr/@tintom/2fgvq8)
-* **[JAVA 코드로 이해하는 블록체인(BLOCKCHAIN)](http://guruble.com/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain/)**
+* [**JAVA 코드로 이해하는 블록체인(BLOCKCHAIN)**](http://guruble.com/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain/)
 * [Java 코드로 이해하는 블록체인(Blockchain)](https://www.popit.kr/java-%EC%BD%94%EB%93%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8blockchain)
 * [File on blockchain 개발기](https://winterj.me/file-on-blockchain/)
   * [File on blockchain](https://github.com/JungWinter/file-on-blockchain)
@@ -121,7 +121,7 @@ Bitcoin
 
 ## Blockchain Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
-* **[파이썬으로 스마트 컨트랙트 개발하기](https://winterj.me/smart-contract-with-python/)**
+* [**파이썬으로 스마트 컨트랙트 개발하기**](https://winterj.me/smart-contract-with-python/)
 * [min-blockchain - A simple PoW Blockchain in Python](https://github.com/JoMingyu/Blockchain-py)
 * [PyCon Korea 2018 Python in Chains: Running Python Code for IoT Projects on a custom-built Blockchain Network](https://www.slideshare.net/DanielHong64/pycon-korea-2018-python-in-chains-running-python-code-for-iot-projects-on-a-custombuilt-blockchain-network-110606011)
 

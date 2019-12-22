@@ -11,18 +11,18 @@ ElasticSearch - Lucene
 * [Elasticsearch Reference](https://elasticsearch.oofbird.net/)
 * [Elastic Stack Reference 목차](https://jjeong.tistory.com/1395)
 * [Introduction to Elasticsearch](http://www.slideshare.net/hosangjeon10/introduction-to-elasticsearch-42781557)
-* **[demo.elastic.co](https://demo.elastic.co)**
+* [**demo.elastic.co**](https://demo.elastic.co)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)
 * [ElasticSearch와 Heap 메모리](https://brunch.co.kr/@alden/35)
 * [A Heap of Trouble: Managing Elasticsearch's Managed Heap](https://www.elastic.co/blog/a-heap-of-trouble)
 * [ElasticSearch Heap 사이즈 설정](https://springboot.cloud/17)
 * example
-  * [installation, example json, and delete - create index - search - search all](https://gist.github.com/hyunjun/c3c0dbd13f50d5242ffb)
+  * [practice - installation, example json, and delete - create index - search - search all](https://gist.github.com/hyunjun/c3c0dbd13f50d5242ffb)
     * [Analyzers in elasticsearch](http://stackoverflow.com/questions/12836642/analyzers-in-elasticsearch)
     * [Match Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-match-query.html)
     * [Wildcard Query](https://www.elastic.co/guide/en/elasticsearch/reference/1.4/query-dsl-wildcard-query.html)
-    * **[ElasticSearch for Logging](http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html)** configuration
+    * [**ElasticSearch for Logging**](http://edgeofsanity.net/article/2012/12/26/elasticsearch-for-logging.html) configuration
     * [Centralized Log Server 를 위한 기본 세팅 (EC2 + ElasticSearch + Logstash + filebeat + kibana)](http://knphouse.tistory.com/85)
     * [mlockall: false despite being configured](https://github.com/elastic/elasticsearch/issues/9357)
   * Bulk
@@ -33,7 +33,7 @@ ElasticSearch - Lucene
   * Count
     * [1.7/search-count.html](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/search-count.html)
   * Index
-    * **[Elasticsearch Indexing Performance Cheatsheet](https://blog.codecentric.de/en/2014/05/elasticsearch-indexing-performance-cheatsheet/)**
+    * [**Elasticsearch Indexing Performance Cheatsheet**](https://blog.codecentric.de/en/2014/05/elasticsearch-indexing-performance-cheatsheet/)
     * [Multiple analyzers and query fields in Elasticsearch for auto-completion](https://gist.github.com/karmi/4526141)
     * [1.7/indices-stats.html](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/indices-stats.html)
     * [Elasticsearch 인덱싱에 대한 성능 고려 사항](https://www.elastic.co/kr/blog/performance-considerations-elasticsearch-indexing)
@@ -41,15 +41,15 @@ ElasticSearch - Lucene
     * [ElasticSearch – nested mappings and filters](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
     * [Elasticsearch: updating the mappings and settings of an existing index](https://gist.github.com/nicolashery/6317643)
   * Optimize
-    * **[Optimizing Elasticsearch Searches](https://www.elastic.co/blog/found-optimizing-elasticsearch-searches)**
-    * **[9 Tips on ElasticSearch Configuration for High Performance](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)**
+    * [**Optimizing Elasticsearch Searches**](https://www.elastic.co/blog/found-optimizing-elasticsearch-searches)
+    * [**9 Tips on ElasticSearch Configuration for High Performance**](https://www.loggly.com/blog/nine-tips-configuring-elasticsearch-for-high-performance/)
     * [indices optimize](https://www.elastic.co/guide/en/elasticsearch/reference/current/indices-optimize.html)
   * Query
     * [Nested Query](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-nested-query.html)
     * [SEARCHING MULTIPLE INDICES AND TYPES IN ELASTICSEARCH](https://damienbod.com/2015/02/10/searching-multiple-indices-and-types-in-elasticsearch/)
   * Shard
     * [Testing the limits of elasticsearch](https://speakerdeck.com/bm_dumitrescu/testing-the-limits-of-elasticsearch)
-    * **[Optimizing Elasticsearch: How Many Shards per Index?](https://qbox.io/blog/optimizing-elasticsearch-how-many-shards-per-index)**
+    * [**Optimizing Elasticsearch: How Many Shards per Index?**](https://qbox.io/blog/optimizing-elasticsearch-how-many-shards-per-index)
     * [Every Shard Deserves a Home - Deep Dive into Shard Allocation in Elasticsearch](https://speakerdeck.com/elastic/every-shard-deserves-a-home-deep-dive-into-shard-allocation-in-elasticsearch)
     * [Stack Overflow: The Architecture - 2016 Edition](http://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edition/) index마다 별도의 cluster를 설정했다는 뜻일까?
     * [elasticsearch-shard-suggester](https://github.com/kakao/elasticsearch-shard-suggester)
@@ -193,7 +193,7 @@ ElasticSearch - Lucene
 * [Elastic과 ArcSight를 통합한 유연하고 확장성있는 실시간 보안 분석 기능 제공](https://www.elastic.co/kr/about/press/elastic-delivers-arcsight-integration-for-flexible-scalable-and-real-time-security-analytics-capabilities)
 * [Elasticsearch 보안 시작하기](https://www.elastic.co/kr/blog/getting-started-with-elasticsearch-security)
 * [엘라스틱서치에서 원본 데이터 추출하기](http://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EC%97%90%EC%84%9C-%EC%9B%90%EB%B3%B8-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%94%EC%B6%9C%ED%95%98%EA%B8%B0/)
-* **[검색엔진이 데이터를 다루는 법](https://www.slideshare.net/kjmorc/ss-80803233)**
+* [**검색엔진이 데이터를 다루는 법**](https://www.slideshare.net/kjmorc/ss-80803233)
 * [백억개의 로그를 모아 검색하고 분석하고 학습도 시켜보자 : 로기스](https://www.slideshare.net/deview/ss-80885724)
 * [ElasticSearch 인덱싱 성능 최적화](https://brunch.co.kr/@alden/37)
 * [Use Jupyter Notebooks to demonstrate how to build a Recommender with Apache Spark & Elasticsearch](https://github.com/IBM/elasticsearch-spark-recommender)
@@ -204,7 +204,7 @@ ElasticSearch - Lucene
 * [Elastic{ON}17](https://www.elastic.co/elasticon/conf/2017/sf)
   * [Elastic{on}17 미리보기 - Elastic{on} 2017 컨퍼런스 행사에서 주목할 만한 세션들 소개](http://kimjmin.net/2017/02/elasticon-2017-agenda/)
   * [미처 못 다한 이야기들 - Elastic{ON} Tour Seoul](https://www.elastic.co/kr/blog/additional-storeis-at-elasticon-tour-seoul)
-* **[elastic {on} tour 2017 (2017.12.12)](http://blog.naver.com/indy9052/221162786582)**
+* [**elastic {on} tour 2017 (2017.12.12)**](http://blog.naver.com/indy9052/221162786582)
 * [Elastic{ON}Tour](https://taetaetae.github.io/2017/12/14/elastic-on-tour/)
 * [But First, Coffee... (An Elastic{ON} Canvas Story)](https://www.elastic.co/blog/elasticon-kibana-canvas-story-elasticoffee)
 * [서울 12월 12일](https://www.elastic.co/kr/elasticon/tour/2017/seoul)
@@ -249,14 +249,14 @@ ElasticSearch - Lucene
 * [Migrating the elastic stack to the cloud, or application logging @ travix](https://www.slideshare.net/RuslanLutsenko/migrating-the-elastic-stack-to-the-cloud-or-application-logging-travix-136340002)
 * [Infrastructure and Logs UI: New ways for Ops to interact with Elasticsearch](https://www.elastic.co/blog/infrastructure-and-logs-ui-new-ways-for-ops-to-interact-with-elasticsearch)
 * [ElasticSearch, OOM을 막아보자](https://brunch.co.kr/@alden/40)
-* **[G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)** G1 GC vs. CMS GC
-* **[CMS GC, NewRatio 튜닝하기](https://brunch.co.kr/@alden/47)**
+* [**G1 GC 적용과 JVM Upgrade**](https://brunch.co.kr/@alden/45) G1 GC vs. CMS GC
+* [**CMS GC, NewRatio 튜닝하기**](https://brunch.co.kr/@alden/47)
 * [Elastic Maps Service 한국지도 추가](http://kimjmin.net/2019/01/2019-01-korea-region-map/)
 * [Spring 웹 애플리케이션에서 사용하지 않는 API를 찾아보자](http://woowabros.github.io/tools/2019/02/15/controller-log.html)
 * [Improving Customer Experience with Geo Capabilities at the UK’s Biggest Property Portal](https://www.elastic.co/elasticon/conf/2018/sf/improving-customer-experience-with-geo-capabilities-at-the-uks-biggest-property-portal)
 * [The how and why of Elasticsearch - Honza Král - PyData Prague, January 2019](https://www.youtube.com/watch?v=55YJxJbeznQ)
 * [Lessons from our journey to enable global code search with Elasticsearch on GitLab.com](https://about.gitlab.com/2019/03/20/enabling-global-search-elasticsearch-gitlab-com/)
-* **[엘라스틱서치 클러스터로 수십억 건의 데이터 운영하기](https://www.slideshare.net/heungrae_kim/ss-123344339)** 실제 운용에 바탕한 여러가지 설명과 tip
+* [**엘라스틱서치 클러스터로 수십억 건의 데이터 운영하기**](https://www.slideshare.net/heungrae_kim/ss-123344339) 실제 운용에 바탕한 여러가지 설명과 tip
 * [Introducing the Elastic Enterprise Search Beta: Search Everything, Anywhere](https://www.elastic.co/kr/blog/elastic-enterprise-search-beta1-released)
 * [Inverted Index 이해하기](https://cloudingdata.tistory.com/45)
 * [Elastic SIEM 도입](https://www.elastic.co/kr/blog/introducing-elastic-siem)
@@ -302,7 +302,7 @@ ElasticSearch - Lucene
 # Elasticsearch 5.x
 * [Elastic Stack 5.0.0 GA 가 출시되었습니다](https://www.elastic.co/kr/blog/elastic-stack-5-0-0-released)
 * [Elastic Stack 5.0 출시- Elastic Stack 5.0 출시 및 관련글 번역에 대하여](http://kimjmin.net/2016/11/elastic-stack-5-release/)
-* **[Elastic Stack 5.0.0 rc1 설치법](https://okdevtv.com/mib/elk/elk.beta)**
+* [**Elastic Stack 5.0.0 rc1 설치법**](https://okdevtv.com/mib/elk/elk.beta)
 * [내가 본 Elasticsearch 5.0.0 신규 기능 몇 가지들](http://www.popit.kr/look-at-new-features-elasticsearch-5/)
 * [elasticsearch-analysis-seunjeon 5.0.0.0 배포합니다](http://eunjeon.blogspot.com/2016/11/elasticsearch-analysis-seunjeon-5000.html)
 * [BM25 – Elasticsearch 5.0에서 검색하는 새로운 방법](http://www.popit.kr/bm25-elasticsearch-5-0%EC%97%90%EC%84%9C-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%83%88%EB%A1%9C%EC%9A%B4-%EB%B0%A9%EB%B2%95/)
@@ -372,13 +372,13 @@ ElasticSearch - Lucene
 * [데이터 분석 오픈소스 도구 ELK install](https://www.youtube.com/watch?v=ZLuGfwKUvdg)
 * [Elastic Stack을 이용한 서울시 지하철 대시보드](https://www.elastic.co/kr/blog/seoul-metro-2014)
 * [Elastic Stack 활용 데모](https://www.youtube.com/playlist?list=PLhFRZgJc2afqxJx0RBKkYUxSUDJNusXPl)
-* **[okdevtv.com/mib/elk/elk5](https://okdevtv.com/mib/elk/elk5)**
+* [**okdevtv.com/mib/elk/elk5**](https://okdevtv.com/mib/elk/elk5)
   * [ELK 5.2.1 액세스 로그 분석 #1](https://www.youtube.com/watch?v=hTP4QEoNaLM)
   * [ELK 5.2.1 액세스 로그 분석 #2](https://www.youtube.com/watch?v=W5YNxsOCWPw)
 * [okdevtv.com/mib/elk/elk6](https://okdevtv.com/mib/elk/elk6)
 * [**okdevtv.com/mib/elk/elk7**](https://okdevtv.com/mib/elk/elk7)
 * [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
-* **[엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)**
+* [**엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자**](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)
 * [ELK 통합 로그 시스템을 활용한 IT보안 활용 추천 책 소개!!!](https://www.youtube.com/watch?v=vo_O7pWAM60)
 
 # Kibana
@@ -457,7 +457,7 @@ ElasticSearch - Lucene
   * troubleshooting
     * `org.elasticsearch.hadoop.EsHadoopException: Could not write all entries [.../...] (maybe ES was overloaded?). Bailing out` [Pushback to hadoop from es on bulk load](https://discuss.elastic.co/t/pushback-to-hadoop-from-es-on-bulk-load/1535)
   * [Hadoop Map/Reduce runtime options](https://www.elastic.co/guide/en/elasticsearch/hadoop/current/configuration-runtime.html)
-  * **[Elasticsearch와 Spark 연동](http://jason-heo.github.io/elasticsearch/2016/06/28/elasticsearch-with-spark.html)**
+  * [**Elasticsearch와 Spark 연동**](http://jason-heo.github.io/elasticsearch/2016/06/28/elasticsearch-with-spark.html)
 * [Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等](https://github.com/farmerx/ElasticHD)
 * [elasticsearch-jaso-analyzer - EJ Analyzer](https://github.com/netcrazy/elasticsearch-jaso-analyzer)
 * [Elasticsearch Langdetect Plugin](https://github.com/jprante/elasticsearch-langdetect)
@@ -573,7 +573,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치의 인덱스를 분석에 적합한 피벗 테이블로 만들기 (2) - 머신러닝 > 데이터프레임(Data frame) transforms](https://blog.naver.com/olpaemi/221635737975)
 
 # Plugin
-* **[어떤 한국어 분석기를 사용할까?](https://www.elastic.co/kr/blog/using-korean-analyzers)** 5.5.0 기준
+* [**어떤 한국어 분석기를 사용할까?**](https://www.elastic.co/kr/blog/using-korean-analyzers) 5.5.0 기준
 * [Running site plugins with Elasticsearch 5.0](https://www.elastic.co/blog/running-site-plugins-with-elasticsearch-5-0)
 * [elasticsearch-analysis-arirang - korean analyzer (lucene analyzer kr arirang)](https://github.com/HowookJeong/elasticsearch-analysis-arirang/)
   * [Arirang analyzer 버전 올렸습니다](http://jjeong.tistory.com/1142)

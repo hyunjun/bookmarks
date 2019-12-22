@@ -18,7 +18,7 @@ Regular Expression
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
 * [Regex Cheat Sheet](https://duckduckgo.com/?q=regex+cheat+sheet&ia=cheatsheet&iax=1)
 * [Regular Expressions Cheat Sheet by DaveChild](https://www.cheatography.com/davechild/cheat-sheets/regular-expressions/)
-* **[RegexOne - Learn Regular Expressions with simple, interactive exercises](http://regexone.com/)**
+* [**RegexOne - Learn Regular Expressions with simple, interactive exercises**](http://regexone.com/)
 * [Henry Spencer's regex library](https://github.com/postgres/postgres/tree/master/src/backend/regex)
 * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
 * HTML Tags
@@ -36,7 +36,7 @@ Regular Expression
 * [Regular Expression: Match Unicode Block Range](http://kourge.net/projects/regexp-unicode-block)
 * [regextester.com](http://www.regextester.com/)
 * [소수를 판별하는 정규식](https://johngrib.github.io/archivers/regex-prime) perl
-* **[txt2re.com](http://txt2re.com/)**
+* [**txt2re.com**](http://txt2re.com/)
 * [정규 표현식(Regular Expressions) 정리하기](https://jungwoon.github.io/regex/2018/03/14/Regular-Expressions/)
 * [Pregex - Do you hate regex? Well then, I have a solution for you…](https://medium.freecodecamp.org/pregx-for-those-who-wish-to-dodge-regex-250e4a484ee0)
 * [Regex tutorial — A quick cheatsheet by examples](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)

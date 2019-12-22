@@ -1,6 +1,6 @@
 Programmer
 ==========
-* **[Habits maketh engineer — collaboration](https://engineering.huiseoul.com/habits-maketh-man-collaboration-6f352111d2da)**
+* [**Habits maketh engineer — collaboration**](https://engineering.huiseoul.com/habits-maketh-man-collaboration-6f352111d2da)
 * [Eight Habits of Expert Software Designers: An Illustrated Guide](https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/)
 * [흔하지 않은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 * [awesome-devblog.now.sh](https://awesome-devblog.now.sh/)
@@ -21,7 +21,7 @@ Programmer
 * [내가 StackOverflow를 사용하는 방법](https://emaren84.github.io/blog/archivers/how-i-use-stackoverflow-kor)
 * [046.016 컴퓨터과학이 여는 세계](http://ropas.snu.ac.kr/~kwang/046.016/benew/)
 * [30년간 개발자로 살면서 배운 것 Lessons From A Lifetime Of Being A Programmer](https://taegon.kim/archives/6546)
-* **[실리콘밸리 전설들의 수다: Masters of Scale](http://www.andrewahn.co/silicon-valley/masters-of-scale/)**
+* [**실리콘밸리 전설들의 수다: Masters of Scale**](http://www.andrewahn.co/silicon-valley/masters-of-scale/)
 * [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
 * [**I Read 21 Articles About How to Become a Senior Developer So You Don't Have To**](https://dev.to/mibzman/i-read-21-articles-about-how-to-become-a-senior-developer-so-you-don-t-have-to-4dap/)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)

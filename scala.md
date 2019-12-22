@@ -147,12 +147,12 @@ Scala
 * [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
 * [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
-* **[Nicolas Rinaudo - Scala Best Practices I Wish Someone'd Told Me About](https://www.youtube.com/watch?v=lvlnH-uEjZA)**
+* [**Nicolas Rinaudo - Scala Best Practices I Wish Someone'd Told Me About**](https://www.youtube.com/watch?v=lvlnH-uEjZA)
 * [scala meta로 변경될 scala macro](https://www.youtube.com/watch?v=qEQHTGwus7Y)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
 * [1ambda.github.io/21/scala](https://1ambda.github.io/scala/) Scalaz, Functional, Reactive, Concurrent
 * [Purely functional parallelism in Scala](https://medium.com/@wiemzin/purely-functional-parallelism-in-scala-37ecb1e9999)
-* **[scala\-exercises\.org - 스칼라 관련 문제를 온라인으로 풀면서 공부](www.scala-exercises.org)**
+* [**scala-exercises.org - 스칼라 관련 문제를 온라인으로 풀면서 공부**](www.scala-exercises.org)
 * [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
   * [shapeless 만든 Miles Sabin이 이를 해결한 과정 동영상](https://vimeo.com/channels/flatmap2016/165922514)
   * [해당 이슈 관련 PR](https://github.com/scala/scala/pull/5102)
@@ -206,7 +206,7 @@ Scala
 * [Why We Do Scala in Zalando](https://jobs.zalando.com/tech/blog/why-we-do-scala)
 * [Tongfei Chen - Towards Typesafe Deep Learning in Scala](https://www.youtube.com/watch?v=PZLvi0qeP90)
   * [Nexus](https://github.com/ctongfei/nexus/blob/master/README.md)
-* **[practice - scala streams](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)**
+* [**practice - scala streams**](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)
 * [Python vs. Scala: a comparison of the basic commands](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
 * [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
   * [Scastie provides an easy start for learning Scala](https://medium.com/@alonso.delarte/scastie-provides-an-easy-start-for-learning-scala-79b7c3541997)
@@ -236,7 +236,7 @@ Scala
 * [Interactively exploring Reddit posts using basic Scala in your browser](https://towardsdatascience.com/interactively-exploring-reddit-posts-using-basic-scala-in-your-browsers-f394843069de)
 * [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
 * [Machine Learning with Scala in Google Colaboratory](https://medium.com/@shadaj/machine-learning-with-scala-in-google-colaboratory-e6f1661f1c88)
-* **[Parallel computing in Python and Scala](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)**
+* [**Parallel computing in Python and Scala**](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)
 * [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77)
 * [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
 * [Dummmy — Test](https://medium.com/@jayvardhan.reddy.v/dummmy-test-27923b031fb7)
@@ -322,7 +322,7 @@ Scala
 * [PayPal 은 어떻게 하루에 10억 request 를 단 8개 VM 으로 처리하는가?](http://www.popit.kr/paypal-10%EC%96%B5-request-8vm-%EC%B2%98%EB%A6%AC/)
   * [squbs: A New, Reactive Way for PayPal to Build Applications](https://www.paypal-engineering.com/2016/05/11/squbs-a-new-reactive-way-for-paypal-to-build-applications/)
   * [squbs - Akka/Spray for Large-Scale Production Deployments http://paypal.github.io/squbs](https://github.com/paypal/squbs)
-* **[hamait.tistory.com/category/Akka](http://hamait.tistory.com/category/Akka)**
+* [**hamait.tistory.com/category/Akka**](http://hamait.tistory.com/category/Akka)
 * [Akka and a Simple Actor Example (in Scala)](https://www.youtube.com/watch?v=ZNaeMf7X6xU)
 * [Simple Actor Example 2 (in Scala with Akka)](https://www.youtube.com/watch?v=v3qiXW3HyGI)
 * [Communicating Actors (in Scala with Akka)](https://www.youtube.com/watch?v=s_EtPq2ZYOg)
@@ -382,7 +382,7 @@ Scala
 * [8 Akka anti-patterns you'd better be aware of by Manuel Bernhardt](https://www.youtube.com/watch?v=hr3UdktX-As)
 * [The best is yet to come - State of Akka in 2017 by Konrad Malawski](https://www.youtube.com/watch?v=CGyIPVGB2-4)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
-* **[A Journey into Reactive Streams](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29)**
+* [**A Journey into Reactive Streams**](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29)
   * [Reactive Streams로의 여행](http://eyeahs.github.io/blog/2017/01/24/a-journey-into-reactive-streams/)
   * [리액티브 스트림으로의 여행 글 요약](http://javacan.tistory.com/entry/a-journey-into-reactive-streams-summary)
 * [Bootstrapping Microservices using Akka, Kafka ans Spark by Alex Silva](https://www.youtube.com/watch?v=gF8v51i6Y1c)
@@ -411,10 +411,10 @@ Scala
 * [Using Scala to Read Really, Really Large Files](https://medium.com/@morgen.peschke/using-scala-to-read-really-really-large-files-c9e3e9538bac)
   * Comparisons of The Standard Libraries, better-files, Akka Streams, FS2 (I/O helpers), FS2 (core), Reference Implementation in Java
 * practice
-  * [example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
-  * [permutation by recursive call](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-permutation_in_scala-md)
-  * [bitmap by for comprehension](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-bitmap-md)
-  * [div](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539#file-div-md)
+  * [practice - example `::` & `: * _*`](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539)
+  * [practice - permutation by recursive call](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-permutation_in_scala-md)
+  * [practice - bitmap by for comprehension](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-bitmap-md)
+  * [practice - div](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539#file-div-md)
 * [스칼라에서 리프팅(lifting) 이란?](http://hamait.tistory.com/894)
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
@@ -445,7 +445,7 @@ Scala
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
-  * **[Reactive 프로그래밍 - Hello world](http://hamait.tistory.com/764)**
+  * [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
   * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
   * [Futures Made Easy with Scala](https://medium.freecodecamp.org/futures-made-easy-with-scala-da1beb3bb281)
   * [Unsucking Error Handling with Futures](https://www.slideshare.net/GaryCoady/unsucking-error-handling-with-futures)
@@ -703,7 +703,7 @@ Scala
 * [finch - a thin layer of purely functional basic blocks atop of Finagle for building composable HTTP APIs](https://github.com/finagle/finch)
 * [http4s - Typeful, functional, streaming HTTP for Scala](https://http4s.org/)
   * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
-  * **[http4s: Pure, Typeful, Functional HTTP in Scala](https://www.youtube.com/watch?v=hpKKDWTbdPQ)**
+  * [**http4s: Pure, Typeful, Functional HTTP in Scala**](https://www.youtube.com/watch?v=hpKKDWTbdPQ)
     * [rossabaker.github.io/boston-http4s](https://rossabaker.github.io/boston-http4s)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)

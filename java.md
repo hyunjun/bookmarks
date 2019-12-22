@@ -173,7 +173,7 @@ Java
   * [Java UDP Client Server Program - UDP 프로그래밍](https://woolbro.tistory.com/30)
   * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
 * NIO
-  * **[NIO 정리](https://jungwoon.github.io/java/2019/01/14/NIO/)** 예제와 함께 전반적으로 잘 정리
+  * [**NIO 정리**](https://jungwoon.github.io/java/2019/01/14/NIO/) 예제와 함께 전반적으로 잘 정리
 * Object
   * [Why java.lang.Object is not abstract?](http://stackoverflow.com/questions/2117689/why-java-lang-object-is-not-abstract)
   * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)
@@ -205,7 +205,7 @@ Java
   * [Java8TimeTest.java](https://gist.github.com/ikhoon/7c023bbc65078e06598c769978b76b2b)
 
 # Asynchronous
-* **[Comparison of Asynchronous Data Loading in Java](http://ejf.io/dev_blog/async_java_compare/)** Futures, Callbacks and Wrapper classes, Observers, RxJava
+* [**Comparison of Asynchronous Data Loading in Java**](http://ejf.io/dev_blog/async_java_compare/) Futures, Callbacks and Wrapper classes, Observers, RxJava
 * [Async-IO vs Async-Request Processing in java](https://medium.freecodecamp.org/java-async-io-async-request-processing-in-http-request-1a04f395d8c7)
 * [Armeria - an asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift](https://github.com/line/armeria)
   * [Armeria 오픈소스화 이야기](http://developers.linecorp.com/blog/ko/?p=188)
@@ -213,7 +213,7 @@ Java
   * [비동기를 사랑하는 오픈소스 개발자, 이희승](https://engineering.linecorp.com/ko/blog/line-developer-interview-3/)
   * [GitHub Contributions 그래프를 푸릇푸릇하게 만들어보아요(feat. Armeria Sprint)](https://engineering.linecorp.com/ko/blog/armeria-sprint-1/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
-  * **[Netty 시작하기](https://github.com/hatemogi/netty-startup)**
+  * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
   * [Going asynchronous with netty - SOSCON 2015](http://www.slideshare.net/krisjeong/going-asynchronous-with-netty-soscon-2015)
   * [Netty - One Framework to rule them all by Norman Maurer](https://www.youtube.com/watch?v=DKJ0w30M0vg)
@@ -427,10 +427,10 @@ Java
 * [The State of the Module System](http://openjdk.java.net/projects/jigsaw/spec/sotms/)
 * [The OpenJDK Revised Java Memory Model](http://www.infoq.com/articles/The-OpenJDK9-Revised-Java-Memory-Model)
 * [Migrating from Oracle JDK to OpenJDK on Red Hat Enterprise Linux: What you need to know](https://developers.redhat.com/blog/2018/11/05/migrating-from-oracle-jdk-to-openjdk-on-red-hat-enterprise-linux-what-you-need-to-know)
-* **[LINE의 OpenJDK 적용기: 호환성 확인부터 주의 사항까지](https://engineering.linecorp.com/ko/blog/line-open-jdk/)**
+* [**LINE의 OpenJDK 적용기: 호환성 확인부터 주의 사항까지**](https://engineering.linecorp.com/ko/blog/line-open-jdk/)
 * [MAC OS에서 JAVA 버전 관리하기](https://woolbro.tistory.com/2)
 * [Shaping the Future of Java, Faster](https://www.youtube.com/watch?v=d_IWWRc6dwY) 다양한 JDK version에 대한 이야기, 8 to 11 migration, future works
-* **[여러 개의 JDK를 설치하고 선택해서 사용하기](https://blog.benelog.net/installing-jdk.html)**
+* [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html)
 * [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
 * [Oracle JDK 라이센스](https://qwefgh90.github.io//research/2019/10/11/Oracle-JDK과-라이센스.html)
 * [Open JDK의 변화](https://qwefgh90.github.io//research/2019/10/12/Open-JDK의-변화.html)
@@ -466,25 +466,25 @@ Java
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.eu/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 * [Creating a memory leak with Java](http://stackoverflow.com/questions/6470651/creating-a-memory-leak-with-java)
 * [Hunting Java Memory Leaks](https://www.toptal.com/java/hunting-memory-leaks-in-java)
-* **[도움이 될수도 있는 JVM memory leak 이야기](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)**
+* [**도움이 될수도 있는 JVM memory leak 이야기**](http://woowabros.github.io/tools/2019/05/24/jvm_memory_leak.html)
 * [The Trouble with Memory](https://www.infoq.com/presentations/jvm-60-memory/)
 * [Pirates of the JVM — The infographic: Are you ready for an adventure?](https://jaxenter.com/pirates-of-the-jvm-the-infographic-132524.html)
-* **[Java 시스템 운영 중 알아두면 쓸모 있는 지식들](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)**
+* [**Java 시스템 운영 중 알아두면 쓸모 있는 지식들**](https://www.holaxprogramming.com/2017/10/09/java-jvm-performance/)
 * [우아한 테크 세미나 - 자바, 성능, 모니터링 이야기 후기](https://www.popit.kr/%EC%9A%B0%EC%95%84%ED%95%9C-%ED%85%8C%ED%81%AC-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%9E%90%EB%B0%94-%EC%84%B1%EB%8A%A5-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%ED%9B%84%EA%B8%B0/)
 * [Evolving Java With `––enable–preview` aka Preview Features](http://blog.codefx.org/java/enable-preview-features/)
 * [Beyond ByteBuffers by Brian Goetz](https://www.youtube.com/watch?v=iwSCtxMbBLI)
 * [A Dozen Cool Things We Can Do With Popular JVM Languages by Venkat Subramaniam](https://www.youtube.com/watch?v=-8ISVgl7Qm0) java뿐만 아니라 JVM에서 동작하는 언어들의 특정 feature에 대한 이야기
 * [**Really Small Java Apps**](http://august.nagro.us/small-java.html) jlink, jpackage
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
-* **[JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale](https://eng.uber.com/jvm-profiler)**
+* [**JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale**](https://eng.uber.com/jvm-profiler)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
   * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
-* **[Open sourcing oomd, a new approach to handling OOMs](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)**
+* [**Open sourcing oomd, a new approach to handling OOMs**](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
-* **[Project Loom: Fibers and Continuations for the Java Virtual Machine](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)**
-  * **[Project Loom: Fiber와 Continuation](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)**
+* [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
+  * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
 * VisualVM [Performance Profiling During Your Development Workflow](https://hackernoon.com/performance-profiling-during-your-development-workflow-ebff78afb71c)
 
@@ -498,7 +498,7 @@ Java
 * [JDK8 적용 후, 심각한 성능저하가 발생한다면? Full GC가 제대로 되지 않는다면?](https://brunch.co.kr/@heracul/1) `MaxMetaspaceSize`
 * [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
   * 여러가지 GC algorithm 기본 동작 방식 소개
-* **[G1: Garbage first garbage collector](https://b.luavis.kr/server/g1-gc)**
+* [**G1: Garbage first garbage collector**](https://b.luavis.kr/server/g1-gc)
 * [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Understanding Java Garbage Collection Logging: What Are GC Logs and How To Analyze Them](https://sematext.com/blog/java-garbage-collection-logs/)

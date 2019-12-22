@@ -87,7 +87,7 @@ Json
   * [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지 (feat. 글로벌 캐싱)](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
-* **[jq - a lightweight and flexible command-line JSON processor](http://stedolan.github.io/jq/)**
+* [**jq - a lightweight and flexible command-line JSON processor**](http://stedolan.github.io/jq/)
   * [커맨드라인 JSON 프로세서 jq](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
@@ -126,7 +126,7 @@ Json
 * [Warlock - Build self-validating python objects using JSON schemas](https://github.com/bcwaldon/warlock)
 
 # Python
-* **[JSON과 PYTHON API의 만남](https://github.com/mcchae/JSON-Schema/blob/master/JSON-API.md)**
+* [**JSON과 PYTHON API의 만남**](https://github.com/mcchae/JSON-Schema/blob/master/JSON-API.md)
   * [GenSON - a powerful, user-friendly JSON Schema generator built in Python](https://github.com/wolverdude/genson/)
   * [jsonschema - An(other) implementation of JSON Schema for Python https://python-jsonschema.readthedocs.io](https://github.com/Julian/jsonschema)
   * [apitools - Tools to play with json-schemas defined APIs](https://github.com/hamstah/apitools)

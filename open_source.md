@@ -25,7 +25,7 @@ Open Source
 * [10 Best Free and Open Source Software (FOSS) Programs I Found in 2016](http://www.tecmint.com/best-free-open-source-tools-2016/)
 * [미 교육부, 오픈소스 개발자 협업 공간 공개](http://www.bloter.net/archives/270791)
 * [Open Source Guides](https://opensource.guide/)
-* **[Zeppelin 탑승기: 오픈 소스 입문 이야기](https://www.slideshare.net/JunKim22/zeppelin-72758451)**
+* [**Zeppelin 탑승기: 오픈 소스 입문 이야기**](https://www.slideshare.net/JunKim22/zeppelin-72758451)
 * [오픈 소스와 코드 리뷰](https://www.slideshare.net/seojuyung/ss-77423315)
   * [Carsten Haitlzer talks about open source code review](https://www.youtube.com/watch?v=6OehY7D5Ex0)
 * [나의 오픈소스 이야기](https://speakerdeck.com/achimnol/oss-gaebalja-poreom-nayi-opeunsoseu-iyagi)
@@ -42,7 +42,7 @@ Open Source
 * [나의 첫 오픈 소스 기여 ✨](https://www.notion.so/a0f24962593948d9a7a18a20e1d8f1cb)
 * [오픈소스 프로젝트에 참여해야 하는 이유](https://www.youtube.com/watch?v=OppYgZSQlFE)
 * [오픈 소스 프로젝트를 더 잘 릴리스하는 요령들](https://spoqa.github.io/2017/09/28/foss-release-tips.html)
-* **[사내에서 눈치를 안 보고 오픈소스 프로젝트 하기](http://kimjihyok.info/2017/09/27/%EC%82%AC%EB%82%B4%EC%97%90%EC%84%9C-%EB%88%88%EC%B9%98%EB%A5%BC-%EC%95%88-%EB%B3%B4%EA%B3%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EA%B8%B0/)**
+* [**사내에서 눈치를 안 보고 오픈소스 프로젝트 하기**](http://kimjihyok.info/2017/09/27/%EC%82%AC%EB%82%B4%EC%97%90%EC%84%9C-%EB%88%88%EC%B9%98%EB%A5%BC-%EC%95%88-%EB%B3%B4%EA%B3%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EA%B8%B0/)
 * [오픈소스를 쇼핑하는 엔지니어](http://www.mobiinside.com/kr/2017/11/24/buzzvil-opensource/)
 * [A Bitter Guide To Open Source](https://medium.com/@ken_wheeler/a-bitter-guide-to-open-source-a8e3b6a3c1c4)
 * [오픈소스 지속가능성 체계적으로 생각해보기](https://www.haruair.com/blog/4551)
@@ -171,7 +171,7 @@ Open Source
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)
   * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [Fossies - The "Fossies" Software Archive](http://fossies.org/)
-* **[Github - 오픈소스 기여를 위한 GITHUB 개념정리](http://guruble.com/?p=116)**
+* [**Github - 오픈소스 기여를 위한 GITHUB 개념정리**](http://guruble.com/?p=116)
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [H3 2012 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
 * [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
@@ -237,7 +237,7 @@ Open Source
 * Keystone
   * [Evolution of the Netflix Data Pipeline](https://medium.com/netflix-techblog/evolution-of-the-netflix-data-pipeline-da246ca36905)
   * [Kafka Inside Keystone Pipeline](https://medium.com/netflix-techblog/kafka-inside-keystone-pipeline-dd5aeabaf6bb)
-  * **[Keystone Real-time Stream Processing Platform](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)**
+  * [**Keystone Real-time Stream Processing Platform**](https://medium.com/netflix-techblog/keystone-real-time-stream-processing-platform-a3ee651812a)
     * Apache kafka & flink를 이용한 stream processing platform 설명
 * Metacat
   * [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://medium.com/netflix-techblog/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520)

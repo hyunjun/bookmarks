@@ -3,7 +3,7 @@ R
 * [awesome-r.com](https://awesome-r.com/)
 * [R – 체계적 위험 척도 베타 계수 자동 계산](http://www.creativeworksofknowledge.com/2015/04/10/calculating-beta-coefficient-using-r/)
 * [The easiest way to learn R programming and data science](https://www.datacamp.com/)
-* **[mrkevinna.github.io](https://mrkevinna.github.io/)** crawler, 시각화, 기계학습, 분류모형, ...
+* [**mrkevinna.github.io**](https://mrkevinna.github.io/) crawler, 시각화, 기계학습, 분류모형, ...
 * [김형준](http://soeque1.github.io/r_slide/)
 * [pubdata.tistory.com/category/Lecture_R](http://pubdata.tistory.com/category/Lecture_R)
 * [SAS vs. R (vs. Python) – which tool should I learn?](http://www.analyticsvidhya.com/blog/2014/03/sas-vs-vs-python-tool-learn/)
@@ -18,7 +18,7 @@ R
 * [R vs Python: Which is better for Data Science?](https://www.r-bloggers.com/r-vs-python-which-is-better-for-data-science/)
 * [R vs. Python for Data Science](https://github.com/matloff/R-vs.-Python-for-Data-Science/blob/master/README.md)
 * Data science with R
-  * **[1. 오해](http://blog.ab180.co/data-science-with-r-1-misperception/)**
+  * [**1. 오해**](http://blog.ab180.co/data-science-with-r-1-misperception/)
   * [2. 데이터 시각화](http://blog.ab180.co/data-science-with-r-2-data-visualization/)
   * [3. 최적화](http://blog.ab180.co/data-science-with-r-3-optimization/)
   * [4. 멀티 터치 기여도 모델](http://blog.ab180.co/data-science-with-r-4-multi-touch-attribution/)
@@ -143,7 +143,7 @@ R
   * [6강, 기초통계 함수 배워보기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-5%EA%B0%95-%EA%B8%B0%EC%B4%88%ED%86%B5%EA%B3%84-%ED%95%A8%EC%88%98-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EA%B8%B0-2/)
   * [7강, 가설, 그래프 배워보기](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%B0%EC%9A%B0%EB%8A%94-r-7%EA%B0%95-%EA%B0%80%EC%84%A4-%EA%B7%B8%EB%9E%98%ED%94%84-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EA%B8%B0/)
 * [Mapping “France at night” with the new sf package](http://sharpsightlabs.com/blog/mapping-france-night/)
-* **[정치 민주화, 경제 민주화, 그리고 정보 민주화](http://statkclee.github.io/politics/)**
+* [**정치 민주화, 경제 민주화, 그리고 정보 민주화**](http://statkclee.github.io/politics/)
 * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r)
 * [An Introduction to Stock Market Data Analysis with R (Part 1)](https://ntguardian.wordpress.com/2017/03/27/introduction-stock-market-data-r-1)
 * [mindmap - R for big data](http://www.xmind.net/m/LKF2)
@@ -216,7 +216,7 @@ R
 * [Bayesian piecewise regression with Stan and Uncertainty quatification](https://ecosang.github.io/blog/study/piecewise-regression-with-stan/)
 * 아빠가 들려주는 통계
   * [Competing Risk Model In R](http://blog.naver.com/kjhnav/221061540312)
-* **[www.di.fc.ul.pt/~jpn/r](http://www.di.fc.ul.pt/~jpn/r/)**
+* [**www.di.fc.ul.pt/~jpn/r**](http://www.di.fc.ul.pt/~jpn/r/)
 * [R Statistical Programming Using MariaDB as the Background Database](https://mariadb.com/kb/en/mariadb/r-statistical-programming-using-mariadb-as-the-background-database/)
 * [A Comprehensive Introduction to Working with Databases using R](https://www.r-bloggers.com/a-comprehensive-introduction-to-working-with-databases-using-r/)
 * [틀리지 않는 법](https://www.slideshare.net/ssuser7e30b2/ss-79308094)
@@ -364,7 +364,7 @@ R
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
 * [Data Visualization for Social Science - A practical introduction with R and ggplot2](http://socviz.co/)
 * [EasyR 김영우.pdf](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_2/Easy_R_write/EasyR_%EA%B9%80%EC%98%81%EC%9A%B0.pdf)
-* **[Exploratory Data Analysis with R](Exploratory Data Analysis with R)**
+* [**Exploratory Data Analysis with R**](Exploratory Data Analysis with R)
 * [Must Learning with R](https://wikidocs.net/book/2841)
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)
 * [R for Data Science](http://r4ds.had.co.nz/)
@@ -502,7 +502,7 @@ R
   * [readr package 의 guess_encoding() 함수를 이용한 Text 파일의 인코딩 타입 추론](https://lovetoken.github.io/r/2017/10/07/guessEncoding.html)
 * [RegExplain - an RStudio addin slash utility belt for regular expressions](https://github.com/gadenbuie/regexplain/#readme)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
-* **[ReporteRs - an R package for creating Microsoft Word and Powerpoint documents](https://davidgohel.github.io/ReporteRs/)**
+* [**ReporteRs - an R package for creating Microsoft Word and Powerpoint documents**](https://davidgohel.github.io/ReporteRs/)
 * reticulate
   * [FLASK ON R (W. RETICULATE)](http://lumiamitie.github.io/r/flask-on-r/)
   * [github.com/mrchypark/flaskR-docker](https://github.com/mrchypark/flaskR-docker)
@@ -522,7 +522,7 @@ R
   * [R과 Python을 같이 써 보자 – RPy2(1)](https://pabii.co/r-python-rpy2-1/)
 * [R Tools for Visual Studio preview now available](http://blog.revolutionanalytics.com/2016/03/rtvs-preview.html)
 * [rtmolitr - 국토부 제공하는 부동산 매매 거래 관련 데이터를 수집, 저장](https://github.com/mrchypark/rtmolitr)
-  * **[부동산 매매가격 추이 분석](http://www.rpubs.com/lth1011/246453)**
+  * [**부동산 매매가격 추이 분석**](http://www.rpubs.com/lth1011/246453)
 * [rtweet R client for interacting with Twitter's stream and REST APIs http://rtweet.info](https://github.com/mkearney/rtweet)
 * [Rvision](https://github.com/swarm-lab/Rvision)
 * [sejongFinData](https://github.com/mrchypark/sejongFinData)
@@ -593,13 +593,13 @@ R
 
 # Machine Learning
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
-* **[R을 활용한 머신러닝](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)**
+* [**R을 활용한 머신러닝**](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)
 * [A Guide to Machine Learning in R for Beginners: Logistic Regression](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)
 * [Machine Learning in R with TensorFlow](http://blog.revolutionanalytics.com/2018/02/r-with-tensorflow.html)
 * [R and TensorFlow Presentations](https://rviews.rstudio.com/2018/04/03/r-and-tensorflow-presentations/)
 * [OpenAI Gym Tutorial](http://rpubs.com/kkweon/gym-r-example)
 * [R for AI developers](https://www.infoq.com/presentations/r-framework-ai-apps)
-* **[Can we predict flu deaths with Machine Learning and R?](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post)**
+* [**Can we predict flu deaths with Machine Learning and R?**](https://shiring.github.io/machine_learning/2016/11/27/flu_outcome_ML_post)
 * [Twitter sentiment analysis with Machine Learning in R using doc2vec approach](https://www.r-bloggers.com/twitter-sentiment-analysis-with-machine-learning-in-r-using-doc2vec-approach/)
 * [Response Modeling using Machine Learning Techniques in R](https://www.datasciencecentral.com/profiles/blogs/response-modeling-using-machine-learning-techniques-in-r)
 * [Data Science and Machine Learning Bootcamp with R - Part 1](https://www.youtube.com/watch?v=6A3CkiNecD4)
@@ -654,11 +654,11 @@ R
   * [3 움직이는 지도로 표현하기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-3/)
   * [4 중앙선관위 투표 결과 데이터 크롤링하기](https://mrkevinna.github.io/R-%EC%A7%80%EB%8F%84-%EC%8B%9C%EA%B0%81%ED%99%94-4/)
 * [Data Visualization In R | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=_WyUme_H2ZQ)
-* **[Data Visualization A practical introduction](https://socviz.co)**
+* [**Data Visualization A practical introduction**](https://socviz.co)
 * [15 Stunning Data Visualizations (And What You Can Learn From Them)](https://towardsdatascience.com/15-stunning-data-visualizations-and-what-you-can-learn-from-them-fc5b78f21fb8)
 * [The 25 Best Data Visualizations of 2018](https://towardsdatascience.com/the-25-best-data-visualizations-of-2018-93643f0aad04)
 * [A Comprehensive Guide to Data Visualisation in R for Beginners](https://towardsdatascience.com/a-guide-to-data-visualisation-in-r-for-beginners-ef6d41a34174)
-* **[러시아 월드컵(2018) - 한국 vs 독일](https://statkclee.github.io/viz/viz-worldcup-germany.html)**
+* [**러시아 월드컵(2018) - 한국 vs 독일**](https://statkclee.github.io/viz/viz-worldcup-germany.html)
 * ggplot2
   * [How to make any plot in ggplot2?](http://r-statistics.co/ggplot2-Tutorial-With-R.html)
   * [Data Visualization with ggplot2](http://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf)

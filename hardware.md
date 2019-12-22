@@ -176,8 +176,8 @@
 
 # Raspberry Pi
 * [Raspberry Pi 문서](https://wikidocs.net/book/483)
-* **[김성엽의 라즈베리파이 이야기](http://blog.naver.com/tipsware/221008415316)**
-* **[This Open Source Online Raspberry Pi Simulator By Microsoft Works Right Inside Your Browser](https://fossbytes.com/online-raspberry-pi-simulator-microsoft-open-source/)**
+* [**김성엽의 라즈베리파이 이야기**](http://blog.naver.com/tipsware/221008415316)
+* [**This Open Source Online Raspberry Pi Simulator By Microsoft Works Right Inside Your Browser**](https://fossbytes.com/online-raspberry-pi-simulator-microsoft-open-source/)
 * [How to Build a GCC Cross-Compiler for the Raspberry Pi](http://blog.felipe.rs/2015/01/20/how-to-build-a-gcc-cross-compiler-for-the-raspberrypi/)
 * [fishpoint.tistory.com](http://fishpoint.tistory.com/category/%EA%B0%9C%EB%B0%9C%EC%9E%90/Raspberry%20Pi)
 * [라즈베리파이2로 만드는 작은 천사](http://angeliot.blogspot.kr/2015/04/2.html?spref=fb)

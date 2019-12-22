@@ -9,7 +9,7 @@ NLP
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
 * [A Review of the Neural History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
 * [Natural Language Processing (NLP) Tutorial | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=6WpnxmmkYys)
-* **[Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)**
+* [**Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition**](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
 * [Natural Language Processing Tutorial Part 1 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Na4ad0rqwQg)
 * [Natural Language Processing Tutorial Part 2 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=9LLs2I8_gQQ)
 * [Natural Language Processing Tutorial Part 3 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=af4C8OhoWlQ)
@@ -53,7 +53,7 @@ NLP
 * [Google Cloud 서비스 계정키 얻기 및 GCS 공유하기](https://jungwoon.github.io/google%20cloud/2017/11/17/Get-Service-Account-Key/)
 * [Understanding Convolutional Neural Networks for NLP](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
   * [자연어 처리 문제를 해결하는 CONVOLUTIONAL NEURAL NETWORKS 이해하기](http://blog.naver.com/rupy400/220776488979)
-* **[Convolutional Methods for Text](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)**
+* [**Convolutional Methods for Text**](https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f)
   * 텍스트 처리와 관련해서는 LSTM/GRU를 비롯한 RNNs 가 대세지만 CNN도 장점이 있는데 이를 잘 정리한 글
   * RNN이 순서에 영향을 받지만 CNN은 단어의 의미에 영향을 주는 데에 있어 조금 멀리 떨어져 있는 문장에서의 단어 등이 역할을 할 수 있음
   * 전체를 한꺼번에 보게 하는 데에는 더 유리
@@ -65,7 +65,7 @@ NLP
   2. conv s2s 이해를 위해 읽어야 할 논문 10+ 편
 * [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://research.microsoft.com/pubs/198202/cikm2013_DSSM_fullversion.pdf)
 * [시나브로 배우는 자연어처리](http://www.slideshare.net/shuraba1/ss-56479835)
-  * **[시나브로 배우는 자연어처리 실습자료](http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/part5/studybreak_zip/babel_zip.ipynb)**
+  * [**시나브로 배우는 자연어처리 실습자료**](http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/part5/studybreak_zip/babel_zip.ipynb)
 * [collocations.de - Association Measures](http://collocations.de/AM/index.html)
 * [Perpelxity](https://en.wikipedia.org/wiki/Perplexity)
   * [Perplexity in LM](http://hexists.tistory.com/215)
@@ -135,14 +135,14 @@ NLP
   * 실제와 예측이 불일치; False Positive / Negative
   * 발생했다고 예측 Positive, 발생하지 않았다고 예측 Negative
   * [정밀도와 재현율](https://ko.wikipedia.org/wiki/%EC%A0%95%EB%B0%80%EB%8F%84%EC%99%80_%EC%9E%AC%ED%98%84%EC%9C%A8)
-  * **[accuracy, precision, recall의 차이](http://shine-ing.tistory.com/m/157)**
+  * [**accuracy, precision, recall의 차이**](http://shine-ing.tistory.com/m/157)
   * [정확도(accuracy)와 정밀도(precision)의 차이](http://www.withrobot.com/technicalreport19/)
   * [en.wikipedia.org/wiki/Sensitivity_and_specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity)
   * [measure 상관관계](https://gist.github.com/hyunjun/aaa479bcf6485ea36e6add81c65d3e78)
   * [#2.6. Accuracy, Precision, Recall](https://www.youtube.com/watch?v=1jboC7nWnfM&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
   * [입개발자를 위한 Accuracy, Precision, Recall](http://www.popit.kr/%EC%9A%A9%EC%96%B4-%EC%A0%95%EB%A6%AC-%EC%9E%85%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-accuracy-precision-recall/)
   * [Classification 모델 평가 기준 1편](https://brunch.co.kr/@chris-song/54)
-  * **[Classification & Clustering 모델 평가](http://bcho.tistory.com/1206)**
+  * [**Classification & Clustering 모델 평가**](http://bcho.tistory.com/1206)
   * [Fighting Financial Fraud with Targeted Friction](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)
   * [Beyond Accuracy: Precision and Recall](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
   * [Precision vs Recall](https://towardsdatascience.com/precision-vs-recall-386cf9f89488)
@@ -174,7 +174,7 @@ NLP
     * Semantics – what is the meaning?: “no implementation bugs”
     * Pragmatics – what is the purpose or goal?: “implemented the right algorithm.”
 * [Deep Learning for Text Understanding from Scratch](http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html)
-* **[Mining English and Korean text with Python](https://www.lucypark.kr/courses/2015-ba/text-mining.html)**
+* [**Mining English and Korean text with Python**](https://www.lucypark.kr/courses/2015-ba/text-mining.html)
 * [How to get started in NLP](https://medium.com/towards-data-science/how-to-get-started-in-nlp-6a62aa4eaeff)
 * [NATURAL LANGUAGE GENERATION](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
 * [NLP for Korean](https://github.com/bage79/nlp4kor)
@@ -220,7 +220,7 @@ NLP
 * [Understanding and Applying Self-Attention for NLP - Ivan Bilan](https://www.youtube.com/watch?v=OYygPG4d9H0)
 * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 * [파이썬자연어처리](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrmRyBUMsDDFk_FyLF9fARR)
-* **[Text Analysis Developers’ Workshop 2018 참석 후기](http://freesearch.pe.kr/archives/4791)**
+* [**Text Analysis Developers’ Workshop 2018 참석 후기**](http://freesearch.pe.kr/archives/4791)
 * [Text Analysis in Excel: Real world use-cases](https://blog.paralleldots.com/product/use-cases-excel-add-text-analysis)
 * [Auto Tagging Stack Overflow Questions](https://towardsdatascience.com/auto-tagging-stack-overflow-questions-5426af692904)
 * [A Neural Network Model That Can Reason - Prof. Christopher Manning](https://www.youtube.com/watch?v=24AX4qJ7Tts)
@@ -259,7 +259,7 @@ NLP
 * [HMTL로 NLP의 최첨단 기술을 뛰어 넘다](https://parksurk.github.io/Beyond_current_NLP_with_HMTL-post)
 * [A Review of the Neural History of Natural Language Processing](http://ruder.io/a-review-of-the-recent-history-of-nlp/)
 * [Analyzing open-ended text? Its easier than you think!](https://blog.karna.ai/challenges-with-analyzing-open-ended-text-are-disappearing-a348d55e2ab2)
-* **[Fast Word Segmentation of Noisy Text](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)**
+* [**Fast Word Segmentation of Noisy Text**](https://towardsdatascience.com/fast-word-segmentation-for-noisy-text-2c2c41f9e8da)
 * [Solving NLP task using Sequence2Sequence model: from Zero to Hero](https://towardsdatascience.com/solving-nlp-task-using-sequence2sequence-model-from-zero-to-hero-c193c1bd03d1)
 * [Natural Language Processing is Fun! How computers understand Human Language](https://medium.com/@ageitgey/natural-language-processing-is-fun-9a0bff37854e)
 * [NLP 2018 highlights](https://docs.google.com/presentation/d/1dSP3j_nFIW3_pwlRLI-znj9pbS2sCCdRjKk49tUh3pE/mobilepresent?slide=id.p)
@@ -474,7 +474,7 @@ NLP
 * [4차 산업혁명 특별기획 ‘기계와의 대결’ 2부](http://news.kbs.co.kr/news/view.do?ncd=3336967)
 * [Facebook steps in to prove the value of chatbots with Tommy Hilfiger](https://techcrunch.com/2016/09/09/botty-hilfiger)
 * [The rise of bots... acquisitions!](https://www.linkedin.com/pulse/rise-bots-acquisitions-luigi-congedo)
-* **[라이크 어 Poncho: JiveScript 날씨 챗봇](http://www.popit.kr/how-to-make-korean-chatbot/)**
+* [**라이크 어 Poncho: JiveScript 날씨 챗봇**](http://www.popit.kr/how-to-make-korean-chatbot/)
 * [Heek is a chatbot that can build you a website](https://techcrunch.com/2016/10/03/heek-is-a-chatbot-that-can-build-you-a-website/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [혼자 힘으로 한국어 챗봇 개발하기](http://exagen.tistory.com/notice/63)
@@ -708,7 +708,7 @@ NLP
   * Word Embedding 시 형태소 tagging 필요하지 않음
   * 형태소 정보들이 많은 언어에서 기존보다 높은 성능 (언어 종속성 낮음)
 * [14. 텐서플로우(TensorFlow)를 이용해서 언어 모델(Language Model) 만들기 – Recurrent Neural Networks(RNNs) 예제 2 – PTB(Penn Tree Bank) 데이터셋](http://solarisailab.com/archives/1925)
-* **[How to Develop a Word Embedding Model for Predicting Movie Review Sentiment](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/)** keras, word2vec
+* [**How to Develop a Word Embedding Model for Predicting Movie Review Sentiment**](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/) keras, word2vec
 * [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
 * [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
 * [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
@@ -762,7 +762,7 @@ NLP
     * We can train fastText on more than one billion words in less than ten minutes using a standard multicore CPU, and classify half a million sentences among 312K classes in less than a minute.
   * [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606)
   * [Facebook’s Artificial Intelligence Research lab releases open source fastText on GitHub](https://techcrunch.com/2016/08/18/facebooks-artificial-intelligence-research-lab-releases-open-source-fasttext-on-github)
-  * **[Introduction to Natural Language Processing with fastText](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)**
+  * [**Introduction to Natural Language Processing with fastText**](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_NLP_with_fastText/Intro_to_NLP.ipynb)
   * [FastText.zip: Compressing text classification models](https://arxiv.org/abs/1612.03651)
   * [Pre-trained word vectors](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
   * [Aligning the fastText vectors of 78 languages](https://github.com/Babylonpartners/fastText_multilingual)
@@ -856,7 +856,7 @@ NLP
 * [TajaJS is a simple Hangul library in JavaScript](https://github.com/linterpreteur/taja.js)
 
 ## Library Python
-* **[13 Deep Learning Frameworks for Natural Language Processing in Python](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)**
+* [**13 Deep Learning Frameworks for Natural Language Processing in Python**](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
 * [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
   * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
@@ -1168,7 +1168,7 @@ NLP
 * [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)
 * [Tversky index](https://en.wikipedia.org/wiki/Tversky_index)
 * [FIVE MOST POPULAR SIMILARITY MEASURES IMPLEMENTATION IN PYTHON](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
-* **[Vector_Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"](https://github.com/taki0112/Vector_Similarity)**
+* [**Vector_Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"**](https://github.com/taki0112/Vector_Similarity)
 * [MinHash Tutorial with Python Code](http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
 * [Vector_Similarity](https://github.com/taki0112/Vector_Similarity/blob/master/README.md)
 * [NMF 알고리즘을 이용한 유사한 문서 검색과 구현(1/2)](http://bcho.tistory.com/1216) matrix factorization
@@ -1225,7 +1225,7 @@ NLP
 * [파이썬으로 네이버 맞춤법 검사하기](https://festi.kr/blog/924384d4-1059-4093-acc0-ff48fbacf7f1/)
 * [한글 검색 질의어 오타 패턴 분석과 사용자 로그를 이용한 질의어 오타 교정 시스템 구축](http://www.slideshare.net/gogamza/ss-6265729)
 * [사쿠라 훈민정음](http://terms.naver.com/list.nhn?cid=41818&categoryId=41818&so=st4.asc)
-* **[Word Prediction using Convolutional Neural Networks](https://github.com/Kyubyong/word_prediction)**
+* [**Word Prediction using Convolutional Neural Networks**](https://github.com/Kyubyong/word_prediction)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
@@ -1235,7 +1235,7 @@ NLP
 * [Natural Language Processing (NLP) & Text Mining Tutorial Using NLTK | NLP Training | Edureka](https://www.youtube.com/watch?v=05ONoGfmKvA)
 
 # TextRank
-* **[TextRank를 이용한 문서요약](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD)**
+* [**TextRank를 이용한 문서요약**](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD)
 * [TextRank for Korean](https://github.com/theeluwin/textrankr)
 * [LexRank for Korean](https://github.com/theeluwin/lexrankr)
 * [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
@@ -1368,10 +1368,10 @@ NLP
 * voice [Common Voice Project](https://voice.mozilla.org/)
 
 # Wikipedia
-* **[practice](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)**
+* [**practice - wikipedia**](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)
 * [A Multilingual Corpus of Automatically Extracted Relations from Wikipedia](http://googleresearch.blogspot.kr/2015/06/a-multilingual-corpus-of-automatically.html)
 * [Exploring Wikipedia with Gremlin Graph Traversals](http://markorodriguez.com/2012/03/07/exploring-wikipedia-with-gremlin-graph-traversals/)
-* **[Fact Extraction from Wikipedia Text](https://github.com/dbpedia/fact-extractor)**
+* [**Fact Extraction from Wikipedia Text**](https://github.com/dbpedia/fact-extractor)
 * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
 * [wiki - Command line tool to fetch summaries from mediawiki wikis, like Wikipedia](https://github.com/walle/wiki)
 * [What are the ten most cited sources on Wikipedia? Let’s ask the data](https://medium.com/freely-sharing-the-sum-of-all-knowledge/what-are-the-ten-most-cited-sources-on-wikipedia-lets-ask-the-data-34071478785a)
@@ -1391,7 +1391,7 @@ NLP
 * [2015 py con word2vec이 추천시스템을 만났을 때](http://www.slideshare.net/ssuser2fe594/2015-py-con-word2vec)
 * [한국어와 NLTK, Gensim의 만남](http://www.slideshare.net/lucypark/nltk-gensim)
 * [한국어와 NLTK, Gensim의 만남](https://www.lucypark.kr/slides/2015-pyconkr/)
-* **[Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)**
+* [**Word2Vec Vector Algebra Comparison - Python(Gensim) VS Scala(Spark)**](http://hoondongkim.blogspot.com/2016/07/word2vec-vector-algebra-comparison.html)
 * [FastText and Gensim word embeddings](http://rare-technologies.com/fasttext-and-gensim-word-embeddings/)
 * [word2vec with gensim](http://m.blog.naver.com/pdc222/220693024820)
 * [단어 임베딩의 원리와 gensim.word2vec 사용법](https://www.datascienceschool.net/view-notebook/6927b0906f884a67b0da9310d3a581ee/)

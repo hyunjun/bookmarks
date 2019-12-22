@@ -143,7 +143,7 @@ Coursera
     * [Lecture 1.1 - Queries with For](https://www.coursera.org/learn/progfun2/lecture/CRzdu/lecture-1-1-queries-with-for)
       * `{ for { ... } yield ... }.distinct`
   * 2017.02.24
-    * **[Recap: Collections](https://www.coursera.org/learn/progfun2/lecture/apcY8/recap-collections)**
+    * [**Recap: Collections**](https://www.coursera.org/learn/progfun2/lecture/apcY8/recap-collections)
       * Idealized map, flatMap, filter 설명, Translation of For(for-expression == map or flatMap)
     * [Recap: Functions and Pattern Matching](https://www.coursera.org/learn/progfun2/lecture/zsnJ0/recap-functions-and-pattern-matching)
       * PartialFunction은 가장 바깥 pattern만 match

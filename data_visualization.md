@@ -182,7 +182,7 @@ Data Visualization
 * [Visualization: Mapping Global Earthquake Activity](http://introtopython.org/visualization_earthquakes.html)
 * [Introduction to Data Visualization with Python](https://www.datacamp.com/courses/introduction-to-data-visualization-with-python)
 * [LoRa nodes real-time data plotting using Python for microcontrollers](https://www.zerynth.com/blog/lora-nodes-real-time-data-plotting-using-python-for-microcontrollers/)
-* **[python-graph-gallery.com](https://python-graph-gallery.com/)**
+* [**python-graph-gallery.com**](https://python-graph-gallery.com/)
 * [파이썬 데이터 시각화](https://www.youtube.com/playlist?list=PLaTc2c6yEwmrDbDXa4GUohKp_2RkmJj-a)
 * [Visualizing Data with Pairs Plots in Python](https://towardsdatascience.com/visualizing-data-with-pair-plots-in-python-f228cf529166)
 * [Web Scraping, Regular Expressions, and Data Visualization: Doing it all in Python](https://towardsdatascience.com/web-scraping-regular-expressions-and-data-visualization-doing-it-all-in-python-37a1aade7924)
@@ -195,7 +195,7 @@ Data Visualization
   * [2. 도로 네트워크 구성 및 시각화 하기](https://junpyopark.github.io/road-network-construction-2/)
 * [Best Python Visualization Libraries for Data Science in 2018](https://www.techleer.com/articles/535-best-python-visualization-libraries-for-data-science-in-2018/)
 * [How to Create Animated Graphs in Python](https://towardsdatascience.com/how-to-create-animated-graphs-in-python-bb619cc2dec1)
-* **[Python에서 데이터 시각화하는 다양한 방법](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)**
+* [**Python에서 데이터 시각화하는 다양한 방법**](https://zzsza.github.io/development/2018/08/24/data-visualization-in-python/)
 * [Data Visualization and Exploration with Python || Stephen Elston](https://www.youtube.com/watch?v=qP3cQZ-lmv0)
 * [파이썬 공공데이터 분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmpoDDdE9C1p0xfQXz6eEzmH)
 * [The Art of Effective Visualization of Multi-dimensional Data](https://towardsdatascience.com/the-art-of-effective-visualization-of-multi-dimensional-data-6c7202990c57)
@@ -207,7 +207,7 @@ Data Visualization
 * [Folium - 파이썬으로 위경도 정보 다루기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmp3ZxMgXkeqU9jAERUOq1Rb)
 * [The Next Level of Data Visualization in Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
 * [Large Scale Visualizations and Mapping with Datashader](https://towardsdatascience.com/large-scale-visualizations-and-mapping-with-datashader-d465f5c47fb5)
-* **[OpenDataWrangling - 공공데이터 분석 https://goo.gl/TJeiTi ](https://github.com/corazzon/OpenDataWrangling)** 다양한 youtube + ipynb
+* [**OpenDataWrangling - 공공데이터 분석 https://goo.gl/TJeiTi **](https://github.com/corazzon/OpenDataWrangling) 다양한 youtube + ipynb
 * 버거지수 2019
   * [(1) 버거킹, 맥도날드, KFC](https://blog.naver.com/idjoopal/221513074069)
   * [(2) 롯데리아, 맘스터치](https://blog.naver.com/idjoopal/221513535891)
@@ -227,10 +227,10 @@ Data Visualization
 * [**데이터 시각화**](https://dailyheumsi.tistory.com/category/%EB%B0%B0%EC%9A%B4%EA%B1%B0%20%EC%A0%81%EC%96%B4%EB%86%93%EA%B8%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94)
 * [이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
-  * **[An Introduction to Altair](http://vallandingham.me/altair_intro.html)**
+  * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * Bokeh
   * [DRAWING A BRAIN WITH BOKEH](https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh)
-  * **[Plotly 말고 Bokeh 도 있다](http://hamait.tistory.com/842)** Rendering Bokeh plots in Flask
+  * [**Plotly 말고 Bokeh 도 있다**](http://hamait.tistory.com/842) Rendering Bokeh plots in Flask
   * [Bokeh 0.12.6 Released](https://bokeh.github.io/blog/2017/6/13/release-0-12-6/)
   * Data Visualization with Bokeh in Python
     * [Part I Getting Started](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4)
@@ -312,7 +312,7 @@ Data Visualization
   * [시계열데이터 시각화에 좋은 선그래프 lineplot 그리기](https://www.youtube.com/watch?v=GJM1QXwXtEw)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
-* **[How to Create NBA Shot Charts in Python](http://savvastjortjoglou.com/nba-shot-sharts.html)**
+* [**How to Create NBA Shot Charts in Python**](http://savvastjortjoglou.com/nba-shot-sharts.html)
 * [Working with maps in Python](http://maxberggren.github.io/2015/08/04/basemap/)
 * [Python을 이용한 위치에서 속도를 구하는 여러가지 방법에 대한 예제](http://pinkwink.kr/782)
 * [How to make beautiful data visualizations in Python with matplotlib](http://www.randalolson.com/2014/06/28/how-to-make-beautiful-data-visualizations-in-python-with-matplotlib/)
@@ -333,7 +333,7 @@ Data Visualization
 * [편향된 여론조사? 간단히 살펴보자](http://jsideas.net/python/2017/04/05/op_poll.html)
 * [Numpy, Pandas, SciPy, Scikit-learn, Matplotlib 정리](http://hamait.tistory.com/819)
 * [Jupyter에서 Matplotlib 한글 적용하기](http://yujuwon.tistory.com/m/entry/Jupyter%EC%97%90%EC%84%9C-Matplotlib-%ED%95%9C%EA%B8%80-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
-* **[Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)**
+* [**Effectively Using Matplotlib**](http://pbpython.com/effective-matplotlib.html)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [폼 나게 이쁜 그래프 그려보기 - Matplotlib 예제](http://pinkwink.kr/840)
 * [matplotlib + 한글 (OSX)](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/matplotlib-hangul-for-osx.ipynb)
@@ -345,7 +345,7 @@ Data Visualization
 * [gist.github.com/minhokim0201](https://gist.github.com/minhokim0201)
 * [How-To: Python Compare Two Images](https://www.pyimagesearch.com/2014/09/15/python-compare-two-images)
 * [python + OpenStreetMapで地図にデータをプロットする](https://qiita.com/duonys/items/c941bc2818abe5cc1da7)
-* **[itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal](https://github.com/daleroberts/itermplot)**
+* [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [Python: matplotlib hangs and shows nothing (Mac OS X)](https://markhneedham.com/blog/2015/03/26/python-matplotlib-hangs-and-shows-nothing-mac-os-x/)
 * [Matplotlib: 폰트 기본 경로를 찾을 수 없을 때](http://ohgyun.com/769) mac font directory 설정 변경
 * [Simple Method of Creating Animated Graphs](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)

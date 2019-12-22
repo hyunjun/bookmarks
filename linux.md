@@ -63,8 +63,8 @@ Linux
 * [GPG 서명 관련 팁들 모음](http://kunny.github.io/etc/2017/05/21/common_tips_in_gpg_signing/)
 * [PortIO 메모리와 PS/2 Keyboard IO 입력처리](https://devsdk.github.io/development/2017/07/04/PortIOAndKeyboard.html)
 * [Linux 원격 백업 구현하기 (Dropbox 에 백업하기)](https://blog.lael.be/post/5952)
-* **[리눅스 시스템 프로그래밍을 배울때 꼭 알아야 할 사전 지식, 혹은 체크 항목](http://sunyzero.tistory.com/247)**
-* **[Different I/O Access Methods for Linux, What We Chose for Scylla, and Why](http://www.scylladb.com/2017/10/05/io-access-methods-scylla/)**
+* [**리눅스 시스템 프로그래밍을 배울때 꼭 알아야 할 사전 지식, 혹은 체크 항목**](http://sunyzero.tistory.com/247)
+* [**Different I/O Access Methods for Linux, What We Chose for Scylla, and Why**](http://www.scylladb.com/2017/10/05/io-access-methods-scylla/)
   * (데이터베이스, 개체 저장소, 기타 마이크로 서비스를 운영하는 엔지니어라면 반드시 알아야할 주제인) 리눅스 시스템의 I/O 엑세스 방법들 설명
   * Scylla가 asynchronous direct I/O를 선택한 이유 설명
 * `~/.bash_profile`
@@ -75,16 +75,16 @@ Linux
 * [Linux 서버에 JIRA 설치하기](https://jungwoon.github.io/jira/2018/04/04/Install-JIRA-On-Demand/)
 * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/compute%20engine/2018/04/13/Data-JIRA-Installation-On-GCE/)
 * [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://www.youtube.com/watch?time_continue=1&v=JbH-xzD7IkE)
-* **[파일(file)에 대한 토막글](https://sunyzero.tistory.com/260)**
-* **[Java, max user processes, open files](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html)**
+* [**파일(file)에 대한 토막글**](https://sunyzero.tistory.com/260)
+* [**Java, max user processes, open files**](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html)
   * [java, open files, max user processes](http://jojoldu.tistory.com/287)
 * [Julia's drawing](https://drawings.jvns.ca/)
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
-* **[Understanding disk usage in Linux](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)**
+* [**Understanding disk usage in Linux**](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)
   * [번역 - Understanding disk usage in Linux](https://github.com/hatsari/article/blob/master/understanding_disk_usage_in_linux/understanding_disk_usage_in_linux_ko.md)
 * [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
-* **[The 101 of ELF files on Linux: Understanding and Analysis](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)**
-* **[리눅스 서버 60초안에 상황파악하기](https://b.luavis.kr/server/linux-performance-analysis)**
+* [**The 101 of ELF files on Linux: Understanding and Analysis**](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)
+* [**리눅스 서버 60초안에 상황파악하기**](https://b.luavis.kr/server/linux-performance-analysis)
 * [리눅스 응용프로그램 실행 시 ASLR(Address Space Layout Randomization) 기능 끄고 실행하기](http://kkamagui.tistory.com/905)
 * [How to install a device driver on Linux](https://opensource.com/article/18/11/how-install-device-driver-linux)
 * [EXT4 에서 달라진 부분들 #1](https://charsyam.wordpress.com/2018/12/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-ext4-%ec%97%90%ec%84%9c-%eb%8b%ac%eb%9d%bc%ec%a7%84-%eb%b6%80%eb%b6%84%eb%93%a4-1/)
@@ -113,8 +113,8 @@ Linux
 
 # Command
 * practice
-  * [get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
-  * [file path에 space가 있을 때 vi로 여러 파일을 한 번에 열기](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-vi_multiple_file_paths_which_have_space-md) grep, cut, sort, sed, xargs
+  * [practice - get file creation time](https://gist.github.com/hyunjun/63f16a820cbbed2d094a18e024a70fb6)
+  * [practice - file path에 space가 있을 때 vi로 여러 파일을 한 번에 열기](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-vi_multiple_file_paths_which_have_space-md) grep, cut, sort, sed, xargs
 * [10가지 재밌는 리눅스 명령어들](http://www.clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=338629) cmatrix, asciiviewer, rev, yes, rig, figlet, toilet, banner, text to speech with espeak, :(){:|:&};:
 * [백그라운드로 작업하는 몇 가지 방법](http://jybaek.tistory.com/683)
 * [리눅스 명령어 삼대장: find, grep, awk](http://jybaek.tistory.com/704)
@@ -146,9 +146,9 @@ Linux
 * [SCP vs SFTP - 5 Key Comparisons](https://www.jscape.com/blog/scp-vs-sftp)
 * [Linux 공부 14 - 개념 정리](http://throughkim.kr/2017/01/09/linux-14/)
 * [리눅스 실무기술300](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-linux_practical_tech300-md)
-* **[8 super heroic Linux commands that you probably aren't using](https://www.youtube.com/watch?v=Zuwa8zlfXSY)**
+* [**8 super heroic Linux commands that you probably aren't using**](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
-* **[The Art of Command Line](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md)** 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
+* [**The Art of Command Line**](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md) 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
 * [Munging CSV files with standard Unix tools](https://www.johndcook.com/blog/2019/08/30/cut-sort-awk/) cut sort awk
 * [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/704)
@@ -157,7 +157,7 @@ Linux
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
-  * [practice](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
+  * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
   * [One Time Task Scheduling using `at` Command in Linux](http://tecadmin.net/one-time-task-scheduling-using-at-commad-in-linux/)
   * [Understand at, atq, atrm, batch Commands using 9 Examples](http://www.thegeekstuff.com/2010/06/at-atq-atrm-batch-command-examples/)
@@ -178,7 +178,7 @@ Linux
   * `comm [-1] [-2] [-3] [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2, -3 does the same for duplicated lines)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
 * crontab
-  * **[Crontab Generator](https://crontab-generator.org/)**
+  * [**Crontab Generator**](https://crontab-generator.org/)
   * [crontab.guru](http://crontab.guru/)
   * [cron and crontab usage and examples](https://www.pantz.org/software/cron/croninfo.html)
   * `` `date "+\%Y\%m\%d"` `` [How can I execute `date` inside of a cron tab job?](http://unix.stackexchange.com/questions/29578/how-can-i-execute-date-inside-of-a-cron-tab-job)
@@ -396,7 +396,7 @@ Linux
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
 * `tcpdump`
   * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
-  * **[tcpdump를 활용한 타임아웃 분석](https://brunch.co.kr/@alden/38)**
+  * [**tcpdump를 활용한 타임아웃 분석**](https://brunch.co.kr/@alden/38)
   * [Tcpdump Examples](https://hackertarget.com/tcpdump-examples/)
   * [tcpdump 기본 사용법](http://jojoldu.tistory.com/316)
 * `top`
@@ -421,7 +421,7 @@ Linux
 * [upstart](http://upstart.ubuntu.com/)
   * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
   * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)
-  * [practice](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
+  * [practice - upstart](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
 * uptime
   * [uptime 명령어](https://johngrib.github.io/wiki/uptime/)
 * `watch`
@@ -498,17 +498,17 @@ Linux
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
-* **[cheat.sh - the only cheat sheet you need https://cheat.sh](https://github.com/chubin/cheat.sh)**
+* [**cheat.sh - the only cheat sheet you need https://cheat.sh**](https://github.com/chubin/cheat.sh)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
 * [cronitor.io - Monitor cron jobs, microservices and almost anything else](https://cronitor.io/)
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
 * [ctop - concise commandline monitoring for containers](https://github.com/bcicen/ctop)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
 * [DH Box platform](http://dhbox.org/)
-* **[direnv -- Unclutter your .profile](https://direnv.net/)**
+* [**direnv -- Unclutter your .profile**](https://direnv.net/)
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
   * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
-* **[entr - A utility for running arbitrary commands when files change](https://github.com/clibs/entr)**
+* [**entr - A utility for running arbitrary commands when files change**](https://github.com/clibs/entr)
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [fzf](https://github.com/junegunn/fzf)
   * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
@@ -567,7 +567,7 @@ Linux
   * [THE STACK AND THE HEAP](https://www.cs.berkeley.edu/~jrs/61b/lec/09) java stack, stack frame, and heap
 * [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/)
 * [번역 Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
-* **[Out Of Memory Killer 회피하기](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92)**
+* [**Out Of Memory Killer 회피하기**](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92)
 
 # Network
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/)
@@ -630,7 +630,7 @@ Linux
     ```
 * [redhat7 When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
 * [00. 리눅스(CentOS) 개발 놀이터 만들기 - 목차](http://cionman.tistory.com/16)
-* **[인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)**
+* [**인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기**](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)
 * [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))
 * [CentOS7 리눅스 한글 입력기 설정](http://sunyzero.tistory.com/253)
 * [Scenario>Backup Script](https://developer-ankiwoong.tistory.com/533)
@@ -671,7 +671,7 @@ Linux
 # [Tmux](https://tmux.github.io/)
 * [install](http://linoxide.com/how-tos/install-tmux-manage-multiple-linux-terminals/)
 * [Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
-* **[A Tmux crash course: tips and tweaks](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)**
+* [**A Tmux crash course: tips and tweaks**](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
 * [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)

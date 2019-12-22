@@ -14,7 +14,7 @@ Deep Learning
 * [구글, 유다시티에 딥러닝 강의 무료 공개](http://www.bloter.net/archives/248374)
 * [헬로 딥러닝 : 쉽고도 명확하게 이해하는 딥러닝](https://www.youtube.com/playlist?list=PLefQdA1SdkhsO4yGqIFAWcG6vr211di1j)
 * [모두를 위한 딥러닝 강좌](http://www.se.or.kr/m/post/161)
-  * **[기본적인 머신러닝과 딥러닝 강의](http://hunkim.github.io/ml/)**
+  * [**기본적인 머신러닝과 딥러닝 강의**](http://hunkim.github.io/ml/)
   * [TensorFlow-Tutorials](https://github.com/hunkim/TensorFlow-Tutorials)
   * [TensorFlow Basic Tutorial Labs](https://github.com/hunkim/DeepLearningZeroToAll)
   * [Lec 00 - Machine/Deep learning 수업의 개요와 일정](https://www.youtube.com/watch?v=BS6O0zOGX4E)
@@ -73,7 +73,7 @@ Deep Learning
 * [Building Safe A.I.  A Tutorial for Encrypted Deep Learning](https://iamtrask.github.io/2017/03/17/safe-ai)
 * [Deep Learning - Taking machine learning to the next level](https://www.udacity.com/course/deep-learning--ud730)
 * [Deep Learning Nanodegree Foundation](https://github.com/udacity/deep-learning)
-* **[Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)**
+* [**Awesome Deep Learning**](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/awesome-deep-learning-resources)
 * [DeepLearning-Summary](https://github.com/taki0112/Awesome-DeepLearning-Study)
 * [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
@@ -515,7 +515,7 @@ Deep Learning
   * 바이두에서 ring allreduce라는 알고리즘으로 해결
 * [実世界の人工知能@DeNA TechCon 2017](https://www.slideshare.net/pfi/dena-techcon-2017)
 * [Deep Forest: Towards An Alternative to Deep Neural Networks](https://arxiv.org/abs/1702.08835)
-* **[Asynchronous Advantage Actor-Critic (A3C)](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/)**
+* [**Asynchronous Advantage Actor-Critic (A3C)**](https://jay.tech.blog/2017/01/19/asynchronous-advantage-actor-critic-a3c/)
 * [스스로 코딩을 하는 인공지능의 현 주소-Deepcoder](http://etinow.me/187)
 * [Improving Hardware Efficiency for DNN Applications](https://www.slideshare.net/ChesterChen/improving-hardware-efficiency-for-dnn-applications)
 * [DeepLearning 연구 2016 년의 정리](https://translate.google.com/translate?sl=ja&tl=ko&js=y&prev=_t&hl=ko&ie=UTF-8&u=http%3A%2F%2Fqiita.com%2Feve_yk%2Fitems%2Ff4b274da7042cba1ba76&edit-text) 일본어 번역
@@ -528,7 +528,7 @@ Deep Learning
 * [Rethinking Generalization in Deep Learning](https://medium.com/intuitionmachine/rethinking-generalization-in-deep-learning-ec66ed684ace)
 * [Deep Learning From A to Z (Raphael Gontijo Lopes)](https://www.youtube.com/watch?v=DYlHnxfrrZY)
 * [Linear algebra cheat sheet for deep learning](https://medium.com/towards-data-science/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
-* **[Linear Algebra for Deep Learning](https://towardsdatascience.com/linear-algebra-for-deep-learning-506c19c0d6fa)**
+* [**Linear Algebra for Deep Learning**](https://towardsdatascience.com/linear-algebra-for-deep-learning-506c19c0d6fa)
 * [The Black Magic of Deep Learning - Tips and Tricks for the practitioner](https://nmarkou.blogspot.com/2017/02/the-black-magic-of-deep-learning-tips.html)
 * [Game Theory reveals the Future of Deep Learning](https://medium.com/intuitionmachine/game-theory-maps-the-future-of-deep-learning-21e193b0e33a)
 * [Game Theory Study (1) Introduction and Overview](http://sanghyukchun.github.io/101/)
@@ -556,7 +556,7 @@ Deep Learning
 * [Affine Transformation](http://blog.naver.com/atelierjpro/221014255070)
 * [애파인 변환 Affine Transformation](https://www.youtube.com/watch?v=DSmXIYkp024)
 * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
-* **[Applying deep learning to real-world problems](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)**
+* [**Applying deep learning to real-world problems**](https://medium.com/merantix/applying-deep-learning-to-real-world-problems-ba2d86ac5837)
 * [Practical UseCases of Deep Learning Techniques](http://www.cognitivetoday.com/2016/11/practical-deeplearning-usecases-2.html)
 * [Practical UseCases of Deep Learning Techniques… Part II](http://www.cognitivetoday.com/2017/02/practical-deeplearning-usecases.html)
 * [알기쉬운 Variational autoencoder](https://www.slideshare.net/ssuser06e0c5/variational-autoencoder-76552518)
@@ -569,7 +569,7 @@ Deep Learning
 * [강화학습 DDPG 리뷰 Deep Deterministic Policy Gradient](https://www.slideshare.net/ssuser41d7e01/ddpg-deep-deterministic-policy-gradient-139832691)
 * [Policy Gradient is all you need! A step-by-step tutorial for well-known PG methods](https://github.com/MrSyee/pg-is-all-you-need)
 * [You can probably use deep learning even if your data isn't that big](http://beamandrew.github.io/deeplearning/2017/06/04/deep_learning_works.html)
-* **[번역 2017년 iOS를 위한 나의 개발 툴 셋](http://blog.canapio.com/107)**
+* [**번역 2017년 iOS를 위한 나의 개발 툴 셋**](http://blog.canapio.com/107)
 * [The $1700 great Deep Learning box: Assembly, setup and benchmarks](https://blog.slavv.com/the-1700-great-deep-learning-box-assembly-setup-and-benchmarks-148c5ebe6415)
 * [Kernel Mixture Networks](https://janvdvegt.github.io/2017/06/07/Kernel-Mixture-Networks.html)
 * [Taxonomy of Methods for Deep Meta Learning](http://www.kdnuggets.com/2017/06/taxonomy-methods-deep-meta-learning.html)
@@ -590,7 +590,7 @@ Deep Learning
 * [김태희의 닮은꼴도 머신러닝으로 구분할 수 있을까?](https://brunch.co.kr/@kmbmjn95/20)
 * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [번외 Why does deep and cheap learning work so well?](http://suma_maple.blog.me/221064089784)
-* **[MNIST 시각화 - 차원 감소](https://brunch.co.kr/@chris-song/37)**
+* [**MNIST 시각화 - 차원 감소**](https://brunch.co.kr/@chris-song/37)
 * [#4.0. 정보량을 나타내는 엔트로피 (Entropy)](https://www.youtube.com/watch?v=zJmbkp9TCXY&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq&index=19)
 * [Designing a Deep Learning Project](https://medium.com/@erogol/designing-a-deep-learning-project-9b3698aef127)
 * [github.com/parkskwan](https://github.com/parkskwan)
@@ -777,9 +777,9 @@ Deep Learning
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)
 * [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 * [Neural Networks: The Backpropagation algorithm in a picture](http://www.datasciencecentral.com/profiles/blogs/neural-networks-the-backpropagation-algorithm-in-a-picture)
-* **[Backpropagation 예제와 함께 완전히 이해하기](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)**
+* [**Backpropagation 예제와 함께 완전히 이해하기**](http://jaejunyoo.blogspot.com/2017/01/backpropagation.html)
 * [A Derivation of Backpropagation in Matrix Form](http://sudeepraja.github.io/Neural/)
-* **[Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/index.html)**
+* [**Calculus on Computational Graphs: Backpropagation**](http://colah.github.io/posts/2015-08-Backprop/index.html)
 * [Gradient Descent with Backpropagation](http://outlace.com/Beginner-Tutorial-Backpropagation/)
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [A Step by Step Backpropagation Example](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
@@ -820,7 +820,7 @@ Deep Learning
 * [Lecture 4 | Introduction to Neural Networks](https://www.youtube.com/watch?v=d14TUNcbn1k)
 * [The Backpropagation Algorithm Demystified](https://medium.com/@nathaliejeans7/the-backpropagation-algorithm-demystified-41b705229727)
 * [Nevergrad : A Python toolbox for performing gradient-free optimization](https://www.techleer.com/articles/576-nevergrad-a-python-toolbox-for-performing-gradient-free-optimization/)
-* **[역전파 알고리즘 완전정복 A Step by Step Backpropagation](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)**
+* [**역전파 알고리즘 완전정복 A Step by Step Backpropagation**](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
@@ -864,8 +864,8 @@ Deep Learning
   * [github.com/fchollet/deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
   * [Companion Jupyter notebooks for the book "Deep Learning with Python"](https://www.floydhub.com/redeipirati/projects/deep-learning-with-python-notebooks)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-  * **[numpy-neuralnet-exercise](https://github.com/hwalsuklee/numpy-neuralnet-exercise)**
-* **[Hands-On Reinforcement Learning With Python](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)**
+  * [**numpy-neuralnet-exercise**](https://github.com/hwalsuklee/numpy-neuralnet-exercise)
+* [**Hands-On Reinforcement Learning With Python**](https://github.com/sudharsan13296/Hands-On-Reinforcement-Learning-With-Python)
 * [좌충우돌 강화 학습의 이론과 구현 (원고)](http://books.sumeun.org/index.php/2019/01/14/sumeunrl/)
 * [deep-learning-books](https://github.com/devakar/deep-learning-books)
 * [Deep Learning Book Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
@@ -930,7 +930,7 @@ Deep Learning
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (1)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-1.html)
 * [초짜 대학원생 입장에서 이해하는 Generative Adversarial Nets (2)](http://jaejunyoo.blogspot.com/2017/01/generative-adversarial-nets-2.html)
 * [Catch me if you can: A simple english explanation of GANs or Dueling neural-nets](https://towardsdatascience.com/catch-me-if-you-can-a-simple-english-explanation-of-gans-or-dueling-neural-nets-319a273434db)
-* **[Generative adversarial networks](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)**
+* [**Generative adversarial networks**](http://www.slideshare.net/ssuser77ee21/generative-adversarial-networks-70896091)
 * [Generative Adversarial Networks](https://github.com/nlintz/TensorFlow-Tutorials/blob/master/11_gan.ipynb)
 * [PaintsChainer Demo](http://paintschainer.preferred.tech/)
   * [PaintsCahiner Code](https://github.com/pfnet/PaintsChainer)
@@ -1001,7 +1001,7 @@ Deep Learning
 * [PR12 딥러닝 논문읽기 모임](https://www.youtube.com/playlist?list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br)
 * [PR12 intro. to gans jaejun yoo](https://www.slideshare.net/thinkingfactory/pr12-intro-to-gans-jaejun-yoo)
 * [PR12 Deep Learning Paper Presentation List and Summary](https://github.com/taeoh-kim/pr12)
-* **[Variants of GANs - Jaejun Yoo](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)**
+* [**Variants of GANs - Jaejun Yoo**](https://www.slideshare.net/thinkingfactory/variants-of-gans-jaejun-yoo)
 * [아주 간단한 GAN 구현하기](http://blog.naver.com/atelierjpro/220984758512)
 * [The GAN Zoo](https://github.com/hindupuravinash/the-gan-zoo)
 * [Generative Adversarial Networks (LIVE)](https://www.youtube.com/watch?v=0VPQHbMvGzg)
@@ -1024,7 +1024,7 @@ Deep Learning
   * 이 자습서에서는 손으로 쓴 숫자의 이미지를 분석하고 점진적으로 새로운 이미지를 생성하는 GAN을 생성
   * 본질적으로 신경망을 작성하는 법을 가르칠 것
 * [GANGogh: Creating Art with GANs](https://medium.com/towards-data-science/gangogh-creating-art-with-gans-8d087d8f74a1)
-* **[(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN](http://ddanggle.github.io/GANinTorch)**
+* [**(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN**](http://ddanggle.github.io/GANinTorch)
 * [Meow Generator](https://ajolicoeur.wordpress.com/cats/)
   * DCGAN, WGAN, WGAN-GP, LSGAN 및 ReLU를 일괄 표준 대 SELU와 비교
 * [Deep-learning-with-cats](https://github.com/AlexiaJM/Deep-learning-with-cats)
@@ -1062,7 +1062,7 @@ Deep Learning
   * [(1) – 무엇에 관한 특허인가](https://steemit.com/kr/@daeho/gan-generative-adversarial-network-1)
   * [(2) – 논문 발표일과 특허 출원일의 상관관계(https://steemit.com/kr/@daeho/gan-generative-adversarial-network-2)
 * [Semi-Supervised Learning and GANs](https://towardsdatascience.com/semi-supervised-learning-and-gans-f23bbf4ac683)
-* **[GENERATIVE ADVERSARIAL NETWORK AND ITS APPLICATIONS TO SPEECH SIGNAL AND NATURAL LANGUAGE PROCESSING](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)**
+* [**GENERATIVE ADVERSARIAL NETWORK AND ITS APPLICATIONS TO SPEECH SIGNAL AND NATURAL LANGUAGE PROCESSING**](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)
 * [Towards data set augmentation with GANs](https://medium.com/jungle-book/towards-data-set-augmentation-with-gans-9dd64e9628e6)
 * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://jaejunyoo.blogspot.com/2018/05/paper-skim-progressive-growing-of-gans.html?m=1)
@@ -1175,11 +1175,11 @@ Deep Learning
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [mxnet - Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
   * [Awesome MXNet](https://github.com/chinakook/Awesome-MXNet) A curated list of MXNet examples, tutorials and blogs
-  * **[An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io](https://github.com/zackchase/mxnet-the-straight-dope)**
+  * [**An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io**](https://github.com/zackchase/mxnet-the-straight-dope)
   * [mxnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more http://mxnet.rtfd.org](https://github.com/dmlc/mxnet)
   * [MXNet - Deep Learning Framework of Choice at AWS](http://www.allthingsdistributed.com/2016/11/mxnet-default-framework-deep-learning-aws.html)
   * [Alex Smola at AI Frontiers: Scalable Deep Learning Using MXNet](https://www.slideshare.net/AIFrontiers/scalable-deep-learning-using-mxnet)
-  * **[MXNet을 활용한 이미지 분류 앱 개발하기](http://www.popit.kr/mxnet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EC%95%B1-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)**
+  * [**MXNet을 활용한 이미지 분류 앱 개발하기**](http://www.popit.kr/mxnet%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EC%95%B1-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
   * [github.com/JONGGON/Mxnet_Tutorial](https://github.com/JONGGON/Mxnet_Tutorial)
   * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/1155)
   * [MXNet for Deep Learning](https://github.com/apache/incubator-mxnet)
@@ -1302,7 +1302,7 @@ Deep Learning
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
-* **[Dive into Deep Learning - An interactive deep learning book for students, engineers, and reseachers](http://d2l.ai/)**
+* [**Dive into Deep Learning - An interactive deep learning book for students, engineers, and reseachers**](http://d2l.ai/)
   * 기초적인 수학부터 각종 net시리즈들 자연어처리와 고속 컴퓨팅을 위한 병렬처리, GPU사용법 등을 pdf와 github, jupyter note까지 제공
   * [코드, 수학, 그리고 토론과 함께하는 상호적인 딥러닝 책](http://ko.d2l.ai)
   * [Introduction to Deep Learning](https://courses.d2l.ai/berkeley-stat-157/index.html)
@@ -1328,10 +1328,10 @@ Deep Learning
   * [Sequence Models](https://www.youtube.com/playlist?list=PLkDaE6sCZn6F6wUI9tvS_Gw1vaFAx6rd6)
   * [Heroes of Deep Learning Interviews](https://www.youtube.com/playlist?list=PLkDaE6sCZn6FcbHlDzbVzf3TVgxzxK7lr)
 * [Dive into Deep Learning with 15 free online courses](https://medium.freecodecamp.com/dive-into-deep-learning-with-these-23-online-courses-bf247d289cc0)
-* **[edwith.org/deeplearningchoi](http://www.edwith.org/deeplearningchoi/)**
+* [**edwith.org/deeplearningchoi**](http://www.edwith.org/deeplearningchoi/)
 * [Podcast: The world needs AI researchers. Here’s how to become one](https://80000hours.org/2017/07/podcast-the-world-needs-ai-researchers-heres-how-to-become-one/)
-* **[Practical Deep Learning For Coders, Part 1](http://course.fast.ai/)**
-* **[Practical Deep Learning For Coders, Part 2](http://course.fast.ai/part2.html)**
+* [**Practical Deep Learning For Coders, Part 1**](http://course.fast.ai/)
+* [**Practical Deep Learning For Coders, Part 2**](http://course.fast.ai/part2.html)
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
 * [fast.ai literate programming](https://medium.com/@dienhoa.t/fast-ai-literature-programming-2d0d4230dd81)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
@@ -1382,14 +1382,14 @@ Deep Learning
 * [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
 * [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (2)](http://research.sualab.com/introduction/practice/2019/04/01/bayesian-optimization-overview-2.html)
 * [Data Pipeline Hyperparameter Optimization - Alex Quemy](https://www.youtube.com/watch?v=mmoYYACFX0c)
-* **[An implementation of the paper 'A Neural Algorithm of Artistic Style'](https://github.com/kaishengtai/neuralart)**
+* [**An implementation of the paper 'A Neural Algorithm of Artistic Style'**](https://github.com/kaishengtai/neuralart)
   * [거장의 그림을 30초만에 만들다: DeepStyle](http://redtea.kr/?b=3&n=951)
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)
 * [Comparing Artificial Artists](https://medium.com/@kcimc/comparing-artificial-artists-7d889428fce4)
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
-* **[Implementing a Neural Network from Scratch – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)**
+* [**Implementing a Neural Network from Scratch – An Introduction**](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
 * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-  * **[해커가 알려주는 뉴럴 네트워크](https://tensorflowkorea.wordpress.com/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)**
+  * [**해커가 알려주는 뉴럴 네트워크**](https://tensorflowkorea.wordpress.com/2016/09/13/%ED%95%B4%EC%BB%A4%EA%B0%80-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%89%B4%EB%9F%B4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC/)
 * [neural-network-papers](https://github.com/robertsdionne/neural-network-papers)
 * [Pedestrian detection using convolutional neural networks](http://www.diva-portal.org/smash/get/diva2:839692/FULLTEXT01.pdf)
 * [Scalable Distributed DNN Training Using Commodity GPU Cloud Computing](https://drive.google.com/file/d/0B6dKRGPLFSd0UGNOYkNaSC1UZTA/view)
@@ -1474,7 +1474,7 @@ Deep Learning
   * [Relation Networks for Visual QA](https://tykimos.github.io/Keras/2017/06/10/Relation_Network/)
   * [DeepMind’s Relational Reasoning Networks — Demystified](https://hackernoon.com/deepmind-relational-networks-demystified-b593e408b643)
   * [DeepMind's AI Learns Superhuman Relational Reasoning | Two Minute Papers #168](https://www.youtube.com/watch?v=vzg5Qe0pTKk)
-* **[Bridging Relational and Deep Learning](https://people.cs.kuleuven.be/~sebastijan.dumancic/RelationalDeepLearning/index.html)**
+* [**Bridging Relational and Deep Learning**](https://people.cs.kuleuven.be/~sebastijan.dumancic/RelationalDeepLearning/index.html)
 * [Learning to Reason with Neural Module Networks](http://bair.berkeley.edu/blog/2017/06/20/learning-to-reason-with-neural-module-networks/)
 * [Self-Normalizing Neural Networks](https://gist.github.com/eamartin/d7f1f71e5ce54112fe05e2f2f17ebedf) 자기 정규화 신경망 이해 및 시각화
 * [37 Reasons why your Neural Network is not working](https://blog.slavv.com/37-reasons-why-your-neural-network-is-not-working-4020854bd607)
@@ -1610,7 +1610,7 @@ Deep Learning
   * Faster R-CNN, R-FCN, SSD 등 디텍션 알고리즘을 다양한 방법으로 실험해 보고 자세히 결과를 리포트
 * [CNN VS Preschool Student Eyes](http://loveayase.tumblr.com/post/155708552419/cnn-vs-preschool-student-eyes)
 * [DyNet - The Dynamic Neural Network Toolkit](https://github.com/clab/dynet)
-* **[CNN 역전파를 이해하는 가장 쉬운 방법 The easist way to understand CNN backpropagation](https://metamath1.github.io/cnn/index.html)**
+* [**CNN 역전파를 이해하는 가장 쉬운 방법 The easist way to understand CNN backpropagation**](https://metamath1.github.io/cnn/index.html)
 * [Paints Chainer - line drawing colorizer using chainer. Using CNN, you can colorize your scketch automatically / semi-automatically](https://github.com/taizan/PaintsChainer)
   * [paintschainer.preferred.tech](http://paintschainer.preferred.tech/)
 * [Convolutional Neural Networks (CNNs): An Illustrated Explanation](http://xrds.acm.org/blog/2016/06/convolutional-neural-networks-cnns-illustrated-explanation/)
@@ -1669,7 +1669,7 @@ Deep Learning
   * [Capsule Networks: An Improvement to Convolutional Networks](https://www.techleer.com/articles/444-capsule-networks-an-improvement-to-convolutional-networks/)
   * [A Nice Easy Tutorial To Follow On Capsule Networks Based On Sabour, Frosst, And Hinton's Paper](https://www.techleer.com/articles/447-a-nice-easy-tutorial-to-follow-on-capsule-networks-based-on-sabour-frosst-and-hintons-paper/)
   * [github.com/Sarasra/models/tree/master/research/capsules](https://github.com/Sarasra/models/tree/master/research/capsules)
-  * **[Understanding Capsule Networks — AI’s Alluring New Architecture](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)**
+  * [**Understanding Capsule Networks — AI’s Alluring New Architecture**](https://medium.freecodecamp.org/understanding-capsule-networks-ais-alluring-new-architecture-bdb228173ddc)
   * [CapsNet-Visualization - A visualization of the CapsNet layers to better understand how it works](https://github.com/bourdakos1/CapsNet-Visualization)
 * [How do CNNs Deal with Position Differences?](https://petewarden.com/2017/10/29/how-do-cnns-deal-with-position-differences/)
 * [Slides for paper “the effects of noisy labels on deep convolutional neural networks for music tagging”](https://keunwoochoi.wordpress.com/2017/11/04/slides-for-paper-the-effects-of-noisy-labels-on-deep-convolutional-neural-networks-for-music-tagging/)
@@ -1717,7 +1717,7 @@ Deep Learning
 * [Neural Complete](https://github.com/kootenpv/neural_complete)
 * [엘에스티엠 네트워크 이해하기](http://whydsp.org/280)
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
-* **[머신러닝 BASIC - RNN과 LSTM에 대해](http://blog.naver.com/anthouse28/221026536458)**
+* [**머신러닝 BASIC - RNN과 LSTM에 대해**](http://blog.naver.com/anthouse28/221026536458)
 * [딥러닝 기반 기상 예측 모델 연구 사례 (1) : Convolutional LSTM](https://mikigom.github.io/jekyll/update/2017/06/13/deep-learning-forecast-research-1.html)
 * [DeepWeather](https://github.com/prl900/DeepWeather)
 * [#23. RNN & LSTM](http://t-robotics.blogspot.com/2017/06/23-rnn-lstm.html)
@@ -1727,7 +1727,7 @@ Deep Learning
 * [NoisyNet-A3C - NoisyNet (LSTM) asynchronous advantage actor-critic (A3C) on the CartPole-v1 environment](https://github.com/Kaixhin/NoisyNet-A3C)
 * [RNN and LSTM 01 - stock_data_load.csv](http://beanexpert.tistory.com/entry/RNN-and-LSTM-01-stockdataloadcsv)
 * [Evolution: from vanilla RNN to GRU & LSTMs](https://medium.com/towards-data-science/lecture-evolution-from-vanilla-rnn-to-gru-lstms-58688f1da83a)
-* **[Vanilla LSTM with numpy](http://blog.varunajayasiri.com/numpy_lstm.html)**
+* [**Vanilla LSTM with numpy**](http://blog.varunajayasiri.com/numpy_lstm.html)
 * [LSTM in numpy - Let's calculate LSTMCell in numpy manually](http://chris-chris.ai/2017/10/10/LSTM-LayerNorm-breakdown-eng/)
 * [Image recognition using tensorflow in Deep learning | Python | Ajay Jatav](https://www.youtube.com/watch?v=8c0-42U2Rn0)
 * [RNN과 LSTM을 이해해보자!](https://ratsgo.github.io/natural%20language%20processing/2017/03/09/rnnlstm/)
@@ -1804,8 +1804,8 @@ Deep Learning
 ## RNN Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
   * [(한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
-* **[Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks](https://github.com/kjw0612/awesome-rnn)**
-* **[The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)**
+* [**Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks**](https://github.com/kjw0612/awesome-rnn)
+* [**The Unreasonable Effectiveness of Recurrent Neural Networks**](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [opinion mining with deep recurrent nets](http://www.cs.cornell.edu/~oirsoy/drnt.htm)
 * [Composing Music With Recurrent Neural Networks](http://www.hexahedria.com/2015/08/03/composing-music-with-recurrent-neural-networks/)
 * [Composing Music with LSTM Recurrent Networks - Blues Improvisation](http://people.idsia.ch/~juergen/blues/)
@@ -1872,7 +1872,7 @@ Deep Learning
 * [Paper Repro: Deep Neuroevolution](https://towardsdatascience.com/paper-repro-deep-neuroevolution-756871e00a66)
 
 # Paper
-* **[paperswithcode.com](https://paperswithcode.com/)**
+* [**paperswithcode.com**](https://paperswithcode.com/)
 * [Browse State-of-the-Art](https://paperswithcode.com/sota)
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
@@ -1994,7 +1994,7 @@ CVPR2016)
 * [A List Of Top 10 Deep Learning Papers, The 2018 Edition](https://www.techleer.com/articles/517-a-list-of-top-10-deep-learning-papers-the-2018-edition/)
 * [Deep Variational Bayes Filters (2017)](http://t-robotics.blogspot.kr/2018/05/35-deep-variational-bayes-filters-2017.html) VAE를 time series에 확장, 칼만필터에 딥러닝을 더함
 * [구글 Active QA 코드 공개 #논문소개](https://thepsygrammer.wordpress.com/2018/10/11/%EA%B5%AC%EA%B8%80-active-qa-%EC%BD%94%EB%93%9C-%EA%B3%B5%EA%B0%9C-%EB%85%BC%EB%AC%B8%EC%86%8C%EA%B0%9C/#more-70)
-* **[Papers with code. Sorted by stars. Updated weekly](https://github.com/zziz/pwc)**
+* [**Papers with code. Sorted by stars. Updated weekly**](https://github.com/zziz/pwc)
 * [hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs](http://hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs/)
 * [ML/DL/RL Papers](https://www.notion.so/d4aacd7f00564116bb707e09618f4e3c)
 * [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io//blog/EfficientNet-review/)
@@ -2166,9 +2166,9 @@ CVPR2016)
   * [blog](https://wonseokjung.github.io/reinforcementlearning/update/FasterRLviatransfer/)
   * [slide](https://speakerdeck.com/wonseokjung/faster-reinforcement-learning-via-transfer)
   * [youtube](https://www.youtube.com/watch?v=zt06BkGbCb8)
-* **[Deep Reinforcement Learning Course](https://github.com/simoninithomas/Deep_reinforcement_learning_Course/)**
+* [**Deep Reinforcement Learning Course**](https://github.com/simoninithomas/Deep_reinforcement_learning_Course/)
 * [Neural Architecture Search with Reinforcement Learning](https://www.slideshare.net/KihoSuh/neural-architecture-search-with-reinforcement-learning-76883153)
-* **[강화학습(Reinforcement Learning)으로 접근하는 E-commerce Dynamic Pricing 논문리뷰](https://hoondongkim.blogspot.com/2018/10/reinforcement-learning-e-commerce.html)**
+* [**강화학습(Reinforcement Learning)으로 접근하는 E-commerce Dynamic Pricing 논문리뷰**](https://hoondongkim.blogspot.com/2018/10/reinforcement-learning-e-commerce.html)
 * [DeepMimic - Motion imitation with deep reinforcement learning](https://github.com/xbpeng/DeepMimic)
 * [Open sourcing TRFL: a library of reinforcement learning building blocks](https://deepmind.com/blog/trfl/)
 * [Deep Learning and Reinforcement Learning Summer School, Toronto 2018](http://videolectures.net/DLRLsummerschool2018_toronto)
@@ -2218,7 +2218,7 @@ CVPR2016)
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
 * [Using Deep Q-Network to Learn How To Play Flappy Bird](https://github.com/DeepLearningProjects/DeepLearningFlappyBird)
-* **[Deep Reinforcement Learning](http://andersonjo.github.io/artificial-intelligence/2017/06/03/Deep-Reinforcement-Learning/)**
+* [**Deep Reinforcement Learning**](http://andersonjo.github.io/artificial-intelligence/2017/06/03/Deep-Reinforcement-Learning/)
   * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
 * [Hello DeepQ](http://koaning.io/hello-deepq.html)
 * [Deep Q Learning with Keras and Gym](https://keon.io/deep-q-learning)

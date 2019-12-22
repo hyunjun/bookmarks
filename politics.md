@@ -19,7 +19,7 @@ Politics
 * [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
 
 # 한국
-* **[시대정신을 묻는다](http://www.huffingtonpost.kr/zeitgeist-korea/)**
+* [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
 * [의외로 쓸모있는 국회 인터넷 사이트 안내](http://pgr21.com/pb/pb.php?id=freedom&no=63779)
 * [근성으로 찾았다 한국 OECD 40관왕](http://live.media.daum.net/issue/OECD40?fb_ref=Default)
 * [불법집회는 없다: 경찰 차벽과 세월호 집회](http://slownews.kr/39939)
@@ -42,7 +42,7 @@ Politics
 * [한국, 2018년 '인구 절벽' 맞이하나](http://www.huffingtonpost.kr/2015/06/15/story_n_7582906.html)
 * [그런 애국은 싫다](http://ppss.kr/archives/48474)
 * [‘치안 한류’, 역풍 맞지 않으려면](http://newspeppermint.com/2015/06/21/uberemployee/)
-* **[한국의 정치경제가 구제불능인 이유](http://ppss.kr/archives/48556)**
+* [**한국의 정치경제가 구제불능인 이유**](http://ppss.kr/archives/48556)
 * [백악관과 청와대의 대통령과 비서실장과의 거리 비교](http://estimastory.com/2015/07/03/pre-chief/)
 * [한국의 일본화 공포…무엇이 문제인가?](http://ppss.kr/archives/47076)
 * [화끈한 혐오표현 처벌? 차별금지법부터 만들라!](http://www.huffingtonpost.kr/sungsoo-hong/story_b_7783096.html)
@@ -78,7 +78,7 @@ Politics
   * [역사의 주권은 국가에게 없다](http://www.sisainlive.com/news/articleView.html?idxno=19261)
   * ['학포자' 양산하는 부도덕한 학교교육](http://www.huffingtonpost.kr/Gyobasa/story_b_7749756.html)
   * [정부, '맞춤형 보육' 내세워 보육예산 깎나?](http://www.huffingtonpost.kr/2015/10/22/story_n_8356946.html)
-  * **['누리 과정' 논란, 누구의 잘못인가?](http://news.sbs.co.kr/news/endPage.do?newsId=N1003380009&oaid=N1003381248&plink=TEXT&cooper=SBSNEWSMOBEND&plink=COPYPASTE&cooper=SBSNEWSEND)**
+  * [**'누리 과정' 논란, 누구의 잘못인가?**](http://news.sbs.co.kr/news/endPage.do?newsId=N1003380009&oaid=N1003381248&plink=TEXT&cooper=SBSNEWSMOBEND&plink=COPYPASTE&cooper=SBSNEWSEND)
 * 국민연금
   * [국민 연금의 비밀…골드만삭스는 왜 MB를 영접했나?](http://m.pressian.com/m/m_article.html?no=126498)
   * [팩트체크: 독일 연금에 대한 오해와 진실](http://slownews.kr/41538)
@@ -100,7 +100,7 @@ Politics
 * 김대중
   * [김대중의 프로포즈 "나는 당신이 필요합니다"](http://www.huffingtonpost.kr/2015/06/14/story_n_7578792.html)
   * [나란히 건 '김대중-이희호' 부부 문패](http://www.huffingtonpost.kr/2015/06/23/story_n_7642098.html)
-  * **[Is Culture Destiny? The Myth of Asia’s Anti-Democratic Values 문화는 숙명인가? 아시아의 반민주적 가치에 대한 허상 By  Kim Dae Jung](http://m.egloos.zum.com/kalay/v/3069963)**
+  * [**Is Culture Destiny? The Myth of Asia’s Anti-Democratic Values 문화는 숙명인가? 아시아의 반민주적 가치에 대한 허상 By  Kim Dae Jung**](http://m.egloos.zum.com/kalay/v/3069963)
 * 김무성
   * [일제시대 김무성 부친은 이렇게 말했다 "정벌하라! 반도의 청소년"](http://www.huffingtonpost.kr/2015/09/17/story_n_8150586.html)
   * [김무성父 김용주, ‘일제군용기 헌납, 징병독려’ 광고](http://newstapa.org/28780)
@@ -331,7 +331,7 @@ Politics
   * [예술, 검열과 파행](http://newstapa.org/29360)
   * ["개성공단 전면 중단은 법치주의 위반이다"](http://www.pressian.com/news/article.html?no=133166)
   * [진보는 은폐하고 보수는 외면했던 개성공단의 진실](http://www.ziksir.com/ziksir/view/2981)
-  * **[박근혜 대통령 탄핵소추안 헌재는 어떻게 결정했나](http://news.khan.co.kr/kh_storytelling/2017/judge/)**
+  * [**박근혜 대통령 탄핵소추안 헌재는 어떻게 결정했나**](http://news.khan.co.kr/kh_storytelling/2017/judge/)
 * 박정희
   * [대법, 박정희 유신체제 결국 면죄부줬다](http://www.huffingtonpost.kr/2015/03/27/story_n_6952480.html)
   * [5.16 군사쿠데타 이야기](http://www.huffingtonpost.kr/bawerk/story_b_7296146.html)

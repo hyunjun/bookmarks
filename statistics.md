@@ -1,6 +1,6 @@
 Statistics
 ==========
-* **[21세기 통계학을 배우는 방법](http://statkclee.github.io/window-of-statistics/)**
+* [**21세기 통계학을 배우는 방법**](http://statkclee.github.io/window-of-statistics/)
 * [통계는 숫자가 아니라 경험이 살린다](http://ppss.kr/archives/37791)
 * [Sample your data!](http://www.chrisgoldammer.com/posts/sampling.html)
 * [층화 추출(stratified sampling)](http://blog.daum.net/iamwhoi/5740153)
@@ -47,7 +47,7 @@ Statistics
 * [가우시안 분포(Gaussian Distribution) = 정규 분포(Normal Distribution)](https://nbviewer.jupyter.org/github/likejazz/likejazz.github.io/blob/master/public/notebooks/gaussian-distribution.ipynb)
 * [Gaussian Distributions are Soap Bubbles](http://www.inference.vc/high-dimensional-gaussian-distributions-are-soap-bubble/)
 * [Gaussian Processes](http://efavdb.com/gaussian-processes/)
-* **[Industrial Gaussian Process Regression Introduction - 본 자료는 ICMLA Tutorial로 진행된 Gaussian Process Regression 내용을 정리](https://github.com/LeeDoYup/ML_Implementations/blob/master/GP/1_GP_basics_KOR.ipynb)**
+* [**Industrial Gaussian Process Regression Introduction - 본 자료는 ICMLA Tutorial로 진행된 Gaussian Process Regression 내용을 정리**](https://github.com/LeeDoYup/ML_Implementations/blob/master/GP/1_GP_basics_KOR.ipynb)
 * [Gaussian Process Regression Example in Sklearn Document](https://gist.github.com/jskDr/d57a0395b40c270696565d64f19a2456)
 * [Gaussian processing](https://www.slideshare.net/ssuser06e0c5/gaussian-processing)
 * [A Visual Exploration of Gaussian Processes](https://distill.pub/2019/visual-exploration-gaussian-processes/)
@@ -107,7 +107,7 @@ Statistics
 * [변동계수](https://ko.m.wikipedia.org/wiki/%EB%B3%80%EB%8F%99%EA%B3%84%EC%88%98) 평균 + 분산값 통합 평가
 * [통계학 입문 수준의 공부방법 및 추천 서적](http://posterior.egloos.com/m/9637423)
 * [피셔정확검정을 통한 고객군 상품구매액평균 순위 분석](http://blog.naver.com/hancury/220797689533)
-* **[실시간 데이터의 평균을 효율적으로 구하기](https://evan-moon.github.io/2019/08/11/average-filter/)**
+* [**실시간 데이터의 평균을 효율적으로 구하기**](https://evan-moon.github.io/2019/08/11/average-filter/)
 * [math7.tistory.com/m/category/통계](http://math7.tistory.com/m/category/%ED%86%B5%EA%B3%84)
 * [Three common misuses of P values](http://www.dentalhypotheses.com/article.asp?issn=2155-8213;year=2016;volume=7;issue=3;spage=73;epage=80;aulast=Kim)
 * [LEARNING STATISTICS ON YOUTUBE](http://flavioazevedo.com/stats-and-r-blog/2016/9/13/learning-r-on-youtube)
@@ -141,7 +141,7 @@ Statistics
 * [보이지 않는 총알 자국 - 남들을 뛰어넘는 생각의 차이(아브라함 발드)](http://blog.naver.com/shc427118/220944502924)
 * [www.medicine.mcgill.ca/epidemiology/hanley/software](http://www.medicine.mcgill.ca/epidemiology/hanley/software/)
 * [seeing theory](http://students.brown.edu/seeing-theory/)
-* [조건부 확률 문제](https://gist.github.com/hyunjun/248eb9072f307ab4109f2b872674708b)
+* [practice - 조건부 확률 문제](https://gist.github.com/hyunjun/248eb9072f307ab4109f2b872674708b)
 * [Why Mean Squared Error and L2 regularization? A probabilistic justification](http://aoliver.org/why-mse)
   * 데이터가 zero mean Gaussian 분포를 띌때, maximizing probability의 과정에서 L2 loss function(MSE)이 유도될 수 있음
   * 또한 L2 regularization도 도출 가능
@@ -174,7 +174,7 @@ Statistics
 * [ChoiFran's Analogy (최프란의 비유) 한국어 버전](https://www.youtube.com/playlist?list=PLgSth2TawHJ9-GG9DiEPNhHJ3rWngNJro)
 * [Skewness Formula](https://www.macroption.com/skewness-formula/)
 * [Kurtosis Formula](https://www.macroption.com/kurtosis-formula/)
-* [통계적으로 유의미한 차이 vs 현실적으로 유의미한 차이](https://gist.github.com/hyunjun/248eb9072f307ab4109f2b872674708b#file-etc-md)
+* [practice - 통계적으로 유의미한 차이 vs 현실적으로 유의미한 차이](https://gist.github.com/hyunjun/248eb9072f307ab4109f2b872674708b#file-etc-md)
 * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://www.kdnuggets.com/2018/11/5-basic-statistics-concepts-data-scientists-need-know.html)
 * [멋지게 데이터 분석을 하려고 했는데 이론이 딸린다](https://humbledude.github.io/blog/2019/02/27/basic-data-analysis/)
 * [Understanding Boxplots](https://towardsdatascience.com/understanding-boxplots-5e2df7bcbd51)
@@ -188,7 +188,7 @@ Statistics
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
 * [가장 쉽게 이해하는 베이즈 정리(Bayes' Law)](https://junpyopark.github.io/bayes/)
 * [베이지언 확률](http://darkpgmr.tistory.com/119)
-* **[베이시안 통계 첫걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EC%B2%AB%EA%B1%B8%EC%9D%8C-7e7e1a5f5adc)**
+* [**베이시안 통계 첫걸음!**](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EC%B2%AB%EA%B1%B8%EC%9D%8C-7e7e1a5f5adc)
 * [베이시안 통계 둘째 걸음!](https://medium.com/@deepvalidation/%EB%B2%A0%EC%9D%B4%EC%8B%9C%EC%95%88-%ED%86%B5%EA%B3%84-%EB%91%98%EC%A7%B8-%EA%B1%B8%EC%9D%8C-b486aa23d68b)
   * [github.com/Minsu-Daniel-Kim/bayesian_secon_step](https://github.com/Minsu-Daniel-Kim/bayesian_secon_step)
 * [베이지안 추론 - 1편](https://brunch.co.kr/@chris-song/59)
@@ -268,12 +268,12 @@ Statistics
 * Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades
   * [Part 1 Exploratory Data Analysis, Feature Selection, and Benchmarks](https://medium.com/@williamkoehrsen/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5)
   * [Part 2 Implementing a Model, Interpreting Results, and Making Predictions](https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e)
-* **[시뮬레이션이 다해주실거야](http://mathpsych.tumblr.com/post/155015433099/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8B%A4%ED%95%B4%EC%A3%BC%EC%8B%A4%EA%B1%B0%EC%95%BC)**
+* [**시뮬레이션이 다해주실거야**](http://mathpsych.tumblr.com/post/155015433099/%EC%8B%9C%EB%AE%AC%EB%A0%88%EC%9D%B4%EC%85%98%EC%9D%B4-%EB%8B%A4%ED%95%B4%EC%A3%BC%EC%8B%A4%EA%B1%B0%EC%95%BC)
 * [베이지안통계](http://mathpsych.tumblr.com/post/155014009869/%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88%ED%86%B5%EA%B3%84)
 * [Stan을 이용한 베이지안 회귀분석](http://mathpsych.tumblr.com/post/155094553934/stan%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B2%A0%EC%9D%B4%EC%A7%80%EC%95%88-%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D)
 * [Bayesian Deep Learning and Black Box Variational Inference](https://www.youtube.com/watch?v=cbC1M02BO8I&spfreload=10)
 * [The Power and Danger of Bayes’ Theorem](http://strangenotions.com/the-power-and-danger-of-bayes-theorem/)
-* **[How To Build a Simple Spam-Detecting Machine Learning Classifier](https://hackernoon.com/how-to-build-a-simple-spam-detecting-machine-learning-classifier-4471fe6b816e)**
+* [**How To Build a Simple Spam-Detecting Machine Learning Classifier**](https://hackernoon.com/how-to-build-a-simple-spam-detecting-machine-learning-classifier-4471fe6b816e)
 * [Bayesian Statistics Course Overview.ipynb](https://github.com/KaggleBreak/analyticstool/blob/master/part4/Bayesian/review/Bayesian%20Statistics%20Course%20Overview.ipynb)
 * [Thomas Huijskens - Bayesian optimisation with scikit-learn](https://www.youtube.com/watch?v=jtRPxRnOXnk)
 * [Bayesian Nonparametric Models](https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:635167)
@@ -301,7 +301,7 @@ Statistics
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
-  * **[github.com/hyunblee/ISLR-with-Python](https://github.com/hyunblee/ISLR-with-Python)** Introduction to Statistical Learning in R (ISLR)을 Python으로
+  * [**github.com/hyunblee/ISLR-with-Python**](https://github.com/hyunblee/ISLR-with-Python) Introduction to Statistical Learning in R (ISLR)을 Python으로
     * [K-Nearest Neighbors Regression/Classification & Model Evaluations](http://nbviewer.jupyter.org/github/hyunblee/ISLR-with-Python/blob/master/Ch4-Classification/Ch4_KNN_Reg_Clf_n_Evaluation.ipynb)
 * [Understanding The New Statistics: Effect Sizes, Confidence Intervals, and Meta-Analysis (Multivariate Applications Series)](https://www.amazon.com/Understanding-New-Statistics-Meta-Analysis-Multivariate/dp/041587968X)
 * [Introduction to the New Statistics: Estimation, Open Science, and Beyond](https://www.amazon.com/Introduction-New-Statistics-Estimation-Science/dp/1138825522/)
@@ -335,7 +335,7 @@ Statistics
 * [Foundations of probability theory](https://terrytao.wordpress.com/2015/09/29/275a-notes-0-foundations-of-probability-theory/)
 * [Heuristic models for marginal probability assessment updates](http://xheimlichkeit.com/methods/2015/10/12/how-to-update-probabilities.html)
 * [Probability concepts explained: Marginalisation](https://towardsdatascience.com/probability-concepts-explained-marginalisation-2296846344fc)
-* **[Statistics 110: Probability](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)**
+* [**Statistics 110: Probability**](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
 
 ## Probablistic Programming
 * [What is probabilistic programming?](http://radar.oreilly.com/2013/04/probabilistic-programming.html)
@@ -343,7 +343,7 @@ Statistics
 * [An intro to Bayesian methods and probabilistic programming from a computation/understanding-first, mathematics-second point of view](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/#contents)
 * [Probabilistic Programming for Anomaly Detection](http://blog.fastforwardlabs.com/post/143792498983/probabilistic-programming-for-anomaly-detection)
 * [probabilistic graphical models](https://ermongroup.github.io/cs228-notes/)
-* **[Infer.NET - a framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming](https://github.com/dotnet/infer)**
+* [**Infer.NET - a framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming**](https://github.com/dotnet/infer)
   * 원래 유료였는데 오픈소스로 바뀌었다고 함
 * [pyro.ai](http://pyro.ai/) Deep Universal Probabilistic Programming
   * 딥러닝과 베이지안 모델링을 아우르는 Deep Probablistic Modeling을 위해 만들었다고 함
@@ -360,9 +360,9 @@ Statistics
 * [파이썬 확률과 통계 기초 이해하기](http://www.slideshare.net/dahlmoon/lambda-20160315)
 * [Eric J Ma Bayesian Statistical Analysis with Python PyCon 2017](https://www.youtube.com/watch?v=p1IB4zWq9C8)
 * [Christine Waigl The Next Step Finding Model Parameters With Random Walks PyCon 2017](https://www.youtube.com/watch?v=sHS2-av7AgQ)
-* **[Python For Sport Scientists: Descriptive Statistics](https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c)** 기초 내용 설명
+* [**Python For Sport Scientists: Descriptive Statistics**](https://towardsdatascience.com/python-for-sport-scientists-descriptive-statistics-96ed7e66ab3c) 기초 내용 설명
 * [Statistical Modeling In Python](https://www.youtube.com/watch?v=sZISc-VqVWg)
-* **[확률 분포 튜토리얼](https://brunch.co.kr/@chris-song/90)**
+* [**확률 분포 튜토리얼**](https://brunch.co.kr/@chris-song/90)
 * [Christopher Fonnesbeck - Introduction to Statistical Modeling with Python - PyCon 2017](https://www.youtube.com/watch?v=TMmSESkhRtI)
 * [Estimating Probabilities with Bayesian Modeling in Python](https://towardsdatascience.com/estimating-probabilities-with-bayesian-modeling-in-python-7144be007815)
 * [A Random Walk & Monte Carlo Simulation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=BfS2H1y6tzQ)

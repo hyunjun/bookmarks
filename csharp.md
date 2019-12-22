@@ -53,7 +53,7 @@ C#
   * [Your Ultimate async / await Tutorial in C#](https://www.codingame.com/playgrounds/4240/your-ultimate-async-await-tutorial-in-c/async-ready-methods-in--net-framework)
 * [HttpClient Class](https://docs.microsoft.com/en-us/dotnet/api/system.net.http.httpclient?view=netframework-4.8)
   * [Beware of the .NET HttpClient](http://www.nimaara.com/2016/11/01/beware-of-the-net-httpclient/)
-  * **[Unit tests for HttpClient using HttpMessageHandler](http://geekswithblogs.net/abhi/archive/2013/11/20/unit-tests-for-httpclient-using-httpmessagehandler.aspx)**
+  * [**Unit tests for HttpClient using HttpMessageHandler**](http://geekswithblogs.net/abhi/archive/2013/11/20/unit-tests-for-httpclient-using-httpmessagehandler.aspx)
   * [How to mock HttpClient in your .NET / C# unit tests](https://gingter.org/2018/07/26/how-to-mock-httpclient-in-your-net-c-unit-tests/)
   * [Unit Testing with the HttpClient](https://chrissainty.com/unit-testing-with-httpclient/)
   * [Efficient api calls with HttpClient and JSON.NET](https://johnthiriet.com/efficient-api-calls)

@@ -54,7 +54,7 @@ Presentation
 * [미디어를 위한 디지털 스토리텔링 도구 30선](http://www.bloter.net/archives/262776)
 * [AngularJS Animations](http://www.yearofmoo.com/animation-presentation/#/)
 * [bunkrapp](http://bunkrapp.com/)
-* **[GitPitch](https://gitpitch.com/)**
+* [**GitPitch**](https://gitpitch.com/)
   * [wiki](https://github.com/gitpitch/gitpitch/wiki)
 * [canva.com](https://www.canva.com)
 * [gratisography.com](https://gratisography.com/) free photo
@@ -72,4 +72,4 @@ Presentation
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
   * [slides.com/news/code-line-numbers](https://slides.com/news/code-line-numbers/)
-* **[spectacle-code-slide](https://github.com/thejameskyle/spectacle-code-slide)**
+* [**spectacle-code-slide**](https://github.com/thejameskyle/spectacle-code-slide)

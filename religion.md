@@ -10,7 +10,7 @@ Religion
 * [2050년, 세계 종교 지형이 바뀐다](http://www.huffingtonpost.kr/nopil-kwak/story_b_7030586.html)
 * [세계에서 가장 종교적인 나라는 어디일까?](http://newspeppermint.com/2015/04/15/global-religion-survey-2015/)
 * [The World Religions Tree](http://000024.org/religions_tree/) 일본 문화의 위력(?)을 실감할 수 있다. 후대에 시기를 조작했을 가능성이 매우 큰데, 일본 아마테라스 신화가 가장 큰 뿌리 4개 중 하나를 차지하고 있음
-* **[Animated map shows how religion spread around the world](https://www.youtube.com/watch?v=AvFl6UBZLv4)**
+* [**Animated map shows how religion spread around the world**](https://www.youtube.com/watch?v=AvFl6UBZLv4)
   * [세계 주요 종교가 퍼져 나가는 과정](https://www.youtube.com/watch?v=3D8lV9QSS1k)
 * 마이클 셔머 종교의 소멸과 그 정치적 의미
   * [(1/2)](http://newspeppermint.com/2015/07/20/m-religion1/)

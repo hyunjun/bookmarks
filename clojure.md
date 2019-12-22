@@ -23,7 +23,7 @@ Clojure
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
-* **[Awesome list of clojure resources](https://clojure.zeef.com/vlad.bokov)**
+* [**Awesome list of clojure resources**](https://clojure.zeef.com/vlad.bokov)
 * [AwesomeClojure](https://github.com/mbuczko/awesome-clojure)
 * [Clojure releases vs. Clojure book publication dates](https://www.reddit.com/r/Clojure/comments/3q9jaw/clojure_releases_vs_clojure_book_publication_dates/)
 * [클로저 선문답](http://clojurekoans.hatemogi.com/)
@@ -228,7 +228,7 @@ Clojure
 * [Clojure 이야기 11 - Tutorial #5](https://www.youtube.com/watch?v=B01ek0Ubyxc)
 * [Clojure Made Simple](https://www.youtube.com/watch?v=VSdnJDO-xdg)
 * [github.com/matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)
-* **[Readable Clojure](http://tonsky.me/blog/readable-clojure/)**
+* [**Readable Clojure**](http://tonsky.me/blog/readable-clojure/)
 * [RESTATE YOUR UI: USING STATE MACHINES TO SIMPLIFY USER INTERFACE DEVELOPMENT](http://blog.cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development)
 * [Clojure Linear Algebra Refresher (1) - Vector Spaces](http://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Vector-Spaces)
 * [Clojure Future / Delay / Promise](http://clojure.kr/Clojure-Future-Delay-Promise)
@@ -267,7 +267,7 @@ Clojure
   * 시간 값 모델링에 clojure 사용
 * [Functional Programming in the Cloud: Simpler Application Development](https://www.youtube.com/watch?v=mxryzShPH8o) Datomic Cloud
 * [Welcome Clojure 10](http://blog.klipse.tech/clojure/2018/12/18/welcome-clojure-10.html)
-* **[후속문(Continuation) : 제1부. 개념과 call/cc](http://guruma.github.io/posts/2018-11-18-Continuation-Concept/)**
+* [**후속문(Continuation) : 제1부. 개념과 call/cc**](http://guruma.github.io/posts/2018-11-18-Continuation-Concept/)
   * facebook clojure korea group에서 가져온 설명
   * clojure는 continuation 미제공, 많은 언어에서 이미 continuation을 제공하고 있거나, 또는 제공하는 방향으로 흘러가고 있는 추세(e.g. Java의 Fiber 지원 예정)
   * 그러므로 continuation을 제대로 이해하고, 경우에 따라서 적절하게 활용할 수 있다면 매우 좋음

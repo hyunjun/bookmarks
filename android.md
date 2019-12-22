@@ -61,7 +61,7 @@ Android
 * [번역 DroidKaigi 2017 ~ DataBinding 로 구현하는 MVVM Architecture](http://pluu.github.io/blog/android/droidkaigi/2017/12/25/droidkaigi-databindingteshi-xian-surumvvm-architecture/)
 * [Android Architecture Components — now with 100% more MVVM](https://android.jlelse.eu/android-architecture-components-now-with-100-more-mvvm-11629a630125)
 * [Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
-* **[Android 에서 MVVM 으로 긴 여정을…](https://medium.com/@jsuch2362/android-%EC%97%90%EC%84%9C-mvvm-%EC%9C%BC%EB%A1%9C-%EA%B8%B4-%EC%97%AC%EC%A0%95%EC%9D%84-82494151f312)**
+* [**Android 에서 MVVM 으로 긴 여정을…**](https://medium.com/@jsuch2362/android-%EC%97%90%EC%84%9C-mvvm-%EC%9C%BC%EB%A1%9C-%EA%B8%B4-%EC%97%AC%EC%A0%95%EC%9D%84-82494151f312)
 * [Android MVVM : Lifecycle 감지하기](https://medium.com/@jsuch2362/android-mvvm-lifecycle-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0-204c4309436)
 * [AAC를 활용한 MVVM 패턴](https://medium.com/@joongwon/android-aac%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-mvvm-%ED%8C%A8%ED%84%B4-e24a685fc25d)
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
@@ -101,7 +101,7 @@ Android
 * [I built an app to rig the chances of me getting a date](https://hackernoon.com/how-to-build-a-geographically-aware-location-based-android-dating-app-c1aaa26f2f60)
 * [Kotlin으로 SharedPreferences를 편하게 써보자](https://medium.com/@joongwon/android-kotlin%EC%9C%BC%EB%A1%9C-sharedpreferences%EB%A5%BC-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EC%9E%90-77834af39b7e)
 * [SpongeBobSun의 mCalendarView 라이브러리 사용하기](https://www.ienlab.net/entry/SpongeBobSun%EC%9D%98-mCalendarView-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-* **[타다 클라이언트 개발기](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)**
+* [**타다 클라이언트 개발기**](http://engineering.vcnc.co.kr/2019/05/tada-client-development/)
 * [한국 안드로이드 개발자 모임, Droid Knights 2019에 다녀왔습니다](https://engineering.linecorp.com/ko/blog/droid-knights-2019/)
 * [아름답게 안드로이드 앱 오류 처리하기](https://medium.com/prnd/%EC%95%84%EB%A6%84%EB%8B%B5%EA%B2%8C-%EC%95%B1-%EC%98%A4%EB%A5%98-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-8bf9a46df515)
 * [안드로이드 액티비티 생명주기(Life Cycle)](https://brunch.co.kr/@mystoryg/80)
@@ -112,7 +112,7 @@ Android
 * [핸들러와 루퍼(Handler & Looper)](https://jungwoon.github.io/android/2019/07/28/Handler-Looper/)
 * [TRACKIT에서 딥링크를 사용하는 방법](https://engineering.linecorp.com/ko/blog/how-to-use-deeplink-in-trackit/)
 * [업그레이드 된 안드로이드 개발 이미지 추가 방법 #Resource Manager](https://developer88.tistory.com/166)
-* **[마이리얼트립 안드로이드 앱의 Technical Debt 해결하기](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%98-technical-debt-be05c65706cb)** 안드로이드에 대하여 썼지만 전반적인 내용은 일반적으로 적용되는 좋은 글
+* [**마이리얼트립 안드로이드 앱의 Technical Debt 해결하기**](https://medium.com/myrealtrip-product/%EB%A7%88%EC%9D%B4%EB%A6%AC%EC%96%BC%ED%8A%B8%EB%A6%BD-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1%EC%9D%98-technical-debt-be05c65706cb) 안드로이드에 대하여 썼지만 전반적인 내용은 일반적으로 적용되는 좋은 글
 * [디버그를 위한 Proguard(프로가드) 설정 방법](https://developer88.tistory.com/167)
 * [안드로이드 프로세스 및 스레드 (Android Process and Thread)](https://jungwoon.github.io/android/2019/07/16/Process-Thread/)
 * [더 작은 APK를 위한 Android App Bundle에 대해서](https://medium.com/daangn/%EB%8D%94-%EC%9E%91%EC%9D%80-apk%EB%A5%BC-%EC%9C%84%ED%95%9C-android-app-bundle%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-345a656eee85)

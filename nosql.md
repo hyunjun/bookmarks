@@ -50,7 +50,7 @@ NoSQL
 * [NoSQL database service Azure DocumentDB now Generally Available](http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available)
 
 # Benchmark
-* **[Yahoo! Cloud System Benchmark (YCSB)](https://github.com/brianfrankcooper/YCSB)**
+* [**Yahoo! Cloud System Benchmark (YCSB)**](https://github.com/brianfrankcooper/YCSB)
 
 # [Blazing GPU Database](http://blazingdb.com/)
 
@@ -343,7 +343,7 @@ NoSQL
 
 # Realm
 * [Between 사용 사례: APT를 활용한 Realm 마이그레이션](https://realm.io/kr/news/realm-meetup-vcnc-between-case-study/)
-* **[실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase](https://realm.io/kr/news/welcome-to-reactive-world/)**
+* [**실시간 데이터베이스 비교: Realm 모바일 플랫폼 vs. Firebase**](https://realm.io/kr/news/welcome-to-reactive-world/)
 * [좌충우돌 Realm 모바일 플랫폼 사용기](https://realm.io/kr/news/develop-app-in-3-days-with-rmp/)
 * [데모와 함께 하는 Realm 모바일 플랫폼 따라잡기: Scanner, RealmPop 예제](https://realm.io/kr/news/realm-mobile-platform-demos/)
 * [Realm Java 3.1: 객체 알림, 백업 복구, 역 관계](https://realm.io/kr/news/realm-java-3-1/)
@@ -358,7 +358,7 @@ NoSQL
 * [동기 Realm 마이그레이션 가이드](http://news.realm.io/kr/news/migrations-with-synced-realms/)
 * [학습 경로: Realm 이해하기](https://academy.realm.io/kr/posts/learning-path-understanding-realm/)
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://academy.realm.io/kr/posts/best-practices-pain-points-mobile-networking-rest-api-failures/)
-* **[데이터베이스를 설계하며 배운것들:Realm 스레드 깊게 들여보기](https://academy.realm.io/kr/posts/threading-deep-dive/)**
+* [**데이터베이스를 설계하며 배운것들:Realm 스레드 깊게 들여보기**](https://academy.realm.io/kr/posts/threading-deep-dive/)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)

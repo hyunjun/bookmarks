@@ -194,10 +194,10 @@ Data Science
 * [16 analytic disciplines compared to data science](http://www.rightrelevance.com/search/articles/hero?article=ee5beaf2681d3a83f2dbb9005afcd733ec180c8e&query=data%20science&taccount=ml_toparticles)
 * [글로벌 사례로 보는 데이터로 돈 버는 법 - 트레저데이터 (Treasure Data)](http://www.slideshare.net/treasure-data/treasure-data)
 * [데이터 전처리에 대한 모든 것](http://www.dodomira.com/2016/10/20/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%84%EC%B2%98%EB%A6%AC/)
-* **[데이터 품질에 관한 5개 체크포인트](https://d2.naver.com/helloworld/1179024)** 전처리와 관계된 매우 실용적이고 중요한 부분에 대한 좋은 글
+* [**데이터 품질에 관한 5개 체크포인트**](https://d2.naver.com/helloworld/1179024) 전처리와 관계된 매우 실용적이고 중요한 부분에 대한 좋은 글
 * [데이터 사이언스 스쿨 - Python 데이터 핸들링과 시각화 라이브러리 실무](https://www.datascienceschool.net/view-notebook/31d0437b9d9947fb96ad3805806d85fc/)
 * [데이터 과학을 공부하는 이유](http://flyhendrixfly.net/%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9D%84_%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0/)
-* **[데이터는 차트가 아니라 돈이 되어야 한다](http://www.slideshare.net/yongho/ss-52116574)**
+* [**데이터는 차트가 아니라 돈이 되어야 한다**](http://www.slideshare.net/yongho/ss-52116574)
 * [Practical Data Science at Honestbee - DataScienceSG](https://www.youtube.com/watch?v=hu_5WW_hPTs)
 * [빅데이터의 대중화](http://www.slideshare.net/Byungwook/1-69513277)
 * [이론의 종말: 데이터 홍수가 과학적 연구방법을 구닥다리로 만든다](http://flyhendrixfly.net/%EC%9D%B4%EB%A1%A0%EC%9D%98-%EC%A2%85%EB%A7%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%8D%EC%88%98%EA%B0%80-%EA%B3%BC%ED%95%99%EC%A0%81-%EC%97%B0%EA%B5%AC%EB%B0%A9%EB%B2%95%EC%9D%84-%EA%B5%AC%EB%8B%A5/)
@@ -212,8 +212,8 @@ Data Science
   * 데이터 분석에 있어 정확한 수치가 필요한 것이 아니라 데이터의 추이 또는 비율 등을 분석하는 경우에는 전체 데이터가 아닌 샘플링을 하는 방식을 이용할 수 있다는 내용
   * Presto, BlinkDB / G-OLA, SnappyData 등과 같은 샘플링 방식을 지원하는 데이터 처리 솔루션에 대해서도 간단하게 소개
 * [3 methods to deal with outliers](https://www.neuraldesigner.com/blog/3_methods_to_deal_with_outliers)
-* **[Visual Information Theory](https://colah.github.io/posts/2015-09-Visual-Information/)**
-* **[가장 위대한 데이터 분석가](http://www.bloter.net/archives/270142)**
+* [**Visual Information Theory**](https://colah.github.io/posts/2015-09-Visual-Information/)
+* [**가장 위대한 데이터 분석가**](http://www.bloter.net/archives/270142)
 * [Tutorial 1: Protein - DNA interaction](http://biskit.pasteur.fr/doc/tutorials/tutorial1)
 * [A survey on predicting the popularity of web content](https://jisajournal.springeropen.com/articles/10.1186/s13174-014-0008-y)
 * [Data analysis in excel](https://www.youtube.com/playlist?list=PLdeuKRJcjOTcF74N5FS1_LsOH6QoQdD5L)
@@ -231,7 +231,7 @@ Data Science
 * [Automated Machine Learning — A Paradigm Shift That Accelerates Data Scientist Productivity @ Airbnb](https://medium.com/airbnb-engineering/automated-machine-learning-a-paradigm-shift-that-accelerates-data-scientist-productivity-airbnb-f1f8a10d61f8)
 * [A list of artificial intelligence tools you can use today — for personal use (1/3)](https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f)
 * [Data Science Bowl 2017, Predicting Lung Cancer: Solution Write-up, Team Deep Breath](http://blog.kaggle.com/2017/05/16/data-science-bowl-2017-predicting-lung-cancer-solution-write-up-team-deep-breath/)
-* **[How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)**
+* [**How to Start a Data Science Project in Python**](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
   * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
   * Anaconda의 Conda를 활용해 분리된 환경 설정
   * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
@@ -239,10 +239,10 @@ Data Science
 * [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html)
 * [Data Science Cheatsheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
-* **[Getting started: the 3 stages of data infrastructure](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)**
-* **[데이터를 얻으려는 노오오력](https://www.slideshare.net/youngjaekim58/ss-77479253)**
+* [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
+* [**데이터를 얻으려는 노오오력**](https://www.slideshare.net/youngjaekim58/ss-77479253)
 * [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
-* **[Analyzing GitHub, how developers change programming languages over time](https://blog.sourced.tech/post/language_migrations/)**
+* [**Analyzing GitHub, how developers change programming languages over time**](https://blog.sourced.tech/post/language_migrations/)
 * [Regression 모델 평가 방법](https://brunch.co.kr/@chris-song/34)
   * [opendataminer object mapper](https://www.youtube.com/watch?v=W5PPfYz1xvM)
 * [7 Techniques to Handle Imbalanced Data](http://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html)
@@ -257,13 +257,13 @@ Data Science
 * [A Reference Stack for Modern Data Science](https://medium.com/gyroscopesoftware/a-reference-stack-for-modern-data-science-4bd9fddcdc6b)
 * [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
 * [If you’re a developer transitioning into data science, here are your best resources](https://medium.freecodecamp.org/if-youre-a-developer-transitioning-into-data-science-here-are-your-best-resources-c31928b53cd1)
-* **[How to Handle Missing Data](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)**
+* [**How to Handle Missing Data**](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 * [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
-* **[Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters](https://chrisalbon.com/)**
+* [**Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters**](https://chrisalbon.com/)
 * [Five Misconceptions about Data Science - Knowing What You Don't Know](https://www.datasciencecentral.com/profiles/blogs/five-misconceptions-about-data-science)
 * [Data Preprocessing For Non-Techies: Basic Terms and Definitions](https://towardsdatascience.com/data-preprocessing-for-non-techies-basic-terms-and-definitions-ea517038a4e5)
-* **[What Getting A Job In Data Science Might Look Like](https://towardsdatascience.com/what-getting-a-job-in-data-science-might-look-like-f94ddb788a5e)**
-* **[Data Science. Intro](https://www.slideshare.net/zzsza/data-science-intro)**
+* [**What Getting A Job In Data Science Might Look Like**](https://towardsdatascience.com/what-getting-a-job-in-data-science-might-look-like-f94ddb788a5e)
+* [**Data Science. Intro**](https://www.slideshare.net/zzsza/data-science-intro)
 * [Weekly Selection — Mar 2, 2018](https://towardsdatascience.com/weekly-selection-mar-2-2018-f827465a384d)
 * [Big Data Engineering VS Data Warehousing](https://medium.com/@FedakV/big-data-engineering-vs-data-warehousing-987a75d418ed)
 * [How ‘Big’ should be your Data?](https://towardsdatascience.com/how-big-should-be-your-data-fdace6e627e4)
@@ -311,7 +311,7 @@ Data Science
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
 * [The Data Analytics Handbook](https://www.teamleada.com/handbook)
 * [Reading for Growing Data Engineers — 2017](https://daasnerds.com/reading-for-growing-data-engineers-2017-365d1ad3a9ed)
-* **[Data Science at the Command Line](https://www.datascienceatthecommandline.com)**
+* [**Data Science at the Command Line**](https://www.datascienceatthecommandline.com)
 * [List of Must – Read Free Data Science Books](https://blog.paralleldots.com/data-science/must-read-free-data-science-books/)
 * [Learning Data Science: Our Favorite Data Science Books](https://hackernoon.com/learning-data-science-our-favorite-data-science-books-d02ada5ed5d)
 * [The Elements of Data Analytic Style](https://leanpub.com/datastyle/read_full)
@@ -380,7 +380,7 @@ Data Science
   * Pandas, TensorFlow, Spark SQL등 결합 가능
 
 # MOOC, Lecture
-* **[수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼](http://earlybird.ai/data_science_free_curriculum/)**
+* [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
   * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
 * [Review: Udacity Data Analyst Nanodegree Program](https://medium.freecodecamp.org/review-udacity-data-analyst-nanodegree-1e16ae2b6d12)
 * [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
@@ -418,7 +418,7 @@ Data Science
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
 * [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [Unisex names – Data Analysis Use Case](https://kenandeen.wordpress.com/2015/06/20/unisex-names-data-analysis-use-case/)
-* **[A modern guide to getting started with Data Science and Python](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)**
+* [**A modern guide to getting started with Data Science and Python**](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)
 * [빅데이터를 위한 파이썬(Python) 교육 내용 정리](http://uincity.tistory.com/247)
 * [Python for Data Science - Python Brasil 11 (2015)](http://www.slideshare.net/gabrielspmoreira/python-for-data-science-python-brasil-11-2015)
 * [Machine Learning in Python has never been easier](http://www.rightrelevance.com/search/articles/hero?article=f119b9c5d6e2e51944437f9d3b0406ae3d779464&query=Machine%20Learning&taccount=ml_toparticles)
@@ -458,9 +458,9 @@ Data Science
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
 * [야구 대회 간단한 모델링 코드](https://dacon.io/cpt6/66846)
 * [How to use Data Science to better understand your customers](https://medium.freecodecamp.org/using-data-science-to-better-understand-your-customers-part-1-of-2-398d11049785)
-* **[Aaron Richter: Your data fits in RAM: How to avoid cluster computing | PyData Miami 2019](https://www.youtube.com/watch?v=7h4BwpedPD0)**
+* [**Aaron Richter: Your data fits in RAM: How to avoid cluster computing | PyData Miami 2019**](https://www.youtube.com/watch?v=7h4BwpedPD0)
 * [Data Science Toolkit (Concepts + Code)](https://hackernoon.com/data-science-toolkit-concepts-code-20628af23cd) Jupyter, Numpy, Pandas, Plotly
-* **[10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)**
+* [**10 Simple hacks to speed up your Data Analysis in Python**](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)
   * 1. Profiling the pandas dataframe dataframe 데이터를 보고서 형식으로
     * [Pandas Profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)
   * 2. Bringing Interactivity to pandas plots
@@ -478,8 +478,8 @@ Data Science
 * [Top 15 Python Libraries for Data Science in 2017](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
 * [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
 * [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
-* **[10 Simple hacks to speed up your Data Analysis in Python](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b)** 여러가지 분야(data, visualization등)의 library
-* **[Accelerator](https://github.com/eBay/accelerator)** 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
+* [**10 Simple hacks to speed up your Data Analysis in Python**](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) 여러가지 분야(data, visualization등)의 library
+* [**Accelerator**](https://github.com/eBay/accelerator) 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
@@ -514,8 +514,8 @@ Data Science
 * [Speech-Based, Natural Language Conversational Recommender Systems](http://grasch.net/node/147)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [실시간 추천엔진 머신한대에 구겨넣기](http://www.slideshare.net/deview/261-52784785)
-  * **['실시간 추천엔진 머신한대에 구겨넣기' 50줄로 구현하기](https://yeoubi.net/2019/04/07/2019-04-07-50-lines-of-recommendation-engine)**
-  * **[Tiny Elephant(English) In memory based collaborative filtering by python](https://github.com/kyunooh/tiny-elephant)**
+  * [**'실시간 추천엔진 머신한대에 구겨넣기' 50줄로 구현하기**](https://yeoubi.net/2019/04/07/2019-04-07-50-lines-of-recommendation-engine)
+  * [**Tiny Elephant(English) In memory based collaborative filtering by python**](https://github.com/kyunooh/tiny-elephant)
 * [Netflix algorithm: Prize Tribute Recommendation Algorithm in Python](http://blog.smellthedata.com/2009/06/netflix-prize-tribute-recommendation.html)
 * [추천 시스템의 기초](https://www.datascienceschool.net/view-notebook/fcd3550f11ac4537acec8d18136f2066/) python RecSys
 * [MapReduce 기반 대용량 추천 알고리즘 개발](http://readme.skplanet.com/?p=2509)
@@ -523,7 +523,7 @@ Data Science
 * [Building NLP Content-Based Recommender Systems A tutorial for a NLP recommendation engine using unsupervised learning](https://medium.com/@armandj.olivares/building-nlp-content-based-recommender-systems-b104a709c042)
   * [job_analysis_content_recommendation.ipynb](https://github.com/ArmandDS/jobs_recommendations/blob/master/job_analysis_content_recommendation.ipynb)
 * [Powerpoint-Slides for Recommender Systems - An Introduction](http://www.recommenderbook.net/teaching-material/slides)
-* **[Content Based Anime Recommender!](https://www.kaggle.com/xenocide/content-based-anime-recommender)** ipynb notebook
+* [**Content Based Anime Recommender!**](https://www.kaggle.com/xenocide/content-based-anime-recommender) ipynb notebook
 * [딥러닝 (Tensorflow) 을 이용한 추천시스템 개발](https://www.buzzvil.com/2017/02/22/buzzvil-techblog-tensorflow-deeplearning/)
 * [Quick Guide to Build a Recommendation Engine in Python](https://www.analyticsvidhya.com/blog/2016/06/quick-guide-build-recommendation-engine-python)
 * [CatBoost - an open-source gradient boosting library with categorical features support](https://catboost.yandex/)
@@ -558,7 +558,7 @@ Data Science
 * [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
 
 ## Recommendation Python
-* **[파이썬 추천 시스템 심화과정](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)**
+* [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
 * [추천시스템 만들기 Hands-on part01](https://www.youtube.com/watch?v=RypYycWvHaA) django 이용
   * [추천시스템 만들기 Hands-on part01](https://github.com/djangobusan/recommender-system-hands-on-part1)
 * [Collaborative-filtering-Tutorial](https://github.com/kwoncheol/Collaborative-filtering-Tutorial)

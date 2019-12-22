@@ -18,7 +18,7 @@ SQL
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
 * [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
-* **[sqlfiddle.com](http://sqlfiddle.com/)**
+* [**sqlfiddle.com**](http://sqlfiddle.com/)
 * [Solving Sudoku with SQL](http://www.developerfusion.com/article/84374/solving-sudoku-with-sql)
 * [Why the SQL Standard does not need another way to do GROUP BY](http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
@@ -73,7 +73,7 @@ SQL
 * [Instagram 에서 ID 샤딩하기](https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0)
 * [Code Quality Comparison of Firebird, MySQL, and PostgreSQL](https://medium.com/@CPP_Coder/code-quality-comparison-of-firebird-mysql-and-postgresql-53e39fc3298d)
 * [SQL Best Practices — Designing An ETL Video](https://hackernoon.com/sql-best-practices-designing-an-etl-video-1933665f9861)
-* **[DBMS 버퍼 관리의 두 가지 흐름 가상 메모리 페이지 교체 알고리즘 활용…페이지 부재 발생 빈도 줄여 성능 향상](http://www.datanet.co.kr/news/articleView.html?idxno=115592)**
+* [**DBMS 버퍼 관리의 두 가지 흐름 가상 메모리 페이지 교체 알고리즘 활용…페이지 부재 발생 빈도 줄여 성능 향상**](http://www.datanet.co.kr/news/articleView.html?idxno=115592)
 * [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558)
 * [중국의 어떤 서버 개발자의 디비 설계](https://blog.naver.com/imays/221461537682)
   * [practice - 중국의 어떤 서버 개발자의 디비 설계](https://gist.github.com/hyunjun/0f83fd13165444e38645a74bc4e1c1f1#file-db_design-md)
@@ -93,10 +93,10 @@ SQL
 * migration
   * [flyway - Evolve your Database Schema easily and reliably across all your instances](https://flywaydb.org/) plain SQL 사용
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
-* **[MySQL에서 'a' = 'a '가 true로 평가된다?](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)**
+* [**MySQL에서 'a' = 'a '가 true로 평가된다?**](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
   * [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/blog/2018/02/26/sql-char-comparison/)
 * [번역 데이터 구조와 설계 — 튜토리얼](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
-* **[RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/)** MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
+* [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
 * [DataGrip 팁 모음](http://ohgyun.com/770) jetbrains database IDE
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
@@ -237,7 +237,7 @@ SQL
 * [count 2편 - benchmarking 해보기](http://blog.naver.com/pjt3591oo/221030656488)
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
 * [리눅스 서버 구축하기 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
-* **[MySQL Tutorial](http://www.mysqltutorial.org/)**
+* [**MySQL Tutorial**](http://www.mysqltutorial.org/)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)
 * [Working with JSON in MySQL](https://scotch.io/tutorials/working-with-json-in-mysql)
@@ -283,7 +283,7 @@ SQL
 * [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
 * [PMM 이야기 1편 – INTRO](http://gywn.net/2018/03/pmm-intro/)
 * [PMM팁1탄! MySQL을 READ-ONLY 기준으로 표기해보기](http://gywn.net/2019/01/pmm-tip1-classified-by-mysql-readonly/)
-* **[MySQL에서 Affected Rows를 병맛나게 활용해보자](http://gywn.net/2018/03/mad-usage-with-mysql-affected-rows/)**
+* [**MySQL에서 Affected Rows를 병맛나게 활용해보자**](http://gywn.net/2018/03/mad-usage-with-mysql-affected-rows/)
 * [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
 * [Replicating Relational Databases with StreamSets Data Collector](https://streamsets.com/blog/blogreplicating-relational-databases-with-streamsets-data-collector/)
@@ -291,7 +291,7 @@ SQL
   * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [Delayed Replication을 이용해 유실된 데이터 빠르게 복구하기](http://tmondev.blog.me/220970798327)
-* **[MySQL을 NoSQL로 사용하기](http://advent.perl.kr/2012/2012-12-12.html)**
+* [**MySQL을 NoSQL로 사용하기**](http://advent.perl.kr/2012/2012-12-12.html)
   * 2010년 글 memcached 400,000/sec get vs. 100,000/sec select MySQL/InnoDB
   * plugin을 통해 750,000/sec으로 성능 향상
 * utf8mb4
@@ -330,13 +330,13 @@ SQL
   * [How to catch MySQL SQL with tcpdump in Linux](https://web.liferay.com/web/david.zhang/blog/-/blogs/how-to-catch-mysql-sql-with-tcpdump-in-linux)
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/) e.g. 게시판
 * [MySQL 실행 계획](http://12bme.tistory.com/160)
-* **[장애와 관련된 XtraBackup 적용기](http://woowabros.github.io/experience/2018/05/28/billingjul.html)** mysqldump, mysqlbinlog, XtraBackup
+* [**장애와 관련된 XtraBackup 적용기**](http://woowabros.github.io/experience/2018/05/28/billingjul.html) mysqldump, mysqlbinlog, XtraBackup
 * [MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/)
 * [Speed Up Your Database 300 Times](https://speakerdeck.com/afilina/speed-up-your-database-300-times)
 * [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 * [MySQL for Excel](https://www.mysql.com/why-mysql/windows/excel)
 * [MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축)
-* **[MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)**
+* [**MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기**](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 * [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 * [An in-depth look at Database Indexing](https://medium.freecodecamp.org/database-indexing-at-a-glance-bb50809d48bd)
 * **MySQL High Availability Framework Explained** ScaleGrid라는 MySQL service 회사에서 자사의 기술을 이용해 설명했지만, 일반적인 High Availability를 이해하기 위한 기초로 굉장히 좋은 글
@@ -346,8 +346,8 @@ SQL
   * [Part III: Failure Scenarios](http://highscalability.com/blog/2019/4/16/mysql-high-availability-framework-explained-part-iii-failove.html)
 * [Failed to read auto-increment value from storage engine 해결 방법](https://jojoldu.tistory.com/417)
 * [MySQL 자동 증가 칼럼의 최신 데이터 조회시 주의 사항](https://javacan.tistory.com/entry/MySQL-auto-inc-col-gotcha)
-* **[MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리](http://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)**
-* **[Lock으로 이해하는 Transaction의 Isolation Level](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock)**
+* [**MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리**](http://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)
+* [**Lock으로 이해하는 Transaction의 Isolation Level**](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock)
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
 * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
@@ -364,7 +364,7 @@ SQL
 * [DocStore: Document Database for MySQL at Facebook](https://www.percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook%20DocStore%20Percona%202015.pdf)
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
 * [Galera Cluster](http://galeracluster.com/)
-* **[Maxwell's daemon, an application that reads MySQL binlogs and writes row updates to Kafka, Kinesis, RabbitMQ, Google Cloud Pub/Sub, or Redis as JSON](http://maxwells-daemon.io/)**
+* [**Maxwell's daemon, an application that reads MySQL binlogs and writes row updates to Kafka, Kinesis, RabbitMQ, Google Cloud Pub/Sub, or Redis as JSON**](http://maxwells-daemon.io/)
   * 실시간에 가깝게 mysql 데이터를 가져옴. 텅스텐CDC에 비해 안정적이며, 필요한 테이블/컬럼 단위로 필터링 처리 가능
   * [MySQL CDC, Streaming Binary Logs and Asynchronous Triggers](https://www.percona.com/blog/2016/09/13/mysql-cdc-streaming-binary-logs-and-asynchronous-triggers/)
 * [Herb: Multi-DC Replication Engine for Uber’s Schemaless Datastore](https://eng.uber.com/herb-datacenter-replication/)
@@ -401,7 +401,7 @@ SQL
 
 # Oracle
 * examples
-  * [queries](https://gist.github.com/hyunjun/20ed3f7d381fadc17dbe)
+  * [practice - oracle queries](https://gist.github.com/hyunjun/20ed3f7d381fadc17dbe)
 * Pro\*C
   * [Pro\*C 목차 및 sample](http://downman.tistory.com/31)
 
@@ -472,7 +472,7 @@ SQL
 * [How to scale PostgreSQL 10 using table inheritance and declarative partitioning](https://blog.timescale.com/scaling-partitioning-data-postgresql-10-explained-cd48a712a9a1)
 * [Postgres as the Substructure for IoT and the Next Wave of Computing](https://blog.timescale.com/postgres-accidental-iot-platform-timescaledb-postgresql-time-series-data-7983d28da5af)
 * [PostgreSQL 11 Partitioning Improvements](https://pgdash.io/blog/partition-postgres-11.html) PostgreSQL 11에서 파티셔닝에 관련하여 향상된 기능 소개
-* **[How to build a PostgreSQL database to store tweets - Learning how to stream from Twitter API](https://towardsdatascience.com/how-to-build-a-postgresql-database-to-store-tweets-1be9c1d48c7)**
+* [**How to build a PostgreSQL database to store tweets - Learning how to stream from Twitter API**](https://towardsdatascience.com/how-to-build-a-postgresql-database-to-store-tweets-1be9c1d48c7)
 * [Bye bye Mongo, Hello Postgres](https://www.theguardian.com/info/2018/nov/30/bye-bye-mongo-hello-postgres)
   * Guardian에서 MongoDB에서 Postgres로 마이그레이션한 스토리
   * 데이터베이스 API Call을 복제하여 구 개의 데이터베이스서 실행하고 로깅을 하는 방법을 포함하여 데이터베이스 롤아웃 및 마이그레이션 작업 과정
@@ -528,7 +528,7 @@ SQL
 * [How we scaled Freshdesk (Part II) – The Sharding and Rebalancing techniques we used](https://freshdesk.com/product-updates/how-freshdesk-scaled-using-sharding-blog/)
 
 # SQLite
-* [example - python](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
+* [practice - python sqlite](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
 * [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
 * [Finding bugs in SQLite, the easy way](http://lcamtuf.blogspot.kr/2015/04/finding-bugs-in-sqlite-easy-way.html?m=1)
 * [Don't test with SQLLite when you use Postgres in Production](http://michael.robellard.com/2015/07/dont-test-with-sqllite-when-you-use.html)

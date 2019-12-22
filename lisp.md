@@ -157,7 +157,7 @@ Lisp
 * [Rosette is a new solver-aided programming language that extends Racket with facilities for program synthesis, verification, debugging, and angelic execution](http://homes.cs.washington.edu/~emina/rosette/)
 * [Practically Accurate Floating-Point Math](http://www.cs.umd.edu/~ntoronto/papers/toronto-2014cise-floating-point.pdf)
 * [MIT GNU Scheme Windows 실행의 해답, DrRacket](http://blog.naver.com/hancury/220546813739)
-* **[Continuations](https://beautifulracket.com/explainer/continuations.html)**
+* [**Continuations**](https://beautifulracket.com/explainer/continuations.html)
 
 # Scheme
 * [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)
@@ -172,7 +172,7 @@ Lisp
 * [SICP 시작](http://blog.naver.com/hancury/220500950273)
 * [Structure and Interpretation of Computer Programs Interactive Version](http://isicp.lisp.ai/index.html)
 * [execute scheme online](http://www.tutorialspoint.com/execute_scheme_online.php)
-* **[Practical Functional Programming](http://www.lambdanative.org/)**
+* [**Practical Functional Programming**](http://www.lambdanative.org/)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
 # [ulisp](http://www.ulisp.com/) lisp for Arduino

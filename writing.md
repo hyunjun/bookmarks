@@ -62,7 +62,7 @@ Writing
 * [학술논문작성법](http://kaist.edwith.org/paperwriting)
 * [(2017) 학술논문작성법](http://kooc.kaist.ac.kr/howtopaper)
 * [On Writing Product Specs](https://goberoi.com/on-writing-product-specs-5ca697b992fd)
-  * **[프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2)**
+  * [**프로덕트 스펙 문서 작성법**](https://brunch.co.kr/@hj-kang/2)
 * [영어 못해도 논문 잘 읽는 법](http://gradschoolstory.net/terry/readingpapers/)
 * [글쓰는 개발자가 되자](http://www.popit.kr/%EA%B8%80%EC%93%B0%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EC%9E%90/)
 * [기술 업계의 독성 말투 문제, 고칩시다! 독성 말투의 예시, 발생하는 커뮤니케이션 문제와 대안, 번역](https://edykim.com/ko/post/tech-has-a-toxic-tone-problem-lets-fix-it)

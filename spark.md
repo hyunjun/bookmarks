@@ -7,10 +7,10 @@
 * [Custom API Examples For Apache Spark - The examples are basic and only for newbies in Scala and Spark](https://github.com/HyukjinKwon/spark-custom-api)
 * [Welcome to Spark Python API Docs!](https://spark.apache.org/docs/latest/api/python/index.html)
 * [github.com/apache/spark](https://github.com/apache/spark)
-* **[SparkTutorials.net - Apache Spark For the Common * Man!](http://sparktutorials.net/)**
+* [**SparkTutorials.net - Apache Spark For the Common * Man!**](http://sparktutorials.net/)
 * [sparkjava.com/tutorials](http://sparkjava.com/tutorials/)
 * [learn hadoop spark by examples](https://www.java-success.com/category/tutorial/hadoop-tutorials/learn-hadoop-spark-by-examples/)
-* **[Running Spark Korean](https://github.com/skyer9/Running-Spark-ko)** flintrock, pyspark, aws s3, spark sql, jupyter, hadoop, yarn, tuning
+* [**Running Spark Korean**](https://github.com/skyer9/Running-Spark-ko) flintrock, pyspark, aws s3, spark sql, jupyter, hadoop, yarn, tuning
 * [Spark 시작하기 (유용한 사이트 링크)](https://www.facebook.com/notes/%EC%8A%A4%EC%82%AC%EB%AA%A8-%ED%95%9C%EA%B5%AD-%EC%8A%A4%ED%8C%8C%ED%81%AC-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%AA%A8%EC%9E%84-%EC%9D%B8%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%BB%B4%ED%93%A8%ED%8C%85/spark-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%81%ED%81%AC/775214279207144?hc_location=ufi)
 * [Learning Spark With Scala](https://maheshkndpl.wordpress.com/2017/09/01/introduction-to-spark/)
 * [Apache Spark Scala Tutorial For Korean](https://github.com/skyer9/spark-scala-tutorial-ko)
@@ -23,8 +23,8 @@
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
 * Spark Internal
   * [Part 1. RDD의 내부 동작](https://medium.com/@leeyh0216/spark-internal-part-1-rdd%EC%9D%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-d50eb7a235e6)
-  * **[Part 2. Spark의 메모리 관리(1)](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1-c18e39af942e)**
-  * **[Part 2. Spark의 메모리 관리(2)](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-2-db1975b74d2f)**
+  * [**Part 2. Spark의 메모리 관리(1)**](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1-c18e39af942e)
+  * [**Part 2. Spark의 메모리 관리(2)**](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-2-db1975b74d2f)
   * [Spark Internal Part 3. Spark SQL’s Catalyst Optimizer](https://medium.com/@leeyh0216/spark-sql-6dc3d645cc31)
 * [pubdata.tistory.com/category/Lecture_SPARK](http://pubdata.tistory.com/category/Lecture_SPARK)
 * [Apache Spark - Executive Summary](https://www.linkedin.com/pulse/apache-spark-executive-summary-alan-brown)
@@ -45,8 +45,8 @@
 * [Intro to Apache Spark Training - Part 1](https://www.youtube.com/watch?v=VWeWViFCzzg)
 * Cloudera
   * [Cloudera Engineering Blog · Spark Posts](http://blog.cloudera.com/blog/category/spark/)
-  * **[How-to: Tune Your Apache Spark Jobs (Part 1)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)**
-  * **[How-to: Tune Your Apache Spark Jobs (Part 2)](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)**
+  * [**How-to: Tune Your Apache Spark Jobs (Part 1)**](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-1/)
+  * [**How-to: Tune Your Apache Spark Jobs (Part 2)**](http://blog.cloudera.com/blog/2015/03/how-to-tune-your-apache-spark-jobs-part-2/)
   * [LSA-ing Wikipedia with Apache Spark](http://www.slideshare.net/cloudera/lsaing-wikipedia-with-apache-spark)
   * [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
   * [Getting Apache Spark Customers to Production](http://www.slideshare.net/cloudera/getting-apache-spark-customers-to-production)
@@ -98,7 +98,7 @@
   * [Apache Spark(스파크) - RDD Persistence (스토리지 옵션에 대해서)](http://bcho.tistory.com/1029)
   * [Apache Spark - Key/Value Paris (Pair RDD)](http://bcho.tistory.com/1030)
   * [Apache Spark-Python vs Scala 성능 비교](http://bcho.tistory.com/1031)
-* **[blog.madhukaraphatak.com](http://blog.madhukaraphatak.com/)**
+* [**blog.madhukaraphatak.com**](http://blog.madhukaraphatak.com/)
   * [Introduction to Spark Data Source API - Part 1](http://blog.madhukaraphatak.com/introduction-to-spark-data-source-api-part-1/)
 * [Spark Summit](https://spark-summit.org/)
   * [Using Cascading to Build Data-centric Applications on Spark](https://spark-summit.org/2014/talk/using-cascading-to-build-data-centric-applications-on-spark)
@@ -118,7 +118,7 @@
     * [Training Apache Spark Essentials](https://www.youtube.com/watch?v=OheiUl_uXwo)
       * [Class Notes - SSW 2016 Spark Essentials](http://tinyurl.com/Spark-Essentials-TE1)
     * [Training Continues: Apache Spark Essentials](https://www.youtube.com/watch?v=fROnFlD3Isw)
-  * **[Spark Summit Europe 2016 참관기](http://d2.naver.com/helloworld/8852387)**
+  * [**Spark Summit Europe 2016 참관기**](http://d2.naver.com/helloworld/8852387)
   * [OrderedRDD: A Distributed Time Series Analysis Framework for Spark (Larisa Sawyer)](https://www.youtube.com/watch?v=x2iM5he2gAU)
   * [Just Enough Scala for Spark (Dean Wampler)](https://www.youtube.com/watch?v=LBoSgiLV_NQ)
   * [TensorFrames: Deep Learning with TensorFlow on Apache Spark (Tim Hunter)](https://www.youtube.com/watch?v=gXItObf-qaI)
@@ -238,7 +238,7 @@
 * [Spark에서의 Data Skew 문제](http://eminency.github.io/techinal/spark/2016/10/08/data-skew.html)
 * [처음해보는 스파크(spark)로 24시간안에 부동산 과열 분석해보기](http://angeliot.blogspot.com/2016/11/24-spark.html)
 * [Intro to Apache Spark for Java and Scala Developers - Ted Malaska (Cloudera)](https://www.youtube.com/watch?v=x8xXXqvhZq8)
-* **[Achieving a 300% speedup in ETL with Apache Spark](http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/)**
+* [**Achieving a 300% speedup in ETL with Apache Spark**](http://blog.cloudera.com/blog/2016/12/achieving-a-300-speedup-in-etl-with-spark/)
   * Spark의 CSV 파일 작업에 대한 스니펫 소개
   * non-distributed version에 비해 Spark는 뛰어난 속도 향상 기능을 제공하며 Parquet과 같은 최적화된 형식으로 변환 할 수 있는 기능을 제공
 * [Parsing CSV Files in Spark](https://www.youtube.com/watch?v=I3WzvSjYf3Q)
@@ -247,7 +247,7 @@
 * [Apache Spark에서 컬럼 기반 저장 포맷 Parquet(파케이) 제대로 활용하기](http://engineering.vcnc.co.kr/2018/05/parquet-and-spark/)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
-* **[Data Science How-To: Using Apache Spark for Sports Analytics](https://content.pivotal.io/blog/how-data-science-assists-sports)**
+* [**Data Science How-To: Using Apache Spark for Sports Analytics**](https://content.pivotal.io/blog/how-data-science-assists-sports)
   * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 * [Hive on Spark: Getting Started](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
 * [Working with UDFs in Apache Spark](http://blog.cloudera.com/blog/2017/02/working-with-udfs-in-apache-spark/)
@@ -460,7 +460,7 @@
 * trigger [Spark Trigger Options](https://dzone.com/articles/spark-trigger-options)
 
 # Book
-* **[Mastering Apache Spark 2.0](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)**
+* [**Mastering Apache Spark 2.0**](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 * [Advanced Analytics with Spark Source Code](https://github.com/sryza/aas)
 * [Best Apache Spark and Scala Books for Mastering Spark Scala](https://data-flair.training/blogs/best-apache-spark-scala-books/)
 * [Spark for Data Analyst](https://wikidocs.net/book/1686) Spark SQL
@@ -491,7 +491,7 @@
 
 # Docker
 * practice
-  * [install zeppelin docker image, read and adjust json files](https://github.com/hyunjun/practice_private/tree/master/interview_bonial_assignment)
+  * [practice - install zeppelin docker image, read and adjust json files](https://github.com/hyunjun/practice_private/tree/master/interview_bonial_assignment)
 * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
 * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
 * [spark-scala-tutorial A free tutorial for Apache Spark](https://github.com/deanwampler/spark-scala-tutorial) docker jupyter notebook
@@ -570,7 +570,7 @@
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
   * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
   * [Spark on EMR](https://github.com/awslabs/emr-bootstrap-actions/tree/master/spark)
-  * **[(BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR](http://www.slideshare.net/AmazonWebServices/bdt309-data-science-best-practices-for-apache-spark-on-amazon-emr)**
+  * [**(BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR**](http://www.slideshare.net/AmazonWebServices/bdt309-data-science-best-practices-for-apache-spark-on-amazon-emr)
   * [Starburst’s Presto on AWS up to 18x faster than EMR](https://www.starburstdata.com/technical-blog/starburst-presto-on-aws-18x-faster-than-emr/) Presto의 엔터프라이즈 빌드를 제공하는 Starbust에서 AWS와 EMR 환경에서 벤치마크한 결과 소개
   * [Optimize Spark jobs on EMR Cluster](https://medium.com/@sharad_21643/https-medium-com-optimize-spark-jobs-on-emr-cluster-6b1a97711adb)
 * [Envelope - a configuration-driven framework for Apache Spark that makes it easy to develop Spark-based data processing pipelines on a Cloudera EDH](https://github.com/cloudera-labs/envelope/)
@@ -745,7 +745,7 @@
 * [Fast Data Analytics with Spark and Python](http://www.slideshare.net/BenjaminBengfort/fast-data-analytics-with-spark-and-python)
 * [pyspark-hbase.py](https://gist.github.com/MLnick/6ec916b646c3004d7523)
 * [Deploying PySpark on Red Hat Storage GlusterFS](http://redhatstorage.redhat.com/2015/02/17/deploying-pyspark-on-red-hat-storage-glusterfs/)
-* [weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
+* [practice - weird case from pyspark-hbase (utf8 & unicode mixed)](https://gist.github.com/hyunjun/dea65972f3f723c0ad77)
 * [Python Versus R in Apache Spark](http://www.datanami.com/2015/07/13/python-versus-r-in-apache-spark/)
 * [biospark](https://github.com/biospin/biospark)
 * [Plagiarizing and Paraphrasing Code From an Online Class for Content Marketing](http://minimaxir.com/2015/09/code-of-plagiarism/)
@@ -761,7 +761,7 @@
 * [Fully Arm Your Spark with Ipython and Jupyter in Python 3](https://mengdong.github.io/2016/08/08/fully-armed-pyspark-with-ipython-and-jupyter/)
   * [Installation](http://toree.apache.org/documentation/user/installation.html)
 * [PySpark Cheat Sheet: Spark in Python](http://www.datasciencecentral.com/profiles/blogs/pyspark-cheat-sheet-spark-in-python)
-* **[Apache Spark for Data Science](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)**
+* [**Apache Spark for Data Science**](https://www.youtube.com/playlist?list=PL0B_bv6Hd87dTd5890-nPKwl2JoqCATAf)
 * [BigDL on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/bigdl-on-cdh-and-cloudera-data-science-workbench/) BigDL (Apache Spark의 심층 학습 라이브러리)을 워크 벤치와 함께 사용하는 방법
 * [Distributed Deep Learning At Scale On Apache Spark With BigDL](https://www.slideshare.net/YuliaTell/distributed-deep-learning-at-scale-on-apache-spark-with-bigdl)
 * [Deep Learning to Big Data Analytics on Apache Spark Using BigDL - Yuhao Yang & Xianyan Jia](https://www.youtube.com/watch?v=cqUvrs2PPOY)
@@ -771,7 +771,7 @@
 * [Install Spark on Windows (PySpark)](https://medium.com/@GalarnykMichael/install-spark-on-windows-pyspark-4498a5d8d66c)
 * [pyspark 로컬 설치](https://jaeyung1001.tistory.com/87)
 * [Get Started with PySpark and Jupyter Notebook in 3 Minutes](https://blog.sicara.com/get-started-pyspark-jupyter-guide-tutorial-ae2fe84f594f)
-* **[Best Practices Writing Production-Grade PySpark Jobs](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)**
+* [**Best Practices Writing Production-Grade PySpark Jobs**](https://developerzen.com/best-practices-writing-production-grade-pyspark-jobs-cb688ac4d20f)
   * [PySpark-Boilerplate](https://github.com/ekampf/PySpark-Boilerplate)
 * [How to use PySpark on your computer](https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617)
 * [Spark Python Performance Tuning](http://stackoverflow.com/questions/27757117/spark-python-performance-tuning)
@@ -780,7 +780,7 @@
   * [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by: Wes McKinney](https://www.slideshare.net/SparkSummit/improving-python-and-spark-performance-and-interoperability-spark-summit-east-talk-by-wes-mckinney)
 * [High Performance Python On Spark](https://www.youtube.com/watch?v=abZ0f5ug18U)
   * [High Performance Python on Apache Spark](https://www.slideshare.net/wesm/high-performance-python-on-apache-spark)
-* **[Keynote: Making the Big Data ecosystem work together with Python - Holden Karau](https://www.youtube.com/watch?v=LOHVKYtUO-o)**
+* [**Keynote: Making the Big Data ecosystem work together with Python - Holden Karau**](https://www.youtube.com/watch?v=LOHVKYtUO-o)
 * [Downloading spark and getting started with python notebooks (jupyter) locally on a single computer](https://medium.com/explore-artificial-intelligence/downloading-spark-and-getting-started-with-python-notebooks-jupyter-locally-on-a-single-computer-98a76236f8c1)
 * [A Brief Introduction to PySpark - A primer on PySpark for data science](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
 * [Introducing Pandas UDF for PySpark](https://databricks.com/blog/2017/10/30/introducing-vectorized-udfs-for-pyspark.html)
@@ -861,7 +861,7 @@
 * [Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
 * [Introduction to Spark Structured Streaming - Part 15: Meetup Talk on Time and Window API](http://blog.madhukaraphatak.com/introduction-to-spark-structured-streaming-part-15/)
 * [번역글 Spark Streaming의 내부](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-spark-streaming%EC%9D%98-%EB%82%B4%EB%B6%80/)
-* **[Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html)** Apache Spark, Storm, Flink, Samze를 비교 분석
+* [**Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1**](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html) Apache Spark, Storm, Flink, Samze를 비교 분석
 * [Kafka Streams vs. Spark Structured Streaming](https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming)
 * [Kafka Streams vs. Spark Structured Streaming (extended)](https://speakerdeck.com/dongjin/kafka-streams-vs-spark-structured-streaming-extended)
 * [Kafka offset committer for Spark structured streaming](https://github.com/HeartSaVioR/spark-sql-kafka-offset-committer)
@@ -911,7 +911,7 @@
 * [9월 발렌타인 웨비너 - 민경국님의 Apache Zeppelin 입문 온라인 헨즈온강의](https://www.youtube.com/watch?v=VlqTPZVyP9Y)
 * [오픈소스 일기 2: Apache Zeppelin 이란 무엇인가?](https://medium.com/apache-zeppelin-stories/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-2-apache-zeppelin-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-f3a520297938)
 * [How Apache Zeppelin runs a paragraph](https://medium.com/apache-zeppelin-stories/how-apache-zeppelin-runs-a-paragraph-783a0a612ba9)
-* **[Spark & Zeppelin을 활용한 머신러닝 실전 적용기](http://www.slideshare.net/JunKim22/spark-zeppelin)**
+* [**Spark & Zeppelin을 활용한 머신러닝 실전 적용기**](http://www.slideshare.net/JunKim22/spark-zeppelin)
   * [Zeppelin 화재 뉴스 기사 분류 예제](https://github.com/uosdmlab/playdata-zeppelin-notebook)
 * [스파크-제플린으로 통계 그래프 출력하기(윈도우환경)](http://blog.daum.net/web_design/396) 실패 이야기
 * [Apache Zeppelin Data Science Environment 1/21/16](https://www.youtube.com/watch?v=chPw8Ts7ZW8)
