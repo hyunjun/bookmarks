@@ -194,7 +194,7 @@ Python
   * [Pycharm 원격 빌드 설정하기](http://blog.ghatdev.xyz/11)
   * [Mac에서 PyCharm Docker를 원격 연결하기](http://mcchae.egloos.com/11250696)
   * [PyCharm Professional 버전에서 Docker로 Remote Debugging](http://bryan7.tistory.com/864)
-  * **[PyCharm + Docker로 파이썬 개발환경 셋업하기 (Dockerization)](https://mingrammer.com/setup-the-python-development-environment-with-pycharm-and-docker)**
+  * [**PyCharm + Docker로 파이썬 개발환경 셋업하기 (Dockerization)**](https://mingrammer.com/setup-the-python-development-environment-with-pycharm-and-docker)
   * [파이참 원격 디버깅](https://www.slideshare.net/koain/ss-75453424)
   * [파이참(pycharm)에서 pep8 가이드 검사하기](http://guswnsxodlf.github.io/check-pep8-on-pycharm)
   * [Python에도 스타일이 있다](https://medium.com/@erish/python-codestyle-pep-8-%EC%A0%81%EC%9A%A9%EA%B8%B0-88b1dafd539e)
@@ -387,7 +387,7 @@ Python
 * [파이썬과 양자 컴퓨팅 — 제 4장은 실용화 편이다](https://medium.com/@kenixer/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%EC%96%91%EC%9E%90-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%A0%9C-4%EC%9E%A5%EC%9D%80-%EC%8B%A4%EC%9A%A9%ED%99%94-%ED%8E%B8%EC%9D%B4%EB%8B%A4-43ff757f3860)
 * [파이썬으로 체스 만들기](https://among.software/content/6f30f2494b8d3dff1dbf71865d40386d8e450b49)
 * [(PlaywithData)1day seminar_0630](https://www.slideshare.net/namsoojang3/playwithdata1day-seminar0630-152800415)
-* **[SERP Analysis with Google Search Console+Python](https://hackernoon.com/serp-analysis-with-google-search-console-python-bf8a2ab43fa9)**
+* [**SERP Analysis with Google Search Console+Python**](https://hackernoon.com/serp-analysis-with-google-search-console-python-bf8a2ab43fa9)
   * Google Search Console Data, CSVs into a Pandas Dataframe, Plot total clicks over time
 * [One Day Builds: Instagram Automation Using Python](https://www.youtube.com/watch?v=vnfhv1E1dU4)
   * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
@@ -465,7 +465,7 @@ Python
   * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
-  * **[파이썬에서 arguments로 *(별표)만 쓴 경우!?](https://sjquant.tistory.com/31)**
+  * [**파이썬에서 arguments로 *(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
@@ -477,7 +477,7 @@ Python
   * [Best way to convert string to bytes in Python 3?](https://stackoverflow.com/questions/7585435/best-way-to-convert-string-to-bytes-in-python-3)
   * [Converting python string into bytes directly without eval()](https://stackoverflow.com/questions/51775126/converting-python-string-into-bytes-directly-without-eval)
 * cgitb
-  * **[cgitb로 자세한 오류를 찍어 봅니다](http://mcchae.egloos.com/11249290)** debugging
+  * [**cgitb로 자세한 오류를 찍어 봅니다**](http://mcchae.egloos.com/11249290) debugging
 * class
   * [practice - `RecursionError: maximum recursion depth exceeded while calling a Python object`](https://github.com/hyunjun/practice/blob/master/python/test-class/inheritance_error.py)
   * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
@@ -670,13 +670,13 @@ Python
   * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
 * gc
   * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
-  * **[Dismissing Python Garbage Collection at Instagram](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)**
+  * [**Dismissing Python Garbage Collection at Instagram**](https://engineering.instagram.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)
     * [Instagram이 Python garbage collection 없앤 이유](https://b.luavis.kr/python/dismissing-python-garbage-collection-at-instagram)
   * [강성일: GC없는 Python을 추구하면 안 되는 걸까](https://www.youtube.com/watch?v=e2hT7dYzURo)
     * [Pycon KR 2017 GC없는 Python을 추구하면 안 되는 걸까](https://speakerdeck.com/luavis/pycon-kr-2017-gceobsneun-pythoneul-cuguhamyeon-an-doeneun-geolgga)
   * [Copy-on-write friendly Python garbage collection](https://engineering.instagram.com/copy-on-write-friendly-python-garbage-collection-ad6ed5233ddf)
     * [COW(Copy-on-write)가 발생하는 Python garbage collection](https://b.luavis.kr/python/cow-friendly-python-gc) python3.7에 추가된 gc.freeze
-  * **[Python GC가 작동하는 원리](https://winterj.me/python-gc/)**
+  * [**Python GC가 작동하는 원리**](https://winterj.me/python-gc/)
   * [자동 Garbage Collection 주기](https://weicomes.tistory.com/277)
   * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
 * generator
@@ -686,8 +686,8 @@ Python
   * [파이썬 iterator generator 이해하기](http://www.slideshare.net/dahlmoon/ss-42700218)
   * [Sieve daisy chain](http://rextester.com/WTKDS3290)
     * [example - a concurrent prime sieve in go](https://play.golang.org/p/9U22NfrXeq)
-  * **[이터레이터와 제너레이터](https://mingrammer.com/translation-iterators-vs-generators)**
-  * **[Using Python Generator to Monitor Data](https://www.youtube.com/watch?v=xFkqOdAluJ0)**
+  * [**이터레이터와 제너레이터**](https://mingrammer.com/translation-iterators-vs-generators)
+  * [**Using Python Generator to Monitor Data**](https://www.youtube.com/watch?v=xFkqOdAluJ0)
   * [Data Processing using Python Generators](http://blog.thepythontutor.com/2017/08/data-processing-using-python-generators.html)
   * [python - db stored procedure 호출에 generator 활용하기](https://ash84.net/2017/09/12/python-db-stored-procedure-generator/)
   * [Threaded Generator in Python](https://lqez.github.io/blog/threaded-generator-in-python.html)
@@ -932,12 +932,12 @@ Python
   * shuffle [사용자 데이터셋 셔플](https://jybaek.tistory.com/781)
 * re
   * practice
-    * [특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
-    * [test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
-    * [`re.compile('PT(?:([0-9]+)H)*(?:([0-9]+)M)*')`](https://gist.github.com/hyunjun/0adf682379b18c8a484744cf539a3de6#file-group_exists-py)
-    * [lookbehind](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-lookbehind-md) 어떤 접두사가 선행하지 않는 단어만 인식하는 정규식
-    * [매 n번째 occurence를 변경](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-substitution_every_nth-md)
-    * [괄호 안의 특수 문자만 추출](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-detect_by_condition-md)
+    * [practice re - 특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
+    * [practice re - test_hangul.py](https://github.com/hyunjun/practice/blob/master/python/test-regex/test_hangul.py)
+    * [practice - `re.compile('PT(?:([0-9]+)H)*(?:([0-9]+)M)*')`](https://gist.github.com/hyunjun/0adf682379b18c8a484744cf539a3de6#file-group_exists-py)
+    * [practice re - lookbehind](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-lookbehind-md) 어떤 접두사가 선행하지 않는 단어만 인식하는 정규식
+    * [practice re - 매 n번째 occurence를 변경](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-substitution_every_nth-md)
+    * [practice re - 괄호 안의 특수 문자만 추출](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-detect_by_condition-md)
   * [regex101.com/#python](https://www.regex101.com/#python)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
@@ -971,7 +971,7 @@ Python
   * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
   * [From a python project to an open source package: an A to Z guide](https://medium.freecodecamp.org/from-a-python-project-to-an-open-source-package-an-a-to-z-guide-c34cb7139a22)
   * [devpi - Python PyPi staging server and packaging, testing, release tool http://doc.devpi.net](https://github.com/devpi/devpi)
-    * [private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
+    * [practice devpi - private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
 * smtplib
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
   * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
@@ -1058,10 +1058,10 @@ Python
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
 * `timeit`
-  * [practice](https://gist.github.com/hyunjun/108701fa3436710c39fd)
-  * [practice - function call](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_numpy_loop.py)
-  * [practice - function call with arguments](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_comparison_numpy_dot_with_timeit.py)
-  * [practice - function call with arguments 2](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
+  * [practice timeit](https://gist.github.com/hyunjun/108701fa3436710c39fd)
+  * [practice timeit - function call](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_numpy_loop.py)
+  * [practice timeit - function call with arguments](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_comparison_numpy_dot_with_timeit.py)
+  * [practice timeit - function call with arguments 2](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
 * TypeError
   * `TypeError: file() argument 1 must be encoded string without NULL bytes, not str`
   * [Common Mistakes as Python Web Developer](http://lucumr.pocoo.org/2010/12/24/common-mistakes-as-web-developer/)
@@ -1094,17 +1094,17 @@ Python
 * [A curated list of awesome Python asyncio frameworks, libraries, software and resources](https://github.com/timofurrer/awesome-asyncio)
 * [The new Python asyncio module aka “tulip”](http://vstinner.readthedocs.io/asyncio.html)
 * [github.com/python/asyncio/wiki/Benchmarks](https://github.com/python/asyncio/wiki/Benchmarks)
-* **[Python tricks: Demystifying async, await, and asyncio](https://www.youtube.com/watch?v=tSLDcRkgTsY)**
-  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async.ipynb)
+* [**Python tricks: Demystifying async, await, and asyncio**](https://www.youtube.com/watch?v=tSLDcRkgTsY)
+  * [practice - async](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async.ipynb)
 * [Understanding Asynchronous IO With Python 3.4's Asyncio And Node.js](http://sahandsaba.com/understanding-asyncio-node-js-python-3-4.html)
-  * **[파이썬 ASYNCIO 를 이해하기 위한 여정](http://hamait.tistory.com/834)**
-  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async2.ipynb)
-* **[Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017](https://www.youtube.com/watch?v=iG6fr81xHKA)**
+  * [**파이썬 ASYNCIO 를 이해하기 위한 여정**](http://hamait.tistory.com/834)
+  * [practice - async](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async2.ipynb)
+* [**Miguel Grinberg Asynchronous Python for the Complete Beginner PyCon 2017**](https://www.youtube.com/watch?v=iG6fr81xHKA)
   * [How Does Python Do Multiple Things At Once? (Best Intro Into Asynchronous Programming)](https://www.youtube.com/watch?v=8FdeJ2_LDuQ)
   * [asyncio examples](https://gist.github.com/miguelgrinberg/f15bc03471f610cfebeba62438435508)
-  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async3.ipynb)
-* **[AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)**
-  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async4.ipynb)
+  * [practice - async](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async3.ipynb)
+* [**AsyncIO for the Working Python Developer**](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e)
+  * [practice - async](https://github.com/hyunjun/practice/blob/master/python/test-async/test_async4.ipynb)
 * [Asyncio Coroutine Patterns: Beyond await](https://medium.com/python-pandemonium/asyncio-coroutine-patterns-beyond-await-a6121486656f)
 * [Asyncio Coroutine Patterns: Errors and cancellation](https://medium.com/@yeraydiazdiaz/asyncio-coroutine-patterns-errors-and-cancellation-3bb422e961ff)
 * [Asynchronous Python Await the Future](https://hackernoon.com/asynchronous-python-45df84b82434)
@@ -1191,21 +1191,21 @@ Python
 ## Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
 * [aiohttp: Asynchronous HTTP Client/Server](http://aiohttp.readthedocs.io/)
-  * [practice](https://github.com/hyunjun/practice/tree/master/python/test-aiohttp)
+  * [practice - aiohttp](https://github.com/hyunjun/practice/tree/master/python/test-aiohttp)
   * [aiohttp server deployment](http://aiohttp.readthedocs.io/en/stable/deployment.html)
   * [Aiohttp로 대량의 requests 처리하기](https://maxtortime.me/aiohttp-requests/)
-  * **[Making 1 million requests with python-aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)**
+  * [**Making 1 million requests with python-aiohttp**](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html)
   * [Macro-benchmark with Django, Flask and AsyncIO (aiohttp.web+API-Hour)](http://blog.gmludo.eu/2015/02/macro-benchmark-with-django-flask-and-asyncio.html)
   * [황성현: aiohttp in Production](https://www.youtube.com/watch?v=WYf-zsSGjgo)
-    * **[PyCon KR 2017 aiohttp in Production by Sunghyun Hwang](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)**
+    * [**PyCon KR 2017 aiohttp in Production by Sunghyun Hwang**](https://speakerdeck.com/sunghyunzz/pycon-kr-2017-aiohttp-in-production)
   * [Building the Real-time Web with Python and aiohttp (Steven Seguin)](https://www.youtube.com/watch?v=ZGU_fIOMpgk)
   * [Building The Real Time Web With Python](https://www.youtube.com/watch?v=wMnN5kIG8D8)
   * [Day 2: Pau Freixes Alió - Running Aiohttp at scale](https://www.youtube.com/watch?v=p5d74IkGfwo)
   * [aiohttp로 하는 비동기 HTTP 요청](https://item4.github.io/2017-11-26/Asynchronous-HTTP-Request-with-aiohttp/)
-* **[aio-libs - The set of asyncio-based libraries built with high quality](https://github.com/aio-libs)**
+* [**aio-libs - The set of asyncio-based libraries built with high quality**](https://github.com/aio-libs)
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
-* **[aiotools - Idiomatic asyncio utilties](https://github.com/achimnol/aiotools)**
-  * **[PyCon KR 2017 Meet aiotools: asyncio idiom library](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)**
+* [**aiotools - Idiomatic asyncio utilties**](https://github.com/achimnol/aiotools)
+  * [**PyCon KR 2017 Meet aiotools: asyncio idiom library**](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
 * [Quart - a Python asyncio web microframework with the same API as Flask](https://gitlab.com/pgjones/quart)
   * [Websockets in Quart](https://medium.com/@pgjones/websockets-in-quart-f2067788d1ee)
@@ -1229,7 +1229,7 @@ Python
 * [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
 * [Trio – Pythonic async I/O for humans and snake people 🐍](https://github.com/python-trio/trio)
   * [Nathaniel J. Smith - Trio: Async concurrency for mere mortals - PyCon 2018](https://www.youtube.com/watch?v=oLkfnc_UMcE)
-  * **[구조적 동시성에 대한 소고, 또는 Go 문의 해로움](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)**
+  * [**구조적 동시성에 대한 소고, 또는 Go 문의 해로움**](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
     * 정말 좋은 글. 특히 놀라운 건 Donald Knuth같은 사람도 한 때 goto를 옹호했다는 점
   * [Nathaniel J Smith - Python Concurrency for Mere Mortals - Pyninsula #10](https://www.youtube.com/watch?v=i-R704I8ySE)
 * [vibora - Fast, asynchronous and elegant Python web framework. https://vibora.io ](https://github.com/vibora-io/vibora)
@@ -1250,7 +1250,7 @@ Python
 * [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
 * [Python 101](https://leanpub.com/python_101/read_full)
 * [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks ](https://github.com/fluentpython/notebooks)
-* **[Books by Agiliq](https://books.agiliq.com)**
+* [**Books by Agiliq**](https://books.agiliq.com)
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 * 정보교육을 위한 파이썬 [Python for Informatics: Exploring Information](https://www.amazon.com/Python-Informatics-Exploring-Information-Korean/dp/1517143144/ref=as_li_ss_tl?ie=UTF8&qid=1441110639&sr=8-1&keywords=python+for+informatics+korean&linkCode=sl1&tag=drchu02-20&linkId=acc6dba9169097e26614f65a92e443ff)
@@ -1572,6 +1572,11 @@ Python
 * [Django, 공공데이터포털, Google Map으로 전기차 충전소 위치찍기](https://www.youtube.com/watch?v=stHfQdcsZFo)
 * [Django 3.0 릴리스와 주요 변경 사항 - MariaDB 지원, ASGI 지원, 필터 표현식 등](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
 
+# DSL
+* [Extending Python Into the Future](https://morioh.com/p/6db365736476)
+* [Lark - a modern parsing library](https://github.com/erezsh/Lark)
+  * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
+
 # Email
 * [gmail 로 이메일 보내기](http://mcchae.egloos.com/11294763)
 * [Sending an Email in Python via Gmail](https://www.youtube.com/watch?v=mP_Ln-Z9-XY)
@@ -1592,7 +1597,7 @@ Python
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (2)](https://woolbro.tistory.com/36)
 * [Excel vs Python: How to Do Common Data Analysis Tasks](https://www.dataquest.io/blog/excel-vs-python/)
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
-* **[Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io ](https://github.com/ricklamers/gridstudio)**
+* [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io **](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
@@ -1621,11 +1626,11 @@ Python
 
 # Flask
 * practice
-  * [API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API)
-  * [logging using logger, configurations from yaml file](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
-  * [Debian - Flask + Mod_Wsgi API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API-apache-flask) apache flask API
-  * [Debian - Python - Mod_Wsgi](https://github.com/hyunjun/practice/tree/master/python/test-flask/apache-flask) apache flask
-  * [table web app](https://github.com/hyunjun/practice/tree/master/python/test-flask/table-web-app)
+  * [practice - flask API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API)
+  * [practice - flask logging using logger, configurations from yaml file](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
+  * [practice - Debian - Flask + Mod_Wsgi API](https://github.com/hyunjun/practice/tree/master/python/test-flask/API-apache-flask) apache flask API
+  * [practice - Debian - Python - Mod_Wsgi](https://github.com/hyunjun/practice/tree/master/python/test-flask/apache-flask) apache flask
+  * [practice - table web app](https://github.com/hyunjun/practice/tree/master/python/test-flask/table-web-app)
     * [simple tables in a web app using flask and pandas with Python](https://sarahleejane.github.io/learning/python/2015/08/09/simple-tables-in-webapps-using-flask-and-pandas-with-python.html)
 * logging
   * [Flask logging example](https://gist.github.com/ibeex/3257877)
@@ -2192,7 +2197,7 @@ Python
       * [conda connector - conda Enables you to move freely around the environment](https://github.com/jybaek/conda_connector)
     * [conda tab completion (자동완성) 만들기](https://jybaek.tistory.com/809)
     * [practice - 다른 버전의 파이썬 설치하고 사용하기](https://gist.github.com/hyunjun/07ea5ce941bc008cc586#gistcomment-2236236)
-    * **[How to Start a Data Science Project in Python](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)**
+    * [**How to Start a Data Science Project in Python**](https://blog.godatadriven.com/how-to-start-a-data-science-project-in-python)
       * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
       * Anaconda의 Conda를 활용해 분리된 환경 설정
       * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
@@ -2385,7 +2390,7 @@ Python
       * [Drive Deduper Finds duplicate files in Drive based on md5 checksum and offers to trash them](https://github.com/gsuitedevs/drive-utils/tree/master/deduper)
     * [gdown - Download a large file from Google Drive (curl/wget fails because of the security notice)](https://github.com/wkentaro/gdown)
   * sheet 
-    * [practice](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
+    * [practice - google sheet](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
     * [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
     * [파이썬 구글시트 연동 클래스 소개](https://www.youtube.com/watch?v=ivnT4TwYcn0)
@@ -2401,7 +2406,7 @@ Python
   * [구글, 파이썬-고 소스코드 변환해주는 ‘글럼피’ 오픈소스로 공개](http://www.bloter.net/archives/270167)
   * [CPython, Grumpy, PyPy - When, How, Why - Itay Weiss - Pycon Israel 2017](https://www.youtube.com/watch?v=_y00S29mK1A)
 * [happybase](https://happybase.readthedocs.org/en/latest/user.html)
-* **[HASK - Haskell language features and standard libraries in pure Python](https://github.com/billpmurphy/hask/)**
+* [**HASK - Haskell language features and standard libraries in pure Python**](https://github.com/billpmurphy/hask/)
 * [hazelnut - an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems](https://github.com/mrsmn/hazelnut)
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
   * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
@@ -2433,8 +2438,6 @@ Python
 * [LemonGraph - a log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file](https://github.com/NationalSecurityAgency/lemongraph)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
 * [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
-* [Lark - a modern parsing library](https://github.com/erezsh/Lark)
-  * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
 * [LightNet: Bringing pjreddie's DarkNet out of the shadows](https://github.com/explosion/lightnet)
 * [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in \<95 lines](https://github.com/vpostman/logcoin)
@@ -2471,7 +2474,7 @@ Python
   * [practice - installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
   * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
   * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
-  * **[Python MySQL Tutorial](http://www.mysqltutorial.org/python-mysql/)**
+  * [**Python MySQL Tutorial**](http://www.mysqltutorial.org/python-mysql/)
   * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
   * [Insert / Retrieve file and images as a Blob in MySQL using Python](https://pynative.com/python-mysql-blob-insert-retrieve-file-image-as-a-blob-in-mysql/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
@@ -2604,7 +2607,7 @@ Python
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [REMOVESTAR Tool to automatically replace 'import \*' in Python files with explicit imports](https://www.asmeurer.com/removestar/)
-* **[Requests - an elegant and simple HTTP library for Python, built for human beings](http://docs.python-requests.org/)**
+* [**Requests - an elegant and simple HTTP library for Python, built for human beings**](http://docs.python-requests.org/)
   * [Advanced Usage](http://docs.python-requests.org/en/master/user/advanced/)
   * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
   * [practice - download file](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-file_download-md)
@@ -2620,14 +2623,14 @@ Python
   * [네이버 실시간 급상승 크롤링](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver_realtime_search_crawling.ipynb)
   * [네이버 실시간 급상승 크롤링 02](http://nbviewer.jupyter.org/urls/financedata.github.io/posts/naver_realtime_search_json.ipynb)
   * asynchronous requests
-    * **[GRequests: Asynchronous Requests](https://github.com/kennethreitz/grequests)**
-    * **[Asynchronous Python HTTP Requests for Humans](https://github.com/ross/requests-futures)**
+    * [**GRequests: Asynchronous Requests**](https://github.com/kennethreitz/grequests)
+    * [**Asynchronous Python HTTP Requests for Humans**](https://github.com/ross/requests-futures)
   * [How I used Python to find interesting people to follow on Medium](https://medium.freecodecamp.org/how-i-used-python-to-find-interesting-people-on-medium-be9261b924b0)
-  * **[Requests' secret: pool_connections and pool_maxsize](https://laike9m.com/blog/requests-secret-pool_connections-and-pool_maxsize,89/)**
+  * [**Requests' secret: pool_connections and pool_maxsize**](https://laike9m.com/blog/requests-secret-pool_connections-and-pool_maxsize,89/)
   * [Python Requests Throttle](http://www.pythonexample.com/code/python-requests-throttle/)
   * [The right way to use requests in parallel in Python](http://www.eamonnbell.com/blog/2015/10/05/the-right-way-to-use-requests-in-parallel-in-python/)
   * [Python parallel http requests using multiprocessing](https://gist.github.com/hoffrocket/3493802)
-  * [Make sessions safe[r] in multi-process environment](https://github.com/requests/requests/issues/4323)
+  * [Make sessions safer in multi-process environment](https://github.com/requests/requests/issues/4323)
   * [Requests hang multiprocessing](https://github.com/requests/requests/issues/4337)
   * [Cory Benfield Requests Under The Hood PyCon 2017](https://www.youtube.com/watch?v=ptbCIvve6-k)
     * not so much about the requests library per se than about tradeoffs in programming, handling of exotic edge cases and an exercise in pragmatism
@@ -2695,7 +2698,7 @@ Python
   * [Pythonic Database Management with SQLAlchemy](https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0)
 * [sqlbuilder](https://pypi.python.org/pypi/sqlbuilder)
   * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
-  * [practice](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
+  * [practice - sqlbuilder](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
@@ -3018,7 +3021,7 @@ Python
 * [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 * [github.com/zerosum99/python_pandas](https://github.com/zerosum99/python_pandas)
 * [pandas.pivot_table](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.pivot_table.html)
-* **[Data Munging with Pandas - John Fries, CTO, OpenMail](https://www.youtube.com/watch?v=LFDAQfN0L9k&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)**
+* [**Data Munging with Pandas - John Fries, CTO, OpenMail**](https://www.youtube.com/watch?v=LFDAQfN0L9k&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)
   * [python 이것만 알면 로그 분석 할 수 있다. - 이정우](https://docs.google.com/document/d/1nGQ-OjQVQgW_U94HQmDp0tSGrJSzsFP3GA_B8egKJYY/edit)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
@@ -3415,7 +3418,7 @@ Python
   * [Intro to property-based testing in Python](https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/)
 * [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
   * [우아하게 준비하는 테스트와 리팩토링 - PyCon Korea 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
-* **[PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi)** 주로 Django 기반이지만 매우 좋은 내용
+* [**PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기**](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi) 주로 Django 기반이지만 매우 좋은 내용
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
@@ -3439,7 +3442,7 @@ Python
   * [파이썬에서 편하게 테스트 케이스 작성하기: pytest, Travis CI, Docker](https://speakerdeck.com/adrysn/paisseoneseo-pyeonhage-teseuteu-keiseu-jagseonghagi-pytest-travis-ci-docker)
   * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
   * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
-  * **[PyconKR 2019 pytest로 파이썬 코드 테스트하기](https://www.slideshare.net/ssuser80e030/pytest-164575856)**
+  * [**PyconKR 2019 pytest로 파이썬 코드 테스트하기**](https://www.slideshare.net/ssuser80e030/pytest-164575856)
   * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest 
 * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
   * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
@@ -3448,7 +3451,7 @@ Python
 * [Tabletests](http://horia141.com/tabletests.html)
 * unittest
   * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-  * [practice](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
+  * [practice - unittest](https://github.com/hyunjun/practice/blob/master/python/test-unittest/test/common/src/test_common.py#L75)
   * [Python Tutorial: Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI)
     * [Python-Unit-Testing](https://github.com/CoreyMSchafer/code_snippets/tree/master/Python-Unit-Testing)
   * [Mock Everything](https://www.hacksoft.io/blog/mock-everything/)
