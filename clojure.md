@@ -722,6 +722,7 @@ Clojure
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
   * [Extending and Using Specter](https://leanpub.com/specter/read_full)
   * [specter-book-code - Source and tests for Extending and Using Specter](https://github.com/marick/specter-book-code)
+* [spectomic - Generate Datomic or Datascript schema from your Clojure(script) specs](https://github.com/Provisdom/spectomic)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
