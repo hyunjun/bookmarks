@@ -310,6 +310,7 @@ Go
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
 * [Go runtime AND goroutine](https://jusths.tistory.com/142)
+* [Achieving concurrency in Go](https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
