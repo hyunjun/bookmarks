@@ -286,6 +286,8 @@ NLP
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
 * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
 * [Transformer (Attention Is All You Need) 구현하기 (1/3)](https://paul-hyun.github.io/transformer-01/)
+* [Transformer (Attention Is All You Need) 구현하기 (2/3)](https://paul-hyun.github.io/transformer-02/)
+* [Transformer (Attention Is All You Need) 구현하기 (3/3)](https://paul-hyun.github.io/transformer-03/)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 * [Talk Powerpoint Generator](https://korymath.github.io/talk-generator/)
 * [#자연어, #시퀀스를 위한 #재귀신경망 성능향상 기법! 대공개!! 첫번째!](https://www.youtube.com/watch?v=EZnG78g4moI)
