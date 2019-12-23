@@ -74,6 +74,7 @@
 * [Exploring Kotlin: useful standard library functions](https://medium.freecodecamp.org/exploring-kotlin-useful-standard-library-functions-6de19342f35a)
 * [Kotlin issue, You should face](https://medium.com/@jsuch2362/kotlin-issue-you-should-face-bf0130711391)
 * [Swift vs. Kotlin — the differences that matter](https://blog.indoorway.com/swift-v-kotlin-the-differences-that-matter-50b2d393f526)
+* [Swift vs. Kotlin — the differences in memory management](https://blog.indoorway.com/swift-vs-kotlin-the-differences-in-memory-management-860828edf8)
 * [How will you handle null references if you are designing a new language?](https://hackernoon.com/how-will-you-handle-null-references-if-you-are-designing-a-new-language-b1e4056456fc)
 * [Lessons in Kotlin Threading: An Animated Splash Screen](https://android.jlelse.eu/lessons-in-kotlin-threading-an-animated-splash-screen-4972fd08cab0)
 * [LiveData with SnackBar, Navigation and other events (the SingleLiveEvent case)](https://medium.com/google-developers/livedata-with-snackbar-navigation-and-other-events-the-singleliveevent-case-ac2622673150)
