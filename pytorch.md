@@ -297,6 +297,7 @@ PyTorch
 * [torchgpipe - A GPipe implementation in PyTorch https://torchgpipe.readthedocs.io ](https://github.com/KakaoBrain/torchgpipe)
   * [torchgpipe가 탄생하기까지](https://www.kakaobrain.com/blog/66)
 * [torchlars - A LARS implementation in PyTorch](https://github.com/kakaobrain/torchlars)
+  * [torchlars가 탄생하기까지](https://www.kakaobrain.com/blog/113)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
   * [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/)
