@@ -1008,6 +1008,7 @@ Programming
 * [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
 * [Best of 2017 in tech talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b)
 * [다시 보는 2018 한국의 주요 개발 / 테크 컨퍼런스들](https://www.44bits.io/ko/post/replay-2018-korea-tech-development-conferences)
+* [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
 
 # Continuous Integration, CI
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)
