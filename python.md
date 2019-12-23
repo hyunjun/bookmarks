@@ -922,6 +922,7 @@ Python
   * [Profiling and optimizing Python code](https://osf.io/upav8/)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
+  * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property)](https://blog.naver.com/codeitofficial/221684462326)
