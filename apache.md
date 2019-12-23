@@ -506,6 +506,8 @@ Apache
 * [Running Apache Kafka on Kubernetes](https://www.youtube.com/watch?v=Zq6UTdff45k)
 * [아파치 카프카🚀를 알아야하는 이유! 카프카의 미래? 앞으로 어떻게될까?](https://www.youtube.com/watch?v=lEOV4upTJ68)
 * [Serverless Kafka on Kubernetes | DevNation Live](https://www.youtube.com/watch?v=bL9e1xt2TuA)
+* [Apache Kafka Producer Improvements with the Sticky Partitioner](https://www.confluent.io/blog/apache-kafka-producer-improvements-sticky-partitioner/)
+* [Incremental Cooperative Rebalancing in Apache Kafka: Why Stop the World When You Can Change It?](https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
