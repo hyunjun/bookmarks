@@ -176,6 +176,7 @@ Scala
 * [Useful Scala Compiler Options Part 2: Advanced Language Features](https://www.threatstack.com/blog/useful-scala-compiler-options-part-2-advanced-language-features)
 * [Weird Case of Scala Compiler Slow Performance](https://medium.com/@Ivanobulo/weird-case-of-scala-compiler-slow-performance-70463b8c8a5a)
 * [Make Your Scala Compiler Work Harder](https://medium.com/life-at-hopper/make-your-scala-compiler-work-harder-971be53ae914)
+* `-Yexplicit-nulls` [Explicit nulls are in!](https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f?) compiler flag
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
 * [Toward a polyglot James server…](https://medium.com/linagora-engineering/toward-a-polyglot-james-server-c3f3c92655db)
@@ -265,6 +266,7 @@ Scala
 * [Easy Scala Publication](https://gist.github.com/djspiewak/2359e5d742cd0d7161cf3422e36fcaf3)
 * [Christmas Story written in Scala](https://medium.com/@wiemzin/christmas-story-written-in-scala-abd0170300b2)
 * [**Geo-GraphQL with ElasticSearch**](https://medium.com/building-rigup/geo-graphql-with-elasticsearch-b01a6bdf0dc8)
+* [Beyond Liskov: Type Safe Equality in Scala](http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -277,6 +279,7 @@ Scala
 * [Programming with Actors (part 1)](https://www.youtube.com/watch?v=W_l57iyn4mU)
 * [Programming with Actors (part 2)](https://www.youtube.com/watch?v=ilHW220JtGo)
 * [State vs Stateful Actor](https://medium.com/@krzysztof.otrebski/state-vs-stateful-actor-748486ba0271)
+* [Building a scalable reactive ingestion pipeline to ingest data in a Graph DB](https://medium.com/@dhananjay.ghanwat/building-a-scalable-reactive-ingestion-pipeline-to-ingest-data-in-a-graph-db-3b2d9bf12a35)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
@@ -527,6 +530,8 @@ Scala
     * [Implement your future with ZIO](http://scala.monster/welcome-zio/)
     * [Decouple the Program from its Implementation with ZIO modules](https://medium.com/@pascal.mengelt/decouple-the-program-from-its-implementation-with-zio-modules-d9b8713d502e)
     * [zio environment and modules pattern: zio, scala.js, react, query management](https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html)
+    * [How to dynamically inject the implementation for ZIO with MacWire](https://medium.com/@pascal.mengelt/how-to-dynamically-inject-the-implementation-for-zio-with-macwire-bb51d4827966)
+    * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
@@ -559,6 +564,7 @@ Scala
 # Conference
 * [This is why you must join Scalar 2019](https://blog.softwaremill.com/this-is-why-you-must-join-scalar-2019-69ad12248e95)
   * [Scalar 2019 whiteboard voting](https://blog.softwaremill.com/scalar-2019-whiteboard-voting-40b31e4f7f7)
+* [Functional Scala London 2019: Day 1](https://juliano-alves.com/2019/12/17/functional-scala-london-2019-day-1/)
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [scalar-conf.com](http://scalar-conf.com/)
 * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
@@ -599,6 +605,7 @@ Scala
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
+* [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
@@ -611,6 +618,8 @@ Scala
   * [Adopting Cats - Ron Aharoni](https://www.youtube.com/watch?v=4ODUEbowkBM)
   * [Scala — cats nice tricks and fun](https://medium.com/@regis.leray/scala-cats-nice-tricks-and-fun-30b5cb97fab3)
   * [Marvels of functional programming: Launching Iron man with monads - Voxxed Days Singapore 2019](https://www.youtube.com/watch?v=YDFa4MmyY8Y)
+  * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
+    * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -705,6 +714,7 @@ Scala
   * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
   * [**http4s: Pure, Typeful, Functional HTTP in Scala**](https://www.youtube.com/watch?v=hpKKDWTbdPQ)
     * [rossabaker.github.io/boston-http4s](https://rossabaker.github.io/boston-http4s)
+  * [Scala Server Toolkit – Creating HTTP Server](https://engineering.avast.io/scala-server-toolkit-creating-http-server/)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
     * [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
@@ -778,6 +788,7 @@ Scala
 * [Monadic IO: Laziness Makes You Free](http://underscore.io/blog/posts/2015/04/28/monadic-io-laziness-makes-you-free.html)
 * [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
 * [Simplicity in Composition—Adelbert Chang](https://www.youtube.com/watch?v=XV0o-hy1WUM)
+* [Leveraging Monoids for More Powerful Summarization](https://www.inner-product.com/posts/leveraging-monoids/)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # [SBT](http://www.scala-sbt.org/)
@@ -824,7 +835,7 @@ Scala
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
 
-# Scala.js
+# [Scala.js](https://www.scala-js.org/)
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
 * [Hands-on Scala.js - Writing client-side web applications in Scala](http://www.lihaoyi.com/hands-on-scala-js/)
