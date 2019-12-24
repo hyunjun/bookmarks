@@ -305,6 +305,7 @@ Functional Programming
 * [Real-World Functional Scala by Chris Birchall](https://www.youtube.com/watch?v=STPkPUPYDeg)
 * [Scala vs Java In Competitive Programming With Functional Programming](https://medium.com/@shastri.shankar9/scala-vs-java-in-competitive-programming-with-functional-programming-41c98506a935)
 * [Did Functional Programming get it wrong?](https://medium.com/@reinman/monoids-to-groupoids-492c35105113)
+* [Demystifying Functional Programming (Part 1)](https://medium.com/walmartlabs/demystifying-functional-programming-part-1-eb4347d145d0)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
