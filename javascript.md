@@ -641,6 +641,7 @@ Javascript
 * [Microtask and Macrotask: A Hands-on Approach](https://blog.bitsrc.io/microtask-and-macrotask-a-hands-on-approach-5d77050e2168)
 * [How I Refactor My Code](https://medium.com/@jochasinga/how-i-refactor-my-code-561aa9132045)
 * [자바스크립트 async / await? 나도 써보자, 기본 개념부터~](https://www.youtube.com/watch?v=JzXjB6L99N4)
+* [Async-await는 어떻게 구현하는가](https://hg-pyun.github.io/how-to-implement-async-await/)
 * [async await 정리](https://chodragon9.github.io/blog/async-await-case/)
 * 자바스크립트 예외처리
   * [3/4 - promise의 catch함수](https://www.youtube.com/watch?v=RRc_iVHdDKk)
