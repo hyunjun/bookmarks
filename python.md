@@ -1983,6 +1983,7 @@ Python
 * [advanced_jupyter_tricks](https://try.dominodatalab.com/u/joshpoduska/advanced_jupyter_tricks/overview)
   * [Advanced Jupyter Notebook Tricks — Part I](https://blog.dominodatalab.com/lesser-known-ways-of-using-notebooks/)
   * [Building Interactive Dashboards with Jupyter](https://blog.dominodatalab.com/interactive-dashboards-in-jupyter/)
+* [Creating Interactive Dashboards from Jupyter Notebooks](https://pbpython.com/interactive-dashboards.html)
 * [webia.lip6.fr/~pajot/dataviz.html](http://webia.lip6.fr/~pajot/dataviz.html) pandas, matplotlib, numpy, seaborn example
 * [Jupyter Notebook Tricks for Data Science that Enhance your efficiency](https://codeburst.io/jupyter-notebook-tricks-for-data-science-that-enhance-your-efficiency-95f98d3adee4)
 * [Inserting image into IPython notebook markdown](https://stackoverflow.com/questions/10628262/inserting-image-into-ipython-notebook-markdown)
