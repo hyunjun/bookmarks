@@ -314,6 +314,7 @@ AWS
 * [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
 * [Amazon EKS (Elastic Container Service for Kubernetes)](https://ddii.dev/kubernetes/eksworkshop/)
 * [Amazon EKS 워크샵](https://awskrug.github.io/eks-workshop/)
+* [AWS EKS에 ALB-Ingress-Controller 한큐에 세팅하는 스크립트](https://www.notion.so/AWS-EKS-ALB-Ingress-Controller-544fb36ec6594be5b8ffd64cdc53789c)
 * [내게 알맞는 AWS 컴퓨팅 서비스 찾기](https://medium.com/harrythegreat/%EB%82%B4%EA%B2%8C-%EC%95%8C%EB%A7%9E%EB%8A%94-aws-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B0%BE%EA%B8%B0-bfd2c409273c)
 * [AWS 전체서비스 Overview — 1](https://medium.com/harrythegreat/aws-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-overview-1-4cc3ffdd6b59)
 * [AWS의 ARN 이해하기](https://medium.com/harrythegreat/aws%EC%9D%98-arn-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-8c20d0ccbbfd)
