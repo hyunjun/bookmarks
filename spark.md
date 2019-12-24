@@ -361,6 +361,9 @@
   * [Multi Source Data Analysis using Spark and Tellius](https://www.slideshare.net/datamantra/multi-source-data-analysis-using-spark-and-tellius)
 * [Spark 성능 최적화 및 튜닝 방법 - Part 1](https://nephtyws.github.io/data/spark-optimization-part-1/)
 * [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
+* [ClickHouse Clustering for Spark Developer](http://blog.madhukaraphatak.com/clickouse-clustering-spark-developer/)
+* [Data Modeling in Apache Spark - Part 1 : Date Dimension](http://blog.madhukaraphatak.com/data-modeling-spark-part-1/)
+* [Data Modeling in Apache Spark - Part 2 : Working With Multiple Dates](http://blog.madhukaraphatak.com/data-modeling-spark-part-2/)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -831,6 +834,7 @@
 * [Windowing Functions in Spark SQL Part 4 | Row_Number, Rank and Dense_Rank in SQL](https://www.youtube.com/watch?v=hoOwDUrodhM)
 * [Simplifying Change Data Capture with Databricks Delta](https://databricks.com/blog/2018/10/29/simplifying-change-data-capture-with-databricks-delta.html)
 * [Spark DataFrameWriter에서 saveAsTable 의 동작](https://charsyam.wordpress.com/2019/04/23/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-dataframewriter%EC%97%90%EC%84%9C-saveastable-%EC%9D%98-%EB%8F%99%EC%9E%91/)
+* [Dynamic Shuffle Partitions in Spark SQL](http://blog.madhukaraphatak.com/dynamic-spark-shuffle-partitions/)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
