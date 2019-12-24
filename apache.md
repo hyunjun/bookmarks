@@ -511,6 +511,8 @@ Apache
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
+* [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
+  * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
@@ -574,6 +576,7 @@ Apache
   * [아파치 카프카 테스트용 data generator 소개 - ksql-datagen](https://blog.voidmainvoid.net/269)
   * [KSQL - 효과적이고 간단한 스트리밍 프로세스 SQL엔진](https://www.slideshare.net/WonyoungChoi2/ksql-sql-182725060)
   * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
+* [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
