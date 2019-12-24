@@ -3006,6 +3006,7 @@ Python
 * [A Visual Intro to NumPy and Data Representation](https://jalammar.github.io/visual-numpy/)
 * [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
 * [Numpy: What Has Changed and What Is Going To Change?](https://www.youtube.com/watch?v=tjEdQyZH6lA)
+* [Data Engineering with Python](https://www.youtube.com/watch?v=R2Kr2ELpwQI) Numpy & Pandas
 
 # [Pandas](http://pandas.pydata.org/)
 * practice
