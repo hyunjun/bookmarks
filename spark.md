@@ -298,6 +298,7 @@
 * [Goal Based Data Production: The Spark of a Revolution - Sim Simeonov](https://www.youtube.com/watch?v=VR2lAMVD4_4)
 * [Spark Job On Mesos - Log Handling](http://hoondongkim.blogspot.com/2016/02/spark-job-on-mesos-log-handling.html) programtic하게 log level별로 원하는 장소에 로그 남기기
 * [How to log in Apache Spark](https://hackernoon.com/how-to-log-in-apache-spark-f4204fad78a) log4j
+* [Spark: Web Server Logs Analysis with Scala](https://medium.com/analytics-vidhya/spark-web-server-logs-analysis-with-scala-74e0ece40a4e)
 * [Top 5 Mistakes to Avoid When Writing Apache Spark Applications](https://intellipaat.com/blog/top-5-mistakes-writing-apache-spark-applications/)
 * [Extreme Apache Spark: how in 3 months we created a pipeline that can process 2.5 billion rows a day](https://www.slideshare.net/jozefhabdank/extreme-apache-spark-how-in-3-months-we-created-a-pipeline-that-can-process-25-billion-rows-a-day)
 * [Locality Sensitive Hashing By Spark](https://www.slideshare.net/SparkSummit/locality-sensitive-hashing-by-spark)
