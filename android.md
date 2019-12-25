@@ -8,8 +8,6 @@ Android
 * [Learning android development](https://android.jlelse.eu/learning-android-development-e2d4d239a7a3)
 * [Maps on Android](https://engblog.nextdoor.com/2015/06/25/maps-on-android/)
 * [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
-* [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
-* [ADB(Android Debug Bridge)를 맥 OS에서 사용하는 방법](https://developer88.tistory.com/174)
 * [Reverse Engineering the Subway Android App](http://randywestergren.com/reverse-engineering-the-subway-android-app/)
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
 * [Mining usage patterns for the Android API](https://peerj.com/articles/cs-12/)
@@ -64,6 +62,7 @@ Android
 * [**Android 에서 MVVM 으로 긴 여정을…**](https://medium.com/@jsuch2362/android-%EC%97%90%EC%84%9C-mvvm-%EC%9C%BC%EB%A1%9C-%EA%B8%B4-%EC%97%AC%EC%A0%95%EC%9D%84-82494151f312)
 * [Android MVVM : Lifecycle 감지하기](https://medium.com/@jsuch2362/android-mvvm-lifecycle-%EA%B0%90%EC%A7%80%ED%95%98%EA%B8%B0-204c4309436)
 * [AAC를 활용한 MVVM 패턴](https://medium.com/@joongwon/android-aac%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-mvvm-%ED%8C%A8%ED%84%B4-e24a685fc25d)
+* [MVVM에 대해서 알아보겠습니다](https://developer88.tistory.com/205)
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 * [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
@@ -167,6 +166,11 @@ Android
 * [2019 Google IO - What's New Android 살펴보기](https://thdev.tech/google%20io/2019/05/15/Google-IO-2019-Whats-New-Android/)
 * [I/O에서 발표된 Android의 현재를 정리해보았습니다](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
 * [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
+
+# Debugging
+* [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
+* [ADB(Android Debug Bridge)를 맥 OS에서 사용하는 방법](https://developer88.tistory.com/174)
+* [Android 디버깅 Tip에 대해서 정리해보겠습니다](https://developer88.tistory.com/228)
 
 # Library
 * [초보 안드로이드 개발자가 꼭 알아야할 필수 라이브러리들](https://realm.io/kr/news/360andev-chris-guzman-android-libraries-beginner/)
@@ -275,4 +279,5 @@ Android
 * [Better Android Testing at Airbnb — Part 2: Screenshot Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a77ac9531cab)
 * [Better Android Testing at Airbnb — Part 3: Interaction Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-1d1e91e489b4)
 * [Better Android Testing at Airbnb — Part 4: Testing ViewModels](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-part-4-testing-viewmodels-550d929126c8)
+* [Better Android Testing at Airbnb — Part 5: Test Architecture](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-661a554a8c8b)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
