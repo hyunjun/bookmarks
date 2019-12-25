@@ -845,6 +845,8 @@ Python
   * [Functional Programming in Python: Parallel Processing with "concurrent.futures"](https://www.youtube.com/watch?v=0NNV8FDuck8)
   * [Amber Brown Implementing Concurrency and Parallelism From The Ground Up PyCon 2017](https://www.youtube.com/watch?v=31fXwpb0P9c)
   * [Multiprocessing with Python](https://www.youtube.com/watch?v=s1SkCYMnfbY)
+  * [A Hands on Guide to Multiprocessing in Python](https://towardsdatascience.com/a-hands-on-guide-to-multiprocessing-in-python-48b59bfcc89e)
+  * [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
   * [Using Multiple Cores In Python](https://www.youtube.com/watch?v=ZWRuOkH0qkY)
   * [multi threading or multi processing for fetching url](https://github.com/dsindex/blog/wiki/%5Bpython%5D-multi-threading-or-multi-processing-for-fetching-url)
   * [Get a 2–6x speed-up on your pre-processing with these 3 lines of code!](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) concurrent.futures
