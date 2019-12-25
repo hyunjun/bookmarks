@@ -800,6 +800,7 @@ Programming
 * [6 reasons why pre is better than post production code review](https://about.gitlab.com/2015/08/05/6-reasons-why-pre-is-better-than-post-production-code-review/)
 * [매끄러운 ‘코드 리뷰’를 돕는 10가지 방법](http://www.bloter.net/archives/238819)
 * [코드리뷰, Github로 바로 적용하기](https://realm.io/kr/news/codereview-howto/)
+* [코드리뷰, GitHub로 바로 적용하기](https://earlybird.kr/2377)
 * [코드 리뷰, 5가지만 기억하자](http://silentsoft.tistory.com/20)
 * [카카오스토리 웹팀의 코드리뷰 경험](http://www.slideshare.net/OhgyunAhn/ss-61189141)
 * [코드 리뷰 가이드](http://haruair.com/blog/3116)
@@ -1417,6 +1418,7 @@ Programming
   * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/11/b-11-4.html)
   * [12월 1주 소식(빅데이터/인공지능, 암호화폐/블록체인, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/12/b-12-1.html)
   * [12월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/12/b-12-2.html)
+  * [12월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/12/b-12-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1667,6 +1669,7 @@ Programming
 * [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
+* [How to Add New Features to Your App in Production and Not Ruin Anything](https://medium.com/quick-code/how-to-add-new-features-to-your-app-in-production-and-not-ruin-anything-da2c6dfb6fc2)
 
 # TDD, Test
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
