@@ -238,7 +238,6 @@ Scala
 * [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
 * [Machine Learning with Scala in Google Colaboratory](https://medium.com/@shadaj/machine-learning-with-scala-in-google-colaboratory-e6f1661f1c88)
 * [**Parallel computing in Python and Scala**](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)
-* [In Search of the Holy GraalVM, putting the R in Scala (or Java, or…)](https://medium.com/codestar-blog/in-search-of-the-holy-graalvm-putting-the-r-in-scala-or-java-or-b057494f77)
 * [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
 * [Dummmy — Test](https://medium.com/@jayvardhan.reddy.v/dummmy-test-27923b031fb7)
 * From Monolith to Microservice Architecture on Kubernetes
@@ -247,6 +246,7 @@ Scala
   * [part 3— Deploying our Scala app as a microservice](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-3-deploying-our-scala-app-as-a-d4d799e01ab6)
   * [part 4— Monitoring, health checks, logging & tracing](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-4-monitoring-health-checks-32c441741ca6)
   * [part 5— Deployment Automation & Continuous Delivery](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-5-deployment-automation-a7d8529d813)
+* [Service architecture in Scala](https://leobenkel.com/2019/11/service-architecture-in-scala/)
 * [Spark, Torrents, and Technical Debt](https://medium.com/@john.montroy/spark-torrents-and-technical-debt-9b5cdb23296c)
 * [스칼라 인터프리터의 스크립트](https://medium.com/@ysmintor/scala-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95-7d137d350ffe)
 * [Notes about Avro Schema Evolution using Binary Encoding](https://medium.com/@ashwanth.kumar/notes-about-avro-schema-evolution-using-binary-encoding-974c7a3429a2)
@@ -406,6 +406,7 @@ Scala
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 3](https://medium.com/@suchakjani/akka-steam-graphs-dynamic-parallel-streams-example-3-6215d14c0a16)
 * [Akka references serialization with Protobufs (up to Akka 2.5)](https://blog.softwaremill.com/akka-references-serialization-with-protobufs-up-to-akka-2-5-87890c4b6cb0)
+* [Tour of Akka Typed: Cluster Sharding](https://manuel.bernhardt.io/2019/11/09/tour-of-akka-typed-cluster-sharding/)
 * [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
 
 # API
@@ -453,6 +454,7 @@ Scala
   * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
   * [Futures Made Easy with Scala](https://medium.freecodecamp.org/futures-made-easy-with-scala-da1beb3bb281)
   * [Unsucking Error Handling with Futures](https://www.slideshare.net/GaryCoady/unsucking-error-handling-with-futures)
+  * [The Future.await(s) for no one](https://medium.com/@idankoch_32247/the-future-await-s-for-no-one-652ed333f752)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
@@ -629,6 +631,7 @@ Scala
   * [Scala — cats nice tricks and fun](https://medium.com/@regis.leray/scala-cats-nice-tricks-and-fun-30b5cb97fab3)
   * [Marvels of functional programming: Launching Iron man with monads - Voxxed Days Singapore 2019](https://www.youtube.com/watch?v=YDFa4MmyY8Y)
   * [Optional Actions](https://www.inner-product.com/posts/optional-actions/)
+  * [Functors — From Category Theory into Cats](https://blog.softwaremill.com/functors-from-category-theory-into-cats-6aa1bdb641f2)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
