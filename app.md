@@ -49,6 +49,7 @@ App
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
+* Figma [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
 * [Fort - a Free Software password manager http://www.ideabyte.net/fort ](https://github.com/nrosvall/fort)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
@@ -579,8 +580,6 @@ App
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
-* macvim
-  * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) 워크스페이스 정리
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
@@ -616,6 +615,9 @@ App
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
+* Vim
+  * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
+  * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
