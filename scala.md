@@ -267,6 +267,7 @@ Scala
 * [Christmas Story written in Scala](https://medium.com/@wiemzin/christmas-story-written-in-scala-abd0170300b2)
 * [**Geo-GraphQL with ElasticSearch**](https://medium.com/building-rigup/geo-graphql-with-elasticsearch-b01a6bdf0dc8)
 * [Beyond Liskov: Type Safe Equality in Scala](http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html)
+* [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -470,6 +471,8 @@ Scala
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
+* java.util.regex.Pattern
+  * [Regexp Replacement via Function in Java/Scala](https://alexn.org/blog/2019/11/22/howto-regexp-replacement-via-function-java-scala.html)
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
@@ -532,6 +535,11 @@ Scala
     * [zio environment and modules pattern: zio, scala.js, react, query management](https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html)
     * [How to dynamically inject the implementation for ZIO with MacWire](https://medium.com/@pascal.mengelt/how-to-dynamically-inject-the-implementation-for-zio-with-macwire-bb51d4827966)
     * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
+    * [HOW TO WRITE A COMMAND-LINE APPLICATION WITH ZIO](https://scalac.io/write-command-line-application-with-zio/)
+    * [What can ZIO do for me? A Long Polling example with sttp](https://medium.com/@pascal.mengelt/what-can-zio-do-for-me-32281e4e8b16)
+    * [Build Yourself an Effect System by Simon Schenk on Scala Hamburg Meetup](https://www.youtube.com/watch?v=vRnYCLy7C0o)
+    * [ZIO Config - A functional, composable ZIO interface to configuration](https://zio.github.io/zio-config/)
+    * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
@@ -557,6 +565,7 @@ Scala
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 * [Creative Scala](https://www.creativescala.org/)
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
+  * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [underscore.io ebook](http://underscore.io/books/)
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
@@ -586,6 +595,7 @@ Scala
 * [Scala UA](https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg/videos)
 
 # IntelliJ
+* [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
   * [이름점 - Scala Code 수정](https://jsideas.net/name_chemistry_refactoring/)
 
@@ -618,8 +628,11 @@ Scala
   * [Adopting Cats - Ron Aharoni](https://www.youtube.com/watch?v=4ODUEbowkBM)
   * [Scala — cats nice tricks and fun](https://medium.com/@regis.leray/scala-cats-nice-tricks-and-fun-30b5cb97fab3)
   * [Marvels of functional programming: Launching Iron man with monads - Voxxed Days Singapore 2019](https://www.youtube.com/watch?v=YDFa4MmyY8Y)
+  * [Optional Actions](https://www.inner-product.com/posts/optional-actions/)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
+* [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
+  * [Migrate a service getting 200KQPS from Jackson to Circe](https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -652,6 +665,10 @@ Scala
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
 * [Polynote, The Next Jupyter?](https://medium.com/@harrison.miller13_28580/polynote-the-next-jupyter-f7e9903fdc12)
+* [prox - A Scala library for working with system processes](https://github.com/vigoo/prox)
+  * [prox part 1 — type level programming in Scala](https://engineering.prezi.com/prox-part-1-type-level-programming-in-scala-47d4b5c32df9)
+  * [prox part 2 — akka streams with cats effect](https://engineering.prezi.com/prox-part-2-akka-streams-with-cats-effect-f63c28199cad)
+  * [prox part 3 — effect abstraction and ZIO](https://engineering.prezi.com/prox-part-3-effect-abstraction-and-zio-2a2a12f8f9c8)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
@@ -714,7 +731,8 @@ Scala
   * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
   * [**http4s: Pure, Typeful, Functional HTTP in Scala**](https://www.youtube.com/watch?v=hpKKDWTbdPQ)
     * [rossabaker.github.io/boston-http4s](https://rossabaker.github.io/boston-http4s)
-  * [Scala Server Toolkit – Creating HTTP Server](https://engineering.avast.io/scala-server-toolkit-creating-http-server/)
+  * [scala-server-toolkit - Functional programming toolkit for building server applications in Scala](https://github.com/avast/scala-server-toolkit)
+    * [Scala Server Toolkit – Creating HTTP Server](https://engineering.avast.io/scala-server-toolkit-creating-http-server/)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
     * [Error handling in Http4s with classy optics – Part 2](https://typelevel.org/blog/2018/11/28/http4s-error-handling-mtl-2.html)
@@ -789,6 +807,7 @@ Scala
 * [Monoidal Parsing—Edward Kmett](https://www.youtube.com/watch?v=Txf7swrcLYs)
 * [Simplicity in Composition—Adelbert Chang](https://www.youtube.com/watch?v=XV0o-hy1WUM)
 * [Leveraging Monoids for More Powerful Summarization](https://www.inner-product.com/posts/leveraging-monoids/)
+* [Monoid in the Category of Endofunctors](https://blog.softwaremill.com/monoid-in-the-category-of-endofunctors-b85bab43587b)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # [SBT](http://www.scala-sbt.org/)
@@ -816,6 +835,7 @@ Scala
 * [The basics of the build.sbt](https://medium.com/@pwdd/the-basics-of-the-build-sbt-bbf81a0aa8d0)
 * [Scala sbt Project Directory Walkthrough](https://medium.com/@wangyunlongau/scala-sbt-project-directory-structure-c254bb08623e)
 * [Switching sbt Sub-projects easily with sbt-project-switcher](https://blog.kevinlee.io/2019/09/30/switching-sbt-subprojects-easily-with-sbt-project-switcher/)
+* [How I set up all my #SBT projects](https://www.youtube.com/watch?v=nD-p-cEKjHE)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   
@@ -853,6 +873,7 @@ Scala
 * [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
 * [Property-based Testing](https://medium.com/payulatam-engineering/property-based-testing-7cb149f1bffb)
 * [TMWL November’19 — ScalaTest, Medusa, PW-Sat2 cubesat](https://blog.softwaremill.com/tmwl-november19-scalatest-medusa-pw-sat2-cubesat-85ab140244b5)
+* [Write your own micro BDD test framework in one day](https://blog.softwaremill.com/write-your-own-micro-bdd-test-framework-in-one-day-e8f0c21c8093)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
   * [hedgehog.qa](https://hedgehog.qa/)
   * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
@@ -872,6 +893,7 @@ Scala
   * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
   * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
   * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
+* [Stryker - Test your tests with mutation testing](https://stryker-mutator.io/)
 
 # Type
 * [typelevel.org/blog](https://typelevel.org/blog/)
@@ -909,6 +931,7 @@ Scala
 * [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
 * [Intersection Type in Scala?](https://medium.com/@Methrat0n/intersection-type-in-scala-5320dedf5cf)
 * [Scala Snippets #2: Dependent Types in Scala — A practical example](https://medium.com/@manish.katoch/scala-snippets-2-dependent-types-in-scala-a-practical-example-4c41427e531e)
+* [Scala Type Classes comparison](https://medium.com/se-notes-by-alexey-novakov/scala-type-classes-comparison-28b76ce1f37a)
 * [DOT: Scala Types from Theory to Practice—Nada Amin](https://www.youtube.com/watch?v=fjj_fv346lY)
 * [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
