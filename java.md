@@ -328,6 +328,7 @@ Java
 * [IntelliJ 2019.2 에서 Gradle로 run과 test가 실행될때](https://jojoldu.tistory.com/450)
 * [IntelliJ 실행시 최근 종료한 프로젝트 바로 실행되지 않게 하기](https://jojoldu.tistory.com/459)
 * [Intellij output 한글 깨지는 문제](https://freehoon.tistory.com/146)
+* [웹 JS 애플리케이션 개발시 IntelliJ 디버거 사용하기](https://jojoldu.tistory.com/468)
 * [인텔리제이에 파이썬 인터프리터 설정하기](https://jojoldu.tistory.com/465)
 
 # Java8
