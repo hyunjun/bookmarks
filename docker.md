@@ -385,6 +385,7 @@ Docker
 * [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
 * [클라우드 파운드리의 진화](https://slownews.kr/74385)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)
+* [만들면서 이해하는 도커(Docker) 이미지의 구조 - 도커 이미지 빌드 원리와 Overlayfs](https://www.44bits.io/ko/post/how-docker-image-work)
 * [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
 
 # BoxFuse
