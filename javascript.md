@@ -1197,6 +1197,7 @@ Javascript
 * [Styled-tools로 좀더 편리하게 Styled-components 사용하기](https://john015.github.io/styled-tools%EB%A1%9C-%EC%A2%80%EB%8D%94-%ED%8E%B8%EB%A6%AC%ED%95%98%EA%B2%8C-styled-components-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [Substance - A JavaScript library for web-based content editing](http://substance.io/)
 * [Surge.sh 로 무료로 정적 웹 어플리케이션 배포하기](https://hudi.kr/surge-sh-%EB%A1%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
+* [Svelte - Cybernetically enhanced web apps](https://svelte.dev/)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
