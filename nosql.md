@@ -226,6 +226,7 @@ NoSQL
   * [Firebase + Algolia Searching](https://itnext.io/firebase-algolia-6c58fba930b7)
   * [Firebase Cloud Messaging(FCM)에 대해서 알아보자](https://developer88.tistory.com/159)
   * [Patterns for security with Firebase: offload client work to Cloud Functions](https://medium.com/firebase-developers/patterns-for-security-with-firebase-offload-client-work-to-cloud-functions-7c420710f07)
+  * [Mocking a server with Firebase](https://proandroiddev.com/mocking-a-server-with-firebase-3b4376ce3596)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
@@ -359,6 +360,7 @@ NoSQL
 * [학습 경로: Realm 이해하기](https://academy.realm.io/kr/posts/learning-path-understanding-realm/)
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://academy.realm.io/kr/posts/best-practices-pain-points-mobile-networking-rest-api-failures/)
 * [**데이터베이스를 설계하며 배운것들:Realm 스레드 깊게 들여보기**](https://academy.realm.io/kr/posts/threading-deep-dive/)
+* [Realm을 위한 Kotlin](https://developer88.tistory.com/207)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
