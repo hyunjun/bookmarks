@@ -70,6 +70,8 @@ Python
   * [Why is Python so slow?](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
   * [번역 파이썬 GIL은 사라질까?](https://velog.io/@novemberoscar/%ED%8C%8C%EC%9D%B4%EC%8D%AC-GIL%EC%9D%80-%EC%82%AC%EB%9D%BC%EC%A7%88%EA%B9%8C)
   * [번역 파이썬 GIL은 사라질까?](https://seonghyeon.dev/has-the-python-gil-been-slain/)
+  * [python의 GIL과 threading](https://blog.hanaoto.me/gil-and-threading-in-python/)
+  * [왜 Python에는 GIL이 있는가](https://dgkim5360.tistory.com/entry/understanding-the-global-interpreter-lock-of-cpython)
 * [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
