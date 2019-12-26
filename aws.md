@@ -235,6 +235,7 @@ AWS
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
 * [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
+* [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
 * [Kafka in AWS with SSL Offloading using Load Balancer](https://medium.com/code-tech/kafka-in-aws-with-ssl-offloading-using-load-balancer-c337da1435c3)
 * [AWS EC2(Amazon Linux)에 Java8 설치하기](http://jojoldu.tistory.com/261)
 * [**당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들**](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
