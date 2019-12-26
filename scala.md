@@ -177,6 +177,7 @@ Scala
 * [Weird Case of Scala Compiler Slow Performance](https://medium.com/@Ivanobulo/weird-case-of-scala-compiler-slow-performance-70463b8c8a5a)
 * [Make Your Scala Compiler Work Harder](https://medium.com/life-at-hopper/make-your-scala-compiler-work-harder-971be53ae914)
 * `-Yexplicit-nulls` [Explicit nulls are in!](https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f?) compiler flag
+* [How an Optimizing Compiler Works](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
 * [Toward a polyglot James server…](https://medium.com/linagora-engineering/toward-a-polyglot-james-server-c3f3c92655db)
@@ -268,6 +269,9 @@ Scala
 * [**Geo-GraphQL with ElasticSearch**](https://medium.com/building-rigup/geo-graphql-with-elasticsearch-b01a6bdf0dc8)
 * [Beyond Liskov: Type Safe Equality in Scala](http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
+* [A real life example of isomorphisms in Scala: POST request](https://medium.com/@supermanue/a-real-life-example-of-isomorphisms-in-scala-post-request-7a8252284d0d)
+* [How to structure your Scala application?](https://blog.softwaremill.com/how-to-structure-your-scala-application-658168fbb827)
+* [Why I like Scala](https://medium.com/@ryanberckmans/why-i-like-scala-45e65cde3365)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -308,6 +312,7 @@ Scala
   * [Introduction to Akka Streams](https://medium.com/@arcagarwal/introduction-to-akka-streams-5155bd070e37)
   * [Akka Streams: error handling in event processing pipelines](https://medium.com/@bszwej/akka-streams-error-handling-7ff9cc01bc12)
   * [Using Akka Streams with standard input and standard output](https://medium.com/@ewan.keith100/using-akka-streams-with-standard-input-and-standard-output-38868a2020bd)
+  * [A fully reactive ad serving platform using Scala & Akka-Streams](https://code.tubitv.com/a-fully-reactive-ad-serving-platform-using-scala-akka-streams-13299e7ea04e)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 * [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
@@ -541,6 +546,8 @@ Scala
     * [What can ZIO do for me? A Long Polling example with sttp](https://medium.com/@pascal.mengelt/what-can-zio-do-for-me-32281e4e8b16)
     * [Build Yourself an Effect System by Simon Schenk on Scala Hamburg Meetup](https://www.youtube.com/watch?v=vRnYCLy7C0o)
     * [ZIO Config - A functional, composable ZIO interface to configuration](https://zio.github.io/zio-config/)
+    * [Speeding up time with Zio TestClock](https://timpigden.github.io/_pages/zio-streams/SpeedingUpTime.html)
+    * [Simulating IoT Events - with Zio Streams](https://timpigden.github.io/_pages/zio-streams/GeneratingChillEvents.html)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * String
   * String to Json
@@ -576,6 +583,7 @@ Scala
 * [This is why you must join Scalar 2019](https://blog.softwaremill.com/this-is-why-you-must-join-scalar-2019-69ad12248e95)
   * [Scalar 2019 whiteboard voting](https://blog.softwaremill.com/scalar-2019-whiteboard-voting-40b31e4f7f7)
 * [Functional Scala London 2019: Day 1](https://juliano-alves.com/2019/12/17/functional-scala-london-2019-day-1/)
+* [Lambda World 2019](https://www.dev-log.me/Lambda_World_2019/)
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [scalar-conf.com](http://scalar-conf.com/)
 * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
@@ -595,6 +603,7 @@ Scala
   * [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
   * [Thinking Less with Scala - Daniel Sivan](https://www.youtube.com/watch?v=k6QRI1a-xNU) basic, implicit, cats.Monoid
 * [Scala UA](https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg/videos)
+* [TMWL October’19 — Scala Steward, DB index and a React hack](https://blog.softwaremill.com/tmwl-october19-scala-steward-tables-in-db-index-and-a-react-hack-ec51e56aa581)
 
 # IntelliJ
 * [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
@@ -632,10 +641,12 @@ Scala
   * [Marvels of functional programming: Launching Iron man with monads - Voxxed Days Singapore 2019](https://www.youtube.com/watch?v=YDFa4MmyY8Y)
   * [Optional Actions](https://www.inner-product.com/posts/optional-actions/)
   * [Functors — From Category Theory into Cats](https://blog.softwaremill.com/functors-from-category-theory-into-cats-6aa1bdb641f2)
+  * [Kleisli Category — From theory to Cats](https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
   * [Migrate a service getting 200KQPS from Jackson to Circe](https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206)
+  * [Permutive Community Engineering, October 2019](https://medium.com/permutive/permutive-community-engineering-october-2019-51de37bc7791)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -668,6 +679,7 @@ Scala
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
 * [Polynote, The Next Jupyter?](https://medium.com/@harrison.miller13_28580/polynote-the-next-jupyter-f7e9903fdc12)
+  * [Working with HTTP in Polynote](https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f)
 * [prox - A Scala library for working with system processes](https://github.com/vigoo/prox)
   * [prox part 1 — type level programming in Scala](https://engineering.prezi.com/prox-part-1-type-level-programming-in-scala-47d4b5c32df9)
   * [prox part 2 — akka streams with cats effect](https://engineering.prezi.com/prox-part-2-akka-streams-with-cats-effect-f63c28199cad)
@@ -721,6 +733,7 @@ Scala
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
+* [sttp — an open-source library with simple, type-safe API for defining HTTP requests](https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762)
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
 
@@ -875,6 +888,7 @@ Scala
 * [Scala: Debugging and Unit Testing](https://medium.com/@alessandroheres/scala-debugging-and-unit-testing-3d357e71ccc) intelliJ
 * [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
 * [Property-based Testing](https://medium.com/payulatam-engineering/property-based-testing-7cb149f1bffb)
+* [Property testing of Isomorphisms: way easier than it sounds!](https://medium.com/@supermanue/property-testing-of-isomorphisms-way-easier-than-it-sounds-a646791b9c5f)
 * [TMWL November’19 — ScalaTest, Medusa, PW-Sat2 cubesat](https://blog.softwaremill.com/tmwl-november19-scalatest-medusa-pw-sat2-cubesat-85ab140244b5)
 * [Write your own micro BDD test framework in one day](https://blog.softwaremill.com/write-your-own-micro-bdd-test-framework-in-one-day-e8f0c21c8093)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
@@ -927,6 +941,7 @@ Scala
   * [doobie - a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
     * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
     * [Typechecking SQL queries with doobie](https://blog.godatadriven.com/doobie-monix-jdbc-example)
+    * [Presto with Doobie](https://medium.com/scout24-engineering/presto-with-doobie-640da3147db4)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
