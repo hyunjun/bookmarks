@@ -171,6 +171,7 @@ Haskell
 * [What does the flip function do in Haskell?](https://www.quora.com/What-does-the-flip-function-do-in-Haskell)
 * [zip.hs](https://gist.github.com/nattybear/be2ec4a55b94a2504ca813727ffb5a5b)
   * [zip.py](https://gist.github.com/nattybear/df6d7dfdacb588c271857a6219f9c914)
+* [Functional Programming And Formal Software Verification For Non Industry Applications - Or - Why you should learn Haskell and Coq](https://medium.com/@fabian.schneider/functional-programming-and-formal-software-verification-for-non-industry-applications-fefa24371856)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
