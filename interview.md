@@ -166,6 +166,8 @@ Interview
 * [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/) 일반적인 준비
 * [클라우드알못에서 AWS 이직까지](https://reoim.tistory.com/63)
 * [핀란드 회사 면접 후기](https://www.notion.so/5ba586908f464cb4abb6d9ebd9986211)
+* [레퍼런스 체크 효과적으로 준비하는 방법](https://www.upfly.me/2019/08/29/reference-check-prep/)
+* [해외 기업과 면접과 보기 전에 반드시 알아야할 것](https://www.upfly.me/2019/09/19/what-to-know-before-interview/)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
