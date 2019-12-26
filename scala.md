@@ -178,6 +178,7 @@ Scala
 * [Make Your Scala Compiler Work Harder](https://medium.com/life-at-hopper/make-your-scala-compiler-work-harder-971be53ae914)
 * `-Yexplicit-nulls` [Explicit nulls are in!](https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f?) compiler flag
 * [How an Optimizing Compiler Works](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
+* [Top 5 things that slow down your Scala build](https://www.triplequote.com/blog/2019-10-24-5-things-slow-down-build/)
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
 * [Toward a polyglot James server…](https://medium.com/linagora-engineering/toward-a-polyglot-james-server-c3f3c92655db)
@@ -413,6 +414,7 @@ Scala
 * [Akka references serialization with Protobufs (up to Akka 2.5)](https://blog.softwaremill.com/akka-references-serialization-with-protobufs-up-to-akka-2-5-87890c4b6cb0)
 * [Tour of Akka Typed: Cluster Sharding](https://manuel.bernhardt.io/2019/11/09/tour-of-akka-typed-cluster-sharding/)
 * [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
+* [One step closer: exploiting locality in Akka Cluster based systems](https://manuel.bernhardt.io/2019/10/28/one-step-closer-exploiting-locality-in-akka-cluster-based-systems/)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -430,6 +432,7 @@ Scala
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
 * [Don't Use Await.result!](https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html)
+* [Bird Operator in Scala – Pretty method chain](https://leobenkel.com/2019/11/bird-operator-in-scala/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -548,6 +551,13 @@ Scala
     * [ZIO Config - A functional, composable ZIO interface to configuration](https://zio.github.io/zio-config/)
     * [Speeding up time with Zio TestClock](https://timpigden.github.io/_pages/zio-streams/SpeedingUpTime.html)
     * [Simulating IoT Events - with Zio Streams](https://timpigden.github.io/_pages/zio-streams/GeneratingChillEvents.html)
+    * [ZIO, Http4s, Auth, Codecs and zio-test](https://timpigden.github.io/_pages/zio-http4s/intro.html)
+      * [Part 1 - Hello! A simple server](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part1.html)
+      * [Testing with Http4s Client and ZIO](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part2.html)
+      * [Hello2](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part3.html)
+      * [ZIO - Http4s Part4 - Custom Codecs](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part4.html)
+    * [Functional dependency injection in Scala using ZIO environments](https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-zio-environments/)
+    * [A simple integration test using Scala and ZIO](https://blog.jdriven.com/2019/10/a-simple-integration-test-using-scala-and-zio/)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * String
   * String to Json
@@ -663,6 +673,7 @@ Scala
   * [Intro to FS2 - Part 3: Concurrency](https://www.youtube.com/watch?v=8YxcB6PIUDg)
   * [A streaming library with a superpower: FS2 and functional programming](https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a)
   * [Where is the llama for FS2?](https://blog.softwaremill.com/where-is-the-llama-for-fs2-34a76f0c1e7e)
+  * [Scala application lifecycle, from pure Scala to FS2](https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * IxiaS [開発者はCTO衣笠。プロダクト共通のScalaのコア技術「IxiaS」をOSS化！](https://medium.com/nextbeat-engineering/%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AFcto%E8%A1%A3%E7%AC%A0-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E5%85%B1%E9%80%9A%E3%81%AEscala%E3%81%AE%E3%82%B3%E3%82%A2%E6%8A%80%E8%A1%93-ixias-%E3%82%92oss%E5%8C%96-3eb5c4ed66bf)
@@ -680,6 +691,8 @@ Scala
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
 * [Polynote, The Next Jupyter?](https://medium.com/@harrison.miller13_28580/polynote-the-next-jupyter-f7e9903fdc12)
   * [Working with HTTP in Polynote](https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f)
+  * [Did Netflix just kill Databricks with releasing Polynote for free?](https://medium.com/@brianray_7981/did-netflix-just-kill-databricks-with-releasing-polynote-for-free-c2d1f6dc0da3)
+  * [Firsthand Experience with Polynote — A Better Notebook for Data Engineers](https://towardsdatascience.com/trying-polynote-from-netflix-a-better-notebook-for-data-engineers-5107277ff2e5)
 * [prox - A Scala library for working with system processes](https://github.com/vigoo/prox)
   * [prox part 1 — type level programming in Scala](https://engineering.prezi.com/prox-part-1-type-level-programming-in-scala-47d4b5c32df9)
   * [prox part 2 — akka streams with cats effect](https://engineering.prezi.com/prox-part-2-akka-streams-with-cats-effect-f63c28199cad)
@@ -692,6 +705,7 @@ Scala
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
   * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
+  * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * scalafmt [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
@@ -952,6 +966,8 @@ Scala
 * [Scala Type Classes comparison](https://medium.com/se-notes-by-alexey-novakov/scala-type-classes-comparison-28b76ce1f37a)
 * [DOT: Scala Types from Theory to Practice—Nada Amin](https://www.youtube.com/watch?v=fjj_fv346lY)
 * [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
+* [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
+  * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
   * [Reduce the domain of your types with Refined](https://medium.com/@Methrat0n/reduce-the-domain-of-your-types-with-refined-63e8e2840b15)
   * [Wtf is Refined ?](https://medium.com/@Methrat0n/wtf-is-refined-5008eb233194)
