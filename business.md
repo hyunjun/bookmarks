@@ -482,6 +482,8 @@ Business
 * [Glimpse 2019.10 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2175)
 * [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 * [스타트업이 문제를 마주할 때, 가장 먼저 해야 할 질문](https://ppss.kr/archives/204662) Netflix의 The Canada Principle
+* [온라인 창업 아이디어 고르는 방법](https://www.upfly.me/2019/08/01/how-to-find-business-idea/)
+* [내 사업이 망한 진짜 이유](https://www.upfly.me/2019/09/05/startup-failure-example-analysis/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
