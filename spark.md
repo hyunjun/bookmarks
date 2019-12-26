@@ -595,6 +595,8 @@
   * [infinispan-spark](https://github.com/infinispan/infinispan-spark)
   * [infinispan-spark-connector-examples](https://github.com/tedwon/infinispan-spark-connector-examples)
 * [IMLLIB - Factorization Machines (LibFM) Field-Awared Factorization Machine (FFM) Conditional Random Fields (CRF) Adaptive learning rate optimizer (AdaGrad, Adam)](https://github.com/Intel-bigdata/imllib-spark)
+* [Lighthouse - a library for data lakes built on top of Apache Spark](https://github.com/datamindedbe/lighthouse)
+  * [Organize your data lake using Lighthouse](https://medium.com/datamindedbe/organize-your-data-lake-using-lighthouse-a8bcf9c59594)
 * [Livy, the Open Source REST Service for Apache Spark, Joins Cloudera Labs](http://blog.cloudera.com/blog/2016/07/livy-the-open-source-rest-service-for-apache-spark-joins-cloudera-labs/)
   * [Livy: A REST Web Service For Apache Spark](http://www.slideshare.net/JenAman/livy-a-rest-web-service-for-apache-spark)
 * [MapR-DB Spark Connector with Secondary Indexes](https://hackernoon.com/mapr-db-spark-connector-with-secondary-indexes-df41909f28ea)
@@ -617,6 +619,8 @@
   * [스칼라 의존성, 패키지 검색하는 웹 - http://spark-packages.org](http://knight76.tistory.com/entry/scala-%EC%8A%A4%EC%B9%BC%EB%9D%BC-%EC%9D%98%EC%A1%B4%EC%84%B1-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%9B%B9-httpsparkpackagesorg)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
+* [StreamSets Transformer - an execution engine within the StreamSets DataOps platform that allows any user to create data processing pipelines that execute on Spark](https://streamsets.com/products/transformer/)
+  * [Custom Scala Project for StreamSets Transformer](https://medium.com/@iamontheinet/iamontheinet-streamsets-11cf8ba480a)
 
 ## Library Monitoring
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
