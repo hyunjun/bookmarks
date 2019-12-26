@@ -181,6 +181,6 @@
 * [Hello Rust! #0 - Humble Beginnings](https://www.youtube.com/watch?v=jMJRTjnh_jo)
 * A Pythonist getting Rusty these days...
   * [Part 1](https://blog.waffles.space/2015/07/05/a-pythonist-getting-rusty-these-days-part-1/)
-  * [Part 2](https://hackerfall.com/story/establishing-the-rust-python-ffi)
+  * [Part 2](https://blog.waffles.space/2015/07/08/a-pythonist-getting-rusty-these-days-part-2/)
 * [idiomatic-rust - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust](https://github.com/mre/idiomatic-rust)
 * [Rust RPG: Introductory Tutorial of Rust, Unit Testing, and Continuous Integration with a Roguelike](https://medium.com/@cameron.manavian/rust-rpg-introductory-tutorial-of-rust-unit-testing-and-continuous-integration-with-a-roguelike-b7b86e90855c)
