@@ -240,15 +240,7 @@ Scala
 * [Developer’s dilemma](https://medium.com/@ipindersinghsuri/developers-dilemma-cf4d131bf879)
 * [Machine Learning with Scala in Google Colaboratory](https://medium.com/@shadaj/machine-learning-with-scala-in-google-colaboratory-e6f1661f1c88)
 * [**Parallel computing in Python and Scala**](https://medium.com/mop-developers/parallel-computing-in-python-and-scala-37d3561b4c08)
-* [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
-* [Dummmy — Test](https://medium.com/@jayvardhan.reddy.v/dummmy-test-27923b031fb7)
-* From Monolith to Microservice Architecture on Kubernetes
-  * [part 1 — The Api Gateway](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-1-the-api-gateway-eb82f8c2d10c)
-  * [part 2 — Authentication with JWT](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-2-authentication-with-jwt-934ea030923)
-  * [part 3— Deploying our Scala app as a microservice](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-3-deploying-our-scala-app-as-a-d4d799e01ab6)
-  * [part 4— Monitoring, health checks, logging & tracing](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-4-monitoring-health-checks-32c441741ca6)
-  * [part 5— Deployment Automation & Continuous Delivery](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-5-deployment-automation-a7d8529d813)
-* [Service architecture in Scala](https://leobenkel.com/2019/11/service-architecture-in-scala/)
+* [~Dummmy — Test~](https://medium.com/@jayvardhan.reddy.v/dummmy-test-27923b031fb7)
 * [Spark, Torrents, and Technical Debt](https://medium.com/@john.montroy/spark-torrents-and-technical-debt-9b5cdb23296c)
 * [스칼라 인터프리터의 스크립트](https://medium.com/@ysmintor/scala-%E5%9F%BA%E7%A1%80%E8%AF%AD%E6%B3%95-7d137d350ffe)
 * [Notes about Avro Schema Evolution using Binary Encoding](https://medium.com/@ashwanth.kumar/notes-about-avro-schema-evolution-using-binary-encoding-974c7a3429a2)
@@ -286,6 +278,7 @@ Scala
 * [Programming with Actors (part 2)](https://www.youtube.com/watch?v=ilHW220JtGo)
 * [State vs Stateful Actor](https://medium.com/@krzysztof.otrebski/state-vs-stateful-actor-748486ba0271)
 * [Building a scalable reactive ingestion pipeline to ingest data in a Graph DB](https://medium.com/@dhananjay.ghanwat/building-a-scalable-reactive-ingestion-pipeline-to-ingest-data-in-a-graph-db-3b2d9bf12a35)
+* [Rock Paper Scissor Game through Actor Model in Scala](https://medium.com/@karthikv1392/rock-paper-scissor-game-through-actor-model-in-scala-a8a1430f10ff)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
@@ -433,6 +426,7 @@ Scala
   * terminology, function composition, higher kinded types, implicits vs reflection
 * [Don't Use Await.result!](https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html)
 * [Bird Operator in Scala – Pretty method chain](https://leobenkel.com/2019/11/bird-operator-in-scala/)
+* [Sizeof in Scala](http://yannmoisan.com/sizeof-in-scala.html) using `import org.apache.spark.util.SizeEstimator._`
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -441,10 +435,12 @@ Scala
   * [Be careful when using BigDecimal in Scala 2.13](https://blog.kevinlee.io/2019/09/29/be-careful-when-using-bigdecimal-in-scala-2.13/)
 * BitSet
   * [Classic Computer Science Problems in ̶P̶y̶t̶h̶o̶n̶ Scala — Trivial Compression](https://medium.com/@bschlining/classic-computer-science-problems-in-%CC%B6p%CC%B6y%CC%B6t%CC%B6h%CC%B6o%CC%B6n%CC%B6-scala-trivial-compression-68506adf25dd)
-* case class
-  * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
-  * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
-  * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
+* class
+  * [Scala Classes – Syntax, Declaration, Use case, Examples](https://leobenkel.com/2019/10/scala-classes/)
+  * case class
+    * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
+    * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+    * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
@@ -478,6 +474,7 @@ Scala
   * [Scala Trait to Typeclasses](https://medium.com/@pvinchon/scala-generics-and-type-classes-3495bc059d1f)
   * [Scala Snippets #1: Instantiable Implicits](https://medium.com/@manish.katoch/scala-snippets-1-instanitable-implicits-a37dadc5a8fc)
   * [Implicit conversions in Scala help with DRY](https://medium.com/@alonso.delarte/implicit-conversions-in-scala-help-with-dry-babf3c35bcf6)
+  * [How to keep your sanity working with Scala Implicit!](https://medium.com/@lprakashv/how-to-keep-your-sanity-working-with-scala-implicit-fda9ffc33162)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -579,6 +576,17 @@ Scala
 * underscore
   * [변수를 사용하기 위한 underscore](http://knight76.tistory.com/entry/scala-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B3%80%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-underscore)
 
+# Architecture
+* [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
+* From Monolith to Microservice Architecture on Kubernetes
+  * [part 1 — The Api Gateway](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-1-the-api-gateway-eb82f8c2d10c)
+  * [part 2 — Authentication with JWT](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-2-authentication-with-jwt-934ea030923)
+  * [part 3— Deploying our Scala app as a microservice](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-3-deploying-our-scala-app-as-a-d4d799e01ab6)
+  * [part 4— Monitoring, health checks, logging & tracing](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-4-monitoring-health-checks-32c441741ca6)
+  * [part 5— Deployment Automation & Continuous Delivery](https://medium.com/jeroen-rosenberg/from-monolith-to-microservice-architecture-on-kubernetes-part-5-deployment-automation-a7d8529d813)
+* [Service architecture in Scala](https://leobenkel.com/2019/11/service-architecture-in-scala/)
+* [#Giter8 - Part 3 - Clean Architecture Use Case Scaffold](https://www.youtube.com/watch?v=RQU74SHNB08)
+
 # Book
 * [스칼라 시작하기](http://hamait.tistory.com/904)
 * [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/store/books/look.php?p_code=E3400029901)
@@ -653,11 +661,13 @@ Scala
   * [Optional Actions](https://www.inner-product.com/posts/optional-actions/)
   * [Functors — From Category Theory into Cats](https://blog.softwaremill.com/functors-from-category-theory-into-cats-6aa1bdb641f2)
   * [Kleisli Category — From theory to Cats](https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e)
+  * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
   * [Migrate a service getting 200KQPS from Jackson to Circe](https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206)
   * [Permutive Community Engineering, October 2019](https://medium.com/permutive/permutive-community-engineering-october-2019-51de37bc7791)
+  * [Hacking with scala circe-json](https://medium.com/rahasak/hacking-with-circe-json-scala-ca626705733e)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -694,6 +704,7 @@ Scala
   * [Working with HTTP in Polynote](https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f)
   * [Did Netflix just kill Databricks with releasing Polynote for free?](https://medium.com/@brianray_7981/did-netflix-just-kill-databricks-with-releasing-polynote-for-free-c2d1f6dc0da3)
   * [Firsthand Experience with Polynote — A Better Notebook for Data Engineers](https://towardsdatascience.com/trying-polynote-from-netflix-a-better-notebook-for-data-engineers-5107277ff2e5)
+  * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
 * [prox - A Scala library for working with system processes](https://github.com/vigoo/prox)
   * [prox part 1 — type level programming in Scala](https://engineering.prezi.com/prox-part-1-type-level-programming-in-scala-47d4b5c32df9)
   * [prox part 2 — akka streams with cats effect](https://engineering.prezi.com/prox-part-2-akka-streams-with-cats-effect-f63c28199cad)
@@ -749,6 +760,7 @@ Scala
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
 * [sttp — an open-source library with simple, type-safe API for defining HTTP requests](https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762)
+  * [Websockets in Scala using sttp](https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb)
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
 
@@ -829,6 +841,9 @@ Scala
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
 * [Marvels of functional programming: Composing effects with monads](https://medium.com/@anil.thaplar/marvels-of-functional-programming-composing-effects-with-monads-4972962d09ca)
 * [Monads do not compose](http://blog.tmorris.net/posts/monads-do-not-compose/) Functor와 Applicative는 합성 가능. Monad는 합성 불가능
+* [Journey into the IO Monad (Part 1)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-1-bdf591b4fa09)
+* [Journey into the IO Monad (Part 2)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-2-2e21da2826e3)
+* [Journey to the IO Monad (Part 3.1)](https://medium.com/@RaymondTayBL/journey-to-the-io-monad-part-3-1-35813c7f48ac)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -882,6 +897,7 @@ Scala
   * [“The” as a method?](https://medium.com/@jducoeur/the-as-a-method-dae559d3c1c)
   * ["Revisiting Tagless Final Interpreters" in Scala Dotty (0.19.0)](https://web.facebook.com/notes/한국-scala-개발자-그룹/revisiting-tagless-final-interpreters-in-scala-dotty-0190/2438394589738937/)
   * [Permutive Community Engineering, November 2019](https://medium.com/permutive/community-engineering-report-d790a45b9111)
+  * [Vim with Dotty (using coc vim)](https://www.dev-log.me/Coc_Vim_with_Dotty/)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
