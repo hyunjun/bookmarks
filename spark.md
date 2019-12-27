@@ -422,6 +422,7 @@
   * Spark2.0 New Features
     * [(1) DataSet](http://www.popit.kr/spark2-0-new-features1-dataset/)
     * [(2) Structured Streaming – 1편](https://www.popit.kr/spark2-0-new-features2-structured-streaming-1%ED%8E%B8/)
+  * [Transforming Spark Datasets using Scala transformation functions](http://olivermascarenhas.com/spark/2019/09/25/how-to-transform-a-spark-dataset.html)
 * distinct
   * [동일성, 동등성, Spark의 distinct](https://leeyh0216.github.io/dev/lang/spark/2017/04/30/dev-spark-equals.html)
 * groupByKey
