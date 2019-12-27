@@ -100,6 +100,7 @@ Functional Programming
     * 꾸준한 업데이트; Python
   * 그러나 이들 언어에서도조차도 함수형 프로그래밍 스타일이 점점 유행
 * [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
+* [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
