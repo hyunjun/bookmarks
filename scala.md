@@ -558,6 +558,7 @@ Scala
       * [ZIO - Http4s Part4 - Custom Codecs](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part4.html)
     * [Functional dependency injection in Scala using ZIO environments](https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-zio-environments/)
     * [A simple integration test using Scala and ZIO](https://blog.jdriven.com/2019/10/a-simple-integration-test-using-scala-and-zio/)
+    * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * String
   * String to Json
