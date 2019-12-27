@@ -134,9 +134,6 @@ Scala
 * [BETTER MANAGEMENT OF TRANSITIVE DEPENDENCIES AND CONFLICTS](https://www.scala-lang.org/2019/10/17/dependency-management.html)
 * [Top 5 things that slow down your Scala build](https://www.triplequote.com/blog/2019-10-24-5-things-slow-down-build/)
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
-* [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
-* [Toward a polyglot James server…](https://medium.com/linagora-engineering/toward-a-polyglot-james-server-c3f3c92655db)
-  * json serialization때문에 java -> scala로 바꾼 이야기
 * [hamait.tistory.com/category/Scala](http://hamait.tistory.com/category/Scala)
   * [스칼라를 이용한 개발 이후](http://hamait.tistory.com/719)
 * [스칼라 기반 블랙잭 게임 모델링 연습](http://okky.kr/article/364107)
@@ -473,11 +470,6 @@ Scala
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
 * Map
   * [Best way to merge two maps and sum the values of same key?](http://stackoverflow.com/questions/7076128/best-way-to-merge-two-maps-and-sum-the-values-of-same-key)
-  * json > Map
-    * [Scala Convert a string into a map](http://stackoverflow.com/questions/19938449/scala-convert-a-string-into-a-map)
-    * [GSON with Scala: Scala scala.collection.mutable.HashMap vs. java.util.HashMap](http://stackoverflow.com/questions/15311813/gson-with-scala-scala-scala-collection-mutable-hashmap-vs-java-util-hashmap) didn't work
-    * [GSON with Scala - Unable to invoke no-args constructor for scala.collection.immutable.Map](http://stackoverflow.com/questions/15311582/gson-with-scala-unable-to-invoke-no-args-constructor-for-scala-collection-immu) didn't work
-    * [Scala Gson Serializer](https://gist.github.com/raelg/e12d731ba01ba58f0006)
 * math
   * `ceil`, `floor` [how to round up a number if its not an integer (scala)](https://stackoverflow.com/questions/32298393/how-to-round-up-a-number-if-its-not-an-integer-scala)
 * Option
@@ -550,16 +542,16 @@ Scala
     * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) zio
     * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
     * [Becoming a better functional programmer](https://medium.com/@dorsever/becoming-a-better-functional-programmer-4e32ad6252c8)
+    * [Wrapping impure code with ZIO](https://medium.com/@ghostdogpr/wrapping-impure-code-with-zio-9265c219e2e)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
   * [Homegrown #Scala Collections - Part 37 - Are #Streams a full-blown paradigm?](https://www.youtube.com/watch?v=wgYVDigEDAM)
   * [Homegrown #Scala Collections - Part 38 - Testing Streams](https://www.youtube.com/watch?v=83ru-epSOWs)
   * [Homegrown #Scala Collections - Part 39 - Stream.filter Evaluation Leak](https://www.youtube.com/watch?v=42OOWVgX0j4)
+  * [Homegrown #Scala Collections - Part 40 - The #unfold Truth about Streams](https://www.youtube.com/watch?v=X93ToPE-14k)
   * [Homegrown #Scala Collections - Part 41 - Stream.End & What's Next?](https://www.youtube.com/watch?v=6_t1e_IGgeY)
 * String
-  * String to Json
-    * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
 * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
@@ -687,10 +679,6 @@ Scala
   * [A Scala “functional programming style” To-Do List application written with Cats](https://alvinalexander.com/scala/functional-programming-to-do-list-application-cats)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
-* [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
-  * [Migrate a service getting 200KQPS from Jackson to Circe](https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206)
-  * [Permutive Community Engineering, October 2019](https://medium.com/permutive/permutive-community-engineering-october-2019-51de37bc7791)
-  * [Hacking with scala circe-json](https://medium.com/rahasak/hacking-with-circe-json-scala-ca626705733e)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -740,6 +728,8 @@ Scala
 * [quill - Free/Libre Compile-time Language Integrated Queries for Scala](https://getquill.io/)
   * [Cassandra scala client with Quill](https://medium.com/rahasak/cassandra-scala-client-with-quill-eaaa45c51fbf?)
   * [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
+* [ratelimiter4s - Rate limiter library designed for Scala](https://github.com/ayushworks/ratelimiter4s)
+  * [Ratelimiter4s : A functional rate limiting library](https://medium.com/@ayushm4489/ratelimiter4s-a-functional-rate-limiting-library-639c04d247ee)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
@@ -793,6 +783,8 @@ Scala
   * [Scala as backend language. Tips, tricks and pain](https://medium.com/@valerii.tikhonov/scala-as-backend-language-tips-tricks-and-pain-dd7bb5da5552) slick의 단점을 지적한 글. 속 시원함
   * [MAKING ZIO, AKKA AND SLICK PLAY TOGETHER NICELY](https://scalac.io/making-zio-akka-slick-play-together-nicely-part-1-zio-and-slick/)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
+* [specs2 - software specification for scala](http://etorreborre.github.io/specs2/)
+  * [Becoming reasonable](https://medium.com/@etorreborre_99063/becoming-reasonable-361d7f674ee0)
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
@@ -829,6 +821,26 @@ Scala
     * [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
 * tapir [Describe, then interpret: HTTP endpoints using tapir](https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0)
   * [tapir: Yet another way to REST](https://dev.to/kdrakon/tapir-yet-another-way-to-rest-720)
+
+## Library Json
+* [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
+* [Toward a polyglot James server…](https://medium.com/linagora-engineering/toward-a-polyglot-james-server-c3f3c92655db)
+  * json serialization때문에 java -> scala로 바꾼 이야기
+* json > Map
+  * [Scala Convert a string into a map](http://stackoverflow.com/questions/19938449/scala-convert-a-string-into-a-map)
+* [GSON - A Java serialization/deserialization library to convert Java Objects into JSON and back](https://github.com/google/gson)
+  * json > Map
+    * [GSON with Scala: Scala scala.collection.mutable.HashMap vs. java.util.HashMap](http://stackoverflow.com/questions/15311813/gson-with-scala-scala-scala-collection-mutable-hashmap-vs-java-util-hashmap) didn't work
+    * [GSON with Scala - Unable to invoke no-args constructor for scala.collection.immutable.Map](http://stackoverflow.com/questions/15311582/gson-with-scala-unable-to-invoke-no-args-constructor-for-scala-collection-immu) didn't work
+    * [Scala Gson Serializer](https://gist.github.com/raelg/e12d731ba01ba58f0006)
+  * String to Json
+    * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
+* [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
+  * [Migrate a service getting 200KQPS from Jackson to Circe](https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206)
+  * [Permutive Community Engineering, October 2019](https://medium.com/permutive/permutive-community-engineering-october-2019-51de37bc7791)
+  * [Hacking with scala circe-json](https://medium.com/rahasak/hacking-with-circe-json-scala-ca626705733e)
+* [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
+  * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
 ## Library Logging
 * [airframe-log is a library for enhancing your Scala application logging with colors and source code locations](https://wvlet.org/airframe/docs/airframe-log.html)
@@ -869,6 +881,7 @@ Scala
   * [Slim Play App](https://github.com/lloydmeta/slim-play)
   * [Play 2 Scala, React.js,GraphQL- Part 1](https://medium.com/@diprochowdhury/play-2-scala-react-js-graphql-part-1-8217872af9cb)
   * [Functional tests with Scala, SBT, Play framework, Specs2 and one application per test suite](https://medium.com/@geovannyjs/functional-tests-with-scala-sbt-play-framework-specs2-and-one-application-per-test-suite-22ddf70e5cbe)
+  * [XXE ATTACKS IN SCALA AND PLAY FRAMEWORK](https://jowritesscala.wordpress.com/2019/07/30/xxe-attacks-in-scala-and-play-framework/)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
@@ -902,6 +915,7 @@ Scala
 * [Journey to the IO Monad (Part 3.1)](https://medium.com/@RaymondTayBL/journey-to-the-io-monad-part-3-1-35813c7f48ac)
 * [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
+* [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
