@@ -423,6 +423,7 @@ Web
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
   * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
   * [Como instalar o Gatling no MacOS](https://medium.com/@matheusinaciopedro/como-instalar-o-gatling-no-macos-9f555c5c2ab0)
+  * [Performance Testing with Gatling](https://medium.com/@arsalaninam/performance-testing-with-gatling-652e2f19bf89)
 * [HTTP/2 Dashboard BETA - Monitoring the adoption and performance of HTTP/2 on the Web](http://isthewebhttp2yet.com/index.html)
 * [HyperDev is the developer playground for building real web apps, fast](https://hyperdev.com/)
   * [Introducing HyperDev](http://joelonsoftware.com/items/2016/05/30.html)
