@@ -154,6 +154,7 @@ Linux
 * [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/704)
 * [**스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들**](https://www.mimul.com/blog/linux-server-operations/) operation에 관계되는 여러가지 명령어 정리
 * [59 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
+* [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력)](https://withcoding.com/111)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
