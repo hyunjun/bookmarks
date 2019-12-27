@@ -793,6 +793,7 @@
   * [Improving Python and Spark Performance and Interoperability: Spark Summit East talk by: Wes McKinney](https://www.slideshare.net/SparkSummit/improving-python-and-spark-performance-and-interoperability-spark-summit-east-talk-by-wes-mckinney)
 * [High Performance Python On Spark](https://www.youtube.com/watch?v=abZ0f5ug18U)
   * [High Performance Python on Apache Spark](https://www.slideshare.net/wesm/high-performance-python-on-apache-spark)
+* [Comparing Performance between Apache Spark and PySpark](https://medium.com/@sahandfarazzarrinkoub/comparing-performance-between-apache-spark-and-pyspark-63d68c067a55)
 * [**Keynote: Making the Big Data ecosystem work together with Python - Holden Karau**](https://www.youtube.com/watch?v=LOHVKYtUO-o)
 * [Downloading spark and getting started with python notebooks (jupyter) locally on a single computer](https://medium.com/explore-artificial-intelligence/downloading-spark-and-getting-started-with-python-notebooks-jupyter-locally-on-a-single-computer-98a76236f8c1)
 * [A Brief Introduction to PySpark - A primer on PySpark for data science](https://towardsdatascience.com/a-brief-introduction-to-pyspark-ff4284701873)
