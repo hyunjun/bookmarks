@@ -310,6 +310,7 @@ Functional Programming
 * [How I learned to stop worrying and love FP in Scala](https://medium.com/@gkazovsky/how-i-learned-to-stop-worrying-and-love-fp-in-scala-8d7430f5f1e8)
 * [On Eliminating Error in Distributed Software Systems](https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/)
 * [Hangman in FP Scala](https://medium.com/wix-engineering/hangman-in-fp-scala-609e1eb8c733)
+* [Functional Programming features in Scala](https://gist.github.com/kevvo83/05d2f6cca40d9a5336722c3d52a14873)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
