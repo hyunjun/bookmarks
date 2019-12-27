@@ -344,7 +344,6 @@
 * [Things I Wish I’d Known About Spark When I Started (One Year Later Edition)](https://medium.com/enigma-engineering/things-i-wish-id-known-about-spark-when-i-started-one-year-later-edition-d767430181ed)
 * [Brian Clapper—Spark for Scala Developers](https://www.youtube.com/watch?v=zXipqCcVmQM)
 * [Movie recommendation using Apache Spark](https://medium.com/@varunabhi86/movie-recommendation-using-apache-spark-1a41e24b94ba)
-* [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
 * [NPE from Spark App that extends scala.App](https://medium.com/@manuzhang/npe-from-spark-app-that-extends-scala-app-ef7378195850)
 * [입 개발 spark-submit 시에 –properties-file 와 파라매터에서의 우선 순위](https://charsyam.wordpress.com/2019/03/10/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-submit-%EC%8B%9C%EC%97%90-properties-file-%EC%99%80-%ED%8C%8C%EB%9D%BC%EB%A7%A4%ED%84%B0%EC%97%90%EC%84%9C%EC%9D%98-%EC%9A%B0%EC%84%A0-%EC%88%9C%EC%9C%84/)
 * [Which Language to choose when working with Apache Spark](https://medium.com/@write2karanverma/which-language-to-choose-when-working-with-apache-spark-1cddc46e40fd)
@@ -885,6 +884,10 @@
   * commit할 group ID를 지정하면 개별 batch의 commit된 offset정보를 Kafka로 commit, 기존 Kafka 툴들과 조합하면 lag등을 추적하는 데 도움
 * [Scaling Spark Streaming for Logging Event Ingestion](https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d)
 * [State Storage in Spark Structured Streaming](https://medium.com/@polarpersonal/state-storage-in-spark-structured-streaming-e5c8af7bf509)
+
+# TDD, Test
+* [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
+* [How I test with Apache Spark?](https://medium.com/@nastasia.saby/how-i-test-with-apache-spark-97b2bacf0b77)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)
