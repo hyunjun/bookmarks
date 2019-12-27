@@ -240,6 +240,8 @@ Scala
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
+* [Learning Akka Typed from Classic](https://doc.akka.io/docs/akka/2.6/typed/from-classic.html)
+* [Akka family build infrastructure](https://akka.io/blog/2019/09/09/akka-family-builds)
 * [medium.com/tag/akka](https://medium.com/tag/akka)
 * Akka HTTP
   * [akka-http-extensions 0.0.1 released](https://groups.google.com/forum/#!topic/akka-user/FIYDmafoF-8)
@@ -521,6 +523,8 @@ Scala
     * [A simple integration test using Scala and ZIO](https://blog.jdriven.com/2019/10/a-simple-integration-test-using-scala-and-zio/)
     * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
     * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
+    * [Error Handling in Functional Applications - from Monad Transformers to ZIO](http://lambdaone.io/2019/09/06/zio-errors/)
+    * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) zio
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * String
   * String to Json
@@ -615,6 +619,8 @@ Scala
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
+  * [Getting started with #Ammonite - A Modernized #Scala REPL](https://www.youtube.com/watch?v=Pu2ctl4rzJg)
+  * [Squeezing extra productivity out of Ammonite Scala REPL](https://blog.softwaremill.com/squeezing-extra-productivity-out-of-ammonite-scala-repl-b4e4001cca07)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
 * [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
@@ -634,10 +640,12 @@ Scala
   * [Functors — From Category Theory into Cats](https://blog.softwaremill.com/functors-from-category-theory-into-cats-6aa1bdb641f2)
   * [Kleisli Category — From theory to Cats](https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e)
   * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
+  * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
   * [Either, Validated, and Parallel](https://timushev.com/posts/2019/09/24/either-validated-parallel/)
   * [Why Parallel](https://meta.plasm.us/posts/2019/09/11/why-parallel/)
   * [Cats 2.0 migration guide](https://meta.plasm.us/posts/2019/09/10/cats-2.0-migration/)
   * [The Traverse type class in Cats - Scala tutorial](https://www.youtube.com/watch?v=CSErp1mZodM)
+  * [Fuck yeah type erasure](https://meta.plasm.us/posts/2019/09/06/fuck-yeah-type-erasure/)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
@@ -746,6 +754,8 @@ Scala
 * [sttp — an open-source library with simple, type-safe API for defining HTTP requests](https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762)
   * [Websockets in Scala using sttp](https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb)
   * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
+* [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
+  * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
 
 ## Library Documentation
 * [mdoc Typechecked markdown documentation for Scala](https://scalameta.org/mdoc/)
@@ -830,6 +840,7 @@ Scala
 * [Revisiting Tagless Final Interpreters](https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80)
 * [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
 * [EXPLORING TAGLESS FINAL PATTERN FOR EXTENSIVE AND READABLE SCALA CODE](https://scalac.io/tagless-final-pattern-for-scala-code)
+* [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) tagless final
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
@@ -882,9 +893,12 @@ Scala
 * [Automate SOAP client auto-generation routines with WSDL import for SBT and Scala](https://medium.com/@vladimirsalin/automate-soap-client-auto-generation-routines-with-wsdl-import-for-sbt-and-scala-1b3e2ce5d2ba)
 * [Rock your sbt build time: Understand how sbt works](https://www.triplequote.com/blog/2019-25-09-rock-your-sbt-build-understand-how-sbt-works/)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
+  * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * [Monorepo or Multirepo? Role-Based Repositories](https://medium.com/playqtechblog/monorepo-or-multirepo-role-based-repositories-b2e52326c553)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
+  * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
   
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
