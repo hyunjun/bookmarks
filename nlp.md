@@ -30,6 +30,7 @@ NLP
 * [하나의 차트로 이해하는 민주당과 공화당이 세계를 보는 다른 시각](http://newspeppermint.com/2015/06/15/worldview/)
 * [Ask HN: What are the best tools for analyzing large bodies of text?](https://news.ycombinator.com/item?id=9733883)
 * [Special Section: Reconceiving Text Analytics](http://dho.ie/sites/default/files/Toward_an_Algorithmic_Criticism.pdf)
+* [Top NLP Algorithms & Concepts](https://www.datasciencecentral.com/profiles/blogs/top-nlp-algorithms-amp-concepts)
 * [ExoBrain](http://exobrain.kr/)
   * [인간-기계 지식소통을 위한 자연어 QA 워크샵 – 엑소브레인 인공지능](http://143.248.55.96/workshop/)
 * [한자로](http://hanjaro.juntong.or.kr/)
