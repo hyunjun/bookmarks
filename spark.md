@@ -878,6 +878,7 @@
   * Spark가 Kafka consumer group ID를 임의로 지정하고 commit도 하지 않아 별도의 streaming query listener를 구현해 추적하는 방안 외에는 적당한 방도가 없음
   * commit할 group ID를 지정하면 개별 batch의 commit된 offset정보를 Kafka로 commit, 기존 Kafka 툴들과 조합하면 lag등을 추적하는 데 도움
 * [Scaling Spark Streaming for Logging Event Ingestion](https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d)
+* [State Storage in Spark Structured Streaming](https://medium.com/@polarpersonal/state-storage-in-spark-structured-streaming-e5c8af7bf509)
 
 # YARN
 * [Running Spark on YARN](http://spark.apache.org/docs/latest/running-on-yarn.html)
