@@ -202,7 +202,8 @@ Scala
 * [Notes about Avro Schema Evolution using Binary Encoding](https://medium.com/@ashwanth.kumar/notes-about-avro-schema-evolution-using-binary-encoding-974c7a3429a2)
 * [A journey into safer and cleaner code in Scala with real-life examples](https://medium.com/krakow-scala/a-journey-into-safer-and-cleaner-code-in-scala-with-real-life-examples-e3b7c385e144)
 * [SCALA TIMES](https://twitter.com/ScalaTimes)
-* [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, eithert
+* [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, EitherT
+* [Benchmarking Functional Error Handling in Scala](https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/) EitherT
 * JVM configuration for Scala Functional Programming
   * [`-XX:MaxInlineLevel=18 -XX:MaxInlineSize=270 -XX:MaxTrivialSize=12`](https://twitter.com/leifwickland/status/1179419045055086595)
   * [`-XX:MaxInlineLevel=18`](https://github.com/scala/bug/issues/11627#issuecomment-514490505)
@@ -276,6 +277,7 @@ Scala
 * [Actor Supervision (in Scala with Akka)](https://www.youtube.com/watch?v=zMZK1IZArKY)
 * [Communicating Actors (in Scala with Akka)](https://www.youtube.com/watch?v=s_EtPq2ZYOg)
 * [Assemble messages from Akka Actors](https://medium.com/@linda0511ny/assemble-messages-from-akka-actors-c3a7cab08a81)
+* [Akka Actor System Health Check](https://medium.com/@erenavsarogullari/akka-actorsystem-health-check-c2aecf02ea4)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reactive Architecture with Play, Akka, and Scala - Henrik Engstrom (Typesafe)](https://www.youtube.com/watch?v=ksSgjQ_Ye9c)
@@ -329,6 +331,7 @@ Scala
 * [Tour of Akka Typed: Event Sourcing](https://manuel.bernhardt.io/2019/10/07/tour-of-akka-typed-event-sourcing/)
 * [Tour of Akka Typed: Cluster Sharding](https://manuel.bernhardt.io/2019/11/09/tour-of-akka-typed-cluster-sharding/)
 * [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
+* [Tour of Akka Typed: Message Adapters, Ask Pattern and Actor Discovery](https://manuel.bernhardt.io/2019/08/07/tour-of-akka-typed-message-adapters-ask-pattern-and-actor-discovery/)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
   * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
@@ -377,6 +380,7 @@ Scala
 * [Using Akka Streams with standard input and standard output](https://medium.com/@ewan.keith100/using-akka-streams-with-standard-input-and-standard-output-38868a2020bd)
 * [A fully reactive ad serving platform using Scala & Akka-Streams](https://code.tubitv.com/a-fully-reactive-ad-serving-platform-using-scala-akka-streams-13299e7ea04e)
 * [Painlessly passing message context through Akka Streams](https://blog.softwaremill.com/painlessly-passing-message-context-through-akka-streams-1615b11efc2c)
+* [Streaming data with Apache Kafka and Akka Streams](https://medium.com/cloudnesil/https-medium-com-gokhan-gurgec-streaming-data-with-apache-kafka-and-akka-streams-969a411660db)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -397,6 +401,7 @@ Scala
 * [Bird Operator in Scala – Pretty method chain](https://leobenkel.com/2019/11/bird-operator-in-scala/)
 * [Sizeof in Scala](http://yannmoisan.com/sizeof-in-scala.html) using `import org.apache.spark.util.SizeEstimator._`
 * [Visitors - a tale of generalization](https://medium.com/virtuslab/visiting-a-listener-and-where-generalization-may-lead-us-3a623e75652)
+* [My favorite new features of Scala 2.13 standard library](https://medium.com/wix-engineering/my-favorite-new-features-of-scala-2-13-standard-library-909a89b0da4)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -432,6 +437,7 @@ Scala
   * [Unsucking Error Handling with Futures](https://www.slideshare.net/GaryCoady/unsucking-error-handling-with-futures)
   * [The Future.await(s) for no one](https://medium.com/@idankoch_32247/the-future-await-s-for-no-one-652ed333f752)
   * [Easy Parallel Programming with Scala Futures](http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html)
+  * [**Promise for better Future**](https://medium.com/rahasak/promise-for-better-future-a174ce501f2c)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
@@ -535,6 +541,8 @@ Scala
     * [Error Handling in Functional Applications - from Monad Transformers to ZIO](http://lambdaone.io/2019/09/06/zio-errors/)
     * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) zio
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
+* Stream
+  * [Homegrown #Scala Collections - Part 41 - Stream.End & What's Next?](https://www.youtube.com/watch?v=6_t1e_IGgeY)
 * String
   * String to Json
     * [GsonJson.scala](https://gist.github.com/mlimotte/23927d111aadfa13d38f)
@@ -697,6 +705,8 @@ Scala
 * [Metals - Scala language server with rich IDE features](https://scalameta.org/metals/)
   * [Happy Life With #Scala #Metals](https://www.youtube.com/watch?v=kc2jrTEs5ug)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
+* [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
+  * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
@@ -773,6 +783,7 @@ Scala
   * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
 * [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
   * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
+* [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 
 ## Library Documentation
 * [mdoc Typechecked markdown documentation for Scala](https://scalameta.org/mdoc/)
@@ -1084,3 +1095,4 @@ Scala
 * [Nine Reasons to Try Scala](https://www.vidyasource.com/tutorial/nine-reasons-to-try-scala/)
 * [10 Reasons to Learn Scala and Functional Programming](https://hackernoon.com/10-reasons-to-learn-scala-and-functional-programming-2fce385e6ec7)
 * [My Way to Scala — part 1](https://blog.softwaremill.com/my-way-to-scala-part-1-6765b55ad68a)
+* [Tic-tac-toe in FP Scala](https://medium.com/wix-engineering/tic-tac-toe-in-fp-scala-29b9162ebc3e)
