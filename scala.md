@@ -227,6 +227,8 @@ Scala
 * [Scala Almost Succeeded](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5)
 * [Typing the technical interview in Scala](https://medium.com/wix-engineering/typing-the-technical-interview-in-scala-48092326de5c)
 * [Making the Matrix with Scala](https://www.youtube.com/watch?v=UqOmobgbP7w)
+* [Tame your config](https://blog.softwaremill.com/tame-your-config-2e89b1669dd9)
+* [Scala: and using it in a Startup in 2019](https://medium.com/style-theory-engineering/scala-and-using-it-in-a-startup-in-2019-42e56110e887)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -553,6 +555,7 @@ Scala
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
   * [Homegrown #Scala Collections - Part 37 - Are #Streams a full-blown paradigm?](https://www.youtube.com/watch?v=wgYVDigEDAM)
   * [Homegrown #Scala Collections - Part 38 - Testing Streams](https://www.youtube.com/watch?v=83ru-epSOWs)
+  * [Homegrown #Scala Collections - Part 39 - Stream.filter Evaluation Leak](https://www.youtube.com/watch?v=42OOWVgX0j4)
   * [Homegrown #Scala Collections - Part 41 - Stream.End & What's Next?](https://www.youtube.com/watch?v=6_t1e_IGgeY)
 * String
   * String to Json
@@ -650,6 +653,7 @@ Scala
 * [TOP 10 SCALA LIBRARIES FOR DATA SCIENCE](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
+  * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
   * [Getting started with #Ammonite - A Modernized #Scala REPL](https://www.youtube.com/watch?v=Pu2ctl4rzJg)
   * [Squeezing extra productivity out of Ammonite Scala REPL](https://blog.softwaremill.com/squeezing-extra-productivity-out-of-ammonite-scala-repl-b4e4001cca07)
@@ -674,6 +678,7 @@ Scala
   * [Kleisli Category — From theory to Cats](https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e)
   * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
   * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
+  * [A rate-limiter in 15 lines of code with cats-effect](https://medium.com/disney-streaming/a-rate-limiter-in-15-lines-of-code-with-cats-effect-af09d838857a)
   * [Either, Validated, and Parallel](https://timushev.com/posts/2019/09/24/either-validated-parallel/)
   * [Why Parallel](https://meta.plasm.us/posts/2019/09/11/why-parallel/)
   * [Cats 2.0 migration guide](https://meta.plasm.us/posts/2019/09/10/cats-2.0-migration/)
@@ -830,6 +835,9 @@ Scala
   * [Airframe Log: A Modern Logging Library for Scala](https://medium.com/airframe/airframe-log-a-modern-logging-library-for-scala-56fbc2f950bc)
 * [Logback - intended as a successor to the popular log4j project](https://logback.qos.ch/)
   * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
+* [LogStage - a zero-cost structural logging framework for Scala & Scala.js](https://izumi.7mind.io/latest/release/doc/logstage/index.html)
+  * [LogStage: zero-cost structured logging in Scala. Part 1: Overview](https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2)
+  * [LogStage: zero-cost structured logging in Scala. Part 2: Practical example](https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-2-practical-example-3ef27e67e7ee)
 * [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
 * [scribe - Practical logging framework that doesn't require any other logging framework and can be completely configured programmatically](https://github.com/outr/scribe)
 
@@ -936,6 +944,7 @@ Scala
 * [How I set up all my #SBT projects](https://www.youtube.com/watch?v=nD-p-cEKjHE)
 * [Automate SOAP client auto-generation routines with WSDL import for SBT and Scala](https://medium.com/@vladimirsalin/automate-soap-client-auto-generation-routines-with-wsdl-import-for-sbt-and-scala-1b3e2ce5d2ba)
 * [Rock your sbt build time: Understand how sbt works](https://www.triplequote.com/blog/2019-25-09-rock-your-sbt-build-understand-how-sbt-works/)
+* [Cross-compiling In Scala](https://medium.com/bigpanda-engineering/cross-compiling-in-scala-bb491682ffcf)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
