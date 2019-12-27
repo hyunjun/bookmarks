@@ -191,6 +191,7 @@ iOS
 * [Functional Swift](https://www.youtube.com/channel/UCNFUO_7gsLBk4YTmZoSTk5g/videos)
 * [Write great asynchronous code in Swift using futures and promises](https://github.com/Thomvis/BrightFutures)
 * [Making a Numeric Type in Swift](http://www.fabiancanas.com/blog/2015/5/21/making-a-numeric-type-in-swift)
+* [스위프트에서의 '타입'](https://wlaxhrl.tistory.com/83)
 * [HTTP for Humans (in Swift)](https://github.com/JustHTTP/Just)
 * Swift Summit
   * [Testing in Swift](http://realm.io/news/testing-in-swift/)
