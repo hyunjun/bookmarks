@@ -165,7 +165,8 @@ Scala
 * [Tongfei Chen - Towards Typesafe Deep Learning in Scala](https://www.youtube.com/watch?v=PZLvi0qeP90)
   * [Nexus](https://github.com/ctongfei/nexus/blob/master/README.md)
 * [**practice - scala streams**](https://gist.github.com/hyunjun/412e37bb80fc6a5ebeb82191bf100c51#file-scala_streams-md)
-* [Python vs. Scala: a comparison of the basic commands](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
+* [Python vs. Scala: a comparison of the basic commands (Part I)](https://towardsdatascience.com/python-vs-scala-a-comparison-of-the-basic-commands-fae23b3ede23)
+* [Pandas vs. Spark: how to handle dataframes (Part II)](https://towardsdatascience.com/python-pandas-vs-scala-how-to-handle-dataframes-part-ii-d3e5efe8287d)
 * [scastie.scala-lang.org](https://scastie.scala-lang.org/) online execution
   * [Scastie provides an easy start for learning Scala](https://medium.com/@alonso.delarte/scastie-provides-an-easy-start-for-learning-scala-79b7c3541997)
 * [Essential Scala: Six Core Principles for Learning Scala](https://www.youtube.com/watch?v=J8wUy1XxL5o)
@@ -225,6 +226,7 @@ Scala
 * [A little bit of Data Science in Scala](https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f)
 * [Scala Almost Succeeded](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5)
 * [Typing the technical interview in Scala](https://medium.com/wix-engineering/typing-the-technical-interview-in-scala-48092326de5c)
+* [Making the Matrix with Scala](https://www.youtube.com/watch?v=UqOmobgbP7w)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -550,6 +552,7 @@ Scala
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
   * [Homegrown #Scala Collections - Part 37 - Are #Streams a full-blown paradigm?](https://www.youtube.com/watch?v=wgYVDigEDAM)
+  * [Homegrown #Scala Collections - Part 38 - Testing Streams](https://www.youtube.com/watch?v=83ru-epSOWs)
   * [Homegrown #Scala Collections - Part 41 - Stream.End & What's Next?](https://www.youtube.com/watch?v=6_t1e_IGgeY)
 * String
   * String to Json
@@ -713,6 +716,7 @@ Scala
   * [Part 2: Deploying Lagom with a CI/CD Pipeline on Kubernetes](https://medium.com/@coreyauger/part-2-deploying-lagom-with-a-ci-cd-pipeline-on-kubernetes-a6ea47aff21f)
 * [Metals - Scala language server with rich IDE features](https://scalameta.org/metals/)
   * [Happy Life With #Scala #Metals](https://www.youtube.com/watch?v=kc2jrTEs5ug)
+  * [Implementing a server for the Language Server Protocol](https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
   * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
