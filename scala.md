@@ -264,6 +264,7 @@ Scala
   * [Akka Streams: error handling in event processing pipelines](https://medium.com/@bszwej/akka-streams-error-handling-7ff9cc01bc12)
   * [Using Akka Streams with standard input and standard output](https://medium.com/@ewan.keith100/using-akka-streams-with-standard-input-and-standard-output-38868a2020bd)
   * [A fully reactive ad serving platform using Scala & Akka-Streams](https://code.tubitv.com/a-fully-reactive-ad-serving-platform-using-scala-akka-streams-13299e7ea04e)
+  * [Painlessly passing message context through Akka Streams](https://blog.softwaremill.com/painlessly-passing-message-context-through-akka-streams-1615b11efc2c)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
 * [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
@@ -629,6 +630,7 @@ Scala
   * [Functors — From Category Theory into Cats](https://blog.softwaremill.com/functors-from-category-theory-into-cats-6aa1bdb641f2)
   * [Kleisli Category — From theory to Cats](https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e)
   * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
+  * [Either, Validated, and Parallel](https://timushev.com/posts/2019/09/24/either-validated-parallel/)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
@@ -689,6 +691,7 @@ Scala
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
+  * [Getting started with #Scalafix](https://www.youtube.com/watch?v=Xl8oOmFNGgQ)
   * [Write your own #Scalafix rules from scratch!](https://www.youtube.com/watch?v=uh7VFcOpu20)
 * scalafmt [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
@@ -771,6 +774,7 @@ Scala
 
 ## Library Webframework
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
+* [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
 * [Cask: a Scala HTTP micro-framework](http://www.lihaoyi.com/cask/)
 * Finatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
@@ -823,6 +827,7 @@ Scala
 * [Journey into the IO Monad (Part 1)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-1-bdf591b4fa09)
 * [Journey into the IO Monad (Part 2)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-2-2e21da2826e3)
 * [Journey to the IO Monad (Part 3.1)](https://medium.com/@RaymondTayBL/journey-to-the-io-monad-part-3-1-35813c7f48ac)
+* [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -863,7 +868,9 @@ Scala
 * [Switching sbt Sub-projects easily with sbt-project-switcher](https://blog.kevinlee.io/2019/09/30/switching-sbt-subprojects-easily-with-sbt-project-switcher/)
 * [How I set up all my #SBT projects](https://www.youtube.com/watch?v=nD-p-cEKjHE)
 * [Automate SOAP client auto-generation routines with WSDL import for SBT and Scala](https://medium.com/@vladimirsalin/automate-soap-client-auto-generation-routines-with-wsdl-import-for-sbt-and-scala-1b3e2ce5d2ba)
+* [Rock your sbt build time: Understand how sbt works](https://www.triplequote.com/blog/2019-25-09-rock-your-sbt-build-understand-how-sbt-works/)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * [Monorepo or Multirepo? Role-Based Repositories](https://medium.com/playqtechblog/monorepo-or-multirepo-role-based-repositories-b2e52326c553)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   
@@ -959,6 +966,7 @@ Scala
     * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
     * [Typechecking SQL queries with doobie](https://blog.godatadriven.com/doobie-monix-jdbc-example)
     * [Presto with Doobie](https://medium.com/scout24-engineering/presto-with-doobie-640da3147db4)
+    * [Hacking with doobie and cats-effects](https://medium.com/rahasak/doobie-and-cats-effects-d01230be5c38)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
@@ -969,6 +977,8 @@ Scala
 * [Scala Type Classes comparison](https://medium.com/se-notes-by-alexey-novakov/scala-type-classes-comparison-28b76ce1f37a)
 * [DOT: Scala Types from Theory to Practice—Nada Amin](https://www.youtube.com/watch?v=fjj_fv346lY)
 * [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
+* [From @Transactional to type-safe, reasonable transactions](https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e)
+* [Illustrated guide to Types, Sets and Values](https://medium.com/@1jpablo1/illustrated-guide-to-types-sets-and-values-8093d0b7d648)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
