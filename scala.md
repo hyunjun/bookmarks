@@ -598,6 +598,7 @@ Scala
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
 * [Top 15 Scala Libraries for Data Science in 2018](https://functional.works-hub.com/learn/top-15-scala-libraries-for-data-science-in-2018-308f4)
+* [Permutive Community Engineering, September 2019](https://medium.com/permutive/community-engineering-report-5da212ad4912) cats, circe
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
 * [Avast](https://avast.github.io)
@@ -687,6 +688,8 @@ Scala
   * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
+* [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
+  * [Write your own #Scalafix rules from scratch!](https://www.youtube.com/watch?v=uh7VFcOpu20)
 * scalafmt [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
@@ -730,6 +733,7 @@ Scala
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
 * [sttp — an open-source library with simple, type-safe API for defining HTTP requests](https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762)
   * [Websockets in Scala using sttp](https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb)
+  * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
 
 ## Library Documentation
 * [mdoc Typechecked markdown documentation for Scala](https://scalameta.org/mdoc/)
@@ -772,6 +776,7 @@ Scala
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
   * [Finatra in a Haystack](https://medium.com/hotels-com-technology/finatra-in-a-haystack-e777f799ce38)
+  * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
 * Play
   * [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)
   * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
@@ -828,6 +833,7 @@ Scala
 * [Simplicity in Composition—Adelbert Chang](https://www.youtube.com/watch?v=XV0o-hy1WUM)
 * [Leveraging Monoids for More Powerful Summarization](https://www.inner-product.com/posts/leveraging-monoids/)
 * [Monoid in the Category of Endofunctors](https://blog.softwaremill.com/monoid-in-the-category-of-endofunctors-b85bab43587b)
+* [What are monoids and how to use them - Scala tutorial](https://www.youtube.com/watch?v=ppzvmI6azaw)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # [SBT](http://www.scala-sbt.org/)
@@ -864,6 +870,7 @@ Scala
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
+* [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
   * [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
