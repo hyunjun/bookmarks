@@ -221,6 +221,8 @@
 * [GoF design patterns in Scala: Iterator (and why it is still cool in 2019)](https://medium.com/@supermanue/gof-design-patterns-in-scala-iterator-and-why-it-is-still-cool-in-2019-dde7cc5cc9d0)
 * [Crushing Design Patterns! — Chain of responsibility (Scala)](https://medium.com/@lprakashv/crushing-design-patterns-with-scala-chain-of-responsibility-7d705ebe12b5)
 * [Crushing Design Patterns! — Unnecessary Patterns](https://medium.com/@lprakashv/cushing-design-patterns-unnecessary-patterns-dda76bfdca07)
+* [Scala and the visitor pattern](https://meta.plasm.us/posts/2019/09/23/scala-and-the-visitor-pattern/)
+* [Type safe builder pattern](https://pedrorijo.com/blog/typesafe-builder/)
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
