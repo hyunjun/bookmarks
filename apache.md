@@ -661,6 +661,7 @@ Apache
   * Apache Kafka Streams를 배울 수 있는 워크숍
 * [Apache Kafka leaves the Zoo](https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7)
 * [Using Graph Processing for Kafka Stream Visualizations](https://www.confluent.io/blog/kafka-graph-visualizations<Paste>))
+* [Making sense of Avro, Kafka, Schema Registry, and Spark Streaming](https://medium.com/@ivan9miller/making-sense-of-avro-kafka-schema-registry-and-spark-streaming-bbb09eb5039c)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
@@ -754,6 +755,7 @@ Apache
 
 # [Oozie](http://oozie.apache.org/)
 * [How-to: Use the New Apache Oozie Database Migration Tool](http://blog.cloudera.com/blog/2016/11/how-to-use-the-new-apache-oozie-database-migration-tool/)
+* [Jailbreak Oozie Spark action](https://medium.com/@ylashin/jailbreak-oozie-spark-action-c19d27bf85e2)
 
 # Ozone
 * [Introducing Apache Hadoop Ozone: An Object Store for Apache Hadoop](https://ko.hortonworks.com/blog/introducing-apache-hadoop-ozone-object-store-apache-hadoop/)
