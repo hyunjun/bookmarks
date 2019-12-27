@@ -223,6 +223,7 @@ Scala
 * [Why I like Scala](https://medium.com/@ryanberckmans/why-i-like-scala-45e65cde3365)
 * [A little bit of Data Science in Scala](https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f)
 * [Scala Almost Succeeded](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5)
+* [Typing the technical interview in Scala](https://medium.com/wix-engineering/typing-the-technical-interview-in-scala-48092326de5c)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -366,6 +367,7 @@ Scala
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 3](https://medium.com/@suchakjani/akka-steam-graphs-dynamic-parallel-streams-example-3-6215d14c0a16)
 * [Akka references serialization with Protobufs (up to Akka 2.5)](https://blog.softwaremill.com/akka-references-serialization-with-protobufs-up-to-akka-2-5-87890c4b6cb0)
+* [Tour of Akka Typed: supervision and signals](https://manuel.bernhardt.io/2019/09/05/tour-of-akka-typed-supervision-and-signals/)
 * [Tour of Akka Typed: Event Sourcing](https://manuel.bernhardt.io/2019/10/07/tour-of-akka-typed-event-sourcing/)
 * [Tour of Akka Typed: Cluster Sharding](https://manuel.bernhardt.io/2019/11/09/tour-of-akka-typed-cluster-sharding/)
 * [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
@@ -424,6 +426,7 @@ Scala
   * [Futures Made Easy with Scala](https://medium.freecodecamp.org/futures-made-easy-with-scala-da1beb3bb281)
   * [Unsucking Error Handling with Futures](https://www.slideshare.net/GaryCoady/unsucking-error-handling-with-futures)
   * [The Future.await(s) for no one](https://medium.com/@idankoch_32247/the-future-await-s-for-no-one-652ed333f752)
+  * [Easy Parallel Programming with Scala Futures](http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
@@ -606,6 +609,7 @@ Scala
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
 * [Top 15 Scala Libraries for Data Science in 2018](https://functional.works-hub.com/learn/top-15-scala-libraries-for-data-science-in-2018-308f4)
+* [Permutive Community Engineering, August 2019](https://medium.com/permutive/community-engineering-report-ff89378e7614) cats, circe
 * [Permutive Community Engineering, September 2019](https://medium.com/permutive/community-engineering-report-5da212ad4912) cats, circe
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
@@ -625,6 +629,7 @@ Scala
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
 * [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
+  * [Happy Life With #Scala #Bloop CLI](https://www.youtube.com/watch?v=QtH8yW7dmBs)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
