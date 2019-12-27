@@ -94,8 +94,6 @@ Programming
 * [SmartVPN.biz](https://github.com/smartvpnbiz)
 * [The re-engineered engineer](http://www.thestartupbible.com/2015/07/the-re-engineered-engineer.html)
 * [Yet Another Language Speed Test: Counting Primes (C, C++, Java, JavaScript, PHP, Python and Ruby)](https://bjpelc.wordpress.com/2015/01/10/yet-another-language-speed-test-counting-primes-c-c-java-javascript-php-python-and-ruby-2/)
-* [Ask HN: What tech blogs, podcasts do you follow outside of HN?](https://news.ycombinator.com/item?id=9836023)
-* [10 more podcasts that new coders should listen to in 2017](https://medium.freecodecamp.com/10-more-podcasts-that-new-coders-should-listen-to-in-2017-3c7db301dfb)
 * [Popular Programming Podcast episodes](https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/edit#gid=1458779204)
 * [Podflix - It's Kinda Like Netflix for Podcasts!](https://podflix.app/)
 * [codingradio.xyz](https://codingradio.xyz/)
@@ -1525,6 +1523,11 @@ Programming
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
+
+# Podcast
+* [Ask HN: What tech blogs, podcasts do you follow outside of HN?](https://news.ycombinator.com/item?id=9836023)
+* [10 more podcasts that new coders should listen to in 2017](https://medium.freecodecamp.com/10-more-podcasts-that-new-coders-should-listen-to-in-2017-3c7db301dfb)
+* [44bits 프로젝트 2019년 결산 블로그, 팟캐스트, 유튜브 인기 컨텐츠 등](https://www.44bits.io/ko/post/44bits-stdoutfm-2019-settlement)
 
 # Quantum computer
 * [그래서 양자컴퓨팅이 뭔데? – 문과생을 위한 해설서](https://byline.network/2019/11/05-18/)
