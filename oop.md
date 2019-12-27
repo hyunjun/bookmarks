@@ -216,6 +216,7 @@
 * [SCALA & DESIGN PATTERNS](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
   * [Code : Factory Pattern + Decorator Pattern](http://m.blog.naver.com/hancury/220683740938)
 * [The Interpreter Pattern Revisited](https://www.youtube.com/watch?v=hmX2s3pe_qk)
+* [GoF design patterns in Scala: Visitor](https://medium.com/@supermanue/gof-design-patterns-in-scala-visitor-f3b8c91e0488)
 * [GoF design patterns in Scala: Command](https://medium.com/@supermanue/gof-design-patterns-in-scala-command-9376a2d465b0)
 * [GoF design patterns in Scala: Command v2, now with typeclasses](https://medium.com/@supermanue/gof-design-patterns-in-scala-command-v2-now-with-typeclasses-a381045e0b95)
 * [GoF design patterns in Scala: Iterator (and why it is still cool in 2019)](https://medium.com/@supermanue/gof-design-patterns-in-scala-iterator-and-why-it-is-still-cool-in-2019-dde7cc5cc9d0)
