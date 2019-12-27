@@ -1653,6 +1653,7 @@ Javascript
   * [How to set up server-side rendering in React with Rails using Puppeteer](https://medium.freecodecamp.org/server-side-rendering-react-with-rails-using-puppeteer-cf5ec2697e88)
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
+  * [퍼펫티어(Puppeteer)로 회사 경매에서 득템하기](https://medium.com/jung-han/%ED%8D%BC%ED%8E%AB%ED%8B%B0%EC%96%B4-puppeteer-%EB%A1%9C-%ED%9A%8C%EC%82%AC-%EA%B2%BD%EB%A7%A4%EC%97%90%EC%84%9C-%EB%93%9D%ED%85%9C%ED%95%98%EA%B8%B0-47e4713b976f)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
