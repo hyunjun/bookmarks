@@ -147,6 +147,7 @@ Scala
 * [스칼라의 도입을 회고하며](https://medium.com/rainist-engineering/%EC%8A%A4%EC%B9%BC%EB%9D%BC%EC%9D%98-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0-d491125abeb9)
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
 * [practice - install scala notebook on jupyter](https://gist.github.com/hyunjun/ed5a9b4e3e2669bd48e215d8d92c2f34)
+  * [JupyterLab for complex Python and Scala Spark projects](https://dataintoresults.com/post/jupyterlab-for-complex-python-and-scala-spark-projects/)
 * [Abstration and Polymorphism (using Scala)](https://www.youtube.com/watch?v=hWNJrH-NUb0)
 * [Lawful Asynchronous Programming — Daniel Spiewak](https://www.youtube.com/watch?v=B0L91sW3XHw)
 * [Daniel Spiewak: Functional Async on the JVM - λC Winter Retreat 2017](https://www.youtube.com/watch?v=j9RHdnnl4T8)
@@ -173,6 +174,7 @@ Scala
 * [How to turn ugly Java APIs into elegant, type-safe Scala APIs](https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2)
 * [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
 * [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
+* [Lessons Learned Building a Van Laarhoven Lens Library](http://www.doscienceto.it/blog/posts/2019-12-19-optics.html)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 * [Exceptions, referential transparency and your Scala code](https://medium.com/@itay.maman/exceptions-referential-transparency-and-your-scala-code-4fc3f84043ad)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
@@ -220,7 +222,6 @@ Scala
 * [How to structure your Scala application?](https://blog.softwaremill.com/how-to-structure-your-scala-application-658168fbb827)
 * [Why I like Scala](https://medium.com/@ryanberckmans/why-i-like-scala-45e65cde3365)
 * [A little bit of Data Science in Scala](https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f)
-* [Spark NLP 101: Document Assembler](https://medium.com/spark-nlp/spark-nlp-101-document-assembler-500018f5f6b5)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -361,6 +362,7 @@ Scala
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 3](https://medium.com/@suchakjani/akka-steam-graphs-dynamic-parallel-streams-example-3-6215d14c0a16)
 * [Akka references serialization with Protobufs (up to Akka 2.5)](https://blog.softwaremill.com/akka-references-serialization-with-protobufs-up-to-akka-2-5-87890c4b6cb0)
+* [Tour of Akka Typed: Event Sourcing](https://manuel.bernhardt.io/2019/10/07/tour-of-akka-typed-event-sourcing/)
 * [Tour of Akka Typed: Cluster Sharding](https://manuel.bernhardt.io/2019/11/09/tour-of-akka-typed-cluster-sharding/)
 * [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
 * [One step closer: exploiting locality in Akka Cluster based systems](https://manuel.bernhardt.io/2019/10/28/one-step-closer-exploiting-locality-in-akka-cluster-based-systems/)
@@ -383,6 +385,7 @@ Scala
 * [Don't Use Await.result!](https://www.reactivesystems.eu/2019/02/19/dont-use-awaitresult.html)
 * [Bird Operator in Scala – Pretty method chain](https://leobenkel.com/2019/11/bird-operator-in-scala/)
 * [Sizeof in Scala](http://yannmoisan.com/sizeof-in-scala.html) using `import org.apache.spark.util.SizeEstimator._`
+* [Visitors - a tale of generalization](https://medium.com/virtuslab/visiting-a-listener-and-where-generalization-may-lead-us-3a623e75652)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -393,6 +396,7 @@ Scala
   * [Classic Computer Science Problems in ̶P̶y̶t̶h̶o̶n̶ Scala — Trivial Compression](https://medium.com/@bschlining/classic-computer-science-problems-in-%CC%B6p%CC%B6y%CC%B6t%CC%B6h%CC%B6o%CC%B6n%CC%B6-scala-trivial-compression-68506adf25dd)
 * class
   * [Scala Classes – Syntax, Declaration, Use case, Examples](https://leobenkel.com/2019/10/scala-classes/)
+  * [Making ordinary classes Rich! (Scala)](https://medium.com/@lprakashv/making-ordinary-classes-rich-scala-ab7f991d690)
   * case class
     * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
     * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
@@ -452,6 +456,7 @@ Scala
   * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)
   * [The Known Unknown: Working with Option and Nullable Types](https://medium.com/digitalfrontiers/the-known-unknown-working-with-option-and-nullable-types-b342a0e787de)
+  * [Optional Is the New Mandatory](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html)
 * par
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * Process
@@ -582,6 +587,7 @@ Scala
   * [Principled error handling - Beyond MonadError - Luka Jacobowitz](https://www.youtube.com/watch?v=RySodlS3cSI)
   * [Thinking Less with Scala - Daniel Sivan](https://www.youtube.com/watch?v=k6QRI1a-xNU) basic, implicit, cats.Monoid
 * [Scala UA](https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg/videos)
+* [TMWL September’19 — Scala with JDK8, toString() method and ASCI art on the type level](https://blog.softwaremill.com/tmwl-september19-scala-with-jdk8-tostring-method-and-asci-art-on-the-type-level-c903cedfeab6)
 * [TMWL October’19 — Scala Steward, DB index and a React hack](https://blog.softwaremill.com/tmwl-october19-scala-steward-tables-in-db-index-and-a-react-hack-ec51e56aa581)
 
 # IntelliJ
@@ -671,6 +677,7 @@ Scala
   * [prox part 3 — effect abstraction and ZIO](https://engineering.prezi.com/prox-part-3-effect-abstraction-and-zio-2a2a12f8f9c8)
 * [quill - Free/Libre Compile-time Language Integrated Queries for Scala](https://getquill.io/)
   * [Cassandra scala client with Quill](https://medium.com/rahasak/cassandra-scala-client-with-quill-eaaa45c51fbf?)
+  * [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
@@ -723,6 +730,10 @@ Scala
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
 * [sttp — an open-source library with simple, type-safe API for defining HTTP requests](https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762)
   * [Websockets in Scala using sttp](https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb)
+
+## Library Documentation
+* [mdoc Typechecked markdown documentation for Scala](https://scalameta.org/mdoc/)
+  * [Tips for moving from tut to mdoc](https://underscore.io/blog/posts/2019/12/12/tut-to-mdoc.html)
 * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
   * [tut](http://underscore.io/blog/posts/2015/12/18/tut.html)
 
@@ -776,6 +787,7 @@ Scala
   * [Play Scala with maven](https://medium.com/@Methrat0n/play-scala-with-maven-a3cac393b0e6)
   * [Open heart surgery on Play Framework](https://medium.com/@rnehru92/open-heart-surgery-on-play-framework-56453d8e089c)
   * [Slim Play App](https://github.com/lloydmeta/slim-play)
+  * [Play 2 Scala, React.js,GraphQL- Part 1](https://medium.com/@diprochowdhury/play-2-scala-react-js-graphql-part-1-8217872af9cb)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
@@ -846,6 +858,7 @@ Scala
 * [How I set up all my #SBT projects](https://www.youtube.com/watch?v=nD-p-cEKjHE)
 * [Automate SOAP client auto-generation routines with WSDL import for SBT and Scala](https://medium.com/@vladimirsalin/automate-soap-client-auto-generation-routines-with-wsdl-import-for-sbt-and-scala-1b3e2ce5d2ba)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* [Monorepo or Multirepo? Role-Based Repositories](https://medium.com/playqtechblog/monorepo-or-multirepo-role-based-repositories-b2e52326c553)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   
 # Scala 3
@@ -861,6 +874,7 @@ Scala
   * ["Revisiting Tagless Final Interpreters" in Scala Dotty (0.19.0)](https://web.facebook.com/notes/한국-scala-개발자-그룹/revisiting-tagless-final-interpreters-in-scala-dotty-0190/2438394589738937/)
   * [Permutive Community Engineering, November 2019](https://medium.com/permutive/community-engineering-report-d790a45b9111)
   * [Vim with Dotty (using coc vim)](https://www.dev-log.me/Coc_Vim_with_Dotty/)
+  * [Notes on Category Theory in Scala 3 (Dotty)](https://typista.org/categories-in-dotty/)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
@@ -929,6 +943,8 @@ Scala
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
 * [(47) ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
 * [Save Your Time on Algebraic Data Type (ADT) Creation in Scala](https://blog.kevinlee.io/2019/10/01/save-your-time-on-algebraic-data-type-creation-in-scala/)
+* [Generalized Algebraic Data Types example in Scala](https://github.com/chrilves/gadt.scala)
+  * [PROVING PRIMALITY WITH GADTS](https://chrilves.github.io/posts/prime/)
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
