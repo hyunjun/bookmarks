@@ -369,6 +369,9 @@ Web
   * [The Ultimate Guide to End to End Tests with Selenium and Docker](https://www.freecodecamp.org/news/end-to-end-tests-with-selenium-and-docker-the-ultimate-guide/)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
+## Crawler Scala
+* [Scraping Websites using Scala and Jsoup](http://www.lihaoyi.com/post/ScrapingWebsitesusingScalaandJsoup.html)
+
 # CSS
 * [CSS 레이아웃 기초](https://joshua1988.github.io/web-development/css/layout-basic/)
 * [How to Code in HTML5 and CSS3](http://howtocodeinhtml.com/)
@@ -637,11 +640,6 @@ Web
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
 * [Trafik - A modern reverse proxy](http://traefik.github.io/)
-
-# Scala
-* Finatra
-  * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
-* Scalatra
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
