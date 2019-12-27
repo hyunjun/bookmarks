@@ -327,11 +327,13 @@ Scala
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 2](https://medium.com/@suchakjani/akka-steam-graphs-parallel-streams-example-2-aa2d0f143d9f)
 * [Akka Steam Graphs — Dynamic Parallel Streams, Example 3](https://medium.com/@suchakjani/akka-steam-graphs-dynamic-parallel-streams-example-3-6215d14c0a16)
 * [Akka references serialization with Protobufs (up to Akka 2.5)](https://blog.softwaremill.com/akka-references-serialization-with-protobufs-up-to-akka-2-5-87890c4b6cb0)
+* [Tour of Akka Typed: Protocols and Behaviors](https://manuel.bernhardt.io/2019/07/11/tour-of-akka-typed-protocols-and-behaviors/)
 * [Tour of Akka Typed: supervision and signals](https://manuel.bernhardt.io/2019/09/05/tour-of-akka-typed-supervision-and-signals/)
 * [Tour of Akka Typed: Event Sourcing](https://manuel.bernhardt.io/2019/10/07/tour-of-akka-typed-event-sourcing/)
 * [Tour of Akka Typed: Cluster Sharding](https://manuel.bernhardt.io/2019/11/09/tour-of-akka-typed-cluster-sharding/)
 * [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
 * [Tour of Akka Typed: Message Adapters, Ask Pattern and Actor Discovery](https://manuel.bernhardt.io/2019/08/07/tour-of-akka-typed-message-adapters-ask-pattern-and-actor-discovery/)
+* [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
   * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
@@ -381,6 +383,8 @@ Scala
 * [A fully reactive ad serving platform using Scala & Akka-Streams](https://code.tubitv.com/a-fully-reactive-ad-serving-platform-using-scala-akka-streams-13299e7ea04e)
 * [Painlessly passing message context through Akka Streams](https://blog.softwaremill.com/painlessly-passing-message-context-through-akka-streams-1615b11efc2c)
 * [Streaming data with Apache Kafka and Akka Streams](https://medium.com/cloudnesil/https-medium-com-gokhan-gurgec-streaming-data-with-apache-kafka-and-akka-streams-969a411660db)
+* [Rethinking Streaming Workloads with Akka Streams: Part I](https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-i/)
+* [Rethinking Streaming Workloads with Akka Streams: Part II](https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-ii/)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -540,8 +544,12 @@ Scala
     * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
     * [Error Handling in Functional Applications - from Monad Transformers to ZIO](http://lambdaone.io/2019/09/06/zio-errors/)
     * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) zio
+    * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
+    * [Becoming a better functional programmer](https://medium.com/@dorsever/becoming-a-better-functional-programmer-4e32ad6252c8)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * Stream
+  * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
+  * [Homegrown #Scala Collections - Part 37 - Are #Streams a full-blown paradigm?](https://www.youtube.com/watch?v=wgYVDigEDAM)
   * [Homegrown #Scala Collections - Part 41 - Stream.End & What's Next?](https://www.youtube.com/watch?v=6_t1e_IGgeY)
 * String
   * String to Json
@@ -585,6 +593,7 @@ Scala
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
 * [The Science of Functional Programming](https://github.com/winitzki/sofp)
 * [underscore.io ebook](http://underscore.io/books/)
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
@@ -892,6 +901,7 @@ Scala
 * [Leveraging Monoids for More Powerful Summarization](https://www.inner-product.com/posts/leveraging-monoids/)
 * [Monoid in the Category of Endofunctors](https://blog.softwaremill.com/monoid-in-the-category-of-endofunctors-b85bab43587b)
 * [What are monoids and how to use them - Scala tutorial](https://www.youtube.com/watch?v=ppzvmI6azaw)
+* [Homegrown #Scala Collections - Part 35.1 - Monoids and Basic Group Theory](https://www.youtube.com/watch?v=bT9qRjRuwCc)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
 
 # [SBT](http://www.scala-sbt.org/)
