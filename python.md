@@ -215,6 +215,7 @@ Python
   * [파이참, 파이썬 강좌가 필요없는 튜토리얼 활용법!](https://tariat.tistory.com/602)
   * [상대경로와 PyCharm 그리고 명령행](https://surpreem.com/%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C%EC%99%80-pycharm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%AA%85%EB%A0%B9%ED%96%89/)
   * [파이참 interpreter 설정하기](https://blog.naver.com/baek2sm/221448342419)
+  * [Pycharm에서 anaconda의 python.exe를 base interpreter로 사용하려면?](http://jhrogue.blogspot.com/2019/12/b-pycharm-anaconda-pythonexe-base.html)
 * [How a template engine works](https://fengsp.github.io/blog/2016/8/how-a-template-engine-works/)
 * [heatmap.py](http://www.sethoscope.net/heatmap/)
   * [Python script for generating high quality heatmaps based on any coordinate data (GPS tracks, eye tracking, etc). http://www.sethoscope.net/heatmap ](https://github.com/sethoscope/heatmap)
