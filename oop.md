@@ -216,6 +216,7 @@
 * [SCALA & DESIGN PATTERNS](http://www.scala-lang.org/old/sites/default/files/FrederikThesis.pdf)
   * [Code : Factory Pattern + Decorator Pattern](http://m.blog.naver.com/hancury/220683740938)
 * [The Interpreter Pattern Revisited](https://www.youtube.com/watch?v=hmX2s3pe_qk)
+* [GoF design patterns in Scala: Iterator (and why it is still cool in 2019)](https://medium.com/@supermanue/gof-design-patterns-in-scala-iterator-and-why-it-is-still-cool-in-2019-dde7cc5cc9d0)
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
