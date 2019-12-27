@@ -222,6 +222,7 @@ Scala
 * [How to structure your Scala application?](https://blog.softwaremill.com/how-to-structure-your-scala-application-658168fbb827)
 * [Why I like Scala](https://medium.com/@ryanberckmans/why-i-like-scala-45e65cde3365)
 * [A little bit of Data Science in Scala](https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f)
+* [Scala Almost Succeeded](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -402,6 +403,7 @@ Scala
     * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
     * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
     * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
+    * [Human-readable case class diffs](https://blog.softwaremill.com/human-readable-case-class-diffs-c707e83e08a2)
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
@@ -518,6 +520,7 @@ Scala
     * [Functional dependency injection in Scala using ZIO environments](https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-zio-environments/)
     * [A simple integration test using Scala and ZIO](https://blog.jdriven.com/2019/10/a-simple-integration-test-using-scala-and-zio/)
     * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
+    * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * String
   * String to Json
@@ -608,6 +611,7 @@ Scala
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
+* [TOP 10 SCALA LIBRARIES FOR DATA SCIENCE](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
@@ -631,6 +635,9 @@ Scala
   * [Kleisli Category — From theory to Cats](https://blog.softwaremill.com/kleisli-category-from-theory-to-cats-fbd140bf396e)
   * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
   * [Either, Validated, and Parallel](https://timushev.com/posts/2019/09/24/either-validated-parallel/)
+  * [Why Parallel](https://meta.plasm.us/posts/2019/09/11/why-parallel/)
+  * [Cats 2.0 migration guide](https://meta.plasm.us/posts/2019/09/10/cats-2.0-migration/)
+  * [The Traverse type class in Cats - Scala tutorial](https://www.youtube.com/watch?v=CSErp1mZodM)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [circe - Yet another JSON library for Scala https://circe.github.io/circe ](https://github.com/circe/circe)
@@ -693,7 +700,9 @@ Scala
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
   * [Getting started with #Scalafix](https://www.youtube.com/watch?v=Xl8oOmFNGgQ)
   * [Write your own #Scalafix rules from scratch!](https://www.youtube.com/watch?v=uh7VFcOpu20)
-* scalafmt [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
+* scalafmt
+  * [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
+  * [Getting started with #Scalafmt](https://www.youtube.com/watch?v=nN2aBMcUAjE)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
   * [마이크로 벤치마킹 툴 - scala meter 예제](http://knight76.tistory.com/entry/scala-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%ED%88%B4-scala-meter-%EC%98%88%EC%A0%9C)
@@ -754,6 +763,7 @@ Scala
   * [http4s코딩 아주 약간 (2018-05-18) 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=8bkDiXRC-NY)
   * [**http4s: Pure, Typeful, Functional HTTP in Scala**](https://www.youtube.com/watch?v=hpKKDWTbdPQ)
     * [rossabaker.github.io/boston-http4s](https://rossabaker.github.io/boston-http4s)
+  * [http4s: from Cats to ZIO](http://fruzenshtein.com/http4s-from-cats-to-zio/)
   * [scala-server-toolkit - Functional programming toolkit for building server applications in Scala](https://github.com/avast/scala-server-toolkit)
     * [Scala Server Toolkit – Creating HTTP Server](https://engineering.avast.io/scala-server-toolkit-creating-http-server/)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
@@ -797,6 +807,7 @@ Scala
   * [Open heart surgery on Play Framework](https://medium.com/@rnehru92/open-heart-surgery-on-play-framework-56453d8e089c)
   * [Slim Play App](https://github.com/lloydmeta/slim-play)
   * [Play 2 Scala, React.js,GraphQL- Part 1](https://medium.com/@diprochowdhury/play-2-scala-react-js-graphql-part-1-8217872af9cb)
+  * [Functional tests with Scala, SBT, Play framework, Specs2 and one application per test suite](https://medium.com/@geovannyjs/functional-tests-with-scala-sbt-play-framework-specs2-and-one-application-per-test-suite-22ddf70e5cbe)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
@@ -828,6 +839,7 @@ Scala
 * [Journey into the IO Monad (Part 2)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-2-2e21da2826e3)
 * [Journey to the IO Monad (Part 3.1)](https://medium.com/@RaymondTayBL/journey-to-the-io-monad-part-3-1-35813c7f48ac)
 * [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
+* [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -913,6 +925,7 @@ Scala
 * [Property testing of Isomorphisms: way easier than it sounds!](https://medium.com/@supermanue/property-testing-of-isomorphisms-way-easier-than-it-sounds-a646791b9c5f)
 * [TMWL November’19 — ScalaTest, Medusa, PW-Sat2 cubesat](https://blog.softwaremill.com/tmwl-november19-scalatest-medusa-pw-sat2-cubesat-85ab140244b5)
 * [Write your own micro BDD test framework in one day](https://blog.softwaremill.com/write-your-own-micro-bdd-test-framework-in-one-day-e8f0c21c8093)
+* [Fixtures in Scala — three simple ways to reduce your test code boilerplate](https://blog.softwaremill.com/fixtures-in-scala-three-simple-ways-to-reduce-your-test-boilerplate-5eb60ffe883)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
   * [hedgehog.qa](https://hedgehog.qa/)
   * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
