@@ -106,6 +106,7 @@
 * [코딩 컨벤션 정리](https://medium.com/@joongwon/kotlin-%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98-%EC%A0%95%EB%A6%AC-7681cde920ce)
 * [Kotlin: Write Once, Run (Actually) Everywhere](https://www.youtube.com/watch?v=ei66Fr25Y2M)
 * [Joost Heijkoop & Urs Peter - Kotlin vs Scala](https://www.youtube.com/watch?v=MsMejigb1Zk)
+* [Moving from Java to Kotlin with Scala stopover](https://medium.com/@piotrekchorocin/moving-from-java-to-kotlin-with-scala-stopover-debc4be8f295)
 * ['Gradle Kotlin DSL' 이야기](http://woowabros.github.io/tools/2019/04/30/gradle-kotlin-dsl.html)
 * [코틀린(Kotlin), 꼭 해야하나요?](https://gun0912.tistory.com/81)
 * [Multi-platform Projects with Kotlin](https://hadihariri.com/2017/11/10/multiplatform-projects-with-kotlin/)
