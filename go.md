@@ -255,6 +255,7 @@ Go
   * [Go 둘러보기 - encoding/json 패키지](https://mingrammer.com/translation-go-walkthrough-encoding-json-package)
   * [Go 둘러보기 - bytes + strings 패키지](https://mingrammer.com/translation-go-walkthrough-bytes-strings-packages)
   * [Go 둘러보기 - io 패키지](https://mingrammer.com/translation-go-walkthrough-io-package)
+* [Why did designers of Go language choose not to include exception handling mechanism?](https://www.quora.com/Why-did-designers-of-Go-language-choose-not-to-include-exception-handling-mechanism)
 * [database/sql](https://golang.org/pkg/database/sql/)
   * [Golang database/sql 패키지 삽질기 - 1편 매개변수 표시자](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-1%ED%8E%B8-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%ED%91%9C%EC%8B%9C%EC%9E%90/)
   * [Golang database/sql 패키지 삽질기 - 2편 SQLite 메모리 데이터베이스](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-2%ED%8E%B8-sqlite-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)
