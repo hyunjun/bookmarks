@@ -154,6 +154,7 @@ SQL
 * [Spider Storage Engine Overview](https://mariadb.com/kb/en/library/spider-storage-engine-overview/) with built-in sharding features
 * [How to migrate from Oracle Database with ease](https://www.slideshare.net/MariaDB/how-to-migrate-from-oracle-database-with-ease)
 * ["SELECT COUNT(\*)" 수행 속도 문제](https://blog.naver.com/birdparang/221574304831)
+* [MariaDB 설치 및 설정](https://jojoldu.tistory.com/461)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 
 # MSSQL MS SQL
@@ -331,6 +332,7 @@ SQL
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/) e.g. 게시판
 * [MySQL 실행 계획](http://12bme.tistory.com/160)
 * [**장애와 관련된 XtraBackup 적용기**](http://woowabros.github.io/experience/2018/05/28/billingjul.html) mysqldump, mysqlbinlog, XtraBackup
+* [Xtrabackup으로 DB 복구하기](https://jojoldu.tistory.com/469)
 * [MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/)
 * [Speed Up Your Database 300 Times](https://speakerdeck.com/afilina/speed-up-your-database-300-times)
 * [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
