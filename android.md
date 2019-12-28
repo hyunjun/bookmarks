@@ -281,4 +281,5 @@ Android
 * [Better Android Testing at Airbnb — Part 3: Interaction Testing](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-1d1e91e489b4)
 * [Better Android Testing at Airbnb — Part 4: Testing ViewModels](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-part-4-testing-viewmodels-550d929126c8)
 * [Better Android Testing at Airbnb — Part 5: Test Architecture](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-661a554a8c8b)
+* [Better Android Testing at Airbnb — Part 6: Consistent Mocking](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a11f6832773f)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
