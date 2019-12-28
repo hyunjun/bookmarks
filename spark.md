@@ -364,6 +364,7 @@
 * [ClickHouse Clustering for Spark Developer](http://blog.madhukaraphatak.com/clickouse-clustering-spark-developer/)
 * [Data Modeling in Apache Spark - Part 1 : Date Dimension](http://blog.madhukaraphatak.com/data-modeling-spark-part-1/)
 * [Data Modeling in Apache Spark - Part 2 : Working With Multiple Dates](http://blog.madhukaraphatak.com/data-modeling-spark-part-2/)
+* [Concurrency in Spark](http://www.russellspitzer.com/2017/02/27/Concurrency-In-Spark/)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -884,6 +885,7 @@
   * commit할 group ID를 지정하면 개별 batch의 commit된 offset정보를 Kafka로 commit, 기존 Kafka 툴들과 조합하면 lag등을 추적하는 데 도움
 * [Scaling Spark Streaming for Logging Event Ingestion](https://medium.com/airbnb-engineering/scaling-spark-streaming-for-logging-event-ingestion-4a03141d135d)
 * [State Storage in Spark Structured Streaming](https://medium.com/@polarpersonal/state-storage-in-spark-structured-streaming-e5c8af7bf509)
+* [State Management in Spark Structured Streaming](https://medium.com/@chandanbaranwal/state-management-in-spark-structured-streaming-aaa87b6c9d31)
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
