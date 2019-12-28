@@ -1131,5 +1131,6 @@ Scala
 * [Scala Programming — A Skeptic’s Journey](https://medium.com/skedulo-engineering/scala-programming-a-skeptics-journey-ac680053780f)
 * [Nine Reasons to Try Scala](https://www.vidyasource.com/tutorial/nine-reasons-to-try-scala/)
 * [10 Reasons to Learn Scala and Functional Programming](https://hackernoon.com/10-reasons-to-learn-scala-and-functional-programming-2fce385e6ec7)
+* [15 Reasons to Learn Scala from N-iX Developers](https://medium.com/@N_iX/15-reasons-to-learn-scala-from-n-ix-developers-822af5b49e1a)
 * [My Way to Scala — part 1](https://blog.softwaremill.com/my-way-to-scala-part-1-6765b55ad68a)
 * [Tic-tac-toe in FP Scala](https://medium.com/wix-engineering/tic-tac-toe-in-fp-scala-29b9162ebc3e)
