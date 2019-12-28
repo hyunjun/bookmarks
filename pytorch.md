@@ -212,6 +212,7 @@ PyTorch
 * [윈도우 10 PyTorch 환경 구성 - 설치](http://bob3rdnewbie.tistory.com/313)
 * [dakshoont/jupyterhub](https://hub.docker.com/r/dakshoont/jupyterhub) JupyterHub Image with TensorFlow and PyTorch
 * [Ubuntu 18.04 CUDA + PyTorch 설치](https://greenmon.dev/2019/06/21/ubuntu-cuda.html)
+* [윈도우 10(windows 10)에서 PyTorch 설치하고 gpu를 사용하자!(PyTorch install)](https://lsjsj92.tistory.com/494)
 
 # Library
 * [김군이](https://www.youtube.com/channel/UCK24Wy_G-6V-quKvVRjflgA)
