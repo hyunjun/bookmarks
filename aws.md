@@ -425,6 +425,7 @@ AWS
 # Conference
 * [AWS re:Invent 2019 AI/ML](https://www.youtube.com/playlist?list=PLV6rN8mnHlrfrGupPQkoif-HEp3lWiXdn)
   * [AWS re:Invent 2019 비하인드 스토리](http://channy.creation.net/blog/1250)
+  * [44bits 첫 번째 밋업 소식 서울에서 만나는 AWS re:Invent 2019 회고](https://www.44bits.io/ko/post/44bits-first-meetup-reinvent-2019-retrospection)
 * [AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362)](https://www.youtube.com/watch?v=HCCkVz25UU4) GitOps
 * [re:Invent 2018 - ALB 타깃그룹의 새로운 타입으로 AWS 람다 추가](https://www.44bits.io/ko/post/aws-alb-target-group-aws-lambda-target-type-released)
 * [re:Invent 2018 - AWS 람다, 함수 간 공유 가능한 레이어 기능 지원](https://www.44bits.io/ko/post/news--reinvent-2018-aws-lambda-layer)
