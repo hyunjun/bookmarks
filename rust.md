@@ -75,6 +75,7 @@
 * [Understanding Over Guesswork](http://hoverbear.org/2015/09/12/understand-over-guesswork/)
 * [Writing my first Rust crate: jsonwebtoken](https://blog.wearewizards.io/writing-my-first-rust-crate-jsonwebtoken)
 * [Rust Lifetimes](http://www.charlesetc.com/rust/2015/10/29/)
+* [함수의 lifetime parameter는 언제 써야 하고 언제 생략할 수 있나요?](https://blog.seulgi.kim/2019/12/rust-lifetime-elision.html)
 * [Index 1,600,000,000 Keys with Automata and Rust](http://blog.burntsushi.net/transducers/)
 * [Writing an OS in Rust](http://os.phil-opp.com/)
 * [Making Popcorn: Adding a disk to a Rust Rumprun Unikernel](https://polyfractal.com/post/adding-a-disk-to-a-rust-rumprun-unikernel/)
