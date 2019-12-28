@@ -2485,6 +2485,7 @@ Python
   * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
   * [Insert / Retrieve file and images as a Blob in MySQL using Python](https://pynative.com/python-mysql-blob-insert-retrieve-file-image-as-a-blob-in-mysql/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
+* [NBAPB (Blog Auto Posting Bot)](https://github.com/pjt3591oo/blog_post_bot_cli)
 * [NetworkX](http://networkx.github.io/) -> [graph](graph.md)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
