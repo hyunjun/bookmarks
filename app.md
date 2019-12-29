@@ -48,13 +48,15 @@ App
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
+* encryption
+  * [age - a simple, modern and secure file encryption tool](https://github.com/FiloSottile/age)
+  * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
 * Figma [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
 * [Fort - a Free Software password manager http://www.ideabyte.net/fort ](https://github.com/nrosvall/fort)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
-* [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org](https://github.com/getlantern/lantern?)
@@ -455,6 +457,7 @@ App
   * [Guppy - A WYSIWYG Mathematics Editor Enter mathematical expressions below (help)](https://daniel3735928559.github.io/guppy/)
   * [8 Best LaTeX Editors](https://beebom.com/best-latex-editors/)
   * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+  * [mathpix - LaTeX, instantly](https://mathpix.com/)
   * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
   * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
@@ -573,6 +576,7 @@ App
 * [hyperterm.org](https://hyperterm.org)
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
 * [IINA - The modern media player for macOS](https://iina.io/)
+* karabiner [Hacking your keyboard with karabiner](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/)
 * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
