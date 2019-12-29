@@ -68,6 +68,7 @@ Presentation
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
 * [prezi](https://prezi.com/)
 * [python-pptx](http://python-pptx.readthedocs.io) a Python library for creating and updating PowerPoint (.pptx) files
+* [sizle - Bring your slide decks to life](https://sizle.io/)
 * [slides.com](http://slides.com/)
   * [reveal.js](http://lab.hakim.se/reveal-js/)
   * [reveal.js](https://github.com/hakimel/reveal.js)
