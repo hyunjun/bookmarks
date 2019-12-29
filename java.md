@@ -924,6 +924,7 @@ Java
 * [2. 미납회원 배치처리 구현](https://ahndy84.tistory.com/19)
 * [Ajax 통신 Example](https://woolbro.tistory.com/53)
 * [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/hands-on-springboot-logging/)
+* [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
