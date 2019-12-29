@@ -406,7 +406,7 @@ Git
 * status
   * `git status --porcelain` git에 추가되지 않은 file 출력
 * undo
-  * [How to undo (almost) anything with Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+  * [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
   * [How to undo changes in Git](https://medium.freecodecamp.org/how-to-undo-changes-in-git-e1da7930afdb)
 * pandoc; git으로 word file을 diff할 때 그냥 비교하면 안 되는데 이걸 markdown으로 바꿔 비교할 수 있도록 하는 명령어
 * pull request
