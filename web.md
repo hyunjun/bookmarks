@@ -181,6 +181,7 @@ Web
 * [Rate limiting with Apache and mod-security](https://johnleach.co.uk/words/1073/rate-limiting-with-apache-and-mod-security)
 * [mod_rewrite 로 URL 다루기](https://www.lesstif.com/pages/viewpage.action?pageId=18219493)
 * [아파치 2.4에 추가된 filesize 식을 이용해서 특정 크기를 넘어서는 파일 접근 차단하기](http://javacan.tistory.com/entry/forbid-large-size-file-access-using-filesize-in-apache24)
+* [아파치 모듈로 개발된 API 서버, 이음 베이론을 소개합니다](http://bigmatch.i-um.net/2013/11/20/ium-api-veyron/)
 
 # Benchmark
 * [A Real-World Comparison of Front-End Frameworks with Benchmarks (2018 update)](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962)
@@ -690,6 +691,7 @@ Web
 * [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
 * [How to secure your WebSocket connections](https://medium.com/free-code-camp/how-to-secure-your-websocket-connections-d0be0996c556)
 * [**WebSocket Simplified**](https://levelup.gitconnected.com/websocket-simplified-b532f266cc9f)
+* [A JavaScript library for WebSockets](https://sarus.anephenix.com/)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
