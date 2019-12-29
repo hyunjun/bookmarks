@@ -2278,6 +2278,7 @@ Python
   * [Python FFI with ctypes and cffi](http://eli.thegreenplace.net/2013/03/09/python-ffi-with-ctypes-and-cffi/)
   * [cffi-example: an example project showing how to use Python's CFFI](https://github.com/wolever/python-cffi-example)
   * [Interfacing Python and C: The CFFI Module](https://dbader.org/blog/python-cffi)
+  * [C로 파이썬 모듈 작성하는 법](https://soooprmx.com/archives/4692)
 * [Clutterm - A clutter based terminal written in pure python (no vte lib)](https://github.com/paradoxxxzero/clutterm)
   * [python xterm linux terminal](http://gildang.co.kr/?p=2442)
 * [colout - a simple command to add colors to a text stream in your terminal](http://nojhan.github.io/colout/)
