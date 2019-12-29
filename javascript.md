@@ -2559,6 +2559,7 @@ Javascript
   * [TypeScript로 디자인 시스템에 날개 달기](https://hewonjeong.github.io/how-to-typescript-can-power-design-systems/)
 * [Typescript Interface Functions](https://medium.com/@jeffbutsch/typescript-interface-functions-c691a108e3f1)
 * [타입스크립트와 순환 의존성](https://libsora.so/posts/typescript-and-circular-dependency/)
+* [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 
