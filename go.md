@@ -151,6 +151,7 @@ Go
 * [gotips - golang tips](https://github.com/beyondns/gotips)
 * [10M Concurrent Websockets](http://goroutines.com/10m)
 * [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
+* [Million WebSockets and Go](https://gbws.io/articles/million-websocket-and-go/)
 * [Compiler Part 1: Introduction to Writing a Compiler in Pure Go](http://noeffclue.blogspot.com/2014/05/compiler-part-1-introduction-to-writing.html)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
@@ -248,6 +249,7 @@ Go
 * [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
 * [Parsing 18 billion JSON lines with Go](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
   * This post describes a large scale conversion of data into JSON format in order to load it into BigQuery. To meet the naming requirements of BigQuery, they had to remap field names on every JSON document. Their tool, which is written in Golang, uses a producer/consumer job queue to parallelize processing and partition the data before writing it out. They processed data both from Kafka and S3, and the post talks a bit about how they optimized interaction with S3.
+* [Clean Architecture with GO](https://medium.com/manato/clean-architecture-with-go-bce409427d31)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
@@ -329,6 +331,7 @@ Go
   * [Now Available: Version 1.0 of the AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/now-available-version-1-0-of-the-aws-sdk-for-go/)
 * [Beego](https://beego.me/)
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
+* [bigcache - Efficient cache for gigabytes of data written in Go](https://github.com/allegro/bigcache)
 * [bitesized - a library that uses redis's bit operations to store and calculate analytics](https://github.com/sent-hil/bitesized)
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
 * [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
@@ -346,6 +349,7 @@ Go
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 * dqlite
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
+* [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
@@ -382,6 +386,7 @@ Go
 * [go-itergen addresses a common and big problem of go: no maps, no filters, no nothing](https://github.com/mvader/go-itergen)
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
+* [Go Micro - a framework for microservice development](https://go-micro.dev/)
 * [Goofys is a Filey-System interface to S3](https://github.com/kahing/goofys)
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
