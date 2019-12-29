@@ -312,10 +312,6 @@ AWS
 * [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 * [Building Scalable Analytics with AWS — Part 1](https://medium.com/@tomas.duhourq/building-scalable-analytics-with-aws-part-i-6de6a90e3513)
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
-* [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
-* [Amazon EKS (Elastic Container Service for Kubernetes)](https://ddii.dev/kubernetes/eksworkshop/)
-* [Amazon EKS 워크샵](https://awskrug.github.io/eks-workshop/)
-* [AWS EKS에 ALB-Ingress-Controller 한큐에 세팅하는 스크립트](https://www.notion.so/AWS-EKS-ALB-Ingress-Controller-544fb36ec6594be5b8ffd64cdc53789c)
 * [내게 알맞는 AWS 컴퓨팅 서비스 찾기](https://medium.com/harrythegreat/%EB%82%B4%EA%B2%8C-%EC%95%8C%EB%A7%9E%EB%8A%94-aws-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%B0%BE%EA%B8%B0-bfd2c409273c)
 * [AWS 전체서비스 Overview — 1](https://medium.com/harrythegreat/aws-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-overview-1-4cc3ffdd6b59)
 * [AWS의 ARN 이해하기](https://medium.com/harrythegreat/aws%EC%9D%98-arn-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-8c20d0ccbbfd)
@@ -473,6 +469,16 @@ AWS
 * [Remember All - Serverless architecture example. AWS STS + DynamoDB + S3. http://remembrall.acuros.pe.kr ](https://github.com/acuros/remembrall)
 * [조정 용량을 통해 DynamoDB에서 균일하지 않은 데이터 액세스 패턴을 수용하는 방법](https://aws.amazon.com/ko/blogs/korea/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
 
+# EKS
+* [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
+* [Amazon EKS (Elastic Container Service for Kubernetes)](https://ddii.dev/kubernetes/eksworkshop/)
+* [Amazon EKS 워크샵](https://awskrug.github.io/eks-workshop/)
+* [AWS EKS에 ALB-Ingress-Controller 한큐에 세팅하는 스크립트](https://www.notion.so/AWS-EKS-ALB-Ingress-Controller-544fb36ec6594be5b8ffd64cdc53789c)
+* [EKS 클러스터에 간단한 Flask 어플리케이션 배포하기](https://chang12.github.io/eks-flask/)
+* [Fluent Bit 로 Kubernetes 에 배포된 어플리케이션 로그 수집하기](https://chang12.github.io/eks-fluent-bit-firehose/)
+* [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
+  * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
+
 # Fargate
 * [ECS의 매니지드 컨테이너 AWS 파게이트 시작하기](https://www.44bits.io/ko/post/getting-started-with-ecs-fargate)
 * [AWS 파게이트 가격 30%-50% 인하 발표 vCPU 20%, 메모리 65% 인하. 서울 리전을 포함해 1월 7일부터 적용](https://www.44bits.io/ko/post/news--fargate-significant-price-cuts)
@@ -618,8 +624,6 @@ AWS
   * [Serverless with IAC - terraform과 cloudformation 비교](https://www.slideshare.net/wesky93/serverless-with-iac-terraform-cloudformation)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
-* [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
-  * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
