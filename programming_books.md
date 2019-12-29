@@ -392,6 +392,7 @@ Programming Books
   * [**데이터 중심 애플리케이션 설계 5장 - 복제**](http://astrod.github.io/data/2019/08/11/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-5%EC%9E%A5-%EB%B3%B5%EC%A0%9C/)
 * (NOT YET) [데이터를 보는 사람에게 추천하는 교양서](https://cojette.github.io/bookfordatauser/)
 * (NOT YET) [데이터 전처리 대전](http://www.hanbit.co.kr/store/books/look.php?p_code=B1543811360)
+* (NOT YET) [직장인을 위한 데이터 분석 실무 with 파이썬 - 마케팅, 영업, 기획 실무 담당자를 위한 데이터 분석의 기술](https://wikibook.co.kr/playwithdata/)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -900,7 +901,7 @@ Programming Books
   * 탐라 문005.133-닐895ㅎ
   * 한라 005.136-포27ㅎ
   * java, closure, groovy, scala등 jvm 언어로 함수형으로 사고를 전환하는 이야기
-  * [****기존의 사고 방식을 깨부수는 함수형 사고****](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
+  * [**기존의 사고 방식을 깨부수는 함수형 사고**](https://evan-moon.github.io/2019/12/15/about-functional-thinking/)
 * [**Practical 자바 유틸리티: Git, 서브버전, 메이븐, 그레이들, JUnit, 트랙, 젠킨스, JMeter**](https://blog.insightbook.co.kr/2016/09/21/practical-%EC%9E%90%EB%B0%94-%EC%9C%A0%ED%8B%B8%EB%A6%AC%ED%8B%B0-git-%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84-%EB%A9%94%EC%9D%B4%EB%B8%90-%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4-junit-%ED%8A%B8/)
   * 한라 005.1-장66ㅍ
   * 다루는 종류가 많고, 참고 서적이 없는 부분에 대한 건 참 좋음
