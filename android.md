@@ -200,6 +200,7 @@ Android
   * [Why and how you should switch to Dagger 2.12+?](https://android.jlelse.eu/why-and-how-you-should-switch-to-dagger-2-12-ba32aac44300)
   * [Dagger 적용기](http://woowabros.github.io/experience/2019/07/31/android-dagger.html)
   * [Dagger를 통한 Dependency Injection 구현](https://developer88.tistory.com/173)
+  * [Dagger DI Graph의 샛별, Scabbard 맛보기](http://pluu.github.io/blog/android/2019/12/29/dagger-scabbard/)
 * [Flutter](flutter.md)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
