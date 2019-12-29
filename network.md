@@ -26,6 +26,7 @@ Network
 * [How to drop 10 million packets per second](https://blog.cloudflare.com/how-to-drop-10-million-packets/)
 * [LDAP 프토토콜 맛보기](https://medium.com/happyprogrammer-in-jeju/ldap-%ED%94%84%ED%86%A0%ED%86%A0%EC%BD%9C-%EB%A7%9B%EB%B3%B4%EA%B8%B0-15b53c6a6f26)
 * [Computer Networking Complete Course by Google - Beginner to Advanced](https://www.youtube.com/watch?v=QKfk7YFILws)
+* [10 networking guides for Linux sysadmins](https://www.redhat.com/sysadmin/networking-guides)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
