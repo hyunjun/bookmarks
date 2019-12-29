@@ -31,9 +31,11 @@
 * [hellmaker.kr](http://www.hellmaker.kr/)
 * [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
 * [10 Single-Board Computers Worthy of Hacking Projects Big & Small](https://null-byte.wonderhowto.com/how-to/raspberry-pi-alternatives-10-single-board-computers-worthy-hacking-projects-big-small-0196340/)
+* [BEST SINGLE BOARD COMPUTERS OF 2019](https://www.seeedstudio.com/blog/2019/11/20/best-single-board-computers-of-2019/)
 * [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
 * [엔트리 하드웨어 개발](https://ryulib.tistory.com/466)
 * [The ZedRipper: Part 1](http://www.chrisfenton.com/the-zedripper-part-1/)
+* [A new cycle-stepped 6502 CPU emulator](https://floooh.github.io/2019/12/13/cycle-stepped-6502.html)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
