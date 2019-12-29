@@ -494,6 +494,7 @@ SQL
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
 * [Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker](http://www.kexi-project.org/)
 * [Message DB - Microservice Native Event Store and Message Store for Postgres](https://github.com/message-db/message-db)
+  * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
