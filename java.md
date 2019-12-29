@@ -548,7 +548,6 @@ Java
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
-* [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
 * [Chatty - a Twitch chat client](http://chatty.github.io/)
@@ -718,6 +717,10 @@ Java
   * [Vaadin 14 Simplifies Progressive Web App Development on the Java Platform](https://www.infoq.com/news/2019/08/vaadin-releases-lts-version-14/)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
+
+## Library Debug
+* [avd - visual debugger](http://symbolflux.com/projects/avd)
+* [BugJail - the new Java debugger that can. Windows, Mac and Linux. No cloud. Free to use during beta](https://bugjail.com/)
 
 ## Library Spring
 * [springoneplatform.io](https://springoneplatform.io/)
