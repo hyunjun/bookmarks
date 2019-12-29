@@ -117,6 +117,7 @@ Redis
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
+* [ioredis-mock - Emulates ioredis by performing all operations in-memory](https://github.com/stipsan/ioredis-mock)
 * [KeyDB - A Multithreaded Fork of Redis https://keydb.dev ](https://github.com/JohnSully/KeyDB)
   * [A Multithreaded Fork of Redis That’s 5X Faster Than Redis](https://docs.keydb.dev/blog/2019/10/07/blog-post/)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
