@@ -501,3 +501,4 @@ Business
 * [뛰어난 디자이너의 6가지 행동과 생각](http://ppss.kr/archives/27880)
 * [알고 계십니까, 우리나라의 문양](http://ppss.kr/archives/28551)
 * [Smart Contract의 UX를 설계할 때 겪는 4가지 문제](https://engineering.huiseoul.com/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%95%A0-%EB%95%8C-%EA%B2%AA%EA%B2%8C-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-ux-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-8d271cc7e21d)
+* [나쁜 소프트웨어 디자인은 군함도 충돌하게 만든다](https://imseongkang.wordpress.com/2019/08/30/ussdesign/)
