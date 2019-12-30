@@ -885,6 +885,13 @@ Python
   * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
   * [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2) shutil
 * partial
+
+  ```
+  >>> from functools import partial
+  >>> foo = partial(lambda a, b: a + b, b=3)
+  >>> foo(2)
+  5
+  ```
   * [A Practical Example of Using Python Partials](http://matthewminer.com/2015/03/10/practical-example-using-python-partials.html)
 * patch
   * [More Python 2 - Patch C Module](http://add2paper.github.io/2015/06/01/More-Python-2-Path-C-Module/)
