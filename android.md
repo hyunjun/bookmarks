@@ -92,6 +92,7 @@ Android
 * [안드로이드 카메라 예제 (1/2)](https://brunch.co.kr/@mystoryg/54)
 * [안드로이드 카메라 예제 (2/2)](https://brunch.co.kr/@mystoryg/55)
 * [안드로이드 카메라 프리뷰 좌우 반전](https://brunch.co.kr/@mystoryg/96)
+* [CameraX Beta버전을 사용해 보겠습니다](https://developer88.tistory.com/218)
 * [안드로이드에서 adb shell로 apk 추출하기](http://sunphiz.me/wp/archives/3210)
 * [APK 소스코드 분석하기](https://www.popit.kr/how-to-decompile-an-android-apps/)
 * [자주 사용하는 ADB명령어들에 대해서 알아보자](https://developer88.tistory.com/189)
@@ -158,6 +159,7 @@ Android
 # Conference
 * [DroidKaigi 2019 참가 후기](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-review/)
 * [DroidKaigi 2019에서 들은 세션 ](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-insert-session/)
+* [DroidCon2019 Vienna 방문 후기](https://engineering.linecorp.com/ko/blog/droidcon2019-vienna-recap/)
 * [What’s New in Android (Google I/O ‘17)](http://pluu.github.io/blog/android/google/io17/2017/05/22/whats_new_in_android/)
 * [Google I/O 2018: Android의 새로운 기능](https://developers-kr.googleblog.com/2018/05/google-io-2018-whats-new-in-android.html)
 * [Google I/O 2018 for Android 소스를 공개합니다](https://developers-kr.googleblog.com/2018/09/google-releases-source-for-google-io.html)
