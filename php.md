@@ -57,6 +57,7 @@ PHP
   * [Setting up Laravel and React.js the right way (Using user authentication)](https://medium.com/@000kelvin/setting-up-laravel-and-react-js-the-right-way-using-user-authentication-1cfadf3194e)
   * [테일러 오트웰은 왜 API 라우트를 routes/web.php에 작성했을까?](https://xly.kr/posts/6)
   * [ERD를 그려주는 Laravel ER Diagram Generator](https://xly.kr/posts/11)
+  * [액션으로 리팩토링하기](https://xly.kr/posts/28)
   * [The simple and awesome way to deploy a Laravel and React.js application on a shared hosting server using git](https://medium.com/@000kelvin/the-simple-and-awesome-way-to-deploy-a-laravel-and-react-js-a8b547cbbc75)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
