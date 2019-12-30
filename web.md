@@ -437,6 +437,7 @@ Web
   * [locust - Scalable user load testing tool written in Python http://locust.io](https://github.com/locustio/locust/)
   * [practice - neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
   * [부하테스트를 위한 Locust](https://bcho.tistory.com/1369)
+  * [Locust #2 - 분산 부하 테스팅 (with 쿠버네티스)](https://bcho.tistory.com/1371)
 * [Mega boilerplate - 사용](http://wooriworld2006.tistory.com/m/post/353)
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
