@@ -1530,6 +1530,7 @@ Programming
 * [Ask HN: What tech blogs, podcasts do you follow outside of HN?](https://news.ycombinator.com/item?id=9836023)
 * [10 more podcasts that new coders should listen to in 2017](https://medium.freecodecamp.com/10-more-podcasts-that-new-coders-should-listen-to-in-2017-3c7db301dfb)
 * [44bits 프로젝트 2019년 결산 블로그, 팟캐스트, 유튜브 인기 컨텐츠 등](https://www.44bits.io/ko/post/44bits-stdoutfm-2019-settlement)
+* [데이터 지능 팟캐스트 - 전문가들이 들려주는 데이터 & 인공지능 이야기](http://data-intelligence.io/)
 
 # Quantum computer
 * [그래서 양자컴퓨팅이 뭔데? – 문과생을 위한 해설서](https://byline.network/2019/11/05-18/)
