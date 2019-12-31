@@ -328,6 +328,7 @@ Programming
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
+  * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
@@ -779,6 +780,7 @@ Programming
 * [알리바바 클라우드 payment method 삭제](https://jybaek.tistory.com/846)
 * [알리바바 클라우드 SDK 설치 및 계정연동](https://jybaek.tistory.com/849)
 * [Rancher에서 Alibaba ACK 활성화 하기](https://jybaek.tistory.com/850)
+* [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](http://channy.creation.net/blog/1255)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
