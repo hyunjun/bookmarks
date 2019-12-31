@@ -18,6 +18,7 @@ AWS
 * [joinc.co.kr/w/man/12/aws](https://www.joinc.co.kr/w/man/12/aws)
   * [joinc.co.kr/w/man/12/aws/study](https://www.joinc.co.kr/w/man/12/aws/study)
   * [Multi-tier 아키텍처](https://www.joinc.co.kr/w/man/12/aws/architecture/multitier)
+* [zigispace.net/category/클라우드\_가상화/AWS](https://zigispace.net/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B0%80%EC%83%81%ED%99%94/AWS)
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
