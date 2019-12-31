@@ -174,6 +174,7 @@ Haskell
 * [Functional Programming And Formal Software Verification For Non Industry Applications - Or - Why you should learn Haskell and Coq](https://medium.com/@fabian.schneider/functional-programming-and-formal-software-verification-for-non-industry-applications-fefa24371856)
 * [github.com/leechanwoo/APSS/tree/master/haskell](https://github.com/leechanwoo/APSS/tree/master/haskell)
 * [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)
+* [Advent of Haskell - Thoughts and lessons learned after using Haskell consistently for 25 days in a row](https://medium.com/@mvaldesdeleon/advent-of-haskell-950d6408a729)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
