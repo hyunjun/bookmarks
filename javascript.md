@@ -528,6 +528,7 @@ Javascript
 * [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 * [닌자 코드](https://ko.javascript.info/ninja-code) 하면 안 되는 코드 작성 방식 설명
 * [SPA에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
+* [POLA Would Have Prevented the Event-Stream Incident](https://medium.com/agoric/pola-would-have-prevented-the-event-stream-incident-45653ecbda99)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -622,6 +623,7 @@ Javascript
 * [Change Detection 중심 Angular 최적화 방법](https://medium.com/coinone-official/change-detection-중심-angular-최적화-방법-957962ba3d2e)
 * [3 ways to communicate between Angular components](https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb)
 * [카카오커머스를 지탱하는 Angular](https://tech.kakao.com/2019/11/27/kakao-commerce-frontend-angular/)
+* [10 Useful Angular Features You’ve Probably Never Used](https://blog.bitsrc.io/10-useful-angular-features-youve-probably-never-used-e9e33f5c35a7)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
