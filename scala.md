@@ -678,6 +678,7 @@ Scala
   * [Fuck yeah type erasure](https://meta.plasm.us/posts/2019/09/06/fuck-yeah-type-erasure/)
   * [A Scala “functional programming style” To-Do List application written with Cats](https://alvinalexander.com/scala/functional-programming-to-do-list-application-cats)
   * [Describing State in FP Scala](https://medium.com/wix-engineering/describing-state-in-fp-scala-522982764f07)
+  * [Guide to Data Validation with Scala and Cats](https://medium.com/wix-engineering/guide-to-data-validation-with-scala-and-cats-5d49d00d9e43)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
