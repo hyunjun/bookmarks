@@ -184,6 +184,7 @@ iOS
 * [Learn Swift - A whirlwind tour of the Swift programming language](http://books.aidanf.net/learn-swift)
 * [“요즘 뜨는 4대 프로그래밍 언어, 이렇게 배워보세요”](http://www.bloter.net/archives/230851)
 * [Let's Build Swift.Array](https://www.mikeash.com/pyblog/friday-qa-2015-04-17-lets-build-swiftarray.html)
+* [Swift의 Array가 멀티쓰레드에서 안전하지 않은데 어떻게 하면 될까요? (Stack Overflow)](https://wlaxhrl.tistory.com/84)
 * [Swift Function Fun Facts](http://dduan.net/post/2015/04/swift-function-fun-facts/)
 * [A Functional Reactive Kit for Swift](https://github.com/bontoJR/DeLorean/)
 * [Functional Signal Processing Using Swift](http://www.objc.io/issue-24/functional-signal-processing.html)
