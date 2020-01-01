@@ -123,7 +123,6 @@ Git
 * [**#gdc13 #review Working Together: Solutions for Collaborative Asset Creation**](http://ohyecloudy.com/pnotes/archives/gdc13-working-together-solutions-for-collaborative-asset-creation/)
 * [드디어 보이는 Git의 미래](https://www.youtube.com/watch?v=I6SiIXDzhHA)
   * [Git at Scale](https://www.visualstudio.com/learn/git-at-scale/)
-* [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
 * [Using BFG Repo Cleaner tool to remove sensitive files from your git repo](https://github.com/IBM/BluePic/wiki/Using-BFG-Repo-Cleaner-tool-to-remove-sensitive-files-from-your-git-repo)
 * [Announcing GitHub Desktop 1.0](https://github.com/blog/2437-announcing-github-desktop-1-0)
 * [회사에서 깃(Git)을 쓰고 싶어요](http://sunphiz.me/wp/archives/2436)
@@ -357,6 +356,9 @@ Git
   * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
   * `git diff <branch1>..<branch2> -- <filename>` branch간 특정 file 비교
   * `gitub.com/<id>/<repo>/compare/<branch1>...<branch2>` browser에서 비교
+* filter-branch
+  * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
+  * [Git에 커밋 된 커밋하면 안될 파일 제거하기](https://chaewonkong.github.io/posts/git-remove-commited-file.html)
 * gitignore
   * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
   * [gitignore.io](https://www.gitignore.io/)
