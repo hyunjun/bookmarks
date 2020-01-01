@@ -243,6 +243,7 @@
   * [Firestore 에 올리기](https://jusths.tistory.com/112)
 * [How to Setup a Headless Raspberry Pi](https://hackernoon.com/how-to-setup-a-headless-raspberry-pi-7f2b8b00c790)
 * [Raspberry Pi admits to faulty USB-C design on the Pi 4](https://arstechnica.com/gadgets/2019/07/raspberry-pi-4-uses-incorrect-usb-c-design-wont-work-with-some-chargers/)
+* [Raspberry Pi 4B 설치가이드 Raspbian OS 설치](https://www.youtube.com/watch?v=tqYRBDcEBRQ)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
