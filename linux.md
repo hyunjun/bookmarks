@@ -259,6 +259,7 @@ Linux
   * `find <dir> -not -newermt 2010-01-01` [Shell script to find files older than 1st Jan 2010](http://stackoverflow.com/questions/4378450/shell-script-to-find-files-older-than-1st-jan-2010)
   * `find . -type d -exec zip -r {}.zip {} \;` 현재 directory의 sub directory들을 찾아 각각의 이름으로 압축
   * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
+  * [Linux - Linux Command for finding files](https://chaewonkong.github.io/posts/linux-command-for-finding-files.html)
 * `fold`
   * [File character counts](https://www.johndcook.com/blog/2019/10/16/file-character-counts/) fold 응용
 * `grep`
@@ -284,6 +285,7 @@ Linux
   * [Killing a process and all of its descendants](http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html)
 * `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* locate
 * `ls`
   * [Linux ls Command: Sort Files By Size](https://www.cyberciti.biz/faq/linux-ls-command-sort-by-file-size/)
 * `mkdir`
