@@ -379,6 +379,7 @@ NLP
 * [StructBert Review](https://baekyeongmin.github.io/paper-review/structbert-review/)
 * [Using BERT For Classifying Documents with Long Texts](https://medium.com/@armandj.olivares/using-bert-for-classifying-documents-with-long-texts-5c3e7b04573d)
 * [AI조직에서의 1년](http://freesearch.pe.kr/archives/4981)
+* [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
@@ -816,6 +817,7 @@ NLP
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
   * [natto-py - combines the Python programming language with MeCab, the part-of-speech and morphological analyzer for the Japanese language](https://github.com/buruzaemon/natto-py)
+  * [python-mecab - A repository to bind mecab for Python 3.5+. Not using swig nor pybind. https://pypi.org/project/python-mecab ](https://github.com/jeongukjae/python-mecab)
 * [Memory Networks](https://github.com/facebook/MemNN)
 * [mit-nlp](https://github.com/mit-nlp)
 * [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT/blob/master/README.md)
