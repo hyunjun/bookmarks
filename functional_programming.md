@@ -131,6 +131,7 @@ Functional Programming
 * [Functors and Category Theory Introductory](https://functional.works-hub.com/learn/functors-and-category-theory-introductory-3e3da)
 * [Functor, Applicative, and Why](https://medium.com/axiomzenteam/functor-applicative-and-why-8a08f1048d3d)
 * [Generalizing functions with Profunctors](https://medium.com/@wigahluk/generalizing-functions-with-profunctors-7773a83557b5)
+* [Handling Errors with Profunctor Optics - Using Optical Proxies to Short-circuit and Retry APIs](https://medium.com/@wigahluk/handling-errors-with-profunctor-optics-d34f97b0cc1a)
 
 # Go
 * [sum type 대신](https://medium.com/@jooyunghan/go-sum-type-%EB%8C%80%EC%8B%A0-b9efdb47442e)
