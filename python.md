@@ -506,8 +506,8 @@ Python
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
 * collections
   * [파이썬 Collections 모듈 이해하기](http://www.slideshare.net/dahlmoon/collections-20160313)
-  * Counter
-    * [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
+  * Counter [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
+  * deque [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
 * configparser
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
 * copy
