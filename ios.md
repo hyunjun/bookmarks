@@ -248,6 +248,7 @@ iOS
 * [Swift Protocol 적재적소에 사용하기](https://news.realm.io/kr/news/understanding-swift-protocol/)
 * [프로토콜](http://blog.yagom.net/562)
 * [Swift Protocol 적재적소에 사용하기](http://news.realm.io/kr/news/understanding-swift-protocol/)
+* [프로토콜 확장으로 기능을 추가하기](https://wlaxhrl.tistory.com/86)
 * [Generics](http://wlaxhrl.tistory.com/60)
 * [Swift Generics](https://dailyhotel.io/swift-generics-5d88e834b2cc)
 * [Access Control](http://wlaxhrl.tistory.com/61)
