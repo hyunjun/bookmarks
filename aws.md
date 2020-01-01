@@ -355,6 +355,7 @@ AWS
 * [Three ways to reduce the costs of your HTTP(S) API on AWS](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html)
 * [**All my serverless content in 2019**](https://medium.com/theburningmonk-com/all-my-serverless-content-in-2019-8e59aa8974b6)
 * [**serverless framework plugins 내가 쓰는 플러그인과 이유**](https://libsora.so/posts/serverless-framework-plugins/)
+* [Serverless - TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
