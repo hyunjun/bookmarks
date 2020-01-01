@@ -169,6 +169,7 @@ Web
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
 * [회원가입을 쉽게 만드는 UI/UX 디자인은?](https://brunch.co.kr/@dalgudot/101) mobile web 이야기이지만 component의 선택도 데이터에 의해 해야한다는 점에서 참고할 만한 이야기
 * [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
+* [Building and deploying modern websites and apps - GitHub Universe 2019](https://www.youtube.com/watch?v=KlO5Ksk7baQ)
 
 # Apache
 * installation
@@ -634,7 +635,8 @@ Web
 * [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
 * [REST Tutorial - How to Design a Good RESTful API](https://www.youtube.com/watch?v=sMKsmZbpyjE) 매우 기본적인 사항에 대한 리뷰
 * [RESTful API 설계](https://www.slideshare.net/brotherjinho/restful-api-64494716)
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+* [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
+* [Long Running Operation with Polling](http://restalk-patterns.org/long-running-operation-polling.html)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
