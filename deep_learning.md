@@ -38,6 +38,7 @@ Deep Learning
 * [수학포기자를 위한 딥러닝-#3 텐서플로우로 선형회귀 학습을 구현해보자](http://bcho.tistory.com/1141)
 * [수학포기자를 위한 딥러닝-#4 로지스틱 회귀를 이용한 분류 모델](http://bcho.tistory.com/1142)
 * [수학포기자를 위한 딥러닝과 텐서플로우의 이해](http://bcho.tistory.com/1208)
+* [How-to-learn-Deep-Learning/README_kr.md](https://github.com/Huffon/How-to-learn-Deep-Learning/blob/master/README_kr.md)
 * [수학자는 어떻게 인공지능을 발전시키는가?](https://brunch.co.kr/@kakao-it/244)
 * [Deep Dive into Math Behind Deep Networks](https://towardsdatascience.com/https-medium-com-piotr-skalski92-deep-dive-into-deep-networks-math-17660bc376ba)
 * [MathsDL-spring18 - Topics course Mathematics of Deep Learning, NYU, Spring 18](https://joanbruna.github.io/MathsDL-spring18/)
