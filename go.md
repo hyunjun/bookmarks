@@ -182,6 +182,7 @@ Go
 * [Go by Example](https://gobyexample.com/)
 * [예제로 배우는 GO 프로그래밍](http://golang.site/)
 * [Function and Method Overloading in Golang](http://changelog.ca/log/2015/01/30/golang)
+* [Anatomy of methods in Go](https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a)
 * [다른 언어에서 Go 함수 호출하기](http://hamait.tistory.com/874)
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
