@@ -720,6 +720,7 @@ Docker
     * [#2-4 Helm Chart Hook](https://bcho.tistory.com/1340)
     * [#2-5. Chart 배포 (Repository)](https://bcho.tistory.com/1341)
 * Istio [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
+* k3s [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
 * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
