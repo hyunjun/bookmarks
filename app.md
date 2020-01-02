@@ -546,6 +546,7 @@ App
   * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
   * [Generate a spectrogram-scrolling video of an audio file](https://keunwoochoi.wordpress.com/2019/07/18/generate-a-spectrogram-scrolling-video-of-an-audio-file/)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
+* [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
