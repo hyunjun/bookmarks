@@ -153,6 +153,8 @@
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [xi editor - A modern editor with a backend written in Rust. https://xi-editor.io ](https://github.com/xi-editor/xi-editor)
   * [xi editor project is an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor)
+* [xsv - A fast CSV command line toolkit written in Rust](https://github.com/BurntSushi/xsv)
+  * [Doing a database join with CSV files](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/)
 
 # Python
 * [Rust for Python Programmers](http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
