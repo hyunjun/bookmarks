@@ -354,6 +354,7 @@ AWS
 * [데이터가 모든 것을 지배하는 곳, 아마존닷컴](https://ppss.kr/archives/207228)
 * [Three ways to reduce the costs of your HTTP(S) API on AWS](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html)
 * [**All my serverless content in 2019**](https://medium.com/theburningmonk-com/all-my-serverless-content-in-2019-8e59aa8974b6)
+* [My 2019 Serverless year in review](https://www.linkedin.com/pulse/my-2019-serverless-year-review-eric-johnson/)
 * [**serverless framework plugins 내가 쓰는 플러그인과 이유**](https://libsora.so/posts/serverless-framework-plugins/)
 * [Serverless - TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
 
