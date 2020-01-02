@@ -405,6 +405,7 @@ Python
 * [초간단 업무자동화 코딩 강좌 #1/10:상장 일괄제작 | 회사원생존코딩](https://www.youtube.com/watch?v=1pC_UXhiJH8) 아래아한글
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
+* [Minimizing context switching between shell and Python](https://www.johndcook.com/blog/2019/12/30/shell-and-python/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -528,9 +529,11 @@ Python
 * csv
   * [Reading and Writing to CSVs in Python Playing with tabular data the native Python way](https://hackingandslacking.com/reading-and-writing-to-csvs-in-python-7dd72c03dc7f)
   * [How to combine multiple CSV files with 8 lines of code](https://medium.freecodecamp.org/how-to-combine-multiple-csv-files-with-8-lines-of-code-265183e0854)
+  * [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
+  * [csvkit - A suite of utilities for converting to and working with CSV, the king of tabular file formats. http://csvkit.rtfd.org ](https://github.com/wireservice/csvkit)
+    * [Exporting Excel files to CSV with in2csv](https://www.johndcook.com/blog/2019/12/30/excel-to-csv/)
   * [csvsort - Sort large CSV files on disk rather than in memory](https://pypi.python.org/pypi/csvsort/1.0)
   * [csvsql - Query CSV files using SQL](https://github.com/rs86/csvsql)
-  * [Reading and Writing CSV Files in Python](https://realpython.com/python-csv/)
 * [ctypes](https://docs.python.org/2/library/ctypes.html)
   * [ctypes tutorial](http://starship.python.net/crew/theller/ctypes/tutorial.html)
   * [ctypes_tutorial](https://github.com/krikit/ctypes_tutorial) ctypes, ctypesgen
@@ -3404,6 +3407,7 @@ Python
 * [SciPy 2015: Scientific Computing with Python Conference](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gcpabmu61kKcToLz0FapmHu&)
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 * [2D Convolution in Python similar to Matlab's conv2](http://stackoverflow.com/questions/16121269/2d-convolution-in-python-similar-to-matlabs-conv2)
+* [Area of sinc and jinc function lobes](https://www.johndcook.com/blog/2019/12/31/sinc-jinc-lobes/)
 
 # [SymPy](http://www.sympy.org/)
 * [Unification in SymPy](http://matthewrocklin.com/blog/work/2012/11/01/Unification/)
