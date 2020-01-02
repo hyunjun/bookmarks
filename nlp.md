@@ -307,6 +307,7 @@ NLP
 * [한국어 데이터 Tokenizer](http://www.dafit.me/question/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=2622480&t=board)
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)
 * [일본어 NLP 프로젝트 시작하기](https://blog.pingpong.us/japanese/)
+* [자연언어처리(NLP)... 무엇이며, 그 기술과 시장은?](http://www.aitimes.kr/news/articleView.html?idxno=15036)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
