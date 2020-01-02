@@ -1490,6 +1490,7 @@ Programming
   * [기술 뉴스 #138 : 19-11-16](https://blog.outsider.ne.kr/1466)
   * [기술 뉴스 #139 : 19-12-02](https://blog.outsider.ne.kr/1467)
   * [기술 뉴스 #140 : 19-12-16](https://blog.outsider.ne.kr/1471)
+  * [기술 뉴스 #141 : 20-01-02](https://blog.outsider.ne.kr/1473)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1514,6 +1515,7 @@ Programming
   * [월간 개발자스럽다 #47](https://blog.gaerae.com/2019/09/monthly.html)
   * [월간 개발자스럽다 #48](https://blog.gaerae.com/2019/10/monthly.html)
   * [월간 개발자스럽다 #49](https://blog.gaerae.com/2019/11/monthly.html)
+  * [월간 개발자스럽다 #50](https://blog.gaerae.com/2019/12/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 
 # OS Operating System
