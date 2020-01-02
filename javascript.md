@@ -525,6 +525,7 @@ Javascript
 * [닌자 코드](https://ko.javascript.info/ninja-code) 하면 안 되는 코드 작성 방식 설명
 * [SPA에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
 * [POLA Would Have Prevented the Event-Stream Incident](https://medium.com/agoric/pola-would-have-prevented-the-event-stream-incident-45653ecbda99)
+* [**웹 개발자의 지옥, 이메일 폼 개발하기**](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html) 내용 자체뿐만 아니라 내용 전개 방법도 좋음
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1269,6 +1270,7 @@ Javascript
   * [Webpack Watch의 메모리 누수 고치기](https://evan-moon.github.io/2019/08/08/fix-webpack-dev-memory-leak)
   * [웹팩 핸드북(e북) 안내](https://joshua1988.github.io/web-development/webpack/webpack-guide/)
   * [프론트엔드 개발환경의 이해: 웹팩(기본)](http://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
+  * [프론트엔드 개발환경의 이해: 웹팩(심화)](http://jeonghwan-kim.github.io//series/2020/01/02/frontend-dev-env-webpack-intermediate.html)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -2470,6 +2472,7 @@ Javascript
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
+* [**JavaScript & Node.js Testing Best Practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
 * [Jest - a delightful JavaScript Testing Framework with a focus on simplicity](https://jestjs.io/)
   * [Jest matching objects in array](https://medium.com/@andrei.pfeiffer/jest-matching-objects-in-array-50fe2f4d6b98)
   * [Error: Cannot find module (...) from (...) - TypeScript problem - React](https://frontendcat.com/cannot-find-module-react-jest/)
