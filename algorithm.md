@@ -246,6 +246,7 @@ Algorithm
 * [디시전 트리 보는 방법 _ 전용준.리비젼](https://www.youtube.com/watch?v=e15BpXdGZ5o)
 * [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/blob/master/README.md)
 * [Introduction to Decision Trees (Titanic dataset)](https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset)
+* [Entropy: How Decision Trees Make Decisions](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 * [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
   * [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 
