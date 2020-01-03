@@ -140,6 +140,7 @@ Functional Programming
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 * [Higher-Order Function 이란 무엇인가](https://medium.com/@la.place/higher-order-function-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-1c61e0bea79)
 * [Higher-Order Function 이란 무엇인가](https://hg-pyun.github.io/what-is-higher-order-function/)
+* [Template Method rocks but Higher Order Function can do the trick](https://medium.com/qualyteam-engineering/template-method-rocks-but-higher-order-function-can-do-the-trick-bbef12ac6c70)
 
 # Java
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
@@ -314,6 +315,7 @@ Functional Programming
 * [On Eliminating Error in Distributed Software Systems](https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/)
 * [Hangman in FP Scala](https://medium.com/wix-engineering/hangman-in-fp-scala-609e1eb8c733)
 * [Functional Programming features in Scala](https://gist.github.com/kevvo83/05d2f6cca40d9a5336722c3d52a14873)
+* [Currying in Scala: A Useful Example](https://medium.com/@kadirmalak/currying-in-scala-a-useful-example-bd0e3a44195)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
