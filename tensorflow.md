@@ -833,7 +833,10 @@ TensorFlow
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
   * [tensorspace - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org ](https://github.com/tensorspace-team/tensorspace)
-  * twilio [How Positive was Your Year with TensorFlow.js and Twilio](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
+  * twilio
+    * [How Positive was Your Year with TensorFlow.js and Twilio](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
+      * TensorFlow.js는 긍정/부정 감정 레이블과 CNN/LSTM의 두 가지 모델 아키텍처를 고려하여 IMDB에서 제공한 25,000개의 영화 리뷰에 대해 사전 훈련된 모델을 제공
+      * 여기서는 CNN을 사용해 Twilio API에서 오래된 문자 메시지를 검색하고 정규식으로 입력을 정리하고 JavaScript의 TensorFlow를 사용해 텍스트에 대한 감정 분석 수행
 * TensorFlow Lattice
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
