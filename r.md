@@ -567,6 +567,7 @@ R
   * [meetup 20190926](https://github.com/shinykorea/Meetup/tree/master/20190926)
   * [Login module for ShinyApps](https://jinseob2kim.github.io/LectureRpackage/shinymanager/)
   * [RUCK2019 발표: From ShinyApps to CRAN](https://blog.zarathu.com/posts/2019-10-25-ruck2019/)
+  * [Introducing the Shiny Production with AWS Book](https://www.r-bloggers.com/introducing-the-shiny-production-with-aws-book/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
