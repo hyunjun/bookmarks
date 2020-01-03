@@ -2731,6 +2731,7 @@ Javascript
 * [React의 고차 컴포넌트(HOC) 패턴, 이제는 Vue에도 적용해보자](https://wormwlrm.github.io/2019/09/08/Higher-Order-Component-pattern-in-Vue.html)
 * [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
+  * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
 * [Filtering Data The Vue Way](https://devgrill.com/filtering-data-the-vue-way/)
 * [Let's Learn VueJS #1 - Intro](https://www.youtube.com/watch?v=Jrtkj6lTsYw)
 * [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap)
