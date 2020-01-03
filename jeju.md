@@ -40,6 +40,7 @@
 * [동서남북 양조장으로 둘러싸인 삼다도, 술 여행 떠나볼까](http://v.media.daum.net/v/20170418104544259)
 * [제주도에서 먹고온 음식점 사용기](https://www.clien.net/service/board/use/10748210)
 * [제주도 빵집 서귀포 봉주르마담](http://wangeme.blog.me/220951950308)
+* [제주도 식당 및 카페, 베이커리 정보](https://docs.google.com/spreadsheets/d/17PIrAN80zpt8Q7tg-jCC3shyv0P-YzoBhispqMrf22Y)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
