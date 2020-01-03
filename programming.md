@@ -313,6 +313,7 @@ Programming
 * [당장 실행할 수 있는 애자일 실천법](https://selfothercontext.com/2019/10/28/agile-practices/)
 * [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques)
 * [Common Mistakes in Agile Implementations](https://medium.com/not-so-technical/common-mistakes-in-agile-implementations-21a6d999bc91)
+* [당신의 개발자들은 결코 느리지 않다](http://tech.trenbe.com/?p=547)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
