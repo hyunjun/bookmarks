@@ -380,6 +380,8 @@ NLP
 * [StructBert Review](https://baekyeongmin.github.io/paper-review/structbert-review/)
 * [Using BERT For Classifying Documents with Long Texts](https://medium.com/@armandj.olivares/using-bert-for-classifying-documents-with-long-texts-5c3e7b04573d)
 * [AI조직에서의 1년](http://freesearch.pe.kr/archives/4981)
+* [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (1/2)](https://paul-hyun.github.io/bert-01/)
+* [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (2/2)](https://paul-hyun.github.io/bert-02/)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 
 # Book
@@ -632,6 +634,10 @@ NLP
 * [Deep Transfer Learning for Natural Language Processing — Text Classification with Universal Embeddings](https://towardsdatascience.com/deep-transfer-learning-for-natural-language-processing-text-classification-with-universal-1a2c69e5baa9)
 * [Democratizing NLP content modeling with transfer learning using GPUs - Sanghamitra Deb](https://www.youtube.com/watch?v=9XXRHoKinwI)
 * [The State of Transfer Learning in NLP](http://ruder.io/state-of-transfer-learning-in-nlp)
+* [Using Transfer Learning for NLP with Small Data](https://blog.insightdatascience.com/using-transfer-learning-for-nlp-with-small-data-71e10baf99a6)
+  * 이미지 분류 작업의 경우 Transfer Learning은 레이블이 적은 데이터세트로 우수한 정확도를 제공하여 매우 효과적인 것으로 입증
+  * Transfer Learning은 한 데이터세트에서 다른 데이터세트로 학습된 지식을 전송할 수 있는 기술
+  * Transfer Learning을 텍스트 분류에 사용하기 쉽게 만드는 이 프로젝트를 통해 단지 500개의 IMDB 영화 리뷰 데이터세트로 83%의 분류 정확도 달성
 * [Develop a NLP Model in Python & Deploy It with Flask, Step by Step - Flask API, Document Classification, Spam Filter](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
 * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification) CBOW, CNN, DCNN, RNN, LSTM
 * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
