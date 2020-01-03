@@ -171,8 +171,6 @@ Scala
 * [github.com/ikhoon/scala-note](https://github.com/ikhoon/scala-note)
 * [How to turn ugly Java APIs into elegant, type-safe Scala APIs](https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2)
 * [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
-* [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
-* [Lessons Learned Building a Van Laarhoven Lens Library](http://www.doscienceto.it/blog/posts/2019-12-19-optics.html)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 * [Exceptions, referential transparency and your Scala code](https://medium.com/@itay.maman/exceptions-referential-transparency-and-your-scala-code-4fc3f84043ad)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
@@ -226,6 +224,7 @@ Scala
 * [Making the Matrix with Scala](https://www.youtube.com/watch?v=UqOmobgbP7w)
 * [Tame your config](https://blog.softwaremill.com/tame-your-config-2e89b1669dd9)
 * [Scala: and using it in a Startup in 2019](https://medium.com/style-theory-engineering/scala-and-using-it-in-a-startup-in-2019-42e56110e887)
+* [SPNEGO Token generation](https://medium.com/se-notes-by-alexey-novakov/spnego-token-generation-90c4267f784e)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -386,6 +385,7 @@ Scala
 * [Streaming data with Apache Kafka and Akka Streams](https://medium.com/cloudnesil/https-medium-com-gokhan-gurgec-streaming-data-with-apache-kafka-and-akka-streams-969a411660db)
 * [Rethinking Streaming Workloads with Akka Streams: Part I](https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-i/)
 * [Rethinking Streaming Workloads with Akka Streams: Part II](https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-ii/)
+* [WebSocket Streaming with Scala - How Akka Streams can make life easier](https://towardsdatascience.com/websocket-streaming-with-scala-fab2feb11868)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -407,6 +407,8 @@ Scala
 * [Sizeof in Scala](http://yannmoisan.com/sizeof-in-scala.html) using `import org.apache.spark.util.SizeEstimator._`
 * [Visitors - a tale of generalization](https://medium.com/virtuslab/visiting-a-listener-and-where-generalization-may-lead-us-3a623e75652)
 * [My favorite new features of Scala 2.13 standard library](https://medium.com/wix-engineering/my-favorite-new-features-of-scala-2-13-standard-library-909a89b0da4)
+* [Operator overloading in Scala and Kotlin: two slightly different ways](https://medium.com/@alonso.delarte/operator-overloading-in-scala-and-kotlin-two-slightly-different-ways-2e8e2546ede4)
+* [Standardizing IO Interfaces for Scala Libraries](http://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -543,6 +545,7 @@ Scala
     * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
     * [Becoming a better functional programmer](https://medium.com/@dorsever/becoming-a-better-functional-programmer-4e32ad6252c8)
     * [Wrapping impure code with ZIO](https://medium.com/@ghostdogpr/wrapping-impure-code-with-zio-9265c219e2e)
+    * [How to use the same Test for different Implementations with ZIO](https://medium.com/@pascal.mengelt/how-to-use-the-same-test-for-different-implementations-with-zio-ded024e55b12)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
@@ -643,6 +646,7 @@ Scala
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
 * [TOP 10 SCALA LIBRARIES FOR DATA SCIENCE](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
+* [Scala tooling in 2019](https://geirsson.com/2019.html)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
@@ -855,6 +859,12 @@ Scala
 * [Scala Logging - a convenient and fast logging library wrapping SLF4J](https://github.com/lightbend/scala-logging)
 * [scribe - Practical logging framework that doesn't require any other logging framework and can be completely configured programmatically](https://github.com/outr/scribe)
 
+## Library Optics
+* [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
+* [Lessons Learned Building a Van Laarhoven Lens Library](http://www.doscienceto.it/blog/posts/2019-12-19-optics.html)
+* [Monocle - Optics library for Scala](https://github.com/julien-truffaut/Monocle)
+  * [State of Monocle](https://fp-tower.github.io/2019-12-30-state-of-monocle/)
+
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
 * [Simple Web and Api Servers with Scala](http://www.lihaoyi.com/post/SimpleWebandApiServerswithScala.html)
@@ -907,6 +917,7 @@ Scala
 * [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
 * [EXPLORING TAGLESS FINAL PATTERN FOR EXTENSIVE AND READABLE SCALA CODE](https://scalac.io/tagless-final-pattern-for-scala-code)
 * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) tagless final
+* [Using Tagless Final with laws - Scala tutorial](https://www.youtube.com/watch?v=mkQLU7OzqYM)
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
@@ -961,6 +972,7 @@ Scala
 * [Automate SOAP client auto-generation routines with WSDL import for SBT and Scala](https://medium.com/@vladimirsalin/automate-soap-client-auto-generation-routines-with-wsdl-import-for-sbt-and-scala-1b3e2ce5d2ba)
 * [Rock your sbt build time: Understand how sbt works](https://www.triplequote.com/blog/2019-25-09-rock-your-sbt-build-understand-how-sbt-works/)
 * [Cross-compiling In Scala](https://medium.com/bigpanda-engineering/cross-compiling-in-scala-bb491682ffcf)
+* [SBT for the absolute beginner 1 (Basics and dependency Management)](https://medium.com/@awesomeorji/sbt-for-the-absolute-beginner-1-basics-and-dependency-management-74098385dda2)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
@@ -1025,6 +1037,7 @@ Scala
   * [YOW! Lambda Jam 2017 Jacob Stanley - Gens N’ Roses: Appetite for Reduction](https://www.youtube.com/watch?v=AIv_9T0xKEo)
   * [State-based Testing (Hedgehog) - Charles O'Farrell (2019-09-23)](https://www.youtube.com/watch?v=YhAxC_VI2dc)
     * Property-based testing 툴을 통해서 입력 값을 랜덤으로 받아서 테스트 하던것을 넘어 상태 변화까지 랜덤으로 테스트 가능
+* Mockito [Mocking The Right Way - Introduction to Mockito](https://medium.com/@knoldus/mocking-the-right-way-e888ed39646f)
 * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
   * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
 * [ScalaTest](http://www.scalatest.org/)
@@ -1136,3 +1149,4 @@ Scala
 * [15 Reasons to Learn Scala from N-iX Developers](https://medium.com/@N_iX/15-reasons-to-learn-scala-from-n-ix-developers-822af5b49e1a)
 * [My Way to Scala — part 1](https://blog.softwaremill.com/my-way-to-scala-part-1-6765b55ad68a)
 * [Tic-tac-toe in FP Scala](https://medium.com/wix-engineering/tic-tac-toe-in-fp-scala-29b9162ebc3e)
+* [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
