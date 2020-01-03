@@ -266,6 +266,7 @@ Programming
 * [**복잡한 업무 코드를 빠르게 분석하기**](https://www.popit.kr/%EB%B3%B5%EC%9E%A1%ED%95%9C-%EC%97%85%EB%AC%B4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%98%EA%B8%B0) 이게 무조건 맞는 방법은 아니겠지만 참고하기 좋은 글
 * [AI에서 단일, 이중, 다중, 혼합 정밀도 컴퓨팅의 차이는 무엇인가?](http://www.aitimes.kr/news/articleView.html?idxno=14687)
 * [프로덕트, 프로그램, 프로젝트 매니저? 뭐가 다른가요?](https://brunch.co.kr/@ywkim36/10)
+* [가성비 넘치게 0원으로 사이드프로젝트 VWAVWA 시작하기](https://miryang.dev/2019/12/17/start-sideproject-vwavwa/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1048,6 +1049,7 @@ Programming
   * Available both in audio form and as a transcript, InfoQ has a podcast with Josh Wills that covers the evolution of data engineering and machine learning at Slack. The interview covers their data pipeline, which feeds into big data systems for BI/data warehousing and ML products. The interview also covers the kinds of products they build with machine learning and some thoughts on the future of observability for ML pipelines.
 * [The Architecture of a Large-Scale Web Search Engine, circa 2019 - Our Journey to Microservices, Kubernetes and beyond](https://www.0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
   * Cliqz, makers of a web search engine, have a comprehensive post on their architecture. Their near real-time indexing system is built with Apache Kafka, Apache Cassandra, and RocksDB while their batch indexing system is built on MapReduce and Spark with Luigi for managing workflows. The post also describes how they manage Kubernetes clusters, use Helm/Helmfile for package management, and leverage Tilt and K9s for local development. They also share on how they optimize costs and describe their machine learning pipelines.
+* [Scaling a Mature Data Pipeline — Managing Overhead](https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
