@@ -721,6 +721,7 @@ Deep Learning
 * [작고 빠른 딥러닝 그리고 Edge Computing](https://www.slideshare.net/slideshow/embed_code/key/9gaEyFbAxBOw9Q)
 * [Is Rectified Adam actually better than Adam?](https://www.pyimagesearch.com/2019/10/07/is-rectified-adam-actually-better-than-adam/)
 * [Deep-Learning-in-Production - In this repository, I will share some useful notes and references about deploying deep learning-based models in production](https://github.com/ahkarami/Deep-Learning-in-Production)
+* [XOR solvable activation function helps DNNs](https://github.com/sunggukcha/xor)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
