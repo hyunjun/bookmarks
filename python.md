@@ -412,6 +412,7 @@ Python
 * [한글깨기.py](https://github.com/anaclumos/hangulbreak/blob/master/%ED%95%9C%EA%B8%80%EA%B9%A8%EA%B8%B0.py)
 * [한글깨기.py & Enyg.py (은는이가.py)](https://github.com/anaclumos/hangulbreak)
 * [한글과 관련된 여러가지 기능을 포함한 Python 라이브러리](https://github.com/mapmiddle/Korean)
+* [파이썬으로 한/글 문서비교 툴 구현해보기(1/2)](https://www.youtube.com/watch?v=qE6WoGNQPJc)
 * [awesome-hangul#python](https://github.com/lqez/awesome-hangul#python)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [hangul-utils - An integrated library for Korean language preprocessing](https://github.com/kaniblu/hangul-utils)
