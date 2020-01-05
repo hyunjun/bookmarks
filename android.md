@@ -261,6 +261,8 @@ Android
   * [Map 과의 상호작용 분리하기](https://medium.com/@jsuch2362/map-과의-상호작용-분리하기-de2bf8c9e837)
   * [RxJava2의 Global Error Handler 대응 #UndeliverableException](https://developer88.tistory.com/215)
   * [RxJava와 Coroutines을 간단하게 알아보자](https://thdev.tech/android/2019/11/30/RxJava-Corotuines-01/)
+  * [RxJava로 LiveData 따라해보기 1](https://soda1127.github.io/reactive-variable-like-livedata/)
+  * [RxJava로 LiveData 따라해보기 2](https://soda1127.github.io/reactive-variable-like-livedata-2/)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * HTTP
