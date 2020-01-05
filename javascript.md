@@ -1699,6 +1699,7 @@ Javascript
 
 # Purescript
 * [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
+* [PureScript and Haskell at Lumi](https://medium.com/fuzzy-sharp/purescript-and-haskell-at-lumi-7e8e2b16fb13)
 
 # [React](http://reactkr.github.io/react)
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부, codesandbox.io 이용
