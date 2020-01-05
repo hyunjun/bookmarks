@@ -154,6 +154,7 @@ Git
 * [깃(Git)과 함께 개발하기](https://tech.10000lab.xyz/git/using-git-as-you-work.html)
 * [**깃(Git) 유용한 팁**](https://tech.10000lab.xyz/git/git-tips-you-need.html)
 * [깃(Git) 필수 명령어](https://tech.10000lab.xyz/git/git-cheat-sheet.html)
+* [가장 쉬운 Git 강좌 - (상) 혼자작업편](https://www.youtube.com/watch?v=FXDjmsiv8fI)
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
 * [GitHub Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
 * [Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/)
