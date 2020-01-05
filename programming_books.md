@@ -1035,6 +1035,8 @@ Programming Books
 * (NOT YET) [빅 너드 랜치의 코틀린 프로그래밍](https://jpub.tistory.com/906)
 * (NOT YET) [코틀린 이것만 보면 돼](https://bjpublic.tistory.com/318)
 * (NOT YET) [{열혈코딩}안드로이드 스튜디오로 만나는 코틀린](https://bjpublic.tistory.com/316)
+* (NOT YET) [코틀린 리액티브 프로그래밍 RxKotlin을 사용한 리액티브 프로그래밍](http://acornpub.co.kr/book/reactive-kotlin)
+  * [**1-00.코틀린을 리액티브하게 Flex하다**](https://soda1127.github.io/flex-reactive-kotlin/)
 
 # Linux
 
