@@ -466,6 +466,7 @@ Linux
 # Fedora
 * [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
 * [A Month as a Fedora QA Tester](https://yisooan.wordpress.com/2019/03/28/a-month-as-a-fedora-qa-tester/)
+* [Fedora 리눅스 업그레이드 후 크롬의 한글 입력기 문제](https://sunyzero.tistory.com/267)
 
 # GCC
 * `yum update -y && yum clean all && yum groupinstall "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
