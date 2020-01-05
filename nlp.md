@@ -646,6 +646,7 @@ NLP
 * [A Basic NLP Tutorial for News Multiclass Categorization](https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5)
   * Natural Language Processing, Support Vector Machine, TF- IDF, deep learning, Spacy, Attention LSTM
   * 헤드 라인과 간단한 설명을 기반으로 뉴스 유형을 식별하여 Python에서 텍스트 데이터의 멀티 클래스 분류 방법을 이해
+* [NLP 튜토리얼: 라벨링 없이 트위터 유저들을 자동으로 나누어보기](https://beomi.github.io/2020/01/05/Clustering_Twitter_Users/)
 
 # Clustering
 * dbscan
