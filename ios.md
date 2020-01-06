@@ -427,6 +427,7 @@ iOS
 * [How to Avoid Protocol Orientation Obsessed Programming](https://medium.com/practical-ios-development/how-to-avoid-protocol-orientation-obsessed-programming-a77afb472272)
 * [Swift Object Oriented Programming](https://www.youtube.com/playlist?list=PLoPKxuu4_dG3jCiMcbskRuNsgZsdZ4zz6)
 * [Opaque Types](https://wlaxhrl.tistory.com/82)
+* [Swift로 작성해보는 기본 자료구조 - Stack, Queue](https://wlaxhrl.tistory.com/87)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
