@@ -486,6 +486,7 @@ Vision
   * 표현 연구의 가장 중요한 목표는 각 작업에 대해 처음부터 다시 학습할 필요없이 많은 양의 일반 데이터에서 표현을 한번에 배우는 것이므로 모든 비전 작업에서 데이터 요구 사항을 줄일 수 있음
   * 그러나 이러한 목표를 달성하기 위해서는 현재와 미래의 방법을 평가할 수 있는 균일한 벤치 마크가 필요
 * [OpenCV(Python) + PyQt](https://blog.xcoda.net/104)
+* [CUDA를 사용하여 OpenCV DNN 실행하기!!](https://www.youtube.com/watch?v=Gfl6EyIhFvM)
 
 # OpenGL
 * [open.gl](https://open.gl/)
