@@ -586,7 +586,7 @@ App
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
-* [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) 워크스페이스 정리
+* [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) spectacle 유사. 워크스페이스 정리. 유료
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
