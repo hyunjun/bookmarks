@@ -59,6 +59,7 @@
 * [알고 보면 재밌는 객체 지향 프로그래밍, OOP 흝어보기](https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/)
 * [**OOP의 추상화(Abstraction)와 다형성(Polymorphism)의 관계**](https://wlaxhrl.tistory.com/78)
 * [Why does object-oriented programming mean so many different things to different people?](https://www.quora.com/Why-does-object-oriented-programming-mean-so-many-different-things-to-different-people)
+* [Gamma Structural Patterns](https://medium.com/@helmi.confo/gamma-structural-patterns-e03465bff4f8)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
