@@ -358,6 +358,7 @@ SQL
 * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 설정편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-config/)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 모니터링편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-monitoring/)
+* [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 활용편 –**](https://gywn.net/2020/01/mysql-innodb-as-cache-server-monitoring-advanced/)
 * [Do Not Pass This Way Again](https://grimoire.ca/mysql/choose-something-else)
 
 ## MySQL Library
