@@ -1314,6 +1314,7 @@ Deep Learning
   * [**d2l-pytorch - This is an attempt to modify Dive into Deep Learning, Berkeley STAT 157 (Spring 2019) textbook's code into PyTorch**](https://github.com/dsgiitr/d2l-pytorch)
   * [Dive into Deep Learning](https://ko.d2l.ai)
   * [Dive into Deep Learning Colab 실습환경 구축](https://gist.github.com/serithemage/44f7bb9ec9eed7cefa5ce48e13f09772)
+  * [Dive into Deep Learning Compiler](http://tvm.d2l.ai/)
 * [DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving](http://deepdriving.cs.princeton.edu/?platform=hootsuite)
 * [Deep_Learning Ahlad Kumar](https://www.youtube.com/playlist?list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
   * [Deep_Learning_7: Simple Examples of Variables, Constants and Placeholders in TensorFlow (Part B)](https://www.youtube.com/watch?v=yYfNsZSSkaQ)
@@ -1348,6 +1349,7 @@ Deep Learning
 * [Spring 2019 Full Stack Deep Learning Bootcamp](https://fullstackdeeplearning.com/march2019)
   * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
 * [STAT 157, Spring 19](https://courses.d2l.ai/berkeley-stat-157/syllabus.html)
+* [MIT Deep Learning](https://deeplearning.mit.edu/)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
