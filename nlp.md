@@ -322,6 +322,7 @@ NLP
 * [한국어 띄어쓰기 프로그램 도전기](https://www.slideshare.net/TaekyoonChoi/taekyoon-choi-pycon)
 * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
   * [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
+* [soyspacing. Heuristic Korean Space Correction, A safer space corrector](https://lovit.github.io/nlp/2018/04/25/soyspacing/)
 
 # BERT
 * [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
@@ -977,6 +978,7 @@ NLP
 * [LSH (Locality sensitive hashing)](http://blog.daum.net/jchern/13627840)
 
 # MOOC, Lecture
+* [언어와 컴퓨터 (100.130)](https://github.com/suzisuti/lecture/tree/master/2018/LC)
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * [List of free resources to learn Natural Language Processing](https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources)
 * [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
