@@ -53,6 +53,7 @@ AWS
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
+* [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
 * [아마존 웹 서비스 계정 생성 후 해야하는 IAM 보안 조치 - 루트 사용자와 IAM 사용자의 차이](https://www.44bits.io/ko/post/first_actions_for_setting_secure_account)
 * [아마존 ECS 클러스터 인스턴스와 서비스용 IAM 역할](https://www.44bits.io/ko/page/amazon-ecs-iam-role-for-cluster-instance-and-service)
 * [IAM Role을 이용해서 EC2에 권한 주기](https://brunch.co.kr/@alden/50)
