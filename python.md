@@ -2104,6 +2104,7 @@ Python
   * [김도형: 파이썬 데이터 분석 3종 세트 - statsmodels, scikit-learn, theano - PyCon APAC 2016](https://www.youtube.com/watch?v=Z5rD3yQ96Lo)
   * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/)
 * [Traitlets](https://github.com/ipython/traitlets)
+* Voila [Voila를 사용해 Jupyter Notebook Dashboard 만들기](https://zzsza.github.io/development/2020/01/06/jupyter_notebook_voila_dashboard/)
 
 ## Jupyter cloud
 * [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
