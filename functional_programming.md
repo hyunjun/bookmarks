@@ -212,6 +212,7 @@ Functional Programming
 * [JavaScript Immutability](https://opentutorials.org/module/4075)
 * [An introduction to Functional JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-javascript-e8dab63bb51d)
 * [선언형으로 대체 가능한 문법들 정리](https://chodragon9.github.io//blog/declarative-function/)
+* [변하지 않는 상태를 유지하는 방법, 불변성(Immutable)](https://evan-moon.github.io/2020/01/05/what-is-immutable/)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [fantasy-land - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
