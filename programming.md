@@ -1636,6 +1636,9 @@ Programming
 * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 
 # RPC
+* [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
+* [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
+* [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
 * grpc
   * [www.grpc.io](http://www.grpc.io/)
     * [Documentation](http://www.grpc.io/docs/)
@@ -1661,9 +1664,8 @@ Programming
   * [gRPC Channel, Stream 개념](http://bcho.tistory.com/1294)
   * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
   * [Microservices with gRPC](https://medium.com/@goinhacker/microservices-with-grpc-d504133d191d)
-* [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
-* [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
-* [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
+* [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
+  * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
