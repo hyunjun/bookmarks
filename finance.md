@@ -180,6 +180,13 @@ Finance
   * [How to use the EDGAR Database in Python | Pagination](https://www.youtube.com/watch?v=GbjNEUgLoHk)
   * [How to use the EDGAR Database in Python | Parsing Responses](https://www.youtube.com/watch?v=4PMEBk9bZSo)
   * [How to use the EDGAR Database in Python | Building Requests](https://www.youtube.com/watch?v=VEFH2A_LLQs)
+* Predicting Stock Price Movement With Random Forests
+  * [Predicting Stock Price Movement With Random Forests | Introduction](https://www.youtube.com/watch?v=V8jZuOtckn8)
+  * [Predicting Stock Price Movement With Random Forests | Data Preprocessing](https://www.youtube.com/watch?v=W2hXbqnrUyY)
+  * [Predicting Stock Price Movement With Random Forests | Indicators](https://www.youtube.com/watch?v=bdEQwJ6SPnA)
+  * [Predicting Stock Price Movement With Random Forests | Building the Model](https://www.youtube.com/watch?v=E2LX_hUHMn0)
+  * [Predicting Stock Price Movement With Random Forests | Model Evaluation](https://www.youtube.com/watch?v=iJmteST6fP8)
+  * [Predicting Stock Price Movement With Random Forests | Model Improvement](https://www.youtube.com/watch?v=ioUtR92tDAA)
 * [Simple Bank Korea](https://github.com/Beomi/simple_bank_korea)
 * [TA-Lib : Technical Analysis Library](http://ta-lib.org/)
   * [Python에 Ta-Lib 설치 문제 해결 방법](https://www.openaitrading.com/python%EC%97%90-ta-lib-%EC%84%A4%EC%B9%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
