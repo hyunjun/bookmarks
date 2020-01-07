@@ -61,8 +61,6 @@
 * [Designing a GC in Rust](http://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/)
 * [Lock-freedom without garbage collection](http://aturon.github.io/blog/2015/08/27/epoch/)
 * [Eliminating branches in Rust for fun... but not much profit](http://kamalmarhubi.com/blog/2015/09/15/eliminating-branches-in-rust-for-fun-but-not-much-profit/)
-* [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
-* [How Rust optimizes async/await: Part 1](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
 * [Rust bare metal on ARM microcontroller](http://antoinealb.net/programming/2015/05/01/rust-on-arm-microcontroller.html)
 * [Running Rust on the Rumprun unikernel](https://gandro.github.io/2015/09/27/rust-on-rumprun/)
 * [When Rust Makes Sense, or The State of Typed Languages - No Fun Allowed](http://m50d.github.io/2015/09/28/when-rust-makes-sense.html)
@@ -110,6 +108,11 @@
 * [rust-oss-template - a simple template for rust language based project](https://github.com/utilForever/rust-oss-template)
 * [Code reuse in Rust](https://medium.com/@dpc_96143/cargo-crev-and-rust-2019-fearless-code-reuse-b75d58398cb8)
 * [github.com/leechanwoo/APSS/tree/master/rust](https://github.com/leechanwoo/APSS/tree/master/rust)
+
+# Async Await
+* [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
+* [How Rust optimizes async/await: Part 1](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
+* [The Talk You've Been Await-ing for](https://www.youtube.com/watch?v=NNwK5ZPAJCk)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
