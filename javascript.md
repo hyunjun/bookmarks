@@ -944,6 +944,7 @@ Javascript
 * [**Babel, Mocha, Karma and Webpack with coverage in order**](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
 * [Choosing the right Node.js Framework: Next, Nuxt, Nest?](https://nodesource.com/blog/next-nuxt-nest)
 * [스타트업 서비스 개발에 도움을 줄 수 있는 Javascript 오픈 소스들](https://www.mimul.com/blog/popular_ui_javascript/)
+* [**2019년 개발 이야기**](https://subicura.com/2020/01/07/2019-dev-summary.html) TypeScript, Prettier, Next.js, GraphQL...
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
