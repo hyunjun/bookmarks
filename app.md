@@ -237,6 +237,7 @@ App
 * [TinaCMS로 편집 가능한 홈페이지 만들기](https://imch.dev/posts/build-a-funny-homepage-with-tina-cms)
   * [gatsby-tinacms-example](https://github.com/iamchanii/gatsby-tinacms-example)
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
+* [**Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자**](https://johngrib.github.io/wiki/my-wiki/)
 * [WordPress The Right Way](https://www.gitbook.com/book/tarendai/wordpress-the-right-way/details)
 
 # Chrome
