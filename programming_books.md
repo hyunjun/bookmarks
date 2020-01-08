@@ -674,6 +674,7 @@ Programming Books
 * (NOT YET) [The DevOps 2.3 Toolkit: Kubernetes](https://blog.outsider.ne.kr/1377)
 * (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
 * (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
+* (NOT YET) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
