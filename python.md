@@ -185,6 +185,7 @@ Python
 * [배준현: 파이썬 메모리 이모저모 - PyCon Korea 2015](https://www.youtube.com/watch?v=UwGHc6A0Jq8)
 * [파이썬으로 아파트분석1 데이터 수집과 지역별 분석](http://goodvc.tistory.com/m/post/10)
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
+* [파이썬 데이터분석, 민간아파트 분양가격 동향 v.2019 #1](https://stricky.tistory.com/99)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
 * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
