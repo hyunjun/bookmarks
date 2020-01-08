@@ -138,6 +138,7 @@ C
 * [Floating point oddity](https://www.johndcook.com/blog/2019/11/11/floating-point-oddity/)
 * [Infectious Executable Stacks](https://nullprogram.com/blog/2019/11/15/)
 * [How to write better (game) library](https://handmade.network/wiki/7138-how_to_write_better_game_libraries)
+* [char와int 비교/치환](http://sunphiz.me/wp/archives/3398)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
