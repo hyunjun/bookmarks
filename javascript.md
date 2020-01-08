@@ -945,6 +945,7 @@ Javascript
 * [Choosing the right Node.js Framework: Next, Nuxt, Nest?](https://nodesource.com/blog/next-nuxt-nest)
 * [스타트업 서비스 개발에 도움을 줄 수 있는 Javascript 오픈 소스들](https://www.mimul.com/blog/popular_ui_javascript/)
 * [**2019년 개발 이야기**](https://subicura.com/2020/01/07/2019-dev-summary.html) TypeScript, Prettier, Next.js, GraphQL...
+* [2020년 눈여겨 볼만한 프런트엔드 프레임워크](https://uznam8x.tistory.com/entry/2020%EB%85%84-%EB%88%88%EC%97%AC%EA%B2%A8-%EB%B3%BC%EB%A7%8C%ED%95%9C-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
