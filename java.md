@@ -114,6 +114,7 @@ Java
 * [How to build a min grocery app with Java Arrays](https://devgrill.com/how-to-build-a-min-grocery-app-with-java-arrays/)
 * [Java naming strategy (자바 명명 전략)](https://www.slideshare.net/debop/java-naming-strategy)
 * [How to Work with Scala Collections in Java](https://medium.com/wix-engineering/how-to-work-with-scala-collections-in-java-5d304d76e98f)
+* ['자바를 배우자' 온라인 과정 10선](http://www.itworld.co.kr/t/62086/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4/140362)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
