@@ -546,6 +546,8 @@ Scala
     * [Becoming a better functional programmer](https://medium.com/@dorsever/becoming-a-better-functional-programmer-4e32ad6252c8)
     * [Wrapping impure code with ZIO](https://medium.com/@ghostdogpr/wrapping-impure-code-with-zio-9265c219e2e)
     * [How to use the same Test for different Implementations with ZIO](https://medium.com/@pascal.mengelt/how-to-use-the-same-test-for-different-implementations-with-zio-ded024e55b12)
+    * [John De Goes ZIO talk at Scala Russia 28.09.2019](https://www.youtube.com/watch?v=4tWztRextMk)
+    * [Concurrent programming in 2019: Akka, Monix or ZIO? - Adam Warski](https://www.youtube.com/watch?v=TqJg4AuxEIQ)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
@@ -926,6 +928,7 @@ Scala
 * [Journey into the IO Monad (Part 1)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-1-bdf591b4fa09)
 * [Journey into the IO Monad (Part 2)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-2-2e21da2826e3)
 * [Journey to the IO Monad (Part 3.1)](https://medium.com/@RaymondTayBL/journey-to-the-io-monad-part-3-1-35813c7f48ac)
+* [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
 * [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
 * [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
