@@ -713,6 +713,7 @@ Java
 * [To-Excel - This is a library that makes Excel easier to use in Java](https://github.com/ckpoint/ToExcel)
 * [Trampoline - Simple standalone trampoline implementation for stackless recursion and simulating co-routines / continuations](https://github.com/aol/cyclops/tree/master/cyclops-trampoline)
 * [twitter-text - Twitter Text Libraries](https://github.com/twitter/twitter-text)
+* twilio [해외 문자 발송을 위한 선택 - twilio](https://jybaek.tistory.com/859)
 * Vaadin
   * [바딘? Vaadin? 무슨 뜻이지?](http://basakpie.com/archives/435)
   * [모던 자바 웹 UI 바딘 프레임워크](http://slides.com/basakpie/vaadin)
