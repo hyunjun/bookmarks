@@ -385,6 +385,7 @@ Programming
 * [리디북스 서버 스택 소개](http://www.ridicorp.com/blog/2016/04/18/ridibooks-stack/)
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
+* [**Antman 프로젝트 개발기**](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
 * [ODC를 구축한 기술 - Serverless, SPA, AWS Lambda Edge](https://blog.roto.codes/odc-tech-stack-aws-lambda-edge/)
 * [ODC를 구축한 기술](https://blog.roto.codes/odc-tech-stack/) frontend
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
@@ -683,6 +684,7 @@ Programming
 * [Monolithic에서 MSA로의 전환기](https://hides.tistory.com/1057)
 * [WATCHA PLAY 서비스 MSA 적용하기](https://medium.com/watcha/watcha-play-%EC%84%9C%EB%B9%84%EC%8A%A4-msa-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-31e06fe039a0)
 * [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html)
+* [1# 데이터 엔지니어와 마이크로 서비스 구축 SI 프로젝트](https://www.popit.kr/1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%99%80-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-si-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
