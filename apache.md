@@ -512,6 +512,7 @@ Apache
 * [Incremental Cooperative Rebalancing in Apache Kafka: Why Stop the World When You Can Change It?](https://www.confluent.io/blog/incremental-cooperative-rebalancing-in-kafka/)
 * [강의 - 아파치 카프카](https://www.youtube.com/playlist?list=PL3Re5Ri5rZmkY46j6WcJXQYRlDRZSUQ1j)
 * [Streaming the last few minutes from Kafka using Akka Streams](https://medium.com/wbaa/streaming-the-last-few-minutes-from-kafka-using-akka-streams-dfa2ecd1fdbb)
+* [kubernetes, python, kafka 메모](https://sangwook.github.io/2017/08/27/kubernetes-python-kafka.html)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
