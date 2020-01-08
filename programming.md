@@ -1714,17 +1714,6 @@ Programming
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
-* [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
-* [BDD와 TDD의 차이](https://blog.aliencube.org/ko/2014/04/02/differences-between-bdd-and-tdd/)
-* [1. Mocha - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-1-mocha/)
-* [2. Chai - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-2-chai/)
-* [3. Chai-http 사용하여 REST API Test하기](https://jaeyeophan.github.io/2017/04/23/BDD-3-chai-http/)
-* [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
-* [버그는 막을 수 있을까](https://medium.com/@erish/%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0-%EB%B2%84%EA%B7%B8%EB%8A%94-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-1392e6bba933)
-* Spock
-  * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
-  * [Spock으로 테스트코드를 짜보자](http://woowabros.github.io/study/2018/03/01/spock-test.html)
-  * [Spock Extension과 Elasticsearch + Kibana 조합으로 테스트 결과를 빠르게 피드백 받기](http://woowabros.github.io/experience/2019/12/16/quickly-get-feedback-on-your-test-with-spock-extension-and-es-kibana.html)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
@@ -1792,6 +1781,7 @@ Programming
 * [Put your Action to the test: Tips to improve your action with testing](https://medium.com/google-developers/put-your-action-to-the-test-tips-to-improve-your-action-with-testing-8f5685af22d)
 * [Tests Coverage is Dead — Long Live Mutation Testing](https://medium.com/appsflyer/tests-coverage-is-dead-long-live-mutation-testing-7fd61020330e)
 * [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
+* [블랙박스 테스트 기법으로 테스트 케이스 설계하기](https://huns.me/posts/2020-01-09-35)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [katalon.com](https://www.katalon.com)
@@ -1801,6 +1791,19 @@ Programming
   * [Katalon Studio Review (Is it better than Selenium?)](https://testguild.com/katalon-studio/)
   * [2019년 톱 15 셀레늄 대안](https://testmanager.tistory.com/178) katalon만이 아니라 다른 여러가지 툴 소개
  
+## TDD, Test, BDD
+* [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
+* [BDD와 TDD의 차이](https://blog.aliencube.org/ko/2014/04/02/differences-between-bdd-and-tdd/)
+* [1. Mocha - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-1-mocha/)
+* [2. Chai - Getting started](https://jaeyeophan.github.io/2017/04/23/BDD-2-chai/)
+* [3. Chai-http 사용하여 REST API Test하기](https://jaeyeophan.github.io/2017/04/23/BDD-3-chai-http/)
+* [TDD, BDD를 넘어서 - 검증 주도 개발(Verification-Driven Development,VDD)에 대하여](http://www.moreagile.net/2016/01/vdd.html)
+* [버그는 막을 수 있을까](https://medium.com/@erish/%EC%83%9D%EA%B0%81%ED%95%B4%EB%B3%B4%EA%B8%B0-%EB%B2%84%EA%B7%B8%EB%8A%94-%EB%A7%89%EC%9D%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-1392e6bba933)
+* Spock
+  * [Spock 소개 및 튜토리얼](http://jojoldu.tistory.com/228)
+  * [Spock으로 테스트코드를 짜보자](http://woowabros.github.io/study/2018/03/01/spock-test.html)
+  * [Spock Extension과 Elasticsearch + Kibana 조합으로 테스트 결과를 빠르게 피드백 받기](http://woowabros.github.io/experience/2019/12/16/quickly-get-feedback-on-your-test-with-spock-extension-and-es-kibana.html)
+
 # Troubleshooting, 장애 해결
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 
