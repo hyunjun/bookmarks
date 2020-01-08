@@ -738,6 +738,7 @@ App
 # Messenger, message, messaging
 * discord [Forget Slack. Discord is the best messaging app I’ve ever used](https://hackernoon.com/forget-slack-discord-is-the-best-messaging-app-ive-ever-used-9351a035069)
 * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
+* [Slack에서 public link를 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
 
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
