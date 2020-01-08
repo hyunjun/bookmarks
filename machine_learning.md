@@ -828,6 +828,8 @@ Machine Learning
 * [사이먼킴의 데이터과학 2화 - 데이터 살펴보기(2부)](https://www.youtube.com/watch?v=SnYN_haa4xM)
 * [실습으로 배우는 데이터 사이언스](https://programmers.co.kr/learn/courses/21)
 * [30분이면 하는 캐글 대회 제출 (데이터사이언스 일단 따라하기) 튜토리얼](https://medium.com/@wonseokjung_95449/30분이면-하는-캐글-대회-제출-데이터사이언스-일단-따라하기-튜토리얼-72939abdfe80)
+* [캐글 타이타닉 따라해보기 #1](https://stricky.tistory.com/82)
+* [캐글 타이타닉 따라해보기 #2](https://stricky.tistory.com/83)
 * [Kaggle Winning Solutions - Sortable and searchable compilation of solutions to past Kaggle competitions](http://kagglesolutions.com/)
 
 # K nearest neighbors
