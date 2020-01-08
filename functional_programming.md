@@ -117,6 +117,7 @@ Functional Programming
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
+* [Functional Programming with Effects by Rob Norris](https://www.youtube.com/watch?v=30q6BkBv5MY)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
