@@ -105,3 +105,4 @@ Google Cloud Platform GCP
 * [구글 클라우드 쉘에서 VS Code 사용하기](http://blog.wimy.com/457/)
 * [Reducing the Cost of my Developer Workstation with Cloud Functions and Pub/Sub](https://medium.com/google-developers/reducing-the-cost-of-my-developer-workstation-with-cloud-functions-and-pub-sub-d9b9550bf397)
 * [Building a Simple Web Upload Interface with Google Cloud Run and Cloud Storage](https://medium.com/google-developers/building-a-simple-web-upload-interface-with-google-cloud-run-and-cloud-storage-eba0a97edc7b)
+* [구글 클라우드를 이용한 마인크래프트 24시 서버 개발기 1](https://tjtdkr.me/minecraft/minecraft-1)
