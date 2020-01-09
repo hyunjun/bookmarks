@@ -881,6 +881,7 @@ NLP
 * [Emoji for Python](https://github.com/carpedm20/emoji)
   * [A Python script to check if a character is or a text contains emoji](https://gist.github.com/jezdez/0185e35704dbdf3c880f)
 * [flair - A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/zalandoresearch/flair)
+  * [A very simple framework for state-of-the-art Natural Language Processing (NLP)](https://github.com/flairNLP/flair)
   * [Text Classification with State of the Art NLP Library — Flair - A new version of Flair - simple Python NLP library has just been released by Zalando Research!](https://towardsdatascience.com/text-classification-with-state-of-the-art-nlp-library-flair-b541d7add21f)
   * [Tadej Magajna - State of the Art NLP with Flair](https://www.youtube.com/watch?v=e4ItiGVbels)
 * [Hangulize - 외래어 자동 한글 변환 모듈](https://github.com/sublee/hangulize)
