@@ -43,12 +43,13 @@ Haskell
 * [Thinking with Laziness](http://begriffs.com/posts/2015-06-17-thinking-with-laziness.html)
 * [Moving Haskell processes between nodes (Transient effects IV)](https://www.fpcomplete.com/user/agocorona/moving-haskell-processes-between-nodes-transient-effects-iv)
 * [How Laziness Works](http://two-wrongs.com/how-laziness-works)
+* [Haskell programming tips](https://wiki.haskell.org/Haskell_programming_tips)
 * [Parallelism vs. Concurrency](https://wiki.haskell.org/Parallelism_vs._Concurrency)
+* [Tying the Knot](https://wiki.haskell.org/Tying_the_Knot)
 * [Fighting spam with Haskell](https://code.facebook.com/posts/745068642270222/fighting-spam-with-haskell/)
 * [Reviving the Gofer Standard Prelude](https://donsbot.wordpress.com/2009/01/31/reviving-the-gofer-standard-prelude-circa-1994/)
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
 * [Perf for low-level profiling](https://www.fpcomplete.com/user/bitonic/perf-for-low-level-profiling)
-* [Tying the Knot](https://wiki.haskell.org/Tying_the_Knot)
 * [Translating Haskell to C++ metaprogramming](http://www.vandenoever.info/blog/2015/07/12/translating-haskell-to-c++.html)
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
 * [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)
@@ -175,6 +176,7 @@ Haskell
 * [github.com/leechanwoo/APSS/tree/master/haskell](https://github.com/leechanwoo/APSS/tree/master/haskell)
 * [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)
 * [Advent of Haskell - Thoughts and lessons learned after using Haskell consistently for 25 days in a row](https://medium.com/@mvaldesdeleon/advent-of-haskell-950d6408a729)
+* [Do-notation considered harmful](https://syntaxfree.wordpress.com/2006/12/12/do-notation-considered-harmful/)
 
 # Book
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
