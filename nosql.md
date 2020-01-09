@@ -235,6 +235,7 @@ NoSQL
   * [Google Cloud에서 Dataflow 정리](https://jungwoon.github.io/google%20cloud/2017/12/13/Google-Dataflow/)
 
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
+* [실시간 빅데이터 처리 DBMS 비교 Firebase Realtime Database vs GPDB](https://stricky.tistory.com/105)
 
 # [H2 Database Engine](http://www.h2database.com/)
 * [테스트 코드에서 H2 DB 사용자 정의 함수 사용하기](https://javacan.tistory.com/entry/use-h2-db-user-defined-function)
