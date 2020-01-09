@@ -779,6 +779,7 @@ Javascript
 * [How to enable ES6 (and beyond) syntax with Node and Express](https://medium.freecodecamp.org/how-to-enable-es6-and-beyond-syntax-with-node-and-express-68d3e11fe1ab)
 * [ES6 and Beyond >](https://hackernoon.com/es6-and-beyond-28aed8574e00)
 * [When (and why) you should use ES6 arrow functions — and when you shouldn’t](https://medium.freecodecamp.org/when-and-why-you-should-use-es6-arrow-functions-and-when-you-shouldnt-3d851d7f0b26)
+* [크롬을 이용한 자바스크립트 개발환경](https://www.youtube.com/watch?v=7sdxBzw66Mw) ES6
 * [ECMAScript 튜토리얼](https://wormwlrm.github.io/2019/04/04/ECMAScript-tutorial.html)
 * [‘let’ me be a ‘const’(ant), not a ‘var’(iable)!](https://medium.freecodecamp.org/let-me-be-a-const-ant-not-a-var-iable-1be52d153462)
 * [2019년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4007447)
