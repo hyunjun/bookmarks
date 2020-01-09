@@ -1503,6 +1503,7 @@ Deep Learning
 * [뉴럴 네트워크와 딥러닝](https://sihyeon-kim.github.io/neural-networks-and-deep-learning-korean/index.html)
 * [Hacking Neural Networks: A Short Introduction](https://github.com/Kayzaks/HackingNeuralNetworks)
 * [Teaching a neural network to use a calculator](https://reiinakano.com/2019/11/12/solving-probability.html)
+* [Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnsuite/nnstreamer)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -2274,6 +2275,7 @@ CVPR2016)
 * [theschool.ai](https://www.theschool.ai)
 * [UCL, David Silver, Reinforcement Learning, 2015](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Reinforcement Learning for Engineers, Part 4: The Walking Robot Problem](https://www.youtube.com/watch?v=Wypc1a-1ZYA)
+* [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
 
 ## RL StarCraft II
 * [Introduction and Collecting Minerals - p.1](https://pythonprogramming.net/starcraft-ii-ai-python-sc2-tutorial/)
