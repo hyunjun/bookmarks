@@ -79,6 +79,7 @@ C++
 * [C++ Internals :: STL vector, Part I](http://www.gahcep.com/cpp-internals-stl-vector-part-1/)
 * [C++ Internals :: STL vector, Part II](http://www.gahcep.com/cpp-internals-stl-vector-part-2/)
 * [C++ Internals :: STL vector, Part III](http://www.gahcep.com/cpp-internals-stl-vector-part-3/)
+* [2차원 vector 읽어내고 구축하는 방법만 알아봅시다](https://codingdog.tistory.com/entry/2%EC%B0%A8%EC%9B%90-vector-%EC%9D%BD%EC%96%B4%EB%82%B4%EA%B3%A0-%EA%B5%AC%EC%B6%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EB%A7%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
 * [STL — Standard Template Library](https://medium.com/programming-club-nit-raipur/stl-standard-template-library-5eace21acfc7)
