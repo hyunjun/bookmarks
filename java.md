@@ -931,6 +931,7 @@ Java
 * [Ajax 통신 Example](https://woolbro.tistory.com/53)
 * [Spring Boot - Logging, 20분 정리](https://www.sangkon.com/hands-on-springboot-logging/)
 * [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
+* [Spring boot multi-module maven project example](https://howtodoinjava.com/spring-boot2/sb-multi-module-maven-project/)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
