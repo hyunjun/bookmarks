@@ -1210,6 +1210,7 @@ Programming
   * [ElasticScaling on the fly NoOps: Hotswapping slow function calls with RabbitMQ](https://medium.com/@reinman/replacing-your-function-calls-with-rabbitmq-on-the-fly-36e08c6d5c2c)
   * [Introduction to Event-driven Architectures With RabbitMQ](https://blog.theodo.com/2019/08/event-driven-architectures-rabbitmq/)
   * [pymqdemo - Python RabbitMQ demo for deeplearning](https://github.com/booiljung/pymqdemo)
+* [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * [ZeroMQ](http://kr.zeromq.org/)
@@ -1433,6 +1434,7 @@ Programming
   * [12월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2019/12/b-12-3.html)
   * [12월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/12/b-12-4.html)
   * [1월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/01/b-1-1.html)
+  * [1월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/01/b-1-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
