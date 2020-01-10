@@ -108,6 +108,7 @@ Functional Programming
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
 * [Algebraic Data Types in four languages](https://blog.softwaremill.com/algebraic-data-types-in-four-languages-858788043d4e)
+* [What is an ADT (Algebraic Data types)?](https://medium.com/@edwardgunawan880/what-is-an-adt-algebraic-data-types-ed5e4a6e245)
 
 # Book
 * [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
@@ -314,6 +315,7 @@ Functional Programming
 * [Scala vs Java In Competitive Programming With Functional Programming](https://medium.com/@shastri.shankar9/scala-vs-java-in-competitive-programming-with-functional-programming-41c98506a935)
 * [Did Functional Programming get it wrong?](https://medium.com/@reinman/monoids-to-groupoids-492c35105113)
 * [Demystifying Functional Programming (Part 1)](https://medium.com/walmartlabs/demystifying-functional-programming-part-1-eb4347d145d0)
+* [Demystifying Functional Programming (Part 2) — The need for immutability](https://medium.com/walmartlabs/demystifying-functional-programming-part-2-the-need-for-immutability-4f5c16ae2c9a)
 * [How I learned to stop worrying and love FP in Scala](https://medium.com/@gkazovsky/how-i-learned-to-stop-worrying-and-love-fp-in-scala-8d7430f5f1e8)
 * [On Eliminating Error in Distributed Software Systems](https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/)
 * [Hangman in FP Scala](https://medium.com/wix-engineering/hangman-in-fp-scala-609e1eb8c733)
