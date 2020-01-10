@@ -623,6 +623,7 @@ AWS
   * [Create and manage powerful backends with one click](https://github.com/hubaimaster/aws-interface)
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [aws-ml-experimenter - Framework for running ML models on Amazon EC2 and analyzing results with Shiny](https://github.com/rikturr/aws-ml-experimenter)
+* [AWS Report - Tool For Analyzing Amazon Resources](https://www.kitploit.com/2020/01/aws-report-tool-for-analyzing-amazon.html)
 * [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
 * Boto3
   * [Now Available – AWS SDK For Python (Boto3)](https://aws.amazon.com/ko/blogs/aws/now-available-aws-sdk-for-python-3-boto3/)
