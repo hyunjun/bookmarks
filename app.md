@@ -39,6 +39,7 @@ App
 * [Here Are 5 Productivity Tools Every Developer Should Know](https://medium.com/swlh/here-are-5-productivity-tools-every-developer-should-know-4a3f70783835)
   * insomnia, zoom, notion, trello, figma
 * [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
@@ -770,6 +771,7 @@ App
 * [Shaky: ASCII Diagram to PNG](http://shaky.github.bushong.net/)
 * [smartdraw.com](https://www.smartdraw.com/)
 * [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
+* [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 
 # Multimedia
@@ -868,6 +870,7 @@ App
 * [dynalist.io](https://dynalist.io/) todo
 * workflowy
   * [디자이너에게 WorkFlowy가 필요한 이유](https://webuildproduct.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%97%90%EA%B2%8C-workflowy%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-b3266fe11cb0#.n4focdnhn)
+* [Taskbook - 커맨드 라인 환경에서의 테스크, board, 노트 관리](https://github.com/klaussinani/taskbook/blob/master/docs/readme.KR.md)
 * [todoist](https://en.todoist.com/)
 
 # Whitenoise
