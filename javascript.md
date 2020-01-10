@@ -1114,6 +1114,7 @@ Javascript
 * [Mancy - A cross platform JavaScript REPL application based on electron and react frameworks](https://github.com/princejwesley/Mancy)
   * [Cross platform JavaScript REPL application based on Electron and React](http://www.mancy-re.pl/)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
+* [massCode - A free and open source code snippets manager for developers. https://masscode.io ](https://github.com/antonreshetov/massCode)
 * [Material Design Hierarchical Display](http://zavoloklom.github.io/material-design-hierarchical-display/)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
 * Meteor
@@ -1566,7 +1567,7 @@ Javascript
 * [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 * [How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
 
-## Library
+## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [10 Node.js Frameworks Worth Checking Out: Express, Loopback, Hapi, and Beyond](https://medium.freecodecamp.org/10-node-js-frameworks-worth-checking-out-express-loopback-hapi-and-beyond-7b537b590f89)
@@ -1638,6 +1639,7 @@ Javascript
 * [node-cron을 사용하여 node.js에서 특정 작업에 스케줄 설정하기](https://blog.l0gic.me/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-node-js%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9E%91%EC%97%85%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/)
 * [NodeGUI - Electron alternatives: Exploring NodeGUI and React NodeGUI](https://blog.logrocket.com/electron-alternatives-exploring-nodegui-and-react-nodegui)
 * [node-rdpjs - Remote Desktop Protocol for Node.js](https://github.com/citronneur/node-rdpjs)
+* [node-report - Delivers a human-readable diagnostic summary, written to file](https://github.com/nodejs/node-report)
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
 * [npm.click](http://npm.click/)
 * [N|Solid. Enterprise Node. Finally](https://nodesource.com/blog/nsolid-enterprise-node-finally)
@@ -1680,6 +1682,7 @@ Javascript
   * [Schematics — An Introduction](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2)
 * [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
+* [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
 * [Tonic - The data visualizing repl for node](https://tonicdev.com/)
 * [trymodule - A simple cli tool for trying out different nodejs modules](https://github.com/VictorBjelkholm/trymodule)
@@ -2584,6 +2587,7 @@ Javascript
 * [Typescript Interface Functions](https://medium.com/@jeffbutsch/typescript-interface-functions-c691a108e3f1)
 * [타입스크립트와 순환 의존성](https://libsora.so/posts/typescript-and-circular-dependency/)
 * [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
+* [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
