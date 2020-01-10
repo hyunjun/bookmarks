@@ -298,6 +298,7 @@ C++
 * [sdsl - Succinct Data Structure Library 2.0](https://github.com/simongog/sdsl-lite)
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
 * [SLED (Beta) - A responsive C++ editor that understands your code](http://slededit.com/new/)
+* [Snapcast - a multi-room client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio](https://github.com/badaix/snapcast/)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [TinyXML2 - a simple, small, efficient, C++ XML parser that can be easily integrated into other programs](https://github.com/leethomason/tinyxml2)
