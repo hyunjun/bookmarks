@@ -557,6 +557,7 @@ Web
 * [Top 5 Useful Python Libraries Web Developers Can't Live Without](http://findnerd.com/list/view/Top-5-Useful-Python-Libraries-Web-Developers-Can-t-Live-Without/34138/)
 * [Web Scraping Tutorial with Python: Tips and Tricks](https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html)
 * [Web Application from Scratch, Part I](https://hackernoon.com/web-application-from-scratch-part-i-314ea8203e64)
+* [Running Python in the Browser](https://pythontips.com/2019/05/22/running-python-in-the-browser)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 
 # Restful
