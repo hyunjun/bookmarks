@@ -686,6 +686,7 @@ Programming
 * [메인 데이터베이스 IDC 탈출 성공기](http://woowabros.github.io/experience/2019/12/19/ruby_database.html)
 * [1# 데이터 엔지니어와 마이크로 서비스 구축 SI 프로젝트](https://www.popit.kr/1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%99%80-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-si-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 * [Uber의 Message Queue, Akka, Vim, Java](https://sangwook.github.io/2016/12/14/uber-message-queue-akka-vim-java.html)
+* [Preparing For a Future Microservices Journey Using Wardley Maps](https://www.youtube.com/watch?v=1cnLMuBABo0)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
