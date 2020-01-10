@@ -337,6 +337,7 @@ NoSQL
 * [MongoDB Crash Course 2019](https://www.youtube.com/watch?v=-56x56UppqQ)
 * [성능 최적화 방법](https://gguriya.tistory.com/116) sharding
 * [plugin-input-mongodb을 이용하여mongodb 기반 pipeline 구축](https://blog.naver.com/pjt3591oo/221624138418)
+* [몽고DB 트랜잭션 (Mongodb transaction, Mongodb 트랜잭션)](https://lts0606.tistory.com/193)
 
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
