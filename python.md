@@ -1764,6 +1764,7 @@ Python
 * [Organizing a Flask Project Beyond Single File](https://www.youtube.com/watch?v=MbXEQZZSvzk)
 * [CORS in Flask](https://www.youtube.com/watch?v=vWl5XcvQBx0)
 * [3 Quick Tips to Make Your Flask Apps Better](https://www.youtube.com/watch?v=tqZxama6tiE)
+* [Codelog Record all of url that you want to remind http://codelog.kr ](https://github.com/teamhide/codelog) pocket하고 비슷해보임
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
