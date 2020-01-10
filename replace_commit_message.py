@@ -2,12 +2,17 @@ import re
 import sys
 
 
-p = re.compile(r'^[ \t]*\+\* \[(\*\*){0,1}(?P<title>.+)(\*\*){0,1}\]\((?P<addr>.+)\)')
+#PATTERN_BASIC = re.compile(r'^[ \t]*\+\* \[(\*\*){0,1}(?P<title>.+)(\*\*){0,1}\]\((?P<addr>.+)\)')
+PATTERN_BASIC = re.compile(r'^[ \t]*\+[ \t]*\* \[(?P<title>.+)\]\((?P<addr>.+)\)')
+PATTERN_URL_INSIDE_BRACKET = re.compile(r'http(.)+(?P<ending_bracket>(/){0,1}\])')
 
 
 def removeUnnecessaryPart(line):
-    line = line.replace('[**', '[').replace('**]', ']')
-    return re.sub(p, r'\g<title> \g<addr>', line)
+    line = line.replace('[**', '[').replace('**]', ']').replace('/]', ']').replace('/)', ')')
+    m = PATTERN_URL_INSIDE_BRACKET.search(line)
+    if m:
+        line = re.sub(r'/? \]\(', '](', line)
+    return re.sub(PATTERN_BASIC, r'\g<title> \g<addr>', line)
 
 
 data = [('+* [산드로 만쿠소, “소프트웨어 장인정신이란…”](http://www.bloter.net/archives/251535)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://www.bloter.net/archives/251535'),
@@ -16,6 +21,12 @@ data = [('+* [산드로 만쿠소, “소프트웨어 장인정신이란…”](
         ('+* [**산드로 만쿠소, “소프트웨어 장인정신이란…”**](http://www.bloter.net/archives/251535) more explanation', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://www.bloter.net/archives/251535 more explanation'),
         ('  +* [산드로 만쿠소, “소프트웨어 장인정신이란…”](http://www.bloter.net/archives/251535)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://www.bloter.net/archives/251535'),
         ('  +* [**산드로 만쿠소, “소프트웨어 장인정신이란…”**](http://www.bloter.net/archives/251535) more explanation', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://www.bloter.net/archives/251535 more explanation'),
+        ('  +* [산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl ](http://www.bloter.net/archives/251535)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl http://www.bloter.net/archives/251535'),
+        ('  +* [산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl/ ](http://www.bloter.net/archives/251535)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl http://www.bloter.net/archives/251535'),
+        ('  +* [산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl ](http://www.bloter.net/archives/251535/)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl http://www.bloter.net/archives/251535'),
+        ('  +* [산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl/ ](http://www.bloter.net/archives/251535/)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl http://www.bloter.net/archives/251535'),
+        ('  +    * [산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl ](http://www.bloter.net/archives/251535/)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl http://www.bloter.net/archives/251535'),
+        ('  +    * [산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl/ ](http://www.bloter.net/archives/251535/)', '산드로 만쿠소, “소프트웨어 장인정신이란…” http://someurl http://www.bloter.net/archives/251535'),
         ]
 
 
