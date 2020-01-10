@@ -200,6 +200,7 @@ Scala
 * [SCALA TIMES](https://twitter.com/ScalaTimes)
 * [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, EitherT
 * [Benchmarking Functional Error Handling in Scala](https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/) EitherT
+* [Error handling in Scala](https://medium.com/@pierre_jambet/error-handling-in-scala-1197a742d6a5)
 * JVM configuration for Scala Functional Programming
   * [`-XX:MaxInlineLevel=18 -XX:MaxInlineSize=270 -XX:MaxTrivialSize=12`](https://twitter.com/leifwickland/status/1179419045055086595)
   * [`-XX:MaxInlineLevel=18`](https://github.com/scala/bug/issues/11627#issuecomment-514490505)
@@ -548,6 +549,8 @@ Scala
     * [How to use the same Test for different Implementations with ZIO](https://medium.com/@pascal.mengelt/how-to-use-the-same-test-for-different-implementations-with-zio-ded024e55b12)
     * [John De Goes ZIO talk at Scala Russia 28.09.2019](https://www.youtube.com/watch?v=4tWztRextMk)
     * [Concurrent programming in 2019: Akka, Monix or ZIO? - Adam Warski](https://www.youtube.com/watch?v=TqJg4AuxEIQ)
+    * [ZIO environment meets constructor-based dependency injection](https://blog.softwaremill.com/zio-environment-meets-constructor-based-dependency-injection-6a13de6e000)
+    * [5 pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-pitfalls-to-avoid-when-starting-to-work-with-zio-adefdc7d2d5c)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
@@ -556,6 +559,7 @@ Scala
   * [Homegrown #Scala Collections - Part 39 - Stream.filter Evaluation Leak](https://www.youtube.com/watch?v=42OOWVgX0j4)
   * [Homegrown #Scala Collections - Part 40 - The #unfold Truth about Streams](https://www.youtube.com/watch?v=X93ToPE-14k)
   * [Homegrown #Scala Collections - Part 41 - Stream.End & What's Next?](https://www.youtube.com/watch?v=6_t1e_IGgeY)
+  * ["Scala Streams to the Extreme" at #scaladays 2019](https://heikoseeberger.rocks/2019/06/14/2019-06-14-scala-days-xtream/)
 * String
 * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
 * trait
@@ -685,6 +689,7 @@ Scala
   * [A Scala “functional programming style” To-Do List application written with Cats](https://alvinalexander.com/scala/functional-programming-to-do-list-application-cats)
   * [Describing State in FP Scala](https://medium.com/wix-engineering/describing-state-in-fp-scala-522982764f07)
   * [Guide to Data Validation with Scala and Cats](https://medium.com/wix-engineering/guide-to-data-validation-with-scala-and-cats-5d49d00d9e43)
+  * [Towards more functional Play — Part 1](https://blog.softwaremill.com/towards-more-functional-play-part-1-a97bc4d92c76)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
@@ -801,6 +806,7 @@ Scala
   * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
 * [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
   * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
+* [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 
 ## Library Documentation
@@ -820,6 +826,7 @@ Scala
   * [**http4s: Pure, Typeful, Functional HTTP in Scala**](https://www.youtube.com/watch?v=hpKKDWTbdPQ)
     * [rossabaker.github.io/boston-http4s](https://rossabaker.github.io/boston-http4s)
   * [http4s: from Cats to ZIO](http://fruzenshtein.com/http4s-from-cats-to-zio/)
+  * [Type-Safe REST services in Scala with Http4s & Cats-IO](https://medium.com/walmartlabs/type-safe-rest-services-in-scala-with-http4s-cats-io-288d6e23a90a)
   * [scala-server-toolkit - Functional programming toolkit for building server applications in Scala](https://github.com/avast/scala-server-toolkit)
     * [Scala Server Toolkit – Creating HTTP Server](https://engineering.avast.io/scala-server-toolkit-creating-http-server/)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
@@ -866,6 +873,7 @@ Scala
 * [Lessons Learned Building a Van Laarhoven Lens Library](http://www.doscienceto.it/blog/posts/2019-12-19-optics.html)
 * [Monocle - Optics library for Scala](https://github.com/julien-truffaut/Monocle)
   * [State of Monocle](https://fp-tower.github.io/2019-12-30-state-of-monocle/)
+  * [Monocle 3.x](https://fp-tower.github.io/2020-01-06-monocle-3/)
 
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
@@ -975,6 +983,7 @@ Scala
 * [Automate SOAP client auto-generation routines with WSDL import for SBT and Scala](https://medium.com/@vladimirsalin/automate-soap-client-auto-generation-routines-with-wsdl-import-for-sbt-and-scala-1b3e2ce5d2ba)
 * [Rock your sbt build time: Understand how sbt works](https://www.triplequote.com/blog/2019-25-09-rock-your-sbt-build-understand-how-sbt-works/)
 * [Cross-compiling In Scala](https://medium.com/bigpanda-engineering/cross-compiling-in-scala-bb491682ffcf)
+* [How-to run tests in parallel with sbt](http://yannmoisan.com/sbt-parallel-test.html)
 * [SBT for the absolute beginner 1 (Basics and dependency Management)](https://medium.com/@awesomeorji/sbt-for-the-absolute-beginner-1-basics-and-dependency-management-74098385dda2)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
@@ -988,6 +997,10 @@ Scala
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
+* [Learn myself some Scala 3, episode 1: metaprogramming – inline](https://heikoseeberger.rocks/2019/06/19/2019-06-19-dotty-1/)
+* [Learn myself some Scala 3, episode 2: extension methods](https://heikoseeberger.rocks/2019/12/04/2019-12-04-dotty-2/)
+* [Learn myself some Scala 3, episode 3: type classes](https://heikoseeberger.rocks/2019/12/10/2019-12-10-dotty-3/)
+* [Learn myself some Scala 3, episode 4: strict equality](https://heikoseeberger.rocks/2020/01/07/2020-01-07-dotty-4/)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
   * [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
@@ -1047,6 +1060,7 @@ Scala
   * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
   * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
   * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
+  * [Wiring everything up for unit testing with Scalatest + Mockito + ArgumentCaptor](https://medium.com/@supermanue/wiring-everything-up-for-unit-testing-with-scalatest-mockito-argumentcaptor-41ec970c3762)
 * [Stryker - Test your tests with mutation testing](https://stryker-mutator.io/)
 
 # Type
@@ -1109,6 +1123,7 @@ Scala
   * [Scala School!](https://kevin-lee.github.io/scala_school/)
 * [30분 scala](https://programmers.co.kr/learn/courses/12) 문법만 빠르게 홈페이지에서 살필 수 있음
 * [Scala For Beginners](https://workday.github.io/scala/2014/01/09/scala-for-beginners)
+* [Scala 101: a beginner’s guide to the scalable language](https://medium.com/educative/scala-101-a-beginners-guide-to-the-scalable-language-ae4650d5f6fb)
 * [Scala overview](http://www.slideshare.net/hypermin/scala-overview-17200157)
 * [Learning Scala - This will act as a reference to all of my Scala blog articles](https://madusudanan.com/blog/scala-articles-index/)
 * [Scala Tutorial for Java Programmers](http://backtobazics.com/tutorials/scala-tutorial-for-java-programmers/)
