@@ -190,6 +190,9 @@ Docker
     * [JavaScript Static Analysis Report System with SonarQube](http://readme.skplanet.com/?p=13679)
     * [소나큐브 이용 코드 정적분석 자동화](https://taetaetae.github.io/2018/02/08/jenkins-sonar-github-integration/)
     * [내 코드를 자동으로 리뷰해준다면? ( by sonarQube )](https://www.popit.kr/%EB%82%B4%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%90%EB%8F%99%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%B7%B0%ED%95%B4%EC%A4%80%EB%8B%A4%EB%A9%B4-by-sonarqube/)
+    * [SonarQube7.9 설치하기 /w PostgreSQL (docker-compose)](https://velog.io/@king/SonarQube7.9-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-with-PostgreSQL-docker-compose-dgk56rd2db)
+    * [SonarQube7.9 -> 8.0 업그레이드 하기](https://velog.io/@king/SonarQube7.9-8.0-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9C-%ED%95%98%EA%B8%B0-u4k56spwx4)
+    * [SonarQube7.9 마이그레이션하기 /w PostgreSQL (docker-compose)](https://velog.io/@king/SonarQube7.9-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-w-PostgreSQL-docker-compose-kpk56ueqkg)
   * [ubuntu](https://hub.docker.com/_/ubuntu/)
     * [Encoding Problems when running an app in docker (Python, Java, Ruby, …) with Ubuntu Containers (ascii, utf-8)](https://stackoverflow.com/questions/27931668/encoding-problems-when-running-an-app-in-docker-python-java-ruby-with-u/27931669)
 
