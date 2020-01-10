@@ -50,6 +50,7 @@ AWS
 * [AWS EC2에 SSH 쉽게 접속하기 (3mins)](https://stevenshim.github.io/easy-ssh-ec2)
 * [서로 다른 EC2 인스턴스간에 연결하기 (feat. Ping)](https://jojoldu.tistory.com/430)
 * [EC2 (Amazon Linux 1) 에 Jenkins 설치하기](https://jojoldu.tistory.com/441)
+* [아마존 EC2 인스턴스 타입 검색 기능 추가](https://www.44bits.io/ko/post/news-filtering-amazon-ec2-instance-types)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
@@ -359,6 +360,7 @@ AWS
 * [My 2019 Serverless year in review](https://www.linkedin.com/pulse/my-2019-serverless-year-review-eric-johnson/)
 * [**serverless framework plugins 내가 쓰는 플러그인과 이유**](https://libsora.so/posts/serverless-framework-plugins/)
 * [Serverless - TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
+* [아마존 ECR, 도커 이미지 취약점 스캔 기능 추가](https://www.44bits.io/ko/post/news--amazon-ecr-docker-image-vulnerabilities-scanning)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
