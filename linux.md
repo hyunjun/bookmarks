@@ -502,6 +502,7 @@ Linux
   * Links, Lynx, w3m, Googler
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
+* [broot - Get an overview of a directory, even a big one](https://dystroy.org/broot/)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
 * [**cheat.sh - the only cheat sheet you need https://cheat.sh**](https://github.com/chubin/cheat.sh)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
