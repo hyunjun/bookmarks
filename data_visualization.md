@@ -154,6 +154,9 @@ Data Visualization
 * [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)
 * [Graph visualization](http://e.biohackers.net/Graph_visualization)
 
+# Javascript
+* [Mercury - data visualize and discovery with Javascript, such as apache zeppelin and jupyter](https://github.com/cloverhearts/mercury)
+
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
 * chart.js [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
