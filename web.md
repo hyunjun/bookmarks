@@ -682,6 +682,7 @@ Web
 * [Google I/O 2019: Day 2 후기](https://hyunseob.github.io/2019/05/12/google-io-2019-day-2/)
 * [만화로 소개하는 WebAssembly](http://hacks.mozilla.or.kr/2019/05/%EB%A7%8C%ED%99%94%EB%A1%9C-%EC%86%8C%EA%B0%9C%ED%95%98%EB%8A%94-webassembly/)
 * [2019년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8786166)
+* [Python and WebAssembly](https://almarklein.org/python_and_webassembly.html)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
