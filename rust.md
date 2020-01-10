@@ -78,6 +78,7 @@
 * [Writing an OS in Rust](http://os.phil-opp.com/)
 * [Making Popcorn: Adding a disk to a Rust Rumprun Unikernel](https://polyfractal.com/post/adding-a-disk-to-a-rust-rumprun-unikernel/)
 * [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q)
+* [Mutexes Are Faster Than Spinlocks](https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html)
 * [Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)
 * [Rust + Node.js are awesome!](https://itnext.io/rust-node-js-are-awesome-a50d63411773)
 * [\_는 bind하지 않는다](https://blog.seulgi.kim/2018/08/rust--ownership.html)
