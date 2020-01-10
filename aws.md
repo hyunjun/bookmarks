@@ -361,6 +361,7 @@ AWS
 * [**serverless framework plugins 내가 쓰는 플러그인과 이유**](https://libsora.so/posts/serverless-framework-plugins/)
 * [Serverless - TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
 * [아마존 ECR, 도커 이미지 취약점 스캔 기능 추가](https://www.44bits.io/ko/post/news--amazon-ecr-docker-image-vulnerabilities-scanning)
+* [AWS Outposts / Wavelength / Local Zones 개념 정리](https://dev.classmethod.jp/cloud/aws/aws-outposts-wavelength-localzones-concept-intro-korean/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
