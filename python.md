@@ -72,7 +72,7 @@ Python
   * [번역 파이썬 GIL은 사라질까?](https://seonghyeon.dev/has-the-python-gil-been-slain/)
   * [python의 GIL과 threading](https://blog.hanaoto.me/gil-and-threading-in-python/)
   * [왜 Python에는 GIL이 있는가](https://dgkim5360.tistory.com/entry/understanding-the-global-interpreter-lock-of-cpython)
-* [Automate the Boring Stuff with Python](http://automatetheboringstuff.com/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
@@ -1765,6 +1765,7 @@ Python
 * [CORS in Flask](https://www.youtube.com/watch?v=vWl5XcvQBx0)
 * [3 Quick Tips to Make Your Flask Apps Better](https://www.youtube.com/watch?v=tqZxama6tiE)
 * [Codelog Record all of url that you want to remind http://codelog.kr ](https://github.com/teamhide/codelog) pocket하고 비슷해보임
+* [Full-stack single page application with Vue.js and Flask](https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
@@ -2421,6 +2422,7 @@ Python
     * [파이썬 구글시트 연동 클래스 소개](https://www.youtube.com/watch?v=ivnT4TwYcn0)
     * [파이썬과 구글 Sheet 연동하기](https://coalastudy.com/learn/1299)
     * [구글시트로 개발자 해방시키기](https://www.slideshare.net/legacycoder/ss-190442750)
+  * [sheetfu - Python library to interact with Google Sheets V4 API](https://github.com/socialpoint-labs/sheetfu)
   * [Advanced Drive Service in Apps Script](https://eojji.blogspot.com/2019/06/advanced-drive-service-in-apps-script.html)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
@@ -2588,6 +2590,7 @@ Python
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
   * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 * [PyMySQL](https://github.com/PyMySQL)
+  * [PyMySQL - Pure Python MySQL Client https://pymysql.readthedocs.io ](https://github.com/PyMySQL/PyMySQL)
   * [**PyMySQL Evaluation**](https://wiki.openstack.org/wiki/PyMySQL_evaluation)
   * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
   * [PyMySql이용해서 데이터 베이스 서버와 통신하기](https://jungwoon.github.io/python/2018/03/29/Data-Analysis-With-Python-4/)
