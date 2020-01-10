@@ -1189,3 +1189,4 @@ TensorFlow
 * [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
 * [tensorflow_tutorial](https://github.com/wonseokjung/tensorflow_tutorial/) udacity course
   * [Classifying Images of Clothing](https://github.com/wonseokjung/tensorflow_tutorial/blob/master/Classifying%20Images%20of%20Clothing.ipynb) Fashion MNIST 사용
+* [완전 쉬운 인공지능, AI, 머신러닝, 딥러닝](https://www.youtube.com/playlist?list=PLU9-uwewPMe1AsOwlodmuaap99KH_483a)
