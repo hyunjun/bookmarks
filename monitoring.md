@@ -80,3 +80,4 @@ Monitoring
 * [Prometheus를 통한 서버 모니터링](https://medium.com/myrealtrip-product/prometheus%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%84%9C%EB%B2%84-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-deab448b769d)
 * [쿠버네티스 모니터링 : 프로메테우스(kubernetes monitoring : phrometheus)](https://arisu1000.tistory.com/27857)
 * [오픈소스 모니터링툴 - Prometheus #1 기본 개념과 구조](https://bcho.tistory.com/1372)
+* [오픈소스 모니터링 툴 - Prometheus #2 Hello Prometheus](https://bcho.tistory.com/1373)
