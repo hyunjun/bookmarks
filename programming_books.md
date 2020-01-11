@@ -395,6 +395,7 @@ Programming Books
 * (NOT YET) [데이터를 보는 사람에게 추천하는 교양서](https://cojette.github.io/bookfordatauser/)
 * (NOT YET) [데이터 전처리 대전](http://www.hanbit.co.kr/store/books/look.php?p_code=B1543811360)
 * (NOT YET) [직장인을 위한 데이터 분석 실무 with 파이썬 - 마케팅, 영업, 기획 실무 담당자를 위한 데이터 분석의 기술](https://wikibook.co.kr/playwithdata/)
+* (NOT YET) [인공지능 함수 OCaml 프로그래밍](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=226953610)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
