@@ -1829,6 +1829,7 @@ Programming
   * [#2](http://www.bsidesoft.com/?p=3496)
   * [#3](http://www.bsidesoft.com/?p=3526)
 * [**야생의 유니코드**](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)
+* [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 
 # Virtual Machine
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)
