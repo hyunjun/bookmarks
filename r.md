@@ -117,6 +117,7 @@ R
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
 * [Learn R Programming Language The Definitive Guide](http://www.programiz.com/r-programming)
 * [Why Type 1 errors are more important than Type 2 errors (if you care about evidence)](https://www.r-bloggers.com/why-type-1-errors-are-more-important-than-type-2-errors-if-you-care-about-evidence/)
+* [불리는 패키지가 없습니다 해결 방법](https://mrchypark.github.io/post/rtips-%EB%B6%88%EB%A6%AC%EB%8A%94-%ED%8C%A8%ED%82%A4%EC%A7%80%EA%B0%80-%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
 * [NumPy for R (and S-Plus) users](http://mathesaurus.sourceforge.net/r-numpy.html)
 * Credit Risk Modeling in R
   * [Crosstable, Histogram, Outlier](https://medium.com/@peteryun/r-credit-risk-modeling-in-r-crosstable-histogram-outlier-86bfbf25c652)
