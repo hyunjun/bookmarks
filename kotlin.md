@@ -188,6 +188,7 @@
 
 # Conference
 * [kotlinconf.com](https://kotlinconf.com/)
+  * [youtube.com/results?search_query=#kotlinconf19](https://www.youtube.com/results?search_query=%23kotlinconf19)
   * [KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk)
 * [Kotlin Meetup Seoul 2019](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
 
