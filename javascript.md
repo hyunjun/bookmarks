@@ -532,6 +532,7 @@ Javascript
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
 * [JavaScript Module Cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
+* [11+ JavaScript Features You’ve Probably Never Used](https://blog.bitsrc.io/features-of-javascript-you-probably-never-used-4c117ba3f025)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -947,6 +948,7 @@ Javascript
 * [스타트업 서비스 개발에 도움을 줄 수 있는 Javascript 오픈 소스들](https://www.mimul.com/blog/popular_ui_javascript/)
 * [**2019년 개발 이야기**](https://subicura.com/2020/01/07/2019-dev-summary.html) TypeScript, Prettier, Next.js, GraphQL...
 * [2020년 눈여겨 볼만한 프런트엔드 프레임워크](https://uznam8x.tistory.com/entry/2020%EB%85%84-%EB%88%88%EC%97%AC%EA%B2%A8-%EB%B3%BC%EB%A7%8C%ED%95%9C-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
+* [Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
