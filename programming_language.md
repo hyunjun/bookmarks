@@ -208,6 +208,7 @@ Programming Language
   * [C# LINQ 스타일과 F# 함수형 스타일의 차이 - 비슷하면서 다른 두 언어의 함수형 프로그래밍 접근 방식](https://bangjunyoung.github.io/2019/09/03/CSharp-LINQ-스타일과-FSharp-함수형-스타일의-차이/)
   * [함수형 프로그래밍으로 루프 사용 줄이기 - 함수형 프로그래밍으로 더 작성하기 쉽고 이해하기 쉬운 코드 만들기](https://bangjunyoung.github.io/2019/09/23/함수형-프로그래밍으로-루프-사용-줄이기/)
   * [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel/)
+  * [F# spoiled me, or why I don’t enjoy C# anymore](https://medium.com/@liman.rom/f-spoiled-me-or-why-i-dont-enjoy-c-anymore-39e025035a98)
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
