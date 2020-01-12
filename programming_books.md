@@ -683,6 +683,7 @@ Programming Books
 * [도메인 주도 설계(에릭에반스) -3](https://ash84.net/2017/06/11/domain-driven-development_3/)
 * [도메인 주도 설계 핵심](https://blog.gaerae.com/2018/08/domain-driven-design-distilled.html)
   * [추상화를 조심스럽게 선택하라](http://huns.me/development/2252)
+  * [도메인 주도 설계 핵심](https://imch.dev/posts/domain-driven-design-distilled)
 * [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
 
 # Elasticsearch
