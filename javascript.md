@@ -2470,6 +2470,8 @@ Javascript
 * [An intro to Redux and how state is updated in a Redux application](https://medium.com/free-code-camp/an-intro-to-redux-and-how-state-is-updated-in-a-redux-application-839c8334d1b1)
 * [리액트 리덕스 사용하기 (타입스크립트 버전)](http://jeonghwan-kim.github.io//dev/2019/07/15/react-redux-ts.html)
 * [Redux with Code-Splitting and Type Checking](https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/)
+* [React Redux](https://opentutorials.org/module/4518)
+* [React Redux](https://www.youtube.com/playlist?list=PLuHgQVnccGMDuVdsGtH1_452MtRxALb_7)
 
 # TDD, Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
