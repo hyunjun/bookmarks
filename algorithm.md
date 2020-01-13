@@ -174,6 +174,9 @@ Algorithm
 * [Optimal Stopping - 최고의 선택 문제](https://nbviewer.jupyter.org/gist/FinanceData/e5300d99301ffbee54d741d0e62ac361)
 * [수학과 함께 복잡한 문제를 단순하게 만들자!](https://evan-moon.github.io/2019/10/30/make-simple-with-math/)
 * [평방 분할 (Sqrt Decompositon) : 루트로 쪼개보자](https://codingdog.tistory.com/entry/%ED%8F%89%EB%B0%A9-%EB%B6%84%ED%95%A0-Sqrt-Decompositon-%EB%A3%A8%ED%8A%B8%EB%A1%9C-%EC%AA%BC%EA%B0%9C%EB%B3%B4%EC%9E%90)
+* leetcode
+  * [Topic wise problems for Beginners](https://leetcode.com/discuss/career/448024/topic-wise-problems-for-beginners)
+  * [Best Posts of 2019](https://leetcode.com/discuss/general-discussion/459286/best-posts-of-2019)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -280,6 +283,7 @@ Algorithm
 * [State space reduction](https://www.hackerearth.com/practice/algorithms/dynamic-programming/state-space-reduction)
 * [Dynamic Programming and Bit Masking](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking)
 * [An intro to Algorithms (Part II): Dynamic Programming](https://medium.freecodecamp.org/an-intro-to-algorithms-dynamic-programming-dd00873362bb)
+* [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
