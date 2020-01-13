@@ -1766,6 +1766,7 @@ Python
 * [CORS in Flask](https://www.youtube.com/watch?v=vWl5XcvQBx0)
 * [3 Quick Tips to Make Your Flask Apps Better](https://www.youtube.com/watch?v=tqZxama6tiE)
 * [Codelog Record all of url that you want to remind http://codelog.kr ](https://github.com/teamhide/codelog) pocket하고 비슷해보임
+  * [Codelog 제작기](https://www.hides.kr/1059)
 * [Full-stack single page application with Vue.js and Flask](https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532)
 
 ## Flask Library
