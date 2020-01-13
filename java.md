@@ -686,6 +686,8 @@ Java
 * [Parallel Java 2 Library](http://www.cs.rit.edu/~ark/pj2.shtml)
 * [Pathfinder 설치 및 실행법](http://lauryn94.tistory.com/20)
 * [Precipice - A Java Library for Isolating and Monitoring Task Execution](http://www.uncontended.net/2016/03/13/introducing-precipice.html)
+* [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
+  * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
 * [Real world mutation testing](http://pitest.org/)
   * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
   * 리액티브 프로그래밍
