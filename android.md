@@ -288,5 +288,6 @@ Android
 * [Better Android Testing at Airbnb — Part 4: Testing ViewModels](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-part-4-testing-viewmodels-550d929126c8)
 * [Better Android Testing at Airbnb — Part 5: Test Architecture](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-661a554a8c8b)
 * [Better Android Testing at Airbnb — Part 6: Consistent Mocking](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-a11f6832773f)
+* [Better Android Testing at Airbnb — Part 7: Test Generation and CI](https://medium.com/airbnb-engineering/better-android-testing-at-airbnb-eacec3a8a72f)
 * [Cucumber + Appium을 통해 Android 앱 테스트](http://woowabros.github.io/experience/2020/01/06/mobile-app-test-with-appium.html)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
