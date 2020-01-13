@@ -37,6 +37,7 @@
 * [The ZedRipper: Part 1](http://www.chrisfenton.com/the-zedripper-part-1/)
 * [A new cycle-stepped 6502 CPU emulator](https://floooh.github.io/2019/12/13/cycle-stepped-6502.html)
 * [27인치 디지털 액자 만들기(DIY) -제작편-](https://papit.blog.me/221751081863)
+* [27인치 디지털 액자 만들기(DIY) -활용편-](https://papit.blog.me/221769974274)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
