@@ -186,6 +186,7 @@ Python
 * [파이썬으로 아파트분석1 데이터 수집과 지역별 분석](http://goodvc.tistory.com/m/post/10)
   * [아파트 데이터 수집](http://nbviewer.jupyter.org/gist/goodvc78/a1ab600a5103ca60b8cc)
 * [파이썬 데이터분석, 민간아파트 분양가격 동향 v.2019 #1](https://stricky.tistory.com/99)
+* [파이썬으로 주식 상장기업 크롤링한 데이터 엑셀 저장 및 엑셀 파일 불러오기 feat.pandas](https://stricky.tistory.com/104)
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Playing a mp3 stream with python](http://codeboje.de/playing-mp3-stream-python/)
 * [Let's Write an LLVM Specializer for Python!](http://dev.stephendiehl.com/numpile/)
