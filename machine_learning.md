@@ -697,6 +697,9 @@ Machine Learning
 * [OpenFace - This is a Python and Torch implementation of the CVPR 2015 paper FaceNet: A Unified Embedding for Face Recognition and Clustering by Florian Schroff, Dmitry Kalenichenko, and James Philbin at Google using publicly available libraries and datasets](https://github.com/cmusatyalab/openface)
   * [openface](https://github.com/jaeho-kang/deep-learning/tree/master/openface)
 
+# Conference
+* [**O'reilly Strata Data Conference New York 2019 후기**](https://speakerdeck.com/socar/oreilly-strata-data-conference-new-york-2019-hugi)
+
 # Feature Selection
 * [Feature Selection Technical Report](http://featureselection.asu.edu/)
   * [Feature Selection: A Data Perspective](http://arxiv.org/abs/1601.07996)
