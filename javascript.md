@@ -665,6 +665,7 @@ Javascript
 * [자바스크립트 async와 await](https://joshua1988.github.io/web-development/javascript/js-async-await/)
 * [JavaScript: async/await with forEach()](https://codeburst.io/javascript-async-await-with-foreach-b6ba62bbf404)
 * [비동기 프로그래밍이 뭔가요?](https://www.youtube.com/watch?v=m0icCqHY39U)
+* [Don’t block the event loop! 매끄러운 경험을 위한 JavaScript 비동기 처리](https://engineering.linecorp.com/ko/blog/dont-block-the-event-loop/)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -1986,6 +1987,7 @@ Javascript
 * [Easy Peasy global state in React w/ Hooks](https://medium.com/@ctrlplusb/easy-peasy-global-state-in-react-w-hooks-421f5bf827cf)
 * [How to call Api in React Hooks?](https://www.youtube.com/watch?v=sCibfJlML84)
 * [Thinking in React Hooks](https://wattenberger.com/blog/react-hooks)
+* [Implementing the Container Pattern using React Hooks](https://blog.bitsrc.io/implementing-the-container-pattern-using-react-hooks-f490a8492d05)
 * [Using the React useContext Hook](https://medium.com/digio-australia/using-the-react-usecontext-hook-9f55461c4eae)
 * [How to detect a user’s preferred color scheme in JavaScript](https://medium.com/free-code-camp/how-to-detect-a-users-preferred-color-scheme-in-javascript-ec8ee514f1ef)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
