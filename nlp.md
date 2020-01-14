@@ -289,6 +289,7 @@ NLP
 * [Transformer (Attention Is All You Need) 구현하기 (1/3)](https://paul-hyun.github.io/transformer-01/)
 * [Transformer (Attention Is All You Need) 구현하기 (2/3)](https://paul-hyun.github.io/transformer-02/)
 * [Transformer (Attention Is All You Need) 구현하기 (3/3)](https://paul-hyun.github.io/transformer-03/)
+* [Transformer - Harder, Better, Faster, Stronger - Transformer 구조체와 이 구조를 향상시키기 위한 기법들을 같이 알아봅시다](https://blog.pingpong.us/ml-transformer/)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 * [Talk Powerpoint Generator](https://korymath.github.io/talk-generator/)
 * [#자연어, #시퀀스를 위한 #재귀신경망 성능향상 기법! 대공개!! 첫번째!](https://www.youtube.com/watch?v=EZnG78g4moI)
@@ -309,6 +310,8 @@ NLP
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)
 * [일본어 NLP 프로젝트 시작하기](https://blog.pingpong.us/japanese/)
 * [자연언어처리(NLP)... 무엇이며, 그 기술과 시장은?](http://www.aitimes.kr/news/articleView.html?idxno=15036)
+* [기획자와 마케터를 위한 이벤트 댓글 분석 - feat. 인프런 새해 다짐 이벤트](https://github.com/corazzon/inflearn-new-year-event-2020)
+  * [텍스트데이터분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmohRzCxWQqJ7Z9aqc-sQ5gC)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1091,6 +1094,7 @@ NLP
 * [SQuAD - The Stanford Question Answering Dataset](https://stanford-qa.com/)
   * [BiDAF - Bi-Directional Attention Flow for Machine Comprehension](https://allenai.github.io/bi-att-flow/)
   * [SQuAD - The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/)
+  * [어떻게 해야 기계에게 글을 잘 읽고 말할 수 있게 할까?](https://www.slideshare.net/NaverEngineering/ss-108892693)
 * [www.facebook.com/groups/AIKoreaOpen/permalink/1207284209305687](https://www.facebook.com/groups/AIKoreaOpen/permalink/1207284209305687)
   * [Query-Regression Networks](https://github.com/seominjoon/qrn)
 * [carpedm20.github.io](http://carpedm20.github.io/)
