@@ -1229,6 +1229,7 @@ Deep Learning
   * [**Pycon 2019 Gluon Tutorial 딥러닝 NLP 손쉽게 따라해보기**](https://github.com/seujung/gluonnlp_tutorial)
   * [Apache MXNet/gluon on Colab](https://gist.github.com/serithemage/54bf347b41980b98ade2353b2e27d899)
   * [딥러닝계의 블루오션, Apache MXNet 공헌하기 - 윤석찬 (AWS 테크에반젤리스트) 오규삼 (삼성 SDS)](https://www.slideshare.net/awskorea/apache-mxnet-soscon-2018)
+  * [아마존, 개발자용 딥러닝 자동화 툴 '오토글루언' 공개](http://www.itworld.co.kr/news/141350)
   * [Gluon-Detector - SSD Retinanet YoloV3](https://github.com/JONGGON/Gluon-Detector)
   * [Mxnet-Detector - mxnet one stage detector series](https://github.com/DeepFocuser/Mxnet-Detector)
 * [netron - Visualizer for neural network, deep learning and machine learning models https://www.lutzroeder.com/ai ](https://github.com/lutzroeder/netron) 신경망, 딥러닝 모델 시각화 툴이자 뷰어
