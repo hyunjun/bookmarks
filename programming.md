@@ -918,6 +918,7 @@ Programming
 * [코딩 스타일에 대해 논쟁하는 이유](http://www.mimul.com/pebble/default/2019/05/31/1559304696070.html)
 * [코드 가독성에 대해 – 1. 도입과 원칙](https://engineering.linecorp.com/ko/blog/code-readability-vol1/)
 * [코드 가독성에 대해 – 2. 명명과 주석](https://engineering.linecorp.com/ko/blog/code-readability-vol2/)
+* [코드 가독성에 대해 – 3. 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 * [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 
 # Compiler, Interpreter
