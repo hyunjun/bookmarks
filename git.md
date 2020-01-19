@@ -188,6 +188,7 @@ Git
 * bisect
   * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
   * [GIT BISECT를 이용하여 버그발생시점 찾아내기](https://iamsang.com/blog/2014/03/02/git-bisect/)
+  * [7.10 Git 도구 - Git으로 버그 찾기](https://git-scm.com/book/ko/v2/Git-도구-Git으로-버그-찾기)
 * `branch`
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
@@ -551,6 +552,7 @@ Git
   * [마음에 드는 #gitlab todos](http://ohyecloudy.com/pnotes/archives/gitlab-todos/)
   * [CI/CD with Angular 6 & Firebase & GitLab - Automate build, test and deployment using GitLab CI/CD](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d)
   * [GitLab Runner + Windows + Spring 연동](https://www.popit.kr/gitlab-runner-windows-spring-%EC%97%B0%EB%8F%99)
+  * [“실수에 관대한 문화가 데브옵스의 키포인트”…데브옵스 플랫폼 깃랩](https://www.imaso.co.kr/archives/5638)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
