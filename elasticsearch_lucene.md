@@ -493,6 +493,7 @@ ElasticSearch - Lucene
   * [Open Distro for Elasticsearch](https://www.popit.kr/open-distro-for-elasticsearch/)
   * [Open Distro for Elasticsearch Review](https://sematext.com/blog/open-distro-elasticsearch-review/)
   * [AWS, Open Distro for Elasticsearch 설치](https://grip.news/archives/1669)
+  * [**ELK 셋팅부터 알람까지**](http://woowabros.github.io/experience/2020/01/16/set-elk-with-alarm.html)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)
   * [Welcome Prelert to the Elastic Team](https://www.elastic.co/blog/welcome-prelert-to-the-elastic-team)
