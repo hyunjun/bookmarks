@@ -417,6 +417,7 @@ Programming
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
 * [Clean Architecture 1/2](https://jusths.tistory.com/149)
 * [Clean Architecture 2/2](https://jusths.tistory.com/150)
+* [Clean Architecture, the right way](https://medium.com/gdg-vit/clean-architecture-the-right-way-d83b81ecac6)
 * [클린 아키텍처 1-2장](https://wlaxhrl.tistory.com/76)
 * [클린 아키텍처 3-6장](https://wlaxhrl.tistory.com/79)
 * [클린 아키텍처 7-11장](https://wlaxhrl.tistory.com/80)
