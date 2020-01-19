@@ -699,6 +699,7 @@ TensorFlow
 * [윈도우에 TensorFlow를 설치하는 쉬운 방법 using Anaconda ](https://brunch.co.kr/@mapthecity/15)
 * [Changing your hardware to achieve faster Deep Learning on your PC](https://towardsdatascience.com/pimp-up-your-pc-for-machine-learning-d11f68c2815)
 * [Installing Tensorflow with CUDA, cuDNN and GPU support on Windows 10](https://towardsdatascience.com/installing-tensorflow-with-cuda-cudnn-and-gpu-support-on-windows-10-60693e46e781)
+* [2020, TensorFlow 2.0 GPU, Keras, & Python 3.7 in Windows 10](https://www.youtube.com/watch?v=qrkEYf-YDyI)
 
 # Library
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
