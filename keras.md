@@ -212,7 +212,9 @@ Keras
 * [`conda install -c anaconda keras-gpu`](https://anaconda.org/anaconda/keras-gpu)
 
 # Library
-* [Auto-Keras - an open source software library for automated machine learning (AutoML)](https://github.com/jhfjhfj1/autokeras)
+* [AutoKeras: An AutoML system based on Keras](https://autokeras.com)
+  * [An AutoML system based on Keras](https://github.com/keras-team/autokeras)
+  * [Auto-Keras - an open source software library for automated machine learning (AutoML)](https://github.com/jhfjhfj1/autokeras)
   * [Auto-Keras, or How You can Create a Deep Learning Model in 4 Lines of Code](https://towardsdatascience.com/auto-keras-or-how-you-can-create-a-deep-learning-model-in-4-lines-of-code-b2ba448ccf5e)
   * [AutoKeras: The Killer of Google’s AutoML](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
   * [오토케라스 (Auto Keras) 소개 - 오픈소스 automl 실습](https://www.youtube.com/watch?v=EDGLf8eCK04)
