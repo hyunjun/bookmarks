@@ -30,6 +30,7 @@ Programming
 * [What it really takes to learn how to code?](http://blog.sailsoftware.co/2015/09/09/what-it-really-takes-to-learn-how-to-code.html)
 * [Best websites for programmers and students who want to learn to code](https://www.techworm.net/2016/11/best-websites-for-programmers.html)
 * [**생활코딩 수업 관계도**](https://seomal.org)
+* [opensyllabus.org/result/field?id=Computer+Science](https://opensyllabus.org/result/field?id=Computer+Science) 세계 80개국에서 영어로 작성된 7백만 여개의 Syllabus를 수집해 각 전공별로 어떠한 전공 서적이 수업에 가장 많이 참고되었는지 기록 제공
 * [Practice-it is a web application to help you practice solving Java programming problems online](https://practiceit.cs.washington.edu/)
 * [codestepbystep.com](https://codestepbystep.com/)
 * [codingbat.com](https://codingbat.com/)
@@ -532,6 +533,7 @@ Programming
 * [Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide](https://www.youtube.com/watch?v=tMHO7_RLxgQ)
 * [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/) upstream cache, storage layering, thumbnail lifecycle, message forward, video traffic, high efficiency image format
 * [A quick introduction to Hexagonal Architecture](https://medium.com/codefountain/a-quick-introduction-to-hexagonal-architecture-484358c038b8)
+* [**LINE 메신저 앱 공유 모듈 통합 개발기 – 1**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-1/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1440,6 +1442,7 @@ Programming
   * [12월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2019/12/b-12-4.html)
   * [1월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/01/b-1-1.html)
   * [1월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/01/b-1-2.html)
+  * [1월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/01/b-1-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1508,6 +1511,7 @@ Programming
   * [기술 뉴스 #139 : 19-12-02](https://blog.outsider.ne.kr/1467)
   * [기술 뉴스 #140 : 19-12-16](https://blog.outsider.ne.kr/1471)
   * [기술 뉴스 #141 : 20-01-02](https://blog.outsider.ne.kr/1473)
+  * [기술 뉴스 #142 : 20-01-15](https://blog.outsider.ne.kr/1475)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
