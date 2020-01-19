@@ -330,6 +330,7 @@ Javascript
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
 * [Diving Deeper in JavaScripts Objects A Closer Look at JavaScript Object Descriptors](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
+* [전역 객체가 전역 객체인 이유](https://overcurried.netlify.com/%EC%A0%84%EC%97%AD%20%EA%B0%9D%EC%B2%B4%EA%B0%80%20%EC%A0%84%EC%97%AD%20%EA%B0%9D%EC%B2%B4%EC%9D%B8%20%EC%9D%B4%EC%9C%A0)
 * [**자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정**](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
 * [치즈채널 e04 – 자바스크립트 특집 2부](https://iamprogrammer.io/2017/01/01/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-2%EB%B6%80/)
@@ -898,6 +899,7 @@ Javascript
 * [GraphQL 연습을 위한 보일러플레이트](https://brunch.co.kr/@skykamja24/276)
 * [**GraphQL is not just a network protocol**](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
+* [**Building an offline first web app with RxDB & Hasura**](https://blog.hasura.io/building-an-offline-first-web-app-with-rxdb-hasura/)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1571,6 +1573,7 @@ Javascript
 * [인증 1편 - Session Management](https://blog.naver.com/pjt3591oo/221695855740)
 * [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 * [How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
+* [Monitoring Node.js: Watch Your Event Loop Lag!](https://davidhettler.net/blog/event-loop-lag/)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
