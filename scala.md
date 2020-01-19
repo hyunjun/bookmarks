@@ -1035,6 +1035,7 @@ Scala
 * [Scala: Debugging and Unit Testing](https://medium.com/@alessandroheres/scala-debugging-and-unit-testing-3d357e71ccc) intelliJ
 * [Learning Scala: Debugging and Testing](https://medium.com/@tylerremmie/learning-scala-debugging-and-testing-39f2d7233c5c)
 * [Property-based Testing](https://medium.com/payulatam-engineering/property-based-testing-7cb149f1bffb)
+* [An introduction to Law Testing in Scala](https://medium.com/free-code-camp/an-introduction-to-law-testing-in-scala-4243d72272f9)
 * [Property testing of Isomorphisms: way easier than it sounds!](https://medium.com/@supermanue/property-testing-of-isomorphisms-way-easier-than-it-sounds-a646791b9c5f)
 * [TMWL November’19 — ScalaTest, Medusa, PW-Sat2 cubesat](https://blog.softwaremill.com/tmwl-november19-scalatest-medusa-pw-sat2-cubesat-85ab140244b5)
 * [Write your own micro BDD test framework in one day](https://blog.softwaremill.com/write-your-own-micro-bdd-test-framework-in-one-day-e8f0c21c8093)
