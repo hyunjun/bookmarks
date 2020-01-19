@@ -67,6 +67,7 @@ C
 * [Strange C Syntax](http://blog.robertelder.org/weird-c-syntax/)
 * [Practical memory safety for C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-798.pdf)
 * [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
+* [C언어 : int의 크기 (몇몇 C언어 책이나 글의 오류를 잡자)](https://sunyzero.tistory.com/268)
 * [Advanced metaprogramming in C](http://250bpm.com/blog:56)
 * [Smashing the heap by overflowing the stack](https://ldpreload.com/blog/stack-smashes-you)
 * [String and Array Utilities](http://www.chemie.fu-berlin.de/chemnet/use/info/libc/libc_5.html)
