@@ -2114,6 +2114,7 @@ Javascript
 * [How Concurrent React changes the game for data-heavy UI](https://medium.com/@winwardo/how-concurrent-react-changes-the-game-for-data-heavy-ui-a0f432655625)
 * [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components)
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
+* [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2596,6 +2597,7 @@ Javascript
 * [Typescript Interface Functions](https://medium.com/@jeffbutsch/typescript-interface-functions-c691a108e3f1)
 * [타입스크립트와 순환 의존성](https://libsora.so/posts/typescript-and-circular-dependency/)
 * [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
+* [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/카카오페이지-글로벌-웹-개발-후기-d15402becaef)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
