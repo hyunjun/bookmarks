@@ -1152,6 +1152,7 @@ Programming
 * [managed language와 unmanaged language?](https://blog.seulgi.kim/2019/04/managed-language-vs-unmanaged-langauge.html) GC가 메모리를 관리하는 유일한 방법이 아니다!
 * [Garbage collection과 memory leak](https://blog.seulgi.kim/2019/04/garbage-collection-and-memory-leak.html)
 * [Garbage Collection](http://craftinginterpreters.com/garbage-collection.html)
+* [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd)
 * [메모리 취약점:과거, 현재, 미래 (1) 개요](https://cpuu.postype.com/post/3938882)
 * [메모리 취약점:과거, 현재, 미래 (2) NX / DEP](https://cpuu.postype.com/post/3944558)
 * [메모리 취약점:과거, 현재, 미래 (3) Canaries](https://cpuu.postype.com/post/3980627)
