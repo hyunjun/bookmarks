@@ -709,6 +709,7 @@ Docker
 * [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
 * [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
 * [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
+* [5 Kubernetes trends to watch in 2020](https://enterprisersproject.com/article/2020/1/kubernetes-trends-watch-2020)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
