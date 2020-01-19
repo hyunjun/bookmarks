@@ -365,6 +365,7 @@
 * [Data Modeling in Apache Spark - Part 1 : Date Dimension](http://blog.madhukaraphatak.com/data-modeling-spark-part-1/)
 * [Data Modeling in Apache Spark - Part 2 : Working With Multiple Dates](http://blog.madhukaraphatak.com/data-modeling-spark-part-2/)
 * [Concurrency in Spark](http://www.russellspitzer.com/2017/02/27/Concurrency-In-Spark/)
+* [How we reduced our Apache Spark cluster cost using best practices](https://medium.com/iotransportation/how-we-reduced-our-apache-spark-cluster-cost-using-best-practices-ac1f176379ac)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -415,6 +416,7 @@
   * [A practical introduction to Spark’s Column- part 1](https://medium.com/@achilleus/https-medium-com-achilleus-a-practical-introduction-to-sparks-column-3f5fe83125c9)
   * [A practical introduction to Spark’s Column- part 2](https://medium.com/@achilleus/a-practical-introduction-to-sparks-column-part-2-1e52f1d29eb1)
   * [Different approaches to manually create Spark DataFrames](https://medium.com/@mrpowers/manually-creating-spark-dataframes-b14dae906393)
+  * [Sending Spark DataFrame via mail](https://medium.com/@n.suthar.online/sending-spark-dataframe-via-mail-f396b1810d89)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
