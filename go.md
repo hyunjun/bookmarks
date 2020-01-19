@@ -73,7 +73,6 @@ Go
 * [Charity Majors — June 10th, 2015 How We Moved Our API From Ruby to Go and Saved Our Sanity](http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/)
 * [Why Golang is doomed to succeed](https://texlution.com/post/why-go-is-doomed-to-succeed/)
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
-* [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
 * [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 * [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
@@ -130,8 +129,6 @@ Go
 * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
-* [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
-* [Go TDD](http://www.joinc.co.kr/w/man/12/golang/TDD)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
 * [On Go, Portability, and System Interfaces](http://garrett.damore.org/2015/09/on-go-portability-and-system-interfaces.html)
 * [Surprises in GopherJS Performance](http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/)
@@ -267,6 +264,7 @@ Go
   * [Golang database/sql 패키지 삽질기 - 1편 매개변수 표시자](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-1%ED%8E%B8-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%ED%91%9C%EC%8B%9C%EC%9E%90/)
   * [Golang database/sql 패키지 삽질기 - 2편 SQLite 메모리 데이터베이스](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-2%ED%8E%B8-sqlite-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)
   * [Golang database/sql 패키지 삽질기 - 3편 커넥션 풀](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-3%ED%8E%B8-%EC%BB%A4%EB%84%A5%EC%85%98-%ED%92%80)
+  * [Testing database interactions using Go](https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449)
 * defer
   * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
   * [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
@@ -319,6 +317,7 @@ Go
 * [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
 * [Go runtime AND goroutine](https://jusths.tistory.com/142)
 * [Achieving concurrency in Go](https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca)
+* [Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
@@ -385,7 +384,6 @@ Go
 * [Goenv – Go Environment Manager](http://www.andreagrandi.it/2015/04/19/goenv-go-environment-manager/)
 * [GOES - Go Event Sourcing made easy https://opensource.bloom.sh ](https://github.com/bloom42/goes)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
-* [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [Gogs](http://gogs.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
 * [go-itergen addresses a common and big problem of go: no maps, no filters, no nothing](https://github.com/mvader/go-itergen)
@@ -433,7 +431,6 @@ Go
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
-* [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
 * [Mattermost is an open source, on-prem Slack-alternative](https://github.com/mattermost/platform)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
@@ -487,6 +484,14 @@ Go
 * [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
+
+# TDD, Test
+* [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
+* [Go TDD](http://www.joinc.co.kr/w/man/12/golang/TDD)
+* [How to mock? Go Way](https://blog.learngoprogramming.com/how-to-mock-in-your-go-golang-tests-b9eee7d7c266)
+* [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
+* [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
+* [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
