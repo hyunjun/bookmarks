@@ -2,6 +2,7 @@ Business
 ========
 
 * [위대한 제품의 6가지 속성](http://www.venturesquare.net/577006)
+* [위대한 제품의 특성](http://www.andrewahn.co/product/great-products/)
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
