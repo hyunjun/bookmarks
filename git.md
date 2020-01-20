@@ -635,3 +635,4 @@ Git
 * [Git 쉽게 사용하기](https://www.youtube.com/watch?v=jyFogXhvTL4)
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
+* [git-step](https://okdevtv.com/mib/git-step)
