@@ -627,6 +627,7 @@ Programming
 * [Spring Cloud 기반 Micro Services로의 전환 개발 사례](http://readme.skplanet.com/?p=13782)
 * [Caching at Netflix The Hidden Microservice by Scott Mansfield](https://www.youtube.com/watch?v=Ve7ueEYC4TM)
   * [Application data caching using SSDs](https://medium.com/netflix-techblog/application-data-caching-using-ssds-5bf25df851ef)
+* [User & Device Identity for Microservices @ Netflix Scale](https://www.youtube.com/watch?v=eEZHZ806d6o)
 * [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 * [A Microservices implementation journey — Part 1](https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917)
 * [How to Explain Microservice](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/how-to-explain-microservice/10155839662608462/)
