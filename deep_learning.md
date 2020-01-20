@@ -1703,6 +1703,7 @@ Deep Learning
 * [Intuitively Understanding Convolutions for Deep Learning](https://towardsdatascience.com/intuitively-understanding-convolutions-for-deep-learning-1f6f42faee1)
 * [Convolutional Neural Networks from the ground up](https://towardsdatascience.com/convolutional-neural-networks-from-the-ground-up-c67bb41454e1)
 * [Convolutional Neural Networks: The Biologically-Inspired Model](https://medium.com/cracking-the-data-science-interview/convolutional-neural-networks-the-biologically-inspired-model-9b7e948f6987)
+* [CNN에서 pooling이란?](https://medium.com/@hobinjeong/cnn에서-pooling이란-c4e01aa83c83)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
