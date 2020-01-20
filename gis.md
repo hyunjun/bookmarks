@@ -14,6 +14,9 @@ GIS
 * [**디지털 지도와 오픈 데이터를 바라보는 몇 가지 관점**](https://medium.com/seoul-libre-maps/%EB%94%94%EC%A7%80%ED%84%B8-%EC%A7%80%EB%8F%84%EC%99%80-%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EB%AA%87-%EA%B0%80%EC%A7%80-%EA%B4%80%EC%A0%90-76a4bd411168) 개발 이야기는 아니지만 open street map에 대한 좋은 글
 
 # Python
+* 주소DB가지고놀기
+  * [공공데이터포털 에서 주소DB 다운 받아 DB에 insert 하기 #1](https://stricky.tistory.com/116)
+  * [파이썬 으로 주소DB에 위도 경도 값 api로 받아 update 하기 #2](https://stricky.tistory.com/119)
 * [Deckgl for Jupyter Notebook - 위치 데이터 시각화 라이브러리인 Deck.gl을 쥬피터 노트북 에서 사용 가능](https://github.com/heumsi/deckgl-jupyter)
 * [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
