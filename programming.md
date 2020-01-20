@@ -471,6 +471,7 @@ Programming
   * [How is CDN different from caching?](https://www.quora.com/How-is-CDN-different-from-caching#)
   * [What is the difference between CDN and Cache server?](https://www.linkedin.com/pulse/what-difference-between-cdn-cache-server-larry-king/)
   * [Is it better to use Cache or CDN?](https://stackoverflow.com/questions/12916430/is-it-better-to-use-cache-or-cdn)
+  * [How To Power Your App Using a Realtime Data CDN](https://medium.com/hackernoon/powering-your-app-with-a-realtime-messaging-cdn-13d92a6df5f3)
   * What You Need to Know About Caching
     * [Part 1](https://developer.akamai.com/blog/2017/03/28/need-know-caching-part-1/)
     * [Part 2](https://developer.akamai.com/blog/2017/04/06/need-know-caching-part-2/)
@@ -1105,6 +1106,7 @@ Programming
 * [A Practical Guide to Testing in DevOps](https://leanpub.com/testingindevops/read_full)
 * [Rootconf - A community and conference on DevOps and cloud infrastructure](https://rootconf.in)
 * [DevOps는 원격근무를 추구하면 안되는 걸까?](https://www.slideshare.net/jesangyoon/devops-190288417)
+* [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
@@ -1538,6 +1540,8 @@ Programming
   * [월간 개발자스럽다 #49](https://blog.gaerae.com/2019/11/monthly.html)
   * [월간 개발자스럽다 #50](https://blog.gaerae.com/2019/12/monthly.html)
 * [news.hada.io](https://news.hada.io/)
+* [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
+  * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
