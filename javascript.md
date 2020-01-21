@@ -697,6 +697,7 @@ Javascript
 * [The Beginners Guide To Node.js](https://leanpub.com/nodejsbasics/read_full)
 * [PureScript by Example](https://leanpub.com/purescript/read_full)
 * [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
+* [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
