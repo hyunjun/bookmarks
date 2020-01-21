@@ -19,6 +19,7 @@ AWS
   * [joinc.co.kr/w/man/12/aws/study](https://www.joinc.co.kr/w/man/12/aws/study)
   * [Multi-tier 아키텍처](https://www.joinc.co.kr/w/man/12/aws/architecture/multitier)
 * [zigispace.net/category/클라우드\_가상화/AWS](https://zigispace.net/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B0%80%EC%83%81%ED%99%94/AWS)
+* [아마존 웹 서비스(AWS, Amazon Web Serivce)란?](https://www.44bits.io/ko/keyword/amazon-web-service)
 * [AWS Workshop tutorial for building a photo gallery web app using AWS Amplify and AWS AppSync](https://github.com/awskrug/amplify-photo-gallery-workshop)
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
@@ -614,6 +615,7 @@ AWS
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
 * [서버리스(Serverless) 프레임워크로 노드js(Node.js) 12 코드 실행해보기](https://www.44bits.io/ko/post/news--aws-lambda-now-supports-python-3-8-nodejs-12-0-java-11#%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4serverless-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EB%85%B8%EB%93%9Cjsnode.js-12-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
+* [Try to use Serverless function](https://jinhoyoo.github.io/Try-to-use-Serverless-function/)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
