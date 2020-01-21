@@ -1752,6 +1752,7 @@ Javascript
 * [How to easily ignore useEffect HTTP calls with RxJS](https://medium.freecodecamp.org/how-to-easily-cancel-useeffect-http-calls-with-rxjs-d1be418014e8)
 * [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
 * [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
+* [Using Axios with React](https://alligator.io/react/axios-react/)
 * [RX 1부](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181004_WJ_RX1.md)
 * [NgRx 5 and Schematics](https://medium.com/ngrx/ngrx-5-and-schematics-2d8cc3906506)
 * [페이스북의 인기 오픈소스 기술, ‘리액트’란?](http://www.bloter.net/archives/233564)
