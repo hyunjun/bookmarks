@@ -711,6 +711,7 @@ Docker
 * [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
 * [5 Kubernetes trends to watch in 2020](https://enterprisersproject.com/article/2020/1/kubernetes-trends-watch-2020)
 * [쿠버네티스 정리 #1 - 쿠버네티스 소개](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-1/)
+* [This Little Trick Keeps Netflix Running - Kubernetes & Containers Explained](https://www.youtube.com/watch?v=yUL5Lp5aPas)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
