@@ -24,6 +24,7 @@ Azure
 * [ML: OutOfMemory in Recommendation system](http://ohgyun.com/758)
 * [Azure Function을 활용해서, 네이버 웹툰 웹데이트 현황 크롤링해서 HTML로 보여주기](https://gist.github.com/nomadekr/eafa7a94a616f4dbb0d9f720748e572d)
 * [Azure Function 활용한 파이썬 크롤링 스케줄링](https://docs.google.com/presentation/d/13B1Y22PcXl1iddfymVPLPOTRriPCRSb0WwdoJR8huuo/edit#slide=id.p)
+* [Introduction to Azure Functions](https://github.com/apacdevpmmresources/Korea/blob/master/Presentations/20200120-seoul-oss-forum-functions.pdf)
 * [How to create Azure Service Fabric Cluster with security](http://www.dokyun.pe.kr/219)
 * [Saturday Azure Live 1803 Hands-on-Lab 실습 모듈](https://github.com/krazure/hands-on-lab/tree/master/SAL%201803%20%EB%82%B4%20%EC%86%90%EC%9C%BC%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EB%8A%94%20Azure,%20Rancher,%20Kubernetes%20(ARK)%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0)
 * [애저 컨테이너 레지스트리 기초](https://blog.aliencube.org/ko/2018/04/13/azure-container-registry-101/)
