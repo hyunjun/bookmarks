@@ -571,6 +571,7 @@ Algorithm
 * [How to Calculate Binary Tree height Part2: Using Recursion](https://medium.freecodecamp.org/how-to-calculate-binary-tree-height-with-the-recursive-method-aafc461f2201)
 * [**아는만큼 Search tree**](https://hackerwins.github.io/2019-05-10/search-tree)
 * [균형 이진 트리 : 제약 조건이 맞지 않으면 추가적인 연산을 한다](https://codingdog.tistory.com/entry/균형-이진-트리-제약-조건이-맞지-않으면-추가적인-연산을-한다)
+* [Handling Trees in Data Science Algorithmic Interview](https://www.kdnuggets.com/2020/01/handling-trees-data-science-algorithmic-interview.html)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
