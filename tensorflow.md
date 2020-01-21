@@ -442,6 +442,7 @@ TensorFlow
 * [RandWireNN_tensorflow - tensorflow implementation of Exploring Randomly Wired Neural Networks for Image Recognition using Cifar10, MNIST](https://github.com/swdsld/RandWire_tensorflow)
 * [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
 * [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
+* [Knowledge Distillation 리뷰](https://ezobear.github.io/model%20compression/2020/01/02/KD-post.html)
 * [NovelViewSynthesis - A TensorFlow implementation of a simple Novel View Synthesis model on ShapeNet (cars and chairs), KITTI, and Synthia](https://github.com/shaohua0116/NovelViewSynthesis-TensorFlow)
 * [Cutting Edge TensorFlow: New Techniques (Google I/O'19)](https://www.youtube.com/watch?v=Un0JDL3i5Hg)
 * [RBM Deep Dive with Tensorflow (KR)](https://dos-tacos.github.io/code%20review/RBM/)
