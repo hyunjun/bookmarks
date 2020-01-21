@@ -316,3 +316,4 @@ Keras
 * [Autonomous Driving using End-to-End Deep Learning: an AirSim tutorial](https://github.com/Microsoft/AutonomousDrivingCookbook/tree/master/AirSimE2EDeepLearning)
 * [DeepLearning_Basic_Tutorial](https://github.com/Parkchanjun/DeepLearning_Basic_Tutorial)
 * [Keras_Tutorial_PCJ](https://github.com/Parkchanjun/Keras_Tutorial_PCJ) colab
+* [초급자를 위한 기본적인 코드 참고용](https://newfront.dacon.io/competitions/official/235554/codeshare/461)
