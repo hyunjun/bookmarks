@@ -334,6 +334,7 @@ R
 * [매우 큰 수 혹은 매우 정밀한 수](http://ds.sumeun.org/?p=2103)
 * [ANN: 평균과 표준편차 출력 모형 KERAS와 인공신경망(ANN; ARTIFICIAL NEURAL NETWORK)](http://ds.sumeun.org/?p=2110)
 * [회귀: 내삽과 외삽](http://ds.sumeun.org/?p=2123)
+* [How to Remove Outliers in R](https://www.r-bloggers.com/how-to-remove-outliers-in-r/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
