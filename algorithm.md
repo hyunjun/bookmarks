@@ -570,6 +570,7 @@ Algorithm
 * [How to calculate a Binary Tree’s height -Part 1: Using array iteration in Ruby](https://medium.freecodecamp.org/how-to-calculate-a-binary-trees-height-using-array-iteration-in-ruby-63551c6c65fe)
 * [How to Calculate Binary Tree height Part2: Using Recursion](https://medium.freecodecamp.org/how-to-calculate-binary-tree-height-with-the-recursive-method-aafc461f2201)
 * [**아는만큼 Search tree**](https://hackerwins.github.io/2019-05-10/search-tree)
+* [균형 이진 트리 : 제약 조건이 맞지 않으면 추가적인 연산을 한다](https://codingdog.tistory.com/entry/균형-이진-트리-제약-조건이-맞지-않으면-추가적인-연산을-한다)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
