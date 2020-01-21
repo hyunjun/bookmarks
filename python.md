@@ -1609,6 +1609,7 @@ Python
 * [Python Basics: Sending E-mails](https://www.youtube.com/watch?v=qrJcblhVFzs)
 * [How to send an email with Python](https://www.youtube.com/watch?v=gzv183G9Vew)
 * [How to Read Emails using IMAP Download Attachments Python 3 for Beginners 2018](https://www.youtube.com/watch?v=e-OZeAHFpkw)
+* [Using Markdown to Create Responsive HTML Emails](https://pbpython.com/markdown-email.html)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 
@@ -2627,6 +2628,7 @@ Python
 * [PyV8 - a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
   * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
   * [Python, PyV8로 javascript 실행하기](https://blog.naver.com/dudwo567890/220895234080)
+* [PyVNCs - Simple command line multiplatform python VNC Server](https://github.com/radixcl/pyvncs)
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
