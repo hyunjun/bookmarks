@@ -605,6 +605,7 @@ Deep Learning
 * [How to Train Your ResNet 8: Bag of Tricks](https://myrtle.ai/how-to-train-your-resnet-8-bag-of-tricks/)
   * [How to Train Your ResNet - 8: Bag of Tricks](https://colab.research.google.com/github/davidcpage/cifar10-fast/blob/master/bag_of_tricks.ipynb#scrollTo=6IGml3SMd6ID) ipynb
 * [AI For Filmmaking Recognising Shot Types with ResNets](https://rsomani95.github.io/ai-film-1.html)
+* [ResNet: The Most Popular Network in the Computer-Vision Era](https://towardsdatascience.com/resnet-the-most-popular-network-in-computer-vision-era-973df3e92809)
 * [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
 * [Improving the way we work with learning rate](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
@@ -1506,6 +1507,7 @@ Deep Learning
 * [Hacking Neural Networks: A Short Introduction](https://github.com/Kayzaks/HackingNeuralNetworks)
 * [Teaching a neural network to use a calculator](https://reiinakano.com/2019/11/12/solving-probability.html)
 * [Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnsuite/nnstreamer)
+* [Uber Creates Generative Teaching Networks to Better Train Deep Neural Networks](https://www.kdnuggets.com/2020/01/uber-generative-teaching-networks-train-neural-networks.html)
 
 ## ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
