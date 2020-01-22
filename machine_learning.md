@@ -1096,6 +1096,7 @@ Machine Learning
 * Uber
   * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
   * [우버의 머신러닝 플랫폼 '미켈란젤로(Michelangelo)'의 진화](http://www.aitimes.kr/news/articleView.html?idxno=14495)
+  * [Productionizing Distributed XGBoost to Train Deep Tree Models with Large Data Sets at Uber](https://eng.uber.com/productionizing-distributed-xgboost/)
 
 # R
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
