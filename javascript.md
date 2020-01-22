@@ -2280,6 +2280,7 @@ Javascript
   * [The Great Gatsby Bootcamp - Full Gatsby.js Tutorial Course](https://www.youtube.com/watch?v=kzWIUX3CpuI)
   * [Gatsby Tutorials - a community-updated list of 214 video, audio and written tutorials to help you learn GatsbyJS](https://www.gatsbytutorials.com)
   * [Gatsby와 Contentful 연동하기](https://imch.dev/posts/integration-gatsby-with-contentful)
+  * [gatsby starter bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
