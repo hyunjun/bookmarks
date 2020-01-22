@@ -245,6 +245,7 @@
 * [How to Setup a Headless Raspberry Pi](https://hackernoon.com/how-to-setup-a-headless-raspberry-pi-7f2b8b00c790)
 * [Raspberry Pi admits to faulty USB-C design on the Pi 4](https://arstechnica.com/gadgets/2019/07/raspberry-pi-4-uses-incorrect-usb-c-design-wont-work-with-some-chargers/)
 * [Raspberry Pi 4B 설치가이드 Raspbian OS 설치](https://www.youtube.com/watch?v=tqYRBDcEBRQ)
+* [라즈베리파이 딥러닝 Computer Vision 프로젝트 - 직접 쓴 손글씨 인식](https://www.youtube.com/watch?v=xzzha2KnEDo)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
