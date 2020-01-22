@@ -335,6 +335,7 @@ R
 * [ANN: 평균과 표준편차 출력 모형 KERAS와 인공신경망(ANN; ARTIFICIAL NEURAL NETWORK)](http://ds.sumeun.org/?p=2110)
 * [회귀: 내삽과 외삽](http://ds.sumeun.org/?p=2123)
 * [How to Remove Outliers in R](https://www.r-bloggers.com/how-to-remove-outliers-in-r/)
+* [Data manipulation in R](https://www.r-bloggers.com/data-manipulation-in-r-2/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -432,8 +433,6 @@ R
     * 분산 시스템 없이 대용량 전처리 벤치마크. dplyr 8초, pandas out of memory, data.table 0.3초
   * [data-table-intro.R](https://github.com/laRusers/presentations/blob/master/2019-07-08_datatable/data-table-intro.R)
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
-* [DNH4](https://forkonlp.github.io/DNH4/)
-  * [네이버 뉴스와 다음 뉴스의 댓글 가져오기](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%89%B4%EC%8A%A4%EC%99%80-%EB%8B%A4%EC%9D%8C-%EB%89%B4%EC%8A%A4%EC%9D%98-%EB%8C%93%EA%B8%80-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/)
 * [‘dockr’: easy containerization for R](https://www.r-bloggers.com/dockr-easy-containerization-for-r/)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
   * [R to Python: Data wrangling with dplyr and pandas](https://gist.github.com/conormm/fd8b1980c28dd21cfaf6975c86c74d07)
@@ -472,12 +471,6 @@ R
 * [IRkernel - R kernel for Jupyter https://irkernel.github.io ](https://github.com/IRkernel/IRkernel)
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
-* [KoNLP](https://github.com/haven-jeon/KoNLP)
-  * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
-  * [KoNLP를 이용한 한국어 형태소 분석](https://brunch.co.kr/@mapthecity/9)
-  * [KoNLP 패키지에서 에러가 날 때](http://lightblog.tistory.com/127)
-  * [한글 언어 자원과 R: KoNLP 개선과 활용](https://www.slideshare.net/r-kor/r-konlp)
-  * [텍스트마이닝 - R을 활용한 웹 크롤링 및 단어 연관 분석 (KoNLP) :: Data 쿡북](http://datacookbook.kr/17)
 * magick
   * [Using Magick with RMarkdown and Shiny](https://www.r-bloggers.com/using-magick-with-rmarkdown-and-shiny/)
   * [Get text from pdfs or images using OCR: a tutorial with {tesseract} and {magick}](https://www.r-bloggers.com/get-text-from-pdfs-or-images-using-ocr-a-tutorial-with-tesseract-and-magick/)
@@ -486,9 +479,7 @@ R
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * MLflow
   * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
-* [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
-* [NLP4kec - 한글, 영어, 중국어 텍스트 데이터 파일을 입력받아 형태소 분석 후 R tm package에서 사용할 수 있도록 해주는 패키지](https://github.com/NamyounKim/NLP4kec)
 * [nodbi: the NoSQL Database Connector](https://www.r-bloggers.com/nodbi-the-nosql-database-connector/)
   * [NoSQL 데이터베이스를 다루는 nodbi](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-nosql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-nodbi/)
 * [pbapply - Adding progress bar to '\*apply' functions in R](https://github.com/psolymos/pbapply)
@@ -600,6 +591,11 @@ R
 * [WVPlots: Common Plots for Analysis](https://cran.r-project.org/web/packages/WVPlots/index.html)
   * [Example WVPlots](http://rpubs.com/jmount/WVPlots)
 
+## Library Crawler
+* [DNH4](https://forkonlp.github.io/DNH4/)
+  * [네이버 뉴스와 다음 뉴스의 댓글 가져오기](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%89%B4%EC%8A%A4%EC%99%80-%EB%8B%A4%EC%9D%8C-%EB%89%B4%EC%8A%A4%EC%9D%98-%EB%8C%93%EA%B8%80-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/)
+* [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
+
 # Machine Learning
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * [**R을 활용한 머신러닝**](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)
@@ -618,6 +614,18 @@ R
 * [Data Science and Machine Learning Bootcamp with R - Part 5 // Programing Basics](https://www.youtube.com/watch?v=qDM4G95Yw3k)
 * [Data Science and Machine Learning Bootcamp with R - Part 6 // Advanced Programming Logic](https://www.youtube.com/watch?v=rb1M66MUUOI)
 * [Machine Learning in R: Start with an End-to-End Test](https://www.r-bloggers.com/machine-learning-in-r-start-with-an-end-to-end-test/)
+* [Using unpack to Manage Your R Environment](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-1/)
+* [Code and Data in a large Machine Learning project](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-2/)
+
+# NLP
+* [Neural Network Machine Learning for NLP](https://www.r-bloggers.com/neural-network-machine-learning-for-nlp/)
+* [KoNLP](https://github.com/haven-jeon/KoNLP)
+  * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
+  * [KoNLP를 이용한 한국어 형태소 분석](https://brunch.co.kr/@mapthecity/9)
+  * [KoNLP 패키지에서 에러가 날 때](http://lightblog.tistory.com/127)
+  * [한글 언어 자원과 R: KoNLP 개선과 활용](https://www.slideshare.net/r-kor/r-konlp)
+  * [텍스트마이닝 - R을 활용한 웹 크롤링 및 단어 연관 분석 (KoNLP) :: Data 쿡북](http://datacookbook.kr/17)
+* [NLP4kec - 한글, 영어, 중국어 텍스트 데이터 파일을 입력받아 형태소 분석 후 R tm package에서 사용할 수 있도록 해주는 패키지](https://github.com/NamyounKim/NLP4kec)
 
 # RStudio
 * [Links to slides from rstudio::conf 2017](https://github.com/kbroman/RStudioConf2017Slides/blob/master/ReadMe.md)
