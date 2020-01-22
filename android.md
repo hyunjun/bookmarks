@@ -79,6 +79,7 @@ Android
 * [TaskKiller에 죽지 않는 서비스(Service) 만들기 2](http://ccdev.tistory.com/22)
 * [안드로이드 서비스(Android Service)](https://jungwoon.github.io/android/2019/07/22/Android-Service)
 * [Android에서 Service 로 Background 에서 음악 플레이 하기](https://developer88.tistory.com/36)
+* [안드로이드 서비스(Service)](https://brunch.co.kr/@mystoryg/93)
 * [가상화폐 관련 앱을 개발하다](https://medium.com/@joongwon/%EA%B0%80%EC%83%81%ED%99%94%ED%8F%90-%EA%B1%B0%EB%9E%98%EC%86%8C-%EC%95%B1%EC%9D%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8B%A4-e0f80dadc2c9)
 * [NAVER Tech Talk: 안드로이드 개발 밋업 (2018년 5월~8월)](https://d2.naver.com/news/4483716)
 * [NAVER Tech Talk: Android 밋업(2019년 3월,4월)](https://d2.naver.com/news/0566013)
