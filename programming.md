@@ -535,6 +535,7 @@ Programming
 * [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/) upstream cache, storage layering, thumbnail lifecycle, message forward, video traffic, high efficiency image format
 * [A quick introduction to Hexagonal Architecture](https://medium.com/codefountain/a-quick-introduction-to-hexagonal-architecture-484358c038b8)
 * [**LINE 메신저 앱 공유 모듈 통합 개발기 – 1**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-1/)
+* [**LINE 메신저 앱의 공유 모듈 통합 개발기 – 2**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-2/)
 * [주제별 영상 제공 웹 서비스](https://zuminternet.github.io/ZUM-Pilot-provide-video/) architecture diagram까지 이어지는 문서 작성에 대해 볼만함
 
 ## Architecture Distributed
@@ -1181,8 +1182,10 @@ Programming
 * [MSA에서 메시징 트랜잭션 처리하기](https://www.popit.kr/msa에서-메시징-트랜잭션-처리하기/)
   * Transactional Outbox Pattern, DB table을 message queue로 이용해 transaction을 보장하는데, DB를 queue로 이용하는 건 anti pattern 아니었나?
 * [커스텀푸시(리치 노티피케이션) / 푸시알림 전달 여부 고속 트래킹](https://rationalowl.tistory.com/20)
+* [**최신 메시지 큐(Messgae Queue) MQ 기술**](https://kji6252.github.io/2015/12/18/message-quere/)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
+* [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
 * [dynein - Airbnb's Open-source Distributed Delayed Job Queueing System](https://github.com/airbnb/dynein)
   * [Dynein: Building an Open-source Distributed Delayed Job Queueing System](https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99)
     * Airbnb has open sourced Dynein, their job queuing system that they use for offloading tasks from the main request path and performing other asynchronous operations. It uses DynamoDB as a scheduler for future jobs and SQS for queuing—the post describes how this is built in a highly scalable way.
