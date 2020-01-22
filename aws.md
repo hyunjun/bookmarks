@@ -572,6 +572,7 @@ AWS
 * [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 * [AWS lambda tip: cold start](https://dongqui.github.io/posts/labmda-tip)
+* [End Cold Starts in Your Serverless Apps with AWS Lambda Provisioned Concurrency](https://www.youtube.com/watch?v=EML6FKBdsNU)
 * [I wanted freeCodeCamp Toronto’s Twitter to tweet quotes, so I made a free bot to do it](https://medium.freecodecamp.org/running-a-free-twitter-bot-on-aws-lambda-66160eb4de4)
 * [람다, 서버리스의 첫걸음](http://jybaek.tistory.com/747)
 * [람다, 모르고 쓰면 병이다](http://jybaek.tistory.com/749)
