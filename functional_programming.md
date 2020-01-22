@@ -104,6 +104,7 @@ Functional Programming
 * [수학에서 기원한 프로그래밍 패러다임, 순수 함수](https://evan-moon.github.io/2019/12/29/about-pure-functions/)
 * [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
+* [Thinking in Functions, Part I: The Input/Output pattern](https://medium.com/@kettanaito/thinking-in-functions-part-i-the-input-output-pattern-d36e19e05e5f)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
