@@ -491,6 +491,7 @@ R
 * purrr
   * [Functional Programming in R with purrr](https://towardsdatascience.com/functional-programming-in-r-with-purrr-469e597d0229)
   * [번역 폴더안의 csv 파일들을 {purrr}와 {readr}을 이용해서 한방에 불러오기](https://mrchypark.github.io/post/번역-폴더안의-csv-파일들을-purrr-와-readr-을-이용해서-한방에-불러오기)
+  * [Using purrr to make nice publishable tables](https://www.r-bloggers.com/using-purrr-to-make-nice-publishable-tables/)
   * [purrrogress - Add progress bars to mapping functions](https://github.com/halpo/purrrogress)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
@@ -616,6 +617,8 @@ R
 * [Machine Learning in R: Start with an End-to-End Test](https://www.r-bloggers.com/machine-learning-in-r-start-with-an-end-to-end-test/)
 * [Using unpack to Manage Your R Environment](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-1/)
 * [Code and Data in a large Machine Learning project](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-2/)
+* [modelStudio - Interactive Studio with Explanations for ML Predictive Models](https://modeloriented.github.io/modelStudio/)
+  * [Explanatory Model Analysis with modelStudio](https://www.r-bloggers.com/explanatory-model-analysis-with-modelstudio/)
 
 # NLP
 * [Neural Network Machine Learning for NLP](https://www.r-bloggers.com/neural-network-machine-learning-for-nlp/)
