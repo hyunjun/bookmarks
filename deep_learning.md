@@ -1355,6 +1355,7 @@ Deep Learning
   * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
 * [STAT 157, Spring 19](https://courses.d2l.ai/berkeley-stat-157/syllabus.html)
 * [MIT Deep Learning](https://deeplearning.mit.edu/)
+* [**UCL x DeepMind Deep Learning Lecture Series - General**](https://www.eventbrite.co.uk/o/ucl-x-deepmind-deep-learning-lecture-series-general-29078980901)
 
 # Neural Network
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
