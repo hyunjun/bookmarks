@@ -875,6 +875,7 @@ Deep Learning
 * [Deep Learning Book Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 * [NEURAL NETWORKS AND DEEP LEARNING: A TEXTBOOK](http://www.charuaggarwal.net/neural.htm)
   * [Deep Learning- Charu Aggarwal](https://www.youtube.com/playlist?list=PLLo1RD8Vbbb_6gCyqxG_qzCLOj9EKubw7)
+* [TinyML Book](https://tinymlbook.com)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
