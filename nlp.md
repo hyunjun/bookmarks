@@ -359,6 +359,7 @@ NLP
 * [카톡 데이터는 어떻게 정제할 수 있을까? - Dialog-BERT 만들기 1편](https://blog.pingpong.us/dialog-bert-1)
 * [누가누가 잘하나! 대화체와 합이 잘 맞는 Tokenizer를 찾아보자! - Dialog-BERT 만들기 2편](https://blog.pingpong.us/tokenizer/)
 * [카톡 대화 데이터를 BERT로 잘 학습시킬 수 있을까? - Dialog-BERT 만들기 3편](https://blog.pingpong.us/dialog-bert-pretrain/)
+* [대화의 Context를 반영한 답변을 생성할 수 있을까? - Dialog-BERT 만들기 4편](https://blog.pingpong.us/ml-dialog-bert-multiturn/)
 * [A Simple Guide On Using BERT for Binary Text Classification](https://medium.com/swlh/a-simple-guide-on-using-bert-for-text-classification-bbf041ac8d04)
 * [Fast implementation of BERT inference directly on NVIDIA (CUDA, CUBLAS) and Intel MKL](https://github.com/zhihu/cuBERT)
 * [MULTI GPU환경에서 ETRI 한국어 BERT모델 활용한 Korquad 학습 방법](https://github.com/domyounglee/korbert-mecab-multigpu)
