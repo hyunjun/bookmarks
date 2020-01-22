@@ -391,6 +391,7 @@ NLP
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (1/2)](https://paul-hyun.github.io/bert-01/)
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (2/2)](https://paul-hyun.github.io/bert-02/)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
+* [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
