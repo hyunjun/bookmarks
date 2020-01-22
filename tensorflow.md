@@ -245,6 +245,7 @@ TensorFlow
 * [Tensorflow Implementation of Pathnet from Google Deepmind](https://github.com/jaesik817/pathnet)
 * [TensorFlow implementation of Thin Plate Spline Spatial Transformer Network](https://github.com/iwyoo/TPS_STN-tensorflow)
 * [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
+* [Transformer model for language understanding](https://www.tensorflow.org/tutorials/text/transformer)
 * [char-cnn](https://github.com/sjchoi86/advanced-tensorflow/tree/master/char-rnn)
 * [Pedagogical Learning with the Inkling Programming Language | Bonsai](https://bons.ai/blog/the-root-of-bonsai-inkling-and-its-compiler)
   * [텐서플로의 복잡성 숨기는 새로운 AI 언어 '인클링'](http://www.ciokorea.com/news/33898)
