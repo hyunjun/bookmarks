@@ -238,6 +238,10 @@ PyTorch
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
 * [Delve lets you monitor PyTorch model layer saturation during training](https://pypi.org/project/delve/)
   * [Optimizing Deep Neural Networking with Delve - Justin Shenk](https://www.youtube.com/watch?v=kFT58uIRd1Q)
+* [DeOldify - A Deep Learning based project for colorizing and restoring old images (and video!)](https://github.com/jantic/DeOldify)
+  * [DeOldify - Colorize your own photos!](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb) ipynb
+  * [DeOldify - Colorize your own videos!](https://colab.research.google.com/github/jantic/DeOldify/blob/master/VideoColorizerColab.ipynb) ipynb
+  * ["Decrappify" at Facebook F8 - New Approaches to Image and Video Reconstruction Using Deep Learning](https://www.youtube.com/watch?v=MdlT6IypKH8)
 * [Detectron with VoVNet : select the vovnet branch https://arxiv.org/abs/1904.09730 ](https://github.com/stigma0617/maskrcnn-benchmark-vovnet/tree/vovnet)
 * [Detectron2: A PyTorch-based modular object detection library](https://ai.facebook.com/blog/-detectron2-a-pytorch-based-modular-object-detection-library-/)
 * [**Detectron2 Tutorial**](https://colab.research.google.com/github/visionNoob/detectron2_aihub_tutorial/blob/master/Detectron2_Tutorial_(kor_ver).ipynb)
