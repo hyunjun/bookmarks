@@ -275,6 +275,7 @@ R
 * [로컬상에서 Database를 간접경험해 보기 위한 sqlite DB를 R에서 만들어 보기](https://lovetoken.github.io/r/2019/01/03/RSQLite.html)
 * [Jupyter Notebook + R 연동하기](https://cozydatascientist.tistory.com/29)
 * [R Markdown 기초](https://blog.anpanman.co.kr/posts/2019-01-03-rmarkdown/)
+* [Tips and tricks in RStudio and R Markdown](https://www.r-bloggers.com/tips-and-tricks-in-rstudio-and-r-markdown/)
 * [R 정규표현식 : 남들은 잘 모르는 기초](https://medium.com/@khkim_93600/r-정규표현식-기초-6ae5f11d25bd)
 * [R 정규표현식 : ERE vs. PCRE](https://medium.com/@khkim_93600/r-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-ere-vs-pcre-39014b9c4dc5)
 * [How to visualise a Dataset according to its Class variables in R](https://setscholars.net/2019/03/02/how-to-visualise-a-dataset-according-to-its-class-variables-in-r/)
