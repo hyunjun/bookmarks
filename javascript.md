@@ -1595,6 +1595,7 @@ Javascript
 * [crypto 모듈을 사용한 암호화](https://www.zerocho.com/category/NodeJS/post/593a487c2ed1da0018cff95d)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
   * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
+* [Deno: Will It Replace Node.JS?](https://www.youtube.com/watch?v=lcoU9jtsK24)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
