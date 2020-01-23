@@ -652,6 +652,7 @@ Interview
 * [스톡옵션 가격](https://www.thestartupbible.com/2019/10/pricing-stock-options.html)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 * [기업이 당신과 연봉협상하지 않은 진짜 이유](https://www.upfly.me/2019/07/25/how-to-negotiate-salary-well/)
+* [스톡옵션?](https://brunch.co.kr/@mirr5510/29)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 * [perks.guide](http://perks.guide/) 회사 복지 비교
