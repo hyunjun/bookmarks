@@ -834,6 +834,8 @@ Machine Learning
 * [캐글 타이타닉 따라해보기 #1](https://stricky.tistory.com/82)
 * [캐글 타이타닉 따라해보기 #2](https://stricky.tistory.com/83)
 * [Kaggle Winning Solutions - Sortable and searchable compilation of solutions to past Kaggle competitions](http://kagglesolutions.com/)
+* [Better Models Faster with Weights & Biases](https://www.wandb.com/articles/better-models-faster-with-weights-biases)
+  * [Why Weights & Biases Gives You An Edge On Kaggle Competitions](https://www.kaggle.com/lavanyashukla01/better-models-faster-with-weights-biases)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
