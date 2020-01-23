@@ -479,6 +479,7 @@ R
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * MLflow
   * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
+* nse2r [Introducing nse2r](https://www.r-bloggers.com/introducing-nse2r/)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
 * [nodbi: the NoSQL Database Connector](https://www.r-bloggers.com/nodbi-the-nosql-database-connector/)
   * [NoSQL 데이터베이스를 다루는 nodbi](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-nosql-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-nodbi/)
