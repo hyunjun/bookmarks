@@ -79,6 +79,7 @@ Programming Books
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
+* (NOT YET) [양자 컴퓨팅 입문 - 간결하게 배우는 양자 컴퓨팅](http://acornpub.co.kr/book/quantum-beginner)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://jirak.net/wp/도서-오픈-소스로-미래를-연마하라/)
 * (NOT YET) [심플 소프트웨어 - 코드의 단순성, 가독성, 안정성, 유지보수](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=212938581)
 * (NOT YET) [개발자의 글쓰기 - 변수 네이밍부터 릴리스 노트, 장애 보고서, 기술 블로그까지, 프로그래머의 글쓰기 고민 끝!](https://wikibook.co.kr/on-writing/)
@@ -236,6 +237,7 @@ Programming Books
   * [Learning C++ Functional Programming](https://github.com/PacktPublishing/LearningCPPFunctionalProgramming)
   * [(번역서) 모던 C++로 배우는 함수형 프로그래밍 예제 코드](https://github.com/surinkim/learning_cpp_functional_programming_kor)
 * [C++ 최적화 : 최고 성능을 구현하는 10가지 검증된 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B8975427001)
+* (NOT YET) [고성능을 위한 언어 C++ - 이론과 C++17, 메모리 관리, 동시성, STL 알고리즘 모범 사례](http://acornpub.co.kr/book/c-high-performance)
 
 # C#
 
@@ -352,6 +354,7 @@ Programming Books
 * Microsoft Azure 에센셜 (Azure 입문 & 개발자를 위한 Azure 웹 앱)
   * 2016.12
   * 한라 005.118샤92ㅁ
+* (NOT YET) [지능형 클라우드 애플리케이션 구축 - Azure 서버리스 아키텍처를 활용한 확장성 있는 AI 모형 개발하기](http://acornpub.co.kr/book/intelligent-cloud-app)
 * (NOT YET) 알고리즘 트레이딩 시스템 개발
   * [Algorithm-Trading-System-Book-Code](https://github.com/greentec/Algorithm-Trading-System-Book-Code/tree/master)
 * [실무 프로젝트로 배우는 빅데이터 기술](http://wikibook.co.kr/bigdata/)
@@ -847,6 +850,7 @@ Programming Books
   * [클라우드 네이티브 인프라스트럭처:진정한 클라우드 네이티브 컴퓨팅 시대를 위한 아키텍처 패턴과 설계](https://blog.outsider.ne.kr/1428)
 * (NOT YET) [구글 클라우드 플랫폼 입문 - 웹부터 머신러닝을 이용한 클라우드 애플리케이션까지](https://freelec.co.kr/book/%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EC%9E%90/)
 * (NOT YET) [대용량 아키텍처와 성능 튜닝조대협의 서버 사이드](https://freelec.co.kr/book/1749/)
+* (NOT YET) [클라우드 네이티브 패턴 - 변화에 잘 견디는 소프트웨어 개발](http://acornpub.co.kr/book/cloud-native-patterns)
 
 # Interview
 
@@ -972,6 +976,7 @@ Programming Books
   * ★★★☆☆ 실용적. 기초부터 시작해 Rest API 구현까지
 * (NOT YET) [Electron 애플리케이션 개발 - 웹 기술로 구현하는 크로스 플랫폼 데스크톱 애플리케이션](https://freelec.co.kr/book/1500/)
 * (NOT YET) [실전! Node.js 마이크로서비스 개발 자바스크립트를 이용한 마이크로서비스 구축부터 보안, 테스트, 배포까지](http://wikibook.co.kr/nodejs-microservices/)
+* (NOT YET) [Node.js로 프로그래밍 시작하기](http://acornpub.co.kr/book/get-nodejs)
 
 ## React
 * (NOT YET) [ReactJS 이 정도는 알아야지](http://bjpublic.tistory.com/288)
@@ -1095,6 +1100,7 @@ Programming Books
 * (NOT YET) [파이썬으로 풀어보는 수학 코드로 통계, 확률, 미적분과 같은 다양한 수학 탐험하기](http://acornpub.co.kr/book/doing-math-with-python)
 * (NOT YET) [소문난 명강의 : 김도형의 데이터 사이언스 스쿨(수학 편)](http://www.hanbit.co.kr/store/books/look.php?p_code=B3111220544) 아이파이썬(IPython), 사이킷런(Scikit-Learn), 맷플롯립(matplotlib), 넘파이(NumPy), 시본(seaborn), 사이파이(SciPy), 피지엠파이(pgmpy)
 * (NOT YET) [엔지니어를 위한 선형대수 - 철저한 증명을 통해 깊고 확실하게 이해하는 선형대수학](https://wikibook.co.kr/linear-algebra/)
+* (NOT YET) [파이썬과 함께 하는 수학 어드벤처 - 파이썬과 프로세싱으로 수학 개념 이해하기](http://acornpub.co.kr/book/math-adventures)
 
 # Network
 
