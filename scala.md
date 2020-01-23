@@ -925,14 +925,7 @@ Scala
 * [How to write composable functions and correct programs](https://medium.freecodecamp.org/monadic-composition-and-kleisli-arrows-1d96979bb32)
 * [A Guide to Scala Collections: Exploring Monads in Scala Collections](https://blog.redelastic.com/a-guide-to-scala-collections-exploring-monads-in-scala-collections-ef810ef3aec3)
 * [A roadtrip with monads: from MTL, through tagless, to BIO - Paweł Szulc](https://www.youtube.com/watch?v=QM86Ab3lL20)
-* [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
-* [Structuring Functional Programs with Tagless Final](https://medium.com/@andreas.hartmann/structuring-functional-programs-with-tagless-final-33af9e1dd0d)
 * [38 lines of code towards better data validation in Scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76) monad transformers, type classes, tagless final
-* [Revisiting Tagless Final Interpreters](https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80)
-* [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
-* [EXPLORING TAGLESS FINAL PATTERN FOR EXTENSIVE AND READABLE SCALA CODE](https://scalac.io/tagless-final-pattern-for-scala-code)
-* [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) tagless final
-* [Using Tagless Final with laws - Scala tutorial](https://www.youtube.com/watch?v=mkQLU7OzqYM)
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
 * [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
@@ -946,6 +939,15 @@ Scala
 * [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
 * [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
+
+## Monad Tagless Final
+* [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
+* [Structuring Functional Programs with Tagless Final](https://medium.com/@andreas.hartmann/structuring-functional-programs-with-tagless-final-33af9e1dd0d)
+* [Revisiting Tagless Final Interpreters](https://gist.github.com/OlivierBlanvillain/48bb5c66dbb0557da50465809564ee80)
+* [Typed Tagless Final Interpreters](http://okmij.org/ftp/tagless-final/course/lecture.pdf)
+* [EXPLORING TAGLESS FINAL PATTERN FOR EXTENSIVE AND READABLE SCALA CODE](https://scalac.io/tagless-final-pattern-for-scala-code)
+* [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf)
+* [Using Tagless Final with laws - Scala tutorial](https://www.youtube.com/watch?v=mkQLU7OzqYM)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
