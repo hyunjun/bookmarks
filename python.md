@@ -3417,6 +3417,7 @@ Python
 * [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 * [Some New Features in Python 3.8](https://www.youtube.com/watch?v=-Rh4XW89VlQ)
 * [Cool New Features in Python 3.8](https://realpython.com/python38-new-features/)
+* [놓쳐서는 안 될' 파이썬의 새로운 기능 6가지](http://www.itworld.co.kr/news/142374) 3.8
 * [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
 
 # SciPy
