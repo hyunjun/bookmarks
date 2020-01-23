@@ -1650,6 +1650,7 @@ Programming
   * [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 * [Valut - Manage Secrets and Protect Sensitive Data](https://www.vaultproject.io)
+  * [Docker + Consul + Vault: A Practical Guide](https://www.marcolancini.it/2017/blog-vault/)
   * [Vault - HashiCorp에 의해서 개발된 크로스플랫폼 패스워드 및 인증 관리 시스템. 공개되면 안되는 비밀번호, API 키, 토큰 등을 저장하고 관리](https://www.joinc.co.kr/w/man/12/vault)
   * [**해시코프 볼트 셋팅하기**](https://seonghyeon.dev/vault-setup/)
   * [HashiCorp의 비밀정보 관리 도구 Vault의 구성](https://blog.outsider.ne.kr/1266)
@@ -1657,6 +1658,7 @@ Programming
   * [20명 규모의 팀에서 Vault 사용하기](https://www.slideshare.net/DoyoonKim30/20-vault-107929281)
   * [Vault 자습서](http://postgresql.kr/blog/vault_tutorial.html)
   * [암호나 안전한 정보를 저장하기 위한 소프트웨어 금고 (Vault)](http://egloos.zum.com/mcchae/v/11318672)
+    * [docker-compose for vault with consul](https://github.com/mcchae/docker_consul_vault)
   * [비밀번호 TOOL, VAULT 사용법](https://seulcode.tistory.com/174)
 
 # Refactoring
