@@ -458,6 +458,8 @@ Python
 * [30 Helpful Python Snippets You Should Learn Today](https://morioh.com/p/271bc88c0100)
 * [Python — From Intermediate to Superhero](https://medium.com/@negoiddfelix/python-from-intermediate-to-superhero-1a86e518bb77) list comprehension, lambda, map, filter, reduce, locals, globals, context manager, decorator, generator
 * [Performant Python](https://strangemachines.io/articles/performant-python) tuple, generator, slotted class, namedtuple, map, filter, comprehension에 대한 테스트
+* [04-4 append()와 +연산을 통한 리바인딩의 성능비교](https://www.youtube.com/watch?v=WsPHRmey4fM)
+  * [Python-append-vs-rebind-numpy.ipynb](https://colab.research.google.com/drive/1P_hZ7G1lrnZrdnjY01tIY8BZLIGYxtpv)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
