@@ -1053,6 +1053,7 @@ Python
   * [String interpolation in Python and R](https://www.johndcook.com/blog/2019/09/12/string-interpolation/)
   * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
   * [Converting Between Strings and Lists in Python](https://www.youtube.com/watch?v=vhzxtXwIHYI)
+  * [10 Python String Processing Tips & Tricks](https://www.kdnuggets.com/2020/01/python-string-processing-primer.html)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
