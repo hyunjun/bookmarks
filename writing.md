@@ -55,6 +55,8 @@ Writing
   * 업무 대화를 할 때(이메일, 메신저 등) 정리, todo등의 중요성을 강조하는 내용
   * 모든 업무 대화는 질문, 부탁/지시, 정보 전달 중 한 가지 주제의 이야기여야 한다
 * [우리 문장이 달라졌어요. 제안서에 들어가는 요상한 문장들을 정리해보았습니당](https://brunch.co.kr/@roysday/381)
+* [글쓰기가 막막할 때... 바보야, 문제는 '순서'야](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001579940)
+* [How to Use the STAR Interview Response Technique](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
