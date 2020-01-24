@@ -511,6 +511,7 @@ R
   * [Fastai Collaborative Filtering with R and Reticulate](https://www.r-bloggers.com/fastai-collaborative-filtering-with-r-and-reticulate/amp/)
   * [Shiny + Reticulate + Pyspark 소개.pdf](https://github.com/shinykorea/Meetup/blob/master/20190327/Shiny%20%2B%20Reticulate%20%2B%20Pyspark%20%EC%86%8C%EA%B0%9C.pdf)
   * [How to import Python classes into R](https://www.r-bloggers.com/how-to-import-python-classes-into-r/)
+  * [What R you in python? (`R` vectors)](https://www.r-bloggers.com/what-r-you-in-python-r-vectors/)
 * [revisit: a "Statistical Audit" for Statistical Reproducibility and Alternate Analysis](https://github.com/matloff/revisit)
 * [RInno makes it easy to install local shiny apps by providing an interface between R, Inno Setup, an installer for Windows programs (sorry Mac and Linux users)](https://ficonsulting.github.io/RInno/index.html)
 * [rio: A Swiss-Army Knife for Data I/O](https://github.com/leeper/rio)
