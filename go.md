@@ -159,14 +159,6 @@ Go
 * [Writing a Compiler in Go](http://squanch.org/writing-a-compiler-in-go/)
 * [Go언어로 오픈소스 배송조회 서비스 만들기](http://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
 * [Go Sort Faster](http://sagivo.com/post/110274207073/faster-sorting-using-go)
-* [Real-time Machine Learning in Go](https://github.com/michaelbironneau/golanguk2016)
-  * [Goml](https://github.com/cdipaolo/goml)
-  * [Golearn](https://github.com/sjwhitworth/golearn)
-    * [GoLearn-Machine Learning for GO](https://www.techleer.com/articles/351-golearn-machine-learning-for-go/)
-  * [Others](https://github.com/josephmisiti/awesome-machine-learning#go)
-  * [Tensorflow](github.com/danieldk/tensorflow)
-  * [Caffe](github.com/wmyaoyao/gocaffe)
-* [dotGo 2017 - Francesc Campoy Flores - Machine Learning and Go](https://www.youtube.com/watch?v=lcyNjgEG9H8)
 * [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [blog.altoros.com/author/siarhei-matsiukevich](http://blog.altoros.com/author/siarhei-matsiukevich)
   * [golangkorea.github.io/series/golang--internals](https://golangkorea.github.io/series/golang--internals/)
@@ -467,6 +459,17 @@ Go
 * [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
+
+# Machine Learning
+* [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
+* [Real-time Machine Learning in Go](https://github.com/michaelbironneau/golanguk2016)
+  * [Goml](https://github.com/cdipaolo/goml)
+  * [Golearn](https://github.com/sjwhitworth/golearn)
+    * [GoLearn-Machine Learning for GO](https://www.techleer.com/articles/351-golearn-machine-learning-for-go/)
+  * [Others](https://github.com/josephmisiti/awesome-machine-learning#go)
+  * [Tensorflow](github.com/danieldk/tensorflow)
+  * [Caffe](github.com/wmyaoyao/gocaffe)
+* [dotGo 2017 - Francesc Campoy Flores - Machine Learning and Go](https://www.youtube.com/watch?v=lcyNjgEG9H8)
 
 # TDD, Test
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
