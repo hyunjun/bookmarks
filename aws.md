@@ -52,6 +52,7 @@ AWS
 * [서로 다른 EC2 인스턴스간에 연결하기 (feat. Ping)](https://jojoldu.tistory.com/430)
 * [EC2 (Amazon Linux 1) 에 Jenkins 설치하기](https://jojoldu.tistory.com/441)
 * [아마존 EC2 인스턴스 타입 검색 기능 추가](https://www.44bits.io/ko/post/news-filtering-amazon-ec2-instance-types)
+* [EC2 CPU Usage 이상 동작 이슈 해결하기](https://brunch.co.kr/@alden/59)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
