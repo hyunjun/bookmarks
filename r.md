@@ -337,6 +337,7 @@ R
 * [회귀: 내삽과 외삽](http://ds.sumeun.org/?p=2123)
 * [How to Remove Outliers in R](https://www.r-bloggers.com/how-to-remove-outliers-in-r/)
 * [Data manipulation in R](https://www.r-bloggers.com/data-manipulation-in-r-2/)
+* [최대우도법 1. (Maximum Likelihood Estimation)](https://www.youtube.com/watch?v=KefmJvzvcjM)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -488,6 +489,7 @@ R
 * plumber
   * [how to use plumber in shiny environment](https://github.com/shinykorea/plumber)
   * [Securing a dockerized plumber API with SSL and Basic Authentication](https://www.r-bloggers.com/securing-a-dockerized-plumber-api-with-ssl-and-basic-authentication/)
+  * [How to create REST APIs with R Plumber](https://www.r-bloggers.com/how-to-create-rest-apis-with-r-plumber/)
 * [pqR - a pretty quick version of R](http://www.pqr-project.org/)
 * [promotionImpact - 프로모션 효과 분석용 R 패키지](https://danbi-ncsoft.github.io/works/2019/01/08/works-promotionImpact.html)
 * purrr
