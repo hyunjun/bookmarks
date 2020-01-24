@@ -252,7 +252,6 @@ Scala
 * [Asynchronous & Non-Blocking Scala - A look at Netty & NIO for Async Networking via Scala](https://www.youtube.com/watch?v=bki5f3Bq7b0)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
-* [데이터 분석을 위한 Scala by VCNC](https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala)
 * [아카(Akka) 시작하기 교육후기](http://tmondev.blog.me/220528821645)
 * [스프링캠프 2016 B-1: AKKA로 구성한 추천시스템, 검색엔진급](https://www.youtube.com/watch?v=snTnobuyp9E)
 * [삼성 SDS TechTonic 임백준의 실전 아카](https://www.youtube.com/watch?v=P0M_-eNbOuI)
@@ -1153,6 +1152,7 @@ Scala
 * [Scala Tutorial Through Katas](https://technologyconversations.com/2014/03/10/scala-tutorial-through-katas/)
 * [What are code katas and why should we care?](https://medium.com/@alexandru.macavei/what-are-code-katas-and-why-should-we-care-ffaaa558556)
 * [5월의 나프다 웨비너 - 자바 개발자를 위한 스칼라 입문](https://www.youtube.com/watch?v=T-8NXAabgwY)
+* [데이터 분석을 위한 Scala by VCNC](https://speakerdeck.com/vcnc/deiteo-bunseogeul-wihan-scala) implicit 설명 좋음
 * [Scala Tutorial](https://www.youtube.com/watch?v=DzFt0YkZo8M)
 * [Scala World](https://www.youtube.com/channel/UCc0j7uOItUDh7vEvPb-TeCg)
 * [Learning Scala? Learn the Fundamentals First!](https://www.youtube.com/watch?v=ugHsIj60VfQ)
