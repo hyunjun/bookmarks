@@ -51,7 +51,6 @@ Interview
 * [The Growing Importance of Social Skills in the Labor Market](http://scholar.harvard.edu/files/ddeming/files/deming_socialskills_august2015.pdf)
 * [여행 많이 하는 사람을 채용해야 하는 10가지 이유](http://ppss.kr/archives/55474)
 * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
-* [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
 * [The One Method I’ve Used to Eliminate Bad Tech Hires](https://medium.com/swlh/the-one-method-to-eliminate-bad-tech-hires-630d539b2e1d)
 * [스타벅스 광화문점의 매출은 얼마나 될까: 면접관은 왜 정답이 없는 질문을 던지는가?](http://ppss.kr/archives/31509)
 * [How I Got & Lost a VC Job Offer in 72 Hours](https://www.linkedin.com/pulse/how-i-got-lost-vc-job-offer-72-hours-omar-hmaissy)
@@ -640,8 +639,10 @@ Interview
 * [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
 * [외국계 연봉협상 기본급 이외에 협상할 수 있는 것들](https://www.youtube.com/watch?v=xiYOJ-tHe8s)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
+* [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
 * [Ten Things Never, Ever To Say In A Salary Negotiation](https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lizryan/2018/02/11/ten-things-never-ever-to-say-in-a-salary-negotiation/)
 * [**How not to bomb your offer negotiation**](https://medium.freecodecamp.org/how-not-to-bomb-your-offer-negotiation-c46bb9bc7dea) salary negotiation
+* [Ten Rules for Negotiating a Job Offer](https://medium.com/free-code-camp/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6)
 * [How I negotiated a $300,000 job offer in Silicon Valley](https://blog.usejournal.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656)
 * [영어면접 질문 3 - What's Your Current Salary?](https://www.youtube.com/watch?v=Ta0ldAeZETo)
 * [실리콘 밸리 기업의 엔지니어 연봉](http://tinytechreview.com/실리콘-밸리-기업의-엔지니어-연봉)
