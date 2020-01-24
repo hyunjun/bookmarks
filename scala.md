@@ -9,6 +9,7 @@ Scala
 * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
+* [SCALA CHEATSHEET](https://docs.scala-lang.org/cheatsheets/index.html)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
 * [Closures in Scala](https://medium.com/@senthil.nayagan/closures-in-scala-85b3a0cfd40f)
 * [Whats are Closures in Scala](https://medium.com/@senthil.nayagan/whats-are-closures-in-scala-eda698ced70c)
@@ -388,6 +389,7 @@ Scala
 * [Rethinking Streaming Workloads with Akka Streams: Part I](https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-i/)
 * [Rethinking Streaming Workloads with Akka Streams: Part II](https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-ii/)
 * [WebSocket Streaming with Scala - How Akka Streams can make life easier](https://towardsdatascience.com/websocket-streaming-with-scala-fab2feb11868)
+* [Akka Streams: error handling in event processing pipelines](https://medium.com/@bszwej/akka-streams-error-handling-7ff9cc01bc12)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -552,6 +554,7 @@ Scala
     * [Concurrent programming in 2019: Akka, Monix or ZIO? - Adam Warski](https://www.youtube.com/watch?v=TqJg4AuxEIQ)
     * [ZIO environment meets constructor-based dependency injection](https://blog.softwaremill.com/zio-environment-meets-constructor-based-dependency-injection-6a13de6e000)
     * [5 pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-pitfalls-to-avoid-when-starting-to-work-with-zio-adefdc7d2d5c)
+    * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
@@ -694,6 +697,8 @@ Scala
   * [Towards more functional Play — Part 2](https://blog.softwaremill.com/towards-more-functional-play-part-2-ac20d02bb2f5)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
+* [Chimney - Scala library for boilerplate-free data transformations](https://scalalandio.github.io/chimney/)
+  * [Data Juggling - Part 1 - Getting Started with #Chimney](https://www.youtube.com/watch?v=ezz0BpEHEQY)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -772,6 +777,9 @@ Scala
   * [The Magic Behind Parser Combinators](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators)
   * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
   * [Scala Parser Combinator로 CSV 파싱하기](https://rhymeofcode.wordpress.com/2015/12/30/scala-parser-combinator%EB%A1%9C-csv-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0/)
+* [scala-pre-commit-hooks - Pre-commit/Pre-push hooks for Scala](https://github.com/softwaremill/scala-pre-commit-hooks)
+  * [Reusable pre-commit hooks in Scala projects](https://blog.softwaremill.com/reusable-pre-commit-hooks-in-scala-projects-d8bb327047ee)
+  * [Git hooks in Scala projects — the easy way!](https://blog.softwaremill.com/git-hooks-in-scala-projects-the-easy-way-cfca02741d33)
 * [scala steward - A robot that helps you keeping your Scala projects up-to-date](https://github.com/fthomas/scala-steward)
   * [KEEP YOUR PROJECTS UP-TO-DATE WITH SCALA STEWARD](https://www.scala-lang.org/blog/2019/07/10/announcing-scala-steward.html)
 * [scala-time - Basic Scala utilities allowing for easier use of java.time APIs](https://github.com/reactivecodes/scala-time)
@@ -1081,6 +1089,7 @@ Scala
 * [Scala Back to Basics: Type Classes byTomer Gabel](https://www.youtube.com/watch?v=SsOhrYuCuns)
 * [Typeclasses for Beginners](https://medium.com/@awesomeorji/typeclasses-for-beginners-763081a720f7)
 * [Scala Typeclasses](https://medium.com/@pvinchon/scala-typeclasses-cec4b5f64744)
+* [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/)
 * [The Transaction Type Class](https://medium.com/mediarithmics-engineering/the-transaction-type-class-f9f6f761d959)
 * [OOP vs. FP. The pursuit of extensibility part #2](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)]
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
@@ -1107,6 +1116,7 @@ Scala
     * [Typechecking SQL queries with doobie](https://blog.godatadriven.com/doobie-monix-jdbc-example)
     * [Presto with Doobie](https://medium.com/scout24-engineering/presto-with-doobie-640da3147db4)
     * [Hacking with doobie and cats-effects](https://medium.com/rahasak/doobie-and-cats-effects-d01230be5c38)
+    * [Testing Doobie programs](https://blog.softwaremill.com/testing-doobie-programs-425517c1c295)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
