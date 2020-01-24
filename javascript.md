@@ -2122,6 +2122,7 @@ Javascript
 * [탄력적인 컴포넌트 작성하기](https://overreacted.io/ko/writing-resilient-components)
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
+* [React-Ajax](https://opentutorials.org/module/4549)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
