@@ -377,6 +377,7 @@ Linux
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
   * `stat -c%s <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
+  * `stat /proc/<PID>` [How to find uptime of a linux process](https://superuser.com/questions/380520/how-to-find-uptime-of-a-linux-process)
 * `strip`
   * [10 Linux Strip Command Examples (Reduce Executable/Binary File Size)](http://www.thegeekstuff.com/2012/09/strip-command-examples/)
 * [sudo 패스워드 없이 사용하는 방법](https://kkamagui.tistory.com/910)
@@ -571,9 +572,18 @@ Linux
 * [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems](https://github.com/mrsmn/hazelnut)
 * Stack and Heap
   * [THE STACK AND THE HEAP](https://www.cs.berkeley.edu/~jrs/61b/lec/09) java stack, stack frame, and heap
-* [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/)
+* [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/) ASLR : Address Space Layout Randomization
 * [번역 Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 * [**Out Of Memory Killer 회피하기**](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92)
+
+## Memory Usage
+* [Understanding memory usage on Linux](http://virtualthreads.blogspot.com/2006/02/understanding-memory-usage-on-linux.html)
+* [How to determine CPU and memory consumption from inside a process?](https://stackoverflow.com/questions/63166/how-to-determine-cpu-and-memory-consumption-from-inside-a-process)
+* [Limit total memory usage for multiple instances of systemd service](https://unix.stackexchange.com/questions/436791/limit-total-memory-usage-for-multiple-instances-of-systemd-service)
+* [Linux Check Memory Usage](https://www.cyberciti.biz/faq/linux-check-memory-usage/)
+* [How to check memory usage per process in Linux](https://www.golinuxcloud.com/check-memory-usage-per-process-linux/)
+* [8 Commands to Check Memory Usage on Linux](https://www.2daygeek.com/linux-commands-check-memory-usage/)
+* `systemd-cgtop` [Find memory used by Services](https://www.linuxquestions.org/questions/linux-newbie-8/find-memory-used-by-services-4175619662/)
 
 # Network
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/)
