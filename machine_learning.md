@@ -543,6 +543,7 @@ Machine Learning
 * [Using machine learning to index text from billions of images](https://blogs.dropbox.com/tech/2018/10/using-machine-learning-to-index-text-from-billions-of-images/)
 * [Training machine learning models online for free(GPU, TPU enabled)!!!](https://towardsdatascience.com/training-machine-learning-models-online-for-free-gpu-tpu-enabled-5def6a5c1ce3)
 * [Understanding softmax and the negative log-likelihood](https://ljvmiranda921.github.io/notebook/2017/08/13/softmax-and-the-negative-log-likelihood/#nll) NLL
+* [Logit, Sigmoid, 그리고 SoftMax의 관계 알기](https://www.youtube.com/watch?v=6sENgZJn1nY)
 * [아파트 시세, 어쩌다 머신러닝까지](https://www.slideshare.net/seokjoonyun9/ss-119941642)
 * [쏘카에서 머신러닝 인재를 채용하는 이유 (feat. 타다)](https://speakerdeck.com/swkimme/ssokaeseo-meosinreoning-injaereul-caeyonghaneun-iyu-feat-tada)
 * [사회인의 휴학, Gap Year 이야기](https://www.slideshare.net/zzsza/gap-year-119998766)
