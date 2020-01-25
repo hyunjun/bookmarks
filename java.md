@@ -307,7 +307,6 @@ Java
 * [IntelliJ에서 Json 작업 쉽게 하기](http://jojoldu.tistory.com/273)
 * [Toolbox로 설치한 IntelliJ에서 Touchbar를 F1 ~ F12로 고정시키기](http://jojoldu.tistory.com/293)
 * [intellij, gradle에서 generated sourceSet 설정](http://blog.woniper.net/353)
-* [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 * [A Very Simple IntelliJ Idea Tip – Enable Function Keys on Mac Book Pro TouchBar](http://www.javastudy.net/a-very-simple-intellij-idea-tip-enable-function-keys-on-mac-book-pro-touchbar/)
 * [mac os에서 intellij 완전 제거 / 백업 하기](http://blog.woniper.net/354)
 * [intellij SQL keyword 자동 uppercase](http://blog.woniper.net/360)
@@ -321,7 +320,6 @@ Java
 * [IntelliJ http Client 응답값 변수로 저장하고 사용하기](https://jojoldu.tistory.com/366)
 * [맥 환경에서 vscode, intelliJ에 zsh 지정하기](https://jojoldu.tistory.com/400)
 * [IntelliJ에서 코드 한 줄 안 짜고 JPQL 실행하기](https://www.popit.kr/intellij%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%ED%95%9C-%EC%A4%84-%EC%95%88-%EC%A7%9C%EA%B3%A0-jpql-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
-* [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [인텔리J 단축키 잘 쓰는 방법](https://www.youtube.com/watch?v=0D-YYVfUxFM)
 * [IntelliJ 단축키](https://jybaek.tistory.com/834)
 * [Mac에서 IntelliJ CMD+SHIFT+A 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
@@ -332,6 +330,11 @@ Java
 * [Intellij output 한글 깨지는 문제](https://freehoon.tistory.com/146)
 * [웹 JS 애플리케이션 개발시 IntelliJ 디버거 사용하기](https://jojoldu.tistory.com/468)
 * [인텔리제이에 파이썬 인터프리터 설정하기](https://jojoldu.tistory.com/465)
+
+## IntelliJ Plugin
+* [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
+* [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
+* [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
