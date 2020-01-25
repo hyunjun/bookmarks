@@ -417,6 +417,7 @@ App
     * [PIP Error 해결 방법](https://developer-ankiwoong.tistory.com/713)
     * [코딩 인생 꿀템 VSC 단축키 5분 정리해드림](https://www.youtube.com/watch?v=Wn7j5dfbJF4)
     * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
+    * [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
