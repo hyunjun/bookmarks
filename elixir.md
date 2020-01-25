@@ -90,5 +90,6 @@ Elixir
     * [Part 4: Secret Management](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-4-secret-f851d575bdd1)
     * [Part 5: Clustering Elixir & Phoenix Channels](https://medium.com/polyscribe/a-complete-guide-to-deploying-elixir-phoenix-applications-on-kubernetes-part-5-clustering-6c30fcd35ce1)
   * [Installing Elixir and Phoenix](https://hackernoon.com/installing-elixir-and-phoenix-1a35e82c58bf)
+  * [다형성 도구인 protocol를 사용한 pheonix param](http://ohyecloudy.com/pnotes/archives/elixir-protocol-phoenix-param/)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
