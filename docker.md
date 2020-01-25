@@ -382,6 +382,8 @@ Docker
   * [Part II: Why Is There No Docker in OpenShift 4 and RHEL 8?](https://www.linkedin.com/pulse/part-ii-why-docker-openshift-4-rhel-8-scott-mccarty/)
 * [Continuous Development with Docker and VSCode](https://hackernoon.com/continuous-development-with-docker-and-vscode-go-version-164ee78d09bf)
 * [Predictive CPU isolation of containers at Netflix](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+* [Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+* [Making big moves in Big Data with Hadoop, Hive, Parquet, Hue and Docker](https://towardsdatascience.com/making-big-moves-in-big-data-with-hadoop-hive-parquet-hue-and-docker-320a52ca175)
 * [Project Services and Maturity Levels](https://www.cncf.io/projects/)
   * [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io) image를 통해 각 환경별 project에 대해 볼 수 있음
 * [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677)
@@ -495,6 +497,7 @@ Docker
 * [A beginner’s guide to Docker — how to create a client/server side with Docker-Compose](https://medium.freecodecamp.org/a-beginners-guide-to-docker-how-to-create-a-client-server-side-with-docker-compose-12c8cf0ae0aa)
 * [마이크로 서비스에서의 테스트 환경 구축](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C%EC%9D%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95/)
 * [**Django로 만든 웹 애플리케이션 도커라이징하기 + 도커 컴포즈로 개발 환경 구축하기**](https://www.slideshare.net/raccoonyy/django-164557454) 예제로 참고하기에 매우 좋음
+* [**Docker 개발환경의 구축 docker-compose의 활용**](https://brunch.co.kr/@sokoban/30)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
@@ -539,6 +542,7 @@ Docker
 
 # [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
+* [튜토리얼](https://kubernetes.io/ko/docs/tutorials/)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
@@ -714,6 +718,9 @@ Docker
 * [쿠버네티스 정리 #1 - 쿠버네티스 소개](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-1/)
 * [쿠버네티스 정리 #2 - 쿠버네티스 설치](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-2/)
 * [This Little Trick Keeps Netflix Running - Kubernetes & Containers Explained](https://www.youtube.com/watch?v=yUL5Lp5aPas)
+* [쿠버네티스와 도커를 백업하는 방법](http://www.itworld.co.kr/news/142038)
+* [Maybe You Don't Need Kubernetes](https://endler.dev/2019/maybe-you-dont-need-kubernetes/)
+* [‘쿠버네티스 상에서 직접 서버리스를’··· 주요 프로젝트 5종](http://www.ciokorea.com/news/141326)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
