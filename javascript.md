@@ -698,6 +698,7 @@ Javascript
 * [PureScript by Example](https://leanpub.com/purescript/read_full)
 * [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
 * [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
+* [clean-code-javascript - Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -2123,6 +2124,7 @@ Javascript
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
 * [React-Ajax](https://opentutorials.org/module/4549)
+  * [React-Ajax](https://www.youtube.com/playlist?list=PLuHgQVnccGMDVTrQYa2HRj1OBbT-4HU_v)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
