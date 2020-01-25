@@ -102,6 +102,7 @@ Scala
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
 * [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
 * [**Nicolas Rinaudo - Scala Best Practices I Wish Someone'd Told Me About**](https://www.youtube.com/watch?v=lvlnH-uEjZA)
+  * [Scala Best Practices](https://nrinaudo.github.io/scala-best-practices/)
 * [scala meta로 변경될 scala macro](https://www.youtube.com/watch?v=qEQHTGwus7Y)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
 * [1ambda.github.io/21/scala](https://1ambda.github.io/scala/) Scalaz, Functional, Reactive, Concurrent
@@ -218,10 +219,10 @@ Scala
 * [Beyond Liskov: Type Safe Equality in Scala](http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 * [A real life example of isomorphisms in Scala: POST request](https://medium.com/@supermanue/a-real-life-example-of-isomorphisms-in-scala-post-request-7a8252284d0d)
-* [How to structure your Scala application?](https://blog.softwaremill.com/how-to-structure-your-scala-application-658168fbb827)
+* [**How to structure your Scala application?**](https://blog.softwaremill.com/how-to-structure-your-scala-application-658168fbb827)
 * [Why I like Scala](https://medium.com/@ryanberckmans/why-i-like-scala-45e65cde3365)
 * [A little bit of Data Science in Scala](https://medium.com/@antoine.doeraene/a-little-bit-of-data-science-in-scala-5caba1ad8d9f)
-* [Scala Almost Succeeded](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5)
+* [**Scala Almost Succeeded**](https://medium.com/@fommil/scala-almost-succeeded-c3b1028b02c5)
 * [Typing the technical interview in Scala](https://medium.com/wix-engineering/typing-the-technical-interview-in-scala-48092326de5c)
 * [Making the Matrix with Scala](https://www.youtube.com/watch?v=UqOmobgbP7w)
 * [Tame your config](https://blog.softwaremill.com/tame-your-config-2e89b1669dd9)
@@ -409,7 +410,7 @@ Scala
 * [Bird Operator in Scala – Pretty method chain](https://leobenkel.com/2019/11/bird-operator-in-scala/)
 * [Sizeof in Scala](http://yannmoisan.com/sizeof-in-scala.html) using `import org.apache.spark.util.SizeEstimator._`
 * [Visitors - a tale of generalization](https://medium.com/virtuslab/visiting-a-listener-and-where-generalization-may-lead-us-3a623e75652)
-* [My favorite new features of Scala 2.13 standard library](https://medium.com/wix-engineering/my-favorite-new-features-of-scala-2-13-standard-library-909a89b0da4)
+* [**My favorite new features of Scala 2.13 standard library**](https://medium.com/wix-engineering/my-favorite-new-features-of-scala-2-13-standard-library-909a89b0da4)
 * [Operator overloading in Scala and Kotlin: two slightly different ways](https://medium.com/@alonso.delarte/operator-overloading-in-scala-and-kotlin-two-slightly-different-ways-2e8e2546ede4)
 * [Standardizing IO Interfaces for Scala Libraries](http://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html)
 * `:kind` or `:k`
@@ -517,7 +518,8 @@ Scala
     * Closed Type과 Open Type으로 Expression Problem의 어떤 부분을 해결해 주는지에 대한 글
     * ADT를 사용하는 Closed Type 스타일은 FP에서 사용하는 방법
     * FP와 OOP의 차이는 Expression Problem을 어떻게 해결 하느냐에 있음
-  * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
+  * [ZIO — A type-safe, composable library for asynchronous and concurrent programming for Scala](https://zio.dev)
+    * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
     * [John A De Goes - ZIO: Next-Generation Effects in Scala](https://www.youtube.com/watch?v=mkSHhsJXjdc)
     * [Scale By The Bay 2018: John A. De Goes, Itamar Ravid, Scalaz Stream: Rebirth](https://www.youtube.com/watch?v=mLJYODobz44)
     * [Kyiv Scala meetup v9 - Welcome to Scalaz ZIO by Oleksandra Holubitska](https://www.youtube.com/watch?v=q_CJqpuZlBc)
@@ -654,7 +656,7 @@ Scala
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
-* [TOP 10 SCALA LIBRARIES FOR DATA SCIENCE](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
+* [**TOP 10 SCALA LIBRARIES FOR DATA SCIENCE**](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
@@ -1190,3 +1192,4 @@ Scala
 * [My Way to Scala — part 1](https://blog.softwaremill.com/my-way-to-scala-part-1-6765b55ad68a)
 * [Tic-tac-toe in FP Scala](https://medium.com/wix-engineering/tic-tac-toe-in-fp-scala-29b9162ebc3e)
 * [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
+* [**The Evolution of a Scala Programmer**](https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f)
