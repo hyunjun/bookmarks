@@ -36,6 +36,7 @@
 * [엔트리 하드웨어 개발](https://ryulib.tistory.com/466)
 * [The ZedRipper: Part 1](http://www.chrisfenton.com/the-zedripper-part-1/)
 * [A new cycle-stepped 6502 CPU emulator](https://floooh.github.io/2019/12/13/cycle-stepped-6502.html)
+* [Sixty/5o2 is a minimal bootloader / micro kernel / mini operating system (if you like) for Ben Eaters 6502 Computer on a breadboard](https://github.com/janroesner/sixty5o2)
 * [27인치 디지털 액자 만들기(DIY) -제작편-](https://papit.blog.me/221751081863)
 * [27인치 디지털 액자 만들기(DIY) -활용편-](https://papit.blog.me/221769974274)
 
