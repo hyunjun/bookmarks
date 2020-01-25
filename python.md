@@ -2104,6 +2104,7 @@ Python
 * [**polynote - The polyglot notebook with first-class Scala support**](https://polynote.org)
   * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
   * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
+* [RISE: Live Reveal.js Jupyter/IPython Slideshow Extension](https://anaconda.org/conda-forge/rise)
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
   * [Rodeo 1.0: a Python IDE on your Desktop](http://blog.yhathq.com/posts/rodeo-native.html)
   * [A data centric IDE for Python](https://github.com/yhat/rodeo)
