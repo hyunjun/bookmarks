@@ -458,6 +458,7 @@ Python
 * [30 Helpful Python Snippets You Should Learn Today](https://morioh.com/p/271bc88c0100)
 * [Python — From Intermediate to Superhero](https://medium.com/@negoiddfelix/python-from-intermediate-to-superhero-1a86e518bb77) list comprehension, lambda, map, filter, reduce, locals, globals, context manager, decorator, generator
 * [Performant Python](https://strangemachines.io/articles/performant-python) tuple, generator, slotted class, namedtuple, map, filter, comprehension에 대한 테스트
+* [**If you think you know Python, think once more!**](https://github.com/satwikkansal/wtfpython)
 * [04-4 append()와 +연산을 통한 리바인딩의 성능비교](https://www.youtube.com/watch?v=WsPHRmey4fM)
   * [Python-append-vs-rebind-numpy.ipynb](https://colab.research.google.com/drive/1P_hZ7G1lrnZrdnjY01tIY8BZLIGYxtpv)
 * [argparse](https://docs.python.org/3/library/argparse.html)
@@ -926,25 +927,27 @@ Python
 * pprint
   * [pyprnt - Python Pretty Printer https://pypi.org/project/pyprnt ](https://github.com/kevink1103/pyprnt)
 * profile
+  * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
+  * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
+    * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
+  * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
+  * [Accurate Time Measurements Python](https://gitlab.com/bernhard.knasmueller/accurate-time-measurements-python)
+    * [Measure Code Execution Time Accurately in Python](https://knasmueller.net/measure-code-execution-time-accurately-in-python)
   * [memory_profiler](https://pypi.python.org/pypi/memory_profiler)
     * `defaultdict(list)`, key는 (str, str), value는 list of (str, int)의 경우
       * 1,000,000개 memory 약 440MB, 입력 4m정도 소요
       * 10,000,000개 memory 약 4.1GB, 입력 41m정도 소요
-  * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
-  * `cPickle.PicklingError: Can't pickle <type 'function'>: attribute lookup __builtin__.function failed`
-    * happens when multiprocessing + cProfile `python -m cProfile some_multiprocessing.py`
   * [Profiling Python in Production](https://www.nylas.com/blog/performance)
-  * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
-    * [vmprof documentation](https://vmprof.readthedocs.org/)
-  * [How can you profile a Python script?](http://stackoverflow.com/questions/582336/how-can-you-profile-a-python-script)
-  * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
   * [PUDB 콘솔 디버거](http://mcchae.egloos.com/10918232)
   * [profiling - An interactive continuous Python profiler](https://github.com/what-studio/profiling)
   * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
   * [Profiling and optimizing Python code](https://osf.io/upav8/)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
+  * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
   * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
+  * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
+    * [vmprof documentation](https://vmprof.readthedocs.org/)
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property)](https://blog.naver.com/codeitofficial/221684462326)
@@ -1774,6 +1777,7 @@ Python
 * [Codelog Record all of url that you want to remind http://codelog.kr ](https://github.com/teamhide/codelog) pocket하고 비슷해보임
   * [Codelog 제작기](https://www.hides.kr/1059)
 * [Full-stack single page application with Vue.js and Flask](https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532)
+* [Developing a Single Page App with Flask and Vue.js](https://github.com/testdrivenio/flask-vue-crud)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
