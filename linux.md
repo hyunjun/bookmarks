@@ -55,6 +55,7 @@ Linux
     * [Ansible에서 전략 패턴을 이용해 자동화 프로젝트의 확장성을 확보하기](https://ashon.github.io/2019/10/30/ansible-strategy.html)
     * [**프로비저닝 자동화를 위한 Ansible AWX, 설치부터 엔터프라이즈 환경 적용까지 – 1**](https://engineering.linecorp.com/ko/blog/ansible-awx-for-provisioning-1/)
     * [**프로비저닝 자동화를 위한 Ansible AWX, 설치부터 엔터프라이즈 환경 적용까지 – 2**](https://engineering.linecorp.com/ko/blog/ansible-awx-for-provisioning-2/)
+    * [Ansible with oci](https://www.slideshare.net/DonghuKIM2/ansible-with-oci-221441463)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
@@ -98,6 +99,7 @@ Linux
 * [11 Reasons You Should Learn to Use Linux](https://www.maketecheasier.com/reasons-learn-use-linux/)
 * [Linux에서 터미널, 콘솔, 쉘, tty, pty, pts 차이 정리](https://jootc.com/p/20170306208/)
 * [Learn and use fork(), vfork(), wait() and exec() system calls across Linux Systems](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)
+* [1001 Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 * [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
@@ -391,6 +393,7 @@ Linux
   * [systemd 살펴보기](http://lunatine.net/about-systemd/)
   * [systemd 서비스 unit파일 작성에서 했던 실수](https://springboot.cloud/16)
   * [Creating a Linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)
+  * [**In search of a better job scheduler What if cron and systemd had a baby? Wouldn't it be beautiful?**](https://beepb00p.xyz/scheduler.html)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
@@ -544,6 +547,7 @@ Linux
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
+* [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
 * [Qfc - Quick Command-line File Completion](http://pindexis.github.io/qfc/)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [shed - the sh editor](https://github.com/mplewis/shed)
@@ -761,3 +765,4 @@ Linux
 * [우분투(Ubuntu)에서 신규 커널 설치 후 USB, WIFI가 동작하지 않을 때 해결 방법](http://kkamagui.tistory.com/901)
 * [우분투용 해킹 & 분석 도구 모음](http://hisjournal.net/blog/242)
 * [우분투 연말정산](https://logon.tistory.com/770)
+* [How to Install Nginx, MariaDB and PHP7 (LEMP Stack) on Ubuntu 16.04 LTS](https://www.linuxbabe.com/linux-server/install-nginx-mariadb-php7-lemp-stack-ubuntu-16-04-lts)
