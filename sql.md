@@ -157,6 +157,7 @@ SQL
 * [How to migrate from Oracle Database with ease](https://www.slideshare.net/MariaDB/how-to-migrate-from-oracle-database-with-ease)
 * ["SELECT COUNT(\*)" 수행 속도 문제](https://blog.naver.com/birdparang/221574304831)
 * [MariaDB 설치 및 설정](https://jojoldu.tistory.com/461)
+* [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 
 # MSSQL MS SQL
@@ -311,6 +312,7 @@ SQL
 * [surrogate key 와 natural key](http://ohgyun.com/756)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
 * [Percona pt-online-schema-change 설치 및 사용하기](https://jojoldu.tistory.com/358)
+* [Group Replication in Percona Server for MySQL](https://www.percona.com/blog/2020/01/17/group-replication-in-percona-server-for-mysql/)
 * [카카오뱅크, 마이SQL 잘 쓰는 비결](http://v.media.daum.net/v/20170917095558384)
 * [오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다](https://www.slideshare.net/deview/135-80845610)
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
@@ -552,6 +554,7 @@ SQL
   * 해결
     * 검색 결과 sqlite-devel or libsqlite3-dev를 설치 후 python3 재컴파일 혹은 setup.py의 path 수정
     * jupyter에서 간단히 할 일이 있어서 하려고 했던 건데 너무 일이 커져서 귀찮아서 여기서 중지
+* [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
