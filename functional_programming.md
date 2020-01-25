@@ -100,7 +100,7 @@ Functional Programming
     * 꾸준한 업데이트; Python
   * 그러나 이들 언어에서도조차도 함수형 프로그래밍 스타일이 점점 유행
 * [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
-* [A Glossary of Functional Programming](http://degoes.net/articles/fp-glossary)
+* [**A Glossary of Functional Programming**](http://degoes.net/articles/fp-glossary)
 * [수학에서 기원한 프로그래밍 패러다임, 순수 함수](https://evan-moon.github.io/2019/12/29/about-pure-functions/)
 * [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
@@ -314,10 +314,10 @@ Functional Programming
 * [How to Build a Functional API—Julien Truffaut](https://www.youtube.com/watch?v=__zuECMFCRc)
 * [Real-World Functional Scala by Chris Birchall](https://www.youtube.com/watch?v=STPkPUPYDeg)
 * [Scala vs Java In Competitive Programming With Functional Programming](https://medium.com/@shastri.shankar9/scala-vs-java-in-competitive-programming-with-functional-programming-41c98506a935)
-* [Did Functional Programming get it wrong?](https://medium.com/@reinman/monoids-to-groupoids-492c35105113)
+* [**Did Functional Programming get it wrong?**](https://medium.com/@reinman/monoids-to-groupoids-492c35105113)
 * [Demystifying Functional Programming (Part 1)](https://medium.com/walmartlabs/demystifying-functional-programming-part-1-eb4347d145d0)
 * [Demystifying Functional Programming (Part 2) — The need for immutability](https://medium.com/walmartlabs/demystifying-functional-programming-part-2-the-need-for-immutability-4f5c16ae2c9a)
-* [How I learned to stop worrying and love FP in Scala](https://medium.com/@gkazovsky/how-i-learned-to-stop-worrying-and-love-fp-in-scala-8d7430f5f1e8)
+* [**How I learned to stop worrying and love FP in Scala**](https://medium.com/@gkazovsky/how-i-learned-to-stop-worrying-and-love-fp-in-scala-8d7430f5f1e8)
 * [On Eliminating Error in Distributed Software Systems](https://blog.colinbreck.com/on-eliminating-error-in-distributed-software-systems/)
 * [Hangman in FP Scala](https://medium.com/wix-engineering/hangman-in-fp-scala-609e1eb8c733)
 * [Functional Programming features in Scala](https://gist.github.com/kevvo83/05d2f6cca40d9a5336722c3d52a14873)
