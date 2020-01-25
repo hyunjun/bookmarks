@@ -125,6 +125,7 @@ Go
 * [Moving from Python to Go](https://towardsdatascience.com/moving-to-go-from-python-9ebbd9a8aec4)
 * [Go Go Python Rangers! Comparing Python and Golang](https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang)
 * ["고"할 것인가 "파이썬"할 것인가, 비교 선택 가이드](http://www.itworld.co.kr/news/136275)
+* [**See Python, See Python Go, Go Python Go**](https://blog.heroku.com/see_python_see_python_go_go_python_go) python <-> go <-> c
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
 * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
@@ -238,6 +239,7 @@ Go
 * [Parsing 18 billion JSON lines with Go](https://itnext.io/parsing-18-billion-lines-json-with-go-738be6ee5ed2)
   * This post describes a large scale conversion of data into JSON format in order to load it into BigQuery. To meet the naming requirements of BigQuery, they had to remap field names on every JSON document. Their tool, which is written in Golang, uses a producer/consumer job queue to parallelize processing and partition the data before writing it out. They processed data both from Kafka and S3, and the post talks a bit about how they optimized interaction with S3.
 * [Clean Architecture with GO](https://medium.com/manato/clean-architecture-with-go-bce409427d31)
+* [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21/)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
