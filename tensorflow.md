@@ -1054,6 +1054,8 @@ TensorFlow
 * [python – MNIST 데이터 세트 만들기 (MNIST 형식과 동일)](https://codeday.me/ko/qa/20190706/984622.html)
 * [VisualizeMnist - real-time visualization of a network recognizing digits from user's input](https://github.com/okdalto/VisualizeMNIST)
 * [AI 코드 리뷰 Fashion MNIST Tutorial - Tensorflow 2.0 Deep Learning Code Review](https://www.youtube.com/watch?v=XfTV00McbLk)
+* [ActiveLearning-MNIST.ipynb](https://github.com/andy-bosyi/articles/blob/master/ActiveLearning-MNIST.ipynb)
+  * [MNIST로 Active Learning 하기 - Labeling 시간을 줄여보자](https://benghak.github.io/2020-01-25-ML_active_learning/)
 * [실제 이미지 데이터를 활용한 CNN 모델 구현하기](http://www.birc.co.kr/2018/02/26/실제-이미지-데이터를-활용한-cnn-모델-구현하기)
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples)
