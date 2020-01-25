@@ -67,6 +67,7 @@ NoSQL
 * [cassandra의 라이브러리를 사용한 UUID version1 테스트](http://knight76.tistory.com/entry/cassandra%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-UUID-version1-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [null의 개념(http://knight76.tistory.com/entry/cassandra-null%EC%9D%98-%EA%B0%9C%EB%85%90)
 * [Store Semantic Web Triples into Cassandra](https://blog.knoldus.com/2017/11/22/store-semantic-web-triples-into-cassandra/)
+* [How Discord Stores Billions of Messages](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 * [Cassandra scala client](https://medium.com/rahasak/cassandra-scala-client-d50ebd5a9723)
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 * [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
@@ -384,6 +385,8 @@ NoSQL
 
 # RYE
 * [rye, 샤딩을 지원하는 오픈소스 관계형 dbms](https://www.slideshare.net/deview/223rye-dbms)
+
+# [SapphireDb A SELF-HOSTED, EASY TO USE REALTIME DATABASE](https://sapphire-db.com/)
 
 # Spanner
 * [글로벌 분산 데이터베이스 Spanner](http://d2.naver.com/helloworld/216593)
