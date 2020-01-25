@@ -685,6 +685,10 @@ AWS
 * [AWS S3 총정리](https://ryan-han.com/post/aws/s3/)
 * [AWS S3 사이트에 HTTPS 적용 방법](https://codens.info/1713)
 
+# Scala
+* [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
+* [Scala Compilation Got 5x Faster With Triplequote Hydra](https://www.triplequote.com/blog/2019-scala-compilation-got-5-times-faster-with-triplequote-hydra/)
+
 # SageMaker
 * [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
 * [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
