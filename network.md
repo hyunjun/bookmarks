@@ -104,6 +104,7 @@ Network
   * [Http 보안 및 용어 정리](https://naleejang.tistory.com/216)
   * [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
   * [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [HTTPS에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
 * prism_pacman [**글로벌 네트워크 에뮬레이터 prism_pacman 소개**](https://d2.naver.com/helloworld/7847943)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
