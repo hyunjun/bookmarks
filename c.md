@@ -172,6 +172,7 @@ C
 * [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
 * [What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile)
 * [Want to know the easiest way to save time? Use `make`!](https://medium.freecodecamp.org/want-to-know-the-easiest-way-to-save-time-use-make-eec453adf7fe)
+* [Makefiles in 2019 — Why They Still Matter](https://tech.trivago.com/2019/12/20/makefiles-in-2019-why-they-still-matter/)
 
 # Library
 * [**invisible-island.net**](http://invisible-island.net/) add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
