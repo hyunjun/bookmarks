@@ -97,6 +97,7 @@ Programming Books
 * (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
 * (NOT YET) [카이젠 저니: 나와 팀이 함께 자라는 애자일 여행](https://jpub.tistory.com/959)
+* (NOT YET) [네이키드 애자일](https://imch.dev/posts/naked-agile)
 
 # Algorithm
 
