@@ -295,6 +295,7 @@ App
 * [**Improve your workflow with these awesome CLI tools**](https://medium.freecodecamp.org/improve-your-workflow-with-these-awesome-cli-tools-fc3750cbb2bf)
   * Wuzz — terminalized Postman등 여러가지 유용한 CLI tool
 * [태블릿으로 원격 프로그래밍이 하고 싶어요](https://javaxer.blogspot.com/2018/10/blog-post.html)
+* [프로그래머가 모르면 손해인 범용적인 툴(tool) 100선](https://tkdwnsdkk.tistory.com/101)
 * [7 Amazing Developer Tools that you're not using yet](https://www.youtube.com/watch?v=U_gANjtv28g)
   * [BundlePhobia](https://bundlephobia.com)
   * [CloudCraft](https://cloudcraft.co)
