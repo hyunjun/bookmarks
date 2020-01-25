@@ -54,6 +54,8 @@ R
 * [Application of PageRank algorithm to analyze packages in R](http://www.analyticsvidhya.com/blog/2015/04/application-pagerank-algorithm/)
 * [고석범 의사 “통계용 언어 R, 오피스처럼 써볼까요?”](http://www.bloter.net/archives/237137)
 * [Build a web scraper for a literature search – from soup to nuts](http://efavdb.com/build-a-web-scraper-lit-search/)
+* [Web Scraping with rvest + Astro Throwback](https://www.r-bloggers.com/web-scraping-with-rvest-astro-throwback/)
+* [Quick Hit: Scraping javascript-“enabled” Sites with {htmlunit}](https://www.r-bloggers.com/quick-hit-scraping-javascript-enabled-sites-with-htmlunit/)
 * [ANIMATED LOGISTIC MAPS OF CHAOTIC SYSTEMS IN R](https://rexplorations.wordpress.com/2015/09/02/animated-logistic-maps-of-chaotic-systems-in-r/)
 * [Fascinating Chaotic Sequences with Cool Applications](https://www.datasciencecentral.com/profiles/blogs/amazing-random-sequences-with-cool-applications)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
@@ -292,7 +294,6 @@ R
 * [Reproducible Environments](https://www.r-bloggers.com/reproducible-environments/)
 * [Encryptr now makes it easy to encrypt and decrypt files](https://www.r-bloggers.com/encryptr-now-makes-it-easy-to-encrypt-and-decrypt-files/)
 * [데이터의 생성, 참조, 수정, 추가, 삭제](http://ds.sumeun.org/?p=1156)
-* [Quick Hit: Scraping javascript-“enabled” Sites with {htmlunit}](https://www.r-bloggers.com/quick-hit-scraping-javascript-enabled-sites-with-htmlunit/)
 * [cRafty tRicks – No more typing brackets!](https://www.r-bloggers.com/crafty-tricks-no-more-typing-brackets-2/) debugging
 * [GOOGLE COLABORATORY에 R 커널 설치하기](https://lumiamitie.github.io/r/r-in-colab/)
 * [Make it explainable!](https://www.r-bloggers.com/make-it-explainable/)
@@ -623,6 +624,7 @@ R
 * [Machine Learning in R: Start with an End-to-End Test](https://www.r-bloggers.com/machine-learning-in-r-start-with-an-end-to-end-test/)
 * [Using unpack to Manage Your R Environment](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-1/)
 * [Code and Data in a large Machine Learning project](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-2/)
+* [Serverless Machine Learning with R on Cloud Run](https://www.r-bloggers.com/serverless-machine-learning-with-r-on-cloud-run/)
 * [modelStudio - Interactive Studio with Explanations for ML Predictive Models](https://modeloriented.github.io/modelStudio/)
   * [Explanatory Model Analysis with modelStudio](https://www.r-bloggers.com/explanatory-model-analysis-with-modelstudio/)
 
@@ -649,6 +651,7 @@ R
 * [RStudio and GitHub](https://www.r-bloggers.com/rstudio-and-github/)
 * [git을 설치했는데 Rstudio에서 프로젝트 만들기 진행이 안되요](https://mrchypark.github.io/post/rqna-git%EC%9D%84-%EC%84%A4%EC%B9%98%ED%96%88%EB%8A%94%EB%8D%B0-rstudio%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A7%84%ED%96%89%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94/)
 * [Searching on Google Maps using RStudio](https://www.datasciencecentral.com/profiles/blogs/searching-on-google-maps-using-rstudio)
+* [RStudio Projects and Working Directories: A Beginner’s Guide](https://www.r-bloggers.com/rstudio-projects-and-working-directories-a-beginners-guide/)
 
 # TDD, Test
 * [Tips for A/B Testing with R](https://www.r-bloggers.com/tips-for-ab-testing-with-r/)
