@@ -1195,3 +1195,4 @@ TensorFlow
 * [tensorflow_tutorial](https://github.com/wonseokjung/tensorflow_tutorial/) udacity course
   * [Classifying Images of Clothing](https://github.com/wonseokjung/tensorflow_tutorial/blob/master/Classifying%20Images%20of%20Clothing.ipynb) Fashion MNIST 사용
 * [완전 쉬운 인공지능, AI, 머신러닝, 딥러닝](https://www.youtube.com/playlist?list=PLU9-uwewPMe1AsOwlodmuaap99KH_483a)
+* [tensor로부터 특정 index 값 추출하는 4가지 방법](https://gist.github.com/hccho2/019b250953b533bec22df7aef8f1e73e)
