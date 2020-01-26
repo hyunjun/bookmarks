@@ -337,6 +337,8 @@ Scala
 * [Tour of Akka Typed: Message Adapters, Ask Pattern and Actor Discovery](https://manuel.bernhardt.io/2019/08/07/tour-of-akka-typed-message-adapters-ask-pattern-and-actor-discovery/)
 * [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
 * [Event Sourcing with Akka 2.6 video](https://akka.io/blog/news/2020/01/07/akka-event-sourcing-video)
+* [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
+* [Actors, Streams and Futures in Akka: What to Use?](https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/)
 * [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
   * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
