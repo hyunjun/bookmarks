@@ -484,6 +484,7 @@ Java
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * [How Memory Leaks Happen in a Java Application](https://stackify.com/memory-leaks-java/)
 * [**JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale**](https://eng.uber.com/jvm-profiler)
+* [Docker 안에 숨어 있는 Web application JMX profiling Tip](https://www.popit.kr/docker-jmx-profiling-tip/)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
