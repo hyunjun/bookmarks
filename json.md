@@ -159,3 +159,4 @@ Json
 # YAML
 * [YAML Validator](https://codebeautify.org/yaml-validator)
 * [YAML: probably not so great after all](https://arp242.net/yaml-config.html)
+* [What does YAML do better than JSON?](https://www.quora.com/What-does-YAML-do-better-than-JSON)
