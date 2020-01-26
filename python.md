@@ -3049,6 +3049,7 @@ Python
 * [Numpy: What Has Changed and What Is Going To Change?](https://www.youtube.com/watch?v=tjEdQyZH6lA)
 * [Data Engineering with Python](https://www.youtube.com/watch?v=R2Kr2ELpwQI) Numpy & Pandas
 * [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
+* [파이썬(python) numpy 의 array(ndarray)와 matrix 데이터 타입](https://thrillfighter.tistory.com/482)
 
 # [Pandas](http://pandas.pydata.org/)
 * practice
