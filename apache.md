@@ -297,6 +297,7 @@ Apache
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Apache Kafka, Samza, and the Unix Philosophy of Distributed Data](http://www.confluent.io/blog/apache-kafka-samza-and-the-unix-philosophy-of-distributed-data)
 * [Apache Kafka: Case of Large Messages, Many Partitions, Few Consumers](https://olnrao.wordpress.com/2015/03/24/apache-kafka-case-of-large-messages-many-partitions-few-consumers/)
+* [The Power of Kafka Partitions : How to Get the Most out of Your Kafka Cluster](https://www.instaclustr.com/the-power-of-kafka-partitions-how-to-get-the-most-out-of-your-kafka-cluster/)
 * [From Kafka to ZeroMQ for real-time log aggregation](http://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html)
 * [SQL on Kafka](https://www.pipelinedb.com/blog/sql-on-kafka)
 * [Kafka at HubSpot: Critical Consumer Metrics](http://product.hubspot.com/blog/kafka-at-hubspot-part-1-critical-consumer-metrics)
