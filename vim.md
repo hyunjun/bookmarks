@@ -155,6 +155,7 @@ Vim
 * [History and effective use of Vim](https://begriffs.com/posts/2019-07-19-history-use-vim.html)
 * [Vim + Python + Bash - The Perfect Trio for Productivty](https://www.youtube.com/watch?v=pIgej7rE70E)
 * [vi 에디터 사용법 (vim editor)](https://blog.lael.be/post/7321)
+* [Chase Your VIM Demons Away](https://medium.com/better-programming/chase-your-vim-demons-away-4405168effc8)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
