@@ -74,6 +74,10 @@
 # Conference
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
 
+# Mac
+* [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
+* [Using a Mac in a modern .NET world](https://medium.com/mledger/using-a-mac-in-a-modern-net-world-36297a87f664)
+
 # Microsoft Virtual Academy
 * [모바일 앱 개발 소개](http://www.microsoftvirtualacademy.com/training-courses/introduction-to-mobile-app-development_kor?m=13819&ct=38368)
 * [CODExist: 봇의 탄생](http://www.microsoftvirtualacademy.com/training-courses/983e5d39-bf9f-4958-9d21-6a00e8aec841?m=16166&ct=42864)
@@ -114,7 +118,6 @@
 * [Visual C++ for Linux Development](https://blogs.msdn.microsoft.com/vcblog/2016/03/30/visual-c-for-linux-development/)
 * [Building Visual Studio Code on a Raspberry Pi 3](http://www.hanselman.com/blog/BuildingVisualStudioCodeOnARaspberryPi3.aspx)
 * [Visual C++ for Linux Updates](https://blogs.msdn.microsoft.com/vcblog/2016/06/07/visual-c-for-linux-updates/)
-* [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
 * [Set up VisualStudio to run programs as an administrator](http://study.marearts.com/2016/11/set-up-visualstudio-to-run-programs-as.html)
 * [Visual Studio 2017: Productivity, Performance, and Partners](https://blogs.msdn.microsoft.com/visualstudio/2017/03/07/visual-studio-2017-productivity-performance-and-partners/)
   * [launch.visualstudio.com](https://launch.visualstudio.com/)
