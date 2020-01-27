@@ -3611,3 +3611,4 @@ Python
 * ironpython
   * [ironpython2](https://github.com/IronLanguages/ironpython2)
   * [ironpython3](https://github.com/IronLanguages/ironpython3)
+* win32clipboard [clipboard 로 text, image 복사하기 , 가져오기](https://freeprog.tistory.com/16)
