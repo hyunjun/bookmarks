@@ -264,6 +264,8 @@ Go
   * [Go encoding/json 패키지](http://blog.jeonghwan.net/dev/2019/01/18/go-encoding-json.html)
 * fmt
   * [Go fmt 패키지](http://blog.jeonghwan.net/dev/2019/01/08/go-fmt.html)
+* net/http
+  * [An Overview of Server-Side HTTP APIs in Go](https://medium.com/better-programming/overview-of-server-side-http-apis-in-go-44f052737e4b)
 * [regexp](https://golang.org/pkg/regexp/)
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)
