@@ -665,7 +665,7 @@ App
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
   * [brew.sh/index_ko.html](http://brew.sh/index_ko.html)
-  * [cask](http://caskroom.io/)
+  * [cask](https://formulae.brew.sh/cask/)
   * `permission denied /tmp/...` -> [`sudo chmod 1777 /tmp /private/tmp`](http://johnsonsu.com/mac-yosemite-mysql-unable-start-reason-255/)
   * [Set your Github API Token If you hit a ”GitHub API rate limit exceeded” when searching with Homebrew](https://gist.github.com/christopheranderton/8644743)
   * [Homebrew 설치하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Install-Homebrew/)
