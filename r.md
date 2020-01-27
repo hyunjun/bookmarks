@@ -56,6 +56,7 @@ R
 * [Build a web scraper for a literature search – from soup to nuts](http://efavdb.com/build-a-web-scraper-lit-search/)
 * [Web Scraping with rvest + Astro Throwback](https://www.r-bloggers.com/web-scraping-with-rvest-astro-throwback/)
 * [Quick Hit: Scraping javascript-“enabled” Sites with {htmlunit}](https://www.r-bloggers.com/quick-hit-scraping-javascript-enabled-sites-with-htmlunit/)
+* [Webscraping with R – from messy & unstructured to blisfully tidy](https://www.r-bloggers.com/webscraping-with-r-from-messy-unstructured-to-blisfully-tidy/)
 * [ANIMATED LOGISTIC MAPS OF CHAOTIC SYSTEMS IN R](https://rexplorations.wordpress.com/2015/09/02/animated-logistic-maps-of-chaotic-systems-in-r/)
 * [Fascinating Chaotic Sequences with Cool Applications](https://www.datasciencecentral.com/profiles/blogs/amazing-random-sequences-with-cool-applications)
 * [Using Bayes Factors to Get the Most out of Linear Regression: A Practical Guide Using R](https://thewinnower.com/papers/278-using-bayes-factors-to-get-the-most-out-of-linear-regression-a-practical-guide-using-r)
