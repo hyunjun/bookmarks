@@ -82,6 +82,7 @@
 * [Rust in production at Figma](https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929)
 * [Rust + Node.js are awesome!](https://itnext.io/rust-node-js-are-awesome-a50d63411773)
 * [\_는 bind하지 않는다](https://blog.seulgi.kim/2018/08/rust--ownership.html)
+* [Rust: Ownership and Borrowing](https://medium.com/better-programming/rust-ownership-and-borrowing-9cf7f081ade0)
 * [doc.rust-lang.org/book/2018-edition](https://doc.rust-lang.org/book/2018-edition/)
 * [gradebot.org/doc/ipur](http://gradebot.org/doc/ipur)
 * [Rust 읽을거리](https://blog.seulgi.kim/2018/11/rust.html)
