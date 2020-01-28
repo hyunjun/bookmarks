@@ -126,6 +126,7 @@ AWS
 * [AWS 보안 관련 오픈소스 도구 소개 - 방어편-](https://docs.google.com/presentation/d/1VUz6N3A2wc_LY4HbQv6lTmlqFLdnrdI-uzBB1MxRrZg)
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
 * [aws route53 의 응답이상](https://linuxer.name/2020/01/aws-route53-의-응답이상)
+* [aws-route53-review](https://linuxer.name/2020/01/aws-route53-review/)
 * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
 * [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
 * [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
