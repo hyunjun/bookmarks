@@ -198,6 +198,7 @@ R
   * [(번외편) 이산형 사전분포(descrete prior distribution)에 대하여](http://issactoast.com/115)
   * [2. 이항분포와 베타분포의 궁합! 켤레사전분포(Conjugate prior dist.)에 대하여](http://issactoast.com/116)
   * [3. 베타-이항분포(beta-binomial dist.)와 사후예측분포(posterior predictive dist.)에 대하여](http://issactoast.com/121)
+* [Calculating the Required Sample Size for a Binomial Test in R](https://www.r-bloggers.com/calculating-the-required-sample-size-for-a-binomial-test-in-r/)
 * Simulation with R
   * [1. Metropolis-Hastings 난수추출 알고리즘에 대하여](http://issactoast.com/118)
   * [2. 깁스 표집(Gibbs sampling)을 사용한 다변량 정규분포 난수 생성](http://issactoast.com/119)
@@ -389,6 +390,7 @@ R
 * [R/Finance](http://www.rinfinance.com/)
 * [r-kor.org](http://r-kor.org/)
   * [오픈 데이터 기반 사회로의 실험](http://event.r-kor.org/) R conference
+* [rstudio::conf 2020](https://github.com/rstudio-conf-2020/)
 * [rstudio::conf 2019](https://resources.rstudio.com/rstudio-conf-2019)
   * [Agenda](http://www.cvent.com/events/rstudio-conf-austin/agenda-dd6d75526f3c4554b67c4de32aeffb47.aspx)
   * [Links to slides from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides)
@@ -436,6 +438,7 @@ R
   * [Database-like ops benchmark](https://h2oai.github.io/db-benchmark/)
     * 분산 시스템 없이 대용량 전처리 벤치마크. dplyr 8초, pandas out of memory, data.table 0.3초
   * [data-table-intro.R](https://github.com/laRusers/presentations/blob/master/2019-07-08_datatable/data-table-intro.R)
+  * [Programming with data.table](https://www.r-bloggers.com/programming-with-data-table/)
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
 * [‘dockr’: easy containerization for R](https://www.r-bloggers.com/dockr-easy-containerization-for-r/)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
