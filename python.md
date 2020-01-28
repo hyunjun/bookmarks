@@ -3152,6 +3152,7 @@ Python
 * [Tips for Selecting Columns in a DataFrame](https://pbpython.com/selecting-columns.html)
 * [Finding Natural Breaks in Data with the Fisher-Jenks Algorithm](https://pbpython.com/natural-breaks.html)
 * [Data Preparation Basic(데이터 전처리 기초)](https://ankiwoong.site/801)
+* [Efficient Pandas: Using Chunksize for Large Data Sets](https://medium.com/towards-artificial-intelligence/efficient-pandas-using-chunksize-for-large-data-sets-c66bf3037f93)
 * [vaex - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex)
   * [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 
