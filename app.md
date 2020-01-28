@@ -503,7 +503,7 @@ App
 # Linux
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 
-# Mac
+# Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
   * [practice - (old) Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
@@ -584,7 +584,6 @@ App
 * [hyperterm.org](https://hyperterm.org)
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
 * [IINA - The modern media player for macOS](https://iina.io/)
-* karabiner [Hacking your keyboard with karabiner](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/)
 * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
@@ -634,7 +633,12 @@ App
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
 
-## development
+## Mac App Keyboard
+* [Autokbisw - Automatic keyboard input source switcher](https://github.com/jeantil/autokbisw)
+* karabiner [Hacking your keyboard with karabiner](https://blog.kaush.co/2019/12/25/hacking-your-keyboard/)
+* [kawa - A better input source switcher for OS X](https://github.com/utatti/kawa)
+
+## Mac development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
 * [**본격 macOS에 개발 환경 구축하기**](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
   * oh-my-zsh
@@ -734,7 +738,7 @@ App
 * [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
 * [Running containers from Mac OS X](https://hyper.sh/blog/post/2015/07/30/running-containers-from-mac-os-x.html)
 
-## troubleshooting
+## Mac troubleshooting
 * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
 * [iMac 21.5-inch, Late 2009 HDD 교체](https://hyeonseok.com/soojung/hardware/2019/04/20/851.html)
 * [How to Reset the Bluetooth Hardware Module on Mac OS X to Troubleshoot Challenging Bluetooth Issues](http://osxdaily.com/2015/12/15/reset-bluetooth-hardware-module-mac-osx/)
