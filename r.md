@@ -654,6 +654,7 @@ R
 * [git을 설치했는데 Rstudio에서 프로젝트 만들기 진행이 안되요](https://mrchypark.github.io/post/rqna-git%EC%9D%84-%EC%84%A4%EC%B9%98%ED%96%88%EB%8A%94%EB%8D%B0-rstudio%EC%97%90%EC%84%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%A7%84%ED%96%89%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94/)
 * [Searching on Google Maps using RStudio](https://www.datasciencecentral.com/profiles/blogs/searching-on-google-maps-using-rstudio)
 * [RStudio Projects and Working Directories: A Beginner’s Guide](https://www.r-bloggers.com/rstudio-projects-and-working-directories-a-beginners-guide/)
+* [RStudio Connect 1.8.0](https://www.r-bloggers.com/rstudio-connect-1-8-0/)
 
 # TDD, Test
 * [Tips for A/B Testing with R](https://www.r-bloggers.com/tips-for-ab-testing-with-r/)
