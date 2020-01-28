@@ -557,6 +557,7 @@ Data Science
 * [Using machine learning to predict what file you need next, Part 2](https://blogs.dropbox.com/tech/2019/10/using-machine-learning-to-predict-what-file-you-need-next-part-2/)
 * [Powered by AI: Instagram’s Explore recommender system](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
 * [Youtube 추천 시스템 분석](https://havefunlearningnewstuff.tistory.com/3)
+* [Spotyfy가 당신을 알고 있다, 어떻게?](https://brunch.co.kr/@michaelbae/241)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
