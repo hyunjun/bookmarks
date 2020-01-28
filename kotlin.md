@@ -186,6 +186,7 @@
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
+* Exception [Kotlin에서 try catch finally로 처리하는 Exception](https://developer88.tistory.com/245)
 
 # Conference
 * [kotlinconf.com](https://kotlinconf.com/)
