@@ -834,6 +834,7 @@ App
   * [“완벽한 생산성 앱은 없는 걸까?” 당신이 모르던 노션의 세계를 알려준다](https://ppss.kr/archives/204813)
 * [paperkit.net](http://paperkit.net/)
 * [paperwork.rocks](http://paperwork.rocks/)
+* [Roam](https://roamresearch.com) graph 형태로 자신의 note를 연결할 수 있는 듯
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
