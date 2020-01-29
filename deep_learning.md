@@ -1193,7 +1193,6 @@ Deep Learning
   * [Apache MXNet에 대한 모든 것!](http://channy.creation.net/blog/1155)
   * [MXNet for Deep Learning](https://github.com/apache/incubator-mxnet)
   * [MXNet 기반 추천 오픈 소스 딥러닝 프로젝트 모음](http://blog.creation.net/apache-mxnet-deep-learning-project#.WYJws9Pygcw)
-  * [MXNet 시작하기 (1) – NDArrays API](http://blog.creation.net/mxnet-part-1-ndarrays-api#.WYKHYtPygcw)
   * [CVPR 2017 Tutorial https://mli.github.io/cvpr17 ](https://github.com/mli/cvpr17)
   * [클라우드에 딱 맞는 MXNet의 5가지 딥러닝 학습 기능](http://blog.creation.net/mxnet-deep-learning-features-aws-cloud)
   * [dl-twitch-series](https://github.com/sunilmallya/dl-twitch-series/blob/master/README.md)
