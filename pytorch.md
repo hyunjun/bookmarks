@@ -250,6 +250,7 @@ PyTorch
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
 * [EuclidesDB - a multi-model machine learning feature database that is tight coupled with PyTorch](https://euclidesdb.readthedocs.io)
 * [fairseq-py - Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/facebookresearch/fairseq-py)
+  * [나의 첫 자연어 처리 오픈소스 PR 후일담](https://huffon.github.io/2020/01/28/open-source/)
 * [FastPhotoStyle](https://github.com/nvidia/fastphotostyle)
 * [Glow - a machine learning compiler and execution engine for various hardware targets](https://github.com/pytorch/glow/)
 * [gpytorch - A highly efficient and modular implementation of Gaussian Processes in PyTorch](https://github.com/cornellius-gp/gpytorch)
