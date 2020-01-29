@@ -192,6 +192,7 @@ Linux
   * [Crontab을 이용한 노드 API 호출](http://engineeryun.tistory.com/entry/Crontab%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%85%B8%EB%93%9C-API-%ED%98%B8%EC%B6%9C)
   * [해당 달의 첫 평일에 실행하는 스케쥴](http://ohgyun.com/759)
   * [crontab 사용시 권한 주의](http://jybaek.tistory.com/712)
+  * [Linux에서 crontab 실행시 명령어 찾지 못할때](https://jojoldu.tistory.com/472) crontab에 absolute path 사용
   * [python-crontab](https://pypi.python.org/pypi/python-crontab)
   * [Cron Expression](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180927_SM_Cron_Expressions.md)
 * `curl`
