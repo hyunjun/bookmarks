@@ -179,6 +179,7 @@ Haskell
 * [Do-notation considered harmful](https://syntaxfree.wordpress.com/2006/12/12/do-notation-considered-harmful/)
 
 # Book
+* [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
 * [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com)
@@ -261,3 +262,6 @@ Haskell
 * [Typeable — A long journey to type-safe dynamic type representation (Part 1)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-9070eac2cf8b)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 2)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-2-954b52bfa9fa)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 3)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-3-80a2a34329dd)
+
+# Tutorial
+* [INTRODUCTION TO FUNCTIONAL PROGRAMMING USING HASKELL](https://1ambda.github.io/haskell/) 한글
