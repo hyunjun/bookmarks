@@ -842,6 +842,9 @@ Programming Books
 * 마하웃 완벽 가이드
   * 탐라 개004.지67ㅁ
 
+# Haskell
+* [하스켈로 배우는 함수형 프로그래밍](https://jpub.tistory.com/511)
+
 # Infrastructure
 * [코드로 인프라 관리하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B6496581381)
   * 한라 004.78-모298ㅋ
