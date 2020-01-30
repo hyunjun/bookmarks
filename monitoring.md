@@ -54,6 +54,7 @@ Monitoring
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
+  * [**java 애플리케이션 트러블 슈팅 사례 & pinpoint**](https://www.slideshare.net/deview/d2-java-pinpoint)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
 * [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
