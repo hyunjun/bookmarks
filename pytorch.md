@@ -356,4 +356,5 @@ PyTorch
 * [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
 * [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
 * [DeepLearning_Basic_Tutorial](https://github.com/Parkchanjun/DeepLearning_Basic_Tutorial)
+* [PyTorch Tutorials now in Korean](https://medium.com/pytorch/learn-pytorch-tutorials-in-korea-998b55353549)
 * [d2l-pytorch - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch](https://github.com/dsgiitr/d2l-pytorch)
