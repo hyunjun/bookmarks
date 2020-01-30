@@ -717,10 +717,12 @@ Docker
 * [5 Kubernetes trends to watch in 2020](https://enterprisersproject.com/article/2020/1/kubernetes-trends-watch-2020)
 * [쿠버네티스 정리 #1 - 쿠버네티스 소개](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-1/)
 * [쿠버네티스 정리 #2 - 쿠버네티스 설치](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-2/)
+* [쿠버네티스 정리 #3 - 쿠버네티스 개념 및 명령어 정리](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-3/)
 * [This Little Trick Keeps Netflix Running - Kubernetes & Containers Explained](https://www.youtube.com/watch?v=yUL5Lp5aPas)
 * [쿠버네티스와 도커를 백업하는 방법](http://www.itworld.co.kr/news/142038)
 * [Maybe You Don't Need Kubernetes](https://endler.dev/2019/maybe-you-dont-need-kubernetes/)
 * [‘쿠버네티스 상에서 직접 서버리스를’··· 주요 프로젝트 5종](http://www.ciokorea.com/news/141326)
+* [다시 정리하는 쿠버네티스 : 컴포넌트 개념 #1](https://jybaek.tistory.com/860)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
