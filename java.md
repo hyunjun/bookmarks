@@ -484,7 +484,6 @@ Java
 * [**Really Small Java Apps**](http://august.nagro.us/small-java.html) jlink, jpackage
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * [How Memory Leaks Happen in a Java Application](https://stackify.com/memory-leaks-java/)
-* [**JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale**](https://eng.uber.com/jvm-profiler)
 * [Docker 안에 숨어 있는 Web application JMX profiling Tip](https://www.popit.kr/docker-jmx-profiling-tip/)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
@@ -495,7 +494,6 @@ Java
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
-* VisualVM [Performance Profiling During Your Development Workflow](https://hackernoon.com/performance-profiling-during-your-development-workflow-ebff78afb71c)
 
 ## JVM GC Garbage Collection
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
@@ -512,6 +510,21 @@ Java
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Understanding Java Garbage Collection Logging: What Are GC Logs and How To Analyze Them](https://sematext.com/blog/java-garbage-collection-logs/)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
+
+## JVM Profile
+* [자바 애플리케이션 성능 튜닝의 도(道)](https://d2.naver.com/helloworld/184615)
+* [YourKit Java 프로필러(YourKit Java Profiler) 소개](http://freealt.selfhow.com/yourkit-java-profiler/)
+* [How to profile JVM applications](https://www.lightbend.com/blog/profiling-jvm-applications)
+* [자바 성능 튜닝 이야기](https://garden715.github.io/Java_Tuning3/)
+* [자바개발 및 운영툴(https://javaengine.tistory.com/entry/자바개발-및-운영툴)
+* jconsole
+* jprobe
+* jProfiler
+* [jvm-profiling-tools](https://github.com/jvm-profiling-tools)
+  * [async-profiler - Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events](https://github.com/jvm-profiling-tools/async-profiler/)
+* [Uber JVM Profiler - JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter](https://github.com/uber-common/jvm-profiler)
+  * [**JVM Profiler: An Open Source Tool for Tracing Distributed JVM Applications at Scale**](https://eng.uber.com/jvm-profiler)
+* VisualVM [Performance Profiling During Your Development Workflow](https://hackernoon.com/performance-profiling-during-your-development-workflow-ebff78afb71c)
 
 # Lambda
 * [Jump-Starting Lambda Programming](https://www.youtube.com/watch?v=bzO5GSujdqI)
@@ -538,6 +551,7 @@ Java
 * [Functional Exceptions In Java](https://8thlight.com/blog/brian-gerstle/2019/01/22/fnl-exceptions-in-java.html)
 * [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 * [Design Patterns in the Light of Lambda Expressions. Venkat Subramaniam, Agile developer, inc.](https://www.youtube.com/watch?v=WN9kgdSVhDo)
+* [Java 8의 람다 함수 살펴보기](https://huni.org/java-8의-람다-함수-살펴보기-1767d034f962)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
@@ -552,6 +566,7 @@ Java
   * [#6-Spring Boot에서 Zipkin을 이용한 분산 시스템 로깅](https://bcho.tistory.com/1319)
   * [#7-스택드라이버로 로그 백앤드 구축하기](https://bcho.tistory.com/1321)
 * [9 Java EE Frameworks to Build Enterprise Applications](https://geekflare.com/java-ee-frameworks/)
+* [Java를 위한, Java에 의한 도구들](https://www.slideshare.net/NHNFORWARD/2018-java-java) jvmtop, jvm-tools, jcmd, jhsdb, jmh, jcstress, jol
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
