@@ -300,6 +300,7 @@ NLP
 * [자연언어처리(NLP)... 무엇이며, 그 기술과 시장은?](http://www.aitimes.kr/news/articleView.html?idxno=15036)
 * [기획자와 마케터를 위한 이벤트 댓글 분석 - feat. 인프런 새해 다짐 이벤트](https://github.com/corazzon/inflearn-new-year-event-2020)
   * [텍스트데이터분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmohRzCxWQqJ7Z9aqc-sQ5gC)
+* [NLU sense](https://nlusense.com)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
