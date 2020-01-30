@@ -8,15 +8,6 @@ NLP
 * [Introduction To Natural Language Processing | Machine Learning Projects | Eduonix](https://www.youtube.com/watch?v=yN3B-k4F8L4)
 * [5—INTRO TO NLP AND RNNS](http://course.fast.ai/lessons/lesson5.html)
 * [A Review of the Neural History of Natural Language Processing](http://blog.aylien.com/a-review-of-the-recent-history-of-natural-language-processing/)
-* [Natural Language Processing (NLP) Tutorial | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=6WpnxmmkYys)
-* [**Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition**](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
-* [Natural Language Processing Tutorial Part 1 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Na4ad0rqwQg)
-* [Natural Language Processing Tutorial Part 2 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=9LLs2I8_gQQ)
-* [Natural Language Processing Tutorial Part 3 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=af4C8OhoWlQ)
-* [Natural Language Processing Tutorial Part 4 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=JcscKnF-T24)
-* [Natural Language Processing Tutorial Part 5 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Dv6MAWtWBmU)
-* [Natural Language Processing Tutorial Part 6 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=VZFmwKMh9Ck)
-* [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
@@ -229,9 +220,6 @@ NLP
 * [NLP with attention](https://github.com/dsindex/blog/wiki/%5Battention%5D-NLP-with-attention)
 * [CodeSandbox - an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io/)
 * [Team AURA - 1st Meeting Summary](https://www.ai-lab.kr/labs/aura-raebjang-gimhyeonu/team-aura-1st-meeting-summary)
-* [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
-* [NLP Tutorial with Deep Learning using tensorflow](https://github.com/bzantium/nlp-tensorflow)
-* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) TensorFlow and Pytorc
 * [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/)
 * [Introduction to Clinical Natural Language Processing: Predicting Hospital Readmission with Discharge Summaries](https://towardsdatascience.com/introduction-to-clinical-natural-language-processing-predicting-hospital-readmission-with-1736d52bc709)
 * [Feature-wise transformations - A simple and surprisingly effective family of conditioning mechanisms](https://distill.pub/2018/feature-wise-transformations/)
@@ -274,7 +262,6 @@ NLP
   * [NLU / Intent Detection Benchmark by Intento, August 2017](https://www.slideshare.net/KonstantinSavenkov/nlu-intent-detection-benchmark-by-intento-august-2017)
 * [콜라 좀… 쉽게 담을 수 없나요, 쓰앵님](http://woowabros.github.io/experience/2019/02/25/android-improve_shop-menu-explore_1.html) 메뉴 검색을 위해 초중종성 분리 검색 개발
 * [Machine Learning with Python: NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
-* [Concrete solutions to real problems](https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb)
 * [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
   * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
   * [GPT-2 Playground](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
@@ -1347,6 +1334,22 @@ NLP
 * [토크ON 58차. 기계번역 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEhcyCTvJq6tGJ3_B6hRjLm2N)
 * [Unsupervised Word Segmentation for Neural Machine Translation and Text Generation](https://github.com/rsennrich/subword-nmt)
 * [Combined Quality Estimation and Automatic Post Editing in Machine Translation (기계번역 품질예측과 사후처리의 기술 융합)](https://blog.naver.com/bcj1210/221714284644)
+
+# Tutorial
+* [Natural Language Processing (NLP) Tutorial | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=6WpnxmmkYys)
+* [**Over 200 of the Best Machine Learning, NLP, and Python Tutorials — 2018 Edition**](https://medium.com/machine-learning-in-practice/over-200-of-the-best-machine-learning-nlp-and-python-tutorials-2018-edition-dd8cf53cb7dc)
+* [Natural Language Processing Tutorial Part 1 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Na4ad0rqwQg)
+* [Natural Language Processing Tutorial Part 2 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=9LLs2I8_gQQ)
+* [Natural Language Processing Tutorial Part 3 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=af4C8OhoWlQ)
+* [Natural Language Processing Tutorial Part 4 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=JcscKnF-T24)
+* [Natural Language Processing Tutorial Part 5 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=Dv6MAWtWBmU)
+* [Natural Language Processing Tutorial Part 6 | NLP Training Videos | Text Analysis](https://www.youtube.com/watch?v=VZFmwKMh9Ck)
+* [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
+* [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
+* [NLP Tutorial with Deep Learning using tensorflow](https://github.com/bzantium/nlp-tensorflow)
+* [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) TensorFlow and Pytorc
+* [Concrete solutions to real problems](https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb)
+* [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
