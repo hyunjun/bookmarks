@@ -17,6 +17,7 @@ GIS
 * 주소DB가지고놀기
   * [공공데이터포털 에서 주소DB 다운 받아 DB에 insert 하기 #1](https://stricky.tistory.com/116)
   * [파이썬 으로 주소DB에 위도 경도 값 api로 받아 update 하기 #2](https://stricky.tistory.com/119)
+  * [파이썬, ubuntu에서 crontab 등록 하여 실행 하기 #3](https://stricky.tistory.com/134)
 * [Deckgl for Jupyter Notebook - 위치 데이터 시각화 라이브러리인 Deck.gl을 쥬피터 노트북 에서 사용 가능](https://github.com/heumsi/deckgl-jupyter)
 * [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
