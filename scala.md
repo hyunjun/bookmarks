@@ -7,6 +7,7 @@ Scala
 * [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
+* [Happy Valentine’s Day with Valentin Kasas](https://scala.love/happy-valentin/) podcast
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
 * [SCALA CHEATSHEET](https://docs.scala-lang.org/cheatsheets/index.html)
@@ -233,6 +234,9 @@ Scala
 * [Implementing an event-driven HTTP server with Scala Native](https://tech.ovoenergy.com/scala-native-webserver/)
 * [What's that called? What's the name of that operator/symbol/syntax/thing, for Scala](https://github.com/andyscott/scala-whats-that-called)
 * [A Complete Guide to Variance in Java and Scala](https://medium.com/javarevisited/variance-in-java-and-scala-63af925d21dc)
+* [KCD2019 순수 함수형 스칼라로 웹 애플리케이션 만들기(박지수/라스칼라코딩단)](https://www.youtube.com/watch?v=EVue9e_WwoM)
+  * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://slides.com/guersam/pure-scala-webapp#/)
+  * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://github.com/guersam/kcd2019)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -320,6 +324,9 @@ Scala
 * [**A Journey into Reactive Streams**](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29)
   * [Reactive Streams로의 여행](http://eyeahs.github.io/blog/2017/01/24/a-journey-into-reactive-streams/)
   * [리액티브 스트림으로의 여행 글 요약](http://javacan.tistory.com/entry/a-journey-into-reactive-streams-summary)
+* [Reactive Streams in Scala: Akka Streams vs Monix - part 1](https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-1/)
+* [Reactive Streams in Scala: Akka Streams vs Monix - part 2](https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-2/)
+* [Reactive Streams in Scala: Akka Streams vs Monix - part 3](https://softwaremill.com/reactive-streams-in-scala-comparing-akka-streams-and-monix-part-3/)
 * [Bootstrapping Microservices using Akka, Kafka ans Spark by Alex Silva](https://www.youtube.com/watch?v=gF8v51i6Y1c)
 * [The Zen of Akka - by Konrad Malawski](https://www.youtube.com/watch?v=vgFoKOxrTzg)
 * [A tour of the (advanced) Akka features in 60 minutes by Johan Janssen](https://www.youtube.com/watch?v=4sP8v9lM6Kw)
@@ -426,6 +433,10 @@ Scala
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
 * `:type` or `:t`
+* Any
+  * 타입이 Any로 추론되는 것을 막으려면
+    1. scalac에서 `-Xlint:infer-any`와 `-Xfatal-warnings` 옵션
+    2. [wartremover의 Any/AnyVal](https://www.wartremover.org/doc/warts.html#any)
 * BigDecimal
   * [Be careful when using BigDecimal in Scala 2.13](https://blog.kevinlee.io/2019/09/29/be-careful-when-using-bigdecimal-in-scala-2.13/)
 * BitSet
@@ -438,6 +449,7 @@ Scala
     * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
     * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
     * [Human-readable case class diffs](https://blog.softwaremill.com/human-readable-case-class-diffs-c707e83e08a2)
+  * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
@@ -627,17 +639,18 @@ Scala
 * [Lambda World 2019](https://www.dev-log.me/Lambda_World_2019/)
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [scalar-conf.com](http://scalar-conf.com/)
-* [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
-  * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
-  * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
-* [Scala Days Amsterdam 2015](http://event.scaladays.org/scaladays-amsterdam-2015)
-  * [My takeaways from ScalaDays 2015 in Amsterdam](http://coding.bwestlin.se/2015/06/16/scaladays-2015-amsterdam/)
-* [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/videos)
-  * [Keynote: Scala's Road Ahead - by Martin Odersky](https://www.youtube.com/watch?v=_2oGY8l67jk)
-    * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
-* [Scala Days 2019](https://portal.klewel.com/watch/nice_url/scala-days-2019/)
-* [Scala Days Europe 2018](https://slideslive.com/scaladays/scala-days-europe-2018)
-* [Scala Days Lausanne 2019](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5KDwkSRrLJ1_O6kZqlhhFt)
+* [Scala Days](https://slideslive.com/scaladays)
+  * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
+    * [The Scalactic Way](http://www.slideshare.net/bvenners/the-scalactic-way)
+    * [SF Scala: Bruce Eckel, Rethinking Scala](https://www.youtube.com/watch?v=vWsWoAUjjck)
+  * [Scala Days Amsterdam 2015](http://event.scaladays.org/scaladays-amsterdam-2015)
+    * [My takeaways from ScalaDays 2015 in Amsterdam](http://coding.bwestlin.se/2015/06/16/scaladays-2015-amsterdam/)
+  * [Scala Days Conferences](https://www.youtube.com/channel/UCOHg8YCiyMVRRxb3mJT_0Mg/videos)
+    * [Keynote: Scala's Road Ahead - by Martin Odersky](https://www.youtube.com/watch?v=_2oGY8l67jk)
+      * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
+  * [Scala Days Europe 2018](https://slideslive.com/scaladays/scala-days-europe-2018)
+  * [Scala Days 2019](https://portal.klewel.com/watch/nice_url/scala-days-2019/)
+  * [Scala Days Lausanne 2019](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5KDwkSRrLJ1_O6kZqlhhFt)
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
   * [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
@@ -712,6 +725,7 @@ Scala
   * [Towards more functional Play — Part 1](https://blog.softwaremill.com/towards-more-functional-play-part-1-a97bc4d92c76)
   * [Towards more functional Play — Part 2](https://blog.softwaremill.com/towards-more-functional-play-part-2-ac20d02bb2f5)
   * [Real World Cats](https://github.com/ikhoon/real-world-cats)
+    * [Real World Cats](https://drive.google.com/file/d/1OFoSSkXpVWb556paI6OKCQgMCGMguvO8/view)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
 * [Chimney - Scala library for boilerplate-free data transformations](https://scalalandio.github.io/chimney/)
@@ -728,6 +742,8 @@ Scala
 * [Finagle - A fault tolerant, protocol-agnostic RPC system](https://github.com/twitter/finagle)
   * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
+* [flip - Fast and lightweight probability tools for a dataset and a data stream](https://github.com/xxxnell/flip)
+  * [Fast and Simple Statistics with Scala](https://www.slideshare.net/Nell4/fast-and-simple-statistics-with-scala)
 * [fs2 - Compositional, streaming I/O library for Scala https://fs2.io ](https://github.com/functional-streams-for-scala/fs2)
   * [Intro to Functional Streams for Scala (FS2)](https://www.youtube.com/watch?v=cahvyadYfX8)
   * [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
@@ -1026,6 +1042,7 @@ Scala
 * [SBT for the absolute beginner 1 (Basics and dependency Management)](https://medium.com/@awesomeorji/sbt-for-the-absolute-beginner-1-basics-and-dependency-management-74098385dda2)
 * [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
@@ -1220,3 +1237,5 @@ Scala
 * [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
 * [**The Evolution of a Scala Programmer**](https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f)
 * [simulacrum - First class syntax support for type classes in Scala](https://github.com/typelevel/simulacrum)
+* [자바 개발자를 위한 Scala](https://medium.com/@kimkare/자바-개발자를-위한-scala-f4485e5265ba)
+* [My answers for Functional Programming Challenges on HackerRank](https://github.com/seoh/hackerrank-fp)
