@@ -414,6 +414,7 @@ Java
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
 * [Java Futures, 2019 Edition](https://www.youtube.com/watch?v=hryQIIasGY4) Java12에 국한된 이야기는 아니며 type inference, switch pattern matching, project Valhalla, Panama, Loom 등 다양한 새로운 기능에 대한 이야기
+* [미래의 Java 미리보기 - 앰버와 발할라 프로젝트를 중심으로](https://www.slideshare.net/OracleDeveloperkr/main-session-java)
 
 # Java13
 * [Definitive Guide To Java 13](https://blog.codefx.org/java/java-13-guide/)
