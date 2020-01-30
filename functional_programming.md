@@ -116,6 +116,7 @@ Functional Programming
 * [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [An Outsider's Guide to Statically Typed Functional Programming](https://leanpub.com/outsidefp/read_full)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
+* [스칼라 FP 관련 책들](https://gist.github.com/ikhoon/622605181b33839c95f3dd3df9ff8572)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
@@ -325,6 +326,8 @@ Functional Programming
 * [Functional Programming features in Scala](https://gist.github.com/kevvo83/05d2f6cca40d9a5336722c3d52a14873)
 * [Currying in Scala: A Useful Example](https://medium.com/@kadirmalak/currying-in-scala-a-useful-example-bd0e3a44195)
 * [Foundation of functional programming course https://www.fp-tower.com/foundation ](https://github.com/fp-tower/foundation)
+* [Zero-Overhead Tree Processing with the Visitor Pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
+* [**Learn Functional Programming course/tutorial on Scala**](https://github.com/dehun/learn-fp)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
