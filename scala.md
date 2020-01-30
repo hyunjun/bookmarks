@@ -352,6 +352,7 @@ Scala
 * [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
 * [Actors, Streams and Futures in Akka: What to Use?](https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/)
 * [Akka (Actor) in Practice](https://speakerdeck.com/sunghyunzz/akka-actor-in-practice)
+* [Managing Blocking in Akka video](https://akka.io/blog/news/2020/01/22/managing-blocking-video)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -504,6 +505,7 @@ Scala
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)
   * [The Known Unknown: Working with Option and Nullable Types](https://medium.com/digitalfrontiers/the-known-unknown-working-with-option-and-nullable-types-b342a0e787de)
   * [Optional Is the New Mandatory](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html)
+  * [Introducing error reporting in optics](https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/)
 * par
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * Process
@@ -578,6 +580,8 @@ Scala
     * [5 pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-pitfalls-to-avoid-when-starting-to-work-with-zio-adefdc7d2d5c)
     * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
+* sort
+  * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
   * [Homegrown #Scala Collections - Part 37 - Are #Streams a full-blown paradigm?](https://www.youtube.com/watch?v=wgYVDigEDAM)
@@ -597,6 +601,7 @@ Scala
     * [Part 3](https://blog.knoldus.com/back2basics-the-story-of-trait-part-3/)
     * [Part 4](https://blog.knoldus.com/back2basics-the-story-of-trait-part-4/)
   * [Back2Basics: Limit which classes a Trait can be mixed into!](https://blog.knoldus.com/back2basics-limit-which-classes-a-trait-can-be-mixed-into/)
+  * [Guide to Trait Linearisation in Scala](https://medium.com/@shayan1337/guide-to-trait-linearisation-in-scala-60611571e088)
 * tuple
   * [Scala Tuples – Syntax, Declaration, Use case, Examples](https://leobenkel.com/2019/10/scala-tuples/)
 * unapply
@@ -696,6 +701,8 @@ Scala
 * [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
   * [Happy Life With #Scala #Bloop CLI](https://www.youtube.com/watch?v=QtH8yW7dmBs)
+* [caliban - Functional GraphQL backend in Scala https://ghostdogpr.github.io/caliban ](https://github.com/ghostdogpr/caliban)
+  * [GraphQL in Scala with Caliban — Part 1: Turn a simple API into GraphQL](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-1-8ceb6099c3c2)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
@@ -739,6 +746,7 @@ Scala
 * [ENSIME - Enhanced Scala and java Interaction Mode for text Editors](https://github.com/ensime)
 * [etcd4s - Scala etcd client implementing V3 APIs](https://github.com/mingchuno/etcd4s)
   * [Scala etcd client with etcd4s and cats-effects](https://medium.com/rahasak/scala-etcd-client-with-etcd4s-and-cats-effects-f393ae94404e)
+  * [Etcd watch API integration with scala and cats-effect](https://medium.com/rahasak/etcd-watch-api-integration-with-scala-and-cats-effect-78123dc9d71d)
 * [Finagle - A fault tolerant, protocol-agnostic RPC system](https://github.com/twitter/finagle)
   * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
@@ -925,6 +933,7 @@ Scala
 * [Monocle - Optics library for Scala](https://github.com/julien-truffaut/Monocle)
   * [State of Monocle](https://fp-tower.github.io/2019-12-30-state-of-monocle/)
   * [Monocle 3.x](https://fp-tower.github.io/2020-01-06-monocle-3/)
+  * [Data Juggling - Part 2 - Homegrown #Lenses (#Monocle - Part 1)](https://www.youtube.com/watch?v=rFixov5KOps)
 
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
@@ -985,6 +994,7 @@ Scala
 * [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
 * [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
+* [Dependency injection with Reader Monad in Scala](https://medium.com/rahasak/dependency-injection-with-reader-monad-in-scala-fe05b29e04dd)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -1041,6 +1051,7 @@ Scala
 * [How-to run tests in parallel with sbt](http://yannmoisan.com/sbt-parallel-test.html)
 * [SBT for the absolute beginner 1 (Basics and dependency Management)](https://medium.com/@awesomeorji/sbt-for-the-absolute-beginner-1-basics-and-dependency-management-74098385dda2)
 * [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
+* [Tidying up your SBT file with Scala](https://medium.com/@supermanue/tidying-up-your-sbt-file-with-scala-f05682a2a2e6)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
