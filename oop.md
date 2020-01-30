@@ -72,6 +72,9 @@
 * [singleton 클래스 이야기(4)](http://www.gilgil.net/15809)
 * [Keep it Simple with the Strategy Design Pattern](https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9)
 
+# C#
+* [Factory Design Pattern (C#)](https://blog.usejournal.com/factory-design-pattern-c-a330955b9ed6)
+
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
 * [왜 클래스죠?](http://www.haruair.com/blog/3895)
