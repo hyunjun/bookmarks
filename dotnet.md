@@ -70,6 +70,7 @@
 * [.NET Core with Jupyter Notebooks – Available today | Preview 1](https://devblogs.microsoft.com/dotnet/net-core-with-juypter-notebooks-is-here-preview-1)
 * [A .NET Bridge for Haskell: Dancing with the Devil](https://archives.haskell.org/code.haskell.org/Salsa/Docs/Thesis.pdf)
 * [.NET everywhere apparently also means Windows 3.11 and DOS](https://www.hanselman.com/blog/NETEverywhereApparentlyAlsoMeansWindows311AndDOS.aspx)
+* [Using Linux in a modern .NET world](https://medium.com/wearetheledger/using-linux-in-a-modern-net-world-892da2224d7)
 
 # Conference
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
