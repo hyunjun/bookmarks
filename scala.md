@@ -58,6 +58,7 @@ Scala
 * [콘솔에서 코드 붙여서 테스트하기 (paste)](http://knight76.tistory.com/entry/scala-%EC%BD%98%EC%86%94%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%EB%B6%99%EC%97%AC%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-paste)
 * [Keeping Scala Simple](http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html)
 * [JVM Backend and Optimizer in Scala 2.12](http://downloads.typesafe.com/website/presentations/ScalaDaysSF2015/T2_Rytz_Backend_Optimizer.pdf)
+  * [The JVM Backend and Optimizer in Scala 2.12](https://www.youtube.com/watch?v=Ic4vQJcYwsU)
 * [How Scala compares with 20 other programming languages according to Reddit analysis](https://www.typesafe.com/blog/how-scala-compares-20-programming-languages-reddit-analysis)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
@@ -228,6 +229,10 @@ Scala
 * [Tame your config](https://blog.softwaremill.com/tame-your-config-2e89b1669dd9)
 * [Scala: and using it in a Startup in 2019](https://medium.com/style-theory-engineering/scala-and-using-it-in-a-startup-in-2019-42e56110e887)
 * [SPNEGO Token generation](https://medium.com/se-notes-by-alexey-novakov/spnego-token-generation-90c4267f784e)
+* [Building functional & testable HTTP APIs](https://michalplachta.com/2018/02/19/building-functional-testable-http-apis/)
+* [Implementing an event-driven HTTP server with Scala Native](https://tech.ovoenergy.com/scala-native-webserver/)
+* [What's that called? What's the name of that operator/symbol/syntax/thing, for Scala](https://github.com/andyscott/scala-whats-that-called)
+* [A Complete Guide to Variance in Java and Scala](https://medium.com/javarevisited/variance-in-java-and-scala-63af925d21dc)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -340,7 +345,8 @@ Scala
 * [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
 * [Actors, Streams and Futures in Akka: What to Use?](https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/)
 * [Akka (Actor) in Practice](https://speakerdeck.com/sunghyunzz/akka-actor-in-practice)
-* [monix - Asynchronous, Reactive Programming for Scala and Scala.js. https://monix.io](https://github.com/monix/monix)
+* [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
+  * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
   * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
 
@@ -616,6 +622,7 @@ Scala
 # Conference
 * [This is why you must join Scalar 2019](https://blog.softwaremill.com/this-is-why-you-must-join-scalar-2019-69ad12248e95)
   * [Scalar 2019 whiteboard voting](https://blog.softwaremill.com/scalar-2019-whiteboard-voting-40b31e4f7f7)
+* [reddit.com/r/ScalaConferenceVideos/new/](https://www.reddit.com/r/ScalaConferenceVideos/new/)
 * [Functional Scala London 2019: Day 1](https://juliano-alves.com/2019/12/17/functional-scala-london-2019-day-1/)
 * [Lambda World 2019](https://www.dev-log.me/Lambda_World_2019/)
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
@@ -629,6 +636,7 @@ Scala
   * [Keynote: Scala's Road Ahead - by Martin Odersky](https://www.youtube.com/watch?v=_2oGY8l67jk)
     * [Scala The Road Ahead](http://www.slideshare.net/Odersky/scala-days-nyc-2016)
 * [Scala Days 2019](https://portal.klewel.com/watch/nice_url/scala-days-2019/)
+* [Scala Days Europe 2018](https://slideslive.com/scaladays/scala-days-europe-2018)
 * [Scala Days Lausanne 2019](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5KDwkSRrLJ1_O6kZqlhhFt)
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
@@ -639,6 +647,7 @@ Scala
 * [Scala UA](https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg/videos)
 * [TMWL September’19 — Scala with JDK8, toString() method and ASCI art on the type level](https://blog.softwaremill.com/tmwl-september19-scala-with-jdk8-tostring-method-and-asci-art-on-the-type-level-c903cedfeab6)
 * [TMWL October’19 — Scala Steward, DB index and a React hack](https://blog.softwaremill.com/tmwl-october19-scala-steward-tables-in-db-index-and-a-react-hack-ec51e56aa581)
+* [Typelevel Summit Boston, March 2018](https://www.youtube.com/playlist?list=PL_5uJkfWNxdl-qzhg3yjg7p5HPw_oHfpu)
 
 # IntelliJ
 * [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
@@ -667,8 +676,10 @@ Scala
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
   * [Getting started with #Ammonite - A Modernized #Scala REPL](https://www.youtube.com/watch?v=Pu2ctl4rzJg)
   * [Squeezing extra productivity out of Ammonite Scala REPL](https://blog.softwaremill.com/squeezing-extra-productivity-out-of-ammonite-scala-repl-b4e4001cca07)
+* [atto - a compact, pure-functional, incremental text parsing library for Scala](https://tpolecat.github.io/atto/)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
+* [better-monadic-for - A Scala compiler plugin to give patterns and for-comprehensions the love they deserve](https://github.com/oleg-py/better-monadic-for)
 * [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
   * [Happy Life With #Scala #Bloop CLI](https://www.youtube.com/watch?v=QtH8yW7dmBs)
@@ -679,6 +690,7 @@ Scala
   * [herding cats](http://eed3si9n.com/herding-cats/) scalaz에서 cats로 대세
   * [Meow! Start using Cats in your project right now](https://virtuslab.com/blog/cats-library/)
   * [Scala with Cats Book](https://underscore.io/books/scala-with-cats/)
+  * [Advanced Scala with Cats Course](https://underscore.io/training/courses/advanced-scala/)
   * [9 tips about using cats in Scala you might want to know](https://blog.softwaremill.com/9-tips-about-using-cats-in-scala-you-might-want-to-know-e1bafd365f88)
   * [Adopting Cats - Ron Aharoni](https://www.youtube.com/watch?v=4ODUEbowkBM)
   * [Scala — cats nice tricks and fun](https://medium.com/@regis.leray/scala-cats-nice-tricks-and-fun-30b5cb97fab3)
@@ -739,8 +751,6 @@ Scala
   * [Happy Life With #Scala #Metals](https://www.youtube.com/watch?v=kc2jrTEs5ug)
   * [Implementing a server for the Language Server Protocol](https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
-* [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
-  * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
@@ -773,6 +783,7 @@ Scala
 * scalafmt
   * [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
   * [Getting started with #Scalafmt](https://www.youtube.com/watch?v=nN2aBMcUAjE)
+  * [neo-sbt-scalafmt](https://github.com/lucidsoftware/neo-sbt-scalafmt)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
   * [마이크로 벤치마킹 툴 - scala meter 예제](http://knight76.tistory.com/entry/scala-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%ED%88%B4-scala-meter-%EC%98%88%EC%A0%9C)
@@ -820,12 +831,18 @@ Scala
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
 * [sttp — an open-source library with simple, type-safe API for defining HTTP requests](https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762)
+  * [sttp - The Scala HTTP client you always wanted! https://softwaremill.com/open-source ](https://github.com/softwaremill/sttp)
   * [Websockets in Scala using sttp](https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb)
   * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
 * [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
   * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
+
+## Library Build
+* [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
+* [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
+  * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
 
 ## Library Documentation
 * [mdoc Typechecked markdown documentation for Scala](https://scalameta.org/mdoc/)
@@ -974,6 +991,7 @@ Scala
 * [What are monoids and how to use them - Scala tutorial](https://www.youtube.com/watch?v=ppzvmI6azaw)
 * [Homegrown #Scala Collections - Part 35.1 - Monoids and Basic Group Theory](https://www.youtube.com/watch?v=bT9qRjRuwCc)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
+  * [Lightning-Fast Standard Collections With ScalaBlitz](https://scala-blitz.github.io/talks/scaladays2014-final.pdf)
 
 # [SBT](http://www.scala-sbt.org/)
 * [classpaths](http://www.scala-sbt.org/1.x/docs/Howto/classpaths.html)
@@ -1006,6 +1024,7 @@ Scala
 * [Cross-compiling In Scala](https://medium.com/bigpanda-engineering/cross-compiling-in-scala-bb491682ffcf)
 * [How-to run tests in parallel with sbt](http://yannmoisan.com/sbt-parallel-test.html)
 * [SBT for the absolute beginner 1 (Basics and dependency Management)](https://medium.com/@awesomeorji/sbt-for-the-absolute-beginner-1-basics-and-dependency-management-74098385dda2)
+* [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
@@ -1135,6 +1154,8 @@ Scala
 * [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 * [From @Transactional to type-safe, reasonable transactions](https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e)
 * [Illustrated guide to Types, Sets and Values](https://medium.com/@1jpablo1/illustrated-guide-to-types-sets-and-values-8093d0b7d648)
+* [Understanding `F[_]` in Scala](https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f)
+* [Exploring Type Annotations in Scala](https://www.geekabyte.io/2017/12/exploration-of-type-annotations-in-scala.html)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
@@ -1197,3 +1218,4 @@ Scala
 * [Tic-tac-toe in FP Scala](https://medium.com/wix-engineering/tic-tac-toe-in-fp-scala-29b9162ebc3e)
 * [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
 * [**The Evolution of a Scala Programmer**](https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f)
+* [simulacrum - First class syntax support for type classes in Scala](https://github.com/typelevel/simulacrum)
