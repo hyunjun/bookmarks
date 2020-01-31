@@ -374,6 +374,7 @@ Linux
   * `ssh-keygen -R <ip>` [Host key verification failed 대처](http://uni2u.tistory.com/93)
   * [A top-down introduction to SSH and how it enables secure data-sharing](https://medium.freecodecamp.org/a-top-down-introduction-to-ssh-965f4fadd32e)
   * [SSH Port Forwarding](https://jusths.tistory.com/102)
+    * `ssh -L 15672:localhost:15672 <server>` e.g. rabbitmq의 web interface를 보고 싶은데, server에서 정책상 허용을 안 하면 내 localhost로 port forwarding을 해서 localhost:15672로 접속 가능
   * [SSH PORT](https://www.ssh.com/ssh/port)
   * [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
