@@ -229,6 +229,7 @@ Keras
 * [Keras Project Template - A project template to simplify building and training deep learning models using Keras](https://github.com/Ahmkel/Keras-Project-Template)
 * [Keras Tuner - An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0](https://github.com/keras-team/keras-tuner)
   * [이제 하이퍼파라미터 튜닝은 케라스 튜너에게 맡기세요 - 김태영](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together_tykim/)
+  * [Hyperparameter tuning with Keras Tuner](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
 * [ktrain: a lightweight wrapper for Keras to help train (and deploy) neural networks](https://github.com/amaiya/ktrain)
 * [plaidML-Keras](https://www.facebook.com/groups/KerasKorea/permalink/3077728298909781/)
   * mac 에서 딥러닝을 하는 방법은 크게, 1. CPU 이용, 2. PlaidML + OpenCL 이용, 3. ROCm (RadeonOpenCompute) 이용, 4. eGPU enclosure + NVIDIA GPU
