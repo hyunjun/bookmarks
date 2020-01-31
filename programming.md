@@ -1228,6 +1228,7 @@ Programming
   * [Spring RabbitMQ Producer Consumer applications](https://www.youtube.com/watch?v=QS6Glk74oYg)
   * [Rabbits and warrens](http://blogs.digitar.com/jjww/2009/01/rabbits-and-warrens/)
   * [RabbitMQ로 메시지 손실 최소화 하는 법(1)](http://tmondev.blog.me/221051503100)
+  * [RabbitMQ와 Spring AMQP를 이용한 간단한 작업 큐 만들기](https://blog.naver.com/tmondev/220419853534)
   * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
   * [Getting started with RabbitMQ queue messaging with PHP](https://www.youtube.com/watch?v=R8pMwciZ95U)
   * [Installing RabbitMQ on Windows](https://www.youtube.com/watch?v=x9wwZAuub1w)
