@@ -486,6 +486,7 @@ R
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
 * MLflow
   * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
+* [multilinguer - Gentle Programming Language Installer (like JDK) for R User](https://github.com/mrchypark/multilinguer)
 * nse2r [Introducing nse2r](https://www.r-bloggers.com/introducing-nse2r/)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
 * [nodbi: the NoSQL Database Connector](https://www.r-bloggers.com/nodbi-the-nosql-database-connector/)
