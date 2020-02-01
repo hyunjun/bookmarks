@@ -775,6 +775,7 @@ Scala
   * [Happy Life With #Scala #Metals](https://www.youtube.com/watch?v=kc2jrTEs5ug)
   * [Implementing a server for the Language Server Protocol](https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
+* [Mu provides the ability to combine RPC protocols, services, and clients in your Scala program](https://higherkindness.io/mu-scala/) gRPC
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
