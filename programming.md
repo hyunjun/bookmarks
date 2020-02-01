@@ -497,6 +497,7 @@ Programming
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
   * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
   * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
+  * [집합 연관 캐시(Set-Associative Cache)의 구조 및 동작 원리](https://kkamagui.tistory.com/917)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
@@ -751,6 +752,7 @@ Programming
 * [Real world serverless - architecture, patterns and lessons learned by David Schmitz](https://www.youtube.com/watch?v=uMCtcZ46gns)
 * [MASOCON 2019 Serverless - Kimminjun](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 * [From vm to container to serverless](https://www.slideshare.net/welkaim/from-vm-to-container-to-serverless)
+* [A journey into serverless Tools and processes for serverless in production](https://medium.com/moonshot-internet/a-journey-into-serverless-af23e22e08b1)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -1193,6 +1195,7 @@ Programming
   * Transactional Outbox Pattern, DB table을 message queue로 이용해 transaction을 보장하는데, DB를 queue로 이용하는 건 anti pattern 아니었나?
 * [커스텀푸시(리치 노티피케이션) / 푸시알림 전달 여부 고속 트래킹](https://rationalowl.tistory.com/20)
 * [**최신 메시지 큐(Messgae Queue) MQ 기술**](https://kji6252.github.io/2015/12/18/message-quere/)
+* [Reviewing Messaging in Distributed System Architectures](https://levelup.gitconnected.com/reviewing-messaging-in-distributed-system-architectures-6cf2fd7b8b4e)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
