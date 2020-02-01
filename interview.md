@@ -586,6 +586,7 @@ Interview
 # Microsoft
 * [Working at Microsoft](http://www.qbrundage.com/michaelb/pubs/essays/working_at_microsoft.html)
 * [Rethinking how we interview in Microsoft’s Developer Division](https://blog.usejournal.com/rethinking-how-we-interview-in-microsofts-developer-division-8f404cfd075a)
+* [Interviewing at Microsoft— JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/microsoft-online-assessment-questions-js-f68ecdb6e927)
 
 # Problems
 * [40 Most Asked Java Interview Programs With Solutions](http://javaconceptoftheday.com/most-asked-java-interview-programs-with-solutions/)
