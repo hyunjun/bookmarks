@@ -2126,6 +2126,7 @@ Javascript
 * [A Quick Walkthrough of SuspenseList in React](https://blog.bitsrc.io/quick-walkthrough-to-suspenselist-in-react-b930d1ece892)
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
 * [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 - 원지혁 (AUSG 1기) :: AWS Community Day 2020](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
+* [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/)
 * [React-Ajax](https://opentutorials.org/module/4549)
   * [React-Ajax](https://www.youtube.com/playlist?list=PLuHgQVnccGMDVTrQYa2HRj1OBbT-4HU_v)
 
