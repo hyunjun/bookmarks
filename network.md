@@ -114,6 +114,7 @@ Network
 * [CLOSE_WAIT & TIME_WAIT 최종 분석](http://tech.kakao.com/2016/04/21/tcp-closewait-timewait/)
 * [TIME_WAIT 상태란 무엇인가?](http://docs.likejazz.com/time-wait/)
 * [로컬 포트 부족과 TIME_WAIT](https://www.popit.kr/%EB%A1%9C%EC%BB%AC-%ED%8F%AC%ED%8A%B8-%EB%B6%80%EC%A1%B1%EA%B3%BC-time-wait/)
+* [TCP의 TIME_WAIT를 없애는 법](https://sunyzero.tistory.com/198)
 
 # TCP
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
@@ -132,6 +133,7 @@ Network
 * [패킷의 흐름과 오류를 제어하는 TCP](https://evan-moon.github.io/2019/11/22/tcp-flow-control-error-control/)
 * [사이 좋게 네트워크를 나눠 쓰는 방법, TCP의 혼잡 제어](https://evan-moon.github.io/2019/11/26/tcp-congestion-control/)
 * [Reverse Engineering a TCP protocol](https://medium.com/swlh/reverse-engineering-a-tcp-protocol-455d248d68fa)
+* [오류를 잡자 : TCP에는 우아한 종료라는 것은 없다](https://sunyzero.tistory.com/269)
 
 # UDP
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
