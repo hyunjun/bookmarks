@@ -353,6 +353,7 @@ Scala
 * [Actors, Streams and Futures in Akka: What to Use?](https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/)
 * [Akka (Actor) in Practice](https://speakerdeck.com/sunghyunzz/akka-actor-in-practice)
 * [Managing Blocking in Akka video](https://akka.io/blog/news/2020/01/22/managing-blocking-video)
+* [Always stop unused Akka actors](https://www.mikulskibartosz.name/always-stop-unused-akka-actors/) OOM
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
