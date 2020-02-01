@@ -214,6 +214,8 @@ Haskell
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
 * [Idris-Java - Idris Java Backend - This is an updated version of the Java backend for Idris](https://github.com/idris-hackers/idris-java)
 * [Leksah - the Haskell IDE of choice](http://leksah.org/)
+* [Mu-Haskell - a set of packages that help you build both servers and clients for (micro)services](https://higherkindness.io/mu-haskell/) gRPC
+  * [Introducing Mu-Haskell v0.1](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
 * [rei - Process lists easily with](https://github.com/kerkomen/rei)
