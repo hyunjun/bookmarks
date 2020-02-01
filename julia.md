@@ -110,6 +110,7 @@ Julia
   * [Julia Programming for Operations Research A Primer on Computing Changhyun Kwon](https://www.softcover.io/read/7b8eb7d0/juliabook)
 * [Julia for Data Science, by Zacharias Voulgaris, PhD](https://technicspub.com/analytics/)
 * [bogumilkaminski.pl/files/julia_express.pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
+* [First Semester in Numerical Analysis with Julia](https://open.umn.edu/opentextbooks/textbooks/first-semester-in-numerical-analysis-with-julia)
 
 # Library
 * [Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA)
