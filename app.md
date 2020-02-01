@@ -665,6 +665,7 @@ App
 * [How to set up your Mac for Web Development](https://medium.com/free-code-camp/how-to-set-up-your-mac-for-web-development-b40bebc0cac3)
 * [Developer turns the MacBook Pro Touch Bar into a Taskbar in Windows 10](https://www.notebookcheck.net/Developer-turns-the-MacBook-Pro-Touch-Bar-into-a-Taskbar-in-Windows-10.428205.0.html)
 * [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
+* [My Top Homebrew Packages for 2020 Become a power user and improve your productivity](https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85) htop, tldr, jq, ncdu, tmux
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
