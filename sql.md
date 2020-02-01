@@ -157,6 +157,7 @@ SQL
 * [How to migrate from Oracle Database with ease](https://www.slideshare.net/MariaDB/how-to-migrate-from-oracle-database-with-ease)
 * ["SELECT COUNT(\*)" 수행 속도 문제](https://blog.naver.com/birdparang/221574304831)
 * [MariaDB 설치 및 설정](https://jojoldu.tistory.com/461)
+* [MariaDB에서 root 암호 인증 방식이 먹히지 않는 이유(feat. unix_socket)](http://jhrogue.blogspot.com/2020/02/b-mariadb-root-feat-unixsocket.html)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 
