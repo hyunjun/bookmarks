@@ -247,6 +247,7 @@
 * [Raspberry Pi admits to faulty USB-C design on the Pi 4](https://arstechnica.com/gadgets/2019/07/raspberry-pi-4-uses-incorrect-usb-c-design-wont-work-with-some-chargers/)
 * [Raspberry Pi 4B 설치가이드 Raspbian OS 설치](https://www.youtube.com/watch?v=tqYRBDcEBRQ)
 * [라즈베리파이 딥러닝 Computer Vision 프로젝트 - 직접 쓴 손글씨 인식](https://www.youtube.com/watch?v=xzzha2KnEDo)
+* [PhotoBooth Lite on Raspberry Pi with TensorFlow Lite](https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
