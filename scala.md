@@ -1085,6 +1085,7 @@ Scala
   * [Vim with Dotty (using coc vim)](https://www.dev-log.me/Coc_Vim_with_Dotty/)
   * [Notes on Category Theory in Scala 3 (Dotty)](https://typista.org/categories-in-dotty/)
   * [dotty scala3 adoption report: easy so far](http://appddeevvmeanderings.blogspot.com/2019/08/scala3-dotty-report-easy-to-adopt.html)
+  * [Functional Scala - Practical Logic(al) Programming with Dotty by Lander Lopez](https://www.youtube.com/watch?v=gEmDyJmwx8Y)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
