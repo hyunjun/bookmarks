@@ -92,6 +92,7 @@ Julia
 * [JuliaCon 2019 | Thread Based Parallelism](https://www.youtube.com/watch?v=HfiRnfKxI64)
 * [JuliaCon 2019 | What's Bad About Julia | Jeff Bezanson](https://www.youtube.com/watch?v=TPuJsgyu87U)
 * [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
+* [Does Julia have a future as a general high-performance language?](https://www.quora.com/Does-Julia-have-a-future-as-a-general-high-performance-language)
 
 # API
 * Pkg.add
