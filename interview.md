@@ -289,6 +289,7 @@ Interview
   * Rate Limiting
     * [Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs](https://www.youtube.com/watch?v=mhUQe4BKZXs)
     * [System Design: Distributed Rate Limiting](https://www.youtube.com/watch?v=xrizarXJgC8)
+    * [**서비스 가용성 확보에 필요한 Rate Limiting Algorithm에 대해**](https://www.mimul.com/blog/about-rate-limit-algorithm/)
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
