@@ -46,6 +46,7 @@ Programming
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
+* [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
 * [free for dev](https://github.com/ripienaar/free-for-dev)
@@ -1562,6 +1563,7 @@ Programming
   * [월간 개발자스럽다 #48](https://blog.gaerae.com/2019/10/monthly.html)
   * [월간 개발자스럽다 #49](https://blog.gaerae.com/2019/11/monthly.html)
   * [월간 개발자스럽다 #50](https://blog.gaerae.com/2019/12/monthly.html)
+  * [월간 개발자스럽다 #51](https://blog.gaerae.com/2020/01/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
