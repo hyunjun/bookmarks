@@ -87,6 +87,8 @@ Scala
     * 무공변은 인자 타입의 상속관계가 있더라도 제네릭 타입에선 아무 상속 관계가 없어짐
   * [공변성/반공변성(Variance)](https://twitter.github.io/scala_school/ko/type-basics.html#variance)
   * [Covariance and contravariance in Scala](http://blog.kamkor.me/Covariance-And-Contravariance-In-Scala/)
+  * [Covariant Contravariant 정리](https://captainthomas.tistory.com/entry/Covariant-Contravariant-정리)
+  * [Covariant Contravariant 그림으로 다시 정리](https://captainthomas.tistory.com/entry/Covariant-Contravariant-그림으로-다시-정리)
 * [Haoyi's Programming Blog](http://www.lihaoyi.com/)
   * [github.com/lihaoyi](https://github.com/lihaoyi)
   * [Strategic Scala Style: Principle of Least Power](http://www.lihaoyi.com/post/StrategicScalaStylePrincipleofLeastPower.html)
@@ -488,6 +490,7 @@ Scala
   * [Scala Snippets #1: Instantiable Implicits](https://medium.com/@manish.katoch/scala-snippets-1-instanitable-implicits-a37dadc5a8fc)
   * [Implicit conversions in Scala help with DRY](https://medium.com/@alonso.delarte/implicit-conversions-in-scala-help-with-dry-babf3c35bcf6)
   * [How to keep your sanity working with Scala Implicit!](https://medium.com/@lprakashv/how-to-keep-your-sanity-working-with-scala-implicit-fda9ffc33162)
+  * [scala implicit keyword 관련 파라미터](https://captainthomas.tistory.com/entry/scala-implicit-keyword-관련-파라미터)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -850,6 +853,7 @@ Scala
   * [Database migration using Slick made easy – „Scala-Forklift“](https://www.novatec-gmbh.de/en/blog/database-migration-slick-scala-forklift/)
   * [Scala as backend language. Tips, tricks and pain](https://medium.com/@valerii.tikhonov/scala-as-backend-language-tips-tricks-and-pain-dd7bb5da5552) slick의 단점을 지적한 글. 속 시원함
   * [MAKING ZIO, AKKA AND SLICK PLAY TOGETHER NICELY](https://scalac.io/making-zio-akka-slick-play-together-nicely-part-1-zio-and-slick/)
+  * [스칼라 Slick 오류 처리](https://captainthomas.tistory.com/entry/스칼라-Slick-오류-처리)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
 * [specs2 - software specification for scala](http://etorreborre.github.io/specs2/)
   * [Becoming reasonable](https://medium.com/@etorreborre_99063/becoming-reasonable-361d7f674ee0)
@@ -1129,6 +1133,8 @@ Scala
   * [State-based Testing (Hedgehog) - Charles O'Farrell (2019-09-23)](https://www.youtube.com/watch?v=YhAxC_VI2dc)
     * Property-based testing 툴을 통해서 입력 값을 랜덤으로 받아서 테스트 하던것을 넘어 상태 변화까지 랜덤으로 테스트 가능
 * Mockito [Mocking The Right Way - Introduction to Mockito](https://medium.com/@knoldus/mocking-the-right-way-e888ed39646f)
+* [MUnit - Scala testing library with actionable errors and extensible APIs](https://scalameta.org/munit/)
+  * [MUnit is a new Scala testing library](https://scalameta.org/munit/blog/2020/02/01/hello-world.html)
 * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
   * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
 * [ScalaTest](http://www.scalatest.org/)
