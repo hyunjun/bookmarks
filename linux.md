@@ -713,6 +713,7 @@ Linux
 * [tmux - The Desktop Environment for your Terminal - Lunduke Show](https://www.youtube.com/watch?v=5iXzqN8-34E)
 * [Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
 * [Tmux에서 페이지 스크롤 마우스로 사용하기](https://jojoldu.tistory.com/429)
+* [github.com/Zeta611/dotfiles](https://github.com/Zeta611/dotfiles) tmux 설정 참조
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
