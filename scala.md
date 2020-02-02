@@ -1221,7 +1221,6 @@ Scala
 * [Learn Scala from 0–60: The Basics](https://medium.freecodecamp.org/learning-scala-from-0-60-part-i-dc095d274b78)
 * [Basic Scala](https://medium.com/@oyamada.nami/basic-scala-fd716734e9aa)
 * [Scala A guide for getting started](https://medium.com/@tylerremmie/scala-is-a-concise-high-level-language-focused-on-combining-functional-and-object-oriented-c293f900f88)
-* [hello-scala.com](https://hello-scala.com/)
 * [Scala Programming: An Introduction](https://medium.com/@alessandroheres/scala-programming-an-introduction-33464b390d57)
 * [Scala for Data Science Engineering — Part 1](https://towardsdatascience.com/scala-for-data-science-engineering-part-1-6a0a5738d7b0)
 * [Scala for Data Science Engineering — Part 2](https://towardsdatascience.com/scala-for-data-science-engineering-part-2-17052d186ff3)
