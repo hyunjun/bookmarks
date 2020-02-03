@@ -966,6 +966,7 @@ Machine Learning
 * [Top 5 Machine Learning Courses for 2019](https://medium.com/@LearnDataSci/top-5-machine-learning-courses-for-2019-8a259572686e)
 * [**A practical approach to machine learning**](https://practicalai.me/)
 * [10 Free Top Notch Machine Learning Courses](https://www.kdnuggets.com/2019/12/10-free-top-notch-courses-machine-learning.html)
+* [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
 
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
