@@ -105,6 +105,7 @@ Functional Programming
 * [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
 * [Thinking in Functions, Part I: The Input/Output pattern](https://medium.com/@kettanaito/thinking-in-functions-part-i-the-input-output-pattern-d36e19e05e5f)
+* [Why do we use OOP over functional code We use less code](https://www.quora.com/Why-do-we-use-OOP-over-functional-code-We-use-less-code)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
