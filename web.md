@@ -334,6 +334,7 @@ Web
     * [Python Beautiful Soup](https://www.youtube.com/playlist?list=PLcFcktZ0wnNkOo9FQ2wrDcsV0jYqEYu1z)
   * [TOOBUK](https://github.com/ramoi/toobuk)
   * [Scraping URLs with BeautifulSoup](https://hackingandslacking.com/scraping-urls-with-beautifulsoup-e794a555bb0f)
+* [corona-tracker](https://github.com/iidx/corona-tracker) crawl + telegram bot
 * [Crawler](https://github.com/rudvlf0413/crawler)
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
