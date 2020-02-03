@@ -807,6 +807,7 @@
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
 * [Analyze MongoDB Logs Using PySpark](https://medium.com/hackernoon/analyze-mongodb-logs-using-pyspark-97a915547da0)
 * [Real-world Python workloads on Spark: EMR clusters](https://becominghuman.ai/real-world-python-workloads-on-spark-emr-clusters-3c6bda1a1350)
+* [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
