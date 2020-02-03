@@ -1356,6 +1356,7 @@ Deep Learning
   * [Full Stack Deep Learning Bootcamp 정리](https://zzsza.github.io/mlops/2019/10/06/fullstack-deeplearning-bootcamp/)
 * [STAT 157, Spring 19](https://courses.d2l.ai/berkeley-stat-157/syllabus.html)
 * [MIT Deep Learning](https://deeplearning.mit.edu/)
+* [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 * [**UCL x DeepMind Deep Learning Lecture Series - General**](https://www.eventbrite.co.uk/o/ucl-x-deepmind-deep-learning-lecture-series-general-29078980901)
 
 # Neural Network
