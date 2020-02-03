@@ -417,6 +417,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치의 Enrich Processor를 활용해서 여러 데이터 소스의 데이터를 통합하고 연동하기](https://olpaemi.blog.me/221727104894)
 
 # Library
+* [CRUD Operation in Elasticsearch using C# and NEST](https://social.technet.microsoft.com/wiki/contents/articles/35095.crud-operation-in-elasticsearch-using-c-and-nest.aspx)
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
   * [은전한닢 설치 완전정복](http://www.popit.kr/%EC%9D%80%EC%A0%84%ED%95%9C%EB%8B%A2-%EC%84%A4%EC%B9%98-%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5/)
   * [엘라스틱서치(elasticsearch)에 한글 형태소 분석기 은전한잎(eunjeon) 적용하기](http://blog.nacyot.com/articles/2015-06-13-eunjeon-with-elasticsearch/)
