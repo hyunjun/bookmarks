@@ -795,6 +795,7 @@ Javascript
 * [행성의 움직임을 구현해보자](https://evan-moon.github.io/2017/05/03/calculate-orbit-2/)
 * [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list/blob/master/README.md)
 * [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
+* [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.com/what-is-new-in-es-11)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -904,6 +905,7 @@ Javascript
 * [**GraphQL is not just a network protocol**](https://blog.cometkim.kr/posts/graphql-is-not-just-a-network-protocol/)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * [**Building an offline first web app with RxDB & Hasura**](https://blog.hasura.io/building-an-offline-first-web-app-with-rxdb-hasura/)
+* [Advice from a GraphQL Expert](https://www.netlify.com/blog/2020/01/21/advice-from-a-graphql-expert/)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1288,6 +1290,8 @@ Javascript
   * [웹팩 핸드북(e북) 안내](https://joshua1988.github.io/web-development/webpack/webpack-guide/)
   * [프론트엔드 개발환경의 이해: 웹팩(기본)](http://jeonghwan-kim.github.io/series/2019/12/10/frontend-dev-env-webpack-basic.html)
   * [프론트엔드 개발환경의 이해: 웹팩(심화)](http://jeonghwan-kim.github.io//series/2020/01/02/frontend-dev-env-webpack-intermediate.html)
+  * [Webpack](https://opentutorials.org/module/4566)
+  * [Webpack](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
