@@ -2907,6 +2907,7 @@ Python
   * [www.lfd.uci.edu/~gohlke/pythonlibs](http://www.lfd.uci.edu/~gohlke/pythonlibs)에 올려져있는 윈도우용 whl 파일을 pip 와 비슷하게 설치
 * [Poetry - Python dependency management and packaging made easy. https://poetry.eustace.io ](https://github.com/sdispater/poetry)
   * [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
+  * [GitHub Action과 Poetry를 사용한 파이썬 패키지 개발](https://seonghyeon.dev/python-package-development-with-poetry-and-action)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/pyenv-virtualenv-autoenv)
