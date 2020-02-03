@@ -25,7 +25,6 @@ AWS
 * [AWS Lambda — How to Automate Your Spark Jobs on AWS Elastic Map Reduce (EMR)](https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48)
 * [Slack Bot을 이용한 EMR 클러스터 제어 1편 - AWS + Slack API 연동](https://nephtyws.github.io/programming/slackbot_1)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
-* [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS?adbsc=social_blogs_20150724_49655746&adbid=z12sezfa5pznxxrge04cc5fwdzalettx1ro0k&adbpl=gp&adbpr=100017971115449920316)
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
 * [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
 * [Building an API with Amazon’s API Gateway](https://hackingandslacking.com/building-an-api-with-amazons-api-gateway-9204d9dec5c7)
@@ -671,6 +670,10 @@ AWS
   * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
   * [Serverless API with Zappa 여기 에 있는 강좌를 기반으로 Zappa 개발환경을 구성합니다](https://github.com/skyer9/ServerlessApiWithZappa)
   * [Deploy a Serverless Flask App using Zappa](https://www.youtube.com/watch?v=Vl5wroVmSuk)
+
+# R
+* [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
+* [R로 AWS Lambda에서 Rest API 만들기](https://www.notion.so/R-AWS-Lambda-Rest-API-33d4231753b148a487b4ad26a232d9a4)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
