@@ -704,6 +704,7 @@ App
   * [iTerm2, Zsh with Powerlevel9K — Power up your terminal‘s colour scheme and productivity level!](https://medium.com/the-code-review/make-your-terminal-more-colourful-and-productive-with-iterm2-and-zsh-11b91607b98c)
   * [How you can style your terminal like Medium, freeCodeCamp, or any way you want](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
   * [iTerm2에 Dracular 테마 적용하기](https://jojoldu.tistory.com/428)
+  * [**알아두면 도움되는 iTerm2 고급기능**](https://medium.com/harrythegreat/알아두면-도움되는-iterm2-고급기능-81a4cd81bab7)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
