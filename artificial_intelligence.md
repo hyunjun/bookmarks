@@ -123,6 +123,8 @@ Artificial Intelligence
   * [comma.ai for the people to experiment with](https://github.com/commaai/research)
   * [人工知能による車の自動運転（comma.ai）](https://www.youtube.com/watch?v=BJzgcSJm9SM)
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
+* [DoWhy - a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks https://microsoft.github.io/dowhy ](https://github.com/Microsoft/dowhy)
+  * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [NeoALT - 인공지능 학습용 라벨링 툴 AI를 위한 DATA Labeling 제작도구](http://www.neoconv.com/s25)
