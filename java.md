@@ -607,6 +607,7 @@ Java
   * [buildConfigField 로 Debug와 Release 가 다른 값을 가지는 방법](https://developer88.tistory.com/176)
   * [혼자서 연습해본 Gradle 4.1 튜토리얼 - 그야 말로 대충 번역!](https://www.sangkon.com/gradle-basic-tutorial/)
   * [Andres Almiray - Gradle Ex Machina](https://www.youtube.com/watch?v=M61BapxHWPg)
+  * [Gradle 프로젝트에 JaCoCo 설정하기](http://woowabros.github.io/experience/2020/02/02/jacoco-config-on-gradle-project.html)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
@@ -615,6 +616,7 @@ Java
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
   * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
 * [jabba - Java Version Manager inspired by nvm (Node.js). Written in Go](https://github.com/shyiko/jabba)
+* [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
 * [j2ssh-maverick를 이용한 SCP + 키이용 파일 복사](http://javacan.tistory.com/entry/tip-j2sshmaverick-SCP)
 * [j2ssh-maverick를 이용한 SFTP 다운로드](http://javacan.tistory.com/entry/tip-j2sshmaverick-sftp-download)
 * j2v8
