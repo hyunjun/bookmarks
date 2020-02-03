@@ -678,6 +678,7 @@ App
   * [**Homebrew 로 Mac 한 방에 셋업하기**](https://healingpaper.github.io/setting/2019/08/18/brew_cask_mas.html) BrewFile을 이용한 설치
   * [**Homebrew와 Shell Script를 사용하여 맥(Mac) 개발 환경 구축 자동화하기**](https://dev-yakuza.github.io/ko/environment/configure-development-environment-on-mac-with-homebrew-and-shell-script/)
   * [Brewfile을 이용해서 팀 개발 환경 만들기](https://medium.com/plustv/brewfile을-이용해서-팀-개발-환경-만들기-1516cb21f669)
+  * [홈브류(Homebrew)란?](https://www.44bits.io/ko/keyword/homebrew)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
@@ -760,6 +761,7 @@ App
 * [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [coggle.it](https://coggle.it/)
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
+* [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
 * [**draw.io**](https://www.draw.io/)
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
