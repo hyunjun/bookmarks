@@ -1719,6 +1719,7 @@ Programming
 
 # Safe, Secret
 * [blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
+  * [blackbox 설정](https://medium.com/@strncpy/blackbox-설정-80e1b8700e9d)
 * [Vault - Manage Secrets and Protect Sensitive Data](https://www.vaultproject.io)
   * [Docker + Consul + Vault: A Practical Guide](https://www.marcolancini.it/2017/blog-vault/)
   * [Vault - HashiCorp에 의해서 개발된 크로스플랫폼 패스워드 및 인증 관리 시스템. 공개되면 안되는 비밀번호, API 키, 토큰 등을 저장하고 관리](https://www.joinc.co.kr/w/man/12/vault)
