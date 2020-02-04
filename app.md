@@ -684,6 +684,8 @@ App
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * [iTerm2](https://iterm2.com/)
   * `cmd + enter` 전체화면
+  * split pane `cmd + d` (vertical) `cmd + shift + d` (horizontal)
+    * [iTerm2 - Split vertically with current profile with same working directory](https://apple.stackexchange.com/questions/337377/iterm2-split-vertically-with-current-profile-with-same-working-directory)
   * [Shell Integration](https://iterm2.com/shell_integration.html)
   * [iTerm2 v3의 Automatic Profile Switching](https://blog.outsider.ne.kr/1218?category=18)
   * [iTerm 개발환경 세팅](http://hjh5488.tistory.com/2)
