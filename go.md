@@ -240,6 +240,7 @@ Go
   * This post describes a large scale conversion of data into JSON format in order to load it into BigQuery. To meet the naming requirements of BigQuery, they had to remap field names on every JSON document. Their tool, which is written in Golang, uses a producer/consumer job queue to parallelize processing and partition the data before writing it out. They processed data both from Kafka and S3, and the post talks a bit about how they optimized interaction with S3.
 * [Clean Architecture with GO](https://medium.com/manato/clean-architecture-with-go-bce409427d31)
 * [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21/)
+* [쉽고 빠른 Go 시작하기](https://academy.nomadcoders.co/p/go-for-beginners)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
