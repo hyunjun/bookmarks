@@ -333,6 +333,7 @@ PyTorch
 * [PyTorch v1.2에서 생긴 Transformer API 를 이용한 간단한 Chitchat 챗봇](https://github.com/eagle705/PyTorch_Transformer_Chatbot)
 * [Benchmarking Transformers: PyTorch and TensorFlow](https://medium.com/huggingface/benchmarking-transformers-pytorch-and-tensorflow-e2917fb891c2)
 * [HanBert-Transformers](https://github.com/monologg/HanBert-Transformers)
+* [Part 1: Components of the transformer model](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb) ipynb
 
 # Translation
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
