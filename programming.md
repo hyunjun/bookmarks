@@ -1219,6 +1219,7 @@ Programming
   * [HiveMQ Goes Open Source, Brings MQTT and Kafka Together](https://www.infoq.com/news/2019/04/hivemq-extension-kafka-mqtt)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
+  * [github.com/rabbitmq](https://github.com/rabbitmq)
   * [What is RabbitMQ?](https://www.youtube.com/watch?v=QQXSEXkZalU)
   * [What is RabbitMQ?](https://www.youtube.com/watch?v=AskUF2mebi4)
   * [RabbitMQ in 5 Minutes](https://www.youtube.com/watch?v=deG25y_r6OY)
