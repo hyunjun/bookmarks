@@ -732,3 +732,4 @@ AWS
 * [만들면서 배우는 AWS VPC 입문 아마존 웹 서비스 네트워크의 기초](https://www.44bits.io/ko/post/understanding_aws_vpc)
 * [Subnet(VPC) Resource Share](https://zigispace.net/1033)
 * [VPC Traffic Mirroring](https://zigispace.net/1040)
+* [AWS - API Gateway 기반 VPC Link](https://zigispace.net/1072)
