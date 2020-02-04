@@ -891,6 +891,7 @@ Javascript
 * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 * [Refetch Strategies for Apollo’s GraphQL client](https://hackernoon.com/refetch-strategies-for-apollos-graphql-client-248a449734cd)
 * [Apollo Client는 Redux와 무엇이 다른가](https://d2.naver.com/helloworld/4245995)
+* [아폴로를 이용한 그래프 큐엘 서버 구현](https://medium.com/graphql-seoul/번역-아폴로를-이용한-그래프-큐엘-서버-구현-70f5ae6d1ee6)
 * [**Moving Existing API From REST To GraphQL**](https://www.youtube.com/watch?v=broQmxQAMjM)
 * [From REST To GraphQL](https://www.youtube.com/watch?v=ntBU5UXGbM8)
 * [REST vs. GraphQL: Critical Look](https://www.youtube.com/watch?v=yLf0rIaRtRc)
