@@ -11,8 +11,6 @@ Java
 * [Extracting (meaningful) text from webpages - II](http://www.vikasing.com/2013/06/extracting-meaningful-text-from.html)
 * [A note on Matrix Multiplication in Java](http://www.vikasing.com/2013/02/a-note-on-matrix-multiplication-in-java.html)
 * [A Simple URL Shortening Algorithm in JAVA](http://www.vikasing.com/2010/11/simple-url-shortening-algorithm-in-java.html)
-* String
-  * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
 * [Polymorphism: Why use "List list = new ArrayList" instead of "ArrayList list = new ArrayList"](http://stackoverflow.com/questions/9852831/polymorphism-why-use-list-list-new-arraylist-instead-of-arraylist-list-n)
 * [10 Tricky Core Java Interview Coding Questions](http://javaconceptoftheday.com/tricky-core-java-interview-coding-questions/)
 * [133 Core Java Interview Questions Answers From Last 5 Years - The MEGA List](http://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)
@@ -20,10 +18,6 @@ Java
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
 * [Game of Life, hash tables and hash codes](http://pzemtsov.github.io/2015/04/24/game-of-life-hash-tables-and-hash-codes.html)
-* regular expression
-  * ip address
-    * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
-    * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Java! Real or Not?](http://java.metagno.me/)
 * [Intersection of two Sets optimized way in Java](http://docs.likejazz.com/intersection-of-two-sets/)
@@ -191,7 +185,9 @@ Java
 * static
   * [Static Keyword 와 Method Area (메소드 영역)](http://ict-nroo.tistory.com/m/19)
 * String
+  * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
   * [How SubString Works Internally in Java](http://www.codenuclear.com/how-substring-works-internally-java/)
+  * [Is a string an array of chars in java?](https://www.quora.com/Is-a-string-an-array-of-chars-in-java)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
@@ -205,6 +201,11 @@ Java
 * time
   * [Converting from Joda-Time to java.time](http://blog.joda.org/2014/11/converting-from-joda-time-to-javatime.html)
   * [Java8TimeTest.java](https://gist.github.com/ikhoon/7c023bbc65078e06598c769978b76b2b)
+* util
+  * regex regular expression
+    * ip address
+      * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
+      * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
 
 # Asynchronous
 * [**Comparison of Asynchronous Data Loading in Java**](http://ejf.io/dev_blog/async_java_compare/) Futures, Callbacks and Wrapper classes, Observers, RxJava
@@ -514,6 +515,10 @@ Java
 ## JVM Profile
 * [자바 애플리케이션 성능 튜닝의 도(道)](https://d2.naver.com/helloworld/184615)
 * [YourKit Java 프로필러(YourKit Java Profiler) 소개](http://freealt.selfhow.com/yourkit-java-profiler/)
+  * [Reachability scopes](https://www.yourkit.com/docs/java/help/reachability.jsp)
+  * [Class list](yourkit.com/docs/java/help/claclass_list.jsp)
+  * [Deadlock detector](https://www.yourkit.com/docs/java/help/deadlocks.jsp)
+  * [Connect to profiled application](https://www.yourkit.com/docs/java/help/connect.jsp)
 * [How to profile JVM applications](https://www.lightbend.com/blog/profiling-jvm-applications)
 * [자바 성능 튜닝 이야기](https://garden715.github.io/Java_Tuning3/)
 * [자바개발 및 운영툴](https://javaengine.tistory.com/entry/자바개발-및-운영툴)
