@@ -404,6 +404,7 @@ R
 
 # Lecture, MOOC
 * [데이터홀릭](https://www.youtube.com/playlist?list=PLOvmIXlrvHO18HuniAOdzlvMQxHumeAoE)
+* [R 통계 기초 R로 하는 기초 통계 분석법](https://mindscale.kr/course/basic-stat-r)
 
 # Library
 * [R에서 Package란?](https://lovetoken.github.io/r/2018/04/07/Rpackage.html)
