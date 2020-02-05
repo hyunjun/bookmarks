@@ -249,6 +249,8 @@ Linux
 * `diff`
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
 * `dirname` get directory name from path
+* dmesg
+  * [7 ‘dmesg’ Commands for Troubleshooting and Collecting Information of Linux Systems](https://www.tecmint.com/dmesg-commands/)
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * du
   * [du 명령어](https://johngrib.github.io/wiki/du/) `du -hs <directory>` `du -ckx | sort -n -r | head` 가장 용량이 큰 디렉토리 찾기
@@ -436,6 +438,7 @@ Linux
   * [uptime 명령어](https://johngrib.github.io/wiki/uptime/)
 * `watch`
   * [The watch Command](http://www.linfo.org/watch.html)
+  * [watch 명령을 이용한 linux 시스템 모니터링](https://www.sharedit.co.kr/posts/2000)
 * `wc`
   * `wc -c <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
 * `xargs`
