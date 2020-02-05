@@ -365,6 +365,7 @@ SQL
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 활용편 –**](https://gywn.net/2020/01/mysql-innodb-as-cache-server-monitoring-advanced/)
 * [Do Not Pass This Way Again](https://grimoire.ca/mysql/choose-something-else)
 * [How to create a user in MySQL/MariaDB and grant permissions on a specific database](http://www.daniloaz.com/en/how-to-create-a-user-in-mysql-mariadb-and-grant-permissions-on-a-specific-database/)
+* [Zero Downtime Schema Migrations](https://medium.com/invoca-engineering-blog/zero-downtime-schema-migrations-29f81f9ea6db)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
