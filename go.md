@@ -229,10 +229,6 @@ Go
 * [PHuiP-FPizdaM - an exploit for a bug in php-fpm (CVE-2019-11043)](https://github.com/neex/phuip-fpizdam)
 * [Release: Go analyzer lands in beta](https://deepsource.io/blog/go-beta-release/)
 * [From Java to Golang, the journey of the nexuzhealth team by Dylan Meeus](https://www.youtube.com/watch?v=4dSw3tkclQ4)
-* [Part 1 - Using Go Modules](https://blog.golang.org/using-go-modules)
-* [Part 2 - Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
-* [Part 3 - Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
-* [Part 4 - Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
 * [**Let's Create a Simple Load Balancer With Go**](https://kasvith.github.io/posts/lets-create-a-simple-lb-go/)
 * [Build a Go package that annotates errors with stack traces. (18 November 2019)](https://www.komu.engineer/blogs/golang-stacktrace/golang-stacktrace)
 * [The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
@@ -265,6 +261,12 @@ Go
   * [Go encoding/json 패키지](http://blog.jeonghwan.net/dev/2019/01/18/go-encoding-json.html)
 * fmt
   * [Go fmt 패키지](http://blog.jeonghwan.net/dev/2019/01/08/go-fmt.html)
+* module
+  * [Part 1 - Using Go Modules](https://blog.golang.org/using-go-modules)
+  * [Part 2 - Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
+  * [Part 3 - Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
+  * [Part 4 - Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
+  * [고 모듈을 사용하여 패키지 구성 방법 개선하기](https://www.popit.kr/고-모듈을-사용하여-패키지-구성-방법-개선하기/)
 * net/http
   * [An Overview of Server-Side HTTP APIs in Go](https://medium.com/better-programming/overview-of-server-side-http-apis-in-go-44f052737e4b)
 * [regexp](https://golang.org/pkg/regexp/)
