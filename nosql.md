@@ -258,6 +258,7 @@ NoSQL
 * [A K/V Store For In-Memory Analytics, Part 2](http://0xdata.com/blog/2014/05/kv-store-memory-analytics-part-2-2/)
 * [How To Choose An In-Memory NoSQL Solution: Performance Measuring](http://highscalability.com/blog/2015/12/30/how-to-choose-an-in-memory-nosql-solution-performance-measur.html) comparison of redis, tarantool, couchbase, and memcached
 * [인-메모리 데이터 기술을 활용한 실시간 빅데이터 분석](https://www.youtube.com/watch?v=PuA6qplF0Gk)
+* [Paper: An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](http://blog.lastmind.io/archives/910)
 
 # [Irmin - a distributed database that follows the same design principles as Git](https://github.com/mirage/irmin)
 * [Introducing Irmin: Git-like distributed, branchable storage](https://mirage.io/blog/introducing-irmin)
