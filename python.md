@@ -2847,6 +2847,7 @@ Python
 * [**10 Python image manipulation tools**](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Ravi Chityala, "Image processing using Python", PyBay2016](https://www.youtube.com/watch?v=5Z0KopTeizk)
+* [Create ASCII Art Text Banners in Python](https://www.devdungeon.com/content/create-ascii-art-text-banners-python)
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [img2txt - Image to Ascii Text, can output to html or ansi terminal](https://github.com/hit9/img2txt)
