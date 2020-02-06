@@ -366,6 +366,7 @@ SQL
 * [Do Not Pass This Way Again](https://grimoire.ca/mysql/choose-something-else)
 * [How to create a user in MySQL/MariaDB and grant permissions on a specific database](http://www.daniloaz.com/en/how-to-create-a-user-in-mysql-mariadb-and-grant-permissions-on-a-specific-database/)
 * [Zero Downtime Schema Migrations](https://medium.com/invoca-engineering-blog/zero-downtime-schema-migrations-29f81f9ea6db)
+* [Replica 에 Write 가 된다고? MySQL Writable Replica 로 데이터 분석용 DB 만들기](https://blog.gangnamunni.com/2020/02/05/mysql_writable_replica_on_aws.html)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
