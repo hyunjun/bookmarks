@@ -622,6 +622,7 @@ Java
   * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
 * [jabba - Java Version Manager inspired by nvm (Node.js). Written in Go](https://github.com/shyiko/jabba)
 * [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
+* [jamm - Java Agent for Memory Measurements](https://github.com/hyunjun/jamm)
 * [j2ssh-maverick를 이용한 SCP + 키이용 파일 복사](http://javacan.tistory.com/entry/tip-j2sshmaverick-SCP)
 * [j2ssh-maverick를 이용한 SFTP 다운로드](http://javacan.tistory.com/entry/tip-j2sshmaverick-sftp-download)
 * j2v8
