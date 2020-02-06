@@ -207,6 +207,8 @@ Scala
 * [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, EitherT
 * [Benchmarking Functional Error Handling in Scala](https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/) EitherT
 * [Error handling in Scala](https://medium.com/@pierre_jambet/error-handling-in-scala-1197a742d6a5)
+* JVM configuration for Scala `-J`
+  * `-J-Xmx32M -J-Xms32M -J-XX:+PrintGCDetails -J-XX:+PrintGCDateStamps -J-verbose:gc -J-Xloggc:. -J-XX:+HeapDumpOnOutOfMemoryError -J-XX:HeapDumpPath=.` [Scala JVM option](https://medium.com/@strncpy/scala-jvm-option-d33e5c02ad0a)
 * JVM configuration for Scala Functional Programming
   * [`-XX:MaxInlineLevel=18 -XX:MaxInlineSize=270 -XX:MaxTrivialSize=12`](https://twitter.com/leifwickland/status/1179419045055086595)
   * [`-XX:MaxInlineLevel=18`](https://github.com/scala/bug/issues/11627#issuecomment-514490505)
