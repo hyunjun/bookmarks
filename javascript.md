@@ -1390,6 +1390,8 @@ Javascript
   * [Introducing npx: an npm package runner](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b)
   * [프론트엔드 개발환경의 이해: NPM](http://jeonghwan-kim.github.io//series/2019/12/09/frontend-dev-env-npm.html)
   * [NPM 배포하기 - Vue.js ESLint 패키지](https://joshua1988.github.io/web-development/npm/vuejs/publish/)
+  * [NPM in the console](https://github.com/egoing/NPM-in-the-console)
+    * [NPM in the console - Console에서 NPM을](https://www.youtube.com/watch?v=2m4iTjdgbMU)
   * [pnpm, 플랫하지 않은 패키지 매니저](https://imch.dev/posts/pnpm-a-manager-what-is-not-flat)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
