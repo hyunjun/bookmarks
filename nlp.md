@@ -805,6 +805,7 @@ NLP
   * [카카오 형태소 분석기(khaiii) 설치와 은전한닢(mecab) 형태소 분석기 비교](https://lsjsj92.tistory.com/408)
   * [카카오 형태소 분석기(khaiii) 분석 시간 및 딥러닝 모델 성능 비교](https://lsjsj92.tistory.com/410)
   * [한국어 형태소 분석기 성능 비교](https://iostream.tistory.com/144)
+  * [임재수 khaiii(카카오 형태소 분석기)](https://www.youtube.com/watch?v=NV5rjDRCebk)
 * [Kiwi - 지능형 한국어 형태소 분석기(Korean Intelligent Word Identifier)](https://github.com/bab2min/Kiwi)
   * [좋아, 형태소 분석기를 만들어봅시다. - 0](http://bab2min.tistory.com/560)
   * [좋아, 형태소 분석기를 만들어봅시다. - 1](http://bab2min.tistory.com/561)
