@@ -161,6 +161,11 @@ Java
 * JDBC
   * [자바가 디비와 사귀기까지 벌어지는 일들](https://www.slideshare.net/hangum/ss-80803201)
   * [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://woowabros.github.io/tools/2018/08/16/jdbc-log-sql-projectinfo.html)
+  * [HikariCP - 光 HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
+    * [HikariCP 세팅시 옵션 설명](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
+    * [HikariCP는 test-while-idle과 같은 커넥션 갱신 기능이 없을까?](https://pkgonan.github.io/2018/04/HikariCP-test-while-idle)
+    * [HikariCP Dead lock에서 벗어나기 (이론편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock.html)
+    * [HikariCP Dead lock에서 벗어나기 (실전편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock-2.html)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
 * net
