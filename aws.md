@@ -246,6 +246,7 @@ AWS
 * [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식 - 윤석찬 (AWS 테크 에반젤리스트)](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)
 * [GitHub 연동을 위한 방화벽](https://andromedarabbit.net/github-%EC%97%B0%EB%8F%99%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%A9%ED%99%94%EB%B2%BD/)
 * [AWS Security Group 중첩 이슈 및 정리 팁](http://ohgyun.com/779)
+* [AWS 멀티 계정 환경에서 취약한 Security Group 설정 모니터링](http://woowabros.github.io/security/2020/02/07/Security-Group-Monitoring.html)
 * [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
 * [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
