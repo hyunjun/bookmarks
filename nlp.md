@@ -371,6 +371,7 @@ NLP
 * [exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformers Models](http://exbert.net/)
 * [More on Transformers: BERT와 친구들](https://docs.google.com/presentation/d/1OeDO-d4hxQ7OuhbpxJjsMGVfLWakSGIqnhu_IvQbxqQ)
 * [GLUE: 벤치마크를 통해 BERT 이해하기](https://huffon.github.io/2019/11/16/glue/)
+* [2020.02.06 우리는 왜 glue를 버렸나?](https://www.slideshare.net/Thomas_Hyun_Park/20200206-glue)
 * [KoreanCharacterBert - Korean BERT model using character tokenizer](https://github.com/MrBananaHuman/KoreanCharacterBert)
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
 * [RoBERTa Review](https://baekyeongmin.github.io/paper-review/roberta-review/)
