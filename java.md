@@ -354,6 +354,8 @@ Java
   # alternatives --set javac /usr/java/jdk1.8.0_nm-cloudera/bin/javac
   ```
   * `/lib/ld-linux.so.2: bad ELF interpreter: No such file or directory` `yum install ld-linux.so.2`
+  * [centos에서 java version관리 (alternatives 사용)](https://blog.seotory.com/post/2016/08/java-setting-at-centos)
+  * [java version 변경(update-alternatives)](https://firstboos.tistory.com/entry/java-version-변경updatealternatives)
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
 * [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams)
