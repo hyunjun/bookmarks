@@ -287,6 +287,7 @@ Algorithm
 * [Dynamic Programming and Bit Masking](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking)
 * [An intro to Algorithms (Part II): Dynamic Programming](https://medium.freecodecamp.org/an-intro-to-algorithms-dynamic-programming-dd00873362bb)
 * [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
+* [부분 문제 그리고 메모이제이션 : 다이나믹 프로그래밍 할 때 많이 나오는 데 무엇일까요?](https://codingdog.tistory.com/entry/부분-문제-그리고-메모이제이션-다이나믹-프로그래밍-할-때-많이-나오는-데-무엇일까요)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
