@@ -1847,6 +1847,8 @@ Programming
 * [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
 * [블랙박스 테스트 기법으로 테스트 케이스 설계하기](https://huns.me/posts/2020-01-09-35)
 * [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
+* [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
+* [Model Controller Testsuite (MCT)을 이용한 테스트 자동화 구축](https://engineering.linecorp.com/ko/blog/applying-model-controller-testsuite-to-test-automation/)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [katalon.com](https://www.katalon.com)
