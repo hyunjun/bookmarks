@@ -373,6 +373,7 @@ Business
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
 * [아마존의 제품 개발 방법 Working Backwards](http://curioe.com/5)
+* [좋은 매니저는 누구인가](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6281688150)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
