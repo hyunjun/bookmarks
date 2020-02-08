@@ -61,6 +61,7 @@ Elixir
 * [#naming 함수 이름이 eventually라니 한 수 배웠다](http://ohyecloudy.com/pnotes/archives/naming-eventually-function/)
 * [#testing 셋업 코드와 테스트 코드 분리를 도와주는 태그](http://ohyecloudy.com/pnotes/archives/elixir-how-to-use-tags-in-test-code/)
 * [supervisor가 죽은 프로세스를 재시작하는 전략을 설명하는 예제](http://ohyecloudy.com/pnotes/archives/elixir-good-example-code-for-supervisor/)
+* [Task.await와 Task.yield](http://ohyecloudy.com/pnotes/archives/elixir-task-await-task-yield/)
 * [외래 키는 스키마에 정의하고 ecto 연관 함수로 외래 키를 직접 쓰지 말자](http://ohyecloudy.com/pnotes/archives/elixir-ecto-associations/)
 
 # Book
