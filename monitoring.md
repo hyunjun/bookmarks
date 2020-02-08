@@ -83,3 +83,4 @@ Monitoring
 * [오픈소스 모니터링 툴 - Prometheus #1 기본 개념과 구조](https://bcho.tistory.com/1372)
 * [오픈소스 모니터링 툴 - Prometheus #2 Hello Prometheus](https://bcho.tistory.com/1373)
 * [오픈소스 모니터링 툴 - Prometheus #3 그라파나를 이용한 시각화](https://bcho.tistory.com/1374)
+* [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
