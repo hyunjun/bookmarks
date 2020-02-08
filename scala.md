@@ -241,6 +241,7 @@ Scala
 * [KCD2019 순수 함수형 스칼라로 웹 애플리케이션 만들기(박지수/라스칼라코딩단)](https://www.youtube.com/watch?v=EVue9e_WwoM)
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://slides.com/guersam/pure-scala-webapp#/)
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://github.com/guersam/kcd2019)
+* [Identify Side Effects And Refactor Fearlessly](http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fearlessly/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -585,6 +586,8 @@ Scala
     * [ZIO environment meets constructor-based dependency injection](https://blog.softwaremill.com/zio-environment-meets-constructor-based-dependency-injection-6a13de6e000)
     * [5 pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-pitfalls-to-avoid-when-starting-to-work-with-zio-adefdc7d2d5c)
     * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
+    * [Happy eyeballs algorithm using ZIO](https://blog.softwaremill.com/happy-eyeballs-algorithm-using-zio-120997ba5152)
+    * [5 (more) pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-more-pitfalls-to-avoid-when-starting-to-work-with-zio-d0cdd44fa439)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
@@ -710,6 +713,7 @@ Scala
   * [Happy Life With #Scala #Bloop CLI](https://www.youtube.com/watch?v=QtH8yW7dmBs)
 * [caliban - Functional GraphQL backend in Scala https://ghostdogpr.github.io/caliban ](https://github.com/ghostdogpr/caliban)
   * [GraphQL in Scala with Caliban — Part 1: Turn a simple API into GraphQL](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-1-8ceb6099c3c2)
+  * [GraphQL in Scala with Caliban — Part 2: Query optimization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-2-c7762110c0f9)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
@@ -738,6 +742,8 @@ Scala
   * [Guide to Data Validation with Scala and Cats](https://medium.com/wix-engineering/guide-to-data-validation-with-scala-and-cats-5d49d00d9e43)
   * [Towards more functional Play — Part 1](https://blog.softwaremill.com/towards-more-functional-play-part-1-a97bc4d92c76)
   * [Towards more functional Play — Part 2](https://blog.softwaremill.com/towards-more-functional-play-part-2-ac20d02bb2f5)
+  * [Hack: How to Use Scala Futures with Cats IO](https://medium.com/@TamasPolgar/hack-how-to-use-scala-futures-with-cats-io-9278c7febc37)
+  * [TRACING WITH CATS-TAGLESS AND ZIO](http://vectos.net/posts/2020-02-04-tracing.html)
   * [Real World Cats](https://github.com/ikhoon/real-world-cats)
     * [Real World Cats](https://drive.google.com/file/d/1OFoSSkXpVWb556paI6OKCQgMCGMguvO8/view)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
@@ -766,6 +772,7 @@ Scala
   * [A streaming library with a superpower: FS2 and functional programming](https://medium.freecodecamp.org/a-streaming-library-with-a-superpower-fs2-and-functional-programming-6f602079f70a)
   * [Where is the llama for FS2?](https://blog.softwaremill.com/where-is-the-llama-for-fs2-34a76f0c1e7e)
   * [Scala application lifecycle, from pure Scala to FS2](https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603)
+  * [Basic streams and combinators in fs2 - Scala tutorial](https://www.youtube.com/watch?v=TmhIabcu6Fs)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * IxiaS [開発者はCTO衣笠。プロダクト共通のScalaのコア技術「IxiaS」をOSS化！](https://medium.com/nextbeat-engineering/%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AFcto%E8%A1%A3%E7%AC%A0-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E5%85%B1%E9%80%9A%E3%81%AEscala%E3%81%AE%E3%82%B3%E3%82%A2%E6%8A%80%E8%A1%93-ixias-%E3%82%92oss%E5%8C%96-3eb5c4ed66bf)
@@ -844,6 +851,7 @@ Scala
   * [Learning Materials for generic & dependent programming using shapeless](https://gist.github.com/ikhoon/4e7feb6daf2d47a0261131421ed8c999)
   * [The Type Astronaut's Guide to Shapeless—Dave Gurnell](https://www.youtube.com/watch?v=Zt6LjUnOcFQ)
   * [The Shape(less) of Type Class Derivation in Scala 3](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/20/)
+  * [How (not) to use shapeless for cross-layer conversions in Scala](https://blog.softwaremill.com/how-not-to-use-shapeless-for-cross-layer-conversions-in-scala-9ac36363aed9)
 * [Skinny-ORM](http://skinny-framework.org/)
 * [slick - Functional Relational Mapping for Scala](http://slick.lightbend.com/)
   * [Essential Slick](https://books.underscore.io/essential-slick/essential-slick-3.html)
@@ -943,6 +951,7 @@ Scala
   * [State of Monocle](https://fp-tower.github.io/2019-12-30-state-of-monocle/)
   * [Monocle 3.x](https://fp-tower.github.io/2020-01-06-monocle-3/)
   * [Data Juggling - Part 2 - Homegrown #Lenses (#Monocle - Part 1)](https://www.youtube.com/watch?v=rFixov5KOps)
+  * [Data Juggling - Part 3 - Optics Explained (#Monocle - Part 2)](https://www.youtube.com/watch?v=18ss7LpAKWE)
 
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
@@ -1025,6 +1034,7 @@ Scala
 * [Monoid in the Category of Endofunctors](https://blog.softwaremill.com/monoid-in-the-category-of-endofunctors-b85bab43587b)
 * [What are monoids and how to use them - Scala tutorial](https://www.youtube.com/watch?v=ppzvmI6azaw)
 * [Homegrown #Scala Collections - Part 35.1 - Monoids and Basic Group Theory](https://www.youtube.com/watch?v=bT9qRjRuwCc)
+* [So you want to compose some functions](https://www.innoq.com/en/blog/function-monoids/)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
   * [Lightning-Fast Standard Collections With ScalaBlitz](https://scala-blitz.github.io/talks/scaladays2014-final.pdf)
 
@@ -1082,6 +1092,7 @@ Scala
 * [Learn myself some Scala 3, episode 4: strict equality](https://heikoseeberger.rocks/2020/01/07/2020-01-07-dotty-4/)
 * [TMWL Dec’19 — Scala 3 overview, Scala hacks and DevOps hints](https://blog.softwaremill.com/tmwl-dec-19-scala-3-overview-scala-hacks-and-devops-hints-828ab2423f17)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
+  * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
   * [Are you sure your AnyVals don’t instantiate?](https://blog.softwaremill.com/are-you-sure-your-anyvals-dont-instantiate-5822c04875d3)
   * [(Mostly) Dropping Weak Conformance](https://medium.com/@jducoeur/mostly-dropping-weak-conformance-cde049d58364)
@@ -1198,6 +1209,7 @@ Scala
 * [Illustrated guide to Types, Sets and Values](https://medium.com/@1jpablo1/illustrated-guide-to-types-sets-and-values-8093d0b7d648)
 * [Understanding `F[_]` in Scala](https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f)
 * [Exploring Type Annotations in Scala](https://www.geekabyte.io/2017/12/exploration-of-type-annotations-in-scala.html)
+* [Part 1: Application of literal and dependent object types in Scala 2.13](https://medium.com/@yevgennerush/part-1-application-of-literal-and-dependent-object-types-in-scala-2-13-62dbe4493dce)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
@@ -1262,3 +1274,7 @@ Scala
 * [simulacrum - First class syntax support for type classes in Scala](https://github.com/typelevel/simulacrum)
 * [자바 개발자를 위한 Scala](https://medium.com/@kimkare/자바-개발자를-위한-scala-f4485e5265ba)
 * [My answers for Functional Programming Challenges on HackerRank](https://github.com/seoh/hackerrank-fp)
+* [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
+* [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
+* [Checklist for learning Scala](https://medium.com/@horiaconstantin/checklist-for-learning-scala-66bfe6d1ac2b)
+* [Scala for Python developers](https://medium.com/@antoine.doeraene/scala-for-python-developers-93f3755f60d1)
