@@ -2624,6 +2624,7 @@ Javascript
 * [타입스크립트와 순환 의존성](https://libsora.so/posts/typescript-and-circular-dependency/)
 * [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 * [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/카카오페이지-글로벌-웹-개발-후기-d15402becaef)
+* [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/안심번호-마이크로서비스-개발하기-fb1a8817b059)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
