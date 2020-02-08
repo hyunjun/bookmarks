@@ -918,6 +918,7 @@ Docker
   * Is it executable?
 * [Docker for Mac에서 No space left on device 오류](https://blog.outsider.ne.kr/1295)
   * [Docker for mac eating disk space](https://www.chrissearle.org/2016/09/11/docker-for-mac-eating-disk-space/) 그냥 해당 directory 삭제 후 재시작
+  * [How to free extra disk space used by Docker](https://www.youtube.com/watch?v=irRW2a6bLiw)
 * [Docker cache and apt-get update](http://lenguyenthedat.com/docker-cache/)
   * `docker build ...`가 `returned a non-zero code: 100`로 끝날 때의 해결책
   * Redhat 7.2, docker 1.10.3에서는 해결되지 않음
