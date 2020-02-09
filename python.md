@@ -2498,6 +2498,7 @@ Python
     * 예제의 주요 기능은 Apache MADlib (incubating)
     * Luigi 태스크의 PL/pgSQL을 통해 실행
   * [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)
+  * [Create your first ETL in Luigi](https://towardsdatascience.com/create-your-first-etl-in-luigi-23202d105174)
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
