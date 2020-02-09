@@ -516,6 +516,7 @@ AWS
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # Lambda
+* [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
 * [AWS Lambda](https://www.youtube.com/playlist?list=PLBtyBPTlyC7tR5LVPEjphl6fPOOOVe6XM)
 * [Create a REST API Endpoint Using AWS Lambda](https://hackingandslacking.com/create-a-rest-api-endpoint-using-aws-lambda-765e1f6eebd6)
