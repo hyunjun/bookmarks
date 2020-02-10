@@ -336,6 +336,8 @@ Java
 * [Intellij output 한글 깨지는 문제](https://freehoon.tistory.com/146)
 * [웹 JS 애플리케이션 개발시 IntelliJ 디버거 사용하기](https://jojoldu.tistory.com/468)
 * [인텔리제이에 파이썬 인터프리터 설정하기](https://jojoldu.tistory.com/465)
+* [IntelliJ 에서 JAR 만들기](https://www.hyoyoung.net/100)
+* [IntelliJ프로젝트에 JAR 라이브러리 추가하기](https://bkjeon1614.tistory.com/59)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -516,7 +518,9 @@ Java
 * [**G1: Garbage first garbage collector**](https://b.luavis.kr/server/g1-gc)
 * [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
-* [Understanding Java Garbage Collection Logging: What Are GC Logs and How To Analyze Them](https://sematext.com/blog/java-garbage-collection-logs/)
+* [**A Quick Start on Java Garbage Collection: What it is, and How it works**](https://sematext.com/blog/java-garbage-collection/)
+* [**Understanding Java Garbage Collection Logging: What Are GC Logs and How To Analyze Them**](https://sematext.com/blog/java-garbage-collection-logs/)
+* [**A Step-by-Step Guide to Java Garbage Collection Tuning**](https://sematext.com/blog/java-garbage-collection-tuning/)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Profile
@@ -685,7 +689,10 @@ Java
   * [Spring Batch 공통 설정 관리하기 (feat. 젠킨스 Environment variables)](https://jojoldu.tistory.com/445)
   * [젠킨스 빌드 파일 캐시 문제](https://jojoldu.tistory.com/446)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
+  * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
+  * [Multiple JDK versions on Mac OS X with jEnv](https://medium.com/@danielnenkov/multiple-jdk-versions-on-mac-os-x-with-jenv-5ea5522ddc9b)
+  * [jenv add does not work on macos catalina when java installed with brew cask](https://github.com/jenv/jenv/issues/272)
 * [jfugue - Music Programming for Java™ and JVM Languages](http://www.jfugue.org/)
 * jmeter
   * [Jmeter 강좌 - 1 일반적으로 성능테스트 툴에서 TPS 제어 방법](http://www.sten.or.kr/bbs/board.php?bo_table=test_story&wr_id=9092&page=&sca=&sfl=&stx=&sst=&sod=&spt=&page=)
@@ -697,7 +704,7 @@ Java
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * KoreanTextMatcher [한글 초성 검색과 KoreanTextMatcher 3.0](https://bangjunyoung.github.io/2019/08/23/한글-초성-검색과-KoreanTextMatcher-3-0/)
 * [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
-* log4j
+* [log4j 2](http://logging.apache.org/log4j/2.x/)
   * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자 롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
