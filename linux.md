@@ -138,6 +138,7 @@ Linux
 * `sync && echo [1|2|3] > /proc/sys/vm/drop_caches` & `[swapoff|swapon] -a`
   * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) 
   * [How do you empty the buffers and cache on a Linux system?](http://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system)
+  * [리눅스 서버의 메모리 간단 관리 방법(사용량 확인/캐시삭제/정기관리)](https://osasf.net/discussion/587/리눅스-서버의-메모리-간단-관리-방법-사용량-확인-캐시삭제-정기관리)
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
@@ -627,6 +628,7 @@ Linux
   * [Switching from zsh to fish](http://jbrodriguez.io/switching-from-zsh-to-fish/)
   * [fundle - A minimalist package manager for fish inspired by Vundle](https://github.com/tuvistavie/fundle)
 * [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
+  * [How to see full log from systemctl status service?](https://unix.stackexchange.com/questions/225401/how-to-see-full-log-from-systemctl-status-service/225407) system service를 시작할 수 없는 경우
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [nixar - New shell commandsJoyable equivalents for existent linux commands](http://nixar.work)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
