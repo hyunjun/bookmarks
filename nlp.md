@@ -1126,6 +1126,7 @@ NLP
 * [Bilinear attention networks for visual question answering](https://github.com/jnhwkim/ban-vqa)
 * [Presenting Multitask Learning as Question Answering: The Natural Language Decathlon](https://www.techleer.com/articles/527-presenting-multitask-learning-as-question-answering-the-natural-language-decathlon/)
 * [ATOMIC An Atlas of Machine Commonsense for If-Then Reasoning](https://homes.cs.washington.edu/~msap/atomic/)
+* [Run your own Q&A Platforms like Stackoverflow or Quora with Open Source Projects for free!](https://www.youtube.com/watch?v=9VOA0PgeemI)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
