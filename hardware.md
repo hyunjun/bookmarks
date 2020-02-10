@@ -39,6 +39,7 @@
 * [Sixty/5o2 is a minimal bootloader / micro kernel / mini operating system (if you like) for Ben Eaters 6502 Computer on a breadboard](https://github.com/janroesner/sixty5o2)
 * [27인치 디지털 액자 만들기(DIY) -제작편-](https://papit.blog.me/221751081863)
 * [27인치 디지털 액자 만들기(DIY) -활용편-](https://papit.blog.me/221769974274)
+* [파이썬 + 레고 마인드 스톰 EV3로 초간단 스캐너를 제작](https://www.youtube.com/watch?v=jmu-UbjuS8k)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
