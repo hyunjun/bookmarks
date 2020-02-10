@@ -452,6 +452,7 @@ R
   * [USEFUL DPLYR FUNCTIONS](http://lumiamitie.github.io/r/dplyr-useful-fun/)
   * [dplyr을 SQL로 번역하기](http://ds.sumeun.org/?p=1071)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
+* [dslabs 패키지 소개 Mnist 손글씨 데이터 읽어오는 패키지 소개](https://choosunsick.github.io/post/mnist/)
 * [ezpickr: Convenient package/function for choosing any rectangular data file using interactive GUI dialog box](https://jooyoungseo.github.io/ezpickr/)
   * pick() 함수를 호출하면 GUI 파일 선택 대화상자가 열리고, 대화상자에서 선택한 파일의 확장자에 따라 적절한 파일 임포팅 패키지::함수를 자동으로 매치
 * [Gifski on CRAN: the fastest GIF encoder in the universe](https://ropensci.org/technotes/2018/07/23/gifski-release/)
@@ -636,6 +637,10 @@ R
   * [Explanatory Model Analysis with modelStudio](https://www.r-bloggers.com/explanatory-model-analysis-with-modelstudio/)
 
 # NLP
+* [한글 텍스트 형태소 분석기 사용 코드](https://github.com/vl0w0lv/kor-tm/blob/master/Rcode)
+  * 1. Python의 Komoran 형태소 분석기 2. RcppMeCab 패키지의 은전한닢 프로젝트 형태소 분석기 3. RmecabKo 패키지를 이용한 명사/단어 추출 4. 1,2의 결과값을 이용한 문서-단어 행렬 생성
+  * Komoran의 경우 이미 로컬 PC에 Python 및 pip가 설치되어 있다는 가정, nltk, konlpy 모듈 필요
+  * parsing 이외의 기타 텍스트 전처리는 data.table 형태에서 처리
 * [Neural Network Machine Learning for NLP](https://www.r-bloggers.com/neural-network-machine-learning-for-nlp/)
 * [KoNLP](https://github.com/haven-jeon/KoNLP)
   * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
@@ -715,5 +720,6 @@ R
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
 * [moveVis provides tools to visualize movement data (e.g. from GPS tracking) and temporal changes of environmental data (e.g. from remote sensing) by creating video animations](http://movevis.org/)
+* [plotly를 사용한 반응형 그래프 그리기](https://issactoast.github.io/rprog2-plotly.html)
 * [r2d3 - R Interface to D3 Visualizations](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
 * [rayshader - R Package for 2D and 3D mapping and data visualization https://www.rayshader.com ](https://github.com/tylermorganwall/rayshader)
