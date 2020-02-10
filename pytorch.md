@@ -278,6 +278,7 @@ PyTorch
   * [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs)
 * [pytorch_geometric - Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
 * [PyTorch Geometry package - a geometric computer vision library for PyTorch](https://github.com/arraiy/torchgeometry)
+* [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
 * [pytorch-kaldi - a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit](https://github.com/mravanelli/pytorch-kaldi)
 * [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
