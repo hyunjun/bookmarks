@@ -1853,6 +1853,7 @@ Programming
 * [블랙박스 테스트 기법으로 테스트 케이스 설계하기](https://huns.me/posts/2020-01-09-35)
 * [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
 * [서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
+* [서버 사이드 테스트 자동화 여정 – 2. 통합 테스트 수준의 회귀 테스트 환경 구축 및 Docker 활용](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-2/)
 * [Model Controller Testsuite (MCT)을 이용한 테스트 자동화 구축](https://engineering.linecorp.com/ko/blog/applying-model-controller-testsuite-to-test-automation/)
 * [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
