@@ -742,6 +742,7 @@ Javascript
   * [Babel: Your first code transformations](https://hackernoon.com/babel-your-first-code-transformations-2d1a9a2f3bc4)
   * [speedy web compiler - Super-fast alternative for babel written in rust https://swc-project.github.io ](https://github.com/swc-project/swc)
   * [프론트엔드 개발환경의 이해: Babel](http://jeonghwan-kim.github.io//series/2019/12/22/frontend-dev-env-babel.html)
+  * [Babel 기초 다지기](https://imch.dev/posts/babel-practice)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
 * [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
