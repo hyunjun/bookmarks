@@ -104,3 +104,4 @@ Concurrency
   * [2편](https://imays.blog.me/221430386161)
   * [3편](https://imays.blog.me/221440589428)
   * [4편](https://imays.blog.me/221465259731)
+* [**메모리 관점에서 본 쓰레드(thread)**](https://mooneegee.blogspot.com/2015/01/os-thread.html)
