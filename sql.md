@@ -91,6 +91,8 @@ SQL
   * [dbdiagram - Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/)
   * [erdplus.com](https://erdplus.com)
 * [Flyway - Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL](https://flywaydb.org/)
+* [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
+  * [SQL문의 가독성을 높여주는 웹사이트 소개 feat.instant SQL formatter](https://stricky.tistory.com/154)
 * migration
   * [flyway - Evolve your Database Schema easily and reliably across all your instances](https://flywaydb.org/) plain SQL 사용
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
