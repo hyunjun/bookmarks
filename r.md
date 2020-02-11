@@ -383,6 +383,7 @@ R
 * [Introduction to Econometric Production Analysis with R](https://leanpub.com/ProdEconR)
 * [Developing Data Products in R](https://leanpub.com/ddp/read_full)
 * [Regression Models for Data Science in R](https://leanpub.com/regmods/read_full)
+* [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/)
 
 # Conference
 * [LA East R Users Presentations](https://github.com/laRusers/presentations)
