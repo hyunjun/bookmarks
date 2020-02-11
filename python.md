@@ -564,6 +564,7 @@ Python
   * [Python UTC -6 to KST (UTC +9)](https://blog.kimkevin.net/python-utc-to-kst/)
   * [Parsing and Formatting Dates in Python With Datetime](https://www.youtube.com/watch?v=zY02utxcauo)
   * [파이썬 날짜 다루기 date, datetime, yyyymmdd](https://krksap.tistory.com/1635)
+  * [**파이썬(Python) datetime 클래스 치트시트**](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
   * [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
