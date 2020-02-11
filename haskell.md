@@ -177,6 +177,7 @@ Haskell
 * [Typing the technical interview](https://aphyr.com/posts/342-typing-the-technical-interview)
 * [Advent of Haskell - Thoughts and lessons learned after using Haskell consistently for 25 days in a row](https://medium.com/@mvaldesdeleon/advent-of-haskell-950d6408a729)
 * [Do-notation considered harmful](https://syntaxfree.wordpress.com/2006/12/12/do-notation-considered-harmful/)
+* [ContinuationMore.ipynb](https://github.com/hnu-pl/grad-pl2019fall/blob/master/hsnote/ContinuationMore.ipynb)
 
 # Book
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
