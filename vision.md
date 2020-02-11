@@ -557,6 +557,8 @@ Vision
   * [Prepare Your Own Data for PointNet](https://isaacguan.github.io/2018/05/04/Prepare-Your-Own-Data-for-PointNet/) PTS data, PLY data, HDF5
 * [PySceneDetect - a command-line application and a Python library for detecting scene changes in videos, and automatically splitting the video into separate clips](https://pyscenedetect.readthedocs.io/)
 * [PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models](https://github.com/facebookresearch/SlowFast)
+* [YouEye - kiosk machine helper solution for blinded people](https://github.com/code-yeongyu/YouEye)
+  * [YouEye - kiosk machine helper solution for blinded people](https://www.youtube.com/watch?v=GAdjqtUidms)
 
 # R
 * [Human Face Detection with R](https://www.r-bloggers.com/human-face-detection-with-r/)
