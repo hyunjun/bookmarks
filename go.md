@@ -417,6 +417,7 @@ Go
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
+* [matterbridge Letting people be where they want to be](https://github.com/42wim/matterbridge)
 * [Mattermost is an open source, on-prem Slack-alternative](https://github.com/mattermost/platform)
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 * [minio - minimal object storage](https://minio.io/)
