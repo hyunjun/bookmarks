@@ -624,6 +624,7 @@ Python
   * [사전 자료형, 불린 조합 표현식](https://brunch.co.kr/@daejin/31)
   * [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
   * [Python3에서 NestedDict 내의 특정 키값을 이용해서 Value를 가져오기](https://medium.com/@elastic7327/python3에서-nesteddict-내의-특정-키값을-이용해서-value를-가져오기-f81d922c932e)
+  * [Dicts are now ordered, get used to it](https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -2537,6 +2538,7 @@ Python
 * [Nuitka - the extremely compatible Python compiler](http://nuitka.net/)
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
+* [Opnieuw: A simple and intuitive retrying library for Python](https://tech.channable.com/posts/2020-02-05-opnieuw.html)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
@@ -2568,6 +2570,7 @@ Python
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
 * [PyCryptodome](https://pycryptodome.readthedocs.io/)
   * [aes teset](https://gist.github.com/june9713/3689bd04ed9d2fe4a472ade275dcc880)
+  * [teamviewer](https://whynotsecurity.com/blog/teamviewer/)
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
