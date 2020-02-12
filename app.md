@@ -418,7 +418,9 @@ App
     * [PIP Error 해결 방법](https://developer-ankiwoong.tistory.com/713)
     * [코딩 인생 꿀템 VSC 단축키 5분 정리해드림](https://www.youtube.com/watch?v=Wn7j5dfbJF4)
     * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
+    * [Jupyter Notebooks in Visual Studio Code](https://techcommunity.microsoft.com/t5/educator-developer-blog/jupyter-notebooks-in-visual-studio-code/ba-p/1155747)
     * [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
+    * [사용중인 VSCode(Visual Studio Code) 확장 플러그인 목록](https://junhobaik.github.io/vsc-plugin-list/)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
@@ -994,6 +996,7 @@ App
   * [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read_full)
   * [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read_full)
   * [Command Line Scripting PowerShell HTML CSS JavaScript Learn To Code For beginners Crash Course](https://www.youtube.com/watch?v=1Zc_kaL-mnQ)
+* putty [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
 * [Scoop - A command-line installer for Windows](https://scoop.sh)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
