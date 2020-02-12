@@ -110,6 +110,7 @@
 * [rust-oss-template - a simple template for rust language based project](https://github.com/utilForever/rust-oss-template)
 * [Code reuse in Rust](https://medium.com/@dpc_96143/cargo-crev-and-rust-2019-fearless-code-reuse-b75d58398cb8)
 * [github.com/leechanwoo/APSS/tree/master/rust](https://github.com/leechanwoo/APSS/tree/master/rust)
+* [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 
 # Async Await
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
