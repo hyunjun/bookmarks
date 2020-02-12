@@ -56,6 +56,7 @@ Linux
     * [**프로비저닝 자동화를 위한 Ansible AWX, 설치부터 엔터프라이즈 환경 적용까지 – 1**](https://engineering.linecorp.com/ko/blog/ansible-awx-for-provisioning-1/)
     * [**프로비저닝 자동화를 위한 Ansible AWX, 설치부터 엔터프라이즈 환경 적용까지 – 2**](https://engineering.linecorp.com/ko/blog/ansible-awx-for-provisioning-2/)
     * [Ansible with oci](https://www.slideshare.net/DonghuKIM2/ansible-with-oci-221441463)
+    * [A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more](https://github.com/sovereign/sovereign)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
@@ -103,6 +104,7 @@ Linux
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 * [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
+* [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
