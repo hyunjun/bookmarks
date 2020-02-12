@@ -175,6 +175,7 @@ Programming
 * [개발자 머피의 법칙](http://woowabros.github.io/experience/2019/09/19/programmer-murphy-law.html) 여러가지 주의할 점, defensive code
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
+* [네이버 검색의 SRE 시스템](https://d2.naver.com/helloworld/2047663)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -1254,6 +1255,7 @@ Programming
   * [Connect to RabbitMQ Using Scala, Play and Akka](https://dzone.com/articles/connect-rabbitmq-using-scala)
   * [pymqdemo - Python RabbitMQ demo for deeplearning](https://github.com/booiljung/pymqdemo)
   * [Scala RabbitMQ Example](https://github.com/ticofab/Scala-RabbitMQ-Example)
+  * [rabbitmq 설치후 서버 접속시 타임 아웃 에러 발생 관련 문의 드립니다](https://okky.kr/article/257723)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
