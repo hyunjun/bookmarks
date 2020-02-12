@@ -1083,6 +1083,9 @@ Scala
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
   
+## SBT option
+* `javacOptions ++= Seq("-source", "1.5")` [javac options cannot be blindly passed to javadoc](https://github.com/sbt/sbt/issues/355)
+
 # Scala 3
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
