@@ -77,6 +77,7 @@ C
 * [Smashing the heap by overflowing the stack](https://ldpreload.com/blog/stack-smashes-you)
 * [String and Array Utilities](http://www.chemie.fu-berlin.de/chemnet/use/info/libc/libc_5.html)
 * ["(null)" is a bad idea](http://www.daemonology.net/blog/2015-08-13-null-is-a-bad-idea.html)
+* [Unexpected Places You Can And Can’t Use Null Bytes](https://eklitzke.org/unexpected-places-you-can-and-cant-use-null-bytes)
 * [The Underhanded C Contest](http://www.underhanded-c.org/_page_id_5.html)
 * [Embedding LuaJIT in 30 minutes (or so)](http://en.blog.nic.cz/2015/08/12/embedding-luajit-in-30-minutes-or-so/)
 * [Using the __cleanup__ variable attribute in GCC](http://echorand.me/site/notes/articles/c_cleanup/cleanup_attribute_c.html)
@@ -145,6 +146,7 @@ C
 * [Infectious Executable Stacks](https://nullprogram.com/blog/2019/11/15/)
 * [How to write better (game) library](https://handmade.network/wiki/7138-how_to_write_better_game_libraries)
 * [char와int 비교/치환](http://sunphiz.me/wp/archives/3398)
+* [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -351,6 +353,7 @@ C
 * [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [rt0 - A minimal C runtime for Linux on i386 & x86_64](https://github.com/lpsantil/rt0)
+* [rtty - Access your device's terminal from anywhere via the web](https://github.com/zhaojh329/rtty)
 * [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)
 * [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
