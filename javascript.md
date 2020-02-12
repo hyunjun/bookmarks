@@ -356,6 +356,7 @@ Javascript
 * [performance-guide - javascript 개발시 성능 최적화에 대한 팁들을 정리해 놓은 가이드](https://github.com/haegul/performance-guide)
 * [<번역>앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁](https://junwoo45.github.io/2019-10-05-frontend-performance/)
 * [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist)
+* [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
 * [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 * [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
@@ -1310,6 +1311,7 @@ Javascript
   * [YARN, 새로운 Package Manger](https://jaeyeophan.github.io/2017/04/21/YARN-New-Package-Manger/)
   * [Yarn을 설치하여 Angular CLI 기본패키지로 설정하기와 책 예제 소스 실행하기](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3955756301)
   * [Yarn 톺아보기](https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/)
+  * [Introducing Yarn 2](https://dev.to/arcanis/introducing-yarn-2-4eh1)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
 
 ## Library Angular React Vue comparison
@@ -2136,6 +2138,10 @@ Javascript
 * [리액트로 Trans 컴포넌트 만들기](https://imch.dev/posts/how-to-build-trans-component-with-pure-react) i18n
 * [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 - 원지혁 (AUSG 1기) :: AWS Community Day 2020](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
 * [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/)
+* [A simplified Jira clone built with React and Node](https://github.com/oldboyxx/jira_clone)
+* [React](https://opentutorials.org/module/4058)
+  * [React class & function style coding](https://opentutorials.org/module/4600)
+  * [React class vs function style](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEfBwnNGsJCQDiqSWI-edj)
 * [React-Ajax](https://opentutorials.org/module/4549)
   * [React-Ajax](https://www.youtube.com/playlist?list=PLuHgQVnccGMDVTrQYa2HRj1OBbT-4HU_v)
 
