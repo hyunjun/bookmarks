@@ -461,9 +461,11 @@ Java
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
+  * [homebrew로 opendjk 설치하기](https://findstar.pe.kr/2019/01/20/install-openjdk-by-homebrew/)
 * [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
   * [Amazon Corretto, 장기 지원 멀티 플랫폼 OpenJDK 무료 배포판 사용하기](https://aws.amazon.com/ko/blogs/korea/amazon-corretto-multi-platfom-openjdk-distribution)
   * [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자/)
+* [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
