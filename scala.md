@@ -256,6 +256,7 @@ Scala
 * [State vs Stateful Actor](https://medium.com/@krzysztof.otrebski/state-vs-stateful-actor-748486ba0271)
 * [Building a scalable reactive ingestion pipeline to ingest data in a Graph DB](https://medium.com/@dhananjay.ghanwat/building-a-scalable-reactive-ingestion-pipeline-to-ingest-data-in-a-graph-db-3b2d9bf12a35)
 * [Rock Paper Scissor Game through Actor Model in Scala](https://medium.com/@karthikv1392/rock-paper-scissor-game-through-actor-model-in-scala-a8a1430f10ff)
+* [Actor Model 패턴의 구현(Java)](https://effectiveprogramming.tistory.com/entry/Actor-Model-패턴의-구현Java)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
