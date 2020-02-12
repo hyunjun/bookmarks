@@ -643,6 +643,7 @@ Web
 * [당신이 만든 건 REST가 아니지만 괜찮아](http://haah.kr/2017/06/28/rest-the-coclusion/)
 * [REST Tutorial - How to Design a Good RESTful API](https://www.youtube.com/watch?v=sMKsmZbpyjE) 매우 기본적인 사항에 대한 리뷰
 * [RESTful API 설계](https://www.slideshare.net/brotherjinho/restful-api-64494716)
+* [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
 * [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
 * [Long Running Operation with Polling](http://restalk-patterns.org/long-running-operation-polling.html)
 
