@@ -43,6 +43,7 @@ Programming
   * [Part III: Feature Signatures](http://www.deepideas.net/building-content-based-search-engine-feature-signatures/)
   * [Part IV: Earth Mover’s Distance](http://www.deepideas.net/building-content-based-search-engine-earth-movers-distance/)
   * [Part V: Signature Quadratic Form Distance](http://www.deepideas.net/building-content-based-search-engine-signature-quadratic-form-distance/)
+* [Building personal search infrastructure for your knowledge and code Overview of search tools for desktop and mobile; using Emacs and Ripgrep as desktop search engine](https://beepb00p.xyz/pkm-search.html)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
@@ -510,6 +511,7 @@ Programming
   * [번역; Web Architecture 101](https://medium.com/@strncpy/%EB%B2%88%EC%97%AD-web-architecture-101-5fda6095688c)
   * [번역 웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
   * [WebABC](https://www.joinc.co.kr/w/man/12/architecture/webabc)
+* [How to Design a Web Application: Software Architecture 101](https://dev.to/educative/how-to-design-a-web-application-software-architecture-101-188b)
 * [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 * [EAI, ESB, API 게이트 웨이,서비스 매쉬](http://bcho.tistory.com/1292)
 * [커머스 혹은 유통 도메인 설계에 대한 연작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91)
@@ -611,6 +613,7 @@ Programming
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
 * [Service Mesh](http://bcho.tistory.com/1260)
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
+* [Service Mesh 란?](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
 * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
@@ -619,7 +622,9 @@ Programming
 * [The Monolithic Frontend In The Microservices Architecture](http://blog.xebia.com/2015/07/27/the-monolithic-frontend-in-the-microservices-architecture/)
 * [In Defence of the Monolith, Part 1](https://www.infoq.com/articles/monolith-defense-part-1/)
 * [In Defence of the Monolith, Part 2](https://www.infoq.com/articles/monolith-defense-part-2/)
+* [Monoliths are the future](https://changelog.com/posts/monoliths-are-the-future)
 * [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다](https://www.slideshare.net/arawnkr/ss-195979955)
+* [우아한 모노리스](https://www.slideshare.net/arawnkr/ss-224478403)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
@@ -1340,6 +1345,7 @@ Programming
 * [inflearn.com/roadmaps](https://www.inflearn.com/roadmaps)
 * [infractal.org](http://infractal.org/)
 * [K MOOC](http://www.kmooc.kr/)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [raywenderlich.com](https://www.raywenderlich.com/) Over 3,000 high-quality tutorials to boost your programming career, created by a community of experts from around the world
