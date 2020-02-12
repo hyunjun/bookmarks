@@ -67,6 +67,7 @@ SQL
 * [SQL이란: 데이터 쿼리와 관리](https://ko.khanacademy.org/computing/computer-programming/sql)
 * [데이터베이스 관리 도구: SQLGate 키보드 단축키](http://blog.gaerae.com/2017/11/sqlgate-keyboard-shortcuts.html)
 * [Software engineer — from monolith to cloud: Auto Increment to UUID](https://coder.today/software-engineer-from-monolith-to-cloud-auto-increment-to-uuid-a62f92f387c4)
+* [UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 * [Why Did We Shift Away From Database-Generated Ids?](https://medium.com/ingeniouslysimple/why-did-we-shift-away-from-database-generated-ids-7e0e54a49bb3)
 * [Instagram 에서 ID 샤딩하기](https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0)
 * [Code Quality Comparison of Firebird, MySQL, and PostgreSQL](https://medium.com/@CPP_Coder/code-quality-comparison-of-firebird-mysql-and-postgresql-53e39fc3298d)
@@ -160,6 +161,8 @@ SQL
 * ["SELECT COUNT(\*)" 수행 속도 문제](https://blog.naver.com/birdparang/221574304831)
 * [MariaDB 설치 및 설정](https://jojoldu.tistory.com/461)
 * [MariaDB에서 root 암호 인증 방식이 먹히지 않는 이유(feat. unix_socket)](http://jhrogue.blogspot.com/2020/02/b-mariadb-root-feat-unixsocket.html)
+* [Authentication from MariaDB 10.4](https://mariadb.com/kb/en/authentication-from-mariadb-104/)
+* [Less passwords, more security: unix socket authentication and other MariaDB hardening tips](https://www.slideshare.net/ottokekalainen/less-passwords-more-security-unix-socket-authentication-and-other-mariadb-hardening-tips)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 
@@ -562,6 +565,7 @@ SQL
     * 검색 결과 sqlite-devel or libsqlite3-dev를 설치 후 python3 재컴파일 혹은 setup.py의 path 수정
     * jupyter에서 간단히 할 일이 있어서 하려고 했던 건데 너무 일이 커져서 귀찮아서 여기서 중지
 * [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
+* [SQLite Is Serverless](https://www.sqlite.org/serverless.html)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
