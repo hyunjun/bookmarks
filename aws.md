@@ -223,6 +223,7 @@ AWS
 * [해외 오피스를 위한 Amazon Workspaces와 Amazon Workdocs 구축 경험기](https://docs.google.com/presentation/d/13LNYqyPzYSDpf3AXRTSOAtXHqjTzuC8Cn8l74GtnuqY/edit#slide=id.p1)
 * [Rancher 기본 입문](https://www.slideshare.net/HyunminKim5/awskrug-rancher)
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
+* [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 * [AWS #architecture 소모임 10회 결산](https://www.slideshare.net/addnull/20180531-hb-smith-10th-aws-architecture)
 * 텔레그램 & AWS 서비스 연동하기
   * [1) 텔레그램 봇과 AWS Lambda & AWS Gateway 연동](http://jojoldu.tistory.com/304)
