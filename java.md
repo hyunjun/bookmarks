@@ -31,7 +31,6 @@ Java
 * [Top 10 Mistakes Java Developers Make](http://www.programcreek.com/2014/05/top-10-mistakes-java-developers-make/)
 * [Boosting Java Performance using GPGPUs](http://arxiv.org/abs/1508.06791)
 * [Building Memory-efficient Java Applications: Practices and Challenges](https://www.cs.virginia.edu/kim/publicity/pldi09tutorials/memory-efficient-java-tutorial.pdf)
-* [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
 * [자바 20주년 특집 - 튜링팀과 람다팀, 그리고 자바](https://www.imaso.co.kr/news/article_view.php?article_idx=20150907103008)
 * [Programming Coordinated Behavior in Java](http://www.wisdom.weizmann.ac.il/~amarron/BPJ%20ECOOP%20FINAL.pdf)
 * [Resources for writing modern Java](https://github.com/cxxr/better-java)
@@ -84,7 +83,6 @@ Java
   * final const, volatile synchronized, transient
 * [Java Closure의 non-local variable이 final이어야 하는것에 대한 토론이 이뤄진 현장](https://www.facebook.com/notes/kevin-lee/%EA%B3%BC%EA%B1%B0-java-closure%EC%9D%98-non-local-variable%EC%9D%B4-final%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%9C-%ED%86%A0%EB%A1%A0%EC%9D%B4-%EC%9D%B4%EB%A4%84%EC%A7%84-%ED%98%84%EC%9E%A5/517870281888767/)
 * [패스트캠퍼스 자바 웹 프로그래밍 CAMP 정리](http://jojoldu.tistory.com/301)
-* [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
 * [Java 에러 : could not find java.dll](http://sunyzero.tistory.com/256)
 * [Invest in Your Java Katalogue](https://www.youtube.com/watch?v=GDnMEOaKUMs)
@@ -109,6 +107,7 @@ Java
 * [Java naming strategy (자바 명명 전략)](https://www.slideshare.net/debop/java-naming-strategy)
 * [How to Work with Scala Collections in Java](https://medium.com/wix-engineering/how-to-work-with-scala-collections-in-java-5d304d76e98f)
 * ['자바를 배우자' 온라인 과정 10선](http://www.itworld.co.kr/t/62086/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4/140362)
+* [2020 Java Technology Report](https://www.jrebel.com/blog/2020-java-technology-report)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -193,6 +192,12 @@ Java
   * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
   * [How SubString Works Internally in Java](http://www.codenuclear.com/how-substring-works-internally-java/)
   * [Is a string an array of chars in java?](https://www.quora.com/Is-a-string-an-array-of-chars-in-java)
+  * [How much memory does a string use in Java 8?](https://stackoverflow.com/questions/31206851/how-much-memory-does-a-string-use-in-java-8)
+  * [Guide to Java String Pool](https://www.baeldung.com/java-string-pool)
+  * [How to save memory occupied by Java strings](https://www.javamex.com/tutorials/memory/string_saving_memory.shtml)
+  * [JVM Anatomy Quark #10: String.intern()](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
+  * [JEP 192: String Deduplication in G1](http://openjdk.java.net/jeps/192)
+  * [Why does storing a long string cause an OOM error but a breaking it into a list of short strings does not?](https://stackoverflow.com/questions/45406035/why-does-storing-a-long-string-cause-an-oom-error-but-a-breaking-it-into-a-list)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
@@ -417,6 +422,7 @@ Java
 * [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 * [How JAVA 9 Is A better approach to JAVA 8](http://www.oodlestechnologies.com/blogs/How-JAVA-9-Is-A-better-approach-to-JAVA-8)
 * [These are the best free courses to help you learn Java 8 and Java 9](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-help-you-learn-java-8-and-java-9-a7615c8644ab)
+* [How to Migrate to Java 9? It’s Easy if You Do It Smart](https://www.romexsoft.com/blog/migrate-to-java-9/)
 
 # Java10
 * [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
@@ -496,6 +502,8 @@ Java
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * [How Memory Leaks Happen in a Java Application](https://stackify.com/memory-leaks-java/)
 * [Docker 안에 숨어 있는 Web application JMX profiling Tip](https://www.popit.kr/docker-jmx-profiling-tip/)
+* [**JVM Anatomy Quarks**](https://shipilev.net/jvm/anatomy-quarks/) 한 권의 책
+* [Why does my Java process consume more memory than Xmx?](https://plumbr.io/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
@@ -509,20 +517,47 @@ Java
 ## JVM GC Garbage Collection
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
 * [가비지 컬렉터가 뭐하는 건가요? (Feat. 메모리 관리)](https://www.youtube.com/watch?v=24f2-eJAeII)
-* [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 * [Java Garbage Collection](https://d2.naver.com/helloworld/1329)
 * [Reference Counting과 Mark and Sweep](https://medium.com/@leeyh0216/reference-counting%EA%B3%BC-mark-and-sweep-2d046f73da4f)
-* [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
 * [JDK8 적용 후, 심각한 성능저하가 발생한다면? Full GC가 제대로 되지 않는다면?](https://brunch.co.kr/@heracul/1) `MaxMetaspaceSize`
 * [Garbage Collection Algorithms](https://medium.com/@joongwon/jvm-garbage-collection-algorithms-3869b7b0aa6f)
   * 여러가지 GC algorithm 기본 동작 방식 소개
-* [**G1: Garbage first garbage collector**](https://b.luavis.kr/server/g1-gc)
 * [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
+* [Java gc log 분석, 시각화하는 무료 사이트 추천 gceasy.io](https://blog.voidmainvoid.net/213)
+* [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
+* [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
+* [**G1: Garbage first garbage collector**](https://b.luavis.kr/server/g1-gc)
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [**A Quick Start on Java Garbage Collection: What it is, and How it works**](https://sematext.com/blog/java-garbage-collection/)
 * [**Understanding Java Garbage Collection Logging: What Are GC Logs and How To Analyze Them**](https://sematext.com/blog/java-garbage-collection-logs/)
 * [**A Step-by-Step Guide to Java Garbage Collection Tuning**](https://sematext.com/blog/java-garbage-collection-tuning/)
+* [JVM char array occupies lots of memory](https://stackoverflow.com/questions/43701490/jvm-char-array-occupies-lots-of-memory)
+* [Java GC Tuning for Noobs: Part 1](http://onemogin.com/java/gc/java-gc-tuning-for-noobs-1.html)
+* [Java GC Tuning for Noobs: Part 2, Generational](http://onemogin.com/java/gc/java-gc-tuning-generational.html)
+* [Java GC Tuning for Noobs: Part 3, Parallelism](http://onemogin.com/java/gc/java-gc-cms.html)
+* [TIL-12: Garbage Collection: Young vs Old Generations](https://medium.com/@recepinancc/til-12-garbage-collection-young-vs-old-generations-ab95b6a68653)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
+
+## JVM Flag, Option
+* `--add-exports java.base/sun.nio.cs=ALL-UNNAMED` [java option --add-exports deprecated된 pakcage를 사용하는 방법](https://medium.com/@strncpy/java-option-add-exports-1f63c81a54a4)
+* ` -XX:+UseTLAB` [Is memory allocation on the JVM lockless](https://stackoverflow.com/questions/8147846/is-memory-allocation-on-the-jvm-lockless)
+* [JAVA 실행 시 Heap 설정 메모리 설정 관련](https://202psj.tistory.com/908)
+* [Java8이상에서 MaxMetaspaceSize 설정, 반드시 해야할까?](https://blog.voidmainvoid.net/210)
+* [Java 8 에서 사라진 maxPermSize, PermSize을 대체하는 옵션?](https://blog.voidmainvoid.net/184)
+* [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
+* [What is the meaning of the -XX:NewRatio and -XX:OldSize JVM flags?](https://stackoverflow.com/questions/6859683/what-is-the-meaning-of-the-xxnewratio-and-xxoldsize-jvm-flags)
+* [Useful JVM Flags – Part 1 (JVM Types and Compiler Modes)](https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-1-jvm-types-and-compiler-modes/)
+* [Useful JVM Flags – Part 2 (Flag Categories and JIT Compiler Diagnostics)](https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-2-flag-categories-and-jit-compiler-diagnostics/)
+* [Useful JVM Flags – Part 3 (Printing all XX Flags and their Values)](https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-3-printing-all-xx-flags-and-their-values/)
+* [Useful JVM Flags – Part 4 (Heap Tuning)](https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-4-heap-tuning/)
+* [Useful JVM Flags – Part 5 (Young Generation Garbage Collection)](https://blog.codecentric.de/en/2012/08/useful-jvm-flags-part-5-young-generation-garbage-collection/)
+* [Useful JVM Flags – Part 6 (Throughput Collector)](https://blog.codecentric.de/en/2013/01/useful-jvm-flags-part-6-throughput-collector/)
+* [Useful JVM Flags – Part 7 (CMS Collector)](https://blog.codecentric.de/en/2013/10/useful-jvm-flags-part-7-cms-collector/)
+* [Useful JVM Flags – Part 8 (GC Logging)](https://blog.codecentric.de/en/2014/01/useful-jvm-flags-part-8-gc-logging/)
+* [Basics of Java Garbage Collection](https://codeahoy.com/2017/08/06/basics-of-java-garbage-collection/)
+* [10 Important JVM Options for Production JAVA Application System](https://geekflare.com/important-jvm-options/)
+* [21 MOST IMPORTANT JAVA 8 VM OPTIONS FOR SERVERS](https://www.maknesium.de/21-most-important-java-8-vm-options-for-servers)
+* [Guide to the Most Important JVM Parameters](https://www.baeldung.com/jvm-parameters)
 
 ## JVM Profile
 * [자바 애플리케이션 성능 튜닝의 도(道)](https://d2.naver.com/helloworld/184615)
@@ -702,6 +737,8 @@ Java
   * [jmeter를 사용한 가변길이 TCP Binary 패킷 처리 방법](https://newtype.pe.kr/463)
 * [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
+  * [HtmlUnit close all windows memory leak](https://stackoverrun.com/ko/q/7258293)
+  * [Out Of Memory Error](https://github.com/jhy/jsoup/issues/339)
 * [jvisualvm을 사용한 jvm 모니터링](http://m.egloos.zum.com/aploit/v/5746753)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * KoreanTextMatcher [한글 초성 검색과 KoreanTextMatcher 3.0](https://bangjunyoung.github.io/2019/08/23/한글-초성-검색과-KoreanTextMatcher-3-0/)
@@ -984,8 +1021,21 @@ Java
 * [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 * [Spring boot multi-module maven project example](https://howtodoinjava.com/spring-boot2/sb-multi-module-maven-project/)
 
+# Memory Leak, OOM, Out of memory
+* [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
+* [Hunting Down and Fixing Memory Leaks in Java](https://blog.soshace.com/hunting-down-and-fixing-memory-leaks-in-java/)
+* [Finding Memory Leaks in Java Microservices – Part 1](https://bitmovin.com/finding-memory-leaks-in-java-microservices-part-1/)
+* [Finding Memory Leaks in Java Microservices – Part 2](https://bitmovin.com/finding-memory-leaks-in-java-microservices-part-2/)
+
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
+
+# Performance Tuning
+* [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
+* [Java 어플리케이션 성능튜닝 Part1](https://www.slideshare.net/songaal/java-part1-144046077)
+* [Java 어플리케이션 성능튜닝 Part2](https://www.slideshare.net/songaal/java-part2-144045817)
+* [Java 어플리케이션 성능튜닝 Part3](https://www.slideshare.net/songaal/java-part3)
+* [11 Simple Java Performance Tuning Tips](https://stackify.com/java-performance-tuning/)
 
 # Reactive
 * [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
