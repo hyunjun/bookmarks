@@ -458,6 +458,7 @@ Java
 * [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
 * [Oracle JDK 라이센스](https://qwefgh90.github.io//research/2019/10/11/Oracle-JDK과-라이센스.html)
 * [Open JDK의 변화](https://qwefgh90.github.io//research/2019/10/12/Open-JDK의-변화.html)
+* [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
