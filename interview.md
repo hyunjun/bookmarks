@@ -221,6 +221,8 @@ Interview
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
 * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
+* [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com ](https://github.com/binhnguyennus/awesome-scalability)
+* [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
 * [Watch this before your System design interview!!](https://www.youtube.com/watch?v=pWO07iEpjO4)
 * [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/) 제목은 Azure가 들어갔지만 일반적인 경우로 봐도 됨
 * Introduction
@@ -353,6 +355,7 @@ Interview
   * [아마존 AI 알렉사는 어떻게 인간의 언어를 이해할까](http://clomag.co.kr/article/3103)
   * [How to Build an App like Zomato? (Zomato Clone)](https://www.engineerbabu.com/blog/how-to-build-app-like-zomato/)
   * [How Google searches one document among Billions of documents quickly?](https://www.youtube.com/watch?v=CeGtqouT8eA)
+  * [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
   * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
@@ -453,6 +456,7 @@ Interview
 * [atcoder.jp](https://atcoder.jp)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
   * [coding.sh](http://coding.sh/) online programming
+* [binarysearch.io Master algorithms together Create a room, invite your friends, and race to finish the problems](https://binarysearch.io)
 * [Byteboard - It’s time to step up your interview game](https://byteboard.dev/)
   * [구글, 개발자 실무 면접용 도구 바이트보드 공개](http://www.ciokorea.com/news/126756)
 * [careercup.com](https://www.careercup.com)
