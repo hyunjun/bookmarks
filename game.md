@@ -31,6 +31,7 @@ Game
 * [게임 보안 운영 관점에서 바라본 게임 치트 방지 모니터링](https://engineering.linecorp.com/ko/blog/monitoring-to-prevent-game-cheating/)
 * [We Open Sourced Our Steam Game](https://medium.com/squallygame/we-open-sourced-our-steam-game-and-why-it-was-a-good-idea-2d5ac72c9802)
 * [코에이 '노부나가의 야망'은 시뮬레이션 게임 역사상 특이점인가? 인류가 게임을 통해 전쟁을 시뮬레이션했던 역사를 돌아본다](http://isao76.egloos.com/2662773)
+* [Game AI Pro 3](http://www.gameaipro.com)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
