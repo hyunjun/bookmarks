@@ -28,6 +28,7 @@ Network
 * [Computer Networking Complete Course by Google - Beginner to Advanced](https://www.youtube.com/watch?v=QKfk7YFILws)
 * [10 networking guides for Linux sysadmins](https://www.redhat.com/sysadmin/networking-guides)
 * [Communication(통신) 1. 개념](https://fkkmemi.github.io/communication/comm-1/) binary 바이너리 통신, 바이트 단위 해석
+* [**인터넷이 동작하는 아주 구체적인 원리 학교에서 구글에 접속하는 과정**](https://parksb.github.io/article/36.html)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
