@@ -138,6 +138,7 @@ Docker
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
     * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
+    * [Creating Docker images with Spring Boot 2.3.0.M1](https://spring.io/blog/2020/01/27/creating-docker-images-with-spring-boot-2-3-0-m1)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
@@ -170,6 +171,8 @@ Docker
   * Nginx
     * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
     * [도커가 답이다](https://jybaek.tistory.com/803)
+  * python
+    * [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
     * [Docker swarm development environment for customized medical study app](https://github.com/jinseob2kim/swarm-setting)
@@ -552,6 +555,7 @@ Docker
   * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
   * [03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
+* [Kubernetes 101 - Concepts and Why It Matters](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
@@ -725,6 +729,7 @@ Docker
 * [‘쿠버네티스 상에서 직접 서버리스를’··· 주요 프로젝트 5종](http://www.ciokorea.com/news/141326)
 * [다시 정리하는 쿠버네티스 : 컴포넌트 개념 #1](https://jybaek.tistory.com/860)
 * [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
+* [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
@@ -740,6 +745,7 @@ Docker
     * [#2-3. Charts (디렉토리 구조)](https://bcho.tistory.com/1339)
     * [#2-4 Helm Chart Hook](https://bcho.tistory.com/1340)
     * [#2-5. Chart 배포 (Repository)](https://bcho.tistory.com/1341)
+  * [How To Install Software on Kubernetes Clusters with the Helm Package Manager](https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager)
 * Istio [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
 * k3s [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
