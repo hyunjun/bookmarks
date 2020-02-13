@@ -187,7 +187,9 @@
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
-* Exception [Kotlin에서 try catch finally로 처리하는 Exception](https://developer88.tistory.com/245)
+* Exception
+  * [Kotlin에서 try catch finally로 처리하는 Exception](https://developer88.tistory.com/245)
+  * [RunCatching을 이용한 Kotlin Exception처리 #try, catch](https://www.popit.kr/logstash-필터-elapsed)
 
 # Conference
 * [kotlinconf.com](https://kotlinconf.com/)
