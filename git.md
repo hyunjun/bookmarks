@@ -634,6 +634,7 @@ Git
 * [Git/Github Beginner Part. 1](https://codeonweb.com/course/c9e85bb5-f1ec-4924-b947-a1c81334729f)
 * [An introduction to Git for absolute beginners](https://medium.freecodecamp.org/an-introduction-to-git-for-absolute-beginners-86fa1d32ff71)
 * [A beginner’s guide to Git — how to start and create your first repository](https://medium.freecodecamp.org/a-beginners-guide-to-git-how-to-create-your-first-github-project-c3ff53f56861)
+* [Git Tutorial for Beginners: A Quick Start Guide](https://www.youtube.com/watch?v=ugN-IYV1NTM)
 * [Git 뉴비를 위한 기초 사용법](https://evan-moon.github.io/2019/07/25/git-tutorial/)
 * [Git 뉴비를 위한 기초 사용법 - 버전 관리](https://evan-moon.github.io/2019/07/28/git-tutorial-advanced/)
 * [Getting Started With Version Control — Part II Working with Git & GitHub like a boss](https://medium.com/@sergeantq/getting-started-with-version-control-part-ii-169d400c7440)
