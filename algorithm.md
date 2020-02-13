@@ -103,8 +103,6 @@ Algorithm
 * [Minimal examples of data structures and algorithms in Scala](https://github.com/kimxogus/algorithms-scala)
 * [LRU 알고리즘](https://docs.google.com/document/d/1ZAdmpJfSWGQMsMw4AfOussc7JvxjXBjV2dYeKxQSerA/edit)
 * [알고리즘](http://healthydeveloper.tistory.com/category/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
-* [disjoint-set, union–find or merge–find set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
-* [Union-Find 알고리즘](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
 * d2.naver.com
   * [NEXTERS 알고리즘 스터디 자료 외](http://d2.naver.com/news/4850628)
   * [알고리즘 문제 및 풀이 외](http://d2.naver.com/news/9160610)
@@ -259,6 +257,11 @@ Algorithm
 ## Detection
 * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
+
+# Disjoint set, union find
+* [disjoint-set, union–find or merge–find set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
+* [Union-Find 알고리즘](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
+* [What is the most underrated data structure?](https://www.quora.com/What-is-the-most-underrated-data-structure)
 
 # Dynamic Programming
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
