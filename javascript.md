@@ -2791,3 +2791,4 @@ Javascript
 * [Let's Learn VueJS #1 - Intro](https://www.youtube.com/watch?v=Jrtkj6lTsYw)
 * [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap)
 * [7 Top Tools for Vue.js Development](https://morioh.com/p/2061bedccdbb)
+* [[Vue.js는 얼마나 쉬울까?](https://www.notion.so/Vue-js-fedb5ceb8f05421c92517899c6804265)
