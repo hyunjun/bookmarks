@@ -3167,6 +3167,7 @@ Python
 * [Data Preparation Basic(데이터 전처리 기초) 2](https://ankiwoong.site/802)
 * [Data Preparation Basic(데이터 전처리 기초) 3](https://ankiwoong.site/803)
 * [Efficient Pandas: Using Chunksize for Large Data Sets](https://medium.com/towards-artificial-intelligence/efficient-pandas-using-chunksize-for-large-data-sets-c66bf3037f93)
+* [파이썬으로 로또 당첨번호 및 당첨금 데이터 분석 하기 feat.pandas, pyplot](https://stricky.tistory.com/158)
 * [vaex - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex)
   * [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 
@@ -3627,3 +3628,4 @@ Python
   * [ironpython2](https://github.com/IronLanguages/ironpython2)
   * [ironpython3](https://github.com/IronLanguages/ironpython3)
 * win32clipboard [clipboard 로 text, image 복사하기 , 가져오기](https://freeprog.tistory.com/16)
+* win32gui [응용프로그램창 백그라운드로 숨기는 방법(win32gui)](https://www.youtube.com/watch?v=S9f8QOy1rbU)
