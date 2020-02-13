@@ -106,3 +106,4 @@ Concurrency
   * [3편](https://imays.blog.me/221440589428)
   * [4편](https://imays.blog.me/221465259731)
 * [**메모리 관점에서 본 쓰레드(thread)**](https://mooneegee.blogspot.com/2015/01/os-thread.html)
+* [멀티 쓰레드 프로그램 설계를 위한 8가지 규칙](https://brunch.co.kr/@chris-song/95)
