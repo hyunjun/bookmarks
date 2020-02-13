@@ -545,6 +545,7 @@ ElasticSearch - Lucene
 * [logstash 필터 dissect 성능 테스트](https://www.popit.kr/logstash-필터-dissect-성능-테스트)
 * [Logstash 필터 useragent](https://www.popit.kr/logstash-%ED%95%84%ED%84%B0-useragent/)
 * [Multi CDN 트래픽 모니터링을 위한 클러스터 구축기](https://engineering.linecorp.com/ko/blog/build-cluster-for-multi-cdn-traffic-monitoring/)
+* [Logstash 필터 elapsed](https://www.popit.kr/logstash-필터-elapsed)
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR)](https://docs.com/sunnykwak/3330)
