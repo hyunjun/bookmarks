@@ -268,6 +268,7 @@ ElasticSearch - Lucene
 * [카카오에서 배운 Elasticsearch(ES) 구축 및 운영 노하우](https://www.notion.so/383e17bf4cf1408cb1dcf78aae1fcff6)
 * [엘라스틱서치 명령어](https://krksap.tistory.com/1634)
 * [Word count from documents](https://discuss.elastic.co/t/word-count-from-documents/117379)
+* [App Search 소개](https://jjeong.tistory.com/1407)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
