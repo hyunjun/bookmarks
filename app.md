@@ -996,6 +996,7 @@ App
   * [The Big Book of PowerShell Error Handling](https://leanpub.com/thebigbookofpowershellerrorhandling/read_full)
   * [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read_full)
   * [Command Line Scripting PowerShell HTML CSS JavaScript Learn To Code For beginners Crash Course](https://www.youtube.com/watch?v=1Zc_kaL-mnQ)
+  * [파워쉘을 이용해서 윈도우 텍스트 파일 utf8 인코딩 변경 하기 feat.Get-Content, Set-Content -Encoding](https://stricky.tistory.com/160)
 * putty [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
 * [Scoop - A command-line installer for Windows](https://scoop.sh)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
