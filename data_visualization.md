@@ -361,3 +361,4 @@ Data Visualization
 * [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
 * [korean_font_on_matplotlib.ipynb](https://colab.research.google.com/github/nicewook/datascience_exercise/blob/master/korean_font_on_matplotlib.ipynb)
 * [Matplotlib: Your First Plot With Python](https://www.youtube.com/watch?v=SRgYGhRXVlY)
+* [Matplotlib Defaults & Fonts](https://jehyunlee.github.io/2020/02/13/Python-DS-2-matplotlib/)
