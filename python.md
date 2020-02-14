@@ -1042,6 +1042,7 @@ Python
   * [PyFormat Using % and .format() for great good!](https://pyformat.info/)
   * [How to Use F-Strings for String Formatting in Python](https://www.youtube.com/watch?v=c8nHlLEmtNg)
   * [F-strings — make your python code more readable today](https://medium.com/@ikamenshchikov/f-strings-make-your-python-code-faster-and-more-readable-today-579ef9ca0313)
+  * [Python에 F-string 이라는 게 있었다?](https://seorenn.tistory.com/76)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
 
@@ -3546,6 +3547,7 @@ Python
 * [Panel Discussion: What is Static Typing in Python? | PyBay 2017](https://www.youtube.com/watch?v=XkCyrLN5r2M)
 * [Dynamic Typing in Python](https://www.youtube.com/watch?v=OE2j6hlU88o)
 * [파이썬의 타입 힌트](https://artoria.us/35)
+* [Python 3 정적 타이핑 소개 및 소감(?)](https://seorenn.tistory.com/77)
 * [Next Steps with Python Type System](https://blog.daftcode.pl/next-steps-with-python-type-system-efc4df5251c9)
 * [callable() in Python](https://www.geeksforgeeks.org/callable-in-python/)
 * [Typesetting With Python](https://www.youtube.com/watch?v=GVoyBWo1QDk)
