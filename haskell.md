@@ -270,3 +270,4 @@ Haskell
 * [INTRODUCTION TO FUNCTIONAL PROGRAMMING USING HASKELL](https://1ambda.github.io/haskell/) 한글
 * [CIS 194: Introduction to Haskell (Spring 2013)](https://www.seas.upenn.edu/~cis194/spring13/)
   * [enshahar.com](http://enshahar.com/) 한글
+* [Haskell for impatient Scala developer: Getting into speed](https://msitko.pl/blog/2020/02/08/haskell-getting-into-speed.html)
