@@ -306,6 +306,7 @@ Web
 * [바쁜 개발자가 집 알아보는 방법 🐌 - 방 정보 크롤링 및 필터링 하기](https://jen6.github.io/2019/12/find-house-for-me.html)
 * [파이썬으로 네이버 카페 게시판 크롤링 & 워드 클라우드 실습 하기! (feat.konlpy.Twitter)](https://stricky.tistory.com/108)
 * [완전 쉽게 파이썬으로 텍스트 및 이미지 크롤링하기 | 완성형 서비스 만들기 1강](https://www.youtube.com/watch?v=ZTJjW7XuHIY) goorm 이용
+* [RSS 피드를 활용하여 각종 언론사에서 뉴스 데이터 받기](https://junpyopark.github.io/rss_parse/)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
