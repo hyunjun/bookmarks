@@ -724,6 +724,7 @@ Deep Learning
 * [Is Rectified Adam actually better than Adam?](https://www.pyimagesearch.com/2019/10/07/is-rectified-adam-actually-better-than-adam/)
 * [Deep-Learning-in-Production - In this repository, I will share some useful notes and references about deploying deep learning-based models in production](https://github.com/ahkarami/Deep-Learning-in-Production)
 * [XOR solvable activation function helps DNNs](https://github.com/sunggukcha/xor)
+* [Semantic Segmentation을 활용한 차량 파손 탐지 딥러닝 모델 개발기](https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
