@@ -242,6 +242,7 @@ Scala
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://slides.com/guersam/pure-scala-webapp#/)
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://github.com/guersam/kcd2019)
 * [Identify Side Effects And Refactor Fearlessly](http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fearlessly/)
+* [Building Serverless Scala Services with GraalVM](https://www.inner-product.com/posts/serverless-scala-services-with-graalvm/)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -414,6 +415,7 @@ Scala
 * [Rethinking Streaming Workloads with Akka Streams: Part II](https://blog.colinbreck.com/rethinking-streaming-workloads-with-akka-streams-part-ii/)
 * [WebSocket Streaming with Scala - How Akka Streams can make life easier](https://towardsdatascience.com/websocket-streaming-with-scala-fab2feb11868)
 * [Akka Streams: error handling in event processing pipelines](https://medium.com/@bszwej/akka-streams-error-handling-7ff9cc01bc12)
+* [Enriching OCR with Akka Streams](https://towardsdatascience.com/enriching-ocr-with-akka-streams-7e48990be929)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -589,6 +591,9 @@ Scala
     * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
     * [Happy eyeballs algorithm using ZIO](https://blog.softwaremill.com/happy-eyeballs-algorithm-using-zio-120997ba5152)
     * [5 (more) pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-more-pitfalls-to-avoid-when-starting-to-work-with-zio-d0cdd44fa439)
+    * [Building a Super Easy Rate Limiter with ZIO](https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776)
+    * [Make your own IO with context-scoped data on top of ZIO](https://medium.com/wix-engineering/make-your-own-io-with-context-scoped-data-on-top-of-zio-c1f3ad1f3d83)
+    * ZIO STM [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
@@ -715,6 +720,7 @@ Scala
 * [caliban - Functional GraphQL backend in Scala https://ghostdogpr.github.io/caliban ](https://github.com/ghostdogpr/caliban)
   * [GraphQL in Scala with Caliban — Part 1: Turn a simple API into GraphQL](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-1-8ceb6099c3c2)
   * [GraphQL in Scala with Caliban — Part 2: Query optimization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-2-c7762110c0f9)
+  * [GraphQL in Scala with Caliban — Part 3: Customization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-3-8962a02d5d64)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
@@ -935,6 +941,8 @@ Scala
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
 ## Library Logging
+* [Not Functional Logging context (p. I)](https://medium.com/@vl.gutov/not-functional-logging-context-p-i-e3e88bdbad57)
+* [Not Functional Logging context (p. II)](https://medium.com/@vl.gutov/not-functional-logging-context-p-ii-d789d608ec92)
 * [airframe-log is a library for enhancing your Scala application logging with colors and source code locations](https://wvlet.org/airframe/docs/airframe-log.html)
   * [Airframe Log: A Modern Logging Library for Scala](https://medium.com/airframe/airframe-log-a-modern-logging-library-for-scala-56fbc2f950bc)
 * [Logback - intended as a successor to the popular log4j project](https://logback.qos.ch/)
@@ -953,6 +961,7 @@ Scala
   * [Monocle 3.x](https://fp-tower.github.io/2020-01-06-monocle-3/)
   * [Data Juggling - Part 2 - Homegrown #Lenses (#Monocle - Part 1)](https://www.youtube.com/watch?v=rFixov5KOps)
   * [Data Juggling - Part 3 - Optics Explained (#Monocle - Part 2)](https://www.youtube.com/watch?v=18ss7LpAKWE)
+  * [Data Juggling - Part 4 - #Quicklens (#Monocle - Part 3)](https://www.youtube.com/watch?v=1qHJ0H-2iOw)
 
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
@@ -1156,6 +1165,7 @@ Scala
   * [MUnit is a new Scala testing library](https://scalameta.org/munit/blog/2020/02/01/hello-world.html)
 * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
   * [Introduction to ScalaCheck—Noel Markham](https://www.youtube.com/watch?v=l5-5w8A-Ong)
+  * [Building useful Scalacheck Generators](https://medium.com/@supermanue/building-useful-scalacheck-generators-71635d1edb9d)
 * [ScalaTest](http://www.scalatest.org/)
   * [Testing styles in ScalaTest](http://yeghishe.github.io/2015/05/31/scalatest-testing-styles.html)
   * [scalatest에서 Exception 처리](http://knight76.tistory.com/entry/scala-scalatest%EC%97%90%EC%84%9C-Exception-%EC%B2%98%EB%A6%AC)
