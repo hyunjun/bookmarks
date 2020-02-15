@@ -1646,6 +1646,7 @@ Python
 * xlrd [practice - test_xlrd.py](https://github.com/hyunjun/practice/blob/master/python/test-excel/test_xlrd.py)
   * [Get JSON from Excel using Python, xlrd](https://anthonydebarros.com/2013/02/05/get-json-from-excel-using-python-xlrd)
 * [xls2sql - excel to sql script](https://github.com/Fechin/pyscripts/tree/master/xls2sql)
+* xlsx pandas [Excel File Data Analysis(엑셀 파일 Pandas 분석)](https://developer-ankiwoong.tistory.com/808)
 * [XlsxWriter - Creating Excel files with Python and XlsxWriter](http://xlsxwriter.readthedocs.io/)
   * practice; encoding 문제로 저장한 csv를 excel에서 열었더니 글자가 깨져 보일 때
 
