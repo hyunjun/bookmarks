@@ -527,6 +527,7 @@ Git
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [gg - hybrid version control system](http://www-cs-students.stanford.edu/~blynn/gg/)
+* gh [github 관리툴 gh 맛보기](https://blog.naver.com/pjt3591oo/221809400173)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
