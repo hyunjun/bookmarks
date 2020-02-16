@@ -282,6 +282,7 @@ PyTorch
 * [PyTorch Geometry package - a geometric computer vision library for PyTorch](https://github.com/arraiy/torchgeometry)
 * [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
 * [pytorch-kaldi - a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit](https://github.com/mravanelli/pytorch-kaldi)
+* [pytorch-lightning - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate](https://github.com/PyTorchLightning/pytorch-lightning)
 * [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
 * [pytorch-qrnn - Quasi-Recurrent Neural Network (QRNN) for PyTorch](https://github.com/salesforce/pytorch-qrnn)
@@ -337,6 +338,7 @@ PyTorch
 * [Benchmarking Transformers: PyTorch and TensorFlow](https://medium.com/huggingface/benchmarking-transformers-pytorch-and-tensorflow-e2917fb891c2)
 * [HanBert-Transformers](https://github.com/monologg/HanBert-Transformers)
 * [Part 1: Components of the transformer model](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb) ipynb
+* [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
 
 # Translation
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
