@@ -63,6 +63,7 @@ Elixir
 * [supervisor가 죽은 프로세스를 재시작하는 전략을 설명하는 예제](http://ohyecloudy.com/pnotes/archives/elixir-good-example-code-for-supervisor/)
 * [Task.await와 Task.yield](http://ohyecloudy.com/pnotes/archives/elixir-task-await-task-yield/)
 * [외래 키는 스키마에 정의하고 ecto 연관 함수로 외래 키를 직접 쓰지 말자](http://ohyecloudy.com/pnotes/archives/elixir-ecto-associations/)
+* [#metrics phoenix 웹 프레임워크로 만든 프로젝트 지표를 prometheus와 grafana로 모니터링](http://ohyecloudy.com/pnotes/archives/metrics-phoenix-prometheus-grafana/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
