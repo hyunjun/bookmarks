@@ -124,6 +124,7 @@
 * [Kotlin에서의 Generic](https://developer88.tistory.com/212)
 * [Kotlin Extension Functions에 대해서 정리해 봅니다](https://developer88.tistory.com/211)
 * [Kotlin Coroutine에 대한 정리](https://developer88.tistory.com/213)
+* [Coroutine의 Async와 await 사용시 Exception Handling에 관하여](https://developer88.tistory.com/258)
 * [GOTO 2019 • Kotlin: Dissecting the stdlib • Huyen Tue Dao](https://www.youtube.com/watch?v=uCMuGVh7W_0)
 * [나 혼자 Kotlin v1.0 - Part.1](https://www.sangkon.com/kotlin_study_with_tdd_part_1/)
 * [Kotlin cheatsheet](https://devhints.io/kotlin)
