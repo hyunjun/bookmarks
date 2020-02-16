@@ -87,6 +87,7 @@ Programming Books
 * (NOT YET) [IT에 몸담은 이들을 위한 지적 생산 기술](http://naver.me/xwCKOrWa)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
 * (NOT YET) [손에 잡히는 10분 정규 표현식](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)
+* (NOT YET) [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
 
 # Agile Scrum
 
