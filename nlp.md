@@ -303,6 +303,7 @@ NLP
 * [기획자와 마케터를 위한 이벤트 댓글 분석 - feat. 인프런 새해 다짐 이벤트](https://github.com/corazzon/inflearn-new-year-event-2020)
   * [텍스트데이터분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmohRzCxWQqJ7Z9aqc-sQ5gC)
 * [NLU sense](https://nlusense.com)
+* [A no-frills guide to most Natural Language Processing Models — The Pre-LSTM Ice-Age — (R)NNLM, GloVe, Word2Vec & fastText](https://towardsdatascience.com/a-no-frills-guide-to-most-natural-language-processing-models-part-1-the-pre-lstm-ice-age-86055dd5d67c)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1552,6 +1553,7 @@ NLP
 * [When and Why does King - Man + Woman = Queen? (ACL 2019)](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html)
 * [Word2vec: fish + music = bass](https://graceavery.com/word2vec-fish-music-bass/)
 * [role2vec - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018)](https://github.com/benedekrozemberczki/role2vec)
+* [그래프 임베딩 요약](https://medium.com/watcha/%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%9A%94%EC%95%BD-bc2732048999)
 * [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
 * [기계는 사람의 말을 어떻게 이해할까? 워드 임베딩(Word Embedding)](https://blog.naver.com/saltluxmarketing/221607368769)
 * [기초적이지만 꽤 재미있는 word embedding 놀이](https://inforience.net/2019/10/05/word-embedding-for-fun/)
