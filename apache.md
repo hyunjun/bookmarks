@@ -514,6 +514,8 @@ Apache
 * [강의 - 아파치 카프카](https://www.youtube.com/playlist?list=PL3Re5Ri5rZmkY46j6WcJXQYRlDRZSUQ1j)
 * [Streaming the last few minutes from Kafka using Akka Streams](https://medium.com/wbaa/streaming-the-last-few-minutes-from-kafka-using-akka-streams-dfa2ecd1fdbb)
 * [kubernetes, python, kafka 메모](https://sangwook.github.io/2017/08/27/kubernetes-python-kafka.html)
+* [Using graph algorithms to optimize Kafka operations, Part 1](https://medium.com/pinterest-engineering/using-graph-algorithms-to-optimize-kafka-operations-part-1-abbabd606a25)
+* [Using graph algorithms to optimize Kafka operations, Part 2](https://medium.com/@Pinterest_Engineering/using-graph-algorithms-to-optimize-kafka-operations-part-2-c970d9c08c7d)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
