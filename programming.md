@@ -1208,6 +1208,7 @@ Programming
 * [커스텀푸시(리치 노티피케이션) / 푸시알림 전달 여부 고속 트래킹](https://rationalowl.tistory.com/20)
 * [**최신 메시지 큐(Messgae Queue) MQ 기술**](https://kji6252.github.io/2015/12/18/message-quere/)
 * [Reviewing Messaging in Distributed System Architectures](https://levelup.gitconnected.com/reviewing-messaging-in-distributed-system-architectures-6cf2fd7b8b4e)
+* [THE OPENMESSAGING BENCHMARK FRAMEWORK](http://openmessaging.cloud/docs/benchmarks/)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
@@ -1490,6 +1491,8 @@ Programming
   * [1월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/01/b-1-3.html)
   * [1월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/01/b-1-4.html)
   * [1월 5주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/02/b-1-5.html)
+  * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/02/b-2-1.html)
+  * [2월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/02/b-2-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1560,6 +1563,7 @@ Programming
   * [기술 뉴스 #141 : 20-01-02](https://blog.outsider.ne.kr/1473)
   * [기술 뉴스 #142 : 20-01-15](https://blog.outsider.ne.kr/1475)
   * [기술 뉴스 #143 : 20-02-03](https://blog.outsider.ne.kr/1476)
+  * [기술 뉴스 #144 : 20-02-15](https://blog.outsider.ne.kr/1477)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
