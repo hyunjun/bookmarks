@@ -236,6 +236,8 @@ PyTorch
   * 음성을 STFT 변환하여 Phase를 도메인으로 사용할 경우 복소수가 필요
 * [Deep Q-Learning with Pytorch](https://github.com/AndersonJo/dqn-pytorch)
   * [LSTM DQN for Snake](https://www.youtube.com/watch?v=cBxXIII4qRM)
+* [DeepSpeed - a deep learning optimization library that makes distributed training easy, efficient, and effective](https://github.com/microsoft/DeepSpeed)
+  * [‘파이토치 속도 극대화’·· MS, 최적화 라이브러리 공개](http://www.ciokorea.com/news/143556)
 * [Delve lets you monitor PyTorch model layer saturation during training](https://pypi.org/project/delve/)
   * [Optimizing Deep Neural Networking with Delve - Justin Shenk](https://www.youtube.com/watch?v=kFT58uIRd1Q)
 * [DeOldify - A Deep Learning based project for colorizing and restoring old images (and video!)](https://github.com/jantic/DeOldify)
