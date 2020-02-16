@@ -341,6 +341,7 @@ R
 * [How to Remove Outliers in R](https://www.r-bloggers.com/how-to-remove-outliers-in-r/)
 * [Data manipulation in R](https://www.r-bloggers.com/data-manipulation-in-r-2/)
 * [최대우도법 1. (Maximum Likelihood Estimation)](https://www.youtube.com/watch?v=KefmJvzvcjM)
+* [Loops! Loops! Loops in R. A Microbenchmark](https://www.r-bloggers.com/loops-loops-loops-in-r-a-microbenchmark/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
