@@ -145,6 +145,7 @@ Android
 * [ViewBinding의 작은 변화](http://pluu.github.io/blog/android/2020/01/19/viewbinding/)
 * [Android 상태 저장의 기본에서 Savedstate까지](http://pluu.github.io/blog/android/2020/02/10/saved-state/)
 * [안드로이드 카메라 스티커 예제](https://brunch.co.kr/@mystoryg/111)
+* [SavedState is Default](http://pluu.github.io/blog/android/2020/02/15/diff-androidx-lifecycle/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
