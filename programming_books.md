@@ -1008,6 +1008,7 @@ Programming Books
 * (NOT YET) [실전 리액트 프로그래밍](https://medium.com/@ljs0705/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%B1%85%EC%9D%84-%EC%8D%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-b227ab9df8b8)
   * [실전 리액트 프로그래밍](http://ebook.insightbook.co.kr/book/68)
 * (NOT YET) [스무디 한 잔 마시며 끝내는 React Native](https://bjpublic.tistory.com/343)
+* (NOT YET) [파이썬과 리액트를 활용한 주식 자동거래 시스템 구축 데이터 수집부터 거래 자동화, API 서버, 웹 개발, 데이터 분석까지 아우르는](https://wikibook.co.kr/stock-trading/)
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
