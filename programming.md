@@ -384,6 +384,7 @@ Programming
   * [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
   * [CQRS](https://leanpub.com/cqrs/read_full)
   * [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
+  * [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -1093,6 +1094,7 @@ Programming
 * [The Architecture of a Large-Scale Web Search Engine, circa 2019 - Our Journey to Microservices, Kubernetes and beyond](https://www.0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
   * Cliqz, makers of a web search engine, have a comprehensive post on their architecture. Their near real-time indexing system is built with Apache Kafka, Apache Cassandra, and RocksDB while their batch indexing system is built on MapReduce and Spark with Luigi for managing workflows. The post also describes how they manage Kubernetes clusters, use Helm/Helmfile for package management, and leverage Tilt and K9s for local development. They also share on how they optimize costs and describe their machine learning pipelines.
 * [Scaling a Mature Data Pipeline — Managing Overhead](https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866)
+* [Data pipeline and data lake](https://www.slideshare.net/charsyam2/data-pipeline-and-data-lake)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
