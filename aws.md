@@ -594,6 +594,7 @@ AWS
 * [AWS Lambda를 시작하기 전 알았으면 좋았을것들](https://medium.com/@herryhan2435/aws-lambda%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84%EA%B2%83%EB%93%A4-788bd3b3bdd2)
 * [Lambda@Edge를 활용한 이미지 리사이즈 자동화](https://blog.wisen.co.kr/?p=7258)
 * [AWS Lambda@Edge에서 실시간 이미지 리사이즈 & WebP 형식으로 변환](https://medium.com/daangn/lambda-edge%EB%A1%9C-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-on-the-fly-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-f4e5052d49f3)
+* [이미지 최적화를 위한 WebP 포맷 적용 이야기](https://tech.lezhin.com/2020/02/16/webp-resizing)
 * [Serverless Hands-on Labs](https://github.com/awskrug/handson-labs-2018/tree/master/Serverless)
 * [서버리스에 대해서 알아보자 1차 (이론편)](https://www.slideshare.net/ssuser67b08e/1-105126600)
 * [서버리스 어플리케이션 최적화 해보기](https://github.com/jmyung/jmyung.github.io/blob/master/_posts/2018-12-20-optimizing-serverless.md)
