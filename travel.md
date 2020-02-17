@@ -219,6 +219,7 @@ Travel
 * [발리여행 팁! 팁! - 발리의 병원](http://www.clubbali.co.kr/new/community/localnews.php?&s_gubun=&search=&keyword=&bact=view&page=1&no=9375&PHPSESSID=ff74efca6f1f5d7f0115e6360d692d3e)
 * [발리 kuda 와 ubud에 소아과 위치 좀 알려주세요~](http://balisurf.net/article/?/bali_qa/160/12605)
 * [발리에서 한달살기 Ep.2 숙소편](https://brunch.co.kr/@volo/435)
+* [My First Glimpses of Bali, An Island for Everyone](https://medium.com/@guptapranky/my-first-glimpses-of-bali-an-island-for-everyone-and-some-essential-travel-tips-c18c300cdb54)
 
 ## Japan
 * [카페 도쿄](http://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
