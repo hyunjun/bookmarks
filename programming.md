@@ -1074,6 +1074,7 @@ Programming
 * [How to setup continuous integration (CI) with React, CircleCI, and GitHub](https://medium.freecodecamp.org/how-to-setup-continuous-integration-ci-with-react-circleci-and-github-e0efd5040b03)
 * [The Guide to Cloudbase App Automation with Jim Rose of CircleCI](https://hackernoon.com/the-guide-to-cloudbase-app-automation-with-jim-rose-of-circleci-5afa8e86bee6)
 * [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
+* [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
