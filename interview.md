@@ -223,6 +223,7 @@ Interview
 * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 * [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com ](https://github.com/binhnguyennus/awesome-scalability)
 * [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
+  * [번역 10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
 * [Watch this before your System design interview!!](https://www.youtube.com/watch?v=pWO07iEpjO4)
 * [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/) 제목은 Azure가 들어갔지만 일반적인 경우로 봐도 됨
 * Introduction
