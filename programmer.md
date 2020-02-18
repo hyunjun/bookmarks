@@ -35,3 +35,5 @@ Programmer
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
+* [Amazon을 이끄는 기술 구루 – Distinguished Engineers](http://channy.creation.net/blog/1270)
+* [‘Go to guy’: 회사에서 가장 인정 받는 인재](http://www.andrewahn.co/silicon-valley/go-to-guy/)
