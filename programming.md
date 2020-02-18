@@ -275,6 +275,7 @@ Programming
 * [산드로 만쿠소, “소프트웨어 장인정신이란…”](http://www.bloter.net/archives/251535) 소프트웨어 장인
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-1편/)
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-2편/)
+* [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-3편/) NGINX
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -886,6 +887,7 @@ Programming
 * [Clean Code: The Next Chapter by Victor Rentea](https://www.youtube.com/watch?v=wY_CUkU1zfw) 실제 코드로 presentation
 * [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
+* [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
