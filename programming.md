@@ -1635,6 +1635,7 @@ Programming
 * [Reactive Architecture: Introduction to Reactive Systems 코스 소개](http://kwangshin.pe.kr/blog/2018/08/18/reactive-architecture-introduction-to-reactive-systems-free-course/)
 * [An Introduction to Reactive Streams](https://medium.com/@teivah/an-introduction-to-reactive-streams-fad58e21c795)
 * [**The introduction to Reactive Programming you've been missing**](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* [**Armeria로 Reactive Streams와 놀자! – 1**](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-1/)
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
