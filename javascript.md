@@ -2306,6 +2306,7 @@ Javascript
   * [Gatsby Tutorials - a community-updated list of 214 video, audio and written tutorials to help you learn GatsbyJS](https://www.gatsbytutorials.com)
   * [Gatsby와 Contentful 연동하기](https://imch.dev/posts/integration-gatsby-with-contentful)
   * [gatsby starter bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
+  * [**블로그 제작기**](https://ailrun.github.io/ko/post/trip-to-make-a-blog/) 직접적인 개발글은 아니지만 좋음
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
