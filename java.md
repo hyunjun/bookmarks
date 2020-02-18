@@ -1047,6 +1047,7 @@ Java
 * [Venkat Subramaniam — Reactive Programming: creating highly responsive applications](https://www.youtube.com/watch?v=eDpChpuZfGA)
 * [Venkat Subramaniam - From Functional to Reactive Programming](https://www.youtube.com/watch?v=eaJVeVV6Ky0)
 * [Java Streams vs Reactive Streams: Which, When, How, and Why? by Venkat Subramaniam](https://www.youtube.com/watch?v=kG2SEcl1aMM)
+* [**배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다**](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html) Spring WebFlux, 설계, 테스트, 모니터링
 * [Reactive Streams](http://www.reactive-streams.org/)
 * [Reactor - a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
