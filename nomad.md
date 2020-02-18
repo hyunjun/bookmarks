@@ -63,6 +63,7 @@ Nomad & Remote
 * [Before Seeking Success As A Digital Nomad Build Your Business At Home](https://www.forbes.com/sites/kellyhoey/2018/10/04/before-seeking-success-as-a-digital-nomad-build-your-business-at-home/#5acb15c87604)
 * [그 개발자 이야기](https://www.youtube.com/playlist?list=PLW6vRth7cf-N29mn-7VK29hFYAqve20v7)
   * 해외에 거주하는 여러 개발자 인터뷰
+* [4 Ways To Make Strong Connections As A Remote Worker](https://blog.trello.com/remote-work-connections)
 
 # Asia
 * [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
