@@ -322,6 +322,7 @@ Programming
 * [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques)
 * [Common Mistakes in Agile Implementations](https://medium.com/not-so-technical/common-mistakes-in-agile-implementations-21a6d999bc91)
 * [당신의 개발자들은 결코 느리지 않다](http://tech.trenbe.com/?p=547)
+* [폭포수모델 vs 애자일 실무에서는?](https://www.slideshare.net/ddayinhwang9/vs-228227902)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
