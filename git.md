@@ -255,6 +255,7 @@ Git
   * [Git 커밋 상태를 확인하기 위한 쉘 스크립트](https://rhostem.github.io/posts/2018-06-12-shellscript-to-check-commit/)
   * [Changing a commit message](https://help.github.com/articles/changing-a-commit-message/)
   * [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+  * [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
   * [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)
 * `config`
