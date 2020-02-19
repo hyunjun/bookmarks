@@ -177,6 +177,7 @@ Java
 * Object
   * [Why java.lang.Object is not abstract?](http://stackoverflow.com/questions/2117689/why-java-lang-object-is-not-abstract)
   * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)
+  * [java deepequals 메서드 정말 깊게 비교한다](https://codingdog.tistory.com/entry/java-deepequals-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%95%EB%A7%90-%EA%B9%8A%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%9C%EB%8B%A4)
 * Random
   * [Java에서 랜덤 함수를 이용해 난수 얻기](https://developer88.tistory.com/183)
 * sun.misc.Unsafe
