@@ -56,7 +56,6 @@ Go
 * [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
 * [Using Go at The New York Times](https://www.youtube.com/watch?v=bAQ9ShmXYLY)
 * [Four Days of Go](http://www.evanmiller.org/four-days-of-go.html)
-* [Introducing a cross-platform debugger for Go](http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/)
 * [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 * [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 * [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
@@ -75,7 +74,6 @@ Go
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
 * [Ten Useful Techniques in Go](http://arslan.io/ten-useful-techniques-in-go)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
-* [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
 * [Blazingly fast Reed-Solomon Coding](http://blog.klauspost.com/blazingly-fast-reed-solomon-coding/)
 * [Image processing with Go](http://www.esdrasbeleza.com/2015/04/27/image-processing-with-go/)
 * [The Golang UK Conference](http://www.golanguk.com/)
@@ -102,7 +100,6 @@ Go
 * [SSH tunneling in Golang](http://blog.ralch.com/tutorial/golang-ssh-tunneling/)
 * [Quick and dirty annotations for Go stack traces](https://blog.cloudflare.com/quick-and-dirty-annotations-for-go-stack-traces/)
 * [Building Resilient Services with Go – Tech Talk](http://blog.fogcreek.com/building-resilient-services-with-go-tech-talk/)
-* [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
 * [DNS parser, meet Go fuzzer](https://blog.cloudflare.com/dns-parser-meet-go-fuzzer/)
 * [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 * [Performance without the event loop](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
@@ -297,6 +294,12 @@ Go
 * [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
 * [Production Go](https://leanpub.com/productiongo/read_full)
 
+# Debug
+* [Introducing a cross-platform debugger for Go](http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/)
+* [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
+* [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
+* [**컨테이너 내부 Go 애플리케이션 디버깅하기**](https://mingrammer.com/debugging-containerized-go-app/)
+*
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 * [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
