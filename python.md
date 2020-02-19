@@ -2957,6 +2957,7 @@ Python
   * [가상환경 virtualenv(1)](https://woolbro.tistory.com/25)
   * [가상환경 virtualenv(2) - 실행/설치/관리](https://woolbro.tistory.com/26)
   * [가상환경 virtualenv(3) - 설치 패키지 사용하기](https://woolbro.tistory.com/27)
+  * [How to use Python virtualenv](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/)
 
 ## Library TUI text user interface
 * curses
