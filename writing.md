@@ -82,3 +82,4 @@ Writing
 * [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
 * [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/)
 * [API Improvement Proposals](https://aip.dev)
+* [실전 Digital Tranformation 아이디어 공유](https://www.popit.kr/%EC%8B%A4%EC%A0%84-digital-tranformation-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B3%B5%EC%9C%A0/)
