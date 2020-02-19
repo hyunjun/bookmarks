@@ -307,6 +307,9 @@ Programming Language
 * [None - The Best Programming Language is None](https://bitbucket.org/duangle/none/overview)
 * [Orange](http://orange-lang.org/)
 * [Parsley](https://github.com/fizx/parsley/wiki)
+* Pascal
+  * [Remote Control](https://github.com/ryujt/remote-control)
+    * [오픈소스 PC 원격제어](https://ryulib.tistory.com/469)
 * Perl
   * [Perl::Koans](https://github.com/forcedotcom/PerlKoans)
   * [Statusuebersicht Perl VMs](https://dresden-pm.github.io/gpw2015/html/talks/VmStatus.html)
