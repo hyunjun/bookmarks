@@ -260,6 +260,7 @@ Java
 * [Thousands of Threads and Blocking I/O - The old way to write Java Servers is New again](https://www.mailinator.com/tymaPaulMultithreaded.pdf)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 * [Java 동기화의 이해(synchronized, wait, notify, notifyAll)](http://gladtosee.tistory.com/191)
+* [java synchronized:락이 어느 단위로 걸리는가?](https://codingdog.tistory.com/entry/java-synchronized-락이-어느-단위로-걸리는가)
 * [5 Ways to debug Java thread-safety issues](https://www.java-success.com/debugging-java-thread-safety-multi-threading-concurrency-issues/)
 * [11: 10+ ♥♦ Advanced Java interview questions & answers on multithreading scenarios](https://www.java-success.com/advanced-java-interview-questions-answers-to-judge-experience/)
 * [ThreadLocal과 ThreadPool](https://tmondev.blog.me/221212500642)
