@@ -52,6 +52,7 @@
   * [Kotlin Lazy Initialization](https://medium.com/@joongwon/kotlin-kotlin-lazy-initialization-901079296e43)
 * [Your first Firefox (Web)extension in Kotlin](https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915)
 * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
+* [코틀린(Kotlin) data class를 JPA에서 사용시 주의할 점](https://anomie7.tistory.com/64)
 * [Writing Java-friendly Kotlin code](https://android.jlelse.eu/writing-java-friendly-kotlin-code-c408b24fb4e)
 * [brunch.co.kr/@mystoryg](https://brunch.co.kr/@mystoryg/12)
   * [클래스 상속](https://brunch.co.kr/@mystoryg/12)
