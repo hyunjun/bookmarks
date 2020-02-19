@@ -129,6 +129,7 @@ Git
 * [**GithubAction+React+AWS S3**](https://velog.io/@loakick/series/GithubActionReactAWS-S3)
 * [Accelerating new GitHub Actions workflows https://github.com/features/actions ](https://github.com/actions/starter-workflows)
 * [**GitHub Actions로 간단히 CI 서버 대신하기**](https://huns.me/posts/2019-12-05-33)
+* [.NET Core 콘솔 앱으로 커스텀 GitHub Action 만들기](https://blog.aliencube.org/ko/2020/02/19/building-custom-github-action-with-dotnet-core/)
 * [주요 깃 서비스 비교](https://www.youtube.com/watch?v=a6h22u5r67M)
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
 * [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
