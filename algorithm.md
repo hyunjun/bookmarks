@@ -179,6 +179,7 @@ Algorithm
   * [Best Posts of 2019](https://leetcode.com/discuss/general-discussion/459286/best-posts-of-2019)
 * [프로그래머스 가장 큰 수 : 수 2개만 고려해 봅시다](https://codingdog.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%88%98-2%EA%B0%9C%EB%A7%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
+* [Odd numbers in Pascal’s triangle](https://www.johndcook.com/blog/2020/02/04/odd-numbers-in-pascals-triangle/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
