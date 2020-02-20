@@ -732,6 +732,7 @@ Docker
 * [다시 정리하는 쿠버네티스 : 컴포넌트 개념 #1](https://jybaek.tistory.com/860)
 * [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
 * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+* [쿠버네티스로 P2P 게임 테스트하기](https://snack.planetarium.dev/kor/2020/02/k8s-1/)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
