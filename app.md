@@ -397,6 +397,7 @@ App
     * [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
     * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
     * [VScode Extension - 확장프로그램 추천 및 설치방법](https://mishka86.github.io/2019/06/24/vscode-extension)
+    * [vscode 강좌 1편 vscode설치와 유용한 extension설치](https://www.youtube.com/watch?v=Xs5aM9FYuic)
     * [Free/Libre Open Source Software Binaries of VSCode](https://vscodium.com/)
     * [How to run Visual Studio Code in Google Cloud Shell](https://medium.com/google-cloud/how-to-run-visual-studio-code-in-google-cloud-shell-354d125d5748)
     * remote
