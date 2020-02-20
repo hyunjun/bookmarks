@@ -1140,6 +1140,7 @@ Programming Books
 * (NOT YET) [한국어 임베딩 자연어 처리 모델의 성능을 높이는 핵심 비결 Word2Vec에서 ELMo, BERT까지](http://acornpub.co.kr/book/korean-embedding)
 * (NOT YET) [파이썬으로 배우는 응용 텍스트 분석](https://jpub.tistory.com/976) 사이킷런, NLTK, Gensim, spaCy, NetworkX, Yellowbrick
 * (NOT YET) [파이썬으로 다시 배우는 핵심 고등 수학 - 수포자 프로그래머를 위한 손에 잡히는 기초 수학](https://wikibook.co.kr/python-math/)
+* (NOT YET) [파이썬으로 배우는 자연어 처리 인 액션](https://jpub.tistory.com/1008)
 
 # NoSQL
 
