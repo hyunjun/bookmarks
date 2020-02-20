@@ -2240,6 +2240,7 @@ CVPR2016)
   * [SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture](https://github.com/google-research/seed_rl)
 * [Reinforcement Learning: Past, Present and Future Perspectives](https://www.notion.so/Reinforcement-Learning-Past-Present-and-Future-Perspectives-fcde7f7eee34416a8bc849911d912a41)
 * [강화학습을 공부하는 분들에게 도움이 되는 Gym Gazebo 설정하기](https://pinkwink.kr/1269)
+* [RLlib: Scalable Reinforcement Learning](https://ray.readthedocs.io/en/latest/rllib.html)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
