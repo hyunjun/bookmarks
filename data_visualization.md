@@ -230,6 +230,7 @@ Data Visualization
 * [**데이터 시각화**](https://dailyheumsi.tistory.com/category/%EB%B0%B0%EC%9A%B4%EA%B1%B0%20%EC%A0%81%EC%96%B4%EB%86%93%EA%B8%B0/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94)
 * [이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [파이썬 시계열 데이터 시각화 1/4 - 항공 수송 인원 데이터를 다양한 형태의 그래프로 표현하기](https://www.youtube.com/watch?v=SXW3PRhkll8)
+* [Python and the Tell-Tale Heart](https://www.johndcook.com/blog/2020/02/17/python-heartbeat/)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * Bokeh
