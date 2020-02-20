@@ -366,6 +366,7 @@ AWS
   * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.youtube.com/watch?v=9Zd1j0z4zS0)
 * [Packer와 Ansible을 이용한 표준 AMI 만들기](http://woowabros.github.io/experience/2019/04/20/ami-packer-ansible.html)
 * [AMI를 다른 리전으로 복사](https://jybaek.tistory.com/824)
+* [AWS EC2 리눅스 AMI에 아파치(apache) 서버](https://losskatsu.github.io/it-infra/aws-apache/)
 * [An error occurred (InvalidParameter) when calling the ExportImage operation: The service role vmimport provided does not exist or does not have sufficient permissions](https://jybaek.tistory.com/836)
 
 # Athena
