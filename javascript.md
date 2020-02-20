@@ -533,11 +533,13 @@ Javascript
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news [2020-02](https://github.com/naver/fe-news/blob/master/issues/2020-02.md)
+* [**Illustrated explanations of web development, technology & a little bit of anthropology**](https://illustrated.dev/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
 * [JavaScript Module Cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
 * [11+ JavaScript Features You’ve Probably Never Used](https://blog.bitsrc.io/features-of-javascript-you-probably-never-used-4c117ba3f025)
+* [자바스크립트는 무엇으로 구성되어있을까?](https://ui.toast.com/weekly-pick/ko_20200219/)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
