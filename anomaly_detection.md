@@ -44,6 +44,7 @@ Anomaly Detection
 * [보안 모니터링을 위한 머신러닝 알고리즘 적용기](https://engineering.linecorp.com/ko/blog/machine-learning-for-security-monitoring/)
 * [Introduction to Deep Anomaly Detection](https://kh-kim.github.io/blog/2019/12/12/Deep-Anomaly-Detection.html)
 * [“Anomaly Detection 개요： (1) 이상치 탐지 분야에 대한 소개 및 주요 문제와 핵심 용어, 산업 현장 적용 사례 정리”](http://research.sualab.com/introduction/review/2020/01/30/anomaly-detection-overview-1.html)
+* [Anomaly Detection 개요： (2) Out-of-distribution(OOD) Detection 문제 소개 및 핵심 논문 리뷰](http://research.sualab.com/introduction/review/2020/02/20/anomaly-detection-overview-2.html)
 
 # Book
 * [엘라스틱서치로 알아보는 이상징후 분석: Data Anomaly Detection](https://play.google.com/store/books/details/강명훈_엘라스틱서치로_알아보는_이상징후_분석?id=eqjDDwAAQBAJ)
