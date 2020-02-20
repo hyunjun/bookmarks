@@ -516,6 +516,7 @@ Apache
 * [kubernetes, python, kafka 메모](https://sangwook.github.io/2017/08/27/kubernetes-python-kafka.html)
 * [Using graph algorithms to optimize Kafka operations, Part 1](https://medium.com/pinterest-engineering/using-graph-algorithms-to-optimize-kafka-operations-part-1-abbabd606a25)
 * [Using graph algorithms to optimize Kafka operations, Part 2](https://medium.com/@Pinterest_Engineering/using-graph-algorithms-to-optimize-kafka-operations-part-2-c970d9c08c7d)
+* [Apache Kafka as a Service with Confluent Cloud Now Available on Azure Marketplace](https://www.confluent.io/blog/confluent-cloud-managed-kafka-service-azure-marketplace/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
