@@ -232,3 +232,4 @@
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
+* [UML: 클래스 다이어그램과 소스코드 매핑](http://www.nextree.co.kr/p6753/)
