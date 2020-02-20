@@ -282,6 +282,7 @@ Python
 * [PublicDataReader - 미세먼지 데이터 수집하기](https://wooiljeong.github.io/python/public_data_reader_02/)
 * [Python Slack 봇 개발 및 CI 연동 삽질기](https://qodot.github.io/Python-Slack-%EB%B4%87-%EA%B0%9C%EB%B0%9C-%EB%B0%8F-CI-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0.html)
 * [slack api 연동](http://blog.naver.com/pjt3591oo/221090833195)
+* [Facebook API 포스팅 가져오기 #1 API 사용](http://triviaz.net/dokuwiki/doku.php?id=weblog%3Afacebook_api_%ED%8F%AC%EC%8A%A4%ED%8C%85_%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0_1_api%EC%82%AC%EC%9A%A9)
 * [Python and Slack: A Natural Match](https://towardsdatascience.com/python-and-slack-a-natural-match-60b136883d4d)
 * [10가지 팔로우 할만한 파이썬 기술 블로그](http://junolab.tistory.com/43)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
@@ -683,6 +684,7 @@ Python
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
+    * [Scaling and memoization](https://www.johndcook.com/blog/2020/02/16/scaling-and-memoization/)
   * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
 * gc
   * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
