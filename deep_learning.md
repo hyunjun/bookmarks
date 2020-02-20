@@ -1081,6 +1081,7 @@ Deep Learning
 * [GAN(Generative Adversarial Network) Tour](https://github.com/jason9693/GAN)
 * [번역 From GAN to WGAN](https://github.com/yjucho1/articles/blob/master/fromGANtoWGAN/readme.md)
 * [TL-GAN: transparent latent-space GAN This is the repository of my three-week project: "Draw as you can tell: controlled image synthesis and edit using TL-GAN"](https://github.com/SummitKwan/transparent_latent_gan)
+* [Simple Latent Space](https://sihan-son.github.io/latent-space/)
 * [Introduction to generative adversarial network](https://opensource.com/article/19/4/introduction-generative-adversarial-networks)
 * [Paper Review; GAN for noise reduction in low dose CT](https://www.slideshare.net/JiminLee36/paper-review-gan-for-noise-reduction-in-low-dose-ct)
 * [Efficient, Simplistic Training Pipelines for GANs in the Cloud with Paperspace](https://medium.com/@ODSC/efficient-simplistic-training-pipelines-for-gans-in-the-cloud-with-paperspace-d6cfbc33b7c3)
