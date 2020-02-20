@@ -413,7 +413,9 @@ Git
     ```
     * [The refs/for namespace](https://gerrit-review.googlesource.com/Documentation/concept-refs-for-namespace.html)
     * [The Dark Side of the Force Push](https://willi.am/blog/2014/08/12/the-dark-side-of-the-force-push/)
-  * `git pull --rebase origin master` master에서 branch A, B를 각각 만들고 예를 들어 A branch가 먼저 merge해서 B에서 A branch의 master 변경 사항을 합쳐야 할 경우
+  * `git pull --rebase origin master`
+    * master에서 branch A, B를 각각 만들고 예를 들어 A branch가 먼저 merge해서 B에서 A branch의 master 변경 사항을 합쳐야 할 경우
+    * rebase하고 난 후 remote/B와는 git history가 달라서 git push -f로 remote에 넣어줘야 했음
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [git에서 특정 commit에 들어간 수정 파일을 다른 commit으로 옮기는 방법](http://blog.doortts.com/285)
   * [Git rebase를 이용한 커밋 수정 (Interactive Rebase)](https://wckhg89.github.io/archivers/rebase)
