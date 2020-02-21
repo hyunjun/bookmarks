@@ -555,6 +555,7 @@ NLP
 * [인공지능 챗봇과 딥러닝 자연어 처리](https://github.com/elymas/ai_chatbot_class)
 * [Not another Conversational AI report](https://medium.com/wluper/not-another-conversational-ai-report-4a094337e6f1)
 * [How do Dialogue Systems decide what to say or which actions to take?](https://medium.com/wluper/how-do-dialogue-systems-decide-what-to-say-or-which-actions-to-take-b32ca223aff1)
+* [구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
 
 ## Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
