@@ -623,6 +623,7 @@ Scala
     * [Part 4](https://blog.knoldus.com/back2basics-the-story-of-trait-part-4/)
   * [Back2Basics: Limit which classes a Trait can be mixed into!](https://blog.knoldus.com/back2basics-limit-which-classes-a-trait-can-be-mixed-into/)
   * [Guide to Trait Linearisation in Scala](https://medium.com/@shayan1337/guide-to-trait-linearisation-in-scala-60611571e088)
+  * [Scala cake pattern Be simple, look stylish](https://medium.com/rahasak/scala-cake-pattern-e0cd894dae4e) class에 ~Impl을 붙이는 예
 * tuple
   * [Scala Tuples – Syntax, Declaration, Use case, Examples](https://leobenkel.com/2019/10/scala-tuples/)
 * unapply
