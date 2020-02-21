@@ -1011,6 +1011,7 @@ Java
 * [Querydsl Case When 사용하기](https://jojoldu.tistory.com/401)
 * [Spring Batch와 QuerydslItemReader](https://jojoldu.tistory.com/473)
 * [Spring Batch와 Querydsl](http://woowabros.github.io/experience/2020/02/05/springbatch-querydsl.html)
+* [Querydsl 에서 Group by 최적화하기 (feat. MySQL)](https://jojoldu.tistory.com/477)
 * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
 * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
 * [스프링부트로 쇼핑몰 만들기 - 3주차](https://jojoldu.tistory.com/393)
