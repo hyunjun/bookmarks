@@ -222,6 +222,7 @@ Scala
 * [Easy Scala Publication](https://gist.github.com/djspiewak/2359e5d742cd0d7161cf3422e36fcaf3)
 * [Christmas Story written in Scala](https://medium.com/@wiemzin/christmas-story-written-in-scala-abd0170300b2)
 * [**Geo-GraphQL with ElasticSearch**](https://medium.com/building-rigup/geo-graphql-with-elasticsearch-b01a6bdf0dc8)
+* [Elasticsearch Geo-point queries with Elassandra and Scala](https://medium.com/rahasak/elasticsearch-geo-point-queries-with-scala-d5b9413cbd14)
 * [Beyond Liskov: Type Safe Equality in Scala](http://www.lihaoyi.com/post/BeyondLiskovTypeSafeEqualityinScala.html)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 * [A real life example of isomorphisms in Scala: POST request](https://medium.com/@supermanue/a-real-life-example-of-isomorphisms-in-scala-post-request-7a8252284d0d)
@@ -243,6 +244,7 @@ Scala
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://github.com/guersam/kcd2019)
 * [Identify Side Effects And Refactor Fearlessly](http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fearlessly/)
 * [Building Serverless Scala Services with GraalVM](https://www.inner-product.com/posts/serverless-scala-services-with-graalvm/)
+* [Deploying a full stack Scala application on Heroku](https://medium.com/@antoine.doeraene/deploying-a-full-stack-scala-application-on-heroku-6d8093a913b3)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -354,6 +356,7 @@ Scala
 * [Tour of Akka Typed: Cluster Sharding](https://manuel.bernhardt.io/2019/11/09/tour-of-akka-typed-cluster-sharding/)
 * [Tour of Akka Typed: Cluster Singleton and Routers](https://manuel.bernhardt.io/2019/12/03/tour-of-akka-typed-cluster-singleton-and-routers/)
 * [Tour of Akka Typed: Message Adapters, Ask Pattern and Actor Discovery](https://manuel.bernhardt.io/2019/08/07/tour-of-akka-typed-message-adapters-ask-pattern-and-actor-discovery/)
+* [Using Dotty Union types with Akka Typed](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed/)
 * [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
 * [Event Sourcing with Akka 2.6 video](https://akka.io/blog/news/2020/01/07/akka-event-sourcing-video)
 * [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
@@ -593,6 +596,8 @@ Scala
     * [5 (more) pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-more-pitfalls-to-avoid-when-starting-to-work-with-zio-d0cdd44fa439)
     * [Building a Super Easy Rate Limiter with ZIO](https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776)
     * [Make your own IO with context-scoped data on top of ZIO](https://medium.com/wix-engineering/make-your-own-io-with-context-scoped-data-on-top-of-zio-c1f3ad1f3d83)
+    * [Creating a dead simple CountDownLatch with ZIO](https://medium.com/wix-engineering/creating-a-dead-simple-countdownlatch-with-zio-c4212ecf9198)
+    * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
     * ZIO STM [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
@@ -1145,6 +1150,7 @@ Scala
 * [TMWL November’19 — ScalaTest, Medusa, PW-Sat2 cubesat](https://blog.softwaremill.com/tmwl-november19-scalatest-medusa-pw-sat2-cubesat-85ab140244b5)
 * [Write your own micro BDD test framework in one day](https://blog.softwaremill.com/write-your-own-micro-bdd-test-framework-in-one-day-e8f0c21c8093)
 * [Fixtures in Scala — three simple ways to reduce your test code boilerplate](https://blog.softwaremill.com/fixtures-in-scala-three-simple-ways-to-reduce-your-test-boilerplate-5eb60ffe883)
+* [Testing APIs using Functional Programming in Scala](https://medium.com/seek-blog/testing-with-functional-programming-in-scala-bb26bd4d4b42)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
@@ -1284,6 +1290,7 @@ Scala
 * [My Way to Scala — part 1](https://blog.softwaremill.com/my-way-to-scala-part-1-6765b55ad68a)
 * [Tic-tac-toe in FP Scala](https://medium.com/wix-engineering/tic-tac-toe-in-fp-scala-29b9162ebc3e)
 * [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
+* [About Variance](https://francistoth.github.io/2020/02/12/variance.html)
 * [**The Evolution of a Scala Programmer**](https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f)
 * [simulacrum - First class syntax support for type classes in Scala](https://github.com/typelevel/simulacrum)
 * [자바 개발자를 위한 Scala](https://medium.com/@kimkare/자바-개발자를-위한-scala-f4485e5265ba)
