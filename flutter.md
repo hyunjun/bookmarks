@@ -49,6 +49,7 @@ Flutter
 * [A Quick Look into Flutter for Web](https://www.alibabacloud.com/blog/a-quick-look-into-flutter-for-web_595510)
 * [Flutter로 안드로이드, IOS 그리고 Web까지??!!!](https://www.youtube.com/watch?v=s1RhD4zBVG4)
 * [What is Flutter and Why You Should Learn it in 2020](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
+* [플러터(Flutter) 개발 환경 구축](https://brunch.co.kr/@mystoryg/114)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
