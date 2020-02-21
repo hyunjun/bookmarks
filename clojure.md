@@ -655,6 +655,7 @@ Clojure
   * [Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
   * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
 * [malli - Plain data Schemas for Clojure/Script](https://github.com/metosin/malli)
+* [mamulengo - Lightweight database based on datascript with durable store and time travel for Clojure(Script)](https://github.com/wandersoncferreira/mamulengo)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
