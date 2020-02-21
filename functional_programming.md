@@ -45,11 +45,6 @@ Functional Programming
 * [함수형 프로그래밍(Functional Programming) 기초](http://kwangshin.pe.kr/blog/2013/01/21/%EB%B2%88%EC%97%AD-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Dfunctional-programming-%EA%B8%B0%EC%B4%88/)
 * [함수형 프로그래밍 두번째 이야기: 왜 함수형이라고 부를까?](http://kwangshin.pe.kr/blog/2015/06/18/fp-e2-why-is-it-called-functional/)
 * [번역 함수형 프로그래밍 세번째 이야기: 그럼 지금까지 해오던 것들을 다 바꾸어야 할까?](http://kwangshin.pe.kr/blog/2018/11/25/fp-e3-do-all-the-rules-change/)
-* [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
-* [2015-09 Category Theory in Functional Programming](https://www.youtube.com/watch?v=T5uhoCPV69Y)
-* [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
-* [Applied Category Theory - The Emerging Science of Compositionality](http://lambda-the-ultimate.org/node/5581)
-* [What’s in a Name? The ABC’s of Category Theory and Functional Programming](https://medium.com/@magdastenius/whats-in-a-name-2a7e75bb4faf)
 * [순수 함수와 정직한 설계](http://hhko.tistory.com/entry/%EC%88%9C%EC%88%98-%ED%95%A8%EC%88%98%EC%99%80-%EC%A0%95%EC%A7%81%ED%95%9C-%EC%84%A4%EA%B3%84)
 * [A prettier printer](https://jooyunghan.gitbooks.io/a-prettier-printer-kr/content/chapter1.html)
 * [(번역) A prettier printer — 필립 와들러](https://medium.com/@jooyunghan/%EB%B2%88%EC%97%AD-a-prettier-printer-%ED%95%84%EB%A6%BD-%EC%99%80%EB%93%A4%EB%9F%AC-28650dfb240d)
@@ -118,6 +113,14 @@ Functional Programming
 * [An Outsider's Guide to Statically Typed Functional Programming](https://leanpub.com/outsidefp/read_full)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [스칼라 FP 관련 책들](https://gist.github.com/ikhoon/622605181b33839c95f3dd3df9ff8572)
+
+# Category Theory
+* [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
+* [2015-09 Category Theory in Functional Programming](https://www.youtube.com/watch?v=T5uhoCPV69Y)
+* [Greg Pfeil - Category-parametric Programming](https://www.youtube.com/watch?v=QE3zqV4kVEo)
+* [Applied Category Theory - The Emerging Science of Compositionality](http://lambda-the-ultimate.org/node/5581)
+* [What’s in a Name? The ABC’s of Category Theory and Functional Programming](https://medium.com/@magdastenius/whats-in-a-name-2a7e75bb4faf)
+* [Data Juggling - Part 5 - Curry-Howard-Lambek Correspondence](https://www.youtube.com/watch?v=8l8ZCWgyFrw)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
@@ -330,6 +333,7 @@ Functional Programming
 * [Foundation of functional programming course https://www.fp-tower.com/foundation ](https://github.com/fp-tower/foundation)
 * [Zero-Overhead Tree Processing with the Visitor Pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
 * [**Learn Functional Programming course/tutorial on Scala**](https://github.com/dehun/learn-fp)
+* [My FP Journey](https://zach-albia.github.io/posts/my-fp-journey)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
