@@ -534,6 +534,7 @@ Javascript
 * [타다 웹 프론트엔드의 모든 것](http://engineering.vcnc.co.kr/2020/01/introduce-tada-web-frontend/)
 * naver fe news [2020-02](https://github.com/naver/fe-news/blob/master/issues/2020-02.md)
 * [**Illustrated explanations of web development, technology & a little bit of anthropology**](https://illustrated.dev/)
+* [How to lock an angle when drawing on canvas in JavaScript](https://medium.com/free-code-camp/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
