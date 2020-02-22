@@ -69,6 +69,7 @@ TensorFlow
 * [텐서플로우 트레이닝 데이타 포맷인 \*.tfrecord 파일 읽고 쓰기](http://bcho.tistory.com/1190)
 * [feeding the data to Neural Network (TF) using tfrecords](https://github.com/wjcheon/Tfrecord_example_Tensorflow)
 * [tf record example](https://gist.github.com/MSWon/124e0d3aa22e38b17c347afdcbf5bcc5)
+* [Tensorflow – parse tfrecords, tf.io.VarLenFeature(tf.string), etc](https://keunwoochoi.wordpress.com/2020/02/21/tensorflow-parse-tfrecords-tf-io-varlenfeaturetf-string-etc/)
 * [**Getting Text into Tensorflow with the Dataset API**](https://medium.com/@TalPerry/getting-text-into-tensorflow-with-the-dataset-api-ffb832c8bec6)
   * Tensorflow 의 Dataset API를 이용해서 텍스트 데이터를 가져와 처리하는 방법
   * 이것이 간단해 보이지만, 실제로는 그렇지 않은 것이 이 작업을 위해서는 반구조화된 파일을 읽어와서, numpy 배열로 바꾸고, 이를 다시 TF의 feed dict 예제의 모델로 먹여줘야 하는데, 배치 오버헤드 문제나 파일 구조의 문제 등 의외로 부딪히는 문제들이 많아서 이에 대한 튜토리얼을 쓰기로 결심했다고 함
