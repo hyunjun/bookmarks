@@ -1087,6 +1087,8 @@ Scala
 * [SBT for the absolute beginner 1 (Basics and dependency Management)](https://medium.com/@awesomeorji/sbt-for-the-absolute-beginner-1-basics-and-dependency-management-74098385dda2)
 * [Compiling Scala Faster with GraalVM](https://medium.com/graalvm/compiling-scala-faster-with-graalvm-86c5c0857fa3)
 * [Tidying up your SBT file with Scala](https://medium.com/@supermanue/tidying-up-your-sbt-file-with-scala-f05682a2a2e6)
+* [Monorepo or Multirepo? Role-Based Repositories](https://medium.com/playqtechblog/monorepo-or-multirepo-role-based-repositories-b2e52326c553)
+* `reload` terminal의 sbt와 달리 intelliJ의 sbt shell에서 build.sbt의 --add-export compiler option이 동작하지 않을 때 사용했더니 동작함. 추가 확인 필요
 * [sbt scala version mismatch - sbt에서 사용하는 scala version이 command line의 scala와 맞지 않을 때](https://medium.com/@strncpy/sbt-scala-version-mismatch-4f8260b4e707)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
@@ -1094,7 +1096,6 @@ Scala
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
-* [Monorepo or Multirepo? Role-Based Repositories](https://medium.com/playqtechblog/monorepo-or-multirepo-role-based-repositories-b2e52326c553)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
   
