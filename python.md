@@ -2115,6 +2115,11 @@ Python
 * [**polynote - The polyglot notebook with first-class Scala support**](https://polynote.org)
   * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
   * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
+* [ReviewNB - Code Reviews for Jupyter Notebooks Say Goodbye to messy JSON diffs!](https://www.reviewnb.com/)
+  * 주피터 노트북을 깃헙에 올리고, raw 한 환경에서 리뷰하면 JSON 파일. 따라서, 실질적인 리뷰를 하려면 로컬환경이나 Colab 등에 포팅한 다음 validation 체크를 하고, PR을 처리해 줘야 함
+  * ReviewNB는 깃헙에서 노트북 코드의 리뷰를 실제 노트북이 렌더링 된 상태에서, 직관적으로 할 수 있도록 도와주는 툴
+  * Public 저장소는 개수 상관없이 무료로 무제한 사용 가능
+  * "Install GitHub App" 버튼을 누르시고 Free 버전을 마켓플레이스에서 설치하면 ok. 현재 진행중인 PR에 대해 comment, 과거의 PR을 선택하여 노트북이 사이드-바이-사이드로 렌더링된 상태로 diff 확인 가능
 * [RISE: Live Reveal.js Jupyter/IPython Slideshow Extension](https://anaconda.org/conda-forge/rise)
 * [Rodeo: A data science IDE for Python](http://blog.yhathq.com/posts/introducing-rodeo.html)
   * [Rodeo 1.0: a Python IDE on your Desktop](http://blog.yhathq.com/posts/rodeo-native.html)
