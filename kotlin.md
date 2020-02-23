@@ -133,6 +133,10 @@
 * [JSON parser를 구현해보자](https://www.bsidesoft.com/8151)
 * [JSON to Kotlin Class 플러그인 통해 데이터 클래스 생성하기](https://developer88.tistory.com/239)
 * [데이터 과학을 위한 Kotlin](https://blog.jetbrains.com/kr/2020/01/making-kotlin-ready-for-data-science/)
+* [Design Patterns In Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin)
+  * [번역 Design Pattern In Kotlin — 1. Behavioral](https://medium.com/@hongbeomi/design-pattern-in-kotlin-1-behavioral-7185d0f71aea)
+  * [번역 Design Pattern In Kotlin — 2. Creational](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-2-creational-25a30d3bdeba)
+  * [번역 Design Pattern In Kotlin — 3. Structural](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-3-structural-2e5e007fc0e3)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
