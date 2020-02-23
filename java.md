@@ -922,6 +922,7 @@ Java
 * [Spring에서의 API Logging](https://www.popit.kr/spring%EC%97%90%EC%84%9C%EC%9D%98-api-logging/)
 * [Spring Guide](https://github.com/cheese10yun/spring-guide)
 * [Entity to DTO, DTO to Entity 그리고 ModelMapper](https://dbbymoon.tistory.com/4)
+* [Dto 클래스에서 MultiValueMap로 쉽게 타입 변환하기](https://jojoldu.tistory.com/478)
 * [요령과 기본(Spring)](https://taes-k.github.io/docs/trick_basic)
 * [Spring Camp 2017 1부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_1%EB%B6%80)
 * [Spring Camp 2017 2부](https://github.com/jojoldu/review/tree/master/SpringCamp_2017_2%EB%B6%80)
