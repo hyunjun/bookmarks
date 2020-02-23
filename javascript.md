@@ -1596,6 +1596,7 @@ Javascript
 * [How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
 * [Monitoring Node.js: Watch Your Event Loop Lag!](https://davidhettler.net/blog/event-loop-lag/)
 * [node-oracledb 설치 오류 해결](https://alstn2468.github.io/Node/2020-01-13-NodeOracleBugFix/)
+* [Node.js - Hello world](https://delphiforwin.blogspot.com/2020/02/nodejs-hello-world.html)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
