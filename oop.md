@@ -230,6 +230,8 @@
 * [Scala and the visitor pattern](https://meta.plasm.us/posts/2019/09/23/scala-and-the-visitor-pattern/)
 * [Type safe builder pattern](https://pedrorijo.com/blog/typesafe-builder/)
 * [Scala Magnet Pattern](http://blog.madhukaraphatak.com/scala-magnet-pattern/)
+  * [practice - magnet pattern](https://gist.github.com/hyunjun/637a2dcf575c914a2be1e5401395f687#file-magnet_pattern-md)
+  * [practice - problem when no magnet pattern](https://gist.github.com/hyunjun/637a2dcf575c914a2be1e5401395f687#file-problem_when_no_magnet_pattern-md)
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
