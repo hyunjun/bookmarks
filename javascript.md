@@ -691,6 +691,7 @@ Javascript
   * [Promise 정리](https://chodragon9.github.io/blog/promise)
   * [Master the JavaScript Interview: What is a Promise?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261)
   * [**flushPromises가 작동하는 이유**](https://imch.dev/posts/why-does-flush-promises-work-the-way-that-it-does)
+  * [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
