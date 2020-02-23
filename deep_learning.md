@@ -1254,7 +1254,7 @@ Deep Learning
   * [Sequence To Sequence Attention Models In PyCNN](https://talbaumel.github.io/attention)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * [SINGA is a general distributed deep learning platform for training big deep learning models over large datasets](http://singa.apache.org/docs/overview.html)
-* Sonnet
+* [Sonnet - TensorFlow-based neural network library](https://github.com/deepmind/sonnet)
   * [DeepMind의 Neural Network를 위한 라이브러리 SONNET](https://www.nextobe.com/single-post/2017/05/11/DeepMind-SONNET)
 * [SPOTTY - An Open-source Tool for Training Deep Learning Models in the Cloud](https://spotty.cloud)
 * [SRZoo: An integrated repository for super-resolution using deep learning](https://github.com/idearibosome/srzoo)
