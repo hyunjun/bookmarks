@@ -229,6 +229,7 @@
 * [Crushing Design Patterns! — Unnecessary Patterns](https://medium.com/@lprakashv/cushing-design-patterns-unnecessary-patterns-dda76bfdca07)
 * [Scala and the visitor pattern](https://meta.plasm.us/posts/2019/09/23/scala-and-the-visitor-pattern/)
 * [Type safe builder pattern](https://pedrorijo.com/blog/typesafe-builder/)
+* [Scala Magnet Pattern](http://blog.madhukaraphatak.com/scala-magnet-pattern/)
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
