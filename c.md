@@ -38,6 +38,7 @@ C
     * [**(完)우리집에 GDB 있는데… 메모리 보고갈래? (3)**](https://bpsecblog.wordpress.com/2016/05/20/gdb_memory_3/)
     * [문제푸는 입장에서 다시보는 소소한(?)것들 – 활용편](https://bpsecblog.wordpress.com/2016/05/15/gdb_memory_s1/)
   * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard/wiki)
+  * [GDBFrontend - an easy, flexible and extensionable gui debugger](https://github.com/rohanrhu/gdb-frontend)
   * [onlinegdb.com](https://www.onlinegdb.com/)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 * [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
