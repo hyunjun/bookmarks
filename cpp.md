@@ -301,6 +301,7 @@ C++
 * [SLED (Beta) - A responsive C++ editor that understands your code](http://slededit.com/new/)
 * [Snapcast - a multi-room client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio](https://github.com/badaix/snapcast/)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
+* [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [TinyXML2 - a simple, small, efficient, C++ XML parser that can be easily integrated into other programs](https://github.com/leethomason/tinyxml2)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
