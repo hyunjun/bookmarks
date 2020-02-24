@@ -162,6 +162,18 @@ App
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
 * [Editoy NoteSheet, Draft](https://medium.com/@goodhyun/editoy-notesheet-editoy-draft-e32c9d2a7eaa)
+* [fastpages - An easy to use blogging platform, with enhanced support for Jupyter Notebooks. https://fastpages.fast.ai ](https://github.com/fastai/fastpages)
+  * [fastpages.fast.ai/fastpages/jupyter/2020/02/20/test.html](https://fastpages.fast.ai/fastpages/jupyter/2020/02/20/test.html)
+  * git action, docx, ipynb 등을 자동을 md 화 해 주기, 다양한 스타일링등을 포함하는 부가적인(그러나 매우 rich)한 기능을 fastpages 라는 프로젝트로 별도 론칭
+  * 사용법
+    * 하단의 링크에 접속하셔서, "Use this template" 버튼 클릭
+    * 새로운 프로젝트 생성
+    * 그러면, 1분 이내로 PR이 자동 생성되는데, 이 PR의 instruction을 따라하면 그때부터 자동으로 블로그 개설
+    * 그 다음부터는 주피터노트북, 워드 프로세스 파일을 작성하여 업로드 하면, 3~4분 이내로 자동으로 자동 변환되어 블로그가 포스팅
+  * 주피터 노트북, 워드 프로세스 파일, 마크다운 세 종류로 블로그 작성 가능. 되도록이면 주피터 노트북을 활용하면 유용
+    * 코드의 hide/show, Altair와 연동하여 인터랙티브한 visualization 삽입, pandas의 데이터 프레임 출력 가능
+    * 이미지 캡셔닝, 트위터 카드 삽입, 유투브 비디오 삽입, Warning, Important, Tip, Note 에 대한 박스 삽입 가능
+    * 댓글 활성화, 블로그 포스트에 대한 깃헙, 코랩 링크 자동 삽입
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [Flybook - a simple utility to generate static website such as user manual](https://github.com/rhiokim/flybook)
   * [flybook introduction](https://www.youtube.com/watch?v=sQkKVafM6N0)
@@ -337,6 +349,8 @@ App
   * [Postman과 GitLab CI 연동하기](https://www.ridicorp.com/blog/2017/11/09/postman-gitlab-ci/)
   * [Postman API Network](https://www.getpostman.com/api-network)
   * [postman tutorial 및 사용법](https://blog.naver.com/pjt3591oo/221642929410)
+  * [postman 활용 1~3편](https://blog.naver.com/pjt3591oo/221669110777)
+  * [로그인이 필요한 API 똑똑하게 테스트 하는 방법](https://blog.naver.com/pjt3591oo/221822014861)
   * [POSTMAN을 이용해 REST API와 URL 요청 TEST 해보기](https://rwd337.tistory.com/173)
   * [포스트맨(Postman)을 이용한 API 테스트](https://imasoftwareengineer.tistory.com/36)
   * [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
