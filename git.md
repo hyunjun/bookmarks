@@ -543,6 +543,7 @@ Git
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
+* [gitea 설치로 git 웹호스팅 서버 구축하기](https://geeksvoyage.com/raspberry%20pi/gitea-for-pi/)
 * [git-fake](https://github.com/egoing/git-fake) 교육용으로 간단하게 여러개의 커밋을 만들어야 하는 경우 귀찮음을 줄여주는 프로그램
 * [git fastclone](https://corner.squareup.com/2015/11/fastclone.html)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
