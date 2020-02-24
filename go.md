@@ -234,6 +234,7 @@ Go
 * [Clean Architecture with GO](https://medium.com/manato/clean-architecture-with-go-bce409427d31)
 * [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21/)
 * [쉽고 빠른 Go 시작하기](https://academy.nomadcoders.co/p/go-for-beginners)
+* [Notes on the Go translation of Reposurgeon](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
@@ -299,7 +300,7 @@ Go
 * [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
 * [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
 * [**컨테이너 내부 Go 애플리케이션 디버깅하기**](https://mingrammer.com/debugging-containerized-go-app/)
-*
+
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 * [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
@@ -353,6 +354,7 @@ Go
 * [Fast PUT/GET/DELETE in-memory key-value store for lookaside caching](https://github.com/jonhoo/cucache)
 * [~FRAGMENTA - websites with Go~](http://fragmenta.eu/)
 * [Free, instant, secure, disposable chat](https://niltalk.com/)
+* [fyne - Cross platform GUI in Go based on Material Design](https://github.com/fyne-io/fyne)
 * [GAM is a MVP Actor Model framework for Go](https://github.com/rogeralsing/gam)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
