@@ -20,6 +20,7 @@ Programming
 * [개발자를 위한 넓고 얕은 지식](https://www.slideshare.net/godrm/ss-84035645)
   * [개발자를 위한 넓고 얕은 지식](https://www.youtube.com/watch?v=567gB2kfwAs)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
+* [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
@@ -578,6 +579,7 @@ Programming
 * [**jack-vanlightly.com/blog/category/Distributed+Systems**](https://jack-vanlightly.com/blog/category/Distributed+Systems)
 * [Many Nodes, One Distributed System](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
 * [Getting Real About Distributed System Reliability](https://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability)
+* [분산 시스템의 도전 과제](https://aws.amazon.com/ko/builders-library/challenges-with-distributed-systems/)
 
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
@@ -932,6 +934,7 @@ Programming
 * [repl.it](https://repl.it/)
 * [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
 * [RosettaGit - to present solutions to the same task in as many different programming languages as possible](https://rosettagit.org/)
+* [theia Cloud & Desktop IDE](https://theia-ide.org/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 * VS code live share [Microsoft : VS Live Share](https://pang2h.tistory.com/91)
 * [wandbox.org](https://wandbox.org/)
@@ -961,6 +964,7 @@ Programming
 
 # Compiler, Interpreter
 * [Interpreter, Compiler, JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/)
+* [Let's Build a Compiler, by Jack Crenshaw](https://compilers.iecc.com/crenshaw/)
 * **Let’s Build A Simple Interpreter** python
   * [Part 1](http://ruslanspivak.com/lsbasi-part1/)
   * [Part 2](http://ruslanspivak.com/lsbasi-part2/)
