@@ -859,6 +859,7 @@ Java
 * [JPA 연관 관계 조회 그리고 MSA](https://www.popit.kr/jpa-연관-관계-조회-그리고-msa)
 * [JPA N+1 발생원인과 해결 방법](https://www.popit.kr/jpa-n1-%EB%B0%9C%EC%83%9D%EC%9B%90%EC%9D%B8%EA%B3%BC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 * [Spring-Jpa Best Practices](https://github.com/cheese10yun/spring-jpa-best-practices)
+* [JPA 선호하는 패턴](https://cheese10yun.github.io/jpa-preference/)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
@@ -1049,6 +1050,7 @@ Java
 * [Hunting Down and Fixing Memory Leaks in Java](https://blog.soshace.com/hunting-down-and-fixing-memory-leaks-in-java/)
 * [Finding Memory Leaks in Java Microservices – Part 1](https://bitmovin.com/finding-memory-leaks-in-java-microservices-part-1/)
 * [Finding Memory Leaks in Java Microservices – Part 2](https://bitmovin.com/finding-memory-leaks-in-java-microservices-part-2/)
+* [하나의 메모리 누수를 잡기까지](https://d2.naver.com/helloworld/1326256)
 
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
