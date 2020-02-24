@@ -520,6 +520,7 @@ SQL
   * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
+* [pgcat - Enhanced PostgreSQL logical replication](https://github.com/kingluo/pgcat)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
 * [pg_flame - A flamegraph generator for Postgres EXPLAIN ANALYZE output](https://github.com/mgartner/pg_flame)
 * [pgfutter - Import CSV and JSON into PostgreSQL the easy way](https://github.com/lukasmartinelli/pgfutter)
