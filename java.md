@@ -431,6 +431,19 @@ Java
 * [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
 * [You can finally declare Inferred Type local variables in Java with var — here’s why that’s awesome](https://medium.freecodecamp.org/you-can-finally-declare-local-variables-in-java-with-var-heres-why-that-s-awesome-4418cb7e2da3)
 
+# Java11
+* installation on centos 7
+
+  ```
+  ❯ scp ~/Downloads/openjdk-11+28_linux-x64_bin.tar.gz <server>:/tmp
+
+  [root@<server> tmp]# tar xfvz openjdk-11+28_linux-x64_bin.tar.gz
+  [root@<server> tmp]# cd /usr/lib/jvm
+  [root@<server> jvm]# mv /tmp/jdk-11/ .
+  [root@<server> jvm]# alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-11/bin/java 100
+  [root@<server> jvm]# alternatives --config java
+  ```
+
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
 * [Java Futures, 2019 Edition](https://www.youtube.com/watch?v=hryQIIasGY4) Java12에 국한된 이야기는 아니며 type inference, switch pattern matching, project Valhalla, Panama, Loom 등 다양한 새로운 기능에 대한 이야기
