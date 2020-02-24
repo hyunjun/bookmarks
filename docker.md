@@ -369,6 +369,7 @@ Docker
 * [**docker container 활용 #3**](http://www.ahnseungkyu.com/243) docker process의 network을 linux command로 살펴봄
 * [docker container 활용 #4](http://ahnseungkyu.com/244) CMD와 ENTRYPOINT
 * [docker container 활용 #5](http://ahnseungkyu.com/245) docker image size 줄이기
+* [Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 * [Docker Based Web Hosting](https://code.shoplic.kr/docker-based-web-hosting)
 * [Demystifying containers 101: a deep dive into container technology for beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
 * [The TICK stack as a Docker Application Package](https://medium.com/lucjuggery/the-tick-stack-as-a-docker-application-package-1d0d6b869211)
