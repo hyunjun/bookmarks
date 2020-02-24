@@ -1067,6 +1067,7 @@ Python
   * [Converting Between Strings and Lists in Python](https://www.youtube.com/watch?v=vhzxtXwIHYI)
   * [10 Python String Processing Tips & Tricks](https://www.kdnuggets.com/2020/01/python-string-processing-primer.html)
   * [How do I remove letters from a string in Python?](https://www.quora.com/How-do-I-remove-letters-from-a-string-in-Python)
+  * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
