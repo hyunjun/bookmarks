@@ -68,6 +68,7 @@
 * [**애저 메시징 서비스를 위한 스키마 저장소 구현**](https://blog.aliencube.org/ko/2019/10/23/introducing-schema-registry-for-azure-messaging-services/) WSDL, Open API, 스키마 저장소
 * [.NET In-Browser Tutorial](https://dotnet.microsoft.com/learn/dotnet/in-browser-tutorial/)
 * [.NET Core with Jupyter Notebooks – Available today | Preview 1](https://devblogs.microsoft.com/dotnet/net-core-with-juypter-notebooks-is-here-preview-1)
+* [.NET Interactive is here! | .NET Notebooks Preview 2](https://devblogs.microsoft.com/dotnet/net-interactive-is-here-net-notebooks-preview-2/)
 * [A .NET Bridge for Haskell: Dancing with the Devil](https://archives.haskell.org/code.haskell.org/Salsa/Docs/Thesis.pdf)
 * [.NET everywhere apparently also means Windows 3.11 and DOS](https://www.hanselman.com/blog/NETEverywhereApparentlyAlsoMeansWindows311AndDOS.aspx)
 * [Using Linux in a modern .NET world](https://medium.com/wearetheledger/using-linux-in-a-modern-net-world-892da2224d7)
