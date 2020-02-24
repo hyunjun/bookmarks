@@ -254,6 +254,7 @@ Linux
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
 * `dirname` get directory name from path
 * dmesg
+  * `dmesg -T` [practice - dmesg 시간 출력](https://gist.github.com/hyunjun/f2f337f82af1598fdb9a531f1d9b59b6#file-dmesg_t-sh)
   * [7 ‘dmesg’ Commands for Troubleshooting and Collecting Information of Linux Systems](https://www.tecmint.com/dmesg-commands/)
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
 * du
