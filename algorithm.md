@@ -180,6 +180,7 @@ Algorithm
 * [프로그래머스 가장 큰 수 : 수 2개만 고려해 봅시다](https://codingdog.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%88%98-2%EA%B0%9C%EB%A7%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
 * [Odd numbers in Pascal’s triangle](https://www.johndcook.com/blog/2020/02/04/odd-numbers-in-pascals-triangle/)
+* [좌표 압축 알고리즘 : 범위가 클 때 어떻게 공간을 줄일까요?](https://codingdog.tistory.com/entry/%EC%A2%8C%ED%91%9C-%EC%95%95%EC%B6%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B2%94%EC%9C%84%EA%B0%80-%ED%81%B4-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EA%B0%84%EC%9D%84-%EC%A4%84%EC%9D%BC%EA%B9%8C%EC%9A%94)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -357,6 +358,7 @@ Algorithm
 * [18. 크루스칼 알고리즘(Kruskal Algorithm)](https://m.blog.naver.com/ndb796/221230994142)
 * [Kruskal's algorithm in 2 minutes — Review and example](https://www.youtube.com/watch?v=71UQH7Pr9kU)
 * [MST(Minimum Spanning Tree)를 구하는 알고리즘인 크루스칼(Kruskal) 알고리즘, 프림(Prim)알고리즘을 설명하시오](https://blog.naver.com/santalsm/221718215779)
+* [병렬 이분 탐색](https://justicehui.github.io/hard-algorithm/2020/02/24/pbs/) kruskal
 * [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
 * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
 * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
