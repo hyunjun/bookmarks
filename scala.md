@@ -1089,6 +1089,7 @@ Scala
 * [Tidying up your SBT file with Scala](https://medium.com/@supermanue/tidying-up-your-sbt-file-with-scala-f05682a2a2e6)
 * [Monorepo or Multirepo? Role-Based Repositories](https://medium.com/playqtechblog/monorepo-or-multirepo-role-based-repositories-b2e52326c553)
 * `reload` terminal의 sbt와 달리 intelliJ의 sbt shell에서 build.sbt의 --add-export compiler option이 동작하지 않을 때 사용했더니 동작함. 추가 확인 필요
+* [scala개발시 sbt build때 GZIPInputStream: java.util.zip.ZipException: Not in GZIP format 에러나는 경우 해결책](https://blog.voidmainvoid.net/196)
 * [sbt scala version mismatch - sbt에서 사용하는 scala version이 command line의 scala와 맞지 않을 때](https://medium.com/@strncpy/sbt-scala-version-mismatch-4f8260b4e707)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
