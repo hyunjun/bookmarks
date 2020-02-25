@@ -1066,6 +1066,7 @@ Javascript
   * [Catch errors earlier in development with the new Actions on Google linter](https://medium.com/google-developers/catch-errors-earlier-in-development-with-the-new-actions-on-google-linter-acd04c526ad1)
   * [create-react-app에서 eject 없이 eslint 사용하기](https://opnay.com/2019-11-07/create-react-app-eslint/)
   * [프론트엔드 개발환경의 이해: 린트](http://jeonghwan-kim.github.io//series/2019/12/30/frontend-dev-env-lint.html)
+  * [How I learned to write cleaner code using ESLint](https://blog.usejournal.com/how-i-learned-to-write-cleaner-code-using-eslint-11b5c8b0e1b8)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
