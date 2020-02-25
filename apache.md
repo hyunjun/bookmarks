@@ -517,6 +517,7 @@ Apache
 * [Using graph algorithms to optimize Kafka operations, Part 1](https://medium.com/pinterest-engineering/using-graph-algorithms-to-optimize-kafka-operations-part-1-abbabd606a25)
 * [Using graph algorithms to optimize Kafka operations, Part 2](https://medium.com/@Pinterest_Engineering/using-graph-algorithms-to-optimize-kafka-operations-part-2-c970d9c08c7d)
 * [Apache Kafka as a Service with Confluent Cloud Now Available on Azure Marketplace](https://www.confluent.io/blog/confluent-cloud-managed-kafka-service-azure-marketplace/)
+* [**카프카 컨슈머 멀티쓰레드 애플리케이션 예제코드(for scala)**](https://blog.voidmainvoid.net/313)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
