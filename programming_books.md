@@ -1039,6 +1039,7 @@ Programming Books
 * [아파치 카프카로 데이터 스트리밍 애플리케이션 제작](http://acornpub.co.kr/book/data-apache-kafka)
   * 탐라 문005.74쿠31ㅇ
 * (NOT YET) [카프카 핵심 가이드](http://jpub.tistory.com/849)
+* (NOT YET) [실전 아파치 카프카](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8503179529)
 
 # Kotlin
 
