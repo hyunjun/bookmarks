@@ -1043,6 +1043,9 @@ Machine Learning
   * [Flax: A neural network library for JAX designed for flexibility](https://github.com/google-research/flax)
   * [Haiku - a simple neural network library for JAX developed by some of the authors of Sonnet, a neural network library for TensorFlow](https://github.com/deepmind/dm-haiku)
   * [RLax (pronounced "relax") - a library built on top of JAX that exposes useful building blocks for implementing reinforcement learning agents](https://github.com/deepmind/rlax)
+  * [ECE1513H: Introduction to Machine Learning Winter 2020 - LEC0101](https://www.papernot.fr/teaching/w20-ml)
+    * [ECE1513_Introduction_to_JAX](https://colab.research.google.com/drive/15Nn1i5AgfkLBdMGTif-RnfwqZrn1BPKQ) .ipynb
+    * [ECE1513_Introduction_to_JAX_Student_Solutions](https://colab.research.google.com/drive/1YsoctmFgZ0joXdMqEHmTsP3AAyhyNlzI) .ipynb
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
 * [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
 * [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
