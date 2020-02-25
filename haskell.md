@@ -274,3 +274,4 @@ Haskell
 * [CIS 194: Introduction to Haskell (Spring 2013)](https://www.seas.upenn.edu/~cis194/spring13/)
   * [enshahar.com](http://enshahar.com/) 한글
 * [Haskell for impatient Scala developer: Getting into speed](https://msitko.pl/blog/2020/02/08/haskell-getting-into-speed.html)
+* [**진보하는 함수형 언어, Haskell (김재우)**](https://www.notion.so/Haskell-84c22c4bb40a46438dc6757424827fca)
