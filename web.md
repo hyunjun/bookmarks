@@ -648,6 +648,7 @@ Web
 * [RESTful API 설계 가이드](https://sanghaklee.tistory.com/57)
 * [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
 * [Long Running Operation with Polling](http://restalk-patterns.org/long-running-operation-polling.html)
+* [젤리의 외부 API 의존 솔루션의 사용경험(성능) 개선 공유](https://www.slideshare.net/HyunMookChoi/api-229077512) 특별히 기술적인 내용은 없지만 HEAD 사용을 통해 GET 대신 resource 확인 가능하다는 점을 알 수 있었음
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
