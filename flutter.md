@@ -62,4 +62,5 @@ Flutter
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [Learn Dart In A Week With These Free Resources](https://hackernoon.com/learn-dart-in-a-week-with-these-free-resources-b892e5265220)
 * [다트(Dart) 소개 및 개발 환경](https://brunch.co.kr/@mystoryg/115)
+* [다트 기본 구조 및 중요 개념](https://brunch.co.kr/@mystoryg/116)
 * [dart : Invalid UTF8 sequence encountered](https://sunyzero.tistory.com/262)
