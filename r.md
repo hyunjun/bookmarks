@@ -386,6 +386,7 @@ R
 * [Developing Data Products in R](https://leanpub.com/ddp/read_full)
 * [Regression Models for Data Science in R](https://leanpub.com/regmods/read_full)
 * [R for Excel Users](https://rstudio-conf-2020.github.io/r-for-excel/)
+* [3 recommended books on learning R](https://www.r-bloggers.com/3-recommended-books-on-learning-r/)
 
 # Conference
 * [LA East R Users Presentations](https://github.com/laRusers/presentations)
@@ -422,6 +423,7 @@ R
 * [Deploying a Shiny app as a desktop application with Electron](https://www.travishinkelman.com/post/deploy-shiny-electron/)
 * [4 great free tools that can make your R work more efficient, reproducible and robust](https://www.r-bloggers.com/4-great-free-tools-that-can-make-your-r-work-more-efficient-reproducible-and-robust/)
 * [December 2019: “Top 40” New R Packages](https://www.r-bloggers.com/december-2019-top-40-new-r-packages/)
+* [R 플롯 팁 2 빅데이터 플롯과 알파](http://ds.sumeun.org/?p=2147)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
