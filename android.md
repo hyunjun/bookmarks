@@ -247,6 +247,7 @@ Android
   * [Retrofit으로 날씨 api를 이용한 통신 예제!!](http://forliver.tistory.com/entry/Retrofit%EC%9C%BC%EB%A1%9C-%EB%82%A0%EC%94%A8-api%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%86%B5%EC%8B%A0-%EC%98%88%EC%A0%9C)
   * [Retrofit2 정리하기](https://jungwoon.github.io/android/2019/07/11/Retrofit/)
   * [Retrofit의 Query, Path 등에 Enum클래스 사용하기](https://medium.com/박상권의-삽질블로그/retrofit의-query-path-등에-enum클래스-사용하기-6da80311677b)
+  * [Rxjava2와 Retrofit함께 사용하기](https://developer88.tistory.com/197)
 * RxJava
   * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
   * [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
