@@ -100,6 +100,7 @@ AWS
   * [4. 기타](http://jojoldu.tistory.com/323)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 * [Elastic Beanstalk로 Next.js 앱 배포하기](https://blog.rhostem.com/posts/2019-09-01-deploy-next-app-to-eb)
+* [AWS ElasticBeanstalk (빈스톡) 삭제 실패시 처리 방안](https://jojoldu.tistory.com/479)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [MFA 코드와 AWS CLI를 이용해 로그인하기](https://andromedarabbit.net/mfa-%EC%BD%94%EB%93%9C%EC%99%80-aws-cli%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0/)
