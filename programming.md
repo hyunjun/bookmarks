@@ -1276,6 +1276,7 @@ Programming
   * [pymqdemo - Python RabbitMQ demo for deeplearning](https://github.com/booiljung/pymqdemo)
   * [Scala RabbitMQ Example](https://github.com/ticofab/Scala-RabbitMQ-Example)
   * [rabbitmq 설치후 서버 접속시 타임 아웃 에러 발생 관련 문의 드립니다](https://okky.kr/article/257723)
+  * [Delayed Messaging for RabbitMQ](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
