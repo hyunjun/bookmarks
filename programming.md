@@ -389,6 +389,7 @@ Programming
   * [CQRS](https://leanpub.com/cqrs/read_full)
   * [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
   * [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
+  * [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -721,6 +722,7 @@ Programming
 * [Uber의 Message Queue, Akka, Vim, Java](https://sangwook.github.io/2016/12/14/uber-message-queue-akka-vim-java.html)
 * [Preparing For a Future Microservices Journey Using Wardley Maps](https://www.youtube.com/watch?v=1cnLMuBABo0)
 * [커머스 코드 자산화 개발일지 - 1 시작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-%EC%8B%9C%EC%9E%91)
+* [커머스 코드 자산화 개발 일지-2 상품을 팔지 않고 오퍼를 판다](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-2-%EC%83%81%ED%92%88%EC%9D%84-%ED%8C%94%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%98%A4%ED%8D%BC/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
