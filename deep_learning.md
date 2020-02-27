@@ -2242,6 +2242,7 @@ CVPR2016)
 * [Reinforcement Learning: Past, Present and Future Perspectives](https://www.notion.so/Reinforcement-Learning-Past-Present-and-Future-Perspectives-fcde7f7eee34416a8bc849911d912a41)
 * [강화학습을 공부하는 분들에게 도움이 되는 Gym Gazebo 설정하기](https://pinkwink.kr/1269)
 * [RLlib: Scalable Reinforcement Learning](https://ray.readthedocs.io/en/latest/rllib.html)
+* [Introduction-of-Reinforcement-Learning](https://github.com/LoveRL/Introduction-of-Reinforcement-Learning)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
