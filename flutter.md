@@ -63,5 +63,7 @@ Flutter
 * [Learn Dart In A Week With These Free Resources](https://hackernoon.com/learn-dart-in-a-week-with-these-free-resources-b892e5265220)
 * [다트(Dart) 소개 및 개발 환경](https://brunch.co.kr/@mystoryg/115)
 * [다트 기본 구조 및 중요 개념](https://brunch.co.kr/@mystoryg/116)
+* [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
+* [다트 주석, 변수, 상수, 타입](https://brunch.co.kr/@mystoryg/118)
 * [dart : Invalid UTF8 sequence encountered](https://sunyzero.tistory.com/262)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
