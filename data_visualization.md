@@ -231,6 +231,10 @@ Data Visualization
 * [이왕이면 다홍 데이터 - 데이터에 생명을 불어넣는 파이썬 시각화 라이브러리들](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [파이썬 시계열 데이터 시각화 1/4 - 항공 수송 인원 데이터를 다양한 형태의 그래프로 표현하기](https://www.youtube.com/watch?v=SXW3PRhkll8)
 * [Python and the Tell-Tale Heart](https://www.johndcook.com/blog/2020/02/17/python-heartbeat/)
+* [파이썬으로 만들어본 대선 주자들 연설문 Word Cloud](http://winduino.co.kr/292)
+* [Naver News WordCloud 1](https://developer-ankiwoong.tistory.com/299)
+* [Naver News WordCloud 2](https://developer-ankiwoong.tistory.com/300)
+* [워드 클라우드, 파이썬에서 이쁘게 그리는 방법은?!](https://tariat.tistory.com/854)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * Bokeh

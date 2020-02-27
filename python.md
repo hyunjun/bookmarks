@@ -329,9 +329,6 @@ Python
 * [Python For Data Science - A Cheat Sheet For Beginners](https://www.datacamp.com/community/tutorials/python-data-science-cheat-sheet-basics#gs.3Wu19gE)
 * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [billiARds: A Game of Augmented Reality Pool](https://www.youtube.com/watch?v=5ft3SDvuhgw) Python 으로 코딩한 AR
-* [파이썬으로 만들어본 대선 주자들 연설문 Word Cloud](http://winduino.co.kr/292)
-* [Naver News WordCloud 1](https://developer-ankiwoong.tistory.com/299)
-* [Naver News WordCloud 2](https://developer-ankiwoong.tistory.com/300)
 * [파이썬 뉴스 텍스트 워드 클라우드](http://nbviewer.jupyter.org/gist/FinanceData/6bda99ce6ec5b9de2fd93e204f831561) feedparser, newspaper, konlpy 등 활용
 * [Controlling Hardware with Python](https://speakerdeck.com/dbrgn/controlling-hardware-with-python)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
