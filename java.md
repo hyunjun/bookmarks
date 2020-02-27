@@ -624,6 +624,7 @@ Java
 * [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 * [Design Patterns in the Light of Lambda Expressions. Venkat Subramaniam, Agile developer, inc.](https://www.youtube.com/watch?v=WN9kgdSVhDo)
 * [Java 8의 람다 함수 살펴보기](https://huni.org/java-8의-람다-함수-살펴보기-1767d034f962)
+* [잘못 작성된 람다 코드를 삭제하기까지의 여정](https://helloworld.kurly.com/blog/study-in-lambda/)
 
 # Library
 * [7 New Tools Java Developers Should Know](http://blog.takipi.com/7-new-tools-java-developers-should-know/)
