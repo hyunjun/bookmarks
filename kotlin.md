@@ -50,6 +50,7 @@
   * [Kotlin 키워드 및 연산자 해부 Part 3](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-part-3-59ff3ed736be)
   * [Kotlin Extensions 의 동작 원리](https://medium.com/@joongwon/kotlin-kotlin-extensions-%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-ea1759b8d556)
   * [Kotlin Lazy Initialization](https://medium.com/@joongwon/kotlin-kotlin-lazy-initialization-901079296e43)
+* [Kotlin의 Lazy Initialization과 Delagation](https://developer88.tistory.com/209)
 * [Your first Firefox (Web)extension in Kotlin](https://medium.com/@Cypressious/your-first-firefox-web-extension-in-kotlin-348fc907915)
 * [Representing View State with Kotlin Data Classes](https://medium.com/@trionkidnapper/viewmodel-and-kotlin-data-class-7d3a3b854805)
 * [코틀린(Kotlin) data class를 JPA에서 사용시 주의할 점](https://anomie7.tistory.com/64)
