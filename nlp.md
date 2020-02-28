@@ -382,6 +382,7 @@ NLP
 * [AI조직에서의 1년](http://freesearch.pe.kr/archives/4981)
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (1/2)](https://paul-hyun.github.io/bert-01/)
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (2/2)](https://paul-hyun.github.io/bert-02/)
+* [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers/)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
 
