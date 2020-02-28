@@ -360,6 +360,7 @@
   * [spark2.0-examples/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource](https://github.com/phatak-dev/spark2.0-examples/tree/2.4/src/main/scala/com/madhukaraphatak/examples/sparktwo/multisource)
   * [Multi Source Data Analysis using Spark and Tellius](https://www.slideshare.net/datamantra/multi-source-data-analysis-using-spark-and-tellius)
 * [Spark 성능 최적화 및 튜닝 방법 - Part 1](https://nephtyws.github.io/data/spark-optimization-part-1/)
+* [Master Spark fundamentals & optimizations](https://www.streamhub.co.uk/apache-spark-tuning-manual/)
 * [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
 * [ClickHouse Clustering for Spark Developer](http://blog.madhukaraphatak.com/clickouse-clustering-spark-developer/)
 * [Data Modeling in Apache Spark - Part 1 : Date Dimension](http://blog.madhukaraphatak.com/data-modeling-spark-part-1/)
