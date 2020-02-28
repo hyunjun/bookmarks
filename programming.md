@@ -351,6 +351,7 @@ Programming
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
 * [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
+* Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
 * [Public APIs - A collective list of free APIs for use in software and web development. https://ultimatecourses.com ](https://github.com/public-apis/public-apis)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
