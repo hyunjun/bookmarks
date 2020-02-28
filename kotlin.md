@@ -138,6 +138,7 @@
   * [번역 Design Pattern In Kotlin — 1. Behavioral](https://medium.com/@hongbeomi/design-pattern-in-kotlin-1-behavioral-7185d0f71aea)
   * [번역 Design Pattern In Kotlin — 2. Creational](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-2-creational-25a30d3bdeba)
   * [번역 Design Pattern In Kotlin — 3. Structural](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-3-structural-2e5e007fc0e3)
+* [Kotlin의 Invoke함수를 알아보자](https://developer88.tistory.com/240)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
