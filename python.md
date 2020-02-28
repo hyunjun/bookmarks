@@ -1867,6 +1867,7 @@ Python
   * [Advanced Python Programming - GUI Automation with PyAutoGUI](https://www.youtube.com/watch?v=1RE5tSPO2RI)
 * PyQT
   * [예제로 배우는 PyQt 예제 중심으로 배우는 PyQt 프로그래밍](https://opentutorials.org/module/544)
+  * [QTBook - Qt Korea Developer Community](https://github.com/eddykim777/qtbook)
   * [PyQT Python GUI Application Development with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdVpDFNq4FwY9APZPGSUyR4)
   * [PyCon 2015 - 업무에서 빠르게 활용하는 PyQt](http://www.slideshare.net/ravenkyu/pycon-2015-pyqt)
   * [PyQT Basic Tutorial](https://pythonprogramming.net/basic-gui-pyqt-tutorial/)
