@@ -216,6 +216,8 @@ Apache
     * 값의 순서를 보장하기 때문에 정렬시 ser/dser 필요 없음. [Values로 되어있는 코드로 추정](https://github.com/apache/flink/tree/master/flink-core/src/main/java/org/apache/flink/types)
   * SubTask 중 한곳에 일이 몰려 backpressure로 인해 작업이 block되는것을 credit-based flow control로 방지
     * Subtask는 지금 buffer가 얼마남았는지 전단계의 SubTask에게 알려주고 전단계의 SubTask는 이를 고려하여 task 분배 [1](https://github.com/apache/flink/blob/master/flink-runtime/src/main/java/org/apache/flink/runtime/io/network/netty/CreditBasedPartitionRequestClientHandler.java) [2](https://github.com/apache/flink/blob/master/flink-runtime/src/main/java/org/apache/flink/runtime/io/network/netty/CreditBasedSequenceNumberingViewReader.java)
+* [OptimizedText.java](https://github.com/eastcirclek/terasort/blob/master/src/main/java/eastcircle/terasort/OptimizedText.java)
+* [Improving throughput and latency with Flink's network stack - Nico Kruber](https://www.youtube.com/watch?v=AbqatHF3tZI) flink flow mechanism
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
@@ -495,6 +497,8 @@ Apache
 * [What's New in Kafka 2.2?](https://www.youtube.com/watch?v=kaWbp1Cnfo4)
 * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [How to run Kafka Mirror Maker using Kerberos clusters](https://www.youtube.com/watch?v=2jkk3ZycW78)
+* [Kerberos 인증 #1](https://devidea.tistory.com/79)
+* [Kerberos 인증 #2](https://devidea.tistory.com/80)
 * [**카프카 설치 시 가장 중요한 설정 4가지**](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98-%EC%8B%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%84%A4%EC%A0%95-4%EA%B0%80%EC%A7%80/)
 * [**kafka 운영 - 기본적인 환경 설정 경험담**](https://springboot.cloud/34)
 * [**KAFKA와 그 친구들**](https://speakerdeck.com/dongjin/kafka-and-friends-ko) monitoring, 운영, test tool 소개
@@ -528,6 +532,7 @@ Apache
 * [Using graph algorithms to optimize Kafka operations, Part 2](https://medium.com/@Pinterest_Engineering/using-graph-algorithms-to-optimize-kafka-operations-part-2-c970d9c08c7d)
 * [Apache Kafka as a Service with Confluent Cloud Now Available on Azure Marketplace](https://www.confluent.io/blog/confluent-cloud-managed-kafka-service-azure-marketplace/)
 * [**카프카 컨슈머 멀티쓰레드 애플리케이션 예제코드(for scala)**](https://blog.voidmainvoid.net/313)
+* [링크드인은 왜 카프카를 만들었나](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS9400468504)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
