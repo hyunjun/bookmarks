@@ -516,6 +516,7 @@ AWS
 * [Fargate를 이용한 ECS with VPC 1부](https://www.slideshare.net/HyunMookChoi/fargate-ecs-with-vpc-1)
 * [**ECS를 이용한 Serverless Batch 서버 travis ci + ECS를 이용한 Batch서버 효율화**](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67) Docker image Travis CI -> ECR -> Fargate
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
+* [AWS - ECS fargate 예제](https://zigispace.net/1076)
 
 # Lambda
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
