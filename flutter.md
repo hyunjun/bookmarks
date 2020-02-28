@@ -65,5 +65,6 @@ Flutter
 * [다트 기본 구조 및 중요 개념](https://brunch.co.kr/@mystoryg/116)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
 * [다트 주석, 변수, 상수, 타입](https://brunch.co.kr/@mystoryg/118)
+* [다트 함수(Dart Function)](https://brunch.co.kr/@mystoryg/119)
 * [dart : Invalid UTF8 sequence encountered](https://sunyzero.tistory.com/262)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
