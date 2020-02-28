@@ -227,6 +227,7 @@ Java
   * [비동기를 사랑하는 오픈소스 개발자, 이희승](https://engineering.linecorp.com/ko/blog/line-developer-interview-3/)
   * [GitHub Contributions 그래프를 푸릇푸릇하게 만들어보아요(feat. Armeria Sprint)](https://engineering.linecorp.com/ko/blog/armeria-sprint-1/)
   * [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222)
+  * [LINE 메시징 서버가 새해 트래픽을 대비하는 과정](https://engineering.linecorp.com/ko/blog/how-line-messaging-servers-prepare-for-new-year-traffic/) armeria에 대한 이야기만은 아니지만
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
