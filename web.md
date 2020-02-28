@@ -649,6 +649,7 @@ Web
 * [REST and long-running jobs](https://farazdagi.com/2014/rest-and-long-running-jobs/)
 * [Long Running Operation with Polling](http://restalk-patterns.org/long-running-operation-polling.html)
 * [젤리의 외부 API 의존 솔루션의 사용경험(성능) 개선 공유](https://www.slideshare.net/HyunMookChoi/api-229077512) 특별히 기술적인 내용은 없지만 HEAD 사용을 통해 GET 대신 resource 확인 가능하다는 점을 알 수 있었음
+* [**코딩 없이 10분 만에 REST API/Graphql 서버 개발하기**](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
