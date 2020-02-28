@@ -206,6 +206,16 @@ Apache
 * [T map에 Flink 이식하기](https://drive.google.com/file/d/1lJi3Slkj5BcSTfjalL-pj3RpVKbvO70t)
 * [**Flink Source 부터 Sink 까지**](https://docs.google.com/presentation/d/1eLJz1HS_4lN-st1TYJYIJyZt6DUZyG1yGrIS8v4cPM0)
 * [Deep dive into flink interval join](https://www.slideshare.net/yeomii/deep-dive-into-flink-interval-join-208636345)
+* [Here’s What Makes Apache Flink scale A glance at the Memory management and Network flow control](https://medium.com/walmartlabs/what-makes-apache-flink-scale-317f642fe6d5)
+  * GC를 줄이기 위해 로딩시 Heap을 크게 잡아놓고 관리 (memory manager)
+    * Operator에서 메모리가 필요할때 memory manager에 메모리(segment) 요청해서 꺼내쓰고 반환
+    * 또한 network, disk I/O 속도 향상을 위해 off-heap으로 변환할수 있는 기능 제공 (stateful)
+    * 커다란 segment를 Disk에 저장했다가 다시 읽기 가능. OOM 방지
+  * 데이터 이동 최소화 [Operator chain 이용](https://ci.apache.org/projects/flink/flink-docs-stable/concepts/runtime.html#tasks-and-operator-chains)
+  * 자체 serialize/deserialize 구현. object, 관련키(?), 해시 값을 인접하게 저장 가능. Data prefetch 가능
+    * 값의 순서를 보장하기 때문에 정렬시 ser/dser 필요 없음. [Values로 되어있는 코드로 추정](https://github.com/apache/flink/tree/master/flink-core/src/main/java/org/apache/flink/types)
+  * SubTask 중 한곳에 일이 몰려 backpressure로 인해 작업이 block되는것을 credit-based flow control로 방지
+    * Subtask는 지금 buffer가 얼마남았는지 전단계의 SubTask에게 알려주고 전단계의 SubTask는 이를 고려하여 task 분배 [1](https://github.com/apache/flink/blob/master/flink-runtime/src/main/java/org/apache/flink/runtime/io/network/netty/CreditBasedPartitionRequestClientHandler.java) [2](https://github.com/apache/flink/blob/master/flink-runtime/src/main/java/org/apache/flink/runtime/io/network/netty/CreditBasedSequenceNumberingViewReader.java)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
