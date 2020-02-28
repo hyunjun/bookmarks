@@ -728,6 +728,7 @@ Programming
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
 * [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
+* [이벤트 주도 아키텍처는 어떤 이점을 주는가?](https://www.popit.kr/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%9D%B4%EC%A0%90%EC%9D%84-%EC%A3%BC%EB%8A%94%EA%B0%80/)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
