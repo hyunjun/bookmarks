@@ -30,8 +30,8 @@
 * [SOLID 원칙](https://hg-pyun.github.io/solid)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
-* [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
-* [꼬리에 꼬리를 무는  - 유사 디자인 패턴들(3/4편)](http://hamait.tistory.com/869)
+* [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
+* [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(3/4편)](http://hamait.tistory.com/869)
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
 * [객체지향은 반드시 없어져야 할 비용만 높은 재앙이다](http://hamait.tistory.com/875)
 * [Why Do You Need To Know Interface Fundamentals?](https://codeburst.io/why-do-you-need-to-know-interface-fundamentals-a129ac6ab0c3)
@@ -64,6 +64,13 @@
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
 * [패턴 그리고 객체지향적 코딩의 법칙 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-62024635)
+
+# C
+* [Object-Oriented Programming (OOP) in C](https://www.codementor.io/@michaelsafyan/object-oriented-programming-in-c-du1081gw2)
+* [Object-Oriented Programming With ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
+* [Object Oriented C Programming](http://faculty.washington.edu/gmobus/Academics/TCES202/Moodle/OO-ProgrammingInC.html)
+* [Object Oriented Programming in C](https://www.eventhelix.com/RealtimeMantra/basics/object_oriented_programming_in_c.htm)
+* [Object-oriented techniques in C](https://dmitryfrank.com/articles/oop_in_c)
 
 # C++
 * [singleton 클래스 이야기(1)](http://www.gilgil.net/15751)
