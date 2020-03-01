@@ -853,6 +853,7 @@ Deep Learning
   * [11-785 Introduction to Deep Learning Spring 2019](http://deeplearning.cs.cmu.edu/)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
+* [fastai book](https://github.com/fastai/fastbook)
 * [Fundamental of Reinforcement Learning](https://dnddnjs.gitbooks.io/rl/content/)
 * [Reinforcement Learning: An Introduction](https://webdocs.cs.ualberta.ca/~sutton/book/bookdraft2016sep.pdf)
   * [교과서 읽고 느낀점](http://blog.naver.com/atelierjpro/220896756412)
