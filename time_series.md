@@ -41,6 +41,9 @@ Time Series
 # Library
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
   * [시계열 DB (OpenTSDB , 인플럭스 DB , Graphite ) 정리](http://hamait.tistory.com/440)
+* [aresdb - A GPU-powered real-time analytics storage and query engine. https://eng.uber.com/aresdb ](https://github.com/uber/aresdb)
+  * [Introducing AresDB: Uber’s GPU-Powered Open Source, Real-time Analytics Engine](https://eng.uber.com/aresdb/)
+  * [Introducing AresDB - Uber’s New Engine for Massively Scalable Real Time Analytics](https://towardsdatascience.com/introducing-aresdb-6d34216b2d2d)
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
 * [Goku: Building a scalable and high performant time series database system](https://medium.com/@Pinterest_Engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181) Pinterest 엔지니어링팀에서 OpenTSDB -> Goku로 전환한 이야기 소개
 * [GokuL: Extending time series data storage to serve beyond one day](https://medium.com/pinterest-engineering/gokul-extending-time-series-data-storage-to-serve-beyond-one-day-52264307364d)
