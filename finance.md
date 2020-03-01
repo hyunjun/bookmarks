@@ -65,6 +65,7 @@ Finance
 * [파이썬으로 배우는 알고리즘 트레이딩 (미래에셋대우 API편)](https://wikidocs.net/book/1171)
 * [젠포트 - 퀀트분석 자동매매 시스템](https://wikidocs.net/book/1150)
 * [(44살에 떠난) 미국 금융공학 유학](https://wikidocs.net/book/1205)
+* [불곰의 가치투자 따라하기](https://www.youtube.com/watch?v=9OF2lxsiyF8)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
