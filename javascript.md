@@ -1530,6 +1530,8 @@ Javascript
   * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](https://www.youtube.com/watch?v=RRwaz0fBQ0Y&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq)
     * [node.js - sequelize와 Express 연동 - (mysql) 데이터 insert 처리](http://blog.naver.com/agilesoft/220985682264)
   * [mysql-live-select](https://github.com/numtel/mysql-live-select)
+  * [sequelize](https://sequelize.org/)
+    * [번역 마이그레이션과 Sequelize-CLI 튜토리얼](https://medium.com/@a01058406602/%EB%B2%88%EC%97%AD-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98%EA%B3%BC-sequelize-cli-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-3926c0a9eae6)
 * [Operationalizing Node.js for Server Side Rendering](https://medium.com/airbnb-engineering/operationalizing-node-js-for-server-side-rendering-c5ba718acfc9)
 * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
 * [Node에서의 this](https://www.zerocho.com/category/NodeJS/post/5b67e8607bbbd3001b43fd7b)
