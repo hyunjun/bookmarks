@@ -368,3 +368,4 @@ Data Visualization
 * [korean_font_on_matplotlib.ipynb](https://colab.research.google.com/github/nicewook/datascience_exercise/blob/master/korean_font_on_matplotlib.ipynb)
 * [Matplotlib: Your First Plot With Python](https://www.youtube.com/watch?v=SRgYGhRXVlY)
 * [Matplotlib Defaults & Fonts](https://jehyunlee.github.io/2020/02/13/Python-DS-2-matplotlib/)
+* [Matplotlib Colormap (1)](https://jehyunlee.github.io/2020/03/01/Python-DS-4-matplotlib_colormap/)
