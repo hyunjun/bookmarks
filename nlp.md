@@ -383,6 +383,7 @@ NLP
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (1/2)](https://paul-hyun.github.io/bert-01/)
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (2/2)](https://paul-hyun.github.io/bert-02/)
 * [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers/)
+* [BERT로 Q&A 구현해보기 With SQuAD AND KERAS](https://www.youtube.com/watch?v=LuApA264Wbs)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
 
@@ -1131,6 +1132,7 @@ NLP
 * [Presenting Multitask Learning as Question Answering: The Natural Language Decathlon](https://www.techleer.com/articles/527-presenting-multitask-learning-as-question-answering-the-natural-language-decathlon/)
 * [ATOMIC An Atlas of Machine Commonsense for If-Then Reasoning](https://homes.cs.washington.edu/~msap/atomic/)
 * [Run your own Q&A Platforms like Stackoverflow or Quora with Open Source Projects for free!](https://www.youtube.com/watch?v=9VOA0PgeemI)
+* [7 open source Q&A platforms](https://opensource.com/article/20/2/open-source-qa)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
