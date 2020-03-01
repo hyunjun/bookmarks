@@ -376,6 +376,7 @@ SQL
 * [Replica 에 Write 가 된다고? MySQL Writable Replica 로 데이터 분석용 DB 만들기](https://blog.gangnamunni.com/2020/02/05/mysql_writable_replica_on_aws.html)
 * [MySQL (MariaDB) 인덱스 컨디션 푸시다운](https://jojoldu.tistory.com/474)
 * [1. 커버링 인덱스 (기본 지식 / WHERE / GROUP BY)](https://jojoldu.tistory.com/476)
+* [2. 커버링 인덱스 (WHERE + ORDER BY / GROUP BY + ORDER BY )](https://jojoldu.tistory.com/481)
 * [MySQL의 다양한 실행 프로그램 mysqld_safe, mysql.server, mysqld_multi feat.mysqld](https://stricky.tistory.com/164)
 * [MySQL 8.0 테이블스페이스 관리 방법 변경 내용 feat.테이블 스페이스 삭제한다면?!](https://stricky.tistory.com/166)
 
