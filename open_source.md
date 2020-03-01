@@ -207,6 +207,7 @@ Open Source
 
 # Netflix
 * [OSS](http://netflix.github.io/)
+* [AVIF for Next-Generation Image Coding](https://netflixtechblog.com/avif-for-next-generation-image-coding-b1d75675fe4)
 * [Conductor](https://github.com/Netflix/conductor) a microservices orchestration engine
   * [Netflix Conductor: A microservices orchestrator](https://medium.com/netflix-techblog/netflix-conductor-a-microservices-orchestrator-2e8d4771bf40)
   * [Evolution of Netflix Conductor: v2.0 and beyond](https://medium.com/netflix-techblog/evolution-of-netflix-conductor-16600be36bca)
