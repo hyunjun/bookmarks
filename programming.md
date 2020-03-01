@@ -22,6 +22,7 @@ Programming
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+* [15 App Ideas to Build and Level Up your Coding Skills](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
@@ -1512,6 +1513,8 @@ Programming
   * [1월 5주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/02/b-1-5.html)
   * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/02/b-2-1.html)
   * [2월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/02/b-2-2.html)
+  * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/02/b-2-3.html)
+  * [2월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/02/b-2-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
