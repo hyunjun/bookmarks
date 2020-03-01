@@ -235,6 +235,7 @@ Go
 * [Go's Tooling is an Undervalued Technology](https://nullprogram.com/blog/2020/01/21/)
 * [쉽고 빠른 Go 시작하기](https://academy.nomadcoders.co/p/go-for-beginners)
 * [Notes on the Go translation of Reposurgeon](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc)
+* [Go: Finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)
 
 # API
 * [www.dotnetperls.com/go](http://www.dotnetperls.com/go)
