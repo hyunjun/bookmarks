@@ -297,6 +297,7 @@ Data Science
 * [Top 5 must-have Data Science skills for 2020](https://www.kdnuggets.com/2020/01/top-5-data-science-skills-2020.html)
 * [순차 패턴 마이닝을 활용한 EHR 분석 – 1편](https://linewalks.com/archives/6452)
 * [순차 패턴 마이닝을 활용한 EHR 분석 – 2편](https://linewalks.com/archives/6467)
+* [데이터사이언스 취업 전에 꼭 고민하면 좋을 내용 공개!](https://www.youtube.com/watch?v=03AWzU5mkOI)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
