@@ -97,3 +97,4 @@ Elixir
   * [다형성 도구인 protocol를 사용한 pheonix param](http://ohyecloudy.com/pnotes/archives/elixir-protocol-phoenix-param/)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
+* sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
