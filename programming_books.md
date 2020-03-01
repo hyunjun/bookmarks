@@ -1012,6 +1012,7 @@ Programming Books
   * [실전 리액트 프로그래밍](http://ebook.insightbook.co.kr/book/68)
 * (NOT YET) [스무디 한 잔 마시며 끝내는 React Native](https://bjpublic.tistory.com/343)
 * (NOT YET) [파이썬과 리액트를 활용한 주식 자동거래 시스템 구축 데이터 수집부터 거래 자동화, API 서버, 웹 개발, 데이터 분석까지 아우르는](https://wikibook.co.kr/stock-trading/)
+* (NOT YET) [Do it! 리액트 프로그래밍 정석](https://sihan-son.github.io/do-it-react/)
 
 ## Vue.js
 * (빠르게 배워서 바르게 적용하는) Vue.js 퀵 스타트
@@ -1086,12 +1087,14 @@ Programming Books
 * (NOT YET) [실습과 그림으로 배우는 리눅스 구조](https://jybaek.tistory.com/784)
 * (NOT YET) [12가지 실무 프로젝트로 배우는 리눅스 관리의 기술 모던 리눅스 관리](https://www.gilbut.co.kr/book/view?bookcode=BN002552)
 
-## Shell script
+## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
   * 한라 005.44오57ㅇ
   * 상황에 맞는 예제가 있는 경우 좋을 듯
 * (NOT YET) 배시 핵심 레퍼런스
   * 2017.01
+* (NOT YET) [bash를 활용한 사이버 보안 운영 자료 수집, 로그 분석, 침입 탐지, 역공학, 보안 관리까지 실전 CLI 활용 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B1345967931)
+  * [bash를 활용한 사이버 보안 운영](http://occamsrazr.net/tt/360)
 
 ## Unix
 
