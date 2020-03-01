@@ -206,6 +206,7 @@ Haskell
 * [Frege - a Haskell for the JVM](https://github.com/Frege/frege)
 * [Froskell - Haskell with unlockable features for teaching programming](https://secure.plaimi.net/papers/2015-01-16-froskell-programming-language.html)
 * [ghc-ios-scripts - Scripts for building GHC and Haskell programs for iOS](https://github.com/ghc-ios/ghc-ios-scripts)
+* [Gitpod Haskell - Gitpod Support for haskell](https://github.com/JesterOrNot/Gitpod-Haskell)
 * [h4sh - Fork of Don Stewarts h4sh haskell shell scripts http://www.cse.unsw.edu.au/~dons/h4sh.html](https://github.com/cpennington/h4sh)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * [HaskellR - Programming R in Haskell](https://tweag.github.io/HaskellR/)
