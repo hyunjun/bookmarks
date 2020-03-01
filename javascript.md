@@ -641,6 +641,7 @@ Javascript
 * [카카오커머스를 지탱하는 Angular](https://tech.kakao.com/2019/11/27/kakao-commerce-frontend-angular/)
 * [10 Useful Angular Features You’ve Probably Never Used](https://blog.bitsrc.io/10-useful-angular-features-youve-probably-never-used-e9e33f5c35a7)
 * [Angular 8 — Share Component Data with Other Components](https://levelup.gitconnected.com/angular-7-share-component-data-with-other-components-1b91d6f0b93f)
+* [RxJS in Angular: Part I](https://medium.com/angular-in-depth/rxjs-in-angular-part-1c5409610d8e)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
