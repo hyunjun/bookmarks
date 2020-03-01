@@ -3462,6 +3462,7 @@ Python
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 * [2D Convolution in Python similar to Matlab's conv2](http://stackoverflow.com/questions/16121269/2d-convolution-in-python-similar-to-matlabs-conv2)
 * [Area of sinc and jinc function lobes](https://www.johndcook.com/blog/2019/12/31/sinc-jinc-lobes/)
+* [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2)
 
 # [SymPy](http://www.sympy.org/)
 * [Unification in SymPy](http://matthewrocklin.com/blog/work/2012/11/01/Unification/)
