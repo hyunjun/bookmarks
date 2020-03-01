@@ -751,6 +751,9 @@ Programming Books
 * (NOT YET) [밑바닥부터 시작하는 비트코인](http://www.hanbit.co.kr/store/books/look.php?p_code=B2663064363)
 * (NOT YET) [누구나 할 수 있다. 비트코인 자동 매매](https://pystock.net/2) PyQt, scraping
 
+# Flutter
+* (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
+
 # Functional programming
 * (NOT YET) [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
 * (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
