@@ -583,6 +583,8 @@ Programming
 * [Many Nodes, One Distributed System](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
 * [Getting Real About Distributed System Reliability](https://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability)
 * [분산 시스템의 도전 과제](https://aws.amazon.com/ko/builders-library/challenges-with-distributed-systems/)
+* [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
+  * [**확장성 있는 웹 아키텍처와 분산 시스템**](https://d2.naver.com/helloworld/206816)
 
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
