@@ -1476,12 +1476,14 @@ Programming Books
 
 ## Scala Akka
 * (NOT YET) [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/store/books/look.php?p_code=E3400029901)
-* [러닝 아카: 더 비기닝 - 리액티브 프로그래밍의 시작! 리액티브 선언문에 충실한 분산 시스템 개발을 위한 지침서](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=114537458)
+* [러닝 아카: 더 비기닝 - 리액티브 프로그래밍의 시작! 리액티브 선언문에 충실한 분산 시스템 개발을 위한 지침서](https://jiandson.co.kr/books/108)
   * 2017.08
   * 한라 005.13 굿66ㄹ
 * [Akka 코딩 공작소](https://www.gilbut.co.kr/book/view?bookcode=BN001795)
   * 한라 005.118 뢰57ㅇ
   * Akka in Action 번역서, scala 2.12.2, JDK 1.8.0_121, sbt 0.13.15, Akka 2.5.0 기준
+* (NOT YET) [Akka 쿡북 다양한 레시피로 아카를 쉽게 배워보기](http://acornpub.co.kr/book/akka-cookbook)
+* (NOT YET) [아카를 이용한 마이크로서비스 개발 예제 애플리케이션 구축과 함께하는 아카 이해하기](http://acornpub.co.kr/book/mastering-akka)
 
 # Spark
 
