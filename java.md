@@ -556,6 +556,9 @@ Java
 * [Java GC Tuning for Noobs: Part 2, Generational](http://onemogin.com/java/gc/java-gc-tuning-generational.html)
 * [Java GC Tuning for Noobs: Part 3, Parallelism](http://onemogin.com/java/gc/java-gc-cms.html)
 * [TIL-12: Garbage Collection: Young vs Old Generations](https://medium.com/@recepinancc/til-12-garbage-collection-young-vs-old-generations-ab95b6a68653)
+* [**JVM 메모리 구조와 GC**](https://johngrib.github.io/wiki/jvm-memory/)
+* [**Java HotSpot VM G1GC**](https://johngrib.github.io/wiki/java-g1gc/)
+* [Java 의 GC는 어떻게 동작하나?](https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
@@ -564,7 +567,6 @@ Java
 * [JAVA 실행 시 Heap 설정 메모리 설정 관련](https://202psj.tistory.com/908)
 * [Java8이상에서 MaxMetaspaceSize 설정, 반드시 해야할까?](https://blog.voidmainvoid.net/210)
 * [Java 8 에서 사라진 maxPermSize, PermSize을 대체하는 옵션?](https://blog.voidmainvoid.net/184)
-* [JVM 메모리 구조와 GC](https://johngrib.github.io/wiki/jvm-memory/)
 * [What is the meaning of the -XX:NewRatio and -XX:OldSize JVM flags?](https://stackoverflow.com/questions/6859683/what-is-the-meaning-of-the-xxnewratio-and-xxoldsize-jvm-flags)
 * [Useful JVM Flags – Part 1 (JVM Types and Compiler Modes)](https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-1-jvm-types-and-compiler-modes/)
 * [Useful JVM Flags – Part 2 (Flag Categories and JIT Compiler Diagnostics)](https://blog.codecentric.de/en/2012/07/useful-jvm-flags-part-2-flag-categories-and-jit-compiler-diagnostics/)
