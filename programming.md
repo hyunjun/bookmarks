@@ -591,6 +591,7 @@ Programming
 * [LAYERED ARCHITECTURE(계층형 아키텍처)](https://wikibook.co.kr/article/layered-architecture/)
 * [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years/read_full)
 * [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
+* [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
