@@ -2652,6 +2652,7 @@ Javascript
 * [Keep Your Promises in TypeScript using async/await](https://blog.bitsrc.io/keep-your-promises-in-typescript-using-async-await-7bdc57041308)
 * [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/카카오페이지-글로벌-웹-개발-후기-d15402becaef)
 * [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/안심번호-마이크로서비스-개발하기-fb1a8817b059)
+* [API 호출 테스트 코드 작성 방법 (with Typescript)](https://imch.dev/posts/how-to-write-a-test-code-about-api-call-with-typescript)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
@@ -2813,3 +2814,4 @@ Javascript
 * [Vue.js는 얼마나 쉬울까?](https://www.notion.so/Vue-js-fedb5ceb8f05421c92517899c6804265)
 * [Vue 에서 Axios를 사용하여 서버통신 해보기](https://mishka.kr/2020/02/19/axios/)
 * [Tutorial - Build an Instagram clone with Vue.js and CSSGram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
+* [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://woowabros.github.io/experience/2020/03/02/pilot-project-wbluke.html)
