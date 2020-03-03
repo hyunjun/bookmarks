@@ -864,6 +864,7 @@ Java
 * [JPA N+1 발생원인과 해결 방법](https://www.popit.kr/jpa-n1-%EB%B0%9C%EC%83%9D%EC%9B%90%EC%9D%B8%EA%B3%BC-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95)
 * [Spring-Jpa Best Practices](https://github.com/cheese10yun/spring-jpa-best-practices)
 * [JPA 선호하는 패턴](https://cheese10yun.github.io/jpa-preference/)
+* [JPA 선호하는 패턴](https://www.popit.kr/jpa-%EC%84%A0%ED%98%B8%ED%95%98%EB%8A%94-%ED%8C%A8%ED%84%B4/)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
