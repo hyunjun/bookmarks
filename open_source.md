@@ -60,6 +60,7 @@ Open Source
 * [번역 오픈소스 에티켓](https://medium.com/jung-han/번역-오픈소스-에티켓-bf59267d1db3)
 * [웹페이지에 쓴 오픈 웹폰트와 자바스크립트 라이센스 표기](https://earlybird.kr/2316) OFL
 * [훌륭한 개발 문화의 이면(6) – 입사하고 싶은 회사를 위한 전략 구사하기](http://channy.creation.net/blog/1234)
+* [깃허브에서 1만 스타 받은 한국의 오픈소스들](https://byline.network/2020/03/3-63/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
