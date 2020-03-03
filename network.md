@@ -136,6 +136,7 @@ Network
 * [사이 좋게 네트워크를 나눠 쓰는 방법, TCP의 혼잡 제어](https://evan-moon.github.io/2019/11/26/tcp-congestion-control/)
 * [Reverse Engineering a TCP protocol](https://medium.com/swlh/reverse-engineering-a-tcp-protocol-455d248d68fa)
 * [오류를 잡자 : TCP에는 우아한 종료라는 것은 없다](https://sunyzero.tistory.com/269)
+* [오리뎅이의 TCP 이야기](http://blog.naver.com/PostList.nhn?blogId=goduck2&categoryNo=42&from=postList)
 
 # UDP
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
