@@ -1,5 +1,7 @@
 [Rust](http://www.rust-lang.org/)
 ====
+* [tech.fpcomplete.com/rust](https://tech.fpcomplete.com/rust)
+  * [fpcomplete.com/blog/topic/rust](https://www.fpcomplete.com/blog/topic/rust)
 * [Worst-case optimal joins, in dataflow](http://www.frankmcsherry.org/dataflow/relational/join/2015/04/11/genericjoin.html)
 * [Fearless Concurrency with Rust](http://blog.rust-lang.org/2015/04/10/Fearless-Concurrency.html)
 * [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
