@@ -196,6 +196,7 @@
 * [Design patterns in modern JavaScript development](https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca)
 * [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
 * [Object Creation Patterns in JavaScript](https://medium.com/developers-arena/object-creation-patterns-in-javascript-8922d52fad2c)
+* [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
