@@ -363,6 +363,7 @@ Algorithm
 * [Bellman-Ford in 4 minutes — Theory](https://www.youtube.com/watch?v=9PHkk0UavIM)
 * [Bellman-Ford in 5 minutes — Step by step example](https://www.youtube.com/watch?v=obWXjtg0L64)
 * [Floyd–Warshall algorithm in 4 minutes](https://www.youtube.com/watch?v=4OQeCuLYj-4)
+* [플로이드 알고리즘 어떻게 최단거리가 갱신되는가](https://codingdog.tistory.com/entry/%ED%94%8C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%EA%B0%80-%EA%B0%B1%EC%8B%A0%EB%90%98%EB%8A%94%EA%B0%80)
 * [Ford-Fulkerson in 5 minutes — Step by step example](https://www.youtube.com/watch?v=Tl90tNtKvxs)
 * [Top 10 Graph Algorithms you must know before Programming Interview | GeeksforGeeks](https://www.youtube.com/watch?v=RqQBh_Wbcu4)
 * [평생의 여행을 떠나기 위해 자동차에 뛰어 들라! (1 부)](https://community.jmp.com/t5/JMP-Blog/Jump-into-the-car-for-the-road-trip-of-a-lifetime-part-1/ba-p/76419)
