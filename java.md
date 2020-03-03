@@ -559,11 +559,13 @@ Java
 * [**JVM 메모리 구조와 GC**](https://johngrib.github.io/wiki/jvm-memory/)
 * [**Java HotSpot VM G1GC**](https://johngrib.github.io/wiki/java-g1gc/)
 * [Java 의 GC는 어떻게 동작하나?](https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html)
+* [G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
 * `--add-exports java.base/sun.nio.cs=ALL-UNNAMED` [java option --add-exports deprecated된 pakcage를 사용하는 방법](https://medium.com/@strncpy/java-option-add-exports-1f63c81a54a4)
 * ` -XX:+UseTLAB` [Is memory allocation on the JVM lockless](https://stackoverflow.com/questions/8147846/is-memory-allocation-on-the-jvm-lockless)
+* `-XX:+UseG1GC -XX:+UseStringDeduplication` [G1 GC: Reducing Memory Consumption by 20%](https://dzone.com/articles/easy-change-to-reduce-memory-by-20)
 * [JAVA 실행 시 Heap 설정 메모리 설정 관련](https://202psj.tistory.com/908)
 * [Java8이상에서 MaxMetaspaceSize 설정, 반드시 해야할까?](https://blog.voidmainvoid.net/210)
 * [Java 8 에서 사라진 maxPermSize, PermSize을 대체하는 옵션?](https://blog.voidmainvoid.net/184)
