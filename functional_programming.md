@@ -308,6 +308,9 @@ Functional Programming
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 * scalaps [Introducing scalaps: Scala-inspired data structures for Python](https://medium.com/@matthagy/introducing-scalaps-scala-inspired-data-structures-for-python-53f3afc8696)
 
+# Racket
+* [내 맘대로 프로그램 설계 7. - 함수형 프로그래밍](https://black7375.tistory.com/62)
+
 # Scala
 * [Scala code examples for Functional Programming Jargon](https://github.com/ikhoon/functional-programming-jargon.scala)
 * [A Beginner-Friendly Tour through Functional Programming in Scala](http://degoes.net/articles/easy-monads)
