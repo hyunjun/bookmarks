@@ -2527,6 +2527,7 @@ Javascript
 * [Redux with Code-Splitting and Type Checking](https://blogs.dropbox.com/tech/2019/07/redux-with-code-splitting-and-type-checking/)
 * [React Redux](https://opentutorials.org/module/4518)
 * [React Redux](https://www.youtube.com/playlist?list=PLuHgQVnccGMDuVdsGtH1_452MtRxALb_7)
+* [Redux Toolkit을 활용한 React 상태 관리](https://blog.rhostem.com/posts/2020-03-04-redux-toolkits)
 
 # TDD, Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
