@@ -616,6 +616,8 @@ Scala
 * String
   * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
   * [**Compression; String <-> Array\[Byte\]**](https://gist.github.com/owainlewis/1e7d1e68a6818ee4d50e)
+* time
+  * [practice - DateTimeFormatter ZoneId ZonedDateTime](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
@@ -840,6 +842,7 @@ Scala
   * [Getting started with #Scalafix](https://www.youtube.com/watch?v=Xl8oOmFNGgQ)
   * [Write your own #Scalafix rules from scratch!](https://www.youtube.com/watch?v=uh7VFcOpu20)
 * scalafmt
+  * [avoidinfix](https://scalameta.org/scalafmt/docs/configuration.html#avoidinfix)
   * [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
   * [Getting started with #Scalafmt](https://www.youtube.com/watch?v=nN2aBMcUAjE)
   * [neo-sbt-scalafmt](https://github.com/lucidsoftware/neo-sbt-scalafmt)
