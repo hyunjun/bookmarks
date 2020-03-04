@@ -67,5 +67,7 @@ Flutter
 * [다트 주석, 변수, 상수, 타입](https://brunch.co.kr/@mystoryg/118)
 * [다트 함수(Dart Function)](https://brunch.co.kr/@mystoryg/119)
 * [다트 연산자(Dart Operator)](https://brunch.co.kr/@mystoryg/120)
+* [다트 조건문과 반복문(Control Flow)](https://brunch.co.kr/@mystoryg/121)
+* [다트 클래스(Dart Class)](https://brunch.co.kr/@mystoryg/122)
 * [dart : Invalid UTF8 sequence encountered](https://sunyzero.tistory.com/262)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
