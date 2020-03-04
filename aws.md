@@ -362,6 +362,7 @@ AWS
 * [AWS Well-Architected Tool 서울 리전 출시](https://aws.amazon.com/ko/blogs/korea/aws-well-architected-tool-seoul/)
 * [AWS에서 대용량 텍스트 문서를 번역하는 방, Amazon Translate](https://blog.naver.com/didim365_/221812362812)
 * [캐치딜 백엔드 개발이야기 : 좌충우돌 서버 설계 및 운영 이야기](https://kbs4674.tistory.com/114)
+* [팟캐스트 차니의 클라우드 클리닉 시작합니다!](http://blog.creation.net/channy-cloud-clinic-ep1-2)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
