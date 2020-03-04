@@ -7,6 +7,7 @@ Health
 * [식단 조절이나 운동 없이 살 빼는 법 17](http://www.huffingtonpost.kr/2015/05/15/story_n_7289058.html)
 * [핏짜의 등산 바이블 전자책 무료 공개](http://bestseller.tistory.com/)
 * [꼭꼭 누르면 두통 '2분' 만에 싹 사라지는 지압점 6곳](http://www.insight.co.kr/newsRead.php?ArtNo=98820)
+* [20200304 만성 편두통 진료일지 첫번째 앰겔러티(Emgality) 주사](https://realignist.me/20200304-migraine-diary-93fb8b550484)
 
 # Exercise
 * [걷기 운동, 그 효과와 올바른 방법](http://ppss.kr/archives/41198)
