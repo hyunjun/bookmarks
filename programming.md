@@ -1619,6 +1619,7 @@ Programming
   * [월간 개발자스럽다 #49](https://blog.gaerae.com/2019/11/monthly.html)
   * [월간 개발자스럽다 #50](https://blog.gaerae.com/2019/12/monthly.html)
   * [월간 개발자스럽다 #51](https://blog.gaerae.com/2020/01/monthly.html)
+  * [월간 개발자스럽다 #52](https://blog.gaerae.com/2020/02/monthly.html)
 * [news.hada.io](https://news.hada.io/)
 * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
