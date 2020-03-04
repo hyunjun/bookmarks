@@ -97,6 +97,7 @@ Android
 * [안드로이드 카메라 예제 (2/2)](https://brunch.co.kr/@mystoryg/55)
 * [안드로이드 카메라 프리뷰 좌우 반전](https://brunch.co.kr/@mystoryg/96)
 * [CameraX Beta버전을 사용해 보겠습니다](https://developer88.tistory.com/218)
+* [CameraX와 ML Kit을 활용한 QR코드 리더기능 구현하기](https://developer88.tistory.com/261)
 * [안드로이드에서 adb shell로 apk 추출하기](http://sunphiz.me/wp/archives/3210)
 * [APK 소스코드 분석하기](https://www.popit.kr/how-to-decompile-an-android-apps/)
 * [자주 사용하는 ADB명령어들에 대해서 알아보자](https://developer88.tistory.com/189)
