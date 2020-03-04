@@ -1374,6 +1374,7 @@ Python
 # Documentation
 * [continuous-docs - Tutorial and example package for continuous documentation generation in Python](https://github.com/icgood/continuous-docs/)
 * [portray - a Python3 command line tool and library that helps you create great documentation websites for your Python projects with as little effort as possible](https://timothycrosley.github.io/portray/)
+* drf-yasg [drf-yasg에 예제값 달기](https://item4.blog/2020-03-04/Add-Example-on-drf-yasg/)
 * pydoc
   * [PyDoc - A Celebration of Documentation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=URBSvqib0xw)
   * [Best Practices With Documenting and Refactoring Python Code](https://www.youtube.com/watch?v=S8P_pJrw9uk)
@@ -1623,6 +1624,7 @@ Python
 * [How to send an email with Python](https://www.youtube.com/watch?v=gzv183G9Vew)
 * [How to Read Emails using IMAP Download Attachments Python 3 for Beginners 2018](https://www.youtube.com/watch?v=e-OZeAHFpkw)
 * [Using Markdown to Create Responsive HTML Emails](https://pbpython.com/markdown-email.html)
+* [파이썬을 이용하여 이메일(email) 전송 - 파일첨부, HTML 양식 사용](https://blog.naver.com/pjt3591oo/221836832117)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 
