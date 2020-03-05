@@ -1627,6 +1627,7 @@ Python
 * [파이썬을 이용하여 이메일(email) 전송 - 파일첨부, HTML 양식 사용](https://blog.naver.com/pjt3591oo/221836832117)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
+* [exchangelib - Python client for Microsoft Exchange Web Services (EWS)](https://github.com/ecederstrand/exchangelib)
 
 # Excel, Spreadsheet
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
