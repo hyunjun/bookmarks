@@ -1094,6 +1094,7 @@ Programming
 * [The Guide to Cloudbase App Automation with Jim Rose of CircleCI](https://hackernoon.com/the-guide-to-cloudbase-app-automation-with-jim-rose-of-circleci-5afa8e86bee6)
 * [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
 * [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
+* [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
