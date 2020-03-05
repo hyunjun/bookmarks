@@ -151,6 +151,7 @@ Git
 * [.NET Core 콘솔 앱으로 커스텀 GitHub Action 만들기](https://blog.aliencube.org/ko/2020/02/19/building-custom-github-action-with-dotnet-core/)
 * [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
 * [깃헙 액션으로 ChatOps 구현하기](https://blog.aliencube.org/ko/2020/03/05/implementing-chatops-on-github-actions/) microsoft teams 연결
+* [github.com - action](https://www.youtube.com/watch?v=uBOdEEzjxzE)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
