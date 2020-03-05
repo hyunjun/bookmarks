@@ -477,6 +477,7 @@ Programming Books
 * (NOT YET) [수학으로 풀어보는 강화학습 원리와 알고리즘](https://github.com/pasus/Reinforcement-Learning-Book)
   * [수학으로 풀어보는 강화학습 원리와 알고리즘 예제(TF2.0 버전)](https://github.com/Yeachan-Heo/Reinforcement-Learning-Book)
 * (NOT YET) [검색을 위한 딥러닝: 심층 신경망을 활용하는 차세대 검색 엔진 개발](https://jpub.tistory.com/1017)
+* (NOT YET) [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -1545,6 +1546,7 @@ Programming Books
 * (NOT YET) [계산하지 말고 이해하자! 프로그래머를 위한 확률과 통계](https://www.gilbut.co.kr/book/view?bookcode=BN002428)
 * (NOT YET) [통계학: 파이썬을 이용한 분석](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=164788166)
 * (NOT YET) [세상에서 가장 재미있는 통계학](http://jhrogue.blogspot.com/2019/12/blog-post.html)
+* (NOT YET) [파이썬으로 배우는 통계학 교과서 기초 이론부터, 모델, 머신러닝까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7226175941)
 
 # Window
 * (NOT YET) 실무에서 바로쓰는 파워셸
