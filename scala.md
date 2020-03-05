@@ -246,6 +246,7 @@ Scala
 * [Building Serverless Scala Services with GraalVM](https://www.inner-product.com/posts/serverless-scala-services-with-graalvm/)
 * [Deploying a full stack Scala application on Heroku](https://medium.com/@antoine.doeraene/deploying-a-full-stack-scala-application-on-heroku-6d8093a913b3)
 * [Fledge over the flow … How to determine a streaming problem](https://medium.com/@hajjijo313/fledge-over-the-flow-66e065b1ddbb) This is a story about a little experience of integrating (Akka-Stream, Alpakka-Kafka, Kafka, Aplakka-Slick, TimescaleDB) — Part 1/3
+* [How to publish a Scala library in GitHub Packages](https://medium.com/@supermanue/how-to-publish-a-scala-library-in-github-bfb0fa39c1e4)
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
@@ -511,6 +512,7 @@ Scala
 * List
   * `List.fill([length])([element])`
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
+  * [HList - The Heterogeneous List](https://francistoth.github.io/2020/02/29/hlist.html)
 * Map
   * [Best way to merge two maps and sum the values of same key?](http://stackoverflow.com/questions/7076128/best-way-to-merge-two-maps-and-sum-the-values-of-same-key)
 * math
@@ -767,8 +769,10 @@ Scala
     * [Real World Cats](https://drive.google.com/file/d/1OFoSSkXpVWb556paI6OKCQgMCGMguvO8/view)
   * [Cats Effect Ref](https://lewisjkl.com/cats-effect-ref/)
   * [Data Juggling - Part 6 - Introduction to #Cats (Functional Error Handling - Part 1)](https://www.youtube.com/watch?v=BPexEu4yFVc)
+  * [Data Juggling - Part 7 - Applicative vs Monadic Styles (Functional Error Handling - Part 2)](https://www.youtube.com/watch?v=kseiQ1DRPdM)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
+  * Cats STM [Announcing Cats STM 0.7.0](https://medium.com/permutive/announcing-cats-stm-0-7-0-5af9a0f72920)
 * [Chimney - Scala library for boilerplate-free data transformations](https://scalalandio.github.io/chimney/)
   * [Data Juggling - Part 1 - Getting Started with #Chimney](https://www.youtube.com/watch?v=ezz0BpEHEQY)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
