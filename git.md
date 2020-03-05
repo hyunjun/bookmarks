@@ -122,15 +122,6 @@ Git
 * [깃(Git) 필수 명령어](https://tech.10000lab.xyz/git/git-cheat-sheet.html)
 * [가장 쉬운 Git 강좌 - (상) 혼자작업편](https://www.youtube.com/watch?v=FXDjmsiv8fI)
 * [가장 쉬운 Git 강좌 - (하) Github편](https://www.youtube.com/watch?v=GaKjTjwcKQo)
-* [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
-* [GitHub Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
-* [Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/)
-* [**GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기**](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
-* [**GithubAction+React+AWS S3**](https://velog.io/@loakick/series/GithubActionReactAWS-S3)
-* [Accelerating new GitHub Actions workflows https://github.com/features/actions ](https://github.com/actions/starter-workflows)
-* [**GitHub Actions로 간단히 CI 서버 대신하기**](https://huns.me/posts/2019-12-05-33)
-* [.NET Core 콘솔 앱으로 커스텀 GitHub Action 만들기](https://blog.aliencube.org/ko/2020/02/19/building-custom-github-action-with-dotnet-core/)
-* [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
 * [주요 깃 서비스 비교](https://www.youtube.com/watch?v=a6h22u5r67M)
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
 * [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
@@ -148,6 +139,18 @@ Git
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 * [Github 패스워드 교체시 로컬 비밀번호도 변경하기](https://jojoldu.tistory.com/467)
+
+# Action
+* [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
+* [GitHub Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
+* [Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/)
+* [**GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기**](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
+* [**GithubAction+React+AWS S3**](https://velog.io/@loakick/series/GithubActionReactAWS-S3)
+* [Accelerating new GitHub Actions workflows https://github.com/features/actions ](https://github.com/actions/starter-workflows)
+* [**GitHub Actions로 간단히 CI 서버 대신하기**](https://huns.me/posts/2019-12-05-33)
+* [.NET Core 콘솔 앱으로 커스텀 GitHub Action 만들기](https://blog.aliencube.org/ko/2020/02/19/building-custom-github-action-with-dotnet-core/)
+* [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
+* [깃헙 액션으로 ChatOps 구현하기](https://blog.aliencube.org/ko/2020/03/05/implementing-chatops-on-github-actions/) microsoft teams 연결
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
