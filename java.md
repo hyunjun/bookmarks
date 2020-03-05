@@ -271,6 +271,7 @@ Java
 * [Snippets About Concurrency](https://hackernoon.com/a-sad-story-about-concurrency-346990a9a3fe)
 * [스레드 안정성](https://astrod.github.io/book/2018/08/01/%EC%8A%A4%EB%A0%88%EB%93%9C-%EC%95%88%EC%A0%95%EC%84%B1/)
 * [객체 공유](https://astrod.github.io/book/2018/08/07/%EC%9E%90%EB%B0%94-%EB%B3%91%EB%A0%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B0%9D%EC%B2%B4-%EA%B3%B5%EC%9C%A0/)
+* [java thread stop: 왜 권장하지 않는 함수가 되었을까요?](https://codingdog.tistory.com/entry/java-thread-stop-%EC%99%9C-%EA%B6%8C%EC%9E%A5%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%95%A8%EC%88%98%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [java thread suspend resume 예제 하나만 간단하게-봅시다](https://codingdog.tistory.com/entry/java-thread-suspend-resume-예제-하나만-간단하게-봅시다)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
