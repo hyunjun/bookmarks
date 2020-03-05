@@ -703,6 +703,7 @@ Javascript
 * [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
 * [Eloquent JavaScript 3RD EDITION](http://eloquentjavascript.net/)
 * [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+* [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read_full)
 * [The Road to learn React](https://leanpub.com/the-road-to-learn-react/read_full)
 * [Reintroducing React](https://leanpub.com/reintroducing-react)
