@@ -476,6 +476,7 @@ Programming Books
 * (NOT YET) [알파제로를 배우며 분석하는 인공지능: 딥 러닝, 강화 학습, 탐색으로 배우는 인공지능 프로그래밍](https://jpub.tistory.com/993)
 * (NOT YET) [수학으로 풀어보는 강화학습 원리와 알고리즘](https://github.com/pasus/Reinforcement-Learning-Book)
   * [수학으로 풀어보는 강화학습 원리와 알고리즘 예제(TF2.0 버전)](https://github.com/Yeachan-Heo/Reinforcement-Learning-Book)
+* (NOT YET) [검색을 위한 딥러닝: 심층 신경망을 활용하는 차세대 검색 엔진 개발](https://jpub.tistory.com/1017)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
