@@ -725,8 +725,9 @@ Programming
 * [3# 데이터 엔지니어와 마이크로 서비스 구축 SI 프로젝트](https://www.popit.kr/3-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%99%80-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-si-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 * [Uber의 Message Queue, Akka, Vim, Java](https://sangwook.github.io/2016/12/14/uber-message-queue-akka-vim-java.html)
 * [Preparing For a Future Microservices Journey Using Wardley Maps](https://www.youtube.com/watch?v=1cnLMuBABo0)
-* [커머스 코드 자산화 개발일지 - 1 시작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-%EC%8B%9C%EC%9E%91)
+* [커머스 코드 자산화 개발 일지-1 시작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-%EC%8B%9C%EC%9E%91)
 * [커머스 코드 자산화 개발 일지-2 상품을 팔지 않고 오퍼를 판다](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-2-%EC%83%81%ED%92%88%EC%9D%84-%ED%8C%94%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%98%A4%ED%8D%BC/)
+* [커머스 코드 자산화 개발 일지-3 오퍼를 쇼핑몰에](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-3-%EC%98%A4%ED%8D%BC%EB%A5%BC-%EC%87%BC%ED%95%91%EB%AA%B0%EC%97%90/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
