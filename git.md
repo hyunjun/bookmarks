@@ -152,6 +152,7 @@ Git
 * [GitHub Actions으로 날씨알리미 만들기](https://qiita.com/leechungkyu/items/e57951cdaa046acafd76)
 * [깃헙 액션으로 ChatOps 구현하기](https://blog.aliencube.org/ko/2020/03/05/implementing-chatops-on-github-actions/) microsoft teams 연결
 * [github.com - action](https://www.youtube.com/watch?v=uBOdEEzjxzE)
+* [30분만에 만드는 깃헙 액션 - 라이브 코딩](https://www.youtube.com/watch?v=Hcf4dpTQhwA)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
