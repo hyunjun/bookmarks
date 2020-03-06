@@ -184,6 +184,7 @@ Haskell
 * [Memoization in Haskell](https://kseo.github.io/posts/2017-01-14-memoization-in-hasekll.html)
 * [Lazy Dynamic Programming](http://jelv.is/blog/Lazy-Dynamic-Programming/)
 * [The Evolution of a Haskell Programmer](https://willamette.edu/~fruehr/haskell/evolution.html) 유머라는데 하스켈 프로그래머들만 알아듣는 듯
+* [Sonic 2 in Haskell: Playing with sprites](https://www.youtube.com/watch?v=lm-8sbFFV24)
 
 # Book
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
