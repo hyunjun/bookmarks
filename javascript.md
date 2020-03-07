@@ -536,6 +536,7 @@ Javascript
 * [**Illustrated explanations of web development, technology & a little bit of anthropology**](https://illustrated.dev/)
 * [How to lock an angle when drawing on canvas in JavaScript](https://medium.com/free-code-camp/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c)
 * [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
+* [Implementation of a Clipping Indicator](https://lqez.github.io/blog/implementation-of-a-clipping-indicator.html)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
