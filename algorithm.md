@@ -181,6 +181,7 @@ Algorithm
 * [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
 * [Odd numbers in Pascal’s triangle](https://www.johndcook.com/blog/2020/02/04/odd-numbers-in-pascals-triangle/)
 * [좌표 압축 알고리즘 : 범위가 클 때 어떻게 공간을 줄일까요?](https://codingdog.tistory.com/entry/%EC%A2%8C%ED%91%9C-%EC%95%95%EC%B6%95-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B2%94%EC%9C%84%EA%B0%80-%ED%81%B4-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B3%B5%EA%B0%84%EC%9D%84-%EC%A4%84%EC%9D%BC%EA%B9%8C%EC%9A%94)
+* [큰 수를 어떻게 좌표 압축하면 좋을까요](https://codingdog.tistory.com/entry/%ED%81%B0-%EC%88%98%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A2%8C%ED%91%9C-%EC%95%95%EC%B6%95%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [8 Common Data Structures every Programmer must know](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 
 # Anagram
