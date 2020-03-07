@@ -41,6 +41,7 @@ iOS
 * [아이폰 앱 개발자가 알아야 할 14가지](https://brunch.co.kr/@imagineer/222)
 * [iOS, 아이폰 앱을 내 손으로 만들어보자](https://www.youtube.com/playlist?list=PLW6vRth7cf-P6AnuwemVfgbyIqoQfrH2d)
 * [CocoaPods 설치 및 Pod 설치](http://blog.yagom.net/534)
+* [코코아팟 pod install 혹은 pod update 도중 오류가 발생할 때 대처법](https://blog.yagom.net/%ec%bd%94%ec%bd%94%ec%95%84%ed%8c%9f-pod-install-%ed%98%b9%ec%9d%80-pod-update-%eb%8f%84%ec%a4%91-%ec%98%a4%eb%a5%98%ea%b0%80-%eb%b0%9c%ec%83%9d%ed%95%a0-%eb%95%8c-%eb%8c%80%ec%b2%98%eb%b2%95/)
 * [Pinterest의 데이터 레이어 재설계에서 배우는 데이터 일관성 유지하기](https://realm.io/kr/news/slug-wendy-lu-data-consistency/)
 * [Objective-C의 상수와 Swift의 상수](http://blog.yagom.net/538)
 * iOS 인터뷰 질문 답변 50선
