@@ -969,6 +969,7 @@ NLP
   * [KoNLPer - KoNLP 결과를 보내주는 flask with r 서버 dockerize http://konlper.duckdns.org/list](https://github.com/mrchypark/KoNLPer)
 * [KoSpacing - Automatic Korean word spacing with R](https://github.com/haven-jeon/KoSpacing)
   * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
+  * [Automatic Korean word spacing with neural n-gram detector(NND)](https://github.com/haven-jeon/Train_KoSpacing)
 
 ## Library Scala
 * [Open Korean Text Processor - An Open-source Korean Text Processor](https://github.com/open-korean-text/open-korean-text)
