@@ -312,6 +312,7 @@ Programming Language
 * Pascal
   * [Remote Control](https://github.com/ryujt/remote-control)
     * [오픈소스 PC 원격제어](https://ryulib.tistory.com/469)
+  * [XD Pascal: A small embeddable self-hosting Pascal compiler for Windows. Supports Go-style methods and interfaces](https://github.com/vtereshkov/xdpw)
 * Perl
   * [Perl::Koans](https://github.com/forcedotcom/PerlKoans)
   * [Statusuebersicht Perl VMs](https://dresden-pm.github.io/gpw2015/html/talks/VmStatus.html)
