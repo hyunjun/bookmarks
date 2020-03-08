@@ -593,6 +593,7 @@ Git
 * [git-visualizer](http://veniversum.me/git-visualizer/)
 * [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
+* [grep.app - Search across a half million git repos](https://grep.app/)
 * [Hot-Repos - Periodically share links of hot GitHub repositories on FB](https://github.com/parkjs814/Hot-Repos)
   * [www.facebook.com/hotrepos](https://www.facebook.com/hotrepos)
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
