@@ -501,6 +501,8 @@ AWS
 * [AWS DynamoDB 사용 경험 정리](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/dynamodb)
 * [Remember All - Serverless architecture example. AWS STS + DynamoDB + S3. http://remembrall.acuros.pe.kr ](https://github.com/acuros/remembrall)
 * [조정 용량을 통해 DynamoDB에서 균일하지 않은 데이터 액세스 패턴을 수용하는 방법](https://aws.amazon.com/ko/blogs/korea/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
+* [Spring Data DynamoDB와 JPA 함께 적용후 문제 발생시 해결방법](https://jojoldu.tistory.com/483)
+* [Spring Data DynamoDB와 Embedded 개발 환경 구축하기](https://jojoldu.tistory.com/484)
 
 # EKS
 * [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
