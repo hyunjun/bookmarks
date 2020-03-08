@@ -40,6 +40,7 @@ Game
 
 # Library
 * [Eller's algorithm creates 'perfect' mazes, having only a single path between any two cells, one row at a time](http://www.neocomputer.org/projects/eller.html)
+* [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
