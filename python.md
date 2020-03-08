@@ -2305,6 +2305,7 @@ Python
 * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
+* [castervoice - On Voice Coding](https://dusty.phillips.codes/2020/02/15/on-voice-coding/)
 * Celery
   * [Introduction to Celery](https://www.youtube.com/watch?v=waD4MEj8WGw)
   * [Introduction to Celery](https://www.youtube.com/watch?v=3cyq5DHjymw)
@@ -2846,6 +2847,7 @@ Python
 * [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
+* [youtube-dl - Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
 
 ## Library cache
@@ -2931,6 +2933,7 @@ Python
 * [Poetry - Python dependency management and packaging made easy. https://poetry.eustace.io ](https://github.com/sdispater/poetry)
   * [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
   * [GitHub Action과 Poetry를 사용한 파이썬 패키지 개발](https://seonghyeon.dev/python-package-development-with-poetry-and-action)
+  * [포에트리를 사용한 파이썬 프로젝트 관리 방법](http://www.itworld.co.kr/news/145472)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/pyenv-virtualenv-autoenv)
