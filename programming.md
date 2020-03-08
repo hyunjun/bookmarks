@@ -507,6 +507,7 @@ Programming
       * [**(번역) 2019년 7월 2일 Cloudflare 장애 보고서**](https://ryanking13.github.io/2019/07/18/details-of-the-cloudflare-outage-on-july-2-2019.html)
   * [The Technical Challenges of Building Cloudflare WARP](https://blog.cloudflare.com/warp-technical-challenges/)
   * [Cloudflare 도입 후기 5년간의 Cloudflare 사용 후기를 공유합니다](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
+  * [Cloudflare Access](https://andromedarabbit.net/cloudflare-access/) access, 접근 제어
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
   * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
   * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
