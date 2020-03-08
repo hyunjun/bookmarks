@@ -53,6 +53,7 @@ Monitoring
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
+* [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
 * [NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html)
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
