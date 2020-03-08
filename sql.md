@@ -170,6 +170,7 @@ SQL
 
 # MSSQL MS SQL
 * [practice - case when](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a#file-case_when-md)
+* [practice - top 1 to read the latest row](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a#file-top_1-md)
 * [practice - troubleshooting](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a)
 * [User Defined Stored Procedures in SQL](https://www.datacamp.com/community/tutorials/user-defined-stored-procedure)
 * [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
