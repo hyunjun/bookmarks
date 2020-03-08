@@ -2072,6 +2072,7 @@ Python
 * [github.com/practical-jupyter/sample-code](https://github.com/practical-jupyter/sample-code)
 * [jupyter notebook(주피터 노트북) 사용법](https://www.youtube.com/watch?v=jmk-3G8FYII)
 * [주피터 노트북 초기 환경설정 BEST3!](https://tariat.tistory.com/741)
+* [GPU Dashboards in Jupyter Lab](https://medium.com/rapids-ai/gpu-dashboards-in-jupyter-lab-757b17aae1d5)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
