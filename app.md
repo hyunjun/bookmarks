@@ -494,6 +494,7 @@ App
 # Firefox
 * [Firemacs v4.3](http://www.mew.org/~kazu/proj/firemacs/en/)
 * [Firefox Debugger로 console.log를 뛰어 넘기](http://hacks.mozilla.or.kr/2017/12/go-beyond-console-log-with-the-firefox-debugger/)
+* [Bypass Paywalls Clean for Firefox](https://github.com/magnolia1234/bypass-paywalls-firefox-clean)
 
 # Google
 * [구글 드라이브 호스팅](https://blog.naver.com/gsuite-reseller/221507513707)
