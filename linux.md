@@ -371,6 +371,7 @@ Linux
   * `sort -t'    ' -k9 -n -r [file name]` tab 구분 시 9번째 column 기준으로 숫자 역순으로 정렬
   * [Sort Files Like A Master With The Linux Sort Command (Bash)](http://www.skorks.com/2010/05/sort-files-like-a-master-with-the-linux-sort-command-bash/)
   * `sort -V` [Sorting numbers inside text strings](http://www.thelinuxrain.com/articles/sorting-numbers-inside-text-strings)
+  * [Sort IP Addresses with GNU sort](https://www.madboa.com/geek/sort-addr/)
 * `split`
   * [텍스트 파일을 잘라보자.split](http://darkrang.tistory.com/179)
 * `ss` replacement of netstat
