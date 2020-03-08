@@ -295,6 +295,9 @@ Functional Programming
 * [Move Over Free Monads: Make Way for Free Applicatives! — John de Goes](https://www.youtube.com/watch?v=H28QqxO7Ihc)
 * [Monad는 무엇인가](https://blog.seulgi.kim/2015/07/what-is-monad.html)
 * [How would you explain a concept of monads to a non-CS person?](https://www.quora.com/How-would-you-explain-a-concept-of-monads-to-a-non-CS-person)
+* [Monad Fact #1](https://www.slideshare.net/pjschwarz/monad-fact-number-1)
+* [Monad Fact #2](https://www.slideshare.net/pjschwarz/monad-fact-2)
+* [Monad Fact #3](https://www.slideshare.net/pjschwarz/monad-fact-number-3)
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
