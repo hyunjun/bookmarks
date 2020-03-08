@@ -881,6 +881,7 @@ Scala
   * [How (not) to use shapeless for cross-layer conversions in Scala](https://blog.softwaremill.com/how-not-to-use-shapeless-for-cross-layer-conversions-in-scala-9ac36363aed9)
 * [Skinny-ORM](http://skinny-framework.org/)
 * [slick - Functional Relational Mapping for Scala](http://slick.lightbend.com/)
+  * [scala-slick.org](https://scala-slick.org/)
   * [Essential Slick](https://books.underscore.io/essential-slick/essential-slick-3.html)
   * [Slick 2 Examples: Querying and Modifying Data](http://queirozf.com/entries/slick-2-examples-querying-and-modifying-data)
   * [What we learned from using Slick](https://powerspace.tech/using-slick-in-production-dbfcbe29545c)
