@@ -246,6 +246,8 @@ C++
 * Boost.Asio
   * [Boost.Asio C++ Network Programming 2판](https://surpreem.com/boost-asio-c-network-programming-2%ED%8C%90/)
 * [Blaze is an open-source, high-performance C++ math library for dense and sparse arithmetic](https://bitbucket.org/blaze-lib/blaze)
+* [Brunsli - a lossless JPEG repacking library](https://github.com/google/brunsli)
+* [C++ Matrix in terminal](https://github.com/akinomyoga/cxxmatrix)
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * Checksum
   * [two types of check sum calculation](https://gist.github.com/MareArts/5676517d8822edc7e00da7e74429cfcb#file-calchecksum-cpp)
@@ -287,6 +289,7 @@ C++
 * [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
 * [Parallelizing the Standard Template Library - Grant Mercer](https://www.youtube.com/watch?v=4xNeOmUW9ic)
 * [Parallel STL](https://parallelstl.codeplex.com/)
+* [PDF2JSON - a conversion library based on XPDF (3.02) which can be used for high performance PDF page by page conversion to JSON and XML format](https://github.com/flexpaper/pdf2json)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
 * [Projucer - The Projucer is a comprehensive project management and code editing tool with a revolutionary C++ live coding environment which has full C++11 support](http://www.juce.com/releases/projucer-juce-4)
 * [PSkel - A high-performance framework for stencil computations](http://pskel.github.io/)
