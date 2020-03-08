@@ -167,6 +167,7 @@ Interview
 * [핀란드 회사 면접 후기](https://www.notion.so/5ba586908f464cb4abb6d9ebd9986211)
 * [레퍼런스 체크 효과적으로 준비하는 방법](https://www.upfly.me/2019/08/29/reference-check-prep/)
 * [해외 기업과 면접과 보기 전에 반드시 알아야할 것](https://www.upfly.me/2019/09/19/what-to-know-before-interview/)
+* [Programming trick questions](https://qntm.org/trick)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
