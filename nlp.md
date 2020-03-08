@@ -476,7 +476,6 @@ NLP
   * [s2 lab1-2: API.ai making bot demo](https://youtu.be/jBnzfLGcn5o)
 * [Multi-domain Neural Network Language Generation for Spoken Dialogue Systems(NAACL-HLT 2016)](https://arxiv.org/abs/1603.01232)
   * [code](https://github.com/shawnwun/RNNLG/tree/master)
-* [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 * [코딩없이 만드는 채팅봇](http://www.closer.co.kr/)
 * [Dialog System - http://nlp.postech.ac.kr/research/dialog_system ](http://nlp.postech.ac.kr/research/dialog_system/)
 * [Do-it-yourself NLP for bot developers](https://medium.com/lastmile-conversations/do-it-yourself-nlp-for-bot-developers-2e2da2817f3d)
@@ -931,7 +930,6 @@ NLP
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
 * [PreNLP - Preprocessing Library for Natural Language Processing](https://github.com/lyeoni/prenlp)
 * [pyeunjeon (python + eunjeon)](https://github.com/koshort/pyeunjeon) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
-* [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 * [pySBD (Python Sentence Boundary Disambiguation) is a rule-based sentence boundary detection that works out-of-the-box](https://github.com/nipunsadvilkar/pySBD)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python-jamo is a Python Hangul syllable decomposition and synthesis library for working with Hangul characters and jamo](https://github.com/JDongian/python-jamo)
@@ -1255,6 +1253,9 @@ NLP
 * [한글 검색 질의어 오타 패턴 분석과 사용자 로그를 이용한 질의어 오타 교정 시스템 구축](http://www.slideshare.net/gogamza/ss-6265729)
 * [사쿠라 훈민정음](http://terms.naver.com/list.nhn?cid=41818&categoryId=41818&so=st4.asc)
 * [**Word Prediction using Convolutional Neural Networks**](https://github.com/Kyubyong/word_prediction)
+* [단디 - 한국어 맞춤법 검사기](https://marketplace.visualstudio.com/items?itemName=fallroot.vscode-dandy)
+* [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
+* [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
