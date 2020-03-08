@@ -174,6 +174,7 @@ App
     * 코드의 hide/show, Altair와 연동하여 인터랙티브한 visualization 삽입, pandas의 데이터 프레임 출력 가능
     * 이미지 캡셔닝, 트위터 카드 삽입, 유투브 비디오 삽입, Warning, Important, Tip, Note 에 대한 박스 삽입 가능
     * 댓글 활성화, 블로그 포스트에 대한 깃헙, 코랩 링크 자동 삽입
+  * [Introducing fastpages - An easy to use blogging platform with extra features for Jupyter Notebooks](https://fastpages.fast.ai/fastpages/jupyter/2020/02/21/introducing-fastpages.html)
 * [핑거프레스 가이드](http://www.visualdive.co.kr/vd-tutorial/)
 * [Flybook - a simple utility to generate static website such as user manual](https://github.com/rhiokim/flybook)
   * [flybook introduction](https://www.youtube.com/watch?v=sQkKVafM6N0)
@@ -364,7 +365,8 @@ App
 * [goodsync.com](http://www.goodsync.com/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Resilio Sync - a fast, reliable, and simple file sync and share solution, powered by P2P technology](https://www.resilio.com/individuals/)
-* Syncthing [싱크띵(Syncthing), 여러 기기간 파일 동기화 애플리케이션 드롭박스 대신 무료로 사용 가능한 오픈소스 프로젝트](https://www.44bits.io/ko/post/syncthink-syncing-file-between-multiple-devices)
+* [Syncthing is a continuous file synchronization program](https://syncthing.net/)
+  * [싱크띵(Syncthing), 여러 기기간 파일 동기화 애플리케이션 드롭박스 대신 무료로 사용 가능한 오픈소스 프로젝트](https://www.44bits.io/ko/post/syncthink-syncing-file-between-multiple-devices)
 
 # Editor
 * [파이썬 기초 강좌 #3 파이썬 코딩을 위한 텍스트 에디터](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%A2%8C-3-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%BD%94%EB%94%A9%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%85%8D%EC%8A%A4%ED%8A%B8-%EC%97%90%EB%94%94%ED%84%B0/)
@@ -728,6 +730,7 @@ App
   * [How you can style your terminal like Medium, freeCodeCamp, or any way you want](https://medium.freecodecamp.org/how-you-can-style-your-terminal-like-medium-freecodecamp-or-any-way-you-want-f499234d48bc)
   * [iTerm2에 Dracular 테마 적용하기](https://jojoldu.tistory.com/428)
   * [**알아두면 도움되는 iTerm2 고급기능**](https://medium.com/harrythegreat/알아두면-도움되는-iterm2-고급기능-81a4cd81bab7)
+  * [Little known features of iTerm2](https://banga.github.io/blog/2020/03/02/little-known-features-of-iterm2.html)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
@@ -958,6 +961,8 @@ App
   * [WinHex](https://www.x-ways.net/winhex/)
 * [Windows Container 안의 Microsoft Office 자동화](https://medium.com/rkttu/microsoft-office-in-windows-container-28a7ff907780)
 * [“빨리 일하고 더 많이 놀기 위한” 윈도우 환경 최적화 팁 10가지](http://www.itworld.co.kr/news/122730)
+* [윈도우10 알아두면 쓸모 있을 팁 5가지](http://www.bloter.net/archives/372994)
+* [7 Tools to Copy Locked or In Use Files](https://www.raymond.cc/blog/copy-locked-file-in-use-with-hobocopy/)
 
 ## Installation
 * 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
