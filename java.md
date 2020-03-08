@@ -561,6 +561,7 @@ Java
 * [**Java HotSpot VM G1GC**](https://johngrib.github.io/wiki/java-g1gc/)
 * [Java 의 GC는 어떻게 동작하나?](https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html)
 * [G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)
+* [java: 도달 가능한 객체가 무엇일까요](https://codingdog.tistory.com/entry/java-%EB%8F%84%EB%8B%AC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
