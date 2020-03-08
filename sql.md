@@ -228,6 +228,9 @@ SQL
       ```
       $ mysql -h [x.y.z.w] -u [userid] -p[password] [database] -N -e "SELECT a.keyword, a.iage, b.keyword, b.iage, a.iage - b.iage FROM (SELECT \`key\`,keyword, age, CHAR_LENGTH(age), CONVERT(SUBSTRING(age, 2, CHAR_LENGTH(age)-2), UNSIGNED) iage, represent, family FROM [table] WHERE age IS NOT NULL) as a join (SELECT \`key\`,keyword, age, CHAR_LENGTH(age), CONVERT(SUBSTRING(age, 2, CHAR_LENGTH(age)-2), UNSIGNED) iage, represent, family FROM [table] WHERE age IS NOT NULL) as b on a.\`key\` != b.\`key\`"
       ```
+  * SHOW
+    * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
+    * [Show Comment of Fields FROM Mysql Table](https://stackoverflow.com/questions/5404051/show-comment-of-fields-from-mysql-table)
   * [`UPDATE salary SET sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;`](https://leetcode.com/problems/swap-salary/solution/)
 * troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://blog.daum.net/iamwhoi/5740153)
@@ -367,7 +370,6 @@ SQL
 * [Transaction의 Isolation Level - 트랜잭션 격리수준](https://blog.naver.com/pjt3591oo/221754164462)
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
-* `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 설정편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-config/)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 모니터링편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-monitoring/)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 활용편 –**](https://gywn.net/2020/01/mysql-innodb-as-cache-server-monitoring-advanced/)
@@ -380,6 +382,7 @@ SQL
 * [2. 커버링 인덱스 (WHERE + ORDER BY / GROUP BY + ORDER BY )](https://jojoldu.tistory.com/481)
 * [MySQL의 다양한 실행 프로그램 mysqld_safe, mysql.server, mysqld_multi feat.mysqld](https://stricky.tistory.com/164)
 * [MySQL 8.0 테이블스페이스 관리 방법 변경 내용 feat.테이블 스페이스 삭제한다면?!](https://stricky.tistory.com/166)
+* [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
