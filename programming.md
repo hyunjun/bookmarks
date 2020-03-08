@@ -278,6 +278,7 @@ Programming
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-1편/)
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-2편/)
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-3편/) NGINX
+* [EOF is not a character](https://ruslanspivak.com/eofnotchar/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1103,6 +1104,9 @@ Programming
   * [Teamcity Github 로그인 연동](https://jojoldu.tistory.com/454)
   * [TeamCity 빌드 실패시 결과 Slack으로 알람 받기](https://jojoldu.tistory.com/458)
 
+# CPU
+* [Understanding CPU Microarchitecture for Performance](https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance)
+
 # Data Mesh
 * [Future of Data Engineering](https://www.infoq.com/presentations/data-engineering-pipelines-warehouses/)
   * data pipeline evolution: Batch => Streaming => Automation => Microwarehouses (Distributed Data Mesh)
@@ -1524,6 +1528,7 @@ Programming
   * [2월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/02/b-2-2.html)
   * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/02/b-2-3.html)
   * [2월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/02/b-2-4.html)
+  * [3월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/03/b-3-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1635,6 +1640,7 @@ Programming
 * [NAVER Tech Talk: OS, 시스템 (2017년 7월~2018년 1월)](https://d2.naver.com/news/7119116)
 * [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 * [unikernel overview](https://uni2u.tistory.com/106)
+* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
@@ -1738,6 +1744,8 @@ Programming
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
+* [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
+* [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
 
 # RPC
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
