@@ -418,6 +418,7 @@ Javascript
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
+* [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 * JS로 배우는 자료구조와 알고리즘
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
   * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
@@ -537,6 +538,8 @@ Javascript
 * [How to lock an angle when drawing on canvas in JavaScript](https://medium.com/free-code-camp/how-to-lock-an-angle-when-drawing-on-canvas-in-javascript-51938b5abc7c)
 * [Performant front-end architecture](https://www.debugbear.com/blog/performant-front-end-architecture)
 * [Implementation of a Clipping Indicator](https://lqez.github.io/blog/implementation-of-a-clipping-indicator.html)
+* [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
+* [컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1073,6 +1076,7 @@ Javascript
   * [How I learned to write cleaner code using ESLint](https://blog.usejournal.com/how-i-learned-to-write-cleaner-code-using-eslint-11b5c8b0e1b8)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
+* [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [Fabric.js - a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
@@ -1628,6 +1632,7 @@ Javascript
   * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
 * [Deno: Will It Replace Node.JS?](https://www.youtube.com/watch?v=lcoU9jtsK24)
   * [Getting started with Deno](https://dev.to/kushal/getting-started-with-deno-3a4e)
+  * ["더 나은 Node.js를 지향하는" 데노란 무엇인가](http://www.itworld.co.kr/news/145808)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
@@ -2298,6 +2303,7 @@ Javascript
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
 * [Draft.js — rich text editor framework for React from Facebook](https://medium.com/@mshabrikov/draft-js-rich-text-editor-framework-for-react-from-facebook-f236d02576f0)
   * [How to paste images directly into an article in Draft.js](https://medium.freecodecamp.org/how-to-paste-images-directly-into-an-article-in-draft-js-e23ed3e0c834)
+* [edtr.io - The Open Source Web Editor](https://edtr.io/)
 * [Elemental UI - A UI Toolkit for React.js Websites and Apps](http://elemental-ui.com/)
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
@@ -2327,6 +2333,7 @@ Javascript
   * [**블로그 제작기**](https://ailrun.github.io/ko/post/trip-to-make-a-blog/) 직접적인 개발글은 아니지만 좋음
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
+* [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
   * [Hermes 적용해봤어요!](https://www.notion.so/ffc3ef483a494b759c920f14bfa09c67)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
