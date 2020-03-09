@@ -490,6 +490,7 @@ Algorithm
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
 * [How to implement a Binary Search Algorithm in Java without recursion](https://medium.freecodecamp.org/how-to-implement-a-binary-search-algorithm-in-java-without-recursion-67d9337fd75f)
+* [이분 탐색, Binary search #10](https://stricky.tistory.com/186)
 * [Fast pattern search in Swift... since 1974](http://blog.krzyzanowskim.com/2015/08/16/fast-pattern-search-in-swift-since-1974/)
 * [Reverse Morris In-order Traversal](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/)
 * [Sudokus and Schedules Solving Scheduling Problems with Tree Search](https://towardsdatascience.com/sudokus-and-schedules-60f3de5dfe0d)
