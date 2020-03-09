@@ -61,6 +61,7 @@ AWS
 * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Machine learning with Amazon Rekognition and Elasticsearch](https://github.com/whitesoil/aws_elasticsearch)
+* [Deploying a 2 node Elasticsearch cluster on ec2 instance](https://blog.knoldus.com/deploying-a-2-node-elasticsearch-cluster-on-ec2-instance/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
@@ -199,6 +200,7 @@ AWS
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
 * [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
 * [Kafka in AWS with SSL Offloading using Load Balancer](https://medium.com/code-tech/kafka-in-aws-with-ssl-offloading-using-load-balancer-c337da1435c3)
+* [Installing and running Kafka on AWS instance (CentOS)](https://blog.knoldus.com/installing-and-running-kafka-on-aws-instance-centos/)
 * [AWS EC2(Amazon Linux)에 Java8 설치하기](http://jojoldu.tistory.com/261)
 * [**당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들**](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
 * [AWS의 오픈 소스 활동을 소개합니다!](https://aws.amazon.com/ko/blogs/korea/onwards-to-the-year-of-open-source)
