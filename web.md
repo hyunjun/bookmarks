@@ -301,6 +301,7 @@ Web
 * [온라인 뉴스 댓글은 정말 사람들의 목소리일까? - PART 2](https://speakerdeck.com/beomi/pyconkr-2019-onrain-nyuseu-daesgeuleun-jeongmal-saramdeulyi-mogsoriilgga-part2)
 * [SBS, KBS, MBC 크롤러 만들기](https://blog.naver.com/pjt3591oo/221631079984)
 * [네이버 블로그 자동 포스팅을 위한 네이버 블로그 에디터 분석 - 1](https://blog.naver.com/pjt3591oo/221692030179)
+* [서버없이 동작하는 나만의 코로나 봇 만들기 - 텔레그램 활용](https://agoda.slack.com/archives/CDN5RAY3F/p1583728958000300)
 * [Scraping Nasdaq news using Python](https://www.bigdatanews.datasciencecentral.com/profiles/blogs/scraping-nasdaq-news-using-python)
 * [파이썬으로 배우는 초보 웹크롤링(request요청, 영화차트크롤링-1)](https://blog.naver.com/luckperson7/221203847949)
 * [Title + Price 가져오기(Crawling 후 CSV File 저장)](https://developer-ankiwoong.tistory.com/718)
