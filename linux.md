@@ -405,6 +405,7 @@ Linux
   * [systemd 서비스 unit파일 작성에서 했던 실수](https://springboot.cloud/16)
   * [Creating a Linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)
   * [**In search of a better job scheduler What if cron and systemd had a baby? Wouldn't it be beautiful?**](https://beepb00p.xyz/scheduler.html)
+  * [How to write startup script for systemd](https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
