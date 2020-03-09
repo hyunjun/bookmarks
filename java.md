@@ -369,6 +369,7 @@ Java
   * `/lib/ld-linux.so.2: bad ELF interpreter: No such file or directory` `yum install ld-linux.so.2`
   * [centos에서 java version관리 (alternatives 사용)](https://blog.seotory.com/post/2016/08/java-setting-at-centos)
   * [java version 변경(update-alternatives)](https://firstboos.tistory.com/entry/java-version-변경updatealternatives)
+* [Hotfix To Install Latest Oracle JDK On Linux EC2 Instance (CentOS)](https://blog.knoldus.com/installing-latest-oracle-jdk-on-linux-ec2-instance-centos/)
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
 * [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
 * [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams)
@@ -1105,6 +1106,7 @@ Java
 * [Java TDD 실습](https://www.youtube.com/playlist?list=PLbdtsbZUwdeRirBYnWrMSvKYS4CcmXCeU)
 * [Spring 테스트 코드 작성에 대한 나름의 고찰](https://www.popit.kr/spring-테스트-코드-작성에-대한-나름의-고찰)
 * [Spring RestTemplate Mock 기반 테스트 하기](https://www.popit.kr/spring-resttemplate-mock-%EA%B8%B0%EB%B0%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0)
+* [xUnit 테스팅 프레임워크를 TDD로 만들어보자](https://www.youtube.com/watch?v=tdKFZcZSJmg)
 * ArchUnit [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
 * [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
 * DBUnit
