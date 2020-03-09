@@ -155,7 +155,6 @@ Scala
 * [Lawful Asynchronous Programming — Daniel Spiewak](https://www.youtube.com/watch?v=B0L91sW3XHw)
 * [Daniel Spiewak: Functional Async on the JVM - λC Winter Retreat 2017](https://www.youtube.com/watch?v=j9RHdnnl4T8)
 * [Asynchronous Programming and Scala](https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html)
-* [Getting Asynchronous in Scala : Part 1 (Future, Callbacks, Combinators etc.)](https://blog.knoldus.com/getting-asynchronous-in-scala-part-1-future-callbacks-combinators-etc/)
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
@@ -367,6 +366,7 @@ Scala
 * [Akka (Actor) in Practice](https://speakerdeck.com/sunghyunzz/akka-actor-in-practice)
 * [Managing Blocking in Akka video](https://akka.io/blog/news/2020/01/22/managing-blocking-video)
 * [Always stop unused Akka actors](https://www.mikulskibartosz.name/always-stop-unused-akka-actors/) OOM
+* [Monitoring Akka based applications with Cinnamon and DataDog](https://blog.knoldus.com/monitoring-akka-based-applications-with-cinnamon-and-datadog/)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -486,6 +486,11 @@ Scala
   * [The Future.await(s) for no one](https://medium.com/@idankoch_32247/the-future-await-s-for-no-one-652ed333f752)
   * [Easy Parallel Programming with Scala Futures](http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html)
   * [**Promise for better Future**](https://medium.com/rahasak/promise-for-better-future-a174ce501f2c)
+  * [Getting Asynchronous in Scala : Part 1 (Future, Callbacks, Combinators etc.)](https://blog.knoldus.com/getting-asynchronous-in-scala-part-1-future-callbacks-combinators-etc/)
+  * [Mastering Scala: Futures](https://www.credera.com/blog/credera-site/mastering-scala-futures/)
+  * [Scala Futures](https://www.waitingforcode.com/scala-async/scala-futures/read)
+  * [The async library in Scala](https://blog.knoldus.com/the-async-library-in-scala-2/)
+  * [Chapter 9: A Beginner's Tutorial To Using Scala Futures](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
@@ -618,6 +623,8 @@ Scala
 * String
   * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
   * [**Compression; String <-> Array\[Byte\]**](https://gist.github.com/owainlewis/1e7d1e68a6818ee4d50e)
+  * [String Interpolation In Scala](https://blog.knoldus.com/string-interpolation-in-scala-2/)
+  * [An Invitation From Scala String Interpolation](https://blog.knoldus.com/an-invitation-from-scala-string-interpolation/)
 * time
   * [practice - DateTimeFormatter ZoneId ZonedDateTime](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391)
 * trait
@@ -849,6 +856,7 @@ Scala
   * [avoidinfix](https://scalameta.org/scalafmt/docs/configuration.html#avoidinfix)
   * [Code formatting: scalafmt and the git pre-commit hook](https://medium.com/zyseme-technology/code-formatting-scalafmt-and-the-git-pre-commit-hook-3de71d099514)
   * [Getting started with #Scalafmt](https://www.youtube.com/watch?v=nN2aBMcUAjE)
+  * [Scalafmt – Styling The Beast](https://blog.knoldus.com/scalafmt-styling-the-beast/)
   * [neo-sbt-scalafmt](https://github.com/lucidsoftware/neo-sbt-scalafmt)
 * [Scalameter - Automate your performance testing today](http://scalameter.github.io/)
   * [scalameter-examples - Self-contained simple example projects that use specific ScalaMeter features](https://github.com/scalameter/scalameter-examples)
