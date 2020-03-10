@@ -685,6 +685,9 @@ R
 * [RTest - A XML-Based Testing Framework for Automated Unit Tests of R Packages](https://github.com/zappingseb/RTest)
   * [RTest: pretty testing of R packages](https://www.r-bloggers.com/rtest-pretty-testing-of-r-packages-2/)
 
+# Tutorial
+* [R 데이터 매니지먼트: 기초](https://blog.zarathu.com/posts/2020-02-16-rdatamanagement-basic/)
+
 # Visualization
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
 * [Coding, Visualizing, and Animating Bootstrap Resampling](http://minimaxir.com/2015/09/bootstrap-resample/)
