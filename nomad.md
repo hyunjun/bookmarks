@@ -320,6 +320,8 @@ Nomad & Remote
 * [Remote software development teams – 5 things you need to know](http://espeo.eu/blog/remote-software-development-teams-5-things-you-need-to-know/)
 * [Using your webcam to reduce isolation in remote teams](https://sketchtogether.com/blog/using-your-webcam-to-reduce-isolation-in-remote-teams.html)
 * [재택 근무를 잘만 하면 효율성이 높아진다(연구)](http://www.huffingtonpost.kr/2015/10/01/story_n_8225472.html)
+* [재택근무 10가지 프로 팁](https://brunch.co.kr/@svillustrated/69)
+* [개발자가 아닌 관리자가 경험한 재택근무](https://www.popit.kr/%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4not-remote-but-smart-15/)
 * [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
 * [어느 원격근무 직장인의 고민](https://realm.io/kr/news/remote-working/)
 * [어느 원격근무 직장인의 고민](https://earlybird.kr/2376)
