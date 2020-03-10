@@ -59,3 +59,5 @@ House
 * [Top 6 Best Real Estate Apps of 2019](https://hackernoon.com/top-6-best-real-estate-apps-of-2019-b3303fdb7df5)
 * [부동산 법률방 맘에 드는 집 가계약금, 공인중개사에 맡겨도 되나요?](https://realestate.daum.net/news/detail/main/20190704062901080)
 * [**모르면 쪽팔리는 중요한 부동산 기본상식 | 용도지역확인 및 관련사이트**](https://www.youtube.com/watch?v=hCVn6Cilz1Q)
+* [아파트(부동산) 매입시 셀프등기 1](https://sieg0610.tistory.com/28)
+* [아파트(부동산) 매입시 셀프등기 2](https://sieg0610.tistory.com/29)
