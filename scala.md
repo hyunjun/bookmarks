@@ -445,6 +445,7 @@ Scala
 * [**My favorite new features of Scala 2.13 standard library**](https://medium.com/wix-engineering/my-favorite-new-features-of-scala-2-13-standard-library-909a89b0da4)
 * [Operator overloading in Scala and Kotlin: two slightly different ways](https://medium.com/@alonso.delarte/operator-overloading-in-scala-and-kotlin-two-slightly-different-ways-2e8e2546ede4)
 * [Standardizing IO Interfaces for Scala Libraries](http://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html)
+* [My Scala template for Google Code Jam https://code.google.com/codejam ](https://github.com/pathikrit/ScalaJam) 파일 읽기
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
