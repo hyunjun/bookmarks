@@ -162,6 +162,8 @@ Linux
 * [**스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들**](https://www.mimul.com/blog/linux-server-operations/) operation에 관계되는 여러가지 명령어 정리
 * [59 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
 * [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력)](https://withcoding.com/111)
+* [How can I monitor the thread count of a process on linux?](https://stackoverflow.com/questions/268680/how-can-i-monitor-the-thread-count-of-a-process-on-linux)
+  * `cat /proc/<PID>/status | grep Threads`
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -425,6 +427,7 @@ Linux
   * [Guider – A System Wide Linux Performance Analyzer](https://www.tecmint.com/guider-a-system-wide-linux-performance-analyzer/)
   * [top 명령어](https://johngrib.github.io/wiki/top/)
   * `top -H` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
+  * `top -H -p <PID>` [How to get the number of threads in a Java process](https://stackoverflow.com/questions/1922290/how-to-get-the-number-of-threads-in-a-java-process)
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
