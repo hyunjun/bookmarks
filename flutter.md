@@ -72,5 +72,6 @@ Flutter
 * [다트 생성자(Constructor) (1/2)](https://brunch.co.kr/@mystoryg/123)
 * [다트 생성자(Constructor) (2/2)](https://brunch.co.kr/@mystoryg/124)
 * [다트 상속(Dart Inheritance)](https://brunch.co.kr/@mystoryg/125)
+* [다트 접근 지정자 (Access Modifier)](https://brunch.co.kr/@mystoryg/126)
 * [dart : Invalid UTF8 sequence encountered](https://sunyzero.tistory.com/262)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
