@@ -179,6 +179,7 @@ Math
 * [SVD - We Recommend a Singular Value Decomposition](http://www.ams.org/samplings/feature-column/fcarc-svd)
 * [특이값 분해(Singular Value Decomposition, SVD)의 활용](http://darkpgmr.tistory.com/106)
 * [특이값 분해(Singular Value Decomposition)의 의미](https://losskatsu.github.io/linear-algebra/svd/)
+* [SVD(Singular Vector Decomposition) 이해하기 쉽게 설명드려요!](https://www.youtube.com/watch?v=VUUIrbMKUT4)
 * [Least squares and regularization](http://scottsievert.com/blog/2015/11/18/inverse-part-1/)
 * [The Calculus You Need](https://www.youtube.com/watch?v=f0BxAtprWts&index=3&list=PLUl4u3cNGP63oTpyxCMLKt_JmB0WtSZfG)
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
