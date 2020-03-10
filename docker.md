@@ -136,6 +136,7 @@ Docker
     * [AI platform setting](https://lonehades.github.io/ai%20platform/2019/08/20/setting_AIplatform/) GCP, Ubuntu 10.04, NVIDIA, Tensorflow
     * [The unreasonable shallowness of my guide to Docker for ML researchers](https://keunwoochoi.wordpress.com/2019/10/16/the-unreasonable-shallowness-of-my-guide-to-docker-for-ml-researcher/)
     * [gobbli - Deep learning with text doesn't have to be scary](https://github.com/RTIInternational/gobbli)
+    * [Anaconda와 Docker 를 사용한 머신러닝 개발환경 구성하기](https://m-learn.tistory.com/6)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
