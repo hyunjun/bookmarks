@@ -83,6 +83,9 @@ SQL
 * [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/heungrae_kim/db-like)
 * [코호트 분석(Cohort Analysis)을 SQL로 구현하는 테스트 코드](https://www.sangkon.com/using_sql_for_cohort/)
 * [Write-Ahead Log for Dummies](https://work.tinou.com/2012/09/write-ahead-log.html)
+* [**MySQL에서 'a' = 'a '가 true로 평가된다?**](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
+  * [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/blog/2018/02/26/sql-char-comparison/)
+* [번역 데이터 구조와 설계 — 튜토리얼](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
@@ -96,14 +99,13 @@ SQL
 * [Flyway - Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL](https://flywaydb.org/)
 * [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
   * [SQL문의 가독성을 높여주는 웹사이트 소개 feat.instant SQL formatter](https://stricky.tistory.com/154)
+* Jetbrains
+  * [DataGrip 팁 모음](http://ohgyun.com/770) database IDE
+  * [JetBrains Rider에서의 데이터베이스 작업 수행](https://blog.jetbrains.com/kr/2020/03/working-with-databases-in-jetbrains-rider/)
 * migration
   * [flyway - Evolve your Database Schema easily and reliably across all your instances](https://flywaydb.org/) plain SQL 사용
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
-* [**MySQL에서 'a' = 'a '가 true로 평가된다?**](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
-  * [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/blog/2018/02/26/sql-char-comparison/)
-* [번역 데이터 구조와 설계 — 튜토리얼](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
-* [DataGrip 팁 모음](http://ohgyun.com/770) jetbrains database IDE
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
