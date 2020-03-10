@@ -271,6 +271,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치 명령어](https://krksap.tistory.com/1634)
 * [Word count from documents](https://discuss.elastic.co/t/word-count-from-documents/117379)
 * [App Search 소개](https://jjeong.tistory.com/1407)
+* [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
