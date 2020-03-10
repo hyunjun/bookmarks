@@ -447,6 +447,7 @@ Java
   [root@<server> jvm]# alternatives --install /usr/bin/java java /usr/lib/jvm/jdk-11/bin/java 100
   [root@<server> jvm]# alternatives --config java
   ```
+* [OpenJDK 11, tools of the trade](https://blog.frankel.ch/openjdk-11-tools-trade/) jps, jinfo, jmap, jstack, jconsole
 
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
