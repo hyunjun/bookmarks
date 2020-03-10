@@ -30,6 +30,7 @@ Network
 * [Communication(통신) 1. 개념](https://fkkmemi.github.io/communication/comm-1/) binary 바이너리 통신, 바이트 단위 해석
 * [**인터넷이 동작하는 아주 구체적인 원리 학교에서 구글에 접속하는 과정**](https://parksb.github.io/article/36.html)
 * [How 1500 bytes became the MTU of the internet](https://blog.benjojo.co.uk/post/why-is-ethernet-mtu-1500)
+* [CIDR(Classless Inter-Domain Routing) 이용하여 IP 식별](https://blog.naver.com/pjt3591oo/221846446525)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
