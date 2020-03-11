@@ -72,6 +72,7 @@
 * [A .NET Bridge for Haskell: Dancing with the Devil](https://archives.haskell.org/code.haskell.org/Salsa/Docs/Thesis.pdf)
 * [.NET everywhere apparently also means Windows 3.11 and DOS](https://www.hanselman.com/blog/NETEverywhereApparentlyAlsoMeansWindows311AndDOS.aspx)
 * [Using Linux in a modern .NET world](https://medium.com/wearetheledger/using-linux-in-a-modern-net-world-892da2224d7)
+* [.NET Core에서 옵션 패턴 사용하기](https://www.youtube.com/watch?v=PQya3XxIdqk)
 
 # Conference
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
