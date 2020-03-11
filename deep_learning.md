@@ -728,6 +728,7 @@ Deep Learning
 * [눈으로 배우는 인공지능, 텐서플로우2.0으로 읽다! 세번째 이야기! #tensorflow2.0 #에이림 #인공지능](https://www.youtube.com/watch?v=UJumtitldn8) AND, OR, XOR, colab code
 * [Semantic Segmentation을 활용한 차량 파손 탐지 딥러닝 모델 개발기](https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html)
 * [**딥러닝 모델 Serving 간단 구축기 (feat. AWS SQS + Python Application + Kubernetes + Git & Rancher)**](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
+* [딥러닝 모델 서비스 A-Z 1편 - 연산 최적화 및 모델 경량화](https://blog.pingpong.us/ml-model-optimize/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
