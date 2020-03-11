@@ -902,6 +902,7 @@ Scala
   * [Scala as backend language. Tips, tricks and pain](https://medium.com/@valerii.tikhonov/scala-as-backend-language-tips-tricks-and-pain-dd7bb5da5552) slick의 단점을 지적한 글. 속 시원함
   * [MAKING ZIO, AKKA AND SLICK PLAY TOGETHER NICELY](https://scalac.io/making-zio-akka-slick-play-together-nicely-part-1-zio-and-slick/)
   * [스칼라 Slick 오류 처리](https://captainthomas.tistory.com/entry/스칼라-Slick-오류-처리)
+  * [Scala Tutorial: Create CRUD with Slick and MySQL](https://medium.com/@kennajenifer1234/scala-tutorial-create-crud-with-slick-and-mysql-1b0a5092899f)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
 * [specs2 - software specification for scala](http://etorreborre.github.io/specs2/)
   * [Becoming reasonable](https://medium.com/@etorreborre_99063/becoming-reasonable-361d7f674ee0)
