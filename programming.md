@@ -730,6 +730,7 @@ Programming
 * [커머스 코드 자산화 개발 일지-1 시작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-1-%EC%8B%9C%EC%9E%91)
 * [커머스 코드 자산화 개발 일지-2 상품을 팔지 않고 오퍼를 판다](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-2-%EC%83%81%ED%92%88%EC%9D%84-%ED%8C%94%EC%A7%80-%EC%95%8A%EA%B3%A0-%EC%98%A4%ED%8D%BC/)
 * [커머스 코드 자산화 개발 일지-3 오퍼를 쇼핑몰에](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-3-%EC%98%A4%ED%8D%BC%EB%A5%BC-%EC%87%BC%ED%95%91%EB%AA%B0%EC%97%90/)
+* [커머스 코드 자산화 개발 일지-4 출시](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-4-%EC%B6%9C%EC%8B%9C/)
 * [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
 
 ## Architecture Event Driven
