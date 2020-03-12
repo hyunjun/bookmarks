@@ -314,6 +314,7 @@ PyTorch
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
   * [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/)
 * [UnsupervisedMT - Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
+* [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
 
 # Reinforcement Learning, RL
 * [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
@@ -362,7 +363,7 @@ PyTorch
 * [PyTorch tutorial for learners](https://github.com/buomsoo-kim/PyTorch-learners-tutorial)
 * [Minimal tutorial on packing and unpacking sequences in pytorch](https://github.com/HarshTrivedi/packing-unpacking-pytorch-minimal-tutorial)
 * [DEEP LEARNING WITH PYTORCH: A 60 MINUTE BLITZ](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-* [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
 * [DeepLearning_Basic_Tutorial](https://github.com/Parkchanjun/DeepLearning_Basic_Tutorial)
 * [PyTorch Tutorials now in Korean](https://medium.com/pytorch/learn-pytorch-tutorials-in-korea-998b55353549)
+* [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
 * [d2l-pytorch - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch](https://github.com/dsgiitr/d2l-pytorch)
