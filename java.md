@@ -274,6 +274,7 @@ Java
 * [객체 공유](https://astrod.github.io/book/2018/08/07/%EC%9E%90%EB%B0%94-%EB%B3%91%EB%A0%AC-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B0%9D%EC%B2%B4-%EA%B3%B5%EC%9C%A0/)
 * [java thread stop: 왜 권장하지 않는 함수가 되었을까요?](https://codingdog.tistory.com/entry/java-thread-stop-%EC%99%9C-%EA%B6%8C%EC%9E%A5%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%ED%95%A8%EC%88%98%EA%B0%80-%EB%90%98%EC%97%88%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [java thread suspend resume 예제 하나만 간단하게-봅시다](https://codingdog.tistory.com/entry/java-thread-suspend-resume-예제-하나만-간단하게-봅시다)
+* [원자성을 만족하는 메서드를 n개 호출하는 작업은 atomic 할까요](https://codingdog.tistory.com/entry/%EC%9B%90%EC%9E%90%EC%84%B1%EC%9D%84-%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-n%EA%B0%9C-%ED%98%B8%EC%B6%9C%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-atomic-%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
 ## Executor
