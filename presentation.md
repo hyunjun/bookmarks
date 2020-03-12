@@ -40,10 +40,11 @@ Presentation
 * [프레젠테이션을 잘하는 법](https://ppss.kr/archives/207368)
 
 # Icons, Images
+* [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
+* [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
+* [color.adobe.com/ko/create/color-wheel](https://color.adobe.com/ko/create/color-wheel/)
 * [thenounproject.com](http://thenounproject.com/) icons for everything
 * [wallpaperswide.com](http://wallpaperswide.com/)
-* [color.adobe.com/ko/create/color-wheel](https://color.adobe.com/ko/create/color-wheel/)
-* [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
 
 # Infographics
 * [파워포인트로 인포그래픽 따라잡기](http://ppss.kr/archives/39000)
