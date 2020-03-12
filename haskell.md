@@ -200,6 +200,7 @@ Haskell
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
 # Library
+* [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
 * [aeson: Fast JSON parsing and encoding](http://hackage.haskell.org/package/aeson)
   * [Parsing JSON with Aeson](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json)
 * [Awake Security](https://github.com/awakesecurity)
