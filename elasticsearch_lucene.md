@@ -12,6 +12,7 @@ ElasticSearch - Lucene
 * [Elastic Stack Reference 목차](https://jjeong.tistory.com/1395)
 * [Introduction to Elasticsearch](http://www.slideshare.net/hosangjeon10/introduction-to-elasticsearch-42781557)
 * [**demo.elastic.co**](https://demo.elastic.co)
+* [Elastic Demo Gallery](https://www.elastic.co/kr/demos)
 * [Configuration](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/setup-configuration.html)
   * [Heap: Sizing and Swapping](https://www.elastic.co/guide/en/elasticsearch/guide/1.x/heap-sizing.html)
 * [ElasticSearch와 Heap 메모리](https://brunch.co.kr/@alden/35)
