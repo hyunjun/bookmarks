@@ -101,6 +101,7 @@ Functional Programming
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
 * [Thinking in Functions, Part I: The Input/Output pattern](https://medium.com/@kettanaito/thinking-in-functions-part-i-the-input-output-pattern-d36e19e05e5f)
 * [Why do we use OOP over functional code We use less code](https://www.quora.com/Why-do-we-use-OOP-over-functional-code-We-use-less-code)
+* [프로그래머를 위한 논리학 - 0](https://ailrun.github.io/ko/post/logic-for-programmers-000/)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
