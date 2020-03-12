@@ -738,6 +738,7 @@ Docker
 * [쿠버네티스로 P2P 게임 테스트하기](https://snack.planetarium.dev/kor/2020/02/k8s-1/)
 * [Operating Akka Clusters using KUDO](https://d2iq.com/blog/operating-akka-clusters-using-kudo)
 * [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters)
+* [Kubernetes로 클러스터 외부 자원 관리하기](https://engineering.linecorp.com/ko/blog/managing-external-resources-with-kubernetes/)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
