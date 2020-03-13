@@ -1171,7 +1171,9 @@ Programming
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
-* IMAP [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
+* IMAP
+  * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
+  * [How To Manually Test Connectivity To IMAP/POP/SMTP Services](https://serverguy.com/kb/manually-test-connectivity-imap-pop-smtp-services/)
 
 # Encoding
 * [What Every Programmer Absolutely, Positively Needs To Know About Encodings And Character Sets To Work With Text](http://kunststube.net/encoding/)
