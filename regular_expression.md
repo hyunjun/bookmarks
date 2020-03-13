@@ -45,6 +45,7 @@ Regular Expression
 * [Regular expressions and special characters](https://www.johndcook.com/blog/2019/08/31/regex-special-characters/)
 * [**자주 사용하는 정규식 패턴**](https://uznam8x.tistory.com/entry/%EC%9E%90%EC%A3%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%A0%95%EA%B7%9C%EC%8B%9D-%ED%8C%A8%ED%84%B4)
 * [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71)
+* [개발자들이 꺼려하는 까칠한 규식이 형](https://helloworld.kurly.com/blog/reg-exp-01/)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
