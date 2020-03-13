@@ -39,6 +39,7 @@ Business
 * [일은 원래 재미없는 것일까?](https://brunch.co.kr/@hyungsukkim/53)
 * [일이 왜 자꾸 재미가 없어지지?](https://brunch.co.kr/@hyungsukkim/54)
 * [업무를 점검하는 3단계 프로세스](https://brunch.co.kr/@hyungsukkim/56)
+* [어떻게 일할까를 어떻게 정의할까](https://brunch.co.kr/@hyungsukkim/117)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
 * [제일기획 크게 빗나간 광고비 매출 예측의 함의](http://mediagotosa.withstories.com/514) 전망이 어긋나면 그 의미에 대해 다시 생각해봐야 한다
@@ -216,6 +217,7 @@ Business
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18) 품의 제도의 역사 및 개선 방법(사실은 글로벌 스탠다드)
+* [2.0 까지 해본 개발자](https://jojoldu.tistory.com/485)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
