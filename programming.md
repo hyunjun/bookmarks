@@ -454,6 +454,7 @@ Programming
 * [**안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여**](http://woowabros.github.io/study/2018/03/05/sdp-sap.html) 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
+* [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
