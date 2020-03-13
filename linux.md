@@ -214,7 +214,7 @@ Linux
     * [Announcing the Curl Cookbook](https://catonmat.net/announcing-curl-cookbook)
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
-  * [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
+  * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
   * [Working with wide text files at the command line](https://www.johndcook.com/blog/2019/08/28/cut/)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
@@ -352,6 +352,13 @@ Linux
   * `rsync -avz --rsh="ssh -l [id]" [ip]:[src path] [dst path]`
     * daemon / ssh 방식 두 가지가 있는데, ssh의 경우 ssh public key를 추가해야 접속이 가능
   * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
+* `sar`
+  * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
+  * [Linux - 시스템 관리 : 시스템 부하 체크](http://develop.sunshiny.co.kr/951)
+  * [sar sysstat 리눅스 지표 분석 도구](https://brunch.co.kr/@lars/9)
+  * [Generate CPU, Memory and I/O report using SAR command](https://www.linuxtechi.com/generate-cpu-memory-io-report-sar-command/)
+  * [How to view past performance with sar in Linux](https://www.thegeekdiary.com/how-to-view-past-performance-with-sar-in-linux/)
+  * `sar -A -f /var/log/sa/sa<num>` num=01~29 [How do I get sar to show for the previous day?](https://unix.stackexchange.com/questions/5414/how-do-i-get-sar-to-show-for-the-previous-day)
 * `sed`
   * [Sed stream editor 가이드](https://mug896.github.io/sed-stream-editor)
   * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
