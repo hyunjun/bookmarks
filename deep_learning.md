@@ -2029,6 +2029,7 @@ CVPR2016)
 * [hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs](http://hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs/)
 * [ML/DL/RL Papers](https://www.notion.so/d4aacd7f00564116bb707e09618f4e3c)
 * [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io//blog/EfficientNet-review/)
+* [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
