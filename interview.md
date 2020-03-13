@@ -210,6 +210,7 @@ Interview
 * [AWS 아키텍처 센터](https://aws.amazon.com/ko/architecture/)
 * [How To Nail the Amazon Interview: A Practical Guide](https://www.byte-by-byte.com/amazon-interview/)
 * [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
+* [토종 직장인의 AWS 입사 도전記](http://blog.creation.net/channy-cloud-clinic-ep3)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
