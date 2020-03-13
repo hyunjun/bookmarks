@@ -296,6 +296,7 @@ Algorithm
 * [An intro to Algorithms (Part II): Dynamic Programming](https://medium.freecodecamp.org/an-intro-to-algorithms-dynamic-programming-dd00873362bb)
 * [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [부분 문제 그리고 메모이제이션 : 다이나믹 프로그래밍 할 때 많이 나오는 데 무엇일까요?](https://codingdog.tistory.com/entry/부분-문제-그리고-메모이제이션-다이나믹-프로그래밍-할-때-많이-나오는-데-무엇일까요)
+* [Dynamic Programming Playlist | Coding | Interview Questions | Tutorials | Algorithm | By Flipkart SDE](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
@@ -372,6 +373,7 @@ Algorithm
 * [평생의 여행을 떠나기 위해 자동차에 뛰어 들라! (3 부)](https://community.jmp.com/t5/JMP-Blog/Jump-into-the-car-for-the-road-trip-of-a-lifetime-Part-3/ba-p/79652)
 * [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)
 * [My first Vue.js project: A Pathfinding Visualizer](https://medium.com/@tinku.kvs/my-first-vue-js-project-a-pathfinding-visualizer-7229f7c3b017)
+* [파이썬 그래프 알고리즘 친구의 친구 찾기 #13](https://stricky.tistory.com/196)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
