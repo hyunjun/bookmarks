@@ -219,3 +219,5 @@ Finance
 * [Lectures in Quantitative Economics](https://lectures.quantecon.org/) Python & Julia codes
 * [인공지능 알고리즘 알파퀀트 Date170822 am105919 1](https://www.youtube.com/watch?v=RftNGwsrxcc)
 * [퀀트가 된 이유](https://ppss.kr/archives/150052)
+* [퀀트 개발자 취업 Tip](https://blog.naver.com/joo_andy_lee/220582031712)
+* [투자은행 핀테크 연봉 이야기 #2 - 금융권 개발자](http://blog.naver.com/joo_andy_lee/220369018195)
