@@ -367,6 +367,7 @@ Scala
 * [Managing Blocking in Akka video](https://akka.io/blog/news/2020/01/22/managing-blocking-video)
 * [Always stop unused Akka actors](https://www.mikulskibartosz.name/always-stop-unused-akka-actors/) OOM
 * [Monitoring Akka based applications with Cinnamon and DataDog](https://blog.knoldus.com/monitoring-akka-based-applications-with-cinnamon-and-datadog/)
+* [Using Google Datastore with akka-persistence](https://medium.com/@innFactory/using-google-datastore-with-akka-persistence-1f6f7179b22a)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -915,6 +916,8 @@ Scala
   * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
 * [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
   * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
+* [teleport-scala A native CLI in Scala to quickly move through the filesystem](https://github.com/note/teleport-scala)
+  * [Writing native CLI applications in Scala with GraalVM](https://msitko.pl/blog/2020/03/10/writing-native-cli-applications-in-scala-with-graalvm.html)
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 
@@ -1265,6 +1268,7 @@ Scala
   * [Reduce the domain of your types with Refined](https://medium.com/@Methrat0n/reduce-the-domain-of-your-types-with-refined-63e8e2840b15)
   * [Wtf is Refined ?](https://medium.com/@Methrat0n/wtf-is-refined-5008eb233194)
   * [Validate Service Configuration in Scala](https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6)
+  * [Data Juggling - Part 8 - Getting Started with #refined](https://www.youtube.com/watch?v=aZsmapo1afQ)
 
 # Tutorial
 * [Scala Recipes: A "HelloWorld" in Scala](https://medium.com/@caiquerodrigues/scala-recipes-a-helloworld-in-scala-d578238cd7fe)
