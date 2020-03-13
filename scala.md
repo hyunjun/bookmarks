@@ -10,6 +10,7 @@ Scala
 * [Happy Valentine’s Day with Valentin Kasas](https://scala.love/happy-valentin/) podcast
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
+  * [라스코단 번역 프로젝트](https://github.com/codeport/scala/wiki/%EB%B2%88%EC%97%AD%EC%9E%90%EB%A3%8C)
 * [SCALA CHEATSHEET](https://docs.scala-lang.org/cheatsheets/index.html)
 * [GOTO 2017 • Demystifying Scala • Kelley Robinson](https://www.youtube.com/watch?v=IayQ7lxPUP4)
 * [Closures in Scala](https://medium.com/@senthil.nayagan/closures-in-scala-85b3a0cfd40f)
@@ -155,6 +156,7 @@ Scala
 * [Lawful Asynchronous Programming — Daniel Spiewak](https://www.youtube.com/watch?v=B0L91sW3XHw)
 * [Daniel Spiewak: Functional Async on the JVM - λC Winter Retreat 2017](https://www.youtube.com/watch?v=j9RHdnnl4T8)
 * [Asynchronous Programming and Scala](https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html)
+* [비동기 프로그래밍과 Scala](https://wiki.cys.wo.tc/doku.php?id=%EB%B9%84%EB%8F%99%EA%B8%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC_scala) monix 포함
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
