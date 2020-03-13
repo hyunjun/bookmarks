@@ -354,6 +354,10 @@ Linux
   * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
 * `sar`
   * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
+  * [Understanding Linux CPU Load - when should you be worried?](https://scoutapm.com/blog/understanding-load-averages)
+  * [Linux capacity planning: 5 things you need to do](https://www.redhat.com/sysadmin/linux-capacity-planning)
+  * [Understanding the Load Average on Linux and Other Unix-like Systems](https://www.howtogeek.com/194642/understanding-the-load-average-on-linux-and-other-unix-like-systems/)
+  * [10 Useful Sar (Sysstat) Examples for UNIX / Linux Performance Monitoring](https://www.thegeekstuff.com/2011/03/sar-examples/)
   * [Linux - 시스템 관리 : 시스템 부하 체크](http://develop.sunshiny.co.kr/951)
   * [sar sysstat 리눅스 지표 분석 도구](https://brunch.co.kr/@lars/9)
   * [Generate CPU, Memory and I/O report using SAR command](https://www.linuxtechi.com/generate-cpu-memory-io-report-sar-command/)
@@ -455,6 +459,7 @@ Linux
   * [practice - upstart](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
 * uptime
   * [uptime 명령어](https://johngrib.github.io/wiki/uptime/)
+  * [Linux | Uptime command with examples](https://www.geeksforgeeks.org/linux-uptime-command-with-examples/)
 * `watch`
   * [The watch Command](http://www.linfo.org/watch.html)
   * [watch 명령을 이용한 linux 시스템 모니터링](https://www.sharedit.co.kr/posts/2000)
