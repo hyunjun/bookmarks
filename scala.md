@@ -1060,6 +1060,7 @@ Scala
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
 * [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
 * [Dependency injection with Reader Monad in Scala](https://medium.com/rahasak/dependency-injection-with-reader-monad-in-scala-fe05b29e04dd)
+* [scale.bythebay.io: Adelbert Chang, The Functor, Applicative, Monad talk](https://www.youtube.com/watch?v=L0aYcq1tqMo)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
