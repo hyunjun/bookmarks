@@ -417,6 +417,7 @@ TensorFlow
 * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
 * [Deep_Learning_4: Basic File operations in Google Colaboratory](https://www.youtube.com/watch?v=It27JIabAzc)
 * [Deep_Learning_5: Easy Understanding of Tensor Flow Programming](https://www.youtube.com/watch?v=Bn2gITckiD0)
+* [Making the most of Colab (TF Dev Summit '20)](https://www.youtube.com/watch?v=pnClcwTCyc0) colab 사용 10가지 tip
 * [Demystify the TensorFlow APIs](https://medium.com/google-developer-experts/demystify-the-tensorflow-apis-57d2b0b8b6c0)
 * [텐서플로로 OCR 개발해보기: 문제점과 문제점과 문제점](https://brunch.co.kr/@kakao-it/304)
 * [DeepModels - TensorFlow Implementation of state-of-the-art models since 2012](https://github.com/deep-diver/DeepModels)
