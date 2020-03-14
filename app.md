@@ -227,6 +227,7 @@ App
   * [번역 - 해커처럼 블로깅하기](http://paikwiki.github.io/2018/10/blogging-like-a-hacker-kr)
   * [Jekyll 블로그 docker로 한방에 올리기](https://jybaek.tistory.com/808)
   * [Jekyll 포스트에 태그 기능 추가하기](https://wormwlrm.github.io/2019/09/22/How-to-add-tags-on-Jekyll.html)
+  * [#blogging #jekyll 블로그에 랜덤 글 링크를 추가하기](http://ohyecloudy.com/pnotes/archives/blogging-jekyll-a-random-post/)
   * [블로그에 The Open Graph protocol 메타데이터를 추가하고 트위터 카드까지 챙긴다](http://ohyecloudy.com/pnotes/archives/blogging-the-open-graph-protocol-metadata/)
   * [오늘 부터 나도 github.io 블로그 운영자다!! | github pages , goormide, hexo](https://www.youtube.com/watch?v=8uRgIwgumqA)
   * [github 블로그로 딱!! 필요한 만큼만 배우는 초 초 초 간단!! markdown과 vim !! 사용법!!](https://www.youtube.com/watch?v=pHaBt4JzfVU)
