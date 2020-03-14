@@ -248,6 +248,7 @@ Scala
 * [Deploying a full stack Scala application on Heroku](https://medium.com/@antoine.doeraene/deploying-a-full-stack-scala-application-on-heroku-6d8093a913b3)
 * [Fledge over the flow … How to determine a streaming problem](https://medium.com/@hajjijo313/fledge-over-the-flow-66e065b1ddbb) This is a story about a little experience of integrating (Akka-Stream, Alpakka-Kafka, Kafka, Aplakka-Slick, TimescaleDB) — Part 1/3
 * [How to publish a Scala library in GitHub Packages](https://medium.com/@supermanue/how-to-publish-a-scala-library-in-github-bfb0fa39c1e4)
+* [**스칼라의 동시성**](https://twitter.github.io/scala_school/ko/concurrency.html) 이전 버전을 다루기는 하지만 java thread부터의 설명이 좋음
 
 # Actor
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
