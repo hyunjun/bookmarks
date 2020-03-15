@@ -168,6 +168,7 @@ Interview
 * [레퍼런스 체크 효과적으로 준비하는 방법](https://www.upfly.me/2019/08/29/reference-check-prep/)
 * [해외 기업과 면접과 보기 전에 반드시 알아야할 것](https://www.upfly.me/2019/09/19/what-to-know-before-interview/)
 * [Programming trick questions](https://qntm.org/trick)
+* [신입 개발자 면접 질문 시리즈](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1) 여러 주제를 전반적으로 다루는 데 꽤 괜찮음
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
