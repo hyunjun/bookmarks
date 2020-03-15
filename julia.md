@@ -85,6 +85,8 @@ Julia
 * [Using Julia for Data Science](https://cleytonfar.github.io/posts/using-julia-for-data-science/)
   * [Using Julia for Data Science (Part 02)](https://cleytonfar.github.io/posts/using-julia-for-data-science-part-02/)
   * [Using Julia for Data Science (Part 03): Plotting](https://cleytonfar.github.io/posts/using-julia-for-data-science-part-03/)
+* [Will Julia become more popular than Python for data science?](https://www.quora.com/Will-Julia-become-more-popular-than-Python-for-data-science)
+* [Learn Julia for Data Science](https://www.r-bloggers.com/learn-julia-for-data-science/)
 * [A Julia interpreter and debugger](https://julialang.org/blog/2019/03/debuggers)
 * [singularity-py-and-jl - Simple singularity recipe for Keras(python3) & Flux(julia) (personal use)](https://github.com/appleparan/singularity-py-and-jl)
 * [Announcing composable multi-threaded parallelism in Julia](https://julialang.org/blog/2019/07/multithreading)
@@ -94,7 +96,6 @@ Julia
 * [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
 * [Does Julia have a future as a general high-performance language?](https://www.quora.com/Does-Julia-have-a-future-as-a-general-high-performance-language)
 * [Apart from the lack of libraries (if compared to Python, for example), is there any reason Julia wouldn't be a good general purpose programming language?](https://www.quora.com/Apart-from-the-lack-of-libraries-if-compared-to-Python-for-example-is-there-any-reason-Julia-wouldnt-be-a-good-general-purpose-programming-language)
-* [Will Julia become more popular than Python for data science?](https://www.quora.com/Will-Julia-become-more-popular-than-Python-for-data-science)
 
 # API
 * Pkg.add
