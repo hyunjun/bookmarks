@@ -186,6 +186,7 @@ Git
   * [fork한 저장소를 최신 원본과 동기화시키기](https://junwoo45.github.io/2019-09-01-git_upstream/)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
+  * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
 * `amend`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
 
@@ -544,6 +545,7 @@ Git
 * gh
   * [github 관리툴 gh 맛보기](https://blog.naver.com/pjt3591oo/221809400173)
   * [Supercharge your command line experience: GitHub CLI is now in beta](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
+  * [Introducing Official GitHub CLI](https://itnext.io/introducing-official-github-cli-2b43b1127e8d)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
