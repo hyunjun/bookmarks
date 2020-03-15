@@ -1623,6 +1623,7 @@ Programming
   * [기술 뉴스 #143 : 20-02-03](https://blog.outsider.ne.kr/1476)
   * [기술 뉴스 #144 : 20-02-15](https://blog.outsider.ne.kr/1477)
   * [기술 뉴스 #145 : 20-03-02](https://blog.outsider.ne.kr/1478)
+  * [기술 뉴스 #146 : 20-03-15](https://blog.outsider.ne.kr/1479)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
