@@ -57,7 +57,6 @@ Python
 * [pythonprogramming.net](https://pythonprogramming.net/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Automated, data-driven code review](https://www.quantifiedcode.com/)
-* [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
 * [Hacking an epic NHL goal celebration with a hue light show and real-time machine learning](http://blog.francoismaillet.com/epic-celebration/)
 * [Python without an operating system](http://lwn.net/SubscriberLink/641244/5d1d6d20aeb0a647/)
 * GIL Global Interpreter Lock
@@ -137,7 +136,6 @@ Python
 * [python wats - A "wat" is what I call a snippet of code that demonstrates a counterintuitive edge case of a programming language](https://github.com/cosmologicon/pywat)
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Wrapping Go in Python](https://www.youtube.com/watch?v=6v6OZXk2E_w)
-* [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
 * [파이썬으로 만드는 첫 쓸모있는 프로그램 EBS 방송 녹화하기](http://clien.net/cs2/bbs/board.php?bo_table=lecture&wr_id=292381)
 * [Let’s Build A Simple Interpreter. Part 1](http://ruslanspivak.com/lsbasi-part1/)
 * [Let’s Build A Simple Interpreter. Part 2](http://ruslanspivak.com/lsbasi-part2/)
@@ -347,8 +345,6 @@ Python
 * [Python Basics for Data Science](https://financedata.github.io/)
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc) David Beazley
-* [10 Neat Python Tricks Beginners Should Know](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
-* [Python Tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)
 * [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io)
   * [**Wrapping C/C++ for Python**](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html) wrapper
 * [Python Practices for Efficient Code: Performance, Memory, and Usability](https://www.codementor.io/satwikkansal/python-practices-for-efficient-code-performance-memory-and-usability-aze6oiq65)
@@ -447,9 +443,12 @@ Python
 * [Experienced python programmers: are there any standard features of the language that you still don't regularly use?](https://www.reddit.com/r/Python/comments/6i829l/experienced_python_programmers_are_there_any/) 파이썬의 다양한 언어적 기능
 * [**What Is Elegant Code? (aka Elegant Solutions For Everyday Python Problems)**](https://www.youtube.com/watch?v=SlI9eOfxJJc) dunder, custom iterator, functool.partial, contextmanager, closure, wraps/wrapt
 * [Solve Your Problem With Sloppy Python](https://www.youtube.com/watch?v=QsTVDx20y1M) os, subprocess, ...
+* [10 Neat Python Tricks Beginners Should Know](https://www.codementor.io/sumit12dec/python-tricks-for-beginners-du107t193)
+* [Python Tricks 101](https://hackernoon.com/python-tricks-101-2836251922e0)
 * [An A-Z of useful Python tricks](https://medium.freecodecamp.org/an-a-z-of-useful-python-tricks-b467524ee747)
 * [7 More Tricks to Write Better Python Code](https://www.youtube.com/watch?v=SNTZpy0oDB8)
   * Inline if-else statements, Sequence comparisons, Extended unpacking (Python-3 only), Dict comprehensions, collections.OrderedDict, collections.defaultdict, collections.Counter
+* [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
 * [Road to become a Python Ninja — Data Structures](https://blog.usejournal.com/python-basics-data-structures-d378d854df1b) 기본 data structure
 * [Comprehending the ‘Comprehensions’ in Python](https://towardsdatascience.com/comprehending-the-concept-of-comprehensions-in-python-c9dafce5111)
@@ -461,6 +460,7 @@ Python
 * [**If you think you know Python, think once more!**](https://github.com/satwikkansal/wtfpython)
 * [04-4 append()와 +연산을 통한 리바인딩의 성능비교](https://www.youtube.com/watch?v=WsPHRmey4fM)
   * [Python-append-vs-rebind-numpy.ipynb](https://colab.research.google.com/drive/1P_hZ7G1lrnZrdnjY01tIY8BZLIGYxtpv)
+* [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -757,6 +757,8 @@ Python
   * [Python List Comprehensions: Explained Visually](http://treyhunner.com/2015/12/python-list-comprehensions-now-in-color/)
   * [Python List Tutorial With Simple Python Projects For Beginners](http://www.coolpythoncodes.com/2017/01/python-list-tutorial-with-python-project.html)
   * [Understanding nested list comprehension syntax in Python](http://spapas.github.io/2016/04/27/python-nested-list-comprehensions/)
+  * [3 Python list comprehension tricks you might not know yet](https://levelup.gitconnected.com/3-python-list-comprehension-tricks-you-might-not-know-yet-5891d904ee76)
+  * [9 Things to Know to Master List Comprehensions in Python](https://medium.com/better-programming/9-things-to-know-to-master-list-comprehensions-in-python-8bc0411ec2ed)
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
@@ -1223,7 +1225,7 @@ Python
   * [Dmitry Nazarov: "Future Pythonic Web: ASGI & Daphne"](https://www.youtube.com/watch?v=6xEKPsKBbD0)
   * [Build Your Own Async](https://www.youtube.com/watch?v=Y4Gt3Xjd7G8)
 
-## Library
+## Async Asynchronous AsyncIO Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
 * [aiohttp: Asynchronous HTTP Client/Server](http://aiohttp.readthedocs.io/)
   * [practice - aiohttp](https://github.com/hyunjun/practice/tree/master/python/test-aiohttp)
@@ -1330,6 +1332,12 @@ Python
   * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
+
+# Bytecode
+* [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
+* [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
+* [Understanding Python Bytecode](https://towardsdatascience.com/understanding-python-bytecode-e7edaae8734d)
+* [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
 
 # Code Formatter
 * [black - The uncompromising Python code formatter](https://github.com/ambv/black)
@@ -2821,7 +2829,9 @@ Python
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
   * [High performance networking in Python (Yury Selivanov)](https://www.youtube.com/watch?v=WSq0S7UvI8E)
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
-* [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
+* [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
+  * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
+  * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
@@ -3432,7 +3442,6 @@ Python
 * [Python 3.5 Brings New Language Features and Library Modules](http://www.infoq.com/news/2015/09/python35-released)
 * [Python 3.5 and multitasking](http://brianschrader.com/archive/python-35-and-multitasking/)
 * [ZipPy: A Simple Python 3 for the JVM](http://socalpls.org/2013nov/slides/zippy.pdf)
-* [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
 * [Python Changes 2014+](http://learning-python.com/books/python-changes-2014-plus.html)
 * [The Bottom-Line Single Main Difference Between Python 2 and 3](http://migrateup.com/main-difference-python-3/)
 * [Why Python 3 exists](http://www.snarky.ca/why-python-3-exists)
