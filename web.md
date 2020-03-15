@@ -398,6 +398,7 @@ Web
 * [css-in-js-media - Minified and Simplified include-media with CSS-in-JS](https://github.com/zx6658/css-in-js-media)
 * [반응형 그리드 레이아웃](https://hyeonseok.com/soojung/css/2019/12/25/855.html)
 * [스크롤바 숨기기](https://hyeonseok.com/soojung/css/2020/02/28/858.html)
+* [플렉스(flex) 박스, 한 번 정리하고 가자](https://jeonghwan-kim.github.io/dev/2020/03/09/flex.html)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
