@@ -400,6 +400,7 @@ Javascript
 * [Overly defensive programming](https://hackernoon.com/overly-defensive-programming-e7a1b3d234c2)
 * [How I built a public, anonymous chat app in JavaScript](https://medium.freecodecamp.org/how-i-built-a-public-anonymous-chat-app-in-javascript-34f082b9b98)
 * [JavaScript — Understand Arrow Function Syntax](https://codeburst.io/javascript-understand-arrow-function-syntax-ab4081bba85b)
+* [How to Accept Any Number of Arguments in a JavaScript Arrow Function](https://levelup.gitconnected.com/how-to-accept-any-number-of-arguments-in-a-javascript-arrow-function-ed9ba66ed53f)
 * [JavaScript: Can (a==1 && a==2 && a==3) ever evaluate to true?](https://codeburst.io/javascript-can-a-1-a-2-a-3-ever-evaluate-to-true-aca13ff4462d)
 * [JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
@@ -540,12 +541,15 @@ Javascript
 * [Implementation of a Clipping Indicator](https://lqez.github.io/blog/implementation-of-a-clipping-indicator.html)
 * [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
 * [컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
+* [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
+* [How to use the JavaScript Native Notifications API](https://medium.com/javascript-in-plain-english/javascript-native-notifications-b579229fcb2e)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
 * [JavaScript Module Cheatsheet](https://medium.com/dailyjs/javascript-module-cheatsheet-7bd474f1d829)
 * [11+ JavaScript Features You’ve Probably Never Used](https://blog.bitsrc.io/features-of-javascript-you-probably-never-used-4c117ba3f025)
 * [자바스크립트는 무엇으로 구성되어있을까?](https://ui.toast.com/weekly-pick/ko_20200219/)
+* [Comma Operator in JavaScript](https://medium.com/javascript-in-plain-english/comma-operator-in-javascript-cfe170f5b4d3)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -553,6 +557,8 @@ Javascript
   * [How to use the JavaScript console: going beyond console.log()](https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b)
   * [console.log에서 css 사용하기](https://www.youtube.com/watch?v=RcwrSBvJOaw)
   * [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+* maps
+  * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -682,6 +688,8 @@ Javascript
 * [자바스크립트 이벤트 루프: 마이크로태스크(Microtasks)와 매크로태스크(Macrotasks)](https://medium.com/official-podo/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-microtasks-%EC%99%80-%EB%A7%A4%ED%81%AC%EB%A1%9C%ED%83%9C%EC%8A%A4%ED%81%AC-macrotasks-4563cdc324b0)
 * [Async-await는 어떻게 구현하는가](https://medium.com/@la.place/async-await는-어떻게-구현하는가-fa08a3157647)
 * [Aborting a signal: How to cancel an asynchronous task in JavaScript](https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript/)
+* [How the new ‘Top Level Await’ feature works in JavaScript](https://medium.com/javascript-in-plain-english/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8)
+* [What does a Worker do in JavaScript?](https://medium.com/javascript-in-plain-english/what-does-a-worker-do-in-javascript-25b9449f22f1)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -775,6 +783,7 @@ Javascript
 * [native vs lodash vs underscore in javaScript(>ES5)](http://blog.kazikai.net/?p=180)
   * [Lodash - A modern JavaScript utility library delivering modularity, performance & extras](https://lodash.com)
     * [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
+    * [More Lodash Features that are Available in Plain JavaScript](https://medium.com/javascript-in-plain-english/more-lodash-features-that-are-available-in-plain-javascript-894c060fc26e)
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
 * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
@@ -813,6 +822,7 @@ Javascript
 * [행성의 움직임을 구현해보자](https://evan-moon.github.io/2017/05/03/calculate-orbit-2/)
 * [Lists and examples for new Javascript features](https://github.com/daumann/ECMAScript-new-features-list/blob/master/README.md)
 * [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
+* [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
 * [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.com/what-is-new-in-es-11)
 
 # GraphQL
@@ -979,6 +989,7 @@ Javascript
 * [**2019년 개발 이야기**](https://subicura.com/2020/01/07/2019-dev-summary.html) TypeScript, Prettier, Next.js, GraphQL...
 * [2020년 눈여겨 볼만한 프런트엔드 프레임워크](https://uznam8x.tistory.com/entry/2020%EB%85%84-%EB%88%88%EC%97%AC%EA%B2%A8-%EB%B3%BC%EB%A7%8C%ED%95%9C-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 * [Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
+* [Top 5 In-Demand JavaScript Frameworks for Front-End Development in 2020](https://medium.com/javascript-in-plain-english/top-5-in-demand-javascript-frameworks-for-front-end-development-in-2020-a59c4340d082)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
@@ -1250,6 +1261,7 @@ Javascript
 * [Substance - A JavaScript library for web-based content editing](http://substance.io/)
 * [Surge.sh 로 무료로 정적 웹 어플리케이션 배포하기](https://hudi.kr/surge-sh-%EB%A1%9C-%EB%AC%B4%EB%A3%8C%EB%A1%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0)
 * [Svelte - Cybernetically enhanced web apps](https://svelte.dev/)
+  * [How to Write Professional Code Using the Command Query Separation Principle](https://medium.com/javascript-in-plain-english/compile-svelte-in-your-head-e12c87808255)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
@@ -1313,6 +1325,7 @@ Javascript
   * [프론트엔드 개발환경의 이해: 웹팩(심화)](http://jeonghwan-kim.github.io//series/2020/01/02/frontend-dev-env-webpack-intermediate.html)
   * [Webpack](https://opentutorials.org/module/4566)
   * [Webpack](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA)
+  * [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -1613,6 +1626,7 @@ Javascript
 * [Understanding the Node.js event loop phases and how it executes the JavaScript code](https://dev.to/lunaticmonk/understanding-the-node-js-event-loop-phases-and-how-it-executes-the-javascript-code-1j9)
 * [견고한 node.js 프로젝트 설계하기](https://velog.io/@hopsprings2/%EA%B2%AC%EA%B3%A0%ED%95%9C-node.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0)
 * [Node CPU 점유율 최적화 경험기](https://hyperconnect.github.io/2020/02/11/Node-cpu-debug.html) 최적화는 아니고 한 가지 문제 해결
+* [Code Structuring and Error Handling in Node.js](https://medium.com/better-programming/node-js-best-practices-structuring-and-error-handling-ebcf24c85547)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2166,6 +2180,8 @@ Javascript
 * [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/)
 * [A simplified Jira clone built with React and Node](https://github.com/oldboyxx/jira_clone)
 * [Javascript(React)로 이미지 파일 용량 줄이기](https://www.popit.kr/react-%EC%9B%B9%EC%97%90%EC%84%9C-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%A0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%9A%A9%EB%9F%89-%EC%A4%84%EC%9D%B4%EA%B8%B0/)
+* [Mistakes Junior React Developers Make](https://medium.com/frontend-digest/mistakes-junior-react-developers-make-c546b1af187d)
+* [Delayed rendering of React Components](https://medium.com/trabe/delayed-render-of-react-components-3482f8ad48ad)
 * [React](https://opentutorials.org/module/4058)
   * [React class & function style coding](https://opentutorials.org/module/4600)
   * [React class vs function style](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEfBwnNGsJCQDiqSWI-edj)
@@ -2541,6 +2557,7 @@ Javascript
 * [React Redux](https://opentutorials.org/module/4518)
 * [React Redux](https://www.youtube.com/playlist?list=PLuHgQVnccGMDuVdsGtH1_452MtRxALb_7)
 * [Redux Toolkit을 활용한 React 상태 관리](https://blog.rhostem.com/posts/2020-03-04-redux-toolkits)
+* [How To Use Redux With React](https://medium.com/better-programming/how-to-use-redux-with-react-23cd2f37d3f3)
 
 # TDD, Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
@@ -2831,3 +2848,5 @@ Javascript
 * [Vue 에서 Axios를 사용하여 서버통신 해보기](https://mishka.kr/2020/02/19/axios/)
 * [Tutorial - Build an Instagram clone with Vue.js and CSSGram](https://medium.com/fullstackio/tutorial-build-an-instagram-clone-with-vue-js-and-cssgram-24a9f3de0408)
 * [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://woowabros.github.io/experience/2020/03/02/pilot-project-wbluke.html)
+* [Do Your Vue Components Communicate Correctly?](https://medium.com/better-programming/do-your-vue-components-communicate-correctly-9239c30cc495)
+* [List Rendering with Vue.js — Numbers, Components, and Templates](https://medium.com/javascript-in-plain-english/list-rendering-with-vue-js-numbers-components-and-templates-aa856f8ca95f)
