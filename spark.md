@@ -260,6 +260,7 @@
 * [Working with multiple partition formats within a Hive table with Spark](https://blog.godatadriven.com/multiformat-spark-partition)
   * Hive는 파티션별로 다른 데이터 형식을 지원, 데이터를 쓰기 최적화된 형식에서 읽기 최적화된 형식으로 변환할 때 사용 가능
   * Spark에서 멀티 포맷 테이블을 쿼리할 때 실행 계획이 어떻게 동작하는지 내부 동작 방식에 대해 설명
+* [On Spark, Hive, and Small Files: An In-Depth Look at Spark Partitioning Strategies](https://medium.com/airbnb-engineering/on-spark-hive-and-small-files-an-in-depth-look-at-spark-partitioning-strategies-a9a364f908)
 * [Integrating Apache Hive with Apache Spark - Hive Warehouse Connector](https://community.hortonworks.com/articles/223626/integrating-apache-hive-with-apache-spark-hive-war.html)
 * [How to access Hive from Spark2 on HDP3?](https://www.youtube.com/watch?v=IPT0TzsZE98)
 * [WRITING TO A DATABASE FROM SPARK](http://bigdatums.net/2016/10/16/writing-to-a-database-from-spark/)
@@ -879,6 +880,7 @@
 * [Why is My Stream Processing Job Slow?](https://databricks.com/session/why-is-my-stream-processing-job-slow)
 * [How we built a data pipeline with Lambda Architecture using Spark/Spark Streaming](https://medium.com/walmartlabs/how-we-built-a-data-pipeline-with-lambda-architecture-using-spark-spark-streaming-9d3b4b4555d3) 월마트 랩에서 Apache Kafka, Spark Streaming/Batch로 Lambda 아키텍처를 구현하기 위해 구축된 A/B 테스트 플랫폼 소개
 * [Building Realtime Data Pipelines with Kafka Connect and Spark Streaming](https://www.youtube.com/watch?v=wMLAlJimPzk)
+* [Ingesting Raw Data with Kafka-connect and Spark Datasets](https://medium.com/swlh/ingesting-raw-data-with-kafka-connect-and-spark-datasets-1c2b7aa9ba3b)
 * [Introduction to Spark Structured Streaming - Part 15: Meetup Talk on Time and Window API](http://blog.madhukaraphatak.com/introduction-to-spark-structured-streaming-part-15/)
 * [번역글 Spark Streaming의 내부](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-spark-streaming%EC%9D%98-%EB%82%B4%EB%B6%80/)
 * [**Comparing Apache Spark, Storm, Flink and Samza stream processing engines - Part 1**](https://blog.scottlogic.com/2018/07/06/comparing-streaming-frameworks-pt1.html) Apache Spark, Storm, Flink, Samze를 비교 분석
