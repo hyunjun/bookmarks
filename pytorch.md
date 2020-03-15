@@ -189,17 +189,18 @@ PyTorch
 * [sru - Training RNNs as Fast as CNNs (https://arxiv.org/abs/1709.02755)](https://github.com/taolei87/sru)
 
 # GAN
-* [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
 * [**(Pytorch를 사용한) 단 50줄로 코드로 짜보는 GAN**](http://ddanggle.github.io/GANinTorch)
 * [High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs](https://tcwang0509.github.io/pix2pixHD/)
 * [Simple PyTorch implementation of GANimation (ECCV 2018 Oral)](https://www.techleer.com/articles/540-simple-pytorch-implementation-of-ganimation-eccv-2018-oral/)
+* [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
+* [PyTorch implementation of the StyleGAN Generator](https://github.com/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb) ipynb
+* [PyTorch로 구현하는 GAN들 : Vanilla GAN](https://www.slideshare.net/SubinAn1/pytorch-gan-vanilla-gan)
+* [AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint)
+* [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
 * [BicycleGAN - NIPS 2017 Toward Multimodal Image-to-Image Translation https://junyanz.github.io/BicycleGAN ](https://github.com/junyanz/BicycleGAN)
 * [Cycle GAN - Yet another Cycle GAN implementation in PyTorch](https://github.com/golbin/CycleGAN)
-* [github.com/taey16/pix2pixBEGAN.pytorch](https://github.com/taey16/pix2pixBEGAN.pytorch)
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://www.youtube.com/watch?v=EYjdLppmERE)
-* [PyTorch implementation of the StyleGAN Generator](https://github.com/lernapparat/lernapparat/blob/master/style_gan/pytorch_style_gan.ipynb) ipynb
-* [AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint)
 
 # Introduction
 * [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
