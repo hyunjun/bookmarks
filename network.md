@@ -86,6 +86,7 @@ Network
   * [NGINX와 quiche로 HTTP/3 시험해 보기](https://blog.cloudflare.com/ko/experiment-with-http-3-using-nginx-and-quiche-ko/)
   * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
     * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
+  * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
 * HTTPS
   * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
   * [HTTPS는 HTTP보다 빠르다](https://b.ssut.me/https-is-faster-than-http/)
