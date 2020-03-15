@@ -73,6 +73,7 @@
 * [.NET everywhere apparently also means Windows 3.11 and DOS](https://www.hanselman.com/blog/NETEverywhereApparentlyAlsoMeansWindows311AndDOS.aspx)
 * [Using Linux in a modern .NET world](https://medium.com/wearetheledger/using-linux-in-a-modern-net-world-892da2224d7)
 * [.NET Core에서 옵션 패턴 사용하기](https://www.youtube.com/watch?v=PQya3XxIdqk)
+* [디벨로퍼 아드보캇은 뭘 하는 사람인가요?](https://justinchronicles.net/ko/2020/03/14/what-do-developer-advocates-do/)
 
 # Conference
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
