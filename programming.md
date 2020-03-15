@@ -19,6 +19,7 @@ Programming
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
 * [개발자를 위한 넓고 얕은 지식](https://www.slideshare.net/godrm/ss-84035645)
   * [개발자를 위한 넓고 얕은 지식](https://www.youtube.com/watch?v=567gB2kfwAs)
+* [소프트웨어 전문가되기](https://brunch.co.kr/magazine/daddy-book)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
@@ -327,6 +328,7 @@ Programming
 * [Common Mistakes in Agile Implementations](https://medium.com/not-so-technical/common-mistakes-in-agile-implementations-21a6d999bc91)
 * [당신의 개발자들은 결코 느리지 않다](http://tech.trenbe.com/?p=547)
 * [폭포수모델 vs 애자일 실무에서는?](https://www.slideshare.net/ddayinhwang9/vs-228227902)
+* [같이, 스프린트 어떠세요?](https://medium.com/nextunicorn/%EA%B0%99%EC%9D%B4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%95%B4%EB%B3%B4%EC%8B%A4%EA%B9%8C%EC%9A%94-9c798f6a768c)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1214,6 +1216,9 @@ Programming
 
 # Image
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
+
+# Infrastructure
+* [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
