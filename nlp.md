@@ -645,6 +645,7 @@ NLP
   * 이미지 분류 작업의 경우 Transfer Learning은 레이블이 적은 데이터세트로 우수한 정확도를 제공하여 매우 효과적인 것으로 입증
   * Transfer Learning은 한 데이터세트에서 다른 데이터세트로 학습된 지식을 전송할 수 있는 기술
   * Transfer Learning을 텍스트 분류에 사용하기 쉽게 만드는 이 프로젝트를 통해 단지 500개의 IMDB 영화 리뷰 데이터세트로 83%의 분류 정확도 달성
+* [Adapters: A Compact and Extensible Transfer Learning Method for NLP](https://medium.com/dair-ai/adapters-a-compact-and-extensible-transfer-learning-method-for-nlp-6d18c2399f62)
 * [Develop a NLP Model in Python & Deploy It with Flask, Step by Step - Flask API, Document Classification, Spam Filter](https://towardsdatascience.com/develop-a-nlp-model-in-python-deploy-it-with-flask-step-by-step-744f3bdd7776)
 * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification) CBOW, CNN, DCNN, RNN, LSTM
 * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
