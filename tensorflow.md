@@ -418,6 +418,16 @@ TensorFlow
 * [Deep_Learning_4: Basic File operations in Google Colaboratory](https://www.youtube.com/watch?v=It27JIabAzc)
 * [Deep_Learning_5: Easy Understanding of Tensor Flow Programming](https://www.youtube.com/watch?v=Bn2gITckiD0)
 * [Making the most of Colab (TF Dev Summit '20)](https://www.youtube.com/watch?v=pnClcwTCyc0) colab 사용 10가지 tip
+  * (1) 텐서플로 2.x 버전대 지정하기(사용 가능)
+  * (2) 텐서보드 사용
+  * (3) TFLite? 사용가능 - 코랩에서 훈련하고, 모바일로 배포
+  * (4) TPU - 무료 : 런타임 변경 필요.
+  * (5) 로컬 런타임 : 본인 GPU 사용 가능
+  * (6) 코랩 scratchpad?
+  * (7) 데이터를 코랩 vm에 복사하기 - 속도 향상
+  * (8) 메모리 관리
+  * (9) 작업 종료후 탭 닫기
+  * (10) 필요시에만 - GPU 사용(자원 관리)
 * [Demystify the TensorFlow APIs](https://medium.com/google-developer-experts/demystify-the-tensorflow-apis-57d2b0b8b6c0)
 * [텐서플로로 OCR 개발해보기: 문제점과 문제점과 문제점](https://brunch.co.kr/@kakao-it/304)
 * [DeepModels - TensorFlow Implementation of state-of-the-art models since 2012](https://github.com/deep-diver/DeepModels)
@@ -837,6 +847,7 @@ TensorFlow
   * [Introducing TensorSpace.js — A Way to 3D Visualize Neural Networks in Browsers](https://medium.freecodecamp.org/tensorspace-js-a-way-to-3d-visualize-neural-networks-in-browsers-2c0afd7648a8)
   * [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js-color-recommendation/)
   * [자바스크립트로 머신러닝하세요! 텐서플로우 자바스크립트 소개](https://www.youtube.com/watch?v=UIZHqxB_JX0)
+  * [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
