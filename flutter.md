@@ -47,6 +47,7 @@ Flutter
 * [Flutter로 안드로이드, IOS 그리고 Web까지??!!!](https://www.youtube.com/watch?v=s1RhD4zBVG4)
 * [What is Flutter and Why You Should Learn it in 2020](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
 * [플러터(Flutter) 개발 환경 구축](https://brunch.co.kr/@mystoryg/114)
+* [윈10 플루터 설정시 SDK 라이센스 에러 해결법](https://brunch.co.kr/@promise4u/176)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
