@@ -48,6 +48,7 @@ Hadoop
   * [A  STUDY OF  DATA  REPRESENTATION  IN  HADOOP  TO  OPTIMIZE  DATA  STORAGE AND SEARCH  PERFORMANCE FOR THE ATLAS EVENTINDEX](https://indico.cern.ch/event/505613/contributions/2230964/attachments/1346598/2039265/highlights_-200.pdf)
   * [A STUDY OF DATA REPRESENTATION IN HADOOP TO OPTIMIZE DATA STORAGE AND SEARCH PERFORMANCE FOR THE ATLAS EVENTINDEX](https://indico.cern.ch/event/505613/contributions/2230964/attachments/1346598/2039266/poster-200.pdf)
   * parquet와 kudu같은 column store가 빠른 데이터 처리, 빠른 random access와 확장성 있는 데이터 분석을 모두 잘 지원(하지만 Kudu는 update, delete 지원)
+* [Demystify Hadoop Data Formats: Avro, ORC, and Parquet](https://towardsdatascience.com/demystify-hadoop-data-formats-avro-orc-and-parquet-e428709cf3bb)
 * [Hadoop cluster os_tuning_v1.0_20170106_mobile](https://www.slideshare.net/ssuser39d504/hadoop-cluster-ostuningv1020170106mobile)
 * [Hadoop을 이용한 빅데이터 분석 전파교육](https://prezi.com/gu7ihbi5geja/hadoop/)
 * [Hadoop에서 FileSystem 객체에 대한 Tip 몇가지](http://www.popit.kr/hadoop%EC%97%90%EC%84%9C-filesystem-%EA%B0%9D%EC%B2%B4%EC%97%90-%EB%8C%80%ED%95%9C-tip-%EB%AA%87%EA%B0%80%EC%A7%80/)
