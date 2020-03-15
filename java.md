@@ -463,6 +463,9 @@ Java
 * [Better NPE Messages in JDK 14](https://dzone.com/articles/better-npe-messages-in-jdk-14)
 * [Java Language Futures: Late 2019 Edition by Brian Goetz](https://www.youtube.com/watch?v=J6fegDQPgps)
 
+# Java15
+* [자바 8~15까지 변경 내역과 JVM 실제 통계 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=poyLhO8W8MM)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 
