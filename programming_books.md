@@ -1130,6 +1130,7 @@ Programming Books
 * (NOT YET) [소문난 명강의 : 김도형의 데이터 사이언스 스쿨(수학 편)](http://www.hanbit.co.kr/store/books/look.php?p_code=B3111220544) 아이파이썬(IPython), 사이킷런(Scikit-Learn), 맷플롯립(matplotlib), 넘파이(NumPy), 시본(seaborn), 사이파이(SciPy), 피지엠파이(pgmpy)
 * (NOT YET) [엔지니어를 위한 선형대수 - 철저한 증명을 통해 깊고 확실하게 이해하는 선형대수학](https://wikibook.co.kr/linear-algebra/)
 * (NOT YET) [파이썬과 함께 하는 수학 어드벤처 - 파이썬과 프로세싱으로 수학 개념 이해하기](http://acornpub.co.kr/book/math-adventures)
+* (NOT YET) [프로그래머, 수학의 시대 (사람과 프로그래머 #8)](https://roadbook.co.kr/226)
 
 # Network
 
