@@ -54,6 +54,7 @@ Network
 * [만화로 보는 DNS over HTTPS](http://hacks.mozilla.or.kr/2019/10/a-cartoon-intro-to-dns-over-https/)
 * [Handshake와 도메인 네임](https://www.thestartupbible.com/2019/12/handshake-wants-to-decentralize-the-dns.html) DNS의 탈중앙화
 * [Intelligent DNS based load balancing at Dropbox](https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/)
+* [DNS전문가되기](https://brunch.co.kr/magazine/dnsdns)
 
 # Library
 * Cicso packet tracer
