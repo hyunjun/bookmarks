@@ -743,6 +743,9 @@ AWS
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
 * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
 
+# Tutorial
+* [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
+
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
 * [AWS VPC 피어링 - 서로 다른 VPC 간에 통신하기](https://www.44bits.io/ko/post/communication_between_vpcs__aws_vpc)
