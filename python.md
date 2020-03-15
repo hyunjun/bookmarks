@@ -640,6 +640,7 @@ Python
     * `locale.setlocale(locale.LC_CTYPE, 'kor')` `UnicodeEncodeError: locale codec can't encode character '\ub...'`가 windows에서 발생하는 경우
     * [string & bytes](https://gist.github.com/hyunjun/fe981c11d07f41eed61c65b30ab56a0f)
   * [Python unicode cheatsheet](https://www.pythonsheets.com/notes/python-unicode.html) encode decode ord normalize
+  * [파일명 깨짐 - 한글 자모 분리 현상](https://blog.naver.com/writer0713/221810672129) normalize
   * [How to convert string to byte arrays?](http://stackoverflow.com/questions/4490901/how-to-convert-string-to-byte-arrays)
   * [Python bytearray ignoring encoding?](http://stackoverflow.com/questions/5969014/python-bytearray-ignoring-encoding)
   * [python: how to convert a string to utf-8](http://stackoverflow.com/questions/4182603/python-how-to-convert-a-string-to-utf-8)
