@@ -555,6 +555,7 @@ Docker
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
+* [쿠버네티스가 대세가 된 이유 3가지!](https://www.youtube.com/watch?v=S3FVcdZcZnA)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
   * [02 – ReplicaSet](https://blog.2dal.com/2018/04/30/kubernetes-02-replicaset/)
