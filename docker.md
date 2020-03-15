@@ -756,6 +756,7 @@ Docker
     * [#2-5. Chart 배포 (Repository)](https://bcho.tistory.com/1341)
   * [How To Install Software on Kubernetes Clusters with the Helm Package Manager](https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager)
   * [Welcome! Helm Package Manager](https://www.katacoda.com/courses/kubernetes/helm-package-manager)
+* [hub.cncf.io - Find, install and publish Kubernetes packages](https://hub.cncf.io/)
 * Istio
   * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
   * [Istio를 활용해 Multi Cluster 환경에 Service Mesh 구성하기](https://yunsangjun.github.io/blog/istio/2019/08/11/istio-multi-cluster-mesh.html)
@@ -779,6 +780,7 @@ Docker
     * [#1 - 소개](http://bcho.tistory.com/1301)
   * [The Winding Road to Better Machine Learning Infrastructure Through Tensorflow Extended and Kubeflow](https://labs.spotify.com/2019/12/13/the-winding-road-to-better-machine-learning-infrastructure-through-tensorflow-extended-and-kubeflow)
   * [AI/ML pipelines using Open Data Hub and Kubeflow on Red Hat OpenShift](https://developers.redhat.com/blog/2019/12/16/ai-ml-pipelines-using-open-data-hub-and-kubeflow-on-red-hat-openshift)
+  * [Kubeflow – Fairing](https://www.kangwoo.kr/2020/03/14/kubeflow-fairing/)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
