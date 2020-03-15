@@ -588,6 +588,7 @@ R
   * [Introducing the Shiny Production with AWS Book](https://www.r-bloggers.com/introducing-the-shiny-production-with-aws-book/)
   * [A Shiny app for simple linear regression by hand and in R](https://www.r-bloggers.com/a-shiny-app-for-simple-linear-regression-by-hand-and-in-r/)
   * [R Shiny Application Split Into Multiple Files](https://www.r-bloggers.com/r-shiny-application-split-into-multiple-files/)
+  * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
