@@ -219,6 +219,7 @@ Git
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * [deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-브랜치-전략-활용-방법-545f278ca878)
+  * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
   * create new branch
 
     ```
