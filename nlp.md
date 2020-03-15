@@ -304,6 +304,8 @@ NLP
   * [텍스트데이터분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmohRzCxWQqJ7Z9aqc-sQ5gC)
 * [NLU sense](https://nlusense.com)
 * [A no-frills guide to most Natural Language Processing Models — The Pre-LSTM Ice-Age — (R)NNLM, GloVe, Word2Vec & fastText](https://towardsdatascience.com/a-no-frills-guide-to-most-natural-language-processing-models-part-1-the-pre-lstm-ice-age-86055dd5d67c)
+* [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
+  * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -579,10 +581,12 @@ NLP
 * [Let Android dream electric sheep: Making emotion model for chat-bot with Python3, NLTK and TensorFlow](https://www.slideshare.net/inureyes/let-android-dream-electric-sheep-making-emotion-model-for-chatbot-with-python3-nltk-and-tensorflow)
 * [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 * [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
+* [How To Make a Chatbot in Python | Python Chat Bot Tutorial](https://morioh.com/p/55e676a3d9f8)
 * [RASA - Create assistants that go beyond basic FAQs](https://rasa.com)
   * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
   * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
   * [How to build a voice assistant with open source Rasa and Mozilla tools](https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools)
+  * [Rasa youtube channel](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
