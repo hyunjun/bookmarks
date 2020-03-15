@@ -237,6 +237,7 @@ Go
 * [쉽고 빠른 Go 시작하기](https://academy.nomadcoders.co/p/go-for-beginners)
 * [Notes on the Go translation of Reposurgeon](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc)
 * [Go: Finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)
+* [Exceptional Go](https://medium.com/extreme-programming/exceptional-go-3943c2230cf8)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -460,6 +461,8 @@ Go
 * [sumoshell - A terminal-only version of Sumo written in Go](https://github.com/SumoLogic/sumoshell)
 * [sup - a simple deployment tool that performs given set of commands on multiple hosts in parallel](https://github.com/pressly/sup)
 * [syncer - Fast stateful file/disk data syncer](https://github.com/stargrave/syncer)
+* [**temi - Simple terminal-based dashboard of golang memory statistic**](https://github.com/dche423/temi)
+  * [Building a terminal dashboard in Golang in 300 lines of code](https://levelup.gitconnected.com/building-a-terminal-dashboard-in-golang-in-300-lines-of-code-3b9f83f363a8)
 * [termloop - Terminal-based game engine for Go, built on top of Termbox](https://github.com/JoelOtter/termloop)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
 * [textql - Execute SQL against structured text like CSV or TSV](https://github.com/dinedal/textql)
@@ -469,6 +472,7 @@ Go
 * [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)
 * [Twirp: a sweet new RPC framework for Go](https://blog.twitch.tv/twirp-a-sweet-new-rpc-framework-for-go-5f2febbf35f)
 * [utron is a lightweight MVC framework in Go](https://github.com/gernest/utron)
+* vet [Go: Vet Command Is More Powerful Than You Think](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)
 * [vgo integration support](https://blog.jetbrains.com/go/2018/05/18/vgo-integration-support/)
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
