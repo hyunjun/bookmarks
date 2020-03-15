@@ -421,6 +421,7 @@ App
     * remote
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
       * [Run VS Code on a remote server. https://coder.com ](https://github.com/cdr/code-server)
+      * [VS Code Remote Development in Kubernetes](https://medium.com/okteto/vs-code-remote-development-in-kubernetes-d7eef7cea4fd)
       * [stackblitz.com - Code the Future. In Your Browser](https://stackblitz.com)
     * [VS Code 로 넘어가기 (2019)](https://rein.kr/blog/archives/4740)
     * ['매일 써도 좋을' 비주얼 스튜디오 코드 확장 기능 7가지](http://www.ciokorea.com/news/130582)
@@ -680,6 +681,7 @@ App
 * [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [Back to Bash: Remove Zsh and terminal themes on a Mac step-by-step](https://medium.com/the-code-review/back-to-bash-remove-zsh-and-terminal-themes-on-a-mac-step-by-step-f89f69d2ec73)
+* [4 Simple Steps To Create An Awesome Terminal Experience On Your Mac](https://medium.com/tech-explained/4-simple-steps-to-create-an-awesome-terminal-experience-on-your-mac-70bd7a0e1b59)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
@@ -703,6 +705,7 @@ App
   * [**Homebrew와 Shell Script를 사용하여 맥(Mac) 개발 환경 구축 자동화하기**](https://dev-yakuza.github.io/ko/environment/configure-development-environment-on-mac-with-homebrew-and-shell-script/)
   * [Brewfile을 이용해서 팀 개발 환경 만들기](https://medium.com/plustv/brewfile을-이용해서-팀-개발-환경-만들기-1516cb21f669)
   * [홈브류(Homebrew)란?](https://www.44bits.io/ko/keyword/homebrew)
+  * [How does Homebrew work? (starring Rust!)](https://medium.com/@jldlaughlin/how-does-homebrew-work-starring-rust-94ae5aa24552)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
@@ -886,6 +889,7 @@ App
 * [Google documentation guide](https://github.com/google/styleguide/tree/gh-pages/docguide)
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Links to URLs containing parentheses](https://meta.stackexchange.com/questions/13501/links-to-urls-containing-parentheses) 주소에 괄호 넣기. 한글은 이걸로 안 됨
+* [Master Markdown in Ten Minutes](https://medium.com/better-programming/master-markdown-in-ten-minutes-ce9721c51eb)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [hackmd.io](https://hackmd.io/) gist
