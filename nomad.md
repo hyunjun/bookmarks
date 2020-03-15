@@ -324,6 +324,7 @@ Nomad & Remote
 * [개발자가 아닌 관리자가 경험한 재택근무](https://www.popit.kr/%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4not-remote-but-smart-15/)
 * [개발자가 아닌 관리자가 경험한 재택근무 2](https://www.popit.kr/%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4-dooray-not-remote-but-smart-25/)
 * [개발자가 아닌 관리자가 경험한 재택근무 마무리](https://www.popit.kr/%EC%9E%AC%ED%83%9D%EA%B7%BC%EB%AC%B4-dooray-not-remote-but-smart-45/)
+* [집에서 일했을 뿐인데 생산성이 폭발했다](https://blog.banksalad.com/tech/work-from-home/)
 * [Remote versus Co-located Work](http://martinfowler.com/articles/remote-or-co-located.html)
 * [어느 원격근무 직장인의 고민](https://realm.io/kr/news/remote-working/)
 * [어느 원격근무 직장인의 고민](https://earlybird.kr/2376)
