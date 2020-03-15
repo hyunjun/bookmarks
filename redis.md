@@ -6,7 +6,6 @@ Redis
 * [practice - logging](https://gist.github.com/hyunjun/4ab30f4ebd401bcb0e60aabbab0b97bc#file-logging-md)
 * [practice - coupang 오류 관련 내용](https://gist.github.com/hyunjun/4ab30f4ebd401bcb0e60aabbab0b97bc#file-coupang-md)
 * [Redis 자료구조](http://daddycat.blogspot.com/2017/07/redis.html)
-* [Writing a Redis client in pure Bash](http://digitalserb.me/writing-a-redis-client-in-pure-bash/)
 * [advanced-redis](https://github.com/iamtrk/advanced-redis)
 * [How to take advantage of Redis just adding it to your stack](http://oldblog.antirez.com/post/take-advantage-of-redis-adding-it-to-your-stack.html)
 * [Recovering Redis Data with GDB](http://bigeng.io/post/118963807718/recovering-redis-data-with-gdb)
@@ -35,7 +34,6 @@ Redis
 * [RedisConf18: Implementing a New Data Structure for Redis - Redis Labs](https://www.youtube.com/watch?v=pmxaztRsoF4)
 * [RedisConf18 발표 후기](https://engineering.linecorp.com/ko/blog/detail/306)
 * [Redis Networking Nerd Down: For Lovers of Packets and Jumbo Frames- John Bullard, Distil Networks](http://www.slideshare.net/RedisLabs)
-* [입 개발 Redis 접속이 안되요!!! – Protected Mode](https://charsyam.wordpress.com/2016/07/11/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A0%91%EC%86%8D%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94-protected-mode/)
 * [Developing a Redis Module](https://www.youtube.com/watch?v=LPxx4QPyUPw)
 * [**REDIS 데이터 모델들**](http://www.popit.kr/redis-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%93%A4/)
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)
@@ -46,15 +44,16 @@ Redis
   * scan or hash
   * C_B_A와 같이 key column을 조합해 문서 key로 쓰거나, C로 hash를 각각 만들어 사용
 * 혀로그래머 charsyam은 구라쟁이
+  * [입 개발 Redis 접속이 안되요!!! – Protected Mode](https://charsyam.wordpress.com/2016/07/11/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%A0%91%EC%86%8D%EC%9D%B4-%EC%95%88%EB%90%98%EC%9A%94-protected-mode/)
   * [샤딩은 쉬워요 샤딩하세요](https://charsyam.wordpress.com/2017/05/24/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-1-%EC%83%A4%EB%94%A9%EC%9D%80-%EC%89%AC%EC%9B%8C%EC%9A%94-%EC%83%A4%EB%94%A9%ED%95%98%EC%84%B8/)
   * [캐시 멤캐시나 레디스 쓰세요. 쉬워요](https://charsyam.wordpress.com/2017/05/27/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-2-%EC%BA%90%EC%8B%9C-%EB%A9%A4%EC%BA%90%EC%8B%9C%EB%82%98-%EB%A0%88%EB%94%94%EC%8A%A4-%EC%93%B0/)
   * [레디스 관련 Q&A](https://charsyam.wordpress.com/2017/05/28/%ED%98%80%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-charsyam%EC%9D%80-%EA%B5%AC%EB%9D%BC%EC%9F%81%EC%9D%B4-qa-%EB%A0%88%EB%94%94%EC%8A%A4-%EA%B4%80%EB%A0%A8-qa/)
   * [Redis에 심플한 key-value 로 수 억개의 데이터 저장하기](https://charsyam.wordpress.com/2011/11/06/redis%EC%97%90-%EC%8B%AC%ED%94%8C%ED%95%9C-key-value-%EB%A1%9C-%EC%88%98-%EC%96%B5%EA%B0%9C%EC%9D%98-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0/)
   * [spring-security-oauth의 RedisTokenStore의 사용은 서비스에 적합하지 않습니다](https://charsyam.wordpress.com/2018/05/11/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spring-security-oauth%EC%9D%98-redistokenstore%EC%9D%98-%EC%82%AC%EC%9A%A9%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%98%EC%A7%80-%EC%95%8A/)
   * [Redis 버그 – Dataset 사이즈가 200GB가 넘어가면 죽는다구요?](https://charsyam.wordpress.com/2019/08/26/입-개발-redis-버그-dataset-사이즈가-200gb가-넘어가면-죽는다구요)
+  * [왜 Redis 응답이 느린데, slowlog에는 안찍히나요?](https://charsyam.wordpress.com/2020/03/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%99%9c-redis-%ec%9d%91%eb%8b%b5%ec%9d%b4-%eb%8a%90%eb%a6%b0%eb%8d%b0-slowlog%ec%97%90%eb%8a%94-%ec%95%88%ec%b0%8d%ed%9e%88%eb%82%98%ec%9a%94/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
-* `nc -v redis.mydomain.com 6379` [Linux - Install redis-cli only](https://stackoverflow.com/questions/21795340/linux-install-redis-cli-only)
 * lock
   * [Transactions and Locks](http://intro2libsys.info/introduction-to-redis/transactions-and-locks)
   * [6.2.3 Building a lock in Redis](https://redislabs.com/ebook/part-2-core-concepts/chapter-6-application-components-in-redis/6-2-distributed-locking/6-2-3-building-a-lock-in-redis/)
@@ -82,9 +81,9 @@ Redis
 * [EC2에 Redis CLI 설치하기](https://jojoldu.tistory.com/348)
 * [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
   * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
-* [redis-cli 에서 –rdb는 주의해서 사용하셔야 합니다](https://charsyam.wordpress.com/2019/10/07/입-개발-redis-cli-에서-rdb는-주의해서-사용하셔야-합니다/)
 * [redis 만료키 삭제](https://www.kudryavka.me/?p=740)
 * [우아한 Redis](https://www.slideshare.net/charsyam2/redis-196314086)
+* [DevOps 엔지니어의 Redis Test 분투기 - Part 1 ](https://helloworld.kurly.com/blog/redis-fight-part-1/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
@@ -107,6 +106,10 @@ Redis
 * [HSCAN](https://redis.io/commands/hscan) `hash name 0 \[match pattern>\]` patern = \*pattern or pattern\* or \*pattern\*
   * `hscan_iter` in python
   * [How to search a key pattern in redis hash?](https://stackoverflow.com/questions/35850608/how-to-search-a-key-pattern-in-redis-hash)
+* redis-cli
+  * [Writing a Redis client in pure Bash](http://digitalserb.me/writing-a-redis-client-in-pure-bash/)
+  * `nc -v redis.mydomain.com 6379` [Linux - Install redis-cli only](https://stackoverflow.com/questions/21795340/linux-install-redis-cli-only)
+  * [redis-cli 에서 –rdb는 주의해서 사용하셔야 합니다](https://charsyam.wordpress.com/2019/10/07/입-개발-redis-cli-에서-rdb는-주의해서-사용하셔야-합니다/)
 * RENAME
   * [practice](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538#file-rename-md) 앞의 hash를 뒤의 hash로 덮어씀. 앞의 hash는 삭제
 * [SCAN](https://redis.io/commands/scan) `scan 0 \[match pattern\]` patern = \*pattern or pattern\* or \*pattern\* e.g. `scan 0 match *test*`
