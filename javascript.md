@@ -2296,6 +2296,7 @@ Javascript
 * [React Native에서 현재 위치 정보 가져오기](https://dev-yakuza.github.io/ko/react-native/react-native-geolocation-service/)
 * [React Native에서 지도 표시하기](https://dev-yakuza.github.io/ko/react-native/react-native-maps)
 * [Meet Doctor, a new React Native command](https://facebook.github.io/react-native/blog/2019/11/18/react-native-doctor.html)
+* [Build a Brain Computer App with React Native (Part 2) - Live Coding with Jesse](https://www.youtube.com/watch?v=SZ8Kz4YvWUE)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
