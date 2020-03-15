@@ -79,6 +79,7 @@ Azure
 * [Democratizing agriculture intelligence: introducing Azure FarmBeats](https://azure.microsoft.com/en-us/blog/democratizing-agriculture-intelligence-introducing-azure-farmbeats/)
 * [깃헙 액션으로 경계가 명확한 CI/CD 파이프라인 구현하기](https://blog.aliencube.org/ko/2019/12/18/building-ci-cd-pipelines-with-github-actions/)
 * [AI 빌더](http://blog.naver.com/dodream7)
+* [Azure 전문가 되기](https://brunch.co.kr/magazine/azure)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
