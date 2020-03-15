@@ -109,3 +109,4 @@ Google Cloud Platform GCP
 * [Building a Simple Web Upload Interface with Google Cloud Run and Cloud Storage](https://medium.com/google-developers/building-a-simple-web-upload-interface-with-google-cloud-run-and-cloud-storage-eba0a97edc7b)
 * [구글 클라우드를 이용한 마인크래프트 24시 서버 개발기 1](https://tjtdkr.me/minecraft/minecraft-1)
 * [Getting Started with Red Hat Ansible for Google Cloud Platform](https://itnext.io/getting-started-with-red-hat-ansible-for-google-cloud-platform-fa666c42a00c)
+* [Google 클라우드 전문가되기](https://brunch.co.kr/magazine/googlecloud)
