@@ -35,6 +35,7 @@
 * [정적 기록자는 이제 그만](https://justhackem.wordpress.com/2017/07/07/no-more-static-logger/)
 * [객체지향은 반드시 없어져야 할 비용만 높은 재앙이다](http://hamait.tistory.com/875)
 * [Why Do You Need To Know Interface Fundamentals?](https://codeburst.io/why-do-you-need-to-know-interface-fundamentals-a129ac6ab0c3)
+* [Code Against Interfaces, Not Implementations](https://medium.com/better-programming/code-against-interfaces-not-implementations-37b30e7ab992)
 * [굿바이~ 옵저버 패턴 and FRP](http://hamait.tistory.com/885)
 * [새로운 프로그래밍 모델의 필요성](http://qwefgh90.github.io/actor/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1/)
 * [여러 메서드가 동일 처리 흐름을 갖는 코드 정리 예시: 클래스 추출](http://javacan.tistory.com/entry/remove-duplicate-process-by-extracting-class)
@@ -197,6 +198,7 @@
 * [어댑터 패턴 Adapter Pattern](https://dev-momo.tistory.com/entry/Adapter-Pattern-%EC%96%B4%EB%8C%91%ED%84%B0-%ED%8C%A8%ED%84%B4)
 * [Object Creation Patterns in JavaScript](https://medium.com/developers-arena/object-creation-patterns-in-javascript-8922d52fad2c)
 * [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
+* [Commonly Used Design Patterns in JavaScript](https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
