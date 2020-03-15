@@ -117,6 +117,7 @@
 * [Fruit Identification using Arduino and TensorFlow](https://blog.tensorflow.org/2019/11/fruit-identification-using-arduino-and-tensorflow.html)
 * [CONTROLLINO 개발환경 셋팅하기](https://blog.naver.com/badgay74/221731896509)
 * [아두이노 보드 개발 후기](https://ryulib.tistory.com/467)
+* [아두이노 전문가되기](https://brunch.co.kr/magazine/iots)
 
 # [Artik](https://www.artik.io/)
 
@@ -250,6 +251,7 @@
 * [라즈베리파이 딥러닝 Computer Vision 프로젝트 - 직접 쓴 손글씨 인식](https://www.youtube.com/watch?v=xzzha2KnEDo)
 * [PhotoBooth Lite on Raspberry Pi with TensorFlow Lite](https://blog.tensorflow.org/2020/01/photobooth-lite-on-raspberry-pi-with-tensorflow-lite.html)
 * [졸지 마세요! 라즈베리파이 졸음감지 딥러닝 Computer Vision 프로젝트 소개](https://www.youtube.com/watch?v=ZZX956-UJ2M)
+* [라즈베리파이 전문가되기](https://brunch.co.kr/magazine/raspberrypi)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
