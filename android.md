@@ -147,9 +147,12 @@ Android
 * [Android Dialog 구현하는 방법 #Kotlin 버전 다이얼로그](https://developer88.tistory.com/251)
 * [ViewBinding의 작은 변화](http://pluu.github.io/blog/android/2020/01/19/viewbinding/)
 * [Android 상태 저장의 기본에서 Savedstate까지](http://pluu.github.io/blog/android/2020/02/10/saved-state/)
-* [안드로이드 카메라 스티커 예제](https://brunch.co.kr/@mystoryg/111)
 * [SavedState is Default](http://pluu.github.io/blog/android/2020/02/15/diff-androidx-lifecycle/)
+* [SavedState 어떻게 저장되고 복원될까?](http://pluu.github.io/blog/android/2020/03/15/savedstate-flow/)
+* [안드로이드 카메라 스티커 예제](https://brunch.co.kr/@mystoryg/111)
 * [Context와 ApplicationContext 언제 사용해야 할까요?](https://developer88.tistory.com/224)
+* [Android WebView 설정하고 로딩하는 방법 정리](https://developer88.tistory.com/267)
+* [RadioButton과 RadioGroup에 대한 정리](https://developer88.tistory.com/268)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
