@@ -309,6 +309,7 @@ Web
 * [파이썬으로 네이버 카페 게시판 크롤링 & 워드 클라우드 실습 하기! (feat.konlpy.Twitter)](https://stricky.tistory.com/108)
 * [완전 쉽게 파이썬으로 텍스트 및 이미지 크롤링하기 | 완성형 서비스 만들기 1강](https://www.youtube.com/watch?v=ZTJjW7XuHIY) goorm 이용
 * [RSS 피드를 활용하여 각종 언론사에서 뉴스 데이터 받기](https://junpyopark.github.io/rss_parse/)
+* [가격비교 사이트, 나도 만들 수 있다! 잼있게 파이썬으로 하는 크롤러 제작](https://www.youtube.com/watch?v=dh05lSKt2S4)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
@@ -380,6 +381,7 @@ Web
   * [파이썬 자동화](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrPzFeVyQ_SJhTpy0lLPCmfZ)
   * [네이버 메일 제목 가져오기 - 클립보드 사용](https://developer-ankiwoong.tistory.com/832)
   * [파이썬 selenium-셀레니움 ) 네이버 로그인하기 (네이버 자동로그인 방지문자 우회 1분컷)](https://sab-jil.tistory.com/2)
+  * [파이썬으로 인스타그램 포스팅](http://triviaz.net/blog:instagram_posting)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 ## Crawler Scala
