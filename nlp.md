@@ -386,6 +386,7 @@ NLP
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (2/2)](https://paul-hyun.github.io/bert-02/)
 * [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers/)
 * [BERT로 Q&A 구현해보기 With SQuAD AND KERAS](https://www.youtube.com/watch?v=LuApA264Wbs)
+* [nn.utils.prune 모듈로 BERT 파라미터 Pruning 해보기](https://github.com/Huffon/nlp-various-tutorials/blob/master/pruning-bert.ipynb)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
 
