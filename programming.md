@@ -599,6 +599,7 @@ Programming
 * [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years/read_full)
 * [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
 * [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
+* [전술적 DDD를 사용 하 여 마이크로 서비스 디자인](https://docs.microsoft.com/ko-kr/azure/architecture/microservices/model/tactical-ddd)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -1383,6 +1384,7 @@ Programming
 * [Getting Started As A Self-Taught Developer](https://medium.com/knoware/getting-started-as-a-self-taught-developer-4d5796fa5f7d)
 * [Stanford CS Education Library](http://cslibrary.stanford.edu/)
 * [The 100 Most Popular Free Online Courses of 2019](https://www.freecodecamp.org/news/100-popular-free-online-courses-2019/)
+* [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
