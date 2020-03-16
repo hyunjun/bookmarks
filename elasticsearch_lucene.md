@@ -274,6 +274,7 @@ ElasticSearch - Lucene
 * [App Search 소개](https://jjeong.tistory.com/1407)
 * [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
 * [Elastic Stack 으로 코로나19 대시보드 만들기 - 1](https://www.youtube.com/watch?v=FIrub1zraHQ)
+* [Elastic Stack 으로 코로나19 대시보드 만들기 - 2](https://www.youtube.com/watch?v=Vz6G3v5KNh0)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
