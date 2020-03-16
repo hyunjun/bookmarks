@@ -1376,6 +1376,7 @@ Javascript
 * [Why MEAN is an ideal stack for large-scale eCommerce projects](https://hackernoon.com/why-mean-is-an-ideal-stack-for-large-scale-ecommerce-projects-7432c006de83)
 
 # [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
+* [node.js 빠르게 개발하기](https://www.youtube.com/watch?v=qGEXyRQ67e8)
 * [WEB2 - Node.js](https://opentutorials.org/course/3332)
 * [**The definitive Node.js handbook**](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
 * [Node.js - 쿠키와 인증](https://opentutorials.org/course/3387)
