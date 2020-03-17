@@ -326,6 +326,7 @@ Javascript
 * [The magic of the “this” keyword in JavaScript](https://medium.freecodecamp.org/the-magic-of-the-this-keyword-in-javascript-ce3ce571013e)
 * [JavaScript 개발자라면 꼭 알아야 할 this](https://wormwlrm.github.io/2019/03/04/You-should-know-JavaScript-this.html)
 * ['This is this', JS의 this 알아보기](https://blog.scienceoflove.co.kr/misunderstanding-of-this/)
+* [자바스크립트 "this" 완벽 가이드](https://www.hamadevelop.me/what-is-this/)
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
