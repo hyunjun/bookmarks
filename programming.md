@@ -1660,6 +1660,7 @@ Programming
 * [news.hada.io](https://news.hada.io/)
 * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
+* [2020년 3월 7일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-7.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
