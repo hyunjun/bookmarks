@@ -27,6 +27,7 @@ Git
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Git as a Document Format](https://realm.io/news/altconf-wil-shipley-git-document-format/)
 * [GitHub Pages 도메인 네임 설정 하기](http://blog.saltfactory.net/github/setting-domain-name-in-github-pages-via-cname.html)
+* [깃허브 페이지에 커스텀 도메인 연결하기](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
 * [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
 * [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
 * [한글자막 GitHub universe 2019 1일차 키노트 하이라이트](https://www.youtube.com/watch?v=9P0Oml8IrPo)
