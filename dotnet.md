@@ -89,6 +89,13 @@
 # Library
 * [Open Source .net libraries that make your life easier](http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/)
 * [Akka.NET: the Reactive Story Continues on the Microsoft CLR - See more at: http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr#sthash.GMwHTmen.dpuf](http://typesafe.com/blog/akkanet-the-reactive-story-continues-on-the-microsoft-clr)
+  * [Try Akka.NET now!](https://getakka.net/)
+  * [Akka 공부하기 - 00.액터 모델이란?](https://blog.rajephon.dev/2018/11/25/akka-00/)
+  * [Akka 공부하기 - 01.액터(Actors)와 액터시스템(ActorSystem)](https://blog.rajephon.dev/2018/12/02/akka-01/)
+  * [Akka 공부하기 - 01.2 메세지 정의 및 핸들링](https://blog.rajephon.dev/2018/12/08/akka-02/)
+  * [Akka 공부하기 - 01.3 Props와 and IActorRef](https://blog.rajephon.dev/2018/12/14/akka-03/)
+  * [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://blog.rajephon.dev/2019/02/17/akka-04/)
+  * [AKKA.NET](http://wiki.webnori.com/display/AKKA/AKKA.NET)
 * [libplanet - Open source blockchain library for fully decentralized games https://docs.libplanet.io ](https://github.com/planetarium/libplanet)
   * [Libplanet 처음 기여하기](https://snack.planetarium.dev/kor/2019/05/first-contribution/)
   * [Libplanet 팀이 스프린트서울에 참가합니다](https://snack.planetarium.dev/kor/2019/05/sprintseoul/)
