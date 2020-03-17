@@ -269,6 +269,7 @@ Go
   * [Part 3 - Publishing Go Modules](https://blog.golang.org/publishing-go-modules)
   * [Part 4 - Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
   * [고 모듈을 사용하여 패키지 구성 방법 개선하기](https://www.popit.kr/고-모듈을-사용하여-패키지-구성-방법-개선하기/)
+  * [고 모듈과 함께 비공개 외부 저장소를 사용하는 방법](https://www.popit.kr/%EA%B3%A0-%EB%AA%A8%EB%93%88%EA%B3%BC-%ED%95%A8%EA%BB%98-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%99%B8%EB%B6%80-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 * net/http
   * [An Overview of Server-Side HTTP APIs in Go](https://medium.com/better-programming/overview-of-server-side-http-apis-in-go-44f052737e4b)
 * [regexp](https://golang.org/pkg/regexp/)
