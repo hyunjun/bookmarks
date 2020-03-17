@@ -2770,10 +2770,13 @@ Python
 * SQLAlchemy
   * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
   * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)
-  * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
   * [Python에서 SQLAlchemy로 MS-SQL 연동하기](http://excelsior-cjh.tistory.com/entry/Python%EC%97%90%EC%84%9C-SQLAlchemy%EB%A1%9C-MSSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
   * [SQLAlchemy의 연결 풀링 이해하기](https://spoqa.github.io/2018/01/17/connection-pool-of-sqlalchemy.html)
   * [Pythonic Database Management with SQLAlchemy](https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0)
+  * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
+    * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
+    * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
+    * [alembic을 이용해 DB 마이그레이션 하기 (2)](https://codeac.tistory.com/115)
 * [sqlbuilder](https://pypi.python.org/pypi/sqlbuilder)
   * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
   * [practice - sqlbuilder](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
