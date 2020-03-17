@@ -251,6 +251,8 @@ Scala
 * [**스칼라의 동시성**](https://twitter.github.io/scala_school/ko/concurrency.html) 이전 버전을 다루기는 하지만 java thread부터의 설명이 좋음
 
 # Actor
+* [Actor 생성하기](https://ramees.tistory.com/34)
+* [맛만 보자 액터 모델이란](https://www.slideshare.net/jbugkorea/ss-39607946)
 * [Actor Messaging platform](https://github.com/actorapp/actor-platform)
 * [Typed Actors - compile-time typechecked akka actors](https://github.com/knutwalker/typed-actors)
 * [Managing State in Akka Actors](https://medium.com/@tomershaiman/managing-state-in-akka-actors-d25e33f41456)
@@ -269,6 +271,8 @@ Scala
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
+* [hello-akka 샘플 어플리케이션](https://yehongj.tistory.com/44)
+* [Actor model and akka](https://blog.seulgi.kim/2014/04/actor-model-and-akka.html)
 * [Learning Akka Typed from Classic](https://doc.akka.io/docs/akka/2.6/typed/from-classic.html)
 * [Akka family build infrastructure](https://akka.io/blog/2019/09/09/akka-family-builds)
 * [medium.com/tag/akka](https://medium.com/tag/akka)
@@ -288,14 +292,22 @@ Scala
   * [squbs: A New, Reactive Way for PayPal to Build Applications](https://www.paypal-engineering.com/2016/05/11/squbs-a-new-reactive-way-for-paypal-to-build-applications/)
   * [squbs - Akka/Spray for Large-Scale Production Deployments http://paypal.github.io/squbs](https://github.com/paypal/squbs)
 * [**hamait.tistory.com/category/Akka**](http://hamait.tistory.com/category/Akka)
+* [**helloino.tistory.com/category/Programing/Akka**](https://helloino.tistory.com/category/Programing/Akka)
+* [becompany.ch/en/blog/tags/akka](https://www.becompany.ch/en/blog/tags/akka)
 * [Akka and a Simple Actor Example (in Scala)](https://www.youtube.com/watch?v=ZNaeMf7X6xU)
 * [Simple Actor Example 2 (in Scala with Akka)](https://www.youtube.com/watch?v=v3qiXW3HyGI)
 * [Communicating Actors (in Scala with Akka)](https://www.youtube.com/watch?v=s_EtPq2ZYOg)
 * [The Ask Pattern (in Scala with Akka)](https://www.youtube.com/watch?v=pW_q315FChc)
 * [Actor Scheduling (in Scala with Akka)](https://www.youtube.com/watch?v=RGDc1waXX_o)
+* [Simple-Akka-Scheduler](https://github.com/manjotmona/Simple-Akka-Scheduler)
 * [Akka Details](https://www.youtube.com/watch?v=q_HdhTQOawU)
 * [Using Actors (in Scala with Akka)](https://www.youtube.com/watch?v=UmbBgy4mBxI)
 * [The Actor Hierarchy (in Scala with Akka)](https://www.youtube.com/watch?v=eEuAM7SJcAE)
+* [Routers - Creating multiple instances of an actor](https://medium.com/akka-for-newbies/routers-5a501cdf616d)
+* [Akka Actors - Creating Pool of Actors](https://stackoverflow.com/questions/22797543/akka-actors-creating-pool-of-actors)
+* [Message Routing in Akka](https://dzone.com/articles/message-routing-in-akka)
+* [Akka Router – Router As an actor](https://blog.knoldus.com/akka-router-router-as-an-actor/)
+* [AKKA routing](https://sachabarbs.wordpress.com/2016/11/02/akka-routing/)
 * [Routers (in Scala with Akka)](https://www.youtube.com/watch?v=QVdweZc9WN4)
 * [Routers 2 (in Scala with Akka)](https://www.youtube.com/watch?v=EoCSmXg3QvM)
 * [Actor Life Cycle (in Scala with Akka)](https://www.youtube.com/watch?v=jLE8CQ0hbKM)
@@ -370,9 +382,12 @@ Scala
 * [Actors, Streams and Futures in Akka: What to Use?](https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/)
 * [Akka (Actor) in Practice](https://speakerdeck.com/sunghyunzz/akka-actor-in-practice)
 * [Managing Blocking in Akka video](https://akka.io/blog/news/2020/01/22/managing-blocking-video)
-* [Always stop unused Akka actors](https://www.mikulskibartosz.name/always-stop-unused-akka-actors/) OOM
+* [Always stop unused Akka actors](https://www.mikulskibartosz.name/always-stop-unused-akka-actors/) OOM, PoisonPill
+* [Akka Stopping Actors](https://www.javatpoint.com/akka-stopping-actors)
 * [Monitoring Akka based applications with Cinnamon and DataDog](https://blog.knoldus.com/monitoring-akka-based-applications-with-cinnamon-and-datadog/)
 * [Using Google Datastore with akka-persistence](https://medium.com/@innFactory/using-google-datastore-with-akka-persistence-1f6f7179b22a)
+* [Circuit Breaker](https://goldone.tistory.com/entry/Circuit-Breaker)
+* [**Akka EC2, ECS, Terraform, Packr, Ansible, Gradle Example**](https://github.com/RichardHightower/akka-ec2-example/wiki)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -669,6 +684,7 @@ Scala
 # Book
 * [스칼라 시작하기](http://hamait.tistory.com/904)
 * [임백준의 아카 시작하기 : Akka 개념 잡기](http://www.hanbit.co.kr/store/books/look.php?p_code=E3400029901)
+* [akka in actoin - livebook.manning.com/book/akka-in-action](https://livebook.manning.com/book/akka-in-action/)
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 * [Creative Scala](https://www.creativescala.org/)
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
