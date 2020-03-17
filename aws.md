@@ -191,6 +191,7 @@ AWS
 * [Gluon 상세 소개 – 유연한 딥러닝을 위한 사용하기 쉬운 프로그램 인터페이스](https://aws.amazon.com/ko/blogs/korea/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning)
 * [AWS SES (Simple Email Service) Spring Boot 프로젝트에서 사용하기](http://jojoldu.tistory.com/246)
 * [AWS SES SMTP를 활용한 대량 메일 전송 시스템 정리](https://medium.com/sjk5766/aws-ses-smtp를-활용한-대량-메일-전송-시스템-정리-e32863abbe4c)
+* [아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://blog.rajephon.dev/2018/10/06/Amazon-SES-Setup-00/)
 * [AWS Cloud9 정식 출시 – 클라우드 기반 통합 개발 환경(IDE)](https://aws.amazon.com/ko/blogs/korea/aws-cloud9-cloud-developer-environments)
 * [AWS Training & Certification Update – Free Digital Training + Certified Cloud Practitioner Exam](https://aws.amazon.com/ko/blogs/aws/aws-training-certification-update-free-digital-training-certified-cloud-practitioner-exam/)
 * [서비스 무중단 마이그레이션: KT에서 Amazon으로](https://www.slideshare.net/sinwoobang/kt-amazon)
