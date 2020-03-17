@@ -306,6 +306,7 @@ Vision
 * [Zoom in... enhance: a Deep Learning based magnifying glass - part 2](https://medium.com/idealo-tech-blog/zoom-in-enhance-a-deep-learning-based-magnifying-glass-part-2-c021f98ebede)
 * [Object Detection — A Game Changer for Market Research](https://blog.karna.ai/object-detection-a-game-changer-for-market-research-19799b67fdb2)
 * [NSFW Tensorflow: Identifying objectionable content using Deep Learning](https://cv-tricks.com/tensorflow-tutorial/nsfw-tensorflow-identifying-objectionable-content-deep-learning)
+* [Realtime Multi-Person Pose Estimation 논문 리뷰 및 구현](https://www.mimul.com/blog/realtime-multi-person-pose-estimation/)
 
 # JavaScript
 * [Build A Hand Detection App Tutorial](https://www.youtube.com/watch?v=s66w28knp80)
