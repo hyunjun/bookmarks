@@ -277,6 +277,7 @@ Java
 * [java thread suspend resume 예제 하나만 간단하게-봅시다](https://codingdog.tistory.com/entry/java-thread-suspend-resume-예제-하나만-간단하게-봅시다)
 * [java interrupt 메소드 어떻게 안전하게 종료하는가](https://codingdog.tistory.com/entry/java-interrupt-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%A2%85%EB%A3%8C%ED%95%98%EB%8A%94%EA%B0%80)
 * [원자성을 만족하는 메서드를 n개 호출하는 작업은 atomic 할까요](https://codingdog.tistory.com/entry/%EC%9B%90%EC%9E%90%EC%84%B1%EC%9D%84-%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-n%EA%B0%9C-%ED%98%B8%EC%B6%9C%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-atomic-%ED%95%A0%EA%B9%8C%EC%9A%94)
+* [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
 ## Executor
@@ -572,6 +573,7 @@ Java
 * [Java 의 GC는 어떻게 동작하나?](https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html)
 * [G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)
 * [java: 도달 가능한 객체가 무엇일까요](https://codingdog.tistory.com/entry/java-%EB%8F%84%EB%8B%AC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
+* [메모리릭: gc가 쓰레기는 잘 수거하는데 무슨 문제라도 있나요](https://codingdog.tistory.com/entry/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A6%AD-gc%EA%B0%80-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8A%94-%EC%9E%98-%EC%88%98%EA%B1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EB%8F%84-%EC%9E%88%EB%82%98%EC%9A%94)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
@@ -810,6 +812,7 @@ Java
 * [R2DBC (Reactive Relational Database Connectivity) - an endeavor to bring a reactive programming API to SQL databases](https://r2dbc.io/)
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
+  * [R2DBC 03 스프링 데이터 R2DBC DatabaseClient](https://javacan.tistory.com/entry/R2DBC-03-Spring-Data-R2DBC-DatabaseClient)
 * [Real world mutation testing](http://pitest.org/)
   * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
   * 리액티브 프로그래밍
