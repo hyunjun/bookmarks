@@ -271,6 +271,7 @@ NLP
 * [Fine-Tuning GPT-2 from Human Preferences](https://openai.com/blog/fine-tuning-gpt-2/)
 * [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
 * [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
+* [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
@@ -1077,6 +1078,7 @@ NLP
 * [Attention Is All You Need](https://www.notion.so/5944fbf370ab46b091eeb64453ac3af5)
 * [EMNLP-IJCNLP 2019 프리뷰](https://blog.pingpong.us/emnlp2019-preview)
 * [Paper Digest: EMNLP 2019 Highlights](https://www.paperdigest.org/2019/11/emnlp-2019-highlights)
+* [핑퐁팀 ML 세미나, 그 네번째](https://blog.pingpong.us/ml-seminar-season-4/)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
