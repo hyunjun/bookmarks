@@ -378,7 +378,7 @@ R
 * [Data Visualization for Social Science - A practical introduction with R and ggplot2](http://socviz.co/)
 * [EasyR 김영우.pdf](https://github.com/KaggleBreak/xwmooc_Rmeetup/blob/master/Meetup_2/Easy_R_write/EasyR_%EA%B9%80%EC%98%81%EC%9A%B0.pdf)
 * [**Exploratory Data Analysis with R**](Exploratory Data Analysis with R)
-* [Must Learning with R](https://wikidocs.net/book/2841)
+* [Must Learning with R](https://wikidocs.net/book/4315)
 * [R as an alternative of Matlab](https://wikidocs.net/book/780)
 * [R for Data Science](http://r4ds.had.co.nz/)
 * [Text Mining with R](http://tidytextmining.com/)
