@@ -153,6 +153,7 @@ Android
 * [Context와 ApplicationContext 언제 사용해야 할까요?](https://developer88.tistory.com/224)
 * [Android WebView 설정하고 로딩하는 방법 정리](https://developer88.tistory.com/267)
 * [RadioButton과 RadioGroup에 대한 정리](https://developer88.tistory.com/268)
+* [BuildTypes와 Flavor를 이용해 안드로이드 환경변수 설정하는 방법](https://developer88.tistory.com/234)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
