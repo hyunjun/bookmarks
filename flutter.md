@@ -48,6 +48,7 @@ Flutter
 * [What is Flutter and Why You Should Learn it in 2020](https://www.freecodecamp.org/news/what-is-flutter-and-why-you-should-learn-it-in-2020/)
 * [플러터(Flutter) 개발 환경 구축](https://brunch.co.kr/@mystoryg/114)
 * [윈10 플루터 설정시 SDK 라이센스 에러 해결법](https://brunch.co.kr/@promise4u/176)
+* [Declarative UI 찬양](https://xrath.com/2020/03/declarative-ui/)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
