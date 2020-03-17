@@ -44,6 +44,7 @@ Deep Learning
 * [MathsDL-spring18 - Topics course Mathematics of Deep Learning, NYU, Spring 18](https://joanbruna.github.io/MathsDL-spring18/)
 * [딥러닝(데이터분석/머신러닝)을 위한 수학](https://github.com/mycampus-io/math-for-deep-learning)
 * [딥러닝/데이터사이언스를 위한 파이썬 입문 - 마이캠퍼스](https://github.com/mycampus-io/python-for-deep-learning)
+* [왜 크로스 엔트로피를 쓸까? 정확도의 이론적 바운드](https://theeluwin.postype.com/post/6080524)
 * [딥러닝 마일스톤](https://www.facebook.com/nextobe1/posts/344853295950672)
 * [fast.ai: How I built a deep learning application to detect invasive species in just 1 day (and for $12.60)](https://medium.com/the-business-of-ai/fast-ai-how-i-built-a-deep-learning-application-to-detect-invasive-species-in-just-1-day-and-for-38e0ced809e9)
 * [러닝 딥러닝](https://www.youtube.com/playlist?list=PL1H8jIvbSo1q6PIzsWQeCLinUj_oPkLjc)
