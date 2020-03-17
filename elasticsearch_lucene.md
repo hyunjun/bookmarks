@@ -275,6 +275,7 @@ ElasticSearch - Lucene
 * [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
 * [Elastic Stack 으로 코로나19 대시보드 만들기 - 1](https://www.youtube.com/watch?v=FIrub1zraHQ)
 * [Elastic Stack 으로 코로나19 대시보드 만들기 - 2](https://www.youtube.com/watch?v=Vz6G3v5KNh0)
+* [Kurly에서 주문을 모니터링 하는 법](https://helloworld.kurly.com/blog/order-monitoring-service/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
