@@ -578,6 +578,8 @@ Web
 * [Web Application from Scratch, Part I](https://hackernoon.com/web-application-from-scratch-part-i-314ea8203e64)
 * [Running Python in the Browser](https://pythontips.com/2019/05/22/running-python-in-the-browser)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
+* [Streamlit. The fastest way to build custom ML tools](https://www.streamlit.io/)
+  * [파이썬 웹어플리케이션 맛보기 (feat. Streamlit)](https://lucaseo.github.io/2020/03/13/20200313-1/)
 
 # Restful
 * [practice - restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
