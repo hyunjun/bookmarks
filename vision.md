@@ -491,6 +491,7 @@ Vision
   * 그러나 이러한 목표를 달성하기 위해서는 현재와 미래의 방법을 평가할 수 있는 균일한 벤치 마크가 필요
 * [OpenCV(Python) + PyQt](https://blog.xcoda.net/104)
 * [CUDA를 사용하여 OpenCV DNN 실행하기!!](https://www.youtube.com/watch?v=Gfl6EyIhFvM)
+* [OpenCV를 사용하여 바닥에 놓인 트럼프 카드(Playing Card) 인식하기](https://webnautes.tistory.com/1399)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
 # OpenGL
