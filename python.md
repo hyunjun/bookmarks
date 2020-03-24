@@ -405,6 +405,7 @@ Python
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
 * [Minimizing context switching between shell and Python](https://www.johndcook.com/blog/2019/12/30/shell-and-python/)
+* [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
