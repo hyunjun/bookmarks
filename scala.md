@@ -1224,7 +1224,9 @@ Scala
   * [YOW! Lambda Jam 2017 Jacob Stanley - Gens N’ Roses: Appetite for Reduction](https://www.youtube.com/watch?v=AIv_9T0xKEo)
   * [State-based Testing (Hedgehog) - Charles O'Farrell (2019-09-23)](https://www.youtube.com/watch?v=YhAxC_VI2dc)
     * Property-based testing 툴을 통해서 입력 값을 랜덤으로 받아서 테스트 하던것을 넘어 상태 변화까지 랜덤으로 테스트 가능
-* Mockito [Mocking The Right Way - Introduction to Mockito](https://medium.com/@knoldus/mocking-the-right-way-e888ed39646f)
+* Mockito
+  * [practice - Future를 반환하는 경우 성공/실패 테스트, mocking의 when thenReturn](https://gist.github.com/hyunjun/573c5f1d37589fe00ec5414ff76eabd6)
+  * [Mocking The Right Way - Introduction to Mockito](https://medium.com/@knoldus/mocking-the-right-way-e888ed39646f)
 * [MUnit - Scala testing library with actionable errors and extensible APIs](https://scalameta.org/munit/)
   * [MUnit is a new Scala testing library](https://scalameta.org/munit/blog/2020/02/01/hello-world.html)
 * [ScalaCheck: Property-based testing for Scala](https://www.scalacheck.org/)
