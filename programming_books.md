@@ -667,6 +667,7 @@ Programming Books
   * 데이터 시각화 입문서. 프로그래밍 책은 아니고, 어떤 경우에 어떤 시각화를 써야 할지 참고하는 데 좋을 듯
 * [데이터 시각화 원리 - 조르즈 카몽이스 지음, 이혜연 옮김](http://greentec.egloos.com/4441082)
 * (NOT YET) [진실을 드러내는 데이터 시각화의 과학과 예술](https://blog.insightbook.co.kr/2019/05/02/%E3%80%8A%EC%A7%84%EC%8B%A4%EC%9D%84-%EB%93%9C%EB%9F%AC%EB%82%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B3%BC-%EC%98%88%EC%88%A0%E3%80%8B/)
+* (NOT YET) [데이터 시각화 교과서](http://jhrogue.blogspot.com/2020/03/blog-post_23.html)
 
 # Debugging
 
