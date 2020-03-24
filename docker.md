@@ -17,6 +17,7 @@ Docker
   * [이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 * [시작하는 이들을 위한 컨테이너, VM, 그리고 도커에 대한 이야기](https://medium.com/@jwyeom63/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-vm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%BB%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3a04c000cb5c)
 * [**도커 컨테이너는 가상머신인가요? 프로세스인가요?**](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+* [**도커(Docker) 입문편 컨테이너 기초부터 서버 배포까지**](https://www.44bits.io/ko/post/easy-deploy-with-docker)
 * [도커(Docker) 시작하기](http://kwangshin.pe.kr/blog/2018/04/14/docker-intro/)
 * [도커 시작하기 글 목록](https://javacan.tistory.com/entry/docker-start-toc)
   * [도커 시작하기 0 : 우분투에 도커 설치하기](https://javacan.tistory.com/entry/docker-start-0-install-docker-in-ubuntu)
@@ -741,6 +742,8 @@ Docker
 * [Operating Akka Clusters using KUDO](https://d2iq.com/blog/operating-akka-clusters-using-kudo)
 * [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters)
 * [Kubernetes로 클러스터 외부 자원 관리하기](https://engineering.linecorp.com/ko/blog/managing-external-resources-with-kubernetes/)
+* [**Kubernetes Service 클라우드 시장의 대세, 쿠버네티스란 무엇인가?**](https://www.youtube.com/watch?v=JNc11rxLtmE)
+* [쿠버네티스 차근차근 다지기(Full영상) ::: IBM Developer 밋업](https://www.youtube.com/watch?v=l42GttmnnZ4)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
