@@ -164,6 +164,10 @@ Linux
 * [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력)](https://withcoding.com/111)
 * [How can I monitor the thread count of a process on linux?](https://stackoverflow.com/questions/268680/how-can-i-monitor-the-thread-count-of-a-process-on-linux)
   * `cat /proc/<PID>/status | grep Threads`
+* CPU 개수
+  * `grep -c processor /proc/cpuinfo` CPU 코어 전체 개수
+  * `grep ^processor /proc/cpuinfo | wc -l` 물리 CPU 개수
+  * `grep 'cpu cores' /proc/cpuinfo | tail -1` CPU당 물리 코어 개수
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
