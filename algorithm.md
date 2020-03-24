@@ -374,6 +374,7 @@ Algorithm
 * [Algorithms Course - Graph Theory Tutorial from a Google Engineer](https://www.youtube.com/watch?v=09_LlHjoEiY)
 * [My first Vue.js project: A Pathfinding Visualizer](https://medium.com/@tinku.kvs/my-first-vue-js-project-a-pathfinding-visualizer-7229f7c3b017)
 * [파이썬 그래프 알고리즘 친구의 친구 찾기 #13](https://stricky.tistory.com/196)
+* [파이썬 모델링 그래프 알고리즘 미로 찾기 #14](https://stricky.tistory.com/213)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
