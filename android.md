@@ -230,6 +230,7 @@ Android
   * [퓨즈스터디](https://docs.google.com/presentation/d/1SRDExtqssxB4kpLLml9MaVKcdAD8aG7B0D3ZE4__rfg)
   * [TourDeFuse The sample for introducing functions of the Fuse](https://github.com/englekk/TourDeFuse)
   * [Announcing Fuse Open — making Fuse free and Open Source](https://blog.fusetools.com/announcing-fuse-open-free-ea289bbf32d0)
+* [Glide의 AppGlideModule을 통해 고급 설정 하기](http://sunphiz.me/wp/archives/3546)
 * [Google I/O Android App](https://github.com/google/iosched)
 * Gradle
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
@@ -291,6 +292,7 @@ Android
 * [TedNaverMapClustering -네이버지도용 클러스터링 유틸리티 라이브러리](https://gun0912.tistory.com/83)
 * [VimStudio - Android development in Neovim - batteries included](https://github.com/DonnieWest/VimStudio)
 * [Volley와 Stetho로 네트워크 디버깅](http://sunphiz.me/wp/archives/3473)
+  * [Volley의 Apache HTTP client 라이브러리 참조 제거](http://sunphiz.me/wp/archives/3531)
 * [Vysor - A window to your Android](http://www.vysor.io/)
 * [XSDL - X.Org server which uses SDL](https://github.com/pelya/xserver-xsdl)
 
