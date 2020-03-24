@@ -43,6 +43,7 @@ Go
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
+* [Java, Go 성능 테스트 비교 글을 보고](https://www.popit.kr/java-go-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90-%EA%B8%80%EC%9D%84-%EB%B3%B4%EA%B3%A0/)
 * [Golang vs Rust 퍼포먼스 벤치마킹 썰](https://blog.stibee.com/golang-vs-rust-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%8D%B0-bac94bc26e2e)
 * [Why Go and not Rust?](https://rokrokss.com/post/2019/11/07/Why-Go-and-not-Rust.html)
 * [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
