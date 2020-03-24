@@ -163,10 +163,11 @@ Java
   * [자바가 디비와 사귀기까지 벌어지는 일들](https://www.slideshare.net/hangum/ss-80803201)
   * [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://woowabros.github.io/tools/2018/08/16/jdbc-log-sql-projectinfo.html)
   * [HikariCP - 光 HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
-    * [HikariCP 세팅시 옵션 설명](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
+    * [**HikariCP 세팅시 옵션 설명**](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
     * [HikariCP는 test-while-idle과 같은 커넥션 갱신 기능이 없을까?](https://pkgonan.github.io/2018/04/HikariCP-test-while-idle)
     * [HikariCP Dead lock에서 벗어나기 (이론편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock.html)
     * [HikariCP Dead lock에서 벗어나기 (실전편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock-2.html)
+    * [Slick/HikariCP giving "too many connections" instead of timeouts](https://stackoverrun.com/ko/q/11283055)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
 * net
@@ -174,6 +175,7 @@ Java
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/29)
   * [Java UDP Client Server Program - UDP 프로그래밍](https://woolbro.tistory.com/30)
   * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
+  * getHostAddress [사용자의 IP를 가져오기 (IPv4)](https://blog.naver.com/platinasnow/220332173012)
 * NIO
   * [**NIO 정리**](https://jungwoon.github.io/java/2019/01/14/NIO/) 예제와 함께 전반적으로 잘 정리
 * Object
@@ -1007,6 +1009,7 @@ Java
 * [파일럿 프로젝트를 통한 배치경험기!](http://woowabros.github.io/experience/2019/03/31/pilot-batch.html)
 * [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
 * [Spring Batch의 멱등성 유지하기](https://jojoldu.tistory.com/451) 실행할 때마다 바뀔 수 있는 코드는 parameter로 넘겨주면 된다는 이야기
+* [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
 * [SpringBoot기반 Redis Cache 활용법](https://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69#link=gaerae.com://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69)
