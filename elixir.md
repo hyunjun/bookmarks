@@ -98,3 +98,4 @@ Elixir
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
+* telemetry [소스 코드 읽기: erlang telemetry](http://ohyecloudy.com/pnotes/archives/code-reading-erlang-elixir-telemetry/)
