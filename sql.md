@@ -87,6 +87,7 @@ SQL
   * [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/blog/2018/02/26/sql-char-comparison/)
 * [번역 데이터 구조와 설계 — 튜토리얼](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 * [sql 기본 강좌# 개념 파악 및 공부법 안내](https://stricky.tistory.com/202)
+* [sql 기본 강의 # select를 잘 이용하는 방법(1), 2편 -sTricky](https://stricky.tistory.com/204)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
