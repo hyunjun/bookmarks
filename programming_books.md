@@ -90,6 +90,7 @@ Programming Books
 * (NOT YET) [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
+* (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
 
 # Agile Scrum
 
@@ -477,6 +478,7 @@ Programming Books
 * (NOT YET) [알파제로를 배우며 분석하는 인공지능: 딥 러닝, 강화 학습, 탐색으로 배우는 인공지능 프로그래밍](https://jpub.tistory.com/993)
 * (NOT YET) [수학으로 풀어보는 강화학습 원리와 알고리즘](https://github.com/pasus/Reinforcement-Learning-Book)
   * [수학으로 풀어보는 강화학습 원리와 알고리즘 예제(TF2.0 버전)](https://github.com/Yeachan-Heo/Reinforcement-Learning-Book)
+* (NOT YET) [단단한 강화학습: 강화학습 기본 개념을 제대로 정리한 인공지능 교과서](https://jpub.tistory.com/1026)
 * (NOT YET) [검색을 위한 딥러닝: 심층 신경망을 활용하는 차세대 검색 엔진 개발](https://jpub.tistory.com/1017)
 * (NOT YET) [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
 
@@ -700,6 +702,7 @@ Programming Books
 * (NOT YET) [도커/쿠버네티스를 활용한 컨테이너 개발 실전 입문 - 현장에서 바로 활용할 수 있는 컨테이너 개발 기법과 실전 기술](https://wikibook.co.kr/docker-kubernetes/)
 * (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
 * (NOT YET) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
+* (NOT YET) [쿠버네티스를 활용한 클라우드 네이티브 데브옵스](https://jybaek.tistory.com/864)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
