@@ -187,6 +187,7 @@ Haskell
 * [Sonic 2 in Haskell: Playing with sprites](https://www.youtube.com/watch?v=lm-8sbFFV24)
 * [MatchString.hs](https://gist.github.com/ghjang/d8b5542730d64fbbc8268279431b3780)
 * [Regex?](https://rextester.com/PTSLI74648)
+* [How fast is Haskell?](https://www.quora.com/How-fast-is-Haskell)
 
 # Book
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
