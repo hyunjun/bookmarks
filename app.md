@@ -366,6 +366,7 @@ App
 * [goodsync.com](http://www.goodsync.com/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Resilio Sync - a fast, reliable, and simple file sync and share solution, powered by P2P technology](https://www.resilio.com/individuals/)
+* [**snapdrop.net**](https://snapdrop.net/) local network에서 파일 교환
 * [Syncthing is a continuous file synchronization program](https://syncthing.net/)
   * [싱크띵(Syncthing), 여러 기기간 파일 동기화 애플리케이션 드롭박스 대신 무료로 사용 가능한 오픈소스 프로젝트](https://www.44bits.io/ko/post/syncthink-syncing-file-between-multiple-devices)
 
