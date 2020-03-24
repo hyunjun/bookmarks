@@ -231,6 +231,7 @@ Machine Learning
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 * [Sergey Feldman: You Should Probably Be Doing Nested Cross-Validation | PyData Miami 2019](https://www.youtube.com/watch?v=DuDtXtKNpZs)
+* [딥러닝 필수 파이썬 지식: 이미지 파일 확장자 검증](https://www.youtube.com/watch?v=LUgM_TBT35E)
 * [More-flexible machine learning](http://news.mit.edu/2015/more-flexible-machine-learning-1001)
 * [What to do with “small” data?](https://medium.com/rants-on-machine-learning/what-to-do-with-small-data-d253254d1a89)
 * 머신러닝 특집
@@ -1054,6 +1055,7 @@ Machine Learning
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
 * [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
 * [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
+* Neptune [머신러닝 Experiment Management 쉽게 하기(feat. neptune ai)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
 * [PyCM - Multi-class confusion matrix library in Python http://pycm.ir ](https://github.com/sepandhaghighi/PYCM)
     * [PyCM 2.5 released : Multi-class confusion matrix library in Python](https://www.reddit.com/r/MachineLearning/comments/diqyb7/p_pycm_25_released_multiclass_confusion_matrix/)
