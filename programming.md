@@ -566,6 +566,7 @@ Programming
 * [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369) draw Software Architecture diagrams that make sense
 * [Beyond Microservices: Streams, State and Scalability](https://www.youtube.com/watch?v=d_3-EUs_gBo)
   * [Beyond Microservices: Streams, State and Scalability](https://www.infoq.com/presentations/microservices-streams-state-scalability/)
+* [Rewriting the heart of our sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1661,7 +1662,9 @@ Programming
 * [news.hada.io](https://news.hada.io/)
 * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
+* [2020년 2월 22일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-2-22.html)
 * [2020년 3월 7일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-7.html)
+* [2020년 3월 14일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-14.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
