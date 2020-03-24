@@ -534,6 +534,7 @@ Apache
 * [Apache Kafka as a Service with Confluent Cloud Now Available on Azure Marketplace](https://www.confluent.io/blog/confluent-cloud-managed-kafka-service-azure-marketplace/)
 * [**카프카 컨슈머 멀티쓰레드 애플리케이션 예제코드(for scala)**](https://blog.voidmainvoid.net/313)
 * [링크드인은 왜 카프카를 만들었나](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS9400468504)
+* [Disaster Recovery Plans for Apache Kafka](https://www.slideshare.net/ConfluentInc/disaster-recovery-plans-for-apache-kafka)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
