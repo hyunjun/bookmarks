@@ -67,6 +67,7 @@ Azure
 * [애저 데브옵스 파이프라인 리팩토링 테크닉](https://blog.aliencube.org/ko/2019/09/04/azure-devops-pipelines-refactoring-technics/)
 * [레거시 애저 서비스 버스 SDK에서 JSON 객체를 다루는 방법](https://blog.aliencube.org/ko/2019/09/11/handling-json-objects-in-legacy-azure-service-bus-sdk/)
 * [지역 이중화로 구성된 애저 서비스 버스에 애저 펑션을 이용해서 메시지 주고 받기](https://blog.aliencube.org/ko/2019/10/30/handling-messages-with-geo-redundant-azure-service-bus-via-azure-functions/)
+* [GitOps, 애저 Durable Functions, GitHub Actions을 이용한 블로그 예약 포스팅 구현](https://blog.aliencube.org/ko/2020/03/25/scheduling-posts-with-gitops-durable-functions-and-github-actions/)
 * [ServiceBusPlugin 트릭](https://blog.aliencube.org/ko/2019/09/18/servicebusplugin-tricks/)
 * [애저 데브옵스 다단계 파이프라인 승인 전략](https://blog.aliencube.org/ko/2019/10/02/azure-devops-multi-stage-pipelines-approval-strategies/)
 * [애저 데브옵스 파이프라인에서 애저 스토리지 에뮬레이터 사용하기](https://blog.aliencube.org/ko/2019/10/16/azure-storage-emulator-on-azure-pipelines/)
