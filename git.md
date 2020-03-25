@@ -489,7 +489,7 @@ Git
     Branch master set up to track remote branch master from origin.
     $
     ```
-  * `git remote updaet` [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
+  * `git remote update` [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
 * reset
   * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
   * `git reset --hard ORIG_HEAD`
