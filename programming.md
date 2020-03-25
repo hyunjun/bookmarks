@@ -602,6 +602,7 @@ Programming
 * [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
 * [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
 * [전술적 DDD를 사용 하 여 마이크로 서비스 디자인](https://docs.microsoft.com/ko-kr/azure/architecture/microservices/model/tactical-ddd)
+* [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
