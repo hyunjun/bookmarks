@@ -273,8 +273,10 @@ ElasticSearch - Lucene
 * [Word count from documents](https://discuss.elastic.co/t/word-count-from-documents/117379)
 * [App Search 소개](https://jjeong.tistory.com/1407)
 * [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
-* [Elastic Stack 으로 코로나19 대시보드 만들기 - 1](https://www.youtube.com/watch?v=FIrub1zraHQ)
-* [Elastic Stack 으로 코로나19 대시보드 만들기 - 2](https://www.youtube.com/watch?v=Vz6G3v5KNh0)
+* [2020-03-24 Virtual Meetup - Elastics Stack을 이용한 COVID19 대시보드 만들기](https://github.com/eskrug/elastic-demos/tree/master/covid19)
+  * [Elastic Stack 으로 코로나19 대시보드 만들기 - 1](https://www.youtube.com/watch?v=FIrub1zraHQ)
+  * [Elastic Stack 으로 코로나19 대시보드 만들기 - 2](https://www.youtube.com/watch?v=Vz6G3v5KNh0)
+  * [Elastics Stack 으로 COVID19 대시보드 만들기 - 3](https://www.youtube.com/watch?v=UGOk-h5i5kk)
 * [Kurly에서 주문을 모니터링 하는 법](https://helloworld.kurly.com/blog/order-monitoring-service/)
 
 # Book
