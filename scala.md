@@ -388,6 +388,8 @@ Scala
 * [Using Google Datastore with akka-persistence](https://medium.com/@innFactory/using-google-datastore-with-akka-persistence-1f6f7179b22a)
 * [Circuit Breaker](https://goldone.tistory.com/entry/Circuit-Breaker)
 * [**Akka EC2, ECS, Terraform, Packr, Ansible, Gradle Example**](https://github.com/RichardHightower/akka-ec2-example/wiki)
+* [**Tuning your Akka to Get the Most from your Actor-Based System – Part I**](https://www.fyber.com/engineering/tuning-your-akka-to-get-the-most-from-your-actor-based-system-part-i/)
+* [Tuning your Akka to Get the Most from your Actor-Based System – Part II](https://www.fyber.com/engineering/tuning-your-akka-to-get-the-most-from-your-actor-based-system-part-ii/)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
