@@ -481,6 +481,7 @@ Programming Books
 * (NOT YET) [단단한 강화학습: 강화학습 기본 개념을 제대로 정리한 인공지능 교과서](https://jpub.tistory.com/1026)
 * (NOT YET) [검색을 위한 딥러닝: 심층 신경망을 활용하는 차세대 검색 엔진 개발](https://jpub.tistory.com/1017)
 * (NOT YET) [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
+* (NOT YET) [딥러닝을 위한 수학 인공지능의 핵심 원리를 이해하고 파이썬으로 구현해 보는](https://wikibook.co.kr/mathdl/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
