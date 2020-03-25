@@ -164,9 +164,6 @@ C++
   * [const_cast는 언제 써야 하는가](http://blog.seulgi.kim/2017/11/cpp-core-guidelines-const-cast.html)
 * switch
   * [string type을 switch문 case의 expression으로 사용하기](http://www.gilgil.net/?document_srl=812969)
-* volatile
-  * [volatile](http://blog.seulgi.kim/2017/11/cpp-volatile.html)
-  * [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
 * template
   * [C++: A jump table with a template device](https://monoinfinito.wordpress.com/2015/05/05/c-a-jump-table-with-a-template-device/)
   * [Template Code Bloat Revisited: A Smaller make_shared](http://blog2.emptycrate.com/content/template-code-bloat-revisited-smaller-makeshared )
@@ -180,6 +177,11 @@ C++
   * [Using Variadic Templates cleanly](http://florianjw.de/en/variadic_templates.html)
   * [Variadic template](http://blog.seulgi.kim/2017/10/cpp-variadic-template.html)
   * [C++ 템플릿 스터디](https://github.com/CppKorea/CppTemplateStudy)
+* vector
+  * [c++ vector clear size를 0으로 만들어 준다](https://codingdog.tistory.com/entry/c-vector-clear-size%EB%A5%BC-0%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A4%80%EB%8B%A4)
+* volatile
+  * [volatile](http://blog.seulgi.kim/2017/11/cpp-volatile.html)
+  * [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
 
 # Book
 * [The C++ Standard Library](https://leanpub.com/cpplibrary)
