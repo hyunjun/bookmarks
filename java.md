@@ -182,6 +182,8 @@ Java
   * [Why java.lang.Object is not abstract?](http://stackoverflow.com/questions/2117689/why-java-lang-object-is-not-abstract)
   * [Why is the finalize() method in java.lang.Object “protected”?](http://stackoverflow.com/questions/2291470/why-is-the-finalize-method-in-java-lang-object-protected)
   * [java deepequals 메서드 정말 깊게 비교한다](https://codingdog.tistory.com/entry/java-deepequals-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%95%EB%A7%90-%EA%B9%8A%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%9C%EB%8B%A4)
+  * equals
+    * [자바 == 연산자 vs equals()](https://brunch.co.kr/@mystoryg/132)
 * Random
   * [Java에서 랜덤 함수를 이용해 난수 얻기](https://developer88.tistory.com/183)
 * sun.misc.Unsafe
@@ -357,6 +359,7 @@ Java
 * [인텔리제이에 파이썬 인터프리터 설정하기](https://jojoldu.tistory.com/465)
 * [IntelliJ 에서 JAR 만들기](https://www.hyoyoung.net/100)
 * [IntelliJ프로젝트에 JAR 라이브러리 추가하기](https://bkjeon1614.tistory.com/59)
+* [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다](https://blog.jetbrains.com/kr/2020/03/local-history-intellij-save-your-code-ko/)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
