@@ -410,6 +410,7 @@ Scala
 * [How to make a simple application with Akka Cluster](https://medium.freecodecamp.org/how-to-make-a-simple-application-with-akka-cluster-506e20a725cf)
 * [One step closer: exploiting locality in Akka Cluster based systems](https://manuel.bernhardt.io/2019/10/28/one-step-closer-exploiting-locality-in-akka-cluster-based-systems/)
 * [When do you need Akka Cluster?](https://blog.softwaremill.com/when-do-you-need-akka-cluster-5885d43e901b)
+* [Akka Cluster application design — untyped](https://medium.com/@reeebuuk/akka-cluster-application-design-2fd6e11cd7f2)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
@@ -552,6 +553,7 @@ Scala
   * [The Known Unknown: Working with Option and Nullable Types](https://medium.com/digitalfrontiers/the-known-unknown-working-with-option-and-nullable-types-b342a0e787de)
   * [Optional Is the New Mandatory](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html)
   * [Introducing error reporting in optics](https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/)
+  * [The cost of Scala Option](https://medium.com/@georgeleung_7777/the-cost-of-scala-option-987ffd64206b)
 * par
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * Process
@@ -630,9 +632,12 @@ Scala
     * [Building a Super Easy Rate Limiter with ZIO](https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776)
     * [Make your own IO with context-scoped data on top of ZIO](https://medium.com/wix-engineering/make-your-own-io-with-context-scoped-data-on-top-of-zio-c1f3ad1f3d83)
     * [Creating a dead simple CountDownLatch with ZIO](https://medium.com/wix-engineering/creating-a-dead-simple-countdownlatch-with-zio-c4212ecf9198)
+    * [Spring to ZIO 101](https://adrianfilip.com/2020/03/15/spring-to-zio-101/)
+    * [Migrating ZIO environment from RC-17 to RC-18](https://medium.com/@wiemzin/migrating-zio-environment-from-rc-17-to-rc-18-d7a41ba58c30)
     * [ZIO for IntelliJ](https://plugins.jetbrains.com/plugin/13820-zio-for-intellij)
     * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
     * ZIO STM [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
+    * ZLayer [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
@@ -1152,6 +1157,7 @@ Scala
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
+* SBT Native Packager Docker Plugin [Separate Docker Layers for Dependencies and App JARs](https://medium.com/@ppiotrow/separate-docker-layers-for-dependencies-and-app-jars-e33b52ca044c)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
