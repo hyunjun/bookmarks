@@ -1433,6 +1433,7 @@ Javascript
     * [NPM in the console - Console에서 NPM을](https://www.youtube.com/watch?v=2m4iTjdgbMU)
   * [pnpm, 플랫하지 않은 패키지 매니저](https://imch.dev/posts/pnpm-a-manager-what-is-not-flat)
   * [NPM 의 package.json을 이용한 효율적 설치 방법](https://developer88.tistory.com/270)
+  * [npm install 에러 - MacOS](https://jybaek.tistory.com/865)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
