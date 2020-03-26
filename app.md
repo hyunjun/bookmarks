@@ -443,6 +443,7 @@ App
     * [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
     * [사용중인 VSCode(Visual Studio Code) 확장 플러그인 목록](https://junhobaik.github.io/vsc-plugin-list/)
     * [VSCodium: 100% Open Source Version of Microsoft VS Code](https://itsfoss.com/vscodium/)
+    * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
@@ -946,6 +947,7 @@ App
 * [윈도우 10 잠금화면 없애기](https://rgy0409.tistory.com/3194)
 * [유니콘 - HTTPS 차단 우회앱](http://unicorn-adblock.com/%EC%9C%A0%EB%8B%88%EC%BD%98-https-for-windows/)
 * [**맥을 쓰는 닷넷 개발자들을 위한 도구들 모음**](https://blog.aliencube.org/ko/2019/12/05/tools-for-dotnet-devs-on-mac)
+* [How to Create a List of Your Installed Programs on Windows](https://www.howtogeek.com/165293/how-to-get-a-list-of-software-installed-on-your-pc-with-a-single-command/)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
@@ -1056,4 +1058,6 @@ App
   * [WSL Manager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://wslhub.com/)
   * [Simple WSL debian installer script](https://gist.github.com/rkttu/e21709a349cfb85568fb0ff5ebbdec15)
   * [Installation Instructions for WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
+  * [Docker Desktop for Windows Home is here!](https://www.docker.com/blog/docker-desktop-for-windows-home-is-here/)
+  * [WSL2 will be generally available in Windows 10, version 2004](https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
