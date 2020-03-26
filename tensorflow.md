@@ -688,6 +688,9 @@ TensorFlow
 * [Google Cloud TF-GPU Setup for Ubuntu 16.04](https://docs.google.com/presentation/d/1_smMnYYjzR_ParHtrilf9hr4cTY3ot8TuhqkKzM-fu8/edit#slide=id.p)
 * [How to install Tensorflow GPU with CUDA Toolkit 9.1 and cuDNN 7.1.2 for Python 3 on Ubuntu 16.04-64bit](http://www.python36.com/install-tensorflow141-gpu/)
 * [UBUNTU 18.04 설치 #2-3 INSTALL TENSORFLOW WITH DOCKER](https://eungbean.github.io/2018/11/09/Ubuntu-Installation2-3/)
+* [UBUNTU 18.04 설치 #1 기본 운영체제의 설치](https://eungbean.github.io/2018/08/08/Ubuntu-Installation1/)
+* [Ubuntu 18.04 설치 #2 DOCKER INSTALLATION FOR A.I. RESEARCHER](https://eungbean.github.io/2019/11/11/Docker-for-ai/)
+* [UBUNTU 18.04 설치 #3 유틸리티 설치](https://eungbean.github.io/2018/08/08/Ubuntu-Installation3/)
 * [Ubuntu 18.04, Nvidia GeForce RTX 2080 Ti, tensorflow, OpenCV, Jupyter Installation](https://github.com/jonghwan7028/tensorflow-multi-GPUs)
 
 ## Installation Windows
