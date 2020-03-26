@@ -553,6 +553,7 @@ Machine Learning
 * [~An Introduction to Causal Inference with Gaussian Processes, Part I~](https://mindcodec.com/an-introduction-to-causal-inference-with-gaussian-processes-part-i)
 * [Gaussian Processes, not quite for dummies](https://yugeten.github.io/posts/2019/09/GP/)
 * [머신러닝 관점에서 가우시안 프로세스의 소개 (최성준 박사님)](https://www.youtube.com/watch?v=Kgr-BQLVhuA)
+* [가우시안 혼합 모델(Gaussian mixture model) 기초 개념](https://losskatsu.github.io/machine-learning/gmm/)
 * [Applied Machine Learning: Part 1](https://medium.com/the-research-nest/applied-machine-learning-part-1-40578469a934)
 * [Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
 * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
