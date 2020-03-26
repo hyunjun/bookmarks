@@ -372,6 +372,7 @@ AWS
 * [Amazon Personalize's example using python sdk](https://github.com/seongshj/personalize-python-sdk-example)
 * [Public Cloud와 온프레미스 간의 IP 중복 시, 서비스 통신 방법](https://zigispace.net/1077)
 * [AWS DATA LAKE WORKSHOP](http://bdlf.awsdemo.kr/)
+* [The good parts of AWS - A visual summary](https://hassenchaieb.com/aws-good-parts/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
