@@ -406,6 +406,7 @@ Python
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
 * [Minimizing context switching between shell and Python](https://www.johndcook.com/blog/2019/12/30/shell-and-python/)
 * [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
+* [파이썬을 올바르게, 현명하게 설치하는 방법](http://www.itworld.co.kr/news/146358)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -736,6 +737,7 @@ Python
 * itertools
   * [데이터 분석에 피가 되는 itertools 익히기](http://hamait.tistory.com/803)
   * [You (Probably) Don’t Need For-Loops](https://medium.com/python-pandemonium/never-write-for-loops-again-91a5a4c84baf)
+  * [Tour of Python Itertools](https://martinheinz.dev/blog/16/)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -2812,7 +2814,8 @@ Python
   * [문자인식 오픈소스 Tesseract-OCR, python wrapper tesserocr 설치](https://blog.naver.com/pgh7092/221099597471)
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
-* transition [**유한 상태 기계를 Django에 적용하여 상태 변경을 관리하기**](https://tech.peoplefund.co.kr/2019/03/26/managing-state-using-finite-state-machine.html)
+* [transitions - A lightweight, object-oriented finite state machine implementation in Python with many extensions](https://github.com/pytransitions/transitions)
+  * [**유한 상태 기계를 Django에 적용하여 상태 변경을 관리하기**](https://tech.peoplefund.co.kr/2019/03/26/managing-state-using-finite-state-machine.html)
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * Twitter
