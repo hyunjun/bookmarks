@@ -162,6 +162,7 @@ Linux
 * [**스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들**](https://www.mimul.com/blog/linux-server-operations/) operation에 관계되는 여러가지 명령어 정리
 * [59 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
 * [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력)](https://withcoding.com/111)
+* [오픈스택 명령어로 오픈스택 명령어 만들기](https://naleejang.tistory.com/223) grep, sed, awk
 * [How can I monitor the thread count of a process on linux?](https://stackoverflow.com/questions/268680/how-can-i-monitor-the-thread-count-of-a-process-on-linux)
   * `cat /proc/<PID>/status | grep Threads`
 * CPU 개수
