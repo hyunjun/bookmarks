@@ -57,6 +57,7 @@ Linux
     * [**프로비저닝 자동화를 위한 Ansible AWX, 설치부터 엔터프라이즈 환경 적용까지 – 2**](https://engineering.linecorp.com/ko/blog/ansible-awx-for-provisioning-2/)
     * [Ansible with oci](https://www.slideshare.net/DonghuKIM2/ansible-with-oci-221441463)
     * [A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more](https://github.com/sovereign/sovereign)
+    * [20 개의 ANSIBLE 인터뷰 질문](https://linux.systemv.pe.kr/20-%EA%B0%9C%EC%9D%98-ansible-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%AC%B8/)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
@@ -334,6 +335,7 @@ Linux
 * ntp
   * [practice - ntpd, ntpdate, ntpq](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-ntp-md)
   * [RHEL, CentOS에서 ntp 서버 설정하기(사설망 내부 서버들의 시간 동기화)](http://hook.tistory.com/entry/RHEL-CentOS%EC%97%90%EC%84%9C-ntp-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%EC%82%AC%EC%84%A4%EB%A7%9D-%EB%82%B4%EB%B6%80-%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94)
+  * [Building a more accurate time service at Facebook scale](https://engineering.fb.com/production-engineering/ntp-service/) chrony
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `paste` `paste -d"[delimiter] [file1] [file2]`
@@ -568,6 +570,7 @@ Linux
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
 * [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
   * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
+* [loadlibrary - Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary)
 * [LSD (LSDeluxe) The next gen ls command](https://github.com/Peltoche/lsd)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
