@@ -383,6 +383,7 @@ Go
 * [Goenv – Go Environment Manager](http://www.andreagrandi.it/2015/04/19/goenv-go-environment-manager/)
 * [GOES - Go Event Sourcing made easy https://opensource.bloom.sh ](https://github.com/bloom42/goes)
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
+* [go-git - A highly extensible Git implementation in pure Go](https://github.com/go-git/go-git)
 * [Gogs](http://gogs.io/)
 * [Go(ing) to the Clouds](http://junctionbox.ca/2015/05/02/golang-aws-cloudformation.html)
 * [go-itergen addresses a common and big problem of go: no maps, no filters, no nothing](https://github.com/mvader/go-itergen)
