@@ -472,6 +472,8 @@ Java
 # Java14
 * [Better NPE Messages in JDK 14](https://dzone.com/articles/better-npe-messages-in-jdk-14)
 * [Java Language Futures: Late 2019 Edition by Brian Goetz](https://www.youtube.com/watch?v=J6fegDQPgps)
+* [Java 14 Released](https://www.infoq.com/news/2020/03/java14-released/)
+* [New Relic Introduces Real-Time Java Profiling](https://www.infoq.com/news/2020/03/new-relic-java-profiling/)
 
 # Java15
 * [자바 8~15까지 변경 내역과 JVM 실제 통계 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=poyLhO8W8MM)
@@ -978,6 +980,7 @@ Java
 * [Spring Framework Documentation - Spring AOP / Example-3](https://woolbro.tistory.com/24)
 * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [스프링캠프 2017 Day1 A2 : Async & Spring](https://www.youtube.com/watch?v=HKlUvCv9hvA)
+* [레거시 코드를 점진적으로 개선한 경험 스프링 레거시 코드를 개선하는데 실천한 13가지 방법](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
