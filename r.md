@@ -537,6 +537,7 @@ R
 * RMySQL
   * [AWS RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [rMouse - 업무자동화 R로 마우스를 조작하려면 rMouse](https://mrchypark.github.io/post/%EC%97%85%EB%AC%B4%EC%9E%90%EB%8F%99%ED%99%94-r%EB%A1%9C-%EB%A7%88%EC%9A%B0%EC%8A%A4%EB%A5%BC-%EC%A1%B0%EC%9E%91%ED%95%98%EB%A0%A4%EB%A9%B4-rmouse/)
+* Rmpfr [Extended floating point precision in R and C](https://www.johndcook.com/blog/2020/03/18/gnu-mpfrr-wrapper/)
 * [rnaturalearth - an R package to hold and facilitate interaction with natural earth map data](https://github.com/ropenscilabs/rnaturalearth)
 * [rnotebook.io - Run your Jupyter R notebooks in the cloud](https://rnotebook.io)
 * [rpy2 is a redesign and rewrite of rpy. It is providing a low-level interface to R from Python](http://rpy2.bitbucket.org/)
