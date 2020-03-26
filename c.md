@@ -327,6 +327,7 @@ C
   * [practice - test-minunit](https://github.com/hyunjun/practice/blob/master/c/test-minunit/minunit_example.c)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 * [mpc is a lightweight and powerful Parser Combinator library for C](https://github.com/orangeduck/mpc)
+* mpfr [Extended floating point precision in R and C](https://www.johndcook.com/blog/2020/03/18/gnu-mpfrr-wrapper/)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [musl - a new standard library to power a new generation of Linux-based devices](http://www.musl-libc.org/)
 * [MyHTML — HTML Parser on Pure C with POSIX Threads Support](http://lexborisov.github.io/myhtml/)
