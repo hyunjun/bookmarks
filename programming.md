@@ -1007,6 +1007,7 @@ Programming
 * [컴파일러가 어떻게 동작하는가 - 1분 요약 (CC)](https://www.youtube.com/watch?v=VLAzykeSp04)
 * [I wrote a programming language. Here’s how you can, too](https://medium.freecodecamp.com/the-programming-language-pipeline-91d3f449c919)
 * [the super tiny compiler - Possibly the smallest compiler ever https://git.io/compiler ](https://github.com/hg-pyun/the-super-tiny-compiler-kr)
+* [KAIST CS420: Compiler Design](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -1664,6 +1665,7 @@ Programming
   * [월간 개발자스럽다 #51](https://blog.gaerae.com/2020/01/monthly.html)
   * [월간 개발자스럽다 #52](https://blog.gaerae.com/2020/02/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
+* [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [news.hada.io](https://news.hada.io/)
 * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
