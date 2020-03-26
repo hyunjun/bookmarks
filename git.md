@@ -668,3 +668,4 @@ Git
 * [누구나 쉽게 이해할 수 있는 Git 입문](http://backlogtool.com/git-guide/kr/)
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
 * [git-step](https://okdevtv.com/mib/git-step)
+* [Git 기반의 오픈소스 프로젝트 개발 실습](http://www.kocw.net/home/search/kemView.do?kemId=1352154)
