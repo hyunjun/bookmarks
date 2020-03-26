@@ -385,6 +385,7 @@ Algorithm
 * [How to calculate Hamming Code step by step](https://www.youtube.com/watch?v=ag_xXaas4R4)
 * [Hamming Error Correcting Code Example](https://www.youtube.com/watch?v=gZVpyyQTM14)
 * [Hamming Code Error Detection and Correction Visualization](https://www.youtube.com/watch?v=LiGiU7zrLnU)
+* [A gentle introduction to Hamming codes](https://www.johndcook.com/blog/2020/02/24/hamming-codes/)
 
 # Hash
 * [C++, Java 해시 테이블 구현](http://docs.likejazz.com/hash-table-implementations/)
