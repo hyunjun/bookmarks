@@ -530,7 +530,10 @@ App
 # Linux
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 
-# Mac App
+# Mac
+* [오래된 아이맥, SSD 교체하기](https://jeonghwan-kim.github.io/think/2020/03/27/imac-ssd-replacement.html)
+
+## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
   * [practice - (old) Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
 * [맥 키보드 단축키](https://johngrib.github.io/wiki/mac-keyboard-shortcuts/)
@@ -777,7 +780,7 @@ App
 * [xhyve – Lightweight Virtualization on OS X Based on bhyve](http://www.pagetable.com/?p=831)
 * [Running containers from Mac OS X](https://hyper.sh/blog/post/2015/07/30/running-containers-from-mac-os-x.html)
 
-# Mac OS X
+## Mac OS X
 * `sudo nvram StartupMute=%0[0|1]` [Bring back your Mac’s startup chime with this simple terminal command](https://9to5mac.com/2020/02/21/bring-back-mac-startup-chime-command/)
 * troubleshooting
   * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
