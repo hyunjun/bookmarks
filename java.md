@@ -184,6 +184,8 @@ Java
   * [java deepequals 메서드 정말 깊게 비교한다](https://codingdog.tistory.com/entry/java-deepequals-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%95%EB%A7%90-%EA%B9%8A%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%9C%EB%8B%A4)
   * equals
     * [자바 == 연산자 vs equals()](https://brunch.co.kr/@mystoryg/132)
+  * hashCode
+    * [자바의 hashCode()](https://brunch.co.kr/@mystoryg/133)
 * Random
   * [Java에서 랜덤 함수를 이용해 난수 얻기](https://developer88.tistory.com/183)
 * sun.misc.Unsafe
