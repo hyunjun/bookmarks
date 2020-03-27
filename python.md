@@ -1951,6 +1951,7 @@ Python
 * [launchctl을 사용한 맥 OSX에서 서비스 등록하기 - 주피터(Jupyter, IPython >= 3) 노트북 서비스 등록 예제](http://blog.nacyot.com/articles/2015-05-13-jupyter-as-a-service/)
 * [주피터(Jupyter) 노트북과 자바스크립트 환경 이해하기 - 주피터 위에서 d3.js를 활용한 시각화](http://blog.nacyot.com/articles/2015-05-21-d3js-in-jupyter/)
 * [jupyter 다중 커널(kernel) 설치하기](http://bryan7.tistory.com/719)
+* [Jupyter에서 kernel 다루기 (+ 다중커널)](https://yahwang.github.io/posts/42)
 * [Bike Sharing Demand](http://nbviewer.ipython.org/github/kyuni22/kagglebreak/blob/master/bikesharing/bikesharing.ipynb)
 * [Rendering Notebooks on GitHub](http://blog.jupyter.org/2015/05/07/rendering-notebooks-on-github/)
 * [Gesture Typing](http://nbviewer.ipython.org/url/norvig.com/ipython/Gesture%20Typing.ipynb)
