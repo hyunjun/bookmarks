@@ -240,6 +240,7 @@ Math
 * [How to Build a Market Simulator Using Markov Chains and Python Model customer behavior, visualize A/B test results, predict user metrics…all using a simple Markovian framework!](https://towardsdatascience.com/how-to-build-a-market-simulator-using-markov-chains-and-python-7923256f8d29)
 * [A brief introduction to Markov chains - Definitions, properties and PageRank example](https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab)
 * [Really fast Markov chains in ~20 lines of sh, grep, cut and awk](https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/)
+* [강화학습 기본기 덕질1 - Markov Decision Process](https://www.youtube.com/watch?v=slNB5SdDNFI)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
