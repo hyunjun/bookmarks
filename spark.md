@@ -419,6 +419,7 @@
   * [A practical introduction to Spark’s Column- part 2](https://medium.com/@achilleus/a-practical-introduction-to-sparks-column-part-2-1e52f1d29eb1)
   * [Different approaches to manually create Spark DataFrames](https://medium.com/@mrpowers/manually-creating-spark-dataframes-b14dae906393)
   * [Sending Spark DataFrame via mail](https://medium.com/@n.suthar.online/sending-spark-dataframe-via-mail-f396b1810d89)
+  * [How I achieved 3x speedup for joins over Spark dataframes](https://medium.com/@cbhaavan/3x-performance-improvement-for-joins-on-spark-dataframe-d79e93a5fc48)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
