@@ -590,6 +590,7 @@ Java
 * `--add-exports java.base/sun.nio.cs=ALL-UNNAMED` [java option --add-exports deprecated된 pakcage를 사용하는 방법](https://medium.com/@strncpy/java-option-add-exports-1f63c81a54a4)
 * ` -XX:+UseTLAB` [Is memory allocation on the JVM lockless](https://stackoverflow.com/questions/8147846/is-memory-allocation-on-the-jvm-lockless)
 * `-XX:+UseG1GC -XX:+UseStringDeduplication` [G1 GC: Reducing Memory Consumption by 20%](https://dzone.com/articles/easy-change-to-reduce-memory-by-20)
+* [-Xss 옵션에 관하여](https://blog.naver.com/myneck/106688339)
 * [JAVA 실행 시 Heap 설정 메모리 설정 관련](https://202psj.tistory.com/908)
 * [Java8이상에서 MaxMetaspaceSize 설정, 반드시 해야할까?](https://blog.voidmainvoid.net/210)
 * [Java 8 에서 사라진 maxPermSize, PermSize을 대체하는 옵션?](https://blog.voidmainvoid.net/184)
