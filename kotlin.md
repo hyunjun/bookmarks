@@ -89,6 +89,7 @@
 * [코틀린 코루틴의 패턴과 안티패턴](https://medium.com/harrythegreat/%EB%B2%88%EC%97%AD-%EC%BD%94%ED%8B%80%EB%A6%B0-%EC%BD%94%EB%A3%A8%ED%8B%B4%EC%9D%98-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%95%88%ED%8B%B0%ED%8C%A8%ED%84%B4-6e97f852ea2d)
 * [Google Play Billing Library meets Kotlin Coroutine](https://proandroiddev.com/google-play-billing-library-meets-kotlin-coroutine-c68e10553786)
 * [코틀린 Coroutine으로 네트워크 Retry 구현하는 방법](https://developer88.tistory.com/250)
+* [코틀린 이용해 Parallel한 네트워크 호출](https://developer88.tistory.com/280)
 * [Kotlin 작성한 코드 Decompile](https://thdev.tech/kotlin/2018/05/22/Android-Studio-Kotlin-Decompile.html)
 * [Kotlin 더 잘 활용하기](https://thdev.tech/kotlin/2018/08/13/Kotlin-Improving/)
 * [카카오톡의 서버사이드 코틀린](https://www.slideshare.net/ifkakao/ss-113145569)
