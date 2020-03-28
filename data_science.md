@@ -54,6 +54,7 @@ Data Science
   * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
+* [How to jump into Data Science](https://www.youtube.com/watch?v=FGuGg9F2VUs)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 * [Data Engineers are in Greater Demand than Data Scientists](https://www.infoworks.io/2018/04/23/data-engineers-greater-demand-data-scientists/)
 * [Data Infrastructure at In Loco](https://medium.com/inlocotech/data-infrastructure-at-in-loco-5d954cb69b98)
