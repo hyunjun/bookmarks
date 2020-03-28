@@ -237,6 +237,7 @@ Data Visualization
 * [워드 클라우드, 파이썬에서 이쁘게 그리는 방법은?!](https://tariat.tistory.com/854)
 * [Profitable Moving Average Strategy with Python and ML](https://www.youtube.com/watch?v=MXv5VqipDos)
 * [파이썬 데이터 분석 범죄 데이터 실습](https://stricky.tistory.com/190)
+* [파이썬 인구 데이터 분석, 제주도엔 정말 여자가 더 많을까?](https://stricky.tistory.com/218)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * Bokeh
