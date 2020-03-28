@@ -690,6 +690,7 @@ R
 
 # Tutorial
 * [R 데이터 매니지먼트: 기초](https://blog.zarathu.com/posts/2020-02-16-rdatamanagement-basic/)
+* [R로 배우는 통계](https://www.theissaclee.com/ko/courses/rstat101/)
 
 # Visualization
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
@@ -700,6 +701,7 @@ R
 * [3D Visualization of multiple regression model(2)](http://rpubs.com/cardiomoon/284985)
 * [VISUALIZATION OF REGRESSION MODELS](http://ds.sumeun.org/?p=2031)
 * [회귀분석 라인은 어떻게 그릴까](https://www.theissaclee.com/ko/courses/rstat101/week6/)
+* [R에서 회귀분석 함수 사용하기](https://www.theissaclee.com/ko/courses/rstat101/week7/)
 * [R Tutorial: Visualizing Multivariate Relationships in Large Datasets](https://www.r-bloggers.com/r-tutorial-visualizing-multivariate-relationships-in-large-datasets/)
 * [POKEMON: VISUALIZE 'EM ALL!](http://jkunst.com/r/pokemon-visualize-em-all/)
 * [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph)
