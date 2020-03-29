@@ -1307,6 +1307,8 @@ Deep Learning
 # MOOC, Lecture
 * [#39. 딥러닝 공부 가이드 2019 (무료 강의, 책)](t-robotics.blogspot.com/2018/12/39-2019.html)
   * [#0.2 딥러닝 공부 가이드 2019](https://www.youtube.com/watch?v=fEwVeyki5p8)
+* [딥러닝 강좌할껀데, 실습만 합니다](https://www.youtube.com/playlist?list=PLqtXapA2WDqbE6ghoiEJIrmEnndQ7ouys)
+  * [github.com/hanyoseob](https://github.com/hanyoseob)
 * [Learning From Data - Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
   * [Course Review: Learning from Data (Introductory Machine Learning course)](https://www.class-central.com/report/review-caltech-learning-from-data-intro-machine-learning/)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.com/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
