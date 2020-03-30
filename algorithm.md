@@ -580,6 +580,7 @@ Algorithm
 * [append only finger tree](https://github.com/krl/notes/wiki/append-only-finger-tree)
 * [Inverting Binary Trees Considered Harmful](http://www.jasq.org/just-another-scala-quant/inverting-binary-trees-considered-harmful)
 * [A simple approach to segment trees](https://kartikkukreja.wordpress.com/2014/11/09/a-simple-approach-to-segment-trees/)
+* [세그먼트 트리 구조에서 lazy propagation을 적용하는 코드를 뜯어봅시다](https://codingdog.tistory.com/entry/%EC%84%B8%EA%B7%B8%EB%A8%BC%ED%8A%B8-%ED%8A%B8%EB%A6%AC-%EA%B5%AC%EC%A1%B0%EC%97%90%EC%84%9C-lazy-propagation%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C%EB%A5%BC-%EB%9C%AF%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Traversing a linearized tree](http://bannalia.blogspot.kr/2015/06/traversing-linearized-tree.html)
 * [Eli-Index - Ranked Prefix Search for Large Data on External Memory optimized for Mobile with ZERO lag initialization time](https://github.com/maksimpiriyev/Eli-Index/)
 * [Fenwick Trees](http://loonytek.com/2015/08/17/fenwick-trees/)
