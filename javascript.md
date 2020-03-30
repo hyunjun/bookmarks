@@ -1330,6 +1330,7 @@ Javascript
   * [Webpack](https://opentutorials.org/module/4566)
   * [Webpack](https://www.youtube.com/playlist?list=PLuHgQVnccGMChcT9IKopFDoAIoTA-03DA)
   * [Webpack 5 Module Federation: A game-changer in JavaScript architecture](https://itnext.io/webpack-5-module-federation-a-game-changer-to-javascript-architecture-bcdd30e02669)
+  * [Webpack에 대해서 알아보자](https://developer88.tistory.com/285)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
