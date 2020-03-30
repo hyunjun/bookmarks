@@ -187,6 +187,7 @@ Business
 * [구글, 애플, 아마존의 회의 운영 노하우](https://hbrforum.org/2017/07/22/%EA%B5%AC%EA%B8%80-%EC%95%A0%ED%94%8C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%98-%ED%9A%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0/)
 * [회의 정리의 기술](https://brunch.co.kr/@lunarshore/354) wrap up, 기록, email, 매일 논의
 * [회의 참석자의 7가지 유형](https://brunch.co.kr/@hyungsukkim/112)
+* [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
