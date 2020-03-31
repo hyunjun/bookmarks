@@ -386,13 +386,11 @@ Scala
 * [Managing Blocking in Akka video](https://akka.io/blog/news/2020/01/22/managing-blocking-video)
 * [Always stop unused Akka actors](https://www.mikulskibartosz.name/always-stop-unused-akka-actors/) OOM, PoisonPill
 * [Akka Stopping Actors](https://www.javatpoint.com/akka-stopping-actors)
-* [Monitoring Akka based applications with Cinnamon and DataDog](https://blog.knoldus.com/monitoring-akka-based-applications-with-cinnamon-and-datadog/)
 * [Using Google Datastore with akka-persistence](https://medium.com/@innFactory/using-google-datastore-with-akka-persistence-1f6f7179b22a)
 * [Circuit Breaker](https://goldone.tistory.com/entry/Circuit-Breaker)
 * [**Akka EC2, ECS, Terraform, Packr, Ansible, Gradle Example**](https://github.com/RichardHightower/akka-ec2-example/wiki)
 * [**Tuning your Akka to Get the Most from your Actor-Based System – Part I**](https://www.fyber.com/engineering/tuning-your-akka-to-get-the-most-from-your-actor-based-system-part-i/)
 * [Tuning your Akka to Get the Most from your Actor-Based System – Part II](https://www.fyber.com/engineering/tuning-your-akka-to-get-the-most-from-your-actor-based-system-part-ii/)
-* [Monitoring and tracing for akka applications under kubernetes (k8s)](https://medium.com/@innFactory/monitoring-and-tracing-for-akka-applications-under-kubernetes-k8s-963f2aabbddf) lightbend monitoring, kamon, istio, jaeger, zipkin
 * [akka dead letters and how to monitor for them](https://sachabarbs.wordpress.com/2016/08/04/akka-dead-letters-and-how-to-monitor-for-them/)
 * [AKKA(아카)with Scala 튜토리얼 01](https://wingnim.tistory.com/87)
 * [AKKA(아카)with Scala 튜토리얼 02](https://wingnim.tistory.com/88)
@@ -433,6 +431,15 @@ Scala
 * [An introduction to Akka HTTP routing](https://medium.freecodecamp.org/an-introduction-to-akka-http-routing-697b00399cad)
 * [Configuring Github badges for a Scala project](https://medium.com/@canohueros75/configuring-github-badges-for-a-scala-project-87ef726028ea)
 * [akka-http-memory-leak](https://github.com/jeroentervoorde/akka-http-memory-leak/)
+
+## Akka Monitoring
+* [Monitoring Akka based applications with Cinnamon and DataDog](https://blog.knoldus.com/monitoring-akka-based-applications-with-cinnamon-and-datadog/)
+* [Monitoring and tracing for akka applications under kubernetes (k8s)](https://medium.com/@innFactory/monitoring-and-tracing-for-akka-applications-under-kubernetes-k8s-963f2aabbddf) lightbend monitoring, kamon, istio, jaeger, zipkin
+* [kamon.io](https://kamon.io/)
+  * [Akka monitoring with Kamon part 1](https://softwaremill.com/akka-monitoring-with-kamon-part-1/)
+  * [Akka monitoring with Kamon part 2](https://softwaremill.com/akka-monitoring-with-kamon-part-2/)
+  * [Akka monitoring with Kamon part 3](https://softwaremill.com/akka-monitoring-with-kamon-part-3/)
+  * [Monitoring Akka with Kamon 1.0](https://www.slideshare.net/StephenKing/monitoring-akka-with-kamon-10)
 
 ## Akka Streams
 * [How Akka Streams can be used to process the Wikidata dump in parallel and using constant memory with just your laptop](http://engineering.intenthq.com/2015/06/wikidata-akka-streams/)
@@ -562,6 +569,7 @@ Scala
   * [Java 소스를 Scala로 전환할 때 null 값 처리는?](https://slipp.net/questions/409)
   * [Java의 break, continue 구문 대신 Scala의 Option을 사용해 구현해 보기](https://slipp.net/questions/414)
   * [The Known Unknown: Working with Option and Nullable Types](https://medium.com/digitalfrontiers/the-known-unknown-working-with-option-and-nullable-types-b342a0e787de)
+  * [NULL, NULLPOINTEREXCEPTION AND DEALING WITH IT](https://scalac.io/null-pointer-exception-npe/)
   * [Optional Is the New Mandatory](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html)
   * [Introducing error reporting in optics](https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/)
   * [The cost of Scala Option](https://medium.com/@georgeleung_7777/the-cost-of-scala-option-987ffd64206b)
