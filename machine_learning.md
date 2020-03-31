@@ -941,6 +941,7 @@ Machine Learning
 * [머신러닝(기계학습) 이해하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq-3bSiCeaBJhE5Km5TKFhh) scikit-learn
 * [아빠가 들려주는 머신 러닝](https://www.youtube.com/playlist?list=PLQrL7n-YSrfcTyjKpMP-sCKRQV_lSjQqF)
   * [다양한 머신러닝 방법들](https://blog.naver.com/kjhnav/221359372049)
+* [포브스가 추천하는 AIㆍML 무료 강좌 '베스트 9'](http://www.aitimes.com/news/articleView.html?idxno=126901)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 * [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
