@@ -91,6 +91,7 @@ SQL
 * [sql 기본 강의 # select를 잘 이용하는 방법(1), 3편 -sTricky](https://stricky.tistory.com/205)
 * [sql 공부 강의 # 단일행 함수 잘 사용 하기(문자 함수) 4편 -sTricky](https://stricky.tistory.com/210)
 * [sql 공부 강의 # 단일행 함수 잘 사용 하기(숫자 함수) 5편 -sTricky](https://stricky.tistory.com/217)
+* [sql 공부 강의 # 단일행 함수 잘 사용 하기(날짜 함수) 6편 -sTricky](https://stricky.tistory.com/220)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
