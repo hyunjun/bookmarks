@@ -155,6 +155,7 @@ Git
 * [github.com - action](https://www.youtube.com/watch?v=uBOdEEzjxzE)
 * [30분만에 만드는 깃헙 액션 - 라이브 코딩](https://www.youtube.com/watch?v=Hcf4dpTQhwA)
 * [GitHub Actions (CI/CD Flow)](https://www.youtube.com/watch?v=0tMkRSdp-Go)
+* [GitHub Actions Runner](https://github.com/actions/runner)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
