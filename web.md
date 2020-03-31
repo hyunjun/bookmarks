@@ -521,6 +521,7 @@ Web
 * [**NGINX 모듈 제작하기**](https://d2.naver.com/helloworld/192785)
 * [nginx no live upstream 에러 이해하기](https://brunch.co.kr/@alden/58)
 * [Nginx 웹서버 https 설정하기](https://www.youtube.com/watch?v=SjOEeW6gQlY)
+* [**proxy 뒤에서 docker의 wordpress, https 적용**](https://www.popit.kr/proxy-%EB%92%A4%EC%97%90%EC%84%9C-docker%EC%9D%98-wordpress-https-%EC%A0%81%EC%9A%A9/)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
