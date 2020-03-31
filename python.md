@@ -1313,6 +1313,7 @@ Python
 * [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
 * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
+* [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
 * [Django 자습](https://wikidocs.net/book/837)
