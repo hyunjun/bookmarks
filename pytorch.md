@@ -166,6 +166,7 @@ PyTorch
 * [Pytorch Support TPU](https://www.notion.so/19f91fdd81a94a98958dbd2dde22b11a)
 * [PyTorch at Tesla - Andrej Karpathy, Tesla](https://www.youtube.com/watch?v=oBklltKXtDE)
 * [PyTorch Autograd](https://teamdable.github.io/techblog/PyTorch-Autograd)
+* [PyTorch Module](https://teamdable.github.io/techblog/PyTorch-Module)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
