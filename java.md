@@ -168,6 +168,7 @@ Java
     * [HikariCP Dead lock에서 벗어나기 (이론편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock.html)
     * [HikariCP Dead lock에서 벗어나기 (실전편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock-2.html)
     * [Slick/HikariCP giving "too many connections" instead of timeouts](https://stackoverrun.com/ko/q/11283055)
+  * [Driver does not support get/set network timeout for connections](https://medium.com/@shdotseo/driver-does-not-support-get-set-network-timeout-for-connections-82a8fd943fce)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
 * net
@@ -266,8 +267,6 @@ Java
 * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
 * [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm#Code_Examples)
-* [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
-* [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
 * [Thousands of Threads and Blocking I/O - The old way to write Java Servers is New again](https://www.mailinator.com/tymaPaulMultithreaded.pdf)
 * [How to write a multi-threaded webcrawler](http://andreas-hess.info/programming/webcrawler/)
 * [Java 동기화의 이해(synchronized, wait, notify, notifyAll)](http://gladtosee.tistory.com/191)
@@ -287,7 +286,12 @@ Java
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
-## Executor
+## Concurrency Parallel Thread Akka
+* [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
+* [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
+* [Building Reactive Applications with Akka Actors and Java 8](https://www.infoq.com/articles/Building-Reactive-Applications-with-Akka/)
+
+## Concurrency Parallel Thread Executor
 * [Java Concurrency: Executor와 Callable/Future](http://javacan.tistory.com/124)
 * [Example of ConcurrentSkipListMap in Java](http://www.concretepage.com/java/example_concurrentskiplistmap_java)
 * [ConcurrentHashMap: usage and functionality](http://www.javamex.com/tutorials/synchronization_concurrency_8_hashmap2.shtml)
