@@ -379,6 +379,7 @@ Linux
     * [<U+FEFF> character showing up in files. How to remove them?](http://stackoverflow.com/questions/7297888/ufeff-character-showing-up-in-files-how-to-remove-them)
     * [Removing special characters(<200c> <200d> from a text file](http://stackoverflow.com/questions/9257103/removing-special-characters200c-200d-from-a-text-file)
   * `sed -e "s/^M//" <infile> > <outfile>` ^M 제거
+  * `cat test.json | sed s/\"/\\\\\"/g` "를 \"로 변경
   * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
   * [bash 저장 SINGLE 줄에 따옴표로 묶인 파일 이름을 출력하는 방법은 무엇입니까?](https://src-bin.com/ko/q/5c2ffc) path에 space가 있어서 quotation을 추가하기 원할 때
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
