@@ -150,6 +150,7 @@ Scala
 * [scala.bythebay.io: Sasha Ovsankin, New Metrics Engine to Help Drive UBER](https://www.youtube.com/watch?v=iKD3FRyDJ30)
 * [스칼라의 도입을 회고하며](https://medium.com/rainist-engineering/%EC%8A%A4%EC%B9%BC%EB%9D%BC%EC%9D%98-%EB%8F%84%EC%9E%85%EC%9D%84-%ED%9A%8C%EA%B3%A0%ED%95%98%EB%A9%B0-d491125abeb9)
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99/)
+  * [Scala를 익히기 위한 99 Problems 예제](https://wingnim.tistory.com/109)
 * [practice - install scala notebook on jupyter](https://gist.github.com/hyunjun/ed5a9b4e3e2669bd48e215d8d92c2f34)
   * [JupyterLab for complex Python and Scala Spark projects](https://dataintoresults.com/post/jupyterlab-for-complex-python-and-scala-spark-projects/)
 * [Abstration and Polymorphism (using Scala)](https://www.youtube.com/watch?v=hWNJrH-NUb0)
@@ -376,6 +377,7 @@ Scala
 * [Tour of Akka Typed: Message Adapters, Ask Pattern and Actor Discovery](https://manuel.bernhardt.io/2019/08/07/tour-of-akka-typed-message-adapters-ask-pattern-and-actor-discovery/)
 * [Using Dotty Union types with Akka Typed](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed/)
 * [Using Dotty Union types with Akka Typed – Part II](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed-part-ii/)
+* [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
 * [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
 * [Event Sourcing with Akka 2.6 video](https://akka.io/blog/news/2020/01/07/akka-event-sourcing-video)
 * [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
@@ -391,6 +393,11 @@ Scala
 * [**Tuning your Akka to Get the Most from your Actor-Based System – Part I**](https://www.fyber.com/engineering/tuning-your-akka-to-get-the-most-from-your-actor-based-system-part-i/)
 * [Tuning your Akka to Get the Most from your Actor-Based System – Part II](https://www.fyber.com/engineering/tuning-your-akka-to-get-the-most-from-your-actor-based-system-part-ii/)
 * [Monitoring and tracing for akka applications under kubernetes (k8s)](https://medium.com/@innFactory/monitoring-and-tracing-for-akka-applications-under-kubernetes-k8s-963f2aabbddf) lightbend monitoring, kamon, istio, jaeger, zipkin
+* [akka dead letters and how to monitor for them](https://sachabarbs.wordpress.com/2016/08/04/akka-dead-letters-and-how-to-monitor-for-them/)
+* [AKKA(아카)with Scala 튜토리얼 01](https://wingnim.tistory.com/87)
+* [AKKA(아카)with Scala 튜토리얼 02](https://wingnim.tistory.com/88)
+* [AKKA(아카)with Scala 튜토리얼 03](https://wingnim.tistory.com/89)
+* [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -425,6 +432,7 @@ Scala
 * [Testing Akka Http Clients](https://medium.com/@pwdd/testing-akka-http-clients-59fa2d0545c1)
 * [An introduction to Akka HTTP routing](https://medium.freecodecamp.org/an-introduction-to-akka-http-routing-697b00399cad)
 * [Configuring Github badges for a Scala project](https://medium.com/@canohueros75/configuring-github-badges-for-a-scala-project-87ef726028ea)
+* [akka-http-memory-leak](https://github.com/jeroentervoorde/akka-http-memory-leak/)
 
 ## Akka Streams
 * [How Akka Streams can be used to process the Wikidata dump in parallel and using constant memory with just your laptop](http://engineering.intenthq.com/2015/06/wikidata-akka-streams/)
@@ -491,6 +499,7 @@ Scala
     * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
     * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
     * [Human-readable case class diffs](https://blog.softwaremill.com/human-readable-case-class-diffs-c707e83e08a2)
+    * [Scala CaseClass에 대한 특징 정리](https://wingnim.tistory.com/111)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
@@ -517,6 +526,7 @@ Scala
   * [Scala Futures](https://www.waitingforcode.com/scala-async/scala-futures/read)
   * [The async library in Scala](https://blog.knoldus.com/the-async-library-in-scala-2/)
   * [Chapter 9: A Beginner's Tutorial To Using Scala Futures](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/)
+    * [Scala Future에 대해 기본은 배워보자! 튜토리얼 ~~](https://wingnim.tistory.com/107)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
@@ -810,6 +820,13 @@ Scala
   * [Cats Effect Ref](https://lewisjkl.com/cats-effect-ref/)
   * [Data Juggling - Part 6 - Introduction to #Cats (Functional Error Handling - Part 1)](https://www.youtube.com/watch?v=BPexEu4yFVc)
   * [Data Juggling - Part 7 - Applicative vs Monadic Styles (Functional Error Handling - Part 2)](https://www.youtube.com/watch?v=kseiQ1DRPdM)
+  * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 1 (Introduction)](https://wingnim.tistory.com/110)
+  * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 2 (Monoids and Semigroups)](https://wingnim.tistory.com/112)
+  * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 3 (Functors)](https://wingnim.tistory.com/113)
+  * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 4 (Monads)](https://wingnim.tistory.com/114)
+  * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 5 (Monad Transformers)](https://wingnim.tistory.com/115)
+  * [scala with cats 책 읽으면서 필기 Chapter 6 (Semigroupal and Applicative)](https://wingnim.tistory.com/116)
+  * [scala with cats 책 읽으면서 필기 Chapter 7 (Foldable and Traverse)](https://wingnim.tistory.com/117)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
   * Cats STM [Announcing Cats STM 0.7.0](https://medium.com/permutive/announcing-cats-stm-0-7-0-5af9a0f72920)
@@ -1056,6 +1073,7 @@ Scala
   * [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
   * [hamait.tistory.com/category/PlayFramework2](http://hamait.tistory.com/category/PlayFramework2)
     * [Action 과 Action.async 의 차이점](http://hamait.tistory.com/773)
+    * [Akka 와 함께 사용하기](https://hamait.tistory.com/644)
   * [Understanding Play2 Iteratees for Normal Humans](http://mandubian.com/2012/08/27/understanding-play2-iteratees-for-normal-humans/)
   * [APIs and Microservices with Scala and Play](https://www.youtube.com/watch?v=jaZIilhjcDw)
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
@@ -1065,6 +1083,7 @@ Scala
   * [Play 2 Scala, React.js,GraphQL- Part 1](https://medium.com/@diprochowdhury/play-2-scala-react-js-graphql-part-1-8217872af9cb)
   * [Functional tests with Scala, SBT, Play framework, Specs2 and one application per test suite](https://medium.com/@geovannyjs/functional-tests-with-scala-sbt-play-framework-specs2-and-one-application-per-test-suite-22ddf70e5cbe)
   * [XXE ATTACKS IN SCALA AND PLAY FRAMEWORK](https://jowritesscala.wordpress.com/2019/07/30/xxe-attacks-in-scala-and-play-framework/)
+  * [Play 2.6에서 달라진 점](https://medium.com/@OutOfBedlam/play-2-6%EC%97%90%EC%84%9C-%EB%8B%AC%EB%9D%BC%EC%A7%84-%EC%A0%90-30ab2d305e5)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
@@ -1098,6 +1117,7 @@ Scala
 * [Dependency injection with Reader Monad in Scala](https://medium.com/rahasak/dependency-injection-with-reader-monad-in-scala-fe05b29e04dd)
 * [scale.bythebay.io: Adelbert Chang, The Functor, Applicative, Monad talk](https://www.youtube.com/watch?v=L0aYcq1tqMo)
 * [What's the Point of Applicative?](http://www.doscienceto.it/blog/posts/2020-03-24-applicative.html)
+* [Scala의 모나드(Monad)에 대한 정리](https://wingnim.tistory.com/106)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
