@@ -407,6 +407,7 @@ Docker
 * [도커를 이용해 쉽게 IRC 서버 구축하기](https://blog.rajephon.dev/2019/04/30/setup-irc-server-with-docker/)
 * [Docker로 한 서버를 여러 사람이 독립적으로 사용할 수 있는 환경 만들기](https://xo.dev/setup-virtual-environment-for-guests-with-docker/)
 * [컨테이너에서 돌아가는 애플리케이션의 GUI를 이용하는 법](https://jonghunbok.github.io/posts/gui-on-container/) X.Org, X11
+* [Docker로 간단하게 Let's Encrypt 와일드카드 인증서 발급받기](https://lynlab.co.kr/blog/72)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
