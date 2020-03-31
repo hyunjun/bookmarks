@@ -3677,3 +3677,4 @@ Python
   * [ironpython3](https://github.com/IronLanguages/ironpython3)
 * win32clipboard [clipboard 로 text, image 복사하기 , 가져오기](https://freeprog.tistory.com/16)
 * win32gui [응용프로그램창 백그라운드로 숨기는 방법(win32gui)](https://www.youtube.com/watch?v=S9f8QOy1rbU)
+* WSl [Using WSL to Build a Python Development Environment on Windows](https://pbpython.com/wsl-python.html)
