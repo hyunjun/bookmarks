@@ -187,6 +187,7 @@ SQL
 * [Some Aspects of MS SQL Server Monitoring. Part 1.](https://hackernoon.com/some-aspects-of-ms-sql-server-monitoring-part-1-b6e67b313f6f)
 * [임시테이블, 테이블변수 간 성능이슈](https://hackhyun.tistory.com/276)
 * [토크ON세미나 47차. SQL 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheDlm4xo7xHbOLodw1VwLcL)
+* [쿼리 수행시간 확인방법](https://blog.naver.com/smonone/221508523991)
 
 # MySQL
 * practice
