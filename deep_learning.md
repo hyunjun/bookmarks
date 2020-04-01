@@ -2258,6 +2258,7 @@ CVPR2016)
 * [비행슈팅게임에 강화학습 적용하기 4(完)](https://blog.naver.com/jk96491/221842016652)
 * [RLlib: Scalable Reinforcement Learning](https://ray.readthedocs.io/en/latest/rllib.html)
 * [Introduction-of-Reinforcement-Learning](https://github.com/LoveRL/Introduction-of-Reinforcement-Learning)
+* [Deep Reinforcement Learning in TensorFlow2](https://github.com/marload/deep-rl-tf2)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
