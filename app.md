@@ -1065,4 +1065,5 @@ App
   * [Docker Desktop for Windows Home is here!](https://www.docker.com/blog/docker-desktop-for-windows-home-is-here/)
   * [WSL2 will be generally available in Windows 10, version 2004](https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/)
   * [Using WSL to Build a Python Development Environment on Windows](https://pbpython.com/wsl-python.html)
+  * [How To Protect Your WSL Distro More Firmly](https://medium.com/rkttu/do-not-install-your-wsl-distro-from-microsoft-store-a322b94e8e2)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
