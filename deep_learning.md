@@ -1192,6 +1192,7 @@ Deep Learning
   * [Lasagne-CTC](https://github.com/skaae/Lasagne-CTC)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
+* [MindSpore - a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios](https://github.com/mindspore-ai/mindspore)
 * [mxnet - Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
   * [Awesome MXNet](https://github.com/chinakook/Awesome-MXNet) A curated list of MXNet examples, tutorials and blogs
   * [**An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io**](https://github.com/zackchase/mxnet-the-straight-dope)
