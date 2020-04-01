@@ -395,6 +395,7 @@ Git
   * [**GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기**](https://meetup.toast.com/posts/122)
   * [Git: merging specific files from another branch](https://www.haykranen.nl/2011/07/18/git-merging-specific-files-from-another-branch/)
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
+  * [Git Merge Strategy Options and Examples](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
 * show
 * status
   * `git status --porcelain` git에 추가되지 않은 file 출력
