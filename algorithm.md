@@ -127,6 +127,7 @@ Algorithm
 * [2020 신입 개발자 블라인드 채용 1차 코딩 테스트 문제 해설](https://tech.kakao.com/2019/10/02/kakao-blind-recruitment-2020-round1/)
 * [카카오 BILND 공채 코딩 테스트 강의](https://github.com/ndb796/KAKAO-RECRUITMENT)
 * [2018년도 카카오 블라인드 코딩 테스트 채용 - 전체 문제풀이 (총 38분)](https://www.youtube.com/watch?v=Rgw0fo6isUM)
+* [2019 카카오 개발자 겨울 인턴십 코딩 테스트 문제 해설](https://tech.kakao.com/2020/04/01/2019-internship-test/)
 * [2019년 상반기 LINE 인턴 채용 코딩테스트 문제 해설](https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
 * [프로그래밍을 잘하는 5가지 방법 — 1. 자료구조와 알고리즘 공부하기](https://medium.com/@ghilbut/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-ebf3a3f79ee2)
