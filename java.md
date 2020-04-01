@@ -619,6 +619,7 @@ Java
   * [Class list](yourkit.com/docs/java/help/claclass_list.jsp)
   * [Deadlock detector](https://www.yourkit.com/docs/java/help/deadlocks.jsp)
   * [Connect to profiled application](https://www.yourkit.com/docs/java/help/connect.jsp)
+  * [Yourkit on intelliJ](https://medium.com/@strncpy/yourkit-on-intellij-9d5dfc65b3dc)
 * [How to profile JVM applications](https://www.lightbend.com/blog/profiling-jvm-applications)
 * [자바 성능 튜닝 이야기](https://garden715.github.io/Java_Tuning3/)
 * [자바개발 및 운영툴](https://javaengine.tistory.com/entry/자바개발-및-운영툴)
