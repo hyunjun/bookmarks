@@ -1642,6 +1642,7 @@ Programming
   * [기술 뉴스 #144 : 20-02-15](https://blog.outsider.ne.kr/1477)
   * [기술 뉴스 #145 : 20-03-02](https://blog.outsider.ne.kr/1478)
   * [기술 뉴스 #146 : 20-03-15](https://blog.outsider.ne.kr/1479)
+  * [기술 뉴스 #147 : 20-04-01](https://blog.outsider.ne.kr/1480)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1669,8 +1670,10 @@ Programming
   * [월간 개발자스럽다 #50](https://blog.gaerae.com/2019/12/monthly.html)
   * [월간 개발자스럽다 #51](https://blog.gaerae.com/2020/01/monthly.html)
   * [월간 개발자스럽다 #52](https://blog.gaerae.com/2020/02/monthly.html)
+  * [월간 개발자스럽다 #53](https://blog.gaerae.com/2020/03/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
+* [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
 * [news.hada.io](https://news.hada.io/)
 * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
