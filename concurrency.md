@@ -10,6 +10,9 @@ Concurrency
 * [천만 명의 사용자에게 1분 내로 알림 보내기 (병렬프로세스의 최적화)](https://www.popit.kr/faster-parallel-processes/) redis, RabbitMQ
 * [Why Concurrency is Hard ?](https://hackernoon.com/why-concurrency-is-hard-a45295e96114)
 * ["A survey of parallel programming models and tools in the multi and many-core era."를 읽고](https://www.sangkon.com/a-survey-of-parallel-programming-models-and-tools-in-the-multi-and-many-core-era/)
+* [동시성 문제 - 일반론 (Part 1)](http://jaynewho.com/post/42)
+* [동시성 문제 - 데이터베이스와 JPA (Part 2)](http://jaynewho.com/post/43)
+* [동시성 문제 - 비즈니스 애플리케이션 (Part 3)](http://jaynewho.com/post/44)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
