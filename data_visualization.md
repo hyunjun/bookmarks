@@ -136,6 +136,7 @@ Data Visualization
 * [How to get started with D3 and React](https://medium.freecodecamp.org/how-to-get-started-with-d3-and-react-c7da74a5bd9f)
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 * [How to learn D3.js](https://wattenberger.com/blog/d3)
+* [Learn D3: Introduction](https://observablehq.com/@d3/learn-d3)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
