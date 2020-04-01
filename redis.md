@@ -72,6 +72,7 @@ Redis
 * [Redis Tutorial - Intro to Redis w/ Node.js Demo](https://www.youtube.com/watch?v=uJb4HjtvcIE)
 * [Build A Node.js & Redis App From Scratch](https://www.youtube.com/watch?v=9S-mphgE5fA)
 * [Redis Crash Course Tutorial](https://www.youtube.com/watch?v=Hbt56gFj998)
+* [개발자를 위한 레디스 튜토리얼 01](https://meetup.toast.com/posts/224)
 * [05 01 Implementing a Redis Cache](https://www.youtube.com/watch?v=ECz6Mv3T7Ec)
 * [Why Your MySQL Needs Redis | Redis Labs](https://www.youtube.com/watch?v=_4HwUVNl9Nc)
 * [Why and When You Should Use Redis](https://www.youtube.com/watch?v=CoQcNgfPYPc)
