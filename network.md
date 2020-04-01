@@ -56,6 +56,7 @@ Network
 * [Handshake와 도메인 네임](https://www.thestartupbible.com/2019/12/handshake-wants-to-decentralize-the-dns.html) DNS의 탈중앙화
 * [Intelligent DNS based load balancing at Dropbox](https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/)
 * [DNS전문가되기](https://brunch.co.kr/magazine/dnsdns)
+* [A record A 레코드와 CNAME의 차이점을 알아보자](https://developer88.tistory.com/282)
 
 # Library
 * Cicso packet tracer
