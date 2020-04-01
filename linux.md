@@ -711,6 +711,13 @@ Linux
 * yum
   * `yum info <package>`
     * [`yumdb info <package>`](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information)
+  * `yum [--disablerepo=dockerrepo] install git` 특정 repo에 오류가 있을 때 --disablerepo를 사용하면 동작
+
+    ```
+    ...
+    failure: repodata/repomd.xml from dockerrepo: [Errno 256] No more mirrors to try.
+    https://yum.dockerproject.org/repo/main/centos/7/repodata/repomd.xml: [Errno 14] HTTPS Error 404 - Not Found
+    ```
   * `yum list available <package>`
   * `yum update <package>`
   * proxy
