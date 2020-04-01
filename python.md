@@ -2121,6 +2121,7 @@ Python
   * [Jupyter Notebook보다 쉽고 편리하다, Jupyter Lab!](https://tariat.tistory.com/537)
   * [github jupyterlab-extension](https://github.com/search?utf8=%E2%9C%93&q=topic%3Ajupyterlab-extension&type=Repositories)
   * [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
+  * [A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
   * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
   * [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
