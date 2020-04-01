@@ -207,6 +207,7 @@ Business
 * [전략 기획자의 책 2](https://brunch.co.kr/@lunarshore/293)
 * [전략 기획자의 책 3](https://brunch.co.kr/@lunarshore/294)
 * [전략 기획자의 책 4](https://brunch.co.kr/@lunarshore/295)
+* [당신은 대체 불가능한 기획자인가요?](https://yslab.kr/135)
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [CPO, Product Team이 뭐죠?](https://arload.wordpress.com/2018/09/09/cpo_productteam/)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
@@ -376,6 +377,7 @@ Business
 * [영향력으로 조직을 이끄는 법](http://www.andrewahn.co/product/leading-with-influence/) 여러가지 soft skill
 * [좋은 팀장에겐 이 세 가지가 있더라](https://brunch.co.kr/@poisson-tr/30)
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
+* [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
