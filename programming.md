@@ -1329,6 +1329,7 @@ Programming
   * [RABBITMQ 통계 보기](https://linux.systemv.pe.kr/rabbitmq-%ED%86%B5%EA%B3%84-%EB%B3%B4%EA%B8%B0/)
   * [Spring Boot - RabbitMQ](https://heowc.tistory.com/36)
   * [RabbitMQ 클러스터 구성하기](https://jonnung.dev/rabbitmq/2019/08/08/rabbitmq-cluster/)
+  * [CentOS 7에 RabbitMQ 설치하기](https://marshallslee.tistory.com/entry/CentOS-7%EC%97%90-RabbitMQ-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
