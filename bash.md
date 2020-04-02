@@ -31,6 +31,7 @@ Shell
 * expr
   * [Performing Math calculation in Bash](https://www.shell-tips.com/2010/06/14/performing-math-calculation-in-bash/)
 * for
+  * [practice - for loop string array](https://gist.github.com/hyunjun/6ecaca07e8a206dc23ca0a16e2b90a4d)
   * [배시 셸 스크팁트 프로그래밍(bash shell script programming)](https://www.lesstif.com/pages/viewpage.action?pageId=26083916)
   * [Linux bash. for loop and function, for adding numbers](https://stackoverflow.com/questions/22460266/linux-bash-for-loop-and-function-for-adding-numbers/22460518)
   * `for i in $(seq -f "$02g" 1 20); do echo $i; done` [How to zero pad a sequence of integers in bash so that all have the same width?](https://stackoverflow.com/questions/8789729/how-to-zero-pad-a-sequence-of-integers-in-bash-so-that-all-have-the-same-width)
