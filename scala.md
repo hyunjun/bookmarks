@@ -138,6 +138,7 @@ Scala
 * [Make Your Scala Compiler Work Harder](https://medium.com/life-at-hopper/make-your-scala-compiler-work-harder-971be53ae914)
 * `-Yexplicit-nulls` [Explicit nulls are in!](https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f?) compiler flag
 * [How an Optimizing Compiler Works](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
+* [user-land compiler warnings in Scala](http://eed3si9n.com/user-land-compiler-warnings-in-scala)
 * [BETTER MANAGEMENT OF TRANSITIVE DEPENDENCIES AND CONFLICTS](https://www.scala-lang.org/2019/10/17/dependency-management.html)
 * [Top 5 things that slow down your Scala build](https://www.triplequote.com/blog/2019-10-24-5-things-slow-down-build/)
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
@@ -654,11 +655,15 @@ Scala
     * [Spring to ZIO 101](https://adrianfilip.com/2020/03/15/spring-to-zio-101/)
     * [Migrating ZIO environment from RC-17 to RC-18](https://medium.com/@wiemzin/migrating-zio-environment-from-rc-17-to-rc-18-d7a41ba58c30)
     * [ZIO for IntelliJ](https://plugins.jetbrains.com/plugin/13820-zio-for-intellij)
-    * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
-    * ZIO STM [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
+    * [Testing Background Process With ZIO](https://www.rudder.io/blog/testing-background-process-zio/)
+    * ZIO STM
+      * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
+      * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
+      * [HOW TO WRITE A (COMPLETELY LOCK-FREE) CONCURRENT LRU CACHE WITH ZIO STM](https://scalac.io/how-to-write-a-completely-lock-free-concurrent-lru-cache-with-zio-stm/)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
+      * [Zio ZLayer with playframework](https://medium.com/@aadelegue/zio-zlayer-with-playframework-8e393574bea7)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
@@ -1135,6 +1140,7 @@ Scala
 * [EXPLORING TAGLESS FINAL PATTERN FOR EXTENSIVE AND READABLE SCALA CODE](https://scalac.io/tagless-final-pattern-for-scala-code)
 * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf)
 * [Using Tagless Final with laws - Scala tutorial](https://www.youtube.com/watch?v=mkQLU7OzqYM)
+* [Bake your bread tagless-final style](https://blog.softwaremill.com/bake-your-bread-tagless-final-style-dea9448b3dc3)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
