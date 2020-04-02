@@ -662,7 +662,7 @@ Linux
   * [Switching from zsh to fish](http://jbrodriguez.io/switching-from-zsh-to-fish/)
   * [fundle - A minimalist package manager for fish inspired by Vundle](https://github.com/tuvistavie/fundle)
 * [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
-  * [How to see full log from systemctl status service?](https://unix.stackexchange.com/questions/225401/how-to-see-full-log-from-systemctl-status-service/225407) system service를 시작할 수 없는 경우
+  * `journalctl -u <service name> > <file name>` [How to see full log from systemctl status service?](https://unix.stackexchange.com/questions/225401/how-to-see-full-log-from-systemctl-status-service/225407) system service를 시작할 수 없는 경우
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [nixar - New shell commandsJoyable equivalents for existent linux commands](http://nixar.work)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
