@@ -31,6 +31,7 @@ Haskell
 * [**모나드 괴담**](https://e.xtendo.org/haskell/ko/monad_fear/slide#1)
 * [Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0)
 * [Functional Programming Course](https://github.com/bitemyapp/fp-course) Written by Tony Morris & Mark Hibberd for Data61
+* [opentutorials.org/profile/22041](https://opentutorials.org/profile/22041)
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
