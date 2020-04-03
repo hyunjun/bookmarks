@@ -741,6 +741,7 @@ Programming
 * [커머스 코드 자산화 개발 일지-3 오퍼를 쇼핑몰에](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C-%EC%9D%BC%EC%A7%80-3-%EC%98%A4%ED%8D%BC%EB%A5%BC-%EC%87%BC%ED%95%91%EB%AA%B0%EC%97%90/)
 * [커머스 코드 자산화 개발 일지-4 출시](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-4-%EC%B6%9C%EC%8B%9C/)
 * [커머스 코드 자산화 개발 일지-5 장바구니(부제. 다중 저장소 지속성 입문)](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-5-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%EB%B6%80%EC%A0%9C-%EB%8B%A4%EC%A4%91/)
+* [커머스 코드 자산화 개발일지 - 6 결제 대행 서비스를 테스트 대역으로](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-6-%EA%B2%B0%EC%A0%9C-%EB%8C%80%ED%96%89-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%85%8C/)
 * [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
 * [11 Reasons Why You Are Going To Fail With Microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
 
