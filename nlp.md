@@ -270,6 +270,7 @@ NLP
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 * [Fine-Tuning GPT-2 from Human Preferences](https://openai.com/blog/fine-tuning-gpt-2/)
 * [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
+* [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
 * [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 * [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
@@ -1579,3 +1580,4 @@ NLP
   * [1909 paclic](https://www.slideshare.net/WonIkCho/1909-paclic)
 * [Word2Vec 체크리스트](https://orill.tistory.com/9)
 * [**그래프 임베딩 요약**](https://medium.com/watcha/그래프-임베딩-요약-bc2732048999)
+* [MODUCON 2019 자연어 처리 모델의 성능을 높이는 비결 Embedding - 이기창](https://www.youtube.com/watch?v=FpWe2PBu_PE)
