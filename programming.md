@@ -1689,6 +1689,7 @@ Programming
 * [news.hada.io](https://news.hada.io/)
 * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
+* [2020년 2월 8일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-2-8.html)
 * [2020년 2월 15일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-2-15.html)
 * [2020년 2월 22일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-2-22.html)
 * [2020년 3월 7일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-7.html)
