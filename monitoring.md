@@ -87,3 +87,4 @@ Monitoring
 * [오픈소스 모니터링 툴 - Prometheus #2 Hello Prometheus](https://bcho.tistory.com/1373)
 * [오픈소스 모니터링 툴 - Prometheus #3 그라파나를 이용한 시각화](https://bcho.tistory.com/1374)
 * [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
+* [A Prometheus fork for cloud scale anomaly detection across metrics & logs](https://www.zebrium.com/blog/a-prometheus-fork-for-efficient-cloud-scale-autonomous-monitoring)
