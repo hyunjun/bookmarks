@@ -395,6 +395,7 @@ SQL
 * [MySQL의 다양한 실행 프로그램 mysqld_safe, mysql.server, mysqld_multi feat.mysqld](https://stricky.tistory.com/164)
 * [MySQL 8.0 테이블스페이스 관리 방법 변경 내용 feat.테이블 스페이스 삭제한다면?!](https://stricky.tistory.com/166)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
+* [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -589,6 +590,7 @@ SQL
     * jupyter에서 간단히 할 일이 있어서 하려고 했던 건데 너무 일이 커져서 귀찮아서 여기서 중지
 * [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [SQLite Is Serverless](https://www.sqlite.org/serverless.html)
+* [Sharing an SQLite database across containers is surprisingly brilliant](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
