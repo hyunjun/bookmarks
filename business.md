@@ -378,6 +378,7 @@ Business
 * [좋은 팀장에겐 이 세 가지가 있더라](https://brunch.co.kr/@poisson-tr/30)
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
+* [Creating Balance between Product Managers & Engineers](https://www.infoq.com/presentations/balance-management-engineers/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
