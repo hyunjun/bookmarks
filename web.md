@@ -200,6 +200,7 @@ Web
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
 * Lighthouse [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
+* [vegeta - HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
   * installation `make`; worked on Redhat 6.6/7.2
   * [Script Lua to work better with wrk](https://github.com/timotta/wrk-scripts)
