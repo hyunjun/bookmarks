@@ -124,6 +124,7 @@ Go
 * [Go Go Python Rangers! Comparing Python and Golang](https://stxnext.com/blog/2017/09/27/go-go-python-rangers-comparing-python-and-golang)
 * ["고"할 것인가 "파이썬"할 것인가, 비교 선택 가이드](http://www.itworld.co.kr/news/136275)
 * [**See Python, See Python Go, Go Python Go**](https://blog.heroku.com/see_python_see_python_go_go_python_go) python <-> go <-> c
+* [Nine reasons to switch from Python to Go](https://medium.com/datadriveninvestor/nine-reasons-to-switch-from-python-to-go-f1b0cd746974)
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
 * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
@@ -451,6 +452,7 @@ Go
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
+* [rudder-server - Privacy and Security focused Segment-alternative, in Golang and React](https://github.com/rudderlabs/rudder-server/)
 * [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
 * [script - Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)
 * [Seaweed-FS is a simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
