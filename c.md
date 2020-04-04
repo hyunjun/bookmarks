@@ -169,6 +169,7 @@ C
 * [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/)
 * [Emulating "defer" in C, with Clang or GCC+Blocks](http://fdiv.net/2015/10/08/emulating-defer-c-clang-or-gccblocks)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
+* [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
