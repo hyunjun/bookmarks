@@ -58,6 +58,7 @@ Linux
     * [Ansible with oci](https://www.slideshare.net/DonghuKIM2/ansible-with-oci-221441463)
     * [A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more](https://github.com/sovereign/sovereign)
     * [20 개의 ANSIBLE 인터뷰 질문](https://linux.systemv.pe.kr/20-%EA%B0%9C%EC%9D%98-ansible-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%AC%B8/)
+  * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
   * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
@@ -107,6 +108,7 @@ Linux
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 * [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
+* [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -164,6 +166,7 @@ Linux
 * [59 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
 * [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력)](https://withcoding.com/111)
 * [오픈스택 명령어로 오픈스택 명령어 만들기](https://naleejang.tistory.com/223) grep, sed, awk
+* [Text processing in the shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) cat head tail wc grep cut paste sort uniq awk tr fold sed for xargs
 * [How can I monitor the thread count of a process on linux?](https://stackoverflow.com/questions/268680/how-can-i-monitor-the-thread-count-of-a-process-on-linux)
   * `cat /proc/<PID>/status | grep Threads`
 * CPU 개수
@@ -259,6 +262,7 @@ Linux
   * [df 명령어](https://johngrib.github.io/wiki/df/)
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
+  * [How to reserve disk space to save yourself from a world of pain](https://tomssl.com/2016/04/01/how-to-reserve-disk-space-to-save-yourself-from-a-world-of-pain/)
 * `diff`
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
 * `dirname` get directory name from path
@@ -348,6 +352,7 @@ Linux
 * pipe
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
   * [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/) pipe 동작 내부 설명
+  * [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
 * ps
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
 * rdate [리눅스(Linux) 계열 운영체제에서 시간 동기화하기](https://jhrun.tistory.com/158)
@@ -518,6 +523,7 @@ Linux
   apt-get install gcc-4.4 cpp-4.4 gcc-4.4 gcc-4.4-base -y
   update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.4 10
   ```
+* [Static analysis in GCC 10](https://developers.redhat.com/blog/2020/03/26/static-analysis-in-gcc-10/)
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
