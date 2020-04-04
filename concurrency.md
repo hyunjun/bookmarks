@@ -13,6 +13,7 @@ Concurrency
 * [동시성 문제 - 일반론 (Part 1)](http://jaynewho.com/post/42)
 * [동시성 문제 - 데이터베이스와 JPA (Part 2)](http://jaynewho.com/post/43)
 * [동시성 문제 - 비즈니스 애플리케이션 (Part 3)](http://jaynewho.com/post/44)
+* [Concurrent programming, with examples](https://begriffs.com/posts/2020-03-23-concurrent-programming.html)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
