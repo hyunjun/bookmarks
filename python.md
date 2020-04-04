@@ -1290,11 +1290,7 @@ Python
 * [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 * [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
-* [Python 101](https://leanpub.com/python_101/read_full)
 * [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks ](https://github.com/fluentpython/notebooks)
-* [**Books by Agiliq**](https://books.agiliq.com)
-  * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
-  * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 * 정보교육을 위한 파이썬 [Python for Informatics: Exploring Information](https://www.amazon.com/Python-Informatics-Exploring-Information-Korean/dp/1517143144/ref=as_li_ss_tl?ie=UTF8&qid=1441110639&sr=8-1&keywords=python+for+informatics+korean&linkCode=sl1&tag=drchu02-20&linkId=acc6dba9169097e26614f65a92e443ff)
   * [정보교육을 위한 파이썬](https://statkclee.github.io/pythonlearn-kr/01-py4inf-python2/)
 * 파이썬으로 풀어보는 수학
@@ -1310,7 +1306,11 @@ Python
 * [파이썬 괴식 레시피 - 긱(Geek)스럽게 파이썬 활용하기](https://wikidocs.net/book/2460)
 * [파이썬 책 추천 목록 정리](https://github.com/daejinseok/books/blob/master/Python_Book_List.md)
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
-* [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
+* [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
+* [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [**Books by Agiliq**](https://books.agiliq.com)
+  * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
+  * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
 * [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
@@ -1318,8 +1318,9 @@ Python
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
 * [Django 자습](https://wikidocs.net/book/837)
 * [Effective Pandas](https://leanpub.com/effective-pandas)
-* [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [Full Stack Python](https://www.fullstackpython.com/)
+* [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
+* [Python 101](https://leanpub.com/python_101/read_full)
 * [Python 3.4 공부 좀 해볼까?](https://wikidocs.net/book/122)
 * [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
 * [Python Data Science Handbook Essential Tools for Working with Data](http://shop.oreilly.com/product/0636920034919.do)
@@ -2505,7 +2506,6 @@ Python
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
   * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
-* [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [Kanna makes html components easier to display. like table, panel, etc](https://github.com/h4wldev/kanna)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
@@ -2599,7 +2599,6 @@ Python
   * [PTVS 시작: Visual Studio 설정](https://msdn.microsoft.com/ko-kr/library/dn705847.aspx)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
-* [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
 * [PyCryptodome](https://pycryptodome.readthedocs.io/)
@@ -2801,7 +2800,6 @@ Python
 * [terminal-palette - A simple library to color texts in terminal](https://github.com/JeongUkJae/terminal-palette)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/)
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
-* [textsearch - Find strings/words in text; convenience and C speed](https://github.com/kootenpv/textsearch)
 * [TAICHI: OPEN-SOURCE COMPUTER GRAPHICS LIBRARY](http://taichi.graphics/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
@@ -2997,6 +2995,12 @@ Python
   * [가상환경 virtualenv(2) - 실행/설치/관리](https://woolbro.tistory.com/26)
   * [가상환경 virtualenv(3) - 설치 패키지 사용하기](https://woolbro.tistory.com/27)
   * [How to use Python virtualenv](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/)
+
+## Library string match
+* [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
+* [pyahocorasick - a fast and memory efficient library for exact or approximate multi-pattern string search](https://pypi.python.org/pypi/pyahocorasick)
+* [rapidfuzz - Rapid fuzzy string matching in Python and C++ using the Levenshtein Distance](https://github.com/rhasspy/rapidfuzz)
+* [textsearch - Find strings/words in text; convenience and C speed](https://github.com/kootenpv/textsearch)
 
 ## Library TUI text user interface
 * curses
