@@ -424,6 +424,8 @@ App
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
       * [Run VS Code on a remote server. https://coder.com ](https://github.com/cdr/code-server)
       * [VS Code Remote Development in Kubernetes](https://medium.com/okteto/vs-code-remote-development-in-kubernetes-d7eef7cea4fd)
+      * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
+      * [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
       * [stackblitz.com - Code the Future. In Your Browser](https://stackblitz.com)
     * [VS Code 로 넘어가기 (2019)](https://rein.kr/blog/archives/4740)
     * ['매일 써도 좋을' 비주얼 스튜디오 코드 확장 기능 7가지](http://www.ciokorea.com/news/130582)
@@ -431,7 +433,6 @@ App
     * [4분코딩 2019 최고의 에디터 비주얼 스튜디오 코드(Visual Studio Code)](https://www.youtube.com/watch?v=iNXTXefTsrs)
     * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
     * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
-    * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
     * [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
     * [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
     * [VS CODE를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
@@ -454,8 +455,6 @@ App
 * [Frame-Based Editing](http://www.greenfoot.org/frames/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
-* [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
-* [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
@@ -899,12 +898,16 @@ App
 * [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)
 * [Links to URLs containing parentheses](https://meta.stackexchange.com/questions/13501/links-to-urls-containing-parentheses) 주소에 괄호 넣기. 한글은 이걸로 안 됨
 * [Master Markdown in Ten Minutes](https://medium.com/better-programming/master-markdown-in-ten-minutes-ce9721c51eb)
+* [Stop Using Markdown For Documentation](https://mister-gold.pro/posts/en/asciidoc-vs-markdown/) asciidoc
+* [When Markdown Meets Tables](https://blog.documentnode.io/when-markdown-meets-tables)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [hackmd.io](https://hackmd.io/) gist
 * [Haroopad](http://pad.haroopress.com/)
+* [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
 * [Markdownify](https://tibastral.github.io/markdownify/)
 * [MarkdownEditors](https://techstory.shma.so/markdowneditors-c174fb4896ff) android
+* [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
 * [**prose.io**](http://prose.io) github
