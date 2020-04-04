@@ -2394,6 +2394,7 @@ Javascript
   * [nextjs-starter](https://github.com/myungjaeyu/nextjs-starter)
   * [리액트(React)와 찰떡 궁합 Next.js](https://www.youtube.com/watch?v=jg2ha2RIWN0)
   * [앱 내 Webview 개발기](https://hyperconnect.github.io/2019/10/25/webview-history.html) Django + React에서 Next.js + Express로 변경하는 이야기
+  * [Next.js 9.3 Released, Improves Static Site Generation](https://www.infoq.com/news/2020/03/nextjs-93-ssg-sass-preview/)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
@@ -2863,3 +2864,4 @@ Javascript
 * [정산지기를 향한 첫걸음 (feat. 파일럿 프로젝트)](https://woowabros.github.io/experience/2020/03/02/pilot-project-wbluke.html)
 * [Do Your Vue Components Communicate Correctly?](https://medium.com/better-programming/do-your-vue-components-communicate-correctly-9239c30cc495)
 * [List Rendering with Vue.js — Numbers, Components, and Templates](https://medium.com/javascript-in-plain-english/list-rendering-with-vue-js-numbers-components-and-templates-aa856f8ca95f)
+* [React aficionados! Start using Vue.js in four minutes or less!](https://robopress.robotsandpencils.com/react-aficionados-start-using-vue-js-in-four-minutes-or-less-4235f8c0a018)
