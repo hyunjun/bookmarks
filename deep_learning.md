@@ -1783,6 +1783,7 @@ Deep Learning
 * [An Introduction to Recurrent Neural Networks](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912)
 * [RNN에서의 alignment 의미와 seq-to-seq 모델](https://dos-tacos.github.io/concept/alignment-in-rnn/)
 * [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+* [Predicting Trump’s Tweets With A Recurrent Neural Network](https://towardsdatascience.com/predicting-trump-tweets-with-a-rnn-95e7c398b18e)
 
 ## Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
