@@ -287,6 +287,7 @@ Android
   * [RxJava로 LiveData 따라해보기 1](https://soda1127.github.io/reactive-variable-like-livedata/)
   * [RxJava로 LiveData 따라해보기 2](https://soda1127.github.io/reactive-variable-like-livedata-2/)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
+* [sample-mask](https://github.com/wonderful-coding-life/sample-mask)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
 * HTTP
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
