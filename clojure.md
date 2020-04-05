@@ -31,6 +31,7 @@ Clojure
 * [Learn Clojure in 15 minutes, perhaps](http://adambard.com/blog/clojure-in-15-minutes/)
 * [Xah clojure tutorial](http://xahlee.info/clojure/clojure_index.html)
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
+* [Guide to starting with Clojure](https://grison.me/2020/04/04/starting-with-clojure/)
 * [Clojure Programming Study Project](https://github.com/lisp-korea/ClojureProgramming)
 * [Clojure Programming Ch11 - Numerics and Mathematics](https://www.youtube.com/watch?v=kgPHDQNJrpg)
 * [Clojure Programming Ch12: Design Pattern](https://www.youtube.com/watch?v=i8baRF7Hdrs)
