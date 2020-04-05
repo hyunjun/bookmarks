@@ -767,3 +767,4 @@ AWS
 * [Subnet(VPC) Resource Share](https://zigispace.net/1033)
 * [VPC Traffic Mirroring](https://zigispace.net/1040)
 * [AWS - API Gateway 기반 VPC Link](https://zigispace.net/1072)
+* [Lambda Function을 위한 향상된 VPC 네트워크](https://zigispace.net/1081)
