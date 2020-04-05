@@ -167,6 +167,7 @@ Linux
 * [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력)](https://withcoding.com/111)
 * [오픈스택 명령어로 오픈스택 명령어 만들기](https://naleejang.tistory.com/223) grep, sed, awk
 * [Text processing in the shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) cat head tail wc grep cut paste sort uniq awk tr fold sed for xargs
+* [Linux 명령어 및 단축키 중 자주 사용하게 되는 것 정리 #Chmod #Curl](https://developer88.tistory.com/289)
 * [How can I monitor the thread count of a process on linux?](https://stackoverflow.com/questions/268680/how-can-i-monitor-the-thread-count-of-a-process-on-linux)
   * `cat /proc/<PID>/status | grep Threads`
 * CPU 개수
