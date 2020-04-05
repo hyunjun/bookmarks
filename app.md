@@ -447,6 +447,7 @@ App
     * [VSCodium: 100% Open Source Version of Microsoft VS Code](https://itsfoss.com/vscodium/)
     * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
     * [VS Code에서 나만의 Snippets 만들기](https://jojoldu.tistory.com/491)
+    * [알아두면 쓸데있는 VSCode 노하우](https://jeonghwan-kim.github.io/dev/2020/04/05/vscode.html)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
