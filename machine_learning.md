@@ -1144,6 +1144,7 @@ Machine Learning
 * [An Intuitive Guide to Interpret a Random Forest Model using fastai library (Machine Learning for Programmers – Part 2)](https://www.analyticsvidhya.com/blog/2018/10/interpret-random-forest-model-machine-learning-programmers/)
 * [How to use RandomForest Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-randomforest-classifier-and-regressor-in-python/)
 * [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
+* [랜덤포레스트가 뭐길래? 회의에서 당당하게, 수식없이 알아보자](http://triviaz.net/blog:easy_random_forest)
 
 # Reinforcement Learning
 * [OpenAI Gym BETA - A toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from walking to playing games like Pong or Go](https://gym.openai.com/)
