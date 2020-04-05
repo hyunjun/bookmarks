@@ -609,6 +609,7 @@ R
   * [데이터 사이언스 파이프라인 - Base vs. Tidyverse](https://statkclee.github.io/data-science/data-handling-pipeline.html)
   * [데이터 과학](https://statkclee.github.io/viz/viz.html) visualization
   * [Tidy Animated Verbs](https://github.com/gadenbuie/tidyexplain)
+  * [The tidyverse style guide](https://style.tidyverse.org/)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
