@@ -186,6 +186,7 @@ Git
 * [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/) merge, squash, rebase
 * [Always Squash and Rebase your Git Commits](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/)
 * [**깃 사용자가 가장 흔히 저지르는 6가지 실수와 대처 방법**](http://www.itworld.co.kr/news/142318)
+* [Git 명령어 중 자주 사용하는 것들 모음](https://developer88.tistory.com/290)
 * [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
   * [fork repository 최신 버전으로 유지하기](https://jybaek.tistory.com/775)
   * [Keeping a fork up to date](https://gist.github.com/CristinaSolana/1885435)
