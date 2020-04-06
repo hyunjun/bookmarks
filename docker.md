@@ -425,6 +425,7 @@ Docker
 # Commands
 * [**개발 환경에서 유용한 Docker 명령어 소개**](https://spoqa.github.io/2017/06/22/docker-tip.html)
 * [이미지, 컨테이너 export, import](https://jybaek.tistory.com/566)
+* [도커 트러블슈팅 - 컨테이너 실행환경 디버깅 run, exec, commit 명령어 활용하기](https://www.44bits.io/ko/post/docker-container-trouble-shooting-by-exec-and-commit)
 * build
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
