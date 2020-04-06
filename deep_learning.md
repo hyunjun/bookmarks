@@ -308,6 +308,7 @@ Deep Learning
   * [PCA의 의미와 한계점](https://www.facebook.com/TRobotics/posts/796663103771140)
   * [PCA(주성분분석)의 의미와 한계점](http://t-robotics.blogspot.com/2015/12/pca.html)
 * [PCA: "분산이 큰 축일 수록 정보가 더 많다?"](https://blog.naver.com/hancury/221215245092)
+* [주성분 분석(Principal Component Analysis) 직관적 & 수식적 설명](https://www.youtube.com/watch?v=UIZhJtOZ6EM)
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
 * [Stanford Seminar - Song Han of Stanford University](https://www.youtube.com/watch?v=hfFkS_vHslI)
