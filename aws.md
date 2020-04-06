@@ -374,6 +374,9 @@ AWS
 * [AWS DATA LAKE WORKSHOP](http://bdlf.awsdemo.kr/)
 * [The good parts of AWS - A visual summary](https://hassenchaieb.com/aws-good-parts/)
 * [Algo로 개인 VPN 서버 구축하기(요약판)](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
+* [WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a)
+* [SSM Agent vs. ssh](https://andromedarabbit.net/ssm-agent-vs-ssh/)
+* [SSM Agent vs. ssh 2탄](http://andromedarabbit.net/ssm-agent-vs-ssh-2%ED%83%84)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
