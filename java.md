@@ -817,6 +817,7 @@ Java
   * [How to get started with Maven](https://medium.freecodecamp.org/how-to-get-started-with-maven-36851d8cfd96)
   * [MacOS - Maven 설치 가이드](https://jybaek.tistory.com/851)
   * [Publish open source project to Maven with Sonatype](https://leobenkel.com/2019/10/open-source-to-maven-with-sonatype/)
+  * [Maven 중앙 저장소에 업로드하는 방법](https://blog.silentsoft.org/archives/191)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Mojave - Java Web MVC Framework](http://mojavemvc.org/)
 * Nexus
