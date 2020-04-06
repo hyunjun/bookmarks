@@ -429,6 +429,7 @@ AWS
   * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
     * [AWS re:Invent 2017: AWS CLI: 2017 and Beyond (DEV307)](https://www.youtube.com/watch?v=W8IyScUGuGI)
     * [ImportError: No module named httpsession 문제 발생시](https://jojoldu.tistory.com/426)
+    * [AWS CLI v2에서 아마존 ECR 로그인 방법 변경 기존 ecr 명령어 get-login 삭제](https://www.44bits.io/ko/post/amazon-ecr-login-by-awscliv2)
   * [AWS re:Invent 2017 | Serverless](https://www.youtube.com/playlist?list=PLhr1KZpdzukfOn7RPZsHMf9QsCG16Yvnu)
   * [AWS re:Invent 2016 총정리](https://aws.amazon.com/ko/blogs/korea/summary-of-aws-reinvent-2016/)
   * [AWS re:Invent 특집(1) – 파이선(Python) 개발자를 위한 AWS 활용 방법 (윤석찬)](http://www.slideshare.net/awskorea/recap2016-1pythononaws)
