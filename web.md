@@ -387,6 +387,7 @@ Web
   * [네이버 메일 제목 가져오기 - 클립보드 사용](https://developer-ankiwoong.tistory.com/832)
   * [파이썬 selenium-셀레니움 ) 네이버 로그인하기 (네이버 자동로그인 방지문자 우회 1분컷)](https://sab-jil.tistory.com/2)
   * [파이썬으로 인스타그램 포스팅](http://triviaz.net/blog:instagram_posting)
+  * [파이썬 자동화](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrPzFeVyQ_SJhTpy0lLPCmfZ)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
 ## Crawler Scala
