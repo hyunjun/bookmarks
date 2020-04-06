@@ -1699,6 +1699,7 @@ Programming
 * [2020년 3월 14일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-14.html)
 * [2020년 3월 21일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-21.html)
 * [2020년 3월 29일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-29.html)
+* [2020년 4월 4일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-4.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -1719,6 +1720,7 @@ Programming
 * [10 more podcasts that new coders should listen to in 2017](https://medium.freecodecamp.com/10-more-podcasts-that-new-coders-should-listen-to-in-2017-3c7db301dfb)
 * [44bits 프로젝트 2019년 결산 블로그, 팟캐스트, 유튜브 인기 컨텐츠 등](https://www.44bits.io/ko/post/44bits-stdoutfm-2019-settlement)
 * [데이터 지능 팟캐스트 - 전문가들이 들려주는 데이터 & 인공지능 이야기](http://data-intelligence.io/)
+* [클라우드 클리닉](http://blog.creation.net/category/cloud-clinic) AWS 중심
 
 # Quantum computer
 * [그래서 양자컴퓨팅이 뭔데? – 문과생을 위한 해설서](https://byline.network/2019/11/05-18/)
