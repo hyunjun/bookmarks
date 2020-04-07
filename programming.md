@@ -331,6 +331,7 @@ Programming
 * [당신의 개발자들은 결코 느리지 않다](http://tech.trenbe.com/?p=547)
 * [폭포수모델 vs 애자일 실무에서는?](https://www.slideshare.net/ddayinhwang9/vs-228227902)
 * [같이, 스프린트 어떠세요?](https://medium.com/nextunicorn/%EA%B0%99%EC%9D%B4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%95%B4%EB%B3%B4%EC%8B%A4%EA%B9%8C%EC%9A%94-9c798f6a768c)
+* [일을 더 잘하기 위한 애자일(Agile) 실천](https://medium.com/wantedjobs/%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-agile-%EC%8B%A4%EC%B2%9C%ED%95%98%EA%B8%B0-7cb05994975b)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
