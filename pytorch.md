@@ -369,3 +369,4 @@ PyTorch
 * [PyTorch Tutorials now in Korean](https://medium.com/pytorch/learn-pytorch-tutorials-in-korea-998b55353549)
 * [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
 * [d2l-pytorch - This project reproduces the book Dive Into Deep Learning (www.d2l.ai), adapting the code from MXNet into PyTorch](https://github.com/dsgiitr/d2l-pytorch)
+* [Effective PyTorch](https://github.com/vahidk/EffectivePyTorch)
