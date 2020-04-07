@@ -92,6 +92,7 @@ SQL
 * [sql 공부 강의 # 단일행 함수 잘 사용 하기(문자 함수) 4편 -sTricky](https://stricky.tistory.com/210)
 * [sql 공부 강의 # 단일행 함수 잘 사용 하기(숫자 함수) 5편 -sTricky](https://stricky.tistory.com/217)
 * [sql 공부 강의 # 단일행 함수 잘 사용 하기(날짜 함수) 6편 -sTricky](https://stricky.tistory.com/220)
+* [sql 독학 강의 # 단일행 함수 잘 사용 하기(형 변환 함수) 7편 -sTricky](https://stricky.tistory.com/232)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
