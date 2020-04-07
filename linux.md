@@ -298,6 +298,8 @@ Linux
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
 * nohup
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
+* history
+  * `history -c` `history -d <line number>` [리눅스 history 지우기](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_history_%EC%A7%80%EC%9A%B0%EA%B8%B0)
 * iconv
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
   * `iconv -f UTF-16LE -t UTF-8 <infile> > <outfile>` infile 형식이 `Little-endian UTF-16 Unicode text, with CRLF, CR line terminators`라 utf8로 바꾸는 경우
