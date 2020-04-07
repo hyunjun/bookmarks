@@ -1729,6 +1729,8 @@ Deep Learning
 * [Convolutional Neural Networks: The Biologically-Inspired Model](https://medium.com/cracking-the-data-science-interview/convolutional-neural-networks-the-biologically-inspired-model-9b7e948f6987)
 * [CNN에서 pooling이란?](https://medium.com/@hobinjeong/cnn에서-pooling이란-c4e01aa83c83)
 * [assembled-cnn - Official implementation of "Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network"](https://github.com/clovaai/assembled-cnn)
+* [CNN으로 TWICE 다현과 ITZY 예지를 구분할 수 있을까? — Intro](https://medium.com/@hslee09/python-cnn%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%EC%A7%84-%EB%B6%84%EB%A5%98-intro-5dffca629097)
+* [CNN으로 TWICE 다현과 ITZY 예지를 구분할 수 있을까? — (1)](https://medium.com/@hslee09/python-cnn%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%EC%A7%84-%EB%B6%84%EB%A5%98-1-705aee34def4)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
