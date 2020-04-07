@@ -160,6 +160,7 @@ Git
 * [30분만에 만드는 깃헙 액션 - 라이브 코딩](https://www.youtube.com/watch?v=Hcf4dpTQhwA)
 * [GitHub Actions (CI/CD Flow)](https://www.youtube.com/watch?v=0tMkRSdp-Go)
 * [GitHub Actions Runner](https://github.com/actions/runner)
+* [Write Your GitHub Actions Workflow for Build Windows Application](https://medium.com/rkttu/write-your-github-actions-workflow-for-build-windows-application-94e5a989f477)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
