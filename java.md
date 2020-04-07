@@ -717,6 +717,7 @@ Java
   * [혼자서 연습해본 Gradle 4.1 튜토리얼 - 그야 말로 대충 번역!](https://www.sangkon.com/gradle-basic-tutorial/)
   * [Andres Almiray - Gradle Ex Machina](https://www.youtube.com/watch?v=M61BapxHWPg)
   * [Gradle 프로젝트에 JaCoCo 설정하기](http://woowabros.github.io/experience/2020/02/02/jacoco-config-on-gradle-project.html)
+  * [Mono-repo, Multi-project를 Gradle 플러그인으로 손쉽게 관리하기](https://engineering.linecorp.com/ko/blog/mono-repo-multi-project-gradle-plugin/)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
