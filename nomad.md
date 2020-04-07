@@ -248,6 +248,7 @@ Nomad & Remote
 # Remote
 * [원격 근무 가능한 포지션 구하는 방법](https://www.upfly.me/2017/10/27/remote-digital-nomad-jobs)
 * [한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?](https://milooy.github.io/remote-or-flexible-work-company-in-korea)
+* [7 Great Tools to Help You While Working Remotely](https://medium.com/better-programming/hidden-gems-among-tools-to-help-you-while-working-remotely-a7c975d379a5)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
 * [remote.co](https://remote.co/)
