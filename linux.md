@@ -490,6 +490,37 @@ Linux
     * `xxd -r BINARY.bin > (Filename)` 변환된 바이너리 덤프 -> 원본 파일 형식
       * hex 값을 수정한 이후 이를 다시 원본 형태로 돌려놓아야 할 때 유용
 * `zcat` uncompresses either a list of files on the command line or its standard input and writes the uncompressed data on standard output
+
+## Command Mail
+* [Linux mail command examples – send mails from command line](https://www.binarytides.com/linux-mail-command-examples/)
+* [Bash script to send email](https://linuxhint.com/bash_script_send_email/)
+* exchange server
+  * [practice - message id와 연관된 failure](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-exchange_server-md)
+* mail/mailx
+  * [practice - mail command](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-mail-md)
+    * debugging message 보기 쉬움
+    * .eml file을 message body로 보낼 수 없고 attachment로만 보내짐
+  * [리눅스 시스템에서 간단히 메일 전송하기](https://louky0714.tistory.com/entry/linux-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90%EC%84%9C-%EA%B0%84%EB%8B%A8%ED%9E%88-%EB%A9%94%EC%9D%BC-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-mailx-tool)
+  * [Sending a file as the body of an email](https://unix.stackexchange.com/questions/71206/sending-a-file-as-the-body-of-an-email)
+  * [Can "Mailx" Send An Email With The Contents of Another File?](https://it.toolbox.com/question/can-mailx-send-an-email-with-the-contents-of-another-file-120904) uuencode 사용에 대한 이야기가 있는데 필요가 없었음
+  * [How do I send HTML email using linux 'mail' command?](https://unix.stackexchange.com/questions/15405/how-do-i-send-html-email-using-linux-mail-command)
+  * [How do I send mail from linux command line so it appears as HTML to recipient?](https://serverfault.com/questions/103097/how-do-i-send-mail-from-linux-command-line-so-it-appears-as-html-to-recipient)
+* mutt - 사용 실패
+  * [Sending the mail using mutt command](https://stackoverflow.com/questions/22014994/sending-the-mail-using-mutt-command)
+* nc
+  * [practice - nc command](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-nc-md)
+* sendmail
+  * [practice - sendmail command](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-sendmail-md)
+    * debugging message 보기가 힘들었음
+    * .eml file을 message body로 보낼 수 있었음
+    * localhost의 user에게도 메일이 같이 보내졌는데 이유는 모르겠음
+  * [Disable local delivery in Sendmail](https://serverfault.com/questions/65365/disable-local-delivery-in-sendmail)
+  * [Postfix Address Rewriting](http://www.postfix.org/ADDRESS_REWRITING_README.html)
+  * [fatal: parameter inet_interfaces: no local interface found for ::1](http://manastri.blogspot.com/2016/12/fatal-parameter-inetinterfaces-no-local.html)
+  * [Basic Modes of sendmail](docstore.mik.ua/orelly/other/Sendmail_3rd/1565928393_sendmail3-chp-1-sect-7.html)
+  * [Sendmail Attachment](https://unix.stackexchange.com/questions/223636/sendmail-attachment/223650)
+* [smtp-cli — command line SMTP client](https://github.com/mludvig/smtp-cli) CentOS7에서 test 해봤지만 실패
+* smtplib -> python
   
 # CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
