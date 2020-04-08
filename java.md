@@ -680,6 +680,8 @@ Java
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
 * [apiwave - Discover and track APIs](http://apiwave.com/)
+* [ASM - an all purpose Java bytecode manipulation and analysis framework](https://asm.ow2.io/)
+  * [**Kubernetes 환경을 위한 자바 에이전트 개발기**](https://hyperconnect.github.io/2020/03/25/kube-agent.html)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
 * [Chatty - a Twitch chat client](http://chatty.github.io/)
