@@ -339,6 +339,7 @@ R
 * [매우 큰 수 혹은 매우 정밀한 수](http://ds.sumeun.org/?p=2103)
 * [ANN: 평균과 표준편차 출력 모형 KERAS와 인공신경망(ANN; ARTIFICIAL NEURAL NETWORK)](http://ds.sumeun.org/?p=2110)
 * [회귀: 내삽과 외삽](http://ds.sumeun.org/?p=2123)
+* [교차 검증 데이터 구성하기와 “CARET::CREATEFOLDS”](http://ds.sumeun.org/?p=2156)
 * [How to Remove Outliers in R](https://www.r-bloggers.com/how-to-remove-outliers-in-r/)
 * [Data manipulation in R](https://www.r-bloggers.com/data-manipulation-in-r-2/)
 * [최대우도법 1. (Maximum Likelihood Estimation)](https://www.youtube.com/watch?v=KefmJvzvcjM)
