@@ -676,6 +676,7 @@ Java
   * [#7-스택드라이버로 로그 백앤드 구축하기](https://bcho.tistory.com/1321)
 * [9 Java EE Frameworks to Build Enterprise Applications](https://geekflare.com/java-ee-frameworks/)
 * [Java를 위한, Java에 의한 도구들](https://www.slideshare.net/NHNFORWARD/2018-java-java) jvmtop, jvm-tools, jcmd, jhsdb, jmh, jcstress, jol
+* [CURCUIT BREAKER로 통신 FAILOVER 처리하기](https://inyl.github.io/programming/2017/02/04/circuit_breaker.html)
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
