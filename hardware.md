@@ -253,6 +253,7 @@
 * [졸지 마세요! 라즈베리파이 졸음감지 딥러닝 Computer Vision 프로젝트 소개](https://www.youtube.com/watch?v=ZZX956-UJ2M)
 * [라즈베리파이 전문가되기](https://brunch.co.kr/magazine/raspberrypi)
 * [라즈베리파이 3 B+를 이용해 홈 서버 구축하기](https://blog.rajephon.dev/2019/07/12/setup-raspberrypi-home-server/)
+* [라즈베리 파이로 스마트 오디오 시스템을 만들어 보자](https://blog.chosunghyun.com/kr-raspberry-pi-smart-audio-system/)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
