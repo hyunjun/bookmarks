@@ -1060,6 +1060,7 @@ Python
     _today = datetime.today()
     '{0:04d}{1:02d}{2:02d}'.format(_today.year, _today.month, _today.day)
     ```
+  * [**PyFormat - Using % and .format() for great good!**](http://pyformat.info/)
   * replace
     * [practice rreplace](https://gist.github.com/hyunjun/982dea32ddb84303862c3f0559e46416#file-rreplace-md)
   * [translate](http://stackoverflow.com/questions/8270092/python-remove-all-whitespace-in-a-string)
@@ -2614,7 +2615,6 @@ Python
   * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)
 * [PyEBPF — eBPF proxy routines generation and Python callbacks (iovisor/bcc wrapper)](https://medium.com/@dany74q/pyebpf-ebpf-proxy-routines-generation-and-python-callbacks-iovisor-bcc-wrapper-42d6cf558be4)
 * [pyexperiment - Run experiments with Python - quick and clean](https://github.com/duerrp/pyexperiment)
-* [PyFormat - Using % and .format() for great good!](http://pyformat.info/)
 * [PyFuzz2 - My little fuzzing framework inspired by grinder](https://github.com/susperius/PyFuzz2)
 * [pygal](http://pygal.org) chart
   * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
