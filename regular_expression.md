@@ -47,6 +47,7 @@ Regular Expression
 * [6 Handy Regular Expressions Every Front-End Developer Should Know](https://blog.bitsrc.io/6-handy-regular-expressions-every-front-end-developer-should-know-ac9e0c514b71)
 * [개발자들이 꺼려하는 까칠한 규식이 형](https://helloworld.kurly.com/blog/reg-exp-01/)
 * [Email Address Regular Expression That 99.99% Works. Disagree? Join discussion!](https://emailregex.com/)
+* [5분 따라하기 전화번호와 이메일 정규표현식](http://jhrogue.blogspot.com/2020/04/5.html)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
