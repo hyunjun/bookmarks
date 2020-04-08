@@ -210,6 +210,7 @@
 * [Kotlin Meetup Seoul 2019](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
 
 # Library
+* [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
 * [javalin - A simple web framework for Java and Kotlin](https://javalin.io)
   * [javalin - A simple and modern Java and Kotlin web framework https://javalin.io ](https://github.com/tipsy/javalin)
   * [Javalin : 자바와 코틀린을 위한 경량 웹 프레임워크 리뷰](https://www.popit.kr/javalin-자바와-코틀린을-위한-경량-웹-프레임워크-리뷰/)
