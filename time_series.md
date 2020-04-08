@@ -37,6 +37,7 @@ Time Series
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
+* [Forecasting: Principles and Practice](https://otexts.com/fppkr/)
 
 # Library
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
