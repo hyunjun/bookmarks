@@ -376,6 +376,7 @@ Linux
   * [Linux - 시스템 관리 : 시스템 부하 체크](http://develop.sunshiny.co.kr/951)
   * [sar sysstat 리눅스 지표 분석 도구](https://brunch.co.kr/@lars/9)
   * [Generate CPU, Memory and I/O report using SAR command](https://www.linuxtechi.com/generate-cpu-memory-io-report-sar-command/)
+  * [How to Calculate Memory Usage in Linux using sar, ps, and free](https://www.thegeekdiary.com/how-to-calculate-memory-usage-in-linux-using-sar-ps-and-free/)
   * [How to view past performance with sar in Linux](https://www.thegeekdiary.com/how-to-view-past-performance-with-sar-in-linux/)
   * `sar -A -f /var/log/sa/sa<num>` num=01~29 [How do I get sar to show for the previous day?](https://unix.stackexchange.com/questions/5414/how-do-i-get-sar-to-show-for-the-previous-day)
 * `sed`
