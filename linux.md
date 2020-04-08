@@ -369,6 +369,7 @@ Linux
   * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
 * `sar`
   * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
+  * [practice - 지난 14일간 average CPU load + memory usage 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-test_sar-sh)
   * [Understanding Linux CPU Load - when should you be worried?](https://scoutapm.com/blog/understanding-load-averages)
   * [Linux capacity planning: 5 things you need to do](https://www.redhat.com/sysadmin/linux-capacity-planning)
   * [Understanding the Load Average on Linux and Other Unix-like Systems](https://www.howtogeek.com/194642/understanding-the-load-average-on-linux-and-other-unix-like-systems/)
