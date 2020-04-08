@@ -319,3 +319,4 @@ Keras
 * [DeepLearning_Basic_Tutorial](https://github.com/Parkchanjun/DeepLearning_Basic_Tutorial)
 * [Keras_Tutorial_PCJ](https://github.com/Parkchanjun/Keras_Tutorial_PCJ) colab
 * [초급자를 위한 기본적인 코드 참고용](https://newfront.dacon.io/competitions/official/235554/codeshare/461)
+* [15min Tutorial : keras + CNN + MNIST + Colab](https://www.youtube.com/watch?v=o3ERJ_7_0pg)
