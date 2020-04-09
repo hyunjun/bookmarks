@@ -592,6 +592,7 @@ Machine Learning
 * [**Rules of Machine Learning: Best Practices for ML Engineering 정리**](https://zzsza.github.io/data/2019/12/15/rules-of-ml)
 * [**MLOps 1. 실험 관리 AI 혁신 속도는 모델 학습에서 배포까지 걸리는 속도에 비례한다**](https://brunch.co.kr/@chris-song/101)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
+* [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
