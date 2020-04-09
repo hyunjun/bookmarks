@@ -632,6 +632,8 @@
 * [spark-xml - XML data source for Spark SQL and DataFrames](https://github.com/databricks/spark-xml)
 * [StreamSets Transformer - an execution engine within the StreamSets DataOps platform that allows any user to create data processing pipelines that execute on Spark](https://streamsets.com/products/transformer/)
   * [Custom Scala Project for StreamSets Transformer](https://medium.com/@iamontheinet/iamontheinet-streamsets-11cf8ba480a)
+* zio
+  * [SF Scala: Enhancing Spark's Power with ZIO, Qubism and NLP at Scale, Using Nix for Haskell](https://www.youtube.com/watch?v=Ov7WZroBkv0)
 
 ## Library Monitoring
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
