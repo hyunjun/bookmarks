@@ -847,6 +847,7 @@ Machine Learning
 * [Kaggle Winning Solutions - Sortable and searchable compilation of solutions to past Kaggle competitions](http://kagglesolutions.com/)
 * [Better Models Faster with Weights & Biases](https://www.wandb.com/articles/better-models-faster-with-weights-biases)
   * [Why Weights & Biases Gives You An Edge On Kaggle Competitions](https://www.kaggle.com/lavanyashukla01/better-models-faster-with-weights-biases)
+* [캐글 대회 메달따는 팁. 2. Stochastic weight averaging](https://www.youtube.com/watch?v=C0vnmsGIOEo)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
