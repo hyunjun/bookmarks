@@ -177,6 +177,7 @@ Programming Language
   * [The Biggest Problem with Elm](https://medium.com/@cscalfani/the-biggest-problem-with-elm-4faecaa58b77)
   * [Chaining HTTP requests in Elm](https://tech.allo-media.net/learning/elm/2018/02/05/chaining-http-requests-in-elm.html)
   * [Albert Dahlin Moving to the Actor Model in Elm Elm Europe 2019](https://www.youtube.com/watch?v=YV_qrjN8bRA)
+  * [elm-review v2!](https://jfmengels.net/elm-review-v2/)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
 * [Frame is a set of Domain Specific Languages (DSLs) that take a new approach to the many challenges inherent to traditional approaches to software modeling](http://frame-lang.org/)
