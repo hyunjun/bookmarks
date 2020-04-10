@@ -139,6 +139,7 @@ Scala
 * `-Yexplicit-nulls` [Explicit nulls are in!](https://medium.com/@jducoeur/explicit-nulls-are-in-efe4aecbc78f?) compiler flag
 * [How an Optimizing Compiler Works](http://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
 * [user-land compiler warnings in Scala](http://eed3si9n.com/user-land-compiler-warnings-in-scala)
+* [user-land compiler warnings in Scala, part 2](http://eed3si9n.com/user-land-compiler-warnings-in-scala-part2)
 * [BETTER MANAGEMENT OF TRANSITIVE DEPENDENCIES AND CONFLICTS](https://www.scala-lang.org/2019/10/17/dependency-management.html)
 * [Top 5 things that slow down your Scala build](https://www.triplequote.com/blog/2019-10-24-5-things-slow-down-build/)
 * [We Won! How Scala Conquered the Big Data World](https://www.youtube.com/watch?v=AHB6aJyhDSQ)
@@ -269,6 +270,7 @@ Scala
 * [Rock Paper Scissor Game through Actor Model in Scala](https://medium.com/@karthikv1392/rock-paper-scissor-game-through-actor-model-in-scala-a8a1430f10ff)
 * [Actor Model 패턴의 구현(Java)](https://effectiveprogramming.tistory.com/entry/Actor-Model-패턴의-구현Java)
 * [Managing Congested Actors in Akka](https://dzone.com/articles/managing-congested-actors-akka)
+* [Data processing with Akka Actors: Part I](https://aleksandarskrbic.github.io/akka-actors-1/)
 * [Akka actors orchestration](https://blog.cacoveanu.com/2018/2018.05.06.09.00.akka.orchestration.html)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
@@ -574,6 +576,8 @@ Scala
   * [Optional Is the New Mandatory](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html)
   * [Introducing error reporting in optics](https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/)
   * [The cost of Scala Option](https://medium.com/@georgeleung_7777/the-cost-of-scala-option-987ffd64206b)
+* Ordered
+  * [A functional comparer](https://scalaprof.blogspot.com/2020/04/a-functional-comparer.html)
 * par
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * Process
@@ -656,6 +660,7 @@ Scala
     * [Migrating ZIO environment from RC-17 to RC-18](https://medium.com/@wiemzin/migrating-zio-environment-from-rc-17-to-rc-18-d7a41ba58c30)
     * [ZIO for IntelliJ](https://plugins.jetbrains.com/plugin/13820-zio-for-intellij)
     * [Testing Background Process With ZIO](https://www.rudder.io/blog/testing-background-process-zio/)
+    * [Moving From Kotlin + Spring Reactor + Arrow to Scala + ZIO](https://adrianfilip.com/2020/04/07/moving-from-kotlin-spring-reactor-arrow-to-scala-zio/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
@@ -847,6 +852,7 @@ Scala
   * [Data Juggling - Part 1 - Getting Started with #Chimney](https://www.youtube.com/watch?v=ezz0BpEHEQY)
 * [config - configuration library for JVM languages using HOCON files](https://github.com/lightbend/config)
   * [Data Juggling - Part 9 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 1)](https://www.youtube.com/watch?v=uQUimiHsLCw)
+  * [Data Juggling - Part 10 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 2)](https://www.youtube.com/watch?v=NlOKF4RJELo)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
@@ -979,6 +985,7 @@ Scala
 * [spray.io](http://spray.io)
   * [Typesafe Reactive Platform Acquires New High-Performance HTTP Foundation](https://www.typesafe.com/company/news/typesafe-reactive-platform-acquires-new-high-performance-http-foundation)
   * [spray-routing](http://spray.io/documentation/1.2.4/spray-routing/)
+* Squants [Data Juggling - Part 11 - Getting Started with #Squants](https://www.youtube.com/watch?v=_BxVIXVoNPE)
 * [sttp — an open-source library with simple, type-safe API for defining HTTP requests](https://blog.softwaremill.com/sttp-an-open-source-library-with-simple-type-safe-api-for-defining-http-requests-5655ad976762)
   * [sttp - The Scala HTTP client you always wanted! https://softwaremill.com/open-source ](https://github.com/softwaremill/sttp)
   * [Websockets in Scala using sttp](https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb)
@@ -1022,6 +1029,7 @@ Scala
     * [Scale By The Bay 2018 Unconference: Gabriel Volpe](https://www.youtube.com/watch?v=UUX5KvPgejM)
 * tapir [Describe, then interpret: HTTP endpoints using tapir](https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0)
   * [tapir: Yet another way to REST](https://dev.to/kdrakon/tapir-yet-another-way-to-rest-720)
+  * [Tapir codecs get an update](https://blog.softwaremill.com/tapir-codecs-get-an-update-c9801889cbf3)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -1130,6 +1138,7 @@ Scala
 * [Dependency injection with Reader Monad in Scala](https://medium.com/rahasak/dependency-injection-with-reader-monad-in-scala-fe05b29e04dd)
 * [scale.bythebay.io: Adelbert Chang, The Functor, Applicative, Monad talk](https://www.youtube.com/watch?v=L0aYcq1tqMo)
 * [What's the Point of Applicative?](http://www.doscienceto.it/blog/posts/2020-03-24-applicative.html)
+* [What's Ap?](http://justinhj.github.io/2020/04/04/whats-ap.html)
 * [Scala의 모나드(Monad)에 대한 정리](https://wingnim.tistory.com/106)
 
 ## Monad Tagless Final
