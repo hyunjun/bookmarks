@@ -189,6 +189,7 @@ Haskell
 * [MatchString.hs](https://gist.github.com/ghjang/d8b5542730d64fbbc8268279431b3780)
 * [Regex?](https://rextester.com/PTSLI74648)
 * [How fast is Haskell?](https://www.quora.com/How-fast-is-Haskell)
+* [Fighting spam with Haskell](https://engineering.fb.com/security/fighting-spam-with-haskell/)
 
 # Book
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
