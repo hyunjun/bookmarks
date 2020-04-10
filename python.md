@@ -1809,6 +1809,7 @@ Python
 * [Full-stack single page application with Vue.js and Flask](https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532)
 * [Developing a Single Page App with Flask and Vue.js](https://github.com/testdrivenio/flask-vue-crud)
 * [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1)
+* [Running Your Flask Application Over HTTPS](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
