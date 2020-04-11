@@ -103,6 +103,7 @@ Artificial Intelligence
 * [Progress Toward Safe and Reliable AI](http://ai.stanford.edu/blog/reliable-ai/)
 * [Artificial Intelligence Conference](https://conferences.oreilly.com/ai/ai-ca/public/schedule/proceedings)
 * [LF AI Foundation Interactive Landscape](https://landscape.lfai.foundation/)
+* [25 Best Artificial Intelligence Blogs To Follow In 2020](http://nextotech.com/25-best-artificial-intelligence-blogs-to-follow-in-2020/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
