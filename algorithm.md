@@ -185,6 +185,7 @@ Algorithm
 * [큰 수를 어떻게 좌표 압축하면 좋을까요](https://codingdog.tistory.com/entry/%ED%81%B0-%EC%88%98%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A2%8C%ED%91%9C-%EC%95%95%EC%B6%95%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [8 Common Data Structures every Programmer must know](https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42)
 * [파이썬 주식 최대 수익 알고리즘 #15](https://stricky.tistory.com/222)
+* [항등식으로 구현체를 외울 수 있는 확장 유클리드 알고리즘](https://codingdog.tistory.com/entry/%ED%95%AD%EB%93%B1%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC-%EC%99%B8%EC%9A%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%99%95%EC%9E%A5-%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
