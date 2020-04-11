@@ -593,6 +593,7 @@ Machine Learning
 * [**MLOps 1. 실험 관리 AI 혁신 속도는 모델 학습에서 배포까지 걸리는 속도에 비례한다**](https://brunch.co.kr/@chris-song/101)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
+* [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
