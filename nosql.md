@@ -348,6 +348,7 @@ NoSQL
 * [몽고DB 트랜잭션 (Mongodb transaction, Mongodb 트랜잭션)](https://lts0606.tistory.com/193)
 * [MongoDB 몽고DB 설치하는 법](https://blog.naver.com/goorm_official/221791616724)
 * [Mongolite User Manual](https://jeroen.github.io/mongolite/)
+* [How to resolve “Error Connecting to db. MongoNetworkError” when connecting to localhost MongoDB through MongoClient from NodeJS](https://medium.com/@bryantjiminson/how-to-resolve-error-connecting-to-db-3519f7744c5)
 
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
