@@ -227,6 +227,7 @@ C++
 * [C++17 표준 라이브러리의 알고리즘 병렬화 소개](http://occamsrazr.net/tt/325)
 * [‘기차모델’로 갈아탄 ‘C++17’이 가져온 변화는?](http://www.bloter.net/archives/291766)
 * [Modern C++17 Tricks for Competitive Programming](https://www.youtube.com/watch?v=7qZ2O5-uLO8)
+* [TIL – C++ 폴드 표현식과 쉼표 연산자](https://surpreem.com/til-%ED%8F%B4%EB%93%9C-c-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EC%89%BC%ED%91%9C-%EC%97%B0%EC%82%B0%EC%9E%90/)
 
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
