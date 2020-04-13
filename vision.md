@@ -537,6 +537,7 @@ Vision
 * [파이썬 이미지 프로세싱 (3)](https://brunch.co.kr/@mystoryg/71)
 * [파이썬 이미지 프로세싱 (4)](https://brunch.co.kr/@mystoryg/72)
 * [파이썬 이미지 프로세싱 (5)](https://brunch.co.kr/@mystoryg/73)
+* [프로젝트 기록 - 실전 딥러닝용 이미지 전처리](https://theeluwin.postype.com/post/6488879)
 * [Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad/)
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
   * [빈 주차공간 찾아서 알려주는 인공지능 만든 개발자](https://smartaedi.tistory.com/368)
