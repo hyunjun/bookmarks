@@ -110,6 +110,7 @@ Business
 * [피드백은 섬세한 기술이다](https://ppss.kr/archives/169177)
 * [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
 * [관계를 망치지 않고, 똑 부러지게 피드백 주는 법](https://ppss.kr/archives/209501)
+* [**피드백은 어떻게 해야 할까?**](https://brunch.co.kr/@younghakjang/111) 매우 좋은 글. 실리콘밸리의 팀장들과 피드포워드라는 책에서 발췌 및 의견 추가
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
