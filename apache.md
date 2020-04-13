@@ -535,6 +535,7 @@ Apache
 * [**카프카 컨슈머 멀티쓰레드 애플리케이션 예제코드(for scala)**](https://blog.voidmainvoid.net/313)
 * [링크드인은 왜 카프카를 만들었나](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS9400468504)
 * [Disaster Recovery Plans for Apache Kafka](https://www.slideshare.net/ConfluentInc/disaster-recovery-plans-for-apache-kafka)
+* [카프카 클러스터 클러스터ip DNS 연동방법. use_all_dns_ips 사용(in AWS, route53)](https://blog.voidmainvoid.net/327)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
