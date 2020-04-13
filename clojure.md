@@ -295,6 +295,7 @@ Clojure
 * [Updating diagnostics for Boeing’s 737 MAX](http://magazine.aerospacemanufacturinganddesign.com/article/october-2016/updating-diagnostics-for-boeings-737-max.aspx) Clojure 3.2만 line. Java였으면 50만 line이 넘었을 거로 추정함
 * [**Advent of Parens 2019**](https://lambdaisland.com/blog/2019-11-25-advent-of-parens)
 * [CuPy accelerates NumPy on the GPU? Hold my Cider, here's Clojure!](https://dragan.rocks/articles/20/Clojure-Numpy-Cupy-CPU-GPU)
+* [A wrinkle in Clojure](https://www.johndcook.com/blog/2020/04/11/a-wrinkle-in-clojure/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
