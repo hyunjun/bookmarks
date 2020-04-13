@@ -208,6 +208,7 @@ Git
 * bisect
   * [The git's guide to git: Bisect](http://rkoutnik.com/articles/The-gits-guide-to-git-Bisect.html)
   * [GIT BISECT를 이용하여 버그발생시점 찾아내기](https://iamsang.com/blog/2014/03/02/git-bisect/)
+  * [git bisect 로 문제가 발생한 commit 빠르고 쉽게 찾기](https://blog.gangnamunni.com/2020/04/13/understanding_git_bisect.html)
   * [7.10 Git 도구 - Git으로 버그 찾기](https://git-scm.com/book/ko/v2/Git-도구-Git으로-버그-찾기)
 * `branch`
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
