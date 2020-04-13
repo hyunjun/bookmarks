@@ -1702,6 +1702,7 @@ Programming
 * [2020년 3월 21일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-21.html)
 * [2020년 3월 29일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-29.html)
 * [2020년 4월 4일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-4.html)
+* [2020년 4월 11일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-11.html) nginx, null, tmux 등
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
