@@ -241,6 +241,7 @@ Go
 * [Notes on the Go translation of Reposurgeon](https://gitlab.com/esr/reposurgeon/blob/master/GoNotes.adoc)
 * [Go: Finalizers](https://medium.com/a-journey-with-go/go-finalizers-786df8e17687)
 * [Exceptional Go](https://medium.com/extreme-programming/exceptional-go-3943c2230cf8)
+* [Golang 에서 enum 자료형 사용후기](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-golang-%EC%97%90%EC%84%9C-enum-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
