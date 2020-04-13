@@ -3220,6 +3220,7 @@ Python
 * [파이썬으로 로또 당첨번호 및 당첨금 데이터 분석 하기 feat.pandas, pyplot](https://stricky.tistory.com/158)
 * [Python Tools for Record Linking and Fuzzy Matching](https://pbpython.com/record-linking.html) fuzzymatcher, recordlinkage
 * [파이썬과 판다스로 배우는 통계 기초](https://blog.naver.com/pjt3591oo/221833290914)
+* [판다스 튜토리얼 - 10분안에 못 끝내는 분량 10분안에 끝내기](https://blog.naver.com/pjt3591oo/221903688044)
 * [Tidy Animated Verbs](https://github.com/gadenbuie/tidyexplain)
   * ["Tidy Animated Verbs" in Python pandas](https://nbviewer.jupyter.org/gist/FinanceData/8156bd53ea3a36c88cb146e43d4da411)
 * [vaex - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex)
