@@ -506,6 +506,7 @@ Scala
   * [Scala Classes – Syntax, Declaration, Use case, Examples](https://leobenkel.com/2019/10/scala-classes/)
   * [Making ordinary classes Rich! (Scala)](https://medium.com/@lprakashv/making-ordinary-classes-rich-scala-ab7f991d690)
   * case class
+    * [practice - trait, class, case class inheritance](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-trait_class_case_class_inheritance-scala)
     * [Read case class object from string in Scala (something like Haskell's “read” typeclass)](http://stackoverflow.com/questions/10804581/read-case-class-object-from-string-in-scala-something-like-haskells-read-typ)
     * [case object와 object의 차이](http://knight76.tistory.com/entry/scala-case-object%EC%99%80-object%EC%9D%98-%EC%B0%A8%EC%9D%B4)
     * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
