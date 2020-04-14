@@ -829,6 +829,24 @@
 * [On-Demand Webinar and FAQ: Parallelize R Code Using Apache Spark](https://databricks.com/blog/2017/08/21/on-demand-webinar-and-faq-parallelize-r-code-using-apache-spark.html)
 * [Vectorized R Execution in Apache Spark - Hyukjin Kwon (Databricks)](https://www.youtube.com/watch?v=3fE9MrV7uqA)
 
+# Spark 3.0
+* [Data Source V2 API in Spark 3.0 - Part 1 : Motivation for New Abstractions](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-1/)
+* [Data Source V2 API in Spark 3.0 - Part 2 : Anatomy of V2 Read API](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-2/)
+* [Data Source V2 API in Spark 3.0 - Part 3 : In-Memory Data Source](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-3/)
+* [Data Source V2 API in Spark 3.0 - Part 4 : In-Memory Data Source with Partitioning](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-4/)
+* [Data Source V2 API in Spark 3.0 - Part 5 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-5/)
+* [Introduction to Spark 3.0 - Part 1 : Multi Character Delimiter in CSV Source](http://blog.madhukaraphatak.com/spark-3-introduction-part-1/)
+* [Introduction to Spark 3.0 - Part 2 : Multiple Column Feature Transformations in Spark ML](http://blog.madhukaraphatak.com/spark-3-introduction-part-2/)
+* [Introduction to Spark 3.0 - Part 3 : Data Loading From Nested Folders](http://blog.madhukaraphatak.com/spark-3-introduction-part-3/)
+* [Introduction to Spark 3.0 - Part 4 : Handling Class Imbalance Using Weights](http://blog.madhukaraphatak.com/spark-3-introduction-part-4/)
+* [Introduction to Spark 3.0 - Part 5 : Easier Debugging of Cached Data Frames](http://blog.madhukaraphatak.com/spark-3-introduction-part-5/)
+* [Introduction to Spark 3.0 - Part 6 : Min and Max By Functions](http://blog.madhukaraphatak.com/spark-3-introduction-part-6/)
+* [Introduction to Spark 3.0 - Part 7 : Dynamic Allocation Without External Shuffle Service](http://blog.madhukaraphatak.com/spark-3-introduction-part-7/)
+* [Spark Plugin Framework in 3.0 - Part 1: Introduction](http://blog.madhukaraphatak.com/spark-plugin-part-1/)
+* [Spark Plugin Framework in 3.0 - Part 2 : Anatomy of the API](http://blog.madhukaraphatak.com/spark-plugin-part-2/)
+* [Spark Plugin Framework in 3.0 - Part 3 : Dynamic Stream Configuration using Driver Plugin](http://blog.madhukaraphatak.com/spark-plugin-part-3/)
+* [Spark Plugin Framework in 3.0 - Part 4 : Custom Metrics](http://blog.madhukaraphatak.com/spark-plugin-part-4/)
+
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
 
