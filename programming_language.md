@@ -53,6 +53,12 @@ Programming Language
   * [Getting Started with #GraalVM #nativeImage](https://www.youtube.com/watch?v=HMEtQk2KeHg)
   * [Top 10 Things To Do With GraalVM](https://medium.com/graalvm/graalvm-ten-things-12d9111f307d)
   * [Benchmarking Web Services using GraalVM Native Image](https://www.inner-product.com/posts/benchmarking-graalvm-native-image/)
+  * [Experiments with GraalVM - Part 1 : Introduction](http://blog.madhukaraphatak.com/graal-vm-part-1/)
+  * [Experiments with GraalVM - Part 2 : Polyglot JavaScript Hello World](http://blog.madhukaraphatak.com/graal-vm-part-2/)
+  * [Experiments with GraalVM - Part 3 : Invoke JS Functions from JVM](http://blog.madhukaraphatak.com/graal-vm-part-3/)
+  * [Experiments with GraalVM - Part 4 : JavaScript Object to Case Class](http://blog.madhukaraphatak.com/graal-vm-part-4/)
+  * [Experiments with GraalVM - Part 5 : Passing Scala Object to JavaScript](http://blog.madhukaraphatak.com/graal-vm-part-5/)
+  * [Writing Apache Spark Programs in JavaScript](http://blog.madhukaraphatak.com/spark-in-javascript/)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
