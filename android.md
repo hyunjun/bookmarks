@@ -241,6 +241,7 @@ Android
   * [안드로이드 스튜디오3에서 Gradle Sync 이슈 해결하기](http://developer88.tistory.com/149)
   * [How to improve the build speed of your Android projects](https://medium.freecodecamp.org/how-to-improve-the-build-speed-of-your-android-projects-bd49029d8602)
   * [Android Gradle Tip들 정리](https://developer88.tistory.com/198)
+* Jandroid [Android 취약점 탐색 자동화를 위한 Jandroid 적용기](https://engineering.linecorp.com/ko/blog/use-jandroid-for-automated-android-vulnerability-detection/)
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
   * [Android Studio Jetpack Compose & Sample App](http://pluu.github.io/blog/android/2019/05/19/jetpack-compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
