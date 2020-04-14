@@ -555,6 +555,7 @@ Scala
   * [Implicit conversions in Scala help with DRY](https://medium.com/@alonso.delarte/implicit-conversions-in-scala-help-with-dry-babf3c35bcf6)
   * [How to keep your sanity working with Scala Implicit!](https://medium.com/@lprakashv/how-to-keep-your-sanity-working-with-scala-implicit-fda9ffc33162)
   * [scala implicit keyword 관련 파라미터](https://captainthomas.tistory.com/entry/scala-implicit-keyword-관련-파라미터)
+  * [Understanding implicit in Scala](https://stackoverflow.com/questions/10375633/understanding-implicit-in-scala)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -1106,6 +1107,12 @@ Scala
   * [Functional tests with Scala, SBT, Play framework, Specs2 and one application per test suite](https://medium.com/@geovannyjs/functional-tests-with-scala-sbt-play-framework-specs2-and-one-application-per-test-suite-22ddf70e5cbe)
   * [XXE ATTACKS IN SCALA AND PLAY FRAMEWORK](https://jowritesscala.wordpress.com/2019/07/30/xxe-attacks-in-scala-and-play-framework/)
   * [Play 2.6에서 달라진 점](https://medium.com/@OutOfBedlam/play-2-6%EC%97%90%EC%84%9C-%EB%8B%AC%EB%9D%BC%EC%A7%84-%EC%A0%90-30ab2d305e5)
+  * [practice - parameter가 22개 이상인 경우의 json de/sereialize](https://gist.github.com/hyunjun/3807ba075422376ad56490642847d05c)
+  * [How to write implicit Writes for case class having more than 22 fields in Scala?](https://medium.com/@setu677/how-to-write-implicit-writes-for-case-class-having-more-than-22-fields-89b4e152610e)
+  * [Parsing json with over 22 fields with case classes](https://pietrotull.com/2014/10/09/using-scalas-case-classes-to-parse-a-json-with-over-22-fields/)
+  * [Implement support for > 22 field case classes in macros](https://github.com/playframework/playframework/issues/3174)
+  * [Play json > tuple 21 macros](https://gist.github.com/joprice/d9bad5ca2d2ef68fca73)
+  * [Play-Json extensions](https://github.com/xdotai/play-json-extensions)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
