@@ -1299,6 +1299,7 @@ Scala
   * [SF Scala: Bill Venners, Property-based Testing in ScalaTest 3.1](https://www.youtube.com/watch?v=lKtg-CDVDsI)
   * [Wiring everything up for unit testing with Scalatest + Mockito + ArgumentCaptor](https://medium.com/@supermanue/wiring-everything-up-for-unit-testing-with-scalatest-mockito-argumentcaptor-41ec970c3762)
 * [Stryker - Test your tests with mutation testing](https://stryker-mutator.io/)
+* TestContainers [Scala Integration Testing with TestContainers Library](http://blog.madhukaraphatak.com/test-containers-scala/)
 
 # Type
 * [typelevel.org/blog](https://typelevel.org/blog/)
