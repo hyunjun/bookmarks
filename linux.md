@@ -168,6 +168,7 @@ Linux
 * [오픈스택 명령어로 오픈스택 명령어 만들기](https://naleejang.tistory.com/223) grep, sed, awk
 * [Text processing in the shell](https://blog.balthazar-rouberol.com/text-processing-in-the-shell) cat head tail wc grep cut paste sort uniq awk tr fold sed for xargs
 * [Linux 명령어 및 단축키 중 자주 사용하게 되는 것 정리 #Chmod #Curl](https://developer88.tistory.com/289)
+* [ls보다는 exa를 사용하자! 모던 리눅스 명령어 소개 번역](https://velog.io/@kameals/modern-linux-command) exa, bat, hexyl, fd, procs, rg(ripgrep)
 * [How can I monitor the thread count of a process on linux?](https://stackoverflow.com/questions/268680/how-can-i-monitor-the-thread-count-of-a-process-on-linux)
   * `cat /proc/<PID>/status | grep Threads`
 * CPU 개수
