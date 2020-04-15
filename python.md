@@ -342,7 +342,6 @@ Python
 * [Why are slots so slow?](https://www.corsix.org/content/why-are-slots-so-slow)
 * [ACM Month Of Code 2k17: Building Moodify](https://medium.com/@ajay.ns08/acm-month-of-code-2k17-building-moodify-d5d9e0c52ca7)
 * [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
-* [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
 * [Python Basics for Data Science](https://financedata.github.io/)
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
 * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc) David Beazley
@@ -2262,7 +2261,6 @@ Python
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
-* [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)
     * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
@@ -2524,7 +2522,6 @@ Python
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
 * [LemonGraph - a log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file](https://github.com/NationalSecurityAgency/lemongraph)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
-* [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
 * [LightNet: Bringing pjreddie's DarkNet out of the shadows](https://github.com/explosion/lightnet)
 * [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in \<95 lines](https://github.com/vpostman/logcoin)
@@ -2557,14 +2554,6 @@ Python
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
-* MySQL-python
-  * [practice - installation on Redhat & Ubuntu](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558#file-installation-md)
-  * [practice - installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
-  * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
-  * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
-  * [**Python MySQL Tutorial**](http://www.mysqltutorial.org/python-mysql/)
-  * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
-  * [Insert / Retrieve file and images as a Blob in MySQL using Python](https://pynative.com/python-mysql-blob-insert-retrieve-file-image-as-a-blob-in-mysql/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
 * [NBAPB (Blog Auto Posting Bot)](https://github.com/pjt3591oo/blog_post_bot_cli)
 * [NetworkX](http://networkx.github.io/) -> [graph](graph.md)
@@ -2592,7 +2581,6 @@ Python
 * [PeachPy is a Python framework for writing high-performance assembly kernels](https://github.com/Maratyszcza/PeachPy)
 * [**Pendulum - PYTHON DATETIMES MADE EASY**](http://pendulum.eustace.io/)
 * [petl - Extract, Transform and Load (Tables of Data) — petl 1.1.1](https://petl.readthedocs.io/)
-* [PewSQL - Analytics Done inside RDBMS](https://github.com/AndersonJo/pewsql)
 * [**plotline - A Grammar of Graphics for Python**](http://plotnine.readthedocs.io) based on ggplot2
 * [plydata is a library that provides a small grammar for data manipulation](https://plydata.readthedocs.io)
   * [A grammar for data manipulation in Python](https://github.com/has2k1/plydata)
@@ -2650,11 +2638,6 @@ Python
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
   * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
-* [PyMySQL](https://github.com/PyMySQL)
-  * [PyMySQL - Pure Python MySQL Client https://pymysql.readthedocs.io ](https://github.com/PyMySQL/PyMySQL)
-  * [**PyMySQL Evaluation**](https://wiki.openstack.org/wiki/PyMySQL_evaluation)
-  * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
-  * [PyMySql이용해서 데이터 베이스 서버와 통신하기](https://jungwoon.github.io/python/2018/03/29/Data-Analysis-With-Python-4/)
 * [Pymunk - a easy-to-use pythonic 2d physics library that can be used whenever you need 2d rigid body physics from Python](http://www.pymunk.org)
 * [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
@@ -2772,7 +2755,6 @@ Python
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
-* [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Slouchy uses your webcam to check if you're slouching and alert you if you are](https://github.com/pyskell/slouchy)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
@@ -2781,19 +2763,6 @@ Python
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * [**Sorted Containers**](http://www.grantjenks.com/docs/sortedcontainers/) sorted collections type
 * [spidermonkey - Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation](https://github.com/davisp/python-spidermonkey)
-* SQLAlchemy
-  * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
-  * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)
-  * [Python에서 SQLAlchemy로 MS-SQL 연동하기](http://excelsior-cjh.tistory.com/entry/Python%EC%97%90%EC%84%9C-SQLAlchemy%EB%A1%9C-MSSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
-  * [SQLAlchemy의 연결 풀링 이해하기](https://spoqa.github.io/2018/01/17/connection-pool-of-sqlalchemy.html)
-  * [Pythonic Database Management with SQLAlchemy](https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0)
-  * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
-    * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
-    * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
-    * [alembic을 이용해 DB 마이그레이션 하기 (2)](https://codeac.tistory.com/115)
-* [sqlbuilder](https://pypi.python.org/pypi/sqlbuilder)
-  * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
-  * [practice - sqlbuilder](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
@@ -2895,6 +2864,43 @@ Python
 * [Pyan3: Offline call graph generator for Python 3](https://github.com/davidfraser/pyan)
 * [pycallgraph - call graph visualizations for Python applications](http://pycallgraph.slowchop.com)
   * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
+
+## Library DB Database SQL
+* [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
+* [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
+* [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
+* MySQL-python
+  * [practice - installation on Redhat & Ubuntu](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558#file-installation-md)
+  * [practice - installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
+  * [Escaping Strings for MySQL in Python](http://allthingstechilike.blogspot.com/2012/10/escaping-strings-for-mysql-in-python.html) 난 잘 되지 않음
+  * [A quick guide to using MySQL in Python](https://ianhowson.com/blog/a-quick-guide-to-using-mysql-in-python/)
+  * [**Python MySQL Tutorial**](http://www.mysqltutorial.org/python-mysql/)
+  * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+  * [Insert / Retrieve file and images as a Blob in MySQL using Python](https://pynative.com/python-mysql-blob-insert-retrieve-file-image-as-a-blob-in-mysql/)
+* [PewSQL - Analytics Done inside RDBMS](https://github.com/AndersonJo/pewsql)
+* [PyMySQL](https://github.com/PyMySQL)
+  * [PyMySQL - Pure Python MySQL Client https://pymysql.readthedocs.io ](https://github.com/PyMySQL/PyMySQL)
+  * [**PyMySQL Evaluation**](https://wiki.openstack.org/wiki/PyMySQL_evaluation)
+  * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
+  * [PyMySql이용해서 데이터 베이스 서버와 통신하기](https://jungwoon.github.io/python/2018/03/29/Data-Analysis-With-Python-4/)
+* PYODBC
+  * [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
+    * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
+  * [Building a Regression Testing Framework for your SQL Database](https://towardsdatascience.com/how-to-regression-test-your-sql-database-c6c8d66848c5)
+* [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
+* SQLAlchemy
+  * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
+  * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)
+  * [Python에서 SQLAlchemy로 MS-SQL 연동하기](http://excelsior-cjh.tistory.com/entry/Python%EC%97%90%EC%84%9C-SQLAlchemy%EB%A1%9C-MSSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
+  * [SQLAlchemy의 연결 풀링 이해하기](https://spoqa.github.io/2018/01/17/connection-pool-of-sqlalchemy.html)
+  * [Pythonic Database Management with SQLAlchemy](https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0)
+  * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
+    * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
+    * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
+    * [alembic을 이용해 DB 마이그레이션 하기 (2)](https://codeac.tistory.com/115)
+* [sqlbuilder](https://pypi.python.org/pypi/sqlbuilder)
+  * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
+  * [practice - sqlbuilder](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
 
 ## Ligrary image
 * [**10 Python image manipulation tools**](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)
@@ -3678,8 +3684,6 @@ Python
 * [How to Use Word VBA in Python](https://www.youtube.com/watch?v=nw5_oSz4RJk)
   * 새로운 Word 문서를 만들고, 문서에 테이블을 추가하고, Python을 사용하여 링크를 추가하는 방법
   * Word VBA 모델
-* [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
-  * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
 * [Building a Windows Shortcut with Python](https://pbpython.com/windows-shortcut.html)
 * [Python과 Windows Program간의 데이터 공유](https://blog.naver.com/educoding/221737503305) memory mapped file, MFC <-> python
 * [Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules](http://www.dependencywalker.com/)
