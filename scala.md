@@ -434,6 +434,7 @@ Scala
 * [Testing Akka Http Clients](https://medium.com/@pwdd/testing-akka-http-clients-59fa2d0545c1)
 * [An introduction to Akka HTTP routing](https://medium.freecodecamp.org/an-introduction-to-akka-http-routing-697b00399cad)
 * [Configuring Github badges for a Scala project](https://medium.com/@canohueros75/configuring-github-badges-for-a-scala-project-87ef726028ea)
+* [Akka Http Client- How to create a Unit Test for Http Single Request in Scala](https://medium.com/swlh/akka-http-client-how-to-create-a-unit-test-for-http-single-request-in-scala-e115f2052802)
 * [akka-http-memory-leak](https://github.com/jeroentervoorde/akka-http-memory-leak/)
 
 ## Akka Monitoring
