@@ -123,7 +123,6 @@ ElasticSearch - Lucene
 * [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
 * [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
 * [Aftershock Therapy with Elasticsearch and CSV Data Import](https://www.elastic.co/kr/blog/aftershock-therapy-with-elasticsearch-and-csv-data-import)
-* [Managing My Type 1 Diabetes with Elastic Machine Learning](https://www.elastic.co/kr/blog/managing-my-type-1-diabetes-with-elastic-machine-learning)
 * [ElasticSearch Data Exploration and Analytics](https://www.youtube.com/watch?v=d9l2-3QeDTs)
 * [Geospatial Data Structures in Elasticsearch and Apache Lucene](https://www.elastic.co/elasticon/conf/2016/sf/geospatial-data-structures-in-elasticsearch-and-apache-lucene)
 * [Serverless Elasticsearch Curator on AWS Lambda](https://www.elastic.co/blog/serverless-elasticsearch-curator-on-aws-lambda)
@@ -572,6 +571,7 @@ ElasticSearch - Lucene
 * [pylucene - Python용 lucene검색엔진에 한글형태소 분석기 lucenekorean 붙이기](http://mcchae.egloos.com/10629472)
 
 # Machine Learning
+* [Managing My Type 1 Diabetes with Elastic Machine Learning](https://www.elastic.co/kr/blog/managing-my-type-1-diabetes-with-elastic-machine-learning)
 * [A first look at Elastic's new Machine Learning Technology](https://www.linkedin.com/pulse/first-look-elastics-new-machine-learning-technology-robert-cowart)
 * [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 * [Elastic Machine Learning - 엘라스틱 머신 러닝](https://www.youtube.com/watch?v=RIqjN2g3YFg)
@@ -587,6 +587,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치에 있는 모든 어플리케이션 로그들을 머신러닝으로 패턴 분류해서 상대적으로 발생하지 않던 로그 패턴이 있으면 자동으로 식별해 보겠습니다](http://blog.naver.com/olpaemi/221075264738)
 * [엘라스틱서치의 인덱스를 분석에 적합한 피벗 테이블로 만들기 (1) - 머신러닝 > Data frame transforms](https://olpaemi.blog.me/221634955864)
 * [엘라스틱서치의 인덱스를 분석에 적합한 피벗 테이블로 만들기 (2) - 머신러닝 > 데이터프레임(Data frame) transforms](https://blog.naver.com/olpaemi/221635737975)
+* [새로 나온 이 영화 재미있을까? Elasticsearch의 supervised learning으로 예측해보자!](https://www.elastic.co/kr/blog/using-classification-in-elasticsearch-to-curate-your-movie-queue)
 
 # Plugin
 * [**어떤 한국어 분석기를 사용할까?**](https://www.elastic.co/kr/blog/using-korean-analyzers) 5.5.0 기준
