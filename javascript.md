@@ -468,6 +468,7 @@ Javascript
 * [Getting Started with the MERN Stack](https://medium.com/@alphakoder/getting-started-with-the-mern-stack-4e73f34aaa28)
 * [How to Easily Build Desktop Apps with HTML, CSS and Javascript](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 * [When to use var vs let vs const in JavaScript](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037)
+* [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
 * [9 Tricks for Kickass JavaScript Developers in 2019](https://levelup.gitconnected.com/9-tricks-for-kickass-javascript-developers-in-2019-eb01dd3def2a)
 * [You might not need a build toolchain](https://itnext.io/you-might-not-need-a-build-toolchain-324edcef7f9a)
 * [Unpacking JavaScript classes](https://hackernoon.com/unpacking-javascript-classes-81d32804c978)
@@ -2373,6 +2374,7 @@ Javascript
   * [Gatsby와 Contentful 연동하기](https://imch.dev/posts/integration-gatsby-with-contentful)
   * [gatsby starter bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
   * [**블로그 제작기**](https://ailrun.github.io/ko/post/trip-to-make-a-blog/) 직접적인 개발글은 아니지만 좋음
+  * [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
