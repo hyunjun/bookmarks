@@ -158,6 +158,7 @@ Web
 * [GOTO 2019 • Common API Security Pitfalls • Philippe De Ryck](https://www.youtube.com/watch?v=Ss1tZjooo9I)
 * [CORS 실패 시, 응답 개체의 status는 왜 0일까?](https://huns.me/development/2297)
 * [How to protect your information with Local Sheriff](https://medium.freecodecamp.org/local-sheriff-watching-them-watching-us-5eacf3eb00ca) security
+* [The OWASP Top 10 – A Technical Deep-Dive into Web Security](https://www.freecodecamp.org/news/technical-dive-into-owasp/)
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
