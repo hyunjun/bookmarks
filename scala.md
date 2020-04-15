@@ -1433,3 +1433,4 @@ Scala
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
 * [Checklist for learning Scala](https://medium.com/@horiaconstantin/checklist-for-learning-scala-66bfe6d1ac2b)
 * [Scala for Python developers](https://medium.com/@antoine.doeraene/scala-for-python-developers-93f3755f60d1)
+* [Intro to Scala Fundamentals](https://github.com/wjlow/intro-to-scala)
