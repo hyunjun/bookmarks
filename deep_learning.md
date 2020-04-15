@@ -1731,6 +1731,7 @@ Deep Learning
 * [assembled-cnn - Official implementation of "Compounding the Performance Improvements of Assembled Techniques in a Convolutional Neural Network"](https://github.com/clovaai/assembled-cnn)
 * [CNN으로 TWICE 다현과 ITZY 예지를 구분할 수 있을까? — Intro](https://medium.com/@hslee09/python-cnn%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%EC%A7%84-%EB%B6%84%EB%A5%98-intro-5dffca629097)
 * [CNN으로 TWICE 다현과 ITZY 예지를 구분할 수 있을까? — (1)](https://medium.com/@hslee09/python-cnn%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%97%B0%EC%98%88%EC%9D%B8-%EC%82%AC%EC%A7%84-%EB%B6%84%EB%A5%98-1-705aee34def4)
+* [CNN으로 TWICE 다현과 ITZY 예지를 구분할 수 있을까? — (2)](https://medium.com/@hslee09/python-cnn%EC%9C%BC%EB%A1%9C-twice-%EB%8B%A4%ED%98%84%EA%B3%BC-itzy-%EC%98%88%EC%A7%80%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-2-8d7713ca9aa9)
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
