@@ -3,6 +3,7 @@ Python
 * [**Python cheatsheet**](https://www.pythonsheets.com)
   * [Python Cheat Sheet](https://github.com/crazyguitar/pysheeet)
 * [7+ Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
+* [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
 * [**Awesome Python**](http://awesome-python.com/)
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
