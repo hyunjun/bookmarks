@@ -245,6 +245,7 @@ Interview
   * [**System Design Interview Patterns**](https://www.youtube.com/watch?v=Yt2WOBPhc7w) 여러가지 팁
   * [Walking Through The System Design Interview](https://medium.com/better-programming/walking-through-the-system-design-interview-679a408c048f)
   * [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
+  * [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   * [Gaurav Sen - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
