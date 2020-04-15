@@ -223,6 +223,7 @@
 * [spark를 이용한 hadoop cluster 원격 입출력](http://blog.naver.com/hancury/220744753944)
 * [Best Practices for Using Apache Spark on AWS](http://www.slideshare.net/AmazonWebServices/best-practices-for-using-apache-spark-on-aws)
 * [Working effectively with Apache Spark on AWS - Singapore Apache Spark+AI Meetup](https://www.youtube.com/watch?v=C8QDCcweI1A)
+* [How to export millions of records from Mysql to AWS S3?](https://towardsdatascience.com/how-to-export-millions-of-records-from-mysql-to-aws-s3-fe30e80832e4)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
 * [Deep Dive: Apache Spark Memory Management](http://go.databricks.com/deep-dive-apache-spark-memory-management)
