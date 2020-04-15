@@ -83,6 +83,7 @@ C++
 * [How We Beat C++ STL Binary Search](https://realm.io/news/how-we-beat-cpp-stl-binary-search/)
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
 * [STL — Standard Template Library](https://medium.com/programming-club-nit-raipur/stl-standard-template-library-5eace21acfc7)
+* [Learning C++: The STL and the vector Class](https://levelup.gitconnected.com/learning-c-the-stl-and-the-vector-class-beead0ac745f)
 * [“New” Value Terminology - Bjarne Stroustrup](http://stroustrup.com/terminology.pdf)
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 * [You Can Stop Writing Comments About Pointer Ownership](http://gpfault.net/posts/pointer-ownership-comments.txt.html)
