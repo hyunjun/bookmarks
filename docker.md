@@ -174,6 +174,7 @@ Docker
       docker exec -i test_image_name mysql -P 53305 -u root -ptest_root <database name> < <schema name>.sql
       ```
       * [docker mysql 한글 깨짐 해결 & 초기 설정](http://epr.pe.kr/wordpress/?p=553)
+    * [Develop a Spring Boot and MySQL Application and run in Docker (end-to-end)](https://medium.com/codefountain/develop-a-spring-boot-and-mysql-application-and-run-in-docker-end-to-end-15b7cdf3a2ba)
   * [NexClipper - the container and container orchestration monitoring and performance management solution specialized in Docker, DC/OS, Mesosphere, Kubernetes](https://github.com/NexClipper/NexClipper)
   * Nginx
     * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
