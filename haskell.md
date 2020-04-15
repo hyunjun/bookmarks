@@ -174,6 +174,8 @@ Haskell
 * [What are the advantages and disadvantages of using Haskell to implement a domain specific language?](https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-Haskell-to-implement-a-domain-specific-language)
 * [Can the Haskell compiler automatically convert a recursive function that is not tail-recursive into a tail-recursive function using the continuation-passing style technique or some other technique?](https://www.quora.com/Can-the-Haskell-compiler-automatically-convert-a-recursive-function-that-is-not-tail-recursive-into-a-tail-recursive-function-using-the-continuation-passing-style-technique-or-some-other-technique)
 * [What does the flip function do in Haskell?](https://www.quora.com/What-does-the-flip-function-do-in-Haskell)
+* [How fast is Haskell?](https://www.quora.com/How-fast-is-Haskell)
+* [What are the most famous software written in Haskell and why aren't there more? I know of xmonad and that Standard Chartered used it in production. Are there others?](https://www.quora.com/What-are-the-most-famous-software-written-in-Haskell-and-why-arent-there-more-I-know-of-xmonad-and-that-Standard-Chartered-used-it-in-production-Are-there-others)
 * [zip.hs](https://gist.github.com/nattybear/be2ec4a55b94a2504ca813727ffb5a5b)
   * [zip.py](https://gist.github.com/nattybear/df6d7dfdacb588c271857a6219f9c914)
 * [Functional Programming And Formal Software Verification For Non Industry Applications - Or - Why you should learn Haskell and Coq](https://medium.com/@fabian.schneider/functional-programming-and-formal-software-verification-for-non-industry-applications-fefa24371856)
@@ -188,7 +190,6 @@ Haskell
 * [Sonic 2 in Haskell: Playing with sprites](https://www.youtube.com/watch?v=lm-8sbFFV24)
 * [MatchString.hs](https://gist.github.com/ghjang/d8b5542730d64fbbc8268279431b3780)
 * [Regex?](https://rextester.com/PTSLI74648)
-* [How fast is Haskell?](https://www.quora.com/How-fast-is-Haskell)
 * [Fighting spam with Haskell](https://engineering.fb.com/security/fighting-spam-with-haskell/)
 
 # Book
