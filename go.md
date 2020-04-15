@@ -148,7 +148,6 @@ Go
 * [Go 언어로 우버에서 초당 요청수가 가장 많은 서비스를 어떻게 개발했나?](https://only2sea.wordpress.com/2016/03/08/go-%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%9A%B0%EB%B2%84%EC%97%90%EC%84%9C-%EC%B4%88%EB%8B%B9-%EC%9A%94%EC%B2%AD%EC%88%98%EA%B0%80-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-2/)
 * [An introduction to LLVM in Go](https://blog.felixangell.com/an-introduction-to-llvm-in-go/)
 * [gotips - golang tips](https://github.com/beyondns/gotips)
-* [Compiler Part 1: Introduction to Writing a Compiler in Pure Go](http://noeffclue.blogspot.com/2014/05/compiler-part-1-introduction-to-writing.html)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
 * [Go kit - A toolkit for microservices](http://gokit.io/)
@@ -156,7 +155,6 @@ Go
   * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
-* [Writing a Compiler in Go](http://squanch.org/writing-a-compiler-in-go/)
 * [Go언어로 오픈소스 배송조회 서비스 만들기](http://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
 * [Go Sort Faster](http://sagivo.com/post/110274207073/faster-sorting-using-go)
 * [gotchas-and-common-mistakes-in-go-golang](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
@@ -175,7 +173,6 @@ Go
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
 * [Live building a scalable API in Go with Kubernetes](https://www.youtube.com/watch?v=pkZrgHxJ130)
-* [Writing a JIT compiler in Golang](https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f)
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
 * [Go 서버 개발하기](https://www.buzzvil.com/ko/2018/02/12/tech-blog-go-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
 * [Go tools & GitLab — how to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
@@ -304,6 +301,14 @@ Go
 * [Thoughts on Go performance optimization](https://github.com/dgryski/go-perfbook)
 * [Production Go](https://leanpub.com/productiongo/read_full)
 
+# Compiler
+* [Compiler Part 1: Introduction to Writing a Compiler in Pure Go](http://noeffclue.blogspot.com/2014/05/compiler-part-1-introduction-to-writing.html)
+* [Writing a Compiler in Go](http://squanch.org/writing-a-compiler-in-go/)
+* [Writing a JIT compiler in Golang](https://medium.com/kokster/writing-a-jit-compiler-in-golang-964b61295f)
+* [Go: Overview of the Compiler](https://medium.com/a-journey-with-go/go-overview-of-the-compiler-4e5a153ca889)
+* [Gsp - a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
+* [TINYGO - A GO COMPILER FOR SMALL PLACES](https://tinygo.org/)
+
 # Debug
 * [Introducing a cross-platform debugger for Go](http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/)
 * [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
@@ -401,7 +406,6 @@ Go
 * gosiris [An Introduction to gosiris, an Actor Framework for Go](https://medium.com/@teivah/an-introduction-to-gosiris-an-actor-framework-for-go-e0e3ad15b3c7)
 * [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
-* [Gsp is a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * gRPC
   * [gRPC Deadline](https://jusths.tistory.com/131)
@@ -474,7 +478,6 @@ Go
 * [termloop - Terminal-based game engine for Go, built on top of Termbox](https://github.com/JoelOtter/termloop)
 * [Tetris Written in Go](http://www.jjinux.com/2015/05/tetris-written-in-go.html)
 * [textql - Execute SQL against structured text like CSV or TSV](https://github.com/dinedal/textql)
-* [TINYGO - A GO COMPILER FOR SMALL PLACES](https://tinygo.org/)
 * [Tollbooth: An HTTP rate limiter middleware in Go](http://didipkerabat.com/posts/1432264032306462173-tollbooth-http-rate-limiter-middleware-in-go.html)
 * [Track code coverage metrics with Jenkins and Phabricator](https://github.com/uber/uberalls)
 * [TRS-80 Model III emulator in Go with a web interface](https://github.com/lkesteloot/trs80)
