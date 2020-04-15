@@ -85,6 +85,7 @@ Azure
 * [Live (S1E2): 애저 펑션에서 의존성 주입 구현하기](https://www.youtube.com/watch?v=K-jhN6InXxE)
 * [COVID-19 시리즈 #1 애저 펑션을 이용해서 브라우저에서 애저 Blob 저장소로 스크린샷 이미지 저장하기](https://blog.aliencube.org/ko/2020/04/01/capturing-images-from-browser-to-azure-blob-storage-via-azure-functions/)
 * [COVID-19 시리즈 #2 애저 펑션과 안면 인식 API를 이용해서 본인 인증하기](https://blog.aliencube.org/ko/2020/04/08/identifying-faces-through-azure-functions-using-face-api)
+* [COVID-19 시리즈 #3 파워앱으로 학생들 온라인 출석부 앱 만들기](https://blog.aliencube.org/ko/2020/04/15/building-online-check-in-app-with-power-apps/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
