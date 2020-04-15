@@ -1094,6 +1094,7 @@ Java
 * [Spring boot multi-module maven project example](https://howtodoinjava.com/spring-boot2/sb-multi-module-maven-project/)
 * [@RequestBody에 왜 기본 생성자는 필요하고, Setter는 필요 없을까? #1](https://velog.io/@conatuseus/RequestBody%EC%97%90-%EA%B8%B0%EB%B3%B8-%EC%83%9D%EC%84%B1%EC%9E%90%EB%8A%94-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80)
 * [Spring Batch의 유니크 Job Parameter 활용하기](https://jojoldu.tistory.com/487)
+* [SpringBoot, Liquibase and MariaDB](https://itnext.io/springboot-liquibase-and-mariadb-b3f943c29370)
 
 # Memory Leak, OOM, Out of memory
 * [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
