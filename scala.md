@@ -692,6 +692,7 @@ Scala
   * [practice - DateTimeFormatter ZoneId ZonedDateTime](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
+  * [practice - sealed trait - sealed class/companion object - final case class](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
   * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
   * Back2Basics: The Story of Trait
     * [Part 1](https://blog.knoldus.com/back2basics-the-story-of-trait-part-1/)
@@ -1114,6 +1115,7 @@ Scala
   * [Implement support for > 22 field case classes in macros](https://github.com/playframework/playframework/issues/3174)
   * [Play json > tuple 21 macros](https://gist.github.com/joprice/d9bad5ca2d2ef68fca73)
   * [Play-Json extensions](https://github.com/xdotai/play-json-extensions)
+  * [practice - sealed trait - sealed class/companion object - final case class + json de/serialization](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
