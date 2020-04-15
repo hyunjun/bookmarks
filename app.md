@@ -797,6 +797,7 @@ App
 
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
+* [Free Flowchart Creator and Workflow Diagram Apps – A Guide for Managers](https://www.freecodecamp.org/news/flow-chart-creator-and-workflow-diagram-apps/)
 * [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
