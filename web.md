@@ -56,6 +56,7 @@ Web
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [The Twelve-Factor App](http://12factor.net/ko/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
+* [11 Useful Online Tools for Frontend Developers](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
 * [Managing two million web servers](http://joearms.github.io/2016/03/13/Managing-two-million-webservers.html)
 * [Rocket.chat 채팅 서비스 만들기](http://900stage.com/%EC%B1%84%ED%8C%85-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EB%8B%A4/)
 * [웹 아이콘 폰트 패키지, FONTIUM](https://fontium.koism.com/)
