@@ -2267,6 +2267,7 @@ Python
     * [Anaconda3.5 설치 & 오류 해결 방법](https://github.com/KWJACK/TIL/blob/master/SuperResolution/tensorflow/anaconda3.5_install.md)
     * [How to Install Anaconda Python on Windows | How to Install Anaconda on Windows](https://www.youtube.com/watch?v=YQWAiUhZJX8)
     * [Visual Studio Code로 편리한 Pylife!](http://blog.ncsoft.com/?p=40977)
+    * [파이썬/아나콘다 설치 안내](https://www.notion.so/eac8e8c36dd24f019af672db75723622)
   * Conda Package Repository
     * [conda.pydata.org](http://conda.pydata.org/)
     * [`conda install -c anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
