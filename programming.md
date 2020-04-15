@@ -1139,6 +1139,7 @@ Programming
   * Cliqz, makers of a web search engine, have a comprehensive post on their architecture. Their near real-time indexing system is built with Apache Kafka, Apache Cassandra, and RocksDB while their batch indexing system is built on MapReduce and Spark with Luigi for managing workflows. The post also describes how they manage Kubernetes clusters, use Helm/Helmfile for package management, and leverage Tilt and K9s for local development. They also share on how they optimize costs and describe their machine learning pipelines.
 * [Scaling a Mature Data Pipeline — Managing Overhead](https://medium.com/airbnb-engineering/scaling-a-mature-data-pipeline-managing-overhead-f34835cbc866)
 * [Data pipeline and data lake](https://www.slideshare.net/charsyam2/data-pipeline-and-data-lake)
+* [A Guide To The Data Lake — Modern Batch Data Warehousing](https://towardsdatascience.com/a-guide-to-modern-batch-data-warehousing-extraction-f63bfa6ef878)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
