@@ -510,6 +510,7 @@ Javascript
 * [Number.toHumanify](https://codepen.io/myso-kr/pen/wZMpXY)
 * [Javascript refactoring workshop](https://www.slideshare.net/jaehoonoh/javascript-refactoring-workshop)
 * [When to use a function declaration vs. a function expression](https://medium.freecodecamp.org/when-to-use-a-function-declarations-vs-a-function-expression-70f15152a0a0)
+* [JavaScript Mistakes — Expressions](https://medium.com/javascript-in-plain-english/javascript-mistakes-expressions-9b86d7591a9e)
 * [From Java to JavaScript — Functions and Scopes](https://medium.com/@reime005/from-java-to-javascript-functions-and-scopes-9bea24c7cfb)
 * [How to make a cross-browser extension using JavaScript and browser APIs](https://medium.freecodecamp.org/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba)
 * [JavaScript 내장 메소드를 사용하여 숫자 천단위마다 콤마 찍기](https://john015.github.io/java-script-%EB%82%B4%EC%9E%A5-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%88%AB%EC%9E%90-%EC%B2%9C%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0)
@@ -942,6 +943,7 @@ Javascript
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com)
 * [**Building an offline first web app with RxDB & Hasura**](https://blog.hasura.io/building-an-offline-first-web-app-with-rxdb-hasura/)
 * [Advice from a GraphQL Expert](https://www.netlify.com/blog/2020/01/21/advice-from-a-graphql-expert/)
+* [Constructing Types with the GraphQL Package](https://medium.com/swlh/constructing-types-with-the-graphql-package-2b3e5676b664)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -2314,6 +2316,7 @@ Javascript
 * [React Native에서 지도 표시하기](https://dev-yakuza.github.io/ko/react-native/react-native-maps)
 * [Meet Doctor, a new React Native command](https://facebook.github.io/react-native/blog/2019/11/18/react-native-doctor.html)
 * [Build a Brain Computer App with React Native (Part 2) - Live Coding with Jesse](https://www.youtube.com/watch?v=SZ8Kz4YvWUE)
+* [React Native Learnings](https://medium.com/@srinuch1981/react-native-learnings-367e252c1900)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -2452,6 +2455,7 @@ Javascript
   * [React-router v5.1, 무엇이 달라졌을까?](https://john015.netlify.com/react-router-v-5-1-무엇이-달라졌을까)
   * [Getting started with React Router](https://codeburst.io/getting-started-with-react-router-5c978f70df91)
   * [리액트 라우터를 활용한 권한별 라우팅 제어](https://jeonghwan-kim.github.io/dev/2020/03/20/role-based-react-router.html)
+  * [Introduction to React Router](https://medium.com/swlh/introduction-to-react-router-903682ab9e3)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
