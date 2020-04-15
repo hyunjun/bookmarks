@@ -1692,7 +1692,8 @@ Programming
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
 * [44BITS 뉴스레터 2020년 14-15주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-14-15)
 * [news.hada.io](https://news.hada.io/)
-* [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
+* [2020년 1월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-1-18.html) 클린코드, 알고리즘, 도커, 범용 툴
+  * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
   * [2020년 1월 18일 개발 이야기](https://www.youtube.com/watch?v=ShF8A7OTp18)
 * [2020년 2월 1일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-2-1.html)
 * [2020년 2월 8일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-2-8.html)
