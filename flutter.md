@@ -52,6 +52,7 @@ Flutter
 * [Declarative UI 찬양](https://xrath.com/2020/03/declarative-ui/)
 * [21 Awesome Flutter UI Plugins](https://www.dunebook.com/awesome-ui-plugins-for-flutter/)
 * [플러터 Hello World 살펴보기](https://brunch.co.kr/@mystoryg/137)
+* [위젯 기본 개념 (1/2) | 플러터 위젯 기본 개념 (Flutter Widget Fundamental concept) (1/2)](https://brunch.co.kr/@mystoryg/136)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
