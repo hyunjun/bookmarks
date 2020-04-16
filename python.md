@@ -3432,6 +3432,7 @@ Python
   * [파이콘 한국 2019 스포카 코드 챌린지 수상작 및 참여작을 소개합니다](https://spoqa.github.io/2019/08/30/pycon-kr-code-challenge.html)
   * [LINE 개발자 3인의 파이콘 한국 2019 방문기](https://engineering.linecorp.com/ko/blog/pycon-korea-2019/)
 * [PyOhio 2019 Surviving Without Python](https://www.youtube.com/watch?v=nJ31ZNpxTis) python 전반
+* [us.pycon.org/2020](https://us.pycon.org/2020/online/)
 
 ## Conference PyData
 * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
