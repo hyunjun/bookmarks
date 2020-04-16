@@ -536,6 +536,7 @@ Apache
 * [링크드인은 왜 카프카를 만들었나](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS9400468504)
 * [Disaster Recovery Plans for Apache Kafka](https://www.slideshare.net/ConfluentInc/disaster-recovery-plans-for-apache-kafka)
 * [카프카 클러스터 클러스터ip DNS 연동방법. use_all_dns_ips 사용(in AWS, route53)](https://blog.voidmainvoid.net/327)
+* [Is Apache Kafka a Database? - The 2020 Update](https://dzone.com/articles/is-apache-kafka-a-database-the-2020-update)
 * [Kafka-client client.dns.lookup 옵션 정리](https://blog.voidmainvoid.net/331)
 
 ## Kafka Library
