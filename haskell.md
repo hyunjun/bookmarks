@@ -81,6 +81,8 @@ Haskell
 * [Implementing a minimal version of haskell-servant](http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
 * [Functors and monads for analyzing data](https://izbicki.me/blog/functors-and-monads-for-analyzing-data.html)
+* [Initial Algebra as Directed Colimit](https://bartoszmilewski.com/2020/04/09/initial-algebra-as-directed-colimit/) functor
+* [Functortown: A Map of the Territory](https://typeclasses.com/functortown)
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [Interactive contraint solving in Haskell](http://www.mattkeeter.com/projects/constraints/)
@@ -191,6 +193,18 @@ Haskell
 * [MatchString.hs](https://gist.github.com/ghjang/d8b5542730d64fbbc8268279431b3780)
 * [Regex?](https://rextester.com/PTSLI74648)
 * [Fighting spam with Haskell](https://engineering.fb.com/security/fighting-spam-with-haskell/)
+* [Micro C, Part 0](https://blog.josephmorag.com/posts/mcc0/)
+* [Micro C, Part 1](https://blog.josephmorag.com/posts/mcc1/)
+* [Polymorphic Perplexion](https://ucsd-progsys.github.io/liquidhaskell-blog/2020/04/12/polymorphic-perplexion.lhs/)
+* [Streaming the Redis replication stream](https://wjwh.eu/posts/2020-04-12-redis-conduit.html)
+* [Towards Faster Iteration in Industrial Haskell](https://blog.sumtypeofway.com/posts/fast-iteration-with-haskell.html)
+* [Performance comparison of parallel ray tracing in functional programming languages](https://github.com/athas/raytracers)
+
+# API
+* [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
+* [A Type-Safe Approach to Categorized Data](https://epeery.com/typesafe-approach-to-categorized-data/)
+* exception
+  * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
 
 # Book
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
@@ -234,6 +248,7 @@ Haskell
   * [Introducing Mu-Haskell v0.1](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
 * nix
   * [SF Scala: Enhancing Spark's Power with ZIO, Qubism and NLP at Scale, Using Nix for Haskell](https://www.youtube.com/watch?v=Ov7WZroBkv0)
+  * [Building a reproducible blog with Nix](https://blog.ysndr.de/posts/internals/2020-04-10-built-with-nix/)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
 * [rei - Process lists easily with](https://github.com/kerkomen/rei)
@@ -244,7 +259,7 @@ Haskell
   * [Why is stack not cabal?](https://www.fpcomplete.com/blog/2015/06/why-is-stack-not-cabal)
 * [turtle embeds shell scripting directly within Haskell](http://hackage.haskell.org/package/turtle-1.0.0/docs/Turtle-Tutorial.html)
 * [Twilio IVR - A fluent Twilio IVR library for Haskell](https://github.com/steven777400/TwilioIVR/)
-* Yesod
+* [Yesod Web Framework](https://github.com/yesodweb)
   * [Basics of Yesod](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/basics-of-yesod)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
 
@@ -253,6 +268,10 @@ Haskell
 * [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)
 * [Haskell Monads in 8 Minutes](https://www.youtube.com/watch?v=gEoruozy3mk)
 * [In Haskell, what does the phrase "monadic bind" mean?](https://www.quora.com/In-Haskell-what-does-the-phrase-monadic-bind-mean)
+
+# TDD, Test
+* [Rewriting to Haskell–Testing](https://odone.io/posts/2020-04-13-rewriting-haskell-testing.html)
+* [Servant Testing Helpers!](https://mmhaskell.com/blog/2020/3/30/servant-testing-helpers)
 
 # Test
 * [Porting the Pusher integration tests to Haskell](https://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
@@ -289,3 +308,5 @@ Haskell
   * [enshahar.com](http://enshahar.com/) 한글
 * [Haskell for impatient Scala developer: Getting into speed](https://msitko.pl/blog/2020/02/08/haskell-getting-into-speed.html)
 * [**진보하는 함수형 언어, Haskell (김재우)**](https://www.notion.so/Haskell-84c22c4bb40a46438dc6757424827fca)
+* [Why Haskell Matters](https://github.com/thma/WhyHaskellMatters)
+* [THINGS SOFTWARE ENGINEERS TRIP UP ON WHEN LEARNING HASKELL](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
