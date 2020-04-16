@@ -253,6 +253,7 @@ Scala
 * [How to publish a Scala library in GitHub Packages](https://medium.com/@supermanue/how-to-publish-a-scala-library-in-github-bfb0fa39c1e4)
 * [**스칼라의 동시성**](https://twitter.github.io/scala_school/ko/concurrency.html) 이전 버전을 다루기는 하지만 java thread부터의 설명이 좋음
 * [The Death of Hype: What's Next for Scala](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html) python의 편의성을 쫓아가려는 이야기가 시사하는 바가 있음
+* [Data Juggling - Part 12 - Juggling Functions](https://www.youtube.com/watch?v=M7AvYMnPdW8)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -271,7 +272,9 @@ Scala
 * [Rock Paper Scissor Game through Actor Model in Scala](https://medium.com/@karthikv1392/rock-paper-scissor-game-through-actor-model-in-scala-a8a1430f10ff)
 * [Actor Model 패턴의 구현(Java)](https://effectiveprogramming.tistory.com/entry/Actor-Model-패턴의-구현Java)
 * [Managing Congested Actors in Akka](https://dzone.com/articles/managing-congested-actors-akka)
-* [Data processing with Akka Actors: Part I](https://aleksandarskrbic.github.io/akka-actors-1/)
+* [akka-actors-blog](https://github.com/aleksandarskrbic/akka-actors-blog)
+  * [Data processing with Akka Actors: Part I](https://aleksandarskrbic.github.io/akka-actors-1/)
+  * [Data processing with Akka Actors: Part II](https://aleksandarskrbic.github.io/akka-actors-2/)
 * [Akka actors orchestration](https://blog.cacoveanu.com/2018/2018.05.06.09.00.akka.orchestration.html)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
@@ -421,6 +424,7 @@ Scala
 * [One step closer: exploiting locality in Akka Cluster based systems](https://manuel.bernhardt.io/2019/10/28/one-step-closer-exploiting-locality-in-akka-cluster-based-systems/)
 * [When do you need Akka Cluster?](https://blog.softwaremill.com/when-do-you-need-akka-cluster-5885d43e901b)
 * [Akka Cluster application design — untyped](https://medium.com/@reeebuuk/akka-cluster-application-design-2fd6e11cd7f2)
+* [How to co-locate Kafka Partitions with Akka Cluster Shards](https://akka.io/blog/news/2020/03/18/akka-sharding-kafka-video)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
@@ -435,6 +439,7 @@ Scala
 * [An introduction to Akka HTTP routing](https://medium.freecodecamp.org/an-introduction-to-akka-http-routing-697b00399cad)
 * [Configuring Github badges for a Scala project](https://medium.com/@canohueros75/configuring-github-badges-for-a-scala-project-87ef726028ea)
 * [Akka Http Client- How to create a Unit Test for Http Single Request in Scala](https://medium.com/swlh/akka-http-client-how-to-create-a-unit-test-for-http-single-request-in-scala-e115f2052802)
+* [Akka-http graceful shutdown](https://day-to-day-stuff.blogspot.com/2020/04/akka-http-graceful-shutdown.html)
 * [akka-http-memory-leak](https://github.com/jeroentervoorde/akka-http-memory-leak/)
 
 ## Akka Monitoring
@@ -767,6 +772,7 @@ Scala
 * [Scala UA](https://www.youtube.com/channel/UC_ZJvRHot6thpgqsXvtEvFg/videos)
 * [TMWL September’19 — Scala with JDK8, toString() method and ASCI art on the type level](https://blog.softwaremill.com/tmwl-september19-scala-with-jdk8-tostring-method-and-asci-art-on-the-type-level-c903cedfeab6)
 * [TMWL October’19 — Scala Steward, DB index and a React hack](https://blog.softwaremill.com/tmwl-october19-scala-steward-tables-in-db-index-and-a-react-hack-ec51e56aa581)
+* [TMWL March’20 — CNAMEs, data encryption, Scala book & extension to try](https://blog.softwaremill.com/tmwl-march20-cnames-data-encryption-scala-book-extension-to-try-178c13a57559)
 * [Typelevel Summit Boston, March 2018](https://www.youtube.com/playlist?list=PL_5uJkfWNxdl-qzhg3yjg7p5HPw_oHfpu)
 
 # IntelliJ
@@ -1364,6 +1370,9 @@ Scala
 * [Understanding `F[_]` in Scala](https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f)
 * [Exploring Type Annotations in Scala](https://www.geekabyte.io/2017/12/exploration-of-type-annotations-in-scala.html)
 * [Part 1: Application of literal and dependent object types in Scala 2.13](https://medium.com/@yevgennerush/part-1-application-of-literal-and-dependent-object-types-in-scala-2-13-62dbe4493dce)
+* [Typeclasses](https://francistoth.github.io/2020/04/09/typeclasses.html)
+* [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
+* [NewType is New Now!](https://medium.com/@afsal.taj06/newtype-is-new-now-63f1b632429d)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
