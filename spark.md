@@ -597,6 +597,11 @@
 * [Hail: Scalable Genomics Analysis with Apache Spark](http://blog.cloudera.com/blog/2017/05/hail-scalable-genomics-analysis-with-spark/)
   * Apache Spark로 유전체 분석을 수행하는 도구 인 Hail에 대한 개요
   * 샘플의 품질을 계산하고 간단한 게놈 차원의 연관 연구를 수행하는 예제 실행으로 시연하는 간단하고 강력한 프로그래밍 모델을 보유
+* [Hudi - Spark Library for Hadoop Upserts And Incrementals https://uber.github.io/hudi ](https://github.com/uber/hudi)
+  * [The Evolution of Uber’s 100+ Petabyte Big Data Platform](https://www.infoq.com/news/2018/11/uber-big-data-evolution)
+  * [Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop](https://eng.uber.com/marmaray-hadoop-ingestion-open-source/)
+  * [Peloton: Uber’s Unified Resource Scheduler for Diverse Cluster Workloads](https://eng.uber.com/peloton)
+  * [Building an analytical data lake with Apache Spark and Apache Hudi - Part 1](https://olivermascarenhas.com/2020-04-13-building-analytical-datalake-with-apache-spark-and-apache-hudi/)
 * Hydrogen
   * [Project Hydrogen: State of the Art Deep Learning on Apache Spark - Singapore Spark+AI Meetup](https://www.youtube.com/watch?v=lqACnjdhtgA)
 * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)

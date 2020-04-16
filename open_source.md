@@ -288,10 +288,6 @@ Open Source
   * SQL 기반의 스트리밍 분석 플랫폼(KSQL에 비견)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
-* [Hudi - Spark Library for Hadoop Upserts And Incrementals https://uber.github.io/hudi ](https://github.com/uber/hudi)
-  * [The Evolution of Uber’s 100+ Petabyte Big Data Platform](https://www.infoq.com/news/2018/11/uber-big-data-evolution)
-  * [Marmaray: An Open Source Generic Data Ingestion and Dispersal Framework and Library for Apache Hadoop](https://eng.uber.com/marmaray-hadoop-ingestion-open-source/)
-  * [Peloton: Uber’s Unified Resource Scheduler for Diverse Cluster Workloads](https://eng.uber.com/peloton)
 * [youtube 댓글 뷰어 만들기](https://brunch.co.kr/@skykamja24/220)
 
 # Walmart
