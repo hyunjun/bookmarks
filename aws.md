@@ -751,6 +751,7 @@ AWS
   * 5. Amazon SageMaker에 훈련 된 모델 배포
 * [클라우드 환경에서 머신러닝 서비스 프로토타입 빠르게 만들어보기](https://urbanbase.github.io/dev/2019/10/24/Machine-Learning-Prototype.html)
 * [Sagemaker에서 PyTorch를 활용한 딥러닝 이미지 분류 모델 학습 및 배포](https://urbanbase.github.io/dev/2019/12/17/Deep-Learning-Image-Classification.html)
+* [AWS Sagemaker Ground Truth로 훈련용 이미지를 편하게 분류하자](https://helloworld.kurly.com/blog/aws-ground-truth/)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
