@@ -746,6 +746,7 @@ Programming
 * [커머스 코드 자산화 개발일지 - 6 결제 대행 서비스를 테스트 대역으로](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-6-%EA%B2%B0%EC%A0%9C-%EB%8C%80%ED%96%89-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%85%8C/)
 * [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
 * [11 Reasons Why You Are Going To Fail With Microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
+* [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1660,6 +1661,7 @@ Programming
   * [기술 뉴스 #145 : 20-03-02](https://blog.outsider.ne.kr/1478)
   * [기술 뉴스 #146 : 20-03-15](https://blog.outsider.ne.kr/1479)
   * [기술 뉴스 #147 : 20-04-01](https://blog.outsider.ne.kr/1480)
+  * [기술 뉴스 #148 : 20-04-15](https://blog.outsider.ne.kr/1481)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
