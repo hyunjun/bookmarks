@@ -495,6 +495,7 @@ Vision
 * [CUDA를 사용하여 OpenCV DNN 실행하기!!](https://www.youtube.com/watch?v=Gfl6EyIhFvM)
 * [OpenCV를 사용하여 바닥에 놓인 트럼프 카드(Playing Card) 인식하기](https://webnautes.tistory.com/1399)
 * [Keras와 OpenCV를 사용하여 손글씨 숫자 인식하기](https://webnautes.tistory.com/1405)
+* [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
 # OpenGL
