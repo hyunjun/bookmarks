@@ -27,6 +27,7 @@ Apache
 * [Getting started with Apache Airflow](https://towardsdatascience.com/getting-started-with-apache-airflow-df1aa77d7b1b)
 * [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)
 * [Cloud Composer 에서 Airflow Web Server REST API 로 외부에서 DAG 트리거하기](https://chang12.github.io/composer-trigger-dag/)
+* [입 개발 airflow 의 schedule_interval 에 대해서](https://charsyam.wordpress.com/2020/04/16/%EC%9E%85-%EA%B0%9C%EB%B0%9C-airflow-%EC%9D%98-schedule_interval-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
