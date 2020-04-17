@@ -22,6 +22,8 @@ Vim
     ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")
     alias python_ctags="ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")"
     ```
+* join
+  * [How to join lines without producing a space?](https://vi.stackexchange.com/questions/439/how-to-join-lines-without-producing-a-space)
 * quickfix
   * [vim quickfix 기능 - 컴파일 에러 수정](http://sunyzero.tistory.com/223)
 * pbcopy/pbpaste
