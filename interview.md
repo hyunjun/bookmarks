@@ -169,6 +169,9 @@ Interview
 * [해외 기업과 면접과 보기 전에 반드시 알아야할 것](https://www.upfly.me/2019/09/19/what-to-know-before-interview/)
 * [Programming trick questions](https://qntm.org/trick)
 * [신입 개발자 면접 질문 시리즈](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1) 여러 주제를 전반적으로 다루는 데 꽤 괜찮음
+* [기술 면접 질문 기술 면접 예상 질문 대비하기 - 운영체제(OS)편](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-os.html)
+* [싱가폴 개발자 면접 최종까지 프로세스 정리](https://tacogrammer.com/%EC%8B%B1%EA%B0%80%ED%8F%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%B5%9C%EC%A2%85%EA%B9%8C%EC%A7%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A0%95%EB%A6%AC/)
+* [2019 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -364,6 +367,7 @@ Interview
   * [How Google searches one document among Billions of documents quickly?](https://www.youtube.com/watch?v=CeGtqouT8eA)
   * [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
   * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
+  * [인터뷰 : 시스템 / API 디자인](https://ko.programqa.com/question/14061381/)
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
@@ -451,6 +455,7 @@ Interview
 * [내가 문제풀이를 연습하는 방법](https://koosaga.com/217)
 * [PS를 공부하는 방법 (How to study Problem Solving?)](https://subinium.github.io/how-to-study-problem-solving/)
 * [알고리즘 공부 사이트/문제 추천](https://justicehui.github.io/study/2019/03/25/AlgorithmSite/)
+* [기술 면접 질문 기술 면접 예상 질문 대비하기 - 알고리즘(Algorithm)편](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-algorithm.html)
 * [나만의 알고리즘 채점 사이트 만들기(How To Make Online Judge Site)](https://www.youtube.com/playlist?list=PLRx0vPvlEmdCSBgU29ZEmxqTr4ge-MoN_)
 * [Interactive 문제란 무엇인가요?](https://subinium.github.io/interactive-problem-in-ps)
 * [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30)
