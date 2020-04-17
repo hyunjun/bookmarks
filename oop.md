@@ -154,6 +154,7 @@
 * [Entity, DTO, 그 사이의 ModelMapper 이야기](https://yonguri.tistory.com/entry/Entity-DTO-%EA%B7%B8-%EC%82%AC%EC%9D%B4%EC%9D%98-ModelMapper-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [디자인 패턴에서 말하는 투명성](http://sunphiz.me/wp/archives/3288)
 * [방문자 패턴 - Visitor pattern](https://thecodinglog.github.io/design/2019/10/29/visitor-pattern.html)
+* [기술 면접 질문 기술 면접 예상 질문 대비하기 - 디자인패턴(Design Pattern)편](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-designpattern.html)
 * [**MV-Whatever 정리**](https://blog.naver.com/jukrang/221597914483)
   * [M-V-Whatever 정리 - 1.MVC](https://blog.naver.com/jukrang/221414570067)
   * [MV-Whatever 정리 - 2. MVP](https://blog.naver.com/jukrang/221597910488)
