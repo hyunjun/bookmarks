@@ -15,6 +15,7 @@ Shell
 * [#testing #bash 간단한 assert](http://ohyecloudy.com/pnotes/archives/bash-simple-assert/)
 * [Functional and flexible shell scripting tricks](https://medium.freecodecamp.org/functional-and-flexible-shell-scripting-tricks-a2d693be2dd4)
 * [bash : 기초 : 셸의 역사, 종류](https://sunyzero.tistory.com/264) profile 참고
+* [5분 따라하기 bash 타임아웃 패턴](http://jhrogue.blogspot.com/2020/04/5-bash.html)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
