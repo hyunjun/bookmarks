@@ -212,6 +212,7 @@ Interview
 * [How To Nail the Amazon Interview: A Practical Guide](https://www.byte-by-byte.com/amazon-interview/)
 * [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
 * [토종 직장인의 AWS 입사 도전記](http://blog.creation.net/channy-cloud-clinic-ep3)
+* [아마존 인터뷰 후기 (Seattle SDE)](http://shadeofmeaning.blogspot.com/2019/04/seattle-sde.html)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -454,6 +455,7 @@ Interview
 * [Interactive 문제란 무엇인가요?](https://subinium.github.io/interactive-problem-in-ps)
 * [알고리즘에 고통받는 취준생을 위한 안내서](https://www.notion.so/4e7f47700af341f4b649e4cad0c4fb30)
   * [수비니움의 코딩일지](https://www.youtube.com/channel/UC8cvg1_oB-IDtWT2bfBC2OQ/videos)
+* [빅4 IT회사 알고리즘 인터뷰 준비하기](https://www.steeme.com/136)
 * [DAILY CODING PROBLEM ENG](https://www.youtube.com/playlist?list=PL9Db853UP18G_MdeGjgOmYpN9ExdrvHeq)
 * [10 free coding practice sites to step up your game (and even get hired)](https://www.beseen.com/blog/talent/free-coding-practice-sites)
 * [**10 Techniques to Master Coding Interview Questions**](https://levelup.gitconnected.com/10-techniques-to-master-coding-interview-questions-b3216d3d3920)
