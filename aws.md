@@ -667,6 +667,7 @@ AWS
 * [aws API Changes](https://awsapichanges.info)
 * [**Amazon Builders' Library Amazon의 소프트웨어 구축 및 운영 방식**](https://aws.amazon.com/ko/builders-library/)
 * [AWS CLI v2 - now generally available](https://aws.amazon.com/ko/blogs/developer/aws-cli-v2-is-now-generally-available/)
+* [aws-data-wrangler - Pandas on AWS https://aws-data-wrangler.readthedocs.io ](https://github.com/awslabs/aws-data-wrangler)
 * [AWSInterface - 몇번의 클릭만으로 API를 구성하고 SDK를 배포](https://aws-interface.com)
   * [Create and manage powerful backends with one click](https://github.com/hubaimaster/aws-interface)
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
