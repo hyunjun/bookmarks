@@ -242,6 +242,7 @@ Data Visualization
 * [파이썬 인구 데이터 분석, 제주도엔 정말 여자가 더 많을까?](https://stricky.tistory.com/218)
 * [제주도에 정말 여자가 많을까? 2편, 파이썬 인구 데이터 분석](https://stricky.tistory.com/237)
 * [Dataprep.eda : Accelerate your EDA (EDA 자동화 패키지)](https://eda-ai-lab.tistory.com/484)
+* [MODUCON 2019 서울 생활인구 데이터 사용법 - 박지민](https://www.youtube.com/watch?v=smw_dKPm3ow)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * Bokeh
