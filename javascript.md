@@ -2879,3 +2879,4 @@ Javascript
 * [List Rendering with Vue.js — Numbers, Components, and Templates](https://medium.com/javascript-in-plain-english/list-rendering-with-vue-js-numbers-components-and-templates-aa856f8ca95f)
 * [React aficionados! Start using Vue.js in four minutes or less!](https://robopress.robotsandpencils.com/react-aficionados-start-using-vue-js-in-four-minutes-or-less-4235f8c0a018)
 * [Is Vue.js going to take over React in 2020?](https://medium.com/swlh/is-vue-js-going-to-take-over-react-in-2020-929c19806ac)
+* [v-model의 동작 원리와 활용 방법](https://joshua1988.github.io/web-development/vuejs/v-model-usage/)
