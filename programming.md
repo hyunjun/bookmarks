@@ -1200,6 +1200,9 @@ Programming
 # Facebook
 * [publications](https://research.facebook.com/publications/)
 
+# Failure 실패
+* [개발자 비급(祕笈) – 3. 나의 폭망한 프로젝트 답사기](http://channy.creation.net/blog/1313) 파레토 Pareto 법칙, heavy user 분석 미비로 인한 프로젝트 실패 사례
+
 # Font
 * [최고의 무료 코딩 글꼴 20선 (개발 폰트/프로그래밍 글꼴)](http://blog.gaerae.com/2014/03/the-best-free-fonts-for-coding-programming.html)
 * [배달의민족 무료글꼴 한나.주아.도현체](http://www.woowahan.com/?page_id=3985)
