@@ -390,6 +390,9 @@ NoSQL
 
 # [RocketDB](http://rocketdb.io/)
 
+# RocksDB
+* [Libplanet RocksDB 적용기](https://snack.planetarium.dev/kor/2020/04/rocksdb/)
+
 # RYE
 * [rye, 샤딩을 지원하는 오픈소스 관계형 dbms](https://www.slideshare.net/deview/223rye-dbms)
 
