@@ -33,7 +33,6 @@ Regular Expression
 * [이것이 고급이다 - (Positive, Negative) Lookahead, Lookbehind](http://unlimitedpower.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EC%9D%B4%EA%B2%83%EC%9D%B4-%EA%B3%A0%EA%B8%89%EC%9D%B4%EB%8B%A4-Positive-Negative-Lookahead-Lookbehind)
 * [그룹(Group)이란 무엇인가?](http://unlimitedpower.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EA%B7%B8%EB%A3%B9Group%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 * [`.*`과 `.*?`의 차이점](http://unlimitedpower.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-%EA%B3%BC-%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
-* [regexper - JavaScript regular expression to display](https://regexper.com/)
 * [Regular Expression: Match Unicode Block Range](http://kourge.net/projects/regexp-unicode-block)
 * [regextester.com](http://www.regextester.com/)
 * [소수를 판별하는 정규식](https://johngrib.github.io/archivers/regex-prime) perl
@@ -63,6 +62,8 @@ Regular Expression
 * [초보자를 위한 정규 표현식 가이드 (자바스크립트 기준)](http://www.slideshare.net/ibare/ss-39274621)
 * [자바스크립트 정규표현식 코딩팁](https://taegon.kim/archives/6594)
 * [자바스크립트 정규표현식의 capturing group](https://rhostem.github.io/posts/2018-11-11-regex-capture-group/)
+* [The most surprising behavior of JavaScript regular expression you have ever seen](https://medium.com/javascript-in-plain-english/most-surprising-behavior-of-javascript-regular-expression-you-have-ever-seen-1ddb84539163)
+* [regexper - JavaScript regular expression to display](https://regexper.com/)
 
 # PHP
 * [php 한글 추출하기 정규식](http://dyong4614.dothome.co.kr/?folder=page&sub=bbs_view&current_gnb=gnb01&bbs=web&type=4&num=42&page=1)
