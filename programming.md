@@ -281,6 +281,7 @@ Programming
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-3편/) NGINX
 * [EOF is not a character](https://ruslanspivak.com/eofnotchar/)
 * [**5 Famous Programming Quotes, Explained**](https://medium.com/young-coder/5-famous-programming-quotes-explained-4da607906c1)
+* [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -352,6 +353,7 @@ Programming
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
 * [좌충우돌 API 함수 이름은 어떻게 짓는게 좋을까?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-api-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%93%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C/)
+* [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
@@ -1188,6 +1190,7 @@ Programming
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
+* [A service to help with testing of sending the right emails https://api.unverified.email ](https://github.com/ptek/api.unverified.email)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
   * [How To Manually Test Connectivity To IMAP/POP/SMTP Services](https://serverguy.com/kb/manually-test-connectivity-imap-pop-smtp-services/)
@@ -1590,6 +1593,9 @@ Programming
   * [3월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/03/b-3-2.html)
   * [3월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/03/b-3-3.html)
   * [3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/03/b-3-4.html)
+  * [4월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/04/b-4-1.html)
+  * [4월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/04/b-4-2.html)
+  * [4월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/04/b-4-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
