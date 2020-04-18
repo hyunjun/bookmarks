@@ -1032,6 +1032,8 @@ Java
 * [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
 * [Spring Batch의 멱등성 유지하기](https://jojoldu.tistory.com/451) 실행할 때마다 바뀔 수 있는 코드는 parameter로 넘겨주면 된다는 이야기
 * [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
+* [Spring Batch의 유니크 Job Parameter 활용하기](https://jojoldu.tistory.com/487)
+* [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
@@ -1093,7 +1095,6 @@ Java
 * [Spring Boot에서 JSON API에 XSS Filter 적용하기](https://jojoldu.tistory.com/470)
 * [Spring boot multi-module maven project example](https://howtodoinjava.com/spring-boot2/sb-multi-module-maven-project/)
 * [@RequestBody에 왜 기본 생성자는 필요하고, Setter는 필요 없을까? #1](https://velog.io/@conatuseus/RequestBody%EC%97%90-%EA%B8%B0%EB%B3%B8-%EC%83%9D%EC%84%B1%EC%9E%90%EB%8A%94-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80)
-* [Spring Batch의 유니크 Job Parameter 활용하기](https://jojoldu.tistory.com/487)
 * [SpringBoot, Liquibase and MariaDB](https://itnext.io/springboot-liquibase-and-mariadb-b3f943c29370)
 
 # Memory Leak, OOM, Out of memory
