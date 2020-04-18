@@ -853,6 +853,9 @@
 * [Spark Plugin Framework in 3.0 - Part 2 : Anatomy of the API](http://blog.madhukaraphatak.com/spark-plugin-part-2/)
 * [Spark Plugin Framework in 3.0 - Part 3 : Dynamic Stream Configuration using Driver Plugin](http://blog.madhukaraphatak.com/spark-plugin-part-3/)
 * [Spark Plugin Framework in 3.0 - Part 4 : Custom Metrics](http://blog.madhukaraphatak.com/spark-plugin-part-4/)
+* [Spark Plugin Framework in 3.0 - Part 5 : RPC Communication](http://blog.madhukaraphatak.com/spark-plugin-part-5/)
+* [Adaptive Query Execution in Spark 3.0 - Part 1 : Introduction](http://blog.madhukaraphatak.com/spark-aqe-part-1/)
+* [Adaptive Query Execution in Spark 3.0 - Part 2 : Optimising Shuffle Partitions](http://blog.madhukaraphatak.com/spark-aqe-part-2/)
 
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
