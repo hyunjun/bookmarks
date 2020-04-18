@@ -613,6 +613,7 @@ Java
 * [10 Important JVM Options for Production JAVA Application System](https://geekflare.com/important-jvm-options/)
 * [21 MOST IMPORTANT JAVA 8 VM OPTIONS FOR SERVERS](https://www.maknesium.de/21-most-important-java-8-vm-options-for-servers)
 * [Guide to the Most Important JVM Parameters](https://www.baeldung.com/jvm-parameters)
+* [7 JVM arguments of Highly Effective Applications](https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications/)
 
 ## JVM Profile
 * [자바 애플리케이션 성능 튜닝의 도(道)](https://d2.naver.com/helloworld/184615)
