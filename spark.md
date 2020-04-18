@@ -683,6 +683,7 @@
   * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
   * [Strata 2016 - This repo is for MLlib/GraphX tutorial in Strata 2016](https://github.com/jayantshekhar/strata-2016)
   * [Spark ML Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SparkML.md)
+  * [**Machine Learning with Spark (Spark로 머신러닝하기)**](https://moons08.github.io/programming/sparkML/)
   * [Apache Spark로 시작하는 머신러닝 입문](https://www.youtube.com/watch?v=PRLz11vv7VA)
     * [Apache Spark 입문에서 머신러닝까지](http://www.slideshare.net/DonamKim/apache-spark-64226109)
   * [Generating Recommendations at Amazon Scale with Apache Spark and Amazon DSSTNE](http://blogs.aws.amazon.com/bigdata/post/TxGEL8IJ0CAXTK/Generating-Recommendations-at-Amazon-Scale-with-Apache-Spark-and-Amazon-DSSTNE)
