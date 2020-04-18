@@ -78,12 +78,15 @@ App
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
 * [Pandoc - a universal document converter](https://pandoc.org/)
   * `pandoc <markdown filename> -f markdown -t html -s -o <html filename>`
+  * [**Writing a Book with Pandoc, Make, and Vim**](https://keleshev.com/my-book-writing-setup/)
 * pdf
   * pdf to text
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
     * [gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba](https://gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba)
   * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
+  * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
+  * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
@@ -448,6 +451,9 @@ App
     * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
     * [VS Code에서 나만의 Snippets 만들기](https://jojoldu.tistory.com/491)
     * [알아두면 쓸데있는 VSCode 노하우](https://jeonghwan-kim.github.io/dev/2020/04/05/vscode.html)
+    * [Visual Studio Online](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
+      * [Bring your own machine to Visual Studio Online](https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/)
+    * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
@@ -587,6 +593,7 @@ App
 * [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
 * [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
 * [12 Terminal Tips and Tricks Using macOS and HomeBrew](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb)
+* ['최소 비용에 최대 기능' 맥 사용자를 위한 무료 앱 30가지](http://www.itworld.co.kr/news/150073)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
@@ -904,6 +911,7 @@ App
 * [Master Markdown in Ten Minutes](https://medium.com/better-programming/master-markdown-in-ten-minutes-ce9721c51eb)
 * [Stop Using Markdown For Documentation](https://mister-gold.pro/posts/en/asciidoc-vs-markdown/) asciidoc
 * [When Markdown Meets Tables](https://blog.documentnode.io/when-markdown-meets-tables)
+* [6 Things Markdown Got Wrong](https://www.swyx.io/writing/markdown-mistakes/)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [hackmd.io](https://hackmd.io/) gist
@@ -1073,4 +1081,5 @@ App
   * [WSL2 will be generally available in Windows 10, version 2004](https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/)
   * [Using WSL to Build a Python Development Environment on Windows](https://pbpython.com/wsl-python.html)
   * [How To Protect Your WSL Distro More Firmly](https://medium.com/rkttu/do-not-install-your-wsl-distro-from-microsoft-store-a322b94e8e2)
+  * [Windows Subsystem for Linux 2 Moving into General Availability with Improved Update Process](https://www.infoq.com/news/2020/04/wsl-2-general-availability/)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
