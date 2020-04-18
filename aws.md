@@ -380,6 +380,7 @@ AWS
 * [SSM Agent vs. ssh 2탄](http://andromedarabbit.net/ssm-agent-vs-ssh-2%ED%83%84)
 * [AWS에서 NodeJS 환경 구축하고 NPM 모듈 설치하기](https://developer88.tistory.com/296)
 * [AWS FreeTier 제한 스펙과 사용량 확인하는 방법](https://developer88.tistory.com/295)
+* [AWS 서버리스 서비스를 이용한 웹 애플리케이션 구축하기 Hands-on Lab](https://github.com/bskim/AWSServerlessHoL-CI-CD)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
