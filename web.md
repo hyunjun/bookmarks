@@ -154,15 +154,11 @@ Web
 * [2018년, Mozilla Hacks Top 10](http://hacks.mozilla.or.kr/2019/01/mozilla-hacks-10-most-read-posts-of-2018/)
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
 * [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
-* [All you need to know about user session security](https://hackernoon.com/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
-* [GOTO 2019 • Common API Security Pitfalls • Philippe De Ryck](https://www.youtube.com/watch?v=Ss1tZjooo9I)
-* [CORS 실패 시, 응답 개체의 status는 왜 0일까?](https://huns.me/development/2297)
-* [How to protect your information with Local Sheriff](https://medium.freecodecamp.org/local-sheriff-watching-them-watching-us-5eacf3eb00ca) security
-* [The OWASP Top 10 – A Technical Deep-Dive into Web Security](https://www.freecodecamp.org/news/technical-dive-into-owasp/)
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
+* [Cookie Recipes](https://so-so.dev/web/cookie-recipes/)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
 * [**http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers**](https://github.com/for-GET/http-decision-diagram) flowchart로 http status code 반환값의 흐름을 파악
@@ -526,6 +522,7 @@ Web
 * [nginx no live upstream 에러 이해하기](https://brunch.co.kr/@alden/58)
 * [Nginx 웹서버 https 설정하기](https://www.youtube.com/watch?v=SjOEeW6gQlY)
 * [**proxy 뒤에서 docker의 wordpress, https 적용**](https://www.popit.kr/proxy-%EB%92%A4%EC%97%90%EC%84%9C-docker%EC%9D%98-wordpress-https-%EC%A0%81%EC%9A%A9/)
+* [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning/blob/master/README.md)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
@@ -682,6 +679,14 @@ Web
 # Reverse Proxy
 * [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
 * [Trafik - A modern reverse proxy](http://traefik.github.io/)
+
+# Security 보안
+* [All you need to know about user session security](https://hackernoon.com/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
+* [GOTO 2019 • Common API Security Pitfalls • Philippe De Ryck](https://www.youtube.com/watch?v=Ss1tZjooo9I)
+* [CORS 실패 시, 응답 개체의 status는 왜 0일까?](https://huns.me/development/2297)
+* [How to protect your information with Local Sheriff](https://medium.freecodecamp.org/local-sheriff-watching-them-watching-us-5eacf3eb00ca) security
+* [The OWASP Top 10 – A Technical Deep-Dive into Web Security](https://www.freecodecamp.org/news/technical-dive-into-owasp/)
+* [현대적 보안](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
 
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
