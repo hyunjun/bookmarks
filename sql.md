@@ -19,6 +19,7 @@ SQL
 * [**sqlfiddle.com**](http://sqlfiddle.com/)
 * [Solving Sudoku with SQL](http://www.developerfusion.com/article/84374/solving-sudoku-with-sql)
 * [Why the SQL Standard does not need another way to do GROUP BY](http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/)
+* [sql group by 응용 시험에 최소 1번 이상 통과한 사람과 그렇지 않은 사람 골라내기](https://codingdog.tistory.com/entry/sql-group-by-%EC%9D%91%EC%9A%A9-%EC%8B%9C%ED%97%98%EC%97%90-%EC%B5%9C%EC%86%8C-1%EB%B2%88-%EC%9D%B4%EC%83%81-%ED%86%B5%EA%B3%BC%ED%95%9C-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EA%B7%B8%EB%A0%87%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%82%AC%EB%9E%8C-%EA%B3%A8%EB%9D%BC%EB%82%B4%EA%B8%B0)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 * [Why your query language should be explicit](http://blog.hiphipjorge.com/why-your-database-should-be-explicit/)
 * [Advanced Queries With SQL That Will Save Your Time](https://towardsdatascience.com/advanced-queries-with-sql-that-will-save-your-time-48a45b7ca2e3)
