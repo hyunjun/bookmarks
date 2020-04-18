@@ -322,6 +322,7 @@ Linux
   * [아마존 웹 서비스 7 – 데몬 자동 부활주문서 monit](http://www.creativeworksofknowledge.com/2015/06/07/aws-daemon-monitoring-using-monit/)
 * `mv`
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
+  * [Rename files in linux / bash using mv command without typing the full name two times](https://gist.github.com/premek/6e70446cfc913d3c929d7cdbfe896fef)
 * nc
 
   ```
@@ -368,6 +369,7 @@ Linux
   * `rsync -avz --rsh="ssh -l [id]" [ip]:[src path] [dst path]`
     * daemon / ssh 방식 두 가지가 있는데, ssh의 경우 ssh public key를 추가해야 접속이 가능
   * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
+  * [rclone "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files https://rclone.org ](https://github.com/rclone/rclone)
 * `sar`
   * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
   * [practice - 지난 14일간 average CPU load + memory usage 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-test_sar-sh)
