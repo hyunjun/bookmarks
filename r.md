@@ -98,24 +98,6 @@ R
 * [R을 활용한 데이터 분석 #1 – R, 그것이 알고 싶다!](http://blog.ncsoft.com/?p=18487)
 * [R (1) 일원분산분석(one-way ANOVA) : aov()](http://rfriend.tistory.com/131)
 * [R 유니코드, 인코딩](https://statkclee.github.io/ds-authoring/regex-encoding.html)
-* [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
-* [Word Embeddings with Keras](https://tensorflow.rstudio.com/blog/word-embeddings-with-keras.html)
-* [딥러닝(Deep learning)을 R로 구현하기 – Prediction Model](https://pabii.co/deep-learning-by-r-prediction-model/)
-* [RUCK 2017 MxNet과 R을 연동한 딥러닝 소개](https://www.slideshare.net/r-kor/ruck-2017-mxnet-r)
-* [에이림 인공지능 - 딥러닝 + R](https://www.youtube.com/playlist?list=PLYk5N8x5KyVn-Qaqk0PKkHvF8NWm-lUyM)
-* [Data Science for Startups: Model Production](https://towardsdatascience.com/data-science-for-startups-model-production-b14a29b2f920)
-* [Tutorial: Deep Learning with R on Azure with Keras and CNTK](https://www.r-bloggers.com/tutorial-deep-learning-with-r-on-azure-with-keras-and-cntk)
-* [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html)
-  * tidyverse, keras, tfruns, shiny 라이브러리를 이용해서 텍스트 유사도 접근하는 방식에 대한 예제
-* [R에서 Keras 튜토리얼 돌려보기](https://lovetoken.github.io/r/machinelearning/keras/2018/06/02/keras_tutorial.html)
-* [speech-keras](https://github.com/dfalbel/speech-keras)
-* [R에서 구현한 Keras](https://www.youtube.com/watch?v=Iua-Z36J80A)
-* [Custom Loss functions for Deep Learning: Predicting Home Values with Keras for R](https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f)
-* [사전훈련망 Xception과 케라스 그리고 R Shiny 인공지능 시각화 R GO! #7하자!](https://www.youtube.com/watch?v=h-iscWhqrFo)
-* [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
-* [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
-* [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
-* [tensoRflow](https://github.com/issactoast/tensoRflow)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [R 노트북을 써보았다: 간단한 PCA](http://www.4four.us/article/2016/11/r-notebook-pca)
 * [정확한 처리 효과 분석을 위한 성향점수분석(PSA)](http://freesearch.pe.kr/archives/4377)
@@ -345,6 +327,7 @@ R
 * [최대우도법 1. (Maximum Likelihood Estimation)](https://www.youtube.com/watch?v=KefmJvzvcjM)
 * [Loops! Loops! Loops in R. A Microbenchmark](https://www.r-bloggers.com/loops-loops-loops-in-r-a-microbenchmark/)
 * [Model calibration with `crossval`](https://www.r-bloggers.com/model-calibration-with-crossval/)
+* [밑바닥부터 시작하는 ROC 커브 분석](https://bookdown.org/cardiomoon/roc/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
@@ -405,6 +388,27 @@ R
 * [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
 * [R USER CONFERENCE IN KOREA 2019 프로그램](http://ruck2019.r-kor.org/program/)
 
+# Deep Learning
+* [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
+* [Word Embeddings with Keras](https://tensorflow.rstudio.com/blog/word-embeddings-with-keras.html)
+* [딥러닝(Deep learning)을 R로 구현하기 – Prediction Model](https://pabii.co/deep-learning-by-r-prediction-model/)
+* [RUCK 2017 MxNet과 R을 연동한 딥러닝 소개](https://www.slideshare.net/r-kor/ruck-2017-mxnet-r)
+* [에이림 인공지능 - 딥러닝 + R](https://www.youtube.com/playlist?list=PLYk5N8x5KyVn-Qaqk0PKkHvF8NWm-lUyM)
+* [Data Science for Startups: Model Production](https://towardsdatascience.com/data-science-for-startups-model-production-b14a29b2f920)
+* [Tutorial: Deep Learning with R on Azure with Keras and CNTK](https://www.r-bloggers.com/tutorial-deep-learning-with-r-on-azure-with-keras-and-cntk)
+* [Classifying duplicate questions from Quora with Keras](https://tensorflow.rstudio.com/blog/keras-duplicate-questions-quora.html)
+  * tidyverse, keras, tfruns, shiny 라이브러리를 이용해서 텍스트 유사도 접근하는 방식에 대한 예제
+* [R에서 Keras 튜토리얼 돌려보기](https://lovetoken.github.io/r/machinelearning/keras/2018/06/02/keras_tutorial.html)
+* [R에서 구현한 Keras](https://www.youtube.com/watch?v=Iua-Z36J80A)
+* [Custom Loss functions for Deep Learning: Predicting Home Values with Keras for R](https://towardsdatascience.com/custom-loss-functions-for-deep-learning-predicting-home-values-with-keras-for-r-532c9e098d1f)
+* [사전훈련망 Xception과 케라스 그리고 R Shiny 인공지능 시각화 R GO! #7하자!](https://www.youtube.com/watch?v=h-iscWhqrFo)
+* [R TensorFlow 코드 깃헙 공개](http://freesearch.pe.kr/archives/4589)
+* [손으로 쓴 숫자 이미지를 판별하는 Deep Learning을 R로만 구현하자!](https://github.com/LOPES-HUFS/DeepLearningFromForR)
+* [speech-keras](https://github.com/dfalbel/speech-keras)
+* [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
+* [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
+* [tensoRflow](https://github.com/issactoast/tensoRflow)
+
 # Installation
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
 
@@ -426,6 +430,7 @@ R
 * [4 great free tools that can make your R work more efficient, reproducible and robust](https://www.r-bloggers.com/4-great-free-tools-that-can-make-your-r-work-more-efficient-reproducible-and-robust/)
 * [December 2019: “Top 40” New R Packages](https://www.r-bloggers.com/december-2019-top-40-new-r-packages/)
 * [R 플롯 팁 2 빅데이터 플롯과 알파](http://ds.sumeun.org/?p=2147)
+* [R) 패키지 문제해결](https://datadoctorblog.com/2020/04/18/R-package-troubleshooting/)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
