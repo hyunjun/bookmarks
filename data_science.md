@@ -257,6 +257,7 @@ Data Science
   * [blog.naver.com/tortellini](http://blog.naver.com/tortellini)
 * [A Reference Stack for Modern Data Science](https://medium.com/gyroscopesoftware/a-reference-stack-for-modern-data-science-4bd9fddcdc6b)
 * [Comprehensive Repository of Data Science and ML Resources](https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources)
+* [Top 10 Popular GitHub Repositories to learn about Data Science](https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44)
 * [If you’re a developer transitioning into data science, here are your best resources](https://medium.freecodecamp.org/if-youre-a-developer-transitioning-into-data-science-here-are-your-best-resources-c31928b53cd1)
 * [**How to Handle Missing Data**](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
 * [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
