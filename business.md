@@ -484,6 +484,7 @@ Business
 * [**스타트업, 서비스 개발자가 되자**](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)
 * [스타트업 3년 사용기](http://curioe.com/10)
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
+* [싸우지 않고 의사 결정을 하는 방법](https://brunch.co.kr/@svillustrated/78) 모든 옵션 작성. 데이터에 기반해 입장 정리. 각자 입장에 기반해 변증법을 이용해 토론. 동의하지 않아도 합의대로 이행
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
 * [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
 * [5년만에 7배 성장한 글로벌 테크IPO](https://estimastory.com/2019/04/13/techipo/) 2018 Top tech IPO 10개; 중국 5, 미국 3, 스웨덴(Spotify), 네덜란드(Adyen)
