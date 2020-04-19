@@ -243,6 +243,8 @@ Data Visualization
 * [제주도에 정말 여자가 많을까? 2편, 파이썬 인구 데이터 분석](https://stricky.tistory.com/237)
 * [Dataprep.eda : Accelerate your EDA (EDA 자동화 패키지)](https://eda-ai-lab.tistory.com/484)
 * [MODUCON 2019 서울 생활인구 데이터 사용법 - 박지민](https://www.youtube.com/watch?v=smw_dKPm3ow)
+* [파이썬 데이터 분석 실습 - 코로나바이러스 미국편 1부 (Python Data Analysis with COVID-19/Corona virus data in USA)](https://www.youtube.com/watch?v=FLLajW8MBm0)
+* [파이썬 데이터 분석 실습 - 코로나바이러스 미국편 2/2 (Python Data Analysis with COVID-19/Corona virus data in USA 2/2)](https://www.youtube.com/watch?v=GIZOiNIpEO4)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * Bokeh
