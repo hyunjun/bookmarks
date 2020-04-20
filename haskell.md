@@ -207,6 +207,7 @@ Haskell
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
 
 # Book
+* [gumroad.com/discover?query=haskell](https://gumroad.com/discover?query=haskell)
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
