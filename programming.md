@@ -1718,6 +1718,8 @@ Programming
 * [2020년 3월 29일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/03/b-2020-3-29.html)
 * [2020년 4월 4일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-4.html)
 * [2020년 4월 11일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-11.html) nginx, null, tmux 등
+* [2020년 4월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-18.html)
+  * AWS 비용을 줄일 수 있는 10가지 기법, MySQL 서버 로컬 접속에 유닉스 도메인 소켓을 사용해야 하는 이유, 윈도우 서브시스템 for 리눅스 2 GA, PHP The Right Way(한국어), 터보 파스칼보다 작은 소프트웨어
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
