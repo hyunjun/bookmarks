@@ -99,6 +99,7 @@ Time Series
   * [시계열 데이터를 분석하여 미래 예측(Anomaly Detection)](https://www.popit.kr/%EC%8B%9C%EA%B3%84%EC%97%B4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%98%EC%97%AC-%EB%AF%B8%EB%9E%98-%EC%98%88%EC%B8%A1-%ED%95%98%EA%B8%B0anomaly-detection/)
   * [Time Series Forecasting with Prophet](https://towardsdatascience.com/time-series-forecasting-with-prophet-54f2ac5e722e)
   * [Predicting the ‘Future’ with Facebook’s Prophet](https://towardsdatascience.com/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
+  * [시계열 예측 패키지 Prophet 소개](https://hyperconnect.github.io/2020/03/09/prophet-package.html)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [TimescaleDB](http://www.timescale.com)
