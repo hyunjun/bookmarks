@@ -18,8 +18,6 @@ SQL
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 * [**sqlfiddle.com**](http://sqlfiddle.com/)
 * [Solving Sudoku with SQL](http://www.developerfusion.com/article/84374/solving-sudoku-with-sql)
-* [Why the SQL Standard does not need another way to do GROUP BY](http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/)
-* [sql group by 응용 시험에 최소 1번 이상 통과한 사람과 그렇지 않은 사람 골라내기](https://codingdog.tistory.com/entry/sql-group-by-%EC%9D%91%EC%9A%A9-%EC%8B%9C%ED%97%98%EC%97%90-%EC%B5%9C%EC%86%8C-1%EB%B2%88-%EC%9D%B4%EC%83%81-%ED%86%B5%EA%B3%BC%ED%95%9C-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EA%B7%B8%EB%A0%87%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%82%AC%EB%9E%8C-%EA%B3%A8%EB%9D%BC%EB%82%B4%EA%B8%B0)
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 * [Why your query language should be explicit](http://blog.hiphipjorge.com/why-your-database-should-be-explicit/)
 * [Advanced Queries With SQL That Will Save Your Time](https://towardsdatascience.com/advanced-queries-with-sql-that-will-save-your-time-48a45b7ca2e3)
@@ -84,8 +82,6 @@ SQL
 * [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/heungrae_kim/db-like)
 * [코호트 분석(Cohort Analysis)을 SQL로 구현하는 테스트 코드](https://www.sangkon.com/using_sql_for_cohort/)
 * [Write-Ahead Log for Dummies](https://work.tinou.com/2012/09/write-ahead-log.html)
-* [**MySQL에서 'a' = 'a '가 true로 평가된다?**](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
-  * [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/blog/2018/02/26/sql-char-comparison/)
 * [번역 데이터 구조와 설계 — 튜토리얼](https://medium.com/@khwsc1/%EB%B2%88%EC%97%AD-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%84%A4%EA%B3%84-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-b25792a0aa86)
 * [sql 기본 강좌# 개념 파악 및 공부법 안내](https://stricky.tistory.com/202)
 * [sql 기본 강의 # select를 잘 이용하는 방법(1), 2편 -sTricky](https://stricky.tistory.com/204)
@@ -572,6 +568,13 @@ SQL
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 * [Yoke - a Postgres redundancy/auto-failover solution that provides a high-availability PostgreSQL cluster that's simple to manage](https://github.com/nanopack/yoke)
+
+# Query
+* [Why the SQL Standard does not need another way to do GROUP BY](http://glennpaulley.ca/conestoga/2015/05/why-the-sql-standard-does-not-need-another-way-to-do-group-by/)
+* [sql group by 응용 시험에 최소 1번 이상 통과한 사람과 그렇지 않은 사람 골라내기](https://codingdog.tistory.com/entry/sql-group-by-%EC%9D%91%EC%9A%A9-%EC%8B%9C%ED%97%98%EC%97%90-%EC%B5%9C%EC%86%8C-1%EB%B2%88-%EC%9D%B4%EC%83%81-%ED%86%B5%EA%B3%BC%ED%95%9C-%EC%82%AC%EB%9E%8C%EA%B3%BC-%EA%B7%B8%EB%A0%87%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%82%AC%EB%9E%8C-%EA%B3%A8%EB%9D%BC%EB%82%B4%EA%B8%B0)
+* [최대값 및 최소값 조회 (MAX, MIN 함수 대체방법)](https://sesok808.tistory.com/461)
+* [**MySQL에서 'a' = 'a '가 true로 평가된다?**](http://woowabros.github.io/study/2018/02/26/mysql-char-comparison.html)
+  * [MySQL에서 'a' = 'a '가 true로 평가된다?](https://johngrib.github.io/wiki/sql-char-comparison/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
