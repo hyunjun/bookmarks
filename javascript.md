@@ -2715,6 +2715,7 @@ Javascript
 * [카카오페이지 글로벌 웹 개발 후기](https://medium.com/@ljs0705/카카오페이지-글로벌-웹-개발-후기-d15402becaef)
 * [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/안심번호-마이크로서비스-개발하기-fb1a8817b059)
 * [API 호출 테스트 코드 작성 방법 (with Typescript)](https://imch.dev/posts/how-to-write-a-test-code-about-api-call-with-typescript)
+* [인터페이스만 사용하다가 클래스를 다시 보았다](https://jeonghwan-kim.github.io/dev/2020/04/18/interface-to-class.html)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
