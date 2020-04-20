@@ -849,6 +849,7 @@
 * [Introduction to Spark 3.0 - Part 5 : Easier Debugging of Cached Data Frames](http://blog.madhukaraphatak.com/spark-3-introduction-part-5/)
 * [Introduction to Spark 3.0 - Part 6 : Min and Max By Functions](http://blog.madhukaraphatak.com/spark-3-introduction-part-6/)
 * [Introduction to Spark 3.0 - Part 7 : Dynamic Allocation Without External Shuffle Service](http://blog.madhukaraphatak.com/spark-3-introduction-part-7/)
+* [Introduction to Spark 3.0 - Part 8 : DataFrame Tail Function](http://blog.madhukaraphatak.com/spark-3-introduction-part-8/)
 * [Spark Plugin Framework in 3.0 - Part 1: Introduction](http://blog.madhukaraphatak.com/spark-plugin-part-1/)
 * [Spark Plugin Framework in 3.0 - Part 2 : Anatomy of the API](http://blog.madhukaraphatak.com/spark-plugin-part-2/)
 * [Spark Plugin Framework in 3.0 - Part 3 : Dynamic Stream Configuration using Driver Plugin](http://blog.madhukaraphatak.com/spark-plugin-part-3/)
