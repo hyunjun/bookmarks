@@ -737,6 +737,7 @@ Scala
 * [Creative Scala](https://www.creativescala.org/)
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+* [Hands-on Scala Programming](https://www.handsonscala.com/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
 * [The Science of Functional Programming](https://github.com/winitzki/sofp)
@@ -1124,6 +1125,7 @@ Scala
   * [Play json > tuple 21 macros](https://gist.github.com/joprice/d9bad5ca2d2ef68fca73)
   * [Play-Json extensions](https://github.com/xdotai/play-json-extensions)
   * [practice - sealed trait - sealed class/companion object - final case class + json de/serialization](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
+  * [Play Framework using Scala](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
