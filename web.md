@@ -523,6 +523,7 @@ Web
 * [Nginx 웹서버 https 설정하기](https://www.youtube.com/watch?v=SjOEeW6gQlY)
 * [**proxy 뒤에서 docker의 wordpress, https 적용**](https://www.popit.kr/proxy-%EB%92%A4%EC%97%90%EC%84%9C-docker%EC%9D%98-wordpress-https-%EC%A0%81%EC%9A%A9/)
 * [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning/blob/master/README.md)
+* [**NGINX에 대한 정리**](https://developer88.tistory.com/299)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
