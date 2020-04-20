@@ -443,6 +443,7 @@ Interview
 * [구글 면접 후기](https://norang.io/diary/interview_review/)
 * [Acing the Google Interview: The Ultimate Guide](https://www.byte-by-byte.com/google-interview/)
 * [Google Coding Interview With A Competitive Programmer](https://www.youtube.com/watch?v=EuPSibuIKIg)
+* [번역 구글 기술면접, 야 너두 할 수 있어!](https://baeharam.netlify.app/posts/interview/%EA%B5%AC%EA%B8%80-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%95%BC-%EB%84%88%EB%91%90-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4!)
 
 # Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
