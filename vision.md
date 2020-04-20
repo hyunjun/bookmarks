@@ -496,6 +496,7 @@ Vision
 * [OpenCV를 사용하여 바닥에 놓인 트럼프 카드(Playing Card) 인식하기](https://webnautes.tistory.com/1399)
 * [Keras와 OpenCV를 사용하여 손글씨 숫자 인식하기](https://webnautes.tistory.com/1405)
 * [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python)
+* [특별강의 Face Detection 3대 기법](https://www.youtube.com/watch?v=M2QAKxOGCCk)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
 # OpenGL
@@ -539,6 +540,7 @@ Vision
 * [파이썬 이미지 프로세싱 (4)](https://brunch.co.kr/@mystoryg/72)
 * [파이썬 이미지 프로세싱 (5)](https://brunch.co.kr/@mystoryg/73)
 * [프로젝트 기록 - 실전 딥러닝용 이미지 전처리](https://theeluwin.postype.com/post/6488879)
+* [Tea Time! ☕️ Computer Vision #1: keras + CNN + MNIST + Colab](https://www.youtube.com/watch?v=o3ERJ_7_0pg)
 * [Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad/)
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
   * [빈 주차공간 찾아서 알려주는 인공지능 만든 개발자](https://smartaedi.tistory.com/368)
