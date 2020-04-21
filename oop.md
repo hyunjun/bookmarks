@@ -201,6 +201,7 @@
 * [Object Creation Patterns in JavaScript](https://medium.com/developers-arena/object-creation-patterns-in-javascript-8922d52fad2c)
 * [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 * [Commonly Used Design Patterns in JavaScript](https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002)
+* [The Decorator Design Pattern in JavaScript](https://medium.com/javascript-in-plain-english/the-decorator-design-pattern-in-javascript-6aee27837dbd)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
