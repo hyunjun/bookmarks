@@ -406,6 +406,7 @@ Python
 * [Minimizing context switching between shell and Python](https://www.johndcook.com/blog/2019/12/30/shell-and-python/)
 * [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
 * [파이썬을 올바르게, 현명하게 설치하는 방법](http://www.itworld.co.kr/news/146358)
+* [Semantic Differences Between JavaScript and Python](https://medium.com/better-programming/semantic-differences-between-javascript-and-python-ed21b1f3ce50)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1382,6 +1383,7 @@ Python
   * [Start Python Debugging With pdb](https://www.youtube.com/watch?v=bHx8A8tbj2c)
   * [Debugging in Python](https://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/)
   * [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
+  * [Debugging in Python — A cakewalk with pdb](https://medium.com/python-features/debugging-in-python-a-cakewalk-with-pdb-cd748ca62ee7)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
 
 # Docker
@@ -3508,6 +3510,7 @@ Python
 * [Cool New Features in Python 3.8](https://realpython.com/python38-new-features/)
 * [놓쳐서는 안 될' 파이썬의 새로운 기능 6가지](http://www.itworld.co.kr/news/142374) 3.8
 * [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
+* [Dictionary Merging and Updating in Python 3.9](https://medium.com/better-programming/dictionary-merging-and-updating-in-python-3-9-4ac67c667ce)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)
