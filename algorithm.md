@@ -301,6 +301,9 @@ Algorithm
 * [Dynamic Programming Patterns](https://leetcode.com/discuss/general-discussion/458695/dynamic-programming-patterns)
 * [부분 문제 그리고 메모이제이션 : 다이나믹 프로그래밍 할 때 많이 나오는 데 무엇일까요?](https://codingdog.tistory.com/entry/부분-문제-그리고-메모이제이션-다이나믹-프로그래밍-할-때-많이-나오는-데-무엇일까요)
 * [Dynamic Programming Playlist | Coding | Interview Questions | Tutorials | Algorithm | By Flipkart SDE](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+* [Dynamic Programming | Algorithms & Data Structures | Programming Tutorials | GeeksforGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
+* [My experience and notes for learning DP](https://leetcode.com/discuss/general-discussion/475924/my-experience-and-notes-for-learning-dp)
+* [Obvious Dynamic Programming](https://towardsdatascience.com/obvious-dynamic-programming-part-i-553ae1740c67)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
