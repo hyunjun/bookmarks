@@ -854,6 +854,8 @@ Docker
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
+* [hadolint - Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)
+  * [Dockerfile 정적분석하기 (hadolint)](https://qiita.com/leechungkyu/items/50976861ae1faecaaafd)
 * [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
