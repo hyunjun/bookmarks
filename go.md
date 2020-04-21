@@ -469,6 +469,7 @@ Go
 * [shadowd is the secure login distribution service, which consists of two parts: server and client](https://github.com/reconquest/shadowd)
 * [shiori - Simple bookmark manager built with Go](https://github.com/go-shiori/shiori)
 * [short - URL shortening service written in Go and React https://s.time4hacks.com ](https://github.com/byliuyang/short)
+* [short - URL shortening service written in Go and React https://short-d.com](https://github.com/short-d/short)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
