@@ -62,6 +62,7 @@
 * [**OOP의 추상화(Abstraction)와 다형성(Polymorphism)의 관계**](https://wlaxhrl.tistory.com/78)
 * [Why does object-oriented programming mean so many different things to different people?](https://www.quora.com/Why-does-object-oriented-programming-mean-so-many-different-things-to-different-people)
 * [Gamma Structural Patterns](https://medium.com/@helmi.confo/gamma-structural-patterns-e03465bff4f8)
+* [Behavioral Design Pattern: State](https://medium.com/swlh/behavioral-design-pattern-state-d908192fe7e)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
