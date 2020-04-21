@@ -572,6 +572,7 @@ Programming
 * [Beyond Microservices: Streams, State and Scalability](https://www.youtube.com/watch?v=d_3-EUs_gBo)
   * [Beyond Microservices: Streams, State and Scalability](https://www.infoq.com/presentations/microservices-streams-state-scalability/)
 * [Rewriting the heart of our sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)
+* [**Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud**](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -642,6 +643,7 @@ Programming
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [Service Mesh 란?](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
 * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
+* [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
@@ -1866,6 +1868,7 @@ Programming
   * [gRPC Channel, Stream 개념](http://bcho.tistory.com/1294)
   * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
   * [Microservices with gRPC](https://medium.com/@goinhacker/microservices-with-grpc-d504133d191d)
+  * [Understanding gRPC](https://medium.com/better-programming/understanding-grpc-60737b23e79e)
 * [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
   * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
 
