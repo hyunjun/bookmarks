@@ -417,6 +417,7 @@ App
     * [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
     * [How I configure VSCode for Everything](https://hackernoon.com/how-i-configure-vscode-for-everything-7df65a316a52)
     * [How to set up the debugger for Chrome extension in Visual Studio Code](https://medium.freecodecamp.org/how-to-set-up-the-debugger-for-chrome-extension-in-visual-studio-code-c0b3e5937c01)
+    * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
     * [Vscode 플러그인 리팩토링 - async & await](https://kdinner.tistory.com/46)
     * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
     * [Building Python Web Applications with Visual Studio Code Docker and Azure - BRK3020](https://www.youtube.com/watch?v=eUitxqLxICo)
