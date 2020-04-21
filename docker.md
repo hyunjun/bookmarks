@@ -755,6 +755,8 @@ Docker
 * [**Kubernetes Service 클라우드 시장의 대세, 쿠버네티스란 무엇인가?**](https://www.youtube.com/watch?v=JNc11rxLtmE)
 * [쿠버네티스 차근차근 다지기(Full영상) ::: IBM Developer 밋업](https://www.youtube.com/watch?v=l42GttmnnZ4)
 * [**Kubernetes 환경을 위한 자바 에이전트 개발기**](https://hyperconnect.github.io/2020/03/25/kube-agent.html)
+* [Kubernetes & 12-factor apps](https://medium.com/ibm-cloud/kubernetes-12-factor-apps-555a9a308caf)
+* [7 missing factors from 12 factor application](https://medium.com/ibm-cloud/7-missing-factors-from-12-factor-application-2a3e1169bd9d)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
