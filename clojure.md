@@ -466,6 +466,7 @@ Clojure
   * [Developing (with) Keechma – Mihael Konjevic](https://www.youtube.com/watch?v=2BF6yKIpXmM&list=PLetHPRQvX4a9iZk-buMQfdxZm72UnP3C9)
 * kinsky
   * [github.com/eunmin/kinsky-example](https://github.com/eunmin/kinsky-example)
+* [krell - Stand alone, low configuration ClojureScript tooling for React Native](https://github.com/vouch-opensource/krell)
 * [modern-cljs - A series of tutorials on ClojureScript](https://github.com/magomimmo/modern-cljs)
 * [natal - Bootstrap ClojureScript React Native apps](https://github.com/dmotz/natal)
 * [Om - Driving React Native with ClojureScript](https://www.youtube.com/watch?v=Dt2zNemLCCk)
