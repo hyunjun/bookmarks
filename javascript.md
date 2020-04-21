@@ -552,6 +552,7 @@ Javascript
 * [컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
 * [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
 * [How to use the JavaScript Native Notifications API](https://medium.com/javascript-in-plain-english/javascript-native-notifications-b579229fcb2e)
+* [More Handy JavaScript Shorthands](https://medium.com/swlh/more-handy-javascript-shorthands-9c08805d5f55)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -664,6 +665,7 @@ Javascript
 * [10 Useful Angular Features You’ve Probably Never Used](https://blog.bitsrc.io/10-useful-angular-features-youve-probably-never-used-e9e33f5c35a7)
 * [Angular 8 — Share Component Data with Other Components](https://levelup.gitconnected.com/angular-7-share-component-data-with-other-components-1b91d6f0b93f)
 * [RxJS in Angular: Part I](https://medium.com/angular-in-depth/rxjs-in-angular-part-1c5409610d8e)
+* [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -2214,6 +2216,7 @@ Javascript
 * [React-Ajax](https://opentutorials.org/module/4549)
   * [React-Ajax](https://www.youtube.com/playlist?list=PLuHgQVnccGMDVTrQYa2HRj1OBbT-4HU_v)
 * [React Developer Tools를 이용한 컴포넌트 렌더링 이해와 배포](https://blog.naver.com/pjt3591oo/221907792621)
+* [Composable Reactive UI — Preview](https://medium.com/better-programming/composable-reactive-ui-preview-d197cbbc0a71)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2325,6 +2328,7 @@ Javascript
 * [Meet Doctor, a new React Native command](https://facebook.github.io/react-native/blog/2019/11/18/react-native-doctor.html)
 * [Build a Brain Computer App with React Native (Part 2) - Live Coding with Jesse](https://www.youtube.com/watch?v=SZ8Kz4YvWUE)
 * [React Native Learnings](https://medium.com/@srinuch1981/react-native-learnings-367e252c1900)
+* [React Native: Background Task Management in iOS](https://medium.com/@rossbulat/react-native-background-task-management-in-ios-d0f05ae53cc5)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -2887,3 +2891,4 @@ Javascript
 * [React aficionados! Start using Vue.js in four minutes or less!](https://robopress.robotsandpencils.com/react-aficionados-start-using-vue-js-in-four-minutes-or-less-4235f8c0a018)
 * [Is Vue.js going to take over React in 2020?](https://medium.com/swlh/is-vue-js-going-to-take-over-react-in-2020-929c19806ac)
 * [v-model의 동작 원리와 활용 방법](https://joshua1988.github.io/web-development/vuejs/v-model-usage/)
+* [Introduction to Vue.js Components](https://levelup.gitconnected.com/introduction-to-vue-js-components-5ede029133f5)
