@@ -472,6 +472,7 @@ Scala
 * [WebSocket Streaming with Scala - How Akka Streams can make life easier](https://towardsdatascience.com/websocket-streaming-with-scala-fab2feb11868)
 * [Akka Streams: error handling in event processing pipelines](https://medium.com/@bszwej/akka-streams-error-handling-7ff9cc01bc12)
 * [Enriching OCR with Akka Streams](https://towardsdatascience.com/enriching-ocr-with-akka-streams-7e48990be929)
+* [Scaling ETL with Scala](https://medium.com/protenus/scaling-etl-with-scala-6c317d77fd82)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
