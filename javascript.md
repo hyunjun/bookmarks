@@ -499,6 +499,7 @@ Javascript
 * [How to use the apply(💅), call(📞), and bind(➰) methods in JavaScript](https://medium.freecodecamp.org/how-to-use-the-apply-call-and-bind-methods-in-javascript-80a8e6096a90)
 * [When to capitalize your JavaScript constants](https://medium.freecodecamp.org/when-to-capitalize-your-javascript-constants-4fabc0a4a4c4)
 * [Here are the most popular ways to make an HTTP request in JavaScript](https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa)
+* [Comparing different ways to make HTTP requests in Javascript in 2020](https://medium.com/javascript-in-plain-english/comparing-different-ways-to-make-http-requests-in-javascript-39ab0f090788)
 * [JavaScript naming conventions: do’s and don’ts](https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a)
 * [JavaScript Symbols: But Why?](https://medium.com/intrinsic/javascript-symbols-but-why-6b02768f4a5c)
 * [How I established a good release process in JavaScript](https://medium.freecodecamp.org/how-i-established-a-good-release-process-in-javascript-b93e57e247e1)
@@ -553,6 +554,8 @@ Javascript
 * [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
 * [How to use the JavaScript Native Notifications API](https://medium.com/javascript-in-plain-english/javascript-native-notifications-b579229fcb2e)
 * [More Handy JavaScript Shorthands](https://medium.com/swlh/more-handy-javascript-shorthands-9c08805d5f55)
+* [Why it’s Time to Stop Using JavaScript IIFEs?](https://levelup.gitconnected.com/why-its-time-to-stop-using-javascript-iifes-b62602f25bfc)
+* [3 Foundational JavaScript Ideas You Need to Upgrade From Tutorial Training Wheels](https://medium.com/better-programming/3-foundational-javascript-ideas-you-need-to-upgrade-to-pro-status-de7e7966d7c2)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1005,6 +1008,7 @@ Javascript
 * [2020년 눈여겨 볼만한 프런트엔드 프레임워크](https://uznam8x.tistory.com/entry/2020%EB%85%84-%EB%88%88%EC%97%AC%EA%B2%A8-%EB%B3%BC%EB%A7%8C%ED%95%9C-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
 * [Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
 * [Top 5 In-Demand JavaScript Frameworks for Front-End Development in 2020](https://medium.com/javascript-in-plain-english/top-5-in-demand-javascript-frameworks-for-front-end-development-in-2020-a59c4340d082)
+* [Top 10 JavaScript Frameworks for Server Side Development in 2020](https://medium.com/javascript-in-plain-english/top-10-javascript-frameworks-for-server-side-development-in-2020-6d265016c02)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
