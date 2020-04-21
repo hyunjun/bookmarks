@@ -1117,6 +1117,7 @@ Machine Learning
   * [SMOTE를 통한 데이터 불균형 처리](https://mkjjo.github.io/python/2019/01/04/smote_duplicate.html) oversampling 기법의 하나
   * [Two hours later and still running? How to keep your sklearn.fit under control](https://medium.com/free-code-camp/two-hours-later-and-still-running-how-to-keep-your-sklearn-fit-under-control-cc603dc1283b)
   * [sklearn의 train_test_split() 사용법](https://blog.naver.com/siniphia/221396370872)
+  * [from sklearn import \*](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
