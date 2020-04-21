@@ -161,6 +161,7 @@ App
 * [Bootstrap과 Showdown을 이용한 초간단 CMS](https://code.shoplic.kr/simple-markdown-cms)
 * [무료로 내 블로그에 SSL HTTPS 적용하기](https://suitee.me/2019/02/13/how-to-setup-free-ssl/)
 * [**기술 블로그(Engineering Blog)란?**](https://www.44bits.io/ko/keyword/engineering-blog) 각종 블로깅 도구 소개 + 기술 블로그 전반적인 이야기
+* [RSS로 블로그를 한 번에 백업하자](https://blog.chosunghyun.com/kr-backup-with-rss/)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
