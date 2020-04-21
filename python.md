@@ -1014,6 +1014,7 @@ Python
   * [practice - basic example](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-python_smtplib-md)
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
   * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
+  * [How to Send an Email With Attachments in Python](https://medium.com/better-programming/how-to-send-an-email-with-attachments-in-python-abe3b957ecf3)
 * socket
   * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
   * [High-performance Networking with Python](https://www.pycon.kr/2016apac/program/23)
@@ -2820,9 +2821,6 @@ Python
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
   * [High performance networking in Python (Yury Selivanov)](https://www.youtube.com/watch?v=WSq0S7UvI8E)
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
-* [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
-  * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
-  * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
@@ -3236,7 +3234,10 @@ Python
 * [판다스 튜토리얼 - 10분안에 못 끝내는 분량 10분안에 끝내기](https://blog.naver.com/pjt3591oo/221903688044)
 * [Tidy Animated Verbs](https://github.com/gadenbuie/tidyexplain)
   * ["Tidy Animated Verbs" in Python pandas](https://nbviewer.jupyter.org/gist/FinanceData/8156bd53ea3a36c88cb146e43d4da411)
-* [vaex - Out-of-Core DataFrames for Python, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex)
+* [How to Export Pandas DataFrame to CSV](https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03)
+* [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
+  * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
+  * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
   * [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
 
 # Podcast
