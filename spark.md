@@ -927,6 +927,7 @@
 * [State Storage in Spark Structured Streaming](https://medium.com/@polarpersonal/state-storage-in-spark-structured-streaming-e5c8af7bf509)
 * [State Management in Spark Structured Streaming](https://medium.com/@chandanbaranwal/state-management-in-spark-structured-streaming-aaa87b6c9d31)
 * [Watermarking in Spark Structured Streaming](https://towardsdatascience.com/watermarking-in-spark-structured-streaming-9e164f373e9)
+* [Structured streaming in a flash](https://medium.com/@johankok/structured-streaming-in-a-flash-576cdb17bbee)
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
