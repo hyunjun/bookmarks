@@ -778,6 +778,7 @@ Apache
 * [Using Apache NiFi for Speech Processing: Speech to Text with Mozilla/Baidu's Deep Search in Tensorflow](https://community.hortonworks.com/articles/229305/using-apache-nifi-for-speech-processing-speech-to.html?es_p=9430533)
 * [NiFi & NiFi Registry on the Google Cloud Platform with Cloud Source Repositories](https://pierrevillard.com/2019/07/02/nifi-and-nifi-registry-on-the-google-cloud-platform-with-cloud-source-repositories/)
 * [**Building Data Pipelines on Apache NiFi with Python**](https://speakerdeck.com/sucitw/building-data-pipelines-on-apache-nifi-with-python) introduction인데 내용이 정말 풍부함
+* [How Apache Nifi works — surf on your dataflow, don’t drown in it](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
 
 # [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
