@@ -1072,6 +1072,7 @@ Scala
   * [Airframe Log: A Modern Logging Library for Scala](https://medium.com/airframe/airframe-log-a-modern-logging-library-for-scala-56fbc2f950bc)
 * [Logback - intended as a successor to the popular log4j project](https://logback.qos.ch/)
   * [Conditional logging with Logback in Scala](http://blog.knoldus.com/2015/04/16/conditional-logging-with-logback-in-scala/)
+  * [logback 설정하기](https://taetaetae.github.io/2017/02/19/logback/)
 * [LogStage - a zero-cost structural logging framework for Scala & Scala.js](https://izumi.7mind.io/latest/release/doc/logstage/index.html)
   * [LogStage: zero-cost structured logging in Scala. Part 1: Overview](https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-1-overview-d39e56d4acf2)
   * [LogStage: zero-cost structured logging in Scala. Part 2: Practical example](https://medium.com/@rtwnk/logstage-zero-cost-structured-logging-in-scala-part-2-practical-example-3ef27e67e7ee)
@@ -1449,3 +1450,4 @@ Scala
 * [Checklist for learning Scala](https://medium.com/@horiaconstantin/checklist-for-learning-scala-66bfe6d1ac2b)
 * [Scala for Python developers](https://medium.com/@antoine.doeraene/scala-for-python-developers-93f3755f60d1)
 * [Intro to Scala Fundamentals](https://github.com/wjlow/intro-to-scala)
+* [2020 Spring KAIST CS320 Scala Sessions](https://www.youtube.com/playlist?list=PLLfImqsGCdw0QVs_-DXXVj57xGJK1e3b8)
