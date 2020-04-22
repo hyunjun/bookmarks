@@ -210,6 +210,7 @@ Java
   * [JVM Anatomy Quark #10: String.intern()](https://shipilev.net/jvm/anatomy-quarks/10-string-intern/)
   * [JEP 192: String Deduplication in G1](http://openjdk.java.net/jeps/192)
   * [Why does storing a long string cause an OOM error but a breaking it into a list of short strings does not?](https://stackoverflow.com/questions/45406035/why-does-storing-a-long-string-cause-an-oom-error-but-a-breaking-it-into-a-list)
+  * [java의 String은 이모지를 어떻게 저장할까요](https://codingdog.tistory.com/entry/java%EC%9D%98-String%EC%9D%80-%EC%9D%B4%EB%AA%A8%EC%A7%80%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%80%EC%9E%A5%ED%95%A0%EA%B9%8C%EC%9A%94)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
