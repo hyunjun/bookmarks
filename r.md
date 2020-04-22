@@ -24,7 +24,6 @@ R
   * [4. 멀티 터치 기여도 모델](http://blog.ab180.co/data-science-with-r-4-multi-touch-attribution/)
   * [5. 크로스 디바이스 매칭(Cross Device Matching)](http://blog.ab180.co/data-science-with-r-5-cross-device-matching/)
   * [6. RTB란?](http://blog.ab180.co/data-science-with-r-6-rtb/)
-* [R Tutorial Series - 100+ Free Tutorials](https://data-flair.training/blogs/r-tutorials-home/)
 * [Accelerating Analysis with Parallelism](http://www.analyticbridge.com/profiles/blogs/accelerating-analysis-with-parallelism)
 * [Parallelism, R, and OpenMP](http://wrathematics.github.io/RparallelGuide/)
 * [GPU-Accelerated R in the Cloud with Teraproc Cluster-as-a-Service](http://devblogs.nvidia.com/parallelforall/gpu-accelerated-r-cloud-teraproc-cluster-service/)
@@ -147,7 +146,6 @@ R
 * [Introduction to Neurohacking In R](https://www.coursera.org/learn/neurohacking/)
 * [rOpenSci Text Workshop 참석 후기](http://freesearch.pe.kr/archives/4607)
 * [R에서 행렬 간 이루어지는 다양한 곱셈에 대해 알아보기 (행렬의 곱셈, 하다마드 곱셈, 크로네커 곱셈)](https://lovetoken.github.io/r/2017/05/30/MatrixProduct.html)
-* [Tutorial: Data Wrangling and Mapping in R](https://medium.com/towards-data-science/tutorial-data-wrangling-and-mapping-in-r-ec828acc8073)
 * [Data Cleaning and Wrangling With R](https://www.datasciencecentral.com/profiles/blogs/data-cleaning-and-wrangling-with-r)
 * 능선회귀분석 with R
   * [1. 데이터 마련하기](http://www.issactoast.com/79)
@@ -269,7 +267,6 @@ R
 * [긴 형태(Long form),넓은 형태(Wide form) 변환](http://ds.sumeun.org/?p=930)
 * [가로형/세로형 변환(RESHAPE2::MELT/DCAST)](http://ds.sumeun.org/?p=948)
 * [USEFUL R BASE FUNCTIONS](http://lumiamitie.github.io/r/useful-r-base-fun/)
-* [R Programming For Beginners | R Language Tutorial | R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU)
 * [수 표기 방법](http://ds.sumeun.org/?p=1052)
 * [Using RStudio and Git version control](https://www.r-bloggers.com/using-rstudio-and-git-version-control/)
 * [Sentiment Analysis, Word Embedding, and Topic Modeling on Venom Reviews](https://www.r-bloggers.com/sentiment-analysis-word-embedding-and-topic-modeling-on-venom-reviews/)
@@ -699,6 +696,10 @@ R
 # Tutorial
 * [R 데이터 매니지먼트: 기초](https://blog.zarathu.com/posts/2020-02-16-rdatamanagement-basic/)
 * [R로 배우는 통계](https://www.theissaclee.com/ko/courses/rstat101/)
+* [R Tutorial Series - 100+ Free Tutorials](https://data-flair.training/blogs/r-tutorials-home/)
+* [Tutorial: Data Wrangling and Mapping in R](https://medium.com/towards-data-science/tutorial-data-wrangling-and-mapping-in-r-ec828acc8073)
+* [R Programming For Beginners | R Language Tutorial | R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU)
+* [R릴레오 시즌1](https://www.youtube.com/playlist?list=PLiKjxGAhetNcK7yumhJ_gv9HNZ2g4Y_Im)
 
 # Visualization
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
