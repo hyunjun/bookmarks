@@ -304,6 +304,8 @@ C++
 * [qpm - Say hello to qpm. A package manager for Qt/QML!](http://www.cutehacks.com/blog/2015/10/5/say-hello-to-qpm-a-package-manager-for-qtqml)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)
 * [ROOT - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualisation and storage](https://root.cern.ch/)
+* [SDL - Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D](https://www.libsdl.org/)
+  * available in c#, go, python, rust, ...
 * [sdsl - Succinct Data Structure Library 2.0](https://github.com/simongog/sdsl-lite)
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
 * [SLED (Beta) - A responsive C++ editor that understands your code](http://slededit.com/new/)
