@@ -426,6 +426,7 @@ Javascript
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
+* [JavaScript Clean Code: Error Handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 * JS로 배우는 자료구조와 알고리즘
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
@@ -668,6 +669,7 @@ Javascript
 * [10 Useful Angular Features You’ve Probably Never Used](https://blog.bitsrc.io/10-useful-angular-features-youve-probably-never-used-e9e33f5c35a7)
 * [Angular 8 — Share Component Data with Other Components](https://levelup.gitconnected.com/angular-7-share-component-data-with-other-components-1b91d6f0b93f)
 * [RxJS in Angular: Part I](https://medium.com/angular-in-depth/rxjs-in-angular-part-1c5409610d8e)
+* [Let Angular Manage Your RxJS Subscriptions Better](https://medium.com/better-programming/let-angular-manage-your-rxjs-subscriptions-better-9243073e94b0)
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 
 # Asynchronous
@@ -2214,13 +2216,14 @@ Javascript
 * [React Production Performance Monitoring](https://kentcdodds.com/blog/react-production-performance-monitoring)
 * [리액트를 처음부터 배워보자. —01. React.js란 무엇인가?](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-01-react-js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-ad8ba252ee28)
 * [Creating A Dynamic Responsive Layout With React](https://medium.com/javascript-in-plain-english/creating-a-dynamic-responsive-layout-with-react-e941ac9c7f2b)
+* [Composable Reactive UI — Preview](https://medium.com/better-programming/composable-reactive-ui-preview-d197cbbc0a71)
+* [Why You Should Learn React Instead of Angular](https://medium.com/javascript-in-plain-english/why-you-should-learn-react-instead-of-angular-f2333dd1228b)
 * [React](https://opentutorials.org/module/4058)
   * [React class & function style coding](https://opentutorials.org/module/4600)
   * [React class vs function style](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEfBwnNGsJCQDiqSWI-edj)
 * [React-Ajax](https://opentutorials.org/module/4549)
   * [React-Ajax](https://www.youtube.com/playlist?list=PLuHgQVnccGMDVTrQYa2HRj1OBbT-4HU_v)
 * [React Developer Tools를 이용한 컴포넌트 렌더링 이해와 배포](https://blog.naver.com/pjt3591oo/221907792621)
-* [Composable Reactive UI — Preview](https://medium.com/better-programming/composable-reactive-ui-preview-d197cbbc0a71)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2338,6 +2341,7 @@ Javascript
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
 * [15 Best Animation Libraries For React App](https://onaircode.com/best-animation-libraries-for-react-app)
 * [Retrospective of making BGM player in my office](https://tech.ssut.me/retrospective-of-making-bgm-player-in-my-office/)
+* [5 Essential Libraries For Your Next React Application](https://medium.com/frontend-digest/5-essential-libraries-for-your-next-react-application-84d8d73e9806)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * Context API
   * [React’s ⚛️ new Context API](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
