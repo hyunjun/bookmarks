@@ -1658,6 +1658,7 @@ Python
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (1)](https://woolbro.tistory.com/35)
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (2)](https://woolbro.tistory.com/36)
 * [Excel vs Python: How to Do Common Data Analysis Tasks](https://www.dataquest.io/blog/excel-vs-python/)
+* [Learn How to (easily!!) do 3 Advanced Excel Tasks in Python](https://towardsdatascience.com/learn-how-to-easily-do-3-advanced-excel-tasks-in-python-925a6b7dd081)
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
 * [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io **](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
@@ -2101,12 +2102,15 @@ Python
 * [주피터 노트북 초기 환경설정 BEST3!](https://tariat.tistory.com/741)
 * [GPU Dashboards in Jupyter Lab](https://medium.com/rapids-ai/gpu-dashboards-in-jupyter-lab-757b17aae1d5)
 * [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
+* [Jupyter Notebooks in the IDE](https://towardsdatascience.com/jupyter-notebooks-in-the-ide-visual-studio-code-versus-pycharm-5e72218eb3e8)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [Hydrogen - an interactive coding environment that supports Python, R, JavaScript and other Jupyter kernels](https://nteract.gitbooks.io/hydrogen/)
 * ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
+* [ipywidgets](https://ipywidgets.readthedocs.io)
+  * [How to Create a Drop-Down Menu and a Slide Bar for your Favorite Visualization Tool](https://towardsdatascience.com/how-to-create-a-drop-down-menu-and-a-slide-bar-for-your-favorite-visualization-tool-3a50b7c9ea01)
 * [jovian.ml - Make Jupyter notebooks commentable collaborative sharable](https://www.jovian.ml)
   * 1. 주피터 노트북 버전관리 (diff 도 가능)
   * 2. 주피터 노트북의 버전별, 코드/마크다운 셀별 Comment 기능 (댓글의 댓글도 가능)
