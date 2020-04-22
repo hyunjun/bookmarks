@@ -352,6 +352,7 @@ Python
 * [Tail Recursion in Python](http://philosophical.one/posts/tail-recursion-in-python/) 실용적이진 않지만 재미있는 tail recursion 구현 이야기
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
+* [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [win32print](http://timgolden.me.uk/python/win32_how_do_i/print.html)
@@ -763,6 +764,7 @@ Python
   * [3 Python list comprehension tricks you might not know yet](https://levelup.gitconnected.com/3-python-list-comprehension-tricks-you-might-not-know-yet-5891d904ee76)
   * [9 Things to Know to Master List Comprehensions in Python](https://medium.com/better-programming/9-things-to-know-to-master-list-comprehensions-in-python-8bc0411ec2ed)
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
+  * [3 Python list comprehension tricks you might not know yet](https://levelup.gitconnected.com/3-python-list-comprehension-tricks-you-might-not-know-yet-5891d904ee76)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
   * [Printing Lists as Tabular Data](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
