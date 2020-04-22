@@ -211,6 +211,7 @@ Javascript
 * [The Cost Of JavaScript In 2018](https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4)
 * [2016년과 이후 JavaScript의 동향](http://d2.naver.com/helloworld/3618177)
 * [Javascript : 함수(function) 다시 보기](http://www.nextree.co.kr/p4150/)
+* [Functions in JavaScript — Learn Basics](https://medium.com/@agarwalbharat68/functions-in-javascript-learn-basics-76c9ff150c53)
 * [Getting Out of Binding Situations in JavaScript](http://alistapart.com/article/getoutbindingsituations)
 * [자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 * [자바스크립트를 이용한 CSV 파일 파싱](http://code.tutsplus.com/ko/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
