@@ -558,6 +558,7 @@ Javascript
 * [More Handy JavaScript Shorthands](https://medium.com/swlh/more-handy-javascript-shorthands-9c08805d5f55)
 * [Why it’s Time to Stop Using JavaScript IIFEs?](https://levelup.gitconnected.com/why-its-time-to-stop-using-javascript-iifes-b62602f25bfc)
 * [3 Foundational JavaScript Ideas You Need to Upgrade From Tutorial Training Wheels](https://medium.com/better-programming/3-foundational-javascript-ideas-you-need-to-upgrade-to-pro-status-de7e7966d7c2)
+* [Stop using the ‘else’ keyword in your code](https://medium.com/javascript-in-plain-english/stop-using-the-else-keyword-in-your-code-907e82b3054a)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -844,6 +845,8 @@ Javascript
 * [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
 * [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
 * [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.com/what-is-new-in-es-11)
+* [자바스크립트 2020](https://dongqui.github.io//posts/js2020)
+* [JavaScript module namespace exports](https://medium.com/javascript-in-plain-english/javascript-module-namespace-exports-71dc7d1a75c0)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -2221,6 +2224,7 @@ Javascript
 * [Creating A Dynamic Responsive Layout With React](https://medium.com/javascript-in-plain-english/creating-a-dynamic-responsive-layout-with-react-e941ac9c7f2b)
 * [Composable Reactive UI — Preview](https://medium.com/better-programming/composable-reactive-ui-preview-d197cbbc0a71)
 * [Why You Should Learn React Instead of Angular](https://medium.com/javascript-in-plain-english/why-you-should-learn-react-instead-of-angular-f2333dd1228b)
+* [Integrating Google Maps to your React Application!](https://levelup.gitconnected.com/integrate-google-maps-to-your-react-application-fcd85c4b24e2)
 * [React](https://opentutorials.org/module/4058)
   * [React class & function style coding](https://opentutorials.org/module/4600)
   * [React class vs function style](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEfBwnNGsJCQDiqSWI-edj)
@@ -2733,6 +2737,7 @@ Javascript
 * [안심번호 마이크로서비스 개발하기](https://medium.com/daangn/안심번호-마이크로서비스-개발하기-fb1a8817b059)
 * [API 호출 테스트 코드 작성 방법 (with Typescript)](https://imch.dev/posts/how-to-write-a-test-code-about-api-call-with-typescript)
 * [인터페이스만 사용하다가 클래스를 다시 보았다](https://jeonghwan-kim.github.io/dev/2020/04/18/interface-to-class.html)
+* [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
