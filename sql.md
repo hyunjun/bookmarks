@@ -145,14 +145,6 @@ SQL
 * [Paper: Main Memory Database Systems: An Overview](http://blog.lastmind.io/archives/899)
 * [Paper: Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://blog.lastmind.io/archives/903)
 
-# Join
-* [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
-* [다양한 조인(JOIN) 기법](http://blog.ngelmaum.org/entry/lab-note-sql-join-method)
-* [What's the difference between NOT EXISTS vs. NOT IN vs. LEFT JOIN WHERE IS NULL?](http://stackoverflow.com/questions/2246772/whats-the-difference-between-not-exists-vs-not-in-vs-left-join-where-is-null)
-* [All about SQL JOINs](https://hackernoon.com/all-about-sql-joins-ced19ecc4c1d)
-* [SQL Join](https://opentutorials.org/module/4118)
-  * [SQL Join](https://www.youtube.com/playlist?list=PLuHgQVnccGMAG1O1BRZCT3wkD_aPmPylq)
-
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
 * [How to Install MariaDB on Ubuntu 18.04](https://linuxize.com/post/how-to-install-mariadb-on-ubuntu-18-04/)
@@ -576,7 +568,16 @@ SQL
 * [sql 독학 강의 # 복수 행(window) 함수 잘 사용 하기(group by) 10편 -sTricky](https://stricky.tistory.com/241)
 * [sql 독학 강의 # mysql join (정의 및 종류) 11편 -sTricky](https://stricky.tistory.com/243)
 * [sql 독학 강의 # Cartesian Product 카티션 곱 ansi SQL 문법 12편 -sTricky](https://stricky.tistory.com/245)
+* [sql 독학 강의 # inner join with ansi SQL 13편 -sTricky](https://stricky.tistory.com/248)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
+
+## Query, SQL Join
+* [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
+* [다양한 조인(JOIN) 기법](http://blog.ngelmaum.org/entry/lab-note-sql-join-method)
+* [What's the difference between NOT EXISTS vs. NOT IN vs. LEFT JOIN WHERE IS NULL?](http://stackoverflow.com/questions/2246772/whats-the-difference-between-not-exists-vs-not-in-vs-left-join-where-is-null)
+* [All about SQL JOINs](https://hackernoon.com/all-about-sql-joins-ced19ecc4c1d)
+* [SQL Join](https://opentutorials.org/module/4118)
+  * [SQL Join](https://www.youtube.com/playlist?list=PLuHgQVnccGMAG1O1BRZCT3wkD_aPmPylq)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
