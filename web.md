@@ -584,6 +584,7 @@ Web
 * [Web Scraping Tutorial with Python: Tips and Tricks](https://www.kdnuggets.com/2018/02/web-scraping-tutorial-python.html)
 * [Web Application from Scratch, Part I](https://hackernoon.com/web-application-from-scratch-part-i-314ea8203e64)
 * [Running Python in the Browser](https://pythontips.com/2019/05/22/running-python-in-the-browser)
+* [How To Track Coronavirus In Your Country with Python](https://towardsdatascience.com/how-to-track-coronavirus-with-python-a5320b778c8e) ChromeDriver
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [Streamlit. The fastest way to build custom ML tools](https://www.streamlit.io/)
   * [파이썬 웹어플리케이션 맛보기 (feat. Streamlit)](https://lucaseo.github.io/2020/03/13/20200313-1/)
