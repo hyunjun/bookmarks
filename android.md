@@ -158,6 +158,7 @@ Android
 * [RadioButton과 RadioGroup에 대한 정리](https://developer88.tistory.com/268)
 * [BuildTypes와 Flavor를 이용해 안드로이드 환경변수 설정하는 방법](https://developer88.tistory.com/234)
 * [안드로이드의 BuildConfig 활용](http://sunphiz.me/wp/archives/3557)
+* [Android의 View, Canvas, Surface 그리고 Window에 관한 정리](https://developer88.tistory.com/225)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
