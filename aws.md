@@ -333,6 +333,7 @@ AWS
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
 * [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
 * [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
+* [RDS 관계형 데이터베이스 서버 생성하기 #Free Tier #AWS](https://developer88.tistory.com/302)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
 * [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
