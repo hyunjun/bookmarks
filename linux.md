@@ -347,8 +347,10 @@ Linux
   * [Building a more accurate time service at Facebook scale](https://engineering.fb.com/production-engineering/ntp-service/) chrony
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
-* `paste` `paste -d"[delimiter] [file1] [file2]`
+* `paste` `paste [-s] [-d<delimiter>] <file 1> <file 2> ... <file n>`
+  * `-s` row <-> column 회전
   * [how to merge two files consistently line by line](http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line)
+  * [paste로 파일 두 개 join하기](http://jhrogue.blogspot.com/2020/04/5-paste-join.html)
 * `pbcopy`
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * `ping`
