@@ -352,6 +352,7 @@ Business
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
 * [어떤 분위기의 팀을 만들 것인가?](https://brunch.co.kr/@younghakjang/55)
+* [**심리적 안전감이란? 커넥트북 최고의 팀은 어떻게 다른가, 두려움 없는 조직**](https://brunch.co.kr/@younghakjang/112)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
 * [직무 설계: 성과를 내는 구조 만들기](https://brunch.co.kr/@younghakjang/64)
