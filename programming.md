@@ -355,6 +355,7 @@ Programming
 * [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
 * [좌충우돌 API 함수 이름은 어떻게 짓는게 좋을까?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-api-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%93%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C/)
 * [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
+* [7 Apps You Can Definitely Build With These Free APIs](https://medium.com/better-programming/7-apps-you-can-definitely-build-with-these-free-apis-6d30124527fc)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
@@ -1997,6 +1998,7 @@ Programming
 * [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
 * [테스트 커버리지 100%](https://blog.npcode.com/2020/02/28/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-100/)
 * [Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
+* [Dockerize your integration tests](https://medium.zenika.com/dockerize-your-integration-tests-8d26a7425baa)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
