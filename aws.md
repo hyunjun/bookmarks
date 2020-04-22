@@ -730,6 +730,7 @@ AWS
 * [AWS RDS for PostgreSQL에서 S3 데이터 임포트 기능 지원](https://www.44bits.io/ko/post/news--aws-rds-postgresql-supports-data-import-from-s3)
 * [AWS S3 총정리](https://ryan-han.com/post/aws/s3/)
 * [AWS S3 사이트에 HTTPS 적용 방법](https://codens.info/1713)
+* [Using Node.js to Display Images in a Private AWS S3 Bucket](https://medium.com/javascript-in-plain-english/using-node-js-to-display-images-in-a-private-aws-s3-bucket-4c043ed5c5d0)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
