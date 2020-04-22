@@ -44,6 +44,7 @@ Clojure
 * [(defn podcast [themes] (conj themes 'Clojure 'ClojureScript))](https://defn.audio/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
+* [A central documentation hub for the Clojure community https://cljdoc.org ](https://github.com/cljdoc/cljdoc)
 * [SICP in clojure](http://www.afronski.pl/category/sicp-in-clojure/)
 * [SICP In Clojure “I personally don't think SICP will help you much with Clojure. YMMV.”](http://ecmendenhall.github.io/sicpclojure/)
 * [SICP Distilled](http://www.sicpdistilled.com/)
