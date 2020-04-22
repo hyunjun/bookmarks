@@ -568,6 +568,8 @@ Programming
 * [A quick introduction to Hexagonal Architecture](https://medium.com/codefountain/a-quick-introduction-to-hexagonal-architecture-484358c038b8)
 * [**LINE 메신저 앱 공유 모듈 통합 개발기 – 1**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-1/)
 * [**LINE 메신저 앱의 공유 모듈 통합 개발기 – 2**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-2/)
+* [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
+* [**LINE 트랜스코딩 서버 아키텍처 개선기 – 2**](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-2/)
 * [주제별 영상 제공 웹 서비스](https://zuminternet.github.io/ZUM-Pilot-provide-video/) architecture diagram까지 이어지는 문서 작성에 대해 볼만함
 * [Five Things Every Developer Should Know about Software Architecture](https://www.infoq.com/articles/architecture-five-things/)
 * [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369) draw Software Architecture diagrams that make sense
