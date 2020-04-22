@@ -146,3 +146,4 @@ Artificial Intelligence
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
   * [Artificial Intelligence cheatsheets for Stanford's CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
+* [**인공지능 개발자를 위한 코세라 강의 소개**](https://brunch.co.kr/@synabreu/68)
