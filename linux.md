@@ -212,6 +212,7 @@ Linux
   * [Linux에서 crontab 실행시 명령어 찾지 못할때](https://jojoldu.tistory.com/472) crontab에 absolute path 사용
   * [python-crontab](https://pypi.python.org/pypi/python-crontab)
   * [Cron Expression](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180927_SM_Cron_Expressions.md)
+  * [The Fun cron Tutorial](https://medium.com/better-programming/the-fun-cron-tutorial-b1c9d255a94c)
 * `curl`
   * [practice - `-k` insecure & `-svo` verbose](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-curl_insecure-md)
   * [practice - sessionid를 curl로 얻는 방법](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-sessionid-md)
