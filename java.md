@@ -191,6 +191,8 @@ Java
     * [자바의 hashCode()](https://brunch.co.kr/@mystoryg/133)
 * Random
   * [Java에서 랜덤 함수를 이용해 난수 얻기](https://developer88.tistory.com/183)
+* Serializable
+  * [serialVersionUID가 없는 Serializable Class를 수정해야 할 때](https://www.popit.kr/serialversionuid%EA%B0%80-%EC%97%86%EB%8A%94-serializable-class%EB%A5%BC-%EC%88%98%EC%A0%95%ED%95%B4%EC%95%BC-%ED%95%A0-%EB%95%8C/)
 * sun.misc.Unsafe
   * [Unsafe Part 1: sun.misc.Unsafe Helper Classes](https://blog.bramp.net/post/2015/08/24/unsafe-part-1-sun.misc.unsafe-helper-classes/)
   * [Unsafe Part 2: Using sun.misc.Unsafe to create a contiguous array of objects](https://blog.bramp.net/post/2015/08/26/unsafe-part-2-using-sun.misc.unsafe-to-create-a-contiguous-array-of-objects/)
