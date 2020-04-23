@@ -184,6 +184,7 @@
 * [다형성과 동적 바인딩](https://brunch.co.kr/@mystoryg/60)
 * [Understanding software design patterns](https://opensource.com/article/19/7/understanding-software-design-patterns)
 * [옵저버 레지스트리 서비스 구현](https://codegizer.me/2020/04/21/lab-observer-service-registry-ver2.html)
+* [Implementing the Strategy Pattern With Spring](https://medium.com/javarevisited/implementing-the-strategy-pattern-with-spring-de2bad3abc2f)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
