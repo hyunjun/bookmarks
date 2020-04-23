@@ -24,6 +24,7 @@ AWS
 * [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
 * [AWS Lambda — How to Automate Your Spark Jobs on AWS Elastic Map Reduce (EMR)](https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48)
 * [Slack Bot을 이용한 EMR 클러스터 제어 1편 - AWS + Slack API 연동](https://nephtyws.github.io/programming/slackbot_1)
+* [AWS Chatbot과 슬랙(Slack)을 연동하여 AWS 명령 실행하기](http://blog.naver.com/sehyunfa/221924899955)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
 * [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
