@@ -428,6 +428,7 @@ Javascript
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 * [JavaScript Clean Code: Error Handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)
+* [JavaScript Clean Code — Vertical Formatting](https://levelup.gitconnected.com/javascript-clean-code-vertical-formatting-d15097f5f30e)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 * JS로 배우는 자료구조와 알고리즘
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
@@ -845,6 +846,7 @@ Javascript
 * [ES6 Destructuring: The Complete Guide](https://codeburst.io/es6-destructuring-the-complete-guide-7f842d08b98f)
 * [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
 * [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.com/what-is-new-in-es-11)
+* [JavaScript new features in ES2020(ES11)](https://medium.com/javascript-in-plain-english/new-javascript-features-in-es2020-c2d76acf9c5a)
 * [자바스크립트 2020](https://dongqui.github.io//posts/js2020)
 * [JavaScript module namespace exports](https://medium.com/javascript-in-plain-english/javascript-module-namespace-exports-71dc7d1a75c0)
 
@@ -1661,6 +1663,7 @@ Javascript
 * [Node CPU 점유율 최적화 경험기](https://hyperconnect.github.io/2020/02/11/Node-cpu-debug.html) 최적화는 아니고 한 가지 문제 해결
 * [Code Structuring and Error Handling in Node.js](https://medium.com/better-programming/node-js-best-practices-structuring-and-error-handling-ebcf24c85547)
 * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
+* [I’m now versioning my app secrets in Git, here is why you should do the same](https://medium.com/javascript-in-plain-english/im-now-versioning-my-app-secrets-in-git-here-is-why-you-should-do-the-same-2a72c1a49039)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2908,3 +2911,4 @@ Javascript
 * [Is Vue.js going to take over React in 2020?](https://medium.com/swlh/is-vue-js-going-to-take-over-react-in-2020-929c19806ac)
 * [v-model의 동작 원리와 활용 방법](https://joshua1988.github.io/web-development/vuejs/v-model-usage/)
 * [Introduction to Vue.js Components](https://levelup.gitconnected.com/introduction-to-vue-js-components-5ede029133f5)
+* [A First Look at Vue Router in Vue3](https://medium.com/javascript-in-plain-english/a-first-look-at-vue-router-in-vue3-253bc61b2cf5)
