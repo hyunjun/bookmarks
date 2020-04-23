@@ -144,6 +144,8 @@ Git
 * [git 다중 사용자 신원 설정](http://jhrogue.blogspot.com/2020/04/5-git.html)
 * [Setting Up Git Identities](https://www.micah.soy/posts/setting-up-git-identities/)
 * [**10 Extraordinary GitHub Repos for All Developers**](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
+* [5 Git Practices for Effective Work](https://medium.com/better-programming/5-git-practices-for-effective-work-b612e5430bc7)
+* [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
