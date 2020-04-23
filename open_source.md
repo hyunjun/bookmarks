@@ -265,6 +265,7 @@ Open Source
     * [#3 Hello Spinnaker](http://bcho.tistory.com/1236)
   * [Spinnaker를 로컬에서 Kubernetes로 실행하기](https://blog.outsider.ne.kr/1382)
   * [Hylyard로 Spinnaker를 Kubernetes에 설치하기](https://blog.outsider.ne.kr/1397)
+* [SVT-AV1: open-source AV1 encoder and decoder](https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2)
 
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
