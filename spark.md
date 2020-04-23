@@ -842,6 +842,7 @@
 * [Data Source V2 API in Spark 3.0 - Part 3 : In-Memory Data Source](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-3/)
 * [Data Source V2 API in Spark 3.0 - Part 4 : In-Memory Data Source with Partitioning](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-4/)
 * [Data Source V2 API in Spark 3.0 - Part 5 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-5/)
+* [Data Source V2 API in Spark 3.0 - Part 6 : MySQL Source](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-6/)
 * [Introduction to Spark 3.0 - Part 1 : Multi Character Delimiter in CSV Source](http://blog.madhukaraphatak.com/spark-3-introduction-part-1/)
 * [Introduction to Spark 3.0 - Part 2 : Multiple Column Feature Transformations in Spark ML](http://blog.madhukaraphatak.com/spark-3-introduction-part-2/)
 * [Introduction to Spark 3.0 - Part 3 : Data Loading From Nested Folders](http://blog.madhukaraphatak.com/spark-3-introduction-part-3/)
