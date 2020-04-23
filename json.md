@@ -60,6 +60,7 @@ Json
 * [로그인에 JWT(JSON Web Token)사용하기](http://guswnsxodlf.github.io/json-web-token)
 * [The Ultimate Guide to handling JWTs on frontend clients (GraphQL)](https://blog.hasura.io/best-practices-of-using-jwt-with-graphql/)
 * [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
+* [How to Secure Your API With JSON Web Tokens](https://medium.com/javascript-in-plain-english/how-to-secure-your-api-with-json-web-tokens-495ec68ba6cd)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
