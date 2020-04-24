@@ -130,6 +130,7 @@ Apache
   * Druid를 통해 다른 빅데이터 시스템 보완 방법, Spark Streaming으로 데이터 수집 방법, Presto 통합 방법, 모니터링 그리고 문제점 및 향후 개선 사항 설명
 * [Realtime Data in Apache Druid — Choosing the Right Strategy](https://towardsdatascience.com/realtime-data-in-apache-druid-choosing-the-right-strategy-cd1594dc66e0)
 * [How Netflix uses Druid for Real-time Insights to Ensure a High-Quality Experience](https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06)
+* [What Makes Apache Druid Great for Realtime Analytics?](https://codeburst.io/what-makes-apache-druid-great-for-realtime-analytics-61f817ee5ff6)
 * [metatron.app](https://metatron.app/) Self-service Solution for Big Data Discovery. All-in-one analytics from easy data preparation to fast visualization
   * [github.com/metatron-app](https://github.com/metatron-app)
 
@@ -540,6 +541,7 @@ Apache
 * [카프카 클러스터 클러스터ip DNS 연동방법. use_all_dns_ips 사용(in AWS, route53)](https://blog.voidmainvoid.net/327)
 * [Is Apache Kafka a Database? - The 2020 Update](https://dzone.com/articles/is-apache-kafka-a-database-the-2020-update)
 * [Kafka-client client.dns.lookup 옵션 정리](https://blog.voidmainvoid.net/331)
+* [How to Test Kafka Streams Applications](https://medium.com/better-programming/testing-kafka-streams-applications-1c5cb14c5376)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
