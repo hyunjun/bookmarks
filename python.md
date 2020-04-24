@@ -1659,6 +1659,7 @@ Python
 * [Python Basic - 파이썬 엑셀(Excel, CSV) 읽기 및 쓰기 (2)](https://woolbro.tistory.com/36)
 * [Excel vs Python: How to Do Common Data Analysis Tasks](https://www.dataquest.io/blog/excel-vs-python/)
 * [Learn How to (easily!!) do 3 Advanced Excel Tasks in Python](https://towardsdatascience.com/learn-how-to-easily-do-3-advanced-excel-tasks-in-python-925a6b7dd081)
+* [Automate These 3 (Boring!!) Excel Tasks with Python!](https://towardsdatascience.com/automate-these-3-boring-excel-tasks-with-python-666b4ded101b)
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
 * [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io **](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
@@ -2896,7 +2897,6 @@ Python
   * [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
     * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
   * [Building a Regression Testing Framework for your SQL Database](https://towardsdatascience.com/how-to-regression-test-your-sql-database-c6c8d66848c5)
-* [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
 * SQLAlchemy
   * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
   * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)
