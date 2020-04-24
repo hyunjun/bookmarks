@@ -96,6 +96,7 @@ R
 * [Data Journalism with R at FiveThirtyEight](http://www.r-bloggers.com/data-journalism-with-r-at-fivethirtyeight/)
 * [R을 활용한 데이터 분석 #1 – R, 그것이 알고 싶다!](http://blog.ncsoft.com/?p=18487)
 * [R (1) 일원분산분석(one-way ANOVA) : aov()](http://rfriend.tistory.com/131)
+* [분산분석(ANOVA)의 직관적 이해](https://www.youtube.com/watch?v=5WbKQWeacE8)
 * [R 유니코드, 인코딩](https://statkclee.github.io/ds-authoring/regex-encoding.html)
 * [R Notebooks](http://rmarkdown.rstudio.com/r_notebooks.html)
 * [R 노트북을 써보았다: 간단한 PCA](http://www.4four.us/article/2016/11/r-notebook-pca)
