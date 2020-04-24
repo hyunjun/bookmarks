@@ -950,6 +950,7 @@ Programming
 * [embed runnable code snippets](http://amasad.me/2015/04/09/hello-world/)
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 사이트](https://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [클라우드 IDE](http://www.bloter.net/archives/249173)
+* [My Favorite Cloud IDEs](https://medium.com/better-programming/my-favorite-cloud-ides-e6afaa94d96b)
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
 * [che.openshift.io](http://che.openshift.io/) <- [~codenvy.com~](https://codenvy.com)
 * [codeanywhere.com](https://codeanywhere.com/)
