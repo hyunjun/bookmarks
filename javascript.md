@@ -2031,6 +2031,7 @@ Javascript
 * [A Complete Beginner’s Guide to React](https://medium.freecodecamp.org/a-complete-beginners-guide-to-react-4d490abc349c)
 * [Angular5 -> React + next.js 로 프로젝트 갈아 엎은 썰 (Angular vs React 개인적 비교)](http://kokohapps.tistory.com/entry/Angular5-React-nextjs-%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%88%EC%95%84-%EC%97%8E%EC%9D%80-%ED%9B%84%EA%B8%B0)
 * [다시 시작하기](http://mobicon.tistory.com/548)
+* [주요 개념 (Main Concept) 정리](https://mobicon.tistory.com/571)
 * [**스프링 부트 + 리액트 개발 셋업 2018**](https://start.goodtime.co.kr/2018/09/%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8-%eb%a6%ac%ec%95%a1%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%85%8b%ec%97%85-2018/)
 * [리액트 프로젝트 코드 스플리팅 정복하기](https://velog.io/@velopert/react-code-splitting)
 * [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
