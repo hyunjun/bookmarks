@@ -527,6 +527,7 @@ Scala
   * [Scala로 DSL 흉내내보기](https://medium.com/@leeyh0216/scala%EB%A1%9C-dsl-%ED%9D%89%EB%82%B4%EB%82%B4%EB%B3%B4%EA%B8%B0-561c22869a62)
   * [Kafka Streams DSL for Scala: The Basics](https://medium.com/@danieljameskay/kafka-streams-dsl-for-scala-the-basics-11d603295f5c)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
+* Either [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
 * fold
   * [Scalaでコレクションを前後処理しつつ走査する](https://medium.com/nextbeat-engineering/scala%E3%81%A7%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%89%8D%E5%BE%8C%E5%87%A6%E7%90%86%E3%81%97%E3%81%A4%E3%81%A4%E8%B5%B0%E6%9F%BB%E3%81%99%E3%82%8B-401a4edb6bab) foldLeft
 * for
@@ -684,6 +685,7 @@ Scala
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
+  * [Sorting in Scala — a cat shop example](https://medium.com/swlh/sorting-in-scala-a-cat-shop-example-1888b843056b)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
   * [Homegrown #Scala Collections - Part 37 - Are #Streams a full-blown paradigm?](https://www.youtube.com/watch?v=wgYVDigEDAM)
