@@ -283,6 +283,8 @@ Programming
 * [EOF is not a character](https://ruslanspivak.com/eofnotchar/)
 * [**5 Famous Programming Quotes, Explained**](https://medium.com/young-coder/5-famous-programming-quotes-explained-4da607906c1)
 * [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
+* [서비스 구하기 1부 : 그 시작](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-1%EB%B6%80-%EA%B7%B8-%EC%8B%9C%EC%9E%91)
+* [서비스 구하기 2부 : 초조](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-2%EB%B6%80-%EC%B4%88%EC%A1%B0)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1355,6 +1357,7 @@ Programming
   * [CentOS 7에 RabbitMQ 설치하기](https://marshallslee.tistory.com/entry/CentOS-7%EC%97%90-RabbitMQ-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
   * [RABBIT MQ: CREATING QUEUE, EXCHANGE AND BINDINGS FROM A COMMAND LINE](https://www.scommerce-mage.com/blog/rabbitmq-creating-queues-and-bindings-from-a-command-line.html)
   * [RabbitMQ - Command Line Setup. Create queue, bindings, exchanges with rabbitmqadmin and rabbitmqctl](https://gist.github.com/fforbeck/868462c0f7664d92e19e)
+  * [RabbitMQ 클러스터 무작정 따라하기](https://boaninfragook.tistory.com/9)
   * [Dead Letter Exchanges](https://www.rabbitmq.com/dlx.html)
     * [Delayed Messaging for RabbitMQ](https://github.com/rabbitmq/rabbitmq-delayed-message-exchange)
     * [Dead letter queue configuration with RabbitMQ](https://zoltanaltfatter.com/2016/09/06/dead-letter-queue-configuration-rabbitmq/)
