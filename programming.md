@@ -358,6 +358,7 @@ Programming
 * [좌충우돌 API 함수 이름은 어떻게 짓는게 좋을까?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-api-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%93%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C/)
 * [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
 * [7 Apps You Can Definitely Build With These Free APIs](https://medium.com/better-programming/7-apps-you-can-definitely-build-with-these-free-apis-6d30124527fc)
+* [A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
