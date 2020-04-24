@@ -871,6 +871,7 @@ Python
   * [Multiprocessing with Python](https://www.youtube.com/watch?v=s1SkCYMnfbY)
   * [A Hands on Guide to Multiprocessing in Python](https://towardsdatascience.com/a-hands-on-guide-to-multiprocessing-in-python-48b59bfcc89e)
   * [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
+  * [Start Multithreading vs Multiprocessing in 5 minutes using Python](https://medium.com/swlh/how-to-start-multithreading-in-python-in-just-5-minutes-fe1f28d7aa56)
   * [Using Multiple Cores In Python](https://www.youtube.com/watch?v=ZWRuOkH0qkY)
   * [multi threading or multi processing for fetching url](https://github.com/dsindex/blog/wiki/%5Bpython%5D-multi-threading-or-multi-processing-for-fetching-url)
   * [Get a 2–6x speed-up on your pre-processing with these 3 lines of code!](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) concurrent.futures
@@ -1663,6 +1664,7 @@ Python
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
 * [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io **](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
+  * [Say Goodbye to Excel? A Simple Evaluation of Python Grid Studio Using COVID-19 Data](https://towardsdatascience.com/say-goodbye-to-excel-a-simple-evaluation-of-python-grid-studio-using-covid-19-data-90624f322b81)
 * [img2xls - Convert images to colored cells in an Excel table](https://github.com/Dobiasd/img2xls)
 * [LibXL excel library for developers](https://www.libxl.com/read-excel-data.html)
 * openpyxl [How to create, read, update and search through Excel files using Python](https://medium.freecodecamp.org/how-to-create-read-update-and-search-through-excel-files-using-python-c70680d811d4)
