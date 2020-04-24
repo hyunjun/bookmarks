@@ -2230,6 +2230,7 @@ Javascript
 * [Why You Should Learn React Instead of Angular](https://medium.com/javascript-in-plain-english/why-you-should-learn-react-instead-of-angular-f2333dd1228b)
 * [Integrating Google Maps to your React Application!](https://levelup.gitconnected.com/integrate-google-maps-to-your-react-application-fcd85c4b24e2)
 * [New Features in Create React App 3.3](https://medium.com/better-programming/new-features-of-create-react-app-3-3-649f85255e86)
+* [Adding decorator support to Create React App projects using react-app-rewired](https://medium.com/@michielsikma/adding-decorator-support-to-create-react-app-projects-using-react-app-rewired-df48e7ffd636)
 * [React](https://opentutorials.org/module/4058)
   * [React class & function style coding](https://opentutorials.org/module/4600)
   * [React class vs function style](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEfBwnNGsJCQDiqSWI-edj)
