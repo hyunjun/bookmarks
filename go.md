@@ -246,6 +246,7 @@ Go
 * [Why You Should Avoid Pointers in Go](https://medium.com/better-programming/why-you-should-avoid-pointers-in-go-36724365a2a7)
 * [Go: Aliases, Simple and Efficient](https://medium.com/a-journey-with-go/go-aliases-simple-and-efficient-8506d93b079e)
 * [Go: How Does gops Interact with the Runtime?](https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18)
+* [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
