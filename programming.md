@@ -846,6 +846,7 @@ Programming
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
+  * [구글에서 세 번째 SRE 도서 Building Secure and Reliable Systems 무료 공개](https://www.44bits.io/ko/post/third-free-sre-book-build-seruce-and-reliable-system)
 * [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
 
 # Build Compile
