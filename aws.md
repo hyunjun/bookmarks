@@ -325,6 +325,7 @@ AWS
 * [대학생도 딸 수 있는 AWS Solutions Architect Associate 시험 후기](https://medium.com/@tkdgy0801/%EB%8C%80%ED%95%99%EC%83%9D%EB%8F%84-%EB%94%B8-%EC%88%98-%EC%9E%88%EB%8A%94-aws-solutions-architect-associate-%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0-baee6e8aec62)
 * [비공식 AWS 공인 솔루션스 아키텍트 - 어소시에이트 (2018년 2월 출시) 수험 가이드 (bit.ly/saaguide)](https://github.com/serithemage/AWSCertifiedSolutionsArchitectUnofficialStudyGuide)
 * [AWS에서 RStudio 구축하기](https://medium.com/@hslee09/aws-aws%EC%97%90%EC%84%9C-rstudio-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-291d7ff6fa0e)
+* [AWS Rstudio Server 설치 (Linux)](https://unfinishedgod.github.io/docs/aws/install_r/install_r.html)
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
 * [Centralized Container Logging with Fluent Bit](https://aws.amazon.com/ko/blogs/opensource/centralized-container-logging-fluent-bit)
@@ -420,6 +421,7 @@ AWS
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #1](https://brunch.co.kr/@alden/54)
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #2](https://brunch.co.kr/@alden/56)
 * [New – Amazon CloudWatch Anomaly Detection](https://aws.amazon.com/ko/blogs/aws/new-amazon-cloudwatch-anomaly-detection/)
+* [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 
 # Conference
 * DevDay
