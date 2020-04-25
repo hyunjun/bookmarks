@@ -172,6 +172,7 @@ Interview
 * [기술 면접 질문 기술 면접 예상 질문 대비하기 - 운영체제(OS)편](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-os.html)
 * [싱가폴 개발자 면접 최종까지 프로세스 정리](https://tacogrammer.com/%EC%8B%B1%EA%B0%80%ED%8F%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A9%B4%EC%A0%91-%EC%B5%9C%EC%A2%85%EA%B9%8C%EC%A7%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EC%A0%95%EB%A6%AC/)
 * [2019 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/)
+* [동영상 17년 만에 겪은 외국계 회사의 문화적 충격](http://channy.creation.net/blog/1319)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
