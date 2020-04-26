@@ -1020,6 +1020,7 @@ Javascript
 * [Top JavaScript Frameworks and Topics to Learn in 2020 and the New Decade](https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2020-and-the-new-decade-ced6e9d812f9)
 * [Top 5 In-Demand JavaScript Frameworks for Front-End Development in 2020](https://medium.com/javascript-in-plain-english/top-5-in-demand-javascript-frameworks-for-front-end-development-in-2020-a59c4340d082)
 * [Top 10 JavaScript Frameworks for Server Side Development in 2020](https://medium.com/javascript-in-plain-english/top-10-javascript-frameworks-for-server-side-development-in-2020-6d265016c02)
+* [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
