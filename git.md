@@ -163,6 +163,7 @@ Git
 * [GitHub Actions (CI/CD Flow)](https://www.youtube.com/watch?v=0tMkRSdp-Go)
 * [GitHub Actions Runner](https://github.com/actions/runner)
 * [Write Your GitHub Actions Workflow for Build Windows Application](https://medium.com/rkttu/write-your-github-actions-workflow-for-build-windows-application-94e5a989f477)
+* [Github Actions를 이용한 개발블로그 글을 슬랙으로 알림받기](https://fernando.kr/22)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
