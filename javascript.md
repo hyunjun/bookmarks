@@ -963,6 +963,7 @@ Javascript
 * [**Building an offline first web app with RxDB & Hasura**](https://blog.hasura.io/building-an-offline-first-web-app-with-rxdb-hasura/)
 * [Advice from a GraphQL Expert](https://www.netlify.com/blog/2020/01/21/advice-from-a-graphql-expert/)
 * [Constructing Types with the GraphQL Package](https://medium.com/swlh/constructing-types-with-the-graphql-package-2b3e5676b664)
+* [What is GraphQL? The new way to create APIs](https://medium.com/javascript-in-plain-english/what-is-graphql-375f8f2c227f)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -2240,6 +2241,7 @@ Javascript
 * [React-Ajax](https://opentutorials.org/module/4549)
   * [React-Ajax](https://www.youtube.com/playlist?list=PLuHgQVnccGMDVTrQYa2HRj1OBbT-4HU_v)
 * [React Developer Tools를 이용한 컴포넌트 렌더링 이해와 배포](https://blog.naver.com/pjt3591oo/221907792621)
+* [알고리즘 시각화 React 웹 앱 개발](https://www.youtube.com/playlist?list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
