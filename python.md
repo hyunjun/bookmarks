@@ -1322,7 +1322,9 @@ Python
 * [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
-* [Django 자습](https://wikidocs.net/book/837)
+* Django
+  * [Django 자습](https://wikidocs.net/book/837)
+  * [점프 투 장고](https://wikidocs.net/book/4223)
 * [Effective Pandas](https://leanpub.com/effective-pandas)
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
