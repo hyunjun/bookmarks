@@ -87,6 +87,7 @@ Azure
 * [COVID-19 시리즈 #2 애저 펑션과 안면 인식 API를 이용해서 본인 인증하기](https://blog.aliencube.org/ko/2020/04/08/identifying-faces-through-azure-functions-using-face-api)
 * [COVID-19 시리즈 #3 파워앱으로 학생들 온라인 출석부 앱 만들기](https://blog.aliencube.org/ko/2020/04/15/building-online-check-in-app-with-power-apps/)
 * [Live (S1E5): 파워앱으로 얼굴 인식 앱 만들기](https://www.youtube.com/watch?v=iIzT0f7UNjg)
+* [시계열 데이터 예측 애저 오토엠엘(Azure AutoML)](https://tykimos.github.io/2020/04/25/TimeSeriesForcast_Azure_AutoML/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
