@@ -2918,3 +2918,4 @@ Javascript
 * [v-model의 동작 원리와 활용 방법](https://joshua1988.github.io/web-development/vuejs/v-model-usage/)
 * [Introduction to Vue.js Components](https://levelup.gitconnected.com/introduction-to-vue-js-components-5ede029133f5)
 * [A First Look at Vue Router in Vue3](https://medium.com/javascript-in-plain-english/a-first-look-at-vue-router-in-vue3-253bc61b2cf5)
+* [뷰/익스프레스/몽고db - task manager 만들기 01 프로젝트 세팅](https://www.youtube.com/watch?v=4J4-ufnqBdU)
