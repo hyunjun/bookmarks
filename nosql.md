@@ -256,6 +256,7 @@ NoSQL
 # IndexedDB
 * [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
 * [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
+* [IndexedDB를 활용한 카트라이더 룰렛으로 성공한 덕후 되기](https://medium.com/@justdummyforall/indexeddb%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%A3%B0%EB%A0%9B%EC%9C%BC%EB%A1%9C-%EC%84%B1%EA%B3%B5%ED%95%9C-%EB%8D%95%ED%9B%84-%EB%90%98%EA%B8%B0-b32cac013f06)
 
 # In-memory In memory
 * [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)
