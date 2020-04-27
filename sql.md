@@ -569,6 +569,7 @@ SQL
 * [sql 독학 강의 # mysql join (정의 및 종류) 11편 -sTricky](https://stricky.tistory.com/243)
 * [sql 독학 강의 # Cartesian Product 카티션 곱 ansi SQL 문법 12편 -sTricky](https://stricky.tistory.com/245)
 * [sql 독학 강의 # inner join with ansi SQL 13편 -sTricky](https://stricky.tistory.com/248)
+* [sql 독학 강의 # 비등가 join with ansi SQL 14편 -sTricky](https://stricky.tistory.com/255)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
 
 ## Query, SQL Join
