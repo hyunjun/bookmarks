@@ -285,6 +285,8 @@ Programming
 * [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
 * [서비스 구하기 1부 : 그 시작](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-1%EB%B6%80-%EA%B7%B8-%EC%8B%9C%EC%9E%91)
 * [서비스 구하기 2부 : 초조](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-2%EB%B6%80-%EC%B4%88%EC%A1%B0)
+* [서비스 구하기 3부 : 짧은 고요](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-3%EB%B6%80-%EC%A7%A7%EC%9D%80-%EA%B3%A0%EC%9A%94)
+* [서비스 구하기 4부 : 그 끝](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-4%EB%B6%80-%EA%B7%B8-%EB%81%9D)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
