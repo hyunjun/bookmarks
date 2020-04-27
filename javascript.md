@@ -2471,6 +2471,7 @@ Javascript
 * [react-native-facebook-ui - Pure javascript prototype of iOS Facebook UI for React Native framework](https://github.com/ggomaeng/react-native-facebook-ui)
 * [react-native-firebase 라이브러리를 사용하여 좀 더 자세하게 앱을 분석해 보자](https://dev-yakuza.github.io/ko/react-native/react-native-firebase-analytics)
 * [react-native-image-modal을 사용해서 이미지를 전체 화면으로 표시해보고, pinch 확대, 축소 등을 사용해 보자](https://dev-yakuza.github.io/ko/react-native/react-native-image-modal/)
+* [react-native-image-picker을 사용해서 사진을 찍거나, 카메라 롤에서 사진을 가져오는 방법에 대해서 알아봅시다](https://dev-yakuza.github.io/ko/react-native/react-native-image-picker/)
 * [react-native-maps](https://github.com/react-native-community/react-native-maps/)
   * [How to integrate maps in React Native using react-native-maps](https://medium.freecodecamp.org/how-to-integrate-maps-in-react-native-using-react-native-maps-5745490fe055)
 * [ReactNativeRedditReader](https://github.com/akveo/react-native-reddit-reader)
