@@ -242,6 +242,8 @@ Java
   * [GitHub Contributions 그래프를 푸릇푸릇하게 만들어보아요(feat. Armeria Sprint)](https://engineering.linecorp.com/ko/blog/armeria-sprint-1/)
   * [Spring WebFlux와 Armeria를 이용하여 Microservice에 필요한 Reactive + RPC 동시에 잡기](https://d2.naver.com/helloworld/6080222)
   * [LINE 메시징 서버가 새해 트래픽을 대비하는 과정](https://engineering.linecorp.com/ko/blog/how-line-messaging-servers-prepare-for-new-year-traffic/) armeria에 대한 이야기만은 아니지만
+  * [분산 서비스 환경에 대한 Circuit Breaker 적용](https://engineering.linecorp.com/ko/blog/circuit-breakers-for-distributed-services/)
+  * [**Armeria의 서킷 브레이커 사용해 보기**](https://engineering.linecorp.com/ko/blog/try-armeria-circuit-breaker/)
 * [Netty - Using as a generic library](http://netty.io/wiki/using-as-a-generic-library.html)
   * [**Netty 시작하기**](https://github.com/hatemogi/netty-startup)
     * [Netty 기초 강습 후기](https://medium.com/happyprogrammer-in-jeju/netty-%EA%B8%B0%EC%B4%88-%EA%B0%95%EC%8A%B5-%ED%9B%84%EA%B8%B0-8ba4fdee2518#.ocq9afz7u)
@@ -681,7 +683,7 @@ Java
   * [#7-스택드라이버로 로그 백앤드 구축하기](https://bcho.tistory.com/1321)
 * [9 Java EE Frameworks to Build Enterprise Applications](https://geekflare.com/java-ee-frameworks/)
 * [Java를 위한, Java에 의한 도구들](https://www.slideshare.net/NHNFORWARD/2018-java-java) jvmtop, jvm-tools, jcmd, jhsdb, jmh, jcstress, jol
-* [CURCUIT BREAKER로 통신 FAILOVER 처리하기](https://inyl.github.io/programming/2017/02/04/circuit_breaker.html)
+* [CIRCUIT BREAKER로 통신 FAILOVER 처리하기](https://inyl.github.io/programming/2017/02/04/circuit_breaker.html)
 * [Improving Code Quality for Java Projects](https://medium.com/inspiredbrilliance/improving-code-quality-for-java-projects-5d24ad448109)
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
