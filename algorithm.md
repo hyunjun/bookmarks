@@ -188,6 +188,7 @@ Algorithm
 * [항등식으로 구현체를 외울 수 있는 확장 유클리드 알고리즘](https://codingdog.tistory.com/entry/%ED%95%AD%EB%93%B1%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC-%EC%99%B8%EC%9A%B8-%EC%88%98-%EC%9E%88%EB%8A%94-%ED%99%95%EC%9E%A5-%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [백준 배열 돌리기 4 요소별로 나누면 어렵지 않다](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0-4-%EC%9A%94%EC%86%8C%EB%B3%84%EB%A1%9C-%EB%82%98%EB%88%84%EB%A9%B4-%EC%96%B4%EB%A0%B5%EC%A7%80-%EC%95%8A%EB%8B%A4)
 * [많이 언급되는 rsa 알고리즘을 알아봅시다](https://codingdog.tistory.com/entry/%EB%A7%8E%EC%9D%B4-%EC%96%B8%EA%B8%89%EB%90%98%EB%8A%94-rsa-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [귀류법 명제가 거짓임을 가정한다](https://codingdog.tistory.com/entry/%EA%B7%80%EB%A5%98%EB%B2%95-%EB%AA%85%EC%A0%9C%EA%B0%80-%EA%B1%B0%EC%A7%93%EC%9E%84%EC%9D%84-%EA%B0%80%EC%A0%95%ED%95%9C%EB%8B%A4)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -246,6 +247,7 @@ Algorithm
 * [2018년 21번째 주 - Consensus algorithm](https://blog.seulgi.kim/2018/05/w21.html)
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 * [The Raft Consensus Algorithm](https://raft.github.io/)
+* [**Raft 분산 합의 알고리즘과 Python에서의 활용**](https://d2.naver.com/helloworld/5663184)
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
