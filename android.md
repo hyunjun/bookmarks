@@ -235,7 +235,9 @@ Android
   * [퓨즈스터디](https://docs.google.com/presentation/d/1SRDExtqssxB4kpLLml9MaVKcdAD8aG7B0D3ZE4__rfg)
   * [TourDeFuse The sample for introducing functions of the Fuse](https://github.com/englekk/TourDeFuse)
   * [Announcing Fuse Open — making Fuse free and Open Source](https://blog.fusetools.com/announcing-fuse-open-free-ea289bbf32d0)
-* [Glide의 AppGlideModule을 통해 고급 설정 하기](http://sunphiz.me/wp/archives/3546)
+* Glide
+  * [Glide의 AppGlideModule을 통해 고급 설정 하기](http://sunphiz.me/wp/archives/3546)
+  * [Glide#into 사용시 주의점](http://pluu.github.io/blog/android/2020/04/28/glide-fail-case/)
 * [Google I/O Android App](https://github.com/google/iosched)
 * Gradle
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
