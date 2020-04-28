@@ -210,6 +210,7 @@ Programming Books
     * 접합부 seam; 코드베이스의 나머지 부분에 영향을 주지 않은 격리된 코드 부분
     * foreign key 관계에 있는 table도 별도 서비스로 분리
     * 그렇다면 transaction 처리는? 2단계 commit같은 분산 transaction, 나중에 재시도하기, 전체 작업 중지하기 등...
+  * [마이크로서비스 아키텍처 구축](https://blog.outsider.ne.kr/1482)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
 
 # C
