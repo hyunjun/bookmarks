@@ -332,12 +332,17 @@ Hadoop
 * [PULSE - Hadoop log aggregation, alerting, and lifecycle management](https://github.com/phdata/pulse)
   * [Proactive Data Pipeline Alerting with Pulse](http://blog.cloudera.com/blog/2018/11/proactive-data-pipeline-alerting-with-pulse/)
     * Apache Slor를 이용한 오픈 소스 로그 집계 및 경고 시스템인 Pulse 소개
-* [Snakebite is a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
-* [Spring XD is a unified, distributed, and extensible system for data ingestion, real time analytics, batch processing, and data export](http://projects.spring.io/spring-xd/)
+* [Spring XD - a unified, distributed, and extensible system for data ingestion, real time analytics, batch processing, and data export](http://projects.spring.io/spring-xd/)
   * [SpringXD Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/SpringXD.md)
 * [StreamSets - Performance Management for Data Flows Harness the value of your data in motion with control, efficiency and agility](https://streamsets.com/)
   * [Ingest and Stream Processing What will you choose](https://www.youtube.com/watch?v=LTONR-L40Xg)
 * [Terrapin - Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
+
+## Library Python
+* [pywebhdfs](https://pythonhosted.org/pywebhdfs/)
+  * [practice - read/write hdfs file](https://gist.github.com/hyunjun/8f2080557e7b7b261861a260d9225bb4)
+  * [example](https://github.com/ProjectMeniscus/pywebhdfs/blob/master/example/example.py)
+* [Snakebite - a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 
 # Presto
 * [프레스토 소개 (facebook presto)](http://knight76.tistory.com/m/post/2497)
