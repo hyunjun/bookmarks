@@ -342,6 +342,7 @@ Hadoop
 * [pywebhdfs](https://pythonhosted.org/pywebhdfs/)
   * [practice - read/write hdfs file](https://gist.github.com/hyunjun/8f2080557e7b7b261861a260d9225bb4)
   * [example](https://github.com/ProjectMeniscus/pywebhdfs/blob/master/example/example.py)
+  * [Python - Read & Write files from HDFS](https://creativedata.atlassian.net/wiki/spaces/SAP/pages/61177860/Python+-+Read+Write+files+from+HDFS)
 * [Snakebite - a python library that provides a pure python HDFS client and a wrapper around Hadoops minicluster](https://github.com/spotify/snakebite)
 
 # Presto
