@@ -297,6 +297,7 @@ Clojure
 * [**Advent of Parens 2019**](https://lambdaisland.com/blog/2019-11-25-advent-of-parens)
 * [CuPy accelerates NumPy on the GPU? Hold my Cider, here's Clojure!](https://dragan.rocks/articles/20/Clojure-Numpy-Cupy-CPU-GPU)
 * [A wrinkle in Clojure](https://www.johndcook.com/blog/2020/04/11/a-wrinkle-in-clojure/)
+* [Spec2 experience](https://blog.ambrosebs.com/2020/04/26/spec2-experience.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
