@@ -243,6 +243,11 @@ NoSQL
 * [stricky.tistory.com/category/GPDB with BIG data](https://stricky.tistory.com/category/GPDB%20with%20BIG_data)
   * [실시간 빅데이터 처리 DBMS 비교 Firebase Realtime Database vs GPDB](https://stricky.tistory.com/105)
   * [greenplum sql 튜닝 파라미터 정리 (쿼리 튜닝 parameter)](https://stricky.tistory.com/118)
+* [Greenplum and PostgreSQL Database](https://rfriend.tistory.com/category/Greenplum%20and%20PostgreSQL%20Database)
+  * [PL/R을 이용한 그룹별 선형회귀모형 분산 병렬 학습 및 예측](https://rfriend.tistory.com/529)
+  * [PL/R 을 위한 데이터셋 array aggregation 준비하는 3가지 방법](https://rfriend.tistory.com/531)
+  * [PL/R 결과를 반환하는 5가지 방법 (5 ways to return PL/R result on Greenplum)](https://rfriend.tistory.com/532)
+  * [PL/R Error ERROR: Error on receive from seg0 slice1: server closed the connection unexpectedly 확인사항과 대처 방안](https://rfriend.tistory.com/530)
 
 # [H2 Database Engine](http://www.h2database.com/)
 * [테스트 코드에서 H2 DB 사용자 정의 함수 사용하기](https://javacan.tistory.com/entry/use-h2-db-user-defined-function)
