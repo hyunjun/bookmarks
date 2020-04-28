@@ -339,6 +339,7 @@ AWS
 * [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
 * [RDS 관계형 데이터베이스 서버 생성하기 #Free Tier #AWS](https://developer88.tistory.com/302)
 * [EC2에서 RDS 서버에 접속하기](https://developer88.tistory.com/303)
+* [RDS 백업과 복원하기](https://developer88.tistory.com/308)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
 * [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
