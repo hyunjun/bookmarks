@@ -268,6 +268,7 @@ Android
   * [Rxjava2와 Retrofit 함께 사용하기](https://developer88.tistory.com/197)
   * [Retrofit과 Coroutine 함께 이용하기](https://developer88.tistory.com/241)
   * [Retrofit2에서 Error Message 받아오기](https://jungwoon.github.io/android/2020/04/25/Retrofit-ErrorResponseHandling/)
+* Room [Room Persistence Library에 대해서 정리해 봅니다](https://developer88.tistory.com/206)
 * RxJava
   * [rx android architecture - An example project of an Android architecture built on RxJava](https://github.com/tehmou/rx-android-architecture)
   * [5 Not So Obvious Things About RxJava](https://medium.com/@jagsaund/5-not-so-obvious-things-about-rxjava-c388bd19efbc)
