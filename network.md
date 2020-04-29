@@ -57,6 +57,7 @@ Network
 * [Intelligent DNS based load balancing at Dropbox](https://blogs.dropbox.com/tech/2020/01/intelligent-dns-based-load-balancing-at-dropbox/)
 * [DNS전문가되기](https://brunch.co.kr/magazine/dnsdns)
 * [A record A 레코드와 CNAME의 차이점을 알아보자](https://developer88.tistory.com/282)
+* [DNS(Domain Name System)에 대한 총정리](https://developer88.tistory.com/311)
 
 # Library
 * Cicso packet tracer
