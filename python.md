@@ -3249,6 +3249,7 @@ Python
 * [Tidy Animated Verbs](https://github.com/gadenbuie/tidyexplain)
   * ["Tidy Animated Verbs" in Python pandas](https://nbviewer.jupyter.org/gist/FinanceData/8156bd53ea3a36c88cb146e43d4da411)
 * [How to Export Pandas DataFrame to CSV](https://towardsdatascience.com/how-to-export-pandas-dataframe-to-csv-2038e43d9c03)
+* [Extracting features from dates](https://towardsdatascience.com/extracting-features-from-dates-fbb7f19972fd)
 * [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
   * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
   * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
