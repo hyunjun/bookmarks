@@ -2542,18 +2542,6 @@ Python
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
 * Lomond
   * [Announcing Lomond, a WebSocket Client Library for Python](https://www.willmcgugan.com/blog/tech/post/announcing-lomond/)
-* [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
-  * [Managing Containerized Data Pipeline Dependencies With Luigi](http://tech.adroll.com/blog/data/2015/10/15/luigi.html)
-  * [Luigi 예제](http://blog.naver.com/hancury/220775449482)
-  * [Jonathan Dinu: Scalable Pipelines with Luigi or: I’ll have the Data Engineering, hold the Java!](https://www.youtube.com/watch?v=Ny2X_WNxrB4)
-  * [Intro to Building Data Pipelines in Python with Luigi](https://www.youtube.com/watch?v=ymF2R_tY1f8)
-  * [Luigi, The Friendly Pipeline Plumber by IanMLewis](https://www.youtube.com/watch?v=iwUbKPFtQRA)
-  * [Using Luigi Pipelines in a Data Science Workflow](http://engineering.pivotal.io/post/luigi-data-science/)
-    * Luigi workflow engine을 사용하여 기계 학습 파이프 라인을 작성하는 데 필요한 예제 코드 포함
-    * 예제의 주요 기능은 Apache MADlib (incubating)
-    * Luigi 태스크의 PL/pgSQL을 통해 실행
-  * [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)
-  * [Create your first ETL in Luigi](https://towardsdatascience.com/create-your-first-etl-in-luigi-23202d105174)
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
@@ -2878,6 +2866,22 @@ Python
 * [Pyan3: Offline call graph generator for Python 3](https://github.com/davidfraser/pyan)
 * [pycallgraph - call graph visualizations for Python applications](http://pycallgraph.slowchop.com)
   * `pycallgraph [--max-depth=n] [--include "path.to.*"] graphviz -- <python src>`
+
+## Library Data
+* [Luigi - Batch data processing in Python](http://www.slideshare.net/EliasFreider/luigi-pydata-presentation)
+  * [Managing Containerized Data Pipeline Dependencies With Luigi](http://tech.adroll.com/blog/data/2015/10/15/luigi.html)
+  * [Luigi 예제](http://blog.naver.com/hancury/220775449482)
+  * [Jonathan Dinu: Scalable Pipelines with Luigi or: I’ll have the Data Engineering, hold the Java!](https://www.youtube.com/watch?v=Ny2X_WNxrB4)
+  * [Intro to Building Data Pipelines in Python with Luigi](https://www.youtube.com/watch?v=ymF2R_tY1f8)
+  * [Luigi, The Friendly Pipeline Plumber by IanMLewis](https://www.youtube.com/watch?v=iwUbKPFtQRA)
+  * [Using Luigi Pipelines in a Data Science Workflow](http://engineering.pivotal.io/post/luigi-data-science/)
+    * Luigi workflow engine을 사용하여 기계 학습 파이프 라인을 작성하는 데 필요한 예제 코드 포함
+    * 예제의 주요 기능은 Apache MADlib (incubating)
+    * Luigi 태스크의 PL/pgSQL을 통해 실행
+  * [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)
+  * [Create your first ETL in Luigi](https://towardsdatascience.com/create-your-first-etl-in-luigi-23202d105174)
+* [Snakemake](https://snakemake.readthedocs.io/)
+  * [**스네이크메이크 (Snakemake) 튜토리얼**](https://haje01.github.io/2020/04/21/snakemake-tutorial.html)
 
 ## Library DB Database SQL
 * [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
