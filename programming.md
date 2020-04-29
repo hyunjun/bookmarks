@@ -6,6 +6,7 @@ Programming
 * [awesome lists](https://www.prettyawesomelists.com/)
 * [handong1587.github.io/categories.html](https://handong1587.github.io/categories.html)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
+* [GitHub Repos That Every Developer Should Know About](https://medium.com/better-programming/github-repos-that-every-developer-should-know-about-3f0bc8c316ba)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
@@ -657,6 +658,7 @@ Programming
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [Service Mesh 란?](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
 * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
+* [Envoy Is the Real Deal](https://medium.com/rain-capital/envoy-is-the-real-deal-6deb755dd84f)
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
@@ -940,6 +942,7 @@ Programming
 * [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
+* [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
