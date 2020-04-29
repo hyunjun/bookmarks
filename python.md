@@ -2720,6 +2720,7 @@ Python
   * [Python Tutorial: Write a Script to Monitor a Website, Send Alert Emails, and Reboot Servers](https://www.youtube.com/watch?v=yqm6MBt-yfY)
   * [LINE Messaging API 사용해보기(2)](https://engineering.linecorp.com/ko/blog/line-messaging-api-samplebot-2/)
   * [아이패드 PYTHONISTA 어플로 구글번역 EXTENSION 만들기](http://lumiamitie.github.io/python/ipad-translator-extension/)
+  * [SniRequests2 Sni 필드 차단당한 사이트에 정상적으로 웹 요청을 할 수 있도록 도와줍니다](https://github.com/kdrkdrkdr/SniRequests2)
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
