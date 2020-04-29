@@ -85,6 +85,7 @@ Redis
 * [redis 만료키 삭제](https://www.kudryavka.me/?p=740)
 * [우아한 Redis](https://www.slideshare.net/charsyam2/redis-196314086)
 * [DevOps 엔지니어의 Redis Test 분투기 - Part 1 ](https://helloworld.kurly.com/blog/redis-fight-part-1/)
+* [What I didn’t know I didn’t know about Redis](https://medium.com/swlh/what-i-didnt-know-i-didn-t-know-about-redis-6ad3729f29ed)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
