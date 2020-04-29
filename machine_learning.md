@@ -1044,6 +1044,7 @@ Machine Learning
 * [setscholars.net](https://setscholars.net/) Applied Data Science in Business & Biological Sciences: Python, R & MATLAB Codes for Beginners
 * [Custom Transformers and ML Data Pipelines with Python](https://towardsdatascience.com/custom-transformers-and-ml-data-pipelines-with-python-20ea2a7adb65)
 * [How to Transform Research Oriented Code into Machine Learning APIs with Python](https://speakerdeck.com/tetsuya0617/how-to-transform-research-oriented-code-into-machine-learning-apis-with-python) ML에서의 refactoring에 대한 이야기
+* [**파이썬과 SQL을 활용한 패혈증(Sepsis) 분석**](https://www.notion.so/SQL-Sepsis-44d3a67a45d3446da5accaab08620ed7)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
