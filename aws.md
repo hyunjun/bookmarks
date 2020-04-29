@@ -738,6 +738,7 @@ AWS
 * [AWS S3 총정리](https://ryan-han.com/post/aws/s3/)
 * [AWS S3 사이트에 HTTPS 적용 방법](https://codens.info/1713)
 * [Using Node.js to Display Images in a Private AWS S3 Bucket](https://medium.com/javascript-in-plain-english/using-node-js-to-display-images-in-a-private-aws-s3-bucket-4c043ed5c5d0)
+* [동적 변수를 젠킨스 파라미터로 사용하기 (Extended Choice Parameter)](https://qiita.com/leechungkyu/items/9465d924747d0a170cd7)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
