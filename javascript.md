@@ -1468,6 +1468,7 @@ Javascript
   * [pnpm, 플랫하지 않은 패키지 매니저](https://imch.dev/posts/pnpm-a-manager-what-is-not-flat)
   * [NPM 의 package.json을 이용한 효율적 설치 방법](https://developer88.tistory.com/270)
   * [npm install 에러 - MacOS](https://jybaek.tistory.com/865)
+  * [10 things you should know about NPM](https://medium.com/javascript-in-plain-english/10-things-you-should-know-about-npm-f72f94a13954)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
@@ -2245,6 +2246,7 @@ Javascript
   * [React-Ajax](https://www.youtube.com/playlist?list=PLuHgQVnccGMDVTrQYa2HRj1OBbT-4HU_v)
 * [React Developer Tools를 이용한 컴포넌트 렌더링 이해와 배포](https://blog.naver.com/pjt3591oo/221907792621)
 * [알고리즘 시각화 React 웹 앱 개발](https://www.youtube.com/playlist?list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
+* [Don’t Depend on State From Callback Handlers in React](https://medium.com/better-programming/dont-depend-on-state-from-callback-handlers-in-react-167241a876ff)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
