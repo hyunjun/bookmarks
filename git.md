@@ -197,6 +197,7 @@ Git
   * [Keeping a fork up to date](https://gist.github.com/CristinaSolana/1885435)
   * [fork한 저장소를 최신 원본과 동기화시키기](https://junwoo45.github.io/2019-09-01-git_upstream/)
 * [Learning Git: 5 Shortcuts to Improve Your Coding Speed](https://levelup.gitconnected.com/learning-git-shortcuts-1267fb689f4a)
+* [Git in the office](https://jusths.tistory.com/162) checkout rebase fetch merge
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
