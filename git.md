@@ -186,6 +186,7 @@ Git
 * [Learn basics of Version Control & Git Commands in less than 10 minutes](https://hackernoon.com/learn-basics-of-version-control-git-commands-in-less-than-10-minutes-9769d3147410)
 * [Git Fu Developing](https://www.youtube.com/watch?v=f-Br8cud2eI)
 * [Git 커맨드라인 환경에서 GUI 부럽지 않게 사용할 수 있는 몇가지 팁](http://www.mimul.com/pebble/default/2019/08/23/1566550403384.html) fzf + peco
+* [Stop Using the Git CLI](https://medium.com/better-programming/stop-using-the-git-cli-d9cbee32cc27)
 * [Git 사용 중 자주 만나는 이슈 정리](https://parksb.github.io/article/28.html)
 * [커밋 히스토리를 이쁘게 단장하자](https://evan-moon.github.io/2019/08/30/commit-history-merge-strategy/) merge, squash, rebase
 * [Always Squash and Rebase your Git Commits](https://blog.carbonfive.com/2017/08/28/always-squash-and-rebase-your-git-commits/)
