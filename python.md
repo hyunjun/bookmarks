@@ -287,6 +287,7 @@ Python
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [Google Python Style Guide](https://github.com/google/styleguide/blob/gh-pages/pyguide.md)
 * [Start Programming with Google Python Style Guide](https://github.com/yunho0130/CAU_Python)
+* [**Nine simple steps for better-looking python code**](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
 * [예제로 배우는 Python 프로그래밍](http://pythonstudy.xyz/)
 * [Optimization with Python I](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKe3a-Bv7yFmIUVNF_d49Qg)
 * [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
@@ -2218,6 +2219,7 @@ Python
   * [The speed of your input pipeline counts](https://colab.research.google.com/github/random-forests/applied-dl/blob/master/examples/caching_demo.ipynb) .cache를 이용한 속도 향상. ipynb
   * [구글 코랩으로 데이터 클리닝, 시각화, 분석 - 가장 인기 있는 지하철 호선은?](https://blog.naver.com/codeitofficial/221690981226)
   * [Mecab-ko-for-GoogleColab](https://github.com/SOMJANG/Mecab-ko-for-Google-Colab)
+  * [명품강의를 찾아서 #1 Intro to Google Colabs](https://www.youtube.com/watch?v=3XudbFwLDwU)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * [**jupyter.nims.re.kr**](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
@@ -2270,6 +2272,7 @@ Python
 * [Don’t Miss out on these 24 Amazing Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
 * [파이썬 활용, 파이썬 프로젝트로 할 수 있는 일들을 알아보자!](https://tariat.tistory.com/775)
 * [**Top 10 Python libraries of 2019**](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
+* [3 Insane Secret Weapons for Python](https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084) kite, mypy, sonarlint
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -3556,6 +3559,7 @@ Python
 * [python testing](http://pythontesting.net/)
 * [Unit Tests in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 * [Reduce testing time by Multiprocessing in python](https://www.slideshare.net/SangJuneAhn/reduce-testing-time-by-multiprocessing-in-python-138982022)
+* [Don’t trust your gut!](https://towardsdatascience.com/dont-trust-your-gut-80ace85e9747)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
