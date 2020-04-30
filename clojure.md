@@ -674,6 +674,7 @@ Clojure
   * [The Feynman Machine: AI architecture in Clojure/Neanderthal - Fergal Byrne](https://www.youtube.com/watch?v=um2uq5oURT8)
 * [Nightcode - A handy tool for your Clojure adventures](https://sekao.net/nightcode/)
 * [nippy - High-performance serialization library for Clojure https://www.taoensso.com ](https://github.com/ptaoussanis/nippy)
+  * [Function serialization between Clojure processes and dialects](https://github.com/dvlopt/fdat.cljc)
 * [omnia - A Clojure REPL for prototyping, experimenting and trying things out](https://github.com/AvramRobert/omnia)
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
