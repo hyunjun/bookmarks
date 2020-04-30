@@ -207,6 +207,7 @@ Go
 * [Good Code vs Bad Code in Golang](https://medium.com/@teivah/good-code-vs-bad-code-in-golang-84cb3c5da49d)
 * [GoLand에서 delve로 원격 디버깅하기](https://blog.outsider.ne.kr/1433)
 * [GoLand를 사용한 테스트 기반 개발 (TDD)](https://blog.jetbrains.com/kr/2020/03/goland-tdd-ko/)
+* [5 Tips To Speed Up Golang Development With IntelliJ Or Goland](https://medium.com/@keperry/5-tips-to-speed-up-golang-development-with-intellij-or-goland-6646110e9c5e)
 * [NAVER Tech Talk: Golang 밋업(2018년 8월, 2019년 1월)](https://d2.naver.com/news/3383672)
 * [The Journey of Running a Golang Program over Tor](https://hackernoon.com/the-journey-of-running-a-golang-program-over-tor-1c42a4041ba8)
 * [Go As a Scripting Language in Linux](https://www.youtube.com/watch?v=k7oosn5HrKk)
@@ -247,6 +248,7 @@ Go
 * [Go: Aliases, Simple and Efficient](https://medium.com/a-journey-with-go/go-aliases-simple-and-efficient-8506d93b079e)
 * [Go: How Does gops Interact with the Runtime?](https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18)
 * [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
+* [Exploring Filter in Go](https://medium.com/better-programming/exploring-filter-in-go-158abc3926)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
