@@ -438,6 +438,7 @@ iOS
 * [Swift로 그래프 탐색 알고리즘을 실전 문제에 적용해보기 - BFS 편](https://wlaxhrl.tistory.com/89)
 * [맥용 메뉴 바 앱 개발하기 - 00. 팝오버 생성](https://blog.rajephon.dev/2018/07/23/mac-menu-bar-widget-00/)
 * [맥용 메뉴 바 앱 개발하기 - 01. 콘솔 명령어 수행 및 권한상승요청](https://blog.rajephon.dev/2018/09/03/mac-menu-bar-widget-01/)
+* [Generics and Subtypes in Swift](https://medium.com/better-programming/generics-and-subtypes-in-swift-7f27638e1b99)
 
 ## Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
