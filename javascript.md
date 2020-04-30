@@ -917,6 +917,7 @@ Javascript
 * [React와 Apollo, Parcel 기반 서비스 개발](https://d2.naver.com/helloworld/2838729)
 * [How to do Apollo HOC mutations the right way](https://medium.freecodecamp.org/do-apollo-hoc-mutations-goodly-bb4effdbee94)
 * [Apollo Link State in Less than 30 Minutes](https://www.youtube.com/watch?v=CnhHeSAAbRM)
+* [Apollo Client + Typescript Hook Patterns](https://levelup.gitconnected.com/apollo-client-typescript-hook-patterns-33353b6315a1)
 * [GraphQL Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iK6Qhn-QLcXCXPQUov1U7f)
 * [Graphpack - A minimalistic zero-config GraphQL server](https://github.com/glennreyes/graphpack)
 * [How to set up a GraphQL Server using Node.js, Express & MongoDB](https://medium.freecodecamp.org/how-to-set-up-a-graphql-server-using-node-js-express-mongodb-52421b73f474)
@@ -966,6 +967,7 @@ Javascript
 * [Advice from a GraphQL Expert](https://www.netlify.com/blog/2020/01/21/advice-from-a-graphql-expert/)
 * [Constructing Types with the GraphQL Package](https://medium.com/swlh/constructing-types-with-the-graphql-package-2b3e5676b664)
 * [What is GraphQL? The new way to create APIs](https://medium.com/javascript-in-plain-english/what-is-graphql-375f8f2c227f)
+* [GraphQL Gateway for Exposing External APIs](https://medium.com/devops-dudes/graphql-gateway-for-exposing-external-apis-51239a914876)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1400,6 +1402,7 @@ Javascript
 * [React vs Angular : 둘 중 어떤 것이 당신의 프로젝트에 알맞을까요?](https://www.popit.kr/%EB%B2%88%EC%97%AD%EA%B8%80-react-vs-angular-%EB%91%98-%EC%A4%91-%EC%96%B4%EB%96%A4-%EA%B2%83%EC%9D%B4-%EB%8B%B9%EC%8B%A0%EC%9D%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EC%95%8C%EB%A7%9E/)
 * [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
 * [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://medium.com/hackernoon/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
+* [Making Quick Changes to Entered Data](https://medium.com/better-programming/react-vs-vue-making-quick-changes-to-entered-data-337b9823ae6)
 
 ## Library Internationalization i18n 국제화
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
@@ -2247,6 +2250,7 @@ Javascript
 * [React Developer Tools를 이용한 컴포넌트 렌더링 이해와 배포](https://blog.naver.com/pjt3591oo/221907792621)
 * [알고리즘 시각화 React 웹 앱 개발](https://www.youtube.com/playlist?list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
 * [Don’t Depend on State From Callback Handlers in React](https://medium.com/better-programming/dont-depend-on-state-from-callback-handlers-in-react-167241a876ff)
+* [How to Make a Fake Chat Bot With React](https://medium.com/better-programming/how-to-make-a-fake-chat-bot-with-react-a0ab7f3fee7b)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
