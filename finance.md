@@ -180,6 +180,7 @@ Finance
 * [OpenDartReader 금융감독원 전자공시 시스템의 "Open DART"서비스 API를 손쉽게 사용할 수 있도록 돕는 오픈소스 라이브러리](https://github.com/FinanceData/OpenDartReader)
 * [유용한 파이썬 금융 데이터 수집 라이브러리 추천](https://stock79.tistory.com/376)
 * [Best 5 free stock market APIs in 2020](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984)
+* [How to Build a Data Pipeline with the TD Ameritrade Python API Library](https://www.youtube.com/watch?v=icLy0glrovc)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
