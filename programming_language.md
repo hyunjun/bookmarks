@@ -114,6 +114,7 @@ Programming Language
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
   * [x64 어셈블리 소개](http://thar.tistory.com/1)
   * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
+* [AXEL - Haskell + LispHaskell's semantics, plus Lisp's macros](https://axellang.github.io/)
 * [Ballerina - Cloud Native Programming Language](https://ballerina.io/)
 * Basic
   * [GWBASIC 레거시 이야기](http://thdev.net/744)
