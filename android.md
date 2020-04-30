@@ -159,6 +159,7 @@ Android
 * [BuildTypes와 Flavor를 이용해 안드로이드 환경변수 설정하는 방법](https://developer88.tistory.com/234)
 * [안드로이드의 BuildConfig 활용](http://sunphiz.me/wp/archives/3557)
 * [Android의 View, Canvas, Surface 그리고 Window에 관한 정리](https://developer88.tistory.com/225)
+* [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
@@ -225,6 +226,7 @@ Android
   * [Dagger 적용기](http://woowabros.github.io/experience/2019/07/31/android-dagger.html)
   * [Dagger를 통한 Dependency Injection 구현](https://developer88.tistory.com/173)
   * [Dagger DI Graph의 샛별, Scabbard 맛보기](http://pluu.github.io/blog/android/2019/12/29/dagger-scabbard/)
+  * [Dagger navigation support in Android Studio](https://medium.com/androiddevelopers/dagger-navigation-support-in-android-studio-49aa5d149ec9)
 * [Flutter](flutter.md)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
 * [Fuse is the UX tool suite for app designers and developers](https://www.fusetools.com/)
