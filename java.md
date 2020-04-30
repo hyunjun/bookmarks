@@ -427,6 +427,7 @@ Java
 * [뒤늦게 배워보자, Java 8 Part. 7](https://www.sangkon.com/java8_study_part7/)
 * [뒤늦게 배워보자, Java 8 Part. 8](https://www.sangkon.com/java8_study_part8/)
 * [Vavr’s flatMap in action](https://blog.softwaremill.com/vavrs-flatmap-in-action-a975a99c4319)
+* [Let’s replace common list and map usage patterns with Vavr](https://blog.softwaremill.com/lets-replace-common-list-and-map-usage-patterns-with-vavr-663b1f37a0d8)
 
 ## Java8 Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
@@ -1105,6 +1106,7 @@ Java
 * [Spring boot multi-module maven project example](https://howtodoinjava.com/spring-boot2/sb-multi-module-maven-project/)
 * [@RequestBody에 왜 기본 생성자는 필요하고, Setter는 필요 없을까? #1](https://velog.io/@conatuseus/RequestBody%EC%97%90-%EA%B8%B0%EB%B3%B8-%EC%83%9D%EC%84%B1%EC%9E%90%EB%8A%94-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EA%B0%80)
 * [SpringBoot, Liquibase and MariaDB](https://itnext.io/springboot-liquibase-and-mariadb-b3f943c29370)
+* [Build RESTful Services with Spring Boot 2.X in Few Steps](https://medium.com/@codespeaks/build-restful-services-with-spring-boot-2-x-in-few-steps-95c895a7abf5)
 
 # Memory Leak, OOM, Out of memory
 * [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
