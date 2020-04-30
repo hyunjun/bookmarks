@@ -371,6 +371,7 @@ Statistics
 * [Survival Analysis (생존분석) 어떤 사건의 발생 확률을 시간이란 변수와 함께 생각하는 통계 분석 및 예측 기법](https://hyperconnect.github.io/2019/07/16/survival-analysis-part1.html)
 * [Survival Analysis (2/3)](https://hyperconnect.github.io/2019/08/22/survival-analysis-part2.html)
 * [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
+* [**30명이면 된다고? 회의에서 당당하게, 설문조사를 알아보자**](http://triviaz.net/blog:easy_clt_survey)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
 * [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
