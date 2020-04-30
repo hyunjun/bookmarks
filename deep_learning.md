@@ -1821,6 +1821,7 @@ Deep Learning
 * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
 * [Let’s build a simple Neural Net!](https://becominghuman.ai/lets-build-a-simple-neural-net-f4474256647f)
 * [Building a Feedforward Neural Network from Scratch in Python](https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b)
+* [Predict the probability of getting heart disease with a Python neural network](https://medium.com/better-programming/predicting-heart-disease-with-a-neural-network-a48d2ce59bc5)
 * [DeepCreamPy - Decensoring Hentai with Deep Neural Networks](https://github.com/deeppomf/DeepCreamPy)
 * [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
 * [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com ](https://github.com/NervanaSystems/neon)
