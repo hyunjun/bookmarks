@@ -369,6 +369,7 @@
 * [Data Modeling in Apache Spark - Part 2 : Working With Multiple Dates](http://blog.madhukaraphatak.com/data-modeling-spark-part-2/)
 * [Concurrency in Spark](http://www.russellspitzer.com/2017/02/27/Concurrency-In-Spark/)
 * [How we reduced our Apache Spark cluster cost using best practices](https://medium.com/iotransportation/how-we-reduced-our-apache-spark-cluster-cost-using-best-practices-ac1f176379ac)
+* [Big Data file formats explained](https://medium.com/@luminousmen/big-data-file-formats-explained-73552c7ef4cd)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
