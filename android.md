@@ -42,6 +42,7 @@ Android
 * [Activity Manifest 설정에 대한 정리(launchMode, screenOrientation, configChanges 등)](https://developer88.tistory.com/265)
 * [메인 액티비티 실행이 안돼요](http://sunphiz.me/wp/archives/3258)
 * [New ActivityResultRegistry](http://pluu.github.io/blog/android/2020/03/24/activity-result/)
+* [새로운 API ActivityResultContract로 Migration](http://pluu.github.io/blog/android/2020/05/01/migation-activity-result/)
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
 * [DataBinding - Goodbye 버터나이프 Hello 데이터바인딩](http://gun0912.tistory.com/71)
 * [DataBinding에 대해서 알아보자 part1](https://developer88.tistory.com/202)
