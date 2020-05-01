@@ -91,6 +91,7 @@ Programming Books
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
+* (NOT YET) [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
 
 # Agile Scrum
 
