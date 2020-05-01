@@ -1,6 +1,7 @@
 Regular Expression
 ==================
 * [정규표현식이란 무엇인가?](https://github.com/zeeshanu/learn-regex/blob/master/README-ko.md)
+* [LEARN REGEX THE EASY WAY](https://github.com/ziishaned/learn-regex/blob/master/translations/README-ko.md)
 * [Benchmark of Regex Libraries](http://lh3lh3.users.sourceforge.net/reb.shtml)
 * [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html)
 * [RegExr: A website for interactive regex prototyping with syntax highlighting](http://regexr.com/)
