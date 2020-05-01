@@ -900,6 +900,8 @@ Machine Learning
   * [docs.backend.ai](http://docs.backend.ai)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
+* [MediaPipe - a cross-platform framework for building multimodal applied machine learning pipelines https://mediapipe.dev ](https://github.com/google/mediapipe)
+  * [MediaPipe to openFrameworks](https://github.com/madelinegannon/example-mediapipe-udp/)
 * [MLDB - the Machine Learning Database](http://mldb.ai/)
   * [Technology Fridays: MLDB is the Database Every Data Scientist Dreams Of](https://hackernoon.com/technology-fridays-mldb-is-the-database-every-data-scientist-dreams-of-368b50b5a434)
 * [mlflow - Open source platform for the machine learning lifecycle https://mlflow.org ](https://github.com/mlflow/mlflow)
