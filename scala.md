@@ -254,6 +254,7 @@ Scala
 * [**스칼라의 동시성**](https://twitter.github.io/scala_school/ko/concurrency.html) 이전 버전을 다루기는 하지만 java thread부터의 설명이 좋음
 * [The Death of Hype: What's Next for Scala](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html) python의 편의성을 쫓아가려는 이야기가 시사하는 바가 있음
 * [Data Juggling - Part 12 - Juggling Functions](https://www.youtube.com/watch?v=M7AvYMnPdW8)
+* [Functional Tracing using Scala](https://medium.com/@ayushm4489/functional-tracing-using-scala-dc98b1f2ec5) observability
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -426,6 +427,7 @@ Scala
 * [When do you need Akka Cluster?](https://blog.softwaremill.com/when-do-you-need-akka-cluster-5885d43e901b)
 * [Akka Cluster application design — untyped](https://medium.com/@reeebuuk/akka-cluster-application-design-2fd6e11cd7f2)
 * [How to co-locate Kafka Partitions with Akka Cluster Shards](https://akka.io/blog/news/2020/03/18/akka-sharding-kafka-video)
+* [10000 nodes and beyond with Akka Cluster and Rapid](https://manuel.bernhardt.io/2020/04/30/10000-node-cluster-with-akka-and-rapid/)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
@@ -474,6 +476,7 @@ Scala
 * [Akka Streams: error handling in event processing pipelines](https://medium.com/@bszwej/akka-streams-error-handling-7ff9cc01bc12)
 * [Enriching OCR with Akka Streams](https://towardsdatascience.com/enriching-ocr-with-akka-streams-7e48990be929)
 * [Scaling ETL with Scala](https://medium.com/protenus/scaling-etl-with-scala-6c317d77fd82)
+* [The Power of Akka Streams](https://aleksandarskrbic.github.io/power-of-akka-streams/)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
@@ -746,6 +749,7 @@ Scala
 * [Hands-on Scala Programming](https://www.handsonscala.com/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
+* [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
 * [The Science of Functional Programming](https://github.com/winitzki/sofp)
 * [underscore.io ebook](http://underscore.io/books/)
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
@@ -1297,6 +1301,7 @@ Scala
 * [Write your own micro BDD test framework in one day](https://blog.softwaremill.com/write-your-own-micro-bdd-test-framework-in-one-day-e8f0c21c8093)
 * [Fixtures in Scala — three simple ways to reduce your test code boilerplate](https://blog.softwaremill.com/fixtures-in-scala-three-simple-ways-to-reduce-your-test-boilerplate-5eb60ffe883)
 * [Testing APIs using Functional Programming in Scala](https://medium.com/seek-blog/testing-with-functional-programming-in-scala-bb26bd4d4b42)
+* [Testing Embedded H2 DB with Scala and Scalatest](https://medium.com/@sukumaarneo/testing-embedded-h2-db-with-scala-and-scalatest-3a863aafc9ab)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
@@ -1382,8 +1387,6 @@ Scala
 * [Exploring Type Annotations in Scala](https://www.geekabyte.io/2017/12/exploration-of-type-annotations-in-scala.html)
 * [Part 1: Application of literal and dependent object types in Scala 2.13](https://medium.com/@yevgennerush/part-1-application-of-literal-and-dependent-object-types-in-scala-2-13-62dbe4493dce)
 * [Typeclasses](https://francistoth.github.io/2020/04/09/typeclasses.html)
-* [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
-* [NewType is New Now!](https://medium.com/@afsal.taj06/newtype-is-new-now-63f1b632429d)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
@@ -1391,6 +1394,10 @@ Scala
   * [Wtf is Refined ?](https://medium.com/@Methrat0n/wtf-is-refined-5008eb233194)
   * [Validate Service Configuration in Scala](https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6)
   * [Data Juggling - Part 8 - Getting Started with #refined](https://www.youtube.com/watch?v=aZsmapo1afQ)
+* [scala-newtype - NewTypes for Scala with no runtime overhead](https://github.com/estatico/scala-newtype)
+  * [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
+  * [NewType is New Now!](https://medium.com/@afsal.taj06/newtype-is-new-now-63f1b632429d)
+  * [A simple trick to improve type safety of your Scala code](https://blog.softwaremill.com/a-simple-trick-to-improve-type-safety-of-your-scala-code-ba80559ca092)
 
 # Tutorial
 * [Scala Recipes: A "HelloWorld" in Scala](https://medium.com/@caiquerodrigues/scala-recipes-a-helloworld-in-scala-d578238cd7fe)
