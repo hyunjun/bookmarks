@@ -715,6 +715,7 @@ Javascript
 * [Async-await는 어떻게 구현하는가](https://medium.com/@la.place/async-await는-어떻게-구현하는가-fa08a3157647)
 * [Aborting a signal: How to cancel an asynchronous task in JavaScript](https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript/)
 * [How the new ‘Top Level Await’ feature works in JavaScript](https://medium.com/javascript-in-plain-english/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8)
+* [**await의 함정, 숨은 병목을 찾자**](https://jaeheon.kr/161)
 * [What does a Worker do in JavaScript?](https://medium.com/javascript-in-plain-english/what-does-a-worker-do-in-javascript-25b9449f22f1)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
