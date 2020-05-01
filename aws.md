@@ -120,6 +120,7 @@ AWS
 * [AWS cloud 2017](http://www.slideshare.net/awskorea/tag/awscloud2017?adbsc=social_20170122_69566986&adbid=1827942874129072&adbpl=fb&adbpr=1563378127252216)
 * [AWS Spot Instance를 좀 더 편하게 사용해보자](http://everyevery.net/index.php/2017/01/aws-spot-instance%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
 * [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
+* [AWS Managed WAF 체험기](https://medium.com/benx-tech-blog/aws-managed-waf-%EC%B2%B4%ED%97%98%EA%B8%B0-eea52affb295)
 * [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/arun-gupta/java-k8s)
 * [Kubernetes Hands-on](https://github.com/awskrug/handson-labs-2018/blob/master/OpenInfraDays/hands-on.md)
 * [AWSKRUG Hands-on Lab 2018](https://github.com/awskrug/handson-labs-2018)
@@ -723,6 +724,7 @@ AWS
 * [aws route53 의 응답이상](https://linuxer.name/2020/01/aws-route53-의-응답이상)
 * [aws-route53-review](https://linuxer.name/2020/01/aws-route53-review/)
 * [Hybrid와 Multi Account간의 DNS 질의](https://zigispace.net/1074)
+* [Route53을 이용해 도메인과 ELB 를연결하는 방법](https://developer88.tistory.com/312)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
