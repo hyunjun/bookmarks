@@ -1694,6 +1694,7 @@ Programming
   * [기술 뉴스 #146 : 20-03-15](https://blog.outsider.ne.kr/1479)
   * [기술 뉴스 #147 : 20-04-01](https://blog.outsider.ne.kr/1480)
   * [기술 뉴스 #148 : 20-04-15](https://blog.outsider.ne.kr/1481)
+  * [기술 뉴스 #149 : 20-05-01](https://blog.outsider.ne.kr/1483)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1728,6 +1729,7 @@ Programming
 * [44BITS 뉴스레터 2020년 14-15주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-14-15)
 * [44BITS 뉴스레터 2020년 16-17주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-16-17)
 * [news.hada.io](https://news.hada.io/)
+* [2019년 10월 12일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-12.html) EXIF 이미지 처리 pillow
 * [2019년 12월 15일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2019-12-15.html) 2020년 Node 변화 예상 내용 정리 EOB
 * [2020년 1월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-1-18.html) 클린코드, 알고리즘, 도커, 범용 툴
   * [2020년 1월 18일 개발 이야기](http://yona.okdevtv.com/study/okdevtv/issue/24)
