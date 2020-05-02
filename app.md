@@ -734,6 +734,7 @@ App
   * [홈브류(Homebrew)란?](https://www.44bits.io/ko/keyword/homebrew)
   * [How does Homebrew work? (starring Rust!)](https://medium.com/@jldlaughlin/how-does-homebrew-work-starring-rust-94ae5aa24552)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
+* [dev-setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults](https://github.com/donnemartin/dev-setup)
 * [gcalcli - Get your google calendar into tmux](https://blog.hauck.io/get-your-google-calendar-into-tmux/)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
 * iSH [아이패드에서 장고 애플리케이션 실행하기](https://medium.com/beyond-the-windows-korean-edition/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C%EC%97%90%EC%84%9C-%EC%9E%A5%EA%B3%A0-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-7d6d7ffe8523)
