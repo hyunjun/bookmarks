@@ -758,6 +758,8 @@ Docker
 * [**Kubernetes 환경을 위한 자바 에이전트 개발기**](https://hyperconnect.github.io/2020/03/25/kube-agent.html)
 * [Kubernetes & 12-factor apps](https://medium.com/ibm-cloud/kubernetes-12-factor-apps-555a9a308caf)
 * [7 missing factors from 12 factor application](https://medium.com/ibm-cloud/7-missing-factors-from-12-factor-application-2a3e1169bd9d)
+* [Domesticating Kubernetes](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41)
+* [Multicluster Kubernetes with Service Mirroring](https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/)
 
 ## Library Kubernetes
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
