@@ -105,6 +105,8 @@ SQL
 * migration
   * [flyway - Evolve your Database Schema easily and reliably across all your instances](https://flywaydb.org/) plain SQL 사용
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
+* [orbit-db - Peer-to-Peer Databases for the Decentralized Web](https://github.com/orbitdb/orbit-db)
+* [pstress - Database concurrency and crash recovery testing tool](https://github.com/Percona-QA/pstress)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
