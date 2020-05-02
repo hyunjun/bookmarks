@@ -249,6 +249,7 @@ Go
 * [Go: How Does gops Interact with the Runtime?](https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18)
 * [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
 * [Exploring Filter in Go](https://medium.com/better-programming/exploring-filter-in-go-158abc3926)
+* [Go as a Scripting Language](https://www.infoq.com/news/2020/04/go-scripting-language/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
