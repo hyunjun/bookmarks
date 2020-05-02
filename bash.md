@@ -17,6 +17,8 @@ Shell
 * [bash : 기초 : 셸의 역사, 종류](https://sunyzero.tistory.com/264) profile 참고
 * [5분 따라하기 bash 타임아웃 패턴](http://jhrogue.blogspot.com/2020/04/5-bash.html)
 * [5분 따라하기 bash에서 파일 확장자 변경](http://jhrogue.blogspot.com/2020/04/5-bash_29.html)
+* [**Anybody can write good bash (with a little effort)**](https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort)
+* [When did I run that command? Update your Bash prompt with the command start time](https://redandblack.io/blog/2020/bash-prompt-with-updating-time/)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
