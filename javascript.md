@@ -126,6 +126,7 @@ Javascript
 * [Replicating Art With JS](http://jsart.co/11/replicating-art-with-js/)
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
 * [An Apple \]\[ Emulator in JavaScript](https://www.scullinsteel.com/apple2/)
+* [Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)](https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/)
 * [Full-Scale JavaScript Your weekly summary of what important happened in JavaScript community](https://www.getrevue.co/profile/janis_t/)
 * [10분만에 따라하는 웹사이트 긁어오기](http://codenamu.org/2014/11/13/16385/)
 * [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
@@ -564,6 +565,9 @@ Javascript
 * [Why it’s Time to Stop Using JavaScript IIFEs?](https://levelup.gitconnected.com/why-its-time-to-stop-using-javascript-iifes-b62602f25bfc)
 * [3 Foundational JavaScript Ideas You Need to Upgrade From Tutorial Training Wheels](https://medium.com/better-programming/3-foundational-javascript-ideas-you-need-to-upgrade-to-pro-status-de7e7966d7c2)
 * [Stop using the ‘else’ keyword in your code](https://medium.com/javascript-in-plain-english/stop-using-the-else-keyword-in-your-code-907e82b3054a)
+* [Understanding the Google Analytics tracking code](http://code.iamkate.com/javascript/understanding-the-google-analytics-tracking-code/)
+* [**Learning Modern JavaScript with Tetris**](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
+* [메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다](https://github.com/meshkorea/front-end-engineering)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1731,6 +1735,7 @@ Javascript
   * [Express.js 서버는 왜 304를 반환하는 걸까?](https://huns.me/development/2306)
   * [express에서 에러로 HTTP status code 통제하기 throw new createError.BadRequest()](https://libsora.so/web/express-error-and-http-status-code/)
   * [Serve Directory Listings in an Express App with serve-index](https://medium.com/swlh/serve-directory-listings-in-an-express-app-with-serve-index-ff54f20c9636)
+  * [Tutorial: Create a Node.js and Express app in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2019)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
@@ -2454,6 +2459,7 @@ Javascript
   * [리액트(React)와 찰떡 궁합 Next.js](https://www.youtube.com/watch?v=jg2ha2RIWN0)
   * [앱 내 Webview 개발기](https://hyperconnect.github.io/2019/10/25/webview-history.html) Django + React에서 Next.js + Express로 변경하는 이야기
   * [Next.js 9.3 Released, Improves Static Site Generation](https://www.infoq.com/news/2020/03/nextjs-93-ssg-sass-preview/)
+  * [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html) realword.io
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
@@ -2761,6 +2767,7 @@ Javascript
 * [API 호출 테스트 코드 작성 방법 (with Typescript)](https://imch.dev/posts/how-to-write-a-test-code-about-api-call-with-typescript)
 * [인터페이스만 사용하다가 클래스를 다시 보았다](https://jeonghwan-kim.github.io/dev/2020/04/18/interface-to-class.html)
 * [React TypeScript: Basics and Best Practices](https://blog.bitsrc.io/react-typescript-cheetsheet-2b6fa2cecfe2)
+* [타입스크립트를 위한 클린코드 - 한글 번역판](https://github.com/738/clean-code-typescript)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
