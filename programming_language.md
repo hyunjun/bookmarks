@@ -86,6 +86,7 @@ Programming Language
 * [Programming languages](https://github.com/showcases/programming-languages)
 * [들어보셨나요? 한글 프로그래밍 언어 3종](http://www.bloter.net/archives/240918)
 * [Systems Languages: An Experience Report](https://blog.usejournal.com/systems-languages-an-experience-report-d008b2b12628)
+* [KAIST CS320 Programming Languages Course Reading Materials](https://hjaem.info/articles/main)
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
@@ -114,6 +115,7 @@ Programming Language
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
   * [x64 어셈블리 소개](http://thar.tistory.com/1)
   * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
+  * [Keystone - a lightweight multi-platform, multi-architecture assembler framework](http://www.keystone-engine.org/)
 * [AXEL - Haskell + LispHaskell's semantics, plus Lisp's macros](https://axellang.github.io/)
 * [Ballerina - Cloud Native Programming Language](https://ballerina.io/)
 * Basic
