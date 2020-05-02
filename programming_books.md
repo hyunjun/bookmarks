@@ -1100,6 +1100,7 @@ Programming Books
   * ["64비트 멀티코어 OS 원리와 구조" 의 예제 소스 코드](https://github.com/kkamagui/mint64os-examples)
 * (NOT YET) [실습과 그림으로 배우는 리눅스 구조](https://jybaek.tistory.com/784)
 * (NOT YET) [12가지 실무 프로젝트로 배우는 리눅스 관리의 기술 모던 리눅스 관리](https://www.gilbut.co.kr/book/view?bookcode=BN002552)
+* (NOT YET) [번역서 "BPF로 리눅스 관측 가능성 향상하기" 나왔습니다](http://occamsrazr.net/tt/363)
 
 ## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
