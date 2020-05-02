@@ -628,6 +628,7 @@ Python
   * [David Beazley | Keynote: Built in Super Heroes](https://www.youtube.com/watch?v=lyDLAutA88s)
   * [Python3에서 NestedDict 내의 특정 키값을 이용해서 Value를 가져오기](https://medium.com/@elastic7327/python3에서-nesteddict-내의-특정-키값을-이용해서-value를-가져오기-f81d922c932e)
   * [Dicts are now ordered, get used to it](https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/)
+  * [The Idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -2780,6 +2781,7 @@ Python
   * [Supervisor 를 이용한 서비스 동작 및 모니터링](http://mcchae.egloos.com/11187173) ubuntu
 * [Talk Python To Me - A podcast on Python and related technologies](http://talkpython.fm/)
   * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
+* [tauthon - Fork of Python 2.7 with new syntax, builtins, and libraries backported from Python 3](https://github.com/naftaliharris/tauthon)
 * [Template Engine](http://aosabook.org/en/500L/a-template-engine.html)
 * [TermFeed - Terminal Feed is a minimal feed reader for the terminal (without curses)](https://github.com/iamaziz/termfeed)
 * [terminal-palette - A simple library to color texts in terminal](https://github.com/JeongUkJae/terminal-palette)
