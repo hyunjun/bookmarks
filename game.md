@@ -32,6 +32,7 @@ Game
 * [We Open Sourced Our Steam Game](https://medium.com/squallygame/we-open-sourced-our-steam-game-and-why-it-was-a-good-idea-2d5ac72c9802)
 * [코에이 '노부나가의 야망'은 시뮬레이션 게임 역사상 특이점인가? 인류가 게임을 통해 전쟁을 시뮬레이션했던 역사를 돌아본다](http://isao76.egloos.com/2662773)
 * [Game AI Pro 3](http://www.gameaipro.com)
+* [피카츄 배구](https://gorisanson.github.io/pikachu-volleyball/ko/)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
@@ -60,6 +61,7 @@ Game
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [파이썬으로 블리자드 디아블로3 API 이용하기!](https://tariat.tistory.com/738)
 * [Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc) turtle, pygame
+* [PyBoy - Game Boy emulator written in Python](https://github.com/Baekalfen/PyBoy)
 * Pygame
   * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
   * [Pygame - Making Games with\* Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcxG_Cajz1JyTH6eAvka93C)
