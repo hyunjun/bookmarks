@@ -152,6 +152,7 @@ C
 * [배열 원소 삽입 삭제 패턴만 익혀봅시다](https://codingdog.tistory.com/entry/배열-원소-삽입-삭제-패턴만-익혀봅시다)
 * [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 * [embedding binary objects in c](https://flak.tedunangst.com/post/embedding-binary-objects-in-c)
+* [christmas-obfuscated-C](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
