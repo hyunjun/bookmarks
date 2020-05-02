@@ -588,6 +588,8 @@ Programming
 * [**Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud**](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
 * [Cloud Design Patterns— Explained Simply](https://medium.com/@rahatshaikh/cloud-design-patterns-explained-simply-113c788b33ff)
   * Asynchronous Request and Reply, Command and Query Responsibility Segregation (CQRS), Event Sourcing, Retry, Circuit Breaker, Sidecar
+* [Software Architecture and Design InfoQ Trends Report—April 2020](https://www.infoq.com/articles/architecture-trends-2020/)
+* [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -767,6 +769,7 @@ Programming
 * [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
 * [11 Reasons Why You Are Going To Fail With Microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
+* [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1213,6 +1216,7 @@ Programming
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
 * [A service to help with testing of sending the right emails https://api.unverified.email ](https://github.com/ptek/api.unverified.email)
+* [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
   * [How To Manually Test Connectivity To IMAP/POP/SMTP Services](https://serverguy.com/kb/manually-test-connectivity-imap-pop-smtp-services/)
@@ -1396,6 +1400,7 @@ Programming
   * [ZeroMQ에 대한 소개글 번역](http://chiyo85.tistory.com/80)
   * [Demo of how to extend multiprocessing.Process to communicate with pyzmq](https://gist.github.com/lebedov/2360424)
   * [멀티프로세스와 프로세스간 통신](https://soooprmx.com/archives/6440)
+  * [Why should I have written ZeroMQ in C, not C++ (part I)](http://250bpm.com/blog:4)
 * Zuul 2
   * [Open Sourcing Zuul 2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
   * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
@@ -1619,6 +1624,8 @@ Programming
   * [4월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/04/b-4-1.html)
   * [4월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2020/04/b-4-2.html)
   * [4월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2020/04/b-4-3.html)
+  * [4월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/04/b-4-4.html)
+  * [4월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/05/b-4-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
