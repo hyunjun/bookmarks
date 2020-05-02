@@ -125,6 +125,8 @@ Redis
 * [ioredis-mock - Emulates ioredis by performing all operations in-memory](https://github.com/stipsan/ioredis-mock)
 * [KeyDB - A Multithreaded Fork of Redis https://keydb.dev ](https://github.com/JohnSully/KeyDB)
   * [A Multithreaded Fork of Redis That’s 5X Faster Than Redis](https://docs.keydb.dev/blog/2019/10/07/blog-post/)
+* [lambda.store - Serverless Redis](https://lambda.store/)
+  * [Serverless Redis Is Here!](https://medium.com/lambda-store/serverless-redis-is-here-34c2fa335f24)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [RedisGraph - the first queryable Property Graph database to use sparse matrices to represent the adjacency matrix in graphs and linear algebra to query the graph](https://oss.redislabs.com/redisgraph/)
