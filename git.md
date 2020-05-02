@@ -85,6 +85,7 @@ Git
   * [gerrit query로 리뷰 데이터 추출하기](http://sunphiz.me/wp/archives/3262)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
+* [Git 커밋, 브랜치, HEAD의 관계는?](https://blog.naver.com/codeitofficial/221941216489)
 * [Git and GitHub Integration comes to Atom](http://blog.atom.io/2017/05/16/git-and-github-integration-comes-to-atom.html)
 * [GitHub을 이용한 셀프 브랜딩](https://news.realm.io/kr/news/github-self-branding/)
 * [**#gdc13 #review Working Together: Solutions for Collaborative Asset Creation**](http://ohyecloudy.com/pnotes/archives/gdc13-working-together-solutions-for-collaborative-asset-creation/)
