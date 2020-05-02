@@ -176,6 +176,7 @@ Linux
   * `grep ^processor /proc/cpuinfo | wc -l` 물리 CPU 개수
   * `grep 'cpu cores' /proc/cpuinfo | tail -1` CPU당 물리 코어 개수
 * [15 Essential Linux Command Line Tips and Tricks](https://medium.com/better-programming/15-essential-linux-command-line-tips-and-tricks-95e2bfa2890f)
+* [**CLI: improved**](https://remysharp.com/2018/08/23/cli-improved) bat, prettyping, fzf, htop, diff-so-fancy, fd, ncdu, tldr, ack/ag, jq, ponysay, csvkit, noti, entr
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -214,6 +215,8 @@ Linux
   * [python-crontab](https://pypi.python.org/pypi/python-crontab)
   * [Cron Expression](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180927_SM_Cron_Expressions.md)
   * [The Fun cron Tutorial](https://medium.com/better-programming/the-fun-cron-tutorial-b1c9d255a94c)
+  * [Linux Crontab: 15 Awesome Cron Job Examples](https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
+  * [서머타임과 배치작업](https://meetup.toast.com/posts/232)
 * `curl`
   * [practice - `-k` insecure & `-svo` verbose](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-curl_insecure-md)
   * [practice - sessionid를 curl로 얻는 방법](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-sessionid-md)
@@ -426,6 +429,7 @@ Linux
     * `ssh -L 15673:localhost:15672 <server>` e.g. rabbitmq의 web interface를 보고 싶은데, server에서 정책상 허용을 안 하면 내 localhost로 port forwarding을 해서 localhost:15673로 접속 가능
   * [SSH PORT](https://www.ssh.com/ssh/port)
   * [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
+  * [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
@@ -646,6 +650,7 @@ Linux
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
+* [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
@@ -813,6 +818,7 @@ Linux
 * [Powerline - a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile. https://powerline.readthedocs.org ](https://github.com/powerline/powerline)
 * [Tmux에서 페이지 스크롤 마우스로 사용하기](https://jojoldu.tistory.com/429)
 * [github.com/Zeta611/dotfiles](https://github.com/Zeta611/dotfiles) tmux 설정 참조
+* [TMUX FOR MERE MORTALS](https://zserge.com/posts/tmux/)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
