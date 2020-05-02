@@ -99,6 +99,7 @@ AWS
 * [How to directly deploy Github code of MERN/MEAN app on AWS?](https://www.youtube.com/watch?v=i9g2Sg10DPk)
 * [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
 * [ELB(Elastic Load Balancer) 생성해서 부하분산 적용하기](https://developer88.tistory.com/304)
+* [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
 * [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
 * AWS Beanstalk을 이용한 성능 튜닝 시리즈
   * [1. DB Connection Pool](http://jojoldu.tistory.com/318)
@@ -676,6 +677,7 @@ AWS
 
 # Library
 * [konlpy와 mecab을 amazon linux2에 인스톨하는 스크립트입니다](https://gist.github.com/serithemage/7c52ab749d053c21898647ce04b4db9b)
+* [Reactjs AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 * [aws API Changes](https://awsapichanges.info)
 * [**Amazon Builders' Library Amazon의 소프트웨어 구축 및 운영 방식**](https://aws.amazon.com/ko/builders-library/)
 * [AWS CLI v2 - now generally available](https://aws.amazon.com/ko/blogs/developer/aws-cli-v2-is-now-generally-available/)
