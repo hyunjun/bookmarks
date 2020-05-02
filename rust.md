@@ -151,6 +151,7 @@
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
+* [rust-analyzer - an implementation of Language Server Protocol for the Rust programming language](https://rust-analyzer.github.io/)
 * [Rustation PlayStation emulator](https://github.com/simias/rustation)
 * [Rust-Bio - a bioinformatics library for the Rust language](https://rust-bio.github.io/)
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
