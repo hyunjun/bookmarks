@@ -97,6 +97,7 @@ Finance
 * [파이썬을 활용한 금융공학모델링](http://www.quantkorea.com/xe/73093)
 
 # Library
+* [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
 * [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
 
 # Python
