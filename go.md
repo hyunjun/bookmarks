@@ -250,6 +250,7 @@ Go
 * [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
 * [Exploring Filter in Go](https://medium.com/better-programming/exploring-filter-in-go-158abc3926)
 * [Go as a Scripting Language](https://www.infoq.com/news/2020/04/go-scripting-language/)
+* [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
