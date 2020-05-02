@@ -2,6 +2,7 @@ Data Science
 ============
 
 * [Learn on Towards Data Science](https://towardsdatascience.com/learn-on-towards-data-science-52245bc91451) 주제별 글 모음 링크
+* [**Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines**](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [R에서 파이썬까지…데이터과학 학습 사이트 8곳](http://www.bloter.net/archives/237013)
 * [리다, 기업을 위한 데이터과학 강의 공개](http://www.bloter.net/archives/250844)
 * [데이터과학에 입문하고 싶다면, 이곳부터](http://www.bloter.net/archives/240224)
