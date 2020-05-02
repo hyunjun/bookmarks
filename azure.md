@@ -32,6 +32,7 @@ Azure
 * [Azure에서 사용할 수 있는 컨테이너/오케스트레이션 기술 살펴보기](https://www.slideshare.net/himskim/2020-ignite-seoulazure)
 * [Azure에서 PowerShell을 사용한 가상 네트워크와 서브넷을 만들 때 범할 수 있는 실수](http://www.dokyun.pe.kr/226)
 * [Try Azure PowerShell for fun (for 2018 Global Azure Boot Camp)](http://www.dokyun.pe.kr/227)
+* [Global Azure 2020 Korea 이벤트에서 발표한 발표자 분들의 발표자료 및 소스 코드](https://github.com/krazure/gab2020kr/)
 * [How to delete orphaned AD Sync account in Azure AD](http://www.dokyun.pe.kr/229)
 * Microsoft AI와 파이썬 장고를 통해 아이돌 안면장식장애 해결하기
   * [EP01. 슬라이드 설명 편](https://www.youtube.com/watch?v=09fxZbB-aoQ)
