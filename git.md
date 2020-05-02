@@ -144,6 +144,7 @@ Git
 * [git 다중 사용자 신원 설정](http://jhrogue.blogspot.com/2020/04/5-git.html)
 * [Setting Up Git Identities](https://www.micah.soy/posts/setting-up-git-identities/)
 * [**10 Extraordinary GitHub Repos for All Developers**](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
+* [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
 * [5 Git Practices for Effective Work](https://medium.com/better-programming/5-git-practices-for-effective-work-b612e5430bc7)
 * [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6)
 
@@ -266,6 +267,7 @@ Git
   * `git clone https://[username]:'[password]'@github.com/[username]/[repository]` enclose password in quotes if password has special characters
   * `git clone git@github.com:[id]/[repository].git`
   * [Git 저장소 복제 (부제: 쌍둥이 저장소 만들기)](https://velog.io/@king/Git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%B3%B5%EC%A0%9C-%EB%B6%80%EC%A0%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0-p6k5c7jkah)
+  * [What's the best practice to “git clone” into an existing folder?](https://stackoverflow.com/questions/5377960/whats-the-best-practice-to-git-clone-into-an-existing-folder/36084134?stw=2#36084134)
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
   * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
@@ -360,6 +362,7 @@ Git
   * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
   * `git diff <branch1>..<branch2> -- <filename>` branch간 특정 file 비교
   * `gitub.com/<id>/<repo>/compare/<branch1>...<branch2>` browser에서 비교
+  * [delta - A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)
 * filter-branch
   * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
   * [Git에 커밋 된 커밋하면 안될 파일 제거하기](https://chaewonkong.github.io/posts/git-remove-commited-file.html)
@@ -367,6 +370,9 @@ Git
   * [.gitignore가 작동하지 않을때 대처법](http://jojoldu.tistory.com/307)
   * [gitignore.io](https://www.gitignore.io/)
   * [Git 전역 ignore 파일](https://hyeonseok.com/soojung/dev/2019/06/29/853.html)
+  * [Ignoring Files and Directories in Git (.gitignore)](https://linuxize.com/post/gitignore-ignoring-files-in-git/)
+  * [gitignore.io - 자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요](https://www.gitignore.io/)
+  * [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * hook
   * [husky prevents bad commit or push using Git hooks](https://github.com/typicode/husky)
   * [훅으로 Git에 훅 들어가기](http://woowabros.github.io/tools/2017/07/12/git_hook.html)
@@ -605,6 +611,7 @@ Git
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
 * [gitpod - One-Click Online IDE for GitHub](https://www.gitpod.io/)
 * [git-punish](http://git-punish.io/)
+* [GitQlient - a multi-platform Git client originally forked from QGit](https://francescmm.github.io/GitQlient/)
 * [git-quick-stats로 보는 다양한 Git 통계](http://developer88.tistory.com/95)
 * [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
 * [git-remote-dropbox](http://www.anishathalye.com/2015/08/19/git-remote-dropbox/)
