@@ -355,6 +355,7 @@ NoSQL
 * [MongoDB 몽고DB 설치하는 법](https://blog.naver.com/goorm_official/221791616724)
 * [Mongolite User Manual](https://jeroen.github.io/mongolite/)
 * [How to resolve “Error Connecting to db. MongoNetworkError” when connecting to localhost MongoDB through MongoClient from NodeJS](https://medium.com/@bryantjiminson/how-to-resolve-error-connecting-to-db-3519f7744c5)
+* [MongoDB Best Practices 2020 Edition](https://www.percona.com/blog/2020/04/17/mongodb-best-practices-2020-edition/)
 
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
