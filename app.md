@@ -540,6 +540,7 @@ App
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 * [많이들 모른다는 아이폰 메모에 숨겨진 기능](http://1boon.kakao.com/share/iphonememo7)
 * [iOS 기본 앱 대체 서드파티 앱 시리즈 리스트 정리](https://www.clien.net/service/board/cm_iphonien/12508851)
+* [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
 
 # Linux
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
