@@ -210,6 +210,7 @@
 * [Kotlin Meetup Seoul 2019](https://www.youtube.com/playlist?list=PLQ176FUIyIUYg5T9uRt5YMev9s1yAOHYA)
 
 # Library
+* [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
 * [javalin - A simple web framework for Java and Kotlin](https://javalin.io)
   * [javalin - A simple and modern Java and Kotlin web framework https://javalin.io ](https://github.com/tipsy/javalin)
