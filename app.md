@@ -54,6 +54,7 @@ App
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * encryption
   * [age - a simple, modern and secure file encryption tool](https://github.com/FiloSottile/age)
+  * [keys.pub](https://keys.pub/)
   * [IronHide - an easy-to-use open source file encryption and decryption command line utility](https://hackernoon.com/ironhide-better-team-encryption-8950117dc6f0)
 * [etcher.io - Burn images to SD cards & USB drives, safely and easily](https://etcher.io/)
 * Figma [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
@@ -645,8 +646,10 @@ App
 * [monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
 * [mounty - 무료 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)
 * [MouseTools](http://www.hamsoftengineering.com/codeSharing/MouseTools/MouseTools.html) auto app
+* [n³ The missing terminal file manager for X](https://github.com/jarun/nnn)
 * [**nearlock.me**](http://nearlock.me/)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
+* [OpenInTerminal - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty](https://github.com/Ji4n1ng/OpenInTerminal)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
@@ -927,6 +930,7 @@ App
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
+* [marp - Markdown Presentation Ecosystem](https://marp.app/)
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
 * [**prose.io**](http://prose.io) github
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
@@ -942,6 +946,7 @@ App
   * [아는 만큼 표현한다··· 엑셀을 데이터 시각화 툴로 활용하기](http://www.ciokorea.com/news/123768)
   * [엑셀에서 Distinct Count 구하기](https://www.popit.kr/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-distinct-count-%EA%B5%AC%ED%95%98%EA%B8%B0)
   * [1. 능력있는 직장인이 되는 법. 엑셀 자동화란?](https://steemit.com/kr-newbie/@gbgg/excel-1)
+  * [How To : 엑셀에서 종속적 드롭다운 목록 만드는 방법](http://www.itworld.co.kr/news/151189)
 * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
 
 # Programming
@@ -1089,3 +1094,4 @@ App
   * [How To Protect Your WSL Distro More Firmly](https://medium.com/rkttu/do-not-install-your-wsl-distro-from-microsoft-store-a322b94e8e2)
   * [Windows Subsystem for Linux 2 Moving into General Availability with Improved Update Process](https://www.infoq.com/news/2020/04/wsl-2-general-availability/)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
+* [X server 4 Windows 10](https://x410.dev/)
