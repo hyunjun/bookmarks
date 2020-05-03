@@ -33,6 +33,7 @@ Game
 * [코에이 '노부나가의 야망'은 시뮬레이션 게임 역사상 특이점인가? 인류가 게임을 통해 전쟁을 시뮬레이션했던 역사를 돌아본다](http://isao76.egloos.com/2662773)
 * [Game AI Pro 3](http://www.gameaipro.com)
 * [피카츄 배구](https://gorisanson.github.io/pikachu-volleyball/ko/)
+* [게임 클라이언트 프로그래머로 취업하기 위해 필요한 10가지](https://ddayin.tistory.com/296)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
