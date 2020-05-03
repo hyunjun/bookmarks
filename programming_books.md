@@ -483,6 +483,7 @@ Programming Books
   * [수학으로 풀어보는 강화학습 원리와 알고리즘 예제(TF2.0 버전)](https://github.com/Yeachan-Heo/Reinforcement-Learning-Book)
 * (NOT YET) [단단한 강화학습: 강화학습 기본 개념을 제대로 정리한 인공지능 교과서](https://jpub.tistory.com/1026)
 * (NOT YET) [검색을 위한 딥러닝: 심층 신경망을 활용하는 차세대 검색 엔진 개발](https://jpub.tistory.com/1017)
+  * [도서리뷰 검색을 위한 딥러닝 2장: 동의어 생성](https://medium.com/@leejukyung/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%EA%B2%80%EC%83%89%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-2%EC%9E%A5-%EB%8F%99%EC%9D%98%EC%96%B4-%EC%83%9D%EC%84%B1-6c00bf856df4)
 * (NOT YET) [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
 * (NOT YET) [딥러닝을 위한 수학 인공지능의 핵심 원리를 이해하고 파이썬으로 구현해 보는](https://wikibook.co.kr/mathdl/)
 * (NOT YET) [친절한 실전 딥러닝 수업](https://github.com/bjpublic/TMI-Deeplearning)
