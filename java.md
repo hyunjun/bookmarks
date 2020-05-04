@@ -867,7 +867,7 @@ Java
 * [ShedLock - Distributed lock for your scheduled tasks](https://github.com/lukas-krecan/ShedLock)
   * [ShedLock을 이용한 Master - Slave (primary - secondary, leader - follower) 구분 없는 스케줄러 만들기](https://www.popit.kr/shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-master-slave-primary-secondary-leader-follower-%EA%B5%AC%EB%B6%84-%EC%97%86%EB%8A%94-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EB%A7%8C%EB%93%A4/)
 * [Siddhi - a java library that listens to events from data streams, detects complex conditions described via a Streaming SQL language, and triggers actions. It performs both Stream Processing and Complex Event Processing](https://github.com/wso2/siddhi)
-* [snappy-java - Snappy compressor/decompressor for Java](https://github.com/xerial/snappy-java)
+* [**snappy-java - Snappy compressor/decompressor for Java**](https://github.com/xerial/snappy-java)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * SpotBugs [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
