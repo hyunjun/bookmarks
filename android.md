@@ -37,6 +37,7 @@ Android
 * [액티비티와 프래그먼트에서 벗어나 간결하게 Android 앱 만들기](https://realm.io/kr/news/sf-fabien-davos-modern-android-ditching-activities-fragments/)
 * [안드로이드 액티비티(Activity) 정리하기 - 생명 주기(Lifecycle) 백 스택(Backstack)](https://jungwoon.github.io/android/2019/07/15/Activity/)
 * [Fragment Lifecycle과 LiveData](http://pluu.github.io/blog/android/2020/01/25/android-fragment-lifecycle/)
+* [Fragment의 새로운 도약, FragmentResult](http://pluu.github.io/blog/android/2020/05/04/fragment-result/)
 * [Android LifeCyle과 그 페어(Pair)들에 대해서 정리해 보겠습니다](https://developer88.tistory.com/216)
 * [startActivity가 안돼요](http://sunphiz.me/wp/archives/3296)
 * [Activity Manifest 설정에 대한 정리(launchMode, screenOrientation, configChanges 등)](https://developer88.tistory.com/265)
