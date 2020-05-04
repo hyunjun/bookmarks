@@ -2222,6 +2222,7 @@ Python
   * [Mecab-ko-for-GoogleColab](https://github.com/SOMJANG/Mecab-ko-for-Google-Colab)
   * [명품강의를 찾아서 #1 Intro to Google Colabs](https://www.youtube.com/watch?v=3XudbFwLDwU)
   * [명품강의를 찾아서 #2 Colab에서 Tensorflow설치](https://www.youtube.com/watch?v=gJiVg-ZuD8c)
+  * [명품강의를 찾아서 #3 Colab에서 Neural Network만들기](https://www.youtube.com/watch?v=YXr1veBB0dk)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * [**jupyter.nims.re.kr**](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
