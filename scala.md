@@ -748,6 +748,7 @@ Scala
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [Hands-on Scala Programming](https://www.handsonscala.com/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
+* [Modern Systems Programming with Scala Native Write Lean, High-Performance Code without the JVM](https://pragprog.com/book/rwscala/modern-systems-programming-with-scala-native)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
 * [The Science of Functional Programming](https://github.com/winitzki/sofp)
