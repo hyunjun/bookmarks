@@ -131,7 +131,6 @@ Git
 * [The Google Doc of Coding: Git & GitHub](https://medium.freecodecamp.org/the-google-doc-of-coding-git-github-ec103e87926d)
 * [How to be more productive on GitHub](https://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3)
 * [Mac OS X 터미널에서 Git 패스워드 기억하기](https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd)
-* [깃(Git) 유용한 팁](https://tech.10000lab.xyz/git/git-tips-you-need.html)
 * [Mind your programming language](https://medium.freecodecamp.org/mind-your-programming-language-38e340a430a1) .gitattributes
 * [The Essential Git Handbook](https://medium.freecodecamp.org/the-essential-git-handbook-a1cf77ed11b5)
 * [깃허브 패키지 레지스트리 베타 발표 언어 별 패키지 매니저 지원 및 깃헙 권한으로 접근 제어 등](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
@@ -146,6 +145,7 @@ Git
 * [Setting Up Git Identities](https://www.micah.soy/posts/setting-up-git-identities/)
 * [**10 Extraordinary GitHub Repos for All Developers**](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
+* [GitHub Protips: Tips, tricks, hacks, and secrets from Alyson La](https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/)
 * [5 Git Practices for Effective Work](https://medium.com/better-programming/5-git-practices-for-effective-work-b612e5430bc7)
 * [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6)
 
