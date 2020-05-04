@@ -65,6 +65,7 @@ Flutter
 * [Flutter Tutorial - Learn Clean Architecture & Test Driven Development](https://morioh.com/p/aff5d4da1a88)
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 * [Flutter Widget](https://www.youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
+* [pythonkim.tistory.com/category/플러터](https://pythonkim.tistory.com/category/%ED%94%8C%EB%9F%AC%ED%84%B0)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
