@@ -410,6 +410,10 @@ R
 # Installation
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
 
+# Java
+* [A primer in using Java from R – part 1](https://www.r-bloggers.com/a-primer-in-using-java-from-r-part-1/)
+* has_java [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자)
+
 # Lecture, MOOC
 * [데이터홀릭](https://www.youtube.com/playlist?list=PLOvmIXlrvHO18HuniAOdzlvMQxHumeAoE)
 * [R 통계 기초 R로 하는 기초 통계 분석법](https://mindscale.kr/course/basic-stat-r)
@@ -488,7 +492,6 @@ R
 * [h3jsr - Access Uber's h3-js library via R and V8 - https://uber.github.io/h3/#/documentation/overview/use-cases https://obrl-soil.github.io/h3jsr ](https://github.com/obrl-soil/h3jsr)
   * [예제 : R에서 Uber H3를 이용해보자](https://blog.naver.com/hancury/221716636489)
 * [h5 - An Object Oriented Interface to HDF5](https://cran.r-project.org/web/packages/h5/vignettes/h5-Intro.html)
-* has_java [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자)
 * [installr - Functions for installing softwares from within R](https://github.com/talgalili/installr)
   * [Windows에서 rJava 스트레스 없이 설치하기](https://mrchypark.github.io/post/rtips-windows%EC%97%90%EC%84%9C-rjava-%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-%EC%97%86%EC%9D%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [IRkernel - R kernel for Jupyter https://irkernel.github.io ](https://github.com/IRkernel/IRkernel)
