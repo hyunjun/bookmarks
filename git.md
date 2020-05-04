@@ -403,6 +403,7 @@ Git
     git config --global alias.lga "log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --all"
     ```
     * `git lg`, `git lg -p` 변경사항 포함, `git lga` branch까지 함께
+  * [Git 커밋 히스토리를 출력할 때 꿀팁](https://blog.naver.com/codeitofficial/221944918052)
 * merge
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
   * `git merge --no-commit --no-ff <name>` [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
