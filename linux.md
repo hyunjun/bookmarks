@@ -290,6 +290,7 @@ Linux
   * `find . -type d -exec zip -r {}.zip {} \;` 현재 directory의 sub directory들을 찾아 각각의 이름으로 압축
   * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
   * [Linux - Linux Command for finding files](https://chaewonkong.github.io/posts/linux-command-for-finding-files.html)
+  * [A shell one-liner to search directories](https://www.johndcook.com/blog/2020/04/19/directory-search/)
 * `fold`
   * [File character counts](https://www.johndcook.com/blog/2019/10/16/file-character-counts/) fold 응용
 * `grep`
