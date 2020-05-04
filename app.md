@@ -452,6 +452,7 @@ App
     * [코딩 인생 꿀템 VSC 단축키 5분 정리해드림](https://www.youtube.com/watch?v=Wn7j5dfbJF4)
     * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
     * [Jupyter Notebooks in Visual Studio Code](https://techcommunity.microsoft.com/t5/educator-developer-blog/jupyter-notebooks-in-visual-studio-code/ba-p/1155747)
+    * [Exploring an Alternative to Jupyter Notebooks for Python Development](https://pbpython.com/notebook-alternative.html)
     * [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
     * [사용중인 VSCode(Visual Studio Code) 확장 플러그인 목록](https://junhobaik.github.io/vsc-plugin-list/)
     * [VSCodium: 100% Open Source Version of Microsoft VS Code](https://itsfoss.com/vscodium/)
