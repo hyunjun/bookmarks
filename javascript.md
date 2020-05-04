@@ -578,6 +578,7 @@ Javascript
 * [자바스크립트는 무엇으로 구성되어있을까?](https://ui.toast.com/weekly-pick/ko_20200219/)
 * [Comma Operator in JavaScript](https://medium.com/javascript-in-plain-english/comma-operator-in-javascript-cfe170f5b4d3)
 * [자바스크립트의 var, let, const 를 알아보자](https://developer88.tistory.com/271)
+* [favorite JavaScript utilities in single line of code! No more!](https://1loc.dev/)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
