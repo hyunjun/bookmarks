@@ -562,6 +562,7 @@ Web
   * [HAProxy vs nginx: Why you should NEVER use nginx for load balancing!](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
   * [Keepalived and HAProxy in AWS: An Exploratory Guide](https://blog.logentries.com/2014/12/keepalived-and-haproxy-in-aws-an-exploratory-guide/)
   * [HAProxy TCP 모드에서 내부 서버로 Source IP 전달하기](https://realhanbit.co.kr/books/141/pages/1256/read)
+* [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
 
 # Python
 * Let’s Build A Web Server
