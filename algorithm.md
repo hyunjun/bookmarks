@@ -646,6 +646,7 @@ Algorithm
 * [A walk through the SA-IS Suffix Array Construction Algorithm](http://zork.net/~st/jottings/sais.html)
 * [qp tries: smaller and faster than crit-bit tries - Tony Finch](http://fanf.livejournal.com/137283.html)
 * [트라이 (trie)](https://www.youtube.com/watch?v=7e1b70dTAd4)
+* [trie에서 공간을 줄이기 위해 포인터를 어떻게 쪼갤까요](https://codingdog.tistory.com/entry/trie%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%84%EC%9D%84-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%8F%AC%EC%9D%B8%ED%84%B0%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%AA%BC%EA%B0%A4%EA%B9%8C%EC%9A%94)
 
 # Viterbi
 * greedy의 문제점을 해결하기 위해 only one best path를 찾는 방법
