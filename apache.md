@@ -448,6 +448,7 @@ Apache
   * [Kafka kru CONFERENCE SEOUL 2019 후기 & 정리글](https://dabo-dev.tistory.com/17)
   * [mini-meetup2](https://github.com/kafkakru/meetup/tree/master/mini-meetup2)
   * [About 3rd Mini-Meetup](https://github.com/kafkakru/meetup/tree/master/mini-meetup3)
+  * [Kafka Conference Seoul 2019](https://www.youtube.com/channel/UCbEFe27NO28kxV2BSWsQe5g)
 * [Moving From Legacy To Event-Driven With Kafka](https://www.youtube.com/watch?v=H_ang8BatXQ)
 * [카프카 컨슈머 애플리케이션 배포 전략](https://medium.com/11st-pe-techblog/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5-4cb2c7550a72)
 * [**cloudurable.com/categories/kafka**](http://cloudurable.com/categories/kafka/index.html)
