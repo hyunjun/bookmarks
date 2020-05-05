@@ -462,6 +462,7 @@ App
     * [Visual Studio Online](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
       * [Bring your own machine to Visual Studio Online](https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/)
     * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
+    * [Visual Studio Codespaces 소개](https://overspend.tistory.com/1)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
