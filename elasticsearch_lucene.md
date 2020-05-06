@@ -358,6 +358,7 @@ ElasticSearch - Lucene
 * [Node Topology 7.x](https://jjeong.tistory.com/1376)
 * [Elastic Stack Version 7.2: Feature Tour](https://www.youtube.com/watch?v=bmx13X87e2s)
 * [Elastic Stack 7.4.0 출시](https://www.elastic.co/kr/blog/elastic-stack-7-4-0-released)
+* [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
 * [filebeat-scouter-module](https://github.com/eskrug/filebeat-scouter-module)
 
 # ELK
