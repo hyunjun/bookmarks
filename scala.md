@@ -1260,6 +1260,7 @@ Scala
 * [TMWL Dec’19 — Scala 3 overview, Scala hacks and DevOps hints](https://blog.softwaremill.com/tmwl-dec-19-scala-3-overview-scala-hacks-and-devops-hints-828ab2423f17)
 * [Scala 3에서 가장 마음에 드는 기능](https://hubcodes.github.io/2020/03/27/Scala-3%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%93%9C%EB%8A%94-%EA%B8%B0%EB%8A%A5/)
 * [Scala 3 migration guide](https://github.com/scalacenter/scala-3-migration-guide)
+* [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
