@@ -193,6 +193,7 @@ AWS
 * [Request Spot Instances 이용하기](https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
 * [AWS 비용 얼마까지 줄여봤니?](http://tosslab.github.io/backend/2017/07/18/aws_instance_scheduler.html)
+* [AWS와 Firebase 비용에 관한 생각 정리](https://developer88.tistory.com/291)
 * [Tiamat - Python으로 만드는 AWS Provisioning Tool](https://www.slideshare.net/jesangyoon/tiamat-python-aws-provisioning-tool)
 * [AWS 주간 소식 모음 – 2018년 2월 4일](https://aws.amazon.com/ko/blogs/korea/week-in-review-04-02-18)
 * [AWS 주간 소식 모음 – 2018년 1월 22일](https://aws.amazon.com/ko/blogs/korea/week-in-review-22-1-18)
