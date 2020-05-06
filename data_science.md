@@ -490,6 +490,7 @@ Data Science
 * [Top 15 Python Libraries for Data Science in 2017](https://activewizards.com/blog/top-15-libraries-for-data-science-in-python/)
 * [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
 * [**10 Simple hacks to speed up your Data Analysis in Python**](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) 여러가지 분야(data, visualization등)의 library
+* [Python ETL Tools: Best 8 Options](https://towardsdatascience.com/python-etl-tools-best-8-options-5ef731e70b49)
 * [**Accelerator**](https://github.com/eBay/accelerator) 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
