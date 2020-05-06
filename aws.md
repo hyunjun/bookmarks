@@ -20,6 +20,7 @@ AWS
 * [Amplify Hands-on](https://docs.google.com/presentation/d/1msxmDS03cLSIwirmEWqBv6S7bUB5ojgQUcJKjVcJnR0/mobilepresent)
 * [Amplify CLI에서 로컬 모의 동작 및 테스트 기능 사용해 보기](https://aws.amazon.com/ko/blogs/korea/new-local-mocking-and-testing-with-the-amplify-cli/)
 * [Amplify Framework 업데이트 – 인공 지능 서비스 기능 추가](https://aws.amazon.com/ko/blogs/korea/amplify-framework-update-quickly-add-machine-learning-capabilities-to-your-web-and-mobile-apps/)
+* [AWS 입문 AWS Amplify + Android 프로젝트 생성하기](https://dev.classmethod.jp/articles/amplify_android_tutorial/)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
