@@ -255,6 +255,7 @@ Vision
 * [ICCV 2019](https://www.notion.so/ICCV-2019-41b81ab87c20488899dfbf88e64af24b)]
 * [FreeAnchor](https://www.slideshare.net/BrianKim244/freeanchor)
 * [Computer Vision Basics in Microsoft Excel (using just formulas)](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
+* [얼굴 인식과 닮은 꼴 찾기를 한 번에! (With Naver Cloud Platform): 컴퓨터 비전 1도 몰라도 가능?](https://dev-sngwn.github.io/2020-05-05-cfr-step-by-step/)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
