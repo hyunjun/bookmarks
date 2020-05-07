@@ -167,6 +167,7 @@ Git
 * [Write Your GitHub Actions Workflow for Build Windows Application](https://medium.com/rkttu/write-your-github-actions-workflow-for-build-windows-application-94e5a989f477)
 * [Github Actions를 이용한 개발블로그 글을 슬랙으로 알림받기](https://fernando.kr/22)
 * [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/)
+* [GitHub Actions, 어디까지 써봤니?](https://dico.me/topic/articles/279)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
