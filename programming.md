@@ -1217,6 +1217,7 @@ Programming
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
 * [A service to help with testing of sending the right emails https://api.unverified.email ](https://github.com/ptek/api.unverified.email)
+* [500 마일 이메일 문제](https://edykim.com/ko/post/500-mile-email-problem/)
 * [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
