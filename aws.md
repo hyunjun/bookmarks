@@ -342,6 +342,7 @@ AWS
 * [AWS EBS(Elastic Block Storage) 비용 최적화](https://ericygkim.wordpress.com/2019/07/11/aws-ebselastic-block-storage-%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
 * [AWS 블록 스토리지 개요와 비용](https://andromedarabbit.net/aws-%EB%B8%94%EB%A1%9D-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EA%B0%9C%EC%9A%94%EC%99%80-%EB%B9%84%EC%9A%A9/)
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
+* [EBS(Elastic Block Storage)에 대한 정리 #EC2](https://developer88.tistory.com/315)
 * [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
 * [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
 * [RDS 관계형 데이터베이스 서버 생성하기 #Free Tier #AWS](https://developer88.tistory.com/302)
