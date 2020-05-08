@@ -1739,6 +1739,7 @@ Programming
 * [44BITS 뉴스레터 2020년 14-15주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-14-15)
 * [44BITS 뉴스레터 2020년 16-17주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-16-17)
 * [news.hada.io](https://news.hada.io/)
+* [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
 * [2019년 10월 12일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-12.html) EXIF 이미지 처리 pillow
 * [2019년 12월 15일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2019-12-15.html) 2020년 Node 변화 예상 내용 정리 EOB
 * [2020년 1월 18일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-1-18.html) 클린코드, 알고리즘, 도커, 범용 툴
