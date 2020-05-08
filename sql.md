@@ -351,6 +351,7 @@ SQL
 * [Managing Hierarchical Data in MySQL](http://mikehillyer.com/articles/managing-hierarchical-data-in-mysql/) e.g. 게시판
 * [MySQL 실행 계획](http://12bme.tistory.com/160)
 * [**장애와 관련된 XtraBackup 적용기**](http://woowabros.github.io/experience/2018/05/28/billingjul.html) mysqldump, mysqlbinlog, XtraBackup
+* [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
 * [Xtrabackup으로 DB 복구하기](https://jojoldu.tistory.com/469)
 * [MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/)
 * [Speed Up Your Database 300 Times](https://speakerdeck.com/afilina/speed-up-your-database-300-times)
@@ -387,6 +388,7 @@ SQL
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
+* median 값 구하기 [SQL MySQL의와 계산의 중간에 간단한 방법](https://cnpnote.tistory.com/entry/SQL-MySQL%EC%9D%98%EC%99%80-%EA%B3%84%EC%82%B0%EC%9D%98-%EC%A4%91%EA%B0%84%EC%97%90-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B0%A9%EB%B2%95)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -420,7 +422,7 @@ SQL
 * [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
-* [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
+* [vitess - A database clustering system for horizontal scaling of MySQL](https://vitess.io/)
 
 ## MySQL Sharding
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
@@ -580,6 +582,7 @@ SQL
 * [다양한 조인(JOIN) 기법](http://blog.ngelmaum.org/entry/lab-note-sql-join-method)
 * [What's the difference between NOT EXISTS vs. NOT IN vs. LEFT JOIN WHERE IS NULL?](http://stackoverflow.com/questions/2246772/whats-the-difference-between-not-exists-vs-not-in-vs-left-join-where-is-null)
 * [All about SQL JOINs](https://hackernoon.com/all-about-sql-joins-ced19ecc4c1d)
+* [MSSQL JOIN의 종류설명 및 사용법 & 예제](https://coding-factory.tistory.com/87)
 * [SQL Join](https://opentutorials.org/module/4118)
   * [SQL Join](https://www.youtube.com/playlist?list=PLuHgQVnccGMAG1O1BRZCT3wkD_aPmPylq)
 
