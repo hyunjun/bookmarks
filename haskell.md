@@ -212,12 +212,21 @@ Haskell
 * [DERIVING ISOMORPHICALLY](https://www.tweag.io/posts/2020-04-23-deriving-isomorphically.html)
 * [Learn to moonwalk with waterflow problem](https://iokasimov.github.io/posts/2020/04/waterflow)
 * [Speeding up the Sixty compiler](https://ollef.github.io/blog/posts/speeding-up-sixty.html)
+* [Haskell on AWS Lambda - A Detailed Tutorial](https://www.haskelltutorials.com/haskell-aws-lambda/)
+* [Environment variables parsing for free (applicatives)](https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives/)
+* [Intervals and their relations](https://marcosh.github.io/post/2020/05/04/intervals-and-their-relations.html)
+* [JSON Parsing from Scratch in Haskell](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
+* [jmtd → log → template haskell](https://jmtd.net/log/template_haskell/)
+* [Frozen Lake in Haskell](https://mmhaskell.com/blog/2020/4/20/frozen-lake-in-haskell)
+* [More Random Access Lists](https://doisinkidney.com/posts/2020-05-02-more-random-access-lists.html)
+* [A TASTE OF BAZEL: BUILD A LIBRARY, A SERVICE AND HSPEC TESTS](https://www.tweag.io/posts/2020-05-06-convert-haskell-project-to-bazel.html)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
 * [A Type-Safe Approach to Categorized Data](https://epeery.com/typesafe-approach-to-categorized-data/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
+* String [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/)
 
 # Book
 * [gumroad.com/discover?query=haskell](https://gumroad.com/discover?query=haskell)
@@ -256,6 +265,7 @@ Haskell
   * [Hakyll Pt. 5 – Generating Custom Post Filenames From a Title Slug](https://robertwpearce.com/hakyll-pt-5-generating-custom-post-filenames-from-a-title-slug.html)
   * [Hakyll Pt. 6 – Pure Builds With Nix](https://robertwpearce.com/hakyll-pt-6-pure-builds-with-nix.html)
 * [Haskell for Mac is an easy-to-use integrated programming environment for the functional programming language Haskell](http://haskellformac.com/)
+* [haskell-language-server - Integration point for ghcide and haskell-ide-engine. One IDE to rule them all](https://github.com/haskell/haskell-language-server)
 * [HaskellR - Programming R in Haskell](https://tweag.github.io/HaskellR/)
   * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
 * [HaNS - The haskell network stack](https://github.com/GaloisInc/HaNS)
@@ -264,6 +274,7 @@ Haskell
   * [하스켈학교 세미나 - Haxl](https://www.slideshare.net/jooyunghan/haxl-63764110)
   * [GC처럼 동시성 문제를?](https://medium.com/@jooyunghan/gc%EC%B2%98%EB%9F%BC-%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-7ab792636c0c)
 * [HiDb: A Haskell In-Memory Relational Database](http://www.scs.stanford.edu/14sp-cs240h/projects/puttagunta_debray_tu.pdf)
+* [HLint 3.0 uses the GHC parser](https://neilmitchell.blogspot.com/2020/05/hlint-30.html)
 * [Idris-Java - Idris Java Backend - This is an updated version of the Java backend for Idris](https://github.com/idris-hackers/idris-java)
 * [Leksah - the Haskell IDE of choice](http://leksah.org/)
 * [Mu-Haskell - a set of packages that help you build both servers and clients for (micro)services](https://higherkindness.io/mu-haskell/) gRPC
@@ -271,6 +282,7 @@ Haskell
 * nix
   * [SF Scala: Enhancing Spark's Power with ZIO, Qubism and NLP at Scale, Using Nix for Haskell](https://www.youtube.com/watch?v=Ov7WZroBkv0)
   * [Building a reproducible blog with Nix](https://blog.ysndr.de/posts/internals/2020-04-10-built-with-nix/)
+* [overloaded-0.2.1: Overloaded:Categories](https://oleg.fi/gists/posts/2020-05-04-overloaded-categories.html)
 * [overloaded-0.2.1: Overloaded:Do](https://oleg.fi/gists/posts/2020-04-27-overloaded-local-do.html)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
@@ -300,6 +312,9 @@ Haskell
 * [Free and Freer Monads: Putting Monads Back into Closet](http://okmij.org/ftp/Computation/free-monad.html)
 * [Haskell Monads in 8 Minutes](https://www.youtube.com/watch?v=gEoruozy3mk)
 * [In Haskell, what does the phrase "monadic bind" mean?](https://www.quora.com/In-Haskell-what-does-the-phrase-monadic-bind-mean)
+* [Indexed Monads: Examples and Discussion](https://wespiser.com/posts/2020-05-06-IxMonad.html)
+* [A guide to monads in Haskell](https://medium.com/swlh/a-guide-to-monads-in-haskell-fe1c0e4457c1)
+* [Hierarchical Free Monads: The Most Developed Approach In Haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/7472b5c1a073366d87153dd3976873687422c8b1/README.md)
 
 # TDD, Test
 * [Rewriting to Haskell–Testing](https://odone.io/posts/2020-04-13-rewriting-haskell-testing.html)
