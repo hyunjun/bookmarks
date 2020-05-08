@@ -2780,6 +2780,7 @@ Javascript
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
+* [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
