@@ -654,6 +654,7 @@ NLP
 * [NLP Classification Tutorial with PyTorch](https://github.com/DonghyungKo/naver_movie_review_sentiment_classification) CBOW, CNN, DCNN, RNN, LSTM
 * [Practical Text Classification With Python and Keras](https://realpython.com/python-keras-text-classification/)
 * [Multi-Class Text Classification Using PySpark, MLlib & Doc2Vec](https://medium.com/towards-artificial-intelligence/multi-class-text-classification-using-pyspark-mllib-doc2vec-dbfcee5b39f2)
+* [Intro to Text classification through tensorflow in Python](https://morioh.com/p/85e4537d9904)
 * [Using Doc2Vec to classify movie reviews](https://jackdry.com/using-doc2vec-to-classify-movie-reviews)
 * [A Basic NLP Tutorial for News Multiclass Categorization](https://medium.com/@armandj.olivares/a-basic-nlp-tutorial-for-news-multiclass-categorization-82afa6d46aa5)
   * Natural Language Processing, Support Vector Machine, TF- IDF, deep learning, Spacy, Attention LSTM
