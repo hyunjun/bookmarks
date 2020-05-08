@@ -255,6 +255,8 @@ Scala
 * [The Death of Hype: What's Next for Scala](http://www.lihaoyi.com/post/TheDeathofHypeWhatsNextforScala.html) python의 편의성을 쫓아가려는 이야기가 시사하는 바가 있음
 * [Data Juggling - Part 12 - Juggling Functions](https://www.youtube.com/watch?v=M7AvYMnPdW8)
 * [Functional Tracing using Scala](https://medium.com/@ayushm4489/functional-tracing-using-scala-dc98b1f2ec5) observability
+* [Lunatech and our commitment to the Scala Center](https://www.linkedin.com/pulse/lunatech-our-commitment-scala-center-antoine-laffez/)
+* [Effect Tracking Is Commercially Worthless](https://degoes.net/articles/no-effect-tracking)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -678,6 +680,8 @@ Scala
     * [ZIO for IntelliJ](https://plugins.jetbrains.com/plugin/13820-zio-for-intellij)
     * [Testing Background Process With ZIO](https://www.rudder.io/blog/testing-background-process-zio/)
     * [Moving From Kotlin + Spring Reactor + Arrow to Scala + ZIO](https://adrianfilip.com/2020/04/07/moving-from-kotlin-spring-reactor-arrow-to-scala-zio/)
+    * [Building the Death Star with ZIO Stream](https://juliano-alves.com/2020/05/04/deathstar-zio-stream/)
+    * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
@@ -756,6 +760,7 @@ Scala
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
 
 # Conference
+* [Thoughts on Recent Online-Only Conferences](https://www.inner-product.com/posts/online-only-conference-report/)
 * [This is why you must join Scalar 2019](https://blog.softwaremill.com/this-is-why-you-must-join-scalar-2019-69ad12248e95)
   * [Scalar 2019 whiteboard voting](https://blog.softwaremill.com/scalar-2019-whiteboard-voting-40b31e4f7f7)
 * [reddit.com/r/ScalaConferenceVideos/new/](https://www.reddit.com/r/ScalaConferenceVideos/new/)
@@ -1072,6 +1077,7 @@ Scala
   * [Migrate a service getting 200KQPS from Jackson to Circe](https://medium.com/criteo-labs/migrate-a-service-getting-200kqps-from-jackson-to-circe-a475b2718206)
   * [Permutive Community Engineering, October 2019](https://medium.com/permutive/permutive-community-engineering-october-2019-51de37bc7791)
   * [Hacking with scala circe-json](https://medium.com/rahasak/hacking-with-circe-json-scala-ca626705733e)
+  * [#circe - Part 1 - Introduction to working with #JSON in #Scala](https://www.youtube.com/watch?v=712WE9Ou7BE)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
@@ -1138,6 +1144,7 @@ Scala
   * [Play-Json extensions](https://github.com/xdotai/play-json-extensions)
   * [practice - sealed trait - sealed class/companion object - final case class + json de/serialization](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
   * [Play Framework using Scala](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
+  * [Implementing Authentication on Play Framework](https://pedrorijo.com/blog/scala-play-auth/)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
@@ -1236,6 +1243,7 @@ Scala
 * `reload` terminal의 sbt와 달리 intelliJ의 sbt shell에서 build.sbt의 --add-export compiler option이 동작하지 않을 때 사용했더니 동작함. 추가 확인 필요
 * [scala개발시 sbt build때 GZIPInputStream: java.util.zip.ZipException: Not in GZIP format 에러나는 경우 해결책](https://blog.voidmainvoid.net/196)
 * [sbt scala version mismatch - sbt에서 사용하는 scala version이 command line의 scala와 맞지 않을 때](https://medium.com/@strncpy/sbt-scala-version-mismatch-4f8260b4e707)
+* [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
@@ -1261,6 +1269,8 @@ Scala
 * [Scala 3에서 가장 마음에 드는 기능](https://hubcodes.github.io/2020/03/27/Scala-3%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%93%9C%EB%8A%94-%EA%B8%B0%EB%8A%A5/)
 * [Scala 3 migration guide](https://github.com/scalacenter/scala-3-migration-guide)
 * [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
+* [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
+* [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
