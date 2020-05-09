@@ -362,6 +362,7 @@ Data Science
 * [2018’s Top 7 Libraries and Packages for Data Science and AI: Python & R - This is a list of the best libraries and packages that changed our lives this year, compiled from my weekly digests](https://heartbeat.fritz.ai/top-7-libraries-and-packages-of-the-year-for-data-science-and-ai-python-r-6b7cca2bf000)
 * [The Five Best Frameworks for Data Scientists](https://medium.com/@ODSC/the-top-five-best-frameworks-for-data-scientists-6a0c42865755)
 * [Learn Data Engineering: My Favorite Free Resources For Data Engineers](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
+* [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
