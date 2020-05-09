@@ -494,6 +494,10 @@ Algorithm
 * [How to build up an intuition for recursion](https://medium.com/free-code-camp/how-to-build-up-an-intuition-for-recursion-986032c2f6ad)
 * [Finally! A proven strategy for quickly solving any recursive problem...](https://www.byte-by-byte.com/recursion-sp-closed/)
 
+# Stack
+* [Algorithms for Interview 1: Stack](https://medium.com/techtofreedom/algorithms-for-interview-1-stack-38884a9020c)
+* [Algorithms for Interview 2: Monotonic Stack](https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8)
+
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
 * [Cache-friendly binary search](http://bannalia.blogspot.kr/2015/06/cache-friendly-binary-search.html)
