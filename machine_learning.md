@@ -1071,6 +1071,8 @@ Machine Learning
 * [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
 * Neptune [머신러닝 Experiment Management 쉽게 하기(feat. neptune ai)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
+* [PyCaret - an open source, low-code machine learning library](https://pycaret.org/)
+  * [Announcing PyCaret 1.0.0 An open source low-code machine learning library in Python](https://towardsdatascience.com/announcing-pycaret-an-open-source-low-code-machine-learning-library-in-python-4a1f1aad8d46)
 * [PyCM - Multi-class confusion matrix library in Python http://pycm.ir ](https://github.com/sepandhaghighi/PYCM)
     * [PyCM 2.5 released : Multi-class confusion matrix library in Python](https://www.reddit.com/r/MachineLearning/comments/diqyb7/p_pycm_25_released_multiclass_confusion_matrix/)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
