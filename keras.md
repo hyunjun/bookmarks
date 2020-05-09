@@ -5,6 +5,7 @@ Keras
 * [Keras와 함께 딥러닝 백지부터 GANs까지!](https://www.codeonweb.com/course/@keras-dlwp) twitter login
 * [Getting to Know Keras for New Data Scientists](https://medium.com/@ODSC/getting-to-know-keras-for-new-data-scientists-cebbc42a3122)
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
+  * [케라스 웹페이지 가이드 및 코드샘플 100% 리뉴얼](https://tykimos.github.io/2020/04/25/Keras_Web_Renewal/)
 * [Keras Cheat Sheet: Neural Networks in Python](https://www.datacamp.com/community/blog/keras-cheat-sheet)
 * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
 * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
