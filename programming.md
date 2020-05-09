@@ -2043,6 +2043,7 @@ Programming
 * [**서버 사이드 테스트 자동화 여정 – 1. 테스트 자동화를 시작한 계기와 그 첫 발걸음**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-1/)
 * [**서버 사이드 테스트 자동화 여정 – 2. 통합 테스트 수준의 회귀 테스트 환경 구축 및 Docker 활용**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-2/)
 * [**서버 사이드 테스트 자동화 여정 – 3. Docker를 활용한 통합 테스트 환경 개선**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-3/)
+* [**서버 사이드 테스트 자동화 여정 – 4. 성능 테스트 자동화 목표 설정 및 테스트 환경 구성**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-4/)
 * [Model Controller Testsuite (MCT)을 이용한 테스트 자동화 구축](https://engineering.linecorp.com/ko/blog/applying-model-controller-testsuite-to-test-automation/)
 * [Top 10 Free Automation Test Tools That Will Make Your Life Easier](https://towardsdatascience.com/top-10-free-automation-software-that-will-make-your-life-easier-63217e670447)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
