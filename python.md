@@ -465,6 +465,7 @@ Python
 * [04-4 append()와 +연산을 통한 리바인딩의 성능비교](https://www.youtube.com/watch?v=WsPHRmey4fM)
   * [Python-append-vs-rebind-numpy.ipynb](https://colab.research.google.com/drive/1P_hZ7G1lrnZrdnjY01tIY8BZLIGYxtpv)
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
+* [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -513,6 +514,7 @@ Python
   * [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/#class-methods)
   * [Let’s get classy: how to create modules and classes with Python](https://medium.freecodecamp.org/lets-get-classy-how-to-create-modules-and-classes-with-python-44da18bb38d1)
   * [파이썬 매직 메소드 (Python's Magic Methods)](https://ziwon.dev/post/python_magic_methods)
+  * [Class Attribute VS Instance Attribute of Python](https://medium.com/techtofreedom/differences-between-class-attribute-and-instance-attribute-of-python-1ae61774489c)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
