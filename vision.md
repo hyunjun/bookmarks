@@ -500,6 +500,7 @@ Vision
 * [Keras와 OpenCV를 사용하여 손글씨 숫자 인식하기](https://webnautes.tistory.com/1405)
 * [Facial landmarks with dlib, OpenCV, and Python](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python)
 * [특별강의 Face Detection 3대 기법](https://www.youtube.com/watch?v=M2QAKxOGCCk)
+* [076923.github.io/posts/#C#-OpenCvSharp4](https://076923.github.io/posts/#C#-OpenCvSharp4)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
 # OpenGL
