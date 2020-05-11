@@ -1760,6 +1760,7 @@ Programming
   * AWS 비용을 줄일 수 있는 10가지 기법, MySQL 서버 로컬 접속에 유닉스 도메인 소켓을 사용해야 하는 이유, 윈도우 서브시스템 for 리눅스 2 GA, PHP The Right Way(한국어), 터보 파스칼보다 작은 소프트웨어
 * [2020년 4월 25일 개발자 이야기(발표 자료)](http://jhrogue.blogspot.com/2020/04/b-2020-4-25.html) 서머타임과 배치작업, 오픈소스 DBMS 테스트 도구
 * [2020년 5월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-2.html) 자바 빠른 압축 라이브러리, .gitignore 서비스, vi UI 확장, 맥OS X 파인더에서 터미널 바로 열기
+* [2020년 5월 9일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-2_11.html) C# 조건부 컴파일, 깃허브/비주얼 스튜디오 코드스페이스, vi UI 확장, 배시 스크립트 편집 주의
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -2045,6 +2046,7 @@ Programming
 * [**서버 사이드 테스트 자동화 여정 – 2. 통합 테스트 수준의 회귀 테스트 환경 구축 및 Docker 활용**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-2/)
 * [**서버 사이드 테스트 자동화 여정 – 3. Docker를 활용한 통합 테스트 환경 개선**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-journey-3/)
 * [**서버 사이드 테스트 자동화 여정 – 4. 성능 테스트 자동화 목표 설정 및 테스트 환경 구성**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-4/)
+* [**서버 사이드 테스트 자동화 여정 – 5. 성능 테스트 리포트 생성 및 자동화 시스템 업무 적용 결과**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-5/)
 * [Model Controller Testsuite (MCT)을 이용한 테스트 자동화 구축](https://engineering.linecorp.com/ko/blog/applying-model-controller-testsuite-to-test-automation/)
 * [Top 10 Free Automation Test Tools That Will Make Your Life Easier](https://towardsdatascience.com/top-10-free-automation-software-that-will-make-your-life-easier-63217e670447)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
