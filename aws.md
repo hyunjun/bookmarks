@@ -735,6 +735,7 @@ AWS
 * [aws-route53-review](https://linuxer.name/2020/01/aws-route53-review/)
 * [Hybrid와 Multi Account간의 DNS 질의](https://zigispace.net/1074)
 * [Route53을 이용해 도메인과 ELB 를연결하는 방법](https://developer88.tistory.com/312)
+* [RDS Replica의 부하를 분산하는 방법](https://developer88.tistory.com/318)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
