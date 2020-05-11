@@ -2249,6 +2249,7 @@ Javascript
 * [Delayed rendering of React Components](https://medium.com/trabe/delayed-render-of-react-components-3482f8ad48ad)
 * [React Production Performance Monitoring](https://kentcdodds.com/blog/react-production-performance-monitoring)
 * [리액트를 처음부터 배워보자. —01. React.js란 무엇인가?](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-01-react-js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-ad8ba252ee28)
+* [리액트를 처음부터 배워보자. — 02. React.createElement와 React.Component 그리고 ReactDOM.render의 동작 원리](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-02-react-createelement%EC%99%80-react-component-%EA%B7%B8%EB%A6%AC%EA%B3%A0-reactdom-render%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-41bf8c6d3764)
 * [Creating A Dynamic Responsive Layout With React](https://medium.com/javascript-in-plain-english/creating-a-dynamic-responsive-layout-with-react-e941ac9c7f2b)
 * [Composable Reactive UI — Preview](https://medium.com/better-programming/composable-reactive-ui-preview-d197cbbc0a71)
 * [Why You Should Learn React Instead of Angular](https://medium.com/javascript-in-plain-english/why-you-should-learn-react-instead-of-angular-f2333dd1228b)
