@@ -2466,6 +2466,7 @@ Javascript
   * [Next.js 9.3 Released, Improves Static Site Generation](https://www.infoq.com/news/2020/03/nextjs-93-ssg-sass-preview/)
   * [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html) realword.io
   * [useSWR Hook 알아보기!](https://jaeseokim.tistory.com/113)
+  * [dynamic import로 줄여본 next.js 앱의 최초 로딩 시간](https://blog.rhostem.com/posts/2020-05-10-nextjs-and-dynamic-import)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
