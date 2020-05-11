@@ -116,6 +116,7 @@ Keras
 * [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
 * [Video classification with Keras and Deep Learning](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/)
+* [Spam Classification with Tensorflow-Keras](https://medium.com/analytics-vidhya/spam-classification-with-tensorflow-keras-7e9fb8ace263)
 * [Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow](http://cv-tricks.com/keras/fine-tuning-tensorflow/)
 * [Use Keras Deep Learning Models with Scikit-Learn in Python](https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/)
 * [kerasapp - 코딩셰프의 3분 딥러닝, 케라스맛](https://github.com/jskDr/keraspp)
