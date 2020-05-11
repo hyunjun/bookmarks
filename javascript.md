@@ -1480,6 +1480,7 @@ Javascript
   * [NPM 의 package.json을 이용한 효율적 설치 방법](https://developer88.tistory.com/270)
   * [npm install 에러 - MacOS](https://jybaek.tistory.com/865)
   * [10 things you should know about NPM](https://medium.com/javascript-in-plain-english/10-things-you-should-know-about-npm-f72f94a13954)
+  * [NPM에 자신의 라이브러리 배포하기](https://dev-yakuza.github.io/ko/share/deploy-npm-library/)
 * [Mac에서 Node 7 버전으로 다운그레이드](https://johngrib.github.io/wiki/trouble-shooting-node-7-install/)
 * [Gotchas From Two Years With Node](https://segment.com/blog/gotchas-from-two-years-of-node/)
 * [implementation of the kademlia dht for node](https://github.com/gordonwritescode/kad)
