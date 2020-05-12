@@ -222,6 +222,7 @@ Business
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18) 품의 제도의 역사 및 개선 방법(사실은 글로벌 스탠다드)
 * [2.0 까지 해본 개발자](https://jojoldu.tistory.com/485)
+* [Talk: Making Work Visible: How to Unmask Capacity Killing WIP](http://blog.lastmind.io/archives/921) 동시에 진행하는 일을 제한해야 한다는 글
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
