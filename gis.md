@@ -12,6 +12,7 @@ GIS
 * [How Lyft Creates Hyper-Accurate Maps from Open-Source Maps and Real-Time Data](https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a)
 * what3words [지도의 혁신으로 소니 등 굴지의 기업에서 1,500억 원 투자를 이끌어 낸, 영국 남자 이야기](https://ppss.kr/archives/193927)
 * [**디지털 지도와 오픈 데이터를 바라보는 몇 가지 관점**](https://medium.com/seoul-libre-maps/%EB%94%94%EC%A7%80%ED%84%B8-%EC%A7%80%EB%8F%84%EC%99%80-%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EB%AA%87-%EA%B0%80%EC%A7%80-%EA%B4%80%EC%A0%90-76a4bd411168) 개발 이야기는 아니지만 open street map에 대한 좋은 글
+* [Open Geoscience Computing Repository](https://github.com/yohanesnuwara/open-geoscience-repository)
 
 # Python
 * 주소DB가지고놀기
