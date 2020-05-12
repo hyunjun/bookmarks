@@ -55,6 +55,7 @@ Flutter
 * [Stateless Widget 위젯 기본 개념 (1/2) | 플러터 위젯 기본 개념 (Flutter Widget Fundamental concept) (1/2)](https://brunch.co.kr/@mystoryg/136)
 * [Stateful Widget 위젯 기본 개념 (2/2) | 플러터 위젯 기본 개념 (Flutter Widget Fundamental concept) (2/2)](https://brunch.co.kr/@mystoryg/138)
 * [Stateful Widget 생명주기](https://brunch.co.kr/@mystoryg/139)
+* [Building a Cross-Platform Image Classifier with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/building-a-cross-platform-image-classifier-with-flutter-and-tensorflow-lite-c7789af9b33a)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
