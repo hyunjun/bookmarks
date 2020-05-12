@@ -1008,6 +1008,7 @@ Scala
   * [Scala Slick 3: How to Start, an Opinionated Guide](https://sap1ens.com/blog/2015/07/26/scala-slick-3-how-to-start/)
   * [Scala and Slick - An Introduction](https://adekunleba.github.io/scalalang/scalaandslick)
   * [Lightbend Slick: Five do's and don'ts](https://www.becompany.ch/en/blog/2016/12/15/slick-dos-and-donts)
+  * [slick-pg - Slick extensions for PostgreSQL](https://github.com/tminglei/slick-pg)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
 * [specs2 - software specification for scala](http://etorreborre.github.io/specs2/)
   * [Becoming reasonable](https://medium.com/@etorreborre_99063/becoming-reasonable-361d7f674ee0)
