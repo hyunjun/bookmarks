@@ -880,6 +880,7 @@ Python
   * [multi threading or multi processing for fetching url](https://github.com/dsindex/blog/wiki/%5Bpython%5D-multi-threading-or-multi-processing-for-fetching-url)
   * [Get a 2–6x speed-up on your pre-processing with these 3 lines of code!](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) concurrent.futures
   * [CUDA In Your Python: Effective Parallel Programming on the GPU](https://www.youtube.com/watch?v=CO4ifMknS84)
+  * [논문 작성시 꿀팁-005 Python 에서 C/C++ 과 CUDA C 호출하기](https://www.youtube.com/watch?v=LO2qKHp2jLg)
   * [Parallelism in Python](https://www.youtube.com/watch?v=QRF1637j6NU)
   * [**Parallel Computing in Python: Current State and Recent Advances**](https://www.youtube.com/watch?v=xYuQi7PTAcc)
   * threading
