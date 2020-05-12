@@ -1739,6 +1739,7 @@ Programming
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
 * [44BITS 뉴스레터 2020년 14-15주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-14-15)
 * [44BITS 뉴스레터 2020년 16-17주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-16-17)
+* [44BITS 뉴스레터 2020년 18-19주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-18-19)
 * [news.hada.io](https://news.hada.io/)
 * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
 * [2019년 10월 12일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-12.html) EXIF 이미지 처리 pillow
