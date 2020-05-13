@@ -326,6 +326,7 @@ R
 * [Loops! Loops! Loops in R. A Microbenchmark](https://www.r-bloggers.com/loops-loops-loops-in-r-a-microbenchmark/)
 * [Model calibration with `crossval`](https://www.r-bloggers.com/model-calibration-with-crossval/)
 * [밑바닥부터 시작하는 ROC 커브 분석](https://bookdown.org/cardiomoon/roc/)
+* [Accessible Data Science for the Blind Using R](https://jooyoungseo.com/post/ds4blind/)
 
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
