@@ -604,6 +604,7 @@ Clojure
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
 * [Duct - Server-side application framework for Clojure](https://github.com/duct-framework/duct)
   * [Duct module.lacinia](https://github.com/kakao/duct-lacinia) graph ql
+  * [Productive Duct James Reeves](https://www.youtube.com/watch?v=IVnBW2mT7Po)
 * [Enlive - a selector-based (à la CSS) templating library for Clojure](https://github.com/cgrand/enlive)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
 * [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
