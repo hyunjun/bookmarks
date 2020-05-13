@@ -1017,6 +1017,7 @@ Programming
 * [코드 가독성에 대해 – 2. 명명과 주석](https://engineering.linecorp.com/ko/blog/code-readability-vol2/)
 * [코드 가독성에 대해 – 3. 상태와 절차](https://engineering.linecorp.com/ko/blog/code-readability-vol3/)
 * [코드 가독성에 대해 – 4. 의존성](https://engineering.linecorp.com/ko/blog/code-readability-vol4/)
+* [코드 가독성에 대해 – 5. 리뷰와 정리](https://engineering.linecorp.com/ko/blog/code-readability-5/)
 * [클린 코드](https://velog.io/@k7120792/%ED%81%B4%EB%A6%B0-%EC%BD%94%EB%93%9C)
 * [새로 입사한 개발자가 프로젝트에 기여하는 방법 한 가지](https://helloworld.kurly.com/blog/fix-style-with-command/)
 
