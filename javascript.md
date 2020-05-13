@@ -2434,6 +2434,7 @@ Javascript
   * [gatsby starter bee](https://github.com/JaeYeopHan/gatsby-starter-bee)
   * [**블로그 제작기**](https://ailrun.github.io/ko/post/trip-to-make-a-blog/) 직접적인 개발글은 아니지만 좋음
   * [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/)
+  * [**Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기**](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
