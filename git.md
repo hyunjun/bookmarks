@@ -429,6 +429,7 @@ Git
 * undo
   * [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
   * [How to undo changes in Git](https://medium.freecodecamp.org/how-to-undo-changes-in-git-e1da7930afdb)
+  * [5분 따라하기 git으로 undo하기(local편)](https://jhrogue.blogspot.com/2020/05/5-git-undolocal.html)
 * pandoc; git으로 word file을 diff할 때 그냥 비교하면 안 되는데 이걸 markdown으로 바꿔 비교할 수 있도록 하는 명령어
 * pull request
   * [GitHub로 남의 프로젝트에 감놓고 배놓기](https://dogfeet.github.io/articles/2012/how-to-github.html)
