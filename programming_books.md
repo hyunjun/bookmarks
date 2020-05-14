@@ -643,6 +643,7 @@ Programming Books
 * [핸즈온 머신러닝 사이킷런과 텐서플로를 활용한 머신러닝, 딥러닝 실무](http://www.hanbit.co.kr/store/books/look.php?p_code=B9267655530)
   * [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://tensorflow.blog/2017/12/30/review-hands-on-machine-learning-with-scikit-learn-tensorflow/)
   * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%ED%95%B8%EC%A6%88%EC%98%A8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0%EA%B3%BC-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%8B%A4%EB%AC%B4)
+  * [머신러닝의 바이블, 핸즈온 머신러닝 2판을 읽고](https://brunch.co.kr/@synabreu/74)
 * (NOT YET) [러닝 텐서플로 딥러닝 영상처리와 NLP부터 텐서보드 시각화, 멀티스레딩, 분산처리까지](http://www.yes24.com/24/goods/60506589)
   * 한라 004.73-호897ㄹ
 * (NOT YET) [텐서플로로 시작하는 딥러닝 입문 그림으로 익히고 파이썬 코드로 구현하는 인공신경망 알고리즘](http://wikibook.co.kr/tensorflow/)
