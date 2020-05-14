@@ -212,6 +212,7 @@ Finance
 
 # R
 * [Simulate binance fee mechanism by RL agents](https://github.com/deconlabs/TradingZoo-Dynamic-fee-simulation)
+* [Get Rich Quick Trading Strategies (and why they don’t work): Part 1 - The Martingale](https://robotwealth.com/get-rich-quick-trading-strategies-and-why-they-dont-work/)
 * [market report](https://github.com/parkminhyung/R-code-for-finance/blob/master/market%20report.rmd)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [회고 tqk 업데이트 수정 종가 반영 및 param 조정](https://mrchypark.github.io/post/tqk-%EA%B3%B5%EC%A7%80-%EC%88%98%EC%A0%95-%EC%A2%85%EA%B0%80-%EB%B0%98%EC%98%81-%EB%B0%8F-param-%EC%A1%B0%EC%A0%95/)
