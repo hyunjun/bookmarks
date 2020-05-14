@@ -495,6 +495,7 @@ AWS
   * [AWS Summit Seoul 2017 단상](http://raftwood.net/blog/9834)
   * [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현 - AWS Summit Seoul 2017](https://www.slideshare.net/HarryOh1/ai-aws-summit-seoul-2017)
   * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
+  * [세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기 #AWSSummitOnlineKorea](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
   * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
   * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
 
