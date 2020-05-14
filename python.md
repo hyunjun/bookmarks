@@ -3597,7 +3597,6 @@ Python
     Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth
     $ [http_proxy=http://x.y.z:port https_proxy=http://x.y.z:port] conda update pytest
     ```
-  * [파이썬/아나콘다 설치 안내](https://www.notion.so/eac8e8c36dd24f019af672db75723622)
   * [practice of pytest](https://github.com/hyunjun/practice/tree/master/python/test-pytest)
   * [왜 pytest를 사용해야 하는가?](https://cjh5414.github.io/why-pytest/)
   * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
