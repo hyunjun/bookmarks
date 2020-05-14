@@ -411,6 +411,7 @@ Scala
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
   * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
+  * [A story about streaming unique batches in Monix](https://blog.softwaremill.com/a-story-about-streaming-unique-batches-in-monix-435a13063b3)
 
 ## Akka Cluster
 * [Why we picked AKKA cluster as our microservice framework](http://tech.iheart.com/post/121599571574/why-we-picked-akka-cluster-as-our-microservice)
@@ -923,6 +924,7 @@ Scala
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * MinIO [MinIO object storage scala client](https://medium.com/rahasak/minio-object-storage-scala-client-48c8535b9dd2)
 * [Mu provides the ability to combine RPC protocols, services, and clients in your Scala program](https://higherkindness.io/mu-scala/) gRPC
+  * [Mu-Scala 0.22: Distributed tracing](https://www.47deg.com/blog/mu-scala-0-22/)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
@@ -1079,6 +1081,7 @@ Scala
   * [Permutive Community Engineering, October 2019](https://medium.com/permutive/permutive-community-engineering-october-2019-51de37bc7791)
   * [Hacking with scala circe-json](https://medium.com/rahasak/hacking-with-circe-json-scala-ca626705733e)
   * [#circe - Part 1 - Introduction to working with #JSON in #Scala](https://www.youtube.com/watch?v=712WE9Ou7BE)
+  * [#circe - Part 2 - #JSON Codecs](https://www.youtube.com/watch?v=OJhAptqtwYo)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
@@ -1478,3 +1481,4 @@ Scala
 * [Scala for Python developers](https://medium.com/@antoine.doeraene/scala-for-python-developers-93f3755f60d1)
 * [Intro to Scala Fundamentals](https://github.com/wjlow/intro-to-scala)
 * [2020 Spring KAIST CS320 Scala Sessions](https://www.youtube.com/playlist?list=PLLfImqsGCdw0QVs_-DXXVj57xGJK1e3b8)
+* [Scala - Your First Programming Language](https://www.youtube.com/playlist?list=PLJGDHERh23x-YBJ8LmYU_IGBFflvsKfLu)
