@@ -106,6 +106,7 @@ Linux
 * [1001 Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
+* [The Complicated Firewall](https://www.thelinuxrain.com/articles/the-complicated-firewall) iptable
 * [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
