@@ -437,6 +437,7 @@ App
       * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
       * [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
       * [stackblitz.com - Code the Future. In Your Browser](https://stackblitz.com)
+      * [Using a remote server to build your Scala projects](https://perevillega.com/remote-build-servers-with-vs-code-and-metals)
     * [VS Code 로 넘어가기 (2019)](https://rein.kr/blog/archives/4740)
     * ['매일 써도 좋을' 비주얼 스튜디오 코드 확장 기능 7가지](http://www.ciokorea.com/news/130582)
     * [LeetCode - Solve LeetCode problems in VS Code](https://github.com/jdneo/vscode-leetcode)
