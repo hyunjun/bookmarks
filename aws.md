@@ -682,6 +682,7 @@ AWS
 * [서버리스(Serverless) 프레임워크로 노드js(Node.js) 12 코드 실행해보기](https://www.44bits.io/ko/post/news--aws-lambda-now-supports-python-3-8-nodejs-12-0-java-11#%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4serverless-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EB%A1%9C-%EB%85%B8%EB%93%9Cjsnode.js-12-%EC%BD%94%EB%93%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [Try to use Serverless function](https://jinhoyoo.github.io/Try-to-use-Serverless-function/)
 * [Handling 350k Requests for $3 using Lambda](https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58)
+* [AWS 기반 서버리스 아키텍쳐 톺아보기 #AWS #서버리스 #총정리 #발표자료](https://dev.classmethod.jp/articles/aws-serverless-architecture-x-kodeveloper-38/)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
