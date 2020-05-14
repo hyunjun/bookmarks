@@ -1384,6 +1384,7 @@ Scala
     * [Hacking with doobie and cats-effects](https://medium.com/rahasak/doobie-and-cats-effects-d01230be5c38)
     * [Testing Doobie programs](https://blog.softwaremill.com/testing-doobie-programs-425517c1c295)
     * [Composing doobie programs using Cats](https://medium.com/@arjun.dhawan/composing-doobie-programs-5337695fd77b)
+    * [a simple web service using Http4s + Doobie + Jooq + JWT](https://github.com/jdaviderb/http4s-ddd-example)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
