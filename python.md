@@ -1638,6 +1638,7 @@ Python
 * [Django 3.0 릴리스와 주요 변경 사항 - MariaDB 지원, ASGI 지원, 필터 표현식 등](https://www.44bits.io/ko/post/django-3-0-release-note-summary)
 * [django-annoying - A django application that tries to eliminate annoying things in the Django framework](https://github.com/skorokithakis/django-annoying)
 * [Full Stack React & Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)
+* [Survey WEB Application Tutorial 1](https://developer-ankiwoong.tistory.com/905)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
