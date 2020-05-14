@@ -547,6 +547,27 @@ App
 
 # Linux
 * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
+* [리눅스에서 쓸 수 있는 베스트 그래픽 프로그램 정리](https://www.clien.net/service/board/useful/14961441)
+  1. [블렌더 Blender](http://www.blender.org)
+    * 오픈 소스 3D 저작 프로그램. 모델링, 리깅, 애니메이션, 시뮬레이션, 렌더링, 합성, 모션 트레킹, 비디오 편집 및 2D 애니메이션 및 3D 파이프라인 전체 지원
+  2. [다빈치 리졸브 DaVinci Resolve](https://www.blackmagicdesign.com/kr/products/davinciresolve)
+    * 블랙 매직사에서 만든 영상 편집 프로그램. 8K 편집, 색상 보정, 시각 효과, 오디오 포스트 프로덕션을 결합한 올인원 영상 편집 솔루션
+  3. [고닷 게임 엔진 Godot Game Engine](https://godotengine.org)
+    * MIT 라이센스 오픈 소스 게임 엔진. 로열티, 사용료 없음
+  4. [라이트웍스 Lightworks](https://www.lwks.com)
+    * 디지털 영상 편집 제작을 위한 비선형 편집 프로그램
+  5. [OBS 스튜디오](https://obsproject.com/ko)
+    * 오픈소스 방송 프로그램. 화면 녹화, 게임 실시간 스트리밍, 녹음 등 인터넷 방송에 필요한 대부분의 기능 사용 가능
+  6. [나트론 Natron](https://natrongithub.github.io)
+    * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
+  7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
+    * 오픈 소스 벡터 그래픽 편집기. 일러스트레이션, 다이어그램, 라인 아트, 차트, 로고, 아이콘, 출판 및 복잡한 그림과 같은 벡터 그래픽을 제작 편집 가능
+  8. [김프 Gimp](https://www.gimp.org)
+    * 오픈소스 이미지 보정 및 편집 프로그램. 이미지 작업에 필요한 다양한 기능과 필터 제공
+  9. [크리타 Krita](https://krita.org/ko)
+    * 오픈 소스 페인팅 프로그램. 드로잉과 페인팅 뿐 아니라 이미지 편집을 위한 다양한 도구 제공. 비슷한 기능을 제공하는 Gimp보다 인터페이스가 친숙하며 꾸준하게 개발되고 있다는 장점
+  10. [스토리보더 Storyboarder](https://wonderunit.com/storyboarder)
+    * 원더 유니트(Wonder Unit)에서 만든 오픈 소스 스토리보드 프로그램. 6가지 그리기 도구. 타블렛 지원. 인터페이스가 단순하고 직관적이며 부가 기능으로 3D를 통해 편리하게 씬을 제작할 수 있는 씬 제작기 제공
 
 # Mac
 * [오래된 아이맥, SSD 교체하기](https://jeonghwan-kim.github.io/think/2020/03/27/imac-ssd-replacement.html)
