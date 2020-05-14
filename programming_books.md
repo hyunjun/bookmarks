@@ -487,6 +487,7 @@ Programming Books
 * (NOT YET) [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
 * (NOT YET) [딥러닝을 위한 수학 인공지능의 핵심 원리를 이해하고 파이썬으로 구현해 보는](https://wikibook.co.kr/mathdl/)
 * (NOT YET) [친절한 실전 딥러닝 수업](https://github.com/bjpublic/TMI-Deeplearning)
+* (NOT YET) [모두의 딥러닝(개정2판)](https://theorydb.github.io/review/2020/03/28/review-book-everyones-dl/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
