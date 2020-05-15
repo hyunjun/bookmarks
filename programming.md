@@ -1707,6 +1707,7 @@ Programming
   * [기술 뉴스 #147 : 20-04-01](https://blog.outsider.ne.kr/1480)
   * [기술 뉴스 #148 : 20-04-15](https://blog.outsider.ne.kr/1481)
   * [기술 뉴스 #149 : 20-05-01](https://blog.outsider.ne.kr/1483)
+  * [기술 뉴스 #150 : 20-05-15](https://blog.outsider.ne.kr/1484)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
