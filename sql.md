@@ -204,6 +204,7 @@ SQL
     * [13.2.5.2 INSERT ... ON DUPLICATE KEY UPDATE Syntax](https://dev.mysql.com/doc/refman/5.5/en/insert-on-duplicate.html)
     * [Mysql 의 Insert .. On Duplicate Key Update 유의사항](http://knight76.tistory.com/entry/Mysql-%EC%9D%98-Insert-On-Duplicate-Key-Update-%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD)
     * [Insert multiple records into MySQL with a single query](http://www.electrictoolbox.com/mysql-insert-multiple-records/)
+    * [sql 독학 강의 # mysql insert 사용 방법 17편 -sTricky](https://stricky.tistory.com/268)
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
     * [csv 파일을 직접 MySQL 테이블로 Import 하는 방법 (대용량 파일 import 팁)](http://moonlighting.tistory.com/140)
     * [MySql: LOAD DATA INFILE 로 대용량 데이터 인서트하기](http://ohgyun.com/777)
