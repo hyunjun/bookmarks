@@ -817,6 +817,7 @@ NLP
 * [go-freeling - Golang Natural Language Processing](https://github.com/advancedlogic/go-freeling)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
+* Jarvis [Introducing NVIDIA Jarvis: A Framework for GPU-Accelerated Conversational AI Applications](https://devblogs.nvidia.com/introducing-jarvis-framework-for-gpu-accelerated-conversational-ai-apps/)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [khaiii](https://github.com/kakao/khaiii)
   * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
@@ -845,6 +846,7 @@ NLP
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
+  * [Google Colab에서 Mecab-ko-dic 쉽게 사용하기](https://somjang.tistory.com/entry/Google-Colab%EC%97%90%EC%84%9C-Mecab-koMecab-ko-dic-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
   * [natto-py - combines the Python programming language with MeCab, the part-of-speech and morphological analyzer for the Japanese language](https://github.com/buruzaemon/natto-py)
   * [python-mecab - A repository to bind mecab for Python 3.5+. Not using swig nor pybind. https://pypi.org/project/python-mecab ](https://github.com/jeongukjae/python-mecab)
 * [Memory Networks](https://github.com/facebook/MemNN)
