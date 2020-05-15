@@ -20,6 +20,7 @@ Monitoring
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 * [CPU 지표 정리](https://brunch.co.kr/@leedongins/75)
 * [알람에 관하여](https://woowabros.github.io/experience/2020/03/07/alarm.html)
+* [간단하게 만드는 이상한 알람](https://woowabros.github.io/experience/2020/05/14/anomaly_alarm.html)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
