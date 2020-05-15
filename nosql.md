@@ -233,6 +233,7 @@ NoSQL
   * [Mocking a server with Firebase](https://proandroiddev.com/mocking-a-server-with-firebase-3b4376ce3596)
   * [Firebase 호스팅서비스 테스트 및 디플로이(Deploy)](https://developer88.tistory.com/283)
   * [Firebase Storage Security Rule 에 대한 정리 #보안규칙](https://developer88.tistory.com/286)
+  * [Firebase Authentication 의 Token에서 얻는 uid #AWS](https://developer88.tistory.com/324)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
