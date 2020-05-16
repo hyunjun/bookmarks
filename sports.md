@@ -22,6 +22,7 @@ Sports
 * [스포츠 경기 분석 전문가와 AI의 만남](https://brunch.co.kr/@kakao-it/289)
 * [로봇 심판과 판정 알고리즘의 의미있는 도전](https://brunch.co.kr/@kakao-it/290)
 * [Data는 Sports를 어떻게 바꿨는가](https://www.slideshare.net/revolutionistK/dsts-how-datachangessportsinbumkim)
+* [How to Draft Players for Sport with Machine Learning and AI](https://medium.com/@simon.tettmar/how-to-draft-players-for-sport-with-machine-learning-and-ai-ab0c7dbf7d76)
 
 # Baseball
 * [baseball-in-play](http://baseball-in-play.com/)
