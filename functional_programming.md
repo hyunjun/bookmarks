@@ -3,6 +3,21 @@ Functional Programming
 * [Why Functional Programming Matters](http://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [Devoxx Poland 2016 - Ted Neward - Why Functional Programming Matters](https://www.youtube.com/watch?v=7hOM5PPzMC8)
 * [Why is Learning Functional Programming So Damned Hard?](https://medium.com/@cscalfani/why-is-learning-functional-programming-so-damned-hard-bfd00202a7d1)
+* [What Functional Programming Is + Why It Makes You Better](http://blog.functionalworks.com/2015/08/04/whatfpisandwhymakesbetter/)
+* [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
+  * 결론; 대세가 될 것이나 시간이 필요
+  * 이유; OOP가 그 자체 고유 특성의 우수성때문에 대세가 된 것이 아니기 때문
+    * 예를 들어 OOP 고유 특성중 하나인 상속은 OOP에서조차 기피 대상, 대신 compostion 사용. composition은 FP에도 존재
+    * 캡슐화 = 정보 은닉 개념 = 모듈화 개념의 다른 버전
+  * 그럼 왜 OOP 언어들이 대세인가
+    * Killer App; Ruby on Rails나 Wordpress/Drupal의 PHP
+    * 거대 업체 지원; Apple(ObjC, Swift), Google(Go), MS(C#)
+    * 시스템상 지원; OS/Embedded(C/C++), 브라우저(Javascript)
+    * 이런 모든 것의 지원을 받는 경우; Java(Sun)
+    * 꾸준한 업데이트; Python
+  * 그러나 이들 언어에서도조차도 함수형 프로그래밍 스타일이 점점 유행
+* [Why do we use OOP over functional code We use less code](https://www.quora.com/Why-do-we-use-OOP-over-functional-code-We-use-less-code)
+* [Why I use typed functional programming](http://luizsol.com/why-functional-programming/)
 * [How Do I Learn Some Functional Programming?](https://medium.com/@mr_mig_by/how-do-i-learn-some-functional-programming-3b28875a0bc3)
 * [Functional Patterns in Domain Driven Design applied to Financial Models](http://www.infoq.com/presentations/functional-ddd-financial)
 * [Functional Programming Doesn't Work (and what to do about it)](http://prog21.dadgum.com/54.html)
@@ -20,7 +35,6 @@ Functional Programming
 * [FUNCTIONAL PROGRAMMING IN A DYSFUNCTIONAL WORLD](https://underthehood.myob.com/functional-programming-in-a-dysfunctional-world/)
 * [From Imperative to Pure-Functional and Back Again: Monads vs. Scoped Continuations](http://blog.paralleluniverse.co/2015/08/07/scoped-continuations/)
 * [Purely Functional Performance](https://awelonblue.wordpress.com/2015/03/30/purely-functional-performance/)
-* [What Functional Programming Is + Why It Makes You Better](http://blog.functionalworks.com/2015/08/04/whatfpisandwhymakesbetter/)
 * [Hello, declarative world](http://codon.com/hello-declarative-world)
 * [Ten reasons not to use a statically typed functional programming language](http://fsharpforfunandprofit.com/posts/ten-reasons-not-to-use-a-functional-programming-language/)
 * [Functional Programming Hurdle: Uninteresting programs](https://gundersen.net/functional-programming-hurdle-uninteresting-programs/)
@@ -82,25 +96,12 @@ Functional Programming
 * [함수형 프로그래밍의 시대가 오고 있(지는 않)다](https://bangjunyoung.github.io/2019/08/24/함수형-프로그래밍의-시대가-오고-있(지는-않)다/)
 * [함수형 프로그래밍이 어려운 이유 - 사실은 함수형 프로그래밍이 더 쉽다](https://bangjunyoung.github.io/2019/08/26/함수형-프로그래밍이-어려운-이유/)
 * [**"Haskell vs. F# vs. Scala - A High-Level Language Features and Parallelism Support Comparison"을 읽고**](https://www.sangkon.com/haskell-vs-fsharp-vs-scala-parallelism-comparison/)
-* [Why Isn't Functional Programming the Norm? – Richard Feldman](https://www.youtube.com/watch?v=QyJZzq0v7Z4)
-  * 결론; 대세가 될 것이나 시간이 필요
-  * 이유; OOP가 그 자체 고유 특성의 우수성때문에 대세가 된 것이 아니기 때문
-    * 예를 들어 OOP 고유 특성중 하나인 상속은 OOP에서조차 기피 대상, 대신 compostion 사용. composition은 FP에도 존재
-    * 캡슐화 = 정보 은닉 개념 = 모듈화 개념의 다른 버전
-  * 그럼 왜 OOP 언어들이 대세인가
-    * Killer App; Ruby on Rails나 Wordpress/Drupal의 PHP
-    * 거대 업체 지원; Apple(ObjC, Swift), Google(Go), MS(C#)
-    * 시스템상 지원; OS/Embedded(C/C++), 브라우저(Javascript)
-    * 이런 모든 것의 지원을 받는 경우; Java(Sun)
-    * 꾸준한 업데이트; Python
-  * 그러나 이들 언어에서도조차도 함수형 프로그래밍 스타일이 점점 유행
 * [So You Want to be a Functional Programmer (Part 1)](https://medium.com/@cscalfani/so-you-want-to-be-a-functional-programmer-part-1-1f15e387e536)
 * [**A Glossary of Functional Programming**](http://degoes.net/articles/fp-glossary)
 * [수학에서 기원한 프로그래밍 패러다임, 순수 함수](https://evan-moon.github.io/2019/12/29/about-pure-functions/)
 * [Benefits of Functional Programming by Example](https://medium.com/@nickmccurdy/benefits-of-functional-programming-by-example-76f1135b0b18)
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
 * [Thinking in Functions, Part I: The Input/Output pattern](https://medium.com/@kettanaito/thinking-in-functions-part-i-the-input-output-pattern-d36e19e05e5f)
-* [Why do we use OOP over functional code We use less code](https://www.quora.com/Why-do-we-use-OOP-over-functional-code-We-use-less-code)
 * [프로그래머를 위한 논리학 - 0](https://ailrun.github.io/ko/post/logic-for-programmers-000/)
 * [프로그래머를 위한 논리학 - 1](https://ailrun.github.io/ko/post/logic-for-programmers-001/)
 
