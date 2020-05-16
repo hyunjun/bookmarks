@@ -407,6 +407,7 @@ R
 * [TensorFlow with R](http://freesearch.pe.kr/archives/4546)
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
 * [tensoRflow](https://github.com/issactoast/tensoRflow)
+* [How to Set Up TensorFlow 2 in R in 5 Minutes (BONUS Image Recognition Tutorial)](https://www.r-bloggers.com/how-to-set-up-tensorflow-2-in-r-in-5-minutes-bonus-image-recognition-tutorial/)
 
 # Installation
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
