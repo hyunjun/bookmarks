@@ -592,6 +592,7 @@ Machine Learning
 * [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/)
 * [**Rules of Machine Learning: Best Practices for ML Engineering 정리**](https://zzsza.github.io/data/2019/12/15/rules-of-ml)
 * [**MLOps 1. 실험 관리 AI 혁신 속도는 모델 학습에서 배포까지 걸리는 속도에 비례한다**](https://brunch.co.kr/@chris-song/101)
+* [MLOps: Continuous delivery and automation pipelines in machine learning 번역](https://zzsza.github.io/mlops/2020/05/16/cd-and-automation-pipeline-in-ml/)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
@@ -855,6 +856,7 @@ Machine Learning
 * [Better Models Faster with Weights & Biases](https://www.wandb.com/articles/better-models-faster-with-weights-biases)
   * [Why Weights & Biases Gives You An Edge On Kaggle Competitions](https://www.kaggle.com/lavanyashukla01/better-models-faster-with-weights-biases)
 * [캐글 대회 메달따는 팁. 2. Stochastic weight averaging](https://www.youtube.com/watch?v=C0vnmsGIOEo)
+* [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
