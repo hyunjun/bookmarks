@@ -95,7 +95,8 @@ Programming Language
 * Ada
   * [Ada 2012: A New Language for Safe and Secure Software](http://cotsjournalonline.com/articles/view/102810)
 * [Adapton - Programming Language Abstractions for Incremental Computation](http://plum-umd.github.io/adapton/)
-* [Agda](http://learnyouanagda.liamoc.net/)
+* [Agda - a dependently typed programming language / interactive theorem prover](https://github.com/agda/agda)
+  * [Agda](http://learnyouanagda.liamoc.net/)
 * [Albatross](http://albatross-lang.sourceforge.net/)
 * [Alda - A music programming language for musicians](http://daveyarwood.github.io/alda/2015/09/05/alda-a-manifesto-and-gentle-introduction/)
 * [Alloy Programming Language http://alloy-lang.org](https://github.com/felixangell/alloy)
