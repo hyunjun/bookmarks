@@ -257,6 +257,7 @@ Scala
 * [Functional Tracing using Scala](https://medium.com/@ayushm4489/functional-tracing-using-scala-dc98b1f2ec5) observability
 * [Lunatech and our commitment to the Scala Center](https://www.linkedin.com/pulse/lunatech-our-commitment-scala-center-antoine-laffez/)
 * [Effect Tracking Is Commercially Worthless](https://degoes.net/articles/no-effect-tracking)
+* [Run Scala applications with GraalVM and Docker - With http4s, doobie and cats-effects](https://medium.com/rahasak/run-scala-applications-with-graalvm-and-docker-a1e67701e935)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
