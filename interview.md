@@ -409,6 +409,7 @@ Interview
 * [Pragmatic Programming Techniques](http://horicky.blogspot.com/)
   * [Scalable System Design Patterns](http://horicky.blogspot.com/2010/10/scalable-system-design-patterns.html)
   * [NOSQL Patterns](http://horicky.blogspot.com/2009/11/nosql-patterns.html)
+* [Six Rules of Thumb for Scaling Software Architectures](https://medium.com/@i.gorton/six-rules-of-thumb-for-scaling-software-architectures-a831960414f9)
 * [What is an API and how do you design it?](https://www.youtube.com/watch?v=_YlYuNMTCc8)
 * [System design basics: Real-time data processing](https://www.youtube.com/watch?v=dZ3swmtR1As)
 * [System design basics: What is asynchronous processing?](https://www.youtube.com/watch?v=BFcNDPt6SlE)
