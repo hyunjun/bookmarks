@@ -712,6 +712,8 @@ Programming Books
 * (NOT YET) [Kubernetes(쿠버네티스) : 완벽한 IT 인프라 구축의 자동화를 위한](http://www.infopub.co.kr/new/include/detail.asp?sku=12000029)
 * (NOT YET) [쿠버네티스 입문 90가지 예제로 배우는 컨테이너 관리 자동화 표준](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2618)
 * (NOT YET) [쿠버네티스를 활용한 클라우드 네이티브 데브옵스](https://jybaek.tistory.com/864)
+* (NOT YET) [독서광 쿠버네티스 패턴](https://jhrogue.blogspot.com/2020/05/blog-post.html)
+  * [Kubernetes Patterns - Examples](https://github.com/k8spatterns/examples)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
