@@ -1705,6 +1705,7 @@ Javascript
 * [Deno: Will It Replace Node.JS?](https://www.youtube.com/watch?v=lcoU9jtsK24)
   * [Getting started with Deno](https://dev.to/kushal/getting-started-with-deno-3a4e)
   * ["더 나은 Node.js를 지향하는" 데노란 무엇인가](http://www.itworld.co.kr/news/145808)
+  * [Denoo 너란 녀석은 누구냐?](https://blog.naver.com/pjt3591oo/221966662657)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
