@@ -669,6 +669,7 @@ AWS
 * [Uploading to S3 in 18 lines of Shell (used to upload builds for http://soltrader.net)](https://gist.github.com/chrismdp/6c6b6c825b07f680e710)
 * [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
 * [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
+* [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
 * [Pure serverless machine learning inference with AWS Lambda and Layers](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49)
   * AWS에서의 순수 Serverless ML 추론
   * 서버리스 배포 환경에서 서버리스를 유지하고 비용을 낮추고 유연한 확장을 허용하려면 순수한 AWS Lmbda 기반 ML 모델 추론이 바람직
