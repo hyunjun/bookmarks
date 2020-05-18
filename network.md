@@ -81,6 +81,7 @@ Network
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
+* [The HTTP headers you don't expect](https://frenxi.com/http-headers-you-dont-expect/)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
@@ -150,6 +151,7 @@ Network
 * [오류를 잡자 : TCP에는 우아한 종료라는 것은 없다](https://sunyzero.tistory.com/269)
 * [오리뎅이의 TCP 이야기](http://blog.naver.com/PostList.nhn?blogId=goduck2&categoryNo=42&from=postList)
 * [TCP/IP 관련 내용 정리](https://medium.com/@rlatla626/tcp-ip-%EC%A0%95%EB%A6%AC-204e8a986d98)
+* [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
 
 # UDP
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
