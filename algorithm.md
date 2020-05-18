@@ -41,6 +41,7 @@ Algorithm
 * [The complexity of simple algorithms and data structures in JS](https://medium.freecodecamp.org/the-complexity-of-simple-algorithms-and-data-structures-in-javascript-11e25b29de1e)
 * [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
 * [JavaScript 알고리즘 및 자료 구조](https://github.com/trekhleb/javascript-algorithms/blob/master/README.ko-KR.md)
+* [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms)
 * [A Step Towards Computing as a Science Simple Algorithms & Data Structures in JS](https://medium.freecodecamp.org/a-step-towards-computing-as-a-science-algorithms-data-structures-4c0e2d6ae79a)
 * [Using the Right Datastructure for the job](http://rohankshir.github.io/2015/05/15/choosing-the-right-datastructure/)
 * [Algorithms for text fingerprinting?](https://news.ycombinator.com/item?id=9716837)
@@ -191,6 +192,8 @@ Algorithm
 * [많이 언급되는 rsa 알고리즘을 알아봅시다](https://codingdog.tistory.com/entry/%EB%A7%8E%EC%9D%B4-%EC%96%B8%EA%B8%89%EB%90%98%EB%8A%94-rsa-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [귀류법 명제가 거짓임을 가정한다](https://codingdog.tistory.com/entry/%EA%B7%80%EB%A5%98%EB%B2%95-%EB%AA%85%EC%A0%9C%EA%B0%80-%EA%B1%B0%EC%A7%93%EC%9E%84%EC%9D%84-%EA%B0%80%EC%A0%95%ED%95%9C%EB%8B%A4)
 * [event driven ps 문제에서 간단하게 활용해 봅시다](https://codingdog.tistory.com/entry/event-driven-ps-%EB%AC%B8%EC%A0%9C%EC%97%90%EC%84%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [실무 개발자에게 알고리즘은 덜 중요할까?](https://medium.com/@ghilbut/%EC%8B%A4%EB%AC%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-fcbab7f87074)
+* [실무 개발자에게 알고리즘은 덜 중요할까? (2)](https://medium.com/@ghilbut/%EC%8B%A4%EB%AC%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-2-45714fc83e15)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -412,6 +415,7 @@ Algorithm
 * [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 * [SHA-256 Hash Algorithm](http://jusths.tistory.com/43)
 * [SHA-256 프로세스 정리](http://jusths.tistory.com/44)
+* [Animation of the SHA-256 hash function in your terminal](https://github.com/in3rsha/sha256-animation)
 * [재해싱 (rehashing) : 시간 복잡도를 분석해 보면서 왜 필요한지 알아봅시다](https://codingdog.tistory.com/entry/%EC%9E%AC%ED%95%B4%EC%8B%B1-rehashing-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84%EB%A5%BC-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B3%B4%EB%A9%B4%EC%84%9C-%EC%99%9C-%ED%95%84%EC%9A%94%ED%95%9C%EC%A7%80-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
   * This article looks at why hash maps (unsorted) are popular for in-memory indexes whereas b-tree (sorted) are common in databases. It describes the trade-offs of the two approaches, and how those best fit in-memory/db use cases.
