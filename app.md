@@ -106,6 +106,7 @@ App
 * [startupstash.com](http://startupstash.com/)
 * [StarUML 2](http://staruml.io/)
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
+* [TextBundle - file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications](http://textbundle.org/)
 * Tor
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
@@ -122,6 +123,7 @@ App
   * [1. [CentOS 6.5] Virtual Box를 이용한 CentOS 6.5 설치](http://webdevnovice.tistory.com/2)
   * [VirtualBox 5.1.20 버전업 후 Vagrant Shared Folders mount 오류 해결](https://blog.asamaru.net/2017/05/02/virtualbox-5-1-20-vagrant-shared-folders-mount-error/)
   * [샤크라맥스와 Virtualbox 게스트OS 네트워크 문제: ping은 되는데 tcp 연결이 안 될때](http://javacan.tistory.com/entry/Chakramax-Virtualbox-GuestOS-network-problem)
+  * [VirtualBox 네트워크 설정 상세 분석](https://cjwoov.tistory.com/11)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * Wallpaper
@@ -129,6 +131,7 @@ App
   * [FreshBackMac](http://macnews.tistory.com/4265)
   * [Irvue](http://macnews.tistory.com/3456)
   * [Wallpaper by Behance](http://macnews.tistory.com/2542)
+* [Webrecorder.io - a web archiving service to collect and revisit web pages](https://webrecorder.io/)
 * WeKan [Get started with Wekan, an open source kanban board](https://opensource.com/article/19/1/productivity-tool-wekan)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
@@ -464,6 +467,9 @@ App
       * [Bring your own machine to Visual Studio Online](https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/)
     * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
     * [Visual Studio Codespaces 소개](https://overspend.tistory.com/1)
+    * [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
+    * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
+    * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
@@ -621,6 +627,7 @@ App
   * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
   * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
   * [Generate a spectrogram-scrolling video of an audio file](https://keunwoochoi.wordpress.com/2019/07/18/generate-a-spectrogram-scrolling-video-of-an-audio-file/)
+  * [Serve Videos Instead of GIFs](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) gif로 mp4 생성 command (글 주제와는 무관)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
 * [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
 * [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
@@ -1034,6 +1041,7 @@ App
 * [“빨리 일하고 더 많이 놀기 위한” 윈도우 환경 최적화 팁 10가지](http://www.itworld.co.kr/news/122730)
 * [윈도우10 알아두면 쓸모 있을 팁 5가지](http://www.bloter.net/archives/372994)
 * [7 Tools to Copy Locked or In Use Files](https://www.raymond.cc/blog/copy-locked-file-in-use-with-hobocopy/)
+* [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
 
 ## Installation
 * 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
@@ -1097,6 +1105,7 @@ App
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
+* [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
   * [Awesome WSL - Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
   * [Windows 10에서 리눅스용 프로그램 설치하고 실행하기](https://medium.com/@rkttu/windows-10%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-2cb0d7892d12)
