@@ -258,6 +258,7 @@ Git
   * [git에서 다른 브랜치의 특정 파일만 체크아웃하기](https://johngrib.github.io/wiki/git-checkout-specific-files/)
   * [Rename a local and remote branch in git](https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/)
   * [git push -u origin master의 비밀](https://blog.naver.com/codeitofficial/221946628621)
+  * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
@@ -583,6 +584,7 @@ Git
   * [github 관리툴 gh 맛보기](https://blog.naver.com/pjt3591oo/221809400173)
   * [Supercharge your command line experience: GitHub CLI is now in beta](https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/)
   * [Introducing Official GitHub CLI](https://itnext.io/introducing-official-github-cli-2b43b1127e8d)
+  * [GitHub CLI allows you to close, reopen, and add metadata to issues and pull requests](https://github.blog/changelog/2020-05-11-github-cli-allows-you-to-close-reopen-and-add-metadata-to-issues-and-pull-requests/)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
