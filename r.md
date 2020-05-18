@@ -240,8 +240,6 @@ R
 * [reading multiple csv files](https://gist.github.com/woons/e34fa3f73d354619ab98d4c190d3787f)
 * [하라는 연구는 안하고 - R이나 배우고](https://www.youtube.com/playlist?list=PLXYASb_OF2c64_f1rZzE2J92BzrPsu7ey)
 * [Exploratory Data Analysis in R](https://opendatascience.com/exploratory-data-analysis-in-r)
-* [RStudio Cloud](https://rstudio.cloud/)
-  * [RStudio Cloud - 설치가 필요없는 R 스튜디오](http://blog.naver.com/newstars77/221370481425)
 * [The Economist’s Big Mac Index is calculated with R](https://www.r-bloggers.com/the-economists-big-mac-index-is-calculated-with-r/)
 * [Time Series Analysis - 1 | Time Series in R | Time Series Forecasting | Data Science | Simplilearn](https://www.youtube.com/watch?v=gj4L2isnOf8)
 * [Time Series Analysis - 2 | Time Series in R | ARIMA Model Forecasting | Data Science | Simplilearn](https://www.youtube.com/watch?v=Y5T3ZEMZZKs)
@@ -269,7 +267,6 @@ R
 * [가로형/세로형 변환(RESHAPE2::MELT/DCAST)](http://ds.sumeun.org/?p=948)
 * [USEFUL R BASE FUNCTIONS](http://lumiamitie.github.io/r/useful-r-base-fun/)
 * [수 표기 방법](http://ds.sumeun.org/?p=1052)
-* [Using RStudio and Git version control](https://www.r-bloggers.com/using-rstudio-and-git-version-control/)
 * [Sentiment Analysis, Word Embedding, and Topic Modeling on Venom Reviews](https://www.r-bloggers.com/sentiment-analysis-word-embedding-and-topic-modeling-on-venom-reviews/)
 * [디랩 아카데미](https://wedatalab.tistory.com/category/%EB%94%94%EB%9E%A9%20%EC%95%84%EC%B9%B4%EB%8D%B0%EB%AF%B8/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D)
 * [Writing clean and readable R code the easy way](https://www.r-bloggers.com/writing-clean-and-readable-r-code-the-easy-way/)
@@ -489,7 +486,6 @@ R
 * [getKinQuery](https://github.com/mrchypark/getKinQuery)
 * googleLanguageR
   * [소설 분석, googleLanguageR 소개](https://junhewk.github.io/text/2017/10/05/googlelanguageR-and-novel-analysis/)
-* [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [greta](https://cran.rstudio.com/web/packages/greta/vignettes/get_started.html)
 * [h3jsr - Access Uber's h3-js library via R and V8 - https://uber.github.io/h3/#/documentation/overview/use-cases https://obrl-soil.github.io/h3jsr ](https://github.com/obrl-soil/h3jsr)
   * [예제 : R에서 Uber H3를 이용해보자](https://blog.naver.com/hancury/221716636489)
@@ -505,8 +501,6 @@ R
 * [mboxr - import an mbox file into R tibble for hands-on analyses in R environment](https://jooyoungseo.github.io/mboxr/)
 * miniCRAN
   * [엔터프라이즈 환경에서 R Local Repository 구축하기](http://freesearch.pe.kr/archives/4417)
-* MLflow
-  * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
 * [multilinguer - Gentle Programming Language Installer (like JDK) for R User](https://github.com/mrchypark/multilinguer)
 * nse2r [Introducing nse2r](https://www.r-bloggers.com/introducing-nse2r/)
 * [networkD3: D3 JavaScript Network Graphs from R](http://christophergandrud.github.io/networkD3/)
@@ -530,7 +524,6 @@ R
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * readr
   * [readr package 의 guess_encoding() 함수를 이용한 Text 파일의 인코딩 타입 추론](https://lovetoken.github.io/r/2017/10/07/guessEncoding.html)
-* [RegExplain - an RStudio addin slash utility belt for regular expressions](https://github.com/gadenbuie/regexplain/#readme)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
 * [**ReporteRs - an R package for creating Microsoft Word and Powerpoint documents**](https://davidgohel.github.io/ReporteRs/)
 * reticulate
@@ -691,6 +684,13 @@ R
 * [Searching on Google Maps using RStudio](https://www.datasciencecentral.com/profiles/blogs/searching-on-google-maps-using-rstudio)
 * [RStudio Projects and Working Directories: A Beginner’s Guide](https://www.r-bloggers.com/rstudio-projects-and-working-directories-a-beginners-guide/)
 * [RStudio Connect 1.8.0](https://www.r-bloggers.com/rstudio-connect-1-8-0/)
+* [R 설치 및 RStrudio 설치](https://www.youtube.com/watch?v=wD8IHzABHtc)
+* [Using RStudio and Git version control](https://www.r-bloggers.com/using-rstudio-and-git-version-control/)
+* [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
+* [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
+* [RegExplain - an RStudio addin slash utility belt for regular expressions](https://github.com/gadenbuie/regexplain/#readme)
+* [RStudio Cloud](https://rstudio.cloud/)
+  * [RStudio Cloud - 설치가 필요없는 R 스튜디오](http://blog.naver.com/newstars77/221370481425)
 
 # TDD, Test
 * [Tips for A/B Testing with R](https://www.r-bloggers.com/tips-for-ab-testing-with-r/)
