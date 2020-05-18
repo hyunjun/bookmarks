@@ -2378,6 +2378,7 @@ Javascript
 * [Build a Brain Computer App with React Native (Part 2) - Live Coding with Jesse](https://www.youtube.com/watch?v=SZ8Kz4YvWUE)
 * [React Native Learnings](https://medium.com/@srinuch1981/react-native-learnings-367e252c1900)
 * [React Native: Background Task Management in iOS](https://medium.com/@rossbulat/react-native-background-task-management-in-ios-d0f05ae53cc5)
+* [React Native용 오픈소스 만들기](https://dev-yakuza.github.io/ko/react-native/make-opensource-library/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
