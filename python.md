@@ -2569,6 +2569,7 @@ Python
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
 * [NBAPB (Blog Auto Posting Bot)](https://github.com/pjt3591oo/blog_post_bot_cli)
+* [ndindex - Introducing ndindex, a Python library for manipulating indices of ndarrays](https://labs.quansight.org/blog/2020/04/introducing-ndindex-a-python-library-for-manipulating-indices-of-ndarrays/)
 * [NetworkX](http://networkx.github.io/) -> [graph](graph.md)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
@@ -2659,6 +2660,7 @@ Python
 * [pyo3 - Rust bindings for the Python interpreter](https://github.com/PyO3/pyo3)
 * [pyOpenCL](http://www.slideshare.net/SeongjunKim1/pyopencl)
 * [pyOpt - a Python-based package for formulating and solving nonlinear constrained optimization problems in an efficient, reusable and portable manner](http://www.pyopt.org/)
+* [pyp - Easily run Python at the shell! Magical, but never mysterious](https://github.com/hauntsaninja/pyp)
 * [**pypapago 개발기**](https://beomi.github.io/2019/07/08/Papago-API-with-Python/)
 * pyparsing
   * [Creating Domain Specific Languages in Python](http://www.slideshare.net/Siddhi/creating-domain-specific-languages-in-python)
@@ -2736,6 +2738,7 @@ Python
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
+* [**Rich - a Python library for rich text and beautiful formatting in the terminal. https://www.willmcgugan.com/tag/rich **](https://github.com/willmcgugan/rich)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
 * [Rosalind is a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
 * [RPyC - Transparent, Symmetric Distributed Computing](https://rpyc.readthedocs.io/) remote python call
@@ -3082,6 +3085,7 @@ Python
 * [Sungchul Lee](https://www.youtube.com/user/sungchulyonseiackr/playlists) 연대 수학과 교수
 * [Microsoft: We want you to learn Python programming language for free](https://www.zdnet.com/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/)
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+* [More “Python for Beginners” videos…times two!](https://cloudblogs.microsoft.com/opensource/2020/05/04/more-python-for-beginners-videos/)
 
 # Music
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
