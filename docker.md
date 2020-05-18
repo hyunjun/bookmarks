@@ -414,6 +414,8 @@ Docker
 * [컨테이너에서 돌아가는 애플리케이션의 GUI를 이용하는 법](https://jonghunbok.github.io/posts/gui-on-container/) X.Org, X11
 * [Docker로 간단하게 Let's Encrypt 와일드카드 인증서 발급받기](https://lynlab.co.kr/blog/72)
 * [**proxy 뒤에서 docker의 wordpress, https 적용**](https://www.popit.kr/proxy-%EB%92%A4%EC%97%90%EC%84%9C-docker%EC%9D%98-wordpress-https-%EC%A0%81%EC%9A%A9/)
+* [**LINUX CONTAINERS IN A FEW LINES OF CODE**](https://zserge.com/posts/containers/)
+* [Why strace doesn't work in Docker](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -761,8 +763,11 @@ Docker
 * [7 missing factors from 12 factor application](https://medium.com/ibm-cloud/7-missing-factors-from-12-factor-application-2a3e1169bd9d)
 * [Domesticating Kubernetes](https://blog.quickbird.uk/domesticating-kubernetes-d49c178ebc41)
 * [Multicluster Kubernetes with Service Mirroring](https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/)
+* [Kubernetes의 DNS, CoreDNS를 알아보자](https://jonnung.dev/kubernetes/2020/05/11/kubernetes-dns-about-coredns/)
+* [How to Setup DNS for a Website Using Kubernetes, EKS, and NGINX](https://www.freecodecamp.org/news/how-to-setup-dns-for-a-website-using-kubernetes-eks-and-nginx/)
 
 ## Library Kubernetes
+* [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
@@ -805,6 +810,7 @@ Docker
   * [AI/ML pipelines using Open Data Hub and Kubeflow on Red Hat OpenShift](https://developers.redhat.com/blog/2019/12/16/ai-ml-pipelines-using-open-data-hub-and-kubeflow-on-red-hat-openshift)
   * [Kubeflow – Fairing](https://www.kangwoo.kr/2020/03/14/kubeflow-fairing/)
   * [Kubeflow 파이프라인 운용하기](https://medium.com/daangn/kubeflow-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%9A%A9%ED%95%98%EA%B8%B0-6c6d7bc98c30)
+* [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
@@ -951,6 +957,7 @@ Docker
 * [**Docker 공식문서 에서 제시하는 개발-배포 Flow 따라가기 (Docker Swarm 사용하기)**](http://jaynewho.com/post/21)
 * [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)](https://www.youtube.com/watch?v=16LNWMqphOA)
 * [Docker Swarm 을 이용한 Container Orchestration 환경 만들기](https://tech.osci.kr/2019/02/13/59736201/)
+* [Docker swarm - setup and usage](https://knowledgepill.it/posts/docker_swarm_compendium/)
 
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)
