@@ -1200,6 +1200,7 @@ NLP
 * [Sentiment Classification with Natural Language Processing on LSTM](https://blog.usejournal.com/sentiment-classification-with-natural-language-processing-on-lstm-4dc0497c1f19)
 * [Sentiment Analysis: Concept, Analysis and Applications](https://blog.paralleldots.com/product/contextual-sentiment-analysis-applications)
 * [sentiment_dataset](https://github.com/AcademiaSinicaNLPLab/sentiment_dataset)
+* [Sentiment Analysis using Deep Learning with Tensorflow](https://medium.com/analytics-vidhya/sentiment-analysis-using-deep-learning-with-tensorflow-2bb176c40257)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
