@@ -685,6 +685,7 @@ Javascript
 * [RxJS in Angular: Part I](https://medium.com/angular-in-depth/rxjs-in-angular-part-1c5409610d8e)
 * [Let Angular Manage Your RxJS Subscriptions Better](https://medium.com/better-programming/let-angular-manage-your-rxjs-subscriptions-better-9243073e94b0)
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
+* [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
