@@ -132,6 +132,7 @@
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
+* [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [kiss-ui - A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)](https://github.com/cybergeek94/kiss-ui)
 * [LALRPOP is an LR(1) parser generator that emits Rust code](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
