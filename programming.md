@@ -1129,6 +1129,7 @@ Programming
 * [Best of 2017 in tech talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b)
 * [다시 보는 2018 한국의 주요 개발 / 테크 컨퍼런스들](https://www.44bits.io/ko/post/replay-2018-korea-tech-development-conferences)
 * [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
+* [버추얼 컨퍼런스의 전성 시대 온라인으로 열리는 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/news--virtual-developer-conferences)
 
 # Continuous Integration, CI
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)
@@ -1749,6 +1750,7 @@ Programming
 * [44BITS 뉴스레터 2020년 14-15주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-14-15)
 * [44BITS 뉴스레터 2020년 16-17주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-16-17)
 * [44BITS 뉴스레터 2020년 18-19주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-18-19)
+* [44BITS 뉴스레터 2020년 20주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-20)
 * [news.hada.io](https://news.hada.io/)
 * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
 * [2019년 10월 12일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-12.html) EXIF 이미지 처리 pillow
