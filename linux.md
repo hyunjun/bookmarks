@@ -195,6 +195,7 @@ Linux
   * [Print only the Nth line before each line that matches a pattern](https://unix.stackexchange.com/questions/283471/print-only-the-nth-line-before-each-line-that-matches-a-pattern)
   * `awk '{ gsub(/\xef\xbb\xbf/,""); print }' INFILE > OUTFILE` [remove ALL <U+FEFF>](https://gist.github.com/szydan/b225749445b3602083ed) 
   * [You are here: Home / Linux Commands / Getting Started With AWK Command](https://linuxhandbook.com/awk-command-tutorial/)
+  * [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
@@ -295,6 +296,7 @@ Linux
   * [A shell one-liner to search directories](https://www.johndcook.com/blog/2020/04/19/directory-search/)
 * `fold`
   * [File character counts](https://www.johndcook.com/blog/2019/10/16/file-character-counts/) fold 응용
+* gcore [How I recovered a lost email from my email client’s memory](https://www.ctrl.blog/entry/restore-lost-email-from-ram.html)
 * `grep`
   * `grep: Binary file <some file> matches` > `grep [-a|--text] <some file>`
   * `grep '^[A-Z_]\+[   ]\+[0-9]\+' [file name]` 파일에서 영어 대문자와 \_(underscore)로 시작하고 중간에 스페이스, 탭으로 이뤄진 공백이 있고 숫자로만 끝나는 line 찾기
@@ -454,6 +456,7 @@ Linux
   * [Creating a Linux service with systemd](https://medium.com/@benmorel/creating-a-linux-service-with-systemd-611b5c8b91d6)
   * [**In search of a better job scheduler What if cron and systemd had a baby? Wouldn't it be beautiful?**](https://beepb00p.xyz/scheduler.html)
   * [How to write startup script for systemd](https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd)
+  * [Operating Systems Without Systemd](https://annihilatormodule.com/2020-01-18/systemd-archives)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
