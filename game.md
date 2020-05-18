@@ -54,6 +54,7 @@ Game
   * [원리부터 파악하는 Unity의 DOTS](https://blog.iwanhae.ga/intro-of-unity-dots/)
   * [Project - Reinforcement Learning with Unity 3D: G.E.A.R](https://dtransposed.github.io/blog/GEAR.html)
   * [유니티 입문서](https://www.notion.so/7e6214c90c924a669fd1ddb3276d29ad)
+  * [Unity DOTS DynamicBuffer 사용하기](https://snack.planetarium.dev/kor/2020/05/unity-dots-start-to-use-dynamic-buffer/)
 * Unreal
   * [NDC 17 - ‘언알못’이 언리얼엔진을 배우려면 어떻게 해야 돼요?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71531)
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
