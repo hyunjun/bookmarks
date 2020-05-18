@@ -170,6 +170,7 @@ Web
 * [Building and deploying modern websites and apps - GitHub Universe 2019](https://www.youtube.com/watch?v=KlO5Ksk7baQ)
 * [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)
 * [Timeout에 관한 정리](https://effectivesquid.tistory.com/entry/Timeout%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
+* [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 
 # Apache
 * installation
@@ -464,6 +465,8 @@ Web
   * [ECS+Locust로 부하 테스트 진행하기](https://www.slideshare.net/YungonPark/ecslocust-232571377)
 * [Mega boilerplate - 사용](http://wooriworld2006.tistory.com/m/post/353)
 * [OpenResty - a fast web app server by extending nginx](http://openresty.org/)
+* [oEmbed - a format for allowing an embedded representation of a URL on third party sites](https://oembed.com/)
+  * [oEmbed를 소개합니다](https://meetup.toast.com/posts/81)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
 * [Polymer Project](https://www.polymer-project.org)
   * [github.com/polymer](https://github.com/polymer)
