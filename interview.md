@@ -440,6 +440,7 @@ Interview
 * 광고 따라잡기
   * [Attribution Window #1](https://brunch.co.kr/@hyungsukkim/16)
   * [Attribution Window #2](https://brunch.co.kr/@hyungsukkim/22)
+* [Facebook vs. Google: 10 Contrasts for Engineering Careers](https://www.linkedin.com/pulse/facebook-vs-google-10-contrasts-engineering-careers-michael-mcnally/)
 
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)
@@ -449,6 +450,7 @@ Interview
 * [Acing the Google Interview: The Ultimate Guide](https://www.byte-by-byte.com/google-interview/)
 * [Google Coding Interview With A Competitive Programmer](https://www.youtube.com/watch?v=EuPSibuIKIg)
 * [번역 구글 기술면접, 야 너두 할 수 있어!](https://baeharam.netlify.app/posts/interview/%EA%B5%AC%EA%B8%80-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%95%BC-%EB%84%88%EB%91%90-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4!)
+* [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
 
 # Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
