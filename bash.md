@@ -19,6 +19,8 @@ Shell
 * [5분 따라하기 bash에서 파일 확장자 변경](http://jhrogue.blogspot.com/2020/04/5-bash_29.html)
 * [**Anybody can write good bash (with a little effort)**](https://blog.yossarian.net/2020/01/23/Anybody-can-write-good-bash-with-a-little-effort)
 * [When did I run that command? Update your Bash prompt with the command start time](https://redandblack.io/blog/2020/bash-prompt-with-updating-time/)
+* [Systems programming with bash and Python 3](https://github.com/kyclark/sysadminshow)
+* [Take care editing bash scripts](https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
