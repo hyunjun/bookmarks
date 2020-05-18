@@ -41,3 +41,4 @@ Programmer
 * [‘Go to guy’: 회사에서 가장 인정 받는 인재](http://www.andrewahn.co/silicon-valley/go-to-guy/)
 * [21 Bad Mistakes in My 21-Year Programming Career](https://levelup.gitconnected.com/21-bad-mistakes-in-my-21-year-programming-career-6d25c5b34908) 짧고 간단하게 좋은 이야기를 많이 씀
 * [100 of the Best Engineers, Developers, Coders, and Entrepreneurs to Follow Online](https://medium.com/better-programming/100-of-the-best-engineers-developers-coders-and-entrepreneurs-to-follow-online-e2cedcea17d7)
+* [프로그래머는 왜 이리 까칠하게 행동할까?](https://techit.kr/view/?no=20200502150347)
