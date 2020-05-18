@@ -298,6 +298,7 @@ Graph
   * [How to visualise the Global Exporting Network using NetworkX and D3](https://medium.freecodecamp.org/how-to-visualise-the-global-exporting-network-using-networkx-and-d3-b85abee95ee2)
   * [How to Perform Fraud Detection with Personalized Page Rank](https://blog.sicara.com/fraud-detection-personalized-page-rank-networkx-15bd52ba2bf6)
   * [Weighted graphs using NetworkX](https://qxf2.com/blog/drawing-weighted-graphs-with-networkx/)
+  * [Little Ball of Fur - A NetworkX extension library for graph sampling](https://github.com/benedekrozemberczki/littleballoffur)
 
 # Paper
 * [Paper: FlashGraph: Processing Billion-Node Graphs On An Array Of Commodity SSDs](http://highscalability.com/login/?returnUrl=%2Fblog%2F2015%2F5%2F19%2Fpaper-flashgraph-processing-billion-node-graphs-on-an-array.html)
