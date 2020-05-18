@@ -711,6 +711,7 @@ AWS
   * [cdkworkshop.com](https://cdkworkshop.com/)
   * [AWS Cloud Development Kit (CDK) Is Generally Available, Enhancing Coding Cloud Infrastructure](https://www.infoq.com/news/2019/07/amazon-aws-cdk-ga/)
   * [AWS Cloud Development Kit(CDK) – TypeScript 및 Python용 정식 버전 제공](https://aws.amazon.com/ko/blogs/korea/aws-cloud-development-kit-cdk-typescript-and-python-are-now-generally-available)
+  * [CDK(Cloud Development Kit) 개념](https://dong-life.tistory.com/92)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
   * [**AWS를 만드는 AWS, CloudFormation**](https://www.huskyhoochu.com/introduce-cloudformation)
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
