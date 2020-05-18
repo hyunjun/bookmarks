@@ -617,6 +617,7 @@ Programming
 * [분산 시스템의 도전 과제](https://aws.amazon.com/ko/builders-library/challenges-with-distributed-systems/)
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
   * [**확장성 있는 웹 아키텍처와 분산 시스템**](https://d2.naver.com/helloworld/206816)
+* [How to Avoid Cascading Failures in Distributed Systems](https://www.infoq.com/articles/anatomy-cascading-failure/)
 
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
@@ -672,6 +673,7 @@ Programming
 * [In Defence of the Monolith, Part 1](https://www.infoq.com/articles/monolith-defense-part-1/)
 * [In Defence of the Monolith, Part 2](https://www.infoq.com/articles/monolith-defense-part-2/)
 * [Monoliths are the future](https://changelog.com/posts/monoliths-are-the-future)
+* [Monolith Decomposition Patterns](https://www.infoq.com/presentations/microservices-principles-patterns/)
 * [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다](https://www.slideshare.net/arawnkr/ss-195979955)
 * [우아한 모노리스](https://www.slideshare.net/arawnkr/ss-224478403)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
@@ -772,6 +774,7 @@ Programming
 * [11 Reasons Why You Are Going To Fail With Microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
 * [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
+* [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1477,6 +1480,7 @@ Programming
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [raywenderlich.com](https://www.raywenderlich.com/) Over 3,000 high-quality tutorials to boost your programming career, created by a community of experts from around the world
+* [SKplanet Tacademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw/playlists)
 * [sololearn.com](https://www.sololearn.com/)
 * [woz-u.com](https://woz-u.com/)
 
@@ -1632,6 +1636,7 @@ Programming
   * [4월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/04/b-4-4.html)
   * [4월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/05/b-4-5.html)
   * [5월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/05/b-5-1.html)
+  * [5월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/05/b-5-2_18.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
