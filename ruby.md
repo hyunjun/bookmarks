@@ -48,6 +48,7 @@ Ruby
 * [프로그래밍 언어 루비 2.7 릴리스 및 주요 변경 사항 패턴 매칭 문법, REPL 개선, 위치 인자와 키워드 인자 분리, 번호 파라미터 등](https://www.44bits.io/ko/post/news--ruby-2-7-released)
 * [Add badges for TravisCI, Coveralls and Code Climate to your Readme (Ruby)](https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed)
 * [RuboCop your Ruby: enable, disable and configure your linter checks](https://medium.com/the-code-review/rubocop-enable-disable-and-configure-linter-checks-for-your-ruby-code-475fbf11046a)
+* [How to Fix Slow Code in Ruby](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
