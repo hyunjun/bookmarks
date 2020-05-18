@@ -374,3 +374,4 @@ PyTorch
 * [Effective PyTorch](https://github.com/vahidk/EffectivePyTorch)
 * [Pytorch 코드 작성 팁](https://sensibilityit.tistory.com/511)
 * [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
+* [PyTorch 1.2 Quickstart with Google Colab](https://medium.com/dair-ai/pytorch-1-2-quickstart-with-google-colab-6690a30c38d)
