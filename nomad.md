@@ -65,6 +65,7 @@ Nomad & Remote
 * [그 개발자 이야기](https://www.youtube.com/playlist?list=PLW6vRth7cf-N29mn-7VK29hFYAqve20v7)
   * 해외에 거주하는 여러 개발자 인터뷰
 * [4 Ways To Make Strong Connections As A Remote Worker](https://blog.trello.com/remote-work-connections)
+* [The Prosperous Software Consultant](https://medium.com/@dabit3/the-prosperous-software-consultant-5dc8d705c5dd)
 
 # Asia
 * [techinasia.com](https://www.techinasia.com/) 아시아(만 있는 건 아니지만) 중심의 job search도 제공
