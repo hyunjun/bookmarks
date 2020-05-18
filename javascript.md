@@ -1706,6 +1706,7 @@ Javascript
   * [Getting started with Deno](https://dev.to/kushal/getting-started-with-deno-3a4e)
   * ["더 나은 Node.js를 지향하는" 데노란 무엇인가](http://www.itworld.co.kr/news/145808)
   * [Denoo 너란 녀석은 누구냐?](https://blog.naver.com/pjt3591oo/221966662657)
+  * [Deno 1.0](https://deno.land/v1)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
@@ -1778,6 +1779,8 @@ Javascript
 * Odi [Building chat with Odi (Node.js)](https://hackernoon.com/building-chat-with-odi-node-js-e77ecd3891b2)
 * [Opbeat makes monitoring and debugging your Node.js production apps much faster, and your code better](https://opbeat.com/nodejs/)
 * [pg-live-select](https://github.com/numtel/pg-live-select)
+* [Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API](https://playwright.dev/)
+  * [Playwright 1.0 Release Automates Chromium, Firefox, and WebKit-Based Browsers](https://www.infoq.com/news/2020/05/playwright-10-browser-automation/)
 * pm2
   * [PM2 를 이용하여 NodeJS 프로세스 관리하기](http://www.tutorialbook.co.kr/entry/PM2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
   * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
@@ -2664,6 +2667,7 @@ Javascript
 * [프론트엔드 개발과 TDD](https://www.slideshare.net/jeonghwankim11/ss-78600304)
 * [믿을 만한 자바스크립트 테스트 도구 10가지](http://www.itworld.co.kr/news/128974)
 * [javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
+* [Babel, Mocha, Karma and Webpack with coverage in order](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
@@ -2789,6 +2793,7 @@ Javascript
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 * [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
+* ['강력한 형식의 자바스크립트' 타입스크립트의 의미와 설치하기](http://www.itworld.co.kr/news/151532)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
