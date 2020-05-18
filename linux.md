@@ -110,6 +110,7 @@ Linux
 * [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
+* [리눅스에서 커맨드 라인으로 모니터 밝기 조절하기](https://kkamagui.tistory.com/921)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
