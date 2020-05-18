@@ -34,6 +34,7 @@ Game
 * [Game AI Pro 3](http://www.gameaipro.com)
 * [피카츄 배구](https://gorisanson.github.io/pikachu-volleyball/ko/)
 * [게임 클라이언트 프로그래머로 취업하기 위해 필요한 10가지](https://ddayin.tistory.com/296)
+* ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
 # Board game
 * [ko.boardgamearena.com](http://ko.boardgamearena.com/)
@@ -44,6 +45,7 @@ Game
 * [Eller's algorithm creates 'perfect' mazes, having only a single path between any two cells, one row at a time](http://www.neocomputer.org/projects/eller.html)
 * [Libplanet 게임잼](https://snack.planetarium.dev/kor/2020/03/libplanet-gamejam/)
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
+* [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
