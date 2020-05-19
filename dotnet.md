@@ -111,6 +111,7 @@
   * [Unity 환경에서 단위 테스트 돌리기](https://snack.planetarium.dev/kor/2019/06/xunit-unity-runner/)
   * [파이콘 스프린트에 다녀오다](https://snack.planetarium.dev/kor/2019/08/pycon-sprint-2019/)
   * [여러 .NET 구현과 플랫폼을 두루 지원하는 라이브러리 (오픈 소스로) 만들기](https://speakerdeck.com/minhee/yeoreo-net-guhyeongwa-peulraespomeul-duru-jiweonhaneun-raibeureori-opeun-soseuro-mandeulgi)
+  * [Libplanet 팀이 2020 스프린트서울에도 참여합니다!](https://snack.planetarium.dev/kor/2020/05/sprintseoul/)
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
