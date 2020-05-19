@@ -709,6 +709,7 @@ R
 * [Tutorial: Data Wrangling and Mapping in R](https://medium.com/towards-data-science/tutorial-data-wrangling-and-mapping-in-r-ec828acc8073)
 * [R Programming For Beginners | R Language Tutorial | R Tutorial For Beginners | Edureka](https://www.youtube.com/watch?v=fDRa82lxzaU)
 * [R릴레오 시즌1](https://www.youtube.com/playlist?list=PLiKjxGAhetNcK7yumhJ_gv9HNZ2g4Y_Im)
+* [R for beginners](https://www.rensvandeschoot.com/tutorials/r-for-beginners/)
 
 # Visualization
 * [Geographic visualization with R's ggmap](http://blog.dominodatalab.com/geographic-visualization-with-rs-ggmaps/)
