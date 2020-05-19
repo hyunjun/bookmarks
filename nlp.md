@@ -309,6 +309,7 @@ NLP
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [Natural Language Processing(NLP) Real World Project in Web Using Flask:- Himanshu Tripathi](https://www.youtube.com/watch?v=7E_CtqM_nsE)
+* [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
