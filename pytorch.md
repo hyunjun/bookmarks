@@ -296,6 +296,7 @@ PyTorch
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
 * [QuickDraw - Implementation of Quickdraw - an online game developed by Google](https://github.com/1991viet/QuickDraw)
 * [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
+* [Rock-Paper-Scissors-with-Jetson-Nano - an implementation for Rock-Paper-Scissors game with a machine. Jetson Nano is used for AI recognition of hand gesture](https://github.com/mokpi/Rock-Paper-Scissors-with-Jetson-Nano)
 * [skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
 * [SpeechBrain - A PyTorch-based Speech Toolkit](https://speechbrain.github.io)
 * [SpeedTorch - Faster pinned CPU tensor <-> GPU Pytorch variabe transfer and GPU tensor <-> GPU Pytorch variable transfer, in certain cases](https://github.com/Santosh-Gupta/SpeedTorch)
