@@ -4,6 +4,7 @@ AWS
 * [**WEBABCWITHAWS**](https://www.joinc.co.kr/w/man/12/architecture/webABCwithAWS) 웹 서비스의 기본 요소들을 AWS로 재구성 & 설명
 * [AWS News Blog](https://aws.amazon.com/blogs/aws/)
 * [Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/)
+* [Open Source at AWS](https://aws.github.io/)
 * [Amazon Web Services Korea](http://www.slideshare.net/awskorea/tag/webinar2015)
 * [AWS 웨비나 시리즈](http://aws.amazon.com/ko/events/webinars/webinar-week-01)
 * [AWS 한국 블로그를 시작합니다](https://aws.amazon.com/ko/blogs/korea/welcome-to-aws-korea-blog/)
