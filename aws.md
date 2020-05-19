@@ -402,6 +402,8 @@ AWS
 * [AWS 서버리스 서비스를 이용한 웹 애플리케이션 구축하기 Hands-on Lab](https://github.com/bskim/AWSServerlessHoL-CI-CD)
 * [Amazon Builders Library를 아십니까?](http://channy.creation.net/blog/1317)
 * [사용자수에 따른 AWS 아키텍처 설계하기](https://developer88.tistory.com/316)
+* [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 1부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1/)
+* [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -686,6 +688,7 @@ AWS
 * [Try to use Serverless function](https://jinhoyoo.github.io/Try-to-use-Serverless-function/)
 * [Handling 350k Requests for $3 using Lambda](https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58)
 * [AWS 기반 서버리스 아키텍쳐 톺아보기 #AWS #서버리스 #총정리 #발표자료](https://dev.classmethod.jp/articles/aws-serverless-architecture-x-kodeveloper-38/)
+  * [AWSKRUG 구로디지털 #gudi 소모임 – 37회차 발표자료입니다](https://dev.classmethod.jp/articles/awskrug-gudi-37-serverless/)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
