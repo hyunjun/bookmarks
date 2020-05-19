@@ -149,6 +149,7 @@ AWS
   * [2. Code Deploy 연동](http://jojoldu.tistory.com/314)
   * [3. 젠킨스 연동](http://jojoldu.tistory.com/315)
 * [AWS Lambda로 Code Deploy 배포 상세 결과 알람 받기](http://jojoldu.tistory.com/298)
+* [「Deploy」 CodeDeploy로 자동배포 해보기](https://woomin.netlify.app/Posts/2020-05-12-CodeDeploy/)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [Serverless Archtecture를 응용한 실시간 DW 플랫폼 구현](https://www.slideshare.net/JihyeongSeo/serverlessarchitecturedw)
 * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
