@@ -264,6 +264,7 @@ ElasticSearch - Lucene
 * [Elastic SIEM 도입](https://www.elastic.co/kr/blog/introducing-elastic-siem)
 * [엘라스틱 SIEM에 새로운 데이터소스를 자유롭게 추가하기 (1) - #elasticsearch](https://blog.naver.com/olpaemi/221961526660)
 * [Elastic Endpoint Security 도입](https://www.elastic.co/kr/blog/introducing-elastic-endpoint-security)
+* [기본 보안](https://danawalab.github.io/elastic/2020/05/20/Elasticsearch-basic-security.html)
 * [Berlin Buzzwords 2019:Debmalya Biswas/Louis Baligand–Building an enterprise NLSE (...)](https://www.youtube.com/watch?v=UJYrDw6I19Y) ElasticSearch + Facebook's DrQA
 * [Enhancing Search With Elastic How we are improving search in our app using Elastic Search](https://hackernoon.com/enhancing-search-with-elastic-bcc450d05de8)
 * [DevFestDC - 2019 - Summer Rankin - Advancing your NLP with Elasticsearch](https://www.youtube.com/watch?v=s-60EuqgfGI) topic modelling, 추출, 분석
