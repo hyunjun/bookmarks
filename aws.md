@@ -404,6 +404,7 @@ AWS
 * [사용자수에 따른 AWS 아키텍처 설계하기](https://developer88.tistory.com/316)
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 1부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1/)
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
+* [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
