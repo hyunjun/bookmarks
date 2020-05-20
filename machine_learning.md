@@ -1051,6 +1051,7 @@ Machine Learning
 * [How to Transform Research Oriented Code into Machine Learning APIs with Python](https://speakerdeck.com/tetsuya0617/how-to-transform-research-oriented-code-into-machine-learning-apis-with-python) ML에서의 refactoring에 대한 이야기
 * [**파이썬과 SQL을 활용한 패혈증(Sepsis) 분석**](https://www.notion.so/SQL-Sepsis-44d3a67a45d3446da5accaab08620ed7)
 * [라이브러리 없이 단층 퍼셉트론 구하기 ML with pYTHON](https://www.youtube.com/watch?v=0nQmFuyIh6c)
+* [사이킷 런의 svm.SVC 사용 및 흉내내어 만들어보기 ML with pYTHON](https://www.youtube.com/watch?v=4hZmWdk6IrA)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
