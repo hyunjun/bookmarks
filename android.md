@@ -319,6 +319,7 @@ Android
 # MOOC, Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
 * [Academy for App Success](https://developer.android.com/google-play/academy/)
+* [안드로이드 프로그래밍 입문의 장벽을 넘으려면](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8429031906)
 
 # TDD, Test
 * [Understanding and Mastering the World of Android Testing (Part 1)](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)
