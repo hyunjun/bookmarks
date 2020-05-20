@@ -58,6 +58,7 @@ AWS
 * [IAM 사용자 추가와 aws cli 설정](https://jybaek.tistory.com/838)
 * [IAM 정책을 잘 알아야 AWS 보안도 쉬워진다. 이것은 꼭 알고 가자! - 신은수 솔루션즈 아키텍트(AWS)](https://www.youtube.com/watch?v=iPKaylieTV8)
 * [Breaking Down AWS’s Identity and Access Management (IAM)](https://medium.com/better-programming/breaking-down-awss-identity-access-management-iam-cb51c9195e4f)
+* [IAM으로Role Switch하기](https://dev.classmethod.jp/articles/iam-2/)
 * [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
 * [아마존 엘라스틱 컨테이너 서비스(ECS) 입문 - 도커(Docker) 컨테이너 오케스트레이션](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
 * [ECS (Elastic Container Service)](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/3.AWS_ECS)
@@ -505,6 +506,7 @@ AWS
   * AWS Summit Online Korea
     * [세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
     * [세션 레포트 AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례](https://dev.classmethod.jp/articles/summit-online-korea-storage-migration/)
+    * [이벤트 드리븐 아키텍처 구축을 위한 적절한 어플리케이션 통합 서비스 선택 및 사용 방법](https://dev.classmethod.jp/articles/summit-online-korea-event-driven/)
 
 # Course, Lecture, Tutorial
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
