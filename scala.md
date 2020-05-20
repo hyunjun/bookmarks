@@ -1255,7 +1255,12 @@ Scala
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
-* SBT Native Packager Docker Plugin [Separate Docker Layers for Dependencies and App JARs](https://medium.com/@ppiotrow/separate-docker-layers-for-dependencies-and-app-jars-e33b52ca044c)
+* [sbt-native-packager attempts to make building packages for different operating systems easier](https://www.scala-sbt.org/sbt-native-packager/)
+  * [sbt-native-packager.readthedocs.io](https://sbt-native-packager.readthedocs.io/)
+  * [readthedocs.org/projects/sbt-native-packager](https://readthedocs.org/projects/sbt-native-packager/)
+  * SBT Native Packager Docker Plugin
+    * [**practice - sbt native packager docker plugin**](https://gist.github.com/hyunjun/28eb7d34e83088ee0c2f4cef97979275#file-sbt_native_packager_docker_plugin-md)
+    * [Separate Docker Layers for Dependencies and App JARs](https://medium.com/@ppiotrow/separate-docker-layers-for-dependencies-and-app-jars-e33b52ca044c)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
