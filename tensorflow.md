@@ -856,6 +856,7 @@ TensorFlow
   * [자바스크립트로 머신러닝하세요! 텐서플로우 자바스크립트 소개](https://www.youtube.com/watch?v=UIZHqxB_JX0)
   * [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
   * [Not Hotdog with Keras and TensorFlow.js](https://morioh.com/p/b6dfa3bddc2e?f=5c21fb01c16e2556b555ab32)
+  * [Build A Machine Learning Image Classifier with TensorFlowJs](https://morioh.com/p/b468f80e2d0b?f=5c21fb01c16e2556b555ab32)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
