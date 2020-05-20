@@ -82,6 +82,7 @@ Network
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
 * [The HTTP headers you don't expect](https://frenxi.com/http-headers-you-dont-expect/)
+* [HTTP 정리](https://medium.com/@rlatla626/http-%EC%A0%95%EB%A6%AC-3958d2a82312)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
