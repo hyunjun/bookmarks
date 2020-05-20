@@ -257,6 +257,7 @@ Vision
 * [FreeAnchor](https://www.slideshare.net/BrianKim244/freeanchor)
 * [Computer Vision Basics in Microsoft Excel (using just formulas)](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
 * [얼굴 인식과 닮은 꼴 찾기를 한 번에! (With Naver Cloud Platform): 컴퓨터 비전 1도 몰라도 가능?](https://dev-sngwn.github.io/2020-05-05-cfr-step-by-step/)
+* [많은 양의 개체들을 시각화하는 방법, 그리고 전국의 모든 건물](https://www.vw-lab.com/64?category=787869)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
@@ -519,6 +520,7 @@ Vision
 * [practice-FirstPersonOpenGL](https://github.com/SausageTaste/practiceOpenGL-FirstPerson)
 * [Coding Minecraft In 5 Seconds - Python/ OpenGL Programming Challenge](https://www.youtube.com/watch?v=S4EUQD9QIzc)
 * [OpenGL ES 2.0 예제](https://brunch.co.kr/@mystoryg/102)
+* [Nvidia Mesh Shader 코드를 작성해보자](https://www.vw-lab.com/84)
 
 # Python
 * [Face Recognition | Image Processing in Python | Machine Learning](https://www.youtube.com/watch?v=Rz3SIHyCWzY)
