@@ -463,6 +463,7 @@ Programming
 * [소프트웨어 설계 악취: 기술 부채 관리 방법](https://www.slideshare.net/jrogue/ss-56467309)
 * [**24시간 365일 서버/인프라를 지탱하는 기술**](http://astrod.github.io/2017/12/17/17.html)
 * [**넷플릭스의 카오스 엔지니어링의 원칙**](http://channy.creation.net/blog/1173#.WkXB71SFjy0)
+* [Chaos Engineering을 위한 최신 도구 업데이트 - 윤석찬 (AWS 테크에반젤리스트)](https://www.youtube.com/watch?v=mLWD4KCQuT4)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
