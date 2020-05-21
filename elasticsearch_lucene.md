@@ -280,6 +280,7 @@ ElasticSearch - Lucene
   * [Elastics Stack 으로 COVID19 대시보드 만들기 - 3](https://www.youtube.com/watch?v=UGOk-h5i5kk)
 * [use case: coronavirus COVID 19 study and visualisation with Elasticsearch](https://medium.com/@quoeamaster/use-case-coronovirus-covid-19-investigation-and-visualisation-with-elasticsearch-598df7849e82)
 * [Kurly에서 주문을 모니터링 하는 법](https://helloworld.kurly.com/blog/order-monitoring-service/)
+* [엘라스틱서치 오타교정 API 만들어보기](https://danawalab.github.io/elastic/2020/05/21/Elasticsearch-SuggestApi.html)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
