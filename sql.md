@@ -393,6 +393,7 @@ SQL
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
 * median 값 구하기 [SQL MySQL의와 계산의 중간에 간단한 방법](https://cnpnote.tistory.com/entry/SQL-MySQL%EC%9D%98%EC%99%80-%EA%B3%84%EC%82%B0%EC%9D%98-%EC%A4%91%EA%B0%84%EC%97%90-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B0%A9%EB%B2%95)
+* [MySql 의 기본 사용법과 주요 명령어들 총정리](https://developer88.tistory.com/20)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
