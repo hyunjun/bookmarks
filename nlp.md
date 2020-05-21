@@ -1392,6 +1392,7 @@ NLP
 * [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8)
 * [Natural Language Processing Distinguish yourself by learning to work with text data](https://www.kaggle.com/learn/natural-language-processing)
 * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) pytorch
+* [Tutorial: Natural Language Processing (NLP) in Python - From Zero to Hero](https://us.pycon.org/2020/schedule/presentation/49/)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
