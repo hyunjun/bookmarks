@@ -180,6 +180,7 @@ Haskell
 * [How does Haskell avoid stack overflow when non tail recursion is required?](https://www.quora.com/How-does-Haskell-avoid-stack-overflow-when-non-tail-recursion-is-required)
 * [What are the advantages and disadvantages of using Haskell to implement a domain specific language?](https://www.quora.com/What-are-the-advantages-and-disadvantages-of-using-Haskell-to-implement-a-domain-specific-language)
 * [Can the Haskell compiler automatically convert a recursive function that is not tail-recursive into a tail-recursive function using the continuation-passing style technique or some other technique?](https://www.quora.com/Can-the-Haskell-compiler-automatically-convert-a-recursive-function-that-is-not-tail-recursive-into-a-tail-recursive-function-using-the-continuation-passing-style-technique-or-some-other-technique)
+* [Defunctionalize the Continuation](https://www.cis.upenn.edu/~plclub/blog/2020-05-15-Defunctionalize-the-Continuation/)
 * [What does the flip function do in Haskell?](https://www.quora.com/What-does-the-flip-function-do-in-Haskell)
 * [How fast is Haskell?](https://www.quora.com/How-fast-is-Haskell)
 * [What are the most famous software written in Haskell and why aren't there more? I know of xmonad and that Standard Chartered used it in production. Are there others?](https://www.quora.com/What-are-the-most-famous-software-written-in-Haskell-and-why-arent-there-more-I-know-of-xmonad-and-that-Standard-Chartered-used-it-in-production-Are-there-others)
@@ -220,7 +221,6 @@ Haskell
 * [Haskell on AWS Lambda - A Detailed Tutorial](https://www.haskelltutorials.com/haskell-aws-lambda/)
 * [Environment variables parsing for free (applicatives)](https://tech.fretlink.com/environment-variables-parsing-for-free-applicatives/)
 * [Intervals and their relations](https://marcosh.github.io/post/2020/05/04/intervals-and-their-relations.html)
-* [JSON Parsing from Scratch in Haskell](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
 * [jmtd → log → template haskell](https://jmtd.net/log/template_haskell/)
 * [Frozen Lake in Haskell](https://mmhaskell.com/blog/2020/4/20/frozen-lake-in-haskell)
 * [More Random Access Lists](https://doisinkidney.com/posts/2020-05-02-more-random-access-lists.html)
@@ -228,10 +228,18 @@ Haskell
 * [REANIMATE: SWEARING AT BAD DOCUMENTATION](https://williamyaoh.com/posts/2020-05-10-reanimate-an-experience-report.html)
 * [The State of Haskell IDEs](https://mpickering.github.io/ide/posts/2020-05-08-state-of-haskell-ide.html)
 * [Hereditary substitutions](https://boxbase.org/entries/2020/may/11/hereditary_substitutions/)
+* [Book "Functional Design and Architecture"](https://np.reddit.com/r/haskell/comments/gmxfqz/book_functional_design_and_architecture/)
+* [GHC Unproposals](https://neilmitchell.blogspot.com/2020/05/ghc-unproposals.html)
+* [Implementing Clean Architecture with Haskell and Polysemy](https://github.com/thma/PolysemyCleanArchitecture/)
+* [Competitive programming in Haskell: summer series](https://byorgey.wordpress.com/2020/05/16/competitive-programming-in-haskell-summer-series/)
+* [DerivingVia sums-of-products](https://iceland_jack.brick.do/e28e745c-40b8-4b0b-8148-1f1ae0c32d43)
+* [Frozen Lake with Q-Learning!](https://mmhaskell.com/blog/2020/5/4/frozen-lake-with-q-learning)
+* [Functional Fika — Nix and Haskell:](https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
 * [A Type-Safe Approach to Categorized Data](https://epeery.com/typesafe-approach-to-categorized-data/)
+* [Error Messages in Haskell, and how to Improve them](https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html)
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
@@ -252,9 +260,8 @@ Haskell
 # Library
 * [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
 * [Tools for working on GHC](https://mpickering.github.io/posts/2019-06-11-ghc-tools.html)
-* [aeson: Fast JSON parsing and encoding](http://hackage.haskell.org/package/aeson)
-  * [Parsing JSON with Aeson](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json)
 * [Awake Security](https://github.com/awakesecurity)
+* [azure-demo - Haskell + Azure DevOps Demo](https://github.com/alasconnect/azure-demo/)
 * [Caramel is a set of bidirectional, Haskell-inspired syntax-sugars that are expanded to, and contracted from, λ-Calculus terms](https://github.com/MaiaVictor/caramel)
 * [Cloud Haskell: Erlang-style concurrent and distributed programming in Haskell](http://haskell-distributed.github.io/)
 * [compleat - Generate command-line completions using a simple DSL. http://limpet.net/mbrubeck/2009/10/30/compleat.html](https://github.com/mbrubeck/compleat)
@@ -299,6 +306,7 @@ Haskell
   * [overloaded-0.2.1: Overloaded:Categories](https://oleg.fi/gists/posts/2020-05-04-overloaded-categories.html)
   * [overloaded-0.2.1: Overloaded:Do](https://oleg.fi/gists/posts/2020-04-27-overloaded-local-do.html)
   * [overloaded-0.2.1: Overloaded:Unit](https://oleg.fi/gists/posts/2020-05-11-overloaded-unit.html)
+  * [Bitonic sort: an example of Overloaded:Categories and Staged programming](https://oleg.fi/gists/posts/2020-05-19-bitonic-sort.html)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
 * [password - provides packages for easily working with passwords in Haskell](https://github.com/cdepillabout/password)
@@ -332,6 +340,7 @@ Haskell
 * [A guide to monads in Haskell](https://medium.com/swlh/a-guide-to-monads-in-haskell-fe1c0e4457c1)
 * [Hierarchical Free Monads: The Most Developed Approach In Haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/7472b5c1a073366d87153dd3976873687422c8b1/README.md)
 * [Hierarchical Free Monads: Mostly Pointless](https://github.com/effectfully/sketches/tree/42166f6f13a87f749fd30f938a6c0f3600385f35/hierarchical-free-monads-mostly-pointless#readme)
+* [Understand IO Monad and implement it yourself in Haskell](https://boxbase.org/entries/2020/may/18/diy-io-monad/)
 
 # TDD, Test
 * [Rewriting to Haskell–Testing](https://odone.io/posts/2020-04-13-rewriting-haskell-testing.html)
@@ -368,6 +377,7 @@ Haskell
 * [Typeable — A long journey to type-safe dynamic type representation (Part 1)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-9070eac2cf8b)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 2)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-2-954b52bfa9fa)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 3)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-3-80a2a34329dd)
+* [Trade-Offs in Type Safety](https://alpacaaa.net/type-safety/)
 
 # Tutorial
 * [INTRODUCTION TO FUNCTIONAL PROGRAMMING USING HASKELL](https://1ambda.github.io/haskell/) 한글
