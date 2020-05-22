@@ -25,6 +25,12 @@ Json
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [jsonista - Clojure library for fast JSON encoding and decoding](https://github.com/metosin/jsonista)
 
+# Haskell
+* [JSON Parsing from Scratch in Haskell](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
+* [How to define JSON instances quickly](https://dev.to/tfausak/how-to-define-json-instances-quickly-5ei7)
+* [aeson: Fast JSON parsing and encoding](http://hackage.haskell.org/package/aeson)
+  * [Parsing JSON with Aeson](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/text-manipulation/json)
+
 # Java
 * json to java class
   * [www.jsonschema2pojo.org](http://www.jsonschema2pojo.org/)
