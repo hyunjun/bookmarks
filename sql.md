@@ -526,6 +526,7 @@ SQL
 * [NoSQL과RDBMS 중 적합한 데이터베이스 선택하기(feat.인스타그램DB)](https://mustread.tistory.com/5)
 * [Comparison of JOINS: MongoDB vs. PostgreSQL](https://www.enterprisedb.com/blog/comparison-joins-mongodb-vs-postgresql)
 * [Oracle vs PostgreSQL: First Glance](https://rolkotech.blogspot.com/2020/05/oracle-vs-postgresql.html)
+* [How to Install Postgres 12](https://www.youtube.com/watch?v=tXFnplU0ous)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -593,6 +594,7 @@ SQL
 * [MSSQL JOIN의 종류설명 및 사용법 & 예제](https://coding-factory.tistory.com/87)
 * [SQL Join](https://opentutorials.org/module/4118)
   * [SQL Join](https://www.youtube.com/playlist?list=PLuHgQVnccGMAG1O1BRZCT3wkD_aPmPylq)
+* [Join 에 관해서 정리해 보겠습니다](https://developer88.tistory.com/331)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
