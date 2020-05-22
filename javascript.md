@@ -687,6 +687,7 @@ Javascript
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
+* [Angular Schematics NX기반 Custom Schematic 개발하기 - 1](https://mobicon.tistory.com/575)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
