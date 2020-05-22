@@ -534,6 +534,7 @@ TensorFlow
 * [맑은날, 흐린날 분류 모델 version 1.0](http://momentum96.tistory.com/16)
 * [TensorFlow Hub와 Estimator로 텍스트 분류 모델 빌드하기](https://developers-kr.googleblog.com/2019/03/tensorflow-hub-estimator.html)
 * [Auto-classification of NAVER Shopping Product Categories using TensorFlow](https://medium.com/tensorflow/auto-classification-of-naver-shopping-product-categories-using-tensorflow-225f1fdb6f09)
+* [Machine Learning Foundations: How to Classifying real-world images](https://morioh.com/p/1e1262427f7f?f=5c21fb01c16e2556b555ab32)
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
