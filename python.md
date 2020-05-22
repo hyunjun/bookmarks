@@ -2538,6 +2538,7 @@ Python
   * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [Kanna makes html components easier to display. like table, panel, etc](https://github.com/h4wldev/kanna)
+* [Kazoo - a Python library designed to make working with Zookeeper a more hassle-free experience that is less prone to error](https://kazoo.readthedocs.io/)
 * [KeePassC is a curses-based password manager compatible to KeePass v.1.x and KeePassX](http://raymontag.github.io/keepassc/)
 * [Keras: Theano-based Deep Learning library](http://keras.io/)
 * [KicomAV](http://www.kicomav.com/)
