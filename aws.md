@@ -406,6 +406,7 @@ AWS
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 1부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1/)
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
 * [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
+* [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -500,11 +501,11 @@ AWS
   * [AWS 관리형 서비스를 중심으로 한 NCSOFT 와 Reality Reflection의 클라우드 사용기 - AWS Summit Seoul 2017](https://www.slideshare.net/awskorea/ncsoft-reality-reflection)
   * [AWS Summit Seoul 2017 단상](http://raftwood.net/blog/9834)
   * [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현 - AWS Summit Seoul 2017](https://www.slideshare.net/HarryOh1/ai-aws-summit-seoul-2017)
-  * [AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
+  * [**AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016**](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
   * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
   * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
   * AWS Summit Online Korea
-    * [세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
+    * [**세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기**](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
     * [세션 레포트 AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례](https://dev.classmethod.jp/articles/summit-online-korea-storage-migration/)
     * [이벤트 드리븐 아키텍처 구축을 위한 적절한 어플리케이션 통합 서비스 선택 및 사용 방법](https://dev.classmethod.jp/articles/summit-online-korea-event-driven/)
 
