@@ -58,6 +58,7 @@ Business
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * [몰입에 관한 생각 정리](https://brunch.co.kr/@younghakjang/79)
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
+* [기업 문화의 시작, 소통](https://brunch.co.kr/@lunarshore/371)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [성공적인 기업과 그렇지 못한 기업들 간의 핵심적인 차이는 '얼마나 똑똑한가'가 아니라 '얼마나 건강한가' - 패트릭 렌치오니, 무엇이 조직을 움직이는가](https://xodmfal.blog.me/221358777125)
