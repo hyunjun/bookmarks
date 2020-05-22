@@ -820,6 +820,7 @@ Javascript
   * [Lodash - A modern JavaScript utility library delivering modularity, performance & extras](https://lodash.com)
     * [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
     * [More Lodash Features that are Available in Plain JavaScript](https://medium.com/javascript-in-plain-english/more-lodash-features-that-are-available-in-plain-javascript-894c060fc26e)
+    * [Lodash의 대체재로서의 순수 자바스크립트 함수](https://ui.toast.com/weekly-pick/ko_20190515/)
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
 * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
