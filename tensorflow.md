@@ -476,6 +476,7 @@ TensorFlow
 * [Using TensorFlow to predict product weight and dimensions](https://medium.com/tensorflow/using-tensorflow-to-predict-product-weight-and-dimensions-8e6af3ab3466)
 * [TensorFlow Serving Example. Part 2: Model Deployment](https://www.youtube.com/watch?v=CUpUPY5g8NE)
 * [Implementation of IMPALA with Distributed Tensorflow](https://github.com/RLOpensource/IMPALA-Distributed-Tensorflow)
+* [10 TensorFlow Tricks Every ML Practioner Mush Know](https://jehyunlee.github.io/2020/05/22/Python-DS-14-10_TF_skills/)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
