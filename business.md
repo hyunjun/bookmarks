@@ -515,6 +515,7 @@ Business
 * [온라인 창업 아이디어 고르는 방법](https://www.upfly.me/2019/08/01/how-to-find-business-idea/)
 * [내 사업이 망한 진짜 이유](https://www.upfly.me/2019/09/05/startup-failure-example-analysis/)
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
+* [창업 아이템 고르는 법](https://liveandventure.com/2020/05/21/item/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
