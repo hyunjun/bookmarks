@@ -584,6 +584,8 @@ SQL
 * [sql 독학 강의 # 비등가 join with ansi SQL 14편 -sTricky](https://stricky.tistory.com/255)
 * [sql 독학 강의 # outer join SQL 15편 -sTricky](https://stricky.tistory.com/260)
 * [sql 독학 강의 # sub query 서브 쿼리 16편 -sTricky](https://stricky.tistory.com/265)
+* [mysql update sql 독학 강의#17편 -sTricky](https://stricky.tistory.com/268)
+* [mysql update sql 독학 강의#18편 -sTricky](https://stricky.tistory.com/277)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
 
 ## Query, SQL Join
