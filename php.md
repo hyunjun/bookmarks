@@ -62,5 +62,6 @@ PHP
   * [The simple and awesome way to deploy a Laravel and React.js application on a shared hosting server using git](https://medium.com/@000kelvin/the-simple-and-awesome-way-to-deploy-a-laravel-and-react-js-a8b547cbbc75)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
+* [PHP TensorFlow binding](https://github.com/dstogov/php-tensorflow)
 * VarDumper
   * [var_dump 는 이제 그만! 예쁘고 편리한 symphony VarDumper 패키지](https://www.lesstif.com/pages/viewpage.action?pageId=26083691)
