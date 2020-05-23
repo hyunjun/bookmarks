@@ -977,6 +977,7 @@ Programming Books
   * [서평, 한빛미디어](https://medium.com/@strncpy/%EC%9D%B4%EA%B2%83%EC%9D%B4-%EC%9E%90%EB%B0%94%EB%8B%A4-a18d98b4b5b8)
 * (NOT YET) 처음 배우는 스프링 부트 2
   * [서평 처음 배우는 스프링 부트 2](https://www.popit.kr/서평-처음-배우는-스프링-부트-2)
+* (NOT YET) [배워서 바로 쓰는 스프링 부트2](https://jybaek.tistory.com/872)
 * (NOT YET) [그레이들 - 문법과 구조에서 활용까지 빌드의 모든 것](https://freelec.co.kr/book/%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
