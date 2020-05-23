@@ -505,7 +505,7 @@ AWS
   * [**AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016**](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
   * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
   * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
-  * AWS Summit Online Korea
+  * [AWS Summit Online Korea](https://aws.amazon.com/ko/events/summits/online/korea/)
     * [**세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기**](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
     * [세션 레포트 AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례](https://dev.classmethod.jp/articles/summit-online-korea-storage-migration/)
     * [이벤트 드리븐 아키텍처 구축을 위한 적절한 어플리케이션 통합 서비스 선택 및 사용 방법](https://dev.classmethod.jp/articles/summit-online-korea-event-driven/)
