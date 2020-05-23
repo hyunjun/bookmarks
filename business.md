@@ -387,6 +387,7 @@ Business
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
 * [Creating Balance between Product Managers & Engineers](https://www.infoq.com/presentations/balance-management-engineers/)
 * [Ego Is the Enemy of Good Leadership](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
+* [What Leaders Really Do 번역](https://docs.google.com/document/d/1mtClcLckGfdCXjtHfvSJj_5rZNXj8nSw_wqQagUy9W4)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
