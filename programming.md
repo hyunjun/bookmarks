@@ -951,6 +951,7 @@ Programming
 * [애자일과 소프트웨어 장인정신 - 코드 리뷰를 왜 해야 하나?](https://brunch.co.kr/@cleancode/39)
 * [Clean Code: The Next Chapter by Victor Rentea](https://www.youtube.com/watch?v=wY_CUkU1zfw) 실제 코드로 presentation
 * [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
+* [클린 코드: 애자일 소프트웨어 장인 정신 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/05/24/Clean-Code.html)
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
