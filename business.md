@@ -392,6 +392,7 @@ Business
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
 * [좋은 매니저는 누구인가](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6281688150)
+* [초짜 매니저 가이드 – Andrew Ahn](https://www.andrewahn.co/silicon-valley/first-time-manager-guide/)
 * [아마존의 제품 개발 방법 Working Backwards](http://curioe.com/5)
 * [PURSUIT: Framework for your next great product idea](https://uxdesign.cc/pursuit-a-product-framework-for-product-y-folks-9575244fe9d2)
 * [First principle thinking: 제 1원칙 기반의 사고방식](https://www.andrewahn.co/product/first-principle-thinking/)
