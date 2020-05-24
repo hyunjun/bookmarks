@@ -417,6 +417,7 @@ Data Science
 * [Research data management simplified](https://www.globus.org/)
 * [Welcome to Kaggle Datasets](https://www.kaggle.com/datasets)
 * [Creating a dataset using an API with Python](https://towardsdatascience.com/creating-a-dataset-using-an-api-with-python-dcc1607616d)
+* [Best Public Datasets for Machine Learning and Data Science](https://medium.com/towards-artificial-intelligence/the-50-best-public-datasets-for-machine-learning-d80e9f030279)
 
 # Python
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience)
