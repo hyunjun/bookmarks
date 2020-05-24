@@ -255,6 +255,7 @@ Go
   * [Go 둘러보기 - io 패키지](https://mingrammer.com/translation-go-walkthrough-io-package)
 * [Why did designers of Go language choose not to include exception handling mechanism?](https://www.quora.com/Why-did-designers-of-Go-language-choose-not-to-include-exception-handling-mechanism)
 * [Variadic functions in Go](https://medium.com/rungo/variadic-function-in-go-5d9b23f4c01a)
+* [golang으로 만나보는 Duck Typing](https://www.popit.kr/golang%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%82%98%EB%B3%B4%EB%8A%94-duck-typing/)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
