@@ -581,6 +581,7 @@ Javascript
 * [Comma Operator in JavaScript](https://medium.com/javascript-in-plain-english/comma-operator-in-javascript-cfe170f5b4d3)
 * [자바스크립트의 var, let, const 를 알아보자](https://developer88.tistory.com/271)
 * [favorite JavaScript utilities in single line of code! No more!](https://1loc.dev/)
+* [You should know about ==, Object.defineProperty and Proxy in JavaScript](https://medium.com/javascript-in-plain-english/you-should-know-about-object-defineproperty-and-proxy-in-javascript-8e28e7939232)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -690,6 +691,7 @@ Javascript
 * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [Angular Schematics NX기반 Custom Schematic 개발하기 - 1](https://mobicon.tistory.com/575)
+* [XSRF Protection with Angular and Express](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -1784,6 +1786,7 @@ Javascript
   * [nvm을 모든 사용자가 쓸 수 있도록 설치하기](http://blog.hazard.kr/archives/978)
   * [NVM으로 Node 버전 관리하기](https://dev-yakuza.github.io/ko/environment/nvm/)
 * Odi [Building chat with Odi (Node.js)](https://hackernoon.com/building-chat-with-odi-node-js-e77ecd3891b2)
+* [Omicron: A Simple Library to Build HTTP Servers in Node.js](https://medium.com/better-programming/omicron-a-simple-library-to-build-http-servers-in-node-js-421ef387da7c)
 * [Opbeat makes monitoring and debugging your Node.js production apps much faster, and your code better](https://opbeat.com/nodejs/)
 * [pg-live-select](https://github.com/numtel/pg-live-select)
 * [Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API](https://playwright.dev/)
@@ -2019,6 +2022,7 @@ Javascript
 * [Top 5 React-Native Courses for Mobile Application Developers](https://hackernoon.com/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
 * [Top 5 React-Native Courses for Mobile Application Developers](https://medium.com/hackernoon/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
+* [How to Use Code-Splitting With React and Parcel](https://medium.com/better-programming/how-to-use-code-splitting-with-react-and-parcel-e8bb37be4160)
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
 * [React Authentication in Depth Part 2](https://hackernoon.com/react-authentication-in-depth-part-2-bbf90d42efc9)
 * [Authentication in SPA (ReactJS and VueJS) the right way](https://medium.com/@jcbaey/authentication-in-spa-reactjs-and-vuejs-the-right-way-e4a9ac5cd9a3)
