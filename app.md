@@ -843,7 +843,9 @@ App
 # Messenger, message, messaging
 * discord [Forget Slack. Discord is the best messaging app I’ve ever used](https://hackernoon.com/forget-slack-discord-is-the-best-messaging-app-ive-ever-used-9351a035069)
 * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
-* [Slack에서 public link를 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
+* slack
+  * [Slack에서 public link를 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
+  * [슬랙(Slack)으로 특정 조건의 이메일을 받아보자!](https://www.44bits.io/ko/post/slack-email-app-integration)
 
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
@@ -1064,6 +1066,7 @@ App
 * [Hyper-V에서 네트워크가 제대로 되지 않을 때](http://blog.wimy.com/455/)
 * [**Windows 10 네이티브 방식으로 SSH Key와 Git 연동 설정하기**](https://medium.com/rkttu/use-windows10-open-ssh-tips-e6e9c77de433)
 * [Windows 10 네이티브 방식으로 SSH 서버 설정하기](https://medium.com/rkttu/windows-10-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-ssh-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-64988d87349)
+* [6 Must-Have Tools for Developers](https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
