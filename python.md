@@ -2101,6 +2101,7 @@ Python
 * [Building a Repeatable Data Analysis Process with Jupyter Notebooks](https://pbpython.com/notebook-process.html)
 * [Why Jupyter Is Not My Ideal Notebook](https://blog.sicara.com/jupyter-notebook-analysis-production-b2d585204520)
 * [Set Your Jupyter Notebook up Right with this Extension](https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332)
+* [3 Must-have JupyterLab 2.0 extensions - Towards Data Science](https://towardsdatascience.com/3-must-have-jupyterlab-2-0-extensions-41024fe455cc)
 * [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts)
 * [PyData Ann Arbor: Madicken Munk | Widgyts: yt Jupyter Widgets for Volumetric Data Exploration](https://www.youtube.com/watch?v=vFOpWEiafE4)
 * [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
