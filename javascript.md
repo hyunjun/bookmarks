@@ -374,6 +374,7 @@ Javascript
 * [javascript ajax 크로스도메인 요청 - CORS](https://brunch.co.kr/@adrenalinee31/1)
 * [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
 * [로컬에서 CORS policy 관련 에러가 발생하는 이유](https://velog.io/@takeknowledge/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-CORS-policy-%EA%B4%80%EB%A0%A8-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3gk4gyhreu)
+* [**CORS는 왜 이렇게 우리를 힘들게 하는걸까?**](https://evan-moon.github.io/2020/05/21/about-cors/) `Access-Control-Allow-Origin`
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
@@ -446,6 +447,7 @@ Javascript
 * [Array.sort() 정렬 기준은 문자열의 유니코드 포인트](https://ohgyun.com/790)
 * [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array)
 * [13 useful JavaScript array tips and tricks you should know](https://www.blog.duomly.com/13-useful-javascript-array-tips-and-tricks-you-should-know)
+* [자바스크립트 배열은 배열이 아니다](https://poiemaweb.com/js-array-is-not-arrray)
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
 * [JavaScript: Two face of identifier](https://blog.naver.com/sbshw1/221296823332)
