@@ -652,6 +652,8 @@ Scala
     * [ZIO Config - A functional, composable ZIO interface to configuration](https://zio.github.io/zio-config/)
     * [Speeding up time with Zio TestClock](https://timpigden.github.io/_pages/zio-streams/SpeedingUpTime.html)
     * [Simulating IoT Events - with Zio Streams](https://timpigden.github.io/_pages/zio-streams/GeneratingChillEvents.html)
+    * [Building the Death Star with ZIO Stream](https://juliano-alves.com/2020/05/04/deathstar-zio-stream/)
+    * [Write a simple message processing pipeline using ZIO Streams](https://medium.com/@brianxiang/write-a-simple-message-processing-pipeline-using-zio-streams-cb72a3289913)
     * [ZIO, Http4s, Auth, Codecs and zio-test](https://timpigden.github.io/_pages/zio-http4s/intro.html)
       * [Part 1 - Hello! A simple server](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part1.html)
       * [Testing with Http4s Client and ZIO](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part2.html)
@@ -684,7 +686,6 @@ Scala
     * [ZIO for IntelliJ](https://plugins.jetbrains.com/plugin/13820-zio-for-intellij)
     * [Testing Background Process With ZIO](https://www.rudder.io/blog/testing-background-process-zio/)
     * [Moving From Kotlin + Spring Reactor + Arrow to Scala + ZIO](https://adrianfilip.com/2020/04/07/moving-from-kotlin-spring-reactor-arrow-to-scala-zio/)
-    * [Building the Death Star with ZIO Stream](https://juliano-alves.com/2020/05/04/deathstar-zio-stream/)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
