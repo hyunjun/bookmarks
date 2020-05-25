@@ -578,6 +578,7 @@ Programming
 * [Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide](https://www.youtube.com/watch?v=tMHO7_RLxgQ)
 * [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/) upstream cache, storage layering, thumbnail lifecycle, message forward, video traffic, high efficiency image format
 * [A quick introduction to Hexagonal Architecture](https://medium.com/codefountain/a-quick-introduction-to-hexagonal-architecture-484358c038b8)
+* [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [**LINE 메신저 앱 공유 모듈 통합 개발기 – 1**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-1/)
 * [**LINE 메신저 앱의 공유 모듈 통합 개발기 – 2**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-2/)
 * [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
@@ -1155,6 +1156,7 @@ Programming
 * [데이터 기반으로 지속적인 CI/CD 개선 환경 만들기](https://engineering.linecorp.com/ko/blog/build-a-continuous-cicd-environment-based-on-data/)
 * [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
 * [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
+* [Deploys at Slack - Several People Are Coding](https://slack.engineering/deploys-at-slack-cd0d28c61701)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
