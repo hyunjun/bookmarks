@@ -692,6 +692,7 @@ Javascript
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [Angular Schematics NX기반 Custom Schematic 개발하기 - 1](https://mobicon.tistory.com/575)
 * [XSRF Protection with Angular and Express](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
+* [Angular Animation Callbacks and Key Frames](https://medium.com/javascript-in-plain-english/angular-animation-callbacks-and-key-frames-2d415d657b9d)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -1296,7 +1297,7 @@ Javascript
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
-* [Rough.js - a small (<9kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style](https://roughjs.com/)
+* [Rough.js - a small (\<9kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style](https://roughjs.com/)
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 * [simplePARALLAX - the easiest way to get a parallax effect with javascript](https://simpleparallax.com/)
@@ -1586,6 +1587,7 @@ Javascript
 * [서버에러 발생시 notification](http://blog.naver.com/pjt3591oo/221101845714)
 * [Node.js 에서 MP3 메타 데이터 다루기](https://blog.l0gic.me/node-js-node-js-%EC%97%90%EC%84%9C-mp3-%EB%A9%94%ED%83%80-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
 * [async로 비동기 제어](http://scw0531.blog.me/221143544613)
+* [비동기 메커니즘 이해와 설계 : 네이버 블로그](https://blog.naver.com/pjt3591oo/221978583678)
 * [The most clicked Node links of 2017](https://medium.com/dailyjs/the-most-clicked-node-links-of-2017-7361a471551d)
 * [25 Amazing Open Source Node.js Projects for the Past Year (v.2018)](https://medium.mybridge.co/node-js-open-source-for-the-past-year-v-2018-757291e638ed)
 * [Native ES Modules in NodeJS: Status And Future Directions, Part I](https://medium.com/@giltayar/native-es-modules-in-nodejs-status-and-future-directions-part-i-ee5ea3001f71)
@@ -1691,6 +1693,7 @@ Javascript
 * [When Not to Use Lock Files with Node.js](https://www.twilio.com/blog/lockfiles-nodejs)
 * [I’m now versioning my app secrets in Git, here is why you should do the same](https://medium.com/javascript-in-plain-english/im-now-versioning-my-app-secrets-in-git-here-is-why-you-should-do-the-same-2a72c1a49039)
 * [Best node.js tutorial for beginners | csstack](https://www.csstack.com/node-js-tutorial/)
+* [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2393,6 +2396,7 @@ Javascript
 * [React Native Learnings](https://medium.com/@srinuch1981/react-native-learnings-367e252c1900)
 * [React Native: Background Task Management in iOS](https://medium.com/@rossbulat/react-native-background-task-management-in-ios-d0f05ae53cc5)
 * [React Native용 오픈소스 만들기](https://dev-yakuza.github.io/ko/react-native/make-opensource-library/)
+* [Get Started with React Navigation 5 in React Native](https://medium.com/@rossbulat/getting-started-with-react-navigation-5-in-react-native-f82676294d2f)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -2486,6 +2490,7 @@ Javascript
   * [Todo list 만들기는 이제 그만](https://woowabros.github.io/experience/2020/04/14/stop-making-todo-list.html) realword.io
   * [useSWR Hook 알아보기!](https://jaeseokim.tistory.com/113)
   * [dynamic import로 줄여본 next.js 앱의 최초 로딩 시간](https://blog.rhostem.com/posts/2020-05-10-nextjs-and-dynamic-import)
+  * [Authentication in Next.js using Amazon Cognito](https://medium.com/frontend-digest/authentication-in-next-js-using-amazon-cognito-f30efed6a24f)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
