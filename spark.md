@@ -531,6 +531,7 @@
 * [I simple API to interact with HBase with Spark](https://github.com/tmalaska/SparkOnHBase)
 * [Apache Spark Comes to Apache HBase with HBase-Spark Module](http://blog.cloudera.com/blog/2015/08/apache-spark-comes-to-apache-hbase-with-hbase-spark-module/?elq=b8eb31d395f14250a2c264604a98ed0e&elqCampaignId=987&elqaid=2217&elqat=1&elqTrackId=8472a26fbfcb4511b1a86953234a7bed)
 * [HBase Integration with Spark | How to Integrate HBase with Spark | Spark Integration with HBase](https://www.youtube.com/watch?v=gGwB0kCcdu0)
+* [How to create Spark Dataframe on HBase table](https://medium.com/@thomaspt748/how-to-create-spark-dataframe-on-hbase-table-e9c8db31bb30)
 
 # [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 
