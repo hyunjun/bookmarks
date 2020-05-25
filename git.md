@@ -501,6 +501,7 @@ Git
     ❯ git rebase upstream/master
     ❯ git push origin master
     ```
+  * [Fork 저장소 동기화하기 - Fork한 저장소(Repository)와 원본 저장소(Repository)를 동기화(Sync)하는 방법에 대해서 알아봅시다](https://dev-yakuza.github.io/ko/git/sync-fork-repository/)
   * transfer repository(git to git, create repository to move)
 
     ```
