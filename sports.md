@@ -138,6 +138,7 @@ Sports
 * [데이터로 무장한 컴퓨터공학도 NBA 단장](http://www.ttimes.co.kr/view.html?no=2019013117597767442)
 * [The Math PhD Turning Basketball Into a Science](https://www.youtube.com/watch?v=MpLHMKTolVw)
 * [**How Mapping Shots In The NBA Changed It Forever**](https://fivethirtyeight.com/features/how-mapping-shots-in-the-nba-changed-it-forever/)
+* [Canvassing The NBA’s International Business Landscape](https://medium.com/the-inter-national-basketball-association/canvassing-the-nbas-international-business-cefc0cd2d919)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
