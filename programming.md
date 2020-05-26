@@ -342,6 +342,7 @@ Programming
 * [같이, 스프린트 어떠세요?](https://medium.com/nextunicorn/%EA%B0%99%EC%9D%B4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%95%B4%EB%B3%B4%EC%8B%A4%EA%B9%8C%EC%9A%94-9c798f6a768c)
 * [일을 더 잘하기 위한 애자일(Agile) 실천](https://medium.com/wantedjobs/%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-agile-%EC%8B%A4%EC%B2%9C%ED%95%98%EA%B8%B0-7cb05994975b)
 * [일하지 않는 사람은 가라](https://www.popit.kr/%EC%9D%BC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EA%B0%80%EB%9D%BC/)
+* [Agile Software in the Real World: Responding vs Planning](https://medium.com/swlh/agile-software-in-the-real-world-responding-vs-planning-ade5c2ee8692)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -956,6 +957,8 @@ Programming
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
+* [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
+* [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
