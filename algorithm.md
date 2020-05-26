@@ -503,6 +503,7 @@ Algorithm
 # Stack
 * [Algorithms for Interview 1: Stack](https://medium.com/techtofreedom/algorithms-for-interview-1-stack-38884a9020c)
 * [Algorithms for Interview 2: Monotonic Stack](https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8)
+* [Implementing a Stack in JavaScript](https://medium.com/better-programming/implementing-a-stack-in-javascript-73d1aa0483c1)
 
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
