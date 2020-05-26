@@ -127,6 +127,9 @@ Functional Programming
 * [Data Juggling - Part 5 - Curry-Howard-Lambek Correspondence](https://www.youtube.com/watch?v=8l8ZCWgyFrw)
 * [Category Theory - Chapter 1: Basic Constructions](https://www.youtube.com/playlist?list=PL4FD0wu2mjWOtmhJsiVrCpzOAk42uhdz8)
 
+# Clojure
+* [Functional programming, meet OOP - The Startup - Medium](https://medium.com/swlh/functional-programming-meet-oop-3dc12a14e38e)
+
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
 * [Functional Programming with Effects by Rob Norris](https://www.youtube.com/watch?v=30q6BkBv5MY)
