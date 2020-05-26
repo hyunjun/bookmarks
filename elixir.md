@@ -65,6 +65,7 @@ Elixir
 * [외래 키는 스키마에 정의하고 ecto 연관 함수로 외래 키를 직접 쓰지 말자](http://ohyecloudy.com/pnotes/archives/elixir-ecto-associations/)
 * [#metrics phoenix 웹 프레임워크로 만든 프로젝트 지표를 prometheus와 grafana로 모니터링](http://ohyecloudy.com/pnotes/archives/metrics-phoenix-prometheus-grafana/)
 * [웹 프레임워크 phoenix를 쓰지 않은 애플리케이션에 프로메테우스(prometheus) 붙이기](http://ohyecloudy.com/pnotes/archives/elixir-application-metrics-prometheus/)
+* [Elixir on Erlang VM demystified. How does Elixir work under the hood?](https://blog.lelonek.me/elixir-on-erlang-vm-demystified-320557d09e1f)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
