@@ -58,6 +58,7 @@ Linux
     * [Ansible with oci](https://www.slideshare.net/DonghuKIM2/ansible-with-oci-221441463)
     * [A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more](https://github.com/sovereign/sovereign)
     * [20 개의 ANSIBLE 인터뷰 질문](https://linux.systemv.pe.kr/20-%EA%B0%9C%EC%9D%98-ansible-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%AC%B8/)
+    * [**Vagrant와 Ansible로 하는 서버 관리 기초**](https://velog.io/@jonghunbok/Vagrant%EC%99%80-Ansible%EB%A1%9C-%ED%95%98%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EC%B4%88)
   * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
