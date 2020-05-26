@@ -151,3 +151,4 @@ Artificial Intelligence
 
 # Tutorial
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction?hl=en)
+* [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
