@@ -109,6 +109,7 @@ Functional Programming
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
 * [Algebraic Data Types in four languages](https://blog.softwaremill.com/algebraic-data-types-in-four-languages-858788043d4e)
 * [What is an ADT (Algebraic Data types)?](https://medium.com/@edwardgunawan880/what-is-an-adt-algebraic-data-types-ed5e4a6e245)
+* [Algebraic Data Types and Data Modelling - EGYM Software Development](https://code.egym.de/algebraic-data-types-and-data-modelling-7d05a77a510)
 
 # Book
 * [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
