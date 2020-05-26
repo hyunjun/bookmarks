@@ -335,6 +335,7 @@ Algorithm
 * [다익스트라 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/26/dtra/)
 * [11.3 다익스트라 알고리즘](http://ehclub.co.kr/1581)
 * [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI)
+* [Leetcode 743. 다익스트라 알고리즘 Dijkstra Algorithm](https://www.youtube.com/watch?v=yp1leTBR5ko)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
