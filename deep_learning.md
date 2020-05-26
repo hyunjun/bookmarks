@@ -2294,6 +2294,7 @@ CVPR2016)
 * [DQN을 알아보자 - Playing Atari with Deep Reinforcement Learning](https://wonseokjung.github.io//rl_paper/update/RL-PP-DQN/)
 * [Playing Text-adventure Games with an AI](https://medium.com/@rajammanabrolu/kg-dqn-57d06004022)
 * [DRL Value-based Methods - DQN](https://parksurk.github.io/deep/reinfocement/learning/drlnd_2-4_value_based_methods-post/)
+* [Teach an Agent Play a Game Using Q-Learning in Numpy](https://towardsdatascience.com/using-q-learning-in-numpy-to-teach-an-agent-to-play-a-game-4fee32eb922a)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
