@@ -1299,6 +1299,7 @@ Javascript
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
+  * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Rough.js - a small (\<9kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style](https://roughjs.com/)
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
@@ -2285,6 +2286,7 @@ Javascript
 * [알고리즘 시각화 React 웹 앱 개발](https://www.youtube.com/playlist?list=PLGdiwDtJBQmdt8YWnH5UixRqsO4PQqn60)
 * [Don’t Depend on State From Callback Handlers in React](https://medium.com/better-programming/dont-depend-on-state-from-callback-handlers-in-react-167241a876ff)
 * [How to Make a Fake Chat Bot With React](https://medium.com/better-programming/how-to-make-a-fake-chat-bot-with-react-a0ab7f3fee7b)
+* [How to Implement Instant Search within 5 Minutes in your React App using MeiliSearch](https://levelup.gitconnected.com/how-to-implement-instant-search-within-5-minutes-in-your-react-app-using-meilisearch-6cfa5818bcaf)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
