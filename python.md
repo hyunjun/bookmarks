@@ -1053,6 +1053,7 @@ Python
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
   * [sorted 함수 예제](http://knight76.tistory.com/entry/python3-sorted-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
+  * [3 Reasons Why You Should Almost Always Use sorted() in Python](https://medium.com/swlh/3-reasons-why-you-should-almost-always-use-sorted-in-python-9fe122e6ce71)
 * ssl
   * [python3 ssl인증 Basic통과 하기](https://krksap.tistory.com/1637)
 * `__str__`
@@ -2923,6 +2924,7 @@ Python
   * [**PyMySQL Evaluation**](https://wiki.openstack.org/wiki/PyMySQL_evaluation)
   * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
   * [PyMySql이용해서 데이터 베이스 서버와 통신하기](https://jungwoon.github.io/python/2018/03/29/Data-Analysis-With-Python-4/)
+  * `OperationalError 1045` [파이썬에서 최신 MySQL 에 연결하기](https://blog.naver.com/sogangori/221301162933)
 * PYODBC
   * [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
     * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
