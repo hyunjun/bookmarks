@@ -440,8 +440,9 @@ iOS
 * [맥용 메뉴 바 앱 개발하기 - 00. 팝오버 생성](https://blog.rajephon.dev/2018/07/23/mac-menu-bar-widget-00/)
 * [맥용 메뉴 바 앱 개발하기 - 01. 콘솔 명령어 수행 및 권한상승요청](https://blog.rajephon.dev/2018/09/03/mac-menu-bar-widget-01/)
 * [Generics and Subtypes in Swift](https://medium.com/better-programming/generics-and-subtypes-in-swift-7f27638e1b99)
+* [What’s New in Swift 5.3](https://medium.com/swlh/whats-new-in-swift-5-3-ae135c9c259f)
 
-## Library
+## Library Swift
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
 * [Bridge - Simple Typed JSON HTTP Networking in Swift 2.0](https://github.com/rawrjustin/Bridge)
