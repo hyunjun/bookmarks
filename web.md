@@ -92,6 +92,7 @@ Web
   * [Web Development Top 10 Articles for the Past Month (v.Oct 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-oct-2018-809fe0101c9)
   * [Web Development Open Source of the Month (v.Oct 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-oct-2018-4c8e0bd87b84)
   * [Web Development Open Source of the Month (v.Sep 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-sep-2018-ebcfe6974fd9)
+  * [Web Development Top 10 Articles for the Past Month (v.July 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-july-2018-9b896c88ca7)
   * [Web Development Open Source of the Month (v.July 2018)](https://medium.mybridge.co/web-development-open-source-of-the-month-v-july-2018-cad5412602ff)
   * [Web Development Top 10 Articles for the Past Month (v.Nov 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-nov-2018-9cff229bcdb5)
   * [Web Development Top 10 Articles for the Past Month (v.June 2018)](https://medium.mybridge.co/web-development-top-10-articles-for-the-past-month-v-june-2018-22d05116fde0)
