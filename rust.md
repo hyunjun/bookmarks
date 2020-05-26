@@ -32,6 +32,7 @@
 * [Rust traits for developer friendly libraries](http://benashford.github.io/blog/2015/05/24/rust-traits-for-developer-friendly-libraries/)
 * [Wrapper Types in Rust: Choosing Your Guarantees](http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/)
 * [타입 변환하기](https://blog.seulgi.kim/2019/05/rust-type-conversion.html)
+* [Data Types in Rust: Borrowing from Both Worlds](https://medium.com/@james_32022/data-types-in-rust-borrowing-from-both-worlds-b12a377391ae)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 * [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
 * [A Simple Web App in Rust, Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
