@@ -799,7 +799,6 @@ App
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
-  * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Configuring a Laptop with Ansible, Part One](http://spin.atomicobject.com/2015/09/21/ansible-configuration-management-laptop)
   * [WRITING MODULES FOR ANSIBLE](https://www.ansible.com/webinar-on-demand-writing-modules-for-ansible)
   * [Ansible Plugin 살펴 보기 1편 (Action, Cache)](https://sysnet4admin.blogspot.com/2017/12/ansible-plugin-1.html)
