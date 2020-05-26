@@ -120,6 +120,7 @@ Go
 * ["고"할 것인가 "파이썬"할 것인가, 비교 선택 가이드](http://www.itworld.co.kr/news/136275)
 * [**See Python, See Python Go, Go Python Go**](https://blog.heroku.com/see_python_see_python_go_go_python_go) python <-> go <-> c
 * [Nine reasons to switch from Python to Go](https://medium.com/datadriveninvestor/nine-reasons-to-switch-from-python-to-go-f1b0cd746974)
+* [One in two Pythonistas should learn Golang now](https://towardsdatascience.com/one-in-two-pythonistas-should-learn-golang-now-ba8dacaf06e8)
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
 * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [Designing errors with Go 1.13](https://tech.xing.com/designing-errors-with-go-1-13-81692537457)
