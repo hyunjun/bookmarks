@@ -93,6 +93,7 @@ iOS
 * [**공식문서 만으로 iOS 개발 배우기**](https://sungdoo.dev/programming/start-ios-development-with-offical-docs/)
 * [Android와 iOS 개발 병행하기](https://medium.com/@joongwon/android%EC%99%80-ios-%EA%B0%9C%EB%B0%9C-%EB%B3%91%ED%96%89%ED%95%98%EA%B8%B0-d07a0fb1365a)
 * [Web Share API로 공유 기능 쉽게 구현하기 Web Share API를 활용해 네이티브 디바이스의 공유 기능을 웹에서 호출할 수 있습니다](https://wormwlrm.github.io/2020/05/09/Web-Share-API.html)
+* [UICollectionView를 이용한 LINE iOS 대화방 리팩토링 - 1](https://engineering.linecorp.com/ko/blog/ios-refactoring-uicollectionview-1/)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
