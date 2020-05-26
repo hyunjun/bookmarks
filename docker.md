@@ -766,6 +766,7 @@ Docker
 * [Multicluster Kubernetes with Service Mirroring](https://linkerd.io/2020/02/25/multicluster-kubernetes-with-service-mirroring/)
 * [Kubernetes의 DNS, CoreDNS를 알아보자](https://jonnung.dev/kubernetes/2020/05/11/kubernetes-dns-about-coredns/)
 * [How to Setup DNS for a Website Using Kubernetes, EKS, and NGINX](https://www.freecodecamp.org/news/how-to-setup-dns-for-a-website-using-kubernetes-eks-and-nginx/)
+* [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/13)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
