@@ -603,6 +603,7 @@ Scala
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * Process
   * [カレントディレクトリ情報を保持するProcessBuilder実装](https://medium.com/@junyaishida_69538/%E3%82%AB%E3%83%AC%E3%83%B3%E3%83%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA%E6%83%85%E5%A0%B1%E3%82%92%E4%BF%9D%E6%8C%81%E3%81%99%E3%82%8Bprocessbuilder%E5%AE%9F%E8%A3%85-ccfac73b7590)
+  * [Executing Shell Commands From Scala](https://medium.com/@mcamara89/executing-shell-commands-from-scala-7001f8868128)
 * reflection
   * [스칼라 강의 (44) - 리플렉션](http://hamait.tistory.com/893)
 * scalaz
@@ -686,6 +687,7 @@ Scala
     * [ZIO for IntelliJ](https://plugins.jetbrains.com/plugin/13820-zio-for-intellij)
     * [Testing Background Process With ZIO](https://www.rudder.io/blog/testing-background-process-zio/)
     * [Moving From Kotlin + Spring Reactor + Arrow to Scala + ZIO](https://adrianfilip.com/2020/04/07/moving-from-kotlin-spring-reactor-arrow-to-scala-zio/)
+    * [How to write a command-line application with ZIO](https://medium.com/scalac/how-to-write-a-command-line-application-with-zio-111b5af3ab43)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
