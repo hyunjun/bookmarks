@@ -389,3 +389,4 @@ Haskell
 * [THINGS SOFTWARE ENGINEERS TRIP UP ON WHEN LEARNING HASKELL](https://williamyaoh.com/posts/2020-04-12-software-engineer-hangups.html)
 * [10 Reasons to Use Haskell](https://serokell.io/blog/10-reasons-to-use-haskell)
 * [Learning Haskell: Getting Started](https://levelup.gitconnected.com/learning-haskell-getting-started-9f34155456e)
+* [Learning Haskell: Getting Setup](https://levelup.gitconnected.com/learning-haskell-getting-setup-c1f2cc69d915)
