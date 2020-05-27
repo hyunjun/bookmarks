@@ -1764,6 +1764,7 @@ Deep Learning
 * [Exploring LSTMs](http://blog.echen.me/2017/05/30/exploring-lstms/)
 * [**머신러닝 BASIC - RNN과 LSTM에 대해**](http://blog.naver.com/anthouse28/221026536458)
 * [딥러닝 기반 기상 예측 모델 연구 사례 (1) : Convolutional LSTM](https://mikigom.github.io/jekyll/update/2017/06/13/deep-learning-forecast-research-1.html)
+* [Extreme Event Forecasting with LSTM Autoencoders](https://towardsdatascience.com/extreme-event-forecasting-with-lstm-autoencoders-297492485037)
 * [DeepWeather](https://github.com/prl900/DeepWeather)
 * [#23. RNN & LSTM](http://t-robotics.blogspot.com/2017/06/23-rnn-lstm.html)
 * [RNN : LSTM 구조](https://www.youtube.com/watch?v=3h2tpYWzEa4&t=193s)
