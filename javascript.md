@@ -169,6 +169,8 @@ Javascript
 * [Circuit Simulator](http://lushprojects.com/circuitjs/)
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 * [40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html)
+* [9 JavaScript Tricks To Code Like A Pro!](https://medium.com/swlh/9-javascript-tricks-to-code-like-a-pro-d09ea534235)
+* [5 JavaScript Tips I Learned From Vue Source Code](https://levelup.gitconnected.com/5-javascript-tips-i-learned-from-vue-source-code-6095df4e9bc1)
 * [JavaScript Best Practices — Things to Avoid](https://medium.com/better-programming/javascript-best-practice-things-to-avoid-be8e8fa30cca)
 * [번역 11가지 극도로 유용한 JavaScript 팁](https://chaewonkong.github.io/posts/11-useful-js-tips.html)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
@@ -695,6 +697,7 @@ Javascript
 * [Angular Schematics NX기반 Custom Schematic 개발하기 - 1](https://mobicon.tistory.com/575)
 * [XSRF Protection with Angular and Express](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
 * [Angular Animation Callbacks and Key Frames](https://medium.com/javascript-in-plain-english/angular-animation-callbacks-and-key-frames-2d415d657b9d)
+* [Get Rid of if-statements in your Angular App with OOP](https://medium.com/@yiupang.ch/get-rid-of-if-statements-in-your-angular-app-with-oop-1efdf91da577)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -2287,6 +2290,7 @@ Javascript
 * [Don’t Depend on State From Callback Handlers in React](https://medium.com/better-programming/dont-depend-on-state-from-callback-handlers-in-react-167241a876ff)
 * [How to Make a Fake Chat Bot With React](https://medium.com/better-programming/how-to-make-a-fake-chat-bot-with-react-a0ab7f3fee7b)
 * [How to Implement Instant Search within 5 Minutes in your React App using MeiliSearch](https://levelup.gitconnected.com/how-to-implement-instant-search-within-5-minutes-in-your-react-app-using-meilisearch-6cfa5818bcaf)
+* [How To Pass Multiple Route Parameters in a React URL Path](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
