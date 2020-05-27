@@ -143,6 +143,7 @@ C++
 * [RAII는 무엇인가](http://blog.seulgi.kim/2014/01/raii.html)
 * [NDC 2018 유체역학 엔진 개발기](https://www.slideshare.net/utilforever/ndc-2018-95260566)
 * [Microcontrollers in Micro-increments : A Test-driven C++ Workflow for Embedded Systems](https://www.youtube.com/watch?v=XuHlDtWYeD8)
+* [C++ and Embedded Systems, Part 1: ETL vs STL Algorithms](https://medium.com/@rir_87464/c-and-embedded-systems-part-1-etl-vs-stl-algorithms-3dd761dca6f9)
 * [Write floating point variable information with sign, exponent and significand](http://www.gilgil.net/?document_srl=8417)
 * [Livestream: Getting Started with C++](https://news.codecademy.com/getting-started-with-c-plus-plus-livestream/)
 * [Contract](https://docs.google.com/presentation/d/e/2PACX-1vQ-V30kyoYLwhJLnqOqIkZgk30zIOKG87sTN4UXnFOV2cPOouqBmlFErYxr3IDudZvM3Yd4gWyHaUaP/pub) design by contract
