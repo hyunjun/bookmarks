@@ -106,6 +106,7 @@ Javascript
 * [Things you need to know to become an ace Javascript developer](https://codeburst.io/things-you-need-to-know-to-become-an-ace-javascript-developer-aa703397268d)
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [Performant JavaScript Best Practices](https://levelup.gitconnected.com/performant-javascript-best-practices-c5a49a357e46)
+* [JavaScript Best Practices for Writing More Robust Code](https://medium.com/swlh/javascript-best-practices-for-writing-more-robust-code-value-checks-8dde9459d1b9)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
   * [Airbnb JavaScript 스타일 가이드](https://github.com/tipjs/javascript-style-guide)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
@@ -737,6 +738,7 @@ Javascript
 * [How the new ‘Top Level Await’ feature works in JavaScript](https://medium.com/javascript-in-plain-english/javascript-top-level-await-in-a-nutshell-4e352b3fc8c8)
 * [**await의 함정, 숨은 병목을 찾자**](https://jaeheon.kr/161)
 * [What does a Worker do in JavaScript?](https://medium.com/javascript-in-plain-english/what-does-a-worker-do-in-javascript-25b9449f22f1)
+* [Adopting Better JavaScript Code Style](https://medium.com/swlh/adopting-better-javascript-code-style-basic-syntax-and-async-13415631565f)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -873,6 +875,7 @@ Javascript
 * [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
 * [What's new in ECMAScript 2020 (ES11)](https://john015.netlify.com/what-is-new-in-es-11)
 * [JavaScript new features in ES2020(ES11)](https://medium.com/javascript-in-plain-english/new-javascript-features-in-es2020-c2d76acf9c5a)
+* [ES2020 Has Been Finalized. Here is What I’m Excited About](https://blog.bitsrc.io/es2020-has-been-finalized-here-is-what-im-excited-about-414959bc2f7f)
 * [자바스크립트 2020](https://dongqui.github.io//posts/js2020)
 * [JavaScript module namespace exports](https://medium.com/javascript-in-plain-english/javascript-module-namespace-exports-71dc7d1a75c0)
 
@@ -2007,6 +2010,7 @@ Javascript
 * [React를 본격적으로 하기 전 알면 좋은 6가지](https://jaeyeophan.github.io/2018/01/02/React-tips-for-beginners/)
 * [리액트 컴포넌트 스타일링, API 연동 실습 – NASA 에서 오늘의 우주 사진 가져오기](https://velopert.com/3503)
 * [리액트에서 .bind(this) 빼 버리기](https://medium.com/@wongni/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C-bind-this-%EB%B9%BC-%EB%B2%84%EB%A6%AC%EA%B8%B0-dfb0bbf7bef0)
+* [Why do we have to ‘bind’ our functions in React apps?](https://levelup.gitconnected.com/why-did-we-have-to-bind-our-functions-in-react-apps-ee32978af12e)
 * [Refactor your code or code your refactor?](https://hackernoon.com/refactor-your-code-or-code-your-refactor-4765fd2456ee)
 * [The Beginner’s Guide to React](https://medium.freecodecamp.org/the-beginners-guide-to-react-9be65f50a55c)
 * [ReactJS quirks to improve your code](https://codeburst.io/reactjs-quirks-to-improve-your-code-69170ce71a1a)
@@ -2984,3 +2988,4 @@ Javascript
 * [Introduction to Vue.js Components](https://levelup.gitconnected.com/introduction-to-vue-js-components-5ede029133f5)
 * [A First Look at Vue Router in Vue3](https://medium.com/javascript-in-plain-english/a-first-look-at-vue-router-in-vue3-253bc61b2cf5)
 * [뷰/익스프레스/몽고db - task manager 만들기 01 프로젝트 세팅](https://www.youtube.com/watch?v=4J4-ufnqBdU)
+* [Useful Vue Directives — Tooltips and Scroll Lock](https://medium.com/swlh/useful-vue-directives-tooltips-and-scroll-lock-1621daeab625)
