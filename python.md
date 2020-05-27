@@ -1089,6 +1089,7 @@ Python
   * [10 Python String Processing Tips & Tricks](https://www.kdnuggets.com/2020/01/python-string-processing-primer.html)
   * [How do I remove letters from a string in Python?](https://www.quora.com/How-do-I-remove-letters-from-a-string-in-Python)
   * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
+  * [Do Not Use “+” to Join Strings in Python](https://towardsdatascience.com/do-not-use-to-join-strings-in-python-f89908307273)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
