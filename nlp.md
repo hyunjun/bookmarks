@@ -742,6 +742,7 @@ NLP
 * [14. 텐서플로우(TensorFlow)를 이용해서 언어 모델(Language Model) 만들기 – Recurrent Neural Networks(RNNs) 예제 2 – PTB(Penn Tree Bank) 데이터셋](http://solarisailab.com/archives/1925)
 * [**How to Develop a Word Embedding Model for Predicting Movie Review Sentiment**](https://machinelearningmastery.com/develop-word-embedding-model-predicting-movie-review-sentiment/) keras, word2vec
 * [MUSE: Multilingual Unsupervised and Supervised Embeddings](https://github.com/facebookresearch/MUSE)
+* [Dynamic Meta Embeddings](https://towardsdatascience.com/dynamic-meta-embeddings-f97e2c682187) DME
 * [LSTM and QRNN Language Model Toolkit](https://github.com/salesforce/awd-lstm-lm)
 * [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
 * [Recurrent Neural Networks: The Powerhouse of Language Modeling](https://medium.com/analytics-vidhya/recurrent-neural-networks-the-powerhouse-of-language-modeling-f292c918b879)
