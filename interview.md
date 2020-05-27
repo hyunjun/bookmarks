@@ -532,6 +532,7 @@ Interview
   * [Leetcode problems classified by company](http://www.learn4master.com/interview-questions/leetcode/leetcode-problems-classified-by-company)
   * [How to solve coding interview problems ("Let's leetcode")](https://www.youtube.com/watch?v=dIrS31CCITM)
   * [Software Interview Questions](https://www.youtube.com/playlist?list=PL7ka-zjE4mZ1Odmc6d25UWTnAspyOEYxY)
+  * [Leetcode Scouter](https://dev-jelly.github.io/leetcode_scouter_js/)
 * [mailprogramming.com](https://mailprogramming.com/)
 * [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)
 * [oj.uz](https://oj.uz)
