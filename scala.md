@@ -408,7 +408,6 @@ Scala
 * [AKKA(아카)with Scala 튜토리얼 01](https://wingnim.tistory.com/87)
 * [AKKA(아카)with Scala 튜토리얼 02](https://wingnim.tistory.com/88)
 * [AKKA(아카)with Scala 튜토리얼 03](https://wingnim.tistory.com/89)
-* [Orchestrating startup and shutdown in Scala](https://medium.com/bestmile/orchestrating-startup-and-shutdown-in-scala-f7ad2644835a)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -434,6 +433,7 @@ Scala
 * [Akka Cluster application design — untyped](https://medium.com/@reeebuuk/akka-cluster-application-design-2fd6e11cd7f2)
 * [How to co-locate Kafka Partitions with Akka Cluster Shards](https://akka.io/blog/news/2020/03/18/akka-sharding-kafka-video)
 * [10000 nodes and beyond with Akka Cluster and Rapid](https://manuel.bernhardt.io/2020/04/30/10000-node-cluster-with-akka-and-rapid/)
+* [Orchestrating startup and shutdown in Scala](https://medium.com/bestmile/orchestrating-startup-and-shutdown-in-scala-f7ad2644835a)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
