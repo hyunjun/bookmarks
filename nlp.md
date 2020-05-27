@@ -597,6 +597,7 @@ NLP
   * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
   * [How to build a voice assistant with open source Rasa and Mozilla tools](https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools)
   * [Rasa youtube channel](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ)
+* [TextFeatureSelection](https://pypi.org/project/TextFeatureSelection/)
 
 # Classification
 * [Bag-of-words model](https://en.wikipedia.org/wiki/Bag-of-words_model)
