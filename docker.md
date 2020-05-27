@@ -156,6 +156,7 @@ Docker
   * kafka
     * [Running Kafka 1.0 in Docker](https://medium.com/@teivah/running-kafka-1-0-in-docker-1dd04b5bc23c)
     * [Kafka 1.1 Docker Image](https://medium.com/@teivah/kafka-1-1-docker-image-5e4e9aac201d)
+    * [**Kafka Docker: Run Multiple Kafka Brokers and ZooKeeper Services in Docker**](https://medium.com/better-programming/kafka-docker-run-multiple-kafka-brokers-and-zookeeper-services-in-docker-3ab287056fd5)
   * [kernel builder](https://github.com/memnoth-projects/docker-kernel-builder)
   * [mysql-server](https://hub.docker.com/r/mysql/mysql-server/)
     * [~A tutorial on how to use MySQL with Docker~](http://www.luiselizondo.net/a-tutorial-on-how-to-use-mysql-with-docker/)
