@@ -270,6 +270,7 @@ App
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
 * [**Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자**](https://johngrib.github.io/wiki/my-wiki/)
 * [WordPress The Right Way](https://www.gitbook.com/book/tarendai/wordpress-the-right-way/details)
+  * [컴퓨터 vs 책: 설치의 정석 EC2에서 워드프레스 설치하기](https://jhrogue.blogspot.com/2020/05/ec2.html)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
