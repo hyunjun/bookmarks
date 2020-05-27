@@ -32,6 +32,7 @@ PHP
 * [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
 * [How come PHP seems so much faster than Rust?](https://www.reddit.com/r/rust/comments/d9zfa6/how_come_php_seems_so_much_faster_than_rust/)
 * [PHP The Right Way](https://modernpug.github.io/php-the-right-way/)
+* [Creating a State Machine using PHP](https://medium.com/cook-php/creating-a-state-machine-using-php-ddef9395430e)
 
 # Book
 * [PHP: The "Right" Way](https://leanpub.com/phptherightway/read_full)
