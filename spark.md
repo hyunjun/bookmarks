@@ -21,6 +21,9 @@
 * [Apache Spark 101](https://medium.com/plumbersofdatascience/apache-spark-101-971aaf5d4334)
 * [Spark Internals](https://github.com/JerryLead/SparkInternals)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
+* [Start Your Journey with Apache Spark — Part 1](https://medium.com/expedia-group-tech/start-your-journey-with-apache-spark-part-1-3575b20ee088)
+* [Start Your Journey with Apache Spark — Part 2](https://medium.com/expedia-group-tech/start-your-journey-with-apache-spark-part-2-682891efda4b)
+* [Start your Journey with Apache Spark — Part 3](https://medium.com/expedia-group-tech/start-your-journey-with-apache-spark-part-3-1ae77c05187)
 * Spark Internal
   * [Part 1. RDD의 내부 동작](https://medium.com/@leeyh0216/spark-internal-part-1-rdd%EC%9D%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-d50eb7a235e6)
   * [**Part 2. Spark의 메모리 관리(1)**](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1-c18e39af942e)
@@ -329,6 +332,7 @@
 * [Exploratory Data Analysis in Spark with Jupyter](http://blog.madhukaraphatak.com/exploratory-data-analysis-in-spark-with-jupyter/)
 * [아파치 스팍 관련 문제점 이야기 + 자바로 게으른 초기화 (2018-07-06) 케빈TV Live](https://www.youtube.com/watch?v=YTF3CUzWDo8)
 * [Working with Nested JSON Using Spark | Parsing Nested JSON File in Spark](https://www.youtube.com/watch?v=n3owBqa9ATQ)
+* [Working with JSON in Apache Spark](https://medium.com/expedia-group-tech/working-with-json-in-apache-spark-1ecf553c2a8c)
 * [practice - sc.textFile로 gzipped hdfs file을 읽을 경우 성능 저하 or job 실패](https://gist.github.com/hyunjun/8fb9629db2df065c4a8eb6fa54f516ff#file-unzip_gzipped_hdfs_file-md)
 * [What’s new in Apache Spark 2.3 and Spark 2.4](https://www.slideshare.net/Hadoop_Summit/whats-new-in-apache-spark-23-and-spark-24)
 * [What’s new in Spark 2.4!](https://medium.com/@akhilanand.bv/whats-new-in-spark-2-4-121162f1c385)
@@ -431,6 +435,7 @@
     * [(1) DataSet](http://www.popit.kr/spark2-0-new-features1-dataset/)
     * [(2) Structured Streaming – 1편](https://www.popit.kr/spark2-0-new-features2-structured-streaming-1%ED%8E%B8/)
   * [Transforming Spark Datasets using Scala transformation functions](http://olivermascarenhas.com/spark/2019/09/25/how-to-transform-a-spark-dataset.html)
+* DateTime [Deep Dive into Apache Spark DateTime Functions](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-datetime-functions-b66de737950a)
 * distinct
   * [동일성, 동등성, Spark의 distinct](https://leeyh0216.github.io/dev/lang/spark/2017/04/30/dev-spark-equals.html)
 * groupByKey
