@@ -401,6 +401,7 @@ Git
     * [**Git 커밋 메시지 작성법**](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
   * [Git을 이용하여 텔레파시 통하는 팀 만들기 : commit message와 commit log](http://story.haezoom.com/?p=936)
+  * [git 커밋 메시지 작성시 유의해야 할 점](https://developer88.tistory.com/181)
   * [왜 merge 실수로 희생된 커밋이 파일 로그에서 보이지 않나?](http://ohyecloudy.com/pnotes/archives/git-file-log-history-simplification/)
   * `lg`
 
