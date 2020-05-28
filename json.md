@@ -47,6 +47,10 @@ Json
   * [안드로이드 Json파싱해보기!](http://www.feelteller.com/8)
 * [kson - A Java serialization/deserialization library to convert Java Objects into json and back, faster and powerful then Gson](https://github.com/realtimetech-solution/kson)
 
+# JavaScript
+* [파서 만들기 (1) - JSON.stringify - 완두블로그](https://wani.kr/posts/2020/02/11/make-parser-1/)
+* [파서 만들기 (2) - JSON.parse - 완두블로그](https://wani.kr/posts/2020/02/22/make-parser-2/)
+
 # JWT
 * [JWT - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
 * [4장. JWT 이해 및 적용](https://backend-intro.vlpt.us/4/)
