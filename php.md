@@ -11,11 +11,14 @@ PHP
 * [3v4l.org - an online shell that allows you to run your code on my server](https://3v4l.org/)
 * [2016 py con2016_lightingtalk_php to python](http://www.slideshare.net/JiHoLee4/2016-py-con2016lightingtalkphp-to-python)
 * [레거시 PHP에서 모던 PHP로 – 뷰 분리하기](http://www.haruair.com/blog/3748)
+* [발표, Modern PHP란 무엇일까? - 완두블로그](https://wani.kr/posts/2016/08/10/modern-php/)
 * [주소를 위도 / 경도 값으로 변환하기 (google API geocoding)](http://qnfmfmd.tistory.com/50)
 * [www.modernpug.org](http://www.modernpug.org/)
 * [opentutorials.org PHP](https://opentutorials.org/module/6)
 * [PHP에서 symlink()를 이용해 lock 구현하기](https://blog.asamaru.net/2017/04/02/php-lock-file-using-symlink/)
 * [PhpStorm에서 부분적으로 코드 포멧팅(code formatting) disable 하기](https://blog.asamaru.net/2017/04/01/phpstorm-disable-code-formatting-for-part-of-code/)
+* [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
+* [PHPStorm 환경에서 Mess Detector, Code Sniffer 설정하기 - 완두블로그](https://wani.kr/posts/2015/11/03/phpmd-phpcs-in-phpstorm-env/)
 * [PHP 에서 한글 파일명 사용시 pathinfo(), basename() 결과가 맞지 않는 문제 해결](https://blog.asamaru.net/2017/04/25/make-php-pathinfo-return-the-correct-filename-if-the-filename-is-utf-8/)
 * [제네릭 없는 PHP 인터페이스](http://www.haruair.com/blog/3909)
 * [구글 API를 통해서 배우는 인증 (oauth 2.0)](https://opentutorials.org/course/2473/16571)
@@ -29,17 +32,38 @@ PHP
 * [PHP basics for expert web developers (1' part)](https://hackernoon.com/php-basics-for-expert-web-developers-1-part-8a35d408d2ea)
 * [macOS 10.14 Mojave PHP,Apache 설치 - Part1](https://tech.10000lab.xyz/php/php-apache-part1.html)
 * [macOS 10.14 Mojave PHP,Apache 설치 - Part2](https://tech.10000lab.xyz/php/php-apache-part2.html)
-* [Multi-User Debugging in PhpStorm Using Xdebug and DBGp Proxy](https://medium.freecodecamp.org/multi-user-debugging-in-phpstorm-75ef628ed50f)
 * [How come PHP seems so much faster than Rust?](https://www.reddit.com/r/rust/comments/d9zfa6/how_come_php_seems_so_much_faster_than_rust/)
 * [PHP The Right Way](https://modernpug.github.io/php-the-right-way/)
 * [Creating a State Machine using PHP](https://medium.com/cook-php/creating-a-state-machine-using-php-ddef9395430e)
+* [발표, PHP에서 GCM 푸시 빠르게 보내기 (feat. Async / Generator) - 완두블로그](https://wani.kr/posts/2016/08/10/php-fast-gcm/)
+* [PHP Config는 무엇을 사용해야할까? - 완두블로그](https://wani.kr/posts/2016/03/11/think-about-php-config/)
+* [Alias PHP Built-in Server - 완두블로그](https://wani.kr/posts/2015/10/15/alias-php-built-in-server/)
+* [Reflection을 활용한 Closure Mockery - 완두블로그](https://wani.kr/posts/2015/05/17/mockery-closure/)
+* [Mess Detector에서 나만의 커스텀 룰셋 적용하기 - 완두블로그](https://wani.kr/posts/2015/04/13/phpmd-apply-my-rulesets/)
+* [PHP5.6 사용기. - 완두블로그](https://wani.kr/posts/2014/02/07/php56-changes/)
+
+# API
+* ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
+* [PHP 꼴랑이거(1) - 배열 순환에서 참조 변수 사용 시 주의사항 - 완두블로그](https://wani.kr/posts/2014/01/09/php-something-1-array-walk/)
+* [PHP 꼴랑이거(2) - __get, __set에서 바로 배열 접근. - 완두블로그](https://wani.kr/posts/2014/08/18/php-something-2-getter-setter-array-access/)
+* [PHP 꼴랑이거(3) - static과 self의 차이 - 완두블로그](https://wani.kr/posts/2015/02/12/php-something-3-static-vs-self/)
+* [PHP 꼴랑이거(4) - Callable - 완두블로그](https://wani.kr/posts/2015/05/02/php-something-4-callable/)
+* [Zeros in PHP - 완두블로그](https://wani.kr/posts/2015/01/27/zeros-in-php/)
+* [PHP에서 pthread 사용하기. - 완두블로그](https://wani.kr/posts/2013/12/23/pthread-with-php/)
 
 # Book
 * [PHP: The "Right" Way](https://leanpub.com/phptherightway/read_full)
 
+# Installation
+* [초간단 Window 10 PHP 환경 구축 - 완두블로그](https://wani.kr/posts/2016/07/29/window-enviroment-settings/)
+* [OSX에서 PHP를 여러버전 깔아놓고 쓸때 팁 - 완두블로그](https://wani.kr/posts/2016/07/14/multiversion-of-php-in-osx/)
+* [우분투에 PHP 5.6 alpha 설치하기. - 완두블로그](https://wani.kr/posts/2014/01/27/php56-alpha-install-in-ubuntu/)
+
 # Library
 * composer
   * [레거시 php 프로젝트를 composer 패키지로 바꾸기](http://www.haruair.com/blog/3968)
+  * [Composer classmap을 이용한 성능향상 - 완두블로그](https://wani.kr/posts/2015/01/23/benchmark-composer-classmap/)
+  * [Composer Global로 사용하기. - 완두블로그](https://wani.kr/posts/2014/06/12/use-global-composer/)
 * [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)
 * Laravel
   * [How to Build a Blog with Laravel - Part 1 (Exploring File Structure)](https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
@@ -61,8 +85,12 @@ PHP
   * [ERD를 그려주는 Laravel ER Diagram Generator](https://xly.kr/posts/11)
   * [액션으로 리팩토링하기](https://xly.kr/posts/28)
   * [The simple and awesome way to deploy a Laravel and React.js application on a shared hosting server using git](https://medium.com/@000kelvin/the-simple-and-awesome-way-to-deploy-a-laravel-and-react-js-a8b547cbbc75)
+  * [초간단 OSX El Capitan에서 Laravel 개발환경 구축 - 완두블로그](https://wani.kr/posts/2015/11/01/laravel-enviroment-settings/)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * [PHP TensorFlow binding](https://github.com/dstogov/php-tensorflow)
 * VarDumper
   * [var_dump 는 이제 그만! 예쁘고 편리한 symphony VarDumper 패키지](https://www.lesstif.com/pages/viewpage.action?pageId=26083691)
+
+# TDD, Test
+* [Reflection을 활용한 Private Method Test - 완두블로그](https://wani.kr/posts/2015/05/07/mockery-reflection/)
