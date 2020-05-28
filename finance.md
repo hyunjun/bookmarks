@@ -103,6 +103,7 @@ Finance
 # Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
 * [**Algorithm Trading - Algorithm Trading web application project with Python, Django, PyQt5 and Javascript**](https://github.com/softage0/algorithm-trading-webapp)
+* [**QuantEcon**](https://quantecon.org/)
 * [quantopian.com/lectures](https://www.quantopian.com/lectures)
   * [7 Best Community-Built Value Investing Algorithms Using Fundamentals](https://blog.quantopian.com/fundamentals-contest-winners/)
 * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
