@@ -2295,6 +2295,7 @@ Javascript
 * [How to Make a Fake Chat Bot With React](https://medium.com/better-programming/how-to-make-a-fake-chat-bot-with-react-a0ab7f3fee7b)
 * [How to Implement Instant Search within 5 Minutes in your React App using MeiliSearch](https://levelup.gitconnected.com/how-to-implement-instant-search-within-5-minutes-in-your-react-app-using-meilisearch-6cfa5818bcaf)
 * [How To Pass Multiple Route Parameters in a React URL Path](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe)
+* [React Bits](https://vasanthk.gitbooks.io/react-bits/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
