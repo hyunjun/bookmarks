@@ -1218,6 +1218,7 @@ TensorFlow
 * [Ultimate Guide to Getting Started with TensorFlow](https://www.kdnuggets.com/2018/09/ultimate-guide-tensorflow.html)
 * [lilianweng.github.io/lil-log/tag/tutorial](https://lilianweng.github.io/lil-log/tag/tutorial)
 * [Tensorflow RNN Tutorial](https://github.com/hccho2/Tensorflow-RNN-Tutorial)
+* [Tensorflow 2 RNN tutorial](https://github.com/hccho2/Tensorflow-2-RNN-Tutorial)
 * [Simple Tensorflow Cookbook for easy-to-use](https://github.com/taki0112/Tensorflow-Cookbook)
 * [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
 * [tensorflow_tutorial](https://github.com/wonseokjung/tensorflow_tutorial/) udacity course
