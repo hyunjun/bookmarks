@@ -34,6 +34,7 @@ Git
 * [GitHub Universe 2018 참석기 #1](https://blog.outsider.ne.kr/1407)
 * [GitHub Universe 2018 참석기 #2](https://blog.outsider.ne.kr/1408)
 * [Sublime Text2와 Gist로 깔끔하게 code snippet을 사용해 봅시다](https://medium.com/@cookatrice/sublime-text2%EC%99%80-gist%EB%A1%9C-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-code-snippet%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4-2518f23ce606)
+* [Git가지고 놀기(1) - Sublime과 함께 사용하기. - 완두블로그](https://wani.kr/posts/2013/12/13/git-1-with-sublime/)
 * [Facebook Gist Viewer](https://github.com/shlee322/facebook-gist-viewer)
 * [Git from the bottom up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf)
 * [Source Control Solutions](http://blog.xojo.com/source-control-solutions)
@@ -205,6 +206,7 @@ Git
 * [Learning Git: 5 Shortcuts to Improve Your Coding Speed](https://levelup.gitconnected.com/learning-git-shortcuts-1267fb689f4a)
 * [Git in the office](https://jusths.tistory.com/162) checkout rebase fetch merge
 * [비슷하지만 꼭 구별해야하는 Git 커맨드 (git fetch vs git pull, git merge vs git rebase)](https://blog.naver.com/codeitofficial/221948794594)
+* [Git가지고 놀기(3) - 파일 영원히 지우기. - 완두블로그](https://wani.kr/posts/2015/02/02/git-3-remove-file-forever/)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
@@ -370,6 +372,7 @@ Git
   * `git diff <commit1> <commit2> <filename>` [How to diff the same file between two different commits on the same branch?](http://stackoverflow.com/questions/3338126/how-to-diff-the-same-file-between-two-different-commits-on-the-same-branch)
   * `git diff <branch1>..<branch2> -- <filename>` branch간 특정 file 비교
   * `gitub.com/<id>/<repo>/compare/<branch1>...<branch2>` browser에서 비교
+  * [Git가지고 놀기(2) - Git Diff - 완두블로그](https://wani.kr/posts/2014/07/15/git-2-git-diff/)
   * [delta - A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)
 * filter-branch
   * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
