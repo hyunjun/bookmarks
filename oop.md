@@ -254,6 +254,9 @@
   * [practice - magnet pattern](https://gist.github.com/hyunjun/637a2dcf575c914a2be1e5401395f687#file-magnet_pattern-md)
   * [practice - problem when no magnet pattern](https://gist.github.com/hyunjun/637a2dcf575c914a2be1e5401395f687#file-problem_when_no_magnet_pattern-md)
 
+# Typescript
+* [Typescript SOLID (1) - 단일책임원칙(SRP) - 완두블로그](https://wani.kr/posts/2020/03/10/typescript-solid-1-srp/)
+
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
 * [UML: 클래스 다이어그램과 소스코드 매핑](http://www.nextree.co.kr/p6753/)
