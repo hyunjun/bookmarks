@@ -36,6 +36,7 @@ Web
 * [Edit this webpage with your voice](https://shaungallagher.github.io/say_restyle/)
 * [A collection of svg logos for developers](http://gilbarbara.github.io/logos/)
 * [웹에서 SVG 사용하기 실습 가이드](https://svgontheweb.com/ko/)
+* [SVG Path Animation - 완두블로그](https://wani.kr/posts/2013/12/04/svg-path-animation/)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
 * [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
@@ -171,6 +172,7 @@ Web
 * [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 * [Building and deploying modern websites and apps - GitHub Universe 2019](https://www.youtube.com/watch?v=KlO5Ksk7baQ)
 * [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)
+* [HTML 파일 기본 구조 - 완두블로그](https://wani.kr/posts/2014/11/19/html-skeleton/)
 * [Timeout에 관한 정리](https://effectivesquid.tistory.com/entry/Timeout%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 
@@ -382,6 +384,7 @@ Web
   * [Selenium (Python) 설치와 기본 사용해 보기 (Windows)](https://dejavuqa.tistory.com/171)
   * [웹 크롤링을 위해 Selenium Ubuntu 서버에 배포하기](https://taebbong.github.io/selenium-deploy-post/)
   * [What is close() and quit() commands in Selenium Webdriver?](https://www.zyxware.com/articles/5552/what-is-close-and-quit-commands-in-selenium-webdriver)
+  * [Facebook Webdriver를 이용하여 Selenium 테스트하기 - 완두블로그](https://wani.kr/posts/2016/08/08/selenium-with-facebook-webdriver/)
   * [명언 + 위인 가져오기(selenium)](https://developer-ankiwoong.tistory.com/668)
   * [The Ultimate Guide to End to End Tests with Selenium and Docker](https://www.freecodecamp.org/news/end-to-end-tests-with-selenium-and-docker-the-ultimate-guide/)
   * [파이썬 자동화](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrPzFeVyQ_SJhTpy0lLPCmfZ)
@@ -531,6 +534,7 @@ Web
 * [**proxy 뒤에서 docker의 wordpress, https 적용**](https://www.popit.kr/proxy-%EB%92%A4%EC%97%90%EC%84%9C-docker%EC%9D%98-wordpress-https-%EC%A0%81%EC%9A%A9/)
 * [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning/blob/master/README.md)
 * [**NGINX에 대한 정리**](https://developer88.tistory.com/299)
+* [Nginx 하위 경로를 다른 서버로 보내기 - 완두블로그](https://wani.kr/posts/2016/07/01/nginx-proxy-settings/)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
