@@ -230,6 +230,7 @@ Linux
   * [TLS Connection Control](http://blog.mailgun.com/tls-connection-control/)
   * [Use Curl to identify bottlenecks in your service layers](https://gist.github.com/adamkaplan/adf15f0d622f4932f4af)
   * [Is curl|bash insecure?](https://blog.sandstorm.io/news/2015-09-24-is-curl-bash-insecure-pgp-verified-install.html)
+  * [서버 외부에 연결하기 전에 제대로 출력되는지 확인하기 - 완두블로그](https://wani.kr/posts/2016/07/15/curl-with-host/)
   * [**Curl Cookbook**](https://catonmat.net/cookbooks/curl)
     * [Announcing the Curl Cookbook](https://catonmat.net/announcing-curl-cookbook)
 * `cut`
@@ -883,3 +884,6 @@ Linux
 * [우분투용 해킹 & 분석 도구 모음](http://hisjournal.net/blog/242)
 * [우분투 연말정산](https://logon.tistory.com/770)
 * [How to Install Nginx, MariaDB and PHP7 (LEMP Stack) on Ubuntu 16.04 LTS](https://www.linuxbabe.com/linux-server/install-nginx-mariadb-php7-lemp-stack-ubuntu-16-04-lts)
+* [우분투 resolv.conf 세팅 정리 - 완두블로그](https://wani.kr/posts/2017/03/22/ubuntu-resolvconf-settings-summary/)
+* [Ubuntu 꼴랑이거(1) - 서버 시간이 차이가 날때.. - 완두블로그](https://wani.kr/posts/2015/04/23/ubuntu-something-1-time/)
+* [Ubuntu를 업그레이드 해보자 - 완두블로그](https://wani.kr/posts/2015/01/30/ubuntu-upgrade-12-to-14/)
