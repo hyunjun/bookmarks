@@ -85,6 +85,7 @@ Android
 * [LiveData와 Realm 그리고 ViewModel을 같이 이용하는 방법](https://developer88.tistory.com/208)
 * [Android언어 리소스 자동화 (2018.4 수정)](http://tiii.tistory.com/22)
 * [How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
+* [안드로이드 Notification 을 정리해 봅니다. part1](https://developer88.tistory.com/252)
 * [TaskKiller에 죽지 않는 서비스(Service) 만들기 2](http://ccdev.tistory.com/22)
 * [안드로이드 서비스(Android Service)](https://jungwoon.github.io/android/2019/07/22/Android-Service)
 * [Android에서 Service 로 Background 에서 음악 플레이 하기](https://developer88.tistory.com/36)
