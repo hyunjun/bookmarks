@@ -112,3 +112,4 @@ Google Cloud Platform GCP
 * [Google 클라우드 전문가되기](https://brunch.co.kr/magazine/googlecloud)
 * [GCP App Engine으로 Streamlit 웹 어플리케이션 배포하기](https://medium.com/@john_analyst/gcp-app-engine%EC%9C%BC%EB%A1%9C-streamlit-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-c9c6ce2436d0)
 * [How to create a custom Slack command using Google Cloud Functions and NodeJS](https://medium.com/javascript-in-plain-english/how-to-create-a-custom-slack-command-using-google-cloud-functions-and-nodejs-72a2f653d4e6)
+* [Measurement Protocol을 이용하여 Google Analytics 적용하기 (feat. Lambda) - 완두블로그](https://wani.kr/posts/2020/03/16/measurement-protocol-google-analytics/)
