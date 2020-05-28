@@ -161,7 +161,6 @@ PyTorch
 * [From Research to Production with PyTorch](https://www.youtube.com/watch?v=EkELQw9tdWE)
 * [Policy Gradient with PyTorch and Python Class Structure](https://gist.github.com/jskDr/9b9d7ce98d25632a0b1d5184bdbafc7c)
 * [Comparion policy gradient codes implemented by TF 2.0 and PyTorch based on https://medium.com/@hamza.emra/reinforcement-learning-with-tensorflow-2-0-cca33fead626 ](https://gist.github.com/jskDr/10115fe206e47af8f41c2bce55abb358)
-* [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
 * [Cleaning the data for rapid prototyping (fastai)](https://www.kaggle.com/jhoward/cleaning-the-data-for-rapid-prototyping-fastai)
 * [RethNet: Object-by-Object Learning for Detecting Facial Skin Problems](https://www.notion.so/da466d39dfe04450b98fdb6d932df52a)
 * [Pytorch Support TPU](https://www.notion.so/19f91fdd81a94a98958dbd2dde22b11a)
@@ -179,6 +178,13 @@ PyTorch
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 * [KoBERT와 CRF로 만든 한국어 객체명인식기 (BERT+CRF based Named Entity Recognition model for Korean)](https://github.com/eagle705/pytorch-bert-crf-ner)
 * [pytorch-bert - A implementation of BERT using PyTorch https://pypi.org/project/pytorch-bert ](https://github.com/jeongukjae/pytorch-bert)
+
+# Classification
+* [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
+* [How to Train an Image Classifier in PyTorch and use it to Perform Basic Inference on Single Images](https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)
+* [Classy Vision - An end-to-end framework for image and video classification](https://classyvision.ai/)
+  * [An end-to-end PyTorch framework for image and video classification https://classyvision.ai ](https://github.com/facebookresearch/ClassyVision)
+* [pycl - an image classification codebase, written in PyTorch](https://github.com/facebookresearch/pycls)
 
 # CNN
 * [Implementing CNN with Pytorch - 딥러닝 홀로서기](https://www.youtube.com/watch?v=uskpN90u-dE)
@@ -232,8 +238,6 @@ PyTorch
   * Brusta는 이 JIT compile을 활용한 다양한 응용 중 하나이며, Platform-free PyTorch Model Serving을 목표로, “PyTorch 모델의 상용화”를 지향하는 프로젝트
   * 첫 번째로 PyTorch로 만든 모델을 입력받고, 이 모델을 JVM 위에서 구동하는 서버로 제공하는 모듈을 공개
 * Captum [Open-sourcing Captum: A model interpretability library for PyTorch](https://ai.facebook.com/blog/open-sourcing-captum-a-model-interpretability-library-for-pytorch/)
-* [Classy Vision - An end-to-end framework for image and video classification](https://classyvision.ai/)
-  * [An end-to-end PyTorch framework for image and video classification https://classyvision.ai ](https://github.com/facebookresearch/ClassyVision)
 * [Clipper Tutorial](https://github.com/ucbrise/clipper-tutorials) PyTorch, Tensorflow, PySpark, Scikit-Learn 으로 만든 모델 배포
 * [ComplexCNN - pytorch implementation of complex convolutional neural network](https://github.com/litcoderr/ComplexCNN)
   * 대부분 딥러닝 모델들은 실수를 취급
@@ -272,7 +276,6 @@ PyTorch
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
   * 2018년, COCO Detection Challenge를 우승한 MMDet 팀이 작성한 코드베이스를 확장하여, 현존하는 대부분의 Object Detection 모델을 구현한 toolbox
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
-* [pycl - an image classification codebase, written in PyTorch](https://github.com/facebookresearch/pycls)
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org/)
