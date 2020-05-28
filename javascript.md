@@ -587,6 +587,7 @@ Javascript
 * [You should know about ==, Object.defineProperty and Proxy in JavaScript](https://medium.com/javascript-in-plain-english/you-should-know-about-object-defineproperty-and-proxy-in-javascript-8e28e7939232)
 * [Should You Stop Using .forEach() in Your JavaScript Code?](https://medium.com/better-programming/should-you-stop-using-foreach-in-your-javascript-code-efe1e86c78e5)
 * [Learn JavaScript Fundamentals-Global Scope](https://medium.com/swlh/javascript-fundamentals-global-scope-71ba5e48dbae)
+* [JS 꼴랑이거(2) - setTimeout에서 발생하는 Exception 잡아내기 - 완두블로그](https://wani.kr/posts/2015/03/09/js-something-2-catchable-settimeout-exception/)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -993,12 +994,14 @@ Javascript
 * [Constructing Types with the GraphQL Package](https://medium.com/swlh/constructing-types-with-the-graphql-package-2b3e5676b664)
 * [What is GraphQL? The new way to create APIs](https://medium.com/javascript-in-plain-english/what-is-graphql-375f8f2c227f)
 * [GraphQL Gateway for Exposing External APIs](https://medium.com/devops-dudes/graphql-gateway-for-exposing-external-apis-51239a914876)
+* [발표, GraphQL 적용기 - 완두블로그](https://wani.kr/posts/2019/11/30/graphql/)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
 * [Live reload 환경 만들기](http://mobicon.tistory.com/501)
 * [프론트엔드 개발을 위한 Gulp](http://blog.jeonghwan.net/tool/2017/09/16/gulp-workflow-for-frentend-development.html)
 * [Gulp로 구성한 퍼블리싱 개발 환경](https://rhostem.github.io/posts/2018-05-20-gulp-static-site/)
+* [Gulp 넌 왜 갑자기 말썽이냐... (feat. cssnano) - 완두블로그](https://wani.kr/posts/2016/08/22/gulp-error/)
 
 # [JQuery](http://jquery.com/)
 * [**DataTables**](http://datatables.net/)
@@ -1014,6 +1017,8 @@ Javascript
 * [특정 엘리먼트로 부드럽게 스크롤 이동하기](https://blog.l0gic.me/jquery-%ED%8A%B9%EC%A0%95-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8%EB%A1%9C-%EB%B6%80%EB%93%9C%EB%9F%BD%EA%B2%8C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0/)
 * [jQuery의 역사: 존은 어떻게 jQuery를 구축했을까요?](https://ko.khanacademy.org/computing/computer-programming/html-js-jquery/jquery-dom-access/a/history-of-jquery)
 * [IE의 ajax 캐시 이슈를 처리하는 방법](http://jeonghwan-kim.github.io//dev/2019/08/12/ie-cache.html)
+* [jQuery는 이제 너무 무겁다. - 완두블로그](https://wani.kr/posts/2014/02/02/jquery-is-too-heavy/)
+* [JS 꼴랑이거(1) - Submit 이벤트 완전히 막기! - 완두블로그](https://wani.kr/posts/2014/12/25/js-something-1-block-submit-event-completely/)
 
 # Library
 * [**RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io **](https://github.com/gothinkster/realworld)
@@ -1408,6 +1413,7 @@ Javascript
   * [Yarn을 설치하여 Angular CLI 기본패키지로 설정하기와 책 예제 소스 실행하기](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3955756301)
   * [Yarn 톺아보기](https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/)
   * [Introducing Yarn 2](https://dev.to/arcanis/introducing-yarn-2-4eh1)
+  * [yarn global 설정하기 - 완두블로그](https://wani.kr/posts/2017/05/24/yarn-global-setting/)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
 
 ## Library Angular React Vue comparison
@@ -1703,6 +1709,7 @@ Javascript
 * [I’m now versioning my app secrets in Git, here is why you should do the same](https://medium.com/javascript-in-plain-english/im-now-versioning-my-app-secrets-in-git-here-is-why-you-should-do-the-same-2a72c1a49039)
 * [Best node.js tutorial for beginners | csstack](https://www.csstack.com/node-js-tutorial/)
 * [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
+* [Node.js에서 Github oAuth에 접근해보자 (1). - 완두블로그](https://wani.kr/posts/2015/02/11/github-oauth-via-node-1/)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2715,6 +2722,7 @@ Javascript
   * [Jest 탈출기 - 타입스크립트 + Mocha](https://libsora.so/posts/escape-from-jest-mocha-with-typescript/)
   * [JSConf Korea에서 발표한 "Lessons from maintaining Mocha, an open source project" 발표자료](https://blog.outsider.ne.kr/1459)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
+  * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 
@@ -2990,3 +2998,4 @@ Javascript
 * [A First Look at Vue Router in Vue3](https://medium.com/javascript-in-plain-english/a-first-look-at-vue-router-in-vue3-253bc61b2cf5)
 * [뷰/익스프레스/몽고db - task manager 만들기 01 프로젝트 세팅](https://www.youtube.com/watch?v=4J4-ufnqBdU)
 * [Useful Vue Directives — Tooltips and Scroll Lock](https://medium.com/swlh/useful-vue-directives-tooltips-and-scroll-lock-1621daeab625)
+* [발표, Vue SSR vs Prerender - 완두블로그](https://wani.kr/posts/2017/10/23/vue-ssr-vs-prerender/)
