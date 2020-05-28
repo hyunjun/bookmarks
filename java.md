@@ -1117,6 +1117,7 @@ Java
 * [SpringBoot, Liquibase and MariaDB](https://itnext.io/springboot-liquibase-and-mariadb-b3f943c29370)
 * [Build RESTful Services with Spring Boot 2.X in Few Steps](https://medium.com/@codespeaks/build-restful-services-with-spring-boot-2-x-in-few-steps-95c895a7abf5)
 * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
+* [스프링부트 10분만에 API 서버 만들기](https://www.youtube.com/watch?v=nrxzK_ky3uc)
 
 # Memory Leak, OOM, Out of memory
 * [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
