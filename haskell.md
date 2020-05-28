@@ -254,6 +254,7 @@ Haskell
 * [Haskell Programming](http://haskellbook.com/)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
   * [I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
+  * [up-to-date-real-world-haskell: I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
 * [To Kata Haskellen Evangelion](https://cosmius.bitbucket.io/tkhe/)
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
