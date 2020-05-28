@@ -424,6 +424,7 @@ Programming Language
   * [Live with Stephen Wolfram](https://www.livecoding.tv/stephen_wolfram/)
   * [Find Waldo Faster](http://blog.wolfram.com/2015/02/27/find-waldo-faster/)
 * [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
+* [Zephir - Hello World - 완두블로그](https://wani.kr/posts/2015/05/03/zephir-1/)
 
 # State Machine
 * [Verifying State Machine Behavior Using test.check](http://blog.guillermowinkler.com/blog/2015/04/12/verifying-state-machine-behavior-using-test-dot-check/)
