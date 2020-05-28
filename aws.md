@@ -412,6 +412,8 @@ AWS
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
 * [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
 * [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
+* [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
+* [AWS EC2 + GOST(Go Simple Tunnel)를 사용하여 쉽게 Foward Proxy 서버 만들기 - 완두블로그](https://wani.kr/posts/2019/09/25/ec2-gost-easy-forward-proxy/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -698,6 +700,8 @@ AWS
 * [Handling 350k Requests for $3 using Lambda](https://levelup.gitconnected.com/handling-350k-requests-for-3-using-lambda-c258ace3da58)
 * [AWS 기반 서버리스 아키텍쳐 톺아보기 #AWS #서버리스 #총정리 #발표자료](https://dev.classmethod.jp/articles/aws-serverless-architecture-x-kodeveloper-38/)
   * [AWSKRUG 구로디지털 #gudi 소모임 – 37회차 발표자료입니다](https://dev.classmethod.jp/articles/awskrug-gudi-37-serverless/)
+* [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html)
+* [발표, Serverless 프레임워크로 Nuxt 앱 배포하기 - 완두블로그](https://wani.kr/posts/2019/06/22/serverless-nuxt/)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
@@ -727,6 +731,9 @@ AWS
   * [AWS Cloud Development Kit(CDK) – TypeScript 및 Python용 정식 버전 제공](https://aws.amazon.com/ko/blogs/korea/aws-cloud-development-kit-cdk-typescript-and-python-are-now-generally-available)
   * [CDK(Cloud Development Kit) 개념](https://dong-life.tistory.com/92)
   * [CDK(Cloud Development Kit) 개념(2)](https://dong-life.tistory.com/94)
+  * [AWS CDK로 서버없이 서비스 운영해보기 (1) - REST API - 완두블로그](https://wani.kr/posts/2020/01/23/aws-cdk-1/)
+  * [AWS CDK로 서버없이 서비스 운영해보기 (2) - Express - 완두블로그](https://wani.kr/posts/2020/02/09/aws-cdk-2/)
+  * [AWS CDK로 서버없이 서비스 운영해보기 (3) - Nuxt - 완두블로그](https://wani.kr/posts/2020/02/19/aws-cdk-3-nuxt/)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
   * [**AWS를 만드는 AWS, CloudFormation**](https://www.huskyhoochu.com/introduce-cloudformation)
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
