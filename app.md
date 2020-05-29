@@ -101,6 +101,14 @@ App
   * [RescueTime 자동화하기 1](http://guswnsxodlf.github.io/automate-rescuetime-01)
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
+* [ScanTailor](https://scantailor.org/)
+  * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561?type=recommend)
+  * 윈도우, 리눅스 프리웨어
+  * 스캔한 이미지 파일을 가지고 방향 수정, 자르기, 기울기 조정, 폭 조절, 해상도 조절, 컬러모드 조절, 먼지제거를 자동, 또는 수동 처리
+  * 장점
+    1. 7메가 분량의 그레이스케일 스캔 파일 8장을 PDF로 그냥 만들면 6.5메가 정도, 스캔테일러를 거치면 대략 335kb (단, 모든 문서가 텍스트일 때)
+    2. 스캔 이미지를 흑백모드와 그레이스케일, 컬러모드로 수동 지정 가능. 즉, 텍스트 영역을 모두 흑백처리해 용량 축소
+    3. 600DPI로 이미지를 처리해도 책한권 파일 용량이 20메가 정도 -> OCR성능 및 가독성 향상
 * [send-anywhere.com](https://send-anywhere.com/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
 * [startupstash.com](http://startupstash.com/)
@@ -763,7 +771,7 @@ App
   * [Set your Github API Token If you hit a ”GitHub API rate limit exceeded” when searching with Homebrew](https://gist.github.com/christopheranderton/8644743)
   * [Homebrew 설치하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Install-Homebrew/)
   * [홈브류(Homebrew)를 사용해 맥OS(macOS) 특정 버전의 패키지 설치하기](https://www.44bits.io/ko/post/install-specific-version-package-homebrew)
-  * [**Homebrew 로 Mac 한 방에 셋업하기**](https://healingpaper.github.io/setting/2019/08/18/brew_cask_mas.html) BrewFile을 이용한 설치
+  * [**Homebrew 로 Mac 한 방에 셋업하기**](https://blog.gangnamunni.com/post/brew_cask_mas) BrewFile을 이용한 설치
   * [**Homebrew와 Shell Script를 사용하여 맥(Mac) 개발 환경 구축 자동화하기**](https://dev-yakuza.github.io/ko/environment/configure-development-environment-on-mac-with-homebrew-and-shell-script/)
   * [Brewfile을 이용해서 팀 개발 환경 만들기](https://medium.com/plustv/brewfile을-이용해서-팀-개발-환경-만들기-1516cb21f669)
   * [홈브류(Homebrew)란?](https://www.44bits.io/ko/keyword/homebrew)
