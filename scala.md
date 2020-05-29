@@ -39,6 +39,7 @@ Scala
 * [Dick Wall on his Scala Course](https://www.youtube.com/watch?v=M8zj7aOcFTI)
 * [Sudoku Solver in Scala](https://gist.github.com/pathikrit/a32e17832296befd6b94)
 * [Ask HN: Why do people have a hatred for Scala?](https://news.ycombinator.com/item?id=9393551)
+* [Zalando case study: why they chose Scala?](https://scalac.io/why-zalando-chose-scala/)
 * [3 programming languages to replace shell scripting](http://ju.outofmemory.cn/entry/198831)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
@@ -408,6 +409,7 @@ Scala
 * [AKKA(아카)with Scala 튜토리얼 01](https://wingnim.tistory.com/87)
 * [AKKA(아카)with Scala 튜토리얼 02](https://wingnim.tistory.com/88)
 * [AKKA(아카)with Scala 튜토리얼 03](https://wingnim.tistory.com/89)
+* [Implement Event bus using Akka](https://blog.softwaremill.com/implement-event-bus-using-akka-cfbcbfafb75)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -434,6 +436,7 @@ Scala
 * [How to co-locate Kafka Partitions with Akka Cluster Shards](https://akka.io/blog/news/2020/03/18/akka-sharding-kafka-video)
 * [10000 nodes and beyond with Akka Cluster and Rapid](https://manuel.bernhardt.io/2020/04/30/10000-node-cluster-with-akka-and-rapid/)
 * [Orchestrating startup and shutdown in Scala](https://medium.com/bestmile/orchestrating-startup-and-shutdown-in-scala-f7ad2644835a)
+* [Akka Cluster split brain failures — are you ready for it?](https://blog.softwaremill.com/akka-cluster-split-brain-failures-are-you-ready-for-it-d9406b97e099)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
@@ -514,6 +517,7 @@ Scala
 * Any
   * 타입이 Any로 추론되는 것을 막으려면
     1. scalac에서 `-Xlint:infer-any`와 `-Xfatal-warnings` 옵션
+      * [Fatal Warnings and Linting in Scala](https://alexn.org/blog/2020/05/26/scala-fatal-warnings.html)
     2. [wartremover의 Any/AnyVal](https://www.wartremover.org/doc/warts.html#any)
 * BigDecimal
   * [Be careful when using BigDecimal in Scala 2.13](https://blog.kevinlee.io/2019/09/29/be-careful-when-using-bigdecimal-in-scala-2.13/)
@@ -833,6 +837,7 @@ Scala
 * [blockchain-rpc - JSON RPC client for Bitcoin, Ethereum and Omni](https://github.com/tokenanalyst/blockchain-rpc)
 * [Bloop - a Scala build server. Compile, test and run Scala fast](https://scalacenter.github.io/bloop/)
   * [Happy Life With #Scala #Bloop CLI](https://www.youtube.com/watch?v=QtH8yW7dmBs)
+  * [A bloop tour for metals users](https://chris-kipp.io/blog/a-bloop-tour-for-metals-users)
 * [caliban - Functional GraphQL backend in Scala https://ghostdogpr.github.io/caliban ](https://github.com/ghostdogpr/caliban)
   * [GraphQL in Scala with Caliban — Part 1: Turn a simple API into GraphQL](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-1-8ceb6099c3c2)
   * [GraphQL in Scala with Caliban — Part 2: Query optimization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-2-c7762110c0f9)
@@ -1072,6 +1077,7 @@ Scala
   * [Describe, then interpret: HTTP endpoints using tapir](https://blog.softwaremill.com/describe-then-interpret-http-endpoints-using-tapir-ac139ba565b0)
   * [tapir: Yet another way to REST](https://dev.to/kdrakon/tapir-yet-another-way-to-rest-720)
   * [Tapir codecs get an update](https://blog.softwaremill.com/tapir-codecs-get-an-update-c9801889cbf3)
+  * [Defining the server logic for an endpoint: three approaches](https://blog.softwaremill.com/defining-the-server-logic-for-an-endpoint-three-approaches-82b280954641)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -1093,12 +1099,14 @@ Scala
   * [#circe - Part 1 - Introduction to working with #JSON in #Scala](https://www.youtube.com/watch?v=712WE9Ou7BE)
   * [#circe - Part 2 - #JSON Codecs](https://www.youtube.com/watch?v=OJhAptqtwYo)
   * [#circe - Part 3.1 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=0yMoYU-rodw)
+  * [#circe - Part 3.2 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=L_u7uBHpmAU&feature=youtu.be)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
 ## Library Logging
 * [Not Functional Logging context (p. I)](https://medium.com/@vl.gutov/not-functional-logging-context-p-i-e3e88bdbad57)
 * [Not Functional Logging context (p. II)](https://medium.com/@vl.gutov/not-functional-logging-context-p-ii-d789d608ec92)
+* [Why I Wrote A Logging Library](https://tersesystems.com/blog/2020/05/26/why-i-wrote-a-logging-library/)
 * [airframe-log is a library for enhancing your Scala application logging with colors and source code locations](https://wvlet.org/airframe/docs/airframe-log.html)
   * [Airframe Log: A Modern Logging Library for Scala](https://medium.com/airframe/airframe-log-a-modern-logging-library-for-scala-56fbc2f950bc)
 * [Logback - intended as a successor to the popular log4j project](https://logback.qos.ch/)
@@ -1375,6 +1383,8 @@ Scala
 * [Typeclasses for Beginners](https://medium.com/@awesomeorji/typeclasses-for-beginners-763081a720f7)
 * [Scala Typeclasses](https://medium.com/@pvinchon/scala-typeclasses-cec4b5f64744)
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/)
+* [Type classes from the ground up - Nicolas Rinaudo](https://nrinaudo.github.io/typeclasses/)
+* [Scala can be Boring and Absurd](http://www.doscienceto.it/blog/posts/2020-05-26-boring.html)
 * [The Transaction Type Class](https://medium.com/mediarithmics-engineering/the-transaction-type-class-f9f6f761d959)
 * [OOP vs. FP. The pursuit of extensibility part #2](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)]
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
