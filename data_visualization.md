@@ -334,6 +334,7 @@ Data Visualization
   * [시계열데이터 시각화에 좋은 선그래프 lineplot 그리기](https://www.youtube.com/watch?v=GJM1QXwXtEw)
   * [데이터 시각화 seaborn 라이브러리 실습 해보기 feat.lmplot](https://stricky.tistory.com/124)
   * [파이썬으로 점심식사, 교과목 이수, 부모학력, 인종에 따른 시험 성적 데이터 분석 하기 feat.seaborn.catplot](https://stricky.tistory.com/149)
+  * [Seaborn 튜토리얼 번역 #1장 Visualizing statistical relationships](https://data101.tistory.com/6)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [The Traveling Tesla Salesman Part 2](http://mortada.net/the-traveling-tesla-salesman-part-2.html)
 * [**How to Create NBA Shot Charts in Python**](http://savvastjortjoglou.com/nba-shot-sharts.html)
