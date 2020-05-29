@@ -313,6 +313,7 @@ Algorithm
 * [Dynamic Programming | Algorithms & Data Structures | Programming Tutorials | GeeksforGeeks](https://www.youtube.com/playlist?list=PLqM7alHXFySGbXhWx7sBJEwY2DnhDjmxm)
 * [My experience and notes for learning DP](https://leetcode.com/discuss/general-discussion/475924/my-experience-and-notes-for-learning-dp)
 * [Obvious Dynamic Programming](https://towardsdatascience.com/obvious-dynamic-programming-part-i-553ae1740c67)
+* [코딩인터뷰 리트코드 #1197 Minimum Knight Moves](https://www.youtube.com/watch?v=3yngPH417t8)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
