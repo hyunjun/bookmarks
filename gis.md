@@ -26,6 +26,7 @@ GIS
   * [공공데이터포털 에서 상가(상권)정보DB 다운 받아 DB에 insert 하기 #1](https://stricky.tistory.com/170)
   * [파이썬 상권분석 실습# 상가(상권)데이터를 이용한 데이터 분석 #1](https://stricky.tistory.com/178)
 * [Google Map, Naver Map URL 만들기](https://jehyunlee.github.io/2020/04/15/GIS-Python-1-GoogleMapNaverMap/)
+* [파이썬으로 GPS 두 위경도 좌표간 거리 구하기](https://stricky.tistory.com/283)
 * [Deckgl for Jupyter Notebook - 위치 데이터 시각화 라이브러리인 Deck.gl을 쥬피터 노트북 에서 사용 가능](https://github.com/heumsi/deckgl-jupyter)
 * [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
