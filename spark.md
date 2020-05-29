@@ -574,6 +574,7 @@
   * Kubernetes에 대한 Spark의 실험적 지원과 인-클러스터 클라이언트 모드에 대한 향후 지원에 대해 설명
   * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
 * [How to build Spark from source and deploy it to a Kubernetes cluster in 60 minutes](https://towardsdatascience.com/how-to-build-spark-from-source-and-deploy-it-to-a-kubernetes-cluster-in-60-minutes-225829b744f9)
+* [Apache Spark workloads on Kubernetes](https://spot.io/blog/apache-spark-workloads-on-kubernetes/)
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
