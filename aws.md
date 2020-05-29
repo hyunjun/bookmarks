@@ -562,6 +562,7 @@ AWS
 * [Spring Data DynamoDB와 Embedded 개발 환경 구축하기](https://jojoldu.tistory.com/484)
 
 # EKS
+* [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
 * [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
 * [Amazon EKS (Elastic Container Service for Kubernetes)](https://ddii.dev/kubernetes/eksworkshop/)
 * [Amazon EKS 워크샵](https://awskrug.github.io/eks-workshop/)
