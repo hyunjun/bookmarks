@@ -112,6 +112,7 @@ Linux
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
 * [리눅스에서 커맨드 라인으로 모니터 밝기 조절하기](https://kkamagui.tistory.com/921)
+* [Cups AirPrint server with legacy printer driver support using Qemu](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -411,6 +412,7 @@ Linux
   * `cat test.json | sed s/\"/\\\\\"/g` "를 \"로 변경
   * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
   * [bash 저장 SINGLE 줄에 따옴표로 묶인 파일 이름을 출력하는 방법은 무엇입니까?](https://src-bin.com/ko/q/5c2ffc) path에 space가 있어서 quotation을 추가하기 원할 때
+  * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
   * [리눅스 seq 명령어 사용법](https://www.snoopybox.co.kr/1680)
@@ -605,6 +607,7 @@ Linux
   * [opensource.fb.com/#linux](https://opensource.fb.com/#linux)
 * [X Server가 없이 사용이 가능한 리눅스용 콘솔(터미널용) 텍스트 모드 웹 브라우저](https://newstars.tistory.com/434)
   * Links, Lynx, w3m, Googler
+* [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
 * [broot - Get an overview of a directory, even a big one](https://dystroy.org/broot/)
