@@ -312,7 +312,7 @@ AWS
 * [AWS Credentials were refreshed 발생시 해결 방법](https://jojoldu.tistory.com/410)
 * [Netflix Information Security: Preventing Credential Compromise in AWS](https://medium.com/netflix-techblog/netflix-information-security-preventing-credential-compromise-in-aws-41b112c15179)
 * [get_token.md](https://gist.github.com/brianredbeard/035ee1419bc38a0e2d854fb828d585d7)
-* [AWS Well-Architected Labs](https://github.com/awslabs/aws-well-architected-labs)
+* [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices.](https://github.com/awslabs/aws-well-architected-labs)
 * [file system clustering as glusterfs in kubernetes environment on aws platform](https://github.com/graykode/kubernetes-glusterfs-aws)
 * [AWS 딥 러닝 컨테이너 서비스 출시 – 기계 학습 모델 학습용 최적화 이미지 제공](https://aws.amazon.com/ko/blogs/korea/new-aws-deep-learning-containers/)
 * [AWS ELK로 RDS Slowquery 모니터링](https://hyunki1019.tistory.com/151)
@@ -705,6 +705,7 @@ AWS
 * [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html)
 * [발표, Serverless 프레임워크로 Nuxt 앱 배포하기 - 완두블로그](https://wani.kr/posts/2019/06/22/serverless-nuxt/)
 * [Swift implementation of AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/)
+* [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
