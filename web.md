@@ -58,6 +58,8 @@ Web
 * [The Art of Debugging](https://remysharp.com/2015/10/14/the-art-of-debugging)
 * [The Twelve-Factor App](http://12factor.net/ko/)
 * [Building a professional design tool on the web](https://medium.com/figma-design/building-a-professional-design-tool-on-the-web-6332ed4f1fcc#.t1hsuyr2i)
+* [Fantastic Web Design Tool](https://editor.easylogic.studio/)
+  * [개발자, 트렌드를 버리다 — 1년 후 소감](https://medium.com/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-1%EB%85%84-%ED%9B%84-%EC%86%8C%EA%B0%90-e75a859280e9)
 * [11 Useful Online Tools for Frontend Developers](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
 * [Managing two million web servers](http://joearms.github.io/2016/03/13/Managing-two-million-webservers.html)
 * [Rocket.chat 채팅 서비스 만들기](http://900stage.com/%EC%B1%84%ED%8C%85-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EB%8B%A4/)
@@ -123,6 +125,7 @@ Web
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
 * [웹개발자를 위한 HTML/CSS/JS 온라인 코드에디터](https://brunch.co.kr/@pilsogood/9)
+* [</> htmx - high power tools for html](https://htmx.org/)
 * [GET, POST의 차이점](http://bbigbros.tistory.com/entry/HttpMethod-GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 * [Node.js, PHP/JSP/ASP 및 Apache/Nginx에 대한 비교](https://okky.kr/article/403922)
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
@@ -351,6 +354,7 @@ Web
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
+* [newscatcher - Programmatically collect normalized news from (almost) any website.](https://github.com/kotartemiy/newscatcher)
 * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
   * [OneQ Web Application](https://docs.google.com/presentation/d/1zYRXs6k_yDUqgbmBook17Wxz2zmCnpNdifUKDittDOc/edit#slide=id.p)
@@ -415,6 +419,7 @@ Web
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
+* [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
 # Frontend
 * [How To Pick a Frontend Web Framework](http://www.fse.guru/how-to-pick-a-frontend-web-framework)
@@ -535,6 +540,7 @@ Web
 * [NGINX Tuning For Best Performance](https://github.com/denji/nginx-tuning/blob/master/README.md)
 * [**NGINX에 대한 정리**](https://developer88.tistory.com/299)
 * [Nginx 하위 경로를 다른 서버로 보내기 - 완두블로그](https://wani.kr/posts/2016/07/01/nginx-proxy-settings/)
+* [**나는 nginx 설정이 정말 싫다구요**](https://juneyr.dev/nginx-basics)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
@@ -755,6 +761,8 @@ Web
 * [Polling vs SSE vs WebSocket— How to choose the right one](https://codeburst.io/polling-vs-sse-vs-websocket-how-to-choose-the-right-one-1859e4e13bd9)
 * [How to secure your WebSocket connections](https://medium.com/free-code-camp/how-to-secure-your-websocket-connections-d0be0996c556)
 * [**WebSocket Simplified**](https://levelup.gitconnected.com/websocket-simplified-b532f266cc9f)
+* [Stealing Secrets from Developers using Websockets](https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0)
+* [Why is This Website Port Scanning me](https://nullsweep.com/why-is-this-website-port-scanning-me/)
 * [A JavaScript library for WebSockets](https://sarus.anephenix.com/)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
