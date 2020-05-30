@@ -367,6 +367,7 @@ Programming
 * [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
 * [7 Apps You Can Definitely Build With These Free APIs](https://medium.com/better-programming/7-apps-you-can-definitely-build-with-these-free-apis-6d30124527fc)
 * [A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)
+* [unofficial-apis - A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
@@ -782,6 +783,7 @@ Programming
 * [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
+* [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1492,6 +1494,7 @@ Programming
 * [inflearn.com/roadmaps](https://www.inflearn.com/roadmaps)
 * [infractal.org](http://infractal.org/)
 * [K MOOC](http://www.kmooc.kr/)
+* [Learn TV | Microsoft Docs](https://docs.microsoft.com/en-us/learn/tv/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
