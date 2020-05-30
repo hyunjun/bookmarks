@@ -265,6 +265,7 @@ Open Source
     * [#3 Hello Spinnaker](http://bcho.tistory.com/1236)
   * [Spinnaker를 로컬에서 Kubernetes로 실행하기](https://blog.outsider.ne.kr/1382)
   * [Hylyard로 Spinnaker를 Kubernetes에 설치하기](https://blog.outsider.ne.kr/1397)
+  * [Highly Available and Resilient Multi-Site Deployments Using Spinnaker](https://www.infoq.com/presentations/pivotal-spinnaker-cloud-resiliency/)
 * [SVT-AV1: open-source AV1 encoder and decoder](https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2)
 
 # Pinterest
