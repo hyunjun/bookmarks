@@ -82,6 +82,7 @@ Interview
 * 케빈 TV
   * [29회 - 1부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=fqEQsKEOhFI&t=55s)
   * [29회 - 2부 (초급?) 개발자 면접용 질문](https://www.youtube.com/watch?v=mgUcsLwIw-w)
+* [개발자 면접 시 단골 질문 13개, 그리고 모범답안](http://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/153376)
 * [1. 인터뷰 하기 까지...한국에서 영어로 말해본적도 없고... 어떻게 미국 취업????](http://www.neochae.com/2016/12/1.html)
 * [2. 직장생활 시작...수습기간 통과 및 언어 핸디캡 극복하기](http://www.neochae.com/2016/12/2.html)
 * [미국 두번째 인터뷰 후기...](http://www.neochae.com/2019/10/blog-post.html)
