@@ -704,6 +704,7 @@ AWS
   * [AWSKRUG 구로디지털 #gudi 소모임 – 37회차 발표자료입니다](https://dev.classmethod.jp/articles/awskrug-gudi-37-serverless/)
 * [React SPA with server-side rendering on AWS Lambda](https://sbstjn.com/serverless-create-react-app-server-side-rendering-ssr-lamda.html)
 * [발표, Serverless 프레임워크로 Nuxt 앱 배포하기 - 완두블로그](https://wani.kr/posts/2019/06/22/serverless-nuxt/)
+* [Swift implementation of AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
