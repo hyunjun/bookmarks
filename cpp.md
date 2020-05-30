@@ -234,6 +234,9 @@ C++
 * [Modern C++17 Tricks for Competitive Programming](https://www.youtube.com/watch?v=7qZ2O5-uLO8)
 * [TIL – C++ 폴드 표현식과 쉼표 연산자](https://surpreem.com/til-%ED%8F%B4%EB%93%9C-c-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EC%89%BC%ED%91%9C-%EC%97%B0%EC%82%B0%EC%9E%90/)
 
+# C++20
+* [fast_io - a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream](https://github.com/expnkx/fast_io)
+
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
 * [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)
@@ -267,6 +270,8 @@ C++
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [crypto++](http://cryptopp.com/)
+* [Discohash - A super fast and simple hash. 5GB/s serial (depending on hardware)](https://github.com/cris691/discohash)
+* [DuckDB - an embeddable SQL OLAP Database Management System](https://github.com/cwida/duckdb)
 * [EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance](https://github.com/electronicarts/EASTL)
 * [easyexif - A tiny ISO-compliant C++ EXIF parsing library](https://github.com/mayanklahiri/easyexif)
 * enkiTS
@@ -275,6 +280,7 @@ C++
 * [eXtendedMirror - A simple and powerful C++ reflection system](https://github.com/m4nu3lf/eXtendedMirror)
 * [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
+* [fmt: A modern formatting library](https://github.com/fmtlib/fmt)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Google Robots.txt Parser and Matcher Library](https://github.com/google/robotstxt)
   * [Google's robots.txt Parser is Now Open Source](https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html)
