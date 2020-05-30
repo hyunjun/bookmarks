@@ -11,6 +11,7 @@ Vim
 * [Let’s learn Vim! Part 2](https://hackernoon.com/lets-learn-vim-part-2-66b968f1551f)
 * [How not to be afraid of Vim anymore - A curation of the most popular commands and how to use them](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 * [Basic Vim Commands Every Linux User Must Know](https://linuxhandbook.com/basic-vim-commands)
+* [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
 * buffers
   * [How do I close a single buffer (out of many) in Vim?](http://stackoverflow.com/questions/1269648/how-do-i-close-a-single-buffer-out-of-many-in-vim)
 * ctags
@@ -147,6 +148,7 @@ Vim
 * [Vim은 어디서 왔나](https://blog.koriel.kr/where-vim-came-from/)
 * [VIM을 이용하여 각 줄의 마지막 공백(Whitespace) 제거하기](http://kkamagui.tistory.com/904)
 * [Mastering the Vim Language](https://www.youtube.com/watch?v=wlR5gYd6um0)
+* [mastering-vim-quickly](https://jovicailic.org/mastering-vim-quickly/)
 * [Let Vim Do the Typing](https://www.youtube.com/watch?v=3TX3kV3TICU)
 * [Vim을 IDE처럼 사용하기](http://blog.b1ue.sh/2016/10/09/vim-ide/)
 * [How to Do 90% of What Plugins Do (With Just Vim)](https://www.youtube.com/watch?v=XA2WjJbmmoM)
