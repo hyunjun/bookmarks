@@ -235,6 +235,7 @@ NoSQL
   * [Firebase Storage Security Rule 에 대한 정리 #보안규칙](https://developer88.tistory.com/286)
   * [Firebase Authentication 의 Token에서 얻는 uid #AWS](https://developer88.tistory.com/324)
   * [Firebase Authentication(인증) 이용하는 방법](https://developer88.tistory.com/329)
+  * [Supabase - The open source Firebase alternative](https://supabase.io/)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
