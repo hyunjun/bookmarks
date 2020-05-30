@@ -376,6 +376,7 @@ Apache
 * [Introduction to Apache Kafka Security](https://medium.com/@stephane.maarek/introduction-to-apache-kafka-security-c8951d410adf)
 * [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
+* [Kafka Needs No Keeper - Removing ZooKeeper Dependency](https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/)
 * [Kafka 보안 (1) - JAAS 및 SASL](https://springboot.cloud/31)
 * [Kafka 보안 (2) - SASL/PLAIN](https://springboot.cloud/32)
 * [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
