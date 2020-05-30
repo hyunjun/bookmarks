@@ -1062,6 +1062,7 @@ Machine Learning
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
 * [The Best Machine Learning Libraries in Python](http://stackabuse.com/the-best-machine-learning-libraries-in-python/)
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
+* [baal - Using approximate bayesian posteriors in deep nets for active learning](https://github.com/ElementAI/baal)
 * [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
 * [JAX: Autograd and XLA](https://github.com/google/jax)
   * [ML 최적화 1. JIT & google JAX](https://brunch.co.kr/@chris-song/99)
