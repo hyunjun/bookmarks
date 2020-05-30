@@ -40,6 +40,7 @@ C#
 * [Integrating Rasa Open Source Chatbot Into Unity Part 1 : The Connection](https://medium.com/@divyangpradeep/integrating-rasa-open-source-chatbot-into-unity-part-1-the-connection-9ba582c804cd)
 * [Introducing C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators)
 * [How to create an image viewer in c#](https://www.youtube.com/watch?v=K4wpkiFEuUQ)
+* [Kyle Halladay - Ray Tracing In Notepad.exe At 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)
 
 # API
 * Async, Await
@@ -66,6 +67,7 @@ C#
   * [HTTP GET with parameters](https://forums.xamarin.com/discussion/104527/http-get-with-parameters)
   * [HttpClient makes GET and POST very simple](https://blog.jayway.com/2012/03/13/httpclient-makes-get-and-post-very-simple/)
   * [Receiving JSON data back from HTTP request](https://stackoverflow.com/questions/10928528/receiving-json-data-back-from-http-request)
+  * [C#: HttpClient should NOT be disposed](https://medium.com/@nuno.caneco/c-httpclient-should-not-be-disposed-or-should-it-45d2a8f568bc)
 * HttpResponseMessage
   * [C# - Convert JSON string to JSON HttpResponseMessage](http://tech-turf.blogspot.com/2016/09/c-convert-json-string-to-json.html)
   * [HttpResponseMessage 반환 된 JSON API 값을 가져 오기](https://codeday.me/ko/qa/20190703/950467.html)
