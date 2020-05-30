@@ -200,6 +200,7 @@ SQL
     * [MySQL ALTER 명령을 이용한 테이블 변경](http://ra2kstar.tistory.com/3)
     * `ALTER TABLE [table name] RENAME [new table name]`
     * `ALTER TABLE [table name] ADD [column name] [type]`
+    * [Unexpected slow ALTER TABLE in MySQL 5.7](https://www.percona.com/community-blog/2020/04/23/unexpected-slow-alter-table-mysql-5-7/)
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
   * CREATE
     * `CREATE TABLE [table name] LIKE [org table name]; -- index까지 복사. 물론 데이터는 복사하지 않음`
@@ -529,6 +530,7 @@ SQL
 * [Comparison of JOINS: MongoDB vs. PostgreSQL](https://www.enterprisedb.com/blog/comparison-joins-mongodb-vs-postgresql)
 * [Oracle vs PostgreSQL: First Glance](https://rolkotech.blogspot.com/2020/05/oracle-vs-postgresql.html)
 * [How to Install Postgres 12](https://www.youtube.com/watch?v=tXFnplU0ous)
+* [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
