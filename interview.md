@@ -220,6 +220,7 @@ Interview
 * [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
 * [토종 직장인의 AWS 입사 도전記](http://blog.creation.net/channy-cloud-clinic-ep3)
 * [아마존 인터뷰 후기 (Seattle SDE)](http://shadeofmeaning.blogspot.com/2019/04/seattle-sde.html)
+* [An Amazon Programmer's Perspective](https://gist.github.com/bricker/cb811b3b86d767124801)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
