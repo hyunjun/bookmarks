@@ -160,6 +160,7 @@ Web
 * [2018년, Mozilla Hacks Top 10](http://hacks.mozilla.or.kr/2019/01/mozilla-hacks-10-most-read-posts-of-2018/)
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
 * [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
+* [다중 서버 환경에서는 Session은 어떻게 공유하고 관리할까? - 1편 (Scale-Up / Scale-Out이란?)](https://hyuntaeknote.tistory.com/4?category=867120)
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
