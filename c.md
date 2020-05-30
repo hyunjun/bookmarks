@@ -41,6 +41,7 @@ C
   * [GDBFrontend - an easy, flexible and extensionable gui debugger](https://github.com/rohanrhu/gdb-frontend)
   * [onlinegdb.com](https://www.onlinegdb.com/)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
+* [Assembly’s Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
 * [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Writing Efficient C and C Code Optimization](http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization)
@@ -153,6 +154,8 @@ C
 * [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 * [embedding binary objects in c](https://flak.tedunangst.com/post/embedding-binary-objects-in-c)
 * [christmas-obfuscated-C](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
+* [**Implementing simple cooperative threads in C**](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
+* [The Ten Commandments for C Programmers (Annotated Edition)](https://www.lysator.liu.se/c/ten-commandments.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
