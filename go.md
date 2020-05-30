@@ -353,6 +353,7 @@ Go
 * [Projects](https://github.com/golang/go/wiki/Projects)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [구글 고의 위력을 보여주는 10가지 오픈소스 프로젝트](http://www.itworld.co.kr/news/133382)
+* [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
 * [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com ](https://github.com/caarlos0/antibody)
@@ -547,6 +548,7 @@ Go
 * [Go로 투두 웹 어플리케이션 만들기](http://blog.jeonghwan.net/dev/2019/02/18/go-todo-web-application.html)
 * [How We Created a Realtime Patient Monitoring System With Go and Vue in 3 days](https://kasvith.me/posts/how-we-created-a-realtime-patient-monitoring-system-with-go-and-vue/)
 * [Build You Own Web Framework In Go](https://www.nicolasmerouze.com/build-web-framework-golang/)
+* [How I Structure Web Servers in Go](https://www.dudley.codes/posts/2020.05.19-golang-structure-web-servers/)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
