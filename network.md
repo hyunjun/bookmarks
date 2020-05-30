@@ -153,6 +153,7 @@ Network
 * [오리뎅이의 TCP 이야기](http://blog.naver.com/PostList.nhn?blogId=goduck2&categoryNo=42&from=postList)
 * [TCP/IP 관련 내용 정리](https://medium.com/@rlatla626/tcp-ip-%EC%A0%95%EB%A6%AC-204e8a986d98)
 * [What every developer should know about TCP](https://robertovitillo.com/what-every-developer-should-know-about-tcp/)
+* [TCP 프로토콜 분석 패킷 분석기 프로젝트 Part6](https://www.youtube.com/watch?v=y-ogDRkHNcg)
 
 # UDP
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
