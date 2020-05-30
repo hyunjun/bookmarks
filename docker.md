@@ -269,6 +269,7 @@ Docker
 * [Serverspec(서버스펙)을 통한 도커 이미지 테스트 자동화](http://blog.nacyot.com/articles/2015-06-30-serverspec-with-docker/)
   * [Serverspec(서버스펙)을 통한 도커 이미지 테스트 자동화 코드](https://github.com/nacyot/serverspec_tutorial)
 * [Building Better Docker Images](http://jonathan.bergknoff.com/journal/building-better-docker-images)
+* [**Docker on a diet**](https://dev.to/sammyvimes/docker-on-a-diet-1n6j)
 * [Docker, Mesos, Marathon, and the End of Pets](http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets)
 * [Docker , the future of Virtualization for your Django web development](https://impythonist.wordpress.com/2015/06/21/docker-the-future-of-virtualization-for-your-django-web-development/)
 * [Docker, CoreOS, Google, Microsoft, Amazon And Others Come Together To Develop Common Container Standard](http://techcrunch.com/2015/06/22/docker-coreos-google-microsoft-amazon-and-others-agree-to-develop-common-container-standard)
@@ -419,6 +420,7 @@ Docker
 * [**proxy 뒤에서 docker의 wordpress, https 적용**](https://www.popit.kr/proxy-%EB%92%A4%EC%97%90%EC%84%9C-docker%EC%9D%98-wordpress-https-%EC%A0%81%EC%9A%A9/)
 * [**LINUX CONTAINERS IN A FEW LINES OF CODE**](https://zserge.com/posts/containers/)
 * [Why strace doesn't work in Docker](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/)
+* [**Docker 컨테이너의 로그 크기 조절**](http://mcchae.egloos.com/11358726) logging
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -769,6 +771,11 @@ Docker
 * [Kubernetes의 DNS, CoreDNS를 알아보자](https://jonnung.dev/kubernetes/2020/05/11/kubernetes-dns-about-coredns/)
 * [How to Setup DNS for a Website Using Kubernetes, EKS, and NGINX](https://www.freecodecamp.org/news/how-to-setup-dns-for-a-website-using-kubernetes-eks-and-nginx/)
 * [반드시 알아야 할 쿠버네티스 디자인 패턴 10가지](https://jflip.tistory.com/13)
+* [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/presentations/kubernetes-primitives-design-patterns/)
+* [쿠버네티스가 도대체 뭐야? 할 수 있는 것들 그리고 할 수 없는 것들 - 테크잇](https://techit.kr/view/?no=20200524170335)
+* [Why we don’t use the LoadBalancer k8s service type](https://medium.com/sainsburys-engineering/why-we-dont-use-the-loadbalancer-k8s-service-type-5f5403d42dfd)
+* [Allocatable memory and CPU in Kubernetes Nodes](https://learnk8s.io/allocatable-resources)
+* [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
