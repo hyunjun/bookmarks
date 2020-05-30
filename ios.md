@@ -16,18 +16,15 @@ iOS
 * [Obfuscation, Encryption & Unicorns… Reversing the string encryption in the Pangu 9.3 jailbreak](http://www.contextis.com/resources/blog/obfuscation-encryption-unicorns-reversing-string-encryption-pangu-93-jailbreak/)
 * [Why I’m not enabling Bitcode](https://medium.com/@FredericJacobs/why-i-m-not-enabling-bitcode-f35cd8fbfcc5)
 * [Core Data Unique Constraints](http://blog.zachorr.com/post/129785280807/core-data-unique-constraints)
-* [Core Data 그리고 Swift: 동시 실행(Concurrency)](http://code.tutsplus.com/ko/tutorials/core-data-and-swift-concurrency--cms-25118)
 * [A First Look at Metal Performance on the iPhone 6s](http://flexmonkey.blogspot.kr/2015/09/a-first-look-at-metal-performance-on.html)
 * [A9 Chip Source - A small iOS utility to identify the manufacturer of the A9 chip within the iPhone 6S and iPhone 6S Plus](https://github.com/WDUK/A9ChipSource)
 * [GammaThingy - Changes screen gamma on iOS, no jailbreak required](https://github.com/thomasfinch/GammaThingy)
 * [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 * [BRIDGING IN REACT NATIVE](http://tadeuzagallo.com/blog/react-native-bridge/)
-* [네이티브 iOS (Swift)와 React-Native 간의 성능 비교](https://wonhada.com/?topic=%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-ios-swift%EC%99%80-react-native-%EA%B0%84%EC%9D%98-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90)
 * [3D Touch Canvas - a demo for 3D Touch on Mobile Safari on iPhone 6S and 6S Plus](https://github.com/cheeaun/3d-touch-canvas)
 * [오토 레이아웃 줌 애니메이션](http://lifetimecoding.me/2015/12/31/%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A9-%E1%84%85%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%BA-%E1%84%8C%E1%85%AE%E1%86%B7-%E1%84%8B%E1%85%A2%E1%84%82%E1%85%B5%E1%84%86/)
 * [튜토리얼 10분안에 ‘아프리카TV’같은 비디오 채팅 앱 만들어 보기](http://blog.sendbird.com/ko/%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-10%EB%B6%84%EC%95%88%EC%97%90-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4tv%EA%B0%99%EC%9D%80-%EB%B9%84%EB%94%94%EC%98%A4-%EC%B1%84%ED%8C%85-%EC%95%B1-%EB%A7%8C/)
 * [iOS9-day-by-day](https://github.com/ShinobiControls/iOS9-day-by-day/)
-* [Objective-C 프로젝트를 Swift로 Converting하며 배운 교훈들](http://blog.sendbird.com/ko/objective-c-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-swift%EB%A1%9C-converting%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B5%90%ED%9B%88%EB%93%A4/)
 * [iOS용 google spread sheet](http://tiii.tistory.com/22)
 * [My iOS Development Toolkit 2016](https://medium.com/ios-os-x-development/my-ios-development-toolkit-2016-ba7601b68085)
 * [iphonedev.co.kr](http://iphonedev.co.kr/)
@@ -41,10 +38,8 @@ iOS
 * [아이폰 앱 개발자가 알아야 할 14가지](https://brunch.co.kr/@imagineer/222)
 * [iOS, 아이폰 앱을 내 손으로 만들어보자](https://www.youtube.com/playlist?list=PLW6vRth7cf-P6AnuwemVfgbyIqoQfrH2d)
 * [CocoaPods 설치 및 Pod 설치](http://blog.yagom.net/534)
-* [Swift 프로젝트에 Cocoa Pods 이용하기 - 완두블로그](https://wani.kr/posts/2015/02/16/how-to-use-cocoa-pods/)
 * [코코아팟 pod install 혹은 pod update 도중 오류가 발생할 때 대처법](https://blog.yagom.net/%ec%bd%94%ec%bd%94%ec%95%84%ed%8c%9f-pod-install-%ed%98%b9%ec%9d%80-pod-update-%eb%8f%84%ec%a4%91-%ec%98%a4%eb%a5%98%ea%b0%80-%eb%b0%9c%ec%83%9d%ed%95%a0-%eb%95%8c-%eb%8c%80%ec%b2%98%eb%b2%95/)
 * [Pinterest의 데이터 레이어 재설계에서 배우는 데이터 일관성 유지하기](https://realm.io/kr/news/slug-wendy-lu-data-consistency/)
-* [Objective-C의 상수와 Swift의 상수](http://blog.yagom.net/538)
 * iOS 인터뷰 질문 답변 50선
   * [Part1](http://blog.canapio.com/83)
   * [Part2](http://blog.canapio.com/84)
@@ -53,8 +48,6 @@ iOS
 * [뷰 컨트롤러 라이프싸이클](http://ohgyun.com/743)
 * [서비스-지향 앱델리게이트](http://blog.canapio.com/91)
 * [기묘한 에러메시지 "Unable to insert COPY_SEND"](http://seorenn.blogspot.com/2017/05/ios-unable-to-insert-copysend.html)
-* [apple.com/swift/playgrounds](https://www.apple.com/swift/playgrounds/)
-* [Playground 100% 활용하기](http://news.realm.io/kr/news/swift-playground/)
 * [iOS 소스 코드로 UWP(유니버설 윈도우 플랫폼) 앱 만들기](http://news.realm.io/kr/news/ios-uwp-app/)
 * [RealmContent - Realm 기반의 오픈 소스 CMS 컴포넌트](http://news.realm.io/kr/news/marin-todorov-realmcontent-open-source-cms/)
 * [알아두면 유용한 iOS의 LayoutMargins를 소개합니다!](https://news.realm.io/kr/news/ios-layoutmargins)
@@ -131,12 +124,6 @@ iOS
 * [Replia - Generate source code for iOS apps from design work](http://www.replia.io/)
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [sudo-touchid - A fork of `sudo` with Touch ID support](https://github.com/mattrajca/sudo-touchid)
-* [SwiftExpress – Web Application Server in Swift](http://rshankar.com/swiftexpress-web-application-server-in-swift/)
-* [swiftplot - Swift library for Data Visualization](https://github.com/KarthikRIyer/swiftplot)
-  * Swift를 이용하여 멀티 플랫폼에서 그래프를 그리기 위한 방법으로 제안
-  * macOS, Linux, iOS에서 그래프를 그린 후, 그 결과를 그림파일로 저장하는 것이 가능하고, 주피터 노트북 상에서 렌더링 하는 것도 가능
-  * 현재 Line, Bar, Histogram 차트 지원
-  * 백엔드로, AGG) C++ rendering library 및 Simple SVG Renderer가 사용
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
 * Xamarin
   * [마이크로소프트 멜팅팟 온라인 세미나 C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
@@ -170,6 +157,13 @@ iOS
 * [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
 
 # [Swift](https://swift.org/)
+* [Core Data 그리고 Swift: 동시 실행(Concurrency)](http://code.tutsplus.com/ko/tutorials/core-data-and-swift-concurrency--cms-25118)
+* [네이티브 iOS (Swift)와 React-Native 간의 성능 비교](https://wonhada.com/?topic=%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-ios-swift%EC%99%80-react-native-%EA%B0%84%EC%9D%98-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90)
+* [Objective-C 프로젝트를 Swift로 Converting하며 배운 교훈들](http://blog.sendbird.com/ko/objective-c-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-swift%EB%A1%9C-converting%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B5%90%ED%9B%88%EB%93%A4/)
+* [Swift 프로젝트에 Cocoa Pods 이용하기 - 완두블로그](https://wani.kr/posts/2015/02/16/how-to-use-cocoa-pods/)
+* [Objective-C의 상수와 Swift의 상수](http://blog.yagom.net/538)
+* [apple.com/swift/playgrounds](https://www.apple.com/swift/playgrounds/)
+* [Playground 100% 활용하기](http://news.realm.io/kr/news/swift-playground/)
 * [The Swift Language Guide (한국어)](https://jusung.gitbook.io/the-swift-language-guide/)
 * [A Swift Tour](http://wlaxhrl.tistory.com/70)
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
@@ -444,6 +438,8 @@ iOS
 * [맥용 메뉴 바 앱 개발하기 - 01. 콘솔 명령어 수행 및 권한상승요청](https://blog.rajephon.dev/2018/09/03/mac-menu-bar-widget-01/)
 * [Generics and Subtypes in Swift](https://medium.com/better-programming/generics-and-subtypes-in-swift-7f27638e1b99)
 * [What’s New in Swift 5.3](https://medium.com/swlh/whats-new-in-swift-5-3-ae135c9c259f)
+* [Using a C library inside a Swift framework](https://medium.com/swift-and-ios-writing/using-a-c-library-inside-a-swift-framework-d041d7b701d9)
+  * [Swift Framework 에서 C 라이브러리 사용](https://brunch.co.kr/@tilltue/60)
 
 ## Library Swift
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
@@ -475,7 +471,13 @@ iOS
   * [사진 게시판 API 만들기 6](http://blog.yagom.net/573)
 * [Swift Core ML implementations of Transformers: GPT-2, BERT, more coming soon!](https://github.com/huggingface/swift-coreml-transformers)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
+* [SwiftExpress – Web Application Server in Swift](http://rshankar.com/swiftexpress-web-application-server-in-swift/)
 * [Swiftlint - An experimental tool to enforce Swift style and conventions](https://github.com/realm/SwiftLint)
+* [swiftplot - Swift library for Data Visualization](https://github.com/KarthikRIyer/swiftplot)
+  * Swift를 이용하여 멀티 플랫폼에서 그래프를 그리기 위한 방법으로 제안
+  * macOS, Linux, iOS에서 그래프를 그린 후, 그 결과를 그림파일로 저장하는 것이 가능하고, 주피터 노트북 상에서 렌더링 하는 것도 가능
+  * 현재 Line, Bar, Histogram 차트 지원
+  * 백엔드로, AGG) C++ rendering library 및 Simple SVG Renderer가 사용
 * [Swifty](http://www.swifty-app.com/)
 * [Trevi is a minimal and flexible Swift web application server that provides Swift server page and MVC module](https://github.com/Yoseob/Trevi)
 * [URMovingTransitionAnimator - Moving view transition with the blurring effect between view controllers for Swift3](https://github.com/jegumhon/URMovingTransitionAnimator)
