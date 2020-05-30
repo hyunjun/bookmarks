@@ -136,6 +136,7 @@ Programming Language
 * Chapel
   * [Learn Chapel in Y minutes](http://learnxinyminutes.com/docs/chapel/)
 * [Chisel - Constructing Hardware in a Scala Embedded Language](https://chisel.eecs.berkeley.edu/index.html)
+* [Concurnas: the New Language on the JVM for Concurrent and GPU Computing](https://www.infoq.com/news/2020/05/concurnas-jvm-gpu/)
 * [Crema - Crema: A Sub-Turing Programming Language](http://ainfosec.github.io/crema/)
 * [CROBOTS is a programming game, for programmers (or aspiring programmers.)](http://tpoindex.github.io/crobots/)
 * [Crystal](http://crystal-lang.org/)
