@@ -819,6 +819,7 @@ Java
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * KoreanTextMatcher [한글 초성 검색과 KoreanTextMatcher 3.0](https://bangjunyoung.github.io/2019/08/23/한글-초성-검색과-KoreanTextMatcher-3-0/)
 * [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
+* Leyden [Project Leyden Aims to Improve Java Startup Time](https://www.infoq.com/news/2020/05/java-leyden/)
 * [log4j 2](http://logging.apache.org/log4j/2.x/)
   * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
 * [lombok](https://projectlombok.org)
@@ -1119,6 +1120,7 @@ Java
 * [Build RESTful Services with Spring Boot 2.X in Few Steps](https://medium.com/@codespeaks/build-restful-services-with-spring-boot-2-x-in-few-steps-95c895a7abf5)
 * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
 * [스프링부트 10분만에 API 서버 만들기](https://www.youtube.com/watch?v=nrxzK_ky3uc)
+* [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
 * [Java에서의 Out Of Memory Error(OOME)에 대한 나름대로의 정리](http://ukja.tistory.com/61)
