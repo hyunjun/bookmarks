@@ -17,6 +17,7 @@
 * [Pitfalls of Object Oriented Programming by SONY](http://www.slideshare.net/EmanWebDev/pitfalls-of-object-oriented-programminggcap09)
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
   * [Anti-OOP: if를 피하는 법](http://redutan.github.io/2016/03/31/anti-oop-if)
+* [The "OO" Antipattern](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
 * [**OOP란 조건문(if)을 줄이는 것**](http://alankang.tistory.com/249)
   * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
