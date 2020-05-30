@@ -963,6 +963,7 @@ Python
   * [profiling - An interactive continuous Python profiler](https://github.com/what-studio/profiling)
   * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
   * [Profiling and optimizing Python code](https://osf.io/upav8/)
+  * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
@@ -2994,6 +2995,7 @@ Python
   * [pip 유저모드?](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
   * [Installing PIP on Windows](https://medium.com/@ankitgin/setting-up-pip-for-windows-a644be0f1cea)
   * [user mode로 설치한 pip 패키지 PATH에 등록하기](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
+  * [Commonly used Python - pip commands](https://dev.to/dev0928/commonly-used-python-pip-commands-255d)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [pipenv](https://github.com/pypa/pipenv)
   * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
@@ -3012,6 +3014,7 @@ Python
   * [파이썬 의존성 관리자 Poetry 사용기](https://spoqa.github.io/2019/08/09/brand-new-python-dependency-manager-poetry.html)
   * [GitHub Action과 Poetry를 사용한 파이썬 패키지 개발](https://seonghyeon.dev/python-package-development-with-poetry-and-action)
   * [포에트리를 사용한 파이썬 프로젝트 관리 방법](http://www.itworld.co.kr/news/145472)
+  * [**Hypermodern Python**](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) pyenv, click, requests
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/pyenv-virtualenv-autoenv)
@@ -3279,6 +3282,7 @@ Python
 * [Extracting features from dates](https://towardsdatascience.com/extracting-features-from-dates-fbb7f19972fd)
 * [랜덤한 데이터로 DataFrame 생성 및 원하는 행과 열 데이터 선택하기 미래 실험실 pYTHON](http://ehpub.co.kr/random-dataframe-select-column-row-python/)
 * [금 시세 분석하기(feat. Pandas)](https://www.youtube.com/watch?v=ZqjS5wCeWnE)
+* [Calculating Streaks in Pandas](https://joshdevlin.com/blog/calculate-streaks-in-pandas/)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
   * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
