@@ -49,7 +49,6 @@ App
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
   * [패스워드 관리 프로그램 비교](https://www.youtube.com/watch?v=d2xMOZgqidI)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
-* [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * encryption
@@ -76,6 +75,7 @@ App
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
 * [mpv - a free, open source, and cross-platform media player](https://mpv.io/)
 * [Nik 컬렉션](https://www.google.com/nikcollection/)
+* [Obsidian - A second brain, for you, forever](https://obsidian.md/)
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
@@ -132,6 +132,7 @@ App
   * [VirtualBox 5.1.20 버전업 후 Vagrant Shared Folders mount 오류 해결](https://blog.asamaru.net/2017/05/02/virtualbox-5-1-20-vagrant-shared-folders-mount-error/)
   * [샤크라맥스와 Virtualbox 게스트OS 네트워크 문제: ping은 되는데 tcp 연결이 안 될때](http://javacan.tistory.com/entry/Chakramax-Virtualbox-GuestOS-network-problem)
   * [VirtualBox 네트워크 설정 상세 분석](https://cjwoov.tistory.com/11)
+  * [**macos-virtualbox: Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS**](https://github.com/myspaghetti/macos-virtualbox)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * Wallpaper
@@ -282,6 +283,10 @@ App
 * [**Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자**](https://johngrib.github.io/wiki/my-wiki/)
 * [WordPress The Right Way](https://www.gitbook.com/book/tarendai/wordpress-the-right-way/details)
   * [컴퓨터 vs 책: 설치의 정석 EC2에서 워드프레스 설치하기](https://jhrogue.blogspot.com/2020/05/ec2.html)
+
+# Bookmark
+* [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
+* [Memex - Bookmarking for the power users of the web](https://getmemex.com/)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
@@ -480,6 +485,8 @@ App
     * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
     * [Visual Studio Codespaces 소개](https://overspend.tistory.com/1)
     * [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
+    * [Visual Studio Code: A Power User’s Guide](https://morioh.com/p/408c9c96d0fe)
+    * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
     * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
 * [Asciidoctor](http://asciidoctor.org/)
@@ -491,6 +498,7 @@ App
 * [Frame-Based Editing](http://www.greenfoot.org/frames/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
+* [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
@@ -524,6 +532,7 @@ App
   * [Guppy - A WYSIWYG Mathematics Editor Enter mathematical expressions below (help)](https://daniel3735928559.github.io/guppy/)
   * [8 Best LaTeX Editors](https://beebom.com/best-latex-editors/)
   * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+  * [LaTeX.css — Make your website look like a LaTeX document](https://latex.now.sh/)
   * [mathpix - LaTeX, instantly](https://mathpix.com/)
   * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
   * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
@@ -538,6 +547,7 @@ App
 * [Firefox Debugger로 console.log를 뛰어 넘기](http://hacks.mozilla.or.kr/2017/12/go-beyond-console-log-with-the-firefox-debugger/)
 * [Bypass Paywalls Clean for Firefox](https://github.com/magnolia1234/bypass-paywalls-firefox-clean)
 * [트리 스타일 탭: 파이어폭스의 수직 탭 확장](https://www.44bits.io/ko/post/tree-style-tab-vertical-tab-addon-for-firefox)
+* [13 Firefox browser extensions to make remote work and school a little better](https://blog.mozilla.org/firefox/firefox-extensions-work-from-home/)
 
 # Google
 * [구글 드라이브 호스팅](https://blog.naver.com/gsuite-reseller/221507513707)
@@ -686,6 +696,7 @@ App
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) spectacle 유사. 워크스페이스 정리. 유료
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
+* [MonitorControl - Control your external monitor brightness & volume on your Mac](https://github.com/the0neyouseek/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
 * [monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
@@ -1037,6 +1048,8 @@ App
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
+* [PowerToys - Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
+  * [Microsoft's new PowerToys Run launcher is like macOS's Spotlight for Windows 10](https://thenextweb.com/insider/2020/05/19/microsofts-new-powertoys-run-launcher-is-like-macoss-spotlight-for-windows-10/)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
@@ -1055,6 +1068,7 @@ App
 * [윈도우10 알아두면 쓸모 있을 팁 5가지](http://www.bloter.net/archives/372994)
 * [7 Tools to Copy Locked or In Use Files](https://www.raymond.cc/blog/copy-locked-file-in-use-with-hobocopy/)
 * [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
+* [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
 
 ## Installation
 * 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
@@ -1119,6 +1133,7 @@ App
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
+  * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
