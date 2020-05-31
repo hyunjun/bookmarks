@@ -544,6 +544,7 @@ Apache
 * [Is Apache Kafka a Database? - The 2020 Update](https://dzone.com/articles/is-apache-kafka-a-database-the-2020-update)
 * [Kafka-client client.dns.lookup 옵션 정리](https://blog.voidmainvoid.net/331)
 * [How to Test Kafka Streams Applications](https://medium.com/better-programming/testing-kafka-streams-applications-1c5cb14c5376)
+* [기본 개념잡기](https://victorydntmd.tistory.com/344)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
