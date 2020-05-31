@@ -176,6 +176,7 @@ Interview
 * [2019 카카오 블라인드 공채 2차 오프라인 코딩 테스트 문제 해설](https://tech.kakao.com/2018/10/23/kakao-blind-recruitment-round-2/)
 * [동영상 17년 만에 겪은 외국계 회사의 문화적 충격](http://channy.creation.net/blog/1319)
 * [과학적 정보 수집 대화법](http://agile.egloos.com/5934928)
+* [SW 기술면접](https://www.youtube.com/playlist?list=PL1iR1v6eNy5PhmaTHDUOrFVfta20oEVsj)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
