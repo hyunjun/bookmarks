@@ -35,9 +35,10 @@ Game
 * [피카츄 배구](https://gorisanson.github.io/pikachu-volleyball/ko/)
 * [게임 클라이언트 프로그래머로 취업하기 위해 필요한 10가지](https://ddayin.tistory.com/296)
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+* [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games) emulator
 
 # Board game
-* [ko.boardgamearena.com](http://ko.boardgamearena.com/)
+* [ko.boardgamearena.com](https://ko.boardgamearena.com/)
 * [playok.com](http://www.playok.com/)
 * [yucata.de](http://www.yucata.de/en)
 
