@@ -2068,6 +2068,7 @@ Programming
 * [Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
 * [Dockerize your integration tests](https://medium.zenika.com/dockerize-your-integration-tests-8d26a7425baa)
 * [테스트가 뭐예요?](https://www.slideshare.net/perhapsspy/ss-232479689)
+* [번역 Self-Testing Code(자체 테스트 코드)- Martin Fowler](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-self-testing-code-%EC%9E%90%EC%B2%B4-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-martin-fowler-2d81c1437ac)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
