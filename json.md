@@ -72,6 +72,7 @@ Json
 * [What Is JWT and Why Should You Use JWT](https://www.youtube.com/watch?v=7Q17ubqLfaM)
 * [How to Secure Your API With JSON Web Tokens](https://medium.com/javascript-in-plain-english/how-to-secure-your-api-with-json-web-tokens-495ec68ba6cd)
 * [JWT(Json Web Token)와 세션관리에 대해서 알아보자](https://developer88.tistory.com/325)
+* [JWT를 소개합니다](https://meetup.toast.com/posts/239)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
