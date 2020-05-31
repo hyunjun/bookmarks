@@ -149,6 +149,7 @@ Git
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Alyson La](https://github.blog/2020-04-23-github-protips-tips-tricks-hacks-and-secrets-from-alyson-la/)
 * [5 Git Practices for Effective Work](https://medium.com/better-programming/5-git-practices-for-effective-work-b612e5430bc7)
 * [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6)
+* [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
