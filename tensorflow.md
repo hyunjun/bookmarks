@@ -534,7 +534,7 @@ TensorFlow
 * [맑은날, 흐린날 분류 모델 version 1.0](http://momentum96.tistory.com/16)
 * [TensorFlow Hub와 Estimator로 텍스트 분류 모델 빌드하기](https://developers-kr.googleblog.com/2019/03/tensorflow-hub-estimator.html)
 * [Auto-classification of NAVER Shopping Product Categories using TensorFlow](https://medium.com/tensorflow/auto-classification-of-naver-shopping-product-categories-using-tensorflow-225f1fdb6f09)
-* [Machine Learning Foundations: How to Classifying real-world images](https://morioh.com/p/1e1262427f7f?f=5c21fb01c16e2556b555ab32)
+* [Machine Learning Foundations: How to Classifying real-world images](https://morioh.com/p/1e1262427f7f)
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
@@ -857,8 +857,8 @@ TensorFlow
   * [TensorFlow.js: 웹 프론트엔드에서 머신러닝 활용하기](https://engineering.linecorp.com/ko/blog/tensorflow-js-color-recommendation/)
   * [자바스크립트로 머신러닝하세요! 텐서플로우 자바스크립트 소개](https://www.youtube.com/watch?v=UIZHqxB_JX0)
   * [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html?linkId=83996111)
-  * [Not Hotdog with Keras and TensorFlow.js](https://morioh.com/p/b6dfa3bddc2e?f=5c21fb01c16e2556b555ab32)
-  * [Build A Machine Learning Image Classifier with TensorFlowJs](https://morioh.com/p/b468f80e2d0b?f=5c21fb01c16e2556b555ab32)
+  * [Not Hotdog with Keras and TensorFlow.js](https://morioh.com/p/b6dfa3bddc2e)
+  * [Build A Machine Learning Image Classifier with TensorFlowJs](https://morioh.com/p/b468f80e2d0b)
   * [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
