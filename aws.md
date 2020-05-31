@@ -205,6 +205,7 @@ AWS
 * [AWS 주간 소식 모음 – 2018년 1월 22일](https://aws.amazon.com/ko/blogs/korea/week-in-review-22-1-18)
 * [AWS 주간 소식 모음 – 2017년 10월 23일](https://aws.amazon.com/ko/blogs/korea/week-in-review-23-10-17/)
 * [Gluon 상세 소개 – 유연한 딥러닝을 위한 사용하기 쉬운 프로그램 인터페이스](https://aws.amazon.com/ko/blogs/korea/introducing-gluon-an-easy-to-use-programming-interface-for-flexible-deep-learning)
+* [머신러닝 초보의 AutoGluon 적용기](https://www.luciaellan.com/post/jjXv43YA1Vl4Uxw3MeaX)
 * [AWS SES (Simple Email Service) Spring Boot 프로젝트에서 사용하기](http://jojoldu.tistory.com/246)
 * [AWS SES SMTP를 활용한 대량 메일 전송 시스템 정리](https://medium.com/sjk5766/aws-ses-smtp를-활용한-대량-메일-전송-시스템-정리-e32863abbe4c)
 * [아마존 SES 세팅부터 Node.js 활용 메일 전송까지](https://blog.rajephon.dev/2018/10/06/Amazon-SES-Setup-00/)
