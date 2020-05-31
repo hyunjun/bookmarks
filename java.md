@@ -109,6 +109,7 @@ Java
 * [2020 Java Technology Report](https://www.jrebel.com/blog/2020-java-technology-report)
 * [**Build a Movie Tracking System Using React and Java**](https://medium.com/better-programming/build-a-movie-tracking-system-using-react-and-java-522388965c55)
 * [4 Amazing Techniques for Writing Better Java](https://towardsdatascience.com/4-amazing-techniques-for-writing-better-java-6ad46b3c4a47)
+* [(05/30) 특집 자바 25주년 기념 이야기](https://www.youtube.com/watch?v=tJBxmVLu0xI)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
