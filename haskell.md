@@ -248,6 +248,7 @@ Haskell
 * [Simply typed lambda calculus](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
 * [Subgame perfection made difficult](https://julesh.com/2020/05/26/subgame-perfection-made-difficult/)
 * [Update Everything](https://funwithfunctions.com/posts/2020-05-24-update-everything.html)
+* [Making Music with Haskell From Scratch](https://www.youtube.com/watch?feature=youtu.be&v=FYTZkE5BZ-0)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
