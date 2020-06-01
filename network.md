@@ -108,6 +108,7 @@ Network
 * [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
 * [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [HTTPS에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
+* [코모도 CA(Comodo)의 AddTrust External 루트 인증서 만료](https://www.44bits.io/ko/post/comodo-ca-addtrust-external-root-certificates-expiration)
 
 # Library
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
