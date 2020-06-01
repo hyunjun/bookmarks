@@ -1109,7 +1109,6 @@ App
   * [Windows에서 Ubuntu로 원격 데스크톱 연결하기](https://tuwlab.com/ece/2622)
   * [WSL(Windows Subsystem for Linux)로 SSH 연결하기](https://joojy.net/p/2017010342)
   * [윈도우 10 리눅스 서브시스템에서 OpenSSH Server 돌리는 방법](https://www.clien.net/service/board/lecture/9502940)
-  * [putty를 이용한 ssh 접속 환경 설정](http://moomini.tistory.com/70)
 * [BDRouter.Window.Client - 개인이 개발한 package router tool](https://blog.naver.com/berdo_seok/221120203259)
 * [Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind](https://chocolatey.org/)
   * e.g. `choco install openssh` install ssh
@@ -1133,6 +1132,10 @@ App
 * putty [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
 * [Scoop - A command-line installer for Windows](https://scoop.sh)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
+* ssh
+  * [putty를 이용한 ssh 접속 환경 설정](http://moomini.tistory.com/70)
+  * [Windows 10 네이티브 방식으로 SSH와 Git 클라이언트 설정하기](https://medium.com/beyond-the-windows-korean-edition/use-windows10-open-ssh-tips-e6e9c77de433)
+  * [Windows 10 네이티브 방식으로 SSH 서버 설정하기](https://medium.com/beyond-the-windows-korean-edition/windows-10-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-ssh-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-64988d87349)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
