@@ -1341,6 +1341,7 @@ Javascript
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
+* Tern [자바스크립트 정적 분석 도구 턴(Tern)과 이맥스(Emacs) 연동](https://www.44bits.io/ko/post/javascript-static-analysis-server-tern-and-emacs)
 * [Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine](https://tesseract.projectnaptha.com/)
 * [Three.js - JavaScript 3D library](http://threejs.org/)
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
