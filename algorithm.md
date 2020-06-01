@@ -576,6 +576,7 @@ Algorithm
   * [**cascading multi word multi pattern matching**](https://github.daumkakao.com/index-shin/blog/wiki/cascading-multi-word-multi-pattern-matching)
 * BM
   * [Boyer–Moore string search algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm)
+  * [Boyer-Moore algorithm](https://www.youtube.com/watch?v=4s1noUxykk0)
 * [Fast Algorithms for Exact String Matching](http://arxiv.org/abs/1509.09228)
 * [Fast String Matching for Analytics Quality at JW Player](http://www.jwplayer.com/blog/fast-string-matching/)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
