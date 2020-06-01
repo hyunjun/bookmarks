@@ -698,6 +698,7 @@ Javascript
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
+* [NX Lazy loading with Router 또는 without Router - 1](https://mobicon.tistory.com/576)
 * [Angular Schematics NX기반 Custom Schematic 개발하기 - 1](https://mobicon.tistory.com/575)
 * [XSRF Protection with Angular and Express](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
 * [Angular Animation Callbacks and Key Frames](https://medium.com/javascript-in-plain-english/angular-animation-callbacks-and-key-frames-2d415d657b9d)
