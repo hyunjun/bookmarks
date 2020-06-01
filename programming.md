@@ -290,6 +290,7 @@ Programming
 * [서비스 구하기 4부 : 그 끝](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-4%EB%B6%80-%EA%B7%B8-%EB%81%9D)
 * [소프트웨어를 더이상 건설로 이해하지 말자](https://subokim.wordpress.com/2020/04/13/how-to-explain-software/)
 * [유튜브 이야기 독후감 실리콘 벨리와 엔지니어, 유튜브 창업이야기](https://blog.voidmainvoid.net/332)
+* [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
