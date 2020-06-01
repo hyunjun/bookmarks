@@ -113,6 +113,7 @@ Linux
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
 * [리눅스에서 커맨드 라인으로 모니터 밝기 조절하기](https://kkamagui.tistory.com/921)
 * [Cups AirPrint server with legacy printer driver support using Qemu](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
+* [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
