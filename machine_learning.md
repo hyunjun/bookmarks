@@ -600,6 +600,8 @@ Machine Learning
 * [Why we do machine learning engineering with YAML, not notebooks](https://towardsdatascience.com/why-we-do-machine-learning-engineering-with-yaml-not-notebooks-a2a97f5e04f8)
 * [Pseudo-Labeling to deal with small datasets — What, Why & How?](https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af)
 * [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)
+* [**machine-learning-experiments: Interactive Machine Learning experiments: models training + models demo**](https://github.com/trekhleb/machine-learning-experiments)
+  * [Machine Learning Experiments](https://trekhleb.github.io/machine-learning-experiments/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
