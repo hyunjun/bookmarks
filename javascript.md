@@ -576,6 +576,7 @@ Javascript
 * [**Learning Modern JavaScript with Tetris**](https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057)
 * [메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다](https://github.com/meshkorea/front-end-engineering)
 * [JavaScript: JSON and JSON-server](https://medium.com/@sharmapriyanka84510/javascript-json-and-json-server-beb7308e98cf)
+* [Types-First: A Scalable New Architecture for Flow](https://medium.com/flow-type/types-first-a-scalable-new-architecture-for-flow-3d8c7ba1d4eb)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -776,6 +777,8 @@ Javascript
 * [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
 * [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
 * [clean-code-javascript - Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [Mastering Async/Await](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)
+  * [Mastering Async/Await - Async/Await 마스터 하기](https://gcback-1.gitbook.io/mastering-async-await-by-valeri-karpov/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -2583,6 +2586,7 @@ Javascript
 * [React-yearly-calendar - React calendar component with yearly view](https://github.com/BelkaLab/react-yearly-calendar)
 * [Recoil - A state management library for React](https://recoiljs.org/)
   * [Recoil 시작하기](https://alstn2468.github.io/React/2020-05-15-Recoil/)
+  * [RecoilJS is meant to rock your React world](https://mariosfakiolas.com/blog/recoiljs-is-meant-to-rock-your-react-world/)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
