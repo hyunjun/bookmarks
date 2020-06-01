@@ -1794,6 +1794,7 @@ Programming
 * [2020년 5월 9일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-2_11.html) C# 조건부 컴파일, 깃허브/비주얼 스튜디오 코드스페이스, vi UI 확장, 배시 스크립트 편집 주의
 * [2020년 5월 16일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-16.html) 노드 터미널 인터페이스, 여러 JDK 설치 선택, Deno v1.0, 셸스크립트 파이썬 사용, Bundlephobia, 깃랩 시스템 다이어그램, 원격 데스크톱 연결 멀티 모니터
 * [2020년 5월 23일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-23.html) 꼭 해야 하는 VSCode 설정, 크롬 확장 추천, HTTP 헤더를 잘 읽으면…
+* [2020년 5월 30일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-5-30.html) Vim, CORS, 스노우 팩, JWT 디코더, Latex.css & XP.css, 소셜로그인, VS Code, nginx 설정, 윈도우 파워토이, 윈도우 8이상 무선 네트워크
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
