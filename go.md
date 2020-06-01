@@ -1,5 +1,6 @@
 Go
 ==
+* [golang-news: Golang 기술 소식 뉴스레터](https://github.com/golangkorea/golang-news)
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [OSX 에서 Go 개발환경 만들기](https://reachlabkr.wordpress.com/2014/06/10/go-osx-%EC%97%90%EC%84%9C-go-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [Go 언어 설치](https://blog.outsider.ne.kr/1349)
