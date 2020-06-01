@@ -174,6 +174,7 @@ Java
     * [HikariCP Dead lock에서 벗어나기 (실전편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock-2.html)
     * [Slick/HikariCP giving "too many connections" instead of timeouts](https://stackoverrun.com/ko/q/11283055)
   * [Driver does not support get/set network timeout for connections](https://medium.com/@shdotseo/driver-does-not-support-get-set-network-timeout-for-connections-82a8fd943fce)
+  * [sql injection과 jdbc PreparedStatement](https://codingdog.tistory.com/entry/sql-injection%EA%B3%BC-jdbc-PreparedStatement)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
 * net
