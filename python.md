@@ -18,6 +18,7 @@ Python
 * [sentdex](https://www.youtube.com/user/sentdex)
 * [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
 * [Python Programming Course](https://tutorialedge.net/course/python/)
+* [practical-python](https://dabeaz-course.github.io/practical-python/) dabeaz, David Beazley
 * [blog.thepythontutor.com](http://blog.thepythontutor.com/)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
