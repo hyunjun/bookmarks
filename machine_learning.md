@@ -141,6 +141,7 @@ Machine Learning
 * [TOP 10 Machine Learning Algorithms](https://blog.goodaudience.com/top-10-machine-learning-algorithms-2a9a3e1bdaff)
 * [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets)
 * [Do you know how to choose the right machine learning algorithm among 7 different types?(KR)](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
+* [Top 9 Algorithms for a Machine Learning Beginner](https://towardsdatascience.com/top-10-algorithms-for-machine-learning-beginners-149374935f3c)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Simple ML explanations by MIT PhD students (ML-Tidbits)](https://www.techleer.com/articles/584-understanding-artificial-intelligence-and-machine-learning-made-simple-by-mit-phd-students-ml-tidbits/)
 * [Machine Learning Tutorials](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
@@ -886,6 +887,7 @@ Machine Learning
 * [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)
   * fast.ai Detectron FastText AutoKeras Dopamine vid2vid
 * [Top 20 Python Machine Learning Open Source Projects, updated](https://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
+* [Highest Rated ML Projects on Github](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
