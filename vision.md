@@ -503,6 +503,7 @@ Vision
 * [특별강의 Face Detection 3대 기법](https://www.youtube.com/watch?v=M2QAKxOGCCk)
 * [076923.github.io/posts/#C#-OpenCvSharp4](https://076923.github.io/posts/#C#-OpenCvSharp4)
 * [Real-Time Face Mask Detector with TensorFlow, Keras, and OpenCV](https://towardsdatascience.com/real-time-face-mask-detector-with-tensorflow-keras-and-opencv-38b552660b64)
+* [FaceMask Detection using Tensorflow and OpenCV](https://towardsdatascience.com/facemask-detection-using-tensorflow-and-opencv-824b69cad837)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
 # OpenGL
