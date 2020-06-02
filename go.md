@@ -248,6 +248,7 @@ Go
 * [Go as a Scripting Language](https://www.infoq.com/news/2020/04/go-scripting-language/)
 * [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 * [**Request-Response Olympics — The Search For The Perfect Request-Response Protocol**](https://medium.com/perimeterx/rpc-olympics-the-search-for-the-perfect-rpc-protocol-269ae97f59cc)
+* [Spelunking Bluetooth LE with Go](https://towardsdatascience.com/spelunking-bluetooth-le-with-go-c2cff65a7aca)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -346,6 +347,7 @@ Go
 * [Achieving concurrency in Go](https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca)
 * [Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f)
 * [Go: How Does a Goroutine Start and Exit?](https://medium.com/a-journey-with-go/go-how-does-a-goroutine-start-and-exit-2b3303890452)
+* [Structured Concurrency in Go](https://medium.com/@arunsworld/structured-concurrency-in-go-b800c7c4434e)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
