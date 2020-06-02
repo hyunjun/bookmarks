@@ -164,6 +164,7 @@ iOS
 * [Objective-C의 상수와 Swift의 상수](http://blog.yagom.net/538)
 * [apple.com/swift/playgrounds](https://www.apple.com/swift/playgrounds/)
 * [Playground 100% 활용하기](http://news.realm.io/kr/news/swift-playground/)
+* [Play MIDI Notes in Swift’s Playgrounds](https://medium.com/@stevenpcurtis.sc/play-midi-notes-in-swifts-playgrounds-244feaf35550)
 * [The Swift Language Guide (한국어)](https://jusung.gitbook.io/the-swift-language-guide/)
 * [A Swift Tour](http://wlaxhrl.tistory.com/70)
 * [awesome-swift](https://github.com/matteocrippa/awesome-swift)
