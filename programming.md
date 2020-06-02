@@ -25,6 +25,7 @@ Programming
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 * [15 App Ideas to Build and Level Up your Coding Skills](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
+* [5 Technologies to Pick Up During Quarantine and Improve Your Software Engineering Skillset](https://levelup.gitconnected.com/5-technologies-to-pick-up-during-quarantine-and-improve-your-software-engineering-skillset-68bd766bee9c)
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
@@ -881,6 +882,8 @@ Programming
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
   * [Speedy Scala Builds with Bazel at Databricks](https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html)
   * [Continuous integration and deployment with Bazel](https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/)
+* [earthly - Build automation for the container era](https://github.com/earthly/earthly)
+  * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
 
 # Cloud
@@ -966,6 +969,7 @@ Programming
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
 * [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
+* [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
