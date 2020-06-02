@@ -239,11 +239,16 @@ Interview
 * [ml-system-design-pattern](https://mercari.github.io/ml-system-design-pattern/)
 * [Scaling to 100k Users](https://alexpareto.com/scalability/systems/2020/02/03/scaling-100k.html)
   * [번역 10만명 접속을 허용하는 시스템 만들기](https://brunch.co.kr/@jowlee/102)
-* [Watch this before your System design interview!!](https://www.youtube.com/watch?v=pWO07iEpjO4)
 * [Ten design principles for Azure applications](https://docs.microsoft.com/en-us/azure/architecture/guide/design-principles/) 제목은 Azure가 들어갔지만 일반적인 경우로 봐도 됨
+* [Basics of System Design](https://www.youtube.com/playlist?list=PLt4nG7RVVk1g_LutiJ8_LvE914rIE5z4u)
+* [Systems Design Interview Concepts (for software engineers / full-stack web)](https://www.youtube.com/watch?v=REB_eGHK_P4)
+* [System Design Interview Prep | Twitter](https://www.youtube.com/watch?v=LghAWi4H974)
+* [Google Systems Design Interview With An Ex-Googler](https://www.youtube.com/watch?v=q0KGYwNbf-0)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
+  * [**System Design Interview – Step By Step Guide**](https://www.youtube.com/watch?v=bUHFg8CZFws) 한 번에 보기엔 좀 길지만 좋음
+  * [Watch this before your System design interview!! - YouTube](https://www.youtube.com/watch?v=pWO07iEpjO4)
   * [**Anatomy of a System Design Interview**](https://hackernoon.com/anatomy-of-a-system-design-interview-4cb57d75a53f)
   * [Episode 06: Intro to Architecture and Systems Design Interviews](https://www.youtube.com/watch?v=ZgdS0EUmn70)
   * [8 Things You Need to Know Before a System Design Interview](http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/)
@@ -257,12 +262,15 @@ Interview
   * [Walking Through The System Design Interview](https://medium.com/better-programming/walking-through-the-system-design-interview-679a408c048f)
   * [5 Tips for System Design Interviews](https://www.youtube.com/watch?v=CtmBGH8MkX4)
   * [System Design Interview Questions – Concepts You Should Know](https://www.freecodecamp.org/news/systems-design-for-interviews/)
+  * [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
+  * [Amazon System Design Preparation](https://www.youtube.com/watch?v=gf8R7sgme6o)
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   * [Gaurav Sen - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
   * [Tech Dummies - Narendra L - System Design](https://www.youtube.com/playlist?list=PLkQkbY7JNJuBoTemzQfjym0sqbOHt5fnV)
   * [Tushar Roy - Coding Made Simple - System design interview questions](https://www.youtube.com/playlist?list=PLrmLmBdmIlps7GJJWW9I7N0P0rB0C3eY2)
   * [Top 10 System Design Interview Questions for Software Engineers](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
+  * [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ/videos)
   * AirBnB
     * [How to build an app like Airbnb?](https://hackernoon.com/how-to-build-an-app-like-airbnb-405f3c5872f9)
   * Autocomplete or Typeahead
@@ -302,6 +310,7 @@ Interview
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
     * [BOOKMYSHOW System Design, FANDANGO System Design | Software architecture for online ticket booking](https://www.youtube.com/watch?v=lBAwJgoO3Ek)
     * [Google Software Engineer Design Interview: Reservation System](https://www.youtube.com/watch?v=6wSk5XG4jwU)
+    * [Design Interview Question: Airline reservations system - MakeMyTrip Logicmojo.com](https://www.youtube.com/watch?v=54cXxQyeCMQ)
     * [System Design Shopify eCommerce platform Interview Question for software engineers](https://www.youtube.com/watch?v=lEL4F_0J3l8)
     * [How to Build an Awesome eCommerce App? A Complete Guide to Developing an eCommerce Mobile App](https://www.engineerbabu.com/blog/how-to-build-an-ecommerce-app/)
     * [쇼핑 주문서의 임시저장 기능?](https://brunch.co.kr/@windydog/229)
@@ -312,6 +321,7 @@ Interview
   * Short / Tiny URL
     * [Design a service like TinyUrl](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
     * [Designing a URL Shortening service like TinyURL](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5668600916475904)
+    * [How to implement TinyURL (System Design Interview)](https://www.youtube.com/watch?v=eCLqmPBIEYs)
     * [System Design: URL Shortener](https://www.youtube.com/playlist?list=PL5tcWHG-UPH38OBsRIdxVvNV2nwrXkf6t)
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
   * Social Media
@@ -337,6 +347,7 @@ Interview
     * [Uber - System Design Interview with a Senior Software Engineer @ Airbnb](https://www.youtube.com/watch?v=jItLuOTsCX4)
     * [System Design | Design Uber | Design Ola | Uber Architecture | Lyft Design | Amazon Interview](https://www.youtube.com/watch?v=fgIgOU0yi0w)
     * [System Design Interview - Design Yelp Geospatial Geohash](https://www.youtube.com/watch?v=tu6QKpV7GiI) map을 이용하기 때문에 uber와 유사한 점이 있음
+    * [Yelp system design | amazon interview question Yelp software architecture](https://www.youtube.com/watch?v=TCP5iPy8xqo)
     * [Geohash: Deep Intuitive Understanding in under 7 Minutes](https://www.youtube.com/watch?v=UaMzra18TD8)
     * [How to Build an app like Uber? (Uber Clone)](https://www.engineerbabu.com/blog/how-to-build-an-app-like-uber/)
   * Video
