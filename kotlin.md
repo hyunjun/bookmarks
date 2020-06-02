@@ -198,6 +198,8 @@
 * [Kotlin 키워드 및 연산자 해부 Part 3](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-part-3-59ff3ed736be)
 * [코틀린 의 apply, with, let, also, run 은 언제 사용하는가?](https://medium.com/@limgyumin/코틀린-의-apply-with-let-also-run-은-언제-사용하는가-4a517292df29)
 * [vararg 로 가변 인자를 전달하는 방법](https://developer88.tistory.com/322)
+* [Kotlin Collection Functions Cheat Sheet](https://medium.com/@elye.project/kotlin-collection-functions-cheat-sheet-975371a96c4b)
+  * [Kotlin의 Collection 함수](https://medium.com/hongbeomi-dev/kotlin-collection-%ED%95%A8%EC%88%98-7a4b1290bce4)
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
