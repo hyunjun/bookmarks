@@ -150,6 +150,8 @@ Git
 * [5 Git Practices for Effective Work](https://medium.com/better-programming/5-git-practices-for-effective-work-b612e5430bc7)
 * [Why You Should Write Small Git Commits](https://medium.com/better-programming/why-you-should-write-small-git-commits-c9a042737aa6)
 * [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting)
+* [4 New GitHub Products That Will Change How You Code](https://medium.com/better-programming/4-new-github-products-that-will-change-how-you-code-27933401faa0)
+* [GitHub Repos That Should Be Starred by Every Web Developer](https://medium.com/better-programming/github-repos-that-should-be-starred-by-every-web-developer-e9eaa244810e)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
