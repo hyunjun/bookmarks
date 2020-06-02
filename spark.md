@@ -847,6 +847,7 @@
 * [빅데이터 분석을 위한 스파크 2 프로그래밍 : 대용량 데이터 처리부터 머신러닝까지](http://www.slideshare.net/ssuser88c366/2-71401153)
 * [On-Demand Webinar and FAQ: Parallelize R Code Using Apache Spark](https://databricks.com/blog/2017/08/21/on-demand-webinar-and-faq-parallelize-r-code-using-apache-spark.html)
 * [Vectorized R Execution in Apache Spark - Hyukjin Kwon (Databricks)](https://www.youtube.com/watch?v=3fE9MrV7uqA)
+* [How to Improve R Performance in SparkR at Apache Spark 3.0](https://databricks.com/blog/2020/06/01/vectorized-r-i-o-in-upcoming-apache-spark-3-0.html)
 
 # Spark 3.0
 * [Data Source V2 API in Spark 3.0 - Part 1 : Motivation for New Abstractions](http://blog.madhukaraphatak.com/spark-3-datasource-v2-part-1/)
