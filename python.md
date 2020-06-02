@@ -411,6 +411,7 @@ Python
 * [파이썬을 올바르게, 현명하게 설치하는 방법](http://www.itworld.co.kr/news/146358)
 * [Semantic Differences Between JavaScript and Python](https://medium.com/better-programming/semantic-differences-between-javascript-and-python-ed21b1f3ce50)
 * [4 Simple Ways to Refactor Your Python Code](https://medium.com/code-85/4-simple-ways-to-refactor-your-python-code-2f491b767381)
+* [Introduction to Streaming Algorithms](https://towardsdatascience.com/introduction-to-streaming-algorithms-b71808de6d29)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
