@@ -115,6 +115,13 @@
 * [github.com/leechanwoo/APSS/tree/master/rust](https://github.com/leechanwoo/APSS/tree/master/rust)
 * [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 * [Why Should You Learn Rust?](https://medium.com/better-programming/why-rust-d52516e70ab8)
+* [Snake Game With Rust, JavaScript, and WebAssembly](https://medium.com/@geekrodion/snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b)
+* [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
+* [Rust Adventures — From Java Class to Rust Struct](https://medium.com/analytics-vidhya/rust-adventures-from-java-class-to-rust-struct-1d63b66890cf)
+* [Cross-compile Rust programs to run on Turris Omnia](https://itnext.io/cross-compile-rust-programs-to-run-on-turris-omnia-e592b555e2aa)
+
+# API
+* [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
 
 # Async Await
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
@@ -126,6 +133,7 @@
 * [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
+* [Creating performant REST APIs with Rust using Rocket, Diesel and Serde — Part 1](https://medium.com/@amolele/creating-performant-rest-apis-with-rust-using-rocket-diesel-and-serde-bbe5a4f33a4e)
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
