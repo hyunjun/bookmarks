@@ -700,6 +700,7 @@ Javascript
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [NX Lazy loading with Router 또는 without Router - 1](https://mobicon.tistory.com/576)
 * [Angular Schematics NX기반 Custom Schematic 개발하기 - 1](https://mobicon.tistory.com/575)
+* [Lazy loading with Router 또는 without Router - 2](https://mobicon.tistory.com/577)
 * [XSRF Protection with Angular and Express](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
 * [Angular Animation Callbacks and Key Frames](https://medium.com/javascript-in-plain-english/angular-animation-callbacks-and-key-frames-2d415d657b9d)
 * [Get Rid of if-statements in your Angular App with OOP](https://medium.com/@yiupang.ch/get-rid-of-if-statements-in-your-angular-app-with-oop-1efdf91da577)
