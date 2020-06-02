@@ -704,6 +704,7 @@ Javascript
 * [XSRF Protection with Angular and Express](https://levelup.gitconnected.com/xsrf-protection-with-angular-and-express-d084c6e57da5)
 * [Angular Animation Callbacks and Key Frames](https://medium.com/javascript-in-plain-english/angular-animation-callbacks-and-key-frames-2d415d657b9d)
 * [Get Rid of if-statements in your Angular App with OOP](https://medium.com/@yiupang.ch/get-rid-of-if-statements-in-your-angular-app-with-oop-1efdf91da577)
+* [A Better Way to Pass Data to your Angular Components](https://medium.com/swlh/a-better-way-to-pass-data-to-your-angular-components-e8b5ef6a642a)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -1723,11 +1724,13 @@ Javascript
 * [Best node.js tutorial for beginners | csstack](https://www.csstack.com/node-js-tutorial/)
 * [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
 * [Node.js에서 Github oAuth에 접근해보자 (1). - 완두블로그](https://wani.kr/posts/2015/02/11/github-oauth-via-node-1/)
+* [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [10 Node.js Frameworks Worth Checking Out: Express, Loopback, Hapi, and Beyond](https://medium.freecodecamp.org/10-node-js-frameworks-worth-checking-out-express-loopback-hapi-and-beyond-7b537b590f89)
+* [14 Most Useful NodeJS Libraries in 2020](https://medium.com/javascript-in-plain-english/14-most-useful-nodejs-libraries-in-2020-9e0a5e72d1d8)
 * AdonisJS [Node.js 웹 프레임워크 ‘AdonisJS’](https://medium.com/@larkbless/node-js%EC%9D%98-%EB%9D%BC%EB%9D%BC%EB%B2%A8-adonisjs-d9ef209ade9c)
 * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
@@ -2297,8 +2300,9 @@ Javascript
 * [Mistakes Junior React Developers Make](https://medium.com/frontend-digest/mistakes-junior-react-developers-make-c546b1af187d)
 * [Delayed rendering of React Components](https://medium.com/trabe/delayed-render-of-react-components-3482f8ad48ad)
 * [React Production Performance Monitoring](https://kentcdodds.com/blog/react-production-performance-monitoring)
-* [리액트를 처음부터 배워보자. —01. React.js란 무엇인가?](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-01-react-js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-ad8ba252ee28)
+* [리액트를 처음부터 배워보자. — 01. React.js란 무엇인가?](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-01-react-js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-ad8ba252ee28)
 * [리액트를 처음부터 배워보자. — 02. React.createElement와 React.Component 그리고 ReactDOM.render의 동작 원리](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-02-react-createelement%EC%99%80-react-component-%EA%B7%B8%EB%A6%AC%EA%B3%A0-reactdom-render%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-41bf8c6d3764)
+* [리액트를 처음부터 배워보자. — 03. React 의 Update 스케줄링 과정](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-03-react-%EC%9D%98-reconciliation-%EA%B3%BC%EC%A0%95-2e6fb59c0c2d)
 * [Creating A Dynamic Responsive Layout With React](https://medium.com/javascript-in-plain-english/creating-a-dynamic-responsive-layout-with-react-e941ac9c7f2b)
 * [Composable Reactive UI — Preview](https://medium.com/better-programming/composable-reactive-ui-preview-d197cbbc0a71)
 * [Why You Should Learn React Instead of Angular](https://medium.com/javascript-in-plain-english/why-you-should-learn-react-instead-of-angular-f2333dd1228b)
@@ -2319,6 +2323,7 @@ Javascript
 * [React Bits](https://vasanthk.gitbooks.io/react-bits/)
 * [Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
 * [reactGo: Your One-Stop solution for a full-stack universal Redux App!](https://github.com/reactGo/reactGo)
+* [Creating your Second React Application: Managing State](https://medium.com/javascript-in-plain-english/creating-your-second-react-application-d6d50e3e1e91)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2597,9 +2602,9 @@ Javascript
 * [Storybook 입문 가이드](https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
+* [useSWR — My New Favorite React Library](https://medium.com/frontend-digest/useswr-my-new-favorite-react-library-cd87a914a5b1)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
-* [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
 
 ## React SocketIO
 * [socket.io](http://socket.io/)
