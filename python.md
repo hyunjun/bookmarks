@@ -3287,6 +3287,7 @@ Python
 * [금 시세 분석하기(feat. Pandas)](https://www.youtube.com/watch?v=ZqjS5wCeWnE)
 * [Calculating Streaks in Pandas](https://joshdevlin.com/blog/calculate-streaks-in-pandas/)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
+* [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
   * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
   * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
