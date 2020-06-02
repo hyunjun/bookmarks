@@ -75,6 +75,7 @@ Programming Books
 * (NOT YET) [파이썬으로 만드는 OpenCV 프로젝트, 간단한 영상 입출력부터 머신러닝까지](https://blog.xcoda.net/101)
   * [파이썬으로 만드는 OpenCV 프로젝트](https://blog.insightbook.co.kr/2019/04/03/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-opencv-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/)
 * (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
+* (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359)
 * (NOT YET) [소프트 스킬 - 평범한 개발자의 비범한 인생 전략 71가지](https://www.gilbut.co.kr/book/view?bookcode=BN001351)
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
@@ -188,6 +189,7 @@ Programming Books
 * [핵심만 골라 배우는 안드로이드 스튜디오3 & 프로그래밍](https://github.com/Jpub/Androidstudio3)
 * [나의 첫 안드로이드: 안드로이드 기초부터 실습까지](https://www.youtube.com/playlist?list=PLVsNizTWUw7F7esGouHumJdP8NW7Embci)
   * [나의 첫 안드로이드](https://jybaek.tistory.com/769)
+* (NOT YET) [아키텍처를 알아야 앱 개발이 보인다](https://bjpublic.tistory.com/357)
 
 # Architecture
 
@@ -296,6 +298,7 @@ Programming Books
   * 이론서(e.g. DB에 수학이 어떻게 적용되어나)이나 그래프 저장, 캐시, 스케일 아웃 등에 대한 이야기가 있어 참고할만 함
 * (NOT YET) [파워 오브 데이터베이스](https://bjpublic.tistory.com/322)
 * (NOT YET) [MySQL 5.7 완벽 분석](https://blog.insightbook.co.kr/2019/05/03/19542/)
+* (NOT YET) [SQL로 맛보는 데이터 전처리 분석](https://bjpublic.tistory.com/351)
 
 # Data Science
 
@@ -408,7 +411,7 @@ Programming Books
 * (NOT YET) [데이터를 보는 사람에게 추천하는 교양서](https://cojette.github.io/bookfordatauser/)
 * (NOT YET) [데이터 전처리 대전](http://www.hanbit.co.kr/store/books/look.php?p_code=B1543811360)
 * (NOT YET) [직장인을 위한 데이터 분석 실무 with 파이썬 - 마케팅, 영업, 기획 실무 담당자를 위한 데이터 분석의 기술](https://wikibook.co.kr/playwithdata/)
-* (NOT YET) 인공지능 100점을 위한 파이썬 수학
+* (NOT YET) [인공지능 100점을 위한 파이썬 수학](https://bjpublic.tistory.com/360)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -486,7 +489,8 @@ Programming Books
   * [도서리뷰 검색을 위한 딥러닝 2장: 동의어 생성](https://medium.com/@leejukyung/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%EA%B2%80%EC%83%89%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-2%EC%9E%A5-%EB%8F%99%EC%9D%98%EC%96%B4-%EC%83%9D%EC%84%B1-6c00bf856df4)
 * (NOT YET) [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
 * (NOT YET) [딥러닝을 위한 수학 인공지능의 핵심 원리를 이해하고 파이썬으로 구현해 보는](https://wikibook.co.kr/mathdl/)
-* (NOT YET) [친절한 실전 딥러닝 수업](https://github.com/bjpublic/TMI-Deeplearning)
+* (NOT YET) [친절한 실전 딥러닝 수업](https://bjpublic.tistory.com/355)
+  * [친절한 실전 딥러닝 수업](https://github.com/bjpublic/TMI-Deeplearning)
 * (NOT YET) [모두의 딥러닝(개정2판)](https://theorydb.github.io/review/2020/03/28/review-book-everyones-dl/)
 
 ## Machine Learning
@@ -567,6 +571,7 @@ Programming Books
 * (NOT YET) [사이킷런(scikit-learn)을 활용한 분류, 회귀 문제부터 간단한 알고리즘, 선형대수까지 - 머신 러닝 부트캠프 with 파이썬](http://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN002001)
 * (NOT YET) [머신러닝 딥러닝 바로가기 - 구글 클라우드 플랫폼을 활용한 실전 개발](https://freelec.co.kr/book/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0/)
 * (NOT YET) [Go를 활용한 머신 러닝 Go 프로그래밍 언어를 사용해 회귀분석, 분류, 클러스터링, 시계열 모델, 신경망 및 딥러닝 구현하기](http://acornpub.co.kr/book/ml-with-go)
+* (NOT YET) [딥러닝으로 걷는 시계열 예측](https://bjpublic.tistory.com/353)
 * (NOT YET) [파이썬으로 실무에 바로 적용하는 머신 러닝](http://acornpub.co.kr/book/understanding-ml)
 * (NOT YET) [머신 러닝 알고리즘 파이썬 예제와 함께 배우는 머신 러닝](http://acornpub.co.kr/book/ml-algorithms)
 * (NOT YET) [머신러닝 TensorFlow.js JavaScript - 자바스크립트와 TensorFlow.js 환경에서 머신러닝 구현](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=188034357)
@@ -578,6 +583,8 @@ Programming Books
   * [책리뷰 파이썬을 활용한 머신러닝 쿡북](https://www.youtube.com/watch?v=UOKjbLfx4L0)
 * (NOT YET) [머신러닝 도감](https://jpub.tistory.com/990)
 * (NOT YET) [단단한 머신러닝](https://jpub.tistory.com/1010)
+* (NOT YET) [머신러닝을 위한 파이썬 한 조각](https://bjpublic.tistory.com/352)
+* (NOT YET) [당신이 지금 알아야 할 빅4 클라우드 머신러닝](https://bjpublic.tistory.com/354)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
@@ -1108,6 +1115,7 @@ Programming Books
 * (NOT YET) [실습과 그림으로 배우는 리눅스 구조](https://jybaek.tistory.com/784)
 * (NOT YET) [12가지 실무 프로젝트로 배우는 리눅스 관리의 기술 모던 리눅스 관리](https://www.gilbut.co.kr/book/view?bookcode=BN002552)
 * (NOT YET) [번역서 "BPF로 리눅스 관측 가능성 향상하기" 나왔습니다](http://occamsrazr.net/tt/363)
+* (NOT YET) [칼리 리눅스로 파헤치는 도커 해킹](https://bjpublic.tistory.com/362)
 
 ## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
@@ -1237,6 +1245,7 @@ Programming Books
 * 클라우드와 빅데이터의 강력한 파트너 MongoDB 핵심가이드
   * 2014.01
   * 한라 005.74김94ㅇ
+* (NOT YET) [맛있는 MongoDB](https://bjpublic.tistory.com/349)
 
 ## Redis
 
