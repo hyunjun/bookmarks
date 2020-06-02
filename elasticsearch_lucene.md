@@ -284,6 +284,7 @@ ElasticSearch - Lucene
 * [use case: coronavirus COVID 19 study and visualisation with Elasticsearch](https://medium.com/@quoeamaster/use-case-coronovirus-covid-19-investigation-and-visualisation-with-elasticsearch-598df7849e82)
 * [Kurly에서 주문을 모니터링 하는 법](https://helloworld.kurly.com/blog/order-monitoring-service/)
 * [엘라스틱서치 오타교정 API 만들어보기](https://danawalab.github.io/elastic/2020/05/21/Elasticsearch-SuggestApi.html)
+* [Elastic 라이센스, 그리고 오픈 소스 에반젤리스트의 딜레마](http://kimjmin.net/2020/06/2020-06-elastic-devrel/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
