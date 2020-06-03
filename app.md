@@ -1136,6 +1136,7 @@ App
   * [putty를 이용한 ssh 접속 환경 설정](http://moomini.tistory.com/70)
   * [Windows 10 네이티브 방식으로 SSH와 Git 클라이언트 설정하기](https://medium.com/beyond-the-windows-korean-edition/use-windows10-open-ssh-tips-e6e9c77de433)
   * [Windows 10 네이티브 방식으로 SSH 서버 설정하기](https://medium.com/beyond-the-windows-korean-edition/windows-10-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-ssh-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-64988d87349)
+  * [윈도우10에서 리눅스, 유닉스 접속할 때 내장된 ssh 사용, 아직도 putty 사용하나요?](http://blog.naver.com/tolovefeels/221985255075)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
