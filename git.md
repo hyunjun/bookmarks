@@ -152,6 +152,7 @@ Git
 * [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting)
 * [4 New GitHub Products That Will Change How You Code](https://medium.com/better-programming/4-new-github-products-that-will-change-how-you-code-27933401faa0)
 * [GitHub Repos That Should Be Starred by Every Web Developer](https://medium.com/better-programming/github-repos-that-should-be-starred-by-every-web-developer-e9eaa244810e)
+* [우리 팀 GitHub에 지금 당장 연결해야 할 서비스 4가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%9A%B0%EB%A6%AC-%ED%8C%80-github%EC%97%90-%EB%8B%B9%EC%9E%A5-%EC%97%B0%EA%B2%B0%ED%95%B4%EC%95%BC-%ED%95%A0-4%EA%B0%80%EC%A7%80-%EC%84%9C%EB%B9%84%EC%8A%A4-4ea3c165114)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
