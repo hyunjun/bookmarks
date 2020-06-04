@@ -425,6 +425,7 @@ Programming Language
   * [Stephen Wolfram Frontiers of Computational Thinking: A SXSW Report](http://blog.stephenwolfram.com/2015/03/frontiers-of-computational-thinking-a-sxsw-report/)
   * [Live with Stephen Wolfram](https://www.livecoding.tv/stephen_wolfram/)
   * [Find Waldo Faster](http://blog.wolfram.com/2015/02/27/find-waldo-faster/)
+  * [울프럼 알파에서 집합 연산 및 술어 논리 연산 해 보기](https://otter275.tistory.com/7)
 * [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
 * [Zephir - Hello World - 완두블로그](https://wani.kr/posts/2015/05/03/zephir-1/)
 
