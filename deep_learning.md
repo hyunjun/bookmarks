@@ -735,6 +735,7 @@ Deep Learning
 * [**딥러닝 웹서비스 개발 도전기 아이즈원과 함께하는 풀스택 개발**](https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b)
 * [갈아먹는 딥러닝 기초 1 Activation Function(활성화 함수) 종류](https://yeomko.tistory.com/39)
 * [갈아먹는 딥러닝 기초 2 weight initialization](https://yeomko.tistory.com/40)
+* [Supervised learning을 시작으로 누구나 쉽게 인공지능(AI)을 이해할 수 있다는 사실 알고 계시나요?](https://blog.naver.com/wacanycorp/221884110863)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
