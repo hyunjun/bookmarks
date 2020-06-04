@@ -100,6 +100,7 @@ C#
   * [Blazor와 React의 조합 — JavaScript Interop](https://medium.com/rkttu/blazor%EC%99%80-react%EC%9D%98-%EC%A1%B0%ED%95%A9-javascript-interop-a2599bcd6563)
   * [Full stack web development with ASP.NET Core 3.0 and Blazor - BRK3017](https://www.youtube.com/watch?v=y7LAbdoNBJA)
   * [VS Code Now Supports Blazor Development](https://visualstudiomagazine.com/articles/2019/04/23/vs-code-blazor.aspx)
+  * [Blazor 웹 애플리케이션에 React UI 컴포넌트 끼얹기](https://blog.aliencube.org/ko/2020/06/03/adding-react-components-to-blazor-webassembly-app/)
 * [calculator - Windows Calculator: A simple yet powerful calculator that ships with Windows](https://github.com/Microsoft/calculator)
   * [Counting Bugs in Windows Calculator](https://m.habr.com/en/company/pvs-studio/blog/443400/)
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
