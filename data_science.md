@@ -511,6 +511,7 @@ Data Science
 * RAPIDS
   * [Accelerating Data Science with RAPIDS - Keith Kraus](https://www.youtube.com/watch?v=GVUA3vSPzio)
   * [RAPIDS cuGraph](https://medium.com/rapids-ai/rapids-cugraph-1ab2d9a39ec6)
+  * [Fundamentals Of Accelerated Data Science With RAPIDS](https://ign0relee.github.io/Nvidia-Accelerated-Data-Science-With-Rapids)
 * [RoboSat - an end-to-end pipeline written in Python 3 for feature extraction from aerial and satellite imagery](https://github.com/mapbox/robosat)
   * [PyParis 2018 - Robosat: an Open Source and efficient Semantic Segmentation...](https://www.youtube.com/watch?v=y-leS9uBl7Y)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
