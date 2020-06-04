@@ -429,6 +429,7 @@ Git
   * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict-md) 변경 내역 유실 및 삭제 복구
   * [practice - merge conflict 해결](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798#file-merge_conflict0-md) 같은 filename으로 서로 다른 branch에서 작업한 경우(간단)
   * [Git에서 conflict(충돌) 해결하기](https://blog.naver.com/codeitofficial/221938658754)
+  * [In a git merge, how do you just replace your version with the version git says there is a conflict with?](https://stackoverflow.com/questions/3515657/in-a-git-merge-how-do-you-just-replace-your-version-with-the-version-git-says-t)
   * [**GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기**](https://meetup.toast.com/posts/122)
   * [Git: merging specific files from another branch](https://www.haykranen.nl/2011/07/18/git-merging-specific-files-from-another-branch/)
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
