@@ -764,3 +764,4 @@ Clojure
   * [Part 2](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-2-2ja0)
   * [Part 3](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-3-2f9k)
   * [Part 4](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-4-2bp8)
+* [번역 Transducers 이해하기](https://medium.com/@autumn.bom/%EB%B2%88%EC%97%AD-transducers-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-c69e07840cc)
