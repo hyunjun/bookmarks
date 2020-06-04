@@ -633,6 +633,7 @@ Java
 ## JVM Profile
 * [자바 애플리케이션 성능 튜닝의 도(道)](https://d2.naver.com/helloworld/184615)
 * [YourKit Java 프로필러(YourKit Java Profiler) 소개](http://freealt.selfhow.com/yourkit-java-profiler/)
+  * [YourKit Java Profiler and .NET Profiler Forums](https://www.yourkit.com/forum/)
   * [Reachability scopes](https://www.yourkit.com/docs/java/help/reachability.jsp)
   * [Class list](yourkit.com/docs/java/help/claclass_list.jsp)
   * [Deadlock detector](https://www.yourkit.com/docs/java/help/deadlocks.jsp)
