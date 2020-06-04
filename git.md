@@ -173,6 +173,7 @@ Git
 * [Github Actions를 이용한 개발블로그 글을 슬랙으로 알림받기](https://fernando.kr/22)
 * [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/)
 * [GitHub Actions, 어디까지 써봤니?](https://dico.me/topic/articles/279)
+* [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
