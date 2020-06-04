@@ -2579,6 +2579,7 @@ Python
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
+* [MUMPS : a parallel sparse direct solver](http://mumps.enseeiht.fr/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
 * [NBAPB (Blog Auto Posting Bot)](https://github.com/pjt3591oo/blog_post_bot_cli)
 * [ndindex - Introducing ndindex, a Python library for manipulating indices of ndarrays](https://labs.quansight.org/blog/2020/04/introducing-ndindex-a-python-library-for-manipulating-indices-of-ndarrays/)
