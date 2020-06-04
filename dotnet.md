@@ -1,5 +1,6 @@
 .net
 ====
+* [dotnetdev.kr community](https://spectrum.chat/dotnetdev-kr)
 * [OmniSharp - Cross platform .NET development](http://www.omnisharp.net/)
 * [Visual C++ Cross-Platform Mobile](https://www.visualstudio.com/en-us/explore/cplusplus-mdd-vs)
 * [The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs](https://github.com/dotnet/roslyn)
