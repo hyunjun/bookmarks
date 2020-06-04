@@ -156,6 +156,7 @@ C
 * [christmas-obfuscated-C](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 * [**Implementing simple cooperative threads in C**](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 * [The Ten Commandments for C Programmers (Annotated Edition)](https://www.lysator.liu.se/c/ten-commandments.html)
+* [C언어 예제 디지털 시계 만들기 예제 Center](https://www.youtube.com/watch?v=FzMHurNF7W8)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
