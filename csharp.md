@@ -41,6 +41,7 @@ C#
 * [Introducing C# Source Generators](https://devblogs.microsoft.com/dotnet/introducing-c-source-generators)
 * [How to create an image viewer in c#](https://www.youtube.com/watch?v=K4wpkiFEuUQ)
 * [Kyle Halladay - Ray Tracing In Notepad.exe At 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)
+* [손글씨 인식 프로그램 구현 머신러닝 with C#, ML NET](https://www.youtube.com/watch?v=Nmso-oplEqI)
 
 # API
 * Async, Await
