@@ -121,6 +121,7 @@ Vim
   * `C-X C-E`
 * [What's your best Vim related shell script?](https://www.reddit.com/r/vim/comments/3oo156/whats_your_best_vim_related_shell_script/)
 * [Entering special characters](http://vim.wikia.com/wiki/Entering_special_characters)
+* [regex - How to get Vim to highlight non-ascii characters?](https://stackoverflow.com/questions/16987362/how-to-get-vim-to-highlight-non-ascii-characters)
 * [Highlight current line](http://vim.wikia.com/wiki/Highlight_current_line)
 * [VIM adventures](http://vim-adventures.com/)
 * [Vim에서 shell 사용하기](https://www.youtube.com/watch?v=_LJNar5tDfY)
