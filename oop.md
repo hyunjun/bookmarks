@@ -161,6 +161,8 @@
 * [**MV-Whatever 정리**](https://blog.naver.com/jukrang/221597914483)
   * [M-V-Whatever 정리 - 1.MVC](https://blog.naver.com/jukrang/221414570067)
   * [MV-Whatever 정리 - 2. MVP](https://blog.naver.com/jukrang/221597910488)
+* [객체지향 디자인패턴 1](https://www.youtube.com/watch?v=lJES5TQTTWE)
+* [객체지향 디자인패턴 2](https://www.youtube.com/watch?v=q3_WXP9pPUQ)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)
