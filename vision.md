@@ -560,6 +560,7 @@ Vision
 * [Haar-Like Features in Face Detection With Python](https://www.youtube.com/watch?v=RPoUdDGonWc)
 * [Here’s How to Read License Plate with 10 Lines of Python](https://towardsdatascience.com/heres-how-to-read-license-plate-with-10-lines-of-python-cc9b7a3b4b7c)
 * [How to Create your own image classifier with Angular and Tensorflow](https://morioh.com/p/a1562a02d941)
+* [Saving Images From an Object Detector Using TensorFlow](https://levelup.gitconnected.com/saving-images-from-an-object-detector-using-tensorflow-3f2d058568ba)
 * [albumentations - fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
   * [Albumentations, an image augmentation library version 0.4 released. New augmentations, support for images and masks with more than 3 channels, "Hall of Fame" that contains a list of machine learning competitions in which the library was used](https://www.reddit.com/r/MachineLearning/comments/dibnqe/p_albumentations_an_image_augmentation_library/)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
