@@ -456,6 +456,7 @@ Git
   * [GitHub Pull Request가 자동으로 close되는 경우는?](https://engineering.linecorp.com/ko/blog/github-pull-request-auto-close/)
   * [오픈 소스 컨트리뷰션을 위한 GitHub Fork & Pull Request](https://futurecreator.github.io/2019/03/05/github-fork-and-pull-request-process-for-open-source-contribution)
   * [gitflow 사용 및 pull request 하는 방법](https://devtimothy.tistory.com/137)
+  * [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
 * `rebase`
   * ['rebaser' improves on 'git rebase -i' by adding information per commit regarding which files it touched](https://gist.github.com/koreno/5893d2d969ccb6b8341d#file-example-L17)
   * [practice `--ours / --theirs`](https://gist.github.com/hyunjun/760bfd0bc354fce34a320f2895518798)
