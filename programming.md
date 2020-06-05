@@ -1356,6 +1356,7 @@ Programming
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
   * [practice - some configuration](https://gist.github.com/hyunjun/088a4552f9d4b63dcc73305a93dab749#file-configuration-md)
+  * [RabbitMQ YouTube](https://www.youtube.com/channel/UCSg9GRMGAo7euj3baJi4dOg)
   * [Troubleshooting Network Connectivity](https://www.rabbitmq.com/troubleshooting-networking.html)
   * [Virtual Hosts](https://www.rabbitmq.com/vhosts.html)
   * [github.com/rabbitmq](https://github.com/rabbitmq)
