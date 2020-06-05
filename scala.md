@@ -693,6 +693,7 @@ Scala
     * [Testing Background Process With ZIO](https://www.rudder.io/blog/testing-background-process-zio/)
     * [Moving From Kotlin + Spring Reactor + Arrow to Scala + ZIO](https://adrianfilip.com/2020/04/07/moving-from-kotlin-spring-reactor-arrow-to-scala-zio/)
     * [How to write a command-line application with ZIO](https://medium.com/scalac/how-to-write-a-command-line-application-with-zio-111b5af3ab43)
+    * [zio layers and framework integration](https://appddeevvmeanderings.blogspot.com/2020/05/zio-layers-and-framework-integration.html)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
@@ -889,6 +890,7 @@ Scala
   * [scala with cats 책 읽으면서 필기 Chapter 7 (Foldable and Traverse)](https://wingnim.tistory.com/117)
   * [Time traveling in tests with Cats Effect](https://blog.softwaremill.com/time-traveling-in-tests-with-cats-effect-b22084f6a89)
   * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
+  * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
   * Cats STM [Announcing Cats STM 0.7.0](https://medium.com/permutive/announcing-cats-stm-0-7-0-5af9a0f72920)
@@ -1102,6 +1104,7 @@ Scala
   * [#circe - Part 2 - #JSON Codecs](https://www.youtube.com/watch?v=OJhAptqtwYo)
   * [#circe - Part 3.1 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=0yMoYU-rodw)
   * [#circe - Part 3.2 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=L_u7uBHpmAU&feature=youtu.be)
+  * [#circe - Part 4 - Golden Testing](https://www.youtube.com/watch?v=vo7RgPm6Qh4)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
