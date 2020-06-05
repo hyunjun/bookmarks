@@ -230,6 +230,7 @@ Functional Programming
 * [The Universal Function Thoughts on JavaScript, Functions and Functional Programming](https://medium.com/@matthewcarltyson/the-universal-function-2e3b3fa063e6)
 * [What Is a Pure Function in JavaScript?](https://medium.freecodecamp.org/what-is-a-pure-function-in-javascript-acb887375dfe)
 * [Higher-order functions: what they are, and a React example](https://medium.freecodecamp.org/higher-order-functions-what-they-are-and-a-react-example-1d2579faf101)
+* [Higher Order Functions (Composing Software)](https://medium.com/javascript-scene/higher-order-functions-composing-software-5365cf2cbe99)
 * [JavaScript Immutability](https://opentutorials.org/module/4075)
 * [An introduction to Functional JavaScript](https://medium.freecodecamp.org/an-introduction-to-functional-javascript-e8dab63bb51d)
 * [선언형으로 대체 가능한 문법들 정리](https://chodragon9.github.io//blog/declarative-function/)
