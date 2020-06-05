@@ -171,9 +171,6 @@ Clojure
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
 * [The fastest Clojure REPL in the world](https://anmonteiro.com/2016/11/the-fastest-clojure-repl-in-the-world/)
 * [Application Configuration](http://realworldclojure.com/application-configuration/)
-* [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
-* [THE POWER OF CLOJURE: DEBUGGING](https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging)
-* [REPL Based Debugging in Clojure](https://medium.com/appsflyer/repl-based-debugging-in-clojure-278fb468a33)
 * [Micro-Services: Scala vs Clojure](http://glennengstrand.info/blog/?p=377)
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [the difference between cljs-devtools and dirac DevTools](https://groups.google.com/forum/#!topic/clojure/_g-13Ofh9B0)
@@ -499,6 +496,16 @@ Clojure
 # Conference
 * [DUTCH CLOJURE DAYS 2019](https://www.youtube.com/playlist?list=PLjzcwcP9P2Lfcz38lDtMF_XupRnecKokz)
 
+# Debug
+* [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
+* [THE POWER OF CLOJURE: DEBUGGING](https://cambium.consulting/articles/2018/2/8/the-power-of-clojure-debugging)
+* [REPL Based Debugging in Clojure](https://medium.com/appsflyer/repl-based-debugging-in-clojure-278fb468a33)
+* [Clojure observability and debugging tools](http://www.futurile.net/2020/05/16/clojure-observability-and-debugging-tools/)
+* [clj-debugger](https://github.com/razum2um/clj-debugger)
+* [debug-repl](https://github.com/gfredericks/debug-repl)
+* [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
+* [Sayid (siy EED) - a tool for debugging and profiling clojure code](http://bpiel.github.io/sayid/)
+
 # Excel
 * [Clojure Development Environment for Excel](https://github.com/whamtet/Excel-REPL)
 * [Integrating Excel and Clojure](https://medium.com/@tony_86605/integrating-excel-and-clojure-a417c39bd566)
@@ -550,7 +557,6 @@ Clojure
     * [debugging](https://cider.readthedocs.org/en/latest/debugging/)
   * [cider-kr.readthedocs.io/ko/latest](http://cider-kr.readthedocs.io/ko/latest/)
   * [CIDER Keyboard Shortcuts](http://www.cheatography.com/bilus/cheat-sheets/emacs-cider/)
-* [clj-debugger](https://github.com/razum2um/clj-debugger)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)
 * [clj-embed - A clojure library for using multiple clojure runtimes in a single jvm process](https://github.com/RutledgePaulV/clj-embed)
   * 하나의 jvm에서 여러 clojure 환경 사용 가능
@@ -599,8 +605,6 @@ Clojure
 * [Dativity - a stateless, data driven process engine library for Clojure and ClojureScript](https://github.com/agentbellnorm/dativity)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
-* [debug-repl](https://github.com/gfredericks/debug-repl)
-* [debux - A simple debugging library for Clojure and ClojureScript](https://github.com/philoskim/debux)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
@@ -726,7 +730,6 @@ Clojure
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
-* [Sayid (siy EED) - a tool for debugging and profiling clojure code](http://bpiel.github.io/sayid/)
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [shrubbery - A stubbing, spying, and mocking library for Clojure protocols](https://github.com/bguthrie/shrubbery)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
