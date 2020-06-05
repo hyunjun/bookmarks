@@ -788,6 +788,7 @@ Programming
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
+* [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -970,6 +971,7 @@ Programming
 * [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
 * [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
+* [코드리뷰 모음 서비스를 소개합니다](https://woowabros.github.io/techcourse/2020/06/05/techcourse-javable.html)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
