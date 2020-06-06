@@ -1144,6 +1144,7 @@ Scala
   * [Finatra Mysql Seed Project - Finatra + TypesafeConfig + Swagger + Slick + Quill with Mysql seed Project](https://github.com/ikhoon/finatra-mysql-seed)
   * [Finatra in a Haystack](https://medium.com/hotels-com-technology/finatra-in-a-haystack-e777f799ce38)
   * [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
+  * [Tip Finatra Default HttpClient 사용하기](https://charsyam.wordpress.com/2020/06/05/tip-finatra-default-httpclient-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/)
 * Play
   * [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)
   * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
