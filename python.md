@@ -1349,6 +1349,7 @@ Python
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
   * [Python Data Science Handbook - This repository contains the entire Python Data Science Handbook, in the form of (free!) Jupyter notebooks](https://github.com/jakevdp/PythonDataScienceHandbook)
   * [책 소개 - 온라인으로 공개되어 있는 책 활용하기, 파이썬 데이터 사이언스 핸드북 Python Data Science Handbook](https://www.youtube.com/watch?v=Rhqsrpc95ig)
+* [Python 데이터 분석 실무](https://wikidocs.net/book/1867)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 * [Python for Signal Processing Featuring IPython Notebooks](https://www.springer.com/gp/book/9783319013411)
   * [Python for Signal Processing](http://python-for-signal-processing.blogspot.com/)
@@ -2416,6 +2417,7 @@ Python
   * [Dynamic Code Instrumentation with Hacked Interpreters || James Powell](https://www.youtube.com/watch?v=38d_TbSRWAw)
   * [Blurb-it is now available](https://discuss.python.org/t/blurb-it-is-now-available/528) CPython contribution 방법
   * [Jean Baptiste Aviat Writing a C Python extension in 2017 PyCon 2017](https://www.youtube.com/watch?v=phe1s6p38gk)
+  * [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
