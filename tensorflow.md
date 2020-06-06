@@ -898,6 +898,7 @@ TensorFlow
   * [02. TENSORFLOW 모델 사용하기(WINFORM 앱)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp02.html)
   * [03-1 내가 만든 TENSORFLOW SLIM 모델 사용 (INCEPTIONV1 CKPT TO PB CONVERSION)](https://euhyeji.blogspot.com/2018/08/Tensorflowsharp031.html)
   * [03-2 내가 만든 TENSORFLOW SLIM 모델 사용 (INCEPTIONV1 PREPROCESSING IN TENSORFLOWSHARP)](https://euhyeji.blogspot.com/2018/08/tensorflowsharp032.html))
+* [TensorflowTTS - Real-Time State-of-the-art Speech Synthesis for Tensorflow 2](https://github.com/dathudeptrai/TensorflowTTS)
 * [Tensorlang, a differentiable programming language based on TensorFlow](https://github.com/tensorlang/tensorlang)
 * [TensorLy: Tensor Learning in Python](http://tensorly.org/)
   * 텐서 학습을 간단하고 접근하기 쉽게 만드는 것을 목표로하는 파이썬 라이브러리
