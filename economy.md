@@ -74,6 +74,7 @@ Economy
 * [제네바에서 온 편지: 백범 김구의 품삯 논쟁](http://slownews.kr/40341)
 * [빈부격차의 대물림, 기회의 평등은 갈수록 옛말이 되고 있다](http://ppss.kr/archives/37480)
 * [우리들의 일그러진 월급통장 당신의 월급은 대한민국 몇% 입니까?](http://interview.hankookilbo.com/v/ad198673cbd34caa8f4ab930007d8153/)
+* [월급명세서가 알려주지 않는 이야기: 자산 관점에서의 근로소득](https://141.nacyot.com/posts/2020/%ec%9b%94%ea%b8%89%eb%aa%85%ec%84%b8%ec%84%9c%ea%b0%80-%ed%95%b4%ec%a3%bc%ec%a7%80-%ec%95%8a%eb%8a%94-%ec%9d%b4%ec%95%bc%ea%b8%b0-%ec%9e%90%ec%82%b0-%ea%b4%80%ec%a0%90%ec%97%90%ec%84%9c%ec%9d%98/)
 * [부동산이 인생을 결정하는 나라](http://www.huffingtonpost.kr/taekyung-lee/story_b_7338624.html)
 * [이재용의 사익을 국익으로 포장하는 사람들](http://www.huffingtonpost.kr/daein-sun/story_b_7684770.html)
 * [IMF, 낙수효과 없다](http://ppss.kr/archives/46535)
