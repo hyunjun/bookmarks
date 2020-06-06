@@ -860,6 +860,7 @@ TensorFlow
   * [Not Hotdog with Keras and TensorFlow.js](https://morioh.com/p/b6dfa3bddc2e)
   * [Build A Machine Learning Image Classifier with TensorFlowJs](https://morioh.com/p/b468f80e2d0b)
   * [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html)
+  * [Build a machine learning node for Node-RED using TensorFlow.js](https://morioh.com/p/ffa96ba2cfaf)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
