@@ -1204,6 +1204,7 @@ Programming
 * [How to Debug Any Problem](https://hackernoon.com/how-to-debug-any-problem-ac6f8a867fae)
 * [오늘의 질문 2018.12.18](https://jojoldu.tistory.com/363) 디버깅에 대한 창천향로님 의견
 * [자바랑 자바스크립트랑 싸우면 누가 이길까?](https://ppss.kr/archives/149252) 프로그래밍 언어와 버그의 연관성
+* [디버깅과 야근](https://yisooan.wordpress.com/2020/06/06/debug-and-overwork/)
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
