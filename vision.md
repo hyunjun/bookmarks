@@ -312,6 +312,7 @@ Vision
 * [Object Detection — A Game Changer for Market Research](https://blog.karna.ai/object-detection-a-game-changer-for-market-research-19799b67fdb2)
 * [NSFW Tensorflow: Identifying objectionable content using Deep Learning](https://cv-tricks.com/tensorflow-tutorial/nsfw-tensorflow-identifying-objectionable-content-deep-learning)
 * [Realtime Multi-Person Pose Estimation 논문 리뷰 및 구현](https://www.mimul.com/blog/realtime-multi-person-pose-estimation/)
+* [Deep Learning at Scale: Distributed Training and Hyperparameter Search for Image Recognition Problems](https://www.infoq.com/presentations/train-large-models/)
 
 # JavaScript
 * [Build A Hand Detection App Tutorial](https://www.youtube.com/watch?v=s66w28knp80)
@@ -505,6 +506,7 @@ Vision
 * [076923.github.io/posts/#C#-OpenCvSharp4](https://076923.github.io/posts/#C#-OpenCvSharp4)
 * [Real-Time Face Mask Detector with TensorFlow, Keras, and OpenCV](https://towardsdatascience.com/real-time-face-mask-detector-with-tensorflow-keras-and-opencv-38b552660b64)
 * [FaceMask Detection using Tensorflow and OpenCV](https://towardsdatascience.com/facemask-detection-using-tensorflow-and-opencv-824b69cad837)
+* [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
 # OpenGL
