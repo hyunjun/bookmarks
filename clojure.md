@@ -757,6 +757,7 @@ Clojure
 # Style Guide, Formatting
 * [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
 * [The Clojure Style Guide](https://github.com/kwakbab/clojure-style-guide)
+* [Idiomatic Clojure: Code Smells](https://bsless.github.io/code-smells/)
 * [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
 
 # Transducer
