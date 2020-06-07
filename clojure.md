@@ -74,8 +74,6 @@ Clojure
 * [reddit.com/r/clojure](http://www.reddit.com/r/clojure)
 * Code Speak Loop
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)
-* [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
-* [The Clojure Style Guide](https://github.com/kwakbab/clojure-style-guide)
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
@@ -755,6 +753,11 @@ Clojure
 * [ultra - A Leiningen plugin for a superior development environment](https://github.com/venantius/ultra)
 * [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
+
+# Style Guide, Formatting
+* [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
+* [The Clojure Style Guide](https://github.com/kwakbab/clojure-style-guide)
+* [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
 
 # Transducer
 * [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)
