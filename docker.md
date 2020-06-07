@@ -422,6 +422,7 @@ Docker
 * [**LINUX CONTAINERS IN A FEW LINES OF CODE**](https://zserge.com/posts/containers/)
 * [Why strace doesn't work in Docker](https://jvns.ca/blog/2020/04/29/why-strace-doesnt-work-in-docker/)
 * [**Docker 컨테이너의 로그 크기 조절**](http://mcchae.egloos.com/11358726) logging
+* [Docker for Mac Edge 채널에 Mutagen 기반 캐싱 기능 추가](https://www.44bits.io/ko/post/news--docker-desktop-for-mac-edge-channel-with-mutagen-based-caching)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
