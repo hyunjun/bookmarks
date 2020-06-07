@@ -1886,6 +1886,7 @@ Python
   * [Getting Started With Flask-SQLAlchemy 2019](https://www.youtube.com/watch?v=jTiyt6W1Qpo)
   * [Use Flask-SQLAlchemy With Existing Database With Reflect and Automap](https://www.youtube.com/watch?v=UK57IHzSh8I)
   * [How to build a JSON API with Python](https://morioh.com/p/1a0fcdf316e7)
+  * [Flask-Sqlalchemy 소개](https://medium.com/@cks3443/flask-sqlalchemy-162a9034d9c9)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
