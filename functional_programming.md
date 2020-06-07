@@ -118,6 +118,7 @@ Functional Programming
 * [An Outsider's Guide to Statically Typed Functional Programming](https://leanpub.com/outsidefp/read_full)
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [스칼라 FP 관련 책들](https://gist.github.com/ikhoon/622605181b33839c95f3dd3df9ff8572)
+* [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
 
 # Category Theory
 * [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
