@@ -492,6 +492,7 @@ Programming Books
 * (NOT YET) [친절한 실전 딥러닝 수업](https://bjpublic.tistory.com/355)
   * [친절한 실전 딥러닝 수업](https://github.com/bjpublic/TMI-Deeplearning)
 * (NOT YET) [모두의 딥러닝(개정2판)](https://theorydb.github.io/review/2020/03/28/review-book-everyones-dl/)
+* (NOT YET) [딥러닝 머신러닝을 위한 파이썬 넘파이](http://www.kyobobook.co.kr/product/detailViewKor.laf?barcode=9791190283878)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
