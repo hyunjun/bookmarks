@@ -117,6 +117,10 @@ Julia
 * [bogumilkaminski.pl/files/julia_express.pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
 * [First Semester in Numerical Analysis with Julia](https://open.umn.edu/opentextbooks/textbooks/first-semester-in-numerical-analysis-with-julia)
 
+# Deep Learning
+* [Deep learning in Julia | AI & ML](https://hyeonji-ryu.github.io/categories/Deep-learning-in-Julia/)
+* [Mocha.jl: Deep Learning for Julia](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
+
 # Library
 * [Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA)
 * [Arraypocalypse](https://github.com/JuliaLang/julia/issues/13157)
@@ -143,7 +147,6 @@ Julia
 * [JuMP - a domain-specific modeling language for mathematical programming embedded in Julia](https://github.com/JuliaOpt/JuMP.jl)
 * [Juno - a powerful, free environment for the Julia language](http://junolab.org/)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
-* [Mocha.jl: Deep Learning for Julia](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
 * [Mux.jl gives your Julia web services some closure](https://github.com/JuliaWeb/Mux.jl)
 * [Nemo is a computer algebra package for the Julia programming language](http://nemocas.org/)
 * [OnlineStats.jl - On-line statistics for Julia](https://github.com/joshday/OnlineStats.jl)
