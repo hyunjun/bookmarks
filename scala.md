@@ -768,6 +768,9 @@ Scala
 * [Modern Systems Programming with Scala Native Write Lean, High-Performance Code without the JVM](https://pragprog.com/book/rwscala/modern-systems-programming-with-scala-native)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
+* [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
+  * [**Seriously Good Software**](https://docs.google.com/presentation/d/e/2PACX-1vR8mEHa7gi5qhrdCwzOGnACdWxYb4kZERtscQIRZkYnH4rBNo7-ZZ4wXLD1DbUwJkwW83OhezYFjRmH/pub) 전반적인 설계 흐름을 볼 수 있는 슬라이드
+  * [exercisesinstyle](https://bitbucket.org/mfaella/exercisesinstyle/)
 * [The Science of Functional Programming](https://github.com/winitzki/sofp)
 * [underscore.io ebook](http://underscore.io/books/)
   * [Essential Scala Book](https://underscore.io/books/essential-scala/)
@@ -945,6 +948,7 @@ Scala
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
+* [panopticon-tui - Terminal UI observability and diagnostic tool for Scala applications](https://github.com/ScalaConsultants/panopticon-tui)
 * [Polynote, The Next Jupyter?](https://medium.com/@harrison.miller13_28580/polynote-the-next-jupyter-f7e9903fdc12)
   * [Working with HTTP in Polynote](https://blog.softwaremill.com/working-with-http-in-polynote-d950dcfcd75f)
   * [Did Netflix just kill Databricks with releasing Polynote for free?](https://medium.com/@brianray_7981/did-netflix-just-kill-databricks-with-releasing-polynote-for-free-c2d1f6dc0da3)
