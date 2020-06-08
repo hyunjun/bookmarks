@@ -926,6 +926,7 @@ NLP
   * [MAC OSX에서 konlpy 설치 시 ImportError: No module named 'jpype' 오류 해결](http://corazzon.github.io/Konlpy_JPype_install_struggle)
   * [docker-ubuntu-konlpy](https://hub.docker.com/r/theeluwin/ubuntu-konlpy)
   * [파이썬과 커뮤니티와 한국어 오픈데이터](https://speakerdeck.com/e9t/paisseongwa-keomyunitiwa-hangugeo-opeundeiteo)
+  * [말뭉치를 이용한 한국어 용언 분석기 (Korean Lemmatizer)](https://lovit.github.io/nlp/2019/01/22/trained_kor_lemmatizer/)
 * [korean - A library for Korean morphology](https://pythonhosted.org/korean/ko/)
   * [gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2](https://gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2)
 * [Koshort - a Python project for Korean natural language processing... or maybe Korean domestic cat](https://github.com/koshort)
