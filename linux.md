@@ -233,6 +233,7 @@ Linux
   * [Use Curl to identify bottlenecks in your service layers](https://gist.github.com/adamkaplan/adf15f0d622f4932f4af)
   * [Is curl|bash insecure?](https://blog.sandstorm.io/news/2015-09-24-is-curl-bash-insecure-pgp-verified-install.html)
   * [서버 외부에 연결하기 전에 제대로 출력되는지 확인하기 - 완두블로그](https://wani.kr/posts/2016/07/15/curl-with-host/)
+  * [10 Curl Commands You Should Know](https://medium.com/100-days-of-linux/10-curl-commands-that-you-should-know-ee3d032eb351)
   * [**Curl Cookbook**](https://catonmat.net/cookbooks/curl)
     * [Announcing the Curl Cookbook](https://catonmat.net/announcing-curl-cookbook)
 * `cut`
