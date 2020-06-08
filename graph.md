@@ -151,6 +151,7 @@ Graph
   * [Using and Accessing neo4j-graphql with NodeJS](https://blog.grandstack.io/using-and-accessing-neo4j-graphql-with-nodejs-a687ecc7db0e)
   * [How to ingest data into Neo4j from a Kafka stream](https://medium.freecodecamp.org/how-to-ingest-data-into-neo4j-from-a-kafka-stream-a34f574f5655)
   * [Neo4j PageRank Algorithm and Path Pattern Matching on Flights Domain Model](https://medium.com/@vladbatushkov/one-month-graph-challenge-cayman-islands-714e0cdae8fd)
+  * [그래프 데이터베이스 Neo4j 첫만남](https://blog.naver.com/pjt3591oo/221994415065)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
