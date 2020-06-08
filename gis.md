@@ -15,6 +15,7 @@ GIS
 * [Open Geoscience Computing Repository](https://github.com/yohanesnuwara/open-geoscience-repository)
 * [국토교통부 실거래가 데이터 전처리](https://www.vw-lab.com/80?category=787869)
 * [공시지가 - 전국 모든 땅의 가격은 얼마나 높고 낮은가?](https://www.vw-lab.com/76?category=787869)
+* [Anton Balazh의 스톡 사진 및 이미지 포트폴리오](https://www.shutterstock.com/ko/g/antartis) 지형 고저차가 반영된 지구 이미지(개발x)
 
 # Python
 * 주소DB가지고놀기
