@@ -1809,6 +1809,7 @@ Programming
 * [2020년 5월 16일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-16.html) 노드 터미널 인터페이스, 여러 JDK 설치 선택, Deno v1.0, 셸스크립트 파이썬 사용, Bundlephobia, 깃랩 시스템 다이어그램, 원격 데스크톱 연결 멀티 모니터
 * [2020년 5월 23일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2020-5-23.html) 꼭 해야 하는 VSCode 설정, 크롬 확장 추천, HTTP 헤더를 잘 읽으면…
 * [2020년 5월 30일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-5-30.html) Vim, CORS, 스노우 팩, JWT 디코더, Latex.css & XP.css, 소셜로그인, VS Code, nginx 설정, 윈도우 파워토이, 윈도우 8이상 무선 네트워크
+* [2020년 6월 6일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-6.html) streamhut – 터미널 스트리밍, 오픈소스 모니터링 솔루션, 윈도우 심볼릭 링크, GPU 사용 터미널 alacrity
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
