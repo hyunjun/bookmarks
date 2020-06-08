@@ -104,6 +104,7 @@ Artificial Intelligence
 * [Artificial Intelligence Conference](https://conferences.oreilly.com/ai/ai-ca/public/schedule/proceedings)
 * [LF AI Foundation Interactive Landscape](https://landscape.lfai.foundation/)
 * [25 Best Artificial Intelligence Blogs To Follow In 2020](http://nextotech.com/25-best-artificial-intelligence-blogs-to-follow-in-2020/)
+* [AI의 새로운 비즈니스는 전통적인 소프트웨어와 어떻게 다른가](https://blog.naver.com/wacanycorp/221992686730)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
