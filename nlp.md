@@ -313,6 +313,7 @@ NLP
 * [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127)
 * [네이버 스마트 스토어 구매평을 통한 소비자 반응 분석(텍스트 분석) 프로젝트](https://github.com/seoulblanc/NaverStoreData)
 * [The Big Bad NLP Database - Quantum Stat](https://datasets.quantumstat.com/)
+* [100문제로 두드려 보는 자연어처리 2020 (Rev 1) - NLP100 2020](https://nlp100.github.io/ko/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
