@@ -34,7 +34,6 @@ NLP
 * [Deep Learning for NLP Best Practices](http://ruder.io/deep-learning-nlp-best-practices/)
 * [DAWG data structure in Word Judge](http://porcupineprogrammer.blogspot.kr/2012/03/dawg-data-structure-in-word-judge.html)
 * [A Simple Artificial Intelligence Capable of Basic Reading Comprehension](http://blog.ayoungprogrammer.com/2015/09/a-simple-artificial-intelligence.html)
-* [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
@@ -55,7 +54,6 @@ NLP
   * (NLP 처음 접하시는 분들을 위한)
   1. RNN enc-dec 부터 conv seq2seq 까지 간단한 흐름 정리
   2. conv s2s 이해를 위해 읽어야 할 논문 10+ 편
-* [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://research.microsoft.com/pubs/198202/cikm2013_DSSM_fullversion.pdf)
 * [시나브로 배우는 자연어처리](http://www.slideshare.net/shuraba1/ss-56479835)
   * [**시나브로 배우는 자연어처리 실습자료**](http://nbviewer.ipython.org/github/babelPish/nlp/blob/master/part5/studybreak_zip/babel_zip.ipynb)
 * [collocations.de - Association Measures](http://collocations.de/AM/index.html)
@@ -176,7 +174,6 @@ NLP
   * [CNN for MNIST #2](https://www.youtube.com/watch?v=3-Rvh-lgUcU&list=PLE_yleP-KQefhFSNh16hJKnq6stIG05fu&index=2)
   * [FFNN for 한글 띄어쓰기](https://github.com/bage79/nlp4kor/blob/master/ipynb/FFNN_for_word-spaceing.ipynb)
   * [DAE for 철자 오류 교정](http://nbviewer.jupyter.org/github/bage79/nlp4kor/blob/master/ipynb/DAE_for_spelling_error_correction.ipynb)
-* [Building A Gigaword Corpus Lessons on Data Ingestion, Management, and Processing for NLP](https://www.youtube.com/watch?v=j1DdGX2d9BE)
 * [Teaching Machines to Describe Images with Natural Language Feedback](http://www.cs.toronto.edu/~linghuan/feedbackImageCaption/)
 * [Sang-Kil Park's Jupyter Notebooks](https://github.com/likejazz/jupyter-notebooks)
 * [An Adversarial Review of “Adversarial Generation of Natural Language”](https://medium.com/@yoav.goldberg/an-adversarial-review-of-adversarial-generation-of-natural-language-409ac3378bd7)
@@ -230,7 +227,6 @@ NLP
 * [PyConKr 2018 Why I learn, How I learn](https://github.com/songys/pycon2018_keynote/blob/master/PyCon_2018_youngsooksong.pdf)
 * [Analogy and Analogical Reasoning](https://plato.stanford.edu/entries/reasoning-analogy/)
 * [딥러닝이 탐구하지 못한 언어와 5가지 태스크](https://brunch.co.kr/@kakao-it/295)
-* [handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
 * [How NLP is Automating the complete Text Analysis Process for Enterprises?](https://blog.paralleldots.com/data-science/nlp/nlp-is-automating-the-complete-text-analysis)
 * [강화학습을 자연어 처리에 이용할 수 있을까? (보상의 희소성 문제와 그 방안)](https://tv.naver.com/v/4336217)
 * [NLP's ImageNet moment has arrived](http://ruder.io/nlp-imagenet/)
@@ -286,7 +282,6 @@ NLP
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 * [Talk Powerpoint Generator](https://korymath.github.io/talk-generator/)
 * [#자연어, #시퀀스를 위한 #재귀신경망 성능향상 기법! 대공개!! 첫번째!](https://www.youtube.com/watch?v=EZnG78g4moI)
-* [Justin J. Nguyen: Exposing Dark Data in the enterprise with custom NLP | PyData Miami 2019](https://www.youtube.com/watch?v=iFgNcBahUAE)
 * [Natural language processing of customer reviews](https://medium.com/hackernoon/natural-language-processing-of-customer-reviews-49dff6fd9e57)
 * [자연어 처리 Word representation](https://bcho.tistory.com/1345)
 * [Introduction to Natural Language Processing (NLP) and Bias in AI](https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-and-bias-in-ai-877d3f3ee680)
@@ -312,7 +307,6 @@ NLP
 * [Natural Language Processing(NLP) Real World Project in Web Using Flask:- Himanshu Tripathi](https://www.youtube.com/watch?v=7E_CtqM_nsE)
 * [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127)
 * [네이버 스마트 스토어 구매평을 통한 소비자 반응 분석(텍스트 분석) 프로젝트](https://github.com/seoulblanc/NaverStoreData)
-* [The Big Bad NLP Database - Quantum Stat](https://datasets.quantumstat.com/)
 * [100문제로 두드려 보는 자연어처리 2020 (Rev 1) - NLP100 2020](https://nlp100.github.io/ko/)
 
 # 띄어쓰기
@@ -707,6 +701,20 @@ NLP
 * [표준국어대사전.csv](https://github.com/mrchypark/stdkor)
 * [Facebook, NYU expand available languages for natural language understanding systems](https://code.fb.com/ai-research/xlni/)
 * [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
+
+# Data
+* [Justin J. Nguyen: Exposing Dark Data in the enterprise with custom NLP | PyData Miami 2019](https://www.youtube.com/watch?v=iFgNcBahUAE)
+* [handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
+* [Building A Gigaword Corpus Lessons on Data Ingestion, Management, and Processing for NLP](https://www.youtube.com/watch?v=j1DdGX2d9BE)
+* [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](http://research.microsoft.com/pubs/198202/cikm2013_DSSM_fullversion.pdf)
+* [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=1)
+* [The Big Bad NLP Database - Quantum Stat](https://datasets.quantumstat.com/)
+* [Mimesis - a package for Python, which helps generate big volumes of fake data for a variety of purposes in a variety of languages](https://github.com/lk-geimfari/mimesis)
+  * 기본적으로 Random 기반, 생성보다 Possible 한 목록이 기록된 json에서 내용 추출. 해쉬같이 완전히 무작위로 만드는 것도 존재
+  * API 설계를 쉽게 해 둬서, 자신만의 Generator 생성 및 기존의 Generator와 혼합 가능
+  * 1. local 특성에 따라 달라지는것; Address, Business, Datetime, Food, Person, Science, Text
+  * 2. local 특성과는 무관한것; Clothing, Code, Choice, Cryptographic, Development, File, Hardware, Internet, Numbers, Path, Structure, Transport, UnitSystem
+  * 3. 나만의 Generator는 BaseDataProvider 같은 것을 상속받아 작성
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
