@@ -759,6 +759,7 @@ Clojure
 * [The Clojure Style Guide](https://github.com/kwakbab/clojure-style-guide)
 * [Idiomatic Clojure: Code Smells](https://bsless.github.io/code-smells/)
 * [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
+  * [intellij-cljfmt-plugin](https://github.com/eunmin/intellij-cljfmt-plugin)
 
 # Transducer
 * [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)
