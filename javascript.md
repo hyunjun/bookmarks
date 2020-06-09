@@ -142,6 +142,7 @@ Javascript
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
 * [Data Structure For JavaScript](https://hg-pyun.github.io/data-structure-for-javascript/)
+* [7 JavaScript data structures you must know](https://medium.com/javarevisited/7-javascript-data-structures-you-must-know-95123122cc39)
 * [Traffic Jams in Javascript](http://bit-player.org/2015/traffic-jams-in-javascript)
 * [Fluent JavaScript](http://nikas.praninskas.com/javascript/2015/04/26/fluent-javascript/)
 * [Pseudosynchronous JavaScript](https://codewords.recurse.com/issues/three/pseudosynchronous-javascript)
