@@ -1166,5 +1166,6 @@ App
   * [Installation Instructions for WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
   * [WSL2 will be generally available in Windows 10, version 2004](https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/)
   * [WSL2, 외부 네트워크와 연결하기](https://codeac.tistory.com/118)
+  * [X-Window on Docker on WSL 2](https://jehyunlee.github.io/2020/06/09/Python-General-5-wdvx/)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
