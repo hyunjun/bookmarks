@@ -1025,11 +1025,6 @@ Python
     * [practice devpi - private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
 * signal
   * [함수가 완료되는데에 너무 오래 걸릴 때, timeout시키기](https://hashcode.co.kr/questions/2203/%ED%95%A8%EC%88%98%EA%B0%80-%EC%99%84%EB%A3%8C%EB%90%98%EB%8A%94%EB%8D%B0%EC%97%90-%EB%84%88%EB%AC%B4-%EC%98%A4%EB%9E%98-%EA%B1%B8%EB%A6%B4-%EB%95%8C-timeout%EC%8B%9C%ED%82%A4%EA%B8%B0)
-* smtplib
-  * [practice - basic example](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-python_smtplib-md)
-  * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
-  * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
-  * [How to Send an Email With Attachments in Python](https://medium.com/better-programming/how-to-send-an-email-with-attachments-in-python-abe3b957ecf3)
 * socket
   * [Python Network Programming](http://www.tutorialspoint.com/python/python_networking.htm)
   * [High-performance Networking with Python](https://www.pycon.kr/2016apac/program/23)
@@ -1674,6 +1669,12 @@ Python
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 * [exchangelib - Python client for Microsoft Exchange Web Services (EWS)](https://github.com/ecederstrand/exchangelib)
+* smtplib
+  * [practice - basic example](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-python_smtplib-md)
+  * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
+  * [파이썬 이메일보내기](https://blog.naver.com/edy5016/221182492100)
+  * [How to Send an Email With Attachments in Python](https://medium.com/better-programming/how-to-send-an-email-with-attachments-in-python-abe3b957ecf3)
+  * [Bruteforcing Emails Using a Simple Python Script](https://www.thelinuxrain.com/articles/bruteforcing-emails-using-a-simple-python-script)
 
 # Excel, Spreadsheet
 * [How To Use Excel VBA In Python](https://www.youtube.com/watch?v=Jd2PtDV5mL0)
