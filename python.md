@@ -3297,6 +3297,7 @@ Python
 * [랜덤한 데이터로 DataFrame 생성 및 원하는 행과 열 데이터 선택하기 미래 실험실 pYTHON](http://ehpub.co.kr/random-dataframe-select-column-row-python/)
 * [금 시세 분석하기(feat. Pandas)](https://www.youtube.com/watch?v=ZqjS5wCeWnE)
 * [Calculating Streaks in Pandas](https://joshdevlin.com/blog/calculate-streaks-in-pandas/)
+* [3 Excel Functions and How to Do Them in Python!](https://towardsdatascience.com/excel-functions-in-python-17d35defebdd)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [vaex - Out-of-Core DataFrames for Python, ML, visualize and explore big tabular data at a billion rows per second. https://vaex.io ](https://github.com/vaexio/vaex/)
