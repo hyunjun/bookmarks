@@ -591,6 +591,7 @@ Javascript
 * [Should You Stop Using .forEach() in Your JavaScript Code?](https://medium.com/better-programming/should-you-stop-using-foreach-in-your-javascript-code-efe1e86c78e5)
 * [Learn JavaScript Fundamentals-Global Scope](https://medium.com/swlh/javascript-fundamentals-global-scope-71ba5e48dbae)
 * [JS 꼴랑이거(2) - setTimeout에서 발생하는 Exception 잡아내기 - 완두블로그](https://wani.kr/posts/2015/03/09/js-something-2-catchable-settimeout-exception/)
+* [Little Unknown Way To Get Rid Of Switch Statements](https://medium.com/javascript-in-plain-english/a-little-unknown-way-to-get-rid-of-switch-statements-15c2584f51b9)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
