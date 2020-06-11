@@ -385,6 +385,7 @@
 * [backtobazics.com/category/big-data/spark](http://backtobazics.com/category/big-data/spark/) example of API
 * [APACHE SPARK: RDD, DATAFRAME OR DATASET?](http://www.agildata.com/apache-spark-rdd-vs-dataframe-vs-dataset/)
 * [Learn Spark Scala with Clara: RDD](https://medium.com/@onsbouneb1/learn-spark-scala-with-clara-rdd-9395bd01cd52)
+* [A modern guide to Spark RDDs](https://medium.com/@LeoLezcano/a-modern-guide-to-spark-rdds-725cd7c14059)
 * [Apache Spark’s Hidden REST API](http://arturmkrtchyan.com/apache-spark-hidden-rest-api)
 * [Spark Session vs Spark Context](https://medium.com/@achilleus/spark-session-10d0d66d1d24)
 * Exploring Spark DataSource V2
