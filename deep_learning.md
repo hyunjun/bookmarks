@@ -2253,6 +2253,7 @@ CVPR2016)
 * [Reinforcement Learning in Recommender Systems: Some Challenges](https://slideslive.com/38916907/reinforcement-learning-in-recommender-systems-some-challenges)
 * [강화학습기초(MDP, Monte-Carlo, Time-difference, sarsa, q-learning) 파트1](https://www.slideshare.net/LeejinJeong/mdp-montecarlo-timedifference-sarsa-qlearning-1)
 * [강화학습 기초 2(Deep sarsa, Deep Q-learning, DQN)](https://www.slideshare.net/LeejinJeong/deep-sarsa-deep-qlearning-dqn-102870420)
+* [Reinforcement Learning](https://teamdable.github.io/techblog/Reinforcement-Learning) 기초
 * [Prologue](https://sumniya.tistory.com/1)
 * [Deep Reinforcement Learning, Summer 2019 (Samsung)](https://github.com/dongminlee94/Samsung-DRL-Code)
 * [How to study Reinforcement Learning](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki)
