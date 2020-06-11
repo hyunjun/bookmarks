@@ -391,6 +391,7 @@ NLP
 * [nn.utils.prune 모듈로 BERT 파라미터 Pruning 해보기](https://github.com/Huffon/nlp-various-tutorials/blob/master/pruning-bert.ipynb)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
+* [publicservant_AI](https://github.com/kimwoonggon/publicservant_AI)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
@@ -1269,6 +1270,7 @@ NLP
 * [Understand Text Summarization and create your own summarizer in python - An Introduction to Text Summarization](https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70)
 * [Text Summarization on the Books of Harry Potter](https://towardsdatascience.com/text-summarization-on-the-books-of-harry-potter-5e9f5bf8ca6c)
 * [Simple Text Summarizer Using Extractive Method](https://towardsdatascience.com/simple-text-summarizer-using-extractive-method-849b65c2dc5a)
+* [분석 DeepTitle : 한국어 기사 자동 요약](https://www.slideshare.net/BOAZbigdata/deeptitle)
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
