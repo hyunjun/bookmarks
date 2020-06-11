@@ -655,6 +655,7 @@ App
 * [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
 * [12 Terminal Tips and Tricks Using macOS and HomeBrew](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb)
 * ['최소 비용에 최대 기능' 맥 사용자를 위한 무료 앱 30가지](http://www.itworld.co.kr/news/150073)
+* [맥북 사면 바로 설치하는 무료 앱 9가지!](https://www.youtube.com/watch?v=q7CGf6bJ8AA) Spectacle, Appcleaner, Weather bug, Itsycal, Keka, Amphetamine, Helium 3, Encrypto, Alfred
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
