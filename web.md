@@ -611,6 +611,7 @@ Web
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [Streamlit. The fastest way to build custom ML tools](https://www.streamlit.io/)
   * [파이썬 웹어플리케이션 맛보기 (feat. Streamlit)](https://lucaseo.github.io/2020/03/13/20200313-1/)
+  * [Flask’s Latest Rival in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)
 
 # Restful
 * [practice - restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
