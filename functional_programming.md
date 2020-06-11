@@ -128,6 +128,9 @@ Functional Programming
 * [What’s in a Name? The ABC’s of Category Theory and Functional Programming](https://medium.com/@magdastenius/whats-in-a-name-2a7e75bb4faf)
 * [Data Juggling - Part 5 - Curry-Howard-Lambek Correspondence](https://www.youtube.com/watch?v=8l8ZCWgyFrw)
 * [Category Theory - Chapter 1: Basic Constructions](https://www.youtube.com/playlist?list=PL4FD0wu2mjWOtmhJsiVrCpzOAk42uhdz8)
+* [Wolfram Physics Project: Relations to Category Theory](https://www.youtube.com/watch?v=0LAtNXo9rbE)
+  * 스테판 울프럼이 온라인 세션으로 다른 물리학자들과 진행한 "Relations to Category Theory"
+  * 4시간 가까이 이론 설명 및 토론 + 매스매티카로 예제 구현, 어려움
 
 # Clojure
 * [Functional programming, meet OOP - The Startup - Medium](https://medium.com/swlh/functional-programming-meet-oop-3dc12a14e38e)
