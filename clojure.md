@@ -561,6 +561,7 @@ Clojure
   * 여러 버전의 라이브러리를 한 환경에서 사용 가능
 * [clj-http - An idiomatic clojure http client wrapping the apache client. Offically supported version. http://clojars.org/clj-http](https://github.com/dakrone/clj-http)
 * [clj-java-decompiler](https://github.com/clojure-goes-fast/clj-java-decompiler)
+* [clj-kondo - A linter for Clojure code that sparks joy](https://github.com/borkdude/clj-kondo)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
