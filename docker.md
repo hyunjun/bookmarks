@@ -537,6 +537,7 @@ Docker
 * [Continuous Integration with Docker - 송주영 선임 :: AWS Container Day](http://www.slideshare.net/awskorea/continuous-integration-with-docker-aws-container-day)
 * [I have a confession to make… I commit to master](https://hackernoon.com/i-have-a-confession-to-make-i-commit-to-master-6a804f334beb)
 * [How to set up continuous deployment in your home project the easy way](https://medium.freecodecamp.org/how-to-set-up-continuous-deployment-in-your-home-project-the-easy-way-41b84a467eed)
+* [How to run dockers on CI](https://blog.softwaremill.com/how-to-run-dockers-on-ci-28aad0d33c3a)
 
 # Convox
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)
