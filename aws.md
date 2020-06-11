@@ -222,6 +222,7 @@ AWS
 * [Installing and running Kafka on AWS instance (CentOS)](https://blog.knoldus.com/installing-and-running-kafka-on-aws-instance-centos/)
 * [AWS에 카프카 클러스터 설치하기(ec2, 3 brokers)](https://blog.voidmainvoid.net/325)
 * [AWS EC2(Amazon Linux)에 Java8 설치하기](http://jojoldu.tistory.com/261)
+* [설치의 정석 EC2에서 Java-Apache-Tomcat 설치하기](https://jhrogue.blogspot.com/2020/06/ec2-java-apache-tomcat.html)
 * [**당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들**](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
 * [AWS의 오픈 소스 활동을 소개합니다!](https://aws.amazon.com/ko/blogs/korea/onwards-to-the-year-of-open-source)
 * [How We Built an Intrusion Detection System on AWS using Open Source Tools](https://medium.com/@samuelabiodun/how-we-built-an-intrusion-detection-system-on-aws-using-open-source-tools-8b755e965d54)
@@ -562,6 +563,7 @@ AWS
 * [조정 용량을 통해 DynamoDB에서 균일하지 않은 데이터 액세스 패턴을 수용하는 방법](https://aws.amazon.com/ko/blogs/korea/how-amazon-dynamodb-adaptive-capacity-accommodates-uneven-data-access-patterns-or-why-what-you-know-about-dynamodb-might-be-outdated/)
 * [Spring Data DynamoDB와 JPA 함께 적용후 문제 발생시 해결방법](https://jojoldu.tistory.com/483)
 * [Spring Data DynamoDB와 Embedded 개발 환경 구축하기](https://jojoldu.tistory.com/484)
+* [AWS Lambda와 DynamoDB Streams를 활용한 트위터 포스팅봇 만들기](https://dev.classmethod.jp/articles/creating-twitter-posting-bot/)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
@@ -726,6 +728,7 @@ AWS
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [aws-ml-experimenter - Framework for running ML models on Amazon EC2 and analyzing results with Shiny](https://github.com/rikturr/aws-ml-experimenter)
 * [AWS Report - Tool For Analyzing Amazon Resources](https://www.kitploit.com/2020/01/aws-report-tool-for-analyzing-amazon.html)
+* [AWS SSM Send-Command · Actions · GitHub Marketplace](https://github.com/marketplace/actions/aws-ssm-send-command)
 * [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
 * Boto3
   * [Now Available – AWS SDK For Python (Boto3)](https://aws.amazon.com/ko/blogs/aws/now-available-aws-sdk-for-python-3-boto3/)
