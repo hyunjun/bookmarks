@@ -56,6 +56,9 @@ Regular Expression
 
 # Go
 * [Regex Tester - Golang](https://regex-golang.appspot.com/)
+ 
+# Haskell
+* [Well-Typed - The Haskell Consultants: Fix-ing regular expressions](https://well-typed.com/blog/2020/06/fix-ing-regular-expressions/)
 
 # Java
 * [정규 표현식과 응용 사례를 정리해보자](http://developer88.tistory.com/89)
