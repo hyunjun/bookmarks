@@ -1755,6 +1755,7 @@ Javascript
   * [Deno 1.0](https://deno.land/v1)
   * [Deno 1.0](https://han41858.tistory.com/50)
   * [From Node to Deno](https://dev.to/aralroca/from-node-to-deno-5gpn)
+  * [Quick Tip: Configure WebStorm for Deno](https://levelup.gitconnected.com/quick-tip-configure-webstorm-for-deno-9490cd785de3)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
@@ -2153,6 +2154,7 @@ Javascript
 * [실전형 리액트 Hooks | #0 1 Requirements](https://www.youtube.com/watch?v=9-_Xw1RUvj4)
 * [Did you know — createReducer Works with React Hooks. Here’s how](https://medium.com/free-code-camp/did-you-know-createreducer-works-with-react-hooks-heres-how-b324c558e12f)
 * [React useReducer hook](https://medium.com/trabe/react-usereducer-hook-2b1331bb768)
+* [One Cool Trick to Simplify Reducer Functions](https://medium.com/javascript-scene/one-cool-trick-to-simplify-reducer-functions-bbbffe488bb6)
 * [Learn Hooks in Just 5 Steps with Example](https://hackernoon.com/learn-hooks-in-just-5-steps-with-examples-44436e825f01)
 * [React Hooks + TS + functional = 아름다움](https://speakerdeck.com/ryunzae/react-hooks-plus-ts-plus-functional-equals-areumdaum)
 * [What is React Hooks? Learn in just 12 min](https://www.youtube.com/watch?v=pmd2uvCfPWw)
@@ -2441,6 +2443,7 @@ Javascript
 * [React Native: Background Task Management in iOS](https://medium.com/@rossbulat/react-native-background-task-management-in-ios-d0f05ae53cc5)
 * [React Native용 오픈소스 만들기](https://dev-yakuza.github.io/ko/react-native/make-opensource-library/)
 * [Get Started with React Navigation 5 in React Native](https://medium.com/@rossbulat/getting-started-with-react-navigation-5-in-react-native-f82676294d2f)
+* [React Native's re-architecture in 2020](https://medium.com/swlh/react-natives-re-architecture-in-2020-9bb82659792c)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
