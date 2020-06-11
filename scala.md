@@ -694,6 +694,7 @@ Scala
     * [Moving From Kotlin + Spring Reactor + Arrow to Scala + ZIO](https://adrianfilip.com/2020/04/07/moving-from-kotlin-spring-reactor-arrow-to-scala-zio/)
     * [How to write a command-line application with ZIO](https://medium.com/scalac/how-to-write-a-command-line-application-with-zio-111b5af3ab43)
     * [zio layers and framework integration](https://appddeevvmeanderings.blogspot.com/2020/05/zio-layers-and-framework-integration.html)
+    * [How to write a command-line application with ZIO](https://medium.com/scalac/how-to-write-a-command-line-application-with-zio-111b5af3ab43)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
@@ -720,6 +721,9 @@ Scala
   * [**Compression; String <-> Array\[Byte\]**](https://gist.github.com/owainlewis/1e7d1e68a6818ee4d50e)
   * [String Interpolation In Scala](https://blog.knoldus.com/string-interpolation-in-scala-2/)
   * [An Invitation From Scala String Interpolation](https://blog.knoldus.com/an-invitation-from-scala-string-interpolation/)
+* sys
+  * process
+    * [Executing Shell Commands From Scala](https://medium.com/@mcamara89/executing-shell-commands-from-scala-7001f8868128)
 * time
   * [practice - DateTimeFormatter ZoneId ZonedDateTime](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391)
 * trait
@@ -734,6 +738,7 @@ Scala
   * [Back2Basics: Limit which classes a Trait can be mixed into!](https://blog.knoldus.com/back2basics-limit-which-classes-a-trait-can-be-mixed-into/)
   * [Guide to Trait Linearisation in Scala](https://medium.com/@shayan1337/guide-to-trait-linearisation-in-scala-60611571e088)
   * [Scala cake pattern Be simple, look stylish](https://medium.com/rahasak/scala-cake-pattern-e0cd894dae4e) class에 ~Impl을 붙이는 예
+  * [The Practical Difference between Abstract Classes and Traits in Scala](https://medium.com/swlh/the-practical-difference-between-abstract-classes-and-traits-in-scala-4e2fb8e03be)
 * tuple
   * [Scala Tuples – Syntax, Declaration, Use case, Examples](https://leobenkel.com/2019/10/scala-tuples/)
 * unapply
