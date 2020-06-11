@@ -313,6 +313,7 @@ Vision
 * [NSFW Tensorflow: Identifying objectionable content using Deep Learning](https://cv-tricks.com/tensorflow-tutorial/nsfw-tensorflow-identifying-objectionable-content-deep-learning)
 * [Realtime Multi-Person Pose Estimation 논문 리뷰 및 구현](https://www.mimul.com/blog/realtime-multi-person-pose-estimation/)
 * [Deep Learning at Scale: Distributed Training and Hyperparameter Search for Image Recognition Problems](https://www.infoq.com/presentations/train-large-models/)
+* [Face Recognition](https://towardsdatascience.com/face-recognition-using-deep-learning-b9be73689a23)
 
 # JavaScript
 * [Build A Hand Detection App Tutorial](https://www.youtube.com/watch?v=s66w28knp80)
