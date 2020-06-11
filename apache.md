@@ -546,6 +546,7 @@ Apache
 * [Kafka-client client.dns.lookup 옵션 정리](https://blog.voidmainvoid.net/331)
 * [How to Test Kafka Streams Applications](https://medium.com/better-programming/testing-kafka-streams-applications-1c5cb14c5376)
 * [기본 개념잡기](https://victorydntmd.tistory.com/344)
+* [Ordering of events in Kafka](https://medium.com/@siddhbhatt/ordering-of-events-in-kafka-e5692663e708)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
