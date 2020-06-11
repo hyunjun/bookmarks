@@ -111,6 +111,7 @@ Java
 * [4 Amazing Techniques for Writing Better Java](https://towardsdatascience.com/4-amazing-techniques-for-writing-better-java-6ad46b3c4a47)
 * [B급 프로그래머 2020년 5월 30일 개발자 이야기 자바 25주년 기념 특집(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-5-30-25.html)
   * [(05/30) 특집 자바 25주년 기념 이야기](https://www.youtube.com/watch?v=tJBxmVLu0xI)
+* [10 things you’re doing wrong in Java](https://towardsdatascience.com/10-things-youre-doing-wrong-in-java-7608e2f050c7)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -1126,6 +1127,7 @@ Java
 * [Build RESTful Services with Spring Boot 2.X in Few Steps](https://medium.com/@codespeaks/build-restful-services-with-spring-boot-2-x-in-few-steps-95c895a7abf5)
 * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
 * [스프링부트 10분만에 API 서버 만들기](https://www.youtube.com/watch?v=nrxzK_ky3uc)
+* [Spring Boot Code Quality Sonarqube](https://medium.com/trendyol-tech/spring-boot-2-2-6-code-quality-with-sonarqube-8-2-community-70a76634bf75)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
