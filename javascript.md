@@ -1879,6 +1879,7 @@ Javascript
 * [자바스크립트의 프로토타입 흝어보기](https://evan-moon.github.io/2019/10/23/js-prototype/)
 * [프로토타입을 사용하여 상속하기](https://evan-moon.github.io/2019/10/27/inheritance-with-prototype/)
 * [The Single Most Important Feature of JavaScript](https://medium.com/better-programming/the-single-most-important-feature-of-javascript-d65ae448eb19)
+* [prototype에 관하여 정리해 봅니다](https://developer88.tistory.com/277)
 
 # Purescript
 * [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
