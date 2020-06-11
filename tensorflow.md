@@ -1091,6 +1091,7 @@ TensorFlow
 * [Simple end-to-end TensorFlow examples](https://bcomposes.wordpress.com/2015/11/26/simple-end-to-end-tensorflow-examples/)
 * [**TensorFlow Examples**](https://github.com/aymericdamien/TensorFlow-Examples)
   * [초보자를 위한 텐서플로2 노트북](https://brunch.co.kr/@synabreu/78)
+  * [초보자를 위한 텐서플로1 노트북](https://brunch.co.kr/@synabreu/79)
 * [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
   * [Fizz Buzz in TensorFlow](https://tensorflowkorea.wordpress.com/2016/05/24/fizz-buzz-in-tensorflow/)
 * [Julia Ferraioli, Amy Unruh, Eli Bixby - Diving into Machine Learning through TensorFlow - PyCon 2016](https://www.youtube.com/watch?list=PLBkISg6QfSX9HL6us70IBs9slFciFFa4W&v=GZBIPwdGtkk)
