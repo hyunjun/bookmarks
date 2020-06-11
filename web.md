@@ -358,6 +358,7 @@ Web
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
+* [KoreaNewsCrawler: 대량의 뉴스 데이터를 수집하기 위해 만들어진 뉴스 크롤러입니다](https://github.com/lumyjuwon/KoreaNewsCrawler)
 * [newscatcher - Programmatically collect normalized news from (almost) any website.](https://github.com/kotartemiy/newscatcher)
 * [scrapy_community](https://github.com/onecue/scrapy_community)
   * [Web Crawling](https://www.youtube.com/playlist?list=PLWUxS6i2fXtip8sHElwRUubwWfLowlFA4)
