@@ -177,6 +177,7 @@ PyTorch
 * [XLNet-Pytorch arxiv:1906.08237 Simple XLNet implementation with Pytorch Wrapper!](https://github.com/graykode/xlnet-Pytorch)
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 * [KoBERT와 CRF로 만든 한국어 객체명인식기 (BERT+CRF based Named Entity Recognition model for Korean)](https://github.com/eagle705/pytorch-bert-crf-ner)
+* [Painless Fine-Tuning of BERT in Pytorch](https://medium.com/swlh/painless-fine-tuning-of-bert-in-pytorch-b91c14912caa)
 * [pytorch-bert - A implementation of BERT using PyTorch https://pypi.org/project/pytorch-bert ](https://github.com/jeongukjae/pytorch-bert)
 
 # Classification
