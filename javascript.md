@@ -453,6 +453,7 @@ Javascript
 * [JavaScript 배열(Array)의 발전과 성능에 대해서 자세히 알아보기](https://evan-moon.github.io/2019/06/15/diving-into-js-array)
 * [13 useful JavaScript array tips and tricks you should know](https://www.blog.duomly.com/13-useful-javascript-array-tips-and-tricks-you-should-know)
 * [자바스크립트 배열은 배열이 아니다](https://poiemaweb.com/js-array-is-not-arrray)
+* [8 Most Used Array Operations in JavaScript (ES6+)](https://medium.com/javascript-in-plain-english/8-most-used-array-operations-in-javascript-es6-77a574905d7a)
 * [소프트웨어가 얼마나 복잡해질 수 있는지에 대한 예제](https://tech.ssut.me/2018/06/03/an-example-of-how-software-becomes-complicated/)
 * [Master the Art of the AST and Take Control of Your JS](https://www.youtube.com/watch?v=C06MohLG_3s)
 * [JavaScript: Two face of identifier](https://blog.naver.com/sbshw1/221296823332)
