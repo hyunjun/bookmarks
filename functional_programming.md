@@ -105,6 +105,8 @@ Functional Programming
 * [Thinking in Functions, Part I: The Input/Output pattern](https://medium.com/@kettanaito/thinking-in-functions-part-i-the-input-output-pattern-d36e19e05e5f)
 * [프로그래머를 위한 논리학 - 0](https://ailrun.github.io/ko/post/logic-for-programmers-000/)
 * [프로그래머를 위한 논리학 - 1](https://ailrun.github.io/ko/post/logic-for-programmers-001/)
+* [The Essence of Functional Programming](https://medium.com/@Ratik96/the-essence-of-functional-programming-b6c7f6b74aee)
+* [The Functional Sandwich Principle](https://medium.com/walkme-engineering/the-functional-sandwich-principal-e6d138f6a579)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
