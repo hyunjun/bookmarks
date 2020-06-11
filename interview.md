@@ -437,6 +437,7 @@ Interview
 * [Interview: System/API design](https://stackoverflow.com/questions/14061381/interview-system-api-design)
 * [Top 50+ Web API Testing Interview Questions Ultimate list](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
 * [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/) polling vs. websocket, kafka, NiFi, Redis
+* [Scalability concepts: read-after-write consistency](https://medium.com/@avik.das/scalability-concepts-read-after-write-consistency-3ff70b71e1d1)
 
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
