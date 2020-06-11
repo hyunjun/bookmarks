@@ -184,6 +184,7 @@ Java
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/28)
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/29)
   * [Java UDP Client Server Program - UDP 프로그래밍](https://woolbro.tistory.com/30)
+  * [Fundamentals of UDP Socket Programming in Java](https://medium.com/javarevisited/fundamentals-of-udp-socket-programming-in-java-4a6972370592)
   * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
   * getHostAddress [사용자의 IP를 가져오기 (IPv4)](https://blog.naver.com/platinasnow/220332173012)
 * NIO
