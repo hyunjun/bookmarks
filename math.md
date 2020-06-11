@@ -86,6 +86,7 @@ Math
 * [랭크(rank), 차원(dimension)의 의미](https://losskatsu.github.io/linear-algebra/rank-dim/)
 * [Higher order Newton-like methods for root finding](https://www.johndcook.com/blog/2019/10/30/higher-order-newton/)
 * [The map of mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
+* [Math Insight](https://mathinsight.org/)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
