@@ -872,6 +872,7 @@
 * [Spark Plugin Framework in 3.0 - Part 5 : RPC Communication](http://blog.madhukaraphatak.com/spark-plugin-part-5/)
 * [Adaptive Query Execution in Spark 3.0 - Part 1 : Introduction](http://blog.madhukaraphatak.com/spark-aqe-part-1/)
 * [Adaptive Query Execution in Spark 3.0 - Part 2 : Optimising Shuffle Partitions](http://blog.madhukaraphatak.com/spark-aqe-part-2/)
+* [Webinar: A preview of Apache Spark 3.0](https://www.youtube.com/watch?v=g-qZslQsOuE)
 
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
