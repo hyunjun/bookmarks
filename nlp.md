@@ -779,6 +779,7 @@ NLP
 # Library
 * [Free Term Extractors](https://termcoord.wordpress.com/about/testing-of-term-extraction-tools/free-term-extractors/)
 * [Hugging Face "Tokenizers"와 PyTorch "Captum" 라이브러리 사용기](https://github.com/Huffon/nlp-various-tutorials/blob/master/tokenizers-captum.ipynb) ipynb
+  * [huggingface.co/nlp/viewer](https://huggingface.co/nlp/viewer/)
 * [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
 * 날개셋
   * [다음 버전 개발 근황](http://moogi.new21.org/tc/1360)
