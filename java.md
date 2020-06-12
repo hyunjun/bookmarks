@@ -521,7 +521,7 @@ Java
 * [Do It Yourself (OpenJDK) Garbage Collector](https://shipilev.net/jvm/diy-gc/)
 * [Oracle JDK 라이센스](https://qwefgh90.github.io//research/2019/10/11/Oracle-JDK과-라이센스.html)
 * [Open JDK의 변화](https://qwefgh90.github.io//research/2019/10/12/Open-JDK의-변화.html)
-* [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
+* [EP.07 OpenJDK 적용하고 벌써 1년, 뭐가 달라졌을까?](https://www.youtube.com/watch?v=BzJifsLXcNA)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
@@ -529,6 +529,7 @@ Java
 * [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
   * [Amazon Corretto, 장기 지원 멀티 플랫폼 OpenJDK 무료 배포판 사용하기](https://aws.amazon.com/ko/blogs/korea/amazon-corretto-multi-platfom-openjdk-distribution)
   * [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자/)
+* [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
 * [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
