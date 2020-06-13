@@ -298,6 +298,7 @@ Apache
   * A look at the inner workings of the Kafka consumers, with some real world recommendations for deploying them when there's high latency in talking to the Kafka cluster and/or a large number of partitions. There are tips on important metrics to monitor, configurations, garbage collector settings, and changing the partition.class to improve unbalanced consumers.
 * [KAFKA TUTORIAL: USING KAFKA FROM THE COMMAND LINE](http://cloudurable.com/blog/kafka-tutorial-kafka-from-command-line/index.html)
 * [Kafka Tutorial - Quick Start Demo](https://www.youtube.com/watch?v=6AYNxdKQ_0o)
+* [ClickHouse Kafka Engine Tutorial](https://www.altinity.com/blog/2020/5/21/clickhouse-kafka-engine-tutorial)
 * [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 * [Kafka frequent commands](https://gist.github.com/vkroz/05136cefdbb4fa61296993db17e1ae3f)
 * [Kafka in a Nutshell](http://sookocheff.com/post/kafka/kafka-in-a-nutshell/)
