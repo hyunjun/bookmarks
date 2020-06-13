@@ -73,6 +73,7 @@ SQL
 * [SQL Best Practices — Designing An ETL Video](https://hackernoon.com/sql-best-practices-designing-an-etl-video-1933665f9861)
 * [**DBMS 버퍼 관리의 두 가지 흐름 가상 메모리 페이지 교체 알고리즘 활용…페이지 부재 발생 빈도 줄여 성능 향상**](http://www.datanet.co.kr/news/articleView.html?idxno=115592)
 * [DBMS의 탄생과 발전, 그리고 역사](http://www.datanet.co.kr/news/articleView.html?idxno=114558)
+* [01 - History of Databases (CMU Databases / Spring 2020)](https://www.youtube.com/watch?v=SdW5RKUboKc&list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
 * [중국의 어떤 서버 개발자의 디비 설계](https://blog.naver.com/imays/221461537682)
   * [practice - 중국의 어떤 서버 개발자의 디비 설계](https://gist.github.com/hyunjun/0f83fd13165444e38645a74bc4e1c1f1#file-db_design-md)
 * [An explanation of the difference between Isolation levels vs. Consistency levels](https://dbmsmusings.blogspot.com/2019/08/an-explanation-of-difference-between.html)
@@ -88,6 +89,7 @@ SQL
 * [Choosing a Database Technology](https://towardsdatascience.com/choosing-a-database-technology-d7f5a61d1e98)
 * [The Best Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+* [SQL Query Formatting Tools Used At Percona](https://www.percona.com/blog/2020/06/03/sql-query-formatting-tools-used-at-percona/)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
@@ -398,6 +400,8 @@ SQL
 * median 값 구하기 [SQL MySQL의와 계산의 중간에 간단한 방법](https://cnpnote.tistory.com/entry/SQL-MySQL%EC%9D%98%EC%99%80-%EA%B3%84%EC%82%B0%EC%9D%98-%EC%A4%91%EA%B0%84%EC%97%90-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B0%A9%EB%B2%95)
 * [MySql 의 기본 사용법과 주요 명령어들 총정리](https://developer88.tistory.com/20)
 * [Explain의 도움을 받아 Full Scan을 방지하자 #풀스캔 방지](https://developer88.tistory.com/326)
+* [MySQL (Percona XtraDB) slave replication crash resilience settings](https://dev.to/cosimo/mysql-percona-xtradb-slave-replication-crash-resilience-settings-3d8e)
+* [Improving MySQL Password Security with Validation Plugin](https://www.percona.com/blog/2020/06/03/improving-mysql-password-security-with-validation-plugin/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -494,6 +498,7 @@ SQL
 * [PostgreSQL, pg_shard, and what we learned from our failures](https://www.citusdata.com/blog/19-ozgun/265-postgresql-pgshard-and-what-we-learned-our-failures)
 * [A few PostgreSQL tricks](http://blog.endpoint.com/2015/01/a-few-postgresql-tricks.html)
 * [PostgreSQL replication with Londiste from Skytools 3](https://blog.lateral.io/2015/09/postgresql-replication-with-londiste-from-skytools-3/)
+* [Multi-Master Replication Solutions for PostgreSQL](https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql/)
 * [EXPLAIN - explained](http://jberkus.github.io/explain_explained/index.html)
 * [PostgreSQL Foreign Data Wrappers](https://www.kentik.com/postgresql-foreign-data-wrappers/)
 * [PostgreSQL Monitoring Cheatsheet](http://russ.garrett.co.uk/2015/10/02/postgres-monitoring-cheatsheet/)
@@ -531,6 +536,7 @@ SQL
 * [Oracle vs PostgreSQL: First Glance](https://rolkotech.blogspot.com/2020/05/oracle-vs-postgresql.html)
 * [How to Install Postgres 12](https://www.youtube.com/watch?v=tXFnplU0ous)
 * [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
+* [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
