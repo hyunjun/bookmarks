@@ -234,6 +234,7 @@ Programming Language
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
   * [type folding in guile](http://wingolog.org/archives/2015/10/29/type-folding-in-guile)
+* [Gravity - An embeddable programming language](https://marcobambini.github.io/gravity)
 * [Hack](http://hacklang.org/)
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
