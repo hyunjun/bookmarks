@@ -163,6 +163,7 @@ Vim
 * [Vim + Python + Bash - The Perfect Trio for Productivty](https://www.youtube.com/watch?v=pIgej7rE70E)
 * [vi 에디터 사용법 (vim editor)](https://blog.lael.be/post/7321)
 * [Chase Your VIM Demons Away](https://medium.com/better-programming/chase-your-vim-demons-away-4405168effc8)
+* [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
