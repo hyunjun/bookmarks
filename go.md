@@ -250,6 +250,7 @@ Go
 * [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
 * [**Request-Response Olympics — The Search For The Perfect Request-Response Protocol**](https://medium.com/perimeterx/rpc-olympics-the-search-for-the-perfect-rpc-protocol-269ae97f59cc)
 * [Spelunking Bluetooth LE with Go](https://towardsdatascience.com/spelunking-bluetooth-le-with-go-c2cff65a7aca)
+* [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
