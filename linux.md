@@ -3,9 +3,7 @@ Linux
 * [리눅스](https://opentutorials.org/course/2598)
 * [www.linuxjournal.com](https://www.linuxjournal.com/)
 * [Linux Fundamentals](https://www.youtube.com/playlist?list=PL8A83A276F0D85E70)
-* [linux-insides - A little bit about a linux kernel](https://github.com/0xAX/linux-insides)
 * [pubdata.tistory.com/category/Lecture_Linux](http://pubdata.tistory.com/category/Lecture_Linux)
-* [Multitasking in the Linux Kernel. Workqueues](http://kukuruku.co/hub/nix/multitasking-in-the-linux-kernel-workqueues)
 * [How to close a running process's socket](http://incoherency.co.uk/blog/stories/closing-a-socket.html)
 * [Why are there both TMP and TEMP environment variables, and which one is right?](http://blogs.msdn.com/b/oldnewthing/archive/2015/04/17/10608077.aspx)
 * [Linux Survival](http://linuxsurvival.com/)
@@ -13,7 +11,6 @@ Linux
 * [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
 * [A history of modern init systems (1992-2015)](http://blog.darknedgy.net/technology/2015/09/05/0/)
 * [brunch.co.kr/@alden](https://brunch.co.kr/@alden/)
-* [Timers in the Linux kernel](https://github.com/0xAX/linux-insides/blob/master/Timers/timers-1.md)
 * [High Performance Multi-core Networked and Storage Systems for Linux](http://natsys-lab.blogspot.kr/2015/09/fast-memory-pool-allocators-boost-nginx.html)
 * [Is it a good idea to show everybody what your server is doing?](http://drunken-security.at/archives/41)
 * [Raw graphics output on Linux: Part 1](http://orangejuiceliberationfront.com/raw-graphics-output-on-linux-part-1/)
@@ -84,7 +81,6 @@ Linux
 * [**Java, max user processes, open files**](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html)
   * [java, open files, max user processes](http://jojoldu.tistory.com/287)
 * [Julia's drawing](https://drawings.jvns.ca/)
-* [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [**Understanding disk usage in Linux**](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)
   * [번역 - Understanding disk usage in Linux](https://github.com/hatsari/article/blob/master/understanding_disk_usage_in_linux/understanding_disk_usage_in_linux_ko.md)
 * [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
@@ -199,6 +195,7 @@ Linux
   * `awk '{ gsub(/\xef\xbb\xbf/,""); print }' INFILE > OUTFILE` [remove ALL <U+FEFF>](https://gist.github.com/szydan/b225749445b3602083ed) 
   * [You are here: Home / Linux Commands / Getting Started With AWK Command](https://linuxhandbook.com/awk-command-tutorial/)
   * [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
+  * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
@@ -288,6 +285,7 @@ Linux
 * du
   * [du 명령어](https://johngrib.github.io/wiki/du/) `du -hs <directory>` `du -ckx | sort -n -r | head` 가장 용량이 큰 디렉토리 찾기
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
+  * [How to find the largest directories or largest files?](https://superuser.com/questions/276487/how-to-find-the-largest-directories-or-largest-files)
 * echo
   * `echo -e "..."` ['echo' without newline in a shell script](http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script)
 * `find`
@@ -349,6 +347,7 @@ Linux
   ```
   * [Play with Netcat in Ubuntu](https://www.unixmen.com/play-with-netcat-in-ubuntu/)
   * [네트워크 해킹계의 맥가이버칼이 있다? netcat (넷캣) 1편](https://www.youtube.com/watch?v=B1z8bW7_s1A)
+  * [**Streamhut - stream your terminal Share your terminal in real-time with anyone — without installing anything**](https://streamhut.io/)
 * nm
   * [How do I list the symbols in a .so file](http://stackoverflow.com/questions/34732/how-do-i-list-the-symbols-in-a-so-file)
 * nmap
@@ -375,6 +374,7 @@ Linux
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
   * [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/) pipe 동작 내부 설명
   * [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
+  * [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * ps
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
 * rdate [리눅스(Linux) 계열 운영체제에서 시간 동기화하기](https://jhrun.tistory.com/158)
@@ -594,11 +594,16 @@ Linux
   * numfmt [Formatting numbers at the command line](https://www.johndcook.com/blog/2019/10/30/numfmt/)
 
 # Kernel
+* [linux-insides - A little bit about a linux kernel](https://github.com/0xAX/linux-insides)
+* [Multitasking in the Linux Kernel. Workqueues](http://kukuruku.co/hub/nix/multitasking-in-the-linux-kernel-workqueues)
+* [Timers in the Linux kernel](https://github.com/0xAX/linux-insides/blob/master/Timers/timers-1.md)
+* [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [Initialization](https://github.com/0xAX/linux-insides/tree/master/Initialization)
 * [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/index.html)
 * [Kernel bypass](https://blog.cloudflare.com/kernel-bypass/)
 * [Linux kernel development](https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md)
 * [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
+* [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 
 ## Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
@@ -611,7 +616,9 @@ Linux
 * [X Server가 없이 사용이 가능한 리눅스용 콘솔(터미널용) 텍스트 모드 웹 브라우저](https://newstars.tistory.com/434)
   * Links, Lynx, w3m, Googler
 * [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
+* [20 productivity tools for the Linux terminal](https://opensource.com/article/20/6/productivity-tools-linux-terminal)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
+* [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
 * [broot - Get an overview of a directory, even a big one](https://dystroy.org/broot/)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
@@ -669,6 +676,7 @@ Linux
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
+* [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
 # Manjaro
@@ -893,3 +901,4 @@ Linux
 * [우분투 resolv.conf 세팅 정리 - 완두블로그](https://wani.kr/posts/2017/03/22/ubuntu-resolvconf-settings-summary/)
 * [Ubuntu 꼴랑이거(1) - 서버 시간이 차이가 날때.. - 완두블로그](https://wani.kr/posts/2015/04/23/ubuntu-something-1-time/)
 * [Ubuntu를 업그레이드 해보자 - 완두블로그](https://wani.kr/posts/2015/01/30/ubuntu-upgrade-12-to-14/)
+* [Ubuntu 20.04에서 sshfs 를 이용한 원격 폴더 마운트](https://kibua20.tistory.com/49)
