@@ -1393,6 +1393,7 @@ Python
 * [Elizaveta Shashkova - Debugging in Python 3.6: Better, Faster, Stronger](https://www.youtube.com/watch?v=sAvOZlbh9mQ)
   * [PEP 523 Experiments](https://github.com/elizaveta239/frame-eval)
 * PyConKr 2018 [**GDB와 strace로 Hang 걸린 Python Process 원격 디버깅**](https://www.slideshare.net/kym970918/gdb-strace-hang-python-process-110423511)
+* [Ultimate Guide to Python Debugging](https://martinheinz.dev/blog/24)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
 * PDB
   * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
@@ -2403,7 +2404,8 @@ Python
 * [Conductor - A system for testing distributed systems across a network](https://github.com/gvnn3/conductor)
 * [conference-tracker - Minimal-maintenance conference tracker](https://github.com/bamos/conference-tracker)
 * [Connexion - a framework that automagically handles HTTP requests based on OpenAPI Specification (formerly known as Swagger Spec) of your API described in YAML format](https://github.com/zalando/connexion/blob/master/README.rst)
-* [Coverage.py 4.0](http://nedbatchelder.com/blog/201509/coveragepy_40.html)
+* [Coverage.py — a tool for measuring code coverage of Python programs](https://coverage.readthedocs.io/)
+  * [Ned Batchelder: Blog: #coverage](https://nedbatchelder.com/blog/tag/coverage.html)
 * CPython
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
   * [CPython internals: A ten-hour codewalk through the Python interpreter source code](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
@@ -2986,6 +2988,7 @@ Python
 
 ## Library package install management
 * [My Python Development Environment, 2020 Edition](https://jacobian.org/2019/nov/11/python-environment-2020)
+* [**Overview of python dependency management tools**](https://modelpredict.com/python-dependency-management-tools)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * pip
