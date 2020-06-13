@@ -347,6 +347,7 @@ Programming
 * [Agile Software in the Real World: Responding vs Planning](https://medium.com/swlh/agile-software-in-the-real-world-responding-vs-planning-ade5c2ee8692)
 * [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
+* [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -673,6 +674,7 @@ Programming
 * [Service Mesh 란?](http://tech.cloudz-labs.io/posts/service-mesh/)
 * [Service Mesh 란?](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
 * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
+* [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
 * [Envoy Is the Real Deal](https://medium.com/rain-capital/envoy-is-the-real-deal-6deb755dd84f)
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
@@ -789,6 +791,9 @@ Programming
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
+* [What Comes after Microservices? Multi-Runtime Microservices with Bilgin Ibryam at QCon London](https://www.infoq.com/news/2020/03/multi-runtime-microservices/)
+* [Microservices considered harmful](https://blog.matthieud.me/2019/microservices-considered-harmful/)
+* [Controlled Chaos: Taming Organic, Federated Growth of Microservices](https://www.infoq.com/presentations/microservices-federated-growth/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -966,6 +971,7 @@ Programming
 * [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
 * [클린 코드: 애자일 소프트웨어 장인 정신 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/05/24/Clean-Code.html)
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
+* [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
 * [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
@@ -1067,6 +1073,7 @@ Programming
 * [I wrote a programming language. Here’s how you can, too](https://medium.freecodecamp.com/the-programming-language-pipeline-91d3f449c919)
 * [the super tiny compiler - Possibly the smallest compiler ever https://git.io/compiler ](https://github.com/hg-pyun/the-super-tiny-compiler-kr)
 * [KAIST CS420: Compiler Design](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
+* [Let's make a Teeny Tiny compiler, part 1 - Austin Z. Henley](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
