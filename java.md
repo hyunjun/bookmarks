@@ -847,6 +847,7 @@ Java
   * [Publish open source project to Maven with Sonatype](https://leobenkel.com/2019/10/open-source-to-maven-with-sonatype/)
   * [Maven 중앙 저장소에 업로드하는 방법](https://blog.silentsoft.org/archives/191)
   * [Maven Tips and Tricks](https://itnext.io/maven-tips-and-tricks-127ca293df50)
+* [Micronaut Servlet - a New Micronaut Project for Servlet API Developers](https://www.infoq.com/news/2020/05/micronaut-servlet-released/)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Mojave - Java Web MVC Framework](http://mojavemvc.org/)
 * Nexus
@@ -968,12 +969,12 @@ Java
   * [(1.5편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1-5%ED%8E%B8/)
   * [(2편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-2%ED%8E%B8/)
   * [(3편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-3%ED%8E%B8/)
-* Spring-MVC 읽기
-  * [#1. 나는 왜 오픈소스를 읽을까?](http://blog.woniper.net/364)
-  * [#2. 빌드](http://blog.woniper.net/365)
-  * [#3. Spring-MVC의 시작](http://blog.woniper.net/366)
+* Spring-MVC 읽기
+  * [#1. 나는 왜 오픈소스를 읽을까?](http://blog.woniper.net/364)
+  * [#2. 빌드](http://blog.woniper.net/365)
+  * [#3. Spring-MVC의 시작](http://blog.woniper.net/366)
   * [#4. AbstractContextLoaderInitializer](http://blog.woniper.net/367)
-  * [#5. AbstractDispatcherServletInitializer와 AbstractAnnotationConfigDispatcherServletInitialize](http://blog.woniper.net/368)
+  * [#5. AbstractDispatcherServletInitializer와 AbstractAnnotationConfigDispatcherServletInitialize](http://blog.woniper.net/368)
   * [#6. DispatcherServlet - @Controller는 어떻게 실행될까?](http://blog.woniper.net/369)
   * [#7. HandlerMapping](https://blog.woniper.net/370)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring MVC](https://woolbro.tistory.com/37)
@@ -1130,6 +1131,7 @@ Java
 * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
 * [스프링부트 10분만에 API 서버 만들기](https://www.youtube.com/watch?v=nrxzK_ky3uc)
 * [Spring Boot Code Quality Sonarqube](https://medium.com/trendyol-tech/spring-boot-2-2-6-code-quality-with-sonarqube-8-2-community-70a76634bf75)
+* [Certbot을 이용해 Iptime DDNS 도메인용 인증서 발급](https://bluedskim.github.io/posts/tech/certbot%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-iptime-ddns-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9A%A9-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89/)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
@@ -1148,6 +1150,8 @@ Java
 * [Java 어플리케이션 성능튜닝 Part2](https://www.slideshare.net/songaal/java-part2-144045817)
 * [Java 어플리케이션 성능튜닝 Part3](https://www.slideshare.net/songaal/java-part3)
 * [11 Simple Java Performance Tuning Tips](https://stackify.com/java-performance-tuning/)
+* [Performance of Modern Java on Data-Heavy Workloads, Part 1 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1)
+* [Performance of Modern Java on Data-Heavy Workloads, Part 2 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part2)
 
 # Reactive
 * [Reactive Programming with JDK 9 Flow API](https://community.oracle.com/docs/DOC-1006738)
