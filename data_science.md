@@ -578,6 +578,7 @@ Data Science
 * [넷플릭스와 아마존](https://www.skyer9.pe.kr/wordpress/?p=539)
 * [LINE Timeline의 새로운 도전 1편 – 추천 컨텐츠 탐색을 위한 Discover와 새로운 구독 모델 Follow](https://engineering.linecorp.com/ko/blog/a-new-challenge-for-line-timeline-1/)
 * [추천(Recommendation) 시스템 - 알고리즘 Trend 정리](https://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
+* [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
