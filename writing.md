@@ -85,3 +85,4 @@ Writing
 * [실전 Digital Tranformation 아이디어 공유](https://www.popit.kr/%EC%8B%A4%EC%A0%84-digital-tranformation-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B3%B5%EC%9C%A0/)
 * [The Mayfield Handbook of Technical & Scientific Writing](https://www.mit.edu/course/21/21.guide/toc.htm)
 * [2019년 11월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-2.html) 튜토리얼과 하우투 문서의 차이점
+* [Code Documentation. That ugly thing...](https://www.slideshare.net/ChristosManios/code-documentation-that-ugly-thing)
