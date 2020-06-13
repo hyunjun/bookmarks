@@ -474,7 +474,7 @@ Web
 * [load tester tool](http://loadtestertool.com/)
 * [locust - An open source load testing tool](http://locust.io/)
   * [locust - Scalable user load testing tool written in Python http://locust.io](https://github.com/locustio/locust/)
-  * [practice - neo4j rest api test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
+  * [practice - neo4j rest api test, command line test](https://gist.github.com/hyunjun/a163af26f51d64ba23f9)
   * [부하테스트를 위한 Locust](https://bcho.tistory.com/1369)
   * [Locust #2 - 분산 부하 테스팅 (with 쿠버네티스)](https://bcho.tistory.com/1371)
   * [ECS+Locust로 부하 테스트 진행하기](https://www.slideshare.net/YungonPark/ecslocust-232571377)
@@ -546,6 +546,7 @@ Web
 * [**NGINX에 대한 정리**](https://developer88.tistory.com/299)
 * [Nginx 하위 경로를 다른 서버로 보내기 - 완두블로그](https://wani.kr/posts/2016/07/01/nginx-proxy-settings/)
 * [**나는 nginx 설정이 정말 싫다구요**](https://juneyr.dev/nginx-basics)
+* [topngx - top for NGINX](https://github.com/gsquire/topngx)
 
 # Progressive Web App PWA
 * [The Future of Web - Progressive Web Apps](https://www.slideshare.net/GihyoJoshuaJang/the-future-of-web-progressive-web-app)
