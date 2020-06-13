@@ -41,6 +41,7 @@ PHP
 * [Reflection을 활용한 Closure Mockery - 완두블로그](https://wani.kr/posts/2015/05/17/mockery-closure/)
 * [Mess Detector에서 나만의 커스텀 룰셋 적용하기 - 완두블로그](https://wani.kr/posts/2015/04/13/phpmd-apply-my-rulesets/)
 * [PHP5.6 사용기. - 완두블로그](https://wani.kr/posts/2014/02/07/php56-changes/)
+* [PHP 7 — Getting Started and OOP Improvements](https://www.infoq.com/articles/php7-getting-started/)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
