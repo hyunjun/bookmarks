@@ -401,6 +401,7 @@ Business
 * [아마존의 제품 개발 방법 Working Backwards](http://curioe.com/5)
 * [PURSUIT: Framework for your next great product idea](https://uxdesign.cc/pursuit-a-product-framework-for-product-y-folks-9575244fe9d2)
 * [First principle thinking: 제 1원칙 기반의 사고방식](https://www.andrewahn.co/product/first-principle-thinking/)
+* [PM/PO가 되어서는 안되는 사람](https://brunch.co.kr/@hyungsukkim/121)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
