@@ -164,6 +164,8 @@ Android
 * [안드로이드의 BuildConfig 활용](http://sunphiz.me/wp/archives/3557)
 * [Android의 View, Canvas, Surface 그리고 Window에 관한 정리](https://developer88.tistory.com/225)
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
+* [Android Emulator 30.0.10 ~ Freeform Window Mode](http://pluu.github.io/blog/android/emulator/2020/06/14/emulator-freeform/)
+* [요약 What's New in Android Development Tools (Android 11 Beta Launch)](http://pluu.github.io/blog/android/io20/2020/06/14/io20-whats-new-in-android-development-tools/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
