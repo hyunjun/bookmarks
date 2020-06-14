@@ -33,8 +33,6 @@ AWS
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
 * [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
 * [Building an API with Amazon’s API Gateway](https://hackingandslacking.com/building-an-api-with-amazons-api-gateway-9204d9dec5c7)
-* [How to deploy a Serverless Machine Learning Microservice with AWS Lambda, AWS API Gateway and scikit-learn](https://medium.com/@patrickmichelberger/how-to-deploy-a-serverless-machine-learning-microservice-with-aws-lambda-aws-api-gateway-and-d5b8cbead846)
-  * [Serverless Machine Learning](https://github.com/patrick-michelberger/serverless-machine-learning)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
 * [AWS EC2에 HADOOP 설치하기](https://jungwoon.github.io/jungwoon.github.io/HADOOP-SETUP-EC2/)
@@ -71,7 +69,6 @@ AWS
 * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
 * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
-* [Machine learning with Amazon Rekognition and Elasticsearch](https://github.com/whitesoil/aws_elasticsearch)
 * [Deploying a 2 node Elasticsearch cluster on ec2 instance](https://blog.knoldus.com/deploying-a-2-node-elasticsearch-cluster-on-ec2-instance/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
@@ -277,7 +274,6 @@ AWS
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
 * [AWS Encryption SDK에서 Illegal key size Exception이 발생할 땐 Java Cryptography Extension을 설치하면 된다](https://medium.com/rainist-engineering/how-do-we-resolve-aws-crypto-exception-2c12c152e6d9)
 * [Introduction to AWS Batch](https://github.com/DevStarSJ/Study/blob/master/Blog/Cloud/AWS/Batch/aws-batch-tutorial.md)
-* [Machine Learning - Built on the AWS Cloud. Developed for Amazon developers and engineers. Available now](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)
 * [AWS: Some Tips for Avoiding Those “Holy Bill” Moments](https://hackernoon.com/aws-some-tips-for-avoiding-those-holy-bill-moments-9e48e0cb1a83)
 * [5 AWS Services You Should Avoid!](https://medium.com/teamzerolabs/5-aws-services-you-should-avoid-f45111cc10cd)
 * [개발자를 위한 AWS Toolkits for PyCharm 정식 출시 – IntelliJ 및 Visual Studio Code(미리 보기)](https://aws.amazon.com/ko/blogs/korea/new-aws-toolkits-for-pycharm-intellij-preview-and-visual-studio-code-preview/)
@@ -692,12 +688,6 @@ AWS
 * [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
 * [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
 * [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
-* [Pure serverless machine learning inference with AWS Lambda and Layers](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49)
-  * AWS에서의 순수 Serverless ML 추론
-  * 서버리스 배포 환경에서 서버리스를 유지하고 비용을 낮추고 유연한 확장을 허용하려면 순수한 AWS Lmbda 기반 ML 모델 추론이 바람직
-  * 이러한 접근 방식은 REST 인터페이스와 API Gateway endpoint를 통해 실행하는 것과 같은 몇 가지 주의 사항이 존재
-  * 더 큰 Lambda와 Step Function 프로덕션 배치에서는 REST 및 API Gateway 우회 경로없이 순수한 Lambda 이벤트로 트리거된 플로우를 호출 가능
-  * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
@@ -764,6 +754,19 @@ AWS
   * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
   * [Serverless API with Zappa 여기 에 있는 강좌를 기반으로 Zappa 개발환경을 구성합니다](https://github.com/skyer9/ServerlessApiWithZappa)
   * [Deploy a Serverless Flask App using Zappa](https://www.youtube.com/watch?v=Vl5wroVmSuk)
+
+# Machine Learning
+* [How to deploy a Serverless Machine Learning Microservice with AWS Lambda, AWS API Gateway and scikit-learn](https://medium.com/@patrickmichelberger/how-to-deploy-a-serverless-machine-learning-microservice-with-aws-lambda-aws-api-gateway-and-d5b8cbead846)
+  * [Serverless Machine Learning](https://github.com/patrick-michelberger/serverless-machine-learning)
+* [Machine learning with Amazon Rekognition and Elasticsearch](https://github.com/whitesoil/aws_elasticsearch)
+* [Machine Learning - Built on the AWS Cloud. Developed for Amazon developers and engineers. Available now](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)
+* [Deploying Machine Learning Models as API using AWS](https://medium.com/towards-artificial-intelligence/deploying-machine-learning-models-as-api-using-aws-a25d05518084)
+* [Pure serverless machine learning inference with AWS Lambda and Layers](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49)
+  * AWS에서의 순수 Serverless ML 추론
+  * 서버리스 배포 환경에서 서버리스를 유지하고 비용을 낮추고 유연한 확장을 허용하려면 순수한 AWS Lmbda 기반 ML 모델 추론이 바람직
+  * 이러한 접근 방식은 REST 인터페이스와 API Gateway endpoint를 통해 실행하는 것과 같은 몇 가지 주의 사항이 존재
+  * 더 큰 Lambda와 Step Function 프로덕션 배치에서는 REST 및 API Gateway 우회 경로없이 순수한 Lambda 이벤트로 트리거된 플로우를 호출 가능
+  * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
