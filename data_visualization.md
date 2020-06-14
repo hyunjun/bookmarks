@@ -293,6 +293,8 @@ Data Visualization
 * [Pylsy - a simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables](https://github.com/Leviathan1995/Pylsy)
 * [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)
 * [**pytudes - Python programs to practice or demonstrate skills**](https://github.com/norvig/pytudes)
+* [The PyVista Project](https://www.pyvista.org/)
+  * [pyvista - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)](https://github.com/pyvista/pyvista)
 * [PyViz](http://pyviz.org/)
   * [Materials for PyViz talk at PyDataDC 2018 - building up to the creation of this dashboard](https://github.com/jsignell/pydata_dc_2018)
   * [Making interactive visualizations easy, inside and outside of notebooks - Julia Signell](https://www.youtube.com/watch?v=X4sK0R7U218)
