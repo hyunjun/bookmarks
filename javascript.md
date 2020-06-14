@@ -138,6 +138,7 @@ Javascript
 * [프론트엔드 면접 핸드북 - 자바스크립트 (1)](https://blog.rhostem.com/posts/2020-04-12-fe-interview-handbook-js-1)
 * [프론트엔드 면접 핸드북 - 자바스크립트 (2)](https://blog.rhostem.com/posts/2020-04-13-fe-interview-handbook-js-2)
 * [프론트엔드 면접 핸드북 - 자바스크립트 (3)](https://blog.rhostem.com/posts/2020-04-14-fe-interview-handbook-js-3)
+* [프론트엔드 개발자 기술면접 인터뷰 질문 모음](https://realmojo.tistory.com/300)
 * [(고급) JavaScript 질문 목록](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
@@ -2336,6 +2337,7 @@ Javascript
 * [Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
 * [reactGo: Your One-Stop solution for a full-stack universal Redux App!](https://github.com/reactGo/reactGo)
 * [Creating your Second React Application: Managing State](https://medium.com/javascript-in-plain-english/creating-your-second-react-application-d6d50e3e1e91)
+* [How to Create Show & Hide Password Functionality in ReactJS](https://medium.com/@bryantjiminson/how-to-create-show-hide-password-functionality-in-reactjs-18e6a2b56bf4)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
