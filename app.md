@@ -492,6 +492,8 @@ App
     * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
+* [Bear App](https://bear.app/)
+  * [마크다운 노트앱 베어(Bear), 에디터 2.0 알파 공개 테스트 중](https://www.44bits.io/ko/post/news--markdown-note-app-bear-announced-new-alpha-editor)
 * [boostnote.io](https://boostnote.io/) Boostnote is an open source note-taking app made for programmers just like you
 * [ContentTools - A beautiful & small content editor](http://getcontenttools.com/)
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
