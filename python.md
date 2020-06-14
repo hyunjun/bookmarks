@@ -3580,6 +3580,7 @@ Python
 * [놓쳐서는 안 될' 파이썬의 새로운 기능 6가지](http://www.itworld.co.kr/news/142374) 3.8
 * [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
 * [Dictionary Merging and Updating in Python 3.9](https://medium.com/better-programming/dictionary-merging-and-updating-in-python-3-9-4ac67c667ce)
+* [New Features in Python 3.9](https://towardsdatascience.com/new-features-in-python39-2529765429fe)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)
