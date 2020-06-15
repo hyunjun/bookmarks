@@ -361,6 +361,7 @@ Functional Programming
 * [My FP Journey](https://zach-albia.github.io/posts/my-fp-journey)
 * [FUNCTIONAL PROGRAM (RE)DESIGN](https://www.scala-lang.org/2020/03/10/functional-program-re-design.html) coursera
 * [Functional Tree Traversal (In Scala)](https://medium.com/@muse.mekuria_89677/functional-algorithms-in-scala-3fbb32fd96af)
+* [What Functional Programming Is, What it Isn't, and Why it Matters](https://www.inner-product.com/posts/fp-what-and-why/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
