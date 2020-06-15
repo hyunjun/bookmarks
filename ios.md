@@ -97,6 +97,7 @@ iOS
 * [AppApp - A better search for the iTunes App Store](https://appapp.io/us)
 * Appium
   * [Appium 사용기 – IOS swift app UI 테스트](https://domich.wordpress.com/2017/04/19/appium-%EC%82%AC%EC%9A%A9%EA%B8%B0-ios-swift-app-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
+  * [테스트 자동화 프레임워크 - appium 도입](https://jybaek.tistory.com/873)
 * [AppStarterbeta - Build native iOS prototypes online](https://appstarter.io/)
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
 * [enClose is a HTML5 wrapper for iOS and OSX. http://enclose.erfan.me](https://github.com/fellowgeek/enClose)
