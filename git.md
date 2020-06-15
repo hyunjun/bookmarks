@@ -636,6 +636,7 @@ Git
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
 * [gitpod - One-Click Online IDE for GitHub](https://www.gitpod.io/)
+  * [Scala - Gitpod](https://www.gitpod.io/docs/languages/scala/)
 * [git-punish](http://git-punish.io/)
 * [GitQlient - a multi-platform Git client originally forked from QGit](https://francescmm.github.io/GitQlient/)
 * [git-quick-stats로 보는 다양한 Git 통계](http://developer88.tistory.com/95)
