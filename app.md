@@ -1107,6 +1107,7 @@ App
 * [My 7 Favorite Software Developer Productivity Tools](https://levelup.gitconnected.com/my-7-favorite-software-developer-productivity-tools-a4c13b0fc0af)
 * [**Free for developers**](https://free-for.dev) a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 * [**맥을 쓰는 닷넷 개발자들을 위한 도구들 모음**](https://blog.aliencube.org/ko/2019/12/05/tools-for-dotnet-devs-on-mac)
+* [윈도우 10(Windows 10) 2020년 5월 업데이트 릴리스 및 적용하기](https://www.44bits.io/ko/post/news--windows-2020-may-update-release)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
@@ -1182,5 +1183,6 @@ App
   * [WSL2, 외부 네트워크와 연결하기](https://codeac.tistory.com/118)
   * [X-Window on Docker on WSL 2](https://jehyunlee.github.io/2020/06/09/Python-General-5-wdvx/)
   * [Windows10 WSL2에 Docker 설치](https://bloodguy.tistory.com/1087)
+  * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
