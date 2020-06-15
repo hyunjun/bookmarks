@@ -476,6 +476,8 @@ Linux
   * [**tcpdump를 활용한 타임아웃 분석**](https://brunch.co.kr/@alden/38)
   * [Tcpdump Examples](https://hackertarget.com/tcpdump-examples/)
   * [tcpdump 기본 사용법](http://jojoldu.tistory.com/316)
+* `telnet`
+  * [telnet과 ssh가 어떻게 패킷을 날리는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/entry/telnet%EA%B3%BC-ssh%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%8C%A8%ED%82%B7%EC%9D%84-%EB%82%A0%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%8B%A4%EC%8A%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * `top`
   * [Can You Top This? 15 Practical Linux Top Command Examples](http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/)
   * [iftop 설치, 실시간 트래픽 확인하기](https://ash84.net/2017/11/16/iftop-show-traffic/)
