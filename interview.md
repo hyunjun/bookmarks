@@ -96,6 +96,7 @@ Interview
 * [좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
+* [개발자 면접 시 단골 질문 13개, 그리고 모범답안](http://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/153376)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
 * [**코딩 인터뷰 – part 2**](https://sangminpark.blog/2017/06/14/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-2/)
