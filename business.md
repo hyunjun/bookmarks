@@ -41,6 +41,7 @@ Business
 * [업무를 점검하는 3단계 프로세스](https://brunch.co.kr/@hyungsukkim/56)
 * [어떻게 일할까를 어떻게 정의할까](https://brunch.co.kr/@hyungsukkim/117)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
+* [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
 * [제일기획 크게 빗나간 광고비 매출 예측의 함의](http://mediagotosa.withstories.com/514) 전망이 어긋나면 그 의미에 대해 다시 생각해봐야 한다
 * [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
