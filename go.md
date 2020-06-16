@@ -79,7 +79,6 @@ Go
   * [Stupid Gopher Tricks](http://talks.golang.org/2015/tricks.slide#1)
 * [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
 * [An Exercise in Profiling a Go Program](http://thornydev.blogspot.kr/2015/07/an-exercise-in-profiling-go-program.html)
-* [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
 * [Setting Go variables from the outside](https://blog.cloudflare.com/setting-go-variables-at-compile-time/)
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
@@ -186,7 +185,7 @@ Go
   * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 * [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
-* [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
+* [Golang 패키지 이름(Package Names)](https://byounghoonkim.github.io/posts/golang-package-names/)
 * [Why Go Is Perfect For DevOps](https://www.youtube.com/watch?v=COCUqAwAbD0)
 * [Why Go Is Successful (aka Simplicity is Complicated)](https://www.youtube.com/watch?v=k9Zbuuo51go)
 * [Building a container from scratch in Go - Liz Rice (Microscaling Systems)](https://www.youtube.com/watch?v=Utf-A4rODH8)
@@ -332,6 +331,14 @@ Go
 * [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
 * [**컨테이너 내부 Go 애플리케이션 디버깅하기**](https://mingrammer.com/debugging-containerized-go-app/)
 
+# Docker
+* [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
+* [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
+* [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
+* [Containerize Your Go Developer Environment - Part 1 - Docker Blog](https://www.docker.com/blog/containerize-your-go-developer-environment-part-1/)
+* [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
+  * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
+
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
 * [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
@@ -399,8 +406,6 @@ Go
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
 * [go-candyjs - fully transparent bridge between Go and the JavaScript](https://github.com/mcuadros/go-candyjs)
-* [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
-  * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 * [GoCqlTable is a wrapper around the GoCql-driver that seeks to simplify working with the Cassandra database in Golang projects](https://github.com/elvtechnology/gocqltable)
 * [Go Crypto - Gotham Go](http://www.slideshare.net/NicholasSullivan/whats-new-in-go-crypto-gotham-go)
 * [go-datastructures](https://github.com/Workiva/go-datastructures)
@@ -464,7 +469,6 @@ Go
 * [Microsoft Azure SDK for Go](https://github.com/Azure/azure-sdk-for-go)
 * [minio - minimal object storage](https://minio.io/)
   * [Minimal Object Storage](https://github.com/minio)
-* [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
 * [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
