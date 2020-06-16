@@ -951,6 +951,7 @@ Docker
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
 * [오픈소스 간단 리뷰 - nomad : 가벼운 스케쥴러, 강력한 성능](http://tech.kakao.com/2017/01/25/nomad/)
+* [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/)
 
 # OpenStack
 * [공개된 카카오 오픈 스택 관련 공개 및 강의 자료](http://knight76.tistory.com/entry/%ED%8E%8C-%EA%B3%B5%EA%B0%9C%EB%90%9C-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D-%EA%B4%80%EB%A0%A8-%EA%B3%B5%EA%B0%9C-%EB%B0%8F-%EA%B0%95%EC%9D%98-%EC%9E%90%EB%A3%8C)
