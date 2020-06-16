@@ -89,6 +89,7 @@ Javascript
 * [최종 완성본! 자바스크립트로 생산성 앱 클론하기](https://www.youtube.com/watch?v=yLNuqWCUA8A)
 * [최종 완성본! 유튜브 클론 코딩!](https://www.youtube.com/watch?v=es8qBt3lNjE)
 * [A Netflix Web Performance Case Study Improving Time-To-Interactive for Netflix.com on Desktop](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
+* [**Case study: Analyzing Notion app performance · PerfPerfPerf**](https://3perf.com/blog/notion/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
 * [Learning path: the JavaScript language](https://www.pluralsight.com/blog/software-development/learning-path-the-javascript-language)
 * [60+ JavaScript Tutorials & Walkthroughs](https://codeburst.io/60-javascript-tutorials-walkthroughs-cb315cc1947e)
