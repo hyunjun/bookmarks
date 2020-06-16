@@ -90,6 +90,7 @@ Azure
 * [Live (S1E5): 파워앱으로 얼굴 인식 앱 만들기](https://www.youtube.com/watch?v=iIzT0f7UNjg)
 * [시계열 데이터 예측 애저 오토엠엘(Azure AutoML)](https://tykimos.github.io/2020/04/25/TimeSeriesForcast_Azure_AutoML/)
 * [Terraform Modules for Azure](https://github.com/rkttu/terraform-modules-for-azure)
+* [Elastic Observability 를 이용한 Azure 모니터링 #0 - YouTube](https://www.youtube.com/watch?v=jDGd4c62Rx4)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
