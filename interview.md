@@ -660,6 +660,7 @@ Interview
 * [페북 채용담당자의 조언: 이력서에서 가장 먼저 보는 것](http://ppss.kr/archives/60561)
 * [레쥬메 작성 팁 모음](https://www.facebook.com/groups/devresume/permalink/187460318308510/)
 * [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
+* [개발자 이력서 작성하기 (feat. 이력서 공개)](https://brunch.co.kr/@hee072794/132)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
