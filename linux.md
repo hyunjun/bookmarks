@@ -286,6 +286,7 @@ Linux
   * [du 명령어](https://johngrib.github.io/wiki/du/) `du -hs <directory>` `du -ckx | sort -n -r | head` 가장 용량이 큰 디렉토리 찾기
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
   * [How to find the largest directories or largest files?](https://superuser.com/questions/276487/how-to-find-the-largest-directories-or-largest-files)
+  * [컴퓨터 vs 책: 5분 따라하기 리눅스에서 용량을 가장 많이 차지하는 파일/디렉토리 찾기](https://jhrogue.blogspot.com/2020/06/5.html)
 * echo
   * `echo -e "..."` ['echo' without newline in a shell script](http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script)
 * `find`
@@ -744,6 +745,7 @@ Linux
   * [fundle - A minimalist package manager for fish inspired by Vundle](https://github.com/tuvistavie/fundle)
 * [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
   * `journalctl -u <service name> > <file name>` [How to see full log from systemctl status service?](https://unix.stackexchange.com/questions/225401/how-to-see-full-log-from-systemctl-status-service/225407) system service를 시작할 수 없는 경우
+  * [journalctl 사용법 :: Sysops Notepad](https://sysops.tistory.com/115)
 * [lolcat - Rainbows and unicorns!](https://github.com/busyloop/lolcat)
 * [nixar - New shell commandsJoyable equivalents for existent linux commands](http://nixar.work)
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
