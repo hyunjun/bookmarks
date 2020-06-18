@@ -2133,6 +2133,7 @@ Python
 * [GPU Dashboards in Jupyter Lab](https://medium.com/rapids-ai/gpu-dashboards-in-jupyter-lab-757b17aae1d5)
 * [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
 * [Jupyter Notebooks in the IDE](https://towardsdatascience.com/jupyter-notebooks-in-the-ide-visual-studio-code-versus-pycharm-5e72218eb3e8)
+* [A Jupyter kernel for SQLite - Jupyter Blog](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
