@@ -195,6 +195,7 @@ Algorithm
 * [event driven ps 문제에서 간단하게 활용해 봅시다](https://codingdog.tistory.com/entry/event-driven-ps-%EB%AC%B8%EC%A0%9C%EC%97%90%EC%84%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%99%9C%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [실무 개발자에게 알고리즘은 덜 중요할까?](https://medium.com/@ghilbut/%EC%8B%A4%EB%AC%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-fcbab7f87074)
 * [실무 개발자에게 알고리즘은 덜 중요할까? (2)](https://medium.com/@ghilbut/%EC%8B%A4%EB%AC%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%9D%80-%EB%8D%9C-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-2-45714fc83e15)
+* [lis 알고리즘 : lower_bound 이용해서 그리디하게 해결해 봅시다](https://codingdog.tistory.com/entry/lis-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-lowerbound-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%A6%AC%EB%94%94%ED%95%98%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4) longest increasing sequence 최장 증가 수열
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
