@@ -576,6 +576,13 @@ Web
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
+* Consul
+  * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
+  * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
+* Keepalived
+  * [practice - keepalived 설정, postscript 예 등](https://gist.github.com/hyunjun/5ce7e52f250bdfc2314f692072db3f30)
+  * [keepalived + haproxy VIP 이중화 로드밸런싱 구축하기](https://blog.naver.com/hanajava/221626055915)
+  * [Keepalived를 활용하여 간단하게 HA 구성해보기](https://medium.com/@navercloudplatform/keepalived%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-ha-%EA%B5%AC%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0-c840b90149a5)
 * HAProxy
   * [HAProxy 설치](http://dewnine.tistory.com/7)
   * [HAProxy 설정 및 실행](http://arisu1000.tistory.com/27739)
@@ -583,6 +590,8 @@ Web
   * [HAProxy vs nginx: Why you should NEVER use nginx for load balancing!](https://thehftguy.com/2016/10/03/haproxy-vs-nginx-why-you-should-never-use-nginx-for-load-balancing/)
   * [Keepalived and HAProxy in AWS: An Exploratory Guide](https://blog.logentries.com/2014/12/keepalived-and-haproxy-in-aws-an-exploratory-guide/)
   * [HAProxy TCP 모드에서 내부 서버로 Source IP 전달하기](https://realhanbit.co.kr/books/141/pages/1256/read)
+  * [Docker기반 Redis 구축하기 - (8) HAProxy를 이용한 분산처리 환경 구축하기 | Carrey's 기술블로그](https://jaehun2841.github.io/2018/12/02/2018-12-02-docker-8/#haproxycfg-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1)
+  * [HAProxy 고가용성 설정](https://www.ibm.com/support/knowledgecenter/ko/SSYMRC_6.0.5/com.ibm.jazz.install.doc/topics/t_setup_haproxy_ha.html)
 * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
 
 # Python
