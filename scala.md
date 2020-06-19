@@ -1463,6 +1463,9 @@ Scala
 * [Type Inference by Example, Part 3](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-3-e9e2c27f1fb2)
 * [Type Inference by Example, Part 4](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-4-3aaca6400c7e)
 * [Type Inference by Example, Part 5](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-5-25d7a7c66ca6)
+* HasId pattern
+  * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
+  * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
