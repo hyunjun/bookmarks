@@ -288,6 +288,7 @@ ElasticSearch - Lucene
 * [Elastic 라이센스, 그리고 오픈 소스 에반젤리스트의 딜레마](http://kimjmin.net/2020/06/2020-06-elastic-devrel/)
 * [Real-Time Monitoring Fastly Metrics with the Elastic Stack and Haskell](https://www.elastic.co/blog/monitoring-fastly-with-elastic-stack-and-haskell)
 * [엘라스틱서치의 Async Search로 하둡의 배치 분석 유스케이스를 통합하기(1)](https://blog.naver.com/olpaemi/221998694138)
+* [엘라스틱서치(Elasticsearch)의 적절도(Relevance)를 향상시키는 방법들](https://blog.naver.com/olpaemi/222003279473)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
