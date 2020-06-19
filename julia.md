@@ -97,6 +97,7 @@ Julia
 * [Machine Learning on Encrypted Data Without Decrypting It](https://juliacomputing.com/blog/2019/11/22/encrypted-machine-learning.html)
 * [Does Julia have a future as a general high-performance language?](https://www.quora.com/Does-Julia-have-a-future-as-a-general-high-performance-language)
 * [Apart from the lack of libraries (if compared to Python, for example), is there any reason Julia wouldn't be a good general purpose programming language?](https://www.quora.com/Apart-from-the-lack-of-libraries-if-compared-to-Python-for-example-is-there-any-reason-Julia-wouldnt-be-a-good-general-purpose-programming-language)
+* [Bisection method - 1](https://otter275.tistory.com/18) 수치적 방법으로 방정식의 해를 근사적으로 찾는 iterative method중 가장 간단한 알고리즘
 
 # API
 * Pkg.add
