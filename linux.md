@@ -403,6 +403,8 @@ Linux
   * [How to Calculate Memory Usage in Linux using sar, ps, and free](https://www.thegeekdiary.com/how-to-calculate-memory-usage-in-linux-using-sar-ps-and-free/)
   * [How to view past performance with sar in Linux](https://www.thegeekdiary.com/how-to-view-past-performance-with-sar-in-linux/)
   * `sar -A -f /var/log/sa/sa<num>` num=01~29 [How do I get sar to show for the previous day?](https://unix.stackexchange.com/questions/5414/how-do-i-get-sar-to-show-for-the-previous-day)
+  * [Linux/Android CPU Usage (사용량) 계산 방법 – MKBlog](https://mkblog.co.kr/2018/08/06/linux-android-cpu-usage-calculation/)
+  * [Load Average에 대하여 :: Lunatine's Box — Lunatine's Box](https://lunatine.net/2016/02/19/about-load-average/)
 * `sed`
   * [Sed stream editor 가이드](https://mug896.github.io/sed-stream-editor)
   * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
