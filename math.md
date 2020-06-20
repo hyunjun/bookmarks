@@ -206,6 +206,7 @@ Math
 
 ## Linear Algebra Python
 * [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
+* [Simon Ward-Jones | Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
 * [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [linear_algebra_with_python](https://github.com/RRoundTable/linear_algebra_with_python)
 
