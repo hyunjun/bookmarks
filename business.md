@@ -291,6 +291,7 @@ Business
 * [회사에서 언프로페셔널 하다는 피드백을 들었다](https://brunch.co.kr/@svillustrated/53) 명확한 communication
 * [흔한 프로그래머의 작명에 관한 사뭇 진지한 이야기](https://ppss.kr/archives/189212) 서로 의견이 충돌할 때 해결하는 예
 * [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
+* [여기, 문제가 있다.](https://brunch.co.kr/@hyungsukkim/124) 나도 어렸을 때라면 동의했겠지만 지금은 이렇게 생각하지 않음
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
