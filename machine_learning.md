@@ -1276,3 +1276,6 @@ Machine Learning
 * [Hands-On Transfer Learning with Python](https://github.com/Transfer-Learning-with-Python/handson-Code)
   * [191027 딥러닝 전이학습 발표자료](https://drive.google.com/drive/folders/1JPPMFYlGMl1BbjjMnG2WqakWwBkiHgzP)
   * [전이학습](https://www.youtube.com/playlist?list=PLqkITFr6P-oQlgZS4-XNRcYW2FBUPrc0h)
+
+* Tutorial
+* [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
