@@ -1323,6 +1323,7 @@ Scala
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
+  * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
 * [#Opaque types in #Scala 2 and 3 - YouTube](https://www.youtube.com/watch?v=WyvawRRuU2c)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
