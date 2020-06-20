@@ -705,6 +705,7 @@ Machine Learning
 * [Three Popular Clustering Methods and When to Use Each](https://medium.com/predict/three-popular-clustering-methods-and-when-to-use-each-4227c80ba2b6)
 * [Assessment Metrics for Clustering Algorithms](https://medium.com/@ODSC/assessment-metrics-for-clustering-algorithms-4a902e00d92d)
 * [Fantastic drivers and how to find them](https://blog.gojekengineering.com/fantastic-drivers-and-how-to-find-them-a88239ef3b29)
+* [Grouping Soccer Players with Similar Skillsets in FIFA 20 | Part 2: Hierarchical Clustering - YouTube](https://www.youtube.com/watch?v=wjlNySHpK9w)
 
 ## Clustering DBSCAN
 * [DBSCAN (밀도 기반 클러스터링)](http://bcho.tistory.com/1205)
