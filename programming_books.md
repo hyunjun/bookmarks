@@ -916,6 +916,7 @@ Programming Books
   * (NOT YET) [프로그래밍 면접, 이렇게 준비한다(4판)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B6503680425)
 * (NOT YET) 구글러가 전하는 IT 취업 가이드 : 면접준비에서 연봉협상까지 [A-Z]
   * 한라 325.337-맥25ㄱ
+* (NOT YET) [제이펍의 참 똑똑한 2비트 책 이야기 :: 인공지능 전문가를 위한 인터뷰(면접) 가이드](https://jpub.tistory.com/1053)
 
 # iOS
 
