@@ -300,6 +300,7 @@ Statistics
 * [베이지안 사후 확율 분포(posterior probability distribution) 분석은 '백선생 김치 볶음밥 간맞추기'이다 | 최프란의 비유 - 측정 통계 데이터 분석](https://www.youtube.com/watch?v=03SufsRx52Y&list=PLgSth2TawHJ9-GG9DiEPNhHJ3rWngNJro)
 * [**Bayes theorem, and making probability intuitive**](https://www.youtube.com/watch?v=HZGCoVF3YvM)
 * [False positives/negatives and Bayes rule for COVID-19 testing](https://towardsdatascience.com/false-positives-negatives-and-bayes-rule-for-covid-19-testing-750eaba84acd)
+* [스탠코리아 StanKorea 베이즈 통계학 소개 Introduction to Bayesian Statistics | 베이즈 정리 & 베이즈 추론 | 베이지안이 되어야 할 이유 - YouTube](https://www.youtube.com/watch?v=ELSxxe6gMaQ)
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
