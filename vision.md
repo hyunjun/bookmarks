@@ -204,6 +204,7 @@ Vision
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
   * [YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet ](https://github.com/AlexeyAB/darknet)
+  * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
@@ -336,6 +337,7 @@ Vision
   * 데이터셋 로딩, 샘플링, augmentation, 일반적인 트레이닝 클래스, 웹 기반 모니터링 등을 지원
   * [delira - Lightweight framework for fast prototyping and training deep neural networks in medical imaging](https://github.com/justusschock/delira)
 * [dl-docker - All-in-one Docker image for Deep Learning](https://github.com/saiprashanths/dl-docker)
+* [fastocloud: IPTV/NVR/CCTV/Video cloud](https://github.com/fastogt/fastocloud/)
 * [fb-vision-bot](https://github.com/jshin49/fb-vision-bot)
 * [FIGR-8 - Few-shot Image Generation with Reptile: the dataset](https://github.com/marcdemers/FIGR-8)
 * [GluonCV: a Deep Learning Toolkit for Computer Vision](https://gluon-cv.mxnet.io/)
