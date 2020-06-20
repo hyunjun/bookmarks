@@ -146,6 +146,7 @@ Docker
     * [gobbli - Deep learning with text doesn't have to be scary](https://github.com/RTIInternational/gobbli)
     * [Anaconda와 Docker 를 사용한 머신러닝 개발환경 구성하기](https://m-learn.tistory.com/6)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
+    * [ELK 사용해서 flask 로그 분석하기](https://woolbro.tistory.com/88)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
     * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
