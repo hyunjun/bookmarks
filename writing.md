@@ -74,6 +74,7 @@ Writing
 * [좋은 기술 블로그를 만들어 나가기 위한 8가지 제언](https://www.44bits.io/ko/post/8-suggestions-for-tech-programming-blog)
 * [Write The Docs 3월 밋업 발표자료](https://blog.outsider.ne.kr/1435)
 * [문서 엔지니어링과 API 문서화](https://engineering.linecorp.com/ko/blog/document-engineering-api-documentation/)
+* [주석 분석기를 이용한 간단한 API 문서화 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
 * [‘문서’로 세상에 도움을 주는 테크니컬 라이터, 강정일](https://engineering.linecorp.com/ko/blog/line-developer-interview-4/)
 * [Why developers should know how to write](https://medium.com/free-code-camp/why-developers-should-know-how-to-write-dc35aa9b71ab)
 * [The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
