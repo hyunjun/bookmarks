@@ -84,7 +84,6 @@ Python
 * [Pipelining - A Successful Data Processing Model](http://blog.stuartowen.com/pipelining-a-successful-data-processing-model)
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 * [Infographic – Quick Guide to learn Python for Data Science](http://www.analyticsvidhya.com/blog/2015/05/infographic-quick-guide-learn-python-data-science/)
-* [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
 * [Can assign `[] = ()`, but not `() = []`](https://bugs.python.org/issue23275)
 * [Mean Shift Clustering](http://spin.atomicobject.com/2015/05/26/mean-shift-clustering/)
 * [Optimizing Python - a Case Study](https://www.airpair.com/python/posts/optimizing-python-code)
@@ -361,9 +360,6 @@ Python
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
 * [The one-stop guide to (easy) cross-platform Python freezing: Part 1](https://hackernoon.com/the-one-stop-guide-to-easy-cross-platform-python-freezing-part-1-c53e66556a0a)
-* How to Build a Simple Crypto Trading Simulator
-  * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
-* [How to encrypting and decrypting the messages in python| | Cryptography | |](https://www.youtube.com/watch?v=RFkbhqpRTZM)
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
 * [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
 * [Performance Python: 7 Strategies for Optimizing Your Numerical Code](https://www.youtube.com/watch?v=c5DV9Nur1W8) numpy, pandas, scipy, cython, numba, and more
@@ -1379,6 +1375,18 @@ Python
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 
+# Cryptography
+* [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
+* How to Build a Simple Crypto Trading Simulator
+  * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
+* [How to encrypting and decrypting the messages in python| | Cryptography | |](https://www.youtube.com/watch?v=RFkbhqpRTZM)
+* bcrypt [Hashing passwords with Python and Bcrypt](https://www.youtube.com/watch?v=hNa05wr0DSA)
+* [Ciphey/Ciphey: Automated decryption tool](https://github.com/Ciphey/Ciphey)
+* [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in \<95 lines](https://github.com/vpostman/logcoin)
+* [PyCryptodome](https://pycryptodome.readthedocs.io/)
+  * [aes teset](https://gist.github.com/june9713/3689bd04ed9d2fe4a472ade275dcc880)
+  * [teamviewer](https://whynotsecurity.com/blog/teamviewer/)
+
 # Debugging
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
 * [PyCharm as the Ultimate Python Debugger](https://pedrokroger.net/python-debugger/)
@@ -1891,6 +1899,8 @@ Python
   * [Use Flask-SQLAlchemy With Existing Database With Reflect and Automap](https://www.youtube.com/watch?v=UK57IHzSh8I)
   * [How to build a JSON API with Python](https://morioh.com/p/1a0fcdf316e7)
   * [Flask-Sqlalchemy 소개](https://medium.com/@cks3443/flask-sqlalchemy-162a9034d9c9)
+  * [파이썬 웹 개발 #1, flask, flask-sqlalchemy, todolist - YouTube](https://www.youtube.com/watch?v=zJQPXBUhvDA)
+  * [파이썬 웹 개발 #2, flask, flask-sqlalchemy, todolist - YouTube](https://www.youtube.com/watch?v=uXCV35ruo50)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
@@ -2356,7 +2366,6 @@ Python
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [Bake — the strangely familiar workflow utility](https://github.com/kennethreitz/bake) makefile과 비슷하게 bakefile을 통해 작업 처리. automation
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
-* bcrypt [Hashing passwords with Python and Bcrypt](https://www.youtube.com/watch?v=hNa05wr0DSA)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
   * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
@@ -2574,7 +2583,6 @@ Python
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
 * [LightNet: Bringing pjreddie's DarkNet out of the shadows](https://github.com/explosion/lightnet)
-* [logcoin - A toy crypto-currency based on a discrete logarithm zero-knowledge protocol, in \<95 lines](https://github.com/vpostman/logcoin)
 * [logpy - Logic Programming in Python](https://github.com/logpy/logpy)
   * [LogPy - Facts and Relations](http://matthewrocklin.com/blog/work/2013/01/17/LogPy-Facts-Relations/)
 * Lomond
@@ -2640,9 +2648,6 @@ Python
 * [Pulsar - Concurrent framework for Python](http://quantmind.github.io/pulsar/)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [pyClamd - use ClamAV antivirus from Python](https://www.decalage.info/python/pyclamd)
-* [PyCryptodome](https://pycryptodome.readthedocs.io/)
-  * [aes teset](https://gist.github.com/june9713/3689bd04ed9d2fe4a472ade275dcc880)
-  * [teamviewer](https://whynotsecurity.com/blog/teamviewer/)
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
