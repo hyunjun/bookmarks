@@ -1830,6 +1830,7 @@ Programming
 * [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 * [unikernel overview](https://uni2u.tistory.com/106)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
+* [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
 
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
