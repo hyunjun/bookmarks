@@ -515,6 +515,7 @@ Python
   * [Python Tutorial: class method vs static method](https://www.bogotobogo.com/python/python_differences_between_static_method_and_class_method_instance_method.php)
   * [Let’s get classy: how to create modules and classes with Python](https://medium.freecodecamp.org/lets-get-classy-how-to-create-modules-and-classes-with-python-44da18bb38d1)
   * [파이썬 매직 메소드 (Python's Magic Methods)](https://ziwon.dev/post/python_magic_methods)
+  * [**매직 메서드를 이용한 객체 간의 diff 구하기**](https://velog.io/@litien/Python-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%91%90-%EA%B0%9D%EC%B2%B4-%EA%B0%84%EC%9D%98-diff-%EA%B5%AC%ED%95%98%EA%B8%B0)
   * [Class Attribute VS Instance Attribute of Python](https://medium.com/techtofreedom/differences-between-class-attribute-and-instance-attribute-of-python-1ae61774489c)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
