@@ -420,6 +420,7 @@ Programming
   * [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
   * [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
   * [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
+  * [Event Sourcing과 Fintech Platform - YouTube](https://www.youtube.com/watch?v=1QH6rKSGvY4)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -1679,6 +1680,10 @@ Programming
   * [5월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/05/b-5-1.html)
   * [5월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/05/b-5-2_18.html)
   * [5월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/04/blog-post_81.html)
+  * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/05/b-5-4.html)
+  * [6월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/04/httpswrittenkitten.html)
+  * [6월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/06/b-6-2.html)
+  * [6월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/06/b-6-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1820,6 +1825,7 @@ Programming
 * [2020년 5월 30일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-5-30.html) Vim, CORS, 스노우 팩, JWT 디코더, Latex.css & XP.css, 소셜로그인, VS Code, nginx 설정, 윈도우 파워토이, 윈도우 8이상 무선 네트워크
 * [2020년 6월 6일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-6.html) streamhut – 터미널 스트리밍, 오픈소스 모니터링 솔루션, 윈도우 심볼릭 링크, GPU 사용 터미널 alacrity
 * [2020년 6월 13일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-13.html) 페북 TransCoder, CORS, Vim, devdocs.io, Android 11, Micronaut Servlet, Grid.js, Istio Traffic Mirroring, /bin과 /usr/bin 분리된 이유는?
+* [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
