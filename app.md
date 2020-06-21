@@ -841,7 +841,7 @@ App
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다](http://macnews.tistory.com/2215)
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
-  * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/)
+  * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) web에 upload하지 않으면 자체 형식이라 별도로 play해야 하는 듯
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114?mt=12)
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713?mt=12)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
@@ -849,9 +849,9 @@ App
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
   * [**Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'**](http://macnews.tistory.com/2558)
-  * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer)
-  * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg)
-  * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio)
+  * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer) brew install은 미지원, npm 오류로 설치 실패
+  * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg) pip install이라 편한데, 중간에 화면이 깨진 상태로 저장되는 경우가 있었음
+  * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio) npm 오류로 설치 실패
 * Slate
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)
@@ -1184,5 +1184,6 @@ App
   * [X-Window on Docker on WSL 2](https://jehyunlee.github.io/2020/06/09/Python-General-5-wdvx/)
   * [Windows10 WSL2에 Docker 설치](https://bloodguy.tistory.com/1087)
   * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
+  * [WSL2 설치 및 Docker 환경 구축 : 네이버 블로그](https://blog.naver.com/ilikebigmac/222007741507)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
