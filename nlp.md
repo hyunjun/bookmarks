@@ -271,6 +271,7 @@ NLP
 * [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
 * [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
 * [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
+* [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
@@ -1452,6 +1453,7 @@ NLP
   * [음성인식모델로 음성합성 데이터 만들기 (kaldi 음성 인식 모델 환경 구현)](http://nblog.syszone.co.kr/archives/9788)
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
+* [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
 * [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
