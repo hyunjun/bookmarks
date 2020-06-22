@@ -1252,6 +1252,7 @@ Deep Learning
   * [아마존, 개발자용 딥러닝 자동화 툴 '오토글루언' 공개](http://www.itworld.co.kr/news/141350)
   * [Using MXNet to Detect Fire from Live Video](https://medium.com/@jg.kim/using-mxnet-to-detect-fire-d8afaf4d9e07)
   * [A New NumPy Interface for Apache MXNet (Incubating)](https://medium.com/apache-mxnet/a-new-numpy-interface-for-apache-mxnet-incubating-dbb4a4096f9f)
+  * [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
   * [Gluon-Detector - SSD Retinanet YoloV3](https://github.com/JONGGON/Gluon-Detector)
   * [Mxnet-Detector - mxnet one stage detector series](https://github.com/DeepFocuser/Mxnet-Detector)
 * [netron - Visualizer for neural network, deep learning and machine learning models https://www.lutzroeder.com/ai ](https://github.com/lutzroeder/netron) 신경망, 딥러닝 모델 시각화 툴이자 뷰어
