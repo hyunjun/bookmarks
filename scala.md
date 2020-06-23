@@ -644,6 +644,8 @@ Scala
     * FP와 OOP의 차이는 Expression Problem을 어떻게 해결 하느냐에 있음
   * [ZIO — A type-safe, composable library for asynchronous and concurrent programming for Scala](https://zio.dev)
     * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
+    * [Queue · ZIO](https://zio.dev/docs/datatypes/datatypes_queue) Queue 만들어서 해당 queue 에 task 집어넣고, 해당 queue 에 대한 consumer 를 원하는 수만큼 생성
+    * [Handling Errors · ZIO](https://zio.dev/docs/overview/overview_handling_errors#retrying) Retry 쉽게 가능
     * [John A De Goes - ZIO: Next-Generation Effects in Scala](https://www.youtube.com/watch?v=mkSHhsJXjdc)
     * [Scale By The Bay 2018: John A. De Goes, Itamar Ravid, Scalaz Stream: Rebirth](https://www.youtube.com/watch?v=mLJYODobz44)
     * [Kyiv Scala meetup v9 - Welcome to Scalaz ZIO by Oleksandra Holubitska](https://www.youtube.com/watch?v=q_CJqpuZlBc)
