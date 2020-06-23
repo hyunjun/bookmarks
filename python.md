@@ -3073,6 +3073,7 @@ Python
   * [가상환경 virtualenv(2) - 실행/설치/관리](https://woolbro.tistory.com/26)
   * [가상환경 virtualenv(3) - 설치 패키지 사용하기](https://woolbro.tistory.com/27)
   * [How to use Python virtualenv](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/)
+  * [Python virtualenv 정리 (Linux/Windows) :: 개발새발로그](https://dgkim5360.tistory.com/entry/python-virtualenv-on-linux-ubuntu-and-windows)
 
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
