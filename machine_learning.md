@@ -1280,3 +1280,4 @@ Machine Learning
 
 * Tutorial
 * [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
+* [Machine Learning Tutorials - YouTube](https://www.youtube.com/playlist?list=PLfwO4-8NiQkFVYIV8cIUjCQA6yTbvV2L_)
