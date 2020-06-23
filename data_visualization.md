@@ -238,6 +238,7 @@ Data Visualization
 * [Naver News WordCloud 1](https://developer-ankiwoong.tistory.com/299)
 * [Naver News WordCloud 2](https://developer-ankiwoong.tistory.com/300)
 * [워드 클라우드, 파이썬에서 이쁘게 그리는 방법은?!](https://tariat.tistory.com/854)
+* [파이썬 Python 코딩 #9 - wordcloud 워드클라우드 키워드 이미지 생성 - YouTube](https://www.youtube.com/watch?v=v8wSN9-h_6o)
 * [Profitable Moving Average Strategy with Python and ML](https://www.youtube.com/watch?v=MXv5VqipDos)
 * [파이썬 데이터 분석 범죄 데이터 실습](https://stricky.tistory.com/190)
 * [파이썬 인구 데이터 분석, 제주도엔 정말 여자가 더 많을까?](https://stricky.tistory.com/218)
