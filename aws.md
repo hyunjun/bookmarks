@@ -830,6 +830,7 @@ AWS
 * [Sagemaker에서 PyTorch를 활용한 딥러닝 이미지 분류 모델 학습 및 배포](https://urbanbase.github.io/dev/2019/12/17/Deep-Learning-Image-Classification.html)
 * [AWS Sagemaker Ground Truth로 훈련용 이미지를 편하게 분류하자](https://helloworld.kurly.com/blog/aws-ground-truth/)
 * [Amazon SageMaker Operators for Kubernetes—examples for distributed training, hyperparameter tuning and model hosting](https://towardsdatascience.com/kubernetes-and-amazon-sagemaker-for-machine-learning-distributed-training-hyperparameter-tuning-187c821e25b4)
+* [Sagemaker Github Actions - YouTube](https://www.youtube.com/watch?v=SjqPeL4QJao)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
