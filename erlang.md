@@ -42,6 +42,7 @@ Erlang
 * [ErlBus: Erlang Message Bus](http://cabol.github.io/erlbus-erlang-message-bus/)
 * [erlwitness allows one to funnel both gen_server events (init, calls, casts, infos, state changes) and lager calls specific to identified entities into arbitrary watcher processes](https://github.com/g-andrade/erlwitness)
 * [gascheduler - Erlang Distributed Scheduler](https://github.com/GameAnalytics/gascheduler)
+* [Hamler - Haskell-style functional programming language running on Erlang VM | EMQ](https://www.emqx.io/news/open-source-functional-programming-language-hamler)
 * [LFE, Lisp Flavoured Erlang, is a lisp syntax front-end to the Erlang compiler. Code produced with it is compatible with "normal" Erlang code. An LFE evaluator and shell is also included](https://github.com/rvirding/lfe)
 * [Luerl - an implementation of Lua in Erlang](https://github.com/rvirding/luerl)
 * [maestro: a pool of pools for when single pool managers become a bottleneck](https://github.com/g-andrade/maestro)
