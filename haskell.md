@@ -38,6 +38,7 @@ Haskell
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
 * [Blazing fast Fibonacci numbers using Monoids](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html)
+* [Monoidal Catamorphisms | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/06/15/monoidal-catamorphisms/)
 * [Haskell Communities and Activities Report](https://www.haskell.org/communities/05-2015/html/report.html)
 * [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
 * [haskell as a javascript MVC framework](http://tonyday567.github.io/blog/mvc-todo/)
@@ -237,6 +238,7 @@ Haskell
 * [Functional Fika — Nix and Haskell:](https://maxfieldchen.com/posts/2020-05-16-Functional-Fika-Haskell-Nix-Cabal.html)
 * [Monoidal Puzzle Solving](https://jonascarpay.com/posts/2020-05-26-solver.html)
 * [Well-Typed - The Haskell Consultants: Profiling Template Haskell splices](https://www.well-typed.com/blog/2020/05/profiling-template-haskell/)
+* [Well-Typed - The Haskell Consultants: Using Template Haskell to generate static data](https://www.well-typed.com/blog/2020/06/th-for-static-data/)
 * [Running HLint as a GHC source plugin - DEV](https://dev.to/tfausak/running-hlint-as-a-ghc-source-plugin-17dl)
 * [Simple Haskell is Best Haskell](https://medium.com/@fommil/simple-haskell-is-best-haskell-6a1ea59c73b)
 * [Building a Haskell Microservice](https://twonki.github.io/haskell-microservice/)
@@ -245,6 +247,7 @@ Haskell
 * [Oleg's gists - Evolving non-determinism](https://oleg.fi/gists/posts/2020-05-26-evolving-non-determinism.html)
 * [Generalizing Our Environments](https://mmhaskell.com/blog/2020/5/11/generalizing-our-environments)
 * [Setting up a Haskell development environment with Nix](https://romainviallard.dev/en/blog/setting-up-a-haskell-development-environment-with-nix/)
+* [Deploying your application with NixOS](https://romainviallard.dev/en/blog/deploying-your-app-with-nixos/)
 * [YourFirstGame with Haskell, Godot, and godot-haskell](https://spartanengineer.com/posts/2020-05-24-yourfirstgame-with-haskell-and-godot.html)
 * [Simply typed lambda calculus](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
 * [Subgame perfection made difficult](https://julesh.com/2020/05/26/subgame-perfection-made-difficult/)
@@ -254,6 +257,8 @@ Haskell
 * [Building a reactive calculator in Haskell (1/5)](https://keera.co.uk/2020/05/28/building-a-reactive-calculator-in-haskell-1-5/)
 * [Building a reactive calculator in Haskell (2/5)](https://keera.co.uk/2020/05/30/building-a-reactive-calculator-in-haskell-2-5/)
 * [Building a reactive calculator in Haskell (3/5)](https://keera.co.uk/2020/06/02/building-a-reactive-calculator-in-haskell-3-5/)
+* [Building a reactive calculator in Haskell (4/5) – Keera Studios](https://keera.co.uk/2020/06/09/building-a-reactive-calculator-in-haskell-4-5/)
+* [Building a reactive calculator in Haskell (5/5) – Keera Studios](https://keera.co.uk/2020/06/16/building-a-reactive-calculator-in-haskell-5-5/)
 * [Generating documentation from API types](https://holmusk.dev/blog/2020-05-18-Generating-documentation-from-API-types.html)
 * [Quick Memory Trick](https://www.parsonsmatt.org/2020/06/01/quick_memory_trick.html)
 * [Reanimate: a tutorial on making programmatic animations](https://williamyaoh.com/posts/2020-05-31-reanimate-nqueens-tutorial.html)
@@ -273,6 +278,9 @@ Haskell
 * [Lorentz: Introducing Complex Objects to Michelson](https://serokell.io/blog/lorentz-complex-objects)
 * [Q-Learning with Tensors — Monday Morning Haskell](https://mmhaskell.com/blog/2020/6/8/q-learning-with-tensors)
 * [Using client-side Haskell web frameworks in CodeWorld](https://medium.com/@cdsmithus/using-client-side-haskell-web-frameworks-in-codeworld-7d8661647191)
+* [Simple Linear Regression in One Pass - DanielBrice.net](https://www.danielbrice.net/blog/simple-linear-regression-in-one-pass/)
+* [Solving Algorithm Challenges in Haskell: Anagrams - DEV](https://dev.to/theodesp/solving-algorithm-challenges-in-haskell-anagrams-15jd)
+* [Training our Agent with Haskell! — Monday Morning Haskell](https://mmhaskell.com/blog/2020/6/15/training-our-agent-with-haskell)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
@@ -283,6 +291,7 @@ Haskell
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
+* IO [The power of IO in Haskell | 47 Degrees](https://www.47deg.com/blog/io-haskell/)
 * String [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/)
 
 # Book
@@ -303,6 +312,7 @@ Haskell
 * [LambdaConf 2015 - Modeling Data in Haskell for Beginners Chris Allen](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [LambdaConf 2015 - Developing Web Applications with Haskell Alejandro Serrano Mena](https://www.youtube.com/watch?v=FnaD4xS_hHY)
 * [ZuriHac 2020](https://zfoh.ch/zurihac2020/)
+  * [ZuriHac 2020 - YouTube](https://www.youtube.com/playlist?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX)
 
 # Library
 * [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
@@ -442,6 +452,7 @@ Haskell
 * [Typeable — A long journey to type-safe dynamic type representation (Part 2)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-2-954b52bfa9fa)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 3)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-3-80a2a34329dd)
 * [Trade-Offs in Type Safety](https://alpacaaa.net/type-safety/)
+* [Type inference - Splinter Suidman](https://splintah.gitlab.io/posts/2020-06-14-Type-inference.html)
 
 # Tutorial
 * [INTRODUCTION TO FUNCTIONAL PROGRAMMING USING HASKELL](https://1ambda.github.io/haskell/) 한글
