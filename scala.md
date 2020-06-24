@@ -1467,6 +1467,10 @@ Scala
 * [Type Inference by Example, Part 3](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-3-e9e2c27f1fb2)
 * [Type Inference by Example, Part 4](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-4-3aaca6400c7e)
 * [Type Inference by Example, Part 5](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-5-25d7a7c66ca6)
+* [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
+* [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
+* [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
+* [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
@@ -1481,6 +1485,7 @@ Scala
   * [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
   * [NewType is New Now!](https://medium.com/@afsal.taj06/newtype-is-new-now-63f1b632429d)
   * [A simple trick to improve type safety of your Scala code](https://blog.softwaremill.com/a-simple-trick-to-improve-type-safety-of-your-scala-code-ba80559ca092)
+* [simulacrum - First class syntax support for type classes in Scala](https://github.com/typelevel/simulacrum)
 
 # Tutorial
 * [Scala Recipes: A "HelloWorld" in Scala](https://medium.com/@caiquerodrigues/scala-recipes-a-helloworld-in-scala-d578238cd7fe)
@@ -1534,14 +1539,10 @@ Scala
 * [15 Reasons to Learn Scala from N-iX Developers](https://medium.com/@N_iX/15-reasons-to-learn-scala-from-n-ix-developers-822af5b49e1a)
 * [My Way to Scala — part 1](https://blog.softwaremill.com/my-way-to-scala-part-1-6765b55ad68a)
 * [Tic-tac-toe in FP Scala](https://medium.com/wix-engineering/tic-tac-toe-in-fp-scala-29b9162ebc3e)
-* [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
 * [About Variance](https://francistoth.github.io/2020/02/12/variance.html)
 * [**The Evolution of a Scala Programmer**](https://medium.com/@olxc/the-evolution-of-a-scala-programmer-1b7a709fb71f)
-* [simulacrum - First class syntax support for type classes in Scala](https://github.com/typelevel/simulacrum)
 * [자바 개발자를 위한 Scala](https://medium.com/@kimkare/자바-개발자를-위한-scala-f4485e5265ba)
 * [My answers for Functional Programming Challenges on HackerRank](https://github.com/seoh/hackerrank-fp)
-* [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
-* [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
 * [Checklist for learning Scala](https://medium.com/@horiaconstantin/checklist-for-learning-scala-66bfe6d1ac2b)
 * [Scala for Python developers](https://medium.com/@antoine.doeraene/scala-for-python-developers-93f3755f60d1)
 * [Intro to Scala Fundamentals](https://github.com/wjlow/intro-to-scala)
