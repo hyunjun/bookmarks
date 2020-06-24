@@ -1347,6 +1347,7 @@ Javascript
 * [Svelte - Cybernetically enhanced web apps](https://svelte.dev/)
   * [Introduction / Basics • Svelte Tutorial](https://svelte.dev/tutorial/basics)
   * [How to Write Professional Code Using the Command Query Separation Principle](https://medium.com/javascript-in-plain-english/compile-svelte-in-your-head-e12c87808255)
+  * [Svelte로 만드는 Todo List - 1 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/21/How-to-make-todo-list-app-with-Svelte-1.html)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [SweetAlert](https://sweetalert.js.org/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
