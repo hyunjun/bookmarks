@@ -119,6 +119,7 @@
 * [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
 * [Rust Adventures — From Java Class to Rust Struct](https://medium.com/analytics-vidhya/rust-adventures-from-java-class-to-rust-struct-1d63b66890cf)
 * [Cross-compile Rust programs to run on Turris Omnia](https://itnext.io/cross-compile-rust-programs-to-run-on-turris-omnia-e592b555e2aa)
+* [Graph & Tree Traversals in Rust - The Data Dump - Medium](https://medium.com/the-data-dump/graph-tree-traversals-in-rust-3c9c93a0feba)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
