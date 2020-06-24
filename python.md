@@ -1137,6 +1137,7 @@ Python
   * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
   * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
   * [Python의 yield from 키워드는 무엇일까](https://item4.github.io/2018-03-04/What-is-The-Yield-From-Keyword-in-Python/)
+  * [What Are Generators, Yields, and Streams in Python?](https://medium.com/better-programming/what-are-generators-yields-and-streams-in-python-a94072b3eb93)
 
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
