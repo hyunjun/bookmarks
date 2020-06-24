@@ -611,6 +611,7 @@ Linux
 * [Linux kernel development](https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md)
 * [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
+* [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 
 ## Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
@@ -683,6 +684,7 @@ Linux
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
+* [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
