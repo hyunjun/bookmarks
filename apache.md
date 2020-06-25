@@ -618,6 +618,7 @@ Apache
   * [KSQL - 효과적이고 간단한 스트리밍 프로세스 SQL엔진](https://www.slideshare.net/WonyoungChoi2/ksql-sql-182725060)
   * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
+* rest proxy [카프카의 토픽 데이터를 REST api로 주고받자 - Kafka rest proxy 사용](https://blog.voidmainvoid.net/345?fbclid=IwAR2SKDiO2MTY-qGPgnOHWmGQq0JTmNF09JN_Zg6CkcwmZjFEqnDhiSNfObg)
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
