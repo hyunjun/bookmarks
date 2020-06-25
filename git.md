@@ -544,6 +544,7 @@ Git
   * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
   * `git reset --hard ORIG_HEAD`
   * [git reset의 3가지 옵션 제대로 이해하기](https://blog.naver.com/codeitofficial/221950118036)
+  * [git reset과 git checkout의 차이점(심화)](https://blog.naver.com/codeitofficial/222011693376)
 * [`revert`](https://git-scm.com/docs/git-revert)
   * [git revert로 커밋 되돌리기](https://blog.outsider.ne.kr/1166?category=18)
   * [revert-a-faulty-merge](https://github.com/git/git/blob/master/Documentation/howto/revert-a-faulty-merge.txt)
