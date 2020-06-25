@@ -347,6 +347,7 @@ Python
 * [Tail Recursion in Python](http://philosophical.one/posts/tail-recursion-in-python/) 실용적이진 않지만 재미있는 tail recursion 구현 이야기
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
+* [15 Python tips and tricks, so you don’t have to look them up on Stack Overflow](https://medium.com/@george.seif94/15-python-tips-and-tricks-so-you-dont-have-to-look-them-up-on-stack-overflow-90cec02705ae)
 * [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
