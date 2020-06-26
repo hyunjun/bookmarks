@@ -567,6 +567,7 @@ AWS
 * [AWS에서 서버(EC2) 패킷 미러링 하기](http://woowabros.github.io/security/2018/06/29/aws-network-mirror.html)
   * [AWS/Openstack Security Group & AWS EC2 Remote Packet Mirror](https://sola99.tistory.com/467)
 * [ec2-gauza 설치 및 사용하기](http://jojoldu.tistory.com/311)
+* [AWS EC2에서 django를 사용해보자!](https://blog.naver.com/nanotoly/222012440576)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
