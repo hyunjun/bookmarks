@@ -544,6 +544,7 @@ Scala
   * [Writing functional DSLs for business domains](https://medium.com/bigdatarepublic/writing-functional-dsls-for-business-domains-1bccc5d3f62b)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
 * Either [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
+* ExecutionContext [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
 * fold
   * [Scalaでコレクションを前後処理しつつ走査する](https://medium.com/nextbeat-engineering/scala%E3%81%A7%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%89%8D%E5%BE%8C%E5%87%A6%E7%90%86%E3%81%97%E3%81%A4%E3%81%A4%E8%B5%B0%E6%9F%BB%E3%81%99%E3%82%8B-401a4edb6bab) foldLeft
 * for
@@ -656,6 +657,7 @@ Scala
     * [zio environment and modules pattern: zio, scala.js, react, query management](https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html)
     * [How to dynamically inject the implementation for ZIO with MacWire](https://medium.com/@pascal.mengelt/how-to-dynamically-inject-the-implementation-for-zio-with-macwire-bb51d4827966)
     * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
+    * [Getting started with ZIO - YouTube](https://www.youtube.com/watch?v=6A1SA5Be9qw)
     * [HOW TO WRITE A COMMAND-LINE APPLICATION WITH ZIO](https://scalac.io/write-command-line-application-with-zio/)
     * [What can ZIO do for me? A Long Polling example with sttp](https://medium.com/@pascal.mengelt/what-can-zio-do-for-me-32281e4e8b16)
     * [Build Yourself an Effect System by Simon Schenk on Scala Hamburg Meetup](https://www.youtube.com/watch?v=vRnYCLy7C0o)
@@ -664,6 +666,7 @@ Scala
     * [Simulating IoT Events - with Zio Streams](https://timpigden.github.io/_pages/zio-streams/GeneratingChillEvents.html)
     * [Building the Death Star with ZIO Stream](https://juliano-alves.com/2020/05/04/deathstar-zio-stream/)
     * [Write a simple message processing pipeline using ZIO Streams](https://medium.com/@brianxiang/write-a-simple-message-processing-pipeline-using-zio-streams-cb72a3289913)
+    * [A Tour of ZIO Streams - YouTube](https://www.youtube.com/watch?v=OiuKbpMOKsc)
     * [ZIO, Http4s, Auth, Codecs and zio-test](https://timpigden.github.io/_pages/zio-http4s/intro.html)
       * [Part 1 - Hello! A simple server](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part1.html)
       * [Testing with Http4s Client and ZIO](https://timpigden.github.io/_pages/zio-http4s/zio-http4s-part2.html)
@@ -901,6 +904,7 @@ Scala
   * [scala with cats 책 읽으면서 필기 Chapter 7 (Foldable and Traverse)](https://wingnim.tistory.com/117)
   * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
   * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
+  * [Cats Concurrency basics with Ref and Deferred - SoftwareMill Tech Blog](https://blog.softwaremill.com/cats-concurrency-basics-with-ref-and-deferred-399e0335630)
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1070,6 +1074,12 @@ Scala
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
 * [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
   * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
+  * [Scala/Mill: Step 1, Creating a new Mill project | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/step-1-hello-world/)
+  * [Scala/Mill: Step 2, Using ScalaTest with Mill | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/unit-testing-scalatest-dependencies/)
+  * [Scala/Mill: Step 3, Adding Multiple Dependencies | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/adding-multiple-dependencies/)
+  * [Scala/Mill: Step 4, Specifying a Main Class in build.sc | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/how-specify-main-multiple-methods/)
+  * [Scala/Mill: Step 5, Specifying a Main Class in the REPL | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/how-specify-main-method-in-repl/)
+  * [Scala/Mill: Step 6, Creating a Fat Jar (assembly) | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/how-create-fat-jar-file-assembly/)
 
 ## Library Documentation
 * [mdoc Typechecked markdown documentation for Scala](https://scalameta.org/mdoc/)
@@ -1239,6 +1249,7 @@ Scala
 * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf)
 * [Using Tagless Final with laws - Scala tutorial](https://www.youtube.com/watch?v=mkQLU7OzqYM)
 * [Bake your bread tagless-final style](https://blog.softwaremill.com/bake-your-bread-tagless-final-style-dea9448b3dc3)
+* [Tagless Final - Part 1 - What is Tagless Final? - YouTube](https://www.youtube.com/watch?v=XJ2NjqkWdck)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
