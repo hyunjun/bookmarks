@@ -2248,6 +2248,19 @@ Python
   * [Usage TPU in Google Colaboratory](https://jybaek.tistory.com/783)
   * [Object Detection in Google Colab with Fizyr Retinanet](https://medium.freecodecamp.org/object-detection-in-colab-with-fizyr-retinanet-efed36ac4af3)
   * [**구글 Colaboratory에서 Drive 연동**](https://ugong2san.tistory.com/1940)
+  * example read file
+
+    ```
+    # 1. local to colab for small files
+    from google.colab import files
+    uploaded = files.upload()
+    for fn in uploaded.keys():
+      print('User uploaded file "{name}" with length {length} bytes'.format(name=fn, length=len(uploaded[fn])))
+
+    # 2. google drive
+    from google.colab import drive
+    drive.mount('/content/gdrive/')
+    ```
   * [Google_Colab_tutorial](https://github.com/sseung0703/Google_Colab_tutorial)
   * [DeepLab Demo.ipynb](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   * [The speed of your input pipeline counts](https://colab.research.google.com/github/random-forests/applied-dl/blob/master/examples/caching_demo.ipynb) .cache를 이용한 속도 향상. ipynb
