@@ -157,6 +157,7 @@ C
 * [**Implementing simple cooperative threads in C**](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
 * [The Ten Commandments for C Programmers (Annotated Edition)](https://www.lysator.liu.se/c/ten-commandments.html)
 * [C언어 예제 디지털 시계 만들기 예제 Center](https://www.youtube.com/watch?v=FzMHurNF7W8)
+* [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -176,6 +177,7 @@ C
 * [Emulating "defer" in C, with Clang or GCC+Blocks](http://fdiv.net/2015/10/08/emulating-defer-c-clang-or-gccblocks)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
+* [cldoc - clang based documentation generator for C and C++](https://jessevdk.github.io/cldoc/index.html)
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
@@ -249,6 +251,7 @@ C
   * [practice - CUnit](https://gist.github.com/hyunjun/787d4662303e01019a98)
 * curl
   * [practice - test libcurl](https://github.com/hyunjun/practice/tree/master/c/test-libcurl)
+* [Donut math: how donut.c works – a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [excel_to_code - Converts some excel spreadsheets (.xlsx, not .xls) into C](https://github.com/tamc/excel_to_code)
