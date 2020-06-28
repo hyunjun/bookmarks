@@ -145,6 +145,7 @@ Docker
     * [The unreasonable shallowness of my guide to Docker for ML researchers](https://keunwoochoi.wordpress.com/2019/10/16/the-unreasonable-shallowness-of-my-guide-to-docker-for-ml-researcher/)
     * [gobbli - Deep learning with text doesn't have to be scary](https://github.com/RTIInternational/gobbli)
     * [Anaconda와 Docker 를 사용한 머신러닝 개발환경 구성하기](https://m-learn.tistory.com/6)
+    * [NIPA x Docker ! · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/06/28/nipa_docker/)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
     * [ELK 사용해서 flask 로그 분석하기](https://woolbro.tistory.com/88)
   * [httpd](https://hub.docker.com/_/httpd/)
@@ -154,6 +155,7 @@ Docker
     * [SPRING 스프링부트로 도커 이미지 만들기](https://gracelove91.tistory.com/97)
   * javascript
     * [node.js 도커(docker) 기반으로 배포하기](https://blog.naver.com/pjt3591oo/222010156379)
+    * [Docker Best Practices for Node Developers](https://morioh.com/p/7dea17309e0e)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
@@ -790,6 +792,7 @@ Docker
 * [Allocatable memory and CPU in Kubernetes Nodes](https://learnk8s.io/allocatable-resources)
 * [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
 * [Why Not Use Kubernetes?](https://medium.com/better-programming/why-not-use-kubernetes-52a89ada5e22)
+* [EKS K8s에서 ELB(ALB, NLB) 제대로 사용하기](https://velog.io/@ausg/eks-k8s-elb)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -889,6 +892,7 @@ Docker
 * [Firecracker - Secure and fast microVMs for serverless computing](https://firecracker-microvm.github.io/)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
+* Gocker [Containers the hard way: Gocker: A mini Docker written in Go - Unixism](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 * [hadolint - Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)
@@ -923,6 +927,7 @@ Docker
   * [**Podman 기본명령어 튜토리얼**](https://qiita.com/leechungkyu/items/50c3d96a69239a7e4f7f)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
+  * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
