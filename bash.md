@@ -89,6 +89,7 @@ Shell
   * [쉡 스크립트 반복문 (while)](http://qnfmfmd.tistory.com/181)
 
 # Library
+* [aviary.sh: Minimal distributed configuration management in bash](https://github.com/team-video/aviary.sh)
 * [bashhub - Bash History in the Cloud](https://bashhub.com/)
 * [Bash Infinity - a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
 * [Bash Quick References](https://shellmagic.xyz/)
