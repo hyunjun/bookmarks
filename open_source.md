@@ -292,6 +292,8 @@ Open Source
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
 * Neuropod [Uber Open-Sources AI Abstraction Layer Neuropod](https://www.infoq.com/news/2020/06/uber-ai-neuropod/)
+* [piranha: A tool for refactoring code related to feature flag APIs](https://github.com/uber/piranha/)
+  * [Uber Open-Sources Tool to Automatically Clean Up Stale Code](https://www.infoq.com/news/2020/06/uber-piranha/)
 * [youtube 댓글 뷰어 만들기](https://brunch.co.kr/@skykamja24/220)
 
 # Walmart
