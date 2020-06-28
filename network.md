@@ -58,6 +58,7 @@ Network
 * [DNS전문가되기](https://brunch.co.kr/magazine/dnsdns)
 * [A record A 레코드와 CNAME의 차이점을 알아보자](https://developer88.tistory.com/282)
 * [DNS(Domain Name System)에 대한 총정리](https://developer88.tistory.com/311)
+* [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
 
 # HTTP
 * [HTTP ERROR CODE](https://ukjin.tistory.com/2)
@@ -78,6 +79,7 @@ Network
 * [Experiment with HTTP/3 using NGINX and quiche](https://blog.cloudflare.com/experiment-with-http-3-using-nginx-and-quiche/)
 * [NGINX와 quiche로 HTTP/3 시험해 보기](https://blog.cloudflare.com/ko/experiment-with-http-3-using-nginx-and-quiche-ko/)
 * [quiche의 CUBIC와 HyStart++ 지원](https://blog.cloudflare.com/ko/cubic-and-hystart-support-in-quiche-ko/)
+* [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 - NGINX](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
