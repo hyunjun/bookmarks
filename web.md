@@ -546,6 +546,8 @@ Web
 * [**NGINX에 대한 정리**](https://developer88.tistory.com/299)
 * [Nginx 하위 경로를 다른 서버로 보내기 - 완두블로그](https://wani.kr/posts/2016/07/01/nginx-proxy-settings/)
 * [**나는 nginx 설정이 정말 싫다구요**](https://juneyr.dev/nginx-basics)
+* [Nginx Proxy Manager](https://nginxproxymanager.com/)
+* [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
 * [topngx - top for NGINX](https://github.com/gsquire/topngx)
 
 # Progressive Web App PWA
