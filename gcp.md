@@ -117,3 +117,4 @@ Google Cloud Platform GCP
 * [Monitoring your Compute Engine footprint with Cloud Functions and Stackdriver](https://cloud.google.com/blog/products/compute/monitoring-your-compute-engine-footprint-with-cloud-functions-and-stackdriver)
 * [Reducing the Cost of my Developer Workstation with Cloud Functions and Pub/Sub](https://medium.com/google-developers/reducing-the-cost-of-my-developer-workstation-with-cloud-functions-and-pub-sub-d9b9550bf397)
 * [How to create a custom Slack command using Google Cloud Functions and NodeJS](https://medium.com/javascript-in-plain-english/how-to-create-a-custom-slack-command-using-google-cloud-functions-and-nodejs-72a2f653d4e6)
+* [회원가입하면 축하메일 자동으로 보내주는, 구글 Cloud Functions - YouTube](https://www.youtube.com/watch?v=nFGHyi_SFH4)
