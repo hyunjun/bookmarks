@@ -447,6 +447,7 @@ Linux
   * [SSH PORT](https://www.ssh.com/ssh/port)
   * [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
   * [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
+  * [MAC에서 비밀번호 없이 ssh 접속하기(config) - On KimKevin's Dev Way](https://blog.kimkevin.net/mac%ec%97%90%ec%84%9c-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%97%86%ec%9d%b4-ssh-%ec%a0%91%ec%86%8d%ed%95%98%ea%b8%b0config/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
@@ -619,6 +620,8 @@ Linux
 
 # Library
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
+* [My Favorite CLI Tools](https://switowski.com/blog/favorite-cli-tools)
+  * fish shell, starship, z, fzf, fd, ripgrep, htop and glances, virtualenv and virtualfish, pyenv, nodenv, and rbenv, pipx, ctop and lazydocker, homebrew, asciinema, colordiff and diff-so-fancy, tree, bat, httpie, tldr, exa, litecli and pgcli, mas, ncdu
 * [Facebook open-sources new suite of Linux kernel components and tools](https://code.fb.com/open-source/linux/) bpf, btrfs, netconsd, cgroup2, psi, oomd
   * [opensource.fb.com/#linux](https://opensource.fb.com/#linux)
 * [X Server가 없이 사용이 가능한 리눅스용 콘솔(터미널용) 텍스트 모드 웹 브라우저](https://newstars.tistory.com/434)
