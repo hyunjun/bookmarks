@@ -383,3 +383,5 @@ PyTorch
 * [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
 * [PyTorch 1.2 Quickstart with Google Colab](https://medium.com/dair-ai/pytorch-1-2-quickstart-with-google-colab-6690a30c38d)
 * [PyTorch 기본 강의 (1-1)](https://www.youtube.com/watch?v=prTl5GIOjAM)
+* [Deep Learning (with PyTorch) - YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+  * [pytorch-Deep-Learning/slides at master · Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning/tree/master/slides)
