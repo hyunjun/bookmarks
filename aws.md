@@ -568,6 +568,7 @@ AWS
   * [AWS/Openstack Security Group & AWS EC2 Remote Packet Mirror](https://sola99.tistory.com/467)
 * [ec2-gauza 설치 및 사용하기](http://jojoldu.tistory.com/311)
 * [AWS EC2에서 django를 사용해보자!](https://blog.naver.com/nanotoly/222012440576)
+* [Amazon Linux 2를 실행하는 Amazon EC2 인스턴스에 그래픽 사용자 인터페이스(GUI) 설치](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-linux-2-install-gui/)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
