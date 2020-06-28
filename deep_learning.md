@@ -1159,6 +1159,7 @@ Deep Learning
   * [PoseEstimation-CoreML](https://github.com/tucan9389/PoseEstimation-CoreML)
 * [craftassist - A virtual assistant bot in Minecraft](https://github.com/facebookresearch/craftassist)
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
+* [deeplearning-models: A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
 * [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
 * [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
 * [DeepChem - a Python library democratizing deep learning for science](https://deepchem.io/index.html)
