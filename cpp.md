@@ -159,6 +159,7 @@ C++
 * [**Full Remote Mode Of CLion With Docker**](https://www.popit.kr/full-remote-mode-of-clion-with-docker/)
 * [**Remote Debug via GDB/gdbserver Of CLion With Docker**](https://www.popit.kr/remote-debug-via-gdbgdbserver%ef%bb%bf-of-clion-with-docker/)
 * [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
+* [How to write Clean, Beautiful and Effective C++ Code](https://medium.com/@MKahsari/how-to-write-clean-beautiful-and-effective-c-code-d4699f5e3864)
 
 # API
 * auto_ptr
@@ -194,6 +195,7 @@ C++
 * [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [알고리즘 문제해결을 위한 C/C++ 기초](https://wikidocs.net/book/1000)
 * [C++ Template Note](https://wikidocs.net/book/54)
+* [Refactoring](http://jczeus.com/refac_cpp.html)
 
 # C++11
 * [Forcing code out of line in GCC and C++11](http://xania.org/201209/forcing-code-out-of-line-in-gcc)
@@ -274,6 +276,7 @@ C++
 * [DuckDB - an embeddable SQL OLAP Database Management System](https://github.com/cwida/duckdb)
 * [EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance](https://github.com/electronicarts/EASTL)
 * [easyexif - A tiny ISO-compliant C++ EXIF parsing library](https://github.com/mayanklahiri/easyexif)
+* [EigenRand: fastest random distribution generator for Eigen](https://github.com/bab2min/EigenRand)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [Evenk - A C++ library for concurrent programming](https://github.com/ademakov/Evenk)
