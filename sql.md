@@ -49,6 +49,7 @@ SQL
 * [dbguide.net](http://www.dbguide.net/index.db)
 * [코드카데미, SQL 중급 강의 무료 공개](http://www.bloter.net/archives/254362)
 * [SQL,SELECT문처리순서/과정 parsing,optimization,execution,fetch,옵티마이저,파싱,실행,패치](http://ojc.asia/bbs/board.php?bo_table=LecOrccleTun&wr_id=113)
+* [Parsing SQL - Federico Tomassetti - Software Architect](https://tomassetti.me/parsing-sql/)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 * [비전공자를 위한 SQL](https://brunch.co.kr/magazine/sql-beginner)
 * [나만 모르고 있던 – Flyway (DB 마이그레이션 Tool)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-flyway-db-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-tool/)
@@ -90,6 +91,7 @@ SQL
 * [The Best Medium-Hard Data Analyst SQL Interview Questions](https://quip.com/2gwZArKuWk7W)
 * [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 * [SQL Query Formatting Tools Used At Percona](https://www.percona.com/blog/2020/06/03/sql-query-formatting-tools-used-at-percona/)
+* [Understanding Database IOPS - Part 1 | Kloud DB](http://www.klouddb.io/understanding-database-iops-part-1/)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
@@ -143,6 +145,7 @@ SQL
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
 * [SQLite로 가볍게 배우는 데이터베이스](https://wikidocs.net/book/1530)
+* [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
 
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
@@ -313,6 +316,7 @@ SQL
 * [**MySQL에서 Affected Rows를 병맛나게 활용해보자**](http://gywn.net/2018/03/mad-usage-with-mysql-affected-rows/)
 * [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
+* [Change Data Captures CDC from MySQL Database to Kafka with Kafka Connect and Debezium - DZone Integration](https://dzone.com/articles/change-data-captures-cdc-from-mysql-database-to-ka)
 * [Replicating Relational Databases with StreamSets Data Collector](https://streamsets.com/blog/blogreplicating-relational-databases-with-streamsets-data-collector/)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 StreamSets을 이용
   * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
@@ -402,6 +406,7 @@ SQL
 * [Explain의 도움을 받아 Full Scan을 방지하자 #풀스캔 방지](https://developer88.tistory.com/326)
 * [MySQL (Percona XtraDB) slave replication crash resilience settings](https://dev.to/cosimo/mysql-percona-xtradb-slave-replication-crash-resilience-settings-3d8e)
 * [Improving MySQL Password Security with Validation Plugin](https://www.percona.com/blog/2020/06/03/improving-mysql-password-security-with-validation-plugin/)
+* [Best Practices for MySQL Backups - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/27/best-practices-for-mysql-backups/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -643,6 +648,7 @@ SQL
 * [How To Corrupt An SQLite Database File](https://www.sqlite.org/howtocorrupt.html)
 * [SQLite Is Serverless](https://www.sqlite.org/serverless.html)
 * [Sharing an SQLite database across containers is surprisingly brilliant](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
+* [SQLite As An Application File Format](https://sqlite.org/appfileformat.html)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
