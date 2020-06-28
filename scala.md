@@ -1479,6 +1479,33 @@ Scala
 * [Type Inference by Example, Part 4](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-4-3aaca6400c7e)
 * [Type Inference by Example, Part 5](https://medium.com/@joakim.ahnfelt/type-inference-by-example-part-5-25d7a7c66ca6)
 * [Generic Traits and Classes With Type Parameters And Variance](https://medium.com/@knoldus/generic-traits-and-classes-with-type-parameters-and-variance-8b48d14f7f68)
+* generic, type 추측
+
+  ```
+  trait HasIO[T] {
+    val io: T
+  }
+  object ModuleTemplate {
+    def apply[IO, M <: Module](m : => M with ({val io: IO}))(implicit ev: M => FastClonable) = {
+      var module: Option[M with ({ val io: IO })] = None
+      new {
+        def instantiate(): HasIO[IO] = {
+          if (module.isEmpty) {
+            module = Some(m)
+            new HasIO[IO] {
+              val io = module.get.io
+            }
+          } else {
+            val cloned = FastClone(module.get)
+            new HasIO[IO] {
+              val io = cloned("io").asInstanceOf[IO] // this line should be as it is
+            }
+          }
+        }
+      }
+    }
+  }
+  ```
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
 * [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
