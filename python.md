@@ -1851,6 +1851,8 @@ Python
 * [Developing a Single Page App with Flask and Vue.js](https://github.com/testdrivenio/flask-vue-crud)
 * [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1)
 * [Running Your Flask Application Over HTTPS](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
+* [Flask - DB (Mysql) 연동과 CRUD :: 개발자 울이 노트](https://woolbro.tistory.com/91)
+* [How To Use One-to-Many Database Relationships with Flask and SQLite | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-one-to-many-database-relationships-with-flask-and-sqlite)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
@@ -2269,6 +2271,7 @@ Python
   * [명품강의를 찾아서 #1 Intro to Google Colabs](https://www.youtube.com/watch?v=3XudbFwLDwU)
   * [명품강의를 찾아서 #2 Colab에서 Tensorflow설치](https://www.youtube.com/watch?v=gJiVg-ZuD8c)
   * [명품강의를 찾아서 #3 Colab에서 Neural Network만들기](https://www.youtube.com/watch?v=YXr1veBB0dk)
+  * [Google Colab Tips for Power Users - Amit Chaudhary](https://amitness.com/2020/06/google-colaboratory-tips/)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * [**jupyter.nims.re.kr**](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
