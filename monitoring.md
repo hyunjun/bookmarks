@@ -94,3 +94,4 @@ Monitoring
 * [Prometheus 를 스케일링 하기 위한 Thanos (타노스)](https://bcho.tistory.com/1375)
 * [A Prometheus fork for cloud scale anomaly detection across metrics & logs](https://www.zebrium.com/blog/a-prometheus-fork-for-efficient-cloud-scale-autonomous-monitoring)
 * [Prometheus Node Exporter Tutorial | Monitor CPU, Memory, Disk etc.](https://www.youtube.com/watch?v=_h78zXBWjAU)
+* [prometheus-for-developers: Practical introduction to Prometheus for developers](https://github.com/danielfm/prometheus-for-developers)
