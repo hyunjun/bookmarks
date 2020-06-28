@@ -420,6 +420,7 @@ Interview
   * [Load Balancer 비교](https://medium.com/@giljae/load-balancer-%EB%B9%84%EA%B5%90-c537247b699f)
   * [Introducing Sidekick - A High Performance Load Balancer](https://blog.min.io/introducing-sidekick-a-high-performance-load-balancer/)
   * [High Availability Load Balancers with Maglev](https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/)
+  * [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
 * [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
