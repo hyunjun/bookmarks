@@ -1029,6 +1029,8 @@ Java
 * [스프링캠프 2017 Day1 A2 : Async & Spring](https://www.youtube.com/watch?v=HKlUvCv9hvA)
 * [레거시 코드를 점진적으로 개선한 경험 스프링 레거시 코드를 개선하는데 실천한 13가지 방법](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
 * [Get 요청시 LocalDate 필드에 2월 31일자가 올 경우 정상 처리 방법](https://jojoldu.tistory.com/503)
+* [시의적절한 커스텀 어노테이션 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/06/26/custom-annotation.html)
+* [실시간 댓글 개발기(part.3) – Spring의 동시성 접근 제어에 발목 잡힌 이야기 – tech.kakao.com](https://tech.kakao.com/2020/06/22/websocket-part3/) SimpleBroker
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
@@ -1135,6 +1137,7 @@ Java
 * [스프링부트 10분만에 API 서버 만들기](https://www.youtube.com/watch?v=nrxzK_ky3uc)
 * [Spring Boot Code Quality Sonarqube](https://medium.com/trendyol-tech/spring-boot-2-2-6-code-quality-with-sonarqube-8-2-community-70a76634bf75)
 * [Certbot을 이용해 Iptime DDNS 도메인용 인증서 발급](https://bluedskim.github.io/posts/tech/certbot%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-iptime-ddns-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9A%A9-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89/)
+* [Tip Spring Boot 2.1.0 에서의 CORS 설정 | Charsyam's Blog](https://charsyam.wordpress.com/2020/06/23/tip-spring-boot-2-1-0-%ec%97%90%ec%84%9c%ec%9d%98-cors-%ec%84%a4%ec%a0%95/)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
