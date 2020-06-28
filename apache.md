@@ -622,6 +622,7 @@ Apache
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
+* [zoe: The missing companion for Kafka](https://github.com/adevinta/zoe)
 
 ## Kafka Stream
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
@@ -701,6 +702,7 @@ Apache
 * [Apache Kafka leaves the Zoo](https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7)
 * [Using Graph Processing for Kafka Stream Visualizations](https://www.confluent.io/blog/kafka-graph-visualizations<Paste>))
 * [Making sense of Avro, Kafka, Schema Registry, and Spark Streaming](https://medium.com/@ivan9miller/making-sense-of-avro-kafka-schema-registry-and-spark-streaming-bbb09eb5039c)
+* Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
