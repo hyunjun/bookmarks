@@ -61,3 +61,4 @@ House
 * [**모르면 쪽팔리는 중요한 부동산 기본상식 | 용도지역확인 및 관련사이트**](https://www.youtube.com/watch?v=hCVn6Cilz1Q)
 * [아파트(부동산) 매입시 셀프등기 1](https://sieg0610.tistory.com/28)
 * [아파트(부동산) 매입시 셀프등기 2](https://sieg0610.tistory.com/29)
+* [이사 체크리스트](https://dkdlel072.tistory.com/entry/%EC%9D%B4%EC%82%AC-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8)
