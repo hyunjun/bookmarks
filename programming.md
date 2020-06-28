@@ -292,6 +292,7 @@ Programming
 * [소프트웨어를 더이상 건설로 이해하지 말자](https://subokim.wordpress.com/2020/04/13/how-to-explain-software/)
 * [유튜브 이야기 독후감 실리콘 벨리와 엔지니어, 유튜브 창업이야기](https://blog.voidmainvoid.net/332)
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
+* [Tech Seminar 당근마켓 성장과 개발 스택의 변화 - YouTube](https://www.youtube.com/watch?v=ELlQXruFesI)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -445,6 +446,7 @@ Programming
 * [**M-V-Whatever 정리 - 1.MVC**](https://blog.naver.com/jukrang/221414570067)
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
+* [MVVM 아키텍처 패턴 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)
 * [Repository 패턴에 대해서 정리해 보겠습니다](https://developer88.tistory.com/210)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
@@ -797,6 +799,7 @@ Programming
 * [Microservices considered harmful](https://blog.matthieud.me/2019/microservices-considered-harmful/)
 * [Controlled Chaos: Taming Organic, Federated Growth of Microservices](https://www.infoq.com/presentations/microservices-federated-growth/)
 * [통합 이벤트 in MSA](https://www.notion.so/in-MSA-947707969dbc4ee49f2835942a4b273e)
+* [2019 PAYCO 쇼핑 마이크로서비스 아키텍처(MSA) 전환기 - YouTube](https://www.youtube.com/watch?v=l195D5WT_tE)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -974,6 +977,8 @@ Programming
 * [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
 * [클린 코드: 애자일 소프트웨어 장인 정신 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/05/24/Clean-Code.html)
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
+* [Awesome-Clean-Code-Resources: An awesome curated list of clean code posts, books and videos](https://github.com/abiodunjames/Awesome-Clean-Code-Resources)
+* [Clean Code: 5 Essential Takeaways - Better Programming - Medium](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
@@ -1497,6 +1502,7 @@ Programming
 * [Stanford CS Education Library](http://cslibrary.stanford.edu/)
 * [The 100 Most Popular Free Online Courses of 2019](https://www.freecodecamp.org/news/100-popular-free-online-courses-2019/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
@@ -1684,6 +1690,7 @@ Programming
   * [6월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/04/httpswrittenkitten.html)
   * [6월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/06/b-6-2.html)
   * [6월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/06/b-6-3.html)
+  * [6월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/06/b-6-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1798,6 +1805,7 @@ Programming
 * [44BITS 뉴스레터 2020년 18-19주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-18-19)
 * [44BITS 뉴스레터 2020년 20주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-20)
 * [44BITS 뉴스레터 2020년 21-22주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-21-22)
+* [44BITS 뉴스레터 2020년 24-25주 | 44BITS](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-24-25)
 * [news.hada.io](https://news.hada.io/)
 * [2019년 10월 5일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-5.html) 개발자들이 애자일을 싫어하는 이유
 * [2019년 10월 12일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-10-12.html) EXIF 이미지 처리 pillow
@@ -1826,6 +1834,7 @@ Programming
 * [2020년 6월 6일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-6.html) streamhut – 터미널 스트리밍, 오픈소스 모니터링 솔루션, 윈도우 심볼릭 링크, GPU 사용 터미널 alacrity
 * [2020년 6월 13일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-13.html) 페북 TransCoder, CORS, Vim, devdocs.io, Android 11, Micronaut Servlet, Grid.js, Istio Traffic Mirroring, /bin과 /usr/bin 분리된 이유는?
 * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
+* [2020년 상반기. 양질의 기술 아티클 모음](https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
