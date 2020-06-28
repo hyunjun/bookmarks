@@ -44,6 +44,7 @@ Business
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
 * [제일기획 크게 빗나간 광고비 매출 예측의 함의](http://mediagotosa.withstories.com/514) 전망이 어긋나면 그 의미에 대해 다시 생각해봐야 한다
+* [**Don't (guess)timate your projects, forecast with confidence - Reaktor**](https://www.reaktor.com/blog/forecasting-method/)
 * [되는 ‘한 가지 이유’](http://www.venturesquare.net/586121)
 * [온디맨드 서비스, 복잡하고 미묘한 ‘오프라인적 문맥(Context)’을 읽어야 성공한다](http://besuccess.com/2015/05/ondemand_offline-context/)
 * [Do Things that Don't Scale](http://paulgraham.com/ds.html)
@@ -156,6 +157,7 @@ Business
 * [핵심 지표(KPI)의 기준](http://www.andrewahn.co/product/defining-kpis/)
 * [모두의 성과가 같은 KPI일 수 없다](https://brunch.co.kr/@lunarshore/298)
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
+* [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
@@ -425,6 +427,7 @@ Business
 * [광고매체의 영향력은 어떻게 결정되는가?](https://brunch.co.kr/@hyungsukkim/106)
 * [다이슨이 3년 공들인 전기차 사업에서 백기를 든 이유](https://ppss.kr/archives/205684)
 * [**Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product**](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [**모바일 광고 Big4 (FYNK)**](https://brunch.co.kr/@hyungsukkim/125)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
