@@ -428,6 +428,7 @@ Clojure
 * [How to get \*ns\* string in ClojureScript](https://gist.github.com/philoskim/19bafdac0d9d5610408157e528c053d6)
 * [NAVER Tech Talk: 개발언어, 설계(2018년 2월)](https://d2.naver.com/news/8149676)
 * [Up and running with ClojureScript in 2018](https://hackernoon.com/up-and-running-with-clojurescript-in-2018-7c7a1facfe46)
+* [Taming Advanced Compilation bugs in ClojureScript projects - /dev/solita](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 
 ## Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
