@@ -97,8 +97,9 @@ Book
 * [로마의 일인자](http://m.book.daum.net/mobile/detail/book.do?bookid=KOR9788954636872) 콜린 매컬로
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
-* (NOT YET) [역사의 역사](http://book.daum.net/detail/book.do?bookid=KOR9788971998557)
+* [**역사의 역사**](http://book.daum.net/detail/book.do?bookid=KOR9788971998557)
   * 한라 901-유58ㅇ=2
+  * ★★★★★ 2020.06.27~8 정말 재미있게 읽음. 역사학자와 역사가에 대한 이야기. 일종의 meta 역사책? 구입해서 두고 두고 읽고 싶음
 * [등대의 세계사](https://steemit.com/kr/@kang.hyun/2c6bc6)
   * 탐라 문538.72 주11ㄷ
   * [책과 삶 등대의 불빛에 담긴 문명의 진보와 아픔의 역사](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=201806152057035)
@@ -114,6 +115,10 @@ Book
 # Religion
 * (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
+
+# Science
+* 열두 발자국 [정재승 박사의 《열두 발자국》을 읽고..](https://brunch.co.kr/@youthhd/112)
+  * ★★★★☆ 2020.06.28~9 재미있게 읽음. 강연을 모아둔 책이라 일반인 대상 책이기 때문에 어려운 내용이 없어 쉽게 재미있게 읽을 수 있음
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
