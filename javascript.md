@@ -382,6 +382,7 @@ Javascript
 * [로컬에서 CORS policy 관련 에러가 발생하는 이유](https://velog.io/@takeknowledge/%EB%A1%9C%EC%BB%AC%EC%97%90%EC%84%9C-CORS-policy-%EA%B4%80%EB%A0%A8-%EC%97%90%EB%9F%AC%EA%B0%80-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3gk4gyhreu)
 * [**CORS는 왜 이렇게 우리를 힘들게 하는걸까?**](https://evan-moon.github.io/2020/05/21/about-cors/) `Access-Control-Allow-Origin`
 * [예제로 배우는 CORS](https://www.youtube.com/watch?v=mZ-uq3c3Xfs)
+* [Cross Origin Resource Sharing - CORS - 뒤태지존의 끄적거림](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
@@ -440,6 +441,7 @@ Javascript
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 * [JavaScript Clean Code: Error Handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)
 * [JavaScript Clean Code — Vertical Formatting](https://levelup.gitconnected.com/javascript-clean-code-vertical-formatting-d15097f5f30e)
+* [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 * JS로 배우는 자료구조와 알고리즘
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
@@ -582,6 +584,7 @@ Javascript
 * [메쉬코리아(부릉)의 프론트엔드 엔지니어링 실천 사례를 공유합니다](https://github.com/meshkorea/front-end-engineering)
 * [JavaScript: JSON and JSON-server](https://medium.com/@sharmapriyanka84510/javascript-json-and-json-server-beb7308e98cf)
 * [Types-First: A Scalable New Architecture for Flow](https://medium.com/flow-type/types-first-a-scalable-new-architecture-for-flow-3d8c7ba1d4eb)
+* [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1008,6 +1011,7 @@ Javascript
 * [What is GraphQL? The new way to create APIs](https://medium.com/javascript-in-plain-english/what-is-graphql-375f8f2c227f)
 * [GraphQL Gateway for Exposing External APIs](https://medium.com/devops-dudes/graphql-gateway-for-exposing-external-apis-51239a914876)
 * [발표, GraphQL 적용기 - 완두블로그](https://wani.kr/posts/2019/11/30/graphql/)
+* [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
 * [JS Project Build System 도입](https://github.com/dotNetTree/I-Konow-JS/blob/master/js-build-system-selection/js-build-system-selection.md)
@@ -1092,6 +1096,7 @@ Javascript
   * [Bootstrap Toggle](http://www.bootstraptoggle.com/)
   * [25+ Best Bootstrap Editors & Builders](http://www.cssauthor.com/bootstrap-editors/)
   * [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
+* BuckleScript [Make generated JavaScript Inline Caching friendly using types in BuckleScript version 8 | Reason Blog](https://reasonml.org/blog/overview-of-new_encoding)
 * [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)
 * [Cash - an absurdly small jQuery alternative for modern browsers (IE10+) that provides jQuery-style syntax for manipulating the DOM](https://github.com/kenwheeler/cash/)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
@@ -1141,6 +1146,7 @@ Javascript
   * [How to create an Electron app using Angular and SQLite3](https://medium.freecodecamp.org/creating-an-electron-app-using-angular-and-sqlite3-24ca7d892810)
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #1 프로젝트 세팅하기](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #2 라우팅](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-%EB%9D%BC%EC%9A%B0%ED%8C%85/)
+* [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -1220,6 +1226,7 @@ Javascript
   * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
   * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)
 * [Kairos is being developed to be a non date-based time calculator](http://rodrigogs.github.io/kairos/)
+* [keen-slider](https://keen-slider.io/)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [LAME Worker Example - Example that records a snippet of audio from your microphone and encodes it as MP3 in real time](http://blixt.nyc/js-lameworker/example.html)
 * [LargeDS: Typed Arrays based Data Structures for memory intensive tasks](http://chethiya.github.io/lds.html)
@@ -1349,6 +1356,7 @@ Javascript
   * [Introduction / Basics • Svelte Tutorial](https://svelte.dev/tutorial/basics)
   * [How to Write Professional Code Using the Command Query Separation Principle](https://medium.com/javascript-in-plain-english/compile-svelte-in-your-head-e12c87808255)
   * [Svelte로 만드는 Todo List - 1 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/21/How-to-make-todo-list-app-with-Svelte-1.html)
+  * [Svelte로 만드는 Todo List - 2 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/24/How-to-make-todo-list-app-with-Svelte-2.html)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [SweetAlert](https://sweetalert.js.org/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
@@ -1492,6 +1500,7 @@ Javascript
   * [Yarn 톺아보기](https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/)
   * [Introducing Yarn 2](https://dev.to/arcanis/introducing-yarn-2-4eh1)
   * [yarn global 설정하기 - 완두블로그](https://wani.kr/posts/2017/05/24/yarn-global-setting/)
+  * [yarn-deduplicate: Deduplication tool for yarn.lock files](https://github.com/atlassian/yarn-deduplicate)
 
 ## Library Internationalization i18n 국제화
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
@@ -1737,6 +1746,7 @@ Javascript
 * [Node.js에서 Github oAuth에 접근해보자 (1). - 완두블로그](https://wani.kr/posts/2015/02/11/github-oauth-via-node-1/)
 * [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
 * [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+* [Node.js - 9.URL의 이해 - YouTube](https://www.youtube.com/watch?v=Zhbvui_T9VY)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -1768,6 +1778,8 @@ Javascript
   * [Quick Tip: Configure WebStorm for Deno](https://levelup.gitconnected.com/quick-tip-configure-webstorm-for-deno-9490cd785de3)
   * [Better Deno Security: Ask for Permission at Runtime](https://dev.to/bmorearty/better-deno-security-ask-for-permission-at-runtime-1fnm)
   * [denotrain - Web framework for Deno with often-used functions included](https://github.com/Caesar2011/denotrain)
+  * [OpenJS Deno - Google Slides](https://docs.google.com/presentation/d/1RnRx4cO4wTFJGHdw5XYypOx74XqQdDdWHP5bA7HjmiM)
+  * [Deno Is Ready for Production](https://www.infoq.com/news/2020/06/deno-1-ready-production/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
@@ -1899,6 +1911,7 @@ Javascript
 * [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
 * [PureScript and Haskell at Lumi](https://medium.com/fuzzy-sharp/purescript-and-haskell-at-lumi-7e8e2b16fb13)
 * [Coming to PureScript from Haskell/ Reflex/ Nix](https://www.srid.ca/2015401.html)
+* [How to Write PureScript React Components to Replace JavaScript](https://thomashoneyman.com/articles/replace-react-components-with-purescript/)
 
 # [React](http://reactkr.github.io/react)
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부, codesandbox.io 이용
@@ -2468,6 +2481,7 @@ Javascript
 * [Retrospective of making BGM player in my office](https://tech.ssut.me/retrospective-of-making-bgm-player-in-my-office/)
 * [5 Essential Libraries For Your Next React Application](https://medium.com/frontend-digest/5-essential-libraries-for-your-next-react-application-84d8d73e9806)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
+* [Chakra UI | Design System built with React](https://chakra-ui.com/)
 * Context API
   * [React’s ⚛️ new Context API](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
   * [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
@@ -2519,6 +2533,7 @@ Javascript
   * [**블로그 제작기**](https://ailrun.github.io/ko/post/trip-to-make-a-blog/) 직접적인 개발글은 아니지만 좋음
   * [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/)
   * [**Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기**](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
+  * [Gatsby 웹사이트에 적용한 다크 모드 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-06-25-dark-mode-for-gatsby-website)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
@@ -2879,6 +2894,7 @@ Javascript
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 * [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
+* [A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript - DEV](https://dev.to/ibrahima92/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript-4h7p)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
