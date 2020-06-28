@@ -120,6 +120,7 @@
 * [Rust Adventures — From Java Class to Rust Struct](https://medium.com/analytics-vidhya/rust-adventures-from-java-class-to-rust-struct-1d63b66890cf)
 * [Cross-compile Rust programs to run on Turris Omnia](https://itnext.io/cross-compile-rust-programs-to-run-on-turris-omnia-e592b555e2aa)
 * [Graph & Tree Traversals in Rust - The Data Dump - Medium](https://medium.com/the-data-dump/graph-tree-traversals-in-rust-3c9c93a0feba)
+* [3K, 60fps, 130ms: achieving it with Rust | tonari blog](https://blog.tonari.no/why-we-love-rust)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -159,7 +160,8 @@
 * [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
 * [Plumbum (latin for lead) is a port of Michael Snoyman's excellent conduit library. It allows for production, transformation, and consumption of streams of data in constant memory](https://srijs.de/rust-plumbum/plumbum/)
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
-* [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
+* [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
+  * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
@@ -212,3 +214,4 @@
   * [Part 2](https://blog.waffles.space/2015/07/08/a-pythonist-getting-rusty-these-days-part-2/)
 * [idiomatic-rust - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust](https://github.com/mre/idiomatic-rust)
 * [Rust RPG: Introductory Tutorial of Rust, Unit Testing, and Continuous Integration with a Roguelike](https://medium.com/@cameron.manavian/rust-rpg-introductory-tutorial-of-rust-unit-testing-and-continuous-integration-with-a-roguelike-b7b86e90855c)
+* [Introduction to Rust for Node Developers - DEV](https://dev.to/tindleaj/introduction-to-rust-for-node-developers-3j05)
