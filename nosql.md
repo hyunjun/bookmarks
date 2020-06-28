@@ -35,6 +35,7 @@ NoSQL
 * [SQL vs NoSQL — What is better for you?](https://hackernoon.com/sql-vs-nosql-what-is-better-for-you-cc9b73ab1215)
 * [SQL vs NoSQL — What is better for you?](https://medium.com/hackernoon/sql-vs-nosql-what-is-better-for-you-cc9b73ab1215)
 * [마이SQL을 쓰긴 애매할 때…'틈새' 데이터베이스 9가지](http://www.itworld.co.kr/news/148349)
+* [Luc Perkins | Blog | Recent database technology that should be on your radar (part 1)](https://lucperkins.dev/blog/new-db-tech-1/)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
@@ -361,6 +362,7 @@ NoSQL
 * [Mongolite User Manual](https://jeroen.github.io/mongolite/)
 * [How to resolve “Error Connecting to db. MongoNetworkError” when connecting to localhost MongoDB through MongoClient from NodeJS](https://medium.com/@bryantjiminson/how-to-resolve-error-connecting-to-db-3519f7744c5)
 * [MongoDB Best Practices 2020 Edition](https://www.percona.com/blog/2020/04/17/mongodb-best-practices-2020-edition/)
+* [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
 
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
