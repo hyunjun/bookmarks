@@ -1045,6 +1045,7 @@ Programming Books
 * (NOT YET) [모던 리액트/리덕스 프로그래밍 React/Redux를 통해 배우는 모던 웹 프로그래밍의 정석](http://wikibook.co.kr/react-redux/)
 * (NOT YET) [실전 리액트 프로그래밍](https://medium.com/@ljs0705/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%B1%85%EC%9D%84-%EC%8D%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-b227ab9df8b8)
   * [실전 리액트 프로그래밍](http://ebook.insightbook.co.kr/book/68)
+  * [<실전 리액트 프로그래밍> 개정판 소식 - landvibe - Medium](https://medium.com/@ljs0705/%EC%8B%A4%EC%A0%84-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B0%9C%EC%A0%95%ED%8C%90-%EC%86%8C%EC%8B%9D-d6d7a77e1c52)
 * (NOT YET) [스무디 한 잔 마시며 끝내는 React Native](https://bjpublic.tistory.com/343)
 * (NOT YET) [파이썬과 리액트를 활용한 주식 자동거래 시스템 구축 데이터 수집부터 거래 자동화, API 서버, 웹 개발, 데이터 분석까지 아우르는](https://wikibook.co.kr/stock-trading/)
 * (NOT YET) [Do it! 리액트 프로그래밍 정석](https://sihan-son.github.io/do-it-react/)
@@ -1105,6 +1106,7 @@ Programming Books
 * (NOT YET) [{열혈코딩}안드로이드 스튜디오로 만나는 코틀린](https://bjpublic.tistory.com/316)
 * (NOT YET) [코틀린 리액티브 프로그래밍 RxKotlin을 사용한 리액티브 프로그래밍](http://acornpub.co.kr/book/reactive-kotlin)
   * [**1-00.코틀린을 리액티브하게 Flex하다**](https://soda1127.github.io/flex-reactive-kotlin/)
+* (NOT YET) [코틀린을 다루는 기술](https://sihan-son.github.io/Kotlin-advanced/)
 
 # Linux
 
