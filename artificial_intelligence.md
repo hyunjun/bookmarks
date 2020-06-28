@@ -105,6 +105,8 @@ Artificial Intelligence
 * [LF AI Foundation Interactive Landscape](https://landscape.lfai.foundation/)
 * [25 Best Artificial Intelligence Blogs To Follow In 2020](http://nextotech.com/25-best-artificial-intelligence-blogs-to-follow-in-2020/)
 * [AI의 새로운 비즈니스는 전통적인 소프트웨어와 어떻게 다른가](https://blog.naver.com/wacanycorp/221992686730)
+* [입문자도 30분에 만드는 인공지능 #1 블랙핑크 닮은 꼴 찾기 서비스 - YouTube](https://www.youtube.com/watch?v=_2cYCuC5i0Y)
+  * [chris-chris/kpop-classifier](https://github.com/chris-chris/kpop-classifier)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
