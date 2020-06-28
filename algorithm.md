@@ -85,6 +85,7 @@ Algorithm
 * [AlgorithmVisualizer](http://algo-visualizer.jasonpark.me)
   * [ipytracer - Algorithm Visualizer for Jupyter/IPython Notebook](https://github.com/sn0wle0pard/ipytracer)
 * [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+* [Algorithms animated — chrislaux.com](https://www.chrislaux.com/)
 * [자료구조와 알고리즘 with C++](http://ehpub.co.kr/1-%EC%86%8C%EA%B0%9C-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-with-c/)
 * [Building a Modern Computer from First Principles](http://www.nand2tetris.org/)
 * [Welcome to 99 Bottles of Beer](http://99-bottles-of-beer.net/)
