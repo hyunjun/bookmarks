@@ -590,6 +590,7 @@ App
     * 디지털 영상 편집 제작을 위한 비선형 편집 프로그램
   5. [OBS 스튜디오](https://obsproject.com/ko)
     * 오픈소스 방송 프로그램. 화면 녹화, 게임 실시간 스트리밍, 녹음 등 인터넷 방송에 필요한 대부분의 기능 사용 가능
+    * [Niek/obs-web: OBS-web - the easiest way to control OBS remotely](https://github.com/Niek/obs-web)
   6. [나트론 Natron](https://natrongithub.github.io)
     * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
   7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
@@ -933,6 +934,7 @@ App
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
+* [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
 * [PassportPhoto4You](https://www.idphoto4you.com/)
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
@@ -1130,6 +1132,7 @@ App
 * Cygwin
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
 * [fciv - 윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)
+* [Geany - The Flyweight IDE](https://www.geany.org/)
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow ](https://github.com/bmatzelle/gow)
 * [igloo - A small, but powerful terminal app for Windows](https://easyigloo.org/)
 * [midipix - posix for windows](http://midipix.org/)
@@ -1142,6 +1145,7 @@ App
   * [Windows PowerShell Networking Guide](https://leanpub.com/windowspowershellnetworkingguide/read_full)
   * [Command Line Scripting PowerShell HTML CSS JavaScript Learn To Code For beginners Crash Course](https://www.youtube.com/watch?v=1Zc_kaL-mnQ)
   * [파워쉘을 이용해서 윈도우 텍스트 파일 utf8 인코딩 변경 하기 feat.Get-Content, Set-Content -Encoding](https://stricky.tistory.com/160)
+  * [Bloodguy :: Windows 배치 스크립트 파일을 관리자 권한으로 실행시 현재 디렉토리 (current working directory when run batch script as administrator, UAC, %cd%)](https://bloodguy.tistory.com/entry/Windows-%EB%B0%B0%EC%B9%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B6%8C%ED%95%9C%EC%9C%BC%EB%A1%9C-%EC%8B%A4%ED%96%89%EC%8B%9C-%ED%98%84%EC%9E%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-current-working-directory-when-run-batch-script-as-administrator-UAC-cd)
 * putty
   * [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
   * [How to export/import PuTTy sessions list?](https://stackoverflow.com/questions/13023920/how-to-export-import-putty-sessions-list)
@@ -1185,5 +1189,6 @@ App
   * [Windows10 WSL2에 Docker 설치](https://bloodguy.tistory.com/1087)
   * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
   * [WSL2 설치 및 Docker 환경 구축 : 네이버 블로그](https://blog.naver.com/ilikebigmac/222007741507)
+  * [WSL 2.0 Global configuration (.wslconfig) 을 통한 성능 향상](https://kibua20.tistory.com/63)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
