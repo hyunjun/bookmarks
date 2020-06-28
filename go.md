@@ -250,6 +250,7 @@ Go
 * [**Request-Response Olympics — The Search For The Perfect Request-Response Protocol**](https://medium.com/perimeterx/rpc-olympics-the-search-for-the-perfect-rpc-protocol-269ae97f59cc)
 * [Spelunking Bluetooth LE with Go](https://towardsdatascience.com/spelunking-bluetooth-le-with-go-c2cff65a7aca)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
+* [project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -387,6 +388,7 @@ Go
 * [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird ](https://github.com/purpleworks/delibird)
 * dep
   * [Go에서 dep으로 의존성 관리하기](https://blog.outsider.ne.kr/1354)
+* [DevDash Dashboard for Developers](https://thedevdash.com/)
 * [dlCBF - d-left Counting Bloom Filter](https://github.com/seiflotfy/dlCBF)
 * dqlite
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
