@@ -490,6 +490,7 @@ Git
   * [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1)
   * [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase)
   * [Git 과거의 특정 커밋 수정하기](https://github.com/HomoEfficio/dev-tips/blob/master/Git%20%EA%B3%BC%EA%B1%B0%EC%9D%98%20%ED%8A%B9%EC%A0%95%20%EC%BB%A4%EB%B0%8B%20%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0.md)
+  * [12.2: Rebase 시 "ours" 와 "theirs", 로컬과 원격 개념 이해하기 :: 노초코의 주경야독](https://nochoco-lee.tistory.com/117)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
