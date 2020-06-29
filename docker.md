@@ -39,6 +39,7 @@ Docker
 * [Docker Containers vs Virtual Machines vs Physical Machines | Docker Tutorial For Beginners](https://www.youtube.com/watch?v=FRescr1iBZI)
 * [Docker For The Absolute Beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 * [Docker for Beginners: Full Course](https://www.youtube.com/watch?v=zJ6WbK9zFpI)
+* [Exploring Docker: A Hands-On Guide for Absolute Beginners](https://morioh.com/p/db0120b2e184)
 * [WHAT IS DOCKER?](https://www.gangboard.com/blog/what-is-docker)
 * [Docker: Getting Started with Docker Docker 시작하기](http://www.sauru.so/blog/getting-started-with-docker/)
 * [Docker 시작하기. - 완두블로그](https://wani.kr/posts/2015/02/02/start-docker/)
@@ -370,6 +371,7 @@ Docker
 * [이미지 기반 어플리케이션 배포 패러다임 Immutable Infrastructure](http://blog.nacyot.com/articles/2014-04-06-immutable-infrastructure/)
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 * [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/2017/08/15/what-even-is-a-container/)
+* [Cgroup Driver 선택하기 – tech.kakao.com](https://tech.kakao.com/2020/06/29/cgroup-driver/)
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 * [컨테이너 기초 - chroot를 사용한 프로세스의 루트 디렉터리 격리](https://www.44bits.io/ko/post/change-root-directory-by-using-chroot)
 * [정적 링크 프로그램을 chroot와 도커(Docker) scratch 이미지로 실행하기](https://www.44bits.io/ko/post/static-compile-program-on-chroot-and-docker-scratch-image)
@@ -793,6 +795,7 @@ Docker
 * [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
 * [Why Not Use Kubernetes?](https://medium.com/better-programming/why-not-use-kubernetes-52a89ada5e22)
 * [EKS K8s에서 ELB(ALB, NLB) 제대로 사용하기](https://velog.io/@ausg/eks-k8s-elb)
+* [Kubernetes에 Microservice 배포하기 1편 - 클릭 몇 번으로 배포 시스템 만들기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/06/13/microsrv-deploy-1.html)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
