@@ -168,6 +168,7 @@ PyTorch
 * [PyTorch Autograd](https://teamdable.github.io/techblog/PyTorch-Autograd)
 * [PyTorch Module](https://teamdable.github.io/techblog/PyTorch-Module)
 * [**파이토치에도 보일러플레이트가 스치운다**](http://research.sualab.com/development/2020/06/18/pytorch-boilerplate.html)
+* [Reproducible PyTorch를 위한 randomness 올바르게 제어하기!](https://hoya012.github.io/blog/reproducible_pytorch/)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
