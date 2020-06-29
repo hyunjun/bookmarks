@@ -266,6 +266,7 @@ Programming Language
   * [**오크(ORK) – 난독화 컴파일러 도구 1편**](https://engineering.linecorp.com/ko/blog/code-obfuscation-compiler-tool-ork-1/)
   * [**오크(ORK) – 난독화 컴파일러 도구 2편**](https://engineering.linecorp.com/ko/blog/code-obfuscation-compiler-tool-ork-2/)
   * [스위프트, 러스트, 클랭을 떠받치는 힘, LLVM 알아보기](http://www.itworld.co.kr/news/146850)
+  * [“Apple Silicon”: Macintosh 역사상 네 번째의 아키텍처 대전환은 어떤 의미인가](https://medium.com/@unifiedh/apple-silicon-macintosh-%EC%97%AD%EC%82%AC%EC%83%81-%EB%84%A4-%EB%B2%88%EC%A7%B8%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%8C%80%EC%A0%84%ED%99%98%EC%9D%80-%EC%96%B4%EB%96%A4-%EC%9D%98%EB%AF%B8%EC%9D%B8%EA%B0%80-845ebb3f9d8d)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
