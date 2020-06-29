@@ -302,6 +302,7 @@ TensorFlow
 * [learn_math_functions_demo.py](https://github.com/bage79/nlp4kor/blob/5d0e0763070ae5d1befaf97379ac78ef38f70659/nlp4kor/skeletons/learn_math_functions_demo.py)
 * [basic_vidfig.ipynb](https://github.com/sjchoi86/advanced-tensorflow/blob/master/basic/basic_vidfig.ipynb)
 * [TensorFlow Datasets 및 Estimators를 소개합니다](https://developers-kr.googleblog.com/2017/09/introducing-tensorflow-datasets-and-estimators.html)
+* [How to Use a Pre-defined Tensorflow Dataset](https://morioh.com/p/e9d99754a454)
 * [How to use Jupyter in Floyd Hub for Deep Learning](https://medium.com/@mohendraroy/how-to-use-jupyter-in-floyd-hub-for-deep-learning-df293548b9cd)
 * [누구나 Tensorflow](https://drive.google.com/drive/folders/0B44EO5r4F3SsazFXWnZnUUxLekU)
   * [github.com/jwkanggist/EveryBodyTensorFlow](https://github.com/jwkanggist/EveryBodyTensorFlow)
