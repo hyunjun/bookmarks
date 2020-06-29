@@ -158,6 +158,7 @@ App
 # Backup
 * [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
 * [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
+  * [Mackup으로 시스템 설정 파일(dotfiles) 백업하고 복원하기 | 44BITS](https://www.44bits.io/ko/post/managing-dotfiles-by-using-mackup)
 
 # Blog
 * [Node.js 기반 정적 페이지 블로그 엔진, 하루프레스](https://www.slideshare.net/rhio.kim/nodejs-15277380?next_slideshow=1)
