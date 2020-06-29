@@ -1332,6 +1332,7 @@ Python
   * [점프 투 장고](https://wikidocs.net/book/4223)
 * [Effective Pandas](https://leanpub.com/effective-pandas)
 * [Full Stack Python](https://www.fullstackpython.com/)
+* Flask [점프 투 플라스크 - WikiDocs](https://wikidocs.net/book/4542)
 * [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
 * [Python 101](https://leanpub.com/python_101/read_full)
 * [Python 3.4 공부 좀 해볼까?](https://wikidocs.net/book/122)
