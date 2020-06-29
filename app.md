@@ -1190,5 +1190,6 @@ App
   * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
   * [WSL2 설치 및 Docker 환경 구축 : 네이버 블로그](https://blog.naver.com/ilikebigmac/222007741507)
   * [WSL 2.0 Global configuration (.wslconfig) 을 통한 성능 향상](https://kibua20.tistory.com/63)
+  * [Getting started with CUDA on Ubuntu on WSL 2 | Ubuntu](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
