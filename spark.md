@@ -375,6 +375,9 @@
 * [Concurrency in Spark](http://www.russellspitzer.com/2017/02/27/Concurrency-In-Spark/)
 * [How we reduced our Apache Spark cluster cost using best practices](https://medium.com/iotransportation/how-we-reduced-our-apache-spark-cluster-cost-using-best-practices-ac1f176379ac)
 * [Big Data file formats explained](https://medium.com/@luminousmen/big-data-file-formats-explained-73552c7ef4cd)
+* [Why Spark on Ceph? (Part 1 of 3)](https://www.redhat.com/en/blog/why-spark-ceph-part-1-3)
+* [Why Spark on Ceph? (Part 2 of 3)](https://www.redhat.com/en/blog/why-spark-ceph-part-2-3)
+* [Why Spark on Ceph? (Part 3 of 3)](https://www.redhat.com/en/blog/why-spark-ceph-part-3-3)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
