@@ -588,6 +588,7 @@ Vision
 * [PySceneDetect - a command-line application and a Python library for detecting scene changes in videos, and automatically splitting the video into separate clips](https://pyscenedetect.readthedocs.io/)
 * [PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models](https://github.com/facebookresearch/SlowFast)
 * sklearn [An Offbeat Approach to Brain Tumor Classification using Computer Vision](https://medium.com/towards-artificial-intelligence/an-offbeat-approach-to-brain-tumor-classification-using-computer-vision-19c9e7b84664)
+* [Speech2Face: Implementation of the CVPR 2019 Paper - Speech2Face: Learning the Face Behind a Voice by MIT CSAIL](https://github.com/saiteja-talluri/Speech2Face)
 * [YouEye - kiosk machine helper solution for blinded people](https://github.com/code-yeongyu/YouEye)
   * [YouEye - kiosk machine helper solution for blinded people](https://www.youtube.com/watch?v=GAdjqtUidms)
 
