@@ -92,6 +92,8 @@ Azure
 * [시계열 데이터 예측 애저 오토엠엘(Azure AutoML)](https://tykimos.github.io/2020/04/25/TimeSeriesForcast_Azure_AutoML/)
 * [Terraform Modules for Azure](https://github.com/rkttu/terraform-modules-for-azure)
 * [Elastic Observability 를 이용한 Azure 모니터링 #0 - YouTube](https://www.youtube.com/watch?v=jDGd4c62Rx4)
+* [Elastic + Azure 온라인 밋업 #1 - MS Azure + Elastic - YouTube](https://www.youtube.com/watch?v=Ygn8RlkBa6o)
+* [Elastic + Azure 온라인 밋업 #2 - Elastic Observability 를 이용한 Azure 모니터링 - YouTube](https://www.youtube.com/watch?v=TStDNsMWh7Y)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
