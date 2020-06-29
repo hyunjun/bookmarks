@@ -111,7 +111,7 @@ Scala
   * [Scala Best Practices](https://nrinaudo.github.io/scala-best-practices/)
 * [scala meta로 변경될 scala macro](https://www.youtube.com/watch?v=qEQHTGwus7Y)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
-* [1ambda.github.io/21/scala](https://1ambda.github.io/scala/) Scalaz, Functional, Reactive, Concurrent
+* [**1ambda.github.io/21/scala**](https://1ambda.github.io/scala/) Scalaz, Functional, Reactive, Concurrent
 * [Purely functional parallelism in Scala](https://medium.com/@wiemzin/purely-functional-parallelism-in-scala-37ecb1e9999)
 * [**scala-exercises.org - 스칼라 관련 문제를 온라인으로 풀면서 공부**](www.scala-exercises.org)
 * [최근에 가장 핫했던 스칼라 이슈](https://issues.scala-lang.org/browse/SI-2712)
@@ -259,6 +259,7 @@ Scala
 * [Lunatech and our commitment to the Scala Center](https://www.linkedin.com/pulse/lunatech-our-commitment-scala-center-antoine-laffez/)
 * [Effect Tracking Is Commercially Worthless](https://degoes.net/articles/no-effect-tracking)
 * [Run Scala applications with GraalVM and Docker - With http4s, doobie and cats-effects](https://medium.com/rahasak/run-scala-applications-with-graalvm-and-docker-a1e67701e935)
+* [scala - What's the difference between => , ()=>, and Unit=> - Stack Overflow](https://stackoverflow.com/questions/4543228/whats-the-difference-between-and-unit)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
