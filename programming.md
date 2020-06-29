@@ -986,6 +986,7 @@ Programming
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
 * [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
 * [코드리뷰 모음 서비스를 소개합니다](https://woowabros.github.io/techcourse/2020/06/05/techcourse-javable.html)
+* [시니어 엔지니어로 넘어가기 위한 기술: 코드 읽기](http://mkseo.pe.kr/blog/?p=2737)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -1834,6 +1835,7 @@ Programming
 * [2020년 6월 6일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-6.html) streamhut – 터미널 스트리밍, 오픈소스 모니터링 솔루션, 윈도우 심볼릭 링크, GPU 사용 터미널 alacrity
 * [2020년 6월 13일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-13.html) 페북 TransCoder, CORS, Vim, devdocs.io, Android 11, Micronaut Servlet, Grid.js, Istio Traffic Mirroring, /bin과 /usr/bin 분리된 이유는?
 * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
+* [2020년 6월 27일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-27.html) 아마존 허니코드, AWS 탐구생활, AWS, GCP, Azure Cloud 자료 모음, 유닉스 SIGSEGV에서 ‘V’는?
 * [2020년 상반기. 양질의 기술 아티클 모음](https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
 
 # OS Operating System
