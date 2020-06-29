@@ -126,6 +126,7 @@ Java
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
+* Arrays [java의 arrays.sort 메서드는 어떤 정렬을 사용할까요?](https://codingdog.tistory.com/entry/java%EC%9D%98-arrayssort-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%A0%AC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [autovalue](https://github.com/google/auto/blob/master/value/userguide/index.md)
 * class
   * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
