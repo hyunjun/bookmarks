@@ -601,6 +601,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치의 인덱스를 분석에 적합한 피벗 테이블로 만들기 (1) - 머신러닝 > Data frame transforms](https://olpaemi.blog.me/221634955864)
 * [엘라스틱서치의 인덱스를 분석에 적합한 피벗 테이블로 만들기 (2) - 머신러닝 > 데이터프레임(Data frame) transforms](https://blog.naver.com/olpaemi/221635737975)
 * [새로 나온 이 영화 재미있을까? Elasticsearch의 supervised learning으로 예측해보자!](https://www.elastic.co/kr/blog/using-classification-in-elasticsearch-to-curate-your-movie-queue)
+* [엘라스틱 머신러닝(Machine Learning)으로 DGA Activity를 탐지하는 지도 학습 모델 만들기 (1)](https://blog.naver.com/olpaemi/222014409955)
 
 # Plugin
 * [**어떤 한국어 분석기를 사용할까?**](https://www.elastic.co/kr/blog/using-korean-analyzers) 5.5.0 기준
