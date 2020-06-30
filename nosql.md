@@ -389,6 +389,7 @@ NoSQL
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://academy.realm.io/kr/posts/best-practices-pain-points-mobile-networking-rest-api-failures/)
 * [**데이터베이스를 설계하며 배운것들:Realm 스레드 깊게 들여보기**](https://academy.realm.io/kr/posts/threading-deep-dive/)
 * [Realm을 위한 Kotlin](https://developer88.tistory.com/207)
+* [Realm와 Thread에 관해서 정리해 봅니다. #RealmResults](https://developer88.tistory.com/248)
 
 # RethinkDB
 * [Building better Node.js apps with RethinkDB](https://nodecraft.com/blog/dev/building-better-node-js-apps-with-rethinkdb)
