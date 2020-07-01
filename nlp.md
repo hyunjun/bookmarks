@@ -310,6 +310,7 @@ NLP
 * [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127)
 * [네이버 스마트 스토어 구매평을 통한 소비자 반응 분석(텍스트 분석) 프로젝트](https://github.com/seoulblanc/NaverStoreData)
 * [100문제로 두드려 보는 자연어처리 2020 (Rev 1) - NLP100 2020](https://nlp100.github.io/ko/)
+* [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -390,6 +391,7 @@ NLP
 * [BERT(Bidirectional Encoder Representations from Transformers) 구현하기 (2/2)](https://paul-hyun.github.io/bert-02/)
 * [BERT-related Papers](https://github.com/tomohideshibata/BERT-related-papers/)
 * [BERT로 Q&A 구현해보기 With SQuAD AND KERAS](https://www.youtube.com/watch?v=LuApA264Wbs)
+* [주정헌 - Revealing the Dark Secrets of BERT - YouTube](https://www.youtube.com/watch?v=gcar30nhgqQ)
 * [nn.utils.prune 모듈로 BERT 파라미터 Pruning 해보기](https://github.com/Huffon/nlp-various-tutorials/blob/master/pruning-bert.ipynb)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
@@ -1166,6 +1168,7 @@ NLP
   * [Learning to reason by reading text and answering questions](https://www.slideshare.net/NaverEngineering/learning-to-reason-by-reading-text-and-answering-questions/1)
 * [강화학습 기반 QA 시스템 - 김영삼](https://www.youtube.com/watch?v=jw-Am-sPTsY)
 * [MRQA 2018: Machine Reading for Question Answering](https://mrqa2018.github.io/)
+* [MRC 시리즈 1편: MRC가 뭐예요? : 네이버 블로그](https://blog.naver.com/skelterlabs/222015644741)
 * [Transparency-by-Design networks (TbD-nets)](https://github.com/davidmascharka/tbd-nets)
 * [Relational Network Review](https://seujung.github.io/2018/05/29/rl_network/)
 * [Building a Question-Answering System from Scratch— Part 1](https://towardsdatascience.com/building-a-question-answering-system-part-1-9388aadff507)
