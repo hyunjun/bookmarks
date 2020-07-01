@@ -86,6 +86,7 @@ Business
 * [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
+* [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
