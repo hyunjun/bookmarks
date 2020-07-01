@@ -1799,6 +1799,8 @@ Programming
   * [월간 개발자스럽다 #52](https://blog.gaerae.com/2020/02/monthly.html)
   * [월간 개발자스럽다 #53](https://blog.gaerae.com/2020/03/monthly.html)
   * [월간 개발자스럽다 #54](https://blog.gaerae.com/2020/05/monthly.html)
+  * [월간 개발자스럽다 #55](https://blog.gaerae.com/2020/05/monthly-55.html)
+  * [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
@@ -2119,6 +2121,7 @@ Programming
 * [Azar Mirror 서버 제작기 1편 - 인프라 개선을 두렵지 않게 하는 테스트 환경 만들기](https://hyperconnect.github.io/2020/05/15/azar-mirror-1.html)
 * [번역 UnitTest By Martin Fowler](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-unittest-by-martin-fowler-2fbba01a782e)
 * [**실시간 댓글 개발기(part.2) – 험난했지만 유익했던 웹소켓 스트레스 테스트 및 안정화 작업**](https://tech.kakao.com/2020/06/15/websocket-part2/)
+* [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
