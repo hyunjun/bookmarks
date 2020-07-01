@@ -131,6 +131,7 @@ Algorithm
 * [2018년도 카카오 블라인드 코딩 테스트 채용 - 전체 문제풀이 (총 38분)](https://www.youtube.com/watch?v=Rgw0fo6isUM)
 * [2019 카카오 개발자 겨울 인턴십 코딩 테스트 문제 해설](https://tech.kakao.com/2020/04/01/2019-internship-test/)
 * [카카오 호텔 방 배정 map 을 이용해서 깔끔하게 처리합시다](https://codingdog.tistory.com/entry/%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%98%B8%ED%85%94-%EB%B0%A9-%EB%B0%B0%EC%A0%95-map-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%A9%EC%8B%9C%EB%8B%A4)
+* [2020 카카오 인턴십 for Tech developers 문제해설 – tech.kakao.com](https://tech.kakao.com/2020/07/01/2020-internship-test/)
 * [2019년 상반기 LINE 인턴 채용 코딩테스트 문제 해설](https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
 * [프로그래밍을 잘하는 5가지 방법 — 1. 자료구조와 알고리즘 공부하기](https://medium.com/@ghilbut/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-ebf3a3f79ee2)
