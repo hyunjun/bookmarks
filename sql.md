@@ -154,6 +154,7 @@ SQL
 * [Paper: OLTP Through the Looking Glass, and What We Found There](http://blog.lastmind.io/archives/896)
 * [Paper: Main Memory Database Systems: An Overview](http://blog.lastmind.io/archives/899)
 * [Paper: Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://blog.lastmind.io/archives/903)
+* [Paper: Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems – The Last Mind](http://blog.lastmind.io/archives/941)
 
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
