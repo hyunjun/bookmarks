@@ -1780,6 +1780,7 @@ Javascript
   * [denotrain - Web framework for Deno with often-used functions included](https://github.com/Caesar2011/denotrain)
   * [OpenJS Deno - Google Slides](https://docs.google.com/presentation/d/1RnRx4cO4wTFJGHdw5XYypOx74XqQdDdWHP5bA7HjmiM)
   * [Deno Is Ready for Production](https://www.infoq.com/news/2020/06/deno-1-ready-production/)
+  * [Deno Course - Better than Node.js? - YouTube](https://www.youtube.com/watch?v=TQUy8ENesGY)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
