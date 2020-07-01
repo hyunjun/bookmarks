@@ -496,6 +496,7 @@ Programming Books
 * (NOT YET) [딥러닝 머신러닝 위한 파이썬 넘파이](http://www.upinews.kr/newsView/upi202006080054)
   * [넘파이 오프닝 - YouTube](https://www.youtube.com/watch?v=9DoYtrDrWd4)
 * (NOT YET) [Do It! 딥러닝 입문](https://www.youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
+* (NOT YET) [딥러닝과 바둑-번역 후기 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/deeplearningandgo/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -568,6 +569,7 @@ Programming Books
 * [(Kaggle 우승작으로 배우는) 머신러닝 탐구생활](http://bjpublic.tistory.com/310)
   * 2018.09
   * 탐라 문004.73 정17ㅁ
+* (NOT YET) 캐글 가이드 전 세계 데이터 과학자와 소통하고, 경쟁하고, 성장하기
 * (NOT YET) [패턴 인식과 머신 러닝](http://jpub.tistory.com/831)
 * (NOT YET) [파이썬으로 배우는 머신러닝의 교과서 - 그림으로 이해하고 코드로 확인하는 머신러닝, 딥러닝 기초](http://www.hanbit.co.kr/store/books/look.php?p_code=B8718279503)
   * [파이썬으로 배우는 머신러닝 교과서](https://jybaek.tistory.com/774)
@@ -1106,7 +1108,7 @@ Programming Books
 * (NOT YET) [{열혈코딩}안드로이드 스튜디오로 만나는 코틀린](https://bjpublic.tistory.com/316)
 * (NOT YET) [코틀린 리액티브 프로그래밍 RxKotlin을 사용한 리액티브 프로그래밍](http://acornpub.co.kr/book/reactive-kotlin)
   * [**1-00.코틀린을 리액티브하게 Flex하다**](https://soda1127.github.io/flex-reactive-kotlin/)
-* (NOT YET) [코틀린을 다루는 기술](https://sihan-son.github.io/Kotlin-advanced/)
+* (NOT YET) [코틀린을 다루는 기술](https://sihan-son.github.io/Kotlin-advanced/) 함수형 패러다임이 잘 녹아들었다는 평이 있음
 
 # Linux
 
@@ -1353,6 +1355,7 @@ Programming Books
   * scipy + 선형대수
 * (NOT YET) [파이썬을 활용한 금융공학 레시피](http://book.daum.net/detail/book.do?bookid=BOK00035116706YE)
   * 2018.07 탐라
+* (NOT YET) [금융 데이터를 위한 파이썬](https://github.com/bjpublic/python-for-finance-data)
 * (NOT YET) Fluent Python 전문가를 위한 파이썬: 간단하고, 명료하고, 효율적인 파이썬 프로그래밍
   * 한라 005.133-하32ㅈ
 * 한 권으로 배우는 파이썬 기초 & 알고리즘 사고법
