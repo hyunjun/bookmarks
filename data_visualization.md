@@ -92,6 +92,7 @@ Data Visualization
 * [datavizproject.com](https://datavizproject.com/)
 * [Why scientists need to be better at data visualization](https://www.knowablemagazine.org/article/mind/2019/science-data-visualization)
 * [그래프 그리는 사이트 & 프로그램 TOP10 모음](https://blog.naver.com/zhangyun123/221974254637)
+* [데이터, 인사이트를 눈으로 확인하려면? | ㅍㅍㅅㅅ](https://ppss.kr/archives/220443)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -310,11 +311,13 @@ Data Visualization
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
 
 ## Python Matplotlib
+* [practice - bar graph with label](https://gist.github.com/hyunjun/160e74fc88cc6d74c84237702f1bfec0#file-bar_graph_with_label-py)
 * [matplotlib.org/matplotblog](https://matplotlib.org/matplotblog/)
 * examples
   * [python_matplotlib](https://github.com/zerosum99/python_matplotlib)
   * [Draw a minimalist Christmas tree with Python and their awesome libraries](https://gist.github.com/franktoffel/aea4329b760eb3e72f4d)
   * [Move legend outside of figure in matplotlib](http://jb-blog.readthedocs.io/en/latest/posts/0012-matplotlib-legend-outdide-plot.html)
+  * [Grouped bar chart with labels — Matplotlib 3.2.1 documentation](https://matplotlib.org/3.2.1/gallery/lines_bars_and_markers/barchart.html)
 * [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
 * [Matplotlib 3.1 cheat sheet. From an upcoming book on matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
