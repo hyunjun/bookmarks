@@ -303,6 +303,7 @@ Data Science
 * [데이터사이언스 취업 전에 꼭 고민하면 좋을 내용 공개!](https://www.youtube.com/watch?v=03AWzU5mkOI)
 * [**다시 찾아간 지표의 세계**](https://cojette.github.io/metrics_revisited/) vanity metrics, actionable metrics
 * [3 Design Principles for Engineering Data](https://medium.com/@WomenWhoCode/3-design-principles-for-engineering-data-9d03dcb1711f)
+* [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
