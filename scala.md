@@ -1592,3 +1592,4 @@ Scala
 * [Intro to Scala Fundamentals](https://github.com/wjlow/intro-to-scala)
 * [2020 Spring KAIST CS320 Scala Sessions](https://www.youtube.com/playlist?list=PLLfImqsGCdw0QVs_-DXXVj57xGJK1e3b8)
 * [Scala - Your First Programming Language](https://www.youtube.com/playlist?list=PLJGDHERh23x-YBJ8LmYU_IGBFflvsKfLu)
+* [KAIST CS320 Programming Languages Course Reading Materials](https://hjaem.info/articles/main)
