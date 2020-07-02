@@ -789,6 +789,8 @@ AWS
 * [Hybrid와 Multi Account간의 DNS 질의](https://zigispace.net/1074)
 * [Route53을 이용해 도메인과 ELB 를연결하는 방법](https://developer88.tistory.com/312)
 * [RDS Replica의 부하를 분산하는 방법](https://developer88.tistory.com/318)
+* [AWS 라우트53(Route53), 다른 계정으로 호스팅 영역 DNS 레코드 이전하기 | 44BITS](https://www.44bits.io/ko/post/aws-route-53-migration-hosted-zone-to-another-account)
+* [AWS 라우트53(Route 53) 다른 계정으로 도메인 이전하기 | 44BITS](https://www.44bits.io/ko/post/aws-route-53-migration-domain-to-another-account)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
