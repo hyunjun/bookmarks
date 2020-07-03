@@ -1351,6 +1351,7 @@ NLP
 * [Topic modeling using Khaiii](https://github.com/rudvlf0413/khaiii-topicmodeling)
 * [tomotopy - Python package of Tomoto, the Topic Modeling Tool](https://github.com/bab2min/tomotopy)
   * [Python용 토픽 모델링 패키지 - tomotopy 개발](https://bab2min.tistory.com/632)
+  * [Python tomotopy로 쉽게 토픽 모델링 실시하기](https://bab2min.tistory.com/633)
 
 # Translation
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
