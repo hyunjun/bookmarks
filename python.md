@@ -3011,6 +3011,7 @@ Python
 ## Library package install management
 * [My Python Development Environment, 2020 Edition](https://jacobian.org/2019/nov/11/python-environment-2020)
 * [**Overview of python dependency management tools**](https://modelpredict.com/python-dependency-management-tools)
+* [State-of-the-art python project setup - Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * pip
