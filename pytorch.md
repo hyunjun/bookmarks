@@ -241,7 +241,9 @@ PyTorch
   * PyTorch 1.0.0 업데이트에서 공개된 JIT compile 지원은 PyTorch 모델 서빙에 새로운 해법 제시
   * Brusta는 이 JIT compile을 활용한 다양한 응용 중 하나이며, Platform-free PyTorch Model Serving을 목표로, “PyTorch 모델의 상용화”를 지향하는 프로젝트
   * 첫 번째로 PyTorch로 만든 모델을 입력받고, 이 모델을 JVM 위에서 구동하는 서버로 제공하는 모듈을 공개
-* Captum [Open-sourcing Captum: A model interpretability library for PyTorch](https://ai.facebook.com/blog/open-sourcing-captum-a-model-interpretability-library-for-pytorch/)
+* Captum
+  * [Open-sourcing Captum: A model interpretability library for PyTorch](https://ai.facebook.com/blog/open-sourcing-captum-a-model-interpretability-library-for-pytorch/)
+  * [Opening Up the Black Box: Model Understanding with Captum and PyTorch - YouTube](https://www.youtube.com/watch?v=0QLrRyLndFI)
 * [Clipper Tutorial](https://github.com/ucbrise/clipper-tutorials) PyTorch, Tensorflow, PySpark, Scikit-Learn 으로 만든 모델 배포
 * [ComplexCNN - pytorch implementation of complex convolutional neural network](https://github.com/litcoderr/ComplexCNN)
   * 대부분 딥러닝 모델들은 실수를 취급
