@@ -1251,6 +1251,7 @@ Scala
 * [Using Tagless Final with laws - Scala tutorial](https://www.youtube.com/watch?v=mkQLU7OzqYM)
 * [Bake your bread tagless-final style](https://blog.softwaremill.com/bake-your-bread-tagless-final-style-dea9448b3dc3)
 * [Tagless Final - Part 1 - What is Tagless Final? - YouTube](https://www.youtube.com/watch?v=XJ2NjqkWdck)
+* [Tagless Final - Part 2 - Introduction to the Expression Problem - YouTube](https://www.youtube.com/watch?v=jz0jbJ3VkjQ)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -1367,6 +1368,8 @@ Scala
 * [Developing simple chemical physics simulations that run in the browser](https://medium.com/@matthagy/developing-simple-chemical-physics-simulations-that-run-in-the-browser-fa1665879c78)
 * [Trait-based web services with Scala.js and Udash](https://medium.com/krakow-scala/trait-based-web-services-with-scala-js-and-udash-5fa6b3d1e1c6)
 * [GCP Cloud Functions with Scala.js in 10 lines(ish)](https://www.mostly.codes/blog/creating-scalajs-gcp-cloud-functions)
+* [Part 1: Using akka and react to organize your single page scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/25/part-1-using-akka-and-react-to-organize-your-single-page-scala-js-application/)
+* [Part 2: The SMAkkaR.js Stack- Using monocle and akka to facilitate model and component reusability in a react scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/26/part-2-using-monocle-and-akka-to-facilitate-model-and-component-reusability-in-a-react-scala-js-application/)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 
 # TDD, Test
