@@ -812,6 +812,7 @@ Programming Books
   * [팀을 위한 Git](https://blog.outsider.ne.kr/1281)
 * (NOT YET) [Do it! 지옥에서 온 문서 관리자 깃&깃허브 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/342/PUB)
   * [opentutorials.org/module/3733](https://opentutorials.org/module/3733)
+* (NOT YET) [팀 개발을 위한 Git・GitHub 시작하기](https://jybaek.tistory.com/874)
 
 # Go
 
