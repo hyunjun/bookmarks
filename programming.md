@@ -1693,6 +1693,7 @@ Programming
   * [6월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/06/b-6-2.html)
   * [6월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/06/b-6-3.html)
   * [6월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/06/b-6-4.html)
+  * [7월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/07/b-7-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1770,6 +1771,9 @@ Programming
   * [기술 뉴스 #148 : 20-04-15](https://blog.outsider.ne.kr/1481)
   * [기술 뉴스 #149 : 20-05-01](https://blog.outsider.ne.kr/1483)
   * [기술 뉴스 #150 : 20-05-15](https://blog.outsider.ne.kr/1484)
+  * [기술 뉴스 #151 : 20-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1485)
+  * [기술 뉴스 #152 : 20-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1486)
+  * [기술 뉴스 #153 : 20-07-04 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1487)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
