@@ -251,6 +251,7 @@ Go
 * [Spelunking Bluetooth LE with Go](https://towardsdatascience.com/spelunking-bluetooth-le-with-go-c2cff65a7aca)
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 * [project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
+  * [byounghoonkim/project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -337,6 +338,8 @@ Go
 * [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
 * [Monitor docker containers to get real time CPU/Memory](https://github.com/Scalingo/acadock-monitoring)
 * [Containerize Your Go Developer Environment - Part 1 - Docker Blog](https://www.docker.com/blog/containerize-your-go-developer-environment-part-1/)
+* [Containerize Your Go Developer Environment - Part 2 - Docker Blog](https://www.docker.com/blog/containerize-your-go-developer-environment-part-2/)
+* [Containerize Your Go Developer Environment – Part 3 - Docker Blog](https://www.docker.com/blog/containerize-your-go-developer-environment-part-3/)
 * [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
   * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 
@@ -429,6 +432,7 @@ Go
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
+* [GoPlus - The Go+ language for data science](https://github.com/qiniu/goplus)
 * [gops - a command to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
 * [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
 * [go-sct GoDoc - A color temperature setting library and CLI that operates in a similar way to f.lux and Redshift](https://github.com/d4l3k/go-sct)
