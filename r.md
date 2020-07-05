@@ -654,6 +654,7 @@ R
 * [EnsembleML: An R package for Parallel Ensemble Modeling in R](https://www.r-bloggers.com/ensembleml-an-r-package-for-parallel-ensemble-modeling-in-r/)
 * [modelStudio - Interactive Studio with Explanations for ML Predictive Models](https://modeloriented.github.io/modelStudio/)
   * [Explanatory Model Analysis with modelStudio](https://www.r-bloggers.com/explanatory-model-analysis-with-modelstudio/)
+* SuperLearner [Guide to SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html)
 
 # NLP
 * [한글 텍스트 형태소 분석기 사용 코드](https://github.com/vl0w0lv/kor-tm/blob/master/Rcode)
