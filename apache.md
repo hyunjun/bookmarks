@@ -56,6 +56,7 @@ Apache
 * [Apache Arrow (Python)](https://arrow.apache.org/docs/python/)
   * [Reading and Writing the Apache Parquet Format](https://arrow.apache.org/docs/python/parquet.html#reading-and-writing-the-apache-parquet-format)
 * [Wes McKinney: Ursa Labs and Apache Arrow in 2019 | PyData Miami 2019](https://www.youtube.com/watch?v=7HiwzHWiF20)
+* [Apache Arrow and Java: Lightning Speed Big Data Transfer](https://www.infoq.com/articles/apache-arrow-java/)
 
 # [Atlas](https://atlas.apache.org/) 데이터 거버넌스, 표준, 계보 관리 플랫폼
 * [Apache Atlas — Using the v2 Rest API](https://medium.com/hashmapinc/apache-atlas-using-the-v2-rest-api-6f9be1c256ae) Atlas의 Rest API를 사용하여 데이터를 기록하는 방법 소개
