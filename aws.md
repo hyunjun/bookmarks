@@ -398,6 +398,7 @@ AWS
 * [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
 * [AWS EC2 + GOST(Go Simple Tunnel)를 사용하여 쉽게 Foward Proxy 서버 만들기 - 완두블로그](https://wani.kr/posts/2019/09/25/ec2-gost-easy-forward-proxy/)
 * [aws-vault로 AWS의 인증 정보 안전하게 사용하기](https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
+* [DevAxConnect - Twitch](https://www.twitch.tv/videos/667616330)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
