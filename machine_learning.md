@@ -362,6 +362,7 @@ Machine Learning
   * [CM 세미나](https://www.youtube.com/playlist?list=PLzWH6Ydh35ggVGbBh48TNs635gv2nxkFI)
   * [Artificial Intelligence & Machine Learning](https://www.youtube.com/playlist?list=PLamqaOMCyiiTH8pEgdfDvyR3_ET3_7xT5)
 * [Machine learning algorithms - Minimal and clean examples of machine learning algorithms](https://github.com/rushter/MLAlgorithms)
+* [All Machine Learning Algorithms Explained | Data Science | Machine Learning | Python](https://thecleverprogrammer.com/2020/06/05/all-machine-learning-algorithms-explained/)
 * [New Machine Learning Cheat Sheet by Emily Barry](http://www.datasciencecentral.com/profiles/blog/show?id=6448529%3ABlogPost%3A437165)
 * [Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [4 Reasons Your Machine Learning Model is Wrong (and How to Fix It)](http://www.kdnuggets.com/2016/12/4-reasons-machine-learning-model-wrong.html)
