@@ -399,6 +399,7 @@ Business
 * [과연 팀장 탓 일까?](http://minieetea.com/2020/05/archives/6013)
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
+* [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
 * [Creating Balance between Product Managers & Engineers](https://www.infoq.com/presentations/balance-management-engineers/)
 * [Ego Is the Enemy of Good Leadership](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
 * [What Leaders Really Do 번역](https://docs.google.com/document/d/1mtClcLckGfdCXjtHfvSJj_5rZNXj8nSw_wqQagUy9W4)
@@ -433,6 +434,7 @@ Business
 * [다이슨이 3년 공들인 전기차 사업에서 백기를 든 이유](https://ppss.kr/archives/205684)
 * [**Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product**](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [**모바일 광고 Big4 (FYNK)**](https://brunch.co.kr/@hyungsukkim/125)
+* [페이스북이 개인화 광고를 위해 머신러닝을 사용하는 방법 | GeekNews](https://news.hada.io/topic?id=2323)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -535,6 +537,7 @@ Business
 * [내 사업이 망한 진짜 이유](https://www.upfly.me/2019/09/05/startup-failure-example-analysis/)
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
 * [창업 아이템 고르는 법](https://liveandventure.com/2020/05/21/item/)
+* [Unit Economics — 성장을 드라이브하는 기준 — How I invest (3) - 허진호 (Jin Ho Hur) - Medium](https://medium.com/@hur/unit-economics-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80-how-i-invest-3-2fff1dad51c6)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
