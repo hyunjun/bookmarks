@@ -11,6 +11,7 @@ Json
 * [Parsing JSON is a Minefield](http://seriot.ch/parsing_json.html)
 * [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
 * [B급 프로그래머 (스택오버플로우) 구글이 JSON 응답에 while(1);을 붙여 보내는 이유는?](http://jhrogue.blogspot.com/2019/03/b-json-while1.html)
+* [Use Binary Encoding Instead of JSON - Better Programming - Medium](https://medium.com/better-programming/use-binary-encoding-instead-of-json-dec745ec09b6)
 
 # C++
 * [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
