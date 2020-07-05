@@ -404,6 +404,7 @@ NLP
 * [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
 * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
 * [음성인식으로 시작하는 딥러닝](https://wikidocs.net/book/2553)
+* [practical-nlp: Official Repository for 'Practical Natural Language Processing' by O'Reilly](https://github.com/practical-nlp/practical-nlp)
 
 # Category
 * text categorization; 예를 들어 100만개의 상품 description이 있고, 이걸 supervised를 위한 document로 사용해, 나중에 들어오는 상품 description을 통해 cateogory 판별
