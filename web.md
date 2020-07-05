@@ -786,6 +786,7 @@ Web
 * [Stealing Secrets from Developers using Websockets](https://medium.com/@stestagg/stealing-secrets-from-developers-using-websockets-254f98d577a0)
 * [Why is This Website Port Scanning me](https://nullsweep.com/why-is-this-website-port-scanning-me/)
 * [A JavaScript library for WebSockets](https://sarus.anephenix.com/)
+* [How many system resources will be held for keeping 1,000,000 websocket open? - Stack Overflow](https://stackoverflow.com/questions/17448061/how-many-system-resources-will-be-held-for-keeping-1-000-000-websocket-open)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
