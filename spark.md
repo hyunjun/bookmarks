@@ -879,6 +879,7 @@
 * [Webinar: A preview of Apache Spark 3.0](https://www.youtube.com/watch?v=g-qZslQsOuE)
 * [Spark & AI summit and a glimpse of Spark 3.0 - Towards Data Science](https://towardsdatascience.com/spark-ai-summit-and-a-glimpse-of-spark-3-0-5fe0775386de)
 * [Spark 3.0에 새로 추가된 기능 소개 및 설명 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/whats-new-in-spark-3/)
+* [NVIDIA Accelerates Spark Data Analytics Platform | NVIDIA Blog](https://blogs.nvidia.com/blog/2020/06/24/apache-spark-gpu-acceleration/)
 
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
