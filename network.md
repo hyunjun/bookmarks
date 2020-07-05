@@ -65,6 +65,7 @@ Network
   * [HTTP codes as Valentine’s Day comics](https://medium.com/@hanilim/http-codes-as-valentines-day-comics-8c03c805faa0)
   * [301과 302 Redirect의 차이](https://nsinc.tistory.com/168)
   * [Apache 302 error 원인과 해결방법](https://blog.bsmind.co.kr/248)
+* [HTTP Cats](https://http.cat/) code값을 고양이로 표현. 크게 와닿지는 않지만 그냥 재미로 기록
 * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
 * [HTTP란 무엇인가](https://www.zerocho.com/category/HTTP/post/5b344f3af94472001b17f2da)
 * [WEB2 - HTTP](https://opentutorials.org/course/3385)
