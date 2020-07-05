@@ -40,6 +40,8 @@ Business
 * [일이 왜 자꾸 재미가 없어지지?](https://brunch.co.kr/@hyungsukkim/54)
 * [업무를 점검하는 3단계 프로세스](https://brunch.co.kr/@hyungsukkim/56)
 * [어떻게 일할까를 어떻게 정의할까](https://brunch.co.kr/@hyungsukkim/117)
+* [시스템으로 만들기](https://brunch.co.kr/@lunarshore/375)
+* [집중과 균형](https://brunch.co.kr/@hyungsukkim/128)
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
@@ -77,6 +79,7 @@ Business
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [Your “high bar” is wrecking your team](http://brandonhays.com/blog/2018/06/19/your-high-bar-is-wrecking-your-team/)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
+* [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [협업의 미신 5가지](http://agile.egloos.com/5904102)
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
