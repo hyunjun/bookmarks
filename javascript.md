@@ -2362,6 +2362,8 @@ Javascript
 * [Creating your Second React Application: Managing State](https://medium.com/javascript-in-plain-english/creating-your-second-react-application-d6d50e3e1e91)
 * [How to Create Show & Hide Password Functionality in ReactJS](https://medium.com/@bryantjiminson/how-to-create-show-hide-password-functionality-in-reactjs-18e6a2b56bf4)
 * [Building a booking engine with React JS - YouTube](https://www.youtube.com/watch?v=0OAQuJ2UMgk)
+* [Creating a Design System in React - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/creating-a-design-system-in-react-5c4d811d0ccc)
+* [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2477,6 +2479,7 @@ Javascript
 * [React Native용 오픈소스 만들기](https://dev-yakuza.github.io/ko/react-native/make-opensource-library/)
 * [Get Started with React Navigation 5 in React Native](https://medium.com/@rossbulat/getting-started-with-react-navigation-5-in-react-native-f82676294d2f)
 * [React Native's re-architecture in 2020](https://medium.com/swlh/react-natives-re-architecture-in-2020-9bb82659792c)
+* [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
