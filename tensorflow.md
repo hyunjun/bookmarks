@@ -514,6 +514,7 @@ TensorFlow
 * [TensorFlow 2.0 + Keras, 딥러닝 연구자들을 위한 오버뷰](https://colab.research.google.com/drive/1p4RhSj1FEuscyZP81ocn8IeGD_2r46fS#scrollTo=zoDjozMFREDU)
 * [인공지능 Python, Go! 하자!](https://www.youtube.com/watch?v=WGSwKW3dPdA)
 * [3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)](https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/)
+* [ReXNet-TF2: TensorFlow implementation of "ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network"](https://github.com/YeongHyeon/ReXNet-TF2)
 
 # Book
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
