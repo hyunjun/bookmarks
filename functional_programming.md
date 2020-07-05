@@ -121,6 +121,7 @@ Functional Programming
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [스칼라 FP 관련 책들](https://gist.github.com/ikhoon/622605181b33839c95f3dd3df9ff8572)
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+* [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
 
 # Category Theory
 * [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
