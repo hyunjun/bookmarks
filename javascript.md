@@ -1146,6 +1146,7 @@ Javascript
   * [How to create an Electron app using Angular and SQLite3](https://medium.freecodecamp.org/creating-an-electron-app-using-angular-and-sqlite3-24ca7d892810)
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #1 프로젝트 세팅하기](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #2 라우팅](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-%EB%9D%BC%EC%9A%B0%ED%8C%85/)
+  * [How to build a React based Electron app - paachu - Medium](https://medium.com/@impaachu/how-to-build-a-react-based-electron-app-d0f27413f17f)
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
@@ -2360,6 +2361,7 @@ Javascript
 * [reactGo: Your One-Stop solution for a full-stack universal Redux App!](https://github.com/reactGo/reactGo)
 * [Creating your Second React Application: Managing State](https://medium.com/javascript-in-plain-english/creating-your-second-react-application-d6d50e3e1e91)
 * [How to Create Show & Hide Password Functionality in ReactJS](https://medium.com/@bryantjiminson/how-to-create-show-hide-password-functionality-in-reactjs-18e6a2b56bf4)
+* [Building a booking engine with React JS - YouTube](https://www.youtube.com/watch?v=0OAQuJ2UMgk)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
