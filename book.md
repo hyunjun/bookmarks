@@ -32,6 +32,7 @@ Book
   * Ray Dalio, “The Changing World Order: Why Nations Succeed and Fail”
   * 폴 케네디, 강대국의 흥망
   * 새뮤얼 헌팅턴, 문명의 충돌
+* (NOT YET) [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html?spref=tw)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
