@@ -285,6 +285,7 @@ Machine Learning
 * [Putting Machine Learning Models into Production](https://blog.cloudera.com/blog/2019/06/putting-machine-learning-models-into-production)
 * [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 * [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+* [Logistic Regression from scratch - Philipp Muens](https://philippmuens.com/logistic-regression-from-scratch/)
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
@@ -866,6 +867,7 @@ Machine Learning
   * [Why Weights & Biases Gives You An Edge On Kaggle Competitions](https://www.kaggle.com/lavanyashukla01/better-models-faster-with-weights-biases)
 * [캐글 대회 메달따는 팁. 2. Stochastic weight averaging](https://www.youtube.com/watch?v=C0vnmsGIOEo)
 * [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
+* [데이터 과학자의 놀이터이자 배움터··· ‘캐글’ 탐험 안내서 - CIO Korea](http://www.ciokorea.com/news/156983#csidx38a8f0304e359eb99d874466bd08c99)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -1281,3 +1283,4 @@ Machine Learning
 * Tutorial
 * [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
 * [Machine Learning Tutorials - YouTube](https://www.youtube.com/playlist?list=PLfwO4-8NiQkFVYIV8cIUjCQA6yTbvV2L_)
+* [Getting machine learning to production · Vicki Boykis](http://veekaybee.github.io/2020/06/09/ml-in-prod/)
