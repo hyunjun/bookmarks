@@ -235,6 +235,7 @@ App
   * [pass, expect 프로그램과 함께한 #jekyll 블로그 deploy 스크립트](http://ohyecloudy.com/pnotes/archives/jekyll-deploy-script-with-pass-expect/)
   * [웹페이지 만들기 2탄 Github pages](https://mrchypark.github.io/post/r%EB%A1%9C%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0-2%ED%83%84-github-pages/)
   * [React JS를 Github Pages에 호스팅하기](https://www.munon.io/react-js-github-pages-deploy)
+  * [How to host a free webpage in less than 1 minute with GitHub Page - YouTube](https://www.youtube.com/watch?v=h6POI43-rVY)
   * Github blog 운영
     * [(1) - jekyll 블로그 테마 Fork한 jekyll blog 테마를 로컬로 옮기는 법](https://seanlion.github.io/blog/1)
     * [(2) - 다른 계정으로 인한 Git push 오류 Git push 오류로 인한 고군분투기](https://seanlion.github.io/blog/2)
