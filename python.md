@@ -404,6 +404,7 @@ Python
 * [4 Simple Ways to Refactor Your Python Code](https://medium.com/code-85/4-simple-ways-to-refactor-your-python-code-2f491b767381)
 * [Introduction to Streaming Algorithms](https://towardsdatascience.com/introduction-to-streaming-algorithms-b71808de6d29)
 * [Python | Create a QR Code with your data using Python (5 lines of code) - YouTube](https://www.youtube.com/watch?v=1GpPl_EdhWY)
+* [How to build HANGMAN with Python in 10 MINUTES - YouTube](https://www.youtube.com/watch?v=m4nEnsavl6w)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1657,6 +1658,7 @@ Python
 * [Full Stack React & Django](https://www.youtube.com/playlist?list=PLillGF-RfqbbRA-CIUxlxkUpbq0IFkX60)
 * [Survey WEB Application Tutorial 1](https://developer-ankiwoong.tistory.com/905)
 * [장고 라이트닝 토크 - YouTube](https://www.youtube.com/watch?v=NP1Gz5JTtBg)
+* [django transaction 궁금증](https://gist.github.com/cuhong/b8358cae0f5bc3198c9015fcd34bb456)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
