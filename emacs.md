@@ -25,6 +25,7 @@ Emacs
 * [goodbye-picasa: picasaweb 이미지를 다운로드해서 교체](http://ohyecloudy.com/emacsian/2017/12/24/elisp-goodbye-picasa/)
 * [이맥스(emacs)와 자바스크립트 코드 정적 분석 도구 Tern](http://blog.nacyot.com/articles/2014-03-12-emacs-with-tern/)
 * [emacs.sexy 한국어 번역 및 OmegaT + Travis + Rake + Github Pages를 활용한 번역](http://blog.nacyot.com/articles/2014-03-17-sexy-emacs-kr/)
+* [Emacs 에서 직접 한글입력기사용 : 네이버 블로그](http://blog.naver.com/chesterroh/222022487454)
 
 # Library
 * Cask
