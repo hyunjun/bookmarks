@@ -1781,6 +1781,7 @@ Python
 * [How To Serve Flask Applications with uWSGI and Nginx on Ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-uswgi-and-nginx-on-ubuntu-18-04)
 * [구글 애널리틱스 API를 사용한 Flask 앱을 uWSGI와 nginx로 배포한 과정](https://rhostem.github.io/posts/2018-11-20-deploy-flask-with-uwsgi/)
 * [Flask AWS에 프로덕션용으로 Deploy하기(nginx+uwsgi)](https://bablabs.tistory.com/25)
+* [Flask - uwsgi - Nginx 와 docker-compose를 사용해 서버를 만들자](https://woolbro.tistory.com/95)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
 * [How to make a Flask blog in one hour or less](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
 * [Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It’s BSD licensed!](https://flask.zeef.com/stefane.fermigier)
