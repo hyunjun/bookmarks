@@ -801,6 +801,7 @@ Programming
 * [Controlled Chaos: Taming Organic, Federated Growth of Microservices](https://www.infoq.com/presentations/microservices-federated-growth/)
 * [통합 이벤트 in MSA](https://www.notion.so/in-MSA-947707969dbc4ee49f2835942a4b273e)
 * [2019 PAYCO 쇼핑 마이크로서비스 아키텍처(MSA) 전환기 - YouTube](https://www.youtube.com/watch?v=l195D5WT_tE)
+* [Azar Mirror 서버 제작기 3편 - 개발자편 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/01/azar-mirror-3.html)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
