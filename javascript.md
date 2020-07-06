@@ -714,6 +714,8 @@ Javascript
 * [Angular Animation Callbacks and Key Frames](https://medium.com/javascript-in-plain-english/angular-animation-callbacks-and-key-frames-2d415d657b9d)
 * [Get Rid of if-statements in your Angular App with OOP](https://medium.com/@yiupang.ch/get-rid-of-if-statements-in-your-angular-app-with-oop-1efdf91da577)
 * [A Better Way to Pass Data to your Angular Components](https://medium.com/swlh/a-better-way-to-pass-data-to-your-angular-components-e8b5ef6a642a)
+* [Angular 10 in depth - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/angular-10-in-depth-a48a3a7dd1a7)
+* [Angular — Four Red Flags for Weak Conceptual Knowledge](https://medium.com/@liutingchun_95744/angular-four-common-red-flags-for-weak-conceptual-knowledge-cf3a75e1860c)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -2364,6 +2366,8 @@ Javascript
 * [Building a booking engine with React JS - YouTube](https://www.youtube.com/watch?v=0OAQuJ2UMgk)
 * [Creating a Design System in React - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/creating-a-design-system-in-react-5c4d811d0ccc)
 * [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch)
+* [React onChange with input field & button - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/react-onchange-with-input-field-button-854f0035b94a)
+* [Six Ways To Get Better At React - Frontend Digest - Medium](https://medium.com/frontend-digest/six-ways-to-get-better-at-react-ccb321a7c35)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
