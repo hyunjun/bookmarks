@@ -630,6 +630,7 @@ SQL
 * [샤딩과 파티셔닝의 차이점](http://theeye.pe.kr/archives/1917)
 * [How we scaled Freshdesk (Part II) – The Sharding and Rebalancing techniques we used](https://freshdesk.com/product-updates/how-freshdesk-scaled-using-sharding-blog/)
 * [Sharding: How Many Shards Are Safe?](https://medium.com/logos-network/sharding-how-many-shards-are-safe-bc361c487083)
+* [DB분산처리를 위한 sharding - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/07/06/db-sharding.html)
 
 # SQLite
 * [practice - python sqlite](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
