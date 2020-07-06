@@ -848,6 +848,7 @@ Deep Learning
   * [An update to DeepBench with a focus on deep learning inference](https://svail.github.io/DeepBench-update/)
 
 # Book
+* [Top 15 books to make you a Deep Learning Hero - Towards Data Science](https://towardsdatascience.com/top-15-books-to-make-you-a-deep-learning-hero-b1b5f640a680)
 * [머신러닝에서 딥러닝까지](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480150001023P&orderClick=LAN&Kc)
 * [C++와 CUDA C로 구현하는 딥러닝 알고리즘 Vol.1 Restricted Boltzman Machine의 이해와 Deep Belief Nets 구현](http://www.acornpub.co.kr/book/dbn-cuda-vol1)
 * [Deep Learning 이론과 실습 (개정중)](https://wikidocs.net/book/498)
