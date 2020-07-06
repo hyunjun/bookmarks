@@ -257,6 +257,7 @@ App
   * [블로그에 The Open Graph protocol 메타데이터를 추가하고 트위터 카드까지 챙긴다](http://ohyecloudy.com/pnotes/archives/blogging-the-open-graph-protocol-metadata/)
   * [오늘 부터 나도 github.io 블로그 운영자다!! | github pages , goormide, hexo](https://www.youtube.com/watch?v=8uRgIwgumqA)
   * [github 블로그로 딱!! 필요한 만큼만 배우는 초 초 초 간단!! markdown과 vim !! 사용법!!](https://www.youtube.com/watch?v=pHaBt4JzfVU)
+  * Docsify [Make awesome looking documentation site with an open source Docsify and GitHub Page - YouTube](https://www.youtube.com/watch?v=ccA2ecqKyHo)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
