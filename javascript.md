@@ -2479,6 +2479,7 @@ Javascript
 * [React Native용 오픈소스 만들기](https://dev-yakuza.github.io/ko/react-native/make-opensource-library/)
 * [Get Started with React Navigation 5 in React Native](https://medium.com/@rossbulat/getting-started-with-react-navigation-5-in-react-native-f82676294d2f)
 * [React Native's re-architecture in 2020](https://medium.com/swlh/react-natives-re-architecture-in-2020-9bb82659792c)
+* [「Clog」 서비스 개발기(React Native, Laravel, Django) - React Native, Laravel, Django를 사용하여 「Clog」라는 서비스를 제작해 보았습니다. 이 서비스를 제작하면서 격은 내용을 정리해보려고 합니다](https://dev-yakuza.github.io/ko/clog/development-journal/)
 * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
 
 ## React Library
