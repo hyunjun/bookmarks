@@ -906,6 +906,7 @@ Scala
   * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
   * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
   * [Cats Concurrency basics with Ref and Deferred - SoftwareMill Tech Blog](https://blog.softwaremill.com/cats-concurrency-basics-with-ref-and-deferred-399e0335630)
+  * [example - Union Find](https://gist.github.com/sungkmi/b30a338e35825f1eaf804fed92ed550e)
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
