@@ -323,6 +323,7 @@ Python
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [15 Python tips and tricks, so you don’t have to look them up on Stack Overflow](https://medium.com/@george.seif94/15-python-tips-and-tricks-so-you-dont-have-to-look-them-up-on-stack-overflow-90cec02705ae)
 * [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
+* [30 Magical Python Tricks to Write Better Code - Towards Data Science](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [win32print](http://timgolden.me.uk/python/win32_how_do_i/print.html)
