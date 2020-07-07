@@ -244,6 +244,7 @@ Functional Programming
 * [변하지 않는 상태를 유지하는 방법, 불변성(Immutable)](https://evan-moon.github.io/2020/01/05/what-is-immutable/)
 * [Learn JavaScript functional programming from Avengers](https://codeburst.io/learn-javascript-functional-programming-from-avengers-36fc40fca7ab)
 * [함수형 프로그래밍 정리](https://dongqui.github.io//posts/functional)
+* [Ultra small code using Functional Programming - Yoganathan Palaniswamy - Medium](https://medium.com/@pyoganathan99/ultra-small-code-using-functional-programming-javascript-a437d01e59d5)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [fantasy-land - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
@@ -316,6 +317,7 @@ Functional Programming
 * [Monad Fact #2](https://www.slideshare.net/pjschwarz/monad-fact-2)
 * [Monad Fact #3](https://www.slideshare.net/pjschwarz/monad-fact-number-3)
 * [**3분 모나드**](https://overcurried.com/3%EB%B6%84%20%EB%AA%A8%EB%82%98%EB%93%9C/)
+* [A Monad is just a Monoid… - Michele Stieven - Medium](https://medium.com/@michelestieven/a-monad-is-just-a-monoid-a02bd2524f66)
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
