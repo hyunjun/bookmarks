@@ -603,6 +603,7 @@ Algorithm
 # Queue
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)
 * [Cache optimizing a priority queue](http://playfulprogramming.blogspot.kr/2015/08/cache-optimizing-priority-queue.html)
+* [**The Importance of Priority Queues - Better Programming - Medium**](https://medium.com/better-programming/the-importance-of-priority-queues-f87e1f5ac842)
 
 # Tree
 * [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
