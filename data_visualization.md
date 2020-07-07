@@ -250,6 +250,7 @@ Data Visualization
 * [파이썬 데이터 분석 실습 - 코로나바이러스 미국편 2/2 (Python Data Analysis with COVID-19/Corona virus data in USA 2/2)](https://www.youtube.com/watch?v=GIZOiNIpEO4)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
+* [Awesome Panel](https://awesome-panel.org/)
 * Bokeh
   * [DRAWING A BRAIN WITH BOKEH](https://www.continuum.io/blog/developer-blog/drawing-brain-bokeh)
   * [**Plotly 말고 Bokeh 도 있다**](http://hamait.tistory.com/842) Rendering Bokeh plots in Flask
