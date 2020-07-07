@@ -422,6 +422,7 @@ Javascript
 * [JavaScript — Understand Arrow Function Syntax](https://codeburst.io/javascript-understand-arrow-function-syntax-ab4081bba85b)
 * [How to Accept Any Number of Arguments in a JavaScript Arrow Function](https://levelup.gitconnected.com/how-to-accept-any-number-of-arguments-in-a-javascript-arrow-function-ed9ba66ed53f)
 * [The Differences Between Arrow and Regular Functions You Should Know](https://medium.com/javascript-in-plain-english/the-differences-between-arrow-and-regular-functions-you-should-know-401c4bf22ad3)
+* [Do you really know when to use an Arrow Function in JavaScript?](https://medium.com/javascript-in-plain-english/do-you-really-know-when-to-an-arrow-function-in-javascript-fdcbcdae7297)
 * [JavaScript: Can (a==1 && a==2 && a==3) ever evaluate to true?](https://codeburst.io/javascript-can-a-1-a-2-a-3-ever-evaluate-to-true-aca13ff4462d)
 * [JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
@@ -443,6 +444,7 @@ Javascript
 * [JavaScript Clean Code: Error Handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)
 * [JavaScript Clean Code — Vertical Formatting](https://levelup.gitconnected.com/javascript-clean-code-vertical-formatting-d15097f5f30e)
 * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
+* [Who Else Wants to Write Clean JavaScript Code? - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/who-else-wants-to-write-clean-javascript-code-ff4f7896e6bd)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 * JS로 배우는 자료구조와 알고리즘
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
@@ -2900,6 +2902,9 @@ Javascript
 * [타입스크립트를 위한 클린코드 - 한글 번역판](https://github.com/738/clean-code-typescript)
 * ['강력한 형식의 자바스크립트' 타입스크립트의 의미와 설치하기](http://www.itworld.co.kr/news/151532)
 * ['Practical Advanced TypeScript' 정리](https://rinae.dev/posts/practical-advanced-typescript-summary)
+* [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
+* [A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript - DEV](https://dev.to/ibrahima92/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript-4h7p)
+* [What Can We Expect in TypeScript 4.0? - Better Programming - Medium](https://medium.com/better-programming/what-can-we-expect-in-typescript-4-0-b5be85021b90)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
@@ -2907,8 +2912,6 @@ Javascript
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
-* [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
-* [A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript - DEV](https://dev.to/ibrahima92/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript-4h7p)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
