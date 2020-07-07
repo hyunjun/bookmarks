@@ -421,6 +421,7 @@ Javascript
 * [How I built a public, anonymous chat app in JavaScript](https://medium.freecodecamp.org/how-i-built-a-public-anonymous-chat-app-in-javascript-34f082b9b98)
 * [JavaScript — Understand Arrow Function Syntax](https://codeburst.io/javascript-understand-arrow-function-syntax-ab4081bba85b)
 * [How to Accept Any Number of Arguments in a JavaScript Arrow Function](https://levelup.gitconnected.com/how-to-accept-any-number-of-arguments-in-a-javascript-arrow-function-ed9ba66ed53f)
+* [The Differences Between Arrow and Regular Functions You Should Know](https://medium.com/javascript-in-plain-english/the-differences-between-arrow-and-regular-functions-you-should-know-401c4bf22ad3)
 * [JavaScript: Can (a==1 && a==2 && a==3) ever evaluate to true?](https://codeburst.io/javascript-can-a-1-a-2-a-3-ever-evaluate-to-true-aca13ff4462d)
 * [JavaScript — Map vs. ForEach](https://codeburst.io/javascript-map-vs-foreach-f38111822c0f)
 * [How I replicated an $86 million project in 57 lines of code](https://medium.freecodecamp.org/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9)
@@ -599,6 +600,7 @@ Javascript
 * [Learn JavaScript Fundamentals-Global Scope](https://medium.com/swlh/javascript-fundamentals-global-scope-71ba5e48dbae)
 * [JS 꼴랑이거(2) - setTimeout에서 발생하는 Exception 잡아내기 - 완두블로그](https://wani.kr/posts/2015/03/09/js-something-2-catchable-settimeout-exception/)
 * [Little Unknown Way To Get Rid Of Switch Statements](https://medium.com/javascript-in-plain-english/a-little-unknown-way-to-get-rid-of-switch-statements-15c2584f51b9)
+* [6 JavaScript Code Snippets For Solving Common Problems](https://levelup.gitconnected.com/6-javascript-code-snippets-for-solving-common-problems-33deb6cacef3)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -1310,6 +1312,7 @@ Javascript
   * [Node Passport를 이용한 Login + Mysql](https://cheese10yun.github.io/passport-mysql/)
   * [Passport를 이용한 네이버, 카카오, 페이스북 로그인](http://engineeryun.tistory.com/entry/Passport%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81-%EB%A1%9C%EA%B7%B8%EC%9D%B8-1)
   * [Learn how to handle authentication with Node using Passport.js](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
+  * [Everything you need to know about the `passport-local` Passport JS Strategy](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
