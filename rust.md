@@ -125,6 +125,7 @@
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
 * [Rust의 반복문](https://blog.seulgi.kim/2020/06/loop-in-rust.html)
+* [Collections and Lifetimes in Rust! - The Startup - Medium](https://medium.com/swlh/collections-and-lifetimes-in-rust-d478934d17ea)
 
 # Async Await
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
