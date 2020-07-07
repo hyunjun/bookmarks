@@ -170,6 +170,7 @@
 * [Spark performance tuning Part#2 병렬처리](https://www.slideshare.net/haiteam/spark-performance-tuning-128798607)
 * [Spark performance tuning from the trenches](https://medium.com/teads-engineering/spark-performance-tuning-from-the-trenches-7cbde521cf60)
 * [Spark tuning for Enterprise System Administrators](http://techsuppdiva.github.io/spark1.6.html)
+* [SPARK 설정 Tuning 하기 : 네이버 블로그](https://blog.naver.com/gyrbsdl18/220880041737)
 * [“Fast food” and tips for RDD](http://pl.postech.ac.kr/~maidinh/blog/?p=61)
 * [스칼라ML - 스칼라를 이용한 기계학습 기초(+Spark)](http://psygrammer.github.io/ScalaML/)
 * [Secondary Sorting in Spark](http://codingjunkie.net/spark-secondary-sort/)
