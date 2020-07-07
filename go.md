@@ -252,6 +252,7 @@ Go
 * [Getting Hands-on with io_uring using Go](https://developers.mattermost.com/blog/hands-on-iouring-go/)
 * [project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
   * [byounghoonkim/project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
+* [Golang: Three common programming Problems - Higher-Order Functions - Medium](https://medium.com/higher-order-functions/golang-three-common-programming-problems-3ef8baf006af) tips like Set, ==, ...
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
