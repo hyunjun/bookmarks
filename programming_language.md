@@ -89,6 +89,8 @@ Programming Language
 * [들어보셨나요? 한글 프로그래밍 언어 3종](http://www.bloter.net/archives/240918)
 * [Systems Languages: An Experience Report](https://blog.usejournal.com/systems-languages-an-experience-report-d008b2b12628)
 * [KAIST CS320 Programming Languages Course Reading Materials](https://hjaem.info/articles/main)
+* [5 Programming Languages Worth Exploring to Improve Your Coding Style](https://medium.com/swlh/5-programming-languages-worth-exploring-to-improve-your-coding-style-f2d852cb46aa)
+  * ML languages (F# / OCaml), Haskell, LISP family: Common LISP, Clojure, Scheme, Rust, Smalltalk
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
