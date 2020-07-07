@@ -836,6 +836,7 @@
 * [Real-world Python workloads on Spark: EMR clusters](https://becominghuman.ai/real-world-python-workloads-on-spark-emr-clusters-3c6bda1a1350)
 * [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 * [**New Pandas UDFs and Python Type Hints in the Upcoming Release of Apache Spark 3.0™**](https://databricks.com/blog/2020/05/20/new-pandas-udfs-and-python-type-hints-in-the-upcoming-release-of-apache-spark-3-0.html)
+* [How to create a simple ETL Job locally with PySpark, PostgreSQL and Docker](https://itnext.io/how-to-create-a-simple-etl-job-locally-with-pyspark-postgresql-and-docker-ea53cd43311d)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
