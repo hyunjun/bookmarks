@@ -404,6 +404,7 @@ Programming Language
   * [Squeak/Smalltalk - open-source Smalltalk programming system](http://squeak.org/)
   * [A Major Milestone!](https://medium.com/@richardeng/a-major-milestone-a471f6c7675f)
   * [Smalltalk’s Proven Productivity](https://medium.com/smalltalk-talk/smalltalk-s-proven-productivity-fe7cbd99c061)
+  * [Why Smalltalk is so easy to evangelize - ITNEXT](https://itnext.io/why-smalltalk-is-so-easy-to-evangelize-2b88b4d4605c)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)
