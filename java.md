@@ -238,6 +238,8 @@ Java
 * time
   * [Converting from Joda-Time to java.time](http://blog.joda.org/2014/11/converting-from-joda-time-to-javatime.html)
   * [Java8TimeTest.java](https://gist.github.com/ikhoon/7c023bbc65078e06598c769978b76b2b)
+* Try
+  * [Do or Do Not: Patterns and Antipatterns with the Try type](https://medium.com/software-ascending/do-or-do-not-patterns-and-antipatterns-with-the-try-type-c77a63f74cc9)
 * util
   * regex regular expression
     * ip address
