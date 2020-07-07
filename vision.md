@@ -511,6 +511,7 @@ Vision
 * [Real-Time Face Mask Detector with TensorFlow, Keras, and OpenCV](https://towardsdatascience.com/real-time-face-mask-detector-with-tensorflow-keras-and-opencv-38b552660b64)
 * [FaceMask Detection using Tensorflow and OpenCV](https://towardsdatascience.com/facemask-detection-using-tensorflow-and-opencv-824b69cad837)
 * [Computer Vision 101: Learn Face Detection And Conditional Filtering](https://towardsdatascience.com/computer-vision-101-learn-face-detection-and-conditional-filtering-db1b73d0fa2b)
+* [Live Video Sketching through Webcam using Computer Vision](https://towardsdatascience.com/live-video-sketching-through-webcam-using-computer-vision-30beed29f33e)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
