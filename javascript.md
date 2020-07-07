@@ -1366,6 +1366,7 @@ Javascript
   * [How to Write Professional Code Using the Command Query Separation Principle](https://medium.com/javascript-in-plain-english/compile-svelte-in-your-head-e12c87808255)
   * [Svelte로 만드는 Todo List - 1 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/21/How-to-make-todo-list-app-with-Svelte-1.html)
   * [Svelte로 만드는 Todo List - 2 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/24/How-to-make-todo-list-app-with-Svelte-2.html)
+  * [Up and running with Svelte - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/svelte-tutorials-1-1f49699da2c0)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [SweetAlert](https://sweetalert.js.org/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
@@ -1790,6 +1791,7 @@ Javascript
   * [OpenJS Deno - Google Slides](https://docs.google.com/presentation/d/1RnRx4cO4wTFJGHdw5XYypOx74XqQdDdWHP5bA7HjmiM)
   * [Deno Is Ready for Production](https://www.infoq.com/news/2020/06/deno-1-ready-production/)
   * [Deno Course - Better than Node.js? - YouTube](https://www.youtube.com/watch?v=TQUy8ENesGY)
+  * [Is Deno a Threat to Node? - Better Programming - Medium](https://medium.com/better-programming/is-deno-a-threat-to-node-1ec3f177b73c)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
@@ -2374,6 +2376,7 @@ Javascript
 * [Stop mocking fetch](https://kentcdodds.com/blog/stop-mocking-fetch)
 * [React onChange with input field & button - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/react-onchange-with-input-field-button-854f0035b94a)
 * [Six Ways To Get Better At React - Frontend Digest - Medium](https://medium.com/frontend-digest/six-ways-to-get-better-at-react-ccb321a7c35)
+* [4 Ways to Conditionally Render in React - Better Programming - Medium](https://medium.com/better-programming/4-ways-to-conditionally-render-in-react-3785fb5e5013)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2906,6 +2909,7 @@ Javascript
 * [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
 * [A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript - DEV](https://dev.to/ibrahima92/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript-4h7p)
 * [What Can We Expect in TypeScript 4.0? - Better Programming - Medium](https://medium.com/better-programming/what-can-we-expect-in-typescript-4-0-b5be85021b90)
+* [TypeScript Best Practices —Useless Interfaces, Classes, and Promises](https://medium.com/swlh/typescript-best-practices-useless-interfaces-classes-and-promises-40ef6bdefa1b)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
