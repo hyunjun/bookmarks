@@ -154,6 +154,7 @@ Docker
     * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
     * [Creating Docker images with Spring Boot 2.3.0.M1](https://spring.io/blog/2020/01/27/creating-docker-images-with-spring-boot-2-3-0-m1)
     * [SPRING 스프링부트로 도커 이미지 만들기](https://gracelove91.tistory.com/97)
+    * [Create Docker Image without Dockerfile in Spring Boot](https://morioh.com/p/56262a739ff3)
   * javascript
     * [node.js 도커(docker) 기반으로 배포하기](https://blog.naver.com/pjt3591oo/222010156379)
     * [Docker Best Practices for Node Developers](https://morioh.com/p/7dea17309e0e)
@@ -436,6 +437,7 @@ Docker
 * [**Docker 컨테이너의 로그 크기 조절**](http://mcchae.egloos.com/11358726) logging
 * [Docker for Mac Edge 채널에 Mutagen 기반 캐싱 기능 추가](https://www.44bits.io/ko/post/news--docker-desktop-for-mac-edge-channel-with-mutagen-based-caching)
 * [Rootless Containers: The Next Trend in Container Security](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
+* [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
