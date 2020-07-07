@@ -141,9 +141,6 @@ Open Source
   * [Making a virtual machine in Google Sheets](https://briansteffens.github.io/2017/07/03/google-sheets-virtual-machine.html)
   * [Google Sheets Query function: Learn the most powerful function in Google Sheets](https://www.benlcollins.com/spreadsheets/google-sheets-query-sql/)
   * [Apps Script](https://m.blog.naver.com/gsuite-reseller/221534792390)
-* Google Guice
-  * [github.com/google/guice/wiki/Motivation](https://github.com/google/guice/wiki/Motivation)
-  * [구글 주스(Google Guice) 소개](http://www.popit.kr/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80-%EC%A3%BC%EC%8A%A4google-guice-%EC%86%8C%EA%B0%9C/)
 * [gSubFolder](http://d.gfolder.net/gsubfolder)
 * [Guetzli - 구글의 오픈소스 JPEG 인코더 Guetzli](http://tmondev.blog.me/220960502049)
 * [PAIR (People + AI Research initiative)](https://www.facebook.com/nextobe1/posts/344322002670468)

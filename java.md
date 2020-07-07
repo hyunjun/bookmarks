@@ -735,6 +735,8 @@ Java
 * [Google](https://github.com/google)
   * [guice](https://github.com/google/guice)
     * [Guice를 이용한 Dependency Injection](http://netframework.tistory.com/entry/Google-Guice%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-DI-1)
+  * [github.com/google/guice/wiki/Motivation](https://github.com/google/guice/wiki/Motivation)
+  * [구글 주스(Google Guice) 소개](http://www.popit.kr/%EB%B2%88%EC%97%AD-%EA%B5%AC%EA%B8%80-%EC%A3%BC%EC%8A%A4google-guice-%EC%86%8C%EA%B0%9C/)
 * Gradle
   * [Gradle 멀티 프로젝트(모듈) 관리](http://okky.kr/article/375833)
   * [그레이들(Gradle)로 만드는 안드로이드 요리법](https://www.slideshare.net/mediahanbit/lt-75009602)
