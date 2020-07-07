@@ -674,6 +674,7 @@ Interview
 * [Your TopResume Resume Critique](https://www.topresume.com/?action=resumecritiqueview&at=Kws7pyzs1qsrac3hXSwQ2A12LgarRSAo)
 * [tip](https://www.facebook.com/groups/devresume/?multi_permalinks=555609081493630&notif_t=group_activity&notif_id=1495435881113594) Don't write "involved in..."
 * [What My Software Engineer Resume Looks Like](https://www.youtube.com/watch?v=RIPdc88dZRI)
+* [10 Ways to Use Your Developer Resume to Get Interviews](https://medium.com/better-programming/10-ways-to-use-your-developer-resume-to-get-interviews-8c9f6d8083b2)
 * [국내외 영문 이력서 작성툴 TOP 3 비교 분석](https://www.youtube.com/watch?v=MrkpnPxiOCw)
 * [**How to write a killer Software Engineering résumé**](https://medium.freecodecamp.org/writing-a-killer-software-engineering-resume-b11c91ef699d)
 * [What I want (and don’t want) to see on your software engineering resume](https://medium.com/job-advice-for-software-engineers/what-i-want-and-dont-want-to-see-on-your-software-engineering-resume-cbc07913f7f6)
