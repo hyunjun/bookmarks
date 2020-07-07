@@ -656,6 +656,7 @@ Python
   * [Professional Error Handling With Python](https://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
   * [Amandine Lee Passing Exceptions 101 Paradigms in Error Handling PyCon 2017](https://www.youtube.com/watch?v=BMtJbrvwlmo)
     * [Amandine Lee - Passing Exceptions 101: Paradigms in Error Handling](https://speakerdeck.com/pycon2017/amandine-lee-passing-exceptions-101-paradigms-in-error-handling)
+  * [How to Define Custom Exception Classes in Python - Towards Data Science](https://towardsdatascience.com/how-to-define-custom-exception-classes-in-python-bfa346629bca)
 * ftplib
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
@@ -696,6 +697,7 @@ Python
   * [Python의 Generator 알아보기](https://winterj.me/Python-Generator/)
   * [Python Generators Explained! (Sort of)](https://hackernoon.com/python-generators-35ac68334882)
   * [How to Create a Generator in Python](https://medium.com/better-programming/how-to-create-a-generator-in-python-5ee587621879)
+  * [Optimize python code with generators - Chetan Mishra - Medium](https://medium.com/@chetaniam/optimize-python-code-with-generators-aef839996ee4)
 * hash
   * [입 개발 Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
   * [입 개발 SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
@@ -2125,6 +2127,7 @@ Python
 * [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
 * [Jupyter Notebooks in the IDE](https://towardsdatascience.com/jupyter-notebooks-in-the-ide-visual-studio-code-versus-pycharm-5e72218eb3e8)
 * [A Jupyter kernel for SQLite - Jupyter Blog](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
+* [4 Awesome Tips for Enhancing Jupyter Notebooks - Towards Data Science](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
@@ -2957,6 +2960,7 @@ Python
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
     * [alembic을 이용해 DB 마이그레이션 하기 (2)](https://codeac.tistory.com/115)
+    * [Alembic: How to Add a Non-Nullable Field to a Populated Table](https://medium.com/the-andela-way/alembic-how-to-add-a-non-nullable-field-to-a-populated-table-998554003134)
 * [sqlbuilder](https://pypi.python.org/pypi/sqlbuilder)
   * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
   * [practice - sqlbuilder](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
