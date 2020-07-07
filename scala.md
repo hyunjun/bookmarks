@@ -260,6 +260,7 @@ Scala
 * [Effect Tracking Is Commercially Worthless](https://degoes.net/articles/no-effect-tracking)
 * [Run Scala applications with GraalVM and Docker - With http4s, doobie and cats-effects](https://medium.com/rahasak/run-scala-applications-with-graalvm-and-docker-a1e67701e935)
 * [scala - What's the difference between => , ()=>, and Unit=> - Stack Overflow](https://stackoverflow.com/questions/4543228/whats-the-difference-between-and-unit)
+* [Yet Another Arithmetic Parser in Scala - Synerise - Medium](https://medium.com/synerise/yet-another-arithmetic-parser-in-scala-43dad055d81f)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
