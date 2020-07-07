@@ -321,6 +321,7 @@ Data Visualization
   * [Draw a minimalist Christmas tree with Python and their awesome libraries](https://gist.github.com/franktoffel/aea4329b760eb3e72f4d)
   * [Move legend outside of figure in matplotlib](http://jb-blog.readthedocs.io/en/latest/posts/0012-matplotlib-legend-outdide-plot.html)
   * [Grouped bar chart with labels — Matplotlib 3.2.1 documentation](https://matplotlib.org/3.2.1/gallery/lines_bars_and_markers/barchart.html)
+* [matplotlib/cheatsheets: Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets)
 * [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
 * [Matplotlib 3.1 cheat sheet. From an upcoming book on matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
