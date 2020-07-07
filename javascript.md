@@ -710,6 +710,7 @@ Javascript
 * [Let Angular Manage Your RxJS Subscriptions Better](https://medium.com/better-programming/let-angular-manage-your-rxjs-subscriptions-better-9243073e94b0)
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
+* [The Many Flavours of Micro Front Ends - Better Programming - Medium](https://medium.com/better-programming/the-many-flavours-of-micro-front-ends-2db4b21dfbaa)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [NX Lazy loading with Router 또는 without Router - 1](https://mobicon.tistory.com/576)
 * [Angular Schematics NX기반 Custom Schematic 개발하기 - 1](https://mobicon.tistory.com/575)
