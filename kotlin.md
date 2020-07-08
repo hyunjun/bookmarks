@@ -249,3 +249,4 @@
 * [새로워진 Android Kotlin 코드랩 과정을 만나보세요!](https://developers-kr.googleblog.com/2019/10/new-android-kotlin-codelab-courses-are.html)
 * [자바 친화적 코틀린 코드 작성하기](https://developers-kr.googleblog.com/2019/11/how-to-write-java-friendly-kotlin-code.html)
 * [React’s TicTacToe tutorial, in Kotlin/JavaFX](https://blog.plan99.net/reacts-tictactoe-tutorial-in-kotlin-javafx-715c75a947d2)
+* [(완결) 왕초보를 위한 디모의 가장 쉬운 코틀린 Kotlin 강좌 - YouTube](https://www.youtube.com/playlist?list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN)
