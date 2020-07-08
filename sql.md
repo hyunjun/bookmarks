@@ -606,6 +606,7 @@ SQL
 * [insert into on duplicate key MySQL merge SQL 독학 강의#20편 -sTricky](https://stricky.tistory.com/286)
 * [MySQL DDL문 완전정복 SQL 독학 강의#21편 -sTricky](https://stricky.tistory.com/294)
 * [MySQL data dictionary SQL 독학 강의#22편](https://stricky.tistory.com/296)
+* [mysql 제약조건 알아보기 SQL 독학 강의#23편](https://stricky.tistory.com/308)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
 
 ## Query, SQL Join
