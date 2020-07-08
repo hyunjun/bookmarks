@@ -3791,7 +3791,8 @@ Python
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
-* [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info/index.html)
+* [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
+  * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
