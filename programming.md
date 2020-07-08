@@ -461,6 +461,7 @@ Programming
 * [알아두면 유익한 2019 개발이야기](https://subicura.com/2020/01/07/2019-dev-summary.html) 퍼플웍스 tech stack
 * [Modern Backend Developer in 2018](https://medium.com/tech-tajawal/modern-backend-developer-in-2018-6b3f7b5f8b9)
 * [**백엔드 개발자를 꿈꾸는 학생개발자에게**](https://d2.naver.com/news/3435170)
+* [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785#1f326824f06d4fe4ae69f915a6ae72b3)
 * [**Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis**](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
 * [How Stickler CI grew from a prototype to a product](https://hackernoon.com/how-stickler-ci-grew-from-a-prototype-to-a-product-6d2a58987ac1)
 * [**The Clean Architecture**](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)
@@ -2096,6 +2097,7 @@ Programming
 * [실무에서 활용하는 A/B테스트](https://www.slideshare.net/cojette/ab-150118831)
 * [구글 애널리틱스 A/B 테스트 쉽게 하기(쿠키 + demension 활용)](https://medium.com/daangn/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4-demension-%ED%99%9C%EC%9A%A9-6f994e1247e8)
 * [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
+* [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
 * [codekata.com](http://codekata.com/)
 * [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
