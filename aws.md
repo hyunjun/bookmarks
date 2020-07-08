@@ -581,6 +581,7 @@ AWS
 * [EKS 클러스터에 간단한 Flask 어플리케이션 배포하기](https://chang12.github.io/eks-flask/)
 * [엘라스틱스택으로 아마존 EKS(Elastic Kubernetes Service)의 로그와 메트릭을 통합하기](https://blog.naver.com/olpaemi/222023215576)
 * [Fluent Bit 로 Kubernetes 에 배포된 어플리케이션 로그 수집하기](https://chang12.github.io/eks-fluent-bit-firehose/)
+* [Samsung Health: Scaling Mobile Application Development with Amazon EKS - YouTube](https://www.youtube.com/watch?reload=9&v=S-JSSZZaa94)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
