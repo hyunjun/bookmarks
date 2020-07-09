@@ -577,6 +577,7 @@ Vision
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
   * [DeepIsolation.ipynb](https://colab.research.google.com/drive/1azCXH4udXSTkEf3JLihdMTPoCKB7IETq)
+* [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
 * [evanet - Evolving Space-Time Neural Architectures for Videos](https://github.com/google-research/google-research/tree/master/evanet)
   * [Video Architecture Search](https://ai.googleblog.com/2019/10/video-architecture-search.html)
 * [EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse](https://github.com/clovaai/EXTD_Pytorch)
