@@ -609,6 +609,8 @@ Machine Learning
 * [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)
 * [**machine-learning-experiments: Interactive Machine Learning experiments: models training + models demo**](https://github.com/trekhleb/machine-learning-experiments)
   * [Machine Learning Experiments](https://trekhleb.github.io/machine-learning-experiments/)
+* [Learning Machine Learning | Cloud AI | Google Cloud](https://cloud.google.com/products/ai/ml-comic-1)
+* [Learning Neural Networks | Cloud AI | Google Cloud](https://cloud.google.com/products/ai/ml-comic-2)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
