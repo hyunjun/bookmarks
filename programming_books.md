@@ -498,6 +498,7 @@ Programming Books
   * [넘파이 오프닝 - YouTube](https://www.youtube.com/watch?v=9DoYtrDrWd4)
 * (NOT YET) [Do It! 딥러닝 입문](https://www.youtube.com/playlist?list=PLJN246lAkhQgbBx2Kag0wIZedn-P9KcH9)
 * (NOT YET) [딥러닝과 바둑-번역 후기 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/deeplearningandgo/)
+* (NOT YET) [신경망 교과서 : 네이버 블로그](https://blog.naver.com/drvoss/222025379076)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
