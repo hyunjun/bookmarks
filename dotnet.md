@@ -152,6 +152,7 @@
 * [**.editorconfig 파일을 활용한 정적 코드 분석**](https://blog.aliencube.org/ko/2019/09/25/static-code-analysis-with-editorconfig/) FxCop, StyleCop
 * [Visual Studio WPF Designer에서 내가 만든 UserControl을 인식하지 못할 때](http://blog.wimy.com/458/)
 * [JUST DO IT! C++ 1강 Visual Studio와 Qt 설치하기](https://www.youtube.com/watch?v=tHugbfrQEl8)
+* [Top 10 Visual Studio Refactoring Tips - NDepend](https://blog.ndepend.com/top-10-visual-studio-refactoring-tips/)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
