@@ -689,6 +689,7 @@ Docker
   * [(3)](https://medium.com/rainist-engineering/k8s-auth-with-github-team-part3-7e976adcf4c6)
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 * [Kubernetes ingress, deep dive](https://banzaicloud.com/blog/k8s-ingress/)
+* [A Terrible, Horrible, No-Good, Very Bad Day at Slack | by Laura Nolan | Jun, 2020 | Several People Are Coding](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) ingress
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
@@ -704,6 +705,7 @@ Docker
 * [Kubernetes The Easy Way!](https://www.youtube.com/watch?v=kOa_llowQ1c)
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
 * [Kubernetes Prometheus Install](https://uni2u.tistory.com/105)
+* [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster/)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?v=lKr6yw9Iw04)
 * [**Scaling Microservices with Message Queues, Spring Boot and Kubernetes**](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)
@@ -800,6 +802,7 @@ Docker
 * [EKS K8s에서 ELB(ALB, NLB) 제대로 사용하기](https://velog.io/@ausg/eks-k8s-elb)
 * [Kubernetes에 Microservice 배포하기 1편 - 클릭 몇 번으로 배포 시스템 만들기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/06/13/microsrv-deploy-1.html)
 * [Docker and Kubernetes — root vs. privileged - ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
+* [What’s up with the Kubernetes ecosystem – Blocks and Files](https://blocksandfiles.com/2020/07/09/kubernetes-ecosystem-analysis)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
