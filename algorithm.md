@@ -230,6 +230,7 @@ Algorithm
 * [The Ultimate Beginners Guide To Analysis of Algorithm](https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5)
 * [The 5 Fundamental Running Times in Computer Science](https://medium.com/cracking-the-data-science-interview/the-5-fundamental-running-times-in-computer-science-e6872c7a103)
 * [왜 유클리드 알고리즘 함수는 최악의 경우 O(log)일까?](https://codingdog.tistory.com/entry/%EC%99%9C-%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%A8%EC%88%98%EB%8A%94-%EC%B5%9C%EC%95%85%EC%9D%98-%EA%B2%BD%EC%9A%B0-Olog%EC%9D%BC%EA%B9%8C)
+* [#5 How To Calculate Time Complexity Example 1| Designed To Crack Interviews | By LinkedIn Engineer - YouTube](https://www.youtube.com/watch?v=ZfhUL5ZKWMg)
 
 ## Space Complexity
 
@@ -551,6 +552,7 @@ Algorithm
 * [k번째 수 찾기:count sort를 응용해 봅시다](https://codingdog.tistory.com/entry/k%EB%B2%88%EC%A7%B8-%EC%88%98-%EC%B0%BE%EA%B8%B0-count-sort%EB%A5%BC-%EC%9D%91%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Tim sort에 대해 알아보자](https://d2.naver.com/helloworld/0315536)
 * [Selection Sort Algorithm Visually Explained](https://levelup.gitconnected.com/selection-sort-algorithm-visually-explained-5bdba8c2acb1)
+* [median of median : 피벗을 중앙의 중앙값을 선택한다.](https://codingdog.tistory.com/entry/median-of-median-%ED%94%BC%EB%B2%97%EC%9D%84-%EC%A4%91%EC%95%99%EC%9D%98-%EC%A4%91%EC%95%99%EA%B0%92%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
