@@ -160,6 +160,7 @@ Programming Books
 * (NOT YET) [파이썬 자료구조와 알고리즘 : 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8465804191)
 * (NOT YET) [퍼즐로 배우는 알고리즘 with 파이썬](https://blog.naver.com/ydot/221616317667)
 * (NOT YET) [다이내믹 프로그래밍 완전 정복](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B9440449667)
+* (NOT YET) [파이썬 알고리즘 인터뷰 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
 
 # Amazon AWS
 
