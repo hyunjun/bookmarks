@@ -396,6 +396,7 @@ NLP
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
 * [publicservant_AI](https://github.com/kimwoonggon/publicservant_AI)
+* [Movie Reviews with bert-for-tf2 on TPU.ipynb - Colaboratory](https://colab.research.google.com/github/kpe/bert-for-tf2/blob/master/examples/tpu_movie_reviews.ipynb)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
@@ -592,6 +593,7 @@ NLP
 * [Building a Simple Chatbot from Scratch in Python (using NLTK)](https://medium.com/analytics-vidhya/building-a-simple-chatbot-in-python-using-nltk-7c8c8215ac6e)
 * [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
 * [How To Make a Chatbot in Python | Python Chat Bot Tutorial](https://morioh.com/p/55e676a3d9f8)
+* [채팅 프로그램 만들기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222027725523)
 * [Blender, Facebook State-of-the-Art Human-Like Chatbot, Now Open Source](https://www.infoq.com/news/2020/04/facebook-blender-chatbot/)
   * [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
