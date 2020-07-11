@@ -437,6 +437,7 @@ Python
   * [Python-append-vs-rebind-numpy.ipynb](https://colab.research.google.com/drive/1P_hZ7G1lrnZrdnjY01tIY8BZLIGYxtpv)
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
 * [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
+* [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -702,6 +703,7 @@ Python
   * [입 개발 Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
   * [입 개발 SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
   * [How to Bruteforce a Hash from Windows Hash File in Python](https://www.thelinuxrain.com/articles/how-to-bruteforce-a-hash-from-windows-hash-file-in-python)
+  * [Hashing it Out – Akshay's Blog](https://akshayr.me/blog/articles/python-dictionaries)
 * idle
   * [Case Study: IDLE Modernization](http://www.tkdocs.com/tutorial/idle.html)
 * import
@@ -3343,6 +3345,7 @@ Python
 * [Calculating Streaks in Pandas](https://joshdevlin.com/blog/calculate-streaks-in-pandas/)
 * [3 Excel Functions and How to Do Them in Python!](https://towardsdatascience.com/excel-functions-in-python-17d35defebdd)
 * [Slicing and Indexing with Pandas - Towards Data Science](https://towardsdatascience.com/slicing-and-indexing-with-pandas-2bff05ec361e)
+* [Pandas versus SQL Comparison : JOIN | Data Yoshi | Blog and Jobs in Data Science, Machine Learning, AI and more](https://www.datayoshi.com/blog/article/pandas-versus-sql-comparison---join)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
