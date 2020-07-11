@@ -119,6 +119,7 @@ SQL
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
+* [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * [usql - Universal command-line interface for SQL databases](https://github.com/xo/usql)
 * [UXSql Application Builder](https://www.notion.so/UXSql-Application-Builder-18857e102ca54c37b4e5f887f68f3a55) MSSQL, MySQL 가능
 * VisualSQL [We Made SQL Visual - Why and How](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
@@ -262,6 +263,7 @@ SQL
   * [Online Alter에도 헛점은 있더구나 – gdb, mysqld-debug 활용 사례](http://gywn.net/2018/10/online-alter-for-varchar/)
   * [MySQL Lock 상황 문제 해결](https://www.popit.kr/mysql-lock-상황-문제-해결)
   * [#1071 - Specified key was too long](http://stackoverflow.com/questions/1814532/1071-specified-key-was-too-long-max-key-length-is-767-bytes)
+  * [Connect to MySQL after hitting ERROR 1040: Too many connections - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/23/connect-to-mysql-after-hitting-error-1040-too-many-connections/)
 * [DATABASE2 - MySQL](https://opentutorials.org/course/3161)
 * [Node.js - MySQL](https://opentutorials.org/course/3347)
 * [count 1편 - count에 대해 몰랐던 사실](http://blog.naver.com/pjt3591oo/221030483713)
@@ -408,6 +410,7 @@ SQL
 * [MySQL (Percona XtraDB) slave replication crash resilience settings](https://dev.to/cosimo/mysql-percona-xtradb-slave-replication-crash-resilience-settings-3d8e)
 * [Improving MySQL Password Security with Validation Plugin](https://www.percona.com/blog/2020/06/03/improving-mysql-password-security-with-validation-plugin/)
 * [Best Practices for MySQL Backups - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/27/best-practices-for-mysql-backups/)
+* [Charset and Collation Settings Impact on MySQL Performance - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/27/charset-and-collation-settings-impact-on-mysql-performance/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -543,6 +546,8 @@ SQL
 * [How to Install Postgres 12](https://www.youtube.com/watch?v=tXFnplU0ous)
 * [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
+* [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
+* [Types of Indexes in PostgreSQL - Highgo Software Inc.](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -607,6 +612,7 @@ SQL
 * [MySQL DDL문 완전정복 SQL 독학 강의#21편 -sTricky](https://stricky.tistory.com/294)
 * [MySQL data dictionary SQL 독학 강의#22편](https://stricky.tistory.com/296)
 * [mysql 제약조건 알아보기 SQL 독학 강의#23편](https://stricky.tistory.com/308)
+* [index 의 중요성과 이해 SQL 독학 강의#24편](https://stricky.tistory.com/310)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
 
 ## Query, SQL Join
@@ -618,6 +624,7 @@ SQL
 * [SQL Join](https://opentutorials.org/module/4118)
   * [SQL Join](https://www.youtube.com/playlist?list=PLuHgQVnccGMAG1O1BRZCT3wkD_aPmPylq)
 * [Join 에 관해서 정리해 보겠습니다](https://developer88.tistory.com/331)
+* [SQL의 핵심, 다양한 종류의 조인 : 네이버 블로그](https://blog.naver.com/codeitofficial/222019008042)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
@@ -652,6 +659,7 @@ SQL
 * [SQLite Is Serverless](https://www.sqlite.org/serverless.html)
 * [Sharing an SQLite database across containers is surprisingly brilliant](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 * [SQLite As An Application File Format](https://sqlite.org/appfileformat.html)
+* [How does SQLite work? Part 1: pages!](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
