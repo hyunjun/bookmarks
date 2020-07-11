@@ -156,6 +156,7 @@ C++
 * [Never trust a programmer who says he knows C++](http://lbrandy.com/blog/2010/03/never-trust-a-programmer-who-says-he-knows-c/)
 * [c++ sort 의 비교함수가 true만 리턴할 때 어떤 일이 일어날까요?](https://codingdog.tistory.com/entry/c-sort-%EC%9D%98-%EB%B9%84%EA%B5%90%ED%95%A8%EC%88%98%EA%B0%80-true%EB%A7%8C-%EB%A6%AC%ED%84%B4%ED%95%A0-%EB%95%8C-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C%EC%9A%94)
 * [초보 탈출 #2 - 멀티 스레드 프로그래밍 1](http://10bun.tv/beginner/episode-2/)
+* [CLion 소개 : 네이버 블로그](https://blog.naver.com/ykish/222026766695)
 * [**Full Remote Mode Of CLion With Docker**](https://www.popit.kr/full-remote-mode-of-clion-with-docker/)
 * [**Remote Debug via GDB/gdbserver Of CLion With Docker**](https://www.popit.kr/remote-debug-via-gdbgdbserver%ef%bb%bf-of-clion-with-docker/)
 * [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
