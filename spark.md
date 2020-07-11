@@ -379,6 +379,7 @@
 * [Why Spark on Ceph? (Part 1 of 3)](https://www.redhat.com/en/blog/why-spark-ceph-part-1-3)
 * [Why Spark on Ceph? (Part 2 of 3)](https://www.redhat.com/en/blog/why-spark-ceph-part-2-3)
 * [Why Spark on Ceph? (Part 3 of 3)](https://www.redhat.com/en/blog/why-spark-ceph-part-3-3)
+* [Spark Delight — We’re building a better Apache Spark UI | by Jean Yves | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/spark-delight-were-building-a-better-spark-ui-1b463840e243)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
@@ -969,6 +970,7 @@
 * [Spark logging configuration in YARN](https://medium.com/@iacomini.riccardo/spark-logging-configuration-in-yarn-faf5ba5fdb01)
 * [Understanding Apache Spark on YARN](http://sujithjay.com/2018/07/24/Understanding-Apache-Spark-on-YARN/)
 * [Spark on YARN: a Deep Dive - Sandy Ryza, Cloudera](https://www.youtube.com/watch?v=N6pJhxCPe-Y)
+* [Apache Spark Performance Benchmarks show Kubernetes has caught up with YARN - Data Mechanics Blog](https://datamechanics.webflow.io/blog-post/apache-spark-performance-benchmarks-show-kubernetes-has-caught-up-with-yarn)
 
 # [Zeppelin](http://zeppelin-project.org/)
 * [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)
