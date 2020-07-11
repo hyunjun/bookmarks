@@ -118,7 +118,6 @@ Clojure
 * [Clojure Don’ts: Single-branch if](http://stuartsierra.com/2015/06/16/clojure-donts-single-branch-if)
 * [clojure-study/guestbook](https://github.com/clojure-study/guestbook)
 * [Dataflow (Reactive) Programming](http://docs.paralleluniverse.co/pulsar/#dataflow-reactive-programming)
-* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [Rich Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f#how-can-i-achieve-programming-mastery)
 * [Introduction to Logic Programming with Clojure - Ambrose Bonnaire-Sergeant](https://www.youtube.com/watch?v=irjP8BO1B8Y)
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
@@ -495,7 +494,9 @@ Clojure
 * [zprint - A fast zprint filter](https://github.com/kkinnear/zprint/blob/master/doc/graalvm.md)
 
 # Conference
+* [Clojure/north 2020 - YouTube](https://www.youtube.com/playlist?list=PL_arKaS8JOXHHaK715NZjVpfzKebcJD5U)
 * [DUTCH CLOJURE DAYS 2019](https://www.youtube.com/playlist?list=PLjzcwcP9P2Lfcz38lDtMF_XupRnecKokz)
+* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
