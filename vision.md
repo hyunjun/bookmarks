@@ -204,6 +204,7 @@ Vision
   * [YOLOv3](https://www.youtube.com/watch?v=MPU2HistivI)
   * [How to Build an Object Tracker Using YOLOv3, Deep SORT and TensorFlow](https://morioh.com/p/5f4db2fffbfa)
   * [YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet ](https://github.com/AlexeyAB/darknet)
+  * [YOLOv4 in the CLOUD: Build and Train Custom Object Detector](https://morioh.com/p/450b2ab62a56?f=5c21fb01c16e2556b555ab32)
   * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
