@@ -137,6 +137,8 @@ Git
 * [깃허브 패키지 레지스트리 베타 발표 언어 별 패키지 매니저 지원 및 깃헙 권한으로 접근 제어 등](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
 * [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
+* [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
+* [Github Profile Readme로 프로필 꾸미기 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
@@ -307,6 +309,7 @@ Git
   * [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
   * [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)
+  * [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/)
 * `config`
   * basics
 
