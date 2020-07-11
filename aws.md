@@ -399,6 +399,7 @@ AWS
 * [AWS EC2 + GOST(Go Simple Tunnel)를 사용하여 쉽게 Foward Proxy 서버 만들기 - 완두블로그](https://wani.kr/posts/2019/09/25/ec2-gost-easy-forward-proxy/)
 * [aws-vault로 AWS의 인증 정보 안전하게 사용하기](https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
 * [DevAxConnect - Twitch](https://www.twitch.tv/videos/667616330)
+* [Our AWS bill is ~ 2% of revenue. Here's how we did it | Blog](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -812,6 +813,7 @@ AWS
 * [Using Node.js to Display Images in a Private AWS S3 Bucket](https://medium.com/javascript-in-plain-english/using-node-js-to-display-images-in-a-private-aws-s3-bucket-4c043ed5c5d0)
 * [동적 변수를 젠킨스 파라미터로 사용하기 (Extended Choice Parameter)](https://qiita.com/leechungkyu/items/9465d924747d0a170cd7)
 * [S3, 넌 이것까지 할 수 있네(Amazon S3 신규 기능 소개)](https://dev.classmethod.jp/articles/summit-korea-introducing-new-features-of-s3/)
+* [AWS S3를 이용한 Jenkins 마이그레이션](https://jojoldu.tistory.com/508)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
