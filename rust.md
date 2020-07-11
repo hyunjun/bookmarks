@@ -176,6 +176,7 @@
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
 * [sqlx - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite](https://github.com/launchbadge/sqlx)
+* [tauri: Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast](https://github.com/tauri-apps/tauri)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [xi editor - A modern editor with a backend written in Rust. https://xi-editor.io ](https://github.com/xi-editor/xi-editor)
