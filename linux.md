@@ -112,6 +112,7 @@ Linux
 * [Cups AirPrint server with legacy printer driver support using Qemu](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
+* [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -420,6 +421,7 @@ Linux
   * [Delete specific line number(s) from a text file using sed?](http://stackoverflow.com/questions/2112469/delete-specific-line-numbers-from-a-text-file-using-sed)
   * [bash 저장 SINGLE 줄에 따옴표로 묶인 파일 이름을 출력하는 방법은 무엇입니까?](https://src-bin.com/ko/q/5c2ffc) path에 space가 있어서 quotation을 추가하기 원할 때
   * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
+  * [shell script 작성시 sed 치환패턴 문자열 escapse](https://bloodguy.tistory.com/entry/Linux-shell-script-%EC%9E%91%EC%84%B1%EC%8B%9C-sed-%EC%B9%98%ED%99%98%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-escapse)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
   * [리눅스 seq 명령어 사용법](https://www.snoopybox.co.kr/1680)
@@ -916,3 +918,6 @@ Linux
 * [Ubuntu 꼴랑이거(1) - 서버 시간이 차이가 날때.. - 완두블로그](https://wani.kr/posts/2015/04/23/ubuntu-something-1-time/)
 * [Ubuntu를 업그레이드 해보자 - 완두블로그](https://wani.kr/posts/2015/01/30/ubuntu-upgrade-12-to-14/)
 * [Ubuntu 20.04에서 sshfs 를 이용한 원격 폴더 마운트](https://kibua20.tistory.com/49)
+* [우분투로 자바스크립트 개발하기 — 1. Intro. 우분투로 자바스크립트를 개발하고 싶어하는 개발 입문자들을 위한… | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-intro-d1d9b6533e05)
+* [우분투로 자바스크립트 개발하기 — 2. 개발환경 세팅하기. 우분투로 자바스크립트를 개발하고 싶어하는 입문자들을 위한 글입니다… | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-9f8becea9e05)
+* [우분투로 자바스크립트 개발하기 — 3. FAQ / 도움되는 글 링크 | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3-faq-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-%EA%B8%80-%EB%A7%81%ED%81%AC-fb132d06b44c)
