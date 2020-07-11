@@ -603,6 +603,7 @@ Javascript
 * [JS 꼴랑이거(2) - setTimeout에서 발생하는 Exception 잡아내기 - 완두블로그](https://wani.kr/posts/2015/03/09/js-something-2-catchable-settimeout-exception/)
 * [Little Unknown Way To Get Rid Of Switch Statements](https://medium.com/javascript-in-plain-english/a-little-unknown-way-to-get-rid-of-switch-statements-15c2584f51b9)
 * [6 JavaScript Code Snippets For Solving Common Problems](https://levelup.gitconnected.com/6-javascript-code-snippets-for-solving-common-problems-33deb6cacef3)
+* [Dates and Times in JavaScript – Igalia Compilers Team](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -1345,6 +1346,7 @@ Javascript
 * [Rough.js - a small (\<9kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style](https://roughjs.com/)
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
+* [Rush: a scalable monorepo manager for the web](https://rushjs.io/)
 * [simplePARALLAX - the easiest way to get a parallax effect with javascript](https://simpleparallax.com/)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
 * [serializr - Serialize and deserialize complex object graphs to and from JSON and Javascript classes](https://github.com/mobxjs/serializr)
@@ -1757,6 +1759,7 @@ Javascript
 * [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
 * [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
 * [Node.js - 9.URL의 이해 - YouTube](https://www.youtube.com/watch?v=Zhbvui_T9VY)
+* [GitHub - iamssen/http-study-with-node-socket](https://github.com/iamssen/http-study-with-node-socket)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2236,6 +2239,7 @@ Javascript
 * [github.com/iamchanii/react-exercise](https://github.com/iamchanii/react-exercise)
 * [The Simplest React Stack - Bootstrapping and State Management](https://medium.com/@solkimicreb/the-react-stack-challenge-5fd166e1245f)
 * [9 React Static Site Generators for 2019](https://blog.bitsrc.io/9-react-static-site-generators-for-2019-f54a66e519d2)
+* [Before building your next static site with React, consider this - DEV](https://dev.to/bholmesdev/before-building-your-next-static-site-with-react-consider-this-2b60)
 * [How to make complex problems easier by decomposing and composing](https://medium.freecodecamp.org/how-to-make-complex-problems-easier-by-decomposing-and-composing-be57ce230c49)
 * [React Render Props](https://hackernoon.com/react-render-props-4809fe8ca966)
 * [Cache your React event listeners to improve performance](https://hackernoon.com/cache-your-react-event-listeners-to-improve-performance-37bda57ac965)
@@ -2377,6 +2381,7 @@ Javascript
 * [React onChange with input field & button - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/react-onchange-with-input-field-button-854f0035b94a)
 * [Six Ways To Get Better At React - Frontend Digest - Medium](https://medium.com/frontend-digest/six-ways-to-get-better-at-react-ccb321a7c35)
 * [4 Ways to Conditionally Render in React - Better Programming - Medium](https://medium.com/better-programming/4-ways-to-conditionally-render-in-react-3785fb5e5013)
+* [How to Build a NETFLIX Clone using React, Firebase and Material-UI](https://morioh.com/p/04d033c106f5?f=5c224490c513a556c9042463)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
