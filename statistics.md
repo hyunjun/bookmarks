@@ -170,6 +170,7 @@ Statistics
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://towardsdatascience.com/the-10-statistical-techniques-data-scientists-need-to-master-1ef6dbd531f7)
 * [Bias-Variance Tradeoff](https://jkeun.github.io/2018-05-03/bias-variance-tradeoff/)
 * [4. Variance Bias Trade Off(분산-편향의 관계)](https://doublekpark.blogspot.com/2019/01/4-variance-bias-trade-off.html)
+* [통컨(통계컨설팅) :: 분산을 구할 때 n으로 안 나누고 왜 (n-1)로 나누지?](https://rsas.tistory.com/137)
 * [Predicting NYC Real Estate Prices with Probabilistic Programming](http://blog.fastforwardlabs.com/2017/03/15/predicting-nyc-real-estate-prices-with-probabilistic-programming.html)
 * [Degrees of Freedom](https://jkeun.github.io/2017-07-24/degrees-of-freedom)
 * [Statistics 110 : Probability](https://www.edwith.org/harvardprobability/joinLectures/17924)
