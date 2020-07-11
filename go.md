@@ -253,6 +253,7 @@ Go
 * [project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
   * [byounghoonkim/project-layout: Standard Go Project Layout](https://github.com/byounghoonkim/project-layout/tree/translate-ko)
 * [Golang: Three common programming Problems - Higher-Order Functions - Medium](https://medium.com/higher-order-functions/golang-three-common-programming-problems-3ef8baf006af) tips like Set, ==, ...
+* [Cloud-Native Java vs Golang. Java once-famous motto: “Write once and… | by Igor Domrev | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/cloud-native-java-vs-golang-2a72c0531b05)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -406,6 +407,7 @@ Go
 * [GAM is a MVP Actor Model framework for Go](https://github.com/rogeralsing/gam)
 * [GIGO: PIP for GO](https://github.com/LyricalSecurity/gigo)
 * [gimpy - A simple Gisp core overlay providing bindings to Go's stdlib](https://github.com/eatonphil/gimpy)
+* [gitqlite: Query git repositories with SQL. Uses SQLite virtual tables and go-git](https://github.com/augmentable-dev/gitqlite)
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [Glide - Package Management for Go](https://glide.sh/)
 * [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
