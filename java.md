@@ -1150,6 +1150,7 @@ Java
 * [Spring Boot Code Quality Sonarqube](https://medium.com/trendyol-tech/spring-boot-2-2-6-code-quality-with-sonarqube-8-2-community-70a76634bf75)
 * [Certbot을 이용해 Iptime DDNS 도메인용 인증서 발급](https://bluedskim.github.io/posts/tech/certbot%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-iptime-ddns-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9A%A9-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89/)
 * [Tip Spring Boot 2.1.0 에서의 CORS 설정 | Charsyam's Blog](https://charsyam.wordpress.com/2020/06/23/tip-spring-boot-2-1-0-%ec%97%90%ec%84%9c%ec%9d%98-cors-%ec%84%a4%ec%a0%95/)
+* [스프링부트 어플리케이션에서 설정파일 및 프로파일 사용하기 - YouTube](https://www.youtube.com/watch?v=c_wziVyHxqg)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
