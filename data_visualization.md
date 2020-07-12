@@ -162,7 +162,9 @@ Data Visualization
 
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
-* chart.js [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
+* chart.js
+  * [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
+  * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
