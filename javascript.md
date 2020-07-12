@@ -402,9 +402,6 @@ Javascript
 * [5 Front-End Technologies I’m Keeping My Eye on in 2018](https://levelup.gitconnected.com/5-front-end-technologies-im-keeping-my-eye-on-in-2018-a9d7b75babff)
 * [코드버스커의 아무말대잔치 - Chrome 63, parcel, webpack, gulp 그리고 State of Javascript 2017](https://codebusking.show/%EC%BD%94%EB%93%9C%EB%B2%84%EC%8A%A4%EC%BB%A4%EC%9D%98-%EC%95%84%EB%AC%B4%EB%A7%90%EB%8C%80%EC%9E%94%EC%B9%98-chrome-63-parcel-webpack-gulp-%EA%B7%B8%EB%A6%AC%EA%B3%A0-state-of-javascript-2017-1c5daed3a84f)
 * [A Look Back at the State of JavaScript in 2017](https://medium.freecodecamp.org/a-look-back-at-the-state-of-javascript-in-2017-a5b7f562e977)
-* [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
-* [Handling null and undefined in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
-* [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
 * [JavaScript type coercion explained](https://medium.freecodecamp.org/js-type-coercion-explained-27ba3d9a2839)
 * [JS WTF 🦄 with Math - Let’s ride on the weirdness with JavaScript Math](https://hackernoon.com/js-wtf-with-math-79da9a941ec1)
 * [Nested Ternaries are Great](https://medium.com/javascript-scene/nested-ternaries-are-great-361bddd0f340)
@@ -615,6 +612,10 @@ Javascript
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
 * undefined
   * [undefined 와 null 의 차이점은 무엇인가요?](https://developer88.tistory.com/272)
+  * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
+  * [Handling null and undefined in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
+  * [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
+  * [The history of “typeof null”](https://2ality.com/2013/10/typeof-null.html)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
