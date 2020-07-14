@@ -923,6 +923,8 @@ Scala
 * [config - configuration library for JVM languages using HOCON files](https://github.com/lightbend/config)
   * [Data Juggling - Part 9 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 1)](https://www.youtube.com/watch?v=uQUimiHsLCw)
   * [Data Juggling - Part 10 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 2)](https://www.youtube.com/watch?v=NlOKF4RJELo)
+* [Coursier](https://get-coursier.io/docs/cli-overview)
+  * [One-click install for Scala | The Scala Programming Language](https://www.scala-lang.org/2020/06/29/one-click-install.html)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
