@@ -121,6 +121,7 @@
 * [Cross-compile Rust programs to run on Turris Omnia](https://itnext.io/cross-compile-rust-programs-to-run-on-turris-omnia-e592b555e2aa)
 * [Graph & Tree Traversals in Rust - The Data Dump - Medium](https://medium.com/the-data-dump/graph-tree-traversals-in-rust-3c9c93a0feba)
 * [3K, 60fps, 130ms: achieving it with Rust | tonari blog](https://blog.tonari.no/why-we-love-rust)
+* [Examining ARM vs X86 Memory Models with Rust - Nick Wilcox’s Coding Blog](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -160,11 +161,13 @@
 * [Playground](https://play.rust-lang.org/)
 * [plex - a parser and lexer generator as a Rust syntax extension](https://github.com/goffrie/plex)
 * [Plumbum (latin for lead) is a port of Michael Snoyman's excellent conduit library. It allows for production, transformation, and consumption of streams of data in constant memory](https://srijs.de/rust-plumbum/plumbum/)
+* [Pont - A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
+* [ruffle: A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
 * [rust-analyzer - an implementation of Language Server Protocol for the Rust programming language](https://rust-analyzer.github.io/)
 * [Rustation PlayStation emulator](https://github.com/simias/rustation)
