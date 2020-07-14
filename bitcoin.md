@@ -50,6 +50,7 @@ Bitcoin
 * [WTF is Cuckoo Cycle PoW algorithm that attract projects like Grin and Cortex?](https://hackernoon.com/wtf-is-cuckoo-cycle-pow-algorithm-that-attract-projects-like-cortex-and-grin-ad1ff96effa9)
 * [Consensus Models: PoW, PoS and New Pioneer, PoF](https://hackernoon.com/consensus-models-pow-pos-and-new-pioneer-pof-702fa2f55d49) proof of work, proof of stake, proof of formulation
 * [dapp campus](https://www.youtube.com/channel/UCvF95zGgUlY2G6Lkb1GO-fw)
+* [Bitcoin From Scratch - Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
