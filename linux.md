@@ -451,6 +451,7 @@ Linux
   * [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
   * [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
   * [MAC에서 비밀번호 없이 ssh 접속하기(config) - On KimKevin's Dev Way](https://blog.kimkevin.net/mac%ec%97%90%ec%84%9c-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%97%86%ec%9d%b4-ssh-%ec%a0%91%ec%86%8d%ed%95%98%ea%b8%b0config/)
+  * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
@@ -722,6 +723,7 @@ Linux
 * [Linux Check Memory Usage](https://www.cyberciti.biz/faq/linux-check-memory-usage/)
 * [How to check memory usage per process in Linux](https://www.golinuxcloud.com/check-memory-usage-per-process-linux/)
 * [8 Commands to Check Memory Usage on Linux](https://www.2daygeek.com/linux-commands-check-memory-usage/)
+* [How to measure Linux Performance Avoiding Most Typical Mistakes: Memory](https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-memory/)
 * `systemd-cgtop` [Find memory used by Services](https://www.linuxquestions.org/questions/linux-newbie-8/find-memory-used-by-services-4175619662/)
 
 # Network
