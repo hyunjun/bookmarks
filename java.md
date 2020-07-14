@@ -411,9 +411,6 @@ Java
   * [java version 변경(update-alternatives)](https://firstboos.tistory.com/entry/java-version-변경updatealternatives)
 * [Hotfix To Install Latest Oracle JDK On Linux EC2 Instance (CentOS)](https://blog.knoldus.com/installing-latest-oracle-jdk-on-linux-ec2-instance-centos/)
 * [자바 8 살펴보기](http://www.moreagile.net/2014/04/AllAboutJava8.html)
-* [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
-* [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams)
-* [Java 스트림 Stream (2) 고급](https://futurecreator.github.io/2018/08/26/java-8-streams-advanced/)
 * [Modern Java - A Guide to Java 8](https://github.com/winterbe/java8-tutorial)
 * [나는 프로그래머다 웨비너 - 자바8 깊숙히!](https://www.youtube.com/watch?v=lIEKOe0bh0M)
 * [모던 자바 (자바8) 못다한 이야기 예제 보관용](https://github.com/Kevin-Lee/modern-java-untold)
@@ -423,8 +420,6 @@ Java
 * [Functional Programming with Java 8](https://www.youtube.com/watch?v=Ee5t_EGjv0A)
 * [String concatenation with Java 8](http://www.pellegrino.link/2015/08/22/string-concatenation-with-java-8.html)
 * [JDK8 오라클 튜토리얼 번역](http://wiki.jbugkorea.org/plugins/servlet/mobile#content/view/1050527)
-* [for-loop 를 Stream.forEach() 로 바꾸지 말아야 할 3가지 이유](http://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/index.html)
-* [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
 * [Java SE 8 best practices](http://www.slideshare.net/scolebourne/java-se-8-best-practices-53975908)
 * [메소드를 파라미터로 전달하기](http://jojoldu.tistory.com/232)
 * [Java 8 - Future vs CompletableFuture](https://www.linkedin.com/pulse/java-8-future-vs-completablefuture-saral-saxena/)
@@ -432,7 +427,6 @@ Java
 * [자바 SE 8에 대한 질의응답(파트 1)](https://blog.naver.com/lube12/221170814388)
 * [How to make parallel calls in Java with CompletableFuture example](http://www.codingpedia.org/ama/how-to-make-parallel-calls-in-java-with-completablefuture-example)
 * [CompletableFuture 비동기 처리로 성능 개선하기](http://blog.woniper.net/361)
-* [Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam](https://www.youtube.com/watch?v=0hQvWIdwnw4)
 * [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0) CompletableFuture
 * [뒤늦게 배워보자, Java 8 Part. 1](https://www.sangkon.com/java8_study_part1/)
 * [뒤늦게 배워보자, Java 8 Part. 2](https://www.sangkon.com/java8_study_part2/)
@@ -449,6 +443,15 @@ Java
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
 * [Spark Framework is a simple and lightweight Java web framework built for rapid development](http://sparkjava.com/)
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
+
+## Java8 Stream
+* [Java 8: Replace traditional for loops with IntStreams](http://www.deadcoderising.com/2015-05-19-java-8-replace-traditional-for-loops-with-intstreams/)
+* [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams)
+* [Java 스트림 Stream (2) 고급](https://futurecreator.github.io/2018/08/26/java-8-streams-advanced/)
+* [for-loop 를 Stream.forEach() 로 바꾸지 말아야 할 3가지 이유](http://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/index.html)
+* [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
+* [Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam](https://www.youtube.com/watch?v=0hQvWIdwnw4)
+* [자바에서 스트림이란 무엇이고 어떻게 코드를 간결하고 가독성 높게 만들수 있는지 설명합니다. - YouTube](https://www.youtube.com/watch?v=x8-p7Hcxpr8)
 
 # Java9
 * [Countdown to Java 9 Release Date](http://www.java9countdown.xyz/)
@@ -1151,6 +1154,7 @@ Java
 * [Certbot을 이용해 Iptime DDNS 도메인용 인증서 발급](https://bluedskim.github.io/posts/tech/certbot%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-iptime-ddns-%EB%8F%84%EB%A9%94%EC%9D%B8%EC%9A%A9-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EB%B0%9C%EA%B8%89/)
 * [Tip Spring Boot 2.1.0 에서의 CORS 설정 | Charsyam's Blog](https://charsyam.wordpress.com/2020/06/23/tip-spring-boot-2-1-0-%ec%97%90%ec%84%9c%ec%9d%98-cors-%ec%84%a4%ec%a0%95/)
 * [스프링부트 어플리케이션에서 설정파일 및 프로파일 사용하기 - YouTube](https://www.youtube.com/watch?v=c_wziVyHxqg)
+* [Spring Boot 2.3.0 Focuses on the Cloud](https://www.infoq.com/news/2020/06/spring-boot-230-cloud/)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
