@@ -1864,6 +1864,7 @@ Programming
 * [2020년 7월 4일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/07/b-2020-7-4.html) 개발자 경력을 쓰레기통으로 보내는 9가지 방법, HTTP 프로토콜 Part 1, C#: 널 점검 연산자 변경(!에서 !!로)
   * [(07/04) 개발자 경력을 쓰레기통으로 보내는 9가지 방법 - YouTube](https://www.youtube.com/watch?v=DPdMrr76lzo)
 * [2020년 7월 11일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-11.html) 현대적인 자바스크립트 튜토리얼, 파이썬 웹 클라이언트 프로그램, 구글 웹 성능 개선 방안, git -m multiline commit message
+  * [(07/11) 과연 리눅스 창시자인 리누스 토발자는 요즘 코딩을 할까 하지 않을까? - YouTube](https://www.youtube.com/watch?v=Xrk-ET1KDK4)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
