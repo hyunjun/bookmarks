@@ -44,6 +44,7 @@ C#
 * [손글씨 인식 프로그램 구현 머신러닝 with C#, ML NET](https://www.youtube.com/watch?v=Nmso-oplEqI)
 
 # API
+* [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
 * Async, Await
   * [C#의 Task 비동기 프로그래밍 모델](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)
   * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
