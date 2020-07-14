@@ -91,6 +91,7 @@ Programming Language
 * [KAIST CS320 Programming Languages Course Reading Materials](https://hjaem.info/articles/main)
 * [5 Programming Languages Worth Exploring to Improve Your Coding Style](https://medium.com/swlh/5-programming-languages-worth-exploring-to-improve-your-coding-style-f2d852cb46aa)
   * ML languages (F# / OCaml), Haskell, LISP family: Common LISP, Clojure, Scheme, Rust, Smalltalk
+* [Choosing a (Language) Stack. This post and the experiment was a… | by Nick Gordon | WeWork Technology](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6) ruby, kotlin, go
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
