@@ -135,6 +135,7 @@ Vision
 * [Configure TensorFlow To Train an Object Detection Classifier | by 180NF | AI In Plain English | Medium](https://medium.com/ai-in-plain-english/configure-tensorflow-to-train-an-object-discovery-classifier-59572bb5d8c4)
 * [How to Build an Object Detection Classifier with TensorFlow 2.0 on Windows/Linux](https://morioh.com/p/6a5f8660ddad)
 * [Using TensorFlow and the Serverless Framework for deep learning and image recognition](https://serverless.com/blog/using-tensorflow-serverless-framework-deep-learning-image-recognition/)
+* [Computer vision — creating a classifier using convolutions, pooling and TensorFlow | by Eligijus Bujokas | Towards Data Science](https://towardsdatascience.com/computer-vision-creating-a-classifier-using-convolutions-pooling-and-tensorflow-7e75d809acbc)
 * [RandWireNN - Unofficial Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition"](https://github.com/hebo1221/RandWireNN)
 * [SNIPER - an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER) MXNet 기반
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
