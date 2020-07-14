@@ -86,6 +86,7 @@ Network
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
 * [The HTTP headers you don't expect](https://frenxi.com/http-headers-you-dont-expect/)
 * [HTTP 정리](https://medium.com/@rlatla626/http-%EC%A0%95%EB%A6%AC-3958d2a82312)
+* [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1 • Captain Pangyo](https://joshua1988.github.io/web-development/http-part1/)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
