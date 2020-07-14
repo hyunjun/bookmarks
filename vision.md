@@ -133,6 +133,7 @@ Vision
 * [Real-Time Object Detection with TensorFlow](https://medium.com/analytics-vidhya/real-time-object-detection-with-tensorflow-64e2677521ce)
 * [Object Detection with Tensorflow](https://morioh.com/p/6c21409cf1ef)
 * [Configure TensorFlow To Train an Object Detection Classifier | by 180NF | AI In Plain English | Medium](https://medium.com/ai-in-plain-english/configure-tensorflow-to-train-an-object-discovery-classifier-59572bb5d8c4)
+* [How to Build an Object Detection Classifier with TensorFlow 2.0 on Windows/Linux](https://morioh.com/p/6a5f8660ddad)
 * [Using TensorFlow and the Serverless Framework for deep learning and image recognition](https://serverless.com/blog/using-tensorflow-serverless-framework-deep-learning-image-recognition/)
 * [RandWireNN - Unofficial Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition"](https://github.com/hebo1221/RandWireNN)
 * [SNIPER - an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER) MXNet 기반
