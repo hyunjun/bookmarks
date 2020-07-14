@@ -1858,9 +1858,10 @@ Programming
 * [2020년 6월 13일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-13.html) 페북 TransCoder, CORS, Vim, devdocs.io, Android 11, Micronaut Servlet, Grid.js, Istio Traffic Mirroring, /bin과 /usr/bin 분리된 이유는?
 * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
 * [2020년 6월 27일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-6-27.html) 아마존 허니코드, AWS 탐구생활, AWS, GCP, Azure Cloud 자료 모음, 유닉스 SIGSEGV에서 ‘V’는?
+* [2020년 상반기. 양질의 기술 아티클 모음](https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
 * [2020년 7월 4일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/07/b-2020-7-4.html) 개발자 경력을 쓰레기통으로 보내는 9가지 방법, HTTP 프로토콜 Part 1, C#: 널 점검 연산자 변경(!에서 !!로)
   * [(07/04) 개발자 경력을 쓰레기통으로 보내는 9가지 방법 - YouTube](https://www.youtube.com/watch?v=DPdMrr76lzo)
-* [2020년 상반기. 양질의 기술 아티클 모음](https://velog.io/@rkdrhksdn/2020%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0-%EC%96%91%EC%A7%88%EC%9D%98-%EA%B8%B0%EC%88%A0-%EC%95%84%ED%8B%B0%ED%81%B4-%EB%AA%A8%EC%9D%8C%EC%A7%91)
+* [2020년 7월 11일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-11.html) 현대적인 자바스크립트 튜토리얼, 파이썬 웹 클라이언트 프로그램, 구글 웹 성능 개선 방안, git -m multiline commit message
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
