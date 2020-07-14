@@ -6,6 +6,7 @@ Scala
 * [medium.com/tag/scala](https://medium.com/tag/scala)
 * [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
+* [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/)
 * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
 * [Happy Valentine’s Day with Valentin Kasas](https://scala.love/happy-valentin/) podcast
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
@@ -411,6 +412,7 @@ Scala
 * [AKKA(아카)with Scala 튜토리얼 02](https://wingnim.tistory.com/88)
 * [AKKA(아카)with Scala 튜토리얼 03](https://wingnim.tistory.com/89)
 * [Implement Event bus using Akka](https://blog.softwaremill.com/implement-event-bus-using-akka-cfbcbfafb75)
+* [Scaling Event Bus. How to scale event bus on multiple… | by Lukasz Lenart | Jun, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/scaling-event-bus-d0b84cc73b43)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -1258,6 +1260,7 @@ Scala
 * [Bake your bread tagless-final style](https://blog.softwaremill.com/bake-your-bread-tagless-final-style-dea9448b3dc3)
 * [Tagless Final - Part 1 - What is Tagless Final? - YouTube](https://www.youtube.com/watch?v=XJ2NjqkWdck)
 * [Tagless Final - Part 2 - Introduction to the Expression Problem - YouTube](https://www.youtube.com/watch?v=jz0jbJ3VkjQ)
+* [Tagless Final - Part 3 - If only we had a crystal ball! 🔮 - YouTube](https://www.youtube.com/watch?v=3Jmy3AyYZjc)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
