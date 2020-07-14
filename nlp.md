@@ -1222,7 +1222,6 @@ NLP
 * [How to build a simple text classifier with TF-Hub](https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub)
   * [예제의 텍스트 임베딩 함수](https://tfhub.dev/google/nnlm-en-dim128/1)가 estimator로 바로 피딩되는 바람에 feature vector 자체에 접근 불가능
   * 이를 해결한 방법 [demo_sentence_feature.ipynb](https://github.com/sjchoi86/deep-robust-nlp/blob/master/code/demo_sentence_feature.ipynb)
-* [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
 * [Sentiment analysis : Frequency-based models](http://tech.reputation.com/sentiment-mining-frequency-based-models/)
 * [Sentiment analysis : Frequency-based models](https://medium.com/@samuelpilcer/sentiment-analysis-frequency-based-models-288c0accdd12)
 * [Sentiment analysis : Machine-Learning approach](http://tech.reputation.com/sentiment-analysis-machine-learning/)
@@ -1232,6 +1231,9 @@ NLP
 * [Sentiment Analysis: Concept, Analysis and Applications](https://blog.paralleldots.com/product/contextual-sentiment-analysis-applications)
 * [sentiment_dataset](https://github.com/AcademiaSinicaNLPLab/sentiment_dataset)
 * [Sentiment Analysis using Deep Learning with Tensorflow](https://medium.com/analytics-vidhya/sentiment-analysis-using-deep-learning-with-tensorflow-2bb176c40257)
+* vader
+  * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
+  * [Rule-based Sentiment Analysis of App Store Review in Python | by Ng Wai Foong | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/rule-based-sentiment-analysis-of-app-store-review-in-python-94d8bbfc48bb)
 
 # Similarity
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
