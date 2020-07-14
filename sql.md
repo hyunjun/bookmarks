@@ -411,6 +411,7 @@ SQL
 * [Improving MySQL Password Security with Validation Plugin](https://www.percona.com/blog/2020/06/03/improving-mysql-password-security-with-validation-plugin/)
 * [Best Practices for MySQL Backups - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/27/best-practices-for-mysql-backups/)
 * [Charset and Collation Settings Impact on MySQL Performance - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/27/charset-and-collation-settings-impact-on-mysql-performance/)
+* [Mysql objects 개념 정리 for 개발자](https://stricky.tistory.com/315)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
