@@ -26,6 +26,9 @@ Json
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
 * [jsonista - Clojure library for fast JSON encoding and decoding](https://github.com/metosin/jsonista)
 
+# Go
+* [ojg - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools](https://github.com/ohler55/ojg/tree/master)
+
 # Haskell
 * [JSON Parsing from Scratch in Haskell](https://abhinavsarkar.net/posts/json-parsing-from-scratch-in-haskell/)
 * [How to define JSON instances quickly](https://dev.to/tfausak/how-to-define-json-instances-quickly-5ei7)
@@ -74,6 +77,7 @@ Json
 * [How to Secure Your API With JSON Web Tokens](https://medium.com/javascript-in-plain-english/how-to-secure-your-api-with-json-web-tokens-495ec68ba6cd)
 * [JWT(Json Web Token)와 세션관리에 대해서 알아보자](https://developer88.tistory.com/325)
 * [JWT를 소개합니다](https://meetup.toast.com/posts/239)
+* [r2c blog — Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
 
 ## JWT Python
