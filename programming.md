@@ -1097,6 +1097,7 @@ Programming
 * [KAIST CS420: Compiler Design](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
 * [Let's make a Teeny Tiny compiler, part 1 - Austin Z. Henley](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time | Carol's Blog](https://carolchen.me/blog/jits-intro/)
+* [c언어 수열의 부분 합(Prefix Sum) 구하기 - 어떤 방법이 더 빠르고 정확할까](https://bab2min.tistory.com/658)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -1273,6 +1274,7 @@ Programming
 * [DevOps는 원격근무를 추구하면 안되는 걸까?](https://www.slideshare.net/jesangyoon/devops-190288417)
 * [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
 * [Super Easy All-In-One DevOps Platform](https://github.com/theonedev/onedev)
+* [Must Learn DevOps Tools for 2020. A curated list of the best DevOps tools… | by Tj Blogumas | Better Programming | Medium](https://medium.com/better-programming/must-learn-devops-tools-for-2020-1a8a2675e88f)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
