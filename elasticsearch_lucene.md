@@ -121,6 +121,7 @@ ElasticSearch - Lucene
 * [And the big one said "Rollover" — Managing Elasticsearch time-based indices efficiently](https://www.elastic.co/kr/blog/managing-time-based-indices-efficiently)
 * [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
 * [들이마시는 공기: Elastic Cloud의 Elasticsearch로 대기 품질 데이터 분석하기(파트 1)](https://www.elastic.co/kr/blog/what-are-you-breathing-analyzing-air-quality-data-with-elasticsearch-on-elastic-cloud-part-1)
+* [Elastic Cloud 활용 1 - Amazon S3 에서 Elastic Cloud 로 데이터 수집하기 - Jongmin's blog](http://kimjmin.net/2020/07/2020-07-aws-s3-to-elastic-cloud/)
 * [엘라스틱 스택 : 사물인터넷(IoT)의 기반 데이터 플랫폼](https://www.elastic.co/kr/blog/IoT-Based-Data-Platform)
 * [오픈량을 두배로 늘립니다](https://www.elastic.co/kr/blog/doubling-down-on-open)
 * [Aftershock Therapy with Elasticsearch and CSV Data Import](https://www.elastic.co/kr/blog/aftershock-therapy-with-elasticsearch-and-csv-data-import)
