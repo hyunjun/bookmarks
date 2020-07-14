@@ -34,6 +34,7 @@ Time Series
   * [everything-you-can-do-with-a-time-series.ipynb](https://gist.github.com/subinium/26d22a786b0b7d088da63a97bf8e1d44)
 * [Time Series Prediction - A short introduction for pragmatists](https://www.liip.ch/en/blog/time-series-prediction-a-short-comparison-of-best-practices)
 * [Two Effective Algorithms for Time Series Forecasting](https://www.youtube.com/watch?v=VYpAodcdFfA)
+* [High-cardinality TSDB benchmarks: VictoriaMetrics vs TimescaleDB vs InfluxDB | by Aliaksandr Valialkin | Medium](https://medium.com/@valyala/high-cardinality-tsdb-benchmarks-victoriametrics-vs-timescaledb-vs-influxdb-13e6ee64dd6b)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
