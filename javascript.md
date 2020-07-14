@@ -177,6 +177,7 @@ Javascript
 * [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 * [40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html)
 * [9 JavaScript Tricks To Code Like A Pro!](https://medium.com/swlh/9-javascript-tricks-to-code-like-a-pro-d09ea534235)
+* [5 Useful Tricks JavaScript has been Hiding from You | by Alexandre Zajac | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-useful-tricks-javascript-has-been-hiding-from-you-b7fa38bd98d8)
 * [5 JavaScript Tips I Learned From Vue Source Code](https://levelup.gitconnected.com/5-javascript-tips-i-learned-from-vue-source-code-6095df4e9bc1)
 * [JavaScript Best Practices — Things to Avoid](https://medium.com/better-programming/javascript-best-practice-things-to-avoid-be8e8fa30cca)
 * [번역 11가지 극도로 유용한 JavaScript 팁](https://chaewonkong.github.io/posts/11-useful-js-tips.html)
@@ -2518,6 +2519,7 @@ Javascript
 * [5 Essential Libraries For Your Next React Application](https://medium.com/frontend-digest/5-essential-libraries-for-your-next-react-application-84d8d73e9806)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
+  * [Accessible and Beautiful Components with Chakra UI | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f)
 * Context API
   * [React’s ⚛️ new Context API](https://blog.kentcdodds.com/reacts-%EF%B8%8F-new-context-api-70c9fe01596b)
   * [Replacing Redux with the new React context API](https://medium.freecodecamp.org/replacing-redux-with-the-new-react-context-api-8f5d01a00e8c)
