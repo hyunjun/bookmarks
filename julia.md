@@ -98,6 +98,12 @@ Julia
 * [Does Julia have a future as a general high-performance language?](https://www.quora.com/Does-Julia-have-a-future-as-a-general-high-performance-language)
 * [Apart from the lack of libraries (if compared to Python, for example), is there any reason Julia wouldn't be a good general purpose programming language?](https://www.quora.com/Apart-from-the-lack-of-libraries-if-compared-to-Python-for-example-is-there-any-reason-Julia-wouldnt-be-a-good-general-purpose-programming-language)
 * [Bisection method - 1](https://otter275.tistory.com/18) 수치적 방법으로 방정식의 해를 근사적으로 찾는 iterative method중 가장 간단한 알고리즘
+* [Emmetts-DS-NoteBooks/Metaprogramming a Scatterplot with compose (Pt. 3).ipynb at master · emmettgb/Emmetts-DS-NoteBooks · GitHub](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Metaprogramming%20a%20Scatterplot%20with%20compose%20(Pt.%203).ipynb)
+  * [Metaprogramming A Coordinate Parser With Compose In Julia | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/metaprogramming-a-coordinate-parser-with-compose-in-julia-a0d163c6fb21)
+  * [MetaProgramming A Graph Class In Julia (Part Two) | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/metaprogramming-a-graph-class-in-julia-90a90e8ab45b)
+  * [Introducing Hone: The Modular Object-Oriented Graphing Library For Julia | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/introducing-hone-a-modular-object-oriented-graphing-library-for-julia-823b028b462a)
+  * [Adding Julia’s Polymorphic Dispatch To My Plotting Library (Part 4) | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/adding-julias-polymorphic-dispatch-to-my-plotting-library-part-4-1446e924774f)
+  * [Adding Color And Features To My Graphing Library For Julia (Part 5) | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/adding-color-and-features-to-my-graphing-library-for-julia-part-5-15426b00dcaf)
 
 # API
 * Pkg.add
@@ -121,6 +127,12 @@ Julia
 # Deep Learning
 * [Deep learning in Julia | AI & ML](https://hyeonji-ryu.github.io/categories/Deep-learning-in-Julia/)
 * [Mocha.jl: Deep Learning for Julia](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
+
+# Finance
+* [Quantitative Finance in Julia](https://github.com/JuliaQuant)
+* [뉴욕 연방 준비 은행](https://github.com/FRBNY-DSGE)
+* [블랙록 자산 운용](https://github.com/blackrock)
+* [Conning 자산 운용](https://github.com/Conning)
 
 # Library
 * [Developing Julia Packages](https://www.youtube.com/watch?v=QVmU29rCjaA)
@@ -157,12 +169,6 @@ Julia
 * [TensorFlow.jl - A Julia wrapper for TensorFlow](https://github.com/malmaud/TensorFlow.jl)
 * [Weave.jl - Scientific Reports Using Julia](http://weavejl.mpastell.com/)
 
-## Finance
-* [Quantitative Finance in Julia](https://github.com/JuliaQuant)
-* [뉴욕 연방 준비 은행](https://github.com/FRBNY-DSGE)
-* [블랙록 자산 운용](https://github.com/blackrock)
-* [Conning 자산 운용](https://github.com/Conning)
-
-## MOOC, Lecture
+# MOOC, Lecture
 * [Julia Academy](https://academy.juliabox.com/)
 * [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)
