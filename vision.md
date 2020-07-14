@@ -132,6 +132,7 @@ Vision
 * [TensorFlow Object Detection API in 5 clicks from Colaboratory](https://medium.com/@nickbortolotti/tensorflow-object-detection-api-in-5-clicks-from-colaboratory-843b19a1edf1)
 * [Real-Time Object Detection with TensorFlow](https://medium.com/analytics-vidhya/real-time-object-detection-with-tensorflow-64e2677521ce)
 * [Object Detection with Tensorflow](https://morioh.com/p/6c21409cf1ef)
+* [Configure TensorFlow To Train an Object Detection Classifier | by 180NF | AI In Plain English | Medium](https://medium.com/ai-in-plain-english/configure-tensorflow-to-train-an-object-discovery-classifier-59572bb5d8c4)
 * [Using TensorFlow and the Serverless Framework for deep learning and image recognition](https://serverless.com/blog/using-tensorflow-serverless-framework-deep-learning-image-recognition/)
 * [RandWireNN - Unofficial Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition"](https://github.com/hebo1221/RandWireNN)
 * [SNIPER - an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER) MXNet 기반
@@ -205,6 +206,7 @@ Vision
   * [How to Build an Object Tracker Using YOLOv3, Deep SORT and TensorFlow](https://morioh.com/p/5f4db2fffbfa)
   * [YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet ](https://github.com/AlexeyAB/darknet)
   * [YOLOv4 in the CLOUD: Build and Train Custom Object Detector](https://morioh.com/p/450b2ab62a56?f=5c21fb01c16e2556b555ab32)
+  * [YOLOv4 Object Detection with TensorFlow, TensorFlow Lite and TensorRT Models](https://morioh.com/p/b80d2e63949e?f=5c21fb01c16e2556b555ab32)
   * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
