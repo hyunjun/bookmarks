@@ -954,6 +954,7 @@
 * [State Management in Spark Structured Streaming](https://medium.com/@chandanbaranwal/state-management-in-spark-structured-streaming-aaa87b6c9d31)
 * [Watermarking in Spark Structured Streaming](https://towardsdatascience.com/watermarking-in-spark-structured-streaming-9e164f373e9)
 * [Structured streaming in a flash](https://medium.com/@johankok/structured-streaming-in-a-flash-576cdb17bbee)
+* [File sink and Out-Of-Memory risk on waitingforcode.com - articles about Apache Spark Structured Streaming](https://www.waitingforcode.com/apache-spark-structured-streaming/file-sink-out-of-memory-risk/read)
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
