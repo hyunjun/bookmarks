@@ -179,6 +179,7 @@ Interview
 * [과학적 정보 수집 대화법](http://agile.egloos.com/5934928)
 * [SW 기술면접](https://www.youtube.com/playlist?list=PL1iR1v6eNy5PhmaTHDUOrFVfta20oEVsj)
 * [실리콘밸리 인터뷰 투어 매거진](https://brunch.co.kr/magazine/interview-tour) 여러 회사에서 겪은 전체 과정
+* [황동성님](https://gist.github.com/hyunjun/c9e23a8553df22b889904dd728b2b2be)
 * [Interview Sandbox](https://interviewsandbox.com/)
   * [What if you could draw your thoughts in technical interviews?](https://medium.com/hackernoon/what-if-you-could-draw-your-thoughts-in-technical-interviews-47e1ff87bf33)
 
