@@ -803,6 +803,7 @@ Docker
 * [Kubernetes에 Microservice 배포하기 1편 - 클릭 몇 번으로 배포 시스템 만들기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/06/13/microsrv-deploy-1.html)
 * [Docker and Kubernetes — root vs. privileged - ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
 * [What’s up with the Kubernetes ecosystem – Blocks and Files](https://blocksandfiles.com/2020/07/09/kubernetes-ecosystem-analysis)
+* [Docker and Kubernetes — root vs. privileged | by Bryant Hagadorn | Jun, 2020 | ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
