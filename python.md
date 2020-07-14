@@ -162,6 +162,7 @@ Python
 * [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
 * [Python Online Quiz | Online Test | Mock Exam](http://www.hub4tech.com/Python-online-quiz-test)
 * [Python Interview Questions and Answers](http://www.hub4tech.com/interview/python)
+* [80 Python Interview Practice Questions | by Cornellius Yudha Wijaya | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/80-python-interview-practice-questions-f1640eea66ac)
 * [이미지 캡션 API - CloudSight, Clarifai](https://brunch.co.kr/@kmbmjn95/22)
 * [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
@@ -440,6 +441,7 @@ Python
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
 * [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
 * [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
+* [Change The Way You Write Python Code With One Extra Character | by Dorel Masasa | The Startup | Medium](https://medium.com/swlh/change-the-way-you-write-python-code-with-one-extra-character-6665b73803c1) asterisk, args, kwargs
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -578,6 +580,7 @@ Python
   * [decorator를 이용한 함수의 doc string 구하기](http://mcchae.egloos.com/11295614)
   * [Function Decorators in Python - Add extra functionality to your Python functions](https://medium.com/python-monkey/function-decorators-74c08b9493bf)
   * [파이썬 데코레이터(Decorator)에 파라미터 넣기](https://blog.naver.com/codeitofficial/221680630354)
+  * [Decorators in Python: Fundamentals for Data Scientists | by Erdem Isbilen | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/decorators-in-python-fundamentals-for-data-scientists-eada7f4eba85)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -778,6 +781,7 @@ Python
   * [Python's Built-In 'logging' Module](https://www.youtube.com/watch?v=4t67SNWoPxk)
   * [pycon kr 2018.12 파이썬 로깅, 끝까지 파보면서 내가 배운 것 - 황현태](https://www.youtube.com/watch?v=lS2gwDe46_0)
     * [파이썬 로깅, 끝까지 파보면서 내가 배운 것](https://www.slideshare.net/ssuserf482d4/ss-126936692)
+  * [Copy-Pastable Logging Scheme for Python | by Dalya Gartzman | codeburst](https://codeburst.io/copy-pastable-logging-scheme-for-python-c17efcf9e6dc)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
@@ -884,6 +888,7 @@ Python
     * [Multithreading in Python | Set 2 (Synchronization)](https://www.geeksforgeeks.org/multithreading-in-python-set-2-synchronization/)
     * [Python 3 - Multithreaded Programming](https://www.tutorialspoint.com/python3/python_multithreading)
     * [Running a method as a background process in Python](https://dev.to/hasansajedi/running-a-method-as-a-background-process-in-python-21li)
+    * [Using Locks to Prevent Data Races in Threads in Python | by Rachit Tayal | Python Features | Medium](https://medium.com/python-features/using-locks-to-prevent-data-races-in-threads-in-python-b03dfcfbadd6)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -1820,6 +1825,7 @@ Python
 * [Stub API Maker Served by Flask - It makes stub API based on under static folder structure and a setting file](https://github.com/UrangUrang/stub-generator-by-flask)
 * [pycon kr 2018.12 파이썬 웹 배포 삽질!! 이제 그만 - 이새로찬](https://www.youtube.com/watch?v=ecJzM64mN70)
   * [**파이썬 웹 배포 삽질!! 이제 그만**](https://drive.google.com/file/d/0B6LVjPeYlSkVUzBLLVJrODVLMWEzdHpjT0w0SzVYNXJ4dFFn/view) gunicorn, nginx
+* [Deploying Flask with Gunicorn 3. Application deployments often come with… | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/deploying-flask-with-gunicorn-3-9eaacd0f6eea)
 * [Flask-Large-Application-Example](https://github.com/JoMingyu/Flask-Large-Application-Example)
 * [Flask Routing & Sessions: A Subtle Symphony - With great flexibility comes great responsibility](https://hackingandslacking.com/flask-routing-sessions-a-subtle-symphony-f008e7198379)
 * [Flask for Beginners Tutorial - Learn Flask in 40 Minutes (2019)](https://www.youtube.com/watch?v=EnJKHVEzHFw)
@@ -3164,6 +3170,7 @@ Python
 * [Microsoft: We want you to learn Python programming language for free](https://www.zdnet.com/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/)
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 * [More “Python for Beginners” videos…times two!](https://cloudblogs.microsoft.com/opensource/2020/05/04/more-python-for-beginners-videos/)
+* [Learn Python On AWS Workshop :: Learn Python on AWS](https://learn-to-code.workshop.aws/)
 
 # Music
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
