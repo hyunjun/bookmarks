@@ -158,6 +158,7 @@ C
 * [The Ten Commandments for C Programmers (Annotated Edition)](https://www.lysator.liu.se/c/ten-commandments.html)
 * [C언어 예제 디지털 시계 만들기 예제 Center](https://www.youtube.com/watch?v=FzMHurNF7W8)
 * [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
+* [C - Mac에서 C Programming하는 방법 : 네이버블로그](https://blog.naver.com/scw0531/222028905378) xcode
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -176,8 +177,9 @@ C
 * [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/)
 * [Emulating "defer" in C, with Clang or GCC+Blocks](http://fdiv.net/2015/10/08/emulating-defer-c-clang-or-gccblocks)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
-* [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
+* [Ubuntu에 Clang 9 설치하기 : 네이버블로그](https://blog.naver.com/hikari1224/221742416148)
 * [cldoc - clang based documentation generator for C and C++](https://jessevdk.github.io/cldoc/index.html)
+* [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
