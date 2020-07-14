@@ -128,6 +128,7 @@ Open Source
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
 * [Apache Dataflow](https://wiki.apache.org/incubator/DataflowProposal)
 * [How to Use Google's Python Client Library to Authorise Your Desktop Application With OAuth 2.0](http://www.jamalmoir.com/2016/03/google-python-library-oauth2.html)
+* [Google OAuth 인증을 이용한 애플리케이션 개발](https://www.joinc.co.kr/w/man/12/oAuth2/Google)
 * [빈 폴더 삭제하기](https://blog.naver.com/gsuite-reseller/221541157663)
 * [Send Email from a Static HTML Form using Google Apps Mail!](https://github.com/dwyl/html-form-send-email-via-google-script-without-server)
 * [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
