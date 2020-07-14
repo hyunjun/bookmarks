@@ -195,6 +195,7 @@ Programming
 * [**Project Guidelines**](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)
 * [**100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기**](https://libsora.so/posts/amazing-floating-point-100x07/)
 * [Floating Point Math](https://0.30000000000000004.com/)
+* [GNU GCC on x86 does not round floating-point divisions to the nearest value – Daniel Lemire's blog](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
@@ -235,6 +236,7 @@ Programming
 * [그룹웨어 결재 기능으로 보이는 동료의 작명 검토를 하다가...](https://www.popit.kr/%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4-%EA%B2%B0%EC%9E%AC-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%84-%EB%B3%B4%EB%A9%B4%EC%84%9C)
 * [Welcome - The Naming Convention Project](https://namingconvention.org)
 * [약어 list](https://gist.github.com/skt-t1-byungi/8a44db3e4991cd66209841b93a1ab496) naming
+* [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
@@ -351,6 +353,7 @@ Programming
 * [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+* [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -610,6 +613,7 @@ Programming
 * [Software Architecture and Design InfoQ Trends Report—April 2020](https://www.infoq.com/articles/architecture-trends-2020/)
 * [IT 에서 Persistent 데이터에 대한 이해 - Bryant Jimin Son - Medium](https://medium.com/@bryantjiminson/it-%EC%97%90%EC%84%9C-persistent-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-bab1e7f8bbe)
 * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
+* [Testing Software Architecture](https://www.infoq.com/presentations/automation-testing-architecture/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -636,6 +640,7 @@ Programming
 * [Scalable Web Architecture and Distributed Systems](http://www.aosabook.org/en/distsys.html)
   * [**확장성 있는 웹 아키텍처와 분산 시스템**](https://d2.naver.com/helloworld/206816)
 * [How to Avoid Cascading Failures in Distributed Systems](https://www.infoq.com/articles/anatomy-cascading-failure/)
+* [Why Distributed Systems Are Hard](https://www.infoq.com/presentations/distributed-systems-complexity-human-factor/)
 
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
@@ -805,6 +810,7 @@ Programming
 * [통합 이벤트 in MSA](https://www.notion.so/in-MSA-947707969dbc4ee49f2835942a4b273e)
 * [2019 PAYCO 쇼핑 마이크로서비스 아키텍처(MSA) 전환기 - YouTube](https://www.youtube.com/watch?v=l195D5WT_tE)
 * [Azar Mirror 서버 제작기 3편 - 개발자편 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/01/azar-mirror-3.html)
+* [Microservice.add(observability) != Microservice.add(monitoring) | Hacker Noon](https://hackernoon.com/microserviceaddobservability-microserviceaddmonitoring-40m3yk5)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -856,6 +862,7 @@ Programming
 * [MASOCON 2019 Serverless - Kimminjun](https://www.slideshare.net/MinJunKim5/masocon-2019-serverless-kimminjun)
 * [From vm to container to serverless](https://www.slideshare.net/welkaim/from-vm-to-container-to-serverless)
 * [A journey into serverless Tools and processes for serverless in production](https://medium.com/moonshot-internet/a-journey-into-serverless-af23e22e08b1)
+* [4세대 애플리케이션 모델을 이끄는 클라이언트-서버리스 탐구 - ITWorld Korea](http://www.itworld.co.kr/news/157112#csidx3bf62c38cae77a08af91eb13b34863c)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -957,6 +964,7 @@ Programming
 * [I did mob programming every day for 5 months. Here’s what I learnt](https://medium.com/comparethemarket/i-did-mob-programming-every-day-for-5-months-heres-what-i-learnt-b586fb8b67c)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)
+* [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
 * [코드 리뷰에 대해서](https://brunch.co.kr/@cleancode/35)
@@ -1088,6 +1096,7 @@ Programming
 * [the super tiny compiler - Possibly the smallest compiler ever https://git.io/compiler ](https://github.com/hg-pyun/the-super-tiny-compiler-kr)
 * [KAIST CS420: Compiler Design](https://www.youtube.com/playlist?list=PL5aMzERQ_OZ8RWqn-XiZLXm1IJuaQbXp0)
 * [Let's make a Teeny Tiny compiler, part 1 - Austin Z. Henley](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
+* [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time | Carol's Blog](https://carolchen.me/blog/jits-intro/)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
