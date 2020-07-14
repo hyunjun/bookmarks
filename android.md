@@ -214,6 +214,7 @@ Android
 * [25 new Android libraries and projects to check at the beginning of 2018](https://proandroiddev.com/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4)
 * [Announcing the Java & Kotlin client library for Actions on Google](https://medium.com/google-developers/announcing-the-java-kotlin-client-library-for-actions-on-google-217828dead)
 * [Android 2018 용 산타 트래커의 소스 코드 공개합니다](https://developers-kr.googleblog.com/2019/04/google-releases-source-code-of-santa.html)
+* [sunflower: A gardening app illustrating Android development best practices with Android Jetpack.](https://github.com/android/sunflower)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * Appium
@@ -266,6 +267,7 @@ Android
   * [KOIN을 이용한 Dependency Injection (DI) 구현하기](https://developer88.tistory.com/244)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [MPAndroidChart 라이브러리를 활용한 Chart 사용하기](https://medium.com/hongbeomi-dev/mpandroidchart-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-chart-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-kotlin-93c18ae7568e)
+* [PHONK - Self-contained Creative scripting toolbox for new and old Android devices](https://phonk.app/)
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
