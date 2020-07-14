@@ -25,6 +25,7 @@ Javascript
 * [How to Learn JavaScript Properly](http://javascriptissexy.com/how-to-learn-javascript-properly/)
   * [자바스크립트 제대로 배우기](https://nolboo.github.io/blog/2014/03/13/how-to-learn-javascript-properly/)
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+* [The Modern JavaScript Tutorial](https://javascript.info/)
 * [**모던 JavaScript 튜토리얼 - 모던 JavaScript 튜토리얼은 상세한 설명과 함께 JavaScript 기본 개념 및 고급 개념을 다룹니다**](https://ko.javascript.info/)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
@@ -140,6 +141,7 @@ Javascript
 * [프론트엔드 면접 핸드북 - 자바스크립트 (2)](https://blog.rhostem.com/posts/2020-04-13-fe-interview-handbook-js-2)
 * [프론트엔드 면접 핸드북 - 자바스크립트 (3)](https://blog.rhostem.com/posts/2020-04-14-fe-interview-handbook-js-3)
 * [프론트엔드 개발자 기술면접 인터뷰 질문 모음](https://realmojo.tistory.com/300)
+* [프론트엔드 면접 문제 은행 ★ Front-end Job Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
 * [(고급) JavaScript 질문 목록](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
@@ -366,6 +368,7 @@ Javascript
 * [Date 객체의 toISOString 메소드](http://blog.kazikai.net/?p=106)
 * [ISO 8601 형식의 날짜를 Date 객체에 사용 가능한 형식으로 변환하기](https://blog.naver.com/edy5016/221188048166)
 * [브라우저에서 Date 객체를 사용하고 싶을 땐](https://medium.com/rainist-engineering/watch-out-to-use-javascript-date-a98ece6461dc)
+* [High Resolution Time Level 2 Is Now a Web Standard](https://www.infoq.com/news/2020/07/high-resolution-time-level-two/)
 * [현대 웹의 주소와 미래](https://joshua1988.github.io/web_dev/where-are-we-and-where-are-we-heading/)
 * [자바스크립트의 역습 - 퓨어 자바스크립트부터 프레임워크까지 우리의 선택은?](http://www.itdaily.kr/news/articleView.html?idxno=83969)
 * [Javascript에서 왜 함수가 1급 객체일까요?](https://medium.com/@soeunlee/javascript%EC%97%90%EC%84%9C-%EC%99%9C-%ED%95%A8%EC%88%98%EA%B0%80-1%EA%B8%89-%EA%B0%9D%EC%B2%B4%EC%9D%BC%EA%B9%8C%EC%9A%94-cc6bd2a9ecac)
@@ -585,6 +588,7 @@ Javascript
 * [JavaScript: JSON and JSON-server](https://medium.com/@sharmapriyanka84510/javascript-json-and-json-server-beb7308e98cf)
 * [Types-First: A Scalable New Architecture for Flow](https://medium.com/flow-type/types-first-a-scalable-new-architecture-for-flow-3d8c7ba1d4eb)
 * [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
+* [유용한 JavaScript 코딩 기법들](https://blog.ull.im/engineering/2019/06/10/some-of-useful-javascript-trick.html)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -791,6 +795,7 @@ Javascript
 * [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
 * [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read_full)
+* [JavaScript for impatient programmers (ES2020 edition)](https://exploringjs.com/impatient-js/index.html)
 * [The Road to learn React](https://leanpub.com/the-road-to-learn-react/read_full)
 * [Reintroducing React](https://leanpub.com/reintroducing-react)
 * [The Beginners Guide To Node.js](https://leanpub.com/nodejsbasics/read_full)
@@ -1020,6 +1025,7 @@ Javascript
 * [What is GraphQL? The new way to create APIs](https://medium.com/javascript-in-plain-english/what-is-graphql-375f8f2c227f)
 * [GraphQL Gateway for Exposing External APIs](https://medium.com/devops-dudes/graphql-gateway-for-exposing-external-apis-51239a914876)
 * [발표, GraphQL 적용기 - 완두블로그](https://wani.kr/posts/2019/11/30/graphql/)
+* [A Principled Approach to GraphQL Query Cost Analysis | by James Davis | Dev Genius | Jun, 2020 | Medium](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
@@ -1107,6 +1113,7 @@ Javascript
   * [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
 * BuckleScript [Make generated JavaScript Inline Caching friendly using types in BuckleScript version 8 | Reason Blog](https://reasonml.org/blog/overview-of-new_encoding)
 * [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)
+* [Caporal.js: A full-featured framework for building command line applications (cli) with node.js](https://github.com/mattallty/Caporal.js)
 * [Cash - an absurdly small jQuery alternative for modern browsers (IE10+) that provides jQuery-style syntax for manipulating the DOM](https://github.com/kenwheeler/cash/)
 * [catenary - Concatenative programming for Javascript](https://github.com/sgentle/catenary)
 * [cellauto.js - a library for creating cellular automata simulations in Javascript](http://sanojian.github.io/cellauto/)
@@ -2500,6 +2507,7 @@ Javascript
 * [React Native's re-architecture in 2020](https://medium.com/swlh/react-natives-re-architecture-in-2020-9bb82659792c)
 * [「Clog」 서비스 개발기(React Native, Laravel, Django) - React Native, Laravel, Django를 사용하여 「Clog」라는 서비스를 제작해 보았습니다. 이 서비스를 제작하면서 격은 내용을 정리해보려고 합니다](https://dev-yakuza.github.io/ko/clog/development-journal/)
 * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
+* [안드로이드에 React Native 임베딩 후기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/08/android-react-native-embed.html)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
@@ -2916,8 +2924,11 @@ Javascript
 * [A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript - DEV](https://dev.to/ibrahima92/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript-4h7p)
 * [What Can We Expect in TypeScript 4.0? - Better Programming - Medium](https://medium.com/better-programming/what-can-we-expect-in-typescript-4-0-b5be85021b90)
 * [TypeScript Best Practices —Useless Interfaces, Classes, and Promises](https://medium.com/swlh/typescript-best-practices-useless-interfaces-classes-and-promises-40ef6bdefa1b)
+* [Daily Study Logging46 - 타입스크립트, Instance Method Modifiers | Hama Develop](https://www.hamadevelop.me/dailyblogging46/)
+* [한눈에 보는 타입스크립트(updated) | HEROPY](https://heropy.blog/2020/01/27/typescript/)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
+* [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
