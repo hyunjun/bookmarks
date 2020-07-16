@@ -214,7 +214,6 @@ Android
 * [25 new Android libraries and projects to check at the beginning of 2018](https://proandroiddev.com/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4)
 * [Announcing the Java & Kotlin client library for Actions on Google](https://medium.com/google-developers/announcing-the-java-kotlin-client-library-for-actions-on-google-217828dead)
 * [Android 2018 용 산타 트래커의 소스 코드 공개합니다](https://developers-kr.googleblog.com/2019/04/google-releases-source-code-of-santa.html)
-* [sunflower: A gardening app illustrating Android development best practices with Android Jetpack.](https://github.com/android/sunflower)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * Appium
@@ -272,6 +271,7 @@ Android
 * [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
   * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
+* ReadMoreTextView [페이스북처럼 긴 글에 ‘더보기' 표시하는 방법(feat. ReadMoreTextView) | by Ted Park | PRND | Jul, 2020 | Medium](https://medium.com/prnd/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%B2%98%EB%9F%BC-%EA%B8%B4-%EA%B8%80%EC%97%90-%EB%8D%94%EB%B3%B4%EA%B8%B0-%ED%91%9C%EC%8B%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-readmoretextview-3bbe30a4112b)
 * Retrofit
   * [How to handle RESTful web Services using Retrofit, OkHttp, Gson, Glide and Coroutines](https://medium.freecodecamp.org/my-crypto-coins-app-series-part-5-160e7aaa6382)
   * [Retrofit으로 날씨 api를 이용한 통신 예제!!](http://forliver.tistory.com/entry/Retrofit%EC%9C%BC%EB%A1%9C-%EB%82%A0%EC%94%A8-api%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%86%B5%EC%8B%A0-%EC%98%88%EC%A0%9C)
@@ -312,6 +312,7 @@ Android
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [sample-mask](https://github.com/wonderful-coding-life/sample-mask)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
+* [sunflower: A gardening app illustrating Android development best practices with Android Jetpack](https://github.com/android/sunflower)
 * HTTP
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
 * [TedBottomPicker(이미지 선택, Image Picker)](http://gun0912.tistory.com/68)
