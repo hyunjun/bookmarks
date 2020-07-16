@@ -147,6 +147,7 @@ Docker
     * [gobbli - Deep learning with text doesn't have to be scary](https://github.com/RTIInternational/gobbli)
     * [Anaconda와 Docker 를 사용한 머신러닝 개발환경 구성하기](https://m-learn.tistory.com/6)
     * [NIPA x Docker ! · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/06/28/nipa_docker/)
+    * [NIPA x VScode ! · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/07/15/nipa_vscode/)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
     * [ELK 사용해서 flask 로그 분석하기](https://woolbro.tistory.com/88)
   * [httpd](https://hub.docker.com/_/httpd/)
