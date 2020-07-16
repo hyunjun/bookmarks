@@ -262,6 +262,7 @@ Scala
 * [Run Scala applications with GraalVM and Docker - With http4s, doobie and cats-effects](https://medium.com/rahasak/run-scala-applications-with-graalvm-and-docker-a1e67701e935)
 * [scala - What's the difference between => , ()=>, and Unit=> - Stack Overflow](https://stackoverflow.com/questions/4543228/whats-the-difference-between-and-unit)
 * [Yet Another Arithmetic Parser in Scala - Synerise - Medium](https://medium.com/synerise/yet-another-arithmetic-parser-in-scala-43dad055d81f)
+* [Railway Oriented Programming in Scala - Pierre's Blog](https://blog.pjam.me/posts/railway-oriented-programming-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -280,6 +281,8 @@ Scala
 * [Rock Paper Scissor Game through Actor Model in Scala](https://medium.com/@karthikv1392/rock-paper-scissor-game-through-actor-model-in-scala-a8a1430f10ff)
 * [Actor Model 패턴의 구현(Java)](https://effectiveprogramming.tistory.com/entry/Actor-Model-패턴의-구현Java)
 * [Managing Congested Actors in Akka](https://dzone.com/articles/managing-congested-actors-akka)
+* [Actors using Scala & Akka — Part 1 : Introduction | by Bilal Fazlani | Medium](https://medium.com/@bilalfazlani/actors-using-scala-akka-part-1-introduction-c373f5d45084)
+* [Actors using Scala & Akka — Part 2 : AskPattern and SpawnProtocol | by Bilal Fazlani | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/actors-using-scala-akka-part-2-askpattern-and-spawnprotocol-3942e45a5fcc)
 * [akka-actors-blog](https://github.com/aleksandarskrbic/akka-actors-blog)
   * [Data processing with Akka Actors: Part I](https://aleksandarskrbic.github.io/akka-actors-1/)
   * [Data processing with Akka Actors: Part II](https://aleksandarskrbic.github.io/akka-actors-2/)
@@ -713,6 +716,7 @@ Scala
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
       * [HOW TO WRITE A (COMPLETELY LOCK-FREE) CONCURRENT LRU CACHE WITH ZIO STM](https://scalac.io/how-to-write-a-completely-lock-free-concurrent-lru-cache-with-zio-stm/)
+    * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
@@ -1261,6 +1265,7 @@ Scala
 * [Tagless Final - Part 1 - What is Tagless Final? - YouTube](https://www.youtube.com/watch?v=XJ2NjqkWdck)
 * [Tagless Final - Part 2 - Introduction to the Expression Problem - YouTube](https://www.youtube.com/watch?v=jz0jbJ3VkjQ)
 * [Tagless Final - Part 3 - If only we had a crystal ball! 🔮 - YouTube](https://www.youtube.com/watch?v=3Jmy3AyYZjc)
+* [Tagless Final - Part 4.1 - Power to the Interpreters! ✊ - YouTube](https://www.youtube.com/watch?v=5NxrVZvur_o)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -1337,6 +1342,7 @@ Scala
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
+* [A Beginner's Guide to Scala 3.0 - Knoldus Blogs](https://blog.knoldus.com/a-beginner-guide-to-scala-3-0/)
 * [Learn myself some Scala 3, episode 1: metaprogramming – inline](https://heikoseeberger.rocks/2019/06/19/2019-06-19-dotty-1/)
 * [Learn myself some Scala 3, episode 2: extension methods](https://heikoseeberger.rocks/2019/12/04/2019-12-04-dotty-2/)
 * [Learn myself some Scala 3, episode 3: type classes](https://heikoseeberger.rocks/2019/12/10/2019-12-10-dotty-3/)
