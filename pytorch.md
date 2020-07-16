@@ -171,6 +171,7 @@ PyTorch
 * [Reproducible PyTorch를 위한 randomness 올바르게 제어하기!](https://hoya012.github.io/blog/reproducible_pytorch/)
 * [3D Deep Learning with PyTorch3D - YouTube](https://www.youtube.com/watch?v=Pph1r-x9nyY)
 * [Deep Learning (with PyTorch) - YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
+* [An introduction to PyTorch Lightning with comparisons to PyTorch | Making commits each day, towards a better future](https://amaarora.github.io/2020/07/12/oganized-pytorch.html)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
