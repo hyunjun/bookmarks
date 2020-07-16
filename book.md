@@ -111,6 +111,7 @@ Book
 * (NOT YET) [성경의 탄생](https://m.blog.naver.com/ppogu/220637820290)
 * (NOT YET) 박시백의 조선왕조 실록
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
+* (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
 
 # Math
 * [한번읽고 평생 써먹는 수학상식 이야기](http://jybaek.tistory.com/754)
