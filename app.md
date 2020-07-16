@@ -501,6 +501,7 @@ App
       * [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
       * [stackblitz.com - Code the Future. In Your Browser](https://stackblitz.com)
       * [Using a remote server to build your Scala projects](https://perevillega.com/remote-build-servers-with-vs-code-and-metals)
+    * teditor [인터넷 브라우저에서 코딩하기, Visual Studio Code, teditor :: 프즈](https://tolovefeels.tistory.com/56)
     * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
