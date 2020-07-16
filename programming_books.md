@@ -1171,6 +1171,7 @@ Programming Books
 * (NOT YET) [파이썬과 함께 하는 수학 어드벤처 - 파이썬과 프로세싱으로 수학 개념 이해하기](http://acornpub.co.kr/book/math-adventures)
 * (NOT YET) [프로그래머, 수학의 시대 (사람과 프로그래머 #8)](https://roadbook.co.kr/226)
 * (NOT YET) [《수학 리부트: 프로그래머를 위한 기초 수학》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/07/01/%E3%80%8A%EC%88%98%ED%95%99-%EB%A6%AC%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%ED%95%99%E3%80%8B/)
+* (NOT YET) [수학으로 풀어보는 칼만 필터 알고리즘: 기초 이론부터 깊게 이해하고 응용 예제로 철저하게 배우는 | 위키북스](https://wikibook.co.kr/kalman/)
 
 # Network
 
