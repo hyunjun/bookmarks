@@ -389,6 +389,7 @@ Java
 * [IntelliJ 에서 JAR 만들기](https://www.hyoyoung.net/100)
 * [IntelliJ프로젝트에 JAR 라이브러리 추가하기](https://bkjeon1614.tistory.com/59)
 * [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다](https://blog.jetbrains.com/kr/2020/03/local-history-intellij-save-your-code-ko/)
+* [IntelliJ에서 동시에 여러 Run환경 함께 실행하기](https://jojoldu.tistory.com/510)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -980,6 +981,7 @@ Java
   * [1.1.7. 성능 VS 확장성](http://whiteship.me/?p=14005)
   * [스프링 웹플럭스(WebFlux) SSE(Server Sent Event) 구현 1](https://javacan.tistory.com/entry/spring-webflux-server-sent-event-1)
   * [스프링 웹플럭스(WebFlux) SSE(Server Sent Event) 구현 2](https://javacan.tistory.com/entry/spring-webflux-server-sent-event-2)
+  * [레진 기술 블로그 - Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux)
 * [스프링 MVC 커스텀 HandlerMethodArgumentResolver 사용하기](http://javacan.tistory.com/entry/how-use-spring-mvc-custom-HandlerMethodArgumentResolver)
 * 신입 개발자 & 학생을 위한 Spring MVC Setting
   * [(1편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1%ED%8E%B8/)
@@ -1156,6 +1158,7 @@ Java
 * [Tip Spring Boot 2.1.0 에서의 CORS 설정 | Charsyam's Blog](https://charsyam.wordpress.com/2020/06/23/tip-spring-boot-2-1-0-%ec%97%90%ec%84%9c%ec%9d%98-cors-%ec%84%a4%ec%a0%95/)
 * [스프링부트 어플리케이션에서 설정파일 및 프로파일 사용하기 - YouTube](https://www.youtube.com/watch?v=c_wziVyHxqg)
 * [Spring Boot 2.3.0 Focuses on the Cloud](https://www.infoq.com/news/2020/06/spring-boot-230-cloud/)
+* [Spring Boot에서 AWS 파라미터 스토어로 private 설정값 사용하기](https://jojoldu.tistory.com/509)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
