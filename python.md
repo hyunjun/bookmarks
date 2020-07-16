@@ -1124,6 +1124,7 @@ Python
   * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)
   * [파이썬 Xml 이해하기](http://www.slideshare.net/dahlmoon/xml-70416770)
   * [Working with XML tree data in Python](https://hackingandslacking.com/dealing-with-xml-in-python-b577630294b0)
+  * [박피디의 게임 개발 이야기 : Cubase drm xml 포멧 파일을 단순한 text 포멧으로 변경하는 python 코드](http://parkpd.egloos.com/4186280) beautifulsoup
 * yield
   * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
   * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
