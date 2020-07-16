@@ -238,6 +238,7 @@ Business
 * [2.0 까지 해본 개발자](https://jojoldu.tistory.com/485)
 * [Talk: Making Work Visible: How to Unmask Capacity Killing WIP](http://blog.lastmind.io/archives/921) 동시에 진행하는 일을 제한해야 한다는 글
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
+* [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -404,6 +405,8 @@ Business
 * [Creating Balance between Product Managers & Engineers](https://www.infoq.com/presentations/balance-management-engineers/)
 * [Ego Is the Enemy of Good Leadership](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
 * [What Leaders Really Do 번역](https://docs.google.com/document/d/1mtClcLckGfdCXjtHfvSJj_5rZNXj8nSw_wqQagUy9W4)
+* [14화 리더가 절대 하지 말아야 하는 세가지 행동](https://brunch.co.kr/@mindclinic/94)
+* [팀원 성장시키기: 발표 컨설팅 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220082)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
