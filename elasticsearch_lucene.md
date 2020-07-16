@@ -252,6 +252,7 @@ ElasticSearch - Lucene
 * [Elastic Search](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181011_JM_elasticsearch_1.md)
 * [Elastic Stack과 Lambda를 활용한 데이터 모니터링 시스템 구축](https://d2.naver.com/helloworld/9878588)
 * [Elasticsearch의 색인 별명 활용 팁](https://www.ridicorp.com/blog/2018/11/20/index-aliases)
+* [FASTCAT-ElasticSearch 테스트 - 검색+동적색인 - 다나와 기술블로그](https://danawalab.github.io/elastic/2020/07/15/Elasticsearch-SearchDynamicIndex.html)
 * [Elastic Stack with 여기어때](https://github.com/HowookJeong/withinnovation/blob/master/shared-documents/Elasticsearch-Meetup-with-%EC%97%AC%EA%B8%B0%EC%96%B4%EB%95%8C-20181213.pdf)
 * [Migrating the elastic stack to the cloud, or application logging @ travix](https://www.slideshare.net/RuslanLutsenko/migrating-the-elastic-stack-to-the-cloud-or-application-logging-travix-136340002)
 * [Infrastructure and Logs UI: New ways for Ops to interact with Elasticsearch](https://www.elastic.co/blog/infrastructure-and-logs-ui-new-ways-for-ops-to-interact-with-elasticsearch)
