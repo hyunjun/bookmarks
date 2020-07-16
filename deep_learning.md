@@ -765,6 +765,7 @@ Deep Learning
 * [Alpha-Omok Minimal version of DeepMind AlphaZero](https://github.com/reinforcement-learning-kr/alpha_omok)
   * [알파오목](https://www.youtube.com/watch?v=rJHEM31Dxw8)
 * [쉽게 읽는 강화학습 논문 알파고 제로(Zero) 논문 리뷰](https://www.youtube.com/watch?v=CgOGKChwWrw)
+* [플밍노트 너와 나의 인공지능이 멍청한 이유 - YoungJin Shin](http://www.jiniya.net/ng/2020/07/deep-learning-101/) 일반적인 이야기이지만 바둑을 통해 전개
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
