@@ -2227,6 +2227,7 @@ Javascript
 * [Simplifying React Forms with Hooks](https://rangle.io/blog/simplifying-controlled-inputs-with-hooks/)
 * [React Hooks 알아보기](https://blog.naver.com/pjt3591oo/221905968173)
 * [ReactJS: How to handle Invalid Hook Call Warning “Uncaught Error: Invalid hook call. Hooks can only be called inside of the body of a function component” in ReactJS](https://medium.com/@bryantjiminson/reactjs-how-to-handle-invalid-hook-call-warning-uncaught-error-invalid-hook-call-49ca32aa0d14)
+* [Daily Study Logging47 - 번역 React hooks를 쓰면 Redux를 안써도 될까? | Hama Develop](https://www.hamadevelop.me/dailyblogging47/)
 * [How to detect a user’s preferred color scheme in JavaScript](https://medium.com/free-code-camp/how-to-detect-a-users-preferred-color-scheme-in-javascript-ec8ee514f1ef)
 * [React 16.6 New Features memo, lazy etc](https://engineering.huiseoul.com/react-16-6-new-features-memo-lazy-etc-452c78ace739)
 * [리액트 16 마스터하기 Mastering React 16](https://www.youtube.com/playlist?list=PL7jH19IHhOLMc08n3VEYA6sJmEOwmUzkj)
