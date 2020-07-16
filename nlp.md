@@ -311,6 +311,7 @@ NLP
 * [네이버 스마트 스토어 구매평을 통한 소비자 반응 분석(텍스트 분석) 프로젝트](https://github.com/seoulblanc/NaverStoreData)
 * [100문제로 두드려 보는 자연어처리 2020 (Rev 1) - NLP100 2020](https://nlp100.github.io/ko/)
 * [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
+* [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273) ELMO
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
