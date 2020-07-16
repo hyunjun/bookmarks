@@ -291,6 +291,7 @@ Data Visualization
   * [Python’s One Liner graph creation library with animations Hans Rosling Style](https://mlwhiz.com/blog/2019/05/05/plotly_express/)
   * [Explore Your Data and Then Let Others Do It Too Plotly Express and Dash](https://www.youtube.com/watch?v=qqWF40SAeME)
   * [Road to Visualization Expert Part 2 : Plotly & Seaborn](https://www.kaggle.com/subinium/road-to-viz-expert-2-plotly-seaborn)
+  * [plot.ly 뉴비에게 뉴비가 (이용 기초 가이드)](https://data101.oopy.io/406e0ef3-b7ca-40a7-898c-88719276cda8)
 * [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
   * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
