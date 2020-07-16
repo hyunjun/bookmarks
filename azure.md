@@ -47,6 +47,7 @@ Azure
 * [애저 펑션에서 로케일 변경하기](https://blog.aliencube.org/ko/2018/12/30/locale-settings-in-azure-functions/)
 * [애저 펑션에서 Swagger 정의 문서 출력하기](https://blog.aliencube.org/ko/2019/01/04/rendering-swagger-definitions-on-azure-functions-v2/)
 * [애저 펑션 Swagger UI 소개](https://blog.aliencube.org/ko/2019/02/02/introducing-swagger-ui-on-azure-functions/)
+* [애저 펑션에서 Swagger를 이용해 파워 플랫폼을 위한 커스텀 커넥터 곧바로 생성하기 | Aliencube](https://blog.aliencube.org/ko/2020/07/15/creating-custom-connector-from-azure-functions-with-swagger/)
 * [새롭게 톺아보는 애저 펑션 의존성 관리](https://blog.aliencube.org/ko/2019/02/22/revising-dependency-injections-on-azure-functions-v2/)
 * [Fluent API를 사용한 Domain Specific Language (DSL) 첫걸음](https://blog.aliencube.org/ko/2019/01/11/domain-specific-language-with-fluent-api/)
 * [Getting Started with Azure Functions and their extensions Superpower](https://hackernoon.com/getting-started-with-azure-functions-and-their-extensions-superpower-b4bc1bb29865)
