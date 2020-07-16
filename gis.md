@@ -16,6 +16,7 @@ GIS
 * [국토교통부 실거래가 데이터 전처리](https://www.vw-lab.com/80?category=787869)
 * [공시지가 - 전국 모든 땅의 가격은 얼마나 높고 낮은가?](https://www.vw-lab.com/76?category=787869)
 * [Anton Balazh의 스톡 사진 및 이미지 포트폴리오](https://www.shutterstock.com/ko/g/antartis) 지형 고저차가 반영된 지구 이미지(개발x)
+* [주소 인식을 위한 삽질의 기록. 당신의 안전을 위해서라면 뭐든지 할 거예요. 그게 삽질이라도… | by Kyoungwon Lee | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EC%A3%BC%EC%86%8C-%EC%9D%B8%EC%8B%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%82%BD%EC%A7%88%EC%9D%98-%EA%B8%B0%EB%A1%9D-df2d8f82d25) 정규식
 
 # Python
 * 주소DB가지고놀기
