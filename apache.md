@@ -386,6 +386,7 @@ Apache
 * [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 * [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+* [kafka exactly-once delivery를 지원하기 위한 transaction](https://blog.voidmainvoid.net/354)
 * [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
   * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
   * 이 기능을 사용하는 방법 및 브로커와 다른 버전의 클라이언트를 사용할 경우에 대해 설명
