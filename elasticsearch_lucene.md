@@ -294,6 +294,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치(Elasticsearch)의 적절도(Relevance)를 향상시키는 방법들](https://blog.naver.com/olpaemi/222003279473)
 * [엘라스틱서치의 Intervals Query를 이용해서 문장 단위의 정교한 검색 결과를 도출하기 (2)](https://blog.naver.com/olpaemi/222017419120)
 * [Elasticsearch 자동완성 구현하기 – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=1101)
+* [Elasticsearch의 언어 식별 기능을 사용하여 다국어 검색 | Elastic Blog](https://www.elastic.co/kr/blog/multilingual-search-using-language-identification-in-elasticsearch)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
