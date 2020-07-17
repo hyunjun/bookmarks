@@ -224,6 +224,7 @@ Algorithm
 # Complexity Big O notation
 * [Know Thy Complexities!](http://www.bigocheatsheet.com/)
 * [Let’s simplify algorithm complexities!](https://medium.freecodecamp.org/lets-simplify-algorithm-complexities-25e75f37d03f)
+* [amortized 복잡도 : average complexity와 뭐가 다른가요?](https://codingdog.tistory.com/entry/amortized-%EB%B3%B5%EC%9E%A1%EB%8F%84-average-complexity%EC%99%80-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
 
 ## Time Complexity
 * `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
