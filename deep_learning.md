@@ -548,6 +548,7 @@ Deep Learning
 * [인공지능은 의료를 어떻게 혁신할 것인가 (1) 제2의 기계시대와 의료 인공지능](http://www.yoonsupchoi.com/2017/05/07/ai-medicine-1/)
 * [Deep learning techniques](https://www.researchgate.net/publication/316829498_Deep_learning_techniques_-_overview)
 * [Deep Learning Methods for Image Classification](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015/NN%20Lecture/dcnn-intro-WinstonHsu-15s.pdf)
+* [Deep Learning Image Classification Guidebook 1 LeNet, AlexNet, ZFNet, VGG, GoogLeNet, ResNet](https://hoya012.github.io/blog/deeplearning-classification-guidebook-1/)
 * [Kullback-Leibler Divergence Explained](https://www.countbayesie.com/blog/2017/5/9/kullback-leibler-divergence-explained)
 * [The Strange Loop in Deep Learning](https://medium.com/intuitionmachine/the-strange-loop-in-deep-learning-38aa7caf6d7d)
 * [Training a deep learning model to steer a car in 99 lines of code](https://hackernoon.com/training-a-deep-learning-model-to-steer-a-car-in-99-lines-of-code-ba94e0456e6a)
