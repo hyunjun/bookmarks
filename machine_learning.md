@@ -875,6 +875,7 @@ Machine Learning
 * [캐글 타이타닉1 - 생존자 예측 모델 만들기 - RomanticQ의 머신러닝](https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic/)
 * [캐글 타이타닉2 - 모델 튜닝을 통한 점수 높이기 - RomanticQ의 머신러닝](https://romanticq.github.io/%EC%BA%90%EA%B8%80/kaggle-titanic2/)
 * [캐글 타이타닉3 - 핸즈온 머신러닝 챕터2 적용 - RomanticQ의 머신러닝](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap2-titanic/)
+* [캐글 타이타닉4 - 핸즈온 머신러닝 챕터6 적용 - RomanticQ의 머신러닝](https://romanticq.github.io/%EC%BA%90%EA%B8%80/handson-chap6-titanic/)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -923,6 +924,9 @@ Machine Learning
 * [hyperopt - Distributed Asynchronous Hyperparameter Optimization in Python](https://github.com/hyperopt/hyperopt)
 * [Impyute - a library of missing data imputation algorithms written in Python 3](https://impyute.readthedocs.io)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
+* LightGBM
+  * [Welcome to LightGBM’s documentation! — LightGBM 2.3.2 documentation](https://lightgbm.readthedocs.io/)
+  * [lightgbm-serving: A lightweight server for LightGBM](https://github.com/jeongukjae/lightgbm-serving)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [MediaPipe - a cross-platform framework for building multimodal applied machine learning pipelines https://mediapipe.dev ](https://github.com/google/mediapipe)
   * [MediaPipe to openFrameworks](https://github.com/madelinegannon/example-mediapipe-udp/)
