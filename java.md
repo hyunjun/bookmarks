@@ -73,6 +73,7 @@ Java
 * [Null is your friend, not a mistake | by Roman Elizarov | Medium](https://medium.com/@elizarov/null-is-your-friend-not-a-mistake-b63ff1751dd5)
 * [소소한 자바 이야기 - Number와 Locale](http://tmondev.blog.me/221045546034)
 * [오버로딩(Overloading) / 오버라이딩(Overriding)](http://bbigbros.tistory.com/entry/%EC%9E%90%EB%B0%94JAVA-%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
+* [Learn Functions Overloading in java in just 1 vedio on one code. - YouTube](https://www.youtube.com/watch?v=tk6L91BM8kw)
 * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
 * [Enum값의 사용](http://developer88.tistory.com/148)
 * [Java enum](https://medium.com/@jooyunghan/java-enum-9a5c53e4cd15)
