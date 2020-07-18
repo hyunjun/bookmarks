@@ -409,6 +409,7 @@ Data Science
   * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
 * [5 Bite-Sized Data Science Summaries](https://towardsdatascience.com/5-bite-sized-data-science-summaries-a5afb8509353)
 * [The online courses you must take to be a better Data Scientist | DataTau](https://medium.com/datatau/the-online-courses-you-must-take-to-be-a-better-data-scientist-36a06016c819)
+* [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
