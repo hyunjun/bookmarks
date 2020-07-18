@@ -174,6 +174,7 @@ Data Visualization
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [plotly.js](https://plot.ly/javascript/)
   * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
+* [redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
 * [SandDance - Visually explore, understand, and present your data. https://sanddance.js.org ](https://github.com/Microsoft/SandDance)
   * Visual Studio Code, Azure Data Studio에서도 사용 가능, 2D/3D 히스토그램, bar, density, scatter, Grid, Treemap 등 다양한 시각화 가능
   * [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/)
