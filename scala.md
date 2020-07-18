@@ -711,6 +711,7 @@ Scala
     * [How to write a command-line application with ZIO](https://medium.com/scalac/how-to-write-a-command-line-application-with-zio-111b5af3ab43)
     * [Managing dependencies using ZIO](https://blog.softwaremill.com/managing-dependencies-using-zio-8acc1539e276)
     * [Opening the fridge with ZIO](https://medium.com/@wiemzin/opening-the-fridge-with-zio-92ded30dda4f)
+    * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
