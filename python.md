@@ -533,6 +533,7 @@ Python
   * [Interfacing Python and C: Advanced “ctypes” Features](https://dbader.org/blog/python-ctypes-tutorial-part-2)
   * [python에서 C/C++부르기](https://hashcode.co.kr/questions/243/python%EC%97%90%EC%84%9C-cc%EB%B6%80%EB%A5%B4%EA%B8%B0)
   * [Extending Python with C - Delta Force - Medium](https://medium.com/delta-force/extending-python-with-c-f4e9656fbf5d)
+  * [Calling C/C++ from Python? - Stack Overflow](https://stackoverflow.com/questions/145270/calling-c-c-from-python)
 * dataclass [파이썬 dataclasses가 뭘까?](https://sjquant.tistory.com/30)
 * datetime
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-datetime/datetime.ipynb)
@@ -2335,6 +2336,7 @@ Python
     * [How to Install Anaconda Python on Windows | How to Install Anaconda on Windows](https://www.youtube.com/watch?v=YQWAiUhZJX8)
     * [Visual Studio Code로 편리한 Pylife!](http://blog.ncsoft.com/?p=40977)
     * [파이썬/아나콘다 설치 안내](https://www.notion.so/eac8e8c36dd24f019af672db75723622)
+    * [통컨(통계컨설팅) :: 첫째날 1.3 아나콘다 시작하기 - 회귀분석 까지(P1)](https://rsas.tistory.com/191)
   * Conda Package Repository
     * [conda.pydata.org](http://conda.pydata.org/)
     * [`conda install -c anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
