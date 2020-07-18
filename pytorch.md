@@ -185,6 +185,9 @@ PyTorch
 * [Painless Fine-Tuning of BERT in Pytorch](https://medium.com/swlh/painless-fine-tuning-of-bert-in-pytorch-b91c14912caa)
 * [pytorch-bert - A implementation of BERT using PyTorch https://pypi.org/project/pytorch-bert ](https://github.com/jeongukjae/pytorch-bert)
 
+# Book
+* [Deep Learning with PyTorch | PyTorch](https://pytorch.org/deep-learning-with-pytorch)
+
 # Classification
 * [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
 * [How to Train an Image Classifier in PyTorch and use it to Perform Basic Inference on Single Images](https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)
@@ -389,5 +392,8 @@ PyTorch
 * [Get started with PyTorch, Cloud TPUs, and Colab](https://medium.com/pytorch/get-started-with-pytorch-cloud-tpus-and-colab-a24757b8f7fc)
 * [PyTorch 1.2 Quickstart with Google Colab](https://medium.com/dair-ai/pytorch-1-2-quickstart-with-google-colab-6690a30c38d)
 * [PyTorch 기본 강의 (1-1)](https://www.youtube.com/watch?v=prTl5GIOjAM)
+* [How to Convert a Model from PyTorch to TensorRT and Speed Up Inference | Learn OpenCV](https://www.learnopencv.com/how-to-convert-a-model-from-pytorch-to-tensorrt-and-speed-up-inference/)
+  * [에브리타임inference.ipynb - Colaboratory](https://colab.research.google.com/drive/1p6DIxsesi3eJNPwFwvMw0MeM5LkSGoPW?usp=sharing)
 * [Deep Learning (with PyTorch) - YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
   * [pytorch-Deep-Learning/slides at master · Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning/tree/master/slides)
+* [파이토치, 어떻게 시작할까?··· 알짜배기 학습 정보 5가지  - CIO Korea](http://www.ciokorea.com/news/157473)
