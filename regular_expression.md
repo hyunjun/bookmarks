@@ -69,6 +69,7 @@ Regular Expression
 * [자바스크립트 정규표현식 코딩팁](https://taegon.kim/archives/6594)
 * [자바스크립트 정규표현식의 capturing group](https://rhostem.github.io/posts/2018-11-11-regex-capture-group/)
 * [The most surprising behavior of JavaScript regular expression you have ever seen](https://medium.com/javascript-in-plain-english/most-surprising-behavior-of-javascript-regular-expression-you-have-ever-seen-1ddb84539163)
+* [정규표현식 완전정복 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
 * [regexper - JavaScript regular expression to display](https://regexper.com/)
 
 # PHP
