@@ -281,6 +281,11 @@ Haskell
 * [Simple Linear Regression in One Pass - DanielBrice.net](https://www.danielbrice.net/blog/simple-linear-regression-in-one-pass/)
 * [Solving Algorithm Challenges in Haskell: Anagrams - DEV](https://dev.to/theodesp/solving-algorithm-challenges-in-haskell-anagrams-15jd)
 * [Training our Agent with Haskell! — Monday Morning Haskell](https://mmhaskell.com/blog/2020/6/15/training-our-agent-with-haskell)
+* [Comparing the same web scraper in Haskell, Python, Go - DEV](https://dev.to/yujiri8/comparing-the-same-web-scraper-in-haskell-python-go-387a)
+* [Document generation & Rendered Source Code - DEV](https://dev.to/german1608/document-generation-rendered-source-code-10cb)
+* [Query-based compiler architectures | Olle Fredriksson's blog](https://ollef.github.io/blog/posts/query-based-compilers.html)
+* [Tweag - Splittable pseudo-random number generators in Haskell: random v1.1 and v1.2](https://www.tweag.io/blog/2020-06-29-prng-test/)
+* [Competitive programming in Haskell: data representation and optimization, with cake | blog :: Brent -> String](https://byorgey.wordpress.com/2020/06/29/competitive-programming-in-haskell-data-representation-and-optimization-with-cake/)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
@@ -465,3 +470,4 @@ Haskell
 * [10 Reasons to Use Haskell](https://serokell.io/blog/10-reasons-to-use-haskell)
 * [Learning Haskell: Getting Started](https://levelup.gitconnected.com/learning-haskell-getting-started-9f34155456e)
 * [Learning Haskell: Getting Setup](https://levelup.gitconnected.com/learning-haskell-getting-setup-c1f2cc69d915)
+* [Getting Started with Haskell on Fedora - Fedora Magazine](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
