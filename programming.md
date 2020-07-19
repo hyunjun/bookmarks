@@ -1793,6 +1793,7 @@ Programming
   * [기술 뉴스 #151 : 20-06-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1485)
   * [기술 뉴스 #152 : 20-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1486)
   * [기술 뉴스 #153 : 20-07-04 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1487)
+  * [기술 뉴스 #154 : 20-07-18 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1488)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
