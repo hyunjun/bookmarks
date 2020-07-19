@@ -137,6 +137,7 @@ Religion
 * [보수 개신교계의 생존 전략: 동성애와 진보를 사회악으로 만들기](http://slownews.kr/43588)
 * [동성결혼 증명서 발급 거부한 '킴 데이비스'의 면전에 성경의 말씀을 던진 옥외 광고판](http://www.huffingtonpost.kr/2015/09/13/story_n_8131366.html)
 * [기독교인들은 왜 동성애 문제에만 분노하는가](http://www.newsnjoy.or.kr/news/articleView.html?idxno=218121)
+* [성소수자 축복을 이유로 재판받는 목사님 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=42406)
 
 # Islam
 * ["한 손에 칼 한 손에 꾸란"이 완전 허구인 이유](http://ppss.kr/archives/38516)
