@@ -126,6 +126,7 @@ Java
 * [왜 java에서는 equals 메서드를 오버라이드 하면 hashCode 도 같이 해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%97%90%EC%84%9C%EB%8A%94-equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%95%98%EB%A9%B4-hashCode-%EB%8F%84-%EA%B0%99%EC%9D%B4-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [Implementing in-memory compression for objects in Java](https://stackoverflow.com/questions/5934495/implementing-in-memory-compression-for-objects-in-java)
 * [The Error Handling Done Right - The Startup - Medium](https://medium.com/swlh/the-error-handling-done-right-d19ffca2656f)
+* [이펙티브 자바 3판 - 열거 타입과 애너테이션](http://astrod.github.io/java/2020/07/18/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98/) Enum, EnumSet, EnumMap, Annotation
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
