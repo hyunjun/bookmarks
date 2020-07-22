@@ -59,6 +59,7 @@ Flutter
 * [Flutter Tensorflow Tutorial for Beginners](https://morioh.com/p/5f05517a40a4)
 * [Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
   * [Flutter vs Native vs React 성능](https://brunch.co.kr/@jowlee/123)
+* [구글 플러터의 장점 세가지! - 코딩토크쇼 라이트버그 시즌2 - YouTube](https://www.youtube.com/watch?v=Hck0iWuUv64)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
@@ -96,3 +97,4 @@ Flutter
 * [dart : Invalid UTF8 sequence encountered](https://sunyzero.tistory.com/262)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
 * [다트(Dart)로 웹 크롤링 맛보기 3df255a8b776](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
+* [pure_firestore](https://github.com/kdy1/pure_firestore)
