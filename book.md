@@ -115,6 +115,7 @@ Book
 
 # Math
 * [한번읽고 평생 써먹는 수학상식 이야기](http://jybaek.tistory.com/754)
+* (NOT YET) [수학은 어떻게 무기가 되는가](https://sensio.tistory.com/114)
 
 # Religion
 * (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
