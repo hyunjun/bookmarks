@@ -440,6 +440,7 @@ Business
 * [**Marketing-for-Engineers: A curated collection of marketing articles & tools to grow your product**](https://github.com/LisaDziuba/Marketing-for-Engineers)
 * [**모바일 광고 Big4 (FYNK)**](https://brunch.co.kr/@hyungsukkim/125)
 * [페이스북이 개인화 광고를 위해 머신러닝을 사용하는 방법 | GeekNews](https://news.hada.io/topic?id=2323)
+* [데이터ver '매니지먼트 마이오피아'의 시대](https://brunch.co.kr/@windydog/344)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -543,6 +544,7 @@ Business
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
 * [창업 아이템 고르는 법](https://liveandventure.com/2020/05/21/item/)
 * [Unit Economics — 성장을 드라이브하는 기준 — How I invest (3) - 허진호 (Jin Ho Hur) - Medium](https://medium.com/@hur/unit-economics-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80-how-i-invest-3-2fff1dad51c6)
+* [수평적 vs. 수직적 마켓플레이스](https://www.thestartupbible.com/2020/07/horizontal-marketplaces-vs-vertical-marketplaces.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
