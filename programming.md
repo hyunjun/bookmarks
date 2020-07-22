@@ -1349,6 +1349,8 @@ Programming
 * [managed language와 unmanaged language?](https://blog.seulgi.kim/2019/04/managed-language-vs-unmanaged-langauge.html) GC가 메모리를 관리하는 유일한 방법이 아니다!
 * [Garbage collection과 memory leak](https://blog.seulgi.kim/2019/04/garbage-collection-and-memory-leak.html)
 * [Garbage Collection](http://craftinginterpreters.com/garbage-collection.html)
+* [가비지 컬렉션 - 레퍼런스 카운팅 가볍게 알아보기 - YouTube](https://www.youtube.com/watch?v=j9Vncn04GsE)
+* [가비지 컬렉션 - 마크 & 스윕 가볍게 알아보기 - YouTube](https://www.youtube.com/watch?v=tTH4WdpRC2k)
 * [Demystifying memory management in modern programming languages](https://dev.to/deepu105/demystifying-memory-management-in-modern-programming-languages-ddd)
 * [메모리 취약점:과거, 현재, 미래 (1) 개요](https://cpuu.postype.com/post/3938882)
 * [메모리 취약점:과거, 현재, 미래 (2) NX / DEP](https://cpuu.postype.com/post/3944558)
@@ -1553,6 +1555,7 @@ Programming
 * [woz-u.com](https://woz-u.com/)
 
 # News
+* [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
 * B급 프로그래머
   * [3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/03/b-3-4.html)
   * [3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
@@ -1868,6 +1871,7 @@ Programming
   * [(07/04) 개발자 경력을 쓰레기통으로 보내는 9가지 방법 - YouTube](https://www.youtube.com/watch?v=DPdMrr76lzo)
 * [2020년 7월 11일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-11.html) 현대적인 자바스크립트 튜토리얼, 파이썬 웹 클라이언트 프로그램, 구글 웹 성능 개선 방안, git -m multiline commit message
   * [(07/11) 과연 리눅스 창시자인 리누스 토발자는 요즘 코딩을 할까 하지 않을까? - YouTube](https://www.youtube.com/watch?v=Xrk-ET1KDK4)
+* [2020년 7월 19일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-19.html) Deno vs Node, Pigz – 병렬 Gzip, C++ 인기 라이브러리 8선, Github Profile Readme, 파이썬 알고리즘 인터뷰 책
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
