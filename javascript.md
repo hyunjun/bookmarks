@@ -1053,6 +1053,7 @@ Javascript
 * [IE의 ajax 캐시 이슈를 처리하는 방법](http://jeonghwan-kim.github.io//dev/2019/08/12/ie-cache.html)
 * [jQuery는 이제 너무 무겁다. - 완두블로그](https://wani.kr/posts/2014/02/02/jquery-is-too-heavy/)
 * [JS 꼴랑이거(1) - Submit 이벤트 완전히 막기! - 완두블로그](https://wani.kr/posts/2014/12/25/js-something-1-block-submit-event-completely/)
+* [jqTree - a jQuery widget for displaying a tree structure in html It supports json data, loading via ajax and drag-and-drop](http://mbraak.github.io/jqTree/)
 
 # Library
 * [**RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io **](https://github.com/gothinkster/realworld)
@@ -2674,6 +2675,7 @@ Javascript
 * [Recoil - A state management library for React](https://recoiljs.org/)
   * [Recoil 시작하기](https://alstn2468.github.io/React/2020-05-15-Recoil/)
   * [RecoilJS is meant to rock your React world](https://mariosfakiolas.com/blog/recoiljs-is-meant-to-rock-your-react-world/)
+  * [Recoil 레시피: 소개 - 코드쓰는사람](https://taegon.kim/archives/10105)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
