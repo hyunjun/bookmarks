@@ -762,6 +762,7 @@ Web
 * [톰캣 #09 쓰레드](https://www.youtube.com/watch?v=sKiEidnV0nI)
 * [WAS와 웹서버의 차이 – 톰캣과 아파치를 구별하지 못하는 사람을 위해](http://sungbine.github.io/tech/post/2015/02/15/tomcat%EA%B3%BC%20apache%EC%9D%98%20%EC%97%B0%EB%8F%99.html)
 * [Jar 파일 스캔 제외로 톰캣 시작 시간 단축](http://javacan.tistory.com/entry/decrease-tomcat-startup-time-by-skip-jar-scan)
+* [How to install Tomcat application server in Linux Fedora/Centos/RHEL | by Bryant Jimin Son | Jul, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-install-tomcat-application-server-in-linux-fedora-centos-rhel-eac9a9dbce79)
 
 # [WebAssembly](https://github.com/WebAssembly/)
 * [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)
