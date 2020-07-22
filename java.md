@@ -1127,6 +1127,7 @@ Java
 * [SpringBoot에서 날짜 타입 JSON 변환에 대한 오해 풀기](https://jojoldu.tistory.com/361)
 * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
 * [Spring Boot Data Jpa 프로젝트에 Querydsl 적용하기](https://jojoldu.tistory.com/372)
+* [SpringBoot + JPA + H2 Database - YouTube](https://www.youtube.com/watch?v=WZDth-5KP5M)
 * [Querydsl 서브쿼리 사용하기](https://jojoldu.tistory.com/379)
 * [Querydsl 다이나믹 쿼리 사용하기](https://jojoldu.tistory.com/394)
 * [Querydsl 연관관계 없이 Join 조회하기](https://jojoldu.tistory.com/396)
@@ -1217,6 +1218,7 @@ Java
 * [Spring RestTemplate Mock 기반 테스트 하기](https://www.popit.kr/spring-resttemplate-mock-%EA%B8%B0%EB%B0%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0)
 * [**xUnit 테스팅 프레임워크를 TDD로 만들어보자**](https://www.youtube.com/watch?v=tdKFZcZSJmg) Toby. java 실습. 매우 좋음
 * [Reverse Polish notation is easy with test-driven development](https://medium.com/@alonso.delarte/reverse-polish-notation-is-easy-with-test-driven-development-670dfc7bb47c)
+* [통합 테스트에서 INSERT 쿼리 위한 보조 클래스 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/helper-for-insert-query-in-inttest)
 * ArchUnit [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
 * [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
 * DBUnit
