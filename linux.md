@@ -113,6 +113,7 @@ Linux
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
+* [kkamagui의 작업실 :: 랜덤한 패스워드 생성하기](https://kkamagui.tistory.com/926) `head /dev/urandom | tr -dc A-Za-z0-9 | head -c 32 ; echo ''`
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
