@@ -46,6 +46,7 @@ R
 * [How to perform Twitter analytics in R](http://mathminers.com/index.php/2015/06/27/how-to-perform-twitter-analytics-in-r/)
 * [Neural Network for Concrete Strength using R](http://andersonjo.github.io/neural-network/2015/07/25/Neural-Network-for-concrete/)
 * [Build your own neural network classifier in R](http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r)
+* [신경망과 회귀분석 비교하기 (Neural Net vs. Regression)](https://statisticsplaybook.tistory.com/14)
 * [A Semi-Supervised Classification Algorithm using Markov Chain and Random Walk in R](http://www.datasciencecentral.com/profiles/blogs/a-semi-supervised-classification-algorithm-using-markov-chain-and)
 * [Tufte in R](http://motioninsocial.com/tufte/)
 * [Exploring the Demographics of Ferguson, Missouri](http://www.arilamstein.com/blog/2015/07/02/exploring-the-demographics-of-ferguson-missouri/)
@@ -630,6 +631,7 @@ R
 * [DNH4](https://forkonlp.github.io/DNH4/)
   * [네이버 뉴스와 다음 뉴스의 댓글 가져오기](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%89%B4%EC%8A%A4%EC%99%80-%EB%8B%A4%EC%9D%8C-%EB%89%B4%EC%8A%A4%EC%9D%98-%EB%8C%93%EA%B8%80-%EA%B0%80%EC%A0%B8%EC%98%A4%EA%B8%B0/)
 * [N2H4 - 네이버 뉴스 수집을 위한 도구](https://github.com/forkonlp/N2H4)
+* [RCrawler: An R package for parallel web crawling and scraping - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352711017300110)
 
 # Machine Learning
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
