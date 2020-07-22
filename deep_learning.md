@@ -309,6 +309,7 @@ Deep Learning
   * [PCA의 의미와 한계점](https://www.facebook.com/TRobotics/posts/796663103771140)
   * [PCA(주성분분석)의 의미와 한계점](http://t-robotics.blogspot.com/2015/12/pca.html)
 * [PCA: "분산이 큰 축일 수록 정보가 더 많다?"](https://blog.naver.com/hancury/221215245092)
+* [PCA; Dimension Reduction + $\alpha$ | Pega Devlog](https://jehyunlee.github.io/2020/07/21/Python-DS-21-PCA/)
 * [주성분 분석(Principal Component Analysis) 직관적 & 수식적 설명](https://www.youtube.com/watch?v=UIZhJtOZ6EM)
 * [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 * [CS 7931: Deep Learning Seminar](http://ml.cs.utah.edu/deep-learning/)
@@ -1260,6 +1261,7 @@ Deep Learning
   * [Gluon-Detector - SSD Retinanet YoloV3](https://github.com/JONGGON/Gluon-Detector)
   * [Mxnet-Detector - mxnet one stage detector series](https://github.com/DeepFocuser/Mxnet-Detector)
 * [netron - Visualizer for neural network, deep learning and machine learning models https://www.lutzroeder.com/ai ](https://github.com/lutzroeder/netron) 신경망, 딥러닝 모델 시각화 툴이자 뷰어
+  * [Netron! Network 구조를 보여주세요! · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/07/20/netron/)
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [NN-SVG - Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/index.html) visualization
 * [NVDLA - Deep Learning Inference Compiler is Now Open Source](https://devblogs.nvidia.com/nvdla/)
@@ -2135,6 +2137,7 @@ CVPR2016)
 * [Minimal and Clean Reinforcement Learning Examples](https://github.com/rlcode/reinforcement-learning)
 * [한국어 Safe Multi-Agent Reinforcement Learning for Autonomous Driving](https://www.slideshare.net/KihoSuh/safe-multiagent-reinforcement-learning-for-autonomouse-driving)
 * [Multi-Agent 강화학습 시리즈](https://blog.naver.com/jk96491)
+* [Multi-Agent 강화학습 시리즈 5 - .. : 네이버블로그](https://blog.naver.com/jk96491/222038114436)
 * [Reinforcement Learning – Policy](http://web.stanford.edu/class/cs234/slides/cs234_guest_lecture_policy_gradients.pdf)
 * [UCL Course on RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
 * [Jessica Forde An Introduction to Reinforcement Learning PyCon 2017](https://www.youtube.com/watch?v=k1UuTyW2uFc)
