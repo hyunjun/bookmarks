@@ -161,6 +161,8 @@ Programming Books
 * (NOT YET) [퍼즐로 배우는 알고리즘 with 파이썬](https://blog.naver.com/ydot/221616317667)
 * (NOT YET) [다이내믹 프로그래밍 완전 정복](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B9440449667)
 * (NOT YET) [파이썬 알고리즘 인터뷰 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
+  * [algorithm-interview: <파이썬 알고리즘 인터뷰> 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://github.com/onlybooks/algorithm-interview)
+  * [독서광 파이썬 알고리즘 인터뷰](https://jhrogue.blogspot.com/2020/07/blog-post.html)
 
 # Amazon AWS
 
@@ -1288,6 +1290,7 @@ Programming Books
 * (NOT YET) [오브젝트 - 코드로 이해하는 객체지향 설계](https://wikibook.co.kr/object/)
   * [토비의 봄 TV 스페셜 - 오브젝트와 토끼책의 저자 조영호 님](https://www.youtube.com/watch?v=8OclN9kZTE4)
   * [Study Object book Content Repository](https://github.com/LenKIM/object-book)
+* (NOT YET) [오브젝트 디자인 스타일 가이드: 팀의 생산성을 높이는 고품질 객체지향 코드 작성법 | 위키북스](https://wikibook.co.kr/odsg/)
 
 # PHP
 
