@@ -1404,6 +1404,7 @@ Scala
 * [Fixtures in Scala — three simple ways to reduce your test code boilerplate](https://blog.softwaremill.com/fixtures-in-scala-three-simple-ways-to-reduce-your-test-boilerplate-5eb60ffe883)
 * [Testing APIs using Functional Programming in Scala](https://medium.com/seek-blog/testing-with-functional-programming-in-scala-bb26bd4d4b42)
 * [Testing Embedded H2 DB with Scala and Scalatest](https://medium.com/@sukumaarneo/testing-embedded-h2-db-with-scala-and-scalatest-3a863aafc9ab)
+* [Systems @Scale 2019: Kill the mutants – ’cause it is about time to test your tests – @Scale](https://atscaleconference.com/videos/systems-scale-2019-kill-the-mutants-cause-it-is-about-time-to-test-your-tests/)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
