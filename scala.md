@@ -263,6 +263,7 @@ Scala
 * [scala - What's the difference between => , ()=>, and Unit=> - Stack Overflow](https://stackoverflow.com/questions/4543228/whats-the-difference-between-and-unit)
 * [Yet Another Arithmetic Parser in Scala - Synerise - Medium](https://medium.com/synerise/yet-another-arithmetic-parser-in-scala-43dad055d81f)
 * [Railway Oriented Programming in Scala - Pierre's Blog](https://blog.pjam.me/posts/railway-oriented-programming-scala/)
+* [Writing Angular Services in Scala | by Antoine Doeraene | Jul, 2020 | Medium](https://medium.com/@antoine.doeraene/writing-angular-services-in-scala-e83fd308b7c3)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -518,6 +519,7 @@ Scala
 * [Operator overloading in Scala and Kotlin: two slightly different ways](https://medium.com/@alonso.delarte/operator-overloading-in-scala-and-kotlin-two-slightly-different-ways-2e8e2546ede4)
 * [Standardizing IO Interfaces for Scala Libraries](http://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html)
 * [My Scala template for Google Code Jam https://code.google.com/codejam ](https://github.com/pathikrit/ScalaJam) 파일 읽기
+* [What is an Effect?](https://www.inner-product.com/posts/what-is-an-effect/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1267,6 +1269,7 @@ Scala
 * [Tagless Final - Part 2 - Introduction to the Expression Problem - YouTube](https://www.youtube.com/watch?v=jz0jbJ3VkjQ)
 * [Tagless Final - Part 3 - If only we had a crystal ball! 🔮 - YouTube](https://www.youtube.com/watch?v=3Jmy3AyYZjc)
 * [Tagless Final - Part 4.1 - Power to the Interpreters! ✊ - YouTube](https://www.youtube.com/watch?v=5NxrVZvur_o)
+* [Tagless Final - Part 4.2 - Why The F\[_\] - YouTube](https://www.youtube.com/watch?v=3-GgF5fy3Ek)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -1536,6 +1539,7 @@ Scala
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
 * [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
+* ["First Class" Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/first-class-types)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
