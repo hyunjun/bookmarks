@@ -1768,7 +1768,8 @@ Javascript
 * [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
 * [Node.js에서 Github oAuth에 접근해보자 (1). - 완두블로그](https://wani.kr/posts/2015/02/11/github-oauth-via-node-1/)
 * [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
-* [어서 와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+* [어서와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
+* [어서와, SSR은 처음이지 - 개발 편](https://d2.naver.com/helloworld/2177909)
 * [Node.js - 9.URL의 이해 - YouTube](https://www.youtube.com/watch?v=Zhbvui_T9VY)
 * [GitHub - iamssen/http-study-with-node-socket](https://github.com/iamssen/http-study-with-node-socket)
 
