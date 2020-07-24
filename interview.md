@@ -667,6 +667,7 @@ Interview
 * [레쥬메 작성 팁 모음](https://www.facebook.com/groups/devresume/permalink/187460318308510/)
 * [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
 * [개발자 이력서 작성하기 (feat. 이력서 공개)](https://brunch.co.kr/@hee072794/132)
+* [경력자의 지원동기 쓰는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220418)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
