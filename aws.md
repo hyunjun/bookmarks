@@ -278,6 +278,7 @@ AWS
 * [Understanding Data Transfer in AWS](https://www.lastweekinaws.com/blog/understanding-data-transfer-in-aws/)
 * [AWS Lightsail에서 설치형 워드프레스를 시작하고 리눅스 서버관리 배우기](https://swiftcoding.org/aws-lightsail-posts)
 * [설치형 개인 VPN 서버 알고(Algo) 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
+* [Amazon Lightsail 시작해보기](https://jojoldu.tistory.com/512)
 * [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 * [Building Scalable Analytics with AWS — Part 1](https://medium.com/@tomas.duhourq/building-scalable-analytics-with-aws-part-i-6de6a90e3513)
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
@@ -400,6 +401,7 @@ AWS
 * [aws-vault로 AWS의 인증 정보 안전하게 사용하기](https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
 * [DevAxConnect - Twitch](https://www.twitch.tv/videos/667616330)
 * [Our AWS bill is ~ 2% of revenue. Here's how we did it | Blog](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
+* [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -572,6 +574,7 @@ AWS
 * [ec2-gauza 설치 및 사용하기](http://jojoldu.tistory.com/311)
 * [AWS EC2에서 django를 사용해보자!](https://blog.naver.com/nanotoly/222012440576)
 * [Amazon Linux 2를 실행하는 Amazon EC2 인스턴스에 그래픽 사용자 인터페이스(GUI) 설치](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-linux-2-install-gui/)
+* [EC2 키 분실 후 대응 방법](https://jhrogue.blogspot.com/2020/07/5-ec2.html)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
