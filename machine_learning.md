@@ -1102,7 +1102,9 @@ Machine Learning
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
 * [modal - Modular Active Learning framework for Python3](https://cosmic-cortex.github.io/modAL/)
 * [NapkinML - Pocket-sized implementations of machine learning models in NumPy](https://github.com/eriklindernoren/NapkinML)
-* Neptune [머신러닝 Experiment Management 쉽게 하기(feat. neptune ai)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
+* Neptune
+  * [머신러닝 Experiment Management 쉽게 하기(feat. neptune ai)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
+  * [Neptune...? 은 또 뭐여.. · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/07/23/neptune/)
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
 * [PHOTONAI](https://www.photon-ai.com/)
   * [21 Techniques to Write Better Code - The Startup - Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
