@@ -98,6 +98,7 @@ Julia
 * [Does Julia have a future as a general high-performance language?](https://www.quora.com/Does-Julia-have-a-future-as-a-general-high-performance-language)
 * [Apart from the lack of libraries (if compared to Python, for example), is there any reason Julia wouldn't be a good general purpose programming language?](https://www.quora.com/Apart-from-the-lack-of-libraries-if-compared-to-Python-for-example-is-there-any-reason-Julia-wouldnt-be-a-good-general-purpose-programming-language)
 * [Bisection method - 1](https://otter275.tistory.com/18) 수치적 방법으로 방정식의 해를 근사적으로 찾는 iterative method중 가장 간단한 알고리즘
+* [줄리아 언어로 구현 해 보는 Bisection method - 1](https://velog.io/@otter275/%EC%A4%84%EB%A6%AC%EC%95%84-%EC%96%B8%EC%96%B4%EB%A1%9C-%EA%B5%AC%ED%98%84-%ED%95%B4-%EB%B3%B4%EB%8A%94-Bisection-method-1)
 * [Emmetts-DS-NoteBooks/Metaprogramming a Scatterplot with compose (Pt. 3).ipynb at master · emmettgb/Emmetts-DS-NoteBooks · GitHub](https://github.com/emmettgb/Emmetts-DS-NoteBooks/blob/master/Julia/Metaprogramming%20a%20Scatterplot%20with%20compose%20(Pt.%203).ipynb)
   * [Metaprogramming A Coordinate Parser With Compose In Julia | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/metaprogramming-a-coordinate-parser-with-compose-in-julia-a0d163c6fb21)
   * [MetaProgramming A Graph Class In Julia (Part Two) | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/metaprogramming-a-graph-class-in-julia-90a90e8ab45b)
