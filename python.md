@@ -1846,6 +1846,7 @@ Python
   * [Codelog 제작기](https://www.hides.kr/1059)
 * [Full-stack single page application with Vue.js and Flask](https://codeburst.io/full-stack-single-page-application-with-vue-js-and-flask-b1e036315532)
 * [Developing a Single Page App with Flask and Vue.js](https://github.com/testdrivenio/flask-vue-crud)
+* [Docker를 사용한 Vue - Flask 개발서버 작성 (front-back 연동)](https://woolbro.tistory.com/99)
 * [Advanced Flask Patterns](https://speakerdeck.com/mitsuhiko/advanced-flask-patterns-1)
 * [Running Your Flask Application Over HTTPS](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 * [Flask - DB (Mysql) 연동과 CRUD :: 개발자 울이 노트](https://woolbro.tistory.com/91)
@@ -2522,6 +2523,7 @@ Python
     * [Duplicate files, Deduper in Google Drive](https://eojji.blogspot.com/2019/06/duplicate-files-deduper-in-google-drive.html)
       * [Drive Deduper Finds duplicate files in Drive based on md5 checksum and offers to trash them](https://github.com/gsuitedevs/drive-utils/tree/master/deduper)
     * [A script for downloading all files in a Google Drive folder.](https://gist.github.com/swyoon/5601cd17bcc2ada8599bfa7549e6f698)
+    * [PYTHON 구글 드라이브 연동 :: 프즈](https://tolovefeels.tistory.com/57)
     * [gdown - Download a large file from Google Drive (curl/wget fails because of the security notice)](https://github.com/wkentaro/gdown)
   * sheet 
     * [practice - google sheet](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
