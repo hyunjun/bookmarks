@@ -2396,6 +2396,7 @@ Javascript
 * [Six Ways To Get Better At React - Frontend Digest - Medium](https://medium.com/frontend-digest/six-ways-to-get-better-at-react-ccb321a7c35)
 * [4 Ways to Conditionally Render in React - Better Programming - Medium](https://medium.com/better-programming/4-ways-to-conditionally-render-in-react-3785fb5e5013)
 * [How to Build a NETFLIX Clone using React, Firebase and Material-UI](https://morioh.com/p/04d033c106f5?f=5c224490c513a556c9042463)
+* [React에는 ‘함수형 컴포넌트’가 없다 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/24/react-has-no-functional-components.html)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
