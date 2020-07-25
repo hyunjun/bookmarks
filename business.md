@@ -240,6 +240,7 @@ Business
 * [Talk: Making Work Visible: How to Unmask Capacity Killing WIP](http://blog.lastmind.io/archives/921) 동시에 진행하는 일을 제한해야 한다는 글
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
 * [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
+* [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -539,6 +540,7 @@ Business
 * [Glimpse 2019.10 – 이 달의 급부상 서비스 & 키워드](https://xguru.net/2175)
 * [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 * [스타트업이 문제를 마주할 때, 가장 먼저 해야 할 질문](https://ppss.kr/archives/204662) Netflix의 The Canada Principle
+* [영화 〈머니볼〉을 통해 본 본질을 사고하는 법 3가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/219958) 정확한 문제 설정, 통제 가능한 옵션, 선택과 집중
 * [온라인 창업 아이디어 고르는 방법](https://www.upfly.me/2019/08/01/how-to-find-business-idea/)
 * [내 사업이 망한 진짜 이유](https://www.upfly.me/2019/09/05/startup-failure-example-analysis/)
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
