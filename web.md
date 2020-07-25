@@ -597,6 +597,7 @@ Web
   * [HAProxy TCP 모드에서 내부 서버로 Source IP 전달하기](https://realhanbit.co.kr/books/141/pages/1256/read)
   * [Docker기반 Redis 구축하기 - (8) HAProxy를 이용한 분산처리 환경 구축하기 | Carrey's 기술블로그](https://jaehun2841.github.io/2018/12/02/2018-12-02-docker-8/#haproxycfg-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1)
   * [HAProxy 고가용성 설정](https://www.ibm.com/support/knowledgecenter/ko/SSYMRC_6.0.5/com.ibm.jazz.install.doc/topics/t_setup_haproxy_ha.html)
+  * [Announcing HAProxy 2.2 - HAProxy Technologies](https://www.haproxy.com/blog/announcing-haproxy-2-2/)
 * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
 
 # Python
