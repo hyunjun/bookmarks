@@ -252,6 +252,7 @@ C++
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
 * [C++ 프로그래밍에 요긴한 라이브러리 7종](http://www.ciokorea.com/news/142816)
+* [C++ 프로그래밍의 감초··· ‘인기 라이브러리 8선’ - CIO Korea](http://www.ciokorea.com/news/158051)
 * [abseil.io](https://abseil.io/)
 * [Atria - A toolkit for modern C++ development](http://abletonag.github.io/atria/)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
