@@ -238,6 +238,7 @@ History
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
 * [왜 청자뿐일까..해저유물 미스테리](http://media.daum.net/series/newsview?seriesId=113855&newsId=20160413200404562)
 * [여진인 퉁두란은 왜 '이지란'이 되었나](https://news.v.daum.net/v/20181129161226250)
+* [상은 통 크게 주고 벌은 가려서 내린다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=42423) 현종
 
 ## 고조선
 * [흑요석은 고조선 사람들의 '성공 조건'이었다](http://v.media.daum.net/v/20171022190905447)
