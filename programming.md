@@ -8,6 +8,18 @@ Programming
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [GitHub Repos That Every Developer Should Know About](https://medium.com/better-programming/github-repos-that-every-developer-should-know-about-3f0bc8c316ba)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
+* [awesome-cold-showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
+  * Verification Techniques (PDF)
+  * Static vs Dynamic Typing: a literature review
+  * Scalability! but at what COST?
+  * Web Framework Benchmarks
+  * Agile Methods: The Good, the Hype and the Ugly (Video)
+  * An Empirical Study on the Correctness of Formally Verified Systems (PDF)
+  * Fixing Faults in C and Java Source Code: Abbreviated vs. Full-word Identiﬁer Names (PDF)
+  * Microservices - Please, don't
+  * VM Warmup Blows Hot and Cold
+  * Scaling SQLite to 4M QPS on a Single Server
+  * Understanding Real-World Concurrency Bugs in Go (PDF)
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
 * [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
@@ -237,6 +249,7 @@ Programming
 * [Welcome - The Naming Convention Project](https://namingconvention.org)
 * [약어 list](https://gist.github.com/skt-t1-byungi/8a44db3e4991cd66209841b93a1ab496) naming
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
+* [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
@@ -737,6 +750,7 @@ Programming
   * [2편 TCC Cancel, Timeout](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-2%ED%8E%B8-tcc-cancel-timeout/)
   * [3편 TCC Confirm(Eventual Consistency)](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-3%ED%8E%B8-tcc-confirmeventual-consistency/)
   * [4편 REST Retry](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-4%ED%8E%B8-rest-retry/)
+* [Eventual Consistency isn’t for Streaming – Materialize](https://materialize.io/eventual-consistency-isnt-for-streaming/)
 * [대용량 환경에서 그럭저럭 돌아가는 서비스 만들기](https://www.popit.kr/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B7%B8%EB%9F%AD%EC%A0%80%EB%9F%AD-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
 * [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
@@ -813,6 +827,7 @@ Programming
 * [2019 PAYCO 쇼핑 마이크로서비스 아키텍처(MSA) 전환기 - YouTube](https://www.youtube.com/watch?v=l195D5WT_tE)
 * [Azar Mirror 서버 제작기 3편 - 개발자편 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/01/azar-mirror-3.html)
 * [Microservice.add(observability) != Microservice.add(monitoring) | Hacker Noon](https://hackernoon.com/microserviceaddobservability-microserviceaddmonitoring-40m3yk5)
+* [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://www.joinc.co.kr/w/man/12/msaPayco)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -865,6 +880,9 @@ Programming
 * [From vm to container to serverless](https://www.slideshare.net/welkaim/from-vm-to-container-to-serverless)
 * [A journey into serverless Tools and processes for serverless in production](https://medium.com/moonshot-internet/a-journey-into-serverless-af23e22e08b1)
 * [4세대 애플리케이션 모델을 이끄는 클라이언트-서버리스 탐구 - ITWorld Korea](http://www.itworld.co.kr/news/157112#csidx3bf62c38cae77a08af91eb13b34863c)
+
+# Benchmark
+* [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
@@ -995,6 +1013,7 @@ Programming
 * [Awesome-Clean-Code-Resources: An awesome curated list of clean code posts, books and videos](https://github.com/abiodunjames/Awesome-Clean-Code-Resources)
 * [Clean Code: 5 Essential Takeaways - Better Programming - Medium](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
+* [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
 * [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
@@ -1100,6 +1119,7 @@ Programming
 * [Let's make a Teeny Tiny compiler, part 1 - Austin Z. Henley](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time | Carol's Blog](https://carolchen.me/blog/jits-intro/)
 * [c언어 수열의 부분 합(Prefix Sum) 구하기 - 어떤 방법이 더 빠르고 정확할까](https://bab2min.tistory.com/658)
+* [java - Why is processing a sorted array faster than processing an unsorted array? - Stack Overflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) branch prediction
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -1238,6 +1258,7 @@ Programming
 * [오늘의 질문 2018.12.18](https://jojoldu.tistory.com/363) 디버깅에 대한 창천향로님 의견
 * [자바랑 자바스크립트랑 싸우면 누가 이길까?](https://ppss.kr/archives/149252) 프로그래밍 언어와 버그의 연관성
 * [디버깅과 야근](https://yisooan.wordpress.com/2020/06/06/debug-and-overwork/)
+* [Debugging Incidents in Google's Distributed Systems - ACM Queue](https://queue.acm.org/detail.cfm?id=3404974)
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
@@ -1717,6 +1738,7 @@ Programming
   * [7월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/07/b-7-1.html)
   * [7월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/07/b-7-2.html)
   * [7월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/07/b-7-3.html)
+  * [7월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/07/b-7-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
