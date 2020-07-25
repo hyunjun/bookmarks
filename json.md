@@ -12,6 +12,7 @@ Json
 * [Benchmark of Python JSON libraries](http://artem.krylysov.com/blog/2015/09/29/benchmark-python-json-libraries/)
 * [B급 프로그래머 (스택오버플로우) 구글이 JSON 응답에 while(1);을 붙여 보내는 이유는?](http://jhrogue.blogspot.com/2019/03/b-json-while1.html)
 * [Use Binary Encoding Instead of JSON - Better Programming - Medium](https://medium.com/better-programming/use-binary-encoding-instead-of-json-dec745ec09b6)
+* [JSON 데이터 타입을 처리하는 웹 어플리케이션에서 XXE 취약점이 발생하는 이유](http://blog.naver.com/crehacktive3/222037182911)
 
 # C++
 * [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
@@ -78,6 +79,7 @@ Json
 * [How to Secure Your API With JSON Web Tokens](https://medium.com/javascript-in-plain-english/how-to-secure-your-api-with-json-web-tokens-495ec68ba6cd)
 * [JWT(Json Web Token)와 세션관리에 대해서 알아보자](https://developer88.tistory.com/325)
 * [JWT를 소개합니다](https://meetup.toast.com/posts/239)
+* [Service Account(JWT)을 활용한 Google Calendar API 사용](https://kibua20.tistory.com/87)
 * [r2c blog — Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
 
