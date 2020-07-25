@@ -225,6 +225,7 @@ Apache
     * Subtask는 지금 buffer가 얼마남았는지 전단계의 SubTask에게 알려주고 전단계의 SubTask는 이를 고려하여 task 분배 [1](https://github.com/apache/flink/blob/master/flink-runtime/src/main/java/org/apache/flink/runtime/io/network/netty/CreditBasedPartitionRequestClientHandler.java) [2](https://github.com/apache/flink/blob/master/flink-runtime/src/main/java/org/apache/flink/runtime/io/network/netty/CreditBasedSequenceNumberingViewReader.java)
 * [OptimizedText.java](https://github.com/eastcirclek/terasort/blob/master/src/main/java/eastcircle/terasort/OptimizedText.java)
 * [Improving throughput and latency with Flink's network stack - Nico Kruber](https://www.youtube.com/watch?v=AbqatHF3tZI) flink flow mechanism
+* [Apache Flink Virtual Meetup Seoul July 23, 2020 - YouTube](https://www.youtube.com/watch?v=HWTb5kn4LvE)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
@@ -864,6 +865,7 @@ Apache
 * [Apache Pulsar Using Java](https://medium.com/pharos-production/apache-pulsar-using-java-d2b619c9f0b)
 * [Rendezvous Architecture for Data Science in Production](https://towardsdatascience.com/rendezvous-architecture-for-data-science-in-production-79c4d48f12b)
 * [Apache Pulsar as One Storage System for Both Real-time and Historical Data Analysis](https://medium.com/streamnative/apache-pulsar-as-one-storage-455222c59017)
+* [Pulsar vs. Kafka — Part 1 — A More Accurate Perspective on Performance, Architecture, and Features](https://streamnative.io/blog/tech/pulsar-vs-kafka-part-1)
 
 # [Ranger](http://ranger.apache.org)
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
