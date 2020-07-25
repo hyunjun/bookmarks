@@ -1,6 +1,5 @@
 SQL
 ===
-* [rickbergfalk.github.io/sqlpad](http://rickbergfalk.github.io/sqlpad/)
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
 * [How to work optimally with relational databases](https://medium.freecodecamp.org/how-to-work-optimally-with-relational-databases-627073f82d56)
@@ -68,6 +67,8 @@ SQL
 * [데이터베이스 관리 도구: SQLGate 키보드 단축키](http://blog.gaerae.com/2017/11/sqlgate-keyboard-shortcuts.html)
 * [Software engineer — from monolith to cloud: Auto Increment to UUID](https://coder.today/software-engineer-from-monolith-to-cloud-auto-increment-to-uuid-a62f92f387c4)
 * [UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+* [Generating UUIDs at scale on the Web | by Matthieu Wipliez | Teads Engineering | Jul, 2020 | Medium](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
+* [uuid-readable: Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳](https://github.com/Debdut/uuid-readable)
 * [Why Did We Shift Away From Database-Generated Ids?](https://medium.com/ingeniouslysimple/why-did-we-shift-away-from-database-generated-ids-7e0e54a49bb3)
 * [Instagram 에서 ID 샤딩하기](https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0)
 * [Code Quality Comparison of Firebird, MySQL, and PostgreSQL](https://medium.com/@CPP_Coder/code-quality-comparison-of-firebird-mysql-and-postgresql-53e39fc3298d)
@@ -119,6 +120,7 @@ SQL
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
+* [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * [usql - Universal command-line interface for SQL databases](https://github.com/xo/usql)
 * [UXSql Application Builder](https://www.notion.so/UXSql-Application-Builder-18857e102ca54c37b4e5f887f68f3a55) MSSQL, MySQL 가능
@@ -393,6 +395,7 @@ SQL
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 설정편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-config/)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 모니터링편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-monitoring/)
 * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 활용편 –**](https://gywn.net/2020/01/mysql-innodb-as-cache-server-monitoring-advanced/)
+* [Setting up an InnoDB Cluster With a Few Lines of Code - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/05/setting-up-an-innodb-cluster-with-a-few-lines-of-code/)
 * [Do Not Pass This Way Again](https://grimoire.ca/mysql/choose-something-else)
 * [How to create a user in MySQL/MariaDB and grant permissions on a specific database](http://www.daniloaz.com/en/how-to-create-a-user-in-mysql-mariadb-and-grant-permissions-on-a-specific-database/)
 * [Zero Downtime Schema Migrations](https://medium.com/invoca-engineering-blog/zero-downtime-schema-migrations-29f81f9ea6db)
@@ -402,6 +405,7 @@ SQL
 * [2. 커버링 인덱스 (WHERE + ORDER BY / GROUP BY + ORDER BY )](https://jojoldu.tistory.com/481)
 * [MySQL의 다양한 실행 프로그램 mysqld_safe, mysql.server, mysqld_multi feat.mysqld](https://stricky.tistory.com/164)
 * [MySQL 8.0 테이블스페이스 관리 방법 변경 내용 feat.테이블 스페이스 삭제한다면?!](https://stricky.tistory.com/166)
+* [MySQL 8.0 – Who stopped mysqld and how long did it take ? – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-8-0-who-stopped-mysqld-and-how-long-did-it-take/)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
@@ -413,9 +417,11 @@ SQL
 * [Best Practices for MySQL Backups - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/27/best-practices-for-mysql-backups/)
 * [Charset and Collation Settings Impact on MySQL Performance - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/27/charset-and-collation-settings-impact-on-mysql-performance/)
 * [Mysql objects 개념 정리 for 개발자](https://stricky.tistory.com/315)
+* [MySQL – Keep an eye on your auto_increment values – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-keep-an-eye-on-your-auto_increment-values/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
+* [New Logical Backup and Restore Utilities in the MySQL Shell](https://elephantdolphin.blogspot.com/2020/07/new-logical-backup-and-restore.html)
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
   * [github.com/kakao/adt](https://github.com/kakao/adt)
 * [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)
@@ -545,11 +551,13 @@ SQL
 * [NoSQL과RDBMS 중 적합한 데이터베이스 선택하기(feat.인스타그램DB)](https://mustread.tistory.com/5)
 * [Comparison of JOINS: MongoDB vs. PostgreSQL](https://www.enterprisedb.com/blog/comparison-joins-mongodb-vs-postgresql)
 * [Oracle vs PostgreSQL: First Glance](https://rolkotech.blogspot.com/2020/05/oracle-vs-postgresql.html)
+* [PostgreSQL vs. Oracle: Difference in Costs, Ease of Use & Functionality | by Kristi Anderson | Jul, 2020 | Medium](https://medium.com/@kristi.anderson/postgresql-vs-oracle-difference-in-costs-ease-of-use-functionality-642638152509)
 * [How to Install Postgres 12](https://www.youtube.com/watch?v=tXFnplU0ous)
 * [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 * [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
 * [Types of Indexes in PostgreSQL - Highgo Software Inc.](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
+* [PostgreSQL EXPLAIN — pgMustard](https://www.pgmustard.com/docs/explain)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
