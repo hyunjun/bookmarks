@@ -454,8 +454,6 @@ App
     * [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
     * [PIP Error 해결 방법](https://developer-ankiwoong.tistory.com/713)
     * [코딩 인생 꿀템 VSC 단축키 5분 정리해드림](https://www.youtube.com/watch?v=Wn7j5dfbJF4)
-    * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
-    * [Jupyter Notebooks in Visual Studio Code](https://techcommunity.microsoft.com/t5/educator-developer-blog/jupyter-notebooks-in-visual-studio-code/ba-p/1155747)
     * [비주얼 스튜디오 코드(Visual Studio Code)란?](https://www.44bits.io/ko/keyword/visual-studio-code)
     * [VSCodium: 100% Open Source Version of Microsoft VS Code](https://itsfoss.com/vscodium/)
     * [VS Code에서 나만의 Snippets 만들기](https://jojoldu.tistory.com/491)
@@ -493,6 +491,9 @@ App
       * [Exploring an Alternative to Jupyter Notebooks for Python Development](https://pbpython.com/notebook-alternative.html)
       * [파이썬 설치 후기, 개발환경은 역시 visual studio code, 윈도우10 환경 :: 프즈](https://tolovefeels.tistory.com/54)
       * [파이썬 외부 라이브러리를 설치해요. 파이썬 개발은 Visiual Studio Code로 하세요. - YouTube](https://www.youtube.com/watch?v=sEFwlGefm6U)
+      * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
+      * [Jupyter Notebooks in Visual Studio Code](https://techcommunity.microsoft.com/t5/educator-developer-blog/jupyter-notebooks-in-visual-studio-code/ba-p/1155747)
+      * [아직도 쥬피터노트북을 사용하시나요? - YouTube](https://www.youtube.com/watch?v=kQHk-sMB5HA)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -785,6 +786,7 @@ App
 * [Mac OS X 에서 hosts 를 추가하려면?](https://lovetoken.github.io/etc/2018/04/18/mac_hosts.html)
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [Back to Bash: Remove Zsh and terminal themes on a Mac step-by-step](https://medium.com/the-code-review/back-to-bash-remove-zsh-and-terminal-themes-on-a-mac-step-by-step-f89f69d2ec73)
+* [Faster and enjoyable ZSH (maybe) • htr3n's](https://htr3n.github.io/2018/07/faster-zsh/)
 * [4 Simple Steps To Create An Awesome Terminal Experience On Your Mac](https://medium.com/tech-explained/4-simple-steps-to-create-an-awesome-terminal-experience-on-your-mac-70bd7a0e1b59)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
@@ -951,6 +953,7 @@ App
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
+* [NoiseTorch: Real-time microphone noise suppression on Linux.](https://github.com/lawl/NoiseTorch)
 * [PassportPhoto4You](https://www.idphoto4you.com/)
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
@@ -976,6 +979,7 @@ App
 * [joplin](https://joplin.cozic.net/)
   * [Get started with Joplin, a note-taking app](https://opensource.com/article/19/1/productivity-tool-joplin)
   * [Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ https://joplinapp.org ](https://github.com/laurent22/joplin)
+* [notable: The Markdown-based note-taking app that doesn't suck.](https://github.com/notable/notable)
 * [notebooksapp.com](http://www.notebooksapp.com/)
 * [notion - All-in-one workspace](https://www.notion.so)
   * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)
@@ -990,6 +994,7 @@ App
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
+* [Wiki.js](https://wiki.js.org/)
 * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
 
 ## Markdown
@@ -1009,6 +1014,7 @@ App
 * [When Markdown Meets Tables](https://blog.documentnode.io/when-markdown-meets-tables)
 * [6 Things Markdown Got Wrong](https://www.swyx.io/writing/markdown-mistakes/)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
+* [DocFX - static documentation generator | DocFX website](https://dotnet.github.io/docfx/)
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [hackmd.io](https://hackmd.io/) gist
 * [Haroopad](http://pad.haroopress.com/)
