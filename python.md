@@ -130,6 +130,7 @@ Python
 * [Procedural City Generation in Python](https://josauder.github.io/procedural_city_generation/)
 * [Linear Programming in Python with CVXOPT](https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html)
 * [Deobfuscating Shifu](http://binaryguard.com/bgc/malware/2015/10/09/deobfuscating_shifu.html)
+* [Python Malware On The Rise | Cyborg Security](https://www.cyborgsecurity.com/python-malware-on-the-rise/) PyInstaller, py2exe, Nuitka
 * [On insecure software distribution practices](http://epadillas.com/2015/10/01/On-insecure-software-distribution-practices.html)
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
@@ -328,6 +329,7 @@ Python
 * [30 Magical Python Tricks to Write Better Code - Towards Data Science](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
 * [10 Smooth Python Tricks For Python Gods | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
+* [TIL - How to Python "pythonically"](https://velog.io/@seob/TIL-How-to-Python-pythonically)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [win32print](http://timgolden.me.uk/python/win32_how_do_i/print.html)
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
@@ -763,6 +765,7 @@ Python
   * [Python: copying a list the right way](http://henry.precheur.org/python/copy_list)
   * [Python 의 Filter / Map / Reduce 그리고 Comprehension](http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html)
   * [A quick yet complete tour of lists in Python3 in just seven minutes](https://medium.freecodecamp.org/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0)
+  * [How slow is python list.pop(0) ?. An empirical study on python list.pop… | by Hongjian Wang | Medium](https://medium.com/@shuangzizuobh2/how-well-do-you-code-python-9bec36bbc322)
 * [logging](https://docs.python.org/3/howto/logging.html)
   * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
