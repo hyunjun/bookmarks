@@ -1404,6 +1404,7 @@ Programming Books
 * (NOT YET) [마야 파이썬 - 3D를 위한 파이썬](http://digital.kyobobook.co.kr/digital/ebook/ebookDetail.ink?selectedLargeCategory=001&barcode=480D190909980&orderClick=LAN&Kc)
 * (NOT YET) [파이썬에 참 좋은 PyCharm - 나에게 가장 필요한 파이썬 개발 환경 구축하기](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=213458036&start=slayer)
   * [파이썬에 참 좋은 PyCharm](https://github.com/bjpublic/pycharm)
+* [**파이썬 중급자를 위한 책 추천 – winterjung blog**](https://winterj.me/python-books-for-intermediate/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
