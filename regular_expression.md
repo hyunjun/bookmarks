@@ -71,6 +71,7 @@ Regular Expression
 * [The most surprising behavior of JavaScript regular expression you have ever seen](https://medium.com/javascript-in-plain-english/most-surprising-behavior-of-javascript-regular-expression-you-have-ever-seen-1ddb84539163)
 * [정규표현식 완전정복 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/07/19/Regular-Expressions-Tutorial.html)
 * [regexper - JavaScript regular expression to display](https://regexper.com/)
+* [super-expressive: 🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language](https://github.com/francisrstokes/super-expressive)
 
 # PHP
 * [php 한글 추출하기 정규식](http://dyong4614.dothome.co.kr/?folder=page&sub=bbs_view&current_gnb=gnb01&bbs=web&type=4&num=42&page=1)
