@@ -180,8 +180,6 @@ AWS
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
 * [Elastic IPs 연결하기](https://hjpco.wordpress.com/2017/05/30/aws-elastic-ips-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0/)
 * [RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
-* [5월 AWS 월간 세미나 | Deep Learning을 위한 AWS 기반 AI 서비스 (윤석찬 테크에반젤리스트)](https://www.youtube.com/watch?v=D3oa87-D1R8)
-  * [Deep Learning을 위한 AWS 기반 인공 지능(AI) 서비스 (윤석찬)](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
 * [Request Spot Instances 이용하기](https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
 * [AWS 비용 얼마까지 줄여봤니?](http://tosslab.github.io/backend/2017/07/18/aws_instance_scheduler.html)
@@ -305,6 +303,9 @@ AWS
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.slideshare.net/changhoonhyun/amazon-connect-outbound-call)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [Deep learning for cheap: Jupyter + AWS Spot](https://medium.com/@sdhnshu/pro-deep-learning-setup-at-90-off-e9e68f5e84ec)
+* [5월 AWS 월간 세미나 | Deep Learning을 위한 AWS 기반 AI 서비스 (윤석찬 테크에반젤리스트)](https://www.youtube.com/watch?v=D3oa87-D1R8)
+  * [Deep Learning을 위한 AWS 기반 인공 지능(AI) 서비스 (윤석찬)](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
+* [Building deep learning inference with AWS Lambda and Amazon EFS | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/building-deep-learning-inference-with-aws-lambda-and-amazon-efs/)
 * [How to build Authentication using Cosmic JS, Vue, and Lambda](https://hackernoon.com/how-to-build-authentication-using-cosmic-js-vue-and-lambda-e0e243d9b90b)
 * 레벨노가다 linux 스마트폰으로 리눅스를 공부하자
   * [(1) 아마존 AWS로 리눅스 컴퓨터 준비하기](https://medium.com/@lanoir42/%EB%A0%88%EB%B2%A8%EB%85%B8%EA%B0%80%EB%8B%A4-linux-%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EB%A5%BC-%EA%B3%B5%EB%B6%80%ED%95%98%EC%9E%90-1-%EC%95%84%EB%A7%88%EC%A1%B4-aws%EB%A1%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%A4%80%EB%B9%84%ED%95%98%EA%B8%B0-3c8173620c6a)
