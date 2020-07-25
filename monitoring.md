@@ -74,6 +74,7 @@ Monitoring
   * ~[Sentry 를 이용한 Node.js 에러 모니터링](https://dobest.io/nodejs-error-monitoring-with-sentry/)~
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [SkyWalking - Apache SkyWalking Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, K8s, Mesos) architectures](https://skywalking.apache.org/)
+* [squzy: Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.](https://github.com/squzy/squzy)
 * [Sushi - a tiny, simple hypervisor based monitoring tool detecting and stopping some of PatchGuard activities from Ring-1](https://github.com/tandasat/Sushi)
 * [sysdig](http://www.sysdig.org/)
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)
