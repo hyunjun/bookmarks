@@ -96,6 +96,7 @@ Shell
 * [Bash Infinity - a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
 * [Bash Quick References](https://shellmagic.xyz/)
 * [bashttpd - a simple, configurable web server written in bash](https://github.com/avleen/bashttpd)
+* [import - a simple and fast module system for Bash and other Unix shells](https://import.pw/)
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
   * [쉘 스크립트를 만드는 당신, ShellCheck을 써라!](http://blog.weirdx.io/post/43810/amp)
 * [Sherlock.py - transpiler that translate python to shell script language](https://github.com/Luavis/sherlock.py)
