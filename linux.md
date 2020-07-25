@@ -315,10 +315,12 @@ Linux
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
 * gzip
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
+  * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
 * nohup
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
 * history
   * `history -c` `history -d <line number>` [리눅스 history 지우기](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_history_%EC%A7%80%EC%9A%B0%EA%B8%B0)
+  * [How To : 리눅스에서 명령 사용 요약하기 - ITWorld Korea](http://www.itworld.co.kr/news/158396) HISTSIZE, HISTIGNORE
 * iconv
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
   * `iconv -f UTF-16LE -t UTF-8 <infile> > <outfile>` infile 형식이 `Little-endian UTF-16 Unicode text, with CRLF, CR line terminators`라 utf8로 바꾸는 경우
@@ -423,6 +425,7 @@ Linux
   * [bash 저장 SINGLE 줄에 따옴표로 묶인 파일 이름을 출력하는 방법은 무엇입니까?](https://src-bin.com/ko/q/5c2ffc) path에 space가 있어서 quotation을 추가하기 원할 때
   * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
   * [shell script 작성시 sed 치환패턴 문자열 escapse](https://bloodguy.tistory.com/entry/Linux-shell-script-%EC%9E%91%EC%84%B1%EC%8B%9C-sed-%EC%B9%98%ED%99%98%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-escapse)
+  * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
   * [리눅스 seq 명령어 사용법](https://www.snoopybox.co.kr/1680)
@@ -458,6 +461,9 @@ Linux
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
   * `stat -c%s <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
   * `stat /proc/<PID>` [How to find uptime of a linux process](https://superuser.com/questions/380520/how-to-find-uptime-of-a-linux-process)
+* `strace` debugging tool to trace system calls and signals
+  * [**마법의 도구 strace**](https://brunch.co.kr/@alden/12)
+  * [strace를 통해 젠킨스 트러블 슈팅 하기](https://brunch.co.kr/@alden/62)
 * `strip`
   * [10 Linux Strip Command Examples (Reduce Executable/Binary File Size)](http://www.thegeekstuff.com/2012/09/strip-command-examples/)
 * [sudo 패스워드 없이 사용하는 방법](https://kkamagui.tistory.com/910)
@@ -491,8 +497,9 @@ Linux
   * [telnet과 ssh가 어떻게 패킷을 날리는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/entry/telnet%EA%B3%BC-ssh%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%8C%A8%ED%82%B7%EC%9D%84-%EB%82%A0%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%8B%A4%EC%8A%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * `top`
   * [Can You Top This? 15 Practical Linux Top Command Examples](http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/)
-  * [iftop 설치, 실시간 트래픽 확인하기](https://ash84.net/2017/11/16/iftop-show-traffic/)
+  * [catching top waits – domas mituzas](https://dom.as/2020/07/06/catching-top-waits/)
   * [Guider – A System Wide Linux Performance Analyzer](https://www.tecmint.com/guider-a-system-wide-linux-performance-analyzer/)
+  * [iftop 설치, 실시간 트래픽 확인하기](https://ash84.net/2017/11/16/iftop-show-traffic/)
   * [top 명령어](https://johngrib.github.io/wiki/top/)
   * `top -H` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `top -H -p <PID>` [How to get the number of threads in a Java process](https://stackoverflow.com/questions/1922290/how-to-get-the-number-of-threads-in-a-java-process)
