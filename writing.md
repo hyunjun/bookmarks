@@ -87,6 +87,7 @@ Writing
 * [2019년 11월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-2.html) 튜토리얼과 하우투 문서의 차이점
 * [Code Documentation. That ugly thing...](https://www.slideshare.net/ChristosManios/code-documentation-that-ugly-thing)
 * [Most tech content is bullshit 기술 콘텐츠는 대체로 헛소리다](https://muchtrans.com/translations/most-tech-content-is-bullshit.ko.html)
+* [Top 29 Developer Docs - DEV](https://dev.to/pomber/top-29-developer-docs-44l0)
 * [API Improvement Proposals](https://aip.dev)
 * [Doxygen: Main Page](https://www.doxygen.nl)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
