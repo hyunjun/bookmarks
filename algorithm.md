@@ -232,6 +232,7 @@ Algorithm
 * [The 5 Fundamental Running Times in Computer Science](https://medium.com/cracking-the-data-science-interview/the-5-fundamental-running-times-in-computer-science-e6872c7a103)
 * [왜 유클리드 알고리즘 함수는 최악의 경우 O(log)일까?](https://codingdog.tistory.com/entry/%EC%99%9C-%EC%9C%A0%ED%81%B4%EB%A6%AC%EB%93%9C-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%95%A8%EC%88%98%EB%8A%94-%EC%B5%9C%EC%95%85%EC%9D%98-%EA%B2%BD%EC%9A%B0-Olog%EC%9D%BC%EA%B9%8C)
 * [#5 How To Calculate Time Complexity Example 1| Designed To Crack Interviews | By LinkedIn Engineer - YouTube](https://www.youtube.com/watch?v=ZfhUL5ZKWMg)
+* [파이썬 자료형 별 주요 연산자의 시간 복잡도 (Big-O) · 초보몽키의 개발공부로그](https://wayhome25.github.io/python/2017/06/14/time-complexity/)
 
 ## Space Complexity
 
