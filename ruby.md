@@ -49,6 +49,7 @@ Ruby
 * [Add badges for TravisCI, Coveralls and Code Climate to your Readme (Ruby)](https://medium.com/the-code-review/add-badges-for-travisci-coveralls-and-code-climate-to-your-readme-ruby-6d27caad74ed)
 * [RuboCop your Ruby: enable, disable and configure your linter checks](https://medium.com/the-code-review/rubocop-enable-disable-and-configure-linter-checks-for-your-ruby-code-475fbf11046a)
 * [How to Fix Slow Code in Ruby](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby)
+* [**What causes Ruby memory bloat? – Joyful Bikeshedding**](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
