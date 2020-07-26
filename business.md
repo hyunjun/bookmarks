@@ -241,6 +241,7 @@ Business
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
 * [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
+* [MSA구조에서의 기획자의 역할](https://brunch.co.kr/@windydog/347)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
