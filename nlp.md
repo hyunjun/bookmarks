@@ -882,6 +882,7 @@ NLP
   * [python-mecab - A repository to bind mecab for Python 3.5+. Not using swig nor pybind. https://pypi.org/project/python-mecab ](https://github.com/jeongukjae/python-mecab)
 * [Memory Networks](https://github.com/facebook/MemNN)
 * [mit-nlp](https://github.com/mit-nlp)
+* [name2nat: a Python package for nationality prediction from a name](https://github.com/Kyubyong/name2nat)
 * [NGT - Neighborhood Graph and Tree for Indexing High-dimensional Data](https://github.com/yahoojapan/NGT/blob/master/README.md)
   * word embeddings와 같은 고차원 데이터에서 k nearest item을 근사적으로 빠르게 찾는 라이브러리
   * annoy와 비슷하지만 graph tree 기반 indexing
