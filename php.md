@@ -43,6 +43,7 @@ PHP
 * [PHP5.6 사용기. - 완두블로그](https://wani.kr/posts/2014/02/07/php56-changes/)
 * [PHP 7 — Getting Started and OOP Improvements](https://www.infoq.com/articles/php7-getting-started/)
 * [Why We Don't Hate PHP | Operator by Hologram](https://www.hologram.io/blog/why-we-dont-hate-php)
+* [PHP, jQuery 환경에서 Vue.js 2로 점진적 전환하기 | by Ran | kmong | Jul, 2020 | Medium](https://medium.com/kmong/php-jquery-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-vue-js-2%EB%A1%9C-%EC%A0%90%EC%A7%84%EC%A0%81-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-bd121b1d7502)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
