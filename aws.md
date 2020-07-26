@@ -576,6 +576,7 @@ AWS
 * [AWS EC2에서 django를 사용해보자!](https://blog.naver.com/nanotoly/222012440576)
 * [Amazon Linux 2를 실행하는 Amazon EC2 인스턴스에 그래픽 사용자 인터페이스(GUI) 설치](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-linux-2-install-gui/)
 * [EC2 키 분실 후 대응 방법](https://jhrogue.blogspot.com/2020/07/5-ec2.html)
+* [AWS EC2의 Timezone KST로 변경하기 (Amazon Linux 1)](https://jojoldu.tistory.com/513)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
