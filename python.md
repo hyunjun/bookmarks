@@ -1392,6 +1392,7 @@ Python
 * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
 * [파이썬 코드에서 중간에 콘솔 띄우는 디버깅](http://mkseo.pe.kr/blog/?p=2694) `import code; a = 3; code.interact(local=locals())`
 * [LA오빠 즐거운 Data Science - 코딩효율 2x 늘리기 팁 1탄](https://www.youtube.com/watch?v=lGrQJvDRxRw) PDB, VS Code, Jupyter
+* [Pit Stop for Software Maintenance | Pega Devlog](https://jehyunlee.github.io/2020/07/26/Python-General-6_pitstop/)
 * [Elizaveta Shashkova - Debugging in Python 3.6: Better, Faster, Stronger](https://www.youtube.com/watch?v=sAvOZlbh9mQ)
   * [PEP 523 Experiments](https://github.com/elizaveta239/frame-eval)
 * PyConKr 2018 [**GDB와 strace로 Hang 걸린 Python Process 원격 디버깅**](https://www.slideshare.net/kym970918/gdb-strace-hang-python-process-110423511)
