@@ -1044,6 +1044,7 @@ Scala
   * [The Type Astronaut's Guide to Shapeless—Dave Gurnell](https://www.youtube.com/watch?v=Zt6LjUnOcFQ)
   * [The Shape(less) of Type Class Derivation in Scala 3](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/20/)
   * [How (not) to use shapeless for cross-layer conversions in Scala](https://blog.softwaremill.com/how-not-to-use-shapeless-for-cross-layer-conversions-in-scala-9ac36363aed9)
+  * [Seriously Good Software Ch 3 Exercise 3 (with cats and shapeless)](https://gist.github.com/sungkmi/0d2cb8686d7f6170eec0a216eb776301) state monad version
 * [Skinny-ORM](http://skinny-framework.org/)
 * [slick - Functional Relational Mapping for Scala](http://slick.lightbend.com/)
   * [scala-slick.org](https://scala-slick.org/)
