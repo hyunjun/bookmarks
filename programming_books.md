@@ -1013,6 +1013,7 @@ Programming Books
 * [엔지니어를 위한 데이터 시각화 : D3.js로 배우는 데이터 시각화 이론과 12가지 사례](http://www.hanbit.co.kr/store/books/look.php?p_code=B1155848153)
   * 탐라 005.133 모239ㅇ
   * 데이터 시각화의 기초가 7/10, coffee script, D3.js 기초, 사례 연구 각 한 chapter씩. 즉 이론서에 조금 더 가까움
+* (NOT YET) [<코어 자바스크립트> - 정재남 지음](http://greentec.egloos.com/4453678)
 
 ## Angular
 
