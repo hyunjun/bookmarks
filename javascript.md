@@ -592,6 +592,7 @@ Javascript
 * [Types-First: A Scalable New Architecture for Flow](https://medium.com/flow-type/types-first-a-scalable-new-architecture-for-flow-3d8c7ba1d4eb)
 * [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [유용한 JavaScript 코딩 기법들](https://blog.ull.im/engineering/2019/06/10/some-of-useful-javascript-trick.html)
+* [이벤트 핸들러를 대하는 개발자의 자세](https://blog.shiren.dev/2020-07-27-1/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -2684,6 +2685,7 @@ Javascript
   * [Recoil 시작하기](https://alstn2468.github.io/React/2020-05-15-Recoil/)
   * [RecoilJS is meant to rock your React world](https://mariosfakiolas.com/blog/recoiljs-is-meant-to-rock-your-react-world/)
   * [Recoil 레시피: 소개 - 코드쓰는사람](https://taegon.kim/archives/10105)
+  * [Recoil 레시피: 비동기 액션 - 코드쓰는사람](https://taegon.kim/archives/10125)
   * [Recoil 비동기 처리 + 테스트 코드 작성 방법 | imch.dev](https://imch.dev/posts/tips-for-recoil-to-process-async-and-write-test-code)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
