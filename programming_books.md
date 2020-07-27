@@ -1014,6 +1014,7 @@ Programming Books
   * 탐라 005.133 모239ㅇ
   * 데이터 시각화의 기초가 7/10, coffee script, D3.js 기초, 사례 연구 각 한 chapter씩. 즉 이론서에 조금 더 가까움
 * (NOT YET) [<코어 자바스크립트> - 정재남 지음](http://greentec.egloos.com/4453678)
+* (NOT YET) [SNS 앱 예제로 배우는 프로그레시브 웹 앱 - YES24](http://www.yes24.com/Product/Goods/91360603)
 
 ## Angular
 
