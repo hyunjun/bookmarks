@@ -392,7 +392,7 @@ Programming
 * [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
 * [7 Apps You Can Definitely Build With These Free APIs](https://medium.com/better-programming/7-apps-you-can-definitely-build-with-these-free-apis-6d30124527fc)
 * [A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)
-* [unofficial-apis - A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
+* [API 이코노미를 살펴본다 (1) 최근 기술 및 사업화 동향 :: Channy's Blog](http://channy.creation.net/blog/1371)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
@@ -403,6 +403,7 @@ Programming
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
 * [Public APIs - A collective list of free APIs for use in software and web development. https://ultimatecourses.com ](https://github.com/public-apis/public-apis)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
+* [unofficial-apis - A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 
 # Architecture, Modelling, Layer, Framework, ...
@@ -828,6 +829,7 @@ Programming
 * [Azar Mirror 서버 제작기 3편 - 개발자편 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/01/azar-mirror-3.html)
 * [Microservice.add(observability) != Microservice.add(monitoring) | Hacker Noon](https://hackernoon.com/microserviceaddobservability-microserviceaddmonitoring-40m3yk5)
 * [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://www.joinc.co.kr/w/man/12/msaPayco)
+* [Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog](https://eng.uber.com/microservice-architecture/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1895,6 +1897,7 @@ Programming
 * [2020년 7월 11일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-11.html) 현대적인 자바스크립트 튜토리얼, 파이썬 웹 클라이언트 프로그램, 구글 웹 성능 개선 방안, git -m multiline commit message
   * [(07/11) 과연 리눅스 창시자인 리누스 토발자는 요즘 코딩을 할까 하지 않을까? - YouTube](https://www.youtube.com/watch?v=Xrk-ET1KDK4)
 * [2020년 7월 19일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-19.html) Deno vs Node, Pigz – 병렬 Gzip, C++ 인기 라이브러리 8선, Github Profile Readme, 파이썬 알고리즘 인터뷰 책
+* [2020년 7월 25일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-26.html) 애자일, 프론트엔드 인터뷰 핸드북, UI 디자인, GPT-3 React 앱, 깃허브도 멈추게 만든 auto incremental PK
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
