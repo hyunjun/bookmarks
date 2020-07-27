@@ -195,6 +195,7 @@ Machine Learning
 * [Machine-Learning Algorithm Calculates Fair Distance for a Race Between Usain Bolt and Long-Distance Runner Mo Farah](http://www.technologyreview.com/view/537496/machine-learning-algorithm-calculates-fair-distance-for-a-race-between-usain-bolt-and/)
 * [Some Studies in Machine Learning Using the Game of Checkers](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.368.2254&rep=rep1&type=pdf)
 * [How to Evaluate Machine Learning Models, Part 4: Hyperparameter Tuning](http://blog.dato.com/how-to-evaluate-machine-learning-models-part-4-hyperparameter-tuning)
+* [How to Build a Machine Learning Model | by Chanin Nantasenamat | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-build-a-machine-learning-model-439ab8fb3fb1)
 * [A Global Optimization Algorithm Worth Using](http://blog.dlib.net/2017/12/a-global-optimization-algorithm-worth.html)
   * Global minimum을 찾기 위한 Hyperparmeter를 정하는 방법 5가지의 C++ library, python api
   * Guess and Check, Grid Search, Random Search, Bayesian Optimization, Local Optimization With a Good Initial Guess
