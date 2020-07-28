@@ -1187,6 +1187,7 @@ NLP
 * [Run your own Q&A Platforms like Stackoverflow or Quora with Open Source Projects for free!](https://www.youtube.com/watch?v=9VOA0PgeemI)
 * [7 open source Q&A platforms](https://opensource.com/article/20/2/open-source-qa)
 * [QA Search Engine: Amazon Kendra, Canada project, Talk to Books, etc](https://www.youtube.com/watch?v=-SrjxUVWiLo)
+* [정답 유형을 분류하는 딥러닝 기술](https://tech.kakaoenterprise.com/64)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
