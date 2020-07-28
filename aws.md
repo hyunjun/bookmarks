@@ -16,14 +16,6 @@ AWS
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
 * [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
-* [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
-* [AWS Amplify와 React로 어플리케이션 만들기](https://jason0853.github.io/aws/getting-started-with-aws-amplify-and-react/)
-* [Amplify Hands-on](https://docs.google.com/presentation/d/1msxmDS03cLSIwirmEWqBv6S7bUB5ojgQUcJKjVcJnR0/mobilepresent)
-* [Amplify CLI에서 로컬 모의 동작 및 테스트 기능 사용해 보기](https://aws.amazon.com/ko/blogs/korea/new-local-mocking-and-testing-with-the-amplify-cli/)
-* [Amplify Framework 업데이트 – 인공 지능 서비스 기능 추가](https://aws.amazon.com/ko/blogs/korea/amplify-framework-update-quickly-add-machine-learning-capabilities-to-your-web-and-mobile-apps/)
-* [AWS 입문 AWS Amplify + Android 프로젝트 생성하기](https://dev.classmethod.jp/articles/amplify_android_tutorial/)
-* [AWS 입문 AWS Amplify + Android – Amazon Cognito 인증 추가해보기](https://dev.classmethod.jp/articles/amplify-android-cognito-auth/)
-* [AWS 입문 AWS Amplify + Android – GraphQL API 추가해보기 | Developers.IO](https://dev.classmethod.jp/articles/amplify-android-graphql-api)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
 * [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
@@ -412,6 +404,17 @@ AWS
 * [AWS EC2 리눅스 AMI에 아파치(apache) 서버](https://losskatsu.github.io/it-infra/aws-apache/)
 * [An error occurred (InvalidParameter) when calling the ExportImage operation: The service role vmimport provided does not exist or does not have sufficient permissions](https://jybaek.tistory.com/836)
 
+# Amplify
+* [AWS Amplify를 이용한 Android 앱 개발 실습 – 1부](https://aws.amazon.com/ko/blogs/korea/building-an-android-app-with-aws-amplify-part-1/)
+* [AWS Amplify와 React로 어플리케이션 만들기](https://jason0853.github.io/aws/getting-started-with-aws-amplify-and-react/)
+* [Amplify Hands-on](https://docs.google.com/presentation/d/1msxmDS03cLSIwirmEWqBv6S7bUB5ojgQUcJKjVcJnR0/mobilepresent)
+* [Amplify CLI에서 로컬 모의 동작 및 테스트 기능 사용해 보기](https://aws.amazon.com/ko/blogs/korea/new-local-mocking-and-testing-with-the-amplify-cli/)
+* [Amplify Framework 업데이트 – 인공 지능 서비스 기능 추가](https://aws.amazon.com/ko/blogs/korea/amplify-framework-update-quickly-add-machine-learning-capabilities-to-your-web-and-mobile-apps/)
+* [AWS 입문 AWS Amplify + Android 프로젝트 생성하기](https://dev.classmethod.jp/articles/amplify_android_tutorial/)
+* [AWS 입문 AWS Amplify + Android – Amazon Cognito 인증 추가해보기](https://dev.classmethod.jp/articles/amplify-android-cognito-auth/)
+* [AWS 입문 AWS Amplify + Android – GraphQL API 추가해보기 | Developers.IO](https://dev.classmethod.jp/articles/amplify-android-graphql-api)
+* [AWS Amplify 노하우 시리즈 포스팅을 공개합니다! #aws #amplify | Developers.IO](https://dev.classmethod.jp/articles/amplify-tips-series-korean/)
+
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
 * [BigData SQL Query Engine benchmark](http://bytes.schibsted.com/bigdata-sql-query-engine-benchmark/)
@@ -758,6 +761,7 @@ AWS
   * [**AWS를 만드는 AWS, CloudFormation**](https://www.huskyhoochu.com/introduce-cloudformation)
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
   * [Serverless with IAC - terraform과 cloudformation 비교](https://www.slideshare.net/wesky93/serverless-with-iac-terraform-cloudformation)
+  * [Deploy AWS CloudFormation stacks with GitHub Actions | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
