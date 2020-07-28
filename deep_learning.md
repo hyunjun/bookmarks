@@ -80,6 +80,7 @@ Deep Learning
 * [DeepLearning-Summary](https://github.com/taki0112/Awesome-DeepLearning-Study)
 * [awesome-network-embedding](https://github.com/chihming/awesome-network-embedding)
 * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
+* [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 * [Deep Learning - 2016년 8월부터 딥러닝공부를 하면서 봤던 강의영상, 동영상, 블로그들의 목록입니다](https://github.com/GunhoChoi/Deep_Learning_Collection)
 * [digest.deeplearningweekly.com](http://digest.deeplearningweekly.com/)
 * [Top Deep Learning Projects](https://github.com/hunkim/DeepLearningStars)
