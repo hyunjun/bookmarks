@@ -18,7 +18,7 @@ Self Control
 * [인생은 경주가 아니다](http://ppss.kr/archives/23996)
 * [직업적 성취는 당신을 행복하게 만들어 주지 않습니다](http://ppss.kr/archives/48629)
 * [노력은 재능을 이길 수 없다](http://www.huffingtonpost.kr/wonseok-lee/story_b_7683792.html)
-* [범재가 천재에게 안 꿀리고 더 오래 살아남는 법](https://drive.google.com/open?id=1b4vXBDB-8qwDedwVkB_mzMoJR7fnNDbn)
+* [범재가 천재에게 안 꿀리고 더 오래 살아남는 법](https://drive.google.com/open?id=1b4vXBDB-8qwDedwVkB_mzMoJR7fnNDbn)
 * [시간을 최대화 하는 3가지 전략](http://ppss.kr/archives/48452)
 * [시간을 효율적으로 관리하는 법](http://ppss.kr/archives/52698)
 * [삶의 궁극적 목적을 찾아 헤매지 마세요](http://ppss.kr/archives/48575)
