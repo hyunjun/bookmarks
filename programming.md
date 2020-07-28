@@ -830,6 +830,7 @@ Programming
 * [Microservice.add(observability) != Microservice.add(monitoring) | Hacker Noon](https://hackernoon.com/microserviceaddobservability-microserviceaddmonitoring-40m3yk5)
 * [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://www.joinc.co.kr/w/man/12/msaPayco)
 * [Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog](https://eng.uber.com/microservice-architecture/)
+* [**API 이코노미를 살펴보다(2) 마이크로서비스 시대 API :: Channy's Blog**](http://channy.creation.net/blog/1382)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -944,6 +945,8 @@ Programming
 * [알리바바 클라우드 SDK 설치 및 계정연동](https://jybaek.tistory.com/849)
 * [Rancher에서 Alibaba ACK 활성화 하기](https://jybaek.tistory.com/850)
 * [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](http://channy.creation.net/blog/1255)
+* [‘빅3’ 클라우드, 2020 상반기 투자 동향 | 슬로우뉴스](https://slownews.kr/76839)
+* [레드햇 vs. VM웨어: 2020 상반기 하이브리드·멀티 클라우드 동향 | 슬로우뉴스](https://slownews.kr/77138)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
