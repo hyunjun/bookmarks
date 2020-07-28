@@ -1004,6 +1004,7 @@ Programming Books
 * (NOT YET) [그레이들 - 문법과 구조에서 활용까지 빌드의 모든 것](https://freelec.co.kr/book/%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
+* (NOT YET) [알라딘: 자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
 
 # JavaScript
 
