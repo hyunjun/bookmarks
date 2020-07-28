@@ -502,6 +502,7 @@ Git
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
+  * [git - reflog - YouTube](https://www.youtube.com/watch?v=1OihCn5BoT4)
 * remote
   * 이미 존재하는 project를 fork한 후 pull request를 위해 원래 repository와 연결
 
