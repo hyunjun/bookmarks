@@ -419,6 +419,7 @@ SQL
 * [Charset and Collation Settings Impact on MySQL Performance - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/27/charset-and-collation-settings-impact-on-mysql-performance/)
 * [Mysql objects 개념 정리 for 개발자](https://stricky.tistory.com/315)
 * [MySQL – Keep an eye on your auto_increment values – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-keep-an-eye-on-your-auto_increment-values/)
+* [Mysql FEDERATED Engine 으로 dblink 구현하기](https://stricky.tistory.com/325)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -466,6 +467,7 @@ SQL
 * [proxysql.com](https://proxysql.com/)
 
 # Oracle
+* [오라클 중복레코드삭제 다양한 방법들 - YouTube](https://www.youtube.com/watch?v=3XZiBjFOSAs)
 * examples
   * [practice - oracle queries](https://gist.github.com/hyunjun/20ed3f7d381fadc17dbe)
 * Pro\*C
@@ -624,6 +626,7 @@ SQL
 * [MySQL data dictionary SQL 독학 강의#22편](https://stricky.tistory.com/296)
 * [mysql 제약조건 알아보기 SQL 독학 강의#23편](https://stricky.tistory.com/308)
 * [index 의 중요성과 이해 SQL 독학 강의#24편](https://stricky.tistory.com/310)
+* [view 뷰에 대한 이해 SQL 독학 강의#25편](https://stricky.tistory.com/323)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
 
 ## Query, SQL Join
