@@ -252,6 +252,7 @@ Data Visualization
 * [파이썬 데이터 분석 실습 - 코로나바이러스 미국편 1부 (Python Data Analysis with COVID-19/Corona virus data in USA)](https://www.youtube.com/watch?v=FLLajW8MBm0)
 * [파이썬 데이터 분석 실습 - 코로나바이러스 미국편 2/2 (Python Data Analysis with COVID-19/Corona virus data in USA 2/2)](https://www.youtube.com/watch?v=GIZOiNIpEO4)
 * [그 동네, 자취하기 좋은지 점수 매겨 드립니다](https://data101.oopy.io/30cfd352-3ec6-489f-9c46-a9a4fafdfc25)
+* [Top 6 Python Libraries for Visualization: Which one to Use? | by Khuyen Tran | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
