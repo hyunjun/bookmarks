@@ -31,6 +31,7 @@ Julia
 * [Julia founders commercialise language, create new startup](http://economictimes.indiatimes.com/articleshow/47211869.cms)
 * [Shelling Out Sucks](http://julialang.org/blog/2012/03/shelling-out-sucks/)
 * [JuliaCon](http://juliacon.org/)
+  * [The Julia Programming Language - YouTube](https://www.youtube.com/channel/UC9IuUwwE2xdjQUT_LMLONoA)
   * [Meet the Julians](http://bit-player.org/2015/meet-the-julians)
   * [The 6th annual JuliaCon 2019 (Baltimore)](https://www.youtube.com/playlist?list=PLP8iPy9hna6StY9tIJIUN3F_co9A0zh0H)
   * [JuliaCon 2019 | Keynote: Professor Madeleine Udell](https://www.youtube.com/watch?v=BjMgo3liDZ8)
