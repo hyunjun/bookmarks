@@ -1187,6 +1187,7 @@ App
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
+  * [practice - windows10 & WSL2](https://gist.github.com/hyunjun/cf2af70a460bf00fa5997dea80308b28)
   * [Awesome WSL - Windows Subsystem for Linux](https://github.com/sirredbeard/Awesome-WSL)
   * [Windows 10에서 리눅스용 프로그램 설치하고 실행하기](https://medium.com/@rkttu/windows-10%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9A%A9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%84%A4%EC%B9%98%ED%95%98%EA%B3%A0-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0-2cb0d7892d12)
   * [WSL(Windows Subsystem for Linux) 사용기 및 ArchLinux로의 전환](https://tech.ssut.me/2017/10/20/install-archlinux-on-windows-subsystem-for-linux/)
