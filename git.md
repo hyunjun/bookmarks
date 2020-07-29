@@ -219,6 +219,7 @@ Git
 * [비슷하지만 꼭 구별해야하는 Git 커맨드 (git fetch vs git pull, git merge vs git rebase)](https://blog.naver.com/codeitofficial/221948794594)
 * [Git가지고 놀기(3) - 파일 영원히 지우기. - 완두블로그](https://wani.kr/posts/2015/02/02/git-3-remove-file-forever/)
 * [Improve your Git skill by learning Git Commands that everyone should really know](https://medium.com/@bryantjiminson/improve-your-git-skill-by-learning-git-commands-that-everyone-should-really-know-706972a70c4f)
+* [Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종료, 단축 명령어 Alias 설정, 터미널 커맨드라인): 네이버블로그](http://blog.naver.com/jdusans/222043705693)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
