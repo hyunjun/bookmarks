@@ -831,6 +831,7 @@ Programming
 * [PAYCO 쇼핑 마이크로서비스 아키텍처 전환기](https://www.joinc.co.kr/w/man/12/msaPayco)
 * [Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog](https://eng.uber.com/microservice-architecture/)
 * [**API 이코노미를 살펴보다(2) 마이크로서비스 시대 API :: Channy's Blog**](http://channy.creation.net/blog/1382)
+* [API 이코노미를 살펴보다 (3) 국내 API 활용 현황 및 제언 :: Channy's Blog](http://channy.creation.net/blog/1388)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
