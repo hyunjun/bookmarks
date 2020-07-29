@@ -739,6 +739,7 @@ Deep Learning
 * [갈아먹는 딥러닝 기초 1 Activation Function(활성화 함수) 종류](https://yeomko.tistory.com/39)
 * [갈아먹는 딥러닝 기초 2 weight initialization](https://yeomko.tistory.com/40)
 * [Supervised learning을 시작으로 누구나 쉽게 인공지능(AI)을 이해할 수 있다는 사실 알고 계시나요?](https://blog.naver.com/wacanycorp/221884110863)
+* [Guest Lecture - Jai Ranganathan - Full Stack Deep Learning - August 2018 - YouTube](https://www.youtube.com/watch?v=8PjTWFfjkeY)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
