@@ -214,6 +214,7 @@ Android
 * [25 new Android libraries and projects to check at the beginning of 2018](https://proandroiddev.com/25-new-android-libraries-and-projects-to-check-at-the-beginning-of-2018-ba3b422bbbb4)
 * [Announcing the Java & Kotlin client library for Actions on Google](https://medium.com/google-developers/announcing-the-java-kotlin-client-library-for-actions-on-google-217828dead)
 * [Android 2018 용 산타 트래커의 소스 코드 공개합니다](https://developers-kr.googleblog.com/2019/04/google-releases-source-code-of-santa.html)
+* [Animation Drawable 이용해서 애니메이션 Android에서 구현하기](https://developer88.tistory.com/237)
 * [Android-x86 Project - Run Android on Your PC](http://www.android-x86.org/)
 * [Anko - Pleasant Android application development](https://github.com/JetBrains/anko)
 * Appium
