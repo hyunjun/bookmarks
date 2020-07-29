@@ -2837,6 +2837,7 @@ Python
   * [A Demo of tqdm](https://www.youtube.com/watch?v=TGxP5N7nG0I)
 * [Tesseract-OCR](https://github.com/tesseract-ocr/)
   * [문자인식 오픈소스 Tesseract-OCR, python wrapper tesserocr 설치](https://blog.naver.com/pgh7092/221099597471)
+  * [파이썬 Python 코딩 #14 - tesseract OCR 이미지에서 텍스트 추출 - YouTube](https://www.youtube.com/watch?v=rNxMwtottmM)
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [transitions - A lightweight, object-oriented finite state machine implementation in Python with many extensions](https://github.com/pytransitions/transitions)
