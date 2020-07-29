@@ -855,6 +855,7 @@ App
   * [OpenStack Instance auto provisioning with Ansible](http://naleejang.tistory.com/207)
   * [Puppet Vs Ansible](https://www.devopsgroup.com/2018/01/10/puppet-vs-ansible)
   * [클라우드 시대를 위한 Ansible](https://www.slideshare.net/charsyam2/ansible-185655090)
+* [Powerlevel10k로 zsh 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1490)
 * Screen Recorder
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다](http://macnews.tistory.com/2215)
