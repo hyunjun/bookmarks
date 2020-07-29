@@ -1124,6 +1124,7 @@ NLP
 * [EMNLP-IJCNLP 2019 프리뷰](https://blog.pingpong.us/emnlp2019-preview)
 * [Paper Digest: EMNLP 2019 Highlights](https://www.paperdigest.org/2019/11/emnlp-2019-highlights)
 * [핑퐁팀 ML 세미나, 그 네번째](https://blog.pingpong.us/ml-seminar-season-4/)
+* [핑퐁팀 ML 세미나, 그 다섯 번째 – 핑퐁팀 블로그](https://blog.pingpong.us/ml-seminar-season-5/)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
