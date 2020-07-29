@@ -91,6 +91,7 @@ Network
 * [The HTTP headers you don't expect](https://frenxi.com/http-headers-you-dont-expect/)
 * [HTTP 정리](https://medium.com/@rlatla626/http-%EC%A0%95%EB%A6%AC-3958d2a82312)
 * [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1 • Captain Pangyo](https://joshua1988.github.io/web-development/http-part1/)
+* [팀 버너스리가 HTTP 프로토콜을 만든 이유 – Thinker Blog](https://thinker94.com/ko/posts/bernerslee_first_http_translate/)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
