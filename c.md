@@ -159,6 +159,7 @@ C
 * [C언어 예제 디지털 시계 만들기 예제 Center](https://www.youtube.com/watch?v=FzMHurNF7W8)
 * [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 * [C - Mac에서 C Programming하는 방법 : 네이버블로그](https://blog.naver.com/scw0531/222028905378) xcode
+* [3차원 도넛을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/07/5-3.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
