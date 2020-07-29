@@ -185,6 +185,8 @@ Web
 * [Timeout에 관한 정리](https://effectivesquid.tistory.com/entry/Timeout%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [풀스택 개발자, 그것은 환상](https://velog.io/@zetlos/2019-12-29-0612-%EC%9E%91%EC%84%B1%EB%90%A8-o0k4q3qrqh)
+* [LINE MANGA: Page Stack을 이용해서 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-manga-smooth-page-transition-with-page-stack/)
+* [개선된 페이지 스택으로 LINE 증권의 웹 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-2/)
 
 # Apache
 * installation
