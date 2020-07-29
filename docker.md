@@ -804,6 +804,7 @@ Docker
 * [Why Not Use Kubernetes?](https://medium.com/better-programming/why-not-use-kubernetes-52a89ada5e22)
 * [EKS K8s에서 ELB(ALB, NLB) 제대로 사용하기](https://velog.io/@ausg/eks-k8s-elb)
 * [Kubernetes에 Microservice 배포하기 1편 - 클릭 몇 번으로 배포 시스템 만들기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/06/13/microsrv-deploy-1.html)
+* [Kubernetes에 Microservice 배포하기 2편 - Pipeline 복제하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/04/microsrv-deploy-2.html)
 * [Docker and Kubernetes — root vs. privileged - ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
 * [What’s up with the Kubernetes ecosystem – Blocks and Files](https://blocksandfiles.com/2020/07/09/kubernetes-ecosystem-analysis)
 * [Docker and Kubernetes — root vs. privileged | by Bryant Hagadorn | Jun, 2020 | ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
