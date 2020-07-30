@@ -252,9 +252,7 @@ Clojure
 * [Java arrays and unchecked math](http://clojure-goes-fast.com/blog/java-arrays-and-unchecked-math)
 * [example - 게임 상태 관리 예](https://groups.google.com/forum/#!topic/clojure-kr/u3RKn-PkQBg)
 * [함수형 프로그래밍 언어에 대한 고찰](https://engineering.linecorp.com/ko/blog/detail/244)
-* [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
 * [Reasoned Schemer for Clojure](https://github.com/philoskim/reasoned-schemer-for-clojure)
-* [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 * [Clojure/ClojureScript Boot literate programming template](https://maximgb.github.io/clojure-boot-literate)
 * [개발 환경 설정](https://github.com/clojure-kr/clojure-complete/blob/master/Development-Environments/development-environments.adoc)
 * [nil punning](https://gist.github.com/philoskim/f4ab7ae21b5bf76def85ad61855fb9bf#nil-punning)
@@ -365,6 +363,11 @@ Clojure
 * test
   * [클로저의 test.check로 하는 강력한 테스팅](https://github.com/hatemogi/test-check-sample)
   * [TDD in ClojureScript](https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html)
+  * [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
+  * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
+  * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
+  * [kamera: UI testing via image comparison and devcards](https://github.com/oliyh/kamera)
+  * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 
 # Book
 * [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
@@ -429,7 +432,7 @@ Clojure
 * [Up and running with ClojureScript in 2018](https://hackernoon.com/up-and-running-with-clojurescript-in-2018-7c7a1facfe46)
 * [Taming Advanced Compilation bugs in ClojureScript projects - /dev/solita](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 
-## Library
+## ClojureScript Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
 * [Catalysis - Full stack (+ clj cljs reagent datomic datascript datsync) web development](https://github.com/metasoarous/catalysis)
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
@@ -597,7 +600,6 @@ Clojure
       3. core.async의 채널을 리턴하는 방식
   * [async-compojure-example](https://github.com/eunmin/async-compojure-example)
 * [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
-* [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [crux - open source document database with bitemporal graph queries](https://juxt.pro/crux/index.html)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
@@ -745,7 +747,6 @@ Clojure
 * [spectomic - Generate Datomic or Datascript schema from your Clojure(script) specs](https://github.com/Provisdom/spectomic)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
-* [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 * [supdate - a small Clojure/ClojureScript library for transforming nested data structures](https://vvvvalvalval.github.io/supdate)
 * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
