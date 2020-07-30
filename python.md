@@ -385,6 +385,7 @@ Python
 * [Introduction to Streaming Algorithms](https://towardsdatascience.com/introduction-to-streaming-algorithms-b71808de6d29)
 * [Python | Create a QR Code with your data using Python (5 lines of code) - YouTube](https://www.youtube.com/watch?v=1GpPl_EdhWY)
 * [How to build HANGMAN with Python in 10 MINUTES - YouTube](https://www.youtube.com/watch?v=m4nEnsavl6w)
+* [파이썬 초보에서 중수가 되기 위한 9가지 스킬](https://lazymatlab.tistory.com/92)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
