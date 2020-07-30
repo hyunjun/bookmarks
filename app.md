@@ -259,7 +259,9 @@ App
   * [오늘 부터 나도 github.io 블로그 운영자다!! | github pages , goormide, hexo](https://www.youtube.com/watch?v=8uRgIwgumqA)
   * [github 블로그로 딱!! 필요한 만큼만 배우는 초 초 초 간단!! markdown과 vim !! 사용법!!](https://www.youtube.com/watch?v=pHaBt4JzfVU)
   * [How to host a free webpage in less than 1 minute with GitHub Page | by Bryant Jimin Son | Jul, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-host-a-free-webpage-in-less-than-1-minute-with-github-page-a2b99d2dc903)
-  * Docsify [Make awesome looking documentation site with an open source Docsify and GitHub Page - YouTube](https://www.youtube.com/watch?v=ccA2ecqKyHo)
+  * Docsify
+    * [Make awesome looking documentation site with an open source Docsify and GitHub Page - YouTube](https://www.youtube.com/watch?v=ccA2ecqKyHo)
+    * [How to create a documentation site with Docsify and GitHub Pages | Opensource.com](https://opensource.com/article/20/7/docsify-github-pages)
 * [github.com/Glavin001/GitLab-Pages](https://github.com/Glavin001/GitLab-Pages)
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
