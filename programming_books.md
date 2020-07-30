@@ -788,6 +788,8 @@ Programming Books
 * (NOT YET) [밑바닥부터 시작하는 비트코인](http://www.hanbit.co.kr/store/books/look.php?p_code=B2663064363)
 * (NOT YET) [누구나 할 수 있다. 비트코인 자동 매매](https://pystock.net/2) PyQt, scraping
 * (NOT YET) [역서출간 핸즈온 머신러닝 딥러닝 알고리즘 트레이딩](https://brunch.co.kr/@gauss92tgrd/9)
+* [파이썬 증권 데이터 분석](http://hanbit.co.kr/store/books/look.php?p_code=B7026921929)
+  * [StockAnalysisInPython](https://github.com/INVESTAR/StockAnalysisInPython)
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
