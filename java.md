@@ -286,6 +286,8 @@ Java
 * [BIOJAVA:COOKBOOK4.0](http://biojava.org/wikis/BioJava:CookBook4.0/)
 * [Top 10 Java Books for Programmers — All time Great](https://medium.com/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
 * [Must-read books to learn Java programming](https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f)
+* [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
+  * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 
 # Concurrency Parallel Thread
 * [Java Concurrency Utilities](java.util.concurrent - Java Concurrency Utilities)
