@@ -156,6 +156,8 @@ Julia
 * [GLVisualize - 3D visualization library](http://www.glvisualize.com/)
 * [**Juno is a powerful, free environment for the Julia language**](http://junolab.org/)
 * [JuliaDT - Introducing the Eclipse Julia plugin - JuliaDT](http://juliacomputing.com/blog/2016/02/06/Eclipse-JuliaDT.html)
+* [Julia for VSCode](https://www.julia-vscode.org)
+  * [JuliaCon 2020 | J̵u̵n̵o̵ ̵1̵.̵0̵ VSCode for Julia 1.0 | Sebastian P., Shuhei K., David A. - YouTube](https://www.youtube.com/watch?v=rQ7D1lXt3GM)
 * [JuliaML](https://github.com/JuliaML)
   * [breloff.com/blog](http://www.breloff.com/blog/)
 * [JuliaOpt - Optimization packages for the Julia language](http://www.juliaopt.org/)
