@@ -369,6 +369,7 @@ Programming
 * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
 * [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
+* [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
