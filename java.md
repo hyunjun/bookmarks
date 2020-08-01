@@ -716,6 +716,7 @@ Java
   * [#6-Spring Boot에서 Zipkin을 이용한 분산 시스템 로깅](https://bcho.tistory.com/1319)
   * [#7-스택드라이버로 로그 백앤드 구축하기](https://bcho.tistory.com/1321)
 * [9 Java EE Frameworks to Build Enterprise Applications](https://geekflare.com/java-ee-frameworks/)
+* [10 Popular Java Frameworks. What to Use In 2020 and Further | by Andrej Suschevich | Javarevisited | Jun, 2020 | Medium](https://medium.com/javarevisited/10-popular-java-frameworks-for-web-applications-691c28f6c182)
 * [Java를 위한, Java에 의한 도구들](https://www.slideshare.net/NHNFORWARD/2018-java-java) jvmtop, jvm-tools, jcmd, jhsdb, jmh, jcstress, jol
 * [CIRCUIT BREAKER로 통신 FAILOVER 처리하기](https://inyl.github.io/programming/2017/02/04/circuit_breaker.html)
 * [Improving Code Quality for Java Projects](https://medium.com/inspiredbrilliance/improving-code-quality-for-java-projects-5d24ad448109)
