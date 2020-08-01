@@ -465,6 +465,7 @@ App
     * [Visual Studio Code: A Power User’s Guide](https://morioh.com/p/408c9c96d0fe)
     * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
     * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
+    * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
     * Extension
       * [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/index.html)
