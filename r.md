@@ -459,6 +459,7 @@ R
     * 분산 시스템 없이 대용량 전처리 벤치마크. dplyr 8초, pandas out of memory, data.table 0.3초
   * [data-table-intro.R](https://github.com/laRusers/presentations/blob/master/2019-07-08_datatable/data-table-intro.R)
   * [Programming with data.table](https://www.r-bloggers.com/programming-with-data-table/)
+  * [R data.table(데이터 테이블) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2215)
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
 * [‘dockr’: easy containerization for R](https://www.r-bloggers.com/dockr-easy-containerization-for-r/)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
