@@ -523,6 +523,7 @@ Vision
 * [FaceMask Detection using Tensorflow and OpenCV](https://towardsdatascience.com/facemask-detection-using-tensorflow-and-opencv-824b69cad837)
 * [Computer Vision 101: Learn Face Detection And Conditional Filtering](https://towardsdatascience.com/computer-vision-101-learn-face-detection-and-conditional-filtering-db1b73d0fa2b)
 * [Live Video Sketching through Webcam using Computer Vision](https://towardsdatascience.com/live-video-sketching-through-webcam-using-computer-vision-30beed29f33e)
+* [대체 몇번을 다시 하는 거야 - openCV로 유튜버의 켠왕 도전 횟수 계산하기](https://data101.oopy.io/387e22f0-f6b3-456d-bb26-2798c35acdbc)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
