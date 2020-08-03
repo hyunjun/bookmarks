@@ -485,6 +485,7 @@ Javascript
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 2](https://www.youtube.com/watch?v=ozMwRq-IT2w)
 * [Forget Docker, the future is JAMstack](https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616)
 * [An introduction to the JAMstack: the architecture of the modern web](https://medium.com/free-code-camp/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca)
+* [Hyeseong's Blog - Jamstack에서 스타일시트를 최적화하는 법](https://blog.cometkim.kr/posts/css-optimization-in-jamstack/)
 * [자바스크립트에서 expect(-3 % 3).toEqual(3 % 3)가 실패하는 이유](https://libsora.so/posts/-3-mod-3-is-not-equal-to-3-mod-3-in-javascript/)
 * [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
 * [How to get noticed in the Javascript world](https://hackernoon.com/how-to-get-noticed-in-the-javascript-world-aec7d382b005)
@@ -1208,7 +1209,9 @@ Javascript
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
-* fullPage.js [전체화면 스크롤 웹 사이트 플러그인 fullPage.js](https://wormwlrm.github.io/2018/08/05/How-to-make-web-page-to-slide-by-using-fullpage-js.html)
+* fullPage.js
+  * [전체화면 스크롤 웹 사이트 플러그인 fullPage.js](https://wormwlrm.github.io/2018/08/05/How-to-make-web-page-to-slide-by-using-fullpage-js.html)
+  * [CSS Scroll snap으로 fullpage.js를 대체하고 싶었다 - Ethan Sup's log](https://ethansup.net/blog/scroll-snap-instead-fullpage/)
 * [fuse - Build native apps for iOS and Android in real time using intuitive UX markup and reactive JavaScript](https://www.fusetools.com/)
   * [퓨즈FUSETOOLS 소개 :: 2016년 최신 자료](https://blog.wonhada.com/?p=2386)
   * [퓨즈Fusetools](https://wonhada.com/?ht_kb_category=fusetools)
@@ -2691,6 +2694,7 @@ Javascript
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
 * [Storybook 입문 가이드](https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/)
+* [Zero-config Storybook. Simple setup, instant productivity | by Michael Shilman | Storybook | Jul, 2020 | Medium](https://medium.com/storybookjs/zero-config-storybook-66e7c4798e5d)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [useSWR — My New Favorite React Library](https://medium.com/frontend-digest/useswr-my-new-favorite-react-library-cd87a914a5b1)
