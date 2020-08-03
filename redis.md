@@ -87,6 +87,15 @@ Redis
 * [클라이언트 사이드 캐싱](https://medium.com/garimoo/%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%82%AC%EC%9D%B4%EB%93%9C-%EC%BA%90%EC%8B%B1-71a3ca7727ff)
 * [AOF and RDB size comparison test](https://medium.com/garimoo/redis-aof-and-rdb-size-comparison-test-2dbb603af3f1)
 * [Redis Documentation #3 데이터타입과 추상화](https://medium.com/garimoo/redis-documentation-3-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B6%94%EC%83%81%ED%99%94-e86bcd15c876)
+* The Redis Series
+  * [Install Redis inside Ubuntu VM. I will start a series about Redis, I am… | by Mohammed Hewedy | The Startup | Medium](https://medium.com/swlh/install-redis-inside-a-ubuntu-vm-d5022d42d8cc)
+  * [Redis Persistence by Example. This is the Second Post in Redis… | by Mohammed Hewedy | Medium](https://medium.com/@mhewedy_46874/redis-persistence-by-example-167aacf3a028)
+  * [Implement game leaderboard using Redis | by Mohammed Hewedy | Medium](https://medium.com/@mhewedy_46874/implement-game-scoring-using-redis-75660f739760)
+  * [Implement Job Queue using Redis. This is the Forth Post in The Redis… | by Mohammed Hewedy | Medium](https://medium.com/@mhewedy_46874/implement-job-queue-in-redis-9f0f8d394561)
+  * [Building REST API backed by Redis | by Mohammed Hewedy | The Startup | Medium](https://medium.com/swlh/building-rest-api-backed-by-redis-ae8ff4818460)
+  * [Building Chat Service in Golang and Websockets Backed by Redis | by Mohammed Hewedy | Level Up Coding](https://levelup.gitconnected.com/building-chat-service-in-golang-and-websockets-backed-by-redis-b42a8784636c)
+  * [Redis cluster configuration by example | Medium](https://medium.com/@mhewedy_46874/redis-cluster-configurations-by-example-5480a178e884)
+  * [Redis Geospatial by example. This is the eighth post of The Redis… | by Mohammed Hewedy | Medium](https://medium.com/@mhewedy_46874/redis-geospatial-by-example-f5505a0962ef)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
@@ -195,6 +204,7 @@ Redis
 # Queue
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [Building a Message Queue Using Redis in Go](http://big-elephants.com/2013-09/building-a-message-queue-using-redis-in-go/)
+* [Asynchronous Queueing in Redis with Akka | by Orji samuel | The Startup | Medium](https://medium.com/swlh/asynchronous-queueing-in-redis-with-akka-8b707b784bca)
 * jedis
   * [Queuing tasks with Redis](https://blog.rapid7.com/2016/05/04/queuing-tasks-with-redis/)
   * [Spring-data-redis 에서 Jedis로 TLS를 쓰면서 인증서 체크는 Disable 하는 방법](https://charsyam.wordpress.com/2019/09/06/입개발-sprint-data-redis-에서-jedis로-tls를-쓰면서-인증서-체크는-disable-하/)
