@@ -336,6 +336,7 @@ Data Visualization
 * [Matplotlib 3.1 cheat sheet. From an upcoming book on matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
+* [The Simplest Way to Create Visualizations in Python Isn’t With matplotlib. | by Andre Ye | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/the-simplest-way-to-create-complex-visualizations-in-python-isnt-with-matplotlib-a5802f2dba92)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn ](https://github.com/mwaskom/seaborn)
   * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
