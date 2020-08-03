@@ -20,6 +20,7 @@ SQL
 * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
 * [Why your query language should be explicit](http://blog.hiphipjorge.com/why-your-database-should-be-explicit/)
 * [Advanced Queries With SQL That Will Save Your Time](https://towardsdatascience.com/advanced-queries-with-sql-that-will-save-your-time-48a45b7ca2e3)
+* [How to Build Advanced SQL. Building more maintainable, readable… | by SeattleDataGuy | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/how-to-build-advanced-sql-798d615ba323)
 * [The Sequel to SQL](https://www.codeschool.com/courses/the-sequel-to-sql)
 * [Thoughts on Time-series Databases](http://jmoiron.net/blog/thoughts-on-timeseries-databases/)
 * [DB 102: Database Orientation - Row vs. Column](http://www.ibmsystemsmag.com/Blogs/You-and-i/Archive/db-102-database-orientation-row-vs-column/)
