@@ -242,6 +242,8 @@ Business
 * [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 * [MSA구조에서의 기획자의 역할](https://brunch.co.kr/@windydog/347)
+* [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
+* [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
