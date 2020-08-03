@@ -41,6 +41,7 @@ Monitoring
 * [Install Glances, InfluxDB and Grafana to Monitor CentOS 7](https://www.tecmint.com/install-glances-influxdb-grafana-to-monitor-centos-7/)
 * [Monitoring Servers and Docker Containers using Elasticsearch with Grafana](https://medium.com/skedler/monitoring-servers-and-docker-containers-using-elasticsearch-with-grafana-c61dab0a34a2)
 * [Grafana](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
+* [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
 
 # Library
 * [Anitya is a release monitoring project](https://github.com/fedora-infra/anitya)
