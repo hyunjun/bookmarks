@@ -65,7 +65,6 @@ Scala
   * [The JVM Backend and Optimizer in Scala 2.12](https://www.youtube.com/watch?v=Ic4vQJcYwsU)
 * [How Scala compares with 20 other programming languages according to Reddit analysis](https://www.typesafe.com/blog/how-scala-compares-20-programming-languages-reddit-analysis)
 * [Automated reasoning in F#, Scala, Haskell, C++, and Julia](http://phdp.github.io/posts/2015-04-05-automated-reasoning.html)
-* [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
 * [Ant colony optimization in Scala](http://blog.haberkucharsky.com/technology/2015/10/12/travelling-ants.html)
 * [SBTB 2015: Li Haoyi, A Better Scala REPL?](https://www.youtube.com/watch?v=dP5tkmWAhjg)
 * [Adventures in financial and software engineering](https://falconair.github.io/2015/01/30/composingcontracts.html)
@@ -521,6 +520,8 @@ Scala
 * [Standardizing IO Interfaces for Scala Libraries](http://www.lihaoyi.com/post/StandardizingIOInterfacesforScalaLibraries.html)
 * [My Scala template for Google Code Jam https://code.google.com/codejam ](https://github.com/pathikrit/ScalaJam) 파일 읽기
 * [What is an Effect?](https://www.inner-product.com/posts/what-is-an-effect/)
+* [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
+* [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
