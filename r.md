@@ -460,6 +460,7 @@ R
   * [data-table-intro.R](https://github.com/laRusers/presentations/blob/master/2019-07-08_datatable/data-table-intro.R)
   * [Programming with data.table](https://www.r-bloggers.com/programming-with-data-table/)
   * [R data.table(데이터 테이블) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2215)
+  * [rshinymeetup17: data.table tutorial](https://github.com/kwhkim/rshinymeetup17)
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
 * [‘dockr’: easy containerization for R](https://www.r-bloggers.com/dockr-easy-containerization-for-r/)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
@@ -525,6 +526,7 @@ R
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
+* [reactable-shiny-korea.pdf at master · YoungjunNa/presentations](https://github.com/YoungjunNa/presentations/blob/master/reactable-shiny-korea.pdf)
 * readr
   * [readr package 의 guess_encoding() 함수를 이용한 Text 파일의 인코딩 타입 추론](https://lovetoken.github.io/r/2017/10/07/guessEncoding.html)
 * [Renjin is a JVM-based interpreter for the R language for statistical computing](http://www.renjin.org/)
