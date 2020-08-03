@@ -226,6 +226,7 @@ Apache
 * [OptimizedText.java](https://github.com/eastcirclek/terasort/blob/master/src/main/java/eastcircle/terasort/OptimizedText.java)
 * [Improving throughput and latency with Flink's network stack - Nico Kruber](https://www.youtube.com/watch?v=AbqatHF3tZI) flink flow mechanism
 * [Apache Flink Virtual Meetup Seoul July 23, 2020 - YouTube](https://www.youtube.com/watch?v=HWTb5kn4LvE)
+  * [Flink on Kubernetes operator](https://www.slideshare.net/EuiHeo/flink-onkubernetesoperator-237435230)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
@@ -329,6 +330,7 @@ Apache
 * [What’s New in Cloudera’s Distribution of Apache Kafka?](http://blog.cloudera.com/blog/2016/02/whats-new-in-clouderas-distribution-of-apache-kafka/)
 * [Apache Kafka 성능 테스트](http://blog.embian.com/19)
 * [Using Golang and JSON for Kafka Consumption With High Throughput](https://medium.com/the-hoard/using-golang-and-json-for-kafka-consumption-with-high-throughput-4cae28e08f90)
+* [Golang에서 카프카 컨슈머 그룹과 재시도로 결과적 일관성 구현하기 | Popit](https://www.popit.kr/golang%EC%97%90%EC%84%9C-%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EA%B7%B8%EB%A3%B9%EA%B3%BC-%EC%9E%AC%EC%8B%9C%EB%8F%84%EB%A1%9C-%EA%B2%B0%EA%B3%BC%EC%A0%81-%EC%9D%BC%EA%B4%80/)
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [Monitoring Kafka performance metrics](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
 * [How to Monitor Kafka](https://blog.serverdensity.com/how-to-monitor-kafka/)
