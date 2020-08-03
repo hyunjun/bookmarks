@@ -247,6 +247,7 @@ Javascript
 * [JS에 Applicative/Traversable 적용하기](https://medium.com/@jooyunghan/js%EC%97%90-applicative-traversable-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-a03147e0de94)
 * [generator/interpreter 패턴?](https://medium.com/@jooyunghan/generator-interpreter-%ED%8C%A8%ED%84%B4-a3aecd71c431)
 * [Generator 이해하기](https://armadillo-dev.github.io/javascript/what-is-generator/)
+* [Understand JavaScript’s Generators in 3 Minutes | by Dylan Kerler | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/understand-javascripts-generators-in-3-minutes-8af75c9c4f5f)
 * [“The Eff monad implemented in Flow”](https://medium.com/@gcanti/the-eff-monad-implemented-in-flow-40803670c3eb) Eff 모나드를 자바스크립트+Flow로 소개한 글
 * [자바스크립트 동적 Form 생성하여 Post 전송](https://nemosweb.wordpress.com/2015/08/17/56/)
 * [SPA 스크립트 용량 어디까지 줄일 수 있을까](https://medium.com/little-big-programming/spa-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9A%A9%EB%9F%89-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EC%A4%84%EC%9D%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-69c7e05bb3b3)
@@ -871,6 +872,7 @@ Javascript
     * [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
     * [More Lodash Features that are Available in Plain JavaScript](https://medium.com/javascript-in-plain-english/more-lodash-features-that-are-available-in-plain-javascript-894c060fc26e)
     * [Lodash의 대체재로서의 순수 자바스크립트 함수](https://ui.toast.com/weekly-pick/ko_20190515/)
+    * [Are We Ready to Replace Lodash?. A look at JavaScript and RxJS functions… | by Yanique Andre | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/are-we-ready-to-replace-lodash-60cd651f6c58)
 * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
 * [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
 * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
@@ -1486,6 +1488,7 @@ Javascript
 * [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://hackernoon.com/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
 * [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://medium.com/hackernoon/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
 * [Making Quick Changes to Entered Data](https://medium.com/better-programming/react-vs-vue-making-quick-changes-to-entered-data-337b9823ae6)
+* [React vs. Angular: The 2020 Edition | by Michael Krasnov | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/react-vs-angular-the-2020-edition-1e558f280cb8)
 
 ## Library Build
 * [npmjs.com](https://www.npmjs.com/)
@@ -1818,6 +1821,7 @@ Javascript
   * [Deno Course - Better than Node.js? - YouTube](https://www.youtube.com/watch?v=TQUy8ENesGY)
   * [Is Deno a Threat to Node? - Better Programming - Medium](https://medium.com/better-programming/is-deno-a-threat-to-node-1ec3f177b73c)
   * [Top 5 Reasons Javascript Developers Prefer Deno Over Node | by Dan Halperin | Level Up Coding](https://levelup.gitconnected.com/top-5-reasons-javascript-developers-prefer-deno-over-node-b1ff01734811)
+  * [Build a Simple Rest API with Deno and Express | Medium | Level Up Coding](https://levelup.gitconnected.com/build-a-simple-rest-api-with-deno-and-express-b0b62e52c230)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
