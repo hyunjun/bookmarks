@@ -146,6 +146,11 @@ Linux
 * [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
 * [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+* [**My Favorite CLI Tools. I spend half of my time in the… | by Sebastian Witowski | The Startup | Jun, 2020 | Medium**](https://medium.com/swlh/my-favorite-cli-tools-c2fa484cee52)
+  * fish shell, fzf, fd, ripgrep, htop, glances, virtualenv, virtualfish, pyenv, nodenv, rbenv, pipx, ctop, lazydocker, homebrew, asciinema, colordiff, diff-so-fancy, tree, bat, httpie, tldr, exa, litecli, pgcli, mas, ncdu
+  * [Starship: Cross-Shell Prompt](https://starship.rs/)
+  * [z - jump around](https://github.com/rupa/z)
+  * [ripgrep: ripgrep recursively searches directories for a regex pattern](https://github.com/BurntSushi/ripgrep)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
 * `sync && echo [1|2|3] > /proc/sys/vm/drop_caches` & `[swapoff|swapon] -a`
   * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) 
