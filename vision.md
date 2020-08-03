@@ -214,6 +214,7 @@ Vision
   * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
+  * [How to Deploy Yolo on Tensorflow Serving - Part 1](https://morioh.com/p/9d30912302bd?f=5c21f93bc16e2556b555ab2f)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
@@ -269,6 +270,7 @@ Vision
 * [Computer Vision Basics in Microsoft Excel (using just formulas)](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
 * [얼굴 인식과 닮은 꼴 찾기를 한 번에! (With Naver Cloud Platform): 컴퓨터 비전 1도 몰라도 가능?](https://dev-sngwn.github.io/2020-05-05-cfr-step-by-step/)
 * [많은 양의 개체들을 시각화하는 방법, 그리고 전국의 모든 건물](https://www.vw-lab.com/64?category=787869)
+* [Tea Time! ☕️ Computer Vision #3: Recall, Precision, F1 and ROC, AUC - YouTube](https://www.youtube.com/watch?v=o1oTbRVVq-o)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
