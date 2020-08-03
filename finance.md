@@ -131,6 +131,7 @@ Finance
 * [발틱운임지수(BDI)와 해양운송업(팬오션, 대한해운)](https://nbviewer.jupyter.org/gist/FinanceData/251a316216e5ded4dfbe2669e7d5f888)
 * [Stock Prediction in Python Make (and lose) fake fortunes while learning real Python](https://towardsdatascience.com/stock-prediction-in-python-b66555171a2)
 * [Stock Prices Prediction Using Machine Learning and Deep Learning Techniques (with Python codes)](https://www.analyticsvidhya.com/blog/2018/10/predicting-stock-price-machine-learningnd-deep-learning-techniques-python/)
+* [The easy way to predict stock prices using machine learning | by Pedro Lealdino Filho | Jun, 2020 | Medium](https://medium.com/@pedrolealdino/the-stupidly-easy-way-to-predict-stock-prices-using-machine-learning-dbb65873cac8)
 * [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://medium.com/@aniruddha.choudhury94/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) LSTM
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
