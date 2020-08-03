@@ -386,6 +386,7 @@ Python
 * [Python | Create a QR Code with your data using Python (5 lines of code) - YouTube](https://www.youtube.com/watch?v=1GpPl_EdhWY)
 * [How to build HANGMAN with Python in 10 MINUTES - YouTube](https://www.youtube.com/watch?v=m4nEnsavl6w)
 * [파이썬 초보에서 중수가 되기 위한 9가지 스킬](https://lazymatlab.tistory.com/92)
+* [파이썬으로 SAP Script 실행하기 (with argument)](https://kminito.tistory.com/10)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2128,6 +2129,7 @@ Python
 * [Building a Repeatable Data Analysis Process with Jupyter Notebooks](https://pbpython.com/notebook-process.html)
 * [Why Jupyter Is Not My Ideal Notebook](https://blog.sicara.com/jupyter-notebook-analysis-production-b2d585204520)
 * [Set Your Jupyter Notebook up Right with this Extension](https://towardsdatascience.com/set-your-jupyter-notebook-up-right-with-this-extension-24921838a332)
+* [Jupyter Interactive Widget Ecosystem Tutorial | SciPy 2020 | Craig, Renou, Dafna, Bektas - YouTube](https://www.youtube.com/watch?v=8IYbdshUd9c)
 * [28 Jupyter Notebook tips, tricks, and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts)
 * [PyData Ann Arbor: Madicken Munk | Widgyts: yt Jupyter Widgets for Volumetric Data Exploration](https://www.youtube.com/watch?v=vFOpWEiafE4)
 * [Interactive Controls in Jupyter Notebooks](https://towardsdatascience.com/interactive-controls-for-jupyter-notebooks-f5c94829aee6)
@@ -2343,6 +2345,8 @@ Python
     * [Visual Studio Code로 편리한 Pylife!](http://blog.ncsoft.com/?p=40977)
     * [파이썬/아나콘다 설치 안내](https://www.notion.so/eac8e8c36dd24f019af672db75723622)
     * [통컨(통계컨설팅) :: 첫째날 1.3 아나콘다 시작하기 - 회귀분석 까지(P1)](https://rsas.tistory.com/191)
+    * [**정해영의 블로그 - JEONG Haeyoung's blog: SSL과 관련한 conda 설치 에러 - anaconda3 해결**](http://blog.genoglobe.com/2019/04/ssl-conda.html)
+    * [Using Anaconda behind a company proxy — Anaconda documentation](https://docs.anaconda.com/anaconda/user-guide/tasks/proxy/)
   * Conda Package Repository
     * [conda.pydata.org](http://conda.pydata.org/)
     * [`conda install -c anaconda cx_oracle`](https://binstar.org/anaconda/cx_oracle)
@@ -2495,6 +2499,7 @@ Python
   * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
 * [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
+* [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes](https://github.com/Shawn-Shan/fawkes)
 * [fbchat: Facebook Chat (Messenger) for Python](http://fbchat.readthedocs.io)
   * [파이썬으로 페이스북 메신저 메시지 보내기](http://mcchae.egloos.com/11263580)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
