@@ -322,11 +322,13 @@ App
 * [Cool Chrome DevTools tips and tricks you wish you knew already](https://medium.freecodecamp.org/cool-chrome-devtools-tips-and-tricks-you-wish-you-knew-already-f54f65df88d2)
 * [크롬 개발자 도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 * [Things you may not know about Chrome DevTools](https://dev.to/lpellis/things-you-may-not-know-about-chrome-devtools-53k6)
+* [<번역>시니어 프론트엔드 개발자처럼 크롬 개발자도구 사용하기](https://junwoo45.github.io/2020-07-28-chrome_devtools/)
 * [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
+* [10 Awesome Chrome Flags You Should Enable Right Now | by Sanjeet Chatterjee | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/10-awesome-chrome-flags-you-should-enable-right-now-2684e4518cb5)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 
 # Comminucation
@@ -1218,6 +1220,7 @@ App
   * [Windows10 WSL2에 Docker 설치](https://bloodguy.tistory.com/1087)
   * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
   * [WSL2 설치 및 Docker 환경 구축 : 네이버 블로그](https://blog.naver.com/ilikebigmac/222007741507)
+  * [wsl-firststep: WSL을 설치하면서 처음에 하는 일들을 모아놓은 리포지터리입니다.](https://github.com/rkttu/wsl-firststep)
   * [WSL 2.0 Global configuration (.wslconfig) 을 통한 성능 향상](https://kibua20.tistory.com/63)
   * [Getting started with CUDA on Ubuntu on WSL 2 | Ubuntu](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
