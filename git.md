@@ -159,6 +159,7 @@ Git
 * [Resolving issue with Git not able to differentiate between letter cases (uppercase & lowercase) with folder/directory](https://medium.com/@bryantjiminson/resolving-issue-with-git-not-able-to-differentiate-between-letter-cases-uppercase-lowercase-88b4974b8188) git에서 대소문자 구분
 * [Introducing GitHub Super Linter: one linter to rule them all - The GitHub Blog](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 * [GitHub 아이디/패스워드 입력 없이 사용하는 방법](https://kibua20.tistory.com/88)
+* [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
