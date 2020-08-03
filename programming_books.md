@@ -1154,6 +1154,7 @@ Programming Books
 * 나의 첫 UNIX 교과서
   * 한라 005.44키35ㄴ
   * 명령어 참고에 도움이 될 듯. soso
+* (NOT YET) [유닉스의 탄생](https://jybaek.tistory.com/876)
 
 ## Vim
 
