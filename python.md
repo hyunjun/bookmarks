@@ -616,6 +616,7 @@ Python
   * [Python3에서 NestedDict 내의 특정 키값을 이용해서 Value를 가져오기](https://medium.com/@elastic7327/python3에서-nesteddict-내의-특정-키값을-이용해서-value를-가져오기-f81d922c932e)
   * [Dicts are now ordered, get used to it](https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/)
   * [The Idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
+  * [Five Ways to Loop Through Python Dictionaries | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/five-ways-to-loop-through-python-dictionaries-468db779744d)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -1079,6 +1080,7 @@ Python
   * [How do I remove letters from a string in Python?](https://www.quora.com/How-do-I-remove-letters-from-a-string-in-Python)
   * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
   * [Do Not Use “+” to Join Strings in Python](https://towardsdatascience.com/do-not-use-to-join-strings-in-python-f89908307273)
+  * [5 Python String Methods For Better Formatting | by Tate Galbraith | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-python-string-methods-for-better-formatting-a2c3b92a2d33)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
@@ -2993,6 +2995,7 @@ Python
   * [Python에서 SQLAlchemy로 MS-SQL 연동하기](http://excelsior-cjh.tistory.com/entry/Python%EC%97%90%EC%84%9C-SQLAlchemy%EB%A1%9C-MSSQL-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0)
   * [SQLAlchemy의 연결 풀링 이해하기](https://spoqa.github.io/2018/01/17/connection-pool-of-sqlalchemy.html)
   * [Pythonic Database Management with SQLAlchemy](https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0)
+  * [Basics of SQL in Python for Data Scientists | by Nick Minaie, PhD | Towards Data Science](https://towardsdatascience.com/sql-in-python-for-beginners-b9a4f9293ecf)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
