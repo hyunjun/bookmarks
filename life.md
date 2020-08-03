@@ -11,6 +11,7 @@ Life
 * [법원서 온 지급명령, 그냥 놔뒀다간 억울한 돈 나가](https://news.v.daum.net/v/20181006080102116)
 * [변호사도 잘 모르는 ‘상속재산 파산제도’](https://m.lawtimes.co.kr/Content/Article?serial=119663)
 * [사기꾼 인생 조지는 법 – 체인지그라운드](http://thechangeground.com/archives/29415)
+* [크롤링과 저작권 침해 고소 진행 일대기 :: Philosophiren](https://philosophiren.tistory.com/321)
 
 # Car
 * ['자동차 접촉사고' 후 사진 찍는 법](http://www.huffingtonpost.kr/2015/03/19/story_n_6899668.html)
