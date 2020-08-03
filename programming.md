@@ -184,6 +184,7 @@ Programming
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * [**좋은 코딩을 위한 13 가지 간단한 규칙**](https://mingrammer.com/translation-13-simple-rules-for-good-coding)
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
+* [좋은 코드란 무엇인가 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/31/what-is-good-code.html)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * [#1 SRE/DEVOPS의 개념](https://bcho.tistory.com/1325)
 * [#2 SRE는 어떻게 일하는가?](https://bcho.tistory.com/1327)
@@ -706,6 +707,7 @@ Programming
 * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
 * [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
 * [Envoy Is the Real Deal](https://medium.com/rain-capital/envoy-is-the-real-deal-6deb755dd84f)
+* [How we migrated Dropbox from Nginx to Envoy - Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
@@ -1584,6 +1586,7 @@ Programming
 
 # News
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
+* [김진철 - CIO Korea](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0) AI 머신러닝 딥러닝 빅데이터 ...
 * B급 프로그래머
   * [3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/03/b-3-4.html)
   * [3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
@@ -1746,6 +1749,7 @@ Programming
   * [7월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/07/b-7-2.html)
   * [7월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/07/b-7-3.html)
   * [7월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/07/b-7-4.html)
+  * [7월 5주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/08/b-7-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1827,6 +1831,7 @@ Programming
   * [기술 뉴스 #152 : 20-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1486)
   * [기술 뉴스 #153 : 20-07-04 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1487)
   * [기술 뉴스 #154 : 20-07-18 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1488)
+  * [기술 뉴스 #155 : 20-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1492)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1914,6 +1919,7 @@ Programming
 * [unikernel overview](https://uni2u.tistory.com/106)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
+* [kkamagui의 작업실 :: 경량 가상화 기술을 활용한 영역 분리와 인터립트 처리](https://kkamagui.tistory.com/927)
 
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
