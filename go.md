@@ -535,6 +535,7 @@ Go
 * [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
+* [yh: YAML syntax highlighter to bring colours where only jq could](https://github.com/andreazorzetto/yh)
 
 # Machine Learning
 * [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
