@@ -264,6 +264,7 @@ Scala
 * [Yet Another Arithmetic Parser in Scala - Synerise - Medium](https://medium.com/synerise/yet-another-arithmetic-parser-in-scala-43dad055d81f)
 * [Railway Oriented Programming in Scala - Pierre's Blog](https://blog.pjam.me/posts/railway-oriented-programming-scala/)
 * [Writing Angular Services in Scala | by Antoine Doeraene | Jul, 2020 | Medium](https://medium.com/@antoine.doeraene/writing-angular-services-in-scala-e83fd308b7c3)
+* [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -685,7 +686,6 @@ Scala
     * [Functional dependency injection in Scala using ZIO environments](https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-zio-environments/)
     * [A simple integration test using Scala and ZIO](https://blog.jdriven.com/2019/10/a-simple-integration-test-using-scala-and-zio/)
     * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
-    * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
     * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Error Handling in Functional Applications - from Monad Transformers to ZIO](http://lambdaone.io/2019/09/06/zio-errors/)
     * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) zio
@@ -713,6 +713,10 @@ Scala
     * [How to write a command-line application with ZIO](https://medium.com/scalac/how-to-write-a-command-line-application-with-zio-111b5af3ab43)
     * [Managing dependencies using ZIO](https://blog.softwaremill.com/managing-dependencies-using-zio-8acc1539e276)
     * [Opening the fridge with ZIO](https://medium.com/@wiemzin/opening-the-fridge-with-zio-92ded30dda4f)
+    * [Happy eyeballs live-coding using ZIO by Adam Warski: Scala in the City - YouTube](https://www.youtube.com/watch?v=4gyAoyYwWnI)
+    * Fibers
+      * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
+      * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
@@ -973,6 +977,7 @@ Scala
 * [Metals - Scala language server with rich IDE features](https://scalameta.org/metals/)
   * [Happy Life With #Scala #Metals](https://www.youtube.com/watch?v=kc2jrTEs5ug)
   * [Implementing a server for the Language Server Protocol](https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df)
+  * [A Dive into Configuring Metals · Metals](https://scalameta.org/metals/blog/2020/07/23/configuring-a-client.html)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * MinIO [MinIO object storage scala client](https://medium.com/rahasak/minio-object-storage-scala-client-48c8535b9dd2)
 * [Mu provides the ability to combine RPC protocols, services, and clients in your Scala program](https://higherkindness.io/mu-scala/) gRPC
@@ -1270,7 +1275,8 @@ Scala
 * [Tagless Final - Part 2 - Introduction to the Expression Problem - YouTube](https://www.youtube.com/watch?v=jz0jbJ3VkjQ)
 * [Tagless Final - Part 3 - If only we had a crystal ball! 🔮 - YouTube](https://www.youtube.com/watch?v=3Jmy3AyYZjc)
 * [Tagless Final - Part 4.1 - Power to the Interpreters! ✊ - YouTube](https://www.youtube.com/watch?v=5NxrVZvur_o)
-* [Tagless Final - Part 4.2 - Why The F\[_\] - YouTube](https://www.youtube.com/watch?v=3-GgF5fy3Ek)
+* [Tagless Final - Part 4.2 - Why The F\[\_\] - YouTube](https://www.youtube.com/watch?v=3-GgF5fy3Ek)
+* [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -1335,6 +1341,7 @@ Scala
   * SBT Native Packager Docker Plugin
     * [**practice - sbt native packager docker plugin**](https://gist.github.com/hyunjun/28eb7d34e83088ee0c2f4cef97979275#file-sbt_native_packager_docker_plugin-md)
     * [Separate Docker Layers for Dependencies and App JARs](https://medium.com/@ppiotrow/separate-docker-layers-for-dependencies-and-app-jars-e33b52ca044c)
+* sbt-rewarn [Life with fatal warnings | Roman Timushev](https://timushev.com/posts/2020/07/25/life-with-fatal-warnings/)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
