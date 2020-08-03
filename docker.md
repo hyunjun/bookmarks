@@ -519,6 +519,7 @@ Docker
   * `--oom-kill-disable=true`
     * [**Docker and OOM(Out Of Memory) Killer**](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)
   * `-p hostPort:containerPort` [Expose vs publish: Docker port commands explained simply](https://medium.freecodecamp.org/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3)
+  * `--security-opt seccomp=unconfined` [**Faster Python in Docker. Get maximum performance from your… | by Rupert Thomas | Better Programming | Medium**](https://medium.com/better-programming/faster-python-in-docker-d1a71a9b9917)
   * `-v /etc/localtime:/etc/localtime:ro` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
   * [practice](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-run-md)
   * [practice of `--env-file=... --rm -v <local dir>:<container dir> -p <host port>:<container port>`](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
@@ -907,6 +908,7 @@ Docker
 * [Droot - a super-easy application container engine with chroot without docker](https://github.com/yuuki1/droot)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Firecracker - Secure and fast microVMs for serverless computing](https://firecracker-microvm.github.io/)
+* firefighter [microVM: Another Level of Abstraction for Serverless Computing | by Mostafa Moradian | ITNEXT](https://itnext.io/microvm-another-level-of-abstraction-for-serverless-computing-5f106b030f15)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
 * Gocker [Containers the hard way: Gocker: A mini Docker written in Go - Unixism](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
