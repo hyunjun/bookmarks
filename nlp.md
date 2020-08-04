@@ -1434,6 +1434,7 @@ NLP
 * [Natural_language_Processing_self_study](https://github.com/hskimim/nlp_tutorial)
 * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/Bricoler/nlp-tensorflow)
 * [NLP Tutorial with Deep Learning using tensorflow](https://github.com/bzantium/nlp-tensorflow)
+* [Natural Language Processing with TensorFlow 2](https://morioh.com/p/117a9d815a80)
 * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) TensorFlow and Pytorc
 * [Concrete solutions to real problems](https://github.com/hundredblocks/concrete_NLP_tutorial/blob/master/NLP_notebook.ipynb)
 * [Natural Language Processing with TensorFlow 2 - Beginner's Course](https://www.youtube.com/watch?v=B2q5cRJvqI8)
