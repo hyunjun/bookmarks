@@ -342,6 +342,7 @@ Web
 * [corona-tracker](https://github.com/iidx/corona-tracker) crawl + telegram bot
 * [Crawler](https://github.com/rudvlf0413/crawler)
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
+* [ebay_scrapy](https://github.com/pss2138/ebay_scrapy)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
 * [kocrawl: A collection of useful Korean crawlers (always updated)](https://github.com/gusdnd852/kocrawl)
@@ -643,7 +644,8 @@ Web
 * [골치아픈 REST API에서 벗어나 효율적인 모바일 네트워크를 구성하는 방법](https://realm.io/kr/news/best-practices-pain-points-mobile-networking-rest-api-failures/)
 * [REST의 representation이란 무엇인가](https://blog.npcode.com/2017/04/03/rest%EC%9D%98-representation%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80/?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [웹훅 기능을 테스트 하기 좋은 도구들 소개](http://blog.aliencube.org/ko/2017/06/02/tools-for-testing-webhooks/) RequestBin, ngrok
-* [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
+* [REST API Tutorial](https://www.restapitutorial.com/)
+  * [Resource Naming](http://www.restapitutorial.com/lessons/restfulresourcenaming.html)
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
 * [**그런 REST API로 괜찮은가**](http://slides.com/eungjun/rest)
