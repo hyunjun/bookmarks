@@ -248,6 +248,7 @@ SQL
       ```
       $ mysql -h [x.y.z.w] -u [userid] -p[password] [database] -N -e "SELECT a.keyword, a.iage, b.keyword, b.iage, a.iage - b.iage FROM (SELECT \`key\`,keyword, age, CHAR_LENGTH(age), CONVERT(SUBSTRING(age, 2, CHAR_LENGTH(age)-2), UNSIGNED) iage, represent, family FROM [table] WHERE age IS NOT NULL) as a join (SELECT \`key\`,keyword, age, CHAR_LENGTH(age), CONVERT(SUBSTRING(age, 2, CHAR_LENGTH(age)-2), UNSIGNED) iage, represent, family FROM [table] WHERE age IS NOT NULL) as b on a.\`key\` != b.\`key\`"
       ```
+    * [MySQL 기본 select SQL 예제](https://stricky.tistory.com/328)
   * SHOW
     * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
     * [Show Comment of Fields FROM Mysql Table](https://stackoverflow.com/questions/5404051/show-comment-of-fields-from-mysql-table)
