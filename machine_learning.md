@@ -1154,6 +1154,7 @@ Machine Learning
   * [PCA using Python (scikit-learn)](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
   * [ML impossible: Train 1 billion samples in 5 minutes on your laptop using Vaex and Scikit-Learn](https://towardsdatascience.com/ml-impossible-train-a-1-billion-sample-model-in-20-minutes-with-vaex-and-scikit-learn-on-your-9e2968e6f385)
   * [파이썬(sklearn) 사이킷런(sklearn) 기초](https://losskatsu.github.io/machine-learning/sklearn/)
+  * [Scikit Learn을 이용한 분류와 회귀 머신러닝 with python - YouTube](https://www.youtube.com/watch?v=B_S3OIp9lgc)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * [shrynk - Using Machine Learning to learn how to Compress](https://vks.ai/2019-12-05-shrynk-using-machine-learning-to-learn-how-to-compress)
 * sklearn
