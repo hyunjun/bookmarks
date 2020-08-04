@@ -163,6 +163,7 @@ Programming Books
 * (NOT YET) [파이썬 알고리즘 인터뷰 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
   * [algorithm-interview: <파이썬 알고리즘 인터뷰> 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://github.com/onlybooks/algorithm-interview)
   * [독서광 파이썬 알고리즘 인터뷰](https://jhrogue.blogspot.com/2020/07/blog-post.html)
+* (NOT YET) [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B8945183661)
 
 # Amazon AWS
 
