@@ -961,6 +961,7 @@ Java
 * [JPA 선호하는 패턴](https://www.popit.kr/jpa-%EC%84%A0%ED%98%B8%ED%95%98%EB%8A%94-%ED%8C%A8%ED%84%B4/)
 * [JPA + Querydsl group_concat 사용법 | Popit](https://www.popit.kr/jpa-querydsl-group_concat-%ec%82%ac%ec%9a%a9%eb%b2%95)
 * [JPA 덕분에 DB에서 삽질한 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/jpa-uuid-sapjil/)
+* [JPA에서 Reader DB 사용하기 (feat. AWS Aurora)](https://jojoldu.tistory.com/515)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
