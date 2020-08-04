@@ -744,6 +744,7 @@ Programming Books
   * [추상화를 조심스럽게 선택하라](http://huns.me/development/2252)
   * [도메인 주도 설계 핵심](https://imch.dev/posts/domain-driven-design-distilled)
 * [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
+* (NOT YET) [DDD START!](https://joochang.tistory.com/93)
 
 # Elasticsearch
 
