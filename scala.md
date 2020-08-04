@@ -715,6 +715,8 @@ Scala
     * [Managing dependencies using ZIO](https://blog.softwaremill.com/managing-dependencies-using-zio-8acc1539e276)
     * [Opening the fridge with ZIO](https://medium.com/@wiemzin/opening-the-fridge-with-zio-92ded30dda4f)
     * [Happy eyeballs live-coding using ZIO by Adam Warski: Scala in the City - YouTube](https://www.youtube.com/watch?v=4gyAoyYwWnI)
+    * [Refactoring Functional Type Classes](https://www.slideshare.net/jdegoes/refactoring-functional-type-classes)
+      * ZIO와 ZPure 관련 Adam Fraser가 디스코드에 답변한 내용. 거칠게 요약하면 ZIO에서 IO나 동시성 관련 내용을 뺀 타입
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -922,6 +924,7 @@ Scala
   * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
   * [Cats Concurrency basics with Ref and Deferred - SoftwareMill Tech Blog](https://blog.softwaremill.com/cats-concurrency-basics-with-ref-and-deferred-399e0335630)
   * [example - Union Find](https://gist.github.com/sungkmi/b30a338e35825f1eaf804fed92ed550e)
+  * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
