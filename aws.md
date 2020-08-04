@@ -416,6 +416,7 @@ AWS
 * [AWS 입문 AWS Amplify + Android – Amazon Cognito 인증 추가해보기](https://dev.classmethod.jp/articles/amplify-android-cognito-auth/)
 * [AWS 입문 AWS Amplify + Android – GraphQL API 추가해보기 | Developers.IO](https://dev.classmethod.jp/articles/amplify-android-graphql-api)
 * [AWS Amplify 노하우 시리즈 포스팅을 공개합니다! #aws #amplify | Developers.IO](https://dev.classmethod.jp/articles/amplify-tips-series-korean/)
+* [AWS Amplify Console을 이용하여 프론트엔드 개발 환경 개선하기](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/3848/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
