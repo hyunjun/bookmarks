@@ -180,6 +180,7 @@ SQL
 * [Observability Differences Between MySQL 8 and MariaDB 10.4](https://www.percona.com/blog/2020/02/05/observability-differences-between-mysql-8-and-mariadb-10-4/)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
+* SkySQL [Jacob's Cafe :: 수십억건 데이터 처리를 위한 MariaDB Analytics (SkySQL)](https://calebpro.tistory.com/628)
 
 # MSSQL MS SQL
 * [practice - case when](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a#file-case_when-md)
