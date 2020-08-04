@@ -330,6 +330,10 @@ Javascript
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [흔한 2017년의 Front-end 기술 스택](http://seokjun.kr/front-end-dev-stack-2017/)
 * [JavaScript in 2017: 옛날 사람 탈출하기](https://meshlabs.ghost.io/javascript-in-2017/)
+* 2018년과 이후 JavaScript의 동향
+  * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
+  * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
+  * [브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
 * 2017년과 이후 JavaScript의 동향
   * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
   * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/7229119)
@@ -439,10 +443,6 @@ Javascript
 * [동적 테마 생성을 위한 규칙 기반 프레임워크](http://hacks.mozilla.or.kr/2018/02/%EB%8F%99%EC%A0%81-%ED%85%8C%EB%A7%88-%EC%83%9D%EC%84%B1%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B7%9C%EC%B9%99-%EA%B8%B0%EB%B0%98-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/)
 * [The Top JavaScript Trends to Watch in 2018](https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425)
 * [Learn to spot red flags in your React/JavaScript code 🚩](https://medium.freecodecamp.org/learn-to-spot-red-flags-in-your-react-javascript-code-d52d5fac85f4)
-* 2018년과 이후 JavaScript의 동향
-  * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
-  * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
-  * [브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
@@ -917,6 +917,7 @@ Javascript
 * [ES2020 Has Been Finalized. Here is What I’m Excited About](https://blog.bitsrc.io/es2020-has-been-finalized-here-is-what-im-excited-about-414959bc2f7f)
 * [자바스크립트 2020](https://dongqui.github.io//posts/js2020)
 * [JavaScript module namespace exports](https://medium.com/javascript-in-plain-english/javascript-module-namespace-exports-71dc7d1a75c0)
+* [2020년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4268738)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
