@@ -1480,6 +1480,7 @@ NLP
   * [Run sample script on Mac](https://jybaek.tistory.com/772)
   * [음성인식모델로 음성합성 데이터 만들기 (kaldi 음성 인식 모델 환경 구현)](http://nblog.syszone.co.kr/archives/9788)
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
+* [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
