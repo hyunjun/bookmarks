@@ -1111,6 +1111,7 @@ Deep Learning
   * [My handwriting styler](https://www.slideshare.net/MinjungChung1/my-handwriting-styler)
   * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (1) - 이론](https://jeinalog.tistory.com/15)
   * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (2) - 실습](https://jeinalog.tistory.com/16)
+* [AI Generator Learns to 'Draw' Like Cartoonist Lee Mal-Nyeon in Just 10 Hours | Synced](https://syncedreview.com/2020/08/04/ai-generator-learns-to-draw-like-cartoonist-lee-mal-nyeon-in-just-10-hours/)
 * [TGAN - Generative adversarial training for synthesizing tabular data https://sdv-dev.github.io/TGAN ](https://github.com/sdv-dev/TGAN)
 
 # Library
