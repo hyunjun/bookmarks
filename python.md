@@ -309,6 +309,7 @@ Python
   * [파이썬 범위 규칙에 대한 잘못된 이해](https://ash84.net/2017/06/01/python-misunderstanding-python-scope-rules/)
   * [파이썬에서 가장 쉽게 범할 수 있는 10가지 실수들](http://hamait.tistory.com/851)
 * [7 Python mistakes all beginner developers make — and how to avoid them](https://thenextweb.com/syndication/2020/06/22/7-python-mistakes-all-beginner-developers-make-and-how-to-avoid-them)
+* [Python Beginner Projects 2020 - Add them to your resume!](https://morioh.com/p/8d006da3ab25)
 * [Watch a Directory for Changes](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
 * [**파이썬 (doc) 스타일 가이드에 대한 정리**](https://medium.com/@kkweon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-doc-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC-b6d27cd0a27c)
 * [Why are slots so slow?](https://www.corsix.org/content/why-are-slots-so-slow)
