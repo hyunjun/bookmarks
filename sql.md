@@ -200,6 +200,7 @@ SQL
 * practice
   * [비개발자를 위한 MySQL](https://github.com/kciter/MySQLForNonDeveloper/blob/master/README.md)
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662) 비밀번호 변경 등 기타 명령도 포함
+    * [MySQL 비밀번호 분실, 초기화 방법 (DB관리자 필수로 알아둘 내용) - YouTube](https://www.youtube.com/watch?v=50dECqfg0xU)
   * [use case](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581)
     * 분리된 table을 통합하는 과정에서의 경험
     * unique constraint에서 null을 사용하는 경우의 핵심
