@@ -932,6 +932,7 @@ Scala
     * [Cats Effect Ref](https://lewisjkl.com/cats-effect-ref/)
     * [Time traveling in tests with Cats Effect](https://blog.softwaremill.com/time-traveling-in-tests-with-cats-effect-b22084f6a89)
     * [cats-effect at ce3](https://github.com/typelevel/cats-effect/tree/ce3#cats-effect-3)
+    * [Circuit Breaker Pattern with Cats Effect | by Hiroki Fujino | Level Up Coding](https://levelup.gitconnected.com/circuit-breaker-pattern-with-cats-effect-25947d0a4cba)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
   * Cats STM [Announcing Cats STM 0.7.0](https://medium.com/permutive/announcing-cats-stm-0-7-0-5af9a0f72920)
