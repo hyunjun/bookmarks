@@ -123,6 +123,7 @@ Python
 * [매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
 * [Zen of python poster](https://github.com/ewjoachim/zen-of-python)
+* [The Zen of Python: Write Beautiful Code | by Oleksii Kharkovyna | Towards Data Science](https://towardsdatascience.com/the-zen-of-python-write-beautiful-code-e36844381ee6)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
@@ -589,6 +590,7 @@ Python
   * [Function Decorators in Python - Add extra functionality to your Python functions](https://medium.com/python-monkey/function-decorators-74c08b9493bf)
   * [파이썬 데코레이터(Decorator)에 파라미터 넣기](https://blog.naver.com/codeitofficial/221680630354)
   * [Decorators in Python: Fundamentals for Data Scientists | by Erdem Isbilen | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/decorators-in-python-fundamentals-for-data-scientists-eada7f4eba85)
+  * [Handling exceptions in Python a cleaner way, using Decorators | by Shivam Batra | The Startup | Medium](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
