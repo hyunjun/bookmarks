@@ -219,6 +219,7 @@ Functional Programming
 * [reduce에 Promise 더하기](https://medium.com/@jooyunghan/js-reduce%EC%97%90-promise-%EB%8D%94%ED%95%98%EA%B8%B0-e011153953ca)
 * [Simplify your JavaScript – Use .map(), .reduce(), and .filter()](https://medium.com/poka-techblog/simplify-your-javascript-use-map-reduce-and-filter-bd02c593cc2d)
 * [How to simplify your codebase with map(), reduce(), and filter() in JavaScript](https://medium.freecodecamp.org/15-useful-javascript-examples-of-map-reduce-and-filter-74cbbb5e0a1f)
+* [5 Use Cases for reduce() in JavaScript | by wathsala danthasinghe | JavaScript In Plain English | Jul, 2020 | Medium](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
 * [(Functional) OOP With Message Passing](https://medium.com/@douglasbellonrocha/functional-object-oriented-programming-with-message-passing-71979ca9d097)
 * [NAVER 테크톡 - 함수형 자바스크립트와 동시성 프로그래밍](https://www.youtube.com/watch?v=fWRMM6AaMMc)
   * [github.com/indongyoo/NAVER-Teck-Talk](https://github.com/indongyoo/NAVER-Teck-Talk)
