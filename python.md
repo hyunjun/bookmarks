@@ -383,6 +383,7 @@ Python
 * [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
 * [파이썬을 올바르게, 현명하게 설치하는 방법](http://www.itworld.co.kr/news/146358)
 * [Semantic Differences Between JavaScript and Python](https://medium.com/better-programming/semantic-differences-between-javascript-and-python-ed21b1f3ce50)
+* [Python vs. Node.JS: Which One is Best for Your Project? | by Claire D. Costa | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/python-vs-node-js-which-one-is-best-for-your-project-e98f2c63f020)
 * [4 Simple Ways to Refactor Your Python Code](https://medium.com/code-85/4-simple-ways-to-refactor-your-python-code-2f491b767381)
 * [Introduction to Streaming Algorithms](https://towardsdatascience.com/introduction-to-streaming-algorithms-b71808de6d29)
 * [Python | Create a QR Code with your data using Python (5 lines of code) - YouTube](https://www.youtube.com/watch?v=1GpPl_EdhWY)
@@ -1103,6 +1104,8 @@ Python
   * [Streaming subprocess stdin and stdout with asyncio in Python](https://kevinmccarthy.org/2016/07/25/streaming-subprocess-stdin-and-stdout-with-asyncio-in-python/)
   * [Subprocess 모듈 사용법 – 파이썬에서 서브 프로세스를 생성하기](https://soooprmx.com/archives/5932)
   * [Subprocess timeout failure](https://stackoverflow.com/questions/36952245/subprocess-timeout-failure)
+  * [sh - a full-fledged subprocess replacement for Python 2.6 - 3.8, PyPy and PyPy3 that allows you to call any program as if it were a function](https://amoffat.github.io/sh/)
+    * [Testing shell commands from Python | by Janneke van der Zwaan | Netherlands eScience Center](https://blog.esciencecenter.nl/testing-shell-commands-from-python-2a2ec87ebf71)
 * sys
   * getsizeof
     * [Measure the Real Size of Any Python Object](https://goshippo.com/blog/measure-real-size-any-python-object/)
@@ -1744,6 +1747,7 @@ Python
   * [T.D.D로 Flask API 맛보기](https://www.slideshare.net/JIHUNKIM26/tdd-flask-api-90039358))
   * [다시쓰는 Flask unittest (상편)](https://jybaek.tistory.com/805)
   * [다시쓰는 Flask unittest (하편)](https://jybaek.tistory.com/806)
+  * [Automation Testing with Pytest. We live in an era where software is… | by Harshil Modi | Tenable TechBlog | Medium](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
@@ -2501,6 +2505,7 @@ Python
   * [Deploy Django to MS Azure with Fabric3](https://beomi.github.io/2017/06/10/Deploy-Django-to-MS-Azure-EN/)
 * [fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
   * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
+  * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
 * [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
 * [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes](https://github.com/Shawn-Shan/fawkes)
@@ -3036,6 +3041,7 @@ Python
   * [파이참 interpreter 설정하기](https://blog.naver.com/baek2sm/221448342419)
   * [Pycharm에서 anaconda의 python.exe를 base interpreter로 사용하려면?](http://jhrogue.blogspot.com/2019/12/b-pycharm-anaconda-pythonexe-base.html)
   * [PyCharm에서 테스트 중 AssertionError발생시점의 Breakpoint설정](https://lhy.kr/pycharm-assertion-debugger-stop)
+  * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
 
@@ -3391,6 +3397,7 @@ Python
   * [**Vaex: A DataFrame with super strings**](https://towardsdatascience.com/vaex-a-dataframe-with-super-strings-789b92e8d861) spark보다 빠르다는 benchmark
   * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
   * [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
+  * [Beyond Pandas: Spark, Dask, Vaex and other big data technologies battling head to head | by Jonathan Alexander | Towards Data Science](https://towardsdatascience.com/beyond-pandas-spark-dask-vaex-and-other-big-data-technologies-battling-head-to-head-a453a1f8cc13)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
