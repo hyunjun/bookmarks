@@ -109,6 +109,7 @@ Javascript
 * [JavaScript Coding & Best Practices Style Guide](https://medium.com/@decker/javascript-coding-best-practices-style-guide-215eb0408cfd)
 * [Performant JavaScript Best Practices](https://levelup.gitconnected.com/performant-javascript-best-practices-c5a49a357e46)
 * [JavaScript Best Practices for Writing More Robust Code](https://medium.com/swlh/javascript-best-practices-for-writing-more-robust-code-value-checks-8dde9459d1b9)
+* [JavaScript Best Practices for Readable and Maintainable Code | by Mahdhi Rezvi | Jun, 2020 | Bits and Pieces](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
   * [Airbnb JavaScript 스타일 가이드](https://github.com/tipjs/javascript-style-guide)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
@@ -612,6 +613,7 @@ Javascript
 * [Little Unknown Way To Get Rid Of Switch Statements](https://medium.com/javascript-in-plain-english/a-little-unknown-way-to-get-rid-of-switch-statements-15c2584f51b9)
 * [6 JavaScript Code Snippets For Solving Common Problems](https://levelup.gitconnected.com/6-javascript-code-snippets-for-solving-common-problems-33deb6cacef3)
 * [Dates and Times in JavaScript – Igalia Compilers Team](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
+* [6 Amazing JavaScript Destructuring Tricks | by Anupam Chugh | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/6-amazing-javascript-destructuring-tricks-d47da9a0047f)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -1406,6 +1408,7 @@ Javascript
 * [ToProgress - A lightweight, no-dependency top bar library](http://randy.party/ToProgress/)
 * [trine](https://github.com/jussi-kalliokoski/trine)
 * [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
+* [µcdn: a live, bundlerless, alternative | by Andrea Giammarchi | Medium](https://medium.com/@WebReflection/%C2%B5compress-goodbye-bundlers-bb66a854fc3c)
 * [Unreal.js: Javascript runtime built for UnrealEngine 4](https://github.com/ncsoft/Unreal.js)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
