@@ -82,6 +82,7 @@ Json
 * [Service Account(JWT)을 활용한 Google Calendar API 사용](https://kibua20.tistory.com/87)
 * [r2c blog — Hardcoded secrets, unverified tokens, and other common JWT mistakes](https://r2c.dev/blog/2020/hardcoded-secrets-unverified-tokens-and-other-common-jwt-mistakes/)
 * [Zero-day in Sign in with Apple](https://bhavukjain.com/blog/2020/05/30/zeroday-signin-with-apple/)
+* [React Authentication: How to Store JWT in a Cookie | by Ryan Chenkie | Medium](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
