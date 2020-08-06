@@ -367,6 +367,8 @@ Go
 * [Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f)
 * [Go: How Does a Goroutine Start and Exit?](https://medium.com/a-journey-with-go/go-how-does-a-goroutine-start-and-exit-2b3303890452)
 * [Structured Concurrency in Go](https://medium.com/@arunsworld/structured-concurrency-in-go-b800c7c4434e)
+* [Understanding GO Routine and Channel | by Thinley Norbu | WesionaryTEAM | Jul, 2020 | Medium](https://medium.com/wesionary-team/understanding-go-routine-and-channel-b09d7d60e575)
+* [Go: How Are Deadlocks Triggered?. ℹ️ This article is based on Go 1.14. | by Vincent Blanchon | A Journey With Go | Jul, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019)
 
 # Library
 * [구글, 로드밸런싱 플랫폼 오픈소스로 공개](http://www.bloter.net/archives/248900)
