@@ -1091,6 +1091,7 @@ App
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
+* [mimikatz를 이용하여 윈도우 계정 정보 알아내기 :: Secure my life](https://securitynote.tistory.com/28)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
