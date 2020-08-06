@@ -188,6 +188,7 @@ Linux
   * `grep 'cpu cores' /proc/cpuinfo | tail -1` CPU당 물리 코어 개수
 * [15 Essential Linux Command Line Tips and Tricks](https://medium.com/better-programming/15-essential-linux-command-line-tips-and-tricks-95e2bfa2890f)
 * [**CLI: improved**](https://remysharp.com/2018/08/23/cli-improved) bat, prettyping, fzf, htop, diff-so-fancy, fd, ncdu, tldr, ack/ag, jq, ponysay, csvkit, noti, entr
+* [6 Terminal Commands You Should Know | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/6-terminal-commands-you-should-know-8e9767bdfec)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
