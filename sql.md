@@ -49,6 +49,8 @@ SQL
 * [dbguide.net](http://www.dbguide.net/index.db)
 * [코드카데미, SQL 중급 강의 무료 공개](http://www.bloter.net/archives/254362)
 * [SQL,SELECT문처리순서/과정 parsing,optimization,execution,fetch,옵티마이저,파싱,실행,패치](http://ojc.asia/bbs/board.php?bo_table=LecOrccleTun&wr_id=113)
+* [How to Optimize SQL Queries. This article sorts out some special… | by Pawan Jain | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-optimize-sql-queries-742177cd5cc6)
+* [How to Optimize SQL Queries Part II | by Pawan Jain | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-optimize-sql-queries-part-ii-407311784112)
 * [Parsing SQL - Federico Tomassetti - Software Architect](https://tomassetti.me/parsing-sql/)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 * [비전공자를 위한 SQL](https://brunch.co.kr/magazine/sql-beginner)
