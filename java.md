@@ -311,6 +311,7 @@ Java
 * [원자성을 만족하는 메서드를 n개 호출하는 작업은 atomic 할까요](https://codingdog.tistory.com/entry/%EC%9B%90%EC%9E%90%EC%84%B1%EC%9D%84-%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-n%EA%B0%9C-%ED%98%B8%EC%B6%9C%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-atomic-%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [왜 java의 hashmap 클래스는 멀티스레드 환경에서 안전하지 않는가](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%9D%98-hashmap-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EA%B0%80)
 * [race condition : 둘 이상이 같은 자원을 가지고 경쟁한다.](https://codingdog.tistory.com/entry/race-condition-%EB%91%98-%EC%9D%B4%EC%83%81%EC%9D%B4-%EA%B0%99%EC%9D%80-%EB%AC%B4%EC%96%B8%EA%B0%80%EB%A5%BC-%EC%9C%84%ED%95%B4-%EA%B2%BD%EC%9F%81%ED%95%9C%EB%8B%A4)
+* [A New Concurrency Model in Java. Things have changed considerably in the… | by The Bored Dev | Jun, 2020 | codeburst](https://codeburst.io/a-new-concurrency-model-in-java-975d597dd5e4)
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
@@ -962,6 +963,7 @@ Java
 * [JPA + Querydsl group_concat 사용법 | Popit](https://www.popit.kr/jpa-querydsl-group_concat-%ec%82%ac%ec%9a%a9%eb%b2%95)
 * [JPA 덕분에 DB에서 삽질한 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/jpa-uuid-sapjil/)
 * [JPA에서 Reader DB 사용하기 (feat. AWS Aurora)](https://jojoldu.tistory.com/515)
+* [JPA exists 쿼리 성능 개선](https://jojoldu.tistory.com/516)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
