@@ -527,6 +527,7 @@
   * [Part 3/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-3-4/)
   * [Part 4/4](https://hortonworks.com/blog/distributed-pricing-engine-using-dockerized-spark-yarn-w-hdp-3-0-part-4-4/)
 * [Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker](https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7)
+* [DIY: Apache Spark & Docker. Set up a Spark cluster in Docker from… | by Shane De Silva | Towards Data Science](https://towardsdatascience.com/diy-apache-spark-docker-bb4f11c10d24)
 
 # [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)
