@@ -183,6 +183,7 @@ Keras
 * [Fire and smoke detection with Keras and Deep Learning](https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/)
 * [**DACON 14회 금융문자분석 경진대회 59위**](https://dacon.io/competitions/official/235401/codeshare/661)
 * [Deep Residual Unet (ResUNet) Segmentation in Keras TensorFlow](https://morioh.com/p/fccb44dfdd02?f=5c21fb01c16e2556b555ab32)
+* [Keras를 이용한 딥러닝 시작, ANN DNN, 손글씨 인식시키기 머신러닝 with Python - YouTube](https://www.youtube.com/watch?v=wCgYYuNhYVw)
 
 # Book
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
