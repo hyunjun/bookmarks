@@ -412,6 +412,10 @@ ElasticSearch - Lucene
 * [**엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자**](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)
 * [ELK 통합 로그 시스템을 활용한 IT보안 활용 추천 책 소개!!!](https://www.youtube.com/watch?v=vo_O7pWAM60)
 
+# Go
+* [go-elasticsearch - The official Go client for Elasticsearch](https://github.com/elastic/go-elasticsearch)
+* [다나와 검색API 개발을 위한 ElasticSearch - GoClient 선택하기 - 다나와 기술블로그](https://danawalab.github.io/elastic/2020/08/04/ElasticSearch-GoClient.html)
+
 # Kibana
 * practice
   * kibana의 "Add a filter"를 누르면 contains는 없으므로 문자열 포함 검색을 하려면 다음과 같이 직접 query 입력
@@ -510,7 +514,6 @@ ElasticSearch - Lucene
 * [Fess is very powerful and easily deployable Enterprise Search Server. http://fess.codelibs.org ](https://github.com/nocode2k/fess)
 * [fluent-plugin-beats at Elasticsearch meetup](http://www.slideshare.net/repeatedly/fluentpluginbeats-at-elasticsearch-meetup-14)
 * [fluent-plugin-mysql-replicator](https://github.com/y-ken/fluent-plugin-mysql-replicator)
-* [go-elasticsearch - The official Go client for Elasticsearch](https://github.com/elastic/go-elasticsearch)
 * [Hierarchical filtering](http://demo.searchkit.co/taxonomy)
 * [klay-es-plugin](https://github.com/ks-shim/klay-es-plugin) klay(Korean Language AnalzYer) plugin for elasticsearch
 * [Komoran](https://github.com/shin285/KOMORAN)
