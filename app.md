@@ -349,6 +349,7 @@ App
 * [Personal Setup](https://github.com/opnay/PersonalSetup) linux program & configuration
 * [**Improve your workflow with these awesome CLI tools**](https://medium.freecodecamp.org/improve-your-workflow-with-these-awesome-cli-tools-fc3750cbb2bf)
   * Wuzz — terminalized Postman등 여러가지 유용한 CLI tool
+* [Terminal 101 — The Setup Guide that will Boost your Workflow | by Alexandre Zajac | Jun, 2020 | ITNEXT](https://itnext.io/terminal-101-the-setup-guide-that-will-boost-your-workflow-12df2570052)
 * [태블릿으로 원격 프로그래밍이 하고 싶어요](https://javaxer.blogspot.com/2018/10/blog-post.html)
 * [프로그래머가 모르면 손해인 범용적인 툴(tool) 100선](https://tkdwnsdkk.tistory.com/101)
 * [7 Amazing Developer Tools that you're not using yet](https://www.youtube.com/watch?v=U_gANjtv28g)
