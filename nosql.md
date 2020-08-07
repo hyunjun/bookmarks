@@ -240,6 +240,7 @@ NoSQL
   * [How to create a new user sign up page in Firebase + ReactJS that checks for both an existing username and an existing email](https://medium.com/@bryantjiminson/how-to-create-a-new-user-sign-up-page-in-firebase-reactjs-that-checks-for-both-an-existing-de7d6cba03bd)
   * [Supabase - The open source Firebase alternative](https://supabase.io/)
   * [구글의 머신러닝을 배워요. Firebase ML - YouTube](https://www.youtube.com/watch?v=CSuHEuWpesc)
+  * [Migrate your Firebase Cloud Functions to Node.js 10 | by Doug Stevenson | Firebase Developers | Jun, 2020 | Medium](https://medium.com/firebase-developers/migrate-your-firebase-cloud-functions-to-node-js-10-d9c677933ee)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
