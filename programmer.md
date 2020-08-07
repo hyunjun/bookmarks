@@ -25,6 +25,8 @@ Programmer
 * [우리가 부르는 시니어 개발자는 누구인가?](http://woowabros.github.io/woowabros/2017/07/03/senior.html)
 * [**I Read 21 Articles About How to Become a Senior Developer So You Don't Have To**](https://dev.to/mibzman/i-read-21-articles-about-how-to-become-a-senior-developer-so-you-don-t-have-to-4dap/)
 * [What Happens When You Lack Senior Engineering Leadership](https://medium.com/swlh/what-happens-when-you-lack-senior-engineering-leadership-84ce189158b2)
+* [10 habits of Senior Software Developers (part 1) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-a-software-developer-1-8d18e4a06b09)
+* [10 habits of Senior Software Developers (part 2) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-software-developer-da0fb019c563)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
