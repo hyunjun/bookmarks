@@ -478,6 +478,7 @@ Interview
 * [Google Coding Interview With A Competitive Programmer](https://www.youtube.com/watch?v=EuPSibuIKIg)
 * [번역 구글 기술면접, 야 너두 할 수 있어!](https://baeharam.netlify.app/posts/interview/%EA%B5%AC%EA%B8%80-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%95%BC-%EB%84%88%EB%91%90-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4!)
 * [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
+* [Google Coding Interview｜구글 신입 엔지니어 인터뷰 준비 후기 :: Jeina, De'vLog](https://jeinalog.tistory.com/30)
 
 # Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
@@ -500,6 +501,7 @@ Interview
 * [10 free coding practice sites to step up your game (and even get hired)](https://www.beseen.com/blog/talent/free-coding-practice-sites)
 * [**10 Techniques to Master Coding Interview Questions**](https://levelup.gitconnected.com/10-techniques-to-master-coding-interview-questions-b3216d3d3920)
 * [algoexpert.io](https://www.algoexpert.io)
+  * [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) AlgoExpert 창업자
 * [algospot](https://www.algospot.com)
 * [atcoder.jp](https://atcoder.jp)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
