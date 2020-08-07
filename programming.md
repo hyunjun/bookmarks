@@ -1864,6 +1864,7 @@ Programming
   * [월간 개발자스럽다 #54](https://blog.gaerae.com/2020/05/monthly.html)
   * [월간 개발자스럽다 #55](https://blog.gaerae.com/2020/05/monthly-55.html)
   * [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
+  * [월간 개발자스럽다 #57](https://blog.gaerae.com/2020/08/monthly_6.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
