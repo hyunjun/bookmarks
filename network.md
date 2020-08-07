@@ -13,8 +13,6 @@ Network
 * [Non-Imperative Network Programming](https://github.com/mirage/mirage-decks/blob/master/slides/strangeloop15/content.md)
 * [비트윈의 멀티티어 아키텍처를 위한 프레젠터 이야기](http://engineering.vcnc.co.kr/2015/11/presenter-multitier-architecture/)
 * [Raw Sockets](http://intra97.tistory.com/201)
-* [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
-  * [NDC2016 오픈 소스 '헤이스트' 배포! UDP를 사용해서 게임 서버 만들기](http://www.inven.co.kr/webzine/news/?news=155627&vtype=pc)
 * [윈도우즈 소켓 통신 프로그램](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 * [kakao의 Anycast 활용 사례 anycast, quagga, bgp, dns, devops](http://tech.kakao.com/2014/05/29/anycast/)
 * [JAVA Network Programming](https://www.youtube.com/watch?v=HyZnrPjelsg)
@@ -79,7 +77,6 @@ Network
 * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
 * [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
 * [**HTTP/3: 과거, 현재 그리고 미래**](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/) 전반적인 http 내용을 잘 설명
-* [**HTTP/3는 왜 UDP를 선택한 것일까?**](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 * [An early look at HTTP/3](https://pgjones.dev/blog/early-look-at-http3-2019/)
 * [Experiment with HTTP/3 using NGINX and quiche](https://blog.cloudflare.com/experiment-with-http-3-using-nginx-and-quiche/)
 * [NGINX와 quiche로 HTTP/3 시험해 보기](https://blog.cloudflare.com/ko/experiment-with-http-3-using-nginx-and-quiche-ko/)
@@ -179,6 +176,9 @@ Network
 * [소켓 프로그래밍. (Socket Programming) :: 개발자를 위한 레시피](https://recipes4dev.tistory.com/153)
 
 # UDP
+* [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
+  * [NDC2016 오픈 소스 '헤이스트' 배포! UDP를 사용해서 게임 서버 만들기](http://www.inven.co.kr/webzine/news/?news=155627&vtype=pc)
+* [**HTTP/3는 왜 UDP를 선택한 것일까?**](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 * [QUIC과 HTTP/3 - 1. UDP기반 전송 프로토콜의 대두](https://www.saturnsoft.net/network/2019/03/21/quic-http3-1/)
 * [QUIC과 HTTP/3 - 2. 기존의 성능 개선 기법 및 한계](https://www.saturnsoft.net/network/2019/03/26/quic-http3-2)
 * [QUIC과 HTTP/3 - 3. curl + quiche 로 HTTP3 요청해 보기](https://www.saturnsoft.net/network/2019/08/11/http3-curl-quiche/)
