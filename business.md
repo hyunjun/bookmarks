@@ -64,6 +64,7 @@ Business
 * [몰입에 관한 생각 정리](https://brunch.co.kr/@younghakjang/79)
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
 * [기업 문화의 시작, 소통](https://brunch.co.kr/@lunarshore/371)
+* [수평적 조직문화는 민주주의가 아니다.](https://brunch.co.kr/@supims/600)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [성공적인 기업과 그렇지 못한 기업들 간의 핵심적인 차이는 '얼마나 똑똑한가'가 아니라 '얼마나 건강한가' - 패트릭 렌치오니, 무엇이 조직을 움직이는가](https://xodmfal.blog.me/221358777125)
@@ -243,7 +244,6 @@ Business
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 * [MSA구조에서의 기획자의 역할](https://brunch.co.kr/@windydog/347)
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
-* [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -550,6 +550,7 @@ Business
 * [창업 아이템 고르는 법](https://liveandventure.com/2020/05/21/item/)
 * [Unit Economics — 성장을 드라이브하는 기준 — How I invest (3) - 허진호 (Jin Ho Hur) - Medium](https://medium.com/@hur/unit-economics-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80-how-i-invest-3-2fff1dad51c6)
 * [수평적 vs. 수직적 마켓플레이스](https://www.thestartupbible.com/2020/07/horizontal-marketplaces-vs-vertical-marketplaces.html)
+* [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
