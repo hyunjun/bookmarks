@@ -522,6 +522,7 @@ Scala
 * [What is an Effect?](https://www.inner-product.com/posts/what-is-an-effect/)
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
 * [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
+* [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw&feature=youtu.be)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -546,6 +547,9 @@ Scala
     * [Human-readable case class diffs](https://blog.softwaremill.com/human-readable-case-class-diffs-c707e83e08a2)
     * [Scala CaseClass에 대한 특징 정리](https://wingnim.tistory.com/111)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
+* concurrent
+  * duration
+    * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
@@ -935,6 +939,7 @@ Scala
     * [Circuit Breaker Pattern with Cats Effect | by Hiroki Fujino | Level Up Coding](https://levelup.gitconnected.com/circuit-breaker-pattern-with-cats-effect-25947d0a4cba)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
+    * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
   * Cats STM [Announcing Cats STM 0.7.0](https://medium.com/permutive/announcing-cats-stm-0-7-0-5af9a0f72920)
 * [Chimney - Scala library for boilerplate-free data transformations](https://scalalandio.github.io/chimney/)
   * [Data Juggling - Part 1 - Getting Started with #Chimney](https://www.youtube.com/watch?v=ezz0BpEHEQY)
@@ -1182,6 +1187,7 @@ Scala
 ## Library Optics
 * [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
 * [Lessons Learned Building a Van Laarhoven Lens Library](http://www.doscienceto.it/blog/posts/2019-12-19-optics.html)
+* [An Intuition for Optics](https://about.chatroulette.com/posts/optics/)
 * [Monocle - Optics library for Scala](https://github.com/julien-truffaut/Monocle)
   * [State of Monocle](https://fp-tower.github.io/2019-12-30-state-of-monocle/)
   * [Monocle 3.x](https://fp-tower.github.io/2020-01-06-monocle-3/)
