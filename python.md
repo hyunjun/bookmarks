@@ -489,6 +489,7 @@ Python
   * [Python - 잘못된 클래스 변수의 사용](https://ash84.net/2017/05/26/python-using-class-variables-incorrectly/)
   * [Enriching Your Python Classes With Dunder (Magic, Special) Methods](https://dbader.org/blog/python-dunder-methods)
   * [What’s in a (Python’s) __name__?](https://medium.freecodecamp.org/whats-in-a-python-s-name-506262fe61e8)
+  * [What does “__name__” mean in Python? | by Sohaib Ahmad | Towards Data Science](https://towardsdatascience.com/what-does-name-mean-in-python-c3f80377b46b)
   * [Python 과 Mixin](http://hamait.tistory.com/859)
   * [Start Writing More Classes](http://lucumr.pocoo.org/2013/2/13/moar-classes/)
   * [Stop Writing Classes](https://www.youtube.com/watch?v=o9pEzgHorH0)
@@ -509,6 +510,7 @@ Python
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
 * collections
   * [파이썬 Collections 모듈 이해하기](http://www.slideshare.net/dahlmoon/collections-20160313)
+  * [Introducing high-performance datatypes in Python with the collections library | by George Seif | Level Up Coding](https://levelup.gitconnected.com/introducing-high-performance-datatypes-in-python-with-the-collections-library-3d8c334827a5)
   * Counter [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
   * deque [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
 * configparser
@@ -1871,6 +1873,7 @@ Python
 * [Running Your Flask Application Over HTTPS](https://blog.miguelgrinberg.com/post/running-your-flask-application-over-https)
 * [Flask - DB (Mysql) 연동과 CRUD :: 개발자 울이 노트](https://woolbro.tistory.com/91)
 * [How To Use One-to-Many Database Relationships with Flask and SQLite | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-one-to-many-database-relationships-with-flask-and-sqlite)
+* [Creating Middlewares with Python Flask | by Devesh Kharve | The Startup | Medium](https://medium.com/swlh/creating-middlewares-with-python-flask-166bd03f2fd4)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
