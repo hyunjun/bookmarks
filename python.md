@@ -1666,6 +1666,7 @@ Python
 * [장고 라이트닝 토크 - YouTube](https://www.youtube.com/watch?v=NP1Gz5JTtBg)
 * [django transaction 궁금증](https://gist.github.com/cuhong/b8358cae0f5bc3198c9015fcd34bb456)
 * [Daniel Feldroy - YouTube](https://www.youtube.com/c/DanielFeldroy/videos)
+* [Django 3.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
