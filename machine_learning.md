@@ -939,6 +939,7 @@ Machine Learning
   * [Technology Fridays: MLDB is the Database Every Data Scientist Dreams Of](https://hackernoon.com/technology-fridays-mldb-is-the-database-every-data-scientist-dreams-of-368b50b5a434)
 * [mlflow - Open source platform for the machine learning lifecycle https://mlflow.org ](https://github.com/mlflow/mlflow)
   * [Getting started with mlFlow](https://towardsdatascience.com/getting-started-with-mlflow-52eff8c09c61)
+  * [How to Display Model Evaluation Metrics Using MLflow Search API](https://databricks.com/blog/2020/02/18/how-to-display-model-metrics-in-dashboards-using-the-mlflow-search-api.html)
 * ML Kit
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
