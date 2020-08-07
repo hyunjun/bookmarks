@@ -570,6 +570,7 @@ SQL
 * [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
 * [Types of Indexes in PostgreSQL - Highgo Software Inc.](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
 * [PostgreSQL EXPLAIN — pgMustard](https://www.pgmustard.com/docs/explain)
+* [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
