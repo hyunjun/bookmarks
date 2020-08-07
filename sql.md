@@ -428,6 +428,7 @@ SQL
 * [Mysql objects 개념 정리 for 개발자](https://stricky.tistory.com/315)
 * [MySQL – Keep an eye on your auto_increment values – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-keep-an-eye-on-your-auto_increment-values/)
 * [Mysql FEDERATED Engine 으로 dblink 구현하기](https://stricky.tistory.com/325)
+* [MySQL SQL 독학 강의 전체 A to Z](https://stricky.tistory.com/333)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
