@@ -377,7 +377,10 @@ Python
 * [How to Make Histograms in Pure Python](https://www.youtube.com/watch?v=OpTwGLVCtHQ)
 * [Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
 * [15 Python Projects in Under 15 Minutes (Code Included)](https://www.youtube.com/watch?v=OXi4T58PwdM)
-* [초간단 업무자동화 코딩 강좌 #1/10:상장 일괄제작 | 회사원생존코딩](https://www.youtube.com/watch?v=1pC_UXhiJH8) 아래아한글
+* 아래아한글
+  * [초간단 업무자동화 코딩 강좌 #1/10:상장 일괄제작 | 회사원생존코딩](https://www.youtube.com/watch?v=1pC_UXhiJH8)
+  * ['파이썬-아래아한글 자동화 기초' 카테고리의 글 목록](https://www.martinii.fun/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EA%B8%B0%EC%B4%88)
+  * ['파이썬-아래아한글 자동화 응용' 카테고리의 글 목록](https://www.martinii.fun/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%9D%91%EC%9A%A9)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
 * [Minimizing context switching between shell and Python](https://www.johndcook.com/blog/2019/12/30/shell-and-python/)
