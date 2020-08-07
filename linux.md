@@ -325,6 +325,7 @@ Linux
   * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
 * nohup
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
+  * [리눅스 nohup 명령어 : 터미널과 연결이 끊어져도 계속 돈다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-nohup-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%84%B8%EC%85%98%EA%B3%BC-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%81%8A%EC%96%B4%EC%A0%B8%EB%8F%84-%EA%B3%84%EC%86%8D-%EB%8F%88%EB%8B%A4)
 * history
   * `history -c` `history -d <line number>` [리눅스 history 지우기](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_history_%EC%A7%80%EC%9A%B0%EA%B8%B0)
   * [How To : 리눅스에서 명령 사용 요약하기 - ITWorld Korea](http://www.itworld.co.kr/news/158396) HISTSIZE, HISTIGNORE
@@ -417,6 +418,7 @@ Linux
   * [How to view past performance with sar in Linux](https://www.thegeekdiary.com/how-to-view-past-performance-with-sar-in-linux/)
   * `sar -A -f /var/log/sa/sa<num>` num=01~29 [How do I get sar to show for the previous day?](https://unix.stackexchange.com/questions/5414/how-do-i-get-sar-to-show-for-the-previous-day)
   * [Linux/Android CPU Usage (사용량) 계산 방법 – MKBlog](https://mkblog.co.kr/2018/08/06/linux-android-cpu-usage-calculation/)
+  * [**서버에 걸리는 부하, 추측하지 말고 계측하자**](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html) CPU, I/O bound
   * [Load Average에 대하여 :: Lunatine's Box — Lunatine's Box](https://lunatine.net/2016/02/19/about-load-average/)
 * `sed`
   * [Sed stream editor 가이드](https://mug896.github.io/sed-stream-editor)
