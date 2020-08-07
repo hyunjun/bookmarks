@@ -97,7 +97,6 @@ Network
 * [HTTPS 전환 과정에서 read timeout 오류 해결 과정](http://d2.naver.com/helloworld/1469717) apache prefork MPM -> apache nginx, epoll
 * [HTTPS explained with carrier pigeons](https://medium.freecodecamp.org/https-explained-with-carrier-pigeons-7029d2193351)
 * [How to add HTTPS to your website for free in 10 minutes, and why you need to do this now more than ever](https://medium.freecodecamp.org/free-https-c051ca570324)
-* [HTTPS와 SSL 인증서, SSL 동작방법](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
 * [How to get HTTPS working on your local development environment in 5 minutes](https://medium.freecodecamp.org/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec)
 * [http에서 https로 변경 시 페이스북 like button 값 복구](https://www.popit.kr/https-%EB%B3%80%EA%B2%BD%EC%8B%9C-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81-like-button-%EA%B0%92-%EB%B3%B5%EA%B5%AC/)
 * [HTTPS에 대한 기초 이해](https://cheese10yun.github.io/https/)
@@ -107,6 +106,16 @@ Network
 * [HTTPS - 1. 그림으로 이해하는 HTTPS](https://www.youtube.com/watch?v=NhTstvC7DYY)
 * [HTTPS - 2. HTTPS의 Ciphersuite -1. 키 교환과 인증](https://www.youtube.com/watch?v=iEig3jlT45Y)
 * [HTTPS - 3. 키 유도(Key derivation)](https://www.youtube.com/watch?v=er1eG2dfURQ)
+* [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
+* [Http 보안 및 용어 정리](https://naleejang.tistory.com/216)
+* [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
+* [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
+* [HTTPS에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
+* [코모도 CA(Comodo)의 AddTrust External 루트 인증서 만료](https://www.44bits.io/ko/post/comodo-ca-addtrust-external-root-certificates-expiration)
+
+## HTTPS SSL
+* [practice - ssl certificate 교체](https://gist.github.com/hyunjun/4dd32ed70705f287c8893882aabbe100#file-ref-md)
+* [HTTPS와 SSL 인증서, SSL 동작방법](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
 * [How does SSL/TLS make HTTPS secure?](https://hackernoon.com/how-does-ssl-tls-make-https-secure-d247bd4e4cae)
 * [HTTPS와 SSL, 그리고 공개키에 관한 총정리 #TLS #공개키 #대칭키](https://developer88.tistory.com/314)
 * [초간단 SSL 설정하기 - YouTube](https://www.youtube.com/watch?v=R5i4S1MFzt0)
@@ -120,12 +129,6 @@ Network
 
   sudo certbot --nginx
   ```
-* [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
-* [Http 보안 및 용어 정리](https://naleejang.tistory.com/216)
-* [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
-* [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
-* [HTTPS에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
-* [코모도 CA(Comodo)의 AddTrust External 루트 인증서 만료](https://www.44bits.io/ko/post/comodo-ca-addtrust-external-root-certificates-expiration)
 
 # Library
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
