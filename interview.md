@@ -182,6 +182,7 @@ Interview
 * [황동성님](https://gist.github.com/hyunjun/c9e23a8553df22b889904dd728b2b2be)
 * [Interview Sandbox](https://interviewsandbox.com/)
   * [What if you could draw your thoughts in technical interviews?](https://medium.com/hackernoon/what-if-you-could-draw-your-thoughts-in-technical-interviews-47e1ff87bf33)
+* [제품을 파는 엔지니어가 되어보니](https://brunch.co.kr/@imagineer/328) solution engineer
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
