@@ -148,6 +148,7 @@ SQL
 * [Amazon Aurora Multi-Master를 통한 고가용성 MySQL 애플리케이션 만들기](https://aws.amazon.com/ko/blogs/korea/building-highly-available-mysql-applications-using-amazon-aurora-mmsr)
 * [Aurora MySQL를 운영하면서 알면 좋을 것 같은 미세한 팁](http://woowabros.github.io/experience/2019/12/04/auroraRDS.html)
 * [Aurora MySQL 스냅샷을 Parquet 로 S3 에 Export](https://chang12.github.io/rds-snapshot-export-to-s3/)
+* [When Should I Use Amazon Aurora and When Should I use RDS MySQL? - Percona Database Performance Blog](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -414,6 +415,7 @@ SQL
 * [MySQL의 다양한 실행 프로그램 mysqld_safe, mysql.server, mysqld_multi feat.mysqld](https://stricky.tistory.com/164)
 * [MySQL 8.0 테이블스페이스 관리 방법 변경 내용 feat.테이블 스페이스 삭제한다면?!](https://stricky.tistory.com/166)
 * [MySQL 8.0 – Who stopped mysqld and how long did it take ? – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-8-0-who-stopped-mysqld-and-how-long-did-it-take/)
+* [MySQL 5.6 EOL is February 2021 !! – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-5-6-eol-is-february-2021/) 8.0
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
@@ -429,12 +431,19 @@ SQL
 * [MySQL – Keep an eye on your auto_increment values – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-keep-an-eye-on-your-auto_increment-values/)
 * [Mysql FEDERATED Engine 으로 dblink 구현하기](https://stricky.tistory.com/325)
 * [MySQL SQL 독학 강의 전체 A to Z](https://stricky.tistory.com/333)
+* [MySQL Deadlocks Are Our Friends - Percona Database Performance Blog](https://www.percona.com/blog/2020/07/07/mysql-deadlocks-are-our-friends/)
+* [MySQL from a Developers Perspective | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2020/08/04/mysql-from-a-developers-perspective.html)
+* [MySQL Transactions - the physical side | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2020/07/27/mysql-transactions.html)
+* [MySQL Challenge: 100k Connections - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/25/mysql-challenge-100k-connections/)
+* [Sometimes they come back: exfiltration through MySQL and CVE-2020-11579 - Shielder](https://www.shielder.it/blog/mysql-and-cve-2020-11579-exploitation/)
+* [MySQL Query Performance Troubleshooting: Resource-Based Approach - Percona Database Performance Blog](https://www.percona.com/blog/2020/07/15/mysql-query-performance-troubleshooting-resource-based-approach/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
 * [New Logical Backup and Restore Utilities in the MySQL Shell](https://elephantdolphin.blogspot.com/2020/07/new-logical-backup-and-restore.html)
 * [ADT - Almighty Data Trasmitter](http://tech.kakao.com/2016/06/27/opensource-5-adt/)
   * [github.com/kakao/adt](https://github.com/kakao/adt)
+* [binlog2sql: Binlog to Raw SQL Conversion and Point In Time Recovery - Percona Database Performance Blog](https://www.percona.com/blog/2020/07/09/binlog2sql-binlog-to-raw-sql-conversion-and-point-in-time-recovery/)
 * [Directus - Free and Open-Source MySQL Database GUI](http://getdirectus.com/)
   * [A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting](https://github.com/dbcli/mycli)
 * [DocStore: Document Database for MySQL at Facebook](https://www.percona.com/live/mysql-conference-2015/sites/default/files/slides/Facebook%20DocStore%20Percona%202015.pdf)
