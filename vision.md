@@ -211,6 +211,7 @@ Vision
   * [YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet ](https://github.com/AlexeyAB/darknet)
   * [YOLOv4 in the CLOUD: Build and Train Custom Object Detector](https://morioh.com/p/450b2ab62a56?f=5c21fb01c16e2556b555ab32)
   * [YOLOv4 Object Detection with TensorFlow, TensorFlow Lite and TensorRT Models](https://morioh.com/p/b80d2e63949e?f=5c21fb01c16e2556b555ab32)
+  * [Counting Objects Using YOLOv4 Object Detection | Custom YOLOv4 Functions with TensorFlow](https://morioh.com/p/aed42c64432a)
   * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
   * [YOLOv5 compared to Faster RCNN. Who wins? | by Priya Dwivedi | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/yolov5-compared-to-faster-rcnn-who-wins-a771cd6c9fb4)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
