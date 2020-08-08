@@ -120,6 +120,7 @@ App
   * [다크웹 탐사 (1): Explore. Privately](https://noder.foundation/deep-web-1/)
 * [Trident – Setup Your Own Social Network Website](http://www.unixmen.com/trident-setup-your-own-social-network-website/)
 * [TROST - 언제나 내손안에, 나만의 전문심리상담사 TROST](http://www.wadiz.kr/web/campaign/detail/2277)
+* Typometer [Pavel Fatin » Blog Archive » Typometer - Blog about human and technology](https://pavelfatin.com/typometer/)
 * [vagrant로 linux에서 winodws 사용하기](http://blog.naver.com/hancury/220757948510)
   * [15분만에 윈도우에서 Ansible 테스트 환경 구축하기 (서버 1대 + 노드 5대)](https://sysnet4admin.blogspot.com/2017/06/vagrant-15-ansible-1-5.html)
   * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
@@ -284,6 +285,7 @@ App
 * [Pelican Static Site Generator, Powered by Python](https://blog.getpelican.com/)
   * [Creating a Static Blog with Search and Comments using the Pelican Static Site Generator](https://medium.freecodecamp.org/pelican-tutorial-static-blog-with-search-comments-demo-5137c02cbb0a)
 * Readability [Node.js 라이브러리 Readability로 전문 RSS 만들기](https://www.44bits.io/ko/post/generate-full-feed-by-using-mozilla-readability)
+* [Remark42, commenting system](https://remark42.com/)
 * [TinaCMS로 편집 가능한 홈페이지 만들기](https://imch.dev/posts/build-a-funny-homepage-with-tina-cms)
   * [gatsby-tinacms-example](https://github.com/iamchanii/gatsby-tinacms-example)
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
@@ -329,6 +331,7 @@ App
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
 * [10 Awesome Chrome Flags You Should Enable Right Now | by Sanjeet Chatterjee | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/10-awesome-chrome-flags-you-should-enable-right-now-2684e4518cb5)
+* nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 
 # Comminucation
@@ -765,6 +768,7 @@ App
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
+* [UnnaturalScrollWheels: Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS](https://github.com/ther0n/UnnaturalScrollWheels)
 * Vim
   * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
   * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
@@ -1082,10 +1086,13 @@ App
 * [윈도우 10 잠금화면 없애기](https://rgy0409.tistory.com/3194)
 * [유니콘 - HTTPS 차단 우회앱](http://unicorn-adblock.com/%EC%9C%A0%EB%8B%88%EC%BD%98-https-for-windows/)
 * [‘화면 녹화부터 공간 정리까지’ 개발자에게 유용한 윈도우 유틸리티 6종](http://www.itworld.co.kr/news/154608#csidx4c0c180ce441b5fb3dc1a89be0d76da)
+* [윈도우 10에서 스크린샷을 찍는 5가지 방법 - ITWorld Korea](http://www.itworld.co.kr/news/158967)
 * [How to Create a List of Your Installed Programs on Windows](https://www.howtogeek.com/165293/how-to-get-a-list-of-software-installed-on-your-pc-with-a-single-command/)
+* [How To : 하드디스크 상태를 점검하고 모니터링하는 방법 - ITWorld Korea](http://www.itworld.co.kr/news/159494)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
+* [DISKSPD - a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams](https://github.com/microsoft/diskspd?s=09)
 * [Everything](https://www.voidtools.com)
 * [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) spectacle처럼 윈도우에서 레이아웃 조정하는 앱
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
