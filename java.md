@@ -146,6 +146,7 @@ Java
   * [Java Collection interview questions answered on differences between X & Y](https://www.java-success.com/java-collection-interview-questions/)
   * [일급 컬렉션 (First Class Collection)의 소개와 써야할 이유](https://jojoldu.tistory.com/412)
   * [java hashset은 key의 해쉬 코드가 모두 같을 때 최악 복잡도가 어떻게 될까요?](https://codingdog.tistory.com/entry/java-hashset%EC%9D%80-key%EC%9D%98-%ED%95%B4%EC%89%AC-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%AA%A8%EB%91%90-%EA%B0%99%EC%9D%84-%EB%95%8C-%EC%B5%9C%EC%95%85-%EB%B3%B5%EC%9E%A1%EB%8F%84%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
+  * [java hashset : 어떻게 구현이 되어 있을까요?](https://codingdog.tistory.com/entry/java-hashset-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%EC%9D%B4-%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [Game of Life, hash tables and hash codes](http://pzemtsov.github.io/2015/04/24/game-of-life-hash-tables-and-hash-codes.html)
   * [java의 hashtable 대신에 왜 다른 것을 권장할까요](https://codingdog.tistory.com/entry/java%EC%9D%98-hashtable-%EB%8C%80%EC%8B%A0%EC%97%90-%EC%99%9C-%EB%8B%A4%EB%A5%B8-%EA%B2%83%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [같은 것 같지만 다른 java map get vs containskey](https://codingdog.tistory.com/entry/%EA%B0%99%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%8B%A4%EB%A5%B8-java-map-get-vs-containskey)
