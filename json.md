@@ -18,7 +18,7 @@ Json
 * [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
 * [jsoncpp 를 이용하여 C++에서 JSON 생성 및 Parsing 하기](http://devluna.blogspot.com/2015/09/jsoncpp-c-json-parsing.html)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
-* [simdjson - Parsing gigabytes of JSON per second https://arxiv.org/abs/1902.08318 ](https://github.com/lemire/simdjson)
+* [simdjson: Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
 
 # Clojure
 * [Avoid Converting JavaScript Objects](http://blog.fikesfarm.com/posts/2017-11-09-avoid-converting-javascript-objects.html)
