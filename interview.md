@@ -183,6 +183,9 @@ Interview
 * [Interview Sandbox](https://interviewsandbox.com/)
   * [What if you could draw your thoughts in technical interviews?](https://medium.com/hackernoon/what-if-you-could-draw-your-thoughts-in-technical-interviews-47e1ff87bf33)
 * [제품을 파는 엔지니어가 되어보니](https://brunch.co.kr/@imagineer/328) solution engineer
+* [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
+* [(45) AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG - LeetCode Discuss](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
+* [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -332,6 +335,7 @@ Interview
     * [How to implement TinyURL (System Design Interview)](https://www.youtube.com/watch?v=eCLqmPBIEYs)
     * [System Design: URL Shortener](https://www.youtube.com/playlist?list=PL5tcWHG-UPH38OBsRIdxVvNV2nwrXkf6t)
     * [How to Interview an Engineer for your Startup](https://www.tkkader.com/2012/03/how-to-hire-a-hacker-for-your-startup/)
+    * [How to build a Tiny URL service that scales to billions? | by Vaibhav Singh | The Startup | Medium](https://medium.com/swlh/how-to-build-a-tiny-url-service-that-scales-to-billions-f6fb5ea22e8c)
   * Social Media
     * [MQ를 이용한 SNS 글쓰기 성능 개선](https://d2.naver.com/helloworld/1247) timeline architecture 개선
     * [**소셜 네트워크 서비스의 아키텍처에 대하여**](https://d2.naver.com/helloworld/551588) push vs. pull에 대한 매우 좋은 분석글
