@@ -313,6 +313,7 @@ Programming
 * [당근마켓의 푸시알림을 지탱하고 있는 Node.js 서비스. 푸시알림은 당근마켓 서비스에서 채팅, ‘키워드 알림’, ‘금주의… | by Hwasoo Cho | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%98-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-node-js-%EC%84%9C%EB%B9%84%EC%8A%A4-19023ad86fc)
 * [왜 우리는 Go와 TypeScript를 선택했는가. Java와 Ruby, Python까지 포함해서 5가지 언어를 가져가고… | by 김동현 | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-go%EC%99%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-3c08a4cf7ca8)
 * [코딩 1도 없이 서비스 4개 만들기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/222612) 노코드
+* [how-to-secure-anything: How to systematically secure anything: a repository about security engineering](https://github.com/veeral-patel/how-to-secure-anything)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -477,6 +478,9 @@ Programming
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
 * [**세분화(Granular) 애플리케이션 아키텍처 패턴**](https://medium.com/@jwyeom63/%EC%84%B8%EB%B6%84%ED%99%94-granular-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-1f6a2d720545)
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
+* [Beyond the Distributed Monolith: Rearchitecting the Big Data Platform](https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/)
+* [What Is a Modular Monolith? | Rebel](https://www.jrebel.com/blog/what-is-a-modular-monolith)
+* [Deconstructing the Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
@@ -952,6 +956,7 @@ Programming
 * [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](http://channy.creation.net/blog/1255)
 * [‘빅3’ 클라우드, 2020 상반기 투자 동향 | 슬로우뉴스](https://slownews.kr/76839)
 * [레드햇 vs. VM웨어: 2020 상반기 하이브리드·멀티 클라우드 동향 | 슬로우뉴스](https://slownews.kr/77138)
+* [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -1073,6 +1078,7 @@ Programming
 * [repl.it](https://repl.it/)
 * [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
 * [RosettaGit - to present solutions to the same task in as many different programming languages as possible](https://rosettagit.org/)
+* [Snippet Shot - Generate screenshots 📸 from your code snippets](https://www.snippetshot.com/)
 * [theia Cloud & Desktop IDE](https://theia-ide.org/)
 * [tutorialspoint.com/codingground.htm](http://www.tutorialspoint.com/codingground.htm)
 * VS code live share [Microsoft : VS Live Share](https://pang2h.tistory.com/91)
@@ -1360,6 +1366,7 @@ Programming
 
 # Image
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
+* [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
 * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 
 # Infrastructure
@@ -1751,6 +1758,7 @@ Programming
   * [7월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/07/b-7-3.html)
   * [7월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/07/b-7-4.html)
   * [7월 5주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/08/b-7-5.html)
+  * [8월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/08/b-8-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
