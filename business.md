@@ -244,6 +244,7 @@ Business
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
 * [MSA구조에서의 기획자의 역할](https://brunch.co.kr/@windydog/347)
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
+* [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -376,6 +377,7 @@ Business
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
 * [어떤 분위기의 팀을 만들 것인가?](https://brunch.co.kr/@younghakjang/55)
 * [**심리적 안전감이란? 커넥트북 최고의 팀은 어떻게 다른가, 두려움 없는 조직**](https://brunch.co.kr/@younghakjang/112)
+* [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
 * [직무 설계: 성과를 내는 구조 만들기](https://brunch.co.kr/@younghakjang/64)
