@@ -322,6 +322,7 @@ NLP
 * [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273) ELMO
 * [Semantic Segmentation PyTorch Tutorial & ECCV 2020 VIPriors Challenge 참가 후기 정리](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
   * [semantic-segmentation-tutorial-pytorch: A simple PyTorch codebase for semantic segmentation using Cityscapes.](https://github.com/hoya012/semantic-segmentation-tutorial-pytorch)
+* [awesome-semantic-segmentation: awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
