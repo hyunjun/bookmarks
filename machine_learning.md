@@ -1154,6 +1154,7 @@ Machine Learning
   * [파이썬 사이킷런(sklearn) 패키지에서 ROC곡선 쉽게 그리는 방법!](https://tariat.tistory.com/754?category=678799)
   * [**Multiple Linear Regression and Visualization in Python**](https://aegis4048.github.io/mutiple_linear_regression_and_visualization_in_python) 3D linear regression model 시각화
   * [PCA using Python (scikit-learn)](https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60)
+  * [주성분 분석(PCA)의 이해와 실제 데이터(IRIS)에 적용](https://enjoyso.tistory.com/104)
   * [붓꽃 데이터는 이제 그만 - 차원축소 쉽게 이해하기 (PCA, LDA)](https://data101.oopy.io/df050072-61f4-4e75-af46-5614edbf8d26)
   * [ML impossible: Train 1 billion samples in 5 minutes on your laptop using Vaex and Scikit-Learn](https://towardsdatascience.com/ml-impossible-train-a-1-billion-sample-model-in-20-minutes-with-vaex-and-scikit-learn-on-your-9e2968e6f385)
   * [파이썬(sklearn) 사이킷런(sklearn) 기초](https://losskatsu.github.io/machine-learning/sklearn/)
