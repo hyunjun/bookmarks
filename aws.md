@@ -397,6 +397,7 @@ AWS
 * [DevAxConnect - Twitch](https://www.twitch.tv/videos/667616330)
 * [Our AWS bill is ~ 2% of revenue. Here's how we did it | Blog](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
+* [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
