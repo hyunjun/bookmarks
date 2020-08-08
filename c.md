@@ -45,6 +45,7 @@ C
 * [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Writing Efficient C and C Code Optimization](http://www.codeproject.com/Articles/6154/Writing-Efficient-C-and-C-Code-Optimization)
+* [How to optimize C and C++ code in 2018 | by Iurii Krasnoshchok | Medium](https://medium.com/@aka.rider/how-to-optimize-c-and-c-code-in-2018-bd4f90a72c2b)
 * [No, strncpy() is not a "safer" strcpy()](http://the-flat-trantor-society.blogspot.kr/2012/03/no-strncpy-is-not-safer-strcpy.html)
 * [Don't Learn C the Wrong Way](http://hentenaar.com/dont-learn-c-the-wrong-way)
 * [Common x86 Calling Conventions](https://jlospinoso.github.io/assembly/c/developing/software/2015/04/04/common-x86-calling-conventions.html)
@@ -389,6 +390,7 @@ C
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
 * [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
+* [WasmBoxC: Simple, Easy, and Fast VM-less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
 * [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
 
