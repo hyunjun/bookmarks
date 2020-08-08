@@ -697,6 +697,7 @@ Web
 * [**코딩 없이 10분 만에 REST API/Graphql 서버 개발하기**](https://medium.com/@khwsc1/js%EB%A1%9C-10%EB%B6%84%EB%A7%8C%EC%97%90-rest-api-graphql-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d28148dbdef2)
 * [REST API 사용하기 쉽게 만드는 법](https://www.youtube.com/watch?v=JMH3cfW-8r8)
 * [Jira Server platform REST API reference 8.10.1](https://docs.atlassian.com/software/jira/docs/api/REST/8.10.1/#api/2/issueLink-getIssueLink) 참고
+* [REST API 설계](https://www.slideshare.net/Byungwook/rest-api-60505484)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
