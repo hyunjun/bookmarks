@@ -394,6 +394,7 @@ Python
 * [How to build HANGMAN with Python in 10 MINUTES - YouTube](https://www.youtube.com/watch?v=m4nEnsavl6w)
 * [파이썬 초보에서 중수가 되기 위한 9가지 스킬](https://lazymatlab.tistory.com/92)
 * [파이썬으로 SAP Script 실행하기 (with argument)](https://kminito.tistory.com/10)
+* [futurecoder: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1212,6 +1213,7 @@ Python
 * [왜 asyncio에 뮤텍스 락이 필요할까?](https://seonghyeon.dev/whats-the-asyncio-lock-for/) asyncio.Lock()
 * [asyncio를 이용한 비동기 처리 이해와 promise와 비교하기](https://blog.naver.com/pjt3591oo/221979921090)
 * [An Introduction to ASGI, Asynchronous Server Gateway Interface](https://www.youtube.com/watch?v=uRcnaI8Hnzg)
+* [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -1673,6 +1675,7 @@ Python
 * [django transaction 궁금증](https://gist.github.com/cuhong/b8358cae0f5bc3198c9015fcd34bb456)
 * [Daniel Feldroy - YouTube](https://www.youtube.com/c/DanielFeldroy/videos)
 * [Django 3.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
+* [How To Scale and Secure a Django Application with Docker, Nginx, and Let's Encrypt | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-scale-and-secure-a-django-application-with-docker-nginx-and-let-s-encrypt)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
@@ -2602,6 +2605,7 @@ Python
 * [Kite - Your programming copilot Kite augments your coding environment with all the internet’s programming knowledge](https://kite.com/)
 * [Kore4 and Python](https://blog.kore.io/posts/kore4-and-python)
 * [Krill - The hacker's way of keeping up with the world](https://github.com/p-e-w/krill)
+* [latexify_example.ipynb - Colaboratory](https://colab.research.google.com/drive/1MuiawKpVIZ12MWwyYuzZHmbKThdM5wNJ)
 * [LemonGraph - a log-based transactional graph (nodes/edges/properties) database engine that is backed by a single file](https://github.com/NationalSecurityAgency/lemongraph)
 * [Levenshtein Automata implementations](http://fulmicoton.com/posts/levenshtein/)
 * [libtclpy - This is a Tcl extension to effortlessly to call bidirectionally between Tcl and Python, targeting Tcl >= 8.5 and Python 2.6 - 2.7](https://github.com/aidanhs/libtclpy)
@@ -2724,6 +2728,7 @@ Python
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
 * pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)
+* [Pysa: Open Source static analysis for Python code - Facebook Engineering](https://engineering.fb.com/security/pysa/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [pysftp](http://pysftp.readthedocs.io/) a kind of wrapper of paramiko
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
@@ -2882,6 +2887,7 @@ Python
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [**Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp**](https://github.com/Yelp/undebt)
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
+* [usbkill: « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.](https://github.com/hephaest0s/usbkill)
 * [uvicorn - The lightning-fast asyncio server, for Python 3. :unicorn: http://www.uvicorn.org ](https://github.com/encode/uvicorn)
 * [**uvloop is a fast, drop-in replacement of the built-in asyncio event loop**](https://github.com/MagicStack/uvloop)
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
@@ -3702,6 +3708,7 @@ Python
 * [slack api 연동](http://blog.naver.com/pjt3591oo/221090833195)
 * [Slack Slash Command를 통해 집 근처 약국 마스크 수량 알아보기](https://aws-diary.tistory.com/91)
 * [Python and Slack: A Natural Match](https://towardsdatascience.com/python-and-slack-a-natural-match-60b136883d4d)
+* [How To Build a Slackbot in Python on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-slackbot-in-python-on-ubuntu-20-04)
 * [Slack Developer Kit for Python — Slack Developer Kit for Python](https://slack.dev/python-slackclient/index.html)
   * [slackapi/python-slackclient: Slack Developer Kit for Python](https://github.com/slackapi/python-slackclient)
 * [slacker: Full-featured Python interface for the Slack API](https://github.com/os/slacker/)
