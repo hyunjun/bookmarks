@@ -80,6 +80,7 @@ Writing
 * [Why developers should know how to write](https://medium.com/free-code-camp/why-developers-should-know-how-to-write-dc35aa9b71ab)
 * [The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
 * [테크니컬 라이팅 컨퍼런스: API the Docs Chicago 2019 방문기](https://engineering.linecorp.com/ko/blog/api-the-docs-chicago-2019-recap/)
+* [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
 * [Publish Technical Tutorials in Google Codelab Format](https://medium.com/@zarinlo/publish-technical-tutorials-in-google-codelab-format-b07ef76972cd)
 * [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
 * [Notes on Technical Writing](https://mkaz.blog/misc/notes-on-technical-writing/)
@@ -91,4 +92,5 @@ Writing
 * [Top 29 Developer Docs - DEV](https://dev.to/pomber/top-29-developer-docs-44l0)
 * [API Improvement Proposals](https://aip.dev)
 * [Doxygen: Main Page](https://www.doxygen.nl)
+* slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
