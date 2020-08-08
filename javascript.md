@@ -110,6 +110,7 @@ Javascript
 * [Performant JavaScript Best Practices](https://levelup.gitconnected.com/performant-javascript-best-practices-c5a49a357e46)
 * [JavaScript Best Practices for Writing More Robust Code](https://medium.com/swlh/javascript-best-practices-for-writing-more-robust-code-value-checks-8dde9459d1b9)
 * [JavaScript Best Practices for Readable and Maintainable Code | by Mahdhi Rezvi | Jun, 2020 | Bits and Pieces](https://blog.bitsrc.io/javascript-best-practices-for-readable-and-maintainable-code-b54f0aca2353)
+* [wtfjs: 🤪 A list of funny and tricky JavaScript examples](https://github.com/denysdovhan/wtfjs)
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
   * [Airbnb JavaScript 스타일 가이드](https://github.com/tipjs/javascript-style-guide)
 * [Google JavaScript Style Guide](https://google.github.io/styleguide/jsguide.html)
@@ -396,6 +397,7 @@ Javascript
 * [**CORS는 왜 이렇게 우리를 힘들게 하는걸까?**](https://evan-moon.github.io/2020/05/21/about-cors/) `Access-Control-Allow-Origin`
 * [예제로 배우는 CORS](https://www.youtube.com/watch?v=mZ-uq3c3Xfs)
 * [Cross Origin Resource Sharing - CORS - 뒤태지존의 끄적거림](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
+* [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
@@ -485,6 +487,7 @@ Javascript
 * [The tools and resources that landed me a front-end developer job](https://medium.freecodecamp.org/the-tools-and-resources-that-landed-me-a-front-end-developer-job-1314c6f1fa7f)
 * [뭐라고? 브라우져에서 바로 코딩이 가능하다고? 온라인 에디터 3종 추천 (Try Using this! Code Pen, Code Sandbox, and Snack)](https://www.youtube.com/watch?v=GIMPIDT2lkA)
 * [How to differentiate between deep and shallow copies in JavaScript](https://medium.freecodecamp.org/copying-stuff-in-javascript-how-to-differentiate-between-deep-and-shallow-copies-b6d8c1ef09cd)
+* [깊은 복사와 얕은 복사에 대한 심도있는 이야기. 자바스크립트 개발자라면 반드시 알고 있어야하는 깊은 복사와 얕은 복사에… | by Moon | WATCHA | Jul, 2020 | Medium](https://medium.com/watcha/%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8B%AC%EB%8F%84%EC%9E%88%EB%8A%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-2f7d797e008a)
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 1](https://www.youtube.com/watch?v=JzFvGf7Ywkk)
 * [Flying a Drone with React and Node.js! (100% JavaScript!) — PART 2](https://www.youtube.com/watch?v=ozMwRq-IT2w)
 * [Forget Docker, the future is JAMstack](https://hackernoon.com/forget-docker-the-future-is-jamstack-aae5bcaf4616)
@@ -598,6 +601,7 @@ Javascript
 * [A little bit of plain Javascript can do a lot](https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/)
 * [유용한 JavaScript 코딩 기법들](https://blog.ull.im/engineering/2019/06/10/some-of-useful-javascript-trick.html)
 * [이벤트 핸들러를 대하는 개발자의 자세](https://blog.shiren.dev/2020-07-27-1/)
+* [fe-news/2020-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-08.md)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -695,6 +699,8 @@ Javascript
   * [애플리케이션 구조 설계 - 2](http://mobicon.tistory.com/566)
   * [애플리케이션 구조 설계 - 3](http://mobicon.tistory.com/567)
 * [Version 7 of Angular — CLI Prompts, Virtual Scroll, Drag and Drop and more](https://blog.angular.io/version-7-of-angular-cli-prompts-virtual-scroll-drag-and-drop-and-more-c594e22e7b8c)
+* [Build your Own Virtual Scroll - Part I - DEV](https://dev.to/adamklein/build-your-own-virtual-scroll-part-i-11ib)
+* [Build your own virtual scroll - Part II - DEV](https://dev.to/adamklein/build-your-own-virtual-scroll-part-ii-3j86)
 * [Introducing to NG-VDOM: A new way to write Angular application](https://blog.angularindepth.com/introducing-to-ng-vdom-a-new-way-to-write-angular-application-60a3be805e59)
 * [Understanding Change Detection Strategies in Angular](https://blog.bitsrc.io/understanding-change-detection-strategies-in-angular-d4ca7744085a)
 * [Boost Angular’s Performance by Lazy Loading your Modules](https://blog.bitsrc.io/boost-angulars-performance-by-lazy-loading-your-modules-ca7abd1e2304)
@@ -1038,6 +1044,7 @@ Javascript
 * [GraphQL Gateway for Exposing External APIs](https://medium.com/devops-dudes/graphql-gateway-for-exposing-external-apis-51239a914876)
 * [발표, GraphQL 적용기 - 완두블로그](https://wani.kr/posts/2019/11/30/graphql/)
 * [A Principled Approach to GraphQL Query Cost Analysis | by James Davis | Dev Genius | Jun, 2020 | Medium](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
+* [fullstack-starterkit: GraphQL first full-stack starter kit with Node, React. Powered by TypeScript](https://github.com/karanpratapsingh/fullstack-starterkit)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
@@ -1208,6 +1215,7 @@ Javascript
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
 * [Fabric.js - a powerful and simple Javascript HTML5 canvas library](http://fabricjs.com/)
   * [Fabric.js History Operations (undo, redo) and Useful Tips](https://medium.com/@alm.ozdmr/fabric-js-history-operations-undo-redo-and-useful-tips-edeab8d4f48d)
+* [FAST - a collection of JavaScript packages centered around web standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development](https://www.fast.design/docs/introduction/)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
@@ -1342,6 +1350,7 @@ Javascript
   * [Everything you need to know about the `passport-local` Passport JS Strategy](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
+* [perfect-arrows: A minimal tool for drawing perfect arrows between points and shapes](https://github.com/steveruizok/perfect-arrows)
 * [pie menu generator](http://pmg.softwaretailoring.net/)
 * [plainjs - Vanilla JavaScript for building powerful web applications](http://plainjs.com/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
@@ -1358,6 +1367,7 @@ Javascript
   * [Announcing “Quark” — A Software sketchbook for your projects](https://hackernoon.com/announcing-quark-a-software-sketchbook-for-your-projects-2f53553415b)
 * [rainyday.js](http://pluvior.com/?rainy)
 * [randexp.js - Create random strings that match a given regular expression. http://fent.github.io/randexp.js ](https://github.com/fent/randexp.js)
+* [Rando.js | The better JavaScript random function](https://randojs.com/)
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line https://redditshell.com ](https://github.com/jasonbio/reddit-shell)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
@@ -1494,6 +1504,7 @@ Javascript
 * [Angular vs React vs Vue: Which is the Best Choice for 2019?](https://medium.com/hackernoon/angular-vs-react-vs-vue-which-is-the-best-choice-for-2019-16ce0deb3847)
 * [Making Quick Changes to Entered Data](https://medium.com/better-programming/react-vs-vue-making-quick-changes-to-entered-data-337b9823ae6)
 * [React vs. Angular: The 2020 Edition | by Michael Krasnov | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/react-vs-angular-the-2020-edition-1e558f280cb8)
+* [I created the exact same app in React and Vue. Here are the differences](https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition)
 
 ## Library Build
 * [npmjs.com](https://www.npmjs.com/)
