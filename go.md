@@ -571,6 +571,7 @@ Go
 
 # Tutorial
 * [Ultimate Go study guide](https://github.com/hoanhan101/ultimate-go)
+* [Learning Go — from zero to hero. Let’s start with a small introduction… | by Milap Neupane | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/learning-go-from-zero-to-hero-d2a3223b3d86)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
