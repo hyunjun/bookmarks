@@ -181,6 +181,7 @@ Git
 * [Github 프로필에 나의 Daliy 코딩 시간을 적용해보자!](https://fernando.kr/develop/2020-05-02-github-gist-posting/)
 * [GitHub Actions, 어디까지 써봤니?](https://dico.me/topic/articles/279)
 * [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
+* [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
@@ -681,6 +682,7 @@ Git
   * [Probot: Scheduler 사용하기](https://blog.outsider.ne.kr/1402)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * PyGithub [Github 저장소 API 호출로 삭제하기](https://velog.io/@king/Github-%EC%A0%80%EC%9E%A5%EC%86%8C-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+* [release: Generate changelogs with a single command](https://github.com/vercel/release)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
 * [SourceTree - Simplicity and power in a beautiful Git GUI](https://www.sourcetreeapp.com)
