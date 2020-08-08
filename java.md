@@ -313,10 +313,14 @@ Java
 * [왜 java의 hashmap 클래스는 멀티스레드 환경에서 안전하지 않는가](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%9D%98-hashmap-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EA%B0%80)
 * [race condition : 둘 이상이 같은 자원을 가지고 경쟁한다.](https://codingdog.tistory.com/entry/race-condition-%EB%91%98-%EC%9D%B4%EC%83%81%EC%9D%B4-%EA%B0%99%EC%9D%80-%EB%AC%B4%EC%96%B8%EA%B0%80%EB%A5%BC-%EC%9C%84%ED%95%B4-%EA%B2%BD%EC%9F%81%ED%95%9C%EB%8B%A4)
 * [A New Concurrency Model in Java. Things have changed considerably in the… | by The Bored Dev | Jun, 2020 | codeburst](https://codeburst.io/a-new-concurrency-model-in-java-975d597dd5e4)
-* [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
+* [Performance of Modern Java on Data-Heavy Workloads, Part 1 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1)
+* [Performance of Modern Java on Data-Heavy Workloads, Part 2 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part2)
+* [The Low-Latency Rematch: Performance of Modern Java on Data-Heavy Workloads · Hazelcast Jet](https://jet-start.sh/blog/2020/06/23/jdk-gc-benchmarks-rematch)
+* [Sub-10 ms Latency in Java: Concurrent GC with Green Threads · Hazelcast Jet](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
 ## Concurrency Parallel Thread Akka
+* [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
 * [Quasar and Akka – a Comparison](https://www.voxxed.com/blog/2015/08/quasar-and-akka-a-comparison/)
 * [Building Reactive Applications with Akka Actors and Java 8](https://www.infoq.com/articles/Building-Reactive-Applications-with-Akka/)
