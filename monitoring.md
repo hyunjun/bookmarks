@@ -22,6 +22,7 @@ Monitoring
 * [알람에 관하여](https://woowabros.github.io/experience/2020/03/07/alarm.html)
 * [간단하게 만드는 이상한 알람](https://woowabros.github.io/experience/2020/05/14/anomaly_alarm.html)
 * [오픈소스 모니터링 솔루션 소개 - Prometheus, Scouter 등](http://www.opennaru.com/apm/open-source-monitoring-tool/)
+* [Monitoring demystified: A guide for logging, tracing, metrics | TechBeacon](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
