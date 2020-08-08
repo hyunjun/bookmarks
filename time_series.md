@@ -101,6 +101,7 @@ Time Series
   * [Time Series Forecasting with Prophet](https://towardsdatascience.com/time-series-forecasting-with-prophet-54f2ac5e722e)
   * [Predicting the ‘Future’ with Facebook’s Prophet](https://towardsdatascience.com/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
   * [시계열 예측 패키지 Prophet 소개](https://hyperconnect.github.io/2020/03/09/prophet-package.html)
+* [questdb: An open source SQL database designed to process time series data, faster](https://github.com/questdb/questdb)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [TimescaleDB](http://www.timescale.com)
