@@ -396,6 +396,7 @@ Python
 * [파이썬 초보에서 중수가 되기 위한 9가지 스킬](https://lazymatlab.tistory.com/92)
 * [파이썬으로 SAP Script 실행하기 (with argument)](https://kminito.tistory.com/10)
 * [futurecoder: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
+* [Mutability and Immutability in Python — Let’s Break It Down | by Wendy Leung | Data Driven Investor | Medium](https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -3692,6 +3693,7 @@ Python
 * [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
 * [Dictionary Merging and Updating in Python 3.9](https://medium.com/better-programming/dictionary-merging-and-updating-in-python-3-9-4ac67c667ce)
 * [New Features in Python 3.9](https://towardsdatascience.com/new-features-in-python39-2529765429fe)
+* [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 
 # SciPy
 * [github.com/elegant-scipy](https://github.com/elegant-scipy)
