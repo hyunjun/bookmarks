@@ -286,6 +286,8 @@ PyTorch
 * libtorch
   * [visual guide : pytorch c++ api (libtorch) setting on vs2017 , no CMake](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake)
   * [LibTorch Example of transfer-learning](https://github.com/kerry-Cho/transfer-learning-Libtorch)
+* [matorage: matorage is Matrix or Tensor(multidimensional matrix) Object Storage with high availability distributed systems for Deep Learning framework.](https://github.com/graykode/matorage)
+  * [matorage documentation — matorage 0.1.0 documentation](https://matorage.readthedocs.io/en/stable/)
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
   * 2018년, COCO Detection Challenge를 우승한 MMDet 팀이 작성한 코드베이스를 확장하여, 현존하는 대부분의 Object Detection 모델을 구현한 toolbox
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
