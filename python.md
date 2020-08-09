@@ -331,6 +331,7 @@ Python
 * [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
 * [30 Magical Python Tricks to Write Better Code - Towards Data Science](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
 * [10 Smooth Python Tricks For Python Gods | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3)
+* [Write Better Python Code With These 10 Tricks | by Yong Cui, Ph.D. | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [TIL - How to Python "pythonically"](https://velog.io/@seob/TIL-How-to-Python-pythonically)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
@@ -3288,6 +3289,7 @@ Python
 * [Data Engineering with Python](https://www.youtube.com/watch?v=R2Kr2ELpwQI) Numpy & Pandas
 * [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
 * [파이썬(python) numpy 의 array(ndarray)와 matrix 데이터 타입](https://thrillfighter.tistory.com/482)
+* [NumPy Tutorial 2020 - YouTube](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
 
 # [Pandas](http://pandas.pydata.org/)
 * practice
@@ -3635,6 +3637,7 @@ Python
 * [cppyy: C++ bindings for PyPy](http://doc.pypy.org/en/release-2.4.x/cppyy.html)
 * [ubuntu pypy 설치 & benchmark](https://github.com/jehyunlee/texts/blob/master/pypy_install_ubuntu/text.md)
 * [PyPy's new JSON parser](https://morepypy.blogspot.com/2019/10/pypys-new-json-parser.html)
+* [Why Python Written in Python Is Faster Than Regular Python | by Michael Krasnov | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/why-python-written-in-python-is-faster-than-regular-python-b682992d5812)
 
 # Python3
 * 2 & 3 호환
