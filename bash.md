@@ -23,6 +23,7 @@ Shell
 * [Take care editing bash scripts](https://thomask.sdf.org/blog/2019/11/09/take-care-editing-bash-scripts.html)
 * [9 Evil Bash Commands Explained - Andreas Müller - Medium](https://medium.com/@devmount/9-evil-bash-commands-explained-709412e92bd7)
 * [shell script 파일 주석을 그대로 도움말로 사용하기](https://bloodguy.tistory.com/entry/Linux-shell-script-%ED%8C%8C%EC%9D%BC-%EC%A3%BC%EC%84%9D%EC%9D%84-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%8F%84%EC%9B%80%EB%A7%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [How Bash Works. Understanding how shell scripting works… | by Jasmine Humbert | Better Programming | Medium](https://medium.com/better-programming/how-bash-works-8424becc12f3)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
