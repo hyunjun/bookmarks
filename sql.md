@@ -97,6 +97,7 @@ SQL
 * [SQL Query Formatting Tools Used At Percona](https://www.percona.com/blog/2020/06/03/sql-query-formatting-tools-used-at-percona/)
 * [Understanding Database IOPS - Part 1 | Kloud DB](http://www.klouddb.io/understanding-database-iops-part-1/)
 * [오라클12c 행제한구문 실습, MySQL의 top-N 쿼리, 페이징 쿼리 (Pagination Query) - YouTube](https://www.youtube.com/watch?v=HT3EltCwgmw)
+* [How to Implement Cursor Pagination Like a Pro | by Megan Chang | The Startup | Medium](https://medium.com/swlh/how-to-implement-cursor-pagination-like-a-pro-513140b65f32)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
