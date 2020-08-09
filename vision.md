@@ -214,6 +214,7 @@ Vision
   * [Counting Objects Using YOLOv4 Object Detection | Custom YOLOv4 Functions with TensorFlow](https://morioh.com/p/aed42c64432a)
   * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
   * [YOLOv5 compared to Faster RCNN. Who wins? | by Priya Dwivedi | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/yolov5-compared-to-faster-rcnn-who-wins-a771cd6c9fb4)
+  * [YOLO V5 Model comparison - YouTube](https://www.youtube.com/watch?v=qwh9CGI1vNo)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
   * [How to Deploy Yolo on Tensorflow Serving - Part 1](https://morioh.com/p/9d30912302bd?f=5c21f93bc16e2556b555ab2f)
@@ -526,6 +527,7 @@ Vision
 * [Computer Vision 101: Learn Face Detection And Conditional Filtering](https://towardsdatascience.com/computer-vision-101-learn-face-detection-and-conditional-filtering-db1b73d0fa2b)
 * [Live Video Sketching through Webcam using Computer Vision](https://towardsdatascience.com/live-video-sketching-through-webcam-using-computer-vision-30beed29f33e)
 * [대체 몇번을 다시 하는 거야 - openCV로 유튜버의 켠왕 도전 횟수 계산하기](https://data101.oopy.io/387e22f0-f6b3-456d-bb26-2798c35acdbc)
+* [An Implementation of Robust Matting Algorithm](http://wangchuan.github.io/archive/projects/robust-matting/)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
