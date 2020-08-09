@@ -2432,6 +2432,7 @@ Javascript
 * [React에는 ‘함수형 컴포넌트’가 없다 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/24/react-has-no-functional-components.html)
 * [Build a Voice Controlled React News Application using Alan AI](https://morioh.com/p/f169aaf5c014)
 * [How to Build a TWITTER Clone with REACT.JS](https://morioh.com/p/67c41fc5f515)
+* [Protecting Against XSS Attacks in React | by Tyler Hawkins | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/protecting-against-xss-attacks-in-react-52442d9fff4c)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2550,6 +2551,7 @@ Javascript
 * [「Clog」 서비스 개발기(React Native, Laravel, Django) - React Native, Laravel, Django를 사용하여 「Clog」라는 서비스를 제작해 보았습니다. 이 서비스를 제작하면서 격은 내용을 정리해보려고 합니다](https://dev-yakuza.github.io/ko/clog/development-journal/)
 * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
 * [안드로이드에 React Native 임베딩 후기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/08/android-react-native-embed.html)
+* [From React to React Native. Getting started with mobile development | by Steffy Lo | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/from-react-to-react-native-5d884a1632d7)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
