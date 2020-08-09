@@ -1960,6 +1960,7 @@ Programming
 * [**The introduction to Reactive Programming you've been missing**](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [**Armeria로 Reactive Streams와 놀자! – 1**](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-1/)
 * [**Armeria로 Reactive Streams와 놀자! – 2**](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-2/)
+* [**반응형 프로그래밍이란 무엇인가?**](https://brunch.co.kr/@tilltue/62)
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
