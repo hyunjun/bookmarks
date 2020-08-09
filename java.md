@@ -127,6 +127,7 @@ Java
 * [Implementing in-memory compression for objects in Java](https://stackoverflow.com/questions/5934495/implementing-in-memory-compression-for-objects-in-java)
 * [The Error Handling Done Right - The Startup - Medium](https://medium.com/swlh/the-error-handling-done-right-d19ffca2656f)
 * [이펙티브 자바 3판 - 열거 타입과 애너테이션](http://astrod.github.io/java/2020/07/18/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98/) Enum, EnumSet, EnumMap, Annotation
+* [On the missing package private — or why Java is better than Kotlin in this regard | by Michał Stawski | VirtusLab | Medium](https://medium.com/virtuslab/on-the-missing-package-private-or-why-java-is-better-than-kotlin-in-this-regard-4a1c9ecbe40c)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
