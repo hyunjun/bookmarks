@@ -2355,6 +2355,7 @@ Python
 * [Don’t Miss out on these 24 Amazing Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
 * [파이썬 활용, 파이썬 프로젝트로 할 수 있는 일들을 알아보자!](https://tariat.tistory.com/775)
 * [**Top 10 Python libraries of 2019**](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
+* [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
 * [3 Insane Secret Weapons for Python](https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084) kite, mypy, sonarlint
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
