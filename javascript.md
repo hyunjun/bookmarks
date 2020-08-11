@@ -2433,6 +2433,7 @@ Javascript
 * [Build a Voice Controlled React News Application using Alan AI](https://morioh.com/p/f169aaf5c014)
 * [How to Build a TWITTER Clone with REACT.JS](https://morioh.com/p/67c41fc5f515)
 * [Protecting Against XSS Attacks in React | by Tyler Hawkins | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/protecting-against-xss-attacks-in-react-52442d9fff4c)
+* [Learn React Portal In 12 Minutes By Building A Modal](https://morioh.com/p/448a42ad2095)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
