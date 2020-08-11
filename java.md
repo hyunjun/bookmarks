@@ -403,6 +403,7 @@ Java
 * [IntelliJ프로젝트에 JAR 라이브러리 추가하기](https://bkjeon1614.tistory.com/59)
 * [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다](https://blog.jetbrains.com/kr/2020/03/local-history-intellij-save-your-code-ko/)
 * [IntelliJ에서 동시에 여러 Run환경 함께 실행하기](https://jojoldu.tistory.com/510)
+* [IntelliJ에서 JPA ER Diagram 확인 방법](https://jojoldu.tistory.com/517)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
