@@ -408,5 +408,6 @@ Data Visualization
 * [Matplotlib Defaults & Fonts](https://jehyunlee.github.io/2020/02/13/Python-DS-2-matplotlib/)
 * [Matplotlib Colormap (1)](https://jehyunlee.github.io/2020/03/01/Python-DS-4-matplotlib_colormap/)
 * [Matplotlib Colormap Customization (1) | Pega Devlog](https://jehyunlee.github.io/2020/08/06/Python-DS-24-custom_colormap/)
+* [Matplotlib Colormap Customization (2) | Pega Devlog](https://jehyunlee.github.io/2020/08/10/Python-DS-25-custom_colormap_code/)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
   * [Tools - matplotlib 이 노트북은 matplotlib 라이브러리를 사용하여 아름다운 그래프를 그리는 방법을 보여줍니다](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
