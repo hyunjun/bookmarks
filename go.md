@@ -258,6 +258,7 @@ Go
 * [Cloud-Native Java vs Golang. Java once-famous motto: “Write once and… | by Igor Domrev | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/cloud-native-java-vs-golang-2a72c0531b05)
 * [A Step-by-Step Guide to Go Internationalization (i18n) - Phrase Blog](https://phrase.com/blog/posts/internationalization-i18n-go/)
 * [Go: Builds & Linker’s Timeline. ℹ️ This article is based on Go 1.14. A… | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d)
+* [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
