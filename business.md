@@ -393,6 +393,7 @@ Business
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 * [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect/)
 * [초보 개발 팀장의 1년 회고: 좋은 팀장이 되기 위한 노력들 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220080)
+* [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아 :: Channy's Blog](http://channy.creation.net/blog/1399)
 * [Should you choose a Tech Lead or Engineering Manager Role? 정리](https://ugong2san.tistory.com/1891)
 * [독서광 구글의 아침은 자유가 시작된다](http://jhrogue.blogspot.com/2018/11/blog-post.html)
 * [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
