@@ -47,6 +47,7 @@ Anomaly Detection
 * [Anomaly Detection 개요： (2) Out-of-distribution(OOD) Detection 문제 소개 및 핵심 논문 리뷰](http://research.sualab.com/introduction/review/2020/02/20/anomaly-detection-overview-2.html)
 * [엘라스틱 지도학습으로 IDS 정오탐 구분해보기](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1-%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%EC%9C%BC%EB%A1%9C-ids-%EC%A0%95%EC%98%A4%ED%83%90-%EA%B5%AC%EB%B6%84%ED%95%B4%EB%B3%B4%EA%B8%B0/)
 * [Anomaly Detection with PyOD!. Have you used this wonderful Python… | by Dr. Dataman | Towards Data Science](https://towardsdatascience.com/anomaly-detection-with-pyod-b523fc47db9)
+* [Anomaly Detection in Time Series Data using Keras](https://morioh.com/p/41c762032173)
 
 # Book
 * [엘라스틱서치로 알아보는 이상징후 분석: Data Anomaly Detection](https://play.google.com/store/books/details/강명훈_엘라스틱서치로_알아보는_이상징후_분석?id=eqjDDwAAQBAJ)
