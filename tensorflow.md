@@ -1239,3 +1239,4 @@ TensorFlow
 * [tensor로부터 특정 index 값 추출하는 4가지 방법](https://gist.github.com/hccho2/019b250953b533bec22df7aef8f1e73e)
 * [텐서플로2 딥러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO2702hhjCldVCwKiudLHhPG0)
 * [TensorFlow TPU 학습 101](https://blog.pingpong.us/tpu-with-tf2-and-gcp/)
+* [Tensorflow가 뭔가요? (설치없이 머신러닝 사용해보기) - YouTube](https://www.youtube.com/watch?v=oy5BGW8D5wc)
