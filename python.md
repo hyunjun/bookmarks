@@ -3059,6 +3059,7 @@ Python
   * [파이참 interpreter 설정하기](https://blog.naver.com/baek2sm/221448342419)
   * [Pycharm에서 anaconda의 python.exe를 base interpreter로 사용하려면?](http://jhrogue.blogspot.com/2019/12/b-pycharm-anaconda-pythonexe-base.html)
   * [PyCharm에서 테스트 중 AssertionError발생시점의 Breakpoint설정](https://lhy.kr/pycharm-assertion-debugger-stop)
+  * [Pycharm Python Console에서 한글깨짐 해결방법](https://www.martinii.fun/entry/Pycharm-Python-Console%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
