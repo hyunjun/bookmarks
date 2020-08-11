@@ -347,6 +347,7 @@ Algorithm
 * [11.3 다익스트라 알고리즘](http://ehclub.co.kr/1581)
 * [Dijkstra's algorithm in 3 minutes — Review and example](https://www.youtube.com/watch?v=_lHSawdgXpI)
 * [Leetcode 743. 다익스트라 알고리즘 Dijkstra Algorithm](https://www.youtube.com/watch?v=yp1leTBR5ko)
+* [다익스트라 알고리즘 : 이미 결정된 노드의 인접 노드를 또 탐색하면 어떻게 될까요?](https://codingdog.tistory.com/entry/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EB%AF%B8-%EA%B2%B0%EC%A0%95%EB%90%9C-%EB%85%B8%EB%93%9C%EC%9D%98-%EC%9D%B8%EC%A0%91-%EB%85%B8%EB%93%9C%EB%A5%BC-%EB%98%90-%ED%83%90%EC%83%89%ED%95%98%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
