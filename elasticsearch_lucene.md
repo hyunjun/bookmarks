@@ -638,6 +638,8 @@ ElasticSearch - Lucene
   * [Elasticsearch 버전 업데이트 썰 (Nori 형태소 분석기 shallow dive)](https://www.youtube.com/watch?v=UgJQQ-1HHaw)
   * [nori plugin 사용하며 문제점](https://gist.github.com/drake-jin/4d0ad0259f72650729344629e3fd7a81)
   * [Elasticsearch 6.4 기본 한글 형태소 분석기 노리 (nori) 설명 및 사전 추가하기](https://wedul.site/517)
+* [left-join-plugin](https://github.com/danawalab/left-join-plugin)
+  * [엘라스틱서치 Left Join Plugin 소개 - 다나와 기술블로그](https://danawalab.github.io/elastic/2020/08/10/ElasticSearch-Left-join-plugin.html)
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)
 * [Plugin development for elasticsearch](https://speakerdeck.com/salyh/plugin-development-for-elasticsearch)
 * [SIREn Join](http://siren.solutions/searchplugins/join)
