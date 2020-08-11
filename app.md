@@ -517,6 +517,7 @@ App
       * [stackblitz.com - Code the Future. In Your Browser](https://stackblitz.com)
       * [Using a remote server to build your Scala projects](https://perevillega.com/remote-build-servers-with-vs-code-and-metals)
       * [Python in Visual Studio Code – July 2020 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2020-release)
+      * [VS Code를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
     * teditor [인터넷 브라우저에서 코딩하기, Visual Studio Code, teditor :: 프즈](https://tolovefeels.tistory.com/56)
     * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
 * [Asciidoctor](http://asciidoctor.org/)
