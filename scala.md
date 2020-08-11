@@ -1561,6 +1561,7 @@ Scala
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
 * [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
 * ["First Class" Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/first-class-types)
+* [SF Scala: Reimagining Functional Type Classes - YouTube](https://www.youtube.com/watch?v=OwmHgL9F_9Q)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
