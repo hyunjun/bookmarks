@@ -110,6 +110,7 @@ Linux
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
 * [리눅스에서 커맨드 라인으로 모니터 밝기 조절하기](https://kkamagui.tistory.com/921)
 * [Cups AirPrint server with legacy printer driver support using Qemu](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
+* [Run Fedora Workstation (or any OS) in Mac OS Environment with an open source QEMU - YouTube](https://www.youtube.com/watch?v=oFkbLeEMwA0)
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
