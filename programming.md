@@ -315,6 +315,7 @@ Programming
 * [코딩 1도 없이 서비스 4개 만들기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/222612) 노코드
 * [how-to-secure-anything: How to systematically secure anything: a repository about security engineering](https://github.com/veeral-patel/how-to-secure-anything)
 * [Managing Technical Debt. DevOps Essentials | by Stephen Kawaguchi | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/managing-technical-debt-b4f30cbccbe0)
+* [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1921,6 +1922,7 @@ Programming
   * [(07/11) 과연 리눅스 창시자인 리누스 토발자는 요즘 코딩을 할까 하지 않을까? - YouTube](https://www.youtube.com/watch?v=Xrk-ET1KDK4)
 * [2020년 7월 19일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-19.html) Deno vs Node, Pigz – 병렬 Gzip, C++ 인기 라이브러리 8선, Github Profile Readme, 파이썬 알고리즘 인터뷰 책
 * [2020년 7월 25일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-26.html) 애자일, 프론트엔드 인터뷰 핸드북, UI 디자인, GPT-3 React 앱, 깃허브도 멈추게 만든 auto incremental PK
+* [2020년 8월 1일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-1.html) 웹 크롤러, GCP/오라클 클라우드 평생 무료 VPS 사용, Readme.md, MySQL 8.0, 크롬 개발자도구, CORS, 윈도우 10 스크린샷
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
