@@ -764,6 +764,7 @@ R
   * [Be Awesome in ggplot2: A Practical Guide to be Highly Effective - R software and data visualization](http://www.sthda.com/english/wiki/be-awesome-in-ggplot2-a-practical-guide-to-be-highly-effective-r-software-and-data-visualization)
   * [0. R ggplot2 참고자료 목차](https://doublekpark.blogspot.com/2019/03/dd_2.html)
   * [GGPLOT2: AESTHETIC MAPPING AND SCALES 시각적 맵핑과 스케일](http://ds.sumeun.org/?p=975)
+  * [파이썬 뺨때리는 R로 논문, 숙제 그래프 예쁘게 그리기 - ggplot 튜토리얼 1편 - YouTube](https://www.youtube.com/watch?v=-Qxf7RI_9yY)
   * [GGANIMATE 예: 한국의 인구 구조 변화](http://ds.sumeun.org/?p=1089)
   * [esquisse - RStudio add-in to make plots with ggplot2](https://github.com/dreamRs/esquisse)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
