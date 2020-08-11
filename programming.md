@@ -1923,6 +1923,7 @@ Programming
 * [2020년 7월 19일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-19.html) Deno vs Node, Pigz – 병렬 Gzip, C++ 인기 라이브러리 8선, Github Profile Readme, 파이썬 알고리즘 인터뷰 책
 * [2020년 7월 25일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-26.html) 애자일, 프론트엔드 인터뷰 핸드북, UI 디자인, GPT-3 React 앱, 깃허브도 멈추게 만든 auto incremental PK
 * [2020년 8월 1일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-1.html) 웹 크롤러, GCP/오라클 클라우드 평생 무료 VPS 사용, Readme.md, MySQL 8.0, 크롬 개발자도구, CORS, 윈도우 10 스크린샷
+* [2020년 8월 8일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-8.html) 이것 대 저것, random, IPv6, 04 Vue vs React, 기술 문서 작성 5단계, 개발 팀에 물어볼 네 가지 질문, AWS 람다 안정성
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
