@@ -741,6 +741,7 @@ Deep Learning
 * [Supervised learning을 시작으로 누구나 쉽게 인공지능(AI)을 이해할 수 있다는 사실 알고 계시나요?](https://blog.naver.com/wacanycorp/221884110863)
 * [Guest Lecture - Jai Ranganathan - Full Stack Deep Learning - August 2018 - YouTube](https://www.youtube.com/watch?v=8PjTWFfjkeY)
 * [정말 딥러닝은 사람처럼 세상을 인식하고 있을까?](https://www.slideshare.net/NaverEngineering/ss-86897066)
+* [Mixed-Precision Training of Deep Neural Networks](https://hoya012.github.io/blog/Mixed-Precision-Training/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
