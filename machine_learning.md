@@ -680,6 +680,7 @@ Machine Learning
 * [자료 모음 2](https://www.facebook.com/groups/TensorFlowKR/permalink/490430184631378)
 * [Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 * [24 Best (and Free) Books To Understand Machine Learning](https://blog.paralleldots.com/data-science/24-best-and-free-books-to-understand-machine-learning/)
+* [9 Best Machine Learning & Artificial Intelligence Books To Read In 2020](https://nextotech.com/9-best-ai-machine-learning-books-to-read-in-2020/)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
