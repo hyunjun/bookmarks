@@ -260,6 +260,7 @@ Go
 * [Go: Builds & Linker’s Timeline. ℹ️ This article is based on Go 1.14. A… | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d)
 * [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)
 * [위챗 미니프로그램에서 위챗 페이 연동 삽질기(부제.Golang에서 EUC-KR 서버와 HTTP 통신하기) | Popit](https://www.popit.kr/%EC%9C%84%EC%B1%97-%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C-%EC%9C%84%EC%B1%97-%ED%8E%98%EC%9D%B4-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0%EB%B6%80%EC%A0%9C-gola/)
+* [Task orchestration in Go Machinery. | by Kief H. Shemul | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/task-orchestration-in-go-machinery-66a0ddcda548)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -272,6 +273,7 @@ Go
 * [Variadic functions in Go](https://medium.com/rungo/variadic-function-in-go-5d9b23f4c01a)
 * [golang으로 만나보는 Duck Typing](https://www.popit.kr/golang%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%82%98%EB%B3%B4%EB%8A%94-duck-typing/)
 * [Reading 16GB File in Seconds, Golang | by Ohm Patel | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2)
+* [Introduction to Golang's pointers (Go programming language) - YouTube](https://www.youtube.com/watch?v=dRsL_4ghmfE)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
