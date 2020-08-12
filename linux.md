@@ -491,6 +491,7 @@ Linux
   * [**In search of a better job scheduler What if cron and systemd had a baby? Wouldn't it be beautiful?**](https://beepb00p.xyz/scheduler.html)
   * [How to write startup script for systemd](https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd)
   * [Operating Systems Without Systemd](https://annihilatormodule.com/2020-01-18/systemd-archives)
+  * [Working with systemd-networkd. All about using systemd-networkd as… | by Sahitya Maruvada | 100 Days of Linux | Medium](https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
