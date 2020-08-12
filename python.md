@@ -328,6 +328,7 @@ Python
 * [싸이파이, 대스크, 눔바, 싸이썬, HPAT··· 더 좋아진 필수 파이썬 툴 5종](http://www.ciokorea.com/news/35975)
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [15 Python tips and tricks, so you don’t have to look them up on Stack Overflow](https://medium.com/@george.seif94/15-python-tips-and-tricks-so-you-dont-have-to-look-them-up-on-stack-overflow-90cec02705ae)
+* [12 Python Tips and Tricks For Writing Better Code | by Pavel Tech | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b)
 * [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
 * [30 Magical Python Tricks to Write Better Code - Towards Data Science](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
 * [10 Smooth Python Tricks For Python Gods | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3)
@@ -456,6 +457,7 @@ Python
 * [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
 * [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
 * [Change The Way You Write Python Code With One Extra Character | by Dorel Masasa | The Startup | Medium](https://medium.com/swlh/change-the-way-you-write-python-code-with-one-extra-character-6665b73803c1) asterisk, args, kwargs
+* [9 Skills That Separate Beginners From Intermediate Python Programmers | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -1678,6 +1680,7 @@ Python
 * [Daniel Feldroy - YouTube](https://www.youtube.com/c/DanielFeldroy/videos)
 * [Django 3.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
 * [How To Scale and Secure a Django Application with Docker, Nginx, and Let's Encrypt | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-scale-and-secure-a-django-application-with-docker-nginx-and-let-s-encrypt)
+* [장고 라이브 코딩쇼 (50분, 유튜브 St.) - YouTube](https://www.youtube.com/watch?v=12J8IHG17lM)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
@@ -1714,6 +1717,7 @@ Python
 * [Excel vs Python: How to Do Common Data Analysis Tasks](https://www.dataquest.io/blog/excel-vs-python/)
 * [Learn How to (easily!!) do 3 Advanced Excel Tasks in Python](https://towardsdatascience.com/learn-how-to-easily-do-3-advanced-excel-tasks-in-python-925a6b7dd081)
 * [Automate These 3 (Boring!!) Excel Tasks with Python!](https://towardsdatascience.com/automate-these-3-boring-excel-tasks-with-python-666b4ded101b)
+* [How to integrate Excel with Python | Towards Data Science](https://towardsdatascience.com/invigorate-excel-with-python-58c9c3208093)
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
 * [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io **](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
@@ -1795,6 +1799,7 @@ Python
   * [Part XIX: Deployment on Docker Containers](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-xix-deployment-on-docker-containers)
 * [Flask Tutorials](https://www.youtube.com/playlist?list=PLXmMXHVSvS-CoYS177-UvMAQYRfL3fBtX)
 * [Secure Flask REST API Server Template](https://github.com/yantisj/apisrv)
+* [How to build a simple Flask RESTful API with Docker-Compose | by Daniel Carlier | Medium](https://medium.com/@daniel.carlier/how-to-build-a-simple-flask-restful-api-with-docker-compose-2d849d738137)
 * [Docker image with uWSGI and Nginx for Flask applications in Python running in a single container](https://github.com/tiangolo/uwsgi-nginx-flask-docker)
 * [Flask앱을 uWSGI와 Nginx를 사용하여 배포하기](https://www.youtube.com/watch?v=ZIGBMst-8ls&lc=z13pzdthcunqzxjfz233ubxpzpi0gjn2o)
 * [How To Serve Flask Applications with Gunicorn and Nginx on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-serve-flask-applications-with-gunicorn-and-nginx-on-ubuntu-16-04)
