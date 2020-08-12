@@ -125,6 +125,7 @@
 * [Rust and RSA. Many of our software vulnerabilities… | by Prof Bill Buchanan OBE | Coinmonks | Medium](https://medium.com/coinmonks/rust-and-rsa-2bf6d63c84b8)
 * [deno 첫 외주 후기](https://kdy1.github.io/post/works/freelance/deno/first-freelance-work/)
 * [deno 2차 외주 후기](https://kdy1.github.io/post/works/freelance/deno/second-work/)
+* [deno 3차 작업 후기](https://kdy1.github.io/post/works/freelance/deno/third-work/)
 * [How to use C++ polymorphism in Rust | by Senges Alex | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/how-to-use-c-polymorphism-in-rust-76e1d1a88ed1)
 * [The Error Handling Done Right. And it will save more time in the… | by Liu Tao | The Startup | Medium](https://medium.com/swlh/the-error-handling-done-right-d19ffca2656f)
 
