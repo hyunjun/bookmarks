@@ -2436,6 +2436,7 @@ Javascript
 * [Protecting Against XSS Attacks in React | by Tyler Hawkins | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/protecting-against-xss-attacks-in-react-52442d9fff4c)
 * [Learn React Portal In 12 Minutes By Building A Modal](https://morioh.com/p/448a42ad2095)
 * [React v17 Release Candidate 톺아보기. 변경사항과 유의할점을 React 공식 문서와, 개인적인 지식을 덧붙여… | by 한영재 | Aug, 2020 | Medium](https://medium.com/@han7096/react-v17-release-candidate-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-6a4b091965c4)
+* [How to Create a PDF file using React.js](https://morioh.com/p/e6de5438e02d)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
