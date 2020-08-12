@@ -711,6 +711,7 @@ Docker
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
 * [Kubernetes Prometheus Install](https://uni2u.tistory.com/105)
 * [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster/)
+* [Monitor Kubernetes with Prometheus & Grafana | Better Programming](https://medium.com/better-programming/monitor-your-kubernetes-cluster-with-prometheus-and-grafana-1f7d0195e59)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?v=lKr6yw9Iw04)
 * [**Scaling Microservices with Message Queues, Spring Boot and Kubernetes**](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)
@@ -813,6 +814,7 @@ Docker
 * [Distributed load testing with Gatling and Kubernetes | by Anna Shepeleva | De Bijenkorf Techblog | Medium](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 * [글로벌 칼럼 | 쿠버네티스가 풀지 못한 '앱 현대화' 문제의 나머지 절반 - ITWorld Korea](http://www.itworld.co.kr/news/159121)
 * [Kubernetes Learning Path | Microsoft Azure](https://azure.microsoft.com/ko-kr/resources/kubernetes-learning-path/)
+* [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
