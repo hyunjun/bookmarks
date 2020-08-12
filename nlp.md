@@ -1473,6 +1473,7 @@ NLP
 * [**How to Make a Speech Emotion Recognizer Using Python And Scikit-learn**](https://www.thepythoncode.com/article/building-a-speech-emotion-recognizer-using-sklearn) Librosa, Numpy, Soundfile, Scikit-learn, PyAudio
 * [음성인식 코드 짜는 최단 경로 (With Naver Cloud Platform): 순식간에 STT 완성하기](https://dev-sngwn.github.io/2020-01-13-stt-step-by-step/)
 * [텍스트를 음성 mp3로 간단하게 변환하기 (With Naver Cloud Platform)](https://dev-sngwn.github.io/2020-02-16-tts-step-by-step/)
+* [**연구자로 성장하기 Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기) - Subinium의 코딩일지**](https://subinium.github.io/kep-vcc2020-review/)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
