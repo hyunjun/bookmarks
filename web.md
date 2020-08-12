@@ -525,6 +525,7 @@ Web
 * [**NGINX에 대한 정리**](https://developer88.tistory.com/299)
 * [Nginx 하위 경로를 다른 서버로 보내기 - 완두블로그](https://wani.kr/posts/2016/07/01/nginx-proxy-settings/)
 * [**나는 nginx 설정이 정말 싫다구요**](https://juneyr.dev/nginx-basics)
+* [REACT 배포 이슈로 배워보는 nginx.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222058472880)
 * [http - How to reply with 200 from Nginx, without serving a file? - Server Fault](https://serverfault.com/questions/196929/how-to-reply-with-200-from-nginx-without-serving-a-file)
 * [Nginx Proxy Manager](https://nginxproxymanager.com/)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
