@@ -630,6 +630,7 @@ Programming
 * [주제별 영상 제공 웹 서비스](https://zuminternet.github.io/ZUM-Pilot-provide-video/) architecture diagram까지 이어지는 문서 작성에 대해 볼만함
 * [Five Things Every Developer Should Know about Software Architecture](https://www.infoq.com/articles/architecture-five-things/)
 * [NoUML](https://medium.com/@volodymyrfrolov/nouml-afbb7f07f369) draw Software Architecture diagrams that make sense
+* [How to Draw Useful Technical Architecture Diagrams | by Jimmy Soh | The Internal Startup | Jun, 2020 | Medium](https://medium.com/the-internal-startup/how-to-draw-useful-technical-architecture-diagrams-2d20c9fda90d)
 * [Beyond Microservices: Streams, State and Scalability](https://www.youtube.com/watch?v=d_3-EUs_gBo)
   * [Beyond Microservices: Streams, State and Scalability](https://www.infoq.com/presentations/microservices-streams-state-scalability/)
 * [Rewriting the heart of our sync engine](https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine)
