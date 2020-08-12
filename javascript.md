@@ -1473,6 +1473,7 @@ Javascript
   * [Webpack에 대해서 알아보자](https://developer88.tistory.com/285)
   * [Webpack: A gentle introduction - UI.dev](https://ui.dev/webpack/)
   * [웹팩 개발 서버로 부족하다면 webpack-dev-middleware를 사용해 보자](http://jeonghwan-kim.github.io/dev/2020/07/18/webpack-dev-middleware.html)
+  * [JavaScript 번들러로 본 조선시대 붕당의 이해 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
@@ -2434,6 +2435,7 @@ Javascript
 * [How to Build a TWITTER Clone with REACT.JS](https://morioh.com/p/67c41fc5f515)
 * [Protecting Against XSS Attacks in React | by Tyler Hawkins | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/protecting-against-xss-attacks-in-react-52442d9fff4c)
 * [Learn React Portal In 12 Minutes By Building A Modal](https://morioh.com/p/448a42ad2095)
+* [React v17 Release Candidate 톺아보기. 변경사항과 유의할점을 React 공식 문서와, 개인적인 지식을 덧붙여… | by 한영재 | Aug, 2020 | Medium](https://medium.com/@han7096/react-v17-release-candidate-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-6a4b091965c4)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
