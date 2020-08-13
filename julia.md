@@ -26,6 +26,7 @@ Julia
 * examples
   * [half_pyramid.jl](https://github.com/wookay/juliacat/blob/master/practices/half_pyramid.jl)
   * [score_report.jl](https://github.com/wookay/juliacat/blob/master/practices/score_report.jl)
+  * [mana.jl - array](https://gist.github.com/wookay/1b5d45eee3dc9307a991f9ec08478345)
 * [Tricked out iterators in Julia](http://slendermeans.org/julia-iterators.html)
 * [route optimizer](https://forio.com/app/showcase/route-optimizer/)
 * [Julia founders commercialise language, create new startup](http://economictimes.indiatimes.com/articleshow/47211869.cms)
