@@ -29,7 +29,7 @@ History
 * [질병의 역사에 숨겨진 비밀: 농업과 말라리아](http://slownews.kr/41207)
 * [고양이는 죽어서 무엇을 남기나](http://ppss.kr/archives/45920) catgut, 수술용 실
 * [A Brief History of the Wristwatch](http://www.theatlantic.com/international/archive/2015/05/history-wristwatch-apple-watch/391424/?single_page=true)
-* [수호지에서 산하의 [접속 1990]까지: 역사에서 승리하는 방법](http://slownews.kr/41602)
+* [수호지에서 산하의 접속 1990까지: 역사에서 승리하는 방법](http://slownews.kr/41602)
 * [43만 년 전 인류 최초 살인사건 피해자의 두개골이 발견되다](http://www.huffingtonpost.kr/2015/06/05/story_n_7516512.html)
 * [팬데믹 시대의 종교와 과학](http://www.huffingtonpost.kr/banghee-kim/story_b_7532334.html)
 * [달러는 왜 $로 쓸까?](http://ppss.kr/archives/46611)
@@ -239,6 +239,9 @@ History
 * [왜 청자뿐일까..해저유물 미스테리](http://media.daum.net/series/newsview?seriesId=113855&newsId=20160413200404562)
 * [여진인 퉁두란은 왜 '이지란'이 되었나](https://news.v.daum.net/v/20181129161226250)
 * [상은 통 크게 주고 벌은 가려서 내린다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=42423) 현종
+
+## 고구려
+* [을지문덕은 왜 사라졌을까... 실종 전 행적 따져보니 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Event/Premium/at_pg.aspx?CNTN_CD=A0002665504)
 
 ## 고조선
 * [흑요석은 고조선 사람들의 '성공 조건'이었다](http://v.media.daum.net/v/20171022190905447)
