@@ -326,6 +326,9 @@ R
 * [밑바닥부터 시작하는 ROC 커브 분석](https://bookdown.org/cardiomoon/roc/)
 * [Accessible Data Science for the Blind Using R](https://jooyoungseo.com/post/ds4blind/)
 
+# API
+* [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
+
 # Baseball
 * [Analyzing Baseball Data with R](https://www.crcpress.com/Analyzing-Baseball-Data-with-R/Marchi-Albert/9781466570221) Clevland Indians에서 일하는 [Max Marchi](http://www.baseballprospectus.com/author/max_marchi/)의 책
   * [Book Review: Analyzing Baseball Data with R](http://www.r-bloggers.com/book-review-analyzing-baseball-data-with-r/)
