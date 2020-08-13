@@ -3419,6 +3419,7 @@ Python
 * [3 Excel Functions and How to Do Them in Python!](https://towardsdatascience.com/excel-functions-in-python-17d35defebdd)
 * [Slicing and Indexing with Pandas - Towards Data Science](https://towardsdatascience.com/slicing-and-indexing-with-pandas-2bff05ec361e)
 * [Pandas versus SQL Comparison : JOIN | Data Yoshi | Blog and Jobs in Data Science, Machine Learning, AI and more](https://www.datayoshi.com/blog/article/pandas-versus-sql-comparison---join)
+* [Database처럼 DataFrame Join/Merge 하기 : pd.merge()](https://rfriend.tistory.com/258)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
