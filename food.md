@@ -65,6 +65,8 @@ Food
 * [냉장고를 부탁해 – 하우두유두](http://www.creativeworksofknowledge.com/2015/04/01/tofu-pork-steak/)
 * [육식주의자를 위한 수요미식회의 스테이크 추천 3선](http://www.huffingtonpost.kr/2015/08/20/story_n_8013384.html)
 * [백선생 '만능고기소스'로 초간단 갈비찜을 만들다(영상)](http://www.huffingtonpost.kr/2015/09/23/story_n_8181144.html)
+* [수지 맛집 가족모임은 용인 한우강자 : 네이버 블로그](https://m.blog.naver.com/tjalwls7/221739581908)
+  * ★★★★★ 2020.08.11 아버지 생신. 숙성꽃등심 150g * 2, 안심 150g * 1, 살치살 150g * 2, 한우고추장 비빔밥 295000
 
 # 짜장면
 * ['수요미식회'가 선정한 '짜장면'의 명가 4곳](http://www.huffingtonpost.kr/2015/04/02/story_n_6990446.html)
