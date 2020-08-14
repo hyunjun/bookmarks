@@ -417,6 +417,7 @@ Scala
 * [AKKA(아카)with Scala 튜토리얼 03](https://wingnim.tistory.com/89)
 * [Implement Event bus using Akka](https://blog.softwaremill.com/implement-event-bus-using-akka-cfbcbfafb75)
 * [Scaling Event Bus. How to scale event bus on multiple… | by Lukasz Lenart | Jun, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/scaling-event-bus-d0b84cc73b43)
+* [Building a Reactive, Distributed Messaging Server in Scala and Akka with WebSockets | by Nimrod Sadeh | Aug, 2020 | Medium](https://medium.com/@nnnsadeh/building-a-reactive-distributed-messaging-server-in-scala-and-akka-with-websockets-c70440c494e3)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -671,7 +672,6 @@ Scala
     * [Decouple the Program from its Implementation with ZIO modules](https://medium.com/@pascal.mengelt/decouple-the-program-from-its-implementation-with-zio-modules-d9b8713d502e)
     * [zio environment and modules pattern: zio, scala.js, react, query management](https://appddeevvmeanderings.blogspot.com/2019/11/scalajs-zio-query-management-using-zio.html)
     * [How to dynamically inject the implementation for ZIO with MacWire](https://medium.com/@pascal.mengelt/how-to-dynamically-inject-the-implementation-for-zio-with-macwire-bb51d4827966)
-    * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
     * [Getting started with ZIO - YouTube](https://www.youtube.com/watch?v=6A1SA5Be9qw)
     * [HOW TO WRITE A COMMAND-LINE APPLICATION WITH ZIO](https://scalac.io/write-command-line-application-with-zio/)
     * [What can ZIO do for me? A Long Polling example with sttp](https://medium.com/@pascal.mengelt/what-can-zio-do-for-me-32281e4e8b16)
@@ -702,7 +702,6 @@ Scala
     * [Concurrent programming in 2019: Akka, Monix or ZIO? - Adam Warski](https://www.youtube.com/watch?v=TqJg4AuxEIQ)
     * [ZIO environment meets constructor-based dependency injection](https://blog.softwaremill.com/zio-environment-meets-constructor-based-dependency-injection-6a13de6e000)
     * [5 pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-pitfalls-to-avoid-when-starting-to-work-with-zio-adefdc7d2d5c)
-    * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
     * [Happy eyeballs algorithm using ZIO](https://blog.softwaremill.com/happy-eyeballs-algorithm-using-zio-120997ba5152)
     * [5 (more) pitfalls to avoid when starting to work with ZIO](https://medium.com/wix-engineering/5-more-pitfalls-to-avoid-when-starting-to-work-with-zio-d0cdd44fa439)
     * [Building a Super Easy Rate Limiter with ZIO](https://medium.com/wix-engineering/building-a-super-easy-rate-limiter-with-zio-88f1ccb49776)
@@ -721,17 +720,24 @@ Scala
     * [Happy eyeballs live-coding using ZIO by Adam Warski: Scala in the City - YouTube](https://www.youtube.com/watch?v=4gyAoyYwWnI)
     * [Refactoring Functional Type Classes](https://www.slideshare.net/jdegoes/refactoring-functional-type-classes)
       * ZIO와 ZPure 관련 Adam Fraser가 디스코드에 답변한 내용. 거칠게 요약하면 ZIO에서 IO나 동시성 관련 내용을 뺀 타입
+    * [Functional Effects with ZIO - Aleksandar Skrbic](https://aleksandarskrbic.github.io/functional-effects-with-zio/)
+    * [Combining Purely Functional Property Based and Docker Integration Tests in ZIO | by Arjun Dhawan | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/combining-purely-functional-property-based-and-docker-integration-tests-in-zio-6a826c5e7e19)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
       * [Functional Effect systems in Sclala: Build your own ZIO/Cats-Effect/Monix... | Wix Engineering](https://medium.com/wix-engineering/demystifying-functional-effect-systems-in-scala-14419039a423)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
+    * zio-prelude [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
       * [HOW TO WRITE A (COMPLETELY LOCK-FREE) CONCURRENT LRU CACHE WITH ZIO STM](https://scalac.io/how-to-write-a-completely-lock-free-concurrent-lru-cache-with-zio-stm/)
     * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
+    * ZIO test
+      * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
+      * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
+      * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
@@ -754,6 +760,7 @@ Scala
   * [**Compression; String <-> Array\[Byte\]**](https://gist.github.com/owainlewis/1e7d1e68a6818ee4d50e)
   * [String Interpolation In Scala](https://blog.knoldus.com/string-interpolation-in-scala-2/)
   * [An Invitation From Scala String Interpolation](https://blog.knoldus.com/an-invitation-from-scala-string-interpolation/)
+  * [Scala String Interpolation – TheCodersStop](https://thecodersstop.com/scala/scala-string-interpolation/)
 * sys
   * process
     * [Executing Shell Commands From Scala](https://medium.com/@mcamara89/executing-shell-commands-from-scala-7001f8868128)
@@ -1288,6 +1295,7 @@ Scala
 * [Tagless Final - Part 3 - If only we had a crystal ball! 🔮 - YouTube](https://www.youtube.com/watch?v=3Jmy3AyYZjc)
 * [Tagless Final - Part 4.1 - Power to the Interpreters! ✊ - YouTube](https://www.youtube.com/watch?v=5NxrVZvur_o)
 * [Tagless Final - Part 4.2 - Why The F\[\_\] - YouTube](https://www.youtube.com/watch?v=3-GgF5fy3Ek)
+* [Tagless Final - Part 5 - core (The Big Rewrite - Part 1) - YouTube](https://www.youtube.com/watch?v=HE3qCrLWgYw)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1343,6 +1351,7 @@ Scala
 * [scala개발시 sbt build때 GZIPInputStream: java.util.zip.ZipException: Not in GZIP format 에러나는 경우 해결책](https://blog.voidmainvoid.net/196)
 * [sbt scala version mismatch - sbt에서 사용하는 scala version이 command line의 scala와 맞지 않을 때](https://medium.com/@strncpy/sbt-scala-version-mismatch-4f8260b4e707)
 * [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
+* sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
@@ -1480,14 +1489,11 @@ Scala
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
-* [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
 * [type lambda](https://meta.plasm.us/posts/2015/07/11/roll-your-own-scala/) function에 대한 lambda말고 type lambda가 존재. type parameter가 들어갈 자리에 lambda 표현식과 유사한 표현을 사용 가능. ({ type L[x] = Either[E, x] })#L 를 사용해야 하는 이유
 * [type lambda (2019-04-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=Y3MD3wNPqy8)
   * type safety가 보장되는 duck typing? 그 외 여러가지 FP관련 이야기들 타입, generics, higher kinded type, type class, FP, interface, SOLID...
 * [jvm의 type erasure를 스칼라에서 피할수 있는 팁](https://medium.com/@sinisalouc/overcoming-type-erasure-in-scala-8f2422070d20)
 * [F-bounded polymorphism / recursive types](http://hamait.tistory.com/805)
-* [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
-* [Alphabet Soup: Type-level transformations](https://medium.com/@jdrphillips/alphabet-soup-type-level-transformations-eb60918af35d)
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
 * [(47) ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
 * [Save Your Time on Algebraic Data Type (ADT) Creation in Scala](https://blog.kevinlee.io/2019/10/01/save-your-time-on-algebraic-data-type-creation-in-scala/)
@@ -1507,6 +1513,10 @@ Scala
     * [a simple web service using Http4s + Doobie + Jooq + JWT](https://github.com/jdaviderb/http4s-ddd-example)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
+* [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
+* [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
+* [Alphabet Soup: Type-level transformations](https://medium.com/@jdrphillips/alphabet-soup-type-level-transformations-eb60918af35d)
+* [Rock the JVM | Type-Level Programming in Scala, Part 1](https://rockthejvm.com/blog/215780/type-level-programming-1)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
 * [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
@@ -1562,6 +1572,7 @@ Scala
 * [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
 * ["First Class" Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/first-class-types)
 * [SF Scala: Reimagining Functional Type Classes - YouTube](https://www.youtube.com/watch?v=OwmHgL9F_9Q)
+* [Thinking With Types | alvinalexander.com](https://alvinalexander.com/scala/thinking-with-types/introduction/)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
@@ -1643,3 +1654,4 @@ Scala
 * [cats-workshop](https://github.com/eunmin/cats-workshop)
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
+* [Scala Knowledge Bits Archives - Leo Benkel](https://leobenkel.com/category/scala/knowledge-bits/)
