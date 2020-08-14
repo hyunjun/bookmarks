@@ -1655,3 +1655,4 @@ Scala
   * 함수형 프로그래밍의 실천적 예제를 학습하기 위해 만든 예제 프로젝트
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
 * [Scala Knowledge Bits Archives - Leo Benkel](https://leobenkel.com/category/scala/knowledge-bits/)
+* [SF Scala: Getting Things Done in the Scala REPL by Li Haoyi - YouTube](https://www.youtube.com/watch?v=RLPAf5LDeS4)
