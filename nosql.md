@@ -365,6 +365,7 @@ NoSQL
 * [How to resolve “Error Connecting to db. MongoNetworkError” when connecting to localhost MongoDB through MongoClient from NodeJS](https://medium.com/@bryantjiminson/how-to-resolve-error-connecting-to-db-3519f7744c5)
 * [MongoDB Best Practices 2020 Edition](https://www.percona.com/blog/2020/04/17/mongodb-best-practices-2020-edition/)
 * [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
+* [MONGODB SEOUL.Local - YouTube](https://www.youtube.com/watch?v=sycYpKOGTMA)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol.](https://github.com/bwaldvogel/mongo-java-server)
 
