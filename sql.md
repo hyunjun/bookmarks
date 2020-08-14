@@ -347,6 +347,7 @@ SQL
 * [How to Install Only MySQL Client on CentOS, Redhat, Fedora and Ubuntu](http://www.looklinux.com/install-mysql-client-on-centos-redhat-fedora-and-ubuntu/)
   * `yum install mysql` tried to install `mariadb` & `mariadb-libs` on Redhat 7.2(`CentOS Linux release 7.2.1511 (Core)`)
 * [MySQL 설치 (윈도우 환경)](https://www.popit.kr/mysql-%EC%84%A4%EC%B9%98-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%99%98%EA%B2%BD/)
+* [윈도우10 MySQL Community 8.0 버전 다운로드 및 설치 방법 가이드](https://stricky.tistory.com/342)
 * [MySQL Performance - Number of Tables Vs. Number of Rows](https://stackoverflow.com/questions/9965203/mysql-performance-number-of-tables-vs-number-of-rows)
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
 * [WorkBench 쿼리 타임아웃](http://jybaek.tistory.com/760)
