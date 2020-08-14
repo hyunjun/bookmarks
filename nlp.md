@@ -1301,11 +1301,23 @@ NLP
 * [24 A Serious NLP Application Text Auto Summarization using Python](https://www.youtube.com/watch?v=NDPyjZkblJc)
 * [Summarizing Tweets in a Disaster](https://towardsdatascience.com/summarizing-tweets-in-a-disaster-e6b355a41732)
 * [Unsupervised Text Summarization using Sentence Embeddings](https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1)
-* [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
 * [Understand Text Summarization and create your own summarizer in python - An Introduction to Text Summarization](https://towardsdatascience.com/understand-text-summarization-and-create-your-own-summarizer-in-python-b26a9f09fc70)
 * [Text Summarization on the Books of Harry Potter](https://towardsdatascience.com/text-summarization-on-the-books-of-harry-potter-5e9f5bf8ca6c)
 * [Simple Text Summarizer Using Extractive Method](https://towardsdatascience.com/simple-text-summarizer-using-extractive-method-849b65c2dc5a)
 * [분석 DeepTitle : 한국어 기사 자동 요약](https://www.slideshare.net/BOAZbigdata/deeptitle)
+
+## Summary, Summarize TextRank
+* [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
+* [**TextRank를 이용한 문서요약**](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD)
+* [TextRank for Korean](https://github.com/theeluwin/textrankr)
+* [LexRank for Korean](https://github.com/theeluwin/lexrankr)
+* [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
+* [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/) gensim의 textrank
+* [파이썬으로 3줄 요약기](http://blog.theeluwin.kr/post/146188165713/summariz3)
+* [한국어 3줄 요약기 - TextRank 알고리즘을 사용한 3줄 요약기 크롬 확장 앱](https://github.com/graykode/summariz3)
+* [Text Summarization (1) - TextRank 알고리즘](https://gwlabs.tistory.com/29)
+* [python-rake](https://pypi.python.org/pypi/python-rake) 키워드 추출 패키지
+* [textacy: higher-level NLP built on spaCy](https://github.com/chartbeat-labs/textacy) text analysis based on spaCy
 
 # Spark
 * [Natural Language Processing With Apache Spark](https://dzone.com/articles/in-progress-natural-language-processing)
@@ -1339,17 +1351,6 @@ NLP
 * [Python을 활용한 텍스트 마이닝](http://www.lifebloom.biz/category/py/tm/)
 * [Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9)
 * [Natural Language Processing (NLP) & Text Mining Tutorial Using NLTK | NLP Training | Edureka](https://www.youtube.com/watch?v=05ONoGfmKvA)
-
-# TextRank
-* [**TextRank를 이용한 문서요약**](http://excelsior-cjh.tistory.com/entry/TextRank%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%AC%B8%EC%84%9C%EC%9A%94%EC%95%BD)
-* [TextRank for Korean](https://github.com/theeluwin/textrankr)
-* [LexRank for Korean](https://github.com/theeluwin/lexrankr)
-* [NDC 2017 마이크로토크 - 프로그래머가 뉴스 읽는 법](https://www.slideshare.net/suminb/ndc-2017-how-programmers-read-news)
-* [Text Summarization with Gensim](https://rare-technologies.com/text-summarization-with-gensim/) gensim의 textrank
-* [textacy: higher-level NLP built on spaCy](https://github.com/chartbeat-labs/textacy) text analysis based on spaCy
-* [python-rake](https://pypi.python.org/pypi/python-rake) 키워드 추출 패키지
-* [파이썬으로 3줄 요약기](http://blog.theeluwin.kr/post/146188165713/summariz3)
-* [한국어 3줄 요약기 - TextRank 알고리즘을 사용한 3줄 요약기 크롬 확장 앱](https://github.com/graykode/summariz3)
 
 # TFIDF, TF-IDF
 * [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
