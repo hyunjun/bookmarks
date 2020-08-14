@@ -719,6 +719,7 @@ Programming
 * [Envoy Is the Real Deal](https://medium.com/rain-capital/envoy-is-the-real-deal-6deb755dd84f)
 * [How we migrated Dropbox from Nginx to Envoy - Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
+* OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
