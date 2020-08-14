@@ -610,6 +610,7 @@ Vision
   * [Prepare Your Own Data for PointNet](https://isaacguan.github.io/2018/05/04/Prepare-Your-Own-Data-for-PointNet/) PTS data, PLY data, HDF5
 * [PySceneDetect - a command-line application and a Python library for detecting scene changes in videos, and automatically splitting the video into separate clips](https://pyscenedetect.readthedocs.io/)
 * [PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models](https://github.com/facebookresearch/SlowFast)
+* [repnet-cli: RepNet command line interface (https://sites.google.com/view/repnet)](https://github.com/JeiKeiLim/repnet-cli)
 * sklearn [An Offbeat Approach to Brain Tumor Classification using Computer Vision](https://medium.com/towards-artificial-intelligence/an-offbeat-approach-to-brain-tumor-classification-using-computer-vision-19c9e7b84664)
 * [Speech2Face: Implementation of the CVPR 2019 Paper - Speech2Face: Learning the Face Behind a Voice by MIT CSAIL](https://github.com/saiteja-talluri/Speech2Face)
 * [YouEye - kiosk machine helper solution for blinded people](https://github.com/code-yeongyu/YouEye)
