@@ -741,6 +741,7 @@ Python
   * [The definitive guide to solve the infamous Python exception “ModuleNotFoundError”](http://www.daveoncode.com/2017/03/07/how-to-solve-python-modulenotfound-no-module-named-import-error/)
   * [같은 이름을 가진 root 패키지의 하위 모듈/패키지 접근](http://mcchae.egloos.com/11269816)
   * [Top to down, left to right (Surprise talk) - James Powell](https://www.youtube.com/watch?v=BRn6UCw35og) import, scope 이외의 내용도 많지만 분류가 애매해서
+  * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
 * `__init__.py`
   * [모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
   * [모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
@@ -997,6 +998,7 @@ Python
     * [practice re - lookbehind](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-lookbehind-md) 어떤 접두사가 선행하지 않는 단어만 인식하는 정규식
     * [practice re - 매 n번째 occurence를 변경](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-substitution_every_nth-md)
     * [practice re - 괄호 안의 특수 문자만 추출](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-detect_by_condition-md)
+    * [practice re - group 영문자와 숫자 사이에 ! 추가](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c#file-group-md)
   * [regex101.com/#python](https://www.regex101.com/#python)
   * [정규식을 사용하여 한글만 가져오기](http://jokergt.tistory.com/52)
   * [8 Regular Expressions You Should Know](http://code.tutsplus.com/tutorials/8-regular-expressions-you-should-know--net-6149)
@@ -2220,6 +2222,7 @@ Python
   * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
   * [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
+* jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
 * [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
   * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
