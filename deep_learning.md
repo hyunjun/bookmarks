@@ -1114,6 +1114,7 @@ Deep Learning
   * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (1) - 이론](https://jeinalog.tistory.com/15)
   * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (2) - 실습](https://jeinalog.tistory.com/16)
 * [AI Generator Learns to 'Draw' Like Cartoonist Lee Mal-Nyeon in Just 10 Hours | Synced](https://syncedreview.com/2020/08/04/ai-generator-learns-to-draw-like-cartoonist-lee-mal-nyeon-in-just-10-hours/)
+* [bryandlee/malnyun_faces: 침착한 생성모델 학습기](https://github.com/bryandlee/malnyun_faces)
 * [TGAN - Generative adversarial training for synthesizing tabular data https://sdv-dev.github.io/TGAN ](https://github.com/sdv-dev/TGAN)
 
 # Library
@@ -1755,6 +1756,7 @@ Deep Learning
 * [CNN으로 TWICE 다현과 ITZY 예지를 구분할 수 있을까? — (2)](https://medium.com/@hslee09/python-cnn%EC%9C%BC%EB%A1%9C-twice-%EB%8B%A4%ED%98%84%EA%B3%BC-itzy-%EC%98%88%EC%A7%80%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-2-8d7713ca9aa9)
 * [CNN으로 TWICE 다현과 ITZY 예지를 구분할 수 있을까? — (3)](https://medium.com/@hslee09/python-cnn%EC%9C%BC%EB%A1%9C-twice-%EB%8B%A4%ED%98%84%EA%B3%BC-itzy-%EC%98%88%EC%A7%80%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-3-8fd90a321ba9)
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+* [2D Visualization of a Convolutional Neural Network](http://www.cs.cmu.edu/~aharley/nn_vis/cnn/2d.html) 숫자를 입력하면 layer별로 그림으로 보여줌
 
 ## LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
