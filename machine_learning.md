@@ -1024,6 +1024,7 @@ Machine Learning
 * [머신러닝/딥러닝 공부 첫걸음 :: 시작은 미약한 프로그래밍](https://yjclarelee.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%B2%AB%EA%B1%B8%EC%9D%8C)
   * [머신러닝 입문 영상 - YouTube](https://www.youtube.com/watch?v=9YKDtzhmFk8)
   * [The Simplest Introduction to Basic Machine Learning](https://docs.google.com/presentation/d/1in-VlWD43cWzw60duQ4GdkkmTRhIooSy7oVwhL82NpU)
+* [Machine Learning University - YouTube](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
 
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
