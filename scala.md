@@ -722,6 +722,7 @@ Scala
       * ZIO와 ZPure 관련 Adam Fraser가 디스코드에 답변한 내용. 거칠게 요약하면 ZIO에서 IO나 동시성 관련 내용을 뺀 타입
     * [Functional Effects with ZIO - Aleksandar Skrbic](https://aleksandarskrbic.github.io/functional-effects-with-zio/)
     * [Combining Purely Functional Property Based and Docker Integration Tests in ZIO | by Arjun Dhawan | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/combining-purely-functional-property-based-and-docker-integration-tests-in-zio-6a826c5e7e19)
+    * [Live Coding a Concurrent Web Crawler - John Ⓐ De Goes - YouTube](https://www.youtube.com/watch?v=08eSR0vn4Vw)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
