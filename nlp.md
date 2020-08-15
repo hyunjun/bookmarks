@@ -854,6 +854,7 @@ NLP
   * [models.fasttext – FastText model](https://radimrehurek.com/gensim/models/fasttext.html#usage-examples) gensim example
   * [fastText for Korean](https://github.com/skyer9/FastTextKorean)
   * [글쓰기 화면에서 카테고리 자동 추천하는 모델 만들기](https://medium.com/daangn/글쓰기-카테고리-추천모델-개발하기-cbbcc43e1f7f)
+  * [FastText Pre-trained 한국어 모델 사용기 – Inah Jeon – Inah Jeon's personal blog](https://inahjeon.github.io/fasttext/)
   * [Production Machine Learning Pipeline for Text Classification with fastText](https://blog.valohai.com/production-machine-learning-pipeline-text-classification-fasttext)
     * [Running fastText in Valohai](https://github.com/arimbr/valohai-fasttext-example)
 * [GluonNLP: NLP made easy](https://gluon-nlp.mxnet.io)
