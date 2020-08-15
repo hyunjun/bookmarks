@@ -331,6 +331,7 @@ Business
 * [Long tail과 “좀 기다려 봅시다”](http://www.thestartupbible.com/2015/06/long-tails-and-the-hockey-stick.html)
 * [당신의 아이디어가 쓸만해지기 위해 필요한 6가지](http://ppss.kr/archives/48508)
 * [컨설턴트의 스웨그를 느껴보자](https://ppss.kr/archives/201528) 컨설턴트가 사용하는 방법론에 대한 이야기, OPE, SOP, VSM 등
+* [Need business ideas? Watch out for unbundlings – Jakob Greenfeld – Health, Wealth, Happiness](https://jakobgreenfeld.com/unbundlings)
 
 # Leadership
 * [리더에게 사랑받는 주니어의 특징](http://ppss.kr/archives/31471)
