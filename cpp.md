@@ -163,6 +163,7 @@ C++
 * [**Remote Debug via GDB/gdbserver Of CLion With Docker**](https://www.popit.kr/remote-debug-via-gdbgdbserver%ef%bb%bf-of-clion-with-docker/)
 * [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
 * [How to write Clean, Beautiful and Effective C++ Code](https://medium.com/@MKahsari/how-to-write-clean-beautiful-and-effective-c-code-d4699f5e3864)
+* [Windows Trampoline – Kudryavka Noumi](https://www.kudryavka.me/?p=959)
 
 # API
 * auto_ptr
