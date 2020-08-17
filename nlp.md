@@ -1251,6 +1251,7 @@ NLP
 * [Sentiment Analysis: Concept, Analysis and Applications](https://blog.paralleldots.com/product/contextual-sentiment-analysis-applications)
 * [sentiment_dataset](https://github.com/AcademiaSinicaNLPLab/sentiment_dataset)
 * [Sentiment Analysis using Deep Learning with Tensorflow](https://medium.com/analytics-vidhya/sentiment-analysis-using-deep-learning-with-tensorflow-2bb176c40257)
+* [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기 | by 김희규 | Aug, 2020 | Medium](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
 * vader
   * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
   * [Rule-based Sentiment Analysis of App Store Review in Python | by Ng Wai Foong | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/rule-based-sentiment-analysis-of-app-store-review-in-python-94d8bbfc48bb)
