@@ -165,6 +165,7 @@ Programming
 * [견고한 서비스를 만들기 위한 팁](http://www.popit.kr/%EA%B2%AC%EA%B3%A0%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%ED%8C%81/)
 * [(한국 버전) 왜 소프트웨어 개발 일정은 예상을 벗어나는가](http://booiljoung.blogspot.com/2013/04/blog-post_14.html)
 * [**일정 예상은 왜 실패할까?**](https://blog.seulgi.kim/2019/10/why-do-programmers-take-longer-than-expected.html) 호프스테터의 법칙, make it work, right, fast
+* [이 일은 언제 끝나나요?](https://brunch.co.kr/@jinhoyooephf/19) 일정
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
 * [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
@@ -1850,6 +1851,7 @@ Programming
   * [기술 뉴스 #153 : 20-07-04 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1487)
   * [기술 뉴스 #154 : 20-07-18 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1488)
   * [기술 뉴스 #155 : 20-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1492)
+  * [기술 뉴스 #156 : 20-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1493)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -1929,6 +1931,7 @@ Programming
 * [2020년 7월 25일 개발자 이야기](https://jhrogue.blogspot.com/2020/07/b-2020-7-26.html) 애자일, 프론트엔드 인터뷰 핸드북, UI 디자인, GPT-3 React 앱, 깃허브도 멈추게 만든 auto incremental PK
 * [2020년 8월 1일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-1.html) 웹 크롤러, GCP/오라클 클라우드 평생 무료 VPS 사용, Readme.md, MySQL 8.0, 크롬 개발자도구, CORS, 윈도우 10 스크린샷
 * [2020년 8월 8일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-8.html) 이것 대 저것, random, IPv6, 04 Vue vs React, 기술 문서 작성 5단계, 개발 팀에 물어볼 네 가지 질문, AWS 람다 안정성
+* [2020년 8월 15일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-15.html) 롭 파이크 다섯 가지 프로그래밍 규칙, QR 코드 생성, Cracking Vue.js, vs 연관 그래프, 윈도우 마크다운 에디터, 최고의 자바스크립트 프로젝트, 항공기 소프트웨어 업데이트
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
