@@ -441,6 +441,7 @@ Docker
 * [Docker for Mac Edge 채널에 Mutagen 기반 캐싱 기능 추가](https://www.44bits.io/ko/post/news--docker-desktop-for-mac-edge-channel-with-mutagen-based-caching)
 * [Rootless Containers: The Next Trend in Container Security](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
+* [흔들리는 도커(Docker)의 위상: OCI와 CRI 중심으로 재편되는 컨테이너 생태계](https://www.samsungsds.com/global/ko/support/insights/docker.html)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
