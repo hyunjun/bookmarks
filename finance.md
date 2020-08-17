@@ -219,6 +219,7 @@ Finance
 * [Simulate binance fee mechanism by RL agents](https://github.com/deconlabs/TradingZoo-Dynamic-fee-simulation)
 * [Get Rich Quick Trading Strategies (and why they don’t work): Part 1 - The Martingale](https://robotwealth.com/get-rich-quick-trading-strategies-and-why-they-dont-work/)
 * [market report](https://github.com/parkminhyung/R-code-for-finance/blob/master/market%20report.rmd)
+* [market-report.rmd at master · parkminhyung/R-code-for-finance](https://github.com/parkminhyung/R-code-for-finance/blob/master/market-report.rmd)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [회고 tqk 업데이트 수정 종가 반영 및 param 조정](https://mrchypark.github.io/post/tqk-%EA%B3%B5%EC%A7%80-%EC%88%98%EC%A0%95-%EC%A2%85%EA%B0%80-%EB%B0%98%EC%98%81-%EB%B0%8F-param-%EC%A1%B0%EC%A0%95/)
 * ubci [암호화폐 시세와 인덱스를 제공하는 ubci 패키지를 소개합니다](https://mrchypark.github.io/post/%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%86%8C%EA%B0%9C-%EC%95%94%ED%98%B8%ED%99%94%ED%8F%90-%EC%8B%9C%EC%84%B8%EC%99%80-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-ubci-%ED%8C%A8%ED%82%A4%EC%A7%80%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4/)
