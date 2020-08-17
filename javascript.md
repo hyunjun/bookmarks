@@ -89,6 +89,7 @@ Javascript
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [최종 완성본! 자바스크립트로 생산성 앱 클론하기](https://www.youtube.com/watch?v=yLNuqWCUA8A)
 * [최종 완성본! 유튜브 클론 코딩!](https://www.youtube.com/watch?v=es8qBt3lNjE)
+* [Clone Medium on Nodejs and Reactjs](https://morioh.com/p/2030ab9683d7)
 * [A Netflix Web Performance Case Study Improving Time-To-Interactive for Netflix.com on Desktop](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 * [**Case study: Analyzing Notion app performance · PerfPerfPerf**](https://3perf.com/blog/notion/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
