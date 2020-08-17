@@ -1548,6 +1548,8 @@ Deep Learning
 * [Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnsuite/nnstreamer)
 * [Uber Creates Generative Teaching Networks to Better Train Deep Neural Networks](https://www.kdnuggets.com/2020/01/uber-generative-teaching-networks-train-neural-networks.html)
 * [Neural Network Acceleration Study](https://github.com/ConstantPark/Nerual-Network-Acceleration)
+* [Neural-Network-Acceleration-2: Neural Network Acceleration using CPU/GPU, ASIC, FPGA](https://github.com/ConstantPark/Neural-Network-Acceleration-2)
+  * [Neural_Acceleration_Study - YouTube](https://www.youtube.com/channel/UCh05O9mScsWVaP3EWX1AKDQ/videos)
 * [Neural Networks from Scratch with Python Code and Math in Detail— I | by Towards AI Team | Towards AI — Multidisciplinary Science Journal | Jun, 2020 | Medium](https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
 * [Building Neural Networks with Python Code and Math in Detail — II | by Towards AI Team | Towards AI — Multidisciplinary Science Journal | Jun, 2020 | Medium](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
 
