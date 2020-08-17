@@ -311,6 +311,7 @@ Web
 * [imDB(인터넷 영화 데이터 베이스) Tutorial - 2](https://developer-ankiwoong.tistory.com/844)
 * [imDB(인터넷 영화 데이터 베이스) Tutorial - 3](https://developer-ankiwoong.tistory.com/845)
 * [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! 제가 가진 모든 비법을 알려드리겠습니다. 나도코딩 - YouTube](https://www.youtube.com/watch?v=yQ20jZwDjTE&feature=youtu.be)
+* [네이버 금융 크롤러 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222063179010)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
