@@ -127,6 +127,7 @@ Docker
 * [github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [hub.docker.com](https://hub.docker.com/)
   * [Docker 위의 웹서버 프로젝트 구상하기](https://woolbro.tistory.com/102) ELK, Flask Vue, MongoDB
+  * [workout-log/back-end: workout-log의 백엔드 레포지토리 입니다.](https://github.com/workout-log/back-end) JavaScript, EC2, mongodb, Cookie + JWT
   * [centos](https://hub.docker.com/_/centos/)
   * couchbase
     * [Setting Up a Couchbase Cluster in 10 Minutes with Docker Compose](https://medium.com/@teivah/setting-up-a-couchbase-cluster-in-10-minutes-with-docker-and-docker-compose-61e5ccfae21a)
