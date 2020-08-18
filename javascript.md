@@ -2226,6 +2226,7 @@ Javascript
 * [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
 * [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
 * [리액트 훅! 코드를 따라치며 배워보자!](https://www.youtube.com/watch?v=ZRH23R2MlbY)
+* [React 컴포넌트를 커스텀 훅으로 제공하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-3/)
 * [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
 * [Learn the basics of React Hooks in <10 minutes>](https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d)
 * [Let’s get hooked: a quick introduction to React Hooks](https://medium.freecodecamp.org/lets-get-hooked-a-quick-introduction-to-react-hooks-9e8bc3fbaeac)
@@ -2440,6 +2441,7 @@ Javascript
 * [Learn React Portal In 12 Minutes By Building A Modal](https://morioh.com/p/448a42ad2095)
 * [React v17 Release Candidate 톺아보기. 변경사항과 유의할점을 React 공식 문서와, 개인적인 지식을 덧붙여… | by 한영재 | Aug, 2020 | Medium](https://medium.com/@han7096/react-v17-release-candidate-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-6a4b091965c4)
 * [How to Create a PDF file using React.js](https://morioh.com/p/e6de5438e02d)
+* [Realtime Chat App | React, GraphQL & Websockets](https://morioh.com/p/0e4247e9a225)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
