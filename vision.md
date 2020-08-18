@@ -157,10 +157,6 @@ Vision
 * [FACE DETECTION BY LITERATURE](http://www.erogol.com/face-detection-networks-literature/)
 * [Can you solve a person detection task in 10 minutes?](https://hackernoon.com/can-you-solve-a-person-detection-task-in-10-minutes-74fba061194c)
 * [Amenity Detection and Beyond — New Frontiers of Computer Vision at Airbnb](https://medium.com/airbnb-engineering/amenity-detection-and-beyond-new-frontiers-of-computer-vision-at-airbnb-144a4441b72e)
-* [Getting Started with WebRTC](http://www.html5rocks.com/ko/tutorials/webrtc/basics/)
-  * [webRTC를 이용한 화상회의 개발](https://dareun.github.io/webRTC%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%92%E1%85%AA%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4-%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF)
-  * [Kurento - an Open Source Software WebRTC media server](http://www.kurento.org)
-* [Build a Webcam Communication App using WebRTC](https://blog.bitsrc.io/build-a-webcam-communication-app-using-webrtc-9737384e84be)
 * [Segmenting and refining images with SharpMask](https://code.facebook.com/posts/561187904071636)
   * [Demo website](https://www.facebook.com/aidemos/)
   * [Github repo for MultiPathNet](https://github.com/facebookresearch/multipathnet)
@@ -386,6 +382,13 @@ Vision
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
 * [VICAR Open Source - We are pleased to announce that the VICAR Core is now available in Open Source form!](http://www-mipl.jpl.nasa.gov/vicar_open.html)
 * [VTK - The Visualization Toolkit (VTK) is an open-source, freely available software system for 3D computer graphics, image processing, and visualization](http://www.vtk.org/)
+* WebRTC
+  * [Getting Started with WebRTC](http://www.html5rocks.com/ko/tutorials/webrtc/basics/)
+    * [webRTC를 이용한 화상회의 개발](https://dareun.github.io/webRTC%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%92%E1%85%AA%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4-%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF)
+    * [Kurento - an Open Source Software WebRTC media server](http://www.kurento.org)
+  * [Build a Webcam Communication App using WebRTC](https://blog.bitsrc.io/build-a-webcam-communication-app-using-webrtc-9737384e84be)
+  * [WebRTC Library 다루기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/13/webrtc-library.html)
+  * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
 
 # OpenCL
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
