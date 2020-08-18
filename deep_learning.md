@@ -1195,6 +1195,7 @@ Deep Learning
   * [Getting started with Deeplearning4J and Scala](http://datasmarts.net/2017/11/11/getting-started-with-deeplearning4j-and-scala/)
   * [DL4J-Quick Start](http://hugrypiggykim.com/2016/05/15/deep-learning-dl4j-quick-start)
   * [Deep learning on Apache Spark and Apache Hadoop with Deeplearning4j](https://blog.cloudera.com/blog/2017/06/deep-learning-on-apache-spark-and-hadoop-with-deeplearning4j)
+* [EagerPy - Writing Code That Works Natively with PyTorch, TensorFlow, JAX, and NumPy](https://eagerpy.jonasrauber.de/) 상호호환
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [einops - Deep learning operations rethinked (supports tf, pytorch, chainer, gluon and others)](https://github.com/arogozhnikov/einops)
   * [Writing better code with pytorch and einops](https://arogozhnikov.github.io/einops/pytorch-examples.html)
