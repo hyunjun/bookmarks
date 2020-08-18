@@ -359,6 +359,7 @@ Hadoop
   * TPC 벤치 마크를 통해 Presto의 성능 향상을 확인, Presto의 새로운 옵티마이저가 작동하는 방식, 왜 성능이 향상되었는지 설명
 * [HyperLogLog in Presto: A significantly faster way to handle cardinality estimation](https://code.fb.com/data-infrastructure/hyperloglog/)
   * Presto의 HLL(HyperLogLog) 구현에 대해 이야기 및 HLL 백그라운드에 있는 수학적 이야기도 포함
+* [Presto를 이용하여 Google Sheets와 mysql 등 DB 데이터 JOIN 하기 | Popit](https://www.popit.kr/presto%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-google-sheets%EC%99%80-mysql-%EB%93%B1-db-%EB%8D%B0%EC%9D%B4%ED%84%B0-join-%ED%95%98%EA%B8%B0/)
 
 # Python
 * [A Guide to Python Frameworks for Hadoop](https://blog.cloudera.com/blog/2013/01/a-guide-to-python-frameworks-for-hadoop/)
