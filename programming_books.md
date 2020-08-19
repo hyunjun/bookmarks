@@ -615,8 +615,6 @@ Programming Books
   * [서평, 한빛미디어](http://jh4hj.tistory.com/entry/%EC%BD%94%EB%94%A9%EC%85%B0%ED%94%84%EC%9D%98-3%EB%B6%84-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%BC%80%EB%9D%BC%EC%8A%A4%EB%A7%9B)
 * (NOT YET) [딥러닝 부트캠프 with 케라스](https://www.gilbut.co.kr/book/bookView.aspx?bookcode=BN001913&page=1&TF=T)
   * 2018.02 한라
-* (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
-  * 한라 004.73-김36ㄷ
 * [케라스 창시자에게 배우는 딥러닝](https://tensorflow.blog/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D/)
   * [“케라스 창시자에게 배우는 딥러닝”이 출간되었습니다](https://tensorflow.blog/2018/10/08/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9D%B4-%EC%B6%9C%EA%B0%84%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88/)
   * [github.com/gilbutITbook/006975](https://github.com/gilbutITbook/006975)
@@ -793,8 +791,11 @@ Programming Books
 * (NOT YET) [밑바닥부터 시작하는 비트코인](http://www.hanbit.co.kr/store/books/look.php?p_code=B2663064363)
 * (NOT YET) [누구나 할 수 있다. 비트코인 자동 매매](https://pystock.net/2) PyQt, scraping
 * (NOT YET) [역서출간 핸즈온 머신러닝 딥러닝 알고리즘 트레이딩](https://brunch.co.kr/@gauss92tgrd/9)
+* (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
+  * 한라 004.73-김36ㄷ
 * [파이썬 증권 데이터 분석](http://hanbit.co.kr/store/books/look.php?p_code=B7026921929)
   * [StockAnalysisInPython](https://github.com/INVESTAR/StockAnalysisInPython)
+* (NOT YET) [퀀트 전략을 위한 인공지능 트레이딩](https://www.hanbit.co.kr/store/books/look.php?p_code=B1740090592)
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
