@@ -46,6 +46,7 @@ Android
 * [메인 액티비티 실행이 안돼요](http://sunphiz.me/wp/archives/3258)
 * [New ActivityResultRegistry](http://pluu.github.io/blog/android/2020/03/24/activity-result/)
 * [새로운 API ActivityResultContract로 Migration](http://pluu.github.io/blog/android/2020/05/01/migation-activity-result/)
+* [BindService를 사용하면서 주의해야 할 점들](https://developer88.tistory.com/256)
 * [안드로이드 개발력 향상하기](http://www.kmshack.kr/2017/02/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EB%A0%A5-%ED%96%A5%EC%83%81%ED%95%98%EA%B8%B0/)
 * [DataBinding - Goodbye 버터나이프 Hello 데이터바인딩](http://gun0912.tistory.com/71)
 * [DataBinding에 대해서 알아보자 part1](https://developer88.tistory.com/202)
@@ -97,6 +98,7 @@ Android
 * [NAVER Tech Talk: Android 밋업(2019년 7월)](https://d2.naver.com/helloworld/7663642)
 * [NAVER Tech Talk: Android 밋업(2018년 11월, 2019년 11월)](https://d2.naver.com/news/4699566)
 * [NAVER Tech Talk: 안드로이드 개발 밋업(2019년 12월)](https://d2.naver.com/news/3876839)
+* [NAVER Tech Talk: iOS / Android 밋업(2020년 4월, 7월)](https://d2.naver.com/news/2579889)
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
@@ -168,6 +170,7 @@ Android
 * [요약 What's New in Android Development Tools (Android 11 Beta Launch)](http://pluu.github.io/blog/android/io20/2020/06/14/io20-whats-new-in-android-development-tools/)
 * [Android 소스 최적화 (100GB에서 65GB로 줄이기)](https://kibua20.tistory.com/51) repo, git
 * [알아두면 쓸모있는 신비한 안드로이드 지식 9가지. 많은 분들이 의외로 모르는 안드로이드 관련 잡다한 상식들이나 팁들에… | by Ted Park | 박상권의 삽질블로그 | Aug, 2020 | Medium](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
+* [GPU Overdraw 1-draw 줄이기](http://pluu.github.io/blog/android/2020/08/18/gpu-overdraw/)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
