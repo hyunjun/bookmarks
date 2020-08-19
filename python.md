@@ -2191,6 +2191,7 @@ Python
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
+* [handcalcs: Python library for converting Python calculations into rendered latex.](https://github.com/connorferster/handcalcs)
 * [Hydrogen - an interactive coding environment that supports Python, R, JavaScript and other Jupyter kernels](https://nteract.gitbooks.io/hydrogen/)
 * ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [ipywidgets](https://ipywidgets.readthedocs.io)
