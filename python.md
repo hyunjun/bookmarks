@@ -402,6 +402,7 @@ Python
 * [파이썬으로 SAP Script 실행하기 (with argument)](https://kminito.tistory.com/10)
 * [futurecoder: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Mutability and Immutability in Python — Let’s Break It Down | by Wendy Leung | Data Driven Investor | Medium](https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9)
+* [Understanding Python Operator Overloading to prevent wrong code | by Doojin Kang | Aug, 2020 | Medium](https://medium.com/@doojin.kang/understanding-python-operator-overloading-to-prevent-wrong-code-a96668e6c263)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1767,6 +1768,8 @@ Python
   * [Flask logging example](https://gist.github.com/ibeex/3257877)
 * pytest
   * [practice - Refactoring the structure of project, and add test using pytest](https://github.com/hyunjun/practice/commit/fa446d20efac7732e71d0efc50c5bf92d65bbe0a)
+  * [wkdtjsgur100.github.io/tags/#pytest](https://wkdtjsgur100.github.io/tags/#pytest)
+    * pytest <.py file>과 python -m pytest <.py file>의 실행 결과가 다름. 이유는 아직 모르겠음
   * [Flask에서 Pytest Fixture로 테스트환경 구축하기](https://qodot.github.io/post/flask%EC%97%90%EC%84%9C-pytest-fixture%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
   * [T.D.D로 Flask API 맛보기](https://www.slideshare.net/JIHUNKIM26/tdd-flask-api-90039358))
   * [다시쓰는 Flask unittest (상편)](https://jybaek.tistory.com/805)
