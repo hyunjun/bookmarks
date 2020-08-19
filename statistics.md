@@ -381,6 +381,8 @@ Statistics
 * [Survival Analysis (2/3)](https://hyperconnect.github.io/2019/08/22/survival-analysis-part2.html)
 * [Bayesian optimization](http://krasserm.github.io/2018/03/21/bayesian-optimization/)
 * [**30명이면 된다고? 회의에서 당당하게, 설문조사를 알아보자**](http://triviaz.net/blog:easy_clt_survey)
+* [Statistics Tutorial with Python - YouTube](https://www.youtube.com/watch?v=YCPYNXtwKAc)
+* [Statistics Tutorial 2 Real World Example - YouTube](https://www.youtube.com/watch?v=ger_Won5sRQ)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
 * [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
