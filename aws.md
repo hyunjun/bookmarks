@@ -731,6 +731,7 @@ AWS
 * [발표, Serverless 프레임워크로 Nuxt 앱 배포하기 - 완두블로그](https://wani.kr/posts/2019/06/22/serverless-nuxt/)
 * [Swift implementation of AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/)
 * [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
+* [람다를 이용해 CF 로그를 ES에 저장하기](https://brunch.co.kr/@alden/63)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
