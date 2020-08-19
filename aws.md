@@ -376,6 +376,7 @@ AWS
 * [Amazon Personalize's example using python sdk](https://github.com/seongshj/personalize-python-sdk-example)
 * [Public Cloud와 온프레미스 간의 IP 중복 시, 서비스 통신 방법](https://zigispace.net/1077)
 * [AWS DATA LAKE WORKSHOP](http://bdlf.awsdemo.kr/)
+* [AWS Data 분석 특집 웨비나 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWCRf3TT3T9nAozINnpQD3v)
 * [The good parts of AWS - A visual summary](https://hassenchaieb.com/aws-good-parts/)
 * [Algo로 개인 VPN 서버 구축하기(요약판)](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
 * [WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a)
