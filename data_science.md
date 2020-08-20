@@ -410,6 +410,7 @@ Data Science
 * [5 Bite-Sized Data Science Summaries](https://towardsdatascience.com/5-bite-sized-data-science-summaries-a5afb8509353)
 * [The online courses you must take to be a better Data Scientist | DataTau](https://medium.com/datatau/the-online-courses-you-must-take-to-be-a-better-data-scientist-36a06016c819)
 * [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
+* [Practical Data Ethics | Data ethics](http://ethics.fast.ai/)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
