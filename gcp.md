@@ -106,6 +106,7 @@ Google Cloud Platform GCP
 * [Measurement Protocol을 이용하여 Google Analytics 적용하기 (feat. Lambda) - 완두블로그](https://wani.kr/posts/2020/03/16/measurement-protocol-google-analytics/)
 * [Google Cloud Platform을 활용하여 평생 '무료' PC 만들기](https://kibua20.tistory.com/94)
 * [**GCP - cloud build 이용하여 ci/cd 구축하기**](https://dailyheumsi.tistory.com/234)
+* [시리얼 포트를 통해 SSH 없이 인스턴스에서 작업하기](https://jybaek.tistory.com/877)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
