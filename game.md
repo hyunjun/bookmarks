@@ -79,6 +79,7 @@ Game
   * [파이썬 레이싱 자동차 게임 만들기 Creating a Python Racing Car Game with pygame (한글자막)](https://www.youtube.com/watch?v=37a7cBmCvB8)
     * [github.com/diligejy/PythonData/tree/master/PyCar](https://github.com/diligejy/PythonData/tree/master/PyCar)
   * [파이게임 설치하기](https://blog.naver.com/dsz08082/221373412901)
+  * [pygame에서 한글폰트 사용 템플릿 예제 : 네이버 블로그](https://blog.naver.com/drvoss/222065324957)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
   * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
