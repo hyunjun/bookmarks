@@ -584,6 +584,7 @@ SQL
 * [Types of Indexes in PostgreSQL - Highgo Software Inc.](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
 * [PostgreSQL EXPLAIN — pgMustard](https://www.pgmustard.com/docs/explain)
 * [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
+* [PSQL TIMESTAMP/AT TIME ZONE 바로 알기 · Billo Park](https://blog.billo.io/devposts/psql_at_time_zone/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
