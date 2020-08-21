@@ -496,11 +496,13 @@ Linux
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
-* `tar`
-  * [Portability of tar features](https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html)
 * `tail`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
+* `tar`
+  * [Portability of tar features](https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html)
+* `taskset`
+  * [리눅스의 CPU affinity. 리눅스에서 SMP(Symmetric MultiProcessing)을… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9D%98-cpu-affinity-5df1a7ab3d99)
 * `tcpdump`
   * [A gentle introduction to Berkeley Packet Filters](http://tylerfisher.org/bpf/)
   * [**tcpdump를 활용한 타임아웃 분석**](https://brunch.co.kr/@alden/38)
