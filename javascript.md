@@ -1325,6 +1325,7 @@ Javascript
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
 * [NectarJS : compiling JavaScript into Native Binaries for Every Platform](https://codeburst.io/nectarjs-compiling-javascript-into-native-binaries-for-every-platform-2efb2083a4a)
+* neo.mjs [Chrome v83 enables JS module support for SharedWorkers → Starting a new era for multi Browser Window Apps with neo.mjs | by Tobias Uhlig | The Startup | Medium](https://medium.com/swlh/chrome-v83-enables-js-module-support-for-sharedworkers-starting-a-new-era-for-multi-browser-dbb20366bddf)
 * [nestjs.com](https://nestjs.com/)
   * [Nest js를 소개 합니다](https://studystorage.blogspot.com/2019/03/nest-js.html)
   * [nestjs와 loopback, 호기심을 자극하는 2019년의 nodejs 웹프레임워크](https://paperspoon.tistory.com/entry/nestjs%EC%99%80-loopback-%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-2019%EB%85%84%EC%9D%98-nodejs-%EC%9B%B9%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
@@ -2443,6 +2444,7 @@ Javascript
 * [React v17 Release Candidate 톺아보기. 변경사항과 유의할점을 React 공식 문서와, 개인적인 지식을 덧붙여… | by 한영재 | Aug, 2020 | Medium](https://medium.com/@han7096/react-v17-release-candidate-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-6a4b091965c4)
 * [How to Create a PDF file using React.js](https://morioh.com/p/e6de5438e02d)
 * [Realtime Chat App | React, GraphQL & Websockets](https://morioh.com/p/0e4247e9a225)
+* [How to Display PDFs but Prevent Them From Downloading in React | by Alexander Chen | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/how-to-display-pdfs-but-prevent-them-from-downloading-in-react-2e77292ca9a5)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
