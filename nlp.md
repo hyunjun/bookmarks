@@ -279,6 +279,7 @@ NLP
 * [GPT-3가 뭐길래, 제2의 알파고? - YouTube](https://www.youtube.com/watch?v=vLCQGkT2nFc)
 * [GPT-3, 인류 역사상 가장 뛰어난 언어 AI – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-review/)
 * [OpenAI GPT-3 - Good At Almost Everything! 🤖 - YouTube](https://www.youtube.com/watch?v=_x9AwxfjxvE)
+* [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Aug, 2020 | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
