@@ -810,6 +810,7 @@ Python
   * [pycon kr 2018.12 파이썬 로깅, 끝까지 파보면서 내가 배운 것 - 황현태](https://www.youtube.com/watch?v=lS2gwDe46_0)
     * [파이썬 로깅, 끝까지 파보면서 내가 배운 것](https://www.slideshare.net/ssuserf482d4/ss-126936692)
   * [Copy-Pastable Logging Scheme for Python | by Dalya Gartzman | codeburst](https://codeburst.io/copy-pastable-logging-scheme-for-python-c17efcf9e6dc)
+  * [**Python3: Logging With Multiprocessing | by Jonathonbao | Medium**](https://medium.com/@jonathonbao/python3-logging-with-multiprocessing-f51f460b8778)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
@@ -1894,6 +1895,7 @@ Python
 * [Flask - DB (Mysql) 연동과 CRUD :: 개발자 울이 노트](https://woolbro.tistory.com/91)
 * [How To Use One-to-Many Database Relationships with Flask and SQLite | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-one-to-many-database-relationships-with-flask-and-sqlite)
 * [Creating Middlewares with Python Flask | by Devesh Kharve | The Startup | Medium](https://medium.com/swlh/creating-middlewares-with-python-flask-166bd03f2fd4)
+* [sqlcolab](https://github.com/gyunseul9/sqlcolab) colab + Flask REST API daemon, MySQL 테이블 생성 쿼리, 샘플 csv 파일
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
