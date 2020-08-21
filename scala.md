@@ -583,6 +583,9 @@ Scala
   * [The async library in Scala](https://blog.knoldus.com/the-async-library-in-scala-2/)
   * [Chapter 9: A Beginner's Tutorial To Using Scala Futures](http://allaboutscala.com/tutorials/chapter-9-beginner-tutorial-using-scala-futures/)
     * [Scala Future에 대해 기본은 배워보자! 튜토리얼 ~~](https://wingnim.tistory.com/107)
+  * [Writing Async App in Scala. Part 1: Coding | Wix Engineering](https://medium.com/wix-engineering/writing-async-app-in-scala-part-1-coding-dd09b014d576)
+  * [Writing Async App in Scala. Part 2: Exception Handling | Wix Engineering](https://medium.com/wix-engineering/writing-async-app-in-scala-part-2-exception-handling-3fba8504c6fa)
+  * [Writing Async App in Scala. Part 3: Threading Model | by Dmitry Komanov | Wix Engineering | Medium](https://medium.com/wix-engineering/writing-async-app-in-scala-part-3-threading-model-ef9e9033bd33)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
