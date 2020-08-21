@@ -1666,3 +1666,4 @@ Scala
 * [Scala Knowledge Bits Archives - Leo Benkel](https://leobenkel.com/category/scala/knowledge-bits/)
 * [SF Scala: Getting Things Done in the Scala REPL by Li Haoyi - YouTube](https://www.youtube.com/watch?v=RLPAf5LDeS4)
 * [Interactive Programming in the Scala REPL by Haoyi Li at Scala in the City - YouTube](https://www.youtube.com/watch?v=9yD_0nlALGM)
+* [Learning Scala — 8 DON’Ts and 7 DOs | by Annette | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/learning-scala-8-donts-and-7-dos-c9d1eac33e2c)
