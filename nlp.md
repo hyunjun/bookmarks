@@ -617,6 +617,7 @@ NLP
   * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
   * [How to build a voice assistant with open source Rasa and Mozilla tools](https://blog.rasa.com/how-to-build-a-voice-assistant-with-open-source-rasa-and-mozilla-tools)
   * [Rasa youtube channel](https://www.youtube.com/channel/UCJ0V6493mLvqdiVwOKWBODQ)
+  * [GPT-3 vs. Rasa chatbots. Comparing the performance of GPT-3 and… | by Mark Ryan | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/gpt-3-vs-rasa-chatbots-8b3041daf91d)
 * [TextFeatureSelection](https://pypi.org/project/TextFeatureSelection/)
 
 # Classification
