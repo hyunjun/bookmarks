@@ -1047,6 +1047,7 @@ Javascript
 * [발표, GraphQL 적용기 - 완두블로그](https://wani.kr/posts/2019/11/30/graphql/)
 * [A Principled Approach to GraphQL Query Cost Analysis | by James Davis | Dev Genius | Jun, 2020 | Medium](https://medium.com/dev-genius/a-principled-approach-to-graphql-query-cost-analysis-8c7243de42c1)
 * [fullstack-starterkit: GraphQL first full-stack starter kit with Node, React. Powered by TypeScript](https://github.com/karanpratapsingh/fullstack-starterkit)
+* [Fullstack React GraphQL TypeScript Tutorial - YouTube](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
