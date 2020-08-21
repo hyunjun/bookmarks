@@ -410,6 +410,7 @@ Java
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
+* [VimtelliJ: All the best of Vim in IntelliJ](https://www.dev-log.me/VimtelliJ:_All_the_best_of_Vim_in_IntelliJ/)
 
 # Java8
 * [How to Install JAVA 8 (JDK 8u45) on CentOS/RHEL 7/6/5 and Fedora](http://tecadmin.net/install-java-8-on-centos-rhel-and-fedora/)
