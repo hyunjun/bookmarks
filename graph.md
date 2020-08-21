@@ -53,6 +53,7 @@ Graph
 * [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases)](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [대한민국 인맥지도 (SPARQL, Python, D3JS, Network visualization)](https://docs.google.com/presentation/d/1OgbNGLMocDW0YierCQk96i6-0poYgqJXj4xZBPJsNKY/edit?usp=sharing)
 * [Predicting Friendship Who’s Most Likely Your Next Friend?](https://towardsdatascience.com/predicting-friendship-a82bc7bbdf11)
+* [Temporal Graph Networks. A new neural network architecture for… | by Michael Bronstein | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
