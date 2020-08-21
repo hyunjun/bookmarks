@@ -1072,6 +1072,7 @@ Java
 * [시의적절한 커스텀 어노테이션 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/06/26/custom-annotation.html)
 * [실시간 댓글 개발기(part.3) – Spring의 동시성 접근 제어에 발목 잡힌 이야기 – tech.kakao.com](https://tech.kakao.com/2020/06/22/websocket-part3/) SimpleBroker
 * [(동영상)Spring Framework MVC5 Helloworld 자바설정(Java Config)을 통한 스프링 HelloWorld 작성](http://ojc.asia/bbs/board.php?bo_table=LecSpring&wr_id=846)
+* [나의 첫 SpringRestDocs 적용기 part 1](https://ahndy84.tistory.com/27)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
