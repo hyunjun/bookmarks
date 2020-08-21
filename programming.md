@@ -401,6 +401,7 @@ Programming
 * [A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)
 * [API 이코노미를 살펴본다 (1) 최근 기술 및 사업화 동향 :: Channy's Blog](http://channy.creation.net/blog/1371)
 * [Elle Townsend | My 5 favourite APIs | The Startup](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
+* [API Testing Guide and Beginner’s Tips (SOAP & REST) | by Katalon Studio | Katalon | Medium](https://medium.com/katalon-studio/api-testing-guide-and-beginners-tips-soap-rest-8d33bf56225c)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
