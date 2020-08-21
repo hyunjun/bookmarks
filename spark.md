@@ -24,6 +24,7 @@
 * [Start Your Journey with Apache Spark — Part 1](https://medium.com/expedia-group-tech/start-your-journey-with-apache-spark-part-1-3575b20ee088)
 * [Start Your Journey with Apache Spark — Part 2](https://medium.com/expedia-group-tech/start-your-journey-with-apache-spark-part-2-682891efda4b)
 * [Start your Journey with Apache Spark — Part 3](https://medium.com/expedia-group-tech/start-your-journey-with-apache-spark-part-3-1ae77c05187)
+* [Getting started with Spark & batch processing frameworks | by Hoa Nguyen | Insight](https://blog.insightdatascience.com/getting-started-with-spark-and-batch-processing-frameworks-d9f80c146e13)
 * Spark Internal
   * [Part 1. RDD의 내부 동작](https://medium.com/@leeyh0216/spark-internal-part-1-rdd%EC%9D%98-%EB%82%B4%EB%B6%80-%EB%8F%99%EC%9E%91-d50eb7a235e6)
   * [**Part 2. Spark의 메모리 관리(1)**](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1-c18e39af942e)
