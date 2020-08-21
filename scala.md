@@ -8,6 +8,7 @@ Scala
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/)
 * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
+* [SoftwareMilling around OSS – Scala Love](https://scala.love/softwaremilling-around-oss/)
 * [Happy Valentine’s Day with Valentin Kasas](https://scala.love/happy-valentin/) podcast
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
@@ -97,6 +98,7 @@ Scala
 * [SCALA NATIVE Your favourite language gets closer to bare metal](http://www.scala-native.org/)
   * [Scala goes Native](https://github.com/densh/talks/blob/517b20c30dd4aaf390785039cdd002f623eaa91e/2016-05-11-scala-goes-native.pdf)
   * [Welcome to Scala Native](https://scala-native.readthedocs.io/)
+  * [스칼라 네이티브 사용자 가이드. 스칼라는 함수형 프로그래밍 언어이면서 동시에 객체지향적인 특징을 함께… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/scala-native-dc93d810a23f)
 * [Effective Scala (SpringCamp 2013)](http://www.slideshare.net/ihji/effective-scala-springcamp2013)
   * [SpringCamp2013 Effective Scala](https://www.youtube.com/watch?v=WbV467V8o0w)
 * [Databricks Scala Guide](https://github.com/databricks/scala-style-guide/blob/master/README.md)
@@ -723,10 +725,12 @@ Scala
     * [Functional Effects with ZIO - Aleksandar Skrbic](https://aleksandarskrbic.github.io/functional-effects-with-zio/)
     * [Combining Purely Functional Property Based and Docker Integration Tests in ZIO | by Arjun Dhawan | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/combining-purely-functional-property-based-and-docker-integration-tests-in-zio-6a826c5e7e19)
     * [Live Coding a Concurrent Web Crawler - John Ⓐ De Goes - YouTube](https://www.youtube.com/watch?v=08eSR0vn4Vw)
+    * [An Introduction to Functional Design – John A De Goes](https://degoes.net/articles/functional-design)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
       * [Functional Effect systems in Sclala: Build your own ZIO/Cats-Effect/Monix... | Wix Engineering](https://medium.com/wix-engineering/demystifying-functional-effect-systems-in-scala-14419039a423)
+    * gRPC [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
     * zio-prelude [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
@@ -1197,6 +1201,7 @@ Scala
 * [Functional references: Lens and other Optics in Scala](https://medium.com/zyseme-technology/functional-references-lens-and-other-optics-in-scala-e5f7e2fdafe)
 * [Lessons Learned Building a Van Laarhoven Lens Library](http://www.doscienceto.it/blog/posts/2019-12-19-optics.html)
 * [An Intuition for Optics](https://about.chatroulette.com/posts/optics/)
+* [More Intuition on Optics](https://about.chatroulette.com/posts/optics-2/)
 * [Monocle - Optics library for Scala](https://github.com/julien-truffaut/Monocle)
   * [State of Monocle](https://fp-tower.github.io/2019-12-30-state-of-monocle/)
   * [Monocle 3.x](https://fp-tower.github.io/2020-01-06-monocle-3/)
@@ -1297,6 +1302,8 @@ Scala
 * [Tagless Final - Part 4.1 - Power to the Interpreters! ✊ - YouTube](https://www.youtube.com/watch?v=5NxrVZvur_o)
 * [Tagless Final - Part 4.2 - Why The F\[\_\] - YouTube](https://www.youtube.com/watch?v=3-GgF5fy3Ek)
 * [Tagless Final - Part 5 - core (The Big Rewrite - Part 1) - YouTube](https://www.youtube.com/watch?v=HE3qCrLWgYw)
+* [Tagless Final - Part 6 - persistence (The Big Rewrite - Part 2) - YouTube](https://www.youtube.com/watch?v=f1V1eliUkzs)
+* [Tagless Final - Part 7 - delivery (The Big Rewrite - Part 3) - YouTube](https://www.youtube.com/watch?v=7OL8tSF0yZU)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1518,6 +1525,7 @@ Scala
 * [type level programming](https://github.com/ikhoon/tlp/tree/master/src/main/scala/tlp)
 * [Alphabet Soup: Type-level transformations](https://medium.com/@jdrphillips/alphabet-soup-type-level-transformations-eb60918af35d)
 * [Rock the JVM | Type-Level Programming in Scala, Part 1](https://rockthejvm.com/blog/215780/type-level-programming-1)
+* [Rock the JVM | Type-Level Programming in Scala, Part 2](https://rockthejvm.com/blog/216390/type-level-programming-2)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
 * [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
