@@ -310,7 +310,6 @@ Docker
 * [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/)
 * [Docker Misconceptions](https://valdhaus.co/writings/docker-misconceptions/)
 * [My Slow Internet vs Docker](https://medium.com/google-cloud-platform-developer-advocates/my-slow-internet-vs-docker-7678ae1cae72)
-* [Spin up a Docker dev/test Environment in 60 Minutes or Less](https://www.joyent.com/blog/spin-up-a-docker-dev-test-environment-in-60-minutes-or-less)
 * [Running containers from Mac OS X](https://hyper.sh/blog/post/2015/07/30/running-containers-from-mac-os-x.html)
 * [ANNOUNCING DOCKER 1.8: CONTENT TRUST, TOOLBOX, AND UPDATES TO REGISTRY AND ORCHESTRATION](http://blog.docker.com/2015/08/docker-1-8-content-trust-toolbox-registry-orchestration/)
   * [ANNOUNCING DOCKER TOOLBOX](https://blog.docker.com/2015/08/docker-toolbox/)
@@ -639,7 +638,6 @@ Docker
 * [Docker for Mac](http://likejazz.com/post/172462024766/docker-for-mac)
 * [Docker for Mac으로 Kubernetes 로컬에서 사용하기](https://blog.outsider.ne.kr/1346)
 * [Kubernetes](https://www.slideshare.net/sangminpark1979/kubernetes-88700018/1)
-* [**쿠버네티스를 이용해 테스팅 환경 구현해보기**](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)
 * [Microservice, Docker & Kubernetes - 조대협](https://www.youtube.com/watch?v=xdqOxF2JqwU)
 * [Kubernetes for dev infrastructure](https://hackernoon.com/kubernetes-for-dev-infrastructure-40b9175cb8c0)
 * [A Kubernetes quick start for people who know just enough about Docker to get by](https://blog.sourcerer.io/a-kubernetes-quick-start-for-people-who-know-just-enough-about-docker-to-get-by-71c5933b4633)
@@ -815,7 +813,6 @@ Docker
 * [Docker and Kubernetes — root vs. privileged - ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
 * [What’s up with the Kubernetes ecosystem – Blocks and Files](https://blocksandfiles.com/2020/07/09/kubernetes-ecosystem-analysis)
 * [Docker and Kubernetes — root vs. privileged | by Bryant Hagadorn | Jun, 2020 | ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
-* [Distributed load testing with Gatling and Kubernetes | by Anna Shepeleva | De Bijenkorf Techblog | Medium](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 * [글로벌 칼럼 | 쿠버네티스가 풀지 못한 '앱 현대화' 문제의 나머지 절반 - ITWorld Korea](http://www.itworld.co.kr/news/159121)
 * [Kubernetes Learning Path | Microsoft Azure](https://azure.microsoft.com/ko-kr/resources/kubernetes-learning-path/)
 * [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
@@ -1022,6 +1019,12 @@ Docker
 * [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)](https://www.youtube.com/watch?v=16LNWMqphOA)
 * [Docker Swarm 을 이용한 Container Orchestration 환경 만들기](https://tech.osci.kr/2019/02/13/59736201/)
 * [Docker swarm - setup and usage](https://knowledgepill.it/posts/docker_swarm_compendium/)
+
+# TDD, Test
+* [Spin up a Docker dev/test Environment in 60 Minutes or Less](https://www.joyent.com/blog/spin-up-a-docker-dev-test-environment-in-60-minutes-or-less)
+* [How to Dockerize your End-to-End acceptance tests | by Dominic Fraser | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/how-to-dockerize-your-end-to-end-acceptance-tests-dbb593acb8e0)
+* [Distributed load testing with Gatling and Kubernetes | by Anna Shepeleva | De Bijenkorf Techblog | Medium](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
+* [**쿠버네티스를 이용해 테스팅 환경 구현해보기**](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)
 
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)
