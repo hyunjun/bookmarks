@@ -85,6 +85,7 @@ Json
 * [React Authentication: How to Store JWT in a Cookie | by Ryan Chenkie | Medium](https://medium.com/@ryanchenkie_40935/react-authentication-how-to-store-jwt-in-a-cookie-346519310e81)
 * [Stop using JWT for sessions - joepie91's Ramblings](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/)
 * [Stop using JWT for sessions, part 2: Why your solution doesn't work - joepie91's Ramblings](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
+* [What Exactly Is a JSON Web Token (JWT)? | Better Programming](https://medium.com/better-programming/what-exactly-is-a-json-web-token-678e8a8a5fe4)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
