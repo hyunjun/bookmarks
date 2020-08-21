@@ -42,6 +42,7 @@ App
   * oh my zsh, direnv, fzf, silver searcher (ag)
 * [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
+* [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Jul, 2020 | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
