@@ -1381,6 +1381,17 @@ Deep Learning
 * [**Practical Deep Learning For Coders, Part 2**](http://course.fast.ai/part2.html)
   * [Cutting Edge Deep Learning for Coders—Launching Deep Learning Part 2](http://www.fast.ai/2017/07/28/deep-learning-part-two-launch/)
 * [fast.ai literate programming](https://medium.com/@dienhoa.t/fast-ai-literature-programming-2d0d4230dd81)
+* [fast.ai releases new deep learning course, four libraries, and 600-page book · fast.ai](https://www.fast.ai/2020/08/21/fastai2-launch/)
+  * fastai-v2: 원래 fastai는 교육용 딥러닝 라이브러리
+    * 그러나, 이를 활용하여 강의를 수강한 여러 학생들이 좋은 성과를 내면서 유사한 컨셉의 새로운 라이브러리 작성(v1과 호환되지 않음)
+  * 책 (Deep Learning for Coders): fastai 라이브러리 사용법이 포함되지만, PyTorch, Python 고급 기법등도 함께 다룸. 밑바닥부터 구현
+  * Practical Deep Learning for Coders: 파트 1과 파트2로 구분되었던 fastai 강의 중 파트 1부분
+    * 일반적으로 파트2는 보다 내부적인 코드레벨로의 deep dive입니다.
+    * Your first models, Evidence and p values, Production and Deployment, SGD from scratch, Data ethics, Collaborative Filtering, Tabular data, Natural Language Processing
+  * 부가적으로 공개된 라이브러리
+    * fastcore: fastai에서 사용되는 기초적인 라이브러리. 테스팅, Mixins/Delegation/Composition 등, 함수형 프로그래밍/병렬 프로세싱 등, Dispatch, Transform 등을 Python에서 쉽게 코딩할 수 있는 방법 제공
+    * fastscript: 매우 쉽게 argument 를 받아들이는 프로그램을 작성할 수 있도록 도와주는 라이브러리
+    * fastgpu: Multiple GPU에 스크립트 단위로 GPU를 할당하여, 여러 종의 스크립트가 병렬적으로 별도의 GPU에서 수행되고자 하는 작업이 있을때 유용
 * [Full Stack Deep Learning - Full Stack Deep Learning](https://course.fullstackdeeplearning.com)
 * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/)
   * [Theories of Deep Learning (STATS 385)](https://stats385.github.io/lecture_slides)
