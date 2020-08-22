@@ -1454,6 +1454,7 @@ Python
 * sphinx
   * [Python 문서화, Sphinx로 아주 간단하게 시작해보기](https://tech.ssut.me/2015/07/28/start-python-documentation-using-sphinx/)
   * [**readthedocs.org에 문서화하는 방법**](https://hides.tistory.com/1055)
+  * [개발자가 싫어하는 문서화하기 1편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067596734)
 
 # Django
 * [Django 문서](https://docs.djangoproject.com/ko)
