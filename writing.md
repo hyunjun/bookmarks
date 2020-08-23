@@ -91,6 +91,8 @@ Writing
 * [Code Documentation. That ugly thing...](https://www.slideshare.net/ChristosManios/code-documentation-that-ugly-thing)
 * [Most tech content is bullshit 기술 콘텐츠는 대체로 헛소리다](https://muchtrans.com/translations/most-tech-content-is-bullshit.ko.html)
 * [Top 29 Developer Docs - DEV](https://dev.to/pomber/top-29-developer-docs-44l0)
+* [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
+  * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
 * [Doxygen: Main Page](https://www.doxygen.nl)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
