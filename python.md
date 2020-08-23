@@ -2775,6 +2775,7 @@ Python
   * [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
   * [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
   * [How I built a GPU Deep Learning Cluster with ray — And why I would do it again](https://medium.com/@mcgamer0070/how-i-built-a-gpu-deep-learning-cluster-with-ray-and-why-i-would-do-it-again-6920f4e6b7b)
+  * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
