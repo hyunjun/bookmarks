@@ -2663,6 +2663,7 @@ Javascript
   * [useSWR Hook 알아보기!](https://jaeseokim.tistory.com/113)
   * [dynamic import로 줄여본 next.js 앱의 최초 로딩 시간](https://blog.rhostem.com/posts/2020-05-10-nextjs-and-dynamic-import)
   * [Authentication in Next.js using Amazon Cognito](https://medium.com/frontend-digest/authentication-in-next-js-using-amazon-cognito-f30efed6a24f)
+  * [Learn Next.js in One Video - Fundamentals of Next.js - YouTube](https://www.youtube.com/watch?v=tt3PUvhOVzo)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
