@@ -703,6 +703,7 @@ Web
 * [REST API 사용하기 쉽게 만드는 법](https://www.youtube.com/watch?v=JMH3cfW-8r8)
 * [Jira Server platform REST API reference 8.10.1](https://docs.atlassian.com/software/jira/docs/api/REST/8.10.1/#api/2/issueLink-getIssueLink) 참고
 * [REST API 설계](https://www.slideshare.net/Byungwook/rest-api-60505484)
+* [RESTful API 체크리스트](https://brunch.co.kr/@nanotoly/18)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
