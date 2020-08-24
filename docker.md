@@ -841,6 +841,7 @@ Docker
   * [Zero-Downtime Rolling Updates With Istio](https://www.javacodegeeks.com/2018/10/zero-downtime-rolling-updates-istio.html)
   * [Istio를 활용해 Multi Cluster 환경에 Service Mesh 구성하기](https://yunsangjun.github.io/blog/istio/2019/08/11/istio-multi-cluster-mesh.html)
   * [Azar Mirror 서버 제작기 2편 - Istio와 함께하는 Traffic Mirroring](https://hyperconnect.github.io/2020/06/02/azar-mirror-2.html)
+  * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
 * k3s [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
