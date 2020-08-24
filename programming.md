@@ -1934,6 +1934,7 @@ Programming
 * [2020년 8월 1일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-1.html) 웹 크롤러, GCP/오라클 클라우드 평생 무료 VPS 사용, Readme.md, MySQL 8.0, 크롬 개발자도구, CORS, 윈도우 10 스크린샷
 * [2020년 8월 8일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-8.html) 이것 대 저것, random, IPv6, 04 Vue vs React, 기술 문서 작성 5단계, 개발 팀에 물어볼 네 가지 질문, AWS 람다 안정성
 * [2020년 8월 15일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-15.html) 롭 파이크 다섯 가지 프로그래밍 규칙, QR 코드 생성, Cracking Vue.js, vs 연관 그래프, 윈도우 마크다운 에디터, 최고의 자바스크립트 프로젝트, 항공기 소프트웨어 업데이트
+* [(08/22) 기업 내 ‘필수 요구 사항’ 의 허상 - YouTube](https://www.youtube.com/watch?v=zzl68mTlq8s) ts-migrate, URL Checker, 도커 컨테이너 vs 도커 이미지, 도커 이미지 보관 기간 정책 변경
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
