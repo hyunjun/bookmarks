@@ -61,6 +61,7 @@ Logging
   * [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
   * [Open-sourcing LogDevice, a distributed data store for sequential data](https://logdevice.io/blog/2018/09/12/open-sourcing-announcement.html)
 * [Logswan is a fast Web log analyzer using probabilistic data structures](https://github.com/fcambus/logswan)
+* [loguru: A lightweight C++ logging library](https://github.com/emilk/loguru)
 * [Palallax - Open Source Log Analyzer for Palo Alto Networks Next-Generation Firewall](http://www.ap-com.co.jp/ja/paloalto/palallax/index_en.html)
 * [SenseLogs - Instant log data in seconds, not minutes](https://www.sensedeep.com/senselogs/)
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)
