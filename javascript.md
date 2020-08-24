@@ -399,6 +399,7 @@ Javascript
 * [예제로 배우는 CORS](https://www.youtube.com/watch?v=mZ-uq3c3Xfs)
 * [Cross Origin Resource Sharing - CORS - 뒤태지존의 끄적거림](http://homoefficio.github.io/2015/07/21/Cross-Origin-Resource-Sharing/)
 * [✋🏼🔥 CS Visualized: CORS - DEV](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
+* [CORS window.postMessage](https://okdevtv.com/mib/cors/post)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
