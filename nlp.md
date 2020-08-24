@@ -1081,6 +1081,7 @@ NLP
 * [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
   * [NLP_COURSE: A Deep Learning YSDA Natural Language Processing Course By GitHub](https://www.techleer.com/articles/570-nlp_course-a-deep-learning-ysda-natural-language-processing-course-by-github)
 * [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing - YouTube](https://www.youtube.com/watch?v=8zAP2qWAsKg)
+* [9 Best Tensorflow Courses & Certifications Online- Discover the Best One!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
 
 # Named Entity
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)
