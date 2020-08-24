@@ -317,6 +317,7 @@ Programming
 * [how-to-secure-anything: How to systematically secure anything: a repository about security engineering](https://github.com/veeral-patel/how-to-secure-anything)
 * [Managing Technical Debt. DevOps Essentials | by Stephen Kawaguchi | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/managing-technical-debt-b4f30cbccbe0)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
+* [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
