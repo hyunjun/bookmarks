@@ -811,6 +811,8 @@ Python
     * [파이썬 로깅, 끝까지 파보면서 내가 배운 것](https://www.slideshare.net/ssuserf482d4/ss-126936692)
   * [Copy-Pastable Logging Scheme for Python | by Dalya Gartzman | codeburst](https://codeburst.io/copy-pastable-logging-scheme-for-python-c17efcf9e6dc)
   * [**Python3: Logging With Multiprocessing | by Jonathonbao | Medium**](https://medium.com/@jonathonbao/python3-logging-with-multiprocessing-f51f460b8778)
+  * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
+  * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
@@ -985,6 +987,12 @@ Python
   * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
   * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
     * [vmprof documentation](https://vmprof.readthedocs.org/)
+  * [yappi: Yet Another Python Profiler, but this time thread&coroutine aware.](https://github.com/sumerc/yappi)
+    * [Profiling을 통해 python async web application 병목지점 찾기 ⛑ - make all](https://makeall.me/2020/08/python-async-profiling.html)
+      * Async web 작성 시에는 logging도 고려해야 하는 데 이 부분이 빠져있음
+        * 기본 logging은 sync이기 때문에 bufferred or async logging을 사용하지 않으면 async web에서 성능 저하 발생
+      * 또한 여기서 mysqlclient(libmysql 기반)와 aiomysql(PyMySQL)을 비교했는데, 기본적으로 PyMySQL이 mysqlclient보다 2~4배 느림
+        * mysqlclient는 sync 기반으로 threadpool로만 동작
 * property
   * [파이썬에서 @property 에 대해 알아보자](http://hamait.tistory.com/827)
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property)](https://blog.naver.com/codeitofficial/221684462326)
@@ -1226,6 +1234,7 @@ Python
 * [asyncio를 이용한 비동기 처리 이해와 promise와 비교하기](https://blog.naver.com/pjt3591oo/221979921090)
 * [An Introduction to ASGI, Asynchronous Server Gateway Interface](https://www.youtube.com/watch?v=uRcnaI8Hnzg)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
+* [zzzeek : Asynchronous Python and Databases](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -2432,7 +2441,6 @@ Python
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour ](https://github.com/Eyepea/API-Hour)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
-* [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [Bake — the strangely familiar workflow utility](https://github.com/kennethreitz/bake) makefile과 비슷하게 bakefile을 통해 작업 처리. automation
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
