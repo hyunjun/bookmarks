@@ -892,6 +892,7 @@ NLP
   * [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 * [Koshort - Koshort은 한국어 NLP를 위한 high-level API 프로젝트입니다](https://koshort.github.io/)
 * [LASER - Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
+* [lit: The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.](https://github.com/pair-code/lit/)
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
