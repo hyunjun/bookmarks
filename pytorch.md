@@ -192,6 +192,7 @@ PyTorch
 # Classification
 * [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
 * [How to Train an Image Classifier in PyTorch and use it to Perform Basic Inference on Single Images](https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)
+* [Image Classification with Automatic Mixed-Precision Training PyTorch Tutorial](https://hoya012.github.io/blog/Image-Classification-with-Mixed-Precision-Training-PyTorch-Tutorial/)
 * [Classy Vision - An end-to-end framework for image and video classification](https://classyvision.ai/)
   * [An end-to-end PyTorch framework for image and video classification https://classyvision.ai ](https://github.com/facebookresearch/ClassyVision)
 * [pycl - an image classification codebase, written in PyTorch](https://github.com/facebookresearch/pycls)
