@@ -1549,6 +1549,7 @@ Javascript
 * [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
+  * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
 * [Yarn: First Look at the New Package Manager for JavaScript](http://www.eloquentwebapp.com/yarn-new-package-manager-javascript/)
   * [Yarn: 처음 보는 자바스크립트의 새 패키지 매니저 (Yarn: First Look at the New Package Manager for JavaScript)](https://www.vobour.com/book/view/Y5vcMHJGHyN5ayheM)
   * [github.com/yarnpkg](https://github.com/yarnpkg)
