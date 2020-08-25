@@ -34,6 +34,8 @@ Finance
 * [**중국의 페이할부결제, 한국에서도 유행할까?**](https://brunch.co.kr/@windydog/290)
 * [AI 자산운용 보고서](https://brunch.co.kr/@qraft/7) 자산운용 방식 변화에 대한 흐름 설명
 * [A Step-By-Step Guide To Building a Trading Bot In Any Programming Language | by Yakko Majuri | Aug, 2020 | Noteworthy - The Journal Blog](https://blog.usejournal.com/a-step-by-step-guide-to-building-a-trading-bot-in-any-programming-language-d202ffe91569)
+* [코스피 ETF의 종류와 매월 일정금액을 투자했다면 그 결과는?!](https://tariat.tistory.com/968)
+* [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
