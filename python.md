@@ -835,6 +835,7 @@ Python
   * [Underscore(\_)로 시작하는 파이썬 클래스명](https://lhy.kr/python-class-name-startwith-underscore)
   * [**PyCon Korea 2019 리얼월드 메타클래스**](https://slides.com/seonghyeonkim/pyconkr-realworld-metaclass) 매우 좋은 발표 내용
   * [리얼월드 메타클래스](https://seonghyeon.dev/realworld-metaclass/)
+  * [Python Reflection and Introspection | by Jamie Bullock | Better Programming | Medium](https://medium.com/better-programming/python-reflection-and-introspection-97b348be54d8)
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
@@ -1699,6 +1700,7 @@ Python
 * [Django 3.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
 * [How To Scale and Secure a Django Application with Docker, Nginx, and Let's Encrypt | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-scale-and-secure-a-django-application-with-docker-nginx-and-let-s-encrypt)
 * [장고 라이브 코딩쇼 (50분, 유튜브 St.) - YouTube](https://www.youtube.com/watch?v=12J8IHG17lM)
+* [Managing Sessions in Django. Understanding your Django session with… | by Goutom Roy | Better Programming | Medium](https://medium.com/better-programming/managing-sessions-in-django-92ef72db4c63)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
@@ -2200,6 +2202,7 @@ Python
 * [Jupyter Notebooks in the IDE](https://towardsdatascience.com/jupyter-notebooks-in-the-ide-visual-studio-code-versus-pycharm-5e72218eb3e8)
 * [A Jupyter kernel for SQLite - Jupyter Blog](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
 * [4 Awesome Tips for Enhancing Jupyter Notebooks - Towards Data Science](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)
+* [5 Reasons why you should Switch from Jupyter Notebook to Scripts | by Khuyen Tran | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
