@@ -557,6 +557,7 @@ Apache
 * [How to Test Kafka Streams Applications](https://medium.com/better-programming/testing-kafka-streams-applications-1c5cb14c5376)
 * [기본 개념잡기](https://victorydntmd.tistory.com/344)
 * [Ordering of events in Kafka](https://medium.com/@siddhbhatt/ordering-of-events-in-kafka-e5692663e708)
+* [Connecting Kafka to MinIO. How to connect data being distributed… | by Alex | The Startup | Medium](https://medium.com/swlh/connecting-kafka-to-a-minio-s3-bucket-using-kafka-connect-92d34a81704e)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
