@@ -59,6 +59,8 @@ Monitoring
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [GoAccess - Visual Web Log Analyzer](https://goaccess.io/)
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
+* [installsheild](https://github.com/gyunseul9/installsheild)
+  * 설치항목 - 웹서버: 아파치, 스크립트 언어: PHP, No-SQL: REDIS, No-SQL 클러스터: 루비, 데이터수집데몬: node.js,  REDIS 모니터링: RedisLive , 모니터링 데이터 수집: sqlite, 백업 및 감시 스케줄러: crontab
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
