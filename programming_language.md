@@ -144,6 +144,7 @@ Programming Language
 * [Crema - Crema: A Sub-Turing Programming Language](http://ainfosec.github.io/crema/)
 * [CROBOTS is a programming game, for programmers (or aspiring programmers.)](http://tpoindex.github.io/crobots/)
 * [Crystal](http://crystal-lang.org/)
+  * [Slick Like Ruby, Fast Like C — Does Such a Language Exist? | by Tameem Iftikhar | Better Programming | Medium](https://medium.com/better-programming/slick-like-ruby-fast-like-c-does-such-a-language-exist-9066fc16e6f1)
 * [D](http://ddili.org/ders/d.en/)
   * [D 프로그래밍 언어](https://wikidocs.net/book/457)
   * [eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. https://ebay.github.io/tsv-utils ](https://github.com/eBay/tsv-utils) csv/tsv
