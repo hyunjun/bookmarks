@@ -638,6 +638,7 @@ Algorithm
 * [**아는만큼 Search tree**](https://hackerwins.github.io/2019-05-10/search-tree)
 * [균형 이진 트리 : 제약 조건이 맞지 않으면 추가적인 연산을 한다](https://codingdog.tistory.com/entry/균형-이진-트리-제약-조건이-맞지-않으면-추가적인-연산을-한다)
 * [Handling Trees in Data Science Algorithmic Interview](https://www.kdnuggets.com/2020/01/handling-trees-data-science-algorithmic-interview.html)
+* [Serialize and Deserialization Binary Tree, BST deserialization Explained. Leetcode 297, 449 - YouTube](https://www.youtube.com/watch?v=EIfDP5GH7Vs)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
