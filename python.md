@@ -1908,6 +1908,7 @@ Python
 * [How To Use One-to-Many Database Relationships with Flask and SQLite | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-one-to-many-database-relationships-with-flask-and-sqlite)
 * [Creating Middlewares with Python Flask | by Devesh Kharve | The Startup | Medium](https://medium.com/swlh/creating-middlewares-with-python-flask-166bd03f2fd4)
 * [sqlcolab](https://github.com/gyunseul9/sqlcolab) colab + Flask REST API daemon, MySQL 테이블 생성 쿼리, 샘플 csv 파일
+* [Python Flask REST API MySQL stored procedure colab](https://github.com/gyunseul9/colabsp)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
