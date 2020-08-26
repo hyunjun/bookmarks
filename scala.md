@@ -266,6 +266,7 @@ Scala
 * [Railway Oriented Programming in Scala - Pierre's Blog](https://blog.pjam.me/posts/railway-oriented-programming-scala/)
 * [Writing Angular Services in Scala | by Antoine Doeraene | Jul, 2020 | Medium](https://medium.com/@antoine.doeraene/writing-angular-services-in-scala-e83fd308b7c3)
 * [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
+* [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1267,6 +1268,7 @@ Scala
   * [Proxied Streaming Uploads with Scala/Play](https://bitwalker.org/posts/2014-07-10-scala-streaming-file-uploads/)
   * [Scala Play Framework - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbhb6kOJS477I_laHQTGgjg8)
   * [**Play Framework using Scala - YouTube**](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
+  * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell - YouTube](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
