@@ -136,6 +136,7 @@
   * [번역 Design Pattern In Kotlin — 3. Structural](https://medium.com/@hongbeomi/%EB%B2%88%EC%97%AD-design-pattern-in-kotlin-3-structural-2e5e007fc0e3)
 * [Kotlin의 Invoke함수를 알아보자](https://developer88.tistory.com/240)
 * [코틀린(Kotlin)으로 스프링 시큐리티(Spring Security) 유저 정보 조회](https://anomie7.tistory.com/65)
+* [Functional Effect System in Kotlin | by Alexey Soshin | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/functional-effect-system-in-kotlin-599f1d8778cc)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
