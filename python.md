@@ -3036,6 +3036,8 @@ Python
   * [**Python MySQL Tutorial**](http://www.mysqltutorial.org/python-mysql/)
   * [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
   * [Insert / Retrieve file and images as a Blob in MySQL using Python](https://pynative.com/python-mysql-blob-insert-retrieve-file-image-as-a-blob-in-mysql/)
+  * [Python & MySQL Crash Course - YouTube](https://www.youtube.com/watch?v=BHwgnGEhYG8)
+    * [practice - Python & MySQL crash course for beginners](https://gist.github.com/bradtraversy/5ea2fa59776ddc8cf45c536be65d4f86)
 * [PewSQL - Analytics Done inside RDBMS](https://github.com/AndersonJo/pewsql)
 * [PyMySQL](https://github.com/PyMySQL)
   * [PyMySQL - Pure Python MySQL Client https://pymysql.readthedocs.io ](https://github.com/PyMySQL/PyMySQL)
