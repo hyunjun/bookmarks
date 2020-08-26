@@ -1269,6 +1269,7 @@ Scala
   * [Scala Play Framework - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbhb6kOJS477I_laHQTGgjg8)
   * [**Play Framework using Scala - YouTube**](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell - YouTube](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
+  * [Scala Play Framework 2.6 Quick Start - YouTube](https://www.youtube.com/watch?v=hjBUcx7qRIk)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
