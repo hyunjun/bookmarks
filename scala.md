@@ -1265,6 +1265,8 @@ Scala
   * [Play Framework using Scala](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
   * [Implementing Authentication on Play Framework](https://pedrorijo.com/blog/scala-play-auth/)
   * [Proxied Streaming Uploads with Scala/Play](https://bitwalker.org/posts/2014-07-10-scala-streaming-file-uploads/)
+  * [Scala Play Framework - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbhb6kOJS477I_laHQTGgjg8)
+  * [**Play Framework using Scala - YouTube**](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
