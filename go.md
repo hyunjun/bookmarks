@@ -338,6 +338,7 @@ Go
 * [Go: Overview of the Compiler](https://medium.com/a-journey-with-go/go-overview-of-the-compiler-4e5a153ca889)
 * [Gsp - a compiler built on top of Joseph Adams' Gisp](https://github.com/gsp-lang/gsp)
 * [TINYGO - A GO COMPILER FOR SMALL PLACES](https://tinygo.org/)
+  * [Tiny Go: Small Is Going Big - YouTube](https://www.youtube.com/watch?v=zNibD802V6Q)
 
 # Debug
 * [Introducing a cross-platform debugger for Go](http://blog.mailgun.com/introducing-a-new-cross-platform-debugger-for-go/)
