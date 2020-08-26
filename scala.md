@@ -426,6 +426,7 @@ Scala
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
   * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
   * [A story about streaming unique batches in Monix](https://blog.softwaremill.com/a-story-about-streaming-unique-batches-in-monix-435a13063b3)
+  * [Best Practice: Should Not Block Threads — Monix](https://monix.io/docs/current/best-practices/blocking.html)
 
 ## Akka Cluster
 * [Why we picked AKKA cluster as our microservice framework](http://tech.iheart.com/post/121599571574/why-we-picked-akka-cluster-as-our-microservice)
@@ -569,6 +570,7 @@ Scala
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
+  * [practice - Future\[T\] to T using Option\[Try\[T\]\]](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-_to_t-md)
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
   * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
@@ -587,6 +589,12 @@ Scala
   * [Writing Async App in Scala. Part 1: Coding | Wix Engineering](https://medium.com/wix-engineering/writing-async-app-in-scala-part-1-coding-dd09b014d576)
   * [Writing Async App in Scala. Part 2: Exception Handling | Wix Engineering](https://medium.com/wix-engineering/writing-async-app-in-scala-part-2-exception-handling-3fba8504c6fa)
   * [Writing Async App in Scala. Part 3: Threading Model | by Dmitry Komanov | Wix Engineering | Medium](https://medium.com/wix-engineering/writing-async-app-in-scala-part-3-threading-model-ef9e9033bd33)
+  * [Future.transform in Scala 2.12](https://nmatpt.com/blog/2017/02/09/scala-2.12-future-transform/)
+  * [A Little Guide on Using Futures for Web Developers | svese Engineering Blog](https://svese.dev/a-little-guide-on-using-futures-for-web-developers/)
+  * [map(), flatMap() on Futures & Options in scala - Knoldus Blogs](https://blog.knoldus.com/map-flatmap-on-futures-options-in-scala/)
+  * [The worst thing in our Scala code: Futures | REA Group Ltd](https://www.rea-group.com/blog/the-worst-thing-in-our-scala-code-futures/)
+  * [How to compose Future and Option in Scala – Loïc's Blog](https://loicdescotte.github.io/posts/scala-compose-option-future/)
+  * [Scala Concurrency Advice: For Future Fun Fold On A FlatMap | by Bryan Bunch | Medium](https://medium.com/@brybunch/scala-concurrency-advice-for-future-fun-fold-on-a-flatmap-a06f37fdd498)
 * Implicit
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
@@ -821,6 +829,7 @@ Scala
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Modern Systems Programming with Scala Native Write Lean, High-Performance Code without the JVM](https://pragprog.com/book/rwscala/modern-systems-programming-with-scala-native)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
+* Programming in Scala [Code Examples for Programming in Scala, Third Edition](https://booksites.artima.com/programming_in_scala_3ed/examples/index.html)
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [**Seriously Good Software**](https://docs.google.com/presentation/d/e/2PACX-1vR8mEHa7gi5qhrdCwzOGnACdWxYb4kZERtscQIRZkYnH4rBNo7-ZZ4wXLD1DbUwJkwW83OhezYFjRmH/pub) 전반적인 설계 흐름을 볼 수 있는 슬라이드
@@ -1672,3 +1681,4 @@ Scala
 * [SF Scala: Getting Things Done in the Scala REPL by Li Haoyi - YouTube](https://www.youtube.com/watch?v=RLPAf5LDeS4)
 * [Interactive Programming in the Scala REPL by Haoyi Li at Scala in the City - YouTube](https://www.youtube.com/watch?v=9yD_0nlALGM)
 * [Learning Scala — 8 DON’Ts and 7 DOs | by Annette | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/learning-scala-8-donts-and-7-dos-c9d1eac33e2c)
+* [Introduction | Hello, Scala tutorial](https://hello-scala.com/)
