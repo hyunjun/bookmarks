@@ -382,6 +382,7 @@ AWS
 * [WATCHA 서버 접속을 위한 CLI 와 SSH 인증서버 소개](https://medium.com/watcha/watcha-%EC%84%9C%EB%B2%84-%EC%A0%91%EC%86%8D%EC%9D%84-%EC%9C%84%ED%95%9C-cli-%EC%99%80-ssh-%EC%9D%B8%EC%A6%9D%EC%84%9C%EB%B2%84-%EC%86%8C%EA%B0%9C-264cc31f411a)
 * [SSM Agent vs. ssh](https://andromedarabbit.net/ssm-agent-vs-ssh/)
 * [SSM Agent vs. ssh 2탄](http://andromedarabbit.net/ssm-agent-vs-ssh-2%ED%83%84)
+* [Where do you keep credentials for your Lambda functions? | by Davide de Paolis | HackerNoon.com | Medium](https://medium.com/hackernoon/where-do-you-keep-credentials-for-your-lambda-functions-cac746048480)
 * [AWS에서 NodeJS 환경 구축하고 NPM 모듈 설치하기](https://developer88.tistory.com/296)
 * [AWS FreeTier 제한 스펙과 사용량 확인하는 방법](https://developer88.tistory.com/295)
 * [AWS 서버리스 서비스를 이용한 웹 애플리케이션 구축하기 Hands-on Lab](https://github.com/bskim/AWSServerlessHoL-CI-CD)
