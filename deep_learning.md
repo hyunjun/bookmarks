@@ -1568,7 +1568,7 @@ Deep Learning
 * [Neural Networks from Scratch with Python Code and Math in Detail— I | by Towards AI Team | Towards AI — Multidisciplinary Science Journal | Jun, 2020 | Medium](https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
 * [Building Neural Networks with Python Code and Math in Detail — II | by Towards AI Team | Towards AI — Multidisciplinary Science Journal | Jun, 2020 | Medium](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
 
-## ConvNets CNN
+## Neural Network ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
   * [ConvNet을 시계열 데이터에 적용하는 세가지 방법](https://www.facebook.com/terryum/posts/10154337242359417)
     * Convolutional Neural Network (ConvNet, 또는 CNN)은 원래는 2D 이미지를 인식하기 위해 만듦
@@ -1775,7 +1775,7 @@ Deep Learning
 * [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 * [2D Visualization of a Convolutional Neural Network](http://www.cs.cmu.edu/~aharley/nn_vis/cnn/2d.html) 숫자를 입력하면 layer별로 그림으로 보여줌
 
-## LSTM
+## Neural Network LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
 * [엘에스티엠 네트워크 이해하기 (Understanding LSTM Networks)](http://roboticist.tistory.com/m/post/571)
 * [GRU & LSTM for machine translations.ipynb](https://github.com/kobikun/study/blob/master/babelpish/GRU_LSTM_for_machine_translation/GRU%20%26%20LSTM%20for%20machine%20translations.ipynb)
@@ -1832,7 +1832,7 @@ Deep Learning
 * [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
 * [Predicting Trump’s Tweets With A Recurrent Neural Network](https://towardsdatascience.com/predicting-trump-tweets-with-a-rnn-95e7c398b18e)
 
-## Python
+## Neural Network Python
 * [A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
   * [11줄의 파이썬 코드로 뉴럴 네트워크를 만들어보자](http://ddanggle.github.io/ml/ai/cs/2016/07/16/11lines.html)
 * [A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
@@ -1871,7 +1871,7 @@ Deep Learning
 * [ancient-text-restoration - Restoring ancient text using deep learning: a case study on Greek epigraphy](https://github.com/sommerschield/ancient-text-restoration)
   * [Restoring ancient text using deep learning: a case study on Greek epigraphy](https://deepmind.com/research/publications/Restoring-ancient-text-using-deep-learning-a-case-study-on-Greek-epigraphy)
 
-## Recurrent Flow Net
+## Neural Network Recurrent Flow Net
 * [Recurrent Flow Network on Different Error Rates](https://www.youtube.com/watch?v=twR3wYjwLrM)
   * binary matrix를 입력으로 받아서, 미래의 matrix를 예측하며, 각 cell의 속도 역시 구할 수 있음
   * 예를 들어서 matrx의 1과 0이 해당 공간이 점유됨과 비어있음을 의미하면, 이 네트워크는 무인 자동차와 같은 어플리케이션에서 장애물들의 속도와 미래에 어떻게 움직일지를 예측 가능
@@ -1885,7 +1885,7 @@ Deep Learning
 * [Where to Apply Dropout in Recurrent Neural Networks for Handwriting Recognition?](https://www.slideshare.net/LeeGyeonghoon/where-to-apply-dropout-in-recurrent-neural-networks-for-handwriting-recognition?ref=https%3A%2F%2Fwww.slideshare.net%2FLeeGyeonghoon%2Fslideshelf)
 * [A friendly introduction to Recurrent Neural Networks](https://www.youtube.com/watch?v=UNmqTiOnRfg)
 
-## RNN Recurrent Neural Net
+## Neural Network RNN Recurrent Neural Net
 * [Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN) Baby steps to your neural network's first memories](https://iamtrask.github.io/2015/11/15/anyone-can-code-lstm/)
   * [(한글 번역) Anyone Can Learn To Code an LSTM-RNN in Python (Part 1: RNN)](http://jaejunyoo.blogspot.com/2017/06/anyone-can-learn-to-code-LSTM-RNN-Python.html)
 * [**Awesome Recurrent Neural Networks - A curated list of resources dedicated to recurrent neural networks**](https://github.com/kjw0612/awesome-rnn)
