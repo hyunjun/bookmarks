@@ -142,6 +142,7 @@ Vision
 * [Computer vision — creating a classifier using convolutions, pooling and TensorFlow | by Eligijus Bujokas | Towards Data Science](https://towardsdatascience.com/computer-vision-creating-a-classifier-using-convolutions-pooling-and-tensorflow-7e75d809acbc)
 * [RandWireNN - Unofficial Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition"](https://github.com/hebo1221/RandWireNN)
 * [SNIPER - an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER) MXNet 기반
+* [Super-Fast-Accurate-3D-Object-Detection: Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation)](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
   * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
@@ -596,6 +597,8 @@ Vision
 * [How to Create your own image classifier with Angular and Tensorflow](https://morioh.com/p/a1562a02d941)
 * [Saving Images From an Object Detector Using TensorFlow](https://levelup.gitconnected.com/saving-images-from-an-object-detector-using-tensorflow-3f2d058568ba)
 * [Build, train, and evaluate an object detection model using ComputerVision Recipes - Microsoft Tech Community - 1497930](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-train-and-evaluate-an-object-detection-model-using/ba-p/1497930)
+* [Optimal Peanut Butter and Banana Sandwiches | Ethan Rosenthal](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
+  * [개발자가 코로나로 재택근무하면 생기는 일(바나나 땅콩버터 샌드위치 AI) :: Aedi의 스마트라이프](https://smartaedi.tistory.com/389)
 * [albumentations - fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
   * [Albumentations, an image augmentation library version 0.4 released. New augmentations, support for images and masks with more than 3 channels, "Hall of Fame" that contains a list of machine learning competitions in which the library was used](https://www.reddit.com/r/MachineLearning/comments/dibnqe/p_albumentations_an_image_augmentation_library/)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
