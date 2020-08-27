@@ -969,6 +969,7 @@ Programming
 * [레드햇 vs. VM웨어: 2020 상반기 하이브리드·멀티 클라우드 동향 | 슬로우뉴스](https://slownews.kr/77138)
 * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
+* [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
