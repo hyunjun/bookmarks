@@ -573,6 +573,7 @@ Scala
 * future
   * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-_to_t-md)
   * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`, `andThen`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
+  * [practice - multiple Future -> for, map, flatMap](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-multiple_future-scala)
     * [scala - Alternative to await.ready - Stack Overflow](https://stackoverflow.com/questions/41101633/alternative-to-await-ready) 결국은 `Future[T]` 반환
   * [Are Scala Futures the past?. We all started with Scala Futures. They… | by Stéphane Derosiaux | Medium](https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001)
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
