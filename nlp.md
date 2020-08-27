@@ -1126,6 +1126,8 @@ NLP
 * [딥러닝을 활용한 뉴스 메타 태깅](https://brunch.co.kr/@kakao-it/284)
 * [딥러닝을 활용한 뉴스 메타 태깅](https://www.slideshare.net/ifkakao/ss-113740929)
 * [스포츠 저널리즘의 변화와 AI의 활용](https://brunch.co.kr/@kakao-it/292)
+* [8.15 광화문 집회로 인한 코로나 재확산, 통합당 책임 vs 통합당과 무관, 정부가 야당을 탄압하려는 정치적 시도 (데이터 분석으로 알아보자) - YouTube](https://www.youtube.com/watch?v=TcxYR6poEIo)
+  * [news-analysis-8.15-rally: 8.15 광화문 집회로 인한 코로나 재확산, 통합당 책임 vs 통합당과 무관, 정부가 야당을 탄압하려는 정치적 시도? 여러분의 선택은??? 데이터 분석으로 알아보자!](https://github.com/captainnemo9292/news-analysis-8.15-rally)
 
 # Ontology
 * [Protege Ontology Library](http://protegewiki.stanford.edu/wiki/Protege_Ontology_Library)
