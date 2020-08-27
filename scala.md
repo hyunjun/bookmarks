@@ -572,7 +572,9 @@ Scala
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
   * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-_to_t-md)
-  * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
+  * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`, `andThen`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
+    * [scala - Alternative to await.ready - Stack Overflow](https://stackoverflow.com/questions/41101633/alternative-to-await-ready) 결국은 `Future[T]` 반환
+  * [Are Scala Futures the past?. We all started with Scala Futures. They… | by Stéphane Derosiaux | Medium](https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001)
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
   * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
@@ -1272,6 +1274,7 @@ Scala
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell - YouTube](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
   * [Scala Play Framework 2.6 Quick Start - YouTube](https://www.youtube.com/watch?v=hjBUcx7qRIk)
   * [Restful Services with the Play Framework, MySQL, and a Security Level with JWT by Mercedes Wyss - YouTube](https://www.youtube.com/watch?v=N59_Ta88kW0)
+  * [Play Framework Tutorials - YouTube](https://www.youtube.com/playlist?list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
