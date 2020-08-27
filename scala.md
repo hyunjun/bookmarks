@@ -572,7 +572,7 @@ Scala
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
   * [practice - `Future[T]` to `T` using `Option[Try[T]]`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future-t-_to_t-md)
-  * [practice - `Future` + `Await.result`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
+  * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
   * [The differences between a Scala Future and a Java Thread](http://alvinalexander.com/scala/differences-java-thread-vs-scala-future)
