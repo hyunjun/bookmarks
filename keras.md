@@ -328,3 +328,4 @@ Keras
 * [Keras 101: A simple (and interpretable) Neural Network model for House Pricing regression](https://towardsdatascience.com/keras-101-a-simple-and-interpretable-neural-network-model-for-house-pricing-regression-31b1a77f05ae)
 * [Keras with TensorFlow Course - Python Deep Learning and Neural Networks](https://morioh.com/p/a28cf2e77a67)
 * [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
+* [Keras Tutorial With TensorFlow | Building Deep Learning Models With Python](https://morioh.com/p/c1aa041b3aa2)
