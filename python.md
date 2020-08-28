@@ -2994,6 +2994,7 @@ Python
 ## Library cache
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
 * [methodtools.lru_cache](https://pypi.org/project/methodtools) functools.lru_cache가 classmethod나 staticmethod에 대해 제대로 동작하지 않아 이를 보완하기 위해 작성했다고 함
+  * [caching - Python functools lru_cache with class methods: release object - Stack Overflow](https://stackoverflow.com/questions/33672412/python-functools-lru-cache-with-class-methods-release-object/55990799)
 * [Ring - Cache interface as a programming language integration](https://ring-cache.readthedocs.io/)
   * [2018 PyCon KR - Ring](https://www.slideshare.net/YunWonJeong/2018-pycon-kr-ring-110398431)
   * [ring - Function-oriented cache interface with built-in memcache & redis + asyncio support](https://github.com/youknowone/ring)
