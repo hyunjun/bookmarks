@@ -651,6 +651,7 @@ Git
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
+* [gitoxide: An idiomatic, modern, lean, fast, safe & pure rust implementation of git](https://github.com/Byron/gitoxide)
 * [gitpod - One-Click Online IDE for GitHub](https://www.gitpod.io/)
   * [Scala - Gitpod](https://www.gitpod.io/docs/languages/scala/)
 * [git-punish](http://git-punish.io/)
