@@ -90,6 +90,7 @@ Open Source
 # Dropbox
 * [How Dropbox Security builds tools for threat detection and incident response](https://blogs.dropbox.com/tech/2019/10/how-dropbox-security-builds-better-tools-for-threat-detection-and-incident-response/)
 * [드롭박스가 공개한 무료 JPEG 압축SW](http://techholic.co.kr/archives/57319)
+* [Dropbox Improves Sync Performance Using a Modified Brotli](https://www.infoq.com/news/2020/08/dropbox-broccoli-brotli/)
 * Edgestore; 메타데이터를 저장하는 MySQL 샤드 클러스터
   * [(Re)Introducing Edgestore](https://blogs.dropbox.com/tech/2016/08/reintroducing-edgestore/)
     * 최근 2phase commit 프로토콜을 사용하여 멀티 샤드 트랜잭션 구현
