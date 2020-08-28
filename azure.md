@@ -100,6 +100,7 @@ Azure
   * [Elastic + Azure 온라인 밋업 #2 - Elastic Observability 를 이용한 Azure 모니터링 - YouTube](https://www.youtube.com/watch?v=TStDNsMWh7Y)
 * [애저와 기트허브의 결합 ··· ‘애저 정적 웹앱’ 첫걸음   - CIO Korea](http://www.ciokorea.com/news/157728)
 * [개발 환경 구성: 495. Azure - Location이 다른 웹/DB 서버의 경우 발생하는 성능 하락](https://www.sysnet.pe.kr/2/0/12273)
+* [프리지아 랩 :: Incorrect localization about "Create storage account"](https://www.dokyun.pe.kr/256)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
