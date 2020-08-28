@@ -1956,6 +1956,7 @@ Programming
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
 * [kkamagui의 작업실 :: 경량 가상화 기술을 활용한 영역 분리와 인터립트 처리](https://kkamagui.tistory.com/927)
+* [Operating systems development for Dummies | by Leo Whitehead | Medium](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
