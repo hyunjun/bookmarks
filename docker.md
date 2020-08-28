@@ -47,6 +47,7 @@ Docker
 * [Docker: Installation and Test Drive Utuntu 위에 Docker 설치하고 맛보기](http://www.sauru.so/blog/docker-installation-and-test-drive/)
 * [Docker: 나의 첫 Docker Image Build and Push my own Docker Image](http://www.sauru.so/blog/build-my-first-docker-image/)
 * [Docker image](https://trylhc.tistory.com/entry/Docker-image)
+* [What is a Docker container vs. an image?](https://searchitoperations.techtarget.com/answer/What-is-a-Docker-container-vs-an-image)
 * [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics)
 * [Docker에 대해서 정리해 봅니다](https://developer88.tistory.com/293)
 * [Docker](https://github.com/sangyeol-kim/ausg-docker-seminar/tree/master/1.Docker)
@@ -816,6 +817,7 @@ Docker
 * [글로벌 칼럼 | 쿠버네티스가 풀지 못한 '앱 현대화' 문제의 나머지 절반 - ITWorld Korea](http://www.itworld.co.kr/news/159121)
 * [Kubernetes Learning Path | Microsoft Azure](https://azure.microsoft.com/ko-kr/resources/kubernetes-learning-path/)
 * [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
+* [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
