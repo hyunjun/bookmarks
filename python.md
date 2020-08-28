@@ -1293,6 +1293,7 @@ Python
   * [aiohttp로 하는 비동기 HTTP 요청](https://item4.github.io/2017-11-26/Asynchronous-HTTP-Request-with-aiohttp/)
 * [**aio-libs - The set of asyncio-based libraries built with high quality**](https://github.com/aio-libs)
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
+* [aiosql: Simple SQL in Python](https://github.com/nackjicholson/aiosql)
 * [**aiotools - Idiomatic asyncio utilties**](https://github.com/achimnol/aiotools)
   * [**PyCon KR 2017 Meet aiotools: asyncio idiom library**](https://speakerdeck.com/achimnol/pycon-kr-2017-meet-aiotools-asyncio-idiom-library)
 * [Curio - a modern library for performing reliable concurrent I/O using Python coroutines and the explicit async/await syntax introduced in Python 3.5](https://github.com/dabeaz/curio)
@@ -1829,6 +1830,7 @@ Python
 * [구글 애널리틱스 API를 사용한 Flask 앱을 uWSGI와 nginx로 배포한 과정](https://rhostem.github.io/posts/2018-11-20-deploy-flask-with-uwsgi/)
 * [Flask AWS에 프로덕션용으로 Deploy하기(nginx+uwsgi)](https://bablabs.tistory.com/25)
 * [Flask - uwsgi - Nginx 와 docker-compose를 사용해 서버를 만들자](https://woolbro.tistory.com/95)
+* [Flask 에 uwsgi 서버 적용하기](https://woolbro.tistory.com/94)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
 * [How to make a Flask blog in one hour or less](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
 * [Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It’s BSD licensed!](https://flask.zeef.com/stefane.fermigier)
@@ -2204,6 +2206,7 @@ Python
 * [A Jupyter kernel for SQLite - Jupyter Blog](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
 * [4 Awesome Tips for Enhancing Jupyter Notebooks - Towards Data Science](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)
 * [5 Reasons why you should Switch from Jupyter Notebook to Scripts | by Khuyen Tran | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95)
+* [Announcing the new Jupyter Book. Note: this announcement is cross-posted… | by Chris Holdgraf | Aug, 2020 | Jupyter Blog](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
@@ -2725,14 +2728,10 @@ Python
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html ](https://github.com/ssut/py-googletrans)
 * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
+* [**PyIDM: python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui**](https://github.com/pyIDM/PyIDM)
 * pyinotify
   * [Monitoring a filesystem with Python and Pyinotify](http://www.saltycrane.com/blog/2010/04/monitoring-filesystem-python-and-pyinotify/)
   * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
-* [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
-  * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
-  * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
-  * [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
-  * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
 * [pyjs is a Rich Internet Application (RIA) Development Platform for both Web and Desktop. With pyjs you can write your JavaScript-powered web applications entirely in Python](http://pyjs.org/)
 * [Pykka - a Python implementation of the actor model](https://www.pykka.org/)
 * pyldap
@@ -3183,6 +3182,12 @@ Python
   * [~Pyenv 와 Virtualenv 를 이용한 Python 패키지 및 버전 의존성문제 해결~](http://judelee19.github.io/python/pyenv_virtualenv/)
   * [pyenv와 virtualenv를 사용한 파이썬 개발환경 구성](https://lhy.kr/configuring-the-python-development-environment-with-pyenv-and-virtualenv)
   * [Python 실전 개발 생태계](https://humbledude.github.io/blog/2019/08/22/python-dev-env/) pyenv, docker
+* [PyInstaller is a program that freezes (packages) Python programs into stand-alone executables, under Windows, Linux, Mac OS X, FreeBSD, Solaris and AIX](http://www.pyinstaller.org/)
+  * [Freezing Your Code](http://docs.python-guide.org/en/latest/shipping/freezing/)
+  * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
+  * [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
+  * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
+* [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.](https://github.com/google/subpar)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)
