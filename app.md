@@ -43,6 +43,8 @@ App
 * [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [Cutting Google out of your life (2019)](https://github.com/tycrek/degoogle)
 * [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Jul, 2020 | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
+* [7 Developer Tools to Make Work That Little bit Easier | by Marat Levit | Servian | Medium](https://medium.com/weareservian/7-developer-tools-to-make-work-that-little-bit-easier-4f1832c81e91)
+  * KeePass, DB Fiddle, Instant SQL Formatter, REPL, Regex 101, DiffChecker, Pastebin
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
@@ -95,6 +97,8 @@ App
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
+* [QR-Code-generator: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.](https://github.com/nayuki/QR-Code-generator)
+  * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [Quip Desktop](https://quip.com/blog/desktop)
 * [radio.garden](http://radio.garden/)
 * [rainbow lollipop - the visual history browser - http://rainbow-lollipop.de](https://github.com/grindhold/rainbow-lollipop)
@@ -135,6 +139,7 @@ App
   * [VirtualBox 5.1.20 버전업 후 Vagrant Shared Folders mount 오류 해결](https://blog.asamaru.net/2017/05/02/virtualbox-5-1-20-vagrant-shared-folders-mount-error/)
   * [샤크라맥스와 Virtualbox 게스트OS 네트워크 문제: ping은 되는데 tcp 연결이 안 될때](http://javacan.tistory.com/entry/Chakramax-Virtualbox-GuestOS-network-problem)
   * [VirtualBox 네트워크 설정 상세 분석](https://cjwoov.tistory.com/11)
+  * [kkamagui의 작업실 :: 버추어 박스(Virtual Box) 설정파일(.vbox) 오류 해결 방법](https://kkamagui.tistory.com/928)
   * [**macos-virtualbox: Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS**](https://github.com/myspaghetti/macos-virtualbox)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
@@ -932,6 +937,7 @@ App
 * [Eve](https://github.com/witheve/Eve)
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
+* [Isoflow](https://isoflow.io/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
@@ -1105,6 +1111,7 @@ App
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
+* [minifb: MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in](https://github.com/emoon/minifb)
 * [mimikatz를 이용하여 윈도우 계정 정보 알아내기 :: Secure my life](https://securitynote.tistory.com/28)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
