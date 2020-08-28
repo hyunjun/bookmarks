@@ -969,6 +969,7 @@ Scala
     * [Time traveling in tests with Cats Effect](https://blog.softwaremill.com/time-traveling-in-tests-with-cats-effect-b22084f6a89)
     * [cats-effect at ce3](https://github.com/typelevel/cats-effect/tree/ce3#cats-effect-3)
     * [Circuit Breaker Pattern with Cats Effect | by Hiroki Fujino | Level Up Coding](https://levelup.gitconnected.com/circuit-breaker-pattern-with-cats-effect-25947d0a4cba)
+    * [concurrency-in-scala-with-ce: Introduction to concepts of asynchronous and concurrent programming in Scala, based on cats-effect library.](https://github.com/slouc/concurrency-in-scala-with-ce)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
     * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
@@ -1329,6 +1330,7 @@ Scala
 * [Tagless Final - Part 5 - core (The Big Rewrite - Part 1) - YouTube](https://www.youtube.com/watch?v=HE3qCrLWgYw)
 * [Tagless Final - Part 6 - persistence (The Big Rewrite - Part 2) - YouTube](https://www.youtube.com/watch?v=f1V1eliUkzs)
 * [Tagless Final - Part 7 - delivery (The Big Rewrite - Part 3) - YouTube](https://www.youtube.com/watch?v=7OL8tSF0yZU)
+* [Tagless Final - Part 8.1 - main (The Big Rewrite - Part 4.1) - YouTube](https://www.youtube.com/watch?v=RuhV-Q9sLSo)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1395,6 +1397,11 @@ Scala
   * SBT Native Packager Docker Plugin
     * [**practice - sbt native packager docker plugin**](https://gist.github.com/hyunjun/28eb7d34e83088ee0c2f4cef97979275#file-sbt_native_packager_docker_plugin-md)
     * [Separate Docker Layers for Dependencies and App JARs](https://medium.com/@ppiotrow/separate-docker-layers-for-dependencies-and-app-jars-e33b52ca044c)
+* [sbt-projectmatrix](https://github.com/sbt/sbt-projectmatrix/)
+  * [parallel cross building using sbt-projectmatrix | eed3si9n](http://eed3si9n.com/parallel-cross-building-using-sbt-projectmatrix)
+  * [parallel cross building with VirtualAxis | eed3si9n](http://eed3si9n.com/parallel-cross-building-with-virtualaxis)
+  * [並列クロスビルド、パート3 | eed3si9n](http://eed3si9n.com/parallel-cross-building-part3)
+  * [parallel cross building sandwich | eed3si9n](http://eed3si9n.com/parallel-cross-building-sandwich)
 * sbt-rewarn [Life with fatal warnings | Roman Timushev](https://timushev.com/posts/2020/07/25/life-with-fatal-warnings/)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
@@ -1451,6 +1458,7 @@ Scala
 * [GCP Cloud Functions with Scala.js in 10 lines(ish)](https://www.mostly.codes/blog/creating-scalajs-gcp-cloud-functions)
 * [Part 1: Using akka and react to organize your single page scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/25/part-1-using-akka-and-react-to-organize-your-single-page-scala-js-application/)
 * [Part 2: The SMAkkaR.js Stack- Using monocle and akka to facilitate model and component reusability in a react scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/26/part-2-using-monocle-and-akka-to-facilitate-model-and-component-reusability-in-a-react-scala-js-application/)
+* [Scala, React, and SSR (part 1) | ShipReq Blog](https://blog.shipreq.com/post/scala_react_and_ssr_part_1)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 
 # TDD, Test
@@ -1551,6 +1559,7 @@ Scala
 * [Alphabet Soup: Type-level transformations](https://medium.com/@jdrphillips/alphabet-soup-type-level-transformations-eb60918af35d)
 * [Rock the JVM | Type-Level Programming in Scala, Part 1](https://rockthejvm.com/blog/215780/type-level-programming-1)
 * [Rock the JVM | Type-Level Programming in Scala, Part 2](https://rockthejvm.com/blog/216390/type-level-programming-2)
+* [Rock the JVM | Type-Level Programming in Scala, Part 3](https://rockthejvm.com/blog/216771/type-level-programming-3)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
 * [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
