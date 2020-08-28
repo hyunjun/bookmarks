@@ -550,6 +550,7 @@ Apache
 * [Apache Kafka as a Service with Confluent Cloud Now Available on Azure Marketplace](https://www.confluent.io/blog/confluent-cloud-managed-kafka-service-azure-marketplace/)
 * [**카프카 컨슈머 멀티쓰레드 애플리케이션 예제코드(for scala)**](https://blog.voidmainvoid.net/313)
 * [링크드인은 왜 카프카를 만들었나](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS9400468504)
+* [링크드인이 카프카를 직접 개발한 이유 - 테크잇](https://techit.kr/view/?no=20200815134042)
 * [Disaster Recovery Plans for Apache Kafka](https://www.slideshare.net/ConfluentInc/disaster-recovery-plans-for-apache-kafka)
 * [카프카 클러스터 클러스터ip DNS 연동방법. use_all_dns_ips 사용(in AWS, route53)](https://blog.voidmainvoid.net/327)
 * [Is Apache Kafka a Database? - The 2020 Update](https://dzone.com/articles/is-apache-kafka-a-database-the-2020-update)
@@ -596,6 +597,7 @@ Apache
 * [kafka-statsd-metrics2](https://github.com/airbnb/kafka-statsd-metrics2)
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
+* [kowl: Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX.](https://github.com/cloudhut/kowl)
 * KSQL
   * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
     * spark streaming의 대체?
