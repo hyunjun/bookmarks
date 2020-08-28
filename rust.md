@@ -128,6 +128,7 @@
 * [deno 3차 작업 후기](https://kdy1.github.io/post/works/freelance/deno/third-work/)
 * [How to use C++ polymorphism in Rust | by Senges Alex | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/how-to-use-c-polymorphism-in-rust-76e1d1a88ed1)
 * [The Error Handling Done Right. And it will save more time in the… | by Liu Tao | The Startup | Medium](https://medium.com/swlh/the-error-handling-done-right-d19ffca2656f)
+* [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
