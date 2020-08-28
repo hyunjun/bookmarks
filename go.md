@@ -262,6 +262,7 @@ Go
 * [위챗 미니프로그램에서 위챗 페이 연동 삽질기(부제.Golang에서 EUC-KR 서버와 HTTP 통신하기) | Popit](https://www.popit.kr/%EC%9C%84%EC%B1%97-%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C-%EC%9C%84%EC%B1%97-%ED%8E%98%EC%9D%B4-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0%EB%B6%80%EC%A0%9C-gola/)
 * [Task orchestration in Go Machinery. | by Kief H. Shemul | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/task-orchestration-in-go-machinery-66a0ddcda548)
 * [Go: How to Take Advantage of the Symbols Table | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5)
+* [Go: Built-in Functions Optimizations | by Vincent Blanchon | A Journey With Go | Aug, 2020 | Medium](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -384,7 +385,6 @@ Go
 * [Projects](https://github.com/golang/go/wiki/Projects)
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [구글 고의 위력을 보여주는 10가지 오픈소스 프로젝트](http://www.itworld.co.kr/news/133382)
-* [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
 * [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com ](https://github.com/caarlos0/antibody)
@@ -403,7 +403,6 @@ Go
 * [Caire - Content aware image resize library](https://github.com/esimov/caire)
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
-* [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
 * [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird ](https://github.com/purpleworks/delibird)
 * dep
   * [Go에서 dep으로 의존성 관리하기](https://blog.outsider.ne.kr/1354)
@@ -545,6 +544,11 @@ Go
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
 * [yh: YAML syntax highlighter to bring colours where only jq could](https://github.com/andreazorzetto/yh)
+
+## Library MySQL
+* [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
+* [Connecting to MySQL and Creating a Database | Go (Golang) MySQL Tutorial](https://golangbot.com/connect-create-db-mysql/)
+* [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
 
 # Machine Learning
 * [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
