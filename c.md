@@ -127,6 +127,7 @@ C
 * [A Very Simple HTTP Server writen in C](https://blog.abhijeetr.com/2010/04/very-simple-http-server-writen-in-c.html)
 * [Writing a simple Web Server in C](http://blog.manula.org/2011/05/writing-simple-web-server-in-c.html)
 * [Simple TCP/IP web server](http://www.paulgriffiths.net/program/c/webserv.php)
+* [Building Another Website, This Time in C | by Robert W. Oliver II | Sourcerer Blog](https://blog.sourcerer.io/building-another-website-this-time-in-c-93b7abdb9671) apache http server
 * [Can You Write a C Program Without a Main Function ? Here is How](https://latesthackingnews.com/2016/10/16/can-write-c-program-without-main-function/)
 * [practice - C Struct Hack](https://gist.github.com/hyunjun/2f4e666278435e37567a0656ab2c616a#file-struct_hack-md)
   * [practice](https://github.com/hyunjun/practice/tree/master/c/test-struct-hack)
@@ -161,6 +162,8 @@ C
 * [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 * [C - Mac에서 C Programming하는 방법 : 네이버블로그](https://blog.naver.com/scw0531/222028905378) xcode
 * [3차원 도넛을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/07/5-3.html)
+* [What does gcc main.c do?. Table of Contents | by Connor Brereton | Medium](https://medium.com/@connorbrereton/what-does-gcc-main-c-do-bc96824a60a4) compile 과정
+* [Why the C Language Will Never Stop You from Making Mistakes | The Pasture](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -392,6 +395,7 @@ C
 * [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
 * [WasmBoxC: Simple, Easy, and Fast VM-less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
+  * [WebAssembly를 이용, Firefox의 보안성 개선하기 ★ Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/2020/08/securing-firefox-with-webassembly/)
 * [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
 
@@ -456,3 +460,6 @@ C
   * mktime
   * strftime
   * strptime
+
+# Tutorial
+* [C Programming FAQs](http://cinsk.github.io//cfaqs/html/cfaqs-ko.html)
