@@ -821,6 +821,7 @@ Linux
 * [Scenario>Backup Script](https://developer-ankiwoong.tistory.com/533)
 * [How to install Simple Screen Record "Peek" on Rhel8](https://naleejang.tistory.com/220)
 * [CentOS가 Ubuntu 보다 더 안정적인 이유](https://rainofpainki.github.io/ubuntu_vs_centos/) 별로 설득력 있는 견해라고 생각이 들진 않지만 참고용으로 기록
+* [환경구성 CentOS Vmware 실습 환경 설정 - 1](https://developer-ankiwoong.tistory.com/1031)
 * service
 
   ```
