@@ -67,6 +67,7 @@ Elixir
 * [소스 코드 읽기: prometheus.erl, prometheus.ex](http://ohyecloudy.com/pnotes/archives/code-reading-prometheus-erl-ex/)
 * [Elixir on Erlang VM demystified. How does Elixir work under the hood?](https://blog.lelonek.me/elixir-on-erlang-vm-demystified-320557d09e1f)
 * [3 Key Elixir Takeaways For Java Developers | by Živković Miloš | Dev Genius | Medium](https://medium.com/dev-genius/3-key-elixir-takeaways-for-java-developers-ecea614812e9)
+* [Metaprogramming Elixir / Chris McCord](http://ohyecloudy.com/pnotes/archives/book-metaprogramming-elixir/)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
