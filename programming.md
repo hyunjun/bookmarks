@@ -851,6 +851,7 @@ Programming
 * [Introducing Domain-Oriented Microservice Architecture | Uber Engineering Blog](https://eng.uber.com/microservice-architecture/)
 * [**API 이코노미를 살펴보다(2) 마이크로서비스 시대 API :: Channy's Blog**](http://channy.creation.net/blog/1382)
 * [API 이코노미를 살펴보다 (3) 국내 API 활용 현황 및 제언 :: Channy's Blog](http://channy.creation.net/blog/1388)
+* [Responsible Microservices](https://www.infoq.com/presentations/microservices-factors/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1155,7 +1156,8 @@ Programming
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
-* Deview
+* Naver
+  * [2020 NAVER TECH CONCERT ONLINE](https://d2.naver.com/news/6137384)
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
   * [2018](https://deview.kr/2018)
     * [DEVIEW 2018 1일차 후기](https://www.popit.kr/deview-2018-1%EC%9D%BC%EC%B0%A8-%ED%9B%84%EA%B8%B0/)
@@ -1939,7 +1941,9 @@ Programming
 * [2020년 8월 1일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-1.html) 웹 크롤러, GCP/오라클 클라우드 평생 무료 VPS 사용, Readme.md, MySQL 8.0, 크롬 개발자도구, CORS, 윈도우 10 스크린샷
 * [2020년 8월 8일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-8.html) 이것 대 저것, random, IPv6, 04 Vue vs React, 기술 문서 작성 5단계, 개발 팀에 물어볼 네 가지 질문, AWS 람다 안정성
 * [2020년 8월 15일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-15.html) 롭 파이크 다섯 가지 프로그래밍 규칙, QR 코드 생성, Cracking Vue.js, vs 연관 그래프, 윈도우 마크다운 에디터, 최고의 자바스크립트 프로젝트, 항공기 소프트웨어 업데이트
-* [(08/22) 기업 내 ‘필수 요구 사항’ 의 허상 - YouTube](https://www.youtube.com/watch?v=zzl68mTlq8s) ts-migrate, URL Checker, 도커 컨테이너 vs 도커 이미지, 도커 이미지 보관 기간 정책 변경
+* [2020년 8월 22일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-22.html) ts-migrate, URL Checker, 도커 컨테이너 vs 도커 이미지, 도커 이미지 보관 기간 정책 변경
+  * [(08/22) 기업 내 ‘필수 요구 사항’ 의 허상 - YouTube](https://www.youtube.com/watch?v=zzl68mTlq8s)
+  * [Nibble Stew: Most "mandatory requirements" in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -2094,6 +2098,7 @@ Programming
   * [따로 놀던 슬랙봇, gRPC 통해 하나 되기](https://engineering.linecorp.com/ko/blog/combining-slackbots-into-one-with-grpc)
   * [Microservices with gRPC](https://medium.com/@goinhacker/microservices-with-grpc-d504133d191d)
   * [Understanding gRPC](https://medium.com/better-programming/understanding-grpc-60737b23e79e)
+  * [A gRPC C++ introduction. gRPC C++ introduction | by Andrew Vetovitz | Medium](https://medium.com/@andrewvetovitz/grpc-c-introduction-45a66ca9461f)
 * [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
   * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
 
@@ -2291,6 +2296,8 @@ Programming
   * [#3](http://www.bsidesoft.com/?p=3526)
 * [**야생의 유니코드**](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
+* [Unicode In Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 
 # Virtual Machine
+* [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
 * [Cliff Click - Bits of advice for VM writers - Curry On](https://www.youtube.com/watch?v=vzzABBxo44g)
