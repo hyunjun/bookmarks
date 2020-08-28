@@ -114,6 +114,10 @@ NoSQL
 
 # [Datomic](http://www.datomic.com/)
 
+# EdgeDB
+* [EdgeDB—The next generation database](https://edgedb.com/)
+* [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+
 # [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 
 # [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
@@ -458,6 +462,7 @@ NoSQL
   * MySQL과 호환성이 뛰어남
   * 소위 HTAP(Hybrid Transactional and Analytical Processing) 데이터베이스로 OLTP와 OLAP성 데이터 처리를 동시에 처리하는 데이터베이스를 표방
   * 복잡한 실시간 OLAP 처리를 하기 위해 TiKV와 함계 Spark 플러그인 인 TiSpark도 출시
+* [Japan's Largest Mobile Payment Company Migrates from Aurora to a Scale-Out Database | PingCAP](https://pingcap.com/case-studies/japan-largest-mobile-payment-company-migrates-from-aurora-to-a-scale-out-database)
 
 # Trafodion Hadoop/HBase에서 Transaction SQL을 구현
 * [The Apache Software Foundation Announces Apache® Trafodion™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces27)
