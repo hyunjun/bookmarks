@@ -177,3 +177,6 @@ Julia
 # MOOC, Lecture
 * [Julia Academy](https://academy.juliabox.com/)
 * [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)
+
+# Tutorial
+* [Julia: A Fresh Approach to Technical Computing - Dr. Viral B. Shah | PyData Jeddah - August 2020 - YouTube](https://www.youtube.com/watch?v=tUWZ6XhC2K4)
