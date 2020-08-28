@@ -738,6 +738,7 @@ AWS
 * [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
 * [람다를 이용해 CF 로그를 ES에 저장하기](https://brunch.co.kr/@alden/63)
 * [The Right Way of Tracing AWS Lambda Functions](https://www.infoq.com/articles/tracing-aws-lambda-functions/)
+* [The Dark Side of AWS Lambda. There is a default feature of AWS… | by Adam Link | Fluidity | Medium](https://medium.com/fluidity/the-dark-side-of-aws-lambda-5c9f620b7dd2)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
