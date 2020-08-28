@@ -188,6 +188,7 @@ Web
 * [LINE MANGA: Page Stack을 이용해서 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-manga-smooth-page-transition-with-page-stack/)
 * [개선된 페이지 스택으로 LINE 증권의 웹 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-2/)
 * [CGI와 웹서버](https://velog.io/@seanlion/cgi)
+* [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기 | 뱅크샐러드](https://blog.banksalad.com/tech/url-status-checker/)
 
 # Apache
 * installation
