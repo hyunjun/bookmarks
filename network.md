@@ -132,6 +132,7 @@ Network
 
   sudo certbot --nginx
   ```
+* [SSL 및 TLS 인증서를 관리하고 추적하는 4가지 모범 사례 - ITWorld Korea](http://www.itworld.co.kr/news/161095)
 
 # Library
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
