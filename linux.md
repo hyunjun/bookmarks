@@ -149,6 +149,7 @@ Linux
 * [No one expect command execution !](http://0x90909090.blogspot.kr/2015/07/no-one-expect-command-execution.html)
 * [Explaining Shell Commands in the Shell](https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html?hn=1)
 * [An Illustrated Guide to Some Useful Command Line Tools](https://www.wezm.net/technical/2019/10/useful-command-line-tools/)
+* [7 Awesome Command-Line Tools. Some familiar tools and some you… | by Eric Chi | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/7-awesome-command-line-tools-36cea5cfc026)
 * [**My Favorite CLI Tools. I spend half of my time in the… | by Sebastian Witowski | The Startup | Jun, 2020 | Medium**](https://medium.com/swlh/my-favorite-cli-tools-c2fa484cee52)
   * fish shell, fzf, fd, ripgrep, htop, glances, virtualenv, virtualfish, pyenv, nodenv, rbenv, pipx, ctop, lazydocker, homebrew, asciinema, colordiff, diff-so-fancy, tree, bat, httpie, tldr, exa, litecli, pgcli, mas, ncdu
   * [Starship: Cross-Shell Prompt](https://starship.rs/)
