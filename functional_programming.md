@@ -369,6 +369,7 @@ Functional Programming
 * [Functional Tree Traversal (In Scala)](https://medium.com/@muse.mekuria_89677/functional-algorithms-in-scala-3fbb32fd96af)
 * [What Functional Programming Is, What it Isn't, and Why it Matters](https://www.inner-product.com/posts/fp-what-and-why/)
 * [Learning Functional Programming with Scala | by Ryan Susana | Medium](https://medium.com/@ryansusana/learning-functional-programming-with-scala-ccc7bf68214f)
+* [More Algebra of Algebraic Data Types](https://about.chatroulette.com/posts/algebraic-data-types-2/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
