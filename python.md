@@ -3452,6 +3452,7 @@ Python
 * [Slicing and Indexing with Pandas - Towards Data Science](https://towardsdatascience.com/slicing-and-indexing-with-pandas-2bff05ec361e)
 * [Pandas versus SQL Comparison : JOIN | Data Yoshi | Blog and Jobs in Data Science, Machine Learning, AI and more](https://www.datayoshi.com/blog/article/pandas-versus-sql-comparison---join)
 * [Database처럼 DataFrame Join/Merge 하기 : pd.merge()](https://rfriend.tistory.com/258)
+* [How to write ETL operations in Python | by Hassan Syyid | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-write-etl-operations-in-python-baffbceeadf4)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
