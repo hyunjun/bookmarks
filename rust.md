@@ -122,6 +122,7 @@
 * [Graph & Tree Traversals in Rust - The Data Dump - Medium](https://medium.com/the-data-dump/graph-tree-traversals-in-rust-3c9c93a0feba)
 * [3K, 60fps, 130ms: achieving it with Rust | tonari blog](https://blog.tonari.no/why-we-love-rust)
 * [Examining ARM vs X86 Memory Models with Rust - Nick Wilcox’s Coding Blog](https://www.nickwilcox.com/blog/arm_vs_x86_memory_model/)
+* [Memory Management & Rust. I have always been fascinated by the… | by Rabin Gaire | Medium](https://medium.com/@rabin_gaire/memory-management-rust-cf65c8465570)
 * [Rust and RSA. Many of our software vulnerabilities… | by Prof Bill Buchanan OBE | Coinmonks | Medium](https://medium.com/coinmonks/rust-and-rsa-2bf6d63c84b8)
 * [deno 첫 외주 후기](https://kdy1.github.io/post/works/freelance/deno/first-freelance-work/)
 * [deno 2차 외주 후기](https://kdy1.github.io/post/works/freelance/deno/second-work/)
