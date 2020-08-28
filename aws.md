@@ -402,6 +402,7 @@ AWS
 * [Our AWS bill is ~ 2% of revenue. Here's how we did it | Blog](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
 * [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
 * [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
+* [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -590,6 +591,7 @@ AWS
 * [Amazon Linux 2를 실행하는 Amazon EC2 인스턴스에 그래픽 사용자 인터페이스(GUI) 설치](https://aws.amazon.com/ko/premiumsupport/knowledge-center/ec2-linux-2-install-gui/)
 * [EC2 키 분실 후 대응 방법](https://jhrogue.blogspot.com/2020/07/5-ec2.html)
 * [AWS EC2의 Timezone KST로 변경하기 (Amazon Linux 1)](https://jojoldu.tistory.com/513)
+* [AWS EC2 인스턴스에 부하 생성하는 간단한 방법: 네이버블로그](http://blog.naver.com/sehyunfa/222055079238)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
@@ -735,6 +737,7 @@ AWS
 * [Swift implementation of AWS Lambda Runtime](https://github.com/swift-server/swift-aws-lambda-runtime/)
 * [What a typical 100% Serverless Architecture looks like in AWS!](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
 * [람다를 이용해 CF 로그를 ES에 저장하기](https://brunch.co.kr/@alden/63)
+* [The Right Way of Tracing AWS Lambda Functions](https://www.infoq.com/articles/tracing-aws-lambda-functions/)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
