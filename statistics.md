@@ -162,6 +162,7 @@ Statistics
 * [지나치게 자세한 수리통계(원)](http://blog.naver.com/kwonpub/221079139699)
 * [Frequency diagrams: A first look at Bayes](https://arbital.com/p/bayes_frequency_diagram/?l=55z&pathId=22608)
 * [통계에 사용되는 기초 공식들](http://blog.naver.com/kjhnav/221097570909)
+* [시리즈 | 기초 확률론 - 수학하는 수달의 벨로그](https://velog.io/@otter275/series/%EA%B8%B0%EC%B4%88-%ED%99%95%EB%A5%A0%EB%A1%A0)
 * [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 * [확률변수 함수의 분포를 알아보자 - Delta method에 대하여 (1)](http://issactoast.com/133)
 * [확률변수와 패러미터 ( feat. 베르누이) #10통계 - YouTube](https://www.youtube.com/watch?v=FmIc5LZ7BII)
