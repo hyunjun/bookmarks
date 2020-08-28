@@ -284,7 +284,7 @@ Linux
     dat2=$(date -d "$dat -1 days" +'%Y%m%d')
     ```
   * `date +%s` [How can I generate Unix timestamps?](https://stackoverflow.com/questions/1204669/how-can-i-generate-unix-timestamps)
-* df
+* `df`
   * [df 명령어](https://johngrib.github.io/wiki/df/)
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
@@ -292,16 +292,16 @@ Linux
 * `diff`
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
 * `dirname` get directory name from path
-* dmesg
+* `dmesg`
   * `dmesg -T` [practice - dmesg 시간 출력](https://gist.github.com/hyunjun/f2f337f82af1598fdb9a531f1d9b59b6#file-dmesg_t-sh)
   * [7 ‘dmesg’ Commands for Troubleshooting and Collecting Information of Linux Systems](https://www.tecmint.com/dmesg-commands/)
 * [dnf - dnf is a package manager based on yum and libsolv](https://github.com/rpm-software-management/dnf)
-* du
+* `du`
   * [du 명령어](https://johngrib.github.io/wiki/du/) `du -hs <directory>` `du -ckx | sort -n -r | head` 가장 용량이 큰 디렉토리 찾기
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
   * [How to find the largest directories or largest files?](https://superuser.com/questions/276487/how-to-find-the-largest-directories-or-largest-files)
   * [컴퓨터 vs 책: 5분 따라하기 리눅스에서 용량을 가장 많이 차지하는 파일/디렉토리 찾기](https://jhrogue.blogspot.com/2020/06/5.html)
-* echo
+* `echo`
   * `echo -e "..."` ['echo' without newline in a shell script](http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script)
 * `find`
   * `find [directory] -iname "[file name or pattern]" -exec ls -alt {} \;`
@@ -323,23 +323,23 @@ Linux
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
   * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
-* gzip
+* `gzip`
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
   * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
-* nohup
+* `nohup`
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
   * [리눅스 nohup 명령어 : 터미널과 연결이 끊어져도 계속 돈다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-nohup-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%84%B8%EC%85%98%EA%B3%BC-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%81%8A%EC%96%B4%EC%A0%B8%EB%8F%84-%EA%B3%84%EC%86%8D-%EB%8F%88%EB%8B%A4)
-* history
+* `history`
   * `history -c` `history -d <line number>` [리눅스 history 지우기](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_history_%EC%A7%80%EC%9A%B0%EA%B8%B0)
   * [How To : 리눅스에서 명령 사용 요약하기 - ITWorld Korea](http://www.itworld.co.kr/news/158396) HISTSIZE, HISTIGNORE
-* iconv
+* `iconv`
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
   * `iconv -f UTF-16LE -t UTF-8 <infile> > <outfile>` infile 형식이 `Little-endian UTF-16 Unicode text, with CRLF, CR line terminators`라 utf8로 바꾸는 경우
 * `ip` replacement of ifconfig
   * [There's real reasons for Linux to replace ifconfig, netstat, et al](https://utcc.utoronto.ca/~cks/space/blog/linux/ReplacingNetstatNotBad)
-* join
+* `join`
   * [15 Linux Split and Join Command Examples to Manage Large Files](http://www.thegeekstuff.com/2012/10/15-linux-split-and-join-command-examples-to-manage-large-files/)
-* kill
+* `kill`
   * [Best way to kill all child processes](http://stackoverflow.com/questions/392022/best-way-to-kill-all-child-processes)
   * [Killing a process and all of its descendants](http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html)
 * `less`
@@ -354,7 +354,7 @@ Linux
 * `mv`
   * [Unix filesystems: How mv can be dangerous](http://jstimpfle.de/fun/mv.html)
   * [Rename files in linux / bash using mv command without typing the full name two times](https://gist.github.com/premek/6e70446cfc913d3c929d7cdbfe896fef)
-* nc
+* `nc`
 
   ```
   SERVER$ nc -l [port number] > [file name]
@@ -371,9 +371,9 @@ Linux
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
-* nslookup
+* `nslookup`
   * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
-* ntp
+* `ntp`
   * [practice - ntpd, ntpdate, ntpq](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-ntp-md)
   * [RHEL, CentOS에서 ntp 서버 설정하기(사설망 내부 서버들의 시간 동기화)](http://hook.tistory.com/entry/RHEL-CentOS%EC%97%90%EC%84%9C-ntp-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%EC%82%AC%EC%84%A4%EB%A7%9D-%EB%82%B4%EB%B6%80-%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94)
   * [Building a more accurate time service at Facebook scale](https://engineering.fb.com/production-engineering/ntp-service/) chrony
@@ -393,9 +393,9 @@ Linux
   * [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/) pipe 동작 내부 설명
   * [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
   * [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
-* ps
+* `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
-* rdate [리눅스(Linux) 계열 운영체제에서 시간 동기화하기](https://jhrun.tistory.com/158)
+* `rdate` [리눅스(Linux) 계열 운영체제에서 시간 동기화하기](https://jhrun.tistory.com/158)
 * `read`
   * [How to read from file or stdin in bash?](http://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash)
 * redirection [You are here: Home / Guides / Explained: Input, Output and Error Redirection in Linux Explained: Input, Output and Error Redirection in Linux](https://linuxhandbook.com/redirection-linux)
@@ -438,11 +438,11 @@ Linux
   * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
   * [shell script 작성시 sed 치환패턴 문자열 escapse](https://bloodguy.tistory.com/entry/Linux-shell-script-%EC%9E%91%EC%84%B1%EC%8B%9C-sed-%EC%B9%98%ED%99%98%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-escapse)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
-* [seq](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
+* [`seq`](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
   * [리눅스 seq 명령어 사용법](https://www.snoopybox.co.kr/1680)
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
-* shuf
+* `shuf`
   * [How To Shuffle and Sample on the Command-Line](http://blog.jpalardy.com/posts/how-to-shuffle-and-sample-on-the-command-line/)
 * `sort`
   * `sort -u -t[delimiter] -k[column num],[column num] [file name]` [remove lines based on duplicates within one column](http://unix.stackexchange.com/questions/171091/remove-lines-based-on-duplicates-within-one-column-without-sort)
@@ -528,15 +528,17 @@ Linux
     * [How can I replace a newline (\n) using sed?](http://stackoverflow.com/questions/1251999/how-can-i-replace-a-newline-n-using-sed)
     * [How to add a carriage return before every newline?](http://unix.stackexchange.com/questions/153091/how-to-add-a-carriage-return-before-every-newline)
     * [sed replace newline (or 5 ways to remove line breaks with sed, python, tr, perl, xargs) 1](http://slash4.net/blog/python/sed-replace-newline-or-python-awk-tr-perl-xargs.html)
-* trace
+* `trace`
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
-* uname
+* `truncate`
+  * [지정된 크기의 더미 파일 만들기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/soojung/dev/2020/08/23/864.html)
+* `uname`
   * [cpu 타입 확인하기](http://knight76.tistory.com/entry/cpu-%ED%83%80%EC%9E%85-%ED%99%95%EC%9D%B8%ED%95%98%EA%B8%B0)
-* [upstart](http://upstart.ubuntu.com/)
+* [`upstart`](http://upstart.ubuntu.com/)
   * [The Upstart Event System: What It Is And How To Use It](https://www.digitalocean.com/community/tutorials/the-upstart-event-system-what-it-is-and-how-to-use-it)
   * [RHEL6 SELinux Upstart - How to reload configuration /etc/init/<conf> without a restart?](https://access.redhat.com/discussions/671253)
   * [practice - upstart](https://gist.github.com/hyunjun/ad60cf79c390b3fe0523)
-* uptime
+* `uptime`
   * [uptime 명령어](https://johngrib.github.io/wiki/uptime/)
   * [Linux | Uptime command with examples](https://www.geeksforgeeks.org/linux-uptime-command-with-examples/)
 * `watch`
