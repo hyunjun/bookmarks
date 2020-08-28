@@ -1111,6 +1111,7 @@ Javascript
 * [Top 5 In-Demand JavaScript Frameworks for Front-End Development in 2020](https://medium.com/javascript-in-plain-english/top-5-in-demand-javascript-frameworks-for-front-end-development-in-2020-a59c4340d082)
 * [Top 10 JavaScript Frameworks for Server Side Development in 2020](https://medium.com/javascript-in-plain-english/top-10-javascript-frameworks-for-server-side-development-in-2020-6d265016c02)
 * [9 open source JavaScript frameworks for front-end web development](https://opensource.com/article/20/5/open-source-javascript-frameworks)
+* [Best of JavaScript](https://bestofjs.org/timeline) Timeline: 2006-2020 in 20 projects
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * aeiou
@@ -1921,6 +1922,7 @@ Javascript
 * [Opbeat makes monitoring and debugging your Node.js production apps much faster, and your code better](https://opbeat.com/nodejs/)
 * [pg-live-select](https://github.com/numtel/pg-live-select)
 * [Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API](https://playwright.dev/)
+  * [playwright: Node.js library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
   * [Playwright 1.0 Release Automates Chromium, Firefox, and WebKit-Based Browsers](https://www.infoq.com/news/2020/05/playwright-10-browser-automation/)
 * pm2
   * [PM2 를 이용하여 NodeJS 프로세스 관리하기](http://www.tutorialbook.co.kr/entry/PM2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
@@ -1946,6 +1948,7 @@ Javascript
   * [Getting to Know Puppeteer Using Practical Examples](https://nitayneeman.com/posts/getting-to-know-puppeteer-using-practical-examples/)
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
   * [퍼펫티어(Puppeteer)로 회사 경매에서 득템하기](https://medium.com/jung-han/%ED%8D%BC%ED%8E%AB%ED%8B%B0%EC%96%B4-puppeteer-%EB%A1%9C-%ED%9A%8C%EC%82%AC-%EA%B2%BD%EB%A7%A4%EC%97%90%EC%84%9C-%EB%93%9D%ED%85%9C%ED%95%98%EA%B8%B0-47e4713b976f)
+  * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
@@ -2889,6 +2892,7 @@ Javascript
   * [Jest 탈출기 - 타입스크립트 + Mocha](https://libsora.so/posts/escape-from-jest-mocha-with-typescript/)
   * [JSConf Korea에서 발표한 "Lessons from maintaining Mocha, an open source project" 발표자료](https://blog.outsider.ne.kr/1459)
   * [Mocha v8.0.0의 병렬 테스트 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1489)
+* [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
@@ -3008,6 +3012,7 @@ Javascript
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
+* [ts-migrate: A tool to help migrate JavaScript code quickly and conveniently to TypeScript](https://github.com/airbnb/ts-migrate)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
@@ -3118,6 +3123,7 @@ Javascript
   * [5. Vuex](https://jaeyeophan.github.io/2018/11/07/Vuetorials-5-Vuex/)
   * [6. Vuex Module pattern](https://jaeyeophan.github.io/2018/11/16/Vuetorials-6-Vuex-Module-pattern/)
   * [7. Vuex Best Practice로 가는 여정](https://jaeyeophan.github.io/2018/11/17/Vuetorials-7-Vuex-Best-Practice/)
+* [Cracking Vue.js](https://joshua1988.github.io/vue-camp/)
 * [Nuxt, Vue, Express로 프론트엔드와 백엔드를 하나의 서버 앱에서 사용하기](https://rhostem.github.io/posts/2018-10-28-nuxtjs-universal/)
 * [How to create a blazing fast modern blog with Nuxt and Prismic](https://medium.freecodecamp.org/create-a-blazing-fast-modern-blog-with-nuxt-and-prismic-7d19935d849c)
 * [GUI로 Vue 프로젝트 쉽게 만들기](https://wormwlrm.github.io/2018/11/17/How-to-create-Vue-project-using-CLI-3.html)
@@ -3148,7 +3154,6 @@ Javascript
 * [Vue Material Design 컴포넌트 프레임워크 — Vuetify.js](https://vuetifyjs.com/ko/)
 * [LINE Search UI 개선기](https://engineering.linecorp.com/ko/blog/improve-line-search-ui/)
 * [주니어 개발자가 반응형 레이아웃 리팩토링한 썰.txt](https://wormwlrm.github.io/2019/06/06/Refactoring-360-panorama-viewer.html)
-* [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
 * [Vue 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RsdnPeU0ogHFMoggSQ_d7ao)
 * [Promise.all에는 인자 개수 제한이 없다](https://blog.seulgi.kim/2019/07/promise-all-tuple.html)
 * [Vue.js로 크롬 확장 프로그램을 만들어보자!](https://wormwlrm.github.io/2019/07/21/Military-Service-Calculator-Development-Story.html)
@@ -3157,8 +3162,6 @@ Javascript
 * [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/)
 * [React의 고차 컴포넌트(HOC) 패턴, 이제는 Vue에도 적용해보자](https://wormwlrm.github.io/2019/09/08/Higher-Order-Component-pattern-in-Vue.html)
 * [『곽철용 짤 생성기』, 이렇게 만들어졌습니다](https://wormwlrm.github.io/2019/10/13/Kwakcheolyong-Image-Creator-Development-Story.html)
-* [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
-  * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
 * [Filtering Data The Vue Way](https://devgrill.com/filtering-data-the-vue-way/)
 * [Let's Learn VueJS #1 - Intro](https://www.youtube.com/watch?v=Jrtkj6lTsYw)
 * [Vue Developer Roadmap](https://github.com/flaviocopes/vue-developer-roadmap)
@@ -3177,4 +3180,8 @@ Javascript
 * [뷰/익스프레스/몽고db - task manager 만들기 01 프로젝트 세팅](https://www.youtube.com/watch?v=4J4-ufnqBdU)
 * [Useful Vue Directives — Tooltips and Scroll Lock](https://medium.com/swlh/useful-vue-directives-tooltips-and-scroll-lock-1621daeab625)
 * [발표, Vue SSR vs Prerender - 완두블로그](https://wani.kr/posts/2017/10/23/vue-ssr-vs-prerender/)
+* [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
+  * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
+* [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
+* [vue-state-store: 📦 Vue State Management (with Publish & Subscribe pattern)](https://github.com/ahaofficial/vue-state-store)
