@@ -596,6 +596,8 @@
 * [couchbase-spark-connector - The Official Couchbase Spark Connector](https://github.com/couchbase/couchbase-spark-connector)
 * [CueSheet - a framework for writing Apache Spark 2.x applications more conveniently](https://github.com/kakao/cuesheet)
   * [No More "sbt assembly": Rethinking Spark-Submit using CueSheet](http://www.slideshare.net/jongwookkim/rethinking-sparksubmit-using-cuesheet)
+* [Delta Lake on Databricks - Databricks](https://databricks.com/product/delta-lake-on-databricks)
+  * [Tutorial: How Delta Lake Supercharges Data Lakes - YouTube](https://www.youtube.com/watch?v=u1VfOiHVeMI)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
