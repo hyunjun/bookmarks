@@ -477,6 +477,7 @@ Business
 * [책을 읽고 - 구글이 목표를 달성하는 방식 OKR](https://jusths.tistory.com/147)
 * [OKR 도입이 실패하는 이유](https://ppss.kr/archives/212902)
 * [스포카가 OKR로 목표를 달성하기까지](https://spoqa.github.io/2020/05/08/okr-to-goal.html)
+* [OKR 실전 적용 경험담 | Popit](https://www.popit.kr/okr-%EC%8B%A4%EC%A0%84-%EC%A0%81%EC%9A%A9-%EA%B2%BD%ED%97%98%EB%8B%B4/)
 
 # Patent
 * 세기의 특허전쟁
