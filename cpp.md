@@ -127,6 +127,7 @@ C++
 * [NDC 2017 하재승 NEXON ZERO (넥슨 제로) 점검없이 실시간으로 코드 수정 및 게임 정보 수집하기](https://www.slideshare.net/JaeseungHa/ndc-2017-nexon-zero-75496318)
 * [www.modernescpp.com](http://www.modernescpp.com/)
 * [lvalue와 rvalue](http://blog.seulgi.kim/2017/06/modern-cpp-lvalue-rvalue.html)
+* [C++ moves for people who don’t know or care what rvalues are 🏘️ | by Topher Winward | Medium](https://medium.com/@winwardo/c-moves-for-people-who-dont-know-or-care-what-rvalues-are-%EF%B8%8F-56ee122dda7)
 * [glvalue와 prvalue](http://blog.seulgi.kim/2017/07/modern-cpp-glvalue-prvalue.html)
 * [왜 c++은 복잡한 value category를 가지게 됐는가](http://blog.seulgi.kim/2017/06/cpp11-value-category.html) xvalue, glvalue, prvalue
 * [object는 언제 생성돼서 언제 소멸되는가 - storage](http://blog.seulgi.kim/2017/07/cpp-object-storage.html)
@@ -164,6 +165,8 @@ C++
 * [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
 * [How to write Clean, Beautiful and Effective C++ Code](https://medium.com/@MKahsari/how-to-write-clean-beautiful-and-effective-c-code-d4699f5e3864)
 * [Windows Trampoline – Kudryavka Noumi](https://www.kudryavka.me/?p=959)
+* [Fast Virtual Functions: Hacking the VTable for Fun and Profit | by Caleb Leak | Medium](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
+* [Some awesome modern C++ features that every developer should know | by Mottakin Chowdhury | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
@@ -333,7 +336,6 @@ C++
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [TinyXML2 - a simple, small, efficient, C++ XML parser that can be easily integrated into other programs](https://github.com/leethomason/tinyxml2)
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
-* [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)
 * [zertcore5 - C++11 Server framework provides many exciting features!](https://github.com/warriorguo/zertcore5)
 
@@ -342,6 +344,10 @@ C++
 * gperftools
 * jemalloc
 * [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
+
+# Thread
+* [Learn C++ Multi-Threading in 5 Minutes | by Ari Saif | HackerNoon.com | Medium](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f)
+* [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 
 # Tutorial
 * [씹어먹는 C++ 강좌 - PDF 파일](https://modoocode.com/312)
