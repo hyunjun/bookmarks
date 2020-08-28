@@ -1277,6 +1277,7 @@ Scala
   * [Scala Play Framework 2.6 Quick Start - YouTube](https://www.youtube.com/watch?v=hjBUcx7qRIk)
   * [Restful Services with the Play Framework, MySQL, and a Security Level with JWT by Mercedes Wyss - YouTube](https://www.youtube.com/watch?v=N59_Ta88kW0)
   * [Play Framework Tutorials - YouTube](https://www.youtube.com/playlist?list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED)
+  * [Reactive Architecture with Play, Akka, and Scala - Henrik Engstrom (Typesafe) - YouTube](https://www.youtube.com/watch?v=ksSgjQ_Ye9c)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
@@ -1616,6 +1617,7 @@ Scala
 * ["First Class" Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/first-class-types)
 * [SF Scala: Reimagining Functional Type Classes - YouTube](https://www.youtube.com/watch?v=OwmHgL9F_9Q)
 * [Thinking With Types | alvinalexander.com](https://alvinalexander.com/scala/thinking-with-types/introduction/)
+* [Emily Pillmore: Type Arithmetic and the Yoneda Lemma - YouTube](https://www.youtube.com/watch?v=aXS5HZ_1fNQ)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
