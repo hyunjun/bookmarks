@@ -790,6 +790,7 @@ AWS
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
 * utern [AWS 클라우드와치 로그 쉽게보는 방법 - utern](https://www.youtube.com/watch?v=HOXyjnHwwIA)
+* [voightkampff — Beating Google ReCaptcha and the funCaptcha using AWS Rekognition](https://bitbucket.org/Pirates-of-Silicon-Hills/voightkampff/)
 * zappa
   * [Benny Bauer Python in The Serverless Era PyCon 2017](https://www.youtube.com/watch?v=G17E4Muylis) AWS, zappa
   * [Serverless API with Zappa 여기 에 있는 강좌를 기반으로 Zappa 개발환경을 구성합니다](https://github.com/skyer9/ServerlessApiWithZappa)
