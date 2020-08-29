@@ -83,6 +83,7 @@ Business
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [협업의 미신 5가지](http://agile.egloos.com/5904102)
+  * [OKKYCON: 2017 김창준 - 협업의 미신 5가지 - YouTube](https://www.youtube.com/watch?v=I4xkw_0XqAs)
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
