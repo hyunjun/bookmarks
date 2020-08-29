@@ -108,6 +108,7 @@ Google Cloud Platform GCP
 * [Google Cloud Platform을 활용하여 평생 '무료' PC 만들기](https://kibua20.tistory.com/94)
 * [**GCP - cloud build 이용하여 ci/cd 구축하기**](https://dailyheumsi.tistory.com/234)
 * [시리얼 포트를 통해 SSH 없이 인스턴스에서 작업하기](https://jybaek.tistory.com/877)
+* [Github Actions를 사용해서 CICD 구축해보기 실습 with GCP - 실행편 · 도전하는 개발자](https://minkukjo.github.io/cs/2020/08/29/Infra-23/)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
