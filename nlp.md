@@ -415,6 +415,7 @@ NLP
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
 * [publicservant_AI](https://github.com/kimwoonggon/publicservant_AI)
 * [Movie Reviews with bert-for-tf2 on TPU.ipynb - Colaboratory](https://colab.research.google.com/github/kpe/bert-for-tf2/blob/master/examples/tpu_movie_reviews.ipynb)
+* [BERT for Sentiment Analysis on Sustainability Reporting](https://www.infoq.com/presentations/bert-sentiment-analysis/)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
