@@ -190,6 +190,7 @@ PyTorch
 
 # Book
 * [Deep Learning with PyTorch | PyTorch](https://pytorch.org/deep-learning-with-pytorch)
+  * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 
 # Classification
 * [ENCRYPTED DEEP LEARNING CLASSIFICATION WITH PYTORCH & PYSYFT](https://blog.openmined.org/encrypted-deep-learning-classification-with-pysyft/)
@@ -404,3 +405,4 @@ PyTorch
 * [Deep Learning (with PyTorch) - YouTube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
   * [pytorch-Deep-Learning/slides at master · Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning/tree/master/slides)
 * [파이토치, 어떻게 시작할까?··· 알짜배기 학습 정보 5가지  - CIO Korea](http://www.ciokorea.com/news/157473)
+* [how-to-read-pytorch: Quick, visual, principled introduction to pytorch code through five colab notebooks](https://github.com/davidbau/how-to-read-pytorch)
