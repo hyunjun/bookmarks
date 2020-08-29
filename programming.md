@@ -647,6 +647,7 @@ Programming
 * [IT 에서 Persistent 데이터에 대한 이해 - Bryant Jimin Son - Medium](https://medium.com/@bryantjiminson/it-%EC%97%90%EC%84%9C-persistent-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-bab1e7f8bbe)
 * [Testing Software Architecture](https://www.infoq.com/presentations/automation-testing-architecture/)
 * [SF Scala: Exabytes Delivered Each Day -- Some Lessons Building Cloud Software at Databricks - YouTube](https://www.youtube.com/watch?v=yr7gfbvQERo)
+* [마틴 파울러 소프트웨어 아키텍쳐의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=4E1BHTvhB7Y)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
