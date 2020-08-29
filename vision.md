@@ -624,6 +624,7 @@ Vision
 * [PySceneDetect - a command-line application and a Python library for detecting scene changes in videos, and automatically splitting the video into separate clips](https://pyscenedetect.readthedocs.io/)
 * [PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models](https://github.com/facebookresearch/SlowFast)
 * [repnet-cli: RepNet command line interface (https://sites.google.com/view/repnet)](https://github.com/JeiKeiLim/repnet-cli)
+* [RetinaFace-tf2: RetinaFace (RetinaFace: Single-stage Dense Face Localisation in the Wild, published in 2019) reimplemented in Tensorflow 2.0, with pretrained weights available !](https://github.com/StanislasBertrand/RetinaFace-tf2)
 * sklearn [An Offbeat Approach to Brain Tumor Classification using Computer Vision](https://medium.com/towards-artificial-intelligence/an-offbeat-approach-to-brain-tumor-classification-using-computer-vision-19c9e7b84664)
 * [Speech2Face: Implementation of the CVPR 2019 Paper - Speech2Face: Learning the Face Behind a Voice by MIT CSAIL](https://github.com/saiteja-talluri/Speech2Face)
 * [YouEye - kiosk machine helper solution for blinded people](https://github.com/code-yeongyu/YouEye)
