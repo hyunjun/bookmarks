@@ -97,6 +97,7 @@ Math
 * [중학 수학 코딩의 정석](https://wikidocs.net/book/2195)
 * [A Beginner Mathematics Book For Machine Learning](https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/)
 * [Geogebra를 활용한 수학수업 및 수업자료제작](https://wikidocs.net/book/188)
+* [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
