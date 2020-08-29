@@ -65,3 +65,4 @@ English
   * 3. Would prefer
   * 4. Take a step back
   * 5. Miss out on
+* [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
