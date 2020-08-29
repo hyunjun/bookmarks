@@ -225,6 +225,8 @@ Business
 * [전략 기획자의 책 4](https://brunch.co.kr/@lunarshore/295)
 * [당신은 대체 불가능한 기획자인가요?](https://yslab.kr/135)
 * [기획자는 필요없다](https://minieetea.com/2020/05/archives/5993)
+* [MSA구조에서의 기획자의 역할](https://brunch.co.kr/@windydog/347)
+* [서비스 기획자를 위한 가이드](https://germweapon.tistory.com/notice/302)
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [CPO, Product Team이 뭐죠?](https://arload.wordpress.com/2018/09/09/cpo_productteam/)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
@@ -242,7 +244,6 @@ Business
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
 * [경쟁력 있는 기업 만들기](https://brunch.co.kr/@lunarshore/377)
 * [IT 개발자와 일할 때 필요한 모든 개발지식 A to Z 자료 모음집 By 그랩](https://www.grabbing.me/IT-A-to-Z-By-1e1fbc981b7c4c03ac44943085ac8304)
-* [MSA구조에서의 기획자의 역할](https://brunch.co.kr/@windydog/347)
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 
@@ -561,6 +562,7 @@ Business
 * [Unit Economics — 성장을 드라이브하는 기준 — How I invest (3) - 허진호 (Jin Ho Hur) - Medium](https://medium.com/@hur/unit-economics-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80-how-i-invest-3-2fff1dad51c6)
 * [수평적 vs. 수직적 마켓플레이스](https://www.thestartupbible.com/2020/07/horizontal-marketplaces-vs-vertical-marketplaces.html)
 * [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45)
+* [1,000억 원짜리 사업을 만드는 길 (The Road to $100M)](https://acquiredentrepreneur.tistory.com/27)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
