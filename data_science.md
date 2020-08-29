@@ -306,6 +306,7 @@ Data Science
 * [3 Design Principles for Engineering Data](https://medium.com/@WomenWhoCode/3-design-principles-for-engineering-data-9d03dcb1711f)
 * [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
 * [IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce)
+* [Data Science Life Cycle 101 for Dummies like Me | by Sangeet Moy Das | Towards Data Science](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
