@@ -62,6 +62,7 @@ Data Science
   * Loco 라는 회사에서 일 약 15TB 데이터를 분석 및 BI 플랫폼에 활용하는 데이터 인프라 설명
   * Kafka, Presto, Airflow, Spark 사용
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
+* [실무 AI 프로젝트 - 분석보다 엔지니어링이 중요한 이유](https://data-engineer-song.tistory.com/1)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
 * [새로운 데이터 분석가와의 랑데부를 위하여(2)](https://cojette.github.io/rendezvous2/) SQL 중요성 강조
 * [따라 하는 데이터 과학 – 강의 PPT](https://dataninja.me/ipds-kr-slides-ppt/)
