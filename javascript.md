@@ -1114,6 +1114,7 @@ Javascript
 * [Best of JavaScript](https://bestofjs.org/timeline) Timeline: 2006-2020 in 20 projects
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
+* [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
   * [아에이오우 튜토리얼](https://spoqa.github.io/2017/09/26/aeiou-tutorial.html)
 * [algebra.js - Build, display, and solve algebraic equations in JavaScript](http://algebra.js.org/)
