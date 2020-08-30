@@ -182,6 +182,7 @@ Vim
 * [레거시 코드를 파괴하는 Vim 벽돌 깨기](http://woowabros.github.io/tools/2017/07/06/vim-game-code-break.html)
 * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
 * [Vi를 좋아하시는 분들을 위하여](http://greatkim91.tistory.com/m/196)
+* [How to Configure Vim like VSCode - YouTube](https://www.youtube.com/watch?v=gnupOrSEikQ)
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)
 * autosave
   * [Vim에서 저장하는 방법 - 자동 저장](https://nolboo.kim/blog/2017/09/14/vim-write-autosave/)
