@@ -704,6 +704,7 @@ Deep Learning
 * [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
 * [191027 딥러닝 전이학습 발표자료](https://drive.google.com/drive/folders/1JPPMFYlGMl1BbjjMnG2WqakWwBkiHgzP)
 * [Transfer Learning in SUALAB: 데이터셋 제작부터 Adaptive Transfer Learning까지](http://research.sualab.com/introduction/review/2019/12/19/transfer-learning-in-sualab.html)
+* [AI는 광수와 광수 닮은 연습생을 구분할 수 있을까?](https://brunch.co.kr/@businessinsight/64)
 * [Deep Learning 위해서는 어떤 GPU를 사야 할까요?](http://tmmse.xyz/2016/05/02/gpureccom/)
 * [알기 쉬운 GPU 그리고 머신러닝](https://steemit.com/gpu/@sigmoid/gpu)
 * [Learning Acrobatics by Watching YouTube](https://bair.berkeley.edu/blog/2018/10/09/sfv/)
