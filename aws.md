@@ -85,6 +85,7 @@ AWS
 * [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
 * [ELB(Elastic Load Balancer) 생성해서 부하분산 적용하기](https://developer88.tistory.com/304)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
+* [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
 * [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
 * AWS Beanstalk을 이용한 성능 튜닝 시리즈
   * [1. DB Connection Pool](http://jojoldu.tistory.com/318)
@@ -808,6 +809,7 @@ AWS
   * 이러한 접근 방식은 REST 인터페이스와 API Gateway endpoint를 통해 실행하는 것과 같은 몇 가지 주의 사항이 존재
   * 더 큰 Lambda와 Step Function 프로덕션 배치에서는 REST 및 API Gateway 우회 경로없이 순수한 Lambda 이벤트로 트리거된 플로우를 호출 가능
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
+* [Amazon making online machine learning courses available for free](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
