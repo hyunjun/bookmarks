@@ -298,6 +298,7 @@ Javascript
   * [10.OpenAPI & RSS](http://www.slideshare.net/circulus_official/startup-javascript-10-openapi-rss)
 * [자바스크립트 데이터 타입과 연산자](http://blog.naver.com/edy5016/221153787303)
 * [자바스크립트 참조 타입](https://blog.naver.com/edy5016/221183621846)
+* [코드잇 자바스크립트 형 변환 쉽게 이해하기 : 네이버 블로그](https://blog.naver.com/codeitofficial/222076214988)
 * [JavaScript 콜백 함수의 활용](http://inspiredjw.com/entry/JavaScript-%EC%BD%9C%EB%B0%B1-%ED%95%A8%EC%88%98%EC%9D%98-%ED%99%9C%EC%9A%A9)
 * [github.com/Mybridge/learn-javascript](https://github.com/Mybridge/learn-javascript)
   * [JavaScript Open Source of the Month (v.Aug 2019)](https://medium.mybridge.co/javascript-open-source-of-the-month-v-aug-2019-6f5cad65dd30)
