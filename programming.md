@@ -1947,6 +1947,7 @@ Programming
 * [2020년 8월 22일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-22.html) ts-migrate, URL Checker, 도커 컨테이너 vs 도커 이미지, 도커 이미지 보관 기간 정책 변경
   * [(08/22) 기업 내 ‘필수 요구 사항’ 의 허상 - YouTube](https://www.youtube.com/watch?v=zzl68mTlq8s)
   * [Nibble Stew: Most "mandatory requirements" in corporations are imaginary](https://nibblestew.blogspot.com/2020/08/most-mandatory-requirements-in.html)
+* [2020년 8월 30일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-30.html) C# 자바 속도 비교, AWS 과금 폭탄, 브라우저에 URL 입력할 때, 웹브라우저 고성능 AVIF 이미지 사용, 우버 PostgreSQL > MySQL, HTTP/2 업로드 속도가 HTTP/1.1보다 느리다면?, 그림판 코딩, 파워포인트 단축키
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
