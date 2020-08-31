@@ -373,6 +373,7 @@ SQL
 * [MySQL Query 추적하기](http://blog.plura.io/?p=4493)
 * [beaker_session MySQL server has gone away](https://ash84.net/2017/11/10/beaker_session-mysql-server-has-gone-away/)
 * [MariaDB Binlog을 이용한 변경사항 추적](https://www.ridicorp.com/blog/2017/10/30/binlog-collector)
+* [MySQL binlog파서와 memcached plugin의 콜라보레이션! | gywndi's database](https://gywn.net/2020/08/mysql-binlog-memcached-plugin-collaboration/)
 * [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
 * [Optimizing slow web pages with mk-query-digest](https://www.percona.com/blog/2011/04/07/optimizing-slow-web-pages-with-mk-query-digest/)
 * [Poor man’s query logging](https://www.percona.com/blog/2008/11/07/poor-mans-query-logging/)
