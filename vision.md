@@ -213,6 +213,7 @@ Vision
   * [YOLOv4 Object Detection with TensorFlow, TensorFlow Lite and TensorRT Models](https://morioh.com/p/b80d2e63949e?f=5c21fb01c16e2556b555ab32)
   * [Counting Objects Using YOLOv4 Object Detection | Custom YOLOv4 Functions with TensorFlow](https://morioh.com/p/aed42c64432a)
   * [Object Tracking Using YOLOv4, Deep SORT, and TensorFlow](https://morioh.com/p/48ed9778fcea)
+  * [YOLOv4 Object Detection Crash Course | YOLO v4 how it works and how to build it](https://morioh.com/p/561378ecb692)
   * [YOLO V4 vs V5 - YouTube](https://www.youtube.com/watch?v=H4Wa6QY28e8)
   * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
   * [YOLOv5 compared to Faster RCNN. Who wins? | by Priya Dwivedi | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/yolov5-compared-to-faster-rcnn-who-wins-a771cd6c9fb4)
