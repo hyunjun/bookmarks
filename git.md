@@ -48,6 +48,7 @@ Git
 * [윈도우버전 Git설치하기 (Git for Windows)](https://coding-factory.tistory.com/245)
 * [자바 기반의 GIT 관리 서버 (Windows GIT 서버 구축)](https://gs.saro.me/#!m=elec&jn=714)
 * [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
+* [🐙 Github에서 협업하는 방법](https://velog.io/@cos/Github%EC%97%90%EC%84%9C-%ED%98%91%EC%97%85%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * Git 내부 구조를 알아보자
   * [(0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
   * [(1) — 기본 오브젝트](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-1-%EA%B8%B0%EB%B3%B8-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-81b34f85fe53)
@@ -70,7 +71,6 @@ Git
 * [GitHub 실습 교육](http://www.slideshare.net/flyskykr/github-46014813)
 * [Git “Back to the Future”](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%B3%B4%EB%93%A4-git-back-to-the-future/)
 * [스타트업에서 개발 문화 만들기 (아직 진행중..)](https://brunch.co.kr/@kiyoungleefige/2)
-* [Git 100% 활용하기: 협업을 위한 브랜치 전략, 팁과 노하우](https://realm.io/kr/news/360andev-savvas-dalkitsis-using-git-like-a-pro/)
 * [Git repository for designers as you’ve never seen: Abstract (+ Sketch)](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1)
 * Gerrit을 이용한 코드 리뷰 시스템
   * [Gerrit과 Git](http://d2.naver.com/helloworld/1859580)
